@@ -5,7 +5,7 @@ export default ({ app }, inject) => {
   console.log(window.location, process.env.router.base)
   const baseUrl = window.location.hostname === 'localhost'
     ? window.location.origin
-    : `${window.location.origin}${process.env.router.base.slice(0,process.env.router.base.length-2)}`
+    : `${window.location.origin}${process.env.router.base.slice(0,process.env.router.base.length-1)}`
   app.store.dispatch('setBaseUrl', baseUrl )
   const settingsUrl = `${baseUrl}/settings.yaml`
   console.log('settingsUrl', settingsUrl)
