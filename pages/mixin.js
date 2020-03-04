@@ -45,6 +45,11 @@ export default {
               }
             }
           })
+          this.$refs[this.$options.name].querySelectorAll('img').forEach((img) => {
+            const parsedImgUrl = parseUrl(img.src)
+            console.log('parsedImgUrl', parsedImgUrl)
+            // img.src = `${this.baseurl}`
+          })
         }
       },
       getEssay(src) {
