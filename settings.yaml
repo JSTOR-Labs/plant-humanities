@@ -1,0 +1,24 @@
+title: Plan Humanities Visual Essays
+banner: https://picsum.photos/1200/225
+baseurl: https://ithaka.github.io/labs-ph-essays
+gh_path: https://ithaka.github.io/labs-ph-essays
+app_version: 0.1.0
+lib_version: 0.3.11
+context: null
+pages:
+  - path: /
+    label: Home
+    source: index.md
+    icon: mdi-home
+  - path: /about
+    label: About
+    source: about.md
+    icon: mdi-information
+  - path: /help
+    label: Help
+    source: https://jstor-labs.github.io/visual-essays/help.md
+    icon: mdi-help-circle
+  - path: /contact
+    label: Contact
+    source: contact.md
+    icon: mdi-contact-mail

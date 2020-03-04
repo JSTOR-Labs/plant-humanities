@@ -1,0 +1,23 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "Web site starter",
+  "author": "Ron Snyder",
+  "private": true,
+  "scripts": {
+    "dev": "DEPLOY_ENV=DEV nuxt",
+    "start": "nuxt start",
+    "build": "DEPLOY_ENV=GH_PAGES nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "css-element-queries": "^1.2.2",
+    "marked": "^0.8.0",
+    "nuxt": "^2.0.0",
+    "resize-sensor": "^0.0.6",
+    "yaml": "^1.7.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
