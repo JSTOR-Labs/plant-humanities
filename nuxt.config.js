@@ -4,6 +4,7 @@ const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES'
 
 export default {
   env: {
+    ...routerBase,
     deployEnv: process.env.DEPLOY_ENV || 'PROD',
     ve_service_endpoint: (process.env.DEPLOY_ENV || 'PROD') === 'DEV'
       ? 'http://localhost:5000'

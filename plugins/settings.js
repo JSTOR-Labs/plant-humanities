@@ -2,8 +2,8 @@ import axios from 'axios'
 import YAML from 'yaml'
 
 export default ({ app }, inject) => {
-  console.log(window.location)
-  const settingsUrl = `${window.location.origin}/settings.yaml`
+  console.log(window.location, process.env.router.base)
+  const settingsUrl = `${window.location.origin}${process.env.router.base}settings.yaml`
   console.log('settingsUrl', settingsUrl)
   axios.get(settingsUrl)
     .then(resp => resp.data)
