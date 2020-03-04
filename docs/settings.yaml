@@ -1,8 +1,5 @@
 title: Mysite starter
 banner: https://picsum.photos/1200/225
-app_version: 0.1.0
-lib_version: 0.3.12
-context: null
 pages:
   - path: /
     title: Home
@@ -20,3 +17,6 @@ pages:
     title: Contact
     source: contact.md
     icon: mdi-contact-mail
+context: null
+app_version: 0.1.0
+lib_version: 0.3.12
