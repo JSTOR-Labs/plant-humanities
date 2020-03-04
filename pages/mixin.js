@@ -23,7 +23,6 @@ export default {
     methods: {
       getStaticPage(page) {
         const pageUrl = page.source.indexOf('http') === 0 ? page.source : `${this.baseUrl}/${page.source}`
-        console.log(`getStaticPage=${pageUrl}`)
         return axios.get(pageUrl)
           .then(resp => this.$marked(resp.data))
           .then((html) => {
@@ -32,7 +31,6 @@ export default {
           })
       },
       updateLinks() {
-        console.log('updateLinks', this.$options.name)
         if (this.$refs[this.$options.name]) {
           this.$refs[this.$options.name].querySelectorAll('a').forEach((link) => {
             if (link.href) {
@@ -46,11 +44,9 @@ export default {
             }
           })
           this.$refs[this.$options.name].querySelectorAll('img').forEach((img) => {
-            console.dir(img)
             const parsedImgUrl = parseUrl(img.src)
-            console.log('parsedImgUrl', parsedImgUrl)
             if (parsedImgUrl.pathname.indexOf('/images/') === 0 && this.baseUrl.indexOf(parsedImgUrl.origin === 0)) {
-              img.src = `${this.baseurl}${parsedImgUrl.pathname}`
+              img.src = `${this.baseUrl}${parsedImgUrl.pathname}`
             }
           })
         }
