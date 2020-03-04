@@ -13,7 +13,7 @@
             <v-icon>{{page.icon}}</v-icon>
           </v-list-item-action>
           <v-list-item-content>    
-            <v-list-item-title>{{page.label}}</v-list-item-title>
+            <v-list-item-title>{{page.title}}</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
 
@@ -58,7 +58,7 @@
  
     <v-footer ref="footer" :fixed="fixed" app>
       <v-flex class="text-xs-left">
-        <span>&nbsp;v{{ app_version }} ({{ bundle_version }})</span>
+        <span>&nbsp;v{{ app_version }} ({{ bundleVersion }})</span>
       </v-flex>
     </v-footer>
 
@@ -77,21 +77,25 @@
       height: 600,
       bannerHeight: 600,
       essayTopMargin: 140,
-      app_version: process.env.app_version,
-      bundle_version: process.env.lib_version
+      app_version: process.env.app_version
     }),
     computed: {
-      logMessages() { return this.$store.getters.logMessages },
       viewport() { return this.$store.getters.viewport },
       spacerHeight() { return this.$store.getters.spacerHeight },
-      title() { return this.$store.getters.title || process.env.site_title },
-      banner() { return this.$store.getters.banner || process.env.banner },
-      pages() { return this.$store.getters.pages }
+      title() { return this.$store.getters.title || this.$store.getters.siteTitle },
+      banner() { return this.$store.getters.banner || this.$store.getters.siteBanner },
+      pages() { return this.$store.getters.pages },
+      bundleVersion() { return this.$store.getters.bundleVersion }
     },
     mounted() {
       this.bannerHeight = this.viewport.height * .25 
       this.essayTopMargin = this.bannerHeight
       this.height = this.viewport.height - this.bannerHeight - this.spacerHeight - 36
+      const libJS = document.createElement('script')
+      libJS.setAttribute('src', window.location.hostname === 'localhost'
+        ? 'http://localhost:8080/lib/visual-essays.js'
+        : `https://jstor-labs.github.io/visual-essays/lib/visual-essays-${this.bundleVersion}.min.js`)
+      document.body.appendChild(libJS)
     },
     watch: {
       viewport: {

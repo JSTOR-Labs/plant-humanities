@@ -9,20 +9,26 @@ export default {
     computed: {
       html() { return this.$store.getters.html },
       baseUrl() { return this.$store.getters.baseUrl },
+      pages() { return this.$store.getters.pages },
       staticPagePaths() {
         const paths = new Set()
         this.$store.getters.pages.forEach(page => paths.add(page.path))
-        console.log(paths)
         return paths
       }
     },
+    beforeDestroy() {
+      console.log('beforeDestroy', this.$route)
+    },
     created() {
-      this.$store.dispatch('setTitle', process.env.site_title)
-      this.$store.dispatch('setBanner', process.env.banner_image)
+      if (this.$route.path.indexOf('/essay/') < 0) {
+        // this.$store.dispatch('setTitle', process.env.site_title)
+        this.$store.dispatch('setBanner', this.$store.getters.defaultTitle)
+      }
     },
     methods: {
       getStaticPage(page) {
         const pageUrl = page.source.indexOf('http') === 0 ? page.source : `${this.baseUrl}/${page.source}`
+        console.log('getStaticPage', page, pageUrl)
         return axios.get(pageUrl)
           .then(resp => this.$marked(resp.data))
           .then((html) => {
@@ -63,7 +69,6 @@ export default {
       },
       onLoaded() {
         const essayElem = document.getElementById('visual-essay')
-        console.log('onLoaded', essayElem)
         if (essayElem) {
           const _this = this
           new ResizeSensor(essayElem, function() {
@@ -71,7 +76,6 @@ export default {
             _this.$store.dispatch('setSpacerHeight', essaySpacer ? essaySpacer.clientHeight : 0)
           })
           // get essay metadata
-          console.log('onLoaded', window.data)
           if (!window.data) {
             const jsonld = essayElem.querySelectorAll('script[type="application/ld+json"]')
             if (jsonld.length > 0) {

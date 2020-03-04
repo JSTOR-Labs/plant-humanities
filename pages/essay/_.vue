@@ -18,7 +18,14 @@ export default {
   mounted() {
     console.log('essay', this.$route)
     window.scrollTo(0, 0)
-    this.getEssay(`${this.baseUrl}/${this.$route.params.pathMatch}.md`)
+    if (this.pages) {
+      this.getEssay(`${this.baseUrl}/${this.$route.params.pathMatch}.md`)
+    }
+  },
+  watch: {
+    pages() {
+      this.getEssay(`${this.baseUrl}/${this.$route.params.pathMatch}.md`)
+    }
   }
 }
 </script>

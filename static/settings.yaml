@@ -1,0 +1,24 @@
+title: Mysite starter
+banner: https://picsum.photos/1200/225
+baseurl: https://jstor-labs.github.io/mysite
+gh_path: https://jstor-labs.github.io/mysite
+app_version: 0.1.0
+lib_version: 0.3.11
+context: null
+pages:
+  - path: /
+    title: Home
+    source: index.md
+    icon: mdi-home
+  - path: /about
+    title: About
+    source: about.md
+    icon: mdi-information
+  - path: /help
+    title: Help
+    source: https://jstor-labs.github.io/visual-essays/help.md
+    icon: mdi-help-circle
+  - path: /contact
+    title: Contact
+    source: contact.md
+    icon: mdi-contact-mail

@@ -7,18 +7,18 @@ lib_version: 0.3.11
 context: null
 pages:
   - path: /
-    label: Home
+    title: Home
     source: index.md
     icon: mdi-home
   - path: /about
-    label: About
+    title: About
     source: about.md
     icon: mdi-information
   - path: /help
-    label: Help
+    title: Help
     source: https://jstor-labs.github.io/visual-essays/help.md
     icon: mdi-help-circle
   - path: /contact
-    label: Contact
+    title: Contact
     source: contact.md
     icon: mdi-contact-mail
