@@ -3,7 +3,7 @@ import YAML from 'yaml'
 
 export default ({ app }, inject) => {
   console.log(window.location)
-  axios.get('/settings.yaml')
+  axios.get(`${window.location.href}settings.yaml`)
     .then(resp => resp.data)
     .then(yaml => {
       const settings = YAML.parse(yaml)
