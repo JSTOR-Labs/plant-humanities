@@ -91,11 +91,6 @@
       this.bannerHeight = this.viewport.height * .25 
       this.essayTopMargin = this.bannerHeight
       this.height = this.viewport.height - this.bannerHeight - this.spacerHeight - 36
-      const libJS = document.createElement('script')
-      libJS.setAttribute('src', window.location.hostname === 'localhost'
-        ? 'http://localhost:8080/lib/visual-essays.js'
-        : `https://jstor-labs.github.io/visual-essays/lib/visual-essays-${this.bundleVersion}.min.js`)
-      document.body.appendChild(libJS)
     },
     watch: {
       viewport: {
@@ -104,6 +99,18 @@
             this.bannerHeight = this.viewport.height * .25 
             this.essayTopMargin = this.bannerHeight
             this.height = this.viewport.height - this.bannerHeight - this.spacerHeight - 36
+          }
+        },
+        immediate: true
+      },
+      bundleVersion: {
+        handler: function (bundleVersion) {
+          if (bundleVersion) {
+            const libJS = document.createElement('script')
+            libJS.setAttribute('src', window.location.hostname === 'localhost'
+              ? 'http://localhost:8080/lib/visual-essays.js'
+              : `https://jstor-labs.github.io/visual-essays/lib/visual-essays-${bundleVersion}.min.js`)
+            document.body.appendChild(libJS)
           }
         },
         immediate: true
