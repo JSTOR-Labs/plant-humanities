@@ -46,9 +46,12 @@ export default {
             }
           })
           this.$refs[this.$options.name].querySelectorAll('img').forEach((img) => {
+            console.dir(img)
             const parsedImgUrl = parseUrl(img.src)
             console.log('parsedImgUrl', parsedImgUrl)
-            // img.src = `${this.baseurl}`
+            if (img.src.indexOf('/images/') === 0) {
+              img.src = `${this.baseurl}${parsedImgUrl.pathname}`
+            }
           })
         }
       },
