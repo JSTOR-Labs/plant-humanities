@@ -1,7 +1,7 @@
-title: Plan Humanities Visual Essays
+title: Mysite starter
 banner: https://picsum.photos/1200/225
-baseurl: https://ithaka.github.io/labs-ph-essays
-gh_path: https://ithaka.github.io/labs-ph-essays
+baseurl: https://jstor-labs.github.io/mysite
+gh_path: https://jstor-labs.github.io/mysite
 app_version: 0.1.0
 lib_version: 0.3.11
 context: null
