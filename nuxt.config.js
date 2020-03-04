@@ -1,11 +1,6 @@
-import fs from 'fs'
-import YAML from 'yaml'
-
-const SETTINGS = YAML.parse(fs.readFileSync('./static/settings.yaml', 'utf8'))
-
-const routerBase = {
-  'GH_PAGES': { router: { base: ghPagesPath(SETTINGS.gh_path) } }
-}[process.env.DEPLOY_ENV] || { router: { base: '/' } }
+const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES'
+  ? { router: { base: '/mysite/' } } 
+  : { router: { base: '/' } }
 
 export default {
   env: {
@@ -24,7 +19,7 @@ export default {
       { hid: 'description', name: 'description', content: 'Visual Essays' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: `${routerBase}favicon.ico` }
+      { rel: 'icon', type: 'image/x-icon', href: `${routerBase.router.base}favicon.ico` }
     ]
   },
   plugins: [
@@ -42,9 +37,4 @@ export default {
     dir: 'docs',
     fallback: true,
   }
-}
-
-function ghPagesPath(path) {
-  const elems = path.split('/')
-  return `/${elems[elems.length-1]}/`
 }
