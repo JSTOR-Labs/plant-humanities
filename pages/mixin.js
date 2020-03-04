@@ -49,7 +49,7 @@ export default {
             console.dir(img)
             const parsedImgUrl = parseUrl(img.src)
             console.log('parsedImgUrl', parsedImgUrl)
-            if (img.src.indexOf('/images/') === 0) {
+            if (parsedImgUrl.pathname.indexOf('/images/') === 0 && this.baseUrl.indexOf(parsedImgUrl.origin === 0)) {
               img.src = `${this.baseurl}${parsedImgUrl.pathname}`
             }
           })
