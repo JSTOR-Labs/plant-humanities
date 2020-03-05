@@ -19,8 +19,7 @@ export default {
     },
     methods: {
       getStaticPage(source) {
-        // const pageUrl = source.indexOf('http') === 0 ? page.source : `${this.baseUrl}/${page.source}`
-        const pageUrl = `${this.baseUrl}/${source}`
+        const pageUrl = source.indexOf('http') === 0 ? source : `${this.baseUrl}/${source}`
         console.log('getStaticPage', pageUrl)
         return axios.get(pageUrl)
           .then(resp => this.$marked(resp.data))
@@ -35,7 +34,12 @@ export default {
       addStaticPageMetadata() {
         console.log('addStaticPageMetadata')
         this.$refs[this.$options.name].querySelectorAll('var').forEach((item) => {
-          console.log(item)
+          if (item.title) {
+            this.$store.dispatch('setTitle', item.title)
+          }
+          if (item.dataset.banner) {
+            this.$store.dispatch('setBanner', item.dataset.banner)
+          }  
         })
       },
       updateLinks() {
@@ -104,7 +108,8 @@ export default {
               }
               if (item.banner) {
                 this.$store.dispatch('setBanner', item.banner)
-              }          }
+              }          
+            }
           })
         } else {
           setTimeout(() => { this.addEssayMetadata() }, 1000)
