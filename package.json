@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "rsync -va docs/*.md static; DEPLOY_ENV=DEV nuxt",
     "start": "nuxt start",
-    "build": "DEPLOY_ENV=GH_PAGES nuxt generate; rm -rf ../docs/_nuxt; rsync -va dist/ docs"
+    "build": "DEPLOY_ENV=GH_PAGES nuxt generate; rm -rf ../docs/_nuxt; rsync -va --exclude=*.md --exclude=settings.yaml dist/ docs"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",

@@ -1,5 +1,10 @@
+import fs from 'fs'
+import YAML from 'yaml'
+
+const SETTINGS = YAML.parse(fs.readFileSync('./docs/settings.yaml', 'utf8'))
+
 const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES'
-  ? { router: { base: '/mysite/' } } 
+  ? { router: { base: `/${SETTINGS.gh_repo}/` } } 
   : { router: { base: '/' } }
 
 export default {
