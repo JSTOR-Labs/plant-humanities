@@ -17,7 +17,7 @@ navigation:
     title: Contact
     source: contact.md
     icon: mdi-contact-mail
-gh-repo: plant-humanities
+gh_repo: plant-humanities
 context: null
 app_version: 0.1.0
 lib_version: 0.3.12
