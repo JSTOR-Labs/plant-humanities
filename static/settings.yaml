@@ -9,6 +9,10 @@ navigation:
     title: About
     source: about.md
     icon: mdi-information
+  - path: /essays
+    title: Essays
+    source: essays.md
+    icon: mdi-file-document-outline
   - path: /help
     title: Help
     source: https://jstor-labs.github.io/visual-essays/help.md
