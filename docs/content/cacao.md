@@ -1,6 +1,6 @@
 <var data-essay
      title="Cacao: An indigenous network and global commodity"
-     data-banner="/images/Dumbarton_Oaks.jpg"
+     data-banner="/images/cacao.jpg"
      data-debug="false"></var>
      
 <var title="Americas" id="Q828" data-aliases="New World"></var>

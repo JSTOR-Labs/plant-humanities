@@ -15,7 +15,7 @@ navigation:
     icon: mdi-file-document-outline
   - path: /help
     title: Help
-    source: https://jstor-labs.github.io/visual-essays/help.md
+    source: help.md
     icon: mdi-help-circle
   - path: /contact
     title: Contact

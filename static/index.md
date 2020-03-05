@@ -1,5 +1,3 @@
-## Index
-
 [About](/about)
 
 [Cherries essay](/essay/cherries)

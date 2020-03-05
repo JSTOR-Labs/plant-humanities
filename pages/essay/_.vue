@@ -22,12 +22,12 @@ export default {
   mounted() {
     window.scrollTo(0, 0)
     if (this.settingsLoaded) {
-      this.getEssay(`${this.baseUrl}/${this.$route.params.pathMatch}.md`)
+      this.getEssay(`${this.baseUrl}/content/${this.$route.params.pathMatch}.md`)
     }
   },
   watch: {
     settingsLoaded() {
-      this.getEssay(`${this.baseUrl}/${this.$route.params.pathMatch}.md`)
+      this.getEssay(`${this.baseUrl}/content/${this.$route.params.pathMatch}.md`)
     }
   }
 }

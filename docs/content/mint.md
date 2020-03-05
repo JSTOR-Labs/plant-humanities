@@ -1,6 +1,6 @@
 <var data-essay
      title="The ubiquity of mint: exploring plant mythology, naming and commercial value"
-     data-banner="/images/Dumbarton_Oaks.jpg"
+     data-banner="/images/mint.jpg"
      data-debug="false"></var>
      
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>

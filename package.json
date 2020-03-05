@@ -5,7 +5,7 @@
   "author": "Ron Snyder",
   "private": true,
   "scripts": {
-    "dev": "rsync -va docs/*.md docs/settings.yaml docs/images static; DEPLOY_ENV=DEV nuxt",
+    "dev": "rsync -va  docs/settings.yaml docs/*.md docs/content docs/images static; DEPLOY_ENV=DEV nuxt",
     "start": "nuxt start",
     "build": "DEPLOY_ENV=GH_PAGES nuxt generate; rm -rf ../docs/_nuxt; rsync -va --exclude=*.md --exclude=settings.yaml dist/ docs"
   },
