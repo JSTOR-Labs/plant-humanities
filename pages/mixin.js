@@ -53,7 +53,7 @@ export default {
               if (this.baseUrl.indexOf(parsedUrl.origin) === 0) {
                 link.removeAttribute('href')
                 link.addEventListener('click', (e) => {
-                  this.$router.push(parsedUrl.pathname)
+                  this.$router.push({ path: parsedUrl.pathname, query: parseQueryString(parsedUrl.search) })
                 }) 
               }
             }
@@ -132,3 +132,33 @@ function parseUrl (href) {
       hash: match[7]
     }
   }
+
+function parseQueryString(queryString) {
+    queryString = queryString || window.location.search
+    const dictionary = {}
+    try {
+      if (queryString.indexOf('?') === 0) {
+        queryString = queryString.substr(1)
+      }
+      const parts = queryString.split('&')
+      for (let i = 0; i < parts.length; i++) {
+        const p = parts[i]
+        const keyValuePair = p.split('=')
+        if (keyValuePair[0] !== '') {
+          const key = keyValuePair[0]
+          if (keyValuePair.length === 2) {
+            let value = keyValuePair[1]
+            // decode URI encoded string
+            value = decodeURIComponent(value)
+            value = value.replace(/\+/g, ' ')
+            dictionary[key] = value
+          } else {
+            dictionary[key] = 'true'
+          }
+        }
+      }
+    } catch (err) {
+      console.log(err)
+    }
+    return dictionary
+}

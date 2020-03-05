@@ -17,6 +17,10 @@ navigation:
     title: Help
     source: help.md
     icon: mdi-help-circle
+  - path: /resources
+    title: Resources
+    source: resources.md
+    icon: mdi-library
   - path: /contact
     title: Contact
     source: contact.md

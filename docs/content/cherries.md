@@ -1,5 +1,3 @@
-<!-- gdid=1Q1wFEfiRqfgRT65SztFCjIhC2A7MT-AC -->
-[view](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1Q1wFEfiRqfgRT65SztFCjIhC2A7MT-AC)
 <!--
 <var data-component
 data-name="entity"

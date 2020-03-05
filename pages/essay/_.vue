@@ -22,6 +22,7 @@ export default {
   mounted() {
     window.scrollTo(0, 0)
     if (this.settingsLoaded) {
+      console.log(this.$route)
       this.getEssay(`${this.baseUrl}/content/${this.$route.params.pathMatch}.md`)
     }
   },
