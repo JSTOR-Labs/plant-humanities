@@ -6,7 +6,8 @@ This page provides links, overviews and howto information for some helpful resou
  
  In the screen shot below the rectification process is depicted in the MapWarper tool.  Pins are used to associate reference points in the historical map in the left pane with points on the spatial map in the right pane. 
  
-<img src="images/MapWarper_rectify.jpg" alt="MapWarper rectify" width="250"/>
+<img src="images/MapWarper_rectify.jpg" alt="MapWarper rectify" width="400"/>
+
 
 ### Geojson.io
 
