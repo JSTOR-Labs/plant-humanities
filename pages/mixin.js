@@ -9,39 +9,44 @@ export default {
     computed: {
       html() { return this.$store.getters.html },
       baseUrl() { return this.$store.getters.baseUrl },
-      pages() { return this.$store.getters.pages },
-      staticPagePaths() {
+      navMenuItems() { return this.$store.getters.navigation },
+      navPaths() {
         const paths = new Set()
-        this.$store.getters.pages.forEach(page => paths.add(page.path))
+        this.navMenuItems.forEach(menuItem => paths.add(menuItem.path))
         return paths
-      }
-    },
-    beforeDestroy() {
-      console.log('beforeDestroy', this.$route)
-    },
-    created() {
-      if (this.$route.path.indexOf('/essay/') < 0) {
-        // this.$store.dispatch('setTitle', process.env.site_title)
-        this.$store.dispatch('setBanner', this.$store.getters.defaultTitle)
-      }
+      },
+      settingsLoaded() { return this.$store.getters.settingsLoaded },
     },
     methods: {
-      getStaticPage(page) {
-        const pageUrl = page.source.indexOf('http') === 0 ? page.source : `${this.baseUrl}/${page.source}`
-        console.log('getStaticPage', page, pageUrl)
+      getStaticPage(source) {
+        // const pageUrl = source.indexOf('http') === 0 ? page.source : `${this.baseUrl}/${page.source}`
+        const pageUrl = `${this.baseUrl}/${source}`
+        console.log('getStaticPage', pageUrl)
         return axios.get(pageUrl)
           .then(resp => this.$marked(resp.data))
           .then((html) => {
             this.$store.dispatch('setHtml', html)
-            this.$nextTick(() => { this.updateLinks() })
+            this.$nextTick(() => {
+              this.addStaticPageMetadata()
+              this.updateLinks()
+            })
           })
+      },
+      addStaticPageMetadata() {
+        console.log('addStaticPageMetadata')
+        this.$refs[this.$options.name].querySelectorAll('var').forEach((item) => {
+          console.log(item)
+        })
       },
       updateLinks() {
         if (this.$refs[this.$options.name]) {
           this.$refs[this.$options.name].querySelectorAll('a').forEach((link) => {
             if (link.href) {
               const parsedUrl = parseUrl(link.href)
-              if (this.staticPagePaths.has(parsedUrl.pathname) || parsedUrl.pathname.indexOf('/essay/') === 0) {
+              console.dir(parsedUrl)
+              console.log(this.baseUrl)
+              // if (this.navPaths.has(parsedUrl.pathname) || parsedUrl.pathname.indexOf('/essay/') === 0) {
+              if (this.baseUrl.indexOf(parsedUrl.origin) === 0) {
                 link.removeAttribute('href')
                 link.addEventListener('click', (e) => {
                   this.$router.push(parsedUrl.pathname)
@@ -84,13 +89,13 @@ export default {
               })
             }
           }
-          this.addMetadata()
+          this.addEssayMetadata()
           this.updateLinks()
         } else {
           setTimeout(() => { this.onLoaded() }, 1000)
         }
       },
-      addMetadata() {
+      addEssayMetadata() {
         if (window.data) {
           window.data.forEach((item) => {
             if (item.type === 'essay') {
@@ -102,7 +107,7 @@ export default {
               }          }
           })
         } else {
-          setTimeout(() => { this.addMetadata() }, 1000)
+          setTimeout(() => { this.addEssayMetadata() }, 1000)
         }
       }
     }

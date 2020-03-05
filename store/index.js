@@ -10,11 +10,13 @@ const state = {
   siteBanner: undefined,
   title: undefined,
   banner: undefined,
+  navigation: undefined,
   html: undefined,
-  pages: undefined,
   viewport: null,
   spacerHeight: 0,
-  bundleVersion: undefined
+  appVersion: undefined,
+  bundleVersion: undefined,
+  settingsLoaded: false
 }
 
 const mutations = {
@@ -23,12 +25,14 @@ const mutations = {
   setSiteTitle(state, siteTitle) { state.siteTitle = siteTitle },
   setSiteBanner(state, siteBanner) { state.siteBanner = siteBanner },
   setTitle(state, title) { state.title = title },
-  setBanner(state, banner) { state.banner = banner },
+  setBanner(state, banner) { state.banner = banner},
+  setNavigation(state, navigation) { state.navigation = navigation },
   setHtml(state, html) { state.html = html },
-  setPages(state, pages) { state.pages = pages },
   setViewport(state, viewport) { state.viewport = viewport },
   setSpacerHeight(state, height) { state.spacerHeight = height },
-  setBundleVersion(state, version) { state.bundleVersion = version }
+  setAppVersion(state, appVersion) { state.appVersion = appVersion },
+  setBundleVersion(state, bundleVersion) { state.bundleVersion = bundleVersion },
+  setSettingsLoaded(state, loaded) { state.settingsLoaded = loaded }
 }
 
 const actions = {
@@ -42,10 +46,12 @@ const actions = {
   setSiteBanner: ({ commit }, siteBanner) => commit('setSiteBanner', siteBanner),
   setTitle: ({ commit }, title) => commit('setTitle', title),
   setBanner: ({ commit }, banner) => commit('setBanner', banner),
+  setNavigation: ({ commit }, navigation) => commit('setNavigation', navigation),
   setHtml: ({ commit }, html) => commit('setHtml', html),
-  setPages: ({ commit }, pages) => commit('setPages', pages),
   setSpacerHeight: ({ commit }, height) => commit('setSpacerHeight', height),
-  setBundleVersion: ({ commit }, version) => commit('setBundleVersion', version),
+  setAppVersion: ({ commit }, appVersion) => commit('setAppVersion', appVersion),
+  setBundleVersion: ({ commit }, bundleVersion) => commit('setBundleVersion', bundleVersion),
+  setSettingsLoaded: ({ commit }, loaded) => commit('setSettingsLoaded', loaded)
 }
 
 const getters = {
@@ -55,11 +61,13 @@ const getters = {
   siteBanner: state => state.siteBanner,
   title: state => state.title,
   banner: state => state.banner,
-  pages: state => state.pages,
+  navigation: state => state.navigation,
   html: state => state.html,
   viewport: state => state.viewport,
   spacerHeight: state => state.spacerHeight,
-  bundleVersion: state => state.bundleVersion
+  appVersion: state => state.appVersion,
+  bundleVersion: state => state.bundleVersion,
+  settingsLoaded: state => state.settingsLoaded
 }
 
 export default () => new Vuex.Store({

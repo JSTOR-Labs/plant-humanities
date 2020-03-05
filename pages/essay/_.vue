@@ -15,15 +15,18 @@ export default {
   },
   name: 'essay',
   mixins: [ Mixin ],
+  created() {
+    console.log('essay.created')
+    this.$store.dispatch('setBanner', undefined)
+  },
   mounted() {
-    console.log('essay', this.$route)
     window.scrollTo(0, 0)
-    if (this.pages) {
+    if (this.settingsLoaded) {
       this.getEssay(`${this.baseUrl}/${this.$route.params.pathMatch}.md`)
     }
   },
   watch: {
-    pages() {
+    settingsLoaded() {
       this.getEssay(`${this.baseUrl}/${this.$route.params.pathMatch}.md`)
     }
   }

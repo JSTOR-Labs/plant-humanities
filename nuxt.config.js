@@ -35,7 +35,7 @@ export default {
     '@nuxtjs/axios',
   ],
   generate: {
-    dir: 'docs',
+    dir: 'dist',
     fallback: true,
   }
 }

@@ -1,6 +1,6 @@
 title: Mysite
 banner: https://picsum.photos/1200/225
-pages:
+navigation:
   - path: /
     title: Home
     source: index.md

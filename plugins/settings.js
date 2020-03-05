@@ -17,7 +17,9 @@ export default ({ app }, inject) => {
       document.title = settings.title
       app.store.dispatch('setSiteTitle', settings.title )
       app.store.dispatch('setSiteBanner', settings.banner )
-      app.store.dispatch('setPages', settings.pages )
+      app.store.dispatch('setNavigation', settings.navigation )
+      app.store.dispatch('setAppVersion', settings.app_version )
       app.store.dispatch('setBundleVersion', settings.lib_version )
+      app.store.dispatch('setSettingsLoaded', true )
     })
   }

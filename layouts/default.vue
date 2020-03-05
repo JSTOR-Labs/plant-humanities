@@ -6,14 +6,14 @@
 
         <v-list-item 
           nuxt
-          v-for="page in pages" :key="page.path"
+          v-for="menuItem in navigation" :key="menuItem.path"
           @click="drawer=false"
-          :to="page.path">
+          :to="menuItem.path">
           <v-list-item-action>
-            <v-icon>{{page.icon}}</v-icon>
+            <v-icon>{{menuItem.icon}}</v-icon>
           </v-list-item-action>
           <v-list-item-content>    
-            <v-list-item-title>{{page.title}}</v-list-item-title>
+            <v-list-item-title>{{menuItem.title}}</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
 
@@ -58,7 +58,7 @@
  
     <v-footer ref="footer" :fixed="fixed" app>
       <v-flex class="text-xs-left">
-        <span>&nbsp;v{{ app_version }} ({{ bundleVersion }})</span>
+        <span>&nbsp;v{{ appVersion }} ({{ bundleVersion }})</span>
       </v-flex>
     </v-footer>
 
@@ -83,8 +83,9 @@
       viewport() { return this.$store.getters.viewport },
       spacerHeight() { return this.$store.getters.spacerHeight },
       title() { return this.$store.getters.title || this.$store.getters.siteTitle },
-      banner() { return this.$store.getters.banner || this.$store.getters.siteBanner },
-      pages() { return this.$store.getters.pages },
+      banner() { return this.$store.getters.banner },
+      navigation() { return this.$store.getters.navigation },
+      appVersion() { return this.$store.getters.appVersion },
       bundleVersion() { return this.$store.getters.bundleVersion }
     },
     mounted() {
