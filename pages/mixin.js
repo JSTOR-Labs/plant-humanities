@@ -107,7 +107,8 @@ export default {
                 this.$store.dispatch('setTitle', item.title)
               }
               if (item.banner) {
-                this.$store.dispatch('setBanner', item.banner)
+                const imageUrl = item.banner.indexOf('/images/') === 0 ? `${this.baseUrl}${item.banner}` : item.banner
+                this.$store.dispatch('setBanner', imageUrl)
               }          
             }
           })
