@@ -8,7 +8,7 @@ This page provides links, overviews and howto information for some helpful resou
  
 <p align="center">
 	<img src="images/MapWarper_rectify.jpg" style="width:100%;max-width:800px"><br/>
-	<small>MapWarper rectify example</small>
+	<b>MapWarper rectify example</b>
 </p>
 
 ### Geojson.io
