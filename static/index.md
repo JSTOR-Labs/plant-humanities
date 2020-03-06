@@ -1,9 +1,2 @@
-[About](/about)
+Welcome to the ***Plant Humanities*** visual essays prototype site.  This site provides tools for tagging and viewing textual narratives.  The tagged narratives enable interactive visualizations that augment the textual content with maps, videos, and hi-resolution images.  This site has been developed in support of the [*Plant Humanities Initiative*](https://labs.jstor.org/planthumanities/), a collaboration between [Dumbarton Oaks](https://www.doaks.org/) and [JSTOR Labs](https://labs.jstor.org), generously funded by [The Andrew W. Mellon Foundation](https://mellon.org/).
 
-[Cherries essay](/essay/cherries)
-
-[Test static page](/test)
-
-![alt text](/images/wormhole.jpeg  "Test image")
-
-[Scroll test](/about#entities)

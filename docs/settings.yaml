@@ -1,5 +1,5 @@
 title: Plant Humanities
-banner: images/Dumbarton_Oaks.jpg
+banner: images/header.jpg
 navigation:
   - path: /
     title: Home
@@ -8,11 +8,11 @@ navigation:
     title: About
     icon: mdi-information
   - path: /essays
-    title: Essays
+    title: Visual Essays
     icon: mdi-file-document-outline
   - path: /help
     title: Help
-    source: https://jstor-labs.github.io/visual-essays/help.md
+    #source: https://jstor-labs.github.io/visual-essays/help.md
     icon: mdi-help-circle
   - path: /resources
     title: Resources
@@ -22,5 +22,5 @@ navigation:
     icon: mdi-contact-mail
 gh_repo: plant-humanities
 context: null
-app_version: 0.1.0
+app_version: 0.2.0
 lib_version: 0.3.13

@@ -1,6 +1,4 @@
-[Cherries sample essay (horizontal layout)](/essay/cherries?layout=horizontal)
-
-[Cherries sample essay (vertical layout)](/essay/cherries?layout=vertical)
+[Cherries sample essay](/essay/cherries) [(vertical layout)](/essay/cherries?layout=vertical)
 
 [Arbor Vitæ, the tree of life](/essay/arbor_vitae)
 

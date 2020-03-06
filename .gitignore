@@ -91,3 +91,7 @@ sw.*
 
 static/*.md
 
+static/images
+static/content
+static/settings.yaml
+static/favicon.ico
