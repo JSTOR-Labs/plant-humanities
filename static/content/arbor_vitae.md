@@ -119,11 +119,3 @@ Sadly, we may never know for sure exactly which tree was used to make a medicina
 [^ref8]: Ibid.
 [^ref9]: Bauhin’s 1598 herbal is actually an edited and expanded edition of Mattioli’s seminal work, *Discorsi*. Arbor vitæ tree does not appear in Mattioli’s original herbal.
 [^ref10]: James Lind. *A Treatise on the Scurvy: In Three Parts, Containing an Inquiry Into the Nature, Causes, an Cure, of that Disease, Together with a Critical and Chronological View of what Has Been Published on the Subject.* S. Crowder [and six others], 3rd ed., 1772.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Njg5NDE1OCw1MDAyNjQyMzgsMTQ5ND
-A4MTEwMCwxNDc0MTU4Nzc2LC0xNTE2MDc5NDc1LC05NTg0OTY0
-NjAsODE3NzU2MDIwLDExOTI4MDcwMDUsMzY3OTY1MTksLTk1NT
-A1NDc1MCwtMTk5MjMzMzgzNiwtNzE1MzkyNTgwLC0xOTkyMzMz
-ODM2LDk2NDIzNjE2MiwtOTM5NTgyOTUxLDEwNzg0NzkzMTksLT
-UxNjc2Nzg1OSwtNjUyMDMxNjI1LDMxMDQwMDE5MV19
--->

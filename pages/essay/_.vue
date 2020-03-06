@@ -10,26 +10,12 @@
 import Mixin from '../mixin'
 
 export default {
-  validate ({ params }) {
-    return true
-  },
+  // validate ({ params }) { return true },
   name: 'essay',
   mixins: [ Mixin ],
-  created() {
-    console.log('essay.created')
-    this.$store.dispatch('setBanner', undefined)
-  },
   mounted() {
-    window.scrollTo(0, 0)
-    if (this.settingsLoaded) {
-      console.log(this.$route)
-      this.getEssay(`${this.baseUrl}/content/${this.$route.params.pathMatch}.md`)
-    }
-  },
-  watch: {
-    settingsLoaded() {
-      this.getEssay(`${this.baseUrl}/content/${this.$route.params.pathMatch}.md`)
-    }
+    this.$store.dispatch('setBanner', undefined)
+    this.getEssay(this.$route)
   }
 }
 </script>

@@ -18,9 +18,10 @@ export default {
       settingsLoaded() { return this.$store.getters.settingsLoaded },
     },
     methods: {
-      getStaticPage(source) {
-        const pageUrl = source.indexOf('http') === 0 ? source : `${this.baseUrl}/${source}`
-        console.log('getStaticPage', pageUrl)
+      getStaticPage(route) {
+        const source = route.path === '/' ? '/index.md' : `${route.path}.md`
+        const pageUrl = `${this.baseUrl}/${source}`
+        // const pageUrl = source.indexOf('http') === 0 ? source : `${this.baseUrl}/${source}`
         return axios.get(pageUrl)
           .then(resp => this.$marked(resp.data))
           .then((html) => {
@@ -28,32 +29,42 @@ export default {
             this.$nextTick(() => {
               this.addStaticPageMetadata()
               this.updateLinks()
+              if (route.hash.length > 1) {
+                // Scroll to element position
+                this.scrollToElem(route.hash.slice(1))
+              }
             })
           })
       },
+      scrollToElem(elemId) {
+        const scrollToElem = document.getElementById(elemId)
+        if (scrollToElem) {
+          const header = document.querySelector('header')
+          // const scrollTo = scrollToElem.offsetTop - (header ? header.offsetHeight : 0)
+          const scrollTo = scrollToElem.offsetTop - 56
+          document.getElementById('scrollableContent').scrollTo(0, scrollTo)
+        }
+      },
       addStaticPageMetadata() {
-        console.log('addStaticPageMetadata')
-        this.$refs[this.$options.name].querySelectorAll('var').forEach((item) => {
-          if (item.title) {
-            this.$store.dispatch('setTitle', item.title)
-          }
-          if (item.dataset.banner) {
-            this.$store.dispatch('setBanner', item.dataset.banner)
-          }  
-        })
+        const pageConfig = Array.from(this.$refs[this.$options.name].querySelectorAll('var'))
+          .find(varElem => varElem.dataset.page !== undefined)
+        this.$store.dispatch('setTitle', pageConfig ? pageConfig.title : undefined || this.$store.getters.siteTitle )
+        this.$store.dispatch('setBanner', pageConfig ? pageConfig.dataset.banner : undefined  || this.$store.getters.siteBanner )
       },
       updateLinks() {
         if (this.$refs[this.$options.name]) {
           this.$refs[this.$options.name].querySelectorAll('a').forEach((link) => {
             if (link.href) {
               const parsedUrl = parseUrl(link.href)
-              console.dir(parsedUrl)
-              console.log(this.baseUrl)
               // if (this.navPaths.has(parsedUrl.pathname) || parsedUrl.pathname.indexOf('/essay/') === 0) {
               if (this.baseUrl.indexOf(parsedUrl.origin) === 0) {
                 link.removeAttribute('href')
                 link.addEventListener('click', (e) => {
-                  this.$router.push({ path: parsedUrl.pathname, query: parseQueryString(parsedUrl.search) })
+                  this.$router.push({
+                    path: parsedUrl.pathname,
+                    query: parseQueryString(parsedUrl.search),
+                    hash: parsedUrl.hash
+                  })
                 }) 
               }
             }
@@ -66,7 +77,8 @@ export default {
           })
         }
       },
-      getEssay(src) {
+      getEssay(route) {
+        const src = `${this.baseUrl}/content/${route.params.pathMatch}.md`
         window.data = undefined
         let url = `${process.env.ve_service_endpoint}/essay?src=${encodeURIComponent(src)}&nocss`
         if (process.env.context) {
@@ -84,6 +96,7 @@ export default {
             const essaySpacer = document.getElementById('essay-spacer')
             _this.$store.dispatch('setSpacerHeight', essaySpacer ? essaySpacer.clientHeight : 0)
           })
+          window.scrollTo(0, 0)
           // get essay metadata
           if (!window.data) {
             const jsonld = essayElem.querySelectorAll('script[type="application/ld+json"]')

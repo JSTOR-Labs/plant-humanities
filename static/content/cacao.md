@@ -117,9 +117,3 @@ The political and economic powers of Europe took note of these early accounts of
 [^ref18]: McAnany, P., & Muruta, S. (2009). From Chocolate Pots To Maya Gold: Belizean Cacao Farmers Through the Ages. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 21). University Press of Florida.
 
 [^ref19]: McNeil, C. (2009). Traditional Cacao Use in Modern Mesoamerica. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 17). University Press of Florida.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTQxODg4MSwtMTAxNjEwOTAxNSwyOD
-I5OTU5NzksLTEwMTYxMDkwMTUsMjgyOTk1OTc5LC0xMDE2MTA5
-MDE1LC0yMTI1NTQ1ODQzLDE0NzU4ODUzOSwtMzMwNDE5Njc0XX
-0=
--->
