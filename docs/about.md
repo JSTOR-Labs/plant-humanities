@@ -1,4 +1,4 @@
-<var data-page title="About" data-banner="/images/Dumbarton_Oaks.jpg"></var>
+<var data-page title="About" data-banner="images/arbor_vitae.jpg"></var>
  
 ## About Visual Essays
 
