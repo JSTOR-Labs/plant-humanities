@@ -57,6 +57,7 @@ The cherry blossom has been a repository of symbolism in Japanese culture for ce
 
 #### Cherry viewing in Japan
 <var data-video id="jk0ic0D0MRo" title="Hanami"></var>
+<var data-image id="cherry-blossoms-mint-tunnel" title="Cherry Blossom Viewing through the Tunnel at Japan Mint" data-url="https://upload.wikimedia.org/wikipedia/commons/0/01/Cherry-Blossom-Viewing_through_the_%22Tunnel%22_at_Japan_Mint_in_201504_004.JPG" data-region="1356,1039,2182,2290"></var>
 
 Flower-viewing or hanami is a centuries-old practice in Japan. Flower viewing started in imperial circles in the eighth century, when the Japanese elite eagerly adopted Chinese high culture. Chinese plum blossoms were initially the object of viewing parties. By the ninth century, hanami was practically synonymous with viewing cherry blossoms, as Japanese elites sought to delineate a distinctly Japanese identity. In the 18th century, mass plantings were made in poor riverside districts of present-day Tokyo, many of which were notorious for prostitution, gambling, and licentious theater. Plantings of cherry trees were meant to beautify riverside communities, which the government considered eyesores. These mass plantings helped make cherry-viewing a popular pastime across all classes. Both new cherry-picnic sites and sites historically famous for imperial outings became widely popular spots for drink, merry-making and the loosening of social conventions.
 

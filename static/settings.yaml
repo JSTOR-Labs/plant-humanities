@@ -3,29 +3,24 @@ banner: images/Dumbarton_Oaks.jpg
 navigation:
   - path: /
     title: Home
-    source: index.md
     icon: mdi-home
   - path: /about
     title: About
-    source: about.md
     icon: mdi-information
   - path: /essays
     title: Essays
-    source: essays.md
     icon: mdi-file-document-outline
   - path: /help
     title: Help
-    source: help.md
+    source: https://jstor-labs.github.io/visual-essays/help.md
     icon: mdi-help-circle
   - path: /resources
     title: Resources
-    source: resources.md
     icon: mdi-library
   - path: /contact
     title: Contact
-    source: contact.md
     icon: mdi-contact-mail
 gh_repo: plant-humanities
 context: null
 app_version: 0.1.0
-lib_version: 0.3.12
+lib_version: 0.3.13

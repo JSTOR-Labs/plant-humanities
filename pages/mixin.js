@@ -9,7 +9,7 @@ export default {
     computed: {
       html() { return this.$store.getters.html },
       baseUrl() { return this.$store.getters.baseUrl },
-      navMenuItems() { return this.$store.getters.navigation },
+      navMenuItems() { return this.$store.getters.navigation || [] },
       navPaths() {
         const paths = new Set()
         this.navMenuItems.forEach(menuItem => paths.add(menuItem.path))
@@ -19,9 +19,11 @@ export default {
     },
     methods: {
       getStaticPage(route) {
-        const source = route.path === '/' ? '/index.md' : `${route.path}.md`
-        const pageUrl = `${this.baseUrl}/${source}`
-        // const pageUrl = source.indexOf('http') === 0 ? source : `${this.baseUrl}/${source}`
+        const path = route.path === '/' ? '/index' : route.path
+        const source = this.navPaths.has(path)
+          ? this.navMenuItems.find(navMenuItem => path === navMenuItem.path).source || `${path}.md`
+          : `${path}.md`
+        const pageUrl = source.indexOf('http') === 0 ? source : `${this.baseUrl}/${source}`
         return axios.get(pageUrl)
           .then(resp => this.$marked(resp.data))
           .then((html) => {
