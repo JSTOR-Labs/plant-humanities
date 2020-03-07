@@ -13,7 +13,7 @@ import Mixin from './mixin'
     name: 'static-page',
     mixins: [ Mixin ],
     mounted() {
-      this.getStaticPage(this.$route)
+      this.getPage(this.$route)
     }
   }
 </script>

@@ -10,54 +10,61 @@ export default {
       html() { return this.$store.getters.html },
       baseUrl() { return this.$store.getters.baseUrl },
       navMenuItems() { return this.$store.getters.navigation || [] },
-      navPaths() {
-        const paths = new Set()
-        this.navMenuItems.forEach(menuItem => paths.add(menuItem.path))
-        return paths
-      },
       settingsLoaded() { return this.$store.getters.settingsLoaded },
     },
     methods: {
-      getStaticPage(route) {
-        const path = route.path === '/' ? '/index' : route.path
-        const source = this.navPaths.has(path)
-          ? this.navMenuItems.find(navMenuItem => path === navMenuItem.path).source || `${path}.md`
-          : `${path}.md`
-        const pageUrl = source.indexOf('http') === 0 ? source : `${this.baseUrl}/${source}`
-        return axios.get(pageUrl)
-          .then(resp => this.$marked(resp.data))
-          .then((html) => {
-            this.$store.dispatch('setHtml', html)
-            this.$nextTick(() => {
-              this.addStaticPageMetadata()
-              this.updateLinks()
-              if (route.hash.length > 1) {
-                // Scroll to element position
-                this.scrollToElem(route.hash.slice(1))
-              }
-            })
-          })
+      getPage(route) {
+        const scrollable = document.getElementById('scrollableContent') || window
+        scrollable.scrollTo(0, 0)
+        window.data = undefined
+        const menuItem = this.navMenuItems.find(navMenuItem => route.path === navMenuItem.path) || {}
+        console.log('getPage', route, this.navMenuItems, menuItem)
+        const path = route.path === '/' ? '/index' : route.path.replace(/\/essay\//,'/')
+        const mdSource = menuItem.source || path
+
+        const scrollToElemId = route.hash.length > 1 ? route.hash.slice(1) : undefined
+
+        const contentUrl = mdSource.indexOf('http') === 0 ? mdSource : `${this.baseUrl}/content${mdSource}.md`
+        console.log(`contentUrl=${contentUrl}`)
+        let serviceUrl = `${process.env.ve_service_endpoint}/essay?src=${encodeURIComponent(contentUrl)}&nocss`
+        if (process.env.context) {
+          serviceUrl += `&context=${process.env.context}`
+        }
+        axios.get(serviceUrl)
+          .then(resp => this.$store.dispatch('setHtml', resp.data))
+          .then(_ => this.onLoaded(path, scrollToElemId))
       },
-      scrollToElem(elemId) {
-        const scrollToElem = document.getElementById(elemId)
-        if (scrollToElem) {
-          const header = document.querySelector('header')
-          // const scrollTo = scrollToElem.offsetTop - (header ? header.offsetHeight : 0)
-          const scrollTo = scrollToElem.offsetTop - 56
-          document.getElementById('scrollableContent').scrollTo(0, scrollTo)
+      onLoaded(path, scrollToElemId) {
+        const veElem = document.getElementById('visual-essay')
+        console.log('onLoaded')
+        if (veElem) {              
+          this.updateLinks()
+          if (scrollToElemId) {
+            this.scrollToElem(scrollToElemId)
+          }
+          const _this = this
+          new ResizeSensor(veElem, function() {
+            const essaySpacer = document.getElementById('essay-spacer')
+            _this.$store.dispatch('setSpacerHeight', essaySpacer ? essaySpacer.clientHeight : 0)
+          })
+          this.setPageMetadata(path)
+        } else {
+          setTimeout(() => { this.onLoaded(path, scrollToElemId) }, 250)
         }
       },
-      addStaticPageMetadata() {
-        const pageConfig = Array.from(this.$refs[this.$options.name].querySelectorAll('var'))
-          .find(varElem => varElem.dataset.page !== undefined)
-        this.$store.dispatch('setTitle', pageConfig ? pageConfig.title : undefined || this.$store.getters.siteTitle )
-        this.$store.dispatch('setBanner', pageConfig ? pageConfig.dataset.banner : undefined  || this.$store.getters.siteBanner )
+      setPageMetadata(path) {
+        const menuItem = this.navMenuItems.find(navMenuItem => path === navMenuItem.path) || {}
+        const essayConfig = window.data.find(item => item.type === 'essay') || {}
+        this.$store.dispatch('setTitle', essayConfig.title || menuItem.title || this.$store.getters.siteTitle)
+        this.$store.dispatch('setBanner', essayConfig.banner || menuItem.banner || this.$store.getters.siteBanner)
       },
       updateLinks() {
+        // console.log('updateLinks')
         if (this.$refs[this.$options.name]) {
           this.$refs[this.$options.name].querySelectorAll('a').forEach((link) => {
             if (link.href) {
               const parsedUrl = parseUrl(link.href)
+              // console.log(parsedUrl)
               // if (this.navPaths.has(parsedUrl.pathname) || parsedUrl.pathname.indexOf('/essay/') === 0) {
               if (this.baseUrl.indexOf(parsedUrl.origin) === 0) {
                 link.removeAttribute('href')
@@ -79,27 +86,34 @@ export default {
           })
         }
       },
-      getEssay(route) {
-        const src = `${this.baseUrl}/content/${route.params.pathMatch}.md`
-        window.data = undefined
-        let url = `${process.env.ve_service_endpoint}/essay?src=${encodeURIComponent(src)}&nocss`
-        if (process.env.context) {
-          url += `&context=${process.env.context}`
+      scrollToElem(elemId) {
+        const scrollToElem = document.getElementById(elemId)
+        if (scrollToElem) {
+          const header = document.querySelector('header')
+          // const scrollTo = scrollToElem.offsetTop - (header ? header.offsetHeight : 0)
+          const scrollTo = scrollToElem.offsetTop + 140
+          const scrollable = document.getElementById('scrollableContent') || window
+          console.log('scrollTo', scrollable, scrollToElem, scrollTo)
+          scrollable.scrollTo(0, scrollTo)
         }
-        axios.get(url)
-          .then(resp => this.essay = resp.data)
-          .then(_ => this.onLoaded())
       },
-      onLoaded() {
+      /*onLoaded(scrollToElemId) {
         const essayElem = document.getElementById('visual-essay')
-        if (essayElem) {
+        console.log('onLoaded', essayElem)
+        if (essayElem) {              
+          this.updateLinks()
+          if (scrollToElemId) {
+            this.scrollToElem(scrollToElemId)
+          }
           const _this = this
           new ResizeSensor(essayElem, function() {
             const essaySpacer = document.getElementById('essay-spacer')
             _this.$store.dispatch('setSpacerHeight', essaySpacer ? essaySpacer.clientHeight : 0)
           })
-          window.scrollTo(0, 0)
+          // window.scrollTo(0, 0)
           // get essay metadata
+          
+
           if (!window.data) {
             const jsonld = essayElem.querySelectorAll('script[type="application/ld+json"]')
             if (jsonld.length > 0) {
@@ -108,10 +122,10 @@ export default {
               })
             }
           }
+
           this.addEssayMetadata()
-          this.updateLinks()
         } else {
-          setTimeout(() => { this.onLoaded() }, 1000)
+          setTimeout(() => { this.onLoaded(scrollToElemId) }, 250)
         }
       },
       addEssayMetadata() {
@@ -131,6 +145,7 @@ export default {
           setTimeout(() => { this.addEssayMetadata() }, 1000)
         }
       }
+      */
     }
   }
   

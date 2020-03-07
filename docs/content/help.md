@@ -1,6 +1,5 @@
-<var data-page title="About" data-banner="images/arbor_vitae.jpg"></var>
- 
-## About Visual Essays
+### Editing essays
+Since both the essay and annotations are plain text the essays can be created and maintained in any number of ways.  The only requirement is that the essay file be available on the internet.  One possible approach is to host the essay files in a [Github](https://github.com) repository.  Git is an open-source version control system that was started by Linus Torvalds—the same person who created the Linux operating system.  Github is an online service providing hosting of Git code repositories.  Since its inception Github has become wildly popular and is often used for much more than just version control on software projects.  Github offers free accounts and while its user interface may initially be a little intimidating to non-technical users it is actually a pretty simple to use service and a convenient way to manage text files.  When coupled with Github enabled tools much (or all) of the actual interaction with the Github service is handled through more user-friendly and familiar interfaces.  One such tool is [StackEdit](https://stackeid.io) which provides a browser-based Markdown editor with options for publishing files directly to Github.  [This page](/github-and-stackedit) provides deta
 
 The `visual essays` service creates an interactive web page merging text content with external data, including:
 
@@ -13,7 +12,7 @@ Initially, the rendered page only displays the formatted text content.  Interact
 
 When the visualization pane is enabled supplemental information associated with the corresponding text in the top portion of the page is available for viewing and in many cases interaction.  For example, if a location is mentioned in the text a map could be displayed showing the location of the place mentioned on an interactive map.  As another example, if a person is mentioned in the text more information (including images) can be displayed providing context and background on the person mentioned.
 
-## Entities
+### Entities
 
 The data used by the widgets in the visualization pane is typically retrieved from Wikidata (the knowledge base behind WIkipedia).  Wikidata is a Linked Open Data (LOD) knowledge base containing nearly 80 million entities (as of Feb 2020) and growing at the rate of nearly 1 million per month.  Each entity (person, location, organization, etc) in Wikidata is assigned a unique identifier commonly called a ‘Q’ ID as each of the identifiers starts with the ‘Q’ character followed by a number.  For instance, Washington DC is assigned the identifier Q61.
 
@@ -24,19 +23,20 @@ When an entity is declared in a text using a `var` tag the software will use inf
 Other attributes available for entity declarations include:
 * `data-scope` which can used to restrict the document regions considered when associating text with an entity.  For entity associations a `var` declaration is by default of **global** scope meaning that any mention in any part of the document is associated with the entity.  This behavior can be overridden by declaring an entities scope as **local** which would restrict associations to those mentions in the local region in which the `var` tag was defined.  The locality can be a paragraph or higher-level section depending on where the tag was entered.  To restrict locality to a single paragraph the `var` tag must be entered in the associated paragraph text block with no intervening blank lines and include the `data-scope=“local”` attribute.
 
-## Maps
+### Maps
 
 Maps are added to the visualization pane using a `var` tag with a `data-map` attribute defined.  In declaring a map a `data-center` attribute must be provided indicating the map center point.  Optionally, a `data-zoom` attribute can be provided defining the initial zoom level for the interactive map.
 * `data-center` attribute values may be expressed as longitude/latitude coordinates (comma-separated float values) or using a QID for an entity than contains a position coordinate.
 * `data-zoom` attribute values are expressed as an integer or a floating point number (with tenths precision).  The higher the value the more detailed the map.
 
-## Map layers
+### Map layers
 
 Maps may include optional layers.  Mapwarper tiles and GeoJSON feature layers are currently supported.
 
-### Mapwarper tile layers
+#### Mapwarper tile layers
 
 Mapwarper is an open source tool and online service that generates map tiles from image files.  A common use case for this is to overlay an historical map on base map tiles.  Mapwarper provides tools for fitting an image to base map geocoordinates by relating map feature points.
 
-### GeoJSON feature layers
+#### GeoJSON feature layers
 
+Something about GetJSON...

@@ -1,7 +1,7 @@
 <template>
   <v-layout>
     <v-flex>
-      <div :ref="$options.name" v-html="essay"/>
+      <div :ref="$options.name" v-html="html"/>
     </v-flex>
   </v-layout>
 </template>

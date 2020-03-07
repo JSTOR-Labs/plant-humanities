@@ -7,7 +7,7 @@ The `visual essays` service creates an interactive web page merging text content
 * information from knowledge graphs such as [Wikidata](https://www.wikidata.org),
 * maps with optional tile layers and geojson features
 
-The text content is written in plain text with [markdown]([https://daringfireball.net/projects/markdown/syntax](https://daringfireball.net/projects/markdown/syntax)) or [wikitext]([https://meta.wikimedia.org/wiki/Help:Wikitext_examples](https://meta.wikimedia.org/wiki/Help:Wikitext_examples)) markup for simple formatting.  External data is linked to the text through the addition of HTML `var` tags that provide instructions and hints adding contextualized interactive features in the rendered page.
+The text content is written in plain text with [markdown](https://daringfireball.net/projects/markdown/syntax) or [wikitext](https://meta.wikimedia.org/wiki/Help:Wikitext_examples) markup for simple formatting.  External data is linked to the text through the addition of HTML `var` tags that provide instructions and hints adding contextualized interactive features in the rendered page.
 
 Initially, the rendered page only displays the formatted text content.  Interactive features are enabled when page sections are selected.  Selecting a page section (generally a paragraph) be clicking on the text will open a visualization pane in the lower section of the page.
 
