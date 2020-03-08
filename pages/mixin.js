@@ -32,12 +32,15 @@ export default {
         }
         axios.get(serviceUrl)
           .then(resp => this.$store.dispatch('setHtml', resp.data))
-          .then(_ => this.onLoaded(path, scrollToElemId))
+          .then(_ => {
+            console.log('waiting for visual-essays.init')
+            this.onLoaded(path, scrollToElemId)
+          })
       },
       onLoaded(path, scrollToElemId) {
         const veElem = document.getElementById('visual-essay')
-        console.log('onLoaded')
-        if (veElem) {              
+        if (veElem) {        
+          console.log('visual-essays.init complete')      
           this.updateLinks()
           if (scrollToElemId) {
             this.scrollToElem(scrollToElemId)

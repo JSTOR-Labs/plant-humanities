@@ -1,5 +1,5 @@
 title: Plant Humanities
-banner: images/header.jpg
+banner: images/ferns.jpg
 navigation:
   - path: /
     title: Home
@@ -23,4 +23,4 @@ navigation:
 gh_repo: plant-humanities
 context: null
 app_version: 0.2.0
-lib_version: 0.3.16
+lib_version: 0.3.18
