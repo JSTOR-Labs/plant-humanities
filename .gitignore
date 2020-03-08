@@ -90,7 +90,6 @@ sw.*
 *.swp
 
 static/*.md
-
 static/images
 static/content
 static/settings.yaml
