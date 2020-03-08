@@ -1,18 +1,9 @@
-<!--
-<var data-component
-data-name="entity"
-data-src="https://jstor-labs.github.io/visual-essays/components/EntityViewer.vue"></var>
--->
 
 <var data-essay
      title="Cherry Blossom"
      data-banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/USA-Cherry_Blossom0.jpg/800px-USA-Cherry_Blossom0.jpg"
      data-layout="horizontal"
      data-debug="false"></var>
-
-<!-- <var data-component
-data-name="entity"
-data-src="https://ithaka.github.io/labs-wikibase/components/CustomEntityInfobox.vue"></var> -->
 
 <var title="Bonn"  id="Q586"></var>
 
@@ -94,78 +85,3 @@ Located in the Northeastern corner of Dumbarton Oaks, Cherry Hill is planted wit
 The Tale of Genji, written in the early years of the 11th century by the noblewoman Murasaki Shikibu, depicts an imperial court brimming with elegance and intrigue, where cherry-viewing parties set the stage for love and courtship. Although The Tale of Genji marked a turning-point in the development of the aesthetics of pathos and the keen awareness of ephemerality (monono aware), cherry blossoms are largely symbols of youth and love in the novel. This screen depicts a scene from chapter thirty four, New Herbs I, in which the courtier Kashiwagi falls in love while playing kickball under blossoming cherry trees as he catches sight of Genji’s new wife behind a bamboo blind that a cat has pushed open.
 
 “The women had been too delighted with the game, young gentlemen heedless of how they scattered the blossoms, to worry about blinds and concealment.”
-
-<!--
-
-Flore des serres et des jardins de l'Europe : Annales générales d'horticulture
-
-Published: Gand (Belgique) : L. van Houtte, 1875
-
-Cherry blossoms imported from Japan began appearing in French and Belgian magazines in the 1870s. Flore des Serres, published by Belgian horticulturist Louis van Houtte, shows a cultivar named “Cerasus caproniana flore roseo pleno” for sale in his nursery. This is probably the cultivar Fukurokuju, a semi-double, pink-flowered cherry that became popular in the West. Fukurokuju cherries were planted South of the Tidal Basin in 1912.
-
-Twelve plates with fruit : from the collection of Robt. Furber, gardiner at Kensington
-
-Robert Furber; designed by Peter Casteels ; engraved by H. Fletcher.
-
-[London : s.n., 1732].
-002722705
-
-Furber’s lavishly illustrated catalogue Twelve Months of Fruit is one of the earliest modern nurseryman’s catalogues. However, prices were omitted from the catalogue so as not to offend the sensibilities of its aristocratic audience, which included members of the royal family. This plate shows European interest in cherries primarily focused on the fruit, with relatively little interest paid to the blossoms’ aesthetic qualities.
-
-Silva, or, A discourse of forest-trees, and the propagation of timber in His Majesty's dominions
-
-John Evelyn
-
-London : H. Colburn, 1825
-
-001446417
-
-John Evelyn’s 17th century practical treatise on silviculture was the dominant English treatise of its kind until the nineteenth century. It encouraged English landowners to plant trees and care for their forests in order to conserve timber supplies for the Royal Navy. Evelyn explains how and where to grow black cherries, noting the ornamental value of their white blossoms and the medicinal properties of their fruit when used in spirits.
-
-Catalogue of the Yokohama Nursery Co., Ltd
-
-Yokohama, Japan: 1905
-
-004307055
-
-The Japanese-owned Yokohama Company played a significant role in the exportation of cherry blossoms to Western markets, and had offices set up in San Francisco, Chicago, New York and London by 1907. The Yokohama Company’ catalogues were lavishly decorated, catering to fashionable turn of the century fascination with Japan. The present issue, from 1905, lists cherry blossoms under the name of “pseudo-cerasus, or false-cherries, a name born out of Europeans’ initial misunderstanding of Japanese cherry blossoms, which do not bear fruit.
-
-Shichijūnikō meika gajō
-
-Shōseki Kose
-
-Kyōto : Kose Zennosuke, [1891-1892?]
-
-013360225
-
-This set of four books is bound in the orihon, or folded accordion, style. Each book is richly illustrated with woodcuts depicting the plants that flower during each of the four seasons. The present volume is Haru, or Spring. As heralds of spring, cherry blossoms are well represented in this volume. Book illustrations of plants portraying the four seasons harken to an old Chinese tradition of painting on silk. In Japan, works of this genre were often produced or subsequently reproduced as woodblock prints.
-
-Views of my home and garden : winter - spring - fall- Christmas greetings and best wishes for the New Year
-
-Walter H. Siegfried
-
-Shidzuoka, Japan : publisher not identified, 1936
-
-014632814
-
-This photo album with hand-colored photogravures from 1936 shows the gardens of an American resident of Japan before the outbreak of World War II. The gardens offer an unorthodox mix of Japanese and American stylistic elements. A picture of a single tree documents the flowering of cherries in early April.
-
-Landscape Gardening in Japan
-
-Josiah Conder
-
-Tokyo : Printed by the Hakubunsha, Ginza, Tokio : Published and sold by Kelly and Walsh, Limited, Yokohama, Shanghai, Hongkong, and Singapore, 1893.
-
-008008247
-
-In 1877, British architect Josiah Conder was invited to teach architecture in Japan, where he introduced Western architectural and construction practices. Landscape Gardening in Japan, first published in 1893, provided Westerners a rich source on the gardening techniques and artistic principles of Japanese gardens. The present opening shows an illustration of a party on a barge viewing the wild cherry trees of Arashiyama, a famous retreat for imperial outings. Conder explains that cherry trees are, along with pines, the first trees chosen in a garden. He argues that trees with single blossoms are generally to be preferred over ones with double blossoms, which he advises be used sparingly.
-
-Engei meika zusetsu
-
-Tōkyō : Kōkosha Jimusho, Meiji 37 [1904]
-
-013359948
-
-Engei meika zusetsu comprises fourteen books about flowering trees, all bound in the traditional East Asian style. The first two volumes, dedicated to flowering cherries, are illustrated with colorful woodcuts of cherry varieties at different stages of bloom.
-
--->

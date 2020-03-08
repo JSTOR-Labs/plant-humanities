@@ -25,12 +25,14 @@ export default {
       { hid: 'description', name: 'description', content: 'Visual Essays' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: `${routerBase.router.base}favicon.ico` }
+      { rel: 'icon', type: 'image/x-icon', href: `${routerBase.router.base}favicon.ico` },
+      { rel: 'stylesheet', href: '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/default.min.css' }
     ]
   },
   plugins: [
     { src: '@/plugins/environment.js', ssr: false },
     { src: '@/plugins/marked.js', ssr: false },
+    { src: '@/plugins/highlight.js', ssr: false },
     { src: '@/plugins/settings.js', ssr: false }
   ],
   buildModules: [

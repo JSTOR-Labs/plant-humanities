@@ -25,6 +25,7 @@ export default {
         const scrollToElemId = route.hash.length > 1 ? route.hash.slice(1) : undefined
 
         const contentUrl = mdSource.indexOf('http') === 0 ? mdSource : `${this.baseUrl}/content${mdSource}.md`
+        this.$store.dispatch('setMarkdownSource', contentUrl)
         console.log(`contentUrl=${contentUrl}`)
         let serviceUrl = `${process.env.ve_service_endpoint}/essay?src=${encodeURIComponent(contentUrl)}&nocss`
         if (process.env.context) {

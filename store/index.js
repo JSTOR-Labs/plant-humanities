@@ -16,7 +16,9 @@ const state = {
   spacerHeight: 0,
   appVersion: undefined,
   bundleVersion: undefined,
-  settingsLoaded: false
+  settingsLoaded: false,
+  markdownSource: undefined,
+  showMarkdown: false
 }
 
 const mutations = {
@@ -32,7 +34,9 @@ const mutations = {
   setSpacerHeight(state, height) { state.spacerHeight = height },
   setAppVersion(state, appVersion) { state.appVersion = appVersion },
   setBundleVersion(state, bundleVersion) { state.bundleVersion = bundleVersion },
-  setSettingsLoaded(state, loaded) { state.settingsLoaded = loaded }
+  setSettingsLoaded(state, loaded) { state.settingsLoaded = loaded },
+  setMarkdownSource(state, url) { state.markdownSource = url },
+  setShowMarkdown(state, show) { state.showMarkdown = show }
 }
 
 const actions = {
@@ -51,7 +55,9 @@ const actions = {
   setSpacerHeight: ({ commit }, height) => commit('setSpacerHeight', height),
   setAppVersion: ({ commit }, appVersion) => commit('setAppVersion', appVersion),
   setBundleVersion: ({ commit }, bundleVersion) => commit('setBundleVersion', bundleVersion),
-  setSettingsLoaded: ({ commit }, loaded) => commit('setSettingsLoaded', loaded)
+  setSettingsLoaded: ({ commit }, loaded) => commit('setSettingsLoaded', loaded),
+  setMarkdownSource: ({ commit }, url) => commit('setMarkdownSource', url),
+  setShowMarkdown: ({ commit }, show) => commit('setShowMarkdown', show)
 }
 
 const getters = {
@@ -67,7 +73,9 @@ const getters = {
   spacerHeight: state => state.spacerHeight,
   appVersion: state => state.appVersion,
   bundleVersion: state => state.bundleVersion,
-  settingsLoaded: state => state.settingsLoaded
+  settingsLoaded: state => state.settingsLoaded,
+  markdownSource: state => state.markdownSource,
+  showMarkdown: state => state.showMarkdown
 }
 
 export default () => new Vuex.Store({
