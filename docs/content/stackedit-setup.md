@@ -55,14 +55,14 @@ If the `Publish to Github` option is available skip to the **Set publication des
 #### Set publication destination for file
 From the StackEdit `Publish` menu select `Publish to GitHub` (ensure the file to publish is selected in the file explorer pane).  A dialog will appear where the publish destination can be specified.  Enter `https://github.com/jstor-labs/plant-humanities` in the `Repository URL` field.  Enter the Github path for the published file in the `File path` field.  This path must include the prefix `docs/content/` followed by the file name with a `.md` file extension.  The Github file name doesn't necessarily need to match the name of the file name defined in the StackEdit file explorer but using the same name can be helpful if multiple files are being managed.  Also, select `Plain text` from the `Template` menu.  
 
-	<p align="center">
+<p align="center">
 	  <img src="images/stackedit-github-publish.png" style="width:100%;max-width:300px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
 	  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">GitHub file publication dialog</span>
-	</p>
+</p>
 	
 After selecting 'OK' the Github icon should appear next to the file in the file explorer pane indicating that the publication destination configuration was successful.  After this has been configured updates to the file can be published to Github by selecting the publish icon in the StackEdit toolbar.  The publish icon is the up arrow with a line at the bottom.
 
-	<p align="center">
+<p align="center">
 	  <img src="images/stackedit-github-publish-success.png" style="width:100%;max-width:300px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
 	  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">GitHub file publication config success</span>
-	</p>
+</p>
