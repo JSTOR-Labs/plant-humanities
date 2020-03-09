@@ -18,8 +18,6 @@
 
 <var title="Prunus serotina" id="Q158987"></var>
 
-<var title="Stockholm" id="Q1754"></var>
-
 <var title="The Tale of Genji" id="Q8269"></var>
 
 <var title="Washington, D. C." id="Q61"></var>
@@ -83,5 +81,6 @@ The Tale of Genji, written in the early years of the 11th century by the noblewo
 
 “The women had been too delighted with the game, young gentlemen heedless of how they scattered the blossoms, to worry about blinds and concealment.”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIyMjUyMDc4LC0yMDM0NjU2MTU1XX0=
+eyJoaXN0b3J5IjpbLTIwMTU1NDgwMTQsNDIyMjUyMDc4LC0yMD
+M0NjU2MTU1XX0=
 -->
