@@ -2,7 +2,7 @@
      title="Cherry Blossom"
      data-banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/USA-Cherry_Blossom0.jpg/800px-USA-Cherry_Blossom0.jpg"
      data-layout="horizontal"
-     data-debug="false"></var>
+     data-about="# Q871991"></var>
 
 <var title="cherry blossom" id="Q871991"  data-category="plant"></var>
 
@@ -17,6 +17,8 @@
 <var title="Prunus" id="Q190545"></var>
 
 <var title="Prunus serotina" id="Q158987"></var>
+
+<var title="Stockholm" id="Q1754"></var>
 
 <var title="The Tale of Genji" id="Q8269"></var>
 
@@ -81,6 +83,6 @@ The Tale of Genji, written in the early years of the 11th century by the noblewo
 
 “The women had been too delighted with the game, young gentlemen heedless of how they scattered the blossoms, to worry about blinds and concealment.”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU1NDgwMTQsNDIyMjUyMDc4LC0yMD
-M0NjU2MTU1XX0=
+eyJoaXN0b3J5IjpbMTEwOTQ5MDY5Miw0MjIyNTIwNzgsLTIwMz
+Q2NTYxNTVdfQ==
 -->
