@@ -1,11 +1,8 @@
-
 <var data-essay
      title="Cherry Blossom"
      data-banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/USA-Cherry_Blossom0.jpg/800px-USA-Cherry_Blossom0.jpg"
      data-layout="horizontal"
      data-debug="false"></var>
-
-<var title="Bonn"  id="Q586"></var>
 
 <var title="cherry blossom" id="Q871991"  data-category="plant"></var>
 
@@ -86,5 +83,5 @@ The Tale of Genji, written in the early years of the 11th century by the noblewo
 
 “The women had been too delighted with the game, young gentlemen heedless of how they scattered the blossoms, to worry about blinds and concealment.”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTU2Mzc2N119
+eyJoaXN0b3J5IjpbNDIyMjUyMDc4XX0=
 -->
