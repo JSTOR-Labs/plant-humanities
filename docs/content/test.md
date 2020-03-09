@@ -1,3 +1,6 @@
+
+[view](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=193g5rK09vZS8dFFNnGFQxhuzlAXCeOVh)
+
 <var data-essay
      title="Cherry Blossom"
      data-banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/USA-Cherry_Blossom0.jpg/800px-USA-Cherry_Blossom0.jpg"
@@ -29,7 +32,7 @@
 
 ### Introduction
 
-Cherry blossoms have formed an integral part of the identity of Washington, D. C., ever since Japan gifted over three thousand cherry trees to the United States in 1912 as a symbol of friendship and political alliance. Until the final decades of the 19th century, Japanese cherry trees had often been misunderstood among Westerners, and garnered only modest attention in Europe. Subsequent European involvement in East Asia forced Japan, which had pursued a strict isolationist policy for centuries, to open its borders. As a result, Europeans enjoyed greater contact with Japanese culture, and a growing interest in cherry blossoms. With the planting of Japan’s gift of cherry trees in the <var  id="Q956781">Tidal Basin</var>, cherry blossoms became accessible to the American public, entering Western consciousness on an unprecedented scale.
+123 Cherry blossoms have formed an integral part of the identity of Washington, D. C., ever since Japan gifted over three thousand cherry trees to the United States in 1912 as a symbol of friendship and political alliance. Until the final decades of the 19th century, Japanese cherry trees had often been misunderstood among Westerners, and garnered only modest attention in Europe. Subsequent European involvement in East Asia forced Japan, which had pursued a strict isolationist policy for centuries, to open its borders. As a result, Europeans enjoyed greater contact with Japanese culture, and a growing interest in cherry blossoms. With the planting of Japan’s gift of cherry trees in the <var  id="Q956781">Tidal Basin</var>, cherry blossoms became accessible to the American public, entering Western consciousness on an unprecedented scale.
 <var title="West Yorkshire" id="Q23083"></var>
 <var data-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/USA-Cherry_Blossom0.jpg"></var>
 
@@ -80,3 +83,4 @@ Located in the Northeastern corner of Dumbarton Oaks, Cherry Hill is planted wit
 The Tale of Genji, written in the early years of the 11th century by the noblewoman Murasaki Shikibu, depicts an imperial court brimming with elegance and intrigue, where cherry-viewing parties set the stage for love and courtship. Although The Tale of Genji marked a turning-point in the development of the aesthetics of pathos and the keen awareness of ephemerality (monono aware), cherry blossoms are largely symbols of youth and love in the novel. This screen depicts a scene from chapter thirty four, New Herbs I, in which the courtier Kashiwagi falls in love while playing kickball under blossoming cherry trees as he catches sight of Genji’s new wife behind a bamboo blind that a cat has pushed open.
 
 “The women had been too delighted with the game, young gentlemen heedless of how they scattered the blossoms, to worry about blinds and concealment.”
+
