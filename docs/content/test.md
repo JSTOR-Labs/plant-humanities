@@ -18,8 +18,6 @@
 
 <var title="Prunus serotina" id="Q158987"></var>
 
-<var title="Stockholm" id="Q1754"></var>
-
 <var title="The Tale of Genji" id="Q8269"></var>
 
 <var title="Washington, D. C." id="Q61"></var>
