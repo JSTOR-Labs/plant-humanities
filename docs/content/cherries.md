@@ -44,7 +44,7 @@ Although cherry blossoms became beloved fixtures of the city of Washington, atti
 The cherry blossom has been a repository of symbolism in Japanese culture for centuries: it has variously symbolized processes of life, death, reproductive power, love, rebirth, and the beauty of impermanence. By the end of the Edo period (1603-1868) cherry blossoms came to be a dominant symbol of Japanese identity, although their association with Japanese identity dates to at least the ninth century. During the early years of Japan’s rapid industrialization, cherry trees fell prey to an iconoclastic drive to erase reminders of the old feudal society. As Japan continued to negotiate its national identity, cherries were taken up again, now as symbols of a modern Japan that would be recognizable on an international scale. In the years leading up to World War II, the image of falling cherry blossoms, which had traditionally been associated with impermanence and death, was increasingly deployed to aestheticize self-sacrifice for the emperor. Cherry blossoms were planted in shrines glorifying fallen soldiers, and featured prominently in military imagery.
 
 #### Cherry viewing in Japan
-<var data-video id="" title="Hanami"></var>
+<var data-video id="jk0ic0D0MRo" title="Hanami"></var>
 <var data-image id="cherry-blossoms-mint-tunnel" title="Cherry Blossom Viewing through the Tunnel at Japan Mint" data-url="https://upload.wikimedia.org/wikipedia/commons/0/01/Cherry-Blossom-Viewing_through_the_%22Tunnel%22_at_Japan_Mint_in_201504_004.JPG" data-region="1356,1039,2182,2290"></var>
 
 Flower-viewing or hanami is a centuries-old practice in Japan. Flower viewing started in imperial circles in the eighth century, when the Japanese elite eagerly adopted Chinese high culture. Chinese plum blossoms were initially the object of viewing parties. By the ninth century, hanami was practically synonymous with viewing cherry blossoms, as Japanese elites sought to delineate a distinctly Japanese identity. In the 18th century, mass plantings were made in poor riverside districts of present-day Tokyo, many of which were notorious for prostitution, gambling, and licentious theater. Plantings of cherry trees were meant to beautify riverside communities, which the government considered eyesores. These mass plantings helped make cherry-viewing a popular pastime across all classes. Both new cherry-picnic sites and sites historically famous for imperial outings became widely popular spots for drink, merry-making and the loosening of social conventions.
@@ -83,5 +83,5 @@ The Tale of Genji, written in the early years of the 11th century by the noblewo
 
 “The women had been too delighted with the game, young gentlemen heedless of how they scattered the blossoms, to worry about blinds and concealment.”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ2NTYxNTVdfQ==
+eyJoaXN0b3J5IjpbNDIyMjUyMDc4LC0yMDM0NjU2MTU1XX0=
 -->
