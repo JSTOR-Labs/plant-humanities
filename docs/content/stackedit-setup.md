@@ -30,26 +30,34 @@ If the `Publish to Github` option is available skip to the **Set publication des
 
 1. From the next list of menu items select `Publish to GitHub`.  
 2. If your Github account had not previously been linked to Github you will be presented with a dialog like that shown below requesting permission to link your Github account to StackEdit.  Ensure the `Grant access to your private repositories` option is checked and press 'OK'.  
+
 	<p align="center">
 	  <img src="images/stackedit-link-github.png" style="width:100%;max-width:200px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
 	  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">Link your GitHub account to StackEdit</span>
 	</p>
+
 3. At this point you may need to sign in to Github.  If so, a sign in dialog like the following will appear.  Enter your Github credentials and select `Sign In`. 
+
 	<p align="center">
 	  <img src="images/stackedit-github-signin.png" style="width:100%;max-width:200px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
 	  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">GitHub Sign In dialog</span>
 	</p>
+
 4. If two factor authentication is enabled for your Github account you will probably be presented with another dialog to enter an authentication code sent via SMS.  If so, enter the code and select `Verify`.  
+
 	<p align="center">
 	  <img src="images/stackedit-github-signin-2fa.png" style="width:100%;max-width:200px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
 	  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">GitHub two factor authentication dialog</span>
 	</p>
+	
 5. You should now be back in the StackEdit environment. 
 
 #### Set publication destination for file
 From the StackEdit `Publish` menu select `Publish to GitHub` (ensure the file to publish is selected in the file explorer pane).  A dialog will appear where the publish destination can be specified.  Enter `https://github.com/jstor-labs/plant-humanities` in the `Repository URL` field.  Enter the Github path for the published file in the `File path` field.  This path must include the prefix `docs/content/` followed by the file name with a `.md` file extension.  The Github file name doesn't necessarily need to match the name of the file name defined in the StackEdit file explorer but using the same name can be helpful if multiple files are being managed.  Also, select `Plain text` from the `Template` menu.  
+
 	<p align="center">
 	  <img src="images/stackedit-github-publish.png" style="width:100%;max-width:200px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
 	  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">GitHub file publication dialog</span>
 	</p>
+	
 After selecting 'OK' the Github icon should appear next to the file in the file explorer pane indicating that the publication destination configuration was successful.  After this has been configured updates to the file can be published to Github by selecting the publish icon in the StackEdit toolbar.  The publish icon is the up arrow with a line at the bottom.
