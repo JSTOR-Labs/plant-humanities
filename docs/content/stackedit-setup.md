@@ -38,10 +38,10 @@ If the `Publish to Github` option is available skip to the **Set publication des
 
 3. At this point you may need to sign in to Github.  If so, a sign in dialog like the following will appear.  Enter your Github credentials and select `Sign In`. 
 
-	<p align="center">
+	<div align="center">
 	  <img src="images/stackedit-github-signin.png" style="width:100%;max-width:200px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);border:1px solid #aaa;margin-bottom:6px;" ><br/>
-	  <span style="padding-top:24px;font-size:1.1em;font-weight:bold;">GitHub Sign In dialog</span>
-	</p>
+	  <p style="padding-top:24px;font-size:1.1em;font-weight:bold;">GitHub Sign In dialog</p>
+	</div>
 
 4. If two factor authentication is enabled for your Github account you will probably be presented with another dialog to enter an authentication code sent via SMS.  If so, enter the code and select `Verify`.  
 
