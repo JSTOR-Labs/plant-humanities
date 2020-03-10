@@ -17,6 +17,7 @@
 <var title="Tlatelolco" id="Q14623011"></var>
 <var title="Santa Cruz" id=Q2477757"></var>
 <var title="Aztec" id="Q12542"></var>
+<var title="Mexica capital" id="Q13695"></var>
 
 
 ## Cacao: An indigenous network and global commodity
@@ -59,7 +60,9 @@ In these indigenous herbal remedies, the association of cacao with fearlessness,
      data-url="https://ithaka.github.io/labs-ph-essays/geojson/olmec-region.json"
      data-active="true"></var>
 
-Maya leaders embodied the power of this cycle by representing themselves as, or in relation to, it and its associated plants of importance. For example, we see the ancient Maya depict [the ancestors of rulers as cacao trees growing from the sarcophagi of dead ‘maize god’ rulers](https://library-artstor-org.ezp-prod1.hul.harvard.edu/#/asset/ARTSTOR_103_41822000267326&fs) and [cacao trees anthropomorphized as deities](museum.doaks.org/Obj22807?sid=30693&x=51741&port=2652). By invoking this cycle in representing themselves, the deities, and their prestige, these political leaders were giving precedence and power to the subsistence practices and plants it entailed. Thus, the understanding of cacao as invoking or emerging from power and prestige has a broader spatio-temporal history, developing well before the arrival of Spaniards and the creation of the school in which de la Cruz and Badiano created the herbal. 
+Maya leaders embodied the power of this cycle by representing themselves as, or in relation to, it and its associated plants of importance. For example, we see the ancient Maya depict [the ancestors of rulers as cacao trees growing from the sarcophagi of dead ‘maize god’ rulers](https://library-artstor-org.ezp-prod1.hul.harvard.edu/#/asset/ARTSTOR_103_41822000267326&fs) and [cacao trees anthropomorphized as deities](museum.doaks.org/Obj22807?sid=30693&x=51741&port=2652). By invoking this cycle in representing themselves, the deities, and their prestige, these political leaders were giving precedence and power to the subsistence practices and plants it entailed. Thus, the understanding of cacao as invoking or emerging from power and prestige has a broader spatio-temporal history, developing well before the arrival of Spaniards and the creation of the school in which de la Cruz and Badiano created the herbal.
+<var data-image id="13558213" title="Pacal's sarcophagus and the portraits of his ancestors" data-url="https://library-artstor-org.ezp-prod1.hul.harvard.edu/#/asset/ARTSTOR_103_41822000267326&fs" data-region="1667,1240,2190,1890"></var>
+
 
 The presence of cacao in a remedy for hurt feet within the Badianus wittily echoes the realities of indigenous economic networks. Without beasts of burden, the long-distance transport of cacao from the neotropics to the Mexica capital would have certainly caused one’s feet to ache. In [Hernán Cortés’ conquistador accounts](https://iiif.lib.harvard.edu/manifests/view/drs:427885396$228i), several regions are recognized for their tribute of cacao to the Mexica empire including Huauthla, Soconusco, and Cotaxtla, all of which are hundreds of miles from the capital. We learn from many other early colonial documents that roasted cacao beans were used as a currency throughout Mesoamerican history, highlighting how important a trade good this plant would have been. The political prowess needed to build and maintain the production and exchange networks associated with cacao would have certainly manufactured powerful polities across the neotropics.
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
