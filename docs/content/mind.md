@@ -74,7 +74,12 @@ This problematic nature of identifying and naming mint however does not appear t
 
 Despite not being native to North America, peppermint and peppermint oil in particular proves to be an important lens through which to consider the movement and commercial development of plant use in America. Peppermint (*Mentha piperita*) is a hybrid of spearmint and water mint (*Mentha aqautica*) and its oil is volatile which means that it is composed of hydrocarbon compounds called terpenes. Menthol is the major tarpene in peppermint oil.[^ref10] Peppermint oil has been used in commercial products since the eighteenth century. One of the first published mentions of peppermint is in *Synopsis Methodica Stirpium Britannicarum* in 1696 by John Ray. Ray, a prominent British naturalist entwined in botanical exchange networks across Britain and Europe in the seventeenth century, wrote that ‘[Spear-Mint or Heart-Mint](https://biodiversitylibrary.org/page/41339853)’ had been ‘found by Mr. Dale in Essex [England] by Bocking River side below the Fulling-Mill in two or three places’.
 
-<!-- insert line from UK to US-->
+<var data-map-layer  
+title="Britain and US"  
+data-type="geojson"  
+data-url="[https://jstor-labs.github.io/plant-humanities/geojson/mintBrUSline.json]"  
+data-active="true"></var>
+
 ‘Essence of peppermint’ was regularly imported to America from London and according to research undertaken by Dan Allosso in 2017, advertisements for peppermint products in American newspapers appeared in the thousands between 1750 and 1800. In fact the [American Antiquarian Society](https://www.americanantiquarian.org/) shows almost 3000 advertisements appeared in over 70 newspapers printed in each of the original thirteen colonies. Physicians and apothecaries ‘used and sold peppermint-based products in every major city in every colony’.[^ref11]
 
 American colonists were quick to recognize the commercial opportunity presented by locally producing peppermint oil rather than importing it from Britain, no doubt due in part to the ease of growing mint in a variety of environments. Unlike other varieties of mint, the peppermint plant would have been propagated in early America using root cuttings probably from a small number of original plants in England. Commercial peppermint production then, gradually shifted from England to America from the 1750s and likewise, records of peppermint fields in North America show that the first were found near Ashfield in Franklin country, Massachusetts. Mint was later farmed in northern New York and New Jersey. In these early days, essence peddlers ensured that peppermint was part of a widespread production and distribution network.[^ref12]
