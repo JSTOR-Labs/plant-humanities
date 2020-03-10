@@ -15,7 +15,7 @@
 <var title="Libellus de Medicinalibus Indorum Herbis" id="Q2204297" data-aliases="Badianus"></var>
 <var title="indigenous peoples" id="Q103817" data-aliases="indigenous"></var>
 <var title="Tlatelolco" id="Q14623011"></var>
-<var title="Santa Cruz" id=Q2477757"></var>
+<var title="Santa Cruz" id="Q2477757"></var>
 <var title="Aztec" id="Q12542"></var>
 <var title="Mexica capital" id="Q13695"></var>
 
