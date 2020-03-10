@@ -24,9 +24,7 @@
 
 ### Introduction
 
-<![endif]-->
-
-While colonial encounters are often conceptualized as a one-way street, with the colonizers subjugating the colonized, the historical picture is more complex. During the early modern period, Europeans sought to benefit from new economic goods and networks. To do so, their integration into the other cultural spheres of foreign lands was necessary. This meant learning about indigenous perspectives and knowledge, which Europeans exploited for their own benefit both in the New World and eventually back in their homelands, ultimately ‘globalizing’ said indigenous networks. One of the most famous prehistoric networks that Europeans made efforts to control was that of cacao, _Theobroma cacao_, and the primary sources from this time period document the knowledge they gained from the native populations of the Americas.
+While colonial encounters are often conceptualized as a one-way street, with the colonizers subjugating the colonized, the historical picture is more complex. During the early modern period, Europeans sought to benefit from new economic goods and networks in the Americas. However, economies do not function in a vacuum, and to truly benefit, Europeans found it was necessary to assimilate into the other cultural spheres of foreign lands. This meant learning about indigenous perspectives and knowledge, which Europeans exploited for their own benefit both in the New World and eventually back in their homelands, ultimately ‘globalizing’ pre-existing indigenous networks. One of the most famous indigenous networks that Europeans made efforts to control was that of cacao, _Theobroma cacao_. Primary sources from this time period such as herbals and manuscripts document the knowledge gained from the native populations of the Americas.
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="4"></var>
 
 ### Early recipes
@@ -51,13 +49,13 @@ In these indigenous herbal remedies, the association of cacao with fearlessness,
      title="Maya Region"
      data-aliases="Maya"
      data-type="geojson"
-     data-url="https://ithaka.github.io/labs-ph-essays/geojson/maya-region.json"
+     data-url="https://github.com/JSTOR-Labs/plant-humanities/blob/master/docs/geojson/maya-region.json"
      data-active="true"></var>
 <var data-geojson
      title="Olmec Region"
      data-type="geojson"
      data-aliases="Olmec"
-     data-url="https://ithaka.github.io/labs-ph-essays/geojson/olmec-region.json"
+     data-url="https://github.com/JSTOR-Labs/plant-humanities/blob/master/docs/geojson/olmec-region.json"
      data-active="true"></var>
 
 Maya leaders embodied the power of this cycle by representing themselves as, or in relation to, it and its associated plants of importance. For example, we see the ancient Maya depict [the ancestors of rulers as cacao trees growing from the sarcophagi of dead ‘maize god’ rulers](https://library-artstor-org.ezp-prod1.hul.harvard.edu/#/asset/ARTSTOR_103_41822000267326&fs) and [cacao trees anthropomorphized as deities](museum.doaks.org/Obj22807?sid=30693&x=51741&port=2652). By invoking this cycle in representing themselves, the deities, and their prestige, these political leaders were giving precedence and power to the subsistence practices and plants it entailed. Thus, the understanding of cacao as invoking or emerging from power and prestige has a broader spatio-temporal history, developing well before the arrival of Spaniards and the creation of the school in which de la Cruz and Badiano created the herbal.
