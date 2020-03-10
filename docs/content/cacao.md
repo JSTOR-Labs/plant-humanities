@@ -1,3 +1,6 @@
+<--! -->
+[View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1RgQSh9qQ2BlJrjGTFKAZKxistXfldS7M)
+
 <var data-essay
      title="Cacao: An indigenous network and global commodity"
      data-banner="/images/cacao.jpg"
@@ -11,12 +14,19 @@
 <var title="Juan Badiano" id="Q6298938"></var>
 <var title="Libellus de Medicinalibus Indorum Herbis" id="Q2204297" data-aliases="Badianus"></var>
 <var title="indigenous peoples" id="Q103817" data-aliases="indigenous"></var>
+<var title="Tlatelolco" id="Q14623011"></var>
+<var title="Santa Cruz" id=Q2477757"></var>
+<var title="Aztec" id="Q12542"></var>
+
 
 ## Cacao: An indigenous network and global commodity
 
 ### Introduction
 
-While colonial encounters are often conceptualized as a one-way street, with the colonizers subjugating the colonized, the historical picture is more complex. During the early modern period, Europeans sought to benefit from new economic goods and networks. To do so, their integration into the other cultural spheres of foreign lands was necessary. This meant learning about indigenous perspectives and knowledge, which Europeans exploited for their own benefit both in the New World and eventually back in their homelands, ultimately ‘globalizing’ said indigenous networks. One of the most famous prehistoric networks that Europeans made efforts to control was that of cacao, *Theobroma cacao*, and the primary sources from this time period document the knowledge they gained from the native populations of the Americas.
+<![endif]-->
+
+While colonial encounters are often conceptualized as a one-way street, with the colonizers subjugating the colonized, the historical picture is more complex. During the early modern period, Europeans sought to benefit from new economic goods and networks. To do so, their integration into the other cultural spheres of foreign lands was necessary. This meant learning about indigenous perspectives and knowledge, which Europeans exploited for their own benefit both in the New World and eventually back in their homelands, ultimately ‘globalizing’ said indigenous networks. One of the most famous prehistoric networks that Europeans made efforts to control was that of cacao, _Theobroma cacao_, and the primary sources from this time period document the knowledge they gained from the native populations of the Americas.
+<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="4"></var>
 
 ### Early recipes
 
