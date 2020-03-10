@@ -1,3 +1,5 @@
+[View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1-q4xsJuLtqYotSbVRPJ2NPZvs_JKiF8x)
+
 <var data-essay
      title="The ubiquity of mint: exploring plant mythology, naming and commercial value"
      data-banner="/images/mint.jpg"
@@ -9,6 +11,9 @@
 
 
 ### Victoria Pickering
+
+<!--<var data-image-viewer></var>
+<var data-image id="" title="" data-url=".jpg" data-region="455,168,847,867"></var>-->
 
 Some scents regularly appear in our daily lives and give us a sense of familiarity. Mint is one such example of a ubiquitous plant, and one that we think we know. The strong scent and taste of mint, the notable green leaves with serrated edges, and the broad consumer uses of this plant that are so common to us today (such as toothpaste and chewing gum), obscures the lesser known fact that mint has a more nuanced history of naming and identification. Mint, known as the genus [*Mentha*](www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30016176-2), is part of the [*Lamiaceae*](www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000097-2) family. It is an aromatic and perennial herb and species include bergamot mint, spearmint, pennyroyal and peppermint. These species can be found distributed across parts of Africa, Asia, Europe, Australia, and North America, happily growing in wet and damp environments. With its ability to naturally hybridize, there are a wide variety of plants within the mint family. To consider how the generic mint plant has become so familiar in our everyday lives, we begin here with an account of ancient Greek mythology and then a look at the history of naming and identification of mint. The example of peppermint is then used to consider a plant’s ability to succeed as a commercial crop in America.
 <var title="North-America" scope="local" id="Q49"></var>
@@ -27,12 +32,22 @@ Others consider Minthe to have been changed into dust first by Persephone, from 
 The English gardener, Jon Gardener (fl. 1400s) writes of ‘[myntys](https://biodiversitylibrary.org/page/56578103)’ in ‘The Feate of Gardening’, one of the earliest accounts of instructions for sowing and planting and which listed over 100 plants.[^ref3] While the naturalist Q2141696 William Turner (1505-1568)[^ref4], has a section dedicated to ‘Mint’ in [*A new herbal*](https://biodiversitylibrary.org/page/56878191) published in 1568 in which he talks not only of the difficulty of identifying the ‘diverse kyndes of myntes growing’, he also writes of its ‘warming, bynding’ nature and ability to ‘stop blood’, ‘killeth round wormes in the belly’ and ‘a singular pleasantness in sa[u]ces.’ While *Mentha* is considered to be the common garden mint, Turner separates these from *Menstratum*, a Latin term for wild mints which we find across botanical literature.
 
 Today, the common scent and flavor we associate with mint is synonymous with culinary flavor and cleanliness value but in earlier centuries, mint was valued for a much broader set of therapeutic properties. In fact, the English astrologer and apothecary [Nicholas Culpepper (1616–1654)](https://biodiversitylibrary.org/page/36702439) believed that the mint plant could be used to treat over forty different ailments. This history of diverse uses is seen in combination with a history of troublesome plant identification through centuries of botanical literature. Herbals of the seventeenth century identify this pattern particularly well. As John Parkinson wrote in 1640 in his [*Theatrum Botanicum, or a Theatre of Plants*](https://biodiversitylibrary.org/page/56599957) (London), '[there are many sorts of Mints](https://biodiversitylibrary.org/page/56599909)'. Parkinson went on to list twelve different sorts including the ‘Crosse Mint’, which had ‘purplish colour flowers’, the ‘great Curld Mint of Germany’ and ‘Clusius his knobbed Wilde Mint’, which apparently had an '[unpleasant smell](https://biodiversitylibrary.org/page/56599907)'. Similarly, the ‘Small round leafed wild Mint’ was considered to have a 'rather strong and heady' scent, which was '[not very pleasant](https://biodiversitylibrary.org/page/56599906)'. Likewise, John Gerard wrote in his Generall historie of plantes (1633), that mint was ‘a marvellous wholesome for the stomach’ and that it had a ‘[smelle rejoyceth the heart of man](https://archive.org/details/mobot31753000817749/page/552)’.
+
 <var data-image-viewer></var>
 <var data-image id="bhl-56599909" title="Parkinson, p.31" data-url="https://biodiversitylibrary.org/pageimage/56599909" data-region="807,1420,1451,2665"></var>
 <var data-image id="bhl-51906062" title="Gerard, p.680" data-url="https://biodiversitylibrary.org/pageimage/51906062" data-region="577,328,1375,1559"></var>
 <var data-image id="bhl-56599908" title="Parkinson, p. 32" data-url="https://biodiversitylibrary.org/pageimage/56599908" data-region="516,360,1201,1470"></var>
 
+<var data-map title="World" data-center="51.520201,-0.125315" data-zoom="3"></var>
+<var title="British" id="Q84"></var>
+<var data-map-layer  
+title="Britain"  
+data-type="geojson"  
+data-url="[https://jstor-labs.github.io/plant-humanities/geojson/Britain.json]"  
+data-active="true"></var>
+
 In the seventeenth and eighteenth centuries, *Mentha* engaged the attention of numerous well-known British botanists including John Ray (1627-1705), Adam Buddle (1662–1715), [Samuel Dale (1659-1739)](https://plants.jstor.org/stable/10.5555/al.ap.person.bm000150941) and Jacob Bobart (1641-1719). They could be found collecting a variety of mint species across Britain and exchanged their findings via written correspondence. They were intrigued by the properties and characteristics of the specimens, as well as 'conjectures about the synonyms of authors'.[^ref5] Indeed, in Transactions of the [Linnaean Society](www.linnean.org), the botanist and naturalist James Edward Smith (1759 – 17 March 1828) stated that '[no British genus of plants](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.1800.tb00591.x), except perhaps Conserva, has been hitherto less understood than that of  *Mentha*; either with respect to its species, and the principles upon which their distinctions ought to be founded, or the synonyms of those species in the most recent, as well as the more ancient writers'.[^ref6]
+
 
 The taxonomy of the genus *Mentha* has, in the words of Lawrence, 'been in a state of flux, with more than 3000 names published since 1753'.[^ref7] In fact, the last comprehensive classification of the genus  *Mentha* was, according to Lawrence, published over a century ago in 1896.  *Mentha* is a member of the *Lamiaceae* (formerly *Labiatea*) family which itself includes many other families including at least 236 genera and over 7000 species. As a genus,  *Mentha* is based on a combination of many characteristics rather than one unique character ranging from the inclusion of four equal stamens and naked filaments. Around 95% of the 3000 names published for the genus  *Mentha* since 1753 (the publication year of Linnaean’s *Species Plantarum*) are synonyms or illegitimate, being known as 'infraspecific taxa' and this problem is due to the ease of which  *Mentha* can be hybridised.[^ref8]
 
@@ -55,9 +70,14 @@ This problematic nature of identifying and naming mint however does not appear t
     data-active=“true”></var>-->
      
      
-
-
 Despite not being native to North America, peppermint and peppermint oil in particular proves to be an important lens through which to consider the movement and commercial development of plant use in America. Peppermint (*Mentha piperita*) is a hybrid of spearmint and water mint (*Mentha aqautica*) and its oil is volatile which means that it is composed of hydrocarbon compounds called terpenes. Menthol is the major tarpene in peppermint oil.[^ref10] Peppermint oil has been used in commercial products since the eighteenth century. One of the first published mentions of peppermint is in *Synopsis Methodica Stirpium Britannicarum* in 1696 by John Ray. Ray, a prominent British naturalist entwined in botanical exchange networks across Britain and Europe in the seventeenth century, wrote that ‘[Spear-Mint or Heart-Mint](https://biodiversitylibrary.org/page/41339853)’ had been ‘found by Mr. Dale in Essex [England] by Bocking River side below the Fulling-Mill in two or three places’.
+
+<var data-map title="World" data-center="37.874967,-41.896891" data-zoom="4"></var>
+<var data-map-layer  
+title="The Atlantic"  
+data-type="geojson"  
+data-url="[https://jstor-labs.github.io/plant-humanities/geojson/mintBrUSline.geojson]"  
+data-active="true"></var>
 
 ‘Essence of peppermint’ was regularly imported to America from London and according to research undertaken by Dan Allosso in 2017, advertisements for peppermint products in American newspapers appeared in the thousands between 1750 and 1800. In fact the [American Antiquarian Society](https://www.americanantiquarian.org/) shows almost 3000 advertisements appeared in over 70 newspapers printed in each of the original thirteen colonies. Physicians and apothecaries ‘used and sold peppermint-based products in every major city in every colony’.[^ref11]
 
