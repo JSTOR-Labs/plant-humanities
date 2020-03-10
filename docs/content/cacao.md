@@ -55,13 +55,13 @@ In these indigenous herbal remedies, the association of cacao with fearlessness,
      title="Maya Region"
      data-aliases="Maya"
      data-type="geojson"
-     data-url="https://jstor-labs.github.io/plant-humanities/docs/geojson/maya-region.json"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/maya-region.json"
      data-active="true"></var>
 <var data-geojson
      title="Olmec Region"
      data-type="geojson"
      data-aliases="Olmec"
-     data-url="https://jstor-labs.github.io/plant-humanities/docs/geojson/olmec-region.json"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/olmec-region.json"
      data-active="true"></var>
 
 Maya leaders embodied the power of this cycle by representing themselves as, or in relation to, it and its associated plants of importance. For example, we see the ancient Maya depict [the ancestors of rulers as cacao trees growing from the sarcophagi of dead ‘maize god’ rulers](https://library-artstor-org.ezp-prod1.hul.harvard.edu/#/asset/ARTSTOR_103_41822000267326&fs) and [cacao trees anthropomorphized as deities](museum.doaks.org/Obj22807?sid=30693&x=51741&port=2652). By invoking this cycle in representing themselves, the deities, and their prestige, these political leaders were giving precedence and power to the subsistence practices and plants it entailed. Thus, the understanding of cacao as invoking or emerging from power and prestige has a broader spatio-temporal history, developing well before the arrival of Spaniards and the creation of the school in which de la Cruz and Badiano created the herbal.
