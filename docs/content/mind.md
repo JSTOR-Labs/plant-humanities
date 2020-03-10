@@ -73,7 +73,6 @@ This problematic nature of identifying and naming mint however does not appear t
 Despite not being native to North America, peppermint and peppermint oil in particular proves to be an important lens through which to consider the movement and commercial development of plant use in America. Peppermint (*Mentha piperita*) is a hybrid of spearmint and water mint (*Mentha aqautica*) and its oil is volatile which means that it is composed of hydrocarbon compounds called terpenes. Menthol is the major tarpene in peppermint oil.[^ref10] Peppermint oil has been used in commercial products since the eighteenth century. One of the first published mentions of peppermint is in *Synopsis Methodica Stirpium Britannicarum* in 1696 by John Ray. Ray, a prominent British naturalist entwined in botanical exchange networks across Britain and Europe in the seventeenth century, wrote that ‘[Spear-Mint or Heart-Mint](https://biodiversitylibrary.org/page/41339853)’ had been ‘found by Mr. Dale in Essex [England] by Bocking River side below the Fulling-Mill in two or three places’.
 
 <var data-map title="World" data-center="37.874967,-41.896891" data-zoom="4"></var>
-
 <var data-map-layer  
 title="The Atlantic"  
 data-type="geojson"  
