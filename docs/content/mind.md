@@ -1,3 +1,5 @@
+[View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1-q4xsJuLtqYotSbVRPJ2NPZvs_JKiF8x)
+
 <var data-essay
      title="The ubiquity of mint: exploring plant mythology, naming and commercial value"
      data-banner="/images/mint.jpg"
@@ -9,6 +11,10 @@
 
 
 ### Victoria Pickering
+
+<!--<var data-image-viewer></var>
+<var data-image id="" title="" data-url=".jpg" data-region="455,168,847,867"></var>-->
+
 
 Some scents regularly appear in our daily lives and give us a sense of familiarity. Mint is one such example of a ubiquitous plant, and one that we think we know. The strong scent and taste of mint, the notable green leaves with serrated edges, and the broad consumer uses of this plant that are so common to us today (such as toothpaste and chewing gum), obscures the lesser known fact that mint has a more nuanced history of naming and identification. Mint, known as the genus [*Mentha*](www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30016176-2), is part of the [*Lamiaceae*](www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000097-2) family. It is an aromatic and perennial herb and species include bergamot mint, spearmint, pennyroyal and peppermint. These species can be found distributed across parts of Africa, Asia, Europe, Australia, and North America, happily growing in wet and damp environments. With its ability to naturally hybridize, there are a wide variety of plants within the mint family. To consider how the generic mint plant has become so familiar in our everyday lives, we begin here with an account of ancient Greek mythology and then a look at the history of naming and identification of mint. The example of peppermint is then used to consider a plant’s ability to succeed as a commercial crop in America.
 <var title="North-America" scope="local" id="Q49"></var>
@@ -31,6 +37,12 @@ Today, the common scent and flavor we associate with mint is synonymous with cul
 <var data-image id="bhl-56599909" title="Parkinson, p.31" data-url="https://biodiversitylibrary.org/pageimage/56599909" data-region="807,1420,1451,2665"></var>
 <var data-image id="bhl-51906062" title="Gerard, p.680" data-url="https://biodiversitylibrary.org/pageimage/51906062" data-region="577,328,1375,1559"></var>
 <var data-image id="bhl-56599908" title="Parkinson, p. 32" data-url="https://biodiversitylibrary.org/pageimage/56599908" data-region="516,360,1201,1470"></var>
+
+<var data-map-layer  
+title="Britain"  
+data-type="geojson"  
+data-url="[https://jstor-labs.github.io/plant-humanities/geojson/Britain.json](https://jstor-labs.github.io/plant-humanities/geojson/Britain.json)"  
+data-active="true"></var>
 
 In the seventeenth and eighteenth centuries, *Mentha* engaged the attention of numerous well-known British botanists including John Ray (1627-1705), Adam Buddle (1662–1715), [Samuel Dale (1659-1739)](https://plants.jstor.org/stable/10.5555/al.ap.person.bm000150941) and Jacob Bobart (1641-1719). They could be found collecting a variety of mint species across Britain and exchanged their findings via written correspondence. They were intrigued by the properties and characteristics of the specimens, as well as 'conjectures about the synonyms of authors'.[^ref5] Indeed, in Transactions of the [Linnaean Society](www.linnean.org), the botanist and naturalist James Edward Smith (1759 – 17 March 1828) stated that '[no British genus of plants](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.1800.tb00591.x), except perhaps Conserva, has been hitherto less understood than that of  *Mentha*; either with respect to its species, and the principles upon which their distinctions ought to be founded, or the synonyms of those species in the most recent, as well as the more ancient writers'.[^ref6]
 
