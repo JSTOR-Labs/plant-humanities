@@ -1,4 +1,4 @@
-<!-- This is a comment -->
+<!-- -->
 [View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1RgQSh9qQ2BlJrjGTFKAZKxistXfldS7M)
 
 <var data-essay
@@ -40,7 +40,6 @@ After contact, the earliest representations of cacao come from a Mexica (Aztec) 
 
 A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a recipe entitled “Trees and flowers for the fatigue of those administering the government and holding public office”.[^ref3] The other representation of cacao found in the text, identified as *Cacauaxochitl* in Nahautl, shows the plant in flower.[^ref4] This painting is featured with a recipe for “Mental Stupor” that calls for the use of the bark and roots of a flowered cacao. This same flowered cacao tree (*Cacauaxochitl*), while not illustrated, features in recipes for hurt feet and as a cure for fear. Not only do the watercolors present anatomically accurate plant structures, they also represent the ecology in which the plants grow.[^ref5] These details of the herbal clearly indicate that the Mexica had a broad understanding of botanical biology and ecology, a level of knowledge not represented in contemporaneous herbals of the time from European writers.
 <var data-image-viewer></var>
-
 
 ### Ancient ideologies
 
