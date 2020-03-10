@@ -20,7 +20,7 @@
 <var title="Mexica capital" id="Q13695"></var>
 <var title="early modern period" id="Q5308718"></var>
 <var title="manuscripts" id="Q87167"></var>
-<var title="herbals" id="Q6165948" data-aliases="herbal"</var>
+<var title="herbals" id="Q6165948" data-aliases="herbal"></var>
 <var title="Francisco Hernández de Toledo" id="Q940017"></var>
 <var title="Quararibea funebris" id="Q7269144"></var>
 <var title="" id=""></var>
