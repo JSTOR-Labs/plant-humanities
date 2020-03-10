@@ -1,4 +1,5 @@
-<p><var title="Arbor Vitae - Thuja occidentalis"></var></p>
+<p><a href="https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1ZhAYXtLWogfZygES96g4OXU-6tLtKTTM">View</a><br>
+<var title="Arbor Vitae - Thuja occidentalis"></var></p>
 <p><var title="Abies balsamea" id="Q428023"></var><br>
 <var title="Carl Linnaeus" id="Q1043"></var><br>
 <var title="Carolus Clusius" id="Q333372"></var><br>
@@ -35,7 +36,7 @@
 <var title="Claudius Map"></var></p>
 <p>A century earlier, French explorer Jacques Cartier and his crew learned of the tree and its astonishing medicinal effects from the St. Lawrence Iroquois Indians of Eastern Canada while exploring the Gulf of St. Lawrence and the St. Lawrence River. The Indigenous Peoples of this region used numerous local plants to treat disease and survive the region’s harsh winters. <sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup>  Unfortunately, the French were far less equipped to survive the unforgiving environment they found themselves stranded in during the winter of 1535-36. Suffering from a mysterious disease that threatened to kill more than half of his crew, Captain Cartier turned to the St. Lawrence Iroquois for help.<br>
 <var title="World"></var><br>
-<var title="historic spanish map"></var></p>
+<var title="Cartier route"></var></p>
 <p><var title="Gulf of Saint Lawrence"></var><br>
 Captain Cartier noticed that some of the local Indians also suffered from the same affliction as his men. Unlike his men, however, they made full recoveries. Cartier soon learned of a medicinal decoction made from a <a href="https://hdl.handle.net/2027/aeu.ark:/13960/t35151v01?urlappend=%253Bseq=82">“certain tree”</a> that the locals made and drank to treat the illness. Fortunately, Cartier convinced a local young man named Domagaia to share his therapeutic secret. Domagaia complied and sent a couple of women to fetch about a dozen branches of the tree. The bark and leaves were then boiled to make a decoction (or tea), which Cartier and his men were instructed to drink every other day. They were also instructed to put the dregs of the mixture on the legs of the sick. Within six days, Cartier’s crew was cured.</p>
 <p><var title="France"></var><br>
