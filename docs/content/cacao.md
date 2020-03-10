@@ -1,4 +1,4 @@
-<--! -->
+<!-- This is a comment -->
 [View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1RgQSh9qQ2BlJrjGTFKAZKxistXfldS7M)
 
 <var data-essay
@@ -51,13 +51,13 @@ In these indigenous herbal remedies, the association of cacao with fearlessness,
      data-type="mapwarper"
      data-mapwarper-id="45355"
      data-active="true"></var>
-<var data-geojson
+<var data-map-layer
      title="Maya Region"
      data-aliases="Maya"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/maya-region.json"
      data-active="true"></var>
-<var data-geojson
+<var data-map-layer
      title="Olmec Region"
      data-type="geojson"
      data-aliases="Olmec"
