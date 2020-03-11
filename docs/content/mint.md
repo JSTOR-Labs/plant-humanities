@@ -79,7 +79,6 @@ The taxonomy of the genus *Mentha* has, in the words of Lawrence, 'been in a sta
 ### Peppermint: a commercial crop
 
 
-
 This problematic nature of identifying and naming mint however does not appear to have prevented the plant from becoming a significant commercial crop. Mint, especially commercial mint, is not considered native to North America but Elder William Brewster (1568–1644), a passenger on the *Mayflower* voyage in 1620, is known to have grown a variety of mint in his garden in Plymouth, Massachusetts not long after arriving from Europe.[^ref9] From this information, the naturalist and traveller John Josselyn (1608-1675) postulated that the New World was introduced to mint, or ‘Labiatae’, by the pilgrims. Josselyn travelled to New England in 1638 and again in 1663, documenting his travels and the natural world he encountered in two publications. The first, [*New England's Rarities*](https://biodiversitylibrary.org/page/24624464), was published in London in 1671, and the second, [*An Account of Two Voyages to New England*](https://biodiversitylibrary.org/page/47096615), in 1674. 
 <var data-map title="New England" data-center="42.566426,-71.751354" data-zoom="4"></var>
 <var title="Plymouth" id="Q326295"></var>
@@ -120,7 +119,6 @@ Over time, American mint oil production would spread westwards from the east coa
 The mint industry in Washington and Oregon would go on to develop in line with sophisticated mechanical planting techniques and harvesting equipment. More recently, Washington farmers have faced increasing competition from China and India, who appear able to supply the shifting consumer taste for a stronger mint flavor which cannot be easily provided by the peppermint species.
 <var data-map id="China-map" data-center="33.541631,105.350142" data-zoom="4"></var>
 <var title="China" id="Q148"></var>
-<var title="India" id="Q668"></var>
 <var data-map-layer
 title="China"
 data-type="geojson"
