@@ -125,8 +125,8 @@ title="China"
 data-type="geojson"
 data-url="https://jstor-labs.github.io/plant-humanities/geojson/ChinaIndia.json"
 data-active="true"></var>
-<var title="China" id="# Q148"></var>
-<var title="India" id="# Q668"></var>
+<var title="China" id="Q148"></var>
+<var title="India" id="Q668"></var>
 
 ### Conclusions
 
