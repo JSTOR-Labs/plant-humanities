@@ -27,6 +27,7 @@
 <var title="Mayan Civilization" id="Q28567" data-aliases="Maya"></var>
 <var title="spatio-temporal entity" id="Q58415929" data-aliases="spatio-temporal"></var>
 <var title="Milpa" id="Q1537558"></var>
+<var title="Forest gardening" id="Q276109" data-aliases="forest garden"></var>
 <var title="" id=""></var>
 
 ## Cacao: An indigenous network and global commodity
