@@ -1,6 +1,12 @@
 <p><a href="https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1ZhAYXtLWogfZygES96g4OXU-6tLtKTTM">View</a><br>
 <var title="Arbor Vitae - Thuja occidentalis"></var></p>
 <p><var title="Abies balsamea" id="Q428023"></var><br>
+<var title="Picea glauca" id="Q128116"></var><br>
+&lt;var title=“Picea rubens” id="Q469151"data-aliases=“red spruce”&gt;<br>
+<var title="Picea mariana" id="Q218425"></var><br>
+<var title="Pinus strobus" id="Q157230"></var><br>
+<var title="Pinus resinosa" id="Q2045958"></var><br>
+<var title="Tsuga canadensis" id="Q1137143"></var><br>
 <var title="Carl Linnaeus" id="Q1043"></var><br>
 <var title="Carolus Clusius" id="Q333372"></var><br>
 <var title="Castore Durante" id="Q205031"></var><br>
@@ -21,13 +27,12 @@
 <var title="Quebec" id="Q2145"></var><br>
 <var title="Richard Hakluyt" id="Q185510"></var><br>
 <var title="scurvy" id="Q163865"></var><br>
-<var title="Thuja" id="Q147255"></var><br>
 <var title="Thuja occidentalis" id="Q147468"></var><br>
 <var title="Kingdom of France" id="Q709728"></var><br>
 <var title="Stadacona" id="Q3339246"></var><br>
 <var title="Hochelaga" id="Q544356"></var><br>
-<var title="St. Lawrence Iroquoian Indians" id="Q1790301"></var></p>
-<p><var title="World"></var></p>
+<var title="St. Lawrence Iroquoians" id="Q129060"></var><br>
+<var title="World"></var></p>
 <h2 id="arbor-vitæ---thuja-occidentalis">Arbor Vitæ - Thuja occidentalis</h2>
 <h3 id="the-mysterious-tree-of-life">The Mysterious Tree of Life</h3>
 <p>In his 1640 herbal, John Parkinson described the “tree of life,” or “arbor vitæ,” as <a href="https://www.biodiversitylibrary.org/page/56601375#page/1502/mode/1up">“a tall tree being similar to a cypress and covered by a dark reddish bark on the trunk and an even redder bark on the branches.”</a> Parkinson went on to explain that the tree, unknown to the ancients, originated in the New World and was introduced to Europe by the French. He explained that while it was presented to the French King, Francis I, as the “tree of life” (arbor vitæ) he had no idea why. Clearly, Parkinson was unaware of the miraculous stories associated with the arbor vitæ.<br>
@@ -46,7 +51,7 @@
 <var title="France"></var><br>
 <var title="cartier_publishing"></var></p>
 <h3 id="indigenous-coniferous-medicinal-knowledge">Indigenous Coniferous Medicinal Knowledge</h3>
-<p>Through linguistic, botanical, and historical analysis numerous trees have been put forward as the miraculous tree that saved Cartier and his men – the fir (<em>Abies balsamea</em>), the white spruce (<em>Picea glauca</em>), the red spruce (<em>Picea rubens</em>), epinettenoire (<em>Picea mariana</em>), white pine (<em>Pinus Strobus</em>), red pine (<em>Pinus resinosa</em>), white cedar (<em>Thuja occidentalis</em>), hemlock (<em>Tsuga canadensis</em>), and even sassafras (<em>Sassafras albidum</em>), although it is generally agreed that based on sixteenth-century descriptions and its natural distribution, sassafras is impossible.<br>
+<p>Through linguistic, botanical, and historical analysis numerous trees have been put forward as the miraculous tree that saved Cartier and his men – the fir (<em>Abies balsamea</em>), the white spruce (<em>Picea glauca</em>), the red spruce (<em>Picea rubens</em>), epinettenoire (<em>Picea mariana</em>), white pine (<em>Pinus strobus</em>), red pine (<em>Pinus resinosa</em>), white cedar (<em>Thuja occidentalis</em>), hemlock (<em>Tsuga canadensis</em>), and even sassafras (<em>Sassafras albidum</em>), although it is generally agreed that based on sixteenth-century descriptions and its natural distribution, sassafras is impossible.<br>
 <var title="Gulf of Saint Lawrence"></var></p>
 <p>Sixteenth and seventeenth-century European herbals consistently describe the tree of life as a <em>“Thuja”</em> (a genus of coniferous trees) or similar to a cypress, without fruit (although the cone is now considered a fruit), and very aromatic. From this we can conclude that the tree of life was indeed an evergreen coniferous tree native to the area around present-day Quebec.<br>
 <var title="Gulf of Saint Lawrence"></var><br>
@@ -54,7 +59,7 @@
 <p>Canada is home to approximately 30 species of coniferous trees, which, sometimes called evergreens, keep their foliage year-round.<sup class="footnote-ref"><a href="#fn3" id="fnref3">3</a></sup>  For the Indigenous Peoples of eastern Canada, coniferous forests offered sources of food, building materials, and medicines for human survival. Thanks to their general distribution, ability to survive cold climates, easy identification, and their very real pharmacological properties, coniferous trees were used medicinally by all indigenous groups of eastern Canada. The tannins of coniferous trees have astringent and antiseptic properties, while their resins and essential oils have aromatic and stimulant properties.<sup class="footnote-ref"><a href="#fn4" id="fnref4">4</a></sup>  More importantly, many conifers contain high levels of vitamin C.<br>
 <var title="Gulf of Saint Lawrence"></var><br>
 <var title="arbor vitae"></var></p>
-<p>The Ojibwa and many other Indigenous peoples of eastern north America boiled the leaves of several local conifers, notably common juniper (<em>Juniperus communis</em>) and white cedar (<em>Thuja occidentalis</em>), to make medicinal teas.<sup class="footnote-ref"><a href="#fn5" id="fnref5">5</a></sup>  The inner bark of the balsam fir (<em>Abies balsamea</em>) was also used to brew a medicinal tea by the Miꞌkmaq and Maritime Indians. Unfortunately, the St. Lawrence Iroquois Cartier encountered disappeared sometime in the late sixteenth century, but the continued use of conifers for medicinal teas by many of their neighbors and successors highlights these populations’ knowledge of their natural resources and success in creating a local subsistence base.<br>
+<p>The Ojibwa and many other Indigenous peoples of eastern north America boiled the leaves of several local conifers, notably common juniper (<em>Juniperus communis</em>) and white cedar (<em>Thuja occidentalis</em>), to make medicinal teas.<sup class="footnote-ref"><a href="#fn5" id="fnref5">5</a></sup>  The inner bark of the balsam fir (<em>Abies balsamea</em>) was also used to brew a medicinal tea by the Miꞌkmaq and Maritime Indians. Unfortunately, the St. Lawrence Iroquoians Cartier encountered disappeared sometime in the late sixteenth century, but the continued use of conifers for medicinal teas by many of their neighbors and successors highlights these populations’ knowledge of their natural resources and success in creating a local subsistence base.<br>
 <var title="Gulf of Saint Lawrence"></var><br>
 <var title="maritime indians"></var></p>
 <p>The concepts of disease and medicine of Indigenous Peoples of eastern North America were interwoven with their overall “world view” and religious beliefs. Thus, the practice of medicine and religion often overlapped. However, unlike the European view of Indian medicines, which they often described as panaceas, the Iroquois practiced (and continue to practice) a form of sympathetic medicine. That is to say that the Iroquois identified relationships between cure and disease and often prescribed specific plant remedies for specific ailments.<sup class="footnote-ref"><a href="#fn6" id="fnref6">6</a></sup>  We can see this in the case of the tree of life. When Cartier implored Domagaia for the secret to his miraculous recovery from the illness that plagued his men, Domagaia explained that <a href="https://hdl.handle.net/2027/aeu.ark:/13960/t35151v01?urlappend=%253Bseq=85">“he had taken the juice and sappe of the leaves of a certaine tree, and therewith had healed himself: For it was a singular remedie against that disease.”</a> After centuries of surviving the harsh winters of eastern Canada, the St. Lawrence Iroquois had developed a successful treatment for a disease that commonly beset individuals living in cold climates—scurvy.<br>
