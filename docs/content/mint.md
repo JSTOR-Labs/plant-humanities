@@ -6,19 +6,17 @@
      data-debug="false"></var>
 
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
-
-<var title="Hades" id="Q41410"</var>
+<var title="Hades" id="Q41410"></var>
 <var title="Persephone" id="Q45967"></var>
-<var title="Cocytus" id="Q939218</var>
-<var title="Ancient Greece" id="Q11772"</var>
-<var title="Kykeon" id="Q908041"</var>
+<var title="Cocytus" id="Q939218"></var>
+<var title="Ancient Greece" id="Q11772"></var>
+<var title="Kykeon" id="Q908041"></var>
 <var title="John Gerard" id="Q1333338" data-aliases="Gerard"></var>
 <var title="Galen" id="Q8778"></var>
 <var title="Pliny" id="Q82778"></var>
 <var title="Dioscorides" id="Q297776"></var>
 <var title="William turner" id="Q2141696"></var>
-<var title="Nicholas Culpeper" id=" Q1334667></var>
-
+<var title="Nicholas Culpeper" id=" Q1334667"></var>
 <var title="John Parkinson" id="Q256288"></var>
 <var title="John Ray" id="Q316949"></var>
 <var title="Adam Buddle" id="Q3774295"></var>
@@ -28,7 +26,8 @@
 <var title="Mayflower" id="Q187093"></var>
 <var title="John Josselyn" id="Q6242285"></var>
 <var title="New World" id="Q127834"></var>
-
+<var title="Herbals" id="# Q6165948" data-aliases="herbals"></var>
+<var title="Samuel Dale" id="Q1538175" data-aliases="Mr. Dale"></var>
 
 
 ## The ubiquity of mint: exploring plant mythology, naming and commercial value
@@ -57,7 +56,7 @@ Others consider Minthe to have been changed into dust first by Persephone, from 
 
 The English gardener, Jon Gardener (fl. 1400s) writes of ‘[myntys](https://biodiversitylibrary.org/page/56578103)’ in ‘The Feate of Gardening’, one of the earliest accounts of instructions for sowing and planting and which listed over 100 plants.[^ref3] While the naturalist William Turner (1509-1568)][^ref4], has a section dedicated to ‘Mint’ in [*A new herbal*](https://biodiversitylibrary.org/page/56878191) published in 1568 in which he talks not only of the difficulty of identifying the ‘diverse kyndes of myntes growing’, he also writes of its ‘warming, bynding’ nature and ability to ‘stop blood’, ‘killeth round wormes in the belly’ and ‘a singular pleasantness in sa[u]ces.’ While *Mentha* is considered to be the common garden mint, Turner separates these from *Menstratum*, a Latin term for wild mints which we find across botanical literature.
 
-Today, the common scent and flavor we associate with mint is synonymous with culinary flavor and cleanliness value but in earlier centuries, mint was valued for a much broader set of therapeutic properties. In fact, the English astrologer and apothecary [Nicholas Culpepper (1616–1654)](https://biodiversitylibrary.org/page/36702439) believed that the mint plant could be used to treat over forty different ailments. This history of diverse uses is seen in combination with a history of troublesome plant identification through centuries of botanical literature. [Herbals](https://en.wikipedia.org/wiki/Herbal) of the seventeenth century identify this pattern particularly well. As John Parkinson wrote in 1640 in his [*Theatrum Botanicum, or a Theatre of Plants*](https://biodiversitylibrary.org/page/56599957) (London), '[there are many sorts of Mints](https://biodiversitylibrary.org/page/56599909)'. Parkinson went on to list twelve different sorts including the ‘Crosse Mint’, which had ‘purplish colour flowers’, the ‘great Curld Mint of Germany’ and ‘Clusius his knobbed Wilde Mint’, which apparently had an '[unpleasant smell](https://biodiversitylibrary.org/page/56599907)'. Similarly, the ‘Small round leafed wild Mint’ was considered to have a 'rather strong and heady' scent, which was '[not very pleasant](https://biodiversitylibrary.org/page/56599906)'. Likewise, John Gerard wrote in his Generall historie of plantes (1633), that mint was ‘a marvellous wholesome for the stomach’ and that it had a ‘[smelle rejoyceth the heart of man](https://archive.org/details/mobot31753000817749/page/552)’.
+Today, the common scent and flavor we associate with mint is synonymous with culinary flavor and cleanliness value but in earlier centuries, mint was valued for a much broader set of therapeutic properties. In fact, the English astrologer and apothecary [Nicholas Culpepper (1616–1654)](https://biodiversitylibrary.org/page/36702439) believed that the mint plant could be used to treat over forty different ailments. This history of diverse uses is seen in combination with a history of troublesome plant identification through centuries of botanical literature. Herbals of the seventeenth century identify this pattern particularly well. As John Parkinson wrote in 1640 in his [*Theatrum Botanicum, or a Theatre of Plants*](https://biodiversitylibrary.org/page/56599957) (London), '[there are many sorts of Mints](https://biodiversitylibrary.org/page/56599909)'. Parkinson went on to list twelve different sorts including the ‘Crosse Mint’, which had ‘purplish colour flowers’, the ‘great Curld Mint of Germany’ and ‘Clusius his knobbed Wilde Mint’, which apparently had an '[unpleasant smell](https://biodiversitylibrary.org/page/56599907)'. Similarly, the ‘Small round leafed wild Mint’ was considered to have a 'rather strong and heady' scent, which was '[not very pleasant](https://biodiversitylibrary.org/page/56599906)'. Likewise, John Gerard wrote in his Generall historie of plantes (1633), that mint was ‘a marvellous wholesome for the stomach’ and that it had a ‘[smelle rejoyceth the heart of man](https://archive.org/details/mobot31753000817749/page/552)’.
 
 <var data-image-viewer></var>
 <var data-image id="bhl-56599909" title="Parkinson, p.31" data-url="https://biodiversitylibrary.org/pageimage/56599909" data-region="807,1420,1451,2665"></var>
@@ -96,7 +95,7 @@ This problematic nature of identifying and naming mint however does not appear t
     data-active=“true”></var>-->
      
      
-Despite not being native to North America, peppermint and peppermint oil in particular proves to be an important lens through which to consider the movement and commercial development of plant use in America. Peppermint (*Mentha piperita*) is a hybrid of spearmint and water mint (*Mentha aqautica*) and its oil is volatile which means that it is composed of hydrocarbon compounds called [terpenes](https://en.wikipedia.org/wiki/Terpene). Menthol is the major tarpene in peppermint oil.[^ref10] Peppermint oil has been used in commercial products since the eighteenth century. One of the first published mentions of peppermint is in *Synopsis Methodica Stirpium Britannicarum* in 1696 by John Ray. Ray, a prominent British naturalist entwined in botanical exchange networks across Britain and Europe in the seventeenth century, wrote that ‘[Spear-Mint or Heart-Mint](https://biodiversitylibrary.org/page/41339853)’ had been ‘found by [Mr. Dale](https://en.wikipedia.org/wiki/Samuel_Dale_(physician)) in Essex [England] by Bocking River side below the Fulling-Mill in two or three places’.
+Despite not being native to North America, peppermint and peppermint oil in particular proves to be an important lens through which to consider the movement and commercial development of plant use in America. Peppermint (*Mentha piperita*) is a hybrid of spearmint and water mint (*Mentha aqautica*) and its oil is volatile which means that it is composed of hydrocarbon compounds called terpenes. Menthol is the major tarpene in peppermint oil.[^ref10] Peppermint oil has been used in commercial products since the eighteenth century. One of the first published mentions of peppermint is in *Synopsis Methodica Stirpium Britannicarum* in 1696 by John Ray. Ray, a prominent British naturalist entwined in botanical exchange networks across Britain and Europe in the seventeenth century, wrote that ‘[Spear-Mint or Heart-Mint](https://biodiversitylibrary.org/page/41339853)’ had been ‘found by Mr. Dale in Essex [England] by Bocking River side below the Fulling-Mill in two or three places’.
 
 <var data-map title="World" data-center="37.874967,-41.896891" data-zoom="4"></var>
 <var data-map-layer title="Atlantic" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mintBrUSline.geojson data-active="true"></var>
@@ -119,7 +118,7 @@ Over time, American mint oil production would spread westwards from the east coa
 <var title="Puget Island" id="Q3593402"></var>
 
 The mint industry in Washington and Oregon would go on to develop in line with sophisticated mechanical planting techniques and harvesting equipment. More recently, Washington farmers have faced increasing competition from China and India, who appear able to supply the shifting consumer taste for a stronger mint flavor which cannot be easily provided by the peppermint species.
-<var data-map  id="China-map" data-center="33.541631,105.350142" data-zoom="4"></var>
+<var data-map id="China-map" data-center="33.541631,105.350142" data-zoom="4"></var>
 <var title="China" id="Q148"></var>
 <var title="India" id="Q668"></var>
 <var data-map-layer
