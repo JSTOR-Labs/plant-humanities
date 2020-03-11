@@ -24,6 +24,10 @@
 <var title="Adam Buddle" id="Q3774295"></var>
 <var title="Jacob Bobart" id="Q6118394"></var>
 <var title="James Edward Smith" id="Q458004"></var>
+<var title="William Brewster" id="Q864709"></var>
+<var title="Mayflower" id="Q187093"></var>
+<var title="John Josselyn" id="Q6242285"></var>
+<var title="New World" id="Q127834"></var>
 
 
 
@@ -60,8 +64,11 @@ Today, the common scent and flavor we associate with mint is synonymous with cul
 <var data-image id="bhl-51906062" title="Gerard, p.680" data-url="https://biodiversitylibrary.org/pageimage/51906062" data-region="577,328,1375,1559"></var>
 <var data-image id="bhl-56599908" title="Parkinson, p. 32" data-url="https://biodiversitylibrary.org/pageimage/56599908" data-region="516,360,1201,1470"></var>
 
-<var data-map title="World" data-center="51.520201,-0.125315" data-zoom="3"></var><var title="British" id="Q84"></var><var data-map-layer
-title="Britain"data-type="geojson"data-url="https://jstor-labs.github.io/plant-humanities/geojson/Britain.json"
+<var data-map title="World" data-center="51.520201,-0.125315" data-zoom="3"></var>
+<var data-map-layer
+title="Britain"
+data-type="geojson"
+data-url="https://jstor-labs.github.io/plant-humanities/geojson/Britain.json"
 data-active="true"></var>
 
 In the seventeenth and eighteenth centuries, *Mentha* engaged the attention of numerous well-known British botanists including John Ray (1627-1705), Adam Buddle (1662–1715), [Samuel Dale (1659-1739)](https://plants.jstor.org/stable/10.5555/al.ap.person.bm000150941) and Jacob Bobart (1641-1719). They could be found collecting a variety of mint species across Britain and exchanged their findings via written correspondence. They were intrigued by the properties and characteristics of the specimens, as well as 'conjectures about the synonyms of authors'.[^ref5] Indeed, in Transactions of the [Linnaean Society](www.linnean.org), the botanist and naturalist James Edward Smith (1759 – 17 March 1828) stated that '[no British genus of plants](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.1800.tb00591.x), except perhaps Conserva, has been hitherto less understood than that of  *Mentha*; either with respect to its species, and the principles upon which their distinctions ought to be founded, or the synonyms of those species in the most recent, as well as the more ancient writers'.[^ref6]
@@ -73,7 +80,7 @@ The taxonomy of the genus *Mentha* has, in the words of Lawrence, 'been in a sta
 
 
 
-This problematic nature of identifying and naming mint however does not appear to have prevented the plant from becoming a significant commercial crop. Mint, especially commercial mint, is not considered native to North America but Elder [William Brewster (1568–1644)](https://en.wikipedia.org/wiki/William_Brewster_(Mayflower_passenger)), a passenger on the [*Mayflower*](https://en.wikipedia.org/wiki/Mayflower) voyage in 1620, is known to have grown a variety of mint in his garden in [Plymouth, Massachusetts](https://en.wikipedia.org/wiki/Plymouth,_Massachusetts) not long after arriving from Europe.[^ref9] From this information, the naturalist and traveller [John Josselyn (1608-1675)](https://en.wikipedia.org/wiki/John_Josselyn) postulated that the New World was introduced to mint, or ‘Labiatae’, by the pilgrims. Josselyn travelled to New England in 1638 and again in 1663, documenting his travels and the natural world he encountered in two publications. The first, [*New England's Rarities*](https://biodiversitylibrary.org/page/24624464), was published in London in 1671, and the second, [*An Account of Two Voyages to New England*](https://biodiversitylibrary.org/page/47096615), in 1674. 
+This problematic nature of identifying and naming mint however does not appear to have prevented the plant from becoming a significant commercial crop. Mint, especially commercial mint, is not considered native to North America but Elder William Brewster (1568–1644), a passenger on the *Mayflower* voyage in 1620, is known to have grown a variety of mint in his garden in Plymouth, Massachusetts not long after arriving from Europe.[^ref9] From this information, the naturalist and traveller John Josselyn (1608-1675) postulated that the New World was introduced to mint, or ‘Labiatae’, by the pilgrims. Josselyn travelled to New England in 1638 and again in 1663, documenting his travels and the natural world he encountered in two publications. The first, [*New England's Rarities*](https://biodiversitylibrary.org/page/24624464), was published in London in 1671, and the second, [*An Account of Two Voyages to New England*](https://biodiversitylibrary.org/page/47096615), in 1674. 
 <var data-map title="New England" data-center="42.566426,-71.751354" data-zoom="4"></var>
 <var title="Plymouth" id="Q326295"></var>
 <!--<var data-map-layer
