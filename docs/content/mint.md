@@ -7,6 +7,11 @@
 
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
 
+<var title="Hades" id="Q41410"</var>
+<var title="Persephone" id="Q45967"></var>
+<var title="Cocytus" id="Q939218</var>
+<var title="Cocytus" id="Q939218" data-aliases="New World"></var>
+
 ## The ubiquity of mint: exploring plant mythology, naming and commercial value
 
 
@@ -23,7 +28,7 @@ Some scents regularly appear in our daily lives and give us a sense of familiari
 
 <!-- image viewer: ancient greek?-->
 
-Mint and common hybrid species such as peppermint have long been held in high esteem. Biblical reference to mint in the [Book of Matthew](https://en.wikipedia.org/wiki/Gospel_of_Matthew) suggests that it was a plant considered of high value to be used as ‘tithes by the Pharisees along with anise and cumin’ (Matthew xxiii, 23). Reaching back further to ancient Greece, where plants were entwined with mythology, Minthe was the Naiad-nymph daughter of the underworld river [Cocytus](https://en.wikipedia.org/wiki/Cocytus) and loved by the god [Hades](https://en.wikipedia.org/wiki/Hades). When Hades’ wife, [Persephone](https://en.wikipedia.org/wiki/Persephone), discovered the affair, she was propelled to transform Minthe in to the plant of her name:
+Mint and common hybrid species such as peppermint have long been held in high esteem. Biblical reference to mint in the [Book of Matthew](https://en.wikipedia.org/wiki/Gospel_of_Matthew) suggests that it was a plant considered of high value to be used as ‘tithes by the Pharisees along with anise and cumin’ (Matthew xxiii, 23). Reaching back further to ancient Greece, where plants were entwined with mythology, Minthe was the Naiad-nymph daughter of the underworld river and loved by the god Hades. When Hades’ wife, Persephone, discovered the affair, she was propelled to transform Minthe in to the plant of her name:
 
 >Near Pylos, towards the east, is a mountain named after Minthe, who, according to myth, became the concubine of Hades, was trampled under foot by Kore (Core) [Persephone], and was transformed into garden-mint, the plant which some call *hedyosmos*. Furthermore, near the mountain is a precinct sacred to Haides.[^ref1]
 
