@@ -9,21 +9,24 @@
 <var title="Aztec" id="Q2608489" data-aliases="Mexica"></var>
 <var title="Nahua peoples" id="Q826591" data-aliases="Nahua"></var>
 <var title="Nahuatl" id="Q13300"></var>
-<var title="Theobroma cacao" id="Q42385" data-aliases="cacao"></var>
-<var title="Juan Badiano" id="Q6298938"></var>
+<var title="Theobroma cacao" id="Q42385" data-aliases="cacao" data-aliases="_Theobroma cacao_"></var>
+<var title="Juan Badiano" id="Q6298938" data-aliases="Badiano"></var>
 <var title="Libellus de Medicinalibus Indorum Herbis" id="Q2204297" data-aliases="Badianus"></var>
 <var title="indigenous peoples" id="Q103817" data-aliases="indigenous"></var>
 <var title="Tlatelolco" id="Q14623011"></var>
-<var title="Santa Cruz" id="Q2477757"></var>
+<var title="Colegio de Santa Cruz de Tlatelolco" id="Q2477757" data-aliases="Santa Cruz"></var>
 <var title="Aztec" id="Q12542"></var>
-<var title="Mexica capital" id="Q13695"></var>
+<var title="Tenochtitlan" id="Q13695" data-aliases="Mexica capital"></var>
 <var title="early modern period" id="Q5308718"></var>
-<var title="manuscripts" id="Q87167"></var>
 <var title="herbals" id="Q6165948" data-aliases="herbal"></var>
 <var title="Francisco Hernández de Toledo" id="Q940017"></var>
-<var title="Quararibea funebris" id="Q7269144"></var>
+<var title="Quararibea funebris" id="Q7269144" data-aliases="_Quararibea funebris_"></var>
 <var title="(INAH)" id="Q901361"></var>
-<var title="" id=""></var>
+<var title="Mesoamerica" id="Q13703" data-aliases="Mesoamerican"></var>
+<var title="Olmeca" id="Q135364" data-aliases="Olmec"></var>
+<var title="Mayan Civilization" id="Q28567" data-aliases="Maya"></var>
+<var title="spatio-temporal entity" id="Q58415929" data-aliases="spatio-temporal"></var>
+<var title="Milpa" id="Q1537558"></var>
 <var title="" id=""></var>
 
 ## Cacao: An indigenous network and global commodity
@@ -40,9 +43,9 @@ While colonial encounters are often conceptualized as a one-way street, with the
 
 ### Early recipes
 
-After contact, the  earliest  representations of cacao come from  a Mexica (Aztec) herbal known as  the  Badianus  manuscript, a series of elaborately painted plants with their associated  names  in Nahuatl  and  recipes for treating various ailments  written in Latin.  This herbal  was  completed  in the 1550s  by at least two  Nahua men,  Martín  de la Cruz (an indigenous nobleman and physician) and Juan  Badianus  (an instructor of Latin),  at a European-funded and  established  school, Santa Cruz  in Tlatelolco, Mexico. Now held by the National Institute of Anthropology and History (INAH) in Mexico City, the manuscript has been reproduced in a diversity of ways since its original creation.[^ref1] In these elaborately created and recreated pieces, historically deep and broader indigenous ideologies are captured.[^ref2] <var data-map title="World" data-center="19.461194, -99.138983" data-zoom="10"></var>
+After contact, the  earliest  representations of cacao come from  a Mexica (Aztec) herbal known as  the Badianus manuscript, a series of elaborately painted plants with their associated  names  in Nahuatl  and  recipes for treating various ailments written in Latin.  This herbal  was  completed  in the 1550s  by at least two Nahua men,  Martín  de la Cruz (an indigenous nobleman and physician) and Juan Badiano  (an instructor of Latin),  at a European-funded and  established  school, Santa Cruz  in Tlatelolco, Mexico. Now held by the National Institute of Anthropology and History (INAH) in Mexico City, the manuscript has been reproduced in a diversity of ways since its original creation.[^ref1] In these elaborately created and recreated pieces, historically deep and broader indigenous ideologies are captured.[^ref2] <var data-map title="World" data-center="19.461194, -99.138983" data-zoom="10"></var>
 
-A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a recipe entitled “Trees and flowers for the fatigue of those administering the government and holding public office”.[^ref3] The other representation of cacao found in the text, identified as *Cacauaxochitl* in Nahautl, shows the plant in flower.[^ref4] This painting is featured with a recipe for “Mental Stupor” that calls for the use of the bark and roots of a flowered cacao. This same flowered cacao tree (*Cacauaxochitl*), while not illustrated, features in recipes for hurt feet and as a cure for fear. Not only do the watercolors present anatomically accurate plant structures, they also represent the ecology in which the plants grow.[^ref5] These details of the herbal clearly indicate that the Mexica had a broad understanding of botanical biology and ecology, a level of knowledge not represented in contemporaneous herbals of the time from European writers. <var data-image-viewer></var>
+A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a recipe entitled “Trees and flowers for the fatigue of those administering the government and holding public office”.[^ref3] The other representation of cacao found in the text, identified as *Cacauaxochitl* in Nahautl, shows the plant in flower.[^ref4] While previous scholars have identified this plant as _Quararibea funebris_ because of the similarity of the Nahuatl name given with that of one described by Francisco Hernández de Toledo, the orange and yellow petals along with the overall structure of the petals, style, and stamen depicted actually support the identification of it as a flowering and budding _Theobroma cacao_.[^ref5] The _Cacauaxochitl_ illustration is featured with a recipe for “Mental Stupor”, calling for the use of the bark and roots of a flowered cacao. This same flowered cacao tree (*Cacauaxochitl*), while not illustrated, features in recipes for hurt feet and as a cure for fear. Not only do the watercolors present anatomically accurate plant structures, they also represent the ecology in which the plants grow. The ecological knowledge in the manuscript includes both symbols and colors to represent their soils and roots as well as various faunal associations such as snakes or ants. These details of the herbal clearly indicate that the Mexica had a broad understanding of botanical biology and ecology, a level of knowledge not represented in contemporaneous herbals of the time from European writers. <var data-image-viewer></var>
 
 ### Ancient ideologies
 
