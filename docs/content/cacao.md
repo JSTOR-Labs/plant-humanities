@@ -1,4 +1,3 @@
-<--! -->
 [View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1RgQSh9qQ2BlJrjGTFKAZKxistXfldS7M)
 
 <var data-essay
@@ -18,25 +17,32 @@
 <var title="Santa Cruz" id="Q2477757"></var>
 <var title="Aztec" id="Q12542"></var>
 <var title="Mexica capital" id="Q13695"></var>
-
+<var title="early modern period" id="Q5308718"></var>
+<var title="manuscripts" id="Q87167"></var>
+<var title="herbals" id="Q6165948" data-aliases="herbal"></var>
+<var title="Francisco Hernández de Toledo" id="Q940017"></var>
+<var title="Quararibea funebris" id="Q7269144"></var>
+<var title="" id=""></var>
+<var title="" id=""></var>
+<var title="" id=""></var>
 
 ## Cacao: An indigenous network and global commodity
 
 ### Introduction
 
-<![endif]-->
-
-While colonial encounters are often conceptualized as a one-way street, with the colonizers subjugating the colonized, the historical picture is more complex. During the early modern period, Europeans sought to benefit from new economic goods and networks. To do so, their integration into the other cultural spheres of foreign lands was necessary. This meant learning about indigenous perspectives and knowledge, which Europeans exploited for their own benefit both in the New World and eventually back in their homelands, ultimately ‘globalizing’ said indigenous networks. One of the most famous prehistoric networks that Europeans made efforts to control was that of cacao, _Theobroma cacao_, and the primary sources from this time period document the knowledge they gained from the native populations of the Americas.
+While colonial encounters are often conceptualized as a one-way street, with the colonizers subjugating the colonized, the historical picture is more complex. During the early modern period, Europeans sought to benefit from new economic goods and networks in the Americas. However, economies do not function in a vacuum, and to truly benefit, Europeans found it was necessary to assimilate into the other cultural spheres of foreign lands. This meant learning about indigenous perspectives and knowledge, which Europeans exploited for their own benefit both in the New World and eventually back in their homelands, ultimately ‘globalizing’ pre-existing indigenous networks. One of the most famous indigenous networks that Europeans made efforts to control was that of cacao, _Theobroma cacao_. Primary sources from this time period such as herbals and manuscripts document the knowledge gained from the native populations of the Americas.
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="4"></var>
+<var data-map-layer
+     title="The Americas"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/north_america.json"
+     data-active="true"></var>
 
 ### Early recipes
 
 After contact, the earliest representations of cacao come from a Mexica (Aztec) herbal known as the Badianus manuscript, a series of elaborately painted plants with their associated names in Nahuatl and recipes for treating various ailments written in Latin.[^ref1] The creation of this herbal was completed in the 1550s by at least two Nahua men, Martín de la Cruz (a physician) and Juan Badiano (ainstructor), at a European-funded and established school, Santa Cruz in Tlatelolco, Mexico. It is in this beautifully created herbal that historically deep and broader indigenous ideologies are captured.[^ref2] <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="4"></var>
 
-A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a recipe entitled “Trees and flowers for the fatigue of those administering the government and holding public office”.[^ref3] The other representation of cacao found in the text, identified as *Cacauaxochitl* in Nahautl, shows the plant in flower.[^ref4] This painting is featured with a recipe for “Mental Stupor” that calls for the use of the bark and roots of a flowered cacao. This same flowered cacao tree (*Cacauaxochitl*), while not illustrated, features in recipes for hurt feet and as a cure for fear. Not only do the watercolors present anatomically accurate plant structures, they also represent the ecology in which the plants grow.[^ref5] These details of the herbal clearly indicate that the Mexica had a broad understanding of botanical biology and ecology, a level of knowledge not represented in contemporaneous herbals of the time from European writers.
-<var data-image-viewer></var>
-<var data-image id="badianus-1" title="Tlapalcacautl" data-url="https://kg.jstor.org/w/images/5/56/BadianusCacao1.jpg" data-region="455,168,847,867"></var>
-<var data-image id="badianus-2" title="Cacauaxochitl" data-url="https://kg.jstor.org/w/images/1/17/BadianusCacao2.jpg" data-region="41,147,604,918"></var>
+A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a recipe entitled “Trees and flowers for the fatigue of those administering the government and holding public office”.[^ref3] The other representation of cacao found in the text, identified as *Cacauaxochitl* in Nahautl, shows the plant in flower.[^ref4] This painting is featured with a recipe for “Mental Stupor” that calls for the use of the bark and roots of a flowered cacao. This same flowered cacao tree (*Cacauaxochitl*), while not illustrated, features in recipes for hurt feet and as a cure for fear. Not only do the watercolors present anatomically accurate plant structures, they also represent the ecology in which the plants grow.[^ref5] These details of the herbal clearly indicate that the Mexica had a broad understanding of botanical biology and ecology, a level of knowledge not represented in contemporaneous herbals of the time from European writers. <var data-image-viewer></var>
 
 ### Ancient ideologies
 
@@ -47,22 +53,20 @@ In these indigenous herbal remedies, the association of cacao with fearlessness,
      data-type="mapwarper"
      data-mapwarper-id="45355"
      data-active="true"></var>
-<var data-geojson
+<var data-map-layer
      title="Maya Region"
      data-aliases="Maya"
      data-type="geojson"
-     data-url="https://ithaka.github.io/labs-ph-essays/geojson/maya-region.json"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/maya-region.json"
      data-active="true"></var>
-<var data-geojson
+<var data-map-layer
      title="Olmec Region"
      data-type="geojson"
      data-aliases="Olmec"
-     data-url="https://ithaka.github.io/labs-ph-essays/geojson/olmec-region.json"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/olmec-region.json"
      data-active="true"></var>
 
 Maya leaders embodied the power of this cycle by representing themselves as, or in relation to, it and its associated plants of importance. For example, we see the ancient Maya depict [the ancestors of rulers as cacao trees growing from the sarcophagi of dead ‘maize god’ rulers](https://library-artstor-org.ezp-prod1.hul.harvard.edu/#/asset/ARTSTOR_103_41822000267326&fs) and [cacao trees anthropomorphized as deities](museum.doaks.org/Obj22807?sid=30693&x=51741&port=2652). By invoking this cycle in representing themselves, the deities, and their prestige, these political leaders were giving precedence and power to the subsistence practices and plants it entailed. Thus, the understanding of cacao as invoking or emerging from power and prestige has a broader spatio-temporal history, developing well before the arrival of Spaniards and the creation of the school in which de la Cruz and Badiano created the herbal.
-<var data-image id="13558213" title="Cacao and other fruit trees as ancestors growing from Pacal's sarcophagus" data-url="https://library-artstor-org.ezp-prod1.hul.harvard.edu/#/asset/ARTSTOR_103_41822000267326&fs"></var>
-
 
 The presence of cacao in a remedy for hurt feet within the Badianus wittily echoes the realities of indigenous economic networks. Without beasts of burden, the long-distance transport of cacao from the neotropics to the Mexica capital would have certainly caused one’s feet to ache. In [Hernán Cortés’ conquistador accounts](https://iiif.lib.harvard.edu/manifests/view/drs:427885396$228i), several regions are recognized for their tribute of cacao to the Mexica empire including Huauthla, Soconusco, and Cotaxtla, all of which are hundreds of miles from the capital. We learn from many other early colonial documents that roasted cacao beans were used as a currency throughout Mesoamerican history, highlighting how important a trade good this plant would have been. The political prowess needed to build and maintain the production and exchange networks associated with cacao would have certainly manufactured powerful polities across the neotropics.
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
