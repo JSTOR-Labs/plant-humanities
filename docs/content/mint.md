@@ -119,15 +119,15 @@ Over time, American mint oil production would spread westwards from the east coa
 <var title="Willamette" id="Q1703681"></var>
 <var title="Puget Island" id="Q3593402"></var>
 
-The mint industry in Washington and Oregon would go on to develop in line with sophisticated mechanical planting techniques and harvesting equipment. More recently, Washington farmers have faced increasing competition from [China](https://en.wikipedia.org/wiki/China) and [India](https://en.wikipedia.org/wiki/India), who appear able to supply the shifting consumer taste for a stronger mint flavor which cannot be easily provided by the peppermint species.
+The mint industry in Washington and Oregon would go on to develop in line with sophisticated mechanical planting techniques and harvesting equipment. More recently, Washington farmers have faced increasing competition from China and India, who appear able to supply the shifting consumer taste for a stronger mint flavor which cannot be easily provided by the peppermint species.
 <var data-map  id="China-map" data-center="33.541631,105.350142" data-zoom="4"></var>
-<var title="China" id="# Q148"></var>
-<var title="India" id="# Q668"></var>
 <var data-map-layer
 title="China"
 data-type="geojson"
 data-url="https://jstor-labs.github.io/plant-humanities/geojson/ChinaIndia.json"
 data-active="true"></var>
+<var title="China" id="# Q148"></var>
+<var title="India" id="# Q668"></var>
 
 ### Conclusions
 
