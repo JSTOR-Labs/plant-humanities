@@ -23,7 +23,7 @@
 <var title="Francisco Hernández de Toledo" id="Q940017"></var>
 <var title="Quararibea funebris" id="Q7269144"></var>
 <var title="(INAH)" id="Q901361"></var>
-<var title="Santa Cruz" id="Q2477757"></var>
+<var title="" id=""></var>
 <var title="" id=""></var>
 
 ## Cacao: An indigenous network and global commodity
