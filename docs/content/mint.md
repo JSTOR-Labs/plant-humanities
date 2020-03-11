@@ -123,6 +123,11 @@ The mint industry in Washington and Oregon would go on to develop in line with s
 <var data-map  id="China-map" data-center="33.541631,105.350142" data-zoom="4"></var>
 <var title="China" id="# Q148"></var>
 <var title="India" id="# Q668"></var>
+<var data-map-layer
+title="China"
+data-type="geojson"
+data-url="https://jstor-labs.github.io/plant-humanities/geojson/ChinaIndia.json"
+data-active="true"></var>
 
 ### Conclusions
 
