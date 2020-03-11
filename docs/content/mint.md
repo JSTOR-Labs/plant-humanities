@@ -100,8 +100,7 @@ Despite not being native to North America, peppermint and peppermint oil in part
 
 <var data-map title="World" data-center="37.874967,-41.896891" data-zoom="4"></var>
 <var data-map-layer  
-title="The Atlantic"  
-data-type="geojson"  
+title="Atlantic"data-type="geojson" 
 data-url="https://jstor-labs.github.io/plant-humanities/geojson/mintBrUSline.geojson"  
 data-active="true"></var>
 
