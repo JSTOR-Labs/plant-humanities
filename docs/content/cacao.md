@@ -27,7 +27,9 @@
 <var title="" id=""></var>
 
 ## Cacao: An indigenous network and global commodity
-
+ 
+ Hi
+ 
 ### Introduction
 
 While colonial encounters are often conceptualized as a one-way street, with the colonizers subjugating the colonized, the historical picture is more complex. During the early modern period, Europeans sought to benefit from new economic goods and networks in the Americas. However, economies do not function in a vacuum, and to truly benefit, Europeans found it was necessary to assimilate into the other cultural spheres of foreign lands. This meant learning about indigenous perspectives and knowledge, which Europeans exploited for their own benefit both in the New World and eventually back in their homelands, ultimately ‘globalizing’ pre-existing indigenous networks. One of the most famous indigenous networks that Europeans made efforts to control was that of cacao, _Theobroma cacao_. Primary sources from this time period such as herbals and manuscripts document the knowledge gained from the native populations of the Americas.
