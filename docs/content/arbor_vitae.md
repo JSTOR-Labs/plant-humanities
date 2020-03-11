@@ -2,7 +2,7 @@
 <var title="Arbor Vitae - Thuja occidentalis"></var></p>
 <p><var title="Abies balsamea" id="Q428023"></var><br>
 <var title="Picea glauca" id="Q128116"></var><br>
-&lt;var title=“Picea rubens” id="Q469151"data-aliases=“red spruce”&gt;<br>
+<var title="Picea rubens" id="Q469151"></var><br>
 <var title="Picea mariana" id="Q218425"></var><br>
 <var title="Pinus strobus" id="Q157230"></var><br>
 <var title="Pinus resinosa" id="Q2045958"></var><br>
