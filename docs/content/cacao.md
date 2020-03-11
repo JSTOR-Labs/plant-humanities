@@ -22,27 +22,25 @@
 <var title="herbals" id="Q6165948" data-aliases="herbal"></var>
 <var title="Francisco Hernández de Toledo" id="Q940017"></var>
 <var title="Quararibea funebris" id="Q7269144"></var>
-<var title="" id=""></var>
+<var title="National Institute of Anthropology and History" id="Q901361"></var>
 <var title="" id=""></var>
 <var title="" id=""></var>
 
 ## Cacao: An indigenous network and global commodity
  
- Hi
- 
 ### Introduction
 
-While colonial encounters are often conceptualized as a one-way street, with the colonizers subjugating the colonized, the historical picture is more complex. During the early modern period, Europeans sought to benefit from new economic goods and networks in the Americas. However, economies do not function in a vacuum, and to truly benefit, Europeans found it was necessary to assimilate into the other cultural spheres of foreign lands. This meant learning about indigenous perspectives and knowledge, which Europeans exploited for their own benefit both in the New World and eventually back in their homelands, ultimately ‘globalizing’ pre-existing indigenous networks. One of the most famous indigenous networks that Europeans made efforts to control was that of cacao, _Theobroma cacao_. Primary sources from this time period such as herbals and manuscripts document the knowledge gained from the native populations of the Americas.
-<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="4"></var>
+While colonial encounters are often conceptualized as a one-way street, with the colonizers subjugating the colonized, the historical picture is more complex. During the early modern period, Europeans sought to benefit from new economic goods and networks in the Americas. However, economies do not function in a vacuum and, to truly benefit, Europeans found it was necessary to assimilate into the other cultural spheres of foreign lands. This meant learning about indigenous perspectives and knowledge, which Europeans exploited for their own benefit both in the New World and eventually back in their homelands, ultimately ‘globalizing’ pre-existing indigenous networks. One of the most famous indigenous networks that Europeans made efforts to control was that of cacao, _Theobroma cacao_. The primary sources from this initial period of interaction document the knowledge gained from the native populations of the Americas.
+<var data-map title="World" data-center="23.530645, -40.108534" data-zoom="2"></var>
 <var data-map-layer
-     title="The Americas"
+     title="Americas and Europe"
      data-type="geojson"
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/north_america.json"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Americas and Europe.json"
      data-active="true"></var>
 
 ### Early recipes
 
-After contact, the earliest representations of cacao come from a Mexica (Aztec) herbal known as the Badianus manuscript, a series of elaborately painted plants with their associated names in Nahuatl and recipes for treating various ailments written in Latin.[^ref1] The creation of this herbal was completed in the 1550s by at least two Nahua men, Martín de la Cruz (a physician) and Juan Badiano (ainstructor), at a European-funded and established school, Santa Cruz in Tlatelolco, Mexico. It is in this beautifully created herbal that historically deep and broader indigenous ideologies are captured.[^ref2] <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="4"></var>
+After contact, the  earliest  representations of cacao come from  a Mexica (Aztec) herbal known as  the  Badianus  manuscript, a series of elaborately painted plants with their associated  names  in Nahuatl  and  recipes for treating various ailments  written in Latin.  This herbal  was  completed  in the 1550s  by at least two  Nahua men,  Martín  de la Cruz (an indigenous nobleman and physician) and Juan  Badianus  (an instructor of Latin),  at a European-funded and  established  school, Santa Cruz  in Tlatelolco, Mexico. Now held by the National Institute of Anthropology and History in Mexico City, the manuscript has been reproduced in a diversity of ways since its original creation.[^ref1] In these elaborately created and recreated pieces, historically deep and broader indigenous ideologies are captured.[^ref2] <var data-map title="World" data-center="19.461194, -99.138983" data-zoom="8"></var>
 
 A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a recipe entitled “Trees and flowers for the fatigue of those administering the government and holding public office”.[^ref3] The other representation of cacao found in the text, identified as *Cacauaxochitl* in Nahautl, shows the plant in flower.[^ref4] This painting is featured with a recipe for “Mental Stupor” that calls for the use of the bark and roots of a flowered cacao. This same flowered cacao tree (*Cacauaxochitl*), while not illustrated, features in recipes for hurt feet and as a cure for fear. Not only do the watercolors present anatomically accurate plant structures, they also represent the ecology in which the plants grow.[^ref5] These details of the herbal clearly indicate that the Mexica had a broad understanding of botanical biology and ecology, a level of knowledge not represented in contemporaneous herbals of the time from European writers. <var data-image-viewer></var>
 
@@ -99,7 +97,7 @@ The political and economic powers of Europe took note of these early accounts of
 
 ### References
 
-[^ref1]: Cruz, M., Badiano, J., Trueblood, E., & Katherine Golden Bitting Collection on Gastronomy. (1940). *The Badianus manuscript, Codex Barberini, Latin 241, Vatican Library; an Aztec herbal of 1552.* Baltimore: Johns Hopkins Press.
+[^ref1]: See: Clayton, M., Guerrini, L., Ávila Blomberg, A., Windsor Castle. Royal Library, & Royal Collection. (2009). _Flora: The Aztec herbal_ (Paper museum of Cassiano dal Pozzo. Series B, Natural history; pt. 8). London: Royal Collection, in association with Harvey Mille.; Cruz, M., Badiano, J., Gates, W., & Julio Mario Santo Domingo Collection. (1939). The de la Cruz-Badiano Aztec herbal of 1552 (Publication (Maya Society); no. 23). Baltimore, Md.: The Maya Society.; Cruz, M., Badiano, J., Trueblood, E., & Katherine Golden Bitting Collection on Gastronomy. (1940). The Badianus manuscript, Codex Barberini, Latin 241, Vatican Library; an Aztec herbal of 1552. Baltimore: Johns Hopkins Press.; Vuillemin, T., Gates, W., Cruz, M., & Biblioteca apostolica vaticana. (1931). Water Color Reproductions of the Herbs in the Badianus Manuscript (Codex Barberini, Latin 241) Vatican Library: An Aztec Herbal of 1552.
 
 [^ref2]: De Vos, P. (2017) ‘Methodological challenges involved in compiling the Nahua pharmacopeia’, History of Science, 55(2), pp. 210–233. doi: 10.1177/0073275317712139.
 
