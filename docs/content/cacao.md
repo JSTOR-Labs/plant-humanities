@@ -22,8 +22,8 @@
 <var title="herbals" id="Q6165948" data-aliases="herbal"></var>
 <var title="Francisco Hernández de Toledo" id="Q940017"></var>
 <var title="Quararibea funebris" id="Q7269144"></var>
-<var title="National Institute of Anthropology and History" id="Q901361"></var>
-<var title="" id=""></var>
+<var title="(INAH)" id="Q901361"></var>
+<var title="Santa Cruz" id="Q2477757"></var>
 <var title="" id=""></var>
 
 ## Cacao: An indigenous network and global commodity
@@ -40,7 +40,7 @@ While colonial encounters are often conceptualized as a one-way street, with the
 
 ### Early recipes
 
-After contact, the  earliest  representations of cacao come from  a Mexica (Aztec) herbal known as  the  Badianus  manuscript, a series of elaborately painted plants with their associated  names  in Nahuatl  and  recipes for treating various ailments  written in Latin.  This herbal  was  completed  in the 1550s  by at least two  Nahua men,  Martín  de la Cruz (an indigenous nobleman and physician) and Juan  Badianus  (an instructor of Latin),  at a European-funded and  established  school, Santa Cruz  in Tlatelolco, Mexico. Now held by the National Institute of Anthropology and History in Mexico City, the manuscript has been reproduced in a diversity of ways since its original creation.[^ref1] In these elaborately created and recreated pieces, historically deep and broader indigenous ideologies are captured.[^ref2] <var data-map title="World" data-center="19.461194, -99.138983" data-zoom="8"></var>
+After contact, the  earliest  representations of cacao come from  a Mexica (Aztec) herbal known as  the  Badianus  manuscript, a series of elaborately painted plants with their associated  names  in Nahuatl  and  recipes for treating various ailments  written in Latin.  This herbal  was  completed  in the 1550s  by at least two  Nahua men,  Martín  de la Cruz (an indigenous nobleman and physician) and Juan  Badianus  (an instructor of Latin),  at a European-funded and  established  school, Santa Cruz  in Tlatelolco, Mexico. Now held by the National Institute of Anthropology and History (INAH) in Mexico City, the manuscript has been reproduced in a diversity of ways since its original creation.[^ref1] In these elaborately created and recreated pieces, historically deep and broader indigenous ideologies are captured.[^ref2] <var data-map title="World" data-center="19.461194, -99.138983" data-zoom="10"></var>
 
 A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a recipe entitled “Trees and flowers for the fatigue of those administering the government and holding public office”.[^ref3] The other representation of cacao found in the text, identified as *Cacauaxochitl* in Nahautl, shows the plant in flower.[^ref4] This painting is featured with a recipe for “Mental Stupor” that calls for the use of the bark and roots of a flowered cacao. This same flowered cacao tree (*Cacauaxochitl*), while not illustrated, features in recipes for hurt feet and as a cure for fear. Not only do the watercolors present anatomically accurate plant structures, they also represent the ecology in which the plants grow.[^ref5] These details of the herbal clearly indicate that the Mexica had a broad understanding of botanical biology and ecology, a level of knowledge not represented in contemporaneous herbals of the time from European writers. <var data-image-viewer></var>
 
