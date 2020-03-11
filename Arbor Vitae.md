@@ -6,7 +6,7 @@
 
 <var title="Abies balsamea" id="Q428023" data-aliases="fir"></var>
 <var title="Picea glauca" id="Q128116"></var>
-<var title="Picea rubens" id="Q469151"data-aliases="red spruce"></var>
+<var title="Picea rubens" id="Q469151" data-aliases="red spruce"></var>
 <var title="Picea mariana" id="Q218425" data-aliases="epinettenoire"></var>
 <var title="Pinus strobus" id="Q157230" data-aliases="white pine"></var>
 <var title="Pinus resinosa" id="Q2045958"></var>
