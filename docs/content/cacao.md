@@ -30,8 +30,8 @@
 <var title="Forest gardening" id="Q276109" data-aliases="forest garden"></var>
 <var title="Neotropic" id="Q217151" data-aliases="neotropics" data-aliases="neotropical"></var>
 <var title="Municipality of Huautla de Jiménez" id="Q3888662" data-aliases="Huauthla"></var>
-<var title="Soconusco" id=""></var>
-<var title="Cotaxtla" id=""></var>
+<var title="Soconusco" id="Q2269745"></var>
+<var title="Cotaxtla Municipality" id="Q13393188" data-aliases="Cotaxtla"></var>
 <var title="currency" id=""></var>
 <var title="" id=""></var>
 
