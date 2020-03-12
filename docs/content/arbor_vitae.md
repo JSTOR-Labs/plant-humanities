@@ -36,6 +36,7 @@
 <var title="Stadacona" id="Q3339246" data-aliases="St. Lawrence River"></var>
 <var title="Hochelaga" id="Q544356" data-aliases="local Indians"></var>
 <var title="St. Lawrence Iroquoians" id="Q129060"></var>
+<var title="Palace of Fontainebleau" id="Q201428" data-alias="Fontainebleau"></var>
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
 
 ## Arbor Vitæ - Thuja occidentalis
@@ -111,7 +112,7 @@ The Ojibwa and many other Indigenous peoples of eastern north America boiled the
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maritime_Indians.json"
      data-active="true"></var>
 
-The concepts of disease and medicine of Indigenous Peoples of eastern North America were interwoven with their overall "world view" and religious beliefs. Thus, the practice of medicine and religion often overlapped. However, unlike the European view of Indian medicines, which they often described as panaceas, the Iroquois practiced (and continue to practice) a form of sympathetic medicine. That is to say that the Iroquois identified relationships between cure and disease and often prescribed specific plant remedies for specific ailments.[^ref6]  We can see this in the case of the tree of life. When Cartier implored Domagaia for the secret to his miraculous recovery from the illness that plagued his men, Domagaia explained that [“he had taken the juice and sappe of the leaves of a certaine tree, and therewith had healed himself: For it was a singular remedie against that disease.”](https://hdl.handle.net/2027/aeu.ark:/13960/t35151v01?urlappend=%253Bseq=85) After centuries of surviving the harsh winters of eastern Canada, the St. Lawrence Iroquois had developed a successful treatment for a disease that commonly beset individuals living in cold climates—scurvy.
+Unlike the European view of Indian medicines, which they often described as panaceas, the Iroquois practiced (and continue to practice) a form of sympathetic medicine. That is to say that the Iroquois identified relationships between cure and disease and often prescribed specific plant remedies for specific ailments.[^ref6]  We can see this in the case of the tree of life. When Cartier implored Domagaia for the secret to his miraculous recovery from the illness that plagued his men, Domagaia explained that [“he had taken the juice and sappe of the leaves of a certaine tree, and therewith had healed himself: For it was a singular remedie against that disease.”](https://hdl.handle.net/2027/aeu.ark:/13960/t35151v01?urlappend=%253Bseq=85) After centuries of surviving the harsh winters of eastern Canada, the St. Lawrence Iroquois had developed a successful treatment for a disease that commonly beset individuals living in cold climates—scurvy.
 <var data-map title="Gulf of Saint Lawrence" data-center="42.655350,-74.715453" data-zoom="4"></var>
 <var data-map-layer
      title="maritime indians"
@@ -120,6 +121,9 @@ The concepts of disease and medicine of Indigenous Peoples of eastern North Amer
      data-active="true"></var>
 
 Scurvy is an acute chronic illness caused by a dietary deficiency of ascorbic acid, or vitamin C.[^ref7]  Historically, scurvy was common in sailors because sea voyages often required long periods of time at sea, without fresh fruits and vegetables (common dietary sources of vitamin C). Without vitamin C, human bodies cannot properly use the carbohydrates, fats, and protein it digests. Untreated, scurvy leads to exhaustion, anemia, bleeding and bruising, pain in the limbs (especially the legs), swelling of your extremities, and in severe cases decay of gum tissue and loss of teeth. While scurvy is generally thought of as maritime disease, we now know that exposure to long periods of cold temperatures can also lead to ascorbic-acid insufficiency and cause scurvy. This is exactly what happen to Cartier’s men, who, thanks to that winter’s icy conditions, were stranded in the Gulf of Saint Lawrence.
+<var data-map title="Gulf of Saint Lawrence" data-center="42.655350,-74.715453" data-zoom="4"></var>
+<var data-image-viewer></var>  
+<var data-image id="wikicommons" title="A case of Scurvy journal of Henry Walsh" data-url="https://upload.wikimedia.org/wikipedia/commons/c/c8/A_case_of_Scurvy_journal_of_Henry_Walsh_Mahon.jpg" data-region=""></var>
 
 Today, Adult scurvy is treated with 300–1000 mg of ascorbic acid per day. Although lemons and oranges are traditionally associated with high levels of vitamin C (50 mg/100 g) the reduced ascorbic acid in 100 grams of fresh needles and shoots from many conifers exceeds or matches the vitamin C in citrus. For example, *Abies balsamea* has 270 mg, *Picea rubens* 169 mg, and *Thuja occidentalis* 45 mg.[^ref8]  Furthermore, as Don J. Durzan has highlighted in his scientific analysis of coniferous biofactors, in the winter when food was scarce and the temperature plummeted, the coniferous “trees of life” provided vital vitamins, arginine, proline, other conditionally and essential amino acids, and antioxidants, all of which aided in the recovery from of scurvy.
 
