@@ -115,7 +115,10 @@ Over time, American mint oil production would spread westwards from the east coa
 <var title="Michigan" id="Q1166"></var>
 <var title="Willamette" id="Q1703681"></var>
 <var title="Puget Island" id="Q3593402"></var>
+<var data-map-layer title="North America" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mintNAmerica.geojson data-active="true"></var>
 <var data-map-layer title="North America" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mintinNAmerica.geojson data-active="true"></var>
+
+
 
 The mint industry in Washington and Oregon would go on to develop in line with sophisticated mechanical planting techniques and harvesting equipment. More recently, Washington farmers have faced increasing competition from China and India, who appear able to supply the shifting consumer taste for a stronger mint flavor which cannot be easily provided by the peppermint species.
 <var data-map id="China-map" data-center="33.541631,105.350142" data-zoom="4"></var>
