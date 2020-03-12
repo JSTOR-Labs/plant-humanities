@@ -5,11 +5,9 @@
      data-banner="/images/cacao.jpg"
      data-debug="false"></var>
      
-<var title="Americas" id="Q828" data-aliases="New World"></var>
 <var title="Aztec" id="Q2608489" data-aliases="Mexica"></var>
 <var title="Nahua peoples" id="Q826591" data-aliases="Nahua"></var>
 <var title="Nahuatl" id="Q13300"></var>
-<var title="Theobroma cacao" id="Q42385" data-aliases="cacao"></var>
 <var title="Juan Badiano" id="Q6298938" data-aliases="Badiano"></var>
 <var title="Libellus de Medicinalibus Indorum Herbis" id="Q2204297" data-aliases="Badianus"></var>
 <var title="indigenous peoples" id="Q103817" data-aliases="indigenous"></var>
@@ -33,19 +31,21 @@
 <var title="Soconusco" id="Q2269745"></var>
 <var title="Cotaxtla Municipality" id="Q13393188" data-aliases="Cotaxtla"></var>
 <var title="God L" id="Q12744014"></var>
+<var title="Hernán Cortés" id="Q7326" data-aliases="Hernán Cortés’"></var>
 <var title="" id=""></var>
 
 ## Cacao: An indigenous network and global commodity
  
 ### Introduction
 
-While colonial encounters are often conceptualized as a one-way street, with the colonizers subjugating the colonized, the historical picture is more complex. During the early modern period, Europeans sought to benefit from new economic goods and networks in the Americas. However, economies do not function in a vacuum and, to truly benefit, Europeans found it was necessary to assimilate into the other cultural spheres of foreign lands. This meant learning about indigenous perspectives and knowledge, which Europeans exploited for their own benefit both in the New World and eventually back in their homelands, ultimately ‘globalizing’ pre-existing indigenous networks. One of the most famous indigenous networks that Europeans made efforts to control was that of cacao, _Theobroma cacao_. The primary sources from this initial period of interaction document the knowledge gained from the native populations of the Americas.
+While colonial encounters are often conceptualized as a one-way street, with the colonizers subjugating the colonized, the historical picture is more complex. During the early modern period, Europeans sought to benefit from new economic goods and networks in the Americas. However, economies do not function in a vacuum and, to truly benefit, Europeans found it was necessary to assimilate into the other cultural spheres of foreign lands. This meant learning about indigenous perspectives and knowledge, which Europeans exploited for their own benefit both in the New World and eventually back in their homelands, ultimately ‘globalizing’ pre-existing indigenous networks. One of the most famous indigenous networks that Europeans made efforts to control was that of <var scope="element" id="Q42385"> cacao </var>,  _Theobroma cacao_. The primary sources from this initial period of interaction document the knowledge gained from the native populations of the Americas.
 <var data-map title="World" data-center="23.530645, -40.108534" data-zoom="2"></var>
 <var data-map-layer
      title="Americas and Europe"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Americas and Europe.json"
      data-active="true"></var>
+<var title="Americas" id="Q828" data-aliases="New World"></var>
 
 ### Early recipes
 
@@ -77,7 +77,7 @@ In these indigenous herbal remedies, the association of cacao with fearlessness,
 
 Maya leaders embodied the power of this cycle by representing themselves as, or in relation to, it and its associated plants of importance. For example, we see the ancient Maya depict [the ancestors of rulers as cacao trees growing from the sarcophagi of dead ‘maize god’ rulers](https://library-artstor-org.ezp-prod1.hul.harvard.edu/#/asset/ARTSTOR_103_41822000267326&fs) and [cacao trees anthropomorphized as deities](museum.doaks.org/Obj22807?sid=30693&x=51741&port=2652). By invoking this cycle in representing themselves, the deities, and their prestige, these political leaders were giving precedence and power to the subsistence practices and plants it entailed. Thus, the understanding of cacao as invoking or emerging from power and prestige has a broader spatio-temporal history, developing well before the arrival of Spaniards and the creation of the school in which de la Cruz and Badiano created the herbal.
 
-The presence of cacao in a remedy for hurt feet within the Badianus wittily echoes the realities of indigenous economic networks. Without beasts of burden, the long-distance transport of cacao from the neotropics to the Mexica capital would have certainly caused one’s feet to ache. In [Hernán Cortés’ conquistador accounts](https://iiif.lib.harvard.edu/manifests/view/drs:427885396$228i), several regions are recognized for their tribute of cacao to the Mexica empire including Huauthla, Soconusco, and Cotaxtla, all of which are hundreds of miles from the capital. We learn from many other early colonial documents that roasted cacao beans were used as a currency throughout Mesoamerican history, highlighting how important a trade good this plant would have been. The political prowess needed to build and maintain the production and exchange networks associated with cacao would have certainly manufactured powerful polities across the neotropics.
+The presence of cacao in a remedy for hurt feet within the Badianus wittily echoes the realities of indigenous economic networks. Without beasts of burden, the long-distance transport of cacao from the neotropics to the Mexica capital would have certainly caused one’s feet to ache. In Hernán Cortés’ conquistador accounts, several regions are recognized for their tribute of cacao to the Mexica empire including Huauthla, Soconusco, and Cotaxtla, all of which are hundreds of miles from the capital. We learn from many other early colonial documents that roasted cacao beans were used as a currency throughout Mesoamerican history, highlighting how important a trade good this plant would have been. The political prowess needed to build and maintain the production and exchange networks associated with cacao would have certainly manufactured powerful polities across the neotropics.
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
      title="Neotropic Ecozone"
@@ -85,7 +85,7 @@ The presence of cacao in a remedy for hurt feet within the Badianus wittily echo
      data-mapwarper-id="45365"
      data-active="true"></var>
 
-Eventually, these networks created a taste for cacao in far-reaching lands that maintained the high status and importance of neotropical polities during ancient and historic periods.[^ref9],[^ref10] This relationship between long-distance trade and cacao is also reflected in the ancient Maya God L, who is often depicted in relation to cacao and merchant regalia.[^ref11]  Ultimately, the ancient association of commerce with cacao suggests that the neotropics have a deep history with long-distance trade between the many regions of Mesoamerica and that cacao was likely a source of power and prestige for those occupying the environs where it could best grow. It is no wonder that ancient rulers invoked cacao in their ritual and political exchanges and ceremonies, which often included the imbibing of cacao beverages or the [gifting of cacao vessels](https://hollis.harvard.edu/primo-explore/viewallcomponentmetadata/L/HVD_VIA8001542575?vid=HVD2&tab=everything&adaptor=Local%20Search%20Engine).[^ref12],[^ref13]
+Eventually, these networks created a taste for cacao in far-reaching lands that maintained the high status and importance of neotropical polities during ancient and historic periods.[^ref9],[^ref10] This relationship between long-distance trade and cacao is also reflected in the ancient Maya God L, who is often depicted in relation to cacao and merchant regalia.[^ref11]  Ultimately, the ancient association of commerce with cacao suggests that the neotropics have a deep history with long-distance trade between the many regions of Mesoamerica and that cacao was likely a source of power and prestige for those occupying the environs where it could best grow. It is no wonder that ancient rulers invoked cacao in their ritual and political exchanges and ceremonies, which often included the imbibing of cacao beverages or the gifting of cacao vessels, such as the Buenavista cylinder vase.[^ref12] [^ref13]
 <var data-image-viewer></var>
 <var data-image id="hollis-459304944" title="Classic Maya Buenavista Cylinder Vase" data-url="https://ids.lib.harvard.edu/ids/iiif/459304944/full/full/0/default.jpg" data-region="0,0,0,0"></var>
 <var data-image id="hollis-459304936" title="Classic Maya Buenavista Cylinder Vase Rollout" data-url="https://ids.lib.harvard.edu/ids/iiif/459304936/full/full/0/default.jpg" data-region="0,0,0,0"></var>
