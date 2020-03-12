@@ -9,7 +9,7 @@
 <var title="Aztec" id="Q2608489" data-aliases="Mexica"></var>
 <var title="Nahua peoples" id="Q826591" data-aliases="Nahua"></var>
 <var title="Nahuatl" id="Q13300"></var>
-<var title="Theobroma cacao" id="Q42385" data-aliases="cacao" data-aliases="_Theobroma cacao_"></var>
+<var title="Theobroma cacao" id="Q42385" data-aliases="cacao"></var>
 <var title="Juan Badiano" id="Q6298938" data-aliases="Badiano"></var>
 <var title="Libellus de Medicinalibus Indorum Herbis" id="Q2204297" data-aliases="Badianus"></var>
 <var title="indigenous peoples" id="Q103817" data-aliases="indigenous"></var>
@@ -28,6 +28,11 @@
 <var title="spatio-temporal entity" id="Q58415929" data-aliases="spatio-temporal"></var>
 <var title="Milpa" id="Q1537558"></var>
 <var title="Forest gardening" id="Q276109" data-aliases="forest garden"></var>
+<var title="Neotropic" id="Q217151" data-aliases="neotropics" data-aliases="neotropical"></var>
+<var title="Municipality of Huautla de Jiménez" id="Q3888662" data-aliases="Huauthla"></var>
+<var title="Soconusco" id=""></var>
+<var title="Cotaxtla" id=""></var>
+<var title="currency" id=""></var>
 <var title="" id=""></var>
 
 ## Cacao: An indigenous network and global commodity
@@ -50,7 +55,7 @@ A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a r
 
 ### Ancient ideologies
 
-In these indigenous herbal remedies, the association of cacao with fearlessness, political governance, and ultimately power echoes what is known about ideologies surrounding cacao for thousands of years prior from Olmec, Maya, and other Mesoamerican cultures.[^ref6] In several Mesoamerican ideologies, the plant itself represented an important stage in the life cycle of the natural world, emerging after the death of maize. This cycle has been referred to as a forest garden or milpa, a subsistence strategy that was central to providing sustenance to millions of neotropical inhabitants.[^ref7] The milpa strategy is a process of felling, burning, planting, and harvesting a plot of land that, after a few years, is left to ‘fallow’.[^ref8] and harvesting a plot of land that, after a few years, is left to ‘fallow’. Although, this would not be a fallow in the traditional sense of the word where land is left uncultivated and untouched. Instead, certain useful trees, such as cacao, and plants were encouraged to grow in what would have looked like ‘wild’ plots to Europeans.
+In these indigenous herbal remedies, the association of cacao with fearlessness, political governance, and ultimately power echoes what is known about cacao for thousands of years prior from Olmec, Maya, and other Mesoamerican cultures.[^ref6] Prior to European arrival, a network of cacao production, trade, and consumption as well as its associated ideologies was well-established across the Americas. In several indigenous cultures, the plant itself represented an important stage in the life cycle of the natural world, emerging after the death of maize. This cycle has been referred to as a forest garden or milpa, a subsistence strategy that was central to providing sustenance to millions of neotropical inhabitants.[^ref7] The milpa strategy is a process of felling, burning, planting, and harvesting a plot of land that, after a few years, is left to ‘fallow’.[^ref8] However, this would not be a fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots.
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
      title="Mesoamerica"
