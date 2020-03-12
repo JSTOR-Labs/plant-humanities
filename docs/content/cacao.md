@@ -32,7 +32,7 @@
 <var title="Municipality of Huautla de Jiménez" id="Q3888662" data-aliases="Huauthla"></var>
 <var title="Soconusco" id="Q2269745"></var>
 <var title="Cotaxtla Municipality" id="Q13393188" data-aliases="Cotaxtla"></var>
-<var title="currency" id=""></var>
+<var title="God L" id="Q12744014"></var>
 <var title="" id=""></var>
 
 ## Cacao: An indigenous network and global commodity
