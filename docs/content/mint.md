@@ -7,9 +7,6 @@
 
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
 
-
-
-
 <var title="James Edward Smith" id="Q458004"></var>
 <var title="William Brewster" id="Q864709"></var>
 <var title="Mayflower" id="Q187093"></var>
@@ -60,7 +57,7 @@ data-type="geojson"
 data-url="https://jstor-labs.github.io/plant-humanities/geojson/Britain.json"
 data-active="true"></var>
 
-In the seventeenth and eighteenth centuries, *Mentha* engaged the attention of numerous well-known British botanists including <var scope="element" id="Q316949">John Ray (1627-1705)</var>, <var scope="element" id="Q3774295">Adam Buddle (1662–1715)</var>, [Samuel Dale (1659-1739)](https://plants.jstor.org/stable/10.5555/al.ap.person.bm000150941) and <var scope="element" id="Q6118394">Jacob Bobart (1641-1719)</var>. They could be found collecting a variety of mint species across Britain and exchanged their findings via written correspondence. They were intrigued by the properties and characteristics of the specimens, as well as 'conjectures about the synonyms of authors'.[^ref5] Indeed, in Transactions of the [Linnaean Society](www.linnean.org), the botanist and naturalist James Edward Smith (1759 – 17 March 1828) stated that '[no British genus of plants](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.1800.tb00591.x), except perhaps Conserva, has been hitherto less understood than that of  *Mentha*; either with respect to its species, and the principles upon which their distinctions ought to be founded, or the synonyms of those species in the most recent, as well as the more ancient writers'.[^ref6]
+In the seventeenth and eighteenth centuries, *Mentha* engaged the attention of numerous well-known British botanists including <var scope="element" id="Q316949">John Ray (1627-1705)</var>, <var scope="element" id="Q3774295">Adam Buddle (1662–1715)</var>, [Samuel Dale (1659-1739)](https://plants.jstor.org/stable/10.5555/al.ap.person.bm000150941) and Jacob Bobart. They could be found collecting a variety of mint species across Britain and exchanged their findings via written correspondence. They were intrigued by the properties and characteristics of the specimens, as well as 'conjectures about the synonyms of authors'.[^ref5] Indeed, in Transactions of the [Linnaean Society](www.linnean.org), the botanist and naturalist James Edward Smith (1759 – 17 March 1828) stated that '[no British genus of plants](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.1800.tb00591.x), except perhaps Conserva, has been hitherto less understood than that of  *Mentha*; either with respect to its species, and the principles upon which their distinctions ought to be founded, or the synonyms of those species in the most recent, as well as the more ancient writers'.[^ref6]
 
 The taxonomy of the genus *Mentha* has, in the words of Lawrence, 'been in a state of flux, with more than 3000 names published since 1753'.[^ref7] In fact, the last comprehensive classification of the genus  *Mentha* was, according to Lawrence, published over a century ago in 1896.  *Mentha* is a member of the *Lamiaceae* (formerly *Labiatea*) family which itself includes many other families including at least 236 genera and over 7000 species. As a genus,  *Mentha* is based on a combination of many characteristics rather than one unique character ranging from the inclusion of four equal stamens and naked filaments. Around 95% of the 3000 names published for the genus  *Mentha* since 1753 (the publication year of Linnaean’s *Species Plantarum*) are synonyms or illegitimate, being known as 'infraspecific taxa' and this problem is due to the ease of which  *Mentha* can be hybridised.[^ref8]
 
