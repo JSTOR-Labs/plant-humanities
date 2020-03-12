@@ -25,12 +25,8 @@
 <var data-image id="" title="" data-url=".jpg" data-region="455,168,847,867"></var>-->
 
 Some scents regularly appear in our daily lives and give us a sense of familiarity. Mint is one such example of a ubiquitous plant, and one that we think we know. The strong scent and taste of mint, the notable green leaves with serrated edges, and the broad consumer uses of this plant that are so common to us today (such as toothpaste and chewing gum), obscures the lesser known fact that mint has a more nuanced history of naming and identification. Mint, known as the genus [*Mentha*](www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30016176-2), is part of the [*Lamiaceae*](www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000097-2) family. It is an aromatic and perennial herb and species include bergamot mint, spearmint, pennyroyal and peppermint. These species can be found distributed across parts of Africa, Asia, Europe, Australia, and North America, happily growing in wet and damp environments. With its ability to naturally hybridize, there are a wide variety of plants within the mint family. To consider how the generic mint plant has become so familiar in our everyday lives, we begin here with an account of ancient Greek mythology and then a look at the history of naming and identification of mint. The example of peppermint is then used to consider a plant’s ability to succeed as a commercial crop in America.
-<var data-map-layer
-title="Global"
-data-type="geojson"
-data-url="https://jstor-labs.github.io/plant-humanities/geojson/mdistribution.json"
-data-active="true"></var>
-
+<var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
+<var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdistribution.jsondata-active="true"></var>
 
 
 
