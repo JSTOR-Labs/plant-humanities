@@ -19,8 +19,7 @@
 
 Some scents regularly appear in our daily lives and give us a sense of familiarity. Mint is one such example of a ubiquitous plant, and one that we think we know. The strong scent and taste of mint, the notable green leaves with serrated edges, and the broad consumer uses of this plant that are so common to us today (such as toothpaste and chewing gum), obscures the lesser known fact that mint has a more nuanced history of naming and identification. Mint, known as the genus [*Mentha*](www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30016176-2), is part of the [*Lamiaceae*](www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000097-2) family. It is an aromatic and perennial herb and species include bergamot mint, spearmint, pennyroyal and peppermint. These species can be found distributed across parts of Africa, Asia, Europe, Australia, and North America, happily growing in wet and damp environments. With its ability to naturally hybridize, there are a wide variety of plants within the mint family. To consider how the generic mint plant has become so familiar in our everyday lives, we begin here with an account of ancient Greek mythology and then a look at the history of naming and identification of mint. The example of peppermint is then used to consider a plant’s ability to succeed as a commercial crop in America.
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
-<var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdistribution.jsondata-active="true"></var>
-
+<var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdistribution.geojson data-active="true"></var>
 
 
 ### Mythology
@@ -82,6 +81,7 @@ Despite not being native to North America, peppermint and peppermint oil in part
 <var data-map-layer title="Atlantic" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mintBrUSline.geojson data-active="true"></var>
 
 American colonists were quick to recognize the commercial opportunity presented by locally producing peppermint oil rather than importing it from Britain, no doubt due in part to the ease of growing mint in a variety of environments. Unlike other varieties of mint, the peppermint plant would have been propagated in early America using root cuttings probably from a small number of original plants in England. Commercial peppermint production then, gradually shifted from England to America from the 1750s and likewise, records of peppermint fields in North America show that the first were found near [Ashfield in Franklin country, Massachusetts](https://en.wikipedia.org/wiki/Ashfield,_Massachusetts). Mint was later farmed in northern New York and New Jersey. In these early days, essence [peddlers](https://en.wikipedia.org/wiki/Peddler) ensured that peppermint was part of a widespread production and distribution network.[^ref12]
+<var data-map title="New England" data-center="42.566426,-71.751354" data-zoom="4"></var>
 <var title="Ashfield" id="Q2536103"></var>
 <var title="New York State" id="Q1384"></var>
 <var title="New Jersey" id="Q1408"></var>
