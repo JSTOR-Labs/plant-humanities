@@ -46,25 +46,21 @@ Although cherry blossoms became beloved fixtures of the city of Washington, atti
      data-thumbnail="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ornamental_Cherry_Tree_In_Full_Bloom.JPG/320px-Ornamental_Cherry_Tree_In_Full_Bloom.JPG"></var>
 
 <var  data-image 
-     
 title="Cherry trees in Daw Nan Kyi hill"  data-url="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cherry_trees%2C_You_can_see_in_Daw_Nan_Kyi_hill.jpg"
      data-thumbnail="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cherry_trees%2C_You_can_see_in_Daw_Nan_Kyi_hill.jpg/306px-Cherry_trees%2C_You_can_see_in_Daw_Nan_Kyi_hill.jpg"></var>
 
 <var  data-image
      title="Cherry blossoms at POSTECH"
-     data-url="https://upload.wikimedia.org/wikipedia/commons/2/22/Cherry_blossoms_at_POSTECH.jpeg"
+  data=url="https://upload.wikimedia.org/wikipedia/commons/2/22/Cherry_blossoms_at_POSTECH.jpeg"
      data-thumbnail="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cherry_blossoms_at_POSTECH.jpeg/320px-Cherry_blossoms_at_POSTECH.jpeg"></var>
 
 <var  data-image
      title="Tidal Basin cherry trees" 
-     
 data-url="https://upload.wikimedia.org/wikipedia/commons/5/56/Washington_C_D.C._Tidal_Basin_cherry_trees.jpg"
      data-thumbnail="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Washington_C_D.C._Tidal_Basin_cherry_trees.jpg/155px-Washington_C_D.C._Tidal_Basin_cherry_trees.jpg"></var>
 
 <var  data-image 
-     
 title="Rippl Sour Cherry Tree in Blossom 1909" 
-     
 data-url="https://upload.wikimedia.org/wikipedia/commons/1/13/Rippl_Sour_Cherry_Tree_in_Blossom_1909.jpg"
      data-thumbnail="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rippl_Sour_Cherry_Tree_in_Blossom_1909.jpg/320px-Rippl_Sour_Cherry_Tree_in_Blossom_1909.jpg"></var>
 
@@ -120,5 +116,5 @@ The Tale of Genji, written in the early years of the 11th century by the noblewo
 
 “The women had been too delighted with the game, young gentlemen heedless of how they scattered the blossoms, to worry about blinds and concealment.”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDE1MjI1MzVdfQ==
+eyJoaXN0b3J5IjpbODY5NjgyODA1LC0xNjQxNTIyNTM1XX0=
 -->
