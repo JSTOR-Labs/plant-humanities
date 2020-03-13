@@ -79,90 +79,52 @@ data-thumbnail="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Orname
   
 
 Although cherry blossoms became beloved fixtures of the city of Washington, attitudes toward cherry trees have at times varied: Washington’s cherry trees have been both objects of preservation and destruction, reverence and aggression. By the 1930s, cherry blossoms were so ingrained in the public’s imagination of Washington, D.C., that the removal of cherry trees on the Tidal Basin to make room for the Jefferson Memorial caused a public outcry. Only a few years later, during World War II, cherry blossoms’ association with Japan meant that they occupied an ambiguous place in the city, at once threateningly foreign and close to home. As gifts from Japan symbolizing the relationship between the two countries, the cherry trees on the Tidal Basin embody and give witness to the exchange between two cultures at the heart of Washington, D.C.
-
 <var  data-image
-
 data-title="Ornamental Cherry Tree In Full Bloom"
-
 data-url="https://upload.wikimedia.org/wikipedia/commons/6/69/Ornamental_Cherry_Tree_In_Full_Bloom.JPG"
-
 data-thumbnail="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ornamental_Cherry_Tree_In_Full_Bloom.JPG/320px-Ornamental_Cherry_Tree_In_Full_Bloom.JPG"></var>
 
 <var  data-image
-
 title="Cherry trees in Daw Nan Kyi hill"  data-url="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cherry_trees%2C_You_can_see_in_Daw_Nan_Kyi_hill.jpg"
-
 data-thumbnail="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cherry_trees%2C_You_can_see_in_Daw_Nan_Kyi_hill.jpg/306px-Cherry_trees%2C_You_can_see_in_Daw_Nan_Kyi_hill.jpg"></var>
 
 <var  data-image
-
 title="Cherry blossoms at POSTECH"
-
 data-url="https://upload.wikimedia.org/wikipedia/commons/2/22/Cherry_blossoms_at_POSTECH.jpeg"
-
 data-thumbnail="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cherry_blossoms_at_POSTECH.jpeg/320px-Cherry_blossoms_at_POSTECH.jpeg"></var>
 
 <var  data-image
-
 title="Tidal Basin cherry trees"
-
 data-url="https://upload.wikimedia.org/wikipedia/commons/5/56/Washington_C_D.C._Tidal_Basin_cherry_trees.jpg"
-
 data-thumbnail="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Washington_C_D.C._Tidal_Basin_cherry_trees.jpg/155px-Washington_C_D.C._Tidal_Basin_cherry_trees.jpg"></var>
 
 <var  data-image
-
 title="Rippl Sour Cherry Tree in Blossom 1909"
-
 data-url="https://upload.wikimedia.org/wikipedia/commons/1/13/Rippl_Sour_Cherry_Tree_in_Blossom_1909.jpg"
-
 data-thumbnail="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rippl_Sour_Cherry_Tree_in_Blossom_1909.jpg/320px-Rippl_Sour_Cherry_Tree_in_Blossom_1909.jpg"></var>
 
-  
-
 ### Cherry Trees in Japan
-
 <var  data-map  id="japan-map"  data-center="35.9,137.4"  data-zoom="6"></var>
-
 <var  title="Tokyo"  id="Q1490"></var>
-
 <var  data-map-layer
-
 title="Japan"
-
 data-type="geojson"
-
 data-url="https://data.whosonfirst.org/856/324/29/85632429.geojson"
-
 data-active="true"></var>
-
-  
 
 The cherry blossom has been a repository of symbolism in Japanese culture for centuries: it has variously symbolized processes of life, death, reproductive power, love, rebirth, and the beauty of impermanence. By the end of the Edo period (1603-1868) cherry blossoms came to be a dominant symbol of Japanese identity, although their association with Japanese identity dates to at least the ninth century. During the early years of Japan’s rapid industrialization, cherry trees fell prey to an iconoclastic drive to erase reminders of the old feudal society. As Japan continued to negotiate its national identity, cherries were taken up again, now as symbols of a modern Japan that would be recognizable on an international scale. In the years leading up to World War II, the image of falling cherry blossoms, which had traditionally been associated with impermanence and death, was increasingly deployed to aestheticize self-sacrifice for the emperor. Cherry blossoms were planted in shrines glorifying fallen soldiers, and featured prominently in military imagery.
 
-  
-
 #### Cherry viewing in Japan
 
-  
-
 Flower-viewing or hanami is a centuries-old practice in Japan. Flower viewing started in imperial circles in the eighth century, when the Japanese elite eagerly adopted Chinese high culture. Chinese plum blossoms were initially the object of viewing parties. By the ninth century, hanami was practically synonymous with viewing cherry blossoms, as Japanese elites sought to delineate a distinctly Japanese identity. In the 18th century, mass plantings were made in poor riverside districts of present-day Tokyo, many of which were notorious for prostitution, gambling, and licentious theater. Plantings of cherry trees were meant to beautify riverside communities, which the government considered eyesores. These mass plantings helped make cherry-viewing a popular pastime across all classes. Both new cherry-picnic sites and sites historically famous for imperial outings became widely popular spots for drink, merry-making and the loosening of social conventions.
-
 <var  data-video  id="jk0ic0D0MRo"  title="Hanami"></var>
-
-  
 
 ### Cherries in the West
 
-  
-
 Before the craze for Japanese cherries in the West at the start of the twentieth century, Europeans knew little of Japanese cherry blossoms, and Westerners who visited Japan often complained of how flowering Japanese cherry trees bore no fruit. As shipping techniques improved in the early 19th century, Japanese cherries began to trickle into European gardens in 1832, but remained unfashionable until the 1870s. When Japan opened its borders, greater contact with Japanese culture fueled interest in cherry blossoms among Westerners. By the 1890’s, Japan was marketing and exporting cherry trees to the West. However, cherries did not reach wide audiences in the West until Japan gave thousands of cherry trees to the United States in the early 20th century.
-
 <var  data-map  data-center="48.8,-38.2"  data-zoom="3"></var>
-
 <var  title="Traverse City"  id="Q984544"></var>
 
-  
 #### Cherries in D.C.
 
 In 1912, Japan gifted thousands of cherry trees to the United States as a gesture of friendship. A previous shipment, made in 1909, was burned upon entry into the United States when it was discovered that the trees were infected. The trees from 1912 prospered, becoming a beloved part of the city and an enduring symbol of the United States’ relationship with Japan. Most of the trees in the Tidal Basin were of the Yoshido variety, or Prunus x yedoensis. There are ongoing efforts to preserve the few surviving cherries from 1912 as witnesses to Washington’s history.
@@ -191,6 +153,6 @@ The Tale of Genji, written in the early years of the 11th century by the noblewo
 
 “The women had been too delighted with the game, young gentlemen heedless of how they scattered the blossoms, to worry about blinds and concealment.”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTgxNjI0Miw4Njk2ODI4MDUsLTE2ND
-E1MjI1MzVdfQ==
+eyJoaXN0b3J5IjpbNzA4NjExNjQyLDg2OTY4MjgwNSwtMTY0MT
+UyMjUzNV19
 -->
