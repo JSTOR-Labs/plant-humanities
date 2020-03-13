@@ -56,7 +56,7 @@ The taxonomy of the genus *Mentha* has, in the words of Lawrence, 'been in a sta
 ### Peppermint: a commercial crop
 
 <var data-image-viewer></var>
-<var data-image id="mentha spicata" title="https://upload.wikimedia.org/wikipedia/commons/f/fb/Mentha_spicata_01.JPG"></var>
+<var data-image id="mentha" title="https://upload.wikimedia.org/wikipedia/commons/f/fb/Mentha_spicata_01.JPG"></var>
 
 This problematic nature of identifying and naming mint however does not appear to have prevented the plant from becoming a significant commercial crop. Mint, especially commercial mint, is not considered native to North America but <var data-scope="element" id="Q864709">Elder William Brewster (1568–1644)</var>, a passenger on the <var data-scope="element" id="Q187093">Mayflower</var> voyage in 1620, is known to have grown a variety of mint in his garden in Plymouth, Massachusetts not long after arriving from Europe.[^ref9] From this information, the naturalist and traveller <var data-scope="element" id="Q6242285">John Josselyn (1608-1675)</var> postulated that the <var data-scope="element" id="Q127834">New World</var> was introduced to mint, or ‘Labiatae’, by the pilgrims. Josselyn travelled to New England in 1638 and again in 1663, documenting his travels and the natural world he encountered in two publications. The first, [*New England's Rarities*](https://biodiversitylibrary.org/page/24624464), was published in London in 1671, and the second, [*An Account of Two Voyages to New England*](https://biodiversitylibrary.org/page/47096615), in 1674. 
 <var data-map title="New England" data-center="42.566426,-71.751354" data-zoom="4"></var>
