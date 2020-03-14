@@ -181,6 +181,10 @@
     z-index: 200 !important;
   }
 
+  .v-navigation-drawer {
+    z-index: 201 !important;
+  }
+
   .v-navigation-drawer__border {
     display: none
   }
