@@ -24,6 +24,8 @@ Some scents regularly appear in our daily lives and give us a sense of familiari
 
 ### Mythology
 
+<!-- image viewer: ancient greek?-->
+
 Mint and common hybrid species such as peppermint have long been held in high esteem. Biblical reference to mint in the [Book of Matthew](https://en.wikipedia.org/wiki/Gospel_of_Matthew) suggests that it was a plant considered of high value to be used as ‘tithes by the Pharisees along with anise and cumin’ (Matthew xxiii, 23). Reaching back further to ancient Greece, where plants were entwined with mythology, Minthe was the Naiad-nymph daughter of the underworld river <var data-scope="element" id="Q939218">Cocytus</var> and loved by the god <var data-scope="element" id="Q41410">Hades</var>. When Hades’ wife, <var data-scope="element" id="Q45967">Persephone</var>, discovered the affair, she was propelled to transform Minthe in to the plant of her name:
 
 >Near Pylos, towards the east, is a mountain named after Minthe, who, according to myth, became the concubine of Hades, was trampled under foot by Kore (Core) [Persephone], and was transformed into garden-mint, the plant which some call *hedyosmos*. Furthermore, near the mountain is a precinct sacred to Haides.[^ref1]
@@ -55,8 +57,6 @@ The taxonomy of the genus *Mentha* has, in the words of Lawrence, 'been in a sta
 
 ### Peppermint: a commercial crop
 
-<var data-image-viewer></var>
-<var data-image id="mentha" title="https://upload.wikimedia.org/wikipedia/commons/f/fb/Mentha_spicata_01.JPG"></var>
 
 This problematic nature of identifying and naming mint however does not appear to have prevented the plant from becoming a significant commercial crop. Mint, especially commercial mint, is not considered native to North America but <var data-scope="element" id="Q864709">Elder William Brewster (1568–1644)</var>, a passenger on the <var data-scope="element" id="Q187093">Mayflower</var> voyage in 1620, is known to have grown a variety of mint in his garden in Plymouth, Massachusetts not long after arriving from Europe.[^ref9] From this information, the naturalist and traveller <var data-scope="element" id="Q6242285">John Josselyn (1608-1675)</var> postulated that the <var data-scope="element" id="Q127834">New World</var> was introduced to mint, or ‘Labiatae’, by the pilgrims. Josselyn travelled to New England in 1638 and again in 1663, documenting his travels and the natural world he encountered in two publications. The first, [*New England's Rarities*](https://biodiversitylibrary.org/page/24624464), was published in London in 1671, and the second, [*An Account of Two Voyages to New England*](https://biodiversitylibrary.org/page/47096615), in 1674. 
 <var data-map title="New England" data-center="42.566426,-71.751354" data-zoom="4"></var>
