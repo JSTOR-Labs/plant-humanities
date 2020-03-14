@@ -22,17 +22,17 @@
 
     <v-card tile class="overflow-hidden">
       <v-app-bar
+        ref="appbar"
         app
         prominent
         :height="bannerHeight"
         elevate-on-scroll
         fade-img-on-scroll
-        absolute
         dark
         shrink-on-scroll
         :src="banner"
         scroll-target="#scrollableContent"
-        scroll-threshold="200"
+        :scroll-threshold="scrollThreshold"
       >
         <template v-slot:img="{ props }">
           <v-img v-bind="props"/>
@@ -85,7 +85,11 @@
       height: 600,
       bannerHeight: 600,
       essayTopMargin: 140,
-      app_version: process.env.app_version
+      app_version: process.env.app_version,
+      scrollThreshold: 160,
+      header: undefined,
+      viewer: undefined,
+      viewerPosition: 'relative'
     }),
     computed: {
       viewport() { return this.$store.getters.viewport },
@@ -100,8 +104,38 @@
       this.bannerHeight = this.viewport.height * .25 
       this.essayTopMargin = this.bannerHeight
       this.height = this.viewport.height - this.bannerHeight - this.spacerHeight - 36
+      console.log(`layout: viewport.height=${this.viewport.height} bannerHeight=${this.bannerHeight} essayTopMargin=${this.essayTopMargin} height=${this.height}`)
+      this.header = document.querySelector('header')
+      document.getElementById('scrollableContent').addEventListener('scroll', this.throttle(this.mouseMove, 100))
     },
     methods: {
+      throttle(callback, interval) {
+        let enableCall = true
+
+        return function(...args) {
+          if (!enableCall) return
+          enableCall = false
+          callback.apply(this, args)
+          setTimeout(() => enableCall = true, interval)
+        }
+      },
+      mouseMove(e) {
+        this.viewer = document.getElementById('viewer')
+        if (this.viewer) {
+          if (this.header.offsetHeight === 56 && this.viewerPosition === 'relative') {
+            this.viewer.style.top = '56px'
+            this.viewer.style.position = 'fixed'
+            this.viewerPosition = 'fixed'
+            console.log(`viewer: position=${this.viewer.style.position}`)
+          } else if (this.viewerPosition === 'fixed' && this.header.offsetHeight > 56) {
+            this.viewer.style.top = '0px'
+            this.viewer.style.position = 'relative'
+            this.viewerPosition = 'relative'
+            console.log(`viewer: position=${this.viewer.style.position}`)
+          }
+        }
+        // .style.top = `${document.querySelector('header').offsetHeight + 24}px`
+      },
       toggleShowMarkdown() {
         this.$store.dispatch('setShowMarkdown', !this.$store.getters.showMarkdown)
         console.log(`showMarkdown=${this.$store.getters.showMarkdown}`)
@@ -113,7 +147,8 @@
           if (viewport) {
             this.bannerHeight = this.viewport.height * .25 
             this.essayTopMargin = this.bannerHeight
-            this.height = this.viewport.height - this.bannerHeight - this.spacerHeight - 36
+            // this.height = this.viewport.height - this.bannerHeight - this.spacerHeight - 36
+            console.log(`viewport: bannerHeight=${this.bannerHeight} essayTopMargin=${this.essayTopMargin} height=${this.height}`)
           }
         },
         immediate: true
@@ -132,9 +167,19 @@
       }
     }
   }
+
 </script>
 
 <style>
+
+  .container {
+    padding: 0 !important;
+    max-width: 1500px !important;
+  }
+
+  .v-toolbar, .v-footer, .v-navigation-drawer {
+    z-index: 200 !important;
+  }
 
   .v-navigation-drawer__border {
     display: none

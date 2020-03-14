@@ -1,7 +1,6 @@
 <var data-essay
      title="Cherry Blossom"
      data-banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/USA-Cherry_Blossom0.jpg/800px-USA-Cherry_Blossom0.jpg"
-     data-layout="horizontal"
      data-about="Q871991"></var>
 
 <var title="cherry blossom" id="Q871991"  data-category="plant"></var>

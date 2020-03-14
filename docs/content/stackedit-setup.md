@@ -1,3 +1,5 @@
+<var data-essay data-layout="horizontal"></var>
+
 ### StackEdit
 StackEdit is a browser-based tool for editing markdown files.  Files created/edited in StackEdit can be synchronized with or published to a variety of online sources, including Google Drive and Github.  The setup and usage instructions below describe the simplest setup for the one-way publishing of files to the https://github.com/jstor-labs/plant-humanities Github repository.
 

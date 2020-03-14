@@ -1,4 +1,4 @@
-<var data-page title="About" data-banner="images/arbor_vitae.jpg"></var>
+<var data-essay data-layout="horizontal"></var>
  
 ## About Visual Essays
 
