@@ -75,6 +75,7 @@ Thanks to the medicinal knowledge of the St. Lawrence Iroquois, Captain Cartier 
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/cartier_publishing.json"
 	data-active="true"></var>
 
+<var data-primary="video"></var>
 According to the account published by Ramusio, the tree used to cure the French explorers was called [“Ameda”](https://archive.org/details/dellenavigationi00ramu/page/n835) in the local language. [Florio’s translation also refers to the tree only by its indigenous name.](https://hdl.handle.net/2027/aeu.ark:/13960/t35151v01?urlappend=%253Bseq=85) In fact, all early translations of the account, published by Ramusio (1550), Florio (1580), and the English author Richard Hakluyt (1600), provide nearly identical accounts, pointing to a close translation of the same source. Sadly, none provide an in-depth physical description of the tree called “Ameda.” Lacking any first-hand accounts with detailed physical descriptions, naturalists, botanists, and historians have debated the true identity of the tree of life for more than 450 years.
 <var data-image-viewer></var>  
 <var data-image id="wikicommons" title="Cartier at Hochelaga" data-url="https://upload.wikimedia.org/wikipedia/commons/2/25/Jacques_Cartier_a_Hochelaga.jpg" data-region=""></var>
