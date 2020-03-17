@@ -103,16 +103,21 @@ Ancient Maya leaders represented themselves as or in relation to this cycle and 
 <var data-scope="local" id="Q28567" data-aliases="Maya"></var>
 
 The presence of cacao in a remedy for hurt feet within the Badianus also wittily illustrates the realities of  indigenous  Mesoamerican lifeways. Without beasts of burden, the  long-distance transport of cacao from the neotropics to Tenochtitlan, the Mexica capital, would have certainly caused one’s feet to ache.  For example, in  Hernán Cortés’ conquistador accounts, several regions are recognized for their tribute of cacao to the Mexica empire including  Huauthla,  Soconusco, and  Cotaxtla, all of which are hundreds of miles from Tenochtitlan.
-
-We learn from many other early colonial documents that roasted cacao beans were used as a currency throughout Mesoamerica, highlighting how  important a  trade good  this plant would have been by the time Europeans arrived. This relationship between long-distance trade and cacao is also reflected in the ancient Maya God L, who is typically depicted in relation to cacao and merchant regalia.[^ref9]
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
      title="Neotropic Ecozone"
      data-type="mapwarper"
      data-mapwarper-id="45365"
      data-active="true"></var>
+     
+We learn from many other early colonial documents that roasted cacao beans were used as a currency throughout Mesoamerica, highlighting how  important a  trade good  this plant would have been by the time Europeans arrived. This relationship between long-distance trade and cacao is also reflected in the ancient Maya God L, who is typically depicted in relation to cacao and merchant regalia.[^ref9] Such an ancient  association of  commerce with cacao emphasizes the deep history of long-distance trade of the plant between the many regions of Mesoamerica.
+<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 
-Eventually, these networks created a taste for cacao in far-reaching lands that maintained the high status and importance of neotropical polities during ancient and historic periods.[^ref9],[^ref10] This relationship between long-distance trade and cacao is also reflected in the ancient Maya God L, who is often depicted in relation to cacao and merchant regalia.[^ref11]  Ultimately, the ancient association of commerce with cacao suggests that the neotropics have a deep history with long-distance trade between the many regions of Mesoamerica and that cacao was likely a source of power and prestige for those occupying the environs where it could best grow. It is no wonder that ancient rulers invoked cacao in their ritual and political exchanges and ceremonies, which often included the imbibing of cacao beverages or the gifting of cacao vessels, such as the Buenavista cylinder vase.[^ref12] [^ref13]
+
+<![endif]-->
+
+Ultimately, the importance of cacao within political, social, and economic realms of these cultures indicates that individuals and polities would have sought control of its associated production and exchange networks to garner power, ultimately perpetuating its uses and ideologies further and further from its neotropical origins.  It is no wonder that ancient rulers invoked cacao in their ritual and political exchanges and ceremonies, which often included the imbibing of cacao beverages or the  gifting of cacao vessels.[^ref10][ Eventually, these practices created a taste for cacao across an elaborate network of Mesoamerican polities, maintaining the high status and importance of cacao-producing regions during ancient and historic periods.[ Upon European arrival, these networks of production and trade as well as their associated ideologies and practices were well-established across the Americas.
+
 <var data-image-viewer></var>
 <var data-image id="hollis-459304944" title="Classic Maya Buenavista Cylinder Vase" data-url="https://ids.lib.harvard.edu/ids/iiif/459304944/full/full/0/default.jpg" data-region="0,0,0,0"></var>
 <var data-image id="hollis-459304936" title="Classic Maya Buenavista Cylinder Vase Rollout" data-url="https://ids.lib.harvard.edu/ids/iiif/459304936/full/full/0/default.jpg" data-region="0,0,0,0"></var>
@@ -171,7 +176,7 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref19]: McNeil, C. (2009). Traditional Cacao Use in Modern Mesoamerica. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 17). University Press of Florida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0NzE1NTc5LC0yNDcxMTI4NjgsMTE3MT
-Q2MTI3MSwyMDA3NDY0MzA3LDg2NTMyMzk0NywxOTkxNjU5NDE2
-XX0=
+eyJoaXN0b3J5IjpbLTEwOTEyOTUxODIsLTI0NzExMjg2OCwxMT
+cxNDYxMjcxLDIwMDc0NjQzMDcsODY1MzIzOTQ3LDE5OTE2NTk0
+MTZdfQ==
 -->
