@@ -21,5 +21,6 @@ export default ({ app }, inject) => {
       app.store.dispatch('setAppVersion', settings.app_version )
       app.store.dispatch('setBundleVersion', settings.lib_version )
       app.store.dispatch('setSettingsLoaded', true )
+      window.triggerPosition = 0.45
     })
   }

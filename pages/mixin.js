@@ -41,7 +41,6 @@ export default {
       onLoaded(path, scrollToElemId) {
         const veElem = document.getElementById('visual-essay')
         if (veElem) {        
-          console.log('visual-essays.init complete')      
           this.updateLinks()
           if (scrollToElemId) {
             this.scrollToElem(scrollToElemId)

@@ -89,7 +89,7 @@
       scrollThreshold: 160,
       header: undefined,
       viewer: undefined,
-      viewerPosition: 'relative'
+      viewerPosition: undefined
     }),
     computed: {
       viewport() { return this.$store.getters.viewport },
@@ -122,16 +122,22 @@
       mouseMove(e) {
         this.viewer = document.getElementById('viewer')
         if (this.viewer) {
-          if (this.header.offsetHeight === 56 && this.viewerPosition === 'relative') {
-            this.viewer.style.top = '56px'
-            this.viewer.style.position = 'fixed'
-            this.viewerPosition = 'fixed'
-            console.log(`viewer: position=${this.viewer.style.position}`)
-          } else if (this.viewerPosition === 'fixed' && this.header.offsetHeight > 56) {
+          if (!this.viewerPosition) {
+            this.viewerPosition = 'relative'
             this.viewer.style.top = '0px'
             this.viewer.style.position = 'relative'
-            this.viewerPosition = 'relative'
-            console.log(`viewer: position=${this.viewer.style.position}`)
+          } else {
+            if (this.header.offsetHeight === 56 && this.viewerPosition === 'relative') {
+              this.viewer.style.top = '56px'
+              this.viewer.style.position = 'fixed'
+              this.viewerPosition = 'fixed'
+              console.log(`viewer: position=${this.viewer.style.position}`)
+            } else if (this.viewerPosition === 'fixed' && this.header.offsetHeight > 56) {
+              this.viewer.style.top = '0px'
+              this.viewer.style.position = 'relative'
+              this.viewerPosition = 'relative'
+              console.log(`viewer: position=${this.viewer.style.position}`)
+            }
           }
         }
         // .style.top = `${document.querySelector('header').offsetHeight + 24}px`
