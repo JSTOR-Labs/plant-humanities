@@ -91,7 +91,7 @@ In these Mexica recipes, the association of cacao with curing  such ailments ech
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/olmec-region.json"
      data-active="true"></var>
      
-The milpa cycle is  a  process  of felling, burning, planting, and harvesting a plot of land that,  after a few years,  is left to ‘fallow.’[^ref8] <However, this would not be fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots. After this stage, the cycle would restart, where some plants would be removed while others would be encouraged, the remains would be burnt, and staple crops would be planted and eventually harvested.
+The milpa cycle is  a  process  of felling, burning, planting, and harvesting a plot of land that,  after a few years,  is left to ‘fallow.’[^ref8] However, this would not be fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots. After this stage, the cycle would restart, where some plants would be removed while others would be encouraged, the remains would be burnt, and staple crops would be planted and eventually harvested.
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
      title="Mesoamerica"
@@ -99,8 +99,7 @@ The milpa cycle is  a  process  of felling, burning, planting, and harvesting a 
      data-mapwarper-id="45355"
      data-active="true"></var>
 
-
-Maya leaders embodied the power of this cycle by representing themselves as, or in relation to, it and its associated plants of importance. For example, we see the ancient Maya depict the ancestors of rulers as cacao trees growing from the sarcophagi of dead ‘maize god’ rulers and cacao trees anthropomorphized as deities. By invoking this cycle in representing themselves, the deities, and their prestige, Maya political leaders were giving precedence to the subsistence practices and plants they incorporated. Thus, the understanding of cacao as invoking or emerging from power and prestige has a broader spatio-temporal history, developing well before the arrival of Spaniards and the formation of the school in which de la Cruz and  Badiano created the herbal.
+Ancient Maya leaders represented themselves as or in relation to this cycle and its  associated  plants  of importance, mainly cacao and maize, attempting to embody the power of the natural world. For example, we see the  ancient Maya  depict ancestors of rulers  as cacao trees  growing from the sarcophagi of dead  ‘maize god’  rulers  and  cacao trees anthropomorphized  as deities. By invoking this cycle in representing themselves and deities, Maya political leaders were giving precedence to the subsistence practices, ideologies, and plants they incorporated.  Given this ancient association of cacao with the power of the natural world, it is not surprising to see cacao as an ingredient in the Badianus’ recipes for curing fear and malaise, particularly for political leaders.
 <var data-scope="local" id="Q28567" data-aliases="Maya"></var>
 
 The presence of cacao in a remedy for hurt feet within the Badianus wittily echoes the realities of indigenous economic networks. Without beasts of burden, the long-distance transport of cacao from the neotropics to the Mexica capital would have certainly caused one’s feet to ache. In Hernán Cortés’ conquistador accounts, several regions are recognized for their tribute of cacao to the Mexica empire including Huauthla, Soconusco, and Cotaxtla, all of which are hundreds of miles from the capital. We learn from many other early colonial documents that roasted cacao beans were used as a currency throughout Mesoamerican history, highlighting how important a trade good this plant would have been. The political prowess needed to build and maintain the production and exchange networks associated with cacao would have certainly manufactured powerful polities across the neotropics.
@@ -170,7 +169,7 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref19]: McNeil, C. (2009). Traditional Cacao Use in Modern Mesoamerica. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 17). University Press of Florida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyNzk3NDE5LC0yNDcxMTI4NjgsMTE3MT
-Q2MTI3MSwyMDA3NDY0MzA3LDg2NTMyMzk0NywxOTkxNjU5NDE2
-XX0=
+eyJoaXN0b3J5IjpbMTE0NDUyNjUyNywtMjQ3MTEyODY4LDExNz
+E0NjEyNzEsMjAwNzQ2NDMwNyw4NjUzMjM5NDcsMTk5MTY1OTQx
+Nl19
 -->
