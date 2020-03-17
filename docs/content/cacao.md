@@ -37,7 +37,7 @@
  
 ### Introduction
 
-While colonial encounters are often conceptualized as a one-way street, with the colonizers subjugating the colonized, the historical picture is more complex. During the early modern period, Europeans sought to benefit from new economic goods and networks in the Americas. However, economies do not function in a vacuum and, to truly benefit, Europeans found it was necessary to assimilate into the other cultural spheres of foreign lands. This meant learning about indigenous perspectives and knowledge, which Europeans exploited for their own benefit both in the New World and eventually back in their homelands, ultimately ‘globalizing’ pre-existing indigenous networks. One of the most famous indigenous networks that Europeans made efforts to control was that of cacao,  _Theobroma cacao_. The primary sources from this initial period of interaction document the knowledge gained from the native populations of the Americas.
+While colonial encounters are often conceptualized as a one-way street, with the colonizers subjugating the colonized, the historical picture is more complex. During the early modern period, Europeans sought to benefit from new economic goods and networks in the Americas. However, economies do not function in a vacuum and, to truly benefit, Europeans had to assimilate into the other cultural spheres of foreign lands. This meant learning about indigenous perspectives and knowledge, which Europeans exploited for their own benefit both in the New World and eventually back in their homelands, ultimately ‘globalizing’ pre-existing indigenous networks. One of the most famous indigenous networks that Europeans made efforts to control was that of cacao, _Theobroma cacao_. The primary sources from this initial period of interaction document the knowledge gained from the native populations of the Americas.
 <var data-primary="image"></var>
 <var data-image-viewer></var>  
 <var data-image id="JSTOR Global Plants" title="Cacao illustration" data-url="https://plants.jstor.org/stable/10.5555/al.ap.specimen.bm000589107?searchUri=si%3D1%26ff%3Dps_repository_name_str__ps_collection_name_str__ps_type%26filter%3Dname%26so%3Dps_group_by_genus_species%2Basc%26Query%3Dtheobroma%2Bcacao" data-region=""></var>
@@ -155,6 +155,6 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref19]: McNeil, C. (2009). Traditional Cacao Use in Modern Mesoamerica. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 17). University Press of Florida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTQ2MTI3MSwyMDA3NDY0MzA3LDg2NT
-MyMzk0NywxOTkxNjU5NDE2XX0=
+eyJoaXN0b3J5IjpbLTE3OTMxMjY3NzcsMTE3MTQ2MTI3MSwyMD
+A3NDY0MzA3LDg2NTMyMzk0NywxOTkxNjU5NDE2XX0=
 -->
