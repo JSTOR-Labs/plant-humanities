@@ -64,14 +64,14 @@ A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a r
 <var data-image id="Tlapalcacauatl" title="Tlapalcacauatl" data-url="https://kg.jstor.org/w/images/5/56/BadianusCacao1.jpg" data-region=""></var>
 <var data-image id="Cacauaxochitl" title="Cacauaxochitl" data-url="https://kg.jstor.org/w/images/1/17/BadianusCacao2.jpg" data-region=""></var>
 
-This same flowered cacao tree  (_Cacauaxochitl_), while not illustrated,  also features in recipes for hurt feet and as a cure for fear.  It is clear that the watercolors  illustrate  anatomically accurate plant  structures situated within particular stages in the reproductive life cycle of cacao. These details of the herbal indicate  that the Mexica  had a detailed understanding of  the biology of cacao, a  level of knowledge not represented  in contemporaneous European-authored herbals. Consequently, the knowledge of cacao within the Badianus has a broader spatio-temporal history, developing well before the arrival of Spaniards and the formation of the school in which de la Cruz and Badiano created the herbal
+This same flowered cacao tree  (_Cacauaxochitl_), while not illustrated,  also features in recipes for hurt feet and as a cure for fear.  It is clear that the watercolors  illustrate  anatomically accurate plant  structures situated within particular stages in the reproductive life cycle of cacao. These details of the herbal indicate  that the Mexica  had a detailed understanding of  the biology of cacao, a  level of knowledge not represented  in contemporaneous European-authored herbals. Consequently, the knowledge of cacao within the Badianus has a broader spatio-temporal history, developing well before the arrival of Spaniards and the formation of the school in which de la Cruz and Badiano created the herbal.
 
 <var data-image-viewer></var>  
 <var data-image id="Cacauaxochitl" title="Cacauaxochitl" data-url="https://kg.jstor.org/w/images/1/17/BadianusCacao2.jpg" data-region=""></var>
 
 ### Ancient ideologies
 
-In these indigenous herbal remedies, the association of cacao with fearlessness, political governance, and ultimately power echoes what is known about cacao for thousands of years prior from Olmec, Maya, and other Mesoamerican cultures.[^ref6] Prior to European arrival, a network of cacao production, trade, and consumption as well as its associated ideologies was well-established across the Americas. In several indigenous cultures, the plant itself represented an important stage in the life cycle of the natural world, emerging after the death of maize. This cycle has been referred to as a forest garden or milpa, a subsistence strategy that was central to providing sustenance to millions of neotropical inhabitants.[^ref7] The milpa strategy is a process of felling, burning, planting, and harvesting a plot of land that, after a few years, is left to ‘fallow’.[^ref8] However, this would not be a fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots.
+In these Mexica recipes, the association of cacao with curing  such ailments echoes  what is known about the plant for thousands of years from preceding Mesoamerican cultures.[^ref6] <![endif]--> In several indigenous cosmologies, the  cacao plant represented  an important stage in the life cycle of  the environment,  emerging after the death of maize. This cycle has  been referred to as a forest garden or milpa, a subsistence strategy that was, and still is, central to providing sustenance to millions of neotropical inhabitants. [^ref7] 
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
      title="Mesoamerica"
@@ -90,6 +90,15 @@ In these indigenous herbal remedies, the association of cacao with fearlessness,
      data-aliases="Olmec"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/olmec-region.json"
      data-active="true"></var>
+     
+The milpa cycle is  a  process  of felling, burning, planting, and harvesting a plot of land that,  after a few years,  is left to ‘fallow.’[^ref8] <However, this would not be fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots. After this stage, the cycle would restart, where some plants would be removed while others would be encouraged, the remains would be burnt, and staple crops would be planted and eventually harvested.
+<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
+<var data-map-layer
+     title="Mesoamerica"
+     data-type="mapwarper"
+     data-mapwarper-id="45355"
+     data-active="true"></var>
+
 
 Maya leaders embodied the power of this cycle by representing themselves as, or in relation to, it and its associated plants of importance. For example, we see the ancient Maya depict the ancestors of rulers as cacao trees growing from the sarcophagi of dead ‘maize god’ rulers and cacao trees anthropomorphized as deities. By invoking this cycle in representing themselves, the deities, and their prestige, Maya political leaders were giving precedence to the subsistence practices and plants they incorporated. Thus, the understanding of cacao as invoking or emerging from power and prestige has a broader spatio-temporal history, developing well before the arrival of Spaniards and the formation of the school in which de la Cruz and  Badiano created the herbal.
 <var data-scope="local" id="Q28567" data-aliases="Maya"></var>
@@ -161,6 +170,7 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref19]: McNeil, C. (2009). Traditional Cacao Use in Modern Mesoamerica. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 17). University Press of Florida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NzExMjg2OCwxMTcxNDYxMjcxLDIwMD
-c0NjQzMDcsODY1MzIzOTQ3LDE5OTE2NTk0MTZdfQ==
+eyJoaXN0b3J5IjpbNTgyNzk3NDE5LC0yNDcxMTI4NjgsMTE3MT
+Q2MTI3MSwyMDA3NDY0MzA3LDg2NTMyMzk0NywxOTkxNjU5NDE2
+XX0=
 -->
