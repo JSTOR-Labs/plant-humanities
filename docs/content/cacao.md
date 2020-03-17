@@ -59,9 +59,14 @@ After contact, the  earliest  representations of cacao come from  a Mexica (Azte
 <var data-map title="World" data-center="19.461194, -99.138983" data-zoom="10"></var>
 
 
-A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a recipe entitled “Trees and flowers for the fatigue of those administering the government and holding public office”.[^ref3] The other representation of cacao found in the text, identified as *Cacauaxochitl* in Nahautl, shows the plant in flower.[^ref4] While previous scholars have identified this plant as _Quararibea funebris_ because of the similarity of the Nahuatl name given with that of one described by Francisco Hernández de Toledo, the orange and yellow petals along with the overall structure of the petals, pistil, and stamen depicted actually support the identification of it as a flowering and budding _Theobroma cacao_.[^ref5] The _Cacauaxochitl_ illustration is featured with a recipe for “Mental Stupor”, calling for the use of the bark and roots of a flowered cacao. This same flowered cacao tree (*Cacauaxochitl*), while not illustrated, features in recipes for hurt feet and as a cure for fear. Not only do the watercolors present anatomically accurate plant structures, they also represent the ecology in which the plants grow. The ecological knowledge in the manuscript includes both symbols and colors to represent their soils and roots as well as various faunal associations such as snakes or ants. These details of the herbal clearly indicate that the Mexica had a broad understanding of botanical biology and ecology, a level of knowledge not represented in contemporaneous herbals of the time from European writers.
+A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a recipe entitled “Trees and flowers for the fatigue of those administering the government and holding public office”.[^ref3] The other representation of cacao found in the text, identified as *Cacauaxochitl* in Nahautl, shows the plant in flower.[^ref4] While previous scholars have identified this plant as _Quararibea funebris_ because of the similarity of the Nahuatl name given with that of one described by Francisco Hernández de Toledo, the orange and yellow petals along with the overall structure of the petals, pistil, and stamen depicted actually support the identification of it as a flowering and budding _Theobroma cacao_.[^ref5] The _Cacauaxochitl_ illustration is featured with a recipe for  “Mental Stupor” that calls for the use of its bark and roots. 
 <var data-image-viewer></var>  
 <var data-image id="Tlapalcacauatl" title="Tlapalcacauatl" data-url="https://kg.jstor.org/w/images/5/56/BadianusCacao1.jpg" data-region=""></var>
+<var data-image id="Cacauaxochitl" title="Cacauaxochitl" data-url="https://kg.jstor.org/w/images/1/17/BadianusCacao2.jpg" data-region=""></var>
+
+This same flowered cacao tree  (_Cacauaxochitl_), while not illustrated,  also features in recipes for hurt feet and as a cure for fear.  It is clear that the watercolors  illustrate  anatomically accurate plant  structures situated within particular stages in the reproductive life cycle of cacao. These details of the herbal indicate  that the Mexica  had a detailed understanding of  the biology of cacao, a  level of knowledge not represented  in contemporaneous European-authored herbals. Consequently, the knowledge of cacao within the Badianus has a broader spatio-temporal history, developing well before the arrival of Spaniards and the formation of the school in which de la Cruz and Badiano created the herbal
+
+<var data-image-viewer></var>  
 <var data-image id="Cacauaxochitl" title="Cacauaxochitl" data-url="https://kg.jstor.org/w/images/1/17/BadianusCacao2.jpg" data-region=""></var>
 
 ### Ancient ideologies
@@ -156,6 +161,6 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref19]: McNeil, C. (2009). Traditional Cacao Use in Modern Mesoamerica. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 17). University Press of Florida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzgyNDkwMiwxMTcxNDYxMjcxLDIwMD
+eyJoaXN0b3J5IjpbLTI0NzExMjg2OCwxMTcxNDYxMjcxLDIwMD
 c0NjQzMDcsODY1MzIzOTQ3LDE5OTE2NTk0MTZdfQ==
 -->
