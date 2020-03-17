@@ -27,7 +27,7 @@
 <var title="Ojibwe" id="Q255872"></var>
 <var title="Matthias de l'Obel" id="Q1860320"></var>
 <var title="Picea rubens" id="Q469151"></var>
-<var title="Pierre Belon" id="Q445560" data-aliases="belon"></var>
+<var title="Pierre Belon" id="Q445560"></var>
 <var title="Quebec" id="Q2145"></var>
 <var title="Richard Hakluyt" id="Q185510" data-aliases="Hakluyt"></var>
 <var title="scurvy" id="Q163865"></var>
@@ -36,7 +36,7 @@
 <var title="Stadacona" id="Q3339246" data-aliases="St. Lawrence River"></var>
 <var title="Hochelaga" id="Q544356" data-aliases="local Indians"></var>
 <var title="St. Lawrence Iroquoians" id="Q129060"></var>
-<var title="Palace of Fontainebleau" id="Q201428" data-alias="Fontainebleau"></var>
+<var title="Palace of Fontainebleau" id="Q201428" data-aliases="Fontainebleau"></var>
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
 
 ## Arbor Vitæ - Thuja occidentalis
@@ -76,17 +76,15 @@ Thanks to the medicinal knowledge of the St. Lawrence Iroquois, Captain Cartier 
 	data-active="true"></var>
 
 According to the account published by Ramusio, the tree used to cure the French explorers was called [“Ameda”](https://archive.org/details/dellenavigationi00ramu/page/n835) in the local language. [Florio’s translation also refers to the tree only by its indigenous name.](https://hdl.handle.net/2027/aeu.ark:/13960/t35151v01?urlappend=%253Bseq=85) In fact, all early translations of the account, published by Ramusio (1550), Florio (1580), and the English author Richard Hakluyt (1600), provide nearly identical accounts, pointing to a close translation of the same source. Sadly, none provide an in-depth physical description of the tree called “Ameda.” Lacking any first-hand accounts with detailed physical descriptions, naturalists, botanists, and historians have debated the true identity of the tree of life for more than 450 years.
-<var data-map title="France" data-center="48.402007, 2.700250" data-zoom="4.5"></var>
-<var data-map-layer
-	title="cartier_publishing"
-	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/cartier_publishing.json"
-	data-active="true"></var>
+<var data-image-viewer></var>  
+<var data-image id="wikicommons" title="Cartier at Hochelaga" data-url="https://upload.wikimedia.org/wikipedia/commons/2/25/Jacques_Cartier_a_Hochelaga.jpg" data-region=""></var>
 
 ### Indigenous Coniferous Medicinal Knowledge
 
 Through linguistic, botanical, and historical analysis numerous trees have been put forward as the miraculous tree that saved Cartier and his men – the fir (*Abies balsamea*), the white spruce (*Picea glauca*), the red spruce (*Picea rubens*), epinettenoire (*Picea mariana*), white pine (*Pinus strobus*), red pine (*Pinus resinosa*), white cedar (*Thuja occidentalis*), hemlock (*Tsuga canadensis*), and even sassafras (*Sassafras albidum*), although it is generally agreed that based on sixteenth-century descriptions and its natural distribution, sassafras is impossible.
-<var data-map title="Gulf of Saint Lawrence" data-center="Q169523" data-zoom="3"></var>
+<var data-image-viewer></var>  
+<var data-image id="Kew plants of the world" title="Abies Balsamea Kew" data-url="http://plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:1084057-2" data-region=""></var>
+<var data-image id="Kew plants of the world" title="Abies Balsamea Kew" data-url="http://plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:1084057-2" data-region=""></var>
 
 Sixteenth and seventeenth-century European herbals consistently describe the tree of life as a *“Thuja”* (a genus of coniferous trees) or similar to a cypress, without fruit (although the cone is now considered a fruit), and very aromatic. From this we can conclude that the tree of life was indeed an evergreen coniferous tree native to the area around present-day Quebec.
 <var data-map title="Gulf of Saint Lawrence" data-center="42.655350,-74.715453" data-zoom="4"></var>
@@ -126,21 +124,36 @@ Scurvy is an acute chronic illness caused by a dietary deficiency of ascorbic ac
 <var data-image id="wikicommons" title="A case of Scurvy journal of Henry Walsh" data-url="https://upload.wikimedia.org/wikipedia/commons/c/c8/A_case_of_Scurvy_journal_of_Henry_Walsh_Mahon.jpg" data-region=""></var>
 
 Today, Adult scurvy is treated with 300–1000 mg of ascorbic acid per day. Although lemons and oranges are traditionally associated with high levels of vitamin C (50 mg/100 g) the reduced ascorbic acid in 100 grams of fresh needles and shoots from many conifers exceeds or matches the vitamin C in citrus. For example, *Abies balsamea* has 270 mg, *Picea rubens* 169 mg, and *Thuja occidentalis* 45 mg.[^ref8]  Furthermore, as Don J. Durzan has highlighted in his scientific analysis of coniferous biofactors, in the winter when food was scarce and the temperature plummeted, the coniferous “trees of life” provided vital vitamins, arginine, proline, other conditionally and essential amino acids, and antioxidants, all of which aided in the recovery from of scurvy.
+<var data-image-viewer></var>  
+<var data-image id="Scurvy Advertisement" title="Scurvy Advertisement" data-url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Advertisement_for_%27Clarke%27s_Blood_Mixture%27%2C_published_Englan_Wellcome_L0059449.jpg" data-region=""></var>
 
 ### Identifying the Tree of Life
 
-<var data-map title="France" data-center="48.402007, 2.700250" data-zoom="4"></var>
+<var data-map title="France" data-center="48.402007, 2.700250" data-zoom="10"></var>
 Cartier returned to France with seeds from the Ameda tree, which were presented to the French King, Francis I, as the tree of life. Unfortunately, because accounts of Cartier’s explorations were not widely published until the end of the sixteenth century, the miraculous story of the arbor vitæ was not well known until well into the seventeenth century. We do know, however, thanks to a French naturalist, Pierre Belon, that the seeds presented to the king were planted and the tree later propagated in France. In 1553, Belon wrote the first botanical work devoted to coniferous trees. In his treatise, Belon noted that there were many arbor vitæs growing in the royal garden at Fontainebleau. Unfortunately, Belon makes no mention of Cartier and his crew’s miraculous recovery or where the tree originated, only that the tree was brought to King and was given the name arbor vitæ.
 
+<var data-map title="France" data-center="48.402007, 2.700250" data-zoom="4"></var>
 From there we can trace the knowledge, or lack of knowledge, of the arbore vitæ in Europe through herbals. Arbor vitæ appears in the herbals of Mathias de l'Obel (1576), Castore Durante (1585), John Gerarde (1597), Caspar Bauhin (1598), Carolus Clusius (1601), and John Parkinson (1640).[^ref9]  From these works it is clear that much of the knowledge surrounding the arbor vitæ—where it came from, its medicinal properties, and why it was called the tree of life—had already been lost. While all similarly describe the physical attributes of a coniferous tree deemed the tree of life, only Bauhin, Clusius, and Parkinson placed the origin of the tree in Canada, and none mention Cartier and the “Ameda” tree. Clusius, having seen the tree in the botanical garden of the French King, also noted that the arbor vitæ was now [“so widespread that everyone with a passion for horticulture grows one in his garden.”](https://biodiversitylibrary.org/page/529649)
+<var data-map-layer
+     title="Arbor Vitae Publishing"
+     data-type="geojson" 
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/arbor_vitae_publishing.json"
+     data-active="true"></var>
 
+<var data-map title="France" data-center="40.648645, 45.711866" data-zoom="2.5"></var>
 It is clear that by the mid-seventeenth century much of the medicinal knowledge associated with the arbor vitæ was lost. Further complicating matters of identification was the rate at which the arbor vitæ spread through Europe and the tendency to call any conifer imported from North America an arbor vitæ. Conversely, many American conifers were simply named in terms of their European counterparts and identified as a thuja or cedrus. Thus, by the end of the sixteenth century, the arbor vitæ was also known as [“Thuja theophrasti”](https://bibdigital.rjb.csic.es/viewer/10754/?offset=#page=512&viewer=picture&o=bookmark&n=0&q=) and [“Cedrus Lycia.”](https://bibdigital.rjb.csic.es/viewer/13070/?offset=#page=634&viewer=picture&o=bookmark&n=0&q=)
+<var data-map-layer
+     title="thuja in europe"
+     data-type="geojson" 
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/thuja in europe.json"
+     data-active="true"></var>
 
 In 1753, botanist Carl Linnaeus’ pioneering work, *Systema Naturae*, which cemented a system of binomial classification for plants, identified the arbor vitæ, the thuja Theophrasis, and the Thuja strobilis lævibus as the same plant, which he reclassified as [*Thuja occidentalis*](https://www.biodiversitylibrary.org/page/359023#page/444/mode/1up). Since then, *Thuja occidentalis* has generally been accepted as the “Ameda” tree that save Cartier and his men.
 <var data-image-viewer></var>
-<var data-image id="bhl-56601375" title="Theatrum botanicum p. 1478" data-url="https://www.biodiversitylibrary.org/pageimage/56601375" data-region="1356,1039,2182,2290"></var>
-<var data-image id="bhl-529649" title="Caroli Clusi Atrebatis p. 36" data-url="https://www.biodiversitylibrary.org/pageimage/529649" data-region="51,659,748,1531"></var>
-<var data-image id="bhl-49828508" title="Herbario nuouo p. 40" data-url="https://www.biodiversitylibrary.org/pageimage/49828508" data-region="1921,1637,3047,2754"></var>
+<var data-image id="bhl-56601375" title="Theatrum botanicum p. 1478" data-url="https://www.biodiversitylibrary.org/pageimage/56601375" data-region=""></var>
+<var data-image id="bhl-529649" title="Caroli Clusi Atrebatis p. 36" data-url="https://www.biodiversitylibrary.org/pageimage/529649" data-region=""></var>
+<var data-image id="bhl-49828508" title="Herbario nuouo p. 40" data-url="https://www.biodiversitylibrary.org/pageimage/49828508" data-region=""></var>
+<var data-image id="bhl-359023" title="Systema Naturae p. 1002" data-url="https://www.biodiversitylibrary.org/pageimage/359023" data-region=""></var>
 
 Although tales of Cartier’s explorations were not initially widely published, interest in them as well as identifying the tree that miraculously cured scurvy increased in the eighteenth and early nineteenth centuries as the European colonial enterprise expanded. Numerous naturalists, botanists, and historians have attempted to confirm the identity of Ameda as *Thuja occidentalis* or prove it wrong. While *Thuja occidentalis* remains the consensus, other strong contenders are the white spruce (*Picea glauca*) and the eastern white pine (*Pinus strobus*) since both have names in the Mohawk language, “onnita” and “ohnehta” respectively, that sound similar to later European spelling varieties of Ameda (Anneda, Annedda or Hanneda). Finally, many argue that is was the balsam fir (*Abies balsamea*) as it has the highest levels of vitamin C of any North American conifer (270 mg).
 
