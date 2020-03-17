@@ -127,11 +127,12 @@ To fulfill their colonial agendas, the Spanish and other Europeans  found themse
 
 At first thought, it is surprising  that cacao does  not  appear  in  any  of  the  several, early  Iberian-made  herbals by Nicolás  Monardes. However, since  Monardes  was Spain-based and  never left the  hemisphere, he was only aware of  plants  that would have reached  him  from across the ocean via his network of fellow naturalists. He also seems to have reported solely on plants he was able to propagate in his garden or use for himself,  as he  repeatedly  claims  his findings are based on real  and personal  observations. Given these facts, it is unlikely that cacao  seeds would have survived the voyage across the Atlantic, let alone propagation in the drier Mediterranean climate of Seville, where  Monardes  was based.
 
+We do see cacao in  John Gerard’s _The Herball_ from 1597, referenced  in Latin as _Beretinus_  _fructus_.  Gerard mentions  that this plant was used by the native  populations encountered by Sir Frances Drake to pay tribute to their  political leaders, again echoing the deep-rooted ideologies associating cacao with  economic and political networks.  It is here that we learn of a cacao specimen brought to England by Sir Drake. John Parkinson’s 1640 volume adds to our knowledge about these cacao specimens, indicating that they were brought by Sir Frances Drake  after his 1580 voyage. Some of them eventually  found their way to Carolus  Clusius by means of a Master Garth and Master Morgan.[^ref14] 
 
-We do see cacao in  John Gerard’s _The Herball_ from 1597, referenced  in Latin as _Beretinus_  _fructus_.  Gerard mentions  that this plant was used by the native  populations encountered by Sir Frances Drake to pay tribute to their  political leaders, again echoing the deep-rooted ideologies associating cacao with  economic and political networks.  It is here that we learn of a cacao specimen brought to England by Sir Drake. John Parkinson’s 1640 volume adds to our knowledge about these cacao specimens, indicating that they were brought by Sir Frances Drake  after his 1580 voyage. Some of them eventually  found their way to [Carolus  Clusius](https://bibdigital.rjb.csic.es/idurl/1/13558)  by means of a Master Garth and Master Morgan[^ref14] 
-
-Interestingly, Parkinson [has a duplicate entry for cacao](https://biodiversitylibrary.org/page/56601539), but under a different name: “Cacao sive Cacaute” or “Peare bearing wholesome Almond tree”. It is stated that this plant is made into a beverage called “Chocolate” in an unspecified indigenous language, likely the linguistic origins of our modern name for the creamy, satisfying paste made from cacao. This second entry references a different source, “Benzo”, probably the 1572 account of [Girolamo Benzoni](https://books.google.com/books?id=lmcMAAAAIAAJ&newbks=1&newbks_redir=0&dq=Historia%20del%20Mondo%20Nuovo&pg=PA149#v=onepage&q&f=false), which again alludes to the use of cacao as money and describes the methods to create the cacao beverage. Perhaps because Benzoni actually visited the region, his first-hand account actually references the ecology in which cacao grows: only very warm, moist, and shady areas. It is likely that these exotic ecological constraints added to the appeal of cacao, both for the Mexica and later the Europeans, because of the prestige associated with commanding such a network.
+Interestingly, Parkinson  has a duplicate entry for cacao, but under a different name: “Cacao sive Cacaute” or “Peare bearing wholesome Almond tree.” It is stated that this plant is made into a beverage called “Chocolate” in an unspecified indigenous language, revealing that our modern name for the creamy, satisfying paste made from cacao has its linguistic origins in the New World.  This second entry references a different source, “Benzo,” probably the 1572 account of Girolamo  Benzoni, where he discusses his encounters with cacao in Nicaragua.
 <var data-image id="bhl-56601539" title="Theatrum Botanicum p. 1642" data-url="https://www.biodiversitylibrary.org/pageimage/56601539" data-region="1667,1240,2190,1890"></var>
+
+In his text, Benzoni refers to the use of cacao as money and describes the methods to create the cacao beverage. Perhaps because Benzoni actually visited the region, his first-hand account actually references the ecology in which cacao grows: only very warm, moist, and shady areas. It is likely that these exotic ecological constraints added to the appeal of cacao, both for the Mexica and later the Europeans, because of the prestige associated with commanding such a network.
 
 ### Conclusion
 
@@ -178,7 +179,7 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref19]: McNeil, C. (2009). Traditional Cacao Use in Modern Mesoamerica. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 17). University Press of Florida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODYyOTIyMTgsLTI0NzExMjg2OCwxMT
-cxNDYxMjcxLDIwMDc0NjQzMDcsODY1MzIzOTQ3LDE5OTE2NTk0
-MTZdfQ==
+eyJoaXN0b3J5IjpbMTUyNzE0NTQxMSwtMjQ3MTEyODY4LDExNz
+E0NjEyNzEsMjAwNzQ2NDMwNyw4NjUzMjM5NDcsMTk5MTY1OTQx
+Nl19
 -->
