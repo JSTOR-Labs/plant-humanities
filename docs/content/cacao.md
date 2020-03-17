@@ -43,6 +43,7 @@ While colonial encounters are often conceptualized as a one-way street, with the
 <var data-scope="local" id="Q46" data-aliases="homelands"></var>
 <var data-scope="local" id="Q46" data-aliases="Europeans"></var>
 <var data-map title="World" data-center="23.530645, -40.108534" data-zoom="2"></var>
+<var data-primary="image"></var>
 <var data-map-layer
      title="Americas and Europe"
      data-type="geojson"
@@ -153,5 +154,6 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref19]: McNeil, C. (2009). Traditional Cacao Use in Modern Mesoamerica. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 17). University Press of Florida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1MzIzOTQ3LDE5OTE2NTk0MTZdfQ==
+eyJoaXN0b3J5IjpbMjAwNzQ2NDMwNyw4NjUzMjM5NDcsMTk5MT
+Y1OTQxNl19
 -->
