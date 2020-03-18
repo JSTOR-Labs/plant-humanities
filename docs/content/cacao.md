@@ -1,4 +1,5 @@
-[View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1iH1WcRnPWCXosdLAi_8pcyG3cOgINLTb)
+[View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=15pnIRpyLcPkQzfF203pKpxvIYaskQfmK)
+
 <var data-essay
      title="Cacao: An indigenous network and global commodity"
      data-banner="/images/cacao.jpg"
@@ -55,50 +56,40 @@ While colonial encounters are often conceptualized as a one-way street, with the
 
 After contact, the  earliest  representations of cacao come from  a Mexica (Aztec) herbal known as  the  Badianus  manuscript, a series of elaborately painted plants with their associated  names  in Nahuatl  and  recipes for treating various ailments  written in Latin.  This herbal  was  completed  in the 1550s  by at least two  Nahua men,  Martín  de la Cruz (an indigenous nobleman and physician) and Juan  Badiano  (an instructor of Latin),  at a European-funded and  established  school, Santa Cruz  in Tlatelolco, Mexico. Now held by the National Institute of Anthropology and History in Mexico City, the manuscript has been reproduced in a diversity of ways since its original creation.[^ref1] In these elaborately created and recreated pieces, historically deep and broader indigenous ideologies are captured.[^ref2]
 <var data-map title="World" data-center="19.461194, -99.138983" data-zoom="10"></var>
+<var data-image-viewer></var> 
+<var data-image id="Mexica (Aztec) Empire" title="Mexica (Aztec) Empire" data-url="https://upload.wikimedia.org/wikipedia/commons/8/81/Territorial_Organization_of_the_Aztec_Empire_1519.png" data-region=""></var>
+<var data-image id="The Badianus Manuscript" title="The Badianus Manuscript" data-url="https://www.mexicolore.co.uk/images-3/331_03_2.jpg" data-region=""></var>
+<var data-image id="Colegio Santa Cruz in Tlatelolco, Mexico" title="Colegio Santa Cruz in Tlatelolco, Mexico" data-url="https://upload.wikimedia.org/wikipedia/commons/3/36/Tlatelolco.jpg" data-region=""></var>
 
 
-A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a recipe entitled “Trees and flowers for the fatigue of those administering the government and holding public office”.[^ref3] The other representation of cacao found in the text, identified as *Cacauaxochitl* in Nahautl, shows the plant in flower.[^ref4] While previous scholars have identified this plant as _Quararibea funebris_ because of the similarity of the Nahuatl name given with that of one described by Francisco Hernández de Toledo, the orange and yellow petals along with the overall structure of the petals, pistil, and stamen depicted actually support the identification of it as a flowering and budding _Theobroma cacao_.[^ref5] The _Cacauaxochitl_ illustration is featured with a recipe for  “Mental Stupor” that calls for the use of its bark and roots. 
+A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a recipe entitled “Trees and flowers for the fatigue of those administering the government and holding public office”.[^ref3] The other representation of cacao found in the text, identified as *Cacauaxochitl* in Nahautl, shows the plant in flower.[^ref4] While previous scholars have identified this plant as _Quararibea funebris_ because of the similarity of the Nahuatl name given with that of one described by Francisco Hernández de Toledo, the deep orange and yellow petals along with the overall structure of the petals, pistil, and stamen depicted actually support the identification of it as a flowering and budding _Theobroma cacao_.[^ref5] The _Cacauaxochitl_ illustration is featured with a recipe for  “Mental Stupor” that calls for the use of its bark and roots. This same flowered cacao tree  (_Cacauaxochitl_), while not illustrated,  also features in recipes for hurt feet and as a cure for fear. 
 <var data-image-viewer></var>  
 <var data-image id="Tlapalcacauatl" title="Tlapalcacauatl" data-url="https://kg.jstor.org/w/images/5/56/BadianusCacao1.jpg" data-region=""></var>
+<var data-image id="Fruiting cacao" title="Fruiting cacao" data-url="https://upload.wikimedia.org/wikipedia/commons/4/44/Cacao_-_United_States_Botanic_Garden%2C_Washington%2C_D.C._-_Stierch.jpg" data-region=""></var>
 <var data-image id="Cacauaxochitl" title="Cacauaxochitl" data-url="https://kg.jstor.org/w/images/1/17/BadianusCacao2.jpg" data-region=""></var>
+<var data-image id="Flowering cacao" title="Flowering cacao" data-url="https://upload.wikimedia.org/wikipedia/commons/6/66/Cacao_Flor.JPG" data-region=""></var> 
 
-This same flowered cacao tree  (_Cacauaxochitl_), while not illustrated,  also features in recipes for hurt feet and as a cure for fear.  It is clear that the watercolors  illustrate  anatomically accurate plant  structures situated within particular stages in the reproductive life cycle of cacao. These details of the herbal indicate  that the Mexica  had a detailed understanding of  the biology of cacao, a  level of knowledge not represented  in contemporaneous European-authored herbals. Consequently, the knowledge of cacao within the Badianus has a broader spatio-temporal history, developing well before the arrival of Spaniards and the formation of the school in which de la Cruz and Badiano created the herbal.
-
+It is clear that the watercolors  illustrate  anatomically accurate plant  structures situated within particular stages of the reproductive life cycle of cacao. These details of the herbal indicate  that the Mexica  had a detailed understanding of  the biology of cacao, a  level of knowledge not represented  in contemporaneous European-authored herbals. Consequently, the knowledge of cacao within the Badianus has a broader spatio-temporal history, developing well before the arrival of Spaniards and the formation of the school in which de la Cruz and Badiano created the herbal.
 <var data-image-viewer></var>  
-<var data-image id="Cacauaxochitl" title="Cacauaxochitl" data-url="https://kg.jstor.org/w/images/1/17/BadianusCacao2.jpg" data-region=""></var>
+<var data-image id="Flower to Fruit Cycle" title="Flower to Fruit Cycle" data-url="https://upload.wikimedia.org/wikipedia/commons/8/8c/Ciclo_de_vida_de_las_angiospermas_%28Prunus%29.svg" data-region=""></var>
+<var data-image id="Ancient Cacao Beverage Vessel" title="Ancient Cacao Beverage Vessel" data-url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Mesoamerica%2C_Maya%2C_Nebaj_region%2C_Late_Classic_Period%2C_7th-10th_century_-_Vessel_with_Battle_Scene_-_2012.32_-_Cleveland_Museum_of_Art.tif" data-region=""></var>
 
 ### Ancient ideologies
 
-In these Mexica recipes, the association of cacao with curing  such ailments echoes  what is known about the plant for thousands of years from preceding Mesoamerican cultures.[^ref6] <![endif]--> In several indigenous cosmologies, the  cacao plant represented  an important stage in the life cycle of  the environment,  emerging after the death of maize. This cycle has  been referred to as a forest garden or milpa, a subsistence strategy that was, and still is, central to providing sustenance to millions of neotropical inhabitants. [^ref7] 
+In these Mexica recipes, the association of cacao with curing particular ailments echoes  what is known about the plant for thousands of years from preceding Mesoamerican cultures.[^ref6] <![endif]--> In several indigenous cosmologies, the  cacao plant represented  an important stage in the life cycle of  the environment,  emerging after the death of maize. This cycle has  been referred to as a forest garden or milpa, a subsistence strategy that was, and still is, central to providing sustenance to millions of neotropical inhabitants. [^ref7] 
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
      title="Mesoamerica"
      data-type="mapwarper"
      data-mapwarper-id="45355"
      data-active="true"></var>
-<var data-map-layer
-     title="Maya Region"
-     data-aliases="Maya"
-     data-type="geojson"
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/maya-region.json"
-     data-active="true"></var>
-<var data-map-layer
-     title="Olmec Region"
-     data-type="geojson"
-     data-aliases="Olmec"
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/olmec-region.json"
-     data-active="true"></var>
+<var data-image id="Mesoamerica" title="Mesoamerica" data-url="https://commons.wikimedia.org/wiki/File:Mesoamerica_topographic_map-blank.svg"></var>
+<var data-image id="Mesoamerica" title="Mesoamerica" data-url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Mesoamerica_topographic_map-blank.svg"></var>
 
-
-The milpa cycle is  a  process  of felling, burning, planting, and harvesting a plot of land that,  after a few years,  is left to ‘fallow.’[^ref8] However, this would not be fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots. After this stage, the cycle would restart, where some plants would be removed while others would be encouraged, the remains would be burnt, and staple crops would be planted and eventually harvested.
+The milpa cycle is  a  process  of felling, burning, planting, and harvesting a plot of land that,  after a few years,  is left to ‘fallow.’[^ref8] However, this would not be fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots. After this stage, the cycle would restart, where some plants would be left to grow, others would be pulled and burnt, and staple crops would be planted in the ashes to eventually be harvested.
 <var data-primary="video"></var> 
 <var data-video id="96rIEVptFwo" title="Maya milpa"></var>
-<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
-<var data-map-layer  
-title="Mesoamerica"  
-data-type="mapwarper"
-data-mapwarper-id="45355" 
-data-active="true"></var>
+<var data-image id="Milpa field with forest" title="Milpa field with forest" data-url="https://farm6.staticflickr.com/5532/11840446053_8761ba18ec_b.jpg"></var>
 
 Ancient Maya leaders represented themselves as or in relation to this cycle and its  associated  plants  of importance, mainly cacao and maize, attempting to embody the power of the natural world. For example, we see the  ancient Maya  depict ancestors of rulers  as cacao trees  growing from the sarcophagi of dead  ‘maize god’  rulers  and  cacao trees anthropomorphized  as deities. By invoking this cycle in representing themselves and deities, Maya political leaders were giving precedence to the subsistence practices, ideologies, and plants they incorporated.  Given this ancient association of cacao with the power of the natural world, it is not surprising to see cacao as an ingredient in the Badianus’ recipes for curing fear and malaise, particularly for political leaders.
 <var data-scope="local" id="Q28567" data-aliases="Maya"></var>
