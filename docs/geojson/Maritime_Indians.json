@@ -3,7 +3,14 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#7b7b7b",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#92086d",
+        "fill-opacity": 0.5,
+        "label": "Pre-contact distribution of Ojibwe-speaking people"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -406,7 +413,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "label": "Mi'kmaq and Maritime Indian Provinces",
+        "stroke": "#7b7b7b",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#5c6609"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -561,7 +574,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#7b7b7b",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#5c6609",
+        "label": "Mi'kmaq and Maritime Indian Provinces"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1108,7 +1127,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#7b7b7b",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#5c6609",
+        "label": "Mi'kmaq and Maritime Indian Provinces"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
