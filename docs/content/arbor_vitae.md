@@ -2,7 +2,7 @@
 
 <var data-essay
      title="Arbor Vitae - Thuja occidentalis"
-     data-banner="/images/arbor_vitae.jpg"
+     data-banner="images/arbor_vitae.jpg"
      data-debug="false"></var>
 
 <var title="Abies balsamea" id="Q428023" data-aliases="fir"></var>
