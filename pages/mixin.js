@@ -67,9 +67,10 @@ export default {
           this.$refs[this.$options.name].querySelectorAll('a').forEach((link) => {
             if (link.href) {
               const parsedUrl = parseUrl(link.href)
-              // console.log(parsedUrl)
+              console.log(parsedUrl)
               // if (this.navPaths.has(parsedUrl.pathname) || parsedUrl.pathname.indexOf('/essay/') === 0) {
-              if (this.baseUrl.indexOf(parsedUrl.origin) === 0) {
+              if (this.baseUrl.indexOf(parsedUrl.origin) === 0 && !parsedUrl.hash) {
+                console.log('remove')
                 link.removeAttribute('href')
                 link.addEventListener('click', (e) => {
                   this.$router.push({
