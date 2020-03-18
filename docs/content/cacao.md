@@ -84,7 +84,6 @@ In these Mexica recipes, the association of cacao with curing particular ailment
      data-mapwarper-id="45355"
      data-active="true"></var>
 <var data-image id="Mesoamerica" title="Mesoamerica" data-url="https://commons.wikimedia.org/wiki/File:Mesoamerica_topographic_map-blank.svg"></var>
-<var data-image id="Mesoamerica" title="Mesoamerica" data-url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Mesoamerica_topographic_map-blank.svg"></var>
 
 The milpa cycle is  a  process  of felling, burning, planting, and harvesting a plot of land that,  after a few years,  is left to ‘fallow.’[^ref8] However, this would not be fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots. After this stage, the cycle would restart, where some plants would be left to grow, others would be pulled and burnt, and staple crops would be planted in the ashes to eventually be harvested.
 <var data-primary="video"></var> 
