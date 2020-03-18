@@ -1,6 +1,6 @@
 <var data-essay data-layout="horizontal"></var>
 
-[Cherries sample essay](/essay/cherries) [(vertical layout)](/essay/cherries?layout=vertical)
+[Cherries sample essay](/essay/cherries) 
 
 [Arbor Vitæ, the tree of life](/essay/arbor_vitae)
 
