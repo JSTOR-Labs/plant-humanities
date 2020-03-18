@@ -1,4 +1,5 @@
 [View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1ZhAYXtLWogfZygES96g4OXU-6tLtKTTM)
+
 <var data-essay
      title="Arbor Vitae - Thuja occidentalis"
      data-banner="/images/arbor_vitae.jpg"
