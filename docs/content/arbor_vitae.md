@@ -76,16 +76,14 @@ Thanks to the medicinal knowledge of the St. Lawrence Iroquois, Captain Cartier 
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/cartier_publishing.json"
 	data-active="true"></var>
 
-<var data-primary="image"></var>
 According to the account published by Ramusio, the tree used to cure the French explorers was called [“Ameda”](https://archive.org/details/dellenavigationi00ramu/page/n835) in the local language. [Florio’s translation also refers to the tree only by its indigenous name.](https://hdl.handle.net/2027/aeu.ark:/13960/t35151v01?urlappend=%253Bseq=85) In fact, all early translations of the account, published by Ramusio (1550), Florio (1580), and the English author Richard Hakluyt (1600), provide nearly identical accounts, pointing to a close translation of the same source. Sadly, none provide an in-depth physical description of the tree called “Ameda.” Lacking any first-hand accounts with detailed physical descriptions, naturalists, botanists, and historians have debated the true identity of the tree of life for more than 450 years.
-<var data-image-viewer></var>  
+<var data-primary="image"></var>
 <var data-image id="wikicommons" title="Cartier at Hochelaga" data-url="https://upload.wikimedia.org/wikipedia/commons/2/25/Jacques_Cartier_a_Hochelaga.jpg" data-region=""></var>
 
 ### Indigenous Coniferous Medicinal Knowledge
 
-<var data-primary="image"></var>
 Through linguistic, botanical, and historical analysis numerous trees have been put forward as the miraculous tree that saved Cartier and his men – the fir (*Abies balsamea*), the white spruce (*Picea glauca*), the red spruce (*Picea rubens*), epinettenoire (*Picea mariana*), white pine (*Pinus strobus*), red pine (*Pinus resinosa*), white cedar (*Thuja occidentalis*), hemlock (*Tsuga canadensis*), and even sassafras (*Sassafras albidum*), although it is generally agreed that based on sixteenth-century descriptions and its natural distribution, sassafras is impossible.
-<var data-image-viewer></var>  
+<var data-primary="image"></var>
 <var data-image id="Kew plants of the world" title="Abies Balsamea Kew" data-url="http://plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:1084057-2" data-region=""></var>
 <var data-image id="Kew plants of the world" title="Abies Balsamea Kew" data-url="http://plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:1084057-2" data-region=""></var>
 
@@ -122,13 +120,11 @@ Unlike the European view of Indian medicines, which they often described as pana
      data-active="true"></var>
 
 Scurvy is an acute chronic illness caused by a dietary deficiency of ascorbic acid, or vitamin C.[^ref7]  Historically, scurvy was common in sailors because sea voyages often required long periods of time at sea, without fresh fruits and vegetables (common dietary sources of vitamin C). Without vitamin C, human bodies cannot properly use the carbohydrates, fats, and protein it digests. Untreated, scurvy leads to exhaustion, anemia, bleeding and bruising, pain in the limbs (especially the legs), swelling of your extremities, and in severe cases decay of gum tissue and loss of teeth. While scurvy is generally thought of as maritime disease, we now know that exposure to long periods of cold temperatures can also lead to ascorbic-acid insufficiency and cause scurvy. This is exactly what happen to Cartier’s men, who, thanks to that winter’s icy conditions, were stranded in the Gulf of Saint Lawrence.
-<var data-primary="image"></var>
-<var data-image-viewer></var>  
+<var data-primary="image"></var> 
 <var data-image id="wikicommons" title="A case of Scurvy journal of Henry Walsh" data-url="https://upload.wikimedia.org/wikipedia/commons/c/c8/A_case_of_Scurvy_journal_of_Henry_Walsh_Mahon.jpg" data-region=""></var>
 
-<var data-primary="image"></var>
 Today, Adult scurvy is treated with 300–1000 mg of ascorbic acid per day. Although lemons and oranges are traditionally associated with high levels of vitamin C (50 mg/100 g) the reduced ascorbic acid in 100 grams of fresh needles and shoots from many conifers exceeds or matches the vitamin C in citrus. For example, *Abies balsamea* has 270 mg, *Picea rubens* 169 mg, and *Thuja occidentalis* 45 mg.[^ref8]  Furthermore, as Don J. Durzan has highlighted in his scientific analysis of coniferous biofactors, in the winter when food was scarce and the temperature plummeted, the coniferous “trees of life” provided vital vitamins, arginine, proline, other conditionally and essential amino acids, and antioxidants, all of which aided in the recovery from of scurvy.
-<var data-image-viewer></var>  
+<var data-primary="image"></var>
 <var data-image id="Scurvy Advertisement" title="Scurvy Advertisement" data-url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Advertisement_for_%27Clarke%27s_Blood_Mixture%27%2C_published_Englan_Wellcome_L0059449.jpg" data-region=""></var>
 
 ### Identifying the Tree of Life
@@ -154,9 +150,8 @@ It is clear that by the mid-seventeenth century much of the medicinal knowledge 
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/thuja in europe.json"
      data-active="true"></var>
 
-<var data-primary="image"></var>
 In 1753, botanist Carl Linnaeus’ pioneering work, *Systema Naturae*, which cemented a system of binomial classification for plants, identified the arbor vitæ, the thuja Theophrasis, and the Thuja strobilis lævibus as the same plant, which he reclassified as [*Thuja occidentalis*](https://www.biodiversitylibrary.org/page/359023#page/444/mode/1up). Since then, *Thuja occidentalis* has generally been accepted as the “Ameda” tree that save Cartier and his men.
-<var data-image-viewer></var>
+<var data-primary="image"></var>
 <var data-image id="bhl-56601375" title="Theatrum botanicum p. 1478" data-url="https://www.biodiversitylibrary.org/pageimage/56601375" data-region=""></var>
 <var data-image id="bhl-529649" title="Caroli Clusi Atrebatis p. 36" data-url="https://www.biodiversitylibrary.org/pageimage/529649" data-region=""></var>
 <var data-image id="bhl-49828508" title="Herbario nuouo p. 40" data-url="https://www.biodiversitylibrary.org/pageimage/49828508" data-region=""></var>
