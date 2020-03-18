@@ -91,6 +91,8 @@ In these Mexica recipes, the association of cacao with curing  such ailments ech
      data-active="true"></var>
      
 The milpa cycle is  a  process  of felling, burning, planting, and harvesting a plot of land that,  after a few years,  is left to ‘fallow.’[^ref8] However, this would not be fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots. After this stage, the cycle would restart, where some plants would be removed while others would be encouraged, the remains would be burnt, and staple crops would be planted and eventually harvested.
+<var data-primary="video"></var>
+<var data-video id="Maya milpa" url="https://youtu.be/96rIEVptFwo
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
      title="Mesoamerica"
@@ -112,8 +114,6 @@ The presence of cacao in a remedy for hurt feet within the Badianus also wittily
 We learn from many other early colonial documents that roasted cacao beans were used as a currency throughout Mesoamerica, highlighting how  important a  trade good  this plant would have been by the time Europeans arrived. This relationship between long-distance trade and cacao is also reflected in the ancient Maya God L, who is typically depicted in relation to cacao and merchant regalia.[^ref9] Such an ancient  association of  commerce with cacao emphasizes the deep history of long-distance trade of the plant between the many regions of Mesoamerica.
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 
-
-<![endif]-->
 
 Ultimately, the importance of cacao within political, social, and economic realms of these cultures indicates that individuals and polities would have sought control of its associated production and exchange networks to garner power, ultimately perpetuating its uses and ideologies further and further from its neotropical origins.  It is no wonder that ancient rulers invoked cacao in their ritual and political exchanges and ceremonies, which often included the imbibing of cacao beverages or the  gifting of cacao vessels.[^ref10][^ref11] Eventually, these practices created a taste for cacao across an elaborate network of Mesoamerican polities, maintaining the high status and importance of cacao-producing regions during ancient and historic periods.[^ref12][^ref13] Upon European arrival, these networks of production and trade as well as their associated ideologies and practices were well-established across the Americas.
 <var data-image-viewer></var>
@@ -177,7 +177,8 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref19]: McNeil, C. (2009). Traditional Cacao Use in Modern Mesoamerica. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 17). University Press of Florida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDUyNDM0MzQsLTM4Mzk2NTk2Miw0OD
-kwMTM5NTAsLTI0NzExMjg2OCwxMTcxNDYxMjcxLDIwMDc0NjQz
-MDcsODY1MzIzOTQ3LDE5OTE2NTk0MTZdfQ==
+eyJoaXN0b3J5IjpbLTE5MjI4MTI4NzcsLTE5MDUyNDM0MzQsLT
+M4Mzk2NTk2Miw0ODkwMTM5NTAsLTI0NzExMjg2OCwxMTcxNDYx
+MjcxLDIwMDc0NjQzMDcsODY1MzIzOTQ3LDE5OTE2NTk0MTZdfQ
+==
 -->
