@@ -22,5 +22,5 @@ navigation:
     icon: mdi-contact-mail
 gh_repo: plant-humanities
 context: null
-app_version: 0.2.1
+app_version: 0.2.2
 lib_version: 0.3.31
