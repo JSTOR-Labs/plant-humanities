@@ -136,7 +136,6 @@ In his text, Benzoni refers to the use of cacao as money and describes the metho
 ### Conclusion
 
 The political and economic powers of Europe took note of these early accounts of cacao as monetarily and ideological valuable and, by the 17th century, international markets were emerging, maintained largely through African slave labor.[^ref15] The tastes of returning merchants and clergy, as well as its reported medicinal properties, allowed cacao to take off in Spain by the early 17th century.[^ref16],[^ref17] In other parts of Europe, cacao and even special cacao vessels featured prominently in elite networks, again invoking the ideologies rooted in distant places and eras of Mesoamerica. At a time when curiosities fueled the exploration and description of the natural and cultural world, cacao featured quite prominently as a curio to add to royal cabinets. Eventually, cacao found its way into products meant to entice the common palate including the many chocolate bars, desserts, and drinks we know and love today. Cacao continues to be grown in the tropics across the world today, both for global and local markets[^ref18][^ref19] The ideological association of cacao with subsistence, prestige, and trade has continued across millennia and cultures, making the power and appeal of cacao truly timeless and global.
-<var data-image id="bhl-56601539" title="Theatrum Botanicum p. 1642" data-url="https://www.biodiversitylibrary.org/pageimage/56601539" data-region="1667,1240,2190,1890"></var>
 
 ### References
 
@@ -178,7 +177,7 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref19]: McNeil, C. (2009). Traditional Cacao Use in Modern Mesoamerica. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 17). University Press of Florida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Mzk2NTk2Miw0ODkwMTM5NTAsLTI0Nz
-ExMjg2OCwxMTcxNDYxMjcxLDIwMDc0NjQzMDcsODY1MzIzOTQ3
-LDE5OTE2NTk0MTZdfQ==
+eyJoaXN0b3J5IjpbLTE5MDUyNDM0MzQsLTM4Mzk2NTk2Miw0OD
+kwMTM5NTAsLTI0NzExMjg2OCwxMTcxNDYxMjcxLDIwMDc0NjQz
+MDcsODY1MzIzOTQ3LDE5OTE2NTk0MTZdfQ==
 -->
