@@ -120,9 +120,8 @@ Unlike the European view of Indian medicines, which they often described as pana
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maritime_Indians.json"
      data-active="true"></var>
 
-<var data-primary="image"></var>
 Scurvy is an acute chronic illness caused by a dietary deficiency of ascorbic acid, or vitamin C.[^ref7]  Historically, scurvy was common in sailors because sea voyages often required long periods of time at sea, without fresh fruits and vegetables (common dietary sources of vitamin C). Without vitamin C, human bodies cannot properly use the carbohydrates, fats, and protein it digests. Untreated, scurvy leads to exhaustion, anemia, bleeding and bruising, pain in the limbs (especially the legs), swelling of your extremities, and in severe cases decay of gum tissue and loss of teeth. While scurvy is generally thought of as maritime disease, we now know that exposure to long periods of cold temperatures can also lead to ascorbic-acid insufficiency and cause scurvy. This is exactly what happen to Cartier’s men, who, thanks to that winter’s icy conditions, were stranded in the Gulf of Saint Lawrence.
-<var data-map title="Gulf of Saint Lawrence" data-center="42.655350,-74.715453" data-zoom="4"></var>
+<var data-primary="image"></var>
 <var data-image-viewer></var>  
 <var data-image id="wikicommons" title="A case of Scurvy journal of Henry Walsh" data-url="https://upload.wikimedia.org/wikipedia/commons/c/c8/A_case_of_Scurvy_journal_of_Henry_Walsh_Mahon.jpg" data-region=""></var>
 
@@ -135,6 +134,8 @@ Today, Adult scurvy is treated with 300–1000 mg of ascorbic acid per day. Alth
 
 <var data-map title="France" data-center="48.402007, 2.700250" data-zoom="10"></var>
 Cartier returned to France with seeds from the Ameda tree, which were presented to the French King, Francis I, as the tree of life. Unfortunately, because accounts of Cartier’s explorations were not widely published until the end of the sixteenth century, the miraculous story of the arbor vitæ was not well known until well into the seventeenth century. We do know, however, thanks to a French naturalist, Pierre Belon, that the seeds presented to the king were planted and the tree later propagated in France. In 1553, Belon wrote the first botanical work devoted to coniferous trees. In his treatise, Belon noted that there were many arbor vitæs growing in the royal garden at Fontainebleau. Unfortunately, Belon makes no mention of Cartier and his crew’s miraculous recovery or where the tree originated, only that the tree was brought to King and was given the name arbor vitæ.
+<var data-image-viewer></var>
+<var data-image id="Gardens of Fontainebleau" title="Gardens of Fontainebleau" data-url="https://https://upload.wikimedia.org/wikipedia/commons/8/83/Fontainebleau_bird%27s_eye_view.jpg" data-region=""></var>
 
 <var data-map title="France" data-center="48.402007, 2.700250" data-zoom="4"></var>
 From there we can trace the knowledge, or lack of knowledge, of the arbore vitæ in Europe through herbals. Arbor vitæ appears in the herbals of Mathias de l'Obel (1576), Castore Durante (1585), John Gerarde (1597), Caspar Bauhin (1598), Carolus Clusius (1601), and John Parkinson (1640).[^ref9]  From these works it is clear that much of the knowledge surrounding the arbor vitæ—where it came from, its medicinal properties, and why it was called the tree of life—had already been lost. While all similarly describe the physical attributes of a coniferous tree deemed the tree of life, only Bauhin, Clusius, and Parkinson placed the origin of the tree in Canada, and none mention Cartier and the “Ameda” tree. Clusius, having seen the tree in the botanical garden of the French King, also noted that the arbor vitæ was now [“so widespread that everyone with a passion for horticulture grows one in his garden.”](https://biodiversitylibrary.org/page/529649)
@@ -152,6 +153,7 @@ It is clear that by the mid-seventeenth century much of the medicinal knowledge 
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/thuja in europe.json"
      data-active="true"></var>
 
+<var data-primary="image"></var>
 In 1753, botanist Carl Linnaeus’ pioneering work, *Systema Naturae*, which cemented a system of binomial classification for plants, identified the arbor vitæ, the thuja Theophrasis, and the Thuja strobilis lævibus as the same plant, which he reclassified as [*Thuja occidentalis*](https://www.biodiversitylibrary.org/page/359023#page/444/mode/1up). Since then, *Thuja occidentalis* has generally been accepted as the “Ameda” tree that save Cartier and his men.
 <var data-image-viewer></var>
 <var data-image id="bhl-56601375" title="Theatrum botanicum p. 1478" data-url="https://www.biodiversitylibrary.org/pageimage/56601375" data-region=""></var>
