@@ -178,9 +178,5 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref19]: McNeil, C. (2009). Traditional Cacao Use in Modern Mesoamerica. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 17). University Press of Florida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYxNDc1NDQsLTI1NTc5NjM4NSw2MT
-IyNTQ0NjQsLTIwNzA0MjMwMTMsMTU5ODAwNzMyMSwtMTg1ODE0
-NDU3MSwtMTkwNTI0MzQzNCwtMzgzOTY1OTYyLDQ4OTAxMzk1MC
-wtMjQ3MTEyODY4LDExNzE0NjEyNzEsMjAwNzQ2NDMwNyw4NjUz
-MjM5NDcsMTk5MTY1OTQxNl19
+eyJoaXN0b3J5IjpbLTIxNDYxNDc1NDRdfQ==
 -->
