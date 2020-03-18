@@ -93,11 +93,8 @@ In these Mexica recipes, the association of cacao with curing  such ailments ech
 
 The milpa cycle is  a  process  of felling, burning, planting, and harvesting a plot of land that,  after a few years,  is left to ‘fallow.’[^ref8] However, this would not be fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots. After this stage, the cycle would restart, where some plants would be removed while others would be encouraged, the remains would be burnt, and staple crops would be planted and eventually harvested.
 <var data-primary=“video”></var> 
-<var data-video id="9
-<var data-video id=“96rIEVptFwo” title=“Maya milpa”></var> 
-
-<var data-map title=“World” data-center=“19.431947, -99.133335” data-zoom=“5"></var>
-
+<var data-video id="96rIEVptFwo" title="Maya milpa"></var>
+<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer  
 title=“Mesoamerica”  
 data-type=“mapwarper”  
@@ -181,9 +178,9 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref19]: McNeil, C. (2009). Traditional Cacao Use in Modern Mesoamerica. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 17). University Press of Florida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTk1ODU5MiwtMjU1Nzk2Mzg1LDYxMj
-I1NDQ2NCwtMjA3MDQyMzAxMywxNTk4MDA3MzIxLC0xODU4MTQ0
-NTcxLC0xOTA1MjQzNDM0LC0zODM5NjU5NjIsNDg5MDEzOTUwLC
-0yNDcxMTI4NjgsMTE3MTQ2MTI3MSwyMDA3NDY0MzA3LDg2NTMy
-Mzk0NywxOTkxNjU5NDE2XX0=
+eyJoaXN0b3J5IjpbLTIxNDYxNDc1NDQsLTI1NTc5NjM4NSw2MT
+IyNTQ0NjQsLTIwNzA0MjMwMTMsMTU5ODAwNzMyMSwtMTg1ODE0
+NDU3MSwtMTkwNTI0MzQzNCwtMzgzOTY1OTYyLDQ4OTAxMzk1MC
+wtMjQ3MTEyODY4LDExNzE0NjEyNzEsMjAwNzQ2NDMwNyw4NjUz
+MjM5NDcsMTk5MTY1OTQxNl19
 -->
