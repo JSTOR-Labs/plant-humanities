@@ -3,7 +3,14 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#7b7b7b",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#32c124",
+        "fill-opacity": 0.5,
+        "label": "Thuja occidentalis native range"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
