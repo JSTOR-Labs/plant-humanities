@@ -1,5 +1,4 @@
-[View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1ha2XVXszvWLkxnc-nzOIEW7ayCfcA18QiQjhRcmvGUc)
-
+[View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1iH1WcRnPWCXosdLAi_8pcyG3cOgINLTb)
 <var data-essay
      title="Cacao: An indigenous network and global commodity"
      data-banner="/images/cacao.jpg"
@@ -177,3 +176,6 @@ The political and economic powers of Europe took note of these early accounts of
 [^ref18]: McAnany, P., & Muruta, S. (2009). From Chocolate Pots To Maya Gold: Belizean Cacao Farmers Through the Ages. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 21). University Press of Florida.
 
 [^ref19]: McNeil, C. (2009). Traditional Cacao Use in Modern Mesoamerica. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 17). University Press of Florida.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY4MjQ2NjE5OF19
+-->
