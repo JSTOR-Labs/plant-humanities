@@ -111,6 +111,3 @@ Located in the Northeastern corner of Dumbarton Oaks, Cherry Hill is planted wit
 The Tale of Genji, written in the early years of the 11th century by the noblewoman Murasaki Shikibu, depicts an imperial court brimming with elegance and intrigue, where cherry-viewing parties set the stage for love and courtship. Although The Tale of Genji marked a turning-point in the development of the aesthetics of pathos and the keen awareness of ephemerality (monono aware), cherry blossoms are largely symbols of youth and love in the novel. This screen depicts a scene from chapter thirty four, New Herbs I, in which the courtier Kashiwagi falls in love while playing kickball under blossoming cherry trees as he catches sight of Genji’s new wife behind a bamboo blind that a cat has pushed open.
 
 “The women had been too delighted with the game, young gentlemen heedless of how they scattered the blossoms, to worry about blinds and concealment.”
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MzU1NTE2XX0=
--->
