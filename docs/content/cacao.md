@@ -91,14 +91,14 @@ In these Mexica recipes, the association of cacao with curing  such ailments ech
 
 
 The milpa cycle is  a  process  of felling, burning, planting, and harvesting a plot of land that,  after a few years,  is left to ‘fallow.’[^ref8] However, this would not be fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots. After this stage, the cycle would restart, where some plants would be removed while others would be encouraged, the remains would be burnt, and staple crops would be planted and eventually harvested.
-<var data-primary=“video”></var> 
+<var data-primary="video"></var> 
 <var data-video id="96rIEVptFwo" title="Maya milpa"></var>
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer  
-title=“Mesoamerica”  
-data-type=“mapwarper”  
-data-mapwarper-id=“45355”  
-data-active=“true”></var>
+title="Mesoamerica"  
+data-type="mapwarper"
+data-mapwarper-id="45355" 
+data-active="true"></var>
 
 Ancient Maya leaders represented themselves as or in relation to this cycle and its  associated  plants  of importance, mainly cacao and maize, attempting to embody the power of the natural world. For example, we see the  ancient Maya  depict ancestors of rulers  as cacao trees  growing from the sarcophagi of dead  ‘maize god’  rulers  and  cacao trees anthropomorphized  as deities. By invoking this cycle in representing themselves and deities, Maya political leaders were giving precedence to the subsistence practices, ideologies, and plants they incorporated.  Given this ancient association of cacao with the power of the natural world, it is not surprising to see cacao as an ingredient in the Badianus’ recipes for curing fear and malaise, particularly for political leaders.
 <var data-scope="local" id="Q28567" data-aliases="Maya"></var>
