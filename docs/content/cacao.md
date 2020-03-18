@@ -1,4 +1,4 @@
-[View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1RgQSh9qQ2BlJrjGTFKAZKxistXfldS7M)
+[View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1ha2XVXszvWLkxnc-nzOIEW7ayCfcA18QiQjhRcmvGUc)
 
 <var data-essay
      title="Cacao: An indigenous network and global commodity"
@@ -178,8 +178,8 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref19]: McNeil, C. (2009). Traditional Cacao Use in Modern Mesoamerica. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 17). University Press of Florida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTgxNDQ1NzEsLTE5MDUyNDM0MzQsLT
-M4Mzk2NTk2Miw0ODkwMTM5NTAsLTI0NzExMjg2OCwxMTcxNDYx
-MjcxLDIwMDc0NjQzMDcsODY1MzIzOTQ3LDE5OTE2NTk0MTZdfQ
-==
+eyJoaXN0b3J5IjpbMTU5ODAwNzMyMSwtMTg1ODE0NDU3MSwtMT
+kwNTI0MzQzNCwtMzgzOTY1OTYyLDQ4OTAxMzk1MCwtMjQ3MTEy
+ODY4LDExNzE0NjEyNzEsMjAwNzQ2NDMwNyw4NjUzMjM5NDcsMT
+k5MTY1OTQxNl19
 -->
