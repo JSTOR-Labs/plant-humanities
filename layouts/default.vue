@@ -4,7 +4,7 @@
       <v-navigation-drawer app v-model="drawer">
         <v-list dense>
 
-          <v-list-item 
+          <v-list-item
             nuxt
             v-for="menuItem in navigation" :key="menuItem.path"
             @click="drawer=false"
@@ -12,7 +12,7 @@
             <v-list-item-action>
               <v-icon>{{menuItem.icon}}</v-icon>
             </v-list-item-action>
-            <v-list-item-content>    
+            <v-list-item-content>
               <v-list-item-title>{{menuItem.title}}</v-list-item-title>
             </v-list-item-content>
           </v-list-item>
@@ -55,7 +55,7 @@
         </v-container>
 
       </v-sheet>
-  
+
       <v-footer ref="footer" :fixed="fixed" app>
         <v-flex class="text-xs-left">
           <span>&nbsp;v{{ appVersion }} ({{ bundleVersion }})</span>
@@ -101,7 +101,7 @@
       bundleVersion() { return this.$store.getters.bundleVersion }
     },
     mounted() {
-      this.bannerHeight = this.viewport.height * .25 
+      this.bannerHeight = this.viewport.height * .25
       this.essayTopMargin = this.bannerHeight
       this.height = this.viewport.height - this.bannerHeight - this.spacerHeight - 36
       console.log(`layout: viewport.height=${this.viewport.height} bannerHeight=${this.bannerHeight} essayTopMargin=${this.essayTopMargin} height=${this.height}`)
@@ -151,7 +151,7 @@
       viewport: {
         handler: function (viewport) {
           if (viewport) {
-            this.bannerHeight = this.viewport.height * .25 
+            this.bannerHeight = this.viewport.height * .25
             this.essayTopMargin = this.bannerHeight
             // this.height = this.viewport.height - this.bannerHeight - this.spacerHeight - 36
             console.log(`viewport: bannerHeight=${this.bannerHeight} essayTopMargin=${this.essayTopMargin} height=${this.height}`)
@@ -178,6 +178,10 @@
 
 <style>
 
+  .v-footer {
+    border-top: 1px solid #9b9b9b !important;
+  }
+
   .container {
     padding: 0 !important;
     max-width: 1500px !important;
@@ -203,5 +207,20 @@
     color: #000;
     font-weight: normal;
   }
+
+
+  .leaflet-container {
+    background: #aad3df !important;
+  }
+
+  .leaflet-bar a, .leaflet-bar a:hover {
+    height: 30px !important;
+    width: 36px !important;
+  }
+
+  #cards-image-viewer .container{
+    margin-bottom: 172px !important;
+  }
+
 
 </style>
