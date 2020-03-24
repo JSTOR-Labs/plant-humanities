@@ -1,5 +1,9 @@
 [View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=15pnIRpyLcPkQzfF203pKpxvIYaskQfmK)
 
+<var data-essay  
+     title="cacao"  
+     data-banner="https://upload.wikimedia.org/wikipedia/commons/3/31/Theobroma_cacao_%28Cacao_2%29.jpg"></var>
+     
 <var data-essay
      title="Cacao: An indigenous network and global commodity"
      data-banner="/images/cacao.jpg"
@@ -80,8 +84,8 @@ In these Mexica recipes, the association of cacao with curing particular ailment
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
      title="Mesoamerica"
-     data-type="mapwarper"
-     data-mapwarper-id="45355"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.json"
      data-active="true"></var>
 <var data-image-viewer></var>  
 <var data-image id="Mesoamerica" title="Mesoamerica" data-url="https://commons.wikimedia.org/wiki/File:Mesoamerica_topographic_map-blank.svg"></var>
