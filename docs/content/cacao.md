@@ -74,6 +74,12 @@ A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a r
 <var data-image id="Flowering cacao" title="Flowering cacao" data-url="https://upload.wikimedia.org/wikipedia/commons/6/66/Cacao_Flor.JPG" data-region=""></var> 
 
 It is clear that the watercolors  illustrate  anatomically accurate plant  structures situated within particular stages of the reproductive life cycle of cacao. These details of the herbal indicate  that the Mexica  had a detailed understanding of  the biology of cacao, a  level of knowledge not represented  in contemporaneous European-authored herbals. Consequently, the knowledge of cacao within the Badianus has a broader spatio-temporal history, developing well before the arrival of Spaniards and the formation of the school in which de la Cruz and Badiano created the herbal.
+<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
+<var data-map-layer
+     title="Mexica"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.json"
+     data-active="true"></var>
 <var data-image-viewer></var>  
 <var data-image id="Flower to Fruit Cycle" title="Flower to Fruit Cycle" data-url="https://upload.wikimedia.org/wikipedia/commons/8/8c/Ciclo_de_vida_de_las_angiospermas_%28Prunus%29.svg" data-region=""></var>
 <var data-image id="Ancient Cacao Beverage Vessel" title="Ancient Cacao Beverage Vessel" data-url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Mesoamerica%2C_Maya%2C_Nebaj_region%2C_Late_Classic_Period%2C_7th-10th_century_-_Vessel_with_Battle_Scene_-_2012.32_-_Cleveland_Museum_of_Art.tif" data-region=""></var>
