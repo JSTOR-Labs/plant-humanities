@@ -1,3 +1,5 @@
+<var data-essay title="Spearmint Flower" data-banner="https://commons.wikimedia.org/wiki/File:Flowers_of_the_spearmint.JPG#filehistory"></var>
+
 [View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1-q4xsJuLtqYotSbVRPJ2NPZvs_JKiF8x)
 
 <var data-essay
