@@ -1,4 +1,5 @@
-<p><a href="https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1-q4xsJuLtqYotSbVRPJ2NPZvs_JKiF8x">View</a></p>
+<p><a href="https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1-q4xsJuLtqYotSbVRPJ2NPZvs_JKiF8x">View</a><br>
+<var title="Spearmint Flower"></var></p>
 <p><var title="The ubiquity of mint: exploring plant mythology, naming and commercial value"></var><br>
 <var title="World"></var><br>
 <var title="Samuel Dale" id="Q1538175"></var></p>
