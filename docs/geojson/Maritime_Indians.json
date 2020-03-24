@@ -419,7 +419,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#5c6609",
-        "fill-opacity": 0.5,
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
