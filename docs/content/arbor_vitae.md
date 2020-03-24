@@ -168,7 +168,7 @@ Although tales of Cartier’s explorations were not initially widely published, 
 ### Conclusion
 
 A Scottish surgeon named James Lind (1716 –1794) is typically credited for solving the mystery of scurvy and discovering its cure. But as Lind explained in his 1772, [*A treatise of the scurvy*](https://books.google.com/books?id=T1OT3tYmh5wC&printsec=frontcover&dq=A+treatise+of+the+scurvy.+In+three+parts,+Lind&hl=it&sa=X&ved=0ahUKEwiWmP2Kw_vlAhVBrlkKHa9NDYwQ6AEILDAA#v=onepage&q=cartier&f=false), he was keenly aware of the therapeutic properties of “spruce beer,” which he knew to be a common drink of the peoples of Newfoundland and because of which “they kept pretty free from the scurvy.” Lind also mentioned Cartier’s “Ameda” tree and, like so many before him, offered an identification, calling it “the large swampy American spruce tree.” Lind’s treatise promoted a decoction of “the tops, cones, leaves, or even green bark and wood of these trees” as an excellent antiscorbutic medicine. However, Lind saw “spruce beer” and decoctions of coniferous trees more as preventative medicine. 
-<var data-map title="Newfoundland data-center="Q48335" data-zoom="6"></var>
+<var data-map title="Newfoundland data-center="Q48335" data-zoom="5"></var>
 <var data-map-layer
      title="Newfoundland"
      data-type="geojson" 
