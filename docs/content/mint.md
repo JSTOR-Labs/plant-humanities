@@ -20,7 +20,7 @@ Some scents regularly appear in our daily lives and give us a sense of familiari
 <var data-primary="image"></var>
 <var data-image-viewer></var>
 <var data-image id="mentha aqautica" title="Water mint" data-url="https://upload.wikimedia.org/wikipedia/commons/2/2e/Mentha_aquatica_06_ies.jpg" data-region=""></var>
-<!--<var data-image id="mentha arvensis" title="Wild mint" data-url="https://commons.wikimedia.org/wiki/Mentha_arvensis#/media/File:Mentha_arvensis_-_p%C3%B5ldm%C3%BCnt_Keila.jpg"></var>-->
+<var data-image id="mentha piperita" title="Peppermint" data-url="https://upload.wikimedia.org/wikipedia/commons/5/50/Mentha_x_piperita_002.JPG"></var>
 
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
 <var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdistribution.geojson data-active="true"></var>
