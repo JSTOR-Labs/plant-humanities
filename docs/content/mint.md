@@ -71,16 +71,8 @@ The taxonomy of the genus *Mentha* has, in the words of Lawrence, 'been in a sta
 This problematic nature of identifying and naming mint however does not appear to have prevented the plant from becoming a significant commercial crop. Mint, especially commercial mint, is not considered native to North America but <var data-scope="element" id="Q864709">Elder William Brewster (1568–1644)</var>, a passenger on the <var data-scope="element" id="Q187093">Mayflower</var> voyage in 1620, is known to have grown a variety of mint in his garden in Plymouth, Massachusetts not long after arriving from Europe.[^ref9] From this information, the naturalist and traveller <var data-scope="element" id="Q6242285">John Josselyn (1608-1675)</var> postulated that the <var data-scope="element" id="Q127834">New World</var> was introduced to mint, or ‘Labiatae’, by the pilgrims. Josselyn travelled to New England in 1638 and again in 1663, documenting his travels and the natural world he encountered in two publications. The first, [*New England's Rarities*](https://biodiversitylibrary.org/page/24624464), was published in London in 1671, and the second, [*An Account of Two Voyages to New England*](https://biodiversitylibrary.org/page/47096615), in 1674. 
 <var data-map title="New England" data-center="42.566426,-71.751354" data-zoom="4"></var>
 <var title="Plymouth" id="Q326295"></var>
-<!--<var data-map-layer
-     title="13 colonies"
-     data-type="mapwarper"
-     data-mapwarper-id="45357"
-     data-active="true"></var>
-     <var data-geojson
-    title=“Commercialmint”
-    data-type=“geojson”
-    data-url=“https://raw.githubusercontent.com/ithaka/labs-ph-essays/master/docs/geojson/hortus.json”
-    data-active=“true”></var>-->
+<var data-image id="Mayflower" title="United States 1 cent postage stamp issued in 1920 to celebrate the tercentenary of the arrival of the Mayflower in 1620" data-url="https://upload.wikimedia.org/wikipedia/commons/3/3f/1920USstamp1centPilgrimTercentenaryTheMayflower.jpg" data-region=""></var>
+
      
      
 Despite not being native to North America, peppermint and peppermint oil in particular proves to be an important lens through which to consider the movement and commercial development of plant use in America. Peppermint (*Mentha piperita*) is a hybrid of spearmint and water mint (*Mentha aqautica*) and its oil is volatile which means that it is composed of hydrocarbon compounds called terpenes. Menthol is the major tarpene in peppermint oil.[^ref10] Peppermint oil has been used in commercial products since the eighteenth century. One of the first published mentions of peppermint is in *Synopsis Methodica Stirpium Britannicarum* in 1696 by John Ray. Ray, a prominent British naturalist entwined in botanical exchange networks across Britain and Europe in the seventeenth century, wrote that ‘[Spear-Mint or Heart-Mint](https://biodiversitylibrary.org/page/41339853)’ had been ‘found by Mr. Dale in Essex [England] by Bocking River side below the Fulling-Mill in two or three places’.
