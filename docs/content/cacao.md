@@ -11,7 +11,7 @@
      
 <var title="Maya ceramics" id="Q6796748" data-aliases="vessels"></var>
 <var title="Palenqué" id="Q181427" data-fill="5C6609" data-marker-symbol="gopuram" data-aliases="Palenque"></var>
-<var title="Aztec" id="Q2608489" data-fill="5C6609" data-marker-symbol="globe-americas" data-aliases="Mexica"></var>
+<var title="Aztec" id="Q2608489" data-aliases="Mexica"></var>
 <var title="Nahua peoples" id="Q826591" data-aliases="Nahua"></var>
 <var title="Nahuatl" id="Q13300"></var>
 <var title="Juan Badiano" id="Q6298938" data-aliases="Badiano"></var>
@@ -26,7 +26,7 @@
 <var title="Francisco Hernández de Toledo" id="Q940017"></var>
 <var title="Quararibea funebris" id="Q7269144" data-aliases="_Quararibea funebris_"></var>
 <var title="(INAH)" id="Q901361"></var>
-<var title="Mesoamerica" id="Q13703" data-aliases="Mesoamerican"></var>
+<var title="Mesoamerica" id="Q13703" data-fill="5C6609" data-marker-symbol="globe-americas" data-aliases="Mesoamerican"></var>
 <var title="Olmeca" id="Q135364" data-aliases="Olmec"></var>
 <var title="spatio-temporal entity" id="Q58415929" data-aliases="spatio-temporal"></var>
 <var title="Milpa" id="Q1537558"></var>
@@ -46,8 +46,8 @@
 While colonial encounters are often conceptualized as a one-way street, with the colonizers subjugating the colonized, the historical picture is more complex. During the early modern period, Europeans sought to benefit from new economic goods and networks in the Americas. However, economies do not function in a vacuum and, to truly benefit, Europeans had to assimilate into the other cultural spheres of foreign lands. This meant learning about indigenous perspectives and knowledge, which Europeans exploited for their own benefit both in the New World and eventually back in their homelands, ultimately ‘globalizing’ pre-existing indigenous networks. One of the most famous indigenous networks that Europeans made efforts to control was that of cacao, _Theobroma cacao_. The primary sources from this initial period of interaction document the knowledge gained from the native populations of the Americas.
 <var data-image-viewer></var>  
 <var data-image id="JSTOR Global Plants" title="Cacao illustration" data-url="https://plants.jstor.org/stable/10.5555/al.ap.specimen.bm000589107?searchUri=si%3D1%26ff%3Dps_repository_name_str__ps_collection_name_str__ps_type%26filter%3Dname%26so%3Dps_group_by_genus_species%2Basc%26Query%3Dtheobroma%2Bcacao" data-region=""></var>
-<var data-scope="local" id="Q42385"></var>
-<var data-scope="local" id="Q828" data-aliases="New World"></var>
+<var data-scope="local" id="Q42385" data-fill="5C6609" data-marker-symbol="globe-europe"></var>
+<var data-scope="local" id="Q828" data-fill="5C6609" data-marker-symbol="globe-americas" data-aliases="New World"></var>
 <var data-scope="local" id="Q46" data-aliases="homelands"></var>
 <var data-scope="local" id="Q46" data-aliases="Europeans"></var>
 <var data-map title="World" data-center="23.530645, -40.108534" data-zoom="2"></var>
