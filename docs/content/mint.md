@@ -30,6 +30,8 @@ Some scents regularly appear in our daily lives and give us a sense of familiari
 Mint and common hybrid species such as peppermint have long been held in high esteem. Biblical reference to mint in the [Book of Matthew](https://en.wikipedia.org/wiki/Gospel_of_Matthew) suggests that it was a plant considered of high value to be used as ‘tithes by the Pharisees along with anise and cumin’ (Matthew xxiii, 23). Reaching back further to ancient Greece, where plants were entwined with mythology, Minthe was the Naiad-nymph daughter of the underworld river <var data-scope="element" id="Q939218">Cocytus</var> and loved by the god <var data-scope="element" id="Q41410">Hades</var>. When Hades’ wife, <var data-scope="element" id="Q45967">Persephone</var>, discovered the affair, she was propelled to transform Minthe in to the plant of her name:
 <var data-primary="image"></var>
 <var data-image id="minthe" title="Minthe, engraving by Johann Ulrich Kraus (1655-1719)" data-url="https://jstor-labs.github.io/plant-humanities/images/AWARBURGIG_10311762574_minthe.jpg" data-region=""></var>
+<var data-map title="Greece" data-center="40.662195,21.710191" data-zoom="4"></var>
+<!--<var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdistribution.geojson data-active="true"></var>-->
 
 >Near Pylos, towards the east, is a mountain named after Minthe, who, according to myth, became the concubine of Hades, was trampled under foot by Kore (Core) [Persephone], and was transformed into garden-mint, the plant which some call *hedyosmos*. Furthermore, near the mountain is a precinct sacred to Haides.[^ref1]
 
