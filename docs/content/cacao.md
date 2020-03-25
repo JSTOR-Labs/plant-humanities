@@ -10,7 +10,7 @@
      data-debug="false"></var>
      
 <var title="Maya ceramics" id="Q6796748" data-aliases="vessels"></var>
-<var title="Palenqué" id="Q181427" data-aliases="Palenque"></var>
+<var title="Palenqué" id="Q181427" data-fill="5C6609" data-marker-symbol="gopuram" data-aliases="Palenque"></var>
 <var title="Aztec" id="Q2608489" data-aliases="Mexica"></var>
 <var title="Nahua peoples" id="Q826591" data-aliases="Nahua"></var>
 <var title="Nahuatl" id="Q13300"></var>
@@ -20,7 +20,7 @@
 <var title="Tlatelolco" id="Q14623011"></var>
 <var title="Colegio de Santa Cruz de Tlatelolco" id="Q2477757" data-aliases="Santa Cruz"></var>
 <var title="Aztec" id="Q12542"></var>
-<var title="Tenochtitlan" id="Q13695" data-aliases="Mexica capital"></var>
+<var title="Tenochtitlan" id="Q13695" data-fill="5C6609" data-marker-symbol="gopuram" data-aliases="Mexica capital"></var>
 <var title="early modern period" id="Q5308718"></var>
 <var title="herbals" id="Q6165948" data-aliases="herbal"></var>
 <var title="Francisco Hernández de Toledo" id="Q940017"></var>
@@ -32,9 +32,9 @@
 <var title="Milpa" id="Q1537558"></var>
 <var title="Forest gardening" id="Q276109" data-aliases="forest garden"></var>
 <var title="Neotropic" id="Q217151" data-aliases="neotropics" data-aliases="neotropical"></var>
-<var title="Municipality of Huautla de Jiménez" id="Q3888662" data-aliases="Huauthla"></var>
-<var title="Soconusco" id="Q2269745"></var>
-<var title="Cotaxtla Municipality" id="Q13393188" data-aliases="Cotaxtla"></var>
+<var title="Municipality of Huautla de Jiménez" id="Q3888662" data-fill="5C6609" data-marker-symbol="hand-holding-seedling" data-aliases="Huauthla"></var>
+<var title="Soconusco" id="Q2269745" data-fill="5C6609" data-marker-symbol="hand-holding-seedling"></var>
+<var title="Cotaxtla Municipality" id="Q13393188" data-fill="5C6609" data-marker-symbol="hand-holding-seedling" data-aliases="Cotaxtla"></var>
 <var title="God L" id="Q12744014"></var>
 <var title="Hernán Cortés" id="Q7326" data-aliases="Hernán Cortés’"></var>
 <var title="" id=""></var>
@@ -63,7 +63,6 @@ While colonial encounters are often conceptualized as a one-way street, with the
 After contact, the  earliest  representations of cacao come from  a Mexica (Aztec) herbal known as  the  Badianus  manuscript, a series of elaborately painted plants with their associated  names  in Nahuatl  and  recipes for treating various ailments  written in Latin.  This herbal  was  completed  in the 1550s  by at least two  Nahua men,  Martín  de la Cruz (an indigenous nobleman and physician) and Juan  Badiano  (an instructor of Latin),  at a European-funded and  established  school, Santa Cruz  in Tlatelolco, Mexico. Now held by the National Institute of Anthropology and History in Mexico City, the manuscript has been reproduced in a diversity of ways since its original creation.[^ref1] In these elaborately created and recreated pieces, historically deep and broader indigenous ideologies are captured.[^ref2]
 <var data-map title="World" data-center="19.461194, -99.138983" data-zoom="10"></var>
 <var data-image-viewer></var> 
-<var data-image id="Mexica (Aztec) Empire" title="Mexica (Aztec) Empire" data-url="https://upload.wikimedia.org/wikipedia/commons/8/81/Territorial_Organization_of_the_Aztec_Empire_1519.png" data-region=""></var>
 <var data-image id="The Badianus Manuscript" title="The Badianus Manuscript" data-url="https://www.mexicolore.co.uk/images-3/331_03_2.jpg" data-region=""></var>
 <var data-image id="Colegio Santa Cruz in Tlatelolco, Mexico" title="Colegio Santa Cruz in Tlatelolco, Mexico" data-url="https://upload.wikimedia.org/wikipedia/commons/3/36/Tlatelolco.jpg" data-region=""></var>
 
