@@ -99,13 +99,14 @@ In these Mexica recipes, the association of cacao with curing particular ailment
 <var data-image id="Mesoamerica" title="Mesoamerica" data-url="https://commons.wikimedia.org/wiki/File:Mesoamerica_topographic_map-blank.svg"></var>
 
 The milpa cycle is  a  process  of felling, burning, planting, and harvesting a plot of land that,  after a few years,  is left to ‘fallow.’[^ref7] However, this would not be fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots. After this stage, the cycle would restart, where some plants would be left to grow, others would be pulled and burnt, and staple crops would be planted in the ashes to eventually be harvested.
+<var data-primary="video"></var>
+<var data-video id="96rIEVptFwo" title="Maya milpa"></var>
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
      title="Mesoamerica"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.json"
      data-active="true"></var>
-
 <var data-image id="Milpa field with forest" title="Milpa field with forest" data-url="https://farm6.staticflickr.com/5532/11840446053_8761ba18ec_b.jpg"></var>
 
 Ancient Maya leaders represented themselves as or in relation to this cycle and its  associated  plants  of importance, mainly cacao and maize, attempting to embody the power of the natural world. For example, we see the  ancient Maya  depict ancestors of rulers  as cacao trees  growing from the sarcophagi of dead  ‘maize god’  rulers at the site of Palenque  and  cacao trees anthropomorphized  as deities on intricately carved vessels. By invoking this cycle in representing themselves and deities, Maya political leaders were giving precedence to the subsistence practices, ideologies, and plants they incorporated.  Given this ancient association of cacao with the power of the natural world, it is not surprising to see cacao as an ingredient in the Badianus’ recipes for curing fear and malaise, particularly for political leaders.
@@ -124,7 +125,7 @@ The presence of cacao in a remedy for hurt feet within the Badianus also wittily
 <var data-map-layer
      title="Ecozones"
      data-type="geojson"
-     data-url="https://worldmap.harvard.edu/maps/4616/e6s"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Ecozones.json"
      data-active="true"></var>
 <var data-image id="bhl-83672" title="Tribute list from Cortes' accounts" data-url="https://www.biodiversitylibrary.org/page/44975898" data-region="0,0,0,0"></var>
      
