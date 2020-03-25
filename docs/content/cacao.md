@@ -54,7 +54,7 @@ While colonial encounters are often conceptualized as a one-way street, with the
 <var data-map-layer
      title="Americas and Europe"
      data-type="geojson"
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Americas and Europe.json"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Americas and Europe.geojson"
      data-active="true"></var>
 
 
