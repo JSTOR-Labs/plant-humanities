@@ -1,5 +1,4 @@
-
-<var data-essay title="Spearmint Flower"data-banner="https://upload.wikimedia.org/wikipedia/commons/6/69/Flowers_of_the_spearmint.JPG"></var>
+<var data-essay title=""data-banner="https://upload.wikimedia.org/wikipedia/commons/6/69/Flowers_of_the_spearmint.JPG"></var>
 
 [View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1-q4xsJuLtqYotSbVRPJ2NPZvs_JKiF8x)
 
@@ -13,25 +12,24 @@
 
 ## The ubiquity of mint: exploring plant mythology, naming and commercial value
 
-
 ### Victoria Pickering
 
 Some scents regularly appear in our daily lives and give us a sense of familiarity. Mint is one such example of a ubiquitous plant, and one that we think we know. The strong scent and taste of mint, the notable green leaves with serrated edges, and the broad consumer uses of this plant that are so common to us today (such as toothpaste and chewing gum), obscures the lesser known fact that mint has a more nuanced history of naming and identification. Mint, known as the genus [*Mentha*](www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30016176-2), is part of the [*Lamiaceae*](www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000097-2) family. It is an aromatic and perennial herb and species include bergamot mint, spearmint, pennyroyal and peppermint. These species can be found distributed across parts of Africa, Asia, Europe, Australia, and North America, happily growing in wet and damp environments. With its ability to naturally hybridize, there are a wide variety of plants within the mint family. To consider how the generic mint plant has become so familiar in our everyday lives, we begin here with an account of ancient Greek mythology and then a look at the history of naming and identification of mint. The example of peppermint is then used to consider a plant’s ability to succeed as a commercial crop in America.
+
 <var data-primary="image"></var>
 <var data-image id="mentha aqautica" title="Water mint" data-url="https://upload.wikimedia.org/wikipedia/commons/2/2e/Mentha_aquatica_06_ies.jpg" data-region=""></var>
 <var data-image id="mentha piperita" title="Peppermint" data-url="https://upload.wikimedia.org/wikipedia/commons/5/50/Mentha_x_piperita_002.JPG"></var>
 <var data-image id="Mentha spicata" title="Spearmint" url="https://upload.wikimedia.org/wikipedia/commons/6/69/Flowers_of_the_spearmint.JPG"></var>
 <var data-image id="Mentha pulegium" title="Pennyroyal" url="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gardenology.org-IMG_2751_rbgs11jan.jpg"></var>
-
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
 <var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdistribution.geojson data-active="true"></var>
 <var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdistribution2.geojson data-active="true"></var>
 
 ### Mythology
 
-<!-- image viewer: ancient greek?-->
-
 Mint and common hybrid species such as peppermint have long been held in high esteem. Biblical reference to mint in the [Book of Matthew](https://en.wikipedia.org/wiki/Gospel_of_Matthew) suggests that it was a plant considered of high value to be used as ‘tithes by the Pharisees along with anise and cumin’ (Matthew xxiii, 23). Reaching back further to ancient Greece, where plants were entwined with mythology, Minthe was the Naiad-nymph daughter of the underworld river <var data-scope="element" id="Q939218">Cocytus</var> and loved by the god <var data-scope="element" id="Q41410">Hades</var>. When Hades’ wife, <var data-scope="element" id="Q45967">Persephone</var>, discovered the affair, she was propelled to transform Minthe in to the plant of her name:
+<var data-primary="image"></var>
+<var data-image id="mintha" title="mintha" data-url="" data-region=""></var>
 
 >Near Pylos, towards the east, is a mountain named after Minthe, who, according to myth, became the concubine of Hades, was trampled under foot by Kore (Core) [Persephone], and was transformed into garden-mint, the plant which some call *hedyosmos*. Furthermore, near the mountain is a precinct sacred to Haides.[^ref1]
 
