@@ -1,4 +1,4 @@
-<var data-essay title=""data-banner="https://upload.wikimedia.org/wikipedia/commons/6/69/Flowers_of_the_spearmint.JPG"></var>
+<var data-essay title="" data-banner="https://upload.wikimedia.org/wikipedia/commons/6/69/Flowers_of_the_spearmint.JPG"></var>
 
 [View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1-q4xsJuLtqYotSbVRPJ2NPZvs_JKiF8x)
 
