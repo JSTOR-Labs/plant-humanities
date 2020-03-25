@@ -123,9 +123,9 @@ Ancient Maya leaders represented themselves as or in relation to this cycle and 
 The presence of cacao in a remedy for hurt feet within the Badianus also wittily illustrates the realities of  indigenous  Mesoamerican lifeways. Without beasts of burden, the  long-distance transport of cacao from the neotropics to Tenochtitlan, the Mexica capital, would have certainly caused one’s feet to ache.  For example, in  Hernán Cortés’ conquistador accounts, several regions are recognized for their tribute of cacao to the Mexica empire including  Huauthla,  Soconusco, and  Cotaxtla, all of which are hundreds of miles from Tenochtitlan.[^ref8]
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
-     title="Ecozones"
+     title="Neotropics"
      data-type="geojson"
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Ecozones.json"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.json"
      data-active="true"></var>
 <var data-image id="bhl-83672" title="Tribute list from Cortes' accounts" data-url="https://www.biodiversitylibrary.org/page/44975898" data-region="0,0,0,0"></var>
      
