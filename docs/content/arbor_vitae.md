@@ -120,11 +120,11 @@ Unlike the European view of Indian medicines, which they often described as pana
 
 Scurvy is an acute chronic illness caused by a dietary deficiency of ascorbic acid, or vitamin C.[^ref7]  Historically, scurvy was common in sailors because sea voyages often required long periods of time at sea, without fresh fruits and vegetables (common dietary sources of vitamin C). Without vitamin C, human bodies cannot properly use the carbohydrates, fats, and protein it digests. Untreated, scurvy leads to exhaustion, anemia, bleeding and bruising, pain in the limbs (especially the legs), swelling of your extremities, and in severe cases decay of gum tissue and loss of teeth. While scurvy is generally thought of as maritime disease, we now know that exposure to long periods of cold temperatures can also lead to ascorbic-acid insufficiency and cause scurvy. This is exactly what happen to Cartier’s men, who, thanks to that winter’s icy conditions, were stranded in the Gulf of Saint Lawrence.
 <var data-primary="image"></var> 
-<var data-image id="wikicommons" title="A case of Scurvy journal of Henry Walsh" data-url="https://upload.wikimedia.org/wikipedia/commons/c/c8/A_case_of_Scurvy_journal_of_Henry_Walsh_Mahon.jpg" data-region=""></var>
+<var data-image id="Scurvy" title="A case of Scurvy journal of Henry Walsh" data-url="https://upload.wikimedia.org/wikipedia/commons/c/c8/A_case_of_Scurvy_journal_of_Henry_Walsh_Mahon.jpg" data-region=""></var>
 
 Today, Adult scurvy is treated with 300–1000 mg of ascorbic acid per day. Although lemons and oranges are traditionally associated with high levels of vitamin C (50 mg/100 g) the reduced ascorbic acid in 100 grams of fresh needles and shoots from many conifers exceeds or matches the vitamin C in citrus. For example, *Abies balsamea* has 270 mg, *Picea rubens* 169 mg, and *Thuja occidentalis* 45 mg.[^ref8]  Furthermore, as Don J. Durzan has highlighted in his scientific analysis of coniferous biofactors, in the winter when food was scarce and the temperature plummeted, the coniferous “trees of life” provided vital vitamins, arginine, proline, other conditionally and essential amino acids, and antioxidants, all of which aided in the recovery from of scurvy.
-<var data-primary="image"></var>
-<var data-image id="Scurvy Advertisement" title="Scurvy Advertisement" data-url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Advertisement_for_%27Clarke%27s_Blood_Mixture%27%2C_published_Englan_Wellcome_L0059449.jpg" data-region=""></var>
+<var data-primary="video"></var>
+<var data-video id="QOtlKY98yAw" title="Harvesting Conifer Trees For Vitamin C"></var>
 
 ### Identifying the Tree of Life
 
@@ -157,12 +157,38 @@ In 1753, botanist Carl Linnaeus’ pioneering work, *Systema Naturae*, which cem
 <var data-image id="bhl-359023" title="Systema Naturae p. 1002" data-url="https://www.biodiversitylibrary.org/pageimage/359023" data-region=""></var>
 
 Although tales of Cartier’s explorations were not initially widely published, interest in them as well as identifying the tree that miraculously cured scurvy increased in the eighteenth and early nineteenth centuries as the European colonial enterprise expanded. Numerous naturalists, botanists, and historians have attempted to confirm the identity of Ameda as *Thuja occidentalis* or prove it wrong. While *Thuja occidentalis* remains the consensus, other strong contenders are the white spruce (*Picea glauca*) and the eastern white pine (*Pinus strobus*) since both have names in the Mohawk language, “onnita” and “ohnehta” respectively, that sound similar to later European spelling varieties of Ameda (Anneda, Annedda or Hanneda). Finally, many argue that is was the balsam fir (*Abies balsamea*) as it has the highest levels of vitamin C of any North American conifer (270 mg).
+<var data-map title="New World" data-center="Q142" data-zoom="2"></var>
+<var data-map-layer
+     title="French Empire"
+     data-type="geojson" 
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/French Empire.json"
+     data-active="true"></var>
 
 ### Conclusion
 
-A Scottish surgeon named James Lind (1716 –1794) is typically credited for solving the mystery of scurvy and discovering its cure. But as Lind explained in his 1772, [*A treatise of the scurvy*](https://books.google.com/books?id=T1OT3tYmh5wC&printsec=frontcover&dq=A+treatise+of+the+scurvy.+In+three+parts,+Lind&hl=it&sa=X&ved=0ahUKEwiWmP2Kw_vlAhVBrlkKHa9NDYwQ6AEILDAA#v=onepage&q=cartier&f=false), he was keenly aware of the therapeutic properties of “spruce beer,” which he knew to be a common drink of the peoples of Newfoundland and because of which “they kept pretty free from the scurvy.” Lind also mentioned Cartier’s “Ameda” tree and, like so many before him, offered an identification, calling it “the large swampy American spruce tree.” Lind’s treatise promoted a decoction of “the tops, cones, leaves, or even green bark and wood of these trees” as an excellent antiscorbutic medicine. However, Lind saw “spruce beer” and decoctions of coniferous trees more as preventative medicine. Once afflicted, Lind proposed adding orange and lemon juice to the meals of those afflicted, forever linking scurvy treatment with citrus, and eventually vitamin C.[^ref10]  While citrus fruits have become firmly associated with the treatment of scurvy, the coniferous teas prepared by the Indigenous Peoples of eastern Canada were a more effective therapeutic (in both prevention and treatment), since they provided higher levels of vitamin C as well as other important biofactors.
+A Scottish surgeon named James Lind (1716 –1794) is typically credited for solving the mystery of scurvy and discovering its cure. But as Lind explained in his 1772, [*A treatise of the scurvy*](https://books.google.com/books?id=T1OT3tYmh5wC&printsec=frontcover&dq=A+treatise+of+the+scurvy.+In+three+parts,+Lind&hl=it&sa=X&ved=0ahUKEwiWmP2Kw_vlAhVBrlkKHa9NDYwQ6AEILDAA#v=onepage&q=cartier&f=false), he was keenly aware of the therapeutic properties of “spruce beer,” which he knew to be a common drink of the peoples of Newfoundland and because of which “they kept pretty free from the scurvy.” Lind also mentioned Cartier’s “Ameda” tree and, like so many before him, offered an identification, calling it “the large swampy American spruce tree.” Lind’s treatise promoted a decoction of “the tops, cones, leaves, or even green bark and wood of these trees” as an excellent antiscorbutic medicine. However, Lind saw “spruce beer” and decoctions of coniferous trees more as preventative medicine. 
+<var data-map title="Newfoundland" data-center="Q48335" data-zoom="5"></var>
+<var data-map-layer
+     title="Newfoundland"
+     data-type="geojson" 
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Newfoundland.json"
+     data-active="true"></var>
 
-Sadly, we may never know for sure exactly which tree was used to make a medicinal tea that saved Cartier and his men. It is more likely that the Indigenous Peoples of the region knew that many of the local coniferous trees could be used for the same medical purpose together or interchangeably. What we do know, however, is that the indigenous knowledge of the therapeutic properties of coniferous trees not only saved the lives of early explorers and colonizers, it was essential in the development of Europeans’ understanding and treatment of scurvy.  
+During his tenure as ship surgeon on the HMS Salisbury, Lind observed and recorded the effects of scurvy and carried out an early version of a controlled clinical trial on the men aboard. For one of the groups of afflicted sailors, Lind added orange and lemon juice to their meals. This group of men recovered and Lind's experiment forever linked scurvy treatment with citrus, and eventually vitamin C.[^ref10]  While citrus fruits have become firmly associated with the treatment of scurvy, the coniferous teas prepared by the Indigenous Peoples of eastern Canada were a more effective therapeutic (in both prevention and treatment), since they provided higher levels of vitamin C as well as other important biofactors.
+<var data-map title="New World" data-center="52.281808, -5.244375" data-zoom="5"></var>
+<var data-map-layer
+     title="Lind"
+     data-type="geojson" 
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Lind.json"
+     data-active="true"></var>
+
+Sadly, we may never know for sure exactly which tree was used to make a medicinal tea that saved Cartier and his men. It is more likely that the Indigenous Peoples of the region knew that many of the local coniferous trees could be used for the same medical purpose together or interchangeably. What we do know, however, is that the indigenous knowledge of the therapeutic properties of coniferous trees not only saved the lives of early explorers and colonizers, it was essential in the development of Europeans’ understanding and treatment of scurvy. 
+<var data-map title="New World" data-center="39.735680, -36.813204" data-zoom="2.5"></var>
+<var data-map-layer
+	title="North America and France"
+	data-type="geojson"
+	data-url="https://jstor-labs.github.io/plant-humanities/geojson/custom.geo(1).json"
+	data-active="true"></var> 
 
 ### References
 
