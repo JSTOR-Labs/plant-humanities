@@ -9,6 +9,8 @@
      data-banner="/images/cacao.jpg"
      data-debug="false"></var>
      
+<var title="Maya ceramics" id="Q6796748" data-aliases="vessels"></var>
+<var title="Palenqué" id="Q181427" data-aliases="Palenque"></var>
 <var title="Aztec" id="Q2608489" data-aliases="Mexica"></var>
 <var title="Nahua peoples" id="Q826591" data-aliases="Nahua"></var>
 <var title="Nahuatl" id="Q13300"></var>
@@ -97,12 +99,22 @@ In these Mexica recipes, the association of cacao with curing particular ailment
 <var data-image id="Mesoamerica" title="Mesoamerica" data-url="https://commons.wikimedia.org/wiki/File:Mesoamerica_topographic_map-blank.svg"></var>
 
 The milpa cycle is  a  process  of felling, burning, planting, and harvesting a plot of land that,  after a few years,  is left to ‘fallow.’[^ref7] However, this would not be fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots. After this stage, the cycle would restart, where some plants would be left to grow, others would be pulled and burnt, and staple crops would be planted in the ashes to eventually be harvested.
-<var data-primary="video"></var> 
-<var data-video id="96rIEVptFwo" title="Maya milpa"></var>
+<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
+<var data-map-layer
+     title="Mesoamerica"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.json"
+     data-active="true"></var>
+
 <var data-image id="Milpa field with forest" title="Milpa field with forest" data-url="https://farm6.staticflickr.com/5532/11840446053_8761ba18ec_b.jpg"></var>
 
 Ancient Maya leaders represented themselves as or in relation to this cycle and its  associated  plants  of importance, mainly cacao and maize, attempting to embody the power of the natural world. For example, we see the  ancient Maya  depict ancestors of rulers  as cacao trees  growing from the sarcophagi of dead  ‘maize god’  rulers at the site of Palenque  and  cacao trees anthropomorphized  as deities on intricately carved vessels. By invoking this cycle in representing themselves and deities, Maya political leaders were giving precedence to the subsistence practices, ideologies, and plants they incorporated.  Given this ancient association of cacao with the power of the natural world, it is not surprising to see cacao as an ingredient in the Badianus’ recipes for curing fear and malaise, particularly for political leaders.
-<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
+<var data-map title="World" data-center="17.974513, -89.480862" data-zoom="4"></var>
+<var data-map-layer
+     title="Maya"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maya.json"
+     data-active="true"></var>
 <var data-scope="local" id="Q28567" data-aliases="Maya"></var>
 <var data-image-viewer></var>  
 <var data-image id="Pakal's burial ephemera" title="Pakal's burial ephemera" data-url="https://upload.wikimedia.org/wikipedia/commons/0/06/Masque_de_pakal_musee_mexico_photo_mai_2014.JPG"></var>
@@ -110,9 +122,9 @@ Ancient Maya leaders represented themselves as or in relation to this cycle and 
 The presence of cacao in a remedy for hurt feet within the Badianus also wittily illustrates the realities of  indigenous  Mesoamerican lifeways. Without beasts of burden, the  long-distance transport of cacao from the neotropics to Tenochtitlan, the Mexica capital, would have certainly caused one’s feet to ache.  For example, in  Hernán Cortés’ conquistador accounts, several regions are recognized for their tribute of cacao to the Mexica empire including  Huauthla,  Soconusco, and  Cotaxtla, all of which are hundreds of miles from Tenochtitlan.[^ref8]
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
-     title="Neotropic Ecozone"
-     data-type="mapwarper"
-     data-mapwarper-id="45365"
+     title="Ecozones"
+     data-type="geojson"
+     data-url="https://worldmap.harvard.edu/maps/4616/e6s"
      data-active="true"></var>
 <var data-image id="bhl-83672" title="Tribute list from Cortes' accounts" data-url="https://www.biodiversitylibrary.org/page/44975898" data-region="0,0,0,0"></var>
      
@@ -179,10 +191,7 @@ The political and economic powers of Europe took note of these early accounts of
 
 ### References
 
-[^ref1]: See: Clayton, M., Guerrini, L., Ávila Blomberg, A., Windsor Castle. Royal Library, & Royal Collection. (2009). _Flora: The Aztec herbal_ (Paper museum of Cassiano dal Pozzo. Series B, Natural history; pt. 8). London: Royal Collection, in association with Harvey Mille.
-Cruz, M., Badiano, J., Gates, W., & Julio Mario Santo Domingo Collection. (1939). The de la Cruz-Badiano Aztec herbal of 1552 (Publication (Maya Society); no. 23). Baltimore, Md.: The Maya Society.
-Cruz, M., Badiano, J., Trueblood, E., & Katherine Golden Bitting Collection on Gastronomy. (1940). The Badianus manuscript, Codex Barberini, Latin 241, Vatican Library; an Aztec herbal of 1552. Baltimore: Johns Hopkins Press.
-Vuillemin, T., Gates, W., Cruz, M., & Biblioteca apostolica vaticana. (1931). Water Color Reproductions of the Herbs in the Badianus Manuscript (Codex Barberini, Latin 241) Vatican Library: An Aztec Herbal of 1552.
+[^ref1]: See: Clayton, M., Guerrini, L., Ávila Blomberg, A., Windsor Castle. Royal Library, & Royal Collection. (2009). _Flora: The Aztec herbal_ (Paper museum of Cassiano dal Pozzo. Series B, Natural history; pt. 8). London: Royal Collection, in association with Harvey Mille.; Cruz, M., Badiano, J., Gates, W., & Julio Mario Santo Domingo Collection. (1939). The de la Cruz-Badiano Aztec herbal of 1552 (Publication (Maya Society); no. 23). Baltimore, Md.: The Maya Society.; Cruz, M., Badiano, J., Trueblood, E., & Katherine Golden Bitting Collection on Gastronomy. (1940). The Badianus manuscript, Codex Barberini, Latin 241, Vatican Library; an Aztec herbal of 1552. Baltimore: Johns Hopkins Press.; Vuillemin, T., Gates, W., Cruz, M., & Biblioteca apostolica vaticana. (1931). Water Color Reproductions of the Herbs in the Badianus Manuscript (Codex Barberini, Latin 241) Vatican Library: An Aztec Herbal of 1552.
 
 [^ref2]: De Vos, P. (2017) ‘Methodological challenges involved in compiling the Nahua pharmacopeia’, History of Science, 55(2), pp. 210–233. doi: 10.1177/0073275317712139.
 
