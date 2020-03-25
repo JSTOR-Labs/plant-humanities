@@ -60,6 +60,11 @@ While colonial encounters are often conceptualized as a one-way street, with the
 
 After contact, the  earliest  representations of cacao come from  a Mexica (Aztec) herbal known as  the  Badianus  manuscript, a series of elaborately painted plants with their associated  names  in Nahuatl  and  recipes for treating various ailments  written in Latin.  This herbal  was  completed  in the 1550s  by at least two  Nahua men,  Martín  de la Cruz (an indigenous nobleman and physician) and Juan  Badiano  (an instructor of Latin),  at a European-funded and  established  school, Santa Cruz  in Tlatelolco, Mexico. Now held by the National Institute of Anthropology and History in Mexico City, the manuscript has been reproduced in a diversity of ways since its original creation.[^ref1] In these elaborately created and recreated pieces, historically deep and broader indigenous ideologies are captured.[^ref2]
 <var data-map title="World" data-center="19.461194, -99.138983" data-zoom="14"></var>
+<var data-map-layer
+     title="Mexica"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
+     data-active="true"></var>
 <var data-image-viewer></var> 
 <var data-image id="The Badianus Manuscript" title="The Badianus Manuscript" data-url="https://www.mexicolore.co.uk/images-3/331_03_2.jpg" data-region=""></var>
 <var data-image id="Colegio Santa Cruz in Tlatelolco, Mexico" title="Colegio Santa Cruz in Tlatelolco, Mexico" data-url="https://upload.wikimedia.org/wikipedia/commons/3/36/Tlatelolco.jpg" data-region=""></var>
@@ -91,6 +96,21 @@ In these Mexica recipes, the association of cacao with curing particular ailment
      title="Mesoamerica"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
+	data-active="true"></var>
+<var data-map-layer
+     title="Mexica"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
+     data-active="true"></var>
+     <var data-map-layer
+     title="Maya"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maya.geojson"
+     data-active="true"></var>
+     <var data-map-layer
+     title="Olmec"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Olmec.geojson"
      data-active="true"></var>
 <var data-image-viewer></var>  
 <var data-image id="Mesoamerica" title="Mesoamerica" data-url="https://commons.wikimedia.org/wiki/File:Mesoamerica_topographic_map-blank.svg"></var>
@@ -98,12 +118,6 @@ In these Mexica recipes, the association of cacao with curing particular ailment
 The milpa cycle is  a  process  of felling, burning, planting, and harvesting a plot of land that,  after a few years,  is left to ‘fallow.’[^ref7] However, this would not be fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots. After this stage, the cycle would restart, where some plants would be left to grow, others would be pulled and burnt, and staple crops would be planted in the ashes to eventually be harvested.
 <var data-primary="video"></var>
 <var data-video id="96rIEVptFwo" title="Maya milpa"></var>
-<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
-<var data-map-layer
-     title="Mesoamerica"
-     data-type="geojson"
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
-     data-active="true"></var>
 <var data-image id="Milpa field with forest" title="Milpa field with forest" data-url="https://farm6.staticflickr.com/5532/11840446053_8761ba18ec_b.jpg"></var>
 
 Ancient Maya leaders represented themselves as or in relation to this cycle and its  associated  plants  of importance, mainly cacao and maize, attempting to embody the power of the natural world. For example, we see the  ancient Maya  depict ancestors of rulers  as cacao trees  growing from the sarcophagi of dead  ‘maize god’  rulers at the site of Palenque  and  cacao trees anthropomorphized  as deities on intricately carved vessels. By invoking this cycle in representing themselves and deities, Maya political leaders were giving precedence to the subsistence practices, ideologies, and plants they incorporated.  Given this ancient association of cacao with the power of the natural world, it is not surprising to see cacao as an ingredient in the Badianus’ recipes for curing fear and malaise, particularly for political leaders.
@@ -111,7 +125,7 @@ Ancient Maya leaders represented themselves as or in relation to this cycle and 
 <var data-map-layer
      title="Maya"
      data-type="geojson"
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maya.json"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maya.geojson"
      data-active="true"></var>
 <var data-scope="local" id="Q28567" data-aliases="Maya"></var>
 <var data-image-viewer></var>  
