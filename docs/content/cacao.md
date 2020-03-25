@@ -11,7 +11,7 @@
      
 <var title="Maya ceramics" id="Q6796748" data-aliases="vessels"></var>
 <var title="Palenqué" id="Q181427" data-fill="5C6609" data-marker-symbol="gopuram" data-aliases="Palenque"></var>
-<var title="Aztec" id="Q2608489" data-aliases="Mexica"></var>
+<var title="Aztec" id="Q2608489" data-fill="5C6609" data-marker-symbol="globe-americas" data-aliases="Mexica"></var>
 <var title="Nahua peoples" id="Q826591" data-aliases="Nahua"></var>
 <var title="Nahuatl" id="Q13300"></var>
 <var title="Juan Badiano" id="Q6298938" data-aliases="Badiano"></var>
@@ -31,10 +31,10 @@
 <var title="spatio-temporal entity" id="Q58415929" data-aliases="spatio-temporal"></var>
 <var title="Milpa" id="Q1537558"></var>
 <var title="Forest gardening" id="Q276109" data-aliases="forest garden"></var>
-<var title="Neotropic" id="Q217151" data-aliases="neotropics" data-aliases="neotropical"></var>
-<var title="Municipality of Huautla de Jiménez" id="Q3888662" data-fill="5C6609" data-marker-symbol="hand-holding-seedling" data-aliases="Huauthla"></var>
-<var title="Soconusco" id="Q2269745" data-fill="5C6609" data-marker-symbol="hand-holding-seedling"></var>
-<var title="Cotaxtla Municipality" id="Q13393188" data-fill="5C6609" data-marker-symbol="hand-holding-seedling" data-aliases="Cotaxtla"></var>
+<var title="Neotropic" id="Q217151" data-fill="5C6609" data-marker-symbol="pagelines" data-aliases="neotropics" data-aliases="neotropical"></var>
+<var title="Municipality of Huautla de Jiménez" id="Q3888662" data-fill="5C6609" data-marker-symbol="seedling" data-aliases="Huauthla"></var>
+<var title="Soconusco" id="Q2269745" data-fill="5C6609" data-marker-symbol="seedling"></var>
+<var title="Cotaxtla Municipality" id="Q13393188" data-fill="5C6609" data-marker-symbol="seedling" data-aliases="Cotaxtla"></var>
 <var title="God L" id="Q12744014"></var>
 <var title="Hernán Cortés" id="Q7326" data-aliases="Hernán Cortés’"></var>
 <var title="" id=""></var>
