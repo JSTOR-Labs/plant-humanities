@@ -1,3 +1,4 @@
+
 <var data-essay title="Spearmint Flower"data-banner="https://upload.wikimedia.org/wikipedia/commons/6/69/Flowers_of_the_spearmint.JPG"></var>
 
 [View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1-q4xsJuLtqYotSbVRPJ2NPZvs_JKiF8x)
@@ -8,7 +9,6 @@
      data-debug="false"></var>
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
 <var title="Samuel Dale" id="Q1538175" data-aliases="Mr. Dale"></var>
-
 
 
 ## The ubiquity of mint: exploring plant mythology, naming and commercial value
