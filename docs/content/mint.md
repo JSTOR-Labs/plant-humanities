@@ -31,8 +31,8 @@ Mint and common hybrid species such as peppermint have long been held in high es
 <var data-primary="image"></var>
 <var data-image id="minthe" title="Minthe, engraving by Johann Ulrich Kraus (1655-1719)" data-url="https://jstor-labs.github.io/plant-humanities/images/AWARBURGIG_10311762574_minthe.jpg" data-region=""></var>
 <var data-map title="Greece" data-center="37.506267,21.862627" data-zoom="7"></var>
-<var title="Minthi Mountain" id="Q3561330"></var>
-
+<var title="Minthi Mountain, Greece" id="Q3561330" data-fill="" data-marker-symbol="mountain"></var>
+ 
 
 >Near Pylos, towards the east, is a <var data-scope='element' id="Q3561330">mountain</var> named after Minthe, who, according to myth, became the concubine of Hades, was trampled under foot by Kore (Core) [Persephone], and was transformed into garden-mint, the plant which some call *hedyosmos*. Furthermore, near the mountain is a precinct sacred to Haides.[^ref1]
 
