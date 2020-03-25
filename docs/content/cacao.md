@@ -127,6 +127,11 @@ The presence of cacao in a remedy for hurt feet within the Badianus also wittily
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson"
      data-active="true"></var>
+<var data-map-layer
+     title="Mexica"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
+     data-active="true"></var>
 <var data-image id="bhl-83672" title="Tribute list from Cortes' accounts" data-url="https://www.biodiversitylibrary.org/page/44975898" data-region="0,0,0,0"></var>
      
 We learn from many other early colonial documents that roasted cacao beans were used as a currency throughout Mesoamerica, highlighting how  important a  trade good  this plant would have been by the time Europeans arrived. This relationship between long-distance trade and cacao is also reflected in the ancient Maya God L, who is typically depicted in relation to cacao and merchant regalia.[^ref9] Such an ancient  association of  commerce with cacao emphasizes the deep history of long-distance trade of the plant between the many regions of Mesoamerica.
