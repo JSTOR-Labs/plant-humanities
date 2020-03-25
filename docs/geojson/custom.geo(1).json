@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#fb683f",
         "marker-size": "large",
-        "marker-symbol": "leaf",
+        "marker-symbol": "garden",
         "label": "Origin of Arbore Vitae"
       },
       "geometry": {
@@ -174,7 +174,7 @@
       "properties": {
         "marker-color": "#fb683f",
         "marker-size": "large",
-        "marker-symbol": "leaf",
+        "marker-symbol": "garden",
         "fill-opacity": "",
         "label": ""
       },
