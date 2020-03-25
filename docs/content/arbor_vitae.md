@@ -21,7 +21,6 @@
 <var title="Gulf of Saint Lawrence" id="Q169523"></var>
 <var title="Jacques Cartier" id="Q7321" data-aliases="cartier"></var>
 <var title="James Lind" id="Q709525"></var>
-<var title="Montreal" id="Q340"></var>
 <var title="John Florio" id="Q982707" data-aliases="Florio"></var>
 <var title="John Gerard" id="Q1333338"></var>
 <var title="John Parkinson" id="Q256288"></var>
@@ -37,7 +36,7 @@
 <var title="Kingdom of France" id="Q709728" data-aliases="French King"></var>
 <var title="Stadacona" id="Q3339246" data-aliases="St. Lawrence River"></var>
 <var title="Hochelaga" id="Q544356" data-aliases="local Indians"></var>
-<var title="St. Lawrence Iroquoians" id="Q129060" data-aliases="St. Lawrence Iroquois"></var>
+<var title="St. Lawrence Iroquoians" id="Q129060"></var>
 <var title="Palace of Fontainebleau" id="Q201428" data-aliases="Fontainebleau"></var>
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
 
@@ -46,7 +45,7 @@
 ### The Mysterious Tree of Life
 
 In his 1640 herbal, John Parkinson described the “tree of life,” or “arbor vitæ,” as ["a tall tree being similar to a cypress and covered by a dark reddish bark on the trunk and an even redder bark on the branches."](https://www.biodiversitylibrary.org/page/56601375#page/1502/mode/1up) Parkinson went on to explain that the tree, unknown to the ancients, originated in the New World and was introduced to Europe by the French. He explained that while it was presented to the French King, Francis I, as the “tree of life” (arbor vitæ) he had no idea why. Clearly, Parkinson was unaware of the miraculous stories associated with the arbor vitæ.
-<var data-map title="New World" data-center="39.735680, -36.813204" data-zoom="2.5"></var>
+<var data-map title="New World" data-center="39.735680, -36.813204" data-zoom="2"></var>
 <var data-map-layer
 	title="North America and France"
 	data-type="geojson"
@@ -85,10 +84,10 @@ According to the account published by Ramusio, the tree used to cure the French 
 
 Through linguistic, botanical, and historical analysis numerous trees have been put forward as the miraculous tree that saved Cartier and his men – the fir (*Abies balsamea*), the white spruce (*Picea glauca*), the red spruce (*Picea rubens*), epinettenoire (*Picea mariana*), white pine (*Pinus strobus*), red pine (*Pinus resinosa*), white cedar (*Thuja occidentalis*), hemlock (*Tsuga canadensis*), and even sassafras (*Sassafras albidum*), although it is generally agreed that based on sixteenth-century descriptions and its natural distribution, sassafras is impossible.
 <var data-primary="image"></var>
-<var data-image id="Kew plants of the world" title="Abies Balsamea Kew" data-url="http://plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:1084057-2" data-region=""></var>
+<var data-image id="Kew plants of the world" title="Abies Balsamea Kew" data-url="images/Abies_balsamea.jpg" data-region=""></var>
 
-Sixteenth and seventeenth-century European herbals consistently describe the tree of life as a *“Thuja”* (a genus of coniferous trees) or similar to a cypress, without fruit (although the cone is now considered a fruit), and very aromatic. From this we can conclude that the tree of life was indeed an evergreen coniferous tree native to the area around present-day Quebec and Montreal.
-<var data-map title="Gulf of Saint Lawrence" data-center="Q2145" data-zoom="6"></var>
+Sixteenth and seventeenth-century European herbals consistently describe the tree of life as a *“Thuja”* (a genus of coniferous trees) or similar to a cypress, without fruit (although the cone is now considered a fruit), and very aromatic. From this we can conclude that the tree of life was indeed an evergreen coniferous tree native to the area around present-day Quebec.
+<var data-map title="Gulf of Saint Lawrence" data-center="42.655350,-74.715453" data-zoom="4"></var>
 <var data-map-layer
      title="arbor vitae"
      data-type="geojson" 
@@ -112,12 +111,12 @@ The Ojibwa and many other Indigenous peoples of eastern north America boiled the
      data-active="true"></var>
 
 Unlike the European view of Indian medicines, which they often described as panaceas, the Iroquois practiced (and continue to practice) a form of sympathetic medicine. That is to say that the Iroquois identified relationships between cure and disease and often prescribed specific plant remedies for specific ailments.[^ref6]  We can see this in the case of the tree of life. When Cartier implored Domagaia for the secret to his miraculous recovery from the illness that plagued his men, Domagaia explained that [“he had taken the juice and sappe of the leaves of a certaine tree, and therewith had healed himself: For it was a singular remedie against that disease.”](https://hdl.handle.net/2027/aeu.ark:/13960/t35151v01?urlappend=%253Bseq=85) After centuries of surviving the harsh winters of eastern Canada, the St. Lawrence Iroquois had developed a successful treatment for a disease that commonly beset individuals living in cold climates—scurvy.
-<var data-map title="Gulf of Saint Lawrence" data-center="Q544356" data-zoom="6"></var>
+<var data-map title="Gulf of Saint Lawrence" data-center="42.655350,-74.715453" data-zoom="4"></var>
 <var data-map-layer
-	title="St_Lawrence_Iroquoians"
-	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/St_Lawrence_Iroquoians.json"
-	data-active="true"></var>
+     title="maritime indians"
+     data-type="geojson" 
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maritime_Indians.json"
+     data-active="true"></var>
 
 Scurvy is an acute chronic illness caused by a dietary deficiency of ascorbic acid, or vitamin C.[^ref7]  Historically, scurvy was common in sailors because sea voyages often required long periods of time at sea, without fresh fruits and vegetables (common dietary sources of vitamin C). Without vitamin C, human bodies cannot properly use the carbohydrates, fats, and protein it digests. Untreated, scurvy leads to exhaustion, anemia, bleeding and bruising, pain in the limbs (especially the legs), swelling of your extremities, and in severe cases decay of gum tissue and loss of teeth. While scurvy is generally thought of as maritime disease, we now know that exposure to long periods of cold temperatures can also lead to ascorbic-acid insufficiency and cause scurvy. This is exactly what happen to Cartier’s men, who, thanks to that winter’s icy conditions, were stranded in the Gulf of Saint Lawrence.
 <var data-primary="image"></var> 
@@ -142,7 +141,7 @@ From there we can trace the knowledge, or lack of knowledge, of the arbore vitæ
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/arbor_vitae_publishing.json"
      data-active="true"></var>
 
-<var data-map title="France" data-center="42.559028, 63.795785" data-zoom="2.5"></var>
+<var data-map title="France" data-center="40.648645, 45.711866" data-zoom="2.5"></var>
 It is clear that by the mid-seventeenth century much of the medicinal knowledge associated with the arbor vitæ was lost. Further complicating matters of identification was the rate at which the arbor vitæ spread through Europe and the tendency to call any conifer imported from North America an arbor vitæ. Conversely, many American conifers were simply named in terms of their European counterparts and identified as a thuja or cedrus. Thus, by the end of the sixteenth century, the arbor vitæ was also known as [“Thuja theophrasti”](https://bibdigital.rjb.csic.es/viewer/10754/?offset=#page=512&viewer=picture&o=bookmark&n=0&q=) and [“Cedrus Lycia.”](https://bibdigital.rjb.csic.es/viewer/13070/?offset=#page=634&viewer=picture&o=bookmark&n=0&q=)
 <var data-map-layer
      title="thuja in europe"
@@ -158,30 +157,10 @@ In 1753, botanist Carl Linnaeus’ pioneering work, *Systema Naturae*, which cem
 <var data-image id="bhl-359023" title="Systema Naturae p. 1002" data-url="https://www.biodiversitylibrary.org/pageimage/359023" data-region=""></var>
 
 Although tales of Cartier’s explorations were not initially widely published, interest in them as well as identifying the tree that miraculously cured scurvy increased in the eighteenth and early nineteenth centuries as the European colonial enterprise expanded. Numerous naturalists, botanists, and historians have attempted to confirm the identity of Ameda as *Thuja occidentalis* or prove it wrong. While *Thuja occidentalis* remains the consensus, other strong contenders are the white spruce (*Picea glauca*) and the eastern white pine (*Pinus strobus*) since both have names in the Mohawk language, “onnita” and “ohnehta” respectively, that sound similar to later European spelling varieties of Ameda (Anneda, Annedda or Hanneda). Finally, many argue that is was the balsam fir (*Abies balsamea*) as it has the highest levels of vitamin C of any North American conifer (270 mg).
-<var data-map title="New World" data-center="Q142" data-zoom="1.5"></var>
-<var data-map-layer
-     title="French Empire"
-     data-type="geojson" 
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/French Empire.json"
-     data-active="true"></var>
 
 ### Conclusion
 
-A Scottish surgeon named James Lind (1716 –1794) is typically credited for solving the mystery of scurvy and discovering its cure. But as Lind explained in his 1772, [*A treatise of the scurvy*](https://books.google.com/books?id=T1OT3tYmh5wC&printsec=frontcover&dq=A+treatise+of+the+scurvy.+In+three+parts,+Lind&hl=it&sa=X&ved=0ahUKEwiWmP2Kw_vlAhVBrlkKHa9NDYwQ6AEILDAA#v=onepage&q=cartier&f=false), he was keenly aware of the therapeutic properties of “spruce beer,” which he knew to be a common drink of the peoples of Newfoundland and because of which “they kept pretty free from the scurvy.” Lind also mentioned Cartier’s “Ameda” tree and, like so many before him, offered an identification, calling it “the large swampy American spruce tree.” Lind’s treatise promoted a decoction of “the tops, cones, leaves, or even green bark and wood of these trees” as an excellent antiscorbutic medicine. However, Lind saw “spruce beer” and decoctions of coniferous trees more as preventative medicine. 
-<var data-map title="Newfoundland data-center="Q48335" data-zoom="5"></var>
-<var data-map-layer
-     title="Newfoundland"
-     data-type="geojson" 
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Newfoundland.json"
-     data-active="true"></var>
-
-During his tenure as ship surgeon on the HMS Salisbury, Lind observed and recorded the effects of scurvy and carried out an early version of a controlled clinical trial on the men aboard. For one of the groups of afflicted sailors, Lind added orange and lemon juice to their meals. This group of men recovered and Lind's experiment forever linked scurvy treatment with citrus, and eventually vitamin C.[^ref10]  While citrus fruits have become firmly associated with the treatment of scurvy, the coniferous teas prepared by the Indigenous Peoples of eastern Canada were a more effective therapeutic (in both prevention and treatment), since they provided higher levels of vitamin C as well as other important biofactors.
-<var data-map title="New World" data-center="52.281808, -5.244375" data-zoom="5"></var>
-<var data-map-layer
-     title="Lind"
-     data-type="geojson" 
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Lind.json"
-     data-active="true"></var>
+A Scottish surgeon named James Lind (1716 –1794) is typically credited for solving the mystery of scurvy and discovering its cure. But as Lind explained in his 1772, [*A treatise of the scurvy*](https://books.google.com/books?id=T1OT3tYmh5wC&printsec=frontcover&dq=A+treatise+of+the+scurvy.+In+three+parts,+Lind&hl=it&sa=X&ved=0ahUKEwiWmP2Kw_vlAhVBrlkKHa9NDYwQ6AEILDAA#v=onepage&q=cartier&f=false), he was keenly aware of the therapeutic properties of “spruce beer,” which he knew to be a common drink of the peoples of Newfoundland and because of which “they kept pretty free from the scurvy.” Lind also mentioned Cartier’s “Ameda” tree and, like so many before him, offered an identification, calling it “the large swampy American spruce tree.” Lind’s treatise promoted a decoction of “the tops, cones, leaves, or even green bark and wood of these trees” as an excellent antiscorbutic medicine. However, Lind saw “spruce beer” and decoctions of coniferous trees more as preventative medicine. Once afflicted, Lind proposed adding orange and lemon juice to the meals of those afflicted, forever linking scurvy treatment with citrus, and eventually vitamin C.[^ref10]  While citrus fruits have become firmly associated with the treatment of scurvy, the coniferous teas prepared by the Indigenous Peoples of eastern Canada were a more effective therapeutic (in both prevention and treatment), since they provided higher levels of vitamin C as well as other important biofactors.
 
 Sadly, we may never know for sure exactly which tree was used to make a medicinal tea that saved Cartier and his men. It is more likely that the Indigenous Peoples of the region knew that many of the local coniferous trees could be used for the same medical purpose together or interchangeably. What we do know, however, is that the indigenous knowledge of the therapeutic properties of coniferous trees not only saved the lives of early explorers and colonizers, it was essential in the development of Europeans’ understanding and treatment of scurvy.  
 
