@@ -39,7 +39,7 @@ The rise of European Maritime powers in the late fourteenth and fifteenth centur
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/bananas_africa.json"
 	data-active="true"></var>
 
-In 1516 Friar Tomas de Berlanga, a Catholic missionary, landed on the Island of Hispaniola (now Haiti and the Dominican Republic) and planted banana stems (or sucker) as means to continue to feed the growing African slave population. When Friar Tomas was made Bishop of Panama, he took banana plants with him to the mainland. Bananas were also carried to Mexico by the Spanish and eventually spread rapidly throughout Central America.
+In 1516 Friar Tomas de Berlanga, a Catholic missionary, landed on the Island of Hispaniola (now Haiti and the Dominican Republic) and planted banana stems (or suckers) as means to continue to feed the growing African slave population. When Friar Tomas was made Bishop of Panama, he took banana plants with him to the mainland. Bananas were also carried to Mexico by the Spanish and eventually spread rapidly throughout Central America.
 <var data-map title="New World" data-center="24.249039, -53.380695" data-zoom="3"></var>
 <var data-map-layer
 	title="Bananas in Africa"
@@ -51,7 +51,7 @@ It was a Portuguese physician and naturalist, Garcia de Orta, who would first pr
 <var data-primary="image"></var>
 <var data-image id="Banana Orta" title="Coloquios dos simples e drogas da India" data-url="https://bibdigital.rjb.csic.es/i/?IIIF=/38/80/3b/be/38803bbe-3f4e-4f89-8df9-ac2ca5166d2e/iiif/ORT_Col_Simpl_Drog_1_000353.tif/183.5728155339806,107.65714285714286,1120.4271844660193,1573.6941176470586/!354,497/0/default.jpg" data-region=""></var>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODM3MTQwMiwxNzk3MDI5MDQyLDkxMj
-E2OTE0MCwtNTc1MjY0MDUxLDE1MTc0OTMzNzYsLTMwNjk3NTkw
-LC0xNDc0OTIzMDMwLDc1MTQwMjEwNF19
+eyJoaXN0b3J5IjpbLTEyNjE1ODAyMTEsMTI3ODM3MTQwMiwxNz
+k3MDI5MDQyLDkxMjE2OTE0MCwtNTc1MjY0MDUxLDE1MTc0OTMz
+NzYsLTMwNjk3NTkwLC0xNDc0OTIzMDMwLDc1MTQwMjEwNF19
 -->
