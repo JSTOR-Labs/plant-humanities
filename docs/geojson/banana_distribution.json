@@ -1945,7 +1945,7 @@
         "stroke-opacity": 1,
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": ""
+        "label": "Banana Distribution"
       },
       "geometry": {
         "type": "Polygon",
@@ -2048,7 +2048,8 @@
       "properties": {
         "stroke": "null",
         "fill": "#fb683f",
-        "fill-opacity": 1
+        "fill-opacity": 1,
+        "label": "Banana Distribution"
       },
       "geometry": {
         "type": "Polygon",
@@ -2208,7 +2209,8 @@
         "stroke": "null",
         "stroke-width": "",
         "fill": "#fb683f",
-        "fill-opacity": 1
+        "fill-opacity": 1,
+        "label": "Banana Distribution"
       },
       "geometry": {
         "type": "Polygon",
@@ -2293,7 +2295,8 @@
         "stroke-width": "",
         "stroke-opacity": "",
         "fill": "#fb683f",
-        "fill-opacity": 1
+        "fill-opacity": 1,
+        "label": "Banana Distribution"
       },
       "geometry": {
         "type": "Polygon",
@@ -2388,7 +2391,8 @@
       "properties": {
         "stroke": "null",
         "fill": "#fb683f",
-        "fill-opacity": 1
+        "fill-opacity": 1,
+        "label": "Banana Distribution"
       },
       "geometry": {
         "type": "Polygon",
@@ -2498,7 +2502,7 @@
         "stroke-opacity": "",
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": ""
+        "label": "Banana Distribution"
       },
       "geometry": {
         "type": "Polygon",
