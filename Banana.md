@@ -49,10 +49,10 @@ In 1516 Friar Tomas de Berlanga, a Catholic missionary, landed on the Island of 
 	
 It was a Portuguese physician and naturalist, Garcia de Orta, who would first promote the name “banana.” In 1563, while living in Goa, India, Orta published an herbal detailing the _materia medica_ of India, in which he wrote of a fruit found in India, Malaysia, and Arab lands as well in “[in Guinea, where they call them bananas](https://bibdigital.rjb.csic.es/viewer/15528/?offset=#page=360&viewer=picture&o=search&n=0&q=banana).” Unfortunately, the name banana was slow to catch on. Other European authors of the period referenced bananas by several names including
 <var data-primary="image"></var>
-<var data-image id="Banana Orta" title="Coloquios dos simples e drogas da India" data-url="https://bibdigital.rjb.csic.es/idviewer/15528/353" data-region=""></var>
+<var data-image id="Banana Orta" title="Coloquios dos simples e drogas da India" data-url="bibdigital.rjb.csic.es/idviewer/15528/353" data-region=""></var>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxNjUwMzc5LDkxMjE2OTE0MCwtNTc1Mj
-Y0MDUxLDE1MTc0OTMzNzYsLTMwNjk3NTkwLC0xNDc0OTIzMDMw
-LDc1MTQwMjEwNF19
+eyJoaXN0b3J5IjpbLTEyMDU2NTAxMTYsOTEyMTY5MTQwLC01Nz
+UyNjQwNTEsMTUxNzQ5MzM3NiwtMzA2OTc1OTAsLTE0NzQ5MjMw
+MzAsNzUxNDAyMTA0XX0=
 -->
