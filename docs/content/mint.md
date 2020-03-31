@@ -128,6 +128,8 @@ The example of the mint market in British North American colonies and the early 
 <var data-image id="polo mints" title="Polo mints" data-url="https://upload.wikimedia.org/wikipedia/commons/4/40/Polo_mint.jpg" data-region=""></var>
 <var data-image id="butter mints" title="Butter mints" url="https://upload.wikimedia.org/wikipedia/commons/1/19/After_dinner_mints.jpg" data-region=""></var>
 <var data-image id="french mint candy" title="The bêtise" url="https://upload.wikimedia.org/wikipedia/commons/e/e2/B%C3%AAtises_de_Cambrai.jpg" data-region=""></var>
+<var data-image id="candy cane" title="Candy cane" url="https://upload.wikimedia.org/wikipedia/commons/d/de/Candy-Cane-Classic.jpg" data-region=""></var>
+<var data-image id="Toothpaste" title="Toothpaste" url="https://upload.wikimedia.org/wikipedia/commons/4/49/Toothpasteonbrush.jpg" data-region=""></var>
 
 Today, mint varieties are cultivated in many different parts of the world. Mint’s seemingly ‘cosmopolitan distribution’ means that its range extends across the world where there are appropriate habitats for it to flourish. Mints thrive when near water which means that lakes, rivers and even spaces in shade enable this fast-growing plant to be grown all year round. For example, wild mint ([*Mentha* arvensis](https://plants.jstor.org/stable/10.5555/al.ap.specimen.k000929997?searchUri=filter%3Dname%26so%3Dps_group_by_genus_species%2Basc%26Query%3DMentha%2Barvensis)) is cultivated on a huge scale in Brazil, China, Paraguay, Japan, Thailand, Angola and India.[^ref16] In this way, peppermint production in America, spreading across the breadth of the country over time, is a microcosm of the pattern of mint distribution across the world.
 
