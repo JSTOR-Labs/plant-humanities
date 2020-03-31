@@ -32,15 +32,15 @@ Europeans first encountered bananas, or accounts of the plant, through Alexander
 	data-active="true"></var>
 
 The rise of European Maritime powers in the late fourteenth and fifteenth centuries, however, brought renewed interest in the banana. By the time the Portuguese began exploring the west coast of Africa in the late fifteenth century, propagation of banana cultivars had spread throughout sub-Saharan Africa. Eventually, Portuguese slavers began transporting bananas alongside enslaved Africans to the West Indies. Unlike later periods, however, bananas were not viewed as a cash crop. Instead, they served as cheap and portable sustenance for the slaves during their horrific transatlantic crossing.
-<var data-map title="New World" data-center="3.584787, 94.424085" data-zoom="2.75"></var>
+<var data-map title="New World" data-center="8.644561, 17.901483" data-zoom="3"></var>
 <var data-map-layer
-	title="Banana Origin and Distribution"
+	title="Bananas in Africa"
 	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/banana_distribution.json"
+	data-url="https://jstor-labs.github.io/plant-humanities/geojson/bananas_africa.json"
 	data-active="true"></var>
 
 It was also a Portuguese physician and naturalist, Garcia de Orta, who would first promote the name “banana.” In 1563, while living in Goa, India, Orta published an herbal detailing the _materia medica_ of India, in which he wrote of a fruit found in India, Malaysia, and Arab lands as well in “[in Guinea, where they call them bananas](https://bibdigital.rjb.csic.es/viewer/15528/?offset=#page=360&viewer=picture&o=search&n=0&q=banana).” Unfortunately, the name banana was slow to catch on. Other European authors of the period referenced bananas by several names including
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzY0OTE4NCwxNTE3NDkzMzc2LC0zMD
-Y5NzU5MCwtMTQ3NDkyMzAzMCw3NTE0MDIxMDRdfQ==
+eyJoaXN0b3J5IjpbMzMzNDYzMTQwLDE1MTc0OTMzNzYsLTMwNj
+k3NTkwLC0xNDc0OTIzMDMwLDc1MTQwMjEwNF19
 -->
