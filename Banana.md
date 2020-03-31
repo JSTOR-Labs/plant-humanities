@@ -5,7 +5,7 @@
 ### Banana, Plantain, or the Tree of Life?
 Thanks to domesticated bananas’ long history of human intervention and migration, Linnaean taxonomy did little to clear up the confusion surrounding identifications and names of banana plants. While scientists eventually deduced that Linnaeus identified two domesticated banana cultivars, not species, the wild progenitors of cultivated bananas as well as the origin of banana domestication remained a mystery. Recent genome and genetic testing, however, has revealed that the origin of banana domestication was further east than originally thought.
 <var data-primary="image"></var>
-<var data-image id="Banana Genome Sequencing" title="Whole Genome Sequence" data-url="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep31586/MediaObjects/41598_2016_Article_BFsrep31586_Fig1_HTML.jpg?as=webp" data-region=""></var>
+<var data-image id="Banana Genome Sequencing" title="Whole Genome Sequence of a Wild Banana Relative" data-url="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep31586/MediaObjects/41598_2016_Article_BFsrep31586_Fig1_HTML.jpg?as=webp" data-region=""></var>
 
 In 2002, a comprehensive study of relationships among wild and cultivated bananas determined that the parthenocarpic A genomes of almost all the edible banana groups derive from either subspecies _banksii_ (from the Papua New Guinea region) or _errans_ (Philippines) of _Musa acuminata_ (or from both of them) ([Carreel et al. 2002](https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/article/233368#b11)). These findings reveal that the origin of banana domestication was in the Philippines and New Guinea regions. Archaeobotanical remains identified as the genus _Musa_ attests that bananas were indeed present in Papua New Guinea at least 10,000 years ago and were being cultivated as early as 7,000 years ago. 
 <var data-map title="New World" data-center="2.827324, 134.889630" data-zoom="4.5"></var>
@@ -35,6 +35,6 @@ The rise of European Maritime powers in the late fourteenth and fifteenth centur
 
 It was also a Portuguese physician and naturalist, Garcia de Orta, who would first promote the name “banana.” In 1563, while living in Goa, India, Orta published an herbal detailing the _materia medica_ of India, in which he wrote of a fruit found in India, Malaysia, and Arab lands as well in “[in Guinea, where they call them bananas](https://bibdigital.rjb.csic.es/viewer/15528/?offset=#page=360&viewer=picture&o=search&n=0&q=banana).” Unfortunately, the name banana was slow to catch on. Other European authors of the period referenced bananas by several names including
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODA5OTcwNSwtMzA2OTc1OTAsLTE0Nz
+eyJoaXN0b3J5IjpbMTUxNzQ5MzM3NiwtMzA2OTc1OTAsLTE0Nz
 Q5MjMwMzAsNzUxNDAyMTA0XX0=
 -->
