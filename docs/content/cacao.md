@@ -9,7 +9,7 @@
      data-banner="/images/cacao.jpg"
      data-debug="false"></var>
      
-<var title="Francis Drake" id=“Q36517” data-aliases="Drake"></var>
+<var title="Francis Drake" id=“Q36517”></var>
 <var title="John Gerard" id="Q1333338" data-aliases="Gerard"></var>
 <var title="Nicolás Monardes" id="Q950531" data-aliases="Monardes"></var>
 <var title="Maya ceramics" id="Q6796748" data-aliases="vessels"></var>
@@ -206,7 +206,7 @@ At first thought, it is surprising  that cacao does  not  appear  in  any  of  t
 <var data-image id="Plaque marking the Seville location of Monardes' gardens and residence" title="Plaque marking the Seville location of Monardes' gardens and residence" data-url="https://notevenpast.org/wp-content/uploads/2015/04/Monardes-plaque-Seville.jpg"></var>
 
 
-We do see cacao in  John Gerard’s _The Herball_ from 1597, referenced  in Latin as _Beretinus_  _fructus_.  Gerard mentions  that this plant was used by the native  populations encountered by Sir Frances Drake to pay tribute to their  political leaders, again echoing the deep-rooted ideologies associating cacao with  economic and political networks.  It is here that we learn of a cacao specimen brought to England by Sir Drake. John Parkinson’s 1640 volume adds to our knowledge about these cacao specimens, indicating that they were brought by Sir Frances Drake  after his 1580 voyage. Some of them eventually  found their way to Carolus  Clusius by means of a Master Garth and Master Morgan.[^ref14] 
+We do see cacao in  John Gerard’s _The Herball_ from 1597, referenced  in Latin as _Beretinus_  _fructus_.  Gerard mentions  that this plant was used by the native  populations encountered by Sir Francis Drake to pay tribute to their  political leaders, again echoing the deep-rooted ideologies associating cacao with  economic and political networks.  It is here that we learn of a cacao specimen brought to England by Sir Drake. John Parkinson’s 1640 volume adds to our knowledge about these cacao specimens, indicating that they were brought by Sir Frances Drake  after his 1580 voyage. Some of them eventually  found their way to Carolus  Clusius by means of a Master Garth and Master Morgan.[^ref14] 
 <var data-image-viewer></var>
 <var data-image id="bhl-57082420" title="John Gerard's mention of _Beretinus_ _fructus_ with image" data-url="https://www.biodiversitylibrary.org/pageimage/57082420" data-region="0,0,0,0"></var>
 <var data-image id="bhl-56601545" title="John Parkinson's mention of _Beretinus_ _fructus_ with image" data-url="https://www.biodiversitylibrary.org/pageimage/56601545" data-region=""></var>
