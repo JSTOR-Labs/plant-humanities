@@ -9,6 +9,8 @@
      data-banner="/images/cacao.jpg"
      data-debug="false"></var>
      
+<var title="Francis Drake" id=“Q36517” data-aliases="Drake"></var>
+<var title="John Gerard" id="Q1333338" data-aliases="Gerard"></var>
 <var title="Nicolás Monardes" id="Q950531" data-aliases="Monardes"></var>
 <var title="Maya ceramics" id="Q6796748" data-aliases="vessels"></var>
 <var title="Palenqué" id="Q181427" data-fill="#5C6609" data-marker-symbol="gopuram" data-aliases="Palenque"></var>
@@ -81,15 +83,15 @@ A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a r
 It is clear that the watercolors  illustrate  anatomically accurate plant  structures situated within particular stages of the reproductive life cycle of cacao. These details of the herbal indicate  that the Mexica  had a detailed understanding of  the biology of cacao, a  level of knowledge not represented  in contemporaneous European-authored herbals. Consequently, the knowledge of cacao within the Badianus has a broader spatio-temporal history, developing well before the arrival of Spaniards and the formation of the school in which de la Cruz and Badiano created the herbal.
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
-     title="Mexica"
-     data-type="geojson"
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
-     data-active="true"></var>
-     <var data-map-layer
      title="Mesoamerica"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
 	data-active="true"></var>
+<var data-map-layer
+     title="Mexica"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
+     data-active="true"></var>
 <var data-image-viewer></var>  
 <var data-image id="Flower to Fruit Cycle" title="Flower to Fruit Cycle" data-url="https://upload.wikimedia.org/wikipedia/commons/8/8c/Ciclo_de_vida_de_las_angiospermas_%28Prunus%29.svg" data-region=""></var>
 <var data-image id="Ancient Cacao Beverage Vessel" title="Ancient Cacao Beverage Vessel" data-url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Mesoamerica%2C_Maya%2C_Nebaj_region%2C_Late_Classic_Period%2C_7th-10th_century_-_Vessel_with_Battle_Scene_-_2012.32_-_Cleveland_Museum_of_Art.tif" data-region=""></var>
@@ -98,6 +100,11 @@ It is clear that the watercolors  illustrate  anatomically accurate plant  struc
 
 In these Mexica recipes, the association of cacao with curing particular ailments echoes  what is known about the plant for thousands of years from preceding Mesoamerican cultures. In several indigenous cosmologies, the  cacao plant represented  an important stage in the life cycle of  the environment,  emerging after the death of maize. This cycle has  been referred to as a forest garden or milpa, a subsistence strategy that was, and still is, central to providing sustenance to millions of neotropical inhabitants. [^ref6] 
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
+<var data-map-layer
+     title="Mesoamerica"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
+	data-active="true"></var>
 <var data-map-layer
      title="Mexica"
      data-type="geojson"
@@ -113,11 +120,6 @@ In these Mexica recipes, the association of cacao with curing particular ailment
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Olmec.geojson"
      data-active="true"></var>
-     <var data-map-layer
-     title="Mesoamerica"
-     data-type="geojson"
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
-	data-active="true"></var>
 <var data-image-viewer></var>  
 <var data-image id="Mesoamerica" title="Mesoamerica" data-url="https://commons.wikimedia.org/wiki/File:Mesoamerica_topographic_map-blank.svg"></var>
 
@@ -139,12 +141,12 @@ Ancient Maya leaders represented themselves as or in relation to this cycle and 
 
 The presence of cacao in a remedy for hurt feet within the Badianus also wittily illustrates the realities of  indigenous  Mesoamerican lifeways. Without beasts of burden, the  long-distance transport of cacao from the neotropics to Tenochtitlan, the Mexica capital, would have certainly caused one’s feet to ache.  For example, in  Hernán Cortés’ conquistador accounts, several regions are recognized for their tribute of cacao to the Mexica empire including  Huauthla,  Soconusco, and  Cotaxtla, all of which are hundreds of miles from Tenochtitlan.[^ref8]
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
-<var data-map-layer
+ <var data-map-layer
      title="Neotropics"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson"
      data-active="true"></var>
-<var data-map-layer
+     <var data-map-layer
      title="Mexica"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
@@ -165,15 +167,15 @@ We learn from many other early colonial documents that roasted cacao beans were 
 Ultimately, the importance of cacao within political, social, and economic realms of these cultures indicates that individuals and polities would have sought control of its associated production and exchange networks to garner power, perpetuating its uses and ideologies farther and farther from their neotropical origins.  It is no wonder that ancient rulers invoked cacao in their ritual and political exchanges and ceremonies, which often included the imbibing of cacao beverages or the  gifting of cacao vessels.[^ref10][^ref11] Eventually, these practices created a taste for cacao across an elaborate network of Mesoamerican polities, maintaining the high status and importance of cacao-producing regions during ancient and historic periods.[^ref12][^ref13] Upon European arrival, these networks of production and trade as well as their associated ideologies and practices were well-established across the Americas.
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
-     title="Neotropics"
-     data-type="geojson"
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson"
-     data-active="true"></var>
-      <var data-map-layer
      title="Mesoamerica"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
 	data-active="true"></var>
+<var data-map-layer
+     title="Neotropics"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson"
+     data-active="true"></var>
 <var data-image-viewer></var>
 <var data-image id="hollis-459304944" title="Classic Maya Buenavista Cylinder Vase" data-url="https://ids.lib.harvard.edu/ids/iiif/459304944/full/full/0/default.jpg" data-region="0,0,0,0"></var>
 <var data-image id="hollis-459304936" title="Classic Maya Buenavista Cylinder Vase Rollout" data-url="https://ids.lib.harvard.edu/ids/iiif/459304936/full/full/0/default.jpg" data-region="0,0,0,0"></var>
