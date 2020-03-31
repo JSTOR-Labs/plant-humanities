@@ -1907,7 +1907,7 @@
       "properties": {
         "marker-color": "#5c6609",
         "marker-size": "large",
-        "marker-symbol": "farm",
+        "marker-symbol": "garden",
         "label": "Possible Origin of Banana Domestication",
         "stroke": "null",
         "stroke-width": "",
@@ -1926,7 +1926,7 @@
       "properties": {
         "marker-color": "#5c6609",
         "marker-size": "large",
-        "marker-symbol": "farm",
+        "marker-symbol": "garden",
         "label": "Possible Origin of Banana Domestication"
       },
       "geometry": {
