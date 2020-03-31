@@ -22,7 +22,7 @@ From the Philippines and New Guinea, domesticated parthenocarpic bananas travele
 	data-active="true"></var>
 
 Europeans first encountered bananas, or accounts of the plant, through Alexander the Great’s Asiatic campaign in 331-323 BCE. According to Theophrastus and Pliny, one of the plants Alexander saw, recorded, and brought back to Asia Minor was the banana (some sort of Musa species). Unfortunately, Europeans had neither the climate to grow bananas nor the proximity to their natural habitat to import the fresh fruit. So, while bananas became a staple food crop in Africa, India, Southeast Asia, and the Pacific, they remained an exotic curiosity in Europe.
-<var data-map title="New World" data-center="35.940967, 54.291270" data-zoom="3.5"></var>
+<var data-map title="New World" data-center="35.940967, 54.291270" data-zoom="3"></var>
 <var data-map-layer
 	title="Banana Origin and Distribution"
 	data-type="geojson"
@@ -33,6 +33,6 @@ The rise of European Maritime powers in the late fourteenth and fifteenth centur
 
 It was also a Portuguese physician and naturalist, Garcia de Orta, who would first promote the name “banana.” In 1563, while living in Goa, India, Orta published an herbal detailing the _materia medica_ of India, in which he wrote of a fruit found in India, Malaysia, and Arab lands as well in “[in Guinea, where they call them bananas](https://bibdigital.rjb.csic.es/viewer/15528/?offset=#page=360&viewer=picture&o=search&n=0&q=banana).” Unfortunately, the name banana was slow to catch on. Other European authors of the period referenced bananas by several names including
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTA1OTUwMywtMTQ3NDkyMzAzMCw3NT
-E0MDIxMDRdfQ==
+eyJoaXN0b3J5IjpbLTMwNjk3NTkwLC0xNDc0OTIzMDMwLDc1MT
+QwMjEwNF19
 -->
