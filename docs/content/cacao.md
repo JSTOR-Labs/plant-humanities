@@ -9,7 +9,11 @@
      data-banner="/images/cacao.jpg"
      data-debug="false"></var>
      
-<var title="Francis Drake" id=“Q36517”></var>
+<var title="Nicaragua" id="Q811"></var>
+<var title="Girolamo Benzoni" id="Q1236037" data-aliases="Benzoni"></var>
+<var title="John Parkinson" id="Q256288" data-aliases="Parkinson"></var>
+<var title="Carolus Clusius" id="Q333372"></var>
+<var title="Francis Drake" id="Q36517"></var>
 <var title="John Gerard" id="Q1333338" data-aliases="Gerard"></var>
 <var title="Nicolás Monardes" id="Q950531" data-aliases="Monardes"></var>
 <var title="Maya ceramics" id="Q6796748" data-aliases="vessels"></var>
@@ -28,7 +32,6 @@
 <var title="Francisco Hernández de Toledo" id="Q940017"></var>
 <var title="Quararibea funebris" id="Q7269144" data-aliases="_Quararibea funebris_"></var>
 <var title="(INAH)" id="Q901361"></var>
-<var title="Mesoamerica" id="Q13703" data-fill="#5C6609" data-marker-symbol="globe-americas" data-aliases="Mesoamerican"></var>
 <var title="spatio-temporal entity" id="Q58415929" data-aliases="spatio-temporal"></var>
 <var title="Milpa" id="Q1537558"></var>
 <var title="Forest gardening" id="Q276109" data-aliases="forest garden"></var>
@@ -80,7 +83,8 @@ A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a r
 <var data-image id="Cacauaxochitl" title="Cacauaxochitl" data-url="https://kg.jstor.org/w/images/1/17/BadianusCacao2.jpg" data-region=""></var>
 <var data-image id="Flowering cacao" title="Flowering cacao" data-url="https://upload.wikimedia.org/wikipedia/commons/6/66/Cacao_Flor.JPG" data-region=""></var> 
 
-It is clear that the watercolors  illustrate  anatomically accurate plant  structures situated within particular stages of the reproductive life cycle of cacao. These details of the herbal indicate  that the Mexica  had a detailed understanding of  the biology of cacao, a  level of knowledge not represented  in contemporaneous European-authored herbals. Consequently, the knowledge of cacao within the Badianus has a broader spatio-temporal history, developing well before the arrival of Spaniards and the formation of the school in which de la Cruz and Badiano created the herbal.
+It is clear that the watercolors  illustrate  anatomically accurate plant  structures situated within particular stages of the reproductive life cycle of cacao. These details of the herbal indicate  that the Mexica  had a detailed understanding of  the biology of cacao, a  level of knowledge not represented  in contemporaneous European-authored herbals. Consequently, the knowledge of cacao within the Badianus has a broader spatio-temporal history, developing across Mesoamerica well before the arrival of Spaniards and the formation of the school in which de la Cruz and Badiano created the herbal.
+<var data-scope="local" id="Q13703"></var>
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
      title="Mesoamerica"
@@ -206,13 +210,19 @@ At first thought, it is surprising  that cacao does  not  appear  in  any  of  t
 <var data-image id="Plaque marking the Seville location of Monardes' gardens and residence" title="Plaque marking the Seville location of Monardes' gardens and residence" data-url="https://notevenpast.org/wp-content/uploads/2015/04/Monardes-plaque-Seville.jpg"></var>
 
 
-We do see cacao in  John Gerard’s _The Herball_ from 1597, referenced  in Latin as _Beretinus_  _fructus_.  Gerard mentions  that this plant was used by the native  populations encountered by Sir Francis Drake to pay tribute to their  political leaders, again echoing the deep-rooted ideologies associating cacao with  economic and political networks.  It is here that we learn of a cacao specimen brought to England by Sir Drake. John Parkinson’s 1640 volume adds to our knowledge about these cacao specimens, indicating that they were brought by Sir Frances Drake  after his 1580 voyage. Some of them eventually  found their way to Carolus  Clusius by means of a Master Garth and Master Morgan.[^ref14] 
+We do see cacao in  John Gerard’s _The Herball_ from 1597, referenced  in Latin as _Beretinus_  _fructus_.  Gerard mentions  that this plant was used by the native  populations encountered by Sir Francis Drake to pay tribute to their  political leaders, again echoing the deep-rooted ideologies associating cacao with  economic and political networks.  It is here that we learn of a cacao specimen brought to England by Sir Drake. John Parkinson’s 1640 volume adds to our knowledge about these cacao specimens, indicating that they were brought by Sir Francis Drake after his 1580 voyage. Some of them eventually  found their way to Carolus Clusius by means of a Master Garth and Master Morgan.[^ref14] 
 <var data-image-viewer></var>
 <var data-image id="bhl-57082420" title="John Gerard's mention of _Beretinus_ _fructus_ with image" data-url="https://www.biodiversitylibrary.org/pageimage/57082420" data-region="0,0,0,0"></var>
 <var data-image id="bhl-56601545" title="John Parkinson's mention of _Beretinus_ _fructus_ with image" data-url="https://www.biodiversitylibrary.org/pageimage/56601545" data-region=""></var>
 <var data-image id="bhl-8066123" title="Carolus Clusius' mentions of _Beretinus_ _fructus_ and _Cacao_ _fructus_" data-url="https://www.biodiversitylibrary.org/pageimage/8066123" data-region="0,0,0,0"></var>
 
-Interestingly, Parkinson  has a duplicate entry for cacao, but under a different name: “Cacao sive Cacaute” or “Peare bearing wholesome Almond tree.” It is stated that this plant is made into a beverage called “Chocolate” in an unspecified indigenous language, revealing that our modern name for the creamy, satisfying paste made from cacao has its linguistic origins in the New World.  This second entry references a different source, “Benzo,” probably the 1572 account of Girolamo  Benzoni, where he discusses his encounters with cacao in Nicaragua.
+Interestingly, Parkinson  has a duplicate entry for cacao, but under a different name: “Cacao sive Cacaute” or “Peare bearing wholesome Almond tree.” It is stated that this plant is made into a beverage called “Chocolate” in an unspecified indigenous language, revealing that our modern name for the creamy, satisfying paste made from cacao has its linguistic origins in the New World.  This second entry references a different source, “Benzo,” probably the 1572 account of Girolamo Benzoni, where he discusses his encounters with cacao in Nicaragua.
+<var data-map title="World" data-center="23.530645, -40.108534" data-zoom="2"></var>
+<var data-map-layer
+     title="Nicaragua"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Nicaragua.geojson"
+     data-active="true"></var>
 <var data-image id="bhl-56601539" title="Theatrum Botanicum p. 1642" data-url="https://www.biodiversitylibrary.org/pageimage/56601539" data-region="1667,1240,2190,1890"></var>
 <var data-image id="bhl-8066123" title="Carolus Clusius' mentions of _Beretinus_ _fructus_ and _Cacao_ _fructus_" data-url="https://www.biodiversitylibrary.org/pageimage/8066123" data-region="1667,1240,2190,1890"></var>
 
