@@ -10,7 +10,7 @@
      data-debug="false"></var>
      
 <var title="Seville" id="Q8717" data-fill="#92086D" data-marker-symbol="user"></var>
-<var title="Nicaragua" id="Q811"></var>
+<var title="Nicaragua" id="Q811" data-fill="#92086D" data-marker-symbol="user"></var>
 <var title="Girolamo Benzoni" id="Q1236037" data-aliases="Benzoni"></var>
 <var title="John Parkinson" id="Q256288" data-aliases="Parkinson"></var>
 <var title="Carolus Clusius" id="Q333372"></var>
@@ -147,7 +147,7 @@ Ancient Maya leaders represented themselves as or in relation to this cycle and 
 The presence of cacao in a remedy for hurt feet within the Badianus also wittily illustrates the realities of  indigenous  Mesoamerican lifeways. Without beasts of burden, the  long-distance transport of cacao from the neotropics to Tenochtitlan, the Mexica capital, would have certainly caused one’s feet to ache.  For example, in  Hernán Cortés’ conquistador accounts, several regions are recognized for their tribute of cacao to the Mexica empire including  Huauthla,  Soconusco, and  Cotaxtla, all of which are hundreds of miles from Tenochtitlan.[^ref8]
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
  <var data-map-layer
-     title="Neotropics"
+     title="Central American Neotropics"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson"
      data-active="true"></var>
@@ -177,7 +177,7 @@ Ultimately, the importance of cacao within political, social, and economic realm
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
 	data-active="true"></var>
 <var data-map-layer
-     title="Neotropics"
+     title="Central American Neotropics"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson"
      data-active="true"></var>
@@ -205,6 +205,11 @@ To fulfill colonial agendas, the Spanish and other Europeans found themselves in
 
 At first thought, it is surprising  that cacao does  not  appear  in  any  of  the  several, early  Iberian-made  herbals by Nicolás  Monardes. However, since  Monardes  was Spain-based and  never left the  hemisphere, he was only aware of  plants  that would have reached  him  from across the ocean via his network of fellow naturalists. He also seems to have reported solely on plants he was able to propagate in his garden or use for himself,  as he  repeatedly  claims  his findings are based on real  and personal  observations. Given these facts, it is unlikely that cacao  seeds would have survived the voyage across the Atlantic, let alone propagation in the drier Mediterranean climate of Seville, where  Monardes  was based.
 <var data-map title="World" data-center="37.391989, -5.994766" data-zoom="5"></var>
+<var data-map-layer
+     title="Americas and Europe"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Americas and Europe.geojson"
+     data-active="true"></var>
 <var data-image-viewer></var>
 <var data-image id="Nicolas Monardes (Nicolai Monardis)" title="Nicolas Monardes (Nicolai Monardis)" data-url="https://upload.wikimedia.org/wikipedia/commons/f/ff/Portrait-of-Monardes-1569.png"></var>
 <var data-image id="Monardes' many works" title="Monardes' many works" data-url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Monardes_Historia_medicinal_1580_tp.png"></var>
@@ -212,7 +217,12 @@ At first thought, it is surprising  that cacao does  not  appear  in  any  of  t
 
 
 We do see cacao in  John Gerard’s _The Herball_ from 1597, referenced  in Latin as _Beretinus_  _fructus_.  Gerard mentions  that this plant was used by the native  populations encountered by Sir Francis Drake to pay tribute to their  political leaders, again echoing the deep-rooted ideologies associating cacao with  economic and political networks.  It is here that we learn of a cacao specimen brought to England by Sir Drake. John Parkinson’s 1640 volume adds to our knowledge about these cacao specimens, indicating that they were brought by Sir Francis Drake after his 1580 voyage. Some of them eventually  found their way to Carolus Clusius by means of a Master Garth and Master Morgan.[^ref14] 
-<var data-map title="World" data-center="29.610423, -42.318342" data-zoom="2"></var>
+<var data-map title="World" data-center="25.164766, -76.133328" data-zoom="2"></var>
+<var data-map-layer
+     title="Americas and Europe"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Americas and Europe.geojson"
+     data-active="true"></var>
 <var data-map-layer
      title="Sir Drake's Voyage"
      data-type="geojson"
@@ -226,7 +236,12 @@ We do see cacao in  John Gerard’s _The Herball_ from 1597, referenced  in Lati
 <var data-image id="bhl-8066123" title="Carolus Clusius' mentions of _Beretinus_ _fructus_ and _Cacao_ _fructus_" data-url="https://www.biodiversitylibrary.org/pageimage/8066123" data-region="0,0,0,0"></var>
 
 Interestingly, Parkinson  has a duplicate entry for cacao, but under a different name: “Cacao sive Cacaute” or “Peare bearing wholesome Almond tree.” It is stated that this plant is made into a beverage called “Chocolate” in an unspecified indigenous language, revealing that our modern name for the creamy, satisfying paste made from cacao has its linguistic origins in the New World.  This second entry references a different source, “Benzo,” probably the 1572 account of Girolamo Benzoni, where he discusses his encounters with cacao in Nicaragua.
-<var data-map title="World" data-center="23.530645, -40.108534" data-zoom="2"></var>
+<var data-map title="World" data-center="25.164766, -76.133328" data-zoom="2"></var>
+<var data-map-layer
+     title="Americas and Europe"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Americas and Europe.geojson"
+     data-active="true"></var>
 <var data-map-layer
      title="Nicaragua"
      data-type="geojson"
@@ -236,7 +251,17 @@ Interestingly, Parkinson  has a duplicate entry for cacao, but under a different
 <var data-image id="bhl-8066123" title="Carolus Clusius' mentions of _Beretinus_ _fructus_ and _Cacao_ _fructus_" data-url="https://www.biodiversitylibrary.org/pageimage/8066123" data-region="1667,1240,2190,1890"></var>
 
 In his text, Benzoni refers to the use of cacao as money and describes the methods to create the cacao beverage. Perhaps because Benzoni actually visited the region, his first-hand account actually references the ecology in which cacao grows: only very warm, moist, and shady areas. It is likely that these exotic ecological constraints added to the appeal of cacao, both for the Mexica and later the Europeans, because of the prestige associated with commanding such a network.
-<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
+<var data-map title="World" data-center="12.316683, -84.946184" data-zoom="5"></var>
+ <var data-map-layer
+     title="Central American Neotropics"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson"
+     data-active="true"></var>
+<var data-map-layer
+     title="Nicaragua"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Nicaragua.geojson"
+     data-active="true"></var>
 <var data-image-viewer></var>
 <var data-image id="Girolamo Benzoni's depiction of a cacao tree" title="Girolamo Benzoni's depiction of a cacao tree" data-url="https://gallica.bnf.fr/ark:/12148/bpt6k59116t/f210.image" data-region="0,0,0,0"></var>
 <var data-image id="Girolamo Benzoni's depiction of a native dance with person pouring chocolate in foreground" title="Girolamo Benzoni's depiction of a native dance with person pouring chocolate in foreground" data-url="https://upload.wikimedia.org/wikipedia/commons/3/35/Modo_di_ballare_LCCN2003663643.jpg"></var>
@@ -245,6 +270,11 @@ In his text, Benzoni refers to the use of cacao as money and describes the metho
 
 The political and economic powers of Europe took note of these early accounts of cacao as monetarily and ideological valuable and, by the 17th  century, international markets were emerging, maintained largely through African slave labor.[^ref15],[^ref16] The tastes of returning merchants and clergy, as well as its reported medicinal properties, allowed cacao to take off in Spain by the early 17th century.[^ref17],[^ref18] In other parts of Europe, cacao and its associated dishware featured prominently in elite networks, invoking ideologies rooted in distant places and eras of Mesoamerica. At a time when curiosities fueled the exploration and description of the natural and cultural world, cacao featured quite prominently as a curio to add to royal cabinets.[^ref19] Cacao also found its way into commercial products meant to entice the common palate including the many chocolate bars, desserts, and drinks we know and love today. Cacao continues to be grown in the tropics across the world, both for global and local markets.[^ref20][^ref21] The ideological association of cacao with subsistence, prestige, and trade has continued across millennia and cultures, making the power and appeal of cacao truly timeless and global.
 <var data-map title="World" data-center="23.530645, -40.108534" data-zoom="2"></var>
+<var data-map-layer
+     title="Current _Theobroma cacao_ Distribution"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/CacaoDist.geojson"
+     data-active="true"></var>
 <var data-image-viewer></var>
 <var data-image id="bhl-144676" title="John Gabriel Stedman's illustration of cacao ca. 1796" data-url="https://www.biodiversitylibrary.org/page/55300899" data-region="0,0,0,0"></var>
 <var data-image id="English chocolate pot ca. 1697-98" title="English chocolate pot ca. 1697-98" data-url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chocolate_pot_MET_131294.jpg/512px-Chocolate_pot_MET_131294.jpg"></var>
