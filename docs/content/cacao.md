@@ -9,11 +9,12 @@
      data-banner="/images/cacao.jpg"
      data-debug="false"></var>
      
+<var title="Seville" id="Q8717" data-fill="#92086D" data-marker-symbol="user"></var>
 <var title="Nicaragua" id="Q811"></var>
 <var title="Girolamo Benzoni" id="Q1236037" data-aliases="Benzoni"></var>
 <var title="John Parkinson" id="Q256288" data-aliases="Parkinson"></var>
 <var title="Carolus Clusius" id="Q333372"></var>
-<var title="Francis Drake" id="Q36517"></var>
+<var title="Francis Drake" id="Q36517" data-aliases="Sir Drake"></var>
 <var title="John Gerard" id="Q1333338" data-aliases="Gerard"></var>
 <var title="Nicolás Monardes" id="Q950531" data-aliases="Monardes"></var>
 <var title="Maya ceramics" id="Q6796748" data-aliases="vessels"></var>
@@ -62,7 +63,7 @@ While colonial encounters are often conceptualized as a one-way street, with the
      data-active="true"></var>
 
 
-### Early recipes
+### Early Recipes
 
 After contact, the  earliest  representations of cacao come from  a Mexica (Aztec) herbal known as  the  Badianus  manuscript, a series of elaborately painted plants with their associated  names  in Nahuatl  and  recipes for treating various ailments  written in Latin.  This herbal  was  completed  in the 1550s  by at least two  Nahua men,  Martín  de la Cruz (an indigenous nobleman and physician) and Juan  Badiano  (an instructor of Latin),  at a European-funded and  established  school, Santa Cruz  in Tlatelolco, Mexico. Now held by the National Institute of Anthropology and History in Mexico City, the manuscript has been reproduced in a diversity of ways since its original creation.[^ref1] In these elaborately created and recreated pieces, historically deep and broader indigenous ideologies are captured.[^ref2]
 <var data-map title="World" data-center="19.461194, -99.138983" data-zoom="14"></var>
@@ -100,7 +101,7 @@ It is clear that the watercolors  illustrate  anatomically accurate plant  struc
 <var data-image id="Flower to Fruit Cycle" title="Flower to Fruit Cycle" data-url="https://upload.wikimedia.org/wikipedia/commons/8/8c/Ciclo_de_vida_de_las_angiospermas_%28Prunus%29.svg" data-region=""></var>
 <var data-image id="Ancient Cacao Beverage Vessel" title="Ancient Cacao Beverage Vessel" data-url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Mesoamerica%2C_Maya%2C_Nebaj_region%2C_Late_Classic_Period%2C_7th-10th_century_-_Vessel_with_Battle_Scene_-_2012.32_-_Cleveland_Museum_of_Art.tif" data-region=""></var>
 
-### Ancient ideologies
+### Ancient Ideologies
 
 In these Mexica recipes, the association of cacao with curing particular ailments echoes  what is known about the plant for thousands of years from preceding Mesoamerican cultures. In several indigenous cosmologies, the  cacao plant represented  an important stage in the life cycle of  the environment,  emerging after the death of maize. This cycle has  been referred to as a forest garden or milpa, a subsistence strategy that was, and still is, central to providing sustenance to millions of neotropical inhabitants. [^ref6] 
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
@@ -186,7 +187,7 @@ Ultimately, the importance of cacao within political, social, and economic realm
 
 ### European Accounts
 
-To fulfill their colonial agendas, the Spanish and other Europeans  found themselves in need of understanding and participating in the indigenous networks and ideologies of the Americas. This need initially gave a measure of agency to  the  native  perspective, as reflected through the creation of texts like the Badianus.  With the continued subjugation  and conversion of indigenous populations, we eventually lose access to this  emic  native perspective in texts of the colonial  period. However, we gain access to knowledge of New World plants through European-perspective  manuscripts from the late 16th  and early 17th  centuries.  Cacao features in several of these, but not in some one might expect.
+To fulfill colonial agendas, the Spanish and other Europeans found themselves in need of understanding and participating in the indigenous networks and ideologies of the Americas. This need initially gave a measure of agency to  the  native  perspective, as reflected through the creation of texts like the Badianus.  With the continued subjugation  and conversion of indigenous populations, we eventually lose access to this  emic  native perspective in texts of the colonial  period. However, we gain access to knowledge of New World plants through European-perspective  manuscripts from the late 16th  and early 17th  centuries.  Cacao features in several of these, but not in some one might expect.
 <var data-map title="World" data-center="23.530645, -40.108534" data-zoom="2"></var>
 <var data-map-layer
      title="Americas and Europe"
@@ -211,6 +212,14 @@ At first thought, it is surprising  that cacao does  not  appear  in  any  of  t
 
 
 We do see cacao in  John Gerard’s _The Herball_ from 1597, referenced  in Latin as _Beretinus_  _fructus_.  Gerard mentions  that this plant was used by the native  populations encountered by Sir Francis Drake to pay tribute to their  political leaders, again echoing the deep-rooted ideologies associating cacao with  economic and political networks.  It is here that we learn of a cacao specimen brought to England by Sir Drake. John Parkinson’s 1640 volume adds to our knowledge about these cacao specimens, indicating that they were brought by Sir Francis Drake after his 1580 voyage. Some of them eventually  found their way to Carolus Clusius by means of a Master Garth and Master Morgan.[^ref14] 
+<var data-map title="World" data-center="29.610423, -42.318342" data-zoom="2"></var>
+<var data-map-layer
+     title="Sir Drake's Voyage"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/SirDrake.geojson"
+     data-active="true"></var>
+<var title="London" id="Q84" data-fill="#92086D" data-marker-symbol="users"></var>
+<var title="Leiden" id="Q43631" data-fill="#92086D" data-marker-symbol="user"></var>
 <var data-image-viewer></var>
 <var data-image id="bhl-57082420" title="John Gerard's mention of _Beretinus_ _fructus_ with image" data-url="https://www.biodiversitylibrary.org/pageimage/57082420" data-region="0,0,0,0"></var>
 <var data-image id="bhl-56601545" title="John Parkinson's mention of _Beretinus_ _fructus_ with image" data-url="https://www.biodiversitylibrary.org/pageimage/56601545" data-region=""></var>
