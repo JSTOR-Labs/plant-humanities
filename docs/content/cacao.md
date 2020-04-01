@@ -68,7 +68,7 @@ While colonial encounters are often conceptualized as a one-way street, with the
 After contact, the  earliest  representations of cacao come from  a Mexica (Aztec) herbal known as  the  Badianus  manuscript, a series of elaborately painted plants with their associated  names  in Nahuatl  and  recipes for treating various ailments  written in Latin.  This herbal  was  completed  in the 1550s  by at least two  Nahua men,  Martín  de la Cruz (an indigenous nobleman and physician) and Juan  Badiano  (an instructor of Latin),  at a European-funded and  established  school, Santa Cruz  in Tlatelolco, Mexico. Now held by the National Institute of Anthropology and History in Mexico City, the manuscript has been reproduced in a diversity of ways since its original creation.[^ref1] In these elaborately created and recreated pieces, historically deep and broader indigenous ideologies are captured.[^ref2]
 <var data-map title="World" data-center="19.461194, -99.138983" data-zoom="14"></var>
 <var data-map-layer
-     title="Mexica"
+     title="Mexica: ~1325 - 1519 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
      data-active="true"></var>
@@ -93,7 +93,7 @@ It is clear that the watercolors  illustrate  anatomically accurate plant  struc
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
 	data-active="true"></var>
 <var data-map-layer
-     title="Mexica"
+     title="Mexica: ~1325 - 1519 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
      data-active="true"></var>
@@ -111,22 +111,22 @@ In these Mexica recipes, the association of cacao with curing particular ailment
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
 	data-active="true"></var>
 <var data-map-layer
-     title="Mexica"
+     title="Mexica: ~1325 - 1519 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
      data-active="true"></var>
      <var data-map-layer
-     title="Maya"
+     title="Maya: 2000 BCE - 1697 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maya.geojson"
      data-active="true"></var>
      <var data-map-layer
-     title="Olmec"
+     title="Olmec: ~1400 - ~350 BCE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Olmec.geojson"
      data-active="true"></var>
      <var data-map-layer
-     title="Teotihuacan"
+     title="Teotihuacan: ~100 BCE - 550 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Teo.geojson"
 	data-active="true"></var>
@@ -142,7 +142,7 @@ Ancient Maya leaders represented themselves as or in relation to this cycle and 
 <var data-primary="image"></var>
 <var data-map title="World" data-center="18.272589, -89.635020" data-zoom="6"></var>
 <var data-map-layer
-     title="Maya"
+     title="Maya: 2000 BCE - 1697 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maya.geojson"
      data-active="true"></var>
@@ -159,7 +159,7 @@ The presence of cacao in a remedy for hurt feet within the Badianus also wittily
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson"
      data-active="true"></var>
      <var data-map-layer
-     title="Mexica"
+     title="Mexica: ~1325 - 1519 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
      data-active="true"></var>
@@ -174,20 +174,25 @@ We learn from many other early colonial documents that roasted cacao beans were 
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
 	data-active="true"></var>
 <var data-map-layer
-     title="Mexica"
+     title="Mexica: ~1325 - 1519 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
      data-active="true"></var>
      <var data-map-layer
-     title="Maya"
+     title="Maya: 2000 BCE - 1697 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maya.geojson"
      data-active="true"></var>
      <var data-map-layer
-     title="Olmec"
+     title="Olmec: ~1400 - ~350 BCE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Olmec.geojson"
      data-active="true"></var>
+     <var data-map-layer
+     title="Teotihuacan: ~100 BCE - 550 CE"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Teo.geojson"
+	data-active="true"></var>
 <var data-image-viewer></var>  
 <var data-image id="Roasted cacao as currency" title="Roasted cacao as currency" data-url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Cacao-moneda.jpg"></var>
 <var data-image id="Maya God L, often depicted in relation to cacao and merchant regalia" title="Maya God L, often depicted in relation to cacao and merchant regalia" data-url="https://upload.wikimedia.org/wikipedia/commons/6/6f/God_L_with_the_Hero_Twins.jpg"></var>
@@ -205,20 +210,25 @@ Ultimately, the importance of cacao within political, social, and economic realm
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson"
      data-active="true"></var>
      <var data-map-layer
-     title="Mexica"
+     title="Mexica: ~1325 - 1519 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
      data-active="true"></var>
      <var data-map-layer
-     title="Maya"
+     title="Maya: 2000 BCE - 1697 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maya.geojson"
      data-active="true"></var>
      <var data-map-layer
-     title="Olmec"
+     title="Olmec: ~1400 - ~350 BCE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Olmec.geojson"
      data-active="true"></var>
+     <var data-map-layer
+     title="Teotihuacan: ~100 BCE - 550 CE"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Teo.geojson"
+	data-active="true"></var>
 <var data-image-viewer></var>
 <var data-image id="hollis-459304944" title="Classic Maya Buenavista Cylinder Vase" data-url="https://ids.lib.harvard.edu/ids/iiif/459304944/full/full/0/default.jpg" data-region="0,0,0,0"></var>
 <var data-image id="hollis-459304936" title="Classic Maya Buenavista Cylinder Vase Rollout" data-url="https://ids.lib.harvard.edu/ids/iiif/459304936/full/full/0/default.jpg" data-region="0,0,0,0"></var>
