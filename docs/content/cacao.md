@@ -125,6 +125,11 @@ In these Mexica recipes, the association of cacao with curing particular ailment
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Olmec.geojson"
      data-active="true"></var>
+     <var data-map-layer
+     title="Teotihuacan"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Teo.geojson"
+	data-active="true"></var>
 <var data-image-viewer></var>  
 <var data-image id="Mesoamerica" title="Mesoamerica" data-url="https://commons.wikimedia.org/wiki/File:Mesoamerica_topographic_map-blank.svg"></var>
 
@@ -134,15 +139,17 @@ The milpa cycle is  a  process  of felling, burning, planting, and harvesting a 
 <var data-image id="Milpa field with forest" title="Milpa field with forest" data-url="https://farm6.staticflickr.com/5532/11840446053_8761ba18ec_b.jpg"></var>
 
 Ancient Maya leaders represented themselves as or in relation to this cycle and its  associated  plants  of importance, mainly cacao and maize, attempting to embody the power of the natural world. For example, we see the  ancient Maya  depict ancestors of rulers  as cacao trees  growing from the sarcophagi of dead  ‘maize god’  rulers at the site of Palenque  and  cacao trees anthropomorphized  as deities on intricately carved vessels. By invoking this cycle in representing themselves and deities, Maya political leaders were giving precedence to the subsistence practices, ideologies, and plants they incorporated.  Given this ancient association of cacao with the power of the natural world, it is not surprising to see cacao as an ingredient in the Badianus’ recipes for curing fear and malaise, particularly for political leaders.
-<var data-map title="World" data-center="17.974513, -89.480862" data-zoom="4"></var>
+<var data-primary="image"></var>
+<var data-map title="World" data-center="18.272589, -89.635020" data-zoom="6"></var>
 <var data-map-layer
      title="Maya"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maya.geojson"
      data-active="true"></var>
 <var data-scope="local" id="Q28567" data-aliases="Maya"></var>
-<var data-image-viewer></var>  
-<var data-image id="Pakal's burial ephemera" title="Pakal's burial ephemera" data-url="https://upload.wikimedia.org/wikipedia/commons/0/06/Masque_de_pakal_musee_mexico_photo_mai_2014.JPG"></var>
+<var data-image-viewer></var> 
+<var data-image id="Pakal's sarcophagus detail with ancestors depicted as fruit trees" title="Pakal's sarcophagus detail with ancestors depicted as fruit trees" data-url="https://jstor-labs.github.io/plant-humanities/images/ARTSTOR_103_41822000267326.jpg"></var> 
+<var data-image id="Early Classic Maya Bowl with Anthropomorphic Cacao Trees" title="Early Classic Maya Bowl with Anthropomorphic Cacao Trees" data-url="https://jstor-labs.github.io/plant-humanities/images/PC_B_208_S1.TIF"></var> 
 
 The presence of cacao in a remedy for hurt feet within the Badianus also wittily illustrates the realities of  indigenous  Mesoamerican lifeways. Without beasts of burden, the  long-distance transport of cacao from the neotropics to Tenochtitlan, the Mexica capital, would have certainly caused one’s feet to ache.  For example, in  Hernán Cortés’ conquistador accounts, several regions are recognized for their tribute of cacao to the Mexica empire including  Huauthla,  Soconusco, and  Cotaxtla, all of which are hundreds of miles from Tenochtitlan.[^ref8]
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
@@ -159,11 +166,27 @@ The presence of cacao in a remedy for hurt feet within the Badianus also wittily
 <var data-image id="bhl-83672" title="Tribute list from Cortes' accounts" data-url="https://www.biodiversitylibrary.org/page/44975898" data-region="0,0,0,0"></var>
      
 We learn from many other early colonial documents that roasted cacao beans were used as a currency throughout Mesoamerica, highlighting how  important a  trade good  this plant would have been by the time Europeans arrived. This relationship between long-distance trade and cacao is also reflected in the ancient Maya God L, who is typically depicted in relation to cacao and merchant regalia.[^ref9] Such an ancient  association of  commerce with cacao emphasizes the deep history of long-distance trade of the plant between the many regions of Mesoamerica.
-<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
+<var data-primary="image"></var>
+<var data-map title="World" data-center="18.272589, -89.635020" data-zoom="6"></var>
  <var data-map-layer
+     title="Mesoamerica"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
+	data-active="true"></var>
+<var data-map-layer
+     title="Mexica"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
+     data-active="true"></var>
+     <var data-map-layer
      title="Maya"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maya.geojson"
+     data-active="true"></var>
+     <var data-map-layer
+     title="Olmec"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Olmec.geojson"
      data-active="true"></var>
 <var data-image-viewer></var>  
 <var data-image id="Roasted cacao as currency" title="Roasted cacao as currency" data-url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Cacao-moneda.jpg"></var>
@@ -180,6 +203,21 @@ Ultimately, the importance of cacao within political, social, and economic realm
      title="Central American Neotropics"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson"
+     data-active="true"></var>
+     <var data-map-layer
+     title="Mexica"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
+     data-active="true"></var>
+     <var data-map-layer
+     title="Maya"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maya.geojson"
+     data-active="true"></var>
+     <var data-map-layer
+     title="Olmec"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Olmec.geojson"
      data-active="true"></var>
 <var data-image-viewer></var>
 <var data-image id="hollis-459304944" title="Classic Maya Buenavista Cylinder Vase" data-url="https://ids.lib.harvard.edu/ids/iiif/459304944/full/full/0/default.jpg" data-region="0,0,0,0"></var>
@@ -269,7 +307,7 @@ In his text, Benzoni refers to the use of cacao as money and describes the metho
 ### Conclusion
 
 The political and economic powers of Europe took note of these early accounts of cacao as monetarily and ideological valuable and, by the 17th  century, international markets were emerging, maintained largely through African slave labor.[^ref15],[^ref16] The tastes of returning merchants and clergy, as well as its reported medicinal properties, allowed cacao to take off in Spain by the early 17th century.[^ref17],[^ref18] In other parts of Europe, cacao and its associated dishware featured prominently in elite networks, invoking ideologies rooted in distant places and eras of Mesoamerica. At a time when curiosities fueled the exploration and description of the natural and cultural world, cacao featured quite prominently as a curio to add to royal cabinets.[^ref19] Cacao also found its way into commercial products meant to entice the common palate including the many chocolate bars, desserts, and drinks we know and love today. Cacao continues to be grown in the tropics across the world, both for global and local markets.[^ref20][^ref21] The ideological association of cacao with subsistence, prestige, and trade has continued across millennia and cultures, making the power and appeal of cacao truly timeless and global.
-<var data-map title="World" data-center="23.530645, -40.108534" data-zoom="2"></var>
+<var data-map title="World" data-center="29.187255, -10.812716" data-zoom="1"></var>
 <var data-map-layer
      title="Current _Theobroma cacao_ Distribution"
      data-type="geojson"
