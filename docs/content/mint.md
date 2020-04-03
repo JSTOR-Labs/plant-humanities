@@ -93,9 +93,9 @@ Despite not being native to North America, peppermint and peppermint oil in part
 
 American colonists were quick to recognize the commercial opportunity presented by locally producing peppermint oil rather than importing it from Britain, no doubt due in part to the ease of growing mint in a variety of environments. Unlike other varieties of mint, the peppermint plant would have been propagated in early America using root cuttings probably from a small number of original plants in England. Commercial peppermint production then, gradually shifted from England to America from the 1750s and likewise, records of peppermint fields in North America show that the first were found near Ashfield in Franklin country, Massachusetts. Mint was later farmed in northern New York and New Jersey. In these early days, essence <var data-scope="element" id="Q638172">peddlers</var> ensured that peppermint was part of a widespread production and distribution network.[^ref12]
 <var data-map title="New England" data-center="42.566426,-71.751354" data-zoom="4"></var>
-<var title="Ashfield" id="Q2536103" data-fill="#2d862d" data-marker-symbol="pagelines"></var>
-<var title="New York State" id="Q1384" data-fill="#2d862d" data-marker-symbol="pagelines"></var>
-<var title="New Jersey" id="Q1408" data-fill="#2d862d" data-marker-symbol="pagelines"></var>
+<var title="Ashfield" id="Q2536103" data-fill="#2d862d" data-marker-symbol="tractor"></var>
+<var title="New York State" id="Q1384" data-fill="#2d862d" data-marker-symbol="tractor"></var>
+<var title="New Jersey" id="Q1408" data-fill="#2d862d" data-marker-symbol="tractor"></var>
 
 By the mid-1850s, America’s mint industry was focused in [Wayne County, New York](https://en.wikipedia.org/wiki/Wayne_County,_New_York). Up until this time peppermint oil was valued for its therapeutic properties. However as American medicine developed according to new scientific knowledge, herbal remedies lost their popularity and peppermint oil needed a new market. American peppermint would become a popular flavor for confectionary on local and global scales.[^ref13]
 <var data-primary="image"></var>
