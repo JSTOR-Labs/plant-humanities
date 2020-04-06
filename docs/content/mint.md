@@ -24,7 +24,7 @@ Some scents regularly appear in our daily lives and give us a sense of familiari
 
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
 <var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdisAmericaNew.geojson data-active="true"></var>
-<var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdistribution2.geojson data-active="true"></var>
+<!--<var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdistribution2.geojson data-active="true"></var>-->
 
 ### Mythology
 
