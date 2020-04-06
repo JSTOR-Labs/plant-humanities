@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#ff9300",
         "marker-size": "large",
-        "marker-symbol": "library"
+        "marker-symbol": "books"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +21,7 @@
       "properties": {
         "marker-color": "#ff9300",
         "marker-size": "large",
-        "marker-symbol": "library"
+        books"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +36,7 @@
       "properties": {
         "marker-color": "#ff9300",
         "marker-size": "large",
-        "marker-symbol": "library"
+        "marker-symbol": "books"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +51,7 @@
       "properties": {
         "marker-color": "#ff9300",
         "marker-size": "large",
-        "marker-symbol": "library"
+        "marker-symbol": "books"
       },
       "geometry": {
         "type": "Point",
