@@ -21,8 +21,9 @@ Some scents regularly appear in our daily lives and give us a sense of familiari
 <var data-image id="mentha piperita" title="Peppermint" data-url="https://upload.wikimedia.org/wikipedia/commons/5/50/Mentha_x_piperita_002.JPG"></var>
 <var data-image id="Mentha spicata" title="Spearmint" url="https://upload.wikimedia.org/wikipedia/commons/6/69/Flowers_of_the_spearmint.JPG"></var>
 <var data-image id="Mentha pulegium" title="Pennyroyal" url="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gardenology.org-IMG_2751_rbgs11jan.jpg"></var>
+
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
-<var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdistribution.geojson data-active="true"></var>
+<var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdisAmericaNew.geojson data-active="true"></var>
 <var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdistribution2.geojson data-active="true"></var>
 
 ### Mythology
