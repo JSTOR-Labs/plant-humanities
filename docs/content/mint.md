@@ -23,8 +23,8 @@ Some scents regularly appear in our daily lives and give us a sense of familiari
 <var data-image id="Mentha pulegium" title="Pennyroyal" url="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gardenology.org-IMG_2751_rbgs11jan.jpg"></var>
 
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
-<var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdisAmericaNew.geojson data-active="true"></var>
-<!--<var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdistribution2.geojson data-active="true"></var>-->
+<var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/globalmintdis.geojson data-active="true"></var>
+
 
 ### Mythology
 
@@ -123,11 +123,10 @@ Over time, American mint oil production would spread westwards from the east coa
 
 The mint industry in Washington and Oregon would go on to develop in line with sophisticated mechanical planting techniques and harvesting equipment. More recently, Washington farmers have faced increasing competition from China and India, who appear able to supply the shifting consumer taste for a stronger mint flavor which cannot be easily provided by the peppermint species.
 <var data-map id="China-map" data-center="33.541631,105.350142" data-zoom="4"></var>
-<var title="China" id="Q148" data-fill="#2d862d" data-marker-symbol="leaf"></var>
 <var data-map-layer
 title="China"
 data-type="geojson"
-data-url="https://jstor-labs.github.io/plant-humanities/geojson/ChinaIndia.json"
+data-url="https://jstor-labs.github.io/plant-humanities/geojson/chinaIndia.geojson"
 data-active="true"></var>
 
 
@@ -143,12 +142,12 @@ The example of the mint market in British North American colonies and the early 
 <var data-image id="Toothpaste" title="Toothpaste" url="https://upload.wikimedia.org/wikipedia/commons/4/49/Toothpasteonbrush.jpg" data-region=""></var>
 
 Today, mint varieties are cultivated in many different parts of the world. Mint’s seemingly ‘cosmopolitan distribution’ means that its range extends across the world where there are appropriate habitats for it to flourish. Mints thrive when near water which means that lakes, rivers and even spaces in shade enable this fast-growing plant to be grown all year round. For example, wild mint ([*Mentha* arvensis](https://plants.jstor.org/stable/10.5555/al.ap.specimen.k000929997?searchUri=filter%3Dname%26so%3Dps_group_by_genus_species%2Basc%26Query%3DMentha%2Barvensis)) is cultivated on a huge scale in Brazil, China, Paraguay, Japan, Thailand, Angola and India.[^ref16] In this way, peppermint production in America, spreading across the breadth of the country over time, is a microcosm of the pattern of mint distribution across the world.
-
-Mint is ubiquitous, and perhaps that is because it has remained relevant across time and space. Here, mint reveals something of the early difficulties of botanical exchange and naming, it speaks to the local and global movement of plants; it exposes changes and developments in medical thought and practices over time (the changing popularity of herbal remedies for example), and it continues to play a role in global consumer markets and advertising. Mint, in other words, will always be relevant for historical, cultural and geographical studies. And as Haides called the plant forth to ensure that Mintha would never be forgotten, we too are constantly reminded of this plant as we go about our daily lives.
 <var data-primary="map"></var>
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
-<var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdistribution.geojson data-active="true"></var>
-<var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mdistribution2.geojson data-active="true"></var>
+<var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/globalmintdis.geojson data-active="true"></var>
+
+Mint is ubiquitous, and perhaps that is because it has remained relevant across time and space. Here, mint reveals something of the early difficulties of botanical exchange and naming, it speaks to the local and global movement of plants; it exposes changes and developments in medical thought and practices over time (the changing popularity of herbal remedies for example), and it continues to play a role in global consumer markets and advertising. Mint, in other words, will always be relevant for historical, cultural and geographical studies. And as Haides called the plant forth to ensure that Mintha would never be forgotten, we too are constantly reminded of this plant as we go about our daily lives.
+
 
 ### References
 
