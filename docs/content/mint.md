@@ -115,8 +115,8 @@ Over time, American mint oil production would spread westwards from the east coa
 <var title="Michigan" id="Q1166"></var>
 <var title="Willamette" id="Q1703681"></var>
 <var title="Puget Island" id="Q3593402"></var>
-<var data-map-layer title="North America" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mintNAmerica.geojson data-active="true"></var>
-<var data-map-layer title="North America" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mintinNAmerica.geojson data-active="true"></var>
+<var data-map-layer title="North America" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mintNamerica.geojson data-active="true"></var>
+<!--<var data-map-layer title="North America" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mintinNAmerica.geojson data-active="true"></var>-->
 
 
 
