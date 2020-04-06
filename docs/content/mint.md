@@ -93,6 +93,7 @@ Despite not being native to North America, peppermint and peppermint oil in part
 ‘Essence of peppermint’ was regularly imported to America from London and according to research undertaken by Dan Allosso in 2017, advertisements for peppermint products in American newspapers appeared in the thousands between 1750 and 1800. In fact the [American Antiquarian Society](https://www.americanantiquarian.org/) shows almost 3000 advertisements appeared in over 70 newspapers printed in each of the original thirteen colonies. Physicians and apothecaries ‘used and sold peppermint-based products in every major city in every colony’.[^ref11]
 <var data-map title="World" data-center="37.874967,-41.896891" data-zoom="3"></var>
 <var data-map-layer title="Atlantic" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mintBrUSline.geojson data-active="true"></var>
+<var title="colonies" id="Q179997" data-fill="#5C6609" data-marker-symbol="leaf"></var>
 
 <!--insert images of mint oil advertisements here-->
 
