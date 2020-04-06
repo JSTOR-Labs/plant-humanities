@@ -103,7 +103,7 @@ American colonists were quick to recognize the commercial opportunity presented 
 <var title="New York State" id="Q1384" data-fill="#2d862d" data-marker-symbol="leaf"></var>
 <var title="New Jersey" id="Q1408" data-fill="#2d862d" data-marker-symbol="leaf"></var>
 
-By the mid-1850s, America’s mint industry was focused in [Wayne County, New York](https://en.wikipedia.org/wiki/Wayne_County,_New_York). Up until this time peppermint oil was valued for its therapeutic properties. However as American medicine developed according to new scientific knowledge, herbal remedies lost their popularity and peppermint oil needed a new market. American peppermint would become a popular flavor for confectionary on local and global scales.[^ref13]
+By the mid-1850s, America’s mint industry was focused in <var data-scope="element" id="Q56146">Wayne County, New York</var>. Up until this time peppermint oil was valued for its therapeutic properties. However as American medicine developed according to new scientific knowledge, herbal remedies lost their popularity and peppermint oil needed a new market. American peppermint would become a popular flavor for confectionary on local and global scales.[^ref13]
 <var data-primary="image"></var>
 <var data-image id="Triunfo" title="Triunfo mints, 20th century" data-url="https://upload.wikimedia.org/wikipedia/commons/a/af/01033B.jpg" data-region=""></var>
 <var data-image id="Candy cane" title="A Christmas card image of candy canes from the early 1900s" data-url="https://upload.wikimedia.org/wikipedia/commons/8/8d/Candy_cane_William_B_Steenberge_Bangor_NY_1844-1922.jpg" data-region=""></var>
