@@ -84,7 +84,7 @@ According to the account published by Ramusio, the tree used to cure the French 
 
 Through linguistic, botanical, and historical analysis numerous trees have been put forward as the miraculous tree that saved Cartier and his men – the fir (*Abies balsamea*), the white spruce (*Picea glauca*), the red spruce (*Picea rubens*), epinettenoire (*Picea mariana*), white pine (*Pinus strobus*), red pine (*Pinus resinosa*), white cedar (*Thuja occidentalis*), hemlock (*Tsuga canadensis*), and even sassafras (*Sassafras albidum*), although it is generally agreed that based on sixteenth-century descriptions and its natural distribution, sassafras is impossible.
 <var data-primary="image"></var>
-<var data-image id="Kew plants of the world" title="Abies Balsamea Kew" data-url="images/Abies_balsamea.jpg" data-region=""></var>
+<var data-image id="Kew plants of the world" title="Abies Balsamea Kew" data-url="https://jstor-labs.github.io/plant-humanities/images/Abies_balsamea.jpg" data-region=""></var>
 
 Sixteenth and seventeenth-century European herbals consistently describe the tree of life as a *“Thuja”* (a genus of coniferous trees) or similar to a cypress, without fruit (although the cone is now considered a fruit), and very aromatic. From this we can conclude that the tree of life was indeed an evergreen coniferous tree native to the area around present-day Quebec.
 <var data-map title="Gulf of Saint Lawrence" data-center="42.655350,-74.715453" data-zoom="4"></var>
