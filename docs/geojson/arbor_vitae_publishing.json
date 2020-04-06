@@ -21,7 +21,7 @@
       "properties": {
         "marker-color": "#ff9300",
         "marker-size": "large",
-        books"
+        "marker-symbol": "books"
       },
       "geometry": {
         "type": "Point",
