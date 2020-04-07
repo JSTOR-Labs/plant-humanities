@@ -17,9 +17,9 @@ However, despite Linnaean taxonomy’s international acceptance and longevity, L
 <var data-image id="Musa by Ehret" title="Banana plant (Musa species):flowering and fruiting plant with stolons and separate floral segments and sectioned fruit, also a description of the plant's growth, anatomical labels and a scale bar. Etching by G. D. Ehret, c. 1742" data-url="https://iiif.wellcomecollection.org/image/V0043033.jpg/full/2048%2C/0/default.jpg" data-region=""></var>
 
 ### Bananas, the First GMO?
-Bananas are herbaceous plants, not trees, and while they resemble palms, they are not related. When the plant matures, it begins to form a large inflorescence, which produces both male and female flowers. As the inflorescence grows, a softball-size magenta bud (or _spathe_) forms at the end, weighing down the branched . Petal-like bracts grow between the overlapping scales surrounding the bud. These fall away to reveal clusters of female (_pistillate_) flowers. Oblong fruit emerge from the base of the flowers. While the spadix continues to grow and droops under the weight of the _spathe_ (the male bud), the tips of the fruit grow towards the sun, giving bananas their distinctive curved shape.
+Bananas are herbaceous plants, not trees, and while they resemble palms, they are not related. When the plant matures, it begins to form a large inflorescence, which produces both male and female flowers. As the inflorescence grows, a softball-size magenta bud (or _spathe_) forms at the end, weighing down the branched spadix. Petal-like bracts grow between the overlapping scales surrounding the bud. These fall away to reveal clusters of female (_pistillate_) flowers. Oblong fruit emerge from the base of the flowers. While the spadix continues to grow and droops under the weight of the _spathe_ (the male bud), the tips of the fruit grow towards the sun, giving bananas their distinctive curved shape.
 <var data-primary="image"></var>
-<var data-image id="Banana Diagram" title="Parts of the Banana Plant" data-url="https://www.brainkart.com/media/extra2/WjWoeWF.jpg" data-region=""></var>
+<var data-image id="Banana Diagram" title="Parts of the Banana Plant" data-url="http://www.brainkart.com/media/article/article-Botanical-Descriptio-A0V.png" data-region=""></var>
 
 Prior to domestication, wild banana fruits were incredibly seedy and difficult to eat. Scientists now believe that many wild bananas had a genetic predisposition to parthenocarpy, that is the ability to produce fruit without fertilization. Beginning some 7,000 years ago, human selection for parthenocarpy, along with the suppression of seeds by selecting and hybridizing for sterility, resulted in bananas that were sterile and produced fruits that were seedless. Since sterile bananas were easier to eat, humans began propagating wild banana hybrids with these mutations. To propagate a sterile plant, humans “cloned” bananas by collecting and planting the “ramets” or “suckers” of the original plant.
 <var data-primary="image"></var>
@@ -102,10 +102,10 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTc4NzIxMSwtMTI2OTEyOTQyNSw5Nz
-QxNjEzMDksNDA2NzQxNTg0LDUwMzM4MzM1NywtMjk3NzgzMTE1
-LC01NDc4Njk4MjAsMTExOTA2ODQ5OCw5MDc0MTg0NjQsLTEyNj
-E1ODAyMTEsMTI3ODM3MTQwMiwxNzk3MDI5MDQyLDkxMjE2OTE0
-MCwtNTc1MjY0MDUxLDE1MTc0OTMzNzYsLTMwNjk3NTkwLC0xND
-c0OTIzMDMwLDc1MTQwMjEwNF19
+eyJoaXN0b3J5IjpbMTc5NjI4NTQ2MywtNTU1Nzg3MjExLC0xMj
+Y5MTI5NDI1LDk3NDE2MTMwOSw0MDY3NDE1ODQsNTAzMzgzMzU3
+LC0yOTc3ODMxMTUsLTU0Nzg2OTgyMCwxMTE5MDY4NDk4LDkwNz
+QxODQ2NCwtMTI2MTU4MDIxMSwxMjc4MzcxNDAyLDE3OTcwMjkw
+NDIsOTEyMTY5MTQwLC01NzUyNjQwNTEsMTUxNzQ5MzM3NiwtMz
+A2OTc1OTAsLTE0NzQ5MjMwMzAsNzUxNDAyMTA0XX0=
 -->
