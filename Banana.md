@@ -114,6 +114,13 @@ While the adoption of the Arabic word for banana provided some standardization o
 ### Banana Republics
 
 By the seventeenth century, bananas had spread throughout the Caribbean and the tropics of Central and South America, becoming a dietary staple along the way. While bananas were known to Europeans through herbals, natural histories, and travel narratives, they remained a rarity on the continent—a lush, exotic fruit only travelers enjoyed. 
+<var data-primary="map"></var>
+<var data-map title="New World" data-center="39.066017, 15.997291" data-zoom="3"></var>
+<var data-map-layer
+	title="Bananas in Latin America"
+	data-type="geojson"
+	data-url="https://jstor-labs.github.io/plant-humanities/geojson/banana_distribution_LA.json"
+	data-active="true"></var>
 
 Even Linnaeus had to rely on the garden and hothouse of the wealthy financier and director of the Dutch East India Company, George Clifford (1685-1760), to see and study a live banana plant. At his estate in Hartenkamp, Holland, and with the assistance of Linnaeus, Clifford successfully flowered a hybrid of _Musa acuminate_ and _Musa balbisiana_. The successful flowering and subsequent fruiting of the rare and exotic banana plant was so momentous that Linnaeus wrote a treatise on the plant, _Musa Cliffortiana_, published in 1736. That same year marked the arrival of the German botanical artist Georg Ehret to Hartekamp. Ehret would provide the illustrations of Clifford’s flowering banana plant for the treatise as well as go on to diagram Linnaeus’s new plant classification system. It was also at the direction of Linnaeus, Ehret began adding details of the plant’s reproductive structures, or flowers, creating a new standard for botanical illustrations.
 
@@ -130,11 +137,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY2NzgyNzEsODY4MzUyNDc3LDE3MD
-kxODI2NDEsMTU1OTE3MDU0MiwtMjM5OTkwMTUxLC04NDY0NDAy
-MzksNzU3NzQzMjAxLC0yMTE5ODA0MzkzLDg2NTIzNjUyNiwtNj
-I1MTQ4ODkwLC0xNjc3MjA4OTY0LC0yMjI0MTM1OCwxMzE0OTQ1
-MjM1LDE3OTYyODU0NjMsLTU1NTc4NzIxMSwtMTI2OTEyOTQyNS
-w5NzQxNjEzMDksNDA2NzQxNTg0LDUwMzM4MzM1NywtMjk3Nzgz
-MTE1XX0=
+eyJoaXN0b3J5IjpbLTE0NjM5NjY1ODUsLTE4NjY2NzgyNzEsOD
+Y4MzUyNDc3LDE3MDkxODI2NDEsMTU1OTE3MDU0MiwtMjM5OTkw
+MTUxLC04NDY0NDAyMzksNzU3NzQzMjAxLC0yMTE5ODA0MzkzLD
+g2NTIzNjUyNiwtNjI1MTQ4ODkwLC0xNjc3MjA4OTY0LC0yMjI0
+MTM1OCwxMzE0OTQ1MjM1LDE3OTYyODU0NjMsLTU1NTc4NzIxMS
+wtMTI2OTEyOTQyNSw5NzQxNjEzMDksNDA2NzQxNTg0LDUwMzM4
+MzM1N119
 -->
