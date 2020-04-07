@@ -108,6 +108,8 @@ The term “musa” was also used by the Flemish physician and botanist Rembert 
 <var data-image id="bhl-6726349" title="Dodoens Musa" data-url="https://www.biodiversitylibrary.org/pageimage/6726349" data-region=""></var>
 
 While the adoption of the Arabic word for banana provided some standardization of nomenclature, it was far from universally used. In fact, numerous names, sometimes contradictory, were given for banana. Confusing matters further was the enduring description as banana, not the fig or apple, as the forbidden fruit of the garden of Eden. In sixteenth century herbals, almost every author, including Mattioli, Acosta, Dodoens, Clusius, and Cesalpino, described the banana plant as the tree growing in the Garden of Eden. The persistence of this tradition continued well into the eighteenth century. Even Linnaeus, in his treatise on the banana palm, weighed in on the topic, ultimately dismissing the idea as a metaphor in his penultimate chapter. Finally, thanks to their geographic origin and early association with palm trees and dates, and enduring associations with the Garden of Eden, bananas were also often referred to as “Indian figs.”
+<var data-primary="image"></var>
+<var data-image id="Banana Names" title="Words for banana across cultures" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Names%20for%20Banana.jpg" data-region=""></var>
 
 ### Banana Republics
 
@@ -126,11 +128,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTE4MjY0MSwxNTU5MTcwNTQyLC0yMz
-k5OTAxNTEsLTg0NjQ0MDIzOSw3NTc3NDMyMDEsLTIxMTk4MDQz
-OTMsODY1MjM2NTI2LC02MjUxNDg4OTAsLTE2NzcyMDg5NjQsLT
-IyMjQxMzU4LDEzMTQ5NDUyMzUsMTc5NjI4NTQ2MywtNTU1Nzg3
-MjExLC0xMjY5MTI5NDI1LDk3NDE2MTMwOSw0MDY3NDE1ODQsNT
-AzMzgzMzU3LC0yOTc3ODMxMTUsLTU0Nzg2OTgyMCwxMTE5MDY4
-NDk4XX0=
+eyJoaXN0b3J5IjpbODY4MzUyNDc3LDE3MDkxODI2NDEsMTU1OT
+E3MDU0MiwtMjM5OTkwMTUxLC04NDY0NDAyMzksNzU3NzQzMjAx
+LC0yMTE5ODA0MzkzLDg2NTIzNjUyNiwtNjI1MTQ4ODkwLC0xNj
+c3MjA4OTY0LC0yMjI0MTM1OCwxMzE0OTQ1MjM1LDE3OTYyODU0
+NjMsLTU1NTc4NzIxMSwtMTI2OTEyOTQyNSw5NzQxNjEzMDksND
+A2NzQxNTg0LDUwMzM4MzM1NywtMjk3NzgzMTE1LC01NDc4Njk4
+MjBdfQ==
 -->
