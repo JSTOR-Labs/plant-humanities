@@ -83,13 +83,15 @@ During this early period of renewed European interest in the banana, there was g
 <var data-primary="image"></var>
 <var data-image id="Banana Orta" title="Coloquios dos simples e drogas da India" data-url="https://bibdigital.rjb.csic.es/i/?IIIF=/38/80/3b/be/38803bbe-3f4e-4f89-8df9-ac2ca5166d2e/iiif/ORT_Col_Simpl_Drog_1_000353.tif/183.5728155339806,107.65714285714286,1120.4271844660193,1573.6941176470586/!354,497/0/default.jpg" data-region=""></var>
 
-The most influential European author of the period, Italian physician Pietro Andrea Mattioli, referred to the banana plant as “musa” and the individual fruits as “muse” in his seminal herbal published in 1554. Musa, which was eventually adopted by Linnaeus as the name of the genus, is believed to be an adaptation the Arabic word for banana, “_mauz_” or “_mawzah_.” Italian physicians and naturalists like Mattioli, adopted the Arabic name for banana since it was through contact with the Islamic territories  in the late Middle Ages, as well as the writings of Islamic physicians such as Avicenna, that Italy was first introduced to the plant. Although Mattioli did not mention or describe the “musa tree” in the first edition of his famous herbal, as later edition in Latin (1554) is likely the first European herbal to describe banana.
+The most influential European author of the period, Italian physician Pietro Andrea Mattioli, referred to the banana plant as “musa” and the individual fruits as “muse” in his seminal herbal published in 1554. Musa, which was eventually adopted by Linnaeus as the name of the genus, is believed to be an adaptation the Arabic word for banana, “_mauz_” or “_mawzah_.”  
+
+Italian physicians and naturalists like Mattioli, adopted the Arabic name for banana since it was through contact with the Islamic territories  in the late Middle Ages, as well as the writings of Islamic physicians such as Avicenna, that Italy was first introduced to the plant. Although Mattioli did not mention or describe the “musa tree” in the first edition of his famous herbal, as later edition in Latin (1554) is likely the first European herbal to describe banana.
 <var data-primary="map"></var>
 <var data-map title="New World" data-center="24.249039, -53.380695" data-zoom="3"></var>
 <var data-map-layer
-	title="Bananas in Africa"
+	title="Bananas in Islamic Empire"
 	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/bananas_africa.json"
+	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Banana_Islamic_Empire.json"
 	data-active="true"></var>
 <var data-image id="Mattioli 1554" title="Mattioli, Pietro Andrea: Petri Andreae Matthioli ... Commentarii, in libros sex Pedacii Dioscoridis Anazarbei, de medica materia, adiectis quam plurimis plantarum & animalium imaginibus, eodem authore, Venetijs, 1554" data-url="http://bsb3.bsb.lrz.de/~db/1013/bsb10139456/images/bsb10139456_00182.jpg" data-region=""></var>
 
@@ -117,11 +119,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjQ0MDIzOSw3NTc3NDMyMDEsLTIxMT
-k4MDQzOTMsODY1MjM2NTI2LC02MjUxNDg4OTAsLTE2NzcyMDg5
-NjQsLTIyMjQxMzU4LDEzMTQ5NDUyMzUsMTc5NjI4NTQ2MywtNT
-U1Nzg3MjExLC0xMjY5MTI5NDI1LDk3NDE2MTMwOSw0MDY3NDE1
-ODQsNTAzMzgzMzU3LC0yOTc3ODMxMTUsLTU0Nzg2OTgyMCwxMT
-E5MDY4NDk4LDkwNzQxODQ2NCwtMTI2MTU4MDIxMSwxMjc4Mzcx
-NDAyXX0=
+eyJoaXN0b3J5IjpbLTIzOTk5MDE1MSwtODQ2NDQwMjM5LDc1Nz
+c0MzIwMSwtMjExOTgwNDM5Myw4NjUyMzY1MjYsLTYyNTE0ODg5
+MCwtMTY3NzIwODk2NCwtMjIyNDEzNTgsMTMxNDk0NTIzNSwxNz
+k2Mjg1NDYzLC01NTU3ODcyMTEsLTEyNjkxMjk0MjUsOTc0MTYx
+MzA5LDQwNjc0MTU4NCw1MDMzODMzNTcsLTI5Nzc4MzExNSwtNT
+Q3ODY5ODIwLDExMTkwNjg0OTgsOTA3NDE4NDY0LC0xMjYxNTgw
+MjExXX0=
 -->
