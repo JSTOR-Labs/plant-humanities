@@ -58,7 +58,7 @@ From the Philippines and Papua New Guinea, domesticated parthenocarpic bananas t
 	data-active="true"></var>
 
 Europeans first encountered bananas, or accounts of the plant, through Alexander the Great’s Asiatic campaign in 331-323 BCE. According to Theophrastus and Pliny, one of the plants Alexander saw, recorded, and brought back to Asia Minor was the banana (some sort of Musa species). Unfortunately, Europeans had neither the climate to grow bananas nor the proximity to their natural habitat to import the fresh fruit. So, while bananas became a staple food crop in Africa, India, Southeast Asia, and the Pacific, they remained an exotic curiosity in Europe.
-<var data-map title="New World" data-center="35.940967, 54.291270" data-zoom="3"></var>
+<var data-map title="New World" data-center="35.940967, 54.291270" data-zoom="3.5"></var>
 <var data-map-layer
 	title="Banana Origin and Distribution"
 	data-type="geojson"
@@ -141,11 +141,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1MTU1OTA3LC0xODY2Njc4MjcxLDg2OD
-M1MjQ3NywxNzA5MTgyNjQxLDE1NTkxNzA1NDIsLTIzOTk5MDE1
-MSwtODQ2NDQwMjM5LDc1Nzc0MzIwMSwtMjExOTgwNDM5Myw4Nj
-UyMzY1MjYsLTYyNTE0ODg5MCwtMTY3NzIwODk2NCwtMjIyNDEz
-NTgsMTMxNDk0NTIzNSwxNzk2Mjg1NDYzLC01NTU3ODcyMTEsLT
-EyNjkxMjk0MjUsOTc0MTYxMzA5LDQwNjc0MTU4NCw1MDMzODMz
-NTddfQ==
+eyJoaXN0b3J5IjpbLTQ2NTAxODQ4Niw3MDUxNTU5MDcsLTE4Nj
+Y2NzgyNzEsODY4MzUyNDc3LDE3MDkxODI2NDEsMTU1OTE3MDU0
+MiwtMjM5OTkwMTUxLC04NDY0NDAyMzksNzU3NzQzMjAxLC0yMT
+E5ODA0MzkzLDg2NTIzNjUyNiwtNjI1MTQ4ODkwLC0xNjc3MjA4
+OTY0LC0yMjI0MTM1OCwxMzE0OTQ1MjM1LDE3OTYyODU0NjMsLT
+U1NTc4NzIxMSwtMTI2OTEyOTQyNSw5NzQxNjEzMDksNDA2NzQx
+NTg0XX0=
 -->
