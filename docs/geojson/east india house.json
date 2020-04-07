@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#5c6609",
-        "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-size": "large",
+        "marker-symbol": "warehouse"
       },
       "geometry": {
         "type": "Point",
