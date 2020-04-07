@@ -13,6 +13,8 @@ In 1753 Carl Von Linnaean’s seminal work, _Systema Naturae,_ formalized a syst
 <var data-image id="Linnaen system by Ehret" title=" Methodus Plantarum Sexualis, Ehret" data-url="https://upload.wikimedia.org/wikipedia/commons/9/99/Ehret-Methodus_Plantarum_Sexualis.jpg" data-region=""></var>
 
 However, despite Linnaean taxonomy’s international acceptance and longevity, Linnaeus’s system does have its limitations, which we can see in the case of the banana. This is because editable bananas are the product of a complex history of human dependency and exploitation. Linnaeus did not consider domesticated plants species, since they were the product of human manipulation. The two “wild” species of banana identified by Linnaeus–_Musa paradisiaca_ and _Musa sapientum_—were in fact domesticated editable cultivars. Unfortunately, Linnaeus was unaware of the banana’s long and complex history.
+<var data-primary="image"></var>
+<var data-image id="Linnaen system by Ehret" title=" Methodus Plantarum Sexualis, Ehret" data-url="blob:null/9e877805-fe5e-7246-98ee-67124706e629" data-region=""></var>
 
 ### Bananas, the First GMO?
 Bananas are herbaceous plants, not trees, and while they resemble palms, they are not related. When the plant matures, it begins to form a large stem with a flower spike (or inflorescence) at the end. This large flower will eventually become a softball-size magenta bud. As the stem grows the large cone-shaped bud at the top weighs it down. Petal-like bracts grow between the overlapping scales surrounding the bud. These fall away to reveal clusters of flowers. Oblong fruit emerge from the base of the flowers. While the stem droops under the weight of the flower, and elongating male bud, the tips of the fruit grow towards the sun, giving bananas their distinctive curved shape.
@@ -96,8 +98,8 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3MDE0ODQxLDExMTkwNjg0OTgsOTA3ND
-E4NDY0LC0xMjYxNTgwMjExLDEyNzgzNzE0MDIsMTc5NzAyOTA0
-Miw5MTIxNjkxNDAsLTU3NTI2NDA1MSwxNTE3NDkzMzc2LC0zMD
-Y5NzU5MCwtMTQ3NDkyMzAzMCw3NTE0MDIxMDRdfQ==
+eyJoaXN0b3J5IjpbLTMwNzA0NzQ0NCwxMTE5MDY4NDk4LDkwNz
+QxODQ2NCwtMTI2MTU4MDIxMSwxMjc4MzcxNDAyLDE3OTcwMjkw
+NDIsOTEyMTY5MTQwLC01NzUyNjQwNTEsMTUxNzQ5MzM3NiwtMz
+A2OTc1OTAsLTE0NzQ5MjMwMzAsNzUxNDAyMTA0XX0=
 -->
