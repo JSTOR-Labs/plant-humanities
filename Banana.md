@@ -113,7 +113,9 @@ While the adoption of the Arabic word for banana provided some standardization o
 
 ### Banana Republics
 
-By the seventeenth century, bananas had spread throughout the Caribbean and the tropics of Central and South America, becoming a dietary staple along the way. While bananas were known to Europeans through herbals, natural histories, and travel narratives, they remained a rarity on the continent—a lush, exotic fruit only travelers enjoyed. Even Linnaeus had to rely on the garden and hothouse of the wealthy financier and director of the Dutch East India Company, George Clifford (1685-1760), to see and study a live banana plant. At his estate in Hartenkamp, Holland, and with the assistance of Linnaeus, Clifford successfully flowered a hybrid of _Musa acuminate_ and _Musa balbisiana_. The successful flowering and subsequent fruiting of the rare and exotic banana plant was so momentous that Linnaeus wrote a treatise on the plant, _Musa Cliffortiana_, published in 1736. That same year marked the arrival of the German botanical artist Georg Ehret to Hartekamp. Ehret would provide the illustrations of Clifford’s flowering banana plant for the treatise as well as go on to diagram Linnaeus’s new plant classification system. It was also at the direction of Linnaeus, Ehret began adding details of the plant’s reproductive structures, or flowers, creating a new standard for botanical illustrations.
+By the seventeenth century, bananas had spread throughout the Caribbean and the tropics of Central and South America, becoming a dietary staple along the way. While bananas were known to Europeans through herbals, natural histories, and travel narratives, they remained a rarity on the continent—a lush, exotic fruit only travelers enjoyed. 
+
+Even Linnaeus had to rely on the garden and hothouse of the wealthy financier and director of the Dutch East India Company, George Clifford (1685-1760), to see and study a live banana plant. At his estate in Hartenkamp, Holland, and with the assistance of Linnaeus, Clifford successfully flowered a hybrid of _Musa acuminate_ and _Musa balbisiana_. The successful flowering and subsequent fruiting of the rare and exotic banana plant was so momentous that Linnaeus wrote a treatise on the plant, _Musa Cliffortiana_, published in 1736. That same year marked the arrival of the German botanical artist Georg Ehret to Hartekamp. Ehret would provide the illustrations of Clifford’s flowering banana plant for the treatise as well as go on to diagram Linnaeus’s new plant classification system. It was also at the direction of Linnaeus, Ehret began adding details of the plant’s reproductive structures, or flowers, creating a new standard for botanical illustrations.
 
 It was not until the nineteenth century with the developments of steamships and refrigeration, however, that the banana would become a major global trade commodity. Thanks to these innovations, bananas began pouring into American cities after the Civil War. In Reconstruction America, bananas became increasingly popular as they were seen as a healthy and affordable commodity. Eventually, small-scale, independent cultivation was consolidated and replaced by large-scale production conglomerates, such as the United Fruit Company (UFC). Conglomerates like the UFC focused on cultivation practices and varietals that were easier to ship, more profitable, and desired by consumers. Overtime, one selected mutation of one banana cultivar in particular came to dominate the market, the Gros Michel, thanks to its hardy peel and sweet taste. Monocultures of Gros Michel swiftly supplanted most other banana cultivars in Latin America produced for the American and European markets.
 
@@ -128,11 +130,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MzUyNDc3LDE3MDkxODI2NDEsMTU1OT
-E3MDU0MiwtMjM5OTkwMTUxLC04NDY0NDAyMzksNzU3NzQzMjAx
-LC0yMTE5ODA0MzkzLDg2NTIzNjUyNiwtNjI1MTQ4ODkwLC0xNj
-c3MjA4OTY0LC0yMjI0MTM1OCwxMzE0OTQ1MjM1LDE3OTYyODU0
-NjMsLTU1NTc4NzIxMSwtMTI2OTEyOTQyNSw5NzQxNjEzMDksND
-A2NzQxNTg0LDUwMzM4MzM1NywtMjk3NzgzMTE1LC01NDc4Njk4
-MjBdfQ==
+eyJoaXN0b3J5IjpbLTE4NjY2NzgyNzEsODY4MzUyNDc3LDE3MD
+kxODI2NDEsMTU1OTE3MDU0MiwtMjM5OTkwMTUxLC04NDY0NDAy
+MzksNzU3NzQzMjAxLC0yMTE5ODA0MzkzLDg2NTIzNjUyNiwtNj
+I1MTQ4ODkwLC0xNjc3MjA4OTY0LC0yMjI0MTM1OCwxMzE0OTQ1
+MjM1LDE3OTYyODU0NjMsLTU1NTc4NzIxMSwtMTI2OTEyOTQyNS
+w5NzQxNjEzMDksNDA2NzQxNTg0LDUwMzM4MzM1NywtMjk3Nzgz
+MTE1XX0=
 -->
