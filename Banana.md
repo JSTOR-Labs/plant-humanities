@@ -10,6 +10,10 @@ Everybody knows what a banana is. At least we think we do. Today, the banana is 
 ### What’s in a Name?
 In 1753 Carl Von Linnaean’s seminal work, _Systema Naturae,_ formalized a system of nomenclature that standardized plant names and botanical terminology among botanists. This system used Latin binomial names—the first name indicating the genus, and the second the species—to identify and classify all living organism in the natural world. Unlike earlier attempts to group or classify plants, Linnaeus’s system focused solely on the reproductive features of wild plants (not domesticated or manipulated by man) to characterize, organize, and group related plants. While Linnaeus’s system was an artificial structure of classification and hierarchical divisions placed on the plant world, it provided order and standardization from the chaos of plant names created by centuries of disparate European collecting and cataloguing of the plant world. Although not intact in its present form, the Linnaean system has remained largely unchallenged for nearly 250 years.
 
+
+https://upload.wikimedia.org/wikipedia/commons/9/99/Ehret-Methodus_Plantarum_Sexualis.jpg
+
+
 However, despite Linnaean taxonomy’s international acceptance and longevity, Linnaeus’s system does have its limitations, which we can see in the case of the banana. This is because editable bananas are the product of a complex history of human dependency and exploitation. Linnaeus did not consider domesticated plants species, since they were the product of human manipulation. The two “wild” species of banana identified by Linnaeus–_Musa paradisiaca_ and _Musa sapientum_—were in fact domesticated editable cultivars. Unfortunately, Linnaeus was unaware of the banana’s long and complex history.
 
 ### Bananas, the First GMO?
@@ -94,8 +98,8 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI4MzkzMjAsMTExOTA2ODQ5OCw5MD
-c0MTg0NjQsLTEyNjE1ODAyMTEsMTI3ODM3MTQwMiwxNzk3MDI5
-MDQyLDkxMjE2OTE0MCwtNTc1MjY0MDUxLDE1MTc0OTMzNzYsLT
-MwNjk3NTkwLC0xNDc0OTIzMDMwLDc1MTQwMjEwNF19
+eyJoaXN0b3J5IjpbMjAxNzAyMTg3MiwxMTE5MDY4NDk4LDkwNz
+QxODQ2NCwtMTI2MTU4MDIxMSwxMjc4MzcxNDAyLDE3OTcwMjkw
+NDIsOTEyMTY5MTQwLC01NzUyNjQwNTEsMTUxNzQ5MzM3NiwtMz
+A2OTc1OTAsLTE0NzQ5MjMwMzAsNzUxNDAyMTA0XX0=
 -->
