@@ -1,5 +1,6 @@
 [View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1CUNlxL1pArMUI7W3ozl6YfpOHi04hPqA)
 
+<var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
 
 ## Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy
 
@@ -125,11 +126,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTE3MDU0MiwtMjM5OTkwMTUxLC04ND
-Y0NDAyMzksNzU3NzQzMjAxLC0yMTE5ODA0MzkzLDg2NTIzNjUy
-NiwtNjI1MTQ4ODkwLC0xNjc3MjA4OTY0LC0yMjI0MTM1OCwxMz
-E0OTQ1MjM1LDE3OTYyODU0NjMsLTU1NTc4NzIxMSwtMTI2OTEy
-OTQyNSw5NzQxNjEzMDksNDA2NzQxNTg0LDUwMzM4MzM1NywtMj
-k3NzgzMTE1LC01NDc4Njk4MjAsMTExOTA2ODQ5OCw5MDc0MTg0
-NjRdfQ==
+eyJoaXN0b3J5IjpbMTcwOTE4MjY0MSwxNTU5MTcwNTQyLC0yMz
+k5OTAxNTEsLTg0NjQ0MDIzOSw3NTc3NDMyMDEsLTIxMTk4MDQz
+OTMsODY1MjM2NTI2LC02MjUxNDg4OTAsLTE2NzcyMDg5NjQsLT
+IyMjQxMzU4LDEzMTQ5NDUyMzUsMTc5NjI4NTQ2MywtNTU1Nzg3
+MjExLC0xMjY5MTI5NDI1LDk3NDE2MTMwOSw0MDY3NDE1ODQsNT
+AzMzgzMzU3LC0yOTc3ODMxMTUsLTU0Nzg2OTgyMCwxMTE5MDY4
+NDk4XX0=
 -->
