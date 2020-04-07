@@ -17,7 +17,7 @@ However, despite Linnaean taxonomy’s international acceptance and longevity, L
 <var data-image id="Musa by Ehret" title="Banana plant (Musa species):flowering and fruiting plant with stolons and separate floral segments and sectioned fruit, also a description of the plant's growth, anatomical labels and a scale bar. Etching by G. D. Ehret, c. 1742" data-url="https://iiif.wellcomecollection.org/image/V0043033.jpg/full/2048%2C/0/default.jpg" data-region=""></var>
 
 ### Bananas, the First GMO?
-Bananas are herbaceous plants, not trees, and while they resemble palms, they are not related. When the plant matures, it begins to form a large inflorescence, which produces both male and female flowers. As the inflorescence grows, a softball-size magenta bud (or _spathe_) forms at the end, weighing down the branched . Petal-like bracts grow between the overlapping scales surrounding the bud. These fall away to reveal clusters of female (_pistillate_) flowers. Oblong fruit emerge from the base of the flowers. While the spadix droops under the weight of the _spathe_, the male bud, the tips of the fruit grow towards the sun, giving bananas their distinctive curved shape.
+Bananas are herbaceous plants, not trees, and while they resemble palms, they are not related. When the plant matures, it begins to form a large inflorescence, which produces both male and female flowers. As the inflorescence grows, a softball-size magenta bud (or _spathe_) forms at the end, weighing down the branched . Petal-like bracts grow between the overlapping scales surrounding the bud. These fall away to reveal clusters of female (_pistillate_) flowers. Oblong fruit emerge from the base of the flowers. While the spadix continues to grow and droops under the weight of the _spathe_ (the male bud), the tips of the fruit grow towards the sun, giving bananas their distinctive curved shape.
 <var data-primary="image"></var>
 <var data-image id="Banana Diagram" title="Parts of the Banana Plant" data-url="https://www.brainkart.com/media/extra2/WjWoeWF.jpg" data-region=""></var>
 
@@ -100,10 +100,10 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTQ5MjU3MSw5NzQxNjEzMDksNDA2Nz
-QxNTg0LDUwMzM4MzM1NywtMjk3NzgzMTE1LC01NDc4Njk4MjAs
-MTExOTA2ODQ5OCw5MDc0MTg0NjQsLTEyNjE1ODAyMTEsMTI3OD
-M3MTQwMiwxNzk3MDI5MDQyLDkxMjE2OTE0MCwtNTc1MjY0MDUx
-LDE1MTc0OTMzNzYsLTMwNjk3NTkwLC0xNDc0OTIzMDMwLDc1MT
-QwMjEwNF19
+eyJoaXN0b3J5IjpbLTEyNjkxMjk0MjUsOTc0MTYxMzA5LDQwNj
+c0MTU4NCw1MDMzODMzNTcsLTI5Nzc4MzExNSwtNTQ3ODY5ODIw
+LDExMTkwNjg0OTgsOTA3NDE4NDY0LC0xMjYxNTgwMjExLDEyNz
+gzNzE0MDIsMTc5NzAyOTA0Miw5MTIxNjkxNDAsLTU3NTI2NDA1
+MSwxNTE3NDkzMzc2LC0zMDY5NzU5MCwtMTQ3NDkyMzAzMCw3NT
+E0MDIxMDRdfQ==
 -->
