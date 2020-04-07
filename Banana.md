@@ -85,7 +85,7 @@ During this early period of renewed European interest in the banana, there was g
 
 The most influential European author of the period, Italian physician Pietro Andrea Mattioli, referred to the banana plant as “musa” and the individual fruits as “muse” in his seminal herbal published in 1554. Musa, which was eventually adopted by Linnaeus as the name of the genus, is believed to be an adaptation the Arabic word for banana, “_mauz_” or “_mawzah_.” Italian physicians and naturalists like Mattioli, adopted the Arabic name for banana since it was through contact with the Islamic territories  in the late Middle Ages, as well as the writings of Islamic physicians such as Avicenna, that Italy was first introduced to the plant. Although Mattioli did not mention or describe the “musa tree” in the first edition of his famous herbal, as later edition in Latin (1554) is likely the first European herbal to describe banana.
 
-The term “musa” was also used by the Flemish physician and botanist Rembert Dodoens in his herbal published in 1563. Unlike Mattioli and Orta, however, Dodoens provided an image of the musa or “Mose” tree (Mattioli would not add an illustration of banana to his herbal until 1565). Dodoens’s description of the banana tree as well as his image were taken directly from the work of Andrè Thevet, a French Franciscan priest who documented his travels through the Levant in 1549 (published in 1556). Thevet described bananas as resembling cucumbers, yet the inaccuracy of his accompanying image casts doubts on if Thevet saw an actual banana plant. It is more likely that European travelers in the Levant came in contact with banana fruits in the markets and not on fruiting “trees.” In his herbal, Dodoens stated that bananas were trafficked through the merchants of India, Persia, and Venice, while Mattioli asserts the plant was already growing in Cyprus, Egypt, and even Sicily. Contact and trade with Islamic territories combined with southern Italy’s warm climate meant that Italy was likely one of the first regions in European to learn about and attempt to cultivate bananas in private as well as botanical gardens.
+The term “musa” was also used by the Flemish physician and botanist Rembert Dodoens in his herbal published in 1563. Unlike Mattioli and Orta, however, Dodoens provided an image of the musa or “Mose” tree (Mattioli would not add an illustration of banana to his herbal until 1565). Dodoens’s description of the banana tree as well as his image were very similar to the image and description o of Andrè Thevet, a French Franciscan priest who documented his travels through the Levant in 1549 (published in 1556). Thevet described bananas as resembling cucumbers, yet the inaccuracy of his accompanying image casts doubts on if Thevet saw an actual banana plant. It is more likely that European travelers in the Levant came in contact with banana fruits in the markets and not on fruiting “trees.” In his herbal, Dodoens stated that bananas were trafficked through the merchants of India, Persia, and Venice, while Mattioli asserts the plant was already growing in Cyprus, Egypt, and even Sicily. Contact and trade with Islamic territories combined with southern Italy’s warm climate meant that Italy was likely one of the first regions in European to learn about and attempt to cultivate bananas in private as well as botanical gardens.
 <var data-primary="image"></var>
 <var data-image id="Google Books Thevet" title="Cosmographie de Levant" data-url="https://books.google.com/books/content?id=U91y-xxk0OYC&hl=it&pg=PA185&img=1&zoom=3&sig=ACfU3U19cLgXquFUoGHxxNVvFcJjABaeTA&w=1025" data-region=""></var>
 <var data-image id="bhl-6726349" title="Dodoens Musa" data-url="https://www.biodiversitylibrary.org/pageimage/6726349" data-region=""></var>
@@ -109,11 +109,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njc0MjA1MTgsLTIxMTk4MDQzOTMsOD
-Y1MjM2NTI2LC02MjUxNDg4OTAsLTE2NzcyMDg5NjQsLTIyMjQx
-MzU4LDEzMTQ5NDUyMzUsMTc5NjI4NTQ2MywtNTU1Nzg3MjExLC
-0xMjY5MTI5NDI1LDk3NDE2MTMwOSw0MDY3NDE1ODQsNTAzMzgz
-MzU3LC0yOTc3ODMxMTUsLTU0Nzg2OTgyMCwxMTE5MDY4NDk4LD
-kwNzQxODQ2NCwtMTI2MTU4MDIxMSwxMjc4MzcxNDAyLDE3OTcw
-MjkwNDJdfQ==
+eyJoaXN0b3J5IjpbMTMzNTU5MTMxNSwtMjExOTgwNDM5Myw4Nj
+UyMzY1MjYsLTYyNTE0ODg5MCwtMTY3NzIwODk2NCwtMjIyNDEz
+NTgsMTMxNDk0NTIzNSwxNzk2Mjg1NDYzLC01NTU3ODcyMTEsLT
+EyNjkxMjk0MjUsOTc0MTYxMzA5LDQwNjc0MTU4NCw1MDMzODMz
+NTcsLTI5Nzc4MzExNSwtNTQ3ODY5ODIwLDExMTkwNjg0OTgsOT
+A3NDE4NDY0LC0xMjYxNTgwMjExLDEyNzgzNzE0MDIsMTc5NzAy
+OTA0Ml19
 -->
