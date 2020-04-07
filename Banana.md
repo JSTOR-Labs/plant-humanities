@@ -24,7 +24,7 @@ Thanks to domesticated bananas’ long history of human intervention and migrati
 <var data-primary="image"></var>
 <var data-image id="Banana Genome Sequencing" title="Whole Genome Sequence of a Wild Banana Relative" data-url="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep31586/MediaObjects/41598_2016_Article_BFsrep31586_Fig1_HTML.jpg?as=webp" data-region=""></var>
 
-In 2002, a comprehensive study of relationships among wild and cultivated bananas determined that the parthenocarpic A genomes of almost all the edible banana groups derive from either subspecies _banksii_ (from the Papua New Guinea region) or _errans_ (Philippines) of _Musa acuminata_ (or from both of them) ([Carreel et al. 2002](https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/article/233368#b11)). These findings reveal that the origin of banana domestication was in the Philippines and Papua New Guinea regions. Archaeobotanical remains identified as the genus _Musa_ attests that bananas were indeed present in Papua New Guinea at least 10,000 years ago and were being cultivated as early as 7,000 years ago. 
+In 2002, a comprehensive study of relationships among wild and cultivated bananas determined that the parthenocarpic A genomes of almost all the edible banana groups derive from either subspecies _banksii_ (from the Papua New Guinea region) or _errans_ (Philippines) of _Musa acuminata_ (or from both of them).[<![if !supportFootnotes]>[1]<![endif]>](#_ftn1) These findings reveal that the origin of banana domestication was in the Philippines and Papua New Guinea regions. Archaeobotanical remains identified as the genus _Musa_ attests that bananas were indeed present in Papua New Guinea at least 10,000 years ago and were being cultivated as early as 7,000 years ago.
 <var data-map title="New World" data-center="2.827324, 134.889630" data-zoom="4.5"></var>
 <var data-map-layer
 	title="Banana Origin and Distribution"
@@ -68,8 +68,8 @@ It was a Portuguese physician and naturalist, Garcia de Orta, who would first pr
 <var data-primary="image"></var>
 <var data-image id="Banana Orta" title="Coloquios dos simples e drogas da India" data-url="https://bibdigital.rjb.csic.es/i/?IIIF=/38/80/3b/be/38803bbe-3f4e-4f89-8df9-ac2ca5166d2e/iiif/ORT_Col_Simpl_Drog_1_000353.tif/183.5728155339806,107.65714285714286,1120.4271844660193,1573.6941176470586/!354,497/0/default.jpg" data-region=""></var>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3NDE4NDY0LC0xMjYxNTgwMjExLDEyNz
-gzNzE0MDIsMTc5NzAyOTA0Miw5MTIxNjkxNDAsLTU3NTI2NDA1
-MSwxNTE3NDkzMzc2LC0zMDY5NzU5MCwtMTQ3NDkyMzAzMCw3NT
-E0MDIxMDRdfQ==
+eyJoaXN0b3J5IjpbLTEyNjIzMTk5NDYsOTA3NDE4NDY0LC0xMj
+YxNTgwMjExLDEyNzgzNzE0MDIsMTc5NzAyOTA0Miw5MTIxNjkx
+NDAsLTU3NTI2NDA1MSwxNTE3NDkzMzc2LC0zMDY5NzU5MCwtMT
+Q3NDkyMzAzMCw3NTE0MDIxMDRdfQ==
 -->
