@@ -84,7 +84,7 @@ During this early period of renewed European interest in the banana, there was g
 <var data-image id="Banana Orta" title="Coloquios dos simples e drogas da India" data-url="https://bibdigital.rjb.csic.es/i/?IIIF=/38/80/3b/be/38803bbe-3f4e-4f89-8df9-ac2ca5166d2e/iiif/ORT_Col_Simpl_Drog_1_000353.tif/183.5728155339806,107.65714285714286,1120.4271844660193,1573.6941176470586/!354,497/0/default.jpg" data-region=""></var>
 
 The most influential European author of the period, Italian physician Pietro Andrea Mattioli, referred to the banana plant as “musa” and the individual fruits as “muse” in his seminal herbal published in 1554. Musa, which was eventually adopted by Linnaeus as the name of the genus, is believed to be an adaptation the Arabic word for banana, “_mauz_” or “_mawzah_.” By the eighth century, Islamic expansion under the Umayyad Caliphate (661–750) had reached the Indian subcontinent, creating a region of trade, exchange, and communication stretching from India to Iberia. Through these vast commercial networks, bananas were traded and became popular throughout the Islamic Empire. 
-<var data-map title="New World" data-center="35.940967, 54.291270" data-zoom="3"></var>
+<var data-map title="New World" data-center="35.114994, 31.944694" data-zoom="3"></var>
 <var data-map-layer
 	title="Bananas in Islamic Empire"
 	data-type="geojson"
@@ -125,11 +125,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0OTQ2NDU0LC0yMzk5OTAxNTEsLTg0Nj
-Q0MDIzOSw3NTc3NDMyMDEsLTIxMTk4MDQzOTMsODY1MjM2NTI2
-LC02MjUxNDg4OTAsLTE2NzcyMDg5NjQsLTIyMjQxMzU4LDEzMT
-Q5NDUyMzUsMTc5NjI4NTQ2MywtNTU1Nzg3MjExLC0xMjY5MTI5
-NDI1LDk3NDE2MTMwOSw0MDY3NDE1ODQsNTAzMzgzMzU3LC0yOT
-c3ODMxMTUsLTU0Nzg2OTgyMCwxMTE5MDY4NDk4LDkwNzQxODQ2
-NF19
+eyJoaXN0b3J5IjpbLTQzMTk0MTUxNywtMjM5OTkwMTUxLC04ND
+Y0NDAyMzksNzU3NzQzMjAxLC0yMTE5ODA0MzkzLDg2NTIzNjUy
+NiwtNjI1MTQ4ODkwLC0xNjc3MjA4OTY0LC0yMjI0MTM1OCwxMz
+E0OTQ1MjM1LDE3OTYyODU0NjMsLTU1NTc4NzIxMSwtMTI2OTEy
+OTQyNSw5NzQxNjEzMDksNDA2NzQxNTg0LDUwMzM4MzM1NywtMj
+k3NzgzMTE1LC01NDc4Njk4MjAsMTExOTA2ODQ5OCw5MDc0MTg0
+NjRdfQ==
 -->
