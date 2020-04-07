@@ -124,7 +124,7 @@ By the seventeenth century, bananas had spread throughout the Caribbean and the 
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/banana_distribution_LA.json"
 	data-active="true"></var>
 
-Even Linnaeus had to rely on the garden and hothouse of the wealthy financier and director of the Dutch East India Company, George Clifford (1685-1760), to see and study a live banana plant. At his estate in Hartenkamp, Holland, and with the assistance of Linnaeus, Clifford successfully flowered a hybrid of _Musa acuminate_ and _Musa balbisiana_. The successful flowering and subsequent fruiting of the rare and exotic banana plant was so momentous that Linnaeus wrote a treatise on the plant, _Musa Cliffortiana_, published in 1736. That same year marked the arrival of the German botanical artist Georg Ehret to Hartekamp. Ehret would provide the illustrations of Clifford’s flowering banana plant for the treatise as well as go on to diagram Linnaeus’s new plant classification system. It was also at the direction of Linnaeus, Ehret began adding details of the plant’s reproductive structures, or flowers, creating a new standard for botanical illustrations.
+Even Linnaeus had to rely on the garden and hothouse of the wealthy financier and director of the Dutch East India Company, George Clifford (1685-1760), to see and study a live banana plant. At his estate Hartekamp, in Holland, and with the assistance of Linnaeus, Clifford successfully flowered a hybrid of _Musa acuminate_ and _Musa balbisiana_. The successful flowering and subsequent fruiting of the rare and exotic banana plant was so momentous that Linnaeus wrote a treatise on the plant, _Musa Cliffortiana_, published in 1736. That same year marked the arrival of the German botanical artist Georg Ehret to Hartekamp. Ehret would provide the illustrations of Clifford’s flowering banana plant for the treatise as well as go on to diagram Linnaeus’s new plant classification system. It was also at the direction of Linnaeus, Ehret began adding details of the plant’s reproductive structures, or flowers, creating a new standard for botanical illustrations.
 <var data-primary="map"></var>
 <var data-map title="Hartenkamp, Holland" data-center="Q18771183" data-zoom="6.5"></var>
 
@@ -141,11 +141,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTExNzgxMTksLTE4NjY2NzgyNzEsOD
-Y4MzUyNDc3LDE3MDkxODI2NDEsMTU1OTE3MDU0MiwtMjM5OTkw
-MTUxLC04NDY0NDAyMzksNzU3NzQzMjAxLC0yMTE5ODA0MzkzLD
-g2NTIzNjUyNiwtNjI1MTQ4ODkwLC0xNjc3MjA4OTY0LC0yMjI0
-MTM1OCwxMzE0OTQ1MjM1LDE3OTYyODU0NjMsLTU1NTc4NzIxMS
-wtMTI2OTEyOTQyNSw5NzQxNjEzMDksNDA2NzQxNTg0LDUwMzM4
-MzM1N119
+eyJoaXN0b3J5IjpbNzA1MTU1OTA3LC0xODY2Njc4MjcxLDg2OD
+M1MjQ3NywxNzA5MTgyNjQxLDE1NTkxNzA1NDIsLTIzOTk5MDE1
+MSwtODQ2NDQwMjM5LDc1Nzc0MzIwMSwtMjExOTgwNDM5Myw4Nj
+UyMzY1MjYsLTYyNTE0ODg5MCwtMTY3NzIwODk2NCwtMjIyNDEz
+NTgsMTMxNDk0NTIzNSwxNzk2Mjg1NDYzLC01NTU3ODcyMTEsLT
+EyNjkxMjk0MjUsOTc0MTYxMzA5LDQwNjc0MTU4NCw1MDMzODMz
+NTddfQ==
 -->
