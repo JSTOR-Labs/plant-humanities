@@ -7,7 +7,7 @@
         "stroke": "null",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#00a3ff",
+        "fill": "#fb683f",
         "fill-opacity": 0.7,
         "label": "Diffusion of bananas in Africa before 1500"
       },
@@ -483,7 +483,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "null",
-        "fill": "#00a3ff",
+        "fill": "#fb683f",
         "stroke-opacity": "",
         "fill-opacity": 0.7,
         "label": "Diffusion of bananas in Africa before 1500"
