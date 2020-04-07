@@ -93,7 +93,7 @@ The most influential European author of the period, Italian physician Pietro And
 
 Italian physicians and naturalists like Mattioli, adopted the Arabic name for banana since it was through contact with the Islamic territories  in the late Middle Ages, as well as the writings of Islamic physicians such as Avicenna, that Italy was first introduced to the plant. Although Mattioli did not mention or describe the “musa tree” in the first edition of his famous herbal, as later edition in Latin (1554) is likely the first European herbal to describe banana.
 <var data-primary="map"></var>
-<var data-map title="New World" data-center="39.066017, 15.997291" data-zoom="4"></var>
+<var data-map title="New World" data-center="39.066017, 15.997291" data-zoom="4.5"></var>
 <var data-map-layer
 	title="Bananas in Islamic Empire"
 	data-type="geojson"
@@ -125,11 +125,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTE3MDU0MiwtMjM5OTkwMTUxLC04ND
-Y0NDAyMzksNzU3NzQzMjAxLC0yMTE5ODA0MzkzLDg2NTIzNjUy
-NiwtNjI1MTQ4ODkwLC0xNjc3MjA4OTY0LC0yMjI0MTM1OCwxMz
-E0OTQ1MjM1LDE3OTYyODU0NjMsLTU1NTc4NzIxMSwtMTI2OTEy
-OTQyNSw5NzQxNjEzMDksNDA2NzQxNTg0LDUwMzM4MzM1NywtMj
-k3NzgzMTE1LC01NDc4Njk4MjAsMTExOTA2ODQ5OCw5MDc0MTg0
-NjRdfQ==
+eyJoaXN0b3J5IjpbLTEyMDU4MDIxNjksLTIzOTk5MDE1MSwtOD
+Q2NDQwMjM5LDc1Nzc0MzIwMSwtMjExOTgwNDM5Myw4NjUyMzY1
+MjYsLTYyNTE0ODg5MCwtMTY3NzIwODk2NCwtMjIyNDEzNTgsMT
+MxNDk0NTIzNSwxNzk2Mjg1NDYzLC01NTU3ODcyMTEsLTEyNjkx
+Mjk0MjUsOTc0MTYxMzA5LDQwNjc0MTU4NCw1MDMzODMzNTcsLT
+I5Nzc4MzExNSwtNTQ3ODY5ODIwLDExMTkwNjg0OTgsOTA3NDE4
+NDY0XX0=
 -->
