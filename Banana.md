@@ -115,7 +115,7 @@ While the adoption of the Arabic word for banana provided some standardization o
 
 By the seventeenth century, bananas had spread throughout the Caribbean and the tropics of Central and South America, becoming a dietary staple along the way. While bananas were known to Europeans through herbals, natural histories, and travel narratives, they remained a rarity on the continent—a lush, exotic fruit only travelers enjoyed. 
 <var data-primary="map"></var>
-<var data-map title="New World" data-center="14.753241, -77.715799" data-zoom="3"></var>
+<var data-map title="New World" data-center="13.740564, -73.144150" data-zoom="3"></var>
 <var data-map-layer
 	title="Bananas in Latin America"
 	data-type="geojson"
@@ -137,11 +137,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2NzIzMjU0LC0xODY2Njc4MjcxLDg2OD
-M1MjQ3NywxNzA5MTgyNjQxLDE1NTkxNzA1NDIsLTIzOTk5MDE1
-MSwtODQ2NDQwMjM5LDc1Nzc0MzIwMSwtMjExOTgwNDM5Myw4Nj
-UyMzY1MjYsLTYyNTE0ODg5MCwtMTY3NzIwODk2NCwtMjIyNDEz
-NTgsMTMxNDk0NTIzNSwxNzk2Mjg1NDYzLC01NTU3ODcyMTEsLT
-EyNjkxMjk0MjUsOTc0MTYxMzA5LDQwNjc0MTU4NCw1MDMzODMz
-NTddfQ==
+eyJoaXN0b3J5IjpbMTg5Njk0MDcwNCwtMTg2NjY3ODI3MSw4Nj
+gzNTI0NzcsMTcwOTE4MjY0MSwxNTU5MTcwNTQyLC0yMzk5OTAx
+NTEsLTg0NjQ0MDIzOSw3NTc3NDMyMDEsLTIxMTk4MDQzOTMsOD
+Y1MjM2NTI2LC02MjUxNDg4OTAsLTE2NzcyMDg5NjQsLTIyMjQx
+MzU4LDEzMTQ5NDUyMzUsMTc5NjI4NTQ2MywtNTU1Nzg3MjExLC
+0xMjY5MTI5NDI1LDk3NDE2MTMwOSw0MDY3NDE1ODQsNTAzMzgz
+MzU3XX0=
 -->
