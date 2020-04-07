@@ -91,7 +91,7 @@ The most influential European author of the period, Italian physician Pietro And
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/bananas_africa.json"
 	data-active="true"></var>
-<var data-image id="bhl-6726349" title="Dodoens Musa" data-url="https://www.biodiversitylibrary.org/pageimage/6726349" data-region=""></var>
+<var data-image id="Mattioli 1554" title="Mattioli, Pietro Andrea: Petri Andreae Matthioli ... Commentarii, in libros sex Pedacii Dioscoridis Anazarbei, de medica materia, adiectis quam plurimis plantarum & animalium imaginibus, eodem authore, Venetijs, 1554" data-url="http://bsb3.bsb.lrz.de/~db/1013/bsb10139456/images/bsb10139456_00182.jpg" data-region=""></var>
 
 The term “musa” was also used by the Flemish physician and botanist Rembert Dodoens in his herbal published in 1563. Unlike Mattioli and Orta, however, Dodoens provided an image of the musa or “Mose” tree (Mattioli would not add an illustration of banana to his herbal until 1565). Dodoens’s description of the banana tree as well as his image were very similar to that of Andrè Thevet, a French Franciscan priest who documented his travels through the Levant in 1549 (published in 1556). Thevet described bananas as resembling cucumbers, yet the inaccuracy of his accompanying image casts doubts on if Thevet saw an actual banana plant. It is more likely that European travelers in the Levant came in contact with banana fruits in the markets and not on fruiting “trees.” In his herbal, Dodoens stated that bananas were trafficked through the merchants of India, Persia, and Venice, while Mattioli asserts the plant was already growing in Cyprus, Egypt, and even Sicily. Contact and trade with Islamic territories combined with southern Italy’s warm climate meant that Italy was likely one of the first regions in European to learn about and attempt to cultivate bananas in private as well as botanical gardens.
 <var data-primary="image"></var>
@@ -117,11 +117,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3NzQzMjAxLC0yMTE5ODA0MzkzLDg2NT
-IzNjUyNiwtNjI1MTQ4ODkwLC0xNjc3MjA4OTY0LC0yMjI0MTM1
-OCwxMzE0OTQ1MjM1LDE3OTYyODU0NjMsLTU1NTc4NzIxMSwtMT
-I2OTEyOTQyNSw5NzQxNjEzMDksNDA2NzQxNTg0LDUwMzM4MzM1
-NywtMjk3NzgzMTE1LC01NDc4Njk4MjAsMTExOTA2ODQ5OCw5MD
-c0MTg0NjQsLTEyNjE1ODAyMTEsMTI3ODM3MTQwMiwxNzk3MDI5
-MDQyXX0=
+eyJoaXN0b3J5IjpbLTg0NjQ0MDIzOSw3NTc3NDMyMDEsLTIxMT
+k4MDQzOTMsODY1MjM2NTI2LC02MjUxNDg4OTAsLTE2NzcyMDg5
+NjQsLTIyMjQxMzU4LDEzMTQ5NDUyMzUsMTc5NjI4NTQ2MywtNT
+U1Nzg3MjExLC0xMjY5MTI5NDI1LDk3NDE2MTMwOSw0MDY3NDE1
+ODQsNTAzMzgzMzU3LC0yOTc3ODMxMTUsLTU0Nzg2OTgyMCwxMT
+E5MDY4NDk4LDkwNzQxODQ2NCwtMTI2MTU4MDIxMSwxMjc4Mzcx
+NDAyXX0=
 -->
