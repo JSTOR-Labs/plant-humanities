@@ -27,7 +27,7 @@ Prior to domestication, wild banana fruits were incredibly seedy and difficult t
 
 Like humans, wild bananas are diploids: they have two sets of chromosomes and receive one set from each “parent.” Thanks to human selection, migration, and exchange, however, some banana hybrids produced triploids, meaning the offspring inherited three sets of chromosomes. This extra set of chromosomes rendered triploid bananas sterile and even more inclined to parthenocarpy. More importantly, thanks to their extra chromosomes, mutations can arise even in clonal propagation (via suckers). This genetic diversity created an important source of variability among banana cultivars. The genetic diversity of triploids and their environmental adaptability ensured not only the survival of seedless banana cultivars, but also their ability to spread across vast areas and cultures.
 <var data-primary="image"></var>
-<var data-image id="Banana Genome Sequencing" title="Whole Genome Sequence of a Wild Banana Relative" data-url="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep31586/MediaObjects/41598_2016_Article_BFsrep31586_Fig1_HTML.jpg?as=webp" data-region=""></var>
+<var data-image id="Diploid to Triploid" title="From Diploids to Triploids" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/From_Diploid_to_Triploid.jpg" data-region=""></var>
 
 While more diverse that previously understood, Scientists have identified _Musa acuminata_ as the primary wild parent of parthenocarpic bananas within the genus _Musa_. Parthenocarpy, however, makes identifying and classifying banana “species” difficult. As J. Kennedy explains, “Although it is clear that parthenocarpy within section _Musa_ has occurred only in _Musa acuminata_, the parentage of the resulting edible bananas is greatly complicated by the diversity of _Musa acuminata_ at subspecies level. Parthenocarpy probably developed in at least two of these subspecies, and there are many edible hybrids between these and additional wild subspecies.” Further complicating matters are hybridizations between _Musa acuminata_ and _Musa balbisiana_. _Musa balbisiana_ remains less understood than _Musa acuminata_, and has not been divided into subspecies. The distribution, wild/cultivated status, and genetic characterization of _Musa acuminata_ and _Musa balbisiana_ hybrids continues to be debated.
 
@@ -104,11 +104,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODUxNzYxMjQsMTc5NjI4NTQ2MywtNT
-U1Nzg3MjExLC0xMjY5MTI5NDI1LDk3NDE2MTMwOSw0MDY3NDE1
-ODQsNTAzMzgzMzU3LC0yOTc3ODMxMTUsLTU0Nzg2OTgyMCwxMT
-E5MDY4NDk4LDkwNzQxODQ2NCwtMTI2MTU4MDIxMSwxMjc4Mzcx
-NDAyLDE3OTcwMjkwNDIsOTEyMTY5MTQwLC01NzUyNjQwNTEsMT
-UxNzQ5MzM3NiwtMzA2OTc1OTAsLTE0NzQ5MjMwMzAsNzUxNDAy
-MTA0XX0=
+eyJoaXN0b3J5IjpbMTMxNDk0NTIzNSwxNzk2Mjg1NDYzLC01NT
+U3ODcyMTEsLTEyNjkxMjk0MjUsOTc0MTYxMzA5LDQwNjc0MTU4
+NCw1MDMzODMzNTcsLTI5Nzc4MzExNSwtNTQ3ODY5ODIwLDExMT
+kwNjg0OTgsOTA3NDE4NDY0LC0xMjYxNTgwMjExLDEyNzgzNzE0
+MDIsMTc5NzAyOTA0Miw5MTIxNjkxNDAsLTU3NTI2NDA1MSwxNT
+E3NDkzMzc2LC0zMDY5NzU5MCwtMTQ3NDkyMzAzMCw3NTE0MDIx
+MDRdfQ==
 -->
