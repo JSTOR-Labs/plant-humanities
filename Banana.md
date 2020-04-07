@@ -63,16 +63,11 @@ In 1516 Friar Tomas de Berlanga, a Catholic missionary, landed on the Island of 
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/bananas_africa.json"
 	data-active="true"></var>
-	
 
+### Banana, Fig, or the Tree of Life?
+During this early period of renewed European interest in the banana, there was great uncertainty surrounding the identification, depiction, and name of the abundant yellow fruits Europeans encountered throughout Africa, India, Southeast Asia, and, thanks to their own transmission, the New World. While living in Goa, India, a Portuguese physician and naturalist, Garcia de Orta, adopted the name “banana” for the fruit. In 1563, Orta published an herbal detailing the _materia medica_ of India, in which he wrote of a fruit found in India, Malaysia, and Arab lands as well in “[in Guinea, where they call them bananas](https://bibdigital.rjb.csic.es/viewer/15528/?offset=#page=360&viewer=picture&o=search&n=0&q=banana).” Unfortunately, in the early modern period, the name banana was far from universal.
 <var data-primary="image"></var>
 <var data-image id="Banana Orta" title="Coloquios dos simples e drogas da India" data-url="https://bibdigital.rjb.csic.es/i/?IIIF=/38/80/3b/be/38803bbe-3f4e-4f89-8df9-ac2ca5166d2e/iiif/ORT_Col_Simpl_Drog_1_000353.tif/183.5728155339806,107.65714285714286,1120.4271844660193,1573.6941176470586/!354,497/0/default.jpg" data-region=""></var>
-
-<![endif]-->
-
-**Banana, Fig, or the Tree of Life?**
-
-During this early period of renewed European interest in the banana, there was great uncertainty surrounding the identification, depiction, and name of the abundant yellow fruits Europeans encountered throughout Africa, India, Southeast Asia, and, thanks to their own transmission, the New World. While living in Goa, India, a Portuguese physician and naturalist, Garcia de Orta, adopted the name “banana” for the fruit. In 1563, Orta published an herbal detailing the _materia medica_ of India, in which he wrote of a fruit found in India, Malaysia, and Arab lands as well in “[in Guinea, where they call them bananas](https://bibdigital.rjb.csic.es/viewer/15528/?offset=#page=360&viewer=picture&o=search&n=0&q=banana).” Unfortunately, in the early modern period, the name banana was far from universal.
 
 The most influential European author of the period, Italian physician Pietro Andrea Mattioli, referred to the banana plant as “musa” and the individual fruits as “muse” in his seminal herbal published in 1554. Musa, which was eventually adopted by Linnaeus as the name of the genus, is believed to be an adaptation the Arabic word for banana, “_mauz_” or “_mawzah_.” Italian physicians and naturalists like Mattioli, adopted the Arabic name for banana since it was through contact with the Islamic Empire in the late Middle Ages, as well as the writings of Islamic physicians such as Avicenna, that Italy was first introduced to the plant. Although Mattioli did not mention or describe the “musa tree” in the first edition of his famous herbal, as later edition in Latin (1554) is likely the first European herbal to describe banana.
 
@@ -80,7 +75,7 @@ The term “musa” was also used by the Flemish physician and botanist Rembert 
 
 While the adoption of the Arabic word for banana provided some standardization of nomenclature, it was far from universally used. In fact, numerous names, sometimes contradictory, were given for banana. Confusing matters further was the enduring description as banana, not the fig or apple, as the forbidden fruit of the garden of Eden. In sixteenth century herbals, almost every author, including Mattioli, Acosta, Dodoens, Clusius, and Cesalpino, described the banana plant as the tree growing in the Garden of Eden. The persistence of this tradition continued well into the eighteenth century. Even Linnaeus, in his treatise on the banana palm, weighed in on the topic, ultimately dismissing the idea as a metaphor in his penultimate chapter. Finally, thanks to their geographic origin and early association with palm trees and dates, and enduring associations with the Garden of Eden, bananas were also often referred to as “Indian figs.”
 
-**Banana Republics**
+### Banana Republics
 
 By the seventeenth century, bananas had spread throughout the Caribbean and the tropics of Central and South America, becoming a dietary staple along the way. While bananas were known to Europeans through herbals, natural histories, and travel narratives, they remained a rarity on the continent—a lush, exotic fruit only travelers enjoyed. Even Linnaeus had to rely on the garden and hothouse of the wealthy financier and director of the Dutch East India Company, George Clifford (1685-1760), to see and study a live banana plant. At his estate in Hartenkamp, Holland, and with the assistance of Linnaeus, Clifford successfully flowered a hybrid of _Musa acuminate_ and _Musa balbisiana_. The successful flowering and subsequent fruiting of the rare and exotic banana plant was so momentous that Linnaeus wrote a treatise on the plant, _Musa Cliffortiana_, published in 1736. That same year marked the arrival of the German botanical artist Georg Ehret to Hartekamp. Ehret would provide the illustrations of Clifford’s flowering banana plant for the treatise as well as go on to diagram Linnaeus’s new plant classification system. It was also at the direction of Linnaeus, Ehret began adding details of the plant’s reproductive structures, or flowers, creating a new standard for botanical illustrations.
 
@@ -90,15 +85,14 @@ In the early 20th century, multinational American corporations, like the UFC, we
 
 In the end, an intense monoculture focused on the vegetal propagation of one mutation of one banana hybrid proved unsustainable. Lacking genetic diversity, Gros Michel banana plantations across the globe fell victim to a pathogen known as _Fusarium oxysporum_, or “Panama Disease.” From 1899 to the 1950s Panama Disease destroyed Gros Michel crops throughout the Americas. Desperate to replace the valuable export, fruit conglomerates abandoned the Gros Michel for a new varietal, the smaller and less flavorful Cavendish banana.
 
-##Bananas Today**
-
+### Bananas Today
 Today the Cavendish banana remains the dominant cultivated and exported varietal of bananas. Just as it did in the twentieth century, the current global production of more than one million tons remains based on large-scale vegetative propagation of a small number of genotypes derived from a handful of ancient sexual recombination events. This makes the Cavendish varietal, like the Gros Michel, particularly susceptible to diseases as well as pests and climate change. Recent scientific studies on banana genetics and genomes, however, could hold the key to diversifying and revitalizing banana hybrids. For many scientists, the goal is to figure out banana’s origin story in order to produce new polyploid hybrids through genetic recombination’s of fertile diploids, just as societies in Southeast Asia did thousands of years ago.
 
 Just as we need to rethink how we select, hybridize, and propagate bananas, many scientists also argue it is time to recognize the limits of Linnaean taxonomy and rethink how we classify bananas. In 1955 an informal nomenclature system to classify banana cultivars was developed by Norman Simmonds and Kenneth Shepherd. Instead of assigning binomial names, Simmonds and Shepherd classified editable bananas into genome groups, according to the chromosomal contributions of their ancestral wild species and subgroups for closely related cultivars derived from mutation selection and propagation (i.e. the Gros Michel and Cavendish). While Simmonds and Shepherd had to rely on genome classification based on the visible morphology of banana cultivars, scientists today rely have more reliable genomic techniques, allowing them to analyze and reclassify the genetic make-up of hundreds of banana cultivars. This work has revealed that more than one hundred subspecies of _Musa acuminata_ have been implicated in the domestication of bananas. Despite this work, however, scientists still do not know just how many banana cultivars actually exist and are still working to formalize a genome-based classification system in the hopes of finally creating an internally coherent list of names for banana species, subspecies, and cultivars.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDkzNzk1MCw5MDc0MTg0NjQsLTEyNj
+eyJoaXN0b3J5IjpbMTExOTA2ODQ5OCw5MDc0MTg0NjQsLTEyNj
 E1ODAyMTEsMTI3ODM3MTQwMiwxNzk3MDI5MDQyLDkxMjE2OTE0
 MCwtNTc1MjY0MDUxLDE1MTc0OTMzNzYsLTMwNjk3NTkwLC0xND
 c0OTIzMDMwLDc1MTQwMjEwNF19
