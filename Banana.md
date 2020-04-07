@@ -87,7 +87,7 @@ The most influential European author of the period, Italian physician Pietro And
 
 The term “musa” was also used by the Flemish physician and botanist Rembert Dodoens in his herbal published in 1563. Unlike Mattioli and Orta, however, Dodoens provided an image of the musa or “Mose” tree (Mattioli would not add an illustration of banana to his herbal until 1565). Dodoens’s description of the banana tree as well as his image were taken directly from the work of Andrè Thevet, a French Franciscan priest who documented his travels through the Levant in 1549 (published in 1556). Thevet described bananas as resembling cucumbers, yet the inaccuracy of his accompanying image casts doubts on if Thevet saw an actual banana plant. It is more likely that European travelers in the Levant came in contact with banana fruits in the markets and not on fruiting “trees.” In his herbal, Dodoens stated that bananas were trafficked through the merchants of India, Persia, and Venice, while Mattioli asserts the plant was already growing in Cyprus, Egypt, and even Sicily. Contact and trade with Islamic territories combined with southern Italy’s warm climate meant that Italy was likely one of the first regions in European to learn about and attempt to cultivate bananas in private as well as botanical gardens.
 <var data-primary="image"></var>
-<var data-image id="Google Books Thevet" title="Cosmographie de Levant" data-url="https://books.google.com/books?id=U91y-xxk0OYC&pg=PA185&dq=cosmographie+de+levant&hl=it&sa=X&ved=0ahUKEwjog-H5-8roAhVnkHIEHbNGAvIQ6wEISjAD#v=onepage&q&f=false" data-region=""></var>
+<var data-image id="Google Books Thevet" title="Cosmographie de Levant" data-url="https://books.google.com/books?id=U91y-xxk0OYC&dq=cosmographie%20de%20levant&hl=it&pg=PA185#v=onepage&q&f=false" data-region=""></var>
 <var data-image id="bhl-6726349" title="Dodoens Musa" data-url="https://www.biodiversitylibrary.org/pageimage/6726349" data-region=""></var>
 
 While the adoption of the Arabic word for banana provided some standardization of nomenclature, it was far from universally used. In fact, numerous names, sometimes contradictory, were given for banana. Confusing matters further was the enduring description as banana, not the fig or apple, as the forbidden fruit of the garden of Eden. In sixteenth century herbals, almost every author, including Mattioli, Acosta, Dodoens, Clusius, and Cesalpino, described the banana plant as the tree growing in the Garden of Eden. The persistence of this tradition continued well into the eighteenth century. Even Linnaeus, in his treatise on the banana palm, weighed in on the topic, ultimately dismissing the idea as a metaphor in his penultimate chapter. Finally, thanks to their geographic origin and early association with palm trees and dates, and enduring associations with the Garden of Eden, bananas were also often referred to as “Indian figs.”
@@ -109,11 +109,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTIyNTAwMiw4NjUyMzY1MjYsLTYyNT
-E0ODg5MCwtMTY3NzIwODk2NCwtMjIyNDEzNTgsMTMxNDk0NTIz
-NSwxNzk2Mjg1NDYzLC01NTU3ODcyMTEsLTEyNjkxMjk0MjUsOT
-c0MTYxMzA5LDQwNjc0MTU4NCw1MDMzODMzNTcsLTI5Nzc4MzEx
-NSwtNTQ3ODY5ODIwLDExMTkwNjg0OTgsOTA3NDE4NDY0LC0xMj
-YxNTgwMjExLDEyNzgzNzE0MDIsMTc5NzAyOTA0Miw5MTIxNjkx
-NDBdfQ==
+eyJoaXN0b3J5IjpbLTIxMTk4MDQzOTMsODY1MjM2NTI2LC02Mj
+UxNDg4OTAsLTE2NzcyMDg5NjQsLTIyMjQxMzU4LDEzMTQ5NDUy
+MzUsMTc5NjI4NTQ2MywtNTU1Nzg3MjExLC0xMjY5MTI5NDI1LD
+k3NDE2MTMwOSw0MDY3NDE1ODQsNTAzMzgzMzU3LC0yOTc3ODMx
+MTUsLTU0Nzg2OTgyMCwxMTE5MDY4NDk4LDkwNzQxODQ2NCwtMT
+I2MTU4MDIxMSwxMjc4MzcxNDAyLDE3OTcwMjkwNDIsOTEyMTY5
+MTQwXX0=
 -->
