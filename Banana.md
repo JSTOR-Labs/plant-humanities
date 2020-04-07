@@ -18,6 +18,8 @@ However, despite Linnaean taxonomy’s international acceptance and longevity, L
 
 ### Bananas, the First GMO?
 Bananas are herbaceous plants, not trees, and while they resemble palms, they are not related. When the plant matures, it begins to form a large stem with a flower spike (or inflorescence) at the end. This large flower will eventually become a softball-size magenta bud. As the stem grows the large cone-shaped bud at the top weighs it down. Petal-like bracts grow between the overlapping scales surrounding the bud. These fall away to reveal clusters of flowers. Oblong fruit emerge from the base of the flowers. While the stem droops under the weight of the flower, and elongating male bud, the tips of the fruit grow towards the sun, giving bananas their distinctive curved shape.
+<var data-primary="image"></var>
+<var data-image id="Banana Diagram" title="Parts of the Banana Plant" data-url="https://www.brainkart.com/media/extra2/WjWoeWF.jpg" data-region=""></var>
 
 Prior to domestication, wild banana fruits were incredibly seedy and difficult to eat. Scientists now believe that many wild bananas had a genetic predisposition to parthenocarpy, that is the ability to produce fruit without fertilization. Beginning some 7,000 years ago, human selection for parthenocarpy, along with the suppression of seeds by selecting and hybridizing for sterility, resulted in bananas that were sterile and produced fruits that were seedless. Since sterile bananas were easier to eat, humans began propagating wild banana hybrids with these mutations. To propagate a sterile plant, humans “cloned” bananas by collecting and planting the “ramets” or “suckers” of the original plant.
 
@@ -98,8 +100,9 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Nzg2OTgyMCwxMTE5MDY4NDk4LDkwNz
-QxODQ2NCwtMTI2MTU4MDIxMSwxMjc4MzcxNDAyLDE3OTcwMjkw
-NDIsOTEyMTY5MTQwLC01NzUyNjQwNTEsMTUxNzQ5MzM3NiwtMz
-A2OTc1OTAsLTE0NzQ5MjMwMzAsNzUxNDAyMTA0XX0=
+eyJoaXN0b3J5IjpbLTI5Nzc4MzExNSwtNTQ3ODY5ODIwLDExMT
+kwNjg0OTgsOTA3NDE4NDY0LC0xMjYxNTgwMjExLDEyNzgzNzE0
+MDIsMTc5NzAyOTA0Miw5MTIxNjkxNDAsLTU3NTI2NDA1MSwxNT
+E3NDkzMzc2LC0zMDY5NzU5MCwtMTQ3NDkyMzAzMCw3NTE0MDIx
+MDRdfQ==
 -->
