@@ -31,7 +31,7 @@ Some scents regularly appear in our daily lives and give us a sense of familiari
 Mint and common hybrid species such as peppermint have long been held in high esteem. Biblical reference to mint in the [Book of Matthew](https://en.wikipedia.org/wiki/Gospel_of_Matthew) suggests that it was a plant considered of high value to be used as ‘tithes by the Pharisees along with anise and cumin’ (Matthew xxiii, 23). Reaching back further to ancient Greece, where plants were entwined with mythology, Minthe was the Naiad-nymph daughter of the underworld river <var data-scope="element" id="Q939218">Cocytus</var> and loved by the god <var data-scope="element" id="Q41410">Hades</var>. When Hades’ wife, <var data-scope="element" id="Q45967">Persephone</var>, discovered the affair, she was propelled to transform Minthe in to the plant of her name:
 <var data-primary="image"></var>
 <var data-image id="minthe" title="Minthe, engraving by Johann Ulrich Kraus (1655-1719)" data-url="https://jstor-labs.github.io/plant-humanities/images/AWARBURGIG_10311762574_minthe.jpg" data-region=""></var>
-<var data-map title="Greece" data-center="37.506267,21.862627" data-zoom="7"></var>
+<var data-map title="Greece" data-center="37.506267,21.862627" data-zoom="5"></var>
 <var title="Minthi Mountain, Greece" id="Q3561330" data-fill="#5C6609" data-marker-symbol="mountain"></var>
  
 
@@ -95,11 +95,11 @@ Despite not being native to North America, peppermint and peppermint oil in part
 <var data-map title="World" data-center="37.874967,-41.896891" data-zoom="3"></var>
 <var title="colonies" id="Q179997" data-fill="#5C6609" data-marker-symbol="leaf"></var>
 <var data-map-layer title="Atlantic" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mintBrUSline.geojson data-active="true"></var>
-<var data-map-layer title="13 colonies" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/13colonies.geojson data-active="true"></var>
+<var data-map-layer title="Original colonies" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/13colonies.geojson data-active="true"></var>
 
 American colonists were quick to recognize the commercial opportunity presented by locally producing peppermint oil rather than importing it from Britain, no doubt due in part to the ease of growing mint in a variety of environments. Unlike other varieties of mint, the peppermint plant would have been propagated in early America using root cuttings probably from a small number of original plants in England. Commercial peppermint production then, gradually shifted from England to America from the 1750s and likewise, records of peppermint fields in North America show that the first were found near Ashfield in Franklin country, Massachusetts. Mint was later farmed in northern New York and New Jersey. In these early days, essence <var data-scope="element" id="Q638172">peddlers</var> ensured that peppermint was part of a widespread production and distribution network.[^ref12]
 <var data-map title="New England" data-center="42.566426,-71.751354" data-zoom="4"></var>
-<var data-map-layer title="13 colonies" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/13colonies.geojson data-active="true"></var>
+<var data-map-layer title="Original colonies" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/13colonies.geojson data-active="true"></var>
 <var title="Ashfield" id="Q2536103" data-fill="#2d862d" data-marker-symbol="leaf"></var>
 <var title="New York State" id="Q1384" data-fill="#2d862d" data-marker-symbol="leaf"></var>
 <var title="New Jersey" id="Q1408" data-fill="#2d862d" data-marker-symbol="leaf"></var>
