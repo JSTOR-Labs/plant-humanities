@@ -4,6 +4,8 @@
 ## Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy
 
 Everybody knows what a banana is. At least we think we do. Today, the banana is a ubiquitous and easily-to-recognize fruit that even shares the same name or sounds the same in almost every modern language. Yet, despite the fact that you can identify the word for banana across cultures, the actual identification and classification of our modern-day banana is, to quote a popular idiom, “bananas.” It is a genetically modified mystery that continues to defy our system of plant taxonomy.
+<var data-primary="image"></var>
+<var data-image id="Banana, What's in a Name?" title="Banana Across Modern Languages" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_Languages.jpg" data-region=""></var>
 
 ### What’s in a Name?
 In 1753 Carl Von Linnaean’s seminal work, _Systema Naturae,_ formalized a system of nomenclature that standardized plant names and botanical terminology among botanists. This system used Latin binomial names—the first name indicating the genus, and the second the species—to identify and classify all living organism in the natural world. Unlike earlier attempts to group or classify plants, Linnaeus’s system focused solely on the reproductive features of wild plants (not domesticated or manipulated by man) to characterize, organize, and group related plants. While Linnaeus’s system was an artificial structure of classification and hierarchical divisions placed on the plant world, it provided order and standardization from the chaos of plant names created by centuries of disparate European collecting and cataloguing of the plant world. Although not intact in its present form, the Linnaean system has remained largely unchallenged for nearly 250 years.
@@ -92,8 +94,8 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTA2ODQ5OCw5MDc0MTg0NjQsLTEyNj
-E1ODAyMTEsMTI3ODM3MTQwMiwxNzk3MDI5MDQyLDkxMjE2OTE0
-MCwtNTc1MjY0MDUxLDE1MTc0OTMzNzYsLTMwNjk3NTkwLC0xND
-c0OTIzMDMwLDc1MTQwMjEwNF19
+eyJoaXN0b3J5IjpbLTE0OTI4MzkzMjAsMTExOTA2ODQ5OCw5MD
+c0MTg0NjQsLTEyNjE1ODAyMTEsMTI3ODM3MTQwMiwxNzk3MDI5
+MDQyLDkxMjE2OTE0MCwtNTc1MjY0MDUxLDE1MTc0OTMzNzYsLT
+MwNjk3NTkwLC0xNDc0OTIzMDMwLDc1MTQwMjEwNF19
 -->
