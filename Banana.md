@@ -20,11 +20,6 @@ Like humans, wild bananas are diploids: they have two sets of chromosomes and re
 While more diverse that previously understood, Scientists have identified _Musa acuminata_ as the primary wild parent of parthenocarpic bananas within the genus _Musa_. Parthenocarpy, however, makes identifying and classifying banana “species” difficult. As J. Kennedy explains, “Although it is clear that parthenocarpy within section _Musa_ has occurred only in _Musa acuminata_, the parentage of the resulting edible bananas is greatly complicated by the diversity of _Musa acuminata_ at subspecies level. Parthenocarpy probably developed in at least two of these subspecies, and there are many edible hybrids between these and additional wild subspecies.” Further complicating matters are hybridizations between _Musa acuminata_ and _Musa balbisiana_. _Musa balbisiana_ remains less understood than _Musa acuminata_, and has not been divided into subspecies. The distribution, wild/cultivated status, and genetic characterization of _Musa acuminata_ and _Musa balbisiana_ hybrids continues to be debated.
 
 ### The Banana Goes Global
-Thanks to domesticated banana hybrids’ long history of human intervention and migration, Linnaean taxonomy did little to clear up the confusion surrounding identifications and names of banana plants. While scientists eventually deduced that Linnaeus identified two domesticated banana cultivars, not species, the wild progenitors of cultivated bananas as well as the origin of banana domestication remained a mystery. Twenty-first century genome and genetic testing, however, has revealed that the origin of banana domestication was further east than originally thought.  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
-
-### Banana, Plantain, or the Tree of Life?
 Thanks to domesticated bananas’ long history of human intervention and migration, Linnaean taxonomy did little to clear up the confusion surrounding identifications and names of banana plants. While scientists eventually deduced that Linnaeus identified two domesticated banana cultivars, not species, the wild progenitors of cultivated bananas as well as the origin of banana domestication remained a mystery. Twenty-first century genome and genetic testing, however, has revealed that the origin of banana domestication was further east than originally thought.
 <var data-primary="image"></var>
 <var data-image id="Banana Genome Sequencing" title="Whole Genome Sequence of a Wild Banana Relative" data-url="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep31586/MediaObjects/41598_2016_Article_BFsrep31586_Fig1_HTML.jpg?as=webp" data-region=""></var>
@@ -73,7 +68,7 @@ It was a Portuguese physician and naturalist, Garcia de Orta, who would first pr
 <var data-primary="image"></var>
 <var data-image id="Banana Orta" title="Coloquios dos simples e drogas da India" data-url="https://bibdigital.rjb.csic.es/i/?IIIF=/38/80/3b/be/38803bbe-3f4e-4f89-8df9-ac2ca5166d2e/iiif/ORT_Col_Simpl_Drog_1_000353.tif/183.5728155339806,107.65714285714286,1120.4271844660193,1573.6941176470586/!354,497/0/default.jpg" data-region=""></var>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTcyNzIzLC0xMjYxNTgwMjExLDEyNz
+eyJoaXN0b3J5IjpbOTA3NDE4NDY0LC0xMjYxNTgwMjExLDEyNz
 gzNzE0MDIsMTc5NzAyOTA0Miw5MTIxNjkxNDAsLTU3NTI2NDA1
 MSwxNTE3NDkzMzc2LC0zMDY5NzU5MCwtMTQ3NDkyMzAzMCw3NT
 E0MDIxMDRdfQ==
