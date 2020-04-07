@@ -122,7 +122,11 @@ By the seventeenth century, bananas had spread throughout the Caribbean and the 
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/banana_distribution_LA.json"
 	data-active="true"></var>
 
-Even Linnaeus had to rely on the garden and hothouse of the wealthy financier and director of the Dutch East India Company, George Clifford (1685-1760), to see and study a live banana plant. At his estate in Hartenkamp, Holland, and with the assistance of Linnaeus, Clifford successfully flowered a hybrid of _Musa acuminate_ and _Musa balbisiana_. The successful flowering and subsequent fruiting of the rare and exotic banana plant was so momentous that Linnaeus wrote a treatise on the plant, _Musa Cliffortiana_, published in 1736. That same year marked the arrival of the German botanical artist Georg Ehret to Hartekamp. Ehret would provide the illustrations of Clifford’s flowering banana plant for the treatise as well as go on to diagram Linnaeus’s new plant classification system. It was also at the direction of Linnaeus, Ehret began adding details of the plant’s reproductive structures, or flowers, creating a new standard for botanical illustrations.
+Even Linnaeus had to rely on the garden and hothouse of the wealthy financier and director of the Dutch East India Company, George Clifford (1685-1760), to see and study a live banana plant. At his estate in Hartenkamp, Holland, and with the assistance of Linnaeus, Clifford successfully flowered a hybrid of _Musa acuminate_ and _Musa balbisiana_. The successful flowering and subsequent fruiting of the rare and exotic banana plant was so momentous that Linnaeus wrote a treatise on the plant, _Musa Cliffortiana_, published in 1736. 
+<var data-primary="map"></var>
+<var data-map title="New World" data-center="13.740564, -73.144150" data-zoom="3"></var>
+
+That same year marked the arrival of the German botanical artist Georg Ehret to Hartekamp. Ehret would provide the illustrations of Clifford’s flowering banana plant for the treatise as well as go on to diagram Linnaeus’s new plant classification system. It was also at the direction of Linnaeus, Ehret began adding details of the plant’s reproductive structures, or flowers, creating a new standard for botanical illustrations.
 
 It was not until the nineteenth century with the developments of steamships and refrigeration, however, that the banana would become a major global trade commodity. Thanks to these innovations, bananas began pouring into American cities after the Civil War. In Reconstruction America, bananas became increasingly popular as they were seen as a healthy and affordable commodity. Eventually, small-scale, independent cultivation was consolidated and replaced by large-scale production conglomerates, such as the United Fruit Company (UFC). Conglomerates like the UFC focused on cultivation practices and varietals that were easier to ship, more profitable, and desired by consumers. Overtime, one selected mutation of one banana cultivar in particular came to dominate the market, the Gros Michel, thanks to its hardy peel and sweet taste. Monocultures of Gros Michel swiftly supplanted most other banana cultivars in Latin America produced for the American and European markets.
 
@@ -137,11 +141,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Njk0MDcwNCwtMTg2NjY3ODI3MSw4Nj
-gzNTI0NzcsMTcwOTE4MjY0MSwxNTU5MTcwNTQyLC0yMzk5OTAx
-NTEsLTg0NjQ0MDIzOSw3NTc3NDMyMDEsLTIxMTk4MDQzOTMsOD
-Y1MjM2NTI2LC02MjUxNDg4OTAsLTE2NzcyMDg5NjQsLTIyMjQx
-MzU4LDEzMTQ5NDUyMzUsMTc5NjI4NTQ2MywtNTU1Nzg3MjExLC
-0xMjY5MTI5NDI1LDk3NDE2MTMwOSw0MDY3NDE1ODQsNTAzMzgz
-MzU3XX0=
+eyJoaXN0b3J5IjpbNzcwNDg3MDExLC0xODY2Njc4MjcxLDg2OD
+M1MjQ3NywxNzA5MTgyNjQxLDE1NTkxNzA1NDIsLTIzOTk5MDE1
+MSwtODQ2NDQwMjM5LDc1Nzc0MzIwMSwtMjExOTgwNDM5Myw4Nj
+UyMzY1MjYsLTYyNTE0ODg5MCwtMTY3NzIwODk2NCwtMjIyNDEz
+NTgsMTMxNDk0NTIzNSwxNzk2Mjg1NDYzLC01NTU3ODcyMTEsLT
+EyNjkxMjk0MjUsOTc0MTYxMzA5LDQwNjc0MTU4NCw1MDMzODMz
+NTddfQ==
 -->
