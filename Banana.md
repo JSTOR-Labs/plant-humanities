@@ -18,7 +18,7 @@ Everybody knows what a banana is. At least we think we do. Today, the banana is 
 ### What’s in a Name?
 In 1753 Carl Von Linnaean’s seminal work, _Systema Naturae,_ formalized a system of nomenclature that standardized plant names and botanical terminology among botanists. This system used Latin binomial names—the first name indicating the genus, and the second the species—to identify and classify all living organism in the natural world. Unlike earlier attempts to group or classify plants, Linnaeus’s system focused solely on the reproductive features of wild plants (not domesticated or manipulated by man) to characterize, organize, and group related plants. While Linnaeus’s system was an artificial structure of classification and hierarchical divisions placed on the plant world, it provided order and standardization from the chaos of plant names created by centuries of disparate European collecting and cataloguing of the plant world. Although not intact in its present form, the Linnaean system has remained largely unchallenged for nearly 250 years.
 <var data-primary="image"></var>
-<var data-image id="Linnaen system by Ehret" title="Methodus Plantarum Sexualis, Ehret" data-url="https://upload.wikimedia.org/wikipedia/commons/9/99/Ehret-Methodus_Plantarum_Sexualis.jpg" data-region=""></var>
+<var data-image id="Linnaen system by Ehret" title="Methodus Plantarum Sexualis, Ehret" data-fit="contain" data-url="https://upload.wikimedia.org/wikipedia/commons/9/99/Ehret-Methodus_Plantarum_Sexualis.jpg" data-region=""></var>
 
 However, despite Linnaean taxonomy’s international acceptance and longevity, Linnaeus’s system does have its limitations, which we can see in the case of the banana. This is because editable bananas are the product of a complex history of human dependency and exploitation. Linnaeus did not consider domesticated plants species, since they were the product of human manipulation. The two “wild” species of banana identified by Linnaeus–_Musa paradisiaca_ and _Musa sapientum_—were in fact domesticated editable cultivars. Unfortunately, Linnaeus was unaware of the banana’s long and complex history.
 <var data-primary="image"></var>
@@ -150,11 +150,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjgzNzg4MjMsMjA3NjYyNzg3NywyMD
-AxOTE4MTE1LC00NjUwMTg0ODYsNzA1MTU1OTA3LC0xODY2Njc4
-MjcxLDg2ODM1MjQ3NywxNzA5MTgyNjQxLDE1NTkxNzA1NDIsLT
-IzOTk5MDE1MSwtODQ2NDQwMjM5LDc1Nzc0MzIwMSwtMjExOTgw
-NDM5Myw4NjUyMzY1MjYsLTYyNTE0ODg5MCwtMTY3NzIwODk2NC
-wtMjIyNDEzNTgsMTMxNDk0NTIzNSwxNzk2Mjg1NDYzLC01NTU3
-ODcyMTFdfQ==
+eyJoaXN0b3J5IjpbMTMyMzk4NDEzMCwtMTU2ODM3ODgyMywyMD
+c2NjI3ODc3LDIwMDE5MTgxMTUsLTQ2NTAxODQ4Niw3MDUxNTU5
+MDcsLTE4NjY2NzgyNzEsODY4MzUyNDc3LDE3MDkxODI2NDEsMT
+U1OTE3MDU0MiwtMjM5OTkwMTUxLC04NDY0NDAyMzksNzU3NzQz
+MjAxLC0yMTE5ODA0MzkzLDg2NTIzNjUyNiwtNjI1MTQ4ODkwLC
+0xNjc3MjA4OTY0LC0yMjI0MTM1OCwxMzE0OTQ1MjM1LDE3OTYy
+ODU0NjNdfQ==
 -->
