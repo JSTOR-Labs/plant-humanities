@@ -3,7 +3,12 @@
 <var title="Hartekamp" id="Q18771183"></var>
 
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
-
+<var data-map-layer
+	title="Banana Origin and Distribution"
+	data-type="geojson"
+	data-url="https://jstor-labs.github.io/plant-humanities/geojson/top_20_banana_countries.json"
+	data-active="true"></var>
+	
 ## Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy
 
 Everybody knows what a banana is. At least we think we do. Today, the banana is a ubiquitous and easily-to-recognize fruit that even shares the same name or sounds the same in almost every modern language. Yet, despite the fact that you can recognize the word for banana across cultures, the actual identification and classification of our modern-day banana is, to quote a popular idiom, “bananas.” It is a genetically modified mystery that continues to defy our system of plant taxonomy.
@@ -145,11 +150,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjYyNzg3NywyMDAxOTE4MTE1LC00Nj
-UwMTg0ODYsNzA1MTU1OTA3LC0xODY2Njc4MjcxLDg2ODM1MjQ3
-NywxNzA5MTgyNjQxLDE1NTkxNzA1NDIsLTIzOTk5MDE1MSwtOD
-Q2NDQwMjM5LDc1Nzc0MzIwMSwtMjExOTgwNDM5Myw4NjUyMzY1
-MjYsLTYyNTE0ODg5MCwtMTY3NzIwODk2NCwtMjIyNDEzNTgsMT
-MxNDk0NTIzNSwxNzk2Mjg1NDYzLC01NTU3ODcyMTEsLTEyNjkx
-Mjk0MjVdfQ==
+eyJoaXN0b3J5IjpbLTE1NjgzNzg4MjMsMjA3NjYyNzg3NywyMD
+AxOTE4MTE1LC00NjUwMTg0ODYsNzA1MTU1OTA3LC0xODY2Njc4
+MjcxLDg2ODM1MjQ3NywxNzA5MTgyNjQxLDE1NTkxNzA1NDIsLT
+IzOTk5MDE1MSwtODQ2NDQwMjM5LDc1Nzc0MzIwMSwtMjExOTgw
+NDM5Myw4NjUyMzY1MjYsLTYyNTE0ODg5MCwtMTY3NzIwODk2NC
+wtMjIyNDEzNTgsMTMxNDk0NTIzNSwxNzk2Mjg1NDYzLC01NTU3
+ODcyMTFdfQ==
 -->
