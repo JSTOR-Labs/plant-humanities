@@ -33,7 +33,7 @@ Like humans, wild bananas are diploids: they have two sets of chromosomes and re
 <var data-image id="Diploid to Triploid" title="From Diploids to Triploids" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/From_Diploid_to_Triploid.jpg" data-region=""></var>
 
 While more diverse that previously understood, Scientists have identified _Musa acuminata_ as the primary wild parent of parthenocarpic bananas within the genus _Musa_. Parthenocarpy, however, makes identifying and classifying banana “species” difficult. As J. Kennedy explains, “Although it is clear that parthenocarpy within section _Musa_ has occurred only in _Musa acuminata_, the parentage of the resulting edible bananas is greatly complicated by the diversity of _Musa acuminata_ at subspecies level. Parthenocarpy probably developed in at least two of these subspecies, and there are many edible hybrids between these and additional wild subspecies.” Further complicating matters are hybridizations between _Musa acuminata_ and _Musa balbisiana_. _Musa balbisiana_ remains less understood than _Musa acuminata_, and has not been divided into subspecies. The distribution, wild/cultivated status, and genetic characterization of _Musa acuminata_ and _Musa balbisiana_ hybrids continues to be debated.
-<var data-map title="New World" data-center="2.025114, 115.646563" data-zoom="3.5"></var>
+<var data-map title="New World" data-center="2.773646, 119.184323" data-zoom="3.5"></var>
 <var data-map-layer
 	title="Banana Origin and Distribution"
 	data-type="geojson"
@@ -145,11 +145,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5NjAyODA2LC00NjUwMTg0ODYsNzA1MT
-U1OTA3LC0xODY2Njc4MjcxLDg2ODM1MjQ3NywxNzA5MTgyNjQx
-LDE1NTkxNzA1NDIsLTIzOTk5MDE1MSwtODQ2NDQwMjM5LDc1Nz
-c0MzIwMSwtMjExOTgwNDM5Myw4NjUyMzY1MjYsLTYyNTE0ODg5
-MCwtMTY3NzIwODk2NCwtMjIyNDEzNTgsMTMxNDk0NTIzNSwxNz
-k2Mjg1NDYzLC01NTU3ODcyMTEsLTEyNjkxMjk0MjUsOTc0MTYx
-MzA5XX0=
+eyJoaXN0b3J5IjpbMjAwMTkxODExNSwtNDY1MDE4NDg2LDcwNT
+E1NTkwNywtMTg2NjY3ODI3MSw4NjgzNTI0NzcsMTcwOTE4MjY0
+MSwxNTU5MTcwNTQyLC0yMzk5OTAxNTEsLTg0NjQ0MDIzOSw3NT
+c3NDMyMDEsLTIxMTk4MDQzOTMsODY1MjM2NTI2LC02MjUxNDg4
+OTAsLTE2NzcyMDg5NjQsLTIyMjQxMzU4LDEzMTQ5NDUyMzUsMT
+c5NjI4NTQ2MywtNTU1Nzg3MjExLC0xMjY5MTI5NDI1LDk3NDE2
+MTMwOV19
 -->
