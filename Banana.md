@@ -33,7 +33,7 @@ Like humans, wild bananas are diploids: they have two sets of chromosomes and re
 <var data-image id="Diploid to Triploid" title="From Diploids to Triploids" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/From_Diploid_to_Triploid.jpg" data-region=""></var>
 
 While more diverse that previously understood, Scientists have identified _Musa acuminata_ as the primary wild parent of parthenocarpic bananas within the genus _Musa_. Parthenocarpy, however, makes identifying and classifying banana “species” difficult. As J. Kennedy explains, “Although it is clear that parthenocarpy within section _Musa_ has occurred only in _Musa acuminata_, the parentage of the resulting edible bananas is greatly complicated by the diversity of _Musa acuminata_ at subspecies level. Parthenocarpy probably developed in at least two of these subspecies, and there are many edible hybrids between these and additional wild subspecies.” Further complicating matters are hybridizations between _Musa acuminata_ and _Musa balbisiana_. _Musa balbisiana_ remains less understood than _Musa acuminata_, and has not been divided into subspecies. The distribution, wild/cultivated status, and genetic characterization of _Musa acuminata_ and _Musa balbisiana_ hybrids continues to be debated.
-<var data-map title="New World" data-center="2.827324, 134.889630" data-zoom="4"></var>
+<var data-map title="New World" data-center="2.025114, 115.646563" data-zoom="3.5"></var>
 <var data-map-layer
 	title="Banana Origin and Distribution"
 	data-type="geojson"
@@ -145,11 +145,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE5MzUwNjIsLTQ2NTAxODQ4Niw3MD
-UxNTU5MDcsLTE4NjY2NzgyNzEsODY4MzUyNDc3LDE3MDkxODI2
-NDEsMTU1OTE3MDU0MiwtMjM5OTkwMTUxLC04NDY0NDAyMzksNz
-U3NzQzMjAxLC0yMTE5ODA0MzkzLDg2NTIzNjUyNiwtNjI1MTQ4
-ODkwLC0xNjc3MjA4OTY0LC0yMjI0MTM1OCwxMzE0OTQ1MjM1LD
-E3OTYyODU0NjMsLTU1NTc4NzIxMSwtMTI2OTEyOTQyNSw5NzQx
-NjEzMDldfQ==
+eyJoaXN0b3J5IjpbMzE5NjAyODA2LC00NjUwMTg0ODYsNzA1MT
+U1OTA3LC0xODY2Njc4MjcxLDg2ODM1MjQ3NywxNzA5MTgyNjQx
+LDE1NTkxNzA1NDIsLTIzOTk5MDE1MSwtODQ2NDQwMjM5LDc1Nz
+c0MzIwMSwtMjExOTgwNDM5Myw4NjUyMzY1MjYsLTYyNTE0ODg5
+MCwtMTY3NzIwODk2NCwtMjIyNDEzNTgsMTMxNDk0NTIzNSwxNz
+k2Mjg1NDYzLC01NTU3ODcyMTEsLTEyNjkxMjk0MjUsOTc0MTYx
+MzA5XX0=
 -->
