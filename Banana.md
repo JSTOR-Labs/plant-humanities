@@ -143,7 +143,7 @@ It was not until the nineteenth century with the developments of steamships and 
 
 In the early 20th century, multinational American corporations, like the UFC, were also instrumental to the creation of the banana republic phenomenon. The UFC and other companies bought huge swaths of land and built massive infrastructure in Central and South American countries with environments that could support banana production, such as Honduras and Guatemala. Many of these countries had nascent democratic or unstable governments and quickly became economically dependent on exporting a single product—the banana. With such a grip on a country’s infrastructure and wealth, these companies also came to dominate the government, propping up corrupt dictatorships that exploited the working class and favored the economic interests of foreign corporations.
 <var data-primary="image"></var>
-<var data-image id="LOC image" title="Banana Cart in New York City, 1902, courtesy of the Library of Congress" data-fit="cover" data-url="https://cdn.loc.gov/service/pnp/det/4a10000/4a19000/4a19800/4a19873v.jpg" data-region=""></var>
+<var data-image id="LOC image 2" title="United Fruit Company banana conveyors, New Orleans, La., Library of Congress Prints and Photographs Division Washington, D.C." data-fit="cover" data-url="https://cdn.loc.gov/service/pnp/det/4a10000/4a19000/4a19800/4a19873v.jpg" data-region=""></var>
 
 In the end, an intense monoculture focused on the vegetal propagation of one mutation of one banana hybrid proved unsustainable. Lacking genetic diversity, Gros Michel banana plantations across the globe fell victim to a pathogen known as _Fusarium oxysporum_, or “Panama Disease.” From 1899 to the 1950s Panama Disease destroyed Gros Michel crops throughout the Americas. Desperate to replace the valuable export, fruit conglomerates abandoned the Gros Michel for a new varietal, the smaller and less flavorful Cavendish banana.
 
@@ -154,11 +154,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwNTA2NTI5LC0yMzM5NjM1NzAsNjgxMj
-U5MDgwLDExNzMyNTk5MTUsLTE1NjgzNzg4MjMsMjA3NjYyNzg3
-NywyMDAxOTE4MTE1LC00NjUwMTg0ODYsNzA1MTU1OTA3LC0xOD
-Y2Njc4MjcxLDg2ODM1MjQ3NywxNzA5MTgyNjQxLDE1NTkxNzA1
-NDIsLTIzOTk5MDE1MSwtODQ2NDQwMjM5LDc1Nzc0MzIwMSwtMj
-ExOTgwNDM5Myw4NjUyMzY1MjYsLTYyNTE0ODg5MCwtMTY3NzIw
-ODk2NF19
+eyJoaXN0b3J5IjpbLTM0MjA0OTE3NywtMjMzOTYzNTcwLDY4MT
+I1OTA4MCwxMTczMjU5OTE1LC0xNTY4Mzc4ODIzLDIwNzY2Mjc4
+NzcsMjAwMTkxODExNSwtNDY1MDE4NDg2LDcwNTE1NTkwNywtMT
+g2NjY3ODI3MSw4NjgzNTI0NzcsMTcwOTE4MjY0MSwxNTU5MTcw
+NTQyLC0yMzk5OTAxNTEsLTg0NjQ0MDIzOSw3NTc3NDMyMDEsLT
+IxMTk4MDQzOTMsODY1MjM2NTI2LC02MjUxNDg4OTAsLTE2Nzcy
+MDg5NjRdfQ==
 -->
