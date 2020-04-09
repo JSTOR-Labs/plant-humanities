@@ -138,6 +138,8 @@ Even Linnaeus had to rely on the garden and hothouse of the wealthy financier an
 <var data-map title="Hartenkamp, Holland" data-center="Q18771183" data-zoom="6.5"></var>
 
 It was not until the nineteenth century with the developments of steamships and refrigeration, however, that the banana would become a major global trade commodity. Thanks to these innovations, bananas began pouring into American cities after the Civil War. In Reconstruction America, bananas became increasingly popular as they were seen as a healthy and affordable commodity. Eventually, small-scale, independent cultivation was consolidated and replaced by large-scale production conglomerates, such as the United Fruit Company (UFC). Conglomerates like the UFC focused on cultivation practices and varietals that were easier to ship, more profitable, and desired by consumers. Overtime, one selected mutation of one banana cultivar in particular came to dominate the market, the Gros Michel, thanks to its hardy peel and sweet taste. Monocultures of Gros Michel swiftly supplanted most other banana cultivars in Latin America produced for the American and European markets.
+<var data-primary="image"></var>
+<var data-image id="LOC image" title="Banana Cart in New York City, 1902, courtesy of the Library of Con" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_Cart_NYC_1902_LOC.jpg" data-region=""></var>
 
 In the early 20th century, multinational American corporations, like the UFC, were also instrumental to the creation of the banana republic phenomenon. The UFC and other companies bought huge swaths of land and built massive infrastructure in Central and South American countries with environments that could support banana production, such as Honduras and Guatemala. Many of these countries had nascent democratic or unstable governments and quickly became economically dependent on exporting a single product—the banana. With such a grip on a country’s infrastructure and wealth, these companies also came to dominate the government, propping up corrupt dictatorships that exploited the working class and favored the economic interests of foreign corporations.
 
@@ -150,11 +152,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxMjU5MDgwLDExNzMyNTk5MTUsLTE1Nj
-gzNzg4MjMsMjA3NjYyNzg3NywyMDAxOTE4MTE1LC00NjUwMTg0
-ODYsNzA1MTU1OTA3LC0xODY2Njc4MjcxLDg2ODM1MjQ3NywxNz
-A5MTgyNjQxLDE1NTkxNzA1NDIsLTIzOTk5MDE1MSwtODQ2NDQw
-MjM5LDc1Nzc0MzIwMSwtMjExOTgwNDM5Myw4NjUyMzY1MjYsLT
-YyNTE0ODg5MCwtMTY3NzIwODk2NCwtMjIyNDEzNTgsMTMxNDk0
-NTIzNV19
+eyJoaXN0b3J5IjpbLTI2NTkwNzM0OCw2ODEyNTkwODAsMTE3Mz
+I1OTkxNSwtMTU2ODM3ODgyMywyMDc2NjI3ODc3LDIwMDE5MTgx
+MTUsLTQ2NTAxODQ4Niw3MDUxNTU5MDcsLTE4NjY2NzgyNzEsOD
+Y4MzUyNDc3LDE3MDkxODI2NDEsMTU1OTE3MDU0MiwtMjM5OTkw
+MTUxLC04NDY0NDAyMzksNzU3NzQzMjAxLC0yMTE5ODA0MzkzLD
+g2NTIzNjUyNiwtNjI1MTQ4ODkwLC0xNjc3MjA4OTY0LC0yMjI0
+MTM1OF19
 -->
