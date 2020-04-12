@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#5c6609",
+        "marker-size": "large",
+        "marker-symbol": "seedling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83180236816406,
+          18.933567506038145
+        ]
+      }
+    }
+  ]
+}
