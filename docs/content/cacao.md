@@ -50,7 +50,7 @@
 
 While colonial encounters are often conceptualized as a one-way street, with the colonizers subjugating the colonized, the historical picture is more complex. During the early modern period, Europeans sought to benefit from new economic goods and networks in the Americas. However, economies do not function in a vacuum and, to truly benefit, Europeans had to assimilate into the other cultural spheres of foreign lands. This meant learning about indigenous perspectives and knowledge, which Europeans exploited for their own benefit both in the New World and eventually back in their homelands, ultimately ‘globalizing’ pre-existing indigenous networks. One of the most famous indigenous networks that Europeans made efforts to control was that of cacao, _Theobroma cacao_. The primary sources from this initial period of interaction document the knowledge gained from the native populations of the Americas.
 <var data-image-viewer></var>  
-<var data-image id="JSTOR Global Plants" title="Cacao illustration" data-url="https://plants.jstor.org/stable/10.5555/al.ap.specimen.bm000589107?searchUri=si%3D1%26ff%3Dps_repository_name_str__ps_collection_name_str__ps_type%26filter%3Dname%26so%3Dps_group_by_genus_species%2Basc%26Query%3Dtheobroma%2Bcacao" data-region=""></var>
+<var data-image id="JSTOR Global Plants" title="Cacao illustration" data-url="https://plants.jstor.org/stable/10.5555/al.ap.specimen.bm000589107?searchUri=si%3D1%26ff%3Dps_repository_name_str__ps_collection_name_str__ps_type%26filter%3Dname%26so%3Dps_group_by_genus_species%2Basc%26Query%3Dtheobroma%2Bcacao" data-region="" data-fit="fill"></var>
 <var data-scope="local" id="Q42385"></var>
 <var data-scope="local" id="Q828" data-fill="#5C6609" data-marker-symbol="globe-americas" data-aliases="New World"></var>
 <var data-scope="local" id="Q46" data-fill="#5C6609" data-marker-symbol="globe-europe" data-aliases="homelands"></var>
@@ -73,8 +73,8 @@ After contact, the  earliest  representations of cacao come from  a Mexica (Azte
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
      data-active="true"></var>
 <var data-image-viewer></var> 
-<var data-image id="The Badianus Manuscript" title="The Badianus Manuscript" data-url="https://www.mexicolore.co.uk/images-3/331_03_2.jpg" data-region=""></var>
-<var data-image id="Colegio Santa Cruz in Tlatelolco, Mexico" title="Colegio Santa Cruz in Tlatelolco, Mexico" data-url="https://upload.wikimedia.org/wikipedia/commons/3/36/Tlatelolco.jpg" data-region=""></var>
+<var data-image id="The Badianus Manuscript" title="The Badianus Manuscript" data-url="https://www.mexicolore.co.uk/images-3/331_03_2.jpg" data-region="" data-fit="fill"></var>
+<var data-image id="Colegio Santa Cruz in Tlatelolco, Mexico" title="Colegio Santa Cruz in Tlatelolco, Mexico" data-url="https://upload.wikimedia.org/wikipedia/commons/3/36/Tlatelolco.jpg" data-region="" data-fit="contain"></var>
 
 
 A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a recipe entitled “Trees and flowers for the fatigue of those administering the government and holding public office”.[^ref3] The other representation of cacao found in the text, identified as *Cacauaxochitl* in Nahautl, shows the plant in flower.[^ref4] While previous scholars have identified this plant as _Quararibea funebris_ because of the similarity of the Nahuatl name given with that of one described by Francisco Hernández de Toledo, the deep orange and yellow petals along with the overall structure of the petals, pistil, and stamen depicted actually support the identification of it as a flowering and budding _Theobroma cacao_.[^ref5] The _Cacauaxochitl_ illustration is featured with a recipe for  “Mental Stupor” that calls for the use of its bark and roots. This same flowered cacao tree  (_Cacauaxochitl_), while not illustrated,  also features in recipes for hurt feet and as a cure for fear. 
