@@ -2357,7 +2357,7 @@
       "properties": {
         "fill": "#32C125",
         "fill-opacity": 0.5,
-        "stroke": "#32C125",
+        "stroke": "#7B7B7B",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "GEO_ID": "0500000US45089",
@@ -12548,7 +12548,7 @@
       "properties": {
         "fill": "#32C125",
         "fill-opacity": 0.5,
-        "stroke": "#32C125",
+        "stroke": "#7B7B7B",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "GEO_ID": "0500000US45053",
