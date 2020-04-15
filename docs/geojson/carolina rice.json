@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#5c6609",
         "marker-size": "large",
         "marker-symbol": "hand-holding-seedling"
       },
@@ -19,7 +19,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#5c6609",
         "marker-size": "large",
         "marker-symbol": "hand-holding-seedling"
       },
