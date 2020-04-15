@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "hand-holding-seedling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.60400390625,
+          12.361465967347373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "hand-holding-seedling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.870361328125,
+          33.330528249028085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#5c6609",
+        "marker-size": "large",
+        "marker-symbol": "hand-holding-seedling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3544921875,
+          21.739091217718574
+        ]
+      }
+    }
+  ]
+}
