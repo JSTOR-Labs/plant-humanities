@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#5c6609",
         "marker-size": "large",
-        "marker-symbol": "town"
+        "marker-symbol": "archway"
       },
       "geometry": {
         "type": "Point",
