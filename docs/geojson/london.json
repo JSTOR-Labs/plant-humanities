@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#5c6609",
         "marker-size": "large",
-        "marker-symbol": "library"
+        "marker-symbol": "book"
       },
       "geometry": {
         "type": "Point",
