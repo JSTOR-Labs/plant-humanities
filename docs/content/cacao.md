@@ -14,6 +14,9 @@
 <var title="Girolamo Benzoni" id="Q1236037" data-aliases="Benzoni"></var>
 <var title="John Parkinson" id="Q256288" data-aliases="Parkinson"></var>
 <var title="Carolus Clusius" id="Q333372"></var>
+<var title="Hugh Morgan" id="Q5932025"></var>
+<var title="Court of Chancery" id="Q284804"></var>
+<var title="Elizabeth I of England" id="Q7207" data-aliases="Elizabeth I"></var>
 <var title="Francis Drake" id="Q36517" data-aliases="Sir Drake"></var>
 <var title="John Gerard" id="Q1333338" data-aliases="Gerard"></var>
 <var title="Nicolás Monardes" id="Q950531" data-aliases="Monardes"></var>
@@ -134,7 +137,7 @@ In these Mexica recipes, the association of cacao with curing particular ailment
 <var data-image id="Mesoamerica" title="Mesoamerica" data-url="https://commons.wikimedia.org/wiki/File:Mesoamerica_topographic_map-blank.svg"></var>
 
 The milpa cycle is  a  process  of felling, burning, planting, and harvesting a plot of land that,  after a few years,  is left to ‘fallow.’[^ref7] However, this would not be fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots. After this stage, the cycle would restart, where some plants would be left to grow, others would be pulled and burnt, and staple crops would be planted in the ashes to eventually be harvested.
-<var data-image id="The Milpa Cycle" title="The Milpa Cycle" data-url="https://jstor-labs.github.io/plant-humanities/geojson/Milpa Cycle Info.jpg"></var>
+<var data-image id="The Milpa Cycle" title="The Milpa Cycle" data-url="https://jstor-labs.github.io/plant-humanities/images/MilpaCycleInfo.jpg" data-fit="scale-down"></var>
 
 Ancient Maya leaders represented themselves as or in relation to this cycle and its  associated  plants  of importance, mainly cacao and maize, attempting to embody the power of the natural world. For example, we see the  ancient Maya  depict ancestors of rulers  as cacao trees  growing from the sarcophagi of dead  ‘maize god’  rulers at the site of Palenque  and  cacao trees anthropomorphized  as deities on intricately carved vessels. By invoking this cycle in representing themselves and deities, Maya political leaders were giving precedence to the subsistence practices, ideologies, and plants they incorporated.  Given this ancient association of cacao with the power of the natural world, it is not surprising to see cacao as an ingredient in the Badianus’ recipes for curing fear and malaise, particularly for political leaders.
 <var data-primary="image"></var>
@@ -262,7 +265,7 @@ At first thought, it is surprising  that cacao does  not  appear  in  any  of  t
 <var data-image id="Plaque marking the Seville location of Monardes' gardens and residence" title="Plaque marking the Seville location of Monardes' gardens and residence" data-url="https://notevenpast.org/wp-content/uploads/2015/04/Monardes-plaque-Seville.jpg"></var>
 
 
-We do see cacao in  John Gerard’s _The Herball_ from 1597, referenced  in Latin as _Beretinus_  _fructus_.  Gerard mentions  that this plant was used by the native  populations encountered by Sir Francis Drake to pay tribute to their  political leaders, again echoing the deep-rooted ideologies associating cacao with  economic and political networks.  It is here that we learn of a cacao specimen brought to England by Sir Drake. John Parkinson’s 1640 volume adds to our knowledge about these cacao specimens, indicating that they were brought by Sir Francis Drake after his 1580 voyage. Some of them eventually  found their way to Carolus Clusius by means of a Master Garth and Master Morgan.[^ref14] 
+Yet cacao seeds made it to England, where the well-known herbalists John Gerard and John Parkinson were based, by the end of the 16th century. The plant is featured in John Gerard’s _The Herball_ from 1597, referenced  in Latin as _Beretinus_  _fructus_.  Gerard mentions  that this plant was used by the native  populations encountered by Sir Francis Drake to pay tribute to their  political leaders, again echoing the deep-rooted ideologies associating cacao with  economic and political networks.  It is here that we learn that the cacao specimens were brought to England by Sir Drake. John Parkinson’s 1640 volume adds to our knowledge about these cacao specimens, indicating that they were brought by Sir Francis Drake after his 1580 voyage. Some of which eventually  found their way to Carolus Clusius in Leiden by means of Master Richard Garth, an officer of the Court of Chancery in London, and Master Hugh Morgan, an apothecary to Queen Elizabeth I.[^ref14] These specimens are then used by Clusius to create a mention of cacao in his 1604 _Exoticorum libri decem_.
 <var data-map title="World" data-center="25.164766, -76.133328" data-zoom="2"></var>
 <var data-map-layer
      title="Americas and Europe"
