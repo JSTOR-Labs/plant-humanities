@@ -37,13 +37,11 @@ While more diverse that previously understood, Scientists have identified _Musa 
 	data-active="true"></var>
 	
 ### What’s in a Name?
-<![endif]-->
-
 In 1753 Carl Von Linnaean’s formative work, _Systema Naturae,_ formalized a system of nomenclature that standardized plant names and botanical terminology among botanists. This system used Latin binomial names—the first name indicating the genus, and the second the species—to identify and classify all living organism in the natural world. Unlike earlier attempts to group or classify plants, Linnaeus’s system focused solely on the reproductive features of wild plants (not domesticated) to characterize, organize, and group related plants. While Linnaeus’s system was an artificial structure of classification and hierarchical divisions placed on the plant world, it provided order and standardization from the chaos of plant names created by centuries of disparate European collecting and cataloguing of the plant world. While the Linnaean system has been revised, modified, and added to over the centuries, it has remained largely unchallenged for nearly 250 years.
 <var data-primary="image"></var>
 <var data-image id="Linnaen system by Ehret" title="Methodus Plantarum Sexualis, Ehret" data-fit="contain" data-url="https://upload.wikimedia.org/wikipedia/commons/9/99/Ehret-Methodus_Plantarum_Sexualis.jpg" data-region=""></var>
 
-However, despite Linnaean taxonomy’s international acceptance and longevity, Linnaeus’s system does have its limitations, which we can see in the case of the banana. This is because editable bananas are the product of a complex history of human dependency and exploitation. Linnaeus did not consider domesticated plants species, since they were the product of human manipulation. The two “wild” species of banana identified by Linnaeus–_Musa paradisiaca_ and _Musa sapientum_—were in fact domesticated editable cultivars. Unfortunately, Linnaeus was unaware of the banana’s long and complex history.
+Yet, despite Linnaean taxonomy’s international acceptance and longevity, Linnaeus’s system does have its limitations, which we can see in the case of the banana. This is because editable bananas are the product of a complex history of human dependency and exploitation. Linnaeus did not consider domesticated plants species, since they were the product of human manipulation. The two “wild” species of banana identified by Linnaeus–_Musa paradisiaca_ and _Musa sapientum_—were in fact domesticated editable cultivars. Unfortunately, Linnaeus was unaware of the banana’s long and complex history.
 <var data-primary="image"></var>
 <var data-image id="Musa by Ehret" title="Banana plant (Musa species):flowering and fruiting plant with stolons and separate floral segments and sectioned fruit, also a description of the plant's growth, anatomical labels and a scale bar. Etching by G. D. Ehret, c. 1742" data-url="https://iiif.wellcomecollection.org/image/V0043033.jpg/full/2048%2C/0/default.jpg" data-region=""></var>
 
@@ -67,8 +65,8 @@ From the Philippines and Papua New Guinea, domesticated parthenocarpic bananas t
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/banana_distribution.json"
 	data-active="true"></var>
-
-Europeans first encountered bananas, or accounts of the plant, through Alexander the Great’s Asiatic campaign in 331-323 BCE. According to Theophrastus and Pliny, one of the plants Alexander saw, recorded, and brought back to Asia Minor was the banana (some sort of Musa species). Unfortunately, Europeans had neither the climate to grow bananas nor the proximity to their natural habitat to import the fresh fruit. So, while bananas became a staple food crop in Africa, India, Southeast Asia, and the Pacific, they remained an exotic curiosity in Europe.
+	
+Europeans first learned of bananas through Alexander the Great’s Asiatic campaign in 331-323 BCE. According to Theophrastus and Pliny, one of the plants Alexander saw, recorded, and brought back to Asia Minor was the banana. Europeans, however, had neither the climate to grow bananas nor the proximity to their natural habitat to import the fresh fruit. So, while bananas became a staple food crop in Africa, India, Southeast Asia, and the Pacific, they remained an exotic curiosity in Europe.
 <var data-map title="New World" data-center="35.940967, 54.291270" data-zoom="3.5"></var>
 <var data-map-layer
 	title="Banana Origin and Distribution"
@@ -156,11 +154,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQxMTMzNDgsLTM0MjA0OTE3NywtMj
-MzOTYzNTcwLDY4MTI1OTA4MCwxMTczMjU5OTE1LC0xNTY4Mzc4
-ODIzLDIwNzY2Mjc4NzcsMjAwMTkxODExNSwtNDY1MDE4NDg2LD
-cwNTE1NTkwNywtMTg2NjY3ODI3MSw4NjgzNTI0NzcsMTcwOTE4
-MjY0MSwxNTU5MTcwNTQyLC0yMzk5OTAxNTEsLTg0NjQ0MDIzOS
-w3NTc3NDMyMDEsLTIxMTk4MDQzOTMsODY1MjM2NTI2LC02MjUx
-NDg4OTBdfQ==
+eyJoaXN0b3J5IjpbMTMyODM0NTQzNywtMzQyMDQ5MTc3LC0yMz
+M5NjM1NzAsNjgxMjU5MDgwLDExNzMyNTk5MTUsLTE1NjgzNzg4
+MjMsMjA3NjYyNzg3NywyMDAxOTE4MTE1LC00NjUwMTg0ODYsNz
+A1MTU1OTA3LC0xODY2Njc4MjcxLDg2ODM1MjQ3NywxNzA5MTgy
+NjQxLDE1NTkxNzA1NDIsLTIzOTk5MDE1MSwtODQ2NDQwMjM5LD
+c1Nzc0MzIwMSwtMjExOTgwNDM5Myw4NjUyMzY1MjYsLTYyNTE0
+ODg5MF19
 -->
