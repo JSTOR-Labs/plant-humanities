@@ -29,7 +29,7 @@ Bananas are herbaceous plants, not trees, and while they resemble palms, they ar
 <var data-primary="image"></var>
 <var data-image id="Banana Diagram" title="Parts of the Banana Plant" data-url="http://www.brainkart.com/media/article/article-Botanical-Descriptio-A0V.png" data-region=""></var>
 
-Prior to domestication, wild banana fruits were incredibly seedy and difficult to eat. Scientists now believe that many wild bananas had a genetic predisposition to parthenocarpy, that is the ability to produce fruit without fertilization. Beginning some 7,000 years ago, human selection for parthenocarpy, along with the suppression of seeds by selecting and hybridizing for sterility, resulted in bananas that were sterile and produced fruits that were seedless. Since sterile bananas were easier to eat, humans began propagating wild banana hybrids with these mutations. To propagate a sterile plant, humans “cloned” bananas by collecting and planting the “ramets” or “suckers” of the original plant.
+Prior to domestication, wild banana fruits were incredibly seedy and difficult to eat. Scientists now believe that many wild bananas had a genetic predisposition to parthenocarpy, or the ability to produce fruit without fertilization. Beginning some 7,000 years ago, human selection for parthenocarpy, along with the suppression of seeds by selecting and hybridizing for sterility, resulted in bananas that were sterile and produced fruits that were seedless. Since sterile bananas were easier to eat, humans began propagating wild banana hybrids with these mutations. To propagate a sterile plant, humans “cloned” bananas by collecting and planting the “ramets” or “suckers” of the original plant.
 <var data-primary="image"></var>
 <var data-image id="# Domestication of the banana" title="An edible and seedless Cavendish banana next to its ancestor, the wild species Musa acuminata." data-fit="contain" data-url="http://www.musarama.org/upload/high/domestication-of-the-banana.jpg" data-region=""></var>
 
@@ -154,7 +154,7 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTM2MTQ5LC0zNDIwNDkxNzcsLTIzMz
+eyJoaXN0b3J5IjpbNjE3MDM0MzIzLC0zNDIwNDkxNzcsLTIzMz
 k2MzU3MCw2ODEyNTkwODAsMTE3MzI1OTkxNSwtMTU2ODM3ODgy
 MywyMDc2NjI3ODc3LDIwMDE5MTgxMTUsLTQ2NTAxODQ4Niw3MD
 UxNTU5MDcsLTE4NjY2NzgyNzEsODY4MzUyNDc3LDE3MDkxODI2
