@@ -103,7 +103,7 @@ The most influential European author of the period, Italian physician Pietro And
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Banana_Islamic_Empire.json"
 	data-active="true"></var>
 
-Italian physicians and naturalists like Mattioli, adopted the Arabic name for banana since it was through contact with the Islamic territories  in the late Middle Ages, as well as the writings of Islamic physicians such as Avicenna, that Italy was first introduced to the plant. Although Mattioli did not mention or describe the “musa tree” in the first edition of his famous herbal, a later edition in Latin is likely the first European herbal to describe banana.
+Italian physicians and naturalists like Mattioli, adopted the Arabic name for banana since it was through contact with the Islamic territories  in the late Middle Ages, as well as the writings of Islamic physicians such as Avicenna, that Italy was first introduced to the plant. Although Mattioli did not mention or describe the “musa tree” in the first edition of his famous herbal, a later edition in Latin is likely the first European herbal entry to describe banana in 1554.
 <var data-primary="map"></var>
 <var data-map title="New World" data-center="39.066017, 15.997291" data-zoom="4"></var>
 <var data-map-layer
@@ -137,7 +137,7 @@ Even Linnaeus had to rely on the garden and hothouse of the wealthy financier an
 <var data-primary="map"></var>
 <var data-map title="Hartenkamp, Holland" data-center="Q18771183" data-zoom="6.5"></var>
 
-It was not until the nineteenth century with the developments of steamships and refrigeration, however, that the banana would become a major global trade commodity. Thanks to these innovations, bananas began pouring into American cities after the Civil War. In Reconstruction America, bananas became increasingly popular as they were seen as a healthy and affordable commodity. Eventually, small-scale, independent cultivation was consolidated and replaced by large-scale production conglomerates, such as the United Fruit Company (UFC). Conglomerates like the UFC focused on cultivation practices and varietals that were easier to ship, more profitable, and desired by consumers. Overtime, one selected mutation of one banana cultivar in particular came to dominate the market, the Gros Michel, thanks to its hardy peel and sweet taste. Monocultures of Gros Michel swiftly supplanted most other banana cultivars in Latin America produced for the American and European markets.
+It was not until the nineteenth century with the developments of steamships and refrigeration, however, that the <![endif]--> the Central and South American banana would become a major global trade commodity. Thanks to these innovations, bananas began pouring into American cities after the Civil War. In Reconstruction America, bananas became increasingly popular as they were seen as a healthy and affordable commodity. Eventually, small-scale, independent cultivation was consolidated and replaced by large-scale production conglomerates, such as the United Fruit Company (UFC). Conglomerates like the UFC focused on cultivation practices and varietals that were easier to ship, more profitable, and desired by consumers. Overtime, one selected mutation of one banana cultivar in particular came to dominate the market, the Gros Michel, thanks to its hardy peel and sweet taste. Monocultures of Gros Michel swiftly supplanted most other banana cultivars in Latin America produced for the American and European markets.
 <var data-primary="image"></var>
 <var data-image id="LOC image" title="Banana Cart in New York City, 1902, courtesy of the Library of Congress" data-fit="cover" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_Cart_NYC_1902_LOC.jpg" data-region=""></var>
 
@@ -154,7 +154,7 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjAyMTc5NiwtMzQyMDQ5MTc3LC0yMz
+eyJoaXN0b3J5IjpbLTkxNTI4MDQ5MSwtMzQyMDQ5MTc3LC0yMz
 M5NjM1NzAsNjgxMjU5MDgwLDExNzMyNTk5MTUsLTE1NjgzNzg4
 MjMsMjA3NjYyNzg3NywyMDAxOTE4MTE1LC00NjUwMTg0ODYsNz
 A1MTU1OTA3LC0xODY2Njc4MjcxLDg2ODM1MjQ3NywxNzA5MTgy
