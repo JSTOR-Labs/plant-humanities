@@ -15,15 +15,6 @@ Everybody knows what a banana is. At least we think we do. Today, the banana is 
 <var data-primary="image"></var>
 <var data-image id="Banana, What's in a Name?" title="Banana Across Modern Languages" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_Languages.jpg" data-region=""></var>
 
-### What’s in a Name?
-In 1753 Carl Von Linnaean’s seminal work, _Systema Naturae,_ formalized a system of nomenclature that standardized plant names and botanical terminology among botanists. This system used Latin binomial names—the first name indicating the genus, and the second the species—to identify and classify all living organism in the natural world. Unlike earlier attempts to group or classify plants, Linnaeus’s system focused solely on the reproductive features of wild plants (not domesticated or manipulated by man) to characterize, organize, and group related plants. While Linnaeus’s system was an artificial structure of classification and hierarchical divisions placed on the plant world, it provided order and standardization from the chaos of plant names created by centuries of disparate European collecting and cataloguing of the plant world. Although not intact in its present form, the Linnaean system has remained largely unchallenged for nearly 250 years.
-<var data-primary="image"></var>
-<var data-image id="Linnaen system by Ehret" title="Methodus Plantarum Sexualis, Ehret" data-fit="contain" data-url="https://upload.wikimedia.org/wikipedia/commons/9/99/Ehret-Methodus_Plantarum_Sexualis.jpg" data-region=""></var>
-
-However, despite Linnaean taxonomy’s international acceptance and longevity, Linnaeus’s system does have its limitations, which we can see in the case of the banana. This is because editable bananas are the product of a complex history of human dependency and exploitation. Linnaeus did not consider domesticated plants species, since they were the product of human manipulation. The two “wild” species of banana identified by Linnaeus–_Musa paradisiaca_ and _Musa sapientum_—were in fact domesticated editable cultivars. Unfortunately, Linnaeus was unaware of the banana’s long and complex history.
-<var data-primary="image"></var>
-<var data-image id="Musa by Ehret" title="Banana plant (Musa species):flowering and fruiting plant with stolons and separate floral segments and sectioned fruit, also a description of the plant's growth, anatomical labels and a scale bar. Etching by G. D. Ehret, c. 1742" data-url="https://iiif.wellcomecollection.org/image/V0043033.jpg/full/2048%2C/0/default.jpg" data-region=""></var>
-
 ### Bananas, the First GMO?
 Bananas are herbaceous plants, not trees, and while they resemble palms, they are not related. When the plant matures, it begins to form a large inflorescence, which produces both male and female flowers. As the inflorescence grows, a softball-size magenta bud (or _spathe_) forms at the end, weighing down the branched spadix. Petal-like bracts grow between the overlapping scales surrounding the bud. These fall away to reveal clusters of female (_pistillate_) flowers. Oblong fruit emerge from the base of the flowers. While the spadix continues to grow and droops under the weight of the _spathe_ (the male bud), the tips of the fruit grow towards the sun, giving bananas their distinctive curved shape.
 <var data-primary="image"></var>
@@ -44,6 +35,17 @@ While more diverse that previously understood, Scientists have identified _Musa 
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/M_accuminata_subspecies.json"
 	data-active="true"></var>
+	
+### What’s in a Name?
+<![endif]-->
+
+In 1753 Carl Von Linnaean’s formative work, _Systema Naturae,_ formalized a system of nomenclature that standardized plant names and botanical terminology among botanists. This system used Latin binomial names—the first name indicating the genus, and the second the species—to identify and classify all living organism in the natural world. Unlike earlier attempts to group or classify plants, Linnaeus’s system focused solely on the reproductive features of wild plants (not domesticated) to characterize, organize, and group related plants. While Linnaeus’s system was an artificial structure of classification and hierarchical divisions placed on the plant world, it provided order and standardization from the chaos of plant names created by centuries of disparate European collecting and cataloguing of the plant world. While the Linnaean system has been revised, modified, and added to over the centuries, it has remained largely unchallenged for nearly 250 years.
+<var data-primary="image"></var>
+<var data-image id="Linnaen system by Ehret" title="Methodus Plantarum Sexualis, Ehret" data-fit="contain" data-url="https://upload.wikimedia.org/wikipedia/commons/9/99/Ehret-Methodus_Plantarum_Sexualis.jpg" data-region=""></var>
+
+However, despite Linnaean taxonomy’s international acceptance and longevity, Linnaeus’s system does have its limitations, which we can see in the case of the banana. This is because editable bananas are the product of a complex history of human dependency and exploitation. Linnaeus did not consider domesticated plants species, since they were the product of human manipulation. The two “wild” species of banana identified by Linnaeus–_Musa paradisiaca_ and _Musa sapientum_—were in fact domesticated editable cultivars. Unfortunately, Linnaeus was unaware of the banana’s long and complex history.
+<var data-primary="image"></var>
+<var data-image id="Musa by Ehret" title="Banana plant (Musa species):flowering and fruiting plant with stolons and separate floral segments and sectioned fruit, also a description of the plant's growth, anatomical labels and a scale bar. Etching by G. D. Ehret, c. 1742" data-url="https://iiif.wellcomecollection.org/image/V0043033.jpg/full/2048%2C/0/default.jpg" data-region=""></var>
 
 ### The Banana Goes Global
 Thanks to domesticated bananas’ long history of human intervention and migration, Linnaean taxonomy did little to clear up the confusion surrounding identifications and names of banana plants. While scientists eventually deduced that Linnaeus identified two domesticated banana cultivars, not species, the wild progenitors of cultivated bananas as well as the origin of banana domestication remained a mystery. Twenty-first century genome and genetic testing, however, has revealed that the origin of banana domestication was further east than originally thought.
@@ -154,11 +156,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3MDM0MzIzLC0zNDIwNDkxNzcsLTIzMz
-k2MzU3MCw2ODEyNTkwODAsMTE3MzI1OTkxNSwtMTU2ODM3ODgy
-MywyMDc2NjI3ODc3LDIwMDE5MTgxMTUsLTQ2NTAxODQ4Niw3MD
-UxNTU5MDcsLTE4NjY2NzgyNzEsODY4MzUyNDc3LDE3MDkxODI2
-NDEsMTU1OTE3MDU0MiwtMjM5OTkwMTUxLC04NDY0NDAyMzksNz
-U3NzQzMjAxLC0yMTE5ODA0MzkzLDg2NTIzNjUyNiwtNjI1MTQ4
-ODkwXX0=
+eyJoaXN0b3J5IjpbLTE5MjQxMTMzNDgsLTM0MjA0OTE3NywtMj
+MzOTYzNTcwLDY4MTI1OTA4MCwxMTczMjU5OTE1LC0xNTY4Mzc4
+ODIzLDIwNzY2Mjc4NzcsMjAwMTkxODExNSwtNDY1MDE4NDg2LD
+cwNTE1NTkwNywtMTg2NjY3ODI3MSw4NjgzNTI0NzcsMTcwOTE4
+MjY0MSwxNTU5MTcwNTQyLC0yMzk5OTAxNTEsLTg0NjQ0MDIzOS
+w3NTc3NDMyMDEsLTIxMTk4MDQzOTMsODY1MjM2NTI2LC02MjUx
+NDg4OTBdfQ==
 -->
