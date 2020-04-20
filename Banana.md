@@ -11,7 +11,7 @@
 	
 ## Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy
 
-Everybody knows what a banana is. At least we think we do. Today, the banana is a ubiquitous and easily-to-recognize fruit that even shares the same name or sounds the same in almost every modern language. Yet, despite the fact that you can recognize the word for banana across cultures, the actual identification and classification of our modern-day banana is, to quote a popular idiom, “bananas.” It is a genetically modified mystery that continues to defy our system of plant taxonomy.
+Everybody knows what a banana is. At least we think we do. Today, the banana is a ubiquitous and easy-to-recognize fruit that even shares the same name or sounds the same in many modern languages. Yet, despite the fact that you can identify the word for banana across cultures, the actual identification and classification of our modern-day banana is, to quote a popular idiom, “bananas.” It is a genetically modified mystery that continues to defy our system of plant taxonomy.
 <var data-primary="image"></var>
 <var data-image id="Banana, What's in a Name?" title="Banana Across Modern Languages" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_Languages.jpg" data-region=""></var>
 
@@ -154,11 +154,11 @@ Just as we need to rethink how we select, hybridize, and propagate bananas, many
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjA0OTE3NywtMjMzOTYzNTcwLDY4MT
-I1OTA4MCwxMTczMjU5OTE1LC0xNTY4Mzc4ODIzLDIwNzY2Mjc4
-NzcsMjAwMTkxODExNSwtNDY1MDE4NDg2LDcwNTE1NTkwNywtMT
-g2NjY3ODI3MSw4NjgzNTI0NzcsMTcwOTE4MjY0MSwxNTU5MTcw
-NTQyLC0yMzk5OTAxNTEsLTg0NjQ0MDIzOSw3NTc3NDMyMDEsLT
-IxMTk4MDQzOTMsODY1MjM2NTI2LC02MjUxNDg4OTAsLTE2Nzcy
-MDg5NjRdfQ==
+eyJoaXN0b3J5IjpbLTQ0OTM2MTQ5LC0zNDIwNDkxNzcsLTIzMz
+k2MzU3MCw2ODEyNTkwODAsMTE3MzI1OTkxNSwtMTU2ODM3ODgy
+MywyMDc2NjI3ODc3LDIwMDE5MTgxMTUsLTQ2NTAxODQ4Niw3MD
+UxNTU5MDcsLTE4NjY2NzgyNzEsODY4MzUyNDc3LDE3MDkxODI2
+NDEsMTU1OTE3MDU0MiwtMjM5OTkwMTUxLC04NDY0NDAyMzksNz
+U3NzQzMjAxLC0yMTE5ODA0MzkzLDg2NTIzNjUyNiwtNjI1MTQ4
+ODkwXX0=
 -->
