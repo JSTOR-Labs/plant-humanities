@@ -153,12 +153,3 @@ Today the Cavendish banana remains the dominant cultivated and exported varietal
 While we need to rethink how we select, hybridize, and propagate bananas, many scientists also argue it is time to recognize the limits of Linnaean taxonomy and rethink how bananas are classified. In 1955 an informal nomenclature system to classify banana cultivars was developed by Norman Simmonds and Kenneth Shepherd. Instead of assigning binomial names, Simmonds and Shepherd classified editable bananas into genome groups, according to the chromosomal contributions of their ancestral wild species (i.e. AAA, AAB, and ABB) and subgroups for closely related cultivars derived from mutation selection and propagation (i.e. the Gros Michel and Cavendish). While Simmonds and Shepherd had to rely on genome classification based on the visible morphology of banana cultivars, scientists today rely have more reliable genomic techniques, allowing them to analyze and reclassify the genetic make-up of hundreds of banana cultivars. This work has revealed that more than one hundred subspecies of _Musa acuminata_ have been implicated in the domestication of bananas. Despite this work, however, scientists still do not know just how many banana cultivars actually exist and are still working to formalize a genome-based classification system in the hopes of finally creating an internally coherent list of names for banana species, subspecies, and cultivars.
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Mzg5MzM4NiwtOTI4NzMxOTkwLC0zND
-IwNDkxNzcsLTIzMzk2MzU3MCw2ODEyNTkwODAsMTE3MzI1OTkx
-NSwtMTU2ODM3ODgyMywyMDc2NjI3ODc3LDIwMDE5MTgxMTUsLT
-Q2NTAxODQ4Niw3MDUxNTU5MDcsLTE4NjY2NzgyNzEsODY4MzUy
-NDc3LDE3MDkxODI2NDEsMTU1OTE3MDU0MiwtMjM5OTkwMTUxLC
-04NDY0NDAyMzksNzU3NzQzMjAxLC0yMTE5ODA0MzkzLDg2NTIz
-NjUyNl19
--->
