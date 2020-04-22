@@ -13,7 +13,7 @@
 
 Everybody knows what a banana is. At least we think we do. Today, the banana is a ubiquitous and easy-to-recognize fruit that even shares the same name or sounds the same in many modern languages. Yet, despite the fact that you can identify the word for banana across cultures, the actual identification and classification of our modern-day banana is, to quote a popular idiom, “bananas.” It is a genetically modified mystery that continues to defy our system of plant taxonomy.
 <var data-primary="image"></var>
-<var data-image id="Banana, What's in a Name?" title="Banana Across Modern Languages" data-fit="fit" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_Languages.jpg" data-region=""></var>
+<var data-image id="Banana, What's in a Name?" title="Banana Across Modern Languages" data-fit="contain" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_Languages.jpg" data-region=""></var>
 
 ### Bananas, the First GMO?
 Bananas are herbaceous plants, not trees, and while they resemble palms, they are not related. When the plant matures, it begins to form a large inflorescence, which produces both male and female flowers. As the inflorescence grows, a softball-size magenta bud (or _spathe_) forms at the end, weighing down the branched spadix. Petal-like bracts grow between the overlapping scales surrounding the bud. These fall away to reveal clusters of female (_pistillate_) flowers. Oblong fruit emerge from the base of the flowers. While the spadix continues to grow and droops under the weight of the _spathe_ (the male bud), the tips of the fruit grow towards the sun, giving bananas their distinctive curved shape.
@@ -154,5 +154,6 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTE3Njk2NzIsMTY0Mzg5MzM4Nl19
+eyJoaXN0b3J5IjpbLTEzNzY1NzkwNTEsLTIxMTE3Njk2NzIsMT
+Y0Mzg5MzM4Nl19
 -->
