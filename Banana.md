@@ -1,4 +1,4 @@
-[View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=1CUNlxL1pArMUI7W3ozl6YfpOHi04hPqA)
+[View](https://plant-humanities.app/essay?gdid=1CUNlxL1pArMUI7W3ozl6YfpOHi04hPqA)
 
 <var title="Hartekamp" id="Q18771183"></var>
 
@@ -154,6 +154,6 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzY1NzkwNTEsLTIxMTE3Njk2NzIsMT
-Y0Mzg5MzM4Nl19
+eyJoaXN0b3J5IjpbLTEyNjkwNzMyNjQsLTEzNzY1NzkwNTEsLT
+IxMTE3Njk2NzIsMTY0Mzg5MzM4Nl19
 -->
