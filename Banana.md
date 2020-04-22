@@ -2,7 +2,7 @@
 
 <var data-essay
      title="## Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy"
-     data-banner="images/arbor_vitae.jpg"
+     data-banner="https://upload.wikimedia.org/wikipedia/commons/3/3c/Plantae_selectae_quarum_imagines_ad_exemplaria_naturalia_Londini%2C_in_hortis_curiosorum_nutrita_%28Tab._XXIII%29_%288050604730%29.jpg"
      data-layout="vtl" data-debug="false"></var>
 
 <var title="Hartekamp" id="Q18771183"></var>
@@ -159,6 +159,6 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA1OTAxOCwtMTM3NjU3OTA1MSwtMj
+eyJoaXN0b3J5IjpbMTcwNDk3ODE1NCwtMTM3NjU3OTA1MSwtMj
 ExMTc2OTY3MiwxNjQzODkzMzg2XX0=
 -->
