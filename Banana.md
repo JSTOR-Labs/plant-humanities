@@ -27,7 +27,7 @@ Bananas are herbaceous plants, not trees, and while they resemble palms, they ar
 
 Prior to domestication, wild banana fruits were incredibly seedy and difficult to eat. Scientists now believe that many wild bananas had a genetic predisposition to parthenocarpy, or the ability to produce fruit without fertilization. Beginning some 7,000 years ago, human selection for parthenocarpy, along with the suppression of seeds by selecting and hybridizing for sterility, resulted in bananas that were sterile and produced fruits that were seedless. Since sterile bananas were easier to eat, humans began propagating wild banana hybrids with these mutations. To propagate a sterile plant, humans “cloned” bananas by collecting and planting the “ramets” or “suckers” of the original plant.
 <var data-primary="image"></var>
-<var data-image id="# Domestication of the banana" title="An edible and seedless Cavendish banana next to its ancestor, the wild species Musa acuminata." data-fit="contain" data-url="http://www.musarama.org/upload/high/domestication-of-the-banana.jpg" data-region=""></var>
+<var data-image id="# Domestication of the banana" title="An edible and seedless Cavendish banana next to its ancestor, the wild species Musa acuminata." data-fit="cover" data-url="http://www.musarama.org/upload/high/domestication-of-the-banana.jpg" data-region=""></var>
 
 Like humans, wild bananas are diploids: they have two sets of chromosomes and receive one set from each “parent.” Thanks to human selection, migration, and exchange, however, some banana hybrids produced triploids, meaning the offspring inherited three sets of chromosomes. This extra set of chromosomes rendered triploid bananas sterile and even more inclined to parthenocarpy. More importantly, thanks to their extra chromosomes, mutations can arise even in clonal propagation (via suckers). This genetic diversity created an important source of variability among banana cultivars. The genetic diversity of triploids and their environmental adaptability ensured not only the survival of seedless banana cultivars, but also their ability to spread across vast areas and cultures.
 <var data-primary="image"></var>
@@ -159,6 +159,7 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA0NjE2MjQsMTcwNDk3ODE1NCwtMT
-M3NjU3OTA1MSwtMjExMTc2OTY3MiwxNjQzODkzMzg2XX0=
+eyJoaXN0b3J5IjpbMzUxMzg5MTYzLC0xMjEwNDYxNjI0LDE3MD
+Q5NzgxNTQsLTEzNzY1NzkwNTEsLTIxMTE3Njk2NzIsMTY0Mzg5
+MzM4Nl19
 -->
