@@ -1,12 +1,10 @@
-[View](https://us-central1-visual-essay.cloudfunctions.net/essay?gdid=15pnIRpyLcPkQzfF203pKpxvIYaskQfmK)
-
-<var data-essay  
-     title="cacao"  
-     data-banner="https://upload.wikimedia.org/wikipedia/commons/3/31/Theobroma_cacao_%28Cacao_2%29.jpg"></var>
+[View](https://plant-humanities.app/essay?gdid=15pnIRpyLcPkQzfF203pKpxvIYaskQfmK)
      
 <var data-essay
      title="Cacao: An indigenous network and global commodity"
-     data-banner="/images/cacao.jpg"
+     data-banner="https://upload.wikimedia.org/wikipedia/commons/3/31/Cacao_Nacional_Fino_de_Aroma.jpg"
+     data-layout="vtl"
+     data-about="Q42385"
      data-debug="false"></var>
      
 <var title="Seville" id="Q8717" data-fill="#92086D" data-marker-symbol="user"></var>
@@ -82,12 +80,12 @@ After contact, the  earliest  representations of cacao come from  a Mexica (Azte
 
 A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a recipe entitled “Trees and flowers for the fatigue of those administering the government and holding public office”.[^ref3] The other representation of cacao found in the text, identified as *Cacauaxochitl* in Nahautl, shows the plant in flower.[^ref4] While previous scholars have identified this plant as _Quararibea funebris_ because of the similarity of the Nahuatl name given with that of one described by Francisco Hernández de Toledo, the deep orange and yellow petals along with the overall structure of the petals, pistil, and stamen depicted actually support the identification of it as a flowering and budding _Theobroma cacao_.[^ref5] The _Cacauaxochitl_ illustration is featured with a recipe for  “Mental Stupor” that calls for the use of its bark and roots. This same flowered cacao tree  (_Cacauaxochitl_), while not illustrated,  also features in recipes for hurt feet and as a cure for fear. 
 <var data-image-viewer></var>  
-<var data-image id="Tlapalcacauatl" title="Tlapalcacauatl" data-url="https://kg.jstor.org/w/images/5/56/BadianusCacao1.jpg" data-region=""></var>
+<var data-image id="Tlapalcacauatl" title="Tlapalcacauatl" data-url="https://jstor-labs.github.io/plant-humanities/images/TlapalcacautlBadianus.jpeg" data-region=""></var>
 <var data-image id="Fruiting cacao" title="Fruiting cacao" data-url="https://upload.wikimedia.org/wikipedia/commons/4/44/Cacao_-_United_States_Botanic_Garden%2C_Washington%2C_D.C._-_Stierch.jpg" data-region=""></var>
-<var data-image id="Cacauaxochitl" title="Cacauaxochitl" data-url="https://kg.jstor.org/w/images/1/17/BadianusCacao2.jpg" data-region=""></var>
+<var data-image id="Cacauaxochitl" title="Cacauaxochitl" data-url="https://jstor-labs.github.io/plant-humanities/images/CacauaxochitlBadianus.jpeg" data-region=""></var>
 <var data-image id="Flowering cacao" title="Flowering cacao" data-url="https://upload.wikimedia.org/wikipedia/commons/6/66/Cacao_Flor.JPG" data-region=""></var> 
 
-It is clear that the watercolors  illustrate  anatomically accurate plant  structures situated within particular stages of the reproductive life cycle of cacao. These details of the herbal indicate  that the Mexica  had a detailed understanding of  the biology of cacao, a  level of knowledge not represented  in contemporaneous European-authored herbals. Consequently, the knowledge of cacao within the Badianus has a broader spatio-temporal history, developing across Mesoamerica well before the arrival of Spaniards and the formation of the school in which de la Cruz and Badiano created the herbal.
+It is clear that the watercolors  illustrate  anatomically accurate plant  structures situated within particular stages of the reproductive life cycle of cacao. These details of the herbal indicate  that the Mexica  had an intimate understanding of  the biology of cacao, a  level of knowledge not represented  in contemporaneous European-authored herbals. Consequently, the knowledge of cacao within the Badianus has a broader spatio-temporal history, developing across Mesoamerica well before the arrival of Spaniards and the formation of the school in which de la Cruz and Badiano created the herbal.
 <var data-scope="local" id="Q13703"></var>
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
@@ -134,12 +132,10 @@ In these Mexica recipes, the association of cacao with curing particular ailment
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Teo.geojson"
 	data-active="true"></var>
 <var data-image-viewer></var>  
-<var data-image id="Mesoamerica" title="Mesoamerica" data-url="https://commons.wikimedia.org/wiki/File:Mesoamerica_topographic_map-blank.svg"></var>
+<var data-primary="image"></var>
+<var data-image id="The Milpa Cycle" title="The Milpa Cycle" data-url="https://jstor-labs.github.io/plant-humanities/images/MilpaCycle.png" data-fit="contain"></var>
 
-The milpa cycle is  a  process  of felling, burning, planting, and harvesting a plot of land that,  after a few years,  is left to ‘fallow.’[^ref7] However, this would not be fallow in the traditional sense of the word indicating that land is left uncultivated and untouched. Instead, certain useful plants, such as cacao, were encouraged to grow in what would have looked to Europeans like ‘wild’ plots. After this stage, the cycle would restart, where some plants would be left to grow, others would be pulled and burnt, and staple crops would be planted in the ashes to eventually be harvested.
-<var data-image id="The Milpa Cycle" title="The Milpa Cycle" data-url="https://jstor-labs.github.io/plant-humanities/images/MilpaCycleInfo.jpg" data-fit="scale-down"></var>
-
-Ancient Maya leaders represented themselves as or in relation to this cycle and its  associated  plants  of importance, mainly cacao and maize, attempting to embody the power of the natural world. For example, we see the  ancient Maya  depict ancestors of rulers  as cacao trees  growing from the sarcophagi of dead  ‘maize god’  rulers at the site of Palenque  and  cacao trees anthropomorphized  as deities on intricately carved vessels. By invoking this cycle in representing themselves and deities, Maya political leaders were giving precedence to the subsistence practices, ideologies, and plants they incorporated.  Given this ancient association of cacao with the power of the natural world, it is not surprising to see cacao as an ingredient in the Badianus’ recipes for curing fear and malaise, particularly for political leaders.
+Ancient Maya leaders represented themselves and their gods as or in relation to this cycle and its  associated  plants  of importance, mainly cacao and maize, attempting to embody the power of the natural world. For example, we see the  ancient Maya  depict ancestors of rulers  as cacao trees  growing from the sarcophagi of dead  ‘maize god’  rulers at the site of Palenque  and  cacao trees anthropomorphized  as deities on intricately carved vessels. By invoking this cycle in representing themselves and deities, Maya political leaders were giving precedence to the subsistence practices, ideologies, and plants they incorporated.  Given this ancient association of cacao with the power of the natural world, it is not surprising to see cacao as an ingredient in the Badianus’ recipes for curing fear and malaise, particularly for political leaders.
 <var data-primary="image"></var>
 <var data-map title="World" data-center="18.272589, -89.635020" data-zoom="6"></var>
 <var data-map-layer
@@ -149,8 +145,8 @@ Ancient Maya leaders represented themselves as or in relation to this cycle and 
      data-active="true"></var>
 <var data-scope="local" id="Q28567" data-aliases="Maya"></var>
 <var data-image-viewer></var> 
-<var data-image id="Pakal's sarcophagus detail with ancestors depicted as fruit trees" title="Pakal's sarcophagus detail with ancestors depicted as fruit trees" data-url="https://jstor-labs.github.io/plant-humanities/images/ARTSTOR_103_41822000267326.jpg"></var> 
-<var data-image id="Early Classic Maya Bowl with Anthropomorphic Cacao Trees" title="Early Classic Maya Bowl with Anthropomorphic Cacao Trees" data-url="https://jstor-labs.github.io/plant-humanities/images/PC_B_208_S1.TIF"></var> 
+<var data-image id="Early Classic Maya Bowl with Anthropomorphic Cacao Trees" title="Early Classic Maya Bowl with Anthropomorphic Cacao Trees" data-url="https://jstor-labs.github.io/plant-humanities/images/PC_B_208_S1.TIF" data-fit="fill"></var> 
+<var data-image id="Pakal's sarcophagus detail with ancestors depicted as fruit trees" title="Pakal's sarcophagus detail with ancestors depicted as fruit trees" data-url="https://jstor-labs.github.io/plant-humanities/images/ARTSTOR_103_41822000267326.jpg" data-fit="fill"></var> 
 
 The presence of cacao in a remedy for hurt feet within the Badianus also wittily illustrates the realities of  indigenous  Mesoamerican lifeways. Without beasts of burden, the  long-distance transport of cacao from the neotropics to Tenochtitlan, the Mexica capital, would have certainly caused one’s feet to ache.  For example, in  Hernán Cortés’ conquistador accounts, several regions are recognized for their tribute of cacao to the Mexica empire including  Huauthla,  Soconusco, and  Cotaxtla, all of which are hundreds of miles from Tenochtitlan.[^ref8]
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
@@ -265,7 +261,7 @@ At first thought, it is surprising  that cacao does  not  appear  in  any  of  t
 <var data-image id="Plaque marking the Seville location of Monardes' gardens and residence" title="Plaque marking the Seville location of Monardes' gardens and residence" data-url="https://notevenpast.org/wp-content/uploads/2015/04/Monardes-plaque-Seville.jpg"></var>
 
 
-Yet cacao made it to England by the end of the 16th century, when the well-known herbalist John Gerard features them under the Latin name  _Beretinus_  _fructus_ in his 1597 _The Herball_. It is in this herbal that we learn cacao specimens were brought to England by Sir Francis Drake.  Gerard mentions  that this plant was used by the native  populations encountered by Sir  Drake to pay tribute to their  political leaders, again echoing the deep-rooted ideologies associating cacao with  economic and political networks. John Parkinson’s 1640 volume adds that these cacao specimens were brought by Sir Francis Drake specifically after his 1580 voyage. Some of them eventually  found their way to Carolus Clusius in Leiden by means of Master Richard Garth, an officer of the Court of Chancery in London, and Master Hugh Morgan, an apothecary to Queen Elizabeth I. This world-traveling cacao was then used by Clusius to create one of his two mentions of the plant in his 1604 herbal, _Exoticorum libri decem_.[^ref14]
+Yet cacao made it to England by the end of the 16th century, when the well-known herbalist John Gerard features it under the Latin name  _Beretinus_  _fructus_ in his 1597 _The Herball_. It is in this herbal that we learn cacao specimens were brought to England by Sir Francis Drake.  Gerard mentions  that this plant was used by the native  populations encountered by Sir  Drake to pay tribute to their  political leaders, again echoing the deep-rooted ideologies associating cacao with  economic and political networks. John Parkinson’s 1640 _Theatrum Botanicum_ adds that these cacao specimens were brought by Sir Francis Drake specifically after his 1580 voyage. Some of them also eventually  found their way to Carolus Clusius in Leiden by means of Master Richard Garth, an officer of the Court of Chancery in London, and Master Hugh Morgan, an apothecary to Queen Elizabeth I. This world-traveling cacao was then used by Clusius to create one of his two mentions of the plant in his 1604 herbal, _Exoticorum libri decem_.[^ref14]
 <var data-map title="World" data-center="25.164766, -76.133328" data-zoom="2"></var>
 <var data-map-layer
      title="Americas and Europe"
@@ -284,7 +280,7 @@ Yet cacao made it to England by the end of the 16th century, when the well-known
 <var data-image id="bhl-56601545" title="John Parkinson's mention of _Beretinus_ _fructus_ with image" data-url="https://www.biodiversitylibrary.org/pageimage/56601545" data-region=""></var>
 <var data-image id="bhl-8066123" title="Carolus Clusius' mentions of _Beretinus_ _fructus_ and _Cacao_ _fructus_" data-url="https://www.biodiversitylibrary.org/pageimage/8066123" data-region="0,0,0,0"></var>
 
-Interestingly, Parkinson also has a duplicate entry for cacao, but under the name: “Cacao sive Cacaute” or “Peare bearing wholesome Almond tree.” It is stated that this plant is made into a beverage called “Chocolate” in an unspecified indigenous language, revealing that our modern name for the creamy, satisfying paste made from cacao has its linguistic origins in the New World.  This second entry references a different source, “Benzo,” likely the 1572 account of Girolamo Benzoni, where he discusses his encounters with cacao in Nicaragua.
+Interestingly, Parkinson also has a duplicate entry for cacao, but under the name: “Cacao sive Cacaute” or “Peare bearing wholesome Almond tree.” It is stated that this plant is made into a beverage called “Chocolate” in an unspecified indigenous language, revealing that our modern name for the creamy, satisfying paste made from cacao has its linguistic origins in the New World.  This second entry references a different source, “Benzo,” likely the 1565 _Historia del Mondo Nuovo_ by Girolamo Benzoni, where he discusses his encounters with cacao in Nicaragua.
 <var data-map title="World" data-center="25.164766, -76.133328" data-zoom="2"></var>
 <var data-map-layer
      title="Americas and Europe"
@@ -296,10 +292,11 @@ Interestingly, Parkinson also has a duplicate entry for cacao, but under the nam
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Nicaragua.geojson"
      data-active="true"></var>
+<var data-image-viewer></var>  
 <var data-image id="bhl-56601539" title="Theatrum Botanicum p. 1642" data-url="https://www.biodiversitylibrary.org/pageimage/56601539" data-region="1667,1240,2190,1890"></var>
 <var data-image id="bhl-8066123" title="Carolus Clusius' mentions of _Beretinus_ _fructus_ and _Cacao_ _fructus_" data-url="https://www.biodiversitylibrary.org/pageimage/8066123" data-region="1667,1240,2190,1890"></var>
 
-In his text, Benzoni refers to the use of cacao as money and describes the methods to create the cacao beverage. Perhaps because Benzoni actually visited the region, his first-hand account actually references the ecology in which cacao grows: only very warm, moist, and shady areas. It is likely that these exotic ecological constraints added to the appeal of cacao, both for the Mexica and later the Europeans, because of the prestige associated with commanding such a network.
+In his text, Benzoni refers to the use of cacao as money and describes the methods to create the cacao beverage. Perhaps because Benzoni actually visited the region, his first-hand account  references the ecology in which cacao grows: only very warm, moist, and shady areas. It is likely that these exotic ecological constraints added to the appeal of cacao, both for the Mexica and later the Europeans, because of the prestige associated with commanding such a limited network.
 <var data-map title="World" data-center="12.316683, -84.946184" data-zoom="5"></var>
  <var data-map-layer
      title="Central American Neotropics"
@@ -317,14 +314,15 @@ In his text, Benzoni refers to the use of cacao as money and describes the metho
 
 ### Conclusion
 
-The political and economic powers of Europe took note of these early accounts of cacao as monetarily and ideological valuable and, by the 17th  century, international markets were emerging, maintained largely through African slave labor.[^ref15],[^ref16] The tastes of returning merchants and clergy, as well as its reported medicinal properties, allowed cacao to take off in Spain by the early 17th century.[^ref17],[^ref18] In other parts of Europe, cacao in the form of a beverage still called chocolate and its associated dishware featured prominently in elite networks, invoking ideologies rooted in distant places and eras of Mesoamerica. At a time when curiosities fueled the exploration and description of the natural and cultural world, cacao featured quite prominently as a curio to add to royal cabinets.[^ref19] Cacao also found its way into commercial products meant to entice the common palate including the many chocolate bars, desserts, and drinks we know and love today. _Theobroma cacao_ trees continue to be grown in the tropics across the world, both for global and local markets.[^ref20][^ref21] The ideological association of cacao with subsistence, prestige, and trade has continued across millennia and cultures, making the power and appeal of cacao truly timeless and global.
+The political and economic powers of Europe took note of these early accounts of cacao as monetarily and ideologically valuable and, by the 17th  century, international markets were emerging, maintained largely through African slave labor.[^ref15],[^ref16] The tastes of returning merchants and clergy, as well as cacao's reported medicinal properties, allowed it to take off in Spain by the early 17th century.[^ref17],[^ref18] In other parts of Europe, cacao in the form of a beverage still called chocolate and its associated dishware featured prominently in elite networks, invoking ideologies rooted in distant places and eras of Mesoamerica. At a time when curiosities fueled the exploration and description of the natural and cultural world, cacao featured quite prominently as a curio to add to royal cabinets.[^ref19] Cacao also found its way into commercial products meant to entice the common palate including the many chocolate bars, desserts, and drinks we know and love today. _Theobroma cacao_ trees continue to be grown in the tropics across the world, both for global and local markets.[^ref20][^ref21] The ideological association of cacao with subsistence, prestige, and trade has continued across millennia and cultures, making the power and appeal of cacao truly timeless and global.
 <var data-map title="World" data-center="29.187255, -10.812716" data-zoom="1"></var>
 <var data-map-layer
      title="Current _Theobroma cacao_ Distribution"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/CacaoDist.geojson"
      data-active="true"></var>
-<var data-image-viewer></var>
+<var data-image-viewer></var>  
+<var data-primary="image"></var>
 <var data-image id="bhl-144676" title="John Gabriel Stedman's illustration of cacao ca. 1796" data-url="https://www.biodiversitylibrary.org/page/55300899" data-region="0,0,0,0"></var>
 <var data-image id="English chocolate pot ca. 1697-98" title="English chocolate pot ca. 1697-98" data-url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chocolate_pot_MET_131294.jpg/512px-Chocolate_pot_MET_131294.jpg"></var>
 <var data-image id="German chocolate cup and saucer ca. 1735-45" title="German chocolate cup and saucer ca. 1735-45" data-url="https://upload.wikimedia.org/wikipedia/commons/6/69/Chocolate_Cup_And_Saucer_%28Germany%29%2C_1735–45_%28CH_18349969%29.jpg"></var>
