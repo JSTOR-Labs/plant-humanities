@@ -144,7 +144,7 @@ Even Linnaeus had to rely on the garden and hothouse of the wealthy financier an
 
 That same year marked the arrival of the German botanical artist Georg Ehret to Hartekamp. Ehret would provide the illustrations of Clifford’s flowering banana plant for the treatise as well as go on to diagram Linnaeus’s new plant classification system. It was also at the direction of Linnaeus, Ehret began adding details of the plant’s reproductive structures, or flowers, creating a new standard for botanical illustrations.
 <var data-primary="image"></var>
-<var data-image id="Banana Names" title="Words for banana across cultures" data-url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Plantain_banana_%28Musa_x_paradisiaca_L.%29%3B_nine_sections_of_fl_Wellcome_V0042994.jpg" data-region=""></var>
+<var data-image id="Banana parts illustration" title="Plantain banana (Musa x paradisiaca L.): nine sections of flower and fruit. Coloured engraving by J.J. or J.E.Haid, c.1750, after G.D.Ehret." data-url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Plantain_banana_%28Musa_x_paradisiaca_L.%29%3B_nine_sections_of_fl_Wellcome_V0042994.jpg" data-region=""></var>
 
 It was not until the nineteenth century with the developments of steamships and refrigeration, however, that the Central and South American banana would become a major global trade commodity. Thanks to these innovations, bananas began pouring into American cities after the Civil War. In Reconstruction America, bananas became increasingly popular as they were seen as a healthy and affordable commodity. Eventually, small-scale, independent cultivation was consolidated and replaced by large-scale production conglomerates, such as the United Fruit Company (UFC). Conglomerates like the UFC focused on cultivation practices and varietals that were easier to ship, more profitable, and desired by consumers. Overtime, one selected mutation of one banana cultivar in particular came to dominate the market, the Gros Michel, thanks to its hardy peel and sweet taste. Monocultures of Gros Michel swiftly supplanted most other banana cultivars in Latin America produced for the American and European markets.
 <var data-primary="image"></var>
@@ -163,7 +163,7 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4Nzg2Njc3LDE3ODUwMDY4NTYsLTEyMj
+eyJoaXN0b3J5IjpbNDkyMDg0MDAyLDE3ODUwMDY4NTYsLTEyMj
 U1Mzg2ODMsMzUxMzg5MTYzLC0xMjEwNDYxNjI0LDE3MDQ5Nzgx
 NTQsLTEzNzY1NzkwNTEsLTIxMTE3Njk2NzIsMTY0Mzg5MzM4Nl
 19
