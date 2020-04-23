@@ -31,7 +31,7 @@ Prior to domestication, wild banana fruits were incredibly seedy and difficult t
 
 Selecting for edibility and propagating parthenocarpic bananas was the first step in the process of banana domestication. The next phase began as different human populations migrated, bringing their previously isolated banana species and subspecies along the way. Like humans, wild bananas are diploids: they have two sets of chromosomes and receive one set from each “parent.” Thanks to human selection, migration, and exchange, however, triploid banana hybrids were created. Hybridizing distant banana relatives produced plants that inherited three sets of chromosomes. This rendered the progeny plant sterile and ensured it would produce fleshy, seedless fruits. In addition to being sterile, triploid banana hybrids, thanks to their extra chromosomes, could still mutate. Further diversity of the species was produced as farmers selected and propagated for desirable mutations such as a starchy or sweet pulp. The genetic diversity of triploid bananas and their environmental adaptability ensured not only the survival of sterile banana hybrids, but also their ability to spread across vast areas and cultures.
 <var data-primary="image"></var>
-<var data-image id="Diploid to Triploid" title="From Diploids to Triploids" data-fit="cover" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/From_Diploid_to_Triploid%20copy.jpg" data-region=""></var>
+<var data-image id="Diploid to Triploid" title="From Diploids to Triploids" data-fit="contain" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/From_Diploid_to_Triploid%20copy.jpg" data-region=""></var>
 
 While bananas are more diverse that previously understood, Scientists have identified _Musa acuminata_ as the primary wild parent of parthenocarpic bananas within the genus _Musa_. Parthenocarpy, however, makes identifying and classifying banana “species” difficult. As J. Kennedy explains, “Although it is clear that parthenocarpy within section _Musa_ has occurred only in _Musa acuminata_, the parentage of the resulting edible bananas is greatly complicated by the diversity of _Musa acuminata_ at subspecies level. Parthenocarpy probably developed in at least two of these subspecies, and there are many edible hybrids between these and additional wild subspecies.” Further complicating matters are hybridizations between _Musa acuminata_ and _Musa balbisiana_. _Musa balbisiana_ remains less understood than _Musa acuminata_, and has not been divided into subspecies. The distribution, wild/cultivated status, and genetic characterization of _Musa acuminata_ and _Musa balbisiana_ hybrids continues to be debated.
 <var data-map title="New World" data-center="2.773646, 119.184323" data-zoom="3.5"></var>
@@ -159,7 +159,7 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI0MzQxMDcsLTEyMjU1Mzg2ODMsMz
-UxMzg5MTYzLC0xMjEwNDYxNjI0LDE3MDQ5NzgxNTQsLTEzNzY1
-NzkwNTEsLTIxMTE3Njk2NzIsMTY0Mzg5MzM4Nl19
+eyJoaXN0b3J5IjpbMTc4NTAwNjg1NiwtMTIyNTUzODY4MywzNT
+EzODkxNjMsLTEyMTA0NjE2MjQsMTcwNDk3ODE1NCwtMTM3NjU3
+OTA1MSwtMjExMTc2OTY3MiwxNjQzODkzMzg2XX0=
 -->
