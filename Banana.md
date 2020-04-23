@@ -25,11 +25,11 @@ Bananas are herbaceous plants, not trees, and while they resemble palms, they ar
 <var data-primary="image"></var>
 <var data-image id="Banana Diagram" title="Parts of the Banana Plant" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_Plant_Parts.jpg" data-region=""></var>
 
-Prior to domestication, wild banana fruits were incredibly seedy and difficult to eat. Scientists now believe that many wild bananas had a genetic predisposition to parthenocarpy, or the ability to produce fruit without fertilization. Beginning some 7,000 years ago, human selection for parthenocarpy, along with the suppression of seeds by selecting and hybridizing for sterility, resulted in bananas that were sterile and produced fruits that were seedless. Since sterile bananas were easier to eat, humans began propagating wild banana hybrids with these mutations. To propagate a sterile plant, humans “cloned” bananas by collecting and planting the “ramets” or “suckers” of the original plant.
+Prior to domestication, wild banana fruits were incredibly seedy and difficult to eat. Scientists now believe that many wild bananas had a genetic predisposition to parthenocarpy, or the ability to produce fruit without fertilization. Beginning some 7,000 years ago, humans noticed that some banana plants produce seedless fruits. Since sterile bananas were easier to eat, humans began propagating wild banana plants with this mutation. To propagate a sterile plant, humans “cloned” bananas by collecting and planting the “ramets” or “suckers” of the original plant.
 <var data-primary="image"></var>
 <var data-image id="# Domestication of the banana" title="An edible and seedless Cavendish banana next to its ancestor, the wild species Musa acuminata." data-fit="cover" data-url="http://www.musarama.org/upload/high/domestication-of-the-banana.jpg" data-region=""></var>
 
-Like humans, wild bananas are diploids: they have two sets of chromosomes and receive one set from each “parent.” Thanks to human selection, migration, and exchange, however, some banana hybrids produced triploids, meaning the offspring inherited three sets of chromosomes. This extra set of chromosomes rendered triploid bananas sterile and even more inclined to parthenocarpy. More importantly, thanks to their extra chromosomes, mutations can arise even in clonal propagation (via suckers). This genetic diversity created an important source of variability among banana cultivars. The genetic diversity of triploids and their environmental adaptability ensured not only the survival of seedless banana cultivars, but also their ability to spread across vast areas and cultures.
+Selecting for edibility and propagating parthenocarpic bananas was the first step in the process of banana domestication. The next phase began as different human populations migrated, bringing their previously isolated banana species and subspecies along the way. Like humans, wild bananas are diploids: they have two sets of chromosomes and receive one set from each “parent.” Thanks to human selection, migration, and exchange, however, triploid banana hybrids were created. Hybridizing distant banana relatives produced plants that inherited three sets of chromosomes. This rendered the progeny plant sterile and ensured it would produce fleshy, seedless fruits. In addition to being sterile, triploid banana hybrids, thanks to their extra chromosomes, could still mutate. Further diversity of the species was produced as farmers selected and propagated for desirable mutations such as a starchy or sweet pulp. The genetic diversity of triploid bananas and their environmental adaptability ensured not only the survival of sterile banana hybrids, but also their ability to spread across vast areas and cultures.
 <var data-primary="image"></var>
 <var data-image id="Diploid to Triploid" title="From Diploids to Triploids" data-fit="cover" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/From_Diploid_to_Triploid%20copy.jpg" data-region=""></var>
 
@@ -159,7 +159,7 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU1Mzg2ODMsMzUxMzg5MTYzLC0xMj
-EwNDYxNjI0LDE3MDQ5NzgxNTQsLTEzNzY1NzkwNTEsLTIxMTE3
-Njk2NzIsMTY0Mzg5MzM4Nl19
+eyJoaXN0b3J5IjpbLTIwNTg4NzcwNTMsLTEyMjU1Mzg2ODMsMz
+UxMzg5MTYzLC0xMjEwNDYxNjI0LDE3MDQ5NzgxNTQsLTEzNzY1
+NzkwNTEsLTIxMTE3Njk2NzIsMTY0Mzg5MzM4Nl19
 -->
