@@ -29,15 +29,8 @@ Prior to domestication, wild banana fruits were incredibly seedy and difficult t
 <var data-primary="image"></var>
 <var data-image id="# Domestication of the banana" title="An edible and seedless Cavendish banana next to its ancestor, the wild species Musa acuminata." data-fit="cover" data-url="http://www.musarama.org/upload/high/domestication-of-the-banana.jpg" data-region=""></var>
 
-Selecting for edibility and propagating parthenocarpic bananas was the first step in the process of banana domestication. The next phase began as different human populations migrated, bringing their previously isolated banana species and subspecies along the way. Like humans, wild bananas are diploids: they have two sets of chromosomes and receive one set from each “parent.” Thanks to human selection, migration, and exchange, however, triploid banana hybrids were created. Hybridizing distant banana relatives produced plants that inherited three sets of chromosomes. This rendered the progeny plant sterile and ensured it would produce fleshy, seedless fruits. In addition to being sterile, triploid banana hybrids, thanks to their extra chromosomes, could still mutate. Further diversity of the species was produced as farmers selected and propagated for desirable mutations such as a starchy or sweet pulp. The genetic diversity of triploid bananas and their environmental adaptability ensured not only the survival of sterile banana hybrids, but also their ability to spread across vast areas and cultures.[<![if !supportFootnotes]>[1]<![endif]>](#_ftn1)
+Selecting for edibility and propagating parthenocarpic bananas was the first step in the process of banana domestication. The next phase began as different human populations migrated, bringing their previously isolated banana species and subspecies along the way. Like humans, wild bananas are diploids: they have two sets of chromosomes and receive one set from each “parent.” Thanks to human selection, migration, and exchange, however, triploid banana hybrids were created. Hybridizing distant banana relatives produced plants that inherited three sets of chromosomes. This rendered the progeny plant sterile and ensured it would produce fleshy, seedless fruits. In addition to being sterile, triploid banana hybrids, thanks to their extra chromosomes, could still mutate. Further diversity of the species was produced as farmers selected and propagated for desirable mutations such as a starchy or sweet pulp. The genetic diversity of triploid bananas and their environmental adaptability ensured not only the survival of sterile banana hybrids, but also their ability to spread across vast areas and cultures.[^ref1]
 
-<![if !supportFootnotes]>  
-
-----------
-
-<![endif]>
-
-[<![if !supportFootnotes]>[1]<![endif]>](#_ftnref1) Perrier, X., De Langhe, E.A.L., Donohue, M., Lentfer, C., Vrydaghs, L., Bakry, F., Carreel, F., Hippolyte, I., Horry, J.P., Jenny, C., Lebot, V., Risterucci, A.M., Tomekpe, K., Doutrelepont, H., Ball, T., Manwaring, J., De Maret, P. and Denham, T. 2011. Multidisciplinary perspectives on banana (_Musa_ spp.) domestication. PNAS 108(28):11311-11318. [http://dx.doi.org/10.1073/pnas.1102001108](http://dx.doi.org/10.1073/pnas.1102001108)
 <var data-primary="image"></var>
 <var data-image id="Diploid to Triploid" title="From Diploids to Triploids" data-fit="contain" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/From_Diploid_to_Triploid%20copy.jpg" data-region=""></var>
 
@@ -178,9 +171,12 @@ Today the Cavendish banana remains the dominant cultivated and exported varietal
 
 While we need to rethink how we select, hybridize, and propagate bananas, many scientists also argue it is time to recognize the limits of Linnaean taxonomy and rethink how bananas are classified. In 1955 an informal nomenclature system to classify banana cultivars was developed by Norman Simmonds and Kenneth Shepherd. Instead of assigning binomial names, Simmonds and Shepherd classified editable bananas into genome groups, according to the chromosomal contributions of their ancestral wild species (i.e. AAA, AAB, and ABB) and subgroups for closely related cultivars derived from mutation selection and propagation (i.e. the Gros Michel and Cavendish). While Simmonds and Shepherd had to rely on genome classification based on the visible morphology of banana cultivars, scientists today rely have more reliable genomic techniques, allowing them to analyze and reclassify the genetic make-up of hundreds of banana cultivars. This work has revealed that more than one hundred subspecies of _Musa acuminata_ have been implicated in the domestication of bananas. Despite this work, however, scientists still do not know just how many banana cultivars actually exist and are still working to formalize a genome-based classification system in the hopes of finally creating an internally coherent list of names for banana species, subspecies, and cultivars.
 
+### References
+
+[^ref1]: Perrier, X., De Langhe, E.A.L., Donohue, M., Lentfer, C., Vrydaghs, L., Bakry, F., Carreel, F., Hippolyte, I., Horry, J.P., Jenny, C., Lebot, V., Risterucci, A.M., Tomekpe, K., Doutrelepont, H., Ball, T., Manwaring, J., De Maret, P. and Denham, T. 2011. Multidisciplinary perspectives on banana (_Musa_ spp.) domestication. PNAS 108(28):11311-11318. [http://dx.doi.org/10.1073/pnas.1102001108](http://dx.doi.org/10.1073/pnas.1102001108)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTc5NzA1NiwtMTkxNzAyODcwOSwxOT
+eyJoaXN0b3J5IjpbMTg5Mjk2NzIzOCwtMTkxNzAyODcwOSwxOT
 U3OTIwMDUwLDQ5MjA4NDAwMiwxNzg1MDA2ODU2LC0xMjI1NTM4
 NjgzLDM1MTM4OTE2MywtMTIxMDQ2MTYyNCwxNzA0OTc4MTU0LC
 0xMzc2NTc5MDUxLC0yMTExNzY5NjcyLDE2NDM4OTMzODZdfQ==
