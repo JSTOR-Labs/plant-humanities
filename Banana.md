@@ -149,7 +149,7 @@ It was not until the nineteenth century with the developments of steamships and 
 <var data-primary="image"></var>
 <var data-image id="LOC image" title="Banana Cart in New York City, 1902, courtesy of the Library of Congress" data-fit="cover" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_Cart_NYC_1902_LOC.jpg" data-region=""></var>
 
-In the early 20th century, multinational American corporations, like the UFC, were also instrumental to the creation of the banana republic phenomenon. The UFC and other companies bought huge swaths of land and built massive infrastructure in Central and South American countries with environments that could support banana production, such as Honduras and Guatemala. Many of these countries had nascent democratic or unstable governments and quickly became economically dependent on exporting a single product—the banana. With such a grip on a country’s infrastructure and wealth, these companies also came to dominate the government, propping up corrupt dictatorships that exploited the working class and favored the economic interests of foreign corporations.
+In the early 20th century, multinational American corporations, like the UFC, were also instrumental to the creation of the banana republic phenomenon. The UFC and other companies bought huge swaths of land and built massive infrastructure in Central and South American countries with environments that could support banana production, such as Honduras and Guatemala. Many of these countries had nascent democratic or unstable governments and quickly became economically dependent on exporting a single product—the banana. With such a grip on a country’s infrastructure and wealth, these companies also came to dominate the government, propping up corrupt dictatorships that exploited the working class and favored the economic interests of foreign corporations.[^ref6]
 <var data-primary="image"></var>
 <var data-image id="LOC image 2" title="United Fruit Company banana conveyors, New Orleans, La., Library of Congress Prints and Photographs Division Washington, D.C." data-fit="cover" data-url="https://cdn.loc.gov/service/pnp/det/4a10000/4a19000/4a19800/4a19873v.jpg" data-region=""></var>
 
@@ -176,8 +176,9 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref3]: Jean Kennedy, "Pacific Bananas: Complex Origins, Multiple Dispersals?" Asian Perspectives 47, no. 1 (2008): 75-94. doi:10.1353/asi.2008.0004.
 [^ref4]: T. P. Denham, S. G. Haberle, C. Lentfer, R. Fullagar, J. Field, M. Therin, N. Porch, B. Winsborough, “Origins of Agriculture at Kuk Swamp in the Highlands of New Guinea,” in _Science,_ Vol. 301, Issue 5630, pp. 189-193. DOI: 10.1126/science.1085255
 [^ref5]: Virginia Scott Jenkins, _Bananas: An American History_. Washington, DC: Smithsonian Institution Press, 2000.
+[^ref6]: Chapman, Peter. _Bananas: How the United Fruit Company Shaped the World_. 1st American ed. Edinburgh; New York: [Berkeley, Calif.?]: Canongate ; Distributed by Publishers Group West, 2007.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4MjYxMDE4LC04NTE3MjExNTUsLTE5MT
+eyJoaXN0b3J5IjpbNzQzODM5MDc0LC04NTE3MjExNTUsLTE5MT
 cwMjg3MDksMTk1NzkyMDA1MCw0OTIwODQwMDIsMTc4NTAwNjg1
 NiwtMTIyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0NjE2MjQsMT
 cwNDk3ODE1NCwtMTM3NjU3OTA1MSwtMjExMTc2OTY3MiwxNjQz
