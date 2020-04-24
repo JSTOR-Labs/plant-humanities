@@ -167,7 +167,7 @@ Today the Cavendish banana remains the dominant cultivated and exported varietal
 <var data-primary="image"></var>
 <var data-image id="Cavendish Banana Network" title="Cavendish Cultivars" data-fit="contain" data-url="http://www.promusa.org/preview3344" data-region=""></var>
 
-While we need to rethink how we select, hybridize, and propagate bananas, many scientists also argue it is time to recognize the limits of Linnaean taxonomy and rethink how bananas are classified. In 1955 an informal nomenclature system to classify banana cultivars was developed by Norman Simmonds and Kenneth Shepherd. Instead of assigning binomial names, Simmonds and Shepherd classified editable bananas into genome groups, according to the chromosomal contributions of their ancestral wild species (i.e. AAA, AAB, and ABB) and subgroups for closely related cultivars derived from mutation selection and propagation (i.e. the Gros Michel and Cavendish). While Simmonds and Shepherd had to rely on genome classification based on the visible morphology of banana cultivars, scientists today rely have more reliable genomic techniques, allowing them to analyze and reclassify the genetic make-up of hundreds of banana cultivars. This work has revealed that more than one hundred subspecies of _Musa acuminata_ have been implicated in the domestication of bananas. Despite this work, however, scientists still do not know just how many banana cultivars actually exist and are still working to formalize a genome-based classification system in the hopes of finally creating an internally coherent list of names for banana species, subspecies, and cultivars.
+While we need to rethink how we select, hybridize, and propagate bananas, many scientists also argue it is time to recognize the limits of Linnaean taxonomy and rethink how bananas are classified. In 1955 an informal nomenclature system to classify banana cultivars was developed by Norman Simmonds and Kenneth Shepherd. Instead of assigning binomial names, Simmonds and Shepherd classified editable bananas into genome groups, according to the chromosomal contributions of their ancestral wild species (i.e. AAA, AAB, and ABB) and subgroups for closely related cultivars derived from mutation selection and propagation (i.e. the Gros Michel and Cavendish).[^ref8] While Simmonds and Shepherd had to rely on genome classification based on the visible morphology of banana cultivars, scientists today rely have more reliable genomic techniques, allowing them to analyze and reclassify the genetic make-up of hundreds of banana cultivars. This work has revealed that more than one hundred subspecies of _Musa acuminata_ have been implicated in the domestication of bananas. Despite this work, however, scientists still do not know just how many banana cultivars actually exist and are still working to formalize a genome-based classification system in the hopes of finally creating an internally coherent list of names for banana species, subspecies, and cultivars.[^ref9]
 
 ### References
 
@@ -178,11 +178,12 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref5]: Virginia Scott Jenkins, _Bananas: An American History_. Washington, DC: Smithsonian Institution Press, 2000.
 [^ref6]: Chapman, Peter. _Bananas: How the United Fruit Company Shaped the World_. 1st American ed. Edinburgh; New York: [Berkeley, Calif.?]: Canongate ; Distributed by Publishers Group West, 2007.
 [^ref7]: [https://www.pnas.org/content/108/28/11311](https://www.pnas.org/content/108/28/11311)
-
+[^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
+[^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1NTYyOTYxLC04NTE3MjExNTUsLTE5MT
-cwMjg3MDksMTk1NzkyMDA1MCw0OTIwODQwMDIsMTc4NTAwNjg1
-NiwtMTIyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0NjE2MjQsMT
-cwNDk3ODE1NCwtMTM3NjU3OTA1MSwtMjExMTc2OTY3MiwxNjQz
-ODkzMzg2XX0=
+eyJoaXN0b3J5IjpbMTMzODY5OTk0OSwtODUxNzIxMTU1LC0xOT
+E3MDI4NzA5LDE5NTc5MjAwNTAsNDkyMDg0MDAyLDE3ODUwMDY4
+NTYsLTEyMjU1Mzg2ODMsMzUxMzg5MTYzLC0xMjEwNDYxNjI0LD
+E3MDQ5NzgxNTQsLTEzNzY1NzkwNTEsLTIxMTE3Njk2NzIsMTY0
+Mzg5MzM4Nl19
 -->
