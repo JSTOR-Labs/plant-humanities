@@ -16,6 +16,7 @@
 <var title="Systema Naturae" id="Q29270" data-aliases="Linnaean’s formative work" ></var>
 <var title="Musa × paradisiaca" id="Q10757112" data-aliases="Musa paradisca" ></var>
 <var title="Musa sapientium" id="Q49625849" ></var>
+<var title="Papua New Guinea" id="Q691" ></var>
 
 
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
@@ -199,9 +200,9 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA3NzM5ODcsMTg4NTIyNzMxNywxOD
-g0NTI5MzEsLTg1MTcyMTE1NSwtMTkxNzAyODcwOSwxOTU3OTIw
-MDUwLDQ5MjA4NDAwMiwxNzg1MDA2ODU2LC0xMjI1NTM4NjgzLD
-M1MTM4OTE2MywtMTIxMDQ2MTYyNCwxNzA0OTc4MTU0LC0xMzc2
-NTc5MDUxLC0yMTExNzY5NjcyLDE2NDM4OTMzODZdfQ==
+eyJoaXN0b3J5IjpbLTE5NTQzMjI1OCwxODg1MjI3MzE3LDE4OD
+Q1MjkzMSwtODUxNzIxMTU1LC0xOTE3MDI4NzA5LDE5NTc5MjAw
+NTAsNDkyMDg0MDAyLDE3ODUwMDY4NTYsLTEyMjU1Mzg2ODMsMz
+UxMzg5MTYzLC0xMjEwNDYxNjI0LDE3MDQ5NzgxNTQsLTEzNzY1
+NzkwNTEsLTIxMTE3Njk2NzIsMTY0Mzg5MzM4Nl19
 -->
