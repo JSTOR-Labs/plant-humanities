@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "null",
-        "fill": "#32c125",
+        "fill": "#771d1d",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -208,7 +208,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "null",
-        "fill": "#32c125",
+        "fill": "#771d1d",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -271,7 +271,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "null",
-        "fill": "#32c125",
+        "fill": "#771d1d",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -410,7 +410,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "null",
-        "fill": "#32c125",
+        "fill": "#771d1d",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -495,7 +495,7 @@
         "stroke": "null",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#32c125",
+        "fill": "#771d1d",
         "fill-opacity": 0.5,
         "label": "Distribution of Fusarium wilt of banana (races 1 and 2) "
       },
@@ -811,7 +811,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "null",
-        "fill": "#32c125",
+        "fill": "#771d1d",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -854,7 +854,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "null",
-        "fill": "#32c125",
+        "fill": "#771d1d",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -913,7 +913,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "null",
-        "fill": "#32c125",
+        "fill": "#771d1d",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -1265,7 +1265,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": "",
-        "fill": "#32c125",
+        "fill": "#771d1d",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -1504,7 +1504,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "null",
-        "fill": "#32c125",
+        "fill": "#771d1d",
         "fill-opacity": 0.5
       },
       "geometry": {
