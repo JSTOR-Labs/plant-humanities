@@ -1,7 +1,7 @@
 [View](https://plant-humanities.app/essay?gdid=1CUNlxL1pArMUI7W3ozl6YfpOHi04hPqA)
 
 <var data-essay
-     title="## Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy"
+     title="Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy"
      data-banner="https://upload.wikimedia.org/wikipedia/commons/3/3c/Plantae_selectae_quarum_imagines_ad_exemplaria_naturalia_Londini%2C_in_hortis_curiosorum_nutrita_%28Tab._XXIII%29_%288050604730%29.jpg"
      data-layout="vtl" data-debug="false"></var>
 
@@ -45,13 +45,6 @@
 <var title="Panama disease" id="Q3240031" ></var>
 <var title="Goa" id="Q1171" ></var>
 
-
-<var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
-<var data-map-layer
-	title="Banana Origin and Distribution"
-	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/top_20_banana_countries.json"
-	data-active="true"></var>
 	
 ## Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy
 
@@ -228,10 +221,10 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg0NjU4MzMsLTE3NjMzMDYyNTAsLT
-IxNDQ0OTYyNCwxODg1MjI3MzE3LDE4ODQ1MjkzMSwtODUxNzIx
-MTU1LC0xOTE3MDI4NzA5LDE5NTc5MjAwNTAsNDkyMDg0MDAyLD
-E3ODUwMDY4NTYsLTEyMjU1Mzg2ODMsMzUxMzg5MTYzLC0xMjEw
-NDYxNjI0LDE3MDQ5NzgxNTQsLTEzNzY1NzkwNTEsLTIxMTE3Nj
-k2NzIsMTY0Mzg5MzM4Nl19
+eyJoaXN0b3J5IjpbLTUzMTk5NzcyNiwtMTExODQ2NTgzMywtMT
+c2MzMwNjI1MCwtMjE0NDQ5NjI0LDE4ODUyMjczMTcsMTg4NDUy
+OTMxLC04NTE3MjExNTUsLTE5MTcwMjg3MDksMTk1NzkyMDA1MC
+w0OTIwODQwMDIsMTc4NTAwNjg1NiwtMTIyNTUzODY4MywzNTEz
+ODkxNjMsLTEyMTA0NjE2MjQsMTcwNDk3ODE1NCwtMTM3NjU3OT
+A1MSwtMjExMTc2OTY3MiwxNjQzODkzMzg2XX0=
 -->
