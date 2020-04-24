@@ -100,8 +100,8 @@ It is clear that the watercolors  illustrate  anatomically accurate plant  struc
      data-active="true"></var>
 <var data-image-viewer></var> 
 <var data-primary="image"></var>
-<var data-image id="Ancient Cacao Beverage Vessel" title="Ancient Maya Cacao Beverage Vessel with Cacao Imagery" data-url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Mayan_-_Lidded_Vessel_-_Walters_20092039_-_Side_B.jpg"></var>
-<var data-image id="Cacao Reproductive Cycle" title="Reproductive Life Cycle of Cacao" data-url="https://jstor-labs.github.io/plant-humanities/images/CacaoReprod.png" data-fit="scale-down"></var>
+<var data-image id="Ancient Cacao Beverage Vessel" title="Ancient Maya Cacao Beverage Vessel with Cacao Imagery" data-url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Mayan_-_Lidded_Vessel_-_Walters_20092039_-_Side_B.jpg" data-fit="contain"></var>
+<var data-image id="Cacao Reproductive Cycle" title="Reproductive Life Cycle of Cacao" data-url="https://jstor-labs.github.io/plant-humanities/images/CacaoReprod.png" data-fit="contain"></var>
 
 
 ### Ancient Ideologies
@@ -135,7 +135,7 @@ In these Mexica recipes, the association of cacao with curing particular ailment
 	data-active="true"></var>
 <var data-image-viewer></var>  
 <var data-primary="image"></var>
-<var data-image id="The Milpa Cycle" title="The Milpa Cycle" data-url="https://jstor-labs.github.io/plant-humanities/images/MilpaCycle.png" data-fit="scale-down"></var>
+<var data-image id="The Milpa Cycle" title="The Milpa Cycle" data-url="https://jstor-labs.github.io/plant-humanities/images/MilpaCycle.png" data-fit="contain"></var>
 
 Ancient Maya leaders represented themselves and their gods as or in relation to this cycle and its  associated  plants  of importance, mainly cacao and maize, attempting to embody the power of the natural world. For example, we see the  ancient Maya  depict ancestors of rulers  as cacao trees  growing from the sarcophagi of dead  ‘maize god’  rulers at the site of Palenque  and  cacao trees anthropomorphized  as deities on intricately carved vessels. By invoking this cycle in representing themselves and deities, Maya political leaders were giving precedence to the subsistence practices, ideologies, and plants they incorporated.  Given this ancient association of cacao with the power of the natural world, it is not surprising to see cacao as an ingredient in the Badianus’ recipes for curing fear and malaise, particularly for political leaders.
 <var data-primary="image"></var>
@@ -193,8 +193,9 @@ We learn from many other early colonial documents that roasted cacao beans were 
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Teo.geojson"
 	data-active="true"></var>
 <var data-image-viewer></var>  
-<var data-image id="Maya God L, K631" title="Maya God L, often depicted in relation to cacao and merchant regalia" data-url="http://research.mayavase.com/uploads/mayavase/hires/0631.jpg" data-fit="scale-down"></var>
-<var data-image id="Maya God L, K9089" title="Maya God L, often depicted in relation to cacao and merchant regalia - also often seen with God K" data-url="http://research.mayavase.com/uploads/mayavase/hires/9089.jpg" data-fit="scale-down"></var>
+<var data-image id="Maya God L, K631" title="Maya God L seated in merchant regalia; God K to the right next to a cacao tree" data-url="http://research.mayavase.com/uploads/mayavase/hires/0631.jpg" data-fit="contain"></var>
+<var data-image id="Maya God L, K9089" title="Maya God L seated in merchant regalia with cacao symbolism on the left; God K on the right" data-url="http://research.mayavase.com/uploads/mayavase/hires/9089.jpg" data-fit="contain"></var>
+<var data-image id="Maya God L vessel" title="Maya God L with cacao symbolism seated in merchant regalia" data-url="https://jstor-labs.github.io/plant-humanities/images/GodLVessel.jpg" data-fit="contain"></var>
 
 Ultimately, the importance of cacao within political, social, and economic realms of these cultures serves as support for ideas of a ritual economy for the cultures of the region.[^ref10] These data indicate that individuals and polities would have sought control of its associated production and exchange networks to garner power, perpetuating its uses and ideologies farther and farther from their neotropical origins.  It is no wonder that ancient rulers invoked cacao in their ritual and political exchanges and ceremonies, which often included the imbibing of cacao beverages or the  gifting of cacao vessels.[^ref11][^ref12] Eventually, these practices created a taste for cacao across an elaborate network of Mesoamerican polities, maintaining the high status and importance of cacao-producing regions during ancient and historic periods.[^ref13][^ref14] Upon European arrival, these networks of production and trade as well as their associated ideologies and practices were well-established across the Americas.
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
