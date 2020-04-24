@@ -87,7 +87,7 @@ The rise of European Maritime powers in the late fourteenth and fifteenth centur
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/bananas_africa.json"
 	data-active="true"></var>
 
-In 1516 Friar Tomas de Berlanga, a Catholic missionary, landed on the Island of Hispaniola (now Haiti and the Dominican Republic) and planted banana stems (or suckers) as means to continue to feed the growing African slave population. When Friar Tomas was made Bishop of Panama, he took banana plants with him to the mainland. Bananas were also carried to Mexico by the Spanish and eventually spread rapidly throughout Central America.
+In 1516 Friar Tomas de Berlanga, a Catholic missionary, landed on the Island of Hispaniola (now Haiti and the Dominican Republic) and planted banana stems (or suckers) as means to continue to feed the growing African slave population. When Friar Tomas was made Bishop of Panama, he took banana plants with him to the mainland. Bananas were also carried to Mexico by the Spanish and eventually spread rapidly throughout Central America.[^ref5]
 <var data-map title="New World" data-center="24.249039, -53.380695" data-zoom="3"></var>
 <var data-map-layer
 	title="Bananas in Africa"
@@ -176,10 +176,11 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref2]: Jean Kennedy, "Pacific Bananas: Complex Origins, Multiple Dispersals?" Asian Perspectives 47, no. 1 (2008): 75-94. doi:10.1353/asi.2008.0004.
 [^ref3]: Jean Kennedy, "Pacific Bananas: Complex Origins, Multiple Dispersals?" Asian Perspectives 47, no. 1 (2008): 75-94. doi:10.1353/asi.2008.0004.
 [^ref4]: T. P. Denham, S. G. Haberle, C. Lentfer, R. Fullagar, J. Field, M. Therin, N. Porch, B. Winsborough, “Origins of Agriculture at Kuk Swamp in the Highlands of New Guinea,” in _Science,_ Vol. 301, Issue 5630, pp. 189-193. DOI: 10.1126/science.1085255
+[^ref5]: Virginia Scott Jenkins, _Bananas: An American History_. Washington, DC: Smithsonian Institution Press, 2000.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU4MzEzNDgsLTg1MTcyMTE1NSwtMT
-kxNzAyODcwOSwxOTU3OTIwMDUwLDQ5MjA4NDAwMiwxNzg1MDA2
-ODU2LC0xMjI1NTM4NjgzLDM1MTM4OTE2MywtMTIxMDQ2MTYyNC
-wxNzA0OTc4MTU0LC0xMzc2NTc5MDUxLC0yMTExNzY5NjcyLDE2
-NDM4OTMzODZdfQ==
+eyJoaXN0b3J5IjpbNjgzNjc1MzQ0LC04NTE3MjExNTUsLTE5MT
+cwMjg3MDksMTk1NzkyMDA1MCw0OTIwODQwMDIsMTc4NTAwNjg1
+NiwtMTIyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0NjE2MjQsMT
+cwNDk3ODE1NCwtMTM3NjU3OTA1MSwtMjExMTc2OTY3MiwxNjQz
+ODkzMzg2XX0=
 -->
