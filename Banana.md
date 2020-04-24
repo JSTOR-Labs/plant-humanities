@@ -100,7 +100,7 @@ During this early period of renewed European interest in the banana, there was g
 <var data-primary="image"></var>
 <var data-image id="Banana Orta" title="Coloquios dos simples e drogas da India" data-url="https://bibdigital.rjb.csic.es/i/?IIIF=/38/80/3b/be/38803bbe-3f4e-4f89-8df9-ac2ca5166d2e/iiif/ORT_Col_Simpl_Drog_1_000353.tif/183.5728155339806,107.65714285714286,1120.4271844660193,1573.6941176470586/!354,497/0/default.jpg" data-region=""></var>
 
-The most influential European author of the period, Italian physician Pietro Andrea Mattioli, referred to the banana plant as “musa” and the individual fruits as “muse” in his important herbal published in 1554. Musa, which was eventually adopted by Linnaeus as the name of the genus, is believed to be an adaptation the Arabic word for banana, “_mauz_” or “_mawzah_.” By the eighth century, Islamic expansion under the Umayyad Caliphate (661–750) had reached the Indian subcontinent, creating a region of trade, exchange, and communication stretching from India to Iberia. Through these vast commercial networks, bananas were traded and became popular throughout the Islamic Empire. 
+The most influential European author of the period, Italian physician Pietro Andrea Mattioli, [referred to the banana plant as “musa” and the individual fruits as “muse”](https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10139456_00182.html) in his important herbal published in 1554. Musa, which was eventually adopted by Linnaeus as the name of the genus, is believed to be an adaptation the Arabic word for banana, “_mauz_” or “_mawzah_.” By the eighth century, Islamic expansion under the Umayyad Caliphate (661–750) had reached the Indian subcontinent, creating a region of trade, exchange, and communication stretching from India to Iberia. Through these vast commercial networks, bananas were traded and became popular throughout the Islamic Empire.
 <var data-map title="New World" data-center="35.114994, 31.944694" data-zoom="3"></var>
 <var data-map-layer
 	title="Bananas in Islamic Empire"
@@ -108,7 +108,7 @@ The most influential European author of the period, Italian physician Pietro And
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Banana_Islamic_Empire.json"
 	data-active="true"></var>
 
-Italian physicians and naturalists like Mattioli, adopted the Arabic name for banana since it was through contact with the Islamic territories  in the late Middle Ages, as well as the writings of Islamic physicians such as Avicenna, that Italy was first introduced to the plant. Although Mattioli did not mention or describe the “musa tree” in the first edition of his famous herbal, a later edition in Latin is likely the first European herbal entry to describe banana in 1554.
+Italian physicians and naturalists like Mattioli, adopted the Arabic name for banana since it was through contact with the Islamic Empire in the late Middle Ages, as well as the writings of Islamic physicians such as Avicenna, that Italy was first introduced to the plant. Although Mattioli did not mention or describe the “musa tree” in the first edition of his famous herbal, its appearance in a later edition in Latin in 1554 is likely the first printed European herbal entry to describe banana.
 <var data-primary="map"></var>
 <var data-map title="New World" data-center="39.066017, 15.997291" data-zoom="4"></var>
 <var data-map-layer
@@ -118,7 +118,7 @@ Italian physicians and naturalists like Mattioli, adopted the Arabic name for ba
 	data-active="true"></var>
 <var data-image id="Mattioli 1554" title="Mattioli, Pietro Andrea: Petri Andreae Matthioli ... Commentarii, in libros sex Pedacii Dioscoridis Anazarbei, de medica materia, adiectis quam plurimis plantarum & animalium imaginibus, eodem authore, Venetijs, 1554" data-url="http://bsb3.bsb.lrz.de/~db/1013/bsb10139456/images/bsb10139456_00182.jpg" data-region=""></var>
 
-The term “musa” was also used by the Flemish physician and botanist Rembert Dodoens in his herbal published in 1563. Unlike Mattioli and Orta, however, Dodoens provided an image of the musa or “Mose” tree (Mattioli would not add an illustration of banana to his herbal until 1565). Dodoens’s description of the banana tree as well as his image were very similar to that of Andrè Thevet, a French Franciscan priest who documented his travels through the Levant in 1549 (published in 1556). Thevet described bananas as resembling cucumbers, yet the inaccuracy of his accompanying image casts doubts on if Thevet saw an actual banana plant. It is more likely that European travelers in the Levant came in contact with banana fruits in the markets and not on fruiting “trees.” In his herbal, Dodoens stated that bananas were trafficked through the merchants of India, Persia, and Venice, while Mattioli asserts the plant was already growing in Cyprus, Egypt, and even Sicily. Contact and trade with Islamic territories combined with southern Italy’s warm climate meant that Italy was likely one of the first regions in European to learn about and attempt to cultivate bananas in private as well as botanical gardens.
+The term “musa” was also used by the Flemish physician and botanist Rembert Dodoens in his herbal published in 1563. Unlike Mattioli and de Orta, however, [Dodoens provided an image of the musa or “Mose” tree](https://www.biodiversitylibrary.org/page/6726349) (Mattioli would not add an illustration of banana to his herbal until 1565). Dodoens’s description of the banana tree as well as his image were taken directly from the work of Andrè Thevet, a French Franciscan priest who documented his travels through the Levant in 1549. [Thevet described bananas as resembling cucumbers](https://books.google.com/books?id=U91y-xxk0OYC&pg=PA213&dq=cosmographie+de+levant&hl=it&sa=X&ved=0ahUKEwjog-H5-8roAhVnkHIEHbNGAvIQ6wEISjAD#v=onepage&q&f=false), yet the inaccuracy of his accompanying image casts doubts on if Thevet saw an actual banana plant. It is more likely that European travelers in the Levant came in contact with banana fruits in the markets and not on fruiting “trees.” In his herbal, Dodoens stated that bananas were trafficked through the merchants of India, Persia, and Venice, while Mattioli asserts the plant was already growing in Cyprus, Egypt, and even Sicily. Contact and trade with Islamic territories combined with southern Italy’s warm climate meant that Italy was likely one of the first regions in European to learn about and attempt to cultivate bananas in private as well as botanical gardens.
 <var data-primary="image"></var>
 <var data-image id="Google Books Thevet" title="Cosmographie de Levant" data-url="https://books.google.com/books/content?id=U91y-xxk0OYC&hl=it&pg=PA185&img=1&zoom=3&sig=ACfU3U19cLgXquFUoGHxxNVvFcJjABaeTA&w=1025" data-region=""></var>
 <var data-image id="bhl-6726349" title="Dodoens Musa" data-url="https://www.biodiversitylibrary.org/pageimage/6726349" data-region=""></var>
@@ -178,9 +178,9 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref4]: T. P. Denham, S. G. Haberle, C. Lentfer, R. Fullagar, J. Field, M. Therin, N. Porch, B. Winsborough, “Origins of Agriculture at Kuk Swamp in the Highlands of New Guinea,” in _Science,_ Vol. 301, Issue 5630, pp. 189-193. DOI: 10.1126/science.1085255
 [^ref5]: Virginia Scott Jenkins, _Bananas: An American History_. Washington, DC: Smithsonian Institution Press, 2000.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzNjc1MzQ0LC04NTE3MjExNTUsLTE5MT
-cwMjg3MDksMTk1NzkyMDA1MCw0OTIwODQwMDIsMTc4NTAwNjg1
-NiwtMTIyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0NjE2MjQsMT
-cwNDk3ODE1NCwtMTM3NjU3OTA1MSwtMjExMTc2OTY3MiwxNjQz
-ODkzMzg2XX0=
+eyJoaXN0b3J5IjpbMTUyMDIyMjU4MiwtODUxNzIxMTU1LC0xOT
+E3MDI4NzA5LDE5NTc5MjAwNTAsNDkyMDg0MDAyLDE3ODUwMDY4
+NTYsLTEyMjU1Mzg2ODMsMzUxMzg5MTYzLC0xMjEwNDYxNjI0LD
+E3MDQ5NzgxNTQsLTEzNzY1NzkwNTEsLTIxMTE3Njk2NzIsMTY0
+Mzg5MzM4Nl19
 -->
