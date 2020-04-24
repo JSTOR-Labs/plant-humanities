@@ -17,6 +17,7 @@
 <var title="Musa × paradisiaca" id="Q10757112" data-aliases="Musa paradisca" ></var>
 <var title="Musa sapientium" id="Q49625849" ></var>
 <var title="Papua New Guinea" id="Q691" ></var>
+<var title="Philippines" id="Q928" ></var>
 
 
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
@@ -200,7 +201,7 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQzMjI1OCwxODg1MjI3MzE3LDE4OD
+eyJoaXN0b3J5IjpbLTE5NTA3NjcwMywxODg1MjI3MzE3LDE4OD
 Q1MjkzMSwtODUxNzIxMTU1LC0xOTE3MDI4NzA5LDE5NTc5MjAw
 NTAsNDkyMDg0MDAyLDE3ODUwMDY4NTYsLTEyMjU1Mzg2ODMsMz
 UxMzg5MTYzLC0xMjEwNDYxNjI0LDE3MDQ5NzgxNTQsLTEzNzY1
