@@ -163,7 +163,7 @@ In the end, an intense monoculture focused on the vegetal propagation of one mut
 	data-active="true"></var>
 
 ### Bananas Today
-Today the Cavendish banana remains the dominant cultivated and exported varietal of bananas. Just as it did in the twentieth century, the current global production of more than one million tons remains based on large-scale vegetative propagation of a small number of genotypes derived from a handful of ancient sexual recombination events. This makes the Cavendish varietal, like the Gros Michel, particularly susceptible to diseases as well as pests and climate change. Recent scientific studies on banana genetics and genomes, however, could hold the key to diversifying and revitalizing banana hybrids. For many scientists, the goal is to figure out banana’s origin story in order to produce new polyploid hybrids through genetic recombinations of fertile diploids, just as societies in Southeast Asia did thousands of years ago.
+Today the Cavendish banana remains the dominant cultivated and exported varietal of bananas. Just as it did in the twentieth century, the current global production of more than one million tons remains based on large-scale vegetative propagation of a small number of genotypes derived from a handful of ancient sexual recombination events. This makes the Cavendish varietal, like the Gros Michel, particularly susceptible to diseases as well as pests and climate change. Recent scientific studies on banana genetics and genomes, however, could hold the key to diversifying and revitalizing banana hybrids. For many scientists, the goal is to figure out banana’s origin story in order to produce new polyploid hybrids through genetic recombinations of fertile diploids, just as societies in Southeast Asia did thousands of years ago.[^ref7]
 <var data-primary="image"></var>
 <var data-image id="Cavendish Banana Network" title="Cavendish Cultivars" data-fit="contain" data-url="http://www.promusa.org/preview3344" data-region=""></var>
 
@@ -177,8 +177,10 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref4]: T. P. Denham, S. G. Haberle, C. Lentfer, R. Fullagar, J. Field, M. Therin, N. Porch, B. Winsborough, “Origins of Agriculture at Kuk Swamp in the Highlands of New Guinea,” in _Science,_ Vol. 301, Issue 5630, pp. 189-193. DOI: 10.1126/science.1085255
 [^ref5]: Virginia Scott Jenkins, _Bananas: An American History_. Washington, DC: Smithsonian Institution Press, 2000.
 [^ref6]: Chapman, Peter. _Bananas: How the United Fruit Company Shaped the World_. 1st American ed. Edinburgh; New York: [Berkeley, Calif.?]: Canongate ; Distributed by Publishers Group West, 2007.
+[^ref7]: [https://www.pnas.org/content/108/28/11311](https://www.pnas.org/content/108/28/11311)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzODM5MDc0LC04NTE3MjExNTUsLTE5MT
+eyJoaXN0b3J5IjpbNzc1NTYyOTYxLC04NTE3MjExNTUsLTE5MT
 cwMjg3MDksMTk1NzkyMDA1MCw0OTIwODQwMDIsMTc4NTAwNjg1
 NiwtMTIyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0NjE2MjQsMT
 cwNDk3ODE1NCwtMTM3NjU3OTA1MSwtMjExMTc2OTY3MiwxNjQz
