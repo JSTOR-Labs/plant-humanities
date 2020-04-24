@@ -26,7 +26,10 @@
 <var title="Age of Discovery" id="Q133641" data-aliases="European Maritime powers" ></var>
 <var title="Fray Tomás de Berlanga" id="Q115599" data-aliases="Friar Tomas de Berlanga" ></var>
 <var title="Hispaniola" id="Q25277" ></var>
-<var
+<var title="New World" id="Q127834" ></var>
+<var title="Garcia de Orta" id="Q1493994" ></var>
+<var title="Pietro Andrea Mattioli" id="Q457191" ></var>
+
 
 
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
@@ -210,7 +213,7 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDI0MTk2MCwtMjE0NDQ5NjI0LDE4OD
+eyJoaXN0b3J5IjpbLTMwOTQwMDc4NCwtMjE0NDQ5NjI0LDE4OD
 UyMjczMTcsMTg4NDUyOTMxLC04NTE3MjExNTUsLTE5MTcwMjg3
 MDksMTk1NzkyMDA1MCw0OTIwODQwMDIsMTc4NTAwNjg1NiwtMT
 IyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0NjE2MjQsMTcwNDk3
