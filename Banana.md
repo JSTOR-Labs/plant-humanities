@@ -39,6 +39,8 @@
 <var title="banana republic" id="Q171751"></var>
 <var title="Gros Michel banana" id="Q1547451" data-aliases="Gros Michel" ></var>
 <var title="Cavendish banana" id="Q1051869" ></var>
+<var title="United Fruit Company" id="Q1771942" ></var>
+<var title="monoculture" id="Q220212" data-aliases="monocultures" ></var>
 
 
 
@@ -224,10 +226,10 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzc2NzUwOCwtMjE0NDQ5NjI0LDE4OD
-UyMjczMTcsMTg4NDUyOTMxLC04NTE3MjExNTUsLTE5MTcwMjg3
-MDksMTk1NzkyMDA1MCw0OTIwODQwMDIsMTc4NTAwNjg1NiwtMT
-IyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0NjE2MjQsMTcwNDk3
-ODE1NCwtMTM3NjU3OTA1MSwtMjExMTc2OTY3MiwxNjQzODkzMz
-g2XX0=
+eyJoaXN0b3J5IjpbLTE2MDc0MTgwNDUsLTIxNDQ0OTYyNCwxOD
+g1MjI3MzE3LDE4ODQ1MjkzMSwtODUxNzIxMTU1LC0xOTE3MDI4
+NzA5LDE5NTc5MjAwNTAsNDkyMDg0MDAyLDE3ODUwMDY4NTYsLT
+EyMjU1Mzg2ODMsMzUxMzg5MTYzLC0xMjEwNDYxNjI0LDE3MDQ5
+NzgxNTQsLTEzNzY1NzkwNTEsLTIxMTE3Njk2NzIsMTY0Mzg5Mz
+M4Nl19
 -->
