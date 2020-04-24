@@ -35,7 +35,8 @@
 <var title="André Thévet" id="Q523054" ></var>
 <var title="staple food" id="Q736427" data-aliases="dietary staple" ></var>
 <var title="herbal" id="Q6165948" ></var>
-<var title="George Clifford III" id="Q556591)
+<var title="George Clifford III" id="Q556591" data-aliases="George Clifford" ></var>
+
 
 
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
@@ -170,7 +171,7 @@ By the seventeenth century, bananas had spread throughout the Caribbean and the 
 
 Even Linnaeus had to rely on the garden and hothouse of the wealthy financier and director of the Dutch East India Company, George Clifford (1685-1760), to see and study a live banana plant. At his estate in Hartenkamp, Holland, and with the assistance of Linnaeus, Clifford successfully flowered a hybrid of _Musa acuminate_ and _Musa balbisiana_. The successful flowering and subsequent fruiting of the rare and exotic banana plant was so momentous that Linnaeus wrote a treatise on the plant, _[Musa Cliffortiana](http://linnean-online.org/120150/)_, published in 1736.
 <var data-primary="map"></var>
-<var data-map title="Hartenkamp, Holland" data-center="Q18771183" data-zoom="6.5"></var>
+<var data-map title="Hartekamp, Holland" data-center="Q18771183" data-zoom="6.5"></var>
 
 That same year marked the arrival of the German botanical artist Georg Ehret to Hartekamp. Ehret would provide the illustrations of Clifford’s flowering banana plant for the treatise as well as go on to diagram Linnaeus’s new plant classification system. It was also at the direction of Linnaeus, Ehret began adding details of the plant’s reproductive structures, or flowers, creating a new standard for botanical illustrations.
 <var data-primary="image"></var>
@@ -219,10 +220,10 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODU4NDEyMSwtMjE0NDQ5NjI0LDE4OD
-UyMjczMTcsMTg4NDUyOTMxLC04NTE3MjExNTUsLTE5MTcwMjg3
-MDksMTk1NzkyMDA1MCw0OTIwODQwMDIsMTc4NTAwNjg1NiwtMT
-IyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0NjE2MjQsMTcwNDk3
-ODE1NCwtMTM3NjU3OTA1MSwtMjExMTc2OTY3MiwxNjQzODkzMz
-g2XX0=
+eyJoaXN0b3J5IjpbMzIxNzk4MDg2LC0yMTQ0NDk2MjQsMTg4NT
+IyNzMxNywxODg0NTI5MzEsLTg1MTcyMTE1NSwtMTkxNzAyODcw
+OSwxOTU3OTIwMDUwLDQ5MjA4NDAwMiwxNzg1MDA2ODU2LC0xMj
+I1NTM4NjgzLDM1MTM4OTE2MywtMTIxMDQ2MTYyNCwxNzA0OTc4
+MTU0LC0xMzc2NTc5MDUxLC0yMTExNzY5NjcyLDE2NDM4OTMzOD
+ZdfQ==
 -->
