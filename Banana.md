@@ -21,9 +21,7 @@
 <var title="Malay Peninsula" id="Q18758" ></var>
 <var title="Indonesia" id="Q252" ></var>
 <var title="Alexander the Great" id="Q8409" data-aliases="Alexander the Great's" ></var>
-<var title="# Historia Plantarum" id="Q160362" ></var>
-
-Theophrastus
+<var title="Historia Plantarum" id="Q17156420" data-aliases="Theophrastus" ></var>
 <var title="Natural History" id="Q442" data-aliases="Pliny" ></var>
 
 
@@ -208,7 +206,7 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzQxNjQ5NywxODg1MjI3MzE3LDE4OD
+eyJoaXN0b3J5IjpbMTQyMTA1NzQwMCwxODg1MjI3MzE3LDE4OD
 Q1MjkzMSwtODUxNzIxMTU1LC0xOTE3MDI4NzA5LDE5NTc5MjAw
 NTAsNDkyMDg0MDAyLDE3ODUwMDY4NTYsLTEyMjU1Mzg2ODMsMz
 UxMzg5MTYzLC0xMjEwNDYxNjI0LDE3MDQ5NzgxNTQsLTEzNzY1
