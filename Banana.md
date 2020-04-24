@@ -201,7 +201,7 @@ Today the Cavendish banana remains the dominant cultivated and exported varietal
 While we need to rethink how we select, hybridize, and propagate bananas, many scientists also argue it is time to recognize the limits of Linnaean taxonomy and rethink how bananas are classified. In 1955 an informal nomenclature system to classify banana cultivars was developed by Norman Simmonds and Kenneth Shepherd. Instead of assigning binomial names, Simmonds and Shepherd classified editable bananas into genome groups, according to the chromosomal contributions of their ancestral wild species (i.e. AAA, AAB, and ABB) and subgroups for closely related cultivars derived from mutation selection and propagation (i.e. the Gros Michel and Cavendish).[^ref8] While Simmonds and Shepherd had to rely on genome classification based on the visible morphology of banana cultivars, scientists today rely have more reliable genomic techniques, allowing them to analyze and reclassify the genetic make-up of hundreds of banana cultivars. This work has revealed that more than one hundred subspecies of _Musa acuminata_ have been implicated in the domestication of bananas. Despite this work, however, scientists still do not know just how many banana cultivars actually exist and are still working to formalize a genome-based classification system in the hopes of finally creating an internally coherent list of names for banana species, subspecies, and cultivars.[^ref9]
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
 <var data-map-layer
-	title="Banana Origin and Distribution"
+	title="top 20 producing banana countries in 2012"
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/top_20_banana_countries.json"
 	data-active="true"></var>
@@ -218,11 +218,11 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODM5MzI5MCw4NjgzNTAzMzQsLTEyOD
-gxOTUxMjUsLTcwMDYxMzI0NCwtMTExMDM0MDQ5MywtOTI4ODg2
-NTAyLC00NjM3NjEzMyw4ODM4NDY5MzQsLTM2Mjc3ODQ5NCwtMT
-MxNTAxMDE1OSwtNTMxOTk3NzI2LC0xMTE4NDY1ODMzLC0xNzYz
-MzA2MjUwLC0yMTQ0NDk2MjQsMTg4NTIyNzMxNywxODg0NTI5Mz
-EsLTg1MTcyMTE1NSwtMTkxNzAyODcwOSwxOTU3OTIwMDUwLDQ5
-MjA4NDAwMl19
+eyJoaXN0b3J5IjpbNzEzODY5NjU3LDE5OTgzOTMyOTAsODY4Mz
+UwMzM0LC0xMjg4MTk1MTI1LC03MDA2MTMyNDQsLTExMTAzNDA0
+OTMsLTkyODg4NjUwMiwtNDYzNzYxMzMsODgzODQ2OTM0LC0zNj
+I3Nzg0OTQsLTEzMTUwMTAxNTksLTUzMTk5NzcyNiwtMTExODQ2
+NTgzMywtMTc2MzMwNjI1MCwtMjE0NDQ5NjI0LDE4ODUyMjczMT
+csMTg4NDUyOTMxLC04NTE3MjExNTUsLTE5MTcwMjg3MDksMTk1
+NzkyMDA1MF19
 -->
