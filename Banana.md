@@ -13,6 +13,7 @@
 <var title="Musa balbisiana" id="Q94643"></var>
 <var title="Carl Linnaeus" id="Q1043"></var>
 <var title="taxonomy of Linnaeus" id="Q54878466" data-aliases="Latin binomial names"></var>
+<
 
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
 <var data-map-layer
@@ -195,9 +196,9 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODc0MzQxMywxODg1MjI3MzE3LDE4OD
-Q1MjkzMSwtODUxNzIxMTU1LC0xOTE3MDI4NzA5LDE5NTc5MjAw
-NTAsNDkyMDg0MDAyLDE3ODUwMDY4NTYsLTEyMjU1Mzg2ODMsMz
-UxMzg5MTYzLC0xMjEwNDYxNjI0LDE3MDQ5NzgxNTQsLTEzNzY1
-NzkwNTEsLTIxMTE3Njk2NzIsMTY0Mzg5MzM4Nl19
+eyJoaXN0b3J5IjpbLTE0NDUwMjU2MjEsMTg4NTIyNzMxNywxOD
+g0NTI5MzEsLTg1MTcyMTE1NSwtMTkxNzAyODcwOSwxOTU3OTIw
+MDUwLDQ5MjA4NDAwMiwxNzg1MDA2ODU2LC0xMjI1NTM4NjgzLD
+M1MTM4OTE2MywtMTIxMDQ2MTYyNCwxNzA0OTc4MTU0LC0xMzc2
+NTc5MDUxLC0yMTExNzY5NjcyLDE2NDM4OTMzODZdfQ==
 -->
