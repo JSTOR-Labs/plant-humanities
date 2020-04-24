@@ -22,6 +22,7 @@
 ## Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy
 
 Everybody knows what a banana is. At least we think we do. Today, the banana is a ubiquitous and easy-to-recognize fruit that even shares the same name or sounds the same in many modern languages. Yet, despite the fact that you can identify the word for banana across cultures, the actual identification and classification of our modern-day banana is, to quote a popular idiom, “bananas.” It is a genetically modified mystery that continues to defy our system of plant taxonomy.
+<var data-scope="local" id="Q503"></var>
 <var data-primary="image"></var>
 <var data-image id="Banana, What's in a Name?" title="Banana Across Modern Languages" data-fit="contain" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_Languages.jpg" data-region=""></var>
 
@@ -192,9 +193,9 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODI0MTYxNCwtODUxNzIxMTU1LC0xOT
-E3MDI4NzA5LDE5NTc5MjAwNTAsNDkyMDg0MDAyLDE3ODUwMDY4
-NTYsLTEyMjU1Mzg2ODMsMzUxMzg5MTYzLC0xMjEwNDYxNjI0LD
-E3MDQ5NzgxNTQsLTEzNzY1NzkwNTEsLTIxMTE3Njk2NzIsMTY0
-Mzg5MzM4Nl19
+eyJoaXN0b3J5IjpbMTg4NDUyOTMxLC04NTE3MjExNTUsLTE5MT
+cwMjg3MDksMTk1NzkyMDA1MCw0OTIwODQwMDIsMTc4NTAwNjg1
+NiwtMTIyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0NjE2MjQsMT
+cwNDk3ODE1NCwtMTM3NjU3OTA1MSwtMjExMTc2OTY3MiwxNjQz
+ODkzMzg2XX0=
 -->
