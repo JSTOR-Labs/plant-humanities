@@ -51,6 +51,7 @@ Everybody knows what a banana is. At least we think we do. Today, the banana is 
 
 ### Bananas, the First GMO?
 Bananas are herbaceous plants, not trees, and while they resemble palms, they are not related. When the plant matures, it begins to form a large inflorescence, which produces both male and female flowers. As the inflorescence grows, a softball-size magenta bud (or _spathe_) forms at the end, weighing down the branched spadix. Petal-like bracts grow between the overlapping scales surrounding the bud. These fall away to reveal clusters of female (_pistillate_) flowers. Oblong fruit emerge from the base of the flowers. While the spadix continues to grow and droops under the weight of the _spathe_ (the male bud), the tips of the fruit grow towards the sun, giving bananas their distinctive curved shape.
+<var data-scope="local" id="Q503"></var>
 <var data-primary="image"></var>
 <var data-image id="Banana Diagram" title="Parts of the Banana Plant" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_Plant_Parts.jpg" data-region=""></var>
 
@@ -217,11 +218,11 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTAzNDA0OTMsLTkyODg4NjUwMiwtND
-YzNzYxMzMsODgzODQ2OTM0LC0zNjI3Nzg0OTQsLTEzMTUwMTAx
-NTksLTUzMTk5NzcyNiwtMTExODQ2NTgzMywtMTc2MzMwNjI1MC
-wtMjE0NDQ5NjI0LDE4ODUyMjczMTcsMTg4NDUyOTMxLC04NTE3
-MjExNTUsLTE5MTcwMjg3MDksMTk1NzkyMDA1MCw0OTIwODQwMD
-IsMTc4NTAwNjg1NiwtMTIyNTUzODY4MywzNTEzODkxNjMsLTEy
-MTA0NjE2MjRdfQ==
+eyJoaXN0b3J5IjpbLTcwMDYxMzI0NCwtMTExMDM0MDQ5MywtOT
+I4ODg2NTAyLC00NjM3NjEzMyw4ODM4NDY5MzQsLTM2Mjc3ODQ5
+NCwtMTMxNTAxMDE1OSwtNTMxOTk3NzI2LC0xMTE4NDY1ODMzLC
+0xNzYzMzA2MjUwLC0yMTQ0NDk2MjQsMTg4NTIyNzMxNywxODg0
+NTI5MzEsLTg1MTcyMTE1NSwtMTkxNzAyODcwOSwxOTU3OTIwMD
+UwLDQ5MjA4NDAwMiwxNzg1MDA2ODU2LC0xMjI1NTM4NjgzLDM1
+MTM4OTE2M119
 -->
