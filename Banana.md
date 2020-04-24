@@ -89,7 +89,7 @@ Thanks to domesticated bananas’ long history of human intervention and migrati
 <var data-image id="Banana Genome Sequencing" title="Whole Genome Sequence of a Wild Banana Relative" data-fit="contain" data-url="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep31586/MediaObjects/41598_2016_Article_BFsrep31586_Fig1_HTML.jpg?as=webp" data-region=""></var>
 
 In 2002, a comprehensive study of relationships among wild and cultivated bananas determined that the parthenocarpic A genomes of almost all the edible banana groups derive from either subspecies _banksii_ (from the Papua New Guinea region) or _errans_ (Philippines) of _Musa acuminata_ (or from both of them).[^ref3] These findings reveal that the origin of banana domestication was in the Philippines and Papua New Guinea regions. Archaeobotanical remains identified as the genus _Musa_ attests that bananas were indeed present in Papua New Guinea at least 10,000 years ago and were being cultivated as early as 7,000 years ago.[^ref4]
-<var data-map title="New World" data-center="2.827324, 134.889630" data-zoom="4.5"></var>
+<var data-map title="Banana Origin" data-center="2.827324, 134.889630" data-zoom="4.5"></var>
 <var data-map-layer
 	title="Banana Origin and Distribution"
 	data-type="geojson"
@@ -221,10 +221,11 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTk5NzcyNiwtMTExODQ2NTgzMywtMT
-c2MzMwNjI1MCwtMjE0NDQ5NjI0LDE4ODUyMjczMTcsMTg4NDUy
-OTMxLC04NTE3MjExNTUsLTE5MTcwMjg3MDksMTk1NzkyMDA1MC
-w0OTIwODQwMDIsMTc4NTAwNjg1NiwtMTIyNTUzODY4MywzNTEz
-ODkxNjMsLTEyMTA0NjE2MjQsMTcwNDk3ODE1NCwtMTM3NjU3OT
-A1MSwtMjExMTc2OTY3MiwxNjQzODkzMzg2XX0=
+eyJoaXN0b3J5IjpbLTEzMTUwMTAxNTksLTUzMTk5NzcyNiwtMT
+ExODQ2NTgzMywtMTc2MzMwNjI1MCwtMjE0NDQ5NjI0LDE4ODUy
+MjczMTcsMTg4NDUyOTMxLC04NTE3MjExNTUsLTE5MTcwMjg3MD
+ksMTk1NzkyMDA1MCw0OTIwODQwMDIsMTc4NTAwNjg1NiwtMTIy
+NTUzODY4MywzNTEzODkxNjMsLTEyMTA0NjE2MjQsMTcwNDk3OD
+E1NCwtMTM3NjU3OTA1MSwtMjExMTc2OTY3MiwxNjQzODkzMzg2
+XX0=
 -->
