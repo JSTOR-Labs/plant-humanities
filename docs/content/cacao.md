@@ -135,7 +135,7 @@ In these Mexica recipes, the association of cacao with curing particular ailment
 	data-active="true"></var>
 <var data-image-viewer></var>  
 <var data-primary="image"></var>
-<var data-image id="The Milpa Cycle" title="The Milpa Cycle" data-url="https://jstor-labs.github.io/plant-humanities/images/MilpaCycle.png" data-fit="contain"></var>
+<var data-image id="The Milpa Cycle" title="" data-url="https://jstor-labs.github.io/plant-humanities/images/MilpaCycle.png" data-fit="fill"></var>
 
 Ancient Maya leaders represented themselves and their gods as or in relation to this cycle and its  associated  plants  of importance, mainly cacao and maize, attempting to embody the power of the natural world. For example, we see the  ancient Maya  depict ancestors of rulers  as cacao trees  growing from the sarcophagi of dead  ‘maize god’  rulers at the site of Palenque  and  cacao trees anthropomorphized  as deities on intricately carved vessels. By invoking this cycle in representing themselves and deities, Maya political leaders were giving precedence to the subsistence practices, ideologies, and plants they incorporated.  Given this ancient association of cacao with the power of the natural world, it is not surprising to see cacao as an ingredient in the Badianus’ recipes for curing fear and malaise, particularly for political leaders.
 <var data-primary="image"></var>
