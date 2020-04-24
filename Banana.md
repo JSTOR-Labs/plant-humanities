@@ -42,11 +42,11 @@ While bananas are more diverse that previously understood, Scientists have ident
 	data-active="true"></var>
 	
 ### What’s in a Name?
-In 1753 Carl Von Linnaean’s formative work, _Systema Naturae,_ formalized a system of nomenclature that standardized plant names and botanical terminology among botanists. This system used Latin binomial names—the first name indicating the genus, and the second the species—to identify and classify all living organism in the natural world. Unlike earlier attempts to group or classify plants, Linnaeus’s system focused solely on the reproductive features of wild plants (not domesticated) to characterize, organize, and group related plants. While Linnaeus’s system was an artificial structure of classification and hierarchical divisions placed on the plant world, it provided order and standardization from the chaos of plant names created by centuries of disparate European collecting and cataloguing of the plant world. While the Linnaean system has been revised, modified, and added to over the centuries, it has remained largely unchallenged for nearly 250 years.
+In 1753 Carl Von Linnaean’s formative work, _[Systema Naturae](https://www.biodiversitylibrary.org/page/728487),_ formalized a system of nomenclature that standardized plant names and botanical terminology among botanists. This system used Latin binomial names—the first name indicating the genus, and the second the species—to identify and classify all living organism in the natural world. Unlike earlier attempts to group or classify plants, Linnaeus’s system focused solely on the reproductive features of wild plants (not domesticated) to characterize, organize, and group related plants. While Linnaeus’s system was an artificial structure of classification and hierarchical divisions placed on the plant world, it provided order and standardization from the chaos of plant names created by centuries of disparate European collecting and cataloguing of the plant world. While the Linnaean system has been revised, modified, and added to over the centuries, it has remained largely unchallenged for nearly 250 years.
 <var data-primary="image"></var>
 <var data-image id="Linnaen system by Ehret" title="Methodus Plantarum Sexualis, Ehret" data-fit="contain" data-url="https://upload.wikimedia.org/wikipedia/commons/9/99/Ehret-Methodus_Plantarum_Sexualis.jpg" data-region=""></var>
 
-Yet, despite Linnaean taxonomy’s international acceptance and longevity, Linnaeus’s system does have its limitations, which we can see in the case of the banana. This is because editable bananas are the product of a complex history of human dependency and exploitation. Linnaeus did not consider domesticated plants species, since they were the product of human manipulation. The two “wild” species of banana identified by Linnaeus–_Musa paradisiaca_ and _Musa sapientum_—were in fact domesticated editable cultivars. Unfortunately, Linnaeus was unaware of the banana’s long and complex history.
+Yet, despite Linnaean taxonomy’s international acceptance and longevity, Linnaeus’s system does have its limitations, which we can see in the case of the banana. This is because editable bananas are the product of a complex history of human dependency and exploitation. Linnaeus did not consider domesticated plants species, since they were the product of human manipulation. The two “wild” species of banana identified by Linnaeus–_Musa paradisiaca_ and _Musa sapientum_—were in fact domesticated editable cultivars. Linnaeus, however, was unaware of the banana’s long and complex history.
 <var data-primary="image"></var>
 <var data-image id="Musa by Ehret" title="Banana plant (Musa species):flowering and fruiting plant with stolons and separate floral segments and sectioned fruit, also a description of the plant's growth, anatomical labels and a scale bar. Etching by G. D. Ehret, c. 1742" data-url="https://iiif.wellcomecollection.org/image/V0043033.jpg/full/2048%2C/0/default.jpg" data-region=""></var>
 
@@ -176,9 +176,9 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref2]: Jean Kennedy, "Pacific Bananas: Complex Origins, Multiple Dispersals?" Asian Perspectives 47, no. 1 (2008): 75-94. doi:10.1353/asi.2008.0004.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU5NTM4NTksLTE5MTcwMjg3MDksMT
-k1NzkyMDA1MCw0OTIwODQwMDIsMTc4NTAwNjg1NiwtMTIyNTUz
-ODY4MywzNTEzODkxNjMsLTEyMTA0NjE2MjQsMTcwNDk3ODE1NC
-wtMTM3NjU3OTA1MSwtMjExMTc2OTY3MiwxNjQzODkzMzg2XX0=
+eyJoaXN0b3J5IjpbLTg1MTcyMTE1NSwtMTkxNzAyODcwOSwxOT
+U3OTIwMDUwLDQ5MjA4NDAwMiwxNzg1MDA2ODU2LC0xMjI1NTM4
+NjgzLDM1MTM4OTE2MywtMTIxMDQ2MTYyNCwxNzA0OTc4MTU0LC
+0xMzc2NTc5MDUxLC0yMTExNzY5NjcyLDE2NDM4OTMzODZdfQ==
 
 -->
