@@ -137,8 +137,9 @@ In 1516 Friar Tomas de Berlanga, a Catholic missionary, landed on the Island of 
 
 ### Banana, Fig, or the Tree of Life?
 During this early period of renewed European interest in the banana, there was great uncertainty surrounding the identification, depiction, and name of the abundant yellow fruits Europeans encountered throughout Africa, India, Southeast Asia, and, thanks to their own transmission, the New World. While living in Goa, India, a Portuguese physician and naturalist, Garcia de Orta, adopted the name “banana” for the fruit. In 1563, de Orta published an herbal detailing the _materia medica_ of India, in which he wrote of a fruit found in India, Malaysia, and Arab lands as well in “[in Guinea, where they call them bananas](https://bibdigital.rjb.csic.es/viewer/15528/?offset=#page=360&viewer=picture&o=search&n=0&q=banana).” In the early modern period, however, the name banana was far from universal.
-<var data-primary="image"></var>
-<var data-image id="Banana Orta" title="Coloquios dos simples e drogas da India" data-url="https://bibdigital.rjb.csic.es/i/?IIIF=/38/80/3b/be/38803bbe-3f4e-4f89-8df9-ac2ca5166d2e/iiif/ORT_Col_Simpl_Drog_1_000353.tif/183.5728155339806,107.65714285714286,1120.4271844660193,1573.6941176470586/!354,497/0/default.jpg" data-region=""></var>
+<var data-primary="map"></var>
+<var data-map title="Goa" data-center="Q1171" data-zoom="4"></var>
+
 
 The most influential European author of the period, Italian physician Pietro Andrea Mattioli, [referred to the banana plant as “musa” and the individual fruits as “muse”](https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10139456_00182.html) in his important herbal published in 1554. Musa, which was eventually adopted by Linnaeus as the name of the genus, is believed to be an adaptation the Arabic word for banana, “_mauz_” or “_mawzah_.” By the eighth century, Islamic expansion under the Umayyad Caliphate (661–750) had reached the Indian subcontinent, creating a region of trade, exchange, and communication stretching from India to Iberia. Through these vast commercial networks, bananas were traded and became popular throughout the Islamic Empire.
 <var data-map title="New World" data-center="35.114994, 31.944694" data-zoom="3"></var>
@@ -227,10 +228,10 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjMzMDYyNTAsLTIxNDQ0OTYyNCwxOD
-g1MjI3MzE3LDE4ODQ1MjkzMSwtODUxNzIxMTU1LC0xOTE3MDI4
-NzA5LDE5NTc5MjAwNTAsNDkyMDg0MDAyLDE3ODUwMDY4NTYsLT
-EyMjU1Mzg2ODMsMzUxMzg5MTYzLC0xMjEwNDYxNjI0LDE3MDQ5
-NzgxNTQsLTEzNzY1NzkwNTEsLTIxMTE3Njk2NzIsMTY0Mzg5Mz
-M4Nl19
+eyJoaXN0b3J5IjpbLTY0Mjk5NDYwNSwtMTc2MzMwNjI1MCwtMj
+E0NDQ5NjI0LDE4ODUyMjczMTcsMTg4NDUyOTMxLC04NTE3MjEx
+NTUsLTE5MTcwMjg3MDksMTk1NzkyMDA1MCw0OTIwODQwMDIsMT
+c4NTAwNjg1NiwtMTIyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0
+NjE2MjQsMTcwNDk3ODE1NCwtMTM3NjU3OTA1MSwtMjExMTc2OT
+Y3MiwxNjQzODkzMzg2XX0=
 -->
