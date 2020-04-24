@@ -50,7 +50,7 @@ Everybody knows what a banana is. At least we think we do. Today, the banana is 
 <var data-image id="Banana, What's in a Name?" title="Banana Across Modern Languages" data-fit="contain" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_Languages.jpg" data-region=""></var>
 
 ### Bananas, the First GMO?
-Bananas are herbaceous plants, not trees, and while they resemble palms, they are not related. When the plant matures, it begins to form a large inflorescence, which produces both male and female flowers. As the inflorescence grows, a softball-size magenta bud (or _spathe_) forms at the end, weighing down the branched spadix. Petal-like bracts grow between the overlapping scales surrounding the bud. These fall away to reveal clusters of female (_pistillate_) flowers. Oblong fruit emerge from the base of the flowers. While the spadix continues to grow and droops under the weight of the _spathe_ (the male bud), the tips of the fruit grow towards the sun, giving bananas their distinctive curved shape.
+Bananas are herbaceous plants, not trees, and while they resemble palms, they are not related. When the plant matures, it begins to form a large inflorescence, which produces both male and female flowers. As the inflorescence grows, a softball-size magenta bud (or _spathe_) forms at the end, weighing down the branched spadix. Petal-like bracts grow between the overlapping scales surrounding the bud. These fall away to reveal clusters of female (_pistillate_) flowers and oblong fruit emerge from the base of the flowers. While the spadix continues to grow and droops under the weight of the _spathe_ (the male bud), the tips of the fruit grow towards the sun, giving bananas their distinctive curved shape.
 <var data-scope="local" id="Q503"></var>
 <var data-primary="image"></var>
 <var data-image id="Banana Diagram" title="Parts of the Banana Plant" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_Plant_Parts.jpg" data-region=""></var>
@@ -218,11 +218,11 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzODY5NjU3LDE5OTgzOTMyOTAsODY4Mz
-UwMzM0LC0xMjg4MTk1MTI1LC03MDA2MTMyNDQsLTExMTAzNDA0
-OTMsLTkyODg4NjUwMiwtNDYzNzYxMzMsODgzODQ2OTM0LC0zNj
-I3Nzg0OTQsLTEzMTUwMTAxNTksLTUzMTk5NzcyNiwtMTExODQ2
-NTgzMywtMTc2MzMwNjI1MCwtMjE0NDQ5NjI0LDE4ODUyMjczMT
-csMTg4NDUyOTMxLC04NTE3MjExNTUsLTE5MTcwMjg3MDksMTk1
-NzkyMDA1MF19
+eyJoaXN0b3J5IjpbODg0MTA4Mjg0LDcxMzg2OTY1NywxOTk4Mz
+kzMjkwLDg2ODM1MDMzNCwtMTI4ODE5NTEyNSwtNzAwNjEzMjQ0
+LC0xMTEwMzQwNDkzLC05Mjg4ODY1MDIsLTQ2Mzc2MTMzLDg4Mz
+g0NjkzNCwtMzYyNzc4NDk0LC0xMzE1MDEwMTU5LC01MzE5OTc3
+MjYsLTExMTg0NjU4MzMsLTE3NjMzMDYyNTAsLTIxNDQ0OTYyNC
+wxODg1MjI3MzE3LDE4ODQ1MjkzMSwtODUxNzIxMTU1LC0xOTE3
+MDI4NzA5XX0=
 -->
