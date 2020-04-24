@@ -1268,7 +1268,7 @@
         "stroke": "#fb6837",
         "stroke-width": 1,
         "stroke-opacity": 1,
-        "label": "Venitian Trade Network c. 1400"
+        "label": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1302,7 +1302,7 @@
         "stroke": "#fb6837",
         "stroke-width": 1,
         "stroke-opacity": 1,
-        "label": "Venitian Trade Network c. 1400"
+        "label": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1348,7 +1348,7 @@
         "stroke": "#fb6837",
         "stroke-width": 1,
         "stroke-opacity": 1,
-        "label": "Venitian Trade Network c. 1400"
+        "label": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1410,7 +1410,7 @@
         "stroke": "#fb6837",
         "stroke-width": 1,
         "stroke-opacity": 1,
-        "label": "Venitian Trade Network c. 1400",
+        "label": "",
         "marker-color": ""
       },
       "geometry": {
@@ -1449,7 +1449,7 @@
         "stroke": "#fb6837",
         "stroke-width": 1,
         "stroke-opacity": 1,
-        "label": "Venitian Trade Network c. 1400"
+        "label": ""
       },
       "geometry": {
         "type": "LineString",
