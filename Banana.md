@@ -7,6 +7,9 @@
 
 <var title="Hartekamp" id="Q18771183"></var>
 <var title="banana" id="Q503"></var>
+<var title="Parthenocarpy" id="Q1383946"></var>
+<var title="Parthenocarpy" id="Q1383946"></var>
+
 
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
 <var data-map-layer
@@ -188,9 +191,9 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNzAzMTA4LC04NTE3MjExNTUsLTE5MT
-cwMjg3MDksMTk1NzkyMDA1MCw0OTIwODQwMDIsMTc4NTAwNjg1
-NiwtMTIyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0NjE2MjQsMT
-cwNDk3ODE1NCwtMTM3NjU3OTA1MSwtMjExMTc2OTY3MiwxNjQz
-ODkzMzg2XX0=
+eyJoaXN0b3J5IjpbLTgyNjY1MDE1OCwtODUxNzIxMTU1LC0xOT
+E3MDI4NzA5LDE5NTc5MjAwNTAsNDkyMDg0MDAyLDE3ODUwMDY4
+NTYsLTEyMjU1Mzg2ODMsMzUxMzg5MTYzLC0xMjEwNDYxNjI0LD
+E3MDQ5NzgxNTQsLTEzNzY1NzkwNTEsLTIxMTE3Njk2NzIsMTY0
+Mzg5MzM4Nl19
 -->
