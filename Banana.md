@@ -166,13 +166,13 @@ In the end, an intense monoculture focused on the vegetal propagation of one mut
 ### Bananas Today
 Today the Cavendish banana remains the dominant cultivated and exported varietal of bananas. Just as it did in the twentieth century, the current global production of more than one million tons remains based on large-scale vegetative propagation of a small number of genotypes derived from a handful of ancient sexual recombination events. This makes the Cavendish varietal, like the Gros Michel, particularly susceptible to diseases as well as pests and climate change. Recent scientific studies on banana genetics and genomes, however, could hold the key to diversifying and revitalizing banana hybrids. For many scientists, the goal is to figure out banana’s origin story in order to produce new polyploid hybrids through genetic recombinations of fertile diploids, just as societies in Southeast Asia did thousands of years ago.
 <var data-primary="image"></var>
-<var data-image id="Cavendish Banana Network" title="Cavendish Cultivars" data-fit="cover" data-url="http://www.promusa.org/preview3344" data-region=""></var>
+<var data-image id="Cavendish Banana Network" title="Cavendish Cultivars" data-fit="contain" data-url="http://www.promusa.org/preview3344" data-region=""></var>
 
 While we need to rethink how we select, hybridize, and propagate bananas, many scientists also argue it is time to recognize the limits of Linnaean taxonomy and rethink how bananas are classified. In 1955 an informal nomenclature system to classify banana cultivars was developed by Norman Simmonds and Kenneth Shepherd. Instead of assigning binomial names, Simmonds and Shepherd classified editable bananas into genome groups, according to the chromosomal contributions of their ancestral wild species (i.e. AAA, AAB, and ABB) and subgroups for closely related cultivars derived from mutation selection and propagation (i.e. the Gros Michel and Cavendish). While Simmonds and Shepherd had to rely on genome classification based on the visible morphology of banana cultivars, scientists today rely have more reliable genomic techniques, allowing them to analyze and reclassify the genetic make-up of hundreds of banana cultivars. This work has revealed that more than one hundred subspecies of _Musa acuminata_ have been implicated in the domestication of bananas. Despite this work, however, scientists still do not know just how many banana cultivars actually exist and are still working to formalize a genome-based classification system in the hopes of finally creating an internally coherent list of names for banana species, subspecies, and cultivars.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA4NjkyMjQsMTk1NzkyMDA1MCw0OT
+eyJoaXN0b3J5IjpbLTE5MTcwMjg3MDksMTk1NzkyMDA1MCw0OT
 IwODQwMDIsMTc4NTAwNjg1NiwtMTIyNTUzODY4MywzNTEzODkx
 NjMsLTEyMTA0NjE2MjQsMTcwNDk3ODE1NCwtMTM3NjU3OTA1MS
 wtMjExMTc2OTY3MiwxNjQzODkzMzg2XX0=
