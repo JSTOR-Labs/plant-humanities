@@ -155,6 +155,13 @@ In the early 20th century, multinational American corporations, like the UFC, we
 <var data-image id="LOC image 2" title="United Fruit Company banana conveyors, New Orleans, La., Library of Congress Prints and Photographs Division Washington, D.C." data-fit="cover" data-url="https://cdn.loc.gov/service/pnp/det/4a10000/4a19000/4a19800/4a19873v.jpg" data-region=""></var>
 
 In the end, an intense monoculture focused on the vegetal propagation of one mutation of one banana hybrid proved unsustainable. Lacking genetic diversity, Gros Michel banana plantations across the globe fell victim to a pathogen known as _Fusarium oxysporum_, or “Panama Disease.” From 1899 to the 1950s Panama Disease destroyed Gros Michel crops throughout the Americas. Desperate to replace the valuable export, fruit conglomerates abandoned the Gros Michel for a new varietal, the smaller and less flavorful Cavendish banana.
+<var data-primary="map"></var>
+<var data-map title="New World" data-center="36.34,11.19" data-zoom="2"></var>
+<var data-map-layer
+	title="Fusarium wilt"
+	data-type="geojson"
+	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Fusarium_wilt.json"
+	data-active="true"></var>
 
 ### Bananas Today
 Today the Cavendish banana remains the dominant cultivated and exported varietal of bananas. Just as it did in the twentieth century, the current global production of more than one million tons remains based on large-scale vegetative propagation of a small number of genotypes derived from a handful of ancient sexual recombination events. This makes the Cavendish varietal, like the Gros Michel, particularly susceptible to diseases as well as pests and climate change. Recent scientific studies on banana genetics and genomes, however, could hold the key to diversifying and revitalizing banana hybrids. For many scientists, the goal is to figure out banana’s origin story in order to produce new polyploid hybrids through genetic recombinations of fertile diploids, just as societies in Southeast Asia did thousands of years ago.
@@ -163,8 +170,8 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyMDg0MDAyLDE3ODUwMDY4NTYsLTEyMj
-U1Mzg2ODMsMzUxMzg5MTYzLC0xMjEwNDYxNjI0LDE3MDQ5Nzgx
-NTQsLTEzNzY1NzkwNTEsLTIxMTE3Njk2NzIsMTY0Mzg5MzM4Nl
-19
+eyJoaXN0b3J5IjpbMTk1NzkyMDA1MCw0OTIwODQwMDIsMTc4NT
+AwNjg1NiwtMTIyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0NjE2
+MjQsMTcwNDk3ODE1NCwtMTM3NjU3OTA1MSwtMjExMTc2OTY3Mi
+wxNjQzODkzMzg2XX0=
 -->
