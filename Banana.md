@@ -55,7 +55,7 @@ Thanks to domesticated bananas’ long history of human intervention and migrati
 <var data-primary="image"></var>
 <var data-image id="Banana Genome Sequencing" title="Whole Genome Sequence of a Wild Banana Relative" data-fit="contain" data-url="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep31586/MediaObjects/41598_2016_Article_BFsrep31586_Fig1_HTML.jpg?as=webp" data-region=""></var>
 
-In 2002, a comprehensive study of relationships among wild and cultivated bananas determined that the parthenocarpic A genomes of almost all the edible banana groups derive from either subspecies _banksii_ (from the Papua New Guinea region) or _errans_ (Philippines) of _Musa acuminata_ (or from both of them). These findings reveal that the origin of banana domestication was in the Philippines and Papua New Guinea regions. Archaeobotanical remains identified as the genus _Musa_ attests that bananas were indeed present in Papua New Guinea at least 10,000 years ago and were being cultivated as early as 7,000 years ago.
+In 2002, a comprehensive study of relationships among wild and cultivated bananas determined that the parthenocarpic A genomes of almost all the edible banana groups derive from either subspecies _banksii_ (from the Papua New Guinea region) or _errans_ (Philippines) of _Musa acuminata_ (or from both of them).[^ref3] These findings reveal that the origin of banana domestication was in the Philippines and Papua New Guinea regions. Archaeobotanical remains identified as the genus _Musa_ attests that bananas were indeed present in Papua New Guinea at least 10,000 years ago and were being cultivated as early as 7,000 years ago.[^ref4]
 <var data-map title="New World" data-center="2.827324, 134.889630" data-zoom="4.5"></var>
 <var data-map-layer
 	title="Banana Origin and Distribution"
@@ -174,11 +174,12 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 
 [^ref1]: Perrier, X., De Langhe, E.A.L., Donohue, M., Lentfer, C., Vrydaghs, L., Bakry, F., Carreel, F., Hippolyte, I., Horry, J.P., Jenny, C., Lebot, V., Risterucci, A.M., Tomekpe, K., Doutrelepont, H., Ball, T., Manwaring, J., De Maret, P. and Denham, T. 2011. Multidisciplinary perspectives on banana (_Musa_ spp.) domestication. PNAS 108(28):11311-11318. [http://dx.doi.org/10.1073/pnas.1102001108](http://dx.doi.org/10.1073/pnas.1102001108)
 [^ref2]: Jean Kennedy, "Pacific Bananas: Complex Origins, Multiple Dispersals?" Asian Perspectives 47, no. 1 (2008): 75-94. doi:10.1353/asi.2008.0004.
-
+[^ref3]: Jean Kennedy, "Pacific Bananas: Complex Origins, Multiple Dispersals?" Asian Perspectives 47, no. 1 (2008): 75-94. doi:10.1353/asi.2008.0004.
+[^ref4]: T. P. Denham, S. G. Haberle, C. Lentfer, R. Fullagar, J. Field, M. Therin, N. Porch, B. Winsborough, “Origins of Agriculture at Kuk Swamp in the Highlands of New Guinea,” in _Science,_ Vol. 301, Issue 5630, pp. 189-193. DOI: 10.1126/science.1085255
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTcyMTE1NSwtMTkxNzAyODcwOSwxOT
-U3OTIwMDUwLDQ5MjA4NDAwMiwxNzg1MDA2ODU2LC0xMjI1NTM4
-NjgzLDM1MTM4OTE2MywtMTIxMDQ2MTYyNCwxNzA0OTc4MTU0LC
-0xMzc2NTc5MDUxLC0yMTExNzY5NjcyLDE2NDM4OTMzODZdfQ==
-
+eyJoaXN0b3J5IjpbLTE5MTU4MzEzNDgsLTg1MTcyMTE1NSwtMT
+kxNzAyODcwOSwxOTU3OTIwMDUwLDQ5MjA4NDAwMiwxNzg1MDA2
+ODU2LC0xMjI1NTM4NjgzLDM1MTM4OTE2MywtMTIxMDQ2MTYyNC
+wxNzA0OTc4MTU0LC0xMzc2NTc5MDUxLC0yMTExNzY5NjcyLDE2
+NDM4OTMzODZdfQ==
 -->
