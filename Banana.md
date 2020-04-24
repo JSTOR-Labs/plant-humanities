@@ -127,7 +127,7 @@ In 1516 Friar Tomas de Berlanga, a Catholic missionary, landed on the Island of 
 ### Banana, Fig, or the Tree of Life?
 During this early period of renewed European interest in the banana, there was great uncertainty surrounding the identification, depiction, and name of the abundant yellow fruits Europeans encountered throughout Africa, India, Southeast Asia, and, thanks to their own transmission, the New World. While living in Goa, India, a Portuguese physician and naturalist, Garcia de Orta, adopted the name “banana” for the fruit. In 1563, de Orta published an herbal detailing the _materia medica_ of India, in which he wrote of a fruit found in India, Malaysia, and Arab lands as well in “[in Guinea, where they call them bananas](https://bibdigital.rjb.csic.es/viewer/15528/?offset=#page=360&viewer=picture&o=search&n=0&q=banana).” In the early modern period, however, the name banana was far from universal.
 <var data-primary="map"></var>
-<var data-map title="Goa" data-center="Q1171" data-zoom="6"></var>
+<var data-map title="Goa" data-center="Q1171" data-zoom="7"></var>
 
 
 The most influential European author of the period, Italian physician Pietro Andrea Mattioli, [referred to the banana plant as “musa” and the individual fruits as “muse”](https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10139456_00182.html) in his important herbal published in 1554. Musa, which was eventually adopted by Linnaeus as the name of the genus, is believed to be an adaptation the Arabic word for banana, “_mauz_” or “_mawzah_.” By the eighth century, Islamic expansion under the Umayyad Caliphate (661–750) had reached the Indian subcontinent, creating a region of trade, exchange, and communication stretching from India to Iberia. Through these vast commercial networks, bananas were traded and became popular throughout the Islamic Empire.
@@ -217,11 +217,11 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Mzc2MTMzLDg4Mzg0NjkzNCwtMzYyNz
-c4NDk0LC0xMzE1MDEwMTU5LC01MzE5OTc3MjYsLTExMTg0NjU4
-MzMsLTE3NjMzMDYyNTAsLTIxNDQ0OTYyNCwxODg1MjI3MzE3LD
-E4ODQ1MjkzMSwtODUxNzIxMTU1LC0xOTE3MDI4NzA5LDE5NTc5
-MjAwNTAsNDkyMDg0MDAyLDE3ODUwMDY4NTYsLTEyMjU1Mzg2OD
-MsMzUxMzg5MTYzLC0xMjEwNDYxNjI0LDE3MDQ5NzgxNTQsLTEz
-NzY1NzkwNTFdfQ==
+eyJoaXN0b3J5IjpbLTkyODg4NjUwMiwtNDYzNzYxMzMsODgzOD
+Q2OTM0LC0zNjI3Nzg0OTQsLTEzMTUwMTAxNTksLTUzMTk5Nzcy
+NiwtMTExODQ2NTgzMywtMTc2MzMwNjI1MCwtMjE0NDQ5NjI0LD
+E4ODUyMjczMTcsMTg4NDUyOTMxLC04NTE3MjExNTUsLTE5MTcw
+Mjg3MDksMTk1NzkyMDA1MCw0OTIwODQwMDIsMTc4NTAwNjg1Ni
+wtMTIyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0NjE2MjQsMTcw
+NDk3ODE1NF19
 -->
