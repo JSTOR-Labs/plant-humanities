@@ -123,11 +123,9 @@ The term “musa” was also used by the Flemish physician and botanist Rembert 
 <var data-image id="Google Books Thevet" title="Cosmographie de Levant" data-url="https://books.google.com/books/content?id=U91y-xxk0OYC&hl=it&pg=PA185&img=1&zoom=3&sig=ACfU3U19cLgXquFUoGHxxNVvFcJjABaeTA&w=1025" data-region=""></var>
 <var data-image id="bhl-6726349" title="Dodoens Musa" data-url="https://www.biodiversitylibrary.org/pageimage/6726349" data-region=""></var>
 
-While the adoption of the Arabic word for banana provided some standardization of nomenclature, it was far from universally used. In fact, numerous names, sometimes contradictory, were given for banana. Confusing matters further was the enduring description as banana, not the fig or apple, as the forbidden fruit of the garden of Eden. In sixteenth century herbals, almost every author, including Mattioli, Acosta, Dodoens, Clusius, and Cesalpino, described the banana plant as the tree growing in the Garden of Eden. The persistence of this tradition continued well into the eighteenth century. Even Linnaeus, in his treatise on the banana palm, weighed in on the topic, ultimately dismissing the idea as a metaphor in his penultimate chapter. Finally, thanks to their geographic origin and early association with palm trees and dates, and enduring associations with the Garden of Eden, bananas were also often referred to as “Indian figs.”
+While the adoption of the Arabic word for banana provided some standardization of nomenclature, it was far from universally used. In fact, numerous names, sometimes contradictory, were given for banana. Confusing matters further was the enduring description as banana, not the fig or apple, as the forbidden fruit of the garden of Eden. In sixteenth century herbals, many authors, including Mattioli, Dodoens, [Clusius](https://www.biodiversitylibrary.org/page/6781452), and [Cesalpino](bibdigital.rjb.csic.es/idviewer/13478/129), described the banana plant as the tree growing in the Garden of Eden. The persistence of this tradition continued well into the eighteenth century. Even Linnaeus, [in his treatise on the banana palm](http://linnean-online.org/120150/), weighed in on the topic, ultimately dismissing the idea as a metaphor in his penultimate chapter. Finally, thanks to their geographic origin and early association with palm trees and dates, and enduring associations with the Garden of Eden, bananas were also often referred to as “Indian figs.”
 <var data-primary="image"></var>
 <var data-image id="Banana Names" title="Words for banana across cultures" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Names%20for%20Banana.jpg" data-region=""></var>
-
-### Banana Republics
 
 By the seventeenth century, bananas had spread throughout the Caribbean and the tropics of Central and South America, becoming a dietary staple along the way. While bananas were known to Europeans through herbals, natural histories, and travel narratives, they remained a rarity on the continent—a lush, exotic fruit only travelers enjoyed. 
 <var data-primary="map"></var>
@@ -138,7 +136,7 @@ By the seventeenth century, bananas had spread throughout the Caribbean and the 
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/banana_distribution_LA.json"
 	data-active="true"></var>
 
-Even Linnaeus had to rely on the garden and hothouse of the wealthy financier and director of the Dutch East India Company, George Clifford (1685-1760), to see and study a live banana plant. At his estate Hartekamp, in Holland, and with the assistance of Linnaeus, Clifford successfully flowered a hybrid of _Musa acuminate_ and _Musa balbisiana_. The successful flowering and subsequent fruiting of the rare and exotic banana plant was so momentous that Linnaeus wrote a treatise on the plant, _Musa Cliffortiana_, published in 1736. 
+Even Linnaeus had to rely on the garden and hothouse of the wealthy financier and director of the Dutch East India Company, George Clifford (1685-1760), to see and study a live banana plant. At his estate in Hartenkamp, Holland, and with the assistance of Linnaeus, Clifford successfully flowered a hybrid of _Musa acuminate_ and _Musa balbisiana_. The successful flowering and subsequent fruiting of the rare and exotic banana plant was so momentous that Linnaeus wrote a treatise on the plant, _[Musa Cliffortiana](http://linnean-online.org/120150/)_, published in 1736.
 <var data-primary="map"></var>
 <var data-map title="Hartenkamp, Holland" data-center="Q18771183" data-zoom="6.5"></var>
 
@@ -146,6 +144,7 @@ That same year marked the arrival of the German botanical artist Georg Ehret to 
 <var data-primary="image"></var>
 <var data-image id="Banana parts illustration" title="Plantain banana (Musa x paradisiaca L.): nine sections of flower and fruit. Coloured engraving by J.J. or J.E.Haid, c.1750, after G.D.Ehret." data-url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Plantain_banana_%28Musa_x_paradisiaca_L.%29%3B_nine_sections_of_fl_Wellcome_V0042994.jpg" data-region=""></var>
 
+### Banana Republics
 It was not until the nineteenth century with the developments of steamships and refrigeration, however, that the Central and South American banana would become a major global trade commodity. Thanks to these innovations, bananas began pouring into American cities after the Civil War. In Reconstruction America, bananas became increasingly popular as they were seen as a healthy and affordable commodity. Eventually, small-scale, independent cultivation was consolidated and replaced by large-scale production conglomerates, such as the United Fruit Company (UFC). Conglomerates like the UFC focused on cultivation practices and varietals that were easier to ship, more profitable, and desired by consumers. Overtime, one selected mutation of one banana cultivar in particular came to dominate the market, the Gros Michel, thanks to its hardy peel and sweet taste. Monocultures of Gros Michel swiftly supplanted most other banana cultivars in Latin America produced for the American and European markets.
 <var data-primary="image"></var>
 <var data-image id="LOC image" title="Banana Cart in New York City, 1902, courtesy of the Library of Congress" data-fit="cover" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_Cart_NYC_1902_LOC.jpg" data-region=""></var>
@@ -178,9 +177,9 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref4]: T. P. Denham, S. G. Haberle, C. Lentfer, R. Fullagar, J. Field, M. Therin, N. Porch, B. Winsborough, “Origins of Agriculture at Kuk Swamp in the Highlands of New Guinea,” in _Science,_ Vol. 301, Issue 5630, pp. 189-193. DOI: 10.1126/science.1085255
 [^ref5]: Virginia Scott Jenkins, _Bananas: An American History_. Washington, DC: Smithsonian Institution Press, 2000.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDIyMjU4MiwtODUxNzIxMTU1LC0xOT
-E3MDI4NzA5LDE5NTc5MjAwNTAsNDkyMDg0MDAyLDE3ODUwMDY4
-NTYsLTEyMjU1Mzg2ODMsMzUxMzg5MTYzLC0xMjEwNDYxNjI0LD
-E3MDQ5NzgxNTQsLTEzNzY1NzkwNTEsLTIxMTE3Njk2NzIsMTY0
-Mzg5MzM4Nl19
+eyJoaXN0b3J5IjpbMzY4MjYxMDE4LC04NTE3MjExNTUsLTE5MT
+cwMjg3MDksMTk1NzkyMDA1MCw0OTIwODQwMDIsMTc4NTAwNjg1
+NiwtMTIyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0NjE2MjQsMT
+cwNDk3ODE1NCwtMTM3NjU3OTA1MSwtMjExMTc2OTY3MiwxNjQz
+ODkzMzg2XX0=
 -->
