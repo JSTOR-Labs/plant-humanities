@@ -154,7 +154,7 @@ The term “musa” was also used by the Flemish physician and botanist Rembert 
 <var data-image id="Google Books Thevet" title="Cosmographie de Levant" data-url="https://books.google.com/books/content?id=U91y-xxk0OYC&hl=it&pg=PA185&img=1&zoom=3&sig=ACfU3U19cLgXquFUoGHxxNVvFcJjABaeTA&w=1025" data-region=""></var>
 <var data-image id="bhl-6726349" title="Dodoens Musa" data-url="https://www.biodiversitylibrary.org/pageimage/6726349" data-region=""></var>
 
-While the adoption of the Arabic word for banana provided some standardization of nomenclature, it was far from universally used. In fact, numerous names, sometimes contradictory, were given for banana. Confusing matters further was the enduring description as banana, not the fig or apple, as the forbidden fruit of the garden of Eden. In sixteenth and seventeenthcentury  herbals, many authors, including Mattioli, Dodoens, [Clusius](https://www.biodiversitylibrary.org/page/6781452), and [Cesalpino](bibdigital.rjb.csic.es/idviewer/13478/129), described the banana plant as the tree growing in the Garden of Eden. The persistence of this tradition continued well into the eighteenth century. Even Linnaeus, [in his treatise on the banana palm](http://linnean-online.org/120150/), weighed in on the topic, ultimately dismissing the idea as a metaphor in his penultimate chapter. Finally, thanks to their geographic origin and early association with palm trees and dates, and enduring associations with the Garden of Eden, bananas were also often referred to as “Indian figs.”
+While the adoption of the Arabic word for banana provided some standardization of nomenclature, it was far from universally used. In fact, numerous names, sometimes contradictory, were given for banana. Confusing matters further was the enduring description as banana, not the fig or apple, as the forbidden fruit of the garden of Eden. In sixteenth and seventeenth century herbals, many authors, including Mattioli, Dodoens, [Clusius](https://www.biodiversitylibrary.org/page/6781452), and [Cesalpino](bibdigital.rjb.csic.es/idviewer/13478/129), described the banana plant as the tree growing in the Garden of Eden. The persistence of this tradition continued well into the eighteenth century. Even Linnaeus, [in his treatise on the banana palm](http://linnean-online.org/120150/), weighed in on the topic, ultimately dismissing the idea as a metaphor in his penultimate chapter. Finally, thanks to their geographic origin and early association with palm trees and dates, and enduring associations with the Garden of Eden, bananas were also often referred to as “Indian figs.”
 <var data-primary="image"></var>
 <var data-image id="Banana Names" title="Words for banana across cultures" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Names%20for%20Banana.jpg" data-region=""></var>
 
@@ -218,11 +218,11 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg0MzM0MjUsMTM0MjUwOTEwNCw4OD
-QxMDgyODQsNzEzODY5NjU3LDE5OTgzOTMyOTAsODY4MzUwMzM0
-LC0xMjg4MTk1MTI1LC03MDA2MTMyNDQsLTExMTAzNDA0OTMsLT
-kyODg4NjUwMiwtNDYzNzYxMzMsODgzODQ2OTM0LC0zNjI3Nzg0
-OTQsLTEzMTUwMTAxNTksLTUzMTk5NzcyNiwtMTExODQ2NTgzMy
-wtMTc2MzMwNjI1MCwtMjE0NDQ5NjI0LDE4ODUyMjczMTcsMTg4
-NDUyOTMxXX0=
+eyJoaXN0b3J5IjpbNTQ5MjExMjIzLDEzNDI1MDkxMDQsODg0MT
+A4Mjg0LDcxMzg2OTY1NywxOTk4MzkzMjkwLDg2ODM1MDMzNCwt
+MTI4ODE5NTEyNSwtNzAwNjEzMjQ0LC0xMTEwMzQwNDkzLC05Mj
+g4ODY1MDIsLTQ2Mzc2MTMzLDg4Mzg0NjkzNCwtMzYyNzc4NDk0
+LC0xMzE1MDEwMTU5LC01MzE5OTc3MjYsLTExMTg0NjU4MzMsLT
+E3NjMzMDYyNTAsLTIxNDQ0OTYyNCwxODg1MjI3MzE3LDE4ODQ1
+MjkzMV19
 -->
