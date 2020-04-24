@@ -169,7 +169,7 @@ By the seventeenth century, bananas had spread throughout the Caribbean and the 
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/banana_distribution_LA.json"
 	data-active="true"></var>
 
-Even Linnaeus had to rely on the garden and hothouse of the wealthy financier and director of the Dutch East India Company, George Clifford (1685-1760), to see and study a live banana plant. At his estate in Hartenkamp, Holland, and with the assistance of Linnaeus, Clifford successfully flowered a hybrid of _Musa acuminate_ and _Musa balbisiana_. The successful flowering and subsequent fruiting of the rare and exotic banana plant was so momentous that Linnaeus wrote a treatise on the plant, _[Musa Cliffortiana](http://linnean-online.org/120150/)_, published in 1736.
+Even Linnaeus had to rely on the garden and hothouse of the wealthy financier and director of the Dutch East India Company, George Clifford (1685-1760), to see and study a live banana plant. At his estate in Hartekamp, Holland, and with the assistance of Linnaeus, Clifford successfully flowered a hybrid of _Musa acuminate_ and _Musa balbisiana_. The successful flowering and subsequent fruiting of the rare and exotic banana plant was so momentous that Linnaeus wrote a treatise on the plant, _[Musa Cliffortiana](http://linnean-online.org/120150/)_, published in 1736.
 <var data-primary="map"></var>
 <var data-map title="Hartekamp, Holland" data-center="Q18771183" data-zoom="6.5"></var>
 
@@ -220,10 +220,10 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxNzk4MDg2LC0yMTQ0NDk2MjQsMTg4NT
-IyNzMxNywxODg0NTI5MzEsLTg1MTcyMTE1NSwtMTkxNzAyODcw
-OSwxOTU3OTIwMDUwLDQ5MjA4NDAwMiwxNzg1MDA2ODU2LC0xMj
-I1NTM4NjgzLDM1MTM4OTE2MywtMTIxMDQ2MTYyNCwxNzA0OTc4
-MTU0LC0xMzc2NTc5MDUxLC0yMTExNzY5NjcyLDE2NDM4OTMzOD
-ZdfQ==
+eyJoaXN0b3J5IjpbLTIwNjg2OTA3NDAsLTIxNDQ0OTYyNCwxOD
+g1MjI3MzE3LDE4ODQ1MjkzMSwtODUxNzIxMTU1LC0xOTE3MDI4
+NzA5LDE5NTc5MjAwNTAsNDkyMDg0MDAyLDE3ODUwMDY4NTYsLT
+EyMjU1Mzg2ODMsMzUxMzg5MTYzLC0xMjEwNDYxNjI0LDE3MDQ5
+NzgxNTQsLTEzNzY1NzkwNTEsLTIxMTE3Njk2NzIsMTY0Mzg5Mz
+M4Nl19
 -->
