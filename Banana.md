@@ -43,7 +43,7 @@
 <var title="monoculture" id="Q220212" data-aliases="monocultures" ></var>
 <var title="vegetative reproduction" id="Q464666" data-aliases="vegetal propagation" ></var>
 <var title="Panama disease" id="Q3240031" ></var>
-<var title="Goa (Q1171)
+<var title="Goa" id="Q1171" ></var>
 
 
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
@@ -228,10 +228,10 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQ3NTM1ODMsLTE3NjMzMDYyNTAsLT
-IxNDQ0OTYyNCwxODg1MjI3MzE3LDE4ODQ1MjkzMSwtODUxNzIx
-MTU1LC0xOTE3MDI4NzA5LDE5NTc5MjAwNTAsNDkyMDg0MDAyLD
-E3ODUwMDY4NTYsLTEyMjU1Mzg2ODMsMzUxMzg5MTYzLC0xMjEw
-NDYxNjI0LDE3MDQ5NzgxNTQsLTEzNzY1NzkwNTEsLTIxMTE3Nj
-k2NzIsMTY0Mzg5MzM4Nl19
+eyJoaXN0b3J5IjpbLTIzNTk1NTQ2NCwtMTc2MzMwNjI1MCwtMj
+E0NDQ5NjI0LDE4ODUyMjczMTcsMTg4NDUyOTMxLC04NTE3MjEx
+NTUsLTE5MTcwMjg3MDksMTk1NzkyMDA1MCw0OTIwODQwMDIsMT
+c4NTAwNjg1NiwtMTIyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0
+NjE2MjQsMTcwNDk3ODE1NCwtMTM3NjU3OTA1MSwtMjExMTc2OT
+Y3MiwxNjQzODkzMzg2XX0=
 -->
