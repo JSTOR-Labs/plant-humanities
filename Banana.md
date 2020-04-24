@@ -168,7 +168,13 @@ Today the Cavendish banana remains the dominant cultivated and exported varietal
 <var data-image id="Cavendish Banana Network" title="Cavendish Cultivars" data-fit="contain" data-url="http://www.promusa.org/preview3344" data-region=""></var>
 
 While we need to rethink how we select, hybridize, and propagate bananas, many scientists also argue it is time to recognize the limits of Linnaean taxonomy and rethink how bananas are classified. In 1955 an informal nomenclature system to classify banana cultivars was developed by Norman Simmonds and Kenneth Shepherd. Instead of assigning binomial names, Simmonds and Shepherd classified editable bananas into genome groups, according to the chromosomal contributions of their ancestral wild species (i.e. AAA, AAB, and ABB) and subgroups for closely related cultivars derived from mutation selection and propagation (i.e. the Gros Michel and Cavendish).[^ref8] While Simmonds and Shepherd had to rely on genome classification based on the visible morphology of banana cultivars, scientists today rely have more reliable genomic techniques, allowing them to analyze and reclassify the genetic make-up of hundreds of banana cultivars. This work has revealed that more than one hundred subspecies of _Musa acuminata_ have been implicated in the domestication of bananas. Despite this work, however, scientists still do not know just how many banana cultivars actually exist and are still working to formalize a genome-based classification system in the hopes of finally creating an internally coherent list of names for banana species, subspecies, and cultivars.[^ref9]
-
+<var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
+<var data-map-layer
+	title="Banana Origin and Distribution"
+	data-type="geojson"
+	data-url="https://jstor-labs.github.io/plant-humanities/geojson/top_20_banana_countries.json"
+	data-active="true"></var>
+	
 ### References
 
 [^ref1]: Perrier, X., De Langhe, E.A.L., Donohue, M., Lentfer, C., Vrydaghs, L., Bakry, F., Carreel, F., Hippolyte, I., Horry, J.P., Jenny, C., Lebot, V., Risterucci, A.M., Tomekpe, K., Doutrelepont, H., Ball, T., Manwaring, J., De Maret, P. and Denham, T. 2011. Multidisciplinary perspectives on banana (_Musa_ spp.) domestication. PNAS 108(28):11311-11318. [http://dx.doi.org/10.1073/pnas.1102001108](http://dx.doi.org/10.1073/pnas.1102001108)
@@ -181,7 +187,7 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODY5OTk0OSwtODUxNzIxMTU1LC0xOT
+eyJoaXN0b3J5IjpbMTkxODExMTEzNCwtODUxNzIxMTU1LC0xOT
 E3MDI4NzA5LDE5NTc5MjAwNTAsNDkyMDg0MDAyLDE3ODUwMDY4
 NTYsLTEyMjU1Mzg2ODMsMzUxMzg5MTYzLC0xMjEwNDYxNjI0LD
 E3MDQ5NzgxNTQsLTEzNzY1NzkwNTEsLTIxMTE3Njk2NzIsMTY0
