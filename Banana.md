@@ -131,7 +131,7 @@ During this early period of renewed European interest in the banana, there was g
 
 
 The most influential European author of the period, Italian physician Pietro Andrea Mattioli, [referred to the banana plant as “musa” and the individual fruits as “muse”](https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10139456_00182.html) in his important herbal published in 1554. Musa, which was eventually adopted by Linnaeus as the name of the genus, is believed to be an adaptation the Arabic word for banana, “_mauz_” or “_mawzah_.” By the eighth century, Islamic expansion under the Umayyad Caliphate (661–750) had reached the Indian subcontinent, creating a region of trade, exchange, and communication stretching from India to Iberia. Through these vast commercial networks, bananas were traded and became popular throughout the Islamic Empire.
-<var data-map title="New World" data-center="35.114994, 31.944694" data-zoom="3"></var>
+<var data-map title="New World" data-center="35.114994, 31.944694" data-zoom="4"></var>
 <var data-map-layer
 	title="Bananas in Islamic Empire"
 	data-type="geojson"
@@ -217,11 +217,11 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODg4NjUwMiwtNDYzNzYxMzMsODgzOD
-Q2OTM0LC0zNjI3Nzg0OTQsLTEzMTUwMTAxNTksLTUzMTk5Nzcy
-NiwtMTExODQ2NTgzMywtMTc2MzMwNjI1MCwtMjE0NDQ5NjI0LD
-E4ODUyMjczMTcsMTg4NDUyOTMxLC04NTE3MjExNTUsLTE5MTcw
-Mjg3MDksMTk1NzkyMDA1MCw0OTIwODQwMDIsMTc4NTAwNjg1Ni
-wtMTIyNTUzODY4MywzNTEzODkxNjMsLTEyMTA0NjE2MjQsMTcw
-NDk3ODE1NF19
+eyJoaXN0b3J5IjpbLTE3NzM5MTY2MTUsLTkyODg4NjUwMiwtND
+YzNzYxMzMsODgzODQ2OTM0LC0zNjI3Nzg0OTQsLTEzMTUwMTAx
+NTksLTUzMTk5NzcyNiwtMTExODQ2NTgzMywtMTc2MzMwNjI1MC
+wtMjE0NDQ5NjI0LDE4ODUyMjczMTcsMTg4NDUyOTMxLC04NTE3
+MjExNTUsLTE5MTcwMjg3MDksMTk1NzkyMDA1MCw0OTIwODQwMD
+IsMTc4NTAwNjg1NiwtMTIyNTUzODY4MywzNTEzODkxNjMsLTEy
+MTA0NjE2MjRdfQ==
 -->
