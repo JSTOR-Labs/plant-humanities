@@ -41,7 +41,8 @@
 <var title="Cavendish banana" id="Q1051869" ></var>
 <var title="United Fruit Company" id="Q1771942" ></var>
 <var title="monoculture" id="Q220212" data-aliases="monocultures" ></var>
-
+<var title="vegetative reproduction" id="Q464666" data-aliases="vegetal propagation" ></var>
+<var title
 
 
 
@@ -226,7 +227,7 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc0MTgwNDUsLTIxNDQ0OTYyNCwxOD
+eyJoaXN0b3J5IjpbLTE1NTU4ODQ1NjcsLTIxNDQ0OTYyNCwxOD
 g1MjI3MzE3LDE4ODQ1MjkzMSwtODUxNzIxMTU1LC0xOTE3MDI4
 NzA5LDE5NTc5MjAwNTAsNDkyMDg0MDAyLDE3ODUwMDY4NTYsLT
 EyMjU1Mzg2ODMsMzUxMzg5MTYzLC0xMjEwNDYxNjI0LDE3MDQ5
