@@ -139,7 +139,7 @@ The most influential European author of the period, Italian physician Pietro And
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Banana_Islamic_Empire.json"
 	data-active="true"></var>
 
-Italian physicians and naturalists like Mattioli, adopted the Arabic name for banana since it was through contact with the Islamic Empire in the late Middle Ages, as well as the writings of Islamic physicians such as Avicenna, that Italy was first introduced to the plant. Although Mattioli did not mention or describe the “musa tree” in the first edition of his famous herbal, its appearance in a later edition in Latin in 1554 is likely the first printed European herbal entry to describe banana.
+Italian physicians and naturalists like Mattioli adopted the Arabic name for banana since it was through contact with the Islamic Empire in the late Middle Ages, as well as the writings of Islamic physicians such as Avicenna, that Italy was first introduced to the plant. Although Mattioli did not mention or describe the “musa tree” in the first edition of his famous herbal, its appearance in a later edition in Latin in 1554 is likely the first printed European herbal entry to describe banana.
 <var data-primary="map"></var>
 <var data-map title="New World" data-center="39.066017, 15.997291" data-zoom="4"></var>
 <var data-map-layer
@@ -218,11 +218,11 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0MTA4Mjg0LDcxMzg2OTY1NywxOTk4Mz
-kzMjkwLDg2ODM1MDMzNCwtMTI4ODE5NTEyNSwtNzAwNjEzMjQ0
-LC0xMTEwMzQwNDkzLC05Mjg4ODY1MDIsLTQ2Mzc2MTMzLDg4Mz
-g0NjkzNCwtMzYyNzc4NDk0LC0xMzE1MDEwMTU5LC01MzE5OTc3
-MjYsLTExMTg0NjU4MzMsLTE3NjMzMDYyNTAsLTIxNDQ0OTYyNC
-wxODg1MjI3MzE3LDE4ODQ1MjkzMSwtODUxNzIxMTU1LC0xOTE3
-MDI4NzA5XX0=
+eyJoaXN0b3J5IjpbMTM0MjUwOTEwNCw4ODQxMDgyODQsNzEzOD
+Y5NjU3LDE5OTgzOTMyOTAsODY4MzUwMzM0LC0xMjg4MTk1MTI1
+LC03MDA2MTMyNDQsLTExMTAzNDA0OTMsLTkyODg4NjUwMiwtND
+YzNzYxMzMsODgzODQ2OTM0LC0zNjI3Nzg0OTQsLTEzMTUwMTAx
+NTksLTUzMTk5NzcyNiwtMTExODQ2NTgzMywtMTc2MzMwNjI1MC
+wtMjE0NDQ5NjI0LDE4ODUyMjczMTcsMTg4NDUyOTMxLC04NTE3
+MjExNTVdfQ==
 -->
