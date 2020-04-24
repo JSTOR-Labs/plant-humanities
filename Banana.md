@@ -25,6 +25,7 @@
 <var title="Natural History" id="Q442" data-aliases="Pliny" ></var>
 <var title="Age of Discovery" id="Q133641" data-aliases="European Maritime powers" ></var>
 <var title="Fray Tomás de Berlanga" id="Q115599" data-aliases="Friar Tomas de Berlanga" ></var>
+<var title="Hispaniola" id="Q25277" ></var>
 
 
 <var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
@@ -208,7 +209,7 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzOTQxMzYzLC0yMTQ0NDk2MjQsMTg4NT
+eyJoaXN0b3J5IjpbNjkzMDY1Nzk3LC0yMTQ0NDk2MjQsMTg4NT
 IyNzMxNywxODg0NTI5MzEsLTg1MTcyMTE1NSwtMTkxNzAyODcw
 OSwxOTU3OTIwMDUwLDQ5MjA4NDAwMiwxNzg1MDA2ODU2LC0xMj
 I1NTM4NjgzLDM1MTM4OTE2MywtMTIxMDQ2MTYyNCwxNzA0OTc4
