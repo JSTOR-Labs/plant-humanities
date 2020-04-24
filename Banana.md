@@ -149,7 +149,7 @@ Italian physicians and naturalists like Mattioli adopted the Arabic name for ban
 	data-active="true"></var>
 <var data-image id="Mattioli 1554" title="Mattioli, Pietro Andrea: Petri Andreae Matthioli ... Commentarii, in libros sex Pedacii Dioscoridis Anazarbei, de medica materia, adiectis quam plurimis plantarum & animalium imaginibus, eodem authore, Venetijs, 1554" data-url="http://bsb3.bsb.lrz.de/~db/1013/bsb10139456/images/bsb10139456_00182.jpg" data-region=""></var>
 
-The term “musa” was also used by the Flemish physician and botanist Rembert Dodoens in his herbal published in 1563. Unlike Mattioli and de Orta, however, [Dodoens provided an image of the musa or “Mose” tree](https://www.biodiversitylibrary.org/page/6726349) (Mattioli would not add an illustration of banana to his herbal until 1565). Dodoens’s description of the banana tree as well as his image were taken directly from the work of André Thévet, a French Franciscan priest who documented his travels through the Levant in 1549. [Thevet described bananas as resembling cucumbers](https://books.google.com/books?id=U91y-xxk0OYC&pg=PA213&dq=cosmographie+de+levant&hl=it&sa=X&ved=0ahUKEwjog-H5-8roAhVnkHIEHbNGAvIQ6wEISjAD#v=onepage&q&f=false), yet the inaccuracy of his accompanying image casts doubts on if Thevet saw an actual banana plant. It is more likely that European travelers in the Levant came in contact with banana fruits in the markets and not on fruiting “trees.” In his herbal, Dodoens stated that bananas were trafficked through the merchants of India, Persia, and Venice, while Mattioli asserts the plant was already growing in Cyprus, Egypt, and even Sicily. Contact and trade with Islamic territories combined with southern Italy’s warm climate meant that Italy was likely one of the first regions in European to learn about and attempt to cultivate bananas in private as well as botanical gardens.
+The term “musa” was also used by the Flemish physician and botanist Rembert Dodoens in his herbal published in 1563. Unlike Mattioli and de Orta, however, [Dodoens provided an image of the musa or “Mose” tree](https://www.biodiversitylibrary.org/page/6726349) (Mattioli would not add an illustration of banana to his herbal until 1565). Dodoens’s description of the banana tree as well as his image were taken directly from the work of Andrè Thevet, a French Franciscan priest who published a description of his travels through the Levant in 1556. [Thevet described bananas as resembling cucumbers](https://books.google.com/books?id=U91y-xxk0OYC&pg=PA213&dq=cosmographie+de+levant&hl=it&sa=X&ved=0ahUKEwjog-H5-8roAhVnkHIEHbNGAvIQ6wEISjAD#v=onepage&q&f=false), yet the inaccuracy of his accompanying image casts doubts on if Thevet saw an actual banana plant. It is more likely that European travelers in the Levant came in contact with banana fruits in the markets and not on fruiting “trees.” In his herbal, Dodoens stated that bananas were trafficked through the merchants of India, Persia, and Venice, while Mattioli asserts the plant was already growing in Cyprus, Egypt, and even Sicily. Contact and trade with Islamic territories combined with southern Italy’s warm climate meant that Italy was likely one of the first regions in European to learn about and attempt to cultivate bananas in private as well as botanical gardens.
 <var data-primary="image"></var>
 <var data-image id="Google Books Thevet" title="Cosmographie de Levant" data-url="https://books.google.com/books/content?id=U91y-xxk0OYC&hl=it&pg=PA185&img=1&zoom=3&sig=ACfU3U19cLgXquFUoGHxxNVvFcJjABaeTA&w=1025" data-region=""></var>
 <var data-image id="bhl-6726349" title="Dodoens Musa" data-url="https://www.biodiversitylibrary.org/pageimage/6726349" data-region=""></var>
@@ -218,11 +218,11 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjUwOTEwNCw4ODQxMDgyODQsNzEzOD
-Y5NjU3LDE5OTgzOTMyOTAsODY4MzUwMzM0LC0xMjg4MTk1MTI1
-LC03MDA2MTMyNDQsLTExMTAzNDA0OTMsLTkyODg4NjUwMiwtND
-YzNzYxMzMsODgzODQ2OTM0LC0zNjI3Nzg0OTQsLTEzMTUwMTAx
-NTksLTUzMTk5NzcyNiwtMTExODQ2NTgzMywtMTc2MzMwNjI1MC
-wtMjE0NDQ5NjI0LDE4ODUyMjczMTcsMTg4NDUyOTMxLC04NTE3
-MjExNTVdfQ==
+eyJoaXN0b3J5IjpbNDU4NzgyODgxLDEzNDI1MDkxMDQsODg0MT
+A4Mjg0LDcxMzg2OTY1NywxOTk4MzkzMjkwLDg2ODM1MDMzNCwt
+MTI4ODE5NTEyNSwtNzAwNjEzMjQ0LC0xMTEwMzQwNDkzLC05Mj
+g4ODY1MDIsLTQ2Mzc2MTMzLDg4Mzg0NjkzNCwtMzYyNzc4NDk0
+LC0xMzE1MDEwMTU5LC01MzE5OTc3MjYsLTExMTg0NjU4MzMsLT
+E3NjMzMDYyNTAsLTIxNDQ0OTYyNCwxODg1MjI3MzE3LDE4ODQ1
+MjkzMV19
 -->
