@@ -72,7 +72,8 @@
         "abbrev_len": 6,
         "tiny": -99,
         "homepart": 1,
-        "filename": "BRA.geojson"
+        "filename": "BRA.geojson",
+        "label": "Banana distribution in Central and South America"
       },
       "geometry": {
         "type": "Polygon",
