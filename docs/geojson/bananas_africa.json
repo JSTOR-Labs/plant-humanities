@@ -486,7 +486,7 @@
         "fill": "#32c125",
         "stroke-opacity": "",
         "fill-opacity": 0.3,
-        "label": "Diffusion of bananas in Africa before 1500"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -704,7 +704,7 @@
         "stroke": "#fb683f",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "label": "Bartolomeu Dias (1487-88)",
+        "label": "",
         "fill-opacity": ""
       },
       "geometry": {
@@ -927,7 +927,8 @@
       "properties": {
         "stroke": "#fb683f",
         "stroke-width": 3,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "marker-color": ""
       },
       "geometry": {
         "type": "LineString",

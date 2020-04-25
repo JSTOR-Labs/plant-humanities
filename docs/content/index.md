@@ -21,6 +21,3 @@ The first tag causes a map to be generated centered on the location associated w
 
 ## Wikidata
 [Wikidata](https://www.wikidata.org) is a free and open knowledge base that can be read and edited by both humans and machines.  Wikidata acts as central storage for the  **structured data**  of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others.  As of March 2020 Wikidata contained nearly 80 million entities and is growing at the rate of approximately 1 million new entities per month.
-
-
-

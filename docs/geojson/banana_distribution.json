@@ -780,7 +780,7 @@
         "stroke-opacity": 1,
         "fill": "#32C125",
         "fill-opacity": 0.8,
-        "label": "New Guinea"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1038,7 +1038,7 @@
         "stroke-opacity": 1,
         "fill": "#32c125",
         "fill-opacity": 0.8,
-        "label": "Philippines"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1206,7 +1206,8 @@
         "stroke": "null",
         "fill": "#32C125",
         "stroke-width": "",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1626,7 +1627,7 @@
         "stroke-opacity": 1,
         "fill": "#32C125",
         "fill-opacity": 0.5,
-        "label": "Indonesia"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1927,7 +1928,10 @@
         "marker-color": "#5c6609",
         "marker-size": "large",
         "marker-symbol": "garden",
-        "label": "Possible Origin of Banana Domestication"
+        "label": "Possible Origin of Banana Domestication",
+        "stroke": "null ",
+        "stroke-width": "",
+        "fill": ""
       },
       "geometry": {
         "type": "Point",
@@ -1945,7 +1949,7 @@
         "stroke-opacity": 1,
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": "Banana Distribution"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2046,10 +2050,12 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "stroke": "null",
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": "Banana Distribution"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2210,7 +2216,7 @@
         "stroke-width": "",
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": "Banana Distribution"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2296,7 +2302,7 @@
         "stroke-opacity": "",
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": "Banana Distribution"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2392,7 +2398,7 @@
         "stroke": "null",
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": "Banana Distribution"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2502,7 +2508,7 @@
         "stroke-opacity": "",
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": "Banana Distribution"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
