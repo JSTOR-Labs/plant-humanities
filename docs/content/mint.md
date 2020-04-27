@@ -2,6 +2,7 @@
 
 [View](https://plant-humanities.app/essay?gdid=1-q4xsJuLtqYotSbVRPJ2NPZvs_JKiF8x)
 
+
 <var data-essay
      title="The ubiquity of mint: exploring plant mythology, naming and commercial value"
      data-banner="/images/mint.jpg"
