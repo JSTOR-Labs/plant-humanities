@@ -5,5 +5,5 @@ Welcome to the ***Plant Humanities*** visual essays prototype site. This site pr
 
 ## Essays
 
-[Cherry blossoms](/cherries)
+[Cherry blossoms](/cherries)  
 [Arbor vitae](/arbor_vitae)
