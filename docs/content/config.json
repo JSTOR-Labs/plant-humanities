@@ -1,4 +1,6 @@
 {
     "title": "Plant Humanities",
-    "banner": "https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/docs/images/header.jpg"
+    "banner": "https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/docs/images/header.jpg",
+    "showFooter": true,
+    "logo": "https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/docs/images/logo_black.png"
 }
