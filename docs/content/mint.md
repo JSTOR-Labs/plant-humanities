@@ -135,7 +135,6 @@ data-active="true"></var>
 The example of the mint market in British North American colonies and the early United States shows that peppermint has always been an item of commerce, and an inherently commercial crop. While the naming of mint species may have constantly been in flux, American peppermint was cultivated from species that we can trace today. In fact the majority of commercial peppermint (over half of which is used for gum) descends from *Mentha Piperita* named ‘Black Mitcham’ and ‘White Mitcham’ in the nineteenth century; varieties of mint that were introduced into Michigan from Surrey, England by 1883 because of its hardy nature.[^ref15]
 <var data-primary="image"></var>
 <var data-image id="Mint leaves" title="Mint leaves" data-url="https://jstor-labs.github.io/plant-humanities/images/mintsimple.jpg" data-region=""></var>
-<var data-image id="Mint in cup" title="Peppermint leaves" data-url="https://jstor-labs.github.io/plant-humanities/images/mintcup.jpg" data-region=""></var>
 <var data-image id="Mints in Tin" title="" data-url="https://jstor-labs.github.io/plant-humanities/images/mintsintin.jpg" data-region=""></var>
 <var data-image id="french mint candy" title="The bêtise" url="https://upload.wikimedia.org/wikipedia/commons/e/e2/B%C3%AAtises_de_Cambrai.jpg" data-region=""></var>
 <var data-image id="candy cane" title="Candy cane" url="https://jstor-labs.github.io/plant-humanities/images/candycane.jpg" data-region=""></var>
