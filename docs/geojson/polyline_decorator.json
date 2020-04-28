@@ -4,10 +4,16 @@
     {
       "type": "Feature",
       "properties": {
-        "offset": 0,
-        "endOffset": 0,
-        "repeat": 20,
-        "symbol": "arrow"
+        "stroke": "#7b7b7b",
+        "stroke-width": 2,
+        "decorators": [
+          {
+            "offset": 0,
+            "endOffset": 0,
+            "repeat": "33%",
+            "symbol": "arrow"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
