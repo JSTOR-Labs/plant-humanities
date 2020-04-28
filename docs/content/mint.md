@@ -53,7 +53,7 @@ Today, the common scent and flavor we associate with mint is synonymous with cul
 <var data-image id="bhl-51906062" title="Gerard, p.680" data-url="https://biodiversitylibrary.org/pageimage/51906062" data-region="577,328,1375,1559"></var>
 <var data-image id="bhl-56599908" title="Parkinson, p. 32" data-url="https://biodiversitylibrary.org/pageimage/56599908" data-region="516,360,1201,1470"></var>
 
-<var data-map title="World" data-center="51.520201,-0.125315" data-zoom="3"></var>
+<var data-map title="World" data-center="51.520201,-0.125315" data-zoom="4"></var>
 <var data-map-layer
 title="Britain"
 data-type="geojson"
