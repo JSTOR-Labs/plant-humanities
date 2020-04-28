@@ -29,7 +29,6 @@
 ## Cherry Blossom
 <var data-map id="intro-map" data-center="51.4,0.53" data-zoom="2" data-hide-labels="true"></var>
 <var data-map-layer
-     title="Polyline Decorator Test"
      data-type="geojson" 
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/polyline_decorator.json"
      data-active="true"></var>

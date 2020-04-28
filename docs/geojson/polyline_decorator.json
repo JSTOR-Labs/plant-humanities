@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "label": "Polyline with arrows",
-        "stroke": "#7b7b7b",
-        "stroke-width": 2,
+        "stroke": "#FB683F",
+        "stroke-width": 4,
         "decorators": [
           {
             "offset": 0,
