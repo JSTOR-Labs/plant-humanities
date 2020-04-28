@@ -9,4 +9,4 @@ Welcome to the ***Plant Humanities*** visual essays prototype site. This site pr
 [Cacao: An indigenous network and global commodity](/cacao)  
 [Cherry blossoms](/cherries)  
 [The ubiquity of mint: exploring plant mythology, naming and commercial value](/mint)  
-[Curcuma longa: The “Herb of the Sun”](/tumeric)
+[Curcuma longa: The “Herb of the Sun”](/turmeric)
