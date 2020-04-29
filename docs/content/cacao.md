@@ -320,19 +320,8 @@ In his text, Benzoni refers to the use of cacao as money and describes the metho
 
 ### Conclusion
 
-The political and economic powers of Europe took note of these early accounts of cacao as monetarily and ideologically valuable and, by the 17th  century, international markets were emerging, maintained largely through African slave labor.[^ref16][^ref17] The tastes of returning merchants and clergy, as well as cacao's reported medicinal properties, allowed it to take off in Spain by the early 17th century.[^ref18][^ref19] In other parts of Europe, the chocolate beverage and its associated dishware featured prominently in elite networks, invoking ideologies rooted in distant places and eras of Mesoamerica. At a time when curiosities fueled the exploration and description of the natural and cultural world, cacao featured quite prominently as a curio to add to royal cabinets.[^ref20]
-<var data-map title="World" data-center="29.187255, -10.812716" data-zoom="1"></var>
-<var data-map-layer
-     title="Current _Theobroma cacao_ Distribution"
-     data-type="geojson"
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/CacaoDist.geojson"
-     data-active="true"></var>
-<var data-image-viewer></var> 
-<var data-primary="image"></var>
-<var data-image id="English chocolate pot ca. 1697-98" title="English chocolate pot ca. 1697-98" data-url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chocolate_pot_MET_131294.jpg/512px-Chocolate_pot_MET_131294.jpg"></var>
-<var data-image id="German chocolate cup and saucer ca. 1735-45" title="German chocolate cup and saucer ca. 1735-45" data-url="https://upload.wikimedia.org/wikipedia/commons/6/69/Chocolate_Cup_And_Saucer_%28Germany%29%2C_1735–45_%28CH_18349969%29.jpg"></var>
-
-Cacao also found its way into commercial products meant to entice the common palate including the many chocolate bars, desserts, and drinks we know and love today. _Theobroma cacao_ trees continue to be grown in the tropics across the world, both for global and local markets.[^ref21][^ref22] The ideological association of cacao with subsistence, prestige, and trade has continued across millennia and cultures, making the power and appeal of it truly timeless and global.
+The political and economic powers of Europe took note of these early accounts of cacao as monetarily and ideologically valuable and, by the 17th  century, international markets were emerging, maintained largely through African slave labor.[^ref16][^ref17] The tastes of returning merchants and clergy, as well as cacao's reported medicinal properties, allowed it to take off in Spain by the early 17th century.[^ref18][^ref19] In other parts of Europe, the chocolate beverage and its associated dishware featured prominently in elite networks, invoking ideologies rooted in distant places and eras of Mesoamerica. At a time when curiosities fueled the exploration and description of the natural and cultural world, cacao featured quite prominently as a curio to add to royal cabinets.[^ref20] Cacao also found its way into commercial products meant to entice the common palate including the many chocolate bars, desserts, and drinks we know and love today. The ideological association of cacao with subsistence, prestige, and trade has continued across millennia and cultures, making the power and appeal of it truly timeless and global. _Theobroma cacao_ trees continue to be grown in the tropics across the world, both for global and local markets.[^ref21][^ref22] Yet, in spite of cacao's more positive associations, it is important to acknowledge that, with modern global markets, this network has had substantial negative impacts on indigenous and marginalized populations across the world.
+<var data-video id="inlmtkcQhRw" title="Child Labor in Cacao Production"></var>
 <var data-map title="World" data-center="29.187255, -10.812716" data-zoom="1"></var>
 <var data-map-layer
      title="Current _Theobroma cacao_ Distribution"
@@ -340,6 +329,8 @@ Cacao also found its way into commercial products meant to entice the common pal
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/CacaoDist.geojson"
      data-active="true"></var>
 <var data-image-viewer></var>  
+<var data-image id="English chocolate pot ca. 1697-98" title="English chocolate pot ca. 1697-98" data-url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chocolate_pot_MET_131294.jpg/512px-Chocolate_pot_MET_131294.jpg"></var>
+<var data-image id="German chocolate cup and saucer ca. 1735-45" title="German chocolate cup and saucer ca. 1735-45" data-url="https://upload.wikimedia.org/wikipedia/commons/6/69/Chocolate_Cup_And_Saucer_%28Germany%29%2C_1735–45_%28CH_18349969%29.jpg"></var>
 <var data-primary="image"></var>
 <var data-image id="Cadbury cacao advertisement ca. 1885" title="Cadbury cacao advertisement ca. 1885" data-url="https://upload.wikimedia.org/wikipedia/commons/1/17/Cadbury%27s_Cocoa_advert_with_rower_1885.jpg"></var>
 
