@@ -57,7 +57,7 @@ Wherever its exact origin, anthropologists, historians, and botanists have long 
 <var data-map-layer
 	title="Indian Subcontinent"
 	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Indian Subcontinent.json"
+	data-url="https://jstor-labs.github.io/plant-humanities/docs/geojson/Indian Subcontinent.json"
 	data-active="true"></var>
 
 
@@ -66,7 +66,7 @@ The root quickly spread beyond South and Southeast Asia. After turmeric’s dome
 <var data-map-layer
 	title="Southeast Asia and Polynesia"
 	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/spread of turmeric.json"
+	data-url="https://jstor-labs.github.io/plant-humanities/docs/geojson/spread of turmeric.json"
 	data-active="true"></var>
 
 
@@ -146,6 +146,6 @@ As Deborah Lupton writes in her work _Food, the Body, and the Self_, “by takin
 [^ref9]: Marcy Norton, _Sacred Gifts, Profane Pleasures: A History of Tobacco and Chocolate in the Atlantic World_ (Ithaca: Cornell University Press, 2008), p. 9
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjMzOTYyNiw5MzQ4OTQ0NjYsODIwOT
-MzNDgyXX0=
+eyJoaXN0b3J5IjpbLTIwNDA1NTU5MDAsOTM0ODk0NDY2LDgyMD
+kzMzQ4Ml19
 -->
