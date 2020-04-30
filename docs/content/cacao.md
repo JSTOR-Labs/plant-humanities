@@ -155,7 +155,6 @@ We learn from many other early colonial documents that roasted cacao beans were 
 <var data-primary="image"></var>
 <var data-map title="World" data-center="18.272589, -89.635020" data-zoom="6"></var>
  <var data-map-layer
-     title="Mesoamerica"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
 	data-active="true"></var>
@@ -368,6 +367,5 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref24]: Mustapha, Kemi. (2010). Taste of child labor not so sweet: A critique of regulatory approaches to combating child labor abuses by the U.S. chocolate industry. Washington University Law Review, 87(5), 1163.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA1ODM3OTQsLTE5MjQyMzAyNjddfQ
-==
+eyJoaXN0b3J5IjpbLTQ5MDIyNjYwMywtMTkyNDIzMDI2N119
 -->
