@@ -1,4 +1,4 @@
-<var data-essay title="Mint" data-banner="https://upload.wikimedia.org/wikipedia/commons/1/15/L._Fuchs%2C_De_historia_stirpium_commentarii_Wellcome_L0013945.jpg" data-layout="vtl"></var>
+<var data-essay title="Mint" data-banner="https://https://upload.wikimedia.org/wikipedia/commons/b/b4/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814764048982%29.jpg" data-layout="vtl"></var>
 
 [View](https://plant-humanities.app/essay?gdid=1-q4xsJuLtqYotSbVRPJ2NPZvs_JKiF8x)
 
