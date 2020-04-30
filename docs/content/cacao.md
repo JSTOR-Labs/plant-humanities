@@ -6,7 +6,7 @@
      data-layout="vtl"
      data-about="Q42385"
      data-debug="false"></var>
-     
+ 
 <var title="Seville" id="Q8717" data-fill="#92086D" data-marker-symbol="user"></var>
 <var title="Nicaragua" id="Q811" data-fill="#92086D" data-marker-symbol="user"></var>
 <var title="Girolamo Benzoni" id="Q1236037" data-aliases="Benzoni"></var>
@@ -362,5 +362,6 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref24]: Mustapha, Kemi. (2010). Taste of child labor not so sweet: A critique of regulatory approaches to combating child labor abuses by the U.S. chocolate industry. Washington University Law Review, 87(5), 1163.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTE0MzE1NywtMTkyNDIzMDI2N119
+eyJoaXN0b3J5IjpbNzM5ODAwNDU5LC02MzExNDMxNTcsLTE5Mj
+QyMzAyNjddfQ==
 -->
