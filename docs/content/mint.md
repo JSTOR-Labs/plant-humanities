@@ -1,4 +1,4 @@
-<var data-essay title="Mint" data-banner="https://upload.wikimedia.org/wikipedia/commons/6/69/Flowers_of_the_spearmint.JPG" data-layout="vtl"></var>
+<var data-essay title="Mint" data-banner="https://upload.wikimedia.org/wikipedia/commons/1/15/L._Fuchs%2C_De_historia_stirpium_commentarii_Wellcome_L0013945.jpg" data-layout="vtl"></var>
 
 [View](https://plant-humanities.app/essay?gdid=1-q4xsJuLtqYotSbVRPJ2NPZvs_JKiF8x)
 
