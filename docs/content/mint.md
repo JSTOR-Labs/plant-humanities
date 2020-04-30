@@ -23,7 +23,7 @@ Some scents regularly appear in our daily lives and give us a sense of familiari
 <var data-image id="Mentha pulegium" title="Pennyroyal" url="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gardenology.org-IMG_2751_rbgs11jan.jpg"></var>
 
 Mint, known as the genus [*Mentha*](www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30016176-2), is part of the [*Lamiaceae*](www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000097-2) family. It is an aromatic and perennial herb and species include bergamot mint, spearmint, pennyroyal and peppermint. These species can be found distributed across parts of Africa, Asia, Europe, Australia, and North America, happily growing in wet and damp environments. With its ability to naturally hybridize, there are a wide variety of plants within the mint family. To consider how the generic mint plant has become so familiar in our everyday lives, we begin here with an account of ancient Greek mythology and then a look at the history of naming and identification of mint. The example of peppermint is then used to consider a plant’s ability to succeed as a commercial crop in America.
-<var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
+<var data-map title="World" data-basemap="Esri_WorldPhysical" data-center="36.34,11.19" data-zoom="2"></var>
 <var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/globalmintdis.geojson data-active="true"></var>
 
 
