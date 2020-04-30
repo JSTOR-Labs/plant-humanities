@@ -27,7 +27,7 @@ data-about="Q42562"></var>
 
 ## Curcuma longa: The “Herb of the Sun” 
 
-### Merit of the Earth? 
+### Merit of the Earth??
 Turmeric’s status as a valuable medicinal plant has long been mythologized. Indeed, many juggernauts, including the _Oxford English Dictionary_, suggest that its etymology stems from an adulteration of the French trade-name “terre mérite.” Dr. William Guthrie, in a 2008 article, all but proved this etymology to be spurious, but it nonetheless illustrates how the root has been seen across the centuries: it is a plant of extreme value (mérite) from the earth (la terre).[^ref1]    
 <var data-primary="image"></var>
 <var data-image id="bhl-48537187" title="Turmeric as Represented in William Woodville's Herbal" data-url="https://www.biodiversitylibrary.org/pageimage/48537187" data-region=""></var>
