@@ -49,7 +49,7 @@ Turmeric’s roots are deeply embedded in the cultural landscape of South and So
 <var data-map-layer
 title="Potential Origins of Turmeric"
 	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Origins of Turmeric 2.json"
+	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Origins_Turmeric_2.json"
 	data-active="true"></var>
 
 Wherever its exact origin, anthropologists, historians, and botanists have long noted the cultural importance of turmeric. The spice has been in documented use for at least 6000 years, and in India, Vedic societies thought of it as “the herb of the sun” due to its yellow-orange color.[^ref3]  Many have identified turmeric as featuring in the [_Atharva Veda_](https://books.google.com/books?id=jz9OOpqHxiAC&newbks=1&newbks_redir=0&dq=O%20colorer%2C%20do%20thou%20color%20this%20leprous%20spot%20and%20what%20is%20pale.%20The%20leprous%20spot%2C%20what%20is%20pale%2C%20do%20thou%20cause%20to%20diasappear.&pg=PA24#v=onepage&q&f=false), the Vedic hymn book providing recipes for healing medicines and spells. There, the hymn reads, “O colorer, do thou color this leprous spot and what is pale. The leprous spot, what is pale, do thou cause to diasappear.” The colorer, according to lexicographers, is commonly thought to be a reference to curcuma longa. Similarly, in [_Sushruta Samhita_](https://books.google.com/books?id=ixUpAAAAYAAJ&newbks=1&newbks_redir=0&dq=sushruta%20samhita%20leeches%20turmeric&pg=PA103#v=onepage&q&f=false), an Ayurvedic compendium, the author suggests treating leeches with a turmeric paste.  In addition to being medicinal, the root was also seen as regal. It featured as decoration in kingly feasts; there is documented evidence that King Kanthirava Narasaraja Rajendra was entertained by women whose faces were caked with turmeric.[^ref4] 
@@ -74,7 +74,7 @@ title="The Spread of Turmeric"
 
 The exact date of turmeric's arrival in the West is unclear. Some scholars claim that turmeric was mentioned by Dioscorides, demonstrating its presence in European empires during the Classical period. Nevertheless, before the Medieval period, turmeric was not imported en masse to Europe. The spice was first definitively mentioned outside of Southern Asia by early Arabic sources. For instance, explorer Ibn Battuta noted that on his travels to Delhi he had seen people take a snake, “slit open its stomach, and stuff it with curcuma (turmeric). This...takes the place of saffron with them. When I saw this small animal and them eating it, I took a loathing at it and would not eat it.” 
 
-<var data-map title="delhi" data-basemap="Esri_WorldPhysical" data-center="28.634609, 77.204167" data-zoom="5.5"></var>
+<var data-map title="delhi" data-center="28.634609, 77.204167" data-zoom="5.5"></var>
 <var data-map-layer
 	title="Delhi"
 	data-type="geojson"
@@ -82,7 +82,7 @@ The exact date of turmeric's arrival in the West is unclear. Some scholars claim
 	data-active="true"></var>
 
 By the late medieval period, the spice was definitely imported to Europe in large quantities; Joan Thirsk describes how by 1428, turmeric was a “now familiar” spice imported to Italy.[^ref6]  The importance of turmeric in 15th and 16th century Europe becomes clear in Siena-born doctor and naturalist Pietro Andrea Mattioli’s 1558 Latin commentary on Dioscorides’ _Materia Medica_, There, he writes, “Experienced physicians identify the other genus of cypress, which resembles ginger and comes from India.” He writes that this type of cypress “work[s] wonders on ulcers,…posses a certain constrictive power which suits them for treating canker sores” and helps to induce “urination or menstruation.” Mattioli further refers to the fact that the root has a “slightly bitter taste, and is yellow like saffron when chewed,” suggesting its use medicinally and gastronomically. 
-<var data-map title="Mattioli's Birthplace" data-center="43.320749, 11.330224" data-basemap="OpenStreetMap" data-zoom="5.5"></var>
+<var data-map title="Mattioli's Birthplace" data-center="43.320749, 11.330224" data-zoom="5.5"></var>
 <var data-map-layer
 	title="Mattioli's Birthplace"
 	data-type="geojson"
@@ -90,7 +90,7 @@ By the late medieval period, the spice was definitely imported to Europe in larg
 	data-active="true"></var>
 
  Even as the spice became somewhat common within Europe, in the early modern period  many European sources continued to view some uses of the spice with both curiosity and disgust. For instance, John Pechey, in a 1694 herbal of plants used in “physics and surgery,” wrote from London that turmeric’s color (in spite of its perceived similarity to the Mediterranean plant saffron) emphasizes its strangeness to a European audience, writing “People of China...make an Ointment with this root,” which men and women rubbed on their bodies. Pechey continues, “this may seem very odd [to] those that are unaccustomed to it, by reason of the yellow color.” 
-<var data-map title="London" data-center="51.513184, -0.082066" data-basemap="Esri_WorldPhysical" data-zoom="5.5"></var>
+<var data-map title="London" data-center="51.513184, -0.082066" data-zoom="5.5"></var>
 <var data-map-layer
 	title="Pechey's Birthplace"
 	data-type="geojson"
