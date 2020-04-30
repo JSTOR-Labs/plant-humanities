@@ -39,7 +39,7 @@ While the “mérite” of terre mérite, as Dr. Guthrie noted, most likely refe
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/british_empire_2.geojson"
 	data-active="true"></var>
-
+<var data-scope="British Empire" id="Q8680" data-aliases="empire"></var>
 
 ### Turmeric’s Origin Story
 
@@ -123,12 +123,14 @@ This use of turmeric within the broader pantheon of curry powder spices did more
 
 ### Conclusion
 
-As Deborah Lupton writes in her work _Food, the Body, and the Self_, “by taking food into the body, we take in the world.”[^ref8]  The ingestion of turmeric provided one means through which British consumers could take in the larger empire, both exoticizing it for the own benefit while naturalizing it as a British property. This is not to argue that turmeric was solely imported or popularized for ideological reasons— as Marcy Norton has shown, “new tastes emerged out of the social matrix” created by imperialism writ large.[^ref9]  Turmeric, as an important product in South Asian cuisine, was one such foodstuff whose popularity, at least in Europe, most likely increased due to contact with South Asian foodways. And yet, the cultural significance of turmeric, as an exoticized yet domesticated good, demonstrates the ways plants functioned not only as catalysts for imperial expansion, but also as a means through which ideas about empire were diffused. 
+As Deborah Lupton writes in her work _Food, the Body, and the Self_, “by taking food into the body, we take in the world.”[^ref8]  The ingestion of turmeric provided one means through which British consumers could take in the larger empire, both exoticizing it for the own benefit while naturalizing it as a British property. This is not to argue that turmeric was solely imported or popularized for ideological reasons— as Marcy Norton has shown, “new tastes emerged out of the social matrix” created by imperialism writ large.[^ref9]  Turmeric, as an important product in South Asian cuisine, was one such foodstuff whose popularity, at least in Europe, most likely increased due to contact with South Asian foodways. And yet, the cultural significance of turmeric, as an exoticized yet domesticated good, demonstrates the ways plants functioned not only as catalysts for imperial expansion, but also as a means through which ideas about the British Empire were diffused. 
 <var data-map title="The Countries of the British Empire" data-center="46.041429, 14.519366" data-basemap="Esri_WorldPhysical" data-zoom="2"></var>
 <var data-map-layer
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/british_empire_2.geojson"
 	data-active="true"></var>
+	<var data-scope="British Empire" id="Q8680"></var>
+
 
 [^ref1]: William Bruce Guthrie. “The Trade-Language Origin of ‘Turmeric.” _Word_ 60.1 (2009) p. 79-90
 [^ref2]: Susan Zlotnick. “Domesticating Imperialism: Curry and Cookbooks in Victorian England.” _Frontier_ 16 (1996) p. 53
