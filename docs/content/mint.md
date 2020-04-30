@@ -73,6 +73,7 @@ The taxonomy of the genus *Mentha* has, in the words of Lawrence, 'been in a sta
 <var data-image id="mentha and moth" title="A mint plant  with a moth or butterfly, c. 1830. Wellcome Collection" data-url="https://jstor-labs.github.io/plant-humanities/images/menthaWellcome1.jpg" data-region="" data-fit="contain"></var>
 <var data-image id="Sowerby corn mint" title="Coloured engraving of Corn mint after J. Sowerby, 1810. Wellcome Collection" data-url="https://jstor-labs.github.io/plant-humanities/images/MenthaArvensisSowerby.jpg" data-region="" data-fit="contain"></var> 
 <var data-image id="Wellcome mint and thyme" title="Pennyroyal and creeping thyme: entire flowering plants, coloured etching by C. Pierre, c. 1865, after P. Naudin. Wellcome Collection" data-url="https://jstor-labs.github.io/plant-humanities/images/pennyroyal&thymeWellcome.jpg" data-region="" data-fit="contain"></var> 
+<var data-image id="Sowerby blunt spiked mint" title="" data-url="https://upload.wikimedia.org/wikipedia/commons/0/0f/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814784245103%29.jpg" data-fit=""></var>
 
 ### Peppermint: a commercial crop
 
