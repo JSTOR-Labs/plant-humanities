@@ -1,10 +1,11 @@
 [View](https://plant-humanities.app/essay?gdid=1pDD8uNwYVi26T5c3pSq4Y-xNy8BRDios)
 
+
 <var data-essay
 title="Turmeric"
 data-banner="https://images.nypl.org/index.php?id=1126115&t=w"
 data-layout="vtl"
-data-about="Q42562></var>
+data-about="Q42562"></var>
 
 
 <var title="Saffron" id="Q25434"></var>
@@ -28,15 +29,13 @@ data-about="Q42562></var>
 
 ### Merit of the Earth? 
 Turmeric’s status as a valuable medicinal plant has long been mythologized. Indeed, many juggernauts, including the _Oxford English Dictionary_, suggest that its etymology stems from an adulteration of the French trade-name “terre mérite.” Dr. William Guthrie, in a 2008 article, all but proved this etymology to be spurious, but it nonetheless illustrates how the root has been seen across the centuries: it is a plant of extreme value (mérite) from the earth (la terre).[^ref1]    
- <var data-primary="image"></var>
-<var data-image id="bhl-48537187" title="Turmeric as Represented in William Woodville's Herbal" data-fit:"contain" data-url="https://www.biodiversitylibrary.org/pageimage/48537187"></var>
-<var data-scope="Turmeric" id="Q42562"></var>
+<var data-primary="image"></var>
+<var data-image id="bhl-48537187" title="Turmeric as Represented in William Woodville's Herbal" data-url="https://www.biodiversitylibrary.org/pageimage/48537187" data-region=""></var>
 
 
 While the “mérite” of terre mérite, as Dr. Guthrie noted, most likely refers to its medicinal value, turmeric has been esteemed for many other reasons. As the long history of turmeric and its consumption reveals, the root’s distinctive color and taste were integral parts of the colonial project as a mechanism through which British men and women could perform the ideological work of empire, or, in the words of historian Susan Zlotnick, “neutralize the threat of the Other by naturalizing the products of foreign lands.” [^ref2]
 <var data-map title="The Countries of the British Empire" data-center="46.041429, 14.519366" data-zoom="2"></var>
 <var data-map-layer
-	title="The Countries of the British Empire"
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/british_empire_2.geojson"
 	data-active="true"></var>
@@ -45,29 +44,27 @@ While the “mérite” of terre mérite, as Dr. Guthrie noted, most likely refe
 ### Turmeric’s Origin Story
 
 Turmeric’s roots are deeply embedded in the cultural landscape of South and Southeast Asia. It is unclear exactly where in South and Southeast Asia the root originated — different naturalists give different places of origin from present-day South India to Malaysia to Indonesia.
-<var data-map title="Possible Origins of Turmeric" data-center="12.153055, 95.470360" data-zoom="4.2"></var>
+<var data-map title="Origins of Turmeric 2" data-center="12.153055, 95.470360" data-zoom="4.2"></var>
 <var data-map-layer
-	title="possible origin of turmeric"
 	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/possible origin of turmeric.json"
+	data-url="https://jstor-labs.github.io/plant-humanities/docs/geojson/Origins of Turmeric 2.json"
 	data-active="true"></var>
 
 Wherever its exact origin, anthropologists, historians, and botanists have long noted the cultural importance of turmeric. The spice has been in documented use for at least 6000 years, and in India, Vedic societies thought of it as “the herb of the sun” due to its yellow-orange color.[^ref3]  Many have identified turmeric as featuring in the [_Atharva Veda_](https://books.google.com/books?id=jz9OOpqHxiAC&newbks=1&newbks_redir=0&dq=O%20colorer%2C%20do%20thou%20color%20this%20leprous%20spot%20and%20what%20is%20pale.%20The%20leprous%20spot%2C%20what%20is%20pale%2C%20do%20thou%20cause%20to%20diasappear.&pg=PA24#v=onepage&q&f=false), the Vedic hymn book providing recipes for healing medicines and spells. There, the hymn reads, “O colorer, do thou color this leprous spot and what is pale. The leprous spot, what is pale, do thou cause to diasappear.” The colorer, according to lexicographers, is commonly thought to be a reference to curcuma longa. Similarly, in [_Sushruta Samhita_](https://books.google.com/books?id=ixUpAAAAYAAJ&newbks=1&newbks_redir=0&dq=sushruta%20samhita%20leeches%20turmeric&pg=PA103#v=onepage&q&f=false), an Ayurvedic compendium, the author suggests treating leeches with a turmeric paste.  In addition to being medicinal, the root was also seen as regal. It featured as decoration in kingly feasts; there is documented evidence that King Kanthirava Narasaraja Rajendra was entertained by women whose faces were caked with turmeric.[^ref4] 
-
-<var data-map title="British India" data-center="23.688939, 78.678650" data-zoom="4.2"></var>
+<var data-map title="Indian Subcontinent" data-center="23.688939, 78.678650" data-zoom="4.2"></var>
 <var data-map-layer
-	title="india"
+	title="Indian Subcontinent"
 	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/british india.json"
+	data-url="https://jstor-labs.github.io/plant-humanities/docs/geojson/Indian Subcontinent.json"
 	data-active="true"></var>
 
 
 The root quickly spread beyond South and Southeast Asia. After turmeric’s domestication in Southern Asia, it was diffused to Tahiti, Hawaii, and the Easter Islands, long before European colonization.[^ref5]  
 <var data-map title="Spread of Turmeric" data-center="-0.091300, 107.056186" data-zoom="2"></var>
 <var data-map-layer
-	title="southeast asian and polynesia"
+	title="Southeast Asia and Polynesia"
 	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/spread of turmeric.json"
+	data-url="https://jstor-labs.github.io/plant-humanities/docs/geojson/spread of turmeric.json"
 	data-active="true"></var>
 
 
@@ -101,9 +98,9 @@ By the late medieval period, the spice was definitely imported to Europe in larg
 By the time Pechey was writing, as Cargo Sheets from the Folger Shakespeare Library demonstrate, turmeric was being imported to Britain in large quantities by the East India Company, and sold at the East India House to grocers and traders. It may be ahistorical to draw a distinction at this time between what was used as cuisine and what was used as medicine. One letter-writer, [in a 1600 epistle to English lawyer and colonizer John Winthrop](https://iiif.lib.harvard.edu/manifests/view/drs:53409412$1i), even suggests using the "turmerick", along with barbarie bark boiled in beer with saffron, in order to cure yellow jaundice. Others suggest that turmeric is especially useful in terms of bodily obstructions; a [1792 tract on medical botany by William Woodville](https://www.biodiversitylibrary.org/page/48537187) says that “this root has had the character of being a powerful aperient and resolvent: it has been commonly prescribed in obstruction of the liver, and other chronic visceral affections.” “The disease," Woodville continues, "in which it has been thought most efficacious is the jaundice,” and he notes that the root has been “highly recommended by several practical writers.”
 <var data-map title="East India House in London" data-center="51.513184, -0.082066" data-zoom="12"></var>
 <var data-map-layer
-	title="east india house"
+	title="East India House"
 	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/east india house.json"
+	data-url="https://jstor-labs.github.io/plant-humanities/geojson/East India House.json"
 	data-active="true"></var>
 
 Its popularity as a medicinal agent seems to have decreased by the early 19th century. In [Thornton’s 1810 work _A Family Herbal_](https://www.biodiversitylibrary.org/item/250671#page/7/mode/1up) he notes the fallacious nature of the claim that turmeric could cure jaundice, writing, “from an ignorant suspicion that the jaundice was to be cured by whatever produced a yellow colour, that is, I suspect, seeing the bile diffused into the habit, from obstruction of passage of the gall-duct, these yellow remedies were used to supply its place, just as the yolks of eggs are used in the same complaint.” He continues, writing that, turmeric “posses[es] only slender virtue.” An [1817 medicinal dictionary](https://books.google.com/books?id=uWNZAAAAIAAJ&newbks=1&newbks_redir=0&dq=A%20New%20Medical%20Dictionary%3A%20Containing%20an%20Explanation%20of%20the%20Terms%20in%20Anatomy&pg=PP1#v=onepage&q&f=false) echoes this assessment of turmeric’s change in status, writing that, “it is now very seldom used medicinally” and that the root is mainly used as “an ingredient in the composition of Curry Powder,” as well as a tool for dyeing. From the 1800s on, turmeric was thus chiefly employed in the West as a culinary (as well as a dyeing) agent. What was the significance of this use, and how did it function discursively in the broader age of empire?
@@ -146,12 +143,3 @@ As Deborah Lupton writes in her work _Food, the Body, and the Self_, “by takin
 [^ref8]: Deborah Lupton, _Food, the Body, and the Self_ (London: Sage Publications, 1996), p. 16
 [^ref9]: Marcy Norton, _Sacred Gifts, Profane Pleasures: A History of Tobacco and Chocolate in the Atlantic World_ (Ithaca: Cornell University Press, 2008), p. 9
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzcyNjEwOTAsLTE5Mjk3MTMzNzQsLT
-U4NzEyNDc4LDgyOTE5ODk4NCwtMjAzNTQyODEzNSwyNDk4MjM0
-NzgsMjEwOTQwOTkyOSwtNjMxODc0NTk4LC02MDI0NjQwNDcsLT
-c1MzM3NjY3MCwtMTI4NTgxNzk4MiwyNTI2MDE3MzAsNDU4MTgz
-ODYsLTEyMDQwNDU1MjAsMTYxODUxODY3OCwtOTY0MTkyMDE5LC
-0yMTM0MDMzODA3LC0xMDE0MzIyNzA2LDY1MDI0Njc0LC02Mjgw
-MjI2OTVdfQ==
--->
