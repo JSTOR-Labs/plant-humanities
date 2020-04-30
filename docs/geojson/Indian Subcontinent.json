@@ -1,5 +1,8 @@
 {
   "type": "FeatureCollection",
+  "properties": {
+    "name": "Indian subcontinent"
+  },
   "features": [
     {
       "type": "Feature",
