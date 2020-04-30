@@ -361,6 +361,3 @@ The political and economic powers of Europe took note of these early accounts of
 [^ref23]: Ryan, O. (2011). Chocolate nations : Living and dying for cocoa in West Africa (African arguments). London : New York, NY: Zed ; Distributed in the USA exclusively by Palgrave Macmillan.
 
 [^ref24]: Mustapha, Kemi. (2010). Taste of child labor not so sweet: A critique of regulatory approaches to combating child labor abuses by the U.S. chocolate industry. Washington University Law Review, 87(5), 1163.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5ODAwNDU5XX0=
--->
