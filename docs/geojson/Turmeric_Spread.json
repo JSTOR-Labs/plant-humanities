@@ -1591,7 +1591,8 @@
         "stroke-opacity": 1,
         "fill": "#00a3ff",
         "fill-opacity": 0.5,
-        "name": "Indonesia"
+        "name": "Indonesia",
+        "label": "Spread of Turmeric"
       },
       "geometry": {
         "type": "MultiPolygon",
