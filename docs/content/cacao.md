@@ -59,7 +59,6 @@ One of the most famous indigenous networks that Europeans made efforts to contro
 <var data-scope="local" id="Q828" data-aliases="New World"></var>
 <var data-map title="World" data-center="23.530645, -40.108534" data-zoom="2"></var>
 <var data-map-layer
-     title="Americas and Europe"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Americas and Europe.geojson"
      data-active="true"></var>
@@ -381,5 +380,6 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref24]: Mustapha, Kemi. (2010). Taste of child labor not so sweet: A critique of regulatory approaches to combating child labor abuses by the U.S. chocolate industry. Washington University Law Review, 87(5), 1163.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQyMzAyNjddfQ==
+eyJoaXN0b3J5IjpbLTIxMzM4NjQ1MjYsLTE5MjQyMzAyNjddfQ
+==
 -->
