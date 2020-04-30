@@ -36,7 +36,6 @@ Turmeric’s status as a valuable medicinal plant has long been mythologized. In
 While the “mérite” of terre mérite, as Dr. Guthrie noted, most likely refers to its medicinal value, turmeric has been esteemed for many other reasons. As the long history of turmeric and its consumption reveals, the root’s distinctive color and taste were integral parts of the colonial project as a mechanism through which British men and women could perform the ideological work of empire, or, in the words of historian Susan Zlotnick, “neutralize the threat of the Other by naturalizing the products of foreign lands.” [^ref2]
 <var data-map title="The Countries of the British Empire" data-center="46.041429, 14.519366" data-zoom="2"></var>
 <var data-map-layer
-	title="The Countries of the British Empire"
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/british_empire_2.geojson"
 	data-active="true"></var>
@@ -146,6 +145,6 @@ As Deborah Lupton writes in her work _Food, the Body, and the Self_, “by takin
 [^ref9]: Marcy Norton, _Sacred Gifts, Profane Pleasures: A History of Tobacco and Chocolate in the Atlantic World_ (Ithaca: Cornell University Press, 2008), p. 9
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA1NTU5MDAsOTM0ODk0NDY2LDgyMD
-kzMzQ4Ml19
+eyJoaXN0b3J5IjpbLTE1OTM3Nzk2NzksLTIwNDA1NTU5MDAsOT
+M0ODk0NDY2LDgyMDkzMzQ4Ml19
 -->
