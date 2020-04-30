@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#5c6609",
+        "marker-size": "large",
+        "marker-symbol": "garden",
+        "label": "Plantains, Bananas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.904296875,
+          20.797201434307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Chincapanoes",
+        "marker-size": "large",
+        "marker-color": "#5c6609",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.857421875,
+          -4.390228926463384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Bananas",
+        "marker-size": "large",
+        "marker-color": "#5c6609",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.162109375,
+          11.350796722383672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#5c6609",
+        "marker-size": "large",
+        "marker-symbol": "garden",
+        "label": "Adam's Apple Tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9335937499999998,
+          51.56341232867588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Ficus Indica",
+        "marker-size": "large",
+        "marker-color": "#5c6609",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.513671874999998,
+          45.82879925192134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Musa, Maum",
+        "marker-size": "large",
+        "marker-color": "#5c6609",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.70507812499999,
+          32.54681317351514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Palan",
+        "marker-size": "large",
+        "marker-color": "#5c6609",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.234375,
+          14.349547837185362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Palaon",
+        "marker-size": "large",
+        "marker-color": "#5c6609",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.87890625,
+          23.40276490540795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Pican, Pissaon",
+        "marker-size": "large",
+        "marker-color": "#5c6609",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.216796875,
+          4.653079918274051
+        ]
+      }
+    }
+  ]
+}
