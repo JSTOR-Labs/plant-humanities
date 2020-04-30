@@ -6,7 +6,8 @@
       "properties": {
         "marker-color": "#ff9300",
         "marker-size": "large",
-        "marker-symbol": "books"
+        "marker-symbol": "books",
+        "label": "Bauhin (1598)"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +22,8 @@
       "properties": {
         "marker-color": "#ff9300",
         "marker-size": "large",
-        "marker-symbol": "books"
+        "marker-symbol": "books",
+        "label": "Gerarde (1597) and Parkinson (1640)"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +38,8 @@
       "properties": {
         "marker-color": "#ff9300",
         "marker-size": "large",
-        "marker-symbol": "books"
+        "marker-symbol": "books",
+        "label": "Durante (1598)"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +54,8 @@
       "properties": {
         "marker-color": "#ff9300",
         "marker-size": "large",
-        "marker-symbol": "books"
+        "marker-symbol": "books",
+        "label": "l'Obel 91576) and Clusius (1601)"
       },
       "geometry": {
         "type": "Point",
