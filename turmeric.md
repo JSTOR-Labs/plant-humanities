@@ -46,7 +46,6 @@ While the “mérite” of terre mérite, as Dr. Guthrie noted, most likely refe
 Turmeric’s roots are deeply embedded in the cultural landscape of South and Southeast Asia. It is unclear exactly where in South and Southeast Asia the root originated — different naturalists give different places of origin from present-day South India to Malaysia to Indonesia.
 <var data-map title="Origins of Turmeric 2" data-center="12.153055, 95.470360" data-zoom="4.2"></var>
 <var data-map-layer
-	title="Possible Origins of Turmeric"
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/docs/geojson/Origins of Turmeric 2.json"
 	data-active="true"></var>
@@ -145,6 +144,6 @@ As Deborah Lupton writes in her work _Food, the Body, and the Self_, “by takin
 [^ref9]: Marcy Norton, _Sacred Gifts, Profane Pleasures: A History of Tobacco and Chocolate in the Atlantic World_ (Ithaca: Cornell University Press, 2008), p. 9
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM3Nzk2NzksLTIwNDA1NTU5MDAsOT
-M0ODk0NDY2LDgyMDkzMzQ4Ml19
+eyJoaXN0b3J5IjpbLTUxMjQzMTgzNCwtMTU5Mzc3OTY3OSwtMj
+A0MDU1NTkwMCw5MzQ4OTQ0NjYsODIwOTMzNDgyXX0=
 -->
