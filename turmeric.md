@@ -29,10 +29,8 @@ data-about="Q42562"></var>
 
 ### Merit of the Earth? 
 Turmeric’s status as a valuable medicinal plant has long been mythologized. Indeed, many juggernauts, including the _Oxford English Dictionary_, suggest that its etymology stems from an adulteration of the French trade-name “terre mérite.” Dr. William Guthrie, in a 2008 article, all but proved this etymology to be spurious, but it nonetheless illustrates how the root has been seen across the centuries: it is a plant of extreme value (mérite) from the earth (la terre).[^ref1]    
-
- <var data-primary="image"></var>
-<var data-image id="bhl-48537187" title="Turmeric as Represented in William Woodville's Herbal" data-fit:"contain" data-url="https://www.biodiversitylibrary.org/pageimage/48537187"></var>
-<var data-scope="Turmeric" id="Q1261810"></var>
+<var data-primary="image"></var>
+<var data-image id="bhl-48537187" title="Turmeric as Represented in William Woodville's Herbal" data-url="https://www.biodiversitylibrary.org/pageimage/48537187" data-region=""></var>
 
 
 While the “mérite” of terre mérite, as Dr. Guthrie noted, most likely refers to its medicinal value, turmeric has been esteemed for many other reasons. As the long history of turmeric and its consumption reveals, the root’s distinctive color and taste were integral parts of the colonial project as a mechanism through which British men and women could perform the ideological work of empire, or, in the words of historian Susan Zlotnick, “neutralize the threat of the Other by naturalizing the products of foreign lands.” [^ref2]
@@ -148,5 +146,5 @@ As Deborah Lupton writes in her work _Food, the Body, and the Self_, “by takin
 [^ref9]: Marcy Norton, _Sacred Gifts, Profane Pleasures: A History of Tobacco and Chocolate in the Atlantic World_ (Ithaca: Cornell University Press, 2008), p. 9
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxMzIxMDg0LDgyMDkzMzQ4Ml19
+eyJoaXN0b3J5IjpbOTM0ODk0NDY2LDgyMDkzMzQ4Ml19
 -->
