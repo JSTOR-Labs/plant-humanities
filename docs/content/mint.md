@@ -149,6 +149,9 @@ Today, mint varieties are cultivated in many different parts of the world. Mintâ
 <var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/globalmintdis.geojson data-active="true"></var>
 
 Mint is ubiquitous, and perhaps that is because it has remained relevant across time and space. Here, mint reveals something of the early difficulties of botanical exchange and naming, it speaks to the local and global movement of plants; it exposes changes and developments in medical thought and practices over time (the changing popularity of herbal remedies for example), and it continues to play a role in global consumer markets and advertising. Mint, in other words, will always be relevant for historical, cultural and geographical studies. And as Haides called the plant forth to ensure that Mintha would never be forgotten, we too are constantly reminded of this plant as we go about our daily lives.
+<var data-image id="Fuch's mint" title="" url="https://upload.wikimedia.org/wikipedia/commons/1/15/L._Fuchs%2C_De_historia_stirpium_commentarii_Wellcome_L0013945.jpg" data-fit=""></var>
+
+
 
 
 ### References
