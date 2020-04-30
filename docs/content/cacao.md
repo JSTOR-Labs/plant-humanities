@@ -86,17 +86,6 @@ A fruiting cacao tree, identified as *Tlapalcacautl* in Nahautl, features in a r
 
 It is clear that the watercolors  illustrate  anatomically accurate plant  structures situated within particular stages of the reproductive life cycle of cacao. These details of the herbal indicate  that the Mexica  had an intimate understanding of  the biology of cacao, a  level of knowledge not represented  in contemporaneous European-authored herbals. Consequently, the knowledge of cacao within the Badianus has a broader spatio-temporal history, developing across Mesoamerica well before the arrival of Spaniards and the formation of the school in which de la Cruz and Badiano created the herbal.
 <var data-scope="local" id="Q13703"></var>
-<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
-<var data-map-layer
-     title="Mesoamerica"
-     data-type="geojson"
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
-	data-active="true"></var>
-<var data-map-layer
-     title="Mexica: ~1325 - 1519 CE"
-     data-type="geojson"
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
-     data-active="true"></var>
 <var data-image-viewer></var> 
 <var data-primary="image"></var>
 <var data-image id="Ancient Cacao Beverage Vessel" title="Ancient Maya Cacao Beverage Vessel with Cacao Imagery" data-url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Mayan_-_Lidded_Vessel_-_Walters_20092039_-_Side_B.jpg" data-fit="contain"></var>
@@ -108,7 +97,6 @@ It is clear that the watercolors  illustrate  anatomically accurate plant  struc
 In these Mexica recipes, the association of cacao with curing particular ailments echoes  what is known about the plant for thousands of years from preceding Mesoamerican cultures. In several indigenous cosmologies, the  cacao plant represented  an important stage in the life cycle of  the environment,  emerging after the death of maize. This cycle has  been referred to as a forest garden or milpa, a subsistence strategy that was, and still is, central to providing sustenance to millions of neotropical inhabitants. [^ref6] 
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
 <var data-map-layer
-     title="Mesoamerica"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
 	data-active="true"></var>
@@ -380,6 +368,6 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref24]: Mustapha, Kemi. (2010). Taste of child labor not so sweet: A critique of regulatory approaches to combating child labor abuses by the U.S. chocolate industry. Washington University Law Review, 87(5), 1163.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM4NjQ1MjYsLTE5MjQyMzAyNjddfQ
+eyJoaXN0b3J5IjpbLTE2OTA1ODM3OTQsLTE5MjQyMzAyNjddfQ
 ==
 -->
