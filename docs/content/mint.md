@@ -85,8 +85,6 @@ This problematic nature of identifying and naming mint however does not appear t
 <var data-map title="New England" data-center="42.566426,-71.751354" data-zoom="4"></var>
 <var title="Plymouth" id="Q326295" data-fill="#5C6609" data-marker-symbol="leaf"></var>
 <var title="Plymouth" id="Q326295"></var>
-<var data-image id="Mayflower painting" title="Mayflower in Plymouth Harbor, by William Halsall, 1882 (Pilgrim Hall Museum, Plymouth, Massachusetts, USA)" data-url="https://upload.wikimedia.org/wikipedia/commons/7/7a/Mayflower_in_Plymouth_Harbor%2C_by_William_Halsall.jpg" data-region=""></var>
-<var data-image id="Mayflower" title="United States 1 cent postage stamp issued in 1920 to celebrate the tercentenary of the arrival of the Mayflower in 1620" data-url="https://upload.wikimedia.org/wikipedia/commons/3/3f/1920USstamp1centPilgrimTercentenaryTheMayflower.jpg" data-region=""></var>
 <var data-image id="Brewster Gardens" title="Brewster Gardens in Plymouth, MA. The original garden space granted to William Brewster in 1620"
 data-url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Brewster_Gardens_Along_Town_Brook%3B_Statue_The_Pilglim_Maiden%2C_Plymouth%2C_Mass_%28NYPL_b12647398-79392%29.tiff/lossy-page1-2416px-Brewster_Gardens_Along_Town_Brook%3B_Statue_The_Pilglim_Maiden%2C_Plymouth%2C_Mass_%28NYPL_b12647398-79392%29.tiff.jpg" data-region=""></var>
      
