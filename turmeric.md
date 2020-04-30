@@ -49,7 +49,7 @@ Turmeric’s roots are deeply embedded in the cultural landscape of South and So
 <var data-map-layer
 	title="Possible Origins of Turmeric"
 	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Origins of Turmeric 2.json"
+	data-url="https://jstor-labs.github.io/plant-humanities/docs/geojson/Origins of Turmeric 2.json"
 	data-active="true"></var>
 
 Wherever its exact origin, anthropologists, historians, and botanists have long noted the cultural importance of turmeric. The spice has been in documented use for at least 6000 years, and in India, Vedic societies thought of it as “the herb of the sun” due to its yellow-orange color.[^ref3]  Many have identified turmeric as featuring in the [_Atharva Veda_](https://books.google.com/books?id=jz9OOpqHxiAC&newbks=1&newbks_redir=0&dq=O%20colorer%2C%20do%20thou%20color%20this%20leprous%20spot%20and%20what%20is%20pale.%20The%20leprous%20spot%2C%20what%20is%20pale%2C%20do%20thou%20cause%20to%20diasappear.&pg=PA24#v=onepage&q&f=false), the Vedic hymn book providing recipes for healing medicines and spells. There, the hymn reads, “O colorer, do thou color this leprous spot and what is pale. The leprous spot, what is pale, do thou cause to diasappear.” The colorer, according to lexicographers, is commonly thought to be a reference to curcuma longa. Similarly, in [_Sushruta Samhita_](https://books.google.com/books?id=ixUpAAAAYAAJ&newbks=1&newbks_redir=0&dq=sushruta%20samhita%20leeches%20turmeric&pg=PA103#v=onepage&q&f=false), an Ayurvedic compendium, the author suggests treating leeches with a turmeric paste.  In addition to being medicinal, the root was also seen as regal. It featured as decoration in kingly feasts; there is documented evidence that King Kanthirava Narasaraja Rajendra was entertained by women whose faces were caked with turmeric.[^ref4] 
@@ -146,5 +146,6 @@ As Deborah Lupton writes in her work _Food, the Body, and the Self_, “by takin
 [^ref9]: Marcy Norton, _Sacred Gifts, Profane Pleasures: A History of Tobacco and Chocolate in the Atlantic World_ (Ithaca: Cornell University Press, 2008), p. 9
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0ODk0NDY2LDgyMDkzMzQ4Ml19
+eyJoaXN0b3J5IjpbLTg2MjMzOTYyNiw5MzQ4OTQ0NjYsODIwOT
+MzNDgyXX0=
 -->
