@@ -64,7 +64,7 @@ data-active="true"></var>
 <var title="London" id="Q84" data-fill="#5C6609" data-marker-symbol="book-open"></var>
 
 In the seventeenth and eighteenth centuries, *Mentha* engaged the attention of numerous well-known British botanists including <var data-scope="element" id="Q316949">John Ray (1627-1705)</var>, <var data-scope="element" id="Q3774295">Adam Buddle (1662–1715)</var>, [Samuel Dale (1659-1739)](https://plants.jstor.org/stable/10.5555/al.ap.person.bm000150941) and Jacob Bobart. They could be found collecting a variety of mint species across Britain and exchanged their findings via written correspondence. They were intrigued by the properties and characteristics of the specimens, as well as 'conjectures about the synonyms of authors'.[^ref5] Indeed, in Transactions of the [Linnaean Society](www.linnean.org), the botanist and naturalist <var data-scope="element" id="Q458004">James Edward Smith (1759 – 17 March 1828)</var> stated that '[no British genus of plants](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1096-3642.1800.tb00591.x), except perhaps Conserva, has been hitherto less understood than that of  *Mentha*; either with respect to its species, and the principles upon which their distinctions ought to be founded, or the synonyms of those species in the most recent, as well as the more ancient writers'.[^ref6]
-<var title="" id="Q161885" data-fill="#5C6609" data-marker-symbol="user-friends"></var>
+<!--<var title="" id="Q161885" data-fill="#5C6609" data-marker-symbol="user-friends"></var>-->
 
 <!-- insert images of herbarium specimens from 18th century here-->
 
