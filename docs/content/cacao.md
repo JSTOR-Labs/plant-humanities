@@ -69,7 +69,7 @@ One of the most famous indigenous networks that Europeans made efforts to contro
 After contact, the  earliest  representations of cacao come from  a Mexica (Aztec) herbal known as  the  Badianus  manuscript, a series of elaborately painted plants with their associated  names  in Nahuatl  and  recipes for treating various ailments  written in Latin.  This herbal  was  completed  in the 1550s  by at least two  Nahua men,  Martín  de la Cruz (an indigenous nobleman and physician) and Juan  Badiano  (an instructor of Latin),  at a European-funded and  established  school, Santa Cruz  in Tlatelolco, Mexico. Now held by the National Institute of Anthropology and History in Mexico City, the manuscript has been reproduced in a diversity of ways since its original creation.[^ref1] In these created and recreated pieces, historically deep and broader indigenous ideologies are captured.[^ref2]
 <var data-map title="World" data-center="17.703221, -96.984072" data-zoom="6"></var>
 <var data-map-layer
-     title="Mexica: ~1325 - 1519 CE"
+ - 1519 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
      data-active="true"></var>
@@ -95,18 +95,13 @@ It is clear that the watercolors  illustrate  anatomically accurate plant  struc
 ### Ancient Ideologies
 
 In these Mexica recipes, the association of cacao with curing particular ailments echoes  what is known about the plant for thousands of years from preceding Mesoamerican cultures. In several indigenous cosmologies, the  cacao plant represented  an important stage in the life cycle of  the environment,  emerging after the death of maize. This cycle has  been referred to as a forest garden or milpa, a subsistence strategy that was, and still is, central to providing sustenance to millions of neotropical inhabitants. [^ref6] 
-<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5"></var>
-<var data-map-layer
-     data-type="geojson"
-     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
-	data-active="true"></var>
-<var data-map-layer
-     title="Mexica: ~1325 - 1519 CE"
+ata-map-layer
+: ~1325 - 1519 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
      data-active="true"></var>
      <var data-map-layer
-     title="Maya: 2000 BCE - 1697 CE"
+    title="Maya: 2000 BCE - 1697 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maya.geojson"
      data-active="true"></var>
@@ -367,5 +362,5 @@ The political and economic powers of Europe took note of these early accounts of
 
 [^ref24]: Mustapha, Kemi. (2010). Taste of child labor not so sweet: A critique of regulatory approaches to combating child labor abuses by the U.S. chocolate industry. Washington University Law Review, 87(5), 1163.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDIyNjYwMywtMTkyNDIzMDI2N119
+eyJoaXN0b3J5IjpbLTYzMTE0MzE1NywtMTkyNDIzMDI2N119
 -->
