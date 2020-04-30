@@ -13,7 +13,8 @@
         "stroke-opacity": 1,
         "fill": "#32c125",
         "fill-opacity": 0.5,
-        "name": "India"
+        "name": "India",
+        "label": "Indian Subcontinent"
       },
       "geometry": {
         "type": "Polygon",
