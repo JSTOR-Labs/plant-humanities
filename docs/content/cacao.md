@@ -202,10 +202,7 @@ The political and economic powers of Europe took note of these early accounts of
 
 ### References
 
-[^ref1]: See: Clayton, M., Guerrini, L., Ávila Blomberg, A., Windsor Castle. Royal Library, & Royal Collection. (2009). _Flora: The Aztec herbal_ (Paper museum of Cassiano dal Pozzo. Series B, Natural history; pt. 8). London: Royal Collection, in association with Harvey Mille.
-Cruz, M., Badiano, J., Gates, W., & Julio Mario Santo Domingo Collection. (1939). The de la Cruz-Badiano Aztec herbal of 1552 (Publication (Maya Society); no. 23). Baltimore, Md.: The Maya Society.
-Cruz, M., Badiano, J., Trueblood, E., & Katherine Golden Bitting Collection on Gastronomy. (1940). The Badianus manuscript, Codex Barberini, Latin 241, Vatican Library; an Aztec herbal of 1552. Baltimore: Johns Hopkins Press.
-Vuillemin, T., Gates, W., Cruz, M., & Biblioteca apostolica vaticana. (1931). Water Color Reproductions of the Herbs in the Badianus Manuscript (Codex Barberini, Latin 241) Vatican Library: An Aztec Herbal of 1552.
+[^ref1]: See: Clayton, M., Guerrini, L., Ávila Blomberg, A., Windsor Castle. Royal Library, & Royal Collection. (2009). _Flora: The Aztec herbal_ (Paper museum of Cassiano dal Pozzo. Series B, Natural history; pt. 8). London: Royal Collection, in association with Harvey Mille. ; Cruz, M., Badiano, J., Gates, W., & Julio Mario Santo Domingo Collection. (1939). The de la Cruz-Badiano Aztec herbal of 1552 (Publication (Maya Society); no. 23). Baltimore, Md.: The Maya Society. ; Cruz, M., Badiano, J., Trueblood, E., & Katherine Golden Bitting Collection on Gastronomy. (1940). The Badianus manuscript, Codex Barberini, Latin 241, Vatican Library; an Aztec herbal of 1552. Baltimore: Johns Hopkins Press. ; Vuillemin, T., Gates, W., Cruz, M., & Biblioteca apostolica vaticana. (1931). Water Color Reproductions of the Herbs in the Badianus Manuscript (Codex Barberini, Latin 241) Vatican Library: An Aztec Herbal of 1552.
 
 [^ref2]: De Vos, P. (2017) ‘Methodological challenges involved in compiling the Nahua pharmacopeia’, History of Science, 55(2), pp. 210–233. doi: 10.1177/0073275317712139.
 
@@ -247,5 +244,4 @@ Vuillemin, T., Gates, W., Cruz, M., & Biblioteca apostolica vaticana. (1931). Wa
 
 [^ref22]: McNeil, C. (2009). Traditional Cacao Use in Modern Mesoamerica. In Chocolate in Mesoamerica (p. Chocolate in Mesoamerica, Chapter 17). University Press of Florida.
 
-[^ref23]: see also: Mustapha, Kemi. (2010). Taste of child labor not so sweet: A critique of regulatory approaches to combating child labor abuses by the U.S. chocolate industry. Washington University Law Review, 87(5), 1163.   
-Ryan, O. (2011). Chocolate nations : Living and dying for cocoa in West Africa (African arguments). London : New York, NY: Zed ; Distributed in the USA exclusively by Palgrave Macmillan.
+[^ref23]: see also: Mustapha, Kemi. (2010). Taste of child labor not so sweet: A critique of regulatory approaches to combating child labor abuses by the U.S. chocolate industry. Washington University Law Review, 87(5), 1163. ; Ryan, O. (2011). Chocolate nations : Living and dying for cocoa in West Africa (African arguments). London : New York, NY: Zed ; Distributed in the USA exclusively by Palgrave Macmillan.
