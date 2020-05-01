@@ -1,13 +1,13 @@
 [View](https://plant-humanities.app/essay?gdid=1CUNlxL1pArMUI7W3ozl6YfpOHi04hPqA)
 
-<var data-essay  
-	title="Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy"  
+<var data-essay
+	title="Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy"
 	data-banner="https://upload.wikimedia.org/wikipedia/commons/0/0f/Banana_Maria_Sibylla_Merian_1705_plate_XII.png"  
-	data-layout="vtl"  
-	data-num-locations="14"  
-	data-num-overlays="15"  
-	data-num-images="8"  
-	data-num-primary-sources="7"  
+	data-layout="vtl"
+	data-num-locations="14"
+	data-num-overlays="15"
+	data-num-images="8"
+	data-num-primary-sources="7"
 	data-author="Ashley Buchanan, PhD"></var>
 
 <var title="Hartekamp" id="Q18771183"></var>
