@@ -5,15 +5,15 @@ title="Cacao: An indigenous network and global commodity"
 data-banner="https://upload.wikimedia.org/wikipedia/commons/3/31/Cacao_Nacional_Fino_de_Aroma.jpg"
 data-layout="vtl"
 data-num-plant-specimens="1"
-data-num-maps=""
-data-num-images=""
+data-num-maps="7"
+data-num-images="20"
 data-num-primary-sources="14"
 data-author="Rebecca Friedel"
 data-about="Q42385"
 data-debug="false"></var>
  
 <var title="Nicolás Monardes based in Seville" id="Q8717" data-fill="#92086D" data-marker-symbol="user"></var>
-<var title="Nicaragua" id="Q811" data-fill="#92086D" data-marker-symbol="user"></var>
+<var title="Benzoni's accounts discuss his encounters with cacao in Nicaragua" id="Q811" data-fill="#92086D" data-marker-symbol="user"></var>
 <var title="Girolamo Benzoni" id="Q1236037" data-aliases="Benzoni"></var>
 <var title="John Parkinson" id="Q256288" data-aliases="Parkinson"></var>
 <var title="Carolus Clusius" id="Q333372"></var>
@@ -152,7 +152,7 @@ To fulfill colonial agendas, the Spanish and other Europeans found themselves in
 <var data-image id="Rivera Mural" title="Diego Rivera Mural depicting an Auto de Fe of indigenous literature and idols" data-url="https://upload.wikimedia.org/wikipedia/commons/9/9d/Murales_Rivera_-_Treppenhaus_9_B%C3%BCcherverbrennung.jpg"></var>
 
 At first thought, it is surprising  that cacao does  not  appear  in  any  of  the  [several herbals on New World plants by Nicolás  Monardes](https://bibdigital.rjb.csic.es/idurl/1/13636). However, since  Monardes  was based in Seville and  never left the  hemisphere, he was only aware of  plants  that would have reached  him  from across the ocean via his network of fellow naturalists. He also seems to have only reported the plants he was able to propagate in his garden or use for himself,  as he  repeatedly  claims  his findings are based on real  and personal  observations. Given these facts, it is unlikely that cacao  seeds would have sustained their reproductive capacity after a voyage across the Atlantic, let alone propagation in the drier Mediterranean climate of Seville.
-<var data-map title="World" data-center="25.164766, -76.133328" data-zoom="2" data-hide-labels="true" basemap="Esri_WorldPhysical"></var>
+<var data-map title="World" data-center="## 37.381626, -5.990299" data-zoom="" data-hide-labels="true" basemap="Esri_WorldPhysical"></var>
 <var data-map-layer
      title="Americas and Europe"
      data-type="geojson"
@@ -160,7 +160,7 @@ At first thought, it is surprising  that cacao does  not  appear  in  any  of  t
      data-active="true"></var>
 
 Yet, cacao made it to England by the end of the 16th century, when the well-known herbalist John Gerard features it under the Latin name  [_Beretinus_  _fructus_](https://www.biodiversitylibrary.org/page/57082419) in his 1597 _The Herball_. It is in this herbal that we learn cacao specimens were brought to England by Sir Francis Drake.  Gerard mentions that  Sir Drake observed the native populations using this plant to pay tribute to their  political leaders, again echoing the deep-rooted ideologies associating cacao with  economic and political networks. [John Parkinson’s 1640 _Theatrum Botanicum_](https://biodiversitylibrary.org/page/56601544) adds that these cacao specimens were brought by Sir Francis Drake specifically after his 1580 voyage. Some of them also eventually  found their way to Carolus Clusius in Leiden by means of Master Richard Garth, an officer of the Court of Chancery in London, and Master Hugh Morgan, the apothecary to Queen Elizabeth I. These world-traveling cacao specimens were then used by Clusius to create [at least one of his two mentions of the plant](https://bibdigital.rjb.csic.es/idurl/1/13558) in his 1604 herbal, _Exoticorum libri decem_.[^ref15]
-<var data-map title="World" data-center="25.164766, -76.133328" data-zoom="2" data-hide-labels="true" basemap="Esri_WorldPhysical"></var>
+<var data-map title="World" data-center=".166, -" data-zoom="2" data-hide-labels="true" basemap="Esri_WorldPhysical"></var>
 <var data-map-layer
      title="Americas and Europe"
      data-type="geojson"
@@ -171,9 +171,9 @@ Yet, cacao made it to England by the end of the 16th century, when the well-know
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/SirDrake.geojson"
      data-active="true"></var>
-<var title="London" id="Q84" data-fill="#92086D" data-marker-symbol="users"></var>
-<var title="Leiden" id="Q43631" data-fill="#92086D" data-marker-symbol="user"></var>
-<var data-ma data-image id="bhl-57082420" title="John Gerard's mention of _Beretinus_ _fructus_ with image" data-url="https://www.biodiversitylibrary.org/pageimage/57082420" data-region="0,0,0,0"><o" data-i="bhl-56601545" title="John Parkinson's mention of _Beretinus_ _fructus_ with image" data-url="https://www.biodiversitylibrary.org/pageimage/56601545" data-region=""><="bhl-8066123" title="Carolus Clusius' mentions of _Beretinus_ _fructus_ and _Cacao_ _fructus_" data-url="https://www.biodiversitylibrary.org/pageimage/8066123" data-region="0,0,0,0"></var>
+<var title="Network of naturalists based in London" id="Q84" data-fill="#92086D" data-marker-symbol="users"></var>
+<var title="Clusius based in Leiden" id="Q43631" data-fill="#92086D" data-marker-symbol="user"></var>
+
 
 Interestingly, Parkinson also has a [duplicate entry for cacao](https://biodiversitylibrary.org/page/56601539), but under the name “Cacao sive Cacaute” or “Peare bearing wholesome Almond tree.” It is stated that this plant is made into a beverage called “Chocolate” in an unspecified indigenous language, revealing that our modern name for the creamy, satisfying paste made from cacao has its linguistic origins in the New World.  This second entry references a different source, “Benzo,” likely the 1565 _Historia del Mondo Nuovo_ by Girolamo Benzoni, [where he discusses his encounters with cacao in Nicaragua](https://play.google.com/books/reader?id=Etlmh2F9VucC&hl=en&pg=GBS.PT216).
 <var data-map title="World" data-center="25.164766, -76.133328" data-zoom="2" data-hide-labels="true" basemap="Esri_WorldPhysical"></var>
