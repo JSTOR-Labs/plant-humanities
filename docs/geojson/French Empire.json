@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.7,
         "fill": "#00a3ff",
@@ -73,7 +73,7 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "FRA.geojson",
-        "label": "First French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -456,12 +456,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "SUR.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill": "#00a3ff",
         "fill-opacity": 0.3,
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -644,10 +644,10 @@
         "filename": "LBN.geojson",
         "stroke-opacity": 0.3,
         "stroke-width": 0,
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -768,12 +768,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "SYR.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -958,12 +958,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "MAR.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1253,15 +1253,15 @@
         "name_long": "Algeria",
         "brk_a3": "DZA",
         "brk_name": "Algeria",
-        "brk_group": null,
+        "brk_group": "null",
         "abbrev": "Alg.",
         "postal": "DZ",
         "formal_en": "People's Democratic Republic of Algeria",
-        "formal_fr": null,
-        "note_adm0": null,
-        "note_brk": null,
+        "formal_fr": "null",
+        "note_adm0": "null",
+        "note_brk": "null",
         "name_sort": "Algeria",
-        "name_alt": null,
+        "name_alt": "null",
         "mapcolor7": 5,
         "mapcolor8": 1,
         "mapcolor9": 6,
@@ -1274,7 +1274,7 @@
         "economy": "6. Developing region",
         "income_grp": "3. Upper middle income",
         "wikipedia": -99,
-        "fips_10": null,
+        "fips_10": "null",
         "iso_a2": "DZ",
         "iso_a3": "DZA",
         "iso_n3": "012",
@@ -1296,12 +1296,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "DZA.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "#000000",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1626,12 +1626,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "TUN.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1832,12 +1832,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "MRT.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2070,12 +2070,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "MLI.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2456,12 +2456,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "TCD.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2770,12 +2770,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "NER.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3084,12 +3084,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "BFA.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3322,12 +3322,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "CIV.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3588,12 +3588,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "TGO.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3746,12 +3746,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "BEN.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3928,12 +3928,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "GIN.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -4290,12 +4290,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "SEN.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -4548,12 +4548,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "GMB.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -4694,12 +4694,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "CMR.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -5020,12 +5020,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "CAF.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -5350,12 +5350,12 @@
         "tiny": 3,
         "homepart": 1,
         "filename": "GAB.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -5556,12 +5556,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "COG.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -5834,12 +5834,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "MDG.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -6112,12 +6112,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "KHM.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -6262,7 +6262,7 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "LAO.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
@@ -6492,12 +6492,12 @@
         "tiny": 2,
         "homepart": 1,
         "filename": "VNM.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -6750,12 +6750,12 @@
         "tiny": -99,
         "homepart": -99,
         "filename": "NCL.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -6884,12 +6884,12 @@
         "tiny": 2,
         "homepart": 1,
         "filename": "VUT.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7020,12 +7020,12 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "FJI.geojson",
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
         "fill": "#00a3ff",
-        "label": "Second French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7136,7 +7136,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.7,
         "fill": "#00a3ff",
@@ -7205,7 +7205,7 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "HTI.geojson",
-        "label": "First French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -7302,7 +7302,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.7,
         "fill": "#00a3ff",
@@ -7371,7 +7371,7 @@
         "tiny": -99,
         "homepart": 1,
         "filename": "DOM.geojson",
-        "label": "First French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -7488,7 +7488,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.7,
         "fill": "#00a3ff",
@@ -8434,12 +8434,12 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.7,
         "fill": "#00a3ff",
         "fill-opacity": 0.7,
-        "label": "First French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -8628,7 +8628,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.3,
         "fill-opacity": 0.3,
@@ -8754,12 +8754,12 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#00a3ff",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0.7,
         "fill": "#00a3ff",
         "fill-opacity": 0.7,
-        "label": "First French Empire"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
