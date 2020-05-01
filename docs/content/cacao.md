@@ -12,7 +12,7 @@ data-author="Rebecca Friedel"
 data-about="Q42385"
 data-debug="false"></var>
  
-<var title="Seville" id="Q8717" data-fill="#92086D" data-marker-symbol="user"></var>
+<var title="Nicolás Monardes based in Seville" id="Q8717" data-fill="#92086D" data-marker-symbol="user"></var>
 <var title="Nicaragua" id="Q811" data-fill="#92086D" data-marker-symbol="user"></var>
 <var title="Girolamo Benzoni" id="Q1236037" data-aliases="Benzoni"></var>
 <var title="John Parkinson" id="Q256288" data-aliases="Parkinson"></var>
@@ -35,7 +35,7 @@ data-debug="false"></var>
 <var title="Colegio de Santa Cruz de Tlatelolco" id="Q2477757" data-fill="#5C6609" data-marker-symbol="school" data-aliases="Santa Cruz"></var>
 <var title="Tenochtitlan" id="Q13695" data-fill="#5C6609" data-marker-symbol="gopuram" data-aliases="Mexica capital"></var>
 <var title="early modern period" id="Q5308718"></var>
-<var title="herbals" id="Q6165948" data-aliases="herbal"></var>
+<var title="s" id="Q6165948" data-aliases="herbal"></var>
 <var title="Francisco Hernández de Toledo" id="Q940017"></var>
 <var title="Quararibea funebris" id="Q7269144" data-aliases="_Quararibea funebris_"></var>
 <var title="(INAH)" id="Q901361"></var>
@@ -89,7 +89,7 @@ In these Mexica recipes, the association of cacao with curing particular ailment
 
 Ancient Maya leaders represented themselves and their gods as or in relation to this cycle and its  associated  plants  of importance, mainly cacao and maize, attempting to embody the power of the natural world. For example, we see the  ancient Maya  depict ancestors of rulers  as cacao trees  growing from the sarcophagi of dead  ‘maize god’  rulers at the site of Palenque  and  cacao trees anthropomorphized  as deities on intricately carved vessels. By invoking this cycle in representing themselves and deities, Maya political leaders were giving precedence to the subsistence practices, ideologies, and plants they incorporated.  Given this ancient association of cacao with the power of the natural world, it is not surprising to see cacao as an ingredient in the Badianus’ recipes for curing fear and malaise, particularly for political leaders.
 <var data-image-viewer></var>
-<var data-image id="Early Classic Maya Bowl with Anthropomorphic Cacao Trees, curated by Dumbarton Oaks Museum" title="Early Classic Maya Bowl with Anthropomorphic Cacao Trees" data-url="https://jstor-labs.github.io/plant-humanities/images/CacaoVessel.jpg" data-fit="fill"></var>
+<var data-image id="Early Classic Maya Bowl" title="Early Classic Maya Bowl with Anthropomorphic Cacao Trees, curated by Dumbarton Oaks Museum" data-url="https://jstor-labs.github.io/plant-humanities/images/CacaoVessel.jpg" data-fit="fill"></var>
 <var data-image id="Pakal's sarcophagus detail with ancestors depicted as fruit trees; see Lady Zac-Kuk (Pakal's mother) as a cacao tree" title="Pakal's sarcophagus detail with ancestors depicted as fruit trees" data-url="https://jstor-labs.github.io/plant-humanities/images/PakalSarc.png" data-fit="fill"></var>
 
 The presence of cacao in a remedy for hurt feet within the Badianus also wittily illustrates the realities of  indigenous  Mesoamerican lifeways. Without beasts of burden, the  long-distance transport of cacao from the neotropics to Tenochtitlan, the Mexica capital, would have certainly caused one’s feet to ache.  For example, in [Hernán Cortés’s conquistador accounts](https://iiif.lib.harvard.edu/manifests/view/drs:427885396$229i), several regions are recognized for their tribute of cacao to the Mexica empire including  Huauthla,  Soconusco, and  Cotaxtla, all of which are hundreds of miles from Tenochtitlan.[^ref8]
@@ -107,7 +107,7 @@ The presence of cacao in a remedy for hurt feet within the Badianus also wittily
      
 We learn from many other early colonial documents that roasted cacao beans were used as a currency throughout Mesoamerica, highlighting how  important of an economic good  this plant would have been by the time Europeans arrived. This relationship between long-distance trade and cacao is also reflected in the ancient Maya God L, who is typically depicted in relation to cacao and merchant regalia.[^ref9] Such an ancient  association of  commerce with cacao emphasizes the deep history of long-distan ce of the plant between the many regions of Mesoamerica.
 <var data-image id="Maya God L, K631" title="Maya God L seated in merchant regalia; God K to the right next to a cacao tree" data-url="http://research.mayavase.com/uploads/mayavase/hires/0631.jpg" data-region="424,2,1128,728"></var>
-<var data-image id="Maya God L, K9089" title="Maya God L seated in merchant regalia with cacao symbolism on left; God K on the right" data-url="http://research.mayavase.com/uploads/mayavase/hires/9089.jpg" data-region=""></var>
+<var data-image id="Maya God L, K9089" title="Maya God L seated in merchant regalia with cacao symbolism on left; God K on the right" data-url="http://research.mayavase.com/uploads/mayavase/hires/9089.jpg" data-fit="fill"></var>
 <var data-image id="Maya God L vessel" title="Maya God L with cacao symbolism seated in merchant regalia" data-url="https://jstor-labs.github.io/plant-humanities/images/GodLVessel.jpg" data-fit="fill"></var>
 
 Ultimately, the ideological importance of cacao within political, social, and economic realms of these cultures serves as support for the idea of a ritual economy, where the production and exchange of goods were intimately connected to the  ideological realm.[^ref10] These archaeological data regarding cacao indicate that individuals and polities would have sought control of its associated production and exchange networks to garner power, perpetuating its uses and ideologies farther and farther from their neotropical origins.  It is no wonder that ancient rulers invoked cacao in their ritual and political exchanges and ceremonies, which often included the imbibing of cacao beverages or the  gifting of cacao vessels.[^ref11][^ref12] Eventually, these practices created a taste for cacao across an elaborate network of Mesoamerican polities, maintaining the high status and importance of cacao-producing regions during ancient and historic periods.[^ref13][^ref14] Upon European arrival, these networks of production and trade as well as their associated ideologies and practices were well-established across the Americas.
@@ -152,11 +152,12 @@ To fulfill colonial agendas, the Spanish and other Europeans found themselves in
 <var data-image id="Rivera Mural" title="Diego Rivera Mural depicting an Auto de Fe of indigenous literature and idols" data-url="https://upload.wikimedia.org/wikipedia/commons/9/9d/Murales_Rivera_-_Treppenhaus_9_B%C3%BCcherverbrennung.jpg"></var>
 
 At first thought, it is surprising  that cacao does  not  appear  in  any  of  the  [several herbals on New World plants by Nicolás  Monardes](https://bibdigital.rjb.csic.es/idurl/1/13636). However, since  Monardes  was based in Seville and  never left the  hemisphere, he was only aware of  plants  that would have reached  him  from across the ocean via his network of fellow naturalists. He also seems to have only reported the plants he was able to propagate in his garden or use for himself,  as he  repeatedly  claims  his findings are based on real  and personal  observations. Given these facts, it is unlikely that cacao  seeds would have sustained their reproductive capacity after a voyage across the Atlantic, let alone propagation in the drier Mediterranean climate of Seville.
-<var data-image-viewer></var>
-<var data-image id="Nicolas Monardes (Nicolai Monardis)" title="Nicolas Monardes (Nicolai Monardis)" data-url="https://upload.wikimedia.org/wikipedia/commons/f/ff/Portrait-of-Monardes-1569.png"></var>
-<var data-image id="Monardes' many works" title="Monardes' many works" data-url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Monardes_Historia_medicinal_1580_tp.png"></var>
-<var data-image id="Plaque marking the Seville location of Monardes' gardens and residence" title="Plaque marking the Seville location of Monardes' gardens and residence" data-url="https://notevenpast.org/wp-content/uploads/2015/04/Monardes-plaque-Seville.jpg"></var>
-
+<var data-map title="World" data-center="25.164766, -76.133328" data-zoom="2" data-hide-labels="true" basemap="Esri_WorldPhysical"></var>
+<var data-map-layer
+     title="Americas and Europe"
+     data-type="geojson"
+     data-url="https://jstor-labs.github.io/plant-humanities/geojson/Americas and Europe.geojson"
+     data-active="true"></var>
 
 Yet, cacao made it to England by the end of the 16th century, when the well-known herbalist John Gerard features it under the Latin name  [_Beretinus_  _fructus_](https://www.biodiversitylibrary.org/page/57082419) in his 1597 _The Herball_. It is in this herbal that we learn cacao specimens were brought to England by Sir Francis Drake.  Gerard mentions that  Sir Drake observed the native populations using this plant to pay tribute to their  political leaders, again echoing the deep-rooted ideologies associating cacao with  economic and political networks. [John Parkinson’s 1640 _Theatrum Botanicum_](https://biodiversitylibrary.org/page/56601544) adds that these cacao specimens were brought by Sir Francis Drake specifically after his 1580 voyage. Some of them also eventually  found their way to Carolus Clusius in Leiden by means of Master Richard Garth, an officer of the Court of Chancery in London, and Master Hugh Morgan, the apothecary to Queen Elizabeth I. These world-traveling cacao specimens were then used by Clusius to create [at least one of his two mentions of the plant](https://bibdigital.rjb.csic.es/idurl/1/13558) in his 1604 herbal, _Exoticorum libri decem_.[^ref15]
 <var data-map title="World" data-center="25.164766, -76.133328" data-zoom="2" data-hide-labels="true" basemap="Esri_WorldPhysical"></var>
@@ -172,10 +173,7 @@ Yet, cacao made it to England by the end of the 16th century, when the well-know
      data-active="true"></var>
 <var title="London" id="Q84" data-fill="#92086D" data-marker-symbol="users"></var>
 <var title="Leiden" id="Q43631" data-fill="#92086D" data-marker-symbol="user"></var>
-<var data-image-viewer></var>
-<var data-image id="bhl-57082420" title="John Gerard's mention of _Beretinus_ _fructus_ with image" data-url="https://www.biodiversitylibrary.org/pageimage/57082420" data-region="0,0,0,0"></var>
-<var data-image id="bhl-56601545" title="John Parkinson's mention of _Beretinus_ _fructus_ with image" data-url="https://www.biodiversitylibrary.org/pageimage/56601545" data-region=""></var>
-<var data-image id="bhl-8066123" title="Carolus Clusius' mentions of _Beretinus_ _fructus_ and _Cacao_ _fructus_" data-url="https://www.biodiversitylibrary.org/pageimage/8066123" data-region="0,0,0,0"></var>
+<var data-ma data-image id="bhl-57082420" title="John Gerard's mention of _Beretinus_ _fructus_ with image" data-url="https://www.biodiversitylibrary.org/pageimage/57082420" data-region="0,0,0,0"><o" data-i="bhl-56601545" title="John Parkinson's mention of _Beretinus_ _fructus_ with image" data-url="https://www.biodiversitylibrary.org/pageimage/56601545" data-region=""><="bhl-8066123" title="Carolus Clusius' mentions of _Beretinus_ _fructus_ and _Cacao_ _fructus_" data-url="https://www.biodiversitylibrary.org/pageimage/8066123" data-region="0,0,0,0"></var>
 
 Interestingly, Parkinson also has a [duplicate entry for cacao](https://biodiversitylibrary.org/page/56601539), but under the name “Cacao sive Cacaute” or “Peare bearing wholesome Almond tree.” It is stated that this plant is made into a beverage called “Chocolate” in an unspecified indigenous language, revealing that our modern name for the creamy, satisfying paste made from cacao has its linguistic origins in the New World.  This second entry references a different source, “Benzo,” likely the 1565 _Historia del Mondo Nuovo_ by Girolamo Benzoni, [where he discusses his encounters with cacao in Nicaragua](https://play.google.com/books/reader?id=Etlmh2F9VucC&hl=en&pg=GBS.PT216).
 <var data-map title="World" data-center="25.164766, -76.133328" data-zoom="2" data-hide-labels="true" basemap="Esri_WorldPhysical"></var>
@@ -194,7 +192,7 @@ Interestingly, Parkinson also has a [duplicate entry for cacao](https://biodiver
 <var data-image id="bhl-8066123" title="Carolus Clusius' mentions of _Beretinus_ _fructus_ and _Cacao_ _fructus_" data-url="https://www.biodiversitylibrary.org/pageimage/8066123" data-region="1667,1240,2190,1890"></var>
 
 In his text, Benzoni refers to the use of cacao as money and describes the methods to create the cacao beverage. Because Benzoni actually visited the region, his first-hand account  references the ecology in which cacao grows: only very warm, moist, and shady areas. It is likely that these exotic ecological constraints added to the appeal of cacao, both for the Mexica and later the Europeans, because of the prestige associated with commanding such a limited network.
-<var data-map title="World" data-center="12.316683, -84.946184" data-zoom="5" data-hide-labels="true" basemap="Esri_WorldPhysical"></var>
+<var data-map title="World" data-center="12.316683, -84.946184" data-zoom="5" basemap="Esri_WorldPhysical"></var>
  <var data-map-layer
      title="Central American Neotropics"
      data-type="geojson"
