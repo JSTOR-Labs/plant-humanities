@@ -157,7 +157,8 @@ From there we can trace the knowledge, or lack of knowledge, of the arbore vitæ
      data-active="true"></var>
 
 It is clear that by the mid-seventeenth century much of the medicinal knowledge associated with the arbor vitæ was lost. Further complicating matters of identification was the rate at which the arbor vitæ spread through Europe and the tendency to call any conifer imported from North America an arbor vitæ. Conversely, many American conifers were simply named in terms of their European counterparts and identified as a thuja or cedrus. Thus, by the end of the sixteenth century, the arbor vitæ was also known as [“Thuja theophrasti”](https://bibdigital.rjb.csic.es/viewer/10754/?offset=#page=512&viewer=picture&o=bookmark&n=0&q=) and [“Cedrus Lycia.”](https://bibdigital.rjb.csic.es/viewer/13070/?offset=#page=634&viewer=picture&o=bookmark&n=0&q=)
-<var data-map title="France" data-center="42.559028, 63.795785" data-basemap="Esri_WorldPhysical" data-zoom="2.5"></var><var data-map-layer
+<var data-map title="France" data-center="45.903381, 14.813984" data-basemap="Esri_WorldPhysical" data-zoom="3.5"></var>
+<var data-map-layer
      data-type="geojson" 
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/thuja in europe.json"
      data-active="true"></var>
@@ -194,7 +195,7 @@ During his tenure as ship surgeon on the HMS Salisbury, Lind observed and record
      data-active="true"></var>
 
 Sadly, we may never know for sure exactly which tree was used to make a medicinal tea that saved Cartier and his men. It is more likely that the Indigenous Peoples of the region knew that many of the local coniferous trees could be used for the same medical purpose together or interchangeably. What we do know, however, is that the indigenous knowledge of the therapeutic properties of coniferous trees not only saved the lives of early explorers and colonizers, it was essential in the development of Europeans’ understanding and treatment of scurvy. 
-<var data-map title="New World" data-center="34.726916, -45.853268" data-zoom="3"></var>
+<var data-map title="New World" data-center="41.726916, -45.853268" data-basemap="Esri_WorldPhysical" data-zoom="3"></var>
 <var data-map-layer
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/custom.geo(1).json"
