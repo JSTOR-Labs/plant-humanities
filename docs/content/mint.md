@@ -1,4 +1,4 @@
-<var data-essay title="Mint" data-banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814764048982%29.jpg" data-layout="vtl" data-num-locations="5" data-num-overlays="15" data-num-images="9" data-num-primary-sources="2" data-author="Victoria Pickering" ></var>
+<var data-essay title="Mint" data-banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814764048982%29.jpg" data-layout="vtl" data-num-locations="5" data-num-overlays="15" data-num-images="9" data-num-primary-sources="2" data-author="Victoria Pickering"></var>
 
 [View](https://plant-humanities.app/essay?gdid=1-q4xsJuLtqYotSbVRPJ2NPZvs_JKiF8x)
 
@@ -114,20 +114,20 @@ By the mid-1850s, America’s mint industry was focused in <var data-scope="elem
 <var data-image id="Altoids" title="Advert for Altoids" data-url="https://jstor-labs.github.io/plant-humanities/images/Altoids advertisment.jpg" data-region="" data-fit="contain"></var>
 
 Over time, American mint oil production would spread westwards from the east coast in New York State to the Pacific coast in Washington. First, peppermint went to Ohio and Michigan by 1833, and then commercial peppermint was introduced to Idaho in 1903, as well as Oregon’s Willamette River Valley in 1909. In 1917, drained land on Puget Island  in Columbia River estuary in Wahkiakum County, Washington  proved to be ideal land for mint farming on the Pacific coast. By the late 1920s, mint oil prices were high, no doubt influenced by significant advertising campaigns fashioned by American manufacturers of mint-flavored confectionary, chewing gum and toothpaste. Not only was mint valued in the domestic market, but it was exported too. World War II slowed down exportation of mint but the increased need for menthol from American-grown peppermint for supplying the armed forces saw peppermint (along with spearmint) become an essential war crop.[^ref14]
-<var data-map title="World" data-center="41.376639,-103.166347" data-zoom="4"></var>
+<var data-map title="World" data-center="41.376639,-103.166347" data-zoom="3"></var>
 <!--<var title="Ohio" id="Q1397" data-fill="#2d862d" data-marker-symbol="leaf"></var>
 <var title="Michigan" id="Q1166" data-fill="#2d862d" data-marker-symbol="leaf"></var>
 <var title="Willamette" id="Q1703681" data-fill="#2d862d" data-marker-symbol="leaf"></var>
 <var title="Puget Island" id="Q3593402" data-fill="#2d862d" data-marker-symbol="leaf"></var>-->
-<var data-map-layer title="North America" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mintNamerica.geojson data-active="true"></var>
-<var data-map-layer title="North America" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/lineofmint.geojson data-active="true">
+<var data-map-layer title="" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mintNamerica.geojson data-active="true"></var>
+<var data-map-layer title="" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/lineofmint.geojson data-active="true">
 
 
 
 The mint industry in Washington and Oregon would go on to develop in line with sophisticated mechanical planting techniques and harvesting equipment. More recently, Washington farmers have faced increasing competition from China and India, who appear able to supply the shifting consumer taste for a stronger mint flavor which cannot be easily provided by the peppermint species.
 <var data-map id="China-map" data-center="30.486795,88.475136" data-zoom="4"></var>
 <var data-map-layer
-title="China"
+title=""
 data-type="geojson"
 data-url="https://jstor-labs.github.io/plant-humanities/geojson/chinaIndia.geojson"
 data-active="true"></var>
