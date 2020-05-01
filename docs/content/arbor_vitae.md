@@ -44,9 +44,6 @@
 <var title="St. Lawrence Iroquoians" id="Q129060" data-aliases="St. Lawrence Iroquois"></var>
 <var title="Palace of Fontainebleau" id="Q201428" data-aliases="Fontainebleau"></var>
 
-
-## Arbor Vitæ - Thuja occidentalis
-
 ### The Mysterious Tree of Life
 
 In his 1640 herbal, John Parkinson described the “tree of life,” or “arbor vitæ,” as ["a tall tree being similar to a cypress and covered by a dark reddish bark on the trunk and an even redder bark on the branches."](https://www.biodiversitylibrary.org/page/56601375#page/1502/mode/1up) Parkinson went on to explain that the tree, unknown to the ancients, originated in the New World and was introduced to Europe by the French. He explained that while it was presented to the French King, Francis I, as the “tree of life” (arbor vitæ) he had no idea why. Clearly, Parkinson was unaware of the miraculous stories associated with the arbor vitæ.
