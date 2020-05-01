@@ -6,7 +6,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.7,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff",
         "fill-opacity": ""
@@ -330,7 +330,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -449,7 +449,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "stroke-width": 0,
         "stroke": "null",
         "label": "",
@@ -512,7 +512,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -637,7 +637,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -910,7 +910,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -1175,7 +1175,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -1316,7 +1316,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -1489,7 +1489,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -1810,7 +1810,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -2059,7 +2059,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -2308,7 +2308,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -2481,7 +2481,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -2682,7 +2682,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -2775,7 +2775,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -2892,7 +2892,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -3189,7 +3189,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -3382,7 +3382,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -3463,7 +3463,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -3724,7 +3724,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -3989,7 +3989,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -4130,7 +4130,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -4343,7 +4343,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -4556,7 +4556,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -4641,7 +4641,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "Second French Empire",
         "fill": "#00a3ff"
       },
@@ -4806,7 +4806,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -4999,7 +4999,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -5068,7 +5068,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -5139,7 +5139,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -5254,7 +5254,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.7,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -5355,7 +5355,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.7,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -5476,9 +5476,9 @@
       "properties": {
         "fill": "#00a3ff",
         "fill-opacity": 0.8,
-        "stroke": "#000000",
+        "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.7,
+        "stroke-opacity": 0,
         "label": "First French Empire"
       },
       "geometry": {
@@ -6422,7 +6422,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.7,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
@@ -6615,7 +6615,7 @@
       "properties": {
         "stroke": "null",
         "stroke-width": 0,
-        "stroke-opacity": 0.3,
+        "stroke-opacity": 0,
         "label": "Second French Empire",
         "fill": "#00a3ff"
       },
@@ -6741,7 +6741,7 @@
         "fill-opacity": 0.8,
         "stroke": "#000000",
         "stroke-width": 0,
-        "stroke-opacity": 0.7,
+        "stroke-opacity": 0,
         "label": "",
         "fill": "#00a3ff"
       },
