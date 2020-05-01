@@ -1,4 +1,4 @@
-<var data-essay title="Mint" data-banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814764048982%29.jpg" data-layout="vtl" data-num-locations="5" data-num-overlays="15" data-num-images="9" data-num-primary-sources="2" data-author="Victoria Pickering"></var>
+<var data-essay title="Mint" data-banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814764048982%29.jpg" data-layout="vtl" data-num-locations="16" data-num-overlays="6" data-num-images="10" data-num-primary-sources="12" data-author="Victoria Pickering"></var>
 
 [View](https://plant-humanities.app/essay?gdid=1-q4xsJuLtqYotSbVRPJ2NPZvs_JKiF8x)
 
@@ -104,7 +104,7 @@ American colonists were quick to recognize the commercial opportunity presented 
 <var data-map title="New England" data-center="42.566426,-71.751354" data-zoom="4"></var>
 <var data-map-layer title="Original colonies" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/13colonies.geojson data-active="true"></var>
 <var title="Ashfield" id="Q2536103" data-fill="#2d862d" data-marker-symbol="leaf"></var>
-<var title="New York State" id="Q1384" data-fill="#2d862d" data-marker-symbol="leaf"></var>
+<var title="" id="Q1384" data-fill="#2d862d" data-marker-symbol="leaf"></var>
 <var title="New Jersey" id="Q1408" data-fill="#2d862d" data-marker-symbol="leaf"></var>
 
 By the mid-1850s, America’s mint industry was focused in <var data-scope="element" id="Q56146">Wayne County, New York</var>. Up until this time peppermint oil was valued for its therapeutic properties. However as American medicine developed according to new scientific knowledge, herbal remedies lost their popularity and peppermint oil needed a new market. American peppermint would become a popular flavor for confectionary on local and global scales.[^ref13]
