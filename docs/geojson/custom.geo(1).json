@@ -7,7 +7,8 @@
         "marker-color": "#fb683f",
         "marker-size": "large",
         "marker-symbol": "garden",
-        "label": "Origin of Arbore Vitae"
+        "label": "",
+        "stroke": "null"
       },
       "geometry": {
         "type": "Point",
@@ -24,7 +25,8 @@
         "marker-size": "large",
         "marker-symbol": "garden",
         "fill-opacity": "",
-        "label": ""
+        "label": "",
+        "stroke": "null"
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +39,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#7b7b7b",
+        "stroke": "null",
         "stroke-width": 1,
         "stroke-opacity": 1,
         "fill": "#32c125",
@@ -1168,7 +1170,7 @@
         "stroke-opacity": 1,
         "fill": "#32c125",
         "fill-opacity": 0.3,
-        "stroke": "#7B7B7B",
+        "stroke": "null",
         "marker-color": "",
         "label": "Arbore Vitae Planted at Fontainebleau"
       },
@@ -1309,7 +1311,7 @@
       "properties": {
         "marker-size": "",
         "marker-symbol": "",
-        "stroke": "#7B7B7B",
+        "stroke": "null",
         "stroke-width": 1,
         "stroke-opacity": 1,
         "fill": "#32c125",
@@ -1787,7 +1789,7 @@
         ]
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "stroke": "#fb683f",
