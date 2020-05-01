@@ -13,8 +13,6 @@
 
 ## The ubiquity of mint: exploring plant mythology, naming and commercial value
 
-### Victoria Pickering
-
 Some scents regularly appear in our daily lives and give us a sense of familiarity. Mint is one such example of a ubiquitous plant, and one that we think we know. The strong scent and taste of mint, the notable green leaves with serrated edges, and the broad consumer uses of this plant that are so common to us today (such as toothpaste and chewing gum), obscures the lesser known fact that mint has a more nuanced history of naming and identification. 
 <var data-primary="image"></var>
 <var data-image id="mentha aqautica" title="Water mint" data-url="https://upload.wikimedia.org/wikipedia/commons/2/2e/Mentha_aquatica_06_ies.jpg" data-region=""></var>
