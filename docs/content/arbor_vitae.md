@@ -52,7 +52,7 @@ In his 1640 herbal, John Parkinson described the “tree of life,” or “arbor
 
 A century earlier, French explorer Jacques Cartier and his crew learned of the tree and its astonishing medicinal effects from the St. Lawrence Iroquois Indians of Eastern Canada while exploring the Gulf of St. Lawrence and the St. Lawrence River. The Indigenous Peoples of this region used numerous local plants to treat disease and survive the region’s harsh winters. [^ref1]  Unfortunately, the French were far less equipped to survive the unforgiving environment they found themselves stranded in during the winter of 1535-36. Suffering from a mysterious disease that threatened to kill more than half of his crew, Captain Cartier turned to the St. Lawrence Iroquois for help.
 <var data-scope="local" id="Q129060"></var>
-<var data-map title="World" data-center="48.715372, -63.077172" data-basemap="Esri_WorldPhysical" data-zoom="5"></var>
+<var data-map title="Gulf of Saint Lawrence" data-center="Q544356" data-basemap="Esri_WorldPhysical" data-zoom="5.5"></var>
 <var data-map-layer
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/cartier.json"
