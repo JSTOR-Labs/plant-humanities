@@ -11,7 +11,7 @@ data-num-primary-sources="14"
 data-author="Rebecca Friedel"
 data-about="Q42385"
 data-debug="false"></var>
- 
+
 <var title="Nicolás Monardes based in Seville" id="Q8717" data-fill="#92086D" data-marker-symbol="user"></var>
 <var title="Benzoni's accounts discuss his encounters with cacao in Nicaragua" id="Q811" data-fill="#92086D" data-marker-symbol="user"></var>
 <var title="Girolamo Benzoni" id="Q1236037" data-aliases="Benzoni"></var>
