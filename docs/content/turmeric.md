@@ -2,10 +2,10 @@
 <var data-essay
 title="Turmeric"
 data-banner="https://images.nypl.org/index.php?id=1126115&t=w"
-data-layout="vtl"  
-data-num-locations="7"  
-data-num-overlays="8"  
-data-num-images="6"  
+data-layout="vtl"
+data-num-locations="7"
+data-num-overlays="8"
+data-num-images="6"
 data-num-primary-sources="11"
 data-about="Julia Fine"></var>
 
