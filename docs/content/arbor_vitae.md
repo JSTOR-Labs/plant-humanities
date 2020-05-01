@@ -43,6 +43,7 @@
 <var title="Hochelaga" id="Q544356" data-aliases="local Indians"></var>
 <var title="St. Lawrence Iroquoians" id="Q129060" data-aliases="St. Lawrence Iroquois"></var>
 <var title="Palace of Fontainebleau" id="Q201428" data-aliases="Fontainebleau"></var>
+<var data-scope="local" id="Q7321"></var>
 
 ### The Mysterious Tree of Life
 
@@ -58,7 +59,6 @@ A century earlier, French explorer Jacques Cartier and his crew learned of the t
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/cartier.json"
 	data-active="true"></var>
 
-<var data-scope="local" id="Q7321"></var>
 Captain Cartier noticed that some of the local Indians also suffered from the same affliction as his men. Unlike his men, however, they made full recoveries. Cartier soon learned of a medicinal decoction made from a [“certain tree”](https://hdl.handle.net/2027/aeu.ark:/13960/t35151v01?urlappend=%253Bseq=82) that the locals made and drank to treat the illness. Fortunately, Cartier convinced a local young man named Domagaia to share his therapeutic secret. Domagaia complied and sent a couple of women to fetch about a dozen branches of the tree. The bark and leaves were then boiled to make a decoction (or tea), which Cartier and his men were instructed to drink every other day. They were also instructed to put the dregs of the mixture on the legs of the sick. Within six days, Cartier’s crew was cured.
 <var data-map title="Gulf of Saint Lawrence" data-center="Q544356" data-basemap="Esri_WorldPhysical" data-zoom="5.5"></var>
 <var data-map-layer
