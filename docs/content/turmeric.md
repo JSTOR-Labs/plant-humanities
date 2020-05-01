@@ -7,7 +7,7 @@ data-num-locations="7"
 data-num-overlays="8"
 data-num-images="6"
 data-num-primary-sources="11"
-data-about="Julia Fine"></var>
+data-author="Julia Fine"></var>
 
 
 <var title="Saffron" id="Q25434"></var>
