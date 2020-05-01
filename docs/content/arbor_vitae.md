@@ -1,13 +1,13 @@
 [View](https://plant-humanities.app/essay?gdid=1ZhAYXtLWogfZygES96g4OXU-6tLtKTTM)
 
-<var data-essay  
-	title="Arbor Vitae - Thuja occidentalis"  
-	data-banner="https://upload.wikimedia.org/wikipedia/commons/6/67/Neuch%C3%A2tel_Herbarium_-_Thuja_occidentalis_-_NEU000099701.jpg"  
-	data-layout="vtl"  
-	data-num-locations="14"  
-	data-num-overlays="15"  
-	data-num-images="8"  
-	data-num-primary-sources="7"  
+<var data-essay
+	title="Arbor Vitae - Thuja occidentalis"
+	data-banner="https://upload.wikimedia.org/wikipedia/commons/6/67/Neuch%C3%A2tel_Herbarium_-_Thuja_occidentalis_-_NEU000099701.jpg"
+	data-layout="vtl"
+	data-num-locations="14"
+	data-num-overlays="15"
+	data-num-images="8"
+	data-num-primary-sources="7"
 	data-author="Ashley Buchanan, PhD"></var>
 
 <var title="Abies balsamea" id="Q428023" data-aliases="fir"></var>
