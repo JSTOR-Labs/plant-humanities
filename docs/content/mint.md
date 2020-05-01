@@ -1,4 +1,4 @@
-<var data-essay title="Mint" data-banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814764048982%29.jpg" data-layout="vtl" data-num-maps="20" data-num-images="10" data-num-primary-sources="12" data-num-specimens="" data-author="Victoria Pickering"></var>
+<var data-essay title="Mint" data-banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814764048982%29.jpg" data-layout="vtl" data-num-maps="20" data-num-images="10" data-num-primary-sources="12" data-num-specimens="" data-author="Victoria Pickering PhD"></var>
 
 [View](https://plant-humanities.app/essay?gdid=1-q4xsJuLtqYotSbVRPJ2NPZvs_JKiF8x)
 
