@@ -35,7 +35,7 @@ data-debug="false"></var>
 <var title="Colegio de Santa Cruz de Tlatelolco" id="Q2477757" data-fill="#5C6609" data-marker-symbol="school" data-aliases="Santa Cruz"></var>
 <var title="Tenochtitlan" id="Q13695" data-fill="#5C6609" data-marker-symbol="gopuram" data-aliases="Mexica capital"></var>
 <var title="early modern period" id="Q5308718"></var>
-<var title="s" id="Q6165948" data-aliases="herbal"></var>
+<var title="herbals" id="Q6165948" data-aliases="herbal"></var>
 <var title="Francisco Hernández de Toledo" id="Q940017"></var>
 <var title="Quararibea funebris" id="Q7269144" data-aliases="_Quararibea funebris_"></var>
 <var title="(INAH)" id="Q901361"></var>
@@ -143,12 +143,12 @@ Ultimately, the ideological importance of cacao within political, social, and ec
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Teo.geojson"
 	data-active="true"></var>
 <var data-image-viewer></var>
-<var data-image id="hollis-459304944" title="Classic Maya Buenavista Cylinder Vase" data-url="https://ids.lib.harvard.edu/ids/iiif/459304944/full/full/0/default.jpg" data-region="0,0,0,0"></var>
-<var data-image id="hollis-459304936" title="Classic Maya Buenavista Cylinder Vase Rollout" data-url="https://ids.lib.harvard.edu/ids/iiif/459304936/full/full/0/default.jpg" data-region="0,0,0,0"></var>
+<var data-image id="hollis-459304944" title="Classic Maya Buenavista cylinder ase used for Cacao beverages" data-url="https://ids.lib.harvard.edu/ids/iiif/459304944/full/full/0/default.jpg"></var>
+<var data-image id="hollis-459304936" title="Classic Maya Buenavista cylinder ase ued for Cacao beverages - rRollout" data-url="https://ids.lib.harvard.edu/ids/iiif/459304936/full/full/0/default.jpg"></var>
 
 ### European Accounts
 
-To fulfill colonial agendas, the Spanish and other Europeans found themselves in need of understanding and participating in the indigenous networks and ideologies of the Americas. This need initially gave a measure of agency to  the  native  perspective, as reflected through the creation of texts like the Badianus.  With the continued subjugation  and conversion of indigenous populations, we eventually lose access to this  emic  native perspective in European-sponsored texts of the colonial  period. However, we gain access to knowledge of New World plants through European-perspective  manuscripts from the late 16th  and early 17th  centuries.  Cacao features in several of these, but not in some one might expect.
+To fulfill colonial agendas, the Spanish and other Europeans found themselves in need of understanding and participating in these indigenous networks and ideologies of the Americas. This need initially gave a measure of agency to  the  native  perspective, as reflected through the creation of texts like the Badianus.  With the continued subjugation  and conversion of indigenous populations, we eventually lose access to this  emic  native perspective in European-sponsored texts of the colonial  period. However, we gain access to knowledge of New World plants through European-perspective  manuscripts from the late 16th  and early 17th  centuries.  Cacao features in several of these, but not in some one might expect.
 <var data-image id="Rivera Mural" title="Diego Rivera Mural depicting an Auto de Fe of indigenous literature and idols" data-url="https://upload.wikimedia.org/wikipedia/commons/9/9d/Murales_Rivera_-_Treppenhaus_9_B%C3%BCcherverbrennung.jpg"></var>
 
 At first thought, it is surprising  that cacao does  not  appear  in  any  of  the  [several herbals on New World plants by Nicolás  Monardes](https://bibdigital.rjb.csic.es/idurl/1/13636). However, since  Monardes  was based in Seville and  never left the  hemisphere, he was only aware of  plants  that would have reached  him  from across the ocean via his network of fellow naturalists. He also seems to have only reported the plants he was able to propagate in his garden or use for himself,  as he  repeatedly  claims  his findings are based on real  and personal  observations. Given these facts, it is unlikely that cacao  seeds would have sustained their reproductive capacity after a voyage across the Atlantic, let alone propagation in the drier Mediterranean climate of Seville.
@@ -213,7 +213,7 @@ The political and economic powers of Europe took note of these early accounts of
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/CacaoDist.geojson"
      data-active="true"></var>
-<var data-image-viewer></var>  
+<var data-primary="image"></var>
 <var data-image id="English chocolate pot ca. 1697-98" title="English chocolate pot ca. 1697-98" data-url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chocolate_pot_MET_131294.jpg/512px-Chocolate_pot_MET_131294.jpg"></var>
 <var data-image id="German chocolate cup and saucer ca. 1735-45" title="German chocolate cup and saucer ca. 1735-45" data-url="https://upload.wikimedia.org/wikipedia/commons/6/69/Chocolate_Cup_And_Saucer_%28Germany%29%2C_1735–45_%28CH_18349969%29.jpg"></var>
 <var data-image id="Cadbury cacao advertisement ca. 1885" title="Cadbury cacao advertisement ca. 1885" data-url="https://upload.wikimedia.org/wikipedia/commons/1/17/Cadbury%27s_Cocoa_advert_with_rower_1885.jpg"></var>
