@@ -3,7 +3,7 @@
 title="Turmeric"
 data-banner="https://images.nypl.org/index.php?id=1126115&t=w"
 data-layout="vtl"
-ata-num-maps="8"  
+data-num-maps="8"  
 data-num-images="6"  
 data-num-specimens="2"  
 data-num-primary-sources="11"
