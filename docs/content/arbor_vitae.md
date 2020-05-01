@@ -4,9 +4,9 @@
 	title="Arbor Vitae - Thuja occidentalis"
 	data-banner="https://upload.wikimedia.org/wikipedia/commons/6/67/Neuch%C3%A2tel_Herbarium_-_Thuja_occidentalis_-_NEU000099701.jpg"
 	data-layout="vtl"
-	data-num-locations="14"
-	data-num-overlays="15"
+	data-num-maps="14"
 	data-num-images="8"
+	data-num-specimens="5"
 	data-num-primary-sources="7"
 	data-author="Ashley Buchanan, PhD"></var>
 
