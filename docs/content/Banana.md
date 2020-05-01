@@ -1,17 +1,18 @@
 [View](https://plant-humanities.app/essay?gdid=1CUNlxL1pArMUI7W3ozl6YfpOHi04hPqA)
 
-<var data-essay
-     title="Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy"
-     data-banner="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_banner.jpg"
-     data-layout="vtl" data-debug="false"></var>
+<var data-essay  
+	title="Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy"  
+	data-banner="https://upload.wikimedia.org/wikipedia/commons/0/0f/Banana_Maria_Sibylla_Merian_1705_plate_XII.png"  
+	data-layout="vtl"  
+	data-num-locations="14"  
+	data-num-overlays="15"  
+	data-num-images="8"  
+	data-num-primary-sources="7"  
+	data-author="Ashley Buchanan, PhD"></var>
 
 <var title="Hartekamp" id="Q18771183"></var>
-<var title="banana" id="Q503"></var>
-<var title="Parthenocarpy" id="Q1383946"></var>
 <var title="ploidy" id="Q118406" data-aliases="diploid"></var>
-<var title="Musa acuminata" id="Q132970"></var>
 <var title="Musa balbisiana" id="Q94643"></var>
-<var title="Carl Linnaeus" id="Q1043"></var>
 <var title="taxonomy of Linnaeus" id="Q54878466" data-aliases="Latin binomial names"></var>
 <var title="Systema Naturae" id="Q29270" data-aliases="Linnaean’s formative work" ></var>
 <var title="Musa × paradisiaca" id="Q10757112" data-aliases="Musa paradisca" ></var>
@@ -24,22 +25,22 @@
 <var title="Hispaniola" id="Q25277" ></var>
 <var title="New World" id="Q127834" ></var>
 <var title="Garcia de Orta" id="Q1493994" ></var>
-<var title="Pietro Andrea Mattioli" id="Q457191" ></var>
 <var title="Umayyad Caliphate" id="Q8575586" ></var>
 <var title="Avicenna" id="Q8011" ></var>
-<var title="Rembert Dodoens" id="Q437466" ></var>
 <var title="André Thévet" id="Q523054" ></var>
 <var title="staple food" id="Q736427" data-aliases="dietary staple" ></var>
-<var title="herbal" id="Q6165948" ></var>
 <var title="George Clifford III" id="Q556591" data-aliases="George Clifford" ></var>
 <var title="banana republic" id="Q171751"></var>
-<var title="Gros Michel banana" id="Q1547451" data-aliases="Gros Michel" ></var>
 <var title="Cavendish banana" id="Q1051869" ></var>
 <var title="United Fruit Company" id="Q1771942" ></var>
-<var title="monoculture" id="Q220212" data-aliases="monocultures" ></var>
+<var title="monoculture" id="Q220212"></var>
 <var title="vegetative reproduction" id="Q464666" data-aliases="vegetal propagation" ></var>
 <var title="Panama disease" id="Q3240031" ></var>
 <var title="Goa" id="Q1171" ></var>
+<var data-scope="local" id="Q6165948" ></var>
+<var data-scope="local" id="Q457191" ></var>
+<var title="Rembert Dodoens" data-scope="local" id="Q437466" ></var>
+<var title="Gros Michel banana" data-scope="local" id="Q1547451" data-aliases="Gros Michel" ></var>
 	
 ## Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy
 
@@ -55,14 +56,17 @@ Bananas are herbaceous plants, not trees, and while they resemble palms, they ar
 <var data-image id="Banana Diagram" title="Parts of the Banana Plant" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Banana_Plant_Parts.jpg" data-region=""></var>
 
 Prior to domestication, wild banana fruits were incredibly seedy and difficult to eat. Scientists now believe that many wild bananas had a genetic predisposition to parthenocarpy, or the ability to produce fruit without fertilization. Beginning some 7,000 years ago, humans noticed that some banana plants produce seedless fruits. Since sterile bananas were easier to eat, humans began propagating wild banana plants with this mutation. To propagate a sterile plant, humans “cloned” bananas by collecting and planting the “ramets” or “suckers” of the original plant.
+<var data-scope="local" id="Q1383946"></var>
 <var data-primary="image"></var>
 <var data-image id="# Domestication of the banana" title="An edible and seedless Cavendish banana next to its ancestor, the wild species Musa acuminata." data-fit="cover" data-url="http://www.musarama.org/upload/high/domestication-of-the-banana.jpg" data-region=""></var>
+
 
 Selecting for edibility and propagating parthenocarpic bananas was the first step in the process of banana domestication. The next phase began as different human populations migrated, bringing their previously isolated banana species and subspecies along the way. Like humans, wild bananas are diploids: they have two sets of chromosomes and receive one set from each “parent.” Thanks to human selection, migration, and exchange, however, triploid banana hybrids were created. Hybridizing distant banana relatives produced plants that inherited three sets of chromosomes. This rendered the progeny plant sterile and ensured it would produce fleshy, seedless fruits. In addition to being sterile, triploid banana hybrids, thanks to their extra chromosomes, could still mutate. Further diversity of the species was produced as farmers selected and propagated for desirable mutations such as a starchy or sweet pulp. The genetic diversity of triploid bananas and their environmental adaptability ensured not only the survival of sterile banana hybrids, but also their ability to spread across vast areas and cultures.[^ref1]
 <var data-primary="image"></var>
 <var data-image id="Diploid to Triploid" title="From Diploids to Triploids" data-fit="contain" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/From_Diploid_to_Triploid_new%20copy.jpg" data-region=""></var>
 
 While bananas are more diverse that previously understood, Scientists have identified _Musa acuminata_ as the primary wild parent of parthenocarpic bananas within the genus _Musa_. Parthenocarpy, however, makes identifying and classifying banana “species” difficult. As J. Kennedy explains, “Although it is clear that parthenocarpy within section _Musa_ has occurred only in _Musa acuminata_, the parentage of the resulting edible bananas is greatly complicated by the diversity of _Musa acuminata_ at subspecies level. Parthenocarpy probably developed in at least two of these subspecies, and there are many edible hybrids between these and additional wild subspecies.”[^ref2] Further complicating matters are hybridizations between _Musa acuminata_ and _Musa balbisiana_. _Musa balbisiana_ remains less understood than _Musa acuminata_, and has not been divided into subspecies. The distribution, wild/cultivated status, and genetic characterization of _Musa acuminata_ and _Musa balbisiana_ hybrids continues to be debated.
+<var data-scope="local" id="Q132970"></var>
 <var data-map title="New World" data-center="2.773646, 119.184323" data-basemap="Esri_WorldPhysical" data-zoom="3.5"></var>
 <var data-map-layer
 	data-type="geojson"
@@ -71,6 +75,7 @@ While bananas are more diverse that previously understood, Scientists have ident
 	
 ### What’s in a Name?
 In 1753 Carl Von Linnaean’s formative work, _[Systema Naturae](https://www.biodiversitylibrary.org/page/728487),_ formalized a system of nomenclature that standardized plant names and botanical terminology among botanists. This system used Latin binomial names—the first name indicating the genus, and the second the species—to identify and classify all living organism in the natural world. Unlike earlier attempts to group or classify plants, Linnaeus’s system focused solely on the reproductive features of wild plants (not domesticated) to characterize, organize, and group related plants. While Linnaeus’s system was an artificial structure of classification and hierarchical divisions placed on the plant world, it provided order and standardization from the chaos of plant names created by centuries of disparate European collecting and cataloguing of the plant world. While the Linnaean system has been revised, modified, and added to over the centuries, it has remained largely unchallenged for nearly 250 years.
+<var data-scope="local" id="Q1043"></var>
 <var data-primary="image"></var>
 <var data-image id="Linnaen system by Ehret" title="Methodus Plantarum Sexualis, Ehret" data-fit="contain" data-url="https://upload.wikimedia.org/wikipedia/commons/9/99/Ehret-Methodus_Plantarum_Sexualis.jpg" data-region=""></var>
 
@@ -123,7 +128,6 @@ During this early period of renewed European interest in the banana, there was g
 <var data-primary="map"></var>
 <var data-map title="Goa" data-basemap="Esri_WorldPhysical" data-center="Q1171" data-zoom="7"></var>
 
-
 The most influential European author of the period, Italian physician Pietro Andrea Mattioli, [referred to the banana plant as “musa” and the individual fruits as “muse”](https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10139456_00182.html) in his important herbal published in 1554. Musa, which was eventually adopted by Linnaeus as the name of the genus, is believed to be an adaptation the Arabic word for banana, “_mauz_” or “_mawzah_.” By the eighth century, Islamic expansion under the Umayyad Caliphate (661–750) had reached the Indian subcontinent, creating a region of trade, exchange, and communication stretching from India to Iberia. Through these vast commercial networks, bananas were traded and became popular throughout the Islamic Empire.
 <var data-map title="New World" data-center="27.272558, 55.235349" data-basemap="Esri_WorldPhysical" data-zoom="4"></var>
 <var data-map-layer
@@ -154,8 +158,9 @@ While the adoption of the Arabic word for banana provided some standardization o
 
 By the seventeenth century, bananas had spread throughout the Caribbean and the tropics of Central and South America, becoming a dietary staple along the way. While bananas were known to Europeans through herbals, natural histories, and travel narratives, they remained a rarity on the continent—a lush, exotic fruit only travelers enjoyed. 
 <var data-primary="map"></var>
-<var data-map title="New World" data-center="13.740564, -73.144150" data-basemap="Esri_WorldPhysical" data-zoom="3.5"></var>
+<var data-map title="New World" data-center="1.115677, -75.090138" data-basemap="Esri_WorldPhysical" data-zoom="3.5"></var>
 <var data-map-layer
+	title= "Banana Distribution in Central and South America"
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/banana_distribution_LA.json"
 	data-active="true"></var>
@@ -179,7 +184,7 @@ In the early 20th century, multinational American corporations, like the UFC, we
 
 In the end, an intense monoculture focused on the vegetal propagation of one mutation of one banana hybrid proved unsustainable. Lacking genetic diversity, Gros Michel banana plantations across the globe fell victim to a pathogen known as _Fusarium oxysporum_, or “Panama Disease.” From 1899 to the 1950s Panama Disease destroyed Gros Michel crops throughout the Americas. Desperate to replace the valuable export, fruit conglomerates abandoned the Gros Michel for a new varietal, the smaller and less flavorful Cavendish banana.
 <var data-primary="map"></var>
-<var data-map title="New World" data-center="36.34,11.19" data-basemap="Esri_WorldPhysical" data-zoom="2"></var>
+<var data-map title="New World" data-center="-0.777112, 17.373148" data-basemap="Esri_WorldPhysical" data-zoom="2"></var>
 <var data-map-layer
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Fusarium_wilt.json"
