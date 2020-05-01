@@ -5,7 +5,7 @@ data-banner="https://images.nypl.org/index.php?id=1126115&t=w"
 data-layout="vtl"
 data-num-maps="8"
 data-num-images="6"
-data-num-overlays="2"
+data-num-specimens="2"
 data-num-primary-sources="11"
 data-author="Julia Fine"></var>
 
