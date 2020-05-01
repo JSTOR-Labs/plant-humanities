@@ -2,7 +2,7 @@
 
 <var data-essay
 	title="Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy"
-	data-banner="https://upload.wikimedia.org/wikipedia/commons/0/0f/Banana_Maria_Sibylla_Merian_1705_plate_XII.png"  
+	data-banner="https://upload.wikimedia.org/wikipedia/commons/0/0f/Banana_Maria_Sibylla_Merian_1705_plate_XII.png"
 	data-layout="vtl"
 	data-num-maps="13"
 	data-num-images="11"
