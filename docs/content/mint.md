@@ -7,7 +7,7 @@
      title="The ubiquity of mint: exploring plant mythology, naming and commercial value"
      data-banner="/images/mint.jpg"
      data-debug="false"></var>
-<var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
+<var data-map title="World" data-basemap="Esri_WorldPhysical" data-center="36.34,11.19" data-zoom="2"></var>
 <var title="Samuel Dale" id="Q1538175" data-aliases="Mr. Dale"></var>
 
 
@@ -34,15 +34,15 @@ Mint and common hybrid species such as peppermint have long been held in high es
 <var data-image id="minthe" title="Minthe, engraving by Johann Ulrich Kraus (1655-1719)" data-url="https://jstor-labs.github.io/plant-humanities/images/AWARBURGIG_10311762574_minthe.jpg" data-region=""></var>
  
 Near Pylos, towards the east, is a <var data-scope='element' id="Q3561330">mountain</var> named after Minthe, who, according to myth, became the concubine of Hades, was trampled under foot by Kore (Core) [Persephone], and was transformed into garden-mint, the plant which some call *hedyosmos*. Furthermore, near the mountain is a precinct sacred to Haides.[^ref1]
-<var data-map title="Greece" data-center="37.506267,21.862627" data-zoom="5"></var>
+<var data-map title="Greece" data-basemap="Esri_WorldPhysical" data-center="37.506267,21.862627" data-zoom="5"></var>
 <var title="Minthi Mountain" id="Q3561330" data-fill="#5C6609" data-marker-symbol="mountain" data-aliases="mountain named after Minthe"></var>
 
 Others consider Minthe to have been changed into dust first by Persephone, from which Hades caused the mint plant to grow forth, masking the smell of the dead and ensuring she was never forgotten. In fact, mint was used in funerary rites in <var data-scope="element" id="Q11772">Ancient Greece</var>, not just for the sweet smell but to form part of the fermented drink <var data-scope="element" id="Q908041">Kykeon</var> which was believed to offer hope in the afterlife.[^ref2] 
 
 Mint was also used in many other ways. The English botanist <var data-scope="element" id="Q1333338">John Gerard (1654-1612)</var>, writes about what the Ancients believed in his [*Generall historie of plantes*](https://biodiversitylibrary.org/page/51905442) (published in 1633): the Greek physician <var data-scope="element" id="Q8778">Galen</var> taught that it 'stoppeth the casting up of bloody, being given with water and vinegar' and <var data-scope="element" id="Q82778">Pliny</var> taught that when applied to the temples (in the form of a broth), mint could 'take away the headache', while <var data-scope="element" id="Q297776">Dioscorides</var> speculated that it was possible for mint to [prevent women from becoming pregnant](https://biodiversitylibrary.org/page/51906063). Mint’s reputation for being used in a variety of ways, especially therapeutically, would be found in published material for centuries.
 <var data-primary="image"></var>
-<var data-image id="13th century" title="Drawing from a thirteenth- century manuscript *Pseudo-Apuleius Herbarius* depicting the preparation of a herbal abortifacient using pennyroyal" data-url="https://upload.wikimedia.org/wikipedia/commons/d/d4/Medievalpreg.jpg" data-region=""></var>
-<var data-image id="Pennyroyal water" title="Clear glass shop round for Pennyroyal water, England, 1850-1. Science Museum, London" data-url="https://jstor-labs.github.io/plant-humanities/images/pennyroyalwaterwellcome.jpg" data-region=""></var>
+<var data-image id="13th century" title="Drawing from a thirteenth-century manuscript *Pseudo-Apuleius Herbarius* depicting the preparation of a herbal abortifacient using pennyroyal" data-url="https://upload.wikimedia.org/wikipedia/commons/d/d4/Medievalpreg.jpg" data-region=""></var>
+<var data-image id="Pennyroyal water" title="Clear glass shop round for pennyroyal water, England, 1850-1. Science Museum, London" data-url="https://jstor-labs.github.io/plant-humanities/images/pennyroyalwaterwellcome.jpg" data-region=""></var>
 
 ### ‘diverse kyndes of myntes growing’
 
@@ -55,9 +55,9 @@ Today, the common scent and flavor we associate with mint is synonymous with cul
 <var data-image-viewer></var>
 <var data-image id="bhl-56599909" title="John Parkinson,*Theatrum Botanicum*, 1640, p.31 (BHL)" data-url="https://biodiversitylibrary.org/pageimage/56599909" data-region="807,1420,1451,2665"></var>
 <var data-image id="bhl-51906062" title="John Gerard,*Generall historie of plantes*, 1633, p.680 (BHL)" data-url="https://biodiversitylibrary.org/pageimage/51906062" data-region="577,328,1375,1559"></var>
-<var data-image id="bhl-56599908" title="John Parkinsson, *Theatrum Botanicum*, 1640, p. 32 (BHL)" data-url="https://biodiversitylibrary.org/pageimage/56599908" data-region="516,360,1201,1470"></var>
+<var data-image id="bhl-56599908" title="John Parkinsson, *Theatrum Botanicum*, 1640, p.32 (BHL)" data-url="https://biodiversitylibrary.org/pageimage/56599908" data-region="516,360,1201,1470"></var>
 
-<var data-map title="World" data-center="51.520201,-0.125315" data-zoom="4"></var>
+<var data-map title="World" data-basemap="Esri_WorldPhysical" data-center="51.520201,-0.125315" data-zoom="4"></var>
 <var data-map-layer
 title=""
 data-type="geojson"
@@ -72,17 +72,17 @@ In the seventeenth and eighteenth centuries, *Mentha* engaged the attention of n
 
 The taxonomy of the genus *Mentha* has, in the words of Lawrence, 'been in a state of flux, with more than 3000 names published since 1753'.[^ref7] In fact, the last comprehensive classification of the genus  *Mentha* was, according to Lawrence, published over a century ago in 1896.  *Mentha* is a member of the *Lamiaceae* (formerly *Labiatea*) family which itself includes many other families including at least 236 genera and over 7000 species. As a genus,  *Mentha* is based on a combination of many characteristics rather than one unique character ranging from the inclusion of four equal stamens and naked filaments. Around 95% of the 3000 names published for the genus  *Mentha* since 1753 (the publication year of Linnaean’s *Species Plantarum*) are synonyms or illegitimate, being known as 'infraspecific taxa' and this problem is due to the ease of which  *Mentha* can be hybridised.[^ref8]
 <var data-primary="image"></var>
-<var data-image id="mentha and moth" title="A mint plant with a moth or butterfly,c.1830. Wellcome Collection" data-url="https://jstor-labs.github.io/plant-humanities/images/menthaWellcome1.jpg" data-region="" data-fit=""></var>
+<var data-image id="mentha and moth" title="A mint plant with a moth or butterfly, c.1830. Wellcome Collection" data-url="https://jstor-labs.github.io/plant-humanities/images/menthaWellcome1.jpg" data-region="" data-fit=""></var>
 <var data-image id="Sowerby corn mint" title="Coloured engraving of Corn mint after J.Sowerby, 1810. Wellcome Collection" data-url="https://jstor-labs.github.io/plant-humanities/images/MenthaArvensisSowerby.jpg" data-region="" data-fit=""></var> 
-<var data-image id="Wellcome mint and thyme" title="Pennyroyal and creeping thyme: entire flowering plants, coloured etching by C.Pierre, c.1865, after P.Naudin. Wellcome Collection" data-url="https://jstor-labs.github.io/plant-humanities/images/pennyroyal&thymeWellcome.jpg" data-region="" data-fit=""></var> 
-<var data-image id="Sowerby blunt spiked mint" title="*Mentha pubescens*,blunt-spiked mint, from *English botany,or,Coloured figures of British plants*,1863" data-url="https://upload.wikimedia.org/wikipedia/commons/0/0f/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814784245103%29.jpg" data-fit=""></var>
-<var data-image id="Sowerby tall red mint" title="*Mentlia rubra*, Tall Red Mint, from *English botany,or,Coloured figures of British plants*,1863" data-url="https://upload.wikimedia.org/wikipedia/commons/d/d0/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814741383006%29.jpg" data-fit=""></var>
+<var data-image id="Wellcome mint and thyme" title="Pennyroyal and creeping thyme: entire flowering plants, coloured etching by C. Pierre, c.1865, after P. Naudin. Wellcome Collection" data-url="https://jstor-labs.github.io/plant-humanities/images/pennyroyal&thymeWellcome.jpg" data-region="" data-fit=""></var> 
+<var data-image id="Sowerby blunt spiked mint" title="*Mentha pubescens*, blunt-spiked mint, from *English botany, or, Coloured figures of British plants*, 1863" data-url="https://upload.wikimedia.org/wikipedia/commons/0/0f/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814784245103%29.jpg" data-fit=""></var>
+<var data-image id="Sowerby tall red mint" title="*Mentlia rubra*, Tall Red Mint, from *English botany, or, Coloured figures of British plants*, 1863" data-url="https://upload.wikimedia.org/wikipedia/commons/d/d0/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814741383006%29.jpg" data-fit=""></var>
 
 ### Peppermint: a commercial crop
 
 
 This problematic nature of identifying and naming mint however does not appear to have prevented the plant from becoming a significant commercial crop. Mint, especially commercial mint, is not considered native to North America but <var data-scope="element" id="Q864709">Elder William Brewster (1568–1644)</var>, a passenger on the <var data-scope="element" id="Q187093">Mayflower</var> voyage in 1620, is known to have grown a variety of mint in his garden in Plymouth, Massachusetts not long after arriving from Europe.[^ref9] From this information, the naturalist and traveller <var data-scope="element" id="Q6242285">John Josselyn (1608-1675)</var> postulated that the <var data-scope="element" id="Q127834">New World</var> was introduced to mint, or ‘Labiatae’, by the pilgrims. Josselyn travelled to New England in 1638 and again in 1663, documenting his travels and the natural world he encountered in two publications. The first, [*New England's Rarities*](https://biodiversitylibrary.org/page/24624464), was published in London in 1671, and the second, [*An Account of Two Voyages to New England*](https://biodiversitylibrary.org/page/47096615), in 1674. 
-<var data-map title="New England" data-center="42.566426,-71.751354" data-zoom="4"></var>
+<var data-map title="New England" data-basemap="Esri_WorldPhysical" data-center="42.566426,-71.751354" data-zoom="4"></var>
 <var title="Plymouth" id="Q326295" data-fill="#5C6609" data-marker-symbol="leaf"></var>
 <var title="Plymouth" id="Q326295"></var>
 <var data-image id="Brewster Gardens" title="Brewster Gardens in Plymouth, MA. The original garden space granted to William Brewster in 1620"
@@ -95,13 +95,13 @@ Despite not being native to North America, peppermint and peppermint oil in part
 
 
 ‘Essence of peppermint’ was regularly imported to America from London and according to research undertaken by Dan Allosso in 2017, advertisements for peppermint products in American newspapers appeared in the thousands between 1750 and 1800. In fact the [American Antiquarian Society](https://www.americanantiquarian.org/) shows almost 3000 advertisements appeared in over 70 newspapers printed in each of the original thirteen colonies. Physicians and apothecaries ‘used and sold peppermint-based products in every major city in every colony’.[^ref11]
-<var data-map title="World" data-center="37.874967,-41.896891" data-zoom="3"></var>
+<var data-map title="World" data-basemap="Esri_WorldPhysical" data-center="37.874967,-41.896891" data-zoom="3"></var>
 <var title="colonies" id="Q179997" data-fill="#5C6609" data-marker-symbol="leaf"></var>
 <var data-map-layer title="" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/mintBrUSline.geojson data-active="true"></var>
 <var data-map-layer title="Original 13 colonies" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/13colonies.geojson data-active="true"></var>
 
 American colonists were quick to recognize the commercial opportunity presented by locally producing peppermint oil rather than importing it from Britain, no doubt due in part to the ease of growing mint in a variety of environments. Unlike other varieties of mint, the peppermint plant would have been propagated in early America using root cuttings probably from a small number of original plants in England. Commercial peppermint production then, gradually shifted from England to America from the 1750s and likewise, records of peppermint fields in North America show that the first were found near Ashfield in Franklin country, Massachusetts. Mint was later farmed in northern New York and New Jersey. In these early days, essence <var data-scope="element" id="Q638172">peddlers</var> ensured that peppermint was part of a widespread production and distribution network.[^ref12]
-<var data-map title="New England" data-center="42.566426,-71.751354" data-zoom="4"></var>
+<var data-map title="New England" data-basemap="Esri_WorldPhysical" data-center="42.566426,-71.751354" data-zoom="4"></var>
 <var data-map-layer title="" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/13colonies.geojson data-active="true"></var>
 <var title="Ashfield" id="Q2536103" data-fill="#2d862d" data-marker-symbol="leaf"></var>
 <var title="" id="Q1384" data-fill="#2d862d" data-marker-symbol="leaf"></var>
@@ -111,10 +111,10 @@ By the mid-1850s, America’s mint industry was focused in <var data-scope="elem
 <var data-primary="image"></var>
 <var data-image id="Triunfo" title="Triunfo mints, 20th century" data-url="https://upload.wikimedia.org/wikipedia/commons/a/af/01033B.jpg" data-region=""></var>
 <var data-image id="Candy cane" title="A Christmas card image of candy canes from the early 1900s" data-url="https://upload.wikimedia.org/wikipedia/commons/8/8d/Candy_cane_William_B_Steenberge_Bangor_NY_1844-1922.jpg" data-region="" data-fit="contain"></var>
-<var data-image id="Altoids" title="Advert for Altoids" data-url="https://jstor-labs.github.io/plant-humanities/images/Altoids advertisment.jpg" data-region="" data-fit="contain"></var>
+<var data-image id="Altoids" title="Advert for Altoid mints" data-url="https://jstor-labs.github.io/plant-humanities/images/Altoids advertisment.jpg" data-region="" data-fit="contain"></var>
 
 Over time, American mint oil production would spread westwards from the east coast in New York State to the Pacific coast in Washington. First, peppermint went to Ohio and Michigan by 1833, and then commercial peppermint was introduced to Idaho in 1903, as well as Oregon’s Willamette River Valley in 1909. In 1917, drained land on Puget Island  in Columbia River estuary in Wahkiakum County, Washington  proved to be ideal land for mint farming on the Pacific coast. By the late 1920s, mint oil prices were high, no doubt influenced by significant advertising campaigns fashioned by American manufacturers of mint-flavored confectionary, chewing gum and toothpaste. Not only was mint valued in the domestic market, but it was exported too. World War II slowed down exportation of mint but the increased need for menthol from American-grown peppermint for supplying the armed forces saw peppermint (along with spearmint) become an essential war crop.[^ref14]
-<var data-map title="World" data-center="41.376639,-103.166347" data-zoom="4"></var>
+<var data-map title="World" data-basemap="Esri_WorldPhysical" data-center="41.376639,-103.166347" data-zoom="4"></var>
 <!--<var title="Ohio" id="Q1397" data-fill="#2d862d" data-marker-symbol="leaf"></var>
 <var title="Michigan" id="Q1166" data-fill="#2d862d" data-marker-symbol="leaf"></var>
 <var title="Willamette" id="Q1703681" data-fill="#2d862d" data-marker-symbol="leaf"></var>
@@ -125,7 +125,7 @@ Over time, American mint oil production would spread westwards from the east coa
 
 
 The mint industry in Washington and Oregon would go on to develop in line with sophisticated mechanical planting techniques and harvesting equipment. More recently, Washington farmers have faced increasing competition from China and India, who appear able to supply the shifting consumer taste for a stronger mint flavor which cannot be easily provided by the peppermint species.
-<var data-map id="China-map" data-center="30.486795,88.475136" data-zoom="4"></var>
+<var data-map id="China-map" data-basemap="Esri_WorldPhysical" data-center="30.486795,88.475136" data-zoom="4"></var>
 <var data-map-layer
 title=""
 data-type="geojson"
@@ -141,12 +141,12 @@ The example of the mint market in British North American colonies and the early 
 
 Today, mint varieties are cultivated in many different parts of the world. Mint’s seemingly ‘cosmopolitan distribution’ means that its range extends across the world where there are appropriate habitats for it to flourish. Mints thrive when near water which means that lakes, rivers and even spaces in shade enable this fast-growing plant to be grown all year round. For example, wild mint ([*Mentha* arvensis](https://plants.jstor.org/stable/10.5555/al.ap.specimen.k000929997?searchUri=filter%3Dname%26so%3Dps_group_by_genus_species%2Basc%26Query%3DMentha%2Barvensis)) is cultivated on a huge scale in Brazil, China, Paraguay, Japan, Thailand, Angola and India.[^ref16] In this way, peppermint production in America, spreading across the breadth of the country over time, is a microcosm of the pattern of mint distribution across the world.
 <var data-primary="map"></var>
-<var data-map title="World" data-center="36.34,11.19" data-zoom="2"></var>
+<var data-map title="World" data-basemap="Esri_WorldPhysical" data-center="36.34,11.19" data-zoom="2"></var>
 <var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/globalmintdis.geojson data-active="true"></var>
 
 Mint is ubiquitous, and perhaps that is because it has remained relevant across time and space. Here, mint reveals something of the early difficulties of botanical exchange and naming, it speaks to the local and global movement of plants; it exposes changes and developments in medical thought and practices over time (the changing popularity of herbal remedies for example), and it continues to play a role in global consumer markets and advertising. Mint, in other words, will always be relevant for historical, cultural and geographical studies. And as Haides called the plant forth to ensure that Mintha would never be forgotten, we too are constantly reminded of this plant as we go about our daily lives.
 <var data-primary="image"></var>
-<var data-image id="Fuch mint" title="Menta or Mint, L.Fuchs, *De historia stirpium commentarii*, Wellcome Collection" data-url="https://upload.wikimedia.org/wikipedia/commons/1/15/L._Fuchs%2C_De_historia_stirpium_commentarii_Wellcome_L0013945.jpg" data-region="" data-fit=""></var>
+<var data-image id="Fuch mint" title="Menta or Mint, L. Fuchs, *De historia stirpium commentarii*, Wellcome Collection" data-url="https://upload.wikimedia.org/wikipedia/commons/1/15/L._Fuchs%2C_De_historia_stirpium_commentarii_Wellcome_L0013945.jpg" data-region="" data-fit=""></var>
 
 
 
