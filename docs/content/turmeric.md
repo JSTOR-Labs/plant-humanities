@@ -1,10 +1,13 @@
-[View](https://plant-humanities.app/essay?gdid=1vJMm6KkROw98wQILT8XKTk-l-2HZ5Yle)
 
 <var data-essay
 title="Turmeric"
 data-banner="https://images.nypl.org/index.php?id=1126115&t=w"
 data-layout="vtl"
-data-about="Q42562"></var>
+ata-num-maps="8"  
+data-num-images="6"  
+data-num-specimens="2"  
+data-num-primary-sources="11"
+data-about="Julia Fine"></var>
 
 
 <var title="Saffron" id="Q25434"></var>
@@ -22,6 +25,8 @@ data-about="Q42562"></var>
 <var title="Atharva Veda" id="Q236092"></var>
 <var title="Sushruta Samhita" id="Q1995239"></var>
 <var title="Berberis" id="Q158503" data-aliases="barbarie bark"></var>
+
+
 
 
 ## Curcuma longa: The “Herb of the Sun” 
