@@ -42,6 +42,7 @@
 <var title="Rembert Dodoens" data-scope="local" id="Q437466" ></var>
 <var title="Gros Michel banana" data-scope="local" id="Q1547451" data-aliases="Gros Michel" ></var>
 
+### Going bananas
 Everybody knows what a banana is. At least we think we do. Today, the banana is a ubiquitous and easy-to-recognize fruit that even shares the same name or sounds the same in many modern languages. Yet, despite the fact that you can identify the word for banana across cultures, the actual identification and classification of our modern-day banana is, to quote a popular idiom, “bananas.” It is a genetically modified mystery that continues to defy our system of plant taxonomy.
 <var data-scope="local" id="Q503"></var>
 <var data-primary="image"></var>
