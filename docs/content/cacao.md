@@ -1,11 +1,16 @@
 [View](https://plant-humanities.app/essay?gdid=15pnIRpyLcPkQzfF203pKpxvIYaskQfmK)
      
 <var data-essay
-     title="Cacao: An indigenous network and global commodity"
-     data-banner="https://upload.wikimedia.org/wikipedia/commons/3/31/Cacao_Nacional_Fino_de_Aroma.jpg"
-     data-layout="vtl"
-     data-about="Q42385"
-     data-debug="false"></var>
+title="Cacao: An indigenous network and global commodity"
+data-banner="https://upload.wikimedia.org/wikipedia/commons/3/31/Cacao_Nacional_Fino_de_Aroma.jpg"
+data-layout="vtl"
+data-num-plant-specimens="1"
+data-num-maps=""
+data-num-images=""
+data-num-primary-sources="14"
+data-author="Rebecca Friedel"
+data-about="Q42385"
+data-debug="false"></var>
  
 <var title="Seville" id="Q8717" data-fill="#92086D" data-marker-symbol="user"></var>
 <var title="Nicaragua" id="Q811" data-fill="#92086D" data-marker-symbol="user"></var>
@@ -44,8 +49,6 @@
 <var title="God L" id="Q12744014"></var>
 <var title="Hernán Cortés" id="Q7326" data-aliases="Hernán Cortés’"></var>
 <var title="Chocolate" id="Q195" data-aliases="xocoatl"></var>
-
-## Cacao: An indigenous network and global commodity
  
 ### Introduction
 
@@ -61,7 +64,6 @@ One of the most salient indigenous networks that colonial Europeans made efforts
 
 After contact, the  earliest  representations of cacao come from  a Mexica herbal known as  the  Badianus  manuscript, a series of elaborately painted plants with their associated  names  in Nahuatl  and  recipes for treating various ailments  written in Latin.  This herbal  was  completed  in the 1550s  by at least two  Nahua men,  Martín  de la Cruz (an indigenous nobleman and physician) and Juan  Badiano  (an instructor of Latin),  at a European-funded and -established  school, Colegio Santa Cruz  in Tlatelolco, Mexico. Now held by the National Institute of Anthropology and History in Mexico City, the manuscript has been reproduced in a diversity of ways since its original creation.[^ref1] In these created and recreated pieces, historically deep and broader indigenous ideologies surrounding _Theobroma cacao_ are captured.[^ref2]
 <var data-primary="image"></var>
- 
 <var data-image id="The Badianus Manuscript" title="The Badianus Manuscript" data-url="https://upload.wikimedia.org/wikipedia/commons/d/d8/Badianus_Codex%3B_photograph_of_open_book_Wellcome_L0021272.jpg" data-fit="cover"></var>
 <var data-image id="Colegio Santa Cruz in Tlatelolco, Mexico" title="Colegio Santa Cruz in Tlatelolco, Mexico with Mexica buildings in foreground" data-url="https://upload.wikimedia.org/wikipedia/commons/0/04/Tlatelolco_e_iglesia_de_Santiago_Tlatelolco%2C_M%C3%A9xico_D.F.%2C_M%C3%A9xico%2C_2013-10-16%2C_DD_25.JPG" data-fit="fill"></var>
 
@@ -87,11 +89,11 @@ In these Mexica recipes, the association of cacao with curing particular ailment
 <var data-image id="The Milpa Cycle" title="" data-url="https://jstor-labs.github.io/plant-humanities/images/MilpaCycle.png" data-fit="fill"></var>
 
 Ancient Maya leaders represented themselves and their gods as or in relation to this cycle and its  associated  plants  of importance, mainly cacao and maize, attempting to embody the power of the natural world. For example, we see the  ancient Maya  depict ancestors of rulers  as cacao trees  growing from the sarcophagi of dead  ‘maize god’  rulers at the site of Palenque  and  cacao trees anthropomorphized  as deities on intricately carved vessels. By invoking this cycle in representing themselves and deities, Maya political leaders were giving precedence to the subsistence practices, ideologies, and plants they incorporated.  Given this ancient association of cacao with the power of the natural world, it is not surprising to see cacao as an ingredient in the Badianus’ recipes for curing fear and malaise, particularly for political leaders.
-<var data-image-viewer></var> 
-<var data-image id="Early Classic Maya Bowl with Anthropomorphic Cacao Trees, curated by Dumbarton Oaks Museum" title="Early Classic Maya Bowl with Anthropomorphic Cacao Trees" data-url="https://jstor-labs.github.io/plant-humanities/images/PC_B_208_S1.TIF" data-fit="fill"></var> 
-<var data-image id="Pakal's sarcophagus detail with ancestors depicted as fruit trees; see Lady Zac-Kuk (Pakal's mother) as a cacao tree" title="Pakal's sarcophagus detail with ancestors depicted as fruit trees" data-url="https://jstor-labs.github.io/plant-humanities/images/PacalSarc.png" data-fit="fill"></var> 
+<var data-image-viewer></var>
+<var data-image id="Early Classic Maya Bowl with Anthropomorphic Cacao Trees, curated by Dumbarton Oaks Museum" title="Early Classic Maya Bowl with Anthropomorphic Cacao Trees" data-url="https://jstor-labs.github.io/plant-humanities/images/CacaoVessel.jpg" data-fit="fill"></var>
+<var data-image id="Pakal's sarcophagus detail with ancestors depicted as fruit trees; see Lady Zac-Kuk (Pakal's mother) as a cacao tree" title="Pakal's sarcophagus detail with ancestors depicted as fruit trees" data-url="https://jstor-labs.github.io/plant-humanities/images/PakalSarc.png" data-fit="fill"></var>
 
-The presence of cacao in a remedy for hurt feet within the Badianus also wittily illustrates the realities of  indigenous  Mesoamerican lifeways. Without beasts of burden, the  long-distance transport of cacao from the neotropics to Tenochtitlan, the Mexica capital, would have certainly caused one’s feet to ache.  For example, in  [Hernán Cortés’s conquistador accounts](https://iiif.lib.harvard.edu/manifests/view/drs:427885396$229i), several regions are recognized for their tribute of cacao to the Mexica empire including  Huauthla,  Soconusco, and  Cotaxtla, all of which are hundreds of miles from Tenochtitlan.[^ref8]
+The presence of cacao in a remedy for hurt feet within the Badianus also wittily illustrates the realities of  indigenous  Mesoamerican lifeways. Without beasts of burden, the  long-distance transport of cacao from the neotropics to Tenochtitlan, the Mexica capital, would have certainly caused one’s feet to ache.  For example, in [Hernán Cortés’s conquistador accounts](https://iiif.lib.harvard.edu/manifests/view/drs:427885396$229i), several regions are recognized for their tribute of cacao to the Mexica empire including  Huauthla,  Soconusco, and  Cotaxtla, all of which are hundreds of miles from Tenochtitlan.[^ref8]
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5" data-hide-labels="true" data-basemap="Esri_WorldPhysical"></var>
  <var data-map-layer
      title="Central American Neotropics"
@@ -148,7 +150,6 @@ Ultimately, the ideological importance of cacao within political, social, and ec
 ### European Accounts
 
 To fulfill colonial agendas, the Spanish and other Europeans found themselves in need of understanding and participating in the indigenous networks and ideologies of the Americas. This need initially gave a measure of agency to  the  native  perspective, as reflected through the creation of texts like the Badianus.  With the continued subjugation  and conversion of indigenous populations, we eventually lose access to this  emic  native perspective in European-sponsored texts of the colonial  period. However, we gain access to knowledge of New World plants through European-perspective  manuscripts from the late 16th  and early 17th  centuries.  Cacao features in several of these, but not in some one might expect.
-<var data-image-viewer></var>
 <var data-image id="Rivera Mural" title="Diego Rivera Mural depicting an Auto de Fe of indigenous literature and idols" data-url="https://upload.wikimedia.org/wikipedia/commons/9/9d/Murales_Rivera_-Treppenhaus_9_B%C3%Bcherverbrennung.jpg"></var>
 
 At first thought, it is surprising  that cacao does  not  appear  in  any  of  the  [several herbals on New World plants by Nicolás  Monardes](https://bibdigital.rjb.csic.es/idurl/1/13636). However, since  Monardes  was based in Seville and  never left the  hemisphere, he was only aware of  plants  that would have reached  him  from across the ocean via his network of fellow naturalists. He also seems to have only reported the plants he was able to propagate in his garden or use for himself,  as he  repeatedly  claims  his findings are based on real  and personal  observations. Given these facts, it is unlikely that cacao  seeds would have sustained their reproductive capacity after a voyage across the Atlantic, let alone propagation in the drier Mediterranean climate of Seville.
