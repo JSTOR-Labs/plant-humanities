@@ -90,12 +90,10 @@ Ancient Maya leaders represented themselves and their gods as or in relation to 
 The presence of cacao in a remedy for hurt feet within the Badianus also wittily illustrates the realities of  indigenous  Mesoamerican lifeways. Without beasts of burden, the  long-distance transport of cacao from the neotropics to Tenochtitlan, the Mexica capital, would have certainly caused one’s feet to ache.  For example, in [Hernán Cortés’s conquistador accounts](https://iiif.lib.harvard.edu/manifests/view/drs:427885396$229i), several regions are recognized for their tribute of cacao to the Mexica empire including  Huauthla,  Soconusco, and  Cotaxtla, all of which are hundreds of miles from Tenochtitlan.[^ref8]
 <var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5" data-hide-labels="true" data-basemap="Esri_WorldPhysical"></var>
  <var data-map-layer
-     title="Central American Neotropics"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson"
      data-active="true"></var>
      <var data-map-layer
-     title="Mexica: ~1325 - 1519 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
      data-active="true"></var>
@@ -106,34 +104,29 @@ We learn from many other early colonial documents that roasted cacao beans were 
 <var data-image id="Maya God L vessel" title="Maya God L with cacao symbolism seated in merchant regalia" data-url="https://jstor-labs.github.io/plant-humanities/images/GodLVessel.jpg" data-fit="fill"></var>
 
 Ultimately, the ideological importance of cacao within political, social, and economic realms of these cultures serves as support for the idea of a ritual economy, where the production and exchange of goods were intimately connected to the  ideological realm.[^ref10] These archaeological data regarding cacao indicate that individuals and polities would have sought control of its associated production and exchange networks to garner power, perpetuating its uses and ideologies farther and farther from their neotropical origins.  It is no wonder that ancient rulers invoked cacao in their ritual and political exchanges and ceremonies, which often included the imbibing of cacao beverages or the  gifting of cacao vessels.[^ref11][^ref12] Eventually, these practices created a taste for cacao across an elaborate network of Mesoamerican polities, maintaining the high status and importance of cacao-producing regions during ancient and historic periods.[^ref13][^ref14] Upon European arrival, these networks of production and trade as well as their associated ideologies and practices were well-established across the Americas.
-<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5" basemap="Esri_WorldPhysical"></var>
+<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5.5" data-hide-labels="true" basemap="Esri_WorldPhysical"></var>
 <var data-map-layer
      title="Mesoamerica"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mesoamerica.geojson"
 	data-active="true"></var>
 <var data-map-layer
-     title="Central American Neotropics"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson"
      data-active="true"></var>
 <var data-map-layer
-     title="Mexica: ~1325 - 1519 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson"
      data-active="true"></var>
 <var data-map-layer
-     title="Maya: 2000 BCE - 1697 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Maya.geojson"
      data-active="true"></var>
 <var data-map-layer
-     title="Olmec: ~1400 - ~350 BCE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Olmec.geojson"
      data-active="true"></var>
 <var data-map-layer
-     title="Teotihuacan: ~100 BCE - 550 CE"
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Teo.geojson"
 	data-active="true"></var>
