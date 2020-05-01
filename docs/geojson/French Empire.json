@@ -6739,7 +6739,7 @@
       "type": "Feature",
       "properties": {
         "fill-opacity": 0.8,
-        "stroke": "#000000",
+        "stroke": "null",
         "stroke-width": 0,
         "stroke-opacity": 0,
         "label": "",
