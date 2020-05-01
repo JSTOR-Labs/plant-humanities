@@ -4,10 +4,10 @@
 	title="Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy"
 	data-banner="https://upload.wikimedia.org/wikipedia/commons/0/0f/Banana_Maria_Sibylla_Merian_1705_plate_XII.png"  
 	data-layout="vtl"
-	data-num-locations="14"
-	data-num-overlays="15"
-	data-num-images="8"
-	data-num-primary-sources="7"
+	data-num-maps="13"
+	data-num-images="11"
+	data-num-specimens="0"
+	data-num-primary-sources="6"
 	data-author="Ashley Buchanan, PhD"></var>
 
 <var title="Hartekamp" id="Q18771183"></var>
@@ -59,7 +59,6 @@ Prior to domestication, wild banana fruits were incredibly seedy and difficult t
 <var data-scope="local" id="Q1383946"></var>
 <var data-primary="image"></var>
 <var data-image id="# Domestication of the banana" title="An edible and seedless Cavendish banana next to its ancestor, the wild species Musa acuminata." data-fit="cover" data-url="http://www.musarama.org/upload/high/domestication-of-the-banana.jpg" data-region=""></var>
-
 
 Selecting for edibility and propagating parthenocarpic bananas was the first step in the process of banana domestication. The next phase began as different human populations migrated, bringing their previously isolated banana species and subspecies along the way. Like humans, wild bananas are diploids: they have two sets of chromosomes and receive one set from each “parent.” Thanks to human selection, migration, and exchange, however, triploid banana hybrids were created. Hybridizing distant banana relatives produced plants that inherited three sets of chromosomes. This rendered the progeny plant sterile and ensured it would produce fleshy, seedless fruits. In addition to being sterile, triploid banana hybrids, thanks to their extra chromosomes, could still mutate. Further diversity of the species was produced as farmers selected and propagated for desirable mutations such as a starchy or sweet pulp. The genetic diversity of triploid bananas and their environmental adaptability ensured not only the survival of sterile banana hybrids, but also their ability to spread across vast areas and cultures.[^ref1]
 <var data-primary="image"></var>
