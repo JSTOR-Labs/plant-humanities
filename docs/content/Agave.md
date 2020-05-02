@@ -45,7 +45,7 @@ Clusius was at the center of a vibrant international network of naturalists and 
 
 Exchanging plant specimens and botanical knowledge was about more than solidifying friendship with like-minded individuals. Clusius and his network, by virtue of their letters, plant cultivation, and publications, positioned themselves as experts and established the means through which botanic practices were formalized and later institutionalized. In 1593, Clusius moved to Leiden to develop and oversee the city’s new botanical garden – the very same botanical garden where his _Aloe americana_ would finally bloom in 1698. While the agave took nearly a century to bloom in Leiden, the plant thrived in the hotter and dryer climate of Italy. First cultivated in the botanical gardens of Padua and Pisa, agave reached the court gardens of Rome, Venice, Florence, and Avignon by the late sixteenth century. In Italy, American agave remained an object of fascination throughout the seventeenth century and witnessing its rare flowering was an occasion worthy of commemorating. Eventually agave plants would escape the boundaries of their cultivated gardens in Italy. Today, in addition to remaining popular ornamental plants, agaves grow widely throughout Italy and southern Europe.
 <var data-primary="map"></var>
-<var data-map title="# Hortus Botanicus Leiden" data-center="Q2468128" data-basemap="Esri_WorldPhysical" data-zoom="6.5"></var>
+<var data-map title="Hortus Botanicus Leiden" data-center="Q2468128" data-basemap="Esri_WorldPhysical" data-zoom="6.5"></var>
 
 ### All Tequilas are Mescals, but not all Mescals are Tequilas
 
@@ -59,6 +59,8 @@ http://www.banderasnews.com/1310/images/roastingagave.jpg
 ### Tequila and National Identity
 
 Today, tequila is the national drink of Mexico. Since its creation, and perhaps because of its cultural hybridity, tequila has become a driving force of Mexican identity. Following the Mexican Revolution, national ideology embraced cantina culture and the hyper-masculine “machismo” ethos tequila came to represent. Once industrial distillation was introduced to Jalisco, Mexico, _mescalaros_ (agave roasters) were suddenly promoted from menial laborers to alchemist_._ Tequila cottage industry in Jalisco elevated entire sections of mestizo populations. By 1970, tequila was an international commodity and its export has more than doubled since, with almost two-thirds of tequila exported being consumed by Canada and the US.
+<var data-primary="map"></var>
+<var data-map title="Jalisco" data-center="Q13160" data-basemap="Esri_WorldPhysical" data-zoom="4"></var>
 
 ### The Future of Agave
 
