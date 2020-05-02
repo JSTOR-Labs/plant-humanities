@@ -12,6 +12,19 @@
 
 <var title="Hortus Botanicus Leiden" id="Q2468128" data-aliases="city’s new botanical garden"></var>
 <var title="Jalisco" id="Q13160"></var>
+<var title="Agave" id="Q155874"></var>
+<var title="monocots" id="Q78961"></var>
+<var title="Mexica" id="Q3307681"></var>
+<var title="Nahuatl" id="Q13300"></var>
+<var title="Pulque" id="Q511700"></var>
+<var title="Viceroyalty of New Spain" id="Q170603"></var>
+<var title="human sacrifice in Aztec culture" id="Q583349" data-aliases="Aztec gladiatorial sacrifice"></var>
+<var title="Carolus Clusius" id="Q333372"></var>
+<var title="Toribio de Benavente Motolinia" id="Q532539"></var>
+<var title="Orto botanico di Pisa" id="Q894670" data-alias="Pisa"></var>
+<var data-scope="local" id="Q457191"></var>
+<var title="Mestizo" id="Q106713" data-aliases="mestizos"></var>
+
 
 ## An Ancient Plant with an Intoxicating History
 
@@ -30,7 +43,7 @@ In seventeenth-century Leiden, the _Agave americana_ certainly earned its nickna
 ### A Miracle Plant
 For centuries agave species provided spiritual and physical sustenance to the inhabitants of the semiarid lands of North and Central America. Given its numerous cultural uses, it is not surprising that the Nahuatl term for agaves, “metl,” implied that they were a miracle plant.[^ref3] In his chronicle of the indigenous peoples of New Spain, the Franciscan missionary, Toribio de Benavente Motolinia, described the many uses of agave, or “maguey” as it was locally known. He observed that the fibers from the leaves were used for sewing as well as making cords, robes, cables, clothing, and footwear. The plant’s sharp spines were used as punches, nails, or tacks. The leaves were dried and used for general building materials, fires, and paper. Agaves are also edible. Montolinia remarked that both the fibrous leaves and sap of the plant were palatable and nutritious. He also noted that honey, vinegar, sugar, and medicinal balsams were made from the abundant sap. Finally, and perhaps most significantly, the fermented sap of the maguey was a beverage that, according to Montolinia, was “wholesome and very nutritious” when consumed in moderation.[^ref4]
 <var data-primary="image"></var>
-<var data-image id="Maguey" title="Florentine Codex, Book 11: treating a head wound" data-url="https://www.mexicolore.co.uk/images-ans/ans_36_01_2.jpg" data-region=""></var>
+<var data-image id="Florentine Codex image" title="Florentine Codex, Book 11: treating a head wound" data-url="https://www.mexicolore.co.uk/images-ans/ans_36_01_2.jpg" data-region=""></var>
 
 ### The Sacred Drink of the Maya and Nahua Peoples
 
