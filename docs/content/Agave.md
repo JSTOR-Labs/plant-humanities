@@ -35,14 +35,11 @@ Long before the arrival of Europeans like Montolinia, pulque, the fermented sap 
 <var data-primary="image"></var>
 <var data-image id="Agave sacrifice" title="Codice Magliabechiano" data-url="https://www.mexicolore.co.uk/images-3/358_02_2.jpg" data-region=""></var>
 <var data-image id="pulque" title="Mexica God drinking pulque, Codex Magliabechiano" data-url="http://losviajados.com/wp-content/uploads/2017/01/pulque-ceremazteca-codice.jpg" data-region=""></var>
-<var data-image id="pulque 2" title="Diego Rivera, _Tlachiqueros_" data-url="https://66.media.tumblr.com/3334775915bd1eab9a7aa7e787708091/tumblr_nzbju0LvFn1ssxmhoo1_1280.jpg" data-region=""></var>
 
 The association of heart sacrifice with pulque extended beyond metaphor. Just as the heart of man had to be sacrificed to sustain the gods, the heart of the maguey (or agave plant) had to be sacrificed to produce pulque and sustain man. The making of pulque required the death of the plant. As the plant neared maturity, the “cajete,” center (or heart), of the plant swelled and elongated as the plant gathered stored sugar to send up the single flower stalk. Accessing the stored sap of the maguey required the excising of this stalk. This created a cavity within the center of the plant where the maguey sap, known as “aguamiel” (honey water), accumulated. The sap was harvested daily, and the sides of the cavity scraped to facilitate the flow of the sap, which occurred for 3 to 6 months until the plant died. Once collected, naturally occurring microorganisms continued the fermentation process.
 <var data-primary="image"></var>
-<var data-image id="Agave sacrifice" title="Codice Magliabechiano" data-url="https://www.mexicolore.co.uk/images-3/358_02_2.jpg" data-region=""></var>
-<var data-image id="pulque" title="Mexica God drinking pulque" data-url="http://losviajados.com/wp-content/uploads/2017/01/pulque-ceremazteca-codice.jpg" data-region=""></var>
-<var data-image id="pulque" title="Mexica God drinking pulque" data-url="https://66.media.tumblr.com/3334775915bd1eab9a7aa7e787708091/tumblr_nzbju0LvFn1ssxmhoo1_1280.jpg" data-region=""></var>
-<var data-image id="pulque" title="God of pulque, Codice Magliabechiano" data-url="https://cdn.historycollection.co/wp-content/uploads/2017/04/god-of-pulque.jpg" data-region=""></var>
+<var data-image id="pulque 2" title="Diego Rivera, _Tlachiqueros_" data-url="https://66.media.tumblr.com/3334775915bd1eab9a7aa7e787708091/tumblr_nzbju0LvFn1ssxmhoo1_1280.jpg" data-region=""></var>
+
 
 ### The American Aloe
 
