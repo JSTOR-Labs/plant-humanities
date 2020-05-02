@@ -16,11 +16,11 @@
 ## An Ancient Plant with an Intoxicating History
 
 ### The Big Bloom
-1698 was a special year for the Leiden botanical garden. After 96 long years, its exotic “Aloe Americana” (or _Agave americana_ as it is classified today) bloomed for the first time. To commemorate the marvelous event, the Hortus commissioned and illustrated print of the plant. A surviving poster-sized print, recently added to Dumbarton Oaks’ Rare Book Collection, reveals sixteenth and seventeenth century European botanists’ fascination with the so-called “century plant” and provides a lens to explore the history of agave – a plant that shaped human societies across three continents.
+1698 was a special year for the Leiden botanical garden. After 96 long years, its exotic “Aloe Americana” (or _Agave americana_ as it is classified today) bloomed for the first time. To commemorate the marvelous event, the Hortus commissioned and illustrated print of the plant.[^ref1] A surviving poster-sized print, recently added to Dumbarton Oaks’ Rare Book Collection, reveals sixteenth and seventeenth century European botanists’ fascination with the so-called “century plant” and provides a lens to explore the history of agave – a plant that shaped human societies across three continents.
 <var data-primary="image"></var>
 <var data-image id="Agave Poster" title="Aloë Americana: heeft gebloeid in des universiteits Kruyd-Hof tot Leiden, 1698, Rare Book Collection, Dumbarton Oaks" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Aloe_Americana_Leiden_DO.jpg" data-region=""></var>
 
-In seventeenth-century Leiden, the _Agave americana_ certainly earned its nickname, taking almost a century to bloom. In its natural climate, however, an _Agave americana_ can grow upwards of twenty feet and typically blooms every 10 to 25 years. _Agave_ is a genus of monocots with some 200 species indigenous to Central America, the Southwestern US, and in some tropical areas of South America. Distinguished by their strong, fleshy leaves, agaves grow slowly and require little water to survive, making them a vital resource in semiarid climates. Although best known today as the plant from which tequila is made, agave plants played a central role in ancient Amerindian religion and culture for centuries, encouraged a botanical revolution in Europe, helped form Mexican identity in the nineteenth and twentieth centuries, and offer solutions to present-day environmental challenges.
+In seventeenth-century Leiden, the _Agave americana_ certainly earned its nickname, taking almost a century to bloom. In its natural climate, however, an _Agave americana_ can grow upwards of twenty feet and typically blooms every 10 to 25 years.[^ref2] _Agave_ is a genus of monocots with some 200 species indigenous to Central America, the Southwestern US, and in some tropical areas of South America. Distinguished by their strong, fleshy leaves, agaves grow slowly and require little water to survive, making them a vital resource in semiarid climates. Although best known today as the plant from which tequila is made, agave plants played a central role in ancient Amerindian religion and culture for centuries, encouraged a botanical revolution in Europe, helped form Mexican identity in the nineteenth and twentieth centuries, and offer solutions to present-day environmental challenges.
 <var data-map title="Agave americana distribution" data-center="25.503945, -102.834000" data-basemap="Esri_WorldPhysical" data-zoom="4"></var>
 <var data-map-layer
 	data-type="geojson"
@@ -74,36 +74,36 @@ Today, tequila is the national drink of Mexico. Since its creation, and perhaps 
 ### The Future of Agave
 
 Beyond producing one of North America’s favorite spirits, agave plants, just as they have for centuries, might help human societies survive in the face of global warming. Recent scientific studies have shown that many agave species can actually benefit from the increases in temperature and atmospheric CO2 levels accompanying global climate change. More importantly, agave plants have the ability to capture harmful CO2 and store atmospheric carbon dioxide or other forms of carbon long-term, which can mitigate or defer global warming. Finally, emerging research suggests that agave plants’ ability to survive in arid and semiarid climates make them a viable biofuel feedstock, in the same way corn, sugarcane, soybeans are used to produce ethanol. This is particularly important since approximately one-fifth of the earth’s climate is semiarid. Growing biomass feedstocks on land previously unsuitable for food crops, like corn and soybeans, could be a sustainable answer to increasing demands for renewable fuels that do not conflict with food and feed production.
+<var data-primary="image"></var>
+<var data-image id="Agave field" title="Agave as biofuel" data-url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Agave-Fields.jpg" data-region=""></var>
 
 ----------
-van Uffelen, Gerda & Kessler, P.J.A. _425 years Hortus botanicus Leiden_, 2015, pg. 32-33.
+[^ref1]: van Uffelen, Gerda & Kessler, P.J.A. _425 years Hortus botanicus Leiden_, 2015, pg. 32-33.
 
-Gentry, Howard Scott. _Agaves of Continental North America_. Tucson, Ariz.: University of Arizona Press, 1982.
+[^ref2]: Gentry, Howard Scott. _Agaves of Continental North America_. Tucson, Ariz.: University of Arizona Press, 1982.
 
-Gaytán, Marie Sarita. _¡̕Tequila!_: The Spirit of Mexico. Stanford, California: Stanford University Press, 2014, pg 5.
+[^ref3]: Gaytán, Marie Sarita. _¡̕Tequila!_: The Spirit of Mexico. Stanford, California: Stanford University Press, 2014, pg 5.
 
-Motolinía, Toribio. _History of the Indians of New Spain_. Publications of the Academy of American Franciscan History. Documentary Series; 1. Washington: Academy of American Franciscan History, 1951, Chapter XXXI.
+[^ref4]: Motolinía, Toribio. _History of the Indians of New Spain_. Publications of the Academy of American Franciscan History. Documentary Series; 1. Washington: Academy of American Franciscan History, 1951, Chapter XXXI.
 
-James M. Córdova (2015) “Drinking the fifth cup: notes on the drunken Indian
+[^ref5]: James M. Córdova (2015) “Drinking the fifth cup: notes on the drunken Indian image in colonial Mexico,” Word & Image, 31:1, 1-18, DOI: 10.1080/02666286.2014.927210
 
-image in colonial Mexico,” Word & Image, 31:1, 1-18, DOI: 10.1080/02666286.2014.927210
+[^ref6]: Henderson, Lucia. “Blood, Water, Vomit, and Wine,” Chicago Maya Society. _Mesoamerican Voices: Journal of the Chicago Maya Society._ Vol. 3, 2018, pgs. 64-67.
 
-Henderson, Lucia. “Blood, Water, Vomit, and Wine,” Chicago Maya Society. _Mesoamerican Voices: Journal of the Chicago Maya Society._ Vol. 3, 2018, pgs. 64-67.
+[^ref7]: Escalante, A., López Soto, D. R., Velázquez Gutiérrez, J. E., Giles-Gómez, M., Bolívar, F., & López-Munguía, A. (2016). Pulque, a Traditional Mexican Alcoholic Fermented Beverage: Historical, Microbiological, and Technical Aspects. _Frontiers in microbiology_, _7_, 1026. doi:10.3389/fmicb.2016.01026
 
-Escalante, A., López Soto, D. R., Velázquez Gutiérrez, J. E., Giles-Gómez, M., Bolívar, F., & López-Munguía, A. (2016). Pulque, a Traditional Mexican Alcoholic Fermented Beverage: Historical, Microbiological, and Technical Aspects. _Frontiers in microbiology_, _7_, 1026. doi:10.3389/fmicb.2016.01026
+[^ref8]: Clusius, _Rariorum aliquot stirpium per Hispanias observatarum historia_, Antverpiae: Ex officina Christophori Plantinus ...,1576. Accessed via BHL.
 
-Clusius, _Rariorum aliquot stirpium per Hispanias observatarum historia_, Antverpiae: Ex officina Christophori Plantinus ...,1576. Accessed via BHL.
+[^ref9]: Camerarius, _Hortus Medicus Et Philosophicus_, Feyerabend, 1588
 
-Camerarius, _Hortus Medicus Et Philosophicus_, Feyerabend, 1588
+[^ref10]:  Almási, Gábor, _The Uses of Humanism: Johannes Sambucus (1531-1584), Andreas Dudith (1533-1589), and the Republic of Letters in East Central Europe_. Brill's Studies in Intellectual History, BRILL, 2009.
 
- Almási, Gábor, _The Uses of Humanism: Johannes Sambucus (1531-1584), Andreas Dudith (1533-1589), and the Republic of Letters in East Central Europe_. Brill's Studies in Intellectual History, BRILL, 2009.
+[^ref11]: _Breve ragguaglio di Giambattista Scarella intorno al fiore dell' Aloe Americana_, Conzatti, Padova, 1710.
 
-_Breve ragguaglio di Giambattista Scarella intorno al fiore dell' Aloe Americana_, Conzatti, Padova, 1710.
+[^ref12]: Gaytán, Marie Sarita. _¡̕Tequila!_, pgs. 8 – 14.
 
-Gaytán, Marie Sarita. _¡̕Tequila!_, pgs. 8 – 14.
+[^ref13]: Ibid., pgs. 14 – 15.
 
-Ibid., pgs. 14 – 15.
+[^ref14]: Garcia‐Moya, E., Romero‐Manzanares, A. and Nobel, P. S. (2011), Highlights for _Agave_ Productivity. GCB Bioenergy, 3: 4-14. doi:[10.1111/j.1757-1707.2010.01078.x](https://doi.org/10.1111/j.1757-1707.2010.01078.x)
 
-Garcia‐Moya, E., Romero‐Manzanares, A. and Nobel, P. S. (2011), Highlights for _Agave_ Productivity. GCB Bioenergy, 3: 4-14. doi:[10.1111/j.1757-1707.2010.01078.x](https://doi.org/10.1111/j.1757-1707.2010.01078.x)
-
-David, Sarah C., Frank G. Dohleman, and Stephen P. Long. (2010). The global potential for Agave as a biofuel feedstock. GCB Bioenergy 3, 68–78, doi:10.1111/j.17571707.2010.01077.
+[^ref15]: David, Sarah C., Frank G. Dohleman, and Stephen P. Long. (2010). The global potential for Agave as a biofuel feedstock. GCB Bioenergy 3, 68–78, doi:10.1111/j.17571707.2010.01077.
