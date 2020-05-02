@@ -4,10 +4,10 @@
 	title="Agave"
 	data-banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gc29_agave_americana.jpg/1920px-Gc29_agave_americana.jpg"
 	data-layout="vtl"
-	data-num-maps="13"
-	data-num-images="11"
+	data-num-maps="3"
+	data-num-images="8"
 	data-num-specimens="0"
-	data-num-primary-sources="6"
+	data-num-primary-sources="3"
 	data-author="Ashley Buchanan, PhD"></var>
 
 <var title="Hortus Botanicus Leiden" id="Q2468128" data-aliases="city’s new botanical garden"></var>
