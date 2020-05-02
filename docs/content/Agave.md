@@ -69,7 +69,7 @@ While the agave in Europe was an ornamental plant that displayed botanical knowl
 
 Today, tequila is the national drink of Mexico. Since its creation, and perhaps because of its cultural hybridity, tequila has become a driving force of Mexican identity. Following the Mexican Revolution, national ideology embraced cantina culture and the hyper-masculine “machismo” ethos tequila came to represent. Once industrial distillation was introduced to Jalisco, Mexico, _mescalaros_ (agave roasters) were suddenly promoted from menial laborers to alchemist_._ Tequila cottage industry in Jalisco elevated entire sections of mestizo populations. By 1970, tequila was an international commodity and its export has more than doubled since, with almost two-thirds of tequila exported being consumed by Canada and the US.
 <var data-primary="map"></var>
-<var data-map title="Jalisco" data-center="Q13160" data-basemap="Esri_WorldPhysical" data-zoom="4"></var>
+<var data-map title="Jalisco" data-center="Q13160" data-basemap="Esri_WorldPhysical" data-zoom="5"></var>
 
 ### The Future of Agave
 
