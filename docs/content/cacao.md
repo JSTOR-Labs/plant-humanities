@@ -104,7 +104,7 @@ We learn from many other early colonial documents that roasted cacao beans were 
 <var data-image id="Maya God L vessel" title="Maya God L with cacao symbolism seated in merchant regalia" data-url="https://jstor-labs.github.io/plant-humanities/images/GodLVessel.jpg" data-fit="fill"></var>
 
 Ultimately, the ideological importance of cacao within political, social, and economic realms of these cultures serves as support for the idea of a ritual economy, where the production and exchange of goods were intimately connected to the  ideological realm.[^ref10] These archaeological data regarding cacao indicate that individuals and polities would have sought control of its associated production and exchange networks to garner power, perpetuating its uses and ideologies farther and farther from their neotropical origins.  It is no wonder that ancient rulers invoked cacao in their ritual and political exchanges and ceremonies, which often included the imbibing of cacao beverages or the  gifting of cacao vessels.[^ref11][^ref12] Eventually, these practices created a taste for cacao across an elaborate network of Mesoamerican polities, maintaining the high status and importance of cacao-producing regions during ancient and historic periods.[^ref13][^ref14] Upon European arrival, these networks of production and trade as well as their associated ideologies and practices were well-established across the Americas.
-<var data-map title="World" data-center="17.369817, -94.669363" data-zoom="6" data-hide-labels="true" basemap="Esri_WorldPhysical"></var>
+<var data-map title="World" data-center="17.369817, -94.669363" data-zoom="7" data-hide-labels="true" basemap="Esri_WorldPhysical"></var>
 <var data-map-layer
      title="Mesoamerica"
      data-type="geojson"
