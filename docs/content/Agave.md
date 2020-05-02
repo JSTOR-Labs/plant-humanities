@@ -21,7 +21,7 @@
 <var title="human sacrifice in Aztec culture" id="Q583349" data-aliases="Aztec gladiatorial sacrifice"></var>
 <var title="Carolus Clusius" id="Q333372"></var>
 <var title="Toribio de Benavente Motolinia" id="Q532539"></var>
-<var title="Orto botanico di Pisa" id="Q894670" data-alias="Pisa"></var>
+<var title="Padova botanic garden" id="Q598892" data-alias="Padua"></var>
 <var data-scope="local" id="Q457191"></var>
 <var title="Mestizo" id="Q106713" data-aliases="mestizos"></var>
 <var title="global warming" id="Q7942"></var>
