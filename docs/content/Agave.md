@@ -10,6 +10,8 @@
 	data-num-primary-sources="6"
 	data-author="Ashley Buchanan, PhD"></var>
 
+<var title="Hortus Botanicus Leiden" id="Q2468128" data-aliases="city’s new botanical garden"></var>
+
 ## An Ancient Plant with an Intoxicating History
 
 ### The Big Bloom
