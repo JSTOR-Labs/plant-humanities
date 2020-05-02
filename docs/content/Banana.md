@@ -165,7 +165,7 @@ By the seventeenth century, bananas had spread throughout the Caribbean and the 
 
 Even Linnaeus had to rely on the garden and hothouse of the wealthy financier and director of the Dutch East India Company, George Clifford (1685-1760), to see and study a live banana plant. At his estate in Hartekamp, Holland, and with the assistance of Linnaeus, Clifford successfully flowered a hybrid of _Musa acuminate_ and _Musa balbisiana_. The successful flowering and subsequent fruiting of the rare and exotic banana plant was so momentous that Linnaeus wrote a treatise on the plant, _[Musa Cliffortiana](http://linnean-online.org/120150/)_, published in 1736.
 <var data-primary="map"></var>
-<var data-map title="Hartekamp, Holland" data-center="Q18771183" data-zoom="6.5"></var>
+<var data-map title="Hartekamp, Holland" data-center="Q18771183" data-basemap="Esri_WorldPhysical" data-zoom="6.5"></var>
 
 That same year marked the arrival of the German botanical artist Georg Ehret to Hartekamp. Ehret would provide the illustrations of Clifford’s flowering banana plant for the treatise as well as go on to diagram Linnaeus’s new plant classification system. It was also at the direction of Linnaeus, Ehret began adding details of the plant’s reproductive structures, or flowers, creating a new standard for botanical illustrations.
 <var data-primary="image"></var>
