@@ -11,24 +11,50 @@ In seventeenth-century Leiden, the _Agave americana_ certainly earned its nickna
 
 ### A Miracle Plant
 For centuries agave species provided spiritual and physical sustenance to the inhabitants of the semiarid lands of North and Central America. Given its numerous cultural uses, it is not surprising that the Nahuatl term for agaves, “metl,” implied that they were a miracle plant. In his chronicle of the indigenous peoples of New Spain, the Franciscan missionary, Toribio de Benavente Motolinia, described the many uses of agave, or “maguey” as it was locally known. He observed that the fibers from the leaves were used for sewing as well as making cords, robes, cables, clothing, and footwear. The plant’s sharp spines were used as punches, nails, or tacks. The leaves were dried and used for general building materials, fires, and paper. Agaves are also edible. Montolinia remarked that both the fibrous leaves and sap of the plant were palatable and nutritious. He also noted that honey, vinegar, sugar, and medicinal balsams were made from the abundant sap. Finally, and perhaps most significantly, the fermented sap of the maguey was a beverage that, according to Montolinia, was “wholesome and very nutritious” when consumed in moderation.
+<var data-primary="image"></var>
+<var data-image id="Maguey" title="Florentine Codex, Book 11: treating a head wound" data-url="https://www.mexicolore.co.uk/images-ans/ans_36_01_2.jpg" data-region=""></var>
 
 ### The Sacred Drink of the Maya and Nahua Peoples
 
 Long before the arrival of Europeans like Montolinia, pulque, the fermented sap of various agave species, played a central role in central Mexican cultures and religions. In pre-conquest Mesoamerican sources, pulque was a sacred drink closely associated with the cosmos and the gods. In both Maya and Mexica (or Aztec) rituals, pulque symbolized water and blood. Like water, pulque could purify the body. Drinking to point of vomiting purged the body and provided a cleansed state, which was necessary for communication with the Gods. Pulque also played a role in ritual Aztec gladiatorial sacrifice. Before the battle, and inevitable sacrifice that followed, the captive drank pulque through a straw. Following the battle, the sacrificial captive’s heart was excised and the pulque straw was placed in the captive’s blood-filled chest cavity, equating blood with pulque.
+<var data-primary="image"></var>
+<var data-image id="Agave sacrifice" title="Codice Magliabechiano" data-url="https://www.mexicolore.co.uk/images-3/358_02_2.jpg" data-region=""></var>
+<var data-image id="pulque" title="Mexica God drinking pulque, Codex Magliabechiano" data-url="http://losviajados.com/wp-content/uploads/2017/01/pulque-ceremazteca-codice.jpg" data-region=""></var>
+<var data-image id="pulque 2" title="Diego Rivera, _Tlachiqueros_" data-url="https://66.media.tumblr.com/3334775915bd1eab9a7aa7e787708091/tumblr_nzbju0LvFn1ssxmhoo1_1280.jpg" data-region=""></var>
 
 The association of heart sacrifice with pulque extended beyond metaphor. Just as the heart of man had to be sacrificed to sustain the gods, the heart of the maguey (or agave plant) had to be sacrificed to produce pulque and sustain man. The making of pulque required the death of the plant. As the plant neared maturity, the “cajete,” center (or heart), of the plant swelled and elongated as the plant gathered stored sugar to send up the single flower stalk. Accessing the stored sap of the maguey required the excising of this stalk. This created a cavity within the center of the plant where the maguey sap, known as “aguamiel” (honey water), accumulated. The sap was harvested daily, and the sides of the cavity scraped to facilitate the flow of the sap, which occurred for 3 to 6 months until the plant died. Once collected, naturally occurring microorganisms continued the fermentation process.
+<var data-primary="image"></var>
+<var data-image id="Agave sacrifice" title="Codice Magliabechiano" data-url="https://www.mexicolore.co.uk/images-3/358_02_2.jpg" data-region=""></var>
+<var data-image id="pulque" title="Mexica God drinking pulque" data-url="http://losviajados.com/wp-content/uploads/2017/01/pulque-ceremazteca-codice.jpg" data-region=""></var>
+<var data-image id="pulque" title="Mexica God drinking pulque" data-url="https://66.media.tumblr.com/3334775915bd1eab9a7aa7e787708091/tumblr_nzbju0LvFn1ssxmhoo1_1280.jpg" data-region=""></var>
+
+
+
+https://cdn.historycollection.co/wp-content/uploads/2017/04/god-of-pulque.jpg
+https://www.mexicolore.co.uk/images-1/130_00_2.jpg
 
 ### The American Aloe
 
-It is unclear exactly when or how the first agave specimen arrived in Europe. It was likely brought back to Spain with numerous other New World plants for cultivation. In 1576, Carolus Clusius, published the first image and description of the “Aloe Americana,” effectively distinguishing agave from other known aloe plants in Asia, Africa, and the Middle East. Clusius, a French naturalist and collector at the forefront of an emerging botanical revolution in Europe, claimed that he learned of the plant from Gomara’s _Storia del Messico_ (first published in 1552) and encountered a living specimen in a garden in Valencia while traveling through Spain in 1564-1565.
+It is unclear exactly when or how the first agave specimen arrived in Europe. It was likely brought back to Spain with numerous other New World plants for cultivation. In 1576, Carolus Clusius, published the first description of the “Aloe Americana,” effectively distinguishing agave from other known aloe plants in Asia, Africa, and the Middle East. Clusius, a French naturalist and collector at the forefront of an emerging botanical revolution in Europe, claimed that he learned of the plant from Gomara’s _Storia del Messico_ (first published in 1552) and encountered a living specimen in a garden in Valencia while traveling through Spain in 1564-1565.
+<var data-primary="image"></var>
+<var data-image id="bhl-6781301" title="Dve libri dell'historia de i semplici, aromati, et altre cose : che vengono portate dall'Indie Orientali pertinente alla medicina, 1576" data-url="https://www.biodiversitylibrary.org/pageimage/6781301" data-region=""></var>
 
 Clusius was at the center of a vibrant international network of naturalists and collectors who, throughout the second half of the sixteenth century, exchanged knowledge and specimens of exotic plants. This epistolary network of exchange, and the botanic gardens it germinated, played a key role in the development of European botany. After his “discovery” of _Aloe americana_ in Spain, knowledge of agave quickly disseminated through Clusius’s circle of naturalists, which included Pietro Andrea Mattioli (renowned Italian botanist and physician), Giacomo Antonio Cortuso (director of the botanical garden in Padua), and Joachim Camerarius (German physician), among many others. In 1588, Camerarius published his _Hortus medicus,_ in which he claimed that he had seen an _Aloe Americana_ in Cortuso’s garden in Padua as early as 1561. While we may never know who saw the plant first, this friendly competition among a community of naturalists reveals the connection between collecting and growing exotic plants and intellectual self-fashioning.
+<var data-primary="image"></var>
+<var data-image id="Agave Poster" title="Aloë Americana: heeft gebloeid in des universiteits Kruyd-Hof tot Leiden, 1698, Rare Book Collection, Dumbarton Oaks" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Clusius_Network%20copy.jpg" data-region=""></var>
 
 Exchanging plant specimens and botanical knowledge was about more than solidifying friendship with like-minded individuals. Clusius and his network, by virtue of their letters, plant cultivation, and publications, positioned themselves as experts and established the means through which botanic practices were formalized and later institutionalized. In 1593, Clusius moved to Leiden to develop and oversee the city’s new botanical garden – the very same botanical garden where his _Aloe americana_ would finally bloom in 1698. While the agave took nearly a century to bloom in Leiden, the plant thrived in the hotter and dryer climate of Italy. First cultivated in the botanical gardens of Padua and Pisa, agave reached the court gardens of Rome, Venice, Florence, and Avignon by the late sixteenth century. In Italy, American agave remained an object of fascination throughout the seventeenth century and witnessing its rare flowering was an occasion worthy of commemorating. Eventually agave plants would escape the boundaries of their cultivated gardens in Italy. Today, in addition to remaining popular ornamental plants, agaves grow widely throughout Italy and southern Europe.
+<var data-primary="map"></var>
+<var data-map title="# Hortus Botanicus Leiden" data-center="Q2468128" data-basemap="Esri_WorldPhysical" data-zoom="6.5"></var>
 
 ### All Tequilas are Mescals, but not all Mescals are Tequilas
 
 While the agave in Europe was an ornamental plant that displayed botanical knowledge, agaves remained a productive plant in Mexico. In addition to collecting the fermented sap of the maguey, the hearts and leaf base of agaves were also roasted in underground pits. This pit-roasted agave was called “mexcalli” in Nahuatl and later “mezcal” and “mescal” in Spanish. With the arrival of the Europeans came the technology of distillation. Fermented sugarcane distilled into rum became the model for turning pit-roasted fermented maguey into _vinos de mescal,_ which was eventually processed into modern-day mescals and tequila. While mescals can be made from any agave plant, under Mexican law, tequila can only be made from the blue agave (_Agave tequilana or Agave azul_) grown in specific regions (most notably Jalisco). While pulque was a sacred and ancient Mesoamerican beverage, mescal and tequila were a product of blending indigenous Mesoamerican and European knowledge and taste. Like their creators, tequila and mescals were hybrids, or _mestizos_.
+http://www.slrobertson.com/images/mexico/oaxaca-valley/mezcal-agave-roasting-pit-b.jpg
+
+https://longislandloutequila.com/content/images/2017/02/Caschuin-pit-for-Ancestral--tequila.jpeg
+
+http://www.banderasnews.com/1310/images/roastingagave.jpg
 
 ### Tequila and National Identity
 
