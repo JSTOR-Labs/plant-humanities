@@ -42,11 +42,7 @@ The association of heart sacrifice with pulque extended beyond metaphor. Just as
 <var data-image id="Agave sacrifice" title="Codice Magliabechiano" data-url="https://www.mexicolore.co.uk/images-3/358_02_2.jpg" data-region=""></var>
 <var data-image id="pulque" title="Mexica God drinking pulque" data-url="http://losviajados.com/wp-content/uploads/2017/01/pulque-ceremazteca-codice.jpg" data-region=""></var>
 <var data-image id="pulque" title="Mexica God drinking pulque" data-url="https://66.media.tumblr.com/3334775915bd1eab9a7aa7e787708091/tumblr_nzbju0LvFn1ssxmhoo1_1280.jpg" data-region=""></var>
-
-
-
-https://cdn.historycollection.co/wp-content/uploads/2017/04/god-of-pulque.jpg
-https://www.mexicolore.co.uk/images-1/130_00_2.jpg
+<var data-image id="pulque" title="God of pulque, Codice Magliabechiano" data-url="https://cdn.historycollection.co/wp-content/uploads/2017/04/god-of-pulque.jpg" data-region=""></var>
 
 ### The American Aloe
 
