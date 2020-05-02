@@ -4,9 +4,9 @@ The visual essays below feature interactive maps, high-resolution images and vid
 
 ## Essays
 
-[An Ancient Plant with an Intoxicating History](/Agave)
+[An Ancient Plant with an Intoxicating History](/Agave)  
 [The Mysterious Tree of Life](/arbor_vitae)  
 [Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy](/Banana)  
 [Cacao: An indigenous network and global commodity](/cacao)  
 [The ubiquity of mint: exploring plant mythology, naming and commercial value](/mint)  
-[Curcuma longa: The “Herb of the Sun”](/turmeric)
+[Curcuma longa: The “Herb of the Sun”](/turmeric)  
