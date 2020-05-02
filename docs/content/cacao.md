@@ -33,7 +33,7 @@ data-debug="false"></var>
 <var title="indigenous peoples" id="Q103817" data-aliases="indigenous"></var>
 <var title="Tlatelolco" id="Q14623011"></var>
 <var title="Colegio de Santa Cruz de Tlatelolco" id="Q2477757" data-fill="#5C6609" data-marker-symbol="school" data-aliases="Santa Cruz"></var>
-<var title="Tenochtitlan" id="Q13695" data-fill="#5C6609" data-marker-symbol="gopuram" data-aliases="Mexica capital"></var>
+<var id="Q13695" data-fill="#5C6609" data-marker-symbol="gopuram" data-aliases="Mexica capital"></var>
 <var title="early modern period" id="Q5308718"></var>
 <var title="herbals" id="Q6165948" data-aliases="herbal"></var>
 <var title="Francisco Hernández de Toledo" id="Q940017"></var>
@@ -43,9 +43,9 @@ data-debug="false"></var>
 <var title="Milpa" id="Q1537558"></var>
 <var title="Forest gardening" id="Q276109" data-aliases="forest garden"></var>
 <var title="Neotropic" id="Q217151" data-fill="#5C6609" data-marker-symbol="pagelines" data-aliases="neotropics" data-aliases="neotropical"></var>
-<var title="Municipality of Huautla de Jiménez" id="Q3888662" data-fill="#5C6609" data-marker-symbol="seedling" data-aliases="Huauthla"></var>
-<var title="Soconusco" id="Q2269745" data-fill="#5C6609" data-marker-symbol="seedling"></var>
-<var title="Cotaxtla Municipality" id="Q13393188" data-fill="#5C6609" data-marker-symbol="seedling" data-aliases="Cotaxtla"></var>
+<var id="Q3888662" data-fill="#5C6609" data-marker-symbol="seedling" data-aliases="Huauthla"></var>
+<var id="Q2269745" data-fill="#5C6609" data-marker-symbol="seedling"></var>
+<var id="Q13393188" data-fill="#5C6609" data-marker-symbol="seedling" data-aliases="Cotaxtla"></var>
 <var title="God L" id="Q12744014"></var>
 <var title="Hernán Cortés" id="Q7326" data-aliases="Hernán Cortés’"></var>
 <var title="Chocolate" id="Q195" data-aliases="xocoatl"></var>
@@ -88,7 +88,7 @@ Ancient Maya leaders represented themselves and their gods as or in relation to 
 <var data-image id="Pakal's sarcophagus detail with ancestors depicted as fruit trees; see Lady Zac-Kuk (Pakal's mother) as a cacao tree" title="Pakal's sarcophagus detail with ancestors depicted as fruit trees" data-url="https://jstor-labs.github.io/plant-humanities/images/PakalSarc.png" data-fit="fill"></var>
 
 The presence of cacao in a remedy for hurt feet within the Badianus also wittily illustrates the realities of  indigenous  Mesoamerican lifeways. Without beasts of burden, the  long-distance transport of cacao from the neotropics to Tenochtitlan, the Mexica capital, would have certainly caused one’s feet to ache.  For example, in [Hernán Cortés’s conquistador accounts](https://iiif.lib.harvard.edu/manifests/view/drs:427885396$229i), several regions are recognized for their tribute of cacao to the Mexica empire including  Huauthla,  Soconusco, and  Cotaxtla, all of which are hundreds of miles from Tenochtitlan.[^ref8]
-<var data-map title="World" data-center="19.431947, -99.133335" data-zoom="5" data-hide-label="true" data-basemap="Esri_WorldPhysical"></var>
+<var data-map title="World" data-center="17.265945, -94.268896" data-zoom="6.5" data-hide-labels="true" data-basemap="Esri_WorldPhysical"></var>
  <var data-map-layer
      data-type="geojson"
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson"
