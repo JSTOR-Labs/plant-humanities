@@ -1,5 +1,15 @@
 [View](https://plant-humanities.app/essay?gdid=1S34SHxacJMJvIAIWu-uV7RcmBuDKfhRL)
 
+<var data-essay
+	title="Agave"
+	data-banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gc29_agave_americana.jpg/1920px-Gc29_agave_americana.jpg"
+	data-layout="vtl"
+	data-num-maps="13"
+	data-num-images="11"
+	data-num-specimens="0"
+	data-num-primary-sources="6"
+	data-author="Ashley Buchanan, PhD"></var>
+
 ## An Ancient Plant with an Intoxicating History
 
 ### The Big Bloom
@@ -8,7 +18,7 @@
 <var data-image id="Agave Poster" title="Aloë Americana: heeft gebloeid in des universiteits Kruyd-Hof tot Leiden, 1698, Rare Book Collection, Dumbarton Oaks" data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Aloe_Americana_Leiden_DO.jpg" data-region=""></var>
 
 In seventeenth-century Leiden, the _Agave americana_ certainly earned its nickname, taking almost a century to bloom. In its natural climate, however, an _Agave americana_ can grow upwards of twenty feet and typically blooms every 10 to 25 years. _Agave_ is a genus of monocots with some 200 species indigenous to Central America, the Southwestern US, and in some tropical areas of South America. Distinguished by their strong, fleshy leaves, agaves grow slowly and require little water to survive, making them a vital resource in semiarid climates. Although best known today as the plant from which tequila is made, agave plants played a central role in ancient Amerindian religion and culture for centuries, encouraged a botanical revolution in Europe, helped form Mexican identity in the nineteenth and twentieth centuries, and offer solutions to present-day environmental challenges.
-<var data-map title="Agave americana distribution" data-center="25.503945, -102.834000" data-basemap="Esri_WorldPhysical" data-zoom="3"></var>
+<var data-map title="Agave americana distribution" data-center="25.503945, -102.834000" data-basemap="Esri_WorldPhysical" data-zoom="4"></var>
 <var data-map-layer
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/agave_distribution.json"
