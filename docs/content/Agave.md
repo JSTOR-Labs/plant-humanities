@@ -77,7 +77,7 @@ Beyond producing one of North America’s favorite spirits, agave plants, just a
 <var data-primary="image"></var>
 <var data-image id="Agave field" title="Agave as biofuel" data-url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Agave-Fields.jpg" data-region=""></var>
 
-----------
+### References
 [^ref1]: van Uffelen, Gerda & Kessler, P.J.A. _425 years Hortus botanicus Leiden_, 2015, pg. 32-33.
 
 [^ref2]: Gentry, Howard Scott. _Agaves of Continental North America_. Tucson, Ariz.: University of Arizona Press, 1982.
