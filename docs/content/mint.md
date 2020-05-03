@@ -51,7 +51,7 @@ Today, the common scent and flavor we associate with mint is synonymous with cul
 <var data-image-viewer></var>
 <var data-image id="bhl-56599909" title="John Parkinson,*Theatrum Botanicum*, 1640, p.31 (BHL)" data-url="https://biodiversitylibrary.org/pageimage/56599909" data-region="807,1420,1451,2665"></var>
 <var data-image id="bhl-51906062" title="John Gerard,*Generall historie of plantes*, 1633, p.680 (BHL)" data-url="https://biodiversitylibrary.org/pageimage/51906062" data-region="577,328,1375,1559"></var>
-<var data-image id="bhl-56599908" title="John Parkinsson, *Theatrum Botanicum*, 1640, p.32 (BHL)" data-url="https://biodiversitylibrary.org/pageimage/56599908" data-region="516,360,1201,1470"></var>
+<var data-image id="bhl-56599908" title="John Parkinson, *Theatrum Botanicum*, 1640, p.32 (BHL)" data-url="https://biodiversitylibrary.org/pageimage/56599908" data-region="516,360,1201,1470"></var>
 
 <var data-map title="World" data-basemap="Esri_WorldPhysical" data-center="51.520201,-0.125315" data-zoom="4"></var>
 <var data-map-layer
