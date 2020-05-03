@@ -1,4 +1,4 @@
- ## About the Plant Humanities Workbench
+## About the Plant Humanities Workbench
 
 The Plant Humanities Workbench uses original scholarship, linked open data and integrated primary and secondary resources to narrate and foster the exploration of the cultural histories and influence of plants.
 
