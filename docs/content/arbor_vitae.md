@@ -209,7 +209,7 @@ Sadly, we may never know for sure exactly which tree was used to make a medicina
 [^ref1]: For the purposes of this work, "Indigenous People(s)" refers to a cultural group(s) in an ecological area that developed a successful subsistence base from the natural resources available in that area.
 [^ref2]: As a diplomat, Rasmusio was said to have used his political influence to collect original travel narratives.
 [^ref3]: https://www.thecanadianencyclopedia.ca/en/article/coniferous-trees
-[^ref4]: Arneson (maybe the book once it arrives?)
+[^ref4]:  Durzan, Don J. “Arginine, scurvy and Cartier's "tree of life".” *Journal of ethnobiology and ethnomedicine* vol. 5 5. 2 Feb. 2009, doi:10.1186/1746-4269-5-5
 [^ref5]: TRADITIONAL PLANT FOODS OF CANADIAN INDIGENOUS PEOPLES Nutrition, Botany and Use
 [^ref6]: Herrick, James William 1977 Iroquois Medical Botany
 [^ref7]: Durzan, Don J. “Arginine, scurvy and Cartier's "tree of life".” *Journal of ethnobiology and ethnomedicine* vol. 5 5. 2 Feb. 2009, doi:10.1186/1746-4269-5-5
