@@ -161,7 +161,7 @@ From there we can trace the knowledge, or lack of knowledge, of the arbore vitæ
 It is clear that by the mid-seventeenth century much of the medicinal knowledge associated with the arbor vitæ was lost. Further complicating matters of identification was the rate at which the arbor vitæ spread through Europe and the tendency to call any conifer imported from North America an arbor vitæ. Conversely, many American conifers were simply named in terms of their European counterparts and identified as a thuja or cedrus. Thus, by the end of the sixteenth century, the arbor vitæ was also known as [“Thuja theophrasti”](https://bibdigital.rjb.csic.es/viewer/10754/?offset=#page=512&viewer=picture&o=bookmark&n=0&q=) and [“Cedrus Lycia.”](https://bibdigital.rjb.csic.es/viewer/13070/?offset=#page=634&viewer=picture&o=bookmark&n=0&q=)
 <var data-map title="France" data-center="45.903381, 14.813984" data-basemap="Esri_WorldPhysical" data-zoom="3.5"></var>
 <var data-map-layer
-     data-title= "Spread of _Thuja occidentales_" 
+     data-title= "Spread of Arbor Vitæ"
      data-type="geojson" 
      data-url="https://jstor-labs.github.io/plant-humanities/geojson/thuja in europe.json"
      data-active="true"></var>
