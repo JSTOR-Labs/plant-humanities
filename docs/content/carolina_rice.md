@@ -42,7 +42,7 @@ Yet behind Carolina Rice (which _Serious Eats_ refers to in part as “the Best 
   
 
 Carolina rice typically refers to the type of Oryza sativa, or Asian rice, that was grown in the Carolina Lowcountry during the colonial and antebellum period. Of this Oryza sativa, two different varietials existed: a Carolina White rice, and a Carolina Gold rice, distinguishable by the color of their husk. [An 1892 work on the different types of rice](https://www.biodiversitylibrary.org/item/82844#page/27/mode/1up) describes the White Seed Carolina as a “white, flinty grain...which has given Carolina Rice a world-wide reputation.” By contrast, in the author’s estimation, the Carolina Gold seed was “a large plump grain, heavy yielder, but apt to shatter and deteriorate.” This rice, [according to eighteenth-century naturalist Mark Catesby](https://www.biodiversitylibrary.org/pageimage/38993744), was grown in trenches in soil which is “usually two feet under water, at least two months of the year.”
-<var data-map title="lowcountry" data-center="32.779411, -79.943708" data-zoom="2"></var>
+<var data-map title="lowcountry" data-center="32.779411, -79.943708" data-zoom="7"></var>
 <var data-map-layer
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/lowcountry.json"
@@ -57,8 +57,7 @@ However, recently, scholars have noted that in addition to forms of Oryza sativa
 	data-active="true"></var>
 
 How exactly did these two types of rice make it across the oceans to Carolina? During the middle passage, European slave-traders relied on African crops, as well as transplanted higher-yielding varieties of Asian rice, in order to keep both the newly enslaved peoples, and their captors, fed on the journey.[^ref2] Rice, then, most likely came from West Africa, an unintended consequence of the violent Middle Passage. Contemporary sources suggest as much. Guillaume Thomas Raynal, a French thinker of the Enlightenment, wrote in an English edition of a work [published in 1798](https://books.google.com/books?id=0YdaAAAAYAAJ&pg=PA402&lpg=PA402&dq=Opinions+differ+about+the+manner+in+which+rice+hath+been+naturalized+in+Carolina.+But+whether+the+province+may+have+acquired+it+by+shipwreck,+or+whether+it+may+have+been+carried+there+with+slaves,+or+whether+it+be+sent+from+England,+it+is+certain+the+soil+is+favourable+for+it.&source=bl&ots=SguqqW9ojc&sig=ACfU3U2wQdmA9nVXPAvoG8_IMxBvjq0N2Q&hl=en&sa=X&ved=2ahUKEwisrpuxwPfoAhVsmXIEHa3NDhsQ6AEwAHoECAsQKQ#v=onepage&q&f=false), “Opinions differ about the manner in which rice hath been naturalized in Carolina. But whether the province may have acquired it by shipwreck, or whether it may have been carried there with slaves, or whether it be sent from England, it is certain the soil is favourable for it.” Scholars such as Peter Wood have declared that Raynal’s middle hypothesis was the correct one, as no European group present in the Carolina colony had experience cultivating the crop. [^ref3]
-
-  <var data-map title="middle passage" data-center="32.301289, -64.649329" data-zoom="1"></var>
+  <var data-map title="middle_passage" data-center="32.301289, -64.649329" data-zoom="1"></var>
 <var data-map-layer
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/middle_passage.json"
