@@ -1,8 +1,13 @@
 <var data-essay
 title="Carolina Rice"
-data-banner="https://images.nypl.org/index.php?id=G92F023_016F&t=w"
+data-banner="https://images.nypl.org/index.php?id=1126115&t=w"
 data-layout="vtl"
-data-about="Q5090"></var>
+data-num-maps="9"
+data-num-images="6"
+data-num-specimens="1"
+data-num-primary-sources="7"
+data-author="Julia Fine"></var>
+
 
 <var title="American Civil War" id="Q8676" data-aliases="Civil War"></var>
 <var title="South Carolina Lowcountry" id="Q3885311" data-aliases="Carolina Lowcountry"></var>
@@ -39,7 +44,6 @@ Yet behind Carolina Rice (which _Serious Eats_ refers to in part as “the Best 
 Carolina rice typically refers to the type of Oryza sativa, or Asian rice, that was grown in the Carolina Lowcountry during the colonial and antebellum period. Of this Oryza sativa, two different varietials existed: a Carolina White rice, and a Carolina Gold rice, distinguishable by the color of their husk. [An 1892 work on the different types of rice](https://www.biodiversitylibrary.org/item/82844#page/27/mode/1up) describes the White Seed Carolina as a “white, flinty grain...which has given Carolina Rice a world-wide reputation.” By contrast, in the author’s estimation, the Carolina Gold seed was “a large plump grain, heavy yielder, but apt to shatter and deteriorate.” This rice, [according to eighteenth-century naturalist Mark Catesby](https://www.biodiversitylibrary.org/pageimage/38993744), was grown in trenches in soil which is “usually two feet under water, at least two months of the year.”
 <var data-map title="lowcountry" data-center="32.779411, -79.943708" data-zoom="7"></var>
 <var data-map-layer
-	title="The Carolina Lowcountries"
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/lowcountry.json"
 	data-active="true"></var>
@@ -87,11 +91,10 @@ From this knowledge of enslaved people, particularly that of women, rice quickly
 ### Carolina Rice Beyond Carolina
 
   The knowledge of enslaved peoples concerning the cultivation of rice did not only affect American agricultural systems. Rather, their knowledge spread throughout the British Empire, concomitant with the transfer of seeds. One clear example can be found in the introduction of Carolina rice to India in the 19th century. In the 18th and 19th centuries, British food distribution policies, exacerbated by droughts which caused the failure of the rice crop, killed millions; scholar Mike Davis famously referred to these famines as “Late Victorian Holocausts.”[^ref7]
-<var data-map title="British india" data-center="23.688939, 78.678650" data-zoom="2.5"></var>
+<var data-map title="carolina_rice_transfers" data-center="12.586420, -8.107447" data-zoom="3"></var>
 <var data-map-layer
-	title="Rice Transfers across Southern Asia"
 	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/british india.json"
+	data-url="https://jstor-labs.github.io/plant-humanities/geojson/carolina_rice_transfers.json"
 	data-active="true"></var>
 
 By the 1860s, British imperialists believed something had to be done to justify their rule in India, which the horrors of famine were undermining. What was thought to be the panacea for these famines? Carolina rice (most likely of the Gold varietal), whose distinct cultivation conditions were understood, according to an [1880 memorandum by L. Liotard published in Calcutta](https://books.google.com/books?id=icUIAAAAQAAJ&pg=PA77&dq=carolina+rice+bengal&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiN1ayK1eDoAhWGgnIEHfpLCokQ6AEwAHoECAIQAg#v=onepage&q&f=false), to be of “much superior to that of the ordinary paddy,” and thus better able to withstand environmental factors. In accordance with this belief, according to Liotard, in 1868, “ten tons of Carolina rice seed, for experimental cultivation in India, were obtained by the Secretary of State.” The seeds were then packed in 200 barrels; 120 barrels were sent to Madras, 45 barrels were sent to Burma, 15 Barrels were sent to Bombay, 5 barrels sent to the Central Provinces, and 15 barrels were reserved for the “Government of India.” 
