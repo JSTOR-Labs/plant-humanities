@@ -122,7 +122,7 @@ Despite the use of that knowledge, the Carolina Rice experiments in India were u
 <var data-map-layer
 	title="Rice Transfers across Southern Asia"
 	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/british india.json"
+	data-url="https://jstor-labs.github.io/plant-humanities/geojson/british_india.json"
 	data-active="true"></var>
 
   
