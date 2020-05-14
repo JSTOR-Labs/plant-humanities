@@ -69,6 +69,7 @@ title="Indian Subcontinent"
 The root quickly spread beyond South and Southeast Asia. After turmeric’s domestication in Southern Asia, it was diffused to Tahiti, Hawaii, and the Easter Islands, long before European colonization.[^ref5]  
 <var data-map title="Spread of Turmeric" data-center="-0.091300, 107.056186" data-basemap="Esri_WorldPhysical" data-zoom="1.5"></var>
 <var data-map-layer
+	title="Turmeric spreads out"
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Turmeric_Spread.json"
 	data-active="true"></var>
