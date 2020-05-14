@@ -102,7 +102,7 @@ By the late medieval period, the spice was definitely imported to Europe in larg
 	data-active="true"></var>
 
 By the time Pechey was writing, as [Cargo Sheets from the Folger Shakespeare Library demonstrate](https://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?Search_Arg=214215&Search_Code=GKEY%5E*&PID=sxKS8BQv1w7fXMKN9xsIKRE&SEQ=20200219111601&CNT=50&HIST=1), turmeric was being imported to Britain in large quantities by the East India Company, and sold at the East India House to grocers and traders. It may be ahistorical to draw a distinction at this time between what was used as cuisine and what was used as medicine. One letter-writer, [in a 1600 epistle to English lawyer and colonizer John Winthrop](https://iiif.lib.harvard.edu/manifests/view/drs:53409412$1i), even suggests using the "turmerick", along with barbarie bark boiled in beer with saffron, in order to cure yellow jaundice. Others suggest that turmeric is especially useful in terms of bodily obstructions; a [1792 tract on medical botany by William Woodville](https://www.biodiversitylibrary.org/page/48537187) says that “this root has had the character of being a powerful aperient and resolvent: it has been commonly prescribed in obstruction of the liver, and other chronic visceral affections.” “The disease," Woodville continues, "in which it has been thought most efficacious is the jaundice,” and he notes that the root has been “highly recommended by several practical writers.”
-<var data-map title="East India House in London" data-center="51.513184, -0.082066" data-zoom="12"></var>
+<var data-map title="East India House in London" data-center="51.513184, -0.082066" data-zoom="8"></var>
 <var data-map-layer
 	title="East India House"
 	data-type="geojson"
