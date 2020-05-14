@@ -1,10 +1,8 @@
 {
-    "title": "Plant Humanities",
+    "title": "Explore the cultural history of plants and their influence on human societies.",
     "banner": "/images/header.jpg",
-    "tagline": "Explore the cultural history of plants and their influence on human societies.",
-    "showFooter": true,
     "customComponents": {
-        "essayHeader": "/components/EssayHeader.vue",
-        "siteFooter": "/components/SiteFooter.vue"
+        "header": "/components/Header.vue",
+        "footer": "/components/Footer.vue"
     }
 }

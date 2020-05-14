@@ -1,8 +1,0 @@
-{
-    "title": "Explore the cultural history of plants and their influence on human societies.",
-    "banner": "/images/header.jpg",
-    "customComponents": {
-        "header": "/components/Header.vue",
-        "footer": "/components/Footer.vue"
-    }
-}
