@@ -110,7 +110,7 @@ By the 1860s, British imperialists believed something had to be done to justify 
 
 
 With this rice came knowledge from the enslaved people, which was codified and exploited through travel across the continents in the memoranda and instructions of the British imperialists. According to a memorandum put forth by the American consul in Bombay ([quoted in Liotard](https://books.google.com/books?id=icUIAAAAQAAJ&pg=PA77&dq=carolina+rice+bengal&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiN1ayK1eDoAhWGgnIEHfpLCokQ6AEwAHoECAIQAg#v=onepage&q&f=false)), “Rice is sown in long drills made by hoes (machinery does not work well) about one foot deep.” While hoe-farming had long been present in Southern Asia, particularly Southeast Asia, the parenthetical note that “machinery does not work well” suggests that Carolina rice necessitated different sorts of tools compared to the typical rice grown in South Asia. In other words, the knowledge of the enslaved people on the beneficial use of hoes in farming Carolina rice spread, through the exploitation of British imperialists, from West Africa to Carolina to India, demonstrating the reach as well as significance of such knowledge.
-<var data-map title="bombay" data-center="19.083495, 72.866069" data-zoom="12"></var>
+<var data-map title="bombay" data-center="19.083495, 72.866069" data-zoom="8"></var>
 <var data-map-layer
 	title="Bombay"
 	data-type="geojson"
@@ -118,11 +118,11 @@ With this rice came knowledge from the enslaved people, which was codified and e
 	data-active="true"></var>
 
 Despite the use of that knowledge, the Carolina Rice experiments in India were ultimately deemed a failure by the British imperial government due to [“floods, excessive rains, or drought, birds, insects,” as well as the “carelessness and indifference with which the experiments were conducted.](https://www.biodiversitylibrary.org/item/66916#page/219/mode/1up)” Historian Utsa Ray has deemed this reasoning part of the “Colonial discourse of ‘rational’ agriculture...based on cultural stereotyping.”[^ref8] And yet, while the rice never took in India, the story of Carolina Rice in India reveals the stark contrast of empire, in which British imperialist horifically exploited a group of people deemed to be sub-human, while not only profiting from said labor, but using their specialized knowledge to profit and maintain colonies half a world away. 
-<var data-map title="British india" data-center="23.688939, 78.678650" data-zoom="2.5"></var>
+<var data-map title="indiaetc" data-center="23.688939, 78.678650" data-zoom="4.2"></var>
 <var data-map-layer
 	title="Rice Transfers across Southern Asia"
 	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/british_india.json"
+	data-url="https://jstor-labs.github.io/plant-humanities/geojson/indiaetc.json"
 	data-active="true"></var>
 
   
