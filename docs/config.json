@@ -3,6 +3,6 @@
     "banner": "/images/header.jpg",
     "bannerHeight": 400,
     "components": [
-        {"name": "siteFooter", "selectors": [], "src": "/components/Footer.vue"}
+        {"name": "siteFooter", "src": "/components/Footer.vue"}
     ]
 }
