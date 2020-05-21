@@ -4,6 +4,16 @@
     "bannerHeight": 400,
     "components": [
         {"name": "siteHeader", "selectors": [], "src": "/components/Header.vue"},
-        {"name": "siteFooter", "selectors": [], "src": "/components/Footer.vue"}
+        {"name": "siteFooter", "selectors": [], "src": "/components/Footer.vue"},
+        {"name": "map", "selectors": [], "src": "https://visual-essays.app/components/MapViewer.vue", "icon": "fa-map-marker-alt", "label": "Map"},
+        {"name": "image", "selectors": [], "src": "https://visual-essays.app/components/ImageViewer/index.vue", "icon": "fa-file-image", "label": "Images"},
+        {"name": "galleryImageViewer", "selectors": [], "src": "https://visual-essays.app/components/ImageViewer/GalleryImageViewer.vue"},
+        {"name": "cardsImageViewer", "selectors": [], "src": "https://visual-essays.app/components/ImageViewer/CardsImageViewer.vue"},
+        {"name": "hiresImageViewer", "selectors": [], "src": "https://visual-essays.app/components/ImageViewer/HiresImageViewer.vue"},
+        {"name": "video", "selectors": [], "src": "https://visual-essays.app/components/VideoViewer.vue", "icon": "fa-video", "label": "Videos"},
+        {"name": "entity", "selectors": [], "src": "https://visual-essays.app/components/EntityViewer.vue", "icon": "fa-brackets-curly", "label": "Entities"},
+        {"name": "entityInfobox", "selectors": [], "src": "https://visual-essays.app/components/EntityInfobox.vue"},
+        {"name": "network", "selectors": [], "src": "https://visual-essays.app/components/Network.vue", "icon": "fa-chart-network", "label": "Networks"},
+        {"name": "plant-specimen", "selectors": [], "src": "https://visual-essays.app/components/PlantSpecimenViewer.vue", "icon": "fa-seedling", "label": "Plant Specimens"}
     ]
 }
