@@ -3,19 +3,19 @@
     "banner": "/images/header.jpg",
     "bannerHeight": 400,
     "components": [
-        {"name": "siteHeader", "selectors": [], "src": "https://jstor-labs/github.io/visual-essays/components/Header.vue"},
-        {"name": "siteMobileHeader", "selectors": [], "src": "https://jstor-labs/github.io/visual-essays/components/MobileHeader.vue"},
-        {"name": "siteFooter", "selectors": [], "src": "https://jstor-labs/github.io/visual-essays/components/Footer.vue"},
-        {"name": "siteMobileFooter", "selectors": [], "src": "https://jstor-labs/github.io/visual-essays/components/MobileFooter.vue"},
-        {"name": "map", "selectors": [], "src": "https://jstor-labs/github.io/visual-essays/components/MapViewer.vue", "icon": "fa-map-marker-alt", "label": "Map"},
-        {"name": "image", "selectors": [], "src": "https://jstor-labs/github.io/visual-essays/components/ImageViewer/index.vue", "icon": "fa-file-image", "label": "Images"},
-        {"name": "galleryImageViewer", "selectors": [], "src": "https://jstor-labs/github.io/visual-essays/components/ImageViewer/GalleryImageViewer.vue"},
-        {"name": "cardsImageViewer", "selectors": [], "src": "https:/jstor-labs/github.io/visual-essays/components/ImageViewer/CardsImageViewer.vue"},
-        {"name": "hiresImageViewer", "selectors": [], "src": "https://jstor-labs/github.io/visual-essays/components/ImageViewer/HiresImageViewer.vue"},
-        {"name": "video", "selectors": [], "src": "https://jstor-labs/github.io/visual-essays/components/VideoViewer.vue", "icon": "fa-video", "label": "Videos"},
-        {"name": "entity", "selectors": [], "src": "https://jstor-labs/github.io/visual-essays/components/EntityViewer.vue", "icon": "fa-brackets-curly", "label": "Entities"},
-        {"name": "entityInfobox", "selectors": [], "src": "https://jstor-labs/github.io/visual-essays/components/EntityInfobox.vue"},
-        {"name": "network", "selectors": [], "src": "https://jstor-labs/github.io/visual-essays/components/Network.vue", "icon": "fa-chart-network", "label": "Networks"},
-        {"name": "plant-specimen", "selectors": [], "src": "https://jstor-labs/github.io/visual-essays/components/PlantSpecimenViewer.vue", "icon": "fa-seedling", "label": "Plant Specimens"}
+        {"name": "siteHeader", "selectors": [], "src": "https://jstor-labs.github.io/visual-essays/components/Header.vue"},
+        {"name": "siteMobileHeader", "selectors": [], "src": "https://jstor-labs.github.io/visual-essays/components/MobileHeader.vue"},
+        {"name": "siteFooter", "selectors": [], "src": "https://jstor-labs.github.io/visual-essays/components/Footer.vue"},
+        {"name": "siteMobileFooter", "selectors": [], "src": "https://jstor-labs.github.io/visual-essays/components/MobileFooter.vue"},
+        {"name": "map", "selectors": [], "src": "https://jstor-labs.github.io/visual-essays/components/MapViewer.vue", "icon": "fa-map-marker-alt", "label": "Map"},
+        {"name": "image", "selectors": [], "src": "https://jstor-labs.github.io/visual-essays/components/ImageViewer/index.vue", "icon": "fa-file-image", "label": "Images"},
+        {"name": "galleryImageViewer", "selectors": [], "src": "https://jstor-labs.github.io/visual-essays/components/ImageViewer/GalleryImageViewer.vue"},
+        {"name": "cardsImageViewer", "selectors": [], "src": "https:/jstor-labs.github.io/visual-essays/components/ImageViewer/CardsImageViewer.vue"},
+        {"name": "hiresImageViewer", "selectors": [], "src": "https://jstor-labs.github.io/visual-essays/components/ImageViewer/HiresImageViewer.vue"},
+        {"name": "video", "selectors": [], "src": "https://jstor-labs.github.io/visual-essays/components/VideoViewer.vue", "icon": "fa-video", "label": "Videos"},
+        {"name": "entity", "selectors": [], "src": "https://jstor-labs.github.io/visual-essays/components/EntityViewer.vue", "icon": "fa-brackets-curly", "label": "Entities"},
+        {"name": "entityInfobox", "selectors": [], "src": "https://jstor-labs.github.io/visual-essays/components/EntityInfobox.vue"},
+        {"name": "network", "selectors": [], "src": "https://jstor-labs.github.io/visual-essays/components/Network.vue", "icon": "fa-chart-network", "label": "Networks"},
+        {"name": "plant-specimen", "selectors": [], "src": "https://jstor-labs.github.io/visual-essays/components/PlantSpecimenViewer.vue", "icon": "fa-seedling", "label": "Plant Specimens"}
     ]
 }
