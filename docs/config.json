@@ -3,9 +3,9 @@
     "banner": "/images/header.jpg",
     "bannerHeight": 400,
     "components": [
-        {"name": "siteHeader", "selectors": [], "src": "https://visual-essays.app/components/components/Header.vue"},
+        {"name": "siteHeader", "selectors": [], "src": "https://visual-essays.app/components/Header.vue"},
         {"name": "siteMobileHeader", "selectors": [], "src": "https://visual-essays.app/components/MobileHeader.vue"},
-        {"name": "siteFooter", "selectors": [], "src": "https://visual-essays.app/components/components/Footer.vue"},
+        {"name": "siteFooter", "selectors": [], "src": "https://visual-essays.app/components/Footer.vue"},
         {"name": "siteMobileFooter", "selectors": [], "src": "https://visual-essays.app/components/MobileFooter.vue"},
         {"name": "map", "selectors": [], "src": "https://visual-essays.app/components/MapViewer.vue", "icon": "fa-map-marker-alt", "label": "Map"},
         {"name": "image", "selectors": [], "src": "https://visual-essays.app/components/ImageViewer/index.vue", "icon": "fa-file-image", "label": "Images"},
