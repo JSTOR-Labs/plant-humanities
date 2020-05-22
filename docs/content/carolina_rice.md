@@ -1,6 +1,6 @@
 <var data-essay
 title="Carolina Rice"
-data-banner="https://images.nypl.org/index.php?id=1126115&t=w"
+data-banner="https://images.nypl.org/index.php?id=G92F023_020F&t=w"
 data-layout="vtl"
 data-num-maps="9"
 data-num-images="6"
