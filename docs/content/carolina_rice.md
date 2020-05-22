@@ -1,6 +1,6 @@
 <var data-essay
 title="Carolina Rice"
-data-banner="https://images.nypl.org/index.php?id=G92F023_020F&t=w"
+data-banner="https://images.nypl.org/index.php?id=G92F023_016F&t=w"
 data-layout="vtl"
 data-num-maps="9"
 data-num-images="6"
@@ -24,7 +24,6 @@ data-author="Julia Fine"></var>
 ### The Comeback Kid
   
 Carolina Rice, the “heritage grain” lost to history in the post-antebellum era, has come back in a major way. Indeed, in a [2017 article](https://www.eater.com/ad/15973794/carolina-gold-rice-heritage-grains), _Eater_ declared that “The Grain Revolution is Here,” describing one company’s attempt to bring back the historical strain of Oryza sativa. Varieties of Carolina Rice, in particular, the “Carolina Gold” strain, have been attracting the attention of niche cooking websites and standard news sources alike, with outlets from [_Serious Eats_](https://www.seriouseats.com/2016/05/carolina-gold-heirloom-rice-anson-mills.html) to the [_New York Times_](https://www.nytimes.com/2018/02/13/dining/hill-rice-slave-history.html?auth=login-email&login=email) alike spotlighting the grain.
-
 <var data-primary="image"></var>
 <var data-image id="wiki-commons-1" title="Illustration of Rice and the Rice-Bird in the Carolina Colony, 1754" data-url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/The-rice-bird.jpg/1600px-The-rice-bird.jpg"></var>
 
