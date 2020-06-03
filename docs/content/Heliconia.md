@@ -1,14 +1,14 @@
 [View](https://plant-humanities.app/essay?gdid=1pXMxmniJsPZc0bC-5PX5wygn22qRMjRs)
 
-<param ve-config
-	   title="Heliconias"
-	   banner="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Illustration_from_Les_liliac%C3%A9es_by_Pierre_Joseph_Redout%C3%A9_%281759-1840%29._Digitally_enhanced_by_rawpixel-com_381.jpg/745px-Illustration_from_Les_liliac%C3%A9es_by_Pierre_Joseph_Redout%C3%A9_%281759-1840%29._Digitally_enhanced_by_rawpixel-com_381.jpg"
-  	   layout="vtl"
-	   num-maps="13"
-	   num-images="11"
-	   num-specimens="0"
-	   num-primary-sources="6"
-	   author="Yota Batsaki, PhD">
+<var data-essay
+	title="Heliconias"
+	data-banner="https://commons.wikimedia.org/wiki/File:Illustration_from_Les_liliac%C3%A9es_by_Pierre_Joseph_Redout%C3%A9_(1759-1840)._Digitally_enhanced_by_rawpixel-com_381.jpg"
+	data-layout="vtl"
+	data-num-maps="13"
+	data-num-images="11"
+	data-num-specimens="0"
+	data-num-primary-sources="6"
+	data-author="Yota Batsaki, PhD"></var>
 
 ### Need Subtitle
 Heliconias, with their sculptural bracts and stunning colors, are an iconic tropical plant, widely distributed in ornamental gardens and the horticulture trade. Yet until fairly recently these plants were poorly known to scientists. Heliconias are large herbs with fleshy, bulky inflorescences and flowers, so botanists have not always collected them in the field and their character is hard to capture on a herbarium sheet. However, in recent decades,  both field observations and controlled experiments by botanists have led to fascinating discoveries about heliconias  that illuminate the sophistication of plant-animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.
@@ -35,12 +35,13 @@ After spending several years in South America searching for new species of _Heli
        fit="cover"
        title="Photograph of John Kress (center) and team with the newly-found _Heliconia_."
        url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/exhibition-images/14-john-kress-finding-heliconia.jpg/@@images/21b338bf-3b3b-4f38-a159-d728bdf9baea.jpeg">
-
 [SHORT VIDEO with this paragraph as well]
 
 This special form, which was named by Kress Heliconia  chartacea  var. meeana,  is greenish-yellow in color and differs from the more typical form of Heliconia  chartacea, which is bright pink and rose. It may simply be a partial albino form of the typical species and is also pollinated by hummingbirds. A scientific illustration by Smithsonian botanical artist [Alice Tangerini](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/tangerini-interview), created after Kress returned with the heliconia, employed a mix of photographs, dried specimens, and dissections under the microscope to capture the plant’s structures in pen and ink for the botanical publication of the new variety.
-
-[Figure 5: Alice Tangerini, Heliconia  chartacea  var. meeana]
+<param ve-image 
+       fit="cover"
+       title="Alice Tangerini, _Heliconia  chartacea  var. meeana_"
+       url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/mixed-media/heliconia-chartacea-var-meeana/@@images/image">
 
 The more typical form of Heliconia  chartacea  is called “Sexy Pink” in the horticultural trade for its attractive inflorescences and flowers. Heliconias have been an object of desire for gardeners outside their natural habitat for centuries. Several species of Heliconia, including H. psittacorum, H. bihai, and H. metallica, have been cultivated as ornamentals since the 1700s. They were carried around the world by horticulturalists and found in many botanical gardens from Europe to Asia to the Pacific.
 
