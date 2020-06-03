@@ -1,8 +1,8 @@
 [View](https://plant-humanities.app/essay?gdid=1pXMxmniJsPZc0bC-5PX5wygn22qRMjRs)
 
 <var data-essay
-	title="Heliconias"
-	data-banner="https://commons.wikimedia.org/wiki/File:Illustration_from_Les_liliac%C3%A9es_by_Pierre_Joseph_Redout%C3%A9_(1759-1840)._Digitally_enhanced_by_rawpixel-com_381.jpg"
+	title="Heliconia"
+	data-banner="https://upload.wikimedia.org/wikipedia/commons/4/48/Illustration_from_Les_liliac%C3%A9es_by_Pierre_Joseph_Redout%C3%A9_%281759-1840%29._Digitally_enhanced_by_rawpixel-com_381.jpg"
 	data-layout="vtl"
 	data-num-maps="13"
 	data-num-images="11"
