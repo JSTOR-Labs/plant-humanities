@@ -26,7 +26,7 @@ In tropical America, heliconias are diurnal and brightly colored because they ar
 
 The striking structure, color, and beauty of heliconias lend themselves better to the painter’s brush than the herbarium sheet. In fact, a work of botanical art led to the discovery of a new variety. The renowned botanical artist [Margaret Mee](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/margaret-mee-in-the-amazon)  undertook [15 expeditions](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/amazonian-entanglements) into the Amazon in the course of which she painted several heliconias. One of them, published in Mee’s _Flowers of the Amazon Forests_, caught the attention of Smithsonian botanist John Kress.
 <param ve-map basemap="OpenTopoMap" center="-3.161194, -60.002447" zoom="7.5">
-<param ve-map-layer geojson active url="geojson/Mee-1975.json">
+<param ve-map-layer geojson active url="geojson/Mee_1975.json">
 
 After spending several years in South America searching for new species of _Heliconia_, in 1990 Kress was back in his office at the Smithsonian, leafing through Mee’s botanical paintings, when he  came across a form of heliconia, recorded by Mee near the border between Venezuela and Brazil, that was unknown to him. The flowers’ unusual greenish-yellow color differed from those commonly found in that region. Kress realized that it was a new variety, maybe even a new species, and resolved to find it and name it after Mee.
 <param ve-image 
