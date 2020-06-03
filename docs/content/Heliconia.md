@@ -18,15 +18,17 @@ The genus Heliconia was named by Linnaeus after mount Helicon, the home of Apoll
 <param ve-image 
        fit="cover"
        title="The eight families of the order Zingiberales showing the relationship of bananas (_Musaceae_) and heliconias (_Heliconiaceae_)."
-       url="https://static.wixstatic.com/media/ef1aa2_46e5a2b723c64b20a704f71e8ef726e6.jpg/v1/fill/w_767,h_632,al_c,lg_1,q_85/ef1aa2_46e5a2b723c64b20a704f71e8ef726e6.webp"
+       url="https://static.wixstatic.com/media/ef1aa2_46e5a2b723c64b20a704f71e8ef726e6.jpg/v1/fill/w_767,h_632,al_c,lg_1,q_85/ef1aa2_46e5a2b723c64b20a704f71e8ef726e6.webp">
 
 In tropical America, heliconias are diurnal and  brightly colored because they are pollinated by hummingbirds that can detect reds, oranges, pinks, and yellows. [In the South Pacific](https://www-jstor-org.ezp-prod1.hul.harvard.edu/stable/23188167), the species flower at night and have inflorescences and colors that are generally dull green in color and because they are pollinated by color-blind bats that forage at night.
 <param ve-map basemap="Esri_WorldPhysical" center="7.498854, 21.527758" zoom="2">
 <param ve-map-layer geojson active url="geojson/heliconia_distribution.json">
 
-The striking structure, color, and beauty of heliconias lend themselves better to the painter’s brush than the herbarium sheet. In fact, a work of botanical art led to the discovery of a new variety. The renowned botanical artist [Margaret Mee](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/margaret-mee-in-the-amazon)  undertook  15 expeditions  into the Amazon in the course of which she painted several heliconias. One of them, published in Mee’sFlowers of the AmazonForests,  caught the attention of Smithsonian botanist John Kress.
-
-[Figure 3: Mee, Heliconia chartacea var. meeana]
+The striking structure, color, and beauty of heliconias lend themselves better to the painter’s brush than the herbarium sheet. In fact, a work of botanical art led to the discovery of a new variety. The renowned botanical artist [Margaret Mee](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/margaret-mee-in-the-amazon)  undertook  15 expeditions  into the Amazon in the course of which she painted several heliconias. One of them, published in Mee’s Flowers of the Amazon Forests, caught the attention of Smithsonian botanist John Kress.
+<param ve-image 
+       fit="cover"
+       title="The eight families of the order Zingiberales showing the relationship of bananas (_Musaceae_) and heliconias (_Heliconiaceae_)."
+       url="https://www.audubonart.com/web/image/product.product/3520/image/%5BOKME-016%5D%20Mee%20Pl.%2016%2C%20Heliconia%20chartacea?unique=dd3aee8">
 
 After spending several years in South America searching for new species of Heliconia, in 1990 Kress was back in his office at the Smithsonian, leafing through Mee’s botanical paintings, when he  came across a  form of heliconia, recorded by Mee  near the border between Venezuela and Brazil,that was unknown to him. The flowers’ unusual greenish-yellow color differed from those commonly found in that region. Kress realized that it was a new variety, maybe even a new species, and resolved to find it and name it after Mee.
 
