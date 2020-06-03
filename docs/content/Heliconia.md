@@ -91,3 +91,19 @@ Plants do not exist in isolation as they are often depicted in the portr
        url="https://upload.wikimedia.org/wikipedia/commons/2/24/Heliconia_Chartacea_-_Hoomaluhia_Botanical_Garden.jpg">
 
 A full assessment of the conservation status of each known species of _Heliconia_ is currently being conducted by John Kress, Gary Krupnick, and Serenity Montano. Using information from specimens collected over the last two hundred years and maintained in herbaria around the world, such as the United States National Herbarium at the Smithsonian Institution, they are using both the IUCN Red List Criteria method of assessment and a second rapid assessment method to determine conservation status of each species. Geospatial Conservation Assessment (GeoCat) maps and Red List descriptions of the conservation status of 185 species are being produced. For example, data from over 200 herbarium specimens found in 20 institutions suggest that _Heliconia bihai_ from the Caribbean and northern South America is of “Least Concern” for conservation (see GeoCat map and Red List assessment). Whereas the six available specimens of the very closely related species _Heliconia aurea_ from Colombia and Venezuela indicate that it is “Vulnerable” and at risk of extinction most likely due to habitat alteration, degradation, and destruction (see GeoCat map and Red List assessment).
+<param ve-plant-specimen eid="Q2727878">
+
+### References
+Altshuler, Douglas L. and Christopher James Clark. 2003. Darwin’s Hummingbirds. Science 300: 588-589. JSTOR, www.jstor.org/stable/3834345. Accessed 1 June 2020.
+
+Betts, M., Hadley, A., & Kress, W. 2015. Pollinator recognition by a keystone tropical plant. Proceedings of the National Academy of Sciences of the United States of America,112  (11), 3433-3438. JSTOR, [www.jstor.org/stable/26462059](http://www.jstor.org/stable/26462059). Accessed  May 17, 2020.
+
+Kress, W. John. 1990. The Taxonomy of Old World Heliconia (Heliconiaceae).  Allertonia, 6(1), 1–58. JSTOR, www.jstor.org/stable/23188167. Accessed 17 May 2020.
+
+Kress, W. J. 1997. A synopsis of the genus Heliconia (Heliconiaceae) in Venezuela with one new variety. BioLlania, Edición Especial No. 6: 407-430.
+
+Martén-Rodríguez, S., John Kress, W., Temeles, E.J. et al.2011. Plant–pollinator interactions and floral convergence in two species of Heliconiafrom the Caribbean Islands. Oecologia167, 1075–1083. https://doi.org/10.1007/s00442-011-2043-8
+
+Mee, M., & Morrison, T. 1988. Margaret Mee, In Search of Flowers of the Amazon Forests: Diaries of an English artist reveal the beauty of the vanishing rainforest. Suffolk, England: Nonesuch Expeditions.
+
+Temeles, E. J., and W. J. Kress. 2003. Evidence for adaptation in a plant-hummingbird
