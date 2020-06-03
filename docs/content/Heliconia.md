@@ -60,7 +60,7 @@ Heliconias are of particular interest to science and to our understanding of eco
 <param ve-map-layer geojson active url="geojson/heliconia_distribution.json">
 
 Another strange group of heliconias in the South Pacific is found from Samoa to New Guinea and they are completely different: they are a dull, green color and flower at night. They are pollinated by bats, which cannot detect color and forage after dark, so the Pacific heliconias have lost their bright colors. We now believe that the most ancient heliconias that lived in South America about ten million years ago, and had bright red and yellow flowers, somehow got to the South Pacific islands where they lost their bright colors and switched from hummingbird pollination to bat pollination.
-<param ve-map basemap="Esri_WorldPhysical" center="-9.581892, 167.909864" zoom="3.5">
+<param ve-map basemap="Esri_WorldPhysical" center="-15.935453, 157.264214" zoom="3.5">
 <param ve-map-layer geojson active url="geojson/heliconia_distribution.json">
 
 This is evolution at work. Indeed, the close relationships between some plants and animals and their interactions played a key role in the development of [Charles Darwin’s ideas on the process of natural selection and evolution](https://www.biodiversitylibrary.org/page/26253722](https://www.biodiversitylibrary.org/page/26253722)). Darwin was especially interested in the relationship between orchids and the insects that pollinated them. Heliconias offer equally interesting and unique relationships with their animal pollinators.
