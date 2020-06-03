@@ -25,10 +25,8 @@ In tropical America, heliconias are diurnal and brightly colored because they ar
 <param ve-map-layer geojson active url="geojson/heliconia_distribution.json">
 
 The striking structure, color, and beauty of heliconias lend themselves better to the painter’s brush than the herbarium sheet. In fact, a work of botanical art led to the discovery of a new variety. The renowned botanical artist [Margaret Mee](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/margaret-mee-in-the-amazon)  undertook [15 expeditions](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/amazonian-entanglements) into the Amazon in the course of which she painted several heliconias. One of them, published in Mee’s _Flowers of the Amazon Forests_, caught the attention of Smithsonian botanist John Kress.
-<param ve-image 
-       fit="cover"
-       title="Mee _Heliconia chartacea_, Kew"
-       url="https://www.audubonart.com/web/image/product.product/3520/image/%5BOKME-016%5D%20Mee%20Pl.%2016%2C%20Heliconia%20chartacea?unique=dd3aee8">
+<param ve-map basemap="Esri_WorldPhysical" center="7.498854, 21.527758" zoom="7">
+<param ve-map-layer geojson active url="geojson/Mee-1975.json">
 
 After spending several years in South America searching for new species of _Heliconia_, in 1990 Kress was back in his office at the Smithsonian, leafing through Mee’s botanical paintings, when he  came across a form of heliconia, recorded by Mee near the border between Venezuela and Brazil, that was unknown to him. The flowers’ unusual greenish-yellow color differed from those commonly found in that region. Kress realized that it was a new variety, maybe even a new species, and resolved to find it and name it after Mee.
 <param ve-image 
@@ -82,7 +80,10 @@ Archipelagoes are ideal environments for observing plant evolution driven by int
        url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/amazonian-entanglements/heliconia-caribaea/@@images/a4d897a3-c0e0-488d-9f11-68560d92ea02.jpeg">
 
 Another species, _Heliconia tortuosa_ from Costa Rica, provides a fascinating example of plant adaption in selecting specific pollinators. The distinctive shape of the plant’s flowers acts as a screening mechanism. An ingenious aviary [experiment](https://www-jstor-org.ezp-prod1.hul.harvard.edu/stable/26462059) has shown that the plant has the capacity to distinguish among pollinators and respond to their visits by preventing or facilitating pollen tube growth to encourage or discourage fertilization and seed production. Specifically, _Heliconia tortuosa_ plants allow pollen tube growth after visits by two species of hummingbird that are more likely to carry high-quality, long-distance and more diverse pollen--and prevent pollen tube growth after visits by less effective species of hummingbirds. The plants apparently discriminate by measuring how much nectar has been removed by the particular birds. This experiment is perhaps the first evidence of specific pollinator recognition by plants, and a form of decision-making that identifies the desired pollinator to optimize reproduction.
-<param ve-plant-specimen eid="Q3926650">
+<param ve-image 
+       fit="cover"
+       title="The curved bill of the green hermit (Phaetornis guy), which is restricted to forested habitats, effectively extracts nectar from a _Heliconia tortuosa flower_, Matt Betts, Oregon State University"
+       url="https://www.eurekalert.org/multimedia/pub/web/107366_web.jpg">
 
 Plants do not exist in isolation as they are often depicted in the portraits painted by artists and the drawings of botanical illustrators. Rather, plants inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction.
 <param ve-image 
