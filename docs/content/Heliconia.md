@@ -17,7 +17,7 @@ Heliconias, with their sculptural bracts and stunning colors, are an iconic trop
 The genus Heliconia was named by Linnaeus after mount Helicon, the home of Apollo and the Muses,  to emphasize the close taxonomic relationship to the genus Musa, or the bananas. Overall, taxonomists recognize about 185 species of Heliconia world-wide, but there are undoubtedly one or two dozen more species to discover and describe in the tropical forests of the two distinct regions across the globe where they grow as native plants. These respective habitats, as wide apart as tropical South America and the islands of the South Pacific, determine the appearance of the plants.
 <param ve-image 
        fit="cover"
-       title="The eight families of the order Zingiberales showing the relationship of bananas (Musaceae) and heliconias (Heliconiaceae)."
+       title="The eight families of the order Zingiberales showing the relationship of bananas (_Musaceae_) and heliconias (_Heliconiaceae_)."
        url="https://static.wixstatic.com/media/ef1aa2_46e5a2b723c64b20a704f71e8ef726e6.jpg/v1/fill/w_767,h_632,al_c,lg_1,q_85/ef1aa2_46e5a2b723c64b20a704f71e8ef726e6.webp"
 
 In tropical America, heliconias are diurnal and  brightly colored because they are pollinated by hummingbirds that can detect reds, oranges, pinks, and yellows. [In the South Pacific](https://www-jstor-org.ezp-prod1.hul.harvard.edu/stable/23188167), the species flower at night and have inflorescences and colors that are generally dull green in color and because they are pollinated by color-blind bats that forage at night.
