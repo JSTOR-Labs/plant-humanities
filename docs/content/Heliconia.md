@@ -63,17 +63,23 @@ Another strange group of heliconias in the South Pacific is found from S
 <param ve-map basemap="Esri_WorldPhysical" center="-9.581892, 167.909864" zoom="4">
 <param ve-map-layer geojson active url="geojson/heliconia_distribution.json">
 
-This is evolution at work. Indeed, the close relationships between some plants and animals and their interactions played a key role in the development of Charles Darwin’s ideas on the process of natural selection and evolution. Darwin was especially interested in the relationship between orchids and the insects that pollinated them. Heliconias offer equally interesting and unique relationships with their animal pollinators.
-
-[Figure 8: Title page of Darwin, On the Various Contrivances]
+This is evolution at work. Indeed, the close relationships between some plants and animals and their interactions played a key role in the development of [Charles Darwin’s ideas on the process of natural selection and evolution](https://www.biodiversitylibrary.org/page/26253722](https://www.biodiversitylibrary.org/page/26253722)). Darwin was especially interested in the relationship between orchids and the insects that pollinated them. Heliconias offer equally interesting and unique relationships with their animal pollinators.
+<param ve-image 
+       fit="cover"
+       title="Images of _Heliconia_ species representing pendent and erect inflorescences and non-resupinate and resupinate flowers, demonstrating interactions with hummingbirds and the resulting position of placement of the pollen (yellow ovals) on the forehead/beak or chin of the pollinator, in "The phylogeny of _Heliconia_ (Heliconiaceae) and the evolution of floral presentation""
+       url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/hummingbird_helliconia.jpg">
 
 An extraordinary [example](https://link-springer-com.ezp-prod1.hul.harvard.edu/content/pdf/10.1007/s00442-011-2043-8.pdf) of coevolution, or reciprocal evolution between two species, is the relationship between heliconias and hummingbirds in the eastern arc of the Caribbean islands. The two species of heliconias native to these islands and the one species of hummingbird found there have coevolved in a very unique and interesting way. The two heliconias are quite different from each other, but the single species of hummingbird that  pollinates them is so specialized that the small-bodied females visit one species of heliconia and the larger-bodied males visit the other species.  Astonishingly, the shape and size of the bills of each sex corresponds to the shape and size of the flowers of the specific heliconias that they visit and feed from.  In other words, one sex of the hummingbird has evolved with one species of heliconia and the other sex has evolved with the second species of plant.
-
-[Figure 9: Bryan Poole, Heliconia bihai with female hummingbirds] 
+<param ve-image 
+       fit="cover"
+       title="Bryan Poole, _Heliconia bihai_ with female hummingbirds"
+       url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/amazonian-entanglements/heliconia-bihai/@@images/518bb71b-5539-45b3-ac09-b2f8edac97fd.jpeg">
 
 Archipelagoes are ideal environments for observing plant evolution driven by interactions with animals of various kinds. Darwin’s ideas on evolution and natural selection were in part based on his experiences and observations in the Galápagos Islands and other archipelagos. The fewer species of plants and animals on islands than in mainland habitats allow biologists to study more closely ecological and evolutionary processes in natural communities. This is certainly true with the heliconias and hummingbirds in the arc of islands in the Eastern Caribbean. Douglas Altshuler and Christopher James Clark [describe](http://www.jstor.org/stable/3834345) the dynamic nature of these interactions: “Hummingbird and Heliconia engage in a coevolutionary dance, with flower shape evolving in response to hummingbird bills, and bill shape evolving in response to flower shape. By offering nectars containing different amounts of energy, Heliconia species select for different body sizes” in the birds as well. Echoing  the famous “Darwin’s Finches” in the Galapagos,  Altshuler and Clark referred to the birds in the Caribbean as “Darwin’s Hummingbirds.”
-
-[Figure 10: Bryan Poole, Heliconiacaribeae with male hummingbirds]
+<param ve-image 
+       fit="cover"
+       title="Bryan Poole, _Heliconia caribaea_ with male hummingbirds"
+       url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/amazonian-entanglements/heliconia-caribaea/@@images/a4d897a3-c0e0-488d-9f11-68560d92ea02.jpeg">
 
 Another species, Heliconia  tortuosa from Costa Rica, provides a fascinating example of plant adaption in selecting specific pollinators. The distinctive shape of the plant’s flowers acts as a screening mechanism. An ingenious aviary [experiment](https://www-jstor-org.ezp-prod1.hul.harvard.edu/stable/26462059) has shown that the plant has the capacity to distinguish among pollinators and respond to their visits by preventing or facilitating pollen tube growth to encourage or discourage fertilization and seed production. Specifically, Heliconia  tortuosa plants allow pollen tube growth after visits by two species of hummingbird that are more likely to carry high-quality, long-distance and more diverse pollen--and prevent pollen tube growth after visits by less effective species of hummingbirds. The plants apparently discriminate by measuring how much nectar has been removed by the particular birds. This experiment is perhaps the first evidence of specific pollinator recognition by plants, and a form of decision-making that identifies the desired pollinator to optimize reproduction.
 
