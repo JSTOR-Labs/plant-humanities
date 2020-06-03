@@ -1,14 +1,14 @@
 [View](https://plant-humanities.app/essay?gdid=1pXMxmniJsPZc0bC-5PX5wygn22qRMjRs)
 
-<var data-essay
-	title="Heliconias"
-	data-banner="https://commons.wikimedia.org/wiki/File:Illustration_from_Les_liliac%C3%A9es_by_Pierre_Joseph_Redout%C3%A9_(1759-1840)._Digitally_enhanced_by_rawpixel-com_381.jpg"
-	data-layout="vtl"
-	data-num-maps="13"
-	data-num-images="11"
-	data-num-specimens="0"
-	data-num-primary-sources="6"
-	data-author="Yota Batsaki, PhD"></var>
+<param ve-config
+	   title="Heliconias"
+	   banner="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Illustration_from_Les_liliac%C3%A9es_by_Pierre_Joseph_Redout%C3%A9_%281759-1840%29._Digitally_enhanced_by_rawpixel-com_381.jpg/745px-Illustration_from_Les_liliac%C3%A9es_by_Pierre_Joseph_Redout%C3%A9_%281759-1840%29._Digitally_enhanced_by_rawpixel-com_381.jpg"
+  	   layout="vtl"
+	   num-maps="13"
+	   num-images="11"
+	   num-specimens="0"
+	   num-primary-sources="6"
+	   author="Yota Batsaki, PhD">
 
 ### Need Subtitle
 Heliconias, with their sculptural bracts and stunning colors, are an iconic tropical plant, widely distributed in ornamental gardens and the horticulture trade. Yet until fairly recently these plants were poorly known to scientists. Heliconias are large herbs with fleshy, bulky inflorescences and flowers, so botanists have not always collected them in the field and their character is hard to capture on a herbarium sheet. However, in recent decades,  both field observations and controlled experiments by botanists have led to fascinating discoveries about heliconias  that illuminate the sophistication of plant-animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.
