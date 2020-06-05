@@ -4,10 +4,10 @@
 	title="Heliconia"
 	data-banner="https://upload.wikimedia.org/wikipedia/commons/4/48/Illustration_from_Les_liliac%C3%A9es_by_Pierre_Joseph_Redout%C3%A9_%281759-1840%29._Digitally_enhanced_by_rawpixel-com_381.jpg"
 	data-layout="vtl"
-	data-num-maps="13"
-	data-num-images="11"
-	data-num-specimens="0"
-	data-num-primary-sources="6"
+	data-num-maps="4"
+	data-num-images="10"
+	data-num-specimens="16"
+	data-num-primary-sources="4"
 	data-author="Yota Batsaki, PhD"></var>
 
 ### Need Subtitle
