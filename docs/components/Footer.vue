@@ -3,7 +3,7 @@
     <v-row>
       <v-col cols="6" nogutter>
         <span style="padding-bottom: 8px; font-weight: bold; display: block">A collaboration between:</span>
-        <img src="https://jstor-labs.github.io/plant-humanities/images/do-logo.svg" style="height:180px; margin-top:-75px;"> &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://jstor-labs.github.io/plant-humanities/images/do-logo.svg" style="height:180px; margin:-75px 0;"> &nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://jstor-labs.github.io/plant-humanities/images/labs.jpg" height="30px">
       </v-col>
       <v-col cols="6">
