@@ -50,6 +50,10 @@ The more typical form of _Heliconia chartacea_ is called “Sexy Pink” in the 
        fit="cover"
        title="Margaret Mee, _Heliconia  psittacorum_, Dumbarton Oaks"
        url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/19/@@images/image">
+<param ve-image 
+       fit="cover"
+       title="Herbarium specimen of _Heliconia chartacea_"
+       url="https://plants.jstor.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=/jp2/fpx/alukaplant/rb/phase_01/rb0005/rb00287315.jp2">
 
 The Botanical Magazine (1799-1800) published a plate ([#502](https://www.biodiversitylibrary.org/page/469087#page/160/mode/1up)) and an entry on _Heliconia psittacorum_: “This beautiful stove plant is a native of Jamaica…” The text alludes to the fact that the image was drawn from a living specimen and marks the stage of the plant at that particular moment: “At a more advanced stage than that at which our drawing was taken, the top of the stem becomes flexuous or zig-zag,” alluding to the plant’s  trademark  bracts. The “stove plant” designation is a reminder that growing heliconias would have required expensive heating and hothouse infrastructure available only to the very wealthy; the flowering of a “stove plant” was often a competitive feat worthy of being recorded and a source of prestige for its own  owner. This drawing “was made from a plant which flowered in August 1800, amidst a great variety of beautiful and rare exotics, in the superb collection of E.D. Woodford, Esq., at Vauxhall.” Collectors basked in the achievement and glamor that came with the ability to coax such a rare exotic into bloom.
 <param ve-image 
