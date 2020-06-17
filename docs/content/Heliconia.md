@@ -12,11 +12,11 @@
 
 ### Need Subtitle
 Heliconias, with their sculptural bracts and stunning colors, are an iconic tropical plant, widely distributed in ornamental gardens and the horticulture trade. Yet until fairly recently these plants were poorly known to scientists. Heliconias are large herbs with fleshy, bulky inflorescences and flowers, so botanists have not always collected them in the field and their character is hard to capture on a herbarium sheet. However, in recent decades,  both field observations and controlled experiments by botanists have led to fascinating discoveries about heliconias that illuminate the sophistication of plant-animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.
-<param ve-plant-specimen eid="Q3926643">
-<param ve-plant-specimen eid="Q2667306">
-<param ve-plant-specimen eid="Q2727878">
-<param ve-plant-specimen eid="Q15250028">
-<param ve-plant-specimen eid="Q3926650">
+<param ve-plant-specimen eid="Q3926643" max="1">
+<param ve-plant-specimen eid="Q2667306" max="1">
+<param ve-plant-specimen eid="Q2727878" max="1">
+<param ve-plant-specimen eid="Q15250028" max="1">
+<param ve-plant-specimen eid="Q3926650" max="1">
 
 The genus _Heliconia_ was named by Linnaeus after mount Helicon, the home of Apollo and the Muses, to emphasize the close taxonomic relationship to the genus [_Musa_](https://plant-humanities.app/Banana), or the bananas. Overall, taxonomists recognize about 185 species of _Heliconia_ world-wide, but there are undoubtedly one or two dozen more species to discover and describe in the tropical forests of the two distinct regions across the globe where they grow as native plants. These respective habitats, as wide apart as tropical South America and the islands of the South Pacific, determine the appearance of the plants.
 <param ve-image 
