@@ -37,7 +37,6 @@ After spending several years in South America searching for new species of _Heli
        fit="cover"
        title="Photograph of John Kress (center) and team with the newly-found _Heliconia_."
        url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/exhibition-images/14-john-kress-finding-heliconia.jpg/@@images/21b338bf-3b3b-4f38-a159-d728bdf9baea.jpeg">
-[SHORT VIDEO with this paragraph as well]
 
 This special form, which was named by Kress _Heliconia chartacea  var. meeana_,  is greenish-yellow in color and differs from the more typical form of _Heliconia chartacea_, which is bright pink and rose. It may simply be a partial albino form of the typical species and is also pollinated by hummingbirds. A scientific illustration by Smithsonian botanical artist [Alice Tangerini](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/tangerini-interview), created after Kress returned with the heliconia, employed a mix of photographs, dried specimens, and dissections under the microscope to capture the plant’s structures in pen and ink for the botanical publication of the new variety.
 <param ve-image 
