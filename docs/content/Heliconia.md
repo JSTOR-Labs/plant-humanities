@@ -60,6 +60,10 @@ The Botanical Magazine (1799-1800) published a plate ([#502](https://www.biodive
        fit="cover"
        title="Curtis’ Botanical Magazine, _Heliconia  psittacorum_, via BHL"
        url="https://www.biodiversitylibrary.org/pageimage/469079">
+<param ve-image 
+       fit="cover"
+       title="Curtis’ Botanical Magazine, _Heliconia  psittacorum_, via BHL"
+       url="https://www.biodiversitylibrary.org/pageimage/469080">
 
 Heliconias are of particular interest to science and to our understanding of ecosystems and plant-animal interactions because they have evolved highly specialized relationships with their pollinators, the hummingbirds. Heliconias are mostly found in the neotropics from central Mexico down to northern Argentina, including the Caribbean. They all have brightly colored flowers and bracts that open during the day to attract their hummingbird pollinators. 
 <param ve-map basemap="Esri_WorldPhysical" center="5.855585, -76.226586" zoom="3.5">
