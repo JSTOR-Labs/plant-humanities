@@ -96,7 +96,7 @@ Another species, _Heliconia tortuosa_ from Costa Rica, provides a fascinating ex
        title="The curved bill of the green hermit (Phaetornis guy), which is restricted to forested habitats, effectively extracts nectar from a _Heliconia tortuosa flower_, Matt Betts, Oregon State University"
        url="https://www.eurekalert.org/multimedia/pub/web/107366_web.jpg">
 
-Plants do not exist in isolation as they are often depicted in the portraits painted by artists and the drawings of botanical illustrators. Rather, plants inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction.
+Plants do not exist in isolation as they are often depicted in the portraits painted by artists and the drawings of botanical illustrators. Rather, plants inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction.
 <param ve-image 
        fit="cover"
        title="_Heliconia chartacea_"
