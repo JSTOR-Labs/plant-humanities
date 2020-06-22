@@ -11,6 +11,17 @@
             "selectors": ["tag:plant-specimen"],
             "icon": "fa-seedling",
             "label": "Plant Specimens"
+        },
+        {
+            "name": "storiiies", 
+            "src": "https://jstor-labs.github.io/visual-essays/components/StoriiiesViewer.vue",
+            "selectors": ["tag:storiiies"],
+            "icon": "fa-book",
+            "label": "Storiiies Viewer",
+            "dependencies": [
+                "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.2/openseadragon.min.js",
+                "https://storiiies.cogapp.com/assets/demos/viewer/js/shortcode.js",
+                "https://storiiies.cogapp.com/assets/demos/viewer/css/main.css"]
         }
     ]
 }
