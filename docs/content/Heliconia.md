@@ -96,8 +96,8 @@ Another species, _Heliconia tortuosa_ from Costa Rica, provides a fascinating ex
 Plants do not exist in isolation as they are often depicted in the portraits painted by artists and the drawings of botanical illustrators. Rather, plants inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction.
 <param ve-image 
        fit="cover"
-       title="_Heliconia chartacea_"
-       url="https://upload.wikimedia.org/wikipedia/commons/2/24/Heliconia_Chartacea_-_Hoomaluhia_Botanical_Garden.jpg">
+       title="_Heliconia Keystone Species_"
+       url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Screen%20Shot%202020-06-23%20at%201.40.17%20PM.png">
 
 A full assessment of the conservation status of each known species of _Heliconia_ is currently being conducted by John Kress, Gary Krupnick, and Serenity Montano. Using information from specimens collected over the last two hundred years and maintained in herbaria around the world, such as the United States National Herbarium at the Smithsonian Institution, they are using both the [IUCN Red List](https://www.iucnredlist.org/search?query=Heliconia&searchType=species) Criteria method of assessment and a second rapid assessment method to determine conservation status of each species. Geospatial Conservation Assessment (GeoCat) maps and Red List descriptions of the conservation status of 185 species are being produced. For example, data from over 200 herbarium specimens found in 20 institutions suggest that _Heliconia bihai_ from the Caribbean and northern South America is of “Least Concern” for conservation.
 <param ve-plant-specimen eid="Q2727878">
