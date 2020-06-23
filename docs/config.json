@@ -4,7 +4,7 @@
     "bannerHeight": 400,
     "components": [
         {"name": "siteHeader", "src": "https://jstor-labs.github.io/visual-essays/components/Header.vue"},
-        {"name": "siteFooter", "src": "/components/Footer.vue"},
+        {"name": "siteFooter", "src": "https://jstor-labs.github.io/visual-essays/components/Footer.vue"},
         {
             "name": "plantSpecimen", 
             "src": "/components/PlantSpecimenViewer.vue",
