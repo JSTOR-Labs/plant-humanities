@@ -73,10 +73,7 @@ Another strange group of heliconias in the South Pacific is found from S
 <param ve-map-layer geojson active url="geojson/heliconia_distribution.json">
 
 This is evolution at work. Indeed, the close relationships between some plants and animals and their interactions played a key role in the development of [Charles Darwin’s ideas on the process of natural selection and evolution](https://www.biodiversitylibrary.org/page/26253722](https://www.biodiversitylibrary.org/page/26253722)). Darwin was especially interested in the relationship between orchids and the insects that pollinated them. Heliconias offer equally interesting and unique relationships with their animal pollinators.
-<param ve-image 
-       fit="cover"
-       title="Images of _Heliconia_ species representing pendent and erect inflorescences and non-resupinate and resupinate flowers, demonstrating interactions with hummingbirds and the resulting position of placement of the pollen (yellow ovals) on the forehead/beak or chin of the pollinator, in "The phylogeny of _Heliconia_ (Heliconiaceae) and the evolution of floral presentation""
-       url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/hummingbird_helliconia.jpg">
+<param ve-storiiies id="e41co">
 
 An extraordinary [example](https://link-springer-com.ezp-prod1.hul.harvard.edu/content/pdf/10.1007/s00442-011-2043-8.pdf) of coevolution, or reciprocal evolution between two species, is the relationship between heliconias and hummingbirds in the eastern arc of the Caribbean islands. The two species of heliconias native to these islands and the one species of hummingbird found there have coevolved in a very unique and interesting way. The two heliconias are quite different from each other, but the single species of hummingbird that pollinates them is so specialized that the small-bodied males visit the other species. Astonishingly, the shape and size of the bills of each sex corresponds to the shape and size of the flowers of the specific heliconias that they visit and feed from. In other words, one sex of the hummingbird has evolved with one species of heliconia and the other sex has evolved with the second species of plant.
 <param ve-image 
