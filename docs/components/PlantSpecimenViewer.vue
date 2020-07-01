@@ -48,28 +48,28 @@
       outerContainerStyle() { return { width: `${this.width}px`, height: `${this.height}px`, padding: 0 } },
       innerContainerStyle() { return { height: `${this.height - 48}px`, padding: 0, overflowY: 'auto !important' } },
     },
+    mounted() {
+      this.items.forEach(item => this.getSpecimenMetadata(item))
+    },
     methods: {
       getSpecimenMetadata(item) {
-        const args = Object.keys(item).filter(arg => ['max', 'reverse'].includes(arg)).map(arg => `${arg}=${item[arg]}`)
-        fetch(`https://plant-humanities.app/specimens/${item.label.replace(/ /, '_')}` + (args ?  `?${args.join('&')}` : ''))
-          .then(resp => resp.json())
-          .then(specimensMetadata => {
-            specimensMetadata.caption = item.label
-            specimensMetadata.specimens.forEach(specimen => {
-              const defaultImage = specimen.images.find(img => img.type === 'default')
-              specimen.url = defaultImage.url
-              specimen.title = specimen.description
+        if (item.label) {
+          const args = Object.keys(item).filter(arg => ['max', 'reverse'].includes(arg)).map(arg => `${arg}=${item[arg]}`)
+          fetch(`https://plant-humanities.app/specimens/${item.label.replace(/ /, '_')}` + (args ?  `?${args.join('&')}` : ''))
+            .then(resp => resp.json())
+            .then(specimensMetadata => {
+              if (specimensMetadata.specimens.length > 0) {
+                specimensMetadata.caption = item.label
+                specimensMetadata.specimens.forEach(specimen => {
+                  const defaultImage = specimen.images.find(img => img.type === 'default')
+                  specimen.url = defaultImage.url
+                  specimen.title = specimen.description
+                })
+                this.specimensByTaxon = [...this.specimensByTaxon, specimensMetadata]
+                this.$store.dispatch('updateItem', { ...item, ...{ specimensMetadata }})
+              }
             })
-            this.specimensByTaxon = [...this.specimensByTaxon, specimensMetadata]
-          })
-      }
-    },
-    watch: {
-      items: {
-        handler: function () {
-          this.items.forEach(item => this.getSpecimenMetadata(item))
-        },
-        immediate: true
+        }
       }
     }
   }
