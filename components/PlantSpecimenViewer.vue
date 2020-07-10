@@ -26,7 +26,7 @@
                 :items="specimens.specimens"
                 :width="width"
                 :height="height - 46"
-                initial-mode="iiif"
+                initial-mode="mirador"
                 default-fit="cover">
               </image-viewer>
             </v-card-text>
