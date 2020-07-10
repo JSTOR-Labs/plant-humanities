@@ -11,6 +11,7 @@
 	data-author="John Kress, PhD and Yota Batsaki, PhD"></var>
 
 ### Need Subtitle
+
 Heliconias, with their sculptural bracts and stunning colors, are an iconic tropical plant, widely distributed in ornamental gardens and the horticulture trade. Yet until fairly recently these plants were poorly known to scientists. Heliconias are large herbs with fleshy, bulky inflorescences and flowers, so botanists have not always collected them in the field and their character is hard to capture on a herbarium sheet. However, in recent decades,  both field observations and controlled experiments by botanists have led to fascinating discoveries about heliconias that illuminate the sophistication of plant-animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.
 <param ve-plant-specimen eid="Q3926643" max="1">
 <param ve-plant-specimen eid="Q2667306" max="1">

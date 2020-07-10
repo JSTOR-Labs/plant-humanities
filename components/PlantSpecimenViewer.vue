@@ -16,16 +16,17 @@
 
       <v-tabs-items v-model="tab">
         <v-tab-item
-          v-for="specimens in specimensByTaxon"
+          v-for="(specimens, seq) in specimensByTaxon"
           :key="specimens.id"
         >
           <v-card flat>
             <v-card-text flat :style="innerContainerStyle">
               <image-viewer
+                :seq="seq+1"
                 :items="specimens.specimens"
                 :width="width"
                 :height="height - 46"
-                initial-mode="gallery"
+                initial-mode="iiif"
                 default-fit="cover">
               </image-viewer>
             </v-card-text>
@@ -38,7 +39,7 @@
 
 <script>
   module.exports = {
-    name: 'plant-specimens',
+    name: 'PlantSpecimenViewer',
     props: { items: Array, width: Number, height: Number },
     data: () => ({
       tab: undefined,
@@ -49,6 +50,7 @@
       innerContainerStyle() { return { height: `${this.height - 48}px`, padding: 0, overflowY: 'auto !important' } },
     },
     mounted() {
+      console.log('PlantSpecimenViewer')
       this.items.forEach(item => this.getSpecimenMetadata(item))
     },
     methods: {
