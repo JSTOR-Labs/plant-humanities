@@ -1,4 +1,4 @@
-[View](https://plant-humanities.app/essay?gdid=1S34SHxacJMJvIAIWu-uV7RcmBuDKfhRL)
+[View](https://plant-humanities.app/essay/Agave)
 
 <var data-essay
 	title="Agave"
@@ -121,3 +121,6 @@ Beyond producing one of North America’s favorite spirits, agave plants, just a
 [^ref14]: Garcia‐Moya, E., Romero‐Manzanares, A. and Nobel, P. S. (2011), Highlights for _Agave_ Productivity. GCB Bioenergy, 3: 4-14. doi:[10.1111/j.1757-1707.2010.01078.x](https://doi.org/10.1111/j.1757-1707.2010.01078.x)
 
 [^ref15]: David, Sarah C., Frank G. Dohleman, and Stephen P. Long. (2010). The global potential for Agave as a biofuel feedstock. GCB Bioenergy 3, 68–78, doi:10.1111/j.17571707.2010.01077.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMjYyOTk0NTZdfQ==
+-->
