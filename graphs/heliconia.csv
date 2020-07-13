@@ -1,0 +1,14 @@
+source,target,edge
+Q3926650,Q1076873,can only be pollinated by	Green hermit hummingbird
+Q3926650,Q1130092,can only be pollinated by	Violet sabrewing hummingbird
+Q2727878,Q784919,is pollinated by	Purple-throated carib (female)
+Q15329469,Q784919,is pollinated by Purple-throated carib (male)
+Q3926643,Q741604,is pollinated by	Hermit hummingbirds
+Q1076873,Q263388,is a species of Eulampis
+Q1130092,Q535829,is a species of Campylopterus
+Q784919,Q263388,is a species of	Eulampis
+Q2727878,Q624242,is a species of Heliconia
+Q15329469,Q624242,is a species of Heliconia
+Q3926643,Q624242,is a species of Heliconia
+Q535829,Q43624,is a genus of Trochilidae
+Q741604,Q43624,is a subfamily of Trochilidae
