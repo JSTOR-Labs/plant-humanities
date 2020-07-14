@@ -1,5 +1,5 @@
 <var data-essay
-	title="Agave"
+	title="Agave - An Ancient Plant with an Intoxicating History"
 	data-banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gc29_agave_americana.jpg/1920px-Gc29_agave_americana.jpg"
 	data-layout="vtl"
 	data-num-maps="3"
