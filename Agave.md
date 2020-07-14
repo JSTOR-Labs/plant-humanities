@@ -1,5 +1,3 @@
-[View](https://plant-humanities.app/essay/Agave)
-
 <var data-essay
 	title="Agave"
 	data-banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gc29_agave_americana.jpg/1920px-Gc29_agave_americana.jpg"
