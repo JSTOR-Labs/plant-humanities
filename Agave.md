@@ -25,8 +25,6 @@
 <var title="global warming" id="Q7942"></var>
 
 
-## An Ancient Plant with an Intoxicating History
-
 ### The Big Bloom
 1698 was a special year for the Leiden botanical garden. After 96 long years, its exotic “Aloe Americana” (or _Agave americana_ as it is classified today) bloomed for the first time. To commemorate the marvelous event, the Hortus commissioned and illustrated print of the plant.[^ref1] A surviving poster-sized print, recently added to Dumbarton Oaks’ Rare Book Collection, reveals sixteenth and seventeenth century European botanists’ fascination with the so-called “century plant” and provides a lens to explore the history of agave – a plant that shaped human societies across three continents.
 <var data-primary="image"></var>
