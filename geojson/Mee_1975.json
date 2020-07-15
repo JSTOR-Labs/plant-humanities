@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#771d1d",
+        "marker-size": "large",
+        "marker-symbol": "garden",
+        "label": "On her 10th expedition in 1975, Mee paints rare Amazonian flowers, including several varieties of Heliconia, in the region of Manaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.99359130859375,
+          -3.09389329669897
+        ]
+      }
+    }
+  ]
+}

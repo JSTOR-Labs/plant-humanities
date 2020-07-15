@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#5c6609",
+        "marker-size": "large",
+        "marker-symbol": "book"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12754440307617188,
+          51.50778087767913
+        ]
+      }
+    }
+  ]
+}
