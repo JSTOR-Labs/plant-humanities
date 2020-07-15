@@ -1,28 +1,28 @@
-<var data-essay
+<param ve-config
 	title="Agave - An Ancient Plant with an Intoxicating History"
-	data-banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gc29_agave_americana.jpg/1920px-Gc29_agave_americana.jpg"
-	data-layout="vtl"
-	data-num-maps="3"
-	data-num-images="8"
-	data-num-specimens="0"
-	data-num-primary-sources="3"
-	data-author="Ashley Buchanan, PhD"></var>
+	banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gc29_agave_americana.jpg/1920px-Gc29_agave_americana.jpg"
+	layout="vtl"
+	num-maps="3"
+	num-images="8"
+	num-specimens="0"
+	num-primary-sources="3"
+	author="Ashley Buchanan, PhD">
 
-<var title="Hortus Botanicus Leiden" id="Q2468128" data-aliases="city’s new botanical garden"></var>
-<var title="Jalisco" id="Q13160"></var>
-<var title="Agave" id="Q155874"></var>
-<var title="monocots" id="Q78961"></var>
-<var title="Mexica" id="Q3307681"></var>
-<var title="Nahuatl" id="Q13300"></var>
-<var title="Pulque" id="Q511700"></var>
-<var title="Viceroyalty of New Spain" id="Q170603"></var>
-<var title="human sacrifice in Aztec culture" id="Q583349" data-aliases="Aztec gladiatorial sacrifice"></var>
-<var title="Carolus Clusius" id="Q333372"></var>
-<var title="Toribio de Benavente Motolinia" id="Q532539"></var>
-<var title="Padova botanic garden" id="Q598892" data-alias="Padua"></var>
-<var data-scope="local" id="Q457191"></var>
-<var title="Mestizo" id="Q106713" data-aliases="mestizos"></var>
-<var title="global warming" id="Q7942"></var>
+<param title="Hortus Botanicus Leiden" eid="Q2468128" data-aliases="city’s new botanical garden">
+<param title="Jalisco" eid="Q13160">
+<param title="Agave" eid="Q155874">
+<param title="monocots" eid="Q78961">
+<param title="Mexica" eid="Q3307681">
+<param title="Nahuatl" eid="Q13300">
+<param title="Pulque" eid="Q511700">
+<param title="Viceroyalty of New Spain" eid="Q170603">
+<param title="human sacrifice in Aztec culture" eid="Q583349" aliases="Aztec gladiatorial sacrifice">
+<param title="Carolus Clusius" eid="Q333372">
+<param title="Toribio de Benavente Motolinia" eid="Q532539">
+<param title="Padova botanic garden" eid="Q598892" dalias="Padua">
+<param data-scope="local" eid="Q457191">
+<param title="Mestizo" eid="Q106713" aliases="mestizos">
+<param title="global warming" eid="Q7942">
 
 
 ### The Big Bloom
