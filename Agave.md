@@ -1,5 +1,5 @@
 <pvaram ve-config data-essay
-	title="Agave - An Ancient Plant with an Intoxicating History"
+	title="Agave -
 	data-banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gc29_agave_americana.jpg/1920px-Gc29_agave_americana.jpg"
 	data-layout="vtl"
 	data-num-maps="3"
@@ -127,5 +127,5 @@ Beyond producing one of North America’s favorite spirits, agave plants, just a
 
 [^ref15]: David, Sarah C., Frank G. Dohleman, and Stephen P. Long. (2010). The global potential for Agave as a biofuel feedstock. GCB Bioenergy 3, 68–78, doi:10.1111/j.17571707.2010.01077.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTgyOTA2M119
+eyJoaXN0b3J5IjpbLTE4NjQxMzA4MSwxOTExODI5MDYzXX0=
 -->
