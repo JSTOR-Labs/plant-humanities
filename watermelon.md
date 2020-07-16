@@ -10,7 +10,6 @@
 
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991">
-<param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 
 ## Watermelon
 Code to add a location with a custom marker on a map for every paragraph in this section.
@@ -18,7 +17,7 @@ Code to add a location with a custom marker on a map for every paragraph in this
 
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-image
-title="Watermelon _Citrullus lanatus_" url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg"
+title="Watermelon _Citrullus lanatus_" url="https://upload.wikimedia.org/wikipedia/commons/5/57/Watermelon-garden.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
 
