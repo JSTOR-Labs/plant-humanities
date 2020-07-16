@@ -1,7 +1,7 @@
 [View](https://plant-humanities.app/essay?gdid=1CUNlxL1pArMUI7W3ozl6YfpOHi04hPqA)
 
 <var data-essay
-	title="Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy"
+	title="Chaos out of Order: Bananas and the Limits of Linnaean Taxonomy"
 	data-banner="https://upload.wikimedia.org/wikipedia/commons/0/0f/Banana_Maria_Sibylla_Merian_1705_plate_XII.png"
 	data-layout="vtl"
 	data-num-maps="13"
@@ -211,3 +211,6 @@ While we need to rethink how we select, hybridize, and propagate bananas, many s
 [^ref7]: [https://www.pnas.org/content/108/28/11311](https://www.pnas.org/content/108/28/11311)
 [^ref8]: Simmonds  and Shepherd,  “The taxonomy and origins of the cultivated bananas.” _Journal of the Linnean Society of London_ (1955) Botany 55:302-312.
 [^ref9]: [http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15](http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5NDg0NTQzOTldfQ==
+-->
