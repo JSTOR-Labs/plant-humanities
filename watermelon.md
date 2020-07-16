@@ -22,6 +22,8 @@ title="Watermelon _Citrullus lanatus_" url="https://upload.wikimedia.org/wikiped
        fit="cover"
        attribution="Wikimedia Commons">
 
+<param ve-image
+tittle="Medieval watermelon" url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/112/5/10.1093_aob_mct151/1/mct15103.jpeg?Expires=1597964350&Signature=isex3or5hcW1vR1ya9QbKV7T2pYmzzdO47SLh9sOmoQydn2680fy8qpb2PPGChNpqfOtl5TBs5IMTWw17Mk1BvuepXZ~UCCYiOEuTtpcFBJ~64RrzGM6QfnNxG8d1lC5X-XeDRvmVk58wS~rr03slK27rlaKyHDvOdWgONCf9u6x4aOLjbvfFlC-Ob~f6H8kWdONA5swxehj2tcNXuB2nNAzkrYGUMXKzMH-wP-OM3EsR5BwedHxF-dUoS7xdGNRVIGDNG3Si93ZDsVpqJrlRl7rK0qWRpS6gU3gV54H46FFEs2H~c1b7wcQ9jnZAT8JIOVTabGZlo6Ez-XFLAyjrw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map center="Q15" zoom="3" basemap="Esri_WorldPhysical">
 
