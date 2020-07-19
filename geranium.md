@@ -1,18 +1,21 @@
 <param ve-config
-       title="Title of Your Narrative"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg"
+       title="TEST OF TEST"
+       banner="http://free.iiifhosting.com/iiif/b0b64fc70bef4f3776838a2c848b51d25ed4e69db1eff060a721ebf5ad9671d2/"
        layout="vtl"
-       num-maps="x"
-       num-specimens="x"
+       num-maps="5"
+       num-specimens="1"
        num-images="x"
        num-primary-sources="x"
-       author="Names of Authors">
+       author="Yao Jiang">
 
-<param title="Beatrix Farrand" eid="Q437714">
-<param title="cherry blossom" eid="Q871991">
-<param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
+<param title="geranium" eid="Q157211">
+<param title="Pelargonium" eid="Q146118">
 
-## Subtitle
+# Introduction
+## Geranium & Pelargonium
+### Nomenclature Confusion
+Pelargonium is a genus of flowering plants commonly known as geraniums. Geraniums are cultivated widely for their ornamental value but are also used in perfume production and both the scented flowers and leaves are edible.  
+
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
 
