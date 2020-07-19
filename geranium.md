@@ -1,21 +1,18 @@
 <param ve-config
-       title="TEST OF TEST"
-       banner="http://free.iiifhosting.com/iiif/b0b64fc70bef4f3776838a2c848b51d25ed4e69db1eff060a721ebf5ad9671d2/"
+       title="Title of Your Narrative"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg"
        layout="vtl"
-       num-maps="5"
-       num-specimens="1"
+       num-maps="x"
+       num-specimens="x"
        num-images="x"
        num-primary-sources="x"
-       author="Yao Jiang">
+       author="Names of Authors">
 
-<param title="geranium" eid="Q157211">
-<param title="Pelargonium" eid="Q146118">
+<param title="Beatrix Farrand" eid="Q437714">
+<param title="cherry blossom" eid="Q871991">
+<param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 
-# Introduction
-## Geranium & Pelargonium
-### Nomenclature Confusion
-Pelargonium is a genus of flowering plants commonly known as geraniums. Geraniums are cultivated widely for their ornamental value but are also used in perfume production and both the scented flowers and leaves are edible.  
-
+## Subtitle
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
 
@@ -51,4 +48,5 @@ Code for adding a Mapwarper overlay. Lorem ipsum dolor sit amet, consectetur adi
 
 Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-plant-specimen eid="Q12844029" max="1" reverse="true">
+
 
