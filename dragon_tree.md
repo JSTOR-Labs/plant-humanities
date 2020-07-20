@@ -20,7 +20,7 @@ Code to add a location with a custom marker on a map for every paragraph in this
 
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-image
-title="dragon tree" url="https://commons.wikimedia.org/wiki/File:Los_Dragos_Gemelos_-_Bre%C3%B1a_Alta_-_La_Palma_01.jpg#/media/File:Los_Dragos_Gemelos_-_Breña_Alta_-_La_Palma_01.jpg"
+title="dragon tree" url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Los_Dragos_Gemelos_-_Bre%C3%B1a_Alta_-_La_Palma_01.jpg/1572px-Los_Dragos_Gemelos_-_Bre%C3%B1a_Alta_-_La_Palma_01.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
 
