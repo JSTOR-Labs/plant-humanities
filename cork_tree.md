@@ -1,6 +1,6 @@
 <param ve-config
        title="Title of Your Narrative"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg"
+       banner="https://cdn.pixabay.com/photo/2017/02/22/12/10/bark-2089279_1280.jpg"
        layout="vtl"
        num-maps="x"
        num-specimens="x"
