@@ -7,7 +7,7 @@
        num-specimens="x"
        num-images="x"
        num-primary-sources="x"
-       author="Camilo Uribe Botta Anna Lawrence, Camilo Uribe Botta, May Wang">
+       author="Anna Lawrence, Camilo Uribe Botta, May Wang">
 
 <param title="Watermelon" eid="Q17507129">
 <param title="Citrullus lanatus" eid="Q17507129" aliases="Anguria">
@@ -15,8 +15,7 @@
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991">
 
-## Watermelon
-# Watermelon
+### Watermelon
 
 Watermelons come from Africa.
 Code to add a location with a custom marker on a map for every paragraph in this section.
@@ -27,7 +26,7 @@ title="Watermelon _Citrullus lanatus_" url="https://upload.wikimedia.org/wikiped
        attribution="Wikimedia Commons">
 <param ve-image
 title="Courge pastèque" url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%28Pl._305%29_%287795661744%29.jpg"
-        fit="none"
+        fit="contain"
         attribution="Wikimedia Commons">
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. .
