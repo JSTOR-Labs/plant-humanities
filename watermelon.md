@@ -17,8 +17,7 @@
 ### Subtitle
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="AfricaWashington, D. C." eid="Q615" fill="#FF0000" marker-symbol="landmark">
-<param ve-image
-title="Courge pastèque" url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%28Pl._305%29_%287795661744%29.jpg"
+<param ve-image title="Courge pastèque" url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%28Pl._305%29_%287795661744%29.jpg"
         fit="contain"
         attribution="Wikimedia Commons">
 
