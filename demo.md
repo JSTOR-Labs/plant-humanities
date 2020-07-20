@@ -33,9 +33,9 @@
 
 ## Introduction
 
-<param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
+<param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="unicorn">
 
-Cherry blossoms have formed an integral part of the identity of Washington, D. C., ever since Japan gifted over three thousand cherry trees to the United States in 1912 as a symbol of friendship and political alliance. Until the final decades of the 19th century, Japanese cherry trees had often been misunderstood among Westerners, and garnered only modest attention in Europe. Subsequent European involvement in East Asia forced Japan, which had pursued a strict isolationist policy for centuries, to open its borders. As a result, Europeans enjoyed greater contact with Japanese culture, and a growing interest in cherry blossoms. With the planting of Japan’s gift of cherry trees in the <span id="Q956781">Tidal Basin</span>, cherry blossoms became accessible to the American public, entering Western consciousness on an unprecedented scale.
+Cherry blossoms have formed an integral part of the identity of Washington, D. C., ever since Japan gifted over three thousand cherry trees to the United States in 1912 as a symbol of friendship and political alliance. Until the final decades of the 19th century, Japanese cherry trees had often been misunderstood among Westerners, and garnered only modest attention in Europe. Subsequent European involvement in East Asia forced Japan, which had pursued a strict isolationist policy for centuries, to open its borders.  As a result, Europeans enjoyed greater contact with Japanese culture, and a growing interest in cherry blossoms. With the planting of Japan’s gift of cherry trees in the <span id="Q956781">Tidal Basin</span>, cherry blossoms became accessible to the American public, entering Western consciousness on an unprecedented scale.
 <param ve-image
        title="Tidal basin cherry blossom"
        url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tidal_basin_cherry_blossom_closeup.JPG"
@@ -48,17 +48,11 @@ Cherry blossoms have formed an integral part of the identity of Washington, D. C
 
 The cherry blossom has been a repository of symbolism in Japanese culture for centuries: it has variously symbolized processes of life, death, reproductive power, love, rebirth, and the beauty of impermanence. By the end of the Edo period (1603-1868) cherry blossoms came to be a dominant symbol of Japanese identity, although their association with Japanese identity dates to at least the ninth century. During the early years of Japan’s rapid industrialization, cherry trees fell prey to an iconoclastic drive to erase reminders of the old feudal society. As Japan continued to negotiate its national identity, cherries were taken up again, now as symbols of a modern Japan that would be recognizable on an international scale. In the years leading up to World War II, the image of falling cherry blossoms, which had traditionally been associated with impermanence and death, was increasingly deployed to aestheticize self-sacrifice for the emperor. Cherry blossoms were planted in shrines glorifying fallen soldiers, and featured prominently in military imagery.
 <param ve-map prefer-geojson center="Q17" zoom="5" basemap="Esri_WorldPhysical">
-<param ve-image
-       static
-       title="Tidal basin cherry blossom"
-       url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tidal_basin_cherry_blossom_closeup.JPG"
-       fit="cover"
-       attribution="Wikimedia Commons">
 
 ### Cherry viewing in Japan
 
 Flower-viewing or hanami is a centuries-old practice in Japan. Flower viewing started in imperial circles in the eighth century, when the Japanese elite eagerly adopted Chinese high culture. Chinese plum blossoms were initially the object of viewing parties. By the ninth century, hanami was practically synonymous with viewing cherry blossoms, as Japanese elites sought to delineate a distinctly Japanese identity. In the 18th century, mass plantings were made in poor riverside districts of present-day Tokyo, many of which were notorious for prostitution, gambling, and licentious theater. Plantings of cherry trees were meant to beautify riverside communities, which the government considered eyesores. These mass plantings helped make cherry-viewing a popular pastime across all classes. Both new cherry-picnic sites and sites historically famous for imperial outings became widely popular spots for drink, merry-making and the loosening of social conventions.
-<param ve-video vid="jk0ic0D0MRo" title="Hanami">
+<param ve-video id="jk0ic0D0MRo" title="Hanami">
 
 ## Cherries in the West
 
