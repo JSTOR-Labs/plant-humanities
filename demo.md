@@ -10,7 +10,7 @@
 
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991" category="plant">
-<param title="Dumbarton Oaks" eid="Q1264942" marker-symbol="garden">
+<param title="Dumbarton Oaks" eid="Q1264942" marker-color="yellow" marker-symbol="garden">
 <param title="hanami" eid="Q210150" category="activity">
 <param title="Prunus" eid="Q190545">
 <param title="Prunus serotina" eid="Q158987">
