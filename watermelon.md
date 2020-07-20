@@ -7,8 +7,7 @@
        num-specimens="x"
        num-images="x"
        num-primary-sources="x"
-       author="Camilo Uribe Botta">
-       author="Anna Lawrence, Camilo Uribe Botta, May Wang">
+       author="Camilo Uribe Botta Anna Lawrence, Camilo Uribe Botta, May Wang">
 
 <param title="Watermelon" eid="Q17507129">
 <param title="Citrullus lanatus" eid="Q17507129" aliases="Anguria">
