@@ -55,7 +55,7 @@ Before the craze for Japanese cherries in the West at the start of the twentieth
 
 In 1912, Japan gifted thousands of cherry trees to the United States as a gesture of friendship. A previous shipment, made in 1909, was burned upon entry into the United States when it was discovered that the trees were infected. The trees from 1912 prospered, becoming a beloved part of the city and an enduring symbol of the United States’ relationship with Japan. Most of the trees in the Tidal Basin were of the Yoshido variety, or Prunus x yedoensis. There are ongoing efforts to preserve the few surviving cherries from 1912 as witnesses to Washington’s history.
 <param ve-map center="38.88,-77.03" zoom="14">
-<param ve-map-layer mapwarper title="Cherry festival map" mapwarper-id="37798" active>
+<param ve-map-layer mapwarper title="Cherry festival map" mapwarper-id="37798" opacity="0.3" active>
 <param ve-storiiies id="571eb">
 
 ### Cherries at Dumbarton Oaks
