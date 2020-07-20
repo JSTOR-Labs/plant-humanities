@@ -53,7 +53,7 @@ The code below is an example of how to add a custom geojson overlay.
 <param ve-map center="41.651031, -83.541939" zoom="6">
 <param ve-map-layer geojson url="geojson/great-lakes-fruit-belt.json" title="Great Lakes Fruit Belt" fill="#FF0000" marker-symbol="landmark" active>
 The code below is an example of how to add a custom geojson overlay. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-map center="8.9879147, 38.7473302" zoom="5">
+<param ve-map center="8.9879147, 38.7473302" zoom="1">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/camilouribebotta/watermelon.json/master/watermelon.json" title="Watermelon" fill="#FF0000" marker-symbol="landmark" active>
 
 ## Subtitle
