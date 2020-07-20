@@ -27,6 +27,7 @@ Cherry blossoms have formed an integral part of the identity of Washington, D. C
        fit="contain"
        attribution="Wikimedia Commons">
 <param ve-map primary center="Q61" zoom="12" prefer-geojson hide-labels>
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/visual-essays/master/docs/geojson/test.json">
 
 ## Cherry Trees in Japan
 
