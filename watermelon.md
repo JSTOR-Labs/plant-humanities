@@ -14,7 +14,7 @@
 ### Watermelon
 <param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 
-## Subtitle
+### Subtitle
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="AfricaWashington, D. C." eid="Q615" fill="#FF0000" marker-symbol="landmark">
 <param ve-image
