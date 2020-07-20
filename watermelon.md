@@ -1,5 +1,5 @@
 <param ve-config
-       title="Patilla"
+       title="Watermelon"
        title="Watermelon. What the angels eat "
        banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
        layout="vtl"
