@@ -33,7 +33,7 @@
 
 ## Introduction
 
-<param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="air-freshener">
+<param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="unicorn">
 
 Cherry blossoms have formed an integral part of the identity of Washington, D. C., ever since Japan gifted over three thousand cherry trees to the United States in 1912 as a symbol of friendship and political alliance. Until the final decades of the 19th century, Japanese cherry trees had often been misunderstood among Westerners, and garnered only modest attention in Europe. Subsequent European involvement in East Asia forced Japan, which had pursued a strict isolationist policy for centuries, to open its borders. As a result, Europeans enjoyed greater contact with Japanese culture, and a growing interest in cherry blossoms. With the planting of Japan’s gift of cherry trees in the <span id="Q956781">Tidal Basin</span>, cherry blossoms became accessible to the American public, entering Western consciousness on an unprecedented scale.
 <param ve-image
