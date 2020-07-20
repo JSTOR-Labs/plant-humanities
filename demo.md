@@ -90,7 +90,7 @@ The National Cherry Festival[^ncf] is a festival in Traverse City, Michigan. It 
 ## Cherry type specimens
 
 [Global Plants](https://plants.jstor.org/) is the world’s largest database of digitized plant specimens and a locus for international scientific research and collaboration.  The Global Plants database is a growing collection of nearly three million high-resolution type specimens and related materials from community contributors around the world.  Plant type specimens are in great demand for scientific study because of their pivotal role as original vouchers of nomenclature. They also act as a historical record of changes in various flora. The largest of its kind, Global Plants consists of 66 sub-collections, showcasing hand-selected specimens that have been meticulously digitized by partner herbaria with generous support from The Andrew W. Mellon Foundation. This resource also features partner-contributed reference works and primary sources, such as collectors’ correspondence and diaries, illustrations, and photographs.
-<param ve-plant-specimen eid="Q12844029" max="1" reverse="true">
+<param ve-plant-specimen eid="Q12844029" max="1" reverse="true" type="Holotype">
 
 ## References
 
