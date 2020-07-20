@@ -6,7 +6,7 @@
        num-specimens="x"
        num-images="x"
        num-primary-sources="x"
-       author="Anna Lawrence, Camilo Uribe Botta, May WangNames of Authors">
+       author="Anna Lawrence, Camilo Uribe Botta, May Wang and friends">
 
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991">
