@@ -47,7 +47,7 @@ Code for adding a Mapwarper overlay. Lorem ipsum dolor sit amet, consectetur adi
 <param ve-map-layer mapwarper title="Cherry festival map" mapwarper-id="37798" active>
 
 Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-plant-specimen eid="Q12844029" max="1" reverse="true">Test
+<param ve-plant-specimen eid="Q156137" max="1" reverse="true">Test
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE1Nzc3NDE5ODddfQ==
 -->
