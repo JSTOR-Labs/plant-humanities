@@ -8,21 +8,6 @@
        num-primary-sources="0"
        author="JSTOR Labs team">
 
-<param ve-component 
-       name="plant-specimen"
-       src="components/PlantSpecimenViewer.vue"
-       selectors="tag:plant-specimen"
-       icon="fa-seedling"
-       label="Plant Specimens">
-
-<param ve-component 
-       name="storiiies"
-       src="components/StoriiiesViewer.vue"
-       selectors="tag:storiiies"
-       icon="fa-book"
-       label="Storiiies Viewer"
-       dependencies="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.2/openseadragon.min.js|https://storiiies.cogapp.com/assets/demos/viewer/js/shortcode.js">
-
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991" category="plant">
 <param title="Dumbarton Oaks" eid="Q1264942">
@@ -44,10 +29,10 @@ Cherry blossoms have formed an integral part of the identity of Washington, D. C
 
 ## Cherry Trees in Japan
 
-<param title="Japan" eid="Q17">
 
 The cherry blossom has been a repository of symbolism in Japanese culture for centuries: it has variously symbolized processes of life, death, reproductive power, love, rebirth, and the beauty of impermanence. By the end of the Edo period (1603-1868) cherry blossoms came to be a dominant symbol of Japanese identity, although their association with Japanese identity dates to at least the ninth century. During the early years of Japan’s rapid industrialization, cherry trees fell prey to an iconoclastic drive to erase reminders of the old feudal society. As Japan continued to negotiate its national identity, cherries were taken up again, now as symbols of a modern Japan that would be recognizable on an international scale. In the years leading up to World War II, the image of falling cherry blossoms, which had traditionally been associated with impermanence and death, was increasingly deployed to aestheticize self-sacrifice for the emperor. Cherry blossoms were planted in shrines glorifying fallen soldiers, and featured prominently in military imagery.
 <param ve-map prefer-geojson center="Q17" zoom="5" basemap="Esri_WorldPhysical">
+<param title="Japan" eid="Q17">
 
 ### Cherry viewing in Japan
 
