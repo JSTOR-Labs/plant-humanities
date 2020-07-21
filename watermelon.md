@@ -40,6 +40,8 @@ Code to add a location with a custom marker on a map for every paragraph in this
        url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%28Pl._305%29_%287795661744%29.jpg"
        fit="containfill"
        attribution="Wikimedia Commons">
+<param ve-image 
+
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. .
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -90,8 +92,9 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 <param ve-plant-specimen eid="Q1750712844029" max="21" reverse="true">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzEyNjMxMyw5MTE5NjQ2NDksMTYyMj
-g3Nzg2NSwxODUxNzMzNjU1LDE3OTM3OTUzOTcsMTgzMjg4MjIw
-MCwxNzkzNzk1Mzk3LC0xMDc2MzU5NTk5LC0yMTM2OTA3MiwtMT
-A3NjM1OTU5OSwtMjEzNjkwNzIsLTEwNzYzNTk1OTldfQ==
+eyJoaXN0b3J5IjpbNjE1NDM5Mjk3LDEwNDMxMjYzMTMsOTExOT
+Y0NjQ5LDE2MjI4Nzc4NjUsMTg1MTczMzY1NSwxNzkzNzk1Mzk3
+LDE4MzI4ODIyMDAsMTc5Mzc5NTM5NywtMTA3NjM1OTU5OSwtMj
+EzNjkwNzIsLTEwNzYzNTk1OTksLTIxMzY5MDcyLC0xMDc2MzU5
+NTk5XX0=
 -->
