@@ -1,18 +1,18 @@
 <param ve-config
-       title="Traveling Narratives: Following the Dragon Tree Around the World"
+       title="Traveling Narratives: Following the Dragon Tree Around the Worlditle of Your Narrative"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg"
        layout="vtl"
        num-maps="x"
        num-specimens="x"
        num-images="x"
        num-primary-sources="x"
-       author="Thomas Anderson, Cati Kalinoski, and Lukas Mertehikian">
+       author="Thomas Anderson, Cati Kalinoski, and Lukas MertehikianNames of Authors">
 
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991">
 <param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 
-## Introduction
+## IntroductionSubtitle
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
 
@@ -20,7 +20,7 @@ Code to add a location with a custom marker on a map for every paragraph in this
 
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-image
-title="dragon tree" url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Los_Dragos_Gemelos_-_Bre%C3%B1a_Alta_-_La_Palma_01.jpg/1572px-Los_Dragos_Gemelos_-_Bre%C3%B1a_Alta_-_La_Palma_01.jpg"
+title="dragon treeTidal basin cherry blossom" url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Los_Dragos_Gemelos_-_Bre%C3%B1a_Alta_-_La_Palma_01.jpg/1572px-Los_Dragos_Gemelos_-_Bre%C3%B1a_Alta_-_La_Palma_01.jpg2/2a/Tidal_basin_cherry_blossom_closeup.JPG"
        fit="cover"
        attribution="Wikimedia Commons">
 
@@ -59,3 +59,6 @@ Code for adding a Mapwarper overlay. Lorem ipsum dolor sit amet, consectetur adi
 Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-plant-specimen eid="Q12844029" max="1" reverse="true">
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTEwMDc1NDQyNV19
+-->
