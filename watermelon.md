@@ -16,7 +16,9 @@
 
 ### Watermelon
 
-Watermelons come from Africa.
+Watermelons come from Africa. ![Watermelon gif](https://media3.giphy.com/media/yeMg2ckHHvrOw/giphy.gif)
+(How do we format in-line images?)
+
 Code to add a location with a custom marker on a map for every paragraph in this section. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 <param title="Africa" eid="Q15" fill="#FF0000" marker-symbol="landmark">
 <param ve-image
