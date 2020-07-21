@@ -1,6 +1,6 @@
 <param ve-config
        title="Watermelon. What the angels eat, or, botanical canteens"
- banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruitsthumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruitsthumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg"
        layout="vtl"
        num-maps="x"
        num-specimens="x"
@@ -20,7 +20,6 @@ Watermelons come from Africa. ![Watermelon gif](https://media3.giphy.com/media/y
 (How do we format in-line images?)
 
 Code to add a location with a custom marker on a map for every paragraph in this section. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-<param title="AfricaNames of Authors">
 
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991">
@@ -32,20 +31,23 @@ Code to add a location with a custom marker on a map for every paragraph in this
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="AfricaWashington, D. C." eid="Q615" fill="#FF0000" marker-symbol="landmark">
 <param ve-image
-title="Watermelon _Citrullus lanatus_" url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg"
+       title="Watermelon _Citrullus lanatus_"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
 <param ve-image
-title="Courge pastèque" url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%28Pl._305%29_%287795661744%29.jpg"
-        fit="containfill"
-        attribution="Wikimedia Commons">
-        
+       title="Courge pastèque"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%28Pl._305%29_%287795661744%29.jpg"
+       fit="containfill"
+       attribution="Wikimedia Commons">
+
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. .
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-image 
-title="Watermelon _Citrullus lanatus_Tidal basin cherry blossom" url="https://upload.wikimedia.org/wikipedia/commons/5/57/Watermelon-garden.jpg2/2a/Tidal_basin_cherry_blossom_closeup.JPG"
-        fit="cover"
-        attribution="Wikimedia Commons">
+<param ve-image
+       title="Watermelon _Citrullus lanatus_Tidal basin cherry blossom"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/57/Watermelon-garden.jpg2/2a/Tidal_basin_cherry_blossom_closeup.JPG"
+       fit="cover"
+       attribution="Wikimedia Commons">
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map center="Q157" zoom="35" basemap="Esri_WorldPhysical">
@@ -61,8 +63,12 @@ Below is the code for adding an IIIF annotated image created through Storiiies. 
 <param ve-storiiies id="8f1e1fc1dn">
 
 The code below is an example of how to add a custom geojson overlay. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-map center="38.7478.9879147, 38.747330241.651031, -83.541939" zoom="1256">
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/camilouribebotta/watermelon.json/master/watermelon.json" title="Watermelon" fill="#FF0000" marker-symbol="landmark" active>
+<param ve-map center="38.747, -83.541" zoom="12">
+<param ve-map-layer geojson 
+       url="https://raw.githubusercontent.com/camilouribebotta/watermelon.json/master/watermelon.json"
+       title="Watermelon"
+       fill="#FF0000" 
+       marker-symbol="landmark" active>
 
 ## Subtitle
 
