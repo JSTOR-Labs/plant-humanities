@@ -35,6 +35,8 @@ Code to add a location with a custom marker on a map for every paragraph in this
        url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
+<param ve-image 
+		title="Still life" url="[https://upload.wikimedia.org/wikipedia/commons/c/c7/Giovanni_Battista_Ruoppolo2.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c7/Giovanni_Battista_Ruoppolo2.jpg)">
 <param ve-image
        title="Courge pastèque"
        url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%28Pl._305%29_%287795661744%29.jpg"
@@ -90,9 +92,9 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 <param ve-plant-specimen eid="Q1750712844029" max="21" reverse="true">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5NDY0NzQ1LDEwNDMxMjYzMTMsOTExOT
-Y0NjQ5LDE2MjI4Nzc4NjUsMTg1MTczMzY1NSwxNzkzNzk1Mzk3
-LDE4MzI4ODIyMDAsMTc5Mzc5NTM5NywtMTA3NjM1OTU5OSwtMj
-EzNjkwNzIsLTEwNzYzNTk1OTksLTIxMzY5MDcyLC0xMDc2MzU5
-NTk5XX0=
+eyJoaXN0b3J5IjpbLTIwNzMwNzQ5NDMsMTA0MzEyNjMxMyw5MT
+E5NjQ2NDksMTYyMjg3Nzg2NSwxODUxNzMzNjU1LDE3OTM3OTUz
+OTcsMTgzMjg4MjIwMCwxNzkzNzk1Mzk3LC0xMDc2MzU5NTk5LC
+0yMTM2OTA3MiwtMTA3NjM1OTU5OSwtMjEzNjkwNzIsLTEwNzYz
+NTk1OTldfQ==
 -->
