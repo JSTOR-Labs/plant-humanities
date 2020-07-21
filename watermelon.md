@@ -36,6 +36,8 @@ Paragraph text-Paste the text for the first paragraph in your narrative here. Be
 title="Watermelon _Citrullus lanatus_" url="https://upload.wikimedia.org/wikipedia/commons/5/57/Watermelon-garden.jpg"
         fit="cover"
         attribution="Wikimedia Commons">
+<param ve-image
+title="Medieval Watermelon" url="http://www.bl.uk/manuscripts/Viewer.aspx?ref=egerton_ms_2020_f163r">
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map center="Q15" zoom="3" basemap="Esri_WorldPhysical">
