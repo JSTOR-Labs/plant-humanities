@@ -1,38 +1,28 @@
-<pvaram ve-config data-essay
-	title="Agave -
-	data-banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gc29_agave_americana.jpg/1920px-Gc29_agave_americana.jpg"
-	data-layout="vtl"
-	data-num-maps="3"
-	data-num-images="8"
-	data-num-specimens="0"
-	data-num-primary-sources="3"
-	data-author="Ashley Buchanan, PhD"></var>
+<param ve-config
+	title="Agave - An Ancient Plant with an Intoxicating History"
+	banner="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gc29_agave_americana.jpg/1920px-Gc29_agave_americana.jpg"
+	layout="vtl"
+	num-maps="3"
+	num-images="8"
+	num-specimens="0"
+	num-primary-sources="3"
+	author="Ashley Buchanan, PhD">
 
-<pvaram title="Hortus Botanicus Leiden" eid="Q2468128" data-aliases="city’s new botanical garden">
-<param</var>
-<var title="Jalisco" eid="Q13160">
-<param</var>
-<var title="Agave" eid="Q155874">
-<param</var>
-<var title="monocots" eid="Q78961"></var>
-<pvaram title="Mexica" eid="Q3307681"></var>
-<pvaram title="Nahuatl" eid="Q13300">
-<param</var>
-<var title="Pulque" eid="Q511700">
-<param</var>
-<var title="Viceroyalty of New Spain" eid="Q170603">
-<param</var>
-<var title="human sacrifice in Aztec culture" eid="Q583349" data-aliases="Aztec gladiatorial sacrifice">
-<param</var>
-<var title="Carolus Clusius" eid="Q333372"></var>
-<pvaram title="Toribio de Benavente Motolinia" eid="Q532539">
-<param</var>
-<var title="Padova botanic garden" eid="Q598892" data-alias="Padua">
-<param</var>
-<var data-scope="local" eid="Q457191"></var>
-<pvaram title="Mestizo" eid="Q106713" data-aliases="mestizos"></var>
-<pvaram title="global warming" eid="Q7942"></var>
-
+<param title="Hortus Botanicus Leiden" eid="Q2468128" aliases="city’s new botanical garden">
+<param title="Jalisco" eid="Q13160">
+<param title="Agave" eid="Q155874">
+<param title="monocots" eid="Q78961">
+<param title="Mexica" eid="Q3307681">
+<param title="Nahuatl" eid="Q13300">
+<param title="Pulque" eid="Q511700">
+<param title="Viceroyalty of New Spain" eid="Q170603">
+<param title="human sacrifice in Aztec culture" eid="Q583349" aliases="Aztec gladiatorial sacrifice">
+<param title="Carolus Clusius" eid="Q333372">
+<param title="Toribio de Benavente Motolinia" eid="Q532539">
+<param title="Padova botanic garden" eid="Q598892" aliases="Padua">
+<param eid="Q457191">
+<param title="Mestizo" eid="Q106713" data-aliases="mestizos">
+<param title="global warming" eid="Q7942">
 
 ### The Big Bloom
 1698 was a special year for the Leiden botanical garden. After 96 long years, its exotic “Aloe Americana” (or _Agave americana_ as it is classified today) bloomed for the first time. To commemorate the marvelous event, the Hortus commissioned and illustrated print of the plant.[^ref1] A surviving poster-sized print, recently added to Dumbarton Oaks’ Rare Book Collection, reveals sixteenth and seventeenth century European botanists’ fascination with the so-called “century plant” and provides a lens to explore the history of agave – a plant that shaped human societies across three continents.
