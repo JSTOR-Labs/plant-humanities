@@ -1,5 +1,5 @@
 <param ve-config
-       title="Watermelon. What the angels eat, or, botanical canteens" Title of Your Narrative"
+       title="Watermelon. What the angels eat, or, botanical canteens"
  banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruitsthumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg"
        layout="vtl"
        num-maps="x"
@@ -40,14 +40,12 @@ title="Courge pastèque" url="https://upload.wikimedia.org/wikipedia/commons/5/5
         fit="containfill"
         attribution="Wikimedia Commons">
         
-
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. .
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-image 
 title="Watermelon _Citrullus lanatus_Tidal basin cherry blossom" url="https://upload.wikimedia.org/wikipedia/commons/5/57/Watermelon-garden.jpg2/2a/Tidal_basin_cherry_blossom_closeup.JPG"
         fit="cover"
         attribution="Wikimedia Commons">
-
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map center="Q157" zoom="35" basemap="Esri_WorldPhysical">
@@ -86,8 +84,8 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 <param ve-plant-specimen eid="Q1750712844029" max="21" reverse="true">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2MzQ5MjczLDkxMTk2NDY0OSwxNjIyOD
-c3ODY1LDE4NTE3MzM2NTUsMTc5Mzc5NTM5NywxODMyODgyMjAw
-LDE3OTM3OTUzOTcsLTEwNzYzNTk1OTksLTIxMzY5MDcyLC0xMD
-c2MzU5NTk5LC0yMTM2OTA3MiwtMTA3NjM1OTU5OV19
+eyJoaXN0b3J5IjpbMTA0MzEyNjMxMyw5MTE5NjQ2NDksMTYyMj
+g3Nzg2NSwxODUxNzMzNjU1LDE3OTM3OTUzOTcsMTgzMjg4MjIw
+MCwxNzkzNzk1Mzk3LC0xMDc2MzU5NTk5LC0yMTM2OTA3MiwtMT
+A3NjM1OTU5OSwtMjEzNjkwNzIsLTEwNzYzNTk1OTldfQ==
 -->
