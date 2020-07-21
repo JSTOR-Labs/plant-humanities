@@ -44,8 +44,7 @@ Paragraph text-Paste the text for the first paragraph in your narrative here. Be
 title="Watermelon _Citrullus lanatus_Tidal basin cherry blossom" url="https://upload.wikimedia.org/wikipedia/commons/5/57/Watermelon-garden.jpg2/2a/Tidal_basin_cherry_blossom_closeup.JPG"
         fit="cover"
         attribution="Wikimedia Commons">
-<param ve-image
-title="Medieval Watermelon" url="http://www.bl.uk/manuscripts/Viewer.aspx?ref=egerton_ms_2020_f163r">
+       
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map center="Q157" zoom="35" basemap="Esri_WorldPhysical">
@@ -56,8 +55,7 @@ Below is the code for adding a map with premade Geojson overlays. The center of 
 <param title="EthiopiaItaly" eid="Q11538">
 <param title="SudIran" eid="Q1049">
 
-Below is the code for adding an IIIF annotated image created through Storiiies. Watermelon794">
-
+Below is the code for adding an IIIF annotated image created through Storiiies.
 Below is the code for adding an IIIF annotated image created through Storiiies. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-storiiies id="8f1e1fc1dn">
 
@@ -85,8 +83,8 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 <param ve-plant-specimen eid="Q1750712844029" max="21" reverse="true">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjg3Nzg2NSwxODUxNzMzNjU1LDE3OT
-M3OTUzOTcsMTgzMjg4MjIwMCwxNzkzNzk1Mzk3LC0xMDc2MzU5
-NTk5LC0yMTM2OTA3MiwtMTA3NjM1OTU5OSwtMjEzNjkwNzIsLT
-EwNzYzNTk1OTldfQ==
+eyJoaXN0b3J5IjpbLTE3MzM5NDE0MzksMTYyMjg3Nzg2NSwxOD
+UxNzMzNjU1LDE3OTM3OTUzOTcsMTgzMjg4MjIwMCwxNzkzNzk1
+Mzk3LC0xMDc2MzU5NTk5LC0yMTM2OTA3MiwtMTA3NjM1OTU5OS
+wtMjEzNjkwNzIsLTEwNzYzNTk1OTldfQ==
 -->
