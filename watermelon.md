@@ -1,5 +1,5 @@
 <param ve-config
-       title="Watermelon. What the angels eat"
+       title="Watermelon. What the angels eat, or, botanical canteens"
        banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
        layout="vtl"
        num-maps="x"
