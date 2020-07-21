@@ -1,6 +1,6 @@
 <param ve-config
        title="Watermelon. What the angels eat, or, botanical canteens"
-       banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
+ banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
        layout="vtl"
        num-maps="x"
        num-specimens="x"
@@ -32,7 +32,7 @@ Code to add a location with a custom marker on a map for every paragraph in this
 <param title="AfricaWashington, D. C." eid="Q615" fill="#FF0000" marker-symbol="landmark">
 <param ve-image
        title="Watermelon _Citrullus lanatus_"
-       url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg"
+      url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
 <param ve-image 
@@ -92,9 +92,9 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 <param ve-plant-specimen eid="Q1750712844029" max="21" reverse="true">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMwNzQ5NDMsMTA0MzEyNjMxMyw5MT
-E5NjQ2NDksMTYyMjg3Nzg2NSwxODUxNzMzNjU1LDE3OTM3OTUz
-OTcsMTgzMjg4MjIwMCwxNzkzNzk1Mzk3LC0xMDc2MzU5NTk5LC
-0yMTM2OTA3MiwtMTA3NjM1OTU5OSwtMjEzNjkwNzIsLTEwNzYz
-NTk1OTldfQ==
+eyJoaXN0b3J5IjpbLTEzODk0MjQ1ODMsLTIwNzMwNzQ5NDMsMT
+A0MzEyNjMxMyw5MTE5NjQ2NDksMTYyMjg3Nzg2NSwxODUxNzMz
+NjU1LDE3OTM3OTUzOTcsMTgzMjg4MjIwMCwxNzkzNzk1Mzk3LC
+0xMDc2MzU5NTk5LC0yMTM2OTA3MiwtMTA3NjM1OTU5OSwtMjEz
+NjkwNzIsLTEwNzYzNTk1OTldfQ==
 -->
