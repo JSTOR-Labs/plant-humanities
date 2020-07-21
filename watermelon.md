@@ -1,7 +1,7 @@
 <param ve-config
        title="Watermelon. What the angels eat, or, botanical canteens"
-       banner="https
-       https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruitsthumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg"
+       banner="https://huperallergic.com/wp-content/uploads/2015/07/watermelonstilllife5.jpg"
+     
        layout="vtl"
        num-maps="x"
        num-specimens="x"
@@ -86,7 +86,7 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 <param ve-plant-specimen eid="Q1750712844029" max="21" reverse="true">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI5MDMwOTYsMTc5Mzc5NTM5NywtMT
-A3NjM1OTU5OSwtMjEzNjkwNzIsLTEwNzYzNTk1OTksLTIxMzY5
-MDcyLC0xMDc2MzU5NTk5XX0=
+eyJoaXN0b3J5IjpbNDI3MTQ1Mjk4LDE3OTM3OTUzOTcsLTEwNz
+YzNTk1OTksLTIxMzY5MDcyLC0xMDc2MzU5NTk5LC0yMTM2OTA3
+MiwtMTA3NjM1OTU5OV19
 -->
