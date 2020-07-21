@@ -1,6 +1,6 @@
 <param ve-config
        title="Watermelon. What the angels eat, or, botanical canteens"
-       banner=[https://hyperallergic.com/wp-content/uploads/2015/07/watermelonstilllife5.jpg](https://hyperallergic.com/wp-content/uploads/2015/07/watermelonstilllife5.jpg)
+         banner="[https://hyperallergic.com/wp-content/uploads/2015/07/watermelonstilllife5.jpg](https://hyperallergic.com/wp-content/uploads/2015/07/watermelonstilllife5.jpg)"
        layout="vtl"
        num-maps="x"
        num-specimens="x"
@@ -85,7 +85,7 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 <param ve-plant-specimen eid="Q1750712844029" max="21" reverse="true">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzY4Mzk5MSwxNzkzNzk1Mzk3LC0xMD
+eyJoaXN0b3J5IjpbLTEzNTY2MTIxMywxNzkzNzk1Mzk3LC0xMD
 c2MzU5NTk5LC0yMTM2OTA3MiwtMTA3NjM1OTU5OSwtMjEzNjkw
 NzIsLTEwNzYzNTk1OTldfQ==
 -->
