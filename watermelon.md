@@ -40,8 +40,6 @@ Code to add a location with a custom marker on a map for every paragraph in this
        url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%28Pl._305%29_%287795661744%29.jpg"
        fit="containfill"
        attribution="Wikimedia Commons">
-   
-
 <param ve-image 
 	title="Still life" url="[https://upload.wikimedia.org/wikipedia/commons/c/c7/Giovanni_Battista_Ruoppolo2.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c7/Giovanni_Battista_Ruoppolo2.jpg)">
 
@@ -94,9 +92,9 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 <param ve-plant-specimen eid="Q1750712844029" max="21" reverse="true">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjc4NTI5OTEsMTA0MzEyNjMxMyw5MT
-E5NjQ2NDksMTYyMjg3Nzg2NSwxODUxNzMzNjU1LDE3OTM3OTUz
-OTcsMTgzMjg4MjIwMCwxNzkzNzk1Mzk3LC0xMDc2MzU5NTk5LC
-0yMTM2OTA3MiwtMTA3NjM1OTU5OSwtMjEzNjkwNzIsLTEwNzYz
-NTk1OTldfQ==
+eyJoaXN0b3J5IjpbMTM0Njk5NjMyOSwxMDQzMTI2MzEzLDkxMT
+k2NDY0OSwxNjIyODc3ODY1LDE4NTE3MzM2NTUsMTc5Mzc5NTM5
+NywxODMyODgyMjAwLDE3OTM3OTUzOTcsLTEwNzYzNTk1OTksLT
+IxMzY5MDcyLC0xMDc2MzU5NTk5LC0yMTM2OTA3MiwtMTA3NjM1
+OTU5OV19
 -->
