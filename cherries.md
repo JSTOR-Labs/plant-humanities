@@ -4,28 +4,27 @@
      banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/USA-Cherry_Blossom0.jpg/800px-USA-Cherry_Blossom0.jpg"
      layout="vtl">
 
-<var title="cherry blossom" id="Q871991"  data-category="plant"></var>
-<var title="Dumbarton Oaks" id="Q1264942"></var>
-<var title="Eleanor Patterson" id="Q5122270"></var>
-<var title="hanami" id="Q210150" data-category="activity"></var>
-<var title="Murasaki Shikibu" id="Q81731"></var>
-<var title="Prunus" id="Q190545"></var>
-<var title="Prunus serotina" id="Q158987"></var>
-<var title="Stockholm" id="Q1754"></var>
-<var title="The Tale of Genji" id="Q8269"></var>
+<param title="cherry blossom" id="Q871991"  data-category="plant">
+<param title="Dumbarton Oaks" id="Q1264942">
+<param title="Eleanor Patterson" id="Q5122270">
+<param title="hanami" id="Q210150" data-category="activity">
+<param title="Murasaki Shikibu" id="Q81731">
+<param title="Prunus" id="Q190545">
+<param title="Prunus serotina" id="Q158987">
+<param title="Stockholm" id="Q1754">
+<param title="The Tale of Genji" id="Q8269">
 
-<var title="Washington, D. C." 
+<param title="Washington, D. C." 
      id="Q61"
      data-fill="#FF0000"
      data-marker-symbol="landmark"
-     ></var>
+     >
 
-<var title="West Yorkshire"
+<param title="West Yorkshire"
      id="Q23083"
      data-fill="#FF0000"
      data-marker-symbol="leaf"
-     ></var>
-
+     >
 ## Cherry Blossom
 <var data-map id="intro-map" data-center="51.4,0.53" data-zoom="2" data-hide-labels="true"></var>
 <var data-map-layer
@@ -113,5 +112,5 @@ The Tale of Genji, written in the early years of the 11th century by the noblewo
 
 “The women had been too delighted with the game, young gentlemen heedless of how they scattered the blossoms, to worry about blinds and concealment.”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjQ3ODY0OF19
+eyJoaXN0b3J5IjpbLTUwOTQxNTk2Ml19
 -->
