@@ -1,6 +1,6 @@
 <param ve-config
        title="Watermelon. What the angels eat, or, botanical canteens"
-       banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruitsthumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
        layout="vtl"
        num-maps="x"
        num-specimens="x"
