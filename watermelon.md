@@ -38,7 +38,7 @@ title="Courge pastèque" url="https://upload.wikimedia.org/wikipedia/commons/5/5
         fit="contain"
         attribution="Wikimedia Commons">
 <param ve-image
-title="Still life" url="[https://hyperallergic.com/wp-content/uploads/2015/07/watermelonstilllife5.jpg](https://hyperallergic.com/wp-content/uploads/2015/07/watermelonstilllife5.jpg)
+title="Still life" url="https://hyperallergic.com/wp-content/uploads/2015/07/watermelonstilllife5.jpg"
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. .
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -87,7 +87,7 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 <param ve-plant-specimen eid="Q1750712844029" max="21" reverse="true">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM0NzI1NDMsMTc5Mzc5NTM5NywxNz
-kzNzk1Mzk3LC0xMDc2MzU5NTk5LC0yMTM2OTA3MiwtMTA3NjM1
-OTU5OSwtMjEzNjkwNzIsLTEwNzYzNTk1OTldfQ==
+eyJoaXN0b3J5IjpbMTgzMjg4MjIwMCwxNzkzNzk1Mzk3LDE3OT
+M3OTUzOTcsLTEwNzYzNTk1OTksLTIxMzY5MDcyLC0xMDc2MzU5
+NTk5LC0yMTM2OTA3MiwtMTA3NjM1OTU5OV19
 -->
