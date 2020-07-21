@@ -44,9 +44,8 @@ Paragraph text-Paste the text for the first paragraph in your narrative here. Be
 title="Watermelon _Citrullus lanatus_Tidal basin cherry blossom" url="https://upload.wikimedia.org/wikipedia/commons/5/57/Watermelon-garden.jpg2/2a/Tidal_basin_cherry_blossom_closeup.JPG"
         fit="cover"
         attribution="Wikimedia Commons">
-    
-
-<param ve-image
+<param ve-image title="Watermelon Still Life" url="[https://hyperallergic.com/wp-content/uploads/2015/07/watermelonstilllife5.jpg](https://hyperallergic.com/wp-content/uploads/2015/07/watermelonstilllife5.jpg)"
+fit="
 
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -86,7 +85,7 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 <param ve-plant-specimen eid="Q1750712844029" max="21" reverse="true">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjQ5ODQyNSwxNjIyODc3ODY1LDE4NT
+eyJoaXN0b3J5IjpbLTIxNDM0MzMyOSwxNjIyODc3ODY1LDE4NT
 E3MzM2NTUsMTc5Mzc5NTM5NywxODMyODgyMjAwLDE3OTM3OTUz
 OTcsLTEwNzYzNTk1OTksLTIxMzY5MDcyLC0xMDc2MzU5NTk5LC
 0yMTM2OTA3MiwtMTA3NjM1OTU5OV19
