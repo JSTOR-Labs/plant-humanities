@@ -1,6 +1,6 @@
 <param ve-config
      title="Cherry Blossom"
-     author="Ron"
+     author="Ron S"
      banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/USA-Cherry_Blossom0.jpg/800px-USA-Cherry_Blossom0.jpg"
      layout="vtl">
 
