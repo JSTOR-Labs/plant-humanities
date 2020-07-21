@@ -1,6 +1,6 @@
 <param ve-config
        title="Watermelon. What the angels eat, or, botanical canteens" Title of Your Narrative"
-       banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruitsthumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg"
+ banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruitsthumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg"
        layout="vtl"
        num-maps="x"
        num-specimens="x"
@@ -86,8 +86,8 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 <param ve-plant-specimen eid="Q1750712844029" max="21" reverse="true">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODIxMTQxNyw5MTE5NjQ2NDksMTYyMj
-g3Nzg2NSwxODUxNzMzNjU1LDE3OTM3OTUzOTcsMTgzMjg4MjIw
-MCwxNzkzNzk1Mzk3LC0xMDc2MzU5NTk5LC0yMTM2OTA3MiwtMT
-A3NjM1OTU5OSwtMjEzNjkwNzIsLTEwNzYzNTk1OTldfQ==
+eyJoaXN0b3J5IjpbMzE2MzQ5MjczLDkxMTk2NDY0OSwxNjIyOD
+c3ODY1LDE4NTE3MzM2NTUsMTc5Mzc5NTM5NywxODMyODgyMjAw
+LDE3OTM3OTUzOTcsLTEwNzYzNTk1OTksLTIxMzY5MDcyLC0xMD
+c2MzU5NTk5LC0yMTM2OTA3MiwtMTA3NjM1OTU5OV19
 -->
