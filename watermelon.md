@@ -16,11 +16,6 @@
 
 ### Watermelon
 
-<param ve-image
-    title="Watermelon species"
-    url="https://scitechdaily.com/images/Watermelon-Diversity.jpg"
-    attribution="SciTechDaily">
-
 Watermelons come from Africa. ![Watermelon gif](https://media3.giphy.com/media/yeMg2ckHHvrOw/giphy.gif)
 (How do we format in-line images?)
 
