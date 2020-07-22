@@ -89,6 +89,8 @@ Code to add a specimen from Global Plants.
 Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-plant-specimen eid="Q1750712844029" max="1" reverse="true">
 
+A new paragraph where we can add more information, especially the cultural part of the watermelon and how it is related with racism and with cholera. Also the japanese square watermelons and the beauty. 
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTI2MjQxMTA0MSwtMjA3MzA3NDk0MywxMD
 QzMTI2MzEzLDkxMTk2NDY0OSwxNjIyODc3ODY1LDE4NTE3MzM2
