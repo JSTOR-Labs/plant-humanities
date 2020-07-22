@@ -24,9 +24,9 @@ title="Tidal basin cherry blossom" url="https://upload.wikimedia.org/wikipedia/c
 
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.The island of Sulawesi is where cassava was successfully planted.
-<param ve-map center="Q3812" zoom="5" basemap="Esri_WorldPhysical">
+<param ve-map center="Q17" zoom="5" basemap="Esri_WorldPhysical">
 Below is the code for adding a map with premade Geojson overlays. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-map prefer-geojson center="Q3812" zoom="5" basemap="Esri_WorldPhysical">
+<param ve-map prefer-geojson center="Q17" zoom="5" basemap="Esri_WorldPhysical">
 <param title="Italy" eid="Q38">
 <param title="Iran" eid="Q794">
 
@@ -35,7 +35,7 @@ Below is the code for adding an IIIF annotated image created through Storiiies. 
 
 The code below is an example of how to add a custom geojson overlay. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. The island of Sulawesi is where cassava was successfully planted.
 <param ve-map center="41.651031, -83.541939" zoom="6">
-<param ve-map-layer geojson url="map.json" title="Native and distributed range" fill="#FF0000" marker-symbol="landmark" active>
+<param ve-map-layer geojson url="geojson/great-lakes-fruit-belt.json" title="Great Lakes Fruit Belt" fill="#FF0000" marker-symbol="landmark" active>
 
 ### Subtitle
 
