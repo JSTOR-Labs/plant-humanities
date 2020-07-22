@@ -29,34 +29,33 @@ Code to add a location with a custom marker on a map for every paragraph in this
 
 ## Subtitle
 Code to add a location with a custom marker on a map for every paragraph in this section.
-<param title="AfricaWashington, D. C." eid="Q615" fill="#FF0000" marker-symbol="landmark">
+<param title="Africa" eid="Q15" fill="#FF0000" marker-symbol="landmark">
 <param ve-image
        title="Watermelon _Citrullus lanatus_"
  url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
-<param ve-image 
-		title="Still life" url="https://upload.wikimedia.org/wikipedia/commons/c/c7/Giovanni_Battista_Ruoppolo2.jpg">
 <param ve-image
        title="Courge pastèque"
  url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%28Pl._305%29_%287795661744%29.jpg"
-       fit="containfill"
+       fit="contain"
        attribution="Wikimedia Commons">
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. .
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-image
-       title="Watermelon _Citrullus lanatus_Tidal basin cherry blossom"
-       url="https://upload.wikimedia.org/wikipedia/commons/5/57/Watermelon-garden.jpg2/2a/Tidal_basin_cherry_blossom_closeup.JPG"
-       fit="cover"
-       attribution="Wikimedia Commons">
+       <param ve-image 
+		title="Still life" url="https://upload.wikimedia.org/wikipedia/commons/c/c7/Giovanni_Battista_Ruoppolo2.jpg"
+        fill="contain"
+        attribution="Wikimedia Commons">
+
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-map center="Q157" zoom="5" basemap="Esri_WorldPhysical">
+<param ve-map center="Q15" zoom="5" basemap="Esri_WorldPhysical">
 
 Below is the code for adding a map with premade Geojson overlays. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. 
 Below is the code for adding a map with premade Geojson overlays. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-map prefer-geojson center="Q157" zoom="5" basemap="Esri_WorldPhysical">
+<param ve-map prefer-geojson center="Q15" zoom="5" basemap="Esri_WorldPhysical">
 <param title="EthiopiaItaly" eid="Q11538">
 <param title="SudIran" eid="Q1049794">
 
