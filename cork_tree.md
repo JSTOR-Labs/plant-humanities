@@ -1,5 +1,5 @@
 <param ve-config
-       title="Title of Your Narrative"
+       title="Cork's Historical Insights on Sustainable Agriculture"
  banner="https://cdn.pixabay.com/photo/2017/02/22/12/10/bark-2089279_1280.jpg"
        layout="vtl"
        num-maps="x"
