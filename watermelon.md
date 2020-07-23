@@ -1,5 +1,5 @@
 <param ve-config
-       title="Watermelon. What the angels eat, or, botanical canteens"
+       title="Watermelon: 'What the angels eat'"
  banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
        layout="vtl"
        num-maps="xz"
@@ -14,20 +14,17 @@
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991">
 
-### Watermelon
-
-Watermelons come from Africa. ![Watermelon gif](https://media3.giphy.com/media/yeMg2ckHHvrOw/giphy.gif)
-(How do we format in-line images?)
+# Introduction
 
 Code to add a location with a custom marker on a map for every paragraph in this section. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991">
 
-### Watermelon
+## Origins, Distribution, and Use
 <param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 
-## Subtitle
+### Subtitle
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="Africa" eid="Q15" fill="#FF0000" marker-symbol="landmark">
 <param ve-image
@@ -72,11 +69,11 @@ The code below is an example of how to add a custom geojson overlay. Lorem ipsum
        fill="#FF0000" 
        marker-symbol="landmark" active>
 
-## Subtitle
+## Visual Representations
 
 The code below is an example of how to add a video from Youtube. geojson/geojson/watermelon.json" title="Watermelongreat-lakes-fruit-belt.json" title="Great Lakes Fruit Belt" fill="#FF0000" marker-symbol="landmark" active>
 
-## Subtitle
+## As a Racist Trope
 
 The code below is an example of how to add a video from Youtube. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-video id="lTxn2BuqyzU" title="Watermelon A Cautionary Tale">
@@ -88,6 +85,8 @@ Code for adding a Mapwarper overlay. Lorem ipsum dolor sit amet, consectetur adi
 Code to add a specimen from Global Plants.
 Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-plant-specimen eid="Q1750712844029" max="1" reverse="true">
+
+## In Contemporary Life
 
 A new paragraph where we can add more information, especially the cultural part of the watermelon and how it is related with racism and with cholera. Also the japanese square watermelons and the beauty. 
 
