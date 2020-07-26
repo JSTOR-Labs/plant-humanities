@@ -8,8 +8,6 @@
 	data-num-primary-sources="4"
 	data-author="Ashley Buchanan, PhD and Kyra Krakos, PhD"></var>
 
-<var title="Peaonia" id="Q147105" data-aliases="peony"></var>
-<var title="Anna Maria Luisa de' Medici" id="Q233181"></var>
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 <var title="precipitation" id="Q113796"></var>
 <var title="Medici Dynasty" id="Q170022"></var>
@@ -26,9 +24,11 @@
 
 ### The Power of Peony
 In 1735, a Viennese baroness wrote to the last Medici princess, Anna Maria Luisa de Medici (1669-1743),  to thank her for sending a miraculous infant convulsion powder. In her letter, the baroness praised the powder’s effectiveness and stated that the children she treated with it had been so violently taken by convulsions that the physicians had “given up on them.” Not only had the “miraculous powder” cured the children, the baroness also stated that a number of months had passed, and the children remained in perfect health. Anna Maria Luisa was well known for her miraculous powder, which she distributed strategically to influential individuals and courts across Europe. 
+<var title="Anna Maria Luisa de' Medici" id="Q233181"></var>
 <param ve-d3plus-network url="https://raw.githubusercontent.com/buchanana01/PH_Test/master/network.json">
 
 Anna Maria Luisa’s recipe for infant convulsion powder contained a precipitation of a human skull of a man (who died violently but was never buried), a precipitation of “Oriental pearls,” a precipitation of red coral and white coral, as well as yellow amber and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty neared. 
+<var title="Peaonia" id="Q147105" data-aliases="peony"></var>
 <var data-primary="image"></var>
 <var data-image
      data-fit="cover"
@@ -92,5 +92,5 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzY1MTg5MCwxMTc1Nzc4NTk4XX0=
+eyJoaXN0b3J5IjpbLTIzNzIwNDYzOCwxMTc1Nzc4NTk4XX0=
 -->
