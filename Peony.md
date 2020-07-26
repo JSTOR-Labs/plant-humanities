@@ -13,7 +13,7 @@
 <var title="Medici Dynasty" id="Q170022"></var>
 <var title="Paeoniaceae" id="Q3360397"></var>
 <var title="Paeonia lactiflora" id="Q163076"></var>
-<var title="tree peony" id="Q163018"></var>
+<var title="tree peony" id="Q163018" data-aliases="moutan"></var>
 
 <param ve-component 
        name="d3plus-network"
@@ -97,6 +97,7 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE5NTY5NjYsLTE3OTc5MzI0MzksLT
-EwMTE2NTAwNjIsLTIzNzIwNDYzOCwxMTc1Nzc4NTk4XX0=
+eyJoaXN0b3J5IjpbLTgzNzI3NDQzNCwtMTk1MTk1Njk2NiwtMT
+c5NzkzMjQzOSwtMTAxMTY1MDA2MiwtMjM3MjA0NjM4LDExNzU3
+Nzg1OThdfQ==
 -->
