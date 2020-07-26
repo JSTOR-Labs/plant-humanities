@@ -28,6 +28,8 @@ In 1735, a Viennese baroness wrote to the last Medici princess, Anna Maria Luisa
 
 Anna Maria Luisa’s recipe for infant convulsion powder contained a precipitation [QID] of a human skull of a man (who died violently but was never buried), a precipitation of “Oriental pearls,” a precipitation of red coral and white coral, as well as yellow amber and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty [QID] neared. 
 
+
+
 ### Shaoyao: The Medicine Made from Peony
 While today we think of peonies as beautiful ornamental flowers, for more than a millennium, they have been used as medicinal plants. Peony is the single genus in the _Paeoniaceae_ family [QID], which has about 30 species found in western North America, Northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s biogeographic distribution. _(map of distribution)_
 
@@ -85,5 +87,5 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTc3ODU5OF19
+eyJoaXN0b3J5IjpbLTc2MDU0MzI2LDExNzU3Nzg1OThdfQ==
 -->
