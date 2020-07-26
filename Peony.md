@@ -20,17 +20,15 @@
        label="D3plus Network"
        dependencies="https://d3plus.org/js/d3plus-network.v0.6.full.min.js">
 
-<param ve-d3plus-network url="https://raw.githubusercontent.com/buchanana01/PH_Test/master/network.json">
-
 <param ve-storiiies id="fc1dn">
 
 ### The Power of Peony
-In 1735, a Viennese baroness wrote to the last Medici princess, Anna Maria Luisa de Medici (1669-1743) [QID],  to thank her for sending a miraculous infant convulsion powder. In her letter, the baroness praised the powder’s effectiveness and stated that the children she treated with it had been so violently taken by convulsions that the physicians had “given up on them.” Not only had the “miraculous powder” cured the children, the baroness also stated that a number of months had passed, and the children remained in perfect health. Anna Maria Luisa was well known for her miraculous powder, which she distributed strategically to influential individuals and courts across Europe. _(network graph of distribution, image of the letter)_
+In 1735, a Viennese baroness wrote to the last Medici princess, Anna Maria Luisa de Medici (1669-1743),  to thank her for sending a miraculous infant convulsion powder. In her letter, the baroness praised the powder’s effectiveness and stated that the children she treated with it had been so violently taken by convulsions that the physicians had “given up on them.” Not only had the “miraculous powder” cured the children, the baroness also stated that a number of months had passed, and the children remained in perfect health. Anna Maria Luisa was well known for her miraculous powder, which she distributed strategically to influential individuals and courts across Europe. 
+<param ve-d3plus-network url="https://raw.githubusercontent.com/buchanana01/PH_Test/master/network.json">
 
-Anna Maria Luisa’s recipe for infant convulsion powder contained a precipitation [QID] of a human skull of a man (who died violently but was never buried), a precipitation of “Oriental pearls,” a precipitation of red coral and white coral, as well as yellow amber and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty [QID] neared. _(image of the recipe, zoom in and move to highlight ingredients)_
+Anna Maria Luisa’s recipe for infant convulsion powder contained a precipitation [QID] of a human skull of a man (who died violently but was never buried), a precipitation of “Oriental pearls,” a precipitation of red coral and white coral, as well as yellow amber and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty [QID] neared. 
 
-**Shaoyao: The Medicine Made from Peony**
-
+### Shaoyao: The Medicine Made from Peony
 While today we think of peonies as beautiful ornamental flowers, for more than a millennium, they have been used as medicinal plants. Peony is the single genus in the _Paeoniaceae_ family [QID], which has about 30 species found in western North America, Northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s biogeographic distribution. _(map of distribution)_
 
 Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, _Paeonia lactiflora_ [QID], which was the primary source of both white peony and red peony, and _Paeonia suffruticosa_ [QID], commonly known as the tree peony or “moutan” [QID]. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.[<![if !supportFootnotes]>[1]<![endif]>](#_ftn1) (_herbarium specimens, comparison of the two species_)
@@ -87,5 +85,5 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY4MzI3NTldfQ==
+eyJoaXN0b3J5IjpbMTE3NTc3ODU5OF19
 -->
