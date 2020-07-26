@@ -1,5 +1,5 @@
 <var data-essay
-	title="Peony"
+	title="Peony: From an Ancient Cure to an Early Modern Tool of Statecraft"
 	data-banner="https://iiif.wellcomecollection.org/image/B0009092.jpg/full/2048%2C/0/default.jpg"
 	data-layout="vtl"
 	data-num-maps="4"
@@ -24,10 +24,7 @@
 
 <param ve-storiiies id="fc1dn">
 
-### From an Ancient Cure to an Early Modern Tool of Statecraft
-
-The Power of Peony**
-
+### The Power of Peony
 In 1735, a Viennese baroness wrote to the last Medici princess, Anna Maria Luisa de Medici (1669-1743) [QID],  to thank her for sending a miraculous infant convulsion powder. In her letter, the baroness praised the powder’s effectiveness and stated that the children she treated with it had been so violently taken by convulsions that the physicians had “given up on them.” Not only had the “miraculous powder” cured the children, the baroness also stated that a number of months had passed, and the children remained in perfect health. Anna Maria Luisa was well known for her miraculous powder, which she distributed strategically to influential individuals and courts across Europe. _(network graph of distribution, image of the letter)_
 
 Anna Maria Luisa’s recipe for infant convulsion powder contained a precipitation [QID] of a human skull of a man (who died violently but was never buried), a precipitation of “Oriental pearls,” a precipitation of red coral and white coral, as well as yellow amber and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty [QID] neared. _(image of the recipe, zoom in and move to highlight ingredients)_
@@ -90,5 +87,5 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzNjcyNTE3XX0=
+eyJoaXN0b3J5IjpbLTE5MzY4MzI3NTldfQ==
 -->
