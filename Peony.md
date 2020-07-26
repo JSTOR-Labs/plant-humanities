@@ -11,6 +11,7 @@
 <var title="Peaonia" id="Q147105" data-aliases="peony"></var>
 <var title="Anna Maria Luisa de' Medici" id="Q233181"></var>
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
+<var title="precipitation" id="Q233181"></var>
 
 <param ve-component 
        name="d3plus-network"
@@ -27,8 +28,11 @@ In 1735, a Viennese baroness wrote to the last Medici princess, Anna Maria Luisa
 <param ve-d3plus-network url="https://raw.githubusercontent.com/buchanana01/PH_Test/master/network.json">
 
 Anna Maria Luisa’s recipe for infant convulsion powder contained a precipitation [QID] of a human skull of a man (who died violently but was never buried), a precipitation of “Oriental pearls,” a precipitation of red coral and white coral, as well as yellow amber and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty [QID] neared. 
-
-
+<var data-primary="image"></var>
+<var data-image
+     data-fit="cover"
+     data-title="Ornamental Cherry Tree In Full Bloom"
+     data-url="https://github.com/JSTOR-Labs/plant-humanities/blob/master/images/IMG_1325.JPG"></var>
 
 ### Shaoyao: The Medicine Made from Peony
 While today we think of peonies as beautiful ornamental flowers, for more than a millennium, they have been used as medicinal plants. Peony is the single genus in the _Paeoniaceae_ family [QID], which has about 30 species found in western North America, Northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s biogeographic distribution. _(map of distribution)_
@@ -87,5 +91,5 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDU0MzI2LDExNzU3Nzg1OThdfQ==
+eyJoaXN0b3J5IjpbLTI5MzIzMzg3NywxMTc1Nzc4NTk4XX0=
 -->
