@@ -12,6 +12,7 @@
 <var title="precipitation" id="Q113796"></var>
 <var title="Medici Dynasty" id="Q170022"></var>
 <var title="Paeoniaceae" id="Q3360397"></var>
+<var title="Paeonia lactiflora" id="Q163076></var>
 
 <param ve-component 
        name="d3plus-network"
@@ -41,7 +42,7 @@ While today we think of peonies as beautiful ornamental flowers, for more than a
 <param ve-map center="32.262084, 64.391554" zoom="2.5">
 <param ve-map-layer geojson url="geojson/peony.json" title="Peony Distribution" active> 
 
-Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, _Paeonia lactiflora_ [QID], which was the primary source of both white peony and red peony, and _Paeonia suffruticosa_ [QID], commonly known as the tree peony or “moutan” [QID]. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.[<![if !supportFootnotes]>[1]<![endif]>](#_ftn1) (_herbarium specimens, comparison of the two species_)
+Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, _Paeonia lactiflora_, which was the primary source of both white peony and red peony, and _Paeonia suffruticosa_ [QID], commonly known as the tree peony or “moutan” [QID]. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.[<![if !supportFootnotes]>[1]<![endif]>](#_ftn1) (_herbarium specimens, comparison of the two species_)
 
 More than a millennium later in 1644, and a testament to peony’s long history as an important medicinal simple, a high Ming [QID] illustrated herbal [QID], _Bencao tupu_ 本草圖譜, beautifully depicted _P. lactiflora_, also known as common Chinese garden peony. According to the herbal, _P. lactiflora_ was used to treat gynecological symptoms including hot flashes and irregular menstrual cycles. It was also used in the treatment of high blood pressure and inflammation.[<![if !supportFootnotes]>[2]<![endif]>](#_ftn2) The compound Chinese character “Shaoyao” for _P. lactiflora_, written in the top right corner of the image, reveals the plant’s importance in medicine. The first character “shao” is the term referring to the peony plant, while the second character “yao” means medicine. Thus, shaoyao means “the medicine made from peony.”[<![if !supportFootnotes]>[3]<![endif]>](#_ftn3) (_Wellcome Bencao image, zoom in on characters_)
 
@@ -95,6 +96,6 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc5MzI0MzksLTEwMTE2NTAwNjIsLT
-IzNzIwNDYzOCwxMTc1Nzc4NTk4XX0=
+eyJoaXN0b3J5IjpbMTkwODIxNTg4NSwtMTc5NzkzMjQzOSwtMT
+AxMTY1MDA2MiwtMjM3MjA0NjM4LDExNzU3Nzg1OThdfQ==
 -->
