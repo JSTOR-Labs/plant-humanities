@@ -23,8 +23,6 @@
        label="D3plus Network"
        dependencies="https://d3plus.org/js/d3plus-network.v0.6.full.min.js">
 
-<param ve-storiiies id="fc1dn">
-
 ### The Power of Peony
 In 1735, a Viennese baroness wrote to the last Medici princess, Anna Maria Luisa de Medici (1669-1743),  to thank her for sending a miraculous infant convulsion powder. In her letter, the baroness praised the powder’s effectiveness and stated that the children she treated with it had been so violently taken by convulsions that the physicians had “given up on them.” Not only had the “miraculous powder” cured the children, the baroness also stated that a number of months had passed, and the children remained in perfect health. Anna Maria Luisa was well known for her miraculous powder, which she distributed strategically to influential individuals and courts across Europe. 
 <var title="Anna Maria Luisa de' Medici" id="Q233181"></var>
@@ -47,7 +45,8 @@ Two species of _Paeonia_ were particularly important in ancient Chinese medical 
 <param ve-plant-specimen eid="Q163076" max="1">
 <param ve-plant-specimen eid="Q163018" max="1">
 
-More than a millennium later in 1644, and a testament to peony’s long history as an important medicinal simple, a high <span id="Q956781">Ming</span> illustrated herbal [QID], _Bencao tupu_ 本草圖譜, beautifully depicted _P. lactiflora_, also known as common Chinese garden peony. According to the herbal, _P. lactiflora_ was used to treat gynecological symptoms including hot flashes and irregular menstrual cycles. It was also used in the treatment of high blood pressure and inflammation.[<![if !supportFootnotes]>[2]<![endif]>](#_ftn2) The compound Chinese character “Shaoyao” for _P. lactiflora_, written in the top right corner of the image, reveals the plant’s importance in medicine. The first character “shao” is the term referring to the peony plant, while the second character “yao” means medicine. Thus, shaoyao means “the medicine made from peony.”[<![if !supportFootnotes]>[3]<![endif]>](#_ftn3) (_Wellcome Bencao image, zoom in on characters_)
+More than a millennium later in 1644, and a testament to peony’s long history as an important medicinal simple, a high <span id="Q9903">Ming</span> illustrated <span id="Q6165948">herbal</span>, _Bencao tupu_ 本草圖譜, beautifully depicted _P. lactiflora_, also known as common Chinese garden peony. According to the herbal, _P. lactiflora_ was used to treat gynecological symptoms including hot flashes and irregular menstrual cycles. It was also used in the treatment of high blood pressure and inflammation. The compound Chinese character “Shaoyao” for _P. lactiflora_, written in the top right corner of the image, reveals the plant’s importance in medicine. The first character “shao” is the term referring to the peony plant, while the second character “yao” means medicine. Thus, shaoyao means “the medicine made from peony.”
+
 
 **Peony in Western Medicine**
 
@@ -99,6 +98,6 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQyOTYyMTUsLTE3OTc5MzI0MzksLT
-EwMTE2NTAwNjIsLTIzNzIwNDYzOCwxMTc1Nzc4NTk4XX0=
+eyJoaXN0b3J5IjpbNjkxMzAwMTMwLC0xNzk3OTMyNDM5LC0xMD
+ExNjUwMDYyLC0yMzcyMDQ2MzgsMTE3NTc3ODU5OF19
 -->
