@@ -37,7 +37,9 @@ Anna Maria Luisa’s recipe for infant convulsion powder contained a precipitati
      data-url="https://github.com/JSTOR-Labs/plant-humanities/blob/master/images/IMG_1325.JPG"></var>
 
 ### Shaoyao: The Medicine Made from Peony
-While today we think of peonies as beautiful ornamental flowers, for more than a millennium, they have been used as medicinal plants. Peony is the single genus in the _Paeoniaceae_ family, which has about 30 species found in western North America, Northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s bio-geographic distribution. 
+While today we think of peonies as beautiful ornamental flowers, for more than a millennium, they have been used as medicinal plants. Peony is the single genus in the _Paeoniaceae_ family, which has about 30 species found in western North America, Northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s bio-geographic distribution.
+<param ve-map center="41.651031, -83.541939" zoom="3">
+<param ve-map-layer geojson url="geojson/peony.json" title="Peony Distribution" active> 
 
 Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, _Paeonia lactiflora_ [QID], which was the primary source of both white peony and red peony, and _Paeonia suffruticosa_ [QID], commonly known as the tree peony or “moutan” [QID]. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.[<![if !supportFootnotes]>[1]<![endif]>](#_ftn1) (_herbarium specimens, comparison of the two species_)
 
@@ -93,6 +95,6 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTE2NTAwNjIsLTIzNzIwNDYzOCwxMT
-c1Nzc4NTk4XX0=
+eyJoaXN0b3J5IjpbMTczNjQ2NDg1NSwtMTAxMTY1MDA2MiwtMj
+M3MjA0NjM4LDExNzU3Nzg1OThdfQ==
 -->
