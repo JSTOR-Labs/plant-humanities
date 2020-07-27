@@ -12,8 +12,6 @@
 <var title="precipitation" id="Q113796"></var>
 <var title="Medici Dynasty" id="Q170022"></var>
 <var title="Paeoniaceae" id="Q3360397"></var>
-<var title="Paeonia lactiflora" id="Q163076"></var>
-<var title="tree peony" id="Q163018" data-aliases="moutan"></var>
 
 <param ve-component 
        name="d3plus-network"
@@ -43,6 +41,9 @@ While today we think of peonies as beautiful ornamental flowers, for more than a
 Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, _Paeonia lactiflora_, which was the primary source of both white peony and red peony, and _Paeonia suffruticosa_, commonly known as the tree peony or “moutan”. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.
 <param ve-plant-specimen eid="Q163076" max="1">
 <param ve-plant-specimen eid="Q163018" max="1">
+
+<var title="Paeonia lactiflora" id="Q163076"></var>
+<var title="tree peony" id="Q163018" data-aliases="moutan"></var>
 
 More than a millennium later in 1644, and a testament to peony’s long history as an important medicinal simple, a high <span id="Q9903">Ming</span> illustrated <span id="Q6165948">herbal</span>, _Bencao tupu_ 本草圖譜, beautifully depicted _P. lactiflora_, also known as common Chinese garden peony. According to the herbal, _P. lactiflora_ was used to treat gynecological symptoms including hot flashes and irregular menstrual cycles. It was also used in the treatment of high blood pressure and inflammation. The compound Chinese character “Shaoyao” for _P. lactiflora_, written in the top right corner of the image, reveals the plant’s importance in medicine. The first character “shao” is the term referring to the peony plant, while the second character “yao” means medicine. Thus, shaoyao means “the medicine made from peony.”
 <param ve-storiiies id="6a1do">
@@ -121,8 +122,8 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY1MTg4ODgsLTI0NzQzNjM1OSwxNT
-gzODU1ODIwLC0xOTk5NzQzODg4LC04MzcyNzQ0MzQsLTE5NTE5
-NTY5NjYsLTE3OTc5MzI0MzksLTEwMTE2NTAwNjIsLTIzNzIwND
-YzOCwxMTc1Nzc4NTk4XX0=
+eyJoaXN0b3J5IjpbODM4NDQ0NzYsLTEyNDY1MTg4ODgsLTI0Nz
+QzNjM1OSwxNTgzODU1ODIwLC0xOTk5NzQzODg4LC04MzcyNzQ0
+MzQsLTE5NTE5NTY5NjYsLTE3OTc5MzI0MzksLTEwMTE2NTAwNj
+IsLTIzNzIwNDYzOCwxMTc1Nzc4NTk4XX0=
 -->
