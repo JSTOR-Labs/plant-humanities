@@ -49,7 +49,7 @@ More than a millennium later in 1644, and a testament to peony’s long history 
 <param ve-storiiies id="6a1do">
 
 ### Peony in Western Medicine
-Outside of China, peony had an equally long history of medicinal use in Europe. In his herbal, <span id="Q3704131">_de Materia Medica_</span>, the Greek physician <span id="Q297776">Dioscorides</span> identified two types of peonies used in medicine: the male and female peony. Today these are identified as <span id="Q161482">_Paeonia mascula_</span> and <span id="Q159738">_Paeonia officinalis_</span> respectively. According to <span id="Q457191">Pietro Andrea Mattioli’s</span> 16th century commentary on _de Materia Medica_, Dioscorides prescribed giving the dry root of _P. officinalis_ to women to provoke menstruation (an emmenagogue [QID]) and to treat kidney and bladder discomfort among several other gynecological ailments. The Roman naturalist, Pliny the Elder [QID], also recommended _P. officinalis_ for “female diseases,” stating, “[One great remedy for all female diseases in common, is the black seed of the herbaceous plant pæonia](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:latinLit:phi0978.phi001.perseus-eng1:26.90).”  
+Outside of China, peony had an equally long history of medicinal use in Europe. In his herbal, <span id="Q3704131">_de Materia Medica_</span>, the Greek physician <span id="Q297776">Dioscorides</span> identified two types of peonies used in medicine: the male and female peony. Today these are identified as <span id="Q161482">_Paeonia mascula_</span> and <span id="Q159738">_Paeonia officinalis_</span> respectively. According to <span id="Q457191">Pietro Andrea Mattioli’s</span> 16th century commentary on _de Materia Medica_, Dioscorides prescribed giving the dry root of _P. officinalis_ to women to provoke menstruation (an <span id="Q2602077">emmenagogue</span>) and to treat kidney and bladder discomfort among several other gynecological ailments. The Roman naturalist, Pliny the Elder [QID], also recommended _P. officinalis_ for “female diseases,” stating, “[One great remedy for all female diseases in common, is the black seed of the herbaceous plant pæonia](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:latinLit:phi0978.phi001.perseus-eng1:26.90).”  
 <var data-primary="image"></var>
 <var data-image
      data-fit="cover"
@@ -107,7 +107,7 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzAyNTcxMiwxNTgzODU1ODIwLC0xOT
+eyJoaXN0b3J5IjpbMTQ0NTE3MzQ5MCwxNTgzODU1ODIwLC0xOT
 k5NzQzODg4LC04MzcyNzQ0MzQsLTE5NTE5NTY5NjYsLTE3OTc5
 MzI0MzksLTEwMTE2NTAwNjIsLTIzNzIwNDYzOCwxMTc1Nzc4NT
 k4XX0=
