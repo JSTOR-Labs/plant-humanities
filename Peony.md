@@ -97,9 +97,9 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 
 ### Footnotes
-[^1
+[^1] text text text
 
-[<![if !supportFootnotes]>[1]<![endif]>](#_ftnref1) Zhao, M, and Wu, S.P. "A Review of the Ethnobotany, Phytochemistry and Pharmacology of Tree Peony (Sect. Moutan)." South African Journal of Botany 124 (2019): 556-63.
+Zhao, M, and Wu, S.P. "A Review of the Ethnobotany, Phytochemistry and Pharmacology of Tree Peony (Sect. Moutan)." South African Journal of Botany 124 (2019): 556-63.
 
 [<![if !supportFootnotes]>[2]<![endif]>](#_ftnref2) Edwards, Sarah E. _Phytopharmacy: An Evidence-based Guide to Herbal Medicinal Products_. Chichester, [England]: Wiley Blackwell, 2015.
 
@@ -121,7 +121,7 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTkzMjIwNCw1NjMzNjI1NTEsNTYzMz
+eyJoaXN0b3J5IjpbMTYwMTk4NzA5OCw1NjMzNjI1NTEsNTYzMz
 YyNTUxLDE0NjgwNDk4MTMsLTExNjE1NTM5MywtMTI0NjUxODg4
 OCwtMjQ3NDM2MzU5LDE1ODM4NTU4MjAsLTE5OTk3NDM4ODgsLT
 gzNzI3NDQzNCwtMTk1MTk1Njk2NiwtMTc5NzkzMjQzOSwtMTAx
