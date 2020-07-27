@@ -38,7 +38,7 @@ While today we think of peonies as beautiful ornamental flowers, for more than a
 <param ve-map center="32.262084, 64.391554" zoom="2.5">
 <param ve-map-layer geojson url="geojson/peony.json" title="Peony Distribution" active> 
 
-Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, <span id="Q163076">_Paeonia lactiflora_</span>, which was the primary source of both white peony and red peony, and , <span id="Q163018">_Paeonia suffruticosa_</span>, commonly known as the tree peony or “moutan”. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.[^1]
+Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, <span id="Q163076">_Paeonia lactiflora_</span>, which was the primary source of both white peony and red peony, and , <span id="Q163018">_Paeonia suffruticosa_</span>, commonly known as the tree peony or “moutan”. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.[^a] 
 <param ve-plant-specimen eid="Q163076" max="1">
 <param ve-plant-specimen eid="Q163018" max="1">
 
@@ -90,23 +90,23 @@ While modern western medicine tends to dismiss pre-modern therapeutics like Anna
 A study conducted in 1991 on the water extract of _P. officinalis_ concluded that there are several chemical compounds found in the root, including paeoniflorin QID, albiflorin, oxypaeoniflorin, and gallotannins that have documented anticonvulsant properties. Furthermore, when isolated, the compounds albiflorin and gallotannin were proven to block extracellular calcium, which is linked to intracellular seizure-related phenomena. Paeoniflorin fractions also showed inhibition, but to a weaker extent. An additional study, which administered peony root extract (from _P. officinalis_) to rats, concluded that it was “a potent in vitro inhibitor of neuron damage in the CA1 area of the hippocampus.” The study also determined that peony root extract had protective effects on damaged neurons as well as anticonvulsant action when administered orally. Finally, the administration of antiepileptic drugs early has the potential to [alter the long-term course of epilepsy](https://www.jstor.org/stable/29726099), with the possibility of preventing it from becoming an “intractable disorder.” _(image of the compounds)_
 
 Today, the primary approach to treating epilepsy and suppressing seizures is to alter the neural network’s excitability or inhibition by regulating chemical compounds such as sodium and calcium. Drugs like ethosuximide reduce abnormal electrical activity in the brain by regulating calcium influx in cells. Thus, in contemporary western medicine there is little market demand to further investigate the peony root’s similar biochemical compounds or potential pharmaceutical applications. This lack of contemporary interest, however, does not make the biochemical activity of peony insignificant historically. The identification of active biochemical compounds suggest that Anna Maria Luisa’s powder might have actually improved the health of the children who received it! 
-_Diagram of calcium and T-channel - [https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/science/article/pii/S0165614708002423#fig1](https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/science/article/pii/S0165614708002423#fig1))_
+Diagram of calcium and T-channel - https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/science/article/pii/S0165614708002423#fig1
 
 The probable effectiveness of her infant convulsion powder increased Anna Maria Luisa’s socio-political influence. In fact, several letters preserved in the Florence State Archive attest to the powder’s efficacy and popularity. In one such letter, the previously mentioned Viennese baroness wrote again to Anna Maria Luisa requesting additional portions of powder given the “extraordinary effects they had on three children from the most important families of Vienna.” Anna Maria Luisa replied that she would send the baroness as much of the powder as she desired to distribute to her friends, considering that she had “put the powder to such good use.” _(image of the letter)_
 
-The gift of “miraculous” medicine to the Viennese court was not simply altruistic. As a woman, Anna Maria Luisa was barred from inheriting and ruling Tuscany on the death of her brother, the last Medici Grand Duke [QID]. Although she lacked official power, Anna Maria Luisa fashioned influence through the gift of her infant convulsion powder, which allowed her to ingratiate herself with some of Vienna’s most important and powerful families. This ensured goodwill and communication between the Grand Duchy of Tuscany and the court that would decide its fate. By the end of the Medici dynasty, the Viennese court was the headquarters of the Habsburg dynasty [QID] and the center of its imperial politics. In 1737, Francis of Lorraine [QID], future head of the Holy Roman Empire [QID] which controlled much of Europe at this time, became the Grand Duke of Tuscany and ruled Florence from the imperial court in Vienna—a court much indebted to Anna Maria Luisa’s infant convulsion powder. _(image of AML)_
+The gift of “miraculous” medicine to the Viennese court was not simply altruistic. As a woman, Anna Maria Luisa was barred from inheriting and ruling Tuscany on the death of her brother, the last Medici Grand Duke QID. Although she lacked official power, Anna Maria Luisa fashioned influence through the gift of her infant convulsion powder, which allowed her to ingratiate herself with some of Vienna’s most important and powerful families. This ensured goodwill and communication between the Grand Duchy of Tuscany and the court that would decide its fate. By the end of the Medici dynasty, the Viennese court was the headquarters of the Habsburg dynasty [QID] and the center of its imperial politics. In 1737, Francis of Lorraine [QID], future head of the Holy Roman Empire [QID] which controlled much of Europe at this time, became the Grand Duke of Tuscany and ruled Florence from the imperial court in Vienna—a court much indebted to Anna Maria Luisa’s infant convulsion powder. _(image of AML)_
 
 
 ### Footnotes
-[^1] text text text
+[^a] text text text
 
 Zhao, M, and Wu, S.P. "A Review of the Ethnobotany, Phytochemistry and Pharmacology of Tree Peony (Sect. Moutan)." South African Journal of Botany 124 (2019): 556-63.
 
-[<![if !supportFootnotes]>[2]<![endif]>](#_ftnref2) Edwards, Sarah E. _Phytopharmacy: An Evidence-based Guide to Herbal Medicinal Products_. Chichester, [England]: Wiley Blackwell, 2015.
+Edwards, Sarah E. _Phytopharmacy: An Evidence-based Guide to Herbal Medicinal Products_. Chichester, [England]: Wiley Blackwell, 2015.
 
-[<![if !supportFootnotes]>[3]<![endif]>](#_ftnref3) Subhuti Dharmananda, “White Peony, Red Peony, and Moutan: Three Chinese Herbs Derived from Paeonia,” [http://www.itmonline.org/arts/peony.htm#figure%201](http://www.itmonline.org/arts/peony.htm#figure%201).
+ Subhuti Dharmananda, “White Peony, Red Peony, and Moutan: Three Chinese Herbs Derived from Paeonia,” [http://www.itmonline.org/arts/peony.htm#figure%201](http://www.itmonline.org/arts/peony.htm#figure%201).
 
-[<![if !supportFootnotes]>[4]<![endif]>](#_ftnref4) Tobyn, Graeme., Alison. Denham, and Margaret. Whitelegg. The Western Herbal Tradition: 2000 Years of Medicinal Plant Knowledge. Edinburgh; New York: Elsevier, 2011.
+Tobyn, Graeme., Alison. Denham, and Margaret. Whitelegg. The Western Herbal Tradition: 2000 Years of Medicinal Plant Knowledge. Edinburgh; New York: Elsevier, 2011.
 
 [<![if !supportFootnotes]>[5]<![endif]>](#_ftnref5) Throop, Priscilla. Hildegard Von Bingen's Physica: The Complete English Translation of Her Classic Work on Health and Healing. Rochester, Vt.: Healing Arts Press, 1998, chapter CXXVII: Peony.
 
@@ -122,9 +122,9 @@ Zhao, M, and Wu, S.P. "A Review of the Ethnobotany, Phytochemistry and Pharmacol
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxMTUzNTc0LDU2MzM2MjU1MSw1NjMzNj
-I1NTEsMTQ2ODA0OTgxMywtMTE2MTU1MzkzLC0xMjQ2NTE4ODg4
-LC0yNDc0MzYzNTksMTU4Mzg1NTgyMCwtMTk5OTc0Mzg4OCwtOD
-M3Mjc0NDM0LC0xOTUxOTU2OTY2LC0xNzk3OTMyNDM5LC0xMDEx
-NjUwMDYyLC0yMzcyMDQ2MzgsMTE3NTc3ODU5OF19
+eyJoaXN0b3J5IjpbMTk2NTY1NDIwMyw1NjMzNjI1NTEsNTYzMz
+YyNTUxLDE0NjgwNDk4MTMsLTExNjE1NTM5MywtMTI0NjUxODg4
+OCwtMjQ3NDM2MzU5LDE1ODM4NTU4MjAsLTE5OTk3NDM4ODgsLT
+gzNzI3NDQzNCwtMTk1MTk1Njk2NiwtMTc5NzkzMjQzOSwtMTAx
+MTY1MDA2MiwtMjM3MjA0NjM4LDExNzU3Nzg1OThdfQ==
 -->
