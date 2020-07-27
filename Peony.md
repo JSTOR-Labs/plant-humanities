@@ -24,8 +24,7 @@
        dependencies="https://d3plus.org/js/d3plus-network.v0.6.full.min.js">
 
 ### The Power of Peony
-In 1735, a Viennese baroness wrote to the last Medici princess, Anna Maria Luisa de Medici (1669-1743),  to thank her for sending a miraculous infant convulsion powder. In her letter, the baroness praised the powder’s effectiveness and stated that the children she treated with it had been so violently taken by convulsions that the physicians had “given up on them.” Not only had the “miraculous powder” cured the children, the baroness also stated that a number of months had passed, and the children remained in perfect health. Anna Maria Luisa was well known for her miraculous powder, which she distributed strategically to influential individuals and courts across Europe. 
-<var title="Anna Maria Luisa de' Medici" id="Q233181"></var>
+In 1735, a Viennese baroness wrote to the last Medici princess, <span id="Q233181">Anna Maria Luisa de Medici (1669-1743)</span>,  to thank her for sending a miraculous infant convulsion powder. In her letter, the baroness praised the powder’s effectiveness and stated that the children she treated with it had been so violently taken by convulsions that the physicians had “given up on them.” Not only had the “miraculous powder” cured the children, the baroness also stated that a number of months had passed, and the children remained in perfect health. Anna Maria Luisa was well known for her miraculous powder, which she distributed strategically to influential individuals and courts across Europe. 
 <param ve-d3plus-network url="https://raw.githubusercontent.com/buchanana01/PH_Test/master/network.json">
 
 Anna Maria Luisa’s recipe for infant convulsion powder contained a precipitation of a human skull of a man (who died violently but was never buried), a precipitation of “Oriental pearls,” a precipitation of red coral and white coral, as well as yellow amber and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty neared. 
@@ -122,8 +121,8 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxNTAxOTE3LDE1ODM4NTU4MjAsLTE5OT
-k3NDM4ODgsLTgzNzI3NDQzNCwtMTk1MTk1Njk2NiwtMTc5Nzkz
-MjQzOSwtMTAxMTY1MDA2MiwtMjM3MjA0NjM4LDExNzU3Nzg1OT
-hdfQ==
+eyJoaXN0b3J5IjpbLTI0NzQzNjM1OSwxNTgzODU1ODIwLC0xOT
+k5NzQzODg4LC04MzcyNzQ0MzQsLTE5NTE5NTY5NjYsLTE3OTc5
+MzI0MzksLTEwMTE2NTAwNjIsLTIzNzIwNDYzOCwxMTc1Nzc4NT
+k4XX0=
 -->
