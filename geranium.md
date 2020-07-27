@@ -31,7 +31,7 @@ Below is the code for adding a map with premade Geojson overlays. The center of 
 <param title="Iran" eid="Q794">
 
 Below is the code for adding an IIIF annotated image created through Storiiies. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-storiiies id="fn01d">
+<param ve-storiiies id="fn0c1dn">
 
 The code below is an example of how to add a custom geojson overlay. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map center="41.651031, -83.541939" zoom="6">
@@ -50,3 +50,6 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 <param ve-plant-specimen eid="Q12844029" max="1" reverse="true">
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NDYzNDg0MzldfQ==
+-->
