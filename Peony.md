@@ -54,8 +54,8 @@ Outside of China, peony had an equally long history of medicinal use in Europe. 
 <var data-primary="image"></var>
 <var data-image
      data-fit="cover"
-     data-title="Infant Convulsion Powder Recipe"
-     data-url="https://github.com/JSTOR-Labs/plant-humanities/blob/master/images/IMG_1325.JPG"></var>
+     data-title="i discorsi, "
+     data-url="https://www.biodiversitylibrary.org/pageimage/51722142"></var>
 
 In addition to the “cleansing” and purgative properties associated with peony and women’s health, the Roman physician Galen [QID] recommended tying peony root around the necks of children as an effective remedy for “the falling sickness,” which was a common pre-modern phrase for epilepsy [QID].[<![if !supportFootnotes]>[4]<![endif]>](#_ftn4) Throughout the middle ages, peony continued to be used as a medicinal simple for the treatment of epilepsy or convulsions. For example, the female medieval healer and [Benedictine](https://en.wikipedia.org/wiki/Benedictine "Benedictine")  [abbess](https://en.wikipedia.org/wiki/Abbess "Abbess"), Hildegard von Bingen (1098-1179) [QID] instructed “When one falls with epilepsy, place in his mouth [peony] while he lies there, and do this every time he falls with this disease, and he will be finally cured.”[<![if !supportFootnotes]>[5]<![endif]>](#_ftn5) In addition to treating epilepsy, fits, and convulsions, peony was also used as a cure for lunacy and sciatica. _(image of peony and madness from Wellcome)_
 
@@ -103,7 +103,8 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Mzg1NTgyMCwtMTk5OTc0Mzg4OCwtOD
-M3Mjc0NDM0LC0xOTUxOTU2OTY2LC0xNzk3OTMyNDM5LC0xMDEx
-NjUwMDYyLC0yMzcyMDQ2MzgsMTE3NTc3ODU5OF19
+eyJoaXN0b3J5IjpbMTY4OTg3NTE4LDE1ODM4NTU4MjAsLTE5OT
+k3NDM4ODgsLTgzNzI3NDQzNCwtMTk1MTk1Njk2NiwtMTc5Nzkz
+MjQzOSwtMTAxMTY1MDA2MiwtMjM3MjA0NjM4LDExNzU3Nzg1OT
+hdfQ==
 -->
