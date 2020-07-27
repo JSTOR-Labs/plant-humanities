@@ -61,7 +61,7 @@ Outside of China, peony had an equally long history of medicinal use in Europe. 
      data-title="Mattioli, i discorsi, pg. 965"
      data-url="https://www.biodiversitylibrary.org/pageimage/51722143"></var>
 
-In addition to the “cleansing” and purgative properties associated with peony and women’s health, the Roman physician <span id="Q8778">Galen</span> recommended tying peony root around the necks of children as an effective remedy for “the falling sickness,” which was a common pre-modern phrase for <span id="Q41571">epilepsy</span>. Throughout the middle ages, peony continued to be used as a medicinal simple for the treatment of epilepsy or convulsions. For example, the female medieval healer and [Benedictine](https://en.wikipedia.org/wiki/Benedictine "Benedictine")  [abbess](https://en.wikipedia.org/wiki/Abbess "Abbess"), <span id="Hildegard von Bingen (1098-1179) [QID] instructed “When one falls with epilepsy, place in his mouth [peony] while he lies there, and do this every time he falls with this disease, and he will be finally cured.”[<![if !supportFootnotes]>[5]<![endif]>](#_ftn5) In addition to treating epilepsy, fits, and convulsions, peony was also used as a cure for lunacy and sciatica. _(image of peony and madness from Wellcome)_
+In addition to the “cleansing” and purgative properties associated with peony and women’s health, the Roman physician <span id="Q8778">Galen</span> recommended tying peony root around the necks of children as an effective remedy for “the falling sickness,” which was a common pre-modern phrase for <span id="Q41571">epilepsy</span>. Throughout the middle ages, peony continued to be used as a medicinal simple for the treatment of epilepsy or convulsions. For example, the female medieval healer and [Benedictine](https://en.wikipedia.org/wiki/Benedictine "Benedictine")  [abbess](https://en.wikipedia.org/wiki/Abbess "Abbess"), <span id="Q70991">Hildegard von Bingen (1098-1179)</span> instructed “When one falls with epilepsy, place in his mouth [peony] while he lies there, and do this every time he falls with this disease, and he will be finally cured.” In addition to treating epilepsy, fits, and convulsions, peony was also used as a cure for lunacy and sciatica. _(image of peony and madness from Wellcome)_
 
 European printed herbals [QID] of the sixteenth century continued to prescribe peony for seizures and epilepsy. While many of these herbals still referenced Galen’s recommendation to tie the root around the necks of children, they also prescribed more powerful peony therapeutics in the form of distilled waters, powders, syrups, and compound medicines to be taken internally. For example, Castore Durante’s [QID] popular Italian herbal printed in 1585 described how distilled water of female peony root and flowers relieved children who suffered from “mal caduco” (epilepsy or seizures). He also noted that it benefitted apoplectics and paralytics as well. Similarly, in his 1597 herbal, English naturalist John Gerarde [QID] noted that a syrup made from peony “helpeth greatly the falling sickness, likewise the extraction of on the rootes doth the same.”[<![if !supportFootnotes]>[6]<![endif]>](#_ftn6) _(comparison image of the herbals)_
 
@@ -107,8 +107,8 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDk5NTEyNSwxNTgzODU1ODIwLC0xOT
-k5NzQzODg4LC04MzcyNzQ0MzQsLTE5NTE5NTY5NjYsLTE3OTc5
-MzI0MzksLTEwMTE2NTAwNjIsLTIzNzIwNDYzOCwxMTc1Nzc4NT
-k4XX0=
+eyJoaXN0b3J5IjpbLTE2ODUwOTEwNjgsMTU4Mzg1NTgyMCwtMT
+k5OTc0Mzg4OCwtODM3Mjc0NDM0LC0xOTUxOTU2OTY2LC0xNzk3
+OTMyNDM5LC0xMDExNjUwMDYyLC0yMzcyMDQ2MzgsMTE3NTc3OD
+U5OF19
 -->
