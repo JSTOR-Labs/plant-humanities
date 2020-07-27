@@ -26,7 +26,7 @@
 
 ### The Big Bloom
 1698 was a special year for the Leiden botanical garden. After 96 long years, its exotic “Aloe Americana” (or _Agave americana_ as it is classified today) bloomed for the first time. To commemorate the marvelous event, the Hortus commissioned and illustrated print of the plant.[^ref1] A surviving poster-sized print, recently added to Dumbarton Oaks’ Rare Book Collection, reveals sixteenth and seventeenth century European botanists’ fascination with the so-called “century plant” and provides a lens to explore the history of agave – a plant that shaped human societies across three continents.
-<param ve-image title="Aloë Americana: heeft gebloeid in des universiteits Kruyd-Hof tot Leiden, 1698, Rare Book Collection, Dumbarton Oaks" url="https://jstor-labs.github.io/plant-humanities/images/Aloe_Americana_Leiden_DO.jpg">
+<param ve-image title="Aloë Americana: heeft gebloeid in des universiteits Kruyd-Hof tot Leiden, 1698, Rare Book Collection, Dumbarton Oaks" url="https://jstor-labs.github.io/plant-humanities/images/Aloe_Americana_Leiden_DO.jpg" attribution="">
 
 In seventeenth-century Leiden, the _Agave americana_ certainly earned its nickname, taking almost a century to bloom. In its natural climate, however, an _Agave americana_ can grow upwards of twenty feet and typically blooms every 10 to 25 years.[^ref2] _Agave_ is a genus of monocots with some 200 species indigenous to Central America, the Southwestern US, and in some tropical areas of South America. Distinguished by their strong, fleshy leaves, agaves grow slowly and require little water to survive, making them a vital resource in semiarid climates. Although best known today as the plant from which tequila is made, agave plants played a central role in ancient Amerindian religion and culture for centuries, encouraged a botanical revolution in Europe, helped form Mexican identity in the nineteenth and twentieth centuries, and offer solutions to present-day environmental challenges.
 <var data-map title="Agave americana distribution" data-center="25.503945, -102.834000" data-basemap="Esri_WorldPhysical" data-zoom="4"></var>
@@ -38,7 +38,7 @@ In seventeenth-century Leiden, the _Agave americana_ certainly earned its nickna
 ### A Miracle Plant
 For centuries agave species provided spiritual and physical sustenance to the inhabitants of the semiarid lands of North and Central America. Given its numerous cultural uses, it is not surprising that the Nahuatl term for agaves, “metl,” implied that they were a miracle plant.[^ref3] In his chronicle of the indigenous peoples of New Spain, the Franciscan missionary, Toribio de Benavente Motolinia, described the many uses of agave, or “maguey” as it was locally known. He observed that the fibers from the leaves were used for sewing as well as making cords, robes, cables, clothing, and footwear. The plant’s sharp spines were used as punches, nails, or tacks. The leaves were dried and used for general building materials, fires, and paper. Agaves are also edible. Montolinia remarked that both the fibrous leaves and sap of the plant were palatable and nutritious. He also noted that honey, vinegar, sugar, and medicinal balsams were made from the abundant sap. Finally, and perhaps most significantly, the fermented sap of the maguey was a beverage that, according to Montolinia, was “wholesome and very nutritious” when consumed in moderation.[^ref4]
 <var data-primary="image"></var>
-<var data-image id="Florentine Codex image" title="Florentine Codex, Book 11: treating a head wound" data-url="https://www.mexicolore.co.uk/images-ans/ans_36_01_2.jpg" data-region=""></var>
+<var data-image id="Florentine Codex image" title="Florentine Codex, Book 11: treating a head wound" data-url="https://www.mexicolore.co.uk/images-ans/ans_36_01_2.jpg">
 
 ### The Sacred Drink of the Maya and Nahua Peoples
 
@@ -116,5 +116,6 @@ Beyond producing one of North America’s favorite spirits, agave plants, just a
 
 [^ref15]: David, Sarah C., Frank G. Dohleman, and Stephen P. Long. (2010). The global potential for Agave as a biofuel feedstock. GCB Bioenergy 3, 68–78, doi:10.1111/j.17571707.2010.01077.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQxMzA4MSwxOTExODI5MDYzXX0=
+eyJoaXN0b3J5IjpbLTE2NDE0NDM1OTYsLTE4NjQxMzA4MSwxOT
+ExODI5MDYzXX0=
 -->
