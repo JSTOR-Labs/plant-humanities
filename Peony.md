@@ -38,7 +38,7 @@ While today we think of peonies as beautiful ornamental flowers, for more than a
 <param ve-map center="32.262084, 64.391554" zoom="2.5">
 <param ve-map-layer geojson url="geojson/peony.json" title="Peony Distribution" active> 
 
-Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, <span id="Q163076">_Paeonia lactiflora_</span>, which was the primary source of both white peony and red peony, and , <span id="Q163018">_Paeonia suffruticosa_</span>, commonly known as the tree peony or “moutan”. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.
+Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, <span id="Q163076">_Paeonia lactiflora_</span>, which was the primary source of both white peony and red peony, and , <span id="Q163018">_Paeonia suffruticosa_</span>, commonly known as the tree peony or “moutan”. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.[^1]
 <param ve-plant-specimen eid="Q163076" max="1">
 <param ve-plant-specimen eid="Q163018" max="1">
 
@@ -95,11 +95,9 @@ The probable effectiveness of her infant convulsion powder increased Anna Maria 
 
 The gift of “miraculous” medicine to the Viennese court was not simply altruistic. As a woman, Anna Maria Luisa was barred from inheriting and ruling Tuscany on the death of her brother, the last Medici Grand Duke [QID]. Although she lacked official power, Anna Maria Luisa fashioned influence through the gift of her infant convulsion powder, which allowed her to ingratiate herself with some of Vienna’s most important and powerful families. This ensured goodwill and communication between the Grand Duchy of Tuscany and the court that would decide its fate. By the end of the Medici dynasty, the Viennese court was the headquarters of the Habsburg dynasty [QID] and the center of its imperial politics. In 1737, Francis of Lorraine [QID], future head of the Holy Roman Empire [QID] which controlled much of Europe at this time, became the Grand Duke of Tuscany and ruled Florence from the imperial court in Vienna—a court much indebted to Anna Maria Luisa’s infant convulsion powder. _(image of AML)_
 
-<![if !supportFootnotes]>  
 
-----------
-
-<![endif]>
+### Footnotes
+[^1
 
 [<![if !supportFootnotes]>[1]<![endif]>](#_ftnref1) Zhao, M, and Wu, S.P. "A Review of the Ethnobotany, Phytochemistry and Pharmacology of Tree Peony (Sect. Moutan)." South African Journal of Botany 124 (2019): 556-63.
 
@@ -123,9 +121,9 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzMzYyNTUxLDU2MzM2MjU1MSwxNDY4MD
-Q5ODEzLC0xMTYxNTUzOTMsLTEyNDY1MTg4ODgsLTI0NzQzNjM1
-OSwxNTgzODU1ODIwLC0xOTk5NzQzODg4LC04MzcyNzQ0MzQsLT
-E5NTE5NTY5NjYsLTE3OTc5MzI0MzksLTEwMTE2NTAwNjIsLTIz
-NzIwNDYzOCwxMTc1Nzc4NTk4XX0=
+eyJoaXN0b3J5IjpbMjA0NTkzMjIwNCw1NjMzNjI1NTEsNTYzMz
+YyNTUxLDE0NjgwNDk4MTMsLTExNjE1NTM5MywtMTI0NjUxODg4
+OCwtMjQ3NDM2MzU5LDE1ODM4NTU4MjAsLTE5OTk3NDM4ODgsLT
+gzNzI3NDQzNCwtMTk1MTk1Njk2NiwtMTc5NzkzMjQzOSwtMTAx
+MTY1MDA2MiwtMjM3MjA0NjM4LDExNzU3Nzg1OThdfQ==
 -->
