@@ -38,7 +38,7 @@ While today we think of peonies as beautiful ornamental flowers, for more than a
 <param ve-map center="32.262084, 64.391554" zoom="2.5">
 <param ve-map-layer geojson url="geojson/peony.json" title="Peony Distribution" active> 
 
-Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, <span id="Q163076">_Paeonia lactiflora_</span>, which was the primary source of both white peony and red peony, and , <span id="Q163018">_Paeonia suffruticosa_</span>, commonly known as the tree peony or “moutan”. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.[^a] 
+Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, <span id="Q163076">_Paeonia lactiflora_</span>, which was the primary source of both white peony and red peony, and , <span id="Q163018">_Paeonia suffruticosa_</span>, commonly known as the tree peony or “moutan”. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.[^a]
 <param ve-plant-specimen eid="Q163076" max="1">
 <param ve-plant-specimen eid="Q163018" max="1">
 
@@ -98,7 +98,7 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 
 ### Footnotes
-[^a]:text text text
+[^a]: text text text
 
 Zhao, M, and Wu, S.P. "A Review of the Ethnobotany, Phytochemistry and Pharmacology of Tree Peony (Sect. Moutan)." South African Journal of Botany 124 (2019): 556-63.
 
@@ -122,9 +122,9 @@ Tadashi Tsuda, Aiko Sugaya, Hiromi Ohguchi, Naoki Kishida, Eiichi Sugaya, “Pro
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDEzMTQ4NzMsNTYzMzYyNTUxLDU2Mz
-M2MjU1MSwxNDY4MDQ5ODEzLC0xMTYxNTUzOTMsLTEyNDY1MTg4
-ODgsLTI0NzQzNjM1OSwxNTgzODU1ODIwLC0xOTk5NzQzODg4LC
-04MzcyNzQ0MzQsLTE5NTE5NTY5NjYsLTE3OTc5MzI0MzksLTEw
-MTE2NTAwNjIsLTIzNzIwNDYzOCwxMTc1Nzc4NTk4XX0=
+eyJoaXN0b3J5IjpbLTY3OTM3MDI2MSw1NjMzNjI1NTEsNTYzMz
+YyNTUxLDE0NjgwNDk4MTMsLTExNjE1NTM5MywtMTI0NjUxODg4
+OCwtMjQ3NDM2MzU5LDE1ODM4NTU4MjAsLTE5OTk3NDM4ODgsLT
+gzNzI3NDQzNCwtMTk1MTk1Njk2NiwtMTc5NzkzMjQzOSwtMTAx
+MTY1MDA2MiwtMjM3MjA0NjM4LDExNzU3Nzg1OThdfQ==
 -->
