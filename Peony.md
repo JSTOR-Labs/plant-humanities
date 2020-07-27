@@ -65,7 +65,8 @@ In addition to the “cleansing” and purgative properties associated with peon
 <var data-primary="image"></var>
 <var data-image
      data-fit="cover"
-     data-title="Mattioli, i discorsi, pg. 965"
+     data-title="Peony: cure for lunacy and sciatica"
+     data-attribute="Medical illustrations in medieval manuscripts by Loren MacKinney, Wellcome Library"
      data-url="https://upload.wikimedia.org/wikipedia/commons/7/76/Peony%3B_cure_for_lunacy_and_sciatica._Wellcome_L0004780.jpg"></var>
 
 European printed herbals [QID] of the sixteenth century continued to prescribe peony for seizures and epilepsy. While many of these herbals still referenced Galen’s recommendation to tie the root around the necks of children, they also prescribed more powerful peony therapeutics in the form of distilled waters, powders, syrups, and compound medicines to be taken internally. For example, Castore Durante’s [QID] popular Italian herbal printed in 1585 described how distilled water of female peony root and flowers relieved children who suffered from “mal caduco” (epilepsy or seizures). He also noted that it benefitted apoplectics and paralytics as well. Similarly, in his 1597 herbal, English naturalist John Gerarde [QID] noted that a syrup made from peony “helpeth greatly the falling sickness, likewise the extraction of on the rootes doth the same.”[<![if !supportFootnotes]>[6]<![endif]>](#_ftn6) _(comparison image of the herbals)_
@@ -112,8 +113,8 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0MTE3NTI1LDE1ODM4NTU4MjAsLTE5OT
-k3NDM4ODgsLTgzNzI3NDQzNCwtMTk1MTk1Njk2NiwtMTc5Nzkz
-MjQzOSwtMTAxMTY1MDA2MiwtMjM3MjA0NjM4LDExNzU3Nzg1OT
-hdfQ==
+eyJoaXN0b3J5IjpbLTE0OTMyNDIzMTMsMTU4Mzg1NTgyMCwtMT
+k5OTc0Mzg4OCwtODM3Mjc0NDM0LC0xOTUxOTU2OTY2LC0xNzk3
+OTMyNDM5LC0xMDExNjUwMDYyLC0yMzcyMDQ2MzgsMTE3NTc3OD
+U5OF19
 -->
