@@ -38,7 +38,7 @@ While today we think of peonies as beautiful ornamental flowers, for more than a
 <param ve-map center="32.262084, 64.391554" zoom="2.5">
 <param ve-map-layer geojson url="geojson/peony.json" title="Peony Distribution" active> 
 
-Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, <span id="Q163076">_Paeonia lactiflora_</span>, which was the primary source of both white peony and red peony, and , <span id="Q163018">_Paeonia suffruticosa_</span>, commonly known as the tree peony or “moutan”. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.
+Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, <span data-eid="Q163076">_Paeonia lactiflora_</span>, which was the primary source of both white peony and red peony, and , <span id="Q163018">_Paeonia suffruticosa_</span>, commonly known as the tree peony or “moutan”. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.
 <param ve-plant-specimen eid="Q163076" max="1">
 <param ve-plant-specimen eid="Q163018" max="1">
 
@@ -123,9 +123,9 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzMzYyNTUxLDE0NjgwNDk4MTMsLTExNj
-E1NTM5MywtMTI0NjUxODg4OCwtMjQ3NDM2MzU5LDE1ODM4NTU4
-MjAsLTE5OTk3NDM4ODgsLTgzNzI3NDQzNCwtMTk1MTk1Njk2Ni
-wtMTc5NzkzMjQzOSwtMTAxMTY1MDA2MiwtMjM3MjA0NjM4LDEx
-NzU3Nzg1OThdfQ==
+eyJoaXN0b3J5IjpbLTI1NDA4MDAxMSw1NjMzNjI1NTEsMTQ2OD
+A0OTgxMywtMTE2MTU1MzkzLC0xMjQ2NTE4ODg4LC0yNDc0MzYz
+NTksMTU4Mzg1NTgyMCwtMTk5OTc0Mzg4OCwtODM3Mjc0NDM0LC
+0xOTUxOTU2OTY2LC0xNzk3OTMyNDM5LC0xMDExNjUwMDYyLC0y
+MzcyMDQ2MzgsMTE3NTc3ODU5OF19
 -->
