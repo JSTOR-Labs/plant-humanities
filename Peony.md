@@ -73,13 +73,13 @@ In addition to the “cleansing” and purgative properties associated with peon
 <var data-primary="image"></var>
 <var data-image
      data-fit="cover"
-     data-title="Durante, pg. 964"
+     data-title="Durante, pg. "
      data-url="https://www.biodiversitylibrary.org/pageimage/51722142"></var>
 <var data-primary="image"></var>
 <var data-image
      data-fit="cover"
-     data-title="Gerard, pg. 965"
-     data-url="https://www.biodiversitylibrary.org/pageim/51906362"></var>
+     data-title="Gerard, pg. 980"
+     data-url="https://www.biodiversitylibrary.org/pageimage/51906362"></var>
 
 **Nature's Pharmaceuticals**
 
@@ -123,8 +123,8 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTgwMzgxMDcsMTU4Mzg1NTgyMCwtMT
-k5OTc0Mzg4OCwtODM3Mjc0NDM0LC0xOTUxOTU2OTY2LC0xNzk3
-OTMyNDM5LC0xMDExNjUwMDYyLC0yMzcyMDQ2MzgsMTE3NTc3OD
-U5OF19
+eyJoaXN0b3J5IjpbMjE0NTMxNzAwMCwxNTgzODU1ODIwLC0xOT
+k5NzQzODg4LC04MzcyNzQ0MzQsLTE5NTE5NTY5NjYsLTE3OTc5
+MzI0MzksLTEwMTE2NTAwNjIsLTIzNzIwNDYzOCwxMTc1Nzc4NT
+k4XX0=
 -->
