@@ -49,7 +49,7 @@ More than a millennium later in 1644, and a testament to peony’s long history 
 <param ve-storiiies id="6a1do">
 
 ### Peony in Western Medicine
-Outside of China, peony had an equally long history of medicinal use in Europe. In his herbal, _de Materia Medica_, the Greek physician  <span id="Q297776">Dioscorides</span> identified two types of peonies used in medicine: the male and female peony. Today these are identified as _Paeonia mascula_ [Q161482] and _Paeonia officinalis_ [QID] respectively. According to Pietro Andrea Mattioli’s [QID] 16th century commentary on _de Materia Medica_  [QID], Dioscorides prescribed giving the dry root of _P. officinalis_ to women to provoke menstruation (an emmenagogue [QID]) and to treat kidney and bladder discomfort among several other gynecological ailments. The Roman naturalist, Pliny the Elder [QID], also recommended _P. officinalis_ for “female diseases,” stating, “[One great remedy for all female diseases in common, is the black seed of the herbaceous plant pæonia](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:latinLit:phi0978.phi001.perseus-eng1:26.90).”  _(image of male and female peony from Mattioli’s herbal)_
+Outside of China, peony had an equally long history of medicinal use in Europe. In his herbal, _de Materia Medica_, the Greek physician <span id="Q297776">Dioscorides</span> identified two types of peonies used in medicine: the male and female peony. Today these are identified as <span id="Q161482">_Paeonia mascula_</span> and <span id="Q159738">_Paeonia officinalis_ respectively. According to Pietro Andrea Mattioli’s [QID] 16th century commentary on _de Materia Medica_  [QID], Dioscorides prescribed giving the dry root of _P. officinalis_ to women to provoke menstruation (an emmenagogue [QID]) and to treat kidney and bladder discomfort among several other gynecological ailments. The Roman naturalist, Pliny the Elder [QID], also recommended _P. officinalis_ for “female diseases,” stating, “[One great remedy for all female diseases in common, is the black seed of the herbaceous plant pæonia](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:latinLit:phi0978.phi001.perseus-eng1:26.90).”  _(image of male and female peony from Mattioli’s herbal)_
 
 In addition to the “cleansing” and purgative properties associated with peony and women’s health, the Roman physician Galen [QID] recommended tying peony root around the necks of children as an effective remedy for “the falling sickness,” which was a common pre-modern phrase for epilepsy [QID].[<![if !supportFootnotes]>[4]<![endif]>](#_ftn4) Throughout the middle ages, peony continued to be used as a medicinal simple for the treatment of epilepsy or convulsions. For example, the female medieval healer and [Benedictine](https://en.wikipedia.org/wiki/Benedictine "Benedictine")  [abbess](https://en.wikipedia.org/wiki/Abbess "Abbess"), Hildegard von Bingen (1098-1179) [QID] instructed “When one falls with epilepsy, place in his mouth [peony] while he lies there, and do this every time he falls with this disease, and he will be finally cured.”[<![if !supportFootnotes]>[5]<![endif]>](#_ftn5) In addition to treating epilepsy, fits, and convulsions, peony was also used as a cure for lunacy and sciatica. _(image of peony and madness from Wellcome)_
 
@@ -97,7 +97,7 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDczMTg1LC04MzcyNzQ0MzQsLTE5NT
-E5NTY5NjYsLTE3OTc5MzI0MzksLTEwMTE2NTAwNjIsLTIzNzIw
-NDYzOCwxMTc1Nzc4NTk4XX0=
+eyJoaXN0b3J5IjpbMjEyODE1NTE0NCwtODM3Mjc0NDM0LC0xOT
+UxOTU2OTY2LC0xNzk3OTMyNDM5LC0xMDExNjUwMDYyLC0yMzcy
+MDQ2MzgsMTE3NTc3ODU5OF19
 -->
