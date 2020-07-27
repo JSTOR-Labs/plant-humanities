@@ -39,7 +39,7 @@ After spending several years in South America searching for new species of _Heli
        title="Photograph of John Kress (center) and team with the newly-found _Heliconia_."
        url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/exhibition-images/14-john-kress-finding-heliconia.jpg/@@images/21b338bf-3b3b-4f38-a159-d728bdf9baea.jpeg">
 
-This special form, which was named by Kress _Heliconia chartacea  var. meeana_,  is greenish-yellow in color and differs from the more typical form of _Heliconia chartacea_, which is bright pink and rose. It may simply be a partial albino form of the typical species and is also pollinated by hummingbirds. A scientific illustration by Smithsonian botanical artist [Alice Tangerini](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/tangerini-interview), created after Kress returned with the heliconia, employed a mix of photographs, dried specimens, and dissections under the microscope to capture the plant’s structures in pen and ink for the botanical publication of the new variety.
+This special form, which was named by Kress _Heliconia chartacea  var. meeana_ is greenish-yellow in color and differs from the more typical form of _Heliconia chartacea_, which is bright pink and rose. It may simply be a partial albino form of the typical species and is also pollinated by hummingbirds. A scientific illustration by Smithsonian botanical artist [Alice Tangerini](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/tangerini-interview), created after Kress returned with the heliconia, employed a mix of photographs, dried specimens, and dissections under the microscope to capture the plant’s structures in pen and ink for the botanical publication of the new variety.
 <param ve-image 
        fit="cover"
        title="Alice Tangerini, _Heliconia chartacea  var. meeana_"
@@ -120,3 +120,6 @@ Martén-Rodríguez, S., John Kress, W., Temeles, E.J. et al.2011. Plant–poll
 Mee, M., & Morrison, T. 1988. Margaret Mee, In Search of Flowers of the Amazon Forests: Diaries of an English artist reveal the beauty of the vanishing rainforest. Suffolk, England: Nonesuch Expeditions.
 
 Temeles, E. J., and W. J. Kress. 2003. Evidence for adaptation in a plant-hummingbird
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzNTExNTM1NjNdfQ==
+-->
