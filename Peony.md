@@ -69,7 +69,7 @@ In addition to the “cleansing” and purgative properties associated with peon
      data-attribute="Medical illustrations in medieval manuscripts by Loren MacKinney, Wellcome Library"
      data-url="https://upload.wikimedia.org/wikipedia/commons/7/76/Peony%3B_cure_for_lunacy_and_sciatica._Wellcome_L0004780.jpg"></var>
 
-<span id="Q6165948">European printed herbals</span> of the sixteenth century continued to prescribe peony for seizures and epilepsy. While many of these herbals still referenced Galen’s recommendation to tie the root around the necks of children, they also prescribed more powerful peony therapeutics in the form of distilled waters, powders, syrups, and compound medicines to be taken internally. For example, <span id="Q205031">Castore Durante’s</span> popular Italian herbal printed in 1585 described how distilled water of female peony root and flowers relieved children who suffered from “mal caduco” (epilepsy or seizures). He also noted that it benefitted apoplectics and paralytics as well. Similarly, in his 1597 herbal, English naturalist <span id="Q1333338">John Gerard</span> noted that a syrup made from peony “helpeth greatly the falling sickness, likewise the extraction of on the rootes doth the same.”
+<span id="Q6165948">European printed herbals</span> of the sixteenth century continued to prescribe peony for seizures and epilepsy. While many of these herbals still referenced Galen’s recommendation to tie the root around the necks of children, they also prescribed more powerful peony therapeutics in the form of distilled waters, powders, syrups, and compound medicines to be taken internally. For example, <span id="Q205031">Castore Durante’s</span> popular Italian herbal printed in 1585 described how distilled water of female peony root and flowers relieved children who suffered from “mal caduco” (epilepsy or seizures). He also noted that it benefited apoplectics and paralytics as well. Similarly, in his 1597 herbal, English naturalist <span id="Q1333338">John Gerard</span> noted that a syrup made from peony “helpeth greatly the falling sickness, likewise the extraction of on the rootes doth the same.”
 <var data-primary="image"></var>
 <var data-image
      data-fit="cover"
@@ -81,8 +81,7 @@ In addition to the “cleansing” and purgative properties associated with peon
      data-title="Gerard, pg. 980"
      data-url="https://www.biodiversitylibrary.org/pageimage/51906362"></var>
 
-**Nature's Pharmaceuticals**
-
+### Nature's Pharmaceuticals
 As we can see, for more than two thousand years numerous peony species were used as a powerful herbal therapeutic across societies in Europe and Asia. Herbal medicine in the western tradition [QID], however, changed dramatically over the course of the late-eighteenth and nineteenth centuries as European chemists, botanists, and physicians began favoring the creation of standardized and systematic medical experimentation [QID] to assess the efficacy of plant medicines and identify and isolate their active chemical compounds. This led to an emphasis on the individual organic compounds within plants and the organic chemical synthesis of these compounds to produce more effective drugs. It also marked the birth of modern pharmaceuticals, many of which are derived or synthetic analogues of naturally occurring chemical structures. The ability to isolate, purify, and synthesize chemical structures created highly efficacious and powerful drugs [QID]. Thus, despite being the antecedent of modern chemical pharmaceuticals, herbal simples and compound herbal medicines were slowly replaced and increasingly viewed as outdated, crude, ineffectual, and, in some cases, even dangerous. _(Chart of examples of pharmacologically active substances derived from plants - morphine from opium poppy, nicotine from the tobacco plant, cannabinoids from cannabis leaves, caffeine from tea and coffee, cardiac glycosides (digoxin and digitoxin) from woolly foxglove, quinine from the cinchona tree, and salicylates from the bark of the white willow tree)_
 
 While modern western medicine tends to dismiss pre-modern therapeutics like Anna Maria Luisa’s infant convulsion powder, numerous scientific studies on several species of peony used medically in East Asia have revealed isolated compounds that possess antitumor, antioxidant, anti-inflammatory, hepatoprotective, and antidiabetic properties.[<![if !supportFootnotes]>[7]<![endif]>](#_ftn7) Peony roots and flowers continue to be used as a medicinal simple in Traditional Chinese [QID] and Ayurvedic [QID] medicine. While fewer studies have been conducted on European species of peony used medicinally, there have been several studies conducted to test for the bioactive compounds responsible for _P. officinalis’s_ effect on seizures. _(image of peony root and peony tea)_
@@ -123,8 +122,8 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA2ODI4OTgsMTU4Mzg1NTgyMCwtMT
-k5OTc0Mzg4OCwtODM3Mjc0NDM0LC0xOTUxOTU2OTY2LC0xNzk3
-OTMyNDM5LC0xMDExNjUwMDYyLC0yMzcyMDQ2MzgsMTE3NTc3OD
-U5OF19
+eyJoaXN0b3J5IjpbODkxNTAxOTE3LDE1ODM4NTU4MjAsLTE5OT
+k3NDM4ODgsLTgzNzI3NDQzNCwtMTk1MTk1Njk2NiwtMTc5Nzkz
+MjQzOSwtMTAxMTY1MDA2MiwtMjM3MjA0NjM4LDExNzU3Nzg1OT
+hdfQ==
 -->
