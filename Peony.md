@@ -80,8 +80,10 @@ In addition to the “cleansing” and purgative properties associated with peon
 
 ### Nature's Pharmaceuticals
 As we can see, for more than two thousand years numerous peony species were used as a powerful herbal therapeutic across societies in Europe and Asia. Herbal medicine in the western tradition [QID], however, changed dramatically over the course of the late-eighteenth and nineteenth centuries as European chemists, botanists, and physicians began favoring the creation of standardized and systematic medical experimentation [QID] to assess the efficacy of plant medicines and identify and isolate their active chemical compounds. This led to an emphasis on the individual organic compounds within plants and the organic chemical synthesis of these compounds to produce more effective drugs. It also marked the birth of modern pharmaceuticals, many of which are derived or synthetic analogues of naturally occurring chemical structures. The ability to isolate, purify, and synthesize chemical structures created highly efficacious and powerful drugs [QID]. Thus, despite being the antecedent of modern chemical pharmaceuticals, herbal simples and compound herbal medicines were slowly replaced and increasingly viewed as outdated, crude, ineffectual, and, in some cases, even dangerous.
-
-_(Chart of examples of pharmacologically active substances derived from plants - morphine from opium poppy, nicotine from the tobacco plant, cannabinoids from cannabis leaves, caffeine from tea and coffee, cardiac glycosides (digoxin and digitoxin) from woolly foxglove, quinine from the cinchona tree, and salicylates from the bark of the white willow tree)_
+<var data-primary="image"></var>
+<var data-image
+     data-fit="cover"
+     data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Papaver%20somniferum.jpg"></var>
 
 While modern western medicine tends to dismiss pre-modern therapeutics like Anna Maria Luisa’s infant convulsion powder, numerous scientific studies on several species of peony used medically in East Asia have revealed isolated compounds that possess antitumor, antioxidant, anti-inflammatory, hepatoprotective, and antidiabetic properties.[<![if !supportFootnotes]>[7]<![endif]>](#_ftn7) Peony roots and flowers continue to be used as a medicinal simple in Traditional Chinese [QID] and Ayurvedic [QID] medicine. While fewer studies have been conducted on European species of peony used medicinally, there have been several studies conducted to test for the bioactive compounds responsible for _P. officinalis’s_ effect on seizures. _(image of peony root and peony tea)_
 
@@ -121,9 +123,9 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODA0OTgxMywtMTE2MTU1MzkzLC0xMj
-Q2NTE4ODg4LC0yNDc0MzYzNTksMTU4Mzg1NTgyMCwtMTk5OTc0
-Mzg4OCwtODM3Mjc0NDM0LC0xOTUxOTU2OTY2LC0xNzk3OTMyND
-M5LC0xMDExNjUwMDYyLC0yMzcyMDQ2MzgsMTE3NTc3ODU5OF19
-
+eyJoaXN0b3J5IjpbNTYzMzYyNTUxLDE0NjgwNDk4MTMsLTExNj
+E1NTM5MywtMTI0NjUxODg4OCwtMjQ3NDM2MzU5LDE1ODM4NTU4
+MjAsLTE5OTk3NDM4ODgsLTgzNzI3NDQzNCwtMTk1MTk1Njk2Ni
+wtMTc5NzkzMjQzOSwtMTAxMTY1MDA2MiwtMjM3MjA0NjM4LDEx
+NzU3Nzg1OThdfQ==
 -->
