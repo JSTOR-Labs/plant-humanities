@@ -52,12 +52,12 @@ Outside of China, peony had an equally long history of medicinal use in Europe. 
 <var data-primary="image"></var>
 <var data-image
      data-fit="cover"
-     data-title="Mattioli, i discorsi, pg. 964"
+     data-attribute="Mattioli, i discorsi, pg. 964"
      data-url="https://www.biodiversitylibrary.org/pageimage/51722142"></var>
 <var data-primary="image"></var>
 <var data-image
      data-fit="cover"
-     data-title="Mattioli, i discorsi, pg. 965"
+     data-attribute="Mattioli, i discorsi, pg. 965"
      data-url="https://www.biodiversitylibrary.org/pageimage/51722143"></var>
 
 In addition to the “cleansing” and purgative properties associated with peony and women’s health, the Roman physician <span id="Q8778">Galen</span> recommended tying peony root around the necks of children as an effective remedy for “the falling sickness,” which was a common pre-modern phrase for <span id="Q41571">epilepsy</span>. Throughout the middle ages, peony continued to be used as a medicinal simple for the treatment of epilepsy or convulsions. For example, the female medieval healer and [Benedictine](https://en.wikipedia.org/wiki/Benedictine "Benedictine")  [abbess](https://en.wikipedia.org/wiki/Abbess "Abbess"), <span id="Q70991">Hildegard von Bingen (1098-1179)</span> instructed “When one falls with epilepsy, place in his mouth [peony] while he lies there, and do this every time he falls with this disease, and he will be finally cured.” In addition to treating epilepsy, fits, and convulsions, peony was also used as a cure for lunacy and sciatica. 
@@ -121,8 +121,8 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NzQzNjM1OSwxNTgzODU1ODIwLC0xOT
-k5NzQzODg4LC04MzcyNzQ0MzQsLTE5NTE5NTY5NjYsLTE3OTc5
-MzI0MzksLTEwMTE2NTAwNjIsLTIzNzIwNDYzOCwxMTc1Nzc4NT
-k4XX0=
+eyJoaXN0b3J5IjpbMjAwNzU0MjgzMywtMjQ3NDM2MzU5LDE1OD
+M4NTU4MjAsLTE5OTk3NDM4ODgsLTgzNzI3NDQzNCwtMTk1MTk1
+Njk2NiwtMTc5NzkzMjQzOSwtMTAxMTY1MDA2MiwtMjM3MjA0Nj
+M4LDExNzU3Nzg1OThdfQ==
 -->
