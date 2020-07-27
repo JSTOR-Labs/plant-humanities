@@ -98,7 +98,7 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 
 ### Footnotes
-[^a] text text text
+[^a]:text text text
 
 Zhao, M, and Wu, S.P. "A Review of the Ethnobotany, Phytochemistry and Pharmacology of Tree Peony (Sect. Moutan)." South African Journal of Botany 124 (2019): 556-63.
 
@@ -108,23 +108,23 @@ Edwards, Sarah E. _Phytopharmacy: An Evidence-based Guide to Herbal Medicinal Pr
 
 Tobyn, Graeme., Alison. Denham, and Margaret. Whitelegg. The Western Herbal Tradition: 2000 Years of Medicinal Plant Knowledge. Edinburgh; New York: Elsevier, 2011.
 
-[<![if !supportFootnotes]>[5]<![endif]>](#_ftnref5) Throop, Priscilla. Hildegard Von Bingen's Physica: The Complete English Translation of Her Classic Work on Health and Healing. Rochester, Vt.: Healing Arts Press, 1998, chapter CXXVII: Peony.
+Throop, Priscilla. Hildegard Von Bingen's Physica: The Complete English Translation of Her Classic Work on Health and Healing. Rochester, Vt.: Healing Arts Press, 1998, chapter CXXVII: Peony.
 
-[<![if !supportFootnotes]>[6]<![endif]>](#_ftnref6) John Gerarde, _The herball, or, Generall historie of plantes_, London: Printed by Adam Islip Joice Norton and Richard Whitakers, anno 1633, pg. 980.
+John Gerarde, _The herball, or, Generall historie of plantes_, London: Printed by Adam Islip Joice Norton and Richard Whitakers, anno 1633, pg. 980.
 
-[<![if !supportFootnotes]>[7]<![endif]>](#_ftnref7) M. Zhao, S.P. Wu, “A review of the ethnobotany, phytochemistry and pharmacology of tree peony (Sect. Moutan),” _South African Journal of Botany_, Volume 124, 2019, Pages 556-563, https://doi.org/10.1016/j.sajb.2019.05.018.
+M. Zhao, S.P. Wu, “A review of the ethnobotany, phytochemistry and pharmacology of tree peony (Sect. Moutan),” _South African Journal of Botany_, Volume 124, 2019, Pages 556-563, https://doi.org/10.1016/j.sajb.2019.05.018.
 
-[<![if !supportFootnotes]>[8]<![endif]>](#_ftnref8) Sugaya E, Sugaya A. Cellular physiology of epileptogenic phenomena and its application to therapy against intractable epilepsy. _Comp Biochem Physiol C_. 1991;98(1): 249-270.
+Sugaya E, Sugaya A. Cellular physiology of epileptogenic phenomena and its application to therapy against intractable epilepsy. _Comp Biochem Physiol C_. 1991;98(1): 249-270.
 
-[<![if !supportFootnotes]>[9]<![endif]>](#_ftnref9) Shamim Sahranavard, Saeedeh Ghafari, Mahmoud Mosaddegh, “Medicinal plants used in Iranian traditional medicine to treat epilepsy,” _Seizure_, Volume 23, Issue 5, 2014, Pages 328-332.
+Shamim Sahranavard, Saeedeh Ghafari, Mahmoud Mosaddegh, “Medicinal plants used in Iranian traditional medicine to treat epilepsy,” _Seizure_, Volume 23, Issue 5, 2014, Pages 328-332.
 
-[<![if !supportFootnotes]>[10]<![endif]>](#_ftnref10) Tadashi Tsuda, Aiko Sugaya, Hiromi Ohguchi, Naoki Kishida, Eiichi Sugaya, “Protective Effects of Peony Root Extract and Its Components on Neuron Damage in the Hippocampus Induced by the Cobalt Focus Epilepsy Model,”
+Tadashi Tsuda, Aiko Sugaya, Hiromi Ohguchi, Naoki Kishida, Eiichi Sugaya, “Protective Effects of Peony Root Extract and Its Components on Neuron Damage in the Hippocampus Induced by the Cobalt Focus Epilepsy Model,”
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTY1NDIwMyw1NjMzNjI1NTEsNTYzMz
-YyNTUxLDE0NjgwNDk4MTMsLTExNjE1NTM5MywtMTI0NjUxODg4
-OCwtMjQ3NDM2MzU5LDE1ODM4NTU4MjAsLTE5OTk3NDM4ODgsLT
-gzNzI3NDQzNCwtMTk1MTk1Njk2NiwtMTc5NzkzMjQzOSwtMTAx
-MTY1MDA2MiwtMjM3MjA0NjM4LDExNzU3Nzg1OThdfQ==
+eyJoaXN0b3J5IjpbLTEzMDEzMTQ4NzMsNTYzMzYyNTUxLDU2Mz
+M2MjU1MSwxNDY4MDQ5ODEzLC0xMTYxNTUzOTMsLTEyNDY1MTg4
+ODgsLTI0NzQzNjM1OSwxNTgzODU1ODIwLC0xOTk5NzQzODg4LC
+04MzcyNzQ0MzQsLTE5NTE5NTY5NjYsLTE3OTc5MzI0MzksLTEw
+MTE2NTAwNjIsLTIzNzIwNDYzOCwxMTc1Nzc4NTk4XX0=
 -->
