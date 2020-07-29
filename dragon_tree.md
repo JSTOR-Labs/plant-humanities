@@ -28,6 +28,8 @@ title="dragon treeTidal basin cherry blossom" url="https://upload.wikimedia.org/
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map center="Q17" zoom="5" basemap="Esri_WorldPhysical">
+<param ve-map-layer geojson url="geojson/Dracaena draco native.json" title="Distribution range" active>
+
 
 ## Humboldt
 
