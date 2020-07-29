@@ -14,12 +14,13 @@
 
 ## Introduction: A Desensitizing Sensory Experience
 As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the Dragon’s Blood they just ingested is truly as noxious as its name suggests. Though the epithet “Dragon’s Blood” brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this “blood” is in fact the resin of a very real tree. As European naturalists like Alexander von Humboldt (1767-1835), Nicolas Baudin (1754-1803), and André Pierre Ledru (1761-1825), who all traveled to Dracaena draco’s native Canary Islands around the turn of the nineteenth century, may have realized soon after their initial experiences with Dragon’s Blood, this strange sap occupied a liminal space between myth, legend, and scientific botany. 
-<param ve-storiiies id="eea32c03226df2f0fdc825a206069fcd2f90653692240d8c0f1733b2e7d981bc">
+<param ve-storiiies id="421e8">
+
 
 ## Sanguine Myths and Elemental Reality
 
 Members of today’s Dracaena genus have long been valued for their signature red resin, Dragon’s Blood, that oozes from cuts in the bark of those trees. The first known reports of Dragon’s Blood were dispersed through Pliny’s Naturalis Historia, where he recounted the Indian tale of a dragon (representing) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this vedic myth actually originates from Socotra island of Yemen and is based on the resin of dracaena cinnabari, the fascination with Dragon’s Blood also took a foothold in Europe through the infamous tale of Hercules. 
-<param ve-storiiies id="421e8">
+<param ve-storiiies id="eea32c03226df2f0fdc825a206069fcd2f90653692240d8c0f1733b2e7d981bc">
 
 
 As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads <Ladon image>. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars (Global Trees Campaign). As Dragon’s Blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that, “the dragon trees […] continue[d] to bleed the death of Ladon with a reddish oozing sap whenever they [got] cut” (apparently from a book “Heroes and Their Trees”). 
