@@ -9,7 +9,8 @@
         "stroke-opacity": 1,
         "fill": "#32C125",
         "fill-opacity": 0.3,
-        "label": "India"
+        "label": "India",
+        "inception": "5,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -312,7 +313,8 @@
       "properties": {
         "stroke": "null",
         "fill": "#32C125",
-        "fill-opacity": 0.3
+        "fill-opacity": 0.3,
+        "inception": "5,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -390,7 +392,8 @@
         "stroke-opacity": 1,
         "fill": "#32C125",
         "fill-opacity": 0.5,
-        "label": "Malaya Peninsula"
+        "label": "Malaya Peninsula",
+        "inception": "5,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -778,9 +781,10 @@
         "stroke": "null",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#32C125",
+        "fill": "#32c125",
         "fill-opacity": 0.8,
-        "label": ""
+        "label": "",
+        "inception": "8,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -1038,7 +1042,8 @@
         "stroke-opacity": 1,
         "fill": "#32c125",
         "fill-opacity": 0.8,
-        "label": ""
+        "label": "",
+        "inception": "6,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -1207,7 +1212,8 @@
         "fill": "#32C125",
         "stroke-width": "",
         "fill-opacity": 0.5,
-        "label": ""
+        "label": "",
+        "inception": "5,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -1405,7 +1411,8 @@
         "stroke-opacity": 1,
         "fill": "#32C125",
         "fill-opacity": 0.5,
-        "label": "Indonesia"
+        "label": "Indonesia",
+        "inception": "5,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -1627,7 +1634,8 @@
         "stroke-opacity": 1,
         "fill": "#32C125",
         "fill-opacity": 0.5,
-        "label": ""
+        "label": "",
+        "inception": "5,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -1775,9 +1783,10 @@
         "stroke": "null",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#32C125",
+        "fill": "#32c125",
         "fill-opacity": 0.3,
-        "label": "East Africa"
+        "label": "East Africa",
+        "inception": "3,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -1912,7 +1921,8 @@
         "label": "Possible Origin of Banana Domestication",
         "stroke": "null",
         "stroke-width": "",
-        "fill": ""
+        "fill": "",
+        "inception": ""
       },
       "geometry": {
         "type": "Point",
@@ -1929,9 +1939,10 @@
         "marker-size": "large",
         "marker-symbol": "garden",
         "label": "Possible Origin of Banana Domestication",
-        "stroke": "null ",
+        "stroke": "null",
         "stroke-width": "",
-        "fill": ""
+        "fill": "#000000",
+        "inception": ""
       },
       "geometry": {
         "type": "Point",
@@ -1949,7 +1960,8 @@
         "stroke-opacity": 1,
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": ""
+        "label": "",
+        "inception": "8,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -2055,7 +2067,8 @@
         "stroke": "null",
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": ""
+        "label": "",
+        "inception": "5,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -2216,7 +2229,8 @@
         "stroke-width": "",
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": ""
+        "label": "",
+        "inception": "8,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -2302,7 +2316,8 @@
         "stroke-opacity": "",
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": ""
+        "label": "",
+        "inception": "5,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -2398,7 +2413,8 @@
         "stroke": "null",
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": ""
+        "label": "",
+        "inception": "3,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -2508,7 +2524,8 @@
         "stroke-opacity": "",
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": ""
+        "label": "",
+        "inception": "3,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -2582,7 +2599,8 @@
         "stroke-opacity": 1,
         "fill": "#92086d",
         "fill-opacity": 0.5,
-        "label": "Empire of Alexander the Great"
+        "label": "Empire of Alexander the Great",
+        "inception": "330 BCE"
       },
       "geometry": {
         "type": "Polygon",
