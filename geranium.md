@@ -62,7 +62,7 @@ However, what goes up must of course come down – and, by the end of the 19th c
 
 ## References
 
-[Dillenius, Johann Jakob, William Sherard, Sherard, James, and Athenaeum. Library, Former Owner. Hortus Elthamensis. Londini: Sumptibus Auctoris, 1732.](https://bibdigital.rjb.csic.es/records/item/10700-redirection)
+[^glfb]:[Dillenius, Johann Jakob, William Sherard, Sherard, James, and Athenaeum. Library, Former Owner. Hortus Elthamensis. Londini: Sumptibus Auctoris, 1732.](https://bibdigital.rjb.csic.es/records/item/10700-redirection)
 
 Hibberd, Shirley. The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers, Groombridge & Sons, 1875.
 
