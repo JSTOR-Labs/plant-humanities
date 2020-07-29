@@ -12,11 +12,11 @@
 <param title="cherry blossom" eid="Q871991">
 <param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 
-## IntroductionSubtitle
-Code to add a location with a custom marker on a map for every paragraph in this section.
+## Introduction: A Desensitizing Sensory Experience
+As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the Dragon’s Blood they just ingested is truly as noxious as its name suggests. Though the epithet “Dragon’s Blood” brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this “blood” is in fact the resin of a very real tree. As European naturalists like Alexander von Humboldt (1767-1835), Nicolas Baudin (1754-1803), and André Pierre Ledru (1761-1825), who all traveled to Dracaena draco’s native Canary Islands around the turn of the nineteenth century, may have realized soon after their initial experiences with Dragon’s Blood, this strange sap occupied a liminal space between myth, legend, and scientific botany. 
 <param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
 
-## Origins
+## Sanguine Myths and Elemental Reality
 
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-image
@@ -24,7 +24,7 @@ title="dragon treeTidal basin cherry blossom" url="https://upload.wikimedia.org/
        fit="cover"
        attribution="Wikimedia Commons">
 
-## Sparking International Inquiry
+## Dragon's Blood, Enlightenment Science, and the Anthropocene
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map center="Q854" zoom="2" basemap="Esri_WorldPhysical">
