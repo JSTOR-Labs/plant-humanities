@@ -60,7 +60,7 @@ Despite resisting concrete taxonomizing for such a long time (and continuing to 
 
 However, what goes up must of course come down – and, by the end of the 19th century, enthusiasm for the geranium had significantly waned. They had become a little too popular, and people began to grow tired of them; the bright colours of their blooms, once considered striking and exotic, came to be seen as cheap and gaudy. Quietly, they went out of fashion. That said, a recent wave of nostalgia for Victorian style and culture has seen something of a resurgence of interest in these so-called “period plants.” Geraniums are beginning to crowd chic balconies and domestic interiors across Europe once again. So be sure to keep an eye out for the genteel geranium!
 
-## References(primary)
+## References
 
 [^p1]:[Dillenius, Johann Jakob, William Sherard, Sherard, James, and Athenaeum. Library, Former Owner. Hortus Elthamensis. Londini: Sumptibus Auctoris, 1732.](https://bibdigital.rjb.csic.es/records/item/10700-redirection)
 
