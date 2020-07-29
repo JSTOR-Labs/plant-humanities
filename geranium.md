@@ -6,7 +6,7 @@
        num-specimens="x"
        num-images="x"
        num-primary-sources="x"
-       author="Daisy Reid,Verónica Matallana Chaves,Yao Jiang ">
+       author="Daisy Reid, Verónica Matallana Chaves, Yao Jiang ">
 
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991">
