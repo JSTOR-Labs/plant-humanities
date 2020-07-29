@@ -27,6 +27,14 @@ url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4512189/figure/mcv077-F3/?repo
 ## Origins, Distribution, and Use
 <param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 
+<param ve-map 
+time-selector="4000 BCE:2000"
+basemap="Esri_WorldPhysical
+center="25,50"
+zoom="2">
+<param ve-map-layer geojson active url="https://github.com/may-wang/test/blob/master/watermelon-distribution.json"
+date-field="date">
+
 ### Subtitle
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="Africa" eid="Q15" fill="#FF0000" marker-symbol="landmark">
