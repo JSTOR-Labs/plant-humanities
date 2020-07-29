@@ -76,6 +76,11 @@ However, what goes up must of course come down – and, by the end of the 19th c
 
 ## References(secondary)
 
+[^s1]:Hartley, Jenny. “Dickens and the Geranium.” The Dickensian, vol. 114, no. 504, 2018, pp. 5-14.
+[^s2]:Lis-Balchin, Maria. Geranium and Pelargonium: History of Nomenclature, Usage and Cultivation. CRC Press, 2002.
+[^s3]:Pelargoniums: An Herb Society of America Guide. The Herb Society of America, 2006. 
+[^s4]:Wilkinson, Anne, and Chris Beardshaw. The Passion for Pelargoniums: How They Found Their Place in the Garden. Stroud: The History Press, 2007.
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE1NDYzNDg0MzldfQ==
 -->
