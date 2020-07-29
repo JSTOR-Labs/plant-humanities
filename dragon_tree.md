@@ -14,7 +14,6 @@
 
 ## Introduction: A Desensitizing Sensory Experience
 As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the Dragon’s Blood they just ingested is truly as noxious as its name suggests. Though the epithet “Dragon’s Blood” brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this “blood” is in fact the resin of a very real tree. As European naturalists like Alexander von Humboldt (1767-1835), Nicolas Baudin (1754-1803), and André Pierre Ledru (1761-1825), who all traveled to Dracaena draco’s native Canary Islands around the turn of the nineteenth century, may have realized soon after their initial experiences with Dragon’s Blood, this strange sap occupied a liminal space between myth, legend, and scientific botany. 
-<param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
 <param ve-storiiies id="https://free.iiifhosting.com/iiif/eea32c03226df2f0fdc825a206069fcd2f90653692240d8c0f1733b2e7d981bc">
 
 ## Sanguine Myths and Elemental Reality
