@@ -18,7 +18,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 
 ## Sanguine Myths and Elemental Reality
 
-Members of today’s Dracaena genus have long been valued for their signature red resin, Dragon’s Blood, that oozes from cuts in the bark of those trees. The first known reports of Dragon’s Blood were dispersed through Pliny’s Naturalis Historia, where he recounted the Indian tale of a dragon (representing) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this vedic myth actually originates from Socotra island of Yemen and is based on the resin of dracaena cinnabari, the fascination with Dragon’s Blood also took a foothold in Europe through the infamous tale of Hercules. <image from Pliny’s book? image of the resin?>
+Members of today’s Dracaena genus have long been valued for their signature red resin, Dragon’s Blood, that oozes from cuts in the bark of those trees. The first known reports of Dragon’s Blood were dispersed through Pliny’s Naturalis Historia, where he recounted the Indian tale of a dragon (representing) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this vedic myth actually originates from Socotra island of Yemen and is based on the resin of dracaena cinnabari, the fascination with Dragon’s Blood also took a foothold in Europe through the infamous tale of Hercules. 
 <param ve-storiiies id="421e8">
 
 
