@@ -19,6 +19,8 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 ## Sanguine Myths and Elemental Reality
 
 Members of today’s Dracaena genus have long been valued for their signature red resin, Dragon’s Blood, that oozes from cuts in the bark of those trees. The first known reports of Dragon’s Blood were dispersed through Pliny’s Naturalis Historia, where he recounted the Indian tale of a dragon (representing) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this vedic myth actually originates from Socotra island of Yemen and is based on the resin of dracaena cinnabari, the fascination with Dragon’s Blood also took a foothold in Europe through the infamous tale of Hercules. <image from Pliny’s book? image of the resin?>
+<param ve-storiiies id="421e8">
+
 
 As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads <Ladon image>. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars (Global Trees Campaign). As Dragon’s Blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that, “the dragon trees […] continue[d] to bleed the death of Ladon with a reddish oozing sap whenever they [got] cut” (apparently from a book “Heroes and Their Trees”). 
 
