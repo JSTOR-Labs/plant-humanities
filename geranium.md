@@ -21,7 +21,7 @@ The pelargonium is a perennial bush, with a strong and aromatic smell. There are
 In order to differentiate between the genera of Pelargonium and Geranium, it is necessary to focus on the reproductive system of the plant: the flower. In the Pelargonium, the arrangement of the flower parts is bilateral and not radial (as it is the case in the Geranium), which is to say that it has only one axis of symmetry. While the Geranium has five nectaries at the base of the petals, the Pelargonium has only one embedded in the receptacle. A final difference between the genera is the number of fertile stamens and their grouping. The Pelargonium has between one and seven stamens, attached at the base; Geranium has either five or ten free stamens. 
 
 ### A brief history of nomenclature confusion
-Before 1787, Geranium was used as the generic name for both pelargoniums and geraniums. Even though Dillenius suggested that the species with unequal and irregular flowers might be called Pelargonia vocare as early as 1732,[^1] his suggestion was not widely accepted. In his 1753 Species Plantarum, Linnaeus retained the generic name Geranium for 20 pelargoniums known at that time, continuing the ignorance of pelargoniums as a new genus. 
+Before 1787, Geranium was used as the generic name for both pelargoniums and geraniums. Even though Dillenius suggested that the species with unequal and irregular flowers might be called Pelargonia vocare as early as 1732,[^p1] his suggestion was not widely accepted. In his 1753 Species Plantarum, Linnaeus retained the generic name Geranium for 20 pelargoniums known at that time, continuing the ignorance of pelargoniums as a new genus. 
 
 It was not until Charles-Louis L’Héritier’s Geraniologia (1787-88) that pelargoniums were clearly distinguished as an independent genus. This was also the first time that an illustration of the P. graveolens was introduced to the public. However, contemporary scholars still paid little attention to this clarification, and kept using Linnaean Geranium nomenclature for pelargoniums – as can be seen in Aloysio Cabrini’s Boccone Museum rariorum plantarum: nominibus linnaei specificis (1791), currently housed in Dumbarton Oaks’ Rare Book Collection.
 
@@ -60,21 +60,21 @@ Despite resisting concrete taxonomizing for such a long time (and continuing to 
 
 However, what goes up must of course come down – and, by the end of the 19th century, enthusiasm for the geranium had significantly waned. They had become a little too popular, and people began to grow tired of them; the bright colours of their blooms, once considered striking and exotic, came to be seen as cheap and gaudy. Quietly, they went out of fashion. That said, a recent wave of nostalgia for Victorian style and culture has seen something of a resurgence of interest in these so-called “period plants.” Geraniums are beginning to crowd chic balconies and domestic interiors across Europe once again. So be sure to keep an eye out for the genteel geranium!
 
-## References
+## References(primary)
 
-[^1]:[Dillenius, Johann Jakob, William Sherard, Sherard, James, and Athenaeum. Library, Former Owner. Hortus Elthamensis. Londini: Sumptibus Auctoris, 1732.](https://bibdigital.rjb.csic.es/records/item/10700-redirection)
+[^p1]:[Dillenius, Johann Jakob, William Sherard, Sherard, James, and Athenaeum. Library, Former Owner. Hortus Elthamensis. Londini: Sumptibus Auctoris, 1732.](https://bibdigital.rjb.csic.es/records/item/10700-redirection)
 
-[^2]:Hibberd, Shirley. The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers, Groombridge & Sons, 1875.
+[^p2]:Hibberd, Shirley. The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers, Groombridge & Sons, 1875.
 
-[^3]:Kirkland, Caroline M. The Book of Flowers, Saunders and Otley, 18--.
+[^p3]:Kirkland, Caroline M. The Book of Flowers, Saunders and Otley, 18--.
 
-[^4]:[Linné, Carl von, and Lars Salvius. Species Plantarum. Holmiae: Impensis Laurentii Salvii, 1753.](https://www.biodiversitylibrary.org/bibliography/669#/summary)
+[^p4]:[Linné, Carl von, and Lars Salvius. Species Plantarum. Holmiae: Impensis Laurentii Salvii, 1753.](https://www.biodiversitylibrary.org/bibliography/669#/summary)
 
-[^5]:McDonald, Donald. Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility, Charles Scribner’s Sons, 1895.
+[^p5]:McDonald, Donald. Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility, Charles Scribner’s Sons, 1895.
 
-[^6]:Sweet, Robert, and James Ridgway. Geraniaceae. London: Printed for James Ridgway, Piccadilly, 1820.
+[^p6]:Sweet, Robert, and James Ridgway. Geraniaceae. London: Printed for James Ridgway, Piccadilly, 1820.
 
-
+## References(secondary)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE1NDYzNDg0MzldfQ==
