@@ -64,15 +64,15 @@ However, what goes up must of course come down – and, by the end of the 19th c
 
 [^1]:[Dillenius, Johann Jakob, William Sherard, Sherard, James, and Athenaeum. Library, Former Owner. Hortus Elthamensis. Londini: Sumptibus Auctoris, 1732.](https://bibdigital.rjb.csic.es/records/item/10700-redirection)
 
-Hibberd, Shirley. The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers, Groombridge & Sons, 1875.
+[^2]:Hibberd, Shirley. The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers, Groombridge & Sons, 1875.
 
-Kirkland, Caroline M. The Book of Flowers, Saunders and Otley, 18--.
+[^3]:Kirkland, Caroline M. The Book of Flowers, Saunders and Otley, 18--.
 
-[Linné, Carl von, and Lars Salvius. Species Plantarum. Holmiae: Impensis Laurentii Salvii, 1753.](https://www.biodiversitylibrary.org/bibliography/669#/summary)
+[^4]:[Linné, Carl von, and Lars Salvius. Species Plantarum. Holmiae: Impensis Laurentii Salvii, 1753.](https://www.biodiversitylibrary.org/bibliography/669#/summary)
 
-McDonald, Donald. Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility, Charles Scribner’s Sons, 1895.
+[^5]:McDonald, Donald. Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility, Charles Scribner’s Sons, 1895.
 
-Sweet, Robert, and James Ridgway. Geraniaceae. London: Printed for James Ridgway, Piccadilly, 1820.
+[^6]:Sweet, Robert, and James Ridgway. Geraniaceae. London: Printed for James Ridgway, Piccadilly, 1820.
 
 
 
