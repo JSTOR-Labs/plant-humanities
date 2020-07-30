@@ -23,7 +23,7 @@ Code to add a location with a custom marker on a map for every paragraph in this
 
 ## Whose vine is it anyway?
 <param ve-map time-selector="4000 BCE:0" basemap="Esri_WorldPhysical" center="25,50" zoom="3.5" hide-labels>
-<param ve-map-layer geojson active url="https://raw.githubusercontent.com/may-wang/test/master/watermelondistribution.json" title="Cities">
+<param ve-map-layer geojson active url="https://github.com/may-wang/test/blob/master/watermelondistribution.json?short_path=ba9bf93" title="Cities">
 
 Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the Citrullus lanatus species, but the Citrullus genus includes at least six other species of watermelons, including the citron (C. amarus) and egusi (C. mucosospermus) watermelons, which at one time either were called or were classified as subspecies of C. lanatus.  Thus the taxonomy of the sweet dessert watermelon is of minimal use for tracing its origins until further genetic analysis is confirmed; instead, literary references and depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
 
