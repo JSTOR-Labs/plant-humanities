@@ -51,7 +51,6 @@ Code to add a location with a custom marker on a map for every paragraph in this
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. .
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-image
        <param ve-image 
 		title="Still life" url="https://upload.wikimedia.org/wikipedia/commons/c/c7/Giovanni_Battista_Ruoppolo2.jpg"
         fill="contain"
@@ -64,8 +63,8 @@ Below is the code for adding a map. The center of the map can be set with longit
 Below is the code for adding a map with premade Geojson overlays. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. 
 Below is the code for adding a map with premade Geojson overlays. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map prefer-geojson center="Q15" zoom="5" basemap="Esri_WorldPhysical">
-<param title="EthiopiaItaly" eid="Q11538">
-<param title="SudIran" eid="Q1049794">
+<param title="Ethiopia" eid="Q11538">
+<param title="Sudan" eid="Q1049794">
 
 Below is the code for adding an IIIF annotated image created through Storiiies.
 Below is the code for adding an IIIF annotated image created through Storiiies. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -102,10 +101,10 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 A new paragraph where we can add more information, especially the cultural part of the watermelon and how it is related with racism and with cholera. Also the japanese square watermelons and the beauty. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODgxMDI2OCwtNDkxMzM2MDI5LC0yNj
-I0MTEwNDEsLTIwNzMwNzQ5NDMsMTA0MzEyNjMxMyw5MTE5NjQ2
-NDksMTYyMjg3Nzg2NSwxODUxNzMzNjU1LDE3OTM3OTUzOTcsMT
-gzMjg4MjIwMCwxNzkzNzk1Mzk3LC0xMDc2MzU5NTk5LC0yMTM2
-OTA3MiwtMTA3NjM1OTU5OSwtMjEzNjkwNzIsLTEwNzYzNTk1OT
-ldfQ==
+eyJoaXN0b3J5IjpbLTIwNTQ0MDgxMDYsLTQ5MTMzNjAyOSwtMj
+YyNDExMDQxLC0yMDczMDc0OTQzLDEwNDMxMjYzMTMsOTExOTY0
+NjQ5LDE2MjI4Nzc4NjUsMTg1MTczMzY1NSwxNzkzNzk1Mzk3LD
+E4MzI4ODIyMDAsMTc5Mzc5NTM5NywtMTA3NjM1OTU5OSwtMjEz
+NjkwNzIsLTEwNzYzNTk1OTksLTIxMzY5MDcyLC0xMDc2MzU5NT
+k5XX0=
 -->
