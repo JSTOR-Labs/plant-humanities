@@ -38,7 +38,7 @@ In seventeenth-century Leiden, the _Agave americana_ certainly earned its nickna
 ### A Miracle Plant
 For centuries agave species provided spiritual and physical sustenance to the inhabitants of the semiarid lands of North and Central America. Given its numerous cultural uses, it is not surprising that the Nahuatl term for agaves, “metl,” implied that they were a miracle plant.[^ref3] In his chronicle of the indigenous peoples of New Spain, the Franciscan missionary, Toribio de Benavente Motolinia, described the many uses of agave, or “maguey” as it was locally known. He observed that the fibers from the leaves were used for sewing as well as making cords, robes, cables, clothing, and footwear. The plant’s sharp spines were used as punches, nails, or tacks. The leaves were dried and used for general building materials, fires, and paper. Agaves are also edible. Montolinia remarked that both the fibrous leaves and sap of the plant were palatable and nutritious. He also noted that honey, vinegar, sugar, and medicinal balsams were made from the abundant sap. Finally, and perhaps most significantly, the fermented sap of the maguey was a beverage that, according to Montolinia, was “wholesome and very nutritious” when consumed in moderation.[^ref4]
 <var data-primary="image"></var>
-<var data-image id="Florentine Codex image" title="Florentine Codex, Book 11: treating a head wound" data-url="https://www.mexicolore.co.uk/images-ans/ans_36_01_2.jpg" data-region=""></var>
+<var data-image id="Florentine Codex image" title="Florentine Codex, Book 11: treating a head wound" data-url="https://www.mexicolore.co.uk/images-ans/ans_36_01_2.jpg">
 
 ### The Sacred Drink of the Maya and Nahua Peoples
 
@@ -116,6 +116,6 @@ Beyond producing one of North America’s favorite spirits, agave plants, just a
 
 [^ref15]: David, Sarah C., Frank G. Dohleman, and Stephen P. Long. (2010). The global potential for Agave as a biofuel feedstock. GCB Bioenergy 3, 68–78, doi:10.1111/j.17571707.2010.01077.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4NTcwNDM4LC0xNjQxNDQzNTk2LC0xOD
-Y0MTMwODEsMTkxMTgyOTA2M119
+eyJoaXN0b3J5IjpbLTE2NDE0NDM1OTYsNTk4NTcwNDM4LC0xNj
+QxNDQzNTk2LC0xODY0MTMwODEsMTkxMTgyOTA2M119
 -->
