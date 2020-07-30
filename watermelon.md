@@ -1,7 +1,7 @@
 <param ve-config
-       title="Watermelon: 'What the angels eat'"
- banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
-       layout="vtl"
+       title="Watermelon 'What the angels eat'"
+ banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg""
+ layout="vtl"
        num-maps="xz"
        num-specimens="x"
        num-images="x"
@@ -24,7 +24,7 @@ Code to add a location with a custom marker on a map for every paragraph in this
 ## Whose vine is it anyway?
 
 Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the Citrullus lanatus species, but the Citrullus genus includes at least six other species of watermelons, including the citron (C. amarus) and egusi (C. mucosospermus) watermelons, which at one time either were called or were classified as subspecies of C. lanatus.  Thus the taxonomy of the sweet dessert watermelon is of minimal use for tracing its origins until further genetic analysis is confirmed; instead, literary references and depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
-<param ve-map time-selector="4000 BCE:0" basemap="Esri_WorldPhysical" center="25,50" zoom="3.5" hide-labels>
+<param ve-map time-selector="4000 BCE:0" basemap="Esri_WorldPhysical" center="25,5" zoom=".5" hide-labels>
 <param ve-map-layer geojson active url="watermelondistribution.json" title="Cities">
 
 
@@ -32,18 +32,30 @@ The species in the genus Citrullus characteristically grow on vines with pinnati
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param ve-map time-selector="7300 BCE:0" basemap="Esri_WorldPhysical" center="25,50" zoom="3.5" hide-labels>
 <param ve-map-layer geojson active url="geojson/cities.json" date-field="inception" title="Cities">
+ve-image
+title="Timeline of Watermelon History"
+url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4512189/figure/mcv077-F3/?report=objectonly">
 
-<param title="Africa" eid="Q15" fill="#FF0000" marker-symbol="landmark">
+<param title="Beatrix Farrand" eid="Q437714">
+<param title="cherry blossom" eid="Q871991">
+
+## Origins, Distribution, and Use
+<param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
+
+### Subtitle
+Code to add a location with a custom marker on a map for every paragraph in this section.
+<param title="Africa
+<param title="frica" eid="Q5" fill="#FF0000" marker-symbol="landmark">
 <param ve-image
        title="Watermelon _Citrullus lanatus_"
  url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg"
-       fit="cover"
+       fit="covertill lie" url="https://upload.wikimedia.org/wikipedia/commons//7/anni_ai_oolo."
        attribution="Wikimedia Commons">
 <param ve-image
        title="Courge pastèque"
  url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%28Pl._305%29_%287795661744%29.jpg"
        fit="contain"
-       attribution="Wikimedia Commons">
+      attribution="Wikimedia Commons">
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. .
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -55,7 +67,7 @@ Paragraph text-Paste the text for the first paragraph in your narrative here. Be
 
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-map center="Q15" zoom="5" basemap="Esri_WorldPhysical">
+<param ve-map center="Q15" zoom=5" basemap="Esri_WorldPhysical">
 
 Below is the code for adding a map with premade Geojson overlays. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. 
 Below is the code for adding a map with premade Geojson overlays. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -98,9 +110,9 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 A new paragraph where we can add more information, especially the cultural part of the watermelon and how it is related with racism and with cholera. Also the japanese square watermelons and the beauty. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjQxMTA0MSwtMjA3MzA3NDk0MywxMD
-QzMTI2MzEzLDkxMTk2NDY0OSwxNjIyODc3ODY1LDE4NTE3MzM2
-NTUsMTc5Mzc5NTM5NywxODMyODgyMjAwLDE3OTM3OTUzOTcsLT
-EwNzYzNTk1OTksLTIxMzY5MDcyLC0xMDc2MzU5NTk5LC0yMTM2
-OTA3MiwtMTA3NjM1OTU5OV19
+eyJoaXN0b3J5IjpbLTQ5MTMzNjAyOSwtMjYyNDExMDQxLC0yMD
+czMDc0OTQzLDEwNDMxMjYzMTMsOTExOTY0NjQ5LDE2MjI4Nzc4
+NjUsMTg1MTczMzY1NSwxNzkzNzk1Mzk3LDE4MzI4ODIyMDAsMT
+c5Mzc5NTM5NywtMTA3NjM1OTU5OSwtMjEzNjkwNzIsLTEwNzYz
+NTk1OTksLTIxMzY5MDcyLC0xMDc2MzU5NTk5XX0=
 -->
