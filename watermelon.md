@@ -17,16 +17,13 @@
 # Introduction
 
 Code to add a location with a custom marker on a map for every paragraph in this section. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-<param ve-image
-title="Timeline of Watermelon History"
-url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4512189/figure/mcv077-F3/?report=objectonly">
 
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991">
 
 ## Whose vine is it anyway?
-<param ve-map time-selector="4000 BCE:2000" basemap="Esri_WorldPhysical" center="25,50" zoom="2" hide-labels>
-<param ve-map-layer geojson active url="https://github.com/may-wang/test/blob/master/watermelon-distribution.json" title="Distribution">
+<param ve-map time-selector="7300 BCE:0" basemap="Esri_WorldPhysical" center="25,50" zoom="3.5" hide-labels>
+<param ve-map-layer geojson active url="https://github.com/JSTOR-Labs/visual-essays/blob/master/docs/geojson/cities.json" date-field="inception" title="Cities">
 
 Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the Citrullus lanatus species, but the Citrullus genus includes at least six other species of watermelons, including the citron (C. amarus) and egusi (C. mucosospermus) watermelons, which at one time either were called or were classified as subspecies of C. lanatus.  Thus the taxonomy of the sweet dessert watermelon is of minimal use for tracing its origins until further genetic analysis is confirmed; instead, literary references and depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
 
