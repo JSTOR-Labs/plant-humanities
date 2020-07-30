@@ -2,7 +2,7 @@
        title="Watermelon 'What the angels eat'"
  banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg""
  layout="vtl"
-       num-maps="xz"
+       num-maps="x"
        num-specimens="x"
        num-images="x"
        num-primary-sources="x"
@@ -100,10 +100,10 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 A new paragraph where we can add more information, especially the cultural part of the watermelon and how it is related with racism and with cholera. Also the japanese square watermelons and the beauty. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTQwNDQ4MSwtNDkxMzM2MDI5LC0yNj
-I0MTEwNDEsLTIwNzMwNzQ5NDMsMTA0MzEyNjMxMyw5MTE5NjQ2
-NDksMTYyMjg3Nzg2NSwxODUxNzMzNjU1LDE3OTM3OTUzOTcsMT
-gzMjg4MjIwMCwxNzkzNzk1Mzk3LC0xMDc2MzU5NTk5LC0yMTM2
-OTA3MiwtMTA3NjM1OTU5OSwtMjEzNjkwNzIsLTEwNzYzNTk1OT
-ldfQ==
+eyJoaXN0b3J5IjpbLTE1MjI2MTk0MjMsMTc5NTQwNDQ4MSwtND
+kxMzM2MDI5LC0yNjI0MTEwNDEsLTIwNzMwNzQ5NDMsMTA0MzEy
+NjMxMyw5MTE5NjQ2NDksMTYyMjg3Nzg2NSwxODUxNzMzNjU1LD
+E3OTM3OTUzOTcsMTgzMjg4MjIwMCwxNzkzNzk1Mzk3LC0xMDc2
+MzU5NTk5LC0yMTM2OTA3MiwtMTA3NjM1OTU5OSwtMjEzNjkwNz
+IsLTEwNzYzNTk1OTldfQ==
 -->
