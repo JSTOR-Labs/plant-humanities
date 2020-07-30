@@ -1,13 +1,13 @@
 <param ve-config
        title="A geranium by any other name would smell as sweet…"
        banner="Title of Your Narrative"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg"
+       banner=""
        layout="vtl"
        num-maps="x"
        num-specimens="x"
        num-images="x"
        num-primary-sources="x"
-       author="Daisy Reid, Verónica Matallana Chaves, Yao Jiang Names of Authors">
+       author="Daisy Reid, Verónica Matallana Chaves, Yao Jiang">
 
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991">
@@ -83,9 +83,4 @@ However, what goes up must of course come down – and, by the end of the 19th c
 
 [^s3]:Pelargoniums: An Herb Society of America Guide. The Herb Society of America, 2006. 
 
-[^s4]:Wilkinson, Anne, and Chris Beardshaw. The Passion for Pelargoniums: How They Found Their Place in the Garden. Stroud: The History Press, 2007. aliases="DO">
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzA4OTMwNiwtMTU0NjM0ODQzOV19
--->
+[^s4]:Wilkinson, Anne, and Chris Beardshaw. The Passion for Pelargoniums: How They Found Their Place in the Garden. Stroud: The History Press, 2007.>
