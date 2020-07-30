@@ -37,12 +37,11 @@ Code to add a location with a custom marker on a map for every paragraph in this
 
 ### Subtitle
 Code to add a location with a custom marker on a map for every paragraph in this section.
-<param title="Africa
-<param title="frica" eid="Q5" fill="#FF0000" marker-symbol="landmark">
+<param title="Africa" eid="Q5" fill="#FF0000" marker-symbol="landmark">
 <param ve-image
        title="Watermelon _Citrullus lanatus_"
  url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg"
-       fit="covertill lie" url="https://upload.wikimedia.org/wikipedia/commons//7/anni_ai_oolo."
+       fit="cover" url="https://upload.wikimedia.org/wikipedia/commons//7/anni_ai_oolo."
        attribution="Wikimedia Commons">
 <param ve-image
        title="Courge pastèque"
@@ -103,10 +102,10 @@ Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectet
 A new paragraph where we can add more information, especially the cultural part of the watermelon and how it is related with racism and with cholera. Also the japanese square watermelons and the beauty. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg1OTI2MDIsLTQ5MTMzNjAyOSwtMj
-YyNDExMDQxLC0yMDczMDc0OTQzLDEwNDMxMjYzMTMsOTExOTY0
-NjQ5LDE2MjI4Nzc4NjUsMTg1MTczMzY1NSwxNzkzNzk1Mzk3LD
-E4MzI4ODIyMDAsMTc5Mzc5NTM5NywtMTA3NjM1OTU5OSwtMjEz
-NjkwNzIsLTEwNzYzNTk1OTksLTIxMzY5MDcyLC0xMDc2MzU5NT
-k5XX0=
+eyJoaXN0b3J5IjpbMTc3ODgxMDI2OCwtNDkxMzM2MDI5LC0yNj
+I0MTEwNDEsLTIwNzMwNzQ5NDMsMTA0MzEyNjMxMyw5MTE5NjQ2
+NDksMTYyMjg3Nzg2NSwxODUxNzMzNjU1LDE3OTM3OTUzOTcsMT
+gzMjg4MjIwMCwxNzkzNzk1Mzk3LC0xMDc2MzU5NTk5LC0yMTM2
+OTA3MiwtMTA3NjM1OTU5OSwtMjEzNjkwNzIsLTEwNzYzNTk1OT
+ldfQ==
 -->
