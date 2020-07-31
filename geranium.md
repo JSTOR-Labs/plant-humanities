@@ -22,7 +22,7 @@ The pelargonium is a perennial bush, with a strong and aromatic smell. There are
 In order to differentiate between the genera of Pelargonium and Geranium, it is necessary to focus on the reproductive system of the plant: the flower. In the Pelargonium, the arrangement of the flower parts is bilateral and not radial (as it is the case in the Geranium), which is to say that it has only one axis of symmetry. While the Geranium has five nectaries at the base of the petals, the Pelargonium has only one embedded in the receptacle. A final difference between the genera is the number of fertile stamens and their grouping. The Pelargonium has between one and seven stamens, attached at the base; Geranium has either five or ten free stamens. 
 
 ### A brief history of nomenclature confusion
-Before 1787, Geranium was used as the generic name for both pelargoniums and geraniums. Even though Dillenius suggested that the species with unequal and irregular flowers might be called Pelargonia vocare as early as 1732,[^p1] his suggestion was not widely accepted. In his 1753 Species Plantarum, Linnaeus retained the generic name Geranium for 20 pelargoniums known at that time, continuing the ignorance of pelargoniums as a new genus. 
+Before 1787, Geranium was used as the generic name for both pelargoniums and geraniums. Even though Dillenius suggested that the species with unequal and irregular flowers might be called Pelargonia vocare as early as 1732,[^he] his suggestion was not widely accepted. In his 1753 Species Plantarum, Linnaeus retained the generic name Geranium for 20 pelargoniums known at that time, continuing the ignorance of pelargoniums as a new genus. 
 
 It was not until Charles-Louis L’Héritier’s Geraniologia (1787-88) that pelargoniums were clearly distinguished as an independent genus. This was also the first time that an illustration of the Pelargonium graveolens was introduced to the public. However, contemporary scholars still paid little attention to this clarification, and kept using Linnaean Geranium nomenclature for pelargoniums – as can be seen in Aloysio Cabrini’s Boccone Museum rariorum plantarum: nominibus linnaei specificis (1791), currently housed in Dumbarton Oaks’ Rare Book Collection.
 <param title="Pelargonium graveolens" eid="Q164306">
@@ -65,9 +65,9 @@ However, what goes up must of course come down – and, by the end of the 19th c
 
 ## References
 
-[^p1]:[Dillenius, Johann Jakob, William Sherard, Sherard, James, and Athenaeum. Library, Former Owner. Hortus Elthamensis. Londini: Sumptibus Auctoris, 1732.](https://bibdigital.rjb.csic.es/records/item/10700-redirection)
+[^he]:[Dillenius, Johann Jakob, William Sherard, Sherard, James, and Athenaeum. Library, Former Owner. Hortus Elthamensis. Londini: Sumptibus Auctoris, 1732.](https://bibdigital.rjb.csic.es/records/item/10700-redirection)
 
-[^p2]:Hibberd, Shirley. The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers, Groombridge & Sons, 1875.
+[^tafg]:[Hibberd, Shirley. The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers, Groombridge & Sons, 1875.](https://www.biodiversitylibrary.org/page/55342041)
 
 [^p3]:Kirkland, Caroline M. The Book of Flowers, Saunders and Otley, 18--.
 
