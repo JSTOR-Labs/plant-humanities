@@ -23,7 +23,7 @@ In order to differentiate between the genera of Pelargonium and Geranium, it is 
 
 ### A brief history of nomenclature confusion
 Before 1787, _Geranium_ was used as the generic name for both pelargoniums and geraniums. Even though Dillenius suggested that the species with unequal and irregular flowers might be called Pelargonia vocare as early as 1732,[^he] his suggestion was not widely accepted. In his 1753 Species Plantarum, Linnaeus retained the generic name Geranium for 20 pelargoniums known at that time, continuing the ignorance of pelargoniums as a new genus. 
-<param ve-storiiies id="a01fk">
+<param ve-storiiies id="9b1fm">
 
 It was not until Charles-Louis L’Héritier’s Geraniologia (1787-88) that pelargoniums were clearly distinguished as an independent genus. This was also the first time that an illustration of the Pelargonium graveolens was introduced to the public. However, contemporary scholars still paid little attention to this clarification, and kept using Linnaean Geranium nomenclature for pelargoniums – as can be seen in Aloysio Cabrini’s Boccone Museum rariorum plantarum: nominibus linnaei specificis (1791), currently housed in Dumbarton Oaks’ Rare Book Collection.
 <param title="Pelargonium graveolens" eid="Q164306">
