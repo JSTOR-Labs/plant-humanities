@@ -13,7 +13,7 @@
 <param title="cherry blossom" eid="Q871991">
 <param title="Dumbarton Oaks" eid="Q1264942">
 
-As a *cultural commodity*, few flowers have as broad a reach as the hardy geranium. From its arresting ornamental displays in gardens, balconies, and domestic interiors across the globe, to its extraction for use in essential oils, perfumes, food flavourings, and medicines, the geranium’s bright blooms and sweet scent are a familiar cultural fixture for many of us. However, most people are not aware that when we talk about geraniums, more often than not, we are using a misnomer. In fact, we should be using the name pelargonium. Since both the geranium and the pelargonium are flowering plants native to South Africa, and share many qualities of herbaceous perennials, pelargoniums have been erroneously grouped with geraniums as one genus for centuries.
+As a **cultural commodity**, few flowers have as broad a reach as the hardy geranium. From its arresting ornamental displays in gardens, balconies, and domestic interiors across the globe, to its extraction for use in essential oils, perfumes, food flavourings, and medicines, the geranium’s bright blooms and sweet scent are a familiar cultural fixture for many of us. However, most people are not aware that when we talk about geraniums, more often than not, we are using a misnomer. In fact, we should be using the name pelargonium. Since both the geranium and the pelargonium are flowering plants native to South Africa, and share many qualities of herbaceous perennials, pelargoniums have been erroneously grouped with geraniums as one genus for centuries.
 
 ## Geraniums or pelargoniums?
 ### Morphological differentiations
