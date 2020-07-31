@@ -45,9 +45,6 @@ In 1799, as he stopped in Tenerife before his voyage to the Americas that would 
 ## Smothering the Dragon’s Flame: D. draco and the Anthropocene
 
 Humboldt was not the only naturalist of his time attracted to the remarkable centenary dragon tree, as some three years before, in 1796, French naturalist André Pierre Ledru also found himself in M. Franchy’s garden, admiring the very same tree. Even if its scarlet-colored resin was a critical aspect of the Guanche pharmacopoeia and a valuable piece of naturalia that spurred the Canarian economy, the population of trees from which it was sourced was already in decline by the turn of the nineteenth century due to unsustainable cultivation techniques. 
-<param ve-map prefer-geojson center="Q17" zoom="5" basemap="Esri_WorldPhysical">
-<param title="Italy" eid="Q38">
-<param title="Iran" eid="Q794">
 
 As Ledru remarked in his 1810 Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco, which drew on observations he made during his trip to the Isles of Fortune some fourteen years earlier: “In days gone by, the resin that one extracts from the dragon tree was an important object of commerce for Teneriffe; but since the locals have neglected to replace the old trees that were worn out by too-frequent tapping (of the resin) with young plantations, this source will soon be exhausted. There exist perhaps less than fifty dragon trees left on the island.”  This gradual, yet persistent, degradation of the D. draco population was not solely due to Guanche overcultivation, either, as Spanish colonizers inflicted profound ecological changes upon the islands when they razed and destroyed large swaths of forests during their conquest and settlement of the Canaries three centuries earlier.  
 
