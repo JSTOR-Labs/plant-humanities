@@ -65,22 +65,22 @@ However, what goes up must of course come down – and, by the end of the 19th c
 
 ## References
 
-[^he]:[Dillenius, Johann Jakob, William Sherard, Sherard, James, and Athenaeum. Library, Former Owner. Hortus Elthamensis. Londini: Sumptibus Auctoris, 1732.](https://bibdigital.rjb.csic.es/records/item/10700-redirection)
+[^he]:[Dillenius, Johann Jakob, William Sherard, Sherard, James, and Athenaeum. Library, Former Owner. _Hortus Elthamensis_. Londini: Sumptibus Auctoris, 1732.](https://bibdigital.rjb.csic.es/records/item/10700-redirection)
 
-[^tafg]:[Hibberd, Shirley. The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers, Groombridge & Sons, 1875.](https://www.biodiversitylibrary.org/page/55342041)
+[^tafg]:[Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875.](https://www.biodiversitylibrary.org/page/55342041)
 
-[^tbof]:Kirkland, Caroline M. The Book of Flowers, Saunders and Otley, 18--.
+[^tbof]:Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--.
 
-[^sp]:[Linné, Carl von, and Lars Salvius. Species Plantarum. Holmiae: Impensis Laurentii Salvii, 1753.](https://www.biodiversitylibrary.org/bibliography/669#/summary)
+[^sp]:[Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.](https://www.biodiversitylibrary.org/bibliography/669#/summary)
 
-[^sslafl]:McDonald, Donald. Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility, Charles Scribner’s Sons, 1895.
+[^sslafl]:McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
 
-[^g]:[Sweet, Robert, and James Ridgway. Geraniaceae. London: Printed for James Ridgway, Piccadilly, 1820.](https://www.biodiversitylibrary.org/page/47462004)
+[^g]:[Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.](https://www.biodiversitylibrary.org/page/47462004)
 
-[^datg]:Hartley, Jenny. “Dickens and the Geranium.” The Dickensian, vol. 114, no. 504, 2018, pp. 5-14.
+[^datg]:Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
 
-[^gap]:Lis-Balchin, Maria. Geranium and Pelargonium: History of Nomenclature, Usage and Cultivation. CRC Press, 2002.
+[^gap]:Lis-Balchin, Maria. _Geranium and Pelargonium: History of Nomenclature, Usage and Cultivation_. CRC Press, 2002.
 
-[^p]:[Pelargoniums: An Herb Society of America Guide. The Herb Society of America, 2006.](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
+[^p]:[_Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006.](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 [^tpfp]:Wilkinson, Anne, and Chris Beardshaw. The Passion for Pelargoniums: How They Found Their Place in the Garden. Stroud: The History Press, 2007.
