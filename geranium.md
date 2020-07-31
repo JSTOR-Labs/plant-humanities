@@ -83,4 +83,4 @@ However, what goes up must of course come down – and, by the end of the 19th c
 
 [^p]:[_Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006.](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
-[^tpfp]:Wilkinson, Anne, and Chris Beardshaw. The Passion for Pelargoniums: How They Found Their Place in the Garden. Stroud: The History Press, 2007.
+[^tpfp]:Wilkinson, Anne, and Chris Beardshaw. _The Passion for Pelargoniums: How They Found Their Place in the Garden_. Stroud: The History Press, 2007.
