@@ -1,12 +1,12 @@
 <param ve-config
-       title="Title of Your Narrative"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg"
+       title="Cooking with Cassava"
+       banner="Crosby.jpg"
        layout="vtl"
        num-maps="x"
        num-specimens="x"
        num-images="x"
        num-primary-sources="x"
-       author="Names of Authors">
+       author="Christina Emery, Rachel Hirsch, Melinda Susanto">
 
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991">
@@ -18,9 +18,9 @@ Code to add a location with a custom marker on a map for every paragraph in this
 
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-image
-title="Tidal basin cherry blossom" url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tidal_basin_cherry_blossom_closeup.JPG"
-       fit="cover"
-       attribution="Wikimedia Commons">
+title="Cassava Garden" url="Crosby.jpg"
+       fit="contain"
+       attribution="Courtesy of the artist">
 
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.The island of Sulawesi is where cassava was successfully planted.
