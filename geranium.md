@@ -68,13 +68,13 @@ For example, this nomenclature confusion has even permeated into Chinese literat
 
 ## References
 
+[^sp]:[Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.](https://www.biodiversitylibrary.org/bibliography/669#/summary)
+
 [^he]:[Dillenius, Johann Jakob, William Sherard, Sherard, James, and Athenaeum. Library, Former Owner. _Hortus Elthamensis_. Londini: Sumptibus Auctoris, 1732.](https://bibdigital.rjb.csic.es/records/item/10700-redirection)
 
 [^tafg]:[Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875.](https://www.biodiversitylibrary.org/page/55342041)
 
 [^tbof]:Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--.
-
-[^sp]:[Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.](https://www.biodiversitylibrary.org/bibliography/669#/summary)
 
 [^sslafl]:McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
 
