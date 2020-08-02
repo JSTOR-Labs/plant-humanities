@@ -61,7 +61,7 @@ As a result, the *Pelargonium* soon became a symbol for the working class’s un
 title="The Music Lesson painting by William Henry Midwood, which depicts a pelargonium in the window." url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/The_Music_Lesson.jpg" fit="cover" attribution="Amber Tree's Album, Flickr">  
 
 To add one final string to its meaning-making bow, the Pelargonium also featured heavily in the so-called Victorian language of flowers. This concealed language allowed members of upper-class society to use specific flowers as a sort of code to pass on secret, often romantic, messages that they were forbidden from speaking aloud. Each scent was purported to carry a different meaning, and giving a certain cultivar to a loved one (or indeed an enemy) would clandestinely pass on that specific sentiment to the recipient.
-<param ve-image
+<param ve-image static
 title="Victorian language of flowers - Geranium page (Pelargonium page not found)" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Victorian_language_of_flowers_.jpg" fit="contain" attribution="Source from Biodiversity Heritage Library, editted by Yao Jiang.">
 
 ## Geraniums or Pelargoniums?
