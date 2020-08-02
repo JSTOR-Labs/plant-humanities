@@ -42,6 +42,7 @@ Pelargoniums first arrived in Europe as early as the 16th century, brought in by
 title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" attribution="Biodiversity Heritage Library">
 
 These Pelargoniums were hardy evergreen plants, so they would show off their blooms all season round, even in slightly chillier climates.  They were also easy to propagate and affordable to buy. However, perhaps most importantly of all, they could be hybridized into a seemingly infinite number of beautifully colourful cultivars. The Victorians were just enchanted by the range of varieties that were available, and before too long, vendors were falling over one another to market the newest, most magnificent, and sweetest-smelling specimens. Compounded by the arrival of mass production of pots and planters, as well as the Pelargonium’s year-round accessibility, the demand for potted Pelargoniums grew exponentially. The situation became so frenzied that some even began to compare it to the infamous “tulipomania” that transpired in 17th-century Holland.
+<param title="tulip mania" eid="Q219217" aliases="tulipomania">
 <param ve-image
 title="The Victorian flower market" url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/THE_FLOWER_MARKET.jpg" fit="cover" attribution="Garden Musuem Collection">
 
