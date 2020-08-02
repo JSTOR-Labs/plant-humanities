@@ -24,6 +24,9 @@ However, you might be surprised to learn that the red flower with which Dickens 
 title="Illustrations of Pelargonium odoratissimum and Pelargonium inquinans" url="https://www.biodiversitylibrary.org/pageimage/53144785" region="pct:55,40,25,25" attribution="Biodiversity Heritage Library">
 
 So how can we tell the history of the forgotten Pelargonium, a plant that is a familiar cultural fixture for so many of us - but one that so few people know by its true identity? Perhaps it is time to put the *Geranium* (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the *Pelargonium*, from its impact in the industrial, cultural, and social sphere, to the particular morphological make-up that caused all this nomenclature trouble in the first place.  
+<param ve-image
+title="Les etu A. Chiris s'installent dans le Monde entier" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Les_etu.jpg" fit="cover" attribution="David Rumsey Historical Map Collection">
+
 
 ## Global industrial production of geranium oils
 The most common known geranium oil is actually from one species of *Pelargoniums*, *P. graveolens* (also known as Geranium Rosat). However, when the essential oil was distilled and introduced to the French colonies in Africa, it was actually a few years earlier than the first distinction of pelargoniums as an independent genus by L’Héritier in 1787. Therefore, the essential oil was inevitably misnamed as geranium oil, and this misnomer is still used nowadays.
