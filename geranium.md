@@ -80,7 +80,7 @@ Besides the Algerian oil industry and the Victorian floriculture mentioned here,
 ## References
 [^lpapdcf]:Élie Maunier. *Les Plantes à Parfums des Colonies Françaises*. Marseille, Institut colonial, 1932.
 
-[^sp]:[Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.](https://www.biodiversitylibrary.org/bibliography/669#/summary)
+[^sp]:[Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.](https://www.biodiversitylibrary.org/page/358697)
 
 [^he]:[Dillenius, Johann Jakob, William Sherard, Sherard, James, and Athenaeum. Library, Former Owner. _Hortus Elthamensis_. Londini: Sumptibus Auctoris, 1732.](https://bibdigital.rjb.csic.es/records/item/10700-redirection)
 
