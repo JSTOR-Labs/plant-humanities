@@ -46,7 +46,7 @@ These Pelargoniums were hardy evergreen plants, so they would show off their blo
 <param ve-image
 title="The Victorian flower market" url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/THE_FLOWER_MARKET.jpg" fit="cover" attribution="Garden Musuem Collection">
 
-By the end of the Industrial Revolution, the *Pelargonium* was firmly instated as a staple in British domestic interiors, gardens, and patios; writing in 1895, Donald McDonald remarks that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums” (93). In his 1875 book *The amateur's flower garden*, Shirley Hibberd designed several layouts for the creation of a harmonious “geranium garden” (of course, really a Pelargonium garden) based on the plant’s striking colour variations. In the layout of a panel garden, Hibbers suggests two potential summer schemes: one for a red-harmony garden, and one in a blue-harmony style. 
+By the end of the Industrial Revolution, the *Pelargonium* was firmly instated as a staple in British domestic interiors, gardens, and patios; writing in 1895, Donald McDonald remarks that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums” (93). In his 1875 book *The amateur's flower garden*, Shirley Hibberd designed several layouts for the creation of a harmonious “geranium garden” (of course, really a Pelargonium garden) based on the plant’s striking colour variations. In the layout of a panel garden, Hibbers suggests two potential summer schemes: one for a red-harmony garden, and one in a blue-harmony style.[^tafg] 
 <param ve-image
 title="Shirley Hubberd’s Victorian garden plans, including bedding pelargoniums" url="https://www.biodiversitylibrary.org/pageimage/55342041" fit="cover" attribution="Biodiversity Heritage Library">
 
@@ -88,6 +88,8 @@ Besides the Algerian oil industry and the Victorian floriculture mentioned here,
 
 [^pahsoag]:[_Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006.](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
+[^tafg]:[Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875.](https://www.biodiversitylibrary.org/page/55342041)
+
 [^sp]:[Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.](https://www.biodiversitylibrary.org/page/358697)
 
 [^bmrp]:[Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.](https://iiif.lib.harvard.edu/manifests/view/drs:49431646$348i)
@@ -95,7 +97,6 @@ Besides the Algerian oil industry and the Victorian floriculture mentioned here,
 [^g]:[Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.](https://www.biodiversitylibrary.org/page/47462004)
 
 
-[^tafg]:[Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875.](https://www.biodiversitylibrary.org/page/55342041)
 
 [^tbof]:Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--.
 
