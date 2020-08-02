@@ -82,7 +82,7 @@ Besides the Algerian oil industry and the Victorian floriculture mentioned here,
 
 [^sp]:[Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.](https://www.biodiversitylibrary.org/page/358697)
 
-[^he]:[Dillenius, Johann Jakob, William Sherard, Sherard, James, and Athenaeum. Library, Former Owner. _Hortus Elthamensis_. Londini: Sumptibus Auctoris, 1732.](https://bibdigital.rjb.csic.es/records/item/10700-redirection)
+[^bmrp]:[Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.](https://iiif.lib.harvard.edu/manifests/view/drs:49431646$348i)
 
 [^tafg]:[Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875.](https://www.biodiversitylibrary.org/page/55342041)
 
