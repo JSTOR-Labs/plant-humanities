@@ -68,7 +68,7 @@ The Pelargonium is a perennial bush, with a strong and aromatic smell. There are
 In order to differentiate between the genera of Pelargonium and Geranium, it is necessary to focus on the reproductive system of the plant: the flower. In the Pelargonium, the arrangement of the flower parts is bilateral and not radial (as it is the case in the Geranium), which is to say that it has only one axis of symmetry. While the Geranium has five nectaries at the base of the petals, the Pelargonium has only one embedded in the receptacle. A final difference is the number of fertile stamens and their groupings. The Pelargonium has between one and seven stamens, attached at the base; the Geranium,  meanwhile, has either five or ten free stamens.
 
 ### A brief history of nomenclature confusion
-Historically, the misnomer started more than 150 years before Linnaean taxonomy, when *P. triste* was brought and cultivated at the Leiden Botanical Garden(the herbaria on the right is identified as *Pelargonium triste (L.)* according to the manuscript on the bottom right). While Carl Linnaeus, in his 1753 *Species Plantarum*, retained the generic name *Geranium* for 20 pelargoniums known at that time (such as the *Pelargonium zonale*), continuing the ignorance of pelargoniums as a new genus.[^sp] Since Linnaean taxonomy was treated almost like a bible in the academic field at that time, even though Charles-Louis L’Héritier subsequently distinguished *Pelargoniums* as an independent genus, the Linnaean *Geranium* nomenclature for pelargoniums continued - as can be seen in Aloysio Cabrini’s *Boccone Museum rariorum plantarum: nominibus linnaei specificis* (1791), currently housed in Dumbarton Oaks’ Rare Book Collection.[^bmrp] Eventually, by creating ten new genera in the *Geraniaceae* family, Robert Sweet introduced a serious classification system to ease the shortfall in Linnaean nomenclature in 1820. However, this new taxonomy system seems only to be accepted and followed in the academic field rather than the public domain.   
+Historically, the misnomer started more than 150 years before Linnaean taxonomy, when *P. triste* was brought and cultivated at the Leiden Botanical Garden(the herbaria on the right is identified as *Pelargonium triste (L.)* according to the manuscript on the bottom right). While Carl Linnaeus, in his 1753 *Species Plantarum*, retained the generic name *Geranium* for 20 pelargoniums known at that time (such as the *Pelargonium zonale*), continuing the ignorance of pelargoniums as a new genus.[^sp] Since Linnaean taxonomy was treated almost like a bible in the academic field at that time, even though Charles-Louis L’Héritier subsequently distinguished *Pelargoniums* as an independent genus, the Linnaean *Geranium* nomenclature for pelargoniums continued - as can be seen in Aloysio Cabrini’s *Boccone Museum rariorum plantarum: nominibus linnaei specificis* (1791), currently housed in Dumbarton Oaks’ Rare Book Collection.[^bmrp] Eventually, by creating ten new genera in the *Geraniaceae* family, Robert Sweet introduced a serious classification system to ease the shortfall in Linnaean nomenclature in 1820.[^g] However, this new taxonomy system seems only to be accepted and followed in the academic field rather than the public domain.   
 <param title="Pelargonium zonale" eid="Q3898877">
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.bm000574836">
 <param ve-storiiies id="9b1fm">
@@ -84,13 +84,14 @@ Besides the Algerian oil industry and the Victorian floriculture mentioned here,
 
 [^bmrp]:[Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.](https://iiif.lib.harvard.edu/manifests/view/drs:49431646$348i)
 
+[^g]:[Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.](https://www.biodiversitylibrary.org/page/47462004)
+
+
 [^tafg]:[Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875.](https://www.biodiversitylibrary.org/page/55342041)
 
 [^tbof]:Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--.
 
 [^sslafl]:McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
-
-[^g]:[Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.](https://www.biodiversitylibrary.org/page/47462004)
 
 [^datg]:Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
 
