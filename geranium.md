@@ -13,7 +13,7 @@
 <param title="Species Plantarum" eid="Q849308">
 <param title="Pelargonium graveolens" eid="Q164306" aliases="P. graveolens">
 
-### What's in a name?
+## What's in a name?
 There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium. With their vibrant red flowers and sweet, rosy scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color” (Dickens 118) at his country home, Gad’s Hill Place. Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of them was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums” (116). 
 <param ve-image static
 title="Charles Dickens with his two daughters at Gad’s Hill, pseudonymous, published 1869. We can observe the staged “theatre” of potted geraniums that Dickens placed just beneath the bay windows of the house, on the right hand side of the photo." url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg/2048px-Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" fit="cover" attribution="Wikimedia Commons">
@@ -61,8 +61,7 @@ For many lower-class Victorian families who did not have gardens, growing Pelarg
 title="Jenny's geranium" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Jenny_geranium.png" fit="cover" attribution="*Jenny's geranium, or, The prize flower of a London Court*, S.W. Partridge & Co, c. 1869. Children’s Book Collection. Library Special Collections, Charles E. Young Research Library, UCLA https://archive.org/details/jennysgeraniumor00bostiala">
 
 As a result, the *Pelargonium* soon became a symbol for the working class’s ungainly attempts at propriety, and was instrumentalized as such throughout art and literature. Catherine Horwood notes that, “If there is one plant that sums up the attitude of Victorian sentimentalists towards the unfortunate working class in the nineteenth century, it is the forlorn red ‘geranium’ sitting on a cottage window-sill. Hundreds of artists used this as a symbol of aspirations to respectability” (138). Against this backdrop, we might understand Kirkland’s pretensions to the “genteel geranium” as an ironic statement, more in line with the OED’s definition of “genteel” as “being characteristic of those who are possessed with a dread of being taken for ‘common people’, or who attach exaggerated importance to supposed marks of social superiority,” than to assertions of true gentility.   
-<param ve-image
-title="The Music Lesson painting by William Henry Midwood, which depicts a pelargonium in the window." url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/The_Music_Lesson.jpg" region="pct:0,40,25,25" attribution="Amber Tree's Album, Flickr">  
+<param ve-storiiies id="fd1ft">
 
 
 ## Geraniums or Pelargoniums?
