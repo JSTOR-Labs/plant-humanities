@@ -11,6 +11,7 @@
 
 <param title="Dumbarton Oaks" eid="Q1264942">
 <param title="Species Plantarum" eid="Q849308">
+<param title="Pelargonium graveolens" eid="Q164306" aliases="P. graveolens">
 
 There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium. With their vibrant red flowers and sweet, rosy scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color” (Dickens 118) at his country home, Gad’s Hill Place. Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of them was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums” (116). 
 <param ve-image static
