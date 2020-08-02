@@ -3,7 +3,7 @@
        banner="https://ids.lib.harvard.edu/ids/iiif/435776338/full/full/0/default.jpg"
        layout="vtl"
        num-maps="1"
-       num-specimens="1"
+       num-specimens="2"
        num-images="8"
        num-primary-sources="15"
        author="Daisy Reid, Verónica Matallana Chaves, Yao Jiang">
