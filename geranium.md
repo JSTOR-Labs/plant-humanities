@@ -64,6 +64,8 @@ title="The Music Lesson painting by William Henry Midwood, which depicts a pelar
 
 ## Geraniums or Pelargoniums?
 Despite its long history of being known by a “false identity,” then, we can see that the *Pelargonium* has actually had a significant impact through its various sensorial, economic, and material-cultural entanglements with the human realm. But why exactly has the misnomer of Geranium persisted for so long? To answer this question, we can take a brief look at the two plants’ morphologies and their overlapping nomenclature history.
+<param ve-image
+title="Pelargonium entry in 1906 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/46727274" fit="cover" attribution="Biodiversity Heritage Library">  
 
 ### Morphological differentiations
 The Pelargonium is a perennial bush, with a strong and aromatic smell. There are approximately 300 species of Pelargonium, originating from Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia (the Geranium only has roots in the Cape region of South Africa). The particular morphology of the plant actually lends the genus its name; *Pelargonium* comes from the Greek word *pelargos* (“stork”) which alludes to the long, almost beak-shaped fruit. 
