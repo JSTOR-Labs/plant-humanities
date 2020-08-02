@@ -91,7 +91,7 @@ Besides the Algerian oil industry and the Victorian floriculture mentioned here,
 
 [^dsmdlcab]:[_173J 0001. Domaine Sainte-Marguerite de l'entreprise Chiris à Boufarik (Algérie)_ (FR-FRAD006 - FRAD006_ABEL)](https://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/FR-FRAD006/type/hg/id/FRAD006_ABEL/unitid/173J+0001+-+173J+0007)
 
-[^lpapdcf]:Élie Maunier. *Les Plantes à Parfums des Colonies Françaises*. Marseille, Institut colonial, 1932.
+[^lpapdcf]:[Élie Maunier. *Les Plantes à Parfums des Colonies Françaises*. Marseille, Institut colonial, 1932.](http://www.manioc.org/gsdl/collect/patrimon/archives/FRA12344.dir/FRA12344.pdf)
 
 [^pahsoag]:[_Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006.](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
