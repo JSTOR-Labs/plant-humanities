@@ -1,7 +1,7 @@
 <param ve-config
        title="A Pelargonium by any other name would smell as sweet…"
        banner="Title of Your Narrative"
-       banner="https://ids.lib.harvard.edu/ids/iiif/435776338/full/full/0/default.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg/2048px-Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg"
        layout="vtl"
        num-maps="1"
        num-specimens="1"
