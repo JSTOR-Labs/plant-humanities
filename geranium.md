@@ -32,7 +32,7 @@ The Chiris factory in Algeria provides a case study for the industrial productio
 
 It is key here to note that Pelargoniums, in this case called Geraniums, cannot stand the low temperatures of winter, so planting them in the warm lands of African colonies was considered the best place for production. Likewise, the low cost of colonial labour to carry out the processes of "preparation and planting of cuttings, weeding of fields, harvesting of the material to be distilled" favoured agro-economic operations in these territories. These are the two main reasons why the plant was introduced in Algeria in 1847 by the perfume industries of Grasse, including the company of Léon Chiris. As previously mentioned, the interest in Pelargoniums comes from its sweet aroma, which is considered similar to that of roses in most of its species. The Pelargonium introduced in Algeria was the "geranium rosat", the result of hybridisation between other Pelargonium species, and it was the selection "of a trentaine of wild Pelargonium species, from cells that are found most frequently in the Cap de Bonne Espérance region". This selection allowed the Chiris establishments in Boufarik to produce a stable profit number, "If we assume a yield of 25 kilos of petrol per hectare per year and a selling price of 220 francs per kilo of petrol, we obtain a gross income of 5,500 francs per hectare cultivated with Geranium Rosat. [...] In spite of the forecasts of overproduction, it seems although the selling prices for Geranium oil are still interesting. ” [^lpapdcf]
 
-Geranium oil continues to be industrially produced in factories across the globe, most notably in China and Egypt. Since the oil is so easy to store, it is always appreciated as something of a “savings account” by many small farmers as a cash crop. According to IFEAT (the International Federation of Essential Oils and Aroma Trades) 2017’s report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people.
+Geranium oil continues to be industrially produced in factories across the globe, most notably in China and Egypt. Since the oil is so easy to store, it is always appreciated as something of a “savings account” by many small farmers as a cash crop. According to IFEAT (the International Federation of Essential Oils and Aroma Trades) 2017’s report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people.[^pahsoag]
 <param ve-map center="18.240663, 40.244245" zoom="2.9">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/djareid/Dumbarton-PH/master/industrial-oil.json" title="global geranium oil industries" active>
 
@@ -80,6 +80,8 @@ Besides the Algerian oil industry and the Victorian floriculture mentioned here,
 
 ## References
 [^lpapdcf]:Élie Maunier. *Les Plantes à Parfums des Colonies Françaises*. Marseille, Institut colonial, 1932.
+
+[^pahsoag]:[_Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006.](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 [^sp]:[Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.](https://www.biodiversitylibrary.org/page/358697)
 
