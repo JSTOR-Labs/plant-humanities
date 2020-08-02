@@ -94,9 +94,3 @@ Besides the Algerian oil industry and the Victorian floriculture mentioned here,
 [^sslafl]:McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
 
 [^datg]:Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
-
-[^gap]:Lis-Balchin, Maria. _Geranium and Pelargonium: History of Nomenclature, Usage and Cultivation_. CRC Press, 2002.
-
-[^p]:[_Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006.](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
-
-[^tpfp]:Wilkinson, Anne, and Chris Beardshaw. _The Passion for Pelargoniums: How They Found Their Place in the Garden_. Stroud: The History Press, 2007.
