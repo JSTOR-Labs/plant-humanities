@@ -18,7 +18,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 <param title="Alexander von Humboldt" eid="Q6694">
 <param title="André Pierre Ledru" eid="Q2848440" article="André_Pierre_Ledru">
 <param title="Canary Islands" eid="Q5813">
-<param ve-storiiies id="421e8">
+<param ve-storiiies id="8a1g2">
 
 ## Sanguine Myths and Elemental Reality
 
@@ -59,7 +59,7 @@ Throughout its dissemination into European spaces from the Age of Discovery, Dra
 
 European interest in D. draco again resurfaced in the late eighteenth century with the voyages of scientific discovery. German scientist and writer Alexander von Humboldt was the most famous of them all during this period to fall prey to the tree’s enchanting appeal. In Cosmos (1842), his last work, he still recalled the time when, as a child, he “first saw a colossal dragon tree in an old tower of the Botanical Garden in Berlin."[^10]  The experience was so overwhelming that Humboldt even thought of it as “the source from whence sprang my early and fixed desire to visit the lands of the tropics.”[^11]  A stroll through the botanical garden in his hometown, a virtual travel indeed, prompted Humbold’s desire for actual travel. The fact that the dragon tree bookended Humboldt’s illustrious career, as both a formative experience of his youth and a notable point in his last great work highlights how the dragon tree itself was at the core of his understanding of nature as one interconnected whole.
 <param title="Cosmos (1842)" eid="Q51431747" aliases="cosmos (1842)">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Map_Alexander_von_Humboldt_expedition-de.svg/2000px-Map_Alexander_von_Humboldt_expedition-de.svg.png" fit="contain">
+<param ve-image url="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa0%2FMap_Alexander_von_Humboldt_expedition-en.svg%2F1200px-Map_Alexander_von_Humboldt_expedition-en.svg.png" fit="contain">
 
 In 1799, as he stopped in Tenerife before his voyage to the Americas that would make him world-famous, Humboldt found himself in the village of Orotava. There, he entered the garden of a Monsieur Franchy and was immediately awe-struck by the sheer size and magnitude of the dragon tree there – the very same tree that the Guanches had worshipped for centuries. He reported it to measure 60 feet tall and 45 feet in circumference near the roots. “We were told that the trunk of this tree,” Humboldt wrote in his Personal Narrative, “which is mentioned in several ancient documents as marking the boundaries of a field, was as gigantic in the fifteenth century as it is at the present time.” According to his calculations, the specimen was undoubtedly “one of the oldest inhabitants in our world,” which called for special protection.[^12]  Those who mistreated such “monuments of nature,” he pondered, should be punished, especially “in countries destitute of monuments of art” like those he visited in the tropics.[^13]  Humboldt’s experience with the large D. draco at Orotava was far more than the mere realization of a boyish dream, but was instead a pioneering act that that inspired other European travelers to follow in his footsteps and help strengthen a global network of scientific and economic exchanges focused on plants. 
 <param title="Tenerife" eid="Q40846">
