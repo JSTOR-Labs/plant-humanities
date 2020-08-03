@@ -4,7 +4,7 @@
        layout="vtl"
        num-maps="1"
        num-specimens="2"
-       num-images="8"
+       num-images="9"
        num-primary-sources="15"
        author="Daisy Reid, Verónica Matallana Chaves, Yao Jiang">
 
