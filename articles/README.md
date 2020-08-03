@@ -4,5 +4,5 @@ attribute with the name of the file in this directory excluding the `.md` file e
 replace the default text for Wikidata entity [Q871991](https://www.wikidata.org/wiki/Q871991) (cherry blossom),
 create a file in the `articles` directory and use the following tag.
 
-> `<param ve-entity eid="Q871991" title="cherry blossom" article="cherry_blossom">`, where the file 
+`<param ve-entity eid="Q871991" title="cherry blossom" article="cherry_blossom">`, where the file 
 `articles/cherry_blossom.md` includes the replacement text to be used.
