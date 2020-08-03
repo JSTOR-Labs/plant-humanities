@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "Whatever this is"
+        "label": "Whatever this is",
         "stroke": "#dd5c31",
         "stroke-width": 2,
         "stroke-opacity": 1,
