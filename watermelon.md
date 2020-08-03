@@ -111,9 +111,9 @@ title="'Still life with watermelons' by Sarah Miriam Peale" url="https://upload.
        fit="contatin"
        attribution="Wikimedia Commons">
 
-Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/rare-books/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium/view) and the nineteenth century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier depictions. This bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth century America. 
+Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/rare-books/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium/view) and the nineteenth century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier depictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth century America. 
 <param ve-image
-title="Maria Sybilla Merian's watermelon with insects" url="https://www.archive.org/download/Metamorphosisin00Meri/page/n53_w351"
+title="Maria Sybilla Merian's watermelon with insects" url="https://iiif.lib.harvard.edu/manifests/drs:481769537"
        fit="contain"
        attribution="BHL">
 <param ve-image
@@ -131,7 +131,7 @@ title="African-American dacing around a pile of watermelons" url="https://upload
        
 Certain characteristics of the watermelon made it conducive to racializing: its messiness when being eaten supposedly connoted uncleanliness, its easiness to grow implied laziness, its sweetness and color connoted childishness. These aspects of the fruit were bound up with representations of African-Americans whose taste for the melon were exaggerated to the point of naturalisation; the watermelon’s African origins were cited as an explanation for Black Americans’ apparently insatiable appetite for the fruit. Nineteenth-century newspapers were filled with anecdotes and reports which repeated these racial tropes until they masqueraded as truth. 
 <param ve-image
-title="“_In the earliest study of the natural history of the African his absorptive powers in the matter of watermelons came to the front and has always staid there. It is one of his most salient characteristics_” (The New York Times, 1904)" url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-6A6EEDA3268C2_2001"
+title="“In the earliest study of the natural history of the African his absorptive powers in the matter of watermelons came to the front and has always staid there. It is one of his most salient characteristics.” (The New York Times, 1904)" url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-6A6EEDA3268C2_2001"
        fit="contain"
        attribution="National Museum of African American History & Culture">
 <param ve-image
