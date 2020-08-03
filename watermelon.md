@@ -114,9 +114,9 @@ title="'Still life with watermelons' by Sarah Miriam Peale" url="https://upload.
 
 Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/rare-books/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium/view) and the nineteenth century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier depictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth century America. 
 <param ve-image
-title="Maria Sybilla Merian's watermelon with insects" url="https://iiif.lib.harvard.edu/manifests/drs:481769537"
+title="Maria Sybilla Merian's watermelon with insects" iiif-url="https://iiif.lib.harvard.edu/manifests/drs:481769537"
        fit="contain"
-       attribution="BHL">
+       attribution="Dumbarton Oaks">
 <param ve-image
 title="Watercolours paintings of fruits from Asia. Early 19th century. South East Asia. Dumbarton Oaks collection." url="https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/013717125-album-pl-0015.jpg/@@images/image/zoom"
        fit="contain"
@@ -126,7 +126,7 @@ title="Watercolours paintings of fruits from Asia. Early 19th century. South Eas
 
 Watermelons were brought to the Americas in the sixteenth century, introduced by colonists and African slaves and cultivated widely by indigenous populations and in slave gardens. After the 1863 Emancipation Proclamation, the watermelon briefly became a tool of black citizenship; the ease with which watermelons could be grown and sold meant that they became a source of income for freed slaves.[^ref15] Although the watermelon initially held a certain amount of emancipatory potential for African-Americans both through their sale enabling the escape of the plantation economy and through the consumption of watermelons as a public and communal activity enacting newfound freedoms, the watermelon soon became perceived as a threat by white southerners who proceeded to transform the fruit into a symbol of black people’s unfitness for freedom and citizenship.
 <param ve-image
-title="African-American dacing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
+title="African-American dancing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
        fit="contain"
        attribution="Wikimedia commons">
        
@@ -148,7 +148,7 @@ title="“The negro’s fondness for the watermelon is nothing short of a racial
        fit="contain"
        attribution="Wikimedia Commons">
 
-Stories of stolen watermelons similarly contributed to the establishment of black criminality following the 13th Amendment. The irresistible lure of the watermelon suggested that it did “more to tempt the colored race to steal than all other fruit combined," with countless anecdotes supposedly citing the words of African Americans claiming that stolen watermelons tasted better than bought.[^ref16] The narrative of watermelon-stealing by African Americans was so entrenched that in Tennessee, the state bill criminalizing trespass in 1870 was commonly known as the ‘watermelon bill’, serving to disenfranchise convicted trespassers. The popularity of such cultural tropes became important tools in exclusionary racial politics well into the twentieth century and [are still pervasive today]( https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people).[^ref17]
+Stories of stolen watermelons similarly contributed to the establishment of Black criminality following the 13th Amendment. The irresistible lure of the watermelon suggested that it did “more to tempt the colored race to steal than all other fruit combined," with countless anecdotes supposedly citing the words of African-Americans claiming that stolen watermelons tasted better than bought.[^ref16] The narrative of African-American watermelon-stealing was so entrenched that in Tennessee, the state bill that criminalized trespass in 1870 was commonly known as the ‘watermelon bill’, serving to disenfranchise convicted trespassers. The popularity of such cultural tropes became important tools in exclusionary racial politics well into the twentieth century and [are still pervasive today](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people).[^ref17]
 <param ve-storiiies id="0d1fv">
        
 
