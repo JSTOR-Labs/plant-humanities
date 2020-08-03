@@ -114,10 +114,6 @@ title="African american dacing around a pile of watermelons" url="https://upload
        
 Certain characteristics of the watermelon made it conducive to racializing: its messiness when eating connoting uncleanliness, its easiness to grow implying laziness, its sweetness and colour connoting childishness. These aspects of the fruit were bound up with representations of African Americans whose taste for the melon were exaggerated to the point of naturalisation, the watermelon’s African origins cited as an explanation for black Americans’ apparently insatiable appetite for the fruit. Nineteenth-century newspapers were filled with anecdotes and reports which repeated these racial tropes until they masqueraded as truth. 
 <param ve-image
-title="“The negro’s fondness for the watermelon is nothing short of a racial weakness. They seem to be born with a hunger or a thirst for the fruit”. (The Atchison Globe, 1896" url"=https://upload.wikimedia.org/wikipedia/commons/1/11/3_African_American_boys_eating_watermelon_LCCN2004672359.jpg"
-       fit="contain"
-       attribution="Wikimedia Commons">
-<param ve-image
 title="“In the earliest study of the natural history of the African his absorptive powers in the matter of watermelons came to the front and has always staid there. It is one of his most salient characteristics” (The New York Times, 1904)" url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-6A6EEDA3268C2_2001"
        fit="contain"
        attribution="National Museum of African American History & Culture">
@@ -129,6 +125,10 @@ title="“No negro who has any pride of race or respect for himself would hesita
 title="“Whether chickens or watermelons exercise the stronger fascination upon the colored mind is an uncertain question … it must be remembered that there is far more difficulty in entering a locked chicken-house than there is in climbing the fence of the melon-patch.” (The New York Times, 1882" url="https://cdn.loc.gov/service/pnp/cph/3b40000/3b48000/3b48900/3b48980r.jpg"
        fit="contain"
        attribution="Library of Congress">
+<param ve-image
+title="“The negro’s fondness for the watermelon is nothing short of a racial weakness. They seem to be born with a hunger or a thirst for the fruit”. (The Atchison Globe, 1896" url="https://upload.wikimedia.org/wikipedia/commons/1/11/3_African_American_boys_eating_watermelon_LCCN2004672359.jpg"
+       fit="contain"
+       attribution="Wikimedia Commons">
 
 Stories of stolen watermelons similarly contributed to the establishment of black criminality following the 13th Amendment. The irresistible lure of the watermelon suggested that it did “more to tempt the colored race to steal than all other fruit combined”, with countless anecdotes supposedly citing the words of African Americans claiming that stolen watermelons tasted better than bought.[18] The narrative of watermelon-stealing by African Americans was so entrenched that in Tennessee, the state bill criminalizing trespass in 1870 was commonly known as the ‘watermelon bill’, serving to disenfranchise convicted trespassers. The popularity of such cultural tropes became important tools in exclusionary racial politics well into the twentieth century, and are still pervasive today.[19]
 <param ve-storiiies id="0d1fv">
