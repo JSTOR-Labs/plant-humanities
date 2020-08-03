@@ -22,6 +22,7 @@
 <param title="Joseon Dynasty" eid="Q28179" aliases="Joseon Dynasty">
 <param title="Shin Saimdang" eid="Q464485">
 <param title="Dianthius chinensis" eid="Q159013" aliases="dianthus flower">
+<param>
 
 ### Watermelon, The Food Of Angels
 
@@ -76,11 +77,11 @@ title="5000 Won Banknote. Bank of Korea" url="https://upload.wikimedia.org/wikip
        fit="fit"
        attribution="Wikimedia Commons">
 
-Moorish conquerors of Spain left agricultural evidence of the watermelon, mostly in the shape of seeds, in the tenth century CE, and illuminated manuscripts shed light on the varieties of watermelons grown in southern Italy. The watermelon appearing in subsequent European manuscripts seemed to be more palatable than Pliny’s pepones: early health treatises (Tacuinum Sanitatis) commissioned by Italian nobility in the 14th century show that they may have been so delectable that harvesters would taste test them in the fields. However, the sweetness the melons does not appear to be consistent. Writing in the 16th century, John Gerard, in his Herball, described the flesh as “spungie and of a flimsie substance” which can be “eaten rawe, but more commonly boiled” and was still more notable for its healthful properties: “it ingendereth a waterish bloud, mitigateth the extremitie of heat of the inner parts, and tempereth the sharpness and fervent heat of choler.”[^ref14] 
+Moorish conquerors of Spain left agricultural evidence of the watermelon, mostly in the shape of seeds, in the tenth century CE, and illuminated manuscripts shed light on the varieties of watermelons grown in southern Italy. The watermelon appearing in subsequent European manuscripts seemed to be more palatable than Pliny’s _pepones_: early health treatises (_Tacuinum Sanitatis_) commissioned by Italian nobility in the 14th century show that they may have been so delectable that harvesters would taste test them in the fields. However, the sweetness the melons does not appear to be consistent. Writing in the 16th century, John Gerard, in his Herball, described the flesh as “spungie and of a flimsie substance” which can be “eaten rawe, but more commonly boiled” and was still more notable for its healthful properties: “it ingendereth a waterish bloud, mitigateth the extremitie of heat of the inner parts, and tempereth the sharpness and fervent heat of choler.”[^ref14] 
 <param ve-image
-title="Watermelon in the Medieval manuscript Tacinium Sanitatis, Ca 1390-1400" url="http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=74&Fin=74&Param=C"
+title="Watermelon in the Medieval manuscript Tacinium Sanitatis, c. 1390-1400" url="http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=74&Fin=74&Param=C"
        fit="contain"
-       attribution="Bibliotèque Nationale de France">
+       attribution="Bibliothèque Nationale de France">
 <param ve-image
 title="'Anguriae' in Mathiolli's Dioscorides." url="https://www.archive.org/download/mobot31753000819224/page/n512_w299"
        fit="contain"
