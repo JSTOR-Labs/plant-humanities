@@ -26,7 +26,7 @@ Members of today’s Dracaena genus have long been valued for their signature re
 <param title="Dracaena genus" eid="Q158009">
 <param title="Dragon's Blood" eid="Q421877">
 <param title="Socotra" eid="Q82859">
-<param ve-image title="Vedic Tale of the Elephant and the Dragon as depicted in Bestiary by Giraldus Cambrensis, 13th Century, as Provided by the British Museum" iiif-url="89500bc7ac6918e3f1074c15fa332c9b2059b0b31adb218ae5400d413853d60a/" url="https://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=47205">
+<param ve-image title="Vedic Tale of the Elephant and the Dragon as depicted in Bestiary by Giraldus Cambrensis, 13th Century, as Provided by the British Museum" iiif-url="89500bc7ac6918e3f1074c15fa332c9b2059b0b31adb218ae5400d413853d60a" url="https://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=47205">
 
 
 As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars (Global Trees Campaign). As Dragon’s Blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that, “the dragon trees […] continue[d] to bleed the death of Ladon with a reddish oozing sap whenever they [got] cut.” 
