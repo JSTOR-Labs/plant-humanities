@@ -26,7 +26,7 @@ Members of today’s Dracaena genus have long been valued for their signature re
 <param title="Dracaena genus" eid="Q158009">
 <param title="Dragon's Blood" eid="Q421877">
 <param title="Socotra" eid="Q82859">
-<param ve-image title="Vedic Tale of the Elephant and the Dragon as depicted in Bestiary by Giraldus Cambrensis, 13th Century, as Provided by the British Museum" iiif-url="http://free.iiifhosting.com/iiif/89500bc7ac6918e3f1074c15fa332c9b2059b0b31adb218ae5400d413853d60a/" url="https://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=47205">
+<param ve-image title="Vedic Tale of the Elephant and the Dragon as depicted in Bestiary by Giraldus Cambrensis, 13th Century, as Provided by the British Museum" iiif-url="89500bc7ac6918e3f1074c15fa332c9b2059b0b31adb218ae5400d413853d60a/" url="https://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=47205">
 
 
 As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars (Global Trees Campaign). As Dragon’s Blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that, “the dragon trees […] continue[d] to bleed the death of Ladon with a reddish oozing sap whenever they [got] cut.” 
@@ -60,9 +60,8 @@ European interest in D. draco again resurfaced in the late eighteenth century wi
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Map_Alexander_von_Humboldt_expedition-de.svg/2000px-Map_Alexander_von_Humboldt_expedition-de.svg.png">
 
 In 1799, as he stopped in Tenerife before his voyage to the Americas that would make him world-famous, Humboldt found himself in the village of Orotava. There, he entered the garden of a Monsieur Franchy and was immediately awe-struck by the sheer size and magnitude of the dragon tree there – the very same tree that the Guanches had worshipped for centuries. He reported it to measure 60 feet tall and 45 feet in circumference near the roots. “We were told that the trunk of this tree,” Humboldt wrote in his Personal Narrative, “which is mentioned in several ancient documents as marking the boundaries of a field, was as gigantic in the fifteenth century as it is at the present time.” According to his calculations, the specimen was undoubtedly “one of the oldest inhabitants in our world,” which called for special protection.  Those who mistreated such “monuments of nature,” he pondered, should be punished, especially “in countries destitute of monuments of art” like those he visited in the tropics.  Humboldt’s experience with the large D. draco at Orotava was far more than the mere realization of a boyish dream, but was instead a pioneering act that that inspired other European travelers to follow in his footsteps and help strengthen a global network of scientific and economic exchanges focused on plants. 
+<param title="Tenerife" eid="Q40846">
 <param ve-image title="Personal Narrative, Humboldt, 1857" url="https://www.biodiversitylibrary.org/pageimage/23980703">
-
-
 
 ## Smothering the Dragon’s Flame: D. draco and the Anthropocene
 
