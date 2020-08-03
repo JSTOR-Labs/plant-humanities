@@ -31,7 +31,7 @@ region="pct:55,40,20,20" attribution="Biodiversity Heritage Library">
 So how can we tell the history of the forgotten Pelargonium, a plant that is a familiar cultural fixture for so many of us - but one that so few people know by its true identity? Perhaps it is time to put the *Geranium* (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the *Pelargonium*, from its impact in the industrial, cultural, and social sphere, to the particular morphological make-up that caused all this nomenclature trouble in the first place.  
 <param ve-image 
 title="Geraniums, Tulips, Groundsel, Cresses." url="https://ids.lib.harvard.edu/ids/iiif/435776338/full/full/0/default.jpg" 
-region="pct:20,20,50,50" attribution="Giraud, Jane Elizabeth, approximately 1820-approximately 1919, artist. The fête of the flowers. 1860. RARE J-3-2. Dumbarton Oaks Research Library, Washington, D.C.">
+region="pct:20,30,50,50" attribution="Giraud, Jane Elizabeth, approximately 1820-approximately 1919, artist. The fête of the flowers. 1860. RARE J-3-2. Dumbarton Oaks Research Library, Washington, D.C.">
 
 
 ## Global industrial production of geranium oils
