@@ -25,6 +25,8 @@
 <param title="Tacuinum Sanitatis" eid="Q608662">
 <param title="John Gerard" eid="Q1333338">
 <param title="still life" eid="Q170571" aliases="still lifes">
+<param title="Albert Eckhout" eid="Q2116186">
+<param title="Giovanni Stanchi" eid="Q3107339" aliases="Giovanni Stanchi">
 
 ### Watermelon, The Food Of Angels
 
@@ -93,7 +95,7 @@ title="Citrull cocumber in Gerard's Herbal" url="https://www.archive.org/downloa
        fit="contain"
        attribution="BHL">
 
-In the seventeenth to nineteenth centuries, the watermelon was commonly represented in European and American still lifes, providing a diverse visual archive of watermelon varieties. The seventeenth century watermelons of Eckhout and Stanchi, for example, exhibit whorls of red flesh amongst white rind and give us a sense of how much the watermelon has changed in the last few hundred years. The inclusion of watermelons in still lifes also provides an insight into the multitude of cultural values associated with the fruit at the time. Whilst American still lifes, such as those of the prolific Peale family in the early nineteenth century, placed the melon amidst almost nauseating abundance and plenty, European artists would often cut through that fantasy quite literally with the abrupt imposition of a knife as a harsh reminder of the fleeting nature of life. 
+In the seventeenth to nineteenth centuries, the watermelon was commonly represented in European and American still lifes, providing a diverse visual archive of watermelon varieties. The seventeenth century watermelons of Albert Eckhout and Stanchi, for example, exhibit whorls of red flesh amongst white rind and give us a sense of how much the watermelon has changed in the last few hundred years. The inclusion of watermelons in still lifes also provides an insight into the multitude of cultural values associated with the fruit at the time. Whilst American still lifes, such as those of the prolific Peale family in the early nineteenth century, placed the melon amidst almost nauseating abundance and plenty, European artists would often cut through that fantasy quite literally with the abrupt imposition of a knife as a harsh reminder of the fleeting nature of life. 
 <param ve-image
 title="Pineapple, watermelons and other fruits (Brazilian fruits)" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
        fit="contain"
