@@ -58,13 +58,13 @@ title="Satsubari, the Second of the Sixteen Arhats. Japan. Early 14th century." 
        fit="contain"
        attribution="The Metropolitan Museum of Art">
 <param ve-image
-title="Painting of Mice Nibbling on a Watermelon" url="https://www.museum.go.kr/relic_image/PS01001001/ssu003/2018/0510150521586/700/ssu003550-000-019.jpg"
+title="'Plants and insects' by Shin Saimdang" url="https://ids.lib.harvard.edu/ids/view/18731783?width=3000&height=3000"
        fit="contain"
-       attribution="National Museum of Korea">
+       attribution="The President and Fellows of Harvard College">
 <param ve-image
-title="5000 won Bank of Korea banknote" url="https://notescollector.eu/image/fotos/skr2011005twonr.png"
+title="5000 Won Banknote. Bank of Korea" url="https://upload.wikimedia.org/wikipedia/commons/d/d7/5000_won_serieV_reverse.jpeg"
        fit="fit"
-       attribution="Notes Collector">
+       attribution="Wikimedia Commons">
 
 Moorish conquerors of Spain left agricultural evidence of the watermelon, mostly in the shape of seeds, in the tenth century CE, and illuminated manuscripts shed light on the varieties of watermelons grown in southern Italy. The watermelon appearing in subsequent European manuscripts seemed to be more palatable than Pliny’s pepones: early health treatises (Tacuinum Sanitatis) commissioned by Italian nobility in the 14th century show that they may have been so delectable that harvesters would taste test them in the fields. However, the sweetness the melons does not appear to be consistent. Writing in the 16th century, John Gerard, in his Herball, described the flesh as “spungie and of a flimsie substance” which can be “eaten rawe, but more commonly boiled” and was still more notable for its healthful properties: “it ingendereth a waterish bloud, mitigateth the extremitie of heat of the inner parts, and tempereth the sharpness and fervent heat of choler.”[13] 
 <param ve-image
