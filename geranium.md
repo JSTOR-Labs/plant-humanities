@@ -22,7 +22,7 @@ However, you might be surprised to learn that the red flower with which Dickens 
 <param title="Pelargonium inquinans" eid="Q18083598">
 <param ve-image 
 title="Illustrations of _Pelargonium odoratissimum_ and _Pelargonium inquinans_" url="https://www.biodiversitylibrary.org/pageimage/53144785" 
-fit="contain" attribution="Biodiversity Heritage Library">
+region="pct:55,40,20,20" attribution="Biodiversity Heritage Library">
 <param ve-image 
 title="Scarlet geranium" url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" 
 fit="cover" attribution="Wikimemdia Commons">
