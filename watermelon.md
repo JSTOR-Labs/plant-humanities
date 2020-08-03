@@ -12,6 +12,7 @@
 <param title="Citrullus lanatus" eid="Q17507129" aliases="Anguria">
 <param title="Mark Twain" eid="Q7245">
 <param title="Citrullus" eid="Q132239">
+<param title="phenotype" eid="Q104053">
 
 ### Watermelon, The Food Of Angels
 
