@@ -34,12 +34,14 @@ As the eleventh labor of his famous twelve, Hercules was sent to steal the golde
 
 Native to the Canary Islands, Cape Verde, and recently found growing natively on the West coast of Morocco, D. draco is somewhat ubiquitous along the Northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of D. draco in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and Dragon’s Blood between his crew and 500 Guanches, the indigenous population of the Canary Islands. 
 <param title="Cape Verde" eid="Q1011">
-<param ve-storiiies id="751f7">
+<param title="Jean de Béthencourt" eid="Q447602">
 <param ve-map center="Q854" zoom="2" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="geojson/Dracaena draco native.json" title="Distribution range" active>
 
 The Guanches used Dragon’s Blood for a variety of purposes ranging from embalming their dead, to making dyes and varnishes, to even using it as a toothpaste.  Believing that, when dragons died, they transformed into the divine trees, Guanches would regularly meet under the Orotava giant dragon tree’s large canopy to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.  Dragon’s Blood was, therefore, immensely valuable, as Béthencourt noted that the resin was, “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”  Several centuries later, scientific expeditions by naturalists Alexander von Humboldt and André Pierre Ledru would bring popular attention back to the islands and D. draco, as each traveler marveled at this very same tree in Orotava, – a tree impossibly large and old, and still echoing with mystical resonances. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Berthelot_drago_franchy.jpg">
+<param title="Guanches" eid="Q219995">
+<param primary ve-storiiies id="751f7">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Berthelot_drago_franchy.jpg" title="Engraving of the dragos of the House of Franchy in the Villa de La Orotava, published in 1838 in his work _Histoire Naturelle des Iles Canaries_ Atlas">
 
 ## Dragon’s Blood: from Herbals to Enlightenment Science
 
