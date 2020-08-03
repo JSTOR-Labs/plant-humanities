@@ -141,28 +141,13 @@ The racist belief in the unhealthy habits of African Americans also featured in 
 title="Cholera Inteligence" url="images/054de03b-d835-43ba-a445-3f0e1024551e.jpeg"
     fit="contain"
     attribution="The National Inteligencer">
+<param ve-image
+title="Carried the cholera" url="images/watermelon-poem.jpeg"
+    fit="contain"
+    attribution="The Macon Telegraph">
 
 In Korea at the turn of the twentieth century, for instance, British mine-owners turned to banning watermelons from the camps of their workers in order to prevent outbreaks of cholera. The logic behind this seemed to lay in the “immense quantities” of watermelons consumed by Korean workers, including the “rind” (probably the white pith, thought good for indigestion), again suggesting a continuity between a racialized critique of excess indulgence and the moralizing of disease. The campaign turned out to be successful, although whether or not that was down to the lack of watermelons is unclear.[22] Similarly, posters such as that shown here from the USSR in 1921 used watermelons to illustrate how various acts of poor hygiene could lead to cholera, from drinking unboiled water to eating unwashed fruit.
 <param ve-storiiies id="831fg">
-
-> Who started the cholera?  
-I, said the Melon,  
-I am the felon,  
-From warmth of a torrider  
-Country than Florida,  
-I carried the cholera.  
-We sailed to Marseilles  
-With favoring gales,  
-And from there we went on  
-To visit Toulon.  
-Where next do we do?  
-Just wait; time will show.  
-But it will not be long  
-Ere the Germans will find,  
-That cholera loves  
-A trip on the rind.  
--The Macon _Telegraph_ (1884) ‘Carried the Cholera’, The Milwaukee Daily Sentinel, Aug. 19, p. 4
->
 
 ### Capitalism and the commodification of fruit 
 Since the twentieth century, the intensified commodification of the watermelon has transformed the fruit’s form. In many countries around the world (but not all), since the 2000s, watermelons have grown smaller, rounder, and more uniform in size in order to stack better for transit and sale. These so-called “personal melons” are more practical for transporting and storing in fridges, and importantly bring farmers bigger profits per acre, heralding a shift away from the watermelon as a communally consumed fruit.[26] The other major transformation in watermelons has been the success of the seedless melon. The commercial production of seedless watermelons began in the 1990s, using colchicine – a chemical derived from crocuses – to produce a sterile seedless hybrid, crossbred to have three sets of chromosomes instead of two.[27]
