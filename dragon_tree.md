@@ -17,7 +17,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 <param title="Pliny the Elder" eid="Q82778">
 <param title="Alexander von Humboldt" eid="Q6694">
 <param title="André Pierre Ledru" eid="Q2848440">
-<param ve-entity eid="Q2848440" title="André Pierre Ledru" article="plant-humanities/articles/André Pierre Ledru">
+<param ve-entity eid="Q2848440" title="André Pierre Ledru" article="André Pierre Ledru">
 <param title="Canary Islands" eid="Q5813">
 <param ve-storiiies id="421e8">
 
