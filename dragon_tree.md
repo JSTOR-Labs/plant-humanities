@@ -75,6 +75,7 @@ As Ledru remarked in his 1810 _Voyages aux îles de Ténériffe, la Trinité, Sa
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/IMG_9319.jpg">
 
 But even in the face of this acute anthropogenic pressure, the great dragon tree at Orotava persisted. Struck by the tree’s size, age, and enduring spirit, Ledru remarks on how even the most environmentally malicious conquistadors respected this centenary dragon tree.  Perhaps, then, to Humboldt’s delight, Ledru estimated that this special tree would easily live another one-hundred-fifty to two-hundred years.[^16]  
+<param ve-storiiies id="7b1dr">
 
 Unfortunately, the centenary dragon tree did not outlive Humboldt and Ledru’s visits by too long. In 1819, a storm first cut off one of its branches, and in 1867, a hurricane-like tempest broke them all off.[^17]  Despite this inauspicious demise, the tree’s image remains associated with the Canary Islands through today, and it is still frequently featured prominently in images of Orotava. Furthermore, both naturalists’ accounts of their encounters with the dragon tree in its native environment stand as proof of its power to equally excite scientific and aesthetic imagination, promote environmental concerns, and reinforce colonial dynamics. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/38/Orotava_Ayuntamiento_04.jpg">
