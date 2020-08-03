@@ -17,15 +17,16 @@
 There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium.[^datg] With their vibrant red flowers and sweet, rosy scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color”[^mfsirh] at his country home, Gad’s Hill Place. Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of them was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums”[^mfsirh]. 
 <param ve-image static
 title="Charles Dickens with his two daughters at Gad’s Hill, pseudonymous, published 1869. We can note the staged “theatre” of potted geraniums that Dickens placed just beneath the bay windows of the house on the right hand side of the photo." url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg/2048px-Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" fit="cover" attribution="Wikimedia Commons">
+<param ve-image 
+title="Scarlet geranium" url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" 
+fit="cover" attribution="Wikimemdia Commons">
 
 However, you might be surprised to learn that the red flower with which Dickens was so enamoured was not actually a Geranium. **In fact, it was a Pelargonium - *Pelargonium inquinans*, to be exact.** These two genera, similar but not exactly the same in terms of their morphology, have been embroiled in a long history of taxonomic confusion. In his famous *Species Plantarum* published in 1735, Carl Linnaeus mistakenly grouped Pelargoniums and Geraniums together into one genus, and that misgrouping ended up persisting for centuries - even after subsequent naturalists had proven that they were, in reality, two different genera. The public simply grew accustomed to using the name Geranium for both types of plant, and for the most part, we continue to use it in this way today.
 <param title="Pelargonium inquinans" eid="Q18083598">
 <param ve-image 
 title="Illustrations of _Pelargonium odoratissimum_ and _Pelargonium inquinans_" url="https://www.biodiversitylibrary.org/pageimage/53144785" 
-fit="cover" attribution="Biodiversity Heritage Library">
-<param ve-image 
-title="Scarlet geranium" url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" 
-fit="cover" attribution="Wikimemdia Commons">
+region="pct:55,45,20,20" attribution="Biodiversity Heritage Library">
+
 
 So how can we tell the history of the forgotten Pelargonium, a plant that is a familiar cultural fixture for so many of us - but one that so few people know by its true identity? Perhaps it is time to put the *Geranium* (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the *Pelargonium*, from its impact in the industrial, cultural, and social sphere, to the particular morphological make-up that caused all this nomenclature trouble in the first place.  
 <param ve-image
