@@ -23,7 +23,7 @@ However, you might be surprised to learn that the red flower with which Dickens 
 <param ve-image
 title="Illustrations of _Pelargonium odoratissimum_ and _Pelargonium inquinans_" url="https://www.biodiversitylibrary.org/pageimage/53144785" region="pct:55,40,25,25" attribution="Biodiversity Heritage Library">
 <param ve-image
-title="Scarlet geranium" url="https://commons.wikimedia.org/wiki/File:Scarlet_geranium.jpg" fit="cover" attribution="Wikimemdia Commons">
+title="Scarlet geranium" url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" fit="cover" attribution="Wikimemdia Commons">
 
 So how can we tell the history of the forgotten Pelargonium, a plant that is a familiar cultural fixture for so many of us - but one that so few people know by its true identity? Perhaps it is time to put the *Geranium* (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the *Pelargonium*, from its impact in the industrial, cultural, and social sphere, to the particular morphological make-up that caused all this nomenclature trouble in the first place.  
 <param ve-image
