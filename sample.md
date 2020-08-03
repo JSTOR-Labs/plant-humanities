@@ -24,7 +24,7 @@
        dependencies="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.2/openseadragon.min.js|https://storiiies.cogapp.com/assets/demos/viewer/js/shortcode.js">
 
 <param title="Beatrix Farrand" eid="Q437714">
-<param title="cherry blossom" eid="Q871991" category="plant">
+<param title="cherry blossom" eid="Q871991" article="cherry_blossom" category="plant">
 <param title="Dumbarton Oaks" eid="Q1264942">
 <param title="hanami" eid="Q210150" category="activity">
 <param title="Prunus" eid="Q190545">
