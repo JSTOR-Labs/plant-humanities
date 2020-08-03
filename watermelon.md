@@ -19,7 +19,7 @@ Mark Twain once said that watermelon “is the chief of this world's luxuries, k
 <param ve-vis-network file="graphs/watermelon.csv">
 <param ve-image
 title="Watermelon" url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bulgarian_watermelon.JPG"
-       fit="contain"
+       fit="cover"
        attribution="Wikimedia Commons">
 
 ### Whose Vine Is It Anyway?
