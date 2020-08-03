@@ -11,7 +11,6 @@
 <param title="Watermelon" eid="Q17507129">
 <param title="Citrullus lanatus" eid="Q17507129" aliases="Anguria">
 <param title="Mark Twain" eid="Q7245">
-<param title="phenotypes" eid="Q104053">
 
 ### Watermelon, The Food Of Angels
 
@@ -24,6 +23,7 @@ title="Watermelon" url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bulg
 
 ### Whose Vine Is It Anyway?
 Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the _Citrullus lanatus_ species, but the _Citrullus_ genus includes at least six other species of watermelons, including the citron _(C. amarus)_, egusi _(C. mucosospermus)_ and colocynth _(C. colocynthis)_ watermelons, which at one time were variously called or classified as subspecies of _C. lanatus_.[^ref2] Past taxonomies of the sweet dessert watermelon are therefore of minimal use for tracing its origins until further genetic analysis is undertaken; instead, literary references and visual depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
+<param title="phenotypes" eid="Q104053">
 <param ve-plant-specimen eid="Q30160603" max="2">
 
 Species in the genus _Citrullus_ characteristically grow on vines with pinnatifid (feather-like) leaves and only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white.[^ref3] Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in north-eastern Africa around six thousand years ago. Wild desert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya,[^ref4] and some of the earliest iconography and evidence of oblong melons — an indication of domestication — can be found in Egyptian tombs, [^ref5] and Mediterranean and Byzantine mosaics. 
