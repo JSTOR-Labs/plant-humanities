@@ -17,7 +17,7 @@
 <param title="Byzantine mosaics" eid="Q22948562">
 <param title="Kalahari Desert" eid="Q47700">
 <param title="Pliny" eid="Q82778">
-<param title="watermelon seed oil" eid="Q3819066" aliasaes="ootanga oil">
+<param title="watermelon seed oil" eid="Q3819066" aliases="ootanga oil">
 <param title="arhat" eid="Q225932" aliases="arhats">
 <param title="society in the Joseon Dynasty" eid="Q17166293" aliases="Joseon Dynasty">
 
