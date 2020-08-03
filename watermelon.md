@@ -188,7 +188,7 @@ title="Watermelon then and now" url="https://cdn.vox-cdn.com/uploads/chorus_asse
 
 ### Conclusion
 
-As we have seen throughout this essay, the watermelon has undergone significant transformation since it was first cultivated in northern Africa six thousand years ago. Throughout its history, the watermelon was valued variously for its size, its sweetness, its health-giving properties, its appearance. Watermelons today vary significantly around the world in shape and size. Novelty square and heart-shaped watermelons developed in 1980s Japan for easy fridge storage are sold today at high prices almost exclusively for decorative purposes, as they are necessarily underripe due to the constrictive molds in which they are grown.[^ref23] With consumer taste and market value governing the taste and form of watermelons grown, who knows what the future might hold… 
+As we have seen throughout this essay, the watermelon has undergone significant transformation since it was first cultivated in northern Africa six thousand years ago. Throughout its history, the watermelon has been valued variously for its size, its sweetness, its health-giving properties, its appearance. Watermelons today vary significantly around the world in shape and size. Novelty square and heart-shaped watermelons developed in 1980s Japan for easy fridge storage are sold today at high prices almost exclusively for decorative purposes, as they are necessarily underripe due to the constrictive molds in which they are grown.[^ref23] With consumer taste and market value governing the taste and form of watermelons grown, who knows what the future might hold… 
 <param ve-image
 title="Square watermelon from Japan" url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Square_watermelon.jpg"
        fit="contain"
@@ -217,6 +217,7 @@ title="Square watermelon from Japan" url="https://upload.wikimedia.org/wikipedia
 [^ref20]: https://www.nytimes.com/2010/08/18/dining/18melons.html
 [^ref21]: Goldy, R. (2012) ‘Seedless watermelon – how do they do that?’, Michigan State University Extension, [online], https://www.canr.msu.edu/news/seedless_watermelon_how_do_they_do_that, [Accessed: 24/07/20]; Rupp, R. (2015) ‘Watermelon May Be the Most Unnatural, Yet Delicious Fruit’, National Geographic, [online], https://www.nationalgeographic.com/culture/food/the-plate/2015/08/07/watermelon-may-be-the-most-unnatural-yet-delicious-fruit/, [Accessed: 24/07/20]
 [^ref22]: Deal Saxon, H. (2018) ‘Bees and watermelons’, The Statesboro Herald, [online], https://www.statesboroherald.com/local/bees-and-watermelons/, [Accessed: 24/07/20]; Melicher, D. (2019) ‘Road Trip: How Hive Transportation Puts Stress on Honey Bees’, Entomology Today, [online], https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees/, [Accessed: 24/07/20]
+[^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIxMTQyNTgxMzcsLTE1MjI2MTk0MjMsMT
