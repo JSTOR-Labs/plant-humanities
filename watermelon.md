@@ -74,6 +74,8 @@ title="Cucurbits on the Juliana Anicia Codex known as Vienna Dioscorides. Number
 <param ve-plant-specimen jeid="10.5555/al.ap.specimen.e00303054">
 
 By the ninth and twelfth centuries CE respectively, watermelons had arrived in India and China via regional routes.[^ref11] The watermelon and its sinewy vines soon became a decorative icon, with associations of vitality and playfulness that persist today. In fourteenth-century Japanese Buddhist representations of arhats (those reaching nirvana in Buddhist tradition), watermelons appear in spiritual terms as a religious offering. Early Korean paintings from the Joseon Dynasty by the female artist Shin Saimdang (1504–1551) also depicted watermelons, symbolically alongside flowers, butterflies and mice.[^ref12] The arching vines of the watermelon plant and seeds exposed by the mice symbolized wishes for healthy and abundant children, echoed in the nearby dianthus flower which represented a wish for “no white hairs,” or lasting youth. Another one of Shin’s depictions of watermelons appears on the 5000 won banknote today, as a reminder of Shin’s dedication to art, family, civic virtue and gender equality.[^ref13]
+<param ve-map time-selector="4000 BCE:1500" basemap="Esri_WorldPhysical" zoom="2" hide-labels>
+<param ve-map-layer geojson active url="https://raw.githubusercontent.com/may-wang/test/master/markers.json" title="Distribution">
 <param ve-image
 title="Satsubari, the Second of the Sixteen Arhats. Japan. Early 14th century." url="https://images.metmuseum.org/CRDImages/as/original/DP-12232-006.jpg"
        fit="contain"
@@ -97,11 +99,11 @@ title="'Anguriae' in Mathiolli's Dioscorides." url="https://www.archive.org/down
        fit="contain"
        attribution="BHL">
 <param ve-image
-title="Citrull cocumber in Gerard's Herbal" url="https://www.archive.org/download/mobot31753000817756/page/n949_w320"
+title="Citrull cocumber in Gerard's Herball" url="https://www.archive.org/download/mobot31753000817756/page/n949_w320"
        fit="contain"
        attribution="BHL">
 
-In the seventeenth to nineteenth centuries, the watermelon was commonly represented in European and American still lifes, providing a diverse visual archive of watermelon varieties. The seventeenth century watermelons of Albert Eckhout and Giovanni Stanchi, for example, exhibit whorls of red flesh amongst white rind and give us a sense of how much the watermelon has changed even in the last few hundred years. The inclusion of watermelons in still lifes also provides an insight into the multitude of cultural values associated with the fruit at the time. Whilst American still lifes, such as those of the prolific Peale family in the early nineteenth century, placed the melon amidst almost nauseating abundance and plenty, European artists would often cut through that fantasy quite literally with the abrupt imposition of a knife as a harsh reminder of the fleeting nature of life. 
+In the seventeenth to nineteenth centuries, the watermelon was commonly represented in European and American still lifes, providing a diverse visual archive of watermelon varieties. The seventeenth century watermelons of Albert Eckhout and Giovanni Stanchi, for example, exhibit whorls of red flesh amongst white rind and give us a sense of how much the watermelon has changed even in the last few hundred years. The inclusion of watermelons in still lifes also provides an insight into the multitude of cultural values associated with the fruit at the time. Whilst American still lifes, such as those of the prolific Peale family in the early nineteenth century, placed the melon amidst almost nauseating abundance and plenty, European artists would often cut through that fantasy quite literally with the abrupt imposition of a knife as a harsh reminder of the fleeting nature of life.
 <param ve-image
 title="Pineapple, watermelons and other fruits (Brazilian fruits)" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
        fit="contain"
@@ -128,6 +130,8 @@ title="Watercolours paintings of fruits from Asia. Early 19th century. South Eas
 ### Watermelons, Race, and the American South 
 
 Watermelons were brought to the Americas in the sixteenth century, introduced by colonists and African slaves and cultivated widely by indigenous populations and in slave gardens. After the 1863 Emancipation Proclamation, the watermelon briefly became a tool of black citizenship; the ease with which watermelons could be grown and sold meant that they became a source of income for freed slaves.[^ref15] Although the watermelon initially held a certain amount of emancipatory potential for African-Americans both through their sale enabling the escape of the plantation economy and through the consumption of watermelons as a public and communal activity enacting newfound freedoms, the watermelon soon became perceived as a threat by white southerners who proceeded to transform the fruit into a symbol of black people’s unfitness for freedom and citizenship.
+<param ve-map time-selector="4000 BCE:2000" basemap="Esri_WorldPhysical" zoom="2" hide-labels>
+<param ve-map-layer geojson active url="https://raw.githubusercontent.com/may-wang/test/master/markers.json" title="Distribution"> 
 <param ve-image
 title="African-American dancing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
        fit="contain"
