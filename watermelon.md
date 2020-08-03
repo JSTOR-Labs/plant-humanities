@@ -137,6 +137,10 @@ Stories of stolen watermelons similarly contributed to the establishment of blac
 ### “Cholera Bombshells”
 
 The racist belief in the unhealthy habits of African Americans also featured in nineteenth century associations between watermelons and disease. The common belief that eating too much watermelon, especially when overripe, could lead to cholera led some cities to ban the fruit’s sale during epidemics, watermelons referred to as “cholera bombshells”.[20] Whilst it is unclear whether such direct lines of causality between watermelons and cholera were accurate, contemporary evidence has shown that raw fruits and vegetables can be a frequent source of cholera infection, especially if fields are fertilized with uncomposted manure, or irrigated with contaminated water. The significance of watermelons specifically, rather than other types of fruit, in terms of cholera infections was almost certainly exaggerated to serve popular narratives in America at the time, but the association was also present in other parts of the world.
+<param ve-image
+title="Cholera Inteligence" url="images/054de03b-d835-43ba-a445-3f0e1024551e.jpeg"
+    fit="contain"
+    attribution="The National Inteligencer">
 
 In Korea at the turn of the twentieth century, for instance, British mine-owners turned to banning watermelons from the camps of their workers in order to prevent outbreaks of cholera. The logic behind this seemed to lay in the “immense quantities” of watermelons consumed by Korean workers, including the “rind” (probably the white pith, thought good for indigestion), again suggesting a continuity between a racialized critique of excess indulgence and the moralizing of disease. The campaign turned out to be successful, although whether or not that was down to the lack of watermelons is unclear.[22] Similarly, posters such as that shown here from the USSR in 1921 used watermelons to illustrate how various acts of poor hygiene could lead to cholera, from drinking unboiled water to eating unwashed fruit.
 <param ve-storiiies id="831fg">
