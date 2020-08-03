@@ -34,6 +34,7 @@ As the eleventh labor of his famous twelve, Hercules was sent to steal the golde
 
 Native to the Canary Islands, Cape Verde, and recently found growing natively on the West coast of Morocco, D. draco is somewhat ubiquitous along the Northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of D. draco in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and Dragon’s Blood between his crew and 500 Guanches, the indigenous population of the Canary Islands. 
 <param title="Cape Verde" eid="Q1011">
+<param ve-storiiies id="751f7">
 <param ve-map center="Q854" zoom="2" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="geojson/Dracaena draco native.json" title="Distribution range" active>
 
