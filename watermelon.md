@@ -23,7 +23,7 @@ title="Watermelon" url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bulg
        attribution="Wikimedia Commons">
 
 ### Whose Vine Is It Anyway?
-<param title="Citrullus" eid="Q132239">
+<param title="genus" eid="Q132239">
 Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the _Citrullus lanatus_ species, but the _Citrullus_ genus includes at least six other species of watermelons, including the citron _(C. amarus)_, egusi _(C. mucosospermus)_ and colocynth _(C. colocynthis)_ watermelons, which at one time were variously called or classified as subspecies of _C. lanatus_.[^ref2] Past taxonomies of the sweet dessert watermelon are therefore of minimal use for tracing its origins until further genetic analysis is undertaken; instead, literary references and visual depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
 <param ve-plant-specimen eid="Q30160603" max="2">
 
