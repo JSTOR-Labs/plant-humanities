@@ -90,7 +90,7 @@ Today, D. draco is officially designated as a vulnerable population on the Inter
 [^3]:
 [^4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt, (London: The Hakluyt Society, 1872), 70-71. On D. draco’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” Africa: Rivista trimestrale di studi e documentazione dell'Istituto italiano per l'Africa e l'Oriente 39, no. 3 (1984), 489-90.
 [^5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” British Cactus & Succulent Journal 17, no. 4 (December, 1999), 171-177; Jane Pearson and Hew D.V. Prendergast, “Daemonorops, Dracaena and Other Dragon’s Blood,” Economic Botany 55, no. 4 (October-December 2001), 474-477.
-[^6]:
+[^6]: “Villa de La Orotava Dragon Tree Tour: The Arautava Giant,” Ayuntamiento: Villa de La Orotava, accessed August 3, 2020, https://www.laorotava.es/en/tourism/discover-la-orotava/villa-de-la-orotava-dragon-tree-tour
 [^7]: Bontier & Le Verrier, The Canarian, 70-71.
 [^8]: Rajinder K. Gupta, Bruce Bleakley, Deepika Gupta, “Dragon’s Blood: Botany, chemistry and therapeutic uses,” Journal of Ethnopharmacology 115 (2008), 361.
 [^9]: John Gerard, The Herball, or Generall Historie of Plantes, (London, 1633), 1524; John Parkinson, Theatrum Botanicum, (London, 1640), 1532.
