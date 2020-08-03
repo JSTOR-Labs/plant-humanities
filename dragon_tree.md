@@ -26,12 +26,14 @@ Members of today’s Dracaena genus have long been valued for their signature re
 <param title="Dracaena genus" eid="Q158009">
 <param title="Dragon's Blood" eid="Q421877">
 <param title="Socotra" eid="Q82859">
-<param ve-image title="Vedic Tale of the Elephant and the Dragon" iiif-url="http://free.iiifhosting.com/iiif/89500bc7ac6918e3f1074c15fa332c9b2059b0b31adb218ae5400d413853d60a/" url="https://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=47205">
+<param ve-image title="Vedic Tale of the Elephant and the Dragon as depicted in Bestiary by Giraldus Cambrensis, 13th Century, as Provided by the British Museum" iiif-url="http://free.iiifhosting.com/iiif/89500bc7ac6918e3f1074c15fa332c9b2059b0b31adb218ae5400d413853d60a/" url="https://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=47205">
 
 
-As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads <Ladon image>. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars (Global Trees Campaign). As Dragon’s Blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that, “the dragon trees […] continue[d] to bleed the death of Ladon with a reddish oozing sap whenever they [got] cut” (apparently from a book “Heroes and Their Trees”). 
+As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars (Global Trees Campaign). As Dragon’s Blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that, “the dragon trees […] continue[d] to bleed the death of Ladon with a reddish oozing sap whenever they [got] cut.” 
+<param title="Ladon" eid="Q274600">
 
 Native to the Canary Islands, Cape Verde, and recently found growing natively on the West coast of Morocco, D. draco is somewhat ubiquitous along the Northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of D. draco in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and Dragon’s Blood between his crew and 500 Guanches, the indigenous population of the Canary Islands. 
+<param title="Cape Verde" eid="Q1011">
 <param ve-map center="Q854" zoom="2" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="geojson/Dracaena draco native.json" title="Distribution range" active>
 
