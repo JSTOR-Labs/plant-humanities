@@ -27,7 +27,8 @@
 <param title="still life" eid="Q170571" aliases="still lifes">
 <param title="Albert Eckhout" eid="Q2116186">
 <param title="Giovanni Stanchi" eid="Q3107339" aliases="Giovanni Stanchi">
-<parame title="Sarah Miriam Peale" eid="Q532010" aliases="Peale">
+<param title="Sarah Miriam Peale" eid="Q532010" aliases="Peale">
+<param title="Emancipation Proclamation" eid="Q391358">
 
 ### Watermelon, The Food Of Angels
 
@@ -122,15 +123,15 @@ title="Watercolours paintings of fruits from Asia. Early 19th century. South Eas
 
 ### Watermelons, Race, and the American South 
 
-Watermelons had been grown in the Americas since the sixteenth century, introduced by colonists and African slaves and cultivated widely by indigenous populations and in slave gardens. After the 1863 Emancipation Proclamation, the watermelon briefly became a tool of black citizenship; the ease with which watermelons could be grown and sold meant that they could became a source of income for freed slaves.[^ref15] Although initially holding a certain amount of emancipatory potential for African Americans both through their sale enabling the escape of the plantation economy, and through the eating of watermelons as a public and communal activity enacting newfound freedoms, the watermelon soon became perceived as a threat by white southerners who proceeded to transform the fruit into a symbol of black people’s unfitness for freedom and citizenship.
+Watermelons were brought to the Americas since the sixteenth century, introduced by colonists and African slaves and cultivated widely by indigenous populations and in slave gardens. After the 1863 Emancipation Proclamation, the watermelon briefly became a tool of black citizenship; the ease with which watermelons could be grown and sold meant that they became a source of income for freed slaves.[^ref15] Although the watermelon initially held a certain amount of emancipatory potential for African-Americans both through their sale enabling the escape of the plantation economy and through the consumption of watermelons as a public and communal activity enacting newfound freedoms, the watermelon soon became perceived as a threat by white southerners who proceeded to transform the fruit into a symbol of black people’s unfitness for freedom and citizenship.
 <param ve-image
-title="African american dacing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
+title="African-American dacing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
        fit="contain"
        attribution="Wikimedia commons">
        
-Certain characteristics of the watermelon made it conducive to racializing: its messiness when eating connoting uncleanliness, its easiness to grow implying laziness, its sweetness and colour connoting childishness. These aspects of the fruit were bound up with representations of African Americans whose taste for the melon were exaggerated to the point of naturalisation, the watermelon’s African origins cited as an explanation for black Americans’ apparently insatiable appetite for the fruit. Nineteenth-century newspapers were filled with anecdotes and reports which repeated these racial tropes until they masqueraded as truth. 
+Certain characteristics of the watermelon made it conducive to racializing: its messiness when being eaten supposedly connoted uncleanliness, its easiness to grow implied laziness, its sweetness and color connoted childishness. These aspects of the fruit were bound up with representations of African-Americans whose taste for the melon were exaggerated to the point of naturalisation; the watermelon’s African origins were cited as an explanation for Black Americans’ apparently insatiable appetite for the fruit. Nineteenth-century newspapers were filled with anecdotes and reports which repeated these racial tropes until they masqueraded as truth. 
 <param ve-image
-title="“In the earliest study of the natural history of the African his absorptive powers in the matter of watermelons came to the front and has always staid there. It is one of his most salient characteristics” (The New York Times, 1904)" url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-6A6EEDA3268C2_2001"
+title="“_In the earliest study of the natural history of the African his absorptive powers in the matter of watermelons came to the front and has always staid there. It is one of his most salient characteristics_” (The New York Times, 1904)" url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-6A6EEDA3268C2_2001"
        fit="contain"
        attribution="National Museum of African American History & Culture">
 <param ve-image
