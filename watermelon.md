@@ -54,7 +54,7 @@ title="Kalahari watermelon" url="https://i.dailymail.co.uk/i/pix/2017/06/29/17/4
        attribution="Dialy Mail">
 
     
-### Seing Red... Eventually
+### Seeing Red...Eventually
 
 Watermelons in ancient texts were written using a variety of terms including _pepon_, _melopepon_ and _kolokynte_. Around 77 CE, Pliny dedicated a section of his [_Natural History_](https://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL392.9.xml) to _pepones_, which, he wrote, made a very refreshing food, but also had a laxative effect. Various parts of the fruit were used to alleviate pain, to induce vomiting, and even to cleanse the skin and clear spots.[^ref9] Two thousand years later in 1888, watermelon was still being promoted as a face cleanser in reports by a Miss Carrie Townsend from St. Louis carried in US newspapers. Townsend, who felt sorry for girls with freckles who looked “as if they had been about when a bran bin had exploded,” claimed that no matter what was wrong with the face, the juice of the watermelon would rectify it.[^ref10] Although perhaps not quite as powerful as Townsend suggests, components of the watermelon are re-emerging as a natural skin cleanser today, such kalahari or ootanga oil traditionally extracted from the seeds in West Africa. 
 <param ve-image
