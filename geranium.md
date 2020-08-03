@@ -2,7 +2,7 @@
        title="A Pelargonium by any other name would smell as sweet…"
        banner="https://ids.lib.harvard.edu/ids/iiif/435776338/full/full/0/default.jpg"
        layout="vtl"
-       num-maps="1"
+       num-maps="2"
        num-specimens="2"
        num-images="10"
        num-primary-sources="15"
