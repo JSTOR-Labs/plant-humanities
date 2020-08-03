@@ -16,8 +16,7 @@
 As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the Dragon’s Blood they just ingested is truly as noxious as its name suggests. Though the epithet “Dragon’s Blood” brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this “blood” is in fact the resin of a very real tree. Dracaena draco, the centenary tree with a thick trunk and a distinctive, umbrella-style crown, captured the imaginations of great minds across the ages, from Antiquity’s Pliny the Elder (d. 79 AD)  to the Enlightenment’s Alexander von Humboldt (1769-1859) . Unlike Pliny, however, Humboldt was not the lone scholar of his age enthralled by the epic allure of the dragon tree, as other European naturalists like André Pierre Ledru (1761-1825) also flocked to D. draco’s native Canary Islands to study it around the turn of the nineteenth century. Soon after their initial encounters with Dragon’s Blood, they all may have realized that this strange sap occupied a liminal space between myth, legend, and scientific botany. 
 <param title="Pliny the Elder" eid="Q82778">
 <param title="Alexander von Humboldt" eid="Q6694">
-<param title="André Pierre Ledru" eid="Q2848440">
-<param ve-entity eid="Q2848440" title="André Pierre Ledru" article="André Pierre Ledru">
+<param title="André Pierre Ledru" eid="Q2848440" article="André_Pierre_Ledru">
 <param title="Canary Islands" eid="Q5813">
 <param ve-storiiies id="421e8">
 
