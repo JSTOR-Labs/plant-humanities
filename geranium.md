@@ -71,7 +71,7 @@ By the end of the Industrial Revolution, the *Pelargonium* was firmly instated a
 <param ve-image
 title="Shirley Hubberd’s Victorian garden plans, including bedding pelargoniums" url="https://www.biodiversitylibrary.org/pageimage/55342041" region="pct:20,10,60,60" attribution="Biodiversity Heritage Library">
 <param ve-image
-title="Shirley Hubberd’s Victorian garden plans, including bedding pelargoniums" url="https://www.biodiversitylibrary.org/pageimage/553420421" region="pct:20,10,60,60" attribution="Biodiversity Heritage Library">
+title="Shirley Hubberd’s Victorian garden plans, including bedding pelargoniums" url="https://www.biodiversitylibrary.org/pageimage/55342042" region="pct:20,10,60,60" attribution="Biodiversity Heritage Library">
 
 ### The "genteel" geranium and working-class culture
 The *Pelargonium’s* ubiquity in the Victorian era eventually began to carry a cultural significance all its own. In 1864’s *The Book of Flowers*, Caroline Kirkland follows the poet Leigh Hunt in describing the “Geranium” (of course, really a Pelargonium) as a *genteel* plant. She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel”.[^tbof] Of course, this might be understood as an attestation to the *Pelargonium’s* universal charms. However, if we look a little closer at the ways the Pelargonium was used in working class culture, we might suggest that the “genteel” nature of the plant actually be taken with a pinch of salt. 
