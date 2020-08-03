@@ -18,7 +18,7 @@
 Mark Twain once said that watermelon “is the chief of this world's luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat.” [^ref1] Though today “watermelon” calls to mind a sturdy melon with refreshing, sweet, red flesh, for most of its millennia long history as a cultivated crop it was known as a pale, hard, sometimes bitter fruit with relatively tender rind. Not until the sixth century CE were watermelons associated with sweet fruits like figs and grapes, and it was not until well into the 1400s that the uniformly red, thick-rinded watermelons that we recognize today began to appear. Throughout its history, the watermelon has been associated with medicine, vitality, racism, and disease, revealing a darker side to the sweet summer fruit we know and love. 
 <param ve-vis-network file="graphs/watermelon.csv">
 <param ve-image
-title="Watermelon" url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg"
+title="Watermelon" url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bulgarian_watermelon.JPG"
        fit="contain"
        attribution="Wikimedia Commons">
 
