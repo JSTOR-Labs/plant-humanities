@@ -21,6 +21,7 @@
 <param title="arhat" eid="Q225932" aliases="arhats">
 <param title="Joseon Dynasty" eid="Q28179" aliases="Joseon Dynasty">
 <param title="Shin Saimdang" eid="Q464485">
+<param title="Dianthius chinensis" eid="Q159013" aliases="dianthus flower">
 
 ### Watermelon, The Food Of Angels
 
