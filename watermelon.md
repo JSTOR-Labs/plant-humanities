@@ -11,8 +11,8 @@
 <param title="Watermelon" eid="Q17507129">
 <param title="Citrullus lanatus" eid="Q17507129" aliases="Anguria">
 <param title="Mark Twain" eid="Q7245">
-<param title="genus" eid="Q132239">
-<param title="phenotypes" eid="Q104053">
+<param title="genus" eid="Q132239" aliases="Citrullus">
+<param title="phenotypes" eid="Q104053" aliases="phenotypes">
 <param title="Nile Valley" eid="Q3392">
 <param title="Byzantine mosaics" eid="Q22948562">
 <param title="Kalahari Desert" eid="Q47700">
@@ -31,6 +31,9 @@
 <param title="Emancipation Proclamation" eid="Q391358">
 <param title="Thirteenth Amendment" eid="Q175613" aliases="13th Amendment">
 <param title="Crocus" eid="Q157806" aliases="crocuses">
+<param title="Citron" eid="Q30557566" aliases="citron">
+<param title="Egusi" eid="Q17429939" aliases="egusi">
+<param title="Colocynth" eid="Q913609" aliases="colocynth">
 
 ### Watermelon, The Food Of Angels
 
