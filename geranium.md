@@ -60,7 +60,7 @@ Geranium oil continues to be industrially produced in factories across the globe
 <param ve-map center="18.240663, 40.244245" zoom="2.9">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/djareid/Dumbarton-PH/master/industrial-oil.json" title="global geranium oil industries" active>
 
-## _Pelargonium-mania_ in the Victorian era
+## *Pelargonium-mania* in the Victorian era
 *Pelargoniums* first arrived in Europe as early as the 16th century, brought in by colonial voyages to South Africa by the Portuguese and the Dutch. However, it was in the Victorian era, when the Industrial Revolution was beginning to take hold, that the cultivation and display of these vivid flowering plants became a veritable cultural event. By this time, the scientific distinctions between *Pelargoniums* and *Geraniums* were well known, but *Pelargoniums* continued to be known for the most part by a misnomer; in Gertrude Jekyll’s 1919 publication [*Colour Schemes for the Flower Garden*](https://www.biodiversitylibrary.org/bibliography/63639#/summary), she remarks to this effect that, “There are no better summer flowers than the single and double zonal Pelargoniums that we commonly call Geraniums”.[^csftfg]
 <param title="Victorian era" eid="Q182688">
 <param ve-image
