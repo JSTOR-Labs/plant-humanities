@@ -96,6 +96,7 @@ A study conducted in 1991 on the water extract of _P. officinalis_ concluded tha
 <var data-primary="image"></var>
 <var data-image
      data-fit="cover"
+     data-title="Chemical structures of main components in total glucosides of peony."
      data-attribute="He DY, Dai SM. Anti-inflammatory and immunomodulatory effects of paeonia lactiflora pall., a traditional chinese herbal medicine. _Front Pharmacol_. 2011;2:10. Published 2011 Feb 25. doi:10.3389/fphar.2011.00010"
      data-url="hhttps://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click on image to zoom&p=PMC3&id=3108611_fphar-02-00010-g002.jpg"></var>
 
@@ -143,10 +144,10 @@ During the last few decades of her life, Anna Maria Luisa received numerous requ
 
 Anna Maria Luisa was well known for her miraculous powder, which contained a precipitation of a human skull of a man, who died violently but never buried, a precipitation of Oriental pearls, a precipitation of red coral and white coral, yellow amber, and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony root that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty neared.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1NTkzODA0LC04NjEwODgxNjgsLTY3OT
-M3MDI2MSw1NjMzNjI1NTEsNTYzMzYyNTUxLDE0NjgwNDk4MTMs
-LTExNjE1NTM5MywtMTI0NjUxODg4OCwtMjQ3NDM2MzU5LDE1OD
-M4NTU4MjAsLTE5OTk3NDM4ODgsLTgzNzI3NDQzNCwtMTk1MTk1
-Njk2NiwtMTc5NzkzMjQzOSwtMTAxMTY1MDA2MiwtMjM3MjA0Nj
-M4LDExNzU3Nzg1OThdfQ==
+eyJoaXN0b3J5IjpbLTEwMjUwMTY4OTUsLTg2MTA4ODE2OCwtNj
+c5MzcwMjYxLDU2MzM2MjU1MSw1NjMzNjI1NTEsMTQ2ODA0OTgx
+MywtMTE2MTU1MzkzLC0xMjQ2NTE4ODg4LC0yNDc0MzYzNTksMT
+U4Mzg1NTgyMCwtMTk5OTc0Mzg4OCwtODM3Mjc0NDM0LC0xOTUx
+OTU2OTY2LC0xNzk3OTMyNDM5LC0xMDExNjUwMDYyLC0yMzcyMD
+Q2MzgsMTE3NTc3ODU5OF19
 -->
