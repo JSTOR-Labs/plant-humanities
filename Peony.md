@@ -89,7 +89,7 @@ While modern western medicine tends to dismiss pre-modern therapeutics like Anna
 <var data-primary="image"></var>
 <var data-image
      data-fit="cover"
-     data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Papaver%20somniferum.jpg"></var>
+     data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/fphar-02-00010-g001.jpg"></var>
 
 A study conducted in 1991 on the water extract of _P. officinalis_ concluded that there are several chemical compounds found in the root, including paeoniflorin QID, albiflorin, oxypaeoniflorin, and gallotannins that have documented anticonvulsant properties. Furthermore, when isolated, the compounds albiflorin and gallotannin were proven to block extracellular calcium, which is linked to intracellular seizure-related phenomena. Paeoniflorin fractions also showed inhibition, but to a weaker extent. An additional study, which administered peony root extract (from _P. officinalis_) to rats, concluded that it was “a potent in vitro inhibitor of neuron damage in the CA1 area of the hippocampus.” The study also determined that peony root extract had protective effects on damaged neurons as well as anticonvulsant action when administered orally. Finally, the administration of antiepileptic drugs early has the potential to [alter the long-term course of epilepsy](https://www.jstor.org/stable/29726099), with the possibility of preventing it from becoming an “intractable disorder.” _(image of the compounds)_
 
@@ -137,7 +137,7 @@ During the last few decades of her life, Anna Maria Luisa received numerous requ
 
 Anna Maria Luisa was well known for her miraculous powder, which contained a precipitation of a human skull of a man, who died violently but never buried, a precipitation of Oriental pearls, a precipitation of red coral and white coral, yellow amber, and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony root that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty neared.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzI3MTcwOCwtODYxMDg4MTY4LC02Nz
+eyJoaXN0b3J5IjpbMTAxOTIwMTk4MiwtODYxMDg4MTY4LC02Nz
 kzNzAyNjEsNTYzMzYyNTUxLDU2MzM2MjU1MSwxNDY4MDQ5ODEz
 LC0xMTYxNTUzOTMsLTEyNDY1MTg4ODgsLTI0NzQzNjM1OSwxNT
 gzODU1ODIwLC0xOTk5NzQzODg4LC04MzcyNzQ0MzQsLTE5NTE5
