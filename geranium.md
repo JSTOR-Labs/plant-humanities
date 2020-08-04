@@ -36,11 +36,11 @@ title="Geraniums, Tulips, Groundsel, Cresses." url="https://ids.lib.harvard.edu/
 region="pct:20,28,50,50" attribution="Giraud, Jane Elizabeth, approximately 1820-approximately 1919, artist. The fête of the flowers. 1860. RARE J-3-2. Dumbarton Oaks Research Library, Washington, D.C.">
 
 
-## Global industrial production of pelargonium oils
+## Global industrial production of elaronium oils
 Pelargoniums play a vital role in tThe essential oil extraction industry, which provides the base material for the production of pharmaceuticals, and cosmetics, and perfumes. In particular, the Pelargonium's scented oils are used to create what we know as geranium oil, a commodity frequently used in aromatherapy, skincare, and even as a food flavouring production, among which is the perfume industry. The extraction of these oils is done by distillation and not taken directly, and the substances that evaporate and condense again are takencome from the leaves, stems, roots, flowers, fruits and seeds of the plant. This process of. This natural extraction involves the creation of extensive crops, factories, and the hiring of high labour. In this way, the geranium oil industry not only generates an international commercial network, but also reorganizes and transforms the territory.
 
 
-The most common known geranium oil is actually from one species of *Pelargoniums*, *P. graveolens* (also known as Geranium Rosat). However, when the essential oil was first distilled and introduced to the French colonies in Africa, it was actually a few years earlier than the first distinction of pelargoniums as an independent genus by L’Héritier in 1787. Therefore, the essential oil was inevitably misnamed as geranium oil, and this misnomer is still used nowadays.
+The most common known geranium oil is actually from one species of *niums*, *P. graveolens* (also known as Geranium Rosat). However, when the essential oil was first distilled and introduced to the French colonies in Africa, it was actually a few years earlier than the first distinction of pelargoniums as an independent genus by L’Héritier in 1787. Therefore, the essential oil was inevitably misnamed as geranium oil, and this misnomer is still used nowadays.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000417315">
 
 The Chiris factory in Algeria provides a case study for the industrial production of geranium essential oils (commonly known as Geranium oils). Founded in 1786 in the city of Grasse, near Monaco and the port of Marseille, the Chiris company specialized in the extraction of essential oils for the cosmetic industry. After the French Revolution in 1789, the perfume business began a process of democratization in which consumers no longer belonged only to the aristocracy but also to the bourgeoisie. This process was accentuated once the Industrial Revolution began to change the forms and systems of production and distribution and it was also accompanied by the colonial commercial networks. 
@@ -112,7 +112,7 @@ Besides the Algerian oil industry and the Victorian floriculture mentioned here,
 title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_ (_Pelargonium_) in Chinese." url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Tianzhu_Kui.png" fit="contain" attribution="Chinese Gongbi Line Drawing of Hundred Flowers (Autumn and Winter). Tianjin Yangliuqing Fine Arts Press. 2005.">
 
 ## Conclusion
-**By way of conclusion, we can deduce that the taxonomic mix-up entangling these two gen**Generally speaking, we can deduce that the misnomera did not only happen in the Western world; it has circulated and influenced other knowledge traditions worldwide. In this short essay, we have hopedTherefore, it is the time to clarify this misnomer, and to “redeem” the story of the Pelargonium as a separate entity from the Geranium - both in terms of its morphology, and the profound influence it has waged upon human cultures and industries spanning from West to East.**
+**By way of conclusion, we can deduce that the taxonomic mix-up entangling these two gen**Generally speaking, we can deduce that the misnomera did not only happen in the Western world; it has circulated and influenced other knowledge traditions worldwide. In this short essay, we have hopedTherefore, it is the time to clarify this misnomer, and to “redeem” the story of the Pelargonium as a separate entity from the Geranium - both in terms of its morphology, and the profound influence it has waged upon human cultures and industries spa
 <param ve-image
 title="Plant de géranium rouge: photographie / Eugène Blondelet" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/photo_pelargonuim.jpeg" fit="cover" attribution="Bibliothèque nationale de France, RESERVE EH9-18 (42-43)">
 
@@ -231,5 +231,5 @@ However, what goes up must of course come down – and, by the end of the 19th c
 [^s4]:Wilkinson, Anne, and Chris Beardshaw. The Passion for Pelargoniums: How They Found Their Place in the Garden. Stroud: The History Press, 2007.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTY3NTQ1Ml19
+eyJoaXN0b3J5IjpbNDU2NTgzMjIwLDE1MjE2NzU0NTJdfQ==
 -->
