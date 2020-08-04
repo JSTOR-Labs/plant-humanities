@@ -36,7 +36,8 @@ Members of today’s Dracaena genus have long been valued for their signature re
 As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^2] As Dragon’s Blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that "the source of "Dragon's Blood" [... is] the red blood of the dragon Ladon after it was killed by Hercules."[^3]
 <param title="Hercules" eid="Q122248">
 <param title="Ladon" eid="Q274600">
-<param ve-iiif-compare url1="https://free.iiifhosting.com/iiif/6f75f8643461e419d28159fdc552cd384cc7aa5bc1ae2e31b9e2c47b91fefd60/" url2="https://free.iiifhosting.com/iiif/6cc55de19b632d3825dca62a73603739fec0f7c6ba9fd9423d57e1c92b1529ca/">
+<param ve-iiif-compare 
+       url1="https://free.iiifhosting.com/iiif/6f75f8643461e419d28159fdc552cd384cc7aa5bc1ae2e31b9e2c47b91fefd60/info.json" url2="https://free.iiifhosting.com/iiif/6cc55de19b632d3825dca62a73603739fec0f7c6ba9fd9423d57e1c92b1529ca/info.json">
 
 Native to the Canary Islands, Cape Verde, Madeira, and recently found growing natively on the West coast of Morocco, D. draco is somewhat ubiquitous along the Northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of D. draco in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and Dragon’s Blood between his crew and 500 Guanches, the indigenous population of the Canary Islands.[^4] 
 <param title="Cape Verde" eid="Q1011">
