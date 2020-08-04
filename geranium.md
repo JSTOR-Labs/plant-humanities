@@ -34,7 +34,7 @@ title="Geraniums, Tulips, Groundsel, Cresses." url="https://ids.lib.harvard.edu/
 region="pct:20,28,50,50" attribution="Giraud, Jane Elizabeth, approximately 1820-approximately 1919, artist. The fête of the flowers. 1860. RARE J-3-2. Dumbarton Oaks Research Library, Washington, D.C.">
 
 
-## Global industrial production of geranium oils
+## Global industrial production of pelargonium oils
 Pelargoniums play a vital role in tThe essential oil extraction industry, which provides the base material for the production of pharmaceuticals, and cosmetics, and perfumes. In particular, the Pelargonium's scented oils are used to create what we know as geranium oil, a commodity frequently used in aromatherapy, skincare, and even as a food flavouring production, among which is the perfume industry. The extraction of these oils is done by distillation and not taken directly, and the substances that evaporate and condense again are takencome from the leaves, stems, roots, flowers, fruits and seeds of the plant. This process of. This natural extraction involves the creation of extensive crops, factories, and the hiring of high labour. In this way, the geranium oil industry not only generates an international commercial network, but also reorganizes and transforms the territory.
 
 
