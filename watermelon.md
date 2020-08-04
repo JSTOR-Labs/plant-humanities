@@ -107,8 +107,6 @@ title="'Anguriae' in Mathiolli's Dioscorides." url="https://www.archive.org/down
 title="Citrull cocumber in Gerard's Herball" url="https://www.archive.org/download/mobot31753000817756/page/n949_w320"
        fit="contain"
        attribution="BHL">
-<param ve-map time-selector="4000 BCE:1500" basemap="Esri_WorldPhysical" center="20.5937, 78.9629" zoom="2" hide-labels>
-<param ve-map-layer geojson active url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" title="Distribution">
 
 By the seventeenth to nineteenth centuries, the watermelon was a common minor crop in European gardens and began to appear frequently in European and American still lifes, providing a diverse visual archive of watermelon varieties. The seventeenth century watermelons of Albert Eckhout and Giovanni Stanchi, for example, exhibit whorls of red flesh amongst white rind and give us a sense of how much the watermelon has changed even in the last few hundred years. The inclusion of watermelons in still lifes also provides an insight into the multitude of cultural values associated with the fruit at the time. Whilst American still lifes, such as those of the prolific Peale family in the early nineteenth century, placed the melon amidst almost nauseating abundance and plenty, European artists would often cut through that fantasy quite literally with the abrupt imposition of a knife as a harsh reminder of the fleeting nature of life.
 <param ve-image
@@ -133,11 +131,13 @@ title="'Melon d'Eau,' Metamorphosis, Maria Sybilla Merian (1719)" url="https://i
 title="Watercolours  of fruits from Asia, early 19th century. South East Asia. Dumbarton Oaks collection." url="https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/013717125-album-pl-0015.jpg/@@images/image/zoom"
        fit="contain"
        attribution="Dumbarton Oaks">
+<param ve-map time-selector="4000 BCE:1500" basemap="Esri_WorldPhysical" center="20.5937, 78.9629" zoom="2" hide-labels>
+<param ve-map-layer geojson active url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" title="Distribution">
 
 ### Watermelons, Race, and the American South 
 
 Watermelons were brought to the Americas in the sixteenth century, introduced by colonists and African slaves and cultivated widely by indigenous populations and in slave gardens. After the 1863 Emancipation Proclamation, the watermelon briefly became a tool of black citizenship; the ease with which watermelons could be grown and sold meant that they became a source of income for freed slaves.[^ref15] Although the watermelon initially held a certain amount of emancipatory potential for African-Americans both through their sale enabling the escape of the plantation economy and through the consumption of watermelons as a public and communal activity enacting newfound freedoms, the watermelon soon became perceived as a threat by white southerners who proceeded to transform the fruit into a symbol of black people’s unfitness for freedom and citizenship.
-<param ve-map time-selector="1400:2000" basemap="Esri_WorldPhysical" center="27.6648, -81.5158" zoom="2.5" hide-labels>
+<param ve-map time-selector="1400:2000" basemap="Esri_WorldPhysical" center="27.6648, -81.5158" zoom="2" hide-labels>
 <param ve-map-layer geojson active url="https://raw.githubusercontent.com/may-wang/test/master/markers.json" title="Distribution"> 
 <param ve-image
 title="African-American dancing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
