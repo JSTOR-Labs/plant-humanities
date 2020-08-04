@@ -77,7 +77,7 @@ As Ledru remarked in his 1810 _Voyages aux îles de Ténériffe, la Trinité, Sa
 <param title="Isles of Fortune" eid="Q19211357"> 
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/IMG_9319.jpg">
 <param ve-image attribution="Image of a small outcrop of Dracaena draco trees at the oldest botanical garden on the Canary Islands, the Jardin Botanico Canario Viera y Clavijo in Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019.">
-<param ve-title="Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco" url="https://archive.org/details/voyageauxlesdet00sonngoog/page/n23/mode/2up">
+<param title="Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco" url="https://archive.org/details/voyageauxlesdet00sonngoog/page/n23/mode/2up">
 
 But even in the face of this acute anthropogenic pressure, the great dragon tree at Orotava persisted. Struck by the tree’s size, age, and enduring spirit, Ledru remarks on how even the most environmentally malicious conquistadors respected this centenary dragon tree.  Perhaps, then, to Humboldt’s delight, Ledru estimated that this special tree would easily live another one-hundred-fifty to two-hundred years.[^16]  
 <param ve-storiiies id="7b1dr">
@@ -90,6 +90,7 @@ Just as Humboldt and Ledru observed the centenary D. draco at Orotava and ponder
 
 Today, Dracaena draco is officially designated as a vulnerable population on the International Union for Conservation of Nature’s Red List of Threatened Species due to its near-extinction in the wild.[^20] This is due in part to the fact that the tree relies on animals to disperse its seeds, and the number of animals which are suitable dracaena draco seed dispersers has substantially decreased over time due to hunting and other forms of habitat destruction.[^21] Furthermore, as Ledru noted over two centuries ago, this population decline and endangerment is also due to over cultivation of the tree’s valuable resin. The number of wild specimens has never been lower than it is today, and even though there are projects to repopulate the islands through experiments in propagation and acclimatization, one wonders if ever again a Dracaena draco will grow to the size and magnificence of the one that so captivated the minds of travelers like Humboldt and Ledru.[^22] Perhaps, after its millennia-long smolder, the dragon’s flame will finally be snuffed out by the twenty-first century Anthropocene. 
 <param title="International Union for Conservation of Nature" eid="Q48268" aliases="International Union for Conservation of Nature">
+<Param title="Red List of Threatened Species" eid="Q32059">
 <param ve-image iiif-url="https://free.iiifhosting.com/iiif/31fb222aa31e439323c29d61cb363d5c897b02d8cde694ff946f0f6adbb00ad">
 
 [^1]: Though the focus of this article is on D. draco, there are many other species of tree that exude their own forms of dragon’s blood. These include the other 120 members of the Dracaena genus, in addition to several others. While these other trees certainly exude a resin identified as dragon’s blood, D. draco and Dracaena cinnabari are the two species the most-commonly referenced as the source of the resin in historical sources. 
