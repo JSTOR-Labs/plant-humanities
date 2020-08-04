@@ -110,7 +110,7 @@ title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_
 ## Conclusion
 **By way of conclusion, we can deduce that the taxonomic mix-up entangling these two gen**Generally speaking, we can deduce that the misnomera did not only happen in the Western world; it has circulated and influenced other knowledge traditions worldwide. In this short essay, we have hopedTherefore, it is the time to clarify this misnomer, and to “redeem” the story of the Pelargonium as a separate entity from the Geranium - both in terms of its morphology, and the profound influence it has waged upon human cultures and industries spanning from West to East.**
 <param ve-image
-title="Plant de géranium rouge: photographie / Eugène Blondelet" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/photo_pelargonuim.jpeg" fit="cover" attribution="Bibliothèque nationale de France, RESERVE EH9-18 (42-43)">s both West and East.**
+title="Plant de géranium rouge: photographie / Eugène Blondelet" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/photo_pelargonuim.jpeg" fit="cover" attribution="Bibliothèque nationale de France, RESERVE EH9-18 (42-43)">
 
 ## References
 [^datg]:Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
