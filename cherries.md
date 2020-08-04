@@ -1,35 +1,26 @@
-<pvaram ve-config data-essay
+<pvaram ve-config-y
      title="Cherry Blossom"
      author="Ron S"
-     data-banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/USA-Cherry_Blossom0.jpg/800px-USA-Cherry_Blossom0.jpg"
-     data-layout="vtl"
-     data-about="Q871991"></var>
+     atbanner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/USA-Cherry_Blossom0.jpg/800px-USA-Cherry_Blossom0.jpg"
+     layout="vtl">
 
-<pvaram title="cherry blossom" eid="Q871991"  data-category="plant"></var>
-<pvaram title="Dumbarton Oaks" eid="Q1264942">
+<varam title="cherry blossom" eid="Q871991"category="plant"><araam title="Dumbarton Oaks" eid="Q1264942">
+<param
+<ar title="Eleanor Patterson" eid="Q5122270"><araam title="hanami" eid="Q210150" category="activity">
+<param<ara title="Murasaki Shikibu" eid="Q81731"><araam title="Prunus" eid="Q190545">
 <param</var>
-<var title="Eleanor Patterson" eid="Q5122270"></var>
-<pvaram title="hanami" eid="Q210150" data-category="activity">
-<param</var>
-<var title="Murasaki Shikibu" eid="Q81731"></var>
-<pvaram title="Prunus" eid="Q190545">
-<param</var>
-<var title="Prunus serotina" eid="Q158987"></var>
-<pvaram title="Stockholm" eid="Q1754"></var>
-<pvaram title="The Tale of Genji" eid="Q8269"></var>
+<var title="Prunus serotina" eid="Q158987"><araam title="Stockholm" eid="Q1754">aaram title="The Tale of Genji" eid="Q8269">
 
-<pvaram title="Washington, D. C." 
+<varam title="Washington, D. C." 
        eid="Q61"
-       data-fill="#FF0000"
-       data-marker-symbol="landmark"
-     ></var>
+       fill="#FF0000"
+       marker-symbol="landmark">
 
-<pvaram title="West Yorkshire"
+<varam title="West Yorkshire"
        eid="Q23083"
-       data-fill="#FF0000"
-       data-marker-symbol="leaf">
-     ></var>
-
+       fill="#FF0000"
+       marker-symbol="leaf">
+   
 ## Cherry Blossom
 <var data-map id="intro-map" data-center="51.4,0.53" data-zoom="2" data-hide-labels="true"></var>
 <var data-map-layer
@@ -117,5 +108,6 @@ The Tale of Genji, written in the early years of the 11th century by the noblewo
 
 “The women had been too delighted with the game, young gentlemen heedless of how they scattered the blossoms, to worry about blinds and concealment.”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMzk1MDcyLC0xODA0NDc4NzQ3XX0=
+eyJoaXN0b3J5IjpbMTY3NTMwMDIwNiw5ODMzOTUwNzIsLTE4MD
+Q0Nzg3NDddfQ==
 -->
