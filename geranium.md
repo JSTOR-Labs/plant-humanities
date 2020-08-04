@@ -108,7 +108,7 @@ title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_
 ## Conclusion
 **Generally speaking, we can deduce that the misnomer did not only happen in the Western world; it has circulated and influenced other knowledge traditions worldwide. Therefore, it is the time to clarify this misnomer, and to “redeem” the story of Pelargoniums both West and East.**
 <param ve-image
-title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_ (_Pelargonium_) in Chinese." url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/photo_pelargonuim.jpeg" fit="cover" attribution="Chinese Gongbi Line Drawing of Hundred Flowers (Autumn and Winter). Tianjin Yangliuqing Fine Arts Press. 2005.">
+title="Plant de géranium rouge: photographie / Eugène Blondelet" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/photo_pelargonuim.jpeg" fit="cover" attribution="Bibliothèque nationale de France, RESERVE EH9-18 (42-43)">
 
 ## References
 [^datg]:Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
