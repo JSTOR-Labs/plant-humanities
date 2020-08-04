@@ -135,7 +135,16 @@ title="Cassava Garden" url="https://github.com/melindasusanto/demo1/blob/master/
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
 
+Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.## Subtitle
+Code to add a location with a custom marker on a map for every paragraph in this section.
+<param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
+
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<param ve-image
+title="Cassava Garden" url="Crosby.jpg"
+       fit="contain"
+       attribution="Courtesy of the artist">
+
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.The island of Sulawesi is where cassava was successfully planted.
 <param ve-map center="Q17" zoom="5" basemap="Esri_WorldPhysical">
@@ -169,5 +178,5 @@ This example also displays a type specimen from the Global Plants site for the s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1OTQ1MDI4XX0=
+eyJoaXN0b3J5IjpbNDc0NzI0NTM0LDM1NTk0NTAyOF19
 -->
