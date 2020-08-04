@@ -85,7 +85,7 @@ As we can see, for more than two thousand years numerous peony species were used
      data-fit="cover"
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Papaver%20somniferum.jpg"></var>
 
-While modern western medicine tends to dismiss pre-modern therapeutics like Anna Maria Luisa’s infant convulsion powder, numerous scientific studies on several species of peony used medically in East Asia have revealed isolated compounds that possess antitumor, antioxidant, anti-inflammatory, hepatoprotective, and antidiabetic properties. Peony roots and flowers continue to be used as a medicinal simple in Traditional Chinese [QID] and Ayurvedic [QID] medicine. While fewer studies have been conducted on European species of peony used medicinally, there have been several studies conducted to test for the bioactive compounds responsible for _P. officinalis’s_ effect on seizures.
+While modern western medicine tends to dismiss pre-modern therapeutics like Anna Maria Luisa’s infant convulsion powder, numerous scientific studies on several species of peony used medically in East Asia have revealed isolated compounds that possess antitumor, antioxidant, anti-inflammatory, hepatoprotective, and antidiabetic properties. Peony roots and flowers continue to be used as a medicinal simple in <span id="Q507443">Traditional Chinese</span> and <span id="Q132325">Ayurvedic</span> medicine. While fewer studies have been conducted on European species of peony used medicinally, there have been several studies conducted to test for the bioactive compounds responsible for _P. officinalis’s_ effect on seizures.
 <var data-primary="image"></var>
 <var data-image
      data-fit="contain"
@@ -154,11 +154,11 @@ During the last few decades of her life, Anna Maria Luisa received numerous requ
 
 Anna Maria Luisa was well known for her miraculous powder, which contained a precipitation of a human skull of a man, who died violently but never buried, a precipitation of Oriental pearls, a precipitation of red coral and white coral, yellow amber, and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony root that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty neared.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk1MjE2NTgsLTEwNjA1MTY2MDEsOD
-c4ODI1MTM3LC02ODEyNzM5OTksMTYzMDQzMTA0NSwtMTkzNTcz
-MTU4OSwtMTAyNTAxNjg5NSwtODYxMDg4MTY4LC02NzkzNzAyNj
-EsNTYzMzYyNTUxLDU2MzM2MjU1MSwxNDY4MDQ5ODEzLC0xMTYx
-NTUzOTMsLTEyNDY1MTg4ODgsLTI0NzQzNjM1OSwxNTgzODU1OD
-IwLC0xOTk5NzQzODg4LC04MzcyNzQ0MzQsLTE5NTE5NTY5NjYs
-LTE3OTc5MzI0MzldfQ==
+eyJoaXN0b3J5IjpbLTYyMjE4MzM4MSwtMTA2MDUxNjYwMSw4Nz
+g4MjUxMzcsLTY4MTI3Mzk5OSwxNjMwNDMxMDQ1LC0xOTM1NzMx
+NTg5LC0xMDI1MDE2ODk1LC04NjEwODgxNjgsLTY3OTM3MDI2MS
+w1NjMzNjI1NTEsNTYzMzYyNTUxLDE0NjgwNDk4MTMsLTExNjE1
+NTM5MywtMTI0NjUxODg4OCwtMjQ3NDM2MzU5LDE1ODM4NTU4Mj
+AsLTE5OTk3NDM4ODgsLTgzNzI3NDQzNCwtMTk1MTk1Njk2Niwt
+MTc5NzkzMjQzOV19
 -->
