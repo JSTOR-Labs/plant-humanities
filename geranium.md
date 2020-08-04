@@ -13,6 +13,7 @@
 <param title="Industrial Revolution" eid="Q2269">
 <param title="Species Plantarum" eid="Q849308">
 <param title="Pelargonium graveolens" eid="Q164306" aliases="P. graveolens">
+<param title="Pelargonium inquinans" eid="Q18083598" aliases="scarlet geranium">
 
 ## What's in a name?
 There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium.[^datg] With their vibrant red flowers and sweet, rosy scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color”[^mfsirh] at his country home, Gad’s Hill Place. Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of them was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums”[^mfsirh]. 
@@ -24,7 +25,6 @@ title="Scarlet geranium (acturally _Pelargonium inquinans_ as its botanical name
 fit="cover" attribution="Wikimemdia Commons">
 
 However, you might be surprised to learn that the red flower with which Dickens was so enamoured was not actually a Geranium. **In fact, it was a Pelargonium - *Pelargonium inquinans*, to be exact.** These two genera, similar but not exactly the same in terms of their morphology, have been embroiled in a long history of taxonomic confusion. In his famous *Species Plantarum* published in 1735, Carl Linnaeus mistakenly grouped Pelargoniums and Geraniums together into one genus, and that misgrouping ended up persisting for centuries - even after subsequent naturalists had proven that they were, in reality, two different genera. The public simply grew accustomed to using the name Geranium for both types of plant, and for the most part, we continue to use it in this way today.
-<param title="Pelargonium inquinans" eid="Q18083598">
 <param ve-image 
 title="Illustrations of _Pelargonium odoratissimum_ and _Pelargonium inquinans_" url="https://www.biodiversitylibrary.org/pageimage/53144785" 
 region="pct:55,40,20,20" attribution="Biodiversity Heritage Library">
