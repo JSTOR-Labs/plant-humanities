@@ -100,7 +100,7 @@ A study conducted in 1991 on the water extract of _P. officinalis_ concluded tha
      data-attribute="He DY, Dai SM. Anti-inflammatory and immunomodulatory effects of paeonia lactiflora pall., a traditional chinese herbal medicine. _Front Pharmacol_. 2011;2:10. Published 2011 Feb 25. doi:10.3389/fphar.2011.00010"
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/fphar-02-00010-g002.jpg"></var>
 
-Today, the primary approach to treating epilepsy and suppressing seizures is to alter the neural network’s excitability or inhibition by regulating chemical compounds such as sodium and calcium. Drugs like <span id="Q7124104">ethosuximide</span> reduce abnormal electrical activity in the brain by regulating calcium influx in cells. Thus, in contemporary western medicine there is little market demand to further investigate the peony root’s similar biochemical compounds or potential pharmaceutical applications. This lack of contemporary interest, however, does not make the biochemical activity of peony insignificant historically. The identification of active biochemical compounds suggest that Anna Maria Luisa’s powder might have actually improved the health of the children who received it! 
+Today, the primary approach to treating epilepsy and suppressing seizures is to alter the neural network’s excitability or inhibition by regulating chemical compounds such as sodium and calcium. Drugs like <span id="Q421567">ethosuximide</span> reduce abnormal electrical activity in the brain by regulating calcium influx in cells. Thus, in contemporary western medicine there is little market demand to further investigate the peony root’s similar biochemical compounds or potential pharmaceutical applications. This lack of contemporary interest, however, does not make the biochemical activity of peony insignificant historically. The identification of active biochemical compounds suggest that Anna Maria Luisa’s powder might have actually improved the health of the children who received it! 
 <var data-primary="image"></var>
 <var data-image
      data-fit="contain"
@@ -115,7 +115,7 @@ The probable effectiveness of her infant convulsion powder increased Anna Maria 
      data-title="Bound letters to and from Anna Maria Luisa de' Medici, 1733-1734, Archivio di Stato Firenze"
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Photo%20Jul%2011%2C%204%2057%2054%20AM.jpg"></var>
 
-The gift of “miraculous” medicine to the Viennese court was not simply altruistic. As a woman, Anna Maria Luisa was barred from inheriting and ruling Tuscany on the death of her brother, the last Medici Grand Duke QID. Although she lacked official power, Anna Maria Luisa fashioned influence through the gift of her infant convulsion powder, which allowed her to ingratiate herself with some of Vienna’s most important and powerful families. This ensured goodwill and communication between the Grand Duchy of Tuscany and the court that would decide its fate. By the end of the Medici dynasty, the Viennese court was the headquarters of the Habsburg dynasty [QID] and the center of its imperial politics. In 1737, Francis of Lorraine [QID], future head of the Holy Roman Empire [QID] which controlled much of Europe at this time, became the Grand Duke of Tuscany and ruled Florence from the imperial court in Vienna—a court much indebted to Anna Maria Luisa’s infant convulsion powder. _(image of AML)_
+The gift of “miraculous” medicine to the Viennese court was not simply altruistic. As a woman, Anna Maria Luisa was barred from inheriting and ruling Tuscany on the death of her brother, the <span id="Q421567">last Medici Grand Duke</span>. Although she lacked official power, Anna Maria Luisa fashioned influence through the gift of her infant convulsion powder, which allowed her to ingratiate herself with some of Vienna’s most important and powerful families. This ensured goodwill and communication between the Grand Duchy of Tuscany and the court that would decide its fate. By the end of the Medici dynasty, the Viennese court was the headquarters of the  <span id="Q421567">Habsburg dynasty</span> and the center of its imperial politics. In 1737, <span id="">Francis of Lorraine</span, future head of the Holy Roman Empire [QID] which controlled much of Europe at this time, became the Grand Duke of Tuscany and ruled Florence from the imperial court in Vienna—a court much indebted to Anna Maria Luisa’s infant convulsion powder. _(image of AML)_
 
 
 
@@ -154,11 +154,11 @@ During the last few decades of her life, Anna Maria Luisa received numerous requ
 
 Anna Maria Luisa was well known for her miraculous powder, which contained a precipitation of a human skull of a man, who died violently but never buried, a precipitation of Oriental pearls, a precipitation of red coral and white coral, yellow amber, and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony root that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty neared.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI2OTUyODksNzEyODU3MTgzLC0xMD
-YwNTE2NjAxLDg3ODgyNTEzNywtNjgxMjczOTk5LDE2MzA0MzEw
-NDUsLTE5MzU3MzE1ODksLTEwMjUwMTY4OTUsLTg2MTA4ODE2OC
-wtNjc5MzcwMjYxLDU2MzM2MjU1MSw1NjMzNjI1NTEsMTQ2ODA0
-OTgxMywtMTE2MTU1MzkzLC0xMjQ2NTE4ODg4LC0yNDc0MzYzNT
-ksMTU4Mzg1NTgyMCwtMTk5OTc0Mzg4OCwtODM3Mjc0NDM0LC0x
-OTUxOTU2OTY2XX0=
+eyJoaXN0b3J5IjpbLTY5Nzc2ODIwLDcxMjg1NzE4MywtMTA2MD
+UxNjYwMSw4Nzg4MjUxMzcsLTY4MTI3Mzk5OSwxNjMwNDMxMDQ1
+LC0xOTM1NzMxNTg5LC0xMDI1MDE2ODk1LC04NjEwODgxNjgsLT
+Y3OTM3MDI2MSw1NjMzNjI1NTEsNTYzMzYyNTUxLDE0NjgwNDk4
+MTMsLTExNjE1NTM5MywtMTI0NjUxODg4OCwtMjQ3NDM2MzU5LD
+E1ODM4NTU4MjAsLTE5OTk3NDM4ODgsLTgzNzI3NDQzNCwtMTk1
+MTk1Njk2Nl19
 -->
