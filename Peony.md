@@ -104,8 +104,8 @@ Today, the primary approach to treating epilepsy and suppressing seizures is to 
 <var data-primary="image"></var>
 <var data-image
      data-fit="contain"
-     data-title="Proposed treatment algorithm for childhood absence epilepsy. _AE_ adverse effects, _ETX_ ethosuximide, _GTC_ generalized tonic–clonic, _LTG_ lamotrigine, _VPA_ valproic acid"
-     data-attribute="He DY, Dai SM. Anti-inflammatory and immunomodulatory effects of paeonia lactiflora pall., a traditional chinese herbal medicine. _Front Pharmacol_. 2011;2:10. Published 2011 Feb 25. doi:10.3389/fphar.2011.00010"
+     data-title="Proposed treatment algorithm for childhood absence epilepsy. AE = adverse effects, ETX = ethosuximide, GTC = generalized tonic–clonic, LTG = lamotrigine, VPA = valproic acid"
+     data-attribute="Kessler, S.K., McGinnis, E. A Practical Guide to Treatment of Childhood Absence Epilepsy. _Pediatr Drugs_ **21,** 15–24 (2019). https://doi-org.ezp-prod1.hul.harvard.edu/10.1007/s40272-019-00325-x"
      data-url="https://link-springer-com.ezp-prod1.hul.harvard.edu/article/10.1007/s40272-019-00325-x/figures/2"></var>
 
 The probable effectiveness of her infant convulsion powder increased Anna Maria Luisa’s socio-political influence. In fact, several letters preserved in the Florence State Archive attest to the powder’s efficacy and popularity. In one such letter, the previously mentioned Viennese baroness wrote again to Anna Maria Luisa requesting additional portions of powder given the “extraordinary effects they had on three children from the most important families of Vienna.” Anna Maria Luisa replied that she would send the baroness as much of the powder as she desired to distribute to her friends, considering that she had “put the powder to such good use.” _(image of the letter)_
@@ -149,7 +149,7 @@ During the last few decades of her life, Anna Maria Luisa received numerous requ
 
 Anna Maria Luisa was well known for her miraculous powder, which contained a precipitation of a human skull of a man, who died violently but never buried, a precipitation of Oriental pearls, a precipitation of red coral and white coral, yellow amber, and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony root that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty neared.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ2ODE4MjAsMTYzMDQzMTA0NSwtMT
+eyJoaXN0b3J5IjpbLTEwOTE3NzA0NTksMTYzMDQzMTA0NSwtMT
 kzNTczMTU4OSwtMTAyNTAxNjg5NSwtODYxMDg4MTY4LC02Nzkz
 NzAyNjEsNTYzMzYyNTUxLDU2MzM2MjU1MSwxNDY4MDQ5ODEzLC
 0xMTYxNTUzOTMsLTEyNDY1MTg4ODgsLTI0NzQzNjM1OSwxNTgz
