@@ -1,6 +1,6 @@
 <param ve-config
        title="Traveling Narratives: Following the Dragon Tree Around the Worlditle of Your Narrative"
-       banner=image="header option 1.jpg"
+       banner="image/header option 1.jpg"
        layout="vtl"
        num-maps="x"
        num-specimens="x"
