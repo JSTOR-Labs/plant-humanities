@@ -15,6 +15,9 @@ The native distribution of cassava spans from western South American to Brazil. 
 <param ve-map-layer geojson url="https://github.com/rphirsch/cassava/blob/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
 <param ve-map-layer geojson url="https://github.com/melindasusanto/demo1/blob/master/AsiaPacific.json" title="SE Asia" fill="#92086D" marker-symbol="landmark" active>
 
+## A plant valued by ancient civilizations
+In Peru, there is evidence from ancient textiles, pottery and archaeobotanical findings that the Moche (250-750 C.E.), Nazca (200 B.C.E.-600 C.E.)  and Chimú (1000-1470 C.E.) cultures all used and valued cassava.
+ 
 To the right is an earthenware ceramic dating between the 5th and 7th centuries A.D. produced by the [Moche people](https://www.peabody.harvard.edu/node/2505) (1st-8th c. A.D.) in the northern Peruvian coast. The mouth is in the shape of [a stirrup-spout](https://www.metmuseum.org/toah/hd/moch/hd_moch.htm), to the front is a human-like head and neck, and the overall form of the legs and body is that of cassava roots. This [work of art](https://www.metmuseum.org/art/collection/search/308558) carries significant insight into just how highly the Moche valued cassava. Bottles with the stirrup-spout opening are thought to have been used in a non-utilitarian way, such as effigy, ritual or decorative as it is hard to practically use vessels with this type of opening. The iconography evident in the anthropomorphic aspect of this vessel indicate that it is of a high ranking deity. The fangs curling out of the mouth indicate godly status, and the half-crescent headdress indicates a high status. All of these details, accompanied by the fact that the body, tail and limbs of this figure are all modeled after cassava tubers, leads to the conclusion that cassava had a high status and was very important to daily life in Moche civilization.
 <param ve-image
 title="Earthenware ceramic" url="https://github.com/melindasusanto/demo1/blob/master/Moche.jpg"
@@ -26,11 +29,7 @@ title="Cassava Garden" url="https://github.com/melindasusanto/demo1/blob/master/
        attribution="Courtesy of the artist">
        
 ## Indigenous Food Uses
-The native distribution of cassava spans Western South America through Brazil, as indicated by the countries highlighted in green on the map to the right. Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots through several individual events by different people groups living in these areas around 8,000 B.C. From there, domesticated _Manihot esculenta_ spread by other domestication events or through short-distance trade of cuttings or seeds from the plant, rather than by transporting the perishable roots. Because cassava favors warm and hot climes, today it can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean. 
-<param ve-map prefer-geojson center="Q739" zoom="5" basemap="Esri_WorldPhysical">
-<param title="Brazil" eid="Q155">
-<param title="Peru" eid="Q419">
-<param title="Colombia" eid="Q739">
+Cassava is a starchy tuber and can be used to make a variety of dishes and beverages. Most commonly it is made into a starchy flour to produce breads and cakes, or it can be used to make fermented beverages. Some of the earliest descriptions of cassava as a food source are found in books written by European travelers to South America. 
 
 In Peru, there is evidence from ancient textiles, pottery and archaeobotanical findings that the Moche (A.D. 250-750), Nazca (200 B.C.-A.D. 600)  and Chimú (A.D. 1000-1470) cultures all valued cassava. To the right is a vessel from the Chimú culture depicting cassava roots.
 <param ve-image
@@ -148,9 +147,10 @@ Below is the code for adding a map. The center of the map can be set with longit
 <param ve-map center="Q17" zoom="5" basemap="Esri_WorldPhysical">
 
 Below is the code for adding a map with premade Geojson overlays. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-map prefer-geojson center="Q17" zoom="5" basemap="Esri_WorldPhysical">
-<param title="Italy" eid="Q38">
-<param title="Iran" eid="Q794">
+<param ve-map prefer-geojson center="Q739" zoom="5" basemap="Esri_WorldPhysical">
+<param title="Brazil" eid="Q155">
+<param title="Peru" eid="Q419">
+<param title="Colombia" eid="Q739">
 
 Below is the code for adding an IIIF annotated image created through Storiiies. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-storiiies id="fc1dn">
