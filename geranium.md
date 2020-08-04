@@ -96,7 +96,7 @@ Despite its long history of being known by a “false identity,” then, we can 
 <param ve-storiiies id="a51fu"> 
 
 ### Morphological differentiations
-The *Pelargonium* is a perennial bush, with a strong and aromatic smell. There are approximately 300 species of *Pelargonium*, originating from Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia (the *Geranium* only has roots in the Cape region of South Africa). The particular morphology of the plant actually lends the genus its name; *Pelargonium* comes from the Greek word *pelargos* (“stork”) which alludes to the long, almost beak-shaped fruit. 
+The *Pelargonium* is a perennial bush, with a strong and aromatic smell. There are approximately 300 species of *Pelargonium*, originating from Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. The particular morphology of the plant actually lends the genus its name; *Pelargonium* comes from the Greek word *pelargos* (“stork”) which alludes to the long, almost beak-shaped fruit. 
 
 In order to differentiate between the genera of *Pelargonium* and *Geranium*, it is necessary to focus on the reproductive system of the plant: the flower. In the *Pelargonium*, the arrangement of the flower parts is bilateral and not radial (as it is the case in the *Geranium*), which is to say that it has only one axis of symmetry. While the *Geranium* has five nectaries at the base of the petals, the *Pelargonium* has only one embedded in the receptacle. A final difference is the number of fertile stamens and their groupings. The *Pelargonium* has between one and seven stamens, attached at the base; the *Geranium*,  meanwhile, has either five or ten free stamens.
 
