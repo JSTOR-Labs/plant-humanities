@@ -14,6 +14,7 @@
 
 ## Introduction: A Desensitizing Sensory Experience
 As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the Dragon’s Blood they just ingested is truly as noxious as its name suggests. Though the epithet “Dragon’s Blood” brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this “blood” is in fact the resin of a very real tree. Dracaena draco, the centenary tree with a thick trunk and a distinctive, umbrella-style crown, captured the imaginations of great minds across the ages, from Antiquity’s Pliny the Elder (d. 79 AD)  to the Enlightenment’s Alexander von Humboldt (1769-1859). Unlike Pliny, however, Humboldt was not the lone scholar of his age enthralled by the epic allure of the dragon tree, as other European naturalists like André Pierre Ledru (1761-1825) also flocked to D. draco’s native Canary Islands to study it around the turn of the nineteenth century. Soon after their initial encounters with Dragon’s Blood, they all may have realized that this strange sap occupied a liminal space between myth, legend, and scientific botany. 
+<param title="Dragon's Blood" eid="Q421877">
 <param title="Pliny the Elder" eid="Q82778">
 <param title="Alexander von Humboldt" eid="Q6694">
 <param title="André Pierre Ledru" eid="Q2848440" article="André_Pierre_Ledru">
@@ -24,7 +25,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 
 Members of today’s Dracaena genus have long been valued for their signature red resin, Dragon’s Blood, that oozes from cuts in the bark of those trees.[^1]  The first known reports of Dragon’s Blood were dispersed through Pliny’s _Naturalis Historia_, where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of Dracaena cinnabari, the fascination with Dragon’s Blood also took a foothold in Europe through the infamous tale of Hercules. 
 <param title="Dracaena genus" eid="Q158009">
-<param title="Dragon's Blood" eid="Q421877">
+<param title="Naturalis Historia" eid="Q442">
 <param title="Socotra" eid="Q82859">
 <param ve-image title="Vedic Tale of the Elephant and the Dragon as depicted in Bestiary by Giraldus Cambrensis, 13th Century, as Provided by the British Museum" url="https://www.bl.uk/IllImages/Ekta/big/E043/E043090a.jpg">
 
@@ -35,6 +36,7 @@ As the eleventh labor of his famous twelve, Hercules was sent to steal the golde
 
 Native to the Canary Islands, Cape Verde, Madeira, and recently found growing natively on the West coast of Morocco, D. draco is somewhat ubiquitous along the Northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of D. draco in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and Dragon’s Blood between his crew and 500 Guanches, the indigenous population of the Canary Islands.[^4] 
 <param title="Cape Verde" eid="Q1011">
+<param title="Madeira" eid="Q26253">
 <param title="Jean de Béthencourt" eid="Q447602">
 <param ve-map center="Q1800" zoom="2" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="geojson/Dracaena draco native.json" title="Distribution range" active>
