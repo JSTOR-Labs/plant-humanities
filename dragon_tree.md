@@ -1,6 +1,6 @@
 <param ve-config
        title="Traveling Narratives: Following the Dragon Tree Around the Worlditle of Your Narrative"
-       banner="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%201.jpg"
+       banner="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%203.jpg"
        layout="vtl"
        num-maps="x"
        num-specimens="x"
