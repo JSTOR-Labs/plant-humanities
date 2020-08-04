@@ -107,11 +107,9 @@ The result, Brigham reports, is a “wholesome and very nutritious bread, which 
  
 Brigham also remarks that cassava bread loaves are attractive and would be easy to export, and suggests they be sold overseas for their dietary benefits.
 <param ve-image
-title="Cassava Garden" url="https://github.com/melindasusanto/demo1/blob/master/Crosby.jpg"
-       fit="contain"
-       attribution="Courtesy of the artist">
-<param ve-storiiies id="2e1e3">
-<param ve-video id="pUZijlho9CM" title="Crosby">
+title="Dutch East Indies, 1915" url="https://github.com/melindasusanto/demo1/blob/master/Indonesia.jpg"
+       fit="cover"
+       attribution="Wikimedia Commons">
 Brigham was not alone in his support of a more expansive cassava industry. Just a few decades before Brigham published Guatemala, the Director of Cultivation of Java ordered a new shipment of cassava to the island. A notable family from the island of Malacca also began  large-scale cultivation of the plant. Indeed, it seems that although there were earlier reports of cassava in Africa in the sixteenth century, it would take a few more centuries for the plant to become popularized beyond South America. English botanist Isaac Henry Burkill similarly observed that “there were two chapters in the establishment of the plant outside its home—one concerned with the carrying of it abroad as a vegetable, and the other with the establishment abroad of its industrial use. A long space of time separated them, as the plant was taken overseas as a vegetable about the year 1500, but the establishment of a tapioca [a cassava byproduct] industry outside America did not follow until two and a half centuries later.” Although it is difficult to ascertain by what routes cassava was taken overseas and exactly when it became popularized outside of South America, by the twentieth century, cassava was being actively grown as a crop in southern North America, central Africa, and South and Southeast Asia.
 
 <param ve-image
