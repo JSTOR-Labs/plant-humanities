@@ -1,5 +1,5 @@
 <param ve-config
-       title="Dracaena Draco: The Timeless Canadian Dragon"
+       title="Dracaena Draco: The Timeless Canarian Dragon"
        banner="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%202.1%20adjust%20prop.jpg"
        layout="vtl"
        num-maps="x"
@@ -93,7 +93,7 @@ Today, Dracaena draco is officially designated as a vulnerable population on the
 [^4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt, (London: The Hakluyt Society, 1872), 70-71. On D. draco’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” Africa: Rivista trimestrale di studi e documentazione dell'Istituto italiano per l'Africa e l'Oriente 39, no. 3 (1984), 489-90.
 [^5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” British Cactus & Succulent Journal 17, no. 4 (December, 1999), 171-177; Jane Pearson and Hew D.V. Prendergast, “Daemonorops, Dracaena and Other Dragon’s Blood,” Economic Botany 55, no. 4 (October-December 2001), 474-477.
 [^6]: “Villa de La Orotava Dragon Tree Tour: The Arautava Giant,” Ayuntamiento: Villa de La Orotava, accessed August 3, 2020, https://www.laorotava.es/en/tourism/discover-la-orotava/villa-de-la-orotava-dragon-tree-tour
-[^7]: Bontier & Le Verrier, The Canarian, 70-71.
+[^7]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt, (London: The Hakluyt Society, 1872), 70-71.
 [^8]: Rajinder K. Gupta, Bruce Bleakley, Deepika Gupta, “Dragon’s Blood: Botany, chemistry and therapeutic uses,” Journal of Ethnopharmacology 115 (2008), 361.
 [^9]: John Gerard, The Herball, or Generall Historie of Plantes, (London, 1633), 1524; John Parkinson, Theatrum Botanicum, (London, 1640), 1532.
 [^10]: Alexander von Humboldt, Cosmos: A sketch of the Physical Description of the Universe, vol. 2, (London: 1849), 372.
@@ -101,8 +101,8 @@ Today, Dracaena draco is officially designated as a vulnerable population on the
 [^12]: Alexander von Humboldt, Personal narrative of travels to the equinoctial regions of America during the years 1799-1804, vol. 1, (London: Routledge, 1895), 62. On Humboldt’s environmentalism: Laura Dassow Walls, “Rediscovering Humboldt’s Environmental Revolution,” Environmental History 10, no. 4 (2005), 758-60. 
 [^13]: Humboldt, Personal Narrative, vol. 1, 502.
 [^14]: André Pierre Ledru, Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco, (Paris: Arthus Bertrand, 1810), 81-82.
-[^15]: Ledru, Voyages, 93.
-[^16]: Ledru, Voyages, 93. 
+[^15]: André Pierre Ledru, Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco, (Paris: Arthus Bertrand, 1810), 93.
+[^16]: André Pierre Ledru, Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco, (Paris: Arthus Bertrand, 1810), 93. 
 [^17]: Alice Carter Cook, “The Dragon Tree of Orotava,” The Plant World 4 no. 7 (July 1901), 124.
 [^18]: Joanna Jura-Morawiec and Mirela Tulik. “Dragon’s blood secretion and its ecological significance.”
 [^19]: Deepika Gupta a, Bruce Bleakley b, Rajinder K. Gupta. “Dragon’s blood: Botany, chemistry and therapeutic uses.”
