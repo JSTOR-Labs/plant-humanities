@@ -42,6 +42,7 @@ The most common known geranium oil is actually from one species of *Pelargoniums
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000417315">
 
 The Chiris factory in Algeria provides a case study for the industrial production of geranium essential oils (commonly known as Geranium oils). Founded in 1786 in the city of Grasse, near Monaco and the port of Marseille, the Chiris company specialized in the extraction of essential oils for the cosmetic industry. After the French Revolution in 1789, the perfume business began a process of democratization in which consumers no longer belonged only to the aristocracy but also to the bourgeoisie. This process was accentuated once the Industrial Revolution began to change the forms and systems of production and distribution and it was also accompanied by the colonial commercial networks. 
+<param title="French Revolution" eid="Q6534">
 <param ve-image
 title="Les etu A. Chiris s'installent dans le Monde entier" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Les_etu.jpg" fit="cover" attribution="David Rumsey Historical Map Collection">
 
