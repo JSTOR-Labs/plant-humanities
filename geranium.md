@@ -18,7 +18,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 <param ve-image static
 title="Charles Dickens with his two daughters at Gad’s Hill, pseudonymous, published 1869. We can note the staged “theatre” of potted geraniums that Dickens placed just beneath the bay windows of the house on the right hand side of the photo." url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg/2048px-Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" fit="cover" attribution="Wikimedia Commons">
 <param ve-image 
-title="Scarlet geranium" url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" 
+title="Scarlet geranium (acturally _Pelargonium inquinans_ as its botanical name)" url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" 
 fit="cover" attribution="Wikimemdia Commons">
 
 However, you might be surprised to learn that the red flower with which Dickens was so enamoured was not actually a Geranium. **In fact, it was a Pelargonium - *Pelargonium inquinans*, to be exact.** These two genera, similar but not exactly the same in terms of their morphology, have been embroiled in a long history of taxonomic confusion. In his famous *Species Plantarum* published in 1735, Carl Linnaeus mistakenly grouped Pelargoniums and Geraniums together into one genus, and that misgrouping ended up persisting for centuries - even after subsequent naturalists had proven that they were, in reality, two different genera. The public simply grew accustomed to using the name Geranium for both types of plant, and for the most part, we continue to use it in this way today.
