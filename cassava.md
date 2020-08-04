@@ -8,13 +8,6 @@
        num-primary-sources="x"
        author="Christina Emery, Rachel Hirsch, Melinda Susanto">
 
-<param title="Beatrix Farrand" eid="Q437714">
-<param title="cherry blossom" eid="Q871991">
-<param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
-
-<param title="Beatrix Farrand" eid="Q437714">
-<param title="cherry blossom" eid="Q871991">
-
 ## Introduction 
 To the right is an earthenware ceramic dating between the 5th and 7th centuries A.D. produced by the [Moche people](https://www.peabody.harvard.edu/node/2505) (1st-8th c. A.D.) in the northern Peruvian coast. The mouth is in the shape of [a stirrup-spout](https://www.metmuseum.org/toah/hd/moch/hd_moch.htm), to the front is a human-like head and neck, and the overall form of the legs and body is that of cassava roots. This [work of art](https://www.metmuseum.org/art/collection/search/308558) carries significant insight into just how highly the Moche valued cassava. Bottles with the stirrup-spout opening are thought to have been used in a non-utilitarian way, such as effigy, ritual or decorative as it is hard to practically use vessels with this type of opening. The iconography evident in the anthropomorphic aspect of this vessel indicate that it is of a high ranking deity. The fangs curling out of the mouth indicate godly status, and the half-crescent headdress indicates a high status. All of these details, accompanied by the fact that the body, tail and limbs of this figure are all modeled after cassava tubers, leads to the conclusion that cassava had a high status and was very important to daily life in Moche civilization.
 <param ve-image
