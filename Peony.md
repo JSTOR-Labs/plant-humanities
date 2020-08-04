@@ -79,7 +79,7 @@ In addition to the “cleansing” and purgative properties associated with peon
      data-url="https://www.biodiversitylibrary.org/pageimage/51906362"></var>
 
 ### Nature's Pharmaceuticals
-As we can see, for more than two thousand years numerous peony species were used as a powerful herbal therapeutic across societies in Europe and Asia. <span id="Q861699">Herbal medicine</span> in the western tradition, however, changed dramatically over the course of the late-eighteenth and nineteenth centuries as European chemists, botanists, and physicians began favoring the creation of <span id="Q861699">standardized and systematic medical experimentation</span> to assess the efficacy of plant medicines and identify and isolate their active chemical compounds. This led to an emphasis on the individual organic compounds within plants and the organic chemical synthesis of these compounds to produce more effective drugs. It also marked the birth of modern pharmaceuticals, many of which are derived or synthetic analogues of naturally occurring chemical structures. The ability to isolate, purify, and synthesize chemical structures created highly efficacious and powerful drugs [QID]. Thus, despite being the antecedent of modern chemical pharmaceuticals, herbal simples and compound herbal medicines were slowly replaced and increasingly viewed as outdated, crude, ineffectual, and, in some cases, even dangerous.
+As we can see, for more than two thousand years numerous peony species were used as a powerful herbal therapeutic across societies in Europe and Asia. <span id="Q861699">Herbal medicine</span> in the western tradition, however, changed dramatically over the course of the late-eighteenth and nineteenth centuries as European chemists, botanists, and physicians began favoring the creation of <span id="Q7806442">standardized and systematic medical experimentation</span> to assess the efficacy of plant medicines and identify and isolate their active chemical compounds. This led to an emphasis on the individual organic compounds within plants and the organic chemical synthesis of these compounds to produce more effective drugs. It also marked the birth of modern pharmaceuticals, many of which are derived or synthetic analogues of naturally occurring chemical structures. The ability to isolate, purify, and synthesize chemical structures created <span id="Q507443">highly efficacious and powerful drugs</span>. Thus, despite being the antecedent of modern chemical pharmaceuticals, herbal simples and compound herbal medicines were slowly replaced and increasingly viewed as outdated, crude, ineffectual, and, in some cases, even dangerous.
 <var data-primary="image"></var>
 <var data-image
      data-fit="cover"
@@ -154,11 +154,11 @@ During the last few decades of her life, Anna Maria Luisa received numerous requ
 
 Anna Maria Luisa was well known for her miraculous powder, which contained a precipitation of a human skull of a man, who died violently but never buried, a precipitation of Oriental pearls, a precipitation of red coral and white coral, yellow amber, and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony root that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty neared.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjA1MTY2MDEsODc4ODI1MTM3LC02OD
-EyNzM5OTksMTYzMDQzMTA0NSwtMTkzNTczMTU4OSwtMTAyNTAx
-Njg5NSwtODYxMDg4MTY4LC02NzkzNzAyNjEsNTYzMzYyNTUxLD
-U2MzM2MjU1MSwxNDY4MDQ5ODEzLC0xMTYxNTUzOTMsLTEyNDY1
-MTg4ODgsLTI0NzQzNjM1OSwxNTgzODU1ODIwLC0xOTk5NzQzOD
-g4LC04MzcyNzQ0MzQsLTE5NTE5NTY5NjYsLTE3OTc5MzI0Mzks
-LTEwMTE2NTAwNjJdfQ==
+eyJoaXN0b3J5IjpbLTE3MDk1MjE2NTgsLTEwNjA1MTY2MDEsOD
+c4ODI1MTM3LC02ODEyNzM5OTksMTYzMDQzMTA0NSwtMTkzNTcz
+MTU4OSwtMTAyNTAxNjg5NSwtODYxMDg4MTY4LC02NzkzNzAyNj
+EsNTYzMzYyNTUxLDU2MzM2MjU1MSwxNDY4MDQ5ODEzLC0xMTYx
+NTUzOTMsLTEyNDY1MTg4ODgsLTI0NzQzNjM1OSwxNTgzODU1OD
+IwLC0xOTk5NzQzODg4LC04MzcyNzQ0MzQsLTE5NTE5NTY5NjYs
+LTE3OTc5MzI0MzldfQ==
 -->
