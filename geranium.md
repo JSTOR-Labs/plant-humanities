@@ -105,6 +105,7 @@ Besides the Algerian oil industry and the Victorian floriculture mentioned here,
 <param ve-image static
 title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_ (_Pelargonium_) in Chinese." url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Tianzhu_Kui.png" fit="contain" attribution="Chinese Gongbi Line Drawing of Hundred Flowers (Autumn and Winter). Tianjin Yangliuqing Fine Arts Press. 2005.">
 
+## Conclusion
 **Generally speaking, we can deduce that the misnomer did not only happen in the Western world; it has circulated and influenced other knowledge traditions worldwide. Therefore, it is the time to clarify this misnomer, and to “redeem” the story of Pelargoniums both West and East.**
 
 ## References
