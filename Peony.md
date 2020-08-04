@@ -116,7 +116,11 @@ The probable effectiveness of her infant convulsion powder increased Anna Maria 
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Photo%20Jul%2011%2C%204%2057%2054%20AM.jpg"></var>
 
 The gift of “miraculous” medicine to the Viennese court was not simply altruistic. As a woman, Anna Maria Luisa was barred from inheriting and ruling Tuscany on the death of her brother, the <span id="Q256580">last Medici Grand Duke</span>. Although she lacked official power, Anna Maria Luisa fashioned influence through the gift of her infant convulsion powder, which allowed her to ingratiate herself with some of Vienna’s most important and powerful families. This ensured goodwill and communication between the Grand Duchy of Tuscany and the court that would decide its fate. By the end of the Medici dynasty, the Viennese court was the headquarters of the  <span id="Q256580">Habsburg dynasty</span> and the center of its imperial politics. In 1737, <span id="Q151075">Francis of Lorraine</span>, future head of the <span id="Q12548">Holy Roman Empire</span> which controlled much of Europe at this time, became the Grand Duke of Tuscany and ruled Florence from the imperial court in Vienna—a court much indebted to Anna Maria Luisa’s infant convulsion powder.
-
+<var data-primary="image"></var>
+<var data-image
+     data-fit="contain"
+     data-title="Bound letters to and from Anna Maria Luisa de' Medici, 1733-1734, Archivio di Stato Firenze"
+     data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Photo%20Jul%2011%2C%204%2057%2054%20AM.jpg"></var>
 
 
 [^a]: text text text
@@ -145,20 +149,12 @@ _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525Peaonia" id="Q
 <var title="Anna Maria Luisa de' Medici" id="Q233181"></var>
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 
-### From an Ancient Cure to an Early Modern Tool of Statecraft
-
-In 1735, a Viennese baroness wrote to the last Medici princess, Anna Maria Luisa de' Medici (1669-1743), to thank her for sending a miraculous infant convulsion powder. In her letter, the baroness praised the powder’s effectiveness and stated that the children she treated with it had been so violently taken by convulsions that the physicians had “given up on them.” Not only had the “miraculous powders” cured the children, the baroness also stated that a number of months had passed, and the children remained in perfect health.
-<param ve-storiiies id="fc1dn">
-
-During the last few decades of her life, Anna Maria Luisa received numerous requests for her famed infant convulsion powder, and she distributed it strategically to prominent European courts to garner political and social prestige. The Viennese court was of particular importance as it was both the headquarters of the Habsburg dynasty and the center of imperial politics. In 1737, with the death of her brother, the last Medici Grand Duke, Tuscany officially became a satellite state of the Habsburgs. Francis of Lorraine, the future Holy Roman Emperor and founder of the Habsburg-Lorraine dynasty, became the Tuscan Grand Duke and ruled Florence from the imperial court in Vienna; a court that was much indebted to Anna Maria Luisa’s infant convulsion powder.
-
-Anna Maria Luisa was well known for her miraculous powder, which contained a precipitation of a human skull of a man, who died violently but never buried, a precipitation of Oriental pearls, a precipitation of red coral and white coral, yellow amber, and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony root that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty neared.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjEyNzE1NjYsLTE4MzIwNDQwNTksNz
-EyODU3MTgzLC0xMDYwNTE2NjAxLDg3ODgyNTEzNywtNjgxMjcz
-OTk5LDE2MzA0MzEwNDUsLTE5MzU3MzE1ODksLTEwMjUwMTY4OT
-UsLTg2MTA4ODE2OCwtNjc5MzcwMjYxLDU2MzM2MjU1MSw1NjMz
-NjI1NTEsMTQ2ODA0OTgxMywtMTE2MTU1MzkzLC0xMjQ2NTE4OD
-g4LC0yNDc0MzYzNTksMTU4Mzg1NTgyMCwtMTk5OTc0Mzg4OCwt
-ODM3Mjc0NDM0XX0=
+eyJoaXN0b3J5IjpbODQxODI2MTI3LC0xODMyMDQ0MDU5LDcxMj
+g1NzE4MywtMTA2MDUxNjYwMSw4Nzg4MjUxMzcsLTY4MTI3Mzk5
+OSwxNjMwNDMxMDQ1LC0xOTM1NzMxNTg5LC0xMDI1MDE2ODk1LC
+04NjEwODgxNjgsLTY3OTM3MDI2MSw1NjMzNjI1NTEsNTYzMzYy
+NTUxLDE0NjgwNDk4MTMsLTExNjE1NTM5MywtMTI0NjUxODg4OC
+wtMjQ3NDM2MzU5LDE1ODM4NTU4MjAsLTE5OTk3NDM4ODgsLTgz
+NzI3NDQzNF19
 -->
