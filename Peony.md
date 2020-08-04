@@ -111,7 +111,7 @@ Today, the primary approach to treating epilepsy and suppressing seizures is to 
 The probable effectiveness of her infant convulsion powder increased Anna Maria Luisa’s socio-political influence. In fact, several letters preserved in the Florence State Archive attest to the powder’s efficacy and popularity. In one such letter, the previously mentioned Viennese baroness wrote again to Anna Maria Luisa requesting additional portions of powder given the “extraordinary effects they had on three children from the most important families of Vienna.” Anna Maria Luisa replied that she would send the baroness as much of the powder as she desired to distribute to her friends, considering that she had “put the powder to such good use.” 
 <var data-primary="image"></var>
 <var data-image
-     data-fit="contain" rotate="90"
+     data-fit="cover" rotate="90"
      data-title="Bound letters to and from Anna Maria Luisa de' Medici, 1733-1734, Archivio di Stato Firenze"
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Photo%20Jul%2011%2C%204%2057%2054%20AM.jpg"></var>
 
@@ -150,11 +150,11 @@ _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525Peaonia" id="Q
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg0OTgyOCwtMzE4NjYyMjA3LC0xOD
-MyMDQ0MDU5LDcxMjg1NzE4MywtMTA2MDUxNjYwMSw4Nzg4MjUx
-MzcsLTY4MTI3Mzk5OSwxNjMwNDMxMDQ1LC0xOTM1NzMxNTg5LC
-0xMDI1MDE2ODk1LC04NjEwODgxNjgsLTY3OTM3MDI2MSw1NjMz
-NjI1NTEsNTYzMzYyNTUxLDE0NjgwNDk4MTMsLTExNjE1NTM5My
-wtMTI0NjUxODg4OCwtMjQ3NDM2MzU5LDE1ODM4NTU4MjAsLTE5
-OTk3NDM4ODhdfQ==
+eyJoaXN0b3J5IjpbLTIxMDkwMjI2MzEsLTMxODY2MjIwNywtMT
+gzMjA0NDA1OSw3MTI4NTcxODMsLTEwNjA1MTY2MDEsODc4ODI1
+MTM3LC02ODEyNzM5OTksMTYzMDQzMTA0NSwtMTkzNTczMTU4OS
+wtMTAyNTAxNjg5NSwtODYxMDg4MTY4LC02NzkzNzAyNjEsNTYz
+MzYyNTUxLDU2MzM2MjU1MSwxNDY4MDQ5ODEzLC0xMTYxNTUzOT
+MsLTEyNDY1MTg4ODgsLTI0NzQzNjM1OSwxNTgzODU1ODIwLC0x
+OTk5NzQzODg4XX0=
 -->
