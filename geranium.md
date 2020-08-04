@@ -36,7 +36,7 @@ title="Geraniums, Tulips, Groundsel, Cresses." url="https://ids.lib.harvard.edu/
 region="pct:20,28,50,50" attribution="Giraud, Jane Elizabeth, approximately 1820-approximately 1919, artist. The fête of the flowers. 1860. RARE J-3-2. Dumbarton Oaks Research Library, Washington, D.C.">
 
 
-## Global industrial production of *Pelargonium* oils
+## Global industrial production of Pelargonium oils
 *Pelargoniums* play a significant role in the essential oil extraction industry, which provides the base material for the production of pharmaceuticals, cosmetics, and perfumes. In particular, the *Pelargonium* is used to create what we know as geranium oil, a commodity frequently instrumentalised in aromatherapy, skincare, and even as a food flavouring. The extraction of these oils is done by distillation and not taken directly, and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant. This process of natural extraction involves the creation of extensive crops, factories, and the hiring of high labour. In this way, the geranium oil industry not only generates an international commercial network, but also reorganizes and transforms the territory.
 
 
@@ -60,7 +60,7 @@ Geranium oil continues to be industrially produced in factories across the globe
 <param ve-map center="18.240663, 40.244245" zoom="2.9">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/djareid/Dumbarton-PH/master/industrial-oil.json" title="global geranium oil industries" active>
 
-## *Pelargonium*-mania in the Victorian era
+## Pelargonium-mania in the Victorian era
 *Pelargoniums* first arrived in Europe as early as the 16th century, brought in by colonial voyages to South Africa by the Portuguese and the Dutch. However, it was in the Victorian era, when the Industrial Revolution was beginning to take hold, that the cultivation and display of these vivid flowering plants became a veritable cultural event. By this time, the scientific distinctions between *Pelargoniums* and *Geraniums* were well known, but *Pelargoniums* continued to be known for the most part by a misnomer; in Gertrude Jekyll’s 1919 publication [*Colour Schemes for the Flower Garden*](https://www.biodiversitylibrary.org/bibliography/63639#/summary), she remarks to this effect that, “There are no better summer flowers than the single and double zonal Pelargoniums that we commonly call Geraniums”.[^csftfg]
 <param title="Victorian era" eid="Q182688">
 <param ve-image
@@ -77,7 +77,7 @@ title="Shirley Hubberd’s Victorian garden plans, including bedding pelargonium
 <param ve-image
 title="Shirley Hubberd’s Victorian garden plans, including bedding pelargoniums (explanation)" url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/bedding_pelargoniums_explanation.jpg" fit="cover" attribution="Biodiversity Heritage Library, image editted by Yao Jiang">
 
-### The "genteel" *Geranium* and working-class culture
+### The "genteel" Geranium and working-class culture
 The *Pelargonium’s* ubiquity in the Victorian era eventually began to carry a cultural significance all its own. In 1864’s *The Book of Flowers*, Caroline Kirkland follows the poet Leigh Hunt in describing the *Geranium* (of course, really a *Pelargonium*) as a *genteel* plant. She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel”.[^tbof] Of course, this might be understood as an attestation to the *Pelargonium’s* universal charms. However, if we look a little closer at the ways the *Pelargonium* was used in working class culture, we might suggest that the “genteel” nature of the plant actually be taken with a pinch of salt. 
 <param title="Victorian era" eid="Q182688">
 <param ve-image static
@@ -91,7 +91,7 @@ As a result, the *Pelargonium* soon became a symbol for the working class’s un
 <param ve-storiiies id="fd1ft">
 
 
-## *Geraniums* or *Pelargoniums*?
+## Geraniums or Pelargoniums?
 Despite its long history of being known by a “false identity,” then, we can see that the *Pelargonium* has actually had a significant impact through its various sensorial, economic, and material-cultural entanglements with the human realm. But why exactly has the misnomer of *Geranium* persisted for so long? To answer this question, we can take a brief look at the two plants’ morphologies and their overlapping nomenclature history.
 <param ve-storiiies id="a51fu"> 
 
