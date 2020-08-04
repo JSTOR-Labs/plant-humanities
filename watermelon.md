@@ -120,7 +120,7 @@ title="'Still life with watermelons' by Sarah Miriam Peale" url="https://upload.
 
 Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/rare-books/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium/view) and the nineteenth century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier depictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth century America. 
 <param ve-image
-title="Maria Sybilla Merian's watermelon with insects" url="https://ids.lib.harvard.edu/ids/iiif/481769576/full/full/0/default.jpg"
+title="Maria Sybilla Merian's watermelon with insects" iiif-url="https://idsiif.lib.harvard.edu/ids/iiif/481769576/full/full/0/default.jpgmanifests/drs:481769537"
        fit="contain"
        attribution="Dumbarton Oaks">
 <param ve-image
@@ -228,10 +228,11 @@ title="Square watermelon from Japan" url="https://upload.wikimedia.org/wikipedia
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQyNTgxMzcsLTE1MjI2MTk0MjMsMT
-c5NTQwNDQ4MSwtNDkxMzM2MDI5LC0yNjI0MTEwNDEsLTIwNzMw
-NzQ5NDMsMTA0MzEyNjMxMyw5MTE5NjQ2NDksMTYyMjg3Nzg2NS
-wxODUxNzMzNjU1LDE3OTM3OTUzOTcsMTgzMjg4MjIwMCwxNzkz
-Nzk1Mzk3LC0xMDc2MzU5NTk5LC0yMTM2OTA3MiwtMTA3NjM1OT
-U5OSwtMjEzNjkwNzIsLTEwNzYzNTk1OTldfQ==
+eyJoaXN0b3J5IjpbLTQ4MDI1MjY1NCwtMjExNDI1ODEzNywtMT
+UyMjYxOTQyMywxNzk1NDA0NDgxLC00OTEzMzYwMjksLTI2MjQx
+MTA0MSwtMjA3MzA3NDk0MywxMDQzMTI2MzEzLDkxMTk2NDY0OS
+wxNjIyODc3ODY1LDE4NTE3MzM2NTUsMTc5Mzc5NTM5NywxODMy
+ODgyMjAwLDE3OTM3OTUzOTcsLTEwNzYzNTk1OTksLTIxMzY5MD
+cyLC0xMDc2MzU5NTk5LC0yMTM2OTA3MiwtMTA3NjM1OTU5OV19
+
 -->
