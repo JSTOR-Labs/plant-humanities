@@ -137,7 +137,7 @@ title="Watercolours  of fruits from Asia, early 19th century. South East Asia. D
 ### Watermelons, Race, and the American South 
 
 Watermelons were brought to the Americas in the sixteenth century, introduced by colonists and African slaves and cultivated widely by indigenous populations and in slave gardens. After the 1863 Emancipation Proclamation, the watermelon briefly became a tool of black citizenship; the ease with which watermelons could be grown and sold meant that they became a source of income for freed slaves.[^ref15] Although the watermelon initially held a certain amount of emancipatory potential for African-Americans both through their sale enabling the escape of the plantation economy and through the consumption of watermelons as a public and communal activity enacting newfound freedoms, the watermelon soon became perceived as a threat by white southerners who proceeded to transform the fruit into a symbol of black people’s unfitness for freedom and citizenship.
-<param ve-map time-selector="4000 BCE:2000" basemap="Esri_WorldPhysical" center="27.6648, -81.5158" zoom="3.5" hide-labels>
+<param ve-map time-selector="1400:2000" basemap="Esri_WorldPhysical" center="27.6648, -81.5158" zoom="3.5" hide-labels>
 <param ve-map-layer geojson active url="https://raw.githubusercontent.com/may-wang/test/master/markers.json" title="Distribution"> 
 <param ve-image
 title="African-American dancing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
