@@ -88,14 +88,14 @@ As we can see, for more than two thousand years numerous peony species were used
 While modern western medicine tends to dismiss pre-modern therapeutics like Anna Maria Luisa’s infant convulsion powder, numerous scientific studies on several species of peony used medically in East Asia have revealed isolated compounds that possess antitumor, antioxidant, anti-inflammatory, hepatoprotective, and antidiabetic properties. Peony roots and flowers continue to be used as a medicinal simple in Traditional Chinese [QID] and Ayurvedic [QID] medicine. While fewer studies have been conducted on European species of peony used medicinally, there have been several studies conducted to test for the bioactive compounds responsible for _P. officinalis’s_ effect on seizures.
 <var data-primary="image"></var>
 <var data-image
-     data-fit="cover"
+     data-fit="contain"
      data-attribute="He DY, Dai SM. Anti-inflammatory and immunomodulatory effects of paeonia lactiflora pall., a traditional chinese herbal medicine. _Front Pharmacol_. 2011;2:10. Published 2011 Feb 25. doi:10.3389/fphar.2011.00010"
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/fphar-02-00010-g001.jpg"></var>
 
 A study conducted in 1991 on the water extract of _P. officinalis_ concluded that there are several chemical compounds found in the root, including paeoniflorin QID, albiflorin, oxypaeoniflorin, and gallotannins that have documented anticonvulsant properties. Furthermore, when isolated, the compounds albiflorin and gallotannin were proven to block extracellular calcium, which is linked to intracellular seizure-related phenomena. Paeoniflorin fractions also showed inhibition, but to a weaker extent. An additional study, which administered peony root extract (from _P. officinalis_) to rats, concluded that it was “a potent in vitro inhibitor of neuron damage in the CA1 area of the hippocampus.” The study also determined that peony root extract had protective effects on damaged neurons as well as anticonvulsant action when administered orally. Finally, the administration of antiepileptic drugs early has the potential to [alter the long-term course of epilepsy](https://www.jstor.org/stable/29726099), with the possibility of preventing it from becoming an “intractable disorder.”
 <var data-primary="image"></var>
 <var data-image
-     data-fit="cover"
+     data-fit="contain"
      data-title="Chemical structures of main components in total glucosides of peony."
      data-attribute="He DY, Dai SM. Anti-inflammatory and immunomodulatory effects of paeonia lactiflora pall., a traditional chinese herbal medicine. _Front Pharmacol_. 2011;2:10. Published 2011 Feb 25. doi:10.3389/fphar.2011.00010"
      data-url="hhttps://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click on image to zoom&p=PMC3&id=3108611_fphar-02-00010-g002.jpg"></var>
@@ -144,10 +144,10 @@ During the last few decades of her life, Anna Maria Luisa received numerous requ
 
 Anna Maria Luisa was well known for her miraculous powder, which contained a precipitation of a human skull of a man, who died violently but never buried, a precipitation of Oriental pearls, a precipitation of red coral and white coral, yellow amber, and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony root that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty neared.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjUwMTY4OTUsLTg2MTA4ODE2OCwtNj
-c5MzcwMjYxLDU2MzM2MjU1MSw1NjMzNjI1NTEsMTQ2ODA0OTgx
-MywtMTE2MTU1MzkzLC0xMjQ2NTE4ODg4LC0yNDc0MzYzNTksMT
-U4Mzg1NTgyMCwtMTk5OTc0Mzg4OCwtODM3Mjc0NDM0LC0xOTUx
-OTU2OTY2LC0xNzk3OTMyNDM5LC0xMDExNjUwMDYyLC0yMzcyMD
-Q2MzgsMTE3NTc3ODU5OF19
+eyJoaXN0b3J5IjpbLTE5MzU3MzE1ODksLTEwMjUwMTY4OTUsLT
+g2MTA4ODE2OCwtNjc5MzcwMjYxLDU2MzM2MjU1MSw1NjMzNjI1
+NTEsMTQ2ODA0OTgxMywtMTE2MTU1MzkzLC0xMjQ2NTE4ODg4LC
+0yNDc0MzYzNTksMTU4Mzg1NTgyMCwtMTk5OTc0Mzg4OCwtODM3
+Mjc0NDM0LC0xOTUxOTU2OTY2LC0xNzk3OTMyNDM5LC0xMDExNj
+UwMDYyLC0yMzcyMDQ2MzgsMTE3NTc3ODU5OF19
 -->
