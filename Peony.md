@@ -92,7 +92,7 @@ While modern western medicine tends to dismiss pre-modern therapeutics like Anna
      data-attribute="He DY, Dai SM. Anti-inflammatory and immunomodulatory effects of paeonia lactiflora pall., a traditional chinese herbal medicine. _Front Pharmacol_. 2011;2:10. Published 2011 Feb 25. doi:10.3389/fphar.2011.00010"
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/fphar-02-00010-g001.jpg"></var>
 
-A study conducted in 1991 on the water extract of _P. officinalis_ concluded that there are several chemical compounds found in the root, including paeoniflorin QID, albiflorin, oxypaeoniflorin, and gallotannins that have documented anticonvulsant properties. Furthermore, when isolated, the compounds albiflorin and gallotannin were proven to block extracellular calcium, which is linked to intracellular seizure-related phenomena. Paeoniflorin fractions also showed inhibition, but to a weaker extent. An additional study, which administered peony root extract (from _P. officinalis_) to rats, concluded that it was “a potent in vitro inhibitor of neuron damage in the CA1 area of the hippocampus.” The study also determined that peony root extract had protective effects on damaged neurons as well as anticonvulsant action when administered orally. Finally, the administration of antiepileptic drugs early has the potential to [alter the long-term course of epilepsy](https://www.jstor.org/stable/29726099), with the possibility of preventing it from becoming an “intractable disorder.”
+A study conducted in 1991 on the water extract of _P. officinalis_ concluded that there are several chemical compounds found in the root, including paeoniflorin , albiflorin, oxypaeoniflorin, and gallotannins that have documented anticonvulsant properties. Furthermore, when isolated, the compounds albiflorin and gallotannin were proven to block extracellular calcium, which is linked to intracellular seizure-related phenomena. Paeoniflorin fractions also showed inhibition, but to a weaker extent. An additional study, which administered peony root extract (from _P. officinalis_) to rats, concluded that it was “a potent in vitro inhibitor of neuron damage in the CA1 area of the hippocampus.” The study also determined that peony root extract had protective effects on damaged neurons as well as anticonvulsant action when administered orally. Finally, the administration of antiepileptic drugs early has the potential to [alter the long-term course of epilepsy](https://www.jstor.org/stable/29726099), with the possibility of preventing it from becoming an “intractable disorder.”
 <var data-primary="image"></var>
 <var data-image
      data-fit="contain"
@@ -154,11 +154,11 @@ During the last few decades of her life, Anna Maria Luisa received numerous requ
 
 Anna Maria Luisa was well known for her miraculous powder, which contained a precipitation of a human skull of a man, who died violently but never buried, a precipitation of Oriental pearls, a precipitation of red coral and white coral, yellow amber, and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony root that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty neared.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyODU3MTgzLC0xMDYwNTE2NjAxLDg3OD
-gyNTEzNywtNjgxMjczOTk5LDE2MzA0MzEwNDUsLTE5MzU3MzE1
-ODksLTEwMjUwMTY4OTUsLTg2MTA4ODE2OCwtNjc5MzcwMjYxLD
-U2MzM2MjU1MSw1NjMzNjI1NTEsMTQ2ODA0OTgxMywtMTE2MTU1
-MzkzLC0xMjQ2NTE4ODg4LC0yNDc0MzYzNTksMTU4Mzg1NTgyMC
-wtMTk5OTc0Mzg4OCwtODM3Mjc0NDM0LC0xOTUxOTU2OTY2LC0x
-Nzk3OTMyNDM5XX0=
+eyJoaXN0b3J5IjpbLTEwNzQ0ODY3NjMsNzEyODU3MTgzLC0xMD
+YwNTE2NjAxLDg3ODgyNTEzNywtNjgxMjczOTk5LDE2MzA0MzEw
+NDUsLTE5MzU3MzE1ODksLTEwMjUwMTY4OTUsLTg2MTA4ODE2OC
+wtNjc5MzcwMjYxLDU2MzM2MjU1MSw1NjMzNjI1NTEsMTQ2ODA0
+OTgxMywtMTE2MTU1MzkzLC0xMjQ2NTE4ODg4LC0yNDc0MzYzNT
+ksMTU4Mzg1NTgyMCwtMTk5OTc0Mzg4OCwtODM3Mjc0NDM0LC0x
+OTUxOTU2OTY2XX0=
 -->
