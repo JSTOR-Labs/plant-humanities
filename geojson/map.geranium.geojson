@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Geranium native range",
         "stroke": "#806fd8",
         "fill": "#bd9fea",
         "stroke-width": 2,
