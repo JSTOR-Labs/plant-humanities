@@ -26,12 +26,13 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 Members of today’s Dracaena genus have long been valued for their signature red resin, Dragon’s Blood, that oozes from cuts in the bark of those trees.[^1]  The first known reports of Dragon’s Blood were dispersed through Pliny’s _Naturalis Historia_, where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of Dracaena cinnabari, the fascination with Dragon’s Blood also took a foothold in Europe through the infamous tale of Hercules. 
 <param title="Dracaena genus" eid="Q158009">
 <param title="Naturalis Historia" eid="Q442">
-<Param title="Vedic myth" eid="Q2076739">
+<param title="Vedic myth" eid="Q2076739">
 <param title="Socotra" eid="Q82859">
 <param ve-image title="Vedic Tale of the Elephant and the Dragon as depicted in Bestiary by Giraldus Cambrensis, 13th Century, as Provided by the British Museum" url="https://www.bl.uk/IllImages/Ekta/big/E043/E043090a.jpg">
 
 
 As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^2] As Dragon’s Blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that "the source of "Dragon's Blood" [... is] the red blood of the dragon Landon after it was killed by Hercules."[^3]
+<param title="Hercules" eid="Q122248">
 <param title="Ladon" eid="Q274600">
 <param ve-iiif-compare url1="https://free.iiifhosting.com/iiif/6f75f8643461e419d28159fdc552cd384cc7aa5bc1ae2e31b9e2c47b91fefd60/" url2="https://free.iiifhosting.com/iiif/6cc55de19b632d3825dca62a73603739fec0f7c6ba9fd9423d57e1c92b1529ca/">
 
