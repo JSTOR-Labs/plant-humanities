@@ -109,7 +109,6 @@ Today, Dracaena draco is officially designated as a vulnerable population on the
 [^20]: “Dracaena draco,” IUCN Red List.org, accessed August 3. 2020, https://www.iucnredlist.org/species/30394/9535771
 [^21]: Unraveling the Seed Dispersal System of an Insular “Ghost” Dragon Tree (D. draco) in the Wild.”As European naturalists like Alexander von Humboldt (1767-1835), Nicolas Baudin (1754-1803), and André Pierre Ledru (1761-1825), who all traveled to Dracaena draco’s native Canary Islands around the turn of the nineteenth century, may have realized soon after their initial experiences with Dragon’s Blood, this strange sap occupied a liminal space between myth, legend, and scientific botany. 
 [^22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (Dracaena draco),” in Horticulturae 5, no. 64 (September 2019), https://www.researchgate.net/publication/335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_draco
-
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTkxNTE0MDQ5Ml19
 -->
