@@ -32,7 +32,7 @@
 <param title="Thirteenth Amendment" eid="Q175613" aliases="13th Amendment">
 <param title="Crocus" eid="Q157806" aliases="crocuses">
 <param title="Citron" eid="Q30557566" aliases="C. amaruscitron">
-<param title="Egusi" eid="Q17429939" aliases="C. mucosospermus">
+<param title="Egusi" eid="Q17429939" aliases="C. mucososperms">
 <param title="Colocynth" eid="Q913609" aliases="C. colocynthis">
 
 ### Watermelon, The Food Of Angels
@@ -234,11 +234,11 @@ title="Square watermelon from Japan" url="https://upload.wikimedia.org/wikipedia
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDY4MzYwMSwtNDgwMjUyNjU0LC0yMT
-E0MjU4MTM3LC0xNTIyNjE5NDIzLDE3OTU0MDQ0ODEsLTQ5MTMz
-NjAyOSwtMjYyNDExMDQxLC0yMDczMDc0OTQzLDEwNDMxMjYzMT
-MsOTExOTY0NjQ5LDE2MjI4Nzc4NjUsMTg1MTczMzY1NSwxNzkz
-Nzk1Mzk3LDE4MzI4ODIyMDAsMTc5Mzc5NTM5NywtMTA3NjM1OT
-U5OSwtMjEzNjkwNzIsLTEwNzYzNTk1OTksLTIxMzY5MDcyLC0x
-MDc2MzU5NTk5XX0=
+eyJoaXN0b3J5IjpbLTQzMTkzMzE0MywyMDU0NjgzNjAxLC00OD
+AyNTI2NTQsLTIxMTQyNTgxMzcsLTE1MjI2MTk0MjMsMTc5NTQw
+NDQ4MSwtNDkxMzM2MDI5LC0yNjI0MTEwNDEsLTIwNzMwNzQ5ND
+MsMTA0MzEyNjMxMyw5MTE5NjQ2NDksMTYyMjg3Nzg2NSwxODUx
+NzMzNjU1LDE3OTM3OTUzOTcsMTgzMjg4MjIwMCwxNzkzNzk1Mz
+k3LC0xMDc2MzU5NTk5LC0yMTM2OTA3MiwtMTA3NjM1OTU5OSwt
+MjEzNjkwNzJdfQ==
 -->
