@@ -98,6 +98,10 @@ title="Watermelon in the Tacuinum Sanitatis, c. 1390-1400" url="http://visualise
        fit="contain"
        attribution="Bibliothèque Nationale de France">
 <param ve-image
+title="Watermelon in the Carrara Herbal" url="https://github.com/JSTOR-Labs/plant-humanities/blob/master/images/Watermelon_carrara_herbal.jpg"
+    fit="contain"
+    attribution="British Library. Egerton MS 2020">
+<param ve-image
 title="'Anguriae' in Mathiolli's Dioscorides." url="https://www.archive.org/download/mobot31753000819224/page/n512_w299"
        fit="contain"
        attribution="BHL">
