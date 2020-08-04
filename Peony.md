@@ -105,7 +105,7 @@ Today, the primary approach to treating epilepsy and suppressing seizures is to 
 <var data-image
      data-fit="contain"
      data-title="Proposed treatment algorithm for childhood absence epilepsy. AE = adverse effects, ETX = ethosuximide, GTC = generalized tonic–clonic, LTG = lamotrigine, VPA = valproic acid"
-     data-attribute="Kessler, S.K., McGinnis, E. A Practical Guide to Treatment of Childhood Absence Epilepsy. _Pediatr Drugs_ **21,** 15–24 (2019). https://doi-org.ezp-prod1.hul.harvard.edu/10.1007/s40272-019-00325-x"
+     data-attribute="Kessler, S.K., McGinnis, E. A Practical Guide to Treatment of Childhood Absence Epilepsy"
      data-url="https://link-springer-com.ezp-prod1.hul.harvard.edu/article/10.1007/s40272-019-00325-x/figures/2"></var>
 
 The probable effectiveness of her infant convulsion powder increased Anna Maria Luisa’s socio-political influence. In fact, several letters preserved in the Florence State Archive attest to the powder’s efficacy and popularity. In one such letter, the previously mentioned Viennese baroness wrote again to Anna Maria Luisa requesting additional portions of powder given the “extraordinary effects they had on three children from the most important families of Vienna.” Anna Maria Luisa replied that she would send the baroness as much of the powder as she desired to distribute to her friends, considering that she had “put the powder to such good use.” 
@@ -150,11 +150,11 @@ _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525Peaonia" id="Q
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDkwMjI2MzEsLTMxODY2MjIwNywtMT
-gzMjA0NDA1OSw3MTI4NTcxODMsLTEwNjA1MTY2MDEsODc4ODI1
-MTM3LC02ODEyNzM5OTksMTYzMDQzMTA0NSwtMTkzNTczMTU4OS
-wtMTAyNTAxNjg5NSwtODYxMDg4MTY4LC02NzkzNzAyNjEsNTYz
-MzYyNTUxLDU2MzM2MjU1MSwxNDY4MDQ5ODEzLC0xMTYxNTUzOT
-MsLTEyNDY1MTg4ODgsLTI0NzQzNjM1OSwxNTgzODU1ODIwLC0x
-OTk5NzQzODg4XX0=
+eyJoaXN0b3J5IjpbLTY3MTkxNDI3OSwtMzE4NjYyMjA3LC0xOD
+MyMDQ0MDU5LDcxMjg1NzE4MywtMTA2MDUxNjYwMSw4Nzg4MjUx
+MzcsLTY4MTI3Mzk5OSwxNjMwNDMxMDQ1LC0xOTM1NzMxNTg5LC
+0xMDI1MDE2ODk1LC04NjEwODgxNjgsLTY3OTM3MDI2MSw1NjMz
+NjI1NTEsNTYzMzYyNTUxLDE0NjgwNDk4MTMsLTExNjE1NTM5My
+wtMTI0NjUxODg4OCwtMjQ3NDM2MzU5LDE1ODM4NTU4MjAsLTE5
+OTk3NDM4ODhdfQ==
 -->
