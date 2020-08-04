@@ -3,8 +3,8 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
        layout="vtl"
        num-maps="1"
-       num-specimens="2"
-       num-images="23"
+       num-specimens="3"
+       num-images="29"
        num-primary-sources="6"
        author="Anna Lawrence, Camilo Uribe Botta, May Wang">
 
