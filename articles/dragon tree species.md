@@ -1,0 +1,1 @@
+While _D. draco_ and _D. cinnabari_ are the two species the most referenced as the source of the resin in historical sources, there are over 120 other tree species from the genera Croton, Dracaena, Daemonorops, Calamus rotang and Pterocarpus that are also known as dragon's blood trees.
