@@ -77,6 +77,7 @@ As Ledru remarked in his 1810 _Voyages aux îles de Ténériffe, la Trinité, Sa
 <param title="Isles of Fortune" eid="Q19211357"> 
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/IMG_9319.jpg">
 <param ve-image attribution="Image of a small outcrop of Dracaena draco trees at the oldest botanical garden on the Canary Islands, the Jardin Botanico Canario Viera y Clavijo in Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019.">
+<param title="_Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_" url="https://archive.org/details/voyageauxlesdet00sonngoog/page/n23/mode/2up">
 
 But even in the face of this acute anthropogenic pressure, the great dragon tree at Orotava persisted. Struck by the tree’s size, age, and enduring spirit, Ledru remarks on how even the most environmentally malicious conquistadors respected this centenary dragon tree.  Perhaps, then, to Humboldt’s delight, Ledru estimated that this special tree would easily live another one-hundred-fifty to two-hundred years.[^16]  
 <param ve-storiiies id="7b1dr">
