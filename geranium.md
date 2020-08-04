@@ -10,6 +10,7 @@
 
 
 <param title="Dumbarton Oaks" eid="Q1264942">
+<param title="Industrial Revolution" eid="Q2269">
 <param title="Species Plantarum" eid="Q849308">
 <param title="Pelargonium graveolens" eid="Q164306" aliases="P. graveolens">
 
@@ -43,7 +44,6 @@ The most common known geranium oil is actually from one species of *Pelargoniums
 
 The Chiris factory in Algeria provides a case study for the industrial production of geranium essential oils (commonly known as Geranium oils). Founded in 1786 in the city of Grasse, near Monaco and the port of Marseille, the Chiris company specialized in the extraction of essential oils for the cosmetic industry. After the French Revolution in 1789, the perfume business began a process of democratization in which consumers no longer belonged only to the aristocracy but also to the bourgeoisie. This process was accentuated once the Industrial Revolution began to change the forms and systems of production and distribution and it was also accompanied by the colonial commercial networks. 
 <param title="French Revolution" eid="Q6534">
-<param title="Industrial Revolution" eid="Q2269">
 <param ve-image
 title="Les etu A. Chiris s'installent dans le Monde entier" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Les_etu.jpg" fit="cover" attribution="David Rumsey Historical Map Collection">
 
@@ -61,7 +61,6 @@ Geranium oil continues to be industrially produced in factories across the globe
 
 ## Pelargonium-mania in the Victorian era
 Pelargoniums first arrived in Europe as early as the 16th century, brought in by colonial voyages to South Africa by the Portuguese and the Dutch. However, it was in the Victorian era, when the Industrial Revolution was beginning to take hold, that the cultivation and display of these vivid flowering plants became a veritable cultural event. By this time, the scientific distinctions between Pelargoniums and Geraniums were well known, but Pelargoniums continued to be known for the most part by the misnomer of “Geranium”; in Gertrude Jekyll’s 1919 publication *Colour Schemes for the Flower Garden*, she remarks to this effect that, “There are no better summer flowers than the single and double zonal Pelargoniums that we commonly call Geraniums”.[^csftfg]
-<param title="Industrial Revolution" eid="Q2269">
 <param ve-image
 title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
 
