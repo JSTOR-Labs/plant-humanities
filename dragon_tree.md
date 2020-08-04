@@ -109,7 +109,9 @@ Today, Dracaena draco is officially designated as a vulnerable population on the
 <param ve-image iiif-url="https://free.iiifhosting.com/iiif/31fb222aa31e439323c29d61cb363d5c897b02d8cde694ff946f0f6adbb00ad">
 
 [^1]: Though the focus of this article is on D. draco, there are many other species of tree that exude their own forms of dragon’s blood. These include the other 120 members of the Dracaena genus, in addition to several others. While these other trees certainly exude a resin identified as dragon’s blood, D. draco and Dracaena cinnabari are the two species the most-commonly referenced as the source of the resin in historical sources. 
-[^2]: Fauna & Flora International, “Canary Islands Dragon Tree,” Global Trees.org, accessed August 3, 2020, <param title="https://globaltrees.org/threatened-trees/trees/dragon-tree/" url="https://globaltrees.org/threatened-trees/trees/dragon-tree/">
+[^2]: Fauna & Flora International, “Canary Islands Dragon Tree,” Global Trees.org, accessed August 3, 2020, link. 
+<param title="link" url="https://globaltrees.org/threatened-trees/trees/dragon-tree/">
+
 [^3]: J. Francisco-Ortega et al. "Early Cultivation of Macaronesian Plants in Three European Gardens," Revista de la Academia Canaria de Ciencias 23, no. 3 (April 2012), 113-143.
 [^4]: Pierre Bontier, Je e Verrier, and Richard Henry Major (trans.), The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt, (London: The Hakluyt Society, 1872), 70-71. On D. draco’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” Africa: Rivista trimestrale di studi e documentazione dell'Istituto italiano per l'Africa e l'Oriente 39, no. 3 (1984), 489-90.
 [^5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” British Cactus & Succulent Journal 17, no. 4 (December, 1999), 171-177; Jane Pearson and Hew D.V. Prendergast, “Daemonorops, Dracaena and Other Dragon’s Blood,” Economic Botany 55, no. 4 (October-December 2001), 474-477.
