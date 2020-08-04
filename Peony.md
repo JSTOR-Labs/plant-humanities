@@ -119,8 +119,8 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 <var data-primary="image"></var>
 <var data-image
      data-fit="contain"
-     data-title="Bound letters to and from Anna Maria Luisa de' Medici, 1733-1734, Archivio di Stato Firenze"
-     data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Photo%20Jul%2011%2C%204%2057%2054%20AM.jpg"></var>
+     data-title=""
+     data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Black%20and%20White%20Simple%20Corporate%20Family%20Tree.jpg"></var>
 
 
 [^a]: text text text
@@ -150,11 +150,11 @@ _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525Peaonia" id="Q
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxODI2MTI3LC0xODMyMDQ0MDU5LDcxMj
-g1NzE4MywtMTA2MDUxNjYwMSw4Nzg4MjUxMzcsLTY4MTI3Mzk5
-OSwxNjMwNDMxMDQ1LC0xOTM1NzMxNTg5LC0xMDI1MDE2ODk1LC
-04NjEwODgxNjgsLTY3OTM3MDI2MSw1NjMzNjI1NTEsNTYzMzYy
-NTUxLDE0NjgwNDk4MTMsLTExNjE1NTM5MywtMTI0NjUxODg4OC
-wtMjQ3NDM2MzU5LDE1ODM4NTU4MjAsLTE5OTk3NDM4ODgsLTgz
-NzI3NDQzNF19
+eyJoaXN0b3J5IjpbLTMxODY2MjIwNywtMTgzMjA0NDA1OSw3MT
+I4NTcxODMsLTEwNjA1MTY2MDEsODc4ODI1MTM3LC02ODEyNzM5
+OTksMTYzMDQzMTA0NSwtMTkzNTczMTU4OSwtMTAyNTAxNjg5NS
+wtODYxMDg4MTY4LC02NzkzNzAyNjEsNTYzMzYyNTUxLDU2MzM2
+MjU1MSwxNDY4MDQ5ODEzLC0xMTYxNTUzOTMsLTEyNDY1MTg4OD
+gsLTI0NzQzNjM1OSwxNTgzODU1ODIwLC0xOTk5NzQzODg4LC04
+MzcyNzQ0MzRdfQ==
 -->
