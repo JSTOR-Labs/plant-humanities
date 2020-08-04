@@ -108,7 +108,6 @@ Today, D. draco is officially designated as a vulnerable population on the Inter
 [^19]: Deepika Gupta a, Bruce Bleakley b, Rajinder K. Gupta. “Dragon’s blood: Botany, chemistry and therapeutic uses.”
 [^20]: “Dracaena draco,” IUCN Red List.org, accessed August 3. 2020, https://www.iucnredlist.org/species/30394/9535771
 [^21]: Unraveling the Seed Dispersal System of an Insular “Ghost” Dragon Tree (D. draco) in the Wild.”As European naturalists like Alexander von Humboldt (1767-1835), Nicolas Baudin (1754-1803), and André Pierre Ledru (1761-1825), who all traveled to Dracaena draco’s native Canary Islands around the turn of the nineteenth century, may have realized soon after their initial experiences with Dragon’s Blood, this strange sap occupied a liminal space between myth, legend, and scientific botany. 
-<param ve-storiiies id="421e8">
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTkxNTE0MDQ5Ml19
