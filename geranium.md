@@ -106,7 +106,7 @@ Besides the Algerian oil industry and the Victorian floriculture mentioned here,
 title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_ (_Pelargonium_) in Chinese." url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Tianzhu_Kui.png" fit="contain" attribution="Chinese Gongbi Line Drawing of Hundred Flowers (Autumn and Winter). Tianjin Yangliuqing Fine Arts Press. 2005.">
 
 ## Conclusion
-**Generally speaking, we can deduce that the misnomer did not only happen in the Western world; it circulated and influenced other knowledge traditions worldwide. In this short essay, we have hoped to clarify this misnomer, and to “redeem” the story of the Pelargonium as a separate entity from the Geranium - both in its morphology, and in the profound influence it has waged upon human cultures and industries from West to East.**
+**By way of conclusion, we can deduce that the taxonomic mix-up entangling these two genera did not only happen in the Western world; it circulated and influenced other knowledge traditions worldwide. In this short essay, we have hoped to clarify this misnomer, and to “redeem” the story of the Pelargonium as a separate entity from the Geranium - both in terms of its morphology, and the profound influence it has waged upon human cultures and industries spanning from West to East.**
 <param ve-image
 title="Plant de géranium rouge: photographie / Eugène Blondelet" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/photo_pelargonuim.jpeg" fit="cover" attribution="Bibliothèque nationale de France, RESERVE EH9-18 (42-43)">
 
