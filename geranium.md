@@ -16,6 +16,7 @@
 
 ## What's in a name?
 There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium.[^datg] With their vibrant red flowers and sweet, rosy scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color”[^mfsirh] at his country home, Gad’s Hill Place. Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of them was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums”[^mfsirh]. 
+<param title="Charles Dickens" eid="Q5686">
 <param ve-image static
 title="Charles Dickens with his two daughters at Gad’s Hill, pseudonymous, published 1869. We can note the staged “theatre” of potted geraniums that Dickens placed just beneath the bay windows of the house on the right hand side of the photo." url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg/2048px-Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" fit="cover" attribution="Wikimedia Commons">
 <param ve-image 
