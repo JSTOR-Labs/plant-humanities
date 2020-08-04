@@ -23,11 +23,12 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 
 ## Sanguine Myths and Elemental Reality
 
-Members of today’s Dracaena genus have long been valued for their signature red resin, Dragon’s Blood, that oozes from cuts in the bark of those trees.[^1]  The first known reports of Dragon’s Blood were dispersed through Pliny’s _Naturalis Historia_, where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of Dracaena cinnabari, the fascination with Dragon’s Blood also took a foothold in Europe through the infamous tale of Hercules. 
+Members of today’s Dracaena genus have long been valued for their signature red resin, Dragon’s Blood, that oozes from cuts in the bark of those trees.[^1]  The first known reports of Dragon’s Blood were dispersed through Pliny’s _Naturalis Historia_, where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with Dragon’s Blood also took a foothold in Europe through the infamous tale of Hercules. 
 <param title="Dracaena genus" eid="Q158009">
 <param title="Naturalis Historia" eid="Q442">
 <param title="Vedic myth" eid="Q2076739">
 <param title="Socotra" eid="Q82859">
+<param title="Dracaena cinnabari" eid="Q133560">
 <param ve-image title="Vedic Tale of the Elephant and the Dragon as depicted in Bestiary by Giraldus Cambrensis, 13th Century, as Provided by the British Museum" url="https://www.bl.uk/IllImages/Ekta/big/E043/E043090a.jpg">
 
 
@@ -50,7 +51,7 @@ The Guanches used Dragon’s Blood for a variety of purposes ranging from embalm
 
 ## Dragon’s Blood: from Herbals to Enlightenment Science
 
-After decades of violent attacks against the Guanches, resulting in their extermination, Spanish conquistadors finally vanquished the last of the Canary Islands in 1496. A natural stopping point for travelers to the New World as well as Africa, the Atlantic islands (omprised of the Canary Islands, as well as the Portuguese Azores and Madeira) welcomed Europeans of all stripes from the sixteenth century onwards. It was during this period of integration of the Canaries into the burgeoning European sphere of influence, then, that D. draco emerged on the stage of European gardens.
+After decades of violent attacks against the Guanches, resulting in their extermination, Spanish conquistadors finally vanquished the last of the Canary Islands in 1496. A natural stopping point for travelers to the New World as well as Africa, the Atlantic islands (comprised of the Canary Islands, as well as the Portuguese Azores and Madeira) welcomed Europeans of all stripes from the sixteenth century onwards. It was during this period of integration of the Canaries into the burgeoning European sphere of influence, then, that D. draco emerged on the stage of European gardens.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Berthelot_drago_franchy.jpg" title="Engraving of the dragos of the House of Franchy in the Villa de La Orotava, published in 1838 in Sabin Berthelot's work _Histoire Naturelle des Iles Canaries_ Atlas">
 
 Throughout its dissemination into European spaces from the Age of Discovery, Dragon’s Blood was understood chiefly as a medicament. Soon after its introduction, the sticky scarlet resin became nothing short of a with widespread potential to prevent a host of illnesses.[^8]  As a result, the so-called “draco arbor” features in famous early modern herbals, such as John Gerard’s The Herball, or Generall Historie of Plantes (1633) and John Parkinson’s Theatrum Botanicum (1640). Both authors pointed to the Atlantic islands as the tree’s most common habitat; as for D. draco’s medical uses, Gerard and Parkinson also agreed —its resin was believed to have effective astringent properties to treat gonorrhea, dysentery, spitting blood, and loose teeth. Gerard noted that “smiths also use it to varnish over their works,” while Parkinson doubted “painters can bring it to be a fit color to be used in their works.”[^9]  
