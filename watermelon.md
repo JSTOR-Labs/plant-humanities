@@ -120,7 +120,7 @@ title="'Still life with watermelons' by Sarah Miriam Peale" url="https://upload.
 
 Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/rare-books/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium/view) and the nineteenth century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier depictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth century America. 
 <param ve-image
-title="Maria Sybilla Merian's watermelon with insects" iiif-url="https://iiif.lib.harvard.edu/manifests/drs:481769537"
+title="Maria Sybilla Merian's watermelon with insects" url="https://ids.lib.harvard.edu/ids/iiif/481769576/full/full/0/default.jpg"
        fit="contain"
        attribution="Dumbarton Oaks">
 <param ve-image
