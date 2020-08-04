@@ -115,7 +115,8 @@ The probable effectiveness of her infant convulsion powder increased Anna Maria 
      data-title="Bound letters to and from Anna Maria Luisa de' Medici, 1733-1734, Archivio di Stato Firenze"
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Photo%20Jul%2011%2C%204%2057%2054%20AM.jpg"></var>
 
-The gift of “miraculous” medicine to the Viennese court was not simply altruistic. As a woman, Anna Maria Luisa was barred from inheriting and ruling Tuscany on the death of her brother, the <span id="Q421567">last Medici Grand Duke</span>. Although she lacked official power, Anna Maria Luisa fashioned influence through the gift of her infant convulsion powder, which allowed her to ingratiate herself with some of Vienna’s most important and powerful families. This ensured goodwill and communication between the Grand Duchy of Tuscany and the court that would decide its fate. By the end of the Medici dynasty, the Viennese court was the headquarters of the  <span id="Q421567">Habsburg dynasty</span> and the center of its imperial politics. In 1737, <span id="">Francis of Lorraine</span, future head of the Holy Roman Empire [QID] which controlled much of Europe at this time, became the Grand Duke of Tuscany and ruled Florence from the imperial court in Vienna—a court much indebted to Anna Maria Luisa’s infant convulsion powder. _(image of AML)_
+The gift of “miraculous” medicine to the Viennese court was not simply altruistic. As a woman, Anna Maria Luisa was barred from inheriting and ruling Tuscany on the death of her brother, the <span id="Q256580">last Medici Grand Duke</span>. Although she lacked official power, Anna Maria Luisa fashioned influence through the gift of her infant convulsion powder, which allowed her to ingratiate herself with some of Vienna’s most important and powerful families. This ensured goodwill and communication between the Grand Duchy of Tuscany and the court that would decide its fate. By the end of the Medici dynasty, the Viennese court was the headquarters of the  <span id="Q256580">Habsburg dynasty</span> and the center of its imperial politics. In 1737, <span id="">Francis of Lorraine</span>, future head of the <span id=
+''>Holy Roman Empire</span> which controlled much of Europe at this time, became the Grand Duke of Tuscany and ruled Florence from the imperial court in Vienna—a court much indebted to Anna Maria Luisa’s infant convulsion powder. _(image of AML)_
 
 
 
@@ -154,11 +155,11 @@ During the last few decades of her life, Anna Maria Luisa received numerous requ
 
 Anna Maria Luisa was well known for her miraculous powder, which contained a precipitation of a human skull of a man, who died violently but never buried, a precipitation of Oriental pearls, a precipitation of red coral and white coral, yellow amber, and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony root that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect Florence as the end of the Medici dynasty neared.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Nzc2ODIwLDcxMjg1NzE4MywtMTA2MD
-UxNjYwMSw4Nzg4MjUxMzcsLTY4MTI3Mzk5OSwxNjMwNDMxMDQ1
-LC0xOTM1NzMxNTg5LC0xMDI1MDE2ODk1LC04NjEwODgxNjgsLT
-Y3OTM3MDI2MSw1NjMzNjI1NTEsNTYzMzYyNTUxLDE0NjgwNDk4
-MTMsLTExNjE1NTM5MywtMTI0NjUxODg4OCwtMjQ3NDM2MzU5LD
-E1ODM4NTU4MjAsLTE5OTk3NDM4ODgsLTgzNzI3NDQzNCwtMTk1
-MTk1Njk2Nl19
+eyJoaXN0b3J5IjpbMTExNTk4MTM5Myw3MTI4NTcxODMsLTEwNj
+A1MTY2MDEsODc4ODI1MTM3LC02ODEyNzM5OTksMTYzMDQzMTA0
+NSwtMTkzNTczMTU4OSwtMTAyNTAxNjg5NSwtODYxMDg4MTY4LC
+02NzkzNzAyNjEsNTYzMzYyNTUxLDU2MzM2MjU1MSwxNDY4MDQ5
+ODEzLC0xMTYxNTUzOTMsLTEyNDY1MTg4ODgsLTI0NzQzNjM1OS
+wxNTgzODU1ODIwLC0xOTk5NzQzODg4LC04MzcyNzQ0MzQsLTE5
+NTE5NTY5NjZdfQ==
 -->
