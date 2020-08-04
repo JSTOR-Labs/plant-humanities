@@ -9,7 +9,7 @@
        author="Anna Lawrence, Camilo Uribe Botta, May Wang">
 
 <param title="Watermelon" eid="Q17507129">
-<param title="Citrullus lanatus" eid="Q17507129" aliases="Anguria">
+<param title="Citrullus lanatus" eid="Q17507129" aliases="Citrullus lanatus">
 <param title="Mark Twain" eid="Q7245">
 <param title="genus" eid="Q132239" aliases="Citrullus">
 <param title="phenotypes" eid="Q104053" aliases="phenotypes">
