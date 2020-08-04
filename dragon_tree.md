@@ -6,7 +6,7 @@
        num-specimens="x"
        num-images="x"
        num-primary-sources="x"
-       author="Thomas C. Anderson, Cati Kalinoski, and Luas Mertehikian">
+       author="Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian">
 
 <param title="Dracaena Draco" eid="Q579524">
 <param title="cherry blossom" eid="Q871991">
