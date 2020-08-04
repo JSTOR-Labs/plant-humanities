@@ -68,8 +68,6 @@ title="Kalahari watermelon" url="https://i.dailymail.co.uk/i/pix/2017/06/29/17/4
 
     
 ### Seeing Red...Eventually
-<param ve-map time-selector="4000 BCE:1500" basemap="Esri_WorldPhysical" center="38.9637, 35.2433" zoom="3">
-<param ve-map-layer geojson active url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" title="Distribution">
 
 Watermelon-like fruit were referenced in ancient texts using a variety of terms including _pepon_, _melopepon_ and _kolokynte_, suggesting some kinds of watermelon had proliferated to the Mediterranean region by the common era. Around 77 CE, Pliny dedicated a section of his [_Natural History_](https://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL392.9.xml) to _pepones_, which, he wrote, made a very refreshing food, but also had a laxative effect. Various parts of the fruit were used to alleviate pain, to induce vomiting, and even to cleanse the skin and clear spots.[^ref9] In this era, these "watermelons" likely still had quite sturdy and pale flesh, not quite red and soft. Two thousand years later in 1888, watermelon was still being promoted as a face cleanser in reports by a Miss Carrie Townsend from St. Louis carried in US newspapers. Townsend, who felt sorry for girls with freckles who looked “as if they had been about when a bran bin had exploded,” claimed that no matter what was wrong with the face, the juice of the watermelon would rectify it.[^ref10] Although perhaps not quite as powerful as Townsend suggests, components of the watermelon are re-emerging as a natural skin cleanser today, such kalahari or ootanga oil traditionally extracted from the seeds in West Africa. 
 <param ve-image
@@ -110,7 +108,7 @@ title="Citrull cocumber in Gerard's Herball" url="https://www.archive.org/downlo
        fit="contain"
        attribution="BHL">
 
-By the seventeenth to nineteenth centuries, the watermelon was a common minor crop in European gardens and began to appear frequently in European and American still lifes, providing a diverse visual archive of watermelon varieties. The seventeenth century watermelons of Albert Eckhout and Giovanni Stanchi, for example, exhibit whorls of red flesh amongst white rind and give us a sense of how much the watermelon has changed even in the last few hundred years. The inclusion of watermelons in still lifes also provides an insight into the multitude of cultural values associated with the fruit at the time. Whilst American still lifes, such as those of the prolific Peale family in the early nineteenth century, placed the melon amidst almost nauseating abundance and plenty, European artists would often cut through that fantasy quite literally with the abrupt imposition of a knife as a harsh reminder of the fleeting nature of life.
+ the seventeenth to nineteenth centuries, the watermelon was a common minor crop in European gardens and began to appear frequently in European and American still lifes, providing a diverse visual archive of watermelon varieties. The seventeenth century watermelons of Albert Eckhout and Giovanni Stanchi, for example, exhibit whorls of red flesh amongst white rind and give us a sense of how much the watermelon has changed even in the last few hundred years. The inclusion of watermelons in still lifes also provides an insight into the multitude of cultural values associated with the fruit at the time. Whilst American still lifes, such as those of the prolific Peale family in the early nineteenth century, placed the melon amidst almost nauseating abundance and plenty, European artists would often cut through that fantasy quite literally with the abrupt imposition of a knife as a harsh reminder of the fleeting nature of life.
 <param ve-image
 title="'Pineapple, watermelons and other fruits (Brazilian fruits),' Albert Eckhout (1610–1666)" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
        fit="contain"
@@ -124,7 +122,7 @@ title="'Still life with watermelons' by Sarah Miriam Peale (1800–1855)" url="h
        fit="contatin"
        attribution="Wikimedia Commons">
 
-Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/online-exhibits/maria-sibylla-merian/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium) and the nineteenth century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier depictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth century America. 
+Diverse types of watermelon are alsorepresened in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/online-exhibits/maria-sibylla-merian/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium) and the nineteenth century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier depictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth century America. 
 <param ve-image
 title="'Melon d'Eau,' Metamorphosis, Maria Sybilla Merian (1719)" url="https://ids.lib.harvard.edu/ids/iiif/481769576/full/full/0/default.jpg"
        fit="contain"
@@ -137,7 +135,7 @@ title="Watercolours  of fruits from Asia, early 19th century. South East Asia. D
 ### Watermelons, Race, and the American South 
 
 Watermelons were brought to the Americas in the sixteenth century, introduced by colonists and African slaves and cultivated widely by indigenous populations and in slave gardens. After the 1863 Emancipation Proclamation, the watermelon briefly became a tool of black citizenship; the ease with which watermelons could be grown and sold meant that they became a source of income for freed slaves.[^ref15] Although the watermelon initially held a certain amount of emancipatory potential for African-Americans both through their sale enabling the escape of the plantation economy and through the consumption of watermelons as a public and communal activity enacting newfound freedoms, the watermelon soon became perceived as a threat by white southerners who proceeded to transform the fruit into a symbol of black people’s unfitness for freedom and citizenship.
-<param ve-map time-selector="1400:2000" basemap="Esri_WorldPhysical" center="27.6648, -81.5158" zoom="3">
+<param ve-map time-selector="1400:2000" basemap="Esri_WorldPhysical" center="27.6648, -81.5158" zoom="">
 <param ve-map-layer geojson active url="https://raw.githubusercontent.com/may-wang/test/master/markers.json" title="Distribution"> 
 <param ve-image
 title="African-American dancing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
@@ -233,11 +231,11 @@ title="Square watermelon from Japan" url="https://upload.wikimedia.org/wikipedia
 [^ref23]: Irvin-Mitchell, A. (2016) ‘Square watermelons are novel, but also costly and labor-intensive’, Pittsburgh Post-Gazette, [online], https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201, [Accessed: 24/07/20]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTkzMzE0MywyMDU0NjgzNjAxLC00OD
-AyNTI2NTQsLTIxMTQyNTgxMzcsLTE1MjI2MTk0MjMsMTc5NTQw
-NDQ4MSwtNDkxMzM2MDI5LC0yNjI0MTEwNDEsLTIwNzMwNzQ5ND
-MsMTA0MzEyNjMxMyw5MTE5NjQ2NDksMTYyMjg3Nzg2NSwxODUx
-NzMzNjU1LDE3OTM3OTUzOTcsMTgzMjg4MjIwMCwxNzkzNzk1Mz
-k3LC0xMDc2MzU5NTk5LC0yMTM2OTA3MiwtMTA3NjM1OTU5OSwt
-MjEzNjkwNzJdfQ==
+eyJoaXN0b3J5IjpbMTI4MzMxNTQ0MSwtNDMxOTMzMTQzLDIwNT
+Q2ODM2MDEsLTQ4MDI1MjY1NCwtMjExNDI1ODEzNywtMTUyMjYx
+OTQyMywxNzk1NDA0NDgxLC00OTEzMzYwMjksLTI2MjQxMTA0MS
+wtMjA3MzA3NDk0MywxMDQzMTI2MzEzLDkxMTk2NDY0OSwxNjIy
+ODc3ODY1LDE4NTE3MzM2NTUsMTc5Mzc5NTM5NywxODMyODgyMj
+AwLDE3OTM3OTUzOTcsLTEwNzYzNTk1OTksLTIxMzY5MDcyLC0x
+MDc2MzU5NTk5XX0=
 -->
