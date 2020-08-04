@@ -107,7 +107,7 @@ title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_
 
 ## Conclusion
 **Generally speaking, we can deduce that the misnomer did not only happen in the Western world; it has circulated and influenced other knowledge traditions worldwide. Therefore, it is the time to clarify this misnomer, and to “redeem” the story of Pelargoniums both West and East.**
-<param ve-image static
+<param ve-image
 title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_ (_Pelargonium_) in Chinese." url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/photo_pelargonuim.jpeg" fit="cover" attribution="Chinese Gongbi Line Drawing of Hundred Flowers (Autumn and Winter). Tianjin Yangliuqing Fine Arts Press. 2005.">
 
 ## References
