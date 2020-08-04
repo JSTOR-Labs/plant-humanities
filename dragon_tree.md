@@ -38,6 +38,7 @@ Native to the Canary Islands, Cape Verde, Madeira, and recently found growing na
 <param title="Jean de Béthencourt" eid="Q447602">
 <param ve-map center="Q1800" zoom="2" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="geojson/Dracaena draco native.json" title="Distribution range" active>
+<param ve-map attribution="Key – this interactive map shows the native (green) range od Dracaena draco, as well as the areas where the tree has been introduced in the wild (Pink)">
 
 The Guanches used Dragon’s Blood for a variety of purposes ranging from embalming their dead, to making dyes and varnishes, to even using it as a toothpaste.[^5]  Believing that, when dragons died, they transformed into the divine trees, Guanches would regularly meet under the Orotava giant dragon tree’s large canopy to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.[^6]  Dragon’s Blood was, therefore, immensely valuable, as Béthencourt noted that the resin was, “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”[^7]  Several centuries later, scientific expeditions by naturalists Alexander von Humboldt and André Pierre Ledru would bring popular attention back to the islands and D. draco, as each traveler marveled at this very same tree in Orotava, – a tree impossibly large and old, and still echoing with mystical resonances. 
 <param title="Guanches" eid="Q219995">
