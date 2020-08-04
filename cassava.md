@@ -36,13 +36,10 @@ title="Pottery vessel" url="https://github.com/melindasusanto/demo1/blob/master/
 ## Indigenous Food Uses
 Cassava is a starchy tuber and can be used to make a variety of dishes and beverages. Most commonly it is made into a starchy flour to produce breads and cakes, or it can be used to make fermented beverages. Some of the earliest descriptions of cassava as a food source are found in books written by European travelers to South America. 
 
-In Peru, there is evidence from ancient textiles, pottery and archaeobotanical findings that the Moche (A.D. 250-750), Nazca (200 B.C.-A.D. 600)  and Chimú (A.D. 1000-1470) cultures all valued cassava.
-
 ## Making Cassava Bread
 The method of preparing flour from cassava is typically described as follows. First, the cassava root is grated, then it is soaked in liquid. Thereafter, the pulp is hung in a pleated basket or put under pressure to remove the liquid. The final step involves heating the pulp upon a hot surface. Images of indigenous peoples preparing the cassava root or making bread would recur in European texts from the 16th century through to the 18th century.
 <param ve-image
-title="_Historia naturalis Brasiliae_(1648)" url="https://www.biodiversitylibrary.org/pageimage/47360879"
-       fit="cover"
+title="_Historia naturalis Brasiliae_(1648)" url="https://www.biodiversitylibrary.org/pageimage/47360879" fit="cover"
        attribution="Biodiversity Heritage Library">
 <param ve-storiiies id="861e9">
 
@@ -63,36 +60,20 @@ title="Pots" url="https://github.com/melindasusanto/demo1/blob/master/Pots.jpg"
        fit="cover"
        attribution="tbc">
 
-## Sweet and bitter cassava
-Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic acid which is toxic to humans. The more bitter the cassava is, the more toxic it is. Making the cassava root safe for consumption continues to be a concern today, especially in developing countries where cassava is a food security crop.
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0233266">
-
-Today, these two varieties belong to the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists thought they were two different species. Then, bitter cassava was identified as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. An article on cyanogenesis in the 1906 Proceedings of the Royal Society of London outlines the many experimentations which had been conducted on the cassava root to determine its composition. Such endeavours can be traced back as early as the 18th century, when Europeans began to write about methods of extracting the starch from cassava. Before such technologies existed however, Europeans relied upon indigenous knowledge to learn how to process cassava before consumption. 
-
-## Subtitle tbc
-Subsistence in the Plantation Economy
+## Subsistence in Plantation Economies
 Cassava played an important role as a food source for slave labour in plantations in 16th century Portuguese Brazil, and the Spanish colonies in the Caribbean. It was becoming established as a staple in the West Indies by the 17th century, as illustrated in Maria Sybilla Merian’s Metamorphosis insectorum Surinamensium (1719). Merian’s book describes plants and insects she encountered during her stay in Dutch Surinam between 1699 and 1701. Her first entry on cassava notes insect activities revolving around the plant she encountered in June 1700. Her second entry describes cassava root as the ingredient for bread, a common food for both the indigenous peoples and Europeans living in America at this time. 
-
-
-<param ve-image
-title="_Historia naturalis Brasiliae_(1648)" url="https://www.biodiversitylibrary.org/pageimage/47360879"
-       fit="cover"
-       attribution="Biodiversity Heritage Library">
-The method of preparing cassava is illustrated in _Historia naturalis Brasiliae_ (1648), a comprehensive text on Brazilian flora and fauna. It was written by Willem Piso, a Dutch physician and naturalist who travelled with Johan Maurits and the Dutch West India Company to Brazil between 1637 to 1644. Albert Eckhout, an artist on this very same journey, also painted a still-life of the cassava plant, which became one of the earliest paintings of native flora from Brazil in Europe.
-<param ve-image
-title="Albert Eckhout,_Still life with Mandioca_, 17th century, National Museum of Denmark" url="Albert_Eckhout_Mandioca.jpg"
-       fit="cover"
-       attribution="Wikimedia Commons">
-
-Cassava was becoming established as a staple in the West Indies by the 17th century, as described in Maria Sybilla Merian’s _Metamorphosis insectorum Surinamensium_ (1719). Merian’s meticulously illustrated book describes plants and insects she encountered during her stay in Surinam between 1699 and 1701. Merian describes the cassava root as the ingredient for bread, a common food for both indigenous peoples and Europeans living in America by this time. 
 <param ve-image
 title="Maria Sybilla Merian, 17th century" url="https://ids.lib.harvard.edu/ids/iiif/481769556/full/full/0/default.jpg"
        fit="cover"
        attribution="Dumbarton Oaks">
+The increasingly global spread of cassava took place alongside the forced movements of slave labour, leading to diasporic communities which brought along their uses of cassava. One such travelling dish is fufu, an African dish made with a carbohydrate base, either cassava or plantains, and served with greens. This dish is known as angú in Brazil, mangú in the Dominican Republic, mofongo in Puerto Rico, and fufu de plátanos in Cuba. Today, fufu is still a staple dish in parts of Africa. 
 
-## Racism and slavery
-Descriptions of cassava in European texts became closely linked to emerging ideas of race as we move from the 18th into the 19th century. Even though earlier texts sometimes feature indigenous peoples working with some form of technology, texts from the late 18th century onwards began to situate indigenous peoples in more primitive-looking landscapes which reduce them to stereotypes. An engraving in Charles Thomas Middleton’s _Geography Systems_ (1769) demonstrates how books during this time applied derogatory terms such as “negroes” to black bodies.
+## Innovation…
+When they first encountered cassava, Europeans relied upon indigenous knowledge from Amerindians to learn how to process cassava before consumption. This knowledge of how to prepare the cassava root travelled as the plant was first transplanted across the Atlantic to Africa. African women knew that the cassava root was poisonous, but they learnt to prepare its leaves instead. They discovered that young cassava leaves could be safely consumed after being boiled. 
 
+## …and Experimentation
+Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic compounds which are toxic to humans. The more bitter the cassava is, the higher the concentration of hydrocyanic compounds. Today, both varieties exist for the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists thought they were two different species. A 1906 article on cyanogenesis outlines various experiments which had been conducted on the cassava root to determine its composition. The article’s authors were in favour of Pohl’s identification of bitter cassava as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. 
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0233266">
 
 ## Diasporic and contemporary food uses
 <param ve-image
