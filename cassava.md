@@ -38,6 +38,9 @@ title="Pottery vessel" url="https://raw.githubusercontent.com/melindasusanto/dem
 
 ## Indigenous Food Uses
 Cassava is a starchy tuber and can be used to make a variety of dishes and beverages. Most commonly it is made into a starchy flour to produce breads and cakes, or it can be used to make fermented beverages. Some of the earliest descriptions of cassava as a food source are found in books written by European travelers to South America. 
+<param ve-image
+title="Cassava roots" url="https://commons.wikimedia.org/wiki/File:Manihot_esculenta_dsc07325.jpg" fit="cover"
+       attribution="Wikimedia Commons">
 
 ## Making Cassava Bread
 The method of preparing flour from cassava is typically described as follows. First, the cassava root is grated, then it is soaked in liquid. Thereafter, the pulp is hung in a pleated basket or put under pressure to remove the liquid. The final step involves heating the pulp upon a hot surface. Images of indigenous peoples preparing the cassava root or making bread would recur in European texts from the 16th century through to the 18th century.
@@ -47,7 +50,7 @@ title="_Historia naturalis Brasiliae_(1648)" url="https://www.biodiversitylibrar
 <param ve-storiiies id="861e9">
 
 ## Fermented beverages
-Accounts of native peoples in South America and Latin America producing fermented beverages also permeate the records kept by European travellers, missionaries and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman Jean de Léry who visited Brazil. In the early 17th century a Spaniard, Antonio de León Pinelo, kept a very similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in the 19th century in Nicaragua.  Depending on the location, the beverage can be called chicha, massato (a non-alcoholic variant mixed with honey), acca, kufa or mushla.  
+Accounts of native peoples in South America and Latin America producing fermented beverages also permeate the records kept by European travellers, missionaries and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman [Jean de Léry](https://books.google.nl/books?id=rK1hAAAAcAAJ&dq=Histoire%20d'un%20voyage%20fait%20en%20la%20terre%20de%20Br%C3%A9sil&hl=nl&pg=PA132#v=thumbnail&q=aypi&f=false) who visited Brazil. In the early 17th century a Spaniard, Antonio de León Pinelo, kept a very similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in the 19th century in Nicaragua.  Depending on the location, the beverage can be called chicha, massato (a non-alcoholic variant mixed with honey), acca, kufa or mushla.  
 <param ve-image
 title="Antonio de León Pinelo (1636)" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Pinelo.jpg"
        fit="cover"
