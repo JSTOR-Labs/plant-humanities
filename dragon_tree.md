@@ -78,7 +78,7 @@ In 1799, as he stopped in Tenerife before his voyage to the Americas that would 
 <param title="Tenerife" eid="Q40846">
 <param title="Personal Narrative" url="https://www.biodiversitylibrary.org/item/228502#page/5/mode/1up">
 <param url="https://www.biodiversitylibrary.org/pageimage/23980703" ve-image region="pct:8,5,145,140" title="Personal Narrative, Humboldt, 1857">
-<param ve-image url="https://www.biodiversitylibrary.org/pageimage/23980703" region="pct:8,5,150,145">
+<param ve-image url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/DON%20JUAN%20FRANCISCO%20DE%20FRANCHI%20ALFARO.jpg" title="Simón Cattoir y C. de Freudenberg: Jardines y casa de Franchy, Grabado al buril, Ca. 1770. "region="pct:8,5,150,145">
 
 ## Smothering the Dragon’s Flame: D. draco and the Anthropocene
 
