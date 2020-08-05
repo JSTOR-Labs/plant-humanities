@@ -76,9 +76,9 @@ title="The Victorian flower market" url="https://github.com/JSTOR-Labs/plant-hum
 
 By the end of the Industrial Revolution, the *Pelargonium* was firmly instated as a staple in British domestic interiors, gardens, and patios; writing in 1895, Donald McDonald remarks that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums”.[^sslafl] In his 1875 book [*The amateur's flower garden*](https://www.biodiversitylibrary.org/bibliography/145001#/summary), Shirley Hibberd designed several layouts for the creation of a harmonious “geranium garden” (of course, really a *Pelargonium* garden) based on the plant’s striking colour variations. In the layout of a panel garden, Hibbers suggests two potential summer schemes: one for a red-harmony garden, and one in a blue-harmony style.[^tafg] 
 <param ve-image
-title="Hubberd’s Victorian garden plans, including bedding pelargoniums" url="https://www.biodiversitylibrary.org/pageimage/55342041" region="pct:20,10,60,60" attribution="Biodiversity Heritage Library">
+title="Shirley Hubberd’s Victorian garden plans, including bedding pelargoniums" url="https://www.biodiversitylibrary.org/pageimage/55342041" region="pct:20,10,60,60" attribution="Biodiversity Heritage Library">
 <param ve-image
-title="Hubberd’s Victorian garden plans, including bedding pelargoniums (explanation)" url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/bedding_pelargoniums_explanation.jpg" fit="cover" attribution="Biodiversity Heritage Library, image editted by Yao Jiang">
+title="Shirley Hubberd’s Victorian garden plans, including bedding pelargoniums (explanation)" url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/bedding_pelargoniums_explanation.jpg" fit="cover" attribution="Biodiversity Heritage Library, image editted by Yao Jiang">
 <param ve-image
 title="Pelargoniums in the designs of the Jardins de Luxembourg in Paris" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Hortalia.jpg" fit="cover" attribution="Goffart, J. L. et Guillot, J. R., [Corbeille], Hortalia, consulté le 5 août 2020, http://bibliotheque-numerique.hortalia.org/items/show/2306">
 
