@@ -104,7 +104,9 @@ Instructions for Livingston Cassava Bread:
 4. Make the pressed meal into flat loaves roughly three feet in diameter and less than an inch thick.
 
 5. Dry and bake the loaves. 
+
 The result, Brigham reports, is a “wholesome and very nutritious bread, which keeps a long time and is capital on an excursion.” Brigham notes that cassava bread also makes for:
+
 * “Excellent puddings”
 
 * A better accompaniment for soup than crackers
