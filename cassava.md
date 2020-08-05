@@ -92,18 +92,29 @@ title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="ht
        fit="cover"
        attribution="Wikimedia Commons">
 In 1887, American botanist, geologist, and ethnologist William Tufts Brigham published _Guatemala, The Land of the Quetzal_, in which he reported observations from his time in the book’s eponymous region. While visiting the town of Livingston, he describes being invited into people’s homes and witnessing the process of making cassava bread. He first notes the size of the cassava roots (twenty or thirty pounds) and their poisonous juice, before explaining how the bread is made.
+
 Instructions for Livingston Cassava Bread:
-1.Using a mahogany board with inserted quartz crystal, grate the cassava root into a coarse meal.
-2.Wash the meal carefully and partly remove the starch, which will settle in the water as tapioca.
-3.Place the meal in a serpiente, or a basket-work sack, which will serve as a press and squeeze the meal.
-4.Make the pressed meal into flat loaves roughly three feet in diameter and less than an inch thick.
-5.Dry and bake the loaves. 
+
+1. Using a mahogany board with inserted quartz crystal, grate the cassava root into a coarse meal.
+
+2. Wash the meal carefully and partly remove the starch, which will settle in the water as tapioca.
+
+3. Place the meal in a serpiente, or a basket-work sack, which will serve as a press and squeeze the meal.
+
+4. Make the pressed meal into flat loaves roughly three feet in diameter and less than an inch thick.
+
+5. Dry and bake the loaves. 
 The result, Brigham reports, is a “wholesome and very nutritious bread, which keeps a long time and is capital on an excursion.” Brigham notes that cassava bread also makes for:
-•   “Excellent puddings”
-•   A better accompaniment for soup than crackers
-•   An indispensable snack in the woods
-•   “A capital diet in dyspepsia”
-•   A palatable food for sea-sickness that “serves to fill out the bony outlines of an emaciated human frame better than anything else.”
+
+- “Excellent puddings”
+
+- A better accompaniment for soup than crackers
+
+- An indispensable snack in the woods
+
+- “A capital diet in dyspepsia”
+
+- A palatable food for sea-sickness that “serves to fill out the bony outlines of an emaciated human frame better than anything else.”
 
  <param ve-map center="Q3757" zoom="3" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/melindasusanto/demo1/master/AsiaPacific.json" title="SE Asia" fill="#92086D" marker-symbol="landmark" active>
@@ -117,11 +128,16 @@ title="Dutch East Indies, 1915" url="https://raw.githubusercontent.com/melindasu
        attribution="Wikimedia Commons">
 English botanist Isaac Henry Burkill similarly observed that “there were two chapters in the establishment of the plant outside its home—one concerned with the carrying of it abroad as a vegetable, and the other with the establishment abroad of its industrial use. A long space of time separated them, as the plant was taken overseas as a vegetable about the year 1500, but the establishment of a tapioca [a cassava byproduct] industry outside America did not follow until two and a half centuries later.” Although it is difficult to ascertain by what routes cassava was taken overseas and exactly when it became popularized outside of South America, by the twentieth century, cassava was being actively grown as a crop in southern North America, central Africa, and South and Southeast Asia.
 Here we see a photo of workers in the cassava industry in the Dutch East Indies taken around 1915. Burkill describes the process of making one particular Javanese cassava dish:
-1.Peel cassava tubers
-2.Steam the inner parts of the tubers
-3.Cut steamed inner parts into pieces
-4.Sun-dry or pickle the pieces in brine
-5.Fry the cassava pieces 
+
+1. Peel cassava tubers
+
+2. Steam the inner parts of the tubers
+
+3. Cut steamed inner parts into pieces
+
+4. Sun-dry or pickle the pieces in brine
+
+5. Fry the cassava pieces 
 
 ## Conclusion
 <param ve-map time-selector="1600:2000" basemap="Esri_WorldPhysical" center="Q3757" zoom="3" hide-labels>
@@ -140,6 +156,7 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 [^6]: “Stirrup Spout Bottle with Manioc Form,” _The Metropolitan Museum of Art_, accessed July 20, 2020, https://www.metmuseum.org/art/collection/search/308558 
 [^7]:  “Vessel Forms,” _Dumbarton Oaks_, accessed July 28, 2020, https://www.doaks.org/resources/moche-iconography/vessel-forms
 [^8]: Hélène Bernier, “Moche Decorated Ceramics,” _The Metropolitan Museum of Art_, last modified August 2009, https://www.metmuseum.org/toah/hd/moch/hd_moch.htm; “Lords, Warriors, and Priests,” _Peabody Museum_, accessed July 20, 2020, https://www.peabody.harvard.edu/node/2499
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU5MTkzNDY2Nyw0NzQ3MjQ1MzQsMzU1OT
 Q1MDI4XX0=
