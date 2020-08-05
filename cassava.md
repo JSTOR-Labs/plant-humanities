@@ -75,7 +75,7 @@ The increasingly global spread of cassava took place alongside the forced moveme
 <param title="Puerto Rico" eid="Q1183">
 
 ## Innovation…
-When they first encountered cassava, Europeans relied upon indigenous knowledge from Amerindians to learn how to process cassava before consumption. This knowledge of how to prepare the cassava root travelled as the plant was first transplanted across the Atlantic to Africa. African women knew that the cassava root was poisonous, but they learnt to prepare its leaves instead. They discovered that young cassava leaves could be safely consumed after being boiled. 
+When they first encountered cassava, Europeans relied upon indigenous knowledge from Amerindians to learn how to prepare cassava for consumption. This knowledge travelled as the plant was first transplanted across the Atlantic to Africa. African women knew that the cassava root was poisonous, but they learnt to prepare its leaves instead. They discovered that young cassava leaves could be safely consumed after being boiled. 
 <param ve-map center="Q1033" zoom="3">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
 
