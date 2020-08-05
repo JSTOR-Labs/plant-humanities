@@ -81,7 +81,7 @@ Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, b
 title="_Proceedings of the Royal Society London_(1906)" url="https://www.biodiversitylibrary.org/pageimage/43363072" fit="cover"
        attribution="Biodiversity Heritage Library">
 
-The botanical specimen on the right was collected by Pohl himself in Brazil. One inscription shows its earlier identification as Manihot utilissima, while a later hand updates the scientific classification to the name it is known today, _Manihot esculenta_ [Crantz](https://www.biodiversitylibrary.org/bibliography/72216). Experiments to understand the natural world through chemical means can be traced back as early as [the 18th century](https://www.biodiversitylibrary.org/page/57980618), when Europeans began to write about methods of extracting the starch from cassava. The potential of cassava for industrial production would become more apparent in the 19th and 20th centuries.
+The botanical specimen on the right was collected by Pohl himself in Brazil. One inscription shows its earlier identification as Manihot utilissima, while a later hand updates the scientific classification to the name it is known today, _Manihot esculenta_ [Crantz](https://www.biodiversitylibrary.org/bibliography/72216). Experiments to understand the natural world through chemical means can be traced back as early as [the 18th century](https://www.biodiversitylibrary.org/page/57980618), when Europeans began to write about methods of extracting the starch from cassava.[^23] The potential of cassava for industrial production would become more apparent in the 19th and 20th centuries.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0233266">
 
 ## Diasporic and contemporary food uses
@@ -166,6 +166,7 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 [^20]: Ibid, 178.
 [^21]: A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” _Food Security_ 9, (2017): 914. doi: 10.1007/s12571-017-0717-8
 [^22]: Wyndham R. Dunstan, T. A. Henry, and S. J. M. Auld, “Cyanogenesis in Plants: Part V – The Occurrence of Phaseolunatin in Cassava (Manihot Aipi and Manihot utilissima)” _Proceedings of the Royal Society of London_ (1906): 152-158. https://www.biodiversitylibrary.org/page/43363072
+[^23]: Antoine-François de Fourcroy and Jean-Michel Papillon, _Élémens d’histoire naturelle et de chemie_ (Paris: Chez Cuchet, 1786), 106. https://www.biodiversitylibrary.org/page/57980618
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU5MTkzNDY2Nyw0NzQ3MjQ1MzQsMzU1OT
 Q1MDI4XX0=
