@@ -77,8 +77,8 @@ European interest in _D. draco_ again resurfaced in the late eighteenth century 
 In 1799, as he stopped in Tenerife before his voyage to the Americas that would make him world-famous, Humboldt found himself in the village of Orotava. There, he entered the garden of a Monsieur Franchy and was immediately awe-struck by the sheer size and magnitude of the dragon tree there – the very same tree that the Guanches had worshipped for centuries. He reported it to measure 60 feet tall and 45 feet in circumference near the roots. “We were told that the trunk of this tree,” Humboldt wrote in his _Personal Narrative_, “which is mentioned in several ancient documents as marking the boundaries of a field, was as gigantic in the fifteenth century as it is at the present time.” According to his calculations, the specimen was undoubtedly “one of the oldest inhabitants in our world,” which called for special protection.[^12] Humboldt’s experience with the large _D. draco_ at Orotava was far more than the mere realization of a boyish dream, but was instead a pioneering act that that inspired other European travelers to follow in his footsteps and help strengthen a global network of scientific and economic exchanges focused on plants. 
 <param title="Tenerife" eid="Q40846">
 <param title="Personal Narrative" url="https://www.biodiversitylibrary.org/item/228502#page/5/mode/1up">
-<param url="https://www.biodiversitylibrary.org/pageimage/23980703" ve-image title="Personal Narrative, Humboldt, 1857" region="pct:8,5,95,90">
-<param ve-image url="https://www.biodiversitylibrary.org/pageimage/23980703" region="pct:8,5,95,90">
+<param url="https://www.biodiversitylibrary.org/pageimage/23980703" ve-image title="Personal Narrative, Humboldt, 1857" region="pct:8,5,145,140">
+<param ve-image url="https://www.biodiversitylibrary.org/pageimage/23980703" region="pct:8,5,150,145">
 
 ## Smothering the Dragon’s Flame: D. draco and the Anthropocene
 
