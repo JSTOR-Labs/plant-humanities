@@ -70,6 +70,10 @@ title="Maria Sybilla Merian, 17th century" url="https://ids.lib.harvard.edu/ids/
        attribution="Dumbarton Oaks">
 
 The increasingly global spread of cassava took place alongside the forced movements of slave labour, leading to diasporic communities which brought along their uses of cassava. One such travelling dish is fufu, an African dish made with a carbohydrate base, either cassava or plantains, and served with greens. This dish is known as angú in Brazil, mangú in the Dominican Republic, mofongo in Puerto Rico, and fufu de plátanos in Cuba. Today, fufu is still a staple dish in parts of Africa. 
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
+<param title="Brazil" eid="Q155">
+<param title="Cuba" eid="Q241">
+<param title="Dominican Republic" eid="Q786">
 
 ## Innovation…
 When they first encountered cassava, Europeans relied upon indigenous knowledge from Amerindians to learn how to process cassava before consumption. This knowledge of how to prepare the cassava root travelled as the plant was first transplanted across the Atlantic to Africa. African women knew that the cassava root was poisonous, but they learnt to prepare its leaves instead. They discovered that young cassava leaves could be safely consumed after being boiled. 
