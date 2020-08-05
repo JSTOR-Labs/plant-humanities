@@ -17,7 +17,7 @@ The native distribution of cassava spans from western South American to Brazil.[
 
 ## A plant valued by ancient civilizations
 In Peru, there is evidence from ancient textiles, pottery and archaeobotanical findings that the Moche (250-750 C.E.), Nazca (200 B.C.E.-600 C.E.)  and Chimú (1000-1470 C.E.) cultures all used and valued cassava.[^5]
-<param ve-map center="Q419" zoom="6" basemap="Esri_WorldPhysical">
+<param ve-map center="Q419" zoom="6">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" marker-symbol="landmark" active>
 <param title="Peru" eid="Q419">
  
