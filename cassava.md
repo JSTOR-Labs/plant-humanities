@@ -28,8 +28,7 @@ title="Earthenware ceramic" url="https://raw.githubusercontent.com/melindasusant
        attribution="tbc">
 
 testing this here: to the right the Storiiies version of the ceramic should appear:
-<param ve-storiiies id="<iframe width="100%" height="600" src="https://storiiies.cogapp.com/viewer/a11gl/Moche-StirrupSpout-Bottle-Cassava?embed=true" title="Moche Stirrup-Spout Bottle, Cassava"></iframe>
-
+<param ve-storiiies id="a11gl" title="Moche Stirrup-Spout Bottle, Cassava">
 
 ## Indigenous Food Uses
 Cassava is a starchy tuber and can be used to make a variety of dishes and beverages. Most commonly it is made into a starchy flour to produce breads and cakes, or it can be used to make fermented beverages. Some of the earliest descriptions of cassava as a food source are found in books written by European travelers to South America. 
