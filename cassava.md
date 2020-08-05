@@ -28,7 +28,7 @@ title="Earthenware ceramic" url="https://raw.githubusercontent.com/melindasusant
        attribution="tbc">
 
 testing this here: to the right the Storiiies version of the ceramic should appear:
-<param ve-storiiies url="https://storiiies.cogapp.com/viewer/951gk/Moche-StirrupSpout-Bottle-Cassava?_ga=2.231611034.481649438.1596548504-1283305985.1594905483">
+<param ve-storiiies id="<iframe width="100%" height="600" src="https://storiiies.cogapp.com/viewer/a11gl/Moche-StirrupSpout-Bottle-Cassava?embed=true" title="Moche Stirrup-Spout Bottle, Cassava"></iframe>
 
 
 ## Indigenous Food Uses
