@@ -46,7 +46,7 @@ title="_Historia naturalis Brasiliae_(1648)" url="https://www.biodiversitylibrar
 <param ve-storiiies id="861e9">
 
 ## Fermented beverages
-Accounts of native peoples in South America and Latin America producing fermented beverages also permeate the records kept by European travellers, missionaries and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman [Jean de Léry](https://books.google.nl/books?id=rK1hAAAAcAAJ&dq=Histoire%20d'un%20voyage%20fait%20en%20la%20terre%20de%20Br%C3%A9sil&hl=nl&pg=PA132#v=thumbnail&q=aypi&f=false) who visited Brazil. In the early 17th century a Spaniard, Antonio de León Pinelo, kept a very similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in the 19th century in Nicaragua.  Depending on the location, the beverage can be called chicha, massato (a non-alcoholic variant mixed with honey), acca, kufa or mushla.  
+Accounts of native peoples in South America and Latin America producing fermented beverages also permeate the records kept by European travellers, missionaries and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman [Jean de Léry](https://books.google.nl/books?id=rK1hAAAAcAAJ&dq=Histoire%20d'un%20voyage%20fait%20en%20la%20terre%20de%20Br%C3%A9sil&hl=nl&pg=PA132#v=thumbnail&q=aypi&f=false) who visited Brazil. In the early 17th century a Spaniard, Antonio de León Pinelo, kept a very similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in the 19th century in Nicaragua.  Depending on the location, the beverage can be called _chicha_, _massato_ (a non-alcoholic variant mixed with honey), _acca_, _kufa_ or _mushla_.  
 <param ve-image
 title="Antonio de León Pinelo (1636)" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Pinelo.jpg"
        fit="cover"
@@ -66,7 +66,7 @@ title="Maria Sybilla Merian, 17th century" url="https://ids.lib.harvard.edu/ids/
        fit="cover"
        attribution="Dumbarton Oaks">
 
-The increasingly global spread of cassava took place alongside the forced movements of slave labour, leading to diasporic communities which brought along their uses of cassava. One such travelling dish is fufu, an African dish made with a carbohydrate base, either cassava or plantains, and served with greens. This dish is known as angú in Brazil, mangú in the Dominican Republic, mofongo in Puerto Rico, and fufu de plátanos in Cuba. Today, fufu is still a staple dish in parts of Africa. 
+The increasingly global spread of cassava took place alongside the forced movements of slave labour, leading to diasporic communities which brought along their uses of cassava. One such dish is _fufu_, an African dish made with a carbohydrate base, either cassava or plantains, and served with greens. This dish is known as _angú_ in Brazil, _mangú_ in the Dominican Republic, _mofongo_ in Puerto Rico, and _fufu de plátanos_ in Cuba. Today, _fufu_ is still a staple dish in parts of Africa. 
 <param ve-map center="Q739" zoom="3">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" fill="#92086D" marker-symbol="landmark" active>
 <param title="Brazil" eid="Q155">
