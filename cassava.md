@@ -70,10 +70,12 @@ title="Maria Sybilla Merian, 17th century" url="https://ids.lib.harvard.edu/ids/
        attribution="Dumbarton Oaks">
 
 The increasingly global spread of cassava took place alongside the forced movements of slave labour, leading to diasporic communities which brought along their uses of cassava. One such travelling dish is fufu, an African dish made with a carbohydrate base, either cassava or plantains, and served with greens. This dish is known as angú in Brazil, mangú in the Dominican Republic, mofongo in Puerto Rico, and fufu de plátanos in Cuba. Today, fufu is still a staple dish in parts of Africa. 
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
+<param ve-map center="Q241" zoom="6">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" fill="#92086D" marker-symbol="landmark" active>
 <param title="Brazil" eid="Q155">
 <param title="Cuba" eid="Q241">
 <param title="Dominican Republic" eid="Q786">
+<param title="Puerto Rico" eid="Q1183">
 
 ## Innovation…
 When they first encountered cassava, Europeans relied upon indigenous knowledge from Amerindians to learn how to process cassava before consumption. This knowledge of how to prepare the cassava root travelled as the plant was first transplanted across the Atlantic to Africa. African women knew that the cassava root was poisonous, but they learnt to prepare its leaves instead. They discovered that young cassava leaves could be safely consumed after being boiled. 
@@ -121,7 +123,7 @@ Here we see a photo of workers in the cassava industry in the Dutch East Indies 
 
 ## Conclusion
 <param ve-map center="Q3757" zoom="3">
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="SE Asia" fill="#92086D" marker-symbol="landmark" active>
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/melindasusanto/demo1/master/AsiaPacific.json" title="SE Asia" fill="#92086D" marker-symbol="landmark" active>
 Today, cassava is still grown in Java, and in other regions around the globe. This resilient, adaptable root with nutritious value has long become an ubiquitous presence in our lives, from tapioca school pudding to bubble tea. People all over the world continue to reinvent its meaning and connect to cassava in their own ways. Nigerian-American artist Njideka Akyunyili Crosby has featured cassava prominently in her work as she explores the ability of people, plants, and paintings to inhabit multiple spaces. For Crosby, cassava has a specific association with village life in Nigeria. In her painting _Cassava Garden_, she juxtaposes it with an Indian rubber tree from her life in Los Angeles to create an imagined garden where two plants that are not usually found together can coexist. Ultimately, she uses cassava and the Indian rubber tree to ask, “when does something belong to a place?” 
 <param ve-image
 title="Cassava Garden" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Crosby.jpg"
