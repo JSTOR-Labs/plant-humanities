@@ -10,14 +10,14 @@
 
 ## Introduction 
 The native distribution of cassava spans from western South American to Brazil. Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots around 8,000 B.C.E.[^1] From there, domesticated _Manihot esculenta_ spread through short-distance trade of seeds or stem cuttings from the plant, rather than by transporting the perishable roots. With a preference for warm and hot climes, today cassava can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean.
-<param ve-map center="Q974" zoom="2" time-selector="8000 BCE:2000">
+<param ve-map center="Q974" zoom="2" time-selector="8000 BCE:2000" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" marker-symbol="landmark" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/melindasusanto/demo1/master/AsiaPacific.json" title="SE Asia" fill="#92086D" marker-symbol="landmark" active>
 
 ## A plant valued by ancient civilizations
 In Peru, there is evidence from ancient textiles, pottery and archaeobotanical findings that the Moche (250-750 C.E.), Nazca (200 B.C.E.-600 C.E.)  and Chimú (1000-1470 C.E.) cultures all used and valued cassava.
-<param ve-map center="Q419" zoom="6">
+<param ve-map center="Q419" zoom="6" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" fill="#92086D" marker-symbol="landmark" active>
 <param title="Peru" eid="Q419">
  
@@ -65,7 +65,7 @@ title="Maria Sybilla Merian, 17th century" url="https://ids.lib.harvard.edu/ids/
        attribution="Dumbarton Oaks">
 
 The increasingly global spread of cassava took place alongside the forced movements of slave labour, leading to diasporic communities which brought along their uses of cassava. One such dish is _fufu_, an African dish made with a carbohydrate base, either cassava or plantains, and usually served with greens. This dish is known as _angú_ in Brazil, _mangú_ in the Dominican Republic, _mofongo_ in Puerto Rico, and _fufu de plátanos_ in Cuba. Today, _fufu_ is still a staple dish in parts of Africa. 
-<param ve-map center="Q739" zoom="3">
+<param ve-map center="Q739" zoom="3" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" fill="#92086D" marker-symbol="landmark" active>
 <param title="Brazil" eid="Q155">
 <param title="Cuba" eid="Q241">
@@ -105,7 +105,7 @@ The result, Brigham reports, is a “wholesome and very nutritious bread, which 
 •   An indispensable snack in the woods
 •   “A capital diet in dyspepsia”
 •   A palatable food for sea-sickness that “serves to fill out the bony outlines of an emaciated human frame better than anything else.”
- <param ve-map center="Q3757" zoom="3">
+ <param ve-map center="Q3757" zoom="3" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/melindasusanto/demo1/master/AsiaPacific.json" title="SE Asia" fill="#92086D" marker-symbol="landmark" active>
 <param title="Java" eid="Q3757">
 Brigham also remarks that cassava bread loaves are attractive and would be easy to export, and suggests they be sold overseas for their dietary benefits.
