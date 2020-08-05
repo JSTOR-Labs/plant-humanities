@@ -85,7 +85,7 @@ Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, b
 title="_Proceedings of the Royal Society London_(1906)" url="https://www.biodiversitylibrary.org/pageimage/43363072" fit="cover"
        attribution="Biodiversity Heritage Library">
 
-The botanical specimen on the right was collected by Pohl himself in Brazil. One inscription shows its earlier identification as Manihot utilissima, while a later hand updates the scientific classification to the name it is known today, _Manihot esculenta_[Crantz](bibdigital.rjb.csic.es/idviewer/10862/223). Experiments to understand the natural world through chemical means can be traced back as early as [the 18th century](https://www.biodiversitylibrary.org/page/57980618), when Europeans began to write about methods of extracting the starch from cassava. The potential of cassava for industrial production would become more apparent in the 19th and 20th centuries.
+The botanical specimen on the right was collected by Pohl himself in Brazil. One inscription shows its earlier identification as Manihot utilissima, while a later hand updates the scientific classification to the name it is known today, _Manihot esculenta_ [Crantz](https://www.biodiversitylibrary.org/page/57980618). Experiments to understand the natural world through chemical means can be traced back as early as [the 18th century](https://www.biodiversitylibrary.org/page/57980618), when Europeans began to write about methods of extracting the starch from cassava. The potential of cassava for industrial production would become more apparent in the 19th and 20th centuries.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0233266">
 
 ## Diasporic and contemporary food uses
