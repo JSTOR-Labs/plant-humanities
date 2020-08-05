@@ -167,6 +167,13 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 [^21]: A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” _Food Security_ 9, (2017): 914. doi: 10.1007/s12571-017-0717-8
 [^22]: Wyndham R. Dunstan, T. A. Henry, and S. J. M. Auld, “Cyanogenesis in Plants: Part V – The Occurrence of Phaseolunatin in Cassava (Manihot Aipi and Manihot utilissima)” _Proceedings of the Royal Society of London_ (1906): 152-158. https://www.biodiversitylibrary.org/page/43363072
 [^23]: Antoine-François de Fourcroy and Jean-Michel Papillon, _Élémens d’histoire naturelle et de chemie_ (Paris: Chez Cuchet, 1786), 106. https://www.biodiversitylibrary.org/page/57980618
+[^24]: William Tufts Brigham and Jay I. Kislak Collection (Library of Congress), _Guatemala, the Land of the Quetzal: A Sketch,_ xv, 453 p., [28] leaves of plates (some folded) (New York: Charles Scribner’s Sons, 1887): 32.
+[^25]: Ibid.
+[^26]: Ibid.
+[^27]: Ibid.
+[^28]: Ibid.
+[^29]: I. H. Burkill et al., _A Dictionary of the Economic Products of the Malay Peninsula,_ 2 v. (London: Published on behalf of the governments of the Straits settlements and Federated Malay states by the Crown agents for the colonies, 1935): 1414.
+[^30]: Ibid, 1412.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU5MTkzNDY2Nyw0NzQ3MjQ1MzQsMzU1OT
 Q1MDI4XX0=
