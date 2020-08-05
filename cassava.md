@@ -76,12 +76,12 @@ When they first encountered cassava, Europeans relied upon indigenous knowledge 
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
 
 ## …and Experimentation
-Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic compounds which are toxic to humans.[^21] The more bitter the cassava is, the higher the concentration of hydrocyanic compounds. Today, both varieties exist for the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists thought they were two different species. A [1906 article on cyanogenesis](https://www.biodiversitylibrary.org/page/43363072) outlines various experiments which had been conducted on the cassava root to determine its composition. The article’s authors were still in favour of Pohl’s identification of bitter cassava as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. 
+Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic compounds which are toxic to humans.[^21] The more bitter the cassava is, the higher the concentration of hydrocyanic compounds. Today, both varieties exist for the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists thought they were two different species. A [1906 article on cyanogenesis](https://www.biodiversitylibrary.org/page/43363072) outlines various experiments which had been conducted on the cassava root to determine its composition.[^22] The article’s authors were still in favour of Pohl’s identification of bitter cassava as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. 
 <param ve-image
 title="_Proceedings of the Royal Society London_(1906)" url="https://www.biodiversitylibrary.org/pageimage/43363072" fit="cover"
        attribution="Biodiversity Heritage Library">
 
-The botanical specimen on the right was collected by Pohl himself in Brazil. One inscription shows its earlier identification as Manihot utilissima, while a later hand updates the scientific classification to the name it is known today, _Manihot esculenta_ [Crantz](https://www.biodiversitylibrary.org/bibliography/72216). Experiments to understand the natural world through chemical means can be traced back as early as [the 18th century](https://www.biodiversitylibrary.org/page/57980618), when Europeans began to write about methods of extracting the starch from cassava. The potential of cassava for industrial production would become more apparent in the 19th and 20th centuries.
+The botanical specimen on the right was collected by Pohl himself in Brazil. The inscriptions show its earlier identifications, while a later label updates the scientific classification to the name it is known by today, _Manihot esculenta_ [Crantz](https://www.biodiversitylibrary.org/bibliography/72216). Experiments to understand the natural world through chemical means can be traced back as early as [the 18th century](https://www.biodiversitylibrary.org/page/57980618), when Europeans began to write about methods of extracting the starch from cassava.[^23] The potential of cassava for industrial production would become more apparent in the 19th and 20th centuries.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0233266">
 
 ## Diasporic and contemporary food uses
@@ -158,13 +158,23 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 [^12]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_(Berkeley: University of California Press, n.d.) https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/1feg4j8/alma991012177589704436
 [^13]: Ana Lucia Barretto Penna, Luis A. Nero and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications._ (Boca Raton: CRC Press, 2017), 238.  https://doi-org.proxy.libraries.uc.edu/10.1201/9781315369433
 [^14]: Kaori O’Connor, “Beyond ‘Exotic Groceries’: Tapioca/Cassava/Manioc, a Hidden Commodity of Empires and Globalisation,” in _Global Histories, Imperial Commodities, Local Interactions,_ ed. Jonathan Curry-Machado (Hampshire and New York: Palgrave Macmillan, 2013), 227. https://doi.org/10.1057/9781137283603_12
-[^15]: Maria Sibylla Merian, Metamorphosis insectorum Surinamensium (Amstelaedami : Joannem Oosterwyk, 1719), 4. https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16
+[^15]: Maria Sibylla Merian, _Metamorphosis insectorum Surinamensium_ (Amstelaedami : Joannem Oosterwyk, 1719), 4. https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16
 [^16]: Ibid, 5.
 [^17]: Judith Ann Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery_, (Berkeley and Los Angeles: University of California Press, 2009), 180.
 [^18]: Ibid.
 [^19]: Ibid, 54.
 [^20]: Ibid, 178.
-[^21]: A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” Food Security 9, (2017): 914. doi: 10.1007/s12571-017-0717-8
+[^21]: A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” _Food Security_ 9, (2017): 914. doi: 10.1007/s12571-017-0717-8
+[^22]: Wyndham R. Dunstan, T. A. Henry, and S. J. M. Auld, “Cyanogenesis in Plants: Part V – The Occurrence of Phaseolunatin in Cassava (Manihot Aipi and Manihot utilissima)” _Proceedings of the Royal Society of London_ (1906): 152-158. https://www.biodiversitylibrary.org/page/43363072
+[^23]: Antoine-François de Fourcroy and Jean-Michel Papillon, _Élémens d’histoire naturelle et de chemie_ (Paris: Chez Cuchet, 1786), 106. https://www.biodiversitylibrary.org/page/57980618
+[^24]: William Tufts Brigham and Jay I. Kislak Collection (Library of Congress), _Guatemala, the Land of the Quetzal: A Sketch,_ xv, 453 p., [28] leaves of plates (some folded) (New York: Charles Scribner’s Sons, 1887): 32.
+[^25]: Ibid.
+[^26]: Ibid.
+[^27]: Ibid.
+[^28]: Ibid.
+[^29]: I. H. Burkill et al., _A Dictionary of the Economic Products of the Malay Peninsula,_ 2 v. (London: Published on behalf of the governments of the Straits settlements and Federated Malay states by the Crown agents for the colonies, 1935): 1414.
+[^30]: Ibid, 1412.
+[^31]: Ibid, 1418.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU5MTkzNDY2Nyw0NzQ3MjQ1MzQsMzU1OT
 Q1MDI4XX0=
