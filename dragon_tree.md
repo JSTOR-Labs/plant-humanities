@@ -48,7 +48,7 @@ Native to the Canary Islands, Cape Verde, Madeira, and recently found growing na
 
 The Guanches used Dragon’s Blood for a variety of purposes ranging from embalming their dead, to making dyes and varnishes, to even using it as a toothpaste.[^5]  Believing that, when dragons died, they transformed into the divine trees, Guanches would regularly meet under the Orotava giant dragon tree’s large canopy to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.[^6]  Dragon’s Blood was, therefore, immensely valuable, as Béthencourt noted that the resin was, “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”[^7]  Several centuries later, scientific expeditions by naturalists Alexander von Humboldt and André Pierre Ledru would bring popular attention back to the islands and _D. draco_, as each traveler marveled at this very same tree in Orotava – a tree impossibly large and old, and still echoing with mystical resonances. 
 <param title="Guanches" eid="Q219995">
-<param title="Orotava" eid="Q177566">
+<param title="Orotava" eid="Q177566" aliases="Orotava">
 <param primary ve-storiiies id="751f7">
 
 ## Dragon’s Blood: from Herbals to Enlightenment Science
