@@ -66,7 +66,7 @@ Throughout its dis into European spaces from the Age of Discovery, Dragon’s Bl
 <param title="Theatrum Botanicum (1640)" eid="Q22259463">
 <param title="John Gerard" eid="Q1333338">
 <param title="John Parkinson" eid="Q256288">
-<param ve-image title="The Herballe, or Generall Histoire of Plantes, 1633" url="https://www.biodiversitylibrary.org/pageimage/51906905"> ve-image title
+<param ve-image title="The Herballe, or Generall Histoire of Plantes, 1633" url="https://www.biodiversitylibrary.org/pageimage/51906905"> ve-image title="John Ge
 <param ve-image title="Theatrum Botanicum, 1640" url="https://www.biodiversitylibrary.org/pageimage/56601428">
 
 European interest in _D. draco_ again resurfaced in the late eighteenth century with the voyages of scientific discovery. German scientist and writer Alexander von Humboldt was the most famous of them all during this period to fall prey to the tree’s enchanting appeal. In _Cosmos_ (1842), his last work, he still recalled the time when, as a child, he “first saw a colossal dragon tree in an old tower of the Botanical Garden in Berlin."[^10]  The experience was so overwhelming that Humboldt even thought of it as “the source from whence sprang my early and fixed desire to visit the lands of the tropics.”[^11]  A stroll through the botanical garden in his hometown, a virtual travel indeed, prompted Humboldt’s desire for actual travel. The fact that the dragon tree bookended Humboldt’s illustrious career, as both a formative experience of his youth and a notable point in his last great work highlights how the dragon tree itself was at the core of his understanding of nature as one interconnected whole.
