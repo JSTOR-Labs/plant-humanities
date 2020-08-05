@@ -9,19 +9,19 @@
        author="Christina Emery, Rachel Hirsch, Melinda Susanto">
 
 ## Introduction 
-The native distribution of cassava spans from western South American to Brazil.[^1] Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots around 8,000 B.C.E.[^2] From there, domesticated _Manihot esculenta_ spread through short-distance trade of seeds or stem cuttings from the plant, rather than by transporting the perishable roots. With a preference for warm and hot climes, today cassava can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean.
+The native distribution of cassava spans from western South American to Brazil.[^1] Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots around 8,000 B.C.E.[^2] From there, domesticated _Manihot esculenta_ spread through short-distance trade of seeds or stem cuttings from the plant, rather than by transporting the perishable roots.[^3] With a preference for warm and hot climes, today cassava can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean.[^4]
 <param ve-map center="Q974" zoom="2" time-selector="8000 BCE:2000" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" marker-symbol="landmark" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/melindasusanto/demo1/master/AsiaPacific.json" title="SE Asia" fill="#92086D" marker-symbol="landmark" active>
 
 ## A plant valued by ancient civilizations
-In Peru, there is evidence from ancient textiles, pottery and archaeobotanical findings that the Moche (250-750 C.E.), Nazca (200 B.C.E.-600 C.E.)  and Chimú (1000-1470 C.E.) cultures all used and valued cassava.
+In Peru, there is evidence from ancient textiles, pottery and archaeobotanical findings that the Moche (250-750 C.E.), Nazca (200 B.C.E.-600 C.E.)  and Chimú (1000-1470 C.E.) cultures all used and valued cassava.[^5]
 <param ve-map center="Q419" zoom="6" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" fill="#92086D" marker-symbol="landmark" active>
 <param title="Peru" eid="Q419">
  
-To the right is an earthenware ceramic dating between the 5th and 7th centuries A.D. produced by the [Moche people](https://www.peabody.harvard.edu/node/2505) (1st-8th c. A.D.) in the northern Peruvian coast. The mouth is in the shape of [a stirrup-spout](https://www.metmuseum.org/toah/hd/moch/hd_moch.htm), to the front is a human-like head and neck, and the overall form of the legs and body is that of cassava roots. This [work of art](https://www.metmuseum.org/art/collection/search/308558) carries significant insight into just how highly the Moche valued cassava. Bottles with the stirrup-spout opening are thought to have been used in a non-utilitarian way, such as effigy, ritual or decorative as it is hard to practically use vessels with this type of opening. The iconography evident in the anthropomorphic aspect of this vessel indicate that it is of a high ranking deity. The fangs curling out of the mouth indicate godly status, and the half-crescent headdress implies a high status. All of these details, accompanied by the fact that the body, tail and limbs of this figure are all modeled after cassava tubers, leads to the conclusion that cassava had a high status and was very important to daily life in Moche civilization.
+To the right is an earthenware ceramic dating between the 5th and 7th centuries A.D. produced by the [Moche people](https://www.peabody.harvard.edu/node/2505) (1st-8th c. A.D.) in the northern Peruvian coast.[^6] The mouth is in the shape of [a stirrup-spout](https://www.metmuseum.org/toah/hd/moch/hd_moch.htm), to the front is a human-like head and neck, and the overall form of the legs and body is that of cassava roots. This [work of art](https://www.metmuseum.org/art/collection/search/308558) carries significant insight into just how highly the Moche valued cassava. Bottles with the stirrup-spout opening are thought to have been used in a non-utilitarian way, such as effigy, ritual or decorative as it is hard to practically use vessels with this type of opening. The iconography evident in the anthropomorphic aspect of this vessel indicate that it is of a high ranking deity. The fangs curling out of the mouth indicate godly status, and the half-crescent headdress implies a high status. All of these details, accompanied by the fact that the body, tail and limbs of this figure are all modeled after cassava tubers, leads to the conclusion that cassava had a high status and was very important to daily life in Moche civilization.
 <param ve-image
 title="Earthenware ceramic" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Moche.jpg"
        fit="cover"
@@ -132,8 +132,12 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 
 ## Bibliography
 
-[^1]:  “Manihot esculenta Crantz,” _Plants of the World Online_, accessed July 22, 2020, http://plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:351790-1. 
-[^2]: Donald Ugent, Shelia Pozorski, and Thomas Pozorski, "Archaeological Manioc (Manihot) from Coastal Peru," _Economic Botany_ 40, no. 1 (1986): 99, accessed July 28, 2020, www.jstor.org/stable/4254832. 
+[^1]:  “Manihot esculenta Crantz,” _Plants of the World Online_, accessed July 22, 2020, http://plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:351790-1 
+[^2]: Donald Ugent, Shelia Pozorski, and Thomas Pozorski, "Archaeological Manioc (Manihot) from Coastal Peru," _Economic Botany_ 40, no. 1 (1986): 99, accessed July 28, 2020, www.jstor.org/stable/4254832 
+[^3]: Ibid
+[^4]: “Manihot esculenta Crantz,” _Plants of the World Online_, accessed July 22, 2020, http://plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:351790-1
+[^5]: Donald Ugent, Shelia Pozorski, and Thomas Pozorski, "Archaeological Manioc (Manihot) from Coastal Peru," _Economic Botany_ 40, no. 1 (1986): 80, accessed July 28, 2020, www.jstor.org/stable/4254832 
+[^6]: “Stirrup Spout Bottle with Manioc Form,” The Met, accessed July 20, 2020, https://www.metmuseum.org/art/collection/search/308558 
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU5MTkzNDY2Nyw0NzQ3MjQ1MzQsMzU1OT
