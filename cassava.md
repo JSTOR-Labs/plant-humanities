@@ -44,12 +44,10 @@ title="_Historia naturalis Brasiliae_(1648)" url="https://www.biodiversitylibrar
 <param ve-storiiies id="861e9">
 
 ## Fermented beverages
-Accounts of native peoples in South America and Latin America producing fermented beverages also permeate the records kept by European travellers, missionaries and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman [Jean de Léry](https://books.google.nl/books?id=rK1hAAAAcAAJ&dq=Histoire%20d'un%20voyage%20fait%20en%20la%20terre%20de%20Br%C3%A9sil&hl=nl&pg=PA132#v=thumbnail&q=aypi&f=false) who visited Brazil.[^9] In the early 17th century a Spaniard, Antonio de León Pinelo, kept a very similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in the 19th century in Nicaragua.  Depending on the location, the beverage can be called _chicha_, _massato_ (a non-alcoholic variant mixed with honey), _acca_, _kufa_ or _mushla_.  
+Accounts of native peoples in South America and Latin America producing fermented beverages also permeate the records kept by European travellers, missionaries and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman [Jean de Léry](https://books.google.nl/books?id=rK1hAAAAcAAJ&dq=Histoire%20d'un%20voyage%20fait%20en%20la%20terre%20de%20Br%C3%A9sil&hl=nl&pg=PA132#v=thumbnail&q=aypi&f=false) who visited Brazil.[^9] In the early 17th century a Spaniard, Antonio de León Pinelo, kept a very similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in the 19th century in Nicaragua.[^10]  Depending on the location, the beverage can be called _chicha_, _massato_ (a non-alcoholic variant mixed with honey), _acca_, _kufa_ or _mushla_.[^11]  
 <param ve-image
-title="Antonio de León Pinelo (1636)" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Pinelo.jpg"
-       fit="cover"
-       attribution="tbc">
-
+title="Antonio de León Pinelo (1636)" url="https://www.biodiversitylibrary.org/pageimage/55670844" fit="cover"
+       attribution="Biodiversity Heritage Library">
 
 The preparation process for chicha uses several tools.  The basic process is that cassava is either turned into flour or cut into pieces, then boiled, chewed and combined with saliva in the mouth for some time, then boiled again in a different vessel, then it is left to ferment for several days until it is ready for consumption. To the right are modern tools used to create chicha in Argentina. This shows that even today people continue to follow the traditional methods established by their ancestors to create fermented cassava beverages.
 <param ve-image
@@ -155,6 +153,8 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 [^7]:  “Vessel Forms,” _Dumbarton Oaks_, accessed July 28, 2020, https://www.doaks.org/resources/moche-iconography/vessel-forms
 [^8]: Hélène Bernier, “Moche Decorated Ceramics,” _The Metropolitan Museum of Art_, last modified August 2009, https://www.metmuseum.org/toah/hd/moch/hd_moch.htm; “Lords, Warriors, and Priests,” _Peabody Museum_, accessed July 20, 2020, https://www.peabody.harvard.edu/node/2499
 [^9]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_(Berkeley: University of California Press, n.d.).
+[^10]:Antonio de León Pinelo,_Question moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias._(Madrid: Por la viuda de Iuan Gonçalez., 1636), https://www.biodiversitylibrary.org/page/55670844; Bedford Pim and Berthold Seemann, _Dottings on the roadside, in Panama, Nicaragua, and Mosquito_(London: Chapman and Hall, 1869), 405-406. http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871
+[^11]: Ana Lucia Barretto Penna, Luis A. Nero and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications._ (Boca Raton: CRC Press, 2017), 233.  https://doi-org.proxy.libraries.uc.edu/10.1201/9781315369433; Bedford Pim and Berthold Seemann, Dottings on the roadside, in Panama, Nicaragua, and Mosquito (London: Chapman and Hall, 1869), 405. http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU5MTkzNDY2Nyw0NzQ3MjQ1MzQsMzU1OT
 Q1MDI4XX0=
