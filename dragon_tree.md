@@ -109,27 +109,26 @@ Today, Dracaena draco is officially designated as a vulnerable population on the
 <param ve-image iiif-url="https://free.iiifhosting.com/iiif/31fb222aa31e439323c29d61cb363d5c897b02d8cde694ff946f0f6adbb00ad">
 
 [^1]: Though the focus of this article is on D. draco, there are many other species of tree that exude their own forms of dragon’s blood. These include the other 120 members of the Dracaena genus, in addition to several others. While these other trees certainly exude a resin identified as dragon’s blood, D. draco and Dracaena cinnabari are the two species the most-commonly referenced as the source of the resin in historical sources. 
-[^2]: Fauna & Flora International, “Canary Islands Dragon Tree,” Global Trees.org, accessed August 3, 2020, https://globaltrees.org/threatened-trees/trees/dragon-tree/. <param ve-entity url="https://globaltrees.org/threatened-trees/trees/dragon-tree/">
-
-[^3]: J. Francisco-Ortega et al. "Early Cultivation of Macaronesian Plants in Three European Gardens," Revista de la Academia Canaria de Ciencias 23, no. 3 (April 2012), 113-143.
-[^4]: Pierre Bontier, Je e Verrier, and Richard Henry Major (trans.), The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt, (London: The Hakluyt Society, 1872), 70-71. On D. draco’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” Africa: Rivista trimestrale di studi e documentazione dell'Istituto italiano per l'Africa e l'Oriente 39, no. 3 (1984), 489-90.
-[^5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” British Cactus & Succulent Journal 17, no. 4 (December, 1999), 171-177; Jane Pearson and Hew D.V. Prendergast, “Daemonorops, Dracaena and Other Dragon’s Blood,” Economic Botany 55, no. 4 (October-December 2001), 474-477.
+[^2]: Fauna & Flora International, “Canary Islands Dragon Tree,” Global Trees.org, accessed August 3, 2020, https://globaltrees.org/threatened-trees/trees/dragon-tree/. 
+[^3]: J. Francisco-Ortega et al. "Early Cultivation of Macaronesian Plants in Three European Gardens," _Revista de la Academia Canaria de Ciencias_ 23, no. 3 (April 2012), 113-143.
+[^4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. On D. draco’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” _Africa: Rivista trimestrale di studi e documentazione dell'Istituto italiano per l'Africa e l'Oriente_ 39, no. 3 (1984), 489-90.
+[^5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” _British Cactus & Succulent Journal_ 17, no. 4 (December, 1999), 171-177; Jane Pearson and Hew D.V. Prendergast, “Daemonorops, Dracaena and Other Dragon’s Blood,” _Economic Botany_ 55, no. 4 (October-December 2001), 474-477.
 [^6]: “Villa de La Orotava Dragon Tree Tour: The Arautava Giant,” Ayuntamiento: Villa de La Orotava, accessed August 3, 2020, https://www.laorotava.es/en/tourism/discover-la-orotava/villa-de-la-orotava-dragon-tree-tour
-[^7]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt, (London: The Hakluyt Society, 1872), 70-71.
-[^8]: Rajinder K. Gupta, Bruce Bleakley, Deepika Gupta, “Dragon’s Blood: Botany, chemistry and therapeutic uses,” Journal of Ethnopharmacology 115 (2008), 361.
-[^9]: John Gerard, The Herball, or Generall Historie of Plantes, (London, 1633), 1524; John Parkinson, Theatrum Botanicum, (London, 1640), 1532.
-[^10]: Alexander von Humboldt, Cosmos: A sketch of the Physical Description of the Universe, vol. 2, (London: 1849), 372.
-[^11]: Alexander von Humboldt, Cosmos: A sketch of the Physical Description of the Universe, vol. 2, (London: 1849), 371-372. 
-[^12]: Alexander vonative of travels to the equinoctial regions of America during the years 1799-1804, vol. 1, (London: Routledge, 1895), 62. On Humboldt’s environmentalism: Laura Dassow Walls, “Rediscovering Humboldt’s Environmental Revolution,” Environmental History 10, no. 4 (2005), 758-60. 
-[^13]: André Pierre Ledru, Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco, (Paris: Arthus Bertrand, 1810), 81-82.
-[^14]: André Pierre Ledru, Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco, (Paris: Arthus Bertrand, 1810), 93.
-[^15]: André Pierre Ledru, Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco, (Paris: Arthus Bertrand, 1810), 93. 
-[^16]: Alice Carter Cook, “The Dragon Tree of Orotava,” The Plant World 4 no. 7 (July 1901), 124.
-[^17]: Joanna Jura-Morawiec and Mirela Tulik. “Dragon’s blood secretion and its ecological significance.”
-[^18]: Deepika Gupta a, Bruce Bleakley b, Rajinder K. Gupta. “Dragon’s blood: Botany, chemistry and therapeutic uses.”
+[^7]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71.
+[^8]: Rajinder K. Gupta, Bruce Bleakley, Deepika Gupta, “Dragon’s Blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008), 361.
+[^9]: John Gerard, _The Herball, or Generall Historie of Plantes_, (London, 1633), 1524; John Parkinson, Theatrum Botanicum, (London, 1640), 1532.
+[^10]: Alexander von Humboldt, _Cosmos: A sketch of the Physical Description of the Universe_, vol. 2, (London: 1849), 372.
+[^11]: Alexander von Humboldt, _Cosmos: A sketch of the Physical Description of the Universe_, vol. 2, (London: 1849), 371-372. 
+[^12]: Alexander von Humboldt, _Personal Narrative of travels to the equinoctial regions of America during the years 1799-1804_, vol. 1, (London: Routledge, 1895), 62. On Humboldt’s environmentalism: Laura Dassow Walls, “Rediscovering Humboldt’s Environmental Revolution,” _Environmental History_ 10, no. 4 (2005), 758-60. 
+[^13]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_, (Paris: Arthus Bertrand, 1810), 81-82.
+[^14]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_, (Paris: Arthus Bertrand, 1810), 93.
+[^15]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_, (Paris: Arthus Bertrand, 1810), 93. 
+[^16]: Alice Carter Cook, “The Dragon Tree of Orotava,” _The Plant World_ 4, no. 7 (July 1901), 124.
+[^17]: Joanna Jura-Morawiec and Mirela Tulik, “Dragon’s blood secretion and its ecological significance,” in _Chemoecology_ 26, no. 3, (March 2016), https://www.researchgate.net/publication/298897759_Dragon's_blood_secretion_and_its_ecological_significance
+[^18]: Deepika Gupta, Bruce Bleakley, Rajinder K. Gupta, “Dragon’s blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008), 361.
 [^19]: “Dracaena draco,” IUCN Red List.org, accessed August 3. 2020, https://www.iucnredlist.org/species/30394/9535771
 [^20]: Aaron González-Castro et al., "Unraveling the Seed Dispersal System of an Insular 'Ghost Dragon Tree (D. draco) in the Wild," in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
-[^21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (Dracaena draco),” in Horticulturae 5, no. 64 (September 2019), https://www.researchgate.net/publication/335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco
+[^21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (Dracaena draco),” in _Horticulturae_ 5, no. 64 (September 2019), https://www.researchgate.net/publication/335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzI5NzE3Njk0LDg0NzgzNjUzNCwxOTE1MT
 QwNDkyXX0=
