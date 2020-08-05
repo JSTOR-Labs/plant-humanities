@@ -10,7 +10,7 @@
         "marker-symbol": "",
         "date": "3000 BCE",
         "description": "Uan Muhuggiag, Libya; seeds found",
-        "label": "Uan"
+        "label": "Uan Muhuggiag, Libya"
       },
       "geometry": {
         "type": "Point",
@@ -28,7 +28,8 @@
         "marker-symbol": "",
         "date": "3000 BCE",
         "id": "wd:Q57477018",
-        "description": "Quseir al-Qadim, Egypt; seeds found"
+        "description": "Quseir al-Qadim, Egypt; seeds found",
+        "label": "Queseir al-Qadim, Egypt"
       },
       "geometry": {
         "type": "Point",
@@ -46,7 +47,8 @@
         "marker-symbol": "",
         "date": "100 CE",
         "id": "wd:Q1011544",
-        "description": "'En Gedir, Israel; seeds found"
+        "description": "'En Gedir, Israel; seeds found",
+        "label": "'En Gedir, Israel"
       },
       "geometry": {
         "type": "Point",
@@ -64,7 +66,8 @@
         "marker-symbol": "",
         "date": "2500 BCE",
         "id": "wd:Q11768",
-        "description": "Ancient Egyptian tombs; seeds found"
+        "description": "Ancient Egyptian tombs; seeds found",
+        "label": "Egyptian tombs"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +85,8 @@
         "marker-symbol": "",
         "date": "1323 BCE",
         "id": "wd:Q835309",
-        "description": "King Tutankhamen's tomb; seeds found"
+        "description": "King Tutankhamen's tomb; seeds found",
+        "label": "King Tutankhamen's tomb"
       },
       "geometry": {
         "type": "Point",
@@ -100,7 +104,8 @@
         "marker-symbol": "",
         "date": "650 BCE",
         "id": "wd:Q156882",
-        "description": "Samos, Greece; seeds found"
+        "description": "Samos, Greece; seeds found",
+        "label": "Samos, Greece"
       },
       "geometry": {
         "type": "Point",
@@ -118,7 +123,8 @@
         "id": "wd:Q3392",
         "date": "1500 BCE",
         "marker-symbol": "",
-        "description": "Sudan; fruit and seeds found"
+        "description": "Sudan; fruit and seeds found",
+        "label": "Range of wild watermelon"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +141,8 @@
         "marker-color": "#ffadad",
         "date": "920",
         "id": "wd:Q948",
-        "description": "Tunisia; referenced in treatises"
+        "description": "Tunisia; referenced in treatises",
+        "label": "Tunisia"
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +158,8 @@
         "marker-color": "#ffbdbd",
         "date": "800",
         "id": "wd:Q668",
-        "description": "India; via trade"
+        "description": "India; via trade",
+        "label": "India"
       },
       "geometry": {
         "type": "Point",
@@ -167,8 +175,8 @@
         "marker-color": "#ffadad",
         "date": "1158",
         "id": "wd:Q8717",
-        "label": "",
-        "description": "Seville, Spain; seeds found"
+        "description": "Seville, Spain; seeds found",
+        "label": "Seville, Spain"
       },
       "geometry": {
         "type": "Point",
@@ -184,7 +192,8 @@
         "marker-color": "#ffbdbd",
         "date": "1100",
         "id": "wd:Q29520",
-        "description": "China; via trade"
+        "description": "China; via trade",
+        "label": "China"
       },
       "geometry": {
         "type": "Point",
@@ -200,7 +209,8 @@
         "marker-color": "#ff7070",
         "date": "1576",
         "id": "wd:Q555528",
-        "description": "Spanish Florida; cultivated"
+        "description": "Spanish Florida; cultivated",
+        "label": "Spanish Florida"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +225,6 @@
       "properties": {
         "date": "1629",
         "marker-size": "",
-        "label": "",
         "marker-color": "#ff7070",
         "marker-symbol": "",
         "description": "Massachusetts Bay Colony; cultivated",
@@ -233,7 +242,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "",
+        "label": "Circum-Caribbean",
         "date": "1600",
         "description": "Caribbean; via slave trade",
         "id": "wd:Q664609",
@@ -251,7 +260,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "",
+        "label": "Circum-Caribbean",
         "date": "1600",
         "id": "wd:Q664609",
         "description": "Caribbean; via slave trade"
@@ -268,7 +277,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "",
+        "label": "Circum-Caribbean",
         "date": "1600",
         "marker-size": "",
         "id": "wd:Q664609",
@@ -286,7 +295,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "",
+        "label": "Circum-Caribbean",
         "date": "1600",
         "id": "wd:Q664609",
         "stroke": "",
@@ -304,7 +313,6 @@
       "type": "Feature",
       "properties": {
         "date": "1650",
-        "label": "",
         "marker-color": "#ff7070",
         "id": "wd:Q15217022",
         "description": "Panama; cultivated"
@@ -321,7 +329,6 @@
       "type": "Feature",
       "properties": {
         "date": "1650",
-        "label": "",
         "marker-color": "#ff7070",
         "id": "wd:Q211435",
         "description": "Peru; cultivated"
@@ -338,7 +345,6 @@
       "type": "Feature",
       "properties": {
         "date": "1650",
-        "label": "",
         "marker-color": "#ff7070",
         "id": "wd:Q2088324",
         "description": "Brazil; cultivated"
@@ -355,7 +361,6 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "",
         "marker-size": "",
         "date": "1700",
         "id": "wd:Q846627",
@@ -372,7 +377,6 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "",
         "marker-color": "#ff7070",
         "marker-size": "",
         "date": "1700",
@@ -392,7 +396,6 @@
       "properties": {
         "date": "1700",
         "marker-size": "",
-        "label": "",
         "marker-color": "#ff7070",
         "description": "Zuni people; cultivated",
         "id": "wd:Q231317",
@@ -410,7 +413,6 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "",
         "marker-size": "",
         "date": "1700",
         "description": "Huron people; cultivated",
@@ -428,7 +430,6 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "",
         "date": "1750",
         "id": "wd:Q213396",
         "description": "Mississippi Valley; cultivated"
@@ -444,7 +445,6 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "",
         "date": "1750",
         "marker-size": "",
         "marker-color": "#ff7070",
@@ -465,7 +465,7 @@
       "properties": {
         "date": "1750",
         "marker-size": "",
-        "label": "",
+        "label": "San people, Kalahari Desert",
         "marker-color": "#ff7070",
         "description": "San people; cultivated",
         "id": "wd:Q172365"
@@ -483,7 +483,7 @@
       "properties": {
         "date": "1778",
         "marker-size": "",
-        "label": "",
+        "label": "Pacific Islanders",
         "marker-color": "#ff7070",
         "id": "wd:Q2065556",
         "description": "Pacific Islanders; cultivated via James Cook"
@@ -501,7 +501,7 @@
       "properties": {
         "date": "1395",
         "marker-size": "",
-        "label": "",
+        "label": "Italy",
         "marker-color": "#fd9b9b",
         "id": "wd:Q38",
         "description": "Italy; referenced in Tacuinum Sanitatis"
@@ -520,7 +520,8 @@
         "id": "wd:Q5818",
         "marker-color": "#ffadad",
         "date": "961",
-        "description": "Cordoba, Spain; seeds found"
+        "description": "Cordoba, Spain; seeds found",
+        "label": "Cordoba, Spain"
       },
       "geometry": {
         "type": "Point",
@@ -536,7 +537,8 @@
         "marker-color": "#ffb994",
         "date": 200,
         "description": "Greece",
-        "id": "wd:Q41"
+        "id": "wd:Q41",
+        "label": "Greece"
       },
       "geometry": {
         "type": "Point",
@@ -554,7 +556,8 @@
         "marker-color": "#fdaa9b",
         "date": "510",
         "id": "wd:Q38",
-        "description": "Italy; referenced in Mazzini"
+        "description": "Italy; referenced in Mazzini",
+        "label": "Italy"
       },
       "geometry": {
         "type": "Point",
@@ -572,7 +575,8 @@
         "description": "France",
         "id": "wd:Q70972",
         "marker-size": "",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "label": "France"
       },
       "geometry": {
         "type": "Point",
@@ -588,7 +592,8 @@
         "marker-color": "#ff7070",
         "date": "1597",
         "description": "England; John Gerard's Herball",
-        "id": "wd:Q179876"
+        "id": "wd:Q179876",
+        "label": "England"
       },
       "geometry": {
         "type": "Point",
@@ -723,7 +728,8 @@
       "properties": {
         "stroke": "#ffbdbd",
         "stroke-width": 3,
-        "date": "800"
+        "date": "800",
+        "label": "via trade"
       },
       "geometry": {
         "type": "LineString",
@@ -840,7 +846,8 @@
       "properties": {
         "date": "1576",
         "stroke": "#ff7070",
-        "stroke-width": 3
+        "stroke-width": 3,
+        "label": "via Spanish colonists"
       },
       "geometry": {
         "type": "LineString",
@@ -1021,7 +1028,8 @@
       "properties": {
         "stroke": "#ff7070",
         "stroke-width": 3,
-        "date": "1600"
+        "date": "1600",
+        "label": "via Atlantic slave trade"
       },
       "geometry": {
         "type": "LineString",
