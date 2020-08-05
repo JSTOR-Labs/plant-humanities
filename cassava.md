@@ -10,7 +10,7 @@
 
 ## Introduction 
 The native distribution of cassava spans from western South American to Brazil.[^1] Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots around 8,000 B.C.E.[^2] From there, domesticated _Manihot esculenta_ spread through short-distance trade of seeds or stem cuttings from the plant, rather than by transporting the perishable roots.[^3] With a preference for warm and hot climes, today cassava can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean.[^4]
-<param ve-map center="Q974" zoom="2" time-selector="8000 BCE:2000" basemap="Esri_WorldPhysical">
+<param ve-map center="Q974" zoom="2">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" marker-symbol="landmark" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/melindasusanto/demo1/master/AsiaPacific.json" title="SE Asia" marker-symbol="landmark" active>
