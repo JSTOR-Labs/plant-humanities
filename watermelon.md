@@ -31,8 +31,8 @@
 <param title="Emancipation Proclamation" eid="Q391358">
 <param title="Thirteenth Amendment" eid="Q175613" aliases="13th Amendment">
 <param title="Crocus" eid="Q157806" aliases="crocuses">
-<param title="Citron" eid="Q30557566" aliases="C. amaruscitron">
-<param title="Egusi" eid="Q17429939" aliases="C. mucososperms">
+<param title="Citron" eid="Q30557566" aliases="C. amarus">
+<param title="Egusi" eid="Q17429939" aliases="C. mucosospermus">
 <param title="Colocynth" eid="Q913609" aliases="C. colocynthis">
 
 ### Watermelon, The Food Of Angels
