@@ -56,7 +56,7 @@ title="Pots" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/
        attribution="tbc">
 
 ## Subsistence in Plantation Economies
-Cassava played an important role as a food source for slave labour in plantations in 16th century Portuguese Brazil, and the Spanish colonies in the Caribbean. It was becoming established as a staple in the West Indies by the 17th century, as illustrated in Maria Sybilla Merian’s _Metamorphosis insectorum Surinamensium_ (1719). Merian’s book describes plants and insects she encountered during her stay in Dutch Surinam between 1699 and 1701. Her first entry on cassava notes insect activities revolving around the plant she encountered in June 1700.[^14] Her second entry describes cassava root as the ingredient for bread, a common food for both the indigenous peoples and Europeans living in America at this time.[^15] 
+Cassava played an important role as a food source for slave labour in plantations in 16th century Portuguese Brazil, and the Spanish colonies in the Caribbean.[^14] It was becoming established as a staple in the West Indies by the 17th century, as illustrated in Maria Sybilla Merian’s _Metamorphosis insectorum Surinamensium_ (1719). Merian’s book describes plants and insects she encountered during her stay in Dutch Surinam between 1699 and 1701. Her first entry on cassava notes insect activities revolving around the plant she encountered in June 1700.[^15] Her second entry describes cassava root as the ingredient for bread, a common food for both the indigenous peoples and Europeans living in America at this time.[^16] 
 <param ve-image
 title="Maria Sybilla Merian, 17th century" url="https://ids.lib.harvard.edu/ids/iiif/481769556/full/full/0/default.jpg"
        fit="cover"
@@ -157,8 +157,9 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 [^11]: Ana Lucia Barretto Penna, Luis A. Nero and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications._ (Boca Raton: CRC Press, 2017), 233.  https://doi-org.proxy.libraries.uc.edu/10.1201/9781315369433; Bedford Pim and Berthold Seemann, Dottings on the roadside, in Panama, Nicaragua, and Mosquito (London: Chapman and Hall, 1869), 405. http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871
 [^12]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_(Berkeley: University of California Press, n.d.) https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/1feg4j8/alma991012177589704436
 [^13]: Ana Lucia Barretto Penna, Luis A. Nero and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications._ (Boca Raton: CRC Press, 2017), 238.  https://doi-org.proxy.libraries.uc.edu/10.1201/9781315369433
-[^14]: Maria Sibylla Merian, Metamorphosis insectorum Surinamensium (Amstelaedami : Joannem Oosterwyk, 1719), 4. https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16
-[^15]: Ibid, 5.
+[^14]: Kaori O’Connor, “Beyond ‘Exotic Groceries’: Tapioca/Cassava/Manioc, a Hidden Commodity of Empires and Globalisation,” in _Global Histories, Imperial Commodities, Local Interactions,_ ed. Jonathan Curry-Machado (Hampshire and New York: Palgrave Macmillan, 2013), 227. https://doi.org/10.1057/9781137283603_12
+[^15]: Maria Sibylla Merian, Metamorphosis insectorum Surinamensium (Amstelaedami : Joannem Oosterwyk, 1719), 4. https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16
+[^16]: Ibid, 5.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU5MTkzNDY2Nyw0NzQ3MjQ1MzQsMzU1OT
 Q1MDI4XX0=
