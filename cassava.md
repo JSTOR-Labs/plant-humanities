@@ -56,9 +56,6 @@ title="Antonio de León Pinelo (1636)" url="https://raw.githubusercontent.com/me
        fit="cover"
        attribution="tbc">
 
-One version of the alcoholic recipe, recorded by the Frenchman Jean de Léry in his voyages in Brazil, is as follows:
-
-excerpt here
 
 The preparation process for chicha uses several tools.  The basic process is that cassava is either turned into flour or cut into pieces, then boiled, chewed and combined with saliva in the mouth for some time, then boiled again in a different vessel, then it is left to ferment for several days until it is ready for consumption. To the right are modern tools used to create chicha in Argentina. This shows that even today people continue to follow the traditional methods established by their ancestors to create fermented cassava beverages.
 <param ve-image
@@ -88,6 +85,9 @@ When they first encountered cassava, Europeans relied upon indigenous knowledge 
 
 ## …and Experimentation
 Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic compounds which are toxic to humans. The more bitter the cassava is, the higher the concentration of hydrocyanic compounds. Today, both varieties exist for the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists thought they were two different species. A 1906 article on cyanogenesis outlines various experiments which had been conducted on the cassava root to determine its composition. The article’s authors were in favour of Pohl’s identification of bitter cassava as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. 
+<param ve-image
+title="_Proceedings of the Royal Society London_(1906)" url="https://www.biodiversitylibrary.org/pageimage/43363072" fit="cover"
+       attribution="Biodiversity Heritage Library">
 
 The botanical specimen on the right was collected by Pohl himself in Brazil. One inscription shows its earlier identification as Manihot utilissima, while a later hand updates the scientific classification to the name it is known today, Manihot esculenta Crantz. Experiments to understand the natural world through chemical means can be traced back as early as [the 18th century](https://www.biodiversitylibrary.org/page/57980618), when Europeans began to write about methods of extracting the starch from cassava. The potential of cassava for industrial production would become more apparent in the 19th and 20th centuries.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0233266">
