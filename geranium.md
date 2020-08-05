@@ -25,6 +25,7 @@ title="Scarlet geranium (acturally _Pelargonium inquinans_ as its botanical name
 fit="cover" attribution="Wikimemdia Commons">
 
 However, you might be surprised to learn that the scarlet geranium with which Dickens was so enamoured was not actually a *Geranium*. **In fact, it was a *Pelargonium* - *Pelargonium inquinans*, to be exact.** These two genera, similar but not exactly the same in terms of their morphology, have been embroiled in a long history of taxonomic confusion. In his famous [*Species Plantarum*](https://www.biodiversitylibrary.org/bibliography/669#/summary) published in 1735, Carl Linnaeus mistakenly grouped *Pelargoniums* and *Geraniums* together into one genus, and that misgrouping ended up persisting for centuries - even after subsequent naturalists had proven that they were, in reality, two different genera. The public simply grew accustomed to using the name *Geranium* for both types of plant, and for the most part, we continue to use it in this way today.
+<param title="Carl Linnaeus" eid="Q1043">
 <param ve-image 
 title="Illustrations of _Pelargonium odoratissimum_ and _Pelargonium inquinans_" url="https://www.biodiversitylibrary.org/pageimage/53144785" 
 region="pct:55,40,20,20" attribution="Biodiversity Heritage Library">
