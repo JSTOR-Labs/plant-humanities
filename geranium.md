@@ -68,8 +68,6 @@ Geranium oil continues to be industrially produced in factories across the globe
 <param title="Gertrude Jekyll" eid="Q452354">
 <param ve-image
 title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
-<param ve-image
-title="Pelargoniums in the designs of the Jardins de Luxembourg in Paris" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Hortalia.jpg" fit="cover" attribution="Goffart, J. L. et Guillot, J. R., [Corbeille], Hortalia, consulté le 5 août 2020, http://bibliotheque-numerique.hortalia.org/items/show/2306">
 
 These *Pelargoniums* were hardy evergreen plants, so they would show off their blooms all season round, even in slightly chillier climates.  They were also easy to propagate and affordable to buy. However, perhaps most importantly of all, they could be hybridized into a seemingly infinite number of beautifully colourful cultivars. The Victorians were just enchanted by the range of varieties that were available, and before too long, vendors were falling over one another to market the newest, most magnificent, and sweetest-smelling specimens. Compounded by the arrival of mass production of pots and planters, as well as the *Pelargonium*’s year-round accessibility, the demand for potted *Pelargoniums* grew exponentially. The situation became so frenzied that some even began to compare it to the infamous “tulipomania” that transpired in 17th-century Holland.[^lotp]
 <param title="tulip mania" eid="Q219217" aliases="tulipomania">
@@ -81,6 +79,8 @@ By the end of the Industrial Revolution, the *Pelargonium* was firmly instated a
 title="Shirley Hubberd’s Victorian garden plans, including bedding pelargoniums" url="https://www.biodiversitylibrary.org/pageimage/55342041" region="pct:20,10,60,60" attribution="Biodiversity Heritage Library">
 <param ve-image
 title="Shirley Hubberd’s Victorian garden plans, including bedding pelargoniums (explanation)" url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/bedding_pelargoniums_explanation.jpg" fit="cover" attribution="Biodiversity Heritage Library, image editted by Yao Jiang">
+<param ve-image
+title="Pelargoniums in the designs of the Jardins de Luxembourg in Paris" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Hortalia.jpg" fit="cover" attribution="Goffart, J. L. et Guillot, J. R., [Corbeille], Hortalia, consulté le 5 août 2020, http://bibliotheque-numerique.hortalia.org/items/show/2306">
 
 ### The "genteel" Geranium and working-class culture
 The *Pelargonium’s* ubiquity in the Victorian era eventually began to carry a cultural significance all its own. In 1864’s *The Book of Flowers*, Caroline Kirkland follows the poet Leigh Hunt in describing the *Geranium* (of course, really a *Pelargonium*) as a *genteel* plant. She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel”.[^tbof] Of course, this might be understood as an attestation to the *Pelargonium’s* universal charms. However, if we look a little closer at the ways the *Pelargonium* was used in working class culture, we might suggest that the “genteel” nature of the plant actually be taken with a pinch of salt. 
