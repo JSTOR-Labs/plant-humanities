@@ -39,7 +39,7 @@ title="Pottery vessel" url="https://raw.githubusercontent.com/melindasusanto/dem
 ## Indigenous Food Uses
 Cassava is a starchy tuber and can be used to make a variety of dishes and beverages. Most commonly it is made into a starchy flour to produce breads and cakes, or it can be used to make fermented beverages. Some of the earliest descriptions of cassava as a food source are found in books written by European travelers to South America. 
 <param ve-image
-title="Cassava roots" url="https://commons.wikimedia.org/wiki/File:Manihot_esculenta_dsc07325.jpg" fit="cover"
+title="Cassava roots" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Cassavaroots.jpg" fit="cover"
        attribution="Wikimedia Commons">
 
 ## Making Cassava Bread
