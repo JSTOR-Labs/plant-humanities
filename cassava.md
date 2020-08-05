@@ -9,7 +9,7 @@
        author="Christina Emery, Rachel Hirsch, Melinda Susanto">
 
 ## Introduction 
-The native distribution of cassava spans from western South American to Brazil. Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots around 8,000 B.C.E.[^1] From there, domesticated _Manihot esculenta_ spread through short-distance trade of seeds or stem cuttings from the plant, rather than by transporting the perishable roots. Because cassava prefers warm and hot climes, today it can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean.
+The native distribution of cassava spans from western South American to Brazil. Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots around 8,000 B.C.E.[^1] From there, domesticated _Manihot esculenta_ spread through short-distance trade of seeds or stem cuttings from the plant, rather than by transporting the perishable roots. With a preference for warm and hot climes, today cassava can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean.
 <param ve-map center="Q974" zoom="2" time-selector="8000 BCE:2000">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" marker-symbol="landmark" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
@@ -123,7 +123,7 @@ Here we see a photo of workers in the cassava industry in the Dutch East Indies 
 5.Fry the cassava pieces 
 
 ## Conclusion
-<param ve-map center="Q3757" zoom="3" time-selector="0001:0005" basemap="Esri_WorldPhysical" hide-labels>
+<param ve-map center="Q3757" zoom="3" time-selector="1600:1900" basemap="Esri_WorldPhysical" hide-labels>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/melindasusanto/demo1/master/AsiaPacific.json" date-field="inception" title="SE Asia" fill="#92086D" marker-symbol="landmark" active>
 <param title="Java" eid="Q3757">
 Today, cassava is still grown in Java, and in other regions around the globe. This resilient, adaptable root with nutritious value has long become an ubiquitous presence in our lives, from [tapioca school pudding](https://www.theguardian.com/lifeandstyle/wordofmouth/2015/apr/13/tapioca-school-pudding-culinary-comeback) to [bubble tea](https://www.eater.com/2019/11/5/20942192/bubble-tea-boba-asian-american-diaspora). People all over the world continue to reinvent its meaning and connect to cassava in their own ways. Nigerian-American artist Njideka Akyunyili Crosby has featured cassava prominently in her work as she explores the ability of people, plants, and paintings to inhabit multiple spaces. For Crosby, cassava has a specific association with village life in Nigeria. In her painting _Cassava Garden_, she juxtaposes it with an Indian rubber tree from her life in Los Angeles to create an imagined garden where two plants that are not usually found together can coexist. Ultimately, she uses cassava and the Indian rubber tree to ask, “when does something belong to a place?” 
