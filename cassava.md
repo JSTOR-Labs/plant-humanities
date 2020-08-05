@@ -9,7 +9,7 @@
        author="Christina Emery, Rachel Hirsch, Melinda Susanto">
 
 ## Introduction 
-The native distribution of cassava spans from western South American to Brazil. Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots around 8,000 B.C.E.[^1] From there, domesticated _Manihot esculenta_ spread through short-distance trade of seeds or stem cuttings from the plant, rather than by transporting the perishable roots. With a preference for warm and hot climes, today cassava can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean.
+The native distribution of cassava spans from western South American to Brazil.[^1] Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots around 8,000 B.C.E.[^2] From there, domesticated _Manihot esculenta_ spread through short-distance trade of seeds or stem cuttings from the plant, rather than by transporting the perishable roots. With a preference for warm and hot climes, today cassava can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean.
 <param ve-map center="Q974" zoom="2" time-selector="8000 BCE:2000" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" marker-symbol="landmark" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
@@ -132,7 +132,8 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 
 ## Bibliography
 
-[^1]: Some footnote text
+[^1]:  “Manihot esculenta Crantz,” _Plants of the World Online_, accessed July 22, 2020, http://plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:351790-1. 
+[^2]: Donald Ugent, Shelia Pozorski, and Thomas Pozorski, "Archaeological Manioc (Manihot) from Coastal Peru," _Economic Botany_ 40, no. 1 (1986): 99, accessed July 28, 2020, www.jstor.org/stable/4254832. 
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU5MTkzNDY2Nyw0NzQ3MjQ1MzQsMzU1OT
