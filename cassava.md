@@ -67,7 +67,7 @@ title="Pots" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/
        attribution="tbc">
 
 ## Subsistence in Plantation Economies
-Cassava played an important role as a food source for slave labour in plantations in 16th century Portuguese Brazil, and the Spanish colonies in the Caribbean. It was becoming established as a staple in the West Indies by the 17th century, as illustrated in Maria Sybilla Merian’s Metamorphosis insectorum Surinamensium (1719). Merian’s book describes plants and insects she encountered during her stay in Dutch Surinam between 1699 and 1701. Her first entry on cassava notes insect activities revolving around the plant she encountered in June 1700. Her second entry describes cassava root as the ingredient for bread, a common food for both the indigenous peoples and Europeans living in America at this time. 
+Cassava played an important role as a food source for slave labour in plantations in 16th century Portuguese Brazil, and the Spanish colonies in the Caribbean. It was becoming established as a staple in the West Indies by the 17th century, as illustrated in Maria Sybilla Merian’s _Metamorphosis insectorum Surinamensium_(1719). Merian’s book describes plants and insects she encountered during her stay in Dutch Surinam between 1699 and 1701. Her first entry on cassava notes insect activities revolving around the plant she encountered in June 1700. Her second entry describes cassava root as the ingredient for bread, a common food for both the indigenous peoples and Europeans living in America at this time. 
 <param ve-image
 title="Maria Sybilla Merian, 17th century" url="https://ids.lib.harvard.edu/ids/iiif/481769556/full/full/0/default.jpg"
        fit="cover"
@@ -83,6 +83,8 @@ The increasingly global spread of cassava took place alongside the forced moveme
 
 ## Innovation…
 When they first encountered cassava, Europeans relied upon indigenous knowledge from Amerindians to learn how to process cassava before consumption. This knowledge of how to prepare the cassava root travelled as the plant was first transplanted across the Atlantic to Africa. African women knew that the cassava root was poisonous, but they learnt to prepare its leaves instead. They discovered that young cassava leaves could be safely consumed after being boiled. 
+<param ve-map center="Q1033" zoom="6">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
 
 ## …and Experimentation
 Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic compounds which are toxic to humans. The more bitter the cassava is, the higher the concentration of hydrocyanic compounds. Today, both varieties exist for the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists thought they were two different species. A 1906 article on cyanogenesis outlines various experiments which had been conducted on the cassava root to determine its composition. The article’s authors were in favour of Pohl’s identification of bitter cassava as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. 
