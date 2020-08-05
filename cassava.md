@@ -94,7 +94,6 @@ title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="ht
 In 1887, American botanist, geologist, and ethnologist William Tufts Brigham published _Guatemala, The Land of the Quetzal_, in which he reported observations from his time in the book’s eponymous region. While visiting the town of Livingston, he describes being invited into people’s homes and witnessing the process of making cassava bread. He first notes the size of the cassava roots (twenty or thirty pounds) and their poisonous juice, before explaining how the bread is made.
 
 Instructions for Livingston Cassava Bread:
-
 1. Using a mahogany board with inserted quartz crystal, grate the cassava root into a coarse meal.
 
 2. Wash the meal carefully and partly remove the starch, which will settle in the water as tapioca.
@@ -105,7 +104,6 @@ Instructions for Livingston Cassava Bread:
 
 5. Dry and bake the loaves. 
 The result, Brigham reports, is a “wholesome and very nutritious bread, which keeps a long time and is capital on an excursion.” Brigham notes that cassava bread also makes for:
-
 * “Excellent puddings”
 
 * A better accompaniment for soup than crackers
