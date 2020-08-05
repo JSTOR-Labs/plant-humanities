@@ -78,6 +78,7 @@ In 1799, as he stopped in Tenerife before his voyage to the Americas that would 
 <param title="Tenerife" eid="Q40846">
 <param title="Personal Narrative" url="https://www.biodiversitylibrary.org/item/228502#page/5/mode/1up">
 <param url="https://www.biodiversitylibrary.org/pageimage/23980703" ve-image title="Personal Narrative, Humboldt, 1857" region="pct:8,5,95,90">
+<param url="https://www.biodiversitylibrary.org/pageimage/23980703" region="pct:8,5,95,90">
 
 ## Smothering the Dragon’s Flame: D. draco and the Anthropocene
 
