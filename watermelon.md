@@ -2,7 +2,7 @@
        title="Watermelon: 'What the angels eat'"
        banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
        layout="vtl"
-       num-maps="1"
+       num-maps="3"
        num-specimens="3"
        num-images="29"
        num-primary-sources="6"
@@ -47,8 +47,6 @@ title="Watermelon" url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bulg
 ### Whose Vine Is It Anyway?
 Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the _Citrullus lanatus_ species, but the _Citrullus_ genus includes at least six other species of watermelons, including the citron _(C. amarus)_, egusi _(C. mucosospermus)_ and colocynth _(C. colocynthis)_ watermelons, which at one time were variously called or classified as subspecies of _C. lanatus_.[^ref2] Past taxonomies of the sweet dessert watermelon are therefore of minimal use for tracing its origins until further genetic analysis is undertaken; instead, literary references and visual depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
 <param ve-plant-specimen eid="Q30160603" max="2">
-<param ve-map time-selector="3000 BCE:0" basemap="Esri_WorldPhysical" center="34.5531, 18.0480" zoom="3.5">
-<param ve-map-layer geojson active url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" title="Distribution">
 
 Species in the genus _Citrullus_ characteristically grow on vines with pinnatifid (feather-like) leaves and only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white.[^ref3] Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in north-eastern Africa around six thousand years ago. Wild dessert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya, adjacent to the Nile Valley[^ref4] and some of the earliest iconography of oblong melons — an indication of domestication — can be found in Egyptian tombs and Mediterranean and Byzantine mosaics, and seeds were found in the famous King Tutankhamen's tomb.[^ref5]  
 <param ve-image
@@ -59,6 +57,8 @@ title="Representations of watermelon in Egyptian tombs" url="https://oup.silverc
 title="Round cucurbits, possibly watermelons, found in different Roman and Byzantine mosaics dated 425-600 CE in Israel" url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/114/2/10.1093_aob_mcu106/3/mcu10606.jpeg?Expires=1599137594&Signature=bQYlzxcLbJtkOGTL6A7WM0WCyGwkZuHfT1I1zKUSbjxnn0OQVUQvlewQ~l3QGANeVt~Y9tZUFSFImcd7XVKgdZJbwIqOrmuODRnbNn5wXJGWlTMKCfZBwoE9mI78CvMeGFfSoD5bJgnlNWrkBJT4nrLkFYvGuopdQqmSpDKi9PvtgThhV~6RSh1ALDIwf59aS~I4VeOmQotBrg9EwD~2RwYGYvIyOa1u2BWgEgoDd9k96eaGwP73p6-soaCjrfLAlAG0yUcHa1~7HmuCTOaJ-0SX5Y2ONYHj4u0Rr7lSV4V8fAGysp7PuiEIZp7Y5C12GadGxuzvqcr6z9w3WZN5OQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
        fit="contain"
        attribution="Annals of Botany">
+<param ve-map time-selector="3000 BCE:0" basemap="Esri_WorldPhysical" center="34.5531, 18.0480" zoom="3.5">
+<param ve-map-layer geojson active url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" title="Distribution">
 
 In the arid savanna regions of Africa, watermelons were welcomed as sources of water, the flesh generally being cooked or beaten to a pulp to extract the water. In southern Africa’s Kalahari Desert, for example, the multiple uses of the flesh, rind, and seeds in their fresh, cooked, and dried forms helped some groups to remain sedentary and hydrated throughout the wet and dry seasons.[^ref7] As they became domesticated, watermelons were bred to yield softer and sweeter flesh, excluding traits like the mucilaginous egusi seeds or the hard, bitter flesh of the citron melon, although western and southern African cuisines still make use of these elements today.[^ref8] 
 <param ve-image
