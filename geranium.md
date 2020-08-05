@@ -128,7 +128,7 @@ title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_
 <param ve-image
 title="Plant de géranium rouge: photographie / Eugène Blondelet" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/photo_pelargonuim.jpeg" fit="cover" attribution="Bibliothèque nationale de France, RESERVE EH9-18 (42-43)">
 
-## References
+### References
 [^datg]:Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
 
 [^mfsirh]:Dickens, Mamie. _My Father as I Recall Him_. Roxburghe Press, 1896.
