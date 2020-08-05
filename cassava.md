@@ -62,7 +62,7 @@ title="Maria Sybilla Merian, 17th century" url="https://ids.lib.harvard.edu/ids/
        fit="cover"
        attribution="Dumbarton Oaks">
 
-The increasingly global spread of cassava took place alongside the forced movements of slave labour, leading to diasporic communities which brought along their uses of cassava. One such dish is _fufu_, an African dish made with a carbohydrate base, either cassava or plantains, and usually served with greens. This dish is known as _angú_ in Brazil, _mangú_ in the Dominican Republic, _mofongo_ in Puerto Rico, and _fufu de plátanos_ in Cuba. Today, _fufu_ is still a staple dish in parts of Africa. 
+The increasingly global spread of cassava took place alongside the forced movements of slave labour, leading to diasporic communities which brought along their uses of cassava. One such dish is _fufu_, an African dish made with a carbohydrate base, either cassava or plantains, and usually served with greens.[^17] This dish is known as _angú_ in Brazil, _mangú_ in the Dominican Republic, _mofongo_ in Puerto Rico, and _fufu de plátanos_ in Cuba.[^18] Today, _fufu_ is still a staple dish in parts of Africa. 
 <param ve-map center="Q739" zoom="3" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" fill="#92086D" marker-symbol="landmark" active>
 <param title="Brazil" eid="Q155">
@@ -71,7 +71,7 @@ The increasingly global spread of cassava took place alongside the forced moveme
 <param title="Puerto Rico" eid="Q1183">
 
 ## Innovation…
-When they first encountered cassava, Europeans relied upon indigenous knowledge from Amerindians to learn how to prepare cassava for consumption. This knowledge travelled as the plant was first transplanted across the Atlantic to Africa. African women knew that the cassava root was poisonous, but they learnt to prepare its leaves instead. They discovered that young cassava leaves could be safely consumed after being boiled. 
+When they first encountered cassava, Europeans relied upon indigenous knowledge from Amerindians to learn how to prepare cassava for consumption. This knowledge travelled as the plant was first transplanted across the Atlantic to Africa.[^19] African women knew that the cassava root was poisonous, but they learnt to prepare its leaves instead. They discovered that young cassava leaves could be safely consumed after being boiled.[^20]
 <param ve-map center="Q1033" zoom="3">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
 
@@ -160,6 +160,10 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 [^14]: Kaori O’Connor, “Beyond ‘Exotic Groceries’: Tapioca/Cassava/Manioc, a Hidden Commodity of Empires and Globalisation,” in _Global Histories, Imperial Commodities, Local Interactions,_ ed. Jonathan Curry-Machado (Hampshire and New York: Palgrave Macmillan, 2013), 227. https://doi.org/10.1057/9781137283603_12
 [^15]: Maria Sibylla Merian, Metamorphosis insectorum Surinamensium (Amstelaedami : Joannem Oosterwyk, 1719), 4. https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16
 [^16]: Ibid, 5.
+[^17]: Judith Ann Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery_, (Berkeley and Los Angeles: University of California Press, 2009), 180.
+[^18]: Ibid.
+[^19]: Ibid, 54.
+[^20]: Ibid, 178.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU5MTkzNDY2Nyw0NzQ3MjQ1MzQsMzU1OT
 Q1MDI4XX0=
