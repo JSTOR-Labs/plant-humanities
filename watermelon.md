@@ -75,6 +75,8 @@ title="Cucurbits on the Juliana Anicia Codex known as Vienna Dioscorides. Number
        fit="contain"
        attribution="Annals of Botany">
 <param ve-plant-specimen jeid="10.5555/al.ap.specimen.e00303054">
+<param ve-map time-selector="1400:2000" basemap="Esri_WorldPhysical" center="27.6648, -81.5158" zoom="">
+<param ve-map-layer geojson active url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" title="Distribution"> 
 
 By the ninth and twelfth centuries CE respectively, watermelons had arrived in India and China via regional routes.[^ref11] The watermelon and its sinewy vines soon became a decorative icon, with associations of vitality and playfulness that persist today. In fourteenth-century Japanese Buddhist representations of arhats (those reaching nirvana in Buddhist tradition), watermelons appear in spiritual terms as a religious offering. Early Korean paintings from the Joseon Dynasty by the female artist Shin Saimdang (1504–1551) also depicted watermelons, symbolically alongside flowers, butterflies and mice.[^ref12] The arching vines of the watermelon plant and seeds exposed by the mice symbolized wishes for healthy and abundant children, echoed in the nearby dianthus flower which represented a wish for “no white hairs,” or lasting youth. Another one of Shin’s depictions of watermelons appears on the 5000 won banknote today, as a reminder of Shin’s dedication to art, family, civic virtue and gender equality.[^ref13]
 <param ve-image
@@ -136,7 +138,7 @@ title="Watercolours  of fruits from Asia, early 19th century. South East Asia. D
 
 Watermelons were brought to the Americas in the sixteenth century, introduced by colonists and African slaves and cultivated widely by indigenous populations and in slave gardens. After the 1863 Emancipation Proclamation, the watermelon briefly became a tool of black citizenship; the ease with which watermelons could be grown and sold meant that they became a source of income for freed slaves.[^ref15] Although the watermelon initially held a certain amount of emancipatory potential for African-Americans both through their sale enabling the escape of the plantation economy and through the consumption of watermelons as a public and communal activity enacting newfound freedoms, the watermelon soon became perceived as a threat by white southerners who proceeded to transform the fruit into a symbol of black people’s unfitness for freedom and citizenship.
 <param ve-map time-selector="1400:2000" basemap="Esri_WorldPhysical" center="27.6648, -81.5158" zoom="">
-<param ve-map-layer geojson active url="https://raw.githubusercontent.com/may-wang/test/master/markers.json" title="Distribution"> 
+<param ve-map-layer geojson active url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" title="Distribution"> 
 <param ve-image
 title="African-American dancing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
        fit="contain"
