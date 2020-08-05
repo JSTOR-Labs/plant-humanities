@@ -12,12 +12,10 @@
 <param title="Dracaena" eid="Q158009">
 <param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 
-## Introduction: A Desensitizing Sensory Experience
-As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the Dragon’s Blood they just ingested is truly as noxious as its name suggests. Though the epithet “Dragon’s Blood” brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this “blood” is in fact the resin of a very real tree. _Dracaena draco_, the centenary tree with a thick trunk and a distinctive, umbrella-style crown, captured the imaginations of great minds across the ages, from Antiquity’s Pliny the Elder (d. 79 AD)
-
 ![](images/header option 5 - FINAL.jpg){: .left}
 
-to the Enlightenment’s Alexander von Humboldt (1769-1859). Unlike Pliny, however, Humboldt was not the lone scholar of his age enthralled by the epic allure of the dragon tree, as other European naturalists like André Pierre Ledru (1761-1825) also flocked to _D. draco_’s native Canary Islands to study it around the turn of the nineteenth century. Soon after their initial encounters with Dragon’s Blood, they all may have realized that this strange sap occupied a liminal space between myth, legend, and scientific botany. 
+## Introduction: A Desensitizing Sensory Experience
+As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the Dragon’s Blood they just ingested is truly as noxious as its name suggests. Though the epithet “Dragon’s Blood” brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this “blood” is in fact the resin of a very real tree. _Dracaena draco_, the centenary tree with a thick trunk and a distinctive, umbrella-style crown, captured the imaginations of great minds across the ages, from Antiquity’s Pliny the Elder (d. 79 AD)  to the Enlightenment’s Alexander von Humboldt (1769-1859). Unlike Pliny, however, Humboldt was not the lone scholar of his age enthralled by the epic allure of the dragon tree, as other European naturalists like André Pierre Ledru (1761-1825) also flocked to _D. draco_’s native Canary Islands to study it around the turn of the nineteenth century. Soon after their initial encounters with Dragon’s Blood, they all may have realized that this strange sap occupied a liminal space between myth, legend, and scientific botany. 
 <param title="Dragon's Blood" eid="Q421877" aliases="Dragon">
 <param title="Dracaena draco" eid="Q157952">
 <param title="Pliny the Elder" eid="Q82778">
@@ -65,7 +63,7 @@ After decades of violent attacks against the Guanches, Spanish conquistadors fin
 
 Throughout its dis into European spaces from the Age of Discovery, Dragon’s Blood was understood chiefly as a medicament. Soon after its introduction, the sticky scarlet resin became nothing short of a panacea with widespread potential to prevent a host of illnesses.[^8]  As a result, the so-called “_draco arbor_” features in famous early modern herbals, such as John Gerard’s _The Herball, or Generall Historie of Plantes_ (1633) and John Parkinson’s _Theatrum Botanicum_ (1640). Both authors pointed to the Atlantic islands as the tree’s most common habitat; as for _D. draco_’s medical uses, Gerard and Parkinson also agreed —its resin was believed to have effective astringent properties to treat gonorrhea, dysentery, spitting blood, and loose teeth. Gerard noted that “smiths also use it to varnish over their works,” while Parkinson doubted “painters can bring it to be a fit color to be used in their works.”[^9]  
 <param title="Age of Discovery" eid="Q133641">
-<param title="The Herball, or Generall Historie of Plantes (1633)" eid="Q51398082" aliases="The Herball">
+<param title="The Herball, or Generall Historie of Plantes (1633)" eid="Q51398082" aliases="">
 <param title="panacea" eid="Q1048167">
 <param title="Theatrum Botanicum (1640)" eid="Q22259463">
 <param title="John Gerard" eid="Q1333338">
