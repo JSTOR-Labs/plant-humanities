@@ -158,7 +158,7 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 [^12]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_(Berkeley: University of California Press, n.d.) https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/1feg4j8/alma991012177589704436
 [^13]: Ana Lucia Barretto Penna, Luis A. Nero and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications._ (Boca Raton: CRC Press, 2017), 238.  https://doi-org.proxy.libraries.uc.edu/10.1201/9781315369433
 [^14]: Kaori O’Connor, “Beyond ‘Exotic Groceries’: Tapioca/Cassava/Manioc, a Hidden Commodity of Empires and Globalisation,” in _Global Histories, Imperial Commodities, Local Interactions,_ ed. Jonathan Curry-Machado (Hampshire and New York: Palgrave Macmillan, 2013), 227. https://doi.org/10.1057/9781137283603_12
-[^15]: Maria Sibylla Merian, Metamorphosis insectorum Surinamensium (Amstelaedami : Joannem Oosterwyk, 1719), 4. https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16
+[^15]: Maria Sibylla Merian, _Metamorphosis insectorum Surinamensium_ (Amstelaedami : Joannem Oosterwyk, 1719), 4. https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16
 [^16]: Ibid, 5.
 [^17]: Judith Ann Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery_, (Berkeley and Los Angeles: University of California Press, 2009), 180.
 [^18]: Ibid.
