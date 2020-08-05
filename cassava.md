@@ -76,7 +76,7 @@ When they first encountered cassava, Europeans relied upon indigenous knowledge 
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
 
 ## …and Experimentation
-Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic compounds which are toxic to humans. The more bitter the cassava is, the higher the concentration of hydrocyanic compounds. Today, both varieties exist for the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists thought they were two different species. A [1906 article on cyanogenesis](https://www.biodiversitylibrary.org/page/43363072) outlines various experiments which had been conducted on the cassava root to determine its composition. The article’s authors were still in favour of Pohl’s identification of bitter cassava as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. 
+Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic compounds which are toxic to humans.[^21] The more bitter the cassava is, the higher the concentration of hydrocyanic compounds. Today, both varieties exist for the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists thought they were two different species. A [1906 article on cyanogenesis](https://www.biodiversitylibrary.org/page/43363072) outlines various experiments which had been conducted on the cassava root to determine its composition. The article’s authors were still in favour of Pohl’s identification of bitter cassava as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. 
 <param ve-image
 title="_Proceedings of the Royal Society London_(1906)" url="https://www.biodiversitylibrary.org/pageimage/43363072" fit="cover"
        attribution="Biodiversity Heritage Library">
@@ -164,6 +164,7 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 [^18]: Ibid.
 [^19]: Ibid, 54.
 [^20]: Ibid, 178.
+[^21]: A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” Food Security 9, (2017): 914. doi: 10.1007/s12571-017-0717-8
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU5MTkzNDY2Nyw0NzQ3MjQ1MzQsMzU1OT
 Q1MDI4XX0=
