@@ -26,10 +26,6 @@ To the right is an earthenware ceramic dating between the 5th and 7th centuries 
 title="Earthenware ceramic" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Moche.jpg"
        fit="cover"
        attribution="tbc">
-<param ve-image
-title="Cassava Garden" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Crosby.jpg"
-       fit="contain"
-       attribution="Courtesy of the artist">
 To the right is a vessel from the Chimú culture depicting cassava roots.
 <param ve-image
 title="Pottery vessel" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Chimu.jpg"
