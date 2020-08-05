@@ -26,11 +26,6 @@ To the right is an earthenware ceramic dating between the 5th and 7th centuries 
 title="Earthenware ceramic" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Moche.jpg"
        fit="cover"
        attribution="tbc">
-To the right is a vessel from the Chimú culture depicting cassava roots.
-<param ve-image
-title="Pottery vessel" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Chimu.jpg"
-       fit="cover"
-       attribution="tbc">
 
 ## Indigenous Food Uses
 Cassava is a starchy tuber and can be used to make a variety of dishes and beverages. Most commonly it is made into a starchy flour to produce breads and cakes, or it can be used to make fermented beverages. Some of the earliest descriptions of cassava as a food source are found in books written by European travelers to South America. 
