@@ -60,7 +60,7 @@ title="Maria Sybilla Merian, 17th century" url="https://ids.lib.harvard.edu/ids/
        attribution="Dumbarton Oaks">
 
 The increasingly global spread of cassava took place alongside the forced movements of slave labour, leading to diasporic communities which brought along their uses of cassava. One such dish is _fufu_, an African dish made with a carbohydrate base, either cassava or plantains, and usually served with greens.[^17] This dish is known as _angú_ in Brazil, _mangú_ in the Dominican Republic, _mofongo_ in Puerto Rico, and _fufu de plátanos_ in Cuba.[^18] Today, _fufu_ is still a staple dish in parts of Africa. 
-<param ve-map center="Q739" zoom="3" basemap="Esri_WorldPhysical">
+<param ve-map center="Q739" zoom="3">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" fill="#92086D" marker-symbol="landmark" active>
 <param title="Brazil" eid="Q155">
 <param title="Cuba" eid="Q241">
