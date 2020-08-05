@@ -34,6 +34,7 @@
 <param title="Citron" eid="Q30557566" aliases="C. amarus" aliases="citron">
 <param title="Egusi" eid="Q17429939" aliases="C. mucosospermus" aliases="egusi">
 <param title="Colocynth" eid="Q913609" aliases="C. colocynthis" aliases="colocynth">
+<param title="Atlantic slave trade" eid="Q10701282" aliases="slaves">
 
 ### Watermelon, The Food Of Angels
 
