@@ -44,7 +44,7 @@ title="_Historia naturalis Brasiliae_(1648)" url="https://www.biodiversitylibrar
 <param ve-storiiies id="861e9">
 
 ## Fermented beverages
-Accounts of native peoples in South America and Latin America producing fermented beverages also permeate the records kept by European travellers, missionaries and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman [Jean de Léry](https://books.google.nl/books?id=rK1hAAAAcAAJ&dq=Histoire%20d'un%20voyage%20fait%20en%20la%20terre%20de%20Br%C3%A9sil&hl=nl&pg=PA132#v=thumbnail&q=aypi&f=false) who visited Brazil. In the early 17th century a Spaniard, Antonio de León Pinelo, kept a very similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in the 19th century in Nicaragua.  Depending on the location, the beverage can be called _chicha_, _massato_ (a non-alcoholic variant mixed with honey), _acca_, _kufa_ or _mushla_.  
+Accounts of native peoples in South America and Latin America producing fermented beverages also permeate the records kept by European travellers, missionaries and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman [Jean de Léry](https://books.google.nl/books?id=rK1hAAAAcAAJ&dq=Histoire%20d'un%20voyage%20fait%20en%20la%20terre%20de%20Br%C3%A9sil&hl=nl&pg=PA132#v=thumbnail&q=aypi&f=false) who visited Brazil.[^9] In the early 17th century a Spaniard, Antonio de León Pinelo, kept a very similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in the 19th century in Nicaragua.  Depending on the location, the beverage can be called _chicha_, _massato_ (a non-alcoholic variant mixed with honey), _acca_, _kufa_ or _mushla_.  
 <param ve-image
 title="Antonio de León Pinelo (1636)" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Pinelo.jpg"
        fit="cover"
@@ -154,7 +154,7 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 [^6]: “Stirrup Spout Bottle with Manioc Form,” _The Metropolitan Museum of Art_, accessed July 20, 2020, https://www.metmuseum.org/art/collection/search/308558 
 [^7]:  “Vessel Forms,” _Dumbarton Oaks_, accessed July 28, 2020, https://www.doaks.org/resources/moche-iconography/vessel-forms
 [^8]: Hélène Bernier, “Moche Decorated Ceramics,” _The Metropolitan Museum of Art_, last modified August 2009, https://www.metmuseum.org/toah/hd/moch/hd_moch.htm; “Lords, Warriors, and Priests,” _Peabody Museum_, accessed July 20, 2020, https://www.peabody.harvard.edu/node/2499
-
+[^9]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_(Berkeley: University of California Press, n.d.).
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU5MTkzNDY2Nyw0NzQ3MjQ1MzQsMzU1OT
 Q1MDI4XX0=
