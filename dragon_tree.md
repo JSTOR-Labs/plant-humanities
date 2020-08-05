@@ -1,6 +1,6 @@
 <param ve-config
        title="Dracaena Draco: The Timeless Canarian Dragon"
-       banner="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%202.1%20adjust%20prop.jpg"
+       banner="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%204%20-%20FINAL.jpg"
        layout="vtl"
        num-maps="x"
        num-specimens="x"
