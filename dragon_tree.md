@@ -123,13 +123,13 @@ Today, Dracaena draco is officially designated as a vulnerable population on the
 [^11]: Alexander von Humboldt, Cosmos: A sketch of the Physical Description of the Universe, vol. 2, (London: 1849), 371-372. 
 [^12]: Alexander vonative of travels to the equinoctial regions of America during the years 1799-1804, vol. 1, (London: Routledge, 1895), 62. On Humboldt’s environmentalism: Laura Dassow Walls, “Rediscovering Humboldt’s Environmental Revolution,” Environmental History 10, no. 4 (2005), 758-60. 
 [^13]: André Pierre Ledru, Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco, (Paris: Arthus Bertrand, 1810), 81-82.
-[^1]: André Pierre Ledru, Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco, (Paris: Arthus Bertrand, 1810), 93.
-[^1]: André Pierre Ledru, Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco, (Paris: Arthus Bertrand, 1810), 93. 
-[^1]: Alice Carter Cook, “The Dragon Tree of Orotava,” The Plant World 4 no. 7 (July 1901), 124.
-[^1]: Joanna Jura-Morawiec and Mirela Tulik. “Dragon’s blood secretion and its ecological significance.”
-[^1]: Deepika Gupta a, Bruce Bleakley b, Rajinder K. Gupta. “Dragon’s blood: Botany, chemistry and therapeutic uses.”
-[^]: “Dracaena draco,” IUCN Red List.org, accessed August 3. 2020, https://www.iucnredlist.org/species/30394/9535771
-[^2]: Aaron González-Castro et al., "Unraveling the Seed Dispersal System of an Insular 'Ghost Dragon Tree (D. draco) in the Wild," in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
+[^14]: André Pierre Ledru, Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco, (Paris: Arthus Bertrand, 1810), 93.
+[^15]: André Pierre Ledru, Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco, (Paris: Arthus Bertrand, 1810), 93. 
+[^16]: Alice Carter Cook, “The Dragon Tree of Orotava,” The Plant World 4 no. 7 (July 1901), 124.
+[^17]: Joanna Jura-Morawiec and Mirela Tulik. “Dragon’s blood secretion and its ecological significance.”
+[^18]: Deepika Gupta a, Bruce Bleakley b, Rajinder K. Gupta. “Dragon’s blood: Botany, chemistry and therapeutic uses.”
+[^19]: “Dracaena draco,” IUCN Red List.org, accessed August 3. 2020, https://www.iucnredlist.org/species/30394/9535771
+[^20]: Aaron González-Castro et al., "Unraveling the Seed Dispersal System of an Insular 'Ghost Dragon Tree (D. draco) in the Wild," in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
 [^21]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (Dracaena draco),” in Horticulturae 5, no. 64 (September 2019), https://www.researchgate.net/publication/335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzI5NzE3Njk0LDg0NzgzNjUzNCwxOTE1MT
