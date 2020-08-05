@@ -2,9 +2,9 @@
        title="Dracaena Draco: The Timeless Canarian Dragon"
        banner="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/header%20option%205%20-%20FINAL.jpg"
        layout="vtl"
-       num-maps="x"
-       num-specimens="x"
-       num-images="x"
+       num-maps="1"
+       num-specimens="1"
+       num-images="16"
        num-primary-sources="x"
        author="Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian">
 
@@ -57,8 +57,7 @@ The Guanches used Dragon’s Blood for a variety of purposes ranging from embalm
 After decades of violent attacks against the Guanches, Spanish conquistadors finally vanquished the last of the Canary Islands in 1496. The Guanche language soon disappeared, with the exception of their distinct whistling language, known as Silbo Gomero. <param ve-audio url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/media/Silbo%20(online-audio-converter.com).mp3"> Due to the traditional Western preference for written records rather than oral histories, much of what we now know of pre-Columbian culture on the Canaries coecme uropn colonial interlocutors. After this initial period of European colonization, however, interest in the Canaries blossomed, as the Atlantic slands (comprised of the Canary Islands, as well as the Portuguese Azores and Madeira) quickly became  naua sopping oint for travelers of all stripes on teei way to he ew Worl as ell s Africa. It was during this period of integration of the Canaries into the burgeoning European sphere of influence, then, that _D. draco_ emerged on the stage of European gardens.
 <param title="Silbo Gomero" eid="Q415">
 <param title="Azores" eid="Q4058447">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Berthelot_drago_franchy.jpg" ve-image title="Engraving of the dragons of the House of Franchy in the Villa de La Orotava, published in 1838 in Sabin Berthelot's work _Histoire Naturelle des Îles Canaries_".>
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Berthelot_drago_franchy.jpg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Berthelot_drago_franchy.jpg" ve-image title="Engraving of the dragons of the House of Franchy in the Villa de La Orotava, published in 1838 in Sabin Berthelot's work _Histoire Naturelle des Îles Canaries_">
 
 Throughout its dis into European spaces from the Age of Discovery, Dragon’s Blood was understood chiefly as a medicament. Soon after its introduction, the sticky scarlet resin became nothing short of a panacea with widespread potential to prevent a host of illnesses.[^8]  As a result, the so-called “_draco arbor_” features in famous early modern herbals, such as John Gerard’s _The Herball, or Generall Historie of Plantes_ (1633) and John Parkinson’s _Theatrum Botanicum_ (1640). Both authors pointed to the Atlantic islands as the tree’s most common habitat; as for _D. draco_’s medical uses, Gerard and Parkinson also agreed —its resin was believed to have effective astringent properties to treat gonorrhea, dysentery, spitting blood, and loose teeth. Gerard noted that “smiths also use it to varnish over their works,” while Parkinson doubted “painters can bring it to be a fit color to be used in their works.”[^9]  
 <param title="Age of Discovery" eid="Q133641">
@@ -67,7 +66,7 @@ Throughout its dis into European spaces from the Age of Discovery, Dragon’s Bl
 <param title="Theatrum Botanicum (1640)" eid="Q22259463">
 <param title="John Gerard" eid="Q1333338">
 <param title="John Parkinson" eid="Q256288">
-<param ve-image title="The Herballe, or Generall Histoire of Plantes, 1633" url="https://www.biodiversitylibrary.org/pageimage/51906905">
+<param ve-image title="The Herballe, or Generall Histoire of Plantes, 1633" url="https://www.biodiversitylibrary.org/pageimage/51906905"> ve-image title
 <param ve-image title="Theatrum Botanicum, 1640" url="https://www.biodiversitylibrary.org/pageimage/56601428">
 
 European interest in _D. draco_ again resurfaced in the late eighteenth century with the voyages of scientific discovery. German scientist and writer Alexander von Humboldt was the most famous of them all during this period to fall prey to the tree’s enchanting appeal. In _Cosmos_ (1842), his last work, he still recalled the time when, as a child, he “first saw a colossal dragon tree in an old tower of the Botanical Garden in Berlin."[^10]  The experience was so overwhelming that Humboldt even thought of it as “the source from whence sprang my early and fixed desire to visit the lands of the tropics.”[^11]  A stroll through the botanical garden in his hometown, a virtual travel indeed, prompted Humboldt’s desire for actual travel. The fact that the dragon tree bookended Humboldt’s illustrious career, as both a formative experience of his youth and a notable point in his last great work highlights how the dragon tree itself was at the core of his understanding of nature as one interconnected whole.
