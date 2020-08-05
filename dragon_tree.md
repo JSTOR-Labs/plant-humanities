@@ -30,7 +30,7 @@ Members of today’s _Dracaena_ genus have long been valued for their signature 
 <param title="Vedic myth" eid="Q2076739">
 <param title="Socotra" eid="Q82859">
 <param title="Dracaena cinnabari" eid="Q133560">
-<param ve-image title="Vedic Tale of the Elephant and the Dragon as depicted in Bestiary by Giraldus Cambrensis, 13th Century, as Provided by the British Museum" url="https://www.bl.uk/IllImages/Ekta/big/E043/E043090a.jpg">
+<param ve-image ve-image title="Vedic Tale of the Elephant and the Dragon as depicted in Bestiary by Giraldus Cambrensis, 13th Century, as Provided by the British Museum" url="https://www.bl.uk/IllImages/Ekta/big/E043/E043090a.jpg">
 
 
 As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^2] As Dragon’s Blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that "the source of "Dragon's Blood" [... is] the red blood of the dragon Ladon after it was killed by Hercules."[^3]
@@ -58,7 +58,7 @@ After decades of violent attacks against the Guanches, Spanish conquistadors fin
 <param title="Silbo Gomero" eid="Q415">
 <param title="Azores" eid="Q4058447">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Berthelot_drago_franchy.jpg" ve-image title="Engraving of the dragons of the House of Franchy in the Villa de La Orotava, published in 1838 in Sabin Berthelot's work _Histoire Naturelle des Îles Canaries_".>
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Berthelot_drago_franchy.jpg" 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Berthelot_drago_franchy.jpg">
 
 Throughout its dis into European spaces from the Age of Discovery, Dragon’s Blood was understood chiefly as a medicament. Soon after its introduction, the sticky scarlet resin became nothing short of a panacea with widespread potential to prevent a host of illnesses.[^8]  As a result, the so-called “_draco arbor_” features in famous early modern herbals, such as John Gerard’s _The Herball, or Generall Historie of Plantes_ (1633) and John Parkinson’s _Theatrum Botanicum_ (1640). Both authors pointed to the Atlantic islands as the tree’s most common habitat; as for _D. draco_’s medical uses, Gerard and Parkinson also agreed —its resin was believed to have effective astringent properties to treat gonorrhea, dysentery, spitting blood, and loose teeth. Gerard noted that “smiths also use it to varnish over their works,” while Parkinson doubted “painters can bring it to be a fit color to be used in their works.”[^9]  
 <param title="Age of Discovery" eid="Q133641">
