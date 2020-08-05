@@ -9,7 +9,8 @@
        author="Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian">
 
 <param title="Dracaena Draco" eid="Q579524">
-<param title="Dracaena" eid="Q158009">
+<param title="Dracaena" eid="Q158009" article="dragon_tree_species" aliases="D. draco">
+
 <param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 
 ![](images/header option 5 - FINAL.jpg)
@@ -25,7 +26,6 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 ## Sanguine Myths and Elemental Reality
 
 Members of today’s _Dracaena_ genus have long been valued for their signature red resin, Dragon’s Blood, that oozes from cuts in the bark of those trees.[^1]  The first known reports of Dragon’s Blood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with Dragon’s Blood also took a foothold in Europe through the infamous tale of Hercules. 
-<param title="Dracaena" eid="Q158009" aliases="_Dracaena_">
 <param title="Naturalis Historia" eid="Q442">
 <param title="Vedic myth" eid="Q2076739" aliases="Vedic myth">
 <param title="Socotra" eid="Q82859">
@@ -96,7 +96,6 @@ Unfortunately, the Orotava centenary dragon tree did not outlive Humboldt and Le
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/38/Orotava_Ayuntamiento_04.jpg">
 
 Just as Humboldt and Ledru observed the centenary _D. draco_ at Orotava and pondered the tree’s age, durability, and its potential influence on theories of a global climate, today’s scientists are weighing the tree’s possible medicinal benefits (including potential cancer treatments) and its commercial value in the cosmetics industry as an ingredient in anti-aging creams in relation to the species’ ongoing battle with extinction and its ecological vulnerability.[^17] Since many different species make good sources of what is commonly known as dragon’s blood, more comprehensive research still needs to be carried out to fully assess the mythical resin’s true medicinal efficacy.[^18] 
-<param ve-entity eid="Q158009" title="different species" article="dragon_tree_species">
 <param ve-image iiif-url="https://free.iiifhosting.com/iiif/ac36469812ba26bc336649e5aa20da4c6bfbd178d157caf52bbbfba2bd4d6629">
 
 Today, _D. draco_ is officially designated as a vulnerable population on the International Union for Conservation of Nature’s _Red List of Threatened Species_ due to its near-extinction in the wild.[^19] This is due in part to the fact that the tree relies on animals to disperse its seeds, and the number of animals which are suitable _D. draco_ seed dispersers has substantially decreased over time due to hunting and other forms of habitat destruction.[^20] Furthermore, as Ledru noted over two centuries ago, this population decline and endangerment is also due to over cultivation of the tree’s valuable resin. The number of wild specimens has never been lower than it is today, and even though there are projects to repopulate the islands through experiments in propagation and acclimatization, one wonders if ever again a _Dracaena draco_ will grow to the size and magnificence of the one that so captivated the minds of lers like Humboldt and Ledru.[^21] Perhaps, after its millennia-long smolder, the dragon’s flame will finally be snuffed out by the twenty-first century Anthropocene. 
