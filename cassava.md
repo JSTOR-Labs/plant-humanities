@@ -10,7 +10,7 @@
 
 ## Introduction 
 The native distribution of cassava spans from western South American to Brazil. Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots around 8,000 B.C.E. From there, domesticated Manihot esculenta spread through short-distance trade of seeds or stem cuttings from the plant, rather than by transporting the perishable roots. Because cassava prefers warm and hot climes, today it can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean.
-<param ve-map center="Q974" zoom="3">
+<param ve-map center="Q974" zoom="2">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" fill="#92086D" marker-symbol="landmark" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/melindasusanto/demo1/master/AsiaPacific.json" title="SE Asia" fill="#92086D" marker-symbol="landmark" active>
@@ -74,7 +74,7 @@ title="Maria Sybilla Merian, 17th century" url="https://ids.lib.harvard.edu/ids/
        attribution="Dumbarton Oaks">
 
 The increasingly global spread of cassava took place alongside the forced movements of slave labour, leading to diasporic communities which brought along their uses of cassava. One such travelling dish is fufu, an African dish made with a carbohydrate base, either cassava or plantains, and served with greens. This dish is known as angú in Brazil, mangú in the Dominican Republic, mofongo in Puerto Rico, and fufu de plátanos in Cuba. Today, fufu is still a staple dish in parts of Africa. 
-<param ve-map center="Q241" zoom="6">
+<param ve-map center="Q241" zoom="3">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" fill="#92086D" marker-symbol="landmark" active>
 <param title="Brazil" eid="Q155">
 <param title="Cuba" eid="Q241">
