@@ -106,15 +106,15 @@ Instructions for Livingston Cassava Bread:
 5. Dry and bake the loaves. 
 The result, Brigham reports, is a “wholesome and very nutritious bread, which keeps a long time and is capital on an excursion.” Brigham notes that cassava bread also makes for:
 
-- “Excellent puddings”
+* “Excellent puddings”
 
-- A better accompaniment for soup than crackers
+* A better accompaniment for soup than crackers
 
-- An indispensable snack in the woods
+* An indispensable snack in the woods
 
-- “A capital diet in dyspepsia”
+* “A capital diet in dyspepsia”
 
-- A palatable food for sea-sickness that “serves to fill out the bony outlines of an emaciated human frame better than anything else.”
+* A palatable food for sea-sickness that “serves to fill out the bony outlines of an emaciated human frame better than anything else.”
 
  <param ve-map center="Q3757" zoom="3" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/melindasusanto/demo1/master/AsiaPacific.json" title="SE Asia" fill="#92086D" marker-symbol="landmark" active>
