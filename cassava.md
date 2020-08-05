@@ -164,8 +164,8 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 [^18]: Ibid.
 [^19]: Ibid, 54.
 [^20]: Ibid, 178.
-[^21]: A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” Food Security 9, (2017): 914. doi: 10.1007/s12571-017-0717-8
-[^22]: Wyndham R. Dunstan, T. A. Henry, and S. J. M. Auld, “Cyanogenesis in Plants: Part V – The Occurrence of Phaseolunatin in Cassava (Manihot Aipi and Manihot utilissima)” Proceedings of the Royal Society of London (1906): 152-158. https://www.biodiversitylibrary.org/page/43363072
+[^21]: A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” _Food Security_ 9, (2017): 914. doi: 10.1007/s12571-017-0717-8
+[^22]: Wyndham R. Dunstan, T. A. Henry, and S. J. M. Auld, “Cyanogenesis in Plants: Part V – The Occurrence of Phaseolunatin in Cassava (Manihot Aipi and Manihot utilissima)” _Proceedings of the Royal Society of London_ (1906): 152-158. https://www.biodiversitylibrary.org/page/43363072
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU5MTkzNDY2Nyw0NzQ3MjQ1MzQsMzU1OT
 Q1MDI4XX0=
