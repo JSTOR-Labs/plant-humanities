@@ -128,7 +128,7 @@ Here we see a photo of workers in the cassava industry in the Dutch East Indies 
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/melindasusanto/demo1/master/AsiaPacific.json" title="SE Asia" marker-symbol="landmark" active>
 <param title="Java" eid="Q3757">
 Today, cassava is still grown in Java, and in other regions around the globe. This resilient, adaptable root with nutritious value has long become an ubiquitous presence in our lives, from [tapioca school pudding](https://www.theguardian.com/lifeandstyle/wordofmouth/2015/apr/13/tapioca-school-pudding-culinary-comeback) to [bubble tea](https://www.eater.com/2019/11/5/20942192/bubble-tea-boba-asian-american-diaspora). People all over the world continue to reinvent its meaning and connect to cassava in their own ways. Nigerian-American artist Njideka Akyunyili Crosby has featured cassava prominently in her work as she explores the ability of people, plants, and paintings to inhabit multiple spaces. For Crosby, cassava has a specific association with village life in Nigeria. In her painting _Cassava Garden_, she juxtaposes it with an Indian rubber tree from her life in Los Angeles to create an imagined garden where two plants that are not usually found together can coexist. Ultimately, she uses cassava and the Indian rubber tree to ask, “when does something belong to a place?” 
-<param ve-storiiies id="2e512f50" title="crosbystorris">
+<param ve-storiiies id="2e1e3" title="crosbystorris">
 <param ve-image
 title="Cassava Garden" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Crosby.jpg"
        fit="contain"
