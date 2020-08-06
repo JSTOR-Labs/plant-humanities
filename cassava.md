@@ -43,7 +43,7 @@ title="Antonio de León Pinelo (1636)" url="https://www.biodiversitylibrary.org/
 
 One version of the alcoholic recipe, recorded by the Frenchman Jean de Léry in his _History of a Voyage to the Land of Brazil_, is as follows:
 <param ve-image
-title="Chicha Production, de Léry" url="https://github.com/JSTOR-Labs/plant-humanities/images/jean de lery.JPG" fit="cover">
+title="Chicha Production, de Léry" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/images/master/jean de lery.JPG" fit="cover">
 
 The preparation process for _chicha_ uses several tools.  The basic process is that cassava is either turned into flour or cut into pieces, then boiled, chewed and combined with saliva in the mouth for some time, then boiled again in a different vessel, then it is left to ferment for several days until it is ready for consumption.[^13] To the right are modern tools used to create _chicha_ in Argentina.[^14] This shows that even today people continue to follow the traditional methods established by their ancestors to create fermented cassava beverages.
 <param ve-image
@@ -72,7 +72,7 @@ The increasingly global spread of cassava took place alongside the forced moveme
 <param title="Puerto Rico" eid="Q1183">
 
 ## …and Experimentation
-Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic compounds, which are toxic to humans.[^22] The more bitter the cassava is, the higher the concentration of hydrocyanic compounds. Today, both varieties exist for the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists such as [Johann Pohl](https://plants.jstor.org/stable/10.5555/al.ap.person.bm000006597) thought they were two different species. A [1906 article on cyanogenesis](https://www.biodiversitylibrary.org/page/43363072) outlines various experiments which had been conducted on the cassava root to determine its composition.[^23] The article’s authors were still in favour of Pohl’s identification of bitter cassava as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. 
+Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic compounds, which are toxic to humans.[^22] The more bitter the cassava is, the higher the concentration of hydrocyanic compounds. Today, both varieties exist for the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists such as [Johann Baptist Pohl](https://plants.jstor.org/stable/10.5555/al.ap.person.bm000006597) thought they were two different species. A [1906 article on cyanogenesis](https://www.biodiversitylibrary.org/page/43363072) outlines various experiments which had been conducted on the cassava root to determine its composition.[^23] The article’s authors were still in favour of Pohl’s identification of bitter cassava as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. 
 <param ve-image
 title="_Proceedings of the Royal Society London_(1906)" url="https://www.biodiversitylibrary.org/pageimage/43363072" fit="cover"
        attribution="Biodiversity Heritage Library">
