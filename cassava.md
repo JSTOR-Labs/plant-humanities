@@ -5,7 +5,7 @@
        num-maps="5"
        num-specimens="1"
        num-images="7"
-       num-primary-sources="7"
+       num-primary-sources="9"
        author="Christina Emery, Rachel Hirsch, and Melinda Susanto">
 
 ## Introduction 
