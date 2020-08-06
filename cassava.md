@@ -88,7 +88,7 @@ title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="ht
        attribution="Wikimedia Commons">
 In 1887, American botanist, geologist, and ethnologist [William Tufts Brigham](https://archive.org/search.php?query=%28%28subject%3A%22Brigham%2C+William+Tufts%22+OR+subject%3A%22Brigham%2C+William+T.%22+OR+subject%3A%22Brigham%2C+W.+T.%22+OR+subject%3A%22William+Tufts+Brigham%22+OR+subject%3A%22William+T.+Brigham%22+OR+subject%3A%22W.+T.+Brigham%22+OR+creator%3A%22William+Tufts+Brigham%22+OR+creator%3A%22William+T.+Brigham%22+OR+creator%3A%22W.+T.+Brigham%22+OR+creator%3A%22W.+Tufts+Brigham%22+OR+creator%3A%22Brigham%2C+William+Tufts%22+OR+creator%3A%22Brigham%2C+William+T.%22+OR+creator%3A%22Brigham%2C+W.+T.%22+OR+creator%3A%22Brigham%2C+W.+Tufts%22+OR+title%3A%22William+Tufts+Brigham%22+OR+title%3A%22William+T.+Brigham%22+OR+title%3A%22W.+T.+Brigham%22+OR+description%3A%22William+Tufts+Brigham%22+OR+description%3A%22William+T.+Brigham%22+OR+description%3A%22W.+T.+Brigham%22+OR+description%3A%22Brigham%2C+William+Tufts%22+OR+description%3A%22Brigham%2C+William+T.%22%29+OR+%28%221841-1926%22+AND+Brigham%29%29+AND+%28-mediatype%3Asoftware%29&page=2])  published _Guatemala, The Land of the Quetzal_, in which he reported observations from his time in the book’s eponymous region.[^24] While visiting the town of Livingston, he describes being invited into people’s homes and witnessing the process of making cassava bread. He first notes the size of the cassava roots (twenty or thirty pounds) and their poisonous juice, before explaining how the bread is made. The instructions for Livingston Cassava Bread shows that the method of making cassava bread retains elements similar to those described in earlier European texts.
 
-Instructions for Livingston Cassava Bread:
+Instructions for Livingston Cassava Bread:[^25]
 
 1. Using a mahogany board with inserted quartz crystal, grate the cassava root into a coarse meal.
 
@@ -100,30 +100,30 @@ Instructions for Livingston Cassava Bread:
 
 5. Dry and bake the loaves. 
 
-The result, Brigham reports, is a “wholesome and very nutritious bread, which keeps a long time and is capital on an excursion.”[^25] Brigham notes that cassava bread also makes for:
+The result, Brigham reports, is a “wholesome and very nutritious bread, which keeps a long time and is capital on an excursion.”[^26] Brigham notes that cassava bread also makes for:
 
-* “Excellent puddings”[^26] 
+* “Excellent puddings”[^27] 
 
 * A better accompaniment for soup than crackers
 
 * An indispensable snack in the woods
 
-* “A capital diet in dyspepsia”[^27]
+* “A capital diet in dyspepsia”[^28]
 
-* A palatable food for sea-sickness that “serves to fill out the bony outlines of an emaciated human frame better than anything else.”[^28]
+* A palatable food for sea-sickness that “serves to fill out the bony outlines of an emaciated human frame better than anything else.”[^29]
 
  <param ve-map center="Q3757" zoom="3" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/melindasusanto/demo1/master/AsiaPacific.json" title="SE Asia" fill="#92086D" marker-symbol="landmark" active>
 <param title="Java" eid="Q3757">
 Brigham also remarks that cassava bread loaves are attractive and would be easy to export, and suggests they be sold overseas for their dietary benefits.
-Brigham was not alone in his support of a more expansive cassava industry. Just a few decades before Brigham published _Guatemala_, the Director of Cultivation of Java ordered a new shipment of cassava to the island.[^29] Other areas of Southeast Asia began to see large-scale cultivation of the plant as well. Although there had been earlier reports of cassava in Africa in the sixteenth century, it was not until this nineteenth-century moment that the plant would become fully established beyond South America. 
+Brigham was not alone in his support of a more expansive cassava industry. Just a few decades before Brigham published _Guatemala_, the Director of Cultivation of Java ordered a new shipment of cassava to the island.[^30] Other areas of Southeast Asia began to see large-scale cultivation of the plant as well.[^31] Although there had been earlier reports of cassava in Africa in the sixteenth century, it was not until this nineteenth-century moment that the plant would become fully established beyond South America. 
 
 <param ve-image
 title="Dutch East Indies, 1915" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Indonesia.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
-English botanist [Isaac Henry Burkill](https://archive.org/search.php?query=%28%28subject%3A%22Burkill%2C%20Isaac%20Henry%22%20OR%20subject%3A%22Burkill%2C%20Isaac%20H%2E%22%20OR%20subject%3A%22Burkill%2C%20I%2E%20H%2E%22%20OR%20subject%3A%22Isaac%20Henry%20Burkill%22%20OR%20subject%3A%22Isaac%20H%2E%20Burkill%22%20OR%20subject%3A%22I%2E%20H%2E%20Burkill%22%20OR%20subject%3A%22Burkill%2C%20Isaac%22%20OR%20subject%3A%22Isaac%20Burkill%22%20OR%20creator%3A%22Isaac%20Henry%20Burkill%22%20OR%20creator%3A%22Isaac%20H%2E%20Burkill%22%20OR%20creator%3A%22I%2E%20H%2E%20Burkill%22%20OR%20creator%3A%22I%2E%20Henry%20Burkill%22%20OR%20creator%3A%22Burkill%2C%20Isaac%20Henry%22%20OR%20creator%3A%22Burkill%2C%20Isaac%20H%2E%22%20OR%20creator%3A%22Burkill%2C%20I%2E%20H%2E%22%20OR%20creator%3A%22Burkill%2C%20I%2E%20Henry%22%20OR%20creator%3A%22Isaac%20Burkill%22%20OR%20creator%3A%22Burkill%2C%20Isaac%22%20OR%20title%3A%22Isaac%20Henry%20Burkill%22%20OR%20title%3A%22Isaac%20H%2E%20Burkill%22%20OR%20title%3A%22I%2E%20H%2E%20Burkill%22%20OR%20title%3A%22Isaac%20Burkill%22%20OR%20description%3A%22Isaac%20Henry%20Burkill%22%20OR%20description%3A%22Isaac%20H%2E%20Burkill%22%20OR%20description%3A%22I%2E%20H%2E%20Burkill%22%20OR%20description%3A%22Burkill%2C%20Isaac%20Henry%22%20OR%20description%3A%22Burkill%2C%20Isaac%20H%2E%22%20OR%20description%3A%22Isaac%20Burkill%22%20OR%20description%3A%22Burkill%2C%20Isaac%22%29%20OR%20%28%221870-1965%22%20AND%20Burkill%29%29%20AND%20%28-mediatype:software%29) similarly observed that “there were two chapters in the establishment of the plant outside its home—one concerned with the carrying of it abroad as a vegetable, and the other with the establishment abroad of its industrial use. A long space of time separated them, as the plant was taken overseas as a vegetable about the year 1500, but the establishment of a tapioca [a cassava byproduct] industry outside America did not follow until two and a half centuries later.”[^30] Although it is difficult to ascertain by what routes cassava was taken overseas and exactly when it became popularized outside of South America, by the twentieth century, cassava was being actively grown as a crop in southern North America, central Africa, and South and Southeast Asia.
-Here we see a photo of workers in the cassava industry in the Dutch East Indies taken around 1915. Burkill describes the process of making one particular Javanese cassava dish:[^31]
+English botanist [Isaac Henry Burkill](https://archive.org/search.php?query=%28%28subject%3A%22Burkill%2C%20Isaac%20Henry%22%20OR%20subject%3A%22Burkill%2C%20Isaac%20H%2E%22%20OR%20subject%3A%22Burkill%2C%20I%2E%20H%2E%22%20OR%20subject%3A%22Isaac%20Henry%20Burkill%22%20OR%20subject%3A%22Isaac%20H%2E%20Burkill%22%20OR%20subject%3A%22I%2E%20H%2E%20Burkill%22%20OR%20subject%3A%22Burkill%2C%20Isaac%22%20OR%20subject%3A%22Isaac%20Burkill%22%20OR%20creator%3A%22Isaac%20Henry%20Burkill%22%20OR%20creator%3A%22Isaac%20H%2E%20Burkill%22%20OR%20creator%3A%22I%2E%20H%2E%20Burkill%22%20OR%20creator%3A%22I%2E%20Henry%20Burkill%22%20OR%20creator%3A%22Burkill%2C%20Isaac%20Henry%22%20OR%20creator%3A%22Burkill%2C%20Isaac%20H%2E%22%20OR%20creator%3A%22Burkill%2C%20I%2E%20H%2E%22%20OR%20creator%3A%22Burkill%2C%20I%2E%20Henry%22%20OR%20creator%3A%22Isaac%20Burkill%22%20OR%20creator%3A%22Burkill%2C%20Isaac%22%20OR%20title%3A%22Isaac%20Henry%20Burkill%22%20OR%20title%3A%22Isaac%20H%2E%20Burkill%22%20OR%20title%3A%22I%2E%20H%2E%20Burkill%22%20OR%20title%3A%22Isaac%20Burkill%22%20OR%20description%3A%22Isaac%20Henry%20Burkill%22%20OR%20description%3A%22Isaac%20H%2E%20Burkill%22%20OR%20description%3A%22I%2E%20H%2E%20Burkill%22%20OR%20description%3A%22Burkill%2C%20Isaac%20Henry%22%20OR%20description%3A%22Burkill%2C%20Isaac%20H%2E%22%20OR%20description%3A%22Isaac%20Burkill%22%20OR%20description%3A%22Burkill%2C%20Isaac%22%29%20OR%20%28%221870-1965%22%20AND%20Burkill%29%29%20AND%20%28-mediatype:software%29) similarly observed that “there were two chapters in the establishment of the plant outside its home—one concerned with the carrying of it abroad as a vegetable, and the other with the establishment abroad of its industrial use. A long space of time separated them, as the plant was taken overseas as a vegetable about the year 1500, but the establishment of a tapioca [a cassava byproduct] industry outside America did not follow until two and a half centuries later.”[^32] Although it is difficult to ascertain by what routes cassava was taken overseas and exactly when it became popularized outside of South America, by the twentieth century, cassava was being actively grown as a crop in southern North America, central Africa, and South and Southeast Asia.
+Here we see a photo of workers in the cassava industry in the Dutch East Indies taken around 1915. Burkill describes the process of making one particular Javanese cassava dish:[^33]
 
 1. Peel cassava tubers
 
@@ -136,7 +136,7 @@ Here we see a photo of workers in the cassava industry in the Dutch East Indies 
 5. Fry the cassava pieces 
 
 ## Conclusion
-Today, cassava is still grown in Java, and in other regions around the globe. This resilient, adaptable root with nutritious value has long become an ubiquitous presence in our lives, from [tapioca school pudding](https://www.theguardian.com/lifeandstyle/wordofmouth/2015/apr/13/tapioca-school-pudding-culinary-comeback) to [bubble tea](https://www.eater.com/2019/11/5/20942192/bubble-tea-boba-asian-american-diaspora). People all over the world continue to reinvent its meaning and connect to cassava in their own ways. Nigerian-American artist (Njideka Akyunyili Crosby)[http://www.njidekaakunyilicrosby.com/] has featured cassava prominently in her work as she explores the ability of people, plants, and paintings to inhabit multiple spaces. For Crosby, cassava has a specific association with village life in Nigeria.[^32] In her painting _Cassava Garden_, she juxtaposes it with an Indian rubber tree from her life in Los Angeles to create an imagined garden where two plants that are not usually found together can coexist. Ultimately, she uses cassava and the Indian rubber tree to ask, “when does something belong to a place?”[^33] 
+Today, cassava is still grown in Java, and in other regions around the globe. This resilient, adaptable root with nutritious value has long become an ubiquitous presence in our lives, from [tapioca school pudding](https://www.theguardian.com/lifeandstyle/wordofmouth/2015/apr/13/tapioca-school-pudding-culinary-comeback) to [bubble tea](https://www.eater.com/2019/11/5/20942192/bubble-tea-boba-asian-american-diaspora). People all over the world continue to reinvent its meaning and connect to cassava in their own ways. Nigerian-American artist (Njideka Akyunyili Crosby)[http://www.njidekaakunyilicrosby.com/] has featured cassava prominently in her work as she explores the ability of people, plants, and paintings to inhabit multiple spaces. For Crosby, cassava has a specific association with village life in Nigeria.[^34] In her painting _Cassava Garden_, she juxtaposes it with an Indian rubber tree from her life in Los Angeles to create an imagined garden where two plants that are not usually found together can coexist. Ultimately, she uses cassava and the Indian rubber tree to ask, “when does something belong to a place?”[^35] 
 <param ve-storiiies id="2e1e3" title="crosbystorris">
 
 ## Bibliography
@@ -169,11 +169,13 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 [^26]: Ibid.
 [^27]: Ibid.
 [^28]: Ibid.
-[^29]: I. H. Burkill et al., _A Dictionary of the Economic Products of the Malay Peninsula,_ 2 v. (London: Published on behalf of the governments of the Straits settlements and Federated Malay states by the Crown agents for the colonies, 1935): 1414.
-[^30]: Ibid, 1412.
-[^31]: Ibid, 1418.
-[^32]: MOCA, Njideka Akunyili Crosby, 2018, https://www.youtube.com/watch?v=pUZijlho9CM.
-[^33]: Ibid.
+[^29]: Ibid.
+[^30]: I. H. Burkill et al., _A Dictionary of the Economic Products of the Malay Peninsula,_ 2 v. (London: Published on behalf of the governments of the Straits settlements and Federated Malay states by the Crown agents for the colonies, 1935): 1414.
+[^31]: Ibid.
+[^32]: Ibid, 1412.
+[^33]: Ibid, 1418.
+[^34]: MOCA, Njideka Akunyili Crosby, 2018, https://www.youtube.com/watch?v=pUZijlho9CM.
+[^35]: Ibid.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU5MTkzNDY2Nyw0NzQ3MjQ1MzQsMzU1OT
 Q1MDI4XX0=
