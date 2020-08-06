@@ -2,11 +2,11 @@
        title="Cooking with Cassava"
        banner="https://raw.githubusercontent.com/melindasusanto/demo1/master/Crosby.jpg"
        layout="vtl"
-       num-maps="x"
-       num-specimens="x"
-       num-images="x"
-       num-primary-sources="x"
-       author="Christina Emery, Rachel Hirsch, Melinda Susanto">
+       num-maps="5"
+       num-specimens="1"
+       num-images="7"
+       num-primary-sources="7"
+       author="Christina Emery, Rachel Hirsch, and Melinda Susanto">
 
 ## Introduction 
 The native distribution of cassava spans from western South American to Brazil.[^1] Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots around 8,000 B.C.E.[^2] From there, domesticated _Manihot esculenta_ spread through short-distance trade of seeds or stem cuttings from the plant, rather than by transporting the perishable roots.[^3] With a preference for warm and hot climes, today cassava can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean.[^4]
