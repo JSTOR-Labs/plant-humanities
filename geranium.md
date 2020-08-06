@@ -40,6 +40,7 @@ region="pct:20,28,50,50" attribution="Giraud, Jane Elizabeth, approximately 1820
 ## Global industrial production of Pelargonium oils
 *Pelargoniums* play a significant role in the essential oil extraction industry, which provides the base material for the production of pharmaceuticals, cosmetics, and perfumes. In particular, the *Pelargonium* is used to create what we know as geranium oil, a commodity frequently instrumentalised in aromatherapy, skincare, and even as a food flavouring. The extraction of these oils is done by distillation and not taken directly, and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant. This process of natural extraction involves the creation of extensive crops, factories, and the hiring of high labour. In this way, the oil industry not only generates an international commercial network, but also reorganizes and transforms the territory.
 <param ve-storiiies id="991gw">
+<param ve-storiiies id="1e1gx">
 
 The most common known geranium oil is actually from one species of *Pelargonium*, *P. graveolens* (also known as *Geranium Rosat*). However, when the essential oil was first distilled and introduced to the French colonies in Africa, it was actually a few years earlier than the first distinction of *Pelargonium* as an independent genus by L’Héritier in 1787. Therefore, the essential oil was inevitably misnamed as geranium oil, and this misnomer is still used nowadays.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000417315">
