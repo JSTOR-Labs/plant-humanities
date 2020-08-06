@@ -35,12 +35,12 @@ The method of preparing flour from cassava is typically described as follows. Fi
 <param ve-storiiies id="861e9">
 
 ## Fermented beverages
-Accounts of native peoples in South America and Latin America producing fermented beverages also permeate the records kept by European travellers, missionaries and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman [Jean de Léry](https://books.google.nl/books?id=rK1hAAAAcAAJ&dq=Histoire%20d'un%20voyage%20fait%20en%20la%20terre%20de%20Br%C3%A9sil&hl=nl&pg=PA132#v=thumbnail&q=aypi&f=false) who visited Brazil.[^9] In the early 17th century a Spaniard, Antonio de León Pinelo, kept a very similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in the 19th century in Nicaragua.[^10]  Depending on the location, the beverage can be called _chicha_, _massato_ (a non-alcoholic variant mixed with honey), _acca_, _kufa_ or _mushla_.[^11]  
+Accounts of native peoples in South America and Latin America producing fermented beverages also permeate the records kept by European travellers, missionaries and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman Jean de Léry who visited Brazil.[^9] In the early 17th century a Spaniard, [Antonio de León Pinelo](https://www.biodiversitylibrary.org/page/55670844), kept a very similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in the 19th century in Nicaragua.[^10]  Depending on the location, the beverage can be called _chicha_, _massato_ (a non-alcoholic variant mixed with honey), _acca_, _kufa_ or _mushla_.[^11]  
 <param ve-image
 title="Antonio de León Pinelo (1636)" url="https://www.biodiversitylibrary.org/pageimage/55670844" fit="cover"
        attribution="Biodiversity Heritage Library">
 
-One version of the alcoholic recipe, recorded by the Frenchman Jean de Léry in his History of a Voyage to the Land of Brazil, is as follows:
+One version of the alcoholic recipe, recorded by the Frenchman [Jean de Léry]((https://books.google.nl/books?id=rK1hAAAAcAAJ&dq=Histoire%20d'un%20voyage%20fait%20en%20la%20terre%20de%20Br%C3%A9sil&hl=nl&pg=PA132#v=thumbnail&q=aypi&f=false) in his History of a Voyage to the Land of Brazil, is as follows:
 <param ve-image
 title="Chicha Production, de Léry" url="https://github.com/JSTOR-Labs/plant-humanities/commit/4b4f3af8524e0a7c9c88edc41f3ec7febe505d66" fit="cover">
 
