@@ -32,7 +32,7 @@ title="Cassava roots" url="https://raw.githubusercontent.com/melindasusanto/demo
        attribution="Wikimedia Commons">
 
 ## Making Cassava Bread
-The method of preparing flour from cassava is typically described as follows. First, the cassava root is grated, then it is soaked in liquid. Thereafter, the pulp is hung in a pleated basket or put under pressure to remove the liquid. The final step involves heating the pulp upon a hot surface. Images of indigenous peoples preparing the cassava root or making bread would recur in European texts from the 16th century through to the 18th century.[^9]
+The method of preparing flour from cassava is typically described as follows. First, the cassava root is grated, then it is soaked in liquid. Thereafter, the pulp is hung in a pleated basket or put under pressure to remove the liquid. The final step involves heating the pulp upon a hot surface. Images of indigenous peoples preparing the cassava root or making bread would recur in European texts from the 16th century through to the [18th century](https://archive.org/details/cihm_42239/page/n361/mode/2up).[^9]
 <param ve-storiiies id="861e9">
 
 ## Fermented beverages
