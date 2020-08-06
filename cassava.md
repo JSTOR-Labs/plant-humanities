@@ -88,7 +88,10 @@ title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="ht
 In 1887, American botanist, geologist, and ethnologist [William Tufts Brigham](https://archive.org/search.php?query=%28%28subject%3A%22Brigham%2C+William+Tufts%22+OR+subject%3A%22Brigham%2C+William+T.%22+OR+subject%3A%22Brigham%2C+W.+T.%22+OR+subject%3A%22William+Tufts+Brigham%22+OR+subject%3A%22William+T.+Brigham%22+OR+subject%3A%22W.+T.+Brigham%22+OR+creator%3A%22William+Tufts+Brigham%22+OR+creator%3A%22William+T.+Brigham%22+OR+creator%3A%22W.+T.+Brigham%22+OR+creator%3A%22W.+Tufts+Brigham%22+OR+creator%3A%22Brigham%2C+William+Tufts%22+OR+creator%3A%22Brigham%2C+William+T.%22+OR+creator%3A%22Brigham%2C+W.+T.%22+OR+creator%3A%22Brigham%2C+W.+Tufts%22+OR+title%3A%22William+Tufts+Brigham%22+OR+title%3A%22William+T.+Brigham%22+OR+title%3A%22W.+T.+Brigham%22+OR+description%3A%22William+Tufts+Brigham%22+OR+description%3A%22William+T.+Brigham%22+OR+description%3A%22W.+T.+Brigham%22+OR+description%3A%22Brigham%2C+William+Tufts%22+OR+description%3A%22Brigham%2C+William+T.%22%29+OR+%28%221841-1926%22+AND+Brigham%29%29+AND+%28-mediatype%3Asoftware%29&page=2])  published _Guatemala, The Land of the Quetzal_, in which he reported observations from his time in the book’s eponymous region.[^24] While visiting the town of Livingston, he describes being invited into people’s homes and witnessing the process of making cassava bread. He first notes the size of the cassava roots (twenty or thirty pounds) and their poisonous juice, before explaining how the bread is made. The instructions for Livingston Cassava Bread shows that the method of making cassava bread retains elements similar to those described in earlier European texts.
 
 Instructions for Livingston Cassava Bread:[^25]
-
+<param ve-image
+title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Guatemala.jpg"
+       fit="cover"
+       attribution="Wikimedia Commons">
 1. Using a mahogany board with inserted quartz crystal, grate the cassava root into a coarse meal.
 
 2. Wash the meal carefully and partly remove the starch, which will settle in the water as tapioca.
@@ -100,7 +103,10 @@ Instructions for Livingston Cassava Bread:[^25]
 5. Dry and bake the loaves. 
 
 The result, Brigham reports, is a “wholesome and very nutritious bread, which keeps a long time and is capital on an excursion.”[^26] Brigham notes that cassava bread also makes for:
-
+<param ve-image
+title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Guatemala.jpg"
+       fit="cover"
+       attribution="Wikimedia Commons">
 * “Excellent puddings”[^27] 
 
 * A better accompaniment for soup than crackers
