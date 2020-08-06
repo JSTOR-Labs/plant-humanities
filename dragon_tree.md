@@ -13,7 +13,6 @@
 
 <param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 
-![](images/header option 5 - FINAL.jpg)
 As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the Dragon’s Blood they just ingested is truly as noxious as its name suggests. Though the epithet “Dragon’s Blood” brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this “blood” is in fact the resin of a very real tree. _Dracaena draco_, the centenary tree with a thick trunk and a distinctive, umbrella-style crown, captured the imaginations of great minds across the ages, from Antiquity’s Pliny the Elder (d. 79 AD)  to the Enlightenment’s Alexander von Humboldt (1769-1859). Unlike Pliny, however, Humboldt was not the lone scholar of his age enthralled by the epic allure of the dragon tree, as other European naturalists like André Pierre Ledru (1761-1825) also flocked to _D. draco_’s native Canary Islands to study it around the turn of the nineteenth century. Soon after their initial encounters with Dragon’s Blood, they all may have realized that this strange sap occupied a liminal space between myth, legend, and scientific botany. 
 <param title="Dragon's Blood" eid="Q421877" aliases="Dragon">
 <param title="Dracaena draco" eid="Q157952">
@@ -53,10 +52,7 @@ The Guanches used Dragon’s Blood for a variety of purposes ranging from embalm
 <param title="Orotava" eid="Q177566" aliases="Orotava">
 <param primary ve-storiiies id="751f7">
 
-## Dragon’s Blood: from Herbals to Enlightenment Science
-
-![](SubSec 2 - Enlightenment.jpg)
-
+![](images/SubSec 2 - Enlightenment.jpg)
 After decades of violent attacks against the Guanches, Spanish conquistadors finally vanquished the last of the Canary Islands in 1496. The Guanche language soon disappeared, with the exception of their distinct whistling language, known as Silbo Gomero <param ve-audio url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/media/Silbo%20(online-audio-converter.com).mp3">. Due to the traditional Western preference for written records rather than oral histories, much of what we now know of pre-Columbian culture on the Canaries comes from European colonial interlocutors. After this initial period of European colonization, however, interest in the Canaries blossomed, as the Atlantic islands (comprised of the Canary Islands, as well as the Portuguese Azores and Madeira) quickly became  natural stopping points for travelers of all stripes on their way to the New World as well as Africa. It was during this period of integration of the Canaries into the burgeoning European sphere of influence, then, that _D. draco_ emerged on the stage of European gardens.
 <param title="Silbo Gomero" eid="Q415" aliases="Silbo Gomero">
 <param title="Azores" eid="Q4058447">
@@ -80,8 +76,7 @@ In 1799, as he stopped in Tenerife before his voyage to the Americas that would 
 <param url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/Dracaena:Humboldt.jpg" ve-image region="pct:8,5,145,140" fit="contain" title="'Le dragonier de l'Orotava', as depicted in Humboldt's _Vue des cordillères et monumens des peuples indigènes de l'Amerique_ (1810)">
 <param ve-image url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/DON%20JUAN%20FRANCISCO%20DE%20FRANCHI%20ALFARO.jpg" title="_Jardines y casa de Franchy_, engraving by Simón Cattoir y C. de Freudenberg (ca. 1770)" region="pct:8,5,150,145">
 
-![](SubSec 3 - Flame.jpg)
-
+![](images/SubSec 3 - Flame.jpg)
 Humboldt was not the only naturalist of his time attracted to the remarkable centenary dragon tree, as some three years before, in 1796, French naturalist André Pierre Ledru also found himself in M. Franchy’s garden, admiring the very same tree. Even if its scarlet-colored resin was a critical aspect of the Guanche pharmacopoeia and a valuable piece of naturalia that spurred the Canarian economy, the population of trees from which it was sourced was already in decline by the turn of the nineteenth century due to unsustainable cultivation techniques. This environmental degradation has only increased in intensity in the last two centuries with the intensification of human-driven ecological change, known as the Anthropocene.
 <param title="Anthropocene" eid="Q26841">
 <param ve-image static url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/IMG_2561.jpg" ve-image title="A Dracaena draco on a mountainside overlooking a twenty-first century industrial agriculture compound near Cenbio de Valerón, Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019.">
