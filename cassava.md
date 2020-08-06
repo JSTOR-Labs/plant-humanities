@@ -92,6 +92,7 @@ Instructions for Livingston Cassava Bread:
 title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Guatemala.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
+       
 1. Using a mahogany board with inserted quartz crystal, grate the cassava root into a coarse meal.
 
 2. Wash the meal carefully and partly remove the starch, which will settle in the water as tapioca.
