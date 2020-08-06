@@ -58,6 +58,11 @@ title="Maria Sybilla Merian, 17th century" url="https://ids.lib.harvard.edu/ids/
        fit="cover"
        attribution="Dumbarton Oaks">
 
+## From Tradition to Innovation…
+When they first encountered cassava, Europeans relied upon indigenous knowledge from Amerindians to learn how to prepare cassava for consumption. This knowledge travelled as the plant was first transplanted across the Atlantic to Africa.[^19] African women knew that the cassava root was poisonous, but they learnt to prepare its leaves instead.[^20] They discovered that young cassava leaves could be safely consumed after being boiled.
+<param ve-map center="Q1033" zoom="3">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
+
 The increasingly global spread of cassava took place alongside the forced movements of slave labour, leading to diasporic communities which brought along their uses of cassava. One such dish is _fufu_, an African dish made with a carbohydrate base, either cassava or plantains, and usually served with greens.[^17] This dish is known as _angú_ in Brazil, _mangú_ in the Dominican Republic, _mofongo_ in Puerto Rico, and _fufu de plátanos_ in Cuba.[^18] Today, _fufu_ is still a staple dish in parts of Africa. 
 <param ve-map center="Q739" zoom="3">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" fill="#92086D" marker-symbol="landmark" active>
@@ -65,11 +70,6 @@ The increasingly global spread of cassava took place alongside the forced moveme
 <param title="Cuba" eid="Q241">
 <param title="Dominican Republic" eid="Q786">
 <param title="Puerto Rico" eid="Q1183">
-
-## Innovation…
-When they first encountered cassava, Europeans relied upon indigenous knowledge from Amerindians to learn how to prepare cassava for consumption. This knowledge travelled as the plant was first transplanted across the Atlantic to Africa.[^19] African women knew that the cassava root was poisonous, but they learnt to prepare its leaves instead.[^20] They discovered that young cassava leaves could be safely consumed after being boiled.
-<param ve-map center="Q1033" zoom="3">
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
 
 ## …and Experimentation
 Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic compounds which are toxic to humans.[^21] The more bitter the cassava is, the higher the concentration of hydrocyanic compounds. Today, both varieties exist for the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists thought they were two different species. A [1906 article on cyanogenesis](https://www.biodiversitylibrary.org/page/43363072) outlines various experiments which had been conducted on the cassava root to determine its composition.[^22] The article’s authors were still in favour of Pohl’s identification of bitter cassava as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. 
