@@ -9,20 +9,20 @@
        author="Christina Emery, Rachel Hirsch, and Melinda Susanto">
 
 ## Introduction 
-The native distribution of cassava spans from western South American to Brazil.[^1] Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots around 8,000 B.C.E.[^2] From there, domesticated _Manihot esculenta_ spread through short-distance trade of seeds or stem cuttings from the plant, rather than by transporting the perishable roots.[^3] With a preference for warm and hot climes, today cassava can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean.[^4]
+The native distribution of cassava spans from western South America to Brazil.[^1] Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots around 8,000 B.C.E.[^2] From there, domesticated (_Manihot esculenta_)[https://www.wikidata.org/wiki/Q83124] spread through short-distance trade of seeds or stem cuttings from the plant.[^3] Although cassava roots are the most commonly eaten part of the plant, they are perishable and less likely to survive long-distance travel. Because cassava prefers warm and hot climates, today it can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean.[^4] In our map of cassava distribution, the plant’s native regions are marked in green and regions to which cassava was introduced by humans are marked in purple.
 <param title="Manihot esculenta" eid="Q83124">
 <param ve-map center="Q974" zoom="2">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" marker-symbol="landmark" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/rphirsch/cassava/master/styleafrica.json" title="Africa" fill="#92086D" marker-symbol="landmark" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/melindasusanto/demo1/master/AsiaPacific.json" title="SE Asia" marker-symbol="landmark" active>
 
-## A plant valued by ancient civilizations
+## The Ancient Value of Cassava
 In Peru, there is evidence from ancient textiles, pottery and archaeobotanical findings that the Moche (250-750 C.E.), Nazca (200 B.C.E.-600 C.E.)  and Chimú (1000-1470 C.E.) cultures all used and valued cassava.[^5]
 <param ve-map center="Q419" zoom="6">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/cassava_americas.json" title="Americas" marker-symbol="landmark" active>
 <param title="Peru" eid="Q419">
  
-To the right is an earthenware ceramic dating between the 5th and 7th centuries A.D. produced by the [Moche people](https://www.peabody.harvard.edu/node/2505) (1st-8th c. A.D.) in the northern Peruvian coast.[^6] The mouth is in the shape of [a stirrup-spout](https://www.metmuseum.org/toah/hd/moch/hd_moch.htm), to the front is a human-like head and neck, and the overall form of the legs and body is that of cassava roots. This [work of art](https://www.metmuseum.org/art/collection/search/308558) carries significant insight into just how highly the Moche valued cassava. Bottles with the stirrup-spout opening are thought to have been used in a non-utilitarian way, such as effigy, ritual or decorative as it is hard to practically use vessels with this type of opening.[^7] The iconography evident in the anthropomorphic aspect of this vessel indicate that it is of a high ranking deity. The fangs curling out of the mouth indicate godly status, and the half-crescent headdress implies a high status.[^8] All of these details, accompanied by the fact that the body, tail and limbs of this figure are all modeled after cassava tubers, leads to the conclusion that cassava had a high status and was very important to daily life in Moche civilization.
+To the right is an earthenware ceramic dating between the 5th and 7th centuries C.E. produced by the [Moche people](https://www.peabody.harvard.edu/node/2505) (1st-8th c. C.E.) on the northern Peruvian coast.[^6] The mouth has [a stirrup-spout](https://www.metmuseum.org/toah/hd/moch/hd_moch.htm) form and protruding from the ceramic’s front is a human-like head and neck.The form of the vessel’s legs and body resembles cassava tubers. This [work of art](https://www.metmuseum.org/art/collection/search/308558) carries significant insight into just how highly the Moche valued cassava. Bottles with the stirrup-spout opening are thought to have been used in a non-utilitarian way. It is likely that they had effigy, ritual or decorative purposes as it is hard to use vessels for practical purposes with this type of opening.[^7] The iconography evident in the anthropomorphic aspect of this vessel indicates that it is of a high ranking deity. The fangs curling out of the mouth indicate godly status, and the half-crescent headdress implies a high rank.[^8] All of these details, accompanied by the fact that the body, tail and limbs of this figure are all modeled after cassava tubers, leads to the conclusion that cassava had a high status and was important to daily life in Moche civilization.
 <param ve-storiiies id="a11gl" title="Moche Stirrup-Spout Bottle, Cassava">
 
 ## Indigenous Food Uses
@@ -87,7 +87,7 @@ title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="ht
        attribution="Wikimedia Commons">
 In 1887, American botanist, geologist, and ethnologist [William Tufts Brigham](https://archive.org/search.php?query=%28%28subject%3A%22Brigham%2C+William+Tufts%22+OR+subject%3A%22Brigham%2C+William+T.%22+OR+subject%3A%22Brigham%2C+W.+T.%22+OR+subject%3A%22William+Tufts+Brigham%22+OR+subject%3A%22William+T.+Brigham%22+OR+subject%3A%22W.+T.+Brigham%22+OR+creator%3A%22William+Tufts+Brigham%22+OR+creator%3A%22William+T.+Brigham%22+OR+creator%3A%22W.+T.+Brigham%22+OR+creator%3A%22W.+Tufts+Brigham%22+OR+creator%3A%22Brigham%2C+William+Tufts%22+OR+creator%3A%22Brigham%2C+William+T.%22+OR+creator%3A%22Brigham%2C+W.+T.%22+OR+creator%3A%22Brigham%2C+W.+Tufts%22+OR+title%3A%22William+Tufts+Brigham%22+OR+title%3A%22William+T.+Brigham%22+OR+title%3A%22W.+T.+Brigham%22+OR+description%3A%22William+Tufts+Brigham%22+OR+description%3A%22William+T.+Brigham%22+OR+description%3A%22W.+T.+Brigham%22+OR+description%3A%22Brigham%2C+William+Tufts%22+OR+description%3A%22Brigham%2C+William+T.%22%29+OR+%28%221841-1926%22+AND+Brigham%29%29+AND+%28-mediatype%3Asoftware%29&page=2])  published _Guatemala, The Land of the Quetzal_, in which he reported observations from his time in the book’s eponymous region.[^25] While visiting the town of Livingston, he describes being invited into people’s homes and witnessing the process of making cassava bread. He first notes the size of the cassava roots (twenty or thirty pounds) and their poisonous juice, before explaining how the bread is made. The instructions for Livingston Cassava Bread shows that the method of making cassava bread retains elements similar to those described in earlier European texts.
 
-Instructions for Livingston Cassava Bread:[^26]
+Instructions for Livingston Cassava Bread:
 <param ve-image
 title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Guatemala.jpg"
        fit="cover"
@@ -102,20 +102,20 @@ title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="ht
 
 5. Dry and bake the loaves. 
 
-The result, Brigham reports, is a “wholesome and very nutritious bread, which keeps a long time and is capital on an excursion.”[^27] Brigham notes that cassava bread also makes for:
+The result, Brigham reports, is a “wholesome and very nutritious bread, which keeps a long time and is capital on an excursion.”[^26] Brigham notes that cassava bread also makes for:
 <param ve-image
 title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Guatemala.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
-* “Excellent puddings”[^28] 
+* “Excellent puddings”[^27] 
 
 * A better accompaniment for soup than crackers
 
 * An indispensable snack in the woods
 
-* “A capital diet in dyspepsia”[^29]
+* “A capital diet in dyspepsia”[^28]
 
-* A palatable food for sea-sickness that “serves to fill out the bony outlines of an emaciated human frame better than anything else.”[^30]
+* A palatable food for sea-sickness that “serves to fill out the bony outlines of an emaciated human frame better than anything else.”[^29]
 
  <param ve-map center="Q3757" zoom="3" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/melindasusanto/demo1/master/AsiaPacific.json" title="SE Asia" fill="#92086D" marker-symbol="landmark" active>
@@ -163,10 +163,10 @@ Today, cassava is still grown in Java, and in other regions around the globe. Th
 [^15]: Kaori O’Connor, “Beyond ‘Exotic Groceries’: Tapioca/Cassava/Manioc, a Hidden Commodity of Empires and Globalisation,” in _Global Histories, Imperial Commodities, Local Interactions,_ ed. Jonathan Curry-Machado (Hampshire and New York: Palgrave Macmillan, 2013), 227. https://doi.org/10.1057/9781137283603_12
 [^16]: Maria Sibylla Merian, _Metamorphosis insectorum Surinamensium_ (Amstelaedami : Joannem Oosterwyk, 1719), 4. https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16
 [^17]: Ibid, 5.
-[^18]: Judith Ann Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery_, (Berkeley and Los Angeles: University of California Press, 2009), 180.
-[^19]: Ibid.
-[^20]: Ibid, 54.
-[^21]: Ibid, 178.
+[^18]: Judith Ann Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery_, (Berkeley and Los Angeles: University of California Press, 2009), 54.
+[^19]: Ibid, 178
+[^20]: Ibid, 180.
+[^21]: Ibid.
 [^22]: A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” _Food Security_ 9, (2017): 914. doi: 10.1007/s12571-017-0717-8
 [^23]: Wyndham R. Dunstan, T. A. Henry, and S. J. M. Auld, “Cyanogenesis in Plants: Part V – The Occurrence of Phaseolunatin in Cassava (Manihot Aipi and Manihot utilissima)” _Proceedings of the Royal Society of London_ (1906): 152-158. https://www.biodiversitylibrary.org/page/43363072
 [^24]: Antoine-François de Fourcroy and Jean-Michel Papillon, _Élémens d’histoire naturelle et de chemie_ (Paris: Chez Cuchet, 1786), 106. https://www.biodiversitylibrary.org/page/57980618
