@@ -41,11 +41,11 @@ Accounts of native peoples in South America and Latin America producing fermente
 title="Antonio de León Pinelo (1636)" url="https://www.biodiversitylibrary.org/pageimage/55670844" fit="cover"
        attribution="Biodiversity Heritage Library">
 
-One version of the alcoholic recipe, recorded by the Frenchman Jean de Léry in his History of a Voyage to the Land of Brazil, is as follows:
+One version of the alcoholic recipe, recorded by the Frenchman Jean de Léry in his _History of a Voyage to the Land of Brazil_, is as follows:
 <param ve-image
 title="Chicha Production, de Léry" url="https://github.com/JSTOR-Labs/plant-humanities/commit/4b4f3af8524e0a7c9c88edc41f3ec7febe505d66" fit="cover">
 
-The preparation process for chicha uses several tools.  The basic process is that cassava is either turned into flour or cut into pieces, then boiled, chewed and combined with saliva in the mouth for some time, then boiled again in a different vessel, then it is left to ferment for several days until it is ready for consumption.[^13] To the right are modern tools used to create chicha in Argentina.[^14] This shows that even today people continue to follow the traditional methods established by their ancestors to create fermented cassava beverages.
+The preparation process for _chicha_ uses several tools.  The basic process is that cassava is either turned into flour or cut into pieces, then boiled, chewed and combined with saliva in the mouth for some time, then boiled again in a different vessel, then it is left to ferment for several days until it is ready for consumption.[^13] To the right are modern tools used to create _chicha_ in Argentina.[^14] This shows that even today people continue to follow the traditional methods established by their ancestors to create fermented cassava beverages.
 <param ve-image
 title="Pots" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Pots.jpg"
        fit="cover"
