@@ -5,7 +5,7 @@
        num-maps="1"
        num-specimens="1"
        num-images="17"
-       num-primary-sources="7"
+       num-primary-sources="16"
        author="Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian">
 
 <param title="Dracaena Draco" eid="Q579524">
