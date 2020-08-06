@@ -4,7 +4,7 @@
        layout="vtl"
        num-maps="1"
        num-specimens="1"
-       num-images="16"
+       num-images="17"
        num-primary-sources="7"
        author="Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian">
 
