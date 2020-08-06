@@ -40,7 +40,7 @@ Accounts of native peoples in South America and Latin America producing fermente
 title="Antonio de León Pinelo (1636)" url="https://www.biodiversitylibrary.org/pageimage/55670844" fit="cover"
        attribution="Biodiversity Heritage Library">
 
-One version of the alcoholic recipe, recorded by the Frenchman [Jean de Léry]((https://books.google.nl/books?id=rK1hAAAAcAAJ&dq=Histoire%20d'un%20voyage%20fait%20en%20la%20terre%20de%20Br%C3%A9sil&hl=nl&pg=PA132#v=thumbnail&q=aypi&f=false) in his History of a Voyage to the Land of Brazil, is as follows:
+One version of the alcoholic recipe, recorded by the Frenchman Jean de Léry in his History of a Voyage to the Land of Brazil, is as follows:
 <param ve-image
 title="Chicha Production, de Léry" url="https://github.com/JSTOR-Labs/plant-humanities/commit/4b4f3af8524e0a7c9c88edc41f3ec7febe505d66" fit="cover">
 
