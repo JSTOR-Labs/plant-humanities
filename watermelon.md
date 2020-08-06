@@ -63,9 +63,9 @@ title="Round cucurbits, possibly watermelons, found in different Roman and Byzan
 
 In the arid savanna regions of Africa, watermelons were welcomed as sources of water, the flesh generally being cooked or beaten to a pulp to extract the water. In southern Africa’s Kalahari Desert, for example, the multiple uses of the flesh, rind, and seeds in their fresh, cooked, and dried forms helped some groups to remain sedentary and hydrated throughout the wet and dry seasons.[^ref7] As they became domesticated, watermelons were bred to yield softer and sweeter flesh, excluding traits like the mucilaginous egusi seeds or the hard, bitter flesh of the citron melon, although western and southern African cuisines still make use of these elements today.[^ref8] 
 <param ve-image
-title="Kalahari watermelon" url="https://i.dailymail.co.uk/i/pix/2017/06/29/17/41E171B300000578-4651642-image-a-2_1498752676467.jpg"
+title="Kalahari watermelon" url="https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F69718619%2Foriginal.jpg%3F1588016254"
        fit="contain"
-       attribution="Daily Mail">
+       attribution="GBIF">
 
     
 ### Seeing Red...Eventually
@@ -75,13 +75,12 @@ Watermelon-like fruit were referenced in ancient texts using a variety of terms 
 title="Cucurbits on the Juliana Anicia Codex known as Vienna Dioscorides. Number C is Citrullus colocynthis, the bitter watermelon, the close relative to watermelon used as laxative and diuretic." url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/100/7/10.1093/aob/mcm242/2/mcm24201.jpeg?Expires=1599152059&Signature=uPLyghEFxoPNUp8Bl7c-mT7iQ1W~Vy~voNczo6PqfdEMJ5AVzGOp6XpmFbAm7wrO3f4l0fF-941C9t-471o-otlXzw7OQvxAiN-Axh-DI2Rhvk5ldA4AdSV0hZG-d7il~xO7xeBxDm6hcfWM~uDu9uF5-c-hezzb6CAAxi2RqijxttXO6TSyOSlwUPnWUL7YJTl5y9S7cwulGYA9Wo23ukLP9sy1L0Q~O78iXt1TpCVwvPGgJDbkgwLvuAuqHsxAAQvP3HYnZyfwAPuLFB1sU52SHuNrhBIi0xbSGgj54Nmpcwvz6qvSpPPmPm8toDKk1rdAFSLiNikq1xL8ZHqD~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
        fit="contain"
        attribution="Annals of Botany">
-<param ve-plant-specimen jeid="10.5555/al.ap.specimen.e00303054">
 
 By the ninth and twelfth centuries CE respectively, watermelons had arrived in India and China via regional routes.[^ref11] The watermelon and its sinewy vines soon became a decorative icon, with associations of vitality and playfulness that persist today. In fourteenth-century Japanese Buddhist representations of arhats (those reaching nirvana in Buddhist tradition), watermelons appear in spiritual terms as a religious offering. Early Korean paintings from the Joseon Dynasty by the female artist Shin Saimdang (1504–1551) also [depicted](https://www.museum.go.kr/site/eng/relic/represent/view?relicId=2061) watermelons, symbolically alongside flowers, butterflies and mice.[^ref12] The arching vines of the watermelon plant and seeds exposed by the mice symbolized wishes for healthy and abundant children, echoed in the nearby dianthus flower which represented a wish for “no white hairs,” or lasting youth. Another one of Shin’s depictions of watermelons appears on the 5000 won banknote today, as a reminder of Shin’s dedication to art, family, civic virtue and gender equality.[^ref13]
 <param ve-map time-selector="1000 BCE:1400" basemap="Esri_WorldPhysical" center="38.9637, 35.2433" zoom="3">
 <param ve-map-layer geojson active url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" title="Distribution"> 
 <param ve-image
-title="Satsubari, the Second of the Sixteen Arhats. Japan. Early 14th century." url="https://images.metmuseum.org/CRDImages/as/original/DP-12232-006.jpg"
+title="'Satsubari, the Second of the Sixteen Arhats.' Japan. Early 14th century." url="https://images.metmuseum.org/CRDImages/as/original/DP-12232-006.jpg"
        fit="contain"
        attribution="The Metropolitan Museum of Art">
 <param ve-image
@@ -113,11 +112,11 @@ title="Citrull cocumber in Gerard's Herball" url="https://www.archive.org/downlo
 
 In the seventeenth to nineteenth centuries, the watermelon became a common minor crop in European gardens and began to appear frequently in European and American still lifes, providing a diverse visual archive of watermelon varieties. The seventeenth century watermelons of Albert Eckhout and Giovanni Stanchi, for example, exhibit whorls of red flesh amongst white rind and give us a sense of how much the watermelon has changed even in the last few hundred years. The inclusion of watermelons in still lifes also provides an insight into the multitude of cultural values associated with the fruit at the time. Whilst American still lifes, such as those of the prolific Peale family in the early nineteenth century, placed the melon amidst almost nauseating abundance and plenty, European artists would often [cut through that fantasy](https://www.flickr.com/photos/104901827@N06/46017346544) quite literally with the abrupt imposition of a knife as a harsh reminder of the fleeting nature of life.
 <param ve-image
-title="'Pineapple, watermelons and other fruits (Brazilian fruits),' Albert Eckhout (1610–1666)" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
+title="'Pineapple, watermelons and other fruits (Brazilian fruits)' by Albert Eckhout (1610–1666)" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
        fit="contain"
        attribution="Wikimedia Commons">
 <param ve-image
-title="'Watermelons, peaches, pears and other fruit in a landscape,' Giovanni Stanchi (1608–1675)" url="https://upload.wikimedia.org/wikipedia/commons/0/00/Giovanni_Stanchi%2C_Watermelons%2C_Peaches%2C_Pears%2C_and_Other_Fruit_in_a_Landscape.jpg"
+title="'Watermelons, peaches, pears and other fruit in a landscape' by Giovanni Stanchi (1608–1675)" url="https://upload.wikimedia.org/wikipedia/commons/0/00/Giovanni_Stanchi%2C_Watermelons%2C_Peaches%2C_Pears%2C_and_Other_Fruit_in_a_Landscape.jpg"
        fit="contain"
        attribution="Wikimedia Commons">
 <param ve-image
@@ -131,7 +130,7 @@ title="'Melon d'Eau,' Metamorphosis, Maria Sybilla Merian (1719)" url="https://i
        fit="contain"
        attribution="Dumbarton Oaks">
 <param ve-image
-title="Watercolours  of fruits from Asia, early 19th century. South East Asia. Dumbarton Oaks collection." url="https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/013717125-album-pl-0015.jpg/@@images/image/zoom"
+title="Watercolours of fruits from Asia, early 19th century. South East Asia. Dumbarton Oaks collection." url="https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/013717125-album-pl-0015.jpg/@@images/image/zoom"
        fit="contain"
        attribution="Dumbarton Oaks">
 
@@ -173,11 +172,11 @@ The racist belief in the unhealthy habits of African-Americans also featured in 
 <param ve-image
 title="Cholera Intelligence" url="images/054de03b-d835-43ba-a445-3f0e1024551e.jpeg"
     fit="contain"
-    attribution="The National Intelligencer">
+    attribution="The National Intelligencer. 1832">
 <param ve-image
 title="Carried the cholera" url="images/watermelon-poem.jpeg"
     fit="contain"
-    attribution="The Macon Telegraph">
+    attribution="The Macon Telegraph. 1884">
 
 In Korea at the turn of the twentieth century, for instance, British mine-owners [banned watermelons]( http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html) from the camps of their workers in order to prevent outbreaks of cholera. The logic behind this seemed to lay in the “immense quantities” of watermelons consumed by Korean workers, including the “rind” (probably the white pith, thought good for indigestion), again suggesting a continuity between a racialized critique of excess indulgence and the moralizing of disease. The campaign turned out to be successful, although whether or not that was due to the lack of watermelons is unclear.[^ref19] Similarly, posters such as that shown here from the USSR in 1921 used watermelons to illustrate how various acts of poor hygiene could lead to cholera, from drinking unboiled water to eating unwashed fruit.
 <param ve-storiiies id="831fg">
