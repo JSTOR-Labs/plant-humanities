@@ -101,7 +101,7 @@ Despite its long history of being known by a “false identity,” then, we can 
 <param ve-storiiies id="fc1gp"> 
 
 ### Morphological differentiations
-The *Pelargonium* is a perennial bush, with a strong and aromatic smell. There are approximately 300 species of *Pelargonium*, originating from Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. The particular morphology of the plant actually lends the genus its name; *Pelargonium* comes from the Greek word *pelargos* (“stork”) which alludes to the long, almost beak-shaped fruit. 
+The *Pelargonium* is a perennial bush, with a strong and aromatic smell. There are approximately 300 species of *Pelargonium*, originating from Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. The particular morphology of the plant actually lends the genus its name; *Pelargonium* comes from the Greek word *pelargos* (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”) which alludes to the long, almost beak-shaped fruit. 
 <param ve-image 
 title="Pelargonium alchemilloides (L.) L'Hér." url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center">
 
