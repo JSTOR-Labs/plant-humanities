@@ -42,7 +42,7 @@ title="Antonio de León Pinelo (1636)" url="https://www.biodiversitylibrary.org/
 
 One version of the alcoholic recipe, recorded by the Frenchman Jean de Léry in his History of a Voyage to the Land of Brazil, is as follows:
 <param ve-image
-title="Chicha Production, de Léry" url="![jean de lery](https://user-images.githubusercontent.com/68235467/89489472-9a1f2080-d778-11ea-99e4-2f931e8b2321.JPG)">
+title="Chicha Production, de Léry" url="![jean de lery](https://user-images.githubusercontent.com/68235467/89489472-9a1f2080-d778-11ea-99e4-2f931e8b2321.JPG)" fit="cover">
 
 The preparation process for chicha uses several tools.  The basic process is that cassava is either turned into flour or cut into pieces, then boiled, chewed and combined with saliva in the mouth for some time, then boiled again in a different vessel, then it is left to ferment for several days until it is ready for consumption.[^12] To the right are modern tools used to create chicha in Argentina.[^13] This shows that even today people continue to follow the traditional methods established by their ancestors to create fermented cassava beverages.
 <param ve-image
