@@ -86,7 +86,7 @@ title="'Satsubari, the Second of the Sixteen Arhats.' Japan. Early 14th century.
 <param ve-image
 title="'Plants and insects' by Shin Saimdang" url="https://ids.lib.harvard.edu/ids/view/18731783?width=3000&height=3000"
        fit="contain"
-       attribution="The President and Fellows of Harvard College">
+       attribution="Harvard Art Museums">
 <param ve-image
 title="5000 Won Banknote, Bank of Korea" url="https://upload.wikimedia.org/wikipedia/commons/d/d7/5000_won_serieV_reverse.jpeg"
        fit="fit"
