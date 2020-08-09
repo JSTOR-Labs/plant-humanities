@@ -124,9 +124,9 @@ title="'Still life with watermelons' by Sarah Miriam Peale (1800–1855)" url="h
        fit="contain"
        attribution="Wikimedia Commons">
 
-Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/online-exhibits/maria-sibylla-merian/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium) and the nineteenth-century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier depictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth-century America. 
+Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/online-exhibits/maria-sibylla-merian/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium) and the nineteenth-century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier dSepictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth-century America. 
 <param ve-image
-title="'Melon d'Eau,' Metamorphosis, Maria Sybilla Merian (1719)" url="https://ids.lib.harvard.edu/ids/iiif/481769576/full/full/0/default.jpg"
+title="'Melon d'Eau,' Metamorphosis, Maria Sybilla Merian (1719)" url=" "
        fit="contain"
        attribution="Dumbarton Oaks">
 <param ve-image
@@ -140,7 +140,7 @@ Watermelons were brought to the Americas in the sixteenth century, introduced by
 <param ve-map time-selector="1400:2000" basemap="Esri_WorldPhysical" center="27.6648, -81.5158" zoom="">
 <param ve-map-layer geojson active url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/geojson/watermelon_distribution.json" title="Distribution"> 
 <param ve-image
-title="African-American dancing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
+title="African-Americans dancing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
        fit="contain"
        attribution="Wikimedia commons">
        
