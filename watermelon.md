@@ -154,7 +154,7 @@ title="“No negro who has any pride of race or respect for himself would hesita
        fit="contain"
        attribution="National Museum of African American History & Culture">
 <param ve-image
-title="“Whether chickens or watermelons exercise the stronger fascination upon the colored mind is an uncertain question … it must be remembered that there is far more difficulty in entering a locked chicken-house than there is in climbing the fence of the melon-patch.” (The New York Times, 1882" url="https://cdn.loc.gov/service/pnp/cph/3b40000/3b48000/3b48900/3b48980r.jpg"
+title="“Whether chickens or watermelons exercise the stronger fascination upon the colored mind is an uncertain question … it must be remembered that there is far more difficulty in entering a locked chicken-house than there is in climbing the fence of the melon-patch.” (The New York Times, 1882)" url="https://cdn.loc.gov/service/pnp/cph/3b40000/3b48000/3b48900/3b48980r.jpg"
        fit="contain"
        attribution="Library of Congress">
 <param ve-image
