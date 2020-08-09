@@ -172,11 +172,11 @@ The racist belief in the unhealthy habits of African-Americans also featured in 
 <param ve-image
 title="Cholera Intelligence" url="images/054de03b-d835-43ba-a445-3f0e1024551e.jpeg"
     fit="contain"
-    attribution="The National Intelligencer. 1832">
+    attribution="The National Intelligencer. 1832, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
 <param ve-image
 title="Carried the cholera" url="images/watermelon-poem.jpeg"
     fit="contain"
-    attribution="The Macon Telegraph. 1884">
+    attribution="The Macon Telegraph. 1884, The Milwaukee Daily Sentinel, Aug. 19, p. 4, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
 
 In Korea at the turn of the twentieth century, for instance, British mine-owners [banned watermelons]( http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html) from the camps of their workers in order to prevent outbreaks of cholera. The logic behind this seemed to lay in the “immense quantities” of watermelons consumed by Korean workers, including the “rind” (probably the white pith, thought good for indigestion), again suggesting a continuity between a racialized critique of excess indulgence and the moralizing of disease. The campaign turned out to be successful, although whether or not that was due to the lack of watermelons is unclear.[^ref19] Similarly, posters such as that shown here from the USSR in 1921 used watermelons to illustrate how various acts of poor hygiene could lead to cholera, from drinking unboiled water to eating unwashed fruit.
 <param ve-storiiies id="831fg">
