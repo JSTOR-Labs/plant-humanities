@@ -11,9 +11,8 @@
 
 <param title="Dumbarton Oaks" eid="Q1264942">
 <param title="Industrial Revolution" eid="Q2269">
-<param title="Species Plantarum" eid="Q849308">
-<param title="Pelargonium graveolens" eid="Q164306" aliases="P. graveolens">
-<param title="Pelargonium inquinans" eid="Q18083598" aliases="scarlet geranium">
+<param title="Species Plantarum" eid="Q84930<param title="Pelargonium graveolens" eid="Q164306" aliases="P. graveolens">
+<param title="Pelargoniu598" aliases="scarlet geranium">
 
 ## What's in a name?
 There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium.[^datg] With their vibrant red flowers and sweet, rosy scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color”[^mfsirh] at his country home, Gad’s Hill Place. Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of them was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums”[^mfsirh]. 
@@ -25,7 +24,7 @@ title="Scarlet geranium (acturally _Pelargonium inquinans_ as its botanical name
 fit="cover" attribution="Wikimemdia Commons">
 
 However, you might be surprised to learn that the scarlet geranium with which Dickens was so enamoured was not actually a *Geranium*. **In fact, it was a *Pelargonium* - *Pelargonium inquinans*, to be exact.** These two genera, similar but not exactly the same in terms of their morphology, have been embroiled in a long history of taxonomic confusion. In his famous [*Species Plantarum*](https://www.biodiversitylibrary.org/bibliography/669#/summary) published in 1735, Carl Linnaeus mistakenly grouped *Pelargoniums* and *Geraniums* together into one genus, and that misgrouping ended up persisting for centuries - even after subsequent naturalists had proven that they were, in reality, two different genera. The public simply grew accustomed to using the name *Geranium* for both types of plant, and for the most part, we continue to use it in this way today.
-<param title="Carl Linnaeus" eid="Q1043">
+l Linnaeus" eid="Q1043">
 <param ve-image 
 title="Illustrations of _Pelargonium odoratissimum_ and _Pelargonium inquinans_" url="https://www.biodiversitylibrary.org/pageimage/53144785" 
 region="pct:55,40,20,20" attribution="Biodiversity Heritage Library">
@@ -37,14 +36,14 @@ title="Geraniums, Tulips, Groundsel, Cresses." url="https://ids.lib.harvard.edu/
 region="pct:20,28,50,50" attribution="Giraud, Jane Elizabeth, approximately 1820-approximately 1919, artist. The fête of the flowers. 1860. RARE J-3-2. Dumbarton Oaks Research Library, Washington, D.C.">
 
 
-## Global industrial production of Pelargonium oils
+## Global industrial production of elaronium oils
 *Pelargoniums* play a significant role in the essential oil extraction industry, which provides the base material for the production of pharmaceuticals, cosmetics, and perfumes. In particular, the *Pelargonium* is used to create what we know as geranium oil, a commodity frequently instrumentalised in aromatherapy, skincare, and even as a food flavouring. The extraction of these oils is done by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and not taken directly, and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant. This process of natural extraction involves the creation of extensive crops, factories, and the hiring of high labour. In this way, the oil industry not only generates an international commercial network, but also reorganizes and transforms the territory.
 <param ve-storiiies id="991gw">
 
-The most common known geranium oil is actually from one species of *Pelargonium*, *P. graveolens* (also known as *Geranium Rosat*). However, when the essential oil was first distilled and introduced to the French colonies in Africa, it was actually a few years earlier than the first distinction of *Pelargonium* as an independent genus by L’Héritier in 1787. Therefore, the essential oil was inevitably misnamed as geranium oil, and this misnomer is still used nowadays.
+The most common known geranium oil is actually from one species of *nium*, *P. graveolens* (also known as *Geranium Rosat*). However, when the essential oil was first distilled and introduced to the French colonies in Africa, it was actually a few years earlier than the first distinction of *Pelargonium* as an independent genus by L’Héritier in 1787. Therefore, the essential oil was inevitably misnamed as geranium oil, and this misnomer is still used nowadays.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000417315">
 
-The [Chiris factory](https://monumentum.fr/anciennes-parfumeries-chiris-pa00080934.html) in Algeria provides a case study for the industrial production of geranium oils. Founded in 1786 in the city of Grasse, near Monaco and the port of Marseille, the Chiris company specialized in the extraction of essential oils for the cosmetic industry. After the French Revolution in 1789, the perfume business began a process of democratization in which consumers no longer belonged only to the aristocracy but also to the bourgeoisie. This process was accentuated once the Industrial Revolution began to change the forms and systems of production and distribution and it was also accompanied by the colonial commercial networks. 
+The [Chiris factory](https://monumentum.fr/anciennes-parfumeries-chiris-pa00080934.html) in Algeria provides a case study for the industrial production of geranium . Founded in 1786 in the city of Grasse, near Monaco and the port of Marseille, the Chiris company specialized in the extraction of essential oils for the cosmetic industry. After the French Revolution in 1789, the perfume business began a process of democratization in which consumers no longer belonged only to the aristocracy but also to the bourgeoisie. This process was accentuated once the Industrial Revolution began to change the forms and systems of production and distribution and it was also accompanied by the colonial commercial networks. 
 <param title="French Revolution" eid="Q6534">
 <param ve-image
 title="Les etu A. Chiris s'installent dans le Monde entier" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Les_etu.jpg" fit="cover" attribution="David Rumsey Historical Map Collection">
@@ -83,7 +82,7 @@ title="Shirley Hubberd’s Victorian garden plans, including bedding pelargonium
 title="Pelargoniums in the designs of the Jardins de Luxembourg in Paris" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Hortalia.jpg" fit="cover" attribution="Goffart, J. L. et Guillot, J. R., [Corbeille], Hortalia, consulté le 5 août 2020, http://bibliotheque-numerique.hortalia.org/items/show/2306">
 
 ### The "genteel" Geranium and working-class culture
-The *Pelargonium’s* ubiquity in the Victorian era eventually began to carry a cultural significance all its own. In 1864’s *The Book of Flowers*, Caroline Kirkland follows the poet Leigh Hunt in describing the *Geranium* (of course, really a *Pelargonium*) as a *genteel* plant. She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel”.[^tbof] Of course, this might be understood as an attestation to the *Pelargonium’s* universal charms. However, if we look a little closer at the ways the *Pelargonium* was used in working class culture, we might suggest that the “genteel” nature of the plant actually be taken with a pinch of salt. 
+The *Pelargonium’s* ubiquity in the Victorian era eventually began to carry a cultural significance all its own. In 1864’s *The Book of Flowers*, Caroline Kirkland follows the poet Leigh Hunt in describing the *Geranium (of course, really a *Pelargonium*) as a *genteel* plant. She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel”.[^tbof] Of course, this might be understood as an attestation to the *Pelargonium’s* universal charms. However, if we look a little closer at the ways the *Pelargonium* was used in working class culture, we might suggest that the “genteel” nature of the plant actually be taken with a pinch of salt. 
 <param title="Victorian era" eid="Q182688">
 <param ve-image static
 title="The broad range of varieties and scents of Pelargonium (under the name Geranium, of course) made it a favourite in the Victorian “language of flowers.” This concealed language allowed members of upper-class society to use specific flowers as a sort of code to pass on secret, often romantic, messages that they were forbidden from speaking aloud. Here, we can see that the scarlet Geranium (*P. inquinans*) means “comfort.”" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Victorian_language_of_flowers_.jpg" fit="contain" attribution="Source from Biodiversity Heritage Library, edited by Yao Jiang.">
@@ -93,19 +92,19 @@ For many lower-class Victorian families who did not have gardens, growing *Pelar
 title="Frontispiece for “Jenny's geranium”" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Jenny_geranium.png" fit="cover" attribution="*Jenny's geranium, or, The prize flower of a London Court*, S.W. Partridge & Co, c. 1869. Children’s Book Collection. Library Special Collections, Charles E. Young Research Library, UCLA https://archive.org/details/jennysgeraniumor00bostiala">
 
 As a result, the *Pelargonium* soon became a symbol for the working class’s ungainly attempts at propriety, and was instrumentalized as such throughout art and literature. Catherine Horwood notes that, “If there is one plant that sums up the attitude of Victorian sentimentalists towards the unfortunate working class in the nineteenth century, it is the forlorn red ‘geranium’ sitting on a cottage window-sill. Hundreds of artists used this as a symbol of aspirations to respectability”.[^ph] With this context, we might understand Kirkland’s pretensions to the “genteel *Geranium*” as an ironic statement, more in line with the OED’s definition of “genteel” as “being characteristic of those who are possessed with a dread of being taken for ‘common people’, or who attach exaggerated importance to supposed marks of social superiority...in educated language it has always a sarcastic or at least playful colouring,”[^genteel] than to assertions of true gentility.  
-<param ve-storiiies id="fd1ft">
+<param ve-storiiies id="">
 
 
 ## Geraniums or Pelargoniums?
 Despite its long history of being known by a “false identity,” then, we can see that the *Pelargonium* has actually had a significant impact through its various sensorial, economic, and material-cultural entanglements with the human realm. But why exactly has the misnomer of *Geranium* persisted for so long? To answer this question, we can take a brief look at the two plants’ morphologies and their overlapping nomenclature history.
-<param ve-storiiies id="fc1gp"> 
+<param ve-storiiies id="fc1gpa51fu"> 
 
 ### Morphological differentiations
-The *Pelargonium* is a perennial bush, with a strong and aromatic smell. There are approximately 300 species of *Pelargonium*, originating from Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. The particular morphology of the plant actually lends the genus its name; *Pelargonium* comes from the Greek word *pelargos* (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”) which alludes to the long, almost beak-shaped fruit. 
+The *Pelargonium* is a perennial bush, with a strong and aromatic smell. There are approximately 300 species of *Pelargonium*, originating from Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. The particular morphology of the plant actually lends the genus its name; *Pelargonium* comes from the Greek word *pelargos* (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi) fruit. 
 <param ve-image 
 title="Pelargonium alchemilloides (L.) L'Hér." url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center">
 <param ve-map center="40, 0" zoom="1.5">
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>”) which alludes to the long, almost beak-shaped
 
 In order to differentiate between the genera of *Pelargonium* and *Geranium*, it is necessary to focus on the reproductive system of the plant: the flower. In the *Pelargonium*, the arrangement of the flower parts is bilateral and not radial (as it is the case in the *Geranium*), which is to say that it has only one axis of symmetry. While the *Geranium* has five nectaries at the base of the petals, the *Pelargonium* has only one embedded in the receptacle. A final difference is the number of fertile stamens and their groupings. The *Pelargonium* has between one and seven stamens, attached at the base; the *Geranium*,  meanwhile, has either five or ten free stamens.
 <param ve-iiif-compare
@@ -113,51 +112,7 @@ In order to differentiate between the genera of *Pelargonium* and *Geranium*, it
     url2="https://free.iiifhosting.com/iiif/ba2f217efdf25d87a4fc0e79c0b096245ef26d4ebde668bd65af649d05b2deb1/info.json">
 
 ### A brief history of nomenclature confusion
-Historically, the misnomer started more than 150 years before Linnaean taxonomy, when *P. triste* was brought and cultivated at the Leiden Botanical Garden(the herbaria on the right is identified as *Pelargonium triste (L.)* according to the manuscript on the bottom right). While Carl Linnaeus, in his 1753 [*Species Plantarum*](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name *Geranium* for 20 pelargoniums known at that time (such as the *Pelargonium zonale*), continuing the ignorance of pelargoniums as a new genus.[^sp] Since Linnaean taxonomy was treated almost like a bible in the academic field at that time, even though Charles-Louis L’Héritier subsequently distinguished *Pelargoniums* as an independent genus, the Linnaean *Geranium* nomenclature for pelargoniums continued - as can be seen in Aloysio Cabrini’s [*Boccone Museum rariorum plantarum: nominibus linnaei specificis*](https://iiif.lib.harvard.edu/manifests/view/drs:49431646$348i) (1791), currently housed in Dumbarton Oaks’ Rare Book Collection.[^bmrp] Eventually, by creating ten new genera in the *Geraniaceae* family, Robert Sweet introduced a serious classification system to ease the shortfall in Linnaean nomenclature in 1820.[^g] However, this new taxonomy system seems only to be accepted and followed in the academic field rather than the public domain.   
-<param title="Pelargonium zonale" eid="Q3898877">
-<param title="Hortus Botanicus Leiden" eid="Q2468128" aliases="Leiden Botanical Garden">
-<param title=" Robert Sweet" eid="Q2003356">
-<param title="taxonomy of Linnaeus" eid="Q54878466" aliases="Linnaean taxonomy">
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.bm000574836">
-<param ve-storiiies id="9b1fm">
-
-Besides the Algerian oil industry and the Victorian floriculture mentioned here, there must be more areas in which *Pelargoniums* are misnamed and understood as *Geraniums* in terms of the history of nomenclature confusion. For example, this nomenclature confusion has even permeated into Chinese literature translations and China's oil industry. For Chinese, *Tianzhu Kui* (*Pelargonium*) is the most commonly used name once mentioning these two genera. However, once *Tianzhu Kui* is translated into English, *Geranium* turns out to be the associated word. Taking Harper Lee’s famous novel *To Kill a Mockingbird* as an example, the word “geraniums” from “against the fence … holding brilliant red geraniums” is always translated as *Tianzhu Kui* rather than its actually botanical name, *Laoguan Cao*. Also, as one of the two major producers in the essential oil industry nowadays,  more than 50% of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as *Tianzhu Kui You (Pelargonium Oil)* in Chinese. It is said that the name *Tianzhu Kui* was introduced by Junyu Zhang in 1933 based on his studies in Japan. The word *Tianzhu Kui* is from *ゼラニウム*, which is pronounced as *Geranium* in English. 
-<param ve-image static
-title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_ (_Pelargonium_) in Chinese." url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Tianzhu_Kui.png" fit="contain" attribution="Chinese Gongbi Line Drawing of Hundred Flowers (Autumn and Winter). Tianjin Yangliuqing Fine Arts Press. 2005.">
-
-## Conclusion
-**By way of conclusion, we can deduce that the taxonomic mix-up entangling these two genera did not only happen in the Western world; it circulated and influenced other knowledge traditions worldwide. In this short essay, we have hoped to clarify this misnomer, and to “redeem” the story of the Pelargonium as a separate entity from the Geranium - both in terms of its morphology, and the profound influence it has waged upon human cultures and industries spanning West to East.**
-<param ve-image
-title="Plant de géranium rouge: photographie / Eugène Blondelet" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/photo_pelargonuim.jpeg" fit="cover" attribution="Bibliothèque nationale de France, RESERVE EH9-18 (42-43)">
-
-## References
-
-[^datg]:Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
-
-[^mfsirh]:Dickens, Mamie. _My Father as I Recall Him_. Roxburghe Press, 1896.
-
-[^dsmdlcab]:[_173J 0001. Domaine Sainte-Marguerite de l'entreprise Chiris à Boufarik (Algérie)_ (FR-FRAD006 - FRAD006_ABEL)](https://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/FR-FRAD006/type/hg/id/FRAD006_ABEL/unitid/173J+0001+-+173J+0007)
-
-[^lpapdcf]:[Élie Maunier. *Les Plantes à Parfums des Colonies Françaises*. Marseille, Institut colonial, 1932.](http://www.manioc.org/gsdl/collect/patrimon/archives/FRA12344.dir/FRA12344.pdf)
-
-[^pahsoag]:[_Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006.](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
-
-[^csftfg]:Jekyll, Gertrude. _Colour Schemes for the Flower Garden_. Country Life, 1919.
-
-[^lotp]:Hibberd, Shirley. “Lecture on the Pelargonium.” _The Journal of Horticulture_, 1880, pp. 14, 74-75.
-
-[^sslafl]:McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
-
-[^tafg]:[Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875.](https://www.biodiversitylibrary.org/page/55342041)
-
-[^tbof]:Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--.
-
-[^ph]:Horwood, Catherine. _Potted History: The Story of Plants in the Home_. Quarto Group Inc, 2007.
-
-[^genteel]:"genteel, adj. and n." OED Online. Oxford University Press, June 2020. Web. 1 August 2020
-
-[^sp]:[Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.](https://www.biodiversitylibrary.org/page/358697)
-
-[^bmrp]:[Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.](https://iiif.lib.harvard.edu/manifests/view/drs:49431646$348i)
-
-[^g]:[Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.](https://www.biodiversitylibrary.org/page/47462004)
+Historically, the misnomer started more than 150 years before Linnaean taxonomy, when *P. triste* was brought and cultivated at the Leiden Botanical Garden(the herbaria on the right is identified as *Pelargonium triste (L.)* according to the manuscript on the bottom right). While Carl Linnaeus, in his 1753 [
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYzODI4MDQ5N119
+-->
