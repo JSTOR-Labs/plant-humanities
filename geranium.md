@@ -11,8 +11,9 @@
 
 <param title="Dumbarton Oaks" eid="Q1264942">
 <param title="Industrial Revolution" eid="Q2269">
-<param title="Species Plantarum" eid="Q84930<param title="Pelargonium graveolens" eid="Q164306" aliases="P. graveolens">
-<param title="Pelargoniu598" aliases="scarlet geranium">
+<param title="Species Plantarum" eid="Q84930>
+<param title="Pelargonium graveolens" eid="Q164306" aliases="P. graveolens">
+<param title="Pelargonium inquinans" eid="Q18083598" aliases="scarlet geranium">
 
 ## What's in a name?
 There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium.[^datg] With their vibrant red flowers and sweet, rosy scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color”[^mfsirh] at his country home, Gad’s Hill Place. Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of them was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums”[^mfsirh]. 
