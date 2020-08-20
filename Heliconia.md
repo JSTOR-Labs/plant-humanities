@@ -9,6 +9,14 @@
 	data-num-specimens="16"
 	data-num-primary-sources="4"
 	data-author="John Kress, PhD and Yota Batsaki, PhD"></var>
+	
+<param ve-component 
+       name="d3plus-network"
+       src="/components/D3PlusNetwork.vue"
+       selectors="tag:d3plus-network"
+       icon="fa-sitemap"
+       label="D3plus Network"
+       dependencies="https://d3plus.org/js/d3plus-network.v0.6.full.min.js">
 
 ### Need Subtitle
 
@@ -75,6 +83,7 @@ Another strange group of heliconias in the South Pacific is found from S
 
 This is evolution at work. Indeed, the close relationships between some plants and animals and their interactions played a key role in the development of [Charles Darwin’s ideas on the process of natural selection and evolution](https://www.biodiversitylibrary.org/page/26253722](https://www.biodiversitylibrary.org/page/26253722)). Darwin was especially interested in the relationship between orchids and the insects that pollinated them. Heliconias offer equally interesting and unique relationships with their animal pollinators.
 <param ve-storiiies id="e41co">
+<param ve-d3plus-network url="https://raw.githubusercontent.com/buchanana01/ve-components/master/network.json">
 
 An extraordinary [example](https://link-springer-com.ezp-prod1.hul.harvard.edu/content/pdf/10.1007/s00442-011-2043-8.pdf) of coevolution, or reciprocal evolution between two species, is the relationship between heliconias and hummingbirds in the eastern arc of the Caribbean islands. The two species of heliconias native to these islands and the one species of hummingbird found there have coevolved in a very unique and interesting way. The two heliconias are quite different from each other, but the single species of hummingbird that pollinates them is so specialized that the small-bodied males visit the other species. Astonishingly, the shape and size of the bills of each sex corresponds to the shape and size of the flowers of the specific heliconias that they visit and feed from. In other words, one sex of the hummingbird has evolved with one species of heliconia and the other sex has evolved with the second species of plant.
 <param ve-image 
@@ -121,6 +130,6 @@ Mee, M., & Morrison, T. 1988. Margaret Mee, In Search of Flowers of the Amazon
 
 Temeles, E. J., and W. J. Kress. 2003. Evidence for adaptation in a plant-hummingbird
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU5MDg5MDMsLTEzNTExNTM1NjNdfQ
-==
+eyJoaXN0b3J5IjpbMjAyNTMzMTQ3MCwtMTUyNTkwODkwMywtMT
+M1MTE1MzU2M119
 -->
