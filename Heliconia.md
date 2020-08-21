@@ -15,8 +15,7 @@
        src="https://jstor-labs.github.io/ve-components/components/D3PlusNetwork.vue"
        selectors="tag:d3plus-network"
        icon="fa-sitemap"
-       label="D3plus Network"
-       dependencies="https://d3plus.org/js/d3plus-network.v0.6.full.min.js">
+       label="D3plus Network">
 
 ### Need Subtitle
 
