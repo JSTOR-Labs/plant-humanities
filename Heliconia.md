@@ -12,7 +12,7 @@
 	
 <param ve-component 
        name="d3plus-network"
-       src="https://jstor-labs.github.io/ve-components/components/D3PlusNetwork.vue"
+       src="https://jstor-labs.github.io/ve-components/components/VisNetwork.vue"
        selectors="tag:d3plus-network"
        icon="fa-sitemap"
        label="D3plus Network">
