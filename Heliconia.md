@@ -9,13 +9,6 @@
 	data-num-specimens="16"
 	data-num-primary-sources="4"
 	data-author="John Kress, PhD and Yota Batsaki, PhD"></var>
-	
-<param ve-component 
-       name="vis-network"
-       src="https://jstor-labs.github.io/ve-components/components/VisNetwork.vue"
-       selectors="tag:vis-network"
-       icon="fa-sitemap"
-       label="Vis Network">
 
 <param ve-component 
        name="d3plus-network"
