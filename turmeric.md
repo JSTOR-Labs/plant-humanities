@@ -111,8 +111,7 @@ By the time Pechey was writing, as [Cargo Sheets from the Folger Shakespeare Lib
 	data-active="true"></var>
 
 Its popularity as a medicinal agent seems to have decreased by the early 19th century. In [Thornton’s 1810 work _A Family Herbal_](https://www.biodiversitylibrary.org/item/250671#page/7/mode/1up) he notes the fallacious nature of the claim that turmeric could cure jaundice, writing, “from an ignorant suspicion that the jaundice was to be cured by whatever produced a yellow colour, that is, I suspect, seeing the bile diffused into the habit, from obstruction of passage of the gall-duct, these yellow remedies were used to supply its place, just as the yolks of eggs are used in the same complaint.” He continues, writing that, turmeric “posses[es] only slender virtue.” An [1817 medicinal dictionary](https://books.google.com/books?id=uWNZAAAAIAAJ&newbks=1&newbks_redir=0&dq=A%20New%20Medical%20Dictionary%3A%20Containing%20an%20Explanation%20of%20the%20Terms%20in%20Anatomy&pg=PP1#v=onepage&q&f=false) echoes this assessment of turmeric’s change in status, writing that, “it is now very seldom used medicinally” and that the root is mainly used as “an ingredient in the composition of Curry Powder,” as well as a tool for dyeing. From the 1800s on, turmeric was thus chiefly employed in the West as a culinary (as well as a dyeing) agent. What was the significance of this use, and how did it function discursively in the broader age of empire?
- <var data-primary="image"></var>
-<var data-image id="bhl-55999435" title="Turmeric in Robert John Thornton's Herbal" data-url="https://www.biodiversitylibrary.org/pageimage/55999435"></var>
+ <param ve-storiiies id="1d1i1”>
 
 ### Colonizing the Table 
 
