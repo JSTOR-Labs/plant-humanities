@@ -1,4 +1,3 @@
-
 <var data-essay
 title="Turmeric"
 data-banner="https://images.nypl.org/index.php?id=1126115&t=w"
@@ -8,7 +7,6 @@ data-num-images="6"
 data-num-specimens="2"
 data-num-primary-sources="11"
 data-author="Julia Fine"></var>
-
 
 <var title="Saffron" id="Q25434"></var>
 <var title="Vedic period" id="Q215262" data-aliases="Vedic societies"></var>
@@ -27,16 +25,13 @@ data-author="Julia Fine"></var>
 <var title="Berberis" id="Q158503" data-aliases="barbarie bark"></var>
 
 
-
-
 ## Curcuma longa: The “Herb of the Sun” 
 
 ### Merit of the Earth? 
 Turmeric’s status as a valuable medicinal plant has long been mythologized. Indeed, many juggernauts, including the _Oxford English Dictionary_, suggest that its etymology stems from an adulteration of the French trade-name “terre mérite.” Dr. William Guthrie, in a 2008 article, all but proved this etymology to be spurious, but it nonetheless illustrates how the root has been seen across the centuries: it is a plant of extreme value (mérite) from the earth (la terre).[^ref1]    
- <var data-primary="image"></var>
+<var data-primary="image"></var>
 <var data-image id="bhl-48537187" title="Turmeric as Represented in William Woodville's Herbal" data-fit:"contain" data-url="https://www.biodiversitylibrary.org/pageimage/48537187"></var>
 <var data-scope="Turmeric" id="Q42562 data-region=""></var>
-
 
 While the “mérite” of terre mérite, as Dr. Guthrie noted, most likely refers to its medicinal value, turmeric has been esteemed for many other reasons. As the long history of turmeric and its consumption reveals, the root’s distinctive color and taste were integral parts of the colonial project as a mechanism through which British men and women could perform the ideological work of empire, or, in the words of historian Susan Zlotnick, “neutralize the threat of the Other by naturalizing the products of foreign lands.” [^ref2]
 <var data-map title="The Countries of the British Empire" data-center="15.103853, 18.634794" data-basemap="Esri_WorldPhysical" data-zoom="1"></var>
@@ -45,7 +40,6 @@ While the “mérite” of terre mérite, as Dr. Guthrie noted, most likely refe
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/british_empire_2.geojson"
 	data-active="true"></var>
-
 
 ### Turmeric’s Origin Story
 Turmeric’s roots are deeply embedded in the cultural landscape of South and Southeast Asia. It is unclear exactly where in South and Southeast Asia the root originated — different naturalists give different places of origin from present-day South India to Malaysia to Indonesia.
@@ -64,7 +58,6 @@ title="Indian Subcontinent"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/India_Sub.geojson"
 	data-active="true"></var>
 
-
 The root quickly spread beyond South and Southeast Asia. After turmeric’s domestication in Southern Asia, it was diffused to Tahiti, Hawaii, and the Easter Islands, long before European colonization.[^ref5]  
 <var data-map title="Spread of Turmeric" data-center="-0.091300, 107.056186" data-basemap="Esri_WorldPhysical" data-zoom="1.5"></var>
 <var data-map-layer
@@ -72,7 +65,6 @@ The root quickly spread beyond South and Southeast Asia. After turmeric’s dome
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Turmeric_Spread.json"
 	data-active="true"></var>
-
 
 ### Taking Root Westward
 The exact date of turmeric's arrival in the West is unclear. Some scholars claim that turmeric was mentioned by Dioscorides, demonstrating its presence in European empires during the Classical period. Nevertheless, before the Medieval period, turmeric was not imported en masse to Europe. The spice was first definitively mentioned outside of Southern Asia by early Arabic sources. For instance, explorer [Ibn Battuta noted](https://books.google.com/books?id=FpRdi95EVfgC&pg=PA598&dq=Travels+of+ibn+battuta+curcuma&hl=en&sa=X&ved=0ahUKEwjEoYuJ_93nAhXrgnIEHX9NA2QQ6AEIPzAD#v=onepage&q&f=false) that on his travels to Delhi he had seen people take a snake, “slit open its stomach, and stuff it with curcuma (turmeric). This...takes the place of saffron with them. When I saw this small animal and them eating it, I took a loathing at it and would not eat it.” 
@@ -82,7 +74,6 @@ The exact date of turmeric's arrival in the West is unclear. Some scholars claim
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/delhi.json"
 	data-active="true"></var>
-
 
 By the late medieval period, the spice was definitely imported to Europe in large quantities; Joan Thirsk describes how by 1428, turmeric was a “now familiar” spice imported to Italy.[^ref6]  The importance of turmeric in 15th and 16th century Europe becomes clear in Siena-born doctor and naturalist Pietro Andrea Mattioli’s 1558 Latin commentary on Dioscorides’ [_Materia Medica_](https://www.biodiversitylibrary.org/page/7470316#page/143/mode/1up), There, he writes, “Experienced physicians identify the other genus of cypress, which resembles ginger and comes from India.” He writes that this type of cypress “work[s] wonders on ulcers,…posses a certain constrictive power which suits them for treating canker sores” and helps to induce “urination or menstruation.” Mattioli further refers to the fact that the root has a “slightly bitter taste, and is yellow like saffron when chewed,” suggesting its use medicinally and gastronomically. 
 <var data-map title="Mattioli's Birthplace" data-center="43.320749, 11.330224" data-zoom="5.5"></var>
