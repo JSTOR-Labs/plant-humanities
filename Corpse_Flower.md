@@ -30,7 +30,7 @@ It is easy to see why the corpse flower plant has become an attraction for the d
 (map with blooming corpse flowers)
 
 European botanists have long been fascinated with the study and cultivation of the _Amorphophallus titanium_. An Italian botanist, Odoardo Beccari, was the first European to encounter the species in Sumatra, where it is native, while traveling through Southeast Asia in 1878. Beccari sent seeds of the impressive plant back to his native Florence, where the plant was germinated. 
-<param ve-map basemap="Esri_WorldPhysical" center="5.855585, -76.226586" zoom="3.5">
+<param ve-map basemap="Esri_WorldPhysical" center="26.761740, 56.651666" zoom="3">
 <param ve-map-layer geojson active url="geojson/corpse_flower.json">
 
 Eventually, one of the young plants made its way to the Royal Botanic Gardens, Kew, where it finally bloomed, with great fanfare, in 1889. The plant eventually bloomed again in 1926. This time, however, the crowds were so large, police had to be called in to control them. 
@@ -48,6 +48,6 @@ In addition to disciplinary tradition and a shared goal of increasing plant know
 
 Back in the Bronx, the current Director of Glasshouse Horticulture and Curator of Orchids, Marc Hachadourian, continues to propagate corpse flowers. Unabashedly, he confesses it is because they spur incredible public interest and have the potential to inspire kids around the country, especially those in areas without exposure to exotic plant collections, to become botanists, horticulturalist, and conservationists. On a recent tour of the facility, Marc proudly showed off his 25 “grandchildren,” small potted leaves of the _Amorphophallus titanium_, to Dumbarton Oaks’ Plant Humanities Fellows. Marc’s plan is to gift the plants to institutions across the country, just as he did with Dumbarton Oaks. Through remarkable plants like the corpse flower, botanic institutions across the globe hope to draw public attention to the unparalleled significance of plants to human culture and issues of contemporary “plant blindness” and environmental degradation one fascinating plant at a time. Well, in this case, one fascinating and stinky plant at a time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzU5MTgwNSwtOTkyMTI4ODkyLC0xMz
+eyJoaXN0b3J5IjpbLTg4Mzc3OTY3MCwtOTkyMTI4ODkyLC0xMz
 Y3MTUyNTY3LC0xODc3MDU2MDE5LDEzNjU0NzA2OTldfQ==
 -->
