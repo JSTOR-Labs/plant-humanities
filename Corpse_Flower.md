@@ -34,7 +34,8 @@ European botanists have long been fascinated with the study and cultivation of t
 <param ve-map-layer geojson active url="geojson/corpse_flower.json">
 
 Eventually, one of the young plants made its way to the Royal Botanic Gardens, Kew, where it finally bloomed, with great fanfare, in 1889. The plant eventually bloomed again in 1926. This time, however, the crowds were so large, police had to be called in to control them. 
-(map)
+<param ve-map basemap="Esri_WorldPhysical" center="Q18748726" zoom="7">
+<param ve-map-layer geojson active url="geojson/corpse_flower.json">
 
 The story of the _Amorphophallus titanium_ in the US begins in the Bronx. The NYBG was the first institution to successfully cultivate and bloom an _Amorphophallus titanium_ in the Western Hemisphere in 1937. They had received the plant from Sumatra in 1932. Five years later, its first bloom would mob the NYBG Conservatory with visitors, photographers, and reporters. Clocking in at over 8 feet tall, the NYBG’s first bloom remains the largest ever grown in cultivation. (map, zoom in on Bronx)
 
@@ -48,6 +49,6 @@ In addition to disciplinary tradition and a shared goal of increasing plant know
 
 Back in the Bronx, the current Director of Glasshouse Horticulture and Curator of Orchids, Marc Hachadourian, continues to propagate corpse flowers. Unabashedly, he confesses it is because they spur incredible public interest and have the potential to inspire kids around the country, especially those in areas without exposure to exotic plant collections, to become botanists, horticulturalist, and conservationists. On a recent tour of the facility, Marc proudly showed off his 25 “grandchildren,” small potted leaves of the _Amorphophallus titanium_, to Dumbarton Oaks’ Plant Humanities Fellows. Marc’s plan is to gift the plants to institutions across the country, just as he did with Dumbarton Oaks. Through remarkable plants like the corpse flower, botanic institutions across the globe hope to draw public attention to the unparalleled significance of plants to human culture and issues of contemporary “plant blindness” and environmental degradation one fascinating plant at a time. Well, in this case, one fascinating and stinky plant at a time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Mzc3OTY3MCwtOTkyMTI4ODkyLC0xMz
-Y3MTUyNTY3LC0xODc3MDU2MDE5LDEzNjU0NzA2OTldfQ==
+eyJoaXN0b3J5IjpbOTA4OTIwMDU4LC05OTIxMjg4OTIsLTEzNj
+cxNTI1NjcsLTE4NzcwNTYwMTksMTM2NTQ3MDY5OV19
 -->
