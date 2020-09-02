@@ -1,7 +1,7 @@
 
 ### Pretty Stinky
 In the late afternoon of a hot summer day in June 2019, an extraordinary and rare flower began to bloom at the New York Botanic Garden (NYBG). A press release was immediately sent out as visitors had only 24 to 36 hours to the see the world’s largest inflorescence (flower-bearing structure) in peak bloom. It was not just the size of the _Amorphophallus titanium_, however, that would attract hundreds of thousands of visitors. It was also the fact that, as its common name “corpse flower” suggests, this gigantic plant, when in bloom, smells like rotting flesh. 
-<param ve-video 
+<param ve-video vid="5upF4rJUxC4" title="
 
 The putrid smell of the _Amorphophallus titanium_ (or titan arum), which has been described by the Huntington Botanical Garden as a combination of Limburger cheese, garlic, rotting fish, and smelly feet, is actually a pollination strategy. The powerful scent emitted by the plant along with the crimson, meaty-color of its open spathe (the frilly leaf around the flower spike) are designed to attract insect pollinators – carrion beetles and flesh flies – that typically feast on dead animals. (image of the flower’s interior)
 
@@ -25,5 +25,5 @@ In addition to disciplinary tradition and a shared goal of increasing plant know
 
 Back in the Bronx, the current Director of Glasshouse Horticulture and Curator of Orchids, Marc Hachadourian, continues to propagate corpse flowers. Unabashedly, he confesses it is because they spur incredible public interest and have the potential to inspire kids around the country, especially those in areas without exposure to exotic plant collections, to become botanists, horticulturalist, and conservationists. On a recent tour of the facility, Marc proudly showed off his 25 “grandchildren,” small potted leaves of the _Amorphophallus titanium_, to Dumbarton Oaks’ Plant Humanities Fellows. Marc’s plan is to gift the plants to institutions across the country, just as he did with Dumbarton Oaks. Through remarkable plants like the corpse flower, botanic institutions across the globe hope to draw public attention to the unparalleled significance of plants to human culture and issues of contemporary “plant blindness” and environmental degradation one fascinating plant at a time. Well, in this case, one fascinating and stinky plant at a time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNDQyMTA0LDEzNjU0NzA2OTldfQ==
+eyJoaXN0b3J5IjpbNTIyNzUyMTY1LDEzNjU0NzA2OTldfQ==
 -->
