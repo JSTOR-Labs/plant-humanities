@@ -1,4 +1,13 @@
-
+<var data-essay
+	title="Peony: From an Ancient Cure to an Early Modern Tool of Statecraft"
+	data-banner="https://iiif.wellcomecollection.org/image/B0009092.jpg/full/2048%2C/0/default.jpg"
+	data-layout="vtl"
+	data-num-maps="4"
+	data-num-images="10"
+	data-num-specimens="16"
+	data-num-primary-sources="4"
+	data-author="Ashley Buchanan, PhD and Kyra Krakos, PhD"></var>
+	
 ### Pretty Stinky
 In the late afternoon of a hot summer day in June 2019, an extraordinary and rare flower began to bloom at the New York Botanic Garden (NYBG). A press release was immediately sent out as visitors had only 24 to 36 hours to the see the world’s largest inflorescence (flower-bearing structure) in peak bloom. It was not just the size of the _Amorphophallus titanium_, however, that would attract hundreds of thousands of visitors. It was also the fact that, as its common name “corpse flower” suggests, this gigantic plant, when in bloom, smells like rotting flesh. 
 <param ve-video vid="5upF4rJUxC4" title="NYBG 2019 Corpse Flower Timelapse" start="6">
@@ -30,6 +39,6 @@ In addition to disciplinary tradition and a shared goal of increasing plant know
 
 Back in the Bronx, the current Director of Glasshouse Horticulture and Curator of Orchids, Marc Hachadourian, continues to propagate corpse flowers. Unabashedly, he confesses it is because they spur incredible public interest and have the potential to inspire kids around the country, especially those in areas without exposure to exotic plant collections, to become botanists, horticulturalist, and conservationists. On a recent tour of the facility, Marc proudly showed off his 25 “grandchildren,” small potted leaves of the _Amorphophallus titanium_, to Dumbarton Oaks’ Plant Humanities Fellows. Marc’s plan is to gift the plants to institutions across the country, just as he did with Dumbarton Oaks. Through remarkable plants like the corpse flower, botanic institutions across the globe hope to draw public attention to the unparalleled significance of plants to human culture and issues of contemporary “plant blindness” and environmental degradation one fascinating plant at a time. Well, in this case, one fascinating and stinky plant at a time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODMyNDAwNywtMTg3NzA1NjAxOSwxMz
-Y1NDcwNjk5XX0=
+eyJoaXN0b3J5IjpbLTE4NjgxMDgxNjAsLTE4NzcwNTYwMTksMT
+M2NTQ3MDY5OV19
 -->
