@@ -1,5 +1,5 @@
 <var data-essay
-	title="Peony: From an Ancient Cure to an Early Modern Tool of Statecraft"
+	title="The Corpse Flower Plant - _Amorphophallus titanium_"
 	data-banner="https://upload.wikimedia.org/wikipedia/commons/d/da/Corpse_flower_%2871304%29f.jpg"
 	data-layout="vtl"
 	data-num-maps="4"
@@ -39,6 +39,6 @@ In addition to disciplinary tradition and a shared goal of increasing plant know
 
 Back in the Bronx, the current Director of Glasshouse Horticulture and Curator of Orchids, Marc Hachadourian, continues to propagate corpse flowers. Unabashedly, he confesses it is because they spur incredible public interest and have the potential to inspire kids around the country, especially those in areas without exposure to exotic plant collections, to become botanists, horticulturalist, and conservationists. On a recent tour of the facility, Marc proudly showed off his 25 “grandchildren,” small potted leaves of the _Amorphophallus titanium_, to Dumbarton Oaks’ Plant Humanities Fellows. Marc’s plan is to gift the plants to institutions across the country, just as he did with Dumbarton Oaks. Through remarkable plants like the corpse flower, botanic institutions across the globe hope to draw public attention to the unparalleled significance of plants to human culture and issues of contemporary “plant blindness” and environmental degradation one fascinating plant at a time. Well, in this case, one fascinating and stinky plant at a time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDE5MjI4NywtMTg3NzA1NjAxOSwxMz
+eyJoaXN0b3J5IjpbMTM1MDM4MjM4MCwtMTg3NzA1NjAxOSwxMz
 Y1NDcwNjk5XX0=
 -->
