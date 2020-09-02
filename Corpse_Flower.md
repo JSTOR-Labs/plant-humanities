@@ -19,7 +19,12 @@ The putrid smell of the _Amorphophallus titanium_ (or titan arum), which has bee
      data-attribute="Corpse Flower (Amorphophallus Titanum) in full bloom at Edmonton's Muttart Conservatory, April 7, 2015. Photograph by Richard J. Rehman"
      data-url="https://upload.wikimedia.org/wikipedia/commons/4/40/Corpse_Flower_%28Amorphophallus_Titanum%29_1_of_5.jpg"></var>
 
-Adding to the allure of the plant is the rarity and brevity in which it blooms. The corpse flower does not have an annual blooming cycle. On average, it takes the plant 5 to 10 years to store enough energy to flower. Despite the unpredictable nature of the plant’s blooms, they are nothing short of spectacular. When the US Botanic Garden’s _Amorphophallus titanium_ went on display to the public Friday, July 22, 2016, it measured 3.5 feet tall. The bloom eventually opened early in the morning on August 2, and by the time it collapsed three days later, it stood over 7 feet tall. (diagram of bloom cycle)
+Adding to the allure of the plant is the rarity and brevity in which it blooms. The corpse flower does not have an annual blooming cycle. On average, it takes the plant 5 to 10 years to store enough energy to flower. Despite the unpredictable nature of the plant’s blooms, they are nothing short of spectacular. When the US Botanic Garden’s _Amorphophallus titanium_ went on display to the public Friday, July 22, 2016, it measured 3.5 feet tall. The bloom eventually opened early in the morning on August 2, and by the time it collapsed three days later, it stood over 7 feet tall. 
+<var data-primary="image"></var>
+<var data-image
+     data-fit="cover"
+     data-attribute="Corpse Flower (Amorphophallus Titanum) in full bloom at Edmonton's Muttart Conservatory, April 7, 2015. Photograph by Richard J. Rehman"
+     data-url="https://upload.wikimedia.org/wikipedia/commons/4/40/Corpse_Flower_%28Amorphophallus_Titanum%29_1_of_5.jpg"></var>
 
 It is easy to see why the corpse flower plant has become an attraction for the dozen or so US botanic gardens that boast one in bloom. Blooms at the NYBG, the United States Botanic Garden (Washington, DC), The Huntington (Pasadena, CA), Chicago Botanic Garden, Denver Botanic Garden, and Greater Des Moines Botanical Garden in the past few years that have attracted hundreds of thousands of visitors. Each institution also has numerous news stories and webpages dedicated to the plant along with live streams and time-lapse videos of their rare blooms, which are watched by millions more online. For these institutions, cultivating a giant smelly plant is an excellent way to attract visitors to botanic gardens, and hopefully inspire a new generation of botanist. (map with blooming corpse flowers)
 
@@ -39,6 +44,6 @@ In addition to disciplinary tradition and a shared goal of increasing plant know
 
 Back in the Bronx, the current Director of Glasshouse Horticulture and Curator of Orchids, Marc Hachadourian, continues to propagate corpse flowers. Unabashedly, he confesses it is because they spur incredible public interest and have the potential to inspire kids around the country, especially those in areas without exposure to exotic plant collections, to become botanists, horticulturalist, and conservationists. On a recent tour of the facility, Marc proudly showed off his 25 “grandchildren,” small potted leaves of the _Amorphophallus titanium_, to Dumbarton Oaks’ Plant Humanities Fellows. Marc’s plan is to gift the plants to institutions across the country, just as he did with Dumbarton Oaks. Through remarkable plants like the corpse flower, botanic institutions across the globe hope to draw public attention to the unparalleled significance of plants to human culture and issues of contemporary “plant blindness” and environmental degradation one fascinating plant at a time. Well, in this case, one fascinating and stinky plant at a time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjcxNTI1NjcsLTE4NzcwNTYwMTksMT
-M2NTQ3MDY5OV19
+eyJoaXN0b3J5IjpbLTE2OTQ2NDAwMjcsLTEzNjcxNTI1NjcsLT
+E4NzcwNTYwMTksMTM2NTQ3MDY5OV19
 -->
