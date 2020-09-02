@@ -3,7 +3,12 @@
 In the late afternoon of a hot summer day in June 2019, an extraordinary and rare flower began to bloom at the New York Botanic Garden (NYBG). A press release was immediately sent out as visitors had only 24 to 36 hours to the see the world’s largest inflorescence (flower-bearing structure) in peak bloom. It was not just the size of the _Amorphophallus titanium_, however, that would attract hundreds of thousands of visitors. It was also the fact that, as its common name “corpse flower” suggests, this gigantic plant, when in bloom, smells like rotting flesh. 
 <param ve-video vid="5upF4rJUxC4" title="NYBG 2019 Corpse Flower Timelapse" start="6">
 
-The putrid smell of the _Amorphophallus titanium_ (or titan arum), which has been described by the Huntington Botanical Garden as a combination of Limburger cheese, garlic, rotting fish, and smelly feet, is actually a pollination strategy. The powerful scent emitted by the plant along with the crimson, meaty-color of its open spathe (the frilly leaf around the flower spike) are designed to attract insect pollinators – carrion beetles and flesh flies – that typically feast on dead animals. (image of the flower’s interior)
+The putrid smell of the _Amorphophallus titanium_ (or titan arum), which has been described by the Huntington Botanical Garden as a combination of Limburger cheese, garlic, rotting fish, and smelly feet, is actually a pollination strategy. The powerful scent emitted by the plant along with the crimson, meaty-color of its open spathe (the frilly leaf around the flower spike) are designed to attract insect pollinators – carrion beetles and flesh flies – that typically feast on dead animals. <var title="Peaonia" id="Q147105" data-aliases="peony"></var>
+<var data-primary="image"></var>
+<var data-image
+     data-fit="cover"
+     data-attribute="Corpse Flower (Amorphophallus Titanum) in full bloom at Edmonton's Muttart Conservatory, April 7, 2015. Photograph by Richard J. Rehman"
+     data-url="https://upload.wikimedia.org/wikipedia/commons/4/40/Corpse_Flower_%28Amorphophallus_Titanum%29_1_of_5.jpg"></var>
 
 Adding to the allure of the plant is the rarity and brevity in which it blooms. The corpse flower does not have an annual blooming cycle. On average, it takes the plant 5 to 10 years to store enough energy to flower. Despite the unpredictable nature of the plant’s blooms, they are nothing short of spectacular. When the US Botanic Garden’s _Amorphophallus titanium_ went on display to the public Friday, July 22, 2016, it measured 3.5 feet tall. The bloom eventually opened early in the morning on August 2, and by the time it collapsed three days later, it stood over 7 feet tall. (diagram of bloom cycle)
 
@@ -25,5 +30,6 @@ In addition to disciplinary tradition and a shared goal of increasing plant know
 
 Back in the Bronx, the current Director of Glasshouse Horticulture and Curator of Orchids, Marc Hachadourian, continues to propagate corpse flowers. Unabashedly, he confesses it is because they spur incredible public interest and have the potential to inspire kids around the country, especially those in areas without exposure to exotic plant collections, to become botanists, horticulturalist, and conservationists. On a recent tour of the facility, Marc proudly showed off his 25 “grandchildren,” small potted leaves of the _Amorphophallus titanium_, to Dumbarton Oaks’ Plant Humanities Fellows. Marc’s plan is to gift the plants to institutions across the country, just as he did with Dumbarton Oaks. Through remarkable plants like the corpse flower, botanic institutions across the globe hope to draw public attention to the unparalleled significance of plants to human culture and issues of contemporary “plant blindness” and environmental degradation one fascinating plant at a time. Well, in this case, one fascinating and stinky plant at a time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzcwNTYwMTksMTM2NTQ3MDY5OV19
+eyJoaXN0b3J5IjpbMTY2ODMyNDAwNywtMTg3NzA1NjAxOSwxMz
+Y1NDcwNjk5XX0=
 -->
