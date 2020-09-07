@@ -1,29 +1,29 @@
-	Cheirispa dorsata Baly	Q1602492	Heliconia imbricata	inhabit (debris patches on) leaves of
-	Rolled-leaf beetles Cephaloleia consanguinea Baly	Q1602492	Heliconia imbricata	inhabit (debris patches on) leaves of
-Q13852699 	Wyeomyia pseudopecten	Q1602492	Heliconia imbricata	lay larvae in the bracts of
-Q13851995 	Trichoprosopon digitatum	Q1602492	Heliconia imbricata	lay larvae in the bracts of
-	Pentaneura n. sp. (Chironomidae)	Q1602492	Heliconia imbricata	eat the Wyeomyia pseudopecten larvae found in the bracts of
-	Pentaneura n. sp. (Chironomidae)	Q1602492	Heliconia imbricata	eat the Trichoprosopon digitatum larvae found in the bracts of
-	Litopeltis sp. (Dictyoptera: Blattidae)	Q1602492	Heliconia imbricata	live in the bracts of
-	Cephaloleia puncticollis Baly (Coleoptera: Chrysomelidae; Hispinae)	Q1602492	Heliconia imbricata	live in the bracts of
-	Gillisius sp. #1 (Coleoptera)	Q1602492	Heliconia imbricata	live in the bracts and feeds on floral parts of
-	Quichuana aurata Walker	Q1602492	Heliconia imbricata	live in the bracts of
-	Merosargus sp. (Diptera: Stratiomvidae)	Q1602492	Heliconia imbricata	live in the bracts of
-	Beebeomyia sp. (Diptera: Richardiidae)	Q1602492	Heliconia imbricata	live in the bracts of
-Q2749609 	Chelobasis perplexa	Q1602492	Heliconia imbricata	live in and feed on the immature leaves of plants of 
-	Rolled-leaf beetles (Cephaloleia consanguinea Baly)	Q1602492	Heliconia imbricata	lay eggs and larvae feed on
-Q358469 	Eutoxeres aquila	Q1602492	Heliconia imbricata	feed on and pollinate
-Q1269378 	Phaethornis superciliosus	Q1602492	Heliconia imbricata	feeds on and pollinates
-Q644670 	Threnetes ruckeri	Q1602492	Heliconia imbricata	feed on and pollinate
-	Glaucis hirsute	Q1602492	Heliconia imbricata	feed on and pollinate
-	Chalybura urochyrsia	Q1602492	Heliconia imbricata	feed on and pollinate
-	Thalurania furcate	Q1602492	Heliconia imbricata	feed on and pollinate
-	Amazilia izacatl	Q1602492	Heliconia imbricata	feed on and pollinate
-	Amazilia amabilis	Q1602492	Heliconia imbricata	feed on and pollinate
-Q1084570	Florisuga mellivora	Q1602492	Heliconia imbricata	feed on and pollinate
-Q1834504 	Artibeus watsoni	Q1602492	Heliconia imbricata	roost on
-	Litopeltis sp. (Dictyoptera: Blattidae) nymphs	Q1602492	Heliconia imbricata	live and feed on
-	Cephaloleia puncticollis Baly (Coleoptera: Chrysomelidae; Hispinae)	Q1602492	Heliconia imbricata	lay eggs and larvae feeds on 
-	Odontolinus fasciatus Sharp (Coleoptera: Staphylinidae)	Q1602492	Heliconia imbricata	eat mosquito larvae laid on
-Q14672763 	Merosargus sp. (Diptera: Stratiomvidae)	Q1602492	Heliconia imbricata	copulate, rest, and lay eggs on
-	Beebeomyia sp. (Diptera: Richardiidae) larvae	Q1602492	Heliconia imbricata	feed on the flowers of
+source	source.label	source.image	target	target.label	edge
+	Cheirispa dorsata Baly	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bug-solid.svg	Q1602492	Heliconia imbricata	inhabit (debris patches on) leaves of
+	Rolled-leaf beetles Cephaloleia consanguinea Baly	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bug-solid.svg	Q1602492	Heliconia imbricata	inhabit (debris patches on) leaves of
+Q13852699 	Wyeomyia pseudopecten	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bug-solid.svg	Q1602492	Heliconia imbricata	lay larvae in the bracts of
+Q13851995 	Trichoprosopon digitatum	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bug-solid.svg	Q1602492	Heliconia imbricata	lay larvae in the bracts of
+	Pentaneura n. sp. (Chironomidae)	https://commons.wikimedia.org/w/thumb.php?f=Chironomus_plumosus01.jpg&w=140	Q1602492	Heliconia imbricata	eat the Wyeomyia pseudopecten larvae found in the bracts of
+	Pentaneura n. sp. (Chironomidae)	https://commons.wikimedia.org/w/thumb.php?f=Chironomus_plumosus01.jpg&w=140	Q1602492	Heliconia imbricata	eat the Trichoprosopon digitatum larvae found in the bracts of
+	Litopeltis sp. (Dictyoptera: Blattidae)	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bug-solid.svg	Q1602492	Heliconia imbricata	live in the bracts of
+	Cephaloleia puncticollis Baly (Coleoptera: Chrysomelidae; Hispinae)	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bug-solid.svg	Q1602492	Heliconia imbricata	live in the bracts of
+	Gillisius sp. number 1 (Coleoptera)	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bug-solid.svg	Q1602492	Heliconia imbricata	live in the bracts and feeds on floral parts of
+	Quichuana aurata Walker	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bug-solid.svg	Q1602492	Heliconia imbricata	live in the bracts of
+	Merosargus sp. (Diptera: Stratiomvidae)	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bug-solid.svg	Q1602492	Heliconia imbricata	live in the bracts of
+	Beebeomyia sp. (Diptera: Richardiidae)	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bug-solid.svg	Q1602492	Heliconia imbricata	live in the bracts of
+Q2749609 	Chelobasis perplexa	http://ants.biology.utah.edu/alastaxa/hispinae/genera/Chelobasis/SPECIES/perplexa/dorsal.original.jpg	Q1602492	Heliconia imbricata	live in and feed on the immature leaves of plants of 
+	Rolled-leaf beetles (Cephaloleia consanguinea Baly)	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bug-solid.svg	Q1602492	Heliconia imbricata	lay eggs and larvae feed on
+Q358469 	Eutoxeres aquila	https://commons.wikimedia.org/w/thumb.php?f=White-tipped_Sicklebill_%2849571566692%29.jpg&w=140	Q1602492	Heliconia imbricata	feed on and pollinate
+Q1269378 	Phaethornis superciliosus	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/dove-solid.svg	Q1602492	Heliconia imbricata	feed on and pollinates
+Q644670 	Threnetes ruckeri	https://commons.wikimedia.org/w/thumb.php?f=Band-tailed_Barbthroat_%28Threnetes_ruckeri%29.jpg	Q1602492	Heliconia imbricata	feed on and pollinate
+	Glaucis hirsute	https://commons.wikimedia.org/w/thumb.php?f=Rufous-breasted_hermit_(_Glaucis_hirsutus_insularum).jpg&w=140	Q1602492	Heliconia imbricata	feed on and pollinate
+	Chalybura urochyrsia	https://commons.wikimedia.org/w/thumb.php?f=Bronze-tailed_Plumeleteer_(Chalybura_urochrysia).jpg&w=140	Q1602492	Heliconia imbricata	feed on and pollinate
+Q581590	Thalurania furcata	https://commons.wikimedia.org/w/thumb.php?f=Fork-tailed_Woodnymph_%28Thalurania_furcata%29_2015-06-14_%283%29_%2840283848562%29.jpg&w=140	Q1602492	Heliconia imbricata	feed on and pollinate
+Q901824	Amazilia izacatl	https://commons.wikimedia.org/w/thumb.php?f=Rufous-tailed_Hummingbird_JCB.jpg&w=140	Q1602492	Heliconia imbricata	feed on and pollinate
+Q432058	Amazilia amabilis	https://commons.wikimedia.org/w/thumb.php?f=Blue-chested_hummingbird-1-2_-_Flickr_-_Ragnhild_%26_Neil_Crawford.jpg&w=140	Q1602492	Heliconia imbricata	feed on and pollinate
+Q1084570	Florisuga mellivora	https://commons.wikimedia.org/w/thumb.php?f=White-necked_Jacobin_%28f%29_JCB.jpg&w=140	Q1602492	Heliconia imbricata	feed on and pollinate
+Q1834504 	Artibeus watsoni	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bat-solid.svg	Q1602492	Heliconia imbricata	roost on
+	Litopeltis sp. (Dictyoptera: Blattidae) nymphs	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bug-solid.svg	Q1602492	Heliconia imbricata	live and feed on
+	Cephaloleia puncticollis Baly (Coleoptera: Chrysomelidae: Hispinae)	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bug-solid.svg	Q1602492	Heliconia imbricata	lay eggs and larvae feeds on
+	Odontolinus fasciatus Sharp (Coleoptera: Staphylinidae)	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bug-solid.svg	Q1602492	Heliconia imbricata	eat mosquito larvae laid on
+ 	Beebeomyia sp. (Diptera: Richardiidae) larvae	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/e8b9ce75b5790e7d819f0608f67223bdc9c7c183/images/bug-solid.svg	Q1602492 	Heliconia imbricata 	feed on the flowers of
