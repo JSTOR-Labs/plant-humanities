@@ -10,10 +10,3 @@ The visual essays below feature interactive maps, high-resolution images and vid
 [Cacao: An indigenous network and global commodity](/cacao)  
 [The ubiquity of mint: exploring plant mythology, naming and commercial value](/mint)  
 [Curcuma longa: The “Herb of the Sun”](/turmeric)
-
-Some change
-
-[Heliconia](/Heliconia)  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzQ0MzY5MV19
--->
