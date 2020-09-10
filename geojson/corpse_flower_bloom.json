@@ -6,21 +6,7 @@
       "properties": {
         "label": "Royal Botanic Gardens, Kew",
         "qid": "Q18748726",
-        "times": [
-          "1889-01-01T05:00:00.000Z",
-          "1901-01-01T05:00:00.000Z",
-          "1926-01-01T05:00:00.000Z",
-          "1929-01-01T05:00:00.000Z",
-          "1996-01-01T05:00:00.000Z",
-          "2002-05-01T04:00:00.000Z",
-          "2002-06-01T04:00:00.000Z",
-          "2002-06-20T04:00:00.000Z",
-          "2003-06-10T04:00:00.000Z",
-          "2005-04-21T04:00:00.000Z",
-          "2005-06-18T04:00:00.000Z",
-          "2007-04-22T04:00:00.000Z",
-          "2009-05-01T04:00:00.000Z"
-        ]
+        "time": "1889-01-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -35,14 +21,7 @@
       "properties": {
         "label": "Land's Plantentuin Buitenzorg, Kebun Raya Bogor, Java, Indonesia",
         "qid": "Q1123665",
-        "times": [
-          "1894-01-01T05:00:00.000Z",
-          "1924-01-01T05:00:00.000Z",
-          "1934-01-01T05:00:00.000Z",
-          "1994-01-01T05:00:00.000Z",
-          "1995-01-01T05:00:00.000Z",
-          "1997-01-01T05:00:00.000Z"
-        ]
+        "time": "1894-01-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -55,12 +34,84 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Royal Botanic Gardens, Kew",
+        "qid": "Q18748726",
+        "time": "1901-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.295611111,
+          51.478694444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Land's Plantentuin Buitenzorg, Kebun Raya Bogor, Java, Indonesia",
+        "qid": "Q1123665",
+        "time": "1924-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.799112,
+          -6.597937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Royal Botanic Gardens, Kew",
+        "qid": "Q18748726",
+        "time": "1926-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.295611111,
+          51.478694444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Royal Botanic Gardens, Kew",
+        "qid": "Q18748726",
+        "time": "1929-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.295611111,
+          51.478694444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Botanical Garden, Hamburg, Germany",
         "qid": "Q11679872",
-        "times": [
-          "1929-01-01T05:00:00.000Z",
-          "1930-01-01T05:00:00.000Z"
+        "time": "1929-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.985222222,
+          53.559888888
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Botanical Garden, Hamburg, Germany",
+        "qid": "Q11679872",
+        "time": "1930-01-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -75,10 +126,37 @@
       "properties": {
         "label": "Botanic Garden of Wageningen, Netherlands",
         "qid": "Q1957821",
-        "times": [
-          "1932-01-01T05:00:00.000Z",
-          "1935-01-01T05:00:00.000Z"
+        "time": "1932-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6948,
+          51.9659
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Land's Plantentuin Buitenzorg, Kebun Raya Bogor, Java, Indonesia",
+        "qid": "Q1123665",
+        "time": "1934-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.799112,
+          -6.597937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Botanic Garden of Wageningen, Netherlands",
+        "qid": "Q1957821",
+        "time": "1935-01-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -93,11 +171,7 @@
       "properties": {
         "label": "Bergianska trädgården, Stockholm, Sweden",
         "qid": "Q819811",
-        "times": [
-          "1935-01-01T05:00:00.000Z",
-          "2011-05-18T04:00:00.000Z",
-          "2013-07-10T04:00:00.000Z"
-        ]
+        "time": "1935-01-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -112,9 +186,7 @@
       "properties": {
         "label": "Bern Botanical Garden, Switzerland",
         "qid": "Q894639",
-        "times": [
-          "1936-01-01T05:00:00.000Z"
-        ]
+        "time": "1936-01-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -129,10 +201,7 @@
       "properties": {
         "label": "Botanical Garden, Bonn, Germany",
         "qid": "Q322634",
-        "times": [
-          "1937-01-01T05:00:00.000Z",
-          "1987-01-01T05:00:00.000Z"
-        ]
+        "time": "1937-01-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -147,11 +216,22 @@
       "properties": {
         "label": "New York Botanical Garden, New York City",
         "qid": "Q636275",
-        "times": [
-          "1937-01-01T05:00:00.000Z",
-          "1939-01-01T05:00:00.000Z",
-          "2016-07-28T04:00:00.000Z"
+        "time": "1937-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.878333,
+          40.863611
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "New York Botanical Garden, New York City",
+        "qid": "Q636275",
+        "time": "1939-01-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -166,17 +246,22 @@
       "properties": {
         "label": "Botanical Garden, Berlin, Germany",
         "qid": "Q163255",
-        "times": [
-          "1939-01-01T05:00:00.000Z",
-          "1940-01-01T05:00:00.000Z",
-          "1996-01-01T05:00:00.000Z",
-          "1996-01-01T05:00:00.000Z",
-          "1998-05-01T04:00:00.000Z",
-          "2003-05-22T04:00:00.000Z",
-          "2006-05-13T04:00:00.000Z",
-          "2013-06-21T04:00:00.000Z",
-          "2017-07-02T04:00:00.000Z"
+        "time": "1939-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3036,
+          52.455
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Botanical Garden, Bonn, Germany",
+        "qid": "Q163255",
+        "time": "1940-01-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -191,10 +276,7 @@
       "properties": {
         "label": "Botanical Garden, Leiden, Netherlands",
         "qid": "Q2468128",
-        "times": [
-          "1956-01-01T05:00:00.000Z",
-          "1995-01-01T05:00:00.000Z"
-        ]
+        "time": "1956-01-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -209,10 +291,7 @@
       "properties": {
         "label": "Botanical Garden, Munich, Germany",
         "qid": "Q707660",
-        "times": [
-          "1980-01-01T05:00:00.000Z",
-          "2016-05-26T04:00:00.000Z"
-        ]
+        "time": "1980-01-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -227,11 +306,7 @@
       "properties": {
         "label": "Palmengarten, Frankfurt, Germany",
         "qid": "Q319334",
-        "times": [
-          "1985-01-01T05:00:00.000Z",
-          "1994-01-01T05:00:00.000Z",
-          "1996-01-01T05:00:00.000Z"
-        ]
+        "time": "1985-01-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -244,11 +319,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Botanical Garden, Bonn, Germany",
+        "qid": "Q322634",
+        "time": "1987-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.09167,
+          50.7247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Botanical Garden, Mainz, Germany",
         "qid": "Q871292",
-        "times": [
-          "1994-01-01T05:00:00.000Z"
-        ]
+        "time": "1994-01-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -261,16 +349,144 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Palmengarten, Frankfurt, Germany",
+        "qid": "Q319334",
+        "time": "1994-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65833,
+          50.1272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Land's Plantentuin Buitenzorg, Kebun Raya Bogor, Java, Indonesia",
+        "qid": "Q1123665",
+        "time": "1994-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.799112,
+          -6.597937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Botanical Garden, Leiden, Netherlands",
+        "qid": "Q2468128",
+        "time": "1995-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.484167,
+          52.156111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Land's Plantentuin Buitenzorg, Kebun Raya Bogor, Java, Indonesia",
+        "qid": "Q1123665",
+        "time": "1995-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.799112,
+          -6.597937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Botanical Garden, Bonn, Germany",
+        "qid": "Q163255",
+        "time": "1996-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3036,
+          52.455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Botanical Garden, Bonn, Germany",
+        "qid": "Q163255",
+        "time": "1996-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3036,
+          52.455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Palmengarten, Frankfurt, Germany",
+        "qid": "Q319334",
+        "time": "1996-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65833,
+          50.1272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Royal Botanic Gardens, Kew",
+        "qid": "Q18748726",
+        "time": "1996-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.295611111,
+          51.478694444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Land's Plantentuin Buitenzorg, Kebun Raya Bogor, Java, Indonesia",
+        "qid": "Q1123665",
+        "time": "1997-01-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.799112,
+          -6.597937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "University of Missouri-St. Louis, United States",
         "qid": "Q6884925",
-        "times": [
-          "1998-05-01T04:00:00.000Z",
-          "2001-06-20T04:00:00.000Z",
-          "2009-06-07T04:00:00.000Z",
-          "2011-05-12T04:00:00.000Z",
-          "2011-05-19T04:00:00.000Z",
-          "2011-06-12T04:00:00.000Z"
-        ]
+        "time": "1998-05-01T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -283,16 +499,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Botanical Garden, Bonn, Germany",
+        "qid": "Q163255",
+        "time": "1998-05-01T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3036,
+          52.455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Fairchild Tropical Garden, Florida, United States",
         "qid": "Q1923740",
-        "times": [
-          "1998-06-24T04:00:00.000Z",
-          "1999-09-03T04:00:00.000Z",
-          "2001-05-15T04:00:00.000Z",
-          "2001-06-27T04:00:00.000Z",
-          "2003-05-12T04:00:00.000Z",
-          "2005-05-14T04:00:00.000Z"
-        ]
+        "time": "1998-06-24T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -307,10 +531,7 @@
       "properties": {
         "label": "Atlanta Botanical Garden, Georgia, United States",
         "qid": "Q2028223",
-        "times": [
-          "1998-07-06T04:00:00.000Z",
-          "2000-06-12T04:00:00.000Z"
-        ]
+        "time": "1998-07-06T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -325,12 +546,7 @@
       "properties": {
         "label": "Marie Selby Botanical Gardens",
         "qid": "Q6763018",
-        "times": [
-          "1999-05-21T04:00:00.000Z",
-          "2001-05-01T04:00:00.000Z",
-          "2012-06-09T04:00:00.000Z",
-          "2016-08-01T04:00:00.000Z"
-        ]
+        "time": "1999-05-21T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -345,12 +561,7 @@
       "properties": {
         "label": "University of Washington, Seattle",
         "qid": "Q219563",
-        "times": [
-          "1999-07-07T04:00:00.000Z",
-          "2001-05-07T04:00:00.000Z",
-          "2002-05-29T04:00:00.000Z",
-          "2011-06-08T04:00:00.000Z"
-        ]
+        "time": "1999-07-07T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -365,16 +576,7 @@
       "properties": {
         "label": "The Huntington Library, Art Collections, and Botanical Gardens",
         "qid": "Q1400558",
-        "times": [
-          "1999-08-01T04:00:00.000Z",
-          "2002-08-07T04:00:00.000Z",
-          "2009-06-17T04:00:00.000Z",
-          "2010-06-04T04:00:00.000Z",
-          "2014-08-24T04:00:00.000Z",
-          "2018-08-01T04:00:00.000Z",
-          "2019-07-24T04:00:00.000Z",
-          "2020-09-09T04:00:00.000Z"
-        ]
+        "time": "1999-08-01T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -387,11 +589,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Fairchild Tropical Garden",
+        "qid": "Q1923740",
+        "time": "1999-09-03T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2737,
+          25.6787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Botanic Gardens, University of Bonn",
         "qid": "Q152171",
-        "times": [
-          "2000-07-07T04:00:00.000Z"
-        ]
+        "time": "2000-07-07T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -404,14 +619,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Atlanta Botanical Garden",
+        "qid": "Q2028223",
+        "time": "2000-06-12T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37172,
+          33.7926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Fullerton Arboretum, California State University, Fullerton",
         "qid": "Q5508289",
-        "times": [
-          "2000-06-13T04:00:00.000Z",
-          "2003-05-23T04:00:00.000Z",
-          "2006-06-05T04:00:00.000Z",
-          "2017-05-15T04:00:00.000Z"
-        ]
+        "time": "2000-06-13T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -424,17 +649,54 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "University of Washington, Seattle",
+        "qid": "Q219563",
+        "time": "2001-05-07T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308055555,
+          47.654166666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Fairchild Tropical Garden",
+        "qid": "Q1923740",
+        "time": "2001-05-15T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2737,
+          25.6787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Marie Selby Botanical Gardens",
+        "qid": "Q6763018",
+        "time": "2001-05-01T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.540278,
+          27.327778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "University of Wisconsin–Madison",
         "qid": "Q838330",
-        "times": [
-          "2001-06-07T04:00:00.000Z",
-          "2002-07-31T04:00:00.000Z",
-          "2004-08-04T04:00:00.000Z",
-          "2005-06-09T04:00:00.000Z",
-          "2005-06-28T04:00:00.000Z",
-          "2010-09-21T04:00:00.000Z",
-          "2013-08-01T04:00:00.000Z"
-        ]
+        "time": "2001-06-07T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -447,13 +709,39 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "University of Missouri-St. Louis, United States",
+        "qid": "Q6884925",
+        "time": "2001-06-20T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3288,
+          38.9453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Fairchild Tropical Garden",
+        "qid": "Q1923740",
+        "time": "2001-06-27T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2737,
+          25.6787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Giardino dei Semplici, Florence, Italy",
         "qid": "Q1875558",
-        "times": [
-          "1905-06-24T05:00:00.000Z",
-          "2007-08-14T04:00:00.000Z",
-          "2007-10-04T04:00:00.000Z"
-        ]
+        "time": "1905-06-24T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -466,12 +754,99 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Royal Botanic Gardens, Kew",
+        "qid": "Q18748726",
+        "time": "2002-05-01T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.295611111,
+          51.478694444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Washington, Seattle",
+        "qid": "Q219563",
+        "time": "2002-05-29T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308055555,
+          47.654166666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Royal Botanic Gardens, Kew",
+        "qid": "Q18748726",
+        "time": "2002-06-01T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.295611111,
+          51.478694444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Royal Botanic Gardens, Kew",
+        "qid": "Q18748726",
+        "time": "2002-06-20T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.295611111,
+          51.478694444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Wisconsin–Madison",
+        "qid": "Q838330",
+        "time": "2002-07-31T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40972222,
+          43.07527778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "The Huntington Library, Art Collections, and Botanical Gardens, San Marino, CA",
+        "qid": "Q1400558",
+        "time": "2002-08-07T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11,
+          34.12722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "University of California-Santa Barbara",
         "qid": "Q263064",
-        "times": [
-          "2002-08-15T04:00:00.000Z",
-          "2013-07-30T04:00:00.000Z"
-        ]
+        "time": "2002-08-15T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -484,14 +859,54 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Fairchild Tropical Botanic Garden",
+        "qid": "Q1923740",
+        "time": "2003-05-12T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2737,
+          25.6787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Botanic Garden, Bonn, Germany",
+        "qid": "Q163255",
+        "time": "2003-05-22T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3036,
+          52.455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Fullerton Arboretum, California State University, Fullerton",
+        "qid": "Q5508289",
+        "time": "2003-05-23T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.883,
+          33.8872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "UC Davis Botanical Conservatory, University of California, Davis",
         "qid": "Q129421",
-        "times": [
-          "2003-06-09T04:00:00.000Z",
-          "2004-08-13T04:00:00.000Z",
-          "2007-05-07T04:00:00.000Z",
-          "2011-06-23T04:00:00.000Z"
-        ]
+        "time": "2003-06-09T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -504,12 +919,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Royal Botanic Gardens, Kew, London",
+        "qid": "Q18748726",
+        "time": "2003-06-10T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.295611111,
+          51.478694444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Le Conservatoire Botanique, Brest",
         "qid": "Q2994486",
-        "times": [
-          "2003-07-12T04:00:00.000Z",
-          "2009-06-28T04:00:00.000Z"
-        ]
+        "time": "2003-07-12T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -524,18 +951,7 @@
       "properties": {
         "label": "United States Botanic Garden, Washington, DC",
         "qid": "Q1848855",
-        "times": [
-          "2003-07-23T04:00:00.000Z",
-          "2005-11-19T05:00:00.000Z",
-          "2007-07-02T04:00:00.000Z",
-          "2013-07-21T04:00:00.000Z",
-          "2016-08-01T04:00:00.000Z",
-          "2017-08-19T04:00:00.000Z",
-          "2017-08-21T04:00:00.000Z",
-          "2017-08-28T04:00:00.000Z",
-          "2020-09-09T04:00:00.000Z",
-          "2020-09-09T04:00:00.000Z"
-        ]
+        "time": "2003-07-23T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -550,15 +966,7 @@
       "properties": {
         "label": "University of Connecticut, Storrs, CT",
         "qid": "Q49206",
-        "times": [
-          "2004-06-06T04:00:00.000Z",
-          "2007-05-12T04:00:00.000Z",
-          "2007-06-01T04:00:00.000Z",
-          "2008-07-08T04:00:00.000Z",
-          "2011-06-16T04:00:00.000Z",
-          "2012-06-16T04:00:00.000Z",
-          "2013-07-13T04:00:00.000Z"
-        ]
+        "time": "2004-06-06T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -573,9 +981,7 @@
       "properties": {
         "label": "Mast Arboretum, Stephen F. Austin State University, Nacogdoches, Texas",
         "qid": "Q6784868",
-        "times": [
-          "2004-07-24T04:00:00.000Z"
-        ]
+        "time": "2004-07-24T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -590,11 +996,7 @@
       "properties": {
         "label": "Virginia Tech Horticulture Garden, Virginia Tech, Blacksburg, Virginia",
         "qid": "Q5638880",
-        "times": [
-          "2004-08-04T04:00:00.000Z",
-          "2006-08-05T04:00:00.000Z",
-          "2015-08-28T04:00:00.000Z"
-        ]
+        "time": "2004-08-04T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -607,13 +1009,39 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "University of Wisconsin–Madison",
+        "qid": "Q838330",
+        "time": "2004-08-04T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40972222,
+          43.07527778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "UC Davis Botanical Conservatory, University of California, Davis",
+        "qid": "Q129421",
+        "time": "2004-08-13T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75,
+          38.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Cambridge University Botanic Garden, University of Cambridge",
         "qid": "Q894665",
-        "times": [
-          "2004-09-02T04:00:00.000Z",
-          "2015-07-18T04:00:00.000Z",
-          "2017-06-26T04:00:00.000Z"
-        ]
+        "time": "2004-09-02T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -628,10 +1056,7 @@
       "properties": {
         "label": "Royal Botanical Gardens, Sydney, Australia",
         "qid": "Q54489",
-        "times": [
-          "2004-10-07T04:00:00.000Z",
-          "2006-11-02T05:00:00.000Z"
-        ]
+        "time": "2004-10-07T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -646,15 +1071,7 @@
       "properties": {
         "label": "Eden Project, St Austell, UK",
         "qid": "Q596642",
-        "times": [
-          "2005-04-11T04:00:00.000Z",
-          "2007-02-01T05:00:00.000Z",
-          "2011-06-03T04:00:00.000Z",
-          "2011-06-08T04:00:00.000Z",
-          "2012-06-06T04:00:00.000Z",
-          "2015-07-01T04:00:00.000Z",
-          "2016-05-01T04:00:00.000Z"
-        ]
+        "time": "2005-04-11T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -667,13 +1084,39 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Royal Botanic Gardens, Kew, London",
+        "qid": "Q18748726",
+        "time": "2005-04-21T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.295611111,
+          51.478694444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Fairchild Tropical Botanic Garden",
+        "qid": "Q1923740",
+        "time": "2005-05-14T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2737,
+          25.6787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "San Francisco Conservatory of Flowers",
         "qid": "Q5163145",
-        "times": [
-          "2005-05-30T04:00:00.000Z",
-          "2017-06-15T04:00:00.000Z",
-          "2020-08-17T04:00:00.000Z"
-        ]
+        "time": "2005-05-30T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -686,13 +1129,54 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "University of Wisconsin–Madison",
+        "qid": "Q838330",
+        "time": "2005-06-09T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40972222,
+          43.07527778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Royal Botanic Gardens, Kew, London",
+        "qid": "Q18748726",
+        "time": "2005-06-18T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.295611111,
+          51.478694444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Wisconsin–Madison",
+        "qid": "Q838330",
+        "time": "2005-06-28T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40972222,
+          43.07527778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Volunteer Park Conservatory, Seattle",
         "qid": "Q7941038",
-        "times": [
-          "2005-06-29T04:00:00.000Z",
-          "2006-08-15T04:00:00.000Z",
-          "2008-07-28T04:00:00.000Z"
-        ]
+        "time": "2005-06-29T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -707,9 +1191,7 @@
       "properties": {
         "label": "Myriad Botanical Gardens, Oklahoma City, Oklahoma",
         "qid": "Q14708625",
-        "times": [
-          "2005-06-29T04:00:00.000Z"
-        ]
+        "time": "2005-06-29T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -724,14 +1206,7 @@
       "properties": {
         "label": "University of California Botanical Garden, University of California, Berkeley",
         "qid": "Q5796845",
-        "times": [
-          "2005-07-14T04:00:00.000Z",
-          "2007-08-07T04:00:00.000Z",
-          "2009-06-22T04:00:00.000Z",
-          "2010-06-29T04:00:00.000Z",
-          "2015-07-25T04:00:00.000Z",
-          "2017-10-25T04:00:00.000Z"
-        ]
+        "time": "2005-07-14T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -746,9 +1221,7 @@
       "properties": {
         "label": "Botanic Garden, Gothenburg, Sweden",
         "qid": "Q956772",
-        "times": [
-          "2005-07-14T04:00:00.000Z"
-        ]
+        "time": "2005-07-14T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -763,10 +1236,7 @@
       "properties": {
         "label": "The Botanic Garden of Smith College, Northampton, MA",
         "qid": "Q7719467",
-        "times": [
-          "2005-08-13T04:00:00.000Z",
-          "2008-07-20T04:00:00.000Z"
-        ]
+        "time": "2005-08-13T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -781,9 +1251,7 @@
       "properties": {
         "label": "Stuttgart Zoological and Botanic Garden, Wilhelma, Stuttgart, Germany",
         "qid": "Q679067",
-        "times": [
-          "2005-10-20T04:00:00.000Z"
-        ]
+        "time": "2005-10-20T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -796,11 +1264,69 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "United States Botanic Garden, Washington, DC",
+        "qid": "Q1848855",
+        "time": "2005-11-19T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.013,
+          38.888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Botanic Garden, Bonn, Germany",
+        "qid": "Q163255",
+        "time": "2006-05-13T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3036,
+          52.455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Fullerton Arboretum, California State University, Fullerton",
+        "qid": "Q5508289",
+        "time": "2006-06-05T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.883,
+          33.8872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Virginia Tech Biological Sciences Greenhouse, Blacksburg, VA",
+        "qid": "Q5638880",
+        "time": "2006-08-05T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4243,
+          37.2194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Brooklyn Botanic Garden, Brooklyn, New York",
         "qid": "Q1360424",
-        "times": [
-          "2006-08-07T04:00:00.000Z"
-        ]
+        "time": "2006-08-07T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -813,11 +1339,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Volunteer Park Conservatory, Seattle, WA",
+        "qid": "Q7941038",
+        "time": "2006-08-15T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315,
+          47.632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Laconia NH Lakeport Fire Station, Laconia, NH",
         "qid": "Q993431",
-        "times": [
-          "2006-08-21T04:00:00.000Z"
-        ]
+        "time": "2006-08-21T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -830,13 +1369,54 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Royal Botanical Gardens, Sydney, Australia",
+        "qid": "Q54489",
+        "time": "2006-11-02T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2175,
+          -33.862222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Eden Project, Cornwall",
+        "qid": "Q596642",
+        "time": "2007-02-01T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.744722222,
+          50.361944444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Royal Botanic Gardens, Kew",
+        "qid": "Q18748726",
+        "time": "2007-04-22T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.295611111,
+          51.478694444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Gustavus Adolphus College, Saint Peter, Minnesota",
         "qid": "Q5621541",
-        "times": [
-          "2007-05-03T04:00:00.000Z",
-          "2010-07-24T04:00:00.000Z",
-          "2013-10-31T04:00:00.000Z"
-        ]
+        "time": "2007-05-03T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -849,13 +1429,54 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Botanical Conservatory at the University of California, Davis",
+        "qid": "Q129421",
+        "time": "2007-05-07T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75,
+          38.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Connecticut, Storrs, CT",
+        "qid": "Q49206",
+        "time": "2007-05-12T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2525,
+          41.807166666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Connecticut, Storrs, CT",
+        "qid": "Q49206",
+        "time": "2007-06-01T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2525,
+          41.807166666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "UNC Charlotte Botanical Gardens, Charlotte, North Carolina",
         "qid": "Q7895949",
-        "times": [
-          "2007-07-01T04:00:00.000Z",
-          "2010-06-22T04:00:00.000Z",
-          "2015-07-17T04:00:00.000Z"
-        ]
+        "time": "2007-07-01T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -868,12 +1489,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "United States Botanic Garden, Washington, DC",
+        "qid": "Q1848855",
+        "time": "2007-07-02T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.013,
+          38.888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Cleveland Metroparks Zoo, Cleveland, OH",
         "qid": "Q2978998",
-        "times": [
-          "2007-07-23T04:00:00.000Z",
-          "2010-05-15T04:00:00.000Z"
-        ]
+        "time": "2007-07-23T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -886,12 +1519,54 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "University of California Botanical Garden, Berkeley, CA",
+        "qid": "Q5796845",
+        "time": "2007-08-07T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.239,
+          37.8752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Giardino dei Semplici, Florence",
+        "qid": "Q1875558",
+        "time": "2007-08-14T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.261745,
+          43.779411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Giardino dei Semplici, Florence",
+        "qid": "Q1875558",
+        "time": "2007-10-04T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.261745,
+          43.779411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Como Park Conservatory, St. Paul, MN",
         "qid": "Q5155139",
-        "times": [
-          "2008-04-10T04:00:00.000Z",
-          "2011-06-28T04:00:00.000Z"
-        ]
+        "time": "2008-04-10T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -906,14 +1581,7 @@
       "properties": {
         "label": "Eastern Illinois University, Charleston, Illinois",
         "qid": "Q624985",
-        "times": [
-          "2008-06-21T04:00:00.000Z",
-          "2010-06-09T04:00:00.000Z",
-          "2012-07-01T04:00:00.000Z",
-          "2014-07-11T04:00:00.000Z",
-          "2016-06-29T04:00:00.000Z",
-          "2018-07-02T04:00:00.000Z"
-        ]
+        "time": "2008-06-21T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -926,16 +1594,69 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "University of Connecticut, Storrs, CT",
+        "qid": "Q49206",
+        "time": "2008-07-08T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2525,
+          41.807166666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "The Botanic Garden of Smith College, Northampton, MA",
+        "qid": "Q7719467",
+        "time": "2008-07-20T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6401,
+          42.3189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Volunteer Park Conservatory, Seattle",
+        "qid": "Q7941038",
+        "time": "2008-07-28T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315,
+          47.632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "National Botanic Garden of Belgium, Meise, Belgium",
         "qid": "Q3052500",
-        "times": [
-          "2008-08-05T04:00:00.000Z",
-          "2008-09-06T04:00:00.000Z",
-          "2011-03-15T04:00:00.000Z",
-          "2016-07-19T04:00:00.000Z",
-          "2016-07-27T04:00:00.000Z",
-          "2017-04-11T04:00:00.000Z"
+        "time": "2008-08-05T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.328055555,
+          50.929722222
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "National Botanic Garden of Belgium, Meise, Belgium",
+        "qid": "Q3052500",
+        "time": "2008-09-06T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -950,10 +1671,7 @@
       "properties": {
         "label": "Milwaukee Public Museum, Milwaukee, Wisconsin",
         "qid": "Q6861802",
-        "times": [
-          "2008-11-10T05:00:00.000Z",
-          "2010-01-15T05:00:00.000Z"
-        ]
+        "time": "2008-11-10T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -966,14 +1684,84 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Royal Botanic Gardens, Kew",
+        "qid": "Q18748726",
+        "time": "2009-05-01T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.295611111,
+          51.478694444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Missouri–St. Louis",
+        "qid": "Q6884925",
+        "time": "2009-06-07T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3288,
+          38.9453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "The Huntington Library, Art Collections, and Botanical Gardens",
+        "qid": "Q1400558",
+        "time": "2009-06-17T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11,
+          34.12722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of California Botanical Garden, University of California, Berkeley",
+        "qid": "Q5796845",
+        "time": "2009-06-22T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.239,
+          37.8752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Le Conservatoire Botanique, Brest",
+        "qid": "Q2994486",
+        "time": "2009-06-28T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4473,
+          48.4021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Olbrich Botanical Gardens, Madison, Wisconsin",
         "qid": "Q9010914",
-        "times": [
-          "2009-10-28T04:00:00.000Z",
-          "2015-08-29T04:00:00.000Z",
-          "2016-08-28T04:00:00.000Z",
-          "2018-06-14T04:00:00.000Z"
-        ]
+        "time": "2009-10-28T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -986,11 +1774,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Milwaukee Public Museum, Milwaukee, Wisconsin",
+        "qid": "Q6861802",
+        "time": "2010-01-15T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.92152,
+          43.040779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Nathanael Greene Park, Friends of the Garden, Springfield, Missouri",
         "qid": "Q135615",
-        "times": [
-          "2010-03-01T05:00:00.000Z"
-        ]
+        "time": "2010-03-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1005,9 +1806,7 @@
       "properties": {
         "label": "Western Illinois University, Macomb, IL",
         "qid": "Q1474005",
-        "times": [
-          "2010-05-02T04:00:00.000Z"
-        ]
+        "time": "2010-05-02T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1020,11 +1819,54 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Cleveland Metroparks Zoo, Cleveland, OH",
+        "qid": "Q2978998",
+        "time": "2010-05-15T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.712,
+          41.447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "The Huntington Library, Art Collections, and Botanical Gardens",
+        "qid": "Q1400558",
+        "time": "2010-06-04T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11,
+          34.12722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Eastern Illinois University, Charleston, IL",
+        "qid": "Q624985",
+        "time": "2010-06-09T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.175277777,
+          39.484444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Horticultural Gardens, Michigan State University, East Lansing, MI",
         "qid": "Q270222",
-        "times": [
-          "2010-06-10T04:00:00.000Z"
-        ]
+        "time": "2010-06-10T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1037,11 +1879,39 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "UNC Charlotte Botanical Gardens, Charlotte, North Carolina",
+        "qid": "Q7895949",
+        "time": "2010-06-22T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7285,
+          35.308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of California Botanical Garden, Berkeley, CA",
+        "qid": "Q5796845",
+        "time": "2010-06-29T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.239,
+          37.8752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Harvard University, Cambridge, MA",
         "qid": "Q13371",
-        "times": [
-          "2010-07-11T04:00:00.000Z"
-        ]
+        "time": "2010-07-11T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1056,9 +1926,7 @@
       "properties": {
         "label": "Houston Museum of Natural Science, Houston, TX",
         "qid": "Q16555",
-        "times": [
-          "2010-07-22T04:00:00.000Z"
-        ]
+        "time": "2010-07-22T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1071,12 +1939,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Gustavus Adolphus College, Saint Peter, Minnesota",
+        "qid": "Q5621541",
+        "time": "2010-07-24T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9717,
+          44.3236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Binghamton University, Binghamton, New York",
         "qid": "Q863813",
-        "times": [
-          "2010-09-14T04:00:00.000Z",
-          "2013-06-20T04:00:00.000Z"
-        ]
+        "time": "2010-09-14T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1089,13 +1969,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "University of Wisconsin–Madison",
+        "qid": "Q838330",
+        "time": "2010-09-21T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40972222,
+          43.07527778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "University of Wisconsin–River Falls",
         "qid": "Q2687532",
-        "times": [
-          "2010-10-11T04:00:00.000Z",
-          "2013-08-19T04:00:00.000Z",
-          "2016-09-09T04:00:00.000Z"
-        ]
+        "time": "2010-10-11T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1110,10 +2001,7 @@
       "properties": {
         "label": "Instituto Inhotim, Brumadinho, Minas Gerais, Brazil",
         "qid": "Q478245",
-        "times": [
-          "2010-12-17T05:00:00.000Z",
-          "2012-12-27T05:00:00.000Z"
-        ]
+        "time": "2010-12-17T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1128,9 +2016,7 @@
       "properties": {
         "label": "Flecker Botanic Gardens, Cairns, Queensland, Australia",
         "qid": "Q24190463",
-        "times": [
-          "2011-01-25T05:00:00.000Z"
-        ]
+        "time": "2011-01-25T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1143,13 +2029,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "National Botanic Garden of Belgium",
+        "qid": "Q3052500",
+        "time": "2011-03-15T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.328055555,
+          50.929722222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Botanical Garden of the University of Basel, Basel, Switzerland",
         "qid": "Q372608",
-        "times": [
-          "2011-04-22T04:00:00.000Z",
-          "2012-11-19T05:00:00.000Z",
-          "2014-09-28T04:00:00.000Z"
-        ]
+        "time": "2011-04-22T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1164,12 +2061,7 @@
       "properties": {
         "label": "Ohio State University, Columbus, Ohio",
         "qid": "Q309331",
-        "times": [
-          "2011-04-23T04:00:00.000Z",
-          "2012-05-25T04:00:00.000Z",
-          "2013-05-14T04:00:00.000Z",
-          "2013-05-24T04:00:00.000Z"
-        ]
+        "time": "2011-04-23T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1184,9 +2076,7 @@
       "properties": {
         "label": "Pana'ewa Rainforest Zoo, Hilo, Hawaiʻi",
         "qid": "Q7129731",
-        "times": [
-          "2011-04-24T04:00:00.000Z"
-        ]
+        "time": "2011-04-24T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1199,12 +2089,159 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "University of Missouri–St. Louis",
+        "qid": "Q6884925",
+        "time": "2011-05-12T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3288,
+          38.9453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Bergianska trädgården, Stockholm, Sweden",
+        "qid": "Q819811",
+        "time": "2011-05-18T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.046111111,
+          59.369722222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Missouri–St. Louis",
+        "qid": "Q6884925",
+        "time": "2011-05-19T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3288,
+          38.9453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Eden Project, Cornwall",
+        "qid": "Q596642",
+        "time": "2011-06-03T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.744722222,
+          50.361944444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Eden Project, Cornwall",
+        "qid": "Q596642",
+        "time": "2011-06-08T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.744722222,
+          50.361944444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Washington, Seattle",
+        "qid": "Q219563",
+        "time": "2011-06-08T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308055555,
+          47.654166666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Missouri–St. Louis",
+        "qid": "Q6884925",
+        "time": "2011-06-12T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3288,
+          38.9453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Connecticut, Storrs, CT",
+        "qid": "Q49206",
+        "time": "2011-06-16T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2525,
+          41.807166666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Botanical Conservatory at the University of California, Davis",
+        "qid": "Q129421",
+        "time": "2011-06-23T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75,
+          38.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Como Park Conservatory, St. Paul, MN",
+        "qid": "Q5155139",
+        "time": "2011-06-28T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1508,
+          44.9814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Murdough Greenhouse, Biology Dept, Dartmouth College, Hanover, NH",
         "qid": "Q49116",
-        "times": [
-          "2011-07-04T04:00:00.000Z",
-          "2016-09-23T04:00:00.000Z"
-        ]
+        "time": "2011-07-04T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1219,9 +2256,7 @@
       "properties": {
         "label": "University of Illinois, Urbana, IL",
         "qid": "Q457281",
-        "times": [
-          "2011-07-15T04:00:00.000Z"
-        ]
+        "time": "2011-07-15T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1236,9 +2271,7 @@
       "properties": {
         "label": "Roseville High School, Roseville, CA",
         "qid": "Q7368732",
-        "times": [
-          "2011-07-23T04:00:00.000Z"
-        ]
+        "time": "2011-07-23T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1253,11 +2286,7 @@
       "properties": {
         "label": "Cornell University, Ithaca, NY",
         "qid": "Q49115",
-        "times": [
-          "2012-03-18T04:00:00.000Z",
-          "2014-11-19T05:00:00.000Z",
-          "2017-08-07T04:00:00.000Z"
-        ]
+        "time": "2012-03-18T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1272,11 +2301,7 @@
       "properties": {
         "label": "Missouri Botanical Garden, Saint Louis, Missouri",
         "qid": "Q1852803",
-        "times": [
-          "2012-05-19T04:00:00.000Z",
-          "2012-06-19T04:00:00.000Z",
-          "2017-07-10T04:00:00.000Z"
-        ]
+        "time": "2012-05-19T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1289,11 +2314,54 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "The Ohio State University, Columbus, Ohio",
+        "qid": "Q309331",
+        "time": "2012-05-25T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0125,
+          40
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Eden Project, Cornwall",
+        "qid": "Q596642",
+        "time": "2012-06-06T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.744722222,
+          50.361944444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Marie Selby Botanical Gardens",
+        "qid": "Q6763018",
+        "time": "2012-06-09T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.540278,
+          27.327778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Moody Gardens, Galveston, Texas",
         "qid": "Q6907207",
-        "times": [
-          "2012-06-14T04:00:00.000Z"
-        ]
+        "time": "2012-06-14T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1306,11 +2374,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "University of Connecticut",
+        "qid": "Q49206",
+        "time": "2012-06-16T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2525,
+          41.807166666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Franklin Park Zoo, Boston, Massachusetts",
         "qid": "Q5491738",
-        "times": [
-          "2012-06-19T04:00:00.000Z"
-        ]
+        "time": "2012-06-19T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1323,12 +2404,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Missouri Botanical Garden, Saint Louis, Missouri",
+        "qid": "Q1852803",
+        "time": "2012-06-19T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2589,
+          38.6141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "University of Copenhagen Botanical Garden, Copenhagen, Denmark",
         "qid": "Q892711",
-        "times": [
-          "2012-06-21T04:00:00.000Z",
-          "2014-07-11T04:00:00.000Z"
-        ]
+        "time": "2012-06-21T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1341,13 +2434,69 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Eastern Illinois University, Charleston, IL",
+        "qid": "Q624985",
+        "time": "2012-07-01T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.175277777,
+          39.484444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Botanical Garden of the University of Basel, Basel, Switzerland",
+        "qid": "Q372608",
+        "time": "2012-11-19T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.583333333,
+          47.558611111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Royal Botanic Gardens, Melbourne, Australia",
         "qid": "Q7373836",
-        "times": [
-          "2012-12-25T05:00:00.000Z",
-          "2013-01-04T05:00:00.000Z",
-          "2015-03-14T04:00:00.000Z"
+        "time": "2012-12-25T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97961,
+          -37.83036
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Instituto Inhotim, Brumadinho, Minas Gerais, Brazil",
+        "qid": "Q478245",
+        "time": "2012-12-27T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.218785,
+          -20.124128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Royal Botanic Gardens, Melbourne, Australia",
+        "qid": "Q7373836",
+        "time": "2013-01-04T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1362,9 +2511,7 @@
       "properties": {
         "label": "Miami University, Oxford, Ohio, United States.",
         "qid": "Q590643",
-        "times": [
-          "2013-04-09T04:00:00.000Z"
-        ]
+        "time": "2013-04-09T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1379,11 +2526,7 @@
       "properties": {
         "label": "Muttart Conservatory, Edmonton, Alberta, Canada.",
         "qid": "Q6944087",
-        "times": [
-          "2013-04-21T04:00:00.000Z",
-          "2015-04-07T04:00:00.000Z",
-          "2017-04-29T04:00:00.000Z"
-        ]
+        "time": "2013-04-21T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1396,11 +2539,39 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "The Ohio State University, Columbus, Ohio",
+        "qid": "Q309331",
+        "time": "2013-05-14T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0125,
+          40
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "The Ohio State University, Columbus, Ohio",
+        "qid": "Q309331",
+        "time": "2013-05-24T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0125,
+          40
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "California State University Chico, Chico, California",
         "qid": "Q1026912",
-        "times": [
-          "2013-06-19T04:00:00.000Z"
-        ]
+        "time": "2013-06-19T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1413,11 +2584,114 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Binghamton University, Binghamton, New York",
+        "qid": "Q863813",
+        "time": "2013-06-20T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.96989,
+          42.08925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Botanic Garden, Bonn, Germany",
+        "qid": "Q163255",
+        "time": "2013-06-21T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3036,
+          52.455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Bergianska trädgården, Stockholm, Sweden",
+        "qid": "Q819811",
+        "time": "2013-07-10T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.046111111,
+          59.369722222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Connecticut",
+        "qid": "Q49206",
+        "time": "2013-07-13T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2525,
+          41.807166666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "United States Botanic Garden, Washington, DC",
+        "qid": "Q1848855",
+        "time": "2013-07-21T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.013,
+          38.888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of California-Santa Barbara",
+        "qid": "Q263064",
+        "time": "2013-07-30T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.84813,
+          34.41254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Wisconsin, Madison, Madison, Wisconsin",
+        "qid": "Q838330",
+        "time": "2013-08-01T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40972222,
+          43.07527778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Phipps Conservatory, Pittsburgh, Pennsylvania",
         "qid": "Q7186407",
-        "times": [
-          "2013-08-08T04:00:00.000Z"
-        ]
+        "time": "2013-08-08T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1430,11 +2704,39 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "University of Wisconsin–River Falls",
+        "qid": "Q2687532",
+        "time": "2013-08-19T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6225,
+          44.8534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Gustavus Adolphus College",
+        "qid": "Q5621541",
+        "time": "2013-10-31T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9717,
+          44.3236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Domain Wintergardens, Auckland",
         "qid": "Q15214556",
-        "times": [
-          "2013-12-01T05:00:00.000Z"
-        ]
+        "time": "2013-12-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1449,11 +2751,22 @@
       "properties": {
         "label": "University of Mississippi, School of Pharmacy",
         "qid": "Q1138384",
-        "times": [
-          "2014-05-13T04:00:00.000Z",
-          "2014-06-11T04:00:00.000Z",
-          "2018-06-16T04:00:00.000Z"
+        "time": "2014-05-13T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5368,
+          34.3663
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Mississippi, School of Pharmacy",
+        "qid": "Q1138384",
+        "time": "2014-06-11T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1468,11 +2781,7 @@
       "properties": {
         "label": "Orange Coast College, Costa Mesa, California, OCC Horticulture Garden",
         "qid": "Q7099536",
-        "times": [
-          "2014-06-24T04:00:00.000Z",
-          "2017-06-29T04:00:00.000Z",
-          "2019-08-15T04:00:00.000Z"
-        ]
+        "time": "2014-06-24T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1487,9 +2796,7 @@
       "properties": {
         "label": "Jardin des plantes de Nantes, France",
         "qid": "Q3162566",
-        "times": [
-          "2014-06-29T04:00:00.000Z"
-        ]
+        "time": "2014-06-29T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1502,11 +2809,39 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Eastern Illinois University, Charleston, IL",
+        "qid": "Q624985",
+        "time": "2014-07-11T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.175277777,
+          39.484444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Copenhagen Botanical Garden, Copenhagen, Denmark",
+        "qid": "Q892711",
+        "time": "2014-07-11T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.573888888,
+          55.686944444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Royal Gardens of Herrenhausen, Hannover, Germany",
         "qid": "Q574773",
-        "times": [
-          "2014-07-16T04:00:00.000Z"
-        ]
+        "time": "2014-07-16T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1521,9 +2856,7 @@
       "properties": {
         "label": "Buffalo and Erie County Botanical Gardens, Buffalo, New York",
         "qid": "Q4985906",
-        "times": [
-          null
-        ]
+        "time": "2014-08-08T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1536,13 +2869,54 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Huntington Library, San Marino, California",
+        "qid": "Q1400558",
+        "time": "2014-08-24T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11,
+          34.12722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Botanical Garden of the University of Basel, Basel, Switzerland",
+        "qid": "Q372608",
+        "time": "2014-09-28T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.583333333,
+          47.558611111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Cornell University, Ithaca, NY",
+        "qid": "Q49115",
+        "time": "2014-11-19T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.483055555,
+          42.447222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "McMaster University, Hamilton, Ontario, Canada",
         "qid": "Q632891",
-        "times": [
-          "2015-01-05T05:00:00.000Z",
-          "2015-05-31T04:00:00.000Z",
-          "2017-04-20T04:00:00.000Z"
-        ]
+        "time": "2015-01-05T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1555,12 +2929,39 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Royal Botanic Gardens, Melbourne, Australia",
+        "qid": "Q7373836",
+        "time": "2015-03-14T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97961,
+          -37.83036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Muttart Conservatory, Edmonton, Alberta, Canada.",
+        "qid": "Q6944087",
+        "time": "2015-04-07T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.477,
+          53.5352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Rollins College Hauck Greenhouse, Winter Park, Florida",
         "qid": "Q2164222",
-        "times": [
-          "2015-04-20T04:00:00.000Z",
-          "2016-05-05T04:00:00.000Z"
-        ]
+        "time": "2015-04-20T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1573,13 +2974,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "McMaster University, Hamilton, Ontario, Canada",
+        "qid": "Q632891",
+        "time": "2015-05-31T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.918888888,
+          43.263333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "California State University, Long Beach, Long Beach, CA",
         "qid": "Q1026926",
-        "times": [
-          "2015-06-16T04:00:00.000Z",
-          "2019-06-02T04:00:00.000Z",
-          "2019-07-09T04:00:00.000Z"
-        ]
+        "time": "2015-06-16T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1594,9 +3006,7 @@
       "properties": {
         "label": "Paignton Zoo, England",
         "qid": "Q3082339",
-        "times": [
-          "2015-06-26T04:00:00.000Z"
-        ]
+        "time": "2015-06-26T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1611,10 +3021,7 @@
       "properties": {
         "label": "Royal Botanic Garden, Edinburgh, Scotland",
         "qid": "Q1807521",
-        "times": [
-          "2015-06-27T04:00:00.000Z",
-          "2017-08-01T04:00:00.000Z"
-        ]
+        "time": "2015-06-27T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1629,9 +3036,7 @@
       "properties": {
         "label": "Botanical Garden of the Ghent University, Ghent, Belgium",
         "qid": "Q1137665",
-        "times": [
-          "2015-07-09T04:00:00.000Z"
-        ]
+        "time": "2015-07-09T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1646,9 +3051,7 @@
       "properties": {
         "label": "Daniel Stowe Botanical Garden, Belmont, NC",
         "qid": "Q5218854",
-        "times": [
-          "2015-07-15T04:00:00.000Z"
-        ]
+        "time": "2015-07-15T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1661,11 +3064,69 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "University of North Carolina - Charlotte",
+        "qid": "Q7895949",
+        "time": "2015-07-17T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7285,
+          35.308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Cambridge University Botanic Garden, University of Cambridge",
+        "qid": "Q894665",
+        "time": "2015-07-18T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12789,
+          52.1938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Eden Project, Cornwall",
+        "qid": "Q596642",
+        "time": "2015-07-01T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.744722222,
+          50.361944444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of California Botanical Garden, Berkeley",
+        "qid": "Q5796845",
+        "time": "2015-07-25T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.239,
+          37.8752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Jindai Botanical Gardens, Japan",
         "qid": "Q606827",
-        "times": [
-          "2015-07-25T04:00:00.000Z"
-        ]
+        "time": "2015-07-25T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1680,10 +3141,7 @@
       "properties": {
         "label": "Denver Botanic Gardens, Denver, Colorado, US",
         "qid": "Q3003810",
-        "times": [
-          "2015-08-18T04:00:00.000Z",
-          "2016-08-06T04:00:00.000Z"
-        ]
+        "time": "2015-08-18T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1696,16 +3154,39 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Virginia Tech Horticulture Greenhouses, Virginia Tech, Blacksburg, Virginia",
+        "qid": "Q5638880",
+        "time": "2015-08-28T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4243,
+          37.2194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Olbrich Botanical Gardens, Madison, Wisconsin",
+        "qid": "Q9010914",
+        "time": "2015-08-29T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.335,
+          43.0925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Chicago Botanic Garden, Chicago, Illinois, US",
         "qid": "Q2919730",
-        "times": [
-          "2015-09-29T04:00:00.000Z",
-          "2016-04-26T04:00:00.000Z",
-          "2017-05-30T04:00:00.000Z",
-          "2017-06-01T04:00:00.000Z",
-          "2017-08-20T04:00:00.000Z",
-          "2019-05-25T04:00:00.000Z"
-        ]
+        "time": "2015-09-29T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1720,9 +3201,7 @@
       "properties": {
         "label": "Mount Lofty Botanic Gardens, Adelaide, South Australia, Australia",
         "qid": "Q6921866",
-        "times": [
-          "2015-12-28T05:00:00.000Z"
-        ]
+        "time": "2015-12-28T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1737,10 +3216,7 @@
       "properties": {
         "label": "Adelaide Botanic Gardens, Adelaide, South Australia, Australia",
         "qid": "Q4681683",
-        "times": [
-          "2016-02-01T05:00:00.000Z",
-          "2017-01-03T05:00:00.000Z"
-        ]
+        "time": "2016-02-01T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1753,12 +3229,204 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Chicago Botanical Garden, Chicago, IL",
+        "qid": "Q2919730",
+        "time": "2016-04-26T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.79,
+          42.148333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "The Eden Project, St Austell, Cornwall, United Kingdom",
+        "qid": "Q596642",
+        "time": "2016-05-01T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.744722222,
+          50.361944444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Rollins College, Florida, USA",
+        "qid": "Q2164222",
+        "time": "2016-05-05T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3484,
+          28.5915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Botanical Garden, Munich, Germany",
+        "qid": "Q707660",
+        "time": "2016-05-26T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5017,
+          48.1625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Eastern Illinois University, Charleston, IL",
+        "qid": "Q624985",
+        "time": "2016-06-29T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.175277777,
+          39.484444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Periya Gurukula Botanical Garden, Kerala, India",
+        "qid": "Q3052500",
+        "time": "2016-07-19T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.328055555,
+          50.929722222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Botanical Garden Meise",
+        "qid": "Q3052500",
+        "time": "2016-07-27T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.328055555,
+          50.929722222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "New York Botanical Garden, New York City",
+        "qid": "Q636275",
+        "time": "2016-07-28T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.878333,
+          40.863611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Marie Selby Botanical Gardens in Sarasota, Florida",
+        "qid": "Q6763018",
+        "time": "2016-08-01T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.540278,
+          27.327778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "United States Botanic Gardens in Washington, DC",
+        "qid": "Q1848855",
+        "time": "2016-08-01T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.013,
+          38.888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Denver Botanic Gardens, Denver, Colorado, US",
+        "qid": "Q3003810",
+        "time": "2016-08-06T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.960833,
+          39.7325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Olbrich Botanical Gardens, Madison, Wisconsin",
+        "qid": "Q9010914",
+        "time": "2016-08-28T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.335,
+          43.0925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Wisconsin–River Falls",
+        "qid": "Q2687532",
+        "time": "2016-09-09T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6225,
+          44.8534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "North Carolina State University",
         "qid": "Q1132346",
-        "times": [
-          "2016-09-22T04:00:00.000Z",
-          "2019-08-02T04:00:00.000Z"
-        ]
+        "time": "2016-09-22T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1771,11 +3439,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Dartmouth College in Hanover, NH",
+        "qid": "Q49116",
+        "time": "2016-09-23T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.288333333,
+          43.703333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Collectors Corner Garden World in Braeside, Victoria, Australia",
         "qid": "Q4955340",
-        "times": [
-          "2016-12-28T05:00:00.000Z"
-        ]
+        "time": "2016-12-28T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1788,11 +3469,84 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Adelaide Botanic Garden",
+        "qid": "Q4681683",
+        "time": "2017-01-03T05:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.611,
+          -34.9181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Botanical Garden Meise",
+        "qid": "Q3052500",
+        "time": "2017-04-11T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.328055555,
+          50.929722222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "McMaster University, Hamilton Ontario, Canada",
+        "qid": "Q632891",
+        "time": "2017-04-20T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.918888888,
+          43.263333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Muttart Conservatory, Edmonton Alberta, Canada",
+        "qid": "Q6944087",
+        "time": "2017-04-29T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.477,
+          53.5352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Fullerton Arboretum, Fullerton, California",
+        "qid": "Q5508289",
+        "time": "2017-05-15T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.883,
+          33.8872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Lauritzen Gardens, Omaha, Nebraska",
         "qid": "Q536819",
-        "times": [
-          "2017-05-28T04:00:00.000Z"
-        ]
+        "time": "2017-05-28T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1807,9 +3561,7 @@
       "properties": {
         "label": "Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, Xishuangbanna, China",
         "qid": "Q8044781",
-        "times": [
-          "2017-05-30T04:00:00.000Z"
-        ]
+        "time": "2017-05-30T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1822,11 +3574,69 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Chicago Botanic Garden",
+        "qid": "Q2919730",
+        "time": "2017-05-30T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.79,
+          42.148333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Chicago Botanic Garden",
+        "qid": "Q2919730",
+        "time": "2017-06-01T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.79,
+          42.148333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Conservatory of Flowers",
+        "qid": "Q5163145",
+        "time": "2017-06-15T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46,
+          37.772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Cambridge University Botanic Garden, University of Cambridge",
+        "qid": "Q894665",
+        "time": "2017-06-26T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12789,
+          52.1938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Kansas State University",
         "qid": "Q31249",
-        "times": [
-          "2017-06-27T04:00:00.000Z"
-        ]
+        "time": "2017-06-27T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1839,11 +3649,39 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Orange Coast College",
+        "qid": "Q7099536",
+        "time": "2017-06-29T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.911944444,
+          33.670555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Berlin-Dahlem Botanical Garden and Botanical Museum",
+        "qid": "Q163255",
+        "time": "2017-07-02T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3036,
+          52.455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Rumah Perubahan, Bekasi, West Java",
         "qid": "Q10392",
-        "times": [
-          "2017-07-03T04:00:00.000Z"
-        ]
+        "time": "2017-07-03T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1856,11 +3694,114 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Missouri Botanical Garden",
+        "qid": "Q1852803",
+        "time": "2017-07-10T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2589,
+          38.6141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Royal Botanic Garden Edinburgh",
+        "qid": "Q1807521",
+        "time": "2017-08-01T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.21,
+          55.965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Cornell University, Ithaca, NY",
+        "qid": "Q49115",
+        "time": "2017-08-07T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.483055555,
+          42.447222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "United States Botanic Garden",
+        "qid": "Q1848855",
+        "time": "2017-08-19T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.013,
+          38.888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Chicago Botanic Garden",
+        "qid": "Q2919730",
+        "time": "2017-08-20T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.79,
+          42.148333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "United States Botanic Garden",
+        "qid": "Q1848855",
+        "time": "2017-08-21T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.013,
+          38.888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "United States Botanic Garden",
+        "qid": "Q1848855",
+        "time": "2017-08-28T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.013,
+          38.888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "San Diego Botanic Garden",
         "qid": "Q7413603",
-        "times": [
-          "2017-09-18T04:00:00.000Z"
-        ]
+        "time": "2017-09-18T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1873,11 +3814,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "University of California Botanical Garden, Berkeley, CA",
+        "qid": "Q5796845",
+        "time": "2017-10-25T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.239,
+          37.8752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Cairns Botanic Gardens, Cairns, Australia",
         "qid": "Q5926479",
-        "times": [
-          "2018-01-29T05:00:00.000Z"
-        ]
+        "time": "2018-01-29T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1892,9 +3846,7 @@
       "properties": {
         "label": "Dunedin Botanic Gardens, Dunedin, New Zealand",
         "qid": "Q5314964",
-        "times": [
-          "2018-02-03T05:00:00.000Z"
-        ]
+        "time": "2018-02-03T05:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1909,9 +3861,7 @@
       "properties": {
         "label": "Tucson Botanical Gardens",
         "qid": "Q7851146",
-        "times": [
-          "2018-04-23T04:00:00.000Z"
-        ]
+        "time": "2018-04-23T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1924,11 +3874,54 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Olbrich Botanical Gardens, Madison, Wisconsin",
+        "qid": "Q9010914",
+        "time": "2018-06-14T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.335,
+          43.0925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "University of Mississippi, School of Pharmacy",
+        "qid": "Q1138384",
+        "time": "2018-06-16T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5368,
+          34.3663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Eastern Illinois University, Charleston, IL",
+        "qid": "Q624985",
+        "time": "2018-07-02T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.175277777,
+          39.484444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Plant Delights Nursery/Juniper Level Botanic Garden, Raleigh, NC",
         "qid": "Q41087",
-        "times": [
-          "2018-07-06T04:00:00.000Z"
-        ]
+        "time": "2018-07-06T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1943,9 +3936,7 @@
       "properties": {
         "label": "Frederik Meijer Gardens & Sculpture Park, Grand Rapids, MI",
         "qid": "Q2483537",
-        "times": [
-          "2018-07-12T04:00:00.000Z"
-        ]
+        "time": "2018-07-12T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1960,9 +3951,7 @@
       "properties": {
         "label": "Bloedel Conservatory, Vancouver, British Columbia, Canada",
         "qid": "Q4927320",
-        "times": [
-          "2018-07-15T04:00:00.000Z"
-        ]
+        "time": "2018-07-15T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1975,11 +3964,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Huntington Library, San Marino, California",
+        "qid": "Q1400558",
+        "time": "2018-08-01T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11,
+          34.12722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "California State University, Sacramento, Sacramento, California",
         "qid": "Q1026941",
-        "times": [
-          "2018-10-08T04:00:00.000Z"
-        ]
+        "time": "2018-10-08T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -1992,11 +3994,39 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Chicago Botanic Garden, Glencoe, Illinois",
+        "qid": "Q2919730",
+        "time": "2019-05-25T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.79,
+          42.148333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "California State University, Long Beach, Long Beach, California",
+        "qid": "Q1026926",
+        "time": "2019-06-02T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.122,
+          33.782194444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Paris Lodron Universität Salzburg, NAWI, Salzburg, Austria",
         "qid": "Q27265",
-        "times": [
-          "2019-06-19T04:00:00.000Z"
-        ]
+        "time": "2019-06-19T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2011,9 +4041,7 @@
       "properties": {
         "label": "UMASS, Amherst, Amherst, Massachusetts",
         "qid": "Q15142",
-        "times": [
-          "2019-07-03T04:00:00.000Z"
-        ]
+        "time": "2019-07-03T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2026,11 +4054,24 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "California State University, Long Beach, Long Beach, CA",
+        "qid": "Q1026926",
+        "time": "2019-07-09T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.122,
+          33.782194444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Washington State University, Vancouver",
         "qid": "Q7972305",
-        "times": [
-          "2019-07-15T04:00:00.000Z"
-        ]
+        "time": "2019-07-15T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2043,11 +4084,54 @@
     {
       "type": "Feature",
       "properties": {
+        "label": "Huntington Library, San Marino, California",
+        "qid": "Q1400558",
+        "time": "2019-07-24T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11,
+          34.12722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Plant Conservatory at NC State, Raleigh NC",
+        "qid": "Q1132346",
+        "time": "2019-08-02T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.670555555,
+          35.787222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Orange Coast College, Costa Mesa, CA",
+        "qid": "Q7099536",
+        "time": "2019-08-15T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.911944444,
+          33.670555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "label": "Central Lakes College, Brainerd, MN",
         "qid": "Q5061331",
-        "times": [
-          "2020-03-14T04:00:00.000Z"
-        ]
+        "time": "2020-03-14T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2062,9 +4146,7 @@
       "properties": {
         "label": "University of the South, Sewanee",
         "qid": "Q7458159",
-        "times": [
-          "2020-07-04T04:00:00.000Z"
-        ]
+        "time": "2020-07-04T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2079,9 +4161,7 @@
       "properties": {
         "label": "Cal Poly-San Luis Obispo, San Luis Obispo, CA",
         "qid": "Q1026846",
-        "times": [
-          "2020-07-09T04:00:00.000Z"
-        ]
+        "time": "2020-07-09T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
@@ -2096,15 +4176,73 @@
       "properties": {
         "label": "Longwood Gardens PA",
         "qid": "Q1129930",
-        "times": [
-          "2020-07-13T04:00:00.000Z"
-        ]
+        "time": "2020-07-13T04:00:00.000Z"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.6747,
           39.8712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "San Francisco Conservatory of Flowers",
+        "qid": "Q5163145",
+        "time": "2020-08-17T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46,
+          37.772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Huntington Library, San Marino, California",
+        "qid": "Q1400558",
+        "time": "2020-09-09T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11,
+          34.12722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "United States Botanic Garden",
+        "qid": "Q1848855",
+        "time": "2020-09-09T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.013,
+          38.888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "United States Botanic Garden",
+        "qid": "Q1848855",
+        "time": "2020-09-09T04:00:00.000Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.013,
+          38.888
         ]
       }
     }
