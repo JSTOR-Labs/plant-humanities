@@ -2,6 +2,7 @@
     "title": "Explore the cultural history of plants and their influence on human societies.",
     "banner": "/images/header.jpg",
     "bannerHeight": 400,
+    "mdRoot": "/docs",
     "components": [
         {"name": "siteFooter", "src": "/components/Footer.vue"}
     ]
