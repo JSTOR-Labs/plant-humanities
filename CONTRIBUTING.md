@@ -20,8 +20,8 @@ To create your copy:
 1. Go to the [plant-humanities master repository](https://github.com/JSTOR-Labs/plant-humanities) and fork the `develop` branch.  The active branch can be seen at the top left of the page and should default to _develop_.  If _develop_ is not the active branch it can be changed by clicking on the button displaying the current active branch name.  After ensuring that _develop_ is the active branch click on the `Fork` button located at the top right of the page.  The forking process will only take a few seconds and when completed will open the main page of the forked repository.
 2. In the forked repository (which has now been copied into your personal GitHub account):
     1. Create a new branch for new content to be added.  This is commonly referred to as a _feature branch_ and can be most any name you choose.  To create a branch click on the button with the active branch name at the top left of the page.  This button should display the _develop_ branch name. After clicking the button enter your branch name into the `Find or create a branch...` input field.  Again, this name can be anything of your choosing.
-    2. After creating the new feature branch make it the default branch for the repository.  While this is not absoutely required it will make many interactions (such as previewing changes and generating/submitting pull requests) more convenient.  To set the new branch as the default select the `Settings` button (located in the top right of the repository main page).  Then, select `Branches` from the left sidebar menu.  In the _Default Branch_ section select the newly created branch name and press the _Update_ button to it set as the default.
-    3. Make note of this new branch name as it is used in the next (Configure StackEdit) step
+    2. After creating the new feature branch make it the default branch for the repository.  While this is not absoutely required it will make many interactions (such as previewing changes and generating/submitting pull requests) more convenient.  To set the new branch as the default select the `Settings` button (located in the top right of the repository main page).  Then, select `Branches` from the left sidebar menu.  In the _Default Branch_ section select the newly created branch name and press the _Update_ button to it set as the default.  After pressing Update a confirmation dialog will be displayed.  Click _I understand, update the default branch_.
+    3. Make note of this new branch name as it is needed when configuring StackEdit.
 
 ## Adding and editing content
 
@@ -41,16 +41,17 @@ The GitHub web site can be used to add and modify content.  Since the visual ess
 
 When using StackEdit a few initial steps are needed to authorize access to a users GitHub account and link to a specific repository.  Below are the basic steps required:
 
-1. Go to [https://stackedit.io](https://stackedit.io/app#)
-2. Open the right sidebar menu by selecting the `#` button located in the toolbar at the top right of the page
-3. In the right sidebar menu select `Add a GitHub workspace`
+1. Go to [https://stackedit.io/app#](https://stackedit.io/app#)
+2. If not opened automatically, open the right sidebar menu by selecting the `#` button located in the toolbar at the top right of the page
+3. In the right sidebar menu select `Workspaces` and then select `Add a GitHub workspace` in the next menu.
 4. In the form that is presented enter the following info and press OK:
     - **Repository URL:** https://github.com/YOUR-GITHUB-USERNAME/FORKED-REPO-NAME, replacing `YOUR-GITHUB-USERNAME` and `FORKED-REPO-NAME` with the appropriate values.
     - **Folder path:** `/docs`
     - **Branch:** `DEFAULT-BRANCH` (defined in a step above)
 5. If prompted, Link your GitHub account to StackEdit
         - Check the _Grant access to your private repositories_ checkbox
-        - Press OK button to complete the process
+        - Press OK button to complete the setup process
+6. After StackEdit has been configured an initial Welcome file is displayed.  If not automatically opened the file browser for the linked repository can be seen by clicking on the folder button located in the toolbar at the top left of the page.  When open the file browser will display the contents of the `/docs` folder in forked copy of the plant-humanities repository. 
 
 #### Using StackEdit
 
