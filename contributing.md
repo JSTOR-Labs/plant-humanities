@@ -1,12 +1,10 @@
 # Contributing to the Plant Humanities site
 
-The [Plant Humanities](https://plant-humanities.app) site is home to a set of visual essays _[some info is needed describing what these are]_ in the field of botany. _[this entire paragraph really needs more info for context]_
-
-This document describes the process for contributing new content to the site.
+The [Plant Humanities](https://plant-humanities.app) site is home to a set of visual essays in the field of botany.  This document describes the process for contributing new content to the site.
 
 ## Create a GitHub account
 
-If you already have a GitHub accout and are familiar with basic version control concepts (like _commits_, _forking_, _branching_, _pull requests_) this section can be skipped.
+If you already have a GitHub accout and are familiar with basic version control concepts like _commits_, _forking_, _branching_, _pull requests_, etc this section can be skipped.
 
 1. Create a GitHub account at https://github.com.  They're free.
 2. Familiarize yourself with version control concepts and GitHub. If you're new to Github, below are a couple resources explaining some basic concepts that will be helpful to know: 
@@ -33,7 +31,7 @@ Adding or modifying content in the forked repository can be accomplished in a nu
 
 ### The GitHub web site
 
-The GitHub web site can be used to add and modify content.  Since the visual essay files are simple text files (with some custom tags) they can easily be edited in the GitHub built-in editor.  New files can also be created (or uploaded) from the GitHub site.
+The GitHub web site can be used to add and modify content.  Since the visual essay files are simple text files (with some custom tags) they can easily be edited using the GitHub built-in editor.  New files can also be created (or uploaded) from the GitHub site.
 
 ### StackEdit
 
@@ -48,11 +46,11 @@ When using StackEdit a few initial steps are needed to authorize access to a use
 3. In the right sidebar menu select `Add a GitHub workspace`
 4. In the form that is presented enter the following info and press OK:
     - **Repository URL:** https://github.com/YOUR-GITHUB-USERNAME/FORKED-REPO-NAME, replacing `YOUR-GITHUB-USERNAME` and `FORKED-REPO-NAME` with the appropriate values.
-    - **Folder path:** _/docs_
+    - **Folder path:** `/docs`
     - **Branch:** `DEFAULT-BRANCH` (defined in a step above)
 5. If prompted, Link your GitHub account to StackEdit
         - Check the _Grant access to your private repositories_ checkbox
-        - Press OK button
+        - Press OK button to complete the process
 
 #### Using StackEdit
 
@@ -92,7 +90,7 @@ Adding an essay to the Plan Humanities site will typically include adding a link
 
 ## Previewing changes
 
-The link https://visual-essays.app/YOUR-GITHUB-USERNAME/FORKED-REPO-NAME/MY-NEW-ESSAY-NAME can be used to view your changes in the context of the base site.
+The link https://visual-essays.app/YOUR-GITHUB-USERNAME/FORKED-REPO-NAME/MY-NEW-ESSAY-NAME can be used to view your in-process changes in the context of the base Plant Humanities site.
 
 ## Submitting changes for inclusion in the Plant Humanities site
 
