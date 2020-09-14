@@ -81,19 +81,20 @@ Go to the `/docs` folder from the main page in the forked repository and click t
 
 #### Using StackEdit
 
-To create a new essay using the starter template, first create an empty markdown file in the `/docs` folder.  Note that when using StackEdit the `.md` file extension will be automatically added and should not be included when naming the new file.
+To create a new essay using the starter template, first create an empty markdown file.  This is accomplished by clicking the `New file` button in the toolbar at the top left of the page.  Note that when using StackEdit the `.md` file extension will be automatically added and should not be included when naming the new file.
 
-After the new file has been created, open the `/docs/essay-template` file and using copy/paste commands transfer the text into the newly created essay file.
-
-## Updating Plant Humanities home page to add link to new essay
-
-Adding an essay to the Plan Humanities site will typically include adding a link to the site home page located at https://raw.githubusercontent.com/jstor-labs/plant-humanities/develop/docs/index.md
+After the new file has been created, open the `essay-template` file and using copy/paste commands transfer the text from the template into the newly created essay file.
 
 ## Previewing changes
 
-The link https://visual-essays.app/YOUR-GITHUB-USERNAME/FORKED-REPO-NAME/MY-NEW-ESSAY-NAME can be used to view your in-process changes in the context of the base Plant Humanities site.
+In-process changes can be previewed in the context of the base Plant Humanities site.  To do that use the URL https://visual-essays.app/YOUR-GITHUB-USERNAME/FORKED-REPO-NAME/NEW-ESSAY-NAME, replacing the placeholders `YOUR-GITHUB-USERNAME`, `FORKED-REPO-NAME`, and `FORKED-REPO-NAME` with the appropriate values.
 
-For instance, to see the sample essay from the plant-humanities forked repository into GitHub accout the link https://visual-essays.app/rsnyder/plant-humanities/sample would be used.  If a new essay named `a-new-essay.md` had been created the like would be https://visual-essays.app/rsnyder/plant-humanities/a-new-essay
+For instance, to see the sample essay from the GitHub account for `rsnyder` the link https://visual-essays.app/rsnyder/plant-humanities/sample would be used.  If a new essay named `a-new-essay.md` had been created the link would be https://visual-essays.app/rsnyder/plant-humanities/a-new-essay
+
+
+## Updating Plant Humanities home page to add link to new essay
+
+Adding an essay to the Plant Humanities site will typically include adding a link to the site home page located at https://raw.githubusercontent.com/jstor-labs/plant-humanities/develop/docs/index.md.  This file can also be updated and synchronized using StackEdit.
 
 ## Submitting changes for inclusion in the Plant Humanities site
 
