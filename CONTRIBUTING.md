@@ -86,11 +86,13 @@ After the new file has been created, open the `/docs/essay-template` file and us
 
 ## Updating Plant Humanities home page to add link to new essay
 
-Adding an essay to the Plan Humanities site will typically include adding a link to the site home page located at (https://raw.githubusercontent.com/jstor-labs/plant-humanities/develop/docs/index.md)
+Adding an essay to the Plan Humanities site will typically include adding a link to the site home page located at https://raw.githubusercontent.com/jstor-labs/plant-humanities/develop/docs/index.md
 
 ## Previewing changes
 
 The link https://visual-essays.app/YOUR-GITHUB-USERNAME/FORKED-REPO-NAME/MY-NEW-ESSAY-NAME can be used to view your in-process changes in the context of the base Plant Humanities site.
+
+For instance, to see the sample essay from the plant-humanities forked repository into GitHub accout the link https://visual-essays.app/rsnyder/plant-humanities/sample would be used.  If a new essay named `a-new-essay.md` had been created the like would be https://visual-essays.app/rsnyder/plant-humanities/a-new-essay
 
 ## Submitting changes for inclusion in the Plant Humanities site
 
