@@ -15,19 +15,17 @@ If you already have a GitHub accout and are familiar with basic version control 
 
 The process of creating a copy of a GitHub repository is called `forking`.  This forking process creates an exact copy of an external repository (in this case, the master repository for the Plant Humanities site)in a separate account, typically your personal GitHub account.  With this copy you have the freedom of adding or modifying content without affecting the source respository.  Using the process defined in this document one can also see changes in the context of a fully operational site.
 
-To create your copy:
+**To create your copy of the master repository:**
 
-1. Go to the [plant-humanities master repository](https://github.com/JSTOR-Labs/plant-humanities) and fork the `develop` branch.  The active branch can be seen at the top left of the page and should default to _develop_.  If _develop_ is not the active branch it can be changed by clicking on the button displaying the current active branch name.  After ensuring that _develop_ is the active branch click on the `Fork` button located at the top right of the page.  The forking process will only take a few seconds and when completed will open the main page of the forked repository.
-2. In the forked repository (which has now been copied into your personal GitHub account):
-    1. Create a new branch for new content to be added.  This is commonly referred to as a _feature branch_ and can be most any name you choose.  To create a branch click on the button with the active branch name at the top left of the page.  This button should display the _develop_ branch name. After clicking the button enter your branch name into the `Find or create a branch...` input field.  Again, this name can be anything of your choosing.
-    2. After creating the new feature branch make it the default branch for the repository.  While this is not absoutely required it will make many interactions (such as previewing changes and generating/submitting pull requests) more convenient.  To set the new branch as the default select the `Settings` button (located in the top right of the repository main page).  Then, select `Branches` from the left sidebar menu.  In the _Default Branch_ section select the newly created branch name and press the _Update_ button to it set as the default.  After pressing Update a confirmation dialog will be displayed.  Click _I understand, update the default branch_.
-    3. Make note of this new branch name as it is needed when configuring StackEdit.
+Go to the [plant-humanities master repository](https://github.com/JSTOR-Labs/plant-humanities) and fork the `develop` branch.  The active branch can be seen at the top left of the page and should default to _develop_.  If _develop_ is not the active branch it can be changed by clicking on the button displaying the current active branch name.  After ensuring that _develop_ is the active branch click on the `Fork` button located at the top right of the page.  The forking process will only take a few seconds and when completed will open the main page of the forked repository.
 
 ## Adding and editing content
 
 Adding or modifying content in the forked repository can be accomplished in a number of ways.  In the sections below a few approaches are described.  Many users will find the combination of the GitHub web site and an external Markdown editor as the most convenient approach.
 - The GitHub site can be used to upload content to the forked repository and delete, move, or rename existing content.
-- An external tool, like StackEdit (described below), can be used to edit the main visual essay file.
+- An external tool, like StackEdit (described below) can be used to edit the main visual essay file.
+
+[_Note that the JSTOR Markdown Editor is not currently an option here.  It will be added after support for non-master branch reading/saving is added_]
 
 ### The GitHub web site
 
@@ -47,7 +45,7 @@ When using StackEdit a few initial steps are needed to authorize access to a use
 4. In the form that is presented enter the following info and press OK:
     - **Repository URL:** https://github.com/YOUR-GITHUB-USERNAME/FORKED-REPO-NAME, replacing `YOUR-GITHUB-USERNAME` and `FORKED-REPO-NAME` with the appropriate values.
     - **Folder path:** `/docs`
-    - **Branch:** `DEFAULT-BRANCH` (defined in a step above)
+    - **Branch:** `develop`
 5. If prompted, Link your GitHub account to StackEdit
         - Check the _Grant access to your private repositories_ checkbox
         - Press OK button to complete the setup process
@@ -59,10 +57,6 @@ After StackEdit has been configured with a workspace that is linked to your fork
 
 StackEdit provides helpful online documentation that can be accessed from the right sidebar menu.  Documentation for using StackEdit is found in the _Table of contents_ section.  A handy _Markdown cheat sheet_ is also available from this menu.
 
-### GitPod
-
-TBD
-
 ## Creating a new visual essay
 
 A visual essay is a Markdown file that is located in the top-level `/docs` folder or child folders.  Visual essay text is formatted using standard Markdown tags and conventions.  Visual components can be associated with each text element using simple HTML tags.  The tags available for use are defined on the [Visual essays help page](https://visual-essays.app/help).
@@ -71,7 +65,7 @@ An optional `ve-config` tag is often included at the top of the essay to define 
 
 ### Using a starter template
 
-A simple essay starter template is available in the [essay-template.md](https://raw.githubusercontent.com/jstor-labs/plant-humanities/develop/docs/essay-template.md) found in the `/docs` folder.  The Markdown source text for a sample essay can be seen in the [sample.md](https://raw.githubusercontent.com/jstor-labs/plant-humanities/develop/docs/sample.md) file in the same folder.  The rendered sample essay can be viewed at https://plant-humanities.app/sample.
+A simple essay starter template is available in the [essay-template.md](https://raw.githubusercontent.com/jstor-labs/plant-humanities/develop/docs/essay-template.md) found in the `/docs` folder.  The Markdown source text for a sample essay can be seen in the [sample.md](https://raw.githubusercontent.com/jstor-labs/plant-humanities/develop/docs/sample.md) file in the same folder.  The sample essay can be viewed at https://plant-humanities.app/sample.
 
 #### Using the GitHub web interface
 
@@ -98,12 +92,12 @@ Adding an essay to the Plant Humanities site will typically include adding a lin
 
 ## Submitting changes for inclusion in the Plant Humanities site
 
-When the new content is ready to be added to the master repository (and for subsequent inclusion in the live site) a `pull request` must be generated and submitted.
+When the new content is ready to be added to the master repository (and for subsequent inclusion in the live site) a `pull request` must be generated.
 
 To create a pull request:
 
-1. First ensure that all changes made in StackEdit (or elsewhere) have been saved to the feature branch in the forked repository.
+1. First ensure that all changes made in StackEdit (or elsewhere) have been saved to the _develop__ in the forked repository.
 2. Go to the main page of the forked repository and click the `Pull request` button located in the top right area of the page.
-3. Ensure that the values in the `base repository` and `base` fields are `JSTOR-Labs/plant-humanities` and `develop`.  The values in the `head repository` and `compare` fields should also consist of the account and repository name for the forked repository and the selected (default) branch name. 
+3. Ensure that the values in the `base repository` and `base` fields are `JSTOR-Labs/plant-humanities` and `develop`.  The values in the `head repository` and `compare` fields should also consist of the account and repository name for the forked repository and the _develop_ branch name. 
 4. Modify the pull request subject and add any additional comments, as needed.
 5. Click the green `Create pull request` button to submit the request to the master repository admins for consideration.
