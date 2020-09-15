@@ -2,6 +2,14 @@
 
 The [Plant Humanities](https://plant-humanities.app) site is home to a set of visual essays in the field of botany.  This document describes the process for contributing new content to the site.
 
+## Quick start
+
+This section defines the basic process for adding or modifying content on the liave site.  Each of the steps in this quick start are descibed in more detail later in the document.
+
+1. **[Create a copy of the master repository](#user-content-create-a-copy-of-the-master-plant-humanities-repository) in your personal GitHub account**.  Fork the master repository at https://github.com/JSTOR-Labs/plant-humanities
+2. **Modify content** on the _develop_ branch in your personal copy of the master repository.  Content may be added/removed/modified in any number of ways, including cloning the forked repository to your local computer and using an editor or IDE.  The [Adding and editing content](#user-content-adding-and-editing-content) section below describes a simple approach using an online Markdown editor.
+3. **[Submit a pull request](#user-content-submitting-changes-for-inclusion-in-the-plant-humanities-site)** to request that your changes be added to the master repository.
+
 ## Create a GitHub account
 
 If you already have a GitHub accout and are familiar with basic version control concepts like _commits_, _forking_, _branching_, _pull requests_, etc this section can be skipped.
