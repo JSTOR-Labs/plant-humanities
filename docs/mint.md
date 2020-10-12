@@ -137,8 +137,15 @@ The example of the mint market in British North American colonies and the early 
 
 Today, mint varieties are cultivated in many different parts of the world. Mint’s seemingly ‘cosmopolitan distribution’ means that its range extends across the world where there are appropriate habitats for it to flourish. Mints thrive when near water which means that lakes, rivers and even spaces in shade enable this fast-growing plant to be grown all year round. For example, wild mint ([*Mentha* arvensis](https://plants.jstor.org/stable/10.5555/al.ap.specimen.k000929997?searchUri=filter%3Dname%26so%3Dps_group_by_genus_species%2Basc%26Query%3DMentha%2Barvensis)) is cultivated on a huge scale in Brazil, China, Paraguay, Japan, Thailand, Angola and India.[^ref16] In this way, peppermint production in America, spreading across the breadth of the country over time, is a microcosm of the pattern of mint distribution across the world.
 <var data-primary="map"></var>
-<var data-map title="World" data-basemap="Esri_WorldPhysical" data-center="36.34,11.19" data-zoom="2"></var>
-<var data-map-layer title="Global" data-type="geojson" data-url=https://jstor-labs.github.io/plant-humanities/geojson/globalmintdis.geojson data-active="true"></var>
+<var data-map title="World"
+	data-basemap="Esri_WorldPhysical"
+	data-center="36.34,11.19"
+	data-zoom="2"></var>
+<var data-map-layer
+	title="Global"
+	data-type="geojson"
+	data-url=https://jstor-labs.github.io/plant-humanities/geojson/globalmintdis.geojson
+	data-active="true"></var>
 
 Mint is ubiquitous, and perhaps that is because it has remained relevant across time and space. Here, mint reveals something of the early difficulties of botanical exchange and naming, it speaks to the local and global movement of plants; it exposes changes and developments in medical thought and practices over time (the changing popularity of herbal remedies for example), and it continues to play a role in global consumer markets and advertising. Mint, in other words, will always be relevant for historical, cultural and geographical studies. And as Haides called the plant forth to ensure that Mintha would never be forgotten, we too are constantly reminded of this plant as we go about our daily lives.
 <var data-primary="image"></var>
@@ -165,3 +172,6 @@ Mint is ubiquitous, and perhaps that is because it has remained relevant across 
 [^ref14]:  See N. K. Ellis, Peppermint and Spearmint Production, *Economic Botany*, 14:4 (1960) 280–285. JSTOR, www.jstor.org/stable/4252193; O. R. Jones, Essence of Peppermint, a History of the Medicine and Its Bottle, *Historical Archaeology*, 15: 2 (1981) 1–57. *JSTOR*, www.jstor.org/stable/25615407; J E. Landing, *American Essence; a History of the Peppermint and Spearmint Industry in the United States* (Kalamazoo, 1969).
 [^ref15]:  James. E. Landing, Peppermint and Spearmint.
 [^ref16]:  B. Salehi et al., Plants of Genus *Mentha*: From Farm to Food Factory, *Plants*, 7.3:70 (2018)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDcwMTY2NjIwXX0=
+-->
