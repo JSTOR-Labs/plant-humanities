@@ -5,5 +5,10 @@
     "mdRoot": "/docs",
     "components": [
         {"name": "siteFooter", "src": "/components/Footer.vue"}
+    ],
+    "nav": [
+        {"label": "Home", "icon": "home-alt", "path": "/"},
+        {"label": "About", "icon": "info", "path": "/about"},
+        {"label": "Help", "icon": "question", "path": "/help"}
     ]
 }
