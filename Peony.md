@@ -113,7 +113,7 @@ The probable effectiveness of her infant convulsion powder increased Anna Maria 
 <param ve-map center="45.979862, 13.326316" zoom="3">
 <param ve-map-layer geojson url="geojson/AML_distribution.json" title="Distribution of Anna Maria Luisa's Infant Convulsion Powder" active> 
 
-The gift of “miraculous” medicine to the Viennese court was not simply altruistic. As a woman, Anna Maria Luisa was barred from inheriting and ruling Tuscany on the death of her brother, the <span id="Q256580">last Medici Grand Duke</span>. Although she lacked official power, Anna Maria Luisa fashioned influence through the gift of her infant convulsion powder, which allowed her to ingratiate herself with some of Vienna’s most important and powerful families. This ensured goodwill and communication between the Grand Duchy of Tuscany and the court that would decide its fate. By the end of the Medici dynasty, the Viennese court was the headquarters of the  <span id="Q256580">Habsburg dynasty</span> and the center of its imperial politics. In 1737, <span id="Q151075">Francis of Lorraine</span>, future head of the <span id="Q12548">Holy Roman Empire</span> which controlled much of Europe at this time, became the Grand Duke of Tuscany and ruled Florence from the imperial court in Vienna—a court much indebted to Anna Maria Luisa’s infant convulsion powder.
+The gift of “miraculous” medicine to the Viennese court was not simply altruistic. As a woman, Anna Maria Luisa was barred from inheriting and ruling Tuscany on the death of her brother, the <span id="Q256580">last Medici Grand Duke</span>. Although she lacked official power, Anna Maria Luisa fashioned influence through the gift of her infant convulsion powder, which allowed her to ingratiate herself with some of Vienna’s most important and powerful families. This ensured goodwill and communication between the Grand Duchy of Tuscany and the court that would decide its fate. By the end of the Medici dynasty, the Viennese court was the headquarters of the  <span id="Q256580">Habsburg dynasty</span> and the center of its imperial politics. In 1737, <span id="Q151075">Francis of Lorraine</span>, future head of the <span id="Q12548">Holy Roman Empire</span> which controlled much of Europe at this time, became the Grand Duke of Tuscany and ruled Florence from the imperial court in Vienna—a court much indebted to Anna Maria Luisa’s infant convulsion powder and the power of peony.
 <var data-primary="image"></var>
 <var data-image
      data-fit="contain"
@@ -148,6 +148,6 @@ _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525Peaonia" id="Q
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY5MzMwODEsMzI0ODc5NzAxLC0xMD
-c3NjkzNDYxXX0=
+eyJoaXN0b3J5IjpbMjg3MDc2Mzc4LC0xODc2OTMzMDgxLDMyND
+g3OTcwMSwtMTA3NzY5MzQ2MV19
 -->
