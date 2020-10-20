@@ -59,7 +59,7 @@ Outside of China, peony had an equally long history of medicinal use in Europe. 
      data-attribute="Mattioli, i discorsi, pg. 965"
      data-url="https://www.biodiversitylibrary.org/pageimage/51722143"></var>
 
-In addition to the “cleansing” and purgative properties associated with peony and women’s health, the Roman physician <span id="Q8778">Galen</span> recommended tying peony root around the necks of children as an effective remedy for “the falling sickness,” which was a common pre-modern phrase for <span id="Q41571">epilepsy</span>. Throughout the middle ages, peony continued to be used as a medicinal simple for the treatment of epilepsy or convulsions. For example, the female medieval healer and Benedictine abbess, <span id="Q70991">Hildegard von Bingen (1098-1179)</span> instructed “When one falls with epilepsy, place in his mouth [peony] while he lies there, and do this every time he falls with this disease, and he will be finally cured.” In addition to treating epilepsy, fits, and convulsions, peony was also used as a cure for lunacy and sciatica. 
+In addition to the “cleansing” and purgative properties associated with peony and women’s health, the Roman physician <span id="Q8778">Galen</span> recommended tying peony root around the necks of children as an effective remedy for “the falling sickness,” which was a common pre-modern phrase for <span id="Q41571">epilepsy</span>.[^4] Throughout the middle ages, peony continued to be used as a medicinal simple for the treatment of epilepsy or convulsions. For example, the female medieval healer and Benedictine abbess, <span id="Q70991">Hildegard von Bingen (1098-1179)</span> instructed “When one falls with epilepsy, place in his mouth [peony] while he lies there, and do this every time he falls with this disease, and he will be finally cured.”[^5] In addition to treating epilepsy, fits, and convulsions, peony was also used as a cure for lunacy and sciatica. 
 <var data-primary="image"></var>
 <var data-image
      data-fit="fit"
@@ -129,7 +129,7 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 [^4]: Tobyn, Graeme., Alison. Denham, and Margaret. Whitelegg. The Western Herbal Tradition: 2000 Years of Medicinal Plant Knowledge. Edinburgh; New York: Elsevier, 2011.
 
-Throop, Priscilla. Hildegard Von Bingen's Physica: The Complete English Translation of Her Classic Work on Health and Healing. Rochester, Vt.: Healing Arts Press, 1998, chapter CXXVII: Peony.
+[^5]: Throop, Priscilla. Hildegard Von Bingen's Physica: The Complete English Translation of Her Classic Work on Health and Healing. Rochester, Vt.: Healing Arts Press, 1998, chapter CXXVII: Peony.
 
 John Gerarde, _The herball, or, Generall historie of plantes_, London: Printed by Adam Islip Joice Norton and Richard Whitakers, anno 1633, pg. 980.
 
@@ -146,7 +146,7 @@ _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525Peaonia" id="Q
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQzNzQ1MTQsLTEyNTI4OTY4ODUsMj
+eyJoaXN0b3J5IjpbLTE0MjAzNTQxNDYsLTEyNTI4OTY4ODUsMj
 g3MDc2Mzc4LC0xODc2OTMzMDgxLDMyNDg3OTcwMSwtMTA3NzY5
 MzQ2MV19
 -->
