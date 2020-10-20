@@ -59,11 +59,11 @@ Outside of China, peony had an equally long history of medicinal use in Europe. 
      data-attribute="Mattioli, i discorsi, pg. 965"
      data-url="https://www.biodiversitylibrary.org/pageimage/51722143"></var>
 
-In addition to the “cleansing” and purgative properties associated with peony and women’s health, the Roman physician <span id="Q8778">Galen</span> recommended tying peony root around the necks of children as an effective remedy for “the falling sickness,” which was a common pre-modern phrase for <span id="Q41571">epilepsy</span>.[^4] Throughout the middle ages, peony continued to be used as a medicinal simple for the treatment of epilepsy or convulsions. For example, the female medieval healer and Benedictine abbess, <span id="Q70991">Hildegard von Bingen (1098-1179)</span> instructed “When one falls with epilepsy, place in his mouth [peony] while he lies there, and do this every time he falls with this disease, and he will be finally cured.”[^5] In addition to treating epilepsy, fits, and convulsions, peony was also used as a cure for lunacy and sciatica. 
+In addition to the “cleansing” and purgative properties associated with peony and women’s health, the Roman physician <span id="Q8778">Galen</span> recommended tying peony root around the necks of children as an effective remedy for “the falling sickness,” which was a common pre-modern phrase for <span id="Q41571">epilepsy</span>.[^4] Throughout the middle ages, peony continued to be used as a medicinal simple for the treatment of epilepsy or convulsions. For example, the female medieval healer and Benedictine abbess, <span id="Q70991">Hildegard von Bingen (1098-1179)</span> instructed “When one falls with epilepsy, place in his mouth [peony] while he lies there, and do this every time he falls with this disease, and he will be finally cured.”[^5] In addition to treating epilepsy, fits, and convulsions, peony was also used as <span data-click-image-zoomto="0,1,936,862">a cure for lunacy and sciatica</span>. 
 <var data-primary="image"></var>
 <var data-image
      data-fit="fit"
-     data-title="Peony: cure for lunacy and sciatica"
+     data-title="Curing lunacy with spring of peony and sciatica with peony root"
      data-attribute="Medical illustrations in medieval manuscripts by Loren MacKinney, Wellcome Library"
      data-url="https://upload.wikimedia.org/wikipedia/commons/7/76/Peony%3B_cure_for_lunacy_and_sciatica._Wellcome_L0004780.jpg"></var>
 
@@ -140,7 +140,8 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 [^9]: Tadashi Tsuda, Aiko Sugaya, Hiromi Ohguchi, Naoki Kishida, Eiichi Sugaya, “Protective Effects of Peony Root Extract and Its Components on Neuron Damage in the Hippocampus Induced by the Cobalt Focus Epilepsy Model," _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyOTU0MDY1LC0xMzk2OTkwOTcxLC0xMj
-k3ODEyOTIsLTEyNTI4OTY4ODUsMjg3MDc2Mzc4LC0xODc2OTMz
-MDgxLDMyNDg3OTcwMSwtMTA3NzY5MzQ2MV19
+eyJoaXN0b3J5IjpbNjA2Mjc2MDc1LDkwMjk1NDA2NSwtMTM5Nj
+k5MDk3MSwtMTI5NzgxMjkyLC0xMjUyODk2ODg1LDI4NzA3NjM3
+OCwtMTg3NjkzMzA4MSwzMjQ4Nzk3MDEsLTEwNzc2OTM0NjFdfQ
+==
 -->
