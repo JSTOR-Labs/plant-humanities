@@ -93,7 +93,7 @@ While modern western medicine tends to dismiss pre-modern therapeutics like Anna
      data-attribute="He DY, Dai SM. Anti-inflammatory and immunomodulatory effects of paeonia lactiflora pall., a traditional chinese herbal medicine. _Front Pharmacol_. 2011;2:10. Published 2011 Feb 25. doi:10.3389/fphar.2011.00010"
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/fphar-02-00010-g001.jpg"></var>
 
-A study conducted in 1991 on the water extract of _P. officinalis_ concluded that there are several chemical compounds found in the root, including <span id="Q7124104">paeoniflorin</span>, albiflorin, oxypaeoniflorin, and gallotannins that have documented anticonvulsant properties.[^7] Furthermore, when isolated, the compounds albiflorin and gallotannin were proven to block extracellular calcium, which is linked to intracellular seizure-related phenomena. Paeoniflorin fractions also showed inhibition, but to a weaker extent.[^8] An additional study, which administered peony root extract (from _P. officinalis_) to rats, concluded that it was “a potent in vitro inhibitor of neuron damage in the CA1 area of the hippocampus.” The study also determined that peony root extract had protective effects on damaged neurons as well as anticonvulsant action when administered orally. Finally, the administration of antiepileptic drugs early has the potential to [alter the long-term course of epilepsy](https://www.jstor.org/stable/29726099), with the possibility of preventing it from becoming an “intractable disorder.”
+A study conducted in 1991 on the water extract of _P. officinalis_ concluded that there are several chemical compounds found in the root, including <span id="Q7124104">paeoniflorin</span>, albiflorin, oxypaeoniflorin, and gallotannins that have documented anticonvulsant properties.[^7] Furthermore, when isolated, the compounds albiflorin and gallotannin were proven to block extracellular calcium, which is linked to intracellular seizure-related phenomena. Paeoniflorin fractions also showed inhibition, but to a weaker extent. An additional study, which administered peony root extract (from _P. officinalis_) to rats, concluded that it was “a potent in vitro inhibitor of neuron damage in the CA1 area of the hippocampus.”[^8] The study also determined that peony root extract had protective effects on damaged neurons as well as anticonvulsant action when administered orally.[^9] Finally, the administration of antiepileptic drugs early has the potential to [alter the long-term course of epilepsy](https://www.jstor.org/stable/29726099), with the possibility of preventing it from becoming an “intractable disorder.”
 <var data-primary="image"></var>
 <var data-image
      data-fit="contain"
@@ -137,14 +137,14 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 [^8]: Shamim Sahranavard, Saeedeh Ghafari, Mahmoud Mosaddegh, “Medicinal plants used in Iranian traditional medicine to treat epilepsy,” _Seizure_, Volume 23, Issue 5, 2014, Pages 328-332.
 
-Tadashi Tsuda, Aiko Sugaya, Hiromi Ohguchi, Naoki Kishida, Eiichi Sugaya, “Protective Effects of Peony Root Extract and Its Components on Neuron Damage in the Hippocampus Induced by the Cobalt Focus Epilepsy Model,”
+[^9]: Tadashi Tsuda, Aiko Sugaya, Hiromi Ohguchi, Naoki Kishida, Eiichi Sugaya, “Protective Effects of Peony Root Extract and Its Components on Neuron Damage in the Hippocampus Induced by the Cobalt Focus Epilepsy Model,”
 
 _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525Peaonia" id="Q147105" data-aliases="peony"></var>
 <var title="Anna Maria Luisa de' Medici" id="Q233181"></var>
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc4MTI5MiwtMTI1Mjg5Njg4NSwyOD
-cwNzYzNzgsLTE4NzY5MzMwODEsMzI0ODc5NzAxLC0xMDc3Njkz
-NDYxXX0=
+eyJoaXN0b3J5IjpbMzY5MjAxMDY2LC0xMjk3ODEyOTIsLTEyNT
+I4OTY4ODUsMjg3MDc2Mzc4LC0xODc2OTMzMDgxLDMyNDg3OTcw
+MSwtMTA3NzY5MzQ2MV19
 -->
