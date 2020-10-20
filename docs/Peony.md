@@ -13,17 +13,10 @@
 <var title="Medici Dynasty" id="Q170022"></var>
 <var title="Paeoniaceae" id="Q3360397"></var>
 
-<param ve-component 
-       name="d3plus-network"
-       src="/components/D3PlusNetwork.vue"
-       selectors="tag:d3plus-network"
-       icon="fa-sitemap"
-       label="D3plus Network"
-       dependencies="https://d3plus.org/js/d3plus-network.v0.6.full.min.js">
 
 ### The Power of Peony
-In 1735, a Viennese baroness wrote to the last Medici princess, <span id="Q233181">Anna Maria Luisa de Medici (1669-1743)</span>,  to thank her for sending a miraculous infant convulsion powder. In her letter, the baroness praised the powder’s effectiveness and stated that the children she treated with it had been so violently taken by convulsions that the physicians had “given up on them.” Not only had the “miraculous powder” cured the children, the baroness also stated that a number of months had passed, and the children remained in perfect health. Anna Maria Luisa was well known for her miraculous powder, which she distributed strategically to influential individuals and courts across Europe. 
-<param ve-d3plus-network url="https://raw.githubusercontent.com/buchanana01/PH_Test/master/network.json">
+In 1735, a Viennese baroness wrote to the last Medici princess, <span id="Q233181">Anna Maria Luisa de Medici (1669-1743)</span>,  to thank her for sending a miraculous infant convulsion powder. In her letter, the baroness praised the powder’s effectiveness and stated that the children she treated with it had been so violently taken by convulsions that the physicians had “given up on them.” Not only had the “miraculous powder” cured the children, the baroness also stated that a number of months had passed, and the children remained in perfect health. Anna Maria Luisa was well known for her miraculous powder, which she distributed strategically to influential individuals and courts across Europe.
+<param ve-vis-network file="https://jstor-labs.github.io/plant-humanities/graphs/peony_medici.tsv">
 
 Anna Maria Luisa’s recipe for infant convulsion powder contained a precipitation of a human skull of a man (who died violently but was never buried), a precipitation of “Oriental pearls,” a precipitation of red coral and white coral, as well as yellow amber and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect <span id="Q154849">The Grand Duchy of Tuscany</span> as the end of the Medici dynasty neared. 
 <var title="Peaonia" id="Q147105" data-aliases="peony"></var>
