@@ -123,7 +123,7 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
      data-title=""
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Black%20and%20White%20Simple%20Corporate%20Family%20Tree.jpg"></var>
 
-
+### References 
 [^a]: text text text
 
 Zhao, M, and Wu, S.P. "A Review of the Ethnobotany, Phytochemistry and Pharmacology of Tree Peony (Sect. Moutan)." South African Journal of Botany 124 (2019): 556-63.
@@ -151,5 +151,6 @@ _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525Peaonia" id="Q
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0ODc5NzAxLC0xMDc3NjkzNDYxXX0=
+eyJoaXN0b3J5IjpbMTQ4NTM4OTU4OCwzMjQ4Nzk3MDEsLTEwNz
+c2OTM0NjFdfQ==
 -->
