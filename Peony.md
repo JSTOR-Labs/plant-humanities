@@ -137,14 +137,14 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 [^8]: Shamim Sahranavard, Saeedeh Ghafari, Mahmoud Mosaddegh, “Medicinal plants used in Iranian traditional medicine to treat epilepsy,” _Seizure_, Volume 23, Issue 5, 2014, Pages 328-332.
 
-[^9]: Tadashi Tsuda, Aiko Sugaya, Hiromi Ohguchi, Naoki Kishida, Eiichi Sugaya, “Protective Effects of Peony Root Extract and Its Components on Neuron Damage in the Hippocampus Induced by the Cobalt Focus Epilepsy Model,”
+[^9]: Tadashi Tsuda, Aiko Sugaya, Hiromi Ohguchi, Naoki Kishida, Eiichi Sugaya, “Protective Effects of Peony Root Extract and Its Components on Neuron Damage in the Hippocampus Induced by the Cobalt Focus Epilepsy Model," _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525
 
-_Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525Peaonia" id="Q147105" data-aliases="peony"></var>
+Peaonia" id="Q147105" data-aliases="peony"></var>
 <var title="Anna Maria Luisa de' Medici" id="Q233181"></var>
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5MjAxMDY2LC0xMjk3ODEyOTIsLTEyNT
-I4OTY4ODUsMjg3MDc2Mzc4LC0xODc2OTMzMDgxLDMyNDg3OTcw
-MSwtMTA3NzY5MzQ2MV19
+eyJoaXN0b3J5IjpbLTExNzE0ODM3NjMsLTEyOTc4MTI5MiwtMT
+I1Mjg5Njg4NSwyODcwNzYzNzgsLTE4NzY5MzMwODEsMzI0ODc5
+NzAxLC0xMDc3NjkzNDYxXX0=
 -->
