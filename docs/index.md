@@ -4,14 +4,14 @@
        layout="index"
        header="default">
 
-# The Plant Humanities Initiative
+## The Plant Humanities Initiative
 
-The visual essays below feature interactive maps, high-resolution images and videos, all linked with a network of people, places and ideas. These essays will be featured in the Plant Humanities Workbench, which will allow users to explore the rich cultural history of plants and to craft their own narratives.
+The visual essays below feature interactive maps, high-resolution images and videos, all linked with a network of people, places and ideas.  These essays will be featured in the Plant Humanities Workbench, which will allow users to explore the rich cultural history of plants and to craft their own narratives.
 
-# Featured essays
+## Featured eEssays
 
 ##
-[**Agave - An Ancient Plant with an Intoxicating History**](/Agave)
+[**[Agave -: An Ancient Plant with an Intoxicating History**](/Agave)
 
 - author: Ashley Buchanan, PhD
 - date: 2020
@@ -31,7 +31,9 @@ The visual essays below feature interactive maps, high-resolution images and vid
 In his 1640 herbal, John Parkinson described the “tree of life,” or “arbor vitæ,” as "a tall tree being similar to a cypress and covered by a dark reddish bark on the trunk and an even redder bark on the branches." Parkinson went on to explain that the tree, unknown to the ancients, originated in the New World and was introduced to Europe by the French. He explained that while it was presented to the French King, Francis I, as the “tree of life” (arbor vitæ) he had no idea why. Clearly, Parkinson was unaware of the miraculous stories associated with the arbor vitæ.  
 
 ##
-[**Chaos out of Order: Bananas and the Limits of Linnaean Taxonomy**](/Banana)
+[**Chaos out of Order:  
+[Arbor Vitæ: The Mysterious Tree of Life](/arbor_vitae)  
+[Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy**](/Banana)
 
 - author: Ashley Buchanan, PhD
 
@@ -40,7 +42,8 @@ In his 1640 herbal, John Parkinson described the “tree of life,” or “arbor
 Everybody knows what a banana is. At least we think we do. Today, the banana is a ubiquitous and easy-to-recognize fruit that even shares the same name or sounds the same in many modern languages. Yet, despite the fact that you can identify the word for banana across cultures, the actual identification and classification of our modern-day banana is, to quote a popular idiom, “bananas.” It is a genetically modified mystery that continues to defy our system of plant taxonomy.
 
 ##
-[**Cacao: An indigenous network and global commodity**](/cacao)
+[**  
+[Cacao: An indigenous network and global commodity**](/cacao)
 
 - author: Rebecca Friedel
 
@@ -136,4 +139,9 @@ Turmeric’s status as a valuable medicinal plant has long been mythologized. In
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg) 
   
-Mark Twain once said that watermelon “is the chief of this world's luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat.” Though today “watermelon” calls to mind a sturdy melon with refreshing, sweet, red flesh, for most of its millennia-long history as a cultivated crop it was known as a pale, hard, sometimes bitter fruit with relatively tender rind. Not until the sixth century CE were watermelons associated with sweet fruits like figs and grapes, and it was not until well into the 1400s that the uniformly red, thick-rinded watermelons that we recognize today began to appear. Throughout its history, the watermelon has been associated with medicine, vitality, racism, and disease, revealing a darker side to the sweet summer fruit that we know and love.
+Mark Twain once said that watermelon “is the chief of this world's luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat.” Though today “watermelon” calls to mind a sturdy melon with refreshing, sweet, red flesh, for most of its millennia-long history as a cultivated crop it was known as a pale, hard, sometimes bitter fruit with relatively tender rind. Not until the sixth century CE were watermelons associated with sweet fruits like figs and grapes, and it was not until well into the 1400s that the uniformly red, thick-rinded watermelons that we recognize today began to appear. Throughout its history, the watermelon has been associated with medicine, vitality, racism, and disease, revealing a darker side to the sweet summer fruit that we know and love.  
+[The ubiquity of mint: exploring plant mythology, naming and commercial value](/mint)  
+[Curcuma longa: The “Herb of the Sun”](/turmeric)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA3Nzg2NjQzM119
+-->
