@@ -121,9 +121,7 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Black%20and%20White%20Simple%20Corporate%20Family%20Tree.jpg"></var>
 
 ### References 
-[^a]: text text text
-
-Zhao, M, and Wu, S.P. "A Review of the Ethnobotany, Phytochemistry and Pharmacology of Tree Peony (Sect. Moutan)." South African Journal of Botany 124 (2019): 556-63.
+[^1]: Zhao, M, and Wu, S.P. "A Review of the Ethnobotany, Phytochemistry and Pharmacology of Tree Peony (Sect. Moutan)." South African Journal of Botany 124 (2019): 556-63.
 
 Edwards, Sarah E. _Phytopharmacy: An Evidence-based Guide to Herbal Medicinal Products_. Chichester, [England]: Wiley Blackwell, 2015.
 
@@ -148,6 +146,7 @@ _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525Peaonia" id="Q
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI4OTY4ODUsMjg3MDc2Mzc4LC0xOD
-c2OTMzMDgxLDMyNDg3OTcwMSwtMTA3NzY5MzQ2MV19
+eyJoaXN0b3J5IjpbMjc0MTU4NDEwLC0xMjUyODk2ODg1LDI4Nz
+A3NjM3OCwtMTg3NjkzMzA4MSwzMjQ4Nzk3MDEsLTEwNzc2OTM0
+NjFdfQ==
 -->
