@@ -69,15 +69,6 @@ Carolina Rice, the “heritage grain” lost to history in the post-antebellum e
   
 In the late afternoon of a hot summer day in June 2019, an extraordinary and rare flower began to bloom at the New York Botanic Garden (NYBG). A press release was immediately sent out as visitors had only 24 to 36 hours to the see the world’s largest inflorescence (flower-bearing structure) in peak bloom. It was not just the size of the _Amorphophallus titanium_, however, that would attract hundreds of thousands of visitors. It was also the fact that, as its common name “corpse flower” suggests, this gigantic plant, when in bloom, smells like rotting flesh. 
 
-##
-[**A Pelargonium by any other name would smell as sweet…**](/geranium)
-
-- author: Daisy Reid, Verónica Matallana Chaves, Yao Jiang
-
-![](https://dev.visual-essays.app/thumbnail?url=https://ids.lib.harvard.edu/ids/iiif/435776338/full/full/0/default.jpg)
-  
-There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium. With their vibrant red flowers and sweet, rosy scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color” at his country home, Gad’s Hill Place. Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of them was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums”. 
-
 ## 
 [**The ubiquity of mint**](/mint)
 
