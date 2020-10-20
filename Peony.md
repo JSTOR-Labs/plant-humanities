@@ -111,7 +111,7 @@ Today, the primary approach to treating epilepsy and suppressing seizures is to 
 
 The probable effectiveness of her infant convulsion powder increased Anna Maria Luisa’s socio-political influence. In fact, several letters preserved in the Florence State Archive attest to the powder’s efficacy and popularity. In one such letter, the previously mentioned Viennese baroness wrote again to Anna Maria Luisa requesting additional portions of powder given the “extraordinary effects they had on three children from the most important families of Vienna.” Anna Maria Luisa replied that she would send the baroness as much of the powder as she desired to distribute to her friends, considering that she had “put the powder to such good use.” 
 <param ve-map center="32.262084, 64.391554" zoom="2.5">
-<param ve-map-layer geojson url="geojson/peony.json" title="Peony Distribution" active> 
+<param ve-map-layer geojson url="geojson/AML_distribution.json" title="Distribution of Anna Maria Luisa's Infa" active> 
 
 The gift of “miraculous” medicine to the Viennese court was not simply altruistic. As a woman, Anna Maria Luisa was barred from inheriting and ruling Tuscany on the death of her brother, the <span id="Q256580">last Medici Grand Duke</span>. Although she lacked official power, Anna Maria Luisa fashioned influence through the gift of her infant convulsion powder, which allowed her to ingratiate herself with some of Vienna’s most important and powerful families. This ensured goodwill and communication between the Grand Duchy of Tuscany and the court that would decide its fate. By the end of the Medici dynasty, the Viennese court was the headquarters of the  <span id="Q256580">Habsburg dynasty</span> and the center of its imperial politics. In 1737, <span id="Q151075">Francis of Lorraine</span>, future head of the <span id="Q12548">Holy Roman Empire</span> which controlled much of Europe at this time, became the Grand Duke of Tuscany and ruled Florence from the imperial court in Vienna—a court much indebted to Anna Maria Luisa’s infant convulsion powder.
 <var data-primary="image"></var>
@@ -148,6 +148,6 @@ _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525Peaonia" id="Q
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MzU0NzA3NSwzMjQ4Nzk3MDEsLTEwNz
+eyJoaXN0b3J5IjpbLTY1NTQwMjM2MywzMjQ4Nzk3MDEsLTEwNz
 c2OTM0NjFdfQ==
 -->
