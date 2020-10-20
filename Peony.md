@@ -39,7 +39,7 @@ While today we think of peonies as beautiful ornamental flowers, for more than a
 <param ve-map center="32.262084, 64.391554" zoom="2.5">
 <param ve-map-layer geojson url="geojson/peony.json" title="Peony Distribution" active> 
 
-Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, <span id="Q163076">_Paeonia lactiflora_</span>, which was the primary source of both white peony and red peony, and , <span id="Q163018">_Paeonia suffruticosa_</span>, commonly known as the tree peony or “moutan”. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.[^1]
+Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, <span id="Q163076">_Paeonia lactiflora_</span>, which was the primary source of both white peony and red peony, and <span id="Q163018">_Paeonia suffruticosa_</span>, commonly known as the tree peony or “moutan”. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.[^1]
 <param ve-plant-specimen eid="Q163076" max="1">
 <param ve-plant-specimen eid="Q163018" max="1">
 
@@ -140,7 +140,7 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 [^9]: Tadashi Tsuda, Aiko Sugaya, Hiromi Ohguchi, Naoki Kishida, Eiichi Sugaya, “Protective Effects of Peony Root Extract and Its Components on Neuron Damage in the Hippocampus Induced by the Cobalt Focus Epilepsy Model," _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY5OTA5NzEsLTEyOTc4MTI5MiwtMT
-I1Mjg5Njg4NSwyODcwNzYzNzgsLTE4NzY5MzMwODEsMzI0ODc5
-NzAxLC0xMDc3NjkzNDYxXX0=
+eyJoaXN0b3J5IjpbOTAyOTU0MDY1LC0xMzk2OTkwOTcxLC0xMj
+k3ODEyOTIsLTEyNTI4OTY4ODUsMjg3MDc2Mzc4LC0xODc2OTMz
+MDgxLDMyNDg3OTcwMSwtMTA3NzY5MzQ2MV19
 -->
