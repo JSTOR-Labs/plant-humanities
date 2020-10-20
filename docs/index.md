@@ -4,11 +4,11 @@
        layout="index"
        header="default">
 
-## The Plant Humanities Initiative
+# The Plant Humanities Initiative
 
 The visual essays below feature interactive maps, high-resolution images and videos, all linked with a network of people, places and ideas.  These essays will be featured in the Plant Humanities Workbench, which will allow users to explore the rich cultural history of plants and to craft their own narratives.
 
-## Featured eEssays
+# Featured eEssays
 
 ##
 [**Agave -: An Ancient Plant with an Intoxicating History**](/Agave)
