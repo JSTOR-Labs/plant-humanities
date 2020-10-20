@@ -8,10 +8,10 @@
 
 The visual essays below feature interactive maps, high-resolution images and videos, all linked with a network of people, places and ideas.  These essays will be featured in the Plant Humanities Workbench, which will allow users to explore the rich cultural history of plants and to craft their own narratives.
 
-## Featured eEssays
+# All Essays
 
 ##
-[**[Agave -: An Ancient Plant with an Intoxicating History**](/Agave)
+[**Agave - An Ancient Plant with an Intoxicating History**](/Agave)
 
 - author: Ashley Buchanan, PhD
 - date: 2020
