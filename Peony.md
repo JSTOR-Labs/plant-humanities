@@ -105,9 +105,9 @@ Today, the primary approach to treating epilepsy and suppressing seizures is to 
 <var data-primary="image"></var>
 <var data-image
      data-fit="contain"
-     data-title="Proposed treatment algorithm for childhood absence epilepsy. AE = adverse effects, ETX = ethosuximide, GTC = generalized tonic–clonic, LTG = lamotrigine, VPA = valproic acid"
-     data-attribute="Kessler, S.K., McGinnis, E. A Practical Guide to Treatment of Childhood Absence Epilepsy"
-     data-url="https://link-springer-com.ezp-prod1.hul.harvard.edu/article/10.1007/s40272-019-00325-x/figures/2"></var>
+     data-title="Treating diseased brain cells with calcium channel blockers"
+     data-attribute="University of Bristol"
+     data-url="https://scx2.b-cdn.net/gfx/news/2019/calciumchann.jpg"></var>
 
 The probable effectiveness of her infant convulsion powder increased Anna Maria Luisa’s socio-political influence. In fact, several letters preserved in the Florence State Archive attest to the powder’s efficacy and popularity. In one such letter, the previously mentioned Viennese baroness wrote again to Anna Maria Luisa requesting additional portions of powder given the “extraordinary effects they had on three children from the most important families of Vienna.” Anna Maria Luisa replied that she would send the baroness as much of the powder as she desired to distribute to her friends, considering that she had “put the powder to such good use.” 
 <param ve-map center="45.979862, 13.326316" zoom="3">
@@ -148,6 +148,6 @@ _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525Peaonia" id="Q
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3MDc2Mzc4LC0xODc2OTMzMDgxLDMyND
-g3OTcwMSwtMTA3NzY5MzQ2MV19
+eyJoaXN0b3J5IjpbLTEyNTI4OTY4ODUsMjg3MDc2Mzc4LC0xOD
+c2OTMzMDgxLDMyNDg3OTcwMSwtMTA3NzY5MzQ2MV19
 -->
