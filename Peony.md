@@ -39,11 +39,11 @@ While today we think of peonies as beautiful ornamental flowers, for more than a
 <param ve-map center="32.262084, 64.391554" zoom="2.5">
 <param ve-map-layer geojson url="geojson/peony.json" title="Peony Distribution" active> 
 
-Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, <span id="Q163076">_Paeonia lactiflora_</span>, which was the primary source of both white peony and red peony, and , <span id="Q163018">_Paeonia suffruticosa_</span>, commonly known as the tree peony or “moutan”. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.[^a]
+Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, <span id="Q163076">_Paeonia lactiflora_</span>, which was the primary source of both white peony and red peony, and , <span id="Q163018">_Paeonia suffruticosa_</span>, commonly known as the tree peony or “moutan”. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (AD 25–220). Writings within the tomb confirmed that peony root (called “danpi”), likely _P._ _suffruticosa_, was used to treat blood stasis nearly 2,000 years ago.[^1]
 <param ve-plant-specimen eid="Q163076" max="1">
 <param ve-plant-specimen eid="Q163018" max="1">
 
-More than a millennium later in 1644, and a testament to peony’s long history as an important medicinal simple, a high <span id="Q9903">Ming</span> illustrated <span id="Q6165948">herbal</span>, _Bencao tupu_ 本草圖譜, beautifully depicted _P. lactiflora_, also known as common Chinese garden peony. According to the herbal, _P. lactiflora_ was used to treat gynecological symptoms including hot flashes and irregular menstrual cycles. It was also used in the treatment of high blood pressure and inflammation. The compound Chinese character “Shaoyao” for _P. lactiflora_, written in the top right corner of the image, reveals the plant’s importance in medicine. The first character “shao” is the term referring to the peony plant, while the second character “yao” means medicine. Thus, shaoyao means “the medicine made from peony.”
+More than a millennium later in 1644, and a testament to peony’s long history as an important medicinal simple, a high <span id="Q9903">Ming</span> illustrated <span id="Q6165948">herbal</span>, _Bencao tupu_ 本草圖譜, beautifully depicted _P. lactiflora_, also known as common Chinese garden peony. According to the herbal, _P. lactiflora_ was used to treat gynecological symptoms including hot flashes and irregular menstrual cycles. It was also used in the treatment of high blood pressure and inflammation.[^2] The compound Chinese character “Shaoyao” for _P. lactiflora_, written in the top right corner of the image, reveals the plant’s importance in medicine. The first character “shao” is the term referring to the peony plant, while the second character “yao” means medicine. Thus, shaoyao means “the medicine made from peony.”[^3]
 <param ve-storiiies id="6a1do">
 
 ### Peony in Western Medicine
@@ -123,11 +123,11 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 ### References 
 [^1]: Zhao, M, and Wu, S.P. "A Review of the Ethnobotany, Phytochemistry and Pharmacology of Tree Peony (Sect. Moutan)." South African Journal of Botany 124 (2019): 556-63.
 
-Edwards, Sarah E. _Phytopharmacy: An Evidence-based Guide to Herbal Medicinal Products_. Chichester, [England]: Wiley Blackwell, 2015.
+[^2]: Edwards, Sarah E. _Phytopharmacy: An Evidence-based Guide to Herbal Medicinal Products_. Chichester, [England]: Wiley Blackwell, 2015.
 
- Subhuti Dharmananda, “White Peony, Red Peony, and Moutan: Three Chinese Herbs Derived from Paeonia,” [http://www.itmonline.org/arts/peony.htm#figure%201](http://www.itmonline.org/arts/peony.htm#figure%201).
+ [^3]: Subhuti Dharmananda, “White Peony, Red Peony, and Moutan: Three Chinese Herbs Derived from Paeonia,” [http://www.itmonline.org/arts/peony.htm#figure%201](http://www.itmonline.org/arts/peony.htm#figure%201).
 
-Tobyn, Graeme., Alison. Denham, and Margaret. Whitelegg. The Western Herbal Tradition: 2000 Years of Medicinal Plant Knowledge. Edinburgh; New York: Elsevier, 2011.
+[^4]: Tobyn, Graeme., Alison. Denham, and Margaret. Whitelegg. The Western Herbal Tradition: 2000 Years of Medicinal Plant Knowledge. Edinburgh; New York: Elsevier, 2011.
 
 Throop, Priscilla. Hildegard Von Bingen's Physica: The Complete English Translation of Her Classic Work on Health and Healing. Rochester, Vt.: Healing Arts Press, 1998, chapter CXXVII: Peony.
 
@@ -146,7 +146,7 @@ _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525Peaonia" id="Q
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0MTU4NDEwLC0xMjUyODk2ODg1LDI4Nz
-A3NjM3OCwtMTg3NjkzMzA4MSwzMjQ4Nzk3MDEsLTEwNzc2OTM0
-NjFdfQ==
+eyJoaXN0b3J5IjpbLTEyNDQzNzQ1MTQsLTEyNTI4OTY4ODUsMj
+g3MDc2Mzc4LC0xODc2OTMzMDgxLDMyNDg3OTcwMSwtMTA3NzY5
+MzQ2MV19
 -->
