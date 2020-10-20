@@ -1,5 +1,3 @@
-
-
 <var data-essay
 	title="Peony: From an Ancient Cure to an Early Modern Tool of Statecraft"
 	data-banner="https://iiif.wellcomecollection.org/image/B0009092.jpg/full/2048%2C/0/default.jpg"
@@ -140,11 +138,11 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 [^9]: Tadashi Tsuda, Aiko Sugaya, Hiromi Ohguchi, Naoki Kishida, Eiichi Sugaya, “Protective Effects of Peony Root Extract and Its Components on Neuron Damage in the Hippocampus Induced by the Cobalt Focus Epilepsy Model," _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ4NTY1LC02NzE5MTQyNzksLTMxOD
-Y2MjIwNywtMTgzMjA0NDA1OSw3MTI4NTcxODMsLTEwNjA1MTY2
-MDEsODc4ODI1MTM3LC02ODEyNzM5OTksMTYzMDQzMTA0NSwtMT
-kzNTczMTU4OSwtMTAyNTAxNjg5NSwtODYxMDg4MTY4LC02Nzkz
-NzAyNjEsNTYzMzYyNTUxLDU2MzM2MjU1MSwxNDY4MDQ5ODEzLC
-0xMTYxNTUzOTMsLTEyNDY1MTg4ODgsLTI0NzQzNjM1OSwxNTgz
-ODU1ODIwXX0=
+eyJoaXN0b3J5IjpbLTE3NDExMjUyOTcsLTY3MTkxNDI3OSwtMz
+E4NjYyMjA3LC0xODMyMDQ0MDU5LDcxMjg1NzE4MywtMTA2MDUx
+NjYwMSw4Nzg4MjUxMzcsLTY4MTI3Mzk5OSwxNjMwNDMxMDQ1LC
+0xOTM1NzMxNTg5LC0xMDI1MDE2ODk1LC04NjEwODgxNjgsLTY3
+OTM3MDI2MSw1NjMzNjI1NTEsNTYzMzYyNTUxLDE0NjgwNDk4MT
+MsLTExNjE1NTM5MywtMTI0NjUxODg4OCwtMjQ3NDM2MzU5LDE1
+ODM4NTU4MjBdfQ==
 -->
