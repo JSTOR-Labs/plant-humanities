@@ -93,7 +93,7 @@ While modern western medicine tends to dismiss pre-modern therapeutics like Anna
      data-attribute="He DY, Dai SM. Anti-inflammatory and immunomodulatory effects of paeonia lactiflora pall., a traditional chinese herbal medicine. _Front Pharmacol_. 2011;2:10. Published 2011 Feb 25. doi:10.3389/fphar.2011.00010"
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/fphar-02-00010-g001.jpg"></var>
 
-A study conducted in 1991 on the water extract of _P. officinalis_ concluded that there are several chemical compounds found in the root, including <span id="Q7124104">paeoniflorin</span>, albiflorin, oxypaeoniflorin, and gallotannins that have documented anticonvulsant properties. Furthermore, when isolated, the compounds albiflorin and gallotannin were proven to block extracellular calcium, which is linked to intracellular seizure-related phenomena. Paeoniflorin fractions also showed inhibition, but to a weaker extent. An additional study, which administered peony root extract (from _P. officinalis_) to rats, concluded that it was “a potent in vitro inhibitor of neuron damage in the CA1 area of the hippocampus.” The study also determined that peony root extract had protective effects on damaged neurons as well as anticonvulsant action when administered orally. Finally, the administration of antiepileptic drugs early has the potential to [alter the long-term course of epilepsy](https://www.jstor.org/stable/29726099), with the possibility of preventing it from becoming an “intractable disorder.”
+A study conducted in 1991 on the water extract of _P. officinalis_ concluded that there are several chemical compounds found in the root, including <span id="Q7124104">paeoniflorin</span>, albiflorin, oxypaeoniflorin, and gallotannins that have documented anticonvulsant properties.[^6] Furthermore, when isolated, the compounds albiflorin and gallotannin were proven to block extracellular calcium, which is linked to intracellular seizure-related phenomena. Paeoniflorin fractions also showed inhibition, but to a weaker extent. An additional study, which administered peony root extract (from _P. officinalis_) to rats, concluded that it was “a potent in vitro inhibitor of neuron damage in the CA1 area of the hippocampus.” The study also determined that peony root extract had protective effects on damaged neurons as well as anticonvulsant action when administered orally. Finally, the administration of antiepileptic drugs early has the potential to [alter the long-term course of epilepsy](https://www.jstor.org/stable/29726099), with the possibility of preventing it from becoming an “intractable disorder.”
 <var data-primary="image"></var>
 <var data-image
      data-fit="contain"
@@ -131,9 +131,7 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 [^5]: Throop, Priscilla. Hildegard Von Bingen's Physica: The Complete English Translation of Her Classic Work on Health and Healing. Rochester, Vt.: Healing Arts Press, 1998, chapter CXXVII: Peony.
 
-John Gerarde, _The herball, or, Generall historie of plantes_, London: Printed by Adam Islip Joice Norton and Richard Whitakers, anno 1633, pg. 980.
-
-M. Zhao, S.P. Wu, “A review of the ethnobotany, phytochemistry and pharmacology of tree peony (Sect. Moutan),” _South African Journal of Botany_, Volume 124, 2019, Pages 556-563, https://doi.org/10.1016/j.sajb.2019.05.018.
+[^6]: M. Zhao, S.P. Wu, “A review of the ethnobotany, phytochemistry and pharmacology of tree peony (Sect. Moutan),” _South African Journal of Botany_, Volume 124, 2019, Pages 556-563, https://doi.org/10.1016/j.sajb.2019.05.018.
 
 Sugaya E, Sugaya A. Cellular physiology of epileptogenic phenomena and its application to therapy against intractable epilepsy. _Comp Biochem Physiol C_. 1991;98(1): 249-270.
 
@@ -146,7 +144,7 @@ _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525Peaonia" id="Q
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjAzNTQxNDYsLTEyNTI4OTY4ODUsMj
-g3MDc2Mzc4LC0xODc2OTMzMDgxLDMyNDg3OTcwMSwtMTA3NzY5
-MzQ2MV19
+eyJoaXN0b3J5IjpbNTU1NTQxMzUyLC0xMjUyODk2ODg1LDI4Nz
+A3NjM3OCwtMTg3NjkzMzA4MSwzMjQ4Nzk3MDEsLTEwNzc2OTM0
+NjFdfQ==
 -->
