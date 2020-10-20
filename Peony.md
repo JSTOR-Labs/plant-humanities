@@ -86,14 +86,14 @@ As we can see, for more than two thousand years numerous peony species were used
      data-fit="cover"
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Papaver%20somniferum.jpg"></var>
 
-While modern western medicine tends to dismiss pre-modern therapeutics like Anna Maria Luisa’s infant convulsion powder, numerous scientific studies on several species of peony used medically in East Asia have revealed isolated compounds that possess antitumor, antioxidant, anti-inflammatory, hepatoprotective, and antidiabetic properties. Peony roots and flowers continue to be used as a medicinal simple in <span id="Q261503">Traditional Chinese</span> and <span id="Q132325">Ayurvedic</span> medicine. While fewer studies have been conducted on European species of peony used medicinally, there have been several studies conducted to test for the bioactive compounds responsible for _P. officinalis’s_ effect on seizures.
+While modern western medicine tends to dismiss pre-modern therapeutics like Anna Maria Luisa’s infant convulsion powder, numerous scientific studies on several species of peony used medically in East Asia have revealed isolated compounds that possess antitumor, antioxidant, anti-inflammatory, hepatoprotective, and antidiabetic properties.[^6] Peony roots and flowers continue to be used as a medicinal simple in <span id="Q261503">Traditional Chinese</span> and <span id="Q132325">Ayurvedic</span> medicine. While fewer studies have been conducted on European species of peony used medicinally, there have been several studies conducted to test for the bioactive compounds responsible for _P. officinalis’s_ effect on seizures.
 <var data-primary="image"></var>
 <var data-image
      data-fit="contain"
      data-attribute="He DY, Dai SM. Anti-inflammatory and immunomodulatory effects of paeonia lactiflora pall., a traditional chinese herbal medicine. _Front Pharmacol_. 2011;2:10. Published 2011 Feb 25. doi:10.3389/fphar.2011.00010"
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/fphar-02-00010-g001.jpg"></var>
 
-A study conducted in 1991 on the water extract of _P. officinalis_ concluded that there are several chemical compounds found in the root, including <span id="Q7124104">paeoniflorin</span>, albiflorin, oxypaeoniflorin, and gallotannins that have documented anticonvulsant properties.[^6] Furthermore, when isolated, the compounds albiflorin and gallotannin were proven to block extracellular calcium, which is linked to intracellular seizure-related phenomena. Paeoniflorin fractions also showed inhibition, but to a weaker extent. An additional study, which administered peony root extract (from _P. officinalis_) to rats, concluded that it was “a potent in vitro inhibitor of neuron damage in the CA1 area of the hippocampus.” The study also determined that peony root extract had protective effects on damaged neurons as well as anticonvulsant action when administered orally. Finally, the administration of antiepileptic drugs early has the potential to [alter the long-term course of epilepsy](https://www.jstor.org/stable/29726099), with the possibility of preventing it from becoming an “intractable disorder.”
+A study conducted in 1991 on the water extract of _P. officinalis_ concluded that there are several chemical compounds found in the root, including <span id="Q7124104">paeoniflorin</span>, albiflorin, oxypaeoniflorin, and gallotannins that have documented anticonvulsant properties.[^7] Furthermore, when isolated, the compounds albiflorin and gallotannin were proven to block extracellular calcium, which is linked to intracellular seizure-related phenomena. Paeoniflorin fractions also showed inhibition, but to a weaker extent. An additional study, which administered peony root extract (from _P. officinalis_) to rats, concluded that it was “a potent in vitro inhibitor of neuron damage in the CA1 area of the hippocampus.” The study also determined that peony root extract had protective effects on damaged neurons as well as anticonvulsant action when administered orally. Finally, the administration of antiepileptic drugs early has the potential to [alter the long-term course of epilepsy](https://www.jstor.org/stable/29726099), with the possibility of preventing it from becoming an “intractable disorder.”
 <var data-primary="image"></var>
 <var data-image
      data-fit="contain"
@@ -133,7 +133,7 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 [^6]: M. Zhao, S.P. Wu, “A review of the ethnobotany, phytochemistry and pharmacology of tree peony (Sect. Moutan),” _South African Journal of Botany_, Volume 124, 2019, Pages 556-563, https://doi.org/10.1016/j.sajb.2019.05.018.
 
-Sugaya E, Sugaya A. Cellular physiology of epileptogenic phenomena and its application to therapy against intractable epilepsy. _Comp Biochem Physiol C_. 1991;98(1): 249-270.
+[^7]: Sugaya E, Sugaya A. Cellular physiology of epileptogenic phenomena and its application to therapy against intractable epilepsy. _Comp Biochem Physiol C_. 1991;98(1): 249-270.
 
 Shamim Sahranavard, Saeedeh Ghafari, Mahmoud Mosaddegh, “Medicinal plants used in Iranian traditional medicine to treat epilepsy,” _Seizure_, Volume 23, Issue 5, 2014, Pages 328-332.
 
@@ -144,7 +144,7 @@ _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525Peaonia" id="Q
 <var title="epilepsy" id="Q41571" data-aliases="mal caduco"></var>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NTQxMzUyLC0xMjUyODk2ODg1LDI4Nz
-A3NjM3OCwtMTg3NjkzMzA4MSwzMjQ4Nzk3MDEsLTEwNzc2OTM0
-NjFdfQ==
+eyJoaXN0b3J5IjpbMTkzNDk3NjM2NiwtMTI1Mjg5Njg4NSwyOD
+cwNzYzNzgsLTE4NzY5MzMwODEsMzI0ODc5NzAxLC0xMDc3Njkz
+NDYxXX0=
 -->
