@@ -12,7 +12,7 @@
 In the late afternoon of a hot summer day in June 2019, an extraordinary and rare flower began to bloom at the <span eid="Q636275">New York Botanical Garden (NYBG)</span>. A press release was immediately sent out as visitors had only 24 to 36 hours to the see the world’s largest inflorescence (flower-bearing structure) in peak bloom. It was not just the size of the <span eid="Q431224">_Amorphophallus titanum_</span>, however, that would attract hundreds of thousands of visitors. It was also the fact that, as its common name “corpse flower” suggests, this gigantic plant, when in bloom, smells like rotting flesh. 
 <param ve-video id="5upF4rJUxC4" title="NYBG 2019 Corpse Flower Timelapse">
 
-The putrid smell of the _Amorphophallus titanum_ (or titan arum), which has been described by the Huntington Botanical Garden as a combination of Limburger cheese, garlic, rotting fish, and smelly feet, is actually a pollination strategy. The powerful scent emitted by the plant along with the crimson, <span data-click-image-zoomto="1706,1802,1461,1098">meaty-color of its open spathe</span> (the frilly leaf around the flower spike) are designed to attract insect pollinators – carrion beetles and flesh flies – that typically feast on dead animals. <var title="Peaonia" id="Q147105" data-aliases="peony"></var>
+The putrid smell of the _Amorphophallus titanum_ (or titan arum), which has been described by the Huntington Botanical Garden as a combination of Limburger cheese, garlic, rotting fish, and smelly feet, is actually a pollination strategy. The powerful scent emitted by the plant along with the crimson, <span data-click-image-zoomto="1706,1802,1461,1098">meaty-color of its open spathe</span> (the frilly leaf around the flower spike) are designed to attract insect pollinators – <span eid="Q303626">carrion beetles</span> and <span eid="Q978302">flesh flies</span> – that typically feast on dead animals. 
 <var data-primary="image"></var>
 <var data-image
      data-fit="cover"
@@ -26,7 +26,7 @@ Adding to the allure of the plant is the rarity and brevity in which it blooms. 
      data-attribute="Corpse Flower Lifecycle, USGB"
      data-url="https://www.usbg.gov/sites/default/files/corpseflower_amorphophallus_titanum_lifecycle_usbotanicgarden_2020.jpg"></var>
 
-It is easy to see why the corpse flower plant has become an attraction for the dozen or so US botanic gardens that boast one in bloom. Blooms at the NYBG, the United States Botanic Garden (Washington, DC), The Huntington (Pasadena, CA), Chicago Botanic Garden, Denver Botanic Garden, and Greater Des Moines Botanical Garden in the past few years that have attracted hundreds of thousands of visitors. Each institution also has numerous news stories and webpages dedicated to the plant along with live streams, time-lapse videos of their rare blooms, and educational programing, all of which are watched by millions more online. For these institutions, cultivating a giant smelly plant is an excellent way to attract visitors to botanic gardens, and hopefully inspire a new generation of botanist. 
+It is easy to see why the corpse flower plant has become an attraction for the dozen or so US botanic gardens that boast one in bloom. Blooms at the NYBG, the <span eid="Q1848855">United States Botanic Garden</span> (Washington, DC), <span eid="Q1400558">The Huntington</span> (Pasadena, CA), Chicago Botanic Garden, Denver Botanic Garden, and Greater Des Moines Botanical Garden in the past few years that have attracted hundreds of thousands of visitors. Each institution also has numerous news stories and webpages dedicated to the plant along with live streams, time-lapse videos of their rare blooms, and educational programing, all of which are watched by millions more online. For these institutions, cultivating a giant smelly plant is an excellent way to attract visitors to botanic gardens, and hopefully inspire a new generation of botanist. 
 <var data-primary="image"></var>
 <var data-image
      data-fit="contain"
@@ -34,13 +34,22 @@ It is easy to see why the corpse flower plant has become an attraction for the d
      data-url="https://media.npr.org/assets/img/2013/07/23/corpsefloweredit003-f2deaf4f87f4496766a0148e12ad0b50e6158980-s1000-c85.jpg"></var>
 <param ve-video id="L-Tp9cDj7Vg" title="USBG Corpse Flower 2020: Live Horticulture Q&A">
 
-European botanists have long been fascinated with the study and cultivation of the _Amorphophallus titanum_. An Italian botanist, Odoardo Beccari, was the first European to encounter the species in Sumatra, where it is native, while traveling through Southeast Asia in 1878. Beccari sent seeds of the impressive plant back to his native Florence, where the plant was germinated. 
+European botanists have long been fascinated with the study and cultivation of the _Amorphophallus titanum_. An Italian botanist, <span eid="Q361037">Odoardo Beccari</span>, was the first European to encounter the species in <span eid="Q3492">Sumatra</span>, where it is native, while traveling through Southeast Asia in 1878. Beccari sent seeds of the impressive plant back to his native Florence, where the plant was germinated. 
 <param ve-map center="26.761740, 56.651666" zoom="3">
 <param ve-map-layer geojson active url="/geojson/corpse_flower.json">
+<var data-image
+     data-fit="contain"
+     data-attribute="Indonesian men pose with two different species of Amorphophallus plants, including an Amorphophallus Titanum in bloom, 1900-1940"
+     data-url="https://upload.wikimedia.org/wikipedia/commons/e/e0/COLLECTIE_TROPENMUSEUM_Indonesische_mannen_poseren_bij_twee_verschillende_soorten_Amorphophallus_planten_waaronder_een_in_bloei_staande_Amorphophallus_Titanum_TMnr_60042790.jpg"></var>
 
-Eventually, one of the young plants made its way to the Royal Botanic Gardens, Kew, where it finally bloomed, with great fanfare, in 1889. The plant eventually bloomed again in 1926. This time, however, the crowds were so large, police had to be called in to control them. 
+Eventually, one of the young plants made its way to the <span eid="Q188617">Royal Botanic Gardens Kew</span>, where it finally bloomed, with great fanfare, in 1889. The plant bloomed again in 1901 and again in 1926. By 1926, however, the blooms of the Corpse Flower attracted crowds so large that the police had to be called in to control them. 
+<var data-primary="map"></var>
 <param ve-map center="Q18748726" zoom=11">
 <param ve-map-layer geojson active url="/geojson/corpse_flower.json">
+<var data-image
+     data-fit="contain"
+     data-attribute="Corpse Flower Bloom, Kew, 1901"
+     data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Kew_historic_Corpse_Flower.jpg"></var>
 
 The story of the _Amorphophallus titanum_ in the US begins in the Bronx. The NYBG was the first institution to successfully cultivate and bloom an _Amorphophallus titanum_ in the Western Hemisphere in 1937. They had received the plant from Sumatra in 1932. Five years later, its first bloom would mob the NYBG Conservatory with visitors, photographers, and reporters. Clocking in at over 8 feet tall, the NYBG’s first bloom remains the largest ever grown in cultivation. 
 <param ve-map center="Q636275" zoom="12">
