@@ -52,7 +52,7 @@ Eventually, one of the young plants made its way to the <span eid="Q188617">Roya
      data-attribute="Corpse Flower Bloom, Kew, 1901"
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Kew_historic_Corpse_Flower.jpg"></var>
 
-The story of the _Amorphophallus titanum_ in the US begins in the Bronx. The NYBG was the first institution to successfully cultivate and bloom an _Amorphophallus titanum_ in the Western Hemisphere in 1937. They had received the plant from Sumatra in 1932. Five years later, its first bloom would mob the NYBG Conservatory with visitors, photographers, and reporters. Clocking in at over 8 feet tall, the NYBG’s first bloom remains the largest ever grown in cultivation. 
+The story of the _Amorphophallus titanum_ in the US begins in the Bronx. The NYBG was the first institution to successfully cultivate and bloom an _Amorphophallus titanum_ in the Western Hemisphere in 1937. They had received the plant from Sumatra in 1932. Five years later, its first bloom would mob the NYBG Conservatory with visitors, photographers, and reporters. Clocking in at over 8 feet tall, the NYBG’s first bloom remains the largest ever grown in cultivation.[^3] 
 <param ve-map center="Q636275" zoom="14">
 <param ve-map-layer geojson active url="/geojson/corpse_flower.json">
 
@@ -92,5 +92,6 @@ Back in the Bronx, the current Director of Glasshouse Horticulture and Curator o
      data-url="https://www.nybg.org/content/uploads/2018/06/mco-6927-1_1-768x768.jpg"></var>
 
 ### References
-[^1]: https://www.huntington.org/corpse-flower
+[^1]: [American Chemical Society. The Chemistry of the Corpse Flower's Stench 2013](https://www.youtube.com/watch?v=uDMI_ZJt1go)
 [^2]: "Observing Nature. The Correspondence Network of Carolus Clusius (1526–1609)," in _Communicating Observations in Early Modern Letters (1500–1675) Epistolography and Epistemology in the Age of the Scientific Revolution_, edited by Charles Burnett and Jill Kraye, The Warburg Institute: London and Turin, 2013, 43-72.
+[^3]: https://www.nybg.org/garden/the-corpse-flower-amorphophallus-titanum/
