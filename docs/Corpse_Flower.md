@@ -39,11 +39,11 @@ European botanists have long been fascinated with the study and cultivation of t
 <param ve-map-layer geojson active url="/geojson/corpse_flower.json">
 
 Eventually, one of the young plants made its way to the Royal Botanic Gardens, Kew, where it finally bloomed, with great fanfare, in 1889. The plant eventually bloomed again in 1926. This time, however, the crowds were so large, police had to be called in to control them. 
-<param ve-map center="Q18748726" zoom="8">
+<param ve-map center="Q18748726" zoom=12">
 <param ve-map-layer geojson active url="/geojson/corpse_flower.json">
 
 The story of the _Amorphophallus titanium_ in the US begins in the Bronx. The NYBG was the first institution to successfully cultivate and bloom an _Amorphophallus titanium_ in the Western Hemisphere in 1937. They had received the plant from Sumatra in 1932. Five years later, its first bloom would mob the NYBG Conservatory with visitors, photographers, and reporters. Clocking in at over 8 feet tall, the NYBG’s first bloom remains the largest ever grown in cultivation. 
-<param ve-map center="Q636275" zoom="11">
+<param ve-map center="Q636275" zoom="12">
 <param ve-map-layer geojson active url="/geojson/corpse_flower.json">
 
 Throughout the twentieth century, specimens of _Amorphophallus titanium_ and their blooms remained rare and infrequent. Over the past six years, however, US and European botanic gardens have seen a huge increase in the number of flowerings. In fact, Kew has stated that they have seen “more than three times as many titan arums flower in the last six years than in the previous 120 years!” It would appear that horticulturalists have finally unlocked the secret of the corpse flower. As scientific institutions, botanic gardens also readily share information along with seeds and plant clones. Thus, more and more institutions have and are able to successfully cultivate and flower this rare plant. 
