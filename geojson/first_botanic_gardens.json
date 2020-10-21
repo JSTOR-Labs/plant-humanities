@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4e8f00",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "label": "Orto Botanico Pisa, 1544"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.396016836166382,
+          43.72049745570917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4e8f00",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "label": "Orto Botanico Padua, 1545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.880748271942139,
+          45.39913551988595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4e8f00",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "label": "Orto Botanico Florence, 1545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.261174082756042,
+          43.77891429921142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4e8f00",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "label": "Botanical Garden Valencia, 1567"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3866887092590332,
+          39.47636133258078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4e8f00",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "label": "Botanischer Garten Leipzig, 1580"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.391301393508911,
+          51.32883513564675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4e8f00",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "label": "Botanischer Garten Jena, 1586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.58559262752533,
+          50.93123840529704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4e8f00",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "label": "Hortus Botanicus Leiden, 1590"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.484573006629944,
+          52.15712248341966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4e8f00",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "label": "Jardin des Plantes Montpellier, 1593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.871983289718628,
+          43.613304270420144
+        ]
+      }
+    }
+  ]
+}
