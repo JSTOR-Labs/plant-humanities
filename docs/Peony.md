@@ -18,7 +18,7 @@ In 1735, a Viennese baroness wrote to the last Medici princess, <span id="Q23318
 <param ve-s-network le="https://jstor-labs.github.io/plant-humanities/graphs/peony_medici.tsv">
 
 Anna Maria Luisa’s recipe for infant convulsion powder contained a precipitation of a human skull of a man (who died violently but was never buried), a precipitation of “Oriental pearls,” a precipitation of red coral and white coral, as well as yellow amber and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of peony that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect <span eid="Q154849">The Grand Duchy of Tuscany</span> as the end of the Medici dynasty neared. 
-<aramvm title="Peaonia" eid="Q147105" aliases="peony">
+<param ve-title="Peaonia" eid="Q147105" aliases="peony">
 <param ve-image
      fit="cover"
      title="Infant Convulsion Powder Recipe"
@@ -119,5 +119,5 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 [^9]: Tadashi Tsuda, Aiko Sugaya, Hiromi Ohguchi, Naoki Kishida, Eiichi Sugaya, “Protective Effects of Peony Root Extract and Its Components on Neuron Damage in the Hippocampus Induced by the Cobalt Focus Epilepsy Model," _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMxMzQyMzddfQ==
+eyJoaXN0b3J5IjpbMTAxMjUxMzMzM119
 -->
