@@ -95,5 +95,5 @@ Back in the Bronx, the current Director of Glasshouse Horticulture and Curator o
 ### References
 [^1]: [American Chemical Society. The Chemistry of the Corpse Flower's Stench 2013](https://www.youtube.com/watch?v=uDMI_ZJt1go)
 [^2]: "Observing Nature. The Correspondence Network of Carolus Clusius (1526–1609)," in _Communicating Observations in Early Modern Letters (1500–1675) Epistolography and Epistemology in the Age of the Scientific Revolution_, edited by Charles Burnett and Jill Kraye, The Warburg Institute: London and Turin, 2013, 43-72.
-[^3]: https://www.nybg.org/garden/the-corpse-flower-amorphophallus-titanum/
+[^3]: [Corpse Flowers at the USBG](https://www.nybg.org/garden/the-corpse-flower-amorphophallus-titanum/)
 [^4]: Londa Schiebinger, _Plants and Empire: Colonial Bioprospecting in the Atlantic World_. Cambridge, Massachusetts; London, England: Harvard University Press, 2004.
