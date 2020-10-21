@@ -22,7 +22,7 @@ The putrid smell of the _Amorphophallus titanum_ (or titan arum), which has been
 Adding to the allure of the plant is the rarity and brevity in which it blooms. The corpse flower does not have an annual blooming cycle. On average, it takes the plant 5 to 10 years to store enough energy to flower. Despite the unpredictable nature of the plant’s blooms, they are nothing short of spectacular. When the US Botanic Garden’s _Amorphophallus titanum_ went on display to the public Friday, July 22, 2016, it measured 3.5 feet tall. The bloom eventually opened early in the morning on August 2, and by the time it collapsed three days later, it stood over 7 feet tall. 
 <var data-primary="image"></var>
 <var data-image
-     data-fit="contain"
+     data-fit="cover"
      data-attribute="Corpse Flower Lifecycle, USGB"
      data-url="https://www.usbg.gov/sites/default/files/images/cm16465_titan_arum_life_cycle_17x11.jpg"></var>
 <param ve-video id="lQwFAZKLxEE" title="USBG Corpse Flower Timelapse 2016">
