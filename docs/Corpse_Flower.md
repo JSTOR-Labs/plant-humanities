@@ -35,6 +35,7 @@ It is easy to see why the corpse flower plant has become an attraction for the d
 <param ve-video id="L-Tp9cDj7Vg" title="USBG Corpse Flower 2020: Live Horticulture Q&A">
 
 European botanists have long been fascinated with the study and cultivation of the _Amorphophallus titanum_. An Italian botanist, <span eid="Q361037">Odoardo Beccari</span>, was the first European to encounter the species in <span eid="Q3492">Sumatra</span>, where it is native, while traveling through Southeast Asia in 1878. Beccari sent seeds of the impressive plant back to his native Florence, where the plant was germinated. 
+<var data-primary="map"></var>
 <param ve-map center="26.761740, 56.651666" zoom="3">
 <param ve-map-layer geojson active url="/geojson/corpse_flower.json">
 <var data-image
