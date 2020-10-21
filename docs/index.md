@@ -55,7 +55,7 @@ One of the most salient indigenous networks that colonial Europeans made efforts
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://images.nypl.org/index.php?id=G92F023_016F&t=w)
   
-Carolina Rice, the “heritage grain” lost to history in the post-antebellum era, has come back in a major way. Indeed, in a [2017 article](https://www.eater.com/ad/15973794/carolina-gold-rice-heritage-grains), _Eater_ declared that “The Grain Revolution is Here,” describing one company’s attempt to bring back the historical strain of Oryza sativa. Varieties of Carolina Rice, in particular, the “Carolina Gold” strain, have been attracting the attention of niche cooking websites and standard news sources alike, with outlets from [_Serious Eats_](https://www.seriouseats.com/2016/05/
+Carolina Rice, the “heritage grain” lost to history in the post-antebellum era, has come back in a major way. Indeed, in a [2017 article](https://www.eater.com/ad/15973794/carolina-gold-rice-heritage-grains), _Eater_ declared that “The Grain Revolution is Here,” describing one company’s attempt to bring back the historical strain of Oryza sativa. Varieties of Carolina Rice, in particular, the “Carolina Gold” strain, have been attracting the attention of niche cooking websites and standard news sources alike, with outlets from [_Serious Eats_](https://www.seriouseats.com/2016/05/)
 
 ##
 [**The Corpse Flower - Amorphophallus titanium**](/Corpse_Flower)
@@ -66,6 +66,7 @@ Carolina Rice, the “heritage grain” lost to history in the post-antebellum e
   
 In the late afternoon of a hot summer day in June 2019, an extraordinary and rare flower began to bloom at the New York Botanic Garden (NYBG). A press release was immediately sent out as visitors had only 24 to 36 hours to the see the world’s largest inflorescence (flower-bearing structure) in peak bloom. It was not just the size of the _Amorphophallus titanium_, however, that would attract hundreds of thousands of visitors. It was also the fact that, as its common name “corpse flower” suggests, this gigantic plant, when in bloom, smells like rotting flesh. 
 
+##
 [**The ubiquity of mint**](/mint)
 
 - author: Victoria Pickering PhD
