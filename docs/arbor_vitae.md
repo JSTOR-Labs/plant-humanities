@@ -84,27 +84,27 @@ Through linguistic, botanical, and historical analysis numerous trees have been 
 <var data-image
 title="Isosyntype of _Abies balsamea_"
 data-fit="cover"
-data-url="https://plants.jstor.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=/jp2/fpx/00/gpi-nebc-typspe-01-19/nebc0008/nebc00056528.jp2"
+data-url="https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/00/gpi-nebc-typspe-01-19/nebc0008/nebc00056528.jp2"
 data-thumbnail="https://plants.jstor.org/fsi/img/size1/alukaplant/nebc/phase_01/nebc0008/nebc00056528.jpg"></var>
 <var data-image
 title="Holotype of _Picea glauca_"
 data-fit="cover"
-data-url="https://plants.jstor.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=/jp2/fpx/00/gpi-a-typspe-01-57/a0002/a00022322.jp2"
+data-url="https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/00/gpi-a-typspe-01-57/a0002/a00022322.jp2"
 data-thumbnail="https://plants.jstor.org/fsi/img/size1/alukaplant/a/phase_01/a0002/a00022322.jpg"></var>
 <var data-image
 title="Holotype of _Picea mariana_"
 data-fit="cover"
-data-url="https://plants.jstor.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=/jp2/fpx/00/gpi-a-typspe-01-57/a0006/a00022346.jp2"
+data-url="https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/00/gpi-a-typspe-01-57/a0006/a00022346.jp2"
 data-thumbnail="https://plants.jstor.org/fsi/img/size1/alukaplant/a/phase_01/a0006/a00022346.jpg"></var>
 <var data-image
 title="Type of _Pinus strobus_"
 data-fit="cover"
-data-url="https://plants.jstor.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=/jp2/fpx/alukaplant/l/phase_01/l0001/l0820001.jp2"
+data-url="https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/alukaplant/l/phase_01/l0001/l0820001.jp2"
 data-thumbnail="https://plants.jstor.org/fsi/img/size1/alukaplant/l/phase_01/l0001/l0820001.jpg"></var>
 <var data-image
 title="Lectotype of _Thuja occidentalis_"
 data-fit="cover"
-data-url="https://plants.jstor.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&rft_id=/jp2/fpx/05/gpi-linn-typspe-01-04/linn0001/linn-hl1136-1.jp2"
+data-url="https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/05/gpi-linn-typspe-01-04/linn0001/linn-hl1136-1.jp2"
 data-thumbnail="https://plants.jstor.org/fsi/img/size1/alukaplant/linn/phase_01/linn0001/linn-hl1136-1.jpg"></var>
 
 Sixteenth and seventeenth-century European herbals consistently describe the tree of life as a *“Thuja”* (a genus of coniferous trees) or similar to a cypress, without fruit (although the cone is now considered a fruit), and very aromatic. From this we can conclude that the tree of life was indeed an evergreen coniferous tree native to the area around present-day Quebec and Montreal.

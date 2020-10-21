@@ -70,7 +70,7 @@ Exchanging plant specimens and botanical knowledge was about more than solidifyi
 
 While the agave in Europe was an ornamental plant that displayed botanical knowledge, agaves remained a productive plant in Mexico. In addition to collecting the fermented sap of the maguey, the hearts and leaf base of agaves were also roasted in underground pits. This pit-roasted agave was called “mexcalli” in Nahuatl and later “mezcal” and “mescal” in Spanish. With the arrival of the Europeans came the technology of distillation. Fermented sugarcane distilled into rum became the model for turning pit-roasted fermented maguey into _vinos de mescal,_ which was eventually processed into modern-day mescals and tequila. While mescals can be made from any agave plant, under Mexican law, tequila can only be made from the blue agave (_Agave tequilana or Agave azul_) grown in specific regions (most notably Jalisco). While pulque was a sacred and ancient Mesoamerican beverage, mescal and tequila were a product of blending indigenous Mesoamerican and European knowledge and taste. Like their creators, tequila and mescals were hybrids, or _mestizos_.[^ref12]
 <var data-primary="image"></var>
-<var data-image id="Agave pit" title="Agave roasting pit" data-url="http://www.slrobertson.com/images/mexico/oaxaca-valley/mezcal-agave-roasting-pit-b.jpg" data-region=""></var>
+<var data-image id="Agave pit" title="Agave roasting pit" data-url="https://www.slrobertson.com/images/mexico/oaxaca-valley/mezcal-agave-roasting-pit-b.jpg" data-region=""></var>
 <var data-image id="Agave pit 2" title="Agave hearts in a roasting pit" data-url="https://longislandloutequila.com/content/images/2017/02/Caschuin-pit-for-Ancestral--tequila.jpeg" data-region=""></var>
 
 ### Tequila and National Identity
