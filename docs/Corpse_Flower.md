@@ -24,7 +24,7 @@ Adding to the allure of the plant is the rarity and brevity in which it blooms. 
 <var data-image
      data-fit="contain"
      data-attribute="Corpse Flower Lifecycle, USGB"
-     data-url="https://www.usbg.gov/sites/default/files/resize/images/amorphophallus_titanum_lifecycle_usbg-700x875.jpg"></var>
+     data-url="https://www.usbg.gov/sites/default/files/corpseflower_amorphophallus_titanum_lifecycle_usbotanicgarden_2020.jpg"></var>
 
 It is easy to see why the corpse flower plant has become an attraction for the dozen or so US botanic gardens that boast one in bloom. Blooms at the NYBG, the United States Botanic Garden (Washington, DC), The Huntington (Pasadena, CA), Chicago Botanic Garden, Denver Botanic Garden, and Greater Des Moines Botanical Garden in the past few years that have attracted hundreds of thousands of visitors. Each institution also has numerous news stories and webpages dedicated to the plant along with live streams, time-lapse videos of their rare blooms, and educational programing, all of which are watched by millions more online. For these institutions, cultivating a giant smelly plant is an excellent way to attract visitors to botanic gardens, and hopefully inspire a new generation of botanist. 
 <var data-primary="image"></var>
@@ -36,15 +36,15 @@ It is easy to see why the corpse flower plant has become an attraction for the d
 
 European botanists have long been fascinated with the study and cultivation of the _Amorphophallus titanium_. An Italian botanist, Odoardo Beccari, was the first European to encounter the species in Sumatra, where it is native, while traveling through Southeast Asia in 1878. Beccari sent seeds of the impressive plant back to his native Florence, where the plant was germinated. 
 <param ve-map center="26.761740, 56.651666" zoom="3">
-<param ve-map-layer geojson active url="plant-humanities/geojson/corpse_flower.json">
+<param ve-map-layer geojson active url="/geojson/corpse_flower.json">
 
 Eventually, one of the young plants made its way to the Royal Botanic Gardens, Kew, where it finally bloomed, with great fanfare, in 1889. The plant eventually bloomed again in 1926. This time, however, the crowds were so large, police had to be called in to control them. 
 <param ve-map center="Q18748726" zoom="8">
-<param ve-map-layer geojson active url="plant-humanities/geojson/corpse_flower.json">
+<param ve-map-layer geojson active url="/geojson/corpse_flower.json">
 
 The story of the _Amorphophallus titanium_ in the US begins in the Bronx. The NYBG was the first institution to successfully cultivate and bloom an _Amorphophallus titanium_ in the Western Hemisphere in 1937. They had received the plant from Sumatra in 1932. Five years later, its first bloom would mob the NYBG Conservatory with visitors, photographers, and reporters. Clocking in at over 8 feet tall, the NYBG’s first bloom remains the largest ever grown in cultivation. 
 <param ve-map center="Q636275" zoom="11">
-<param ve-map-layer geojson active url="plant-humanities/geojson/corpse_flower.json">
+<param ve-map-layer geojson active url="/geojson/corpse_flower.json">
 
 Throughout the twentieth century, specimens of _Amorphophallus titanium_ and their blooms remained rare and infrequent. Over the past six years, however, US and European botanic gardens have seen a huge increase in the number of flowerings. In fact, Kew has stated that they have seen “more than three times as many titan arums flower in the last six years than in the previous 120 years!” It would appear that horticulturalists have finally unlocked the secret of the corpse flower. As scientific institutions, botanic gardens also readily share information along with seeds and plant clones. Thus, more and more institutions have and are able to successfully cultivate and flower this rare plant. 
 <param ve-map
@@ -65,7 +65,7 @@ Throughout the twentieth century, specimens of _Amorphophallus titanium_ and the
 
 The sharing of corpse flower clones and successful cultivation practices between botanic institutions is nothing new. In the early days of European botany, the exchange of plant knowledge and specimens between individuals and botanic institutions was common practice and one of the main avenues through which early botanic gardens and the field of botany developed. In the sixteenth century, the forerunners to modern botanic gardens were formed by professors of botany at medical institutions and universities. Viewed as a space to cultivate and learn about medicinal simples or therapeutic ingredients, these early gardens focused on the medicinal virtues of plants. This, however, began to change over the course of the sixteenth century. With the influx of exotic plants from the new world and the far east, the study of plants, or botany, began to establish its independence from medicine.
 <param ve-map center="Q13375" zoom="3">
-<param ve-map-layer geojson active url="plant-humanities/geojson/first_botanic_gardens.json">
+<param ve-map-layer geojson active url="/geojson/first_botanic_gardens.json">
 
 Early influential figures in the burgeoning field of botany, such as Carolus Clusius, collected and exchanged plants within a circle of horticulturalists, naturalists, and physicians. The intellectual products and specimens of this network formed the collections of many of the earliest botanical gardens in Europe. Clusius for example, collected plants in Spain as well as Austria and famously received and propagated tulip bulbs from the Ottoman Empire. In turn, Clusius studied, cultivated, and distributed the plants he collected from the botanical garden he helped establish and directed in Leiden. As European colonial ambitions grew, so too did their botanic gardens. By the nineteenth century, and thanks to imperial bioprospecting, the botanic gardens at Kew and Leiden featured rare plant specimens from across the British and Dutch empires. (zoom in on Kew and Leiden)
 
