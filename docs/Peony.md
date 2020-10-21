@@ -1,4 +1,5 @@
 
+
 <param ve-config
 	  title="Peony: From an Ancient Cure to an Early Modern Tool of Statecraft"
 	banner="https://iiif.wellcomecollection.org/image/B0009092.jpg/full/2048%2C/0/default.jpg"
@@ -118,5 +119,5 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 [^9]: Tadashi Tsuda, Aiko Sugaya, Hiromi Ohguchi, Naoki Kishida, Eiichi Sugaya, “Protective Effects of Peony Root Extract and Its Components on Neuron Damage in the Hippocampus Induced by the Cobalt Focus Epilepsy Model," _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMjUxMzMzM119
+eyJoaXN0b3J5IjpbNzk0NTA3MzM1XX0=
 -->
