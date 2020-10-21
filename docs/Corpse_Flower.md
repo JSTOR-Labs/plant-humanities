@@ -24,13 +24,14 @@ Adding to the allure of the plant is the rarity and brevity in which it blooms. 
 <var data-image
      data-fit="contain"
      data-attribute="Corpse Flower Lifecycle, USGB"
-     data-url="https://www.usbg.gov/sites/default/files/corpseflower_amorphophallus_titanum_lifecycle_usbotanicgarden_2020.jpg"></var>
+     data-url="https://www.usbg.gov/sites/default/files/images/cm16465_titan_arum_life_cycle_17x11.jpg"></var>
+<param ve-video id="lQwFAZKLxEE" title="USBG Corpse Flower Timelapse 2016">
 
 It is easy to see why the corpse flower plant has become an attraction for the dozen or so US botanic gardens that boast one in bloom. Blooms at the NYBG, the <span eid="Q1848855">United States Botanic Garden</span> (Washington, DC), <span eid="Q1400558">The Huntington</span> (Pasadena, CA), Chicago Botanic Garden, Denver Botanic Garden, and Greater Des Moines Botanical Garden in the past few years that have attracted hundreds of thousands of visitors. Each institution also has numerous news stories and webpages dedicated to the plant along with live streams, time-lapse videos of their rare blooms, and educational programing, all of which are watched by millions more online. For these institutions, cultivating a giant smelly plant is an excellent way to attract visitors to botanic gardens, and hopefully inspire a new generation of botanist. 
 <var data-primary="image"></var>
 <var data-image
-     data-fit="contain"
-     data-attribute="Corpse Flower Lifecycle, USGB"
+     data-fit="cover"
+     data-attribute="Crowds at the USBG line up to catch a glimps of a corpse flower in full bloom."
      data-url="https://media.npr.org/assets/img/2013/07/23/corpsefloweredit003-f2deaf4f87f4496766a0148e12ad0b50e6158980-s1000-c85.jpg"></var>
 <param ve-video id="L-Tp9cDj7Vg" title="USBG Corpse Flower 2020: Live Horticulture Q&A">
 
