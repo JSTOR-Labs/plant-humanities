@@ -1,5 +1,3 @@
-
-
 <param ve-config
 	  title="Peony: From an Ancient Cure to an Early Modern Tool of Statecraft"
 	banner="https://iiif.wellcomecollection.org/image/B0009092.jpg/full/2048%2C/0/default.jpg"
@@ -10,8 +8,10 @@
 	num-primary-sources="4"
 	author="Ashley Buchanan, PhD and Kyra Krakos, PhD">
 
-<param title="epilepsy" eid="Q41571" aliases="mal caduco">aaram title="precipitation" eid="Q113796">
-<param title="Medici Dynasty" eid="Q170022">aaram title="Paeoniaceae" eid="Q3360397">
+<param title="epilepsy" eid="Q41571" aliases="mal caduco">
+<param title="precipitation" eid="Q113796">
+<param title="Medici Dynasty" eid="Q170022">
+<param title="Paeoniaceae" eid="Q3360397">
 
 ### The Power of Peony
 In 1735, a Viennese baroness wrote to the last Medici princess, <span id="Q233181">Anna Maria Luisa de Medici (1669-1743)</span>,  to thank her for sending a miraculous infant convulsion powder. In her letter, the baroness praised the powder’s effectiveness and stated that the children she treated with it had been so violently taken by convulsions that the physicians had “given up on them.” Not only had the “miraculous powder” cured the children, the baroness also stated that a number of months had passed, and the children remained in perfect health. Anna Maria Luisa was well known for her miraculous powder, which she distributed strategically to influential individuals and courts across Europe.
@@ -119,5 +119,5 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 [^9]: Tadashi Tsuda, Aiko Sugaya, Hiromi Ohguchi, Naoki Kishida, Eiichi Sugaya, “Protective Effects of Peony Root Extract and Its Components on Neuron Damage in the Hippocampus Induced by the Cobalt Focus Epilepsy Model," _Experimental Neurology_, Volume 146, Issue 2, 1997, Pages 518-525
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0NTA3MzM1XX0=
+eyJoaXN0b3J5IjpbLTEzMzMxMzQyMzddfQ==
 -->
