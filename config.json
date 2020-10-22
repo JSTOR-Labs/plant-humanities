@@ -4,6 +4,7 @@
     "bannerHeight": 400,
     "mdRoot": "/docs",
     "components": [
+        {"name": "indexHeader", "src": "/components/IndexHeader.vue"},
         {"name": "siteFooter", "src": "/components/Footer.vue"}
     ],
     "nav": [
