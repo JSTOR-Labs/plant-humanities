@@ -88,3 +88,10 @@ In 1735, a Viennese baroness wrote to the last Medici princess, Anna Maria Luisa
 ![](https://dev.visual-essays.app/thumbnail?url=https://images.nypl.org/index.php?id=1126115&t=w)
   
 Turmeric’s status as a valuable medicinal plant has long been mythologized. Indeed, many juggernauts, including the _Oxford English Dictionary_, suggest that its etymology stems from an adulteration of the French trade-name “terre mérite.” Dr. William Guthrie, in a 2008 article, all but proved this etymology to be spurious, but it nonetheless illustrates how the root has been seen across the centuries: it is a plant of extreme value (mérite) from the earth (la terre).
+
+##
+[**Boxwood: A humble yet resilient plant that took over the garden world**](/boxwood)
+
+- author: Wouter Klein
+
+![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/61/Gew%C3%B6hnlicher_Buchsbaum%2C_Buxus_sempervirens_.JPG)
