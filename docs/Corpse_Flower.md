@@ -50,6 +50,7 @@ Eventually, one of the young plants made its way to the <span eid="Q188617">Roya
 <param ve-map-layer geojson active url="/geojson/corpse_flower.json">
 <var data-image
      data-fit="contain"
+     data-fit="contain"
      data-attribute="Corpse Flower Bloom, Kew, 1901"					    
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Kew_historic_Corpse_Flower.jpg"></var>
 
