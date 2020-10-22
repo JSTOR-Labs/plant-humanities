@@ -45,8 +45,7 @@ European botanists have long been fascinated with the study and cultivation of t
      data-url="https://upload.wikimedia.org/wikipedia/commons/e/e0/COLLECTIE_TROPENMUSEUM_Indonesische_mannen_poseren_bij_twee_verschillende_soorten_Amorphophallus_planten_waaronder_een_in_bloei_staande_Amorphophallus_Titanum_TMnr_60042790.jpg"></var>
 
 Eventually, one of the young plants made its way to the <span eid="Q188617">Royal Botanic Gardens Kew</span>, where it finally bloomed, with great fanfare, in 1889. The plant bloomed again in 1901 and once more in 1926. By 1926, however, word of the strange and stinking corpse flower had spread, attracting crowds so large that the police had to be called in to control them. 
-<param data-primary="map">
-<param ve-map center="Q18748726" zoom=11">
+<param ve-map primary center="Q18748726" zoom=11">
 <param ve-map-layer geojson active url="/geojson/corpse_flower.json">
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Kew_historic_Corpse_Flower.jpg" title="Corpse Flower Bloom, Kew, 1901" attribution="Wikimedia Commons" fit="contain">
 
