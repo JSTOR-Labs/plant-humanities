@@ -45,19 +45,22 @@
 
 <script>
   module.exports = {
+    name: 'PlantsIndexHeader',
     props: {
       essayConfig: { type: Object, default: function(){ return {}} },
       siteConfig: { type: Object, default: function(){ return {}} },
       progress: { type: Number, default: 0 },
       height: Number,
-      // banner: String,
-      // nav: { type: Array, default: function(){ return []} },
       appVersion: { type: String },
       libVersion: { type: String },
       isAuthenticated: { type: Boolean, default: false },
       href: String
     },    
-    data: () => ({}),
+    data: () => ({
+      headerWidth: null,
+      headerHeight: null,
+      observer: null
+    }),
     computed: {
       essayConfigLoaded() { return this.essayConfig !== null },
       banner() { return this.essayConfigLoaded ? (this.essayConfig.banner || this.siteConfig.banner) : null },
@@ -71,11 +74,39 @@
       hasStats() { return this.numMaps || this.numImages || this.numSpecimens || this.numPrimarySources }
     },
     mounted() {
-      console.log(`Header.mounted: height=${this.height}`, this.siteConfig, this.essayConfig)
+      console.log(`${this.$options.name}.mounted: height=${this.height}`, this.siteConfig, this.essayConfig)
       console.log(`isAuthenticated=${this.isAuthenticated}`)
+
+      // set initial height
       this.$refs.header.style.height = `${this.height}px`
+
+      // initialize a header size observer
+      this.initObserver()
     },
     methods: {
+      initObserver() {
+        const header = this.$refs.header, 
+              vm = this,
+              config = { attributes: true }
+
+        // create the observer
+        const observer = new MutationObserver(function (mutations) {
+          mutations.forEach(function (mutation) {
+            // check if the mutation is attributes and update the width and height data if it is.
+            if (mutation.type === 'attributes') {
+              let { width, height } = header.style
+              vm.headerWidth = parseInt(width.replace(/px/, ''))
+              vm.headerHeight = parseInt(height.replace(/px/, ''))
+            }
+          })
+        })
+
+        // observe element's specified mutations
+        observer.observe(header, config)
+
+        // add the observer to data so we can disconnect it later
+        this.observer = observer
+      },
       closeDrawer() {
         document.querySelector('#menuToggle input').checked = false
       },
@@ -118,7 +149,7 @@
             //let attributionY = (400 - this.height) * -1 
             //this.$refs.header.style.top = ((attributionY >= -43) ? `${attributionY}px`: '-43px' ) //move "brought to you by" offscreen
             
-            let percentScrolled = (400 - this.height) / 296 
+            let percentScrolled = (400 - this.headerHeight) / 296 
             
             //make icons shorter
             let iconHeight = 21 + ((1 - percentScrolled) * 11) 
@@ -155,10 +186,11 @@
         })
       }
     },
+    beforeDestroy() {
+      if (this.observer) this.observer.disconnect()
+    },
     watch: {
-      height() { 
-        // console.log(`header.height=${this.height}`)
-        this.$refs.header.style.height = `${this.height}px`
+      headerHeight() {
         this.updateHeader()
       },
       href() { 
@@ -317,7 +349,7 @@
 
   #menu li {
     display: flex;
-    padding: 40px;
+    padding: 20px 0;
     font-size: 1.2em;
   }
 
