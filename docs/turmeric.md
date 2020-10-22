@@ -94,7 +94,7 @@ By the late medieval period, the spice was definitely imported to Europe in larg
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/siena.json"
 	data-active="true"></var>
     
- Even as the spice became somewhat common within Europe, in the early modern period  many European sources continued to view some uses of the spice with both curiosity and disgust. For instance, John Pechey, in a [1694 herbal of plants used in “physics and surgery,”](https://www.biodiversitylibrary.org/item/211990) wrote from London that turmeric’s color (in spite of its perceived similarity to the Mediterranean plant saffron) emphasizes its strangeness to a European audience, writing “People of China...make an Ointment with this root,” which men and women rubbed on their bodies. Pechey continues, “this may seem very odd [to] those that are unaccustomed to it, by reason of the yellow color.” 
+Even as the spice became somewhat common within Europe, in the early modern period  many European sources continued to view some uses of the spice with both curiosity and disgust. For instance, John Pechey, in a [1694 herbal of plants used in “physics and surgery,”](https://www.biodiversitylibrary.org/item/211990) wrote from London that turmeric’s color (in spite of its perceived similarity to the Mediterranean plant saffron) emphasizes its strangeness to a European audience, writing “People of China...make an Ointment with this root,” which men and women rubbed on their bodies. Pechey continues, “this may seem very odd [to] those that are unaccustomed to it, by reason of the yellow color.” 
 <var data-map title="London" data-center="51.513184, -0.082066" data-zoom="5.5"></var>
 <var data-map-layer
 	title="Pechey's Birthplace"
@@ -112,7 +112,7 @@ By the time Pechey was writing, as [Cargo Sheets from the Folger Shakespeare Lib
 
 Its popularity as a medicinal agent seems to have decreased by the early 19th century. In [Thornton’s 1810 work _A Family Herbal_](https://www.biodiversitylibrary.org/item/250671#page/7/mode/1up) he notes the fallacious nature of the claim that turmeric could cure jaundice, writing, “from an ignorant suspicion that the jaundice was to be cured by whatever produced a yellow colour, that is, I suspect, seeing the bile diffused into the habit, from obstruction of passage of the gall-duct, these yellow remedies were used to supply its place, just as the yolks of eggs are used in the same complaint.” He continues, writing that, turmeric “posses[es] only slender virtue.” An [1817 medicinal dictionary](https://books.google.com/books?id=uWNZAAAAIAAJ&newbks=1&newbks_redir=0&dq=A%20New%20Medical%20Dictionary%3A%20Containing%20an%20Explanation%20of%20the%20Terms%20in%20Anatomy&pg=PP1#v=onepage&q&f=false) echoes this assessment of turmeric’s change in status, writing that, “it is now very seldom used medicinally” and that the root is mainly used as “an ingredient in the composition of Curry Powder,” as well as a tool for dyeing. From the 1800s on, turmeric was thus chiefly employed in the West as a culinary (as well as a dyeing) agent. What was the significance of this use, and how did it function discursively in the broader age of empire?
 <param ve-storiiies id="1d1i1”>
- <var data-primary="image"></var>
+<var data-primary="image"></var>
 <var data-image id="bhl-55999435" title="Turmeric in Robert John Thornton's Herbal" data-url="https://www.biodiversitylibrary.org/pageimage/55999435"></var>
 
 ### Colonizing the Table 
