@@ -33,7 +33,7 @@ data-author="Julia Fine"></var>
 
 ### Merit of the Earth? 
 Turmeric’s status as a valuable medicinal plant has long been mythologized. Indeed, many juggernauts, including the _Oxford English Dictionary_, suggest that its etymology stems from an adulteration of the French trade-name “terre mérite.” Dr. William Guthrie, in a 2008 article, all but proved this etymology to be spurious, but it nonetheless illustrates how the root has been seen across the centuries: it is a plant of extreme value (mérite) from the earth (la terre).[^ref1]    
- <var data-primary="image"></var>
+<var data-primary="image"></var>
 <var data-image id="bhl-48537187" title="Turmeric as Represented in William Woodville's Herbal" data-fit:"contain" data-url="https://www.biodiversitylibrary.org/pageimage/48537187"></var>
 <var data-scope="Turmeric" id="Q42562 data-region=""></var>
 
