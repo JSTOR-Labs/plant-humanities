@@ -74,6 +74,7 @@ Early influential figures in the burgeoning field of botany, such as [Carolus Cl
 <param ve-storiiies id="081kn">
 
 In addition to disciplinary tradition and a shared goal of increasing plant knowledge, the recent upswing in cultivation and plant sharing of the _Amorphophallus titanum_ by US and European botanic gardens is also spurred by public interest. A blooming corpse flower brings media coverage and a massive increase in visitors, both in person and online. Today, botanic gardens play a vital role in not only the scientific study of plants, but also in educating the public on issues relating to plant conservation and sustainability. The impressive and stinky blooming _Amorphophallus titanum_ captivates the public who, in turn, learn that the plant is threatened by poaching, deforestation, and land clearing for palm oil plantations in its native Sumatra. [It is estimated that fewer than 1,000 mature plants remain in Sumatra as up to 72 percent of its natural habitat has been destroyed](https://www.iucnredlist.org/species/118042834/118043213).
+<param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/iunc_CF.jpg" title="IUNC Red List Map" fit="contain">
 <param ve-map center="Q3492" zoom="5">
 <param ve-map-layer geojson active url="/geojson/corpse_flower.json">
 
