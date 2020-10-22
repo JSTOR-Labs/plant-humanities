@@ -1,134 +1,113 @@
-[View](https://plant-humanities.app/essay?gdid=1pXMxmniJsPZc0bC-5PX5wygn22qRMjRs)
+<param ve-config
+       title="Heliconia: Plant-Pollinator Interactions Reveal Evolution at Work"
+       author="John Kress, PhD and Yota Batsaki, PhD"
+       banner="https://ia800500.us.archive.org/BookReader/BookReaderImages.php?id=monographTrochi2Goul&itemPath=%2F12%2Fitems%2FmonographTrochi2Goul&server=ia800500.us.archive.org&page=n285_w1713"
+       layout="vtl">
 
-<var data-essay
-	title="Heliconia"
-	data-banner="https://upload.wikimedia.org/wikipedia/commons/4/48/Illustration_from_Les_liliac%C3%A9es_by_Pierre_Joseph_Redout%C3%A9_%281759-1840%29._Digitally_enhanced_by_rawpixel-com_381.jpg"
-	data-layout="vtl"
-	data-num-maps="4"
-	data-num-images="10"
-	data-num-specimens="16"
-	data-num-primary-sources="4"
-	data-author="John Kress, PhD and Yota Batsaki, PhD"></var>
+### From Mount Helicon to the Amazon
 
-<param ve-component 
-       name="d3plus-network"
-       src="https://jstor-labs.github.io/ve-components/components/D3PlusNetwork.vue"
-       selectors="tag:d3plus-network"
-       icon="fa-sitemap"
-       label="D3plus Network">
+<param ve-image fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/4/@@images/image" title="Margaret Mee, _Heliconia_">
+<param ve-entity eid="Q624242" aliases="Heliconias" title="Heliconia genus">
+Heliconias rank among the great botanical beauties of the natural world. Visually alluring with <span data-click-image-zoomto="568,209,1290,1100">sculptural bracts</span> and stunning colors, they have been widely distributed in ornamental gardens and the horticulture trade over the past two centuries. Yet until recently these iconic tropical plants were poorly known to scientists. As large herbs with <span data-click-image-zoomto="1429,2117,1290,1100">banana-like leaves</span> and fleshy, bulky inflorescences they are hard to collect in the field. For the same reason their character is difficult to capture on the herbarium sheet, where the sensuous bracts are reduced to a shriveled shadow of their showy presence in forest clearings. However, in recent decades, both field observations and controlled experiments by botanists and ecologists have produced a wealth of new information about heliconias. These fascinating discoveries illuminate the sophistication of plant-animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.
 
-### Need Subtitle
+The genus _Heliconia_ was named after mount Helicon—in Greek mythology, the home of Apollo and the Muses—by none other than Carl Linnaeus, the father of modern taxonomy. The name, evocative of art and beauty, was intended to emphasize the close taxonomic relationship of _Heliconia_ to the genus _[Musa](https://plant-humanities.app/Banana)_, or the bananas.
+![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/eight_families_order_Zingiberales_sm.jpg){: .right}
+Taxonomists recognize approximately 185 species of _Heliconia_ world-wide, but there are undoubtedly one or two dozen more species to discover and describe in the tropical forests of the two distinct regions across the globe where they grow as native plants.
+<param ve-entity eid="Q1043" title="Carl Linnaeus">
+<param ve-image region="449,688,492,425" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/4/@@image/image" title="Margaret Mee, _Heliconia_">
 
-Heliconias, with their sculptural bracts and stunning colors, are an iconic tropical plant, widely distributed in ornamental gardens and the horticulture trade. Yet until fairly recently these plants were poorly known to scientists. Heliconias are large herbs with fleshy, bulky inflorescences and flowers, so botanists have not always collected them in the field and their character is hard to capture on a herbarium sheet. However, in recent decades,  both field observations and controlled experiments by botanists have led to fascinating discoveries about heliconias that illuminate the sophistication of plant-animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.
-<param ve-plant-specimen eid="Q3926643" max="1">
-<param ve-plant-specimen eid="Q2667306" max="1">
-<param ve-plant-specimen eid="Q2727878" max="1">
-<param ve-plant-specimen eid="Q15250028" max="1">
-<param ve-plant-specimen eid="Q3926650" max="1">
+### A Short History of Horticultural Excitement for Heliconia
 
-The genus _Heliconia_ was named by Linnaeus after mount Helicon, the home of Apollo and the Muses, to emphasize the close taxonomic relationship to the genus [_Musa_](https://plant-humanities.app/Banana), or the bananas. Overall, taxonomists recognize about 185 species of _Heliconia_ world-wide, but there are undoubtedly one or two dozen more species to discover and describe in the tropical forests of the two distinct regions across the globe where they grow as native plants. These respective habitats, as wide apart as tropical South America and the islands of the South Pacific, determine the appearance of the plants.
-<param ve-image 
-       fit="cover"
-       title="The eight families of the order Zingiberales showing the relationship of bananas (_Musaceae_) and heliconias (_Heliconiaceae_)."
-       url="images/ef1aa2_46e5a2b723c64b20a704f71e8ef726e6.jpg">
+<param ve-image iiif fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/19/@@images/image" title="Margaret Mee, _Heliconia psittacorum_">
+<param ve-entity eid="Q2667306" title="Heliconia psittacorum" aliases="H. psittacorum">
+<param ve-entity eid="Q2727878" title="Heliconia bihai" aliases="H. bihai">
+<param ve-entity eid="Q15250028" title="Heliconia metallica" aliases="H. metallica">
+Heliconias became an object of desire for gardeners as soon as they left their natural habitats. Several species, including _H. psittacorum_, _H. bihai_, and _H. metallica,_ have been cultivated as ornamentals since the 1700s. They were carried around the world by horticulturalists and today they are found in many botanical gardens from Europe to Asia to the Pacific.
 
-In tropical America, heliconias are diurnal and brightly colored because they are pollinated by hummingbirds that can detect reds, oranges, pinks, and yellows. [In the South Pacific](https://www-jstor-org.ezp-prod1.hul.harvard.edu/stable/23188167), the species flower at night and have inflorescences and colors that are generally dull green in color and because they are pollinated by color-blind bats that forage at night.
-<param ve-map basemap="Esri_WorldPhysical" center="7.498854, 21.527758" zoom="1.5">
-<param ve-map-layer geojson active url="geojson/heliconia_distribution.json">
+<param ve-entity eid="Q2269599" title="Curtis's Botanical Magazine" aliases="Curtis’s Botanical Magazine">
+<param ve-image iiif fit="contain" url="https://ia800605.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002719653&itemPath=%2F12%2Fitems%2Fmobot31753002719653&server=ia800605.us.archive.org&page=n159_w377" title="Curtis's Botanical Magazine, _Heliconia psittacorum_, BHL">
+<param ve-image fit="contain" title="Curtis's Botanical Magazine, _Heliconia psittacorum_, BHL" url="https://www.biodiversitylibrary.org/pageimage/469080">
+_Curtis’s Botanical Magazine_, the botanical periodical featuring colored illustrations of plants that introduced many exotics to British and European horticulturalists and gardeners, published a plate ([#502](https://www.biodiversitylibrary.org/page/469087#page/160/mode/1up)) and a description of _Heliconia psittacorum_ in 1801. The entry explains that this “beautiful stove plant is a native of Jamaica…” and emphasizes the source of the image in a living specimen painted at a specific moment of the plant’s cycle that precedes the most distinctive stage: “At a more advanced stage than that at which our drawing was taken, the top of the stem becomes flexuous or zig-zag,” alluding to the plant’s trademark bracts. The “stove plant” designation is a reminder that growing the first heliconias outside the tropics would have required expensive hothouse infrastructure available only to the wealthy. The flowering of a “stove plant” was often a noteworthy and sometimes competitive feat that brought prestige to the owner. It was also ephemeral, and therefore might be commemorated with the commissioning of a plant portrait. This drawing “was made from a plant which flowered in August 1800, amidst a great variety of beautiful and rare exotics, in the superb collection of E. D. Woodford, Esq., at Vauxhall.” Collectors basked in the glamor that came with coaxing a rare exotic into bloom.
 
-The striking structure, color, and beauty of heliconias lend themselves better to the painter’s brush than the herbarium sheet. In fact, a work of botanical art led to the discovery of a new variety. The renowned botanical artist [Margaret Mee](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/margaret-mee-in-the-amazon)  undertook [15 expeditions](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/amazonian-entanglements) into the Amazon in the course of which she painted several heliconias. One of them, published in Mee’s _Flowers of the Amazon Forests_, caught the attention of Smithsonian botanist John Kress.
-<param ve-map basemap="OpenTopoMap" center="-3.161194, -60.002447" zoom="7.5">
-<param ve-map-layer geojson active url="geojson/Mee_1975.json">
+### Finding and Describing a New Heliconia – Art Meets Science
 
-After spending several years in South America searching for new species of _Heliconia_, in 1990 Kress was back in his office at the Smithsonian, leafing through Mee’s botanical paintings, when he  came across a form of heliconia, recorded by Mee near the border between Venezuela and Brazil, that was unknown to him. The flowers’ unusual greenish-yellow color differed from those commonly found in that region. Kress realized that it was a new variety, maybe even a new species, and resolved to find it and name it after Mee.
-<param ve-image 
-       fit="cover"
-       title="Photograph of John Kress (center) and team with the newly-found _Heliconia_."
-       url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/exhibition-images/14-john-kress-finding-heliconia.jpg/@@images/21b338bf-3b3b-4f38-a159-d728bdf9baea.jpeg">
+<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="Margaret Mee, _Heliconia uaupénsis_,© Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
+The striking beauty of heliconias continued to attract both the plant explorer and the painter well into the twentieth century. In botanical study the interests of art and science have often informed one another; in the case of heliconias, a work of botanical art led to the discovery of a new variety. The renowned botanical painter [Margaret Mee](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/margaret-mee-in-the-amazon) (1909-1988) undertook 15 expeditions into the Amazon in the course of which she painted several heliconias. One of them, published in Mee’s _Flowers of the Amazon_ _Forests_,  caught the attention of Smithsonian botanist [John Kress](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/kress-interview). After spending several years in South America searching for new species of _Heliconia_, in 1990 Kress was back in his office at the Smithsonian, leafing through Mee’s botanical paintings, when he came across a form unknown to him recorded by Mee near the border between Venezuela and Brazil. The flowers’ unusual greenish-yellow color differed from the more typical form of _Heliconia chartacea_, which is bright pink and rose. (The green-yellow variety may be a partial albino form of the typical species which  is called “Sexy Pink” in the horticultural trade.) Kress realized that this was a new variety, and maybe even a new species, and resolved to find it and name it after Mee.
+<param ve-entity eid="Q3926643" title="Heliconia chartacea">
+<param ve-image fit="cover" title="Photograph of John Kress (center) and team with the newly-found _Heliconia_." url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/exhibition-images/14-john-kress-finding-heliconia.jpg/@@images/21b338bf-3b3b-4f38-a159-d728bdf9baea.jpeg">
 
-This special form, which was named by Kress _Heliconia chartacea  var. meeana_,  is greenish-yellow in color and differs from the more typical form of _Heliconia chartacea_, which is bright pink and rose. It may simply be a partial albino form of the typical species and is also pollinated by hummingbirds. A scientific illustration by Smithsonian botanical artist [Alice Tangerini](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/tangerini-interview), created after Kress returned with the heliconia, employed a mix of photographs, dried specimens, and dissections under the microscope to capture the plant’s structures in pen and ink for the botanical publication of the new variety.
-<param ve-image 
-       fit="cover"
-       title="Alice Tangerini, _Heliconia chartacea  var. meeana_"
-       url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/mixed-media/heliconia-chartacea-var-meeana/@@images/image">
+_Several years later, when I was in Venezuela collecting plants, I decided to find this Heliconia so I organized an expedition up the Orinoco River to where it meets the Vaupés River. With two other botanists (one from Venezuela named Ernesto Foldats and the other a student from Germany) along with my research assistant Cheryl Roesel, I flew down to a missionary group working with the Yanomamo indigenous people where we knew there was a little air strip near Platanal along the Orinoco. Once we landed and paid our respect to our hosts in the region, I headed into the forest along the river. It took me about five minutes to find the new Heliconia! You can tell how excited we were from the photograph. We made some botanical specimens for the local herbarium in Venezuela and the Smithsonian. I took copious notes and measurements. Later I decided that the plant was not a unique species so I named it as a variety and called it Heliconia chartacea var. meena. We flew back that afternoon after a brief celebration. It was a one-day expedition and finding the plant was not that difficult. The return was another story. We had to fly out on a tiny little plane while it was still light. After takeoff I was sitting next to the pilot when the engine stopped while we were high over the rain forest. I thought: “Hey, I have finally found Margaret Mee's Heliconia and the engine has stopped. What is happening?" Then the pilot looked over at me and commented “Oh, I forgot to switch the gas tanks.” He flipped the switch and we continued on our way.”_
+<param ve-video title="Heliconia bihai 'Arawak' - (Lobster Claw), Herbarium Werdler" vid="pYiYzb1K450">
 
-The more typical form of _Heliconia chartacea_ is called “Sexy Pink” in the horticultural trade for its attractive inflorescences and flowers. Heliconias have been an object of desire for gardeners outside their natural habitat for centuries. Several species of Heliconia, including _H. psittacorum_, _H. bihai_, and _H. metallica_, have been cultivated as ornamentals since the 1700s. They were carried around the world by horticulturalists and found in many botanical gardens from Europe to Asia to the Pacific.
-<param ve-image 
-       fit="cover"
-       title="Margaret Mee, _Heliconia  psittacorum_, Dumbarton Oaks"
-       url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/19/@@images/image">
-<param ve-image 
-       fit="cover"
-       title="Herbarium specimen of _Heliconia chartacea_, from the Rio Janeiro Botanical Garden"
-       url="https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/alukaplant/rb/phase_01/rb0005/rb00287315.jp2">
+<param ve-entity eid="Q21380547" title="Heliconia chartacea var. meeana">
+<param ve-storiiies id="ce1ku">
+Kress honored Margaret Mee by naming the new discovery _Heliconia chartacea_ var. _meeana_. A pen and ink drawing by the Smithsonian’s scientific illustrator [Alice Tangerini](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/tangerini-interview), created after Kress returned with the heliconia, employed a mix of photographs, dried specimens, and dissections under the microscope to capture the plant’s structures for the ensuing botanical publication. The discovery and description of this new variety exemplifies the close entanglement of art and science in the long tradition of plant representation.
 
-The Botanical Magazine (1799-1800) published a plate ([#502](https://www.biodiversitylibrary.org/page/469087#page/160/mode/1up)) and an entry on _Heliconia psittacorum_: “This beautiful stove plant is a native of Jamaica…” The text alludes to the fact that the image was drawn from a living specimen and marks the stage of the plant at that particular moment: “At a more advanced stage than that at which our drawing was taken, the top of the stem becomes flexuous or zig-zag,” alluding to the plant’s  trademark  bracts. The “stove plant” designation is a reminder that growing heliconias would have required expensive heating and hothouse infrastructure available only to the very wealthy; the flowering of a “stove plant” was often a competitive feat worthy of being recorded and a source of prestige for its own  owner. This drawing “was made from a plant which flowered in August 1800, amidst a great variety of beautiful and rare exotics, in the superb collection of E.D. Woodford, Esq., at Vauxhall.” Collectors basked in the achievement and glamor that came with the ability to coax such a rare exotic into bloom.
-<param ve-image 
-       fit="cover"
-       title="Curtis’ Botanical Magazine, _Heliconia  psittacorum_, via BHL"
-       url="https://www.biodiversitylibrary.org/pageimage/469079">
-<param ve-image 
-       fit="cover"
-       title="Curtis’ Botanical Magazine, _Heliconia  psittacorum_, via BHL"
-       url="https://www.biodiversitylibrary.org/pageimage/469080">
+Mee’s gift of observation, honed through the painstaking sketching of plants and in conversation with expert botanists, led her to notice the plant. Her painting, though with a primarily aesthetic purpose, was detailed and accurate enough to convince Kress, an expert on the genus, that this was a new discovery. His scientific publication then called for the skill of a botanical illustrator, shifting the emphasis from color and composition to the accurate description of the plant’s parts, yet with a graceful economy of means that produces its own version of aesthetic pleasure.
+<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Heliconia_image_comparison.jpg">
 
-Heliconias are of particular interest to science and to our understanding of ecosystems and plant-animal interactions because they have evolved highly specialized relationships with their pollinators, the hummingbirds. Heliconias are mostly found in the neotropics from central Mexico down to northern Argentina, including the Caribbean. They all have brightly colored flowers and bracts that open during the day to attract their hummingbird pollinators. 
-<param ve-map basemap="Esri_WorldPhysical" center="5.855585, -76.226586" zoom="3.5">
-<param ve-map-layer geojson active url="geojson/heliconia_distribution.json">
+### The Natural History of Heliconias – Experts in Interactions
 
-Another strange group of heliconias in the South Pacific is found from Samoa to New Guinea and they are completely different: they are a dull, green color and flower at night. They are pollinated by bats, which cannot detect color and forage after dark, so the Pacific heliconias have lost their bright colors. We now believe that the most ancient heliconias that lived in South America about ten million years ago, and had bright red and yellow flowers, somehow got to the South Pacific islands where they lost their bright colors and switched from hummingbird pollination to bat pollination.
-<param ve-map basemap="Esri_WorldPhysical" center="-15.935453, 157.264214" zoom="3.5">
-<param ve-map-layer geojson active url="geojson/heliconia_distribution.json">
+<param ve-entity eid="Q37813" aliases="ecosystems" title="ecosystem">
+<param ve-image iiif region="700,1434,900,826" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/map_heliconia_pollinators_hummingbird_bat.jpg" title="Distribution of heliconias showing native (green) and introduced (purple) with pollinators.">
+Heliconias are not only a source of ornamental and visual pleasure: they are also of particular interest to science and offer an arresting point of departure for our understanding of ecosystems and plant-animal interactions. In fact, the distinctive forms and vivid colors that make heliconias so beautiful also offer a key to their extraordinary evolutionary adaptations. To begin with, heliconias’ respective habitats—which encompass regions as wide apart as tropical South America and the islands of the South Pacific—determine their appearance. Heliconias are mostly found in the neotropics from <span data-click-image-zoomto="132,2,4228,3607">central Mexico down to northern Argentina, including the Caribbean.</span> In tropical America, heliconias are diurnal and brightly colored because they are pollinated by hummingbirds that are attracted to reds, oranges, pinks, and yellows. In exchange for transporting the pollen, hummingbirds gorge on the plentiful sugary nectar of the small flowers protected within the bracts, whose shape ensures that access is restricted to preferred pollinators with suitably evolved bills. Another strange group of heliconias extends from <span data-click-image-zoomto="5770,1534,927,826">Samoa to New Guinea</span> [in the South Pacific](https://www.jstor.org/stable/23188167). Those species are completely different: they are a dull, green color and flower nocturnally because they are pollinated by color-blind bats that forage at night. We now believe that the most ancient heliconias that lived in South America about ten million years ago, and had bright red and yellow flowers, somehow got to the South Pacific islands where they lost their bright colors and switched from hummingbird pollination to bat pollination.
 
-This is evolution at work. Indeed, the close relationships between some plants and animals and their interactions played a key role in the development of [Charles Darwin’s ideas on the process of natural selection and evolution](https://www.biodiversitylibrary.org/page/26253722](https://www.biodiversitylibrary.org/page/26253722)). Darwin was especially interested in the relationship between orchids and the insects that pollinated them. Heliconias offer equally interesting and unique relationships with their animal pollinators.
+<param ve-image fit="contain" primary url="https://ia802503.us.archive.org/BookReader/BookReaderImages.php?id=variouscontrivan1886darw&itemPath=%2F7%2Fitems%2Fvariouscontrivan1886darw&server=ia802503.us.archive.org&page=n8_w1019" title="Charles Darwin, _The various contrivances by which orchids are fertilised by insects_, title page">
+<param ve-image fit="contain" url="https://ia802503.us.archive.org/BookReader/BookReaderImages.php?id=variouscontrivan1886darw&itemPath=%2F7%2Fitems%2Fvariouscontrivan1886darw&server=ia802503.us.archive.org&page=n52_w356" title="Charles Darwin, _The various contrivances by which orchids are fertilised by insects_, p. 31">
+<param ve-entity eid="Q1035" title="Charles Darwin" aliases="Charles Darwin’s">
+The highly specialized relationships between heliconias and their pollinators reveal evolution at work. Indeed, these close—sometimes exclusive—relationships between specific plants and animals played a key role in the development of Charles Darwin’s ideas on the process of natural selection and evolution. While Darwin was especially interested in the relationship between orchids and the insects that pollinated them, heliconias offer equally interesting and unique relationships with their animal pollinators. An extraordinary [example](https://doi.org/10.1007/s00442-011-2043-8) of coevolution, or reciprocal evolution between two species, is the relationship between heliconias and hummingbirds in the eastern arc of the Caribbean islands. The two species of heliconias native to these islands and the one species of hummingbird found there have coevolved in a very unique and interesting way. The two heliconias are quite different from each other, but the single species of hummingbird that pollinates them is so specialized that the small-bodied females visit one species of heliconia and the larger-bodied males visit the other species. Astonishingly, the shape and size of the bills of each sex corresponds to the shape and size of the flowers of the specific heliconias that they visit and feed from. In other words, one sex of the hummingbird has evolved with one species of heliconia and the other sex has evolved with the second species of plant.
+
+<param ve-entity eid="Q38095" title="Islas Galápagos" aliases="Galápagos Islands|Galapagos">
+<param ve-entity eid="Q43624" aliases="hummingbirds|hummingbird" title="Trochilidae">
+<param ve-image iiif fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/amazonian-entanglements/heliconia-bihai/@@images/image" title="Bryan Poole, _Heliconia bihai_ with female hummingbirds">
+Archipelagos are ideal environments for observing plant evolution driven by interactions with animals of various kinds. Darwin’s ideas on evolution and natural selection were in part based on his experiences and observations in the Galápagos Islands and other archipelagos. The fewer species of plants and animals on islands compared to mainland habitats allow biologists to study more closely ecological and evolutionary processes in natural communities. This is certainly true with the heliconias and hummingbirds in the arc of islands in the Eastern Caribbean. Douglas Altshuler and Christopher James Clark [describe](https://www.jstor.org/stable/3834345) the dynamic nature of these interactions: “Hummingbird and Heliconia engage in a coevolutionary dance, with flower shape evolving in response to hummingbird bills, and bill shape evolving in response to flower shape. By offering nectars containing different amounts of energy, Heliconia species select for different body sizes” in the birds as well. Echoing the famous “Darwin’s Finches” in the Galapagos, Altshuler and Clark referred to the birds in the Caribbean as “Darwin’s Hummingbirds.”
+
+<param ve-entity eid="Q3926650" title="Heliconia tortuosa">
+<param ve-entity eid="Q800" title="Costa Rica">
+<param ve-image iiif fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/amazonian-entanglements/heliconia-caribaea/@@images/image" title="Bryan Poole, _Heliconia caribeae_ with male hummingbirds">
+Another species, _Heliconia tortuosa_ from Costa Rica, provides a fascinating example of plant adaption in selecting specific pollinators. The distinctive shape of the plant’s flowers acts as a screening mechanism. An ingenious aviary [experiment](https://www.jstor.org/stable/26462059) has shown that the plant has the capacity to distinguish among pollinators and respond to their visits by preventing or facilitating pollen tube growth to encourage or discourage fertilization and seed production. Specifically, _Heliconia tortuosa_ plants allow pollen tube growth after visits by two species of hummingbird that are more likely to carry high-quality, long-distance and more diverse pollen, and prevent pollen tube growth after visits by less effective species of hummingbirds. The plants apparently discriminate by measuring how much nectar has been removed by the particular birds. This experiment is perhaps the first evidence of specific pollinator recognition by plants, and a form of decision-making that identifies the desired pollinator to optimize reproduction.
+
+### Nature’s Network in Tropical Forests
+
+<param ve-entity eid="Q1602492" title="Heliconia imbricata">
+<param ve-entity eid="Q28425" aliases="bats|bat" title="bat">
+<param ve-entity eid="Q7367" aliases="mosquitos" title="Culicidae">
+<param ve-entity eid="Q43624" aliases="hummingbirds|hummingbird" title="Trochilidae">
+<param ve-entity eid="Q1533239" aliases="midges" title="Ceratopogonidae">
+<param ve-entity eid="Q859257" aliases="flies" title="fly">
+The close relationship between heliconias and their pollinators highlights the vital role these plants play in the broader ecosystem as a source of food and shelter. A number of birds, such as toucans and tanagers, as well as squirrels feed on the bright blue fruits and seeds of most species of _Heliconia_. Some plants, like _Heliconia imbricata_, are keystone species crucial to the survival of many other rainforest inhabitants.  In addition to feeding energy-rich nectar to the hummingbirds which pollinate its flowers, this heliconia offers a daytime home to tent-making bats, who fold-over the banana-like leaves to provide shelter from the tropical sun and rain. The species also serves as the perfect spot for hummingbirds to build their nests under the tips of the leaves. Meanwhile, the liquid that pools in the bracts enclosing the flowers is a breeding ground for insect larvae, especially mosquitos, midges, and flies. One group of tropical beetles, called the rolled-leaf hispine beetles, is highly specialized to feed inside the unfurling leaves of this and other species of heliconias and their relatives.
+<param ve-vis-network file="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia birds.tsv">
+
+<param ve-entity eid="Q441" title="botany">
+<param ve-entity eid="Q181916" title="herbarium">
+Botany has always been a highly visual science, and our understanding of plants depends partly on the ways in which we have chosen to represent them. One of the conventions of both the botanical portrait and the scientific illustration alike is the rendering of the singular plant removed from its natural context and portrayed against a neutral background. Similarly, the herbarium sheet removes the plant from its ecosystem, rendering it suitable for transportation, archiving, and future reference and comparison in museums, but divorcing the specimen from its web of interactions and relationships. We know that plants do not exist in isolation; they inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction. Botanists are therefore using the conventional forms of plant representation, such as herbarium specimens, to understand more about natural habitats of the species and repurposing them to determine effective strategies for their conservation.
 <param ve-vis-network file="https://jstor-labs.github.io/plant-humanities/graphs/Heliconia.tsv">
 
-An extraordinary [example](https://link-springer-com.ezp-prod1.hul.harvard.edu/content/pdf/10.1007/s00442-011-2043-8.pdf) of coevolution, or reciprocal evolution between two species, is the relationship between heliconias and hummingbirds in the eastern arc of the Caribbean islands. The two species of heliconias native to these islands and the one species of hummingbird found there have coevolved in a very unique and interesting way. The two heliconias are quite different from each other, but the single species of hummingbird that pollinates them is so specialized that the small-bodied males visit the other species. Astonishingly, the shape and size of the bills of each sex corresponds to the shape and size of the flowers of the specific heliconias that they visit and feed from. In other words, one sex of the hummingbird has evolved with one species of heliconia and the other sex has evolved with the second species of plant.
-<param ve-storiiies id="e41co">
-<param ve-image 
-       fit="cover"
-       title="Bryan Poole, _Heliconia bihai_ with female hummingbirds"
-       url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/amazonian-entanglements/heliconia-bihai/@@images/518bb71b-5539-45b3-ac09-b2f8edac97fd.jpeg">
+### Conserving the Diversity of Heliconia
 
-Archipelagoes are ideal environments for observing plant evolution driven by interactions with animals of various kinds. Darwin’s ideas on evolution and natural selection were in part based on his experiences and observations in the Galápagos Islands and other archipelagos. The fewer species of plants and animals on islands than in mainland habitats allow biologists to study more closely ecological and evolutionary processes in natural communities. This is certainly true with the heliconias and hummingbirds in the arc of islands in the Eastern Caribbean. Douglas Altshuler and Christopher James Clark [describe](http://www.jstor.org/stable/3834345) the dynamic nature of these interactions: “Hummingbird and Heliconia engage in a coevolutionary dance, with flower shape evolving in response to hummingbird bills, and bill shape evolving in response to flower shape. By offering nectars containing different amounts of energy, Heliconia species select for different body sizes” in the birds as well. Echoing  the famous “Darwin’s Finches” in the Galapagos,  Altshuler and Clark referred to the birds in the Caribbean as “Darwin’s Hummingbirds.”
-<param ve-image 
-       fit="cover"
-       title="Bryan Poole, _Heliconia caribaea_ with male hummingbirds"
-       url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/amazonian-entanglements/heliconia-caribaea/@@images/a4d897a3-c0e0-488d-9f11-68560d92ea02.jpeg">
+<param ve-entity eid="Q17025438" title="United States National Herbarium">
+<param ve-entity eid="Q664609" title="Caribbean">
+<param ve-entity eid="Q739" title="Colombia">
+<param ve-entity eid="Q717" title="Venezuela">
+<param ve-map prefer-geojson title="Map showing habitat destruction for select species" primary center="Q1106" zoom="1.5" basemap="Esri_WorldPhysical">
+<param ve-map-layer geojson active url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/geojson/heliconia_destribution_map.json">
+A full assessment of the conservation status of each known species of _Heliconia_ is currently being conducted by John Kress, Gary Krupnick, and Serenity Montaño at the Smithsonian. Using information from specimens collected over the last two hundred years and maintained in herbaria around the world, such as the United States National Herbarium at the Smithsonian Institution, they are using both the [IUCN Red List](https://www.iucnredlist.org/search?query=Heliconia&searchType=species) Criteria method of assessment and a second rapid assessment method to determine the conservation status of each species. Geospatial Conservation Assessment (GeoCat) maps and Red List descriptions of the conservation status of 185 species are being produced. For example, data from over 200 herbarium specimens found in 20 institutions suggest that _[Heliconia bihai](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:796925-1)_ from the Caribbean and northern South America is of “Least Concern” for conservation (see GeoCat map and Red List assessment).  Whereas the six available specimens of the very closely related species _[Heliconia aurea](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:119303-2)_ from Colombia and Venezuela indicate that it is “Vulnerable” and at risk of extinction most likely due to habitat alteration, degradation, and destruction (see GeoCat map and Red List assessment).
 
-Another species, _Heliconia tortuosa_ from Costa Rica, provides a fascinating example of plant adaption in selecting specific pollinators. The distinctive shape of the plant’s flowers acts as a screening mechanism. An ingenious aviary [experiment](https://www-jstor-org.ezp-prod1.hul.harvard.edu/stable/26462059) has shown that the plant has the capacity to distinguish among pollinators and respond to their visits by preventing or facilitating pollen tube growth to encourage or discourage fertilization and seed production. Specifically, _Heliconia tortuosa_ plants allow pollen tube growth after visits by two species of hummingbird that are more likely to carry high-quality, long-distance and more diverse pollen--and prevent pollen tube growth after visits by less effective species of hummingbirds. The plants apparently discriminate by measuring how much nectar has been removed by the particular birds. This experiment is perhaps the first evidence of specific pollinator recognition by plants, and a form of decision-making that identifies the desired pollinator to optimize reproduction.
-<param ve-image 
-       fit="cover"
-       title="The curved bill of the green hermit (Phaetornis guy), which is restricted to forested habitats, effectively extracts nectar from a _Heliconia tortuosa flower_, Matt Betts, Oregon State University"
-       url="https://www.eurekalert.org/multimedia/pub/web/107366_web.jpg">
-
-Plants do not exist in isolation as they are often depicted in the portraits painted by artists and the drawings of botanical illustrators. Rather, plants inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction.
-<param ve-image 
-       fit="cover"
-       title="_Heliconia Keystone Species_"
-       url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/docs/images/Screen%20Shot%202020-06-23%20at%201.40.17%20PM.png">
-
-A full assessment of the conservation status of each known species of _Heliconia_ is currently being conducted by John Kress, Gary Krupnick, and Serenity Montano. Using information from specimens collected over the last two hundred years and maintained in herbaria around the world, such as the United States National Herbarium at the Smithsonian Institution, they are using both the [IUCN Red List](https://www.iucnredlist.org/search?query=Heliconia&searchType=species) Criteria method of assessment and a second rapid assessment method to determine conservation status of each species. Geospatial Conservation Assessment (GeoCat) maps and Red List descriptions of the conservation status of 185 species are being produced. For example, data from over 200 herbarium specimens found in 20 institutions suggest that _Heliconia bihai_ from the Caribbean and northern South America is of “Least Concern” for conservation.
-<param ve-plant-specimen eid="Q2727878">
-
-Whereas the six available specimens of the very closely related species _Heliconia aurea_ from Colombia and Venezuela indicate that it is “Vulnerable” and at risk of extinction most likely due to habitat alteration, degradation, and destruction.
-
+<param ve-plant-specimen eid="Q2727878" max="1">
+Our understanding of the diversity and ecology of heliconias has grown tremendously in the last few decades.  Many exciting new forms and species have been discovered and described by botanists. The intricate web of interactions between heliconias and their animal partners in natural ecosystems seems endless with years of observation still needed to fully comprehend their intricacy. Each new plant we find and each additional observation we make opens up entirely new fields for exploration.  Horticulturists, scientists, and citizens have so much more to learn and appreciate about these disciples of Apollo and the Muses from Mount Helicon.
 
 ### References
-Altshuler, Douglas L. and Christopher James Clark. 2003. Darwin’s Hummingbirds. Science 300: 588-589. JSTOR, www.jstor.org/stable/3834345. Accessed 1 June 2020.
 
-Betts, M., Hadley, A., & Kress, W. 2015. Pollinator recognition by a keystone tropical plant. Proceedings of the National Academy of Sciences of the United States of America,112  (11), 3433-3438. JSTOR, [www.jstor.org/stable/26462059](http://www.jstor.org/stable/26462059). Accessed  May 17, 2020.
+Altshuler, Douglas L. and Christopher James Clark. 2003. Darwin’s Hummingbirds. _Science_ 300: 588-589. _JSTOR_, [www.jstor.org/stable/3834345](www.jstor.org/stable/3834345). Accessed 1 June 2020.
 
-Kress, W. John. 1990. The Taxonomy of Old World Heliconia (Heliconiaceae).  Allertonia, 6(1), 1–58. JSTOR, www.jstor.org/stable/23188167. Accessed 17 May 2020.
+Betts, M., Hadley, A., & Kress, W. 2015. Pollinator recognition by a keystone tropical plant. _Proceedings of the National Academy of Sciences of the United States of America,_ _112_ (11), 3433-3438. _JSTOR_, [www.jstor.org/stable/26462059](www.jstor.org/stable/26462059). Accessed May 17, 2020.
 
-Kress, W. J. 1997. A synopsis of the genus Heliconia (Heliconiaceae) in Venezuela with one new variety. BioLlania, Edición Especial No. 6: 407-430.
+Kress, W. John. 1990. The Taxonomy of Old World Heliconia (Heliconiaceae). _Allertonia_, 6 (1), 1–58. _JSTOR_, [www.jstor.org/stable/23188167](www.jstor.org/stable/23188167). Accessed 17 May 2020.
 
-Martén-Rodríguez, S., John Kress, W., Temeles, E.J. et al.2011. Plant–pollinator interactions and floral convergence in two species of Heliconiafrom the Caribbean Islands. Oecologia167, 1075–1083. https://doi.org/10.1007/s00442-011-2043-8
+Kress, W. J.  1997.  A synopsis of the genus _Heliconia_ (Heliconiaceae) in Venezuela with one new variety.  BioLlania, Edición Especial No. 6: 407-430.
 
-Mee, M., & Morrison, T. 1988. Margaret Mee, In Search of Flowers of the Amazon Forests: Diaries of an English artist reveal the beauty of the vanishing rainforest. Suffolk, England: Nonesuch Expeditions.
+Martén-Rodríguez, S., John Kress, W., Temeles, E.J. _et al._ 2011. Plant–pollinator interactions and floral convergence in two species of _Heliconia_ from the Caribbean Islands. _Oecologia_ 167, 1075–1083. https://doi.org/10.1007/s00442-011-2043-8
 
-Temeles, E. J., and W. J. Kress. 2003. Evidence for adaptation in a plant-hummingbird
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Mjk1OTA2NCwzMjcyNTQ4MDQsMjAzNj
-E1ODE2OSwtMTUyNTkwODkwMywtMTM1MTE1MzU2M119
--->
+Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon Forests: Diaries of an English artist reveal the beauty of the vanishing rainforest_. Suffolk, England: Nonesuch Expeditions.
+
+Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.

@@ -92,6 +92,13 @@ Turmeric’s status as a valuable medicinal plant has long been mythologized. In
 ##
 [**Boxwood: A humble yet resilient plant that took over the garden world**](/boxwood)
 
-- author: Wouter Klein
+- author: Anatole Tchikine
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/61/Gew%C3%B6hnlicher_Buchsbaum%2C_Buxus_sempervirens_.JPG)
+
+##
+[**From Mount Helicon to the Amazon**](/heliconia)
+
+- author: John Kress, PhD and Yota Batsaki, PhD
+
+![](https://dev.visual-essays.app/thumbnail?url=https://ia800500.us.archive.org/BookReader/BookReaderImages.php?id=monographTrochi2Goul&itemPath=%2F12%2Fitems%2FmonographTrochi2Goul&server=ia800500.us.archive.org&page=n285_w1713)
