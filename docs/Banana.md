@@ -92,7 +92,7 @@ Europeans first learned of bananas through Alexander the Great’s Asiatic campa
 <param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/banana_distribution.json">
 
 The rise of European Maritime powers in the late fourteenth and fifteenth centuries, however, brought renewed interest in the banana. By the time the Portuguese began exploring the west coast of Africa in the late fifteenth century, propagation of banana cultivars had spread throughout sub-Saharan Africa. Eventually, Portuguese slavers began transporting bananas alongside enslaved Africans to the West Indies. Unlike later periods, however, bananas were not viewed as a cash crop. Instead, they served as cheap and portable sustenance for the slaves during their horrific transatlantic crossing.
-<param ve-map title="New World" center="-1.168246, 22.088078" basemap="Esri_WorldPhysical" zoom="2.75" stroke-width="0" show-labels>
+<param ve-map title="New World" center="-1.168246, 22.088078" basemap="Esri_WorldPhysical" zoom="2.75" show-labels>
 <param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/bananas_africa.json">
 
 In 1516 Friar Tomas de Berlanga, a Catholic missionary, landed on the Island of Hispaniola (now Haiti and the Dominican Republic) and planted banana stems (or suckers) as means to continue to feed the growing African slave population. When Friar Tomas was made Bishop of Panama, he took banana plants with him to the mainland. Bananas were also carried to Mexico by the Spanish and eventually spread rapidly throughout Central America.[^ref5]
