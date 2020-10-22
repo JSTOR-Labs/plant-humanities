@@ -1,7 +1,4 @@
-<param ve-config 
-       title="Plant Humanities"
-       banner="https://jstor-labs.github.io/plant-humanities/images/header.jpg"
-       layout="index">
+<param ve-config title="Plant Humanities" layout="index">
 
 ## The Plant Humanities Initiative
 
