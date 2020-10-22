@@ -24,13 +24,13 @@ It is easy to see why the corpse flower plant has become an attraction for the d
 <param ve-video id="L-Tp9cDj7Vg" title="USBG Corpse Flower 2020: Live Horticulture Q&A">
 
 European botanists have long been fascinated with the study and cultivation of the _Amorphophallus titanum_. An Italian botanist, <span eid="Q361037">Odoardo Beccari</span>, was the first European to encounter the species in <span eid="Q3492">Sumatra</span>, where it is native, while traveling through Southeast Asia in 1878. Beccari sent seeds of the impressive plant back to his native Florence, where the plant was germinated. 
-<param ve-map primary center="Q3492" zoom="4" stroke-width="0" show-labels>
-<param ve-map-layer geojson active url="/geojson/corpse_flower.json">
+<param ve-map primary center="Q3492" zoom="4" stroke-width="0">
+<param ve-map-layer geojson active url="/geojson/corpse_flower.json" show-labels>
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e0/COLLECTIE_TROPENMUSEUM_Indonesische_mannen_poseren_bij_twee_verschillende_soorten_Amorphophallus_planten_waaronder_een_in_bloei_staande_Amorphophallus_Titanum_TMnr_60042790.jpg" title="Indonesian men pose with two Amorphophallus plants (one in bloom), c. 1900-1940" fit="contain">
 
 Eventually, one of the young plants made its way to the <span eid="Q188617">Royal Botanic Gardens Kew</span>, where it finally bloomed, with great fanfare, in 1889. The plant bloomed again in 1901 and once more in 1926. By 1926, however, word of the strange and stinking corpse flower had spread, attracting crowds so large that the police had to be called in to control them. 
-<param ve-map primary center="Q18748726" zoom=11">
-<param ve-map-layer geojson active url="/geojson/corpse_flower.json">
+<param ve-map primary center="Q18748726" zoom=11" stroke-width="0">
+<param ve-map-layer geojson active url="/geojson/corpse_flower.json" show-labels>
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Kew_historic_Corpse_Flower.jpg" title="Corpse Flower Bloom, Kew, 1901" attribution="Wikimedia Commons" fit="contain">
 
 The story of the _Amorphophallus titanum_ in the US begins in the Bronx. The NYBG was the first institution to successfully cultivate and bloom an _Amorphophallus titanum_ in the Western Hemisphere in 1937. They had received the plant from Sumatra in 1932. Five years later, its first bloom would mob the NYBG Conservatory with visitors, photographers, and reporters. Clocking in at over 8 feet tall, the NYBG’s first bloom remains the largest ever grown in cultivation.[^2] 
