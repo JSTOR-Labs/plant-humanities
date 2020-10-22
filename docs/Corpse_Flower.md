@@ -48,7 +48,7 @@ Eventually, one of the young plants made its way to the <span eid="Q188617">Roya
 <param data-primary="map">
 <param ve-map center="Q18748726" zoom=11">
 <param ve-map-layer geojson active url="/geojson/corpse_flower.json">
-<param ve-image 
+<param ve-image iiif
      fit="contain"
      title="Corpse Flower Bloom, Kew, 1901"					    
      url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Kew_historic_Corpse_Flower.jpg">
