@@ -1,7 +1,6 @@
 <template>
   <div id="footer">
-    A collaboration between <img src="https://jstor-labs.github.io/plant-humanities/images/do-logo.svg" style="height:100px;"> &nbsp;&nbsp;&nbsp;&nbsp;
-    
+    A collaboration between <img src="https://jstor-labs.github.io/plant-humanities/images/do-logo.svg" style="height:100px;"> &nbsp;&nbsp;
     <img src="https://jstor-labs.github.io/plant-humanities/images/labs.jpg" height="20px">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Funded by: <img src="https://jstor-labs.github.io/plant-humanities/images/Mellon.jpg" height="20px">
