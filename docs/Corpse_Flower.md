@@ -48,10 +48,10 @@ Eventually, one of the young plants made its way to the <span eid="Q188617">Roya
 <param data-primary="map">
 <param ve-map center="Q18748726" zoom=11">
 <param ve-map-layer geojson active url="/geojson/corpse_flower.json">
-<param ve-image
-     data-fit="contain"
-     data-title="Corpse Flower Bloom, Kew, 1901"					    
-     data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Kew_historic_Corpse_Flower.jpg"></var>
+<param ve-image iiif
+     fit="contain"
+     title="Corpse Flower Bloom, Kew, 1901"					    
+     url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Kew_historic_Corpse_Flower.jpg"
 
 The story of the _Amorphophallus titanum_ in the US begins in the Bronx. The NYBG was the first institution to successfully cultivate and bloom an _Amorphophallus titanum_ in the Western Hemisphere in 1937. They had received the plant from Sumatra in 1932. Five years later, its first bloom would mob the NYBG Conservatory with visitors, photographers, and reporters. Clocking in at over 8 feet tall, the NYBG’s first bloom remains the largest ever grown in cultivation.[^2] 
 <param ve-map center="Q636275" zoom="14">
