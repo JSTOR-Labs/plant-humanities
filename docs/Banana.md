@@ -96,7 +96,7 @@ The rise of European Maritime powers in the late fourteenth and fifteenth centur
 <param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/bananas_africa.json">
 
 In 1516 Friar Tomas de Berlanga, a Catholic missionary, landed on the Island of Hispaniola (now Haiti and the Dominican Republic) and planted banana stems (or suckers) as means to continue to feed the growing African slave population. When Friar Tomas was made Bishop of Panama, he took banana plants with him to the mainland. Bananas were also carried to Mexico by the Spanish and eventually spread rapidly throughout Central America.[^ref5]
-<param ve-map title="New World" basemap="Esri_WorldPhysical" center="24.249039, -53.380695" zoom="3" stroke-width="0" show-labels>
+<param ve-map title="New World" basemap="Esri_WorldPhysical" center="24.249039, -53.380695" zoom="3" show-labels>
 <param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/bananas_africa.json">
 
 ### Banana, Fig, or the Tree of Life?
