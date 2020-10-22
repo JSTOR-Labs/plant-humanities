@@ -41,16 +41,16 @@ European botanists have long been fascinated with the study and cultivation of t
 <param ve-map-layer geojson active url="/geojson/corpse_flower.json">
 <var data-image
      data-fit="contain"
-     data-attribute="Indonesian men pose with two different species of Amorphophallus plants, including an Amorphophallus Titanum in bloom, 1900-1940"
+     data-attribute="Indonesian men pose with two Amorphophallus plants (one in bloom), c. 1900-1940"
      data-url="https://upload.wikimedia.org/wikipedia/commons/e/e0/COLLECTIE_TROPENMUSEUM_Indonesische_mannen_poseren_bij_twee_verschillende_soorten_Amorphophallus_planten_waaronder_een_in_bloei_staande_Amorphophallus_Titanum_TMnr_60042790.jpg"></var>
 
 Eventually, one of the young plants made its way to the <span eid="Q188617">Royal Botanic Gardens Kew</span>, where it finally bloomed, with great fanfare, in 1889. The plant bloomed again in 1901 and once more in 1926. By 1926, however, word of the strange and stinking corpse flower had spread, attracting crowds so large that the police had to be called in to control them. 
 <param data-primary="map">
 <param ve-map center="Q18748726" zoom=11">
 <param ve-map-layer geojson active url="/geojson/corpse_flower.json">
-<var data-image
+<param ve-image
      data-fit="contain"
-     data-attribute="Corpse Flower Bloom, Kew, 1901"
+     data-title="Corpse Flower Bloom, Kew, 1901"					    
      data-url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Kew_historic_Corpse_Flower.jpg"></var>
 
 The story of the _Amorphophallus titanum_ in the US begins in the Bronx. The NYBG was the first institution to successfully cultivate and bloom an _Amorphophallus titanum_ in the Western Hemisphere in 1937. They had received the plant from Sumatra in 1932. Five years later, its first bloom would mob the NYBG Conservatory with visitors, photographers, and reporters. Clocking in at over 8 feet tall, the NYBG’s first bloom remains the largest ever grown in cultivation.[^2] 
