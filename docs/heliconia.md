@@ -20,7 +20,7 @@ Taxonomists recognize approximately 185 species of _Heliconia_ world-wide, but t
 
 ### A Short History of Horticultural Excitement for Heliconia
 
-<param ve-image iiif fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/19/@@images/image" title="Margaret Mee, _Heliconia psittacorum_">
+<param ve-image iiif fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/19/@@images/image" title="Margaret Mee, _Heliconia psittacorum_, 1964, gouache, Dumbarton Oaks">
 <param ve-entity eid="Q2667306" title="Heliconia psittacorum" aliases="H. psittacorum">
 <param ve-entity eid="Q2727878" title="Heliconia bihai" aliases="H. bihai">
 <param ve-entity eid="Q15250028" title="Heliconia metallica" aliases="H. metallica">
@@ -113,11 +113,11 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM1Nzg5MjAsOTk1ODkwNjAsMTY3Mj
-gwNjI3NCwtMTY5MTQxMTYzNiwtOTI1MTYzNjc0LDEzNjU1Njgy
-NzcsMjY1NjM0NTMzLDE2NjYxMjQyMDAsMTg2OTkxNDg3NiwtOD
-YxNzY1ODI2LDEzNDgyNTEyMzAsMTk3MTY1MTY2OSwtMTI5ODcx
-MTUzLC0xODk1NDIzNDU0LC0yNzY5MDI2MjEsLTU3OTIwNjE2LD
-E2Njk1OTUyMjMsMzg5NjEzOTQsLTE5ODI2NTY0NTMsMTgxNTAz
-MzI3M119
+eyJoaXN0b3J5IjpbMTYyNTk4Njg5NCw5OTU4OTA2MCwxNjcyOD
+A2Mjc0LC0xNjkxNDExNjM2LC05MjUxNjM2NzQsMTM2NTU2ODI3
+NywyNjU2MzQ1MzMsMTY2NjEyNDIwMCwxODY5OTE0ODc2LC04Nj
+E3NjU4MjYsMTM0ODI1MTIzMCwxOTcxNjUxNjY5LC0xMjk4NzEx
+NTMsLTE4OTU0MjM0NTQsLTI3NjkwMjYyMSwtNTc5MjA2MTYsMT
+Y2OTU5NTIyMywzODk2MTM5NCwtMTk4MjY1NjQ1MywxODE1MDMz
+MjczXX0=
 -->
