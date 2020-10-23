@@ -27,7 +27,7 @@ Taxonomists recognize approximately 185 species of _Heliconia_ world-wide, but t
 Heliconias became an object of desire for gardeners as soon as they left their natural habitats. Several species, including _H. psittacorum_, _H. bihai_, and _H. metallica,_ have been cultivated as ornamentals since the 1700s. They were carried around the world by horticulturalists and today they are found in many botanical gardens from Europe to Asia to the Pacific.
 
 <param ve-entity eid="Q2269599" title="Curtis's Botanical Magazine" aliases="Curtis’s Botanical Magazine">
-<param ve-image iiif fit="contain" url="https://ia800605.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002719653&itemPath=%2F12%2Fitems%2Fmobot31753002719653&server=ia800605.us.archive.org&page=n159_w377" title="Curtis's Botanical Magazine, _Heliconia psittacorum_, BHL">
+<param ve-image iiif fit="contain" url="https://ia800605.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002719653&itemPath=%2F12%2Fitems%2Fmobot31753002719653&server=ia800605.us.archive.org&page=n159_w377" title="Curtis's Botanical Magazine, _Heliconia psittacorum_, Missouri Botanical Garden, Peter H. Raven Library">
 <param ve-image fit="contain" title="Curtis's Botanical Magazine, _Heliconia psittacorum_, BHL" url="https://www.biodiversitylibrary.org/pageimage/469080">
 _Curtis’s Botanical Magazine_, the botanical periodical featuring colored illustrations of plants that introduced many exotics to British and European horticulturalists and gardeners, published a plate ([#502](https://www.biodiversitylibrary.org/page/469087#page/160/mode/1up)) and a description of _Heliconia psittacorum_ in 1801. The entry explains that this “beautiful stove plant is a native of Jamaica…” and emphasizes the source of the image in a living specimen painted at a specific moment of the plant’s cycle that precedes the most distinctive stage: “At a more advanced stage than that at which our drawing was taken, the top of the stem becomes flexuous or zig-zag,” alluding to the plant’s trademark bracts. The “stove plant” designation is a reminder that growing the first heliconias outside the tropics would have required expensive hothouse infrastructure available only to the wealthy. The flowering of a “stove plant” was often a noteworthy and sometimes competitive feat that brought prestige to the owner. It was also ephemeral, and therefore might be commemorated with the commissioning of a plant portrait. This drawing “was made from a plant which flowered in August 1800, amidst a great variety of beautiful and rare exotics, in the superb collection of E. D. Woodford, Esq., at Vauxhall.” Collectors basked in the glamor that came with coaxing a rare exotic into bloom.
 
@@ -113,11 +113,11 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTk4Njg5NCw5OTU4OTA2MCwxNjcyOD
-A2Mjc0LC0xNjkxNDExNjM2LC05MjUxNjM2NzQsMTM2NTU2ODI3
-NywyNjU2MzQ1MzMsMTY2NjEyNDIwMCwxODY5OTE0ODc2LC04Nj
-E3NjU4MjYsMTM0ODI1MTIzMCwxOTcxNjUxNjY5LC0xMjk4NzEx
-NTMsLTE4OTU0MjM0NTQsLTI3NjkwMjYyMSwtNTc5MjA2MTYsMT
-Y2OTU5NTIyMywzODk2MTM5NCwtMTk4MjY1NjQ1MywxODE1MDMz
-MjczXX0=
+eyJoaXN0b3J5IjpbNDA5Mjc5MDEyLDk5NTg5MDYwLDE2NzI4MD
+YyNzQsLTE2OTE0MTE2MzYsLTkyNTE2MzY3NCwxMzY1NTY4Mjc3
+LDI2NTYzNDUzMywxNjY2MTI0MjAwLDE4Njk5MTQ4NzYsLTg2MT
+c2NTgyNiwxMzQ4MjUxMjMwLDE5NzE2NTE2NjksLTEyOTg3MTE1
+MywtMTg5NTQyMzQ1NCwtMjc2OTAyNjIxLC01NzkyMDYxNiwxNj
+Y5NTk1MjIzLDM4OTYxMzk0LC0xOTgyNjU2NDUzLDE4MTUwMzMy
+NzNdfQ==
 -->
