@@ -1,13 +1,13 @@
 <param ve-config title="Plant Humanities" layout="index">
 
-#
+### The Plant Humanities Initiative
 
 The visual essays below feature interactive maps, high-resolution images and videos, all linked with a network of people, places and ideas.  These essays will be featured in the Plant Humanities Workbench, which will allow users to explore the rich cultural history of plants and to craft their own narratives.
 
-# All Essays
+# All# Essays
 
 ##
-[**Agave - An Ancient Plant with an Intoxicating History**](/Agave)
+[**[Agave -: An Ancient Plant with an Intoxicating History**](/Agave)
 
 - author: Ashley Buchanan, PhD
 
@@ -18,17 +18,20 @@ The visual essays below feature interactive maps, high-resolution images and vid
 
 - author: Ashley Buchanan, PhD
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/arbor-vitae.jpg)
+![](https://jstor-labs.github.io/plant-humanities/images/thumbnails  
+[Arbor Vitæ: The Mysterious Tree of Life](/arbor-_vitae.jpg)
 
 ##
-[**Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy**](/Banana)
+[**)  
+[Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy**](/Banana)
 
 - author: Ashley Buchanan, PhD
 
 ![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/banana.png)
 
 ##
-[**Cacao: An indigenous network and global commodity**](/cacao)
+[**  
+[Cacao: An indigenous network and global commodity**](/cacao)
 
 - author: Rebecca Friedel
 
@@ -81,4 +84,9 @@ The visual essays below feature interactive maps, high-resolution images and vid
 
 - author: John Kress, PhD and Yota Batsaki, PhD
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/heliconia.jpg)
+![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/heliconia.jpg  
+[The ubiquity of mint: exploring plant mythology, naming and commercial value](/mint)  
+[Curcuma longa: The “Herb of the Sun”](/turmeric)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg5NDkzMzMzOF19
+-->
