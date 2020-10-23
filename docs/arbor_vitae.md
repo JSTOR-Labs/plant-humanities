@@ -2,7 +2,8 @@
 
 <param ve-config
 	  title="Arbor Vitae - Thuja occidentalis"
-	  banner="https://upload.wikimedia.org/wikipedia/commons/6/67/Neuch%C3%A2tel_Herbarium_-_Thuja_occidentalis_-_NEU000099701.jpg"
+	  source-image="https://upload.wikimedia.org/wikipedia/commons/6/67/Neuch%C3%A2tel_Herbarium_-_Thuja_occidentalis_-_NEU000099701.jpg"
+	  banner="https://jstor-labs.github.io/plant-humanities/images/banners/arbor-vitae.jpg"
 	  layout="vtl"
 	  num-maps="14"
 	  num-images="8"

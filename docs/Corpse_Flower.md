@@ -1,12 +1,13 @@
-<var data-essay
+<param ve-config
 	title="The Corpse Flower - Amorphophallus titanium"
-	data-banner="https://upload.wikimedia.org/wikipedia/commons/d/da/Corpse_flower_%2871304%29f.jpg"
-	data-layout="vtl"
+	source-image="https://upload.wikimedia.org/wikipedia/commons/d/da/Corpse_flower_%2871304%29f.jpg"
+	banner="https://jstor-labs.github.io/plant-humanities/images/banners/corpse-flower.jpg"
+       data-layout="vtl"
 	data-num-maps="4"
 	data-num-images="10"
 	data-num-specimens="16"
 	data-num-primary-sources="4"
-	data-author="Ashley Buchanan, PhD"></var>
+	data-author="Ashley Buchanan, PhD">
 	
 ### Pretty Stinky
 In the late afternoon of a hot summer day in June 2019, an extraordinary and rare flower began to bloom at the <span eid="Q636275">New York Botanical Garden (NYBG)</span>. A press release was immediately sent out as visitors had only 24 to 36 hours to the see the world’s largest inflorescence (flower-bearing structure) in peak bloom. It was not just the size of the <span eid="Q431224">_Amorphophallus titanum_</span>, however, that would attract hundreds of thousands of visitors. It was also the fact that, as its common name “corpse flower” suggests, this gigantic plant, when in bloom, smells like rotting flesh. 

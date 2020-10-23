@@ -1,7 +1,8 @@
 <param ve-config
        title="Heliconia: Plant-Pollinator Interactions Reveal Evolution at Work"
        author="John Kress, PhD and Yota Batsaki, PhD"
-       banner="https://ia800500.us.archive.org/BookReader/BookReaderImages.php?id=monographTrochi2Goul&itemPath=%2F12%2Fitems%2FmonographTrochi2Goul&server=ia800500.us.archive.org&page=n285_w1713"
+       source-image="https://ia800500.us.archive.org/BookReader/BookReaderImages.php?id=monographTrochi2Goul&itemPath=%2F12%2Fitems%2FmonographTrochi2Goul&server=ia800500.us.archive.org&page=n285_w1713"
+       banner="https://jstor-labs.github.io/plant-humanities/images/banners/heliconia.jpg"
        layout="vtl">
 
 ### From Mount Helicon to the Amazon

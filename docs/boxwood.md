@@ -1,6 +1,7 @@
 <param ve-config
 	title="Boxwood: A humble yet resilient plant that took over the garden world"
-	banner="https://upload.wikimedia.org/wikipedia/commons/6/61/Gew%C3%B6hnlicher_Buchsbaum%2C_Buxus_sempervirens_.JPG"
+	source-image="https://upload.wikimedia.org/wikipedia/commons/6/61/Gew%C3%B6hnlicher_Buchsbaum%2C_Buxus_sempervirens_.JPG"
+    banner="https://jstor-labs.github.io/plant-humanities/images/banners/boxwood.jpg"
 	layout="vtl"
 	num-maps="0"
 	num-images="0"

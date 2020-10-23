@@ -1,12 +1,13 @@
-<var data-essay
-title="Carolina Rice"
-data-banner="https://images.nypl.org/index.php?id=G92F023_016F&t=w"
-data-layout="vtl"
-data-num-maps="9"
-data-num-images="6"
-data-num-specimens="1"
-data-num-primary-sources="7"
-data-author="Julia Fine"></var>
+<param ve-config
+	   title="Carolina Rice"
+       source-image="https://images.nypl.org/index.php?id=G92F023_016F&t=w"
+       banner="https://images.nypl.org/index.php?id=G92F023_016F&t=w"
+       data-layout="vtl"
+       data-num-maps="9"
+       data-num-images="6"
+       data-num-specimens="1"
+       data-num-primary-sources="7"
+       data-author="Julia Fine">
 
 
 <var title="American Civil War" id="Q8676" data-aliases="Civil War"></var>

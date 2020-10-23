@@ -1,13 +1,14 @@
 
-<var data-essay
-title="Turmeric"
-data-banner="https://images.nypl.org/index.php?id=1126115&t=w"
-data-layout="vtl"
-data-num-maps="8"
-data-num-images="6"
-data-num-specimens="2"
-data-num-primary-sources="11"
-data-author="Julia Fine"></var>
+<param ve-config
+       title="Turmeric"
+	   source-image="https://images.nypl.org/index.php?id=1126115&t=w"
+	   banner="https://images.nypl.org/index.php?id=1126115&t=w"
+	   layout="vtl"
+	   num-maps="8"
+	   num-images="6"
+	   num-specimens="2"
+	   num-primary-sources="11"
+	   author="Julia Fine">
 
 
 <var title="Saffron" id="Q25434"></var>

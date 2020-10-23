@@ -2,7 +2,8 @@
 
 <param ve-config
 	   title="Chaos out of Order: Bananas and the Limits of Linnaean Taxonomy"
-	   banner="https://upload.wikimedia.org/wikipedia/commons/0/0f/Banana_Maria_Sibylla_Merian_1705_plate_XII.png"
+	   source-image="https://upload.wikimedia.org/wikipedia/commons/0/0f/Banana_Maria_Sibylla_Merian_1705_plate_XII.png"
+	   banner="https://jstor-labs.github.io/plant-humanities/images/banners/banana.png"
 	   layout="vtl"
 	   num-maps="13"
 	   num-images="11"
