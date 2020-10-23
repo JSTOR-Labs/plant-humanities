@@ -96,7 +96,7 @@ Botany has always been a highly visual science, and our understanding of plants 
        stroke-width="0"
        fill="blue"
        fill-opacity="1">
-<param ve-map-layer geojson active title="Heliconia locations" url="https://github.com/JSTOR-Labs/plant-humanities/data/heliconia-aurea.tsv">
+<param ve-map-layer geojson active title="Heliconia locations" url="data/heliconia.tsv">
 A full assessment of the conservation status of each known species of _Heliconia_ is currently being conducted by John Kress, Gary Krupnick, and Serenity Montaño at the Smithsonian. Using information from specimens collected over the last two hundred years and maintained in herbaria around the world, such as the United States National Herbarium at the Smithsonian Institution, they are using both the [IUCN Red List](https://www.iucnredlist.org/search?query=Heliconia&searchType=species) Criteria method of assessment and a second rapid assessment method to determine the conservation status of each species. Geospatial Conservation Assessment (GeoCat) maps and Red List descriptions of the conservation status of 185 species are being produced. For example, data from over 200 herbarium specimens found in 20 institutions suggest that _[Heliconia bihai](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:796925-1)_ from the <span data-click-map-flyto="18.482960,-69.933836,5">Caribbean and northern South America</span> is of “Least Concern” for conservation (see GeoCat map and Red List assessment).  Whereas the six available specimens of the very closely related species _[Heliconia aurea](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:119303-2)_ from <span data-click-map-flyto="-2.999397, -59.940336,4.6">Colombia and Venezuela</span> indicate that it is “Vulnerable” and at risk of extinction most likely due to habitat alteration, degradation, and destruction (see GeoCat map and Red List assessment).
 
 
@@ -119,8 +119,8 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Mzk1NCwtMTQ2MTc3OTAzMCw2MDY0OT
-E3MDMsLTE2MzQ2NjMwMzAsMTM4ODc4Nzc5MCwtMjMxMjE0NTc3
-LC0xMzU3NTU0NzA4LC0xNTQ2NDAzMDMyLC0xNTMwMDMyLDU5Nz
-I2NzI3MiwxMjAwMjUyNjI2XX0=
+eyJoaXN0b3J5IjpbMjY3MDAzNzA1LC05NTM5NTQsLTE0NjE3Nz
+kwMzAsNjA2NDkxNzAzLC0xNjM0NjYzMDMwLDEzODg3ODc3OTAs
+LTIzMTIxNDU3NywtMTM1NzU1NDcwOCwtMTU0NjQwMzAzMiwtMT
+UzMDAzMiw1OTcyNjcyNzIsMTIwMDI1MjYyNl19
 -->
