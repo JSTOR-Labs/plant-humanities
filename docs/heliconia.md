@@ -90,7 +90,7 @@ Botany has always been a highly visual science, and our understanding of plants 
 <param ve-entity eid="Q17025438" title="United States National Herbarium">
 <param ve-map
        center="-6.75, -71.2"
-       zoom="4"
+       zoom="3.5"
        marker-type="circle"
        radius="4"
        stroke-width="0"
@@ -118,5 +118,5 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2MzE4NTEsMTIwMDI1MjYyNl19
+eyJoaXN0b3J5IjpbMTM2MDk1NzU0MSwxMjAwMjUyNjI2XX0=
 -->
