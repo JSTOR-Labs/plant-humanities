@@ -91,7 +91,7 @@ Botany has always been a highly visual science, and our understanding of plants 
 <param ve-map center="6.256144, -75.557182" zoom="3.6" marker-type="circle" stroke-width="0" fill-opacity="1">
 <param ve-map-layer geojson active title="Aurea" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia-aurea.tsv" fill="#D11141" radius="5.5">  
 <param ve-map-layer geojson active title="Bihai" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia-bihai.tsv" radius="4" fill="#009900"> 
-A full assessment of the conservation status of each known species of _Heliconia_ is currently being conducted by John Kress, Gary Krupnick, and Serenity Montaño at the Smithsonian. Using information from specimens collected over the last two hundred years and maintained in herbaria around the world, such as the United States National Herbarium at the Smithsonian Institution, they are using both the [IUCN Red List](https://www.iucnredlist.org/search?query=Heliconia&searchType=species) Criteria method of assessment and a second rapid assessment method to determine the conservation status of each species. Geospatial Conservation Assessment (GeoCat) maps and Red List descriptions of the conservation status of 185 species are being produced. For example, data from over 200 herbarium specimens found in 20 institutions suggest that _[Heliconia bihai](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:796925-1)_ from the <span data-click-map-flyto="19.469614, -70.671653,6">Caribbean</span> and <span data-click-map-flyto="9.036443, -69.729927, 6.8">northern South America</span> is of “Least Concern” for conservation (see GeoCat map and Red List assessment).  Whereas the six available specimens of the very closely related species _[Heliconia aurea](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:119303-2)_ from <span data-click-map-flyto="-3.091278, -59.989431, 6.8">Colombia and Venezuela</span> indicate that it is “Vulnerable” and at risk of extinction most likely due to habitat alteration, degradation, and destruction (see GeoCat map and Red List assessment).
+A full assessment of the conservation status of each known species of _Heliconia_ is currently being conducted by John Kress, Gary Krupnick, and Serenity Montaño at the Smithsonian. Using information from specimens collected over the last two hundred years and maintained in herbaria around the world, such as the United States National Herbarium at the Smithsonian Institution, they are using both the [IUCN Red List](https://www.iucnredlist.org/search?query=Heliconia&searchType=species) Criteria method of assessment and a second rapid assessment method to determine the conservation status of each species. Geospatial Conservation Assessment (GeoCat) maps and Red List descriptions of the conservation status of 185 species are being produced. For example, data from over 200 herbarium specimens found in 20 institutions suggest that _[Heliconia bihai](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:796925-1)_ from the <span data-click-map-flyto="19.469614, -70.671653,6">Caribbean</span> and <span data-click-map-flyto="9.036443, -69.729927, 4.6">northern South America</span> is of “Least Concern” for conservation (see GeoCat map and Red List assessment).  Whereas the six available specimens of the very closely related species _[Heliconia aurea](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:119303-2)_ from <span data-click-map-flyto="-3.091278, -59.989431, 6.8">Colombia and Venezuela</span> indicate that it is “Vulnerable” and at risk of extinction most likely due to habitat alteration, degradation, and destruction (see GeoCat map and Red List assessment).
 
 
 <param ve-plant-specimen eid="Q2727878" max="1">
@@ -113,11 +113,11 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1NjM0NTMzLDE2NjYxMjQyMDAsMTg2OT
-kxNDg3NiwtODYxNzY1ODI2LDEzNDgyNTEyMzAsMTk3MTY1MTY2
-OSwtMTI5ODcxMTUzLC0xODk1NDIzNDU0LC0yNzY5MDI2MjEsLT
-U3OTIwNjE2LDE2Njk1OTUyMjMsMzg5NjEzOTQsLTE5ODI2NTY0
-NTMsMTgxNTAzMzI3Myw5NzMyNzU3MzEsMjEzMzY1MTI4OCwyNj
-cwMDM3MDUsLTI4MDM0NjUxMiwtMTY2NzM4NzA5MSwxODg1ODky
-MTM5XX0=
+eyJoaXN0b3J5IjpbMTk0MDM2NjMxMywyNjU2MzQ1MzMsMTY2Nj
+EyNDIwMCwxODY5OTE0ODc2LC04NjE3NjU4MjYsMTM0ODI1MTIz
+MCwxOTcxNjUxNjY5LC0xMjk4NzExNTMsLTE4OTU0MjM0NTQsLT
+I3NjkwMjYyMSwtNTc5MjA2MTYsMTY2OTU5NTIyMywzODk2MTM5
+NCwtMTk4MjY1NjQ1MywxODE1MDMzMjczLDk3MzI3NTczMSwyMT
+MzNjUxMjg4LDI2NzAwMzcwNSwtMjgwMzQ2NTEyLC0xNjY3Mzg3
+MDkxXX0=
 -->
