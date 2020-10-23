@@ -88,9 +88,6 @@ Botany has always been a highly visual science, and our understanding of plants 
 ### Conserving the Diversity of Heliconia
 
 <param ve-entity eid="Q17025438" title="United States National Herbarium">
-<param ve-entity eid="Q664609" title="Caribbean">
-<param ve-entity eid="Q739" title="Colombia">
-<param ve-entity eid="Q717" title="Venezuela">
 <param ve-map prefer-geojson title="Map showing habitat destruction for select species" primary center="Q1106" zoom="1.5" basemap="Esri_WorldPhysical">
 <param ve-map
        center="-6.75, -71.2"
@@ -122,5 +119,5 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjQ2NjY0Nl19
+eyJoaXN0b3J5IjpbMTIwMDI1MjYyNl19
 -->
