@@ -77,7 +77,7 @@ The visual essays below feature interactive maps, high-resolution images and vid
 ![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/boxwood.jpg)
 
 ##
-[**From Mount Helicon to the Amazon**](/heliconia)
+[**Heliconia: Plant-Pollinator Interactions Reveal Evolution at Work**](/heliconia)
 
 - author: John Kress, PhD and Yota Batsaki, PhD
 
