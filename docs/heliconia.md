@@ -33,7 +33,7 @@ _Curtis’s Botanical Magazine_, the botanical periodical featuring colored illu
 
 ### Finding and Describing a New Heliconia – Art Meets Science
 
-<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="Margaret Mee, _Heliconia uaupénsis_,© Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
+<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 The striking beauty of heliconias continued to attract both the plant explorer and the painter well into the twentieth century. In botanical study the interests of art and science have often informed one another; in the case of heliconias, a work of botanical art led to the discovery of a new variety. The renowned botanical painter [Margaret Mee](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/margaret-mee-in-the-amazon) (1909-1988) undertook 15 expeditions into the Amazon in the course of which she painted several heliconias. One of them, published in Mee’s _Flowers of the Amazon_ _Forests_,  caught the attention of Smithsonian botanist [John Kress](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/kress-interview). After spending several years in South America searching for new species of _Heliconia_, in 1990 Kress was back in his office at the Smithsonian, leafing through Mee’s botanical paintings, when he came across a form unknown to him recorded by Mee near the border between Venezuela and Brazil. The flowers’ unusual greenish-yellow color differed from the more typical form of _Heliconia chartacea_, which is bright pink and rose. (The green-yellow variety may be a partial albino form of the typical species which  is called “Sexy Pink” in the horticultural trade.) Kress realized that this was a new variety, and maybe even a new species, and resolved to find it and name it after Mee.
 <param ve-entity eid="Q3926643" title="Heliconia chartacea">
 <param ve-image fit="cover" title="Photograph of John Kress (center) and team with the newly-found _Heliconia_." url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/exhibition-images/14-john-kress-finding-heliconia.jpg/@@images/21b338bf-3b3b-4f38-a159-d728bdf9baea.jpeg">
@@ -113,7 +113,7 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyNDIxMzA1LDk5NTg5MDYwLDE2NzI4MD
+eyJoaXN0b3J5IjpbNTk5MzYzODUxLDk5NTg5MDYwLDE2NzI4MD
 YyNzQsLTE2OTE0MTE2MzYsLTkyNTE2MzY3NCwxMzY1NTY4Mjc3
 LDI2NTYzNDUzMywxNjY2MTI0MjAwLDE4Njk5MTQ4NzYsLTg2MT
 c2NTgyNiwxMzQ4MjUxMjMwLDE5NzE2NTE2NjksLTEyOTg3MTE1
