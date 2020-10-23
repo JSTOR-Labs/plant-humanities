@@ -88,7 +88,7 @@ Botany has always been a highly visual science, and our understanding of plants 
 ### Conserving the Diversity of Heliconia
 
 <param ve-entity eid="Q17025438" title="United States National Herbarium">
-<param ve-map center="0.040297, -71.224280" zoom="3.6" marker-type="circle" stroke-width="0" fill-opacity="1">
+<param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 <param ve-map-layer geojson active title="Aurea" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia-aurea.tsv" fill="#D11141" radius="6">  
 <param ve-map-layer geojson active title="Bihai" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia-bihai.tsv" radius="4.5" fill="#009900"> 
 A full assessment of the conservation status of each known species of _Heliconia_ is currently being conducted by John Kress, Gary Krupnick, and Serenity Montaño at the Smithsonian. Using information from specimens collected over the last two hundred years and maintained in herbaria around the world, such as the United States National Herbarium at the Smithsonian Institution, they are using both the [IUCN Red List](https://www.iucnredlist.org/search?query=Heliconia&searchType=species) Criteria method of assessment and a second rapid assessment method to determine the conservation status of each species. Geospatial Conservation Assessment (GeoCat) maps and Red List descriptions of the conservation status of 185 species are being produced. For example, data from over 200 herbarium specimens found in 20 institutions suggest that _[Heliconia bihai](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:796925-1)_ from the <span data-click-map-flyto="18.005438, -66.612474,5.8">Caribbean</span> and <span data-click-map-flyto="1.069952, -60.720456, 4.6">northern South America</span> is of “Least Concern” for conservation (see GeoCat map and Red List assessment).  Whereas the six available specimens of the very closely related species _[Heliconia aurea](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:119303-2)_ from <span data-click-map-flyto="9.036443, -69.729927, 7.3">Colombia and Venezuela</span> indicate that it is “Vulnerable” and at risk of extinction most likely due to habitat alteration, degradation, and destruction (see GeoCat map and Red List assessment).
@@ -113,11 +113,11 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc4NDA5NTgsMTY3MjgwNjI3NCwtMT
-Y5MTQxMTYzNiwtOTI1MTYzNjc0LDEzNjU1NjgyNzcsMjY1NjM0
-NTMzLDE2NjYxMjQyMDAsMTg2OTkxNDg3NiwtODYxNzY1ODI2LD
-EzNDgyNTEyMzAsMTk3MTY1MTY2OSwtMTI5ODcxMTUzLC0xODk1
-NDIzNDU0LC0yNzY5MDI2MjEsLTU3OTIwNjE2LDE2Njk1OTUyMj
-MsMzg5NjEzOTQsLTE5ODI2NTY0NTMsMTgxNTAzMzI3Myw5NzMy
-NzU3MzFdfQ==
+eyJoaXN0b3J5IjpbOTk1ODkwNjAsMTY3MjgwNjI3NCwtMTY5MT
+QxMTYzNiwtOTI1MTYzNjc0LDEzNjU1NjgyNzcsMjY1NjM0NTMz
+LDE2NjYxMjQyMDAsMTg2OTkxNDg3NiwtODYxNzY1ODI2LDEzND
+gyNTEyMzAsMTk3MTY1MTY2OSwtMTI5ODcxMTUzLC0xODk1NDIz
+NDU0LC0yNzY5MDI2MjEsLTU3OTIwNjE2LDE2Njk1OTUyMjMsMz
+g5NjEzOTQsLTE5ODI2NTY0NTMsMTgxNTAzMzI3Myw5NzMyNzU3
+MzFdfQ==
 -->
