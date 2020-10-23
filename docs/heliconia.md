@@ -55,7 +55,7 @@ Mee’s gift of observation, honed through the painstaking sketching of plants a
 Heliconias are not only a source of ornamental and visual pleasure: they are also of particular interest to science and offer an arresting point of departure for our understanding of ecosystems and plant-animal interactions. In fact, the distinctive forms and vivid colors that make heliconias so beautiful also offer a key to their extraordinary evolutionary adaptations. To begin with, heliconias’ respective habitats—which encompass regions as wide apart as tropical South America and the islands of the South Pacific—determine their appearance. Heliconias are mostly found in the neotropics from <span data-click-image-zoomto="132,2,4228,3607">central Mexico down to northern Argentina, including the Caribbean.</span> In tropical America, heliconias are diurnal and brightly colored because they are pollinated by hummingbirds that are attracted to reds, oranges, pinks, and yellows. In exchange for transporting the pollen, hummingbirds gorge on the plentiful sugary nectar of the small flowers protected within the bracts, whose shape ensures that access is restricted to preferred pollinators with suitably evolved bills. Another strange group of heliconias extends from <span data-click-image-zoomto="5770,1534,927,826">Samoa to New Guinea</span> [in the South Pacific](https://www.jstor.org/stable/23188167). Those species are completely different: they are a dull, green color and flower nocturnally because they are pollinated by color-blind bats that forage at night. We now believe that the most ancient heliconias that lived in South America about ten million years ago, and had bright red and yellow flowers, somehow got to the South Pacific islands where they lost their bright colors and switched from hummingbird pollination to bat pollination.
 
 <param ve-image fit="contain" primary url="https://ia802503.us.archive.org/BookReader/BookReaderImages.php?id=variouscontrivan1886darw&itemPath=%2F7%2Fitems%2Fvariouscontrivan1886darw&server=ia802503.us.archive.org&page=n8_w1019" title="Charles Darwin, _The various contrivances by which orchids are fertilised by insects_, title page, New York, Appleton,1886, Harold B. Lee Library">
-<param ve-image fit="contain" url="https://ia802503.us.archive.org/BookReader/BookReaderImages.php?id=variouscontrivan1886darw&itemPath=%2F7%2Fitems%2Fvariouscontrivan1886darw&server=ia802503.us.archive.org&page=n52_w356" title="Charles Darwin, _The various contrivances by which orchids are fertilised by insects_, p. 31, ">
+<param ve-image fit="contain" url="https://ia802503.us.archive.org/BookReader/BookReaderImages.php?id=variouscontrivan1886darw&itemPath=%2F7%2Fitems%2Fvariouscontrivan1886darw&server=ia802503.us.archive.org&page=n52_w356" title="Charles Darwin, _The various contrivances by which orchids are fertilised by insects_, page 31, New York, Appleton,1886, Harold B. Lee Library">
 <param ve-entity eid="Q1035" title="Charles Darwin" aliases="Charles Darwin’s">
 The highly specialized relationships between heliconias and their pollinators reveal evolution at work. Indeed, these close—sometimes exclusive—relationships between specific plants and animals played a key role in the development of Charles Darwin’s ideas on the process of natural selection and evolution. While Darwin was especially interested in the relationship between orchids and the insects that pollinated them, heliconias offer equally interesting and unique relationships with their animal pollinators. An extraordinary [example](https://doi.org/10.1007/s00442-011-2043-8) of coevolution, or reciprocal evolution between two species, is the relationship between heliconias and hummingbirds in the eastern arc of the Caribbean islands. The two species of heliconias native to these islands and the one species of hummingbird found there have coevolved in a very unique and interesting way. The two heliconias are quite different from each other, but the single species of hummingbird that pollinates them is so specialized that the small-bodied females visit one species of heliconia and the larger-bodied males visit the other species. Astonishingly, the shape and size of the bills of each sex corresponds to the shape and size of the flowers of the specific heliconias that they visit and feed from. In other words, one sex of the hummingbird has evolved with one species of heliconia and the other sex has evolved with the second species of plant.
 
@@ -113,11 +113,11 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTk5NTQ0OSw1OTkzNjM4NTEsOTk1OD
-kwNjAsMTY3MjgwNjI3NCwtMTY5MTQxMTYzNiwtOTI1MTYzNjc0
-LDEzNjU1NjgyNzcsMjY1NjM0NTMzLDE2NjYxMjQyMDAsMTg2OT
-kxNDg3NiwtODYxNzY1ODI2LDEzNDgyNTEyMzAsMTk3MTY1MTY2
-OSwtMTI5ODcxMTUzLC0xODk1NDIzNDU0LC0yNzY5MDI2MjEsLT
-U3OTIwNjE2LDE2Njk1OTUyMjMsMzg5NjEzOTQsLTE5ODI2NTY0
-NTNdfQ==
+eyJoaXN0b3J5IjpbLTE5OTQ4ODg4NjgsNTk5MzYzODUxLDk5NT
+g5MDYwLDE2NzI4MDYyNzQsLTE2OTE0MTE2MzYsLTkyNTE2MzY3
+NCwxMzY1NTY4Mjc3LDI2NTYzNDUzMywxNjY2MTI0MjAwLDE4Nj
+k5MTQ4NzYsLTg2MTc2NTgyNiwxMzQ4MjUxMjMwLDE5NzE2NTE2
+NjksLTEyOTg3MTE1MywtMTg5NTQyMzQ1NCwtMjc2OTAyNjIxLC
+01NzkyMDYxNiwxNjY5NTk1MjIzLDM4OTYxMzk0LC0xOTgyNjU2
+NDUzXX0=
 -->
