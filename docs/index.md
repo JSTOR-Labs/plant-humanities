@@ -74,7 +74,7 @@ The visual essays below feature interactive maps, high-resolution images and vid
 
 - author: Anatole Tchikine
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/)
+![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/boxwood.jpg)
 
 ##
 [**From Mount Helicon to the Amazon**](/heliconia)
