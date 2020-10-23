@@ -111,9 +111,9 @@ Martén-Rodríguez, S., John Kress, W., Temeles, E.J. _et al._ 2011. "Plant–po
 
 Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon Forests: Diaries of an English artist reveal the beauty of the vanishing rainforest_. Suffolk, England: Nonesuch Expeditions.
 
-Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
+Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300: 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODI3Njk3NCwtMTk5NDg4ODg2OCw1OT
+eyJoaXN0b3J5IjpbMTIwMTgzNzk4NiwtMTk5NDg4ODg2OCw1OT
 kzNjM4NTEsOTk1ODkwNjAsMTY3MjgwNjI3NCwtMTY5MTQxMTYz
 NiwtOTI1MTYzNjc0LDEzNjU1NjgyNzcsMjY1NjM0NTMzLDE2Nj
 YxMjQyMDAsMTg2OTkxNDg3NiwtODYxNzY1ODI2LDEzNDgyNTEy
