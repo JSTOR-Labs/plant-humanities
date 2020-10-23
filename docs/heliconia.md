@@ -27,9 +27,9 @@ Taxonomists recognize approximately 185 species of _Heliconia_ world-wide, but t
 Heliconias became an object of desire for gardeners as soon as they left their natural habitats. Several species, including _H. psittacorum_, _H. bihai_, and _H. metallica,_ have been cultivated as ornamentals since the 1700s. They were carried around the world by horticulturalists and today they are found in many botanical gardens from Europe to Asia to the Pacific.
 
 <param ve-entity eid="Q2269599" title="Curtis's Botanical Magazine" aliases="Curtis’s Botanical Magazine">
-<param ve-image iiif fit="contain" url="https://ia800605.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002719653&itemPath=%2F12%2Fitems%2Fmobot31753002719653&server=ia800605.us.archive.org&page=n159_w377" title="_Heliconia psittacorum_, _Curtis's Botanical Magazine_, 1799, Missouri Botanical Garden, Peter H. Raven Library">
-<param ve-image fit="contain" title="_Heliconia psittacorum. Parrot-Beaked Heliconia_, _Curtis's Botanical Magazine_, 1799, Missouri Botanical Garden, Peter H. Raven Library" url="https://www.biodiversitylibrary.org/pageimage/469080">
-_Curtis’s Botanical Magazine_, the botanical periodical featuring colored illustrations of plants that introduced many exotics to British and European horticulturalists and gardeners, published a plate ([#502](https://www.biodiversitylibrary.org/page/469087#page/160/mode/1up)) and a description of _Heliconia psittacorum_ in 1801. The entry explains that this “beautiful stove plant is a native of Jamaica…” and emphasizes the source of the image in a living specimen painted at a specific moment of the plant’s cycle that precedes the most distinctive stage: “At a more advanced stage than that at which our drawing was taken, the top of the stem becomes flexuous or zig-zag,” alluding to the plant’s trademark bracts. The “stove plant” designation is a reminder that growing the first heliconias outside the tropics would have required expensive hothouse infrastructure available only to the wealthy. The flowering of a “stove plant” was often a noteworthy and sometimes competitive feat that brought prestige to the owner. It was also ephemeral, and therefore might be commemorated with the commissioning of a plant portrait. This drawing “was made from a plant which flowered in August 1800, amidst a great variety of beautiful and rare exotics, in the superb collection of E. D. Woodford, Esq., at Vauxhall.” Collectors basked in the glamor that came with coaxing a rare exotic into bloom.
+<param ve-image iiif fit="contain" url="https://ia800605.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002719653&itemPath=%2F12%2Fitems%2Fmobot31753002719653&server=ia800605.us.archive.org&page=n159_w377" title="_Heliconia psittacorum_, _Curtis's Botanical Magazine_, 1800, Missouri Botanical Garden, Peter H. Raven Library">
+<param ve-image fit="contain" title="_Heliconia psittacorum. Parrot-Beaked Heliconia_, _Curtis's Botanical Magazine_, 1800, Missouri Botanical Garden, Peter H. Raven Library" url="https://www.biodiversitylibrary.org/pageimage/469080">
+_Curtis’s Botanical Magazine_, the botanical periodical featuring colored illustrations of plants that introduced many exotics to British and European horticulturalists and gardeners, published a plate ([#502](https://www.biodiversitylibrary.org/page/469087#page/160/mode/1up)) and a description of _Heliconia psittacorum_ in 1800. The entry explains that this “beautiful stove plant is a native of Jamaica…” and emphasizes the source of the image in a living specimen painted at a specific moment of the plant’s cycle that precedes the most distinctive stage: “At a more advanced stage than that at which our drawing was taken, the top of the stem becomes flexuous or zig-zag,” alluding to the plant’s trademark bracts. The “stove plant” designation is a reminder that growing the first heliconias outside the tropics would have required expensive hothouse infrastructure available only to the wealthy. The flowering of a “stove plant” was often a noteworthy and sometimes competitive feat that brought prestige to the owner. It was also ephemeral, and therefore might be commemorated with the commissioning of a plant portrait. This drawing “was made from a plant which flowered in August 1800, amidst a great variety of beautiful and rare exotics, in the superb collection of E. D. Woodford, Esq., at Vauxhall.” Collectors basked in the glamor that came with coaxing a rare exotic into bloom.
 
 ### Finding and Describing a New Heliconia – Art Meets Science
 
@@ -113,11 +113,11 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDk2Mzk0LDE3NTQ2MzU4ODYsLTE5OT
-Q4ODg4NjgsNTk5MzYzODUxLDk5NTg5MDYwLDE2NzI4MDYyNzQs
-LTE2OTE0MTE2MzYsLTkyNTE2MzY3NCwxMzY1NTY4Mjc3LDI2NT
-YzNDUzMywxNjY2MTI0MjAwLDE4Njk5MTQ4NzYsLTg2MTc2NTgy
-NiwxMzQ4MjUxMjMwLDE5NzE2NTE2NjksLTEyOTg3MTE1MywtMT
-g5NTQyMzQ1NCwtMjc2OTAyNjIxLC01NzkyMDYxNiwxNjY5NTk1
-MjIzXX0=
+eyJoaXN0b3J5IjpbNzAzNTQwNzEzLDE2NjA5NjM5NCwxNzU0Nj
+M1ODg2LC0xOTk0ODg4ODY4LDU5OTM2Mzg1MSw5OTU4OTA2MCwx
+NjcyODA2Mjc0LC0xNjkxNDExNjM2LC05MjUxNjM2NzQsMTM2NT
+U2ODI3NywyNjU2MzQ1MzMsMTY2NjEyNDIwMCwxODY5OTE0ODc2
+LC04NjE3NjU4MjYsMTM0ODI1MTIzMCwxOTcxNjUxNjY5LC0xMj
+k4NzExNTMsLTE4OTU0MjM0NTQsLTI3NjkwMjYyMSwtNTc5MjA2
+MTZdfQ==
 -->
