@@ -61,7 +61,7 @@ The highly specialized relationships between heliconias and their pollinators re
 
 <param ve-entity eid="Q38095" title="Islas Galápagos" aliases="Galápagos Islands|Galapagos">
 <param ve-entity eid="Q43624" aliases="hummingbirds|hummingbird" title="Trochilidae">
-<param ve-image iiif fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/amazonian-entanglements/heliconia-bihai/@@images/image" title="Bryan Poole, _Heliconia bihai_ with female hummingbirds">
+<param ve-image iiif fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/amazonian-entanglements/heliconia-bihai/@@images/image" title="Bryan Poole, _Heliconia bihai_ with female hummingbirds, 2008, colored etching, National Museum of Natural History, Smithsonian Institution">
 Archipelagos are ideal environments for observing plant evolution driven by interactions with animals of various kinds. Darwin’s ideas on evolution and natural selection were in part based on his experiences and observations in the Galápagos Islands and other archipelagos. The fewer species of plants and animals on islands compared to mainland habitats allow biologists to study more closely ecological and evolutionary processes in natural communities. This is certainly true with the heliconias and hummingbirds in the arc of islands in the Eastern Caribbean. Douglas Altshuler and Christopher James Clark [describe](https://www.jstor.org/stable/3834345) the dynamic nature of these interactions: “Hummingbird and Heliconia engage in a coevolutionary dance, with flower shape evolving in response to hummingbird bills, and bill shape evolving in response to flower shape. By offering nectars containing different amounts of energy, Heliconia species select for different body sizes” in the birds as well. Echoing the famous “Darwin’s Finches” in the Galapagos, Altshuler and Clark referred to the birds in the Caribbean as “Darwin’s Hummingbirds.”
 
 <param ve-entity eid="Q3926650" title="Heliconia tortuosa">
@@ -113,11 +113,11 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQ4ODg4NjgsNTk5MzYzODUxLDk5NT
-g5MDYwLDE2NzI4MDYyNzQsLTE2OTE0MTE2MzYsLTkyNTE2MzY3
-NCwxMzY1NTY4Mjc3LDI2NTYzNDUzMywxNjY2MTI0MjAwLDE4Nj
-k5MTQ4NzYsLTg2MTc2NTgyNiwxMzQ4MjUxMjMwLDE5NzE2NTE2
-NjksLTEyOTg3MTE1MywtMTg5NTQyMzQ1NCwtMjc2OTAyNjIxLC
-01NzkyMDYxNiwxNjY5NTk1MjIzLDM4OTYxMzk0LC0xOTgyNjU2
-NDUzXX0=
+eyJoaXN0b3J5IjpbLTEyNzEwNjA4NjksLTE5OTQ4ODg4NjgsNT
+k5MzYzODUxLDk5NTg5MDYwLDE2NzI4MDYyNzQsLTE2OTE0MTE2
+MzYsLTkyNTE2MzY3NCwxMzY1NTY4Mjc3LDI2NTYzNDUzMywxNj
+Y2MTI0MjAwLDE4Njk5MTQ4NzYsLTg2MTc2NTgyNiwxMzQ4MjUx
+MjMwLDE5NzE2NTE2NjksLTEyOTg3MTE1MywtMTg5NTQyMzQ1NC
+wtMjc2OTAyNjIxLC01NzkyMDYxNiwxNjY5NTk1MjIzLDM4OTYx
+Mzk0XX0=
 -->
