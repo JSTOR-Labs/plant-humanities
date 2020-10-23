@@ -78,7 +78,7 @@ Another species, _Heliconia tortuosa_ from Costa Rica, provides a fascinating ex
 <param ve-entity eid="Q1533239" aliases="midges" title="Ceratopogonidae">
 <param ve-entity eid="Q859257" aliases="flies" title="fly">
 The close relationship between heliconias and their pollinators highlights the vital role these plants play in the broader ecosystem as a source of food and shelter. A number of birds, such as toucans and tanagers, as well as squirrels feed on the bright blue fruits and seeds of most species of _Heliconia_. Some plants, like _Heliconia imbricata_, are keystone species crucial to the survival of many other rainforest inhabitants.  In addition to feeding energy-rich nectar to the hummingbirds which pollinate its flowers, this heliconia offers a daytime home to tent-making bats, who fold-over the banana-like leaves to provide shelter from the tropical sun and rain. The species also serves as the perfect spot for hummingbirds to build their nests under the tips of the leaves. Meanwhile, the liquid that pools in the bracts enclosing the flowers is a breeding ground for insect larvae, especially mosquitos, midges, and flies. One group of tropical beetles, called the rolled-leaf hispine beetles, is highly specialized to feed inside the unfurling leaves of this and other species of heliconias and their relatives.
-<param ve-vis-network file="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia birds.tsv">
+<param ve-vis-network titlefile="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia birds.tsv">
 
 <param ve-entity eid="Q441" title="botany">
 <param ve-entity eid="Q181916" title="herbarium">
@@ -113,7 +113,7 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTgyODE2MSwtODYxNzY1ODI2LDEzND
+eyJoaXN0b3J5IjpbLTE2OTQ0MzIyNywtODYxNzY1ODI2LDEzND
 gyNTEyMzAsMTk3MTY1MTY2OSwtMTI5ODcxMTUzLC0xODk1NDIz
 NDU0LC0yNzY5MDI2MjEsLTU3OTIwNjE2LDE2Njk1OTUyMjMsMz
 g5NjEzOTQsLTE5ODI2NTY0NTMsMTgxNTAzMzI3Myw5NzMyNzU3
