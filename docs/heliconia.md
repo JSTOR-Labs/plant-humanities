@@ -10,8 +10,8 @@
 <param ve-image fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/4/@@images/image" title="Margaret Mee, _Heliconia_">
 <param ve-entity eid="Q624242" aliases="Heliconias" title="Heliconia genus">
 <param ve-map center="6.256144, -75.557182" zoom="4" stroke-width="0" fill-opacity="1">
-<param ve-map-layer geojson active title="Aurea" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia-aurea.tsv" fill="red" radius="6.5">  
-<param ve-map-layer geojson active title="Bihai" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia-bihai.tsv" marker-type="pin" fill="green" radius="4">  
+<param ve-map-layer geojson active title="Aurea" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia-aurea.tsv" marker-symbol="pin" marker-symbol-color="XXX" radius="6.5">  
+<param ve-map-layer geojson active title="Bihai" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia-bihai.tsv" marker-type="circle" fill="green" radius="4">  
 Heliconias rank among the great botanical beauties of the natural world. Visually alluring with <span data-click-image-zoomto="568,209,1290,1100">sculptural bracts</span> and stunning colors, they have been widely distributed in ornamental gardens and the horticulture trade over the past two centuries. Yet until recently these iconic tropical plants were poorly known to scientists. As large herbs with <span data-click-image-zoomto="1429,2117,1290,1100">banana-like leaves</span> and fleshy, bulky inflorescences they are hard to collect in the field. For the same reason their character is difficult to capture on the herbarium sheet, where the sensuous bracts are reduced to a shriveled shadow of their showy presence in forest clearings. However, in recent decades, both field observations and controlled experiments by botanists and ecologists have produced a wealth of new information about heliconias. These fascinating discoveries illuminate the sophistication of plant-animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.
 
 
@@ -115,11 +115,11 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDU0NjU2MCwtNTc5MjA2MTYsMTY2OT
-U5NTIyMywzODk2MTM5NCwtMTk4MjY1NjQ1MywxODE1MDMzMjcz
-LDk3MzI3NTczMSwyMTMzNjUxMjg4LDI2NzAwMzcwNSwtMjgwMz
-Q2NTEyLC0xNjY3Mzg3MDkxLDE4ODU4OTIxMzksMjY3MDAzNzA1
-LC05NTM5NTQsLTE0NjE3NzkwMzAsNjA2NDkxNzAzLC0xNjM0Nj
-YzMDMwLDEzODg3ODc3OTAsLTIzMTIxNDU3NywtMTM1NzU1NDcw
-OF19
+eyJoaXN0b3J5IjpbLTE4Njk3MTAzODEsLTU3OTIwNjE2LDE2Nj
+k1OTUyMjMsMzg5NjEzOTQsLTE5ODI2NTY0NTMsMTgxNTAzMzI3
+Myw5NzMyNzU3MzEsMjEzMzY1MTI4OCwyNjcwMDM3MDUsLTI4MD
+M0NjUxMiwtMTY2NzM4NzA5MSwxODg1ODkyMTM5LDI2NzAwMzcw
+NSwtOTUzOTU0LC0xNDYxNzc5MDMwLDYwNjQ5MTcwMywtMTYzND
+Y2MzAzMCwxMzg4Nzg3NzkwLC0yMzEyMTQ1NzcsLTEzNTc1NTQ3
+MDhdfQ==
 -->
