@@ -46,7 +46,7 @@ _Several years later, when I was in Venezuela collecting plants, I decided t
 Kress honored Margaret Mee by naming the new discovery _Heliconia chartacea_ var. _meeana_. A pen and ink drawing by the Smithsonian’s scientific illustrator [Alice Tangerini](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/tangerini-interview), created after Kress returned with the heliconia, employed a mix of photographs, dried specimens, and dissections under the microscope to capture the plant’s structures for the ensuing botanical publication. The discovery and description of this new variety exemplifies the close entanglement of art and science in the long tradition of plant representation.
 
 Mee’s gift of observation, honed through the painstaking sketching of plants and in conversation with expert botanists, led her to notice the plant. Her painting, though with a primarily aesthetic purpose, was detailed and accurate enough to convince Kress, an expert on the genus, that this was a new discovery. His scientific publication then called for the skill of a botanical illustrator, shifting the emphasis from color and composition to the accurate description of the plant’s parts, yet with a graceful economy of means that produces its own version of aesthetic pleasure.
-<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Heliconia_image_comparison.jpg">
+<param ve-image fit="contain" title="comparison of plant portrait and botanical illustration" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Heliconia_image_comparison.jpg">
 
 ### The Natural History of Heliconias – Experts in Interactions
 
@@ -113,11 +113,11 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzNTQwNzEzLDE2NjA5NjM5NCwxNzU0Nj
-M1ODg2LC0xOTk0ODg4ODY4LDU5OTM2Mzg1MSw5OTU4OTA2MCwx
-NjcyODA2Mjc0LC0xNjkxNDExNjM2LC05MjUxNjM2NzQsMTM2NT
-U2ODI3NywyNjU2MzQ1MzMsMTY2NjEyNDIwMCwxODY5OTE0ODc2
-LC04NjE3NjU4MjYsMTM0ODI1MTIzMCwxOTcxNjUxNjY5LC0xMj
-k4NzExNTMsLTE4OTU0MjM0NTQsLTI3NjkwMjYyMSwtNTc5MjA2
-MTZdfQ==
+eyJoaXN0b3J5IjpbMTExMjQzNDMzOCw3MDM1NDA3MTMsMTY2MD
+k2Mzk0LDE3NTQ2MzU4ODYsLTE5OTQ4ODg4NjgsNTk5MzYzODUx
+LDk5NTg5MDYwLDE2NzI4MDYyNzQsLTE2OTE0MTE2MzYsLTkyNT
+E2MzY3NCwxMzY1NTY4Mjc3LDI2NTYzNDUzMywxNjY2MTI0MjAw
+LDE4Njk5MTQ4NzYsLTg2MTc2NTgyNiwxMzQ4MjUxMjMwLDE5Nz
+E2NTE2NjksLTEyOTg3MTE1MywtMTg5NTQyMzQ1NCwtMjc2OTAy
+NjIxXX0=
 -->
