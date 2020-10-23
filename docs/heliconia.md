@@ -86,7 +86,6 @@ Botany has always been a highly visual science, and our understanding of plants 
 <param ve-vis-network file="https://jstor-labs.github.io/plant-humanities/graphs/Heliconia.tsv">
 
 ### Conserving the Diversity of Heliconia
-
 <param ve-entity eid="Q17025438" title="United States National Herbarium">
 <param ve-map center="6.256144, -75.557182" zoom="4" marker-type="circle" radius="4" stroke-width="0" fill-opacity="1">
 <param ve-map-layer geojson active title="Aurea" url="/data/heliconia-aurea.tsv" fill="red">  
@@ -113,9 +112,9 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1NDUzMTE3LDI2NzAwMzcwNSwtOTUzOT
-U0LC0xNDYxNzc5MDMwLDYwNjQ5MTcwMywtMTYzNDY2MzAzMCwx
-Mzg4Nzg3NzkwLC0yMzEyMTQ1NzcsLTEzNTc1NTQ3MDgsLTE1ND
-Y0MDMwMzIsLTE1MzAwMzIsNTk3MjY3MjcyLDEyMDAyNTI2MjZd
-fQ==
+eyJoaXN0b3J5IjpbMTg4NTg5MjEzOSwyNjcwMDM3MDUsLTk1Mz
+k1NCwtMTQ2MTc3OTAzMCw2MDY0OTE3MDMsLTE2MzQ2NjMwMzAs
+MTM4ODc4Nzc5MCwtMjMxMjE0NTc3LC0xMzU3NTU0NzA4LC0xNT
+Q2NDAzMDMyLC0xNTMwMDMyLDU5NzI2NzI3MiwxMjAwMjUyNjI2
+XX0=
 -->
