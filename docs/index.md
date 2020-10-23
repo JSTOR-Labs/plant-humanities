@@ -4,7 +4,7 @@
 
 The visual essays below feature interactive maps, high-resolution images and videos, all linked with a network of people, places and ideas.  These essays will be featured in the Plant Humanities Workbench, which will allow users to explore the rich cultural history of plants and to craft their own narratives.
 
-# Newest Essays
+# Most Recent Essays
 
 ##
 [**Boxwood: A humble yet resilient plant that took over the garden world**](/boxwood)
