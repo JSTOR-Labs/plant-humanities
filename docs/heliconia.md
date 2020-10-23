@@ -11,6 +11,7 @@
 <param ve-entity eid="Q624242" aliases="Heliconias" title="Heliconia genus">
 <param ve-map center="6.256144, -75.557182" zoom="4" marker-type="circle" radius="12" stroke-width="0" fill-opacity="1">
 <param ve-map-layer geojson active title="Aurea" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia-aurea.tsv" fill="red">  
+<param ve-map-layer geojson active title="Aurea" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia-bihai.tsv" fill="blue">  
 Heliconias rank among the great botanical beauties of the natural world. Visually alluring with <span data-click-image-zoomto="568,209,1290,1100">sculptural bracts</span> and stunning colors, they have been widely distributed in ornamental gardens and the horticulture trade over the past two centuries. Yet until recently these iconic tropical plants were poorly known to scientists. As large herbs with <span data-click-image-zoomto="1429,2117,1290,1100">banana-like leaves</span> and fleshy, bulky inflorescences they are hard to collect in the field. For the same reason their character is difficult to capture on the herbarium sheet, where the sensuous bracts are reduced to a shriveled shadow of their showy presence in forest clearings. However, in recent decades, both field observations and controlled experiments by botanists and ecologists have produced a wealth of new information about heliconias. These fascinating discoveries illuminate the sophistication of plant-animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.
 
 
@@ -114,11 +115,11 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTYxNzkxOSwzODk2MTM5NCwtMTk4Mj
-Y1NjQ1MywxODE1MDMzMjczLDk3MzI3NTczMSwyMTMzNjUxMjg4
-LDI2NzAwMzcwNSwtMjgwMzQ2NTEyLC0xNjY3Mzg3MDkxLDE4OD
-U4OTIxMzksMjY3MDAzNzA1LC05NTM5NTQsLTE0NjE3NzkwMzAs
-NjA2NDkxNzAzLC0xNjM0NjYzMDMwLDEzODg3ODc3OTAsLTIzMT
-IxNDU3NywtMTM1NzU1NDcwOCwtMTU0NjQwMzAzMiwtMTUzMDAz
-Ml19
+eyJoaXN0b3J5IjpbLTE0MDE5MDg0MDQsMzg5NjEzOTQsLTE5OD
+I2NTY0NTMsMTgxNTAzMzI3Myw5NzMyNzU3MzEsMjEzMzY1MTI4
+OCwyNjcwMDM3MDUsLTI4MDM0NjUxMiwtMTY2NzM4NzA5MSwxOD
+g1ODkyMTM5LDI2NzAwMzcwNSwtOTUzOTU0LC0xNDYxNzc5MDMw
+LDYwNjQ5MTcwMywtMTYzNDY2MzAzMCwxMzg4Nzg3NzkwLC0yMz
+EyMTQ1NzcsLTEzNTc1NTQ3MDgsLTE1NDY0MDMwMzIsLTE1MzAw
+MzJdfQ==
 -->
