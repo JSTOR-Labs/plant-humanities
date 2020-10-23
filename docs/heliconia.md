@@ -101,23 +101,23 @@ Our understanding of the diversity and ecology of heliconias has grown tremendou
 
 Altshuler, Douglas L. and Christopher James Clark. "Darwin’s Hummingbirds." _Science_ 300 (2003): 588-589. Accessed 1 June 2020. _JSTOR_, [www.jstor.org/stable/3834345](www.jstor.org/stable/3834345).
 
-Betts, M., Hadley, A., and Kress, W. "Pollinator recognition by a keystone tropical plant." _Proceedings of the National Academy of Sciences of the United States of America,_ 112_ no. 11 (2015): 3433-3438. Accessed May 17, 2020._JSTOR_ [www.jstor.org/stable/26462059](www.jstor.org/stable/26462059).
+Betts, M., Hadley, A., and Kress, W. "Pollinator recognition by a keystone tropical plant." _Proceedings of the National Academy of Sciences of the United States of America,_ 112_ no. 11 (2015): 3433-3438. Accessed May 17, 2020. _JSTOR_ [www.jstor.org/stable/26462059](www.jstor.org/stable/26462059).
 
-Kress, W. John. "The Taxonomy of Old World Heliconia (Heliconiaceae)." _Allertonia_, 6 no. 1 (1990): 1–58. Accessed 17 May 2020._JSTOR_ [www.jstor.org/stable/23188167](www.jstor.org/stable/23188167).
+Kress, W. John. "The Taxonomy of Old World Heliconia (Heliconiaceae)." _Allertonia_, 6 no. 1 (1990): 1–58. Accessed 17 May 2020. _JSTOR_ [www.jstor.org/stable/23188167](www.jstor.org/stable/23188167).
 
 Kress, W. J.  "A synopsis of the genus _Heliconia_ (Heliconiaceae) in Venezuela with one new variety." _BioLlania_, Edición Especial no. 6 (1997): 407-430.
 
 Martén-Rodríguez, S., John Kress, W., Temeles, E. J. _et al._ "Plant–pollinator interactions and floral convergence in two species of _Heliconia_ from the Caribbean Islands." _Oecologia_ 167 (2011): 1075–1083. https://doi.org/10.1007/s00442-011-2043-8
 
-Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon Forests: Diaries of an English artist reveal the beauty of the vanishing rainforest_. (Suffolk, England: Nonesuch Expeditions, 1988).
+Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon Forests: Diaries of an English artist reveal the beauty of the vanishing rainforest_. Suffolk, England: Nonesuch Expeditions, 1988.
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjQzNDMzOCw3MDM1NDA3MTMsMTY2MD
-k2Mzk0LDE3NTQ2MzU4ODYsLTE5OTQ4ODg4NjgsNTk5MzYzODUx
-LDk5NTg5MDYwLDE2NzI4MDYyNzQsLTE2OTE0MTE2MzYsLTkyNT
-E2MzY3NCwxMzY1NTY4Mjc3LDI2NTYzNDUzMywxNjY2MTI0MjAw
-LDE4Njk5MTQ4NzYsLTg2MTc2NTgyNiwxMzQ4MjUxMjMwLDE5Nz
-E2NTE2NjksLTEyOTg3MTE1MywtMTg5NTQyMzQ1NCwtMjc2OTAy
-NjIxXX0=
+eyJoaXN0b3J5IjpbLTE0MjI5ODc3MjUsMTExMjQzNDMzOCw3MD
+M1NDA3MTMsMTY2MDk2Mzk0LDE3NTQ2MzU4ODYsLTE5OTQ4ODg4
+NjgsNTk5MzYzODUxLDk5NTg5MDYwLDE2NzI4MDYyNzQsLTE2OT
+E0MTE2MzYsLTkyNTE2MzY3NCwxMzY1NTY4Mjc3LDI2NTYzNDUz
+MywxNjY2MTI0MjAwLDE4Njk5MTQ4NzYsLTg2MTc2NTgyNiwxMz
+Q4MjUxMjMwLDE5NzE2NTE2NjksLTEyOTg3MTE1MywtMTg5NTQy
+MzQ1NF19
 -->
