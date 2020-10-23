@@ -107,17 +107,17 @@ Kress, W. John. "The Taxonomy of Old World Heliconia (Heliconiaceae)." _Allerton
 
 Kress, W. J.  "A synopsis of the genus _Heliconia_ (Heliconiaceae) in Venezuela with one new variety." _BioLlania_, Edición Especial no. 6 (1997): 407-430.
 
-Martén-Rodríguez, S., John Kress, W., Temeles, E.J. _et al._ 2011. Plant–pollinator interactions and floral convergence in two species of _Heliconia_ from the Caribbean Islands. _Oecologia_ 167, 1075–1083. https://doi.org/10.1007/s00442-011-2043-8
+Martén-Rodríguez, S., John Kress, W., Temeles, E. J. _et al._ "Plant–pollinator interactions and floral convergence in two species of _Heliconia_ from the Caribbean Islands." _Oecologia_ 167 (2011): 1075–1083. https://doi.org/10.1007/s00442-011-2043-8
 
-Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon Forests: Diaries of an English artist reveal the beauty of the vanishing rainforest_. Suffolk, England: Nonesuch Expeditions.
+Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon Forests: Diaries of an English artist reveal the beauty of the vanishing rainforest_. (Suffolk, England: Nonesuch Expeditions, 1988).
 
-Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300: 630-633.
+Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzg4MzczNCwxNzU0NjM1ODg2LC0xOT
-k0ODg4ODY4LDU5OTM2Mzg1MSw5OTU4OTA2MCwxNjcyODA2Mjc0
-LC0xNjkxNDExNjM2LC05MjUxNjM2NzQsMTM2NTU2ODI3NywyNj
-U2MzQ1MzMsMTY2NjEyNDIwMCwxODY5OTE0ODc2LC04NjE3NjU4
-MjYsMTM0ODI1MTIzMCwxOTcxNjUxNjY5LC0xMjk4NzExNTMsLT
-E4OTU0MjM0NTQsLTI3NjkwMjYyMSwtNTc5MjA2MTYsMTY2OTU5
-NTIyM119
+eyJoaXN0b3J5IjpbMTY2MDk2Mzk0LDE3NTQ2MzU4ODYsLTE5OT
+Q4ODg4NjgsNTk5MzYzODUxLDk5NTg5MDYwLDE2NzI4MDYyNzQs
+LTE2OTE0MTE2MzYsLTkyNTE2MzY3NCwxMzY1NTY4Mjc3LDI2NT
+YzNDUzMywxNjY2MTI0MjAwLDE4Njk5MTQ4NzYsLTg2MTc2NTgy
+NiwxMzQ4MjUxMjMwLDE5NzE2NTE2NjksLTEyOTg3MTE1MywtMT
+g5NTQyMzQ1NCwtMjc2OTAyNjIxLC01NzkyMDYxNiwxNjY5NTk1
+MjIzXX0=
 -->
