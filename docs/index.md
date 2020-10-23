@@ -14,6 +14,13 @@ The visual essays below feature interactive maps, high-resolution images and vid
 ![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/boxwood.jpg)
 
 ##
+[**The Corpse Flower - Amorphophallus titanium**](/Corpse_Flower)
+
+- author: Ashley Buchanan, PhD
+
+![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/corpse-flower.jpg)
+
+##
 [**Heliconia: Plant-Pollinator Interactions Reveal Evolution at Work**](/heliconia)
 
 - author: John Kress, PhD and Yota Batsaki, PhD
