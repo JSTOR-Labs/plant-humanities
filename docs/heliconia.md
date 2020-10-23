@@ -105,19 +105,19 @@ Betts, M., Hadley, A., & Kress, W. 2015. Pollinator recognition by a keystone tr
 
 Kress, W. John. 1990. The Taxonomy of Old World Heliconia (Heliconiaceae). _Allertonia_, 6 (1), 1–58. _JSTOR_, [www.jstor.org/stable/23188167](www.jstor.org/stable/23188167). Accessed 17 May 2020.
 
-Kress, W. J.  1997.  A synopsis of the genus _Heliconia_ (Heliconiaceae) in Venezuela with one new variety.  BioLlania, Edición Especial No. 6: 407-430.
+Kress, W. J.  1997.  "A synopsis of the genus _Heliconia_ (Heliconiaceae) in Venezuela with one new variety."  _BioLlania_, Edición Especial No. 6: 407-430.
 
-Martén-Rodríguez, S., John Kress, W., Temeles, E.J. _et al._ 2011. Plant–pollinator interactions and floral convergence in two species of _Heliconia_ from the Caribbean Islands. _Oecologia_ 167, 1075–1083. https://doi.org/10.1007/s00442-011-2043-8
+Martén-Rodríguez, S., John Kress, W., Temeles, E.J. _et al._ 2011. "Plant–pollinator interactions and floral convergence in two species of _Heliconia_ from the Caribbean Islands." _Oecologia_ 167, 1075–1083. https://doi.org/10.1007/s00442-011-2043-8
 
 Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon Forests: Diaries of an English artist reveal the beauty of the vanishing rainforest_. Suffolk, England: Nonesuch Expeditions.
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzY2NDc4NDYsLTE5OTQ4ODg4NjgsNT
-k5MzYzODUxLDk5NTg5MDYwLDE2NzI4MDYyNzQsLTE2OTE0MTE2
-MzYsLTkyNTE2MzY3NCwxMzY1NTY4Mjc3LDI2NTYzNDUzMywxNj
-Y2MTI0MjAwLDE4Njk5MTQ4NzYsLTg2MTc2NTgyNiwxMzQ4MjUx
-MjMwLDE5NzE2NTE2NjksLTEyOTg3MTE1MywtMTg5NTQyMzQ1NC
-wtMjc2OTAyNjIxLC01NzkyMDYxNiwxNjY5NTk1MjIzLDM4OTYx
-Mzk0XX0=
+eyJoaXN0b3J5IjpbMTE3ODI3Njk3NCwtMTk5NDg4ODg2OCw1OT
+kzNjM4NTEsOTk1ODkwNjAsMTY3MjgwNjI3NCwtMTY5MTQxMTYz
+NiwtOTI1MTYzNjc0LDEzNjU1NjgyNzcsMjY1NjM0NTMzLDE2Nj
+YxMjQyMDAsMTg2OTkxNDg3NiwtODYxNzY1ODI2LDEzNDgyNTEy
+MzAsMTk3MTY1MTY2OSwtMTI5ODcxMTUzLC0xODk1NDIzNDU0LC
+0yNzY5MDI2MjEsLTU3OTIwNjE2LDE2Njk1OTUyMjMsMzg5NjEz
+OTRdfQ==
 -->
