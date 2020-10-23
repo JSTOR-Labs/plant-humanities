@@ -1,13 +1,13 @@
-<param ve-config 
-       title="The ubiquity of mint" 
-       source-image="https://upload.wikimedia.org/wikipedia/commons/b/b4/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814764048982%29.jpg"
+<pvaram ve-config 
+       data-essay title="The ubiquity of mint" 
+       source-imagedata-banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814764048982%29.jpg"
        banner="https://jstor-labs.github.io/plant-humanities/images/banners/mint.jpg"
-       layout="vtl"
-       num-maps="20" 
-       num-images="10" 
-       num-primary-sources="12" 
-       num-specimens="0" 
-       author="Victoria Pickering PhD">
+        data-layout="vtl"
+        data-num-maps="20" 
+       data-num-images="10" 
+       data-num-primary-sources="12" 
+       data-num-specimens="0" 
+       data-author="Victoria Pickering PhD"></var>
 
 [View](https://plant-humanities.app/essay?gdid=1-q4xsJuLtqYotSbVRPJ2NPZvs_JKiF8x)
 
@@ -174,3 +174,6 @@ Mint is ubiquitous, and perhaps that is because it has remained relevant across 
 [^ref14]:  See N. K. Ellis, Peppermint and Spearmint Production, *Economic Botany*, 14:4 (1960) 280–285. JSTOR, www.jstor.org/stable/4252193; O. R. Jones, Essence of Peppermint, a History of the Medicine and Its Bottle, *Historical Archaeology*, 15: 2 (1981) 1–57. *JSTOR*, www.jstor.org/stable/25615407; J E. Landing, *American Essence; a History of the Peppermint and Spearmint Industry in the United States* (Kalamazoo, 1969).
 [^ref15]:  James. E. Landing, Peppermint and Spearmint.
 [^ref16]:  B. Salehi et al., Plants of Genus *Mentha*: From Farm to Food Factory, *Plants*, 7.3:70 (2018)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjE4NzU5NzI2XX0=
+-->
