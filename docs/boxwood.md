@@ -160,7 +160,7 @@ The vindication of boxwood as an essential garden plant took place in late sixte
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
 	seq="9"
 	region="-396,75,4753,3521">
-	<param ve-image
+<param ve-image
 	title="Garden design pattern, in Claude Mollet, _Theatre des plans et iardinages_, 1652, plate 5."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
 	seq="237"
