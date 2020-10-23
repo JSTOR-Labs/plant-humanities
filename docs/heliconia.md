@@ -39,7 +39,7 @@ The striking beauty of heliconias continued to attract both the plant explorer a
 <param ve-image fit="cover" title="Photograph of John Kress (center) and team with the newly-found _Heliconia_." url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/exhibition-images/14-john-kress-finding-heliconia.jpg/@@images/21b338bf-3b3b-4f38-a159-d728bdf9baea.jpeg">
 
 
-"_Several years later, when I was in Venezuela collecting plants, I decided to find this Heliconia so I organized an expedition up the Orinoco River to where it meets the Vaupés River. With two other botanists (one from Venezuela named Ernesto Foldats and the other a student from Germany) along with my research assistant Cheryl Roesel, I flew down to a missionary group working with the Yanomamo indigenous people where we knew there was a little air strip near Platanal along the Orinoco. Once we landed and paid our respect to our hosts in the region, I headed into the forest along the river. It took me about five minutes to find the new Heliconia! You can tell how excited we were from the photograph. We made some botanical specimens for the local herbarium in Venezuela and the Smithsonian. I took copious notes and measurements. Later I decided that the plant was not a unique species so I named it as a variety and called it Heliconia chartacea var. meena. We flew back that afternoon after a brief celebration. It was a one-day expedition and finding the plant was not that difficult. The return was another story. We had to fly out on a tiny little plane while it was still light. After takeoff I was sitting next to the pilot when the engine stopped while we were high over the rain forest. I thought: “Hey, I have finally found Margaret Mee's Heliconia and the engine has stopped. What is happening?" Then the pilot looked over at me and commented “Oh, I forgot to switch the gas tanks.” He flipped the switch and we continued on our way.”_"
+_Several years later, when I was in Venezuela collecting plants, I decided to find this Heliconia so I organized an expedition up the Orinoco River to where it meets the Vaupés River. With two other botanists (one from Venezuela named Ernesto Foldats and the other a student from Germany) along with my research assistant Cheryl Roesel, I flew down to a missionary group working with the Yanomamo indigenous people where we knew there was a little air strip near Platanal along the Orinoco. Once we landed and paid our respect to our hosts in the region, I headed into the forest along the river. It took me about five minutes to find the new Heliconia! You can tell how excited we were from the photograph. We made some botanical specimens for the local herbarium in Venezuela and the Smithsonian. I took copious notes and measurements. Later I decided that the plant was not a unique species so I named it as a variety and called it Heliconia chartacea var. meena. We flew back that afternoon after a brief celebration. It was a one-day expedition and finding the plant was not that difficult. The return was another story. We had to fly out on a tiny little plane while it was still light. After takeoff I was sitting next to the pilot when the engine stopped while we were high over the rain forest. I thought: “Hey, I have finally found Margaret Mee's Heliconia and the engine has stopped. What is happening?" Then the pilot looked over at me and commented “Oh, I forgot to switch the gas tanks.” He flipped the switch and we continued on our way.”_
 <param ve-video title="Heliconia bihai 'Arawak' - (Lobster Claw), Herbarium Werdler" vid="pYiYzb1K450">
 
 
@@ -115,11 +115,11 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwNjYxMzkxLDExMTI0MzQzMzgsNzAzNT
-QwNzEzLDE2NjA5NjM5NCwxNzU0NjM1ODg2LC0xOTk0ODg4ODY4
-LDU5OTM2Mzg1MSw5OTU4OTA2MCwxNjcyODA2Mjc0LC0xNjkxND
-ExNjM2LC05MjUxNjM2NzQsMTM2NTU2ODI3NywyNjU2MzQ1MzMs
-MTY2NjEyNDIwMCwxODY5OTE0ODc2LC04NjE3NjU4MjYsMTM0OD
-I1MTIzMCwxOTcxNjUxNjY5LC0xMjk4NzExNTMsLTE4OTU0MjM0
-NTRdfQ==
+eyJoaXN0b3J5IjpbMTE4Mzc0NTQyMyw4MzA2NjEzOTEsMTExMj
+QzNDMzOCw3MDM1NDA3MTMsMTY2MDk2Mzk0LDE3NTQ2MzU4ODYs
+LTE5OTQ4ODg4NjgsNTk5MzYzODUxLDk5NTg5MDYwLDE2NzI4MD
+YyNzQsLTE2OTE0MTE2MzYsLTkyNTE2MzY3NCwxMzY1NTY4Mjc3
+LDI2NTYzNDUzMywxNjY2MTI0MjAwLDE4Njk5MTQ4NzYsLTg2MT
+c2NTgyNiwxMzQ4MjUxMjMwLDE5NzE2NTE2NjksLTEyOTg3MTE1
+M119
 -->
