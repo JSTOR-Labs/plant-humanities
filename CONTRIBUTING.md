@@ -1,6 +1,6 @@
 # Contributing to the Plant Humanities site
 
-The [Plant Humanities](https://plant-humanities.app) site is home to a set of visual essays in the field of botany.  This document describes the process for contributing new content to the site.
+The [Plant Humanities](https://plant-humanities.app) site is home to a set of visual essays in the field of botany.  This document describes the process for contributing new content to the site.!
 
 ## Quick start
 
