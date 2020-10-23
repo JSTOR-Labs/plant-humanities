@@ -11,7 +11,7 @@
 <param ve-entity eid="Q624242" aliases="Heliconias" title="Heliconia genus">
 <param ve-map center="6.256144, -75.557182" zoom="4" marker-type="circle" stroke-width="0" fill-opacity="1">
 <param ve-map-layer geojson active title="Aurea" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia-aurea.tsv" radius="6" fill="#D11141">  
-<param ve-map-layer geojson active title="Bihai" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia-bihai.tsv" radius="4" fill="#EBECBB">  
+<param ve-map-layer geojson active title="Bihai" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia-bihai.tsv" radius="4" fill="#8EC127">  
 Heliconias rank among the great botanical beauties of the natural world. Visually alluring with <span data-click-image-zoomto="568,209,1290,1100">sculptural bracts</span> and stunning colors, they have been widely distributed in ornamental gardens and the horticulture trade over the past two centuries. Yet until recently these iconic tropical plants were poorly known to scientists. As large herbs with <span data-click-image-zoomto="1429,2117,1290,1100">banana-like leaves</span> and fleshy, bulky inflorescences they are hard to collect in the field. For the same reason their character is difficult to capture on the herbarium sheet, where the sensuous bracts are reduced to a shriveled shadow of their showy presence in forest clearings. However, in recent decades, both field observations and controlled experiments by botanists and ecologists have produced a wealth of new information about heliconias. These fascinating discoveries illuminate the sophistication of plant-animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.
 
 
@@ -115,11 +115,11 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1MzYwODA3LC0yNzY5MDI2MjEsLTU3OT
-IwNjE2LDE2Njk1OTUyMjMsMzg5NjEzOTQsLTE5ODI2NTY0NTMs
-MTgxNTAzMzI3Myw5NzMyNzU3MzEsMjEzMzY1MTI4OCwyNjcwMD
-M3MDUsLTI4MDM0NjUxMiwtMTY2NzM4NzA5MSwxODg1ODkyMTM5
-LDI2NzAwMzcwNSwtOTUzOTU0LC0xNDYxNzc5MDMwLDYwNjQ5MT
-cwMywtMTYzNDY2MzAzMCwxMzg4Nzg3NzkwLC0yMzEyMTQ1Nzdd
-fQ==
+eyJoaXN0b3J5IjpbLTE4OTU0MjM0NTQsLTI3NjkwMjYyMSwtNT
+c5MjA2MTYsMTY2OTU5NTIyMywzODk2MTM5NCwtMTk4MjY1NjQ1
+MywxODE1MDMzMjczLDk3MzI3NTczMSwyMTMzNjUxMjg4LDI2Nz
+AwMzcwNSwtMjgwMzQ2NTEyLC0xNjY3Mzg3MDkxLDE4ODU4OTIx
+MzksMjY3MDAzNzA1LC05NTM5NTQsLTE0NjE3NzkwMzAsNjA2ND
+kxNzAzLC0xNjM0NjYzMDMwLDEzODg3ODc3OTAsLTIzMTIxNDU3
+N119
 -->
