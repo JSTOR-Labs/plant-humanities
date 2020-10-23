@@ -99,9 +99,9 @@ Our understanding of the diversity and ecology of heliconias has grown tremendou
 
 ### References
 
-Altshuler, Douglas L. and Christopher James Clark. 2003. Darwin’s Hummingbirds. _Science_ 300: 588-589. _JSTOR_, [www.jstor.org/stable/3834345](www.jstor.org/stable/3834345). Accessed 1 June 2020.
+Altshuler, Douglas L. and Christopher James Clark. "Darwin’s Hummingbirds." _Science_ 300 (2003): 588-589. Accessed 1 June 2020. _JSTOR_, [www.jstor.org/stable/3834345](www.jstor.org/stable/3834345).
 
-Betts, M., Hadley, A., & Kress, W. 2015. Pollinator recognition by a keystone tropical plant. _Proceedings of the National Academy of Sciences of the United States of America,_ _112_ (11), 3433-3438. _JSTOR_, [www.jstor.org/stable/26462059](www.jstor.org/stable/26462059). Accessed May 17, 2020.
+Betts, M., Hadley, A., and Kress, W. "Pollinator recognition by a keystone tropical plant." _Proceedings of the National Academy of Sciences of the United States of America,_ _112_ (11), 3433-3438. _JSTOR_, [www.jstor.org/stable/26462059](www.jstor.org/stable/26462059). Accessed May 17, 2020.
 
 Kress, W. John. 1990. The Taxonomy of Old World Heliconia (Heliconiaceae). _Allertonia_, 6 (1), 1–58. _JSTOR_, [www.jstor.org/stable/23188167](www.jstor.org/stable/23188167). Accessed 17 May 2020.
 
@@ -113,11 +113,11 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300: 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDYzNTg4NiwtMTk5NDg4ODg2OCw1OT
-kzNjM4NTEsOTk1ODkwNjAsMTY3MjgwNjI3NCwtMTY5MTQxMTYz
-NiwtOTI1MTYzNjc0LDEzNjU1NjgyNzcsMjY1NjM0NTMzLDE2Nj
-YxMjQyMDAsMTg2OTkxNDg3NiwtODYxNzY1ODI2LDEzNDgyNTEy
-MzAsMTk3MTY1MTY2OSwtMTI5ODcxMTUzLC0xODk1NDIzNDU0LC
-0yNzY5MDI2MjEsLTU3OTIwNjE2LDE2Njk1OTUyMjMsMzg5NjEz
-OTRdfQ==
+eyJoaXN0b3J5IjpbOTQ3MDU0ODE4LDE3NTQ2MzU4ODYsLTE5OT
+Q4ODg4NjgsNTk5MzYzODUxLDk5NTg5MDYwLDE2NzI4MDYyNzQs
+LTE2OTE0MTE2MzYsLTkyNTE2MzY3NCwxMzY1NTY4Mjc3LDI2NT
+YzNDUzMywxNjY2MTI0MjAwLDE4Njk5MTQ4NzYsLTg2MTc2NTgy
+NiwxMzQ4MjUxMjMwLDE5NzE2NTE2NjksLTEyOTg3MTE1MywtMT
+g5NTQyMzQ1NCwtMjc2OTAyNjIxLC01NzkyMDYxNiwxNjY5NTk1
+MjIzXX0=
 -->
