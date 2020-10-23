@@ -66,7 +66,7 @@ Archipelagos are ideal environments for observing plant evolution driven by inte
 
 <param ve-entity eid="Q3926650" title="Heliconia tortuosa">
 <param ve-entity eid="Q800" title="Costa Rica">
-<param ve-image iiif fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/amazonian-entanglements/heliconia-caribaea/@@images/image" title="Bryan Poole, _Heliconia caribeae_ with male hummingbirds">
+<param ve-image iiif fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/amazonian-entanglements/heliconia-caribaea/@@images/image" title="Bryan Poole, _Heliconia caribeae_ with male hummingbirds, 2008, colored etching, National Museum of Natural History, Smithsonian Institution">
 Another species, _Heliconia tortuosa_ from Costa Rica, provides a fascinating example of plant adaption in selecting specific pollinators. The distinctive shape of the plant’s flowers acts as a screening mechanism. An ingenious aviary [experiment](https://www.jstor.org/stable/26462059) has shown that the plant has the capacity to distinguish among pollinators and respond to their visits by preventing or facilitating pollen tube growth to encourage or discourage fertilization and seed production. Specifically, _Heliconia tortuosa_ plants allow pollen tube growth after visits by two species of hummingbird that are more likely to carry high-quality, long-distance and more diverse pollen, and prevent pollen tube growth after visits by less effective species of hummingbirds. The plants apparently discriminate by measuring how much nectar has been removed by the particular birds. This experiment is perhaps the first evidence of specific pollinator recognition by plants, and a form of decision-making that identifies the desired pollinator to optimize reproduction.
 
 ### Nature’s Network in Tropical Forests
@@ -113,7 +113,7 @@ Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon 
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzEwNjA4NjksLTE5OTQ4ODg4NjgsNT
+eyJoaXN0b3J5IjpbLTEwNzY2NDc4NDYsLTE5OTQ4ODg4NjgsNT
 k5MzYzODUxLDk5NTg5MDYwLDE2NzI4MDYyNzQsLTE2OTE0MTE2
 MzYsLTkyNTE2MzY3NCwxMzY1NTY4Mjc3LDI2NTYzNDUzMywxNj
 Y2MTI0MjAwLDE4Njk5MTQ4NzYsLTg2MTc2NTgyNiwxMzQ4MjUx
