@@ -10,15 +10,7 @@
 <param ve-image fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/4/@@images/image" title="Margaret Mee, _Heliconia_">
 <param ve-entity eid="Q624242" aliases="Heliconias" title="Heliconia genus">
 Heliconias rank among the great botanical beauties of the natural world. Visually alluring with <span data-click-image-zoomto="568,209,1290,1100">sculptural bracts</span> and stunning colors, they have been widely distributed in ornamental gardens and the horticulture trade over the past two centuries. Yet until recently these iconic tropical plants were poorly known to scientists. As large herbs with <span data-click-image-zoomto="1429,2117,1290,1100">banana-like leaves</span> and fleshy, bulky inflorescences they are hard to collect in the field. For the same reason their character is difficult to capture on the herbarium sheet, where the sensuous bracts are reduced to a shriveled shadow of their showy presence in forest clearings. However, in recent decades, both field observations and controlled experiments by botanists and ecologists have produced a wealth of new information about heliconias. These fascinating discoveries illuminate the sophistication of plant-animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.
-<param ve-map
-       center="-6.75, -71.2"
-       zoom="4"
-       marker-type="circle"
-       radius="4"
-       stroke-width="0"
-       fill="blue"
-       fill-opacity="1">
-<param ve-map-layer geojson active title="Heliconia locations" url="/data/heliconia.tsv">
+
 
 The genus _Heliconia_ was named after mount Helicon—in Greek mythology, the home of Apollo and the Muses—by none other than Carl Linnaeus, the father of modern taxonomy. The name, evocative of art and beauty, was intended to emphasize the close taxonomic relationship of _Heliconia_ to the genus _[Musa](https://plant-humanities.app/Banana)_, or the bananas.
 ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/eight_families_order_Zingiberales_sm.jpg){: .right}
@@ -100,7 +92,15 @@ Botany has always been a highly visual science, and our understanding of plants 
 <param ve-entity eid="Q739" title="Colombia">
 <param ve-entity eid="Q717" title="Venezuela">
 <param ve-map prefer-geojson title="Map showing habitat destruction for select species" primary center="Q1106" zoom="1.5" basemap="Esri_WorldPhysical">
-<param ve-map-layer geojson active url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/geojson/heliconia_destribution_map.json">
+<param ve-map
+       center="-6.75, -71.2"
+       zoom="4"
+       marker-type="circle"
+       radius="4"
+       stroke-width="0"
+       fill="blue"
+       fill-opacity="1">
+<param ve-map-layer geojson active title="Heliconia locations" url="/data/heliconia.tsv">
 A full assessment of the conservation status of each known species of _Heliconia_ is currently being conducted by John Kress, Gary Krupnick, and Serenity Montaño at the Smithsonian. Using information from specimens collected over the last two hundred years and maintained in herbaria around the world, such as the United States National Herbarium at the Smithsonian Institution, they are using both the [IUCN Red List](https://www.iucnredlist.org/search?query=Heliconia&searchType=species) Criteria method of assessment and a second rapid assessment method to determine the conservation status of each species. Geospatial Conservation Assessment (GeoCat) maps and Red List descriptions of the conservation status of 185 species are being produced. For example, data from over 200 herbarium specimens found in 20 institutions suggest that _[Heliconia bihai](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:796925-1)_ from the Caribbean and northern South America is of “Least Concern” for conservation (see GeoCat map and Red List assessment).  Whereas the six available specimens of the very closely related species _[Heliconia aurea](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:119303-2)_ from Colombia and Venezuela indicate that it is “Vulnerable” and at risk of extinction most likely due to habitat alteration, degradation, and destruction (see GeoCat map and Red List assessment).
 
 <param ve-plant-specimen eid="Q2727878" max="1">
@@ -121,3 +121,6 @@ Martén-Rodríguez, S., John Kress, W., Temeles, E.J. _et al._ 2011. Plant–pol
 Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon Forests: Diaries of an English artist reveal the beauty of the vanishing rainforest_. Suffolk, England: Nonesuch Expeditions.
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300:630-633.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIyMjQ2NjY0Nl19
+-->
