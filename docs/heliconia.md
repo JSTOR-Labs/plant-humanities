@@ -107,13 +107,13 @@ Kress, W. John. 1990. The Taxonomy of Old World Heliconia (Heliconiaceae). _Alle
 
 Kress, W. J.  1997.  "A synopsis of the genus _Heliconia_ (Heliconiaceae) in Venezuela with one new variety."  _BioLlania_, Edición Especial No. 6: 407-430.
 
-Martén-Rodríguez, S., John Kress, W., Temeles, E.J. _et al._ 2011. "Plant–pollinator interactions and floral convergence in two species of _Heliconia_ from the Caribbean Islands." _Oecologia_ 167, 1075–1083. https://doi.org/10.1007/s00442-011-2043-8
+Martén-Rodríguez, S., John Kress, W., Temeles, E.J. _et al._ 2011. Plant–pollinator interactions and floral convergence in two species of _Heliconia_ from the Caribbean Islands. _Oecologia_ 167, 1075–1083. https://doi.org/10.1007/s00442-011-2043-8
 
 Mee, M., & Morrison, T. 1988. _Margaret Mee, In Search of Flowers of the Amazon Forests: Diaries of an English artist reveal the beauty of the vanishing rainforest_. Suffolk, England: Nonesuch Expeditions.
 
 Temeles, E. J., and W. J. Kress.  2003.  Evidence for adaptation in a plant-hummingbird association.  _Science_ 300: 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTgzNzk4NiwtMTk5NDg4ODg2OCw1OT
+eyJoaXN0b3J5IjpbMTc1NDYzNTg4NiwtMTk5NDg4ODg2OCw1OT
 kzNjM4NTEsOTk1ODkwNjAsMTY3MjgwNjI3NCwtMTY5MTQxMTYz
 NiwtOTI1MTYzNjc0LDEzNjU1NjgyNzcsMjY1NjM0NTMzLDE2Nj
 YxMjQyMDAsMTg2OTkxNDg3NiwtODYxNzY1ODI2LDEzNDgyNTEy
