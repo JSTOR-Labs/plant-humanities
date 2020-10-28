@@ -19,7 +19,7 @@ European, American, and Native American portrayals of the sunflower can provide 
 
 <param ve-image iiif fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/19/@@images/image" title="Carolus Linnaeus, title page, _Critica botanica_, 1737, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-entity eid="Q10432667306" title="Carl Linnaeus">
-The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—was named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, when the plant was still a rare curiosity in Europe. Although it may be hard for us to imagine that the sunflower was once regarded as a foreign luxury good, Linnaeus’s exuberant description of the plant, in _Critica botanica_, offers some insights. He writes, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?” His observations about the splendor of the mature Helianthus inflorescence demonstrate some traits that eighteenth-century Europeans admired and that make the flower so iconic today.
+The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—was named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, when the plant was still a rare curiosity in Europe. Although it may be hard for us to imagine that the sunflower was once regarded as a foreign luxury good, Linnaeus’s exuberant description of the plant, in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_, offers some insights. He writes, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?” His observations about the splendor of the mature Helianthus inflorescence demonstrate some traits that eighteenth-century Europeans admired and that make the flower so iconic today.
 
 <param ve-entity eid="Q2269599" title="Curtis's Botanical Magazine" aliases="Curtis’s Botanical Magazine">
 <param ve-image iiif fit="contain" url="https://ia800605.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002719653&itemPath=%2F12%2Fitems%2Fmobot31753002719653&server=ia800605.us.archive.org&page=n159_w377" title="_Heliconia psittacorum_, _Curtis's Botanical Magazine_, 1800, Missouri Botanical Garden, Peter H. Raven Library">
@@ -94,5 +94,5 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjY1Nzc1MF19
+eyJoaXN0b3J5IjpbLTE0MDQ4Mzc1ODVdfQ==
 -->
