@@ -13,7 +13,6 @@ Sunflowers hold a special status in the natural world. Highly valued for their e
 
 
 European, American, and Native American portrayals of the sunflower can provide valuable information about the histories of the plant and about the use of visual means to communicate knowledges, myths, and meanings relating to it. Artists, working from the European colonial period to the present day, often produced likenesses of the sunflower that fulfilled scientific, aesthetic, ceremonial, commercial, and other functions. Although such artists developed conventions for representing the plant that were tailored to realizing those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) helped to perpetuate several myths about the sunflower that are still widely held today, while sometimes also propagating or illuminating stereotypes about societal markers of difference.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 ### _Helianthus_—The Iconic Flower and Its Iconography
 
@@ -93,5 +92,5 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5OTA4NzI5XX0=
+eyJoaXN0b3J5IjpbOTU5MjA3OTY0XX0=
 -->
