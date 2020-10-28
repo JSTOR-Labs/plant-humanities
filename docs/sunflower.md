@@ -1,30 +1,25 @@
 <param ve-config
-       title="Heliconia: Plant-Pollinator Interactions Reveal Evolution at Work"
-       author="John Kress, PhD and Yota Batsaki, PhD"
+       title="Sunflower: Shining a Light on Knowledges, Myths, and Meanings"
+       author="Kristan M. Hanson, PhD"
        source-image="https://ia800500.us.archive.org/BookReader/BookReaderImages.php?id=monographTrochi2Goul&itemPath=%2F12%2Fitems%2FmonographTrochi2Goul&server=ia800500.us.archive.org&page=n285_w1713"
-       banner="https://jstor-labs.github.io/plant-humanities/images/banners/heliconia.jpg"
+       banner="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/428.0550928891736,553.1346957733396,2234.3561819346573,1347.914537854157/!1102,665/0/default.jpg"
        layout="vtl">
 
-### From Mount Helicon to the Amazon
+### A Giant among Us
 
-<param ve-image fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/4/@@images/image" title="Margaret Mee, _Heliconia_, 1964, gouache, Dumbarton Oaks">
-<param ve-entity eid="Q624242" aliases="Heliconias" title="Heliconia genus"> 
-Heliconias rank among the great botanical beauties of the natural world. Visually alluring with <span data-click-image-zoomto="568,209,1290,1100">sculptural bracts</span> and stunning colors, they have been widely distributed in ornamental gardens and the horticulture trade over the past two centuries. Yet until recently these iconic tropical plants were poorly known to scientists. As large herbs with <span data-click-image-zoomto="1429,2117,1290,1100">banana-like leaves</span> and fleshy, bulky inflorescences they are hard to collect in the field. For the same reason their character is difficult to capture on the herbarium sheet, where the sensuous bracts are reduced to a shriveled shadow of their showy presence in forest clearings. However, in recent decades, both field observations and controlled experiments by botanists and ecologists have produced a wealth of new information about heliconias. These fascinating discoveries illuminate the sophistication of plant-animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.
+<param ve-image fit="contain" url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
+<param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
+Sunflowers hold a special status in the natural world. Highly valued for their edible seeds and seed oil, they are one of the few crop plants to have originated in North America. They are also popular ornamentals, renowned for their yellow flower heads with round disks and, in some cases, imposing height. Indeed, in cultivation Helianthus annuus (common sunflower) can grow up to sixteen feet tall, towering over us and other organisms. Yet, despite the relatively widespread cultivation of the sunflower and its iconic qualities, myths about the genus persist and these ideas have often shaped or been shaped by visual representations of the plant.
 
 
-The genus _Heliconia_ was named after mount Helicon—in Greek mythology, the home of Apollo and the Muses—by none other than Carl Linnaeus, the father of modern taxonomy. The name, evocative of art and beauty, was intended to emphasize the close taxonomic relationship of _Heliconia_ to the genus _[Musa](https://plant-humanities.app/Banana)_, or the bananas.
-![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/eight_families_order_Zingiberales_sm.jpg){: .right}
-Taxonomists recognize approximately 185 species of _Heliconia_ world-wide, but there are undoubtedly one or two dozen more species to discover and describe in the tropical forests of the two distinct regions across the globe where they grow as native plants.
-<param ve-entity eid="Q1043" title="Carl Linnaeus">
-<param ve-image region="449,688,492,425" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/4/@@image/image" title="Margaret Mee, _Heliconia_, 1964, gouache, Dumbarton Oaks">
+European, American, and Native American portrayals of the sunflower can provide valuable information about the histories of the plant and about the use of visual means to communicate knowledges, myths, and meanings relating to it. Artists, working from the European colonial period to the present day, often produced likenesses of the sunflower that fulfilled scientific, aesthetic, ceremonial, commercial, and other functions. Although such artists developed conventions for representing the plant that were tailored to realizing those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in iconography helped to perpetuate several myths about the sunflower that are still widely held today, while sometimes also propagating or illuminating stereotypes about societal markers of difference.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
-### A Short History of Horticultural Excitement for Heliconia
+### _Helianthus_—The Iconic Flower and Its Iconography
 
 <param ve-image iiif fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/19/@@images/image" title="Margaret Mee, _Heliconia psittacorum_, 1964, gouache, Dumbarton Oaks">
 <param ve-entity eid="Q2667306" title="Heliconia psittacorum" aliases="H. psittacorum">
-<param ve-entity eid="Q2727878" title="Heliconia bihai" aliases="H. bihai">
-<param ve-entity eid="Q15250028" title="Heliconia metallica" aliases="H. metallica">
-Heliconias became an object of desire for gardeners as soon as they left their natural habitats. Several species, including _H. psittacorum_, _H. bihai_, and _H. metallica,_ have been cultivated as ornamentals since the 1700s. They were carried around the world by horticulturalists and today they are found in many botanical gardens from Europe to Asia to the Pacific.
+The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—was named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, when the plant was still a rare curiosity in Europe. Although it may be hard for us to imagine that the sunflower was once regarded as a foreign luxury good, Linnaeus’s exuberant description of the plant, in Critica botanica, offers some insights. He writes, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?” His observations about the splendor of the mature Helianthus inflorescence demonstrate some traits that eighteenth-century Europeans admired and that make the flower so iconic today.
 
 <param ve-entity eid="Q2269599" title="Curtis's Botanical Magazine" aliases="Curtis’s Botanical Magazine">
 <param ve-image iiif fit="contain" url="https://ia800605.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002719653&itemPath=%2F12%2Fitems%2Fmobot31753002719653&server=ia800605.us.archive.org&page=n159_w377" title="_Heliconia psittacorum_, _Curtis's Botanical Magazine_, 1800, Missouri Botanical Garden, Peter H. Raven Library">
