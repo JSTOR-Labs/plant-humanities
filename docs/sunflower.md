@@ -23,7 +23,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 
 <param ve-entity eid="Q65027" title="Basilius Besler">
 <param ve-image iiif fit="contain" url="https://ia800605.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002719653&itemPath=%2F12%2Fitems%2Fmobot31753002719653&server=ia800605.us.archive.org&page=n159_w377" title="_Heliconia psittacorum_, _Curtis's Botanical Magazine_, 1800, Missouri Botanical Garden, Peter H. Raven Library">
-Although Linnaeus gave _Helianthus_ and _H. annuus_ the botanical names by which they are officially known, it is arguable that the draftsperson, engraver, and colorist who produced the print, at right, helped to establish some enduring visual conventions for representing the sunflower in botanical circles and beyond. The engraved portrait of H. annuus, commissioned by Basilius Besler for the codex Hortus Eystettensis, provides a striking and memorable vision of the plant at roughly life size. The image’s impact derives in part from a cruciform composition that imbues the mature flower head with a sense of power, a strong vertical line that bisects the stem and the disk to make its centermost circle a focal point, and a well-balanced arrangement of leaves with expressive shapes that move the eye around the blossom and anchor it in space. Through this emphasis on the sunflower’s aesthetic characteristics, as opposed to its medicinal properties, as in herbals, the picture provided an iconographic model for depicting ornamentals that would inspire artists for generations to come.
+Although Linnaeus gave _Helianthus_ and _H. annuus_ the botanical names by which they are officially known, it is arguable that the draftsperson, engraver, and colorist who produced the print, at right, helped to establish some enduring visual conventions for representing the sunflower in botanical circles and beyond. The engraved portrait of H. annuus, commissioned by Basilius Besler for the codex [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908), provides a striking and memorable vision of the plant at roughly life size. The image’s impact derives in part from a cruciform composition that imbues the mature flower head with a sense of power, a strong vertical line that bisects the stem and the disk to make its centermost circle a focal point, and a well-balanced arrangement of leaves with expressive shapes that move the eye around the blossom and anchor it in space. Through this emphasis on the sunflower’s aesthetic characteristics, as opposed to its medicinal properties, as in herbals, the picture provided an iconographic model for depicting ornamentals that would inspire artists for generations to come.
 
 ### Range and Cultivation
 
@@ -93,5 +93,5 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE2NzE1MzNdfQ==
+eyJoaXN0b3J5IjpbLTQyNDAzNDY5NF19
 -->
