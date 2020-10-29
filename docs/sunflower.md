@@ -105,16 +105,19 @@ Heliotropism in plants was observed by the ancient Greeks and this phenomenon is
 Aesthetic Movement (Britain); Gender; whiteness Walter Satterlee _[The Decorative Sisters](https://hdl.handle.net/2027/loc.ark:/13960/t84j1d31x)_
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=488090&t=w" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
 
+param ve-entity eid="Q30875" title="Oscar Wilde">
 Popularized motif in decoration of designed objects for everyday use. These objects often used in the home, a feminine domain, become associated with gender. Sunflower is forced on Oscar Wilde.
 [Thomas Nast, _Wilde on Us. Something To 'Live Up' To in America_, 1882, The Metropolitan Museum of Art, New York, Gift of Thomas Nast Jr., Mabel Nast Crawford and Cyril Nast, 1933]
+<param ve-image fit="contain" url="https://images.nypl.org/index.php?id=488090&t=w" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
 
-<param ve-entity eid="Q30875" title="Oscar Wilde">
 Racial caricatures of Oscar Wilde in US disparage him by depicting black persons with emblems associated with him.
 [James A. Palmer, _An Aesthetic Darkey_ from the _Aiken and Vicinity_ series, 1882, The Metropolitan Museum of Art, New York, Purchase, Nancy Dunn Revocable Trust Gift, 2017]
 [Unidentified Edgefield District potter, _Face Harvest Jug_, 19th century, The Metropolitan Museum of Art, New York, Purchase, Nancy Dunn Revocable Trust Gift, 2017]
+<param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DP-15482-003.jpg" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
 
 Whiteness and gender
 [_Sunflower: Haughtiness_, from the series _Floral Beauties and Language of Flowers_ (N75) for Duke brand cigarettes, 1892, The Metropolitan Museum of Art, New York, The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick]
+<param ve-image fit="contain" url="https://images.nypl.org/index.php?id=488090&t=w" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
 
 ### Social Movements and Symbols of Hope
 
@@ -128,7 +131,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjAxMTMxNCwtMTk1NjM0NTM3MSwxMz
+eyJoaXN0b3J5IjpbMTg1Mjc1MzcxNiwtMTk1NjM0NTM3MSwxMz
 A1MDc3OTc1LC0xNDg0MjUzMjcwLC0xOTQzMTAxOTk2LDEzNTIz
 MTk4MjAsLTE5OTU0MjY4MjVdfQ==
 -->
