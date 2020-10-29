@@ -76,9 +76,9 @@ Henderson’s design for _Anatomy of the Sunflower_ also articulates Linnaeus’
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-entity eid="Q181916" title="herbarium">
-We may also be surprised to discover the diversity within the genus _Helianthus_. Indeed, there are more than fifty accepted species grouped under Helianthus and, contrary to what is often portrayed in images and texts, their palette is not limited to yellow. Their color can range from gold to orange to red and even an unexpected shade of pink. 
+We may also be surprised to discover the diversity within the genus _Helianthus_. Indeed, there are more than fifty accepted species grouped under Helianthus and, contrary to what is often portrayed in images and texts, their palette is not limited to yellow.
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
-Species also vary in terms of size and the number and shape of their leaves and flower heads, as demonstrated by these herbarium sheets with dried _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke). The specimens also dispel the notion that sunflowers only have one large blossom per stock.
+ Their color can range from gold to orange to red and even an unexpected shade of pink. Species also vary in terms of size and the number and shape of their leaves and flower heads, as demonstrated by these herbarium sheets with dried _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke). The specimens also dispel the notion that sunflowers only have one large blossom per stock.
 <param ve-plant-specimen eid="Q171497" max="1">
 <param ve-plant-specimen eid="Q12212017" max="1">
 <param ve-plant-specimen eid="Q146190" max="1">
@@ -130,8 +130,8 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTc5ODM2Niw1NTA0MDEyMDAsMTgzNj
-k5MzkzLC0xMzg4NjIwMDgxLC04ODU0MDEyMjcsLTE5NTYzNDUz
-NzEsMTMwNTA3Nzk3NSwtMTQ4NDI1MzI3MCwtMTk0MzEwMTk5Ni
-wxMzUyMzE5ODIwLC0xOTk1NDI2ODI1XX0=
+eyJoaXN0b3J5IjpbLTE5Njk2Njc2NzgsNTUwNDAxMjAwLDE4Mz
+Y5OTM5MywtMTM4ODYyMDA4MSwtODg1NDAxMjI3LC0xOTU2MzQ1
+MzcxLDEzMDUwNzc5NzUsLTE0ODQyNTMyNzAsLTE5NDMxMDE5OT
+YsMTM1MjMxOTgyMCwtMTk5NTQyNjgyNV19
 -->
