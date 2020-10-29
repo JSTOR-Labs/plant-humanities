@@ -77,7 +77,7 @@ Henderson’s design for _Anatomy of the Sunflower_ also articulates Linnaeus’
 <param ve-entity eid="Q146190" title="Jerusalem artichoke">
 <param ve-entity eid="Q181916" title="herbarium">
 We may also be surprised to discover the diversity within the genus _Helianthus_. Indeed, there are more than fifty accepted species grouped under Helianthus and, contrary to what is often portrayed in images and texts, their palette is not limited to yellow. Their color can range from gold to orange to red and even an unexpected shade of pink. 
-![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/eight_families_order_Zingiberales_sm.jpg){: .right}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
 Species also vary in terms of size and the number and shape of their leaves and flower heads, as demonstrated by these herbarium sheets with dried _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke). The specimens also dispel the notion that sunflowers only have one large blossom per stock.
 <param ve-plant-specimen eid="Q171497" max="1">
 <param ve-plant-specimen eid="Q12212017" max="1">
@@ -121,7 +121,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjIxNjUxNTQsMTMwNTA3Nzk3NSwtMT
-Q4NDI1MzI3MCwtMTk0MzEwMTk5NiwxMzUyMzE5ODIwLC0xOTk1
-NDI2ODI1XX0=
+eyJoaXN0b3J5IjpbLTc3ODE4MDc0OSwxMzA1MDc3OTc1LC0xND
+g0MjUzMjcwLC0xOTQzMTAxOTk2LDEzNTIzMTk4MjAsLTE5OTU0
+MjY4MjVdfQ==
 -->
