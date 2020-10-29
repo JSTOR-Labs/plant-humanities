@@ -6,18 +6,15 @@
        layout="vtl">
 
 ### A Giant among Us
-
 <param ve-image fit="contain" url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
 Sunflowers hold a special status in the natural world. Highly valued for their edible seeds and seed oil, they are one of the few crop plants to have originated in North America. They are also popular ornamentals, renowned for their yellow flower heads with round disks and, in some cases, imposing height. Indeed, in cultivation Helianthus annuus (common sunflower) can grow up to sixteen feet tall, towering over us and other organisms. Yet, despite the relatively widespread cultivation of the sunflower and its iconic qualities, myths about the genus persist and these ideas have often shaped or been shaped by visual representations of the plant.
-
 
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 European, American, and Native American portrayals of the sunflower can provide valuable information about the histories of the plant and about the use of visual means to communicate knowledges, myths, and meanings relating to it. Artists, working from the European colonial period to the present day, often produced likenesses of the sunflower that fulfilled scientific, aesthetic, ceremonial, commercial, and other functions. Although such artists developed conventions for representing the plant that were tailored to realizing those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) helped to perpetuate several myths about the sunflower that are still widely held today, while sometimes also propagating or illuminating stereotypes about societal markers of difference.
 
 
 ### Helianthus—The Iconic Flower and Its Iconography
-
 <param ve-entity eid="Q10432667306" title="Carl Linnaeus">
 The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—was named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, when the plant was still a rare curiosity in Europe. Although it may be hard for us to imagine that the sunflower was once regarded as a foreign luxury good, Linnaeus’s exuberant description of the plant, in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_, offers some insights. He writes, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?” His observations about the splendor of the mature Helianthus inflorescence demonstrate some traits that eighteenth-century Europeans admired and that make the flower so iconic today.
 <param ve-image primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, title page, _Critica botanica_, 1737, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
@@ -130,9 +127,9 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NjQ2MzA0LC0xOTY5NjY3Njc4LDU1MD
-QwMTIwMCwxODM2OTkzOTMsLTEzODg2MjAwODEsLTg4NTQwMTIy
-NywtMTk1NjM0NTM3MSwxMzA1MDc3OTc1LC0xNDg0MjUzMjcwLC
-0xOTQzMTAxOTk2LDEzNTIzMTk4MjAsLTE5OTU0MjY4MjVdfQ==
-
+eyJoaXN0b3J5IjpbMTk4NDQyNDU5MCw4ODQ2NDYzMDQsLTE5Nj
+k2Njc2NzgsNTUwNDAxMjAwLDE4MzY5OTM5MywtMTM4ODYyMDA4
+MSwtODg1NDAxMjI3LC0xOTU2MzQ1MzcxLDEzMDUwNzc5NzUsLT
+E0ODQyNTMyNzAsLTE5NDMxMDE5OTYsMTM1MjMxOTgyMCwtMTk5
+NTQyNjgyNV19
 -->
