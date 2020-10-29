@@ -106,12 +106,11 @@ Aesthetic Movement (Britain); Gender; whiteness Walter Satterlee _[The Decorativ
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=488090&t=w" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
 
 Popularized motif in decoration of designed objects for everyday use. These objects often used in the home, a feminine domain, become associated with gender. Sunflower is forced on Oscar Wilde.
-
-[Figure 15: Oscar Wilde; his attribution of the flower]
+[Thomas Nast, _Wilde on Us. Something To 'Live Up' To in America_, 1882, The Metropolitan Museum of Art, New York, Gift of Thomas Nast Jr., Mabel Nast Crawford and Cyril Nast, 1933]
 
 Racial caricatures of Oscar Wilde in US disparage him by depicting black persons with emblems associated with him.
-
-[Figure 16: Stereoscopic image MET; blackness; queerness; “folk art” or “outsider art”]
+[James A. Palmer, _An Aesthetic Darkey_ from the _Aiken and Vicinity_ series, 1882, The Metropolitan Museum of Art, New York, Purchase, Nancy Dunn Revocable Trust Gift, 2017]
+[Unidentified Edgefield District potter, _Face Harvest Jug_, 19th century, The Metropolitan Museum of Art, New York, Purchase, Nancy Dunn Revocable Trust Gift, 2017]
 
 ### Social Movements and Symbols of Hope
 
@@ -125,7 +124,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3ODkxNDAsLTE5NTYzNDUzNzEsMTMwNT
-A3Nzk3NSwtMTQ4NDI1MzI3MCwtMTk0MzEwMTk5NiwxMzUyMzE5
-ODIwLC0xOTk1NDI2ODI1XX0=
+eyJoaXN0b3J5IjpbLTE2MTg3OTA3NTcsLTE5NTYzNDUzNzEsMT
+MwNTA3Nzk3NSwtMTQ4NDI1MzI3MCwtMTk0MzEwMTk5NiwxMzUy
+MzE5ODIwLC0xOTk1NDI2ODI1XX0=
 -->
