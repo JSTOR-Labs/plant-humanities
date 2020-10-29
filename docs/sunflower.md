@@ -54,7 +54,7 @@ Native American use of plant as dye for basketry and pollen in sandpainting cere
 
 ### Out of One, Many
 
-<param ve-entity eid="Q14847254" aliases="Helianthus annuus" title="sunflower"> 
+<param ve-entity eid="Q14847254" title="Compositae"> 
 Our familiarity with the sunflower, both real and represented, may lead us to overlook the fact that its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets. This diagram of a mature flower head shows that its disk consists of florets and that what we generally call “petals” are actually ray florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own seed after pollination. Although these traits may come as a surprise to us, botanical illustrators developed an iconography to communicate information about them in the late eighteenth and early nineteenth centuries.
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
@@ -109,7 +109,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQ0MDE0OTEsMTMwNTA3Nzk3NSwtMT
+eyJoaXN0b3J5IjpbLTE0NjgyNzYzODAsMTMwNTA3Nzk3NSwtMT
 Q4NDI1MzI3MCwtMTk0MzEwMTk5NiwxMzUyMzE5ODIwLC0xOTk1
 NDI2ODI1XX0=
 -->
