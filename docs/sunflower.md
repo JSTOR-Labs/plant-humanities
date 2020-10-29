@@ -22,7 +22,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, title page, _Critica botanica_, 1737, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
 <param ve-entity eid="Q65027" title="Basilius Besler">
-<param ve-entity eid="Q10432667306" title="Carl Linnaeus">
+<param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Bishop of Eichstätt">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 Although Linnaeus gave _Helianthus_ and _H. annuus_ the botanical names by which they are officially known, it is arguable that the draftsperson, engraver, and colorist who produced the print, at right, helped to establish some enduring visual conventions for representing the sunflower in botanical circles and beyond. The engraved portrait of H. annuus, commissioned by Basilius Besler for the codex [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908), provides a striking and memorable vision of the plant at roughly life size. The image’s impact derives in part from a cruciform composition that imbues the mature flower head with a sense of power, a strong vertical line that bisects the stem and the disk to make its centermost circle a focal point, and a well-balanced arrangement of leaves with expressive shapes that move the eye around the blossom and anchor it in space. Through this emphasis on the sunflower’s aesthetic characteristics, as opposed to its medicinal properties, as in herbals, the picture provided an iconographic model for depicting ornamentals that would inspire artists for generations to come.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
@@ -129,9 +129,10 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjEwMTM1MzQsLTIwNTkyMzgxOTcsLT
-IyMTk2MzczMCw4ODQ2NDYzMDQsLTE5Njk2Njc2NzgsNTUwNDAx
-MjAwLDE4MzY5OTM5MywtMTM4ODYyMDA4MSwtODg1NDAxMjI3LC
-0xOTU2MzQ1MzcxLDEzMDUwNzc5NzUsLTE0ODQyNTMyNzAsLTE5
-NDMxMDE5OTYsMTM1MjMxOTgyMCwtMTk5NTQyNjgyNV19
+eyJoaXN0b3J5IjpbMTAyODU5NDQzMywtMTU2MTAxMzUzNCwtMj
+A1OTIzODE5NywtMjIxOTYzNzMwLDg4NDY0NjMwNCwtMTk2OTY2
+NzY3OCw1NTA0MDEyMDAsMTgzNjk5MzkzLC0xMzg4NjIwMDgxLC
+04ODU0MDEyMjcsLTE5NTYzNDUzNzEsMTMwNTA3Nzk3NSwtMTQ4
+NDI1MzI3MCwtMTk0MzEwMTk5NiwxMzUyMzE5ODIwLC0xOTk1ND
+I2ODI1XX0=
 -->
