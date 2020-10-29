@@ -112,6 +112,9 @@ Racial caricatures of Oscar Wilde in US disparage him by depicting black persons
 [James A. Palmer, _An Aesthetic Darkey_ from the _Aiken and Vicinity_ series, 1882, The Metropolitan Museum of Art, New York, Purchase, Nancy Dunn Revocable Trust Gift, 2017]
 [Unidentified Edgefield District potter, _Face Harvest Jug_, 19th century, The Metropolitan Museum of Art, New York, Purchase, Nancy Dunn Revocable Trust Gift, 2017]
 
+Whiteness and gender
+[Sunflower: Haughtiness, from the series Floral Beauties and Language of Flowers (N75) for Duke brand cigarettes, 1892, The Metropolitan Museum of Art, New York, The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick]
+
 ### Social Movements and Symbols of Hope
 
 ADD TEXT
@@ -124,7 +127,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTg3OTA3NTcsLTE5NTYzNDUzNzEsMT
-MwNTA3Nzk3NSwtMTQ4NDI1MzI3MCwtMTk0MzEwMTk5NiwxMzUy
-MzE5ODIwLC0xOTk1NDI2ODI1XX0=
+eyJoaXN0b3J5IjpbNzQ2MzA0NzA0LC0xOTU2MzQ1MzcxLDEzMD
+UwNzc5NzUsLTE0ODQyNTMyNzAsLTE5NDMxMDE5OTYsMTM1MjMx
+OTgyMCwtMTk5NTQyNjgyNV19
 -->
