@@ -61,7 +61,9 @@ This hand-colored print _Anatomy of the Sunflower_, based on a design by the art
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
 Henderson’s design for _Anatomy of the Sunflower_ also articulates Linnaeus’s contributions to botany as they relate to _Helianthus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the lower right corner of Anatomy of the Sunflower, where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book New illustration of the sexual system of Carolus von Linnaeus. Thornton’s “new” book was distinct from an earlier publication on Linnaeus by John Miller, whose print _Helianthus annuus_ served as the inspiration for or shared the same model as Henderson’s.
-<param ve-entity eid="Q5928444" title="Robert John Thornton"> 
+<param ve-entity eid="Q5928444" title="Robert John Thornton">
+<param ve-entity eid="Q103129" title="stamen" aliases="stamen(s)"> 
+<param ve-entity eid="Q62779" title="pistil" aliases="pistil(s)">  
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
 ### Sun-Shaped though Not Necessarily Golden
@@ -106,6 +108,6 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3MTc2NDc0LC0xNDg0MjUzMjcwLC0xOT
-QzMTAxOTk2LDEzNTIzMTk4MjAsLTE5OTU0MjY4MjVdfQ==
+eyJoaXN0b3J5IjpbMTMwNTA3Nzk3NSwtMTQ4NDI1MzI3MCwtMT
+k0MzEwMTk5NiwxMzUyMzE5ODIwLC0xOTk1NDI2ODI1XX0=
 -->
