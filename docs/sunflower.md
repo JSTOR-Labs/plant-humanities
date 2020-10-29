@@ -58,7 +58,7 @@ Native American use of plant as dye for basketry and pollen in sandpainting cere
 <param ve-entity eid="Q14847254" title="Compositae"> 
 <param ve-entity eid="Q30765614" title="floret"> 
 Our familiarity with the sunflower, both real and represented, may lead us to overlook the fact that its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets. This diagram of a mature flower head shows that its disk consists of florets and that what we generally call “petals” are actually ray florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own seed after pollination. Although these traits may come as a surprise to us, botanical illustrators developed an iconography to communicate information about them in the late eighteenth and early nineteenth centuries.
-<param ve-image fit="contain" primary url="tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
+<param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Helianthus whirl, attributed to L. Shyamal © Creative Commons Attribution-Share Alike 2.5">
 
 
@@ -130,7 +130,8 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODg2MjAwODEsLTg4NTQwMTIyNywtMT
-k1NjM0NTM3MSwxMzA1MDc3OTc1LC0xNDg0MjUzMjcwLC0xOTQz
-MTAxOTk2LDEzNTIzMTk4MjAsLTE5OTU0MjY4MjVdfQ==
+eyJoaXN0b3J5IjpbMTgzNjk5MzkzLC0xMzg4NjIwMDgxLC04OD
+U0MDEyMjcsLTE5NTYzNDUzNzEsMTMwNTA3Nzk3NSwtMTQ4NDI1
+MzI3MCwtMTk0MzEwMTk5NiwxMzUyMzE5ODIwLC0xOTk1NDI2OD
+I1XX0=
 -->
