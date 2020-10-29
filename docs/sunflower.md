@@ -93,7 +93,7 @@ Still life paintings provide another rich source of evidence regarding plant div
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
 Having dispelled several cultural myths about the sunflower, we now turn to another. It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena, publishing their exciting findings in 2016.Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Widespread coverage of those findings by the media no doubt generated new excitement about the plant in recent years.
-<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
+<param ve-video title="Heliconia bihai 'Arawak' - (Lobster Claw), Herbarium Werdler" vid="pYiYzb1K450">
 
 Heliotropism in plants was observed by the ancient Greeks and this phenomenon is a central conceit in the myth of Clytie and Helios. Explain the myth. The associations of the sunflower in this narrative with notions of WHAT proved influential in Western European art and culture. Introduce idea of constancy and then connect to heliotropism. Interpret print. Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="Clytie">
@@ -127,7 +127,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2MzA0NzA0LC0xOTU2MzQ1MzcxLDEzMD
-UwNzc5NzUsLTE0ODQyNTMyNzAsLTE5NDMxMDE5OTYsMTM1MjMx
-OTgyMCwtMTk5NTQyNjgyNV19
+eyJoaXN0b3J5IjpbMTk5Mzc3NDA2MywtMTk1NjM0NTM3MSwxMz
+A1MDc3OTc1LC0xNDg0MjUzMjcwLC0xOTQzMTAxOTk2LDEzNTIz
+MTk4MjAsLTE5OTU0MjY4MjVdfQ==
 -->
