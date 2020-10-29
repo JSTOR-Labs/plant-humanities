@@ -56,7 +56,7 @@ Native American use of plant as dye for basketry and pollen in sandpainting cere
 
 <param ve-entity eid="Q14847254" title="Compositae"> 
 Our familiarity with the sunflower, both real and represented, may lead us to overlook the fact that its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets. This diagram of a mature flower head shows that its disk consists of florets and that what we generally call “petals” are actually ray florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own seed after pollination. Although these traits may come as a surprise to us, botanical illustrators developed an iconography to communicate information about them in the late eighteenth and early nineteenth centuries.
-<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
+<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
 
 This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies a sophisticated understanding of the plant. Henderson shows a partial view of two mature plants—one facing back, and the other nearly front—to communicate valuable information about their dorsal and ventral anatomical structures, while taking some aesthetic liberties to imbue the flower heads with a sense of movement and vitality. At the center of the left flower, a series of green scallop- and flame-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to the opposite flower. Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. A close look at the disk reveals a circular band composed of stylized representations of yellow, five-petaled florets. These details remind us that the study of art and flora are endeavors rooted in the practices of direct observation and visual analysis.
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
@@ -109,7 +109,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjgyNzYzODAsMTMwNTA3Nzk3NSwtMT
+eyJoaXN0b3J5IjpbLTEyNTM5NDE5ODYsMTMwNTA3Nzk3NSwtMT
 Q4NDI1MzI3MCwtMTk0MzEwMTk5NiwxMzUyMzE5ODIwLC0xOTk1
 NDI2ODI1XX0=
 -->
