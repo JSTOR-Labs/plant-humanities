@@ -25,7 +25,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Bishop of Eichstätt">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-Although Linnaeus gave _Helianthus_ and _H. annuus_ the botanical names by which they are officially known, it is arguable that Basilius Besler and and the engraver and colorist who collaborated with him to produce the print, at right, helped to establish some visual conventions for representing the sunflower in botanical circles and beyond. The hand-tinted portrait of of _H. annuus_, commissioned by the Bishop of Eichstätt for the codex [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908), provides a striking and memorable vision of the plant at roughly life size. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stock with a sense of power. Besler, or possibly another uncredited artist, uses a symmetrical design to make the disk’s spiral a focal point around which ray florets and heart-shaped leaves move the eye. Through this emphasis on the sunflower’s aesthetic characteristics, as opposed to its medicinal properties, as in herbals, this picture provided an iconographic model for depicting the plant and other ornamental flowers that would inspire future generations of artists.
+Although Linnaeus gave _Helianthus_ and _H. annuus_ the botanical names by which they are officially known, it is arguable that Basilius Besler and and the engraver and colorist who collaborated with him to produce the print, at right, helped to establish some visual conventions for representing the sunflower in botanical circles and beyond. The hand-tinted portrait of of _H. annuus_, commissioned by the Bishop of Eichstätt for the codex [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908), provides a striking and memorable vision of the plant at roughly life size. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stock with a sense of power. Besler, or possibly another uncredited artist, also uses a symmetrical design to make flower’s disk spiral a focal point around which ray florets and heart-shaped leaves create rhythm and movement. Through this emphasis on the sunflower’s aesthetic characteristics, as opposed to its medicinal properties, as in herbals, this picture provided an iconographic model for depicting the plant and other ornamental flowers that would inspire future generations of artists.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
@@ -130,11 +130,11 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4MzAzNjAsMTAzMjYyMjExOSwtMTAzMD
-E1NjI4NiwtMTYzOTgzNjc5NCwtMTQ0ODM3OTQ3MSwxMTk0OTM4
-Nzc5LDE2NzY0Mzk0OTgsMTUzMDU2NDg1Miw5NzE0MDc0NzcsLT
-E1NjEwMTM1MzQsLTIwNTkyMzgxOTcsLTIyMTk2MzczMCw4ODQ2
-NDYzMDQsLTE5Njk2Njc2NzgsNTUwNDAxMjAwLDE4MzY5OTM5My
-wtMTM4ODYyMDA4MSwtODg1NDAxMjI3LC0xOTU2MzQ1MzcxLDEz
-MDUwNzc5NzVdfQ==
+eyJoaXN0b3J5IjpbLTkxNDExODE1MCwyNDgzMDM2MCwxMDMyNj
+IyMTE5LC0xMDMwMTU2Mjg2LC0xNjM5ODM2Nzk0LC0xNDQ4Mzc5
+NDcxLDExOTQ5Mzg3NzksMTY3NjQzOTQ5OCwxNTMwNTY0ODUyLD
+k3MTQwNzQ3NywtMTU2MTAxMzUzNCwtMjA1OTIzODE5NywtMjIx
+OTYzNzMwLDg4NDY0NjMwNCwtMTk2OTY2NzY3OCw1NTA0MDEyMD
+AsMTgzNjk5MzkzLC0xMzg4NjIwMDgxLC04ODU0MDEyMjcsLTE5
+NTYzNDUzNzFdfQ==
 -->
