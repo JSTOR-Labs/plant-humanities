@@ -89,7 +89,9 @@ Still life paintings provide another rich source of evidence regarding plant div
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflowers%20Monet%20van%20Gogh%20CC.jpg" title="Claude Monet _Jerusalem artichoke_ 1880 (left), Vincent van Gogh, _Sunflower_, 1888, National Gallery London">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflowers%20compared%20to%20van%20Gogh%20painting.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
-### Sun-Shaped though Not Necessarily Golden
+### <![endif]-->
+
+“I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
 Having dispelled several cultural myths about the sunflower, we now turn to another. It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena, publishing their exciting findings in 2016.Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Widespread coverage of those findings by the media no doubt generated new excitement about the plant in recent years.
@@ -129,8 +131,8 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwMDAzMTY0LDU1MDQwMTIwMCwxODM2OT
-kzOTMsLTEzODg2MjAwODEsLTg4NTQwMTIyNywtMTk1NjM0NTM3
-MSwxMzA1MDc3OTc1LC0xNDg0MjUzMjcwLC0xOTQzMTAxOTk2LD
-EzNTIzMTk4MjAsLTE5OTU0MjY4MjVdfQ==
+eyJoaXN0b3J5IjpbLTk4MzAyNTMxNyw1NTA0MDEyMDAsMTgzNj
+k5MzkzLC0xMzg4NjIwMDgxLC04ODU0MDEyMjcsLTE5NTYzNDUz
+NzEsMTMwNTA3Nzk3NSwtMTQ4NDI1MzI3MCwtMTk0MzEwMTk5Ni
+wxMzUyMzE5ODIwLC0xOTk1NDI2ODI1XX0=
 -->
