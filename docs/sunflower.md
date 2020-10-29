@@ -24,7 +24,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q65027" title="Basilius Besler">
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Bishop of Eichstätt">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-Although Linnaeus gave _Helianthus_ and _H. annuus_ the botanical names by which they are officially known, it is arguable that Basilius Besler and those who collaborated with him to produce the print, at right, helped to establish some visual conventions for representing the sunflower in botanical circles and beyond. The engraved portrait of _H. annuus_, commissioned by the Bishop of Eichstätt for the codex [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908), provides a striking and memorable vision of the plant at roughly life size. The image’s impact derives not only from its large dimensions, but also from its cruciform composition, which imbues the mature flower head with a sense of power. That strong vertical compositional line, bisecting the stem and blossom, make the disk a focal point, around which flame-shaped florets and leaves move the eye. Through this emphasis on the sunflower’s aesthetic characteristics, as opposed to its medicinal properties, as in herbals, Besler’s picture provided an iconographic model for depicting ornamentals that would inspire future artists.
+Although Linnaeus gave _Helianthus_ and _H. annuus_ the botanical names by which they are officially known, it is arguable that Basilius Besler and those who collaborated with him to produce the print, at right, helped to establish some visual conventions for representing the sunflower in botanical circles and beyond. The engraved portrait of _H. annuus_, commissioned by the Bishop of Eichstätt for the codex [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908), provides a striking and memorable vision of the plant at roughly life size. The image’s impact derives not only from its large dimensions, but also from its cruciform composition, which imbues the full flower head with a sense of power. That strong vertical compositional line, bisecting the stem and blossom, make the disk a focal point, around which flame-shaped florets and leaves move the eye. Through this emphasis on the sunflower’s aesthetic characteristics, as opposed to its medicinal properties, as in herbals, Besler’s picture provided an iconographic model for depicting ornamentals that would inspire future artists.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
@@ -129,10 +129,10 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE0ODM3OTUsOTcxNDA3NDc3LC0xNT
-YxMDEzNTM0LC0yMDU5MjM4MTk3LC0yMjE5NjM3MzAsODg0NjQ2
-MzA0LC0xOTY5NjY3Njc4LDU1MDQwMTIwMCwxODM2OTkzOTMsLT
-EzODg2MjAwODEsLTg4NTQwMTIyNywtMTk1NjM0NTM3MSwxMzA1
-MDc3OTc1LC0xNDg0MjUzMjcwLC0xOTQzMTAxOTk2LDEzNTIzMT
-k4MjAsLTE5OTU0MjY4MjVdfQ==
+eyJoaXN0b3J5IjpbMTUzMDU2NDg1Miw5NzE0MDc0NzcsLTE1Nj
+EwMTM1MzQsLTIwNTkyMzgxOTcsLTIyMTk2MzczMCw4ODQ2NDYz
+MDQsLTE5Njk2Njc2NzgsNTUwNDAxMjAwLDE4MzY5OTM5MywtMT
+M4ODYyMDA4MSwtODg1NDAxMjI3LC0xOTU2MzQ1MzcxLDEzMDUw
+Nzc5NzUsLTE0ODQyNTMyNzAsLTE5NDMxMDE5OTYsMTM1MjMxOT
+gyMCwtMTk5NTQyNjgyNV19
 -->
