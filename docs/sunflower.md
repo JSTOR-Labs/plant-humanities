@@ -61,7 +61,6 @@ Our familiarity with the sunflower, both real and represented, may lead us to ov
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Helianthus whirl, attributed to L. Shyamal © Creative Commons Attribution-Share Alike 2.5">
 
-
 This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies a sophisticated understanding of the plant. Henderson shows a partial view of two mature plants—one facing back, and the other nearly front—to communicate valuable information about their dorsal and ventral anatomical structures, while taking some aesthetic liberties to imbue the flower heads with a sense of movement and vitality. At the center of the left flower, a series of green scallop- and flame-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to the opposite flower. Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. A close look at the disk reveals a circular band composed of stylized representations of yellow, five-petaled florets. These details remind us that the study of art and flora are endeavors rooted in the practices of direct observation and visual analysis.
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
@@ -75,7 +74,7 @@ Henderson’s design for _Anatomy of the Sunflower_ also articulates Linnaeus’
 
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
-<param ve-entity eid="Q146190" title="Jerusalem artichoke">
+<param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-entity eid="Q181916" title="herbarium">
 We may also be surprised to discover the diversity within the genus _Helianthus_. Indeed, there are more than fifty accepted species grouped under Helianthus and, contrary to what is often portrayed in images and texts, their palette is not limited to yellow. Their color can range from gold to orange to red and even an unexpected shade of pink. 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
@@ -130,8 +129,8 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwNDAxMjAwLDE4MzY5OTM5MywtMTM4OD
-YyMDA4MSwtODg1NDAxMjI3LC0xOTU2MzQ1MzcxLDEzMDUwNzc5
-NzUsLTE0ODQyNTMyNzAsLTE5NDMxMDE5OTYsMTM1MjMxOTgyMC
-wtMTk5NTQyNjgyNV19
+eyJoaXN0b3J5IjpbNDQwMDAzMTY0LDU1MDQwMTIwMCwxODM2OT
+kzOTMsLTEzODg2MjAwODEsLTg4NTQwMTIyNywtMTk1NjM0NTM3
+MSwxMzA1MDc3OTc1LC0xNDg0MjUzMjcwLC0xOTQzMTAxOTk2LD
+EzNTIzMTk4MjAsLTE5OTU0MjY4MjVdfQ==
 -->
