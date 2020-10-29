@@ -79,7 +79,7 @@ Henderson’s design for _Anatomy of the Sunflower_ also articulates Linnaeus’
 We may also be surprised to discover the diversity within the genus _Helianthus_. Indeed, there are more than fifty accepted species grouped under Helianthus and, contrary to what is often portrayed in images and texts, their palette is not limited to yellow. Their color can range from gold to orange to red and even an unexpected shade of pink. Species also vary in terms of size and the number and shape of their leaves and flower heads, as demonstrated by these herbarium sheets with dried _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke). The specimens also dispel the notion that sunflowers only have one large blossom per stock.
 <param ve-plant-specimen eid="Q171497" max="1">
 <param ve-plant-specimen eid="Q12212017" max="1">
-<param ve-plant-specimen eid="Q2727878" max="1">
+<param ve-plant-specimen eid="Q146190" max="1">
 
 Still life paintings provide another rich source of evidence regarding plant diversity, conveying information that cannot be preserved on herbarium sheets. Claude Monet’s _Jerusalem artichoke_ presents an impression of _Helianthus tuberosus_ in which he studies how the eye perceives its color and form, whereas Vincent van Gogh’s _Sunflowers_ engages with the tactile and emotive aspects of _Helianthus annuus_ by juxtaposing typical blossoms and double-flower mutants. The pictures not only show us different species, but also model for us a kind of aesthetic and phenomenological attentiveness to the plant world to which we ought to aspire.
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
@@ -118,7 +118,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTM2ODEwNSwxMzA1MDc3OTc1LC0xND
-g0MjUzMjcwLC0xOTQzMTAxOTk2LDEzNTIzMTk4MjAsLTE5OTU0
-MjY4MjVdfQ==
+eyJoaXN0b3J5IjpbNjI5MDQ4Mjg1LDEzMDUwNzc5NzUsLTE0OD
+QyNTMyNzAsLTE5NDMxMDE5OTYsMTM1MjMxOTgyMCwtMTk5NTQy
+NjgyNV19
 -->
