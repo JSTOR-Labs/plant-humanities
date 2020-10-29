@@ -102,7 +102,7 @@ Heliotropism in plants was observed by the ancient Greeks and this phenomenon is
 
 ### Floral Cyphers: Portrayals of Gender, Sexual Identity, Race, and Class
 
-Aesthetic Movement (Britain); Gender; whiteness
+Aesthetic Movement (Britain); Gender; whiteness Walter Satterlee _[The Decorative Sisters](https://hdl.handle.net/2027/loc.ark:/13960/t84j1d31x)_
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=488090&t=w" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
 
 Popularized motif in decoration of designed objects for everyday use. These objects often used in the home, a feminine domain, become associated with gender. Sunflower is forced on Oscar Wilde.
@@ -125,7 +125,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzQ1NDk5MCwtMTk1NjM0NTM3MSwxMz
-A1MDc3OTc1LC0xNDg0MjUzMjcwLC0xOTQzMTAxOTk2LDEzNTIz
-MTk4MjAsLTE5OTU0MjY4MjVdfQ==
+eyJoaXN0b3J5IjpbMzg3ODkxNDAsLTE5NTYzNDUzNzEsMTMwNT
+A3Nzk3NSwtMTQ4NDI1MzI3MCwtMTk0MzEwMTk5NiwxMzUyMzE5
+ODIwLC0xOTk1NDI2ODI1XX0=
 -->
