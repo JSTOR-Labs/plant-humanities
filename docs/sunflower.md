@@ -17,9 +17,10 @@ European, American, and Native American portrayals of the sunflower can provide 
 
 ### _Helianthus_—The Iconic Flower and Its Iconography
 
-<param ve-image iiif fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/19/@@images/image" title="Carolus Linnaeus, title page, _Critica botanica_, 1737, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
+<param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, title page, _Critica botanica_, 1737, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-entity eid="Q10432667306" title="Carl Linnaeus">
 The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—was named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, when the plant was still a rare curiosity in Europe. Although it may be hard for us to imagine that the sunflower was once regarded as a foreign luxury good, Linnaeus’s exuberant description of the plant, in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_, offers some insights. He writes, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?” His observations about the splendor of the mature Helianthus inflorescence demonstrate some traits that eighteenth-century Europeans admired and that make the flower so iconic today.
+<param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg">" title="Carolus Linnaeus, title page, _Critica botanica_, 1737, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
 <param ve-entity eid="Q65027" title="Basilius Besler">
 <param ve-image iiif fit="contain" url="https://ia800605.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002719653&itemPath=%2F12%2Fitems%2Fmobot31753002719653&server=ia800605.us.archive.org&page=n159_w377" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
@@ -100,5 +101,5 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTU0MjY4MjVdfQ==
+eyJoaXN0b3J5IjpbNDExMjM3OTQsLTE5OTU0MjY4MjVdfQ==
 -->
