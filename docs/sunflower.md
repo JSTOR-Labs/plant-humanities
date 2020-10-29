@@ -114,7 +114,7 @@ Racial caricatures of Oscar Wilde in US disparage him by depicting black persons
 [Unidentified Edgefield District potter, _Face Harvest Jug_, 19th century, The Metropolitan Museum of Art, New York, Purchase, Nancy Dunn Revocable Trust Gift, 2017]
 
 Whiteness and gender
-[Sunflower: Haughtiness, from the series Floral Beauties and Language of Flowers (N75) for Duke brand cigarettes, 1892, The Metropolitan Museum of Art, New York, The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick]
+[_Sunflower: Haughtiness_, from the series _Floral Beauties and Language of Flowers_ (N75) for Duke brand cigarettes, 1892, The Metropolitan Museum of Art, New York, The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick]
 
 ### Social Movements and Symbols of Hope
 
@@ -128,7 +128,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzc0NTU5NiwtMTk1NjM0NTM3MSwxMz
+eyJoaXN0b3J5IjpbMTE4NjAxMTMxNCwtMTk1NjM0NTM3MSwxMz
 A1MDc3OTc1LC0xNDg0MjUzMjcwLC0xOTQzMTAxOTk2LDEzNTIz
 MTk4MjAsLTE5OTU0MjY4MjVdfQ==
 -->
