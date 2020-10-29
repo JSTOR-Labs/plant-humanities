@@ -32,7 +32,9 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ the botanical names by which
 
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 The sunflowers represented in Besler’s Hortus Eystettensis and described by Linnaeus were cultivated species, descended from North American progenitors. The native range of the genus Helianthus stretches from British Columbia to southwest Mexico, though, as this map indicates, it has been introduced across the world. The plant is primarily cultivated today as an oil crop because its seeds are rich in nutrients and relatively low in fatty acids. After oil is extracted from seeds, the byproducts are repurposed for use as animal feed or, in the case of hulls, ground to produce roughage or fuel. Sunflower crops also provide seeds for confectionary food and birdfeed. Because sunflowers are able to extract harmful containments from soil and water, a process known as phytoremediation, they have been planted at the sites of the Chernobyl and Fukushima Daiichi disasters to absorb radiation. In addition to those uses, sunflowers are cultivated as ornamentals for domestic settings, and Native Americans use(d) the plant as a source of food, fuel, pigments, dye, medicine, and for ceremonial functions.
+<param ve-entity eid="Q283180" title="phytoremediation"> 
 
+<param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
 Paleoethnobotanists, who study plant remains collected at sites, have determined that Native Americans were using cultivated sunflowers in parts of North America by YEAR. Charles B. Heiser, Jr. and Bruce D. Smith, both prominent botanists, have analyzed charred seeds found at a number of different sites in order to consider when and where humans cultivated sunflowers. Heiser SENTENCE. Smith found that Heiser’s finds still stand.
 
 ### Plant Migration and Production of Knowledges
@@ -103,6 +105,6 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjgxMjgyMSwxMzUyMzE5ODIwLC0xOT
-k1NDI2ODI1XX0=
+eyJoaXN0b3J5IjpbLTE5NDMxMDE5OTYsMTM1MjMxOTgyMCwtMT
+k5NTQyNjgyNV19
 -->
