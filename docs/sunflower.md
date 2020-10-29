@@ -30,7 +30,7 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ the botanical names by which
 
 ### Range and Cultivation
 
-<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="map">
+<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_map.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 The sunflowers represented in Besler’s Hortus Eystettensis and described by Linnaeus were cultivated species, descended from North American progenitors. The native range of the genus Helianthus stretches from British Columbia to southwest Mexico, though, as this map indicates, it has been introduced across the world. The plant is primarily cultivated today as an oil crop because its seeds are rich in nutrients and relatively low in fatty acids. After oil is extracted from seeds, the byproducts are repurposed for use as animal feed or, in the case of hulls, ground to produce roughage or fuel. Sunflower crops also provide seeds for confectionary food and birdfeed. Because sunflowers are able to extract harmful containments from soil and water, a process known as phytoremediation, they have been planted at the sites of the Chernobyl and Fukushima Daiichi disasters to absorb radiation. In addition to those uses, sunflowers are cultivated as ornamentals for domestic settings, and Native Americans use(d) the plant as a source of food, fuel, pigments, dye, medicine, and for ceremonial functions.
 <param ve-entity eid="Q283180" title="phytoremediation"> 
 
@@ -108,7 +108,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjQwMjM1NSwxMzA1MDc3OTc1LC0xND
-g0MjUzMjcwLC0xOTQzMTAxOTk2LDEzNTIzMTk4MjAsLTE5OTU0
-MjY4MjVdfQ==
+eyJoaXN0b3J5IjpbLTE3NDkwODg5OTQsMTMwNTA3Nzk3NSwtMT
+Q4NDI1MzI3MCwtMTk0MzEwMTk5NiwxMzUyMzE5ODIwLC0xOTk1
+NDI2ODI1XX0=
 -->
