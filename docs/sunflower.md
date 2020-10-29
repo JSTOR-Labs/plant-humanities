@@ -117,7 +117,6 @@ Racial caricatures of Oscar Wilde in US disparage him by depicting black persons
 <param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DP-15482-007.jpg" title="Unidentified Edgefield District potter, _Face Harvest Jug_, 19th century, The Metropolitan Museum of Art, New York, Purchase, Nancy Dunn Revocable Trust Gift, 2017">
 
 Whiteness and gender
-
 <param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/dp/original/DPB882889.jpg" title="_Sunflower: Haughtiness_, from the series _Floral Beauties and Language of Flowers_ (N75) for Duke brand cigarettes, 1892, The Metropolitan Museum of Art, New York, The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick">
 
 ### Social Movements and Symbols of Hope
@@ -132,7 +131,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU3OTkwNTAsLTE5NTYzNDUzNzEsMT
-MwNTA3Nzk3NSwtMTQ4NDI1MzI3MCwtMTk0MzEwMTk5NiwxMzUy
-MzE5ODIwLC0xOTk1NDI2ODI1XX0=
+eyJoaXN0b3J5IjpbMTY3MDQ1MjAwNCwtMTk1NjM0NTM3MSwxMz
+A1MDc3OTc1LC0xNDg0MjUzMjcwLC0xOTQzMTAxOTk2LDEzNTIz
+MTk4MjAsLTE5OTU0MjY4MjVdfQ==
 -->
