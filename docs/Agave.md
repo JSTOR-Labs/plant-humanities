@@ -25,7 +25,7 @@
 <param title="Mestizo" eid="Q106713" aliases="mestizos">
 <param title="global warming" eid="Q7942">
 
-### The Big Bloom
+### The Big Bloom - Updated
 1698 was a special year for the Leiden botanical garden. After 96 long years, its exotic “Aloe Americana” (or _Agave americana_ as it is classified today) bloomed for the first time. To commemorate the marvelous event, the Hortus commissioned and illustrated print of the plant.[^ref1] A surviving poster-sized print, recently added to Dumbarton Oaks’ Rare Book Collection, reveals sixteenth and seventeenth century European botanists’ fascination with the so-called “century plant” and provides a lens to explore the history of agave – a plant that shaped human societies across three continents.
 <param ve-image title="Aloë Americana: heeft gebloeid in des universiteits Kruyd-Hof tot Leiden, 1698, Rare Book Collection, Dumbarton Oaks" url="https://jstor-labs.github.io/plant-humanities/images/Aloe_Americana_Leiden_DO.jpg">
 
