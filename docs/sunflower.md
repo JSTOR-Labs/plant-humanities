@@ -43,6 +43,8 @@ In the 2010s, building on Heiser’s work, Bruce D. Smith developed a method to 
 
 ### Plant Mobility, Knowledges, and Visual Representations
 
+<param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
+<param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
 The history of the sunflower is enmeshed with the mobility of people, plant materials, visual representations, and ideas. It was Native Americans who first brought the sunflower to parts of Central and South America prior to the colonial period. Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun. Diné (Navajo) artists incorporate sunflower motifs and sometimes pollen into sandpainting ceremonies. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets.
 <param ve-image fit="contain" primary url="https://s3.amazonaws.com/PEM_artscape/e301826_painting_image/large.jpg" title="Bruce Hathale (Diné (Navajo)), _Big Gods on Whirling Logs, Big Godway. Guardian of Two Sunflower Plants_, early 1990s, acrylic on linen, Gift from James and Margie Krebs Collection of Native American Art, Peabody Essex Museum">
 <param ve-image fit="contain" url="https://s3.amazonaws.com/PEM_artscape/e37259_basket_image-01/large.jpg" title="Diné (Navajo) artist, _Wedding basket_, before 1890, Sumac, dye, Gift of Miss Bertha Kenny, 1960, Peabody Essex Museum">
@@ -134,11 +136,11 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTUzODM3MCwxMzYwMTI2NTExLC0zMj
-k2NzI2NjYsLTE4OTczNjc3NiwxMTkwOTExMDY0LC0yMTMxNzE0
-NzU5LDI0ODMwMzYwLDEwMzI2MjIxMTksLTEwMzAxNTYyODYsLT
-E2Mzk4MzY3OTQsLTE0NDgzNzk0NzEsMTE5NDkzODc3OSwxNjc2
-NDM5NDk4LDE1MzA1NjQ4NTIsOTcxNDA3NDc3LC0xNTYxMDEzNT
-M0LC0yMDU5MjM4MTk3LC0yMjE5NjM3MzAsODg0NjQ2MzA0LC0x
-OTY5NjY3Njc4XX0=
+eyJoaXN0b3J5IjpbMTQzNDExOTE3NiwxNjIxNTM4MzcwLDEzNj
+AxMjY1MTEsLTMyOTY3MjY2NiwtMTg5NzM2Nzc2LDExOTA5MTEw
+NjQsLTIxMzE3MTQ3NTksMjQ4MzAzNjAsMTAzMjYyMjExOSwtMT
+AzMDE1NjI4NiwtMTYzOTgzNjc5NCwtMTQ0ODM3OTQ3MSwxMTk0
+OTM4Nzc5LDE2NzY0Mzk0OTgsMTUzMDU2NDg1Miw5NzE0MDc0Nz
+csLTE1NjEwMTM1MzQsLTIwNTkyMzgxOTcsLTIyMTk2MzczMCw4
+ODQ2NDYzMDRdfQ==
 -->
