@@ -21,10 +21,10 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, title page, _Critica botanica_, 1737, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
 <param ve-entity eid="Q65027" title="Basilius Besler">
-<param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince-Bishop of Eichstätt">
+<param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some enduring visual conventions for representing the sunflower. This hand-tinted engraving of _H. annuus_ provides a striking and memorable vision of the plant portrayed life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stock with a sense of power. An uncredited artist, working under Bessler’s direction, used a symmetrical design to make the flower’s disk spiral a focal point around which irregular ray florets generate visual interest by establishing rhythm and heart-shaped leaves by establishing movement. Through this emphasis on the sunflower’s aesthetic characteristics, as opposed to its medicinal properties, as in herbals, the picture evinced an iconographic model for depicting the plant that would inspire future artists. The floral portrait was made for inclusion in [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908), a monumental book commissioned by Prince-Bishop of Eichstätt to catalog the flowers in his garden.
+Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower that are still influential. A team of artists, etchers, printmakers, and colorists, working under Besler’s direction, produced the hand-tinted engraving of _H. annuus_, which presents a striking vision of the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stock with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. The picture placed new emphasis on the sunflower’s beauty, as opposed to its medicinal or culinary properties, as in herbals, manifesting a bold model for visualizing plant aesthetics that was groundbreaking for its time. The radiant plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
@@ -131,11 +131,11 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4NDYyOTA3LDExOTA5MTEwNjQsLTIxMz
-E3MTQ3NTksMjQ4MzAzNjAsMTAzMjYyMjExOSwtMTAzMDE1NjI4
-NiwtMTYzOTgzNjc5NCwtMTQ0ODM3OTQ3MSwxMTk0OTM4Nzc5LD
-E2NzY0Mzk0OTgsMTUzMDU2NDg1Miw5NzE0MDc0NzcsLTE1NjEw
-MTM1MzQsLTIwNTkyMzgxOTcsLTIyMTk2MzczMCw4ODQ2NDYzMD
-QsLTE5Njk2Njc2NzgsNTUwNDAxMjAwLDE4MzY5OTM5MywtMTM4
-ODYyMDA4MV19
+eyJoaXN0b3J5IjpbLTE4OTczNjc3NiwxMTkwOTExMDY0LC0yMT
+MxNzE0NzU5LDI0ODMwMzYwLDEwMzI2MjIxMTksLTEwMzAxNTYy
+ODYsLTE2Mzk4MzY3OTQsLTE0NDgzNzk0NzEsMTE5NDkzODc3OS
+wxNjc2NDM5NDk4LDE1MzA1NjQ4NTIsOTcxNDA3NDc3LC0xNTYx
+MDEzNTM0LC0yMDU5MjM4MTk3LC0yMjE5NjM3MzAsODg0NjQ2Mz
+A0LC0xOTY5NjY3Njc4LDU1MDQwMTIwMCwxODM2OTkzOTMsLTEz
+ODg2MjAwODFdfQ==
 -->
