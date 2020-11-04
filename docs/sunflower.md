@@ -54,7 +54,7 @@ Spaniards, arriving in the Americas in the 1490s, were eager to collect exotic p
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
 In the 1500s, the Spanish collected and transported the sunflower back to Europe, where it was traded it in botanical networks and primarily grown as an ornamental. The sunflower depicted in Besler’s _Hortus Eystettensis_ was drawn from plants cultivated in Eichstätt, Bavaria, in the 1600s. Those flowers were likely obtained through the Spanish who collected them from Central or South America—regions to which the sunflower was introduced by Native North Americans.
-<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
+<param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
 
 
 ### Out of One, Many
@@ -134,11 +134,11 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDEyNjUxMSwtMzI5NjcyNjY2LC0xOD
-k3MzY3NzYsMTE5MDkxMTA2NCwtMjEzMTcxNDc1OSwyNDgzMDM2
-MCwxMDMyNjIyMTE5LC0xMDMwMTU2Mjg2LC0xNjM5ODM2Nzk0LC
-0xNDQ4Mzc5NDcxLDExOTQ5Mzg3NzksMTY3NjQzOTQ5OCwxNTMw
-NTY0ODUyLDk3MTQwNzQ3NywtMTU2MTAxMzUzNCwtMjA1OTIzOD
-E5NywtMjIxOTYzNzMwLDg4NDY0NjMwNCwtMTk2OTY2NzY3OCw1
-NTA0MDEyMDBdfQ==
+eyJoaXN0b3J5IjpbMTYyMTUzODM3MCwxMzYwMTI2NTExLC0zMj
+k2NzI2NjYsLTE4OTczNjc3NiwxMTkwOTExMDY0LC0yMTMxNzE0
+NzU5LDI0ODMwMzYwLDEwMzI2MjIxMTksLTEwMzAxNTYyODYsLT
+E2Mzk4MzY3OTQsLTE0NDgzNzk0NzEsMTE5NDkzODc3OSwxNjc2
+NDM5NDk4LDE1MzA1NjQ4NTIsOTcxNDA3NDc3LC0xNTYxMDEzNT
+M0LC0yMDU5MjM4MTk3LC0yMjE5NjM3MzAsODg0NjQ2MzA0LC0x
+OTY5NjY3Njc4XX0=
 -->
