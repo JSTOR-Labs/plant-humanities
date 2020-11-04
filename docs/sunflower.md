@@ -39,13 +39,6 @@ Botanical illustrations allow us to map the introduction of the sunflower from t
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 The provenance of the sunflowers grown in Eichstätt’s garden and the history the genus _Helianthus_ can be traced back to <span data-click-image-zoomto="1012,783,1953,1859"> North  America </span>. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico. The earliest known sunflower remains—charred seeds—tell us that humans used cultivated _H. annuus_ in specific regions of North America by 3000 BP (before present). The radiant plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden.
 
-### Plant Mobility, Knowledges, and Visual Representations
-
-<param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
-<param ve-entity eid="Q108266" aliases="Diné" title="Navajo"> 
-The history of the sunflower is enmeshed with the mobility of people, plant materials, visual representations, and ideas. It was Native Americans who first brought the sunflower to parts of Central and South America prior to the colonial period. Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun. Diné (Navajo) artists incorporate sunflower motifs and sometimes pollen into sandpainting ceremonies. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets.
-<param ve-image fit="contain" primary url="https://s3.amazonaws.com/PEM_artscape/e301826_painting_image/large.jpg" title="Bruce Hathale (Diné (Navajo)), _Big Gods on Whirling Logs, Big Godway. Guardian of Two Sunflower Plants_, early 1990s, acrylic on linen, Gift from James and Margie Krebs Collection of Native American Art, Peabody Essex Museum">
-<param ve-image fit="contain" url="https://s3.amazonaws.com/PEM_artscape/e37259_basket_image-01/large.jpg" title="Diné (Navajo) artist, _Wedding basket_, before 1890, Sumac, dye, Gift of Miss Bertha Kenny, 1960, Peabody Essex Museum">
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
@@ -105,6 +98,11 @@ Heliotropism in plants was observed by the ancient Greeks and this phenomenon is
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
+<param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
+<param ve-entity eid="Q108266" aliases="Diné" title="Navajo"> 
+Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun. Diné (Navajo) artists incorporate sunflower motifs and sometimes pollen into sandpainting ceremonies. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets.
+<param ve-image fit="contain" primary url="https://s3.amazonaws.com/PEM_artscape/e301826_painting_image/large.jpg" title="Bruce Hathale (Diné (Navajo)), _Big Gods on Whirling Logs, Big Godway. Guardian of Two Sunflower Plants_, early 1990s, acrylic on linen, Gift from James and Margie Krebs Collection of Native American Art, Peabody Essex Museum">
+<param ve-image fit="contain" url="https://s3.amazonaws.com/PEM_artscape/e37259_basket_image-01/large.jpg" title="Diné (Navajo) artist, _Wedding basket_, before 1890, Sumac, dye, Gift of Miss Bertha Kenny, 1960, Peabody Essex Museum">
 
 ### Floral Cyphers: Portrayals of Gender, Sexual Identity, Race, and Class
 
@@ -134,11 +132,11 @@ ADD CONCLUSION HERE
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3NTc4MTk1LDE4MTMzNjk5NzksMzQ1MT
-k2MzIwLDg4NTMzNDA2MywxNjQ2ODU2MjI4LDEwNjM4MzczMzYs
-MTc1ODc4Njc3NywxMTYzNTMwMzE0LC0xMzEwOTQ1Mzg2LDEwNT
-E5NzQxODgsMzIyNDk3MTgyLDU5NzY2NzEwMCwxNjIxNTM4Mzcw
-LDEzNjAxMjY1MTEsLTMyOTY3MjY2NiwtMTg5NzM2Nzc2LDExOT
-A5MTEwNjQsLTIxMzE3MTQ3NTksMjQ4MzAzNjAsMTAzMjYyMjEx
-OV19
+eyJoaXN0b3J5IjpbMTE1ODY2OTczNSwxODEzMzY5OTc5LDM0NT
+E5NjMyMCw4ODUzMzQwNjMsMTY0Njg1NjIyOCwxMDYzODM3MzM2
+LDE3NTg3ODY3NzcsMTE2MzUzMDMxNCwtMTMxMDk0NTM4NiwxMD
+UxOTc0MTg4LDMyMjQ5NzE4Miw1OTc2NjcxMDAsMTYyMTUzODM3
+MCwxMzYwMTI2NTExLC0zMjk2NzI2NjYsLTE4OTczNjc3NiwxMT
+kwOTExMDY0LC0yMTMxNzE0NzU5LDI0ODMwMzYwLDEwMzI2MjIx
+MTldfQ==
 -->
