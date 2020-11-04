@@ -38,7 +38,7 @@ Botanical illustrations allow us to map the introduction of the sunflower from t
 <param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 
 The Spanish, like other Europeans, eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
-<param ve-story url="https://storiiies.cogapp.com/viewer/4f1ln/Title-Page">
+<param ve-storiiies id="4f1ln">
 
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
@@ -133,11 +133,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzEyMDY3NiwtMTM4OTg5NjksMTM2OD
-E4NDM1OSwtNjk4NjYwMDU0LDE4MjcyNzc5NDMsLTEwMjk1Mjc5
-ODIsLTY2NTM0NjA1MCwxODEzMzY5OTc5LDM0NTE5NjMyMCw4OD
-UzMzQwNjMsMTY0Njg1NjIyOCwxMDYzODM3MzM2LDE3NTg3ODY3
-NzcsMTE2MzUzMDMxNCwtMTMxMDk0NTM4NiwxMDUxOTc0MTg4LD
-MyMjQ5NzE4Miw1OTc2NjcxMDAsMTYyMTUzODM3MCwxMzYwMTI2
-NTExXX0=
+eyJoaXN0b3J5IjpbLTE1MzU3NDU2OTYsLTEzODk4OTY5LDEzNj
+gxODQzNTksLTY5ODY2MDA1NCwxODI3Mjc3OTQzLC0xMDI5NTI3
+OTgyLC02NjUzNDYwNTAsMTgxMzM2OTk3OSwzNDUxOTYzMjAsOD
+g1MzM0MDYzLDE2NDY4NTYyMjgsMTA2MzgzNzMzNiwxNzU4Nzg2
+Nzc3LDExNjM1MzAzMTQsLTEzMTA5NDUzODYsMTA1MTk3NDE4OC
+wzMjI0OTcxODIsNTk3NjY3MTAwLDE2MjE1MzgzNzAsMTM2MDEy
+NjUxMV19
 -->
