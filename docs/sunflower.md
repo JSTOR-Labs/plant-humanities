@@ -35,10 +35,10 @@ The history of the sunflower  is enmeshed with mobility that can be charted thro
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
 Botanical illustrations allow us to map the introduction of the sunflower from the Americas to Europe during the colonial period. The Spanish, who arrived in the Americas in 1492, were the first to transport sunflower seeds overseas to Europe. Indeed, the Spanish physician and botanist Nicolas Monardes was the first European to describe the sunflower. He based that description, in his _Dos Libros_ (1565), on plants that were grown at his botanical garden at Seville. The book was translated into English _[Joyfull Newes out of the Newe Founde Worlde](https://www.biodiversitylibrary.org/page/7770654)_ first published in 1577. Another publication based on Monardes was Francisco Hernández's _Rerum medicarum Novae Hispaniae_.
-<param ve-image iiif url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w584" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
+<param ve-image iiif url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 
 The Spanish, like other Europeans, eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
-https://ia802902.us.archive.org/BookReader/BookReaderImages.php?id=gri_33125008297760&itemPath=%2F28%2Fitems%2Fgri_33125008297760&server=ia802902.us.archive.org&page=n10_w992 
+<param ve-image iiif url="https://ia802902.us.archive.org/BookReader/BookReaderImages.php?id=gri_33125008297760&itemPath=%2F28%2Fitems%2Fgri_33125008297760&server=ia802902.us.archive.org&page=n10_w992" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
@@ -133,7 +133,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDUyODQxOSwtNjk4NjYwMDU0LDE4Mj
+eyJoaXN0b3J5IjpbMjExNTkwODY0MiwtNjk4NjYwMDU0LDE4Mj
 cyNzc5NDMsLTEwMjk1Mjc5ODIsLTY2NTM0NjA1MCwxODEzMzY5
 OTc5LDM0NTE5NjMyMCw4ODUzMzQwNjMsMTY0Njg1NjIyOCwxMD
 YzODM3MzM2LDE3NTg3ODY3NzcsMTE2MzUzMDMxNCwtMTMxMDk0
