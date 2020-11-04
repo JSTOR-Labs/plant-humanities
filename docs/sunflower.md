@@ -43,10 +43,13 @@ In the 2010s, building on Heiser’s work, Bruce D. Smith developed a method to 
 
 ### Plant Mobility, Knowledges, and Visual Representations
 
-The history of the sunflower is enmeshed with the mobility of people, plant materials, visual representations, and ideas. It was Native Americans who first brought the sunflower to parts of Central and South America prior to the colonial period. Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun. Diné (Navajo) artists incorporate sunflower motifs and sometimes pollen into sandpainting ceremonies. SIG. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets. SIG.
+The history of the sunflower is enmeshed with the mobility of people, plant materials, visual representations, and ideas. It was Native Americans who first brought the sunflower to parts of Central and South America prior to the colonial period. Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun. Diné (Navajo) artists incorporate sunflower motifs and sometimes pollen into sandpainting ceremonies. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets.
 <param ve-image fit="contain" primary url="https://s3.amazonaws.com/PEM_artscape/e301826_painting_image/large.jpg" title="Bruce Hathale (Diné (Navajo)), _Big Gods on Whirling Logs, Big Godway. Guardian of Two Sunflower Plants_, early 1990s, acrylic on linen, Gift from James and Margie Krebs Collection of Native American Art, Peabody Essex Museum">
 <param ve-image fit="contain" url="https://s3.amazonaws.com/PEM_artscape/e37259_basket_image-01/large.jpg" title="Diné (Navajo) artist, _Wedding basket_, before 1890, Sumac, dye, Gift of Miss Bertha Kenny, 1960, Peabody Essex Museum">
 
+<param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
+<param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
+<param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
 Spaniards, arriving in the Americas in the 1490s, were eager to collect exotic plants. They were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities and status symbols. Sometime European plant hunters drew on indigenous peoples’ knowledge about local flora to identify what to send back to Europe. There, physicians and scholars would study and grow the plants in botanical gardens, writing descriptions of them for dissemination in books. Nicolas Monardes, in _Dos Libros_ (1565), was the first European to describe the sunflower, and Rembert Dodoens produced the first book, in _Florum, et Coronariarum_, that contained an illustration of the plant. That woodcut, shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock.
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
@@ -131,11 +134,11 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYzMTU2NjEsLTMyOTY3MjY2NiwtMT
-g5NzM2Nzc2LDExOTA5MTEwNjQsLTIxMzE3MTQ3NTksMjQ4MzAz
-NjAsMTAzMjYyMjExOSwtMTAzMDE1NjI4NiwtMTYzOTgzNjc5NC
-wtMTQ0ODM3OTQ3MSwxMTk0OTM4Nzc5LDE2NzY0Mzk0OTgsMTUz
-MDU2NDg1Miw5NzE0MDc0NzcsLTE1NjEwMTM1MzQsLTIwNTkyMz
-gxOTcsLTIyMTk2MzczMCw4ODQ2NDYzMDQsLTE5Njk2Njc2Nzgs
-NTUwNDAxMjAwXX0=
+eyJoaXN0b3J5IjpbLTM5NjUwNDAyNiwtMzI5NjcyNjY2LC0xOD
+k3MzY3NzYsMTE5MDkxMTA2NCwtMjEzMTcxNDc1OSwyNDgzMDM2
+MCwxMDMyNjIyMTE5LC0xMDMwMTU2Mjg2LC0xNjM5ODM2Nzk0LC
+0xNDQ4Mzc5NDcxLDExOTQ5Mzg3NzksMTY3NjQzOTQ5OCwxNTMw
+NTY0ODUyLDk3MTQwNzQ3NywtMTU2MTAxMzUzNCwtMjA1OTIzOD
+E5NywtMjIxOTYzNzMwLDg4NDY0NjMwNCwtMTk2OTY2NzY3OCw1
+NTA0MDEyMDBdfQ==
 -->
