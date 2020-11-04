@@ -39,7 +39,7 @@ The American botanist Charles B. Heiser Jr. conducted foundational research, in 
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 In the 2010s, building on Heiser’s work, Bruce D. Smith developed a method to more precisely determine whether charred seeds recovered from six prehistoric sites came from wild or cultivated sunflowers based upon their size. That research and genetic analyses, conducted separately by other scientists, led Smith to conclude that _H. annuus_ was domesticated at an independent cultivation area in eastern North America between 5,000 and 3,800 years ago. Three other species native to North America—squash, marsh-elder, and chenopod—were also cultivated there during that timeframe.
-<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
+<param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 ### Plant Mobility, Knowledges, and Visual Representations
 
@@ -130,11 +130,11 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQyMzQ5NDcsLTMyOTY3MjY2NiwtMT
-g5NzM2Nzc2LDExOTA5MTEwNjQsLTIxMzE3MTQ3NTksMjQ4MzAz
-NjAsMTAzMjYyMjExOSwtMTAzMDE1NjI4NiwtMTYzOTgzNjc5NC
-wtMTQ0ODM3OTQ3MSwxMTk0OTM4Nzc5LDE2NzY0Mzk0OTgsMTUz
-MDU2NDg1Miw5NzE0MDc0NzcsLTE1NjEwMTM1MzQsLTIwNTkyMz
-gxOTcsLTIyMTk2MzczMCw4ODQ2NDYzMDQsLTE5Njk2Njc2Nzgs
-NTUwNDAxMjAwXX0=
+eyJoaXN0b3J5IjpbLTQzNzk5NjYyNywtMzI5NjcyNjY2LC0xOD
+k3MzY3NzYsMTE5MDkxMTA2NCwtMjEzMTcxNDc1OSwyNDgzMDM2
+MCwxMDMyNjIyMTE5LC0xMDMwMTU2Mjg2LC0xNjM5ODM2Nzk0LC
+0xNDQ4Mzc5NDcxLDExOTQ5Mzg3NzksMTY3NjQzOTQ5OCwxNTMw
+NTY0ODUyLDk3MTQwNzQ3NywtMTU2MTAxMzUzNCwtMjA1OTIzOD
+E5NywtMjIxOTYzNzMwLDg4NDY0NjMwNCwtMTk2OTY2NzY3OCw1
+NTA0MDEyMDBdfQ==
 -->
