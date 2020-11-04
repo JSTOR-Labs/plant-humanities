@@ -104,7 +104,7 @@ Having dispelled several cultural myths about the sunflower, we now turn to anot
 <param ve-video title="Heliconia bihai 'Arawak' - (Lobster Claw), Herbarium Werdler" vid="pYiYzb1K450">
 
 Heliotropism in plants was observed by the ancient Greeks and this phenomenon is a central conceit in the myth of Clytie and Helios. Explain the myth. The associations of the sunflower in this narrative with notions of WHAT proved influential in Western European art and culture. Introduce idea of constancy and then connect to heliotropism. Interpret print. Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers
-<param ve-image fit="contain" primary url="https://lh3.googleusercontent.com/CXNACzhyvIzVkiaIkol-Dc0U8dnAiavZ9oXiKSIDG7iqMQ-zJiaO9xw4mKE-TPos7YIvg1PBOK83GbjU7eVZtvL4-M4=s0" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
+<param ve-image fit="contain" primary url="https://lh3.googleusercontent.com/qDeKSxUXTlI2Km6XumTC8vAZ50U6qYlvk_rb6Qfq1BF3qI5yXGtfhOwK6Cpaj57_0VV8YYBVmwdWvTBOIXtQPJ7bXc4=s0" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 
@@ -137,11 +137,11 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzgzNzMzNiwxNzU4Nzg2Nzc3LDExNj
-M1MzAzMTQsLTEzMTA5NDUzODYsMTA1MTk3NDE4OCwzMjI0OTcx
-ODIsNTk3NjY3MTAwLDE2MjE1MzgzNzAsMTM2MDEyNjUxMSwtMz
-I5NjcyNjY2LC0xODk3MzY3NzYsMTE5MDkxMTA2NCwtMjEzMTcx
-NDc1OSwyNDgzMDM2MCwxMDMyNjIyMTE5LC0xMDMwMTU2Mjg2LC
-0xNjM5ODM2Nzk0LC0xNDQ4Mzc5NDcxLDExOTQ5Mzg3NzksMTY3
-NjQzOTQ5OF19
+eyJoaXN0b3J5IjpbMTY0Njg1NjIyOCwxMDYzODM3MzM2LDE3NT
+g3ODY3NzcsMTE2MzUzMDMxNCwtMTMxMDk0NTM4NiwxMDUxOTc0
+MTg4LDMyMjQ5NzE4Miw1OTc2NjcxMDAsMTYyMTUzODM3MCwxMz
+YwMTI2NTExLC0zMjk2NzI2NjYsLTE4OTczNjc3NiwxMTkwOTEx
+MDY0LC0yMTMxNzE0NzU5LDI0ODMwMzYwLDEwMzI2MjIxMTksLT
+EwMzAxNTYyODYsLTE2Mzk4MzY3OTQsLTE0NDgzNzk0NzEsMTE5
+NDkzODc3OV19
 -->
