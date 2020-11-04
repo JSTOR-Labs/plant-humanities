@@ -34,7 +34,7 @@ The history of the sunflower  is enmeshed with mobility that can be charted thro
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
-Botanical illustrations allow us to map the introduction of the sunflower from the Americas to Europe during the colonial period. The Spanish, who arrived in the Americas in 1492, were the first to transport sunflower seeds overseas to Europe. Indeed, the Spanish physician and botanist Nicolas Monardes was the first European to describe the sunflower. He based that description, in his _Dos Libros_ (1565), on plants that were grown at his botanical garden at Seville. The book was translated into English _[Joyfull Newes out of the Newe Founde Worlde](https://www.biodiversitylibrary.org/page/7770654)_ first published in 1577.
+Botanical illustrations allow us to map the introduction of the sunflower from the Americas to Europe during the colonial period. The Spanish, who arrived in the Americas in 1492, were the first to transport sunflower seeds overseas to Europe. Indeed, the Spanish physician and botanist Nicolas Monardes was the first European to describe the sunflower. He based that description, in his _Dos Libros_ (1565), on plants that were grown at his botanical garden at Seville. The book was translated into English _[Joyfull Newes out of the Newe Founde Worlde](https://www.biodiversitylibrary.org/page/7770654)_ first published in 1577. Another publication based on Monardes was Francisco Hernández's _Rerum medicarum Novae Hispaniae_.
 <param ve-image iiif url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w584" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 
 The Spanish, like other Europeans, eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as extractive colonialism, often involved violent confrontations with indigenous inhabitants. The cover of What, at right, shows what though offers no indication of such encounters.
@@ -133,11 +133,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjA0MDY2LC0xMDI5NTI3OTgyLC02Nj
-UzNDYwNTAsMTgxMzM2OTk3OSwzNDUxOTYzMjAsODg1MzM0MDYz
-LDE2NDY4NTYyMjgsMTA2MzgzNzMzNiwxNzU4Nzg2Nzc3LDExNj
-M1MzAzMTQsLTEzMTA5NDUzODYsMTA1MTk3NDE4OCwzMjI0OTcx
-ODIsNTk3NjY3MTAwLDE2MjE1MzgzNzAsMTM2MDEyNjUxMSwtMz
-I5NjcyNjY2LC0xODk3MzY3NzYsMTE5MDkxMTA2NCwtMjEzMTcx
-NDc1OV19
+eyJoaXN0b3J5IjpbLTE5ODE1ODU5MzksLTEwMjk1Mjc5ODIsLT
+Y2NTM0NjA1MCwxODEzMzY5OTc5LDM0NTE5NjMyMCw4ODUzMzQw
+NjMsMTY0Njg1NjIyOCwxMDYzODM3MzM2LDE3NTg3ODY3NzcsMT
+E2MzUzMDMxNCwtMTMxMDk0NTM4NiwxMDUxOTc0MTg4LDMyMjQ5
+NzE4Miw1OTc2NjcxMDAsMTYyMTUzODM3MCwxMzYwMTI2NTExLC
+0zMjk2NzI2NjYsLTE4OTczNjc3NiwxMTkwOTExMDY0LC0yMTMx
+NzE0NzU5XX0=
 -->
