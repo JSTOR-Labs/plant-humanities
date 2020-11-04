@@ -34,10 +34,9 @@ The history of the sunflower  is enmeshed with mobility that can be charted thro
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
-Botanical illustrations allow us to map the introduction of the sunflower from the Americas to Europe during the colonial period. The Spanish, who arrived in the Americas in 1492, were the first to transport sunflower seeds overseas to Europe. Indeed, the Spanish physician and botanist Nicolas Monardes was the first European to describe the sunflower. He based that description, in his _Dos Libros_ (1565), on plants that were grown at his botanical garden at Seville. 
+Botanical illustrations allow us to map the introduction of the sunflower from the Americas to Europe during the colonial period. The Spanish, who arrived in the Americas in 1492, were the first to transport sunflower seeds overseas to Europe. Indeed, the Spanish physician and botanist Nicolas Monardes was the first European to describe the sunflower. He based that description, in his _Dos Libros_ (1565), on plants that were grown at his botanical garden at Seville. The book was translated i
 
-
-The Spanish, like other Europeans, eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as extractive colonialism, often involved violent confrontations with indigenous inhabitants.
+The Spanish, like other Europeans, eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as extractive colonialism, often involved violent confrontations with indigenous inhabitants. The cover of What, at right, shows what though offers no indication of such encounters.
 
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
@@ -132,11 +131,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA1MDQ4NDcsMTgxMzM2OTk3OSwzND
-UxOTYzMjAsODg1MzM0MDYzLDE2NDY4NTYyMjgsMTA2MzgzNzMz
-NiwxNzU4Nzg2Nzc3LDExNjM1MzAzMTQsLTEzMTA5NDUzODYsMT
-A1MTk3NDE4OCwzMjI0OTcxODIsNTk3NjY3MTAwLDE2MjE1Mzgz
-NzAsMTM2MDEyNjUxMSwtMzI5NjcyNjY2LC0xODk3MzY3NzYsMT
-E5MDkxMTA2NCwtMjEzMTcxNDc1OSwyNDgzMDM2MCwxMDMyNjIy
-MTE5XX0=
+eyJoaXN0b3J5IjpbLTg1ODc2NDY4MiwxODEzMzY5OTc5LDM0NT
+E5NjMyMCw4ODUzMzQwNjMsMTY0Njg1NjIyOCwxMDYzODM3MzM2
+LDE3NTg3ODY3NzcsMTE2MzUzMDMxNCwtMTMxMDk0NTM4NiwxMD
+UxOTc0MTg4LDMyMjQ5NzE4Miw1OTc2NjcxMDAsMTYyMTUzODM3
+MCwxMzYwMTI2NTExLC0zMjk2NzI2NjYsLTE4OTczNjc3NiwxMT
+kwOTExMDY0LC0yMTMxNzE0NzU5LDI0ODMwMzYwLDEwMzI2MjIx
+MTldfQ==
 -->
