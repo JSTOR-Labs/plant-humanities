@@ -31,7 +31,7 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 ### Range and Cultivation
 
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
-The sunflower represented in Besler’s _Hortus Eystettensis_ was drawn from specimens cultivated in Eichstätt, Bavaria, around 1600. Those plants were likely obtained through the Spanish who collected them from Central or South America, where they were introduced by Native Americans. Indeed, as this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico. 
+The provenance of the sunflowers grown in Eichstätt’s garden and the history the genus _Helianthus_ can be traced back to North America. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico. The earliest known sunflower remains—charred seeds—tell us that humans used cultivated _H. annuus_ in specific regions of North America by 3000 BP (before present). 
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
 Paleoethnobotanists, who study plant remains collected at sites, have determined that Native Americans were using cultivated sunflowers in parts of North America by YEAR. Charles B. Heiser, Jr. and Bruce D. Smith, both prominent botanists, have analyzed charred seeds found at a number of different sites in order to consider when and where humans cultivated sunflowers. Heiser SENTENCE. Smith found that Heiser’s finds still stand.
@@ -131,11 +131,11 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTczNjc3NiwxMTkwOTExMDY0LC0yMT
-MxNzE0NzU5LDI0ODMwMzYwLDEwMzI2MjIxMTksLTEwMzAxNTYy
-ODYsLTE2Mzk4MzY3OTQsLTE0NDgzNzk0NzEsMTE5NDkzODc3OS
-wxNjc2NDM5NDk4LDE1MzA1NjQ4NTIsOTcxNDA3NDc3LC0xNTYx
-MDEzNTM0LC0yMDU5MjM4MTk3LC0yMjE5NjM3MzAsODg0NjQ2Mz
-A0LC0xOTY5NjY3Njc4LDU1MDQwMTIwMCwxODM2OTkzOTMsLTEz
-ODg2MjAwODFdfQ==
+eyJoaXN0b3J5IjpbMTIwMDY0MjQwMCwtMTg5NzM2Nzc2LDExOT
+A5MTEwNjQsLTIxMzE3MTQ3NTksMjQ4MzAzNjAsMTAzMjYyMjEx
+OSwtMTAzMDE1NjI4NiwtMTYzOTgzNjc5NCwtMTQ0ODM3OTQ3MS
+wxMTk0OTM4Nzc5LDE2NzY0Mzk0OTgsMTUzMDU2NDg1Miw5NzE0
+MDc0NzcsLTE1NjEwMTM1MzQsLTIwNTkyMzgxOTcsLTIyMTk2Mz
+czMCw4ODQ2NDYzMDQsLTE5Njk2Njc2NzgsNTUwNDAxMjAwLDE4
+MzY5OTM5M119
 -->
