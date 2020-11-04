@@ -30,7 +30,7 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 
 ### Range and Cultivation
 
-<param ve-image iiif region="1012,783,1953,1859"
+<param ve-image iiif region="3006,1130,568,5401012,783,1953,1859"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 The provenance of the sunflowers grown in Eichstätt’s garden and the history the genus _Helianthus_ can be traced back to North America. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico. The earliest known sunflower remains—charred seeds—tell us that humans used cultivated _H. annuus_ in specific regions of North America by 3000 BP (before present). 
 
@@ -136,11 +136,11 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzE5MjIyNiwxNjIxNTM4MzcwLDEzNj
-AxMjY1MTEsLTMyOTY3MjY2NiwtMTg5NzM2Nzc2LDExOTA5MTEw
-NjQsLTIxMzE3MTQ3NTksMjQ4MzAzNjAsMTAzMjYyMjExOSwtMT
-AzMDE1NjI4NiwtMTYzOTgzNjc5NCwtMTQ0ODM3OTQ3MSwxMTk0
-OTM4Nzc5LDE2NzY0Mzk0OTgsMTUzMDU2NDg1Miw5NzE0MDc0Nz
-csLTE1NjEwMTM1MzQsLTIwNTkyMzgxOTcsLTIyMTk2MzczMCw4
-ODQ2NDYzMDRdfQ==
+eyJoaXN0b3J5IjpbLTE0MTMwOTkzNDAsMTYyMTUzODM3MCwxMz
+YwMTI2NTExLC0zMjk2NzI2NjYsLTE4OTczNjc3NiwxMTkwOTEx
+MDY0LC0yMTMxNzE0NzU5LDI0ODMwMzYwLDEwMzI2MjIxMTksLT
+EwMzAxNTYyODYsLTE2Mzk4MzY3OTQsLTE0NDgzNzk0NzEsMTE5
+NDkzODc3OSwxNjc2NDM5NDk4LDE1MzA1NjQ4NTIsOTcxNDA3ND
+c3LC0xNTYxMDEzNTM0LC0yMDU5MjM4MTk3LC0yMjE5NjM3MzAs
+ODg0NjQ2MzA0XX0=
 -->
