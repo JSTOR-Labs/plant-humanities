@@ -45,10 +45,10 @@ In the 2010s, building on Heiser’s work, Bruce D. Smith developed a method to 
 The history of the sunflower is enmeshed with the mobility of people, plant materials, visual representations, and ideas. It was Native Americans who first brought the sunflower to parts of Central and South America prior to the colonial period. Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun. Diné (Navajo) artists incorporate sunflower motifs and sometimes pollen into sandpainting ceremonies. SIG. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets. SIG.
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
-<![endif]--> Spaniards, arriving in the Americas in the 1490s, were eager to collect exotic plants. They were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities and status symbols. Sometime European plant hunters drew on indigenous peoples’ knowledge about local flora to identify what to send back to Europe. There, physicians and scholars would study and grow the plants in botanical gardens, writing descriptions of them for dissemination in books. Nicolas Monardes, in _Dos Libros_ (1565), was the first European to describe the sunflower, and Rembert Dodoens produced the first book, in _Florum, et Coronariarum_, that contained an illustration of the plant. That woodcut, shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock.
+Spaniards, arriving in the Americas in the 1490s, were eager to collect exotic plants. They were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities and status symbols. Sometime European plant hunters drew on indigenous peoples’ knowledge about local flora to identify what to send back to Europe. There, physicians and scholars would study and grow the plants in botanical gardens, writing descriptions of them for dissemination in books. Nicolas Monardes, in _Dos Libros_ (1565), was the first European to describe the sunflower, and Rembert Dodoens produced the first book, in _Florum, et Coronariarum_, that contained an illustration of the plant. That woodcut, shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock.
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
-Native American use of plant as dye for basketry and pollen in sandpainting ceremony
+In the 1500s, the Spanish collected and transported the sunflower back to Europe, where it was traded it in botanical networks and primarily grown as an ornamental. The sunflower depicted in Besler’s _Hortus Eystettensis_ was drawn from plants cultivated in Eichstätt, Bavaria, in the 1600s. Those flowers were likely obtained through the Spanish who collected them from Central or South America—regions to which the sunflower was introduced by Native North Americans.
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
 
@@ -129,11 +129,11 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE3MDM4MzYsLTE4OTczNjc3NiwxMT
-kwOTExMDY0LC0yMTMxNzE0NzU5LDI0ODMwMzYwLDEwMzI2MjIx
-MTksLTEwMzAxNTYyODYsLTE2Mzk4MzY3OTQsLTE0NDgzNzk0Nz
-EsMTE5NDkzODc3OSwxNjc2NDM5NDk4LDE1MzA1NjQ4NTIsOTcx
-NDA3NDc3LC0xNTYxMDEzNTM0LC0yMDU5MjM4MTk3LC0yMjE5Nj
-M3MzAsODg0NjQ2MzA0LC0xOTY5NjY3Njc4LDU1MDQwMTIwMCwx
-ODM2OTkzOTNdfQ==
+eyJoaXN0b3J5IjpbLTMyOTY3MjY2NiwtMTg5NzM2Nzc2LDExOT
+A5MTEwNjQsLTIxMzE3MTQ3NTksMjQ4MzAzNjAsMTAzMjYyMjEx
+OSwtMTAzMDE1NjI4NiwtMTYzOTgzNjc5NCwtMTQ0ODM3OTQ3MS
+wxMTk0OTM4Nzc5LDE2NzY0Mzk0OTgsMTUzMDU2NDg1Miw5NzE0
+MDc0NzcsLTE1NjEwMTM1MzQsLTIwNTkyMzgxOTcsLTIyMTk2Mz
+czMCw4ODQ2NDYzMDQsLTE5Njk2Njc2NzgsNTUwNDAxMjAwLDE4
+MzY5OTM5M119
 -->
