@@ -8,12 +8,12 @@
 ### A Giant among Us
 <param ve-image fit="contain" url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-Sunflowers hold a special status in the natural world. Highly valued for their edible seeds and seed oil, they are one of the few crop plants to have originated in North America.[^1] They are also popular ornamentals, renowned for their yellow flower heads with round disks and, in some cases, imposing height. Indeed, in cultivation _Helianthus annuus_ (common sunflower) can grow up to sixteen feet tall, towering over us and other organisms. Yet, despite the relatively widespread cultivation of the sunflower and its iconic formal qualities, myths about the genus persist and these ideas have often shaped or been shaped by visual representations of the plant.
+Sunflowers hold a special status in the natural world. Highly valued for their edible seeds and seed oil, they are one of the few crop plants to have originated in North America. They are also popular ornamentals, renowned for their yellow flower heads with round disks and, in some cases, imposing height. Indeed, in cultivation _Helianthus annuus_ (common sunflower) can grow up to sixteen feet tall, towering over us and other organisms. Yet, despite the relatively widespread cultivation of the sunflower and its iconic formal qualities, myths about the genus persist and these ideas have often shaped or been shaped by visual representations of the plant.
 
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 European, American, and Native American portrayals of the sunflower can provide valuable historical information about the plant and about the role of visual culture in communicating knowledges, myths, and meanings related to it. Artists, working from the European colonial period to the present day, produced likenesses of the sunflower that often fulfilled scientific, aesthetic, ceremonial, commercial, and other functions. Although such artists developed conventions for representing the plant that were tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) helped to perpetuate several myths about sunflowers that are still held today, while sometimes also serving to uphold, challenge, or illuminate stereotypes pertaining to societal markers of difference.
 
-### Helianthus—The Iconic Flower and Its Iconography
+### Naming and Representing the Iconic Flower
 
 <param ve-entity eid="Q10432667306" title="Carl Linnaeus">
 The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—was named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the plant was already a beloved garden flower in Europe. Although it may be hard for us to imagine the popularity of the sunflower at that time, Linnaeus’s exuberant description of the plant, in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_, offers some insights. He writes, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?” His encomium on the splendor of the mature _Helianthus_ inflorescence demonstrates some traits that eighteenth-century Europeans admired and that make the flower so iconic today.
@@ -24,7 +24,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower that are still influential. A team of artists, etchers, printmakers, and colorists, working under Besler’s direction, produced the hand-tinted engraving of _H. annuus_, which presents a striking vision of the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stock with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. The picture placed new emphasis on the sunflower’s beauty, as opposed to its medicinal or culinary properties, as in herbals, manifesting a bold model for visualizing plant aesthetics that was groundbreaking for its time. The radiant plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden.
+Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower that are still influential. A team of artists, etchers, printmakers, and colorists, working under Besler’s direction, produced the hand-tinted engraving of _H. annuus_, which presents a striking vision of the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stock with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. Those formal strategies were innovative for the time because they described the sunflower’s beauty rather than its medicinal or culinary properties, as in herbals. For those reasons, the portrait became an influential model for visualizing sunflower aesthetics.The picture placed new emphasis on the sunflower’s beauty, as opposed to its medicinal or culinary properties, as in herbals, manifesting a bold model for visualizing plant aesthetics that was groundbreaking for its time. The radiant plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
@@ -134,14 +134,13 @@ ADD TEXT
 ADD CONCLUSION HERE
 
 ### References
-[
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzcxNzgsMzQ1MTk2MzIwLDg4NTMzND
-A2MywxNjQ2ODU2MjI4LDEwNjM4MzczMzYsMTc1ODc4Njc3Nywx
-MTYzNTMwMzE0LC0xMzEwOTQ1Mzg2LDEwNTE5NzQxODgsMzIyND
-k3MTgyLDU5NzY2NzEwMCwxNjIxNTM4MzcwLDEzNjAxMjY1MTEs
-LTMyOTY3MjY2NiwtMTg5NzM2Nzc2LDExOTA5MTEwNjQsLTIxMz
-E3MTQ3NTksMjQ4MzAzNjAsMTAzMjYyMjExOSwtMTAzMDE1NjI4
-Nl19
+eyJoaXN0b3J5IjpbMzQ0NzIxMzE4LDM0NTE5NjMyMCw4ODUzMz
+QwNjMsMTY0Njg1NjIyOCwxMDYzODM3MzM2LDE3NTg3ODY3Nzcs
+MTE2MzUzMDMxNCwtMTMxMDk0NTM4NiwxMDUxOTc0MTg4LDMyMj
+Q5NzE4Miw1OTc2NjcxMDAsMTYyMTUzODM3MCwxMzYwMTI2NTEx
+LC0zMjk2NzI2NjYsLTE4OTczNjc3NiwxMTkwOTExMDY0LC0yMT
+MxNzE0NzU5LDI0ODMwMzYwLDEwMzI2MjIxMTksLTEwMzAxNTYy
+ODZdfQ==
 -->
