@@ -37,7 +37,7 @@ The history of the sunflower  is enmeshed with mobility that can be charted thro
 Botanical illustrations allow us to map the introduction of the sunflower from the Americas to Europe during the colonial period. The Spanish, who arrived in the Americas in 1492, were the first to transport sunflower seeds overseas to Europe. Indeed, the Spanish physician and botanist Nicolas Monardes was the first European to describe the sunflower. He based that description, in his _Dos Libros_ (1565), on plants that were grown at his botanical garden at Seville. The book was translated into English _[Joyfull Newes out of the Newe Founde Worlde](https://www.biodiversitylibrary.org/page/7770654)_ first published in 1577. Another publication based on Monardes was Francisco Hernández's _Rerum medicarum Novae Hispaniae_.
 <param ve-image iiif url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w584" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 
-The Spanish, like other Europeans, eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as extractive colonialism, often involved violent confrontations with indigenous inhabitants. The cover of What, at right, shows what though offers no indication of such encounters. 
+The Spanish, like other Europeans, eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The cover of What, at right, shows what though offers no indication of such encounters. 
 
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
@@ -132,11 +132,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzI3Nzk0MywtMTAyOTUyNzk4MiwtNj
-Y1MzQ2MDUwLDE4MTMzNjk5NzksMzQ1MTk2MzIwLDg4NTMzNDA2
-MywxNjQ2ODU2MjI4LDEwNjM4MzczMzYsMTc1ODc4Njc3NywxMT
-YzNTMwMzE0LC0xMzEwOTQ1Mzg2LDEwNTE5NzQxODgsMzIyNDk3
-MTgyLDU5NzY2NzEwMCwxNjIxNTM4MzcwLDEzNjAxMjY1MTEsLT
-MyOTY3MjY2NiwtMTg5NzM2Nzc2LDExOTA5MTEwNjQsLTIxMzE3
-MTQ3NTldfQ==
+eyJoaXN0b3J5IjpbMzEzNjA1NzYsMTgyNzI3Nzk0MywtMTAyOT
+UyNzk4MiwtNjY1MzQ2MDUwLDE4MTMzNjk5NzksMzQ1MTk2MzIw
+LDg4NTMzNDA2MywxNjQ2ODU2MjI4LDEwNjM4MzczMzYsMTc1OD
+c4Njc3NywxMTYzNTMwMzE0LC0xMzEwOTQ1Mzg2LDEwNTE5NzQx
+ODgsMzIyNDk3MTgyLDU5NzY2NzEwMCwxNjIxNTM4MzcwLDEzNj
+AxMjY1MTEsLTMyOTY3MjY2NiwtMTg5NzM2Nzc2LDExOTA5MTEw
+NjRdfQ==
 -->
