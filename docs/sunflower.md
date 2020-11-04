@@ -35,23 +35,21 @@ The provenance of the sunflowers grown in Eichstätt’s garden and the history 
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
 The American botanist Charles B. Heiser Jr. conducted foundational research, in the 1940s, on the domestication of _H. annuus_ in North America. Heiser realized that because _H. annuus_ is not present outside of cultivation, it would be possible to use sunflower remains collected at prehistoric sites to study when and where species domestication occurred. He published a map similar to this one, at right, to show the distribution of wild, weed, and cultivated species at midcentury and the proximity of those regions to sites where seeds were found. That evidence and other sources led Heiser to hypothesize correctly that Native Americans used and transported wild sunflowers, introducing the plant to places where it became established and later cultivated.
+<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
 In the 2010s, building on Heiser’s work, Bruce D. Smith developed a method to more precisely determine whether charred seeds recovered from six prehistoric sites came from wild or cultivated sunflowers based upon their size. That research and genetic analyses, conducted separately by other scientists, led Smith to conclude that _H. annuus_ was domesticated at an independent cultivation area in eastern North America between 5,000 and 3,800 years ago. Three other species native to North America—squash, marsh-elder, and chenopod—were also cultivated there during that timeframe.
-<param ve-entity eid="Q283180" title="phytoremediation"> 
+<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
 ### Plant Mobility, Knowledges, and Visual Representations
 
-Discussion of herbals and their importance for communicating information about plants.
+The history of the sunflower is enmeshed with the mobility of people, plant materials, visual representations, and ideas. It was Native Americans who first brought the sunflower to parts of Central and South America prior to the colonial period. Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun. Diné (Navajo) artists incorporate sunflower motifs and sometimes pollen into sandpainting ceremonies. SIG. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets. SIG.
+<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
-[Figure 11: earliest description of the sunflower by Nicolas Monardes, 1500s, link; earliest European representation of the sunflower by Dodoens, 1568, image; Besler 1613 codex, image]
-
-Global plantings and uses as crop and ornamental
-
-[Figure 12: wiki map and products]
+<![endif]--> Spaniards, arriving in the Americas in the 1490s, were eager to collect exotic plants. They were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities and status symbols. Sometime European plant hunters drew on indigenous peoples’ knowledge about local flora to identify what to send back to Europe. There, physicians and scholars would study and grow the plants in botanical gardens, writing descriptions of them for dissemination in books. Nicolas Monardes, in _Dos Libros_ (1565), was the first European to describe the sunflower, and Rembert Dodoens produced the first book, in _Florum, et Coronariarum_, that contained an illustration of the plant. That woodcut, shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock.
+<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
 Native American use of plant as dye for basketry and pollen in sandpainting ceremony
-
-[Figure 13: basket, maybe MIA] 
+<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
 
 ### Out of One, Many
@@ -131,11 +129,11 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDg2NjQ3MiwtMTg5NzM2Nzc2LDExOT
-A5MTEwNjQsLTIxMzE3MTQ3NTksMjQ4MzAzNjAsMTAzMjYyMjEx
-OSwtMTAzMDE1NjI4NiwtMTYzOTgzNjc5NCwtMTQ0ODM3OTQ3MS
-wxMTk0OTM4Nzc5LDE2NzY0Mzk0OTgsMTUzMDU2NDg1Miw5NzE0
-MDc0NzcsLTE1NjEwMTM1MzQsLTIwNTkyMzgxOTcsLTIyMTk2Mz
-czMCw4ODQ2NDYzMDQsLTE5Njk2Njc2NzgsNTUwNDAxMjAwLDE4
-MzY5OTM5M119
+eyJoaXN0b3J5IjpbLTE1MDE3MDM4MzYsLTE4OTczNjc3NiwxMT
+kwOTExMDY0LC0yMTMxNzE0NzU5LDI0ODMwMzYwLDEwMzI2MjIx
+MTksLTEwMzAxNTYyODYsLTE2Mzk4MzY3OTQsLTE0NDgzNzk0Nz
+EsMTE5NDkzODc3OSwxNjc2NDM5NDk4LDE1MzA1NjQ4NTIsOTcx
+NDA3NDc3LC0xNTYxMDEzNTM0LC0yMDU5MjM4MTk3LC0yMjE5Nj
+M3MzAsODg0NjQ2MzA0LC0xOTY5NjY3Njc4LDU1MDQwMTIwMCwx
+ODM2OTkzOTNdfQ==
 -->
