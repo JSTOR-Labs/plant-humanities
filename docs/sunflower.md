@@ -36,7 +36,7 @@ The provenance of the sunflowers grown in Eichstätt’s garden and the history 
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
 The American botanist Charles B. Heiser Jr. conducted foundational research, in the 1940s, on the domestication of _H. annuus_ in North America. Heiser realized that because _H. annuus_ is not present outside of cultivation, it would be possible to use sunflower remains collected at prehistoric sites to study when and where species domestication occurred. He published a map similar to this one, at right, to show the distribution of wild, weed, and cultivated species at midcentury and the proximity of those regions to sites where seeds were found. That evidence and other sources led Heiser to hypothesize correctly that Native Americans used and transported wild sunflowers, introducing the plant to places where it became established and later cultivated.
-<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
+<param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 In the 2010s, building on Heiser’s work, Bruce D. Smith developed a method to more precisely determine whether charred seeds recovered from six prehistoric sites came from wild or cultivated sunflowers based upon their size. That research and genetic analyses, conducted separately by other scientists, led Smith to conclude that _H. annuus_ was domesticated at an independent cultivation area in eastern North America between 5,000 and 3,800 years ago. Three other species native to North America—squash, marsh-elder, and chenopod—were also cultivated there during that timeframe.
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
@@ -130,7 +130,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDUwOTU3NjMsLTMyOTY3MjY2NiwtMT
+eyJoaXN0b3J5IjpbLTE4NzQyMzQ5NDcsLTMyOTY3MjY2NiwtMT
 g5NzM2Nzc2LDExOTA5MTEwNjQsLTIxMzE3MTQ3NTksMjQ4MzAz
 NjAsMTAzMjYyMjExOSwtMTAzMDE1NjI4NiwtMTYzOTgzNjc5NC
 wtMTQ0ODM3OTQ3MSwxMTk0OTM4Nzc5LDE2NzY0Mzk0OTgsMTUz
