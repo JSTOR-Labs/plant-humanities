@@ -34,7 +34,7 @@ The history of the sunflower  is enmeshed with mobility that can be charted thro
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
-Botanical illustrations allow us to map the introduction of the sunflower from the Americas to Europe during the colonial period. The Spanish, who arrived in the Americas in 1492, were the first to transport sunflower seeds overseas to Europe. Indeed, the Spanish physician and botanist Nicolas Monardes was the first European to describe the sunflower. He based that description, in his _Dos Libros_ (1565), on plants that were grown at his botanical garden at Seville. The book was translated into English _Joyfull Newes out of the Newe Founde Worlde_ and published with illustrations in 1577.
+Botanical illustrations allow us to map the introduction of the sunflower from the Americas to Europe during the colonial period. The Spanish, who arrived in the Americas in 1492, were the first to transport sunflower seeds overseas to Europe. Indeed, the Spanish physician and botanist Nicolas Monardes was the first European to describe the sunflower. He based that description, in his _Dos Libros_ (1565), on plants that were grown at his botanical garden at Seville. The book was translated into English _[Joyfull Newes out of the Newe Founde Worlde](https://www.biodiversitylibrary.org/page/7770654)_ first published in 1577.
 
 The Spanish, like other Europeans, eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as extractive colonialism, often involved violent confrontations with indigenous inhabitants. The cover of What, at right, shows what though offers no indication of such encounters.
 
@@ -132,11 +132,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODczOTI0NCwtNjY1MzQ2MDUwLDE4MT
-MzNjk5NzksMzQ1MTk2MzIwLDg4NTMzNDA2MywxNjQ2ODU2MjI4
-LDEwNjM4MzczMzYsMTc1ODc4Njc3NywxMTYzNTMwMzE0LC0xMz
-EwOTQ1Mzg2LDEwNTE5NzQxODgsMzIyNDk3MTgyLDU5NzY2NzEw
-MCwxNjIxNTM4MzcwLDEzNjAxMjY1MTEsLTMyOTY3MjY2NiwtMT
-g5NzM2Nzc2LDExOTA5MTEwNjQsLTIxMzE3MTQ3NTksMjQ4MzAz
-NjBdfQ==
+eyJoaXN0b3J5IjpbLTEwMjk1Mjc5ODIsLTY2NTM0NjA1MCwxOD
+EzMzY5OTc5LDM0NTE5NjMyMCw4ODUzMzQwNjMsMTY0Njg1NjIy
+OCwxMDYzODM3MzM2LDE3NTg3ODY3NzcsMTE2MzUzMDMxNCwtMT
+MxMDk0NTM4NiwxMDUxOTc0MTg4LDMyMjQ5NzE4Miw1OTc2Njcx
+MDAsMTYyMTUzODM3MCwxMzYwMTI2NTExLC0zMjk2NzI2NjYsLT
+E4OTczNjc3NiwxMTkwOTExMDY0LC0yMTMxNzE0NzU5LDI0ODMw
+MzYwXX0=
 -->
