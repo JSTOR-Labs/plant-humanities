@@ -75,7 +75,7 @@ Henderson’s design for _Anatomy of the Sunflower_ also articulates Linnaeus’
 <param ve-entity eid="Q103129" title="stamen" aliases="stamen(s)"> 
 <param ve-entity eid="Q62779" title="pistil" aliases="pistil(s)">  
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
-<param ve-image manifest="https://iiif.lib.harvard.edu/manifests/drs:459932907" seq="143">
+<param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Muller_Humboldt%20University%20Berlin.jpg" title="Johann Sebastian Müller">
 
 ### Sun-Shaped though Not Necessarily Golden
 
@@ -137,11 +137,11 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1MzM0MDYzLDE2NDY4NTYyMjgsMTA2Mz
-gzNzMzNiwxNzU4Nzg2Nzc3LDExNjM1MzAzMTQsLTEzMTA5NDUz
-ODYsMTA1MTk3NDE4OCwzMjI0OTcxODIsNTk3NjY3MTAwLDE2Mj
-E1MzgzNzAsMTM2MDEyNjUxMSwtMzI5NjcyNjY2LC0xODk3MzY3
-NzYsMTE5MDkxMTA2NCwtMjEzMTcxNDc1OSwyNDgzMDM2MCwxMD
-MyNjIyMTE5LC0xMDMwMTU2Mjg2LC0xNjM5ODM2Nzk0LC0xNDQ4
-Mzc5NDcxXX0=
+eyJoaXN0b3J5IjpbLTMxNjQ4NzQ4MCw4ODUzMzQwNjMsMTY0Nj
+g1NjIyOCwxMDYzODM3MzM2LDE3NTg3ODY3NzcsMTE2MzUzMDMx
+NCwtMTMxMDk0NTM4NiwxMDUxOTc0MTg4LDMyMjQ5NzE4Miw1OT
+c2NjcxMDAsMTYyMTUzODM3MCwxMzYwMTI2NTExLC0zMjk2NzI2
+NjYsLTE4OTczNjc3NiwxMTkwOTExMDY0LC0yMTMxNzE0NzU5LD
+I0ODMwMzYwLDEwMzI2MjIxMTksLTEwMzAxNTYyODYsLTE2Mzk4
+MzY3OTRdfQ==
 -->
