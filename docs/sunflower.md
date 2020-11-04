@@ -32,6 +32,10 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 
 <param ve-image iiif region="3006,1130,568,540"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
+The history of the sunflower  is enmeshed with mobility that can be charted through the study of plant remains and visual representations, among other sources. The earliest known sunflower remains—charred seeds—tell us that humans used domesticated _Helianthus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, humans transported wild sunflowers to their campsites, where they became stabilized and later cultivated. That movement was central to plant cultivation and evolution through processes of human selection. Still, there is some debate about when domesticated sunflowers were used in present-day Mexico, and whether the plant was cultivated there independently from North America.
+
+<param ve-image iiif region="3006,1130,568,540"
+url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 The provenance of the sunflowers grown in Eichstätt’s garden and the history the genus _Helianthus_ can be traced back to <span data-click-image-zoomto="1012,783,1953,1859"> North  America </span>. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico. The earliest known sunflower remains—charred seeds—tell us that humans used cultivated _H. annuus_ in specific regions of North America by 3000 BP (before present). The radiant plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden.
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
@@ -136,11 +140,11 @@ ADD CONCLUSION HERE
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzM2OTk3OSwzNDUxOTYzMjAsODg1Mz
-M0MDYzLDE2NDY4NTYyMjgsMTA2MzgzNzMzNiwxNzU4Nzg2Nzc3
-LDExNjM1MzAzMTQsLTEzMTA5NDUzODYsMTA1MTk3NDE4OCwzMj
-I0OTcxODIsNTk3NjY3MTAwLDE2MjE1MzgzNzAsMTM2MDEyNjUx
-MSwtMzI5NjcyNjY2LC0xODk3MzY3NzYsMTE5MDkxMTA2NCwtMj
-EzMTcxNDc1OSwyNDgzMDM2MCwxMDMyNjIyMTE5LC0xMDMwMTU2
-Mjg2XX0=
+eyJoaXN0b3J5IjpbNjQ3NjcxNzU5LDE4MTMzNjk5NzksMzQ1MT
+k2MzIwLDg4NTMzNDA2MywxNjQ2ODU2MjI4LDEwNjM4MzczMzYs
+MTc1ODc4Njc3NywxMTYzNTMwMzE0LC0xMzEwOTQ1Mzg2LDEwNT
+E5NzQxODgsMzIyNDk3MTgyLDU5NzY2NzEwMCwxNjIxNTM4Mzcw
+LDEzNjAxMjY1MTEsLTMyOTY3MjY2NiwtMTg5NzM2Nzc2LDExOT
+A5MTEwNjQsLTIxMzE3MTQ3NTksMjQ4MzAzNjAsMTAzMjYyMjEx
+OV19
 -->
