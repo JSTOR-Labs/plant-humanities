@@ -52,7 +52,7 @@ The history of the sunflower is enmeshed with the mobility of people, plant mate
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
-Spaniards, arriving in the Americas in the 1490s, were eager to collect exotic plants. They were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities and status symbols. Sometime European plant hunters drew on indigenous peoples’ knowledge about local flora to identify what to send back to Europe. There, physicians and scholars would study and grow the plants in botanical gardens, writing descriptions of them for dissemination in books. Nicolas Monardes, in _Dos Libros_ (1565), was the first European to describe the sunflower, and Rembert Dodoens produced the first book, in _Florum, et Coronariarum_, that contained an illustration of the plant. That woodcut, shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock.
+Spaniards, arriving in the Americas in the 1490s, were eager to collect exotic plants. They were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities and status symbols. Sometime European plant hunters drew on indigenous peoples’ knowledge about local flora to identify what to send back to Europe. There, physicians and scholars would study and grow the plants in botanical gardens, writing descriptions of them for dissemination in books. Nicolas Monardes, in _Dos Libros_ (1565), was the first European to describe the sunflower, and Rembert Dodoens produced the first book, in _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_, that contained an illustration of the plant. That woodcut, shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock.
 <param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
 In the 1500s, the Spanish collected and transported the sunflower back to Europe, where it was traded it in botanical networks and primarily grown as an ornamental. The sunflower depicted in Besler’s _Hortus Eystettensis_ was drawn from plants cultivated in Eichstätt, Bavaria, in the 1600s. Those flowers were likely obtained through the Spanish who collected them from Central or South America—regions to which the sunflower was introduced by Native North Americans.
@@ -136,7 +136,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyNjUzNzcwLDU5NzY2NzEwMCwxNjIxNT
+eyJoaXN0b3J5IjpbMzIyNDk3MTgyLDU5NzY2NzEwMCwxNjIxNT
 M4MzcwLDEzNjAxMjY1MTEsLTMyOTY3MjY2NiwtMTg5NzM2Nzc2
 LDExOTA5MTEwNjQsLTIxMzE3MTQ3NTksMjQ4MzAzNjAsMTAzMj
 YyMjExOSwtMTAzMDE1NjI4NiwtMTYzOTgzNjc5NCwtMTQ0ODM3
