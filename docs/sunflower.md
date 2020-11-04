@@ -34,9 +34,9 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 The provenance of the sunflowers grown in Eichstätt’s garden and the history the genus _Helianthus_ can be traced back to North America. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico. The earliest known sunflower remains—charred seeds—tell us that humans used cultivated _H. annuus_ in specific regions of North America by 3000 BP (before present). 
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-Paleoethnobotanists, who study plant remains collected at sites, have determined that Native Americans were using cultivated sunflowers in parts of North America by YEAR. Charles B. Heiser, Jr. and Bruce D. Smith, both prominent botanists, have analyzed charred seeds found at a number of different sites in order to consider when and where humans cultivated sunflowers. Heiser SENTENCE. Smith found that Heiser’s finds still stand.
+The American botanist Charles B. Heiser Jr. conducted foundational research, in the 1940s, on the domestication of _H. annuus_ in North America. Heiser realized that because _H. annuus_ is not present outside of cultivation, it would be possible to use sunflower remains collected at prehistoric sites to study when and where species domestication occurred. He published a map similar to this one, at right, to show the distribution of wild, weed, and cultivated species at midcentury and the proximity of those regions to sites where seeds were found. That evidence and other sources led Heiser to hypothesize correctly that Native Americans used and transported wild sunflowers, introducing the plant to places where it became established and later cultivated.
 
-The plant is primarily cultivated today as an oil crop because its seeds are rich in nutrients and relatively low in fatty acids. After oil is extracted from seeds, the byproducts are repurposed for use as animal feed or, in the case of hulls, ground to produce roughage or fuel. Sunflower crops also provide seeds for confectionary food and birdfeed. Because sunflowers are able to extract harmful containments from soil and water, a process known as phytoremediation, they have been planted at the sites of the Chernobyl and Fukushima Daiichi disasters to absorb radiation. In addition to those uses, sunflowers are cultivated as ornamentals for domestic settings, and Native Americans use(d) the plant as a source of food, fuel, pigments, dye, medicine, and for ceremonial functions.
+In the 2010s, building on Heiser’s work, Bruce D. Smith developed a method to more precisely determine whether charred seeds recovered from six prehistoric sites came from wild or cultivated sunflowers based upon their size. That research and genetic analyses, conducted separately by other scientists, led Smith to conclude that _H. annuus_ was domesticated at an independent cultivation area in eastern North America between 5,000 and 3,800 years ago. Three other species native to North America—squash, marsh-elder, and chenopod—were also cultivated there during that timeframe.
 <param ve-entity eid="Q283180" title="phytoremediation"> 
 
 ### Plant Migration and Production of Knowledges
@@ -131,7 +131,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDY0MjQwMCwtMTg5NzM2Nzc2LDExOT
+eyJoaXN0b3J5IjpbMTU3MjI0ODU3MywtMTg5NzM2Nzc2LDExOT
 A5MTEwNjQsLTIxMzE3MTQ3NTksMjQ4MzAzNjAsMTAzMjYyMjEx
 OSwtMTAzMDE1NjI4NiwtMTYzOTgzNjc5NCwtMTQ0ODM3OTQ3MS
 wxMTk0OTM4Nzc5LDE2NzY0Mzk0OTgsMTUzMDU2NDg1Miw5NzE0
