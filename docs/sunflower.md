@@ -53,7 +53,7 @@ The history of the sunflower is enmeshed with the mobility of people, plant mate
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
 Spaniards, arriving in the Americas in the 1490s, were eager to collect exotic plants. They were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities and status symbols. Sometime European plant hunters drew on indigenous peoples’ knowledge about local flora to identify what to send back to Europe. There, physicians and scholars would study and grow the plants in botanical gardens, writing descriptions of them for dissemination in books. Nicolas Monardes, in _Dos Libros_ (1565), was the first European to describe the sunflower, and Rembert Dodoens produced the first book, in _Florum, et Coronariarum_, that contained an illustration of the plant. That woodcut, shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock.
-<param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florvm, et coronariarvm odoratarvmqve nonnvllarvm herbarvm historia_, The Getty Research Institute">
+<param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
 In the 1500s, the Spanish collected and transported the sunflower back to Europe, where it was traded it in botanical networks and primarily grown as an ornamental. The sunflower depicted in Besler’s _Hortus Eystettensis_ was drawn from plants cultivated in Eichstätt, Bavaria, in the 1600s. Those flowers were likely obtained through the Spanish who collected them from Central or South America—regions to which the sunflower was introduced by Native North Americans.
 <param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
@@ -136,11 +136,11 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDMwMjI2NSw1OTc2NjcxMDAsMTYyMT
-UzODM3MCwxMzYwMTI2NTExLC0zMjk2NzI2NjYsLTE4OTczNjc3
-NiwxMTkwOTExMDY0LC0yMTMxNzE0NzU5LDI0ODMwMzYwLDEwMz
-I2MjIxMTksLTEwMzAxNTYyODYsLTE2Mzk4MzY3OTQsLTE0NDgz
-Nzk0NzEsMTE5NDkzODc3OSwxNjc2NDM5NDk4LDE1MzA1NjQ4NT
-IsOTcxNDA3NDc3LC0xNTYxMDEzNTM0LC0yMDU5MjM4MTk3LC0y
-MjE5NjM3MzBdfQ==
+eyJoaXN0b3J5IjpbMjgyNjUzNzcwLDU5NzY2NzEwMCwxNjIxNT
+M4MzcwLDEzNjAxMjY1MTEsLTMyOTY3MjY2NiwtMTg5NzM2Nzc2
+LDExOTA5MTEwNjQsLTIxMzE3MTQ3NTksMjQ4MzAzNjAsMTAzMj
+YyMjExOSwtMTAzMDE1NjI4NiwtMTYzOTgzNjc5NCwtMTQ0ODM3
+OTQ3MSwxMTk0OTM4Nzc5LDE2NzY0Mzk0OTgsMTUzMDU2NDg1Mi
+w5NzE0MDc0NzcsLTE1NjEwMTM1MzQsLTIwNTkyMzgxOTcsLTIy
+MTk2MzczMF19
 -->
