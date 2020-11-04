@@ -104,7 +104,7 @@ Having dispelled several cultural myths about the sunflower, we now turn to anot
 <param ve-video title="Heliconia bihai 'Arawak' - (Lobster Claw), Herbarium Werdler" vid="pYiYzb1K450">
 
 Heliotropism in plants was observed by the ancient Greeks and this phenomenon is a central conceit in the myth of Clytie and Helios. Explain the myth. The associations of the sunflower in this narrative with notions of WHAT proved influential in Western European art and culture. Introduce idea of constancy and then connect to heliotropism. Interpret print. Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers
-<param ve-image fit="contain" primary url="https://lh3.googleusercontent.com/qDeKSxUXTlI2Km6XumTC8vAZ50U6qYlvk_rb6Qfq1BF3qI5yXGtfhOwK6Cpaj57_0VV8YYBVmwdWvTBOIXtQPJ7bXc4=s0" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
+<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 
@@ -137,11 +137,11 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Njg1NjIyOCwxMDYzODM3MzM2LDE3NT
-g3ODY3NzcsMTE2MzUzMDMxNCwtMTMxMDk0NTM4NiwxMDUxOTc0
-MTg4LDMyMjQ5NzE4Miw1OTc2NjcxMDAsMTYyMTUzODM3MCwxMz
-YwMTI2NTExLC0zMjk2NzI2NjYsLTE4OTczNjc3NiwxMTkwOTEx
-MDY0LC0yMTMxNzE0NzU5LDI0ODMwMzYwLDEwMzI2MjIxMTksLT
-EwMzAxNTYyODYsLTE2Mzk4MzY3OTQsLTE0NDgzNzk0NzEsMTE5
-NDkzODc3OV19
+eyJoaXN0b3J5IjpbODg1MzM0MDYzLDE2NDY4NTYyMjgsMTA2Mz
+gzNzMzNiwxNzU4Nzg2Nzc3LDExNjM1MzAzMTQsLTEzMTA5NDUz
+ODYsMTA1MTk3NDE4OCwzMjI0OTcxODIsNTk3NjY3MTAwLDE2Mj
+E1MzgzNzAsMTM2MDEyNjUxMSwtMzI5NjcyNjY2LC0xODk3MzY3
+NzYsMTE5MDkxMTA2NCwtMjEzMTcxNDc1OSwyNDgzMDM2MCwxMD
+MyNjIyMTE5LC0xMDMwMTU2Mjg2LC0xNjM5ODM2Nzk0LC0xNDQ4
+Mzc5NDcxXX0=
 -->
