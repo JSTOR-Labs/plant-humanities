@@ -30,20 +30,14 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 
 ### Range and Cultivation
 
-<param ve-image iiif region="3006,1130,568,540"
-url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 The history of the sunflower  is enmeshed with mobility that can be charted through the study of plant remains and visual representations, among other sources. The earliest known sunflower remains—charred seeds—tell us that humans used domesticated _Helianthus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, humans transported wild sunflowers to their campsites, where they became stabilized and later cultivated. That movement was central to plant cultivation and evolution through processes of human selection. Still, there is some debate about when domesticated sunflowers were used in present-day Mexico, and whether the plant was cultivated there independently from North America.
+<param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
+
+Botanical illustrations allow us to map the introduction of the sunflower from the Americas to Europe during the colonial period. The Spanish, who arrived in the Americas in 1492, were the first to transport sunflower seeds overseas to Europe. Indeed, the Spanish physician and botanist Nicolas Monardes was the first European to describe the sunflower. He based that description, in his _Dos Libros_ (1565), on plants that were grown at his botanical garden at Seville. The Spanish, like other Europeans, eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as extractive colonialism, often involved violent confrontations with indigenous inhabitants.
 
 <param ve-image iiif region="3006,1130,568,540"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 The provenance of the sunflowers grown in Eichstätt’s garden and the history the genus _Helianthus_ can be traced back to <span data-click-image-zoomto="1012,783,1953,1859"> North  America </span>. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico. The earliest known sunflower remains—charred seeds—tell us that humans used cultivated _H. annuus_ in specific regions of North America by 3000 BP (before present). The radiant plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden.
-
-<param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-The American botanist Charles B. Heiser Jr. conducted foundational research, in the 1940s, on the domestication of _H. annuus_ in North America. Heiser realized that because _H. annuus_ is not present outside of cultivation, it would be possible to use sunflower remains collected at prehistoric sites to study when and where species domestication occurred. He published a map similar to this one, at right, to show the distribution of wild, weed, and cultivated species at midcentury and the proximity of those regions to sites where seeds were found. That evidence and other sources led Heiser to hypothesize correctly that Native Americans used and transported wild sunflowers, introducing the plant to places where it became established and later cultivated.
-<param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
-
-In the 2010s, building on Heiser’s work, Bruce D. Smith developed a method to more precisely determine whether charred seeds recovered from six prehistoric sites came from wild or cultivated sunflowers based upon their size. That research and genetic analyses, conducted separately by other scientists, led Smith to conclude that _H. annuus_ was domesticated at an independent cultivation area in eastern North America between 5,000 and 3,800 years ago. Three other species native to North America—squash, marsh-elder, and chenopod—were also cultivated there during that timeframe.
-<param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 ### Plant Mobility, Knowledges, and Visual Representations
 
@@ -140,7 +134,7 @@ ADD CONCLUSION HERE
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3NjcxNzU5LDE4MTMzNjk5NzksMzQ1MT
+eyJoaXN0b3J5IjpbMzY3NTc4MTk1LDE4MTMzNjk5NzksMzQ1MT
 k2MzIwLDg4NTMzNDA2MywxNjQ2ODU2MjI4LDEwNjM4MzczMzYs
 MTc1ODc4Njc3NywxMTYzNTMwMzE0LC0xMzEwOTQ1Mzg2LDEwNT
 E5NzQxODgsMzIyNDk3MTgyLDU5NzY2NzEwMCwxNjIxNTM4Mzcw
