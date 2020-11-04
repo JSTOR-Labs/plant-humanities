@@ -51,7 +51,7 @@ The history of the sunflower is enmeshed with the mobility of people, plant mate
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
-<param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
+<param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
 Spaniards, arriving in the Americas in the 1490s, were eager to collect exotic plants. They were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities and status symbols. Sometime European plant hunters drew on indigenous peoples’ knowledge about local flora to identify what to send back to Europe. There, physicians and scholars would study and grow the plants in botanical gardens, writing descriptions of them for dissemination in books. Nicolas Monardes, in _Dos Libros_ (1565), was the first European to describe the sunflower, and Rembert Dodoens produced the first book, in _Florum, et Coronariarum_, that contained an illustration of the plant. That woodcut, shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock.
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
@@ -136,7 +136,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMyNDc0MCwxNjIxNTM4MzcwLDEzNj
+eyJoaXN0b3J5IjpbLTU4NzE5MjIyNiwxNjIxNTM4MzcwLDEzNj
 AxMjY1MTEsLTMyOTY3MjY2NiwtMTg5NzM2Nzc2LDExOTA5MTEw
 NjQsLTIxMzE3MTQ3NTksMjQ4MzAzNjAsMTAzMjYyMjExOSwtMT
 AzMDE1NjI4NiwtMTYzOTgzNjc5NCwtMTQ0ODM3OTQ3MSwxMTk0
