@@ -32,9 +32,7 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 
 <param ve-image iiif region="3006,1130,568,540"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
-The provenance of the sunflowers grown in Eichstätt’s garden and the history the genus _Helianthus_ can be traced back to <```
-span data-click-image-zoomto=
-North 1012,783,1953,1859 America>. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico. The earliest known sunflower remains—charred seeds—tell us that humans used cultivated _H. annuus_ in specific regions of North America by 3000 BP (before present). 
+The provenance of the sunflowers grown in Eichstätt’s garden and the history the genus _Helianthus_ can be traced back to <span data-click-image-zoomto="1012,783,1953,1859"> North  America </span>. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico. The earliest known sunflower remains—charred seeds—tell us that humans used cultivated _H. annuus_ in specific regions of North America by 3000 BP (before present). 
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
 The American botanist Charles B. Heiser Jr. conducted foundational research, in the 1940s, on the domestication of _H. annuus_ in North America. Heiser realized that because _H. annuus_ is not present outside of cultivation, it would be possible to use sunflower remains collected at prehistoric sites to study when and where species domestication occurred. He published a map similar to this one, at right, to show the distribution of wild, weed, and cultivated species at midcentury and the proximity of those regions to sites where seeds were found. That evidence and other sources led Heiser to hypothesize correctly that Native Americans used and transported wild sunflowers, introducing the plant to places where it became established and later cultivated.
@@ -138,7 +136,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0MzM1MzQxLDE2MjE1MzgzNzAsMTM2MD
+eyJoaXN0b3J5IjpbNTk3NjY3MTAwLDE2MjE1MzgzNzAsMTM2MD
 EyNjUxMSwtMzI5NjcyNjY2LC0xODk3MzY3NzYsMTE5MDkxMTA2
 NCwtMjEzMTcxNDc1OSwyNDgzMDM2MCwxMDMyNjIyMTE5LC0xMD
 MwMTU2Mjg2LC0xNjM5ODM2Nzk0LC0xNDQ4Mzc5NDcxLDExOTQ5
