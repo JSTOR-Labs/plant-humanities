@@ -58,7 +58,7 @@ Our familiarity with the sunflower, both real and represented, may lead us to ov
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Helianthus whirl, attributed to L. Shyamal © Creative Commons Attribution-Share Alike 2.5">
 
-This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies a sophisticated understanding of the plant. Henderson shows a partial view of two mature plants—one facing back, and the other nearly front—to communicate valuable information about their dorsal and ventral anatomical structures, while taking some aesthetic liberties to imbue the flower heads with a sense of movement and vitality. <span data-click-image-zoomto="668,1877,4149,3588">At the center of the left flower,</span> a series of green scallop- and flame-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to the <span data-click-image-zoomto="568,209,1290,1100">opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets. These details remind us that the study of art and flora are endeavors rooted in the practices of direct observation and visual analysis.
+This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies a sophisticated understanding of the plant. Henderson shows a partial view of two mature plants—one facing back, and the other nearly front—to communicate valuable information about their dorsal and ventral anatomical structures, while taking some aesthetic liberties to imbue the flower heads with a sense of movement and vitality. <span data-click-image-zoomto="668,1877,4149,3588">At the center of the left flower,</span> a series of green scallop- and flame-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to the <span data-click-image-zoomto="1448,813,4149,3588">opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets. These details remind us that the study of art and flora are endeavors rooted in the practices of direct observation and visual analysis.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
 Henderson’s design for _Anatomy of the Sunflower_ also articulates Linnaeus’s contributions to botany as they relate to _Helianthus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the lower right corner of Anatomy of the Sunflower, where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book _[New illustration of the sexual system of Carolus von Linnaeus](http://id.lib.harvard.edu/alma/990075420710203941/catalog)_. Thornton’s “new” book was distinct from an earlier publication on Linnaeus by John Miller, whose print _Helianthus annuus_ served as the inspiration for or shared the same model as Henderson’s.
@@ -133,11 +133,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Mjc3MTY1MCwtMTUzNTc0NTY5NiwtMT
-M4OTg5NjksMTM2ODE4NDM1OSwtNjk4NjYwMDU0LDE4MjcyNzc5
-NDMsLTEwMjk1Mjc5ODIsLTY2NTM0NjA1MCwxODEzMzY5OTc5LD
-M0NTE5NjMyMCw4ODUzMzQwNjMsMTY0Njg1NjIyOCwxMDYzODM3
-MzM2LDE3NTg3ODY3NzcsMTE2MzUzMDMxNCwtMTMxMDk0NTM4Ni
-wxMDUxOTc0MTg4LDMyMjQ5NzE4Miw1OTc2NjcxMDAsMTYyMTUz
-ODM3MF19
+eyJoaXN0b3J5IjpbODMyODU4ODE1LC0xNTM1NzQ1Njk2LC0xMz
+g5ODk2OSwxMzY4MTg0MzU5LC02OTg2NjAwNTQsMTgyNzI3Nzk0
+MywtMTAyOTUyNzk4MiwtNjY1MzQ2MDUwLDE4MTMzNjk5NzksMz
+Q1MTk2MzIwLDg4NTMzNDA2MywxNjQ2ODU2MjI4LDEwNjM4Mzcz
+MzYsMTc1ODc4Njc3NywxMTYzNTMwMzE0LC0xMzEwOTQ1Mzg2LD
+EwNTE5NzQxODgsMzIyNDk3MTgyLDU5NzY2NzEwMCwxNjIxNTM4
+MzcwXX0=
 -->
