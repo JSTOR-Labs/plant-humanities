@@ -24,7 +24,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower that are still influential. A team of artists, etchers, printmakers, and colorists, working under Besler’s direction, produced the hand-tinted engraving of _H. annuus_, which presents a striking vision of the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stock with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. Those formal strategies were innovative for the time because they described the sunflower’s beauty rather than its medicinal or culinary properties, as in herbals. For those reasons, the portrait became an influential model for visualizing sunflower aesthetics.The picture placed new emphasis on the sunflower’s beauty, as opposed to its medicinal or culinary properties, as in herbals, manifesting a bold model for visualizing plant aesthetics that was groundbreaking for its time. The radiant plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden.
+Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower that are still influential. A team of artists, etchers, printmakers, and colorists, working under Besler’s direction, produced the hand-tinted engraving of _H. annuus_, which presents a striking vision of the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stock with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. Those formal strategies were innovative for the time because they described the sunflower’s beauty rather than its medicinal or culinary properties, as in herbals. For those reasons, the portrait became an influential model for visualizing sunflower aesthetics.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
@@ -32,7 +32,7 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 
 <param ve-image iiif region="3006,1130,568,540"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
-The provenance of the sunflowers grown in Eichstätt’s garden and the history the genus _Helianthus_ can be traced back to <span data-click-image-zoomto="1012,783,1953,1859"> North  America </span>. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico. The earliest known sunflower remains—charred seeds—tell us that humans used cultivated _H. annuus_ in specific regions of North America by 3000 BP (before present). 
+The provenance of the sunflowers grown in Eichstätt’s garden and the history the genus _Helianthus_ can be traced back to <span data-click-image-zoomto="1012,783,1953,1859"> North  America </span>. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico. The earliest known sunflower remains—charred seeds—tell us that humans used cultivated _H. annuus_ in specific regions of North America by 3000 BP (before present). The radiant plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden.
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
 The American botanist Charles B. Heiser Jr. conducted foundational research, in the 1940s, on the domestication of _H. annuus_ in North America. Heiser realized that because _H. annuus_ is not present outside of cultivation, it would be possible to use sunflower remains collected at prehistoric sites to study when and where species domestication occurred. He published a map similar to this one, at right, to show the distribution of wild, weed, and cultivated species at midcentury and the proximity of those regions to sites where seeds were found. That evidence and other sources led Heiser to hypothesize correctly that Native Americans used and transported wild sunflowers, introducing the plant to places where it became established and later cultivated.
@@ -136,11 +136,11 @@ ADD CONCLUSION HERE
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0NzIxMzE4LDM0NTE5NjMyMCw4ODUzMz
-QwNjMsMTY0Njg1NjIyOCwxMDYzODM3MzM2LDE3NTg3ODY3Nzcs
-MTE2MzUzMDMxNCwtMTMxMDk0NTM4NiwxMDUxOTc0MTg4LDMyMj
-Q5NzE4Miw1OTc2NjcxMDAsMTYyMTUzODM3MCwxMzYwMTI2NTEx
-LC0zMjk2NzI2NjYsLTE4OTczNjc3NiwxMTkwOTExMDY0LC0yMT
-MxNzE0NzU5LDI0ODMwMzYwLDEwMzI2MjIxMTksLTEwMzAxNTYy
-ODZdfQ==
+eyJoaXN0b3J5IjpbMTgxMzM2OTk3OSwzNDUxOTYzMjAsODg1Mz
+M0MDYzLDE2NDY4NTYyMjgsMTA2MzgzNzMzNiwxNzU4Nzg2Nzc3
+LDExNjM1MzAzMTQsLTEzMTA5NDUzODYsMTA1MTk3NDE4OCwzMj
+I0OTcxODIsNTk3NjY3MTAwLDE2MjE1MzgzNzAsMTM2MDEyNjUx
+MSwtMzI5NjcyNjY2LC0xODk3MzY3NzYsMTE5MDkxMTA2NCwtMj
+EzMTcxNDc1OSwyNDgzMDM2MCwxMDMyNjIyMTE5LC0xMDMwMTU2
+Mjg2XX0=
 -->
