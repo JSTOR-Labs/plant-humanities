@@ -68,14 +68,14 @@ Our familiarity with the sunflower, both real and represented, may lead us to ov
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Helianthus whirl, attributed to L. Shyamal © Creative Commons Attribution-Share Alike 2.5">
 
 This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies a sophisticated understanding of the plant. Henderson shows a partial view of two mature plants—one facing back, and the other nearly front—to communicate valuable information about their dorsal and ventral anatomical structures, while taking some aesthetic liberties to imbue the flower heads with a sense of movement and vitality. At the center of the left flower, a series of green scallop- and flame-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to the opposite flower. Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. A close look at the disk reveals a circular band composed of stylized representations of yellow, five-petaled florets. These details remind us that the study of art and flora are endeavors rooted in the practices of direct observation and visual analysis.
-<param ve-image  manifest="[https://iiif.lib.harvard.edu/manifests/drs:459932907" seq="143"  
-">
+<param ve-image manifest="https://iiif.lib.harvard.edu/manifests/drs:459932907" seq="143">
 
 Henderson’s design for _Anatomy of the Sunflower_ also articulates Linnaeus’s contributions to botany as they relate to _Helianthus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the lower right corner of Anatomy of the Sunflower, where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book New illustration of the sexual system of Carolus von Linnaeus. Thornton’s “new” book was distinct from an earlier publication on Linnaeus by John Miller, whose print _Helianthus annuus_ served as the inspiration for or shared the same model as Henderson’s.
 <param ve-entity eid="Q5928444" title="Robert John Thornton">
 <param ve-entity eid="Q103129" title="stamen" aliases="stamen(s)"> 
 <param ve-entity eid="Q62779" title="pistil" aliases="pistil(s)">  
-<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/mee_heliconia_uaupensis_RoyalBotanicGardenKew.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
+<param ve-image primary manifest="https://iiif.lib.harvard.edu/manifests/drs:459932907" seq="143">
+<param ve-image manifest="https://iiif.lib.harvard.edu/manifests/drs:459932907" seq="143">
 
 ### Sun-Shaped though Not Necessarily Golden
 
@@ -137,7 +137,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjM2MTA2MSwzMjI0OTcxODIsNTk3Nj
+eyJoaXN0b3J5IjpbMTA1MTk3NDE4OCwzMjI0OTcxODIsNTk3Nj
 Y3MTAwLDE2MjE1MzgzNzAsMTM2MDEyNjUxMSwtMzI5NjcyNjY2
 LC0xODk3MzY3NzYsMTE5MDkxMTA2NCwtMjEzMTcxNDc1OSwyND
 gzMDM2MCwxMDMyNjIyMTE5LC0xMDMwMTU2Mjg2LC0xNjM5ODM2
