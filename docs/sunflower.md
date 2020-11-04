@@ -39,7 +39,7 @@ The American botanist Charles B. Heiser Jr. conducted foundational research, in 
 In the 2010s, building on Heiser’s work, Bruce D. Smith developed a method to more precisely determine whether charred seeds recovered from six prehistoric sites came from wild or cultivated sunflowers based upon their size. That research and genetic analyses, conducted separately by other scientists, led Smith to conclude that _H. annuus_ was domesticated at an independent cultivation area in eastern North America between 5,000 and 3,800 years ago. Three other species native to North America—squash, marsh-elder, and chenopod—were also cultivated there during that timeframe.
 <param ve-entity eid="Q283180" title="phytoremediation"> 
 
-### Plant Migration and Production of Knowledges
+### Plant Mobility, Knowledges, and Visual Representations
 
 Discussion of herbals and their importance for communicating information about plants.
 
@@ -131,7 +131,7 @@ ADD CONCLUSION HERE
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjI0ODU3MywtMTg5NzM2Nzc2LDExOT
+eyJoaXN0b3J5IjpbLTc2NDg2NjQ3MiwtMTg5NzM2Nzc2LDExOT
 A5MTEwNjQsLTIxMzE3MTQ3NTksMjQ4MzAzNjAsMTAzMjYyMjEx
 OSwtMTAzMDE1NjI4NiwtMTYzOTgzNjc5NCwtMTQ0ODM3OTQ3MS
 wxMTk0OTM4Nzc5LDE2NzY0Mzk0OTgsMTUzMDU2NDg1Miw5NzE0
