@@ -48,7 +48,7 @@ That woodcut, Dodoens’s _Florum, et Coronariarum_ shown at right and designed 
 Botanical illustrations provide vital information about not only the movement of actual plants, but also the transmission and dissemination of ideas. The sunflower depicted in Besler’s _Hortus Eystettensis_ was drawn from plants cultivated in Eichstätt, Bavaria, in the 1600s. The bold plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden. The book was translated into English _[Joyfull Newes out of the Newe Founde Worlde](https://www.biodiversitylibrary.org/page/7770654)_ first published in 1577. Another publication based on Monardes was Francisco Hernández's _Rerum medicarum Novae Hispaniae_.
 <param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
 
-The Spanish, like other Europeans, eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
+Europeans eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
 <param ve-storiiies id="4f1ln">
 
 ### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
@@ -138,7 +138,7 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDgxMDUxMywzMTY3NDk5OTgsLTg2Mz
+eyJoaXN0b3J5IjpbMTQ2MjUwODQ1MSwzMTY3NDk5OTgsLTg2Mz
 k2NjA0MywtMTgxNDA2NjYyMywtMTkwMDA3MzY2MywtMTIxMTEw
 NjU0Myw2NTc1ODcxNjcsLTE1MDk0MDEzMzMsLTQ0MDE4MjY5MS
 wxOTg3NzUwODI0LC0xNTM1NzQ1Njk2LC0xMzg5ODk2OSwxMzY4
