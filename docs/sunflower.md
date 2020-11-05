@@ -109,8 +109,9 @@ Indigenous peoples of North America use(d) the plant in a variety of ways includ
 The Aesthetic Movement and reaction against mass production and industrialization. The sunflower and myth of Clytie still held in the production of furnishings and decorative objects for the domestic realm. 
 <param ve-image fit="contain" manifest="https://ids.si.edu/ids/manifest/SAAM-1991.107A-C_1">
 
-![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower.jpg){: .right}Aesthetic Movement (Britain); Gender; whiteness Walter Satterlee _[The Decorative Sisters](https://hdl.handle.net/2027/loc.ark:/13960/t84j1d31x)_
-<param ve-image fit="contain" url="https://images.nypl.org/index.php?id=488090&t=w" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
+Aesthetic Movement (Britain); Gender; whiteness Walter Satterlee _[The Decorative Sisters](https://hdl.handle.net/2027/loc.ark:/13960/t84j1d31x)_
+<param ve-image primary fit="contain" url="https://images.nypl.org/index.php?id=488090&t=w" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
+<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
 
 <param ve-entity eid="Q30875" title="Oscar Wilde">
 Popularized motif in decoration of designed objects for everyday use. These objects often used in the home, a feminine domain, become associated with gender. Sunflower is forced on Oscar Wilde.
@@ -137,11 +138,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzMDU1NDQ3LC0xOTAwMDczNjYzLC0xMj
-ExMTA2NTQzLDY1NzU4NzE2NywtMTUwOTQwMTMzMywtNDQwMTgy
-NjkxLDE5ODc3NTA4MjQsLTE1MzU3NDU2OTYsLTEzODk4OTY5LD
-EzNjgxODQzNTksLTY5ODY2MDA1NCwxODI3Mjc3OTQzLC0xMDI5
-NTI3OTgyLC02NjUzNDYwNTAsMTgxMzM2OTk3OSwzNDUxOTYzMj
-AsODg1MzM0MDYzLDE2NDY4NTYyMjgsMTA2MzgzNzMzNiwxNzU4
-Nzg2Nzc3XX0=
+eyJoaXN0b3J5IjpbLTE4MTQwNjY2MjMsLTE5MDAwNzM2NjMsLT
+EyMTExMDY1NDMsNjU3NTg3MTY3LC0xNTA5NDAxMzMzLC00NDAx
+ODI2OTEsMTk4Nzc1MDgyNCwtMTUzNTc0NTY5NiwtMTM4OTg5Nj
+ksMTM2ODE4NDM1OSwtNjk4NjYwMDU0LDE4MjcyNzc5NDMsLTEw
+Mjk1Mjc5ODIsLTY2NTM0NjA1MCwxODEzMzY5OTc5LDM0NTE5Nj
+MyMCw4ODUzMzQwNjMsMTY0Njg1NjIyOCwxMDYzODM3MzM2LDE3
+NTg3ODY3NzddfQ==
 -->
