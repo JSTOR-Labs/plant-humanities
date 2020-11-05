@@ -39,14 +39,17 @@ Although there is some debate about when domesticated sunflowers were used in pr
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
 The Spanish were the first people to transport sunflower seeds overseas during the European colonial period. In the absence of those plant remains, we can use visual and verbal accounts of the sunflower to map its introduction to parts of Spain and elsewhere in Europe. Nicolas Monardes, in his _Dos Libros_ (1565), published the first description of the sunflower by a European, working from a flower grown at his botanical garden in Seville. However, the first book that contained an illustration of the plant was Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568); it portrayed an exotic sunflower grown by Johannes Brancio in Mechelen.
-<param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
+<param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
 That woodcut, Dodoens’s _Florum, et Coronariarum_ shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock. “QUOTE”.
 <param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
-Botanical illustrations provide vital information about not only the movement of actual plants, but also the transmission and dissemination of ideas. The sunflower depicted in Besler’s _Hortus Eystettensis_ was drawn from plants cultivated in Eichstätt, Bavaria, in the 1600s. The bold plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden. The book was translated into English _[Joyfull Newes out of the Newe Founde Worlde](https://www.biodiversitylibrary.org/page/7770654)_ first published in 1577. Another publication based on Monardes was Francisco Hernández's _Rerum medicarum Novae Hispaniae_.
+Botanical illustrations provide vital information about not only the movement of actual plants, but also the transmission and dissemination of ideas. The sunflower depicted in Besler’s _Hortus Eystettensis_ was drawn from plants cultivated in Eichstätt, Bavaria, in the 1600s. The bold plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden. 
 <param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
+
+The book was translated into English _[Joyfull Newes out of the Newe Founde Worlde](https://www.biodiversitylibrary.org/page/7770654)_ first published in 1577. Another publication based on Monardes was Francisco Hernández's _Rerum medicarum Novae Hispaniae_.
+<param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 
 Europeans eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
 <param ve-storiiies id="4f1ln">
@@ -138,11 +141,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjUwODQ1MSwzMTY3NDk5OTgsLTg2Mz
-k2NjA0MywtMTgxNDA2NjYyMywtMTkwMDA3MzY2MywtMTIxMTEw
-NjU0Myw2NTc1ODcxNjcsLTE1MDk0MDEzMzMsLTQ0MDE4MjY5MS
-wxOTg3NzUwODI0LC0xNTM1NzQ1Njk2LC0xMzg5ODk2OSwxMzY4
-MTg0MzU5LC02OTg2NjAwNTQsMTgyNzI3Nzk0MywtMTAyOTUyNz
-k4MiwtNjY1MzQ2MDUwLDE4MTMzNjk5NzksMzQ1MTk2MzIwLDg4
-NTMzNDA2M119
+eyJoaXN0b3J5IjpbLTEzMjUxMTIwNTEsMzE2NzQ5OTk4LC04Nj
+M5NjYwNDMsLTE4MTQwNjY2MjMsLTE5MDAwNzM2NjMsLTEyMTEx
+MDY1NDMsNjU3NTg3MTY3LC0xNTA5NDAxMzMzLC00NDAxODI2OT
+EsMTk4Nzc1MDgyNCwtMTUzNTc0NTY5NiwtMTM4OTg5NjksMTM2
+ODE4NDM1OSwtNjk4NjYwMDU0LDE4MjcyNzc5NDMsLTEwMjk1Mj
+c5ODIsLTY2NTM0NjA1MCwxODEzMzY5OTc5LDM0NTE5NjMyMCw4
+ODUzMzQwNjNdfQ==
 -->
