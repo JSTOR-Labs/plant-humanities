@@ -33,8 +33,11 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 The history of the sunflower  is enmeshed with mobility, and we can chart that movement at different moments by using maps to study plant remains or visual representations. The earliest known sunflower remains—charred seeds—tell us that humans used domesticated _Helianthus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated through human selection. That movement of seeds and plant materials was essential to sunflower evolution.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
+Although there is some debate about when domesticated sunflowers were used in present-day Mexico, and whether the plant was cultivated there independently from sites in North America, it was introduced to parts of Central and South America by the time that the Spanish arrived there during the European colonial period.
+<param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
+
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
-Botanical illustrations allow us to map the introduction of the sunflower from the Americas to Europe during the colonial period. The Spanish, who arrived in the Americas in 1492, were the first to transport sunflower seeds overseas to Europe. Indeed, the Spanish physician and botanist Nicolas Monardes was the first European to describe the sunflower. He based that description, in his _Dos Libros_ (1565), on plants that were grown at his botanical garden at Seville. The book was translated into English _[Joyfull Newes out of the Newe Founde Worlde](https://www.biodiversitylibrary.org/page/7770654)_ first published in 1577. Another publication based on Monardes was Francisco Hernández's _Rerum medicarum Novae Hispaniae_.
+The Spanish were the first people to transport sunflower seeds overseas during the European colonial period. In the absence of those plant remains, we can use visual and verbal accounts of the sunflower to map its introduction to parts of Spain and elsewhere in Europe. Nicolas Monardes, in his _Dos Libros_ (1565), published the first description of the sunflower by a European, working from a flower grown at his botanical garden in Seville. 
 <param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 
 The Spanish, like other Europeans, eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
@@ -46,7 +49,7 @@ Rembert Dodoens produced the first book, in _[Florum, et coronariarum](https://w
 <param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
 The provenance of the sunflowers grown in Eichstätt’s garden and the history the genus _Helianthus_ can be traced back to North  America. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico. The radiant plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden.
-The sunflower depicted in Besler’s _Hortus Eystettensis_ was drawn from plants cultivated in Eichstätt, Bavaria, in the 1600s. Those flowers were likely obtained through the Spanish who collected them from Central or South America—regions to which the sunflower was introduced by Native North Americans.
+The sunflower depicted in Besler’s _Hortus Eystettensis_ was drawn from plants cultivated in Eichstätt, Bavaria, in the 1600s. Those flowers were likely obtained through the Spanish who collected them from Central or South America—regions to which the sunflower was introduced by Native North Americans. The book was translated into English _[Joyfull Newes out of the Newe Founde Worlde](https://www.biodiversitylibrary.org/page/7770654)_ first published in 1577. Another publication based on Monardes was Francisco Hernández's _Rerum medicarum Novae Hispaniae_.
 <param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
 
 
@@ -138,7 +141,7 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUzMzYwMDEsLTg2Mzk2NjA0MywtMT
+eyJoaXN0b3J5IjpbLTIwMDI0MjQ5NTgsLTg2Mzk2NjA0MywtMT
 gxNDA2NjYyMywtMTkwMDA3MzY2MywtMTIxMTEwNjU0Myw2NTc1
 ODcxNjcsLTE1MDk0MDEzMzMsLTQ0MDE4MjY5MSwxOTg3NzUwOD
 I0LC0xNTM1NzQ1Njk2LC0xMzg5ODk2OSwxMzY4MTg0MzU5LC02
