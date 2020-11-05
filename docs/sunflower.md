@@ -48,11 +48,6 @@ That woodcut, Dodoens’s _Florum, et Coronariarum_ shown at right and designed 
 Botanical illustrations provide vital information about not only the movement of actual plants, but also the transmission and dissemination of ideas. The sunflower depicted in Besler’s _Hortus Eystettensis_ was drawn from plants cultivated in Eichstätt, Bavaria, in the 1600s. The bold plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden.
 <param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
 
-Francisco Hernández's _Rerum medicarum Novae Hispaniae_.
-<param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-<param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
-<param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
-
 Europeans eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
 <param ve-storiiies id="4f1ln">
 
@@ -140,10 +135,15 @@ ADD TEXT
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Sunflowers are a popular oil crop because their seeds are rich in nutrients and relatively low in fatty acids. After oil is extracted from seeds, the byproducts are repurposed for use as animal feed or, in the case of hulls, ground to produce roughage or fuel. Sunflower crops also provide seeds for confectionary food and birdfeed. In the X century, the sunflower became a favored oil crop in Russia because it was one of the few sources of protein that the Orthodox Church did not ban during Lent. Farmers in Russia bred a giant sunflower—NAME—that to increase seed yields. That species was introduced to North America in the mid twentieth century and it is the one most widely cultivated there today. In addition to those uses, sunflowers are cultivated as ornamentals for domestic settings, and EN Because sunflowers are able to extract harmful containments from soil and water, a process known as phytoremediation, they have been planted at the sites of the Chernobyl and Fukushima Daiichi disasters to absorb radiation.
 
+
+<param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
+<param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
+<param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
+
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjU0ODIwOCwxMzM5MDU5MTA3LC04Nz
+eyJoaXN0b3J5IjpbMTEzODg3MzQ5NiwxMzM5MDU5MTA3LC04Nz
 Y0ODc2NjgsLTEzMjUxMTIwNTEsMzE2NzQ5OTk4LC04NjM5NjYw
 NDMsLTE4MTQwNjY2MjMsLTE5MDAwNzM2NjMsLTEyMTExMDY1ND
 MsNjU3NTg3MTY3LC0xNTA5NDAxMzMzLC00NDAxODI2OTEsMTk4
