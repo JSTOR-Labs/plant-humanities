@@ -107,7 +107,6 @@ Indigenous peoples of North America use(d) the plant in a variety of ways includ
 ### Floral Cyphers: Portrayals of Gender, Sexual Identity, Race, and Class
 
 The Aesthetic Movement and reaction against mass production and industrialization. The sunflower and myth of Clytie still held in the production of furnishings and decorative objects for the domestic realm. 
-<param ve-image fit="contain" manifest="https://ids.si.edu/ids/manifest/SAAM-1991.107A-C_1">
 
 Aesthetic Movement (Britain); Gender; whiteness Walter Satterlee _[The Decorative Sisters](https://hdl.handle.net/2027/loc.ark:/13960/t84j1d31x)_
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=488090&t=w" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
@@ -137,11 +136,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDcyODUzMyw2NTc1ODcxNjcsLTE1MD
-k0MDEzMzMsLTQ0MDE4MjY5MSwxOTg3NzUwODI0LC0xNTM1NzQ1
-Njk2LC0xMzg5ODk2OSwxMzY4MTg0MzU5LC02OTg2NjAwNTQsMT
-gyNzI3Nzk0MywtMTAyOTUyNzk4MiwtNjY1MzQ2MDUwLDE4MTMz
-Njk5NzksMzQ1MTk2MzIwLDg4NTMzNDA2MywxNjQ2ODU2MjI4LD
-EwNjM4MzczMzYsMTc1ODc4Njc3NywxMTYzNTMwMzE0LC0xMzEw
-OTQ1Mzg2XX0=
+eyJoaXN0b3J5IjpbLTE3OTE3NTg4OTgsNjU3NTg3MTY3LC0xNT
+A5NDAxMzMzLC00NDAxODI2OTEsMTk4Nzc1MDgyNCwtMTUzNTc0
+NTY5NiwtMTM4OTg5NjksMTM2ODE4NDM1OSwtNjk4NjYwMDU0LD
+E4MjcyNzc5NDMsLTEwMjk1Mjc5ODIsLTY2NTM0NjA1MCwxODEz
+MzY5OTc5LDM0NTE5NjMyMCw4ODUzMzQwNjMsMTY0Njg1NjIyOC
+wxMDYzODM3MzM2LDE3NTg3ODY3NzcsMTE2MzUzMDMxNCwtMTMx
+MDk0NTM4Nl19
 -->
