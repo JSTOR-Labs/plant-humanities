@@ -111,7 +111,9 @@ The Aesthetic Movement and reaction against mass production and industrializatio
 
 Aesthetic Movement (Britain); Gender; whiteness Walter Satterlee _[The Decorative Sisters](https://hdl.handle.net/2027/loc.ark:/13960/t84j1d31x)_
 <param ve-image primary fit="contain" url="https://images.nypl.org/index.php?id=488090&t=w" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
-<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
+<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
+_The Sunflower_, 1866-1870, photograph, National Gallery of Art">
+<param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/dp/original/DPB882889.jpg" title="_Sunflower: Haughtiness_, from the series _Floral Beauties and Language of Flowers_ (N75) for Duke brand cigarettes, 1892, The Metropolitan Museum of Art, New York, The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick">
 
 <param ve-entity eid="Q30875" title="Oscar Wilde">
 Popularized motif in decoration of designed objects for everyday use. These objects often used in the home, a feminine domain, become associated with gender. Sunflower is forced on Oscar Wilde.
@@ -122,8 +124,6 @@ Racial caricatures of Oscar Wilde in US disparage him by depicting black persons
 <param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DP-15482-003.jpg" title="Unidentified Edgefield District potter, _Face Harvest Jug_, 19th century, The Metropolitan Museum of Art, New York, Purchase, Nancy Dunn Revocable Trust Gift, 2017">
 <param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DP-15482-007.jpg" title="Unidentified Edgefield District potter, _Face Harvest Jug_, 19th century, The Metropolitan Museum of Art, New York, Purchase, Nancy Dunn Revocable Trust Gift, 2017">
 
-Whiteness and gender
-<param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/dp/original/DPB882889.jpg" title="_Sunflower: Haughtiness_, from the series _Floral Beauties and Language of Flowers_ (N75) for Duke brand cigarettes, 1892, The Metropolitan Museum of Art, New York, The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick">
 
 ### Social Movements and Symbols of Hope
 
@@ -138,11 +138,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQwNjY2MjMsLTE5MDAwNzM2NjMsLT
-EyMTExMDY1NDMsNjU3NTg3MTY3LC0xNTA5NDAxMzMzLC00NDAx
-ODI2OTEsMTk4Nzc1MDgyNCwtMTUzNTc0NTY5NiwtMTM4OTg5Nj
-ksMTM2ODE4NDM1OSwtNjk4NjYwMDU0LDE4MjcyNzc5NDMsLTEw
-Mjk1Mjc5ODIsLTY2NTM0NjA1MCwxODEzMzY5OTc5LDM0NTE5Nj
-MyMCw4ODUzMzQwNjMsMTY0Njg1NjIyOCwxMDYzODM3MzM2LDE3
-NTg3ODY3NzddfQ==
+eyJoaXN0b3J5IjpbLTExNTcxODUwNTksLTE4MTQwNjY2MjMsLT
+E5MDAwNzM2NjMsLTEyMTExMDY1NDMsNjU3NTg3MTY3LC0xNTA5
+NDAxMzMzLC00NDAxODI2OTEsMTk4Nzc1MDgyNCwtMTUzNTc0NT
+Y5NiwtMTM4OTg5NjksMTM2ODE4NDM1OSwtNjk4NjYwMDU0LDE4
+MjcyNzc5NDMsLTEwMjk1Mjc5ODIsLTY2NTM0NjA1MCwxODEzMz
+Y5OTc5LDM0NTE5NjMyMCw4ODUzMzQwNjMsMTY0Njg1NjIyOCwx
+MDYzODM3MzM2XX0=
 -->
