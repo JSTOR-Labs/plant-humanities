@@ -8,10 +8,10 @@
 ### A Giant among Us
 <param ve-image fit="contain" url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-Sunflowers hold a special status in the natural world. Highly valued for their edible seeds and seed oil, they are one of the few crop plants to have originated in North America. They are also popular ornamentals, renowned for their yellow flower heads with round disks and, in some cases, imposing height. Indeed, in cultivation _Helianthus annuus_ (common sunflower) can grow up to sixteen feet tall, towering over us and other organisms. Yet, despite the relatively widespread cultivation of the sunflower and its iconic formal qualities, myths about the genus persist and these ideas have often shaped or been shaped by visual representations of the plant.
+Sunflowers hold a special status in the natural world. Highly valued for their edible seeds and seed oil, they are one of the few crop plants to have originated in North America. They are also popular ornamentals, renowned for their yellow flower heads with round disks and, in some cases, imposing height. Indeed, _Helianthus annuus_ (common sunflower) can grow up to sixteen feet tall, towering over us and other organisms. Yet, despite the relatively widespread cultivation of the sunflower and its iconic formal qualities, myths about the genus persist and these ideas have often shaped or been shaped by visual representations of the plant.
 
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
-European, American, and Native American portrayals of the sunflower can provide valuable historical information about the plant and about the role of visual culture in communicating knowledges, myths, and meanings related to it. Artists, working from the European colonial period to the present day, produced likenesses of the sunflower that often fulfilled scientific, aesthetic, ceremonial, commercial, and other functions. Although such artists developed conventions for representing the plant that were tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) helped to perpetuate several myths about sunflowers that are still held today, while sometimes also serving to uphold, challenge, or illuminate stereotypes pertaining to societal markers of difference.
+Portrayals of the sunflower can provide valuable historical information about the plant and about the role of visual culture in communicating knowledges, myths, and meanings related to it. European and American artists, working from the European colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing the plant that were tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) helped to perpetuate several myths about sunflowers that are still widely held today, while they sometimes also uphold, challenge, or illuminate stereotypes pertaining to societal markers of difference.
 
 ### Naming and Representing the Iconic Flower
 
@@ -138,11 +138,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Mzk2NjA0MywtMTgxNDA2NjYyMywtMT
-kwMDA3MzY2MywtMTIxMTEwNjU0Myw2NTc1ODcxNjcsLTE1MDk0
-MDEzMzMsLTQ0MDE4MjY5MSwxOTg3NzUwODI0LC0xNTM1NzQ1Nj
-k2LC0xMzg5ODk2OSwxMzY4MTg0MzU5LC02OTg2NjAwNTQsMTgy
-NzI3Nzk0MywtMTAyOTUyNzk4MiwtNjY1MzQ2MDUwLDE4MTMzNj
-k5NzksMzQ1MTk2MzIwLDg4NTMzNDA2MywxNjQ2ODU2MjI4LDEw
-NjM4MzczMzZdfQ==
+eyJoaXN0b3J5IjpbLTEyMTEyMjU4MTUsLTg2Mzk2NjA0MywtMT
+gxNDA2NjYyMywtMTkwMDA3MzY2MywtMTIxMTEwNjU0Myw2NTc1
+ODcxNjcsLTE1MDk0MDEzMzMsLTQ0MDE4MjY5MSwxOTg3NzUwOD
+I0LC0xNTM1NzQ1Njk2LC0xMzg5ODk2OSwxMzY4MTg0MzU5LC02
+OTg2NjAwNTQsMTgyNzI3Nzk0MywtMTAyOTUyNzk4MiwtNjY1Mz
+Q2MDUwLDE4MTMzNjk5NzksMzQ1MTk2MzIwLDg4NTMzNDA2Mywx
+NjQ2ODU2MjI4XX0=
 -->
