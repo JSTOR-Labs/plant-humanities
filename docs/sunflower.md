@@ -49,6 +49,7 @@ Botanical illustrations provide vital information about not only the movement of
 <param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
 
 The book was translated into English _[Joyfull Newes out of the Newe Founde Worlde](https://www.biodiversitylibrary.org/page/7770654)_ first published in 1577. Another publication based on Monardes was Francisco Hernández's _Rerum medicarum Novae Hispaniae_.
+<param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 
 Europeans eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
@@ -141,11 +142,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjUxMTIwNTEsMzE2NzQ5OTk4LC04Nj
-M5NjYwNDMsLTE4MTQwNjY2MjMsLTE5MDAwNzM2NjMsLTEyMTEx
-MDY1NDMsNjU3NTg3MTY3LC0xNTA5NDAxMzMzLC00NDAxODI2OT
-EsMTk4Nzc1MDgyNCwtMTUzNTc0NTY5NiwtMTM4OTg5NjksMTM2
-ODE4NDM1OSwtNjk4NjYwMDU0LDE4MjcyNzc5NDMsLTEwMjk1Mj
-c5ODIsLTY2NTM0NjA1MCwxODEzMzY5OTc5LDM0NTE5NjMyMCw4
-ODUzMzQwNjNdfQ==
+eyJoaXN0b3J5IjpbLTg3NjQ4NzY2OCwtMTMyNTExMjA1MSwzMT
+Y3NDk5OTgsLTg2Mzk2NjA0MywtMTgxNDA2NjYyMywtMTkwMDA3
+MzY2MywtMTIxMTEwNjU0Myw2NTc1ODcxNjcsLTE1MDk0MDEzMz
+MsLTQ0MDE4MjY5MSwxOTg3NzUwODI0LC0xNTM1NzQ1Njk2LC0x
+Mzg5ODk2OSwxMzY4MTg0MzU5LC02OTg2NjAwNTQsMTgyNzI3Nz
+k0MywtMTAyOTUyNzk4MiwtNjY1MzQ2MDUwLDE4MTMzNjk5Nzks
+MzQ1MTk2MzIwXX0=
 -->
