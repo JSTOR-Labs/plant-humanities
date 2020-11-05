@@ -48,7 +48,7 @@ That woodcut, Dodoens’s _Florum, et Coronariarum_ shown at right and designed 
 Botanical illustrations provide vital information about not only the movement of actual plants, but also the transmission and dissemination of ideas. The sunflower depicted in Besler’s _Hortus Eystettensis_ was drawn from plants cultivated in Eichstätt, Bavaria, in the 1600s. The bold plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden. 
 <param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
 
-The book was translated into English _[Joyfull Newes out of the Newe Founde Worlde](https://www.biodiversitylibrary.org/page/7770654)_ first published in 1577. Another publication based on Monardes was Francisco Hernández's _Rerum medicarum Novae Hispaniae_.
+Another publication based on Monardes was Francisco Hernández's _Rerum medicarum Novae Hispaniae_.
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
 <param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
@@ -143,11 +143,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTA1OTEwNywtODc2NDg3NjY4LC0xMz
-I1MTEyMDUxLDMxNjc0OTk5OCwtODYzOTY2MDQzLC0xODE0MDY2
-NjIzLC0xOTAwMDczNjYzLC0xMjExMTA2NTQzLDY1NzU4NzE2Ny
-wtMTUwOTQwMTMzMywtNDQwMTgyNjkxLDE5ODc3NTA4MjQsLTE1
-MzU3NDU2OTYsLTEzODk4OTY5LDEzNjgxODQzNTksLTY5ODY2MD
-A1NCwxODI3Mjc3OTQzLC0xMDI5NTI3OTgyLC02NjUzNDYwNTAs
-MTgxMzM2OTk3OV19
+eyJoaXN0b3J5IjpbMTM3MTAxMjIzOSwxMzM5MDU5MTA3LC04Nz
+Y0ODc2NjgsLTEzMjUxMTIwNTEsMzE2NzQ5OTk4LC04NjM5NjYw
+NDMsLTE4MTQwNjY2MjMsLTE5MDAwNzM2NjMsLTEyMTExMDY1ND
+MsNjU3NTg3MTY3LC0xNTA5NDAxMzMzLC00NDAxODI2OTEsMTk4
+Nzc1MDgyNCwtMTUzNTc0NTY5NiwtMTM4OTg5NjksMTM2ODE4ND
+M1OSwtNjk4NjYwMDU0LDE4MjcyNzc5NDMsLTEwMjk1Mjc5ODIs
+LTY2NTM0NjA1MF19
 -->
