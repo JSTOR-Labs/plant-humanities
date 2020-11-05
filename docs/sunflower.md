@@ -37,11 +37,8 @@ Although there is some debate about when domesticated sunflowers were used in pr
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
-The Spanish were the first people to transport sunflower seeds overseas during the European colonial period. In the absence of those plant remains, we can use visual and verbal accounts of the sunflower to map its introduction to parts of Spain and elsewhere in Europe. Nicolas Monardes, in his _Dos Libros_ (1565), published the first description of the sunflower by a European, working from a flower grown at his botanical garden in Seville. 
+The Spanish were the first people to transport sunflower seeds overseas during the European colonial period. In the absence of those plant remains, we can use visual and verbal accounts of the sunflower to map its introduction to parts of Spain and elsewhere in Europe. Nicolas Monardes, in his _Dos Libros_ (1565), published the first description of the sunflower by a European, working from a flower grown at his botanical garden in Seville. However, the first book that contained an illustration of the plant was Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568); it portrayed an exotic sunflower grown by Johannes Brancio in Mechelen.
 <param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
-
-The Spanish, like other Europeans, eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
-<param ve-storiiies id="4f1ln">
 
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
@@ -52,6 +49,8 @@ The provenance of the sunflowers grown in Eichstätt’s garden and the history 
 The sunflower depicted in Besler’s _Hortus Eystettensis_ was drawn from plants cultivated in Eichstätt, Bavaria, in the 1600s. Those flowers were likely obtained through the Spanish who collected them from Central or South America—regions to which the sunflower was introduced by Native North Americans. The book was translated into English _[Joyfull Newes out of the Newe Founde Worlde](https://www.biodiversitylibrary.org/page/7770654)_ first published in 1577. Another publication based on Monardes was Francisco Hernández's _Rerum medicarum Novae Hispaniae_.
 <param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
 
+The Spanish, like other Europeans, eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
+<param ve-storiiies id="4f1ln">
 
 ### Out of One, Many
 
@@ -141,11 +140,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI0MjQ5NTgsLTg2Mzk2NjA0MywtMT
-gxNDA2NjYyMywtMTkwMDA3MzY2MywtMTIxMTEwNjU0Myw2NTc1
-ODcxNjcsLTE1MDk0MDEzMzMsLTQ0MDE4MjY5MSwxOTg3NzUwOD
-I0LC0xNTM1NzQ1Njk2LC0xMzg5ODk2OSwxMzY4MTg0MzU5LC02
-OTg2NjAwNTQsMTgyNzI3Nzk0MywtMTAyOTUyNzk4MiwtNjY1Mz
-Q2MDUwLDE4MTMzNjk5NzksMzQ1MTk2MzIwLDg4NTMzNDA2Mywx
-NjQ2ODU2MjI4XX0=
+eyJoaXN0b3J5IjpbMTg2NjY4MTc1MSwtODYzOTY2MDQzLC0xOD
+E0MDY2NjIzLC0xOTAwMDczNjYzLC0xMjExMTA2NTQzLDY1NzU4
+NzE2NywtMTUwOTQwMTMzMywtNDQwMTgyNjkxLDE5ODc3NTA4Mj
+QsLTE1MzU3NDU2OTYsLTEzODk4OTY5LDEzNjgxODQzNTksLTY5
+ODY2MDA1NCwxODI3Mjc3OTQzLC0xMDI5NTI3OTgyLC02NjUzND
+YwNTAsMTgxMzM2OTk3OSwzNDUxOTYzMjAsODg1MzM0MDYzLDE2
+NDY4NTYyMjhdfQ==
 -->
