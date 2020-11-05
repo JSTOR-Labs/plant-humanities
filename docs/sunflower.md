@@ -51,6 +51,16 @@ Botanical illustrations provide vital information about not only the movement of
 The Spanish, like other Europeans, eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
 <param ve-storiiies id="4f1ln">
 
+### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
+
+Heliotropism in plants was observed by the ancient Greeks and this phenomenon is a central conceit in the myth of Clytie and Helios. Explain the myth. The associations of the sunflower in this narrative with notions of WHAT proved influential in Western European art and culture. Introduce idea of constancy and then connect to heliotropism. Interpret print. Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers
+<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
+<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
+
+<param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
+Having dispelled several cultural myths about the sunflower, we now turn to another. It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena, publishing their exciting findings in 2016.Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Widespread coverage of those findings by the media no doubt generated new excitement about the plant in recent years.
+<param ve-video title="Heliconia bihai 'Arawak' - (Lobster Claw), Herbarium Werdler" vid="pYiYzb1K450">
+
 ### Out of One, Many
 
 <param ve-entity eid="Q14847254" title="Compositae"> 
@@ -82,28 +92,17 @@ We may also be surprised to discover the diversity within the genus _Helianthus_
 <param ve-plant-specimen eid="Q12212017" max="1">
 <param ve-plant-specimen eid="Q146190" max="1">
 
+<param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
+<param ve-entity eid="Q108266" aliases="Diné" title="Navajo"> 
+Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun. Diné (Navajo) artists incorporate sunflower motifs and sometimes pollen into sandpainting ceremonies. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets.
+<param ve-image fit="contain" primary url="https://s3.amazonaws.com/PEM_artscape/e301826_painting_image/large.jpg" title="Bruce Hathale (Diné (Navajo)), _Big Gods on Whirling Logs, Big Godway. Guardian of Two Sunflower Plants_, early 1990s, acrylic on linen, Gift from James and Margie Krebs Collection of Native American Art, Peabody Essex Museum">
+<param ve-image fit="contain" url="https://s3.amazonaws.com/PEM_artscape/e37259_basket_image-01/large.jpg" title="Diné (Navajo) artist, _Wedding basket_, before 1890, Sumac, dye, Gift of Miss Bertha Kenny, 1960, Peabody Essex Museum">
 
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 Still life paintings provide another rich source of evidence regarding plant diversity, conveying information that cannot be preserved on herbarium sheets. Claude Monet's _Jerusalem artichoke_ presents an impression of _Helianthus tuberosus_ in which he studies how the eye perceives its color and form, whereas Vincent van Gogh's _Sunflowers_ engages with the tactile and emotive aspects of _Helianthus annuus_ by juxtaposing typical blossoms and double-flower mutants. The pictures not only show us different species, but also model for us a kind of aesthetic and phenomenological attentiveness to the plant world to which we ought to aspire.
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflowers%20Monet%20van%20Gogh%20CC.jpg" title="Claude Monet _Jerusalem artichoke_ 1880 (left), Vincent van Gogh, _Sunflower_, 1888, National Gallery London">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflowers%20compared%20to%20van%20Gogh%20painting.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
-
-### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
-
-<param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
-Having dispelled several cultural myths about the sunflower, we now turn to another. It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena, publishing their exciting findings in 2016.Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Widespread coverage of those findings by the media no doubt generated new excitement about the plant in recent years.
-<param ve-video title="Heliconia bihai 'Arawak' - (Lobster Claw), Herbarium Werdler" vid="pYiYzb1K450">
-
-Heliotropism in plants was observed by the ancient Greeks and this phenomenon is a central conceit in the myth of Clytie and Helios. Explain the myth. The associations of the sunflower in this narrative with notions of WHAT proved influential in Western European art and culture. Introduce idea of constancy and then connect to heliotropism. Interpret print. Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers
-<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
-<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
-
-<param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
-<param ve-entity eid="Q108266" aliases="Diné" title="Navajo"> 
-Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun. Diné (Navajo) artists incorporate sunflower motifs and sometimes pollen into sandpainting ceremonies. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets.
-<param ve-image fit="contain" primary url="https://s3.amazonaws.com/PEM_artscape/e301826_painting_image/large.jpg" title="Bruce Hathale (Diné (Navajo)), _Big Gods on Whirling Logs, Big Godway. Guardian of Two Sunflower Plants_, early 1990s, acrylic on linen, Gift from James and Margie Krebs Collection of Native American Art, Peabody Essex Museum">
-<param ve-image fit="contain" url="https://s3.amazonaws.com/PEM_artscape/e37259_basket_image-01/large.jpg" title="Diné (Navajo) artist, _Wedding basket_, before 1890, Sumac, dye, Gift of Miss Bertha Kenny, 1960, Peabody Essex Museum">
 
 ### Floral Cyphers: Portrayals of Gender, Sexual Identity, Race, and Class
 
@@ -139,11 +138,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDM2NjgzNzAsLTg2Mzk2NjA0MywtMT
-gxNDA2NjYyMywtMTkwMDA3MzY2MywtMTIxMTEwNjU0Myw2NTc1
-ODcxNjcsLTE1MDk0MDEzMzMsLTQ0MDE4MjY5MSwxOTg3NzUwOD
-I0LC0xNTM1NzQ1Njk2LC0xMzg5ODk2OSwxMzY4MTg0MzU5LC02
-OTg2NjAwNTQsMTgyNzI3Nzk0MywtMTAyOTUyNzk4MiwtNjY1Mz
-Q2MDUwLDE4MTMzNjk5NzksMzQ1MTk2MzIwLDg4NTMzNDA2Mywx
-NjQ2ODU2MjI4XX0=
+eyJoaXN0b3J5IjpbMzE2NzQ5OTk4LC04NjM5NjYwNDMsLTE4MT
+QwNjY2MjMsLTE5MDAwNzM2NjMsLTEyMTExMDY1NDMsNjU3NTg3
+MTY3LC0xNTA5NDAxMzMzLC00NDAxODI2OTEsMTk4Nzc1MDgyNC
+wtMTUzNTc0NTY5NiwtMTM4OTg5NjksMTM2ODE4NDM1OSwtNjk4
+NjYwMDU0LDE4MjcyNzc5NDMsLTEwMjk1Mjc5ODIsLTY2NTM0Nj
+A1MCwxODEzMzY5OTc5LDM0NTE5NjMyMCw4ODUzMzQwNjMsMTY0
+Njg1NjIyOF19
 -->
