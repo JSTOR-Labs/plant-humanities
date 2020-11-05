@@ -24,7 +24,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. A team of artists, etchers, printmakers, and colorists, working under Besler’s direction, produced the hand-tinted engraving of _H. annuus_, which presents a striking vision of the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stock with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. Those formal strategies were innovative for the time because they described the sunflower’s beauty rather than its medicinal or culinary properties, as in herbals. For those reasons, the portrait became an influential model for visualizing sunflower aesthetics.
+Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. A team of artists, etchers, printmakers, and colorists, working under Besler’s direction, produced the hand-tinted engraving of _H. annuus_, which presents a striking vision of the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stock with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. Those formal strategies were innovative for the time because they described the sunflower’s beauty rather than its medicinal or culinary properties, as in herbals. For those reasons, the portrait was an influential model for visualizing sunflower aesthetics.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 
@@ -143,11 +143,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxNTg5NTM5LC03MDkxNjA5NTAsMTc3Mj
-A0NjQ0LDEzMzkwNTkxMDcsLTg3NjQ4NzY2OCwtMTMyNTExMjA1
-MSwzMTY3NDk5OTgsLTg2Mzk2NjA0MywtMTgxNDA2NjYyMywtMT
-kwMDA3MzY2MywtMTIxMTEwNjU0Myw2NTc1ODcxNjcsLTE1MDk0
-MDEzMzMsLTQ0MDE4MjY5MSwxOTg3NzUwODI0LC0xNTM1NzQ1Nj
-k2LC0xMzg5ODk2OSwxMzY4MTg0MzU5LC02OTg2NjAwNTQsMTgy
-NzI3Nzk0M119
+eyJoaXN0b3J5IjpbLTMwMTQ2ODQzMSwtNzA5MTYwOTUwLDE3Nz
+IwNDY0NCwxMzM5MDU5MTA3LC04NzY0ODc2NjgsLTEzMjUxMTIw
+NTEsMzE2NzQ5OTk4LC04NjM5NjYwNDMsLTE4MTQwNjY2MjMsLT
+E5MDAwNzM2NjMsLTEyMTExMDY1NDMsNjU3NTg3MTY3LC0xNTA5
+NDAxMzMzLC00NDAxODI2OTEsMTk4Nzc1MDgyNCwtMTUzNTc0NT
+Y5NiwtMTM4OTg5NjksMTM2ODE4NDM1OSwtNjk4NjYwMDU0LDE4
+MjcyNzc5NDNdfQ==
 -->
