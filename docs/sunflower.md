@@ -37,12 +37,12 @@ Although there is some debate about when domesticated sunflowers were used in pr
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
+<param ve-entity eid="Q437466" title="Rembert Dodoens"> 
 The Spanish were the first people to transport sunflower seeds overseas during the European colonial period. In the absence of those plant remains, we can use visual and verbal accounts of the sunflower to map its introduction to parts of Spain and elsewhere in Europe. Nicolas Monardes, in his _Dos Libros_ (1565), published the first description of the sunflower by a European, working from a flower grown at his botanical garden in Seville. However, the first book that contained an illustration of the plant was Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568); it portrayed an exotic sunflower grown by Johannes Brancio in Mechelen.
 <param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 
-<param ve-entity eid="Q437466" title="Rembert Dodoens"> 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
-Rembert Dodoens produced the first book, in _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_, that contained an illustration of the plant. That woodcut, shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock.
+That woodcut, Dodoens’s _Florum, et Coronariarum_ shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock. “QUOTE”.
 <param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
 The provenance of the sunflowers grown in Eichstätt’s garden and the history the genus _Helianthus_ can be traced back to North  America. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico. The radiant plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden.
@@ -140,11 +140,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjY4MTc1MSwtODYzOTY2MDQzLC0xOD
-E0MDY2NjIzLC0xOTAwMDczNjYzLC0xMjExMTA2NTQzLDY1NzU4
-NzE2NywtMTUwOTQwMTMzMywtNDQwMTgyNjkxLDE5ODc3NTA4Mj
-QsLTE1MzU3NDU2OTYsLTEzODk4OTY5LDEzNjgxODQzNTksLTY5
-ODY2MDA1NCwxODI3Mjc3OTQzLC0xMDI5NTI3OTgyLC02NjUzND
-YwNTAsMTgxMzM2OTk3OSwzNDUxOTYzMjAsODg1MzM0MDYzLDE2
-NDY4NTYyMjhdfQ==
+eyJoaXN0b3J5IjpbMTg1ODM5MjI0LC04NjM5NjYwNDMsLTE4MT
+QwNjY2MjMsLTE5MDAwNzM2NjMsLTEyMTExMDY1NDMsNjU3NTg3
+MTY3LC0xNTA5NDAxMzMzLC00NDAxODI2OTEsMTk4Nzc1MDgyNC
+wtMTUzNTc0NTY5NiwtMTM4OTg5NjksMTM2ODE4NDM1OSwtNjk4
+NjYwMDU0LDE4MjcyNzc5NDMsLTEwMjk1Mjc5ODIsLTY2NTM0Nj
+A1MCwxODEzMzY5OTc5LDM0NTE5NjMyMCw4ODUzMzQwNjMsMTY0
+Njg1NjIyOF19
 -->
