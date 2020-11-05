@@ -61,7 +61,7 @@ Our familiarity with the sunflower, both real and represented, may lead us to ov
 This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies a sophisticated understanding of the plant. Henderson shows a partial view of two mature plants—one facing back, and the other nearly front—to communicate valuable information about their dorsal and ventral anatomical structures, while taking some aesthetic liberties to imbue the flower heads with a sense of movement and vitality. <span data-click-image-zoomto="982,2706,2213,1795">At the center of the left flower,</span> a series of green scallop- and flame-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets. These details remind us that the study of art and flora are endeavors rooted in the practices of direct observation and visual analysis.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
-Henderson’s design for _Anatomy of the Sunflower_ also articulates Linnaeus’s contributions to botany as they relate to _Helianthus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the <span data-click-image-zoomto="2862,4454,2123,1782">lower right corner of Anatomy of the Sunflower,</span> where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book _[New illustration of the sexual system of Carolus von Linnaeus](http://id.lib.harvard.edu/alma/990075420710203941/catalog)_.
+Henderson’s design for _Anatomy of the Sunflower_ also articulates Linnaeus’s contributions to botany as they relate to _Helianthus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the <span data-click-image-zoomto="2862,4454,2123,1782">lower right corner of _Anatomy of the Sunflower_,</span> where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book _[New illustration of the sexual system of Carolus von Linnaeus](http://id.lib.harvard.edu/alma/990075420710203941/catalog)_.
 <param ve-entity eid="Q5928444" title="Robert John Thornton">
 <param ve-entity eid="Q103129" title="stamen" aliases="stamen(s)"> 
 <param ve-entity eid="Q62779" title="pistil" aliases="pistil(s)">  
@@ -138,11 +138,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTcxODUwNTksLTE4MTQwNjY2MjMsLT
-E5MDAwNzM2NjMsLTEyMTExMDY1NDMsNjU3NTg3MTY3LC0xNTA5
-NDAxMzMzLC00NDAxODI2OTEsMTk4Nzc1MDgyNCwtMTUzNTc0NT
-Y5NiwtMTM4OTg5NjksMTM2ODE4NDM1OSwtNjk4NjYwMDU0LDE4
-MjcyNzc5NDMsLTEwMjk1Mjc5ODIsLTY2NTM0NjA1MCwxODEzMz
-Y5OTc5LDM0NTE5NjMyMCw4ODUzMzQwNjMsMTY0Njg1NjIyOCwx
-MDYzODM3MzM2XX0=
+eyJoaXN0b3J5IjpbLTg2Mzk2NjA0MywtMTgxNDA2NjYyMywtMT
+kwMDA3MzY2MywtMTIxMTEwNjU0Myw2NTc1ODcxNjcsLTE1MDk0
+MDEzMzMsLTQ0MDE4MjY5MSwxOTg3NzUwODI0LC0xNTM1NzQ1Nj
+k2LC0xMzg5ODk2OSwxMzY4MTg0MzU5LC02OTg2NjAwNTQsMTgy
+NzI3Nzk0MywtMTAyOTUyNzk4MiwtNjY1MzQ2MDUwLDE4MTMzNj
+k5NzksMzQ1MTk2MzIwLDg4NTMzNDA2MywxNjQ2ODU2MjI4LDEw
+NjM4MzczMzZdfQ==
 -->
