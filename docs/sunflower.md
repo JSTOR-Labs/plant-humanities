@@ -58,7 +58,7 @@ Our familiarity with the sunflower, both real and represented, may lead us to ov
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Helianthus whirl, attributed to L. Shyamal © Creative Commons Attribution-Share Alike 2.5">
 
-This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies a sophisticated understanding of the plant. Henderson shows a partial view of two mature plants—one facing back, and the other nearly front—to communicate valuable information about their dorsal and ventral anatomical structures, while taking some aesthetic liberties to imbue the flower heads with a sense of movement and vitality. <span data-click-image-zoomto="982,2706,2213,1795">At the center of the left flower,</span> a series of green scallop- and flame-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to the <span data-click-image-zoomto="1448,813,4149,3588">opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets. These details remind us that the study of art and flora are endeavors rooted in the practices of direct observation and visual analysis.
+This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies a sophisticated understanding of the plant. Henderson shows a partial view of two mature plants—one facing back, and the other nearly front—to communicate valuable information about their dorsal and ventral anatomical structures, while taking some aesthetic liberties to imbue the flower heads with a sense of movement and vitality. <span data-click-image-zoomto="982,2706,2213,1795">At the center of the left flower,</span> a series of green scallop- and flame-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets. These details remind us that the study of art and flora are endeavors rooted in the practices of direct observation and visual analysis.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
 Henderson’s design for _Anatomy of the Sunflower_ also articulates Linnaeus’s contributions to botany as they relate to _Helianthus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the <span data-click-image-zoomto="2862,4454,2123,1782">lower right corner of Anatomy of the Sunflower,</span> where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book _[New illustration of the sexual system of Carolus von Linnaeus](http://id.lib.harvard.edu/alma/990075420710203941/catalog)_.
@@ -133,11 +133,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDM0ODU1LC00NDAxODI2OTEsMTk4Nz
-c1MDgyNCwtMTUzNTc0NTY5NiwtMTM4OTg5NjksMTM2ODE4NDM1
-OSwtNjk4NjYwMDU0LDE4MjcyNzc5NDMsLTEwMjk1Mjc5ODIsLT
-Y2NTM0NjA1MCwxODEzMzY5OTc5LDM0NTE5NjMyMCw4ODUzMzQw
-NjMsMTY0Njg1NjIyOCwxMDYzODM3MzM2LDE3NTg3ODY3NzcsMT
-E2MzUzMDMxNCwtMTMxMDk0NTM4NiwxMDUxOTc0MTg4LDMyMjQ5
-NzE4Ml19
+eyJoaXN0b3J5IjpbMTE0NTk4MjgyMSwtNDQwMTgyNjkxLDE5OD
+c3NTA4MjQsLTE1MzU3NDU2OTYsLTEzODk4OTY5LDEzNjgxODQz
+NTksLTY5ODY2MDA1NCwxODI3Mjc3OTQzLC0xMDI5NTI3OTgyLC
+02NjUzNDYwNTAsMTgxMzM2OTk3OSwzNDUxOTYzMjAsODg1MzM0
+MDYzLDE2NDY4NTYyMjgsMTA2MzgzNzMzNiwxNzU4Nzg2Nzc3LD
+ExNjM1MzAzMTQsLTEzMTA5NDUzODYsMTA1MTk3NDE4OCwzMjI0
+OTcxODJdfQ==
 -->
