@@ -30,7 +30,7 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 
 ### Range and Cultivation
 
-The history of the sunflower  is enmeshed with mobility that can be charted through the study of plant remains and visual representations, among other sources. The earliest known sunflower remains—charred seeds—tell us that humans used domesticated _Helianthus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, humans transported wild sunflowers to their campsites, where they became stabilized and later cultivated. That movement was central to plant cultivation and evolution through processes of human selection. Still, there is some debate about when domesticated sunflowers were used in present-day Mexico, and whether the plant was cultivated there independently from North America.
+The history of the sunflower  is enmeshed with mobility, and we can chart that movement at different moments by using maps to study plant remains or visual representations. The earliest known sunflower remains—charred seeds—tell us that humans used domesticated _Helianthus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated through human selection. That movement of seeds and plant materials was essential to sunflower evolution.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
@@ -138,11 +138,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Nzg4ODE2MywtODYzOTY2MDQzLC0xOD
-E0MDY2NjIzLC0xOTAwMDczNjYzLC0xMjExMTA2NTQzLDY1NzU4
-NzE2NywtMTUwOTQwMTMzMywtNDQwMTgyNjkxLDE5ODc3NTA4Mj
-QsLTE1MzU3NDU2OTYsLTEzODk4OTY5LDEzNjgxODQzNTksLTY5
-ODY2MDA1NCwxODI3Mjc3OTQzLC0xMDI5NTI3OTgyLC02NjUzND
-YwNTAsMTgxMzM2OTk3OSwzNDUxOTYzMjAsODg1MzM0MDYzLDE2
-NDY4NTYyMjhdfQ==
+eyJoaXN0b3J5IjpbLTE1NjUzMzYwMDEsLTg2Mzk2NjA0MywtMT
+gxNDA2NjYyMywtMTkwMDA3MzY2MywtMTIxMTEwNjU0Myw2NTc1
+ODcxNjcsLTE1MDk0MDEzMzMsLTQ0MDE4MjY5MSwxOTg3NzUwOD
+I0LC0xNTM1NzQ1Njk2LC0xMzg5ODk2OSwxMzY4MTg0MzU5LC02
+OTg2NjAwNTQsMTgyNzI3Nzk0MywtMTAyOTUyNzk4MiwtNjY1Mz
+Q2MDUwLDE4MTMzNjk5NzksMzQ1MTk2MzIwLDg4NTMzNDA2Mywx
+NjQ2ODU2MjI4XX0=
 -->
