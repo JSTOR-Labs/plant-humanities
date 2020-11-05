@@ -138,17 +138,14 @@ ADD TEXT
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Sunflowers are a popular oil crop because their seeds are rich in nutrients and relatively low in fatty acids. After oil is extracted from seeds, the byproducts are repurposed for use as animal feed or, in the case of hulls, ground to produce roughage or fuel. Sunflower crops also provide seeds for confectionary food and birdfeed. In the X century, the sunflower became a favored oil crop in Russia because it was one of the few sources of protein that the Orthodox Church did not ban during Lent. Farmers in Russia bred a giant sunflower—NAME—that to increase seed yields. That species was introduced to North America in the mid twentieth century and it is the one most widely cultivated there today. In addition to those uses, sunflowers are cultivated as ornamentals for domestic settings, and EN Because sunflowers are able to extract harmful containments from soil and water, a process known as phytoremediation, they have been planted at the sites of the Chernobyl and Fukushima Daiichi disasters to absorb radiation.
 
-<param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-<param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
-
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjA0NjQ0LDEzMzkwNTkxMDcsLTg3Nj
-Q4NzY2OCwtMTMyNTExMjA1MSwzMTY3NDk5OTgsLTg2Mzk2NjA0
-MywtMTgxNDA2NjYyMywtMTkwMDA3MzY2MywtMTIxMTEwNjU0My
-w2NTc1ODcxNjcsLTE1MDk0MDEzMzMsLTQ0MDE4MjY5MSwxOTg3
-NzUwODI0LC0xNTM1NzQ1Njk2LC0xMzg5ODk2OSwxMzY4MTg0Mz
-U5LC02OTg2NjAwNTQsMTgyNzI3Nzk0MywtMTAyOTUyNzk4Miwt
-NjY1MzQ2MDUwXX0=
+eyJoaXN0b3J5IjpbMTg3NjY3NTM2MCwxNzcyMDQ2NDQsMTMzOT
+A1OTEwNywtODc2NDg3NjY4LC0xMzI1MTEyMDUxLDMxNjc0OTk5
+OCwtODYzOTY2MDQzLC0xODE0MDY2NjIzLC0xOTAwMDczNjYzLC
+0xMjExMTA2NTQzLDY1NzU4NzE2NywtMTUwOTQwMTMzMywtNDQw
+MTgyNjkxLDE5ODc3NTA4MjQsLTE1MzU3NDU2OTYsLTEzODk4OT
+Y5LDEzNjgxODQzNTksLTY5ODY2MDA1NCwxODI3Mjc3OTQzLC0x
+MDI5NTI3OTgyXX0=
 -->
