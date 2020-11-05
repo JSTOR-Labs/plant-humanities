@@ -127,18 +127,18 @@ ADD TEXT
 
 ### “Sun, sun, sun, here it comes”
 
-<param ve-image iiif region="3006,1130,568,540"
+<param ve-image iiif region="1078,259,3906,3278"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Sunflowers are a popular oil crop because their seeds are rich in nutrients and relatively low in fatty acids. After oil is extracted from seeds, the byproducts are repurposed for use as animal feed or, in the case of hulls, ground to produce roughage or fuel. Sunflower crops also provide seeds for confectionary food and birdfeed. In the X century, the sunflower became a favored oil crop in Russia because it was one of the few sources of protein that the Orthodox Church did not ban during Lent. Farmers in Russia bred a giant sunflower—NAME—that to increase seed yields. That species was introduced to North America in the mid twentieth century and it is the one most widely cultivated there today. In addition to those uses, sunflowers are cultivated as ornamentals for domestic settings, and EN Because sunflowers are able to extract harmful containments from soil and water, a process known as phytoremediation, they have been planted at the sites of the Chernobyl and Fukushima Daiichi disasters to absorb radiation.
 
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk0MDEzMzMsLTQ0MDE4MjY5MSwxOT
-g3NzUwODI0LC0xNTM1NzQ1Njk2LC0xMzg5ODk2OSwxMzY4MTg0
-MzU5LC02OTg2NjAwNTQsMTgyNzI3Nzk0MywtMTAyOTUyNzk4Mi
-wtNjY1MzQ2MDUwLDE4MTMzNjk5NzksMzQ1MTk2MzIwLDg4NTMz
-NDA2MywxNjQ2ODU2MjI4LDEwNjM4MzczMzYsMTc1ODc4Njc3Ny
-wxMTYzNTMwMzE0LC0xMzEwOTQ1Mzg2LDEwNTE5NzQxODgsMzIy
-NDk3MTgyXX0=
+eyJoaXN0b3J5IjpbNjU3NTg3MTY3LC0xNTA5NDAxMzMzLC00ND
+AxODI2OTEsMTk4Nzc1MDgyNCwtMTUzNTc0NTY5NiwtMTM4OTg5
+NjksMTM2ODE4NDM1OSwtNjk4NjYwMDU0LDE4MjcyNzc5NDMsLT
+EwMjk1Mjc5ODIsLTY2NTM0NjA1MCwxODEzMzY5OTc5LDM0NTE5
+NjMyMCw4ODUzMzQwNjMsMTY0Njg1NjIyOCwxMDYzODM3MzM2LD
+E3NTg3ODY3NzcsMTE2MzUzMDMxNCwtMTMxMDk0NTM4NiwxMDUx
+OTc0MTg4XX0=
 -->
