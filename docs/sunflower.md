@@ -26,7 +26,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. A team of artists, etchers, printmakers, and colorists, working under Besler’s direction, produced the hand-tinted engraving of _H. annuus_, which presents a striking vision of the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stock with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. Those formal strategies were innovative for the time because they described the sunflower’s beauty rather than its medicinal or culinary properties, as in herbals. For those reasons, the portrait became an influential model for describing sunflower aesthetics that is now a visual shorthand for representing the plant.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-<param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
+<param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 
 ### Range and Cultivation
 
@@ -46,6 +46,9 @@ That woodcut, Dodoens’s _Florum, et Coronariarum_ shown at right and designed 
 <param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
 Botanical illustrations provide vital information about not only the movement of actual plants, but also the transmission and dissemination of ideas. The sunflower depicted in Besler’s _Hortus Eystettensis_ was drawn from plants cultivated in Eichstätt, Bavaria, in the 1600s. The bold plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden.
+<param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
+
+Besler’s _Hortus Eystettensis_ was drawn from plants cultivated
 <param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
 
 Europeans eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
@@ -141,11 +144,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyMjI2MSwxMzM5MDU5MTA3LC04NzY0OD
-c2NjgsLTEzMjUxMTIwNTEsMzE2NzQ5OTk4LC04NjM5NjYwNDMs
-LTE4MTQwNjY2MjMsLTE5MDAwNzM2NjMsLTEyMTExMDY1NDMsNj
-U3NTg3MTY3LC0xNTA5NDAxMzMzLC00NDAxODI2OTEsMTk4Nzc1
-MDgyNCwtMTUzNTc0NTY5NiwtMTM4OTg5NjksMTM2ODE4NDM1OS
-wtNjk4NjYwMDU0LDE4MjcyNzc5NDMsLTEwMjk1Mjc5ODIsLTY2
-NTM0NjA1MF19
+eyJoaXN0b3J5IjpbMTc3MjA0NjQ0LDEzMzkwNTkxMDcsLTg3Nj
+Q4NzY2OCwtMTMyNTExMjA1MSwzMTY3NDk5OTgsLTg2Mzk2NjA0
+MywtMTgxNDA2NjYyMywtMTkwMDA3MzY2MywtMTIxMTEwNjU0My
+w2NTc1ODcxNjcsLTE1MDk0MDEzMzMsLTQ0MDE4MjY5MSwxOTg3
+NzUwODI0LC0xNTM1NzQ1Njk2LC0xMzg5ODk2OSwxMzY4MTg0Mz
+U5LC02OTg2NjAwNTQsMTgyNzI3Nzk0MywtMTAyOTUyNzk4Miwt
+NjY1MzQ2MDUwXX0=
 -->
