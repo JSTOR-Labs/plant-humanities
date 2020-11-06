@@ -26,7 +26,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. A team of artists, etchers, printmakers, and colorists, working under Besler’s direction, produced the hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_, a striking depiction of the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stock with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they emphasized the sunflower’s beauty. By contrast, the illustrations in herbals were generally small and schematic to aid in the identification of the plant, and overshadowed by text explaining its medicinal or culinary properties. For those reasons, the portrait of _H. annuus_ became an influential model for visualizing sunflower aesthetics.
+Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. A team of artists, etchers, printmakers, and colorists, working under Besler’s direction, produced the hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_, a striking depiction of the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stock with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they emphasized the sunflower’s beauty. By contrast, the illustrations in herbals were generally small and schematic to aid in the identification of the plant, and overshadowed by text explaining its medicinal or culinary properties. For those reasons, the portrait of _H. annuus_ became an influential model for visualizing sunflower aesthetics and it is today synonymous with visual strereotypes for the plant.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 
@@ -145,11 +145,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjUzODE4NywzNzYzNzczNzYsMjA5MD
-I2MzQxNiwtMjAyNDE3Mzk5LDIxNDA0OTI5ODksLTk2NDY2NzE0
-MCwxNDYzMTk1NjU1LDM5MTU4OTUzOSwtNzA5MTYwOTUwLDE3Nz
-IwNDY0NCwxMzM5MDU5MTA3LC04NzY0ODc2NjgsLTEzMjUxMTIw
-NTEsMzE2NzQ5OTk4LC04NjM5NjYwNDMsLTE4MTQwNjY2MjMsLT
-E5MDAwNzM2NjMsLTEyMTExMDY1NDMsNjU3NTg3MTY3LC0xNTA5
-NDAxMzMzXX0=
+eyJoaXN0b3J5IjpbLTExNjQyNTk1NjQsMzc2Mzc3Mzc2LDIwOT
+AyNjM0MTYsLTIwMjQxNzM5OSwyMTQwNDkyOTg5LC05NjQ2Njcx
+NDAsMTQ2MzE5NTY1NSwzOTE1ODk1MzksLTcwOTE2MDk1MCwxNz
+cyMDQ2NDQsMTMzOTA1OTEwNywtODc2NDg3NjY4LC0xMzI1MTEy
+MDUxLDMxNjc0OTk5OCwtODYzOTY2MDQzLC0xODE0MDY2NjIzLC
+0xOTAwMDczNjYzLC0xMjExMTA2NTQzLDY1NzU4NzE2NywtMTUw
+OTQwMTMzM119
 -->
