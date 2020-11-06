@@ -44,7 +44,11 @@ The Spanish were the first people to transport sunflower seeds across the Atlant
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
-That [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), Dodoens’s _Florum, et Coronariarum_ shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock. “They call this plant the 'Sun of India' (or 'Indian Sun') because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio, a man who is very knowledgeable about the diversity of plants and whose generosity and goodwill has resulted in a not inconsiderable number of flowers being added to this treatise which otherwise would not have been included. You may seek it in vain elsewhere, only to find it in his garden.”
+That [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), Dodoens’s _Florum, et Coronariarum_ shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock. 
+
+> Blockquote
+
+“They call this plant the 'Sun of India' (or 'Indian Sun') because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio, a man who is very knowledgeable about the diversity of plants and whose generosity and goodwill has resulted in a not inconsiderable number of flowers being added to this treatise which otherwise would not have been included. You may seek it in vain elsewhere, only to find it in his garden.”
 <param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
 Botanical illustrations provide vital information about not only the movement of actual plants, but also the transmission and dissemination of ideas. The sunflower depicted in Besler’s _Hortus Eystettensis_ was drawn from plants cultivated in Eichstätt, Bavaria, in the 1600s. The bold plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden.
@@ -145,7 +149,7 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzgzOTc3MSwtMTg4NTUzNjkwNywxNj
+eyJoaXN0b3J5IjpbMjAxNzM5ODEzMiwtMTg4NTUzNjkwNywxNj
 IzNDkxNDg5LC0xNjU4MDk1NzQyLDQzMDI0MjY4NSwzNzYzNzcz
 NzYsMjA5MDI2MzQxNiwtMjAyNDE3Mzk5LDIxNDA0OTI5ODksLT
 k2NDY2NzE0MCwxNDYzMTk1NjU1LDM5MTU4OTUzOSwtNzA5MTYw
