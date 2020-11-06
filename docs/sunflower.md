@@ -8,6 +8,8 @@
 ### A Giant among Us
 <param ve-image fit="contain" url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
+<param ve-image iiif region="1078,259,3906,3278"
+url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 Sunflowers hold a special status in the natural world. Highly valued for their edible seeds and seed oil, they are one of the few crop plants to have originated in North America. They are also popular ornamentals, renowned for their yellow flower heads with round disks and, in some cases, imposing height. Indeed, _Helianthus annuus_ (common sunflower) can grow up to sixteen feet tall, towering over us and other organisms. Yet, despite the relatively widespread cultivation of the sunflower and its iconic formal qualities, myths about the genus persist and these ideas have often shaped or been shaped by visual representations of the plant.
 
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
@@ -143,11 +145,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxNTg5NTM5LC03MDkxNjA5NTAsMTc3Mj
-A0NjQ0LDEzMzkwNTkxMDcsLTg3NjQ4NzY2OCwtMTMyNTExMjA1
-MSwzMTY3NDk5OTgsLTg2Mzk2NjA0MywtMTgxNDA2NjYyMywtMT
-kwMDA3MzY2MywtMTIxMTEwNjU0Myw2NTc1ODcxNjcsLTE1MDk0
-MDEzMzMsLTQ0MDE4MjY5MSwxOTg3NzUwODI0LC0xNTM1NzQ1Nj
-k2LC0xMzg5ODk2OSwxMzY4MTg0MzU5LC02OTg2NjAwNTQsMTgy
-NzI3Nzk0M119
+eyJoaXN0b3J5IjpbNDc0NTY3NjAxLDM5MTU4OTUzOSwtNzA5MT
+YwOTUwLDE3NzIwNDY0NCwxMzM5MDU5MTA3LC04NzY0ODc2Njgs
+LTEzMjUxMTIwNTEsMzE2NzQ5OTk4LC04NjM5NjYwNDMsLTE4MT
+QwNjY2MjMsLTE5MDAwNzM2NjMsLTEyMTExMDY1NDMsNjU3NTg3
+MTY3LC0xNTA5NDAxMzMzLC00NDAxODI2OTEsMTk4Nzc1MDgyNC
+wtMTUzNTc0NTY5NiwtMTM4OTg5NjksMTM2ODE4NDM1OSwtNjk4
+NjYwMDU0XX0=
 -->
