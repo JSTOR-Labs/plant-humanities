@@ -18,7 +18,7 @@ Portrayals of the sunflower can provide valuable historical information about th
 ### Naming and Representing the Iconic Flower
 
 <param ve-entity eid="Q10432667306" title="Carl Linnaeus">
-The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—was named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the plant was already a beloved garden flower in Europe. Although it may be hard for us to imagine the the extraordinary admiration of the sunflower at that time, Linnaeus’s exuberant description of the plant, in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_, offers some insights. He writes, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?” His encomium on the splendor of the mature _Helianthus_ inflorescence demonstrates some traits that eighteenth-century Europeans prized and that make the flower so iconic today.
+The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—was named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the plant was already a beloved garden flower in Europe. Although it may be hard for us to imagine the extraordinary admiration of the sunflower at that time, Linnaeus’s exuberant description of the plant, in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_, offers some insights. He writes, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?” His encomium on the splendor of the mature _Helianthus_ inflorescence demonstrates some traits that eighteenth-century Europeans prized and that make the flower so iconic today.
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, title page, _Critica botanica_, 1737, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, title page, _Critica botanica_, 1737, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
@@ -145,11 +145,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQxNzM5OSwyMTQwNDkyOTg5LC05Nj
-Q2NjcxNDAsMTQ2MzE5NTY1NSwzOTE1ODk1MzksLTcwOTE2MDk1
-MCwxNzcyMDQ2NDQsMTMzOTA1OTEwNywtODc2NDg3NjY4LC0xMz
-I1MTEyMDUxLDMxNjc0OTk5OCwtODYzOTY2MDQzLC0xODE0MDY2
-NjIzLC0xOTAwMDczNjYzLC0xMjExMTA2NTQzLDY1NzU4NzE2Ny
-wtMTUwOTQwMTMzMywtNDQwMTgyNjkxLDE5ODc3NTA4MjQsLTE1
-MzU3NDU2OTZdfQ==
+eyJoaXN0b3J5IjpbMjA5MDI2MzQxNiwtMjAyNDE3Mzk5LDIxND
+A0OTI5ODksLTk2NDY2NzE0MCwxNDYzMTk1NjU1LDM5MTU4OTUz
+OSwtNzA5MTYwOTUwLDE3NzIwNDY0NCwxMzM5MDU5MTA3LC04Nz
+Y0ODc2NjgsLTEzMjUxMTIwNTEsMzE2NzQ5OTk4LC04NjM5NjYw
+NDMsLTE4MTQwNjY2MjMsLTE5MDAwNzM2NjMsLTEyMTExMDY1ND
+MsNjU3NTg3MTY3LC0xNTA5NDAxMzMzLC00NDAxODI2OTEsMTk4
+Nzc1MDgyNF19
 -->
