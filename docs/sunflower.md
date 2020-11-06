@@ -40,7 +40,7 @@ There is some debate about when domesticated sunflowers were used in present-day
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
-The Spanish were the first people to transport sunflower seeds across the Atlantic Ocean in the European colonial period. In the absence of surviving plants, we can use visual and verbal accounts of the sunflower to map its introduction to Spain and Europe. Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) was the first book authored by a European to describe the sunflower. Monardes wrote that description based on his observations of plants grown in his botanical garden in Seville. The spread of the sunflower via transregional botanical networks is evidenced in the pages of Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568): the first book to reproduce an illustration of the plant drawn from life in Johannes Brancio’s garden in Mechelen.
+The Spanish were the first people to transport sunflower seeds across the Atlantic Ocean in the European colonial period. In the absence of surviving plants, we can use visual and verbal accounts of the sunflower to map its introduction to Spain and Europe. Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) was the first book authored by a European to describe the sunflower. Monardes wrote that description based on his observations of plants grown in his botanical garden in Seville. The spread of the sunflower via transregional botanical networks is evidenced in the pages of Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568): the first book to reproduce an illustration of the plant drawn from life in Johannes Brancio’s garden in Mechelen. 
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
@@ -145,11 +145,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU1MzY5MDcsMTYyMzQ5MTQ4OSwtMT
-Y1ODA5NTc0Miw0MzAyNDI2ODUsMzc2Mzc3Mzc2LDIwOTAyNjM0
-MTYsLTIwMjQxNzM5OSwyMTQwNDkyOTg5LC05NjQ2NjcxNDAsMT
-Q2MzE5NTY1NSwzOTE1ODk1MzksLTcwOTE2MDk1MCwxNzcyMDQ2
-NDQsMTMzOTA1OTEwNywtODc2NDg3NjY4LC0xMzI1MTEyMDUxLD
-MxNjc0OTk5OCwtODYzOTY2MDQzLC0xODE0MDY2NjIzLC0xOTAw
-MDczNjYzXX0=
+eyJoaXN0b3J5IjpbLTExNTEzNTg1OSwtMTg4NTUzNjkwNywxNj
+IzNDkxNDg5LC0xNjU4MDk1NzQyLDQzMDI0MjY4NSwzNzYzNzcz
+NzYsMjA5MDI2MzQxNiwtMjAyNDE3Mzk5LDIxNDA0OTI5ODksLT
+k2NDY2NzE0MCwxNDYzMTk1NjU1LDM5MTU4OTUzOSwtNzA5MTYw
+OTUwLDE3NzIwNDY0NCwxMzM5MDU5MTA3LC04NzY0ODc2NjgsLT
+EzMjUxMTIwNTEsMzE2NzQ5OTk4LC04NjM5NjYwNDMsLTE4MTQw
+NjY2MjNdfQ==
 -->
