@@ -35,7 +35,7 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 The history of the sunflower  is enmeshed with mobility, and we can chart that movement in different time periods by using maps to study plant remains or visual representations. The earliest known sunflower remains—charred seeds—tell us that humans used domesticated _Helianthus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated through human selection. That movement of seeds and plant materials was essential to sunflower evolution.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
-There is some debate about when domesticated sunflowers were used in present-day Mexico, and whether the plant was cultivated there independently from sites in North America. However, scholars agree that the domesticated sunflower was introduced to parts of South America by the time that the Spanish arrived in present-day Peru in the early 1500s.
+There is some debate about when domesticated sunflowers were used in present-day Mexico, and whether the plant was cultivated there independently from sites in North America. Similarly, there are different account domesticated sunflower was introduced to parts of South America by the time that the Spanish arrived in present-day Peru in the early 1500s.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
@@ -145,11 +145,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0NzQ0MDQ5LDIwMjM4Mzk3NzEsLTE4OD
-U1MzY5MDcsMTYyMzQ5MTQ4OSwtMTY1ODA5NTc0Miw0MzAyNDI2
-ODUsMzc2Mzc3Mzc2LDIwOTAyNjM0MTYsLTIwMjQxNzM5OSwyMT
-QwNDkyOTg5LC05NjQ2NjcxNDAsMTQ2MzE5NTY1NSwzOTE1ODk1
-MzksLTcwOTE2MDk1MCwxNzcyMDQ2NDQsMTMzOTA1OTEwNywtOD
-c2NDg3NjY4LC0xMzI1MTEyMDUxLDMxNjc0OTk5OCwtODYzOTY2
-MDQzXX0=
+eyJoaXN0b3J5IjpbLTI0Mjg3NTUxNCwyMDIzODM5NzcxLC0xOD
+g1NTM2OTA3LDE2MjM0OTE0ODksLTE2NTgwOTU3NDIsNDMwMjQy
+Njg1LDM3NjM3NzM3NiwyMDkwMjYzNDE2LC0yMDI0MTczOTksMj
+E0MDQ5Mjk4OSwtOTY0NjY3MTQwLDE0NjMxOTU2NTUsMzkxNTg5
+NTM5LC03MDkxNjA5NTAsMTc3MjA0NjQ0LDEzMzkwNTkxMDcsLT
+g3NjQ4NzY2OCwtMTMyNTExMjA1MSwzMTY3NDk5OTgsLTg2Mzk2
+NjA0M119
 -->
