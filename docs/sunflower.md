@@ -35,7 +35,7 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 The history of the sunflower  is enmeshed with mobility, and we can chart that movement in different time periods by using maps to study plant remains or visual representations. The earliest known sunflower remains—charred seeds—tell us that humans used domesticated _Helianthus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated through human selection. That movement of seeds and plant materials was essential to sunflower evolution.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
-There is some debate about when domesticated sunflowers were used in present-day Mexico, and whether the plant was cultivated there independently from sites in North America. Similarly, there are differing accounts of when and from where in the Americas the Spanish first collected domesticated sunflowers in the Americas. South America by the time that the Spanish arrived in present-day Peru in the early 1500s.
+There is some debate about when domesticated sunflowers were used in present-day Mexico, and whether the plant was cultivated there independently from sites in North America. Similarly, there are differing accounts of when and from where in the Americas the Spanish first collected domesticated sunflowers.  time that the Spanish arrived in present-day Peru in the early 1500s.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
@@ -145,7 +145,7 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA5MTY5MTQsMjAyMzgzOTc3MSwtMT
+eyJoaXN0b3J5IjpbLTEwMjAxMTA0NTQsMjAyMzgzOTc3MSwtMT
 g4NTUzNjkwNywxNjIzNDkxNDg5LC0xNjU4MDk1NzQyLDQzMDI0
 MjY4NSwzNzYzNzczNzYsMjA5MDI2MzQxNiwtMjAyNDE3Mzk5LD
 IxNDA0OTI5ODksLTk2NDY2NzE0MCwxNDYzMTk1NjU1LDM5MTU4
