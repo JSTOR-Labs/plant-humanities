@@ -13,7 +13,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 Sunflowers hold a special status in the natural world. Highly valued for their edible seeds and seed oil, they are one of the few crop plants to have originated in North America. They are also popular ornamentals, renowned for their yellow flower heads with round disks and, in some cases, imposing height. Indeed, _Helianthus annuus_ (common sunflower) can grow up to sixteen feet tall, towering over us and other organisms. Yet, despite the relatively widespread cultivation of the sunflower and its iconic formal qualities, myths about the genus persist and these ideas have often shaped or been shaped by visual representations of the plant.
 
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
-Portrayals of the sunflower can provide valuable historical information about the plant and about the role of visual culture in communicating knowledges, myths, and meanings related to it. European and American artists, working from the European colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing the plant that were tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) helped to perpetuate several myths about sunflowers that are still widely held today, while they sometimes also upheld, challenged, or illuminated stereotypes pertaining to societal markers of difference.
+Portrayals of the sunflower can provide valuable historical information about the plant and the roles of visual culture in communicating knowledges, myths, and meanings related to the natural world. European and American artists, working from the European colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing the plant that were tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) helped to perpetuate several myths about sunflowers that are still widely held today, while they sometimes also upheld, challenged, or illuminated stereotypes pertaining to societal markers of difference.
 
 ### Naming and Representing the Iconic Flower
 
@@ -145,11 +145,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDQ5Mjk4OSwtOTY0NjY3MTQwLDE0Nj
-MxOTU2NTUsMzkxNTg5NTM5LC03MDkxNjA5NTAsMTc3MjA0NjQ0
-LDEzMzkwNTkxMDcsLTg3NjQ4NzY2OCwtMTMyNTExMjA1MSwzMT
-Y3NDk5OTgsLTg2Mzk2NjA0MywtMTgxNDA2NjYyMywtMTkwMDA3
-MzY2MywtMTIxMTEwNjU0Myw2NTc1ODcxNjcsLTE1MDk0MDEzMz
-MsLTQ0MDE4MjY5MSwxOTg3NzUwODI0LC0xNTM1NzQ1Njk2LC0x
-Mzg5ODk2OV19
+eyJoaXN0b3J5IjpbLTE2OTQwNDIyMjYsMjE0MDQ5Mjk4OSwtOT
+Y0NjY3MTQwLDE0NjMxOTU2NTUsMzkxNTg5NTM5LC03MDkxNjA5
+NTAsMTc3MjA0NjQ0LDEzMzkwNTkxMDcsLTg3NjQ4NzY2OCwtMT
+MyNTExMjA1MSwzMTY3NDk5OTgsLTg2Mzk2NjA0MywtMTgxNDA2
+NjYyMywtMTkwMDA3MzY2MywtMTIxMTEwNjU0Myw2NTc1ODcxNj
+csLTE1MDk0MDEzMzMsLTQ0MDE4MjY5MSwxOTg3NzUwODI0LC0x
+NTM1NzQ1Njk2XX0=
 -->
