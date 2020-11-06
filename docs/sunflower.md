@@ -6,7 +6,7 @@
        layout="vtl">
 
 ### A Giant among Us
-<param ve-image fit="contain" url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
+<param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
 <param ve-image iiif region="1078,259,3906,3278"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
@@ -145,11 +145,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0NTY3NjAxLDM5MTU4OTUzOSwtNzA5MT
-YwOTUwLDE3NzIwNDY0NCwxMzM5MDU5MTA3LC04NzY0ODc2Njgs
-LTEzMjUxMTIwNTEsMzE2NzQ5OTk4LC04NjM5NjYwNDMsLTE4MT
-QwNjY2MjMsLTE5MDAwNzM2NjMsLTEyMTExMDY1NDMsNjU3NTg3
-MTY3LC0xNTA5NDAxMzMzLC00NDAxODI2OTEsMTk4Nzc1MDgyNC
-wtMTUzNTc0NTY5NiwtMTM4OTg5NjksMTM2ODE4NDM1OSwtNjk4
-NjYwMDU0XX0=
+eyJoaXN0b3J5IjpbLTE4NzI4NjcxODEsMzkxNTg5NTM5LC03MD
+kxNjA5NTAsMTc3MjA0NjQ0LDEzMzkwNTkxMDcsLTg3NjQ4NzY2
+OCwtMTMyNTExMjA1MSwzMTY3NDk5OTgsLTg2Mzk2NjA0MywtMT
+gxNDA2NjYyMywtMTkwMDA3MzY2MywtMTIxMTEwNjU0Myw2NTc1
+ODcxNjcsLTE1MDk0MDEzMzMsLTQ0MDE4MjY5MSwxOTg3NzUwOD
+I0LC0xNTM1NzQ1Njk2LC0xMzg5ODk2OSwxMzY4MTg0MzU5LC02
+OTg2NjAwNTRdfQ==
 -->
