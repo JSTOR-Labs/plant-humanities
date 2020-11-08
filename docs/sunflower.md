@@ -44,20 +44,19 @@ Although we know that the Spanish were the first people to transport the domesti
 ### "Peruvian" Origins and Mythic Encounters
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
-That [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), Dodoens’s _Florum, et Coronariarum_ shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock. “They call this plant the 'Sun of India' (or 'Indian Sun') because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio, a man who is very knowledgeable about the diversity of plants and whose generosity and goodwill has resulted in a not inconsiderable number of flowers being added to this treatise which otherwise would not have been included. You may seek it in vain elsewhere, only to find it in his garden.”
+Botanical illustrations provide vital information about not only the movement of actual plants, but also the circulation of iconography and ideas. That [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), Dodoens’s _Florum, et Coronariarum_ shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock. “They call this plant the 'Sun of India' (or 'Indian Sun') because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio, a man who is very knowledgeable about the diversity of plants and whose generosity and goodwill has resulted in a not inconsiderable number of flowers being added to this treatise which otherwise would not have been included. You may seek it in vain elsewhere, only to find it in his garden.”
 <param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
-
-Botanical illustrations provide vital information about not only the movement of actual plants, but also the circulation of iconography and ideas. The sunflower depicted in Besler’s _Hortus Eystettensis_ was drawn from plants cultivated in Eichstätt, Bavaria, in the 1600s.
-<param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-<param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
-
-Besler’s _Hortus Eystettensis_ was drawn from plants cultivated
-<param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
-
 
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 The bold sunflower portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the exotic flowers grown in his garden. 
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
+<param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
+<param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
+
+
+Besler’s _Hortus Eystettensis_ was drawn from plants cultivated
+<param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
+
 
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals">
 In contrast to florilegia, the illustrations in herbals, such as this one, were generally small and schematic. They were meant to aid the reader in identifying plants and were given less space on the page than text explaining a specimen's medicinal or culinary properties. This illustration is instructive for another reason. It clearly  X Besler’s _Flos Solis maior_. In doing so, it evidences that the became an influential model for visualizing the sunflower in  is also evocative of modern and contemporary visual stereotypes for the plant.
@@ -154,11 +153,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTMwMDE2NiwzNzg3MjE2NjAsMTM1OD
-Q2NTk1NywtMzk0MzE5ODE0LC0xNTc4NzIzMzE3LC0xMzA2MDM2
-NzYsLTE1Nzg3MjMzMTcsLTQ0NTUxODMyOSwtMTY4ODY5NTMyMi
-wtMTUwOTk3MDgwMiw2Njg3MTAwMzUsLTM5MjU5NzUzOSwtMTY0
-MzcwMjY5MCwyMzg4Nzc0NzcsNDAxMzgwMzE1LC04OTExMzY5Mz
-EsLTE4MTg3NzAzODAsLTEzNzMxMjMxOSwxNTM1MjIxNzcwLC0z
-NTQzNDIyNzddfQ==
+eyJoaXN0b3J5IjpbLTE5NjQ2NzQwMTQsMTcwOTMwMDE2NiwzNz
+g3MjE2NjAsMTM1ODQ2NTk1NywtMzk0MzE5ODE0LC0xNTc4NzIz
+MzE3LC0xMzA2MDM2NzYsLTE1Nzg3MjMzMTcsLTQ0NTUxODMyOS
+wtMTY4ODY5NTMyMiwtMTUwOTk3MDgwMiw2Njg3MTAwMzUsLTM5
+MjU5NzUzOSwtMTY0MzcwMjY5MCwyMzg4Nzc0NzcsNDAxMzgwMz
+E1LC04OTExMzY5MzEsLTE4MTg3NzAzODAsLTEzNzMxMjMxOSwx
+NTM1MjIxNzcwXX0=
 -->
