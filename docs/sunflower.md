@@ -8,7 +8,7 @@
 ### A Giant among Us
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
- _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, this species of sunflower is the only crop plant in use today to have been domesticated in North America. The plant is also a popular ornamental, renowned for its yellow flower head with a large round disk and imposing height. Indeed, _H. annuus_ can grow up to sixteen feet tall, a trait exaggerated for comic effect in the botanical illustration at right. Its massive yellow sunflower with a single flower head and unbranched stem dwarfs a greyhound that would generally be formidably sized. Today, because of the common sunflower’s widespread cultivation and iconic qualities, we tend to essentialize the genus by assuming that all sunflowers look that way. Such cultural myths about the sunflower have shaped and been shaped by visual representations of the plant, particularly those depicting _H. annuus_.
+ _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, this species of sunflower is the only crop plant in use today to have been domesticated in North America. The plant is also a popular ornamental, renowned for its yellow flower head with a large round disk and imposing height. Indeed, _H. annuus_ can grow up to sixteen feet tall, a trait exaggerated for comic effect in the seventeenth-century botanical illustration at right. Its massive yellow sunflower dwarfs a greyhound that would generally be formidably sized. Today, because of the common sunflower’s widespread cultivation and iconic qualities, we tend to essentialize the genus by assuming that all sunflowers look that way. Such cultural myths about the sunflower have shaped and been shaped by visual representations of the plant, particularly those depicting _H. annuus_. with a single flower head and unbranched stem
 
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 Pictures of the sunflower can provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing the _Helianthus annuus_ and other sunflowers that were tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic.These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) helped to perpetuate several myths about sunflowers that are still widely held today, while they sometimes also served to uphold, challenge, or illuminate stereotypes pertaining to societal markers of difference.
@@ -151,11 +151,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwMTc2MDA0LDEyODIzMTU4MDMsNTMwNT
-Q0MTUzLC0xNzYzMzI5NzM5LC00MTgyNTM2ODAsNTMwNTQ0MTUz
-LDE4Mjk5MzQzMzUsMjk4MjQxODM0LC0xMDk0OTQyMzM0LDE1ND
-kzMTE1MDUsMTMzOTExMDUxNiwxNzA5MzAwMTY2LDM3ODcyMTY2
-MCwxMzU4NDY1OTU3LC0zOTQzMTk4MTQsLTE1Nzg3MjMzMTcsLT
-EzMDYwMzY3NiwtMTU3ODcyMzMxNywtNDQ1NTE4MzI5LC0xNjg4
-Njk1MzIyXX0=
+eyJoaXN0b3J5IjpbLTE4NDU5MjY3ODIsNDQwMTc2MDA0LDEyOD
+IzMTU4MDMsNTMwNTQ0MTUzLC0xNzYzMzI5NzM5LC00MTgyNTM2
+ODAsNTMwNTQ0MTUzLDE4Mjk5MzQzMzUsMjk4MjQxODM0LC0xMD
+k0OTQyMzM0LDE1NDkzMTE1MDUsMTMzOTExMDUxNiwxNzA5MzAw
+MTY2LDM3ODcyMTY2MCwxMzU4NDY1OTU3LC0zOTQzMTk4MTQsLT
+E1Nzg3MjMzMTcsLTEzMDYwMzY3NiwtMTU3ODcyMzMxNywtNDQ1
+NTE4MzI5XX0=
 -->
