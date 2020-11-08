@@ -40,7 +40,7 @@ There is some debate about when domesticated sunflowers were used in southwester
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
-Although we know that the Spanish were the first people to transport the domesticated sunflower across the Atlantic Ocean, questions persist about when and from where in the Americas they collected such plants or seeds. One hypothesis is that Hernando de Soto, who traveled to the southeastern United States, between 1539 and 1543, was the first person to introduce the plant to Europe. In the absence of surviving specimens, we can use visual and verbal accounts of the sunflower to map its introduction to Spain and other parts of Europe. Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of the sunflower by a European. Monardes wrote that description based on his observations of plants grown in his botanical garden in Seville. The spread of the sunflower to Flanders via transregional botanical networks is evidenced in the pages of Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568): the first book to reproduce an illustration of the plant drawn from life in Johannes Brancio’s garden in Mechelen. 
+Although we know that the Spanish were the first people to transport the domesticated sunflower across the Atlantic Ocean, questions persist about when and from where in the Americas they collected such plants or seeds. One hypothesis is that Hernando de Soto, who traveled to the southeastern United States, between 1539 and 1543, was the first person to introduce the plant to Europe. In the absence of surviving specimens, we can use visual and verbal accounts of the sunflower to map its introduction to Spain and other parts of Europe. Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of the sunflower by a European. Monardes wrote that description based on his observations of plants grown in his botanical garden in Seville. The spread of the sunflower to Flanders via transregional botanical networks is evidenced in the pages of Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568): the first book to feature an illustration of the plant. 
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
@@ -145,11 +145,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODk1NDM4OCwtNDQ1NTE4MzI5LC0xNj
-g4Njk1MzIyLC0xNTA5OTcwODAyLDY2ODcxMDAzNSwtMzkyNTk3
-NTM5LC0xNjQzNzAyNjkwLDIzODg3NzQ3Nyw0MDEzODAzMTUsLT
-g5MTEzNjkzMSwtMTgxODc3MDM4MCwtMTM3MzEyMzE5LDE1MzUy
-MjE3NzAsLTM1NDM0MjI3NywtMTAyMDExMDQ1NCwyMDIzODM5Nz
-cxLC0xODg1NTM2OTA3LDE2MjM0OTE0ODksLTE2NTgwOTU3NDIs
-NDMwMjQyNjg1XX0=
+eyJoaXN0b3J5IjpbLTE1Nzg3MjMzMTcsLTQ0NTUxODMyOSwtMT
+Y4ODY5NTMyMiwtMTUwOTk3MDgwMiw2Njg3MTAwMzUsLTM5MjU5
+NzUzOSwtMTY0MzcwMjY5MCwyMzg4Nzc0NzcsNDAxMzgwMzE1LC
+04OTExMzY5MzEsLTE4MTg3NzAzODAsLTEzNzMxMjMxOSwxNTM1
+MjIxNzcwLC0zNTQzNDIyNzcsLTEwMjAxMTA0NTQsMjAyMzgzOT
+c3MSwtMTg4NTUzNjkwNywxNjIzNDkxNDg5LC0xNjU4MDk1NzQy
+LDQzMDI0MjY4NV19
 -->
