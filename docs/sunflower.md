@@ -35,7 +35,7 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 The history of the sunflower  is enmeshed with mobility, and we can chart that movement in different time periods by using maps to study plant remains and other forms of evidence. The earliest known sunflower remains—charred seeds—tell us that humans used domesticated _Helianthus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated through human selection. That movement of seeds and plant materials was essential to sunflower evolution.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
-Linguistic evidence suggests that the Aztecs used cultivated sunflowers prior to the arrival of the Spanish in the Americas in 1492. However, recent genomic studies of _H. annuus_ cultivated in present-day Mexico show that all of them shared a common eastern North American ancestor. It is possible that a sunflower was independently domesticated in Central America and that it went extinct during the European colonial period.
+There is some debate about when domesticated sunflowers were first used in southwestern North America and Mexico because the source of charred seed remains recovered there, although believed by some to be from _H. annuus_, cannot be determined. Yet, linguistic evidence offers some clues. The Aztecs had several Nahuatl words (“X” and “Y”), that bear no relation to the Spanish “X,” to describe a cultivated sunflower, suggesting that the plant was established in the Aztec Empire prior to the arrival of the Spanish. But, the presence of _H. annuus_ in central Mexico does not necessarily mean that it was cultivated independently there. Recent genomic studies of _H. annuus_ crops from Mexico indicate that they and all other specimens of that species share a common ancestor, which was first domesticated in eastern North America.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
@@ -145,11 +145,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxMzgwMzE1LC04OTExMzY5MzEsLTE4MT
-g3NzAzODAsLTEzNzMxMjMxOSwxNTM1MjIxNzcwLC0zNTQzNDIy
-NzcsLTEwMjAxMTA0NTQsMjAyMzgzOTc3MSwtMTg4NTUzNjkwNy
-wxNjIzNDkxNDg5LC0xNjU4MDk1NzQyLDQzMDI0MjY4NSwzNzYz
-NzczNzYsMjA5MDI2MzQxNiwtMjAyNDE3Mzk5LDIxNDA0OTI5OD
-ksLTk2NDY2NzE0MCwxNDYzMTk1NjU1LDM5MTU4OTUzOSwtNzA5
-MTYwOTUwXX0=
+eyJoaXN0b3J5IjpbMjM4ODc3NDc3LDQwMTM4MDMxNSwtODkxMT
+M2OTMxLC0xODE4NzcwMzgwLC0xMzczMTIzMTksMTUzNTIyMTc3
+MCwtMzU0MzQyMjc3LC0xMDIwMTEwNDU0LDIwMjM4Mzk3NzEsLT
+E4ODU1MzY5MDcsMTYyMzQ5MTQ4OSwtMTY1ODA5NTc0Miw0MzAy
+NDI2ODUsMzc2Mzc3Mzc2LDIwOTAyNjM0MTYsLTIwMjQxNzM5OS
+wyMTQwNDkyOTg5LC05NjQ2NjcxNDAsMTQ2MzE5NTY1NSwzOTE1
+ODk1MzldfQ==
 -->
