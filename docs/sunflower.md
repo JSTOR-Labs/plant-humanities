@@ -82,6 +82,7 @@ Having dispelled several cultural myths about the sunflower, we now turn to anot
 Our familiarity with the sunflower, both real and represented, may lead us to overlook the fact that its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets. This diagram of a mature flower head shows that its disk consists of florets and that what we generally call “petals” are actually ray florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own seed after pollination. Although these traits may come as a surprise to us, botanical illustrators developed an iconography to communicate information about them in the late eighteenth and early nineteenth centuries.
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Helianthus whirl, attributed to L. Shyamal © Creative Commons Attribution-Share Alike 2.5">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg">
 
 This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies a sophisticated understanding of the plant. Henderson shows a partial view of two mature plants—one facing back, and the other nearly front—to communicate valuable information about their dorsal and ventral anatomical structures, while taking some aesthetic liberties to imbue the flower heads with a sense of movement and vitality. <span data-click-image-zoomto="982,2706,2213,1795">At the center of the left flower,</span> a series of green scallop- and flame-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets. These details remind us that the study of art and flora are endeavors rooted in the practices of direct observation and visual analysis.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
@@ -152,11 +153,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTMxMTUwNSwxMzM5MTEwNTE2LDE3MD
-kzMDAxNjYsMzc4NzIxNjYwLDEzNTg0NjU5NTcsLTM5NDMxOTgx
-NCwtMTU3ODcyMzMxNywtMTMwNjAzNjc2LC0xNTc4NzIzMzE3LC
-00NDU1MTgzMjksLTE2ODg2OTUzMjIsLTE1MDk5NzA4MDIsNjY4
-NzEwMDM1LC0zOTI1OTc1MzksLTE2NDM3MDI2OTAsMjM4ODc3ND
-c3LDQwMTM4MDMxNSwtODkxMTM2OTMxLC0xODE4NzcwMzgwLC0x
-MzczMTIzMTldfQ==
+eyJoaXN0b3J5IjpbMjg2NTgzNzgxLDE1NDkzMTE1MDUsMTMzOT
+ExMDUxNiwxNzA5MzAwMTY2LDM3ODcyMTY2MCwxMzU4NDY1OTU3
+LC0zOTQzMTk4MTQsLTE1Nzg3MjMzMTcsLTEzMDYwMzY3NiwtMT
+U3ODcyMzMxNywtNDQ1NTE4MzI5LC0xNjg4Njk1MzIyLC0xNTA5
+OTcwODAyLDY2ODcxMDAzNSwtMzkyNTk3NTM5LC0xNjQzNzAyNj
+kwLDIzODg3NzQ3Nyw0MDEzODAzMTUsLTg5MTEzNjkzMSwtMTgx
+ODc3MDM4MF19
 -->
