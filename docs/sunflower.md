@@ -8,7 +8,6 @@
 ### A Giant among Us
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-<param ve-image iiif region="1078,259,3906,3278" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
  _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, this species of sunflower is the only crop plant in use today to have been domesticated in North America. The plant is also a popular ornamental, renowned for its yellow flower head with a large round disk and imposing height. Indeed, _H. annuus_ can grow up to sixteen feet tall, towering over us and other organisms. Because of the common sunflower’s widespread cultivation and iconic qualities, we tend to essentialize the genus by assuming that all sunflowers have yellow blossoms, a single flower head, and an unbranched stem. Such cultural myths about the sunflower have shaped and been shaped by visual representations of the plant, particularly those depicting _H. annuus_.
 
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
@@ -152,11 +151,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTkzNDMzNSwyOTgyNDE4MzQsLTEwOT
-Q5NDIzMzQsMTU0OTMxMTUwNSwxMzM5MTEwNTE2LDE3MDkzMDAx
-NjYsMzc4NzIxNjYwLDEzNTg0NjU5NTcsLTM5NDMxOTgxNCwtMT
-U3ODcyMzMxNywtMTMwNjAzNjc2LC0xNTc4NzIzMzE3LC00NDU1
-MTgzMjksLTE2ODg2OTUzMjIsLTE1MDk5NzA4MDIsNjY4NzEwMD
-M1LC0zOTI1OTc1MzksLTE2NDM3MDI2OTAsMjM4ODc3NDc3LDQw
-MTM4MDMxNV19
+eyJoaXN0b3J5IjpbNTMwNTQ0MTUzLDE4Mjk5MzQzMzUsMjk4Mj
+QxODM0LC0xMDk0OTQyMzM0LDE1NDkzMTE1MDUsMTMzOTExMDUx
+NiwxNzA5MzAwMTY2LDM3ODcyMTY2MCwxMzU4NDY1OTU3LC0zOT
+QzMTk4MTQsLTE1Nzg3MjMzMTcsLTEzMDYwMzY3NiwtMTU3ODcy
+MzMxNywtNDQ1NTE4MzI5LC0xNjg4Njk1MzIyLC0xNTA5OTcwOD
+AyLDY2ODcxMDAzNSwtMzkyNTk3NTM5LC0xNjQzNzAyNjkwLDIz
+ODg3NzQ3N119
 -->
