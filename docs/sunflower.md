@@ -35,7 +35,7 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 The history of the sunflower  is enmeshed with mobility, and we can chart that movement in different time periods by using maps to study plant remains and other forms of evidence. The earliest known sunflower remains—charred seeds—tell us that humans used domesticated _Helianthus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated through human selection. That movement of seeds and plant materials was essential to sunflower evolution.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
-There is some debate about when domesticated sunflowers were used in the American southwest and Central America, and whether the plant was cultivated in these areas independently from sites in North America. Similarly, there are differing accounts of when and from where in the Americas the Spanish first collected domesticated sunflowers during the colonial period. One hypothesis is that Hernando de Soto, who traveled to the southeastern United States, from 1539 to 1543, was the first person to introduce the plant to Europe.
+Linguistic evidence suggests that the Aztecs used cultivated sunflowers prior to the arrival of the Spanish in the Americas in 1492. However, recent genomic studies of _H. annuus_ cultivated in present-day Mexico show that all of them shared a common eastern North American ancestor. It is possible that a sunflower was independently domesticated in Central America and that it went extinct during the European colonial period. Similarly, questions persist about when and from where in the Americas the Spanish first collected domesticated sunflowers. One hypothesis is that Hernando de Soto, who traveled to the southeastern United States, from 1539 to 1543, was the first person to introduce the plant to Europe.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
@@ -145,11 +145,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTg3NzAzODAsLTEzNzMxMjMxOSwxNT
-M1MjIxNzcwLC0zNTQzNDIyNzcsLTEwMjAxMTA0NTQsMjAyMzgz
-OTc3MSwtMTg4NTUzNjkwNywxNjIzNDkxNDg5LC0xNjU4MDk1Nz
-QyLDQzMDI0MjY4NSwzNzYzNzczNzYsMjA5MDI2MzQxNiwtMjAy
-NDE3Mzk5LDIxNDA0OTI5ODksLTk2NDY2NzE0MCwxNDYzMTk1Nj
-U1LDM5MTU4OTUzOSwtNzA5MTYwOTUwLDE3NzIwNDY0NCwxMzM5
-MDU5MTA3XX0=
+eyJoaXN0b3J5IjpbMTcxMjcxMzc4NSwtMTgxODc3MDM4MCwtMT
+M3MzEyMzE5LDE1MzUyMjE3NzAsLTM1NDM0MjI3NywtMTAyMDEx
+MDQ1NCwyMDIzODM5NzcxLC0xODg1NTM2OTA3LDE2MjM0OTE0OD
+ksLTE2NTgwOTU3NDIsNDMwMjQyNjg1LDM3NjM3NzM3NiwyMDkw
+MjYzNDE2LC0yMDI0MTczOTksMjE0MDQ5Mjk4OSwtOTY0NjY3MT
+QwLDE0NjMxOTU2NTUsMzkxNTg5NTM5LC03MDkxNjA5NTAsMTc3
+MjA0NjQ0XX0=
 -->
