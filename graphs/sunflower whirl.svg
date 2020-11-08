@@ -1,0 +1,3092 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+ """ To recover the Python script to generate this SVG, delete the line above -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-2300 -2300 4600 4600">
+ <title>SunflowerModel</title>
+ <desc>Illustration of Vogel's formula of the pattern of sunflower florets for n from 1 to 500. In the SVG, hover over a floret to see its statistics and colour florets of the same colour.</desc>
+ <style type="text/css">
+  #main { font-family:Helvetica,Arial,sans-serif; font-weight:bold; font-size:80px; text-anchor:middle;
+          stroke-opacity:0; stroke:none; fill:none; }
+  #main:hover   { fill-opacity:0.25; stroke-opacity:1; }
+  .active:hover { fill-opacity:1; }
+  text          { fill-opacity:0.75; fill:#ffffff; cursor:default; }
+ </style>
+ <circle cx="0" cy="0" r="99999" fill="#ffffff"/>
+ <g id="main">
+  <circle cx="0" cy="0" r="2500" fill="#ffffff"/>
+<!-- BEGIN_DYNAMIC_SVG { -->
+ <path d="M 0,0 A 97,97 0 0 0 -74,-68 A 137,137 0 0 0 12,141 A 168,168 0 0 0 105,-137 A 194,194 0 0 0 -197,35 A 217,217 0 0 0 189,120 A 238,238 0 0 0 -64,-237 A 257,257 0 0 0 -122,235 A 274,274 0 0 0 266,-97 A 291,291 0 0 0 -277,-114 A 307,307 0 0 0 134,286" stroke-width="4" stroke="#000000"/>
+ <g class="active" fill="#6600cc">
+  <g transform="translate(189,120)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(1.5,1)" x="0" y="0.7ex"><tspan dx="0">5</tspan></text>
+   <title>n = 5 , r = 2.236 c ,
+&#952; = 12.00 rad &#8801; 327.5&#176;</title>
+  </g>
+  <g transform="translate(134,286)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">1</tspan><tspan dx="-1">0</tspan></text>
+   <title>n = 10 , r = 3.162 c ,
+&#952; = 24.00 rad &#8801; 295.1&#176;</title>
+  </g>
+  <g transform="translate(-50,384)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">1</tspan><tspan dx="-1">5</tspan></text>
+   <title>n = 15 , r = 3.873 c ,
+&#952; = 36.00 rad &#8801; 262.6&#176;</title>
+  </g>
+  <g transform="translate(-287,343)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">2</tspan><tspan dx="-1">0</tspan></text>
+   <title>n = 20 , r = 4.472 c ,
+&#952; = 48.00 rad &#8801; 230.2&#176;</title>
+  </g>
+  <g transform="translate(-476,152)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">2</tspan><tspan dx="-1">5</tspan></text>
+   <title>n = 25 , r = 5.000 c ,
+&#952; = 60.00 rad &#8801; 197.7&#176;</title>
+  </g>
+  <g transform="translate(-530,-140)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">3</tspan><tspan dx="-1">0</tspan></text>
+   <title>n = 30 , r = 5.477 c ,
+&#952; = 72.00 rad &#8801; 165.2&#176;</title>
+  </g>
+  <g transform="translate(-402,-434)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">3</tspan><tspan dx="-1">5</tspan></text>
+   <title>n = 35 , r = 5.916 c ,
+&#952; = 84.00 rad &#8801; 132.8&#176;</title>
+  </g>
+  <g transform="translate(-113,-622)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">4</tspan><tspan dx="-1">0</tspan></text>
+   <title>n = 40 , r = 6.325 c ,
+&#952; = 96.00 rad &#8801; 100.3&#176;</title>
+  </g>
+  <g transform="translate(253,-621)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">4</tspan><tspan dx="-1">5</tspan></text>
+   <title>n = 45 , r = 6.708 c ,
+&#952; = 108.00 rad &#8801; 67.8&#176;</title>
+  </g>
+  <g transform="translate(576,-409)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">5</tspan><tspan dx="-1">0</tspan></text>
+   <title>n = 50 , r = 7.071 c ,
+&#952; = 120.00 rad &#8801; 35.4&#176;</title>
+  </g>
+  <g transform="translate(741,-38)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">5</tspan><tspan dx="-1">5</tspan></text>
+   <title>n = 55 , r = 7.416 c ,
+&#952; = 132.00 rad &#8801; 2.9&#176;</title>
+  </g>
+  <g transform="translate(674,382)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">6</tspan><tspan dx="-1">0</tspan></text>
+   <title>n = 60 , r = 7.746 c ,
+&#952; = 144.00 rad &#8801; 330.5&#176;</title>
+  </g>
+  <g transform="translate(379,712)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">6</tspan><tspan dx="-1">5</tspan></text>
+   <title>n = 65 , r = 8.062 c ,
+&#952; = 156.00 rad &#8801; 298.0&#176;</title>
+  </g>
+  <g transform="translate(-65,834)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">7</tspan><tspan dx="-1">0</tspan></text>
+   <title>n = 70 , r = 8.367 c ,
+&#952; = 168.00 rad &#8801; 265.5&#176;</title>
+  </g>
+  <g transform="translate(-520,692)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">7</tspan><tspan dx="-1">5</tspan></text>
+   <title>n = 75 , r = 8.660 c ,
+&#952; = 180.00 rad &#8801; 233.1&#176;</title>
+  </g>
+  <g transform="translate(-837,315)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">8</tspan><tspan dx="-1">0</tspan></text>
+   <title>n = 80 , r = 8.944 c ,
+&#952; = 192.00 rad &#8801; 200.6&#176;</title>
+  </g>
+  <g transform="translate(-902,-189)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">8</tspan><tspan dx="-1">5</tspan></text>
+   <title>n = 85 , r = 9.220 c ,
+&#952; = 204.00 rad &#8801; 168.2&#176;</title>
+  </g>
+  <g transform="translate(-679,-663)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">9</tspan><tspan dx="-1">0</tspan></text>
+   <title>n = 90 , r = 9.487 c ,
+&#952; = 216.00 rad &#8801; 135.7&#176;</title>
+  </g>
+  <g transform="translate(-223,-949)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">9</tspan><tspan dx="-1">5</tspan></text>
+   <title>n = 95 , r = 9.747 c ,
+&#952; = 228.00 rad &#8801; 103.2&#176;</title>
+  </g>
+  <g transform="translate(329,-944)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">0</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 100 , r = 10.000 c ,
+&#952; = 240.00 rad &#8801; 70.8&#176;</title>
+  </g>
+  <g transform="translate(804,-635)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">0</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 105 , r = 10.247 c ,
+&#952; = 252.00 rad &#8801; 38.3&#176;</title>
+  </g>
+  <g transform="translate(1043,-107)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">1</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 110 , r = 10.488 c ,
+&#952; = 264.00 rad &#8801; 5.9&#176;</title>
+  </g>
+  <g transform="translate(959,480)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">1</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 115 , r = 10.724 c ,
+&#952; = 276.00 rad &#8801; 333.4&#176;</title>
+  </g>
+  <g transform="translate(563,940)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">2</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 120 , r = 10.954 c ,
+&#952; = 288.00 rad &#8801; 300.9&#176;</title>
+  </g>
+  <g transform="translate(-30,1118)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">2</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 125 , r = 11.180 c ,
+&#952; = 300.00 rad &#8801; 268.5&#176;</title>
+  </g>
+  <g transform="translate(-637,945)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">3</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 130 , r = 11.402 c ,
+&#952; = 312.00 rad &#8801; 236.0&#176;</title>
+  </g>
+  <g transform="translate(-1065,464)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">3</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 135 , r = 11.619 c ,
+&#952; = 324.00 rad &#8801; 203.5&#176;</title>
+  </g>
+  <g transform="translate(-1169,-183)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">4</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 140 , r = 11.832 c ,
+&#952; = 335.99 rad &#8801; 171.1&#176;</title>
+  </g>
+  <g transform="translate(-904,-796)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">4</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 145 , r = 12.042 c ,
+&#952; = 347.99 rad &#8801; 138.6&#176;</title>
+  </g>
+  <g transform="translate(-341,-1176)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">5</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 150 , r = 12.247 c ,
+&#952; = 359.99 rad &#8801; 106.2&#176;</title>
+  </g>
+  <g transform="translate(349,-1195)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">5</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 155 , r = 12.450 c ,
+&#952; = 371.99 rad &#8801; 73.7&#176;</title>
+  </g>
+  <g transform="translate(951,-834)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">6</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 160 , r = 12.649 c ,
+&#952; = 383.99 rad &#8801; 41.2&#176;</title>
+  </g>
+  <g transform="translate(1269,-196)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">6</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 165 , r = 12.845 c ,
+&#952; = 395.99 rad &#8801; 8.8&#176;</title>
+  </g>
+  <g transform="translate(1194,524)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">7</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 170 , r = 13.038 c ,
+&#952; = 407.99 rad &#8801; 336.3&#176;</title>
+  </g>
+  <g transform="translate(737,1099)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">7</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 175 , r = 13.229 c ,
+&#952; = 419.99 rad &#8801; 303.9&#176;</title>
+  </g>
+  <g transform="translate(33,1341)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">8</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 180 , r = 13.416 c ,
+&#952; = 431.99 rad &#8801; 271.4&#176;</title>
+  </g>
+  <g transform="translate(-702,1165)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">8</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 185 , r = 13.601 c ,
+&#952; = 443.99 rad &#8801; 238.9&#176;</title>
+  </g>
+  <g transform="translate(-1234,615)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">9</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 190 , r = 13.784 c ,
+&#952; = 455.99 rad &#8801; 206.5&#176;</title>
+  </g>
+  <g transform="translate(-1389,-146)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">9</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 195 , r = 13.964 c ,
+&#952; = 467.99 rad &#8801; 174.0&#176;</title>
+  </g>
+  <g transform="translate(-1108,-879)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">0</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 200 , r = 14.142 c ,
+&#952; = 479.99 rad &#8801; 141.6&#176;</title>
+  </g>
+  <g transform="translate(-468,-1353)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">0</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 205 , r = 14.318 c ,
+&#952; = 491.99 rad &#8801; 109.1&#176;</title>
+  </g>
+  <g transform="translate(335,-1410)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">1</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 210 , r = 14.491 c ,
+&#952; = 503.99 rad &#8801; 76.6&#176;</title>
+  </g>
+  <g transform="translate(1052,-1022)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">1</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 215 , r = 14.663 c ,
+&#952; = 515.99 rad &#8801; 44.2&#176;</title>
+  </g>
+  <g transform="translate(1452,-301)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">2</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 220 , r = 14.832 c ,
+&#952; = 527.99 rad &#8801; 11.7&#176;</title>
+  </g>
+  <g transform="translate(1403,532)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">2</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 225 , r = 15.000 c ,
+&#952; = 539.99 rad &#8801; 339.2&#176;</title>
+  </g>
+  <g transform="translate(908,1215)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">3</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 230 , r = 15.166 c ,
+&#952; = 551.99 rad &#8801; 306.8&#176;</title>
+  </g>
+  <g transform="translate(116,1529)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">3</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 235 , r = 15.330 c ,
+&#952; = 563.99 rad &#8801; 274.3&#176;</title>
+  </g>
+  <g transform="translate(-731,1366)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">4</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 240 , r = 15.492 c ,
+&#952; = 575.99 rad &#8801; 241.9&#176;</title>
+  </g>
+  <g transform="translate(-1364,768)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">4</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 245 , r = 15.652 c ,
+&#952; = 587.99 rad &#8801; 209.4&#176;</title>
+  </g>
+  <g transform="translate(-1579,-84)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">5</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 250 , r = 15.811 c ,
+&#952; = 599.99 rad &#8801; 176.9&#176;</title>
+  </g>
+  <g transform="translate(-1300,-928)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">5</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 255 , r = 15.969 c ,
+&#952; = 611.99 rad &#8801; 144.5&#176;</title>
+  </g>
+  <g transform="translate(-605,-1495)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">6</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 260 , r = 16.125 c ,
+&#952; = 623.99 rad &#8801; 112.0&#176;</title>
+  </g>
+  <g transform="translate(295,-1601)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">6</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 265 , r = 16.279 c ,
+&#952; = 635.99 rad &#8801; 79.6&#176;</title>
+  </g>
+  <g transform="translate(1119,-1204)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">7</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 270 , r = 16.432 c ,
+&#952; = 647.99 rad &#8801; 47.1&#176;</title>
+  </g>
+  <g transform="translate(1605,-419)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">7</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 275 , r = 16.583 c ,
+&#952; = 659.99 rad &#8801; 14.6&#176;</title>
+  </g>
+  <g transform="translate(1593,512)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">8</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 280 , r = 16.733 c ,
+&#952; = 671.99 rad &#8801; 342.2&#176;</title>
+  </g>
+  <g transform="translate(1079,1299)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">8</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 285 , r = 16.882 c ,
+&#952; = 683.99 rad &#8801; 309.7&#176;</title>
+  </g>
+  <g transform="translate(215,1689)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">9</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 290 , r = 17.029 c ,
+&#952; = 695.99 rad &#8801; 277.3&#176;</title>
+  </g>
+  <g transform="translate(-732,1554)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">9</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 295 , r = 17.176 c ,
+&#952; = 707.99 rad &#8801; 244.8&#176;</title>
+  </g>
+  <g transform="translate(-1464,926)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">0</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 300 , r = 17.321 c ,
+&#952; = 719.99 rad &#8801; 212.3&#176;</title>
+  </g>
+  <g transform="translate(-1746,-4)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">0</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 305 , r = 17.464 c ,
+&#952; = 731.99 rad &#8801; 179.9&#176;</title>
+  </g>
+  <g transform="translate(-1483,-948)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">1</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 310 , r = 17.607 c ,
+&#952; = 743.99 rad &#8801; 147.4&#176;</title>
+  </g>
+  <g transform="translate(-749,-1609)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">1</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 315 , r = 17.748 c ,
+&#952; = 755.99 rad &#8801; 114.9&#176;</title>
+  </g>
+  <g transform="translate(234,-1773)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">2</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 320 , r = 17.889 c ,
+&#952; = 767.99 rad &#8801; 82.5&#176;</title>
+  </g>
+  <g transform="translate(1158,-1381)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">2</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 325 , r = 18.028 c ,
+&#952; = 779.99 rad &#8801; 50.0&#176;</title>
+  </g>
+  <g transform="translate(1732,-548)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">3</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 330 , r = 18.166 c ,
+&#952; = 791.99 rad &#8801; 17.6&#176;</title>
+  </g>
+  <g transform="translate(1769,471)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">3</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 335 , r = 18.303 c ,
+&#952; = 803.99 rad &#8801; 345.1&#176;</title>
+  </g>
+  <g transform="translate(1249,1356)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">4</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 340 , r = 18.439 c ,
+&#952; = 815.99 rad &#8801; 312.6&#176;</title>
+  </g>
+  <g transform="translate(328,1828)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">4</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 345 , r = 18.574 c ,
+&#952; = 827.99 rad &#8801; 280.2&#176;</title>
+  </g>
+  <g transform="translate(-709,1731)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">5</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 350 , r = 18.708 c ,
+&#952; = 839.99 rad &#8801; 247.7&#176;</title>
+  </g>
+  <g transform="translate(-1539,1088)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">5</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 355 , r = 18.841 c ,
+&#952; = 851.99 rad &#8801; 215.3&#176;</title>
+  </g>
+  <g transform="translate(-1895,93)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">6</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 360 , r = 18.974 c ,
+&#952; = 863.99 rad &#8801; 182.8&#176;</title>
+  </g>
+  <g transform="translate(-1660,-946)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">6</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 365 , r = 19.105 c ,
+&#952; = 875.99 rad &#8801; 150.3&#176;</title>
+  </g>
+  <g transform="translate(-899,-1700)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">7</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 370 , r = 19.235 c ,
+&#952; = 887.99 rad &#8801; 117.9&#176;</title>
+  </g>
+  <g transform="translate(155,-1930)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">7</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 375 , r = 19.365 c ,
+&#952; = 899.99 rad &#8801; 85.4&#176;</title>
+  </g>
+  <g transform="translate(1175,-1556)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">8</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 380 , r = 19.494 c ,
+&#952; = 911.99 rad &#8801; 53.0&#176;</title>
+  </g>
+  <g transform="translate(1838,-687)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">8</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 385 , r = 19.621 c ,
+&#952; = 923.99 rad &#8801; 20.5&#176;</title>
+  </g>
+  <g transform="translate(1932,410)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">9</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 390 , r = 19.748 c ,
+&#952; = 935.99 rad &#8801; 348.0&#176;</title>
+  </g>
+  <g transform="translate(1419,1391)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">9</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 395 , r = 19.875 c ,
+&#952; = 947.99 rad &#8801; 315.6&#176;</title>
+  </g>
+  <g transform="translate(453,1948)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">0</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 400 , r = 20.000 c ,
+&#952; = 959.99 rad &#8801; 283.1&#176;</title>
+  </g>
+  <g transform="translate(-667,1899)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">0</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 405 , r = 20.125 c ,
+&#952; = 971.99 rad &#8801; 250.6&#176;</title>
+  </g>
+  <g transform="translate(-1592,1252)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">1</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 410 , r = 20.248 c ,
+&#952; = 983.98 rad &#8801; 218.2&#176;</title>
+  </g>
+  <g transform="translate(-2027,203)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">1</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 415 , r = 20.372 c ,
+&#952; = 995.98 rad &#8801; 185.7&#176;</title>
+  </g>
+  <g transform="translate(-1830,-922)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">2</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 420 , r = 20.494 c ,
+&#952; = 1007.98 rad &#8801; 153.3&#176;</title>
+  </g>
+  <g transform="translate(-1056,-1771)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">2</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 425 , r = 20.616 c ,
+&#952; = 1019.98 rad &#8801; 120.8&#176;</title>
+  </g>
+  <g transform="translate(60,-2073)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">3</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 430 , r = 20.736 c ,
+&#952; = 1031.98 rad &#8801; 88.3&#176;</title>
+  </g>
+  <g transform="translate(1170,-1727)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">3</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 435 , r = 20.857 c ,
+&#952; = 1043.98 rad &#8801; 55.9&#176;</title>
+  </g>
+  <g transform="translate(1925,-834)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">4</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 440 , r = 20.976 c ,
+&#952; = 1055.98 rad &#8801; 23.4&#176;</title>
+  </g>
+  <g transform="translate(2083,332)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">4</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 445 , r = 21.095 c ,
+&#952; = 1067.98 rad &#8801; 351.0&#176;</title>
+  </g>
+  <g transform="translate(1589,1406)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">5</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 450 , r = 21.213 c ,
+&#952; = 1079.98 rad &#8801; 318.5&#176;</title>
+  </g>
+  <g transform="translate(589,2050)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">5</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 455 , r = 21.331 c ,
+&#952; = 1091.98 rad &#8801; 286.0&#176;</title>
+  </g>
+  <g transform="translate(-607,2057)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">6</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 460 , r = 21.448 c ,
+&#952; = 1103.98 rad &#8801; 253.6&#176;</title>
+  </g>
+  <g transform="translate(-1625,1418)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">6</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 465 , r = 21.564 c ,
+&#952; = 1115.98 rad &#8801; 221.1&#176;</title>
+  </g>
+  <g transform="translate(-2143,326)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">7</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 470 , r = 21.679 c ,
+&#952; = 1127.98 rad &#8801; 188.6&#176;</title>
+  </g>
+  <g transform="translate(-1994,-880)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">7</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 475 , r = 21.794 c ,
+&#952; = 1139.98 rad &#8801; 156.2&#176;</title>
+  </g>
+  <g transform="translate(-1216,-1822)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">8</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 480 , r = 21.909 c ,
+&#952; = 1151.98 rad &#8801; 123.7&#176;</title>
+  </g>
+  <g transform="translate(-49,-2202)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">8</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 485 , r = 22.023 c ,
+&#952; = 1163.98 rad &#8801; 91.3&#176;</title>
+  </g>
+  <g transform="translate(1147,-1894)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">9</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 490 , r = 22.136 c ,
+&#952; = 1175.98 rad &#8801; 58.8&#176;</title>
+  </g>
+  <g transform="translate(1994,-987)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">9</tspan><tspan dx="-2">5</tspan></text>
+   <title>n = 495 , r = 22.249 c ,
+&#952; = 1187.98 rad &#8801; 26.3&#176;</title>
+  </g>
+  <g transform="translate(2223,238)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">5</tspan><tspan dx="-2">0</tspan><tspan dx="-2">0</tspan></text>
+   <title>n = 500 , r = 22.361 c ,
+&#952; = 1199.98 rad &#8801; 353.9&#176;</title>
+  </g>
+ </g>
+ <g class="active" fill="#cc0000">
+  <g transform="translate(-74,-68)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(1.5,1)" x="0" y="0.7ex"><tspan dx="0">1</tspan></text>
+   <title>n = 1 , r = 1.000 c ,
+&#952; = 2.40 rad &#8801; 137.5&#176;</title>
+  </g>
+  <g transform="translate(-64,-237)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(1.5,1)" x="0" y="0.7ex"><tspan dx="0">6</tspan></text>
+   <title>n = 6 , r = 2.449 c ,
+&#952; = 14.40 rad &#8801; 105.0&#176;</title>
+  </g>
+  <g transform="translate(99,-316)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">1</tspan><tspan dx="-1">1</tspan></text>
+   <title>n = 11 , r = 3.317 c ,
+&#952; = 26.40 rad &#8801; 72.6&#176;</title>
+  </g>
+  <g transform="translate(306,-258)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">1</tspan><tspan dx="-1">6</tspan></text>
+   <title>n = 16 , r = 4.000 c ,
+&#952; = 38.40 rad &#8801; 40.1&#176;</title>
+  </g>
+  <g transform="translate(454,-61)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">2</tspan><tspan dx="-1">1</tspan></text>
+   <title>n = 21 , r = 4.583 c ,
+&#952; = 50.40 rad &#8801; 7.7&#176;</title>
+  </g>
+  <g transform="translate(463,214)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">2</tspan><tspan dx="-1">6</tspan></text>
+   <title>n = 26 , r = 5.099 c ,
+&#952; = 62.40 rad &#8801; 335.2&#176;</title>
+  </g>
+  <g transform="translate(301,468)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">3</tspan><tspan dx="-1">1</tspan></text>
+   <title>n = 31 , r = 5.568 c ,
+&#952; = 74.40 rad &#8801; 302.7&#176;</title>
+  </g>
+  <g transform="translate(3,600)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">3</tspan><tspan dx="-1">6</tspan></text>
+   <title>n = 36 , r = 6.000 c ,
+&#952; = 86.40 rad &#8801; 270.3&#176;</title>
+  </g>
+  <g transform="translate(-341,542)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">4</tspan><tspan dx="-1">1</tspan></text>
+   <title>n = 41 , r = 6.403 c ,
+&#952; = 98.40 rad &#8801; 237.8&#176;</title>
+  </g>
+  <g transform="translate(-613,290)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">4</tspan><tspan dx="-1">6</tspan></text>
+   <title>n = 46 , r = 6.782 c ,
+&#952; = 110.40 rad &#8801; 205.4&#176;</title>
+  </g>
+  <g transform="translate(-709,-88)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">5</tspan><tspan dx="-1">1</tspan></text>
+   <title>n = 51 , r = 7.141 c ,
+&#952; = 122.40 rad &#8801; 172.9&#176;</title>
+  </g>
+  <g transform="translate(-577,-477)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">5</tspan><tspan dx="-1">6</tspan></text>
+   <title>n = 56 , r = 7.483 c ,
+&#952; = 134.40 rad &#8801; 140.4&#176;</title>
+  </g>
+  <g transform="translate(-241,-743)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">6</tspan><tspan dx="-1">1</tspan></text>
+   <title>n = 61 , r = 7.810 c ,
+&#952; = 146.40 rad &#8801; 108.0&#176;</title>
+  </g>
+  <g transform="translate(203,-787)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">6</tspan><tspan dx="-1">6</tspan></text>
+   <title>n = 66 , r = 8.124 c ,
+&#952; = 158.40 rad &#8801; 75.5&#176;</title>
+  </g>
+  <g transform="translate(616,-575)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">7</tspan><tspan dx="-1">1</tspan></text>
+   <title>n = 71 , r = 8.426 c ,
+&#952; = 170.40 rad &#8801; 43.1&#176;</title>
+  </g>
+  <g transform="translate(857,-160)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">7</tspan><tspan dx="-1">6</tspan></text>
+   <title>n = 76 , r = 8.718 c ,
+&#952; = 182.40 rad &#8801; 10.6&#176;</title>
+  </g>
+  <g transform="translate(835,335)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">8</tspan><tspan dx="-1">1</tspan></text>
+   <title>n = 81 , r = 9.000 c ,
+&#952; = 194.40 rad &#8801; 338.1&#176;</title>
+  </g>
+  <g transform="translate(541,753)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">8</tspan><tspan dx="-1">6</tspan></text>
+   <title>n = 86 , r = 9.274 c ,
+&#952; = 206.40 rad &#8801; 305.7&#176;</title>
+  </g>
+  <g transform="translate(53,952)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">9</tspan><tspan dx="-1">1</tspan></text>
+   <title>n = 91 , r = 9.539 c ,
+&#952; = 218.40 rad &#8801; 273.2&#176;</title>
+  </g>
+  <g transform="translate(-479,855)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">9</tspan><tspan dx="-1">6</tspan></text>
+   <title>n = 96 , r = 9.798 c ,
+&#952; = 230.40 rad &#8801; 240.7&#176;</title>
+  </g>
+  <g transform="translate(-885,476)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">0</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 101 , r = 10.050 c ,
+&#952; = 242.40 rad &#8801; 208.3&#176;</title>
+  </g>
+  <g transform="translate(-1027,-75)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">0</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 106 , r = 10.296 c ,
+&#952; = 254.40 rad &#8801; 175.8&#176;</title>
+  </g>
+  <g transform="translate(-845,-629)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">1</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 111 , r = 10.536 c ,
+&#952; = 266.40 rad &#8801; 143.4&#176;</title>
+  </g>
+  <g transform="translate(-384,-1006)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">1</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 116 , r = 10.770 c ,
+&#952; = 278.40 rad &#8801; 110.9&#176;</title>
+  </g>
+  <g transform="translate(220,-1078)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">2</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 121 , r = 11.000 c ,
+&#952; = 290.40 rad &#8801; 78.4&#176;</title>
+  </g>
+  <g transform="translate(780,-807)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">2</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 126 , r = 11.225 c ,
+&#952; = 302.40 rad &#8801; 46.0&#176;</title>
+  </g>
+  <g transform="translate(1113,-268)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">3</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 131 , r = 11.446 c ,
+&#952; = 314.40 rad &#8801; 13.5&#176;</title>
+  </g>
+  <g transform="translate(1103,379)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">3</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 136 , r = 11.662 c ,
+&#952; = 326.39 rad &#8801; 341.1&#176;</title>
+  </g>
+  <g transform="translate(741,928)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">4</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 141 , r = 11.874 c ,
+&#952; = 338.39 rad &#8801; 308.6&#176;</title>
+  </g>
+  <g transform="translate(129,1201)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">4</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 146 , r = 12.083 c ,
+&#952; = 350.39 rad &#8801; 276.1&#176;</title>
+  </g>
+  <g transform="translate(-545,1101)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">5</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 151 , r = 12.288 c ,
+&#952; = 362.39 rad &#8801; 243.7&#176;</title>
+  </g>
+  <g transform="translate(-1068,647)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">5</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 156 , r = 12.490 c ,
+&#952; = 374.39 rad &#8801; 211.2&#176;</title>
+  </g>
+  <g transform="translate(-1269,-28)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">6</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 161 , r = 12.689 c ,
+&#952; = 386.39 rad &#8801; 178.8&#176;</title>
+  </g>
+  <g transform="translate(-1072,-715)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">6</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 166 , r = 12.884 c ,
+&#952; = 398.39 rad &#8801; 146.3&#176;</title>
+  </g>
+  <g transform="translate(-528,-1196)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">7</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 171 , r = 13.077 c ,
+&#952; = 410.39 rad &#8801; 113.8&#176;</title>
+  </g>
+  <g transform="translate(199,-1312)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">7</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 176 , r = 13.266 c ,
+&#952; = 422.39 rad &#8801; 81.4&#176;</title>
+  </g>
+  <g transform="translate(884,-1014)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">8</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 181 , r = 13.454 c ,
+&#952; = 434.39 rad &#8801; 48.9&#176;</title>
+  </g>
+  <g transform="translate(1308,-386)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">8</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 186 , r = 13.638 c ,
+&#952; = 446.39 rad &#8801; 16.4&#176;</title>
+  </g>
+  <g transform="translate(1328,381)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">9</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 191 , r = 13.820 c ,
+&#952; = 458.39 rad &#8801; 344.0&#176;</title>
+  </g>
+  <g transform="translate(928,1048)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">9</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 196 , r = 14.000 c ,
+&#952; = 470.39 rad &#8801; 311.5&#176;</title>
+  </g>
+  <g transform="translate(223,1400)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">0</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 201 , r = 14.177 c ,
+&#952; = 482.39 rad &#8801; 279.1&#176;</title>
+  </g>
+  <g transform="translate(-570,1317)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">0</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 206 , r = 14.353 c ,
+&#952; = 494.39 rad &#8801; 246.6&#176;</title>
+  </g>
+  <g transform="translate(-1202,815)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">1</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 211 , r = 14.526 c ,
+&#952; = 506.39 rad &#8801; 214.1&#176;</title>
+  </g>
+  <g transform="translate(-1469,43)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">1</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 216 , r = 14.697 c ,
+&#952; = 518.39 rad &#8801; 181.7&#176;</title>
+  </g>
+  <g transform="translate(-1277,-761)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">2</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 221 , r = 14.866 c ,
+&#952; = 530.39 rad &#8801; 149.2&#176;</title>
+  </g>
+  <g transform="translate(-677,-1342)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">2</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 226 , r = 15.033 c ,
+&#952; = 542.39 rad &#8801; 116.8&#176;</title>
+  </g>
+  <g transform="translate(151,-1512)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">3</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 231 , r = 15.199 c ,
+&#952; = 554.39 rad &#8801; 84.3&#176;</title>
+  </g>
+  <g transform="translate(949,-1208)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">3</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 236 , r = 15.362 c ,
+&#952; = 566.39 rad &#8801; 51.8&#176;</title>
+  </g>
+  <g transform="translate(1465,-515)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">4</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 241 , r = 15.524 c ,
+&#952; = 578.39 rad &#8801; 19.4&#176;</title>
+  </g>
+  <g transform="translate(1528,355)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">4</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 246 , r = 15.684 c ,
+&#952; = 590.39 rad &#8801; 346.9&#176;</title>
+  </g>
+  <g transform="translate(1109,1131)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">5</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 251 , r = 15.843 c ,
+&#952; = 602.39 rad &#8801; 314.4&#176;</title>
+  </g>
+  <g transform="translate(332,1565)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">5</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 256 , r = 16.000 c ,
+&#952; = 614.39 rad &#8801; 282.0&#176;</title>
+  </g>
+  <g transform="translate(-565,1514)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">6</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 261 , r = 16.155 c ,
+&#952; = 626.39 rad &#8801; 249.5&#176;</title>
+  </g>
+  <g transform="translate(-1301,983)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">6</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 266 , r = 16.310 c ,
+&#952; = 638.39 rad &#8801; 217.1&#176;</title>
+  </g>
+  <g transform="translate(-1641,132)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">7</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 271 , r = 16.462 c ,
+&#952; = 650.39 rad &#8801; 184.6&#176;</title>
+  </g>
+  <g transform="translate(-1469,-776)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">7</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 276 , r = 16.613 c ,
+&#952; = 662.39 rad &#8801; 152.1&#176;</title>
+  </g>
+  <g transform="translate(-830,-1456)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">8</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 281 , r = 16.763 c ,
+&#952; = 674.39 rad &#8801; 119.7&#176;</title>
+  </g>
+  <g transform="translate(82,-1689)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">8</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 286 , r = 16.912 c ,
+&#952; = 686.39 rad &#8801; 87.2&#176;</title>
+  </g>
+  <g transform="translate(984,-1393)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">9</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 291 , r = 17.059 c ,
+&#952; = 698.39 rad &#8801; 54.8&#176;</title>
+  </g>
+  <g transform="translate(1592,-653)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">9</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 296 , r = 17.205 c ,
+&#952; = 710.39 rad &#8801; 22.3&#176;</title>
+  </g>
+  <g transform="translate(1708,306)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">0</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 301 , r = 17.349 c ,
+&#952; = 722.39 rad &#8801; 349.8&#176;</title>
+  </g>
+  <g transform="translate(1287,1185)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">0</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 306 , r = 17.493 c ,
+&#952; = 734.39 rad &#8801; 317.4&#176;</title>
+  </g>
+  <g transform="translate(454,1704)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">1</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 311 , r = 17.635 c ,
+&#952; = 746.39 rad &#8801; 284.9&#176;</title>
+  </g>
+  <g transform="translate(-536,1695)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">1</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 316 , r = 17.776 c ,
+&#952; = 758.39 rad &#8801; 252.5&#176;</title>
+  </g>
+  <g transform="translate(-1373,1151)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">2</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 321 , r = 17.916 c ,
+&#952; = 770.39 rad &#8801; 220.0&#176;</title>
+  </g>
+  <g transform="translate(-1790,237)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">2</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 326 , r = 18.055 c ,
+&#952; = 782.39 rad &#8801; 187.5&#176;</title>
+  </g>
+  <g transform="translate(-1650,-767)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">3</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 331 , r = 18.193 c ,
+&#952; = 794.39 rad &#8801; 155.1&#176;</title>
+  </g>
+  <g transform="translate(-988,-1544)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">3</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 336 , r = 18.330 c ,
+&#952; = 806.39 rad &#8801; 122.6&#176;</title>
+  </g>
+  <g transform="translate(-5,-1847)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">4</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 341 , r = 18.466 c ,
+&#952; = 818.39 rad &#8801; 90.1&#176;</title>
+  </g>
+  <g transform="translate(994,-1572)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">4</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 346 , r = 18.601 c ,
+&#952; = 830.39 rad &#8801; 57.7&#176;</title>
+  </g>
+  <g transform="translate(1695,-798)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">5</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 351 , r = 18.735 c ,
+&#952; = 842.39 rad &#8801; 25.2&#176;</title>
+  </g>
+  <g transform="translate(1872,238)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">5</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 356 , r = 18.868 c ,
+&#952; = 854.39 rad &#8801; 352.8&#176;</title>
+  </g>
+  <g transform="translate(1462,1214)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">6</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 361 , r = 19.000 c ,
+&#952; = 866.39 rad &#8801; 320.3&#176;</title>
+  </g>
+  <g transform="translate(586,1821)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">6</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 366 , r = 19.131 c ,
+&#952; = 878.39 rad &#8801; 287.8&#176;</title>
+  </g>
+  <g transform="translate(-486,1864)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">7</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 371 , r = 19.261 c ,
+&#952; = 890.39 rad &#8801; 255.4&#176;</title>
+  </g>
+  <g transform="translate(-1420,1320)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">7</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 376 , r = 19.391 c ,
+&#952; = 902.39 rad &#8801; 222.9&#176;</title>
+  </g>
+  <g transform="translate(-1919,354)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">8</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 381 , r = 19.519 c ,
+&#952; = 914.39 rad &#8801; 190.5&#176;</title>
+  </g>
+  <g transform="translate(-1822,-736)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">8</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 386 , r = 19.647 c ,
+&#952; = 926.39 rad &#8801; 158.0&#176;</title>
+  </g>
+  <g transform="translate(-1149,-1609)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">9</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 391 , r = 19.774 c ,
+&#952; = 938.39 rad &#8801; 125.5&#176;</title>
+  </g>
+  <g transform="translate(-107,-1987)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">9</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 396 , r = 19.900 c ,
+&#952; = 950.39 rad &#8801; 93.1&#176;</title>
+  </g>
+  <g transform="translate(983,-1745)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">0</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 401 , r = 20.025 c ,
+&#952; = 962.39 rad &#8801; 60.6&#176;</title>
+  </g>
+  <g transform="translate(1777,-951)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">0</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 406 , r = 20.149 c ,
+&#952; = 974.39 rad &#8801; 28.2&#176;</title>
+  </g>
+  <g transform="translate(2022,152)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">1</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 411 , r = 20.273 c ,
+&#952; = 986.38 rad &#8801; 355.7&#176;</title>
+  </g>
+  <g transform="translate(1634,1221)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">1</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 416 , r = 20.396 c ,
+&#952; = 998.38 rad &#8801; 323.2&#176;</title>
+  </g>
+  <g transform="translate(728,1919)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">2</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 421 , r = 20.518 c ,
+&#952; = 1010.38 rad &#8801; 290.8&#176;</title>
+  </g>
+  <g transform="translate(-418,2021)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">2</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 426 , r = 20.640 c ,
+&#952; = 1022.38 rad &#8801; 258.3&#176;</title>
+  </g>
+  <g transform="translate(-1446,1490)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">3</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 431 , r = 20.761 c ,
+&#952; = 1034.38 rad &#8801; 225.8&#176;</title>
+  </g>
+  <g transform="translate(-2031,483)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">3</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 436 , r = 20.881 c ,
+&#952; = 1046.38 rad &#8801; 193.4&#176;</title>
+  </g>
+  <g transform="translate(-1985,-686)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">4</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 441 , r = 21.000 c ,
+&#952; = 1058.38 rad &#8801; 160.9&#176;</title>
+  </g>
+  <g transform="translate(-1314,-1654)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">4</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 446 , r = 21.119 c ,
+&#952; = 1070.38 rad &#8801; 128.5&#176;</title>
+  </g>
+  <g transform="translate(-222,-2112)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">5</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 451 , r = 21.237 c ,
+&#952; = 1082.38 rad &#8801; 96.0&#176;</title>
+  </g>
+  <g transform="translate(951,-1912)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">5</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 456 , r = 21.354 c ,
+&#952; = 1094.38 rad &#8801; 63.5&#176;</title>
+  </g>
+  <g transform="translate(1839,-1108)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">6</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 461 , r = 21.471 c ,
+&#952; = 1106.38 rad &#8801; 31.1&#176;</title>
+  </g>
+  <g transform="translate(2158,52)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">6</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 466 , r = 21.587 c ,
+&#952; = 1118.38 rad &#8801; 358.6&#176;</title>
+  </g>
+  <g transform="translate(1803,1209)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">7</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 471 , r = 21.703 c ,
+&#952; = 1130.38 rad &#8801; 326.2&#176;</title>
+  </g>
+  <g transform="translate(877,1998)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">7</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 476 , r = 21.817 c ,
+&#952; = 1142.38 rad &#8801; 293.7&#176;</title>
+  </g>
+  <g transform="translate(-334,2168)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">8</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 481 , r = 21.932 c ,
+&#952; = 1154.38 rad &#8801; 261.2&#176;</title>
+  </g>
+  <g transform="translate(-1453,1658)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">8</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 486 , r = 22.045 c ,
+&#952; = 1166.38 rad &#8801; 228.8&#176;</title>
+  </g>
+  <g transform="translate(-2127,622)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">9</tspan><tspan dx="-2">1</tspan></text>
+   <title>n = 491 , r = 22.159 c ,
+&#952; = 1178.38 rad &#8801; 196.3&#176;</title>
+  </g>
+  <g transform="translate(-2139,-619)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">9</tspan><tspan dx="-2">6</tspan></text>
+   <title>n = 496 , r = 22.271 c ,
+&#952; = 1190.38 rad &#8801; 163.9&#176;</title>
+  </g>
+ </g>
+ <g class="active" fill="#996600">
+  <g transform="translate(12,141)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(1.5,1)" x="0" y="0.7ex"><tspan dx="0">2</tspan></text>
+   <title>n = 2 , r = 1.414 c ,
+&#952; = 4.80 rad &#8801; 275.0&#176;</title>
+  </g>
+  <g transform="translate(-122,235)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(1.5,1)" x="0" y="0.7ex"><tspan dx="0">7</tspan></text>
+   <title>n = 7 , r = 2.646 c ,
+&#952; = 16.80 rad &#8801; 242.6&#176;</title>
+  </g>
+  <g transform="translate(-300,174)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">1</tspan><tspan dx="-1">2</tspan></text>
+   <title>n = 12 , r = 3.464 c ,
+&#952; = 28.80 rad &#8801; 210.1&#176;</title>
+  </g>
+  <g transform="translate(-412,-17)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">1</tspan><tspan dx="-1">7</tspan></text>
+   <title>n = 17 , r = 4.123 c ,
+&#952; = 40.80 rad &#8801; 177.6&#176;</title>
+  </g>
+  <g transform="translate(-385,-268)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">2</tspan><tspan dx="-1">2</tspan></text>
+   <title>n = 22 , r = 4.690 c ,
+&#952; = 52.80 rad &#8801; 145.2&#176;</title>
+  </g>
+  <g transform="translate(-201,-479)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">2</tspan><tspan dx="-1">7</tspan></text>
+   <title>n = 27 , r = 5.196 c ,
+&#952; = 64.80 rad &#8801; 112.7&#176;</title>
+  </g>
+  <g transform="translate(96,-558)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">3</tspan><tspan dx="-1">2</tspan></text>
+   <title>n = 32 , r = 5.657 c ,
+&#952; = 76.80 rad &#8801; 80.2&#176;</title>
+  </g>
+  <g transform="translate(409,-451)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">3</tspan><tspan dx="-1">7</tspan></text>
+   <title>n = 37 , r = 6.083 c ,
+&#952; = 88.80 rad &#8801; 47.8&#176;</title>
+  </g>
+  <g transform="translate(625,-171)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">4</tspan><tspan dx="-1">2</tspan></text>
+   <title>n = 42 , r = 6.481 c ,
+&#952; = 100.80 rad &#8801; 15.3&#176;</title>
+  </g>
+  <g transform="translate(655,202)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">4</tspan><tspan dx="-1">7</tspan></text>
+   <title>n = 47 , r = 6.856 c ,
+&#952; = 112.80 rad &#8801; 342.9&#176;</title>
+  </g>
+  <g transform="translate(467,549)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">5</tspan><tspan dx="-1">2</tspan></text>
+   <title>n = 52 , r = 7.211 c ,
+&#952; = 124.80 rad &#8801; 310.4&#176;</title>
+  </g>
+  <g transform="translate(104,748)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">5</tspan><tspan dx="-1">7</tspan></text>
+   <title>n = 57 , r = 7.550 c ,
+&#952; = 136.80 rad &#8801; 277.9&#176;</title>
+  </g>
+  <g transform="translate(-327,716)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">6</tspan><tspan dx="-1">2</tspan></text>
+   <title>n = 62 , r = 7.874 c ,
+&#952; = 148.80 rad &#8801; 245.5&#176;</title>
+  </g>
+  <g transform="translate(-686,446)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">6</tspan><tspan dx="-1">7</tspan></text>
+   <title>n = 67 , r = 8.185 c ,
+&#952; = 160.80 rad &#8801; 213.0&#176;</title>
+  </g>
+  <g transform="translate(-848,8)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">7</tspan><tspan dx="-1">2</tspan></text>
+   <title>n = 72 , r = 8.485 c ,
+&#952; = 172.80 rad &#8801; 180.6&#176;</title>
+  </g>
+  <g transform="translate(-745,-464)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">7</tspan><tspan dx="-1">7</tspan></text>
+   <title>n = 77 , r = 8.775 c ,
+&#952; = 184.80 rad &#8801; 148.1&#176;</title>
+  </g>
+  <g transform="translate(-392,-816)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">8</tspan><tspan dx="-1">2</tspan></text>
+   <title>n = 82 , r = 9.055 c ,
+&#952; = 196.80 rad &#8801; 115.6&#176;</title>
+  </g>
+  <g transform="translate(111,-926)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">8</tspan><tspan dx="-1">7</tspan></text>
+   <title>n = 87 , r = 9.327 c ,
+&#952; = 208.80 rad &#8801; 83.2&#176;</title>
+  </g>
+  <g transform="translate(607,-742)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">9</tspan><tspan dx="-1">2</tspan></text>
+   <title>n = 92 , r = 9.592 c ,
+&#952; = 220.80 rad &#8801; 50.7&#176;</title>
+  </g>
+  <g transform="translate(935,-308)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">9</tspan><tspan dx="-1">7</tspan></text>
+   <title>n = 97 , r = 9.849 c ,
+&#952; = 232.80 rad &#8801; 18.3&#176;</title>
+  </g>
+  <g transform="translate(979,248)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">0</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 102 , r = 10.100 c ,
+&#952; = 244.80 rad &#8801; 345.8&#176;</title>
+  </g>
+  <g transform="translate(710,752)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">0</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 107 , r = 10.344 c ,
+&#952; = 256.80 rad &#8801; 313.3&#176;</title>
+  </g>
+  <g transform="translate(200,1039)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">1</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 112 , r = 10.583 c ,
+&#952; = 268.80 rad &#8801; 280.9&#176;</title>
+  </g>
+  <g transform="translate(-398,1006)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">1</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 117 , r = 10.817 c ,
+&#952; = 280.80 rad &#8801; 248.4&#176;</title>
+  </g>
+  <g transform="translate(-894,648)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">2</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 122 , r = 11.045 c ,
+&#952; = 292.80 rad &#8801; 215.9&#176;</title>
+  </g>
+  <g transform="translate(-1125,69)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">2</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 127 , r = 11.269 c ,
+&#952; = 304.80 rad &#8801; 183.5&#176;</title>
+  </g>
+  <g transform="translate(-1005,-557)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">3</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 132 , r = 11.489 c ,
+&#952; = 316.80 rad &#8801; 151.0&#176;</title>
+  </g>
+  <g transform="translate(-560,-1028)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">3</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 137 , r = 11.705 c ,
+&#952; = 328.79 rad &#8801; 118.6&#176;</title>
+  </g>
+  <g transform="translate(81,-1189)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">4</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 142 , r = 11.916 c ,
+&#952; = 340.79 rad &#8801; 86.1&#176;</title>
+  </g>
+  <g transform="translate(719,-976)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">4</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 147 , r = 12.124 c ,
+&#952; = 352.79 rad &#8801; 53.6&#176;</title>
+  </g>
+  <g transform="translate(1150,-445)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">5</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 152 , r = 12.329 c ,
+&#952; = 364.79 rad &#8801; 21.2&#176;</title>
+  </g>
+  <g transform="translate(1229,245)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">5</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 157 , r = 12.530 c ,
+&#952; = 376.79 rad &#8801; 348.7&#176;</title>
+  </g>
+  <g transform="translate(920,880)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">6</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 162 , r = 12.728 c ,
+&#952; = 388.79 rad &#8801; 316.3&#176;</title>
+  </g>
+  <g transform="translate(308,1255)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">6</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 167 , r = 12.923 c ,
+&#952; = 400.79 rad &#8801; 283.8&#176;</title>
+  </g>
+  <g transform="translate(-420,1243)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">7</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 172 , r = 13.115 c ,
+&#952; = 412.79 rad &#8801; 251.3&#176;</title>
+  </g>
+  <g transform="translate(-1036,835)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">7</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 177 , r = 13.304 c ,
+&#952; = 424.79 rad &#8801; 218.9&#176;</title>
+  </g>
+  <g transform="translate(-1341,151)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">8</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 182 , r = 13.491 c ,
+&#952; = 436.79 rad &#8801; 186.4&#176;</title>
+  </g>
+  <g transform="translate(-1229,-600)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">8</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 187 , r = 13.675 c ,
+&#952; = 448.79 rad &#8801; 154.0&#176;</title>
+  </g>
+  <g transform="translate(-724,-1182)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">9</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 192 , r = 13.856 c ,
+&#952; = 460.79 rad &#8801; 121.5&#176;</title>
+  </g>
+  <g transform="translate(24,-1403)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">9</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 197 , r = 14.036 c ,
+&#952; = 472.79 rad &#8801; 89.0&#176;</title>
+  </g>
+  <g transform="translate(783,-1186)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">0</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 202 , r = 14.213 c ,
+&#952; = 484.79 rad &#8801; 56.6&#176;</title>
+  </g>
+  <g transform="translate(1313,-588)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">0</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 207 , r = 14.387 c ,
+&#952; = 496.79 rad &#8801; 24.1&#176;</title>
+  </g>
+  <g transform="translate(1441,212)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">1</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 212 , r = 14.560 c ,
+&#952; = 508.79 rad &#8801; 351.6&#176;</title>
+  </g>
+  <g transform="translate(1115,963)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">1</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 217 , r = 14.731 c ,
+&#952; = 520.79 rad &#8801; 319.2&#176;</title>
+  </g>
+  <g transform="translate(429,1427)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">2</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 222 , r = 14.900 c ,
+&#952; = 532.79 rad &#8801; 286.7&#176;</title>
+  </g>
+  <g transform="translate(-409,1450)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">2</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 227 , r = 15.067 c ,
+&#952; = 544.79 rad &#8801; 254.3&#176;</title>
+  </g>
+  <g transform="translate(-1135,1015)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">3</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 232 , r = 15.232 c ,
+&#952; = 556.79 rad &#8801; 221.8&#176;</title>
+  </g>
+  <g transform="translate(-1519,250)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">3</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 237 , r = 15.395 c ,
+&#952; = 568.79 rad &#8801; 189.3&#176;</title>
+  </g>
+  <g transform="translate(-1431,-611)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">4</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 242 , r = 15.556 c ,
+&#952; = 580.79 rad &#8801; 156.9&#176;</title>
+  </g>
+  <g transform="translate(-888,-1296)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">4</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 247 , r = 15.716 c ,
+&#952; = 592.79 rad &#8801; 124.4&#176;</title>
+  </g>
+  <g transform="translate(-54,-1587)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">5</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 252 , r = 15.875 c ,
+&#952; = 604.79 rad &#8801; 92.0&#176;</title>
+  </g>
+  <g transform="translate(814,-1381)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">5</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 257 , r = 16.031 c ,
+&#952; = 616.79 rad &#8801; 59.5&#176;</title>
+  </g>
+  <g transform="translate(1442,-736)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">6</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 262 , r = 16.186 c ,
+&#952; = 628.79 rad &#8801; 27.0&#176;</title>
+  </g>
+  <g transform="translate(1627,155)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">6</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 267 , r = 16.340 c ,
+&#952; = 640.79 rad &#8801; 354.6&#176;</title>
+  </g>
+  <g transform="translate(1302,1013)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">7</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 272 , r = 16.492 c ,
+&#952; = 652.79 rad &#8801; 322.1&#176;</title>
+  </g>
+  <g transform="translate(560,1567)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">7</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 277 , r = 16.643 c ,
+&#952; = 664.79 rad &#8801; 289.7&#176;</title>
+  </g>
+  <g transform="translate(-372,1637)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">8</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 282 , r = 16.793 c ,
+&#952; = 676.79 rad &#8801; 257.2&#176;</title>
+  </g>
+  <g transform="translate(-1204,1192)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">8</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 287 , r = 16.941 c ,
+&#952; = 688.79 rad &#8801; 224.7&#176;</title>
+  </g>
+  <g transform="translate(-1670,363)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">9</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 292 , r = 17.088 c ,
+&#952; = 700.79 rad &#8801; 192.3&#176;</title>
+  </g>
+  <g transform="translate(-1617,-595)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">9</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 297 , r = 17.234 c ,
+&#952; = 712.79 rad &#8801; 159.8&#176;</title>
+  </g>
+  <g transform="translate(-1054,-1382)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">0</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 302 , r = 17.378 c ,
+&#952; = 724.79 rad &#8801; 127.3&#176;</title>
+  </g>
+  <g transform="translate(-149,-1746)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">0</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 307 , r = 17.521 c ,
+&#952; = 736.79 rad &#8801; 94.9&#176;</title>
+  </g>
+  <g transform="translate(818,-1566)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">1</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 312 , r = 17.664 c ,
+&#952; = 748.79 rad &#8801; 62.4&#176;</title>
+  </g>
+  <g transform="translate(1543,-889)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">1</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 317 , r = 17.804 c ,
+&#952; = 760.79 rad &#8801; 30.0&#176;</title>
+  </g>
+  <g transform="translate(1793,78)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">2</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 322 , r = 17.944 c ,
+&#952; = 772.79 rad &#8801; 357.5&#176;</title>
+  </g>
+  <g transform="translate(1482,1036)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">2</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 327 , r = 18.083 c ,
+&#952; = 784.79 rad &#8801; 325.0&#176;</title>
+  </g>
+  <g transform="translate(700,1682)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">3</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 332 , r = 18.221 c ,
+&#952; = 796.79 rad &#8801; 292.6&#176;</title>
+  </g>
+  <g transform="translate(-315,1809)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">3</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 337 , r = 18.358 c ,
+&#952; = 808.79 rad &#8801; 260.1&#176;</title>
+  </g>
+  <g transform="translate(-1246,1367)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">4</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 342 , r = 18.493 c ,
+&#952; = 820.79 rad &#8801; 227.7&#176;</title>
+  </g>
+  <g transform="translate(-1798,488)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">4</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 347 , r = 18.628 c ,
+&#952; = 832.79 rad &#8801; 195.2&#176;</title>
+  </g>
+  <g transform="translate(-1792,-557)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">5</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 352 , r = 18.762 c ,
+&#952; = 844.79 rad &#8801; 162.7&#176;</title>
+  </g>
+  <g transform="translate(-1221,-1442)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">5</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 357 , r = 18.894 c ,
+&#952; = 856.79 rad &#8801; 130.3&#176;</title>
+  </g>
+  <g transform="translate(-259,-1885)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">6</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 362 , r = 19.026 c ,
+&#952; = 868.79 rad &#8801; 97.8&#176;</title>
+  </g>
+  <g transform="translate(799,-1741)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">6</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 367 , r = 19.157 c ,
+&#952; = 880.79 rad &#8801; 65.3&#176;</title>
+  </g>
+  <g transform="translate(1620,-1047)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">7</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 372 , r = 19.287 c ,
+&#952; = 892.79 rad &#8801; 32.9&#176;</title>
+  </g>
+  <g transform="translate(1942,-14)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">7</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 377 , r = 19.416 c ,
+&#952; = 904.79 rad &#8801; 0.4&#176;</title>
+  </g>
+  <g transform="translate(1657,1037)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">8</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 382 , r = 19.545 c ,
+&#952; = 916.79 rad &#8801; 328.0&#176;</title>
+  </g>
+  <g transform="translate(847,1776)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">8</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 387 , r = 19.672 c ,
+&#952; = 928.79 rad &#8801; 295.5&#176;</title>
+  </g>
+  <g transform="translate(-240,1965)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">9</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 392 , r = 19.799 c ,
+&#952; = 940.79 rad &#8801; 263.0&#176;</title>
+  </g>
+  <g transform="translate(-1265,1539)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">9</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 397 , r = 19.925 c ,
+&#952; = 952.79 rad &#8801; 230.6&#176;</title>
+  </g>
+  <g transform="translate(-1906,624)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">0</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 402 , r = 20.050 c ,
+&#952; = 964.79 rad &#8801; 198.1&#176;</title>
+  </g>
+  <g transform="translate(-1955,-500)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">0</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 407 , r = 20.174 c ,
+&#952; = 976.79 rad &#8801; 165.7&#176;</title>
+  </g>
+  <g transform="translate(-1389,-1480)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">1</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 412 , r = 20.298 c ,
+&#952; = 988.78 rad &#8801; 133.2&#176;</title>
+  </g>
+  <g transform="translate(-380,-2006)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">1</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 417 , r = 20.421 c ,
+&#952; = 1000.78 rad &#8801; 100.7&#176;</title>
+  </g>
+  <g transform="translate(760,-1908)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">2</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 422 , r = 20.543 c ,
+&#952; = 1012.78 rad &#8801; 68.3&#176;</title>
+  </g>
+  <g transform="translate(1676,-1209)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">2</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 427 , r = 20.664 c ,
+&#952; = 1024.78 rad &#8801; 35.8&#176;</title>
+  </g>
+  <g transform="translate(2075,-122)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">3</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 432 , r = 20.785 c ,
+&#952; = 1036.78 rad &#8801; 3.4&#176;</title>
+  </g>
+  <g transform="translate(1826,1017)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">3</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 437 , r = 20.905 c ,
+&#952; = 1048.78 rad &#8801; 330.9&#176;</title>
+  </g>
+  <g transform="translate(1001,1849)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">4</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 442 , r = 21.024 c ,
+&#952; = 1060.78 rad &#8801; 298.4&#176;</title>
+  </g>
+  <g transform="translate(-149,2109)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">4</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 447 , r = 21.142 c ,
+&#952; = 1072.78 rad &#8801; 266.0&#176;</title>
+  </g>
+  <g transform="translate(-1264,1709)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">5</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 452 , r = 21.260 c ,
+&#952; = 1084.78 rad &#8801; 233.5&#176;</title>
+  </g>
+  <g transform="translate(-1995,768)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">5</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 457 , r = 21.378 c ,
+&#952; = 1096.78 rad &#8801; 201.0&#176;</title>
+  </g>
+  <g transform="translate(-2107,-425)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">6</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 462 , r = 21.494 c ,
+&#952; = 1108.78 rad &#8801; 168.6&#176;</title>
+  </g>
+  <g transform="translate(-1558,-1498)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">6</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 467 , r = 21.610 c ,
+&#952; = 1120.78 rad &#8801; 136.1&#176;</title>
+  </g>
+  <g transform="translate(-513,-2111)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">7</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 472 , r = 21.726 c ,
+&#952; = 1132.78 rad &#8801; 103.7&#176;</title>
+  </g>
+  <g transform="translate(704,-2068)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">7</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 477 , r = 21.840 c ,
+&#952; = 1144.78 rad &#8801; 71.2&#176;</title>
+  </g>
+  <g transform="translate(1712,-1374)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">8</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 482 , r = 21.954 c ,
+&#952; = 1156.78 rad &#8801; 38.7&#176;</title>
+  </g>
+  <g transform="translate(2194,-241)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">8</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 487 , r = 22.068 c ,
+&#952; = 1168.78 rad &#8801; 6.3&#176;</title>
+  </g>
+  <g transform="translate(1991,979)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">9</tspan><tspan dx="-2">2</tspan></text>
+   <title>n = 492 , r = 22.181 c ,
+&#952; = 1180.78 rad &#8801; 333.8&#176;</title>
+  </g>
+  <g transform="translate(1160,1904)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">9</tspan><tspan dx="-2">7</tspan></text>
+   <title>n = 497 , r = 22.293 c ,
+&#952; = 1192.78 rad &#8801; 301.4&#176;</title>
+  </g>
+ </g>
+ <g class="active" fill="#006600">
+  <g transform="translate(105,-137)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(1.5,1)" x="0" y="0.7ex"><tspan dx="0">3</tspan></text>
+   <title>n = 3 , r = 1.732 c ,
+&#952; = 7.20 rad &#8801; 52.5&#176;</title>
+  </g>
+  <g transform="translate(266,-97)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(1.5,1)" x="0" y="0.7ex"><tspan dx="0">8</tspan></text>
+   <title>n = 8 , r = 2.828 c ,
+&#952; = 19.20 rad &#8801; 20.1&#176;</title>
+  </g>
+  <g transform="translate(352,77)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">1</tspan><tspan dx="-1">3</tspan></text>
+   <title>n = 13 , r = 3.606 c ,
+&#952; = 31.20 rad &#8801; 347.6&#176;</title>
+  </g>
+  <g transform="translate(301,299)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">1</tspan><tspan dx="-1">8</tspan></text>
+   <title>n = 18 , r = 4.243 c ,
+&#952; = 43.20 rad &#8801; 315.1&#176;</title>
+  </g>
+  <g transform="translate(105,468)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">2</tspan><tspan dx="-1">3</tspan></text>
+   <title>n = 23 , r = 4.796 c ,
+&#952; = 55.20 rad &#8801; 282.7&#176;</title>
+  </g>
+  <g transform="translate(-179,498)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">2</tspan><tspan dx="-1">8</tspan></text>
+   <title>n = 28 , r = 5.292 c ,
+&#952; = 67.20 rad &#8801; 250.2&#176;</title>
+  </g>
+  <g transform="translate(-454,352)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">3</tspan><tspan dx="-1">3</tspan></text>
+   <title>n = 33 , r = 5.745 c ,
+&#952; = 79.20 rad &#8801; 217.8&#176;</title>
+  </g>
+  <g transform="translate(-614,57)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">3</tspan><tspan dx="-1">8</tspan></text>
+   <title>n = 38 , r = 6.164 c ,
+&#952; = 91.20 rad &#8801; 185.3&#176;</title>
+  </g>
+  <g transform="translate(-583,-299)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">4</tspan><tspan dx="-1">3</tspan></text>
+   <title>n = 43 , r = 6.557 c ,
+&#952; = 103.20 rad &#8801; 152.8&#176;</title>
+  </g>
+  <g transform="translate(-350,-598)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">4</tspan><tspan dx="-1">8</tspan></text>
+   <title>n = 48 , r = 6.928 c ,
+&#952; = 115.20 rad &#8801; 120.4&#176;</title>
+  </g>
+  <g transform="translate(27,-728)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">5</tspan><tspan dx="-1">3</tspan></text>
+   <title>n = 53 , r = 7.280 c ,
+&#952; = 127.20 rad &#8801; 87.9&#176;</title>
+  </g>
+  <g transform="translate(432,-627)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">5</tspan><tspan dx="-1">8</tspan></text>
+   <title>n = 58 , r = 7.616 c ,
+&#952; = 139.20 rad &#8801; 55.5&#176;</title>
+  </g>
+  <g transform="translate(731,-310)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">6</tspan><tspan dx="-1">3</tspan></text>
+   <title>n = 63 , r = 7.937 c ,
+&#952; = 151.20 rad &#8801; 23.0&#176;</title>
+  </g>
+  <g transform="translate(813,136)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">6</tspan><tspan dx="-1">8</tspan></text>
+   <title>n = 68 , r = 8.246 c ,
+&#952; = 163.20 rad &#8801; 350.5&#176;</title>
+  </g>
+  <g transform="translate(636,571)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">7</tspan><tspan dx="-1">3</tspan></text>
+   <title>n = 73 , r = 8.544 c ,
+&#952; = 175.20 rad &#8801; 318.1&#176;</title>
+  </g>
+  <g transform="translate(238,851)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">7</tspan><tspan dx="-1">8</tspan></text>
+   <title>n = 78 , r = 8.832 c ,
+&#952; = 187.20 rad &#8801; 285.6&#176;</title>
+  </g>
+  <g transform="translate(-264,872)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">8</tspan><tspan dx="-1">3</tspan></text>
+   <title>n = 83 , r = 9.110 c ,
+&#952; = 199.20 rad &#8801; 253.1&#176;</title>
+  </g>
+  <g transform="translate(-711,612)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">8</tspan><tspan dx="-1">8</tspan></text>
+   <title>n = 88 , r = 9.381 c ,
+&#952; = 211.20 rad &#8801; 220.7&#176;</title>
+  </g>
+  <g transform="translate(-954,138)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">9</tspan><tspan dx="-1">3</tspan></text>
+   <title>n = 93 , r = 9.644 c ,
+&#952; = 223.20 rad &#8801; 188.2&#176;</title>
+  </g>
+  <g transform="translate(-903,-406)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">9</tspan><tspan dx="-1">8</tspan></text>
+   <title>n = 98 , r = 9.899 c ,
+&#952; = 235.20 rad &#8801; 155.8&#176;</title>
+  </g>
+  <g transform="translate(-557,-848)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">0</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 103 , r = 10.149 c ,
+&#952; = 247.20 rad &#8801; 123.3&#176;</title>
+  </g>
+  <g transform="translate(-15,-1039)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">0</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 108 , r = 10.392 c ,
+&#952; = 259.20 rad &#8801; 90.8&#176;</title>
+  </g>
+  <g transform="translate(557,-905)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">1</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 113 , r = 10.630 c ,
+&#952; = 271.20 rad &#8801; 58.4&#176;</title>
+  </g>
+  <g transform="translate(977,-475)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">1</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 118 , r = 10.863 c ,
+&#952; = 283.20 rad &#8801; 25.9&#176;</title>
+  </g>
+  <g transform="translate(1102,126)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">2</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 123 , r = 11.091 c ,
+&#952; = 295.20 rad &#8801; 353.5&#176;</title>
+  </g>
+  <g transform="translate(879,712)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">2</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 128 , r = 11.314 c ,
+&#952; = 307.20 rad &#8801; 321.0&#176;</title>
+  </g>
+  <g transform="translate(367,1093)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">3</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 133 , r = 11.533 c ,
+&#952; = 319.20 rad &#8801; 288.5&#176;</title>
+  </g>
+  <g transform="translate(-283,1140)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">3</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 138 , r = 11.747 c ,
+&#952; = 331.19 rad &#8801; 256.1&#176;</title>
+  </g>
+  <g transform="translate(-866,825)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">4</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 143 , r = 11.958 c ,
+&#952; = 343.19 rad &#8801; 223.6&#176;</title>
+  </g>
+  <g transform="translate(-1194,235)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">4</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 148 , r = 12.166 c ,
+&#952; = 355.19 rad &#8801; 191.1&#176;</title>
+  </g>
+  <g transform="translate(-1152,-450)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">5</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 153 , r = 12.369 c ,
+&#952; = 367.19 rad &#8801; 158.7&#176;</title>
+  </g>
+  <g transform="translate(-743,-1014)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">5</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 158 , r = 12.570 c ,
+&#952; = 379.19 rad &#8801; 126.2&#176;</title>
+  </g>
+  <g transform="translate(-84,-1274)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">6</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 163 , r = 12.767 c ,
+&#952; = 391.19 rad &#8801; 93.8&#176;</title>
+  </g>
+  <g transform="translate(622,-1137)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">6</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 168 , r = 12.961 c ,
+&#952; = 403.19 rad &#8801; 61.3&#176;</title>
+  </g>
+  <g transform="translate(1152,-635)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">7</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 173 , r = 13.153 c ,
+&#952; = 415.19 rad &#8801; 28.8&#176;</title>
+  </g>
+  <g transform="translate(1332,84)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">7</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 178 , r = 13.342 c ,
+&#952; = 427.19 rad &#8801; 356.4&#176;</title>
+  </g>
+  <g transform="translate(1093,797)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">8</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 183 , r = 13.528 c ,
+&#952; = 439.19 rad &#8801; 323.9&#176;</title>
+  </g>
+  <g transform="translate(502,1276)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">8</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 188 , r = 13.711 c ,
+&#952; = 451.19 rad &#8801; 291.5&#176;</title>
+  </g>
+  <g transform="translate(-265,1364)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">9</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 193 , r = 13.892 c ,
+&#952; = 463.19 rad &#8801; 259.0&#176;</title>
+  </g>
+  <g transform="translate(-968,1021)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">9</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 198 , r = 14.071 c ,
+&#952; = 475.19 rad &#8801; 226.5&#176;</title>
+  </g>
+  <g transform="translate(-1382,347)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">0</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 203 , r = 14.248 c ,
+&#952; = 487.19 rad &#8801; 194.1&#176;</title>
+  </g>
+  <g transform="translate(-1369,-455)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">0</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 208 , r = 14.422 c ,
+&#952; = 499.19 rad &#8801; 161.6&#176;</title>
+  </g>
+  <g transform="translate(-922,-1132)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">1</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 213 , r = 14.595 c ,
+&#952; = 511.19 rad &#8801; 129.2&#176;</title>
+  </g>
+  <g transform="translate(-172,-1466)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">1</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 218 , r = 14.765 c ,
+&#952; = 523.19 rad &#8801; 96.7&#176;</title>
+  </g>
+  <g transform="translate(649,-1345)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">2</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 223 , r = 14.933 c ,
+&#952; = 535.19 rad &#8801; 64.2&#176;</title>
+  </g>
+  <g transform="translate(1284,-795)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">2</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 228 , r = 15.100 c ,
+&#952; = 547.19 rad &#8801; 31.8&#176;</title>
+  </g>
+  <g transform="translate(1526,18)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">3</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 233 , r = 15.264 c ,
+&#952; = 559.19 rad &#8801; 359.3&#176;</title>
+  </g>
+  <g transform="translate(1292,844)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">3</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 238 , r = 15.427 c ,
+&#952; = 571.19 rad &#8801; 326.8&#176;</title>
+  </g>
+  <g transform="translate(644,1420)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">4</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 243 , r = 15.588 c ,
+&#952; = 583.19 rad &#8801; 294.4&#176;</title>
+  </g>
+  <g transform="translate(-221,1559)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">4</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 248 , r = 15.748 c ,
+&#952; = 595.19 rad &#8801; 261.9&#176;</title>
+  </g>
+  <g transform="translate(-1034,1209)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">5</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 253 , r = 15.906 c ,
+&#952; = 607.19 rad &#8801; 229.5&#176;</title>
+  </g>
+  <g transform="translate(-1536,470)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">5</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 258 , r = 16.062 c ,
+&#952; = 619.19 rad &#8801; 197.0&#176;</title>
+  </g>
+  <g transform="translate(-1563,-432)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">6</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 263 , r = 16.217 c ,
+&#952; = 631.19 rad &#8801; 164.5&#176;</title>
+  </g>
+  <g transform="translate(-1097,-1215)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">6</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 268 , r = 16.371 c ,
+&#952; = 643.19 rad &#8801; 132.1&#176;</title>
+  </g>
+  <g transform="translate(-276,-1629)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">7</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 273 , r = 16.523 c ,
+&#952; = 655.19 rad &#8801; 99.6&#176;</title>
+  </g>
+  <g transform="translate(647,-1537)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">7</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 278 , r = 16.673 c ,
+&#952; = 667.19 rad &#8801; 67.2&#176;</title>
+  </g>
+  <g transform="translate(1383,-958)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">8</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 283 , r = 16.823 c ,
+&#952; = 679.19 rad &#8801; 34.7&#176;</title>
+  </g>
+  <g transform="translate(1696,-66)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">8</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 288 , r = 16.971 c ,
+&#952; = 691.19 rad &#8801; 2.2&#176;</title>
+  </g>
+  <g transform="translate(1479,862)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">9</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 293 , r = 17.117 c ,
+&#952; = 703.19 rad &#8801; 329.8&#176;</title>
+  </g>
+  <g transform="translate(792,1534)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">9</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 298 , r = 17.263 c ,
+&#952; = 715.19 rad &#8801; 297.3&#176;</title>
+  </g>
+  <g transform="translate(-156,1734)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">0</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 303 , r = 17.407 c ,
+&#952; = 727.19 rad &#8801; 264.9&#176;</title>
+  </g>
+  <g transform="translate(-1071,1390)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">0</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 308 , r = 17.550 c ,
+&#952; = 739.19 rad &#8801; 232.4&#176;</title>
+  </g>
+  <g transform="translate(-1663,603)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">1</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 313 , r = 17.692 c ,
+&#952; = 751.19 rad &#8801; 199.9&#176;</title>
+  </g>
+  <g transform="translate(-1741,-387)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">1</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 318 , r = 17.833 c ,
+&#952; = 763.19 rad &#8801; 167.5&#176;</title>
+  </g>
+  <g transform="translate(-1271,-1271)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">2</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 323 , r = 17.972 c ,
+&#952; = 775.19 rad &#8801; 135.0&#176;</title>
+  </g>
+  <g transform="translate(-393,-1768)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">2</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 328 , r = 18.111 c ,
+&#952; = 787.19 rad &#8801; 102.5&#176;</title>
+  </g>
+  <g transform="translate(622,-1716)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">3</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 333 , r = 18.248 c ,
+&#952; = 799.19 rad &#8801; 70.1&#176;</title>
+  </g>
+  <g transform="translate(1456,-1122)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">3</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 338 , r = 18.385 c ,
+&#952; = 811.19 rad &#8801; 37.6&#176;</title>
+  </g>
+  <g transform="translate(1845,-167)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">4</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 343 , r = 18.520 c ,
+&#952; = 823.19 rad &#8801; 5.2&#176;</title>
+  </g>
+  <g transform="translate(1658,856)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">4</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 348 , r = 18.655 c ,
+&#952; = 835.19 rad &#8801; 332.7&#176;</title>
+  </g>
+  <g transform="translate(946,1623)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">5</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 353 , r = 18.788 c ,
+&#952; = 847.19 rad &#8801; 300.2&#176;</title>
+  </g>
+  <g transform="translate(-73,1891)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">5</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 358 , r = 18.921 c ,
+&#952; = 859.19 rad &#8801; 267.8&#176;</title>
+  </g>
+  <g transform="translate(-1084,1567)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">6</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 363 , r = 19.053 c ,
+&#952; = 871.19 rad &#8801; 235.3&#176;</title>
+  </g>
+  <g transform="translate(-1768,745)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">6</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 368 , r = 19.183 c ,
+&#952; = 883.19 rad &#8801; 202.9&#176;</title>
+  </g>
+  <g transform="translate(-1904,-322)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">7</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 373 , r = 19.313 c ,
+&#952; = 895.19 rad &#8801; 170.4&#176;</title>
+  </g>
+  <g transform="translate(-1443,-1303)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">7</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 378 , r = 19.442 c ,
+&#952; = 907.19 rad &#8801; 137.9&#176;</title>
+  </g>
+  <g transform="translate(-522,-1886)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">8</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 383 , r = 19.570 c ,
+&#952; = 919.19 rad &#8801; 105.5&#176;</title>
+  </g>
+  <g transform="translate(575,-1884)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">8</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 388 , r = 19.698 c ,
+&#952; = 931.19 rad &#8801; 73.0&#176;</title>
+  </g>
+  <g transform="translate(1506,-1289)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">9</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 393 , r = 19.824 c ,
+&#952; = 943.19 rad &#8801; 40.6&#176;</title>
+  </g>
+  <g transform="translate(1975,-281)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">9</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 398 , r = 19.950 c ,
+&#952; = 955.19 rad &#8801; 8.1&#176;</title>
+  </g>
+  <g transform="translate(1829,828)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">0</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 403 , r = 20.075 c ,
+&#952; = 967.19 rad &#8801; 335.6&#176;</title>
+  </g>
+  <g transform="translate(1105,1691)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">0</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 408 , r = 20.199 c ,
+&#952; = 979.18 rad &#8801; 303.2&#176;</title>
+  </g>
+  <g transform="translate(25,2032)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">1</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 413 , r = 20.322 c ,
+&#952; = 991.18 rad &#8801; 270.7&#176;</title>
+  </g>
+  <g transform="translate(-1076,1738)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">1</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 418 , r = 20.445 c ,
+&#952; = 1003.18 rad &#8801; 238.2&#176;</title>
+  </g>
+  <g transform="translate(-1852,895)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">2</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 423 , r = 20.567 c ,
+&#952; = 1015.18 rad &#8801; 205.8&#176;</title>
+  </g>
+  <g transform="translate(-2055,-241)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">2</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 428 , r = 20.688 c ,
+&#952; = 1027.18 rad &#8801; 173.3&#176;</title>
+  </g>
+  <g transform="translate(-1614,-1313)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">3</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 433 , r = 20.809 c ,
+&#952; = 1039.18 rad &#8801; 140.9&#176;</title>
+  </g>
+  <g transform="translate(-661,-1986)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">3</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 438 , r = 20.928 c ,
+&#952; = 1051.18 rad &#8801; 108.4&#176;</title>
+  </g>
+  <g transform="translate(511,-2042)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">4</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 443 , r = 21.048 c ,
+&#952; = 1063.18 rad &#8801; 75.9&#176;</title>
+  </g>
+  <g transform="translate(1536,-1456)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">4</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 448 , r = 21.166 c ,
+&#952; = 1075.18 rad &#8801; 43.5&#176;</title>
+  </g>
+  <g transform="translate(2089,-407)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">5</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 453 , r = 21.284 c ,
+&#952; = 1087.18 rad &#8801; 11.0&#176;</title>
+  </g>
+  <g transform="translate(1992,782)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">5</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 458 , r = 21.401 c ,
+&#952; = 1099.18 rad &#8801; 338.6&#176;</title>
+  </g>
+  <g transform="translate(1268,1739)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">6</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 463 , r = 21.517 c ,
+&#952; = 1111.18 rad &#8801; 306.1&#176;</title>
+  </g>
+  <g transform="translate(137,2159)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">6</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 468 , r = 21.633 c ,
+&#952; = 1123.18 rad &#8801; 273.6&#176;</title>
+  </g>
+  <g transform="translate(-1049,1905)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">7</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 473 , r = 21.749 c ,
+&#952; = 1135.18 rad &#8801; 241.2&#176;</title>
+  </g>
+  <g transform="translate(-1918,1050)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">7</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 478 , r = 21.863 c ,
+&#952; = 1147.18 rad &#8801; 208.7&#176;</title>
+  </g>
+  <g transform="translate(-2193,-144)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">8</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 483 , r = 21.977 c ,
+&#952; = 1159.18 rad &#8801; 176.3&#176;</title>
+  </g>
+  <g transform="translate(-1782,-1305)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">8</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 488 , r = 22.091 c ,
+&#952; = 1171.18 rad &#8801; 143.8&#176;</title>
+  </g>
+  <g transform="translate(-808,-2068)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">9</tspan><tspan dx="-2">3</tspan></text>
+   <title>n = 493 , r = 22.204 c ,
+&#952; = 1183.18 rad &#8801; 111.3&#176;</title>
+  </g>
+  <g transform="translate(431,-2190)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">9</tspan><tspan dx="-2">8</tspan></text>
+   <title>n = 498 , r = 22.316 c ,
+&#952; = 1195.18 rad &#8801; 78.9&#176;</title>
+  </g>
+ </g>
+ <g class="active" fill="#0066cc">
+  <g transform="translate(-197,35)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(1.5,1)" x="0" y="0.7ex"><tspan dx="0">4</tspan></text>
+   <title>n = 4 , r = 2.000 c ,
+&#952; = 9.60 rad &#8801; 190.0&#176;</title>
+  </g>
+  <g transform="translate(-277,-114)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(1.5,1)" x="0" y="0.7ex"><tspan dx="0">9</tspan></text>
+   <title>n = 9 , r = 3.000 c ,
+&#952; = 21.60 rad &#8801; 157.6&#176;</title>
+  </g>
+  <g transform="translate(-215,-306)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">1</tspan><tspan dx="-1">4</tspan></text>
+   <title>n = 14 , r = 3.742 c ,
+&#952; = 33.60 rad &#8801; 125.1&#176;</title>
+  </g>
+  <g transform="translate(-20,-435)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">1</tspan><tspan dx="-1">9</tspan></text>
+   <title>n = 19 , r = 4.359 c ,
+&#952; = 45.60 rad &#8801; 92.6&#176;</title>
+  </g>
+  <g transform="translate(244,-425)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">2</tspan><tspan dx="-1">4</tspan></text>
+   <title>n = 24 , r = 4.899 c ,
+&#952; = 57.60 rad &#8801; 60.2&#176;</title>
+  </g>
+  <g transform="translate(477,-251)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">2</tspan><tspan dx="-1">9</tspan></text>
+   <title>n = 29 , r = 5.385 c ,
+&#952; = 69.60 rad &#8801; 27.7&#176;</title>
+  </g>
+  <g transform="translate(581,48)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">3</tspan><tspan dx="-1">4</tspan></text>
+   <title>n = 34 , r = 5.831 c ,
+&#952; = 81.60 rad &#8801; 355.3&#176;</title>
+  </g>
+  <g transform="translate(497,378)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">3</tspan><tspan dx="-1">9</tspan></text>
+   <title>n = 39 , r = 6.245 c ,
+&#952; = 93.60 rad &#8801; 322.8&#176;</title>
+  </g>
+  <g transform="translate(231,622)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">4</tspan><tspan dx="-1">4</tspan></text>
+   <title>n = 44 , r = 6.633 c ,
+&#952; = 105.60 rad &#8801; 290.3&#176;</title>
+  </g>
+  <g transform="translate(-147,684)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">4</tspan><tspan dx="-1">9</tspan></text>
+   <title>n = 49 , r = 7.000 c ,
+&#952; = 117.60 rad &#8801; 257.9&#176;</title>
+  </g>
+  <g transform="translate(-516,523)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">5</tspan><tspan dx="-1">4</tspan></text>
+   <title>n = 54 , r = 7.348 c ,
+&#952; = 129.60 rad &#8801; 225.4&#176;</title>
+  </g>
+  <g transform="translate(-749,172)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">5</tspan><tspan dx="-1">9</tspan></text>
+   <title>n = 59 , r = 7.681 c ,
+&#952; = 141.60 rad &#8801; 193.0&#176;</title>
+  </g>
+  <g transform="translate(-754,-267)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">6</tspan><tspan dx="-1">4</tspan></text>
+   <title>n = 64 , r = 8.000 c ,
+&#952; = 153.60 rad &#8801; 160.5&#176;</title>
+  </g>
+  <g transform="translate(-512,-654)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">6</tspan><tspan dx="-1">9</tspan></text>
+   <title>n = 69 , r = 8.307 c ,
+&#952; = 165.60 rad &#8801; 128.0&#176;</title>
+  </g>
+  <g transform="translate(-84,-856)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">7</tspan><tspan dx="-1">4</tspan></text>
+   <title>n = 74 , r = 8.602 c ,
+&#952; = 177.60 rad &#8801; 95.6&#176;</title>
+  </g>
+  <g transform="translate(402,-793)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">7</tspan><tspan dx="-1">9</tspan></text>
+   <title>n = 79 , r = 8.888 c ,
+&#952; = 189.60 rad &#8801; 63.1&#176;</title>
+  </g>
+  <g transform="translate(788,-467)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">8</tspan><tspan dx="-1">4</tspan></text>
+   <title>n = 84 , r = 9.165 c ,
+&#952; = 201.60 rad &#8801; 30.7&#176;</title>
+  </g>
+  <g transform="translate(943,30)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">8</tspan><tspan dx="-1">9</tspan></text>
+   <title>n = 89 , r = 9.434 c ,
+&#952; = 213.60 rad &#8801; 358.2&#176;</title>
+  </g>
+  <g transform="translate(801,546)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">9</tspan><tspan dx="-1">4</tspan></text>
+   <title>n = 94 , r = 9.695 c ,
+&#952; = 225.60 rad &#8801; 325.7&#176;</title>
+  </g>
+  <g transform="translate(393,914)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.9,1)" x="0" y="0.7ex"><tspan dx="-1">9</tspan><tspan dx="-1">9</tspan></text>
+   <title>n = 99 , r = 9.950 c ,
+&#952; = 237.60 rad &#8801; 293.3&#176;</title>
+  </g>
+  <g transform="translate(-163,1007)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">0</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 104 , r = 10.198 c ,
+&#952; = 249.60 rad &#8801; 260.8&#176;</title>
+  </g>
+  <g transform="translate(-694,780)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">0</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 109 , r = 10.440 c ,
+&#952; = 261.60 rad &#8801; 228.3&#176;</title>
+  </g>
+  <g transform="translate(-1027,292)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">1</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 114 , r = 10.677 c ,
+&#952; = 273.60 rad &#8801; 195.9&#176;</title>
+  </g>
+  <g transform="translate(-1046,-311)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">1</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 119 , r = 10.909 c ,
+&#952; = 285.60 rad &#8801; 163.4&#176;</title>
+  </g>
+  <g transform="translate(-730,-841)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">2</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 124 , r = 11.136 c ,
+&#952; = 297.60 rad &#8801; 131.0&#176;</title>
+  </g>
+  <g transform="translate(-168,-1123)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">2</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 129 , r = 11.358 c ,
+&#952; = 309.60 rad &#8801; 98.5&#176;</title>
+  </g>
+  <g transform="translate(470,-1058)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">3</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 134 , r = 11.576 c ,
+&#952; = 321.60 rad &#8801; 66.0&#176;</title>
+  </g>
+  <g transform="translate(982,-652)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">3</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 139 , r = 11.790 c ,
+&#952; = 333.59 rad &#8801; 33.6&#176;</title>
+  </g>
+  <g transform="translate(1200,-23)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">4</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 144 , r = 12.000 c ,
+&#952; = 345.59 rad &#8801; 1.1&#176;</title>
+  </g>
+  <g transform="translate(1043,635)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">4</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 149 , r = 12.207 c ,
+&#952; = 357.59 rad &#8801; 328.7&#176;</title>
+  </g>
+  <g transform="translate(548,1114)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">5</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 154 , r = 12.410 c ,
+&#952; = 369.59 rad &#8801; 296.2&#176;</title>
+  </g>
+  <g transform="translate(-138,1253)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">5</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 159 , r = 12.610 c ,
+&#952; = 381.59 rad &#8801; 263.7&#176;</title>
+  </g>
+  <g transform="translate(-801,999)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">6</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 164 , r = 12.806 c ,
+&#952; = 393.59 rad &#8801; 231.3&#176;</title>
+  </g>
+  <g transform="translate(-1231,419)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">6</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 169 , r = 13.000 c ,
+&#952; = 405.59 rad &#8801; 198.8&#176;</title>
+  </g>
+  <g transform="translate(-1282,-311)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">7</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 174 , r = 13.191 c ,
+&#952; = 417.59 rad &#8801; 166.4&#176;</title>
+  </g>
+  <g transform="translate(-928,-964)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">7</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 179 , r = 13.379 c ,
+&#952; = 429.59 rad &#8801; 133.9&#176;</title>
+  </g>
+  <g transform="translate(-269,-1330)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">8</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 184 , r = 13.565 c ,
+&#952; = 441.59 rad &#8801; 101.4&#176;</title>
+  </g>
+  <g transform="translate(493,-1283)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">8</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 189 , r = 13.748 c ,
+&#952; = 453.59 rad &#8801; 69.0&#176;</title>
+  </g>
+  <g transform="translate(1120,-829)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">9</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 194 , r = 13.928 c ,
+&#952; = 465.59 rad &#8801; 36.5&#176;</title>
+  </g>
+  <g transform="translate(1407,-100)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">1</tspan><tspan dx="-2">9</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 199 , r = 14.107 c ,
+&#952; = 477.59 rad &#8801; 4.0&#176;</title>
+  </g>
+  <g transform="translate(1256,680)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">0</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 204 , r = 14.283 c ,
+&#952; = 489.59 rad &#8801; 331.6&#176;</title>
+  </g>
+  <g transform="translate(704,1263)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">0</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 209 , r = 14.457 c ,
+&#952; = 501.59 rad &#8801; 299.1&#176;</title>
+  </g>
+  <g transform="translate(-85,1460)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">1</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 214 , r = 14.629 c ,
+&#952; = 513.59 rad &#8801; 266.7&#176;</title>
+  </g>
+  <g transform="translate(-866,1200)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">1</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 219 , r = 14.799 c ,
+&#952; = 525.59 rad &#8801; 234.2&#176;</title>
+  </g>
+  <g transform="translate(-1390,554)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">2</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 224 , r = 14.967 c ,
+&#952; = 537.59 rad &#8801; 201.7&#176;</title>
+  </g>
+  <g transform="translate(-1487,-282)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">2</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 229 , r = 15.133 c ,
+&#952; = 549.59 rad &#8801; 169.3&#176;</title>
+  </g>
+  <g transform="translate(-1115,-1047)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">3</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 234 , r = 15.297 c ,
+&#952; = 561.59 rad &#8801; 136.8&#176;</title>
+  </g>
+  <g transform="translate(-383,-1498)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">3</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 239 , r = 15.460 c ,
+&#952; = 573.59 rad &#8801; 104.4&#176;</title>
+  </g>
+  <g transform="translate(485,-1485)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">4</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 244 , r = 15.620 c ,
+&#952; = 585.59 rad &#8801; 71.9&#176;</title>
+  </g>
+  <g transform="translate(1219,-1002)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">4</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 249 , r = 15.780 c ,
+&#952; = 597.59 rad &#8801; 39.4&#176;</title>
+  </g>
+  <g transform="translate(1582,-193)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">5</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 254 , r = 15.937 c ,
+&#952; = 609.59 rad &#8801; 7.0&#176;</title>
+  </g>
+  <g transform="translate(1453,693)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">5</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 259 , r = 16.093 c ,
+&#952; = 621.59 rad &#8801; 334.5&#176;</title>
+  </g>
+  <g transform="translate(862,1377)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">6</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 264 , r = 16.248 c ,
+&#952; = 633.59 rad &#8801; 302.0&#176;</title>
+  </g>
+  <g transform="translate(-12,1640)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">6</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 269 , r = 16.401 c ,
+&#952; = 645.59 rad &#8801; 269.6&#176;</title>
+  </g>
+  <g transform="translate(-898,1390)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">7</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 274 , r = 16.553 c ,
+&#952; = 657.59 rad &#8801; 237.1&#176;</title>
+  </g>
+  <g transform="translate(-1518,697)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">7</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 279 , r = 16.703 c ,
+&#952; = 669.59 rad &#8801; 204.7&#176;</title>
+  </g>
+  <g transform="translate(-1670,-229)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">8</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 284 , r = 16.852 c ,
+&#952; = 681.59 rad &#8801; 172.2&#176;</title>
+  </g>
+  <g transform="translate(-1297,-1099)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">8</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 289 , r = 17.000 c ,
+&#952; = 693.59 rad &#8801; 139.7&#176;</title>
+  </g>
+  <g transform="translate(-509,-1637)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">9</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 294 , r = 17.146 c ,
+&#952; = 705.59 rad &#8801; 107.3&#176;</title>
+  </g>
+  <g transform="translate(453,-1669)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">2</tspan><tspan dx="-2">9</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 299 , r = 17.292 c ,
+&#952; = 717.59 rad &#8801; 74.8&#176;</title>
+  </g>
+  <g transform="translate(1288,-1175)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">0</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 304 , r = 17.436 c ,
+&#952; = 729.59 rad &#8801; 42.4&#176;</title>
+  </g>
+  <g transform="translate(1732,-302)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">0</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 309 , r = 17.578 c ,
+&#952; = 741.59 rad &#8801; 9.9&#176;</title>
+  </g>
+  <g transform="translate(1636,680)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">1</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 314 , r = 17.720 c ,
+&#952; = 753.59 rad &#8801; 337.4&#176;</title>
+  </g>
+  <g transform="translate(1024,1463)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">1</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 319 , r = 17.861 c ,
+&#952; = 765.59 rad &#8801; 305.0&#176;</title>
+  </g>
+  <g transform="translate(79,1798)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">2</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 324 , r = 18.000 c ,
+&#952; = 777.59 rad &#8801; 272.5&#176;</title>
+  </g>
+  <g transform="translate(-905,1572)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">2</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 329 , r = 18.138 c ,
+&#952; = 789.59 rad &#8801; 240.1&#176;</title>
+  </g>
+  <g transform="translate(-1620,847)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">3</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 334 , r = 18.276 c ,
+&#952; = 801.59 rad &#8801; 207.6&#176;</title>
+  </g>
+  <g transform="translate(-1835,-156)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">3</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 339 , r = 18.412 c ,
+&#952; = 813.59 rad &#8801; 175.1&#176;</title>
+  </g>
+  <g transform="translate(-1475,-1125)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">4</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 344 , r = 18.547 c ,
+&#952; = 825.59 rad &#8801; 142.7&#176;</title>
+  </g>
+  <g transform="translate(-645,-1753)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">4</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 349 , r = 18.682 c ,
+&#952; = 837.59 rad &#8801; 110.2&#176;</title>
+  </g>
+  <g transform="translate(399,-1839)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">5</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 354 , r = 18.815 c ,
+&#952; = 849.59 rad &#8801; 77.7&#176;</title>
+  </g>
+  <g transform="translate(1333,-1346)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">5</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 359 , r = 18.947 c ,
+&#952; = 861.59 rad &#8801; 45.3&#176;</title>
+  </g>
+  <g transform="translate(1860,-424)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">6</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 364 , r = 19.079 c ,
+&#952; = 873.59 rad &#8801; 12.8&#176;</title>
+  </g>
+  <g transform="translate(1809,645)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">6</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 369 , r = 19.209 c ,
+&#952; = 885.59 rad &#8801; 340.4&#176;</title>
+  </g>
+  <g transform="translate(1188,1526)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">7</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 374 , r = 19.339 c ,
+&#952; = 897.59 rad &#8801; 307.9&#176;</title>
+  </g>
+  <g transform="translate(185,1938)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">7</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 379 , r = 19.468 c ,
+&#952; = 909.59 rad &#8801; 275.4&#176;</title>
+  </g>
+  <g transform="translate(-890,1746)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">8</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 384 , r = 19.596 c ,
+&#952; = 921.59 rad &#8801; 243.0&#176;</title>
+  </g>
+  <g transform="translate(-1699,1002)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">8</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 389 , r = 19.723 c ,
+&#952; = 933.59 rad &#8801; 210.5&#176;</title>
+  </g>
+  <g transform="translate(-1984,-67)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">9</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 394 , r = 19.849 c ,
+&#952; = 945.59 rad &#8801; 178.1&#176;</title>
+  </g>
+  <g transform="translate(-1648,-1129)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">3</tspan><tspan dx="-2">9</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 399 , r = 19.975 c ,
+&#952; = 957.59 rad &#8801; 145.6&#176;</title>
+  </g>
+  <g transform="translate(-790,-1848)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">0</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 404 , r = 20.100 c ,
+&#952; = 969.59 rad &#8801; 113.1&#176;</title>
+  </g>
+  <g transform="translate(328,-1996)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">0</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 409 , r = 20.224 c ,
+&#952; = 981.58 rad &#8801; 80.7&#176;</title>
+  </g>
+  <g transform="translate(1356,-1517)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">1</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 414 , r = 20.347 c ,
+&#952; = 993.58 rad &#8801; 48.2&#176;</title>
+  </g>
+  <g transform="translate(1970,-556)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">1</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 419 , r = 20.469 c ,
+&#952; = 1005.58 rad &#8801; 15.8&#176;</title>
+  </g>
+  <g transform="translate(1972,592)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">2</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 424 , r = 20.591 c ,
+&#952; = 1017.58 rad &#8801; 343.3&#176;</title>
+  </g>
+  <g transform="translate(1354,1567)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">2</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 429 , r = 20.712 c ,
+&#952; = 1029.58 rad &#8801; 310.8&#176;</title>
+  </g>
+  <g transform="translate(303,2061)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">3</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 434 , r = 20.833 c ,
+&#952; = 1041.58 rad &#8801; 278.4&#176;</title>
+  </g>
+  <g transform="translate(-855,1913)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">3</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 439 , r = 20.952 c ,
+&#952; = 1053.58 rad &#8801; 245.9&#176;</title>
+  </g>
+  <g transform="translate(-1758,1161)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">4</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 444 , r = 21.071 c ,
+&#952; = 1065.58 rad &#8801; 213.4&#176;</title>
+  </g>
+  <g transform="translate(-2119,36)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">4</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 449 , r = 21.190 c ,
+&#952; = 1077.58 rad &#8801; 181.0&#176;</title>
+  </g>
+  <g transform="translate(-1817,-1113)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">5</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 454 , r = 21.307 c ,
+&#952; = 1089.58 rad &#8801; 148.5&#176;</title>
+  </g>
+  <g transform="translate(-941,-1925)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">5</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 459 , r = 21.424 c ,
+&#952; = 1101.58 rad &#8801; 116.1&#176;</title>
+  </g>
+  <g transform="translate(240,-2141)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">6</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 464 , r = 21.541 c ,
+&#952; = 1113.58 rad &#8801; 83.6&#176;</title>
+  </g>
+  <g transform="translate(1359,-1686)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">6</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 469 , r = 21.656 c ,
+&#952; = 1125.58 rad &#8801; 51.1&#176;</title>
+  </g>
+  <g transform="translate(2062,-697)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">7</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 474 , r = 21.772 c ,
+&#952; = 1137.58 rad &#8801; 18.7&#176;</title>
+  </g>
+  <g transform="translate(2126,521)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">7</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 479 , r = 21.886 c ,
+&#952; = 1149.58 rad &#8801; 346.2&#176;</title>
+  </g>
+  <g transform="translate(1522,1589)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">8</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 484 , r = 22.000 c ,
+&#952; = 1161.58 rad &#8801; 313.8&#176;</title>
+  </g>
+  <g transform="translate(433,2168)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">8</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 489 , r = 22.113 c ,
+&#952; = 1173.58 rad &#8801; 281.3&#176;</title>
+  </g>
+  <g transform="translate(-802,2073)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">9</tspan><tspan dx="-2">4</tspan></text>
+   <title>n = 494 , r = 22.226 c ,
+&#952; = 1185.58 rad &#8801; 248.8&#176;</title>
+  </g>
+  <g transform="translate(-1799,1325)">
+   <circle cx="0" cy="0" r="50"/>
+   <text transform="scale(0.6,1)" x="0" y="0.7ex"><tspan dx="-2">4</tspan><tspan dx="-2">9</tspan><tspan dx="-2">9</tspan></text>
+   <title>n = 499 , r = 22.338 c ,
+&#952; = 1197.58 rad &#8801; 216.4&#176;</title>
+  </g>
+ </g>
+<!-- } END_DYNAMIC_SVG -->
+ </g>
+</svg>
+<!-- Please retain this and other comments, which contain Python code to generate this SVG. """
+import re, math
+def fmt(string): ## string.format(**vars()) using tags {expression!format} by CMG Lee
+ def f(tag): i_sep = tag.rfind('!'); return (re.sub('\.0+$', '', str(eval(tag[1:-1])))
+  if (i_sep < 0) else ('{:%s}' % tag[i_sep + 1:-1]).format(eval(tag[1:i_sep])))
+ return (re.sub(r'(?<!{){[^{}]+}', lambda m:f(m.group()), string)
+         .replace('{{', '{').replace('}}', '}'))
+def append(obj, string): return obj.append(fmt(string))
+def format_tab(*arg): return '\t'.join([str(el) for el in (arg if len(arg) > 1 else arg[0])])
+
+n_floret    = 500
+n_pathd     = 10
+c           = 100
+colours     = ['#6600cc','#cc0000','#996600','#006600','#0066cc']
+outs        = []
+out_pathds  = []
+out_colours = [[] for colour in colours]
+n_colour    = len(colours)
+phi         = (5 ** 0.5 + 1) / 2
+k           = math.radians(360 / (phi + 1))
+# k           = math.radians(137.5)
+for n in range(1, n_floret + 1):
+ r = c * n ** 0.5
+ t = k * n
+ x =  round(r * math.cos(t), 0)
+ y = -round(r * math.sin(t), 0)
+ text_scale  = 1.5 if (n < 10) else (0.9 if (n < 100) else 0.6)
+ n_digit     = len(str(n))
+ text_digits = ['<tspan dx="%d">%s</tspan>' % (1 - n_digit, digit) for digit in str(n)]
+ r_arc       = round(r * 0.97, 0)
+ append(out_pathds, '''A {r_arc},{r_arc} 0 0 0 {x},{y}''')
+ append(out_colours[n % n_colour], '''\
+  <g transform="translate({x},{y})">
+   <circle cx="0" cy="0" r="{c / 2}"/>
+   <text transform="scale({text_scale},1)" x="0" y="0.7ex">{''.join(text_digits)}</text>
+   <title>n = {n} , r = {n ** 0.5!.3f} c ,\n&#952; = {t!.2f} rad &#8801; {math.degrees(t) % 360!.1f}&#176;</title>
+  </g>''')
+
+append(outs, '''\
+ <path d="M 0,0 {' '.join(out_pathds[:n_pathd])}" stroke-width="4" stroke="#000000"/>''')
+for i_colour in range(n_colour):
+ append(outs, '''\
+ <g class="active" fill="{colours[i_colour]}">
+{'\\n'.join(out_colours[i_colour])}
+ </g>''')
+
+out_p = 'width="100%" height="100%" viewBox="-2300 -2300 4600 4600"'
+
+## Compile everything into an .svg file
+myself   = open(__file__, 'r').read() ## the contents of this very file
+file_out = open(__file__[:__file__.rfind('.')] + '.svg', 'w') ## *.* -> *.svg
+try: ## use try/finally so that file is closed even if write fails
+ file_out.write('''<?xml version="1.0" encoding="utf-8"?><!%s
+ %s%s%s\n%s%s''' % ('-' + '-', ## because SVG comments cannot have 2 consecutive '-'s
+  myself[ : myself.find('width',myself.find('<svg'))], ## assume width specified before height/viewBox
+  out_p, ## replace SVG width/height/viewBox with {out_p} & dynamic SVG block with {outs} contents
+  myself[myself.find('>',myself.find('<svg')) : myself.find('\n',myself.find('BEGIN_'+'DYNAMIC_SVG'))],
+  '\n'.join(outs), myself[myself.rfind('\n',0,myself.find('END_'+'DYNAMIC_SVG')) : ]))
+finally:
+ file_out.close()
+
+## SVG-Python near-polyglot framework version 2 by CMG Lee (Feb 2016) -->
