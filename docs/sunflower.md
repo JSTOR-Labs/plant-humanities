@@ -30,7 +30,7 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
-The bold sunflower portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the exotic flowers grown in his garden. By contrast, the illustrations in herbals were generally small and schematic because they aid in the identification of the plant and overshadowed by text explaining its medicinal or culinary properties. For those reasons, the portrait of _H. annuus_ was an influential model for visualizing sunflower aesthetics that now encapsulates visual stereotypes for the plant.
+The bold sunflower portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the exotic flowers grown in his garden. By contrast, the illustrations in herbals were generally small and schematic because they aided in the identification of the plant and were secondary to text explaining its medicinal or culinary properties. For those reasons, the portrait of _H. annuus_ was an influential model for visualizing sunflower aesthetics that now encapsulates visual stereotypes for the plant.
 <param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 
 ### Range and Cultivation
@@ -147,11 +147,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY3Nzg5NDcsLTE1Nzg3MjMzMTcsLT
-EzMDYwMzY3NiwtMTU3ODcyMzMxNywtNDQ1NTE4MzI5LC0xNjg4
-Njk1MzIyLC0xNTA5OTcwODAyLDY2ODcxMDAzNSwtMzkyNTk3NT
-M5LC0xNjQzNzAyNjkwLDIzODg3NzQ3Nyw0MDEzODAzMTUsLTg5
-MTEzNjkzMSwtMTgxODc3MDM4MCwtMTM3MzEyMzE5LDE1MzUyMj
-E3NzAsLTM1NDM0MjI3NywtMTAyMDExMDQ1NCwyMDIzODM5Nzcx
-LC0xODg1NTM2OTA3XX0=
+eyJoaXN0b3J5IjpbLTM5NDMxOTgxNCwtMTU3ODcyMzMxNywtMT
+MwNjAzNjc2LC0xNTc4NzIzMzE3LC00NDU1MTgzMjksLTE2ODg2
+OTUzMjIsLTE1MDk5NzA4MDIsNjY4NzEwMDM1LC0zOTI1OTc1Mz
+ksLTE2NDM3MDI2OTAsMjM4ODc3NDc3LDQwMTM4MDMxNSwtODkx
+MTM2OTMxLC0xODE4NzcwMzgwLC0xMzczMTIzMTksMTUzNTIyMT
+c3MCwtMzU0MzQyMjc3LC0xMDIwMTEwNDU0LDIwMjM4Mzk3NzEs
+LTE4ODU1MzY5MDddfQ==
 -->
