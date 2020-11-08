@@ -32,7 +32,7 @@ The bold sunflower portrait was made for inclusion in the florilegium _[Hortus E
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals">
-In contrast to florilegia, the illustrations in herbals were generally small and schematic. They were meant to aid the reader in identifying plants and were accompanied by text explaining a specimen's medicinal or culinary properties. The image in this herbal, X Y, clearly  X Besler’s _Flos Solis maior_. In doing so, it evidences that the became an influential model for visualizing the sunflower in  is also evocative of modern and contemporary visual stereotypes for the plant.
+In contrast to florilegia, the illustrations in herbals, such as this one, were generally small and schematic. They were meant to aid the reader in identifying plants and were given less space on the page than text explaining a specimen's medicinal or culinary properties. This image in this herbal, X Y, clearly  X Besler’s _Flos Solis maior_. In doing so, it evidences that the became an influential model for visualizing the sunflower in  is also evocative of modern and contemporary visual stereotypes for the plant.
 <param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
@@ -151,11 +151,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxMzIzNjk3LDEzNTg0NjU5NTcsLTM5ND
-MxOTgxNCwtMTU3ODcyMzMxNywtMTMwNjAzNjc2LC0xNTc4NzIz
-MzE3LC00NDU1MTgzMjksLTE2ODg2OTUzMjIsLTE1MDk5NzA4MD
-IsNjY4NzEwMDM1LC0zOTI1OTc1MzksLTE2NDM3MDI2OTAsMjM4
-ODc3NDc3LDQwMTM4MDMxNSwtODkxMTM2OTMxLC0xODE4NzcwMz
-gwLC0xMzczMTIzMTksMTUzNTIyMTc3MCwtMzU0MzQyMjc3LC0x
-MDIwMTEwNDU0XX0=
+eyJoaXN0b3J5IjpbLTE1OTg3NDYwOTQsMTM1ODQ2NTk1NywtMz
+k0MzE5ODE0LC0xNTc4NzIzMzE3LC0xMzA2MDM2NzYsLTE1Nzg3
+MjMzMTcsLTQ0NTUxODMyOSwtMTY4ODY5NTMyMiwtMTUwOTk3MD
+gwMiw2Njg3MTAwMzUsLTM5MjU5NzUzOSwtMTY0MzcwMjY5MCwy
+Mzg4Nzc0NzcsNDAxMzgwMzE1LC04OTExMzY5MzEsLTE4MTg3Nz
+AzODAsLTEzNzMxMjMxOSwxNTM1MjIxNzcwLC0zNTQzNDIyNzcs
+LTEwMjAxMTA0NTRdfQ==
 -->
