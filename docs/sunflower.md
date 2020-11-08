@@ -32,7 +32,7 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 The bold sunflower portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the exotic flowers grown in his garden. 
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
-In contrast to florilegia, the illustrations in herbals were small and schematic. The images were designed to aid the reader in identifying plants and were often overshadowed by medicinal texts. Yet, as the image in this herbal shows, Besler’s _Flos Solis maior_ became an influential model for visualizing the sunflower that is also evocative of modern and contemporary visual stereotypes for the plant.
+In contrast to florilegia, the illustrations in herbals were small and schematic. They were designed to aid the reader in identifying plants and were often overshadowed by medicinal texts. Yet, as the image in this herbal shows, Besler’s _Flos Solis maior_ became an influential model for visualizing the sunflower that is also evocative of modern and contemporary visual stereotypes for the plant.
 <param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
@@ -151,11 +151,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTc1NTQxOTgsMTM1ODQ2NTk1NywtMz
-k0MzE5ODE0LC0xNTc4NzIzMzE3LC0xMzA2MDM2NzYsLTE1Nzg3
-MjMzMTcsLTQ0NTUxODMyOSwtMTY4ODY5NTMyMiwtMTUwOTk3MD
-gwMiw2Njg3MTAwMzUsLTM5MjU5NzUzOSwtMTY0MzcwMjY5MCwy
-Mzg4Nzc0NzcsNDAxMzgwMzE1LC04OTExMzY5MzEsLTE4MTg3Nz
-AzODAsLTEzNzMxMjMxOSwxNTM1MjIxNzcwLC0zNTQzNDIyNzcs
-LTEwMjAxMTA0NTRdfQ==
+eyJoaXN0b3J5IjpbNzQ0NjM0NTcxLDEzNTg0NjU5NTcsLTM5ND
+MxOTgxNCwtMTU3ODcyMzMxNywtMTMwNjAzNjc2LC0xNTc4NzIz
+MzE3LC00NDU1MTgzMjksLTE2ODg2OTUzMjIsLTE1MDk5NzA4MD
+IsNjY4NzEwMDM1LC0zOTI1OTc1MzksLTE2NDM3MDI2OTAsMjM4
+ODc3NDc3LDQwMTM4MDMxNSwtODkxMTM2OTMxLC0xODE4NzcwMz
+gwLC0xMzczMTIzMTksMTUzNTIyMTc3MCwtMzU0MzQyMjc3LC0x
+MDIwMTEwNDU0XX0=
 -->
