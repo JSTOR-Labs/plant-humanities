@@ -57,10 +57,9 @@ The bold sunflower portrait was made for inclusion in the florilegium _[Hortus E
 Besler’s _Hortus Eystettensis_ was drawn from plants cultivated
 <param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
 
-
+<param ve-image iiif primary fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals">
 In contrast to florilegia, the illustrations in herbals, such as this one, were generally small and schematic. They were meant to aid the reader in identifying plants and were given less space on the page than text explaining a specimen's medicinal or culinary properties. This illustration is instructive for another reason. It clearly  X Besler’s _Flos Solis maior_. In doing so, it evidences that the became an influential model for visualizing the sunflower in  is also evocative of modern and contemporary visual stereotypes for the plant.
-<param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
 Europeans eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
@@ -153,11 +152,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQ2NzQwMTQsMTcwOTMwMDE2NiwzNz
-g3MjE2NjAsMTM1ODQ2NTk1NywtMzk0MzE5ODE0LC0xNTc4NzIz
-MzE3LC0xMzA2MDM2NzYsLTE1Nzg3MjMzMTcsLTQ0NTUxODMyOS
-wtMTY4ODY5NTMyMiwtMTUwOTk3MDgwMiw2Njg3MTAwMzUsLTM5
-MjU5NzUzOSwtMTY0MzcwMjY5MCwyMzg4Nzc0NzcsNDAxMzgwMz
-E1LC04OTExMzY5MzEsLTE4MTg3NzAzODAsLTEzNzMxMjMxOSwx
-NTM1MjIxNzcwXX0=
+eyJoaXN0b3J5IjpbMTMzOTExMDUxNiwxNzA5MzAwMTY2LDM3OD
+cyMTY2MCwxMzU4NDY1OTU3LC0zOTQzMTk4MTQsLTE1Nzg3MjMz
+MTcsLTEzMDYwMzY3NiwtMTU3ODcyMzMxNywtNDQ1NTE4MzI5LC
+0xNjg4Njk1MzIyLC0xNTA5OTcwODAyLDY2ODcxMDAzNSwtMzky
+NTk3NTM5LC0xNjQzNzAyNjkwLDIzODg3NzQ3Nyw0MDEzODAzMT
+UsLTg5MTEzNjkzMSwtMTgxODc3MDM4MCwtMTM3MzEyMzE5LDE1
+MzUyMjE3NzBdfQ==
 -->
