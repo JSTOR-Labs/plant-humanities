@@ -30,7 +30,7 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
-The bold plant portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden. By contrast, the illustrations in herbals were generally small and schematic to aid in the identification of the plant and overshadowed by text explaining its medicinal or culinary properties. For those reasons, the portrait of _H. annuus_ was an influential model for visualizing sunflower aesthetics that now encapsulates visual stereotypes for the plant.
+The bold sunflower portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the flowers in his garden. By contrast, the illustrations in herbals were generally small and schematic to aid in the identification of the plant and overshadowed by text explaining its medicinal or culinary properties. For those reasons, the portrait of _H. annuus_ was an influential model for visualizing sunflower aesthetics that now encapsulates visual stereotypes for the plant.
 <param ve-image iiif fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
 
 ### Range and Cultivation
@@ -147,7 +147,7 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjI0NDkyOTMsLTE1Nzg3MjMzMTcsLT
+eyJoaXN0b3J5IjpbLTEzNDM2MjM2MjUsLTE1Nzg3MjMzMTcsLT
 EzMDYwMzY3NiwtMTU3ODcyMzMxNywtNDQ1NTE4MzI5LC0xNjg4
 Njk1MzIyLC0xNTA5OTcwODAyLDY2ODcxMDAzNSwtMzkyNTk3NT
 M5LC0xNjQzNzAyNjkwLDIzODg3NzQ3Nyw0MDEzODAzMTUsLTg5
