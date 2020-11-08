@@ -36,6 +36,8 @@ The history of the sunflower  is enmeshed with mobility, and we can chart that m
 There is some debate about when domesticated sunflowers were used in southwestern North America and Mexico. Although charred seed remains thought to be from _H. annuus_ have been recovered from those areas, it is possible that the seeds actually came from squash or wild sunflowers. Linguistic evidence, however, suggests that _H. annuus_ was established in the Aztec Empire prior to the arrival of the Spanish. Indeed, the Aztecs had several Nahuatl words (“X” and “Y”) for the cultivated sunflower that bear no relation to the Spanish “X.” Still, the presence of _H. annuus_ in the Aztec Empire does not tell us whether it was cultivated independently in Mexico or brought there via trade networks. To answer that question, scientists conducted genomic studies of _H. annuus_ crops from Mexico, and they found that all modern _H. annuus_ share a common ancestor that can be traced to a domestication center in eastern North America.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
+### "Peruvian" Origins?
+
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
 Although we know that the Spanish were the first people to transport the domesticated sunflower across the Atlantic Ocean, questions persist about when and from where in the Americas they collected such plants or seeds. One hypothesis is that Hernando de Soto, who traveled to the southeastern United States, between 1539 and 1543, was the first person to introduce the plant to Europe. In the absence of surviving specimens, we can use visual and verbal accounts of the sunflower to map its introduction to Spain and other parts of Europe. Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of the sunflower by a European. Monardes wrote that description based on his observations of plants grown in his botanical garden in Seville. The spread of the sunflower to Flanders via transregional botanical networks is evidenced in the pages of Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568): the first book to feature an illustration of the plant. 
@@ -152,11 +154,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDcxMDM1NjEsMzc4NzIxNjYwLDEzNT
-g0NjU5NTcsLTM5NDMxOTgxNCwtMTU3ODcyMzMxNywtMTMwNjAz
-Njc2LC0xNTc4NzIzMzE3LC00NDU1MTgzMjksLTE2ODg2OTUzMj
-IsLTE1MDk5NzA4MDIsNjY4NzEwMDM1LC0zOTI1OTc1MzksLTE2
-NDM3MDI2OTAsMjM4ODc3NDc3LDQwMTM4MDMxNSwtODkxMTM2OT
-MxLC0xODE4NzcwMzgwLC0xMzczMTIzMTksMTUzNTIyMTc3MCwt
-MzU0MzQyMjc3XX0=
+eyJoaXN0b3J5IjpbMjA2NTgxNjkyNiwzNzg3MjE2NjAsMTM1OD
+Q2NTk1NywtMzk0MzE5ODE0LC0xNTc4NzIzMzE3LC0xMzA2MDM2
+NzYsLTE1Nzg3MjMzMTcsLTQ0NTUxODMyOSwtMTY4ODY5NTMyMi
+wtMTUwOTk3MDgwMiw2Njg3MTAwMzUsLTM5MjU5NzUzOSwtMTY0
+MzcwMjY5MCwyMzg4Nzc0NzcsNDAxMzgwMzE1LC04OTExMzY5Mz
+EsLTE4MTg3NzAzODAsLTEzNzMxMjMxOSwxNTM1MjIxNzcwLC0z
+NTQzNDIyNzddfQ==
 -->
