@@ -32,7 +32,7 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 
 ### Range and Cultivation
 
-The history of the sunflower  is enmeshed with mobility, and we can chart that movement in different time periods by using maps to study plant remains or visual representations. The earliest known sunflower remains—charred seeds—tell us that humans used domesticated _Helianthus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated through human selection. That movement of seeds and plant materials was essential to sunflower evolution.
+The history of the sunflower  is enmeshed with mobility, and we can chart that movement in different time periods by using maps to study plant remains and other forms of evidence. The earliest known sunflower remains—charred seeds—tell us that humans used domesticated _Helianthus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated through human selection. That movement of seeds and plant materials was essential to sunflower evolution.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 There is some debate about when domesticated sunflowers were used in the American southwest and Central America, and whether the plant was cultivated in these areas independently from sites in North America. Similarly, there are differing accounts of when and from where in the Americas the Spanish first collected domesticated sunflowers during the colonial period. One hypothesis is that Hernando de Soto, who traveled to the southeastern United States, from 1539 to 1543, was the first person to introduce the plant to Europe.
@@ -145,11 +145,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMxMjMxOSwxNTM1MjIxNzcwLC0zNT
-QzNDIyNzcsLTEwMjAxMTA0NTQsMjAyMzgzOTc3MSwtMTg4NTUz
-NjkwNywxNjIzNDkxNDg5LC0xNjU4MDk1NzQyLDQzMDI0MjY4NS
-wzNzYzNzczNzYsMjA5MDI2MzQxNiwtMjAyNDE3Mzk5LDIxNDA0
-OTI5ODksLTk2NDY2NzE0MCwxNDYzMTk1NjU1LDM5MTU4OTUzOS
-wtNzA5MTYwOTUwLDE3NzIwNDY0NCwxMzM5MDU5MTA3LC04NzY0
-ODc2NjhdfQ==
+eyJoaXN0b3J5IjpbLTE4MTg3NzAzODAsLTEzNzMxMjMxOSwxNT
+M1MjIxNzcwLC0zNTQzNDIyNzcsLTEwMjAxMTA0NTQsMjAyMzgz
+OTc3MSwtMTg4NTUzNjkwNywxNjIzNDkxNDg5LC0xNjU4MDk1Nz
+QyLDQzMDI0MjY4NSwzNzYzNzczNzYsMjA5MDI2MzQxNiwtMjAy
+NDE3Mzk5LDIxNDA0OTI5ODksLTk2NDY2NzE0MCwxNDYzMTk1Nj
+U1LDM5MTU4OTUzOSwtNzA5MTYwOTUwLDE3NzIwNDY0NCwxMzM5
+MDU5MTA3XX0=
 -->
