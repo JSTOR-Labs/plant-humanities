@@ -35,12 +35,12 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 The history of the sunflower  is enmeshed with mobility, and we can chart that movement in different time periods by using maps to study plant remains and other forms of evidence. The earliest known sunflower remains—charred seeds—tell us that humans used domesticated _Helianthus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated through human selection. That movement of seeds and plant materials was essential to sunflower evolution.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
-Linguistic evidence suggests that the Aztecs used cultivated sunflowers prior to the arrival of the Spanish in the Americas in 1492. However, recent genomic studies of _H. annuus_ cultivated in present-day Mexico show that all of them shared a common eastern North American ancestor. It is possible that a sunflower was independently domesticated in Central America and that it went extinct during the European colonial period. Similarly, questions persist about when and from where in the Americas the Spanish first collected domesticated sunflowers. One hypothesis is that Hernando de Soto, who traveled to the southeastern United States, from 1539 to 1543, was the first person to introduce the plant to Europe.
+Linguistic evidence suggests that the Aztecs used cultivated sunflowers prior to the arrival of the Spanish in the Americas in 1492. However, recent genomic studies of _H. annuus_ cultivated in present-day Mexico show that all of them shared a common eastern North American ancestor. It is possible that a sunflower was independently domesticated in Central America and that it went extinct during the European colonial period.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
-The Spanish were the first people to transport sunflower seeds across the Atlantic Ocean. In the absence of surviving plants, we can use visual and verbal accounts of the sunflower to map its introduction to Spain and Europe. Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) was the first book authored by a European to describe the sunflower. Monardes wrote that description based on his observations of plants grown in his botanical garden in Seville. The spread of the sunflower via transregional botanical networks is evidenced in the pages of Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568): the first book to reproduce an illustration of the plant drawn from life in Johannes Brancio’s garden in Mechelen. 
+Questions persist about when and from where in the Americas the Spanish first collected domesticated sunflowers. One hypothesis is that Hernando de Soto, who traveled to the southeastern United States, from 1539 to 1543, was the first person to introduce the plant to Europe. The Spanish were the first people to transport sunflower seeds across the Atlantic Ocean. In the absence of surviving plants, we can use visual and verbal accounts of the sunflower to map its introduction to Spain and Europe. Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) was the first book authored by a European to describe the sunflower. Monardes wrote that description based on his observations of plants grown in his botanical garden in Seville. The spread of the sunflower via transregional botanical networks is evidenced in the pages of Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568): the first book to reproduce an illustration of the plant drawn from life in Johannes Brancio’s garden in Mechelen. 
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
@@ -145,11 +145,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTEzNjkzMSwtMTgxODc3MDM4MCwtMT
-M3MzEyMzE5LDE1MzUyMjE3NzAsLTM1NDM0MjI3NywtMTAyMDEx
-MDQ1NCwyMDIzODM5NzcxLC0xODg1NTM2OTA3LDE2MjM0OTE0OD
-ksLTE2NTgwOTU3NDIsNDMwMjQyNjg1LDM3NjM3NzM3NiwyMDkw
-MjYzNDE2LC0yMDI0MTczOTksMjE0MDQ5Mjk4OSwtOTY0NjY3MT
-QwLDE0NjMxOTU2NTUsMzkxNTg5NTM5LC03MDkxNjA5NTAsMTc3
-MjA0NjQ0XX0=
+eyJoaXN0b3J5IjpbNDAxMzgwMzE1LC04OTExMzY5MzEsLTE4MT
+g3NzAzODAsLTEzNzMxMjMxOSwxNTM1MjIxNzcwLC0zNTQzNDIy
+NzcsLTEwMjAxMTA0NTQsMjAyMzgzOTc3MSwtMTg4NTUzNjkwNy
+wxNjIzNDkxNDg5LC0xNjU4MDk1NzQyLDQzMDI0MjY4NSwzNzYz
+NzczNzYsMjA5MDI2MzQxNiwtMjAyNDE3Mzk5LDIxNDA0OTI5OD
+ksLTk2NDY2NzE0MCwxNDYzMTk1NjU1LDM5MTU4OTUzOSwtNzA5
+MTYwOTUwXX0=
 -->
