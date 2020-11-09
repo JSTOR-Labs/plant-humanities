@@ -86,7 +86,7 @@ The close relationship between heliconias and their pollinators highlights the v
 <param ve-entity eid="Q181916" title="herbarium">
 Botany has always been a highly visual science, and our understanding of plants depends partly on the ways in which we have chosen to represent them. One of the conventions of both the botanical portrait and the scientific illustration alike is the rendering of the singular plant removed from its natural context and portrayed against a neutral background. Similarly, the herbarium sheet removes the plant from its ecosystem, rendering it suitable for transportation, archiving, and future reference and comparison in museums, but divorcing the specimen from its web of interactions and relationships. We know that plants do not exist in isolation; they inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction. Botanists are therefore using the conventional forms of plant representation, such as herbarium specimens, to understand more about natural habitats of the species and repurposing them to determine effective strategies for their conservation.
 <param ve-d3plus-ring-network 
-       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconiaecosystemallcommon.tsv"
+       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_high_common.tsv"
        center="Heliconia imbricata Ecosystem">
 
 ### Conserving the Diversity of Heliconia
@@ -117,11 +117,11 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODgyNDY4NywtMTA4MzE0MTUwMCwtMT
-A4MzE0MTUwMCwtMTU1ODQ1MDUxMywtMTc0ODcxNjMzLC05MTEz
-ODY3ODIsLTY5NTI1NTMzMSwtMTYyNzk5NzMwNiw2MTgyNjI4NT
-UsMjAxNzg2NDQ4MiwtMzc4NjUxMDcyLDEwODkyNTYwMzAsMjEx
-MTA0MzczMSwxNzA4Mzc4MjAyLDE1MzY0NDI2MDcsMTE4OTk1OD
-Y5NSw4MzA2NjEzOTEsMTExMjQzNDMzOCw3MDM1NDA3MTMsMTY2
-MDk2Mzk0XX0=
+eyJoaXN0b3J5IjpbLTE1NTg0NTA1MTMsLTgzODgyNDY4NywtMT
+A4MzE0MTUwMCwtMTA4MzE0MTUwMCwtMTU1ODQ1MDUxMywtMTc0
+ODcxNjMzLC05MTEzODY3ODIsLTY5NTI1NTMzMSwtMTYyNzk5Nz
+MwNiw2MTgyNjI4NTUsMjAxNzg2NDQ4MiwtMzc4NjUxMDcyLDEw
+ODkyNTYwMzAsMjExMTA0MzczMSwxNzA4Mzc4MjAyLDE1MzY0ND
+I2MDcsMTE4OTk1ODY5NSw4MzA2NjEzOTEsMTExMjQzNDMzOCw3
+MDM1NDA3MTNdfQ==
 -->
