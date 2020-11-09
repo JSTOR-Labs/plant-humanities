@@ -23,11 +23,13 @@ Botany has always been a highly visual science, and our understanding of plants 
 <param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_v1.tsv" center="Heliconia imbricata">
 
+
 The genus _Heliconia_ was named after mount Helicon—in Greek mythology, the home of Apollo and the Muses—by none other than Carl Linnaeus, the father of modern taxonomy. The name, evocative of art and beauty, was intended to emphasize the close taxonomic relationship of _Heliconia_ to the genus _[Musa](https://plant-humanities.app/Banana)_, or the bananas.
 ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/eight_families_order_Zingiberales_sm.jpg){: .right}
 Taxonomists recognize approximately 185 species of _Heliconia_ world-wide, but there are undoubtedly one or two dozen more species to discover and describe in the tropical forests of the two distinct regions across the globe where they grow as native plants.
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
 <param ve-image region="449,688,492,425" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/4/@@image/image" title="Margaret Mee, _Heliconia_, 1964, gouache, Dumbarton Oaks">
+
 
 <param ve-entity eid="Q1602492" title="Heliconia imbricata">
 <param ve-entity eid="Q28425" aliases="bats|bat" title="bat">
@@ -138,11 +140,11 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0MDM0MDksLTc0NDg3NjkwMywtNzc3Nz
-czMzM0LC0xNzM5MTM0MDA1LDE0ODg5MTQ0MTIsLTk5MzU1NzUw
-LC0xNDk5Njk4MzMyLDIxNDUwNjIyNTUsNjQzNDk0NDEsLTE1NT
-g0NTA1MTMsLTgzODgyNDY4NywtMTA4MzE0MTUwMCwtMTA4MzE0
-MTUwMCwtMTc0ODcxNjMzLC05MTEzODY3ODIsLTY5NTI1NTMzMS
-wtMTYyNzk5NzMwNiw2MTgyNjI4NTUsMjAxNzg2NDQ4MiwtMzc4
-NjUxMDcyXX0=
+eyJoaXN0b3J5IjpbLTkzNzAwMTg3NSw0MTQwMzQwOSwtNzQ0OD
+c2OTAzLC03Nzc3NzMzMzQsLTE3MzkxMzQwMDUsMTQ4ODkxNDQx
+MiwtOTkzNTU3NTAsLTE0OTk2OTgzMzIsMjE0NTA2MjI1NSw2ND
+M0OTQ0MSwtMTU1ODQ1MDUxMywtODM4ODI0Njg3LC0xMDgzMTQx
+NTAwLC0xMDgzMTQxNTAwLC0xNzQ4NzE2MzMsLTkxMTM4Njc4Mi
+wtNjk1MjU1MzMxLC0xNjI3OTk3MzA2LDYxODI2Mjg1NSwyMDE3
+ODY0NDgyXX0=
 -->
