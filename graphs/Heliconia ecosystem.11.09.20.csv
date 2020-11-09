@@ -1,0 +1,69 @@
+﻿source,source.label,target,target.label,edge,Importance,Type of interaction
+,Cheirispa dorsata Baly,Q1602492,Heliconia imbricata,inhabit (debris patches on) leaves of,,
+,Cheirispa dorsata Baly,Q37813,ecosystem,interacts in,,
+,Rolled-leaf beetles Cephaloleia consanguinea Baly,Q1602492,Heliconia imbricata,inhabit (debris patches on) leaves of,high,parasite
+,Rolled-leaf beetles Cephaloleia consanguinea Baly,Q37813,ecosystem,interacts in,,
+Q13852699,Wyeomyia pseudopecten,Q1602492,Heliconia imbricata,mosquitos lay larvae in the bracts of,low,mutualist
+Q1602492,Heliconia imbricata,Q13852699,Wyeomyia pseudopecten,benefits from,,
+Q13852699,Wyeomyia pseudopecten,Q37813,ecosystem,interacts in,,
+Q13851995,Trichoprosopon digitatum,Q1602492,Heliconia imbricata,lay larvae in the bracts of,low,mutualist
+Q1602492,Heliconia imbricata,Q13851995,Trichoprosopon digitatum,benefits from,,
+Q13851995,Trichoprosopon digitatum,Q37813,ecosystem,interacts in,,
+,Pentaneura n. sp. (Chironomidae),Q1602492,Heliconia imbricata,midges that eat the Wyeomyia pseudopecten larvae found in the bracts of,low,neutral
+,Pentaneura n. sp. (Chironomidae),Q37813,ecosystem,interacts in,,
+,Pentaneura n. sp. (Chironomidae),Q1602492,Heliconia imbricata,midges that eat the Trichoprosopon digitatum larvae found in the bracts of,low,neutral
+,Pentaneura n. sp. (Chironomidae),Q37813,ecosystem,interacts in,,
+,Litopeltis sp. (Dictyoptera: Blattidae),Q1602492,Heliconia imbricata,a cockroach that lives in the bracts of,low,neutral
+,Litopeltis sp. (Dictyoptera: Blattidae),Q37813,ecosystem,interacts in,,
+,Cephaloleia puncticollis Baly (Coleoptera: Chrysomelidae; Hispinae),Q1602492,Heliconia imbricata,live in the bracts of,high,parasite
+,Cephaloleia puncticollis Baly (Coleoptera: Chrysomelidae; Hispinae),Q37813,ecosystem,interacts in,,
+,Gillisius sp. #1 (Coleoptera),Q1602492,Heliconia imbricata,live in the bracts and feeds on floral parts of,high,parasite
+,Gillisius sp. #1 (Coleoptera),Q37813,ecosystem,interacts in,,
+,Quichuana aurata Walker,Q1602492,Heliconia imbricata,a hoverfly that lives in the bracts of,low,neutral
+,Quichuana aurata Walker,Q37813,ecosystem,interacts in,,
+,Merosargus sp. (Diptera: Stratiomvidae),Q1602492,Heliconia imbricata,live in the bracts of,low,neutral
+,Merosargus sp. (Diptera: Stratiomvidae),Q37813,ecosystem,interacts in,,
+,Beebeomyia sp. (Diptera: Richardiidae),Q1602492,Heliconia imbricata,a fly that lives in the bracts of,low,neutral
+,Beebeomyia sp. (Diptera: Richardiidae),Q37813,ecosystem,interacts in,,
+Q2749609,Chelobasis perplexa,Q1602492,Heliconia imbricata,live in and feed on the immature leaves of plants of,high,parasite
+,Chelobasis perplexa,Q37813,ecosystem,interacts in,,
+,Rolled-leaf beetles (Cephaloleia consanguinea Baly),Q1602492,Heliconia imbricata,lay eggs and larvae feed on,high,parasite
+,,Q37813,ecosystem,interacts in,,
+Q358469,Eutoxeres aquila,Q37813,ecosystem,interacts in,,
+Q1269378,Phaethornis superciliosus,Q37813,ecosystem,interacts in,,
+Q644670,Threnetes ruckeri,Q1602492,Heliconia imbricata,feed on and pollinate,high ,mutualist
+Q1602492,Heliconia imbricata,Q644670,Threnetes ruckeri,benefits from,,
+Q644670,Threnetes ruckeri,Q37813,ecosystem,interacts in,,
+,Glaucis hirsute,Q37813,ecosystem,interacts in,,
+,Chalybura urochyrsia,Q1602492,Heliconia imbricata,feed on and pollinate,high,mutualist
+Q1602492,Heliconia imbricata,,Chalybura urochyrsia,benefits from,,
+,Chalybura urochyrsia,Q37813,ecosystem,interacts in,,
+,Thalurania furcate,Q1602492,Heliconia imbricata,feed on and pollinate,high,mutualist
+Q1602492,Heliconia imbricata,,Thalurania furcate,benefits from,,
+,Thalurania furcate,Q37813,ecosystem,interacts in,,
+,Amazilia izacatl,Q1602492,Heliconia imbricata,feed on and pollinate,high,mutualist
+Q1602492,Heliconia imbricata,,Amazilia izacatl,benefits from,,
+,Amazilia izacatl,Q37813,ecosystem,interacts in,,
+,Amazilia amabilis,Q1602492,Heliconia imbricata,feed on and pollinate,high ,mutualist
+Q1602492,Heliconia imbricata,,Amazilia amabilis,benefits from,,
+,Heliconia imbricata,Q37813,ecosystem,interacts in,,
+Q1084570,Florisuga mellivora,Q1602492,Heliconia imbricata,feed on and pollinate,high ,mutualist
+Q1602492,Heliconia imbricata,Q1084570,Florisuga mellivora,benefits from,,
+Q1084570,Florisuga mellivora,Q37813,ecosystem,interacts in,,
+Q1834504,Artibeus watsoni,Q1602492,Heliconia imbricata,roost on (also add Ectophylla alba (tent-making bat),medium,parasite
+Q1834504,Artibeus watsoni,Q37813,ecosystem,interacts in,,
+,Litopeltis sp. (Dictyoptera: Blattidae) nymphs,Q1602492,Heliconia imbricata,live and feed on,low,neutral
+,Litopeltis sp. (Dictyoptera: Blattidae) nymphs,Q37813,ecosystem,interacts in,,
+,Cephaloleia puncticollis Baly (Coleoptera: Chrysomelidae; Hispinae),Q1602492,Heliconia imbricata,lay eggs and larvae feeds on,high,parasite
+,Cephaloleia puncticollis Baly (Coleoptera: Chrysomelidae; Hispinae),Q37813,ecosystem,interacts in,,
+,Odontolinus fasciatus Sharp (Coleoptera: Staphylinidae),Q1602492,Heliconia imbricata,eat mosquito larvae laid on,low,neutral
+,Odontolinus fasciatus Sharp (Coleoptera: Staphylinidae),Q37813,ecosystem,interacts in,,
+Q14672763,Merosargus sp. (Diptera: Stratiomvidae),Q1602492,Heliconia imbricata,"copulate, rest, and lay eggs on",low,neutral
+Q14672763,Merosargus sp. (Diptera: Stratiomvidae),Q37813,ecosystem,interacts in,,
+,Beebeomyia sp. (Diptera: Richardiidae) larvae,Q1602492,Heliconia imbricata,feed on the flowers of,low,parasite
+,Beebeomyia sp. (Diptera: Richardiidae) larvae,Q37813,ecosystem,interacts in,,
+Q5,Add Homo sapiens,Q1602492,Heliconia imbricata,Cultivate the flowers in botanical gardens and commercial nurseries for sale to the public ,high,mutualist
+Q1602492,Heliconia imbricata,Q5,Add Homo sapiens,benefits from,,
+Q5,Add Homo sapiens,Q37813,ecosystem,interacts in,,
+,,,,,,
+,,,,,,
