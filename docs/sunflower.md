@@ -8,7 +8,7 @@
 ### A Giant among Us
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
- _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, this species of sunflower is the only crop plant in use today to have been domesticated in North America. It is also a popular ornamental, renowned for its yellow flower head with a round disk and imposing height. Indeed, _H. annuus_ can grow up to sixteen feet tall towering over us and other organisms—a trait exaggerated for comedic effect in this genre-bending botanical illustration of an anthropomorphic flower with a greyhound. Today, because of the common sunflower’s iconic qualities and widespread cultivation, we tend to essentialize the genus by assuming that all sunflowers have a single, golden blossom per stem. Such cultural myths have shaped and been shaped by visual representations of the plant, particularly those depicting _H. annuus_.
+ _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, this species of sunflower is the only crop plant in use today to have been domesticated in North America. The plant is also a popular ornamental, renowned for its yellow flower head with a round disk and imposing height. Indeed, _H. annuus_ can grow up to sixteen feet tall towering over us and other organisms—a trait exaggerated for comedic effect in this genre-bending botanical illustration with an anthropomorphic flower and a greyhound. Today, because of the common sunflower’s iconic qualities and widespread cultivation, we tend to essentialize the genus by assuming that all sunflowers have a single, golden blossom per stem. Such cultural myths have shaped and been shaped by visual representations of the plant, particularly those depicting _H. annuus_.
 
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 Pictures of the sunflower can provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing the _Helianthus annuus_ and other sunflowers that were tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic.These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) helped to perpetuate several myths about sunflowers that are still widely held today, while they sometimes also served to uphold, challenge, or illuminate stereotypes pertaining to societal markers of difference.
@@ -151,11 +151,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzE0MDQxMiwtMTA3MzQwMTkxMSwtMj
-kxNDc4MzM4LDE5MTg3NjE2MjYsNzYwNzA2ODA0LDY4MjUyMTA5
-LC01MDkxOTIxNjcsNDQwMTc2MDA0LDEyODIzMTU4MDMsNTMwNT
-Q0MTUzLC0xNzYzMzI5NzM5LC00MTgyNTM2ODAsNTMwNTQ0MTUz
-LDE4Mjk5MzQzMzUsMjk4MjQxODM0LC0xMDk0OTQyMzM0LDE1ND
-kzMTE1MDUsMTMzOTExMDUxNiwxNzA5MzAwMTY2LDM3ODcyMTY2
-MF19
+eyJoaXN0b3J5IjpbLTEzNTQwOTk1MzEsLTEwNzM0MDE5MTEsLT
+I5MTQ3ODMzOCwxOTE4NzYxNjI2LDc2MDcwNjgwNCw2ODI1MjEw
+OSwtNTA5MTkyMTY3LDQ0MDE3NjAwNCwxMjgyMzE1ODAzLDUzMD
+U0NDE1MywtMTc2MzMyOTczOSwtNDE4MjUzNjgwLDUzMDU0NDE1
+MywxODI5OTM0MzM1LDI5ODI0MTgzNCwtMTA5NDk0MjMzNCwxNT
+Q5MzExNTA1LDEzMzkxMTA1MTYsMTcwOTMwMDE2NiwzNzg3MjE2
+NjBdfQ==
 -->
