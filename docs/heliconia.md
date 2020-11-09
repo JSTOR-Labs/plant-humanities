@@ -27,16 +27,6 @@ Taxonomists recognize approximately 185 species of _Heliconia_ world-wide, but t
 
 ### A Short History of Horticultural Excitement for Heliconia
 
-<param ve-entity eid="Q1602492" title="Heliconia imbricata">
-<param ve-entity eid="Q28425" aliases="bats|bat" title="bat">
-<param ve-entity eid="Q7367" aliases="mosquitos" title="Culicidae">
-<param ve-entity eid="Q43624" aliases="hummingbirds|hummingbird" title="Trochilidae">
-<param ve-entity eid="Q1533239" aliases="midges" title="Ceratopogonidae">
-<param ve-entity eid="Q859257" aliases="flies" title="fly">
-The close relationship between heliconias and their pollinators highlights the vital role these plants play in the broader ecosystem as a source of food and shelter. A number of birds, such as toucans and tanagers, as well as squirrels feed on the bright blue fruits and seeds of most species of _Heliconia_. Some plants, like _Heliconia imbricata_, are keystone species crucial to the survival of many other rainforest inhabitants.  In addition to feeding energy-rich nectar to the hummingbirds which pollinate its flowers, this heliconia offers a daytime home to tent-making bats, who fold-over the banana-like leaves to provide shelter from the tropical sun and rain. The species also serves as the perfect spot for hummingbirds to build their nests under the tips of the leaves. Meanwhile, the liquid that pools in the bracts enclosing the flowers is a breeding ground for insect larvae, especially mosquitos, midges, and flies. One group of tropical beetles, called the rolled-leaf hispine beetles, is highly specialized to feed inside the unfurling leaves of this and other species of heliconias and their relatives.
-<param ve-d3plus-ring-network 
-       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_pollinatefeedshelter_v1.tsv" center="Heliconia imbricata">
-
 <param ve-image iiif fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/19/@@images/image" title="Margaret Mee, _Heliconia psittacorum_, 1964, gouache, Dumbarton Oaks">
 <param ve-entity eid="Q2667306" title="Heliconia psittacorum" aliases="H. psittacorum">
 <param ve-entity eid="Q2727878" title="Heliconia bihai" aliases="H. bihai">
@@ -97,7 +87,8 @@ Another species, _Heliconia tortuosa_ from Costa Rica, provides a fascinating ex
 <param ve-entity eid="Q1533239" aliases="midges" title="Ceratopogonidae">
 <param ve-entity eid="Q859257" aliases="flies" title="fly">
 The close relationship between heliconias and their pollinators highlights the vital role these plants play in the broader ecosystem as a source of food and shelter. A number of birds, such as toucans and tanagers, as well as squirrels feed on the bright blue fruits and seeds of most species of _Heliconia_. Some plants, like _Heliconia imbricata_, are keystone species crucial to the survival of many other rainforest inhabitants.  In addition to feeding energy-rich nectar to the hummingbirds which pollinate its flowers, this heliconia offers a daytime home to tent-making bats, who fold-over the banana-like leaves to provide shelter from the tropical sun and rain. The species also serves as the perfect spot for hummingbirds to build their nests under the tips of the leaves. Meanwhile, the liquid that pools in the bracts enclosing the flowers is a breeding ground for insect larvae, especially mosquitos, midges, and flies. One group of tropical beetles, called the rolled-leaf hispine beetles, is highly specialized to feed inside the unfurling leaves of this and other species of heliconias and their relatives.
-<param ve-d3plus-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Heliconia.tsv">
+<param ve-d3plus-ring-network 
+       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_pollinatefeedshelter_v1.tsv" center="Heliconia imbricata">
 
 
 <param ve-entity eid="Q441" title="botany">
@@ -135,11 +126,11 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDIzMDY4MjcsNDE0MDM0MDksLTc0ND
-g3NjkwMywtNzc3NzczMzM0LC0xNzM5MTM0MDA1LDE0ODg5MTQ0
-MTIsLTk5MzU1NzUwLC0xNDk5Njk4MzMyLDIxNDUwNjIyNTUsNj
-QzNDk0NDEsLTE1NTg0NTA1MTMsLTgzODgyNDY4NywtMTA4MzE0
-MTUwMCwtMTA4MzE0MTUwMCwtMTc0ODcxNjMzLC05MTEzODY3OD
-IsLTY5NTI1NTMzMSwtMTYyNzk5NzMwNiw2MTgyNjI4NTUsMjAx
-Nzg2NDQ4Ml19
+eyJoaXN0b3J5IjpbMjEwNDYzMTk0Niw0MTQwMzQwOSwtNzQ0OD
+c2OTAzLC03Nzc3NzMzMzQsLTE3MzkxMzQwMDUsMTQ4ODkxNDQx
+MiwtOTkzNTU3NTAsLTE0OTk2OTgzMzIsMjE0NTA2MjI1NSw2ND
+M0OTQ0MSwtMTU1ODQ1MDUxMywtODM4ODI0Njg3LC0xMDgzMTQx
+NTAwLC0xMDgzMTQxNTAwLC0xNzQ4NzE2MzMsLTkxMTM4Njc4Mi
+wtNjk1MjU1MzMxLC0xNjI3OTk3MzA2LDYxODI2Mjg1NSwyMDE3
+ODY0NDgyXX0=
 -->
