@@ -89,6 +89,14 @@ Botany has always been a highly visual science, and our understanding of plants 
        url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_high.tsv"
        center="Heliconia imbricata">
 
+
+<param ve-entity eid="Q441" title="botany">
+<param ve-entity eid="Q181916" title="herbarium">
+Botany has always been a highly visual science, and our understanding of plants depends partly on the ways in which we have chosen to represent them. One of the conventions of both the botanical portrait and the scientific illustration alike is the rendering of the singular plant removed from its natural context and portrayed against a neutral background. Similarly, the herbarium sheet removes the plant from its ecosystem, rendering it suitable for transportation, archiving, and future reference and comparison in museums, but divorcing the specimen from its web of interactions and relationships. We know that plants do not exist in isolation; they inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction. Botanists are therefore using the conventional forms of plant representation, such as herbarium specimens, to understand more about natural habitats of the species and repurposing them to determine effective strategies for their conservation.
+<param ve-d3plus-ring-network 
+       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_high_common.tsv"
+       center="Heliconia imbricata">
+
 ### Conserving the Diversity of Heliconia
 
 <param ve-entity eid="Q17025438" title="United States National Herbarium">
@@ -117,11 +125,11 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTI1NTMzMSwtMTYyNzk5NzMwNiw2MT
-gyNjI4NTUsMjAxNzg2NDQ4MiwtMzc4NjUxMDcyLDEwODkyNTYw
-MzAsMjExMTA0MzczMSwxNzA4Mzc4MjAyLDE1MzY0NDI2MDcsMT
-E4OTk1ODY5NSw4MzA2NjEzOTEsMTExMjQzNDMzOCw3MDM1NDA3
-MTMsMTY2MDk2Mzk0LDE3NTQ2MzU4ODYsLTE5OTQ4ODg4NjgsNT
-k5MzYzODUxLDk5NTg5MDYwLDE2NzI4MDYyNzQsLTE2OTE0MTE2
-MzZdfQ==
+eyJoaXN0b3J5IjpbLTkxMTM4Njc4MiwtNjk1MjU1MzMxLC0xNj
+I3OTk3MzA2LDYxODI2Mjg1NSwyMDE3ODY0NDgyLC0zNzg2NTEw
+NzIsMTA4OTI1NjAzMCwyMTExMDQzNzMxLDE3MDgzNzgyMDIsMT
+UzNjQ0MjYwNywxMTg5OTU4Njk1LDgzMDY2MTM5MSwxMTEyNDM0
+MzM4LDcwMzU0MDcxMywxNjYwOTYzOTQsMTc1NDYzNTg4NiwtMT
+k5NDg4ODg2OCw1OTkzNjM4NTEsOTk1ODkwNjAsMTY3MjgwNjI3
+NF19
 -->
