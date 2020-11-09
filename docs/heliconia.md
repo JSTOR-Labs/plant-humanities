@@ -16,7 +16,7 @@ The genus _Heliconia_ was named after mount Helicon—in Greek mythology, the ho
 ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/eight_families_order_Zingiberales_sm.jpg){: .right}
 Taxonomists recognize approximately 185 species of _Heliconia_ world-wide, but there are undoubtedly one or two dozen more species to discover and describe in the tropical forests of the two distinct regions across the globe where they grow as native plants.
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
-<param ve-image region="449,688,492,425" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/4/@@image/image" title="Margaret Mee, _Heliconia_, 1964, gouache, Dumbarton Oaks">
+<param ve-image fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/4/@@image/image" title="Margaret Mee, _Heliconia_, 1964, gouache, Dumbarton Oaks">
 
 
 ### A Short History of Horticultural Excitement for Heliconia
@@ -126,11 +126,11 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjgwNTAwMiw0MTQwMzQwOSwtNzQ0OD
-c2OTAzLC03Nzc3NzMzMzQsLTE3MzkxMzQwMDUsMTQ4ODkxNDQx
-MiwtOTkzNTU3NTAsLTE0OTk2OTgzMzIsMjE0NTA2MjI1NSw2ND
-M0OTQ0MSwtMTU1ODQ1MDUxMywtODM4ODI0Njg3LC0xMDgzMTQx
-NTAwLC0xMDgzMTQxNTAwLC0xNzQ4NzE2MzMsLTkxMTM4Njc4Mi
-wtNjk1MjU1MzMxLC0xNjI3OTk3MzA2LDYxODI2Mjg1NSwyMDE3
-ODY0NDgyXX0=
+eyJoaXN0b3J5IjpbMTQ3OTg2MTU3NiwxNjUyODA1MDAyLDQxND
+AzNDA5LC03NDQ4NzY5MDMsLTc3Nzc3MzMzNCwtMTczOTEzNDAw
+NSwxNDg4OTE0NDEyLC05OTM1NTc1MCwtMTQ5OTY5ODMzMiwyMT
+Q1MDYyMjU1LDY0MzQ5NDQxLC0xNTU4NDUwNTEzLC04Mzg4MjQ2
+ODcsLTEwODMxNDE1MDAsLTEwODMxNDE1MDAsLTE3NDg3MTYzMy
+wtOTExMzg2NzgyLC02OTUyNTUzMzEsLTE2Mjc5OTczMDYsNjE4
+MjYyODU1XX0=
 -->
