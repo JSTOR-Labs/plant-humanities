@@ -18,6 +18,12 @@ Botany has always been a highly visual science, and our understanding of plants 
 Heliconias rank among the great botanical beauties of the natural world. Visually alluring with <span data-click-image-zoomto="568,209,1290,1100">sculptural bracts</span> and stunning colors, they have been widely distributed in ornamental gardens and the horticulture trade over the past two centuries. Yet until recently these iconic tropical plants were poorly known to scientists. As large herbs with <span data-click-image-zoomto="1429,2117,1290,1100">banana-like leaves</span> and fleshy, bulky inflorescences they are hard to collect in the field. For the same reason their character is difficult to capture on the herbarium sheet, where the sensuous bracts are reduced to a shriveled shadow of their showy presence in forest clearings. However, in recent decades, both field observations and controlled experiments by botanists and ecologists have produced a wealth of new information about heliconias. These fascinating discoveries illuminate the sophistication of plant-animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.
 
 
+<param ve-entity eid="Q441" title="botany">
+<param ve-entity eid="Q181916" title="herbarium">
+Botany has always been a highly visual science, and our understanding of plants depends partly on the ways in which we have chosen to represent them. One of the conventions of both the botanical portrait and the scientific illustration alike is the rendering of the singular plant removed from its natural context and portrayed against a neutral background. Similarly, the herbarium sheet removes the plant from its ecosystem, rendering it suitable for transportation, archiving, and future reference and comparison in museums, but divorcing the specimen from its web of interactions and relationships. We know that plants do not exist in isolation; they inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction. Botanists are therefore using the conventional forms of plant representation, such as herbarium specimens, to understand more about natural habitats of the species and repurposing them to determine effective strategies for their conservation.
+<param ve-d3plus-ring-network 
+       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_v1.tsv" center="Heliconia imbricata">
+
 The genus _Heliconia_ was named after mount Helicon—in Greek mythology, the home of Apollo and the Muses—by none other than Carl Linnaeus, the father of modern taxonomy. The name, evocative of art and beauty, was intended to emphasize the close taxonomic relationship of _Heliconia_ to the genus _[Musa](https://plant-humanities.app/Banana)_, or the bananas.
 ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/eight_families_order_Zingiberales_sm.jpg){: .right}
 Taxonomists recognize approximately 185 species of _Heliconia_ world-wide, but there are undoubtedly one or two dozen more species to discover and describe in the tropical forests of the two distinct regions across the globe where they grow as native plants.
@@ -123,7 +129,7 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTczMjk2NiwtMTczOTEzNDAwNSwxND
+eyJoaXN0b3J5IjpbMTMwNzA3NzYyOCwtMTczOTEzNDAwNSwxND
 g4OTE0NDEyLC05OTM1NTc1MCwtMTQ5OTY5ODMzMiwyMTQ1MDYy
 MjU1LDY0MzQ5NDQxLC0xNTU4NDUwNTEzLC04Mzg4MjQ2ODcsLT
 EwODMxNDE1MDAsLTEwODMxNDE1MDAsLTE3NDg3MTYzMywtOTEx
