@@ -86,14 +86,6 @@ The close relationship between heliconias and their pollinators highlights the v
 <param ve-entity eid="Q181916" title="herbarium">
 Botany has always been a highly visual science, and our understanding of plants depends partly on the ways in which we have chosen to represent them. One of the conventions of both the botanical portrait and the scientific illustration alike is the rendering of the singular plant removed from its natural context and portrayed against a neutral background. Similarly, the herbarium sheet removes the plant from its ecosystem, rendering it suitable for transportation, archiving, and future reference and comparison in museums, but divorcing the specimen from its web of interactions and relationships. We know that plants do not exist in isolation; they inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction. Botanists are therefore using the conventional forms of plant representation, such as herbarium specimens, to understand more about natural habitats of the species and repurposing them to determine effective strategies for their conservation.
 <param ve-d3plus-ring-network 
-       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_high.tsv"
-       center="Heliconia imbricata">
-
-
-<param ve-entity eid="Q441" title="botany">
-<param ve-entity eid="Q181916" title="herbarium">
-Botany has always been a highly visual science, and our understanding of plants depends partly on the ways in which we have chosen to represent them. One of the conventions of both the botanical portrait and the scientific illustration alike is the rendering of the singular plant removed from its natural context and portrayed against a neutral background. Similarly, the herbarium sheet removes the plant from its ecosystem, rendering it suitable for transportation, archiving, and future reference and comparison in museums, but divorcing the specimen from its web of interactions and relationships. We know that plants do not exist in isolation; they inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction. Botanists are therefore using the conventional forms of plant representation, such as herbarium specimens, to understand more about natural habitats of the species and repurposing them to determine effective strategies for their conservation.
-<param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_high_common.tsv"
        center="Heliconia imbricata">
 
@@ -125,11 +117,11 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTM4Njc4MiwtNjk1MjU1MzMxLC0xNj
-I3OTk3MzA2LDYxODI2Mjg1NSwyMDE3ODY0NDgyLC0zNzg2NTEw
-NzIsMTA4OTI1NjAzMCwyMTExMDQzNzMxLDE3MDgzNzgyMDIsMT
-UzNjQ0MjYwNywxMTg5OTU4Njk1LDgzMDY2MTM5MSwxMTEyNDM0
-MzM4LDcwMzU0MDcxMywxNjYwOTYzOTQsMTc1NDYzNTg4NiwtMT
-k5NDg4ODg2OCw1OTkzNjM4NTEsOTk1ODkwNjAsMTY3MjgwNjI3
-NF19
+eyJoaXN0b3J5IjpbLTE3NDg3MTYzMywtOTExMzg2NzgyLC02OT
+UyNTUzMzEsLTE2Mjc5OTczMDYsNjE4MjYyODU1LDIwMTc4NjQ0
+ODIsLTM3ODY1MTA3MiwxMDg5MjU2MDMwLDIxMTEwNDM3MzEsMT
+cwODM3ODIwMiwxNTM2NDQyNjA3LDExODk5NTg2OTUsODMwNjYx
+MzkxLDExMTI0MzQzMzgsNzAzNTQwNzEzLDE2NjA5NjM5NCwxNz
+U0NjM1ODg2LC0xOTk0ODg4ODY4LDU5OTM2Mzg1MSw5OTU4OTA2
+MF19
 -->
