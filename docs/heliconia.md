@@ -82,7 +82,7 @@ Another species, _Heliconia tortuosa_ from Costa Rica, provides a fascinating ex
 <param ve-entity eid="Q859257" aliases="flies" title="fly">
 The close relationship between heliconias and their pollinators highlights the vital role these plants play in the broader ecosystem as a source of food and shelter. A number of birds, such as toucans and tanagers, as well as squirrels feed on the bright blue fruits and seeds of most species of _Heliconia_. Some plants, like _Heliconia imbricata_, are keystone species crucial to the survival of many other rainforest inhabitants.  In addition to feeding energy-rich nectar to the hummingbirds which pollinate its flowers, this heliconia offers a daytime home to tent-making bats, who fold-over the banana-like leaves to provide shelter from the tropical sun and rain. The species also serves as the perfect spot for hummingbirds to build their nests under the tips of the leaves. Meanwhile, the liquid that pools in the bracts enclosing the flowers is a breeding ground for insect larvae, especially mosquitos, midges, and flies. One group of tropical beetles, called the rolled-leaf hispine beetles, is highly specialized to feed inside the unfurling leaves of this and other species of heliconias and their relatives.
 <param ve-d3plus-ring-network 
-       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_pollinatefeedshelter_v1.tsv" center="Heliconia imbricata">
+       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_pollinatefeedshelter_v1.tsv" center="Heliconia imbricata" title="Heliconia imbricata >
 
 
 <param ve-entity eid="Q441" title="botany">
@@ -127,11 +127,11 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzQxODIsMTQ3OTg2MTU3NiwxNjUyOD
-A1MDAyLDQxNDAzNDA5LC03NDQ4NzY5MDMsLTc3Nzc3MzMzNCwt
-MTczOTEzNDAwNSwxNDg4OTE0NDEyLC05OTM1NTc1MCwtMTQ5OT
-Y5ODMzMiwyMTQ1MDYyMjU1LDY0MzQ5NDQxLC0xNTU4NDUwNTEz
-LC04Mzg4MjQ2ODcsLTEwODMxNDE1MDAsLTEwODMxNDE1MDAsLT
-E3NDg3MTYzMywtOTExMzg2NzgyLC02OTUyNTUzMzEsLTE2Mjc5
-OTczMDZdfQ==
+eyJoaXN0b3J5IjpbLTcxMTA5OTYxMywxNDc5ODYxNTc2LDE2NT
+I4MDUwMDIsNDE0MDM0MDksLTc0NDg3NjkwMywtNzc3NzczMzM0
+LC0xNzM5MTM0MDA1LDE0ODg5MTQ0MTIsLTk5MzU1NzUwLC0xND
+k5Njk4MzMyLDIxNDUwNjIyNTUsNjQzNDk0NDEsLTE1NTg0NTA1
+MTMsLTgzODgyNDY4NywtMTA4MzE0MTUwMCwtMTA4MzE0MTUwMC
+wtMTc0ODcxNjMzLC05MTEzODY3ODIsLTY5NTI1NTMzMSwtMTYy
+Nzk5NzMwNl19
 -->
