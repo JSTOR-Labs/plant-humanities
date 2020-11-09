@@ -31,6 +31,8 @@ Taxonomists recognize approximately 185 species of _Heliconia_ world-wide, but t
 <param ve-image region="449,688,492,425" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/4/@@image/image" title="Margaret Mee, _Heliconia_, 1964, gouache, Dumbarton Oaks">
 
 
+### A Short History of Horticultural Excitement for Heliconia
+
 <param ve-entity eid="Q1602492" title="Heliconia imbricata">
 <param ve-entity eid="Q28425" aliases="bats|bat" title="bat">
 <param ve-entity eid="Q7367" aliases="mosquitos" title="Culicidae">
@@ -40,8 +42,6 @@ Taxonomists recognize approximately 185 species of _Heliconia_ world-wide, but t
 The close relationship between heliconias and their pollinators highlights the vital role these plants play in the broader ecosystem as a source of food and shelter. A number of birds, such as toucans and tanagers, as well as squirrels feed on the bright blue fruits and seeds of most species of _Heliconia_. Some plants, like _Heliconia imbricata_, are keystone species crucial to the survival of many other rainforest inhabitants.  In addition to feeding energy-rich nectar to the hummingbirds which pollinate its flowers, this heliconia offers a daytime home to tent-making bats, who fold-over the banana-like leaves to provide shelter from the tropical sun and rain. The species also serves as the perfect spot for hummingbirds to build their nests under the tips of the leaves. Meanwhile, the liquid that pools in the bracts enclosing the flowers is a breeding ground for insect larvae, especially mosquitos, midges, and flies. One group of tropical beetles, called the rolled-leaf hispine beetles, is highly specialized to feed inside the unfurling leaves of this and other species of heliconias and their relatives.
 <param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_pollinatefeedshelter_v1.tsv" center="Heliconia imbricata">
-
-### A Short History of Horticultural Excitement for Heliconia
 
 <param ve-image iiif fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/19/@@images/image" title="Margaret Mee, _Heliconia psittacorum_, 1964, gouache, Dumbarton Oaks">
 <param ve-entity eid="Q2667306" title="Heliconia psittacorum" aliases="H. psittacorum">
@@ -140,7 +140,7 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzAwMTg3NSw0MTQwMzQwOSwtNzQ0OD
+eyJoaXN0b3J5IjpbMTE5NjMxMDE0MSw0MTQwMzQwOSwtNzQ0OD
 c2OTAzLC03Nzc3NzMzMzQsLTE3MzkxMzQwMDUsMTQ4ODkxNDQx
 MiwtOTkzNTU3NTAsLTE0OTk2OTgzMzIsMjE0NTA2MjI1NSw2ND
 M0OTQ0MSwtMTU1ODQ1MDUxMywtODM4ODI0Njg3LC0xMDgzMTQx
