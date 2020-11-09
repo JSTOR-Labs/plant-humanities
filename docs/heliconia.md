@@ -7,6 +7,13 @@
 
 ### From Mount Helicon to the Amazon
 
+<param ve-entity eid="Q441" title="botany">
+<param ve-entity eid="Q181916" title="herbarium">
+Botany has always been a highly visual science, and our understanding of plants depends partly on the ways in which we have chosen to represent them. One of the conventions of both the botanical portrait and the scientific illustration alike is the rendering of the singular plant removed from its natural context and portrayed against a neutral background. Similarly, the herbarium sheet removes the plant from its ecosystem, rendering it suitable for transportation, archiving, and future reference and comparison in museums, but divorcing the specimen from its web of interactions and relationships. We know that plants do not exist in isolation; they inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction. Botanists are therefore using the conventional forms of plant representation, such as herbarium specimens, to understand more about natural habitats of the species and repurposing them to determine effective strategies for their conservation.
+<param ve-d3plus-ring-network 
+       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_high_common.tsv" center="Heliconia imbricata">
+
+
 <param ve-image fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/4/@@images/image" title="Margaret Mee, _Heliconia_, 1964, gouache, Dumbarton Oaks">
 <param ve-entity eid="Q624242" aliases="Heliconias" title="Heliconia genus"> 
 Heliconias rank among the great botanical beauties of the natural world. Visually alluring with <span data-click-image-zoomto="568,209,1290,1100">sculptural bracts</span> and stunning colors, they have been widely distributed in ornamental gardens and the horticulture trade over the past two centuries. Yet until recently these iconic tropical plants were poorly known to scientists. As large herbs with <span data-click-image-zoomto="1429,2117,1290,1100">banana-like leaves</span> and fleshy, bulky inflorescences they are hard to collect in the field. For the same reason their character is difficult to capture on the herbarium sheet, where the sensuous bracts are reduced to a shriveled shadow of their showy presence in forest clearings. However, in recent decades, both field observations and controlled experiments by botanists and ecologists have produced a wealth of new information about heliconias. These fascinating discoveries illuminate the sophistication of plant-animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.
@@ -117,11 +124,11 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTA2MjI1NSw2NDM0OTQ0MSwtMTU1OD
-Q1MDUxMywtODM4ODI0Njg3LC0xMDgzMTQxNTAwLC0xMDgzMTQx
-NTAwLC0xNzQ4NzE2MzMsLTkxMTM4Njc4MiwtNjk1MjU1MzMxLC
-0xNjI3OTk3MzA2LDYxODI2Mjg1NSwyMDE3ODY0NDgyLC0zNzg2
-NTEwNzIsMTA4OTI1NjAzMCwyMTExMDQzNzMxLDE3MDgzNzgyMD
-IsMTUzNjQ0MjYwNywxMTg5OTU4Njk1LDgzMDY2MTM5MSwxMTEy
-NDM0MzM4XX0=
+eyJoaXN0b3J5IjpbLTE0OTk2OTgzMzIsMjE0NTA2MjI1NSw2ND
+M0OTQ0MSwtMTU1ODQ1MDUxMywtODM4ODI0Njg3LC0xMDgzMTQx
+NTAwLC0xMDgzMTQxNTAwLC0xNzQ4NzE2MzMsLTkxMTM4Njc4Mi
+wtNjk1MjU1MzMxLC0xNjI3OTk3MzA2LDYxODI2Mjg1NSwyMDE3
+ODY0NDgyLC0zNzg2NTEwNzIsMTA4OTI1NjAzMCwyMTExMDQzNz
+MxLDE3MDgzNzgyMDIsMTUzNjQ0MjYwNywxMTg5OTU4Njk1LDgz
+MDY2MTM5MV19
 -->
