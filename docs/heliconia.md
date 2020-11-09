@@ -85,7 +85,7 @@ The close relationship between heliconias and their pollinators highlights the v
 <param ve-entity eid="Q441" title="botany">
 <param ve-entity eid="Q181916" title="herbarium">
 Botany has always been a highly visual science, and our understanding of plants depends partly on the ways in which we have chosen to represent them. One of the conventions of both the botanical portrait and the scientific illustration alike is the rendering of the singular plant removed from its natural context and portrayed against a neutral background. Similarly, the herbarium sheet removes the plant from its ecosystem, rendering it suitable for transportation, archiving, and future reference and comparison in museums, but divorcing the specimen from its web of interactions and relationships. We know that plants do not exist in isolation; they inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction. Botanists are therefore using the conventional forms of plant representation, such as herbarium specimens, to understand more about natural habitats of the species and repurposing them to determine effective strategies for their conservation.
-<param ve-d3plus-network center="Heliconia imbricata" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/graphs/heliconia_ecosystem.tsv">
+<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/graphs/medici.tsv" center="Heliconia imbricata">
 
 ### Conserving the Diversity of Heliconia
 
@@ -115,11 +115,11 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTA0MzczMSwxNzA4Mzc4MjAyLDE1Mz
-Y0NDI2MDcsMTE4OTk1ODY5NSw4MzA2NjEzOTEsMTExMjQzNDMz
-OCw3MDM1NDA3MTMsMTY2MDk2Mzk0LDE3NTQ2MzU4ODYsLTE5OT
-Q4ODg4NjgsNTk5MzYzODUxLDk5NTg5MDYwLDE2NzI4MDYyNzQs
-LTE2OTE0MTE2MzYsLTkyNTE2MzY3NCwxMzY1NTY4Mjc3LDI2NT
-YzNDUzMywxNjY2MTI0MjAwLDE4Njk5MTQ4NzYsLTg2MTc2NTgy
+eyJoaXN0b3J5IjpbMTA3MTk2MjY2MCwyMTExMDQzNzMxLDE3MD
+gzNzgyMDIsMTUzNjQ0MjYwNywxMTg5OTU4Njk1LDgzMDY2MTM5
+MSwxMTEyNDM0MzM4LDcwMzU0MDcxMywxNjYwOTYzOTQsMTc1ND
+YzNTg4NiwtMTk5NDg4ODg2OCw1OTkzNjM4NTEsOTk1ODkwNjAs
+MTY3MjgwNjI3NCwtMTY5MTQxMTYzNiwtOTI1MTYzNjc0LDEzNj
+U1NjgyNzcsMjY1NjM0NTMzLDE2NjYxMjQyMDAsMTg2OTkxNDg3
 Nl19
 -->
