@@ -12,7 +12,7 @@
 _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, this species of sunflower is one of the few crop plants to have been domesticated in North America. The plant is also a popular ornamental, renowned for its yellow flower head with a round disk and its imposing height. Indeed, _H. annuus_ can grow up to sixteen feet tall freestanding—a trait exaggerated for comedic effect in this idiosyncratic botanical illustration of a sunflower towering over a greyhound. Like that giant flower, _H. annuus_ looms large in the plant world and the cultural imaginary, so large that it is sometimes hard to separate botanical knowledge about sunflowers from myths.
 
 Today, because of the common sunflower’s iconic formal qualities and widespread cultivation, we tend to essentialize the genus by assuming that all sunflowers have a single, golden blossom perched on an unbranched stem. Such cultural myths have shaped and been shaped by visual representations of the plant, particularly those depicting _H. annuus_.
-<param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
+<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/3/3b/SunflowerYield.png" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 <param ve-entity eid="Q65027" title="Basilius Besler">
 
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
@@ -156,11 +156,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ5NDM3MTMsLTE5ODEzMTE3NzMsLT
-QwMzE2NDMyOSwtMTE2NzUxOTA0MywtNTYzNzI3MDM2LC0xMDcz
-NDAxOTExLC0yOTE0NzgzMzgsMTkxODc2MTYyNiw3NjA3MDY4MD
-QsNjgyNTIxMDksLTUwOTE5MjE2Nyw0NDAxNzYwMDQsMTI4MjMx
-NTgwMyw1MzA1NDQxNTMsLTE3NjMzMjk3MzksLTQxODI1MzY4MC
-w1MzA1NDQxNTMsMTgyOTkzNDMzNSwyOTgyNDE4MzQsLTEwOTQ5
-NDIzMzRdfQ==
+eyJoaXN0b3J5IjpbMTI4NDYyMTAxOSwtMTk4MTMxMTc3MywtND
+AzMTY0MzI5LC0xMTY3NTE5MDQzLC01NjM3MjcwMzYsLTEwNzM0
+MDE5MTEsLTI5MTQ3ODMzOCwxOTE4NzYxNjI2LDc2MDcwNjgwNC
+w2ODI1MjEwOSwtNTA5MTkyMTY3LDQ0MDE3NjAwNCwxMjgyMzE1
+ODAzLDUzMDU0NDE1MywtMTc2MzMyOTczOSwtNDE4MjUzNjgwLD
+UzMDU0NDE1MywxODI5OTM0MzM1LDI5ODI0MTgzNCwtMTA5NDk0
+MjMzNF19
 -->
