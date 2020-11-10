@@ -11,8 +11,9 @@
 <param ve-entity eid="Q65027" title="Basilius Besler">
 _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, this species of sunflower is one of the few crop plants to have been domesticated in North America. The plant is also a popular ornamental, renowned for its yellow flower head with a round disk and its imposing height. Indeed, _H. annuus_ can grow up to sixteen feet tall freestanding—a trait exaggerated for comedic effect in this idiosyncratic botanical illustration of a sunflower towering over a greyhound. Like that giant flower, _H. annuus_ looms large in the plant world and the cultural imaginary, so large that it is sometimes hard to separate botanical knowledge about sunflowers from myths.
 
-Today, because of the common sunflower’s iconic formal qualities and widespread cultivation, we tend to essentialize the genus by assuming that all sunflowers have a single, golden blossom perched on an unbranched stem. Such cultural myths have shaped and been shaped by visual representations of the plant, particularly those depicting _H. annuus_.
-<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/3/3b/SunflowerYield.png" title="Map of sunflower production (average percentage of land used for its production times average yield in each grid cell) across the world compiled by the University of Minnesota Institute on the Environment with data from: Monfreda, C., N. Ramankutty, and J.A. Foley. 2008. [Attribution-Share Alike 3.0 Unported">
+Today, because of _H. annuus_’s iconic formal qualities and widespread cultivation, we are likely to essentialize sunflowers by assuming that they all have a single, golden blossom perched on an unbranched stem. Such cultural myths about the plant have shaped and been shaped by visual representations, particularly those depicting _H. annuus_.
+<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
+<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/3/3b/SunflowerYield.png" title="Map of sunflower production (average percentage of land used for its production times average yield in each grid cell) across the world compiled by the University of Minnesota Institute on the Environment with data from: Monfreda, C., N. Ramankutty, and J.A. Foley. 2008. CC Attribution-Share Alike 3.0 Unported">
 <param ve-entity eid="Q65027" title="Basilius Besler">
 
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
@@ -156,11 +157,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwNDA4OTI2LDEyODQ2MjEwMTksLTE5OD
-EzMTE3NzMsLTQwMzE2NDMyOSwtMTE2NzUxOTA0MywtNTYzNzI3
-MDM2LC0xMDczNDAxOTExLC0yOTE0NzgzMzgsMTkxODc2MTYyNi
-w3NjA3MDY4MDQsNjgyNTIxMDksLTUwOTE5MjE2Nyw0NDAxNzYw
-MDQsMTI4MjMxNTgwMyw1MzA1NDQxNTMsLTE3NjMzMjk3MzksLT
-QxODI1MzY4MCw1MzA1NDQxNTMsMTgyOTkzNDMzNSwyOTgyNDE4
-MzRdfQ==
+eyJoaXN0b3J5IjpbMTI1MDUyODQyNywxMjg0NjIxMDE5LC0xOT
+gxMzExNzczLC00MDMxNjQzMjksLTExNjc1MTkwNDMsLTU2Mzcy
+NzAzNiwtMTA3MzQwMTkxMSwtMjkxNDc4MzM4LDE5MTg3NjE2Mj
+YsNzYwNzA2ODA0LDY4MjUyMTA5LC01MDkxOTIxNjcsNDQwMTc2
+MDA0LDEyODIzMTU4MDMsNTMwNTQ0MTUzLC0xNzYzMzI5NzM5LC
+00MTgyNTM2ODAsNTMwNTQ0MTUzLDE4Mjk5MzQzMzUsMjk4MjQx
+ODM0XX0=
 -->
