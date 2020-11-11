@@ -53,7 +53,7 @@ Although the Spanish were the first to transport the domesticated sunflower over
 
 If accurate, Dodoens’s account charts the migration of _Helianthus annuus_ to Flanders by the mid-1560s. Still, the provenance of such sunflowers remains somewhat muddy. Whereas Dodoens gives the sunflower the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins, the word “Peru” was often used indiscriminately at the time to mean someplace in the Americas. That vague terminology was repeated in subsequent herbals, propagating a myth about the sunflower’s “Peruvian” origins. Two such examples are shown at right.
 <param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
-<param ve-image fit="contain" url="https://ia800700.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/mobot31753000817749/mobot31753000817749_jp2.tar&file=mobot31753000817749_jp2/mobot31753000817749_0632.jp2&id=mobot31753000817749&scale=2&rotate=0" title="John Gerard, _The herball, or Generall historie of plantes_, London: Printed by Adam Islip, Joice Norton and Richard Whitakers, 1633, Harold B. Lee Library">
+<param ve-image fit="contain" url="https://ia800700.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/mobot31753000817749/mobot31753000817749_jp2.tar&file=mobot31753000817749_jp2/mobot31753000817749_0632.jp2&id=mobot31753000817749&scale=2&rotate=0" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1597, Missouri Botanical Gardeny">
 
 
 Dodoens’s _Florum, et Coronariarum_ participated in a transregional exchange of iconography and ideas related to the sunflower. This network visualization posits a preliminary model for studying those points of intersection among herbalists, scholars, artists, translators, plant collectors, patrons, and other figures, all of who were active in the botanical scene in Europe and the Americas. The web of interactions also shows some instances in which sunflower illustrations from one herbal were reproduced in another, raising questions about the significance of such pictures, about the relationship of images to their contexts, and about larger patterns of cultural exchange and knowledge production.
@@ -148,7 +148,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzQ3OTYwNywtMzIyMTUxNjc1LDE3Nz
+eyJoaXN0b3J5IjpbMTc4Nzc4MDI0NiwtMzIyMTUxNjc1LDE3Nz
 g2MDgwMSwtNzU3MzEzNjQwLDExMjI3ODUyNjUsLTE4NTM4NzM0
 NjQsLTE4MjM4NjUxNywtMTQxMzgyNjQ1Myw5NzU3NDE5MDUsMT
 UwODUxOTU3MiwtMjk3NDcxMzQxLC0xMzQyMTEwMDQsOTUwNjM1
