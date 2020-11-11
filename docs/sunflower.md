@@ -9,9 +9,9 @@
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
 <param ve-entity eid="Q65027" title="Basilius Besler">
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The cultivated annual sunflower is also a popular ornamental, renowned for its yellow flower head with a round disk, strong unbranched stem, and imposing height. Indeed, _H. annuus_ can grow freestanding up to sixteen feet tall—a trait exaggerated for comedic effect in this botanical illustration. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized, if not menacing, proportions. Like that giant flower, _H. annuus_ looms large in the plant world and our cultural imagination, so large that we often fail to recognize the diversity within the genus sunflower.
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The cultivated annual sunflower is also a popular ornamental, renowned for its yellow flower head with a round disk, strong unbranched stem, and imposing height. Indeed, _H. annuus_ can grow freestanding up to sixteen feet tall—a trait exaggerated for comedic effect in this botanical illustration. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized, if not menacing, proportions.
 
-Given the iconic qualities of _Helianthus annuus_ and its widespread cultivation, we may essentialize the sunflower by assuming that plants belonging to the genus have a single, golden blossom perched on an unbranched stem. Such cultural myths have often shaped or been shaped by visual representations of the plant, particularly depictions of _H. annuus_.
+Like that giant flower, _Helianthus annuus_ looms large in the plant world and our cultural imagination, so large that we often fail to recognize the diversity within the genus sunflower. Instead, we tend to essentialize the sunflower by assuming that every member of the genus has a single, golden blossom perched on an unbranched stem. Such cultural myths have often shaped or been shaped by visual representations of the plant, particularly depictions of _H. annuus_.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/3/3b/SunflowerYield.png" title="Map of sunflower production (average percentage of land used for its production times average yield in each grid cell) across the world compiled by the University of Minnesota Institute on the Environment with data from: Monfreda, C., N. Ramankutty, and J.A. Foley. 2008. CC Attribution-Share Alike 3.0 Unported">
 <param ve-entity eid="Q65027" title="Basilius Besler">
@@ -149,11 +149,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1ODcyOTg2LDE0MDU4NjI1MTEsLTE3Nz
-kxMTI2MjEsLTk4MTY2NTM3MywyNTUyODAyODIsLTgwODcxOTEy
-MSwyNDI3MDgyMzksMTA1Njg1MTk4NCwtMzA2MjkwNzE0LC0xOT
-c2MjExOTY3LDIwNDk3MTM0NTAsNDQxMDYyNTk3LDEzMTkzOTAz
-NywyMDQ5MTkzOTQ2LC0xMDgwNjg0NzUzLC0xNTI0MjQxNDQ4LD
-EyNTA1Mjg0MjcsMTI4NDYyMTAxOSwtMTk4MTMxMTc3MywtNDAz
-MTY0MzI5XX0=
+eyJoaXN0b3J5IjpbMTY0NzAyNjU2NSw0NTU4NzI5ODYsMTQwNT
+g2MjUxMSwtMTc3OTExMjYyMSwtOTgxNjY1MzczLDI1NTI4MDI4
+MiwtODA4NzE5MTIxLDI0MjcwODIzOSwxMDU2ODUxOTg0LC0zMD
+YyOTA3MTQsLTE5NzYyMTE5NjcsMjA0OTcxMzQ1MCw0NDEwNjI1
+OTcsMTMxOTM5MDM3LDIwNDkxOTM5NDYsLTEwODA2ODQ3NTMsLT
+E1MjQyNDE0NDgsMTI1MDUyODQyNywxMjg0NjIxMDE5LC0xOTgx
+MzExNzczXX0=
 -->
