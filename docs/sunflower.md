@@ -9,15 +9,15 @@
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
 <param ve-entity eid="Q65027" title="Basilius Besler">
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, this species of sunflower is one of the few crop plants to have been domesticated in North America. The plant is also a popular ornamental, renowned for its yellow flower head with a round disk and its imposing height. Indeed, _H. annuus_ can grow up to sixteen feet tall freestanding—a trait exaggerated for comedic effect in this idiosyncratic botanical illustration of a sunflower towering over a greyhound. Like that giant flower, _H. annuus_ looms large in the plant world and the cultural imaginary, so large that it is sometimes hard to separate botanical knowledge about sunflowers from myths.
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The cultivated annual is also a popular ornamental, renowned for its yellow flower head with a round disk and its imposing height. Indeed, _H. annuus_ can grow freestanding up to sixteen feet tall—a trait exaggerated for comedic effect in this idiosyncratic botanical illustration of a sunflower towering over a greyhound. Like that giant flower, _H. annuus_ looms large in the plant world and the cultural imaginary, so large that it is sometimes hard for us to recognize the diversity within the genus sunflower.
 
-Today, because of _H. annuus_’s iconic formal qualities and widespread cultivation, we are likely to essentialize all sunflowers by assuming that every member of the genus has a single, golden blossom perched on an unbranched stem. Such cultural myths about the plant have shaped and been shaped by visual representations, particularly those depicting _H. annuus_.
+Today, because of _H. annuus_’s iconic formal qualities and widespread cultivation, we are likely to essentialize all sunflowers by assuming that every member of the genus has a single, golden blossom perched on an unbranched stem. Such cultural myths have often shaped or been shaped by visual representations of the plant, particularly those depicting _H. annuus_.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/3/3b/SunflowerYield.png" title="Map of sunflower production (average percentage of land used for its production times average yield in each grid cell) across the world compiled by the University of Minnesota Institute on the Environment with data from: Monfreda, C., N. Ramankutty, and J.A. Foley. 2008. CC Attribution-Share Alike 3.0 Unported">
 <param ve-entity eid="Q65027" title="Basilius Besler">
 
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
-Pictures of the sunflower can provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing the _Helianthus annuus_ and other sunflowers that were tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) helped to perpetuate several myths about sunflowers that are still widely held today, while they sometimes also served to uphold, challenge, or illuminate stereotypes pertaining to societal markers of difference.
+<![endif]--> Pictures of the sunflower can provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers that were tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in iconography have often elided differences between species and perpetuated myths about sunflowers, while they have sometimes also served to uphold, challenge, or illuminate stereotypes pertaining to societal markers of difference.These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) helped to perpetuate several myths about sunflowers that are still widely held today, while they sometimes also served to uphold, challenge, or illuminate stereotypes pertaining to societal markers of difference.
 
 ### Naming and Representing the Iconic Flower
 
@@ -157,11 +157,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQyNDE0NDgsMTI1MDUyODQyNywxMj
-g0NjIxMDE5LC0xOTgxMzExNzczLC00MDMxNjQzMjksLTExNjc1
-MTkwNDMsLTU2MzcyNzAzNiwtMTA3MzQwMTkxMSwtMjkxNDc4Mz
-M4LDE5MTg3NjE2MjYsNzYwNzA2ODA0LDY4MjUyMTA5LC01MDkx
-OTIxNjcsNDQwMTc2MDA0LDEyODIzMTU4MDMsNTMwNTQ0MTUzLC
-0xNzYzMzI5NzM5LC00MTgyNTM2ODAsNTMwNTQ0MTUzLDE4Mjk5
-MzQzMzVdfQ==
+eyJoaXN0b3J5IjpbMTYyNDkxNTg4OCwtMTUyNDI0MTQ0OCwxMj
+UwNTI4NDI3LDEyODQ2MjEwMTksLTE5ODEzMTE3NzMsLTQwMzE2
+NDMyOSwtMTE2NzUxOTA0MywtNTYzNzI3MDM2LC0xMDczNDAxOT
+ExLC0yOTE0NzgzMzgsMTkxODc2MTYyNiw3NjA3MDY4MDQsNjgy
+NTIxMDksLTUwOTE5MjE2Nyw0NDAxNzYwMDQsMTI4MjMxNTgwMy
+w1MzA1NDQxNTMsLTE3NjMzMjk3MzksLTQxODI1MzY4MCw1MzA1
+NDQxNTNdfQ==
 -->
