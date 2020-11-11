@@ -66,9 +66,6 @@ The migration of sunflower iconography is evidenced in the pages of Francisco He
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, Missouri Botanical Garden">
 
-Europeans eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
-<param ve-storiiies id="4f1ln">
-
 ### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
 
 Heliotropism in plants was observed by the ancient Greeks and this phenomenon is a central conceit in the myth of Clytie and Helios. Explain the myth. The associations of the sunflower in this narrative with notions of WHAT proved influential in Western European art and culture. Introduce idea of constancy and then connect to heliotropism. Interpret print. Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers
@@ -112,8 +109,7 @@ We may also be surprised to discover the diversity within the genus _Helianthus_
 <param ve-plant-specimen eid="Q146190" max="1">
 
 <param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
-<param ve-entity eid="Q108266" aliases="Diné" title="Navajo"> 
-Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun. Diné (Navajo) artists incorporate sunflower motifs and sometimes pollen into sandpainting ceremonies. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets.
+Hopi—black sunflower. Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets. SIG.
 <param ve-image fit="contain" primary url="https://s3.amazonaws.com/PEM_artscape/e301826_painting_image/large.jpg" title="Bruce Hathale (Diné (Navajo)), _Big Gods on Whirling Logs, Big Godway. Guardian of Two Sunflower Plants_, early 1990s, acrylic on linen, Gift from James and Margie Krebs Collection of Native American Art, Peabody Essex Museum">
 <param ve-image fit="contain" url="https://s3.amazonaws.com/PEM_artscape/e37259_basket_image-01/large.jpg" title="Diné (Navajo) artist, _Wedding basket_, before 1890, Sumac, dye, Gift of Miss Bertha Kenny, 1960, Peabody Essex Museum">
 
@@ -158,11 +154,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzQxMjY0OCwtMzA2MjkwNzE0LC0xOT
-c2MjExOTY3LDIwNDk3MTM0NTAsNDQxMDYyNTk3LDEzMTkzOTAz
-NywyMDQ5MTkzOTQ2LC0xMDgwNjg0NzUzLC0xNTI0MjQxNDQ4LD
-EyNTA1Mjg0MjcsMTI4NDYyMTAxOSwtMTk4MTMxMTc3MywtNDAz
-MTY0MzI5LC0xMTY3NTE5MDQzLC01NjM3MjcwMzYsLTEwNzM0MD
-E5MTEsLTI5MTQ3ODMzOCwxOTE4NzYxNjI2LDc2MDcwNjgwNCw2
-ODI1MjEwOV19
+eyJoaXN0b3J5IjpbLTE1ODU3NTY0NTUsLTMwNjI5MDcxNCwtMT
+k3NjIxMTk2NywyMDQ5NzEzNDUwLDQ0MTA2MjU5NywxMzE5Mzkw
+MzcsMjA0OTE5Mzk0NiwtMTA4MDY4NDc1MywtMTUyNDI0MTQ0OC
+wxMjUwNTI4NDI3LDEyODQ2MjEwMTksLTE5ODEzMTE3NzMsLTQw
+MzE2NDMyOSwtMTE2NzUxOTA0MywtNTYzNzI3MDM2LC0xMDczND
+AxOTExLC0yOTE0NzgzMzgsMTkxODc2MTYyNiw3NjA3MDY4MDQs
+NjgyNTIxMDldfQ==
 -->
