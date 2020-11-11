@@ -122,7 +122,7 @@ Still life paintings provide another rich source of evidence regarding plant div
 
 ### Floral Cyphers: Portrayals of Gender, Sexual Identity, Race, and Class
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
+![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_charger_MET_sm.jpg){: .right}
 Aesthetic Movement (Britain); Gender; whiteness Walter Satterlee _[The Decorative Sisters](https://hdl.handle.net/2027/loc.ark:/13960/t84j1d31x)_
 <param ve-image primary fit="contain" url="https://images.nypl.org/index.php?id=488090&t=w" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
 
@@ -146,11 +146,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTM4NzM0NjQsLTE4MjM4NjUxNywtMT
-QxMzgyNjQ1Myw5NzU3NDE5MDUsMTUwODUxOTU3MiwtMjk3NDcx
-MzQxLC0xMzQyMTEwMDQsOTUwNjM1OTMyLDIxMzk1NzA4NzcsMT
-QzNTU3OTE5NiwxMTY2NDczNDc4LDEwMTcwMDA5ODksLTExMzI2
-NTg3MzUsMjE0NzMwNzg0LC01NTcwOTQxNTQsMjkxMTMwMTU3LD
-E2NDcwMjY1NjUsNDU1ODcyOTg2LDE0MDU4NjI1MTEsLTE3Nzkx
-MTI2MjFdfQ==
+eyJoaXN0b3J5IjpbMTEyMjc4NTI2NSwtMTg1Mzg3MzQ2NCwtMT
+gyMzg2NTE3LC0xNDEzODI2NDUzLDk3NTc0MTkwNSwxNTA4NTE5
+NTcyLC0yOTc0NzEzNDEsLTEzNDIxMTAwNCw5NTA2MzU5MzIsMj
+EzOTU3MDg3NywxNDM1NTc5MTk2LDExNjY0NzM0NzgsMTAxNzAw
+MDk4OSwtMTEzMjY1ODczNSwyMTQ3MzA3ODQsLTU1NzA5NDE1NC
+wyOTExMzAxNTcsMTY0NzAyNjU2NSw0NTU4NzI5ODYsMTQwNTg2
+MjUxMV19
 -->
