@@ -14,7 +14,7 @@ _Helianthus annuus_ (common sunflower) holds a special status in the plant kingd
 Indeed, _Helianthus annuus_ can grow freestanding up to sixteen feet tall—a trait exaggerated for comedic effect in this botanical illustration. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized proportions. Like that giant flower, _H. annuus_ looms large in the plant world and our cultural imagination, so large that we often fail to bring curiosity to our engagements with the plant and the [genus sunflower](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2). Instead, it is all too easy for us to essentialize the sunflower by assuming that every member of the genus has a single, golden blossom perched on an unbranched stem. Such cultural myths have often shaped or been shaped by visual representations of the plant, particularly depictions of _H. annuus_.
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
-This visual narrative clarifies how certain pictures of the sunflower provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have contributed to the formation of a visual stereotype for the sunflower that have elided species differences and perpetuated cultural myths.
+This visual narrative clarifies how pictures of the sunflower can provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have contributed to the formation of a visual stereotype for the sunflower that have elided species differences and perpetuated cultural myths.
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 ### Naming and Representing the Iconic Flower
@@ -147,11 +147,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzNjQ1OTE3LDY5MTE0NTkxLC0xNTE4Nz
-UxLDE3ODc3ODAyNDYsLTMyMjE1MTY3NSwxNzc4NjA4MDEsLTc1
-NzMxMzY0MCwxMTIyNzg1MjY1LC0xODUzODczNDY0LC0xODIzOD
-Y1MTcsLTE0MTM4MjY0NTMsOTc1NzQxOTA1LDE1MDg1MTk1NzIs
-LTI5NzQ3MTM0MSwtMTM0MjExMDA0LDk1MDYzNTkzMiwyMTM5NT
-cwODc3LDE0MzU1NzkxOTYsMTE2NjQ3MzQ3OCwxMDE3MDAwOTg5
-XX0=
+eyJoaXN0b3J5IjpbLTE4OTMyNTA5MzMsNjkxMTQ1OTEsLTE1MT
+g3NTEsMTc4Nzc4MDI0NiwtMzIyMTUxNjc1LDE3Nzg2MDgwMSwt
+NzU3MzEzNjQwLDExMjI3ODUyNjUsLTE4NTM4NzM0NjQsLTE4Mj
+M4NjUxNywtMTQxMzgyNjQ1Myw5NzU3NDE5MDUsMTUwODUxOTU3
+MiwtMjk3NDcxMzQxLC0xMzQyMTEwMDQsOTUwNjM1OTMyLDIxMz
+k1NzA4NzcsMTQzNTU3OTE5NiwxMTY2NDczNDc4LDEwMTcwMDA5
+ODldfQ==
 -->
