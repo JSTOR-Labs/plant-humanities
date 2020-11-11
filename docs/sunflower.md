@@ -139,25 +139,21 @@ Racial caricatures of Oscar Wilde in US disparage him by depicting black persons
 <param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DP-15482-007.jpg" title="Unidentified Edgefield District potter, _Face Harvest Jug_, 19th century, The Metropolitan Museum of Art, New York, Purchase, Nancy Dunn Revocable Trust Gift, 2017">
 
 
-### Social Movements and Symbols of Hope
-
-ADD TEXT
-
 ### “Sun, sun, sun, here it comes”
 
 <param ve-image iiif region="1078,259,3906,3278"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
-As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Sunflowers are a popular oil crop because their seeds are rich in nutrients and relatively low in fatty acids. After oil is extracted from seeds, the byproducts are repurposed for use as animal feed or, in the case of hulls, ground to produce roughage or fuel. Sunflower crops also provide seeds for confectionary food and birdfeed. In the X century, the sunflower became a favored oil crop in Russia because it was one of the few sources of protein that the Orthodox Church did not ban during Lent. Farmers in Russia bred a giant sunflower—NAME—that to increase seed yields. That species was introduced to North America in the mid twentieth century and it is the one most widely cultivated there today. In addition to those uses, sunflowers are cultivated as ornamentals for domestic settings, and EN Because sunflowers are able to extract harmful containments from soil and water, a process known as phytoremediation, they have been planted at the sites of the Chernobyl and Fukushima Daiichi disasters to absorb radiation.
+As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Of the two images in Hernández’s _Nova plantarum_, the one adapted from Besler’s _Hortus Eystettensis_ resembles what would become a visual cliché for representing the plant in other contexts.
 
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Njg1MTk4NCwtMzA2MjkwNzE0LC0xOT
-c2MjExOTY3LDIwNDk3MTM0NTAsNDQxMDYyNTk3LDEzMTkzOTAz
-NywyMDQ5MTkzOTQ2LC0xMDgwNjg0NzUzLC0xNTI0MjQxNDQ4LD
-EyNTA1Mjg0MjcsMTI4NDYyMTAxOSwtMTk4MTMxMTc3MywtNDAz
-MTY0MzI5LC0xMTY3NTE5MDQzLC01NjM3MjcwMzYsLTEwNzM0MD
-E5MTEsLTI5MTQ3ODMzOCwxOTE4NzYxNjI2LDc2MDcwNjgwNCw2
-ODI1MjEwOV19
+eyJoaXN0b3J5IjpbMjQyNzA4MjM5LDEwNTY4NTE5ODQsLTMwNj
+I5MDcxNCwtMTk3NjIxMTk2NywyMDQ5NzEzNDUwLDQ0MTA2MjU5
+NywxMzE5MzkwMzcsMjA0OTE5Mzk0NiwtMTA4MDY4NDc1MywtMT
+UyNDI0MTQ0OCwxMjUwNTI4NDI3LDEyODQ2MjEwMTksLTE5ODEz
+MTE3NzMsLTQwMzE2NDMyOSwtMTE2NzUxOTA0MywtNTYzNzI3MD
+M2LC0xMDczNDAxOTExLC0yOTE0NzgzMzgsMTkxODc2MTYyNiw3
+NjA3MDY4MDRdfQ==
 -->
