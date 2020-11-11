@@ -55,6 +55,7 @@ If accurate, Dodoens’s account charts the migration of _Helianthus annuus_ to 
 <param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 <param ve-image fit="contain" url="https://ia801501.us.archive.org/BookReader/BookReaderImages.php?id=herballorgeneral1633gera&itemPath=%2F12%2Fitems%2Fherballorgeneral1633gera&server=ia801501.us.archive.org&page=n796_w768" title="John Gerard, _The herball, or Generall historie of plantes_, London: Printed by Adam Islip, Joice Norton and Richard Whitakers, 1633, Harold B. Lee Library">
 
+
 Dodoens’s _Florum, et Coronariarum_ participated in a transregional exchange of iconography and ideas related to the sunflower. This network visualization posits a preliminary model for studying those points of intersection among herbalists, scholars, artists, translators, plant collectors, patrons, and other figures, all of who were active in the botanical scene in Europe and the Americas. The web of interactions also shows some instances in which sunflower illustrations from one herbal were reproduced in another, raising questions about the significance of such pictures, about the relationship of images to their contexts, and about larger patterns of cultural exchange and knowledge production.
 <param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_v1.tsv" center="Heliconia imbricata" title="Heliconia imbricata relationships with organisms: parasitic, mutual, and neutral">
@@ -147,11 +148,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM0NzAxODksLTc1NzMxMzY0MCwxMT
-IyNzg1MjY1LC0xODUzODczNDY0LC0xODIzODY1MTcsLTE0MTM4
-MjY0NTMsOTc1NzQxOTA1LDE1MDg1MTk1NzIsLTI5NzQ3MTM0MS
-wtMTM0MjExMDA0LDk1MDYzNTkzMiwyMTM5NTcwODc3LDE0MzU1
-NzkxOTYsMTE2NjQ3MzQ3OCwxMDE3MDAwOTg5LC0xMTMyNjU4Nz
-M1LDIxNDczMDc4NCwtNTU3MDk0MTU0LDI5MTEzMDE1NywxNjQ3
-MDI2NTY1XX0=
+eyJoaXN0b3J5IjpbMTc3ODYwODAxLC03NTczMTM2NDAsMTEyMj
+c4NTI2NSwtMTg1Mzg3MzQ2NCwtMTgyMzg2NTE3LC0xNDEzODI2
+NDUzLDk3NTc0MTkwNSwxNTA4NTE5NTcyLC0yOTc0NzEzNDEsLT
+EzNDIxMTAwNCw5NTA2MzU5MzIsMjEzOTU3MDg3NywxNDM1NTc5
+MTk2LDExNjY0NzM0NzgsMTAxNzAwMDk4OSwtMTEzMjY1ODczNS
+wyMTQ3MzA3ODQsLTU1NzA5NDE1NCwyOTExMzAxNTcsMTY0NzAy
+NjU2NV19
 -->
