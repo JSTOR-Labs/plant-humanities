@@ -17,7 +17,7 @@ Today, because of _H. annuus_’s iconic formal qualities and widespread cultiva
 <param ve-entity eid="Q65027" title="Basilius Besler">
 
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
-This visual narrative clarifies how certain pictures of the sunflower provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have over time contributed to a visual stereotype of the sunflower that elides species differences and perpetuates myths.
+This visual narrative clarifies how certain pictures of the sunflower provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have over time contributed to a visual stereotype of the sunflower that elides species differences and perpetuates cultural myths.
 
 ### Naming and Representing the Iconic Flower
 
@@ -149,11 +149,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkxMTI2MjEsLTk4MTY2NTM3MywyNT
-UyODAyODIsLTgwODcxOTEyMSwyNDI3MDgyMzksMTA1Njg1MTk4
-NCwtMzA2MjkwNzE0LC0xOTc2MjExOTY3LDIwNDk3MTM0NTAsND
-QxMDYyNTk3LDEzMTkzOTAzNywyMDQ5MTkzOTQ2LC0xMDgwNjg0
-NzUzLC0xNTI0MjQxNDQ4LDEyNTA1Mjg0MjcsMTI4NDYyMTAxOS
-wtMTk4MTMxMTc3MywtNDAzMTY0MzI5LC0xMTY3NTE5MDQzLC01
-NjM3MjcwMzZdfQ==
+eyJoaXN0b3J5IjpbMTQwNTg2MjUxMSwtMTc3OTExMjYyMSwtOT
+gxNjY1MzczLDI1NTI4MDI4MiwtODA4NzE5MTIxLDI0MjcwODIz
+OSwxMDU2ODUxOTg0LC0zMDYyOTA3MTQsLTE5NzYyMTE5NjcsMj
+A0OTcxMzQ1MCw0NDEwNjI1OTcsMTMxOTM5MDM3LDIwNDkxOTM5
+NDYsLTEwODA2ODQ3NTMsLTE1MjQyNDE0NDgsMTI1MDUyODQyNy
+wxMjg0NjIxMDE5LC0xOTgxMzExNzczLC00MDMxNjQzMjksLTEx
+Njc1MTkwNDNdfQ==
 -->
