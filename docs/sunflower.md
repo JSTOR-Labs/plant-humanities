@@ -51,9 +51,8 @@ Although the Spanish were the first to transport the domesticated sunflower over
  Visual and verbal representations of the cultivated sunflower chart not only the transoceanic movement of the plant, but also the transregional exchange of iconography and ideas pertaining to it. That is true of the sunflower pictured in Dodoens’s _Florum, et Coronariarum_, at right. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ plant growing in soil as the artist may have encountered it in a garden. Indeed, Dodoens’s description identifies a private garden, in Mechlin, as the place shown in the picture: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.”
 <param ve-image fit="contain" url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
-If accurate, Dodoens’s account charts the migration of _Helianthus annuus_ to Flanders by the mid-1560s. Still, the provenance of such sunflowers remains somewhat muddy. Whereas Dodoens gives the sunflower the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins, the word “Peru” was often used indiscriminately at the time to mean someplace in the Americas. That vague terminology was repeated in subsequent herbals, propagating a myth about the sunflower’s “Peruvian” origins. Two such examples are shown at right.
-<param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
-<param ve-image fit="contain" url="https://ia800700.us.archive.org/BookReader/BookReaderImages.php?zip=/18/items/mobot31753000817749/mobot31753000817749_jp2.tar&file=mobot31753000817749_jp2/mobot31753000817749_0632.jp2&id=mobot31753000817749&scale=2&rotate=0" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1597, Missouri Botanical Gardeny">
+If accurate, Dodoens’s account charts the migration of _Helianthus annuus_ to Flanders by the mid-1560s. Still, the provenance of such sunflowers remains somewhat muddy. Whereas Dodoens gives the sunflower the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins, the word “Peru” was often used indiscriminately at the time to mean someplace in the Americas. That vague terminology was repeated in subsequent herbals, propagating a myth about the sunflower’s “Peruvian” origins. A good case in point is  examples are this illustration shown at right.
+<param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 
 
 Dodoens’s _Florum, et Coronariarum_ participated in a transregional exchange of iconography and ideas related to the sunflower. This network visualization posits a preliminary model for studying those points of intersection among herbalists, scholars, artists, translators, plant collectors, patrons, and other figures, all of who were active in the botanical scene in Europe and the Americas. The web of interactions also shows some instances in which sunflower illustrations from one herbal were reproduced in another, raising questions about the significance of such pictures, about the relationship of images to their contexts, and about larger patterns of cultural exchange and knowledge production.
@@ -148,11 +147,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Nzc4MDI0NiwtMzIyMTUxNjc1LDE3Nz
-g2MDgwMSwtNzU3MzEzNjQwLDExMjI3ODUyNjUsLTE4NTM4NzM0
-NjQsLTE4MjM4NjUxNywtMTQxMzgyNjQ1Myw5NzU3NDE5MDUsMT
-UwODUxOTU3MiwtMjk3NDcxMzQxLC0xMzQyMTEwMDQsOTUwNjM1
-OTMyLDIxMzk1NzA4NzcsMTQzNTU3OTE5NiwxMTY2NDczNDc4LD
-EwMTcwMDA5ODksLTExMzI2NTg3MzUsMjE0NzMwNzg0LC01NTcw
-OTQxNTRdfQ==
+eyJoaXN0b3J5IjpbLTg1NjY2MDc3MCwxNzg3NzgwMjQ2LC0zMj
+IxNTE2NzUsMTc3ODYwODAxLC03NTczMTM2NDAsMTEyMjc4NTI2
+NSwtMTg1Mzg3MzQ2NCwtMTgyMzg2NTE3LC0xNDEzODI2NDUzLD
+k3NTc0MTkwNSwxNTA4NTE5NTcyLC0yOTc0NzEzNDEsLTEzNDIx
+MTAwNCw5NTA2MzU5MzIsMjEzOTU3MDg3NywxNDM1NTc5MTk2LD
+ExNjY0NzM0NzgsMTAxNzAwMDk4OSwtMTEzMjY1ODczNSwyMTQ3
+MzA3ODRdfQ==
 -->
