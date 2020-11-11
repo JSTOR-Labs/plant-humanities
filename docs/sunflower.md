@@ -6,14 +6,13 @@
        layout="vtl">
 
 ### A Giant among Us
-<param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
-<param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-<param ve-entity eid="Q65027" title="Basilius Besler">
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The cultivated annual sunflower is also a popular ornamental, renowned for its yellow flower head with a round disk, strong unbranched stem, and imposing height. Indeed, _H. annuus_ can grow freestanding up to sixteen feet tall—a trait exaggerated for comedic effect in this botanical illustration. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized, if not menacing, proportions.
 
-Like that giant flower, _Helianthus annuus_ looms large in the plant world and our cultural imagination, so large that we often fail to recognize the diversity within the genus sunflower. Instead, we tend to essentialize the sunflower by assuming that every member of the genus has a single, golden blossom perched on an unbranched stem, like the one shown in this photograph. Such cultural myths have often shaped or been shaped by visual representations of the plant, particularly depictions of _H. annuus_.
-<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
-<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/3/3b/SunflowerYield.png" title="Map of sunflower production (average percentage of land used for its production times average yield in each grid cell) across the world compiled by the University of Minnesota Institute on the Environment with data from: Monfreda, C., N. Ramankutty, and J.A. Foley. 2008. CC Attribution-Share Alike 3.0 Unported">
+<param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The cultivated annual sunflower is also a popular ornamental, renowned for its yellow flower head with a round disk, strong unbranched stem, and imposing height. 
+
+
+Indeed, _H. annuus_ can grow freestanding up to sixteen feet tall—a trait exaggerated for comedic effect in this botanical illustration. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized, if not menacing, proportions. Like that giant flower, _Helianthus annuus_ looms large in the plant world and our cultural imagination, so large that we often fail to recognize the diversity within the genus sunflower. Instead, we tend to essentialize the sunflower by assuming that every member of the genus has a single, golden blossom perched on an unbranched stem, like the one shown in this photograph. Such cultural myths have often shaped or been shaped by visual representations of the plant, particularly depictions of _H. annuus_.
+<param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 <param ve-entity eid="Q65027" title="Basilius Besler">
 
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
@@ -151,11 +150,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwNjM1OTMyLDIxMzk1NzA4NzcsMTQzNT
-U3OTE5NiwxMTY2NDczNDc4LDEwMTcwMDA5ODksLTExMzI2NTg3
-MzUsMjE0NzMwNzg0LC01NTcwOTQxNTQsMjkxMTMwMTU3LDE2ND
-cwMjY1NjUsNDU1ODcyOTg2LDE0MDU4NjI1MTEsLTE3NzkxMTI2
-MjEsLTk4MTY2NTM3MywyNTUyODAyODIsLTgwODcxOTEyMSwyND
-I3MDgyMzksMTA1Njg1MTk4NCwtMzA2MjkwNzE0LC0xOTc2MjEx
-OTY3XX0=
+eyJoaXN0b3J5IjpbLTEwNjk0NDE2NjAsOTUwNjM1OTMyLDIxMz
+k1NzA4NzcsMTQzNTU3OTE5NiwxMTY2NDczNDc4LDEwMTcwMDA5
+ODksLTExMzI2NTg3MzUsMjE0NzMwNzg0LC01NTcwOTQxNTQsMj
+kxMTMwMTU3LDE2NDcwMjY1NjUsNDU1ODcyOTg2LDE0MDU4NjI1
+MTEsLTE3NzkxMTI2MjEsLTk4MTY2NTM3MywyNTUyODAyODIsLT
+gwODcxOTEyMSwyNDI3MDgyMzksMTA1Njg1MTk4NCwtMzA2Mjkw
+NzE0XX0=
 -->
