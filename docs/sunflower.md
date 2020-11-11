@@ -8,15 +8,16 @@
 ### A Giant among Us
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The cultivated annual sunflower is also a popular ornamental, renowned for its yellow flower head with a round disk, strong unbranched stem, and imposing height. 
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The cultivated annual sunflower is also a popular ornamental, renowned for its yellow flower head with a round disk, strong unbranched stem, and imposing height.
+<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
+<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/3/3b/SunflowerYield.png" title="Map of sunflower production (average percentage of land used for its production times average yield in each grid cell) across the world compiled by the University of Minnesota Institute on the Environment with data from: Monfreda, C., N. Ramankutty, and J.A. Foley. 2008. CC Attribution-Share Alike 3.0 Unported">
 
-
-Indeed, _H. annuus_ can grow freestanding up to sixteen feet tall—a trait exaggerated for comedic effect in this botanical illustration. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized, if not menacing, proportions. Like that giant flower, _Helianthus annuus_ looms large in the plant world and our cultural imagination, so large that we often fail to recognize the diversity within the genus sunflower. Instead, we tend to essentialize the sunflower by assuming that every member of the genus has a single, golden blossom perched on an unbranched stem, like the one shown in this photograph. Such cultural myths have often shaped or been shaped by visual representations of the plant, particularly depictions of _H. annuus_.
+Indeed, _Helianthus annuus_ can grow freestanding up to sixteen feet tall—a trait exaggerated for comedic effect in this botanical illustration. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized, if not menacing, proportions. Like that giant flower, _Helianthus annuus_ looms large in the plant world and our cultural imagination, so large that we often fail to recognize the diversity within the genus sunflower. Instead, we tend to essentialize the sunflower by assuming that every member of the genus has a single, golden blossom perched on an unbranched stem, like the one shown in this photograph. Such cultural myths have often shaped or been shaped by visual representations of the plant, particularly depictions of _H. annuus_.
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 <param ve-entity eid="Q65027" title="Basilius Besler">
 
-<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 This visual narrative clarifies how certain pictures of the sunflower provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have over time contributed to a visual stereotype of the sunflower that elides species differences and perpetuates cultural myths.
+<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 ### Naming and Representing the Iconic Flower
 
@@ -150,11 +151,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk0NDE2NjAsOTUwNjM1OTMyLDIxMz
-k1NzA4NzcsMTQzNTU3OTE5NiwxMTY2NDczNDc4LDEwMTcwMDA5
-ODksLTExMzI2NTg3MzUsMjE0NzMwNzg0LC01NTcwOTQxNTQsMj
-kxMTMwMTU3LDE2NDcwMjY1NjUsNDU1ODcyOTg2LDE0MDU4NjI1
-MTEsLTE3NzkxMTI2MjEsLTk4MTY2NTM3MywyNTUyODAyODIsLT
-gwODcxOTEyMSwyNDI3MDgyMzksMTA1Njg1MTk4NCwtMzA2Mjkw
-NzE0XX0=
+eyJoaXN0b3J5IjpbLTQxNDcyNzkwOSw5NTA2MzU5MzIsMjEzOT
+U3MDg3NywxNDM1NTc5MTk2LDExNjY0NzM0NzgsMTAxNzAwMDk4
+OSwtMTEzMjY1ODczNSwyMTQ3MzA3ODQsLTU1NzA5NDE1NCwyOT
+ExMzAxNTcsMTY0NzAyNjU2NSw0NTU4NzI5ODYsMTQwNTg2MjUx
+MSwtMTc3OTExMjYyMSwtOTgxNjY1MzczLDI1NTI4MDI4MiwtOD
+A4NzE5MTIxLDI0MjcwODIzOSwxMDU2ODUxOTg0LC0zMDYyOTA3
+MTRdfQ==
 -->
