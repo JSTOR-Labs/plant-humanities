@@ -9,7 +9,7 @@
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
 <param ve-entity eid="Q65027" title="Basilius Besler">
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The cultivated annual sunflower is also a popular ornamental, renowned for its yellow flower head with a round disk and its imposing height. Indeed, _H. annuus_ can grow freestanding up to sixteen feet tall—a trait exaggerated for comedic effect in this botanical illustration. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized, if not menacing, proportions. Like that giant flower, _H. annuus_ looms large in the plant world and our cultural imagination, so large that we often fail to recognize the diversity within the genus sunflower.
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The cultivated annual sunflower is also a popular ornamental, renowned for its yellow flower head with a round disk, strong unbranched stem, and imposing height. Indeed, _H. annuus_ can grow freestanding up to sixteen feet tall—a trait exaggerated for comedic effect in this botanical illustration. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized, if not menacing, proportions. Like that giant flower, _H. annuus_ looms large in the plant world and our cultural imagination, so large that we often fail to recognize the diversity within the genus sunflower.
 
 Today, because of _H. annuus_’s iconic formal qualities and widespread cultivation, we tend to essentialize all sunflowers by assuming that they have a single, golden blossom perched on an unbranched stem. Such cultural myths have often shaped or been shaped by visual representations of the plant, particularly those depicting _H. annuus_.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
@@ -149,11 +149,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTY2NTM3MywyNTUyODAyODIsLTgwOD
-cxOTEyMSwyNDI3MDgyMzksMTA1Njg1MTk4NCwtMzA2MjkwNzE0
-LC0xOTc2MjExOTY3LDIwNDk3MTM0NTAsNDQxMDYyNTk3LDEzMT
-kzOTAzNywyMDQ5MTkzOTQ2LC0xMDgwNjg0NzUzLC0xNTI0MjQx
-NDQ4LDEyNTA1Mjg0MjcsMTI4NDYyMTAxOSwtMTk4MTMxMTc3My
-wtNDAzMTY0MzI5LC0xMTY3NTE5MDQzLC01NjM3MjcwMzYsLTEw
-NzM0MDE5MTFdfQ==
+eyJoaXN0b3J5IjpbLTE3NzkxMTI2MjEsLTk4MTY2NTM3MywyNT
+UyODAyODIsLTgwODcxOTEyMSwyNDI3MDgyMzksMTA1Njg1MTk4
+NCwtMzA2MjkwNzE0LC0xOTc2MjExOTY3LDIwNDk3MTM0NTAsND
+QxMDYyNTk3LDEzMTkzOTAzNywyMDQ5MTkzOTQ2LC0xMDgwNjg0
+NzUzLC0xNTI0MjQxNDQ4LDEyNTA1Mjg0MjcsMTI4NDYyMTAxOS
+wtMTk4MTMxMTc3MywtNDAzMTY0MzI5LC0xMTY3NTE5MDQzLC01
+NjM3MjcwMzZdfQ==
 -->
