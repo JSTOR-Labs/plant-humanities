@@ -70,7 +70,9 @@ Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 Heliotropism in plants was observed by the ancient Greeks and this phenomenon is a central conceit in the myth of Clytie and Helios. Explain the myth. The associations of the sunflower in this narrative with notions of WHAT proved influential in Western European art and culture. Introduce idea of constancy and then connect to heliotropism. Interpret print.
-<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
+<param ve-image primary fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
+<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
+_The Sunflower_, 1866-1870, photograph, National Gallery of Art">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
 Having dispelled several cultural myths about the sunflower, we now turn to another. It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena, publishing their exciting findings in 2016.Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Widespread coverage of those findings by the media no doubt generated new excitement about the plant in recent years.
@@ -122,8 +124,6 @@ Still life paintings provide another rich source of evidence regarding plant div
 
 Aesthetic Movement (Britain); Gender; whiteness Walter Satterlee _[The Decorative Sisters](https://hdl.handle.net/2027/loc.ark:/13960/t84j1d31x)_
 <param ve-image primary fit="contain" url="https://images.nypl.org/index.php?id=488090&t=w" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
-<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
-_The Sunflower_, 1866-1870, photograph, National Gallery of Art">
 <param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/dp/original/DPB882889.jpg" title="_Sunflower: Haughtiness_, from the series _Floral Beauties and Language of Flowers_ (N75) for Duke brand cigarettes, 1892, The Metropolitan Museum of Art, New York, The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick">
 
 <param ve-entity eid="Q30875" title="Oscar Wilde">
@@ -146,11 +146,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDY3Mjg1ODMsLTE4MjM4NjUxNywtMT
-QxMzgyNjQ1Myw5NzU3NDE5MDUsMTUwODUxOTU3MiwtMjk3NDcx
-MzQxLC0xMzQyMTEwMDQsOTUwNjM1OTMyLDIxMzk1NzA4NzcsMT
-QzNTU3OTE5NiwxMTY2NDczNDc4LDEwMTcwMDA5ODksLTExMzI2
-NTg3MzUsMjE0NzMwNzg0LC01NTcwOTQxNTQsMjkxMTMwMTU3LD
-E2NDcwMjY1NjUsNDU1ODcyOTg2LDE0MDU4NjI1MTEsLTE3Nzkx
-MTI2MjFdfQ==
+eyJoaXN0b3J5IjpbLTYxMDIxMTM2NSwtMTgyMzg2NTE3LC0xND
+EzODI2NDUzLDk3NTc0MTkwNSwxNTA4NTE5NTcyLC0yOTc0NzEz
+NDEsLTEzNDIxMTAwNCw5NTA2MzU5MzIsMjEzOTU3MDg3NywxND
+M1NTc5MTk2LDExNjY0NzM0NzgsMTAxNzAwMDk4OSwtMTEzMjY1
+ODczNSwyMTQ3MzA3ODQsLTU1NzA5NDE1NCwyOTExMzAxNTcsMT
+Y0NzAyNjU2NSw0NTU4NzI5ODYsMTQwNTg2MjUxMSwtMTc3OTEx
+MjYyMV19
 -->
