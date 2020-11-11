@@ -30,6 +30,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. A team of artists, etchers, printmakers, and colorists, hired by Besler, produced the hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_, a striking depiction of the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stock with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they emphasized the sunflower’s beauty. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing the sunflower that is also evocative of modern and contemporary visual stereotypes for the plant.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
+<param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
 
 ### Range and Cultivation
@@ -62,12 +63,12 @@ Visual and verbal representations of the sunflower chart not only the transocean
  Dodoens’s account, if accurate, charts sunflower migration to Flanders by the mid-1560s. However, the provenance of such plants remains muddy. Whereas Dodoens gives the sunflower the name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins, the word “Peru” was often used indiscriminately during the period to mean someplace in the Americas. That misinformation was repeated in subsequent books, propagating a myth about the sunflower’s “Peruvian” origins.
 <param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
+<param ve-entity eid="Q6165948" title="herbal" aliases=" herbals">
 This network visualization offers a preliminary model for studying the transregional exchange of iconography and ideas related to the sunflower. It shows the interconnectedness of botanists, scholars, artists, translators, plant connoisseurs, patrons, and other figures who were active in the botanical realm in Europe and the Americas between the mid-1500s and the mid-1660s. This web of interactions also illuminates some instances in which sunflower iconography migrated from one herbal to another, raising questions about the meanings of such pictures, about the relationship of images, text, and plants, and about larger patterns of exchange.
 <param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
 
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 The migration of sunflower iconography is evidenced in Francisco Hernández’s _Nova plantarum, animalium et mineralium Mexicanorum historia_ (1651). The book describes plants and other natural resources that Hernández encountered during a 1570s expedition to Mexico. It contains two illustrations of sunflowers, which were borrowed from European sources. The upper one was likely adapted from the sunflower portrait made under Besler’s direction for inclusion _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613), a catalog of the exotic flowers grown in Prince Bishop of Eichstätt’s garden in Bavaria. The lower one resembles an illustration published in a 1619 French-language translation of an herbal by Monardi. These borrowing prompted the botanist Charles B. Heiser to ask the following: Why would the artists who created those illustrations for Hernández’s report copy old sources instead of working from drawings of local plants? According to Heiser, they did so for _Helianthus annuus_ because the species was not established in Mexico at the time of Hernández visit, though the explorer would have known it through connections in Europe.
-<param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
 
@@ -166,11 +167,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDA5MDA5MSwtMTA4MDY4NDc1MywtMT
-UyNDI0MTQ0OCwxMjUwNTI4NDI3LDEyODQ2MjEwMTksLTE5ODEz
-MTE3NzMsLTQwMzE2NDMyOSwtMTE2NzUxOTA0MywtNTYzNzI3MD
-M2LC0xMDczNDAxOTExLC0yOTE0NzgzMzgsMTkxODc2MTYyNiw3
-NjA3MDY4MDQsNjgyNTIxMDksLTUwOTE5MjE2Nyw0NDAxNzYwMD
-QsMTI4MjMxNTgwMyw1MzA1NDQxNTMsLTE3NjMzMjk3MzksLTQx
-ODI1MzY4MF19
+eyJoaXN0b3J5IjpbNzI0ODE3NzkxLC0xMDgwNjg0NzUzLC0xNT
+I0MjQxNDQ4LDEyNTA1Mjg0MjcsMTI4NDYyMTAxOSwtMTk4MTMx
+MTc3MywtNDAzMTY0MzI5LC0xMTY3NTE5MDQzLC01NjM3MjcwMz
+YsLTEwNzM0MDE5MTEsLTI5MTQ3ODMzOCwxOTE4NzYxNjI2LDc2
+MDcwNjgwNCw2ODI1MjEwOSwtNTA5MTkyMTY3LDQ0MDE3NjAwNC
+wxMjgyMzE1ODAzLDUzMDU0NDE1MywtMTc2MzMyOTczOSwtNDE4
+MjUzNjgwXX0=
 -->
