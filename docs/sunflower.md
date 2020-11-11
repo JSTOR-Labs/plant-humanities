@@ -8,7 +8,7 @@
 ### A Giant among Us
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The cultivated annual sunflower is also a popular ornamental, renowned for its yellow flower head with a round disk, strong unbranched stem, and imposing height.
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The cultivated annual sunflower is also a popular ornamental, renowned for its yellow flower head with a round disk, robust unbranched stem, heart-shaped leaves, and imposing height.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 Indeed, _Helianthus annuus_ can grow freestanding up to sixteen feet tall—a trait exaggerated for comedic effect in this botanical illustration. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized, if not menacing, proportions. Like that giant flower, _H. annuus_ looms large in the plant world and our cultural imagination, so large that we often fail to bring curiosity to our engagements with the plant and the [genus sunflower](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2). Instead, it is all too easy for us to essentialize the sunflower by assuming that every member of the genus has a single, golden blossom perched on an unbranched stem. Such cultural myths have often shaped or been shaped by visual representations of the plant, particularly depictions of _H. annuus_.
@@ -147,11 +147,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMTQ1OTEsLTE1MTg3NTEsMTc4Nzc4MD
-I0NiwtMzIyMTUxNjc1LDE3Nzg2MDgwMSwtNzU3MzEzNjQwLDEx
-MjI3ODUyNjUsLTE4NTM4NzM0NjQsLTE4MjM4NjUxNywtMTQxMz
-gyNjQ1Myw5NzU3NDE5MDUsMTUwODUxOTU3MiwtMjk3NDcxMzQx
-LC0xMzQyMTEwMDQsOTUwNjM1OTMyLDIxMzk1NzA4NzcsMTQzNT
-U3OTE5NiwxMTY2NDczNDc4LDEwMTcwMDA5ODksLTExMzI2NTg3
-MzVdfQ==
+eyJoaXN0b3J5IjpbLTI5ODc3OTg0OSw2OTExNDU5MSwtMTUxOD
+c1MSwxNzg3NzgwMjQ2LC0zMjIxNTE2NzUsMTc3ODYwODAxLC03
+NTczMTM2NDAsMTEyMjc4NTI2NSwtMTg1Mzg3MzQ2NCwtMTgyMz
+g2NTE3LC0xNDEzODI2NDUzLDk3NTc0MTkwNSwxNTA4NTE5NTcy
+LC0yOTc0NzEzNDEsLTEzNDIxMTAwNCw5NTA2MzU5MzIsMjEzOT
+U3MDg3NywxNDM1NTc5MTk2LDExNjY0NzM0NzgsMTAxNzAwMDk4
+OV19
 -->
