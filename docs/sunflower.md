@@ -49,7 +49,6 @@ Although the Spanish were the first to transport the domesticated sunflower over
 ### "Peruvian" Origins and Mythic Encounters
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht">
-<param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
  Visual and verbal representations of the cultivated sunflower chart not only the transoceanic movement of the plant, but also the transregional exchange of iconography and ideas pertaining to it. That is true of the sunflower pictured in Dodoens’s _Florum, et Coronariarum_, at right. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ planted in soil as the artist may have encountered it displayed in a garden. Indeed, Dodoens’s description identifies a private garden, in Mechlin, as the place shown in the picture: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.”
 <param ve-image fit="contain" url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
@@ -149,11 +148,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxMTMwMTU3LDE2NDcwMjY1NjUsNDU1OD
-cyOTg2LDE0MDU4NjI1MTEsLTE3NzkxMTI2MjEsLTk4MTY2NTM3
-MywyNTUyODAyODIsLTgwODcxOTEyMSwyNDI3MDgyMzksMTA1Nj
-g1MTk4NCwtMzA2MjkwNzE0LC0xOTc2MjExOTY3LDIwNDk3MTM0
-NTAsNDQxMDYyNTk3LDEzMTkzOTAzNywyMDQ5MTkzOTQ2LC0xMD
-gwNjg0NzUzLC0xNTI0MjQxNDQ4LDEyNTA1Mjg0MjcsMTI4NDYy
-MTAxOV19
+eyJoaXN0b3J5IjpbLTE0NjAzNjEzNzUsMjkxMTMwMTU3LDE2ND
+cwMjY1NjUsNDU1ODcyOTg2LDE0MDU4NjI1MTEsLTE3NzkxMTI2
+MjEsLTk4MTY2NTM3MywyNTUyODAyODIsLTgwODcxOTEyMSwyND
+I3MDgyMzksMTA1Njg1MTk4NCwtMzA2MjkwNzE0LC0xOTc2MjEx
+OTY3LDIwNDk3MTM0NTAsNDQxMDYyNTk3LDEzMTkzOTAzNywyMD
+Q5MTkzOTQ2LC0xMDgwNjg0NzUzLC0xNTI0MjQxNDQ4LDEyNTA1
+Mjg0MjddfQ==
 -->
