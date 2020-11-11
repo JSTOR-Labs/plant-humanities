@@ -55,7 +55,7 @@ If accurate, Dodoens’s account charts the migration of _Helianthus annuus_ to 
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q1333338" title="John Gerard"> 
 
-Dodoens’s _Florum, et Coronariarum_ participated in a transregional exchange of iconography and ideas related to the sunflower. This network visualization posits a preliminary model for studying those points of intersection among herbalists, scholars, artists, translators, plant collectors, patrons, and other figures, all of who were active in the botanical scene in Europe and the Americas. The web of interactions also shows some instances in which sunflower illustrations from one herbal were reproduced in another, raising questions about the significance of such pictures, about the relationship of images to their contexts, and about larger patterns of cultural exchange and knowledge production.
+Dodoens’s _Florum, et Coronariarum_ participated in a transregional exchange of iconography and ideas related to the sunflower. This network visualization posits a preliminary model for studying those points of intersection among herbalists, scholars, artists, translators, plant collectors, patrons, and other figures, all of who were active in the botanical scene in Europe or the Americas. The web of interactions also shows some instances in which sunflower illustrations from one herbal were reproduced in another, raising questions about the significance of such pictures, about the relationship of images to their contexts, and about larger patterns of cultural exchange and knowledge production.
 <param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_v1.tsv" center="Heliconia imbricata" title="Heliconia imbricata relationships with organisms: parasitic, mutual, and neutral">
 
@@ -147,11 +147,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDg0OTEzNywtMTUxODc1MSwxNzg3Nz
-gwMjQ2LC0zMjIxNTE2NzUsMTc3ODYwODAxLC03NTczMTM2NDAs
-MTEyMjc4NTI2NSwtMTg1Mzg3MzQ2NCwtMTgyMzg2NTE3LC0xND
-EzODI2NDUzLDk3NTc0MTkwNSwxNTA4NTE5NTcyLC0yOTc0NzEz
-NDEsLTEzNDIxMTAwNCw5NTA2MzU5MzIsMjEzOTU3MDg3NywxND
-M1NTc5MTk2LDExNjY0NzM0NzgsMTAxNzAwMDk4OSwtMTEzMjY1
-ODczNV19
+eyJoaXN0b3J5IjpbNjkxMTQ1OTEsLTE1MTg3NTEsMTc4Nzc4MD
+I0NiwtMzIyMTUxNjc1LDE3Nzg2MDgwMSwtNzU3MzEzNjQwLDEx
+MjI3ODUyNjUsLTE4NTM4NzM0NjQsLTE4MjM4NjUxNywtMTQxMz
+gyNjQ1Myw5NzU3NDE5MDUsMTUwODUxOTU3MiwtMjk3NDcxMzQx
+LC0xMzQyMTEwMDQsOTUwNjM1OTMyLDIxMzk1NzA4NzcsMTQzNT
+U3OTE5NiwxMTY2NDczNDc4LDEwMTcwMDA5ODksLTExMzI2NTg3
+MzVdfQ==
 -->
