@@ -66,14 +66,13 @@ This network visualization offers a preliminary model for studying the transregi
 <param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
 
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
-The bold sunflower portrait was made for inclusion in the florilegium _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, a monumental book commissioned by Prince Bishop of Eichstätt to catalog the exotic flowers grown in his garden. 
+The migration of sunflower iconography is evidenced in Francisco Hernández’s _Nova plantarum, animalium et mineralium Mexicanorum historia_ (1651). The book describes plants and other natural resources that Hernández encountered during a 1570s expedition to Mexico. It contains two illustrations of sunflowers, which were borrowed from European sources. The upper one was likely adapted from the sunflower portrait made under Besler’s direction for inclusion _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613), a catalog of the exotic flowers grown in Prince Bishop of Eichstätt’s garden in Bavaria. The lower one resembles an illustration published in a 1619 French-language translation of an herbal by Monardi. These borrowing prompted the botanist Charles B. Heiser to ask the following: Why would the artists who created those illustrations for Hernández’s report copy old sources instead of working from drawings of local plants? According to Heiser, they did so for _Helianthus annuus_ because the species was not established in Mexico at the time of Hernández visit, though the explorer would have known it through connections in Europe.
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
 
 <param ve-image iiif primary fit="contain" url="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?id=rerummedicarumno00hern&itemPath=%2F18%2Fitems%2Frerummedicarumno00hern&server=ia802806.us.archive.org&page=n273_w617" title="Hernández, Francisco, _Rerum medicarum Novae Hispaniae_, The Getty Research Institute">
-<param ve-entity eid="Q6165948" title="herbal" aliases=" herbals">
-In contrast to florilegia, the illustrations in herbals, such as this one, were generally small and schematic. They were meant to aid the reader in identifying plants and were given less space on the page than text explaining a specimen's medicinal or culinary properties. This illustration is instructive for another reason. It clearly  X Besler’s _Flos Solis maior_. In doing so, it evidences that the became an influential model for visualizing the sunflower in  is also evocative of modern and contemporary visual stereotypes for the plant.
+
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
 Europeans eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
@@ -167,11 +166,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwOTMxNjgyLC0xMDgwNjg0NzUzLC0xNT
-I0MjQxNDQ4LDEyNTA1Mjg0MjcsMTI4NDYyMTAxOSwtMTk4MTMx
-MTc3MywtNDAzMTY0MzI5LC0xMTY3NTE5MDQzLC01NjM3MjcwMz
-YsLTEwNzM0MDE5MTEsLTI5MTQ3ODMzOCwxOTE4NzYxNjI2LDc2
-MDcwNjgwNCw2ODI1MjEwOSwtNTA5MTkyMTY3LDQ0MDE3NjAwNC
-wxMjgyMzE1ODAzLDUzMDU0NDE1MywtMTc2MzMyOTczOSwtNDE4
-MjUzNjgwXX0=
+eyJoaXN0b3J5IjpbLTU4NDA5MDA5MSwtMTA4MDY4NDc1MywtMT
+UyNDI0MTQ0OCwxMjUwNTI4NDI3LDEyODQ2MjEwMTksLTE5ODEz
+MTE3NzMsLTQwMzE2NDMyOSwtMTE2NzUxOTA0MywtNTYzNzI3MD
+M2LC0xMDczNDAxOTExLC0yOTE0NzgzMzgsMTkxODc2MTYyNiw3
+NjA3MDY4MDQsNjgyNTIxMDksLTUwOTE5MjE2Nyw0NDAxNzYwMD
+QsMTI4MjMxNTgwMyw1MzA1NDQxNTMsLTE3NjMzMjk3MzksLTQx
+ODI1MzY4MF19
 -->
