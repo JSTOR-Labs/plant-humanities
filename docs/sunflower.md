@@ -43,7 +43,7 @@ There is some debate about when domesticated sunflowers were used in the southwe
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
-Although the Spanish were the first to transport the domesticated sunflower overseas to Europe, questions persist about who first collected such plants or seeds, and when and from where they did so. In the absence of surviving specimens, visual and verbal representation of the sunflower help us to chart its movement to Spain and to other parts of Europe. Nicolas Monardes’s herbal _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Seville. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568): the first book to reproduce an illustration of a sunflower.
+Although the Spanish were the first to transport the domesticated sunflower overseas to Europe, questions persist about who first collected such plants or seeds, and when and from where they did so. In the absence of surviving specimens, visual and verbal representation of the sunflower help us to chart its movement to Spain and to other parts of Europe. Nicolas Monardes’s herbal _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Seville. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of a sunflower—celebrates the arrival of the cultivated sunflower in Flanders.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 ### "Peruvian" Origins and Mythic Encounters
@@ -155,11 +155,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU4NDQ2MDEsLTMwNjI5MDcxNCwtMT
-k3NjIxMTk2NywyMDQ5NzEzNDUwLDQ0MTA2MjU5NywxMzE5Mzkw
-MzcsMjA0OTE5Mzk0NiwtMTA4MDY4NDc1MywtMTUyNDI0MTQ0OC
-wxMjUwNTI4NDI3LDEyODQ2MjEwMTksLTE5ODEzMTE3NzMsLTQw
-MzE2NDMyOSwtMTE2NzUxOTA0MywtNTYzNzI3MDM2LC0xMDczND
-AxOTExLC0yOTE0NzgzMzgsMTkxODc2MTYyNiw3NjA3MDY4MDQs
-NjgyNTIxMDldfQ==
+eyJoaXN0b3J5IjpbNTYyNTI0MTAzLC0zMDYyOTA3MTQsLTE5Nz
+YyMTE5NjcsMjA0OTcxMzQ1MCw0NDEwNjI1OTcsMTMxOTM5MDM3
+LDIwNDkxOTM5NDYsLTEwODA2ODQ3NTMsLTE1MjQyNDE0NDgsMT
+I1MDUyODQyNywxMjg0NjIxMDE5LC0xOTgxMzExNzczLC00MDMx
+NjQzMjksLTExNjc1MTkwNDMsLTU2MzcyNzAzNiwtMTA3MzQwMT
+kxMSwtMjkxNDc4MzM4LDE5MTg3NjE2MjYsNzYwNzA2ODA0LDY4
+MjUyMTA5XX0=
 -->
