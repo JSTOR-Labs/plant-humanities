@@ -50,15 +50,7 @@ Although the Spanish were probably the first to transport the domesticated sunfl
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
-Visual and verbal representations of the sunflower chart not only the transoceanic movement of plants, but also the transregional exchange of iconography and ideas pertaining to them. That is true of the sunflower pictured in Dodoens’s _Florum, et Coronariarum_, shown at right. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ planted in soil as the artist may have encountered it displayed in a garden. Indeed, Dodoens’s description identifies a private garden, in Mechlin, as the place shown in the picture:  "They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the
-> delightful garden abundant with any variety of plants belonging to the
-> excellent and worthy Johannes Brancio, a man who is very knowledgeable
-> about the diversity of plants and whose generosity and goodwill has
-> resulted in a not inconsiderable number of flowers being added to this
-> treatise which otherwise would not have been included. You may seek it
-> in vain elsewhere, only to find it in his garden.
-
- Dodoens’s account, if accurate, charts sunflower migration to Flanders by the mid-1560s. However, the provenance of such plants remains muddy. Whereas Dodoens gives the sunflower the name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins, the word “Peru” was often used indiscriminately during the period to mean someplace in the Americas. That misinformation was repeated in subsequent books, propagating a myth about the sunflower’s “Peruvian” origins.
+Visual and verbal representations of the sunflower chart not only the transoceanic movement of plants, but also the transregional exchange of iconography and ideas pertaining to them. That is true of the sunflower pictured in Dodoens’s _Florum, et Coronariarum_, shown at right. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ planted in soil as the artist may have encountered it displayed in a garden. Indeed, Dodoens’s description identifies a private garden, in Mechlin, as the place shown in the picture:  "They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio . . . . You may seek it in vain elsewhere, only to find it in his garden." Dodoens’s account, if accurate, charts sunflower migration to Flanders by the mid-1560s. However, the provenance of such plants remains muddy. Whereas Dodoens gives the sunflower the name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins, the word “Peru” was often used indiscriminately during the period to mean someplace in the Americas. That misinformation was repeated in subsequent books, propagating a myth about the sunflower’s “Peruvian” origins.
 <param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
 This network visualization offers a preliminary model for studying the transregional exchange of iconography and ideas related to the sunflower. It shows the interconnectedness of botanists, scholars, artists, translators, plant connoisseurs, patrons, and other figures who were active in the botanical realm in Europe and the Americas between the mid-1500s and the mid-1660s. This web of interactions also illuminates some instances in which sunflower iconography migrated from one herbal to another, raising questions about the meanings of such pictures, about the relationship of images, text, and plants, and about larger patterns of exchange.
@@ -156,16 +148,17 @@ ADD TEXT
 
 <param ve-image iiif region="1078,259,3906,3278"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
+<param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
 As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Sunflowers are a popular oil crop because their seeds are rich in nutrients and relatively low in fatty acids. After oil is extracted from seeds, the byproducts are repurposed for use as animal feed or, in the case of hulls, ground to produce roughage or fuel. Sunflower crops also provide seeds for confectionary food and birdfeed. In the X century, the sunflower became a favored oil crop in Russia because it was one of the few sources of protein that the Orthodox Church did not ban during Lent. Farmers in Russia bred a giant sunflower—NAME—that to increase seed yields. That species was introduced to North America in the mid twentieth century and it is the one most widely cultivated there today. In addition to those uses, sunflowers are cultivated as ornamentals for domestic settings, and EN Because sunflowers are able to extract harmful containments from soil and water, a process known as phytoremediation, they have been planted at the sites of the Chernobyl and Fukushima Daiichi disasters to absorb radiation.
 
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjM1MTMxOCwyMDQ5MTkzOTQ2LC0xMD
-gwNjg0NzUzLC0xNTI0MjQxNDQ4LDEyNTA1Mjg0MjcsMTI4NDYy
-MTAxOSwtMTk4MTMxMTc3MywtNDAzMTY0MzI5LC0xMTY3NTE5MD
-QzLC01NjM3MjcwMzYsLTEwNzM0MDE5MTEsLTI5MTQ3ODMzOCwx
-OTE4NzYxNjI2LDc2MDcwNjgwNCw2ODI1MjEwOSwtNTA5MTkyMT
-Y3LDQ0MDE3NjAwNCwxMjgyMzE1ODAzLDUzMDU0NDE1MywtMTc2
-MzMyOTczOV19
+eyJoaXN0b3J5IjpbNjEyNjgyMzc1LDIwNDkxOTM5NDYsLTEwOD
+A2ODQ3NTMsLTE1MjQyNDE0NDgsMTI1MDUyODQyNywxMjg0NjIx
+MDE5LC0xOTgxMzExNzczLC00MDMxNjQzMjksLTExNjc1MTkwND
+MsLTU2MzcyNzAzNiwtMTA3MzQwMTkxMSwtMjkxNDc4MzM4LDE5
+MTg3NjE2MjYsNzYwNzA2ODA0LDY4MjUyMTA5LC01MDkxOTIxNj
+csNDQwMTc2MDA0LDEyODIzMTU4MDMsNTMwNTQ0MTUzLC0xNzYz
+MzI5NzM5XX0=
 -->
