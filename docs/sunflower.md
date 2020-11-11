@@ -48,7 +48,18 @@ Although the Spanish were probably the first to transport the domesticated sunfl
 ### "Peruvian" Origins and Mythic Encounters
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht"> 
-Botanical illustrations provide vital information about not only the movement of actual plants, but also the circulation of iconography and ideas. That [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), Dodoens’s _Florum, et Coronariarum_ shown at right and designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ as one might encounter it in a garden. The visual representation robust stock, heart-shaped leaves, a single flower head per stock. “They call this plant the 'Sun of India' (or 'Indian Sun') because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio, a man who is very knowledgeable about the diversity of plants and whose generosity and goodwill has resulted in a not inconsiderable number of flowers being added to this treatise which otherwise would not have been included. You may seek it in vain elsewhere, only to find it in his garden.”
+Visual and verbal representations of the sunflower chart not only the transoceanic movement of plants, but also the transregional exchange of iconography and ideas pertaining to them. That is true of the sunflower pictured in Dodoens’s _Florum, et Coronariarum_, shown at right. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ planted in soil as the artist may have encountered it displayed in a garden. Indeed, Dodoens’s description identifies a private garden, in Mechlin, as the place shown in the picture: 
+
+> They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it
+> so resembles a sun surrounded by rays. We saw this plant in the
+> delightful garden abundant with any variety of plants belonging to the
+> excellent and worthy Johannes Brancio, a man who is very knowledgeable
+> about the diversity of plants and whose generosity and goodwill has
+> resulted in a not inconsiderable number of flowers being added to this
+> treatise which otherwise would not have been included. You may seek it
+> in vain elsewhere, only to find it in his garden.
+
+ Dodoens’s account, if accurate, charts sunflower migration to Flanders by the mid-1560s. However, the provenance of such plants remains muddy. Whereas Dodoens gives the sunflower the name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins, the word “Peru” was often used indiscriminately during the period to mean someplace in the Americas. That misinformation was repeated in subsequent books, propagating a myth about the sunflower’s “Peruvian” origins.
 <param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
@@ -157,7 +168,7 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDQxNDg0OCwtMTA4MDY4NDc1MywtMT
+eyJoaXN0b3J5IjpbMTY0MjYwMjg3MiwtMTA4MDY4NDc1MywtMT
 UyNDI0MTQ0OCwxMjUwNTI4NDI3LDEyODQ2MjEwMTksLTE5ODEz
 MTE3NzMsLTQwMzE2NDMyOSwtMTE2NzUxOTA0MywtNTYzNzI3MD
 M2LC0xMDczNDAxOTExLC0yOTE0NzgzMzgsMTkxODc2MTYyNiw3
