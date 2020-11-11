@@ -60,7 +60,7 @@ This network visualization offers a preliminary model for studying the transregi
 <param ve-image iiif primary fit="contain" url="https://ia800805.us.archive.org/BookReader/BookReaderImages.php?id=novaplantarumani00hern&itemPath=%2F5%2Fitems%2Fnovaplantarumani00hern&server=ia800805.us.archive.org&page=n245_w820" title="Hernández, Francisco, _Nova plantarum, animalium et mineralium Mexicanorum historia_, 1651, John Carter Brown Library">
 The migration of sunflower iconography is evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_ (1651). The book describes plants and other natural resources that Hernández encountered during a 1570s expedition to Mexico. It contains two illustrations of sunflowers, which were borrowed from European sources. The upper one was likely adapted from the sunflower portrait made under Besler’s direction for inclusion _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613), a catalog of the exotic flowers grown in Prince Bishop of Eichstätt’s garden in Bavaria. The lower one resembles an illustration published in a 1619 French-language translation of an herbal by Monardes. These borrowing prompted the botanist Charles B. Heiser to ask the following: Why would the artists who created those illustrations for Hernández’s report copy old sources instead of working from drawings of local plants? According to Heiser, they did so for _Helianthus annuus_ because the species was not established in Mexico at the time of Hernández visit, though the explorer would have known it through connections in Europe.
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-<param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
+<param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás, ca. 1512-1588](https://www.biodiversitylibrary.org/creator/6179)>
 
 Europeans eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. That practice of “collecting” natural resources, known as [extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), often involved violent confrontations with indigenous inhabitants. The title page of John Park's _Theatricum Botanicum_ features a sunflower.
 <param ve-storiiies id="4f1ln">
@@ -154,11 +154,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTM5MDM3LDIwNDkxOTM5NDYsLTEwOD
-A2ODQ3NTMsLTE1MjQyNDE0NDgsMTI1MDUyODQyNywxMjg0NjIx
-MDE5LC0xOTgxMzExNzczLC00MDMxNjQzMjksLTExNjc1MTkwND
-MsLTU2MzcyNzAzNiwtMTA3MzQwMTkxMSwtMjkxNDc4MzM4LDE5
-MTg3NjE2MjYsNzYwNzA2ODA0LDY4MjUyMTA5LC01MDkxOTIxNj
-csNDQwMTc2MDA0LDEyODIzMTU4MDMsNTMwNTQ0MTUzLC0xNzYz
-MzI5NzM5XX0=
+eyJoaXN0b3J5IjpbLTMxOTEzNTc2NSwxMzE5MzkwMzcsMjA0OT
+E5Mzk0NiwtMTA4MDY4NDc1MywtMTUyNDI0MTQ0OCwxMjUwNTI4
+NDI3LDEyODQ2MjEwMTksLTE5ODEzMTE3NzMsLTQwMzE2NDMyOS
+wtMTE2NzUxOTA0MywtNTYzNzI3MDM2LC0xMDczNDAxOTExLC0y
+OTE0NzgzMzgsMTkxODc2MTYyNiw3NjA3MDY4MDQsNjgyNTIxMD
+ksLTUwOTE5MjE2Nyw0NDAxNzYwMDQsMTI4MjMxNTgwMyw1MzA1
+NDQxNTNdfQ==
 -->
