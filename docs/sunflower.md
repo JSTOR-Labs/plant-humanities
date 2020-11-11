@@ -120,9 +120,6 @@ Still life paintings provide another rich source of evidence regarding plant div
 
 ### Floral Cyphers: Portrayals of Gender, Sexual Identity, Race, and Class
 
-The Aesthetic Movement and reaction against mass production and industrialization. The sunflower and myth of Clytie still held in the production of furnishings and decorative objects for the domestic realm. 
-<param ve-image fit="contain" manifest="https://ids.si.edu/ids/manifest/SAAM-1991.107A-C_1">
-
 Aesthetic Movement (Britain); Gender; whiteness Walter Satterlee _[The Decorative Sisters](https://hdl.handle.net/2027/loc.ark:/13960/t84j1d31x)_
 <param ve-image primary fit="contain" url="https://images.nypl.org/index.php?id=488090&t=w" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
@@ -141,19 +138,19 @@ Racial caricatures of Oscar Wilde in US disparage him by depicting black persons
 
 ### “Sun, sun, sun, here it comes”
 
-<param ve-image iiif region="1078,259,3906,3278"
-url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
 As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Of the two images in Hernández’s _Nova plantarum_, the one adapted from Besler’s _Hortus Eystettensis_ resembles what would become a visual cliché for representing the plant in other contexts.
+<param ve-image iiif region="1078,259,3906,3278"
+url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM4NjUxNywtMTQxMzgyNjQ1Myw5Nz
-U3NDE5MDUsMTUwODUxOTU3MiwtMjk3NDcxMzQxLC0xMzQyMTEw
-MDQsOTUwNjM1OTMyLDIxMzk1NzA4NzcsMTQzNTU3OTE5NiwxMT
-Y2NDczNDc4LDEwMTcwMDA5ODksLTExMzI2NTg3MzUsMjE0NzMw
-Nzg0LC01NTcwOTQxNTQsMjkxMTMwMTU3LDE2NDcwMjY1NjUsND
-U1ODcyOTg2LDE0MDU4NjI1MTEsLTE3NzkxMTI2MjEsLTk4MTY2
-NTM3M119
+eyJoaXN0b3J5IjpbLTE1NDY3Mjg1ODMsLTE4MjM4NjUxNywtMT
+QxMzgyNjQ1Myw5NzU3NDE5MDUsMTUwODUxOTU3MiwtMjk3NDcx
+MzQxLC0xMzQyMTEwMDQsOTUwNjM1OTMyLDIxMzk1NzA4NzcsMT
+QzNTU3OTE5NiwxMTY2NDczNDc4LDEwMTcwMDA5ODksLTExMzI2
+NTg3MzUsMjE0NzMwNzg0LC01NTcwOTQxNTQsMjkxMTMwMTU3LD
+E2NDcwMjY1NjUsNDU1ODcyOTg2LDE0MDU4NjI1MTEsLTE3Nzkx
+MTI2MjFdfQ==
 -->
