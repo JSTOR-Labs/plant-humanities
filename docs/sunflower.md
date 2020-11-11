@@ -11,7 +11,7 @@
 <param ve-entity eid="Q65027" title="Basilius Besler">
 _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The cultivated annual sunflower is also a popular ornamental, renowned for its yellow flower head with a round disk, strong unbranched stem, and imposing height. Indeed, _H. annuus_ can grow freestanding up to sixteen feet tall—a trait exaggerated for comedic effect in this botanical illustration. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized, if not menacing, proportions. Like that giant flower, _H. annuus_ looms large in the plant world and our cultural imagination, so large that we often fail to recognize the diversity within the genus sunflower.
 
-Today, because of _H. annuus_’s iconic formal qualities and widespread cultivation, we tend to essentialize all sunflowers by assuming that they have a single, golden blossom perched on an unbranched stem. Such cultural myths have often shaped or been shaped by visual representations of the plant, particularly those depicting _H. annuus_.
+Given the iconic qualities of _Helianthus annuus_ and its widespread cultivation, we may essentialize the sunflower by assuming that plants belonging to the genus have a single, golden blossom perched on an unbranched stem. Such cultural myths have often shaped or been shaped by visual representations of the plant, particularly depictions of _H. annuus_.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/3/3b/SunflowerYield.png" title="Map of sunflower production (average percentage of land used for its production times average yield in each grid cell) across the world compiled by the University of Minnesota Institute on the Environment with data from: Monfreda, C., N. Ramankutty, and J.A. Foley. 2008. CC Attribution-Share Alike 3.0 Unported">
 <param ve-entity eid="Q65027" title="Basilius Besler">
@@ -149,11 +149,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTg2MjUxMSwtMTc3OTExMjYyMSwtOT
-gxNjY1MzczLDI1NTI4MDI4MiwtODA4NzE5MTIxLDI0MjcwODIz
-OSwxMDU2ODUxOTg0LC0zMDYyOTA3MTQsLTE5NzYyMTE5NjcsMj
-A0OTcxMzQ1MCw0NDEwNjI1OTcsMTMxOTM5MDM3LDIwNDkxOTM5
-NDYsLTEwODA2ODQ3NTMsLTE1MjQyNDE0NDgsMTI1MDUyODQyNy
-wxMjg0NjIxMDE5LC0xOTgxMzExNzczLC00MDMxNjQzMjksLTEx
-Njc1MTkwNDNdfQ==
+eyJoaXN0b3J5IjpbNDU1ODcyOTg2LDE0MDU4NjI1MTEsLTE3Nz
+kxMTI2MjEsLTk4MTY2NTM3MywyNTUyODAyODIsLTgwODcxOTEy
+MSwyNDI3MDgyMzksMTA1Njg1MTk4NCwtMzA2MjkwNzE0LC0xOT
+c2MjExOTY3LDIwNDk3MTM0NTAsNDQxMDYyNTk3LDEzMTkzOTAz
+NywyMDQ5MTkzOTQ2LC0xMDgwNjg0NzUzLC0xNTI0MjQxNDQ4LD
+EyNTA1Mjg0MjcsMTI4NDYyMTAxOSwtMTk4MTMxMTc3MywtNDAz
+MTY0MzI5XX0=
 -->
