@@ -39,7 +39,7 @@ Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical name
 The history of _Helianthus annuus_ is enmeshed with the plant’s mobility. We can chart that movement by using maps to study the locations associated with visual representations, fossilized plant remains, and other forms of evidence. The earliest known sunflower remains—charred seeds—tell us that humans used _H. annuus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated by humans to express favorable traits.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
-There is some debate about when domesticated sunflowers were used in the southwestern United States and northern Mexico, and whether they were cultivated independently there. Although a charred seed was recovered at NAME SITE that some scientists identified as coming from _H. annuus_, others argued convincingly that the seed, which is no longer extant, may have come from a squash or a wild sunflower. In addition to archeological research,genomic studies of the common sunflower have linked present-day crops and seed remains to a common ancestor, which was cultivated at an independent domestication center in eastern North America. For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by the Spanish.
+There is some debate about when domesticated sunflowers were used in the southwestern United States and northern Mexico, and whether they were cultivated independently there. Although a charred seed was recovered at NAME SITE that some scientists identified as coming from _H. annuus_, others argued convincingly that the seed, which is no longer extant, may have come from a squash or a wild sunflower. Building on archeological research, genomic studies of the common sunflower have linked present-day crops and seed remains to a common ancestor, which was cultivated at an independent domestication center in eastern North America. For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by the Spanish.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
@@ -149,11 +149,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDUwNzY3NywtNTU3MDk0MTU0LDI5MT
-EzMDE1NywxNjQ3MDI2NTY1LDQ1NTg3Mjk4NiwxNDA1ODYyNTEx
-LC0xNzc5MTEyNjIxLC05ODE2NjUzNzMsMjU1MjgwMjgyLC04MD
-g3MTkxMjEsMjQyNzA4MjM5LDEwNTY4NTE5ODQsLTMwNjI5MDcx
-NCwtMTk3NjIxMTk2NywyMDQ5NzEzNDUwLDQ0MTA2MjU5NywxMz
-E5MzkwMzcsMjA0OTE5Mzk0NiwtMTA4MDY4NDc1MywtMTUyNDI0
-MTQ0OF19
+eyJoaXN0b3J5IjpbMjE0NzMwNzg0LC01NTcwOTQxNTQsMjkxMT
+MwMTU3LDE2NDcwMjY1NjUsNDU1ODcyOTg2LDE0MDU4NjI1MTEs
+LTE3NzkxMTI2MjEsLTk4MTY2NTM3MywyNTUyODAyODIsLTgwOD
+cxOTEyMSwyNDI3MDgyMzksMTA1Njg1MTk4NCwtMzA2MjkwNzE0
+LC0xOTc2MjExOTY3LDIwNDk3MTM0NTAsNDQxMDYyNTk3LDEzMT
+kzOTAzNywyMDQ5MTkzOTQ2LC0xMDgwNjg0NzUzLC0xNTI0MjQx
+NDQ4XX0=
 -->
