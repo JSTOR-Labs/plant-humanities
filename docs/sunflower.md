@@ -27,6 +27,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, title page, _Critica botanica_, 1737, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
 <param ve-entity eid="Q65027" title="Basilius Besler">
+<param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. A team of artists, etchers, printmakers, and colorists, hired by Besler, produced the hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_, a striking depiction of the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they emphasized the sunflower’s beauty rather than its medicinal properties, as in herbals. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing the sunflower that anticipates current visual stereotypes for the plant.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
@@ -148,11 +149,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjAzNjEzNzUsMjkxMTMwMTU3LDE2ND
-cwMjY1NjUsNDU1ODcyOTg2LDE0MDU4NjI1MTEsLTE3NzkxMTI2
-MjEsLTk4MTY2NTM3MywyNTUyODAyODIsLTgwODcxOTEyMSwyND
-I3MDgyMzksMTA1Njg1MTk4NCwtMzA2MjkwNzE0LC0xOTc2MjEx
-OTY3LDIwNDk3MTM0NTAsNDQxMDYyNTk3LDEzMTkzOTAzNywyMD
-Q5MTkzOTQ2LC0xMDgwNjg0NzUzLC0xNTI0MjQxNDQ4LDEyNTA1
-Mjg0MjddfQ==
+eyJoaXN0b3J5IjpbLTQ3MDUwODU3NSwyOTExMzAxNTcsMTY0Nz
+AyNjU2NSw0NTU4NzI5ODYsMTQwNTg2MjUxMSwtMTc3OTExMjYy
+MSwtOTgxNjY1MzczLDI1NTI4MDI4MiwtODA4NzE5MTIxLDI0Mj
+cwODIzOSwxMDU2ODUxOTg0LC0zMDYyOTA3MTQsLTE5NzYyMTE5
+NjcsMjA0OTcxMzQ1MCw0NDEwNjI1OTcsMTMxOTM5MDM3LDIwND
+kxOTM5NDYsLTEwODA2ODQ3NTMsLTE1MjQyNDE0NDgsMTI1MDUy
+ODQyN119
 -->
