@@ -56,7 +56,7 @@ Although the Spanish were the first to transport the domesticated sunflower over
 If accurate, Dodoens’s account charts the migration of _Helianthus annuus_ to Flanders by the mid-1560s. Still, the provenance of such sunflowers remains somewhat muddy. Whereas Dodoens gives the sunflower the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins, the word “Peru” was often used indiscriminately at the time to mean someplace in the Americas. That vague terminology was repeated in subsequent herbals, propagating a myth about the sunflower’s “Peruvian” origins. Two such examples are shown at right.
 <param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
-Dodoens’s _Florum, et Coronariarum_ participated in a transregional exchange of iconography and ideas related to the sunflower. This network visualization posits a preliminary model for studying those points of intersection among herbalists, scholars, artists, translators, plant collectors, patrons, and other figures, all of who were active in the botanical scene in Europe and the Americas. The web of interactions also shows some instances in which sunflower illustrations from one herbal were reproduced in another, raising questions about the significance of such pictures, about the relationship of images to their contexts, and about larger patterns of exchange and transformation.
+Dodoens’s _Florum, et Coronariarum_ participated in a transregional exchange of iconography and ideas related to the sunflower. This network visualization posits a preliminary model for studying those points of intersection among herbalists, scholars, artists, translators, plant collectors, patrons, and other figures, all of who were active in the botanical scene in Europe and the Americas. The web of interactions also shows some instances in which sunflower illustrations from one herbal were reproduced in another, raising questions about the significance of such pictures, about the relationship of images to their contexts, and about larger patterns of cultural exchange and knowledge production.
 <param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_v1.tsv" center="Heliconia imbricata" title="Heliconia imbricata relationships with organisms: parasitic, mutual, and neutral">
 
@@ -149,11 +149,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg4NTQ2NTYsMTAxNzAwMDk4OSwtMT
-EzMjY1ODczNSwyMTQ3MzA3ODQsLTU1NzA5NDE1NCwyOTExMzAx
-NTcsMTY0NzAyNjU2NSw0NTU4NzI5ODYsMTQwNTg2MjUxMSwtMT
-c3OTExMjYyMSwtOTgxNjY1MzczLDI1NTI4MDI4MiwtODA4NzE5
-MTIxLDI0MjcwODIzOSwxMDU2ODUxOTg0LC0zMDYyOTA3MTQsLT
-E5NzYyMTE5NjcsMjA0OTcxMzQ1MCw0NDEwNjI1OTcsMTMxOTM5
-MDM3XX0=
+eyJoaXN0b3J5IjpbMTE2NjQ3MzQ3OCwxMDE3MDAwOTg5LC0xMT
+MyNjU4NzM1LDIxNDczMDc4NCwtNTU3MDk0MTU0LDI5MTEzMDE1
+NywxNjQ3MDI2NTY1LDQ1NTg3Mjk4NiwxNDA1ODYyNTExLC0xNz
+c5MTEyNjIxLC05ODE2NjUzNzMsMjU1MjgwMjgyLC04MDg3MTkx
+MjEsMjQyNzA4MjM5LDEwNTY4NTE5ODQsLTMwNjI5MDcxNCwtMT
+k3NjIxMTk2NywyMDQ5NzEzNDUwLDQ0MTA2MjU5NywxMzE5Mzkw
+MzddfQ==
 -->
