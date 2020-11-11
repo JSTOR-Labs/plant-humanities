@@ -76,7 +76,7 @@ _The Sunflower_, 1866-1870, photograph, National Gallery of Art">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
 Having dispelled several cultural myths about the sunflower, we now turn to another. It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena, publishing their exciting findings in 2016.Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Widespread coverage of those findings by the media no doubt generated new excitement about the plant in recent years.
-<param ve-video title="Heliconia bihai 'Arawak' - (Lobster Claw), Herbarium Werdler" vid="pYiYzb1K450">
+<param ve-video title="Heliconia bihai 'Arawak' - (Lobster Claw), Herbarium Werdler" vid="rjwd4DErj_M?t=18">
 
 ### Out of One, Many
 
@@ -146,11 +146,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjc4NTI2NSwtMTg1Mzg3MzQ2NCwtMT
-gyMzg2NTE3LC0xNDEzODI2NDUzLDk3NTc0MTkwNSwxNTA4NTE5
-NTcyLC0yOTc0NzEzNDEsLTEzNDIxMTAwNCw5NTA2MzU5MzIsMj
-EzOTU3MDg3NywxNDM1NTc5MTk2LDExNjY0NzM0NzgsMTAxNzAw
-MDk4OSwtMTEzMjY1ODczNSwyMTQ3MzA3ODQsLTU1NzA5NDE1NC
-wyOTExMzAxNTcsMTY0NzAyNjU2NSw0NTU4NzI5ODYsMTQwNTg2
-MjUxMV19
+eyJoaXN0b3J5IjpbLTc1NzMxMzY0MCwxMTIyNzg1MjY1LC0xOD
+UzODczNDY0LC0xODIzODY1MTcsLTE0MTM4MjY0NTMsOTc1NzQx
+OTA1LDE1MDg1MTk1NzIsLTI5NzQ3MTM0MSwtMTM0MjExMDA0LD
+k1MDYzNTkzMiwyMTM5NTcwODc3LDE0MzU1NzkxOTYsMTE2NjQ3
+MzQ3OCwxMDE3MDAwOTg5LC0xMTMyNjU4NzM1LDIxNDczMDc4NC
+wtNTU3MDk0MTU0LDI5MTEzMDE1NywxNjQ3MDI2NTY1LDQ1NTg3
+Mjk4Nl19
 -->
