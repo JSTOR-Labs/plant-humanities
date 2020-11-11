@@ -42,7 +42,7 @@ There is some debate about when domesticated sunflowers were used in the southwe
 
 <param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
 <param ve-entity eid="Q437466" title="Rembert Dodoens"> 
-Although we know that the Spanish were the first people to transport the domesticated sunflower across the Atlantic Ocean, questions persist about when and from where in the Americas they collected such plants or seeds. One hypothesis is that Hernando de Soto, who traveled to the southeastern United States, between 1539 and 1543, was the first person to introduce the plant to Europe. In the absence of surviving specimens, we can use visual and verbal accounts of the sunflower to map its introduction to Spain and other parts of Europe. Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of the sunflower by a European. Monardes wrote that description based on his observations of plants grown in his botanical garden in Seville. The spread of the sunflower to Flanders via transregional botanical networks is evidenced in the pages of Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568): the first book to feature an illustration of the plant. 
+Although the Spanish were probably the first to transport the domesticated sunflower overseas to Europe, questions persist about who first collected such plants or seeds, and when and from where they did so. In the absence of surviving specimens, visual and verbal representation of the sunflower help us to chart its movement to Spain and parts of Europe. Nicolas Monardes’s herbal _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, authored the text based on plants grown in his botanical garden in Seville. The arrival of the sunflower to Flanders via transregional trade networks is evidenced by Rembert Dodoens’s herbal _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568): the first book to feature an illustration of the plant. 
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 ### "Peruvian" Origins and Mythic Encounters
@@ -157,11 +157,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Njc1NzgzNSwtMTA4MDY4NDc1MywtMT
-UyNDI0MTQ0OCwxMjUwNTI4NDI3LDEyODQ2MjEwMTksLTE5ODEz
-MTE3NzMsLTQwMzE2NDMyOSwtMTE2NzUxOTA0MywtNTYzNzI3MD
-M2LC0xMDczNDAxOTExLC0yOTE0NzgzMzgsMTkxODc2MTYyNiw3
-NjA3MDY4MDQsNjgyNTIxMDksLTUwOTE5MjE2Nyw0NDAxNzYwMD
-QsMTI4MjMxNTgwMyw1MzA1NDQxNTMsLTE3NjMzMjk3MzksLTQx
-ODI1MzY4MF19
+eyJoaXN0b3J5IjpbOTQxNTU4Nzc5LC0xMDgwNjg0NzUzLC0xNT
+I0MjQxNDQ4LDEyNTA1Mjg0MjcsMTI4NDYyMTAxOSwtMTk4MTMx
+MTc3MywtNDAzMTY0MzI5LC0xMTY3NTE5MDQzLC01NjM3MjcwMz
+YsLTEwNzM0MDE5MTEsLTI5MTQ3ODMzOCwxOTE4NzYxNjI2LDc2
+MDcwNjgwNCw2ODI1MjEwOSwtNTA5MTkyMTY3LDQ0MDE3NjAwNC
+wxMjgyMzE1ODAzLDUzMDU0NDE1MywtMTc2MzMyOTczOSwtNDE4
+MjUzNjgwXX0=
 -->
