@@ -53,7 +53,7 @@ Although the Spanish were the first to transport the domesticated sunflower over
 
 If accurate, Dodoens’s account charts the migration of _Helianthus annuus_ to Flanders by the mid-1560s. Still, the provenance of such sunflowers remains somewhat muddy. Whereas Dodoens gives the sunflower the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins, the word “Peru” was often used indiscriminately at the time to mean someplace in the Americas. That vague terminology was repeated in subsequent herbals, propagating a myth about the sunflower’s “Peruvian” origins. A good case in point is this illustration of _Chrysanthemum Peruvianum_ from John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), an English-language translation of Dodoens's text.
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
-<param ve-entity eid="Q950531" aliases="Nicolas Monardes" title="Nicolás Monardes"> 
+<param ve-entity eid="Q1333338" title="John Gerard"> 
 
 Dodoens’s _Florum, et Coronariarum_ participated in a transregional exchange of iconography and ideas related to the sunflower. This network visualization posits a preliminary model for studying those points of intersection among herbalists, scholars, artists, translators, plant collectors, patrons, and other figures, all of who were active in the botanical scene in Europe and the Americas. The web of interactions also shows some instances in which sunflower illustrations from one herbal were reproduced in another, raising questions about the significance of such pictures, about the relationship of images to their contexts, and about larger patterns of cultural exchange and knowledge production.
 <param ve-d3plus-ring-network 
@@ -147,7 +147,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzA4MTI5MSwtMTUxODc1MSwxNzg3Nz
+eyJoaXN0b3J5IjpbMTI2NDg0OTEzNywtMTUxODc1MSwxNzg3Nz
 gwMjQ2LC0zMjIxNTE2NzUsMTc3ODYwODAxLC03NTczMTM2NDAs
 MTEyMjc4NTI2NSwtMTg1Mzg3MzQ2NCwtMTgyMzg2NTE3LC0xND
 EzODI2NDUzLDk3NTc0MTkwNSwxNTA4NTE5NTcyLC0yOTc0NzEz
