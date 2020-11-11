@@ -69,7 +69,7 @@ This network visualization offers a preliminary model for studying the transregi
 
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-image iiif primary fit="contain" url="https://ia800805.us.archive.org/BookReader/BookReaderImages.php?id=novaplantarumani00hern&itemPath=%2F5%2Fitems%2Fnovaplantarumani00hern&server=ia800805.us.archive.org&page=n245_w820" title="Hernández, Francisco, _Nova plantarum, animalium et mineralium Mexicanorum historia_, 1651, John Carter Brown Library">
-The migration of sunflower iconography is evidenced in Francisco Hernández’s _Nova plantarum, animalium et mineralium Mexicanorum historia_ (1651). The book describes plants and other natural resources that Hernández encountered during a 1570s expedition to Mexico. It contains two illustrations of sunflowers, which were borrowed from European sources. The upper one was likely adapted from the sunflower portrait made under Besler’s direction for inclusion _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613), a catalog of the exotic flowers grown in Prince Bishop of Eichstätt’s garden in Bavaria. The lower one resembles an illustration published in a 1619 French-language translation of an herbal by Monardi. These borrowing prompted the botanist Charles B. Heiser to ask the following: Why would the artists who created those illustrations for Hernández’s report copy old sources instead of working from drawings of local plants? According to Heiser, they did so for _Helianthus annuus_ because the species was not established in Mexico at the time of Hernández visit, though the explorer would have known it through connections in Europe.
+The migration of sunflower iconography is evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_ (1651). The book describes plants and other natural resources that Hernández encountered during a 1570s expedition to Mexico. It contains two illustrations of sunflowers, which were borrowed from European sources. The upper one was likely adapted from the sunflower portrait made under Besler’s direction for inclusion _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613), a catalog of the exotic flowers grown in Prince Bishop of Eichstätt’s garden in Bavaria. The lower one resembles an illustration published in a 1619 French-language translation of an herbal by Monardi. These borrowing prompted the botanist Charles B. Heiser to ask the following: Why would the artists who created those illustrations for Hernández’s report copy old sources instead of working from drawings of local plants? According to Heiser, they did so for _Helianthus annuus_ because the species was not established in Mexico at the time of Hernández visit, though the explorer would have known it through connections in Europe.
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
 
@@ -164,11 +164,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQwNTgxMDIsLTEwODA2ODQ3NTMsLT
-E1MjQyNDE0NDgsMTI1MDUyODQyNywxMjg0NjIxMDE5LC0xOTgx
-MzExNzczLC00MDMxNjQzMjksLTExNjc1MTkwNDMsLTU2MzcyNz
-AzNiwtMTA3MzQwMTkxMSwtMjkxNDc4MzM4LDE5MTg3NjE2MjYs
-NzYwNzA2ODA0LDY4MjUyMTA5LC01MDkxOTIxNjcsNDQwMTc2MD
-A0LDEyODIzMTU4MDMsNTMwNTQ0MTUzLC0xNzYzMzI5NzM5LC00
-MTgyNTM2ODBdfQ==
+eyJoaXN0b3J5IjpbMjA0OTE5Mzk0NiwtMTA4MDY4NDc1MywtMT
+UyNDI0MTQ0OCwxMjUwNTI4NDI3LDEyODQ2MjEwMTksLTE5ODEz
+MTE3NzMsLTQwMzE2NDMyOSwtMTE2NzUxOTA0MywtNTYzNzI3MD
+M2LC0xMDczNDAxOTExLC0yOTE0NzgzMzgsMTkxODc2MTYyNiw3
+NjA3MDY4MDQsNjgyNTIxMDksLTUwOTE5MjE2Nyw0NDAxNzYwMD
+QsMTI4MjMxNTgwMyw1MzA1NDQxNTMsLTE3NjMzMjk3MzksLTQx
+ODI1MzY4MF19
 -->
