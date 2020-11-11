@@ -54,7 +54,8 @@ Visual and verbal representations of the sunflower chart not only the transocean
 <param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
 This network visualization offers a preliminary model for studying the transregional exchange of iconography and ideas related to the sunflower. It shows the interconnectedness of botanists, scholars, artists, translators, plant connoisseurs, patrons, and other figures who were active in the botanical realm in Europe and the Americas between the mid-1500s and the mid-1660s. This web of interactions also illuminates some instances in which sunflower iconography migrated from one herbal to another, raising questions about the meanings of such pictures, about the relationship of images, text, and plants, and about larger patterns of exchange.
-<param ve-d3plus-network url="https://jstor-labs.github.io/ve-components/public/data/medici.tsv">
+<param ve-d3plus-ring-network 
+       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_v1.tsv" center="Heliconia imbricata" title="Heliconia imbricata relationships with organisms: parasitic, mutual, and neutral">
 
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-image iiif primary fit="contain" url="https://ia800805.us.archive.org/BookReader/BookReaderImages.php?id=novaplantarumani00hern&itemPath=%2F5%2Fitems%2Fnovaplantarumani00hern&server=ia800805.us.archive.org&page=n245_w820" title="Hernández, Francisco, _Nova plantarum, animalium et mineralium Mexicanorum historia_, 1651, John Carter Brown Library">
@@ -154,11 +155,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxMDYyNTk3LDEzMTkzOTAzNywyMDQ5MT
-kzOTQ2LC0xMDgwNjg0NzUzLC0xNTI0MjQxNDQ4LDEyNTA1Mjg0
-MjcsMTI4NDYyMTAxOSwtMTk4MTMxMTc3MywtNDAzMTY0MzI5LC
-0xMTY3NTE5MDQzLC01NjM3MjcwMzYsLTEwNzM0MDE5MTEsLTI5
-MTQ3ODMzOCwxOTE4NzYxNjI2LDc2MDcwNjgwNCw2ODI1MjEwOS
-wtNTA5MTkyMTY3LDQ0MDE3NjAwNCwxMjgyMzE1ODAzLDUzMDU0
-NDE1M119
+eyJoaXN0b3J5IjpbMjA0OTcxMzQ1MCw0NDEwNjI1OTcsMTMxOT
+M5MDM3LDIwNDkxOTM5NDYsLTEwODA2ODQ3NTMsLTE1MjQyNDE0
+NDgsMTI1MDUyODQyNywxMjg0NjIxMDE5LC0xOTgxMzExNzczLC
+00MDMxNjQzMjksLTExNjc1MTkwNDMsLTU2MzcyNzAzNiwtMTA3
+MzQwMTkxMSwtMjkxNDc4MzM4LDE5MTg3NjE2MjYsNzYwNzA2OD
+A0LDY4MjUyMTA5LC01MDkxOTIxNjcsNDQwMTc2MDA0LDEyODIz
+MTU4MDNdfQ==
 -->
