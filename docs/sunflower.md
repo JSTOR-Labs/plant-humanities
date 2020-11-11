@@ -122,9 +122,9 @@ Still life paintings provide another rich source of evidence regarding plant div
 
 ### Floral Cyphers: Portrayals of Gender, Sexual Identity, Race, and Class
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
 Aesthetic Movement (Britain); Gender; whiteness Walter Satterlee _[The Decorative Sisters](https://hdl.handle.net/2027/loc.ark:/13960/t84j1d31x)_
 <param ve-image primary fit="contain" url="https://images.nypl.org/index.php?id=488090&t=w" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
-<param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/dp/original/DPB882889.jpg" title="_Sunflower: Haughtiness_, from the series _Floral Beauties and Language of Flowers_ (N75) for Duke brand cigarettes, 1892, The Metropolitan Museum of Art, New York, The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick">
 
 <param ve-entity eid="Q30875" title="Oscar Wilde">
 Popularized motif in decoration of designed objects for everyday use. These objects often used in the home, a feminine domain, become associated with gender. Sunflower is forced on Oscar Wilde.
@@ -146,11 +146,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDIxMTM2NSwtMTgyMzg2NTE3LC0xND
-EzODI2NDUzLDk3NTc0MTkwNSwxNTA4NTE5NTcyLC0yOTc0NzEz
-NDEsLTEzNDIxMTAwNCw5NTA2MzU5MzIsMjEzOTU3MDg3NywxND
-M1NTc5MTk2LDExNjY0NzM0NzgsMTAxNzAwMDk4OSwtMTEzMjY1
-ODczNSwyMTQ3MzA3ODQsLTU1NzA5NDE1NCwyOTExMzAxNTcsMT
-Y0NzAyNjU2NSw0NTU4NzI5ODYsMTQwNTg2MjUxMSwtMTc3OTEx
-MjYyMV19
+eyJoaXN0b3J5IjpbLTE4NTM4NzM0NjQsLTE4MjM4NjUxNywtMT
+QxMzgyNjQ1Myw5NzU3NDE5MDUsMTUwODUxOTU3MiwtMjk3NDcx
+MzQxLC0xMzQyMTEwMDQsOTUwNjM1OTMyLDIxMzk1NzA4NzcsMT
+QzNTU3OTE5NiwxMTY2NDczNDc4LDEwMTcwMDA5ODksLTExMzI2
+NTg3MzUsMjE0NzMwNzg0LC01NTcwOTQxNTQsMjkxMTMwMTU3LD
+E2NDcwMjY1NjUsNDU1ODcyOTg2LDE0MDU4NjI1MTEsLTE3Nzkx
+MTI2MjFdfQ==
 -->
