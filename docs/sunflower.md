@@ -16,7 +16,7 @@ Indeed, _Helianthus annuus_ can grow freestanding up to sixteen feet tall—a tr
 <param ve-entity eid="Q38571" title="greyhound">
 <param ve-entity eid="Q38571" title="greyhound">
 
-This visual narrative clarifies how certain pictures of the sunflower provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have contributed to the formation of a visual stereotype for the sunflower that has elided species differences and perpetuated cultural myths.
+This visual narrative clarifies how certain pictures of the sunflower provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have contributed to the formation of a visual stereotype for the sunflower that have elided species differences and perpetuated cultural myths.
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 ### Naming and Representing the Iconic Flower
@@ -151,11 +151,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTQyNjUzMSw5NzU3NDE5MDUsMTUwOD
-UxOTU3MiwtMjk3NDcxMzQxLC0xMzQyMTEwMDQsOTUwNjM1OTMy
-LDIxMzk1NzA4NzcsMTQzNTU3OTE5NiwxMTY2NDczNDc4LDEwMT
-cwMDA5ODksLTExMzI2NTg3MzUsMjE0NzMwNzg0LC01NTcwOTQx
-NTQsMjkxMTMwMTU3LDE2NDcwMjY1NjUsNDU1ODcyOTg2LDE0MD
-U4NjI1MTEsLTE3NzkxMTI2MjEsLTk4MTY2NTM3MywyNTUyODAy
-ODJdfQ==
+eyJoaXN0b3J5IjpbLTE0MTM4MjY0NTMsOTc1NzQxOTA1LDE1MD
+g1MTk1NzIsLTI5NzQ3MTM0MSwtMTM0MjExMDA0LDk1MDYzNTkz
+MiwyMTM5NTcwODc3LDE0MzU1NzkxOTYsMTE2NjQ3MzQ3OCwxMD
+E3MDAwOTg5LC0xMTMyNjU4NzM1LDIxNDczMDc4NCwtNTU3MDk0
+MTU0LDI5MTEzMDE1NywxNjQ3MDI2NTY1LDQ1NTg3Mjk4NiwxND
+A1ODYyNTExLC0xNzc5MTEyNjIxLC05ODE2NjUzNzMsMjU1Mjgw
+MjgyXX0=
 -->
