@@ -50,8 +50,11 @@ Although the Spanish were the first to transport the domesticated sunflower over
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
-Visual and verbal representations of the sunflower chart not only the transoceanic movement of plants, but also the transregional exchange of iconography and ideas pertaining to them. That is true of the sunflower pictured in Dodoens’s _Florum, et Coronariarum_, shown at right. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ planted in soil as the artist may have encountered it displayed in a garden. Indeed, Dodoens’s description identifies a private garden, in Mechlin, as the place shown in the picture:  "They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio . . . . You may seek it in vain elsewhere, only to find it in his garden." Dodoens’s account, if accurate, charts sunflower migration to Flanders by the mid-1560s. However, the provenance of such plants remains muddy. Whereas Dodoens gives the sunflower the name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins, the word “Peru” was often used indiscriminately during the period to mean someplace in the Americas. That misinformation was repeated in subsequent books, propagating a myth about the sunflower’s “Peruvian” origins.
-<param ve-image fit="contain" primary url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
+ Visual and verbal representations of the cultivated sunflower chart not only the transoceanic movement of the plant, but also the transregional exchange of iconography and ideas pertaining to it. That is true of the sunflower pictured in Dodoens’s _Florum, et Coronariarum_, at right. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ planted in soil as the artist may have encountered it displayed in a garden. Indeed, Dodoens’s description identifies a private garden, in Mechlin, as the place shown in the picture: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.”
+<param ve-image fit="contain"url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
+
+
+Dodoens’s account, if accurate, charts sunflower migration to Flanders by the mid-1560s. However, the provenance of such plants remains muddy. Whereas Dodoens gives the sunflower the name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins, the word “Peru” was often used indiscriminately during the period to mean someplace in the Americas. That misinformation was repeated in subsequent books, propagating a myth about the sunflower’s “Peruvian” origins.
 
 This network visualization offers a preliminary model for studying the transregional exchange of iconography and ideas related to the sunflower. It shows the interconnectedness of botanists, scholars, artists, translators, plant connoisseurs, patrons, and other figures who were active in the botanical realm in Europe and the Americas between the mid-1500s and the mid-1660s. This web of interactions also illuminates some instances in which sunflower iconography migrated from one herbal to another, raising questions about the meanings of such pictures, about the relationship of images, text, and plants, and about larger patterns of exchange.
 <param ve-d3plus-ring-network 
@@ -155,11 +158,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyNTI0MTAzLC0zMDYyOTA3MTQsLTE5Nz
-YyMTE5NjcsMjA0OTcxMzQ1MCw0NDEwNjI1OTcsMTMxOTM5MDM3
-LDIwNDkxOTM5NDYsLTEwODA2ODQ3NTMsLTE1MjQyNDE0NDgsMT
-I1MDUyODQyNywxMjg0NjIxMDE5LC0xOTgxMzExNzczLC00MDMx
-NjQzMjksLTExNjc1MTkwNDMsLTU2MzcyNzAzNiwtMTA3MzQwMT
-kxMSwtMjkxNDc4MzM4LDE5MTg3NjE2MjYsNzYwNzA2ODA0LDY4
-MjUyMTA5XX0=
+eyJoaXN0b3J5IjpbLTg5MDAwNzI3NSwtMzA2MjkwNzE0LC0xOT
+c2MjExOTY3LDIwNDk3MTM0NTAsNDQxMDYyNTk3LDEzMTkzOTAz
+NywyMDQ5MTkzOTQ2LC0xMDgwNjg0NzUzLC0xNTI0MjQxNDQ4LD
+EyNTA1Mjg0MjcsMTI4NDYyMTAxOSwtMTk4MTMxMTc3MywtNDAz
+MTY0MzI5LC0xMTY3NTE5MDQzLC01NjM3MjcwMzYsLTEwNzM0MD
+E5MTEsLTI5MTQ3ODMzOCwxOTE4NzYxNjI2LDc2MDcwNjgwNCw2
+ODI1MjEwOV19
 -->
