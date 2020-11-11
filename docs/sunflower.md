@@ -34,7 +34,7 @@ Although Linnaeus gave _Helianthus_ and _H. annuus_ their official botanical nam
 
 ### Range and Cultivation
 
-The history of _Helianthus annuus_ is enmeshed with mobility. We can chart that movement by using maps to study the locations associated with visual representations, fossilized plant remains, and other forms of evidence. The earliest known sunflower remains—charred seeds—tell us that humans used _Helianthus_ _annuus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later by humans. That movement of seeds and plant materials was essential to the evolution of _H. annuus_, a cultigen with genes that were adapted through human selection to express favorable traits.
+The history of _Helianthus annuus_ is enmeshed with mobility. We can chart that movement by using maps to study the locations associated with visual representations, fossilized plant remains, and other forms of evidence. The earliest known sunflower remains—charred seeds—tell us that humans used _Helianthus_ _annuus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later by humans. That movement of seeds and plant materials was essential to the evolution of _H. annuus_ through a process of human selection.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 There is some debate about when domesticated sunflowers were used in southwestern North America and Mexico. Although charred seed remains thought to be from _H. annuus_ have been recovered from those areas, it is possible that the seeds actually came from squash or wild sunflowers. Linguistic evidence, however, suggests that _H. annuus_ was established in the Aztec Empire prior to the arrival of the Spanish. Indeed, the Aztecs had several Nahuatl words (“X” and “Y”) for the cultivated sunflower that bear no relation to the Spanish “X.” Still, the presence of _H. annuus_ in the Aztec Empire does not tell us whether it was cultivated independently in Mexico or brought there via trade networks. To answer that question, scientists conducted genomic studies of _H. annuus_ crops from Mexico, and they found that all modern _H. annuus_ share a common ancestor that can be traced to a domestication center in eastern North America.
@@ -157,11 +157,11 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA2ODQ3NTMsLTE1MjQyNDE0NDgsMT
-I1MDUyODQyNywxMjg0NjIxMDE5LC0xOTgxMzExNzczLC00MDMx
-NjQzMjksLTExNjc1MTkwNDMsLTU2MzcyNzAzNiwtMTA3MzQwMT
-kxMSwtMjkxNDc4MzM4LDE5MTg3NjE2MjYsNzYwNzA2ODA0LDY4
-MjUyMTA5LC01MDkxOTIxNjcsNDQwMTc2MDA0LDEyODIzMTU4MD
-MsNTMwNTQ0MTUzLC0xNzYzMzI5NzM5LC00MTgyNTM2ODAsNTMw
-NTQ0MTUzXX0=
+eyJoaXN0b3J5IjpbLTcxMTcyMzEwNSwtMTA4MDY4NDc1MywtMT
+UyNDI0MTQ0OCwxMjUwNTI4NDI3LDEyODQ2MjEwMTksLTE5ODEz
+MTE3NzMsLTQwMzE2NDMyOSwtMTE2NzUxOTA0MywtNTYzNzI3MD
+M2LC0xMDczNDAxOTExLC0yOTE0NzgzMzgsMTkxODc2MTYyNiw3
+NjA3MDY4MDQsNjgyNTIxMDksLTUwOTE5MjE2Nyw0NDAxNzYwMD
+QsMTI4MjMxNTgwMyw1MzA1NDQxNTMsLTE3NjMzMjk3MzksLTQx
+ODI1MzY4MF19
 -->
