@@ -41,7 +41,7 @@ There is some debate about when domesticated sunflowers were used in the southwe
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 
-Although the Spanish were probably the first to transport the domesticated sunflower overseas to Europe, questions persist about who first collected such plants or seeds, and when and from where they did so. Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. Their practices of "collecting" natural resources, known today as extractive colonialism, often involved violent confrontations with indigenous inbaitants In the absence of surviving specimens, visual and verbal representation of the sunflower help us to chart its movement to Spain and to other parts of Europe. Nicolas Monardes’s herbal _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Seville. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of a sunflower—celebrates the arrival of the cultivated sunflower in Flanders.
+Although the Spanish were probably the first to transport the domesticated sunflower overseas to Europe, questions persist about who first collected such plants or seeds, and when and from where they did so. Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. Their practices of "collecting" natural resources, known today as extractive colonialism, often involved violent confrontations with indigenous inhabitants whose perspectives have not been well represented in historical accounts of the period. In the absence of surviving specimens, visual and verbal representation of the sunflower help us to chart its movement to Spain and to other parts of Europe. Nicolas Monardes’s herbal _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Seville. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of a sunflower—celebrates the arrival of the cultivated sunflower in Flanders.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 ### "Peruvian" Origins and Mythic Encounters
@@ -146,11 +146,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTU4MDkzNSw2OTExNDU5MSwtMTUxOD
-c1MSwxNzg3NzgwMjQ2LC0zMjIxNTE2NzUsMTc3ODYwODAxLC03
-NTczMTM2NDAsMTEyMjc4NTI2NSwtMTg1Mzg3MzQ2NCwtMTgyMz
-g2NTE3LC0xNDEzODI2NDUzLDk3NTc0MTkwNSwxNTA4NTE5NTcy
-LC0yOTc0NzEzNDEsLTEzNDIxMTAwNCw5NTA2MzU5MzIsMjEzOT
-U3MDg3NywxNDM1NTc5MTk2LDExNjY0NzM0NzgsMTAxNzAwMDk4
-OV19
+eyJoaXN0b3J5IjpbLTE3Mjg3MzY1ODgsNjkxMTQ1OTEsLTE1MT
+g3NTEsMTc4Nzc4MDI0NiwtMzIyMTUxNjc1LDE3Nzg2MDgwMSwt
+NzU3MzEzNjQwLDExMjI3ODUyNjUsLTE4NTM4NzM0NjQsLTE4Mj
+M4NjUxNywtMTQxMzgyNjQ1Myw5NzU3NDE5MDUsMTUwODUxOTU3
+MiwtMjk3NDcxMzQxLC0xMzQyMTEwMDQsOTUwNjM1OTMyLDIxMz
+k1NzA4NzcsMTQzNTU3OTE5NiwxMTY2NDczNDc4LDEwMTcwMDA5
+ODldfQ==
 -->
