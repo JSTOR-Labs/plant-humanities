@@ -84,7 +84,7 @@ Having dispelled several cultural myths about the sunflower, we now turn to anot
 <param ve-video title="_Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits_, Hagop S. Atamian, Nicky M. Creux, Evan A. Brown, Austin G. Garner, Benjamin K. Blackman, Stacey L. Harmer, DOI: 10.1126/science.aaf9793" vid="rjwd4DErj_M?t=18">
 
 These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. The findings generated a media buzz!
-
+<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/7/74/Sunflower_with_bees_%28284583050%29.jpg" title=">
 
 ### Out of One, Many
 
@@ -154,11 +154,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjQzOTU4MCwtMTE2MjE0NTAzNCwtMT
-g2NzM5NTM4Myw3OTUwNjc5MDUsOTI4MjI2MDQ1LC0yMDc5OTM1
-OTUsMTg3NjM3NTMxNCwxODI3NzU5NjM4LDE0MDk0MDE2MzgsLT
-E4Nzk1MjEyMDYsNTQ0MjkyMTI4LDIwMDM5Njk2NTksMTAxNjc3
-MzM2NiwtMTcyODczNjU4OCw2OTExNDU5MSwtMTUxODc1MSwxNz
-g3NzgwMjQ2LC0zMjIxNTE2NzUsMTc3ODYwODAxLC03NTczMTM2
-NDBdfQ==
+eyJoaXN0b3J5IjpbLTIxNDQwMDE3MjUsLTExNjIxNDUwMzQsLT
+E4NjczOTUzODMsNzk1MDY3OTA1LDkyODIyNjA0NSwtMjA3OTkz
+NTk1LDE4NzYzNzUzMTQsMTgyNzc1OTYzOCwxNDA5NDAxNjM4LC
+0xODc5NTIxMjA2LDU0NDI5MjEyOCwyMDAzOTY5NjU5LDEwMTY3
+NzMzNjYsLTE3Mjg3MzY1ODgsNjkxMTQ1OTEsLTE1MTg3NTEsMT
+c4Nzc4MDI0NiwtMzIyMTUxNjc1LDE3Nzg2MDgwMSwtNzU3MzEz
+NjQwXX0=
 -->
