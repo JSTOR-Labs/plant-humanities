@@ -49,7 +49,7 @@ Although the Spanish were probably the first to transport the domesticated sunfl
  Visual and verbal representations of the cultivated sunflower chart not only the transoceanic movement of the plant, but also the transregional exchange of iconography and ideas pertaining to it. That is true of the sunflower pictured in Dodoens’s _Florum, et Coronariarum_, at right. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ plant growing in soil as the artist may have encountered it in a garden. Indeed, Dodoens’s description identifies a private garden, in Mechlin, as the place shown in the picture: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.” Dodoens here establishes that the flower was not just beautiful to behold but also a foreign luxury good that conferred status upon its owner.
 <param ve-image fit="contain" url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
-Although Dodoens’s account charts the migration of _Helianthus annuus_ to Flanders by the mid-1560s, the provenance of such sunflowers remains somewhat muddy. Whereas Dodoens gives the sunflower the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins, the word “Peru” was often used indiscriminately at the time to mean someplace in the Americas. There is no archaeological evidence to suggest that H. annuus was present in pre-Columbian Peru. Still, that vague terminology was repeated in subsequent herbals, propagating a myth about the sunflower’s “Peruvian” origins. A good case in point is this illustration of _Chrysanthemum Peruvianum_ from John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), an English-language translation of Dodoens's text.
+Although Dodoens’s account charts the migration of _Helianthus annuus_ to Flanders by the mid-1560s, the provenance of such sunflowers remains somewhat muddy. Dodoens gives the sunflower the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins. However, the word “Peru” was often used indiscriminately at the time to mean someplace in the Americas, and there is no archaeological evidence to suggest that _H. annuus_ was present in pre-Columbian Peru. Yet, that vague terminology was repeated in subsequent herbals, propagating a myth about the sunflower’s “Peruvian” origins. A good case in point is this illustration of _Chrysanthemum Peruvianum_ from John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), an English-language translation of Dodoens's text.
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q1333338" title="John Gerard"> 
 
@@ -145,11 +145,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg2MTI4NDAsMjAwMzk2OTY1OSwxMD
-E2NzczMzY2LC0xNzI4NzM2NTg4LDY5MTE0NTkxLC0xNTE4NzUx
-LDE3ODc3ODAyNDYsLTMyMjE1MTY3NSwxNzc4NjA4MDEsLTc1Nz
-MxMzY0MCwxMTIyNzg1MjY1LC0xODUzODczNDY0LC0xODIzODY1
-MTcsLTE0MTM4MjY0NTMsOTc1NzQxOTA1LDE1MDg1MTk1NzIsLT
-I5NzQ3MTM0MSwtMTM0MjExMDA0LDk1MDYzNTkzMiwyMTM5NTcw
-ODc3XX0=
+eyJoaXN0b3J5IjpbNTQ0MjkyMTI4LDIwMDM5Njk2NTksMTAxNj
+c3MzM2NiwtMTcyODczNjU4OCw2OTExNDU5MSwtMTUxODc1MSwx
+Nzg3NzgwMjQ2LC0zMjIxNTE2NzUsMTc3ODYwODAxLC03NTczMT
+M2NDAsMTEyMjc4NTI2NSwtMTg1Mzg3MzQ2NCwtMTgyMzg2NTE3
+LC0xNDEzODI2NDUzLDk3NTc0MTkwNSwxNTA4NTE5NTcyLC0yOT
+c0NzEzNDEsLTEzNDIxMTAwNCw5NTA2MzU5MzIsMjEzOTU3MDg3
+N119
 -->
