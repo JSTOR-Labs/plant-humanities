@@ -75,7 +75,7 @@ _The Sunflower_, 1866-1870, photograph, National Gallery of Art">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
 Having dispelled several cultural myths about the sunflower, we now turn to another. It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena, publishing their exciting findings in 2016.Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Widespread coverage of those findings by the media no doubt generated new excitement about the plant in recent years.
-<param ve-video title="Heliconia bihai 'Arawak' - (Lobster Claw), Herbarium Werdler" vid="rjwd4DErj_M?t=18">
+<param ve-video title="_Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits_, Hagop S. Atamian, Nicky M. Creux, Evan A. Brown, Austin G. Garner, Benjamin K. Blackman, Stacey L. Harmer Science DOI: 10.1126/science.aaf9793" vid="rjwd4DErj_M?t=18">
 
 ### Out of One, Many
 
@@ -145,11 +145,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzk5MzU5NSwxODc2Mzc1MzE0LDE4Mj
-c3NTk2MzgsMTQwOTQwMTYzOCwtMTg3OTUyMTIwNiw1NDQyOTIx
-MjgsMjAwMzk2OTY1OSwxMDE2NzczMzY2LC0xNzI4NzM2NTg4LD
-Y5MTE0NTkxLC0xNTE4NzUxLDE3ODc3ODAyNDYsLTMyMjE1MTY3
-NSwxNzc4NjA4MDEsLTc1NzMxMzY0MCwxMTIyNzg1MjY1LC0xOD
-UzODczNDY0LC0xODIzODY1MTcsLTE0MTM4MjY0NTMsOTc1NzQx
-OTA1XX0=
+eyJoaXN0b3J5IjpbMTQ5MDAzNTk2MywtMjA3OTkzNTk1LDE4Nz
+YzNzUzMTQsMTgyNzc1OTYzOCwxNDA5NDAxNjM4LC0xODc5NTIx
+MjA2LDU0NDI5MjEyOCwyMDAzOTY5NjU5LDEwMTY3NzMzNjYsLT
+E3Mjg3MzY1ODgsNjkxMTQ1OTEsLTE1MTg3NTEsMTc4Nzc4MDI0
+NiwtMzIyMTUxNjc1LDE3Nzg2MDgwMSwtNzU3MzEzNjQwLDExMj
+I3ODUyNjUsLTE4NTM4NzM0NjQsLTE4MjM4NjUxNywtMTQxMzgy
+NjQ1M119
 -->
