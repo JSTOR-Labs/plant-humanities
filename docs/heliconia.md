@@ -89,7 +89,7 @@ The close relationship between heliconias and their pollinators highlights the v
 <param ve-entity eid="Q181916" title="herbarium">
 Botany has always been a highly visual science, and our understanding of plants depends partly on the ways in which we have chosen to represent them. One of the conventions of both the botanical portrait and the scientific illustration alike is the rendering of the singular plant removed from its natural context and portrayed against a neutral background. Similarly, the herbarium sheet removes the plant from its ecosystem, rendering it suitable for transportation, archiving, and future reference and comparison in museums, but divorcing the specimen from its web of interactions and relationships. We know that plants do not exist in isolation; they inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction. Botanists are therefore using the conventional forms of plant representation, such as herbarium specimens, to understand more about natural habitats of the species and repurposing them to determine effective strategies for their conservation.
 <param ve-d3plus-ring-network 
-       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_v1.tsv" center="Heliconia imbricata" title="Heliconia imbricata relationships with organisms: parasitic, mutual, and neutral">
+       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_v3.tsv" center="Heliconia imbricata">
 
 ### Conserving the Diversity of Heliconia
 
@@ -99,14 +99,11 @@ Botany has always been a highly visual science, and our understanding of plants 
 <param ve-map-layer geojson active title="Bihai" url="data/heliconia-bihai.tsv" radius="4.5" fill="#009900"> 
 A full assessment of the conservation status of each known species of _Heliconia_ is currently being conducted by John Kress, Gary Krupnick, and Serenity Montaño at the Smithsonian. Using information from specimens collected over the last two hundred years and maintained in herbaria around the world, such as the United States National Herbarium at the Smithsonian Institution, they are using both the [IUCN Red List](https://www.iucnredlist.org/search?query=Heliconia&searchType=species) Criteria method of assessment and a second rapid assessment method to determine the conservation status of each species. Geospatial Conservation Assessment (GeoCat) maps and Red List descriptions of the conservation status of 185 species are being produced. For example, data from over 200 herbarium specimens found in 20 institutions suggest that _[Heliconia bihai](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:796925-1)_ from the <span data-click-map-flyto="18.005438, -66.612474,5.8">Caribbean</span> and <span data-click-map-flyto="1.069952, -60.720456, 4.6">northern South America</span> is of “Least Concern” for conservation (see GeoCat map and Red List assessment).  Whereas the six available specimens of the very closely related species _[Heliconia aurea](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:119303-2)_ from <span data-click-map-flyto="9.036443, -69.729927, 7.3">Colombia and Venezuela</span> indicate that it is “Vulnerable” and at risk of extinction most likely due to habitat alteration, degradation, and destruction (see GeoCat map and Red List assessment).
 
-
-
 <param ve-entity eid="Q441" title="botany">
 <param ve-entity eid="Q181916" title="herbarium">
 Botany has always been a highly visual science, and our understanding of plants depends partly on the ways in which we have chosen to represent them. One of the conventions of both the botanical portrait and the scientific illustration alike is the rendering of the singular plant removed from its natural context and portrayed against a neutral background. Similarly, the herbarium sheet removes the plant from its ecosystem, rendering it suitable for transportation, archiving, and future reference and comparison in museums, but divorcing the specimen from its web of interactions and relationships. We know that plants do not exist in isolation; they inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction. Botanists are therefore using the conventional forms of plant representation, such as herbarium specimens, to understand more about natural habitats of the species and repurposing them to determine effective strategies for their conservation.
 <param ve-d3plus-ring-network 
-       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_v3.tsv" center="Heliconia imbricata">
-
+       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_ecosystem_v1.tsv" center="Heliconia imbricata" title="Heliconia imbricata relationships with organisms: parasitic, mutual, and neutral">
 
 <param ve-plant-specimen eid="Q2727878" max="1">
 Our understanding of the diversity and ecology of heliconias has grown tremendously in the last few decades.  Many exciting new forms and species have been discovered and described by botanists. The intricate web of interactions between heliconias and their animal partners in natural ecosystems seems endless with years of observation still needed to fully comprehend their intricacy. Each new plant we find and each additional observation we make opens up entirely new fields for exploration.  Horticulturists, scientists, and citizens have so much more to learn and appreciate about these disciples of Apollo and the Muses from Mount Helicon.
@@ -127,11 +124,11 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjIyNTY5MCwxNDc5ODYxNTc2LDE2NT
-I4MDUwMDIsNDE0MDM0MDksLTc0NDg3NjkwMywtNzc3NzczMzM0
-LC0xNzM5MTM0MDA1LDE0ODg5MTQ0MTIsLTk5MzU1NzUwLC0xND
-k5Njk4MzMyLDIxNDUwNjIyNTUsNjQzNDk0NDEsLTE1NTg0NTA1
-MTMsLTgzODgyNDY4NywtMTA4MzE0MTUwMCwtMTA4MzE0MTUwMC
-wtMTc0ODcxNjMzLC05MTEzODY3ODIsLTY5NTI1NTMzMSwtMTYy
-Nzk5NzMwNl19
+eyJoaXN0b3J5IjpbMTEyMDg3NzIxMCwxNjY2MjI1NjkwLDE0Nz
+k4NjE1NzYsMTY1MjgwNTAwMiw0MTQwMzQwOSwtNzQ0ODc2OTAz
+LC03Nzc3NzMzMzQsLTE3MzkxMzQwMDUsMTQ4ODkxNDQxMiwtOT
+kzNTU3NTAsLTE0OTk2OTgzMzIsMjE0NTA2MjI1NSw2NDM0OTQ0
+MSwtMTU1ODQ1MDUxMywtODM4ODI0Njg3LC0xMDgzMTQxNTAwLC
+0xMDgzMTQxNTAwLC0xNzQ4NzE2MzMsLTkxMTM4Njc4MiwtNjk1
+MjU1MzMxXX0=
 -->
