@@ -82,7 +82,7 @@ Another species, _Heliconia tortuosa_ from Costa Rica, provides a fascinating ex
 <param ve-entity eid="Q859257" aliases="flies" title="fly">
 The close relationship between heliconias and their pollinators highlights the vital role these plants play in the broader ecosystem as a source of food and shelter. A number of birds, such as toucans and tanagers, as well as squirrels feed on the bright blue fruits and seeds of most species of _Heliconia_. Some plants, like _Heliconia imbricata_, are keystone species crucial to the survival of many other rainforest inhabitants.  In addition to feeding energy-rich nectar to the hummingbirds which pollinate its flowers, this heliconia offers a daytime home to tent-making bats, who fold-over the banana-like leaves to provide shelter from the tropical sun and rain. The species also serves as the perfect spot for hummingbirds to build their nests under the tips of the leaves. Meanwhile, the liquid that pools in the bracts enclosing the flowers is a breeding ground for insect larvae, especially mosquitos, midges, and flies. One group of tropical beetles, called the rolled-leaf hispine beetles, is highly specialized to feed inside the unfurling leaves of this and other species of heliconias and their relatives.
 <param ve-d3plus-ring-network 
-       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_pollinatefeedshelter_v1.tsv" center="Heliconia imbricata" title="Heliconia imbricata interactions with organisms">
+       url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/heliconia_network_interactions.tsv" center="Heliconia imbricata">
 
 
 <param ve-entity eid="Q441" title="botany">
@@ -124,11 +124,11 @@ Mee, M., and Morrison, T.  _Margaret Mee, In Search of Flowers of the Amazon For
 
 Temeles, E. J., and W. J. Kress.  "Evidence for adaptation in a plant-hummingbird association."  _Science_ 300 (2003): 630-633.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDg3NzIxMCwxNjY2MjI1NjkwLDE0Nz
-k4NjE1NzYsMTY1MjgwNTAwMiw0MTQwMzQwOSwtNzQ0ODc2OTAz
-LC03Nzc3NzMzMzQsLTE3MzkxMzQwMDUsMTQ4ODkxNDQxMiwtOT
-kzNTU3NTAsLTE0OTk2OTgzMzIsMjE0NTA2MjI1NSw2NDM0OTQ0
-MSwtMTU1ODQ1MDUxMywtODM4ODI0Njg3LC0xMDgzMTQxNTAwLC
-0xMDgzMTQxNTAwLC0xNzQ4NzE2MzMsLTkxMTM4Njc4MiwtNjk1
-MjU1MzMxXX0=
+eyJoaXN0b3J5IjpbLTMwNzIwOTQzNiwxMTIwODc3MjEwLDE2Nj
+YyMjU2OTAsMTQ3OTg2MTU3NiwxNjUyODA1MDAyLDQxNDAzNDA5
+LC03NDQ4NzY5MDMsLTc3Nzc3MzMzNCwtMTczOTEzNDAwNSwxND
+g4OTE0NDEyLC05OTM1NTc1MCwtMTQ5OTY5ODMzMiwyMTQ1MDYy
+MjU1LDY0MzQ5NDQxLC0xNTU4NDUwNTEzLC04Mzg4MjQ2ODcsLT
+EwODMxNDE1MDAsLTEwODMxNDE1MDAsLTE3NDg3MTYzMywtOTEx
+Mzg2NzgyXX0=
 -->
