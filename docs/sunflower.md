@@ -11,7 +11,7 @@
 _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The sunflower is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, robust unbranched stem, and imposing height. Indeed, the cultivated annual can grow freestanding up to sixteen feet tall.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
-As this botanical illustration reminds us, _H. annuus_ is a giant not just in the plant world but also in the realms of art and culture. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized proportions and plays upon a human tendency to anthropomorphize its head and foliage. Like that giant flower, _H. annuus_ looms large in our cultural imagery, so large that we often fail to appreciate the unique traits of the species and to recognize the diversity within the [genus sunflower](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2). Instead, it is all too easy for us to essentialize sunflowers by assuming that they all possess a single, golden blossom perched on an unbranched stem. Such stereotypes have often shaped or been shaped by visual representations of the plant, particularly depictions of _H. annuus_.
+As this botanical illustration reminds us, _H. annuus_ is a giant not just in the plant world but also in the realms of art and culture. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized proportions and plays upon a human tendency to anthropomorphize its head and foliage. Like that giant flower, _H. annuus_ looms large in our cultural imagery, so large that we often fail to appreciate the unique traits of the species and to recognize the diversity within the genus sunflower. Instead, it is all too easy for us to essentialize sunflowers by assuming that they all possess a single, golden blossom perched on an unbranched stem. Such stereotypes have often shaped or been shaped by visual representations of the plant, particularly depictions of _H. annuus_.
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 This essay clarifies how pictures of the sunflower can provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have contributed to the formation of visual stereotype for the sunflower that have elided species differences and perpetuated cultural myths.
@@ -34,7 +34,7 @@ Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical name
 
 ### Range and Cultivation
 
-So, how did the common sunflower come to look the way that it does today? That facet of the history of _Helianthus annuus_ is enmeshed with convergences of plant and human mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, visual representations, and other forms of evidence. The earliest known sunflower remains—charred seeds—tell us that humans used _H. annuus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated by humans to possess favorable traits. Plants with large flower heads were selected over smaller ones to increase seed production.
+So, how did _Helianthus annuus_ come to look the way that it does today? The common sunflower was cultivated by humans, and the history of that process is enmeshed with convergences of plant and human mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence. The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated by humans to possess favorable traits.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 
@@ -154,11 +154,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzkxNDE4MTYsOTIzNzQ3MDA0LC0xMT
-YyMTQ1MDM0LC0xODY3Mzk1MzgzLDc5NTA2NzkwNSw5MjgyMjYw
-NDUsLTIwNzk5MzU5NSwxODc2Mzc1MzE0LDE4Mjc3NTk2MzgsMT
-QwOTQwMTYzOCwtMTg3OTUyMTIwNiw1NDQyOTIxMjgsMjAwMzk2
-OTY1OSwxMDE2NzczMzY2LC0xNzI4NzM2NTg4LDY5MTE0NTkxLC
-0xNTE4NzUxLDE3ODc3ODAyNDYsLTMyMjE1MTY3NSwxNzc4NjA4
-MDFdfQ==
+eyJoaXN0b3J5IjpbMTYxNTI0MzA0NiwtMTI3OTE0MTgxNiw5Mj
+M3NDcwMDQsLTExNjIxNDUwMzQsLTE4NjczOTUzODMsNzk1MDY3
+OTA1LDkyODIyNjA0NSwtMjA3OTkzNTk1LDE4NzYzNzUzMTQsMT
+gyNzc1OTYzOCwxNDA5NDAxNjM4LC0xODc5NTIxMjA2LDU0NDI5
+MjEyOCwyMDAzOTY5NjU5LDEwMTY3NzMzNjYsLTE3Mjg3MzY1OD
+gsNjkxMTQ1OTEsLTE1MTg3NTEsMTc4Nzc4MDI0NiwtMzIyMTUx
+Njc1XX0=
 -->
