@@ -45,8 +45,11 @@ Although the Spanish were probably the first to transport the domesticated sunfl
 
 ### "Peruvian" Origins and Mythic Encounters
 
+ The Spanish, like other Europeans, were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. Their practice of "collecting" natural resources as part of a colonial agenda, now termed “extractive colonialism,” negatively impacted indigenous populations and plant diversity while spurring global trade and knowledge production. 
+<param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
+
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht">
- The Spanish, like other Europeans, were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. Their practice of "collecting" natural resources as part of a colonial agenda, now termed “extractive colonialism,” negatively impacted indigenous populations and plant diversity while spurring global trade and knowledge production. Although we know that the Spanish first transported the domesticated sunflower overseas to Europe, questions persist about who collected such plants or seeds, and when and from where they did so.Visual and verbal representations of the cultivated sunflower chart not only the transoceanic movement of the plant, but also the transregional exchange of iconography and ideas pertaining to it. That is true of the sunflower pictured in Dodoens’s _Florum, et Coronariarum_, at right. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ plant growing in soil as the artist may have encountered it in a garden. Indeed, Dodoens’s description identifies a private garden, in Mechlin, as the place shown in the picture: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.” Dodoens here establishes that the flower was not just beautiful to behold but also a foreign luxury good that conferred status upon its owner.
+Although we know that the Spanish first transported the domesticated sunflower overseas to Europe, questions persist about who collected such plants or seeds, and when and from where they did so.Visual and verbal representations of the cultivated sunflower chart not only the transoceanic movement of the plant, but also the transregional exchange of iconography and ideas pertaining to it. That is true of the sunflower pictured in Dodoens’s _Florum, et Coronariarum_, at right. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ plant growing in soil as the artist may have encountered it in a garden. Indeed, Dodoens’s description identifies a private garden, in Mechlin, as the place shown in the picture: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.” Dodoens here establishes that the flower was not just beautiful to behold but also a foreign luxury good that conferred status upon its owner.
 <param ve-image fit="contain" url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
 Although Dodoens’s account charts the migration of _Helianthus annuus_ to Flanders by the mid-1560s, the provenance of such sunflowers remains somewhat muddy. Dodoens gives the sunflower the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins. However, the word “Peru” was often used indiscriminately at the time to mean someplace in the Americas, and there is no archaeological evidence to suggest that _H. annuus_ was present in pre-Columbian Peru. Yet, that vague terminology was repeated in subsequent herbals, propagating a myth about the sunflower’s “Peruvian” origins. A good case in point is this illustration of _Chrysanthemum Peruvianum_ from John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), an English-language translation of Dodoens's text.
@@ -145,11 +148,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4MjI2MDQ1LC0yMDc5OTM1OTUsMTg3Nj
-M3NTMxNCwxODI3NzU5NjM4LDE0MDk0MDE2MzgsLTE4Nzk1MjEy
-MDYsNTQ0MjkyMTI4LDIwMDM5Njk2NTksMTAxNjc3MzM2NiwtMT
-cyODczNjU4OCw2OTExNDU5MSwtMTUxODc1MSwxNzg3NzgwMjQ2
-LC0zMjIxNTE2NzUsMTc3ODYwODAxLC03NTczMTM2NDAsMTEyMj
-c4NTI2NSwtMTg1Mzg3MzQ2NCwtMTgyMzg2NTE3LC0xNDEzODI2
-NDUzXX0=
+eyJoaXN0b3J5IjpbNzk1MDY3OTA1LDkyODIyNjA0NSwtMjA3OT
+kzNTk1LDE4NzYzNzUzMTQsMTgyNzc1OTYzOCwxNDA5NDAxNjM4
+LC0xODc5NTIxMjA2LDU0NDI5MjEyOCwyMDAzOTY5NjU5LDEwMT
+Y3NzMzNjYsLTE3Mjg3MzY1ODgsNjkxMTQ1OTEsLTE1MTg3NTEs
+MTc4Nzc4MDI0NiwtMzIyMTUxNjc1LDE3Nzg2MDgwMSwtNzU3Mz
+EzNjQwLDExMjI3ODUyNjUsLTE4NTM4NzM0NjQsLTE4MjM4NjUx
+N119
 -->
