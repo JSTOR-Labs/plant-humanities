@@ -8,10 +8,10 @@
 ### A Giant among Us
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The cultivated annual sunflower is also a popular ornamental, renowned for its yellow flower head, round disk, robust unbranched stem, heart-shaped leaves, and imposing height.
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The cultivated annual sunflower is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, robust unbranched stem, and imposing height.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
-Indeed, _Helianthus annuus_ can grow freestanding up to sixteen feet tall—a trait exaggerated for comedic effect in this botanical illustration. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized proportions. Like that giant flower, _H. annuus_ looms large in the plant world and our cultural imagination, so large that we often fail to bring curiosity to our engagements with the plant and the [genus sunflower](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2). Instead, it is all too easy for us to essentialize the sunflower by assuming that every member of the genus has a single, golden blossom perched on an unbranched stem. Such cultural myths have often shaped or been shaped by visual representations of the plant, particularly depictions of _H. annuus_.
+Indeed, _Helianthus annuus_ can grow freestanding up to sixteen feet tall—a trait exaggerated for comedic effect in this botanical illustration. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized proportions. Like that giant flower, _H. annuus_ looms large in the plant world and our cultural imaginary, so large that we often fail to bring curiosity to our engagements with the plant and the [genus sunflower](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2). Instead, it is all too easy for us to essentialize the sunflower by assuming that every member of the genus has a single, golden blossom perched on an unbranched stem. Such cultural myths have often shaped or been shaped by visual representations of the plant, particularly depictions of _H. annuus_.
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 This visual narrative clarifies how pictures of the sunflower can provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have contributed to the formation of a visual stereotype for the sunflower that have elided species differences and perpetuated cultural myths.
@@ -145,11 +145,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTQwMTYzOCwtMTg3OTUyMTIwNiw1ND
-QyOTIxMjgsMjAwMzk2OTY1OSwxMDE2NzczMzY2LC0xNzI4NzM2
-NTg4LDY5MTE0NTkxLC0xNTE4NzUxLDE3ODc3ODAyNDYsLTMyMj
-E1MTY3NSwxNzc4NjA4MDEsLTc1NzMxMzY0MCwxMTIyNzg1MjY1
-LC0xODUzODczNDY0LC0xODIzODY1MTcsLTE0MTM4MjY0NTMsOT
-c1NzQxOTA1LDE1MDg1MTk1NzIsLTI5NzQ3MTM0MSwtMTM0MjEx
-MDA0XX0=
+eyJoaXN0b3J5IjpbLTc5NzU3ODg3OSwxNDA5NDAxNjM4LC0xOD
+c5NTIxMjA2LDU0NDI5MjEyOCwyMDAzOTY5NjU5LDEwMTY3NzMz
+NjYsLTE3Mjg3MzY1ODgsNjkxMTQ1OTEsLTE1MTg3NTEsMTc4Nz
+c4MDI0NiwtMzIyMTUxNjc1LDE3Nzg2MDgwMSwtNzU3MzEzNjQw
+LDExMjI3ODUyNjUsLTE4NTM4NzM0NjQsLTE4MjM4NjUxNywtMT
+QxMzgyNjQ1Myw5NzU3NDE5MDUsMTUwODUxOTU3MiwtMjk3NDcx
+MzQxXX0=
 -->
