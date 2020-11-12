@@ -1,0 +1,39 @@
+source	source.label	target	target.label	edge
+Q65027	Basilius Besler	Q516015	Hortus Eystettensis (Bavaria, 1613)	supervised production of
+Q110347	Johann Konrad von Gemmingen	Q171497	Helianthus annuus	owner of garden where plant grown
+Q110347	Johann Konrad von Gemmingen	Q65027	Basilius Besler	commissioned book from
+Q51410225	Nova plantarum (1651)	Q516015	Hortus Eystettensis (Bavaria, 1613)	reproduces image from
+Q171497	Helianthus annuus	Q516015	Hortus Eystettensis	visual representation published in
+	Dos libros	Q171497	Helianthus annuus	visual representation and verbal description published in
+Q950531	Nicolás Monardes		Dos libros (Seville, 1569)	author of
+Q333372	Carolus Clusius		Historia medicinal (1565)	translator of
+	Historia medicinal (1565)		Dos libros (Seville, 1569)	translation of
+Q950531	Nicolás Monardes		Historia medicinal (1565)	author of
+Q950531	Nicolás Monardes		Joyful News out of the New Found World (London, 1577)	author of
+	John Frampton		Joyful News out of the New Found World (London, 1577)	translator of
+	Joyful News out of the New Found World (London, 1577)		Dos libros (Seville, 1569)	translation of
+Q333372	Carolus Clusius	Q110347	Johann Konrad von Gemmingen	acquaintance of
+	Joachim Camerarius	Q110347	Johann Konrad von Gemmingen	acquaintance of
+Q333372	Carolus Clusius		Joachim Camerarius	acquaintance of
+Q333372	Carolus Clusius		Histoire des plantes (Antwerp, 1557)	translator of
+Q950531	Nicolás Monardes		Histoire des simples médicamens apportés de l'Amerique (Lyon, 1619)	author of
+	Anthoine Colin		Histoire des simples médicamens apportés de l'Amerique (Lyon, 1619)	translator of
+Q171497	Helianthus annuus		Histoire des simples médicamens apportés de l'Amerique (Lyon, 1619)	visual representation and verbal description published in
+Q51410225	Nova plantarum (1651)		Histoire des simples médicamens apportés de l'Amerique (Lyon, 1619)	reproduces image from
+Q437466	Rembert Dodoens	Q743600	Cruydeboeck (Antwerp, 1554)	author of
+Q51476697	Florum, et coronarianum	Q171497	Helianthus annuus	visual representation and verbal description published in
+Q437466	Rembert Dodoens	Q51476697	Florum, et coronarianum (Antwerp, 1568)	author of
+Q2094286	Pieter van der Borcht	Q51476697	Florum, et coronarianum (Antwerp, 1568)	designer of illustrations for
+Q2094286	Pieter van der Borcht	Q437466	Rembert Dodoens	worked for
+	Johannes Brancio	Q437466	Rembert Dodoens	acquaintance of
+	Johannes Brancio	Q171497	Helianthus annuus	owner of garden where plant grown
+Q1333338	John Gerard	Q42190826	The Herball (London, 1597)	translator of
+Q42190826	The Herball (London, 1597)	Q51476697	Florum, et coronarianum	reproduces visual representation from
+Q42190826	The Herball	Q743600	Stirpium historiae pemptades sex (1583)	translation of
+Q1333338	John Gerard	Q333372	Carolus Clusius	acquaintance of
+Q5725237	Henry Lyte		A Niewe Herball (1578)	translator of
+Q437466	Rembert Dodoens		A Niewe Herball (1578)	author of
+Q437466	Rembert Dodoens		Stirpium historiae pemptades sex (1583)	author of
+	A Niewe Herball (1578)		Cruydeboeck (Antwerp, 1554)	translation of
+Q940017	Francisco Hernández de Toledo	Q51410225	Nova plantarum (1651)	author of
+Q171497	Helianthus annuus	Q51410225	Nova plantarum (1651)	visual representation and verbal description published in
