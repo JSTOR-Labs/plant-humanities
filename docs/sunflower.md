@@ -48,7 +48,7 @@ Although the Spanish were the first to transport the domesticated sunflower over
 ### "Peruvian" Origins and Mythic Encounters
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht">
- Visual and verbal representations of the cultivated sunflower chart not only the transoceanic movement of the plant, but also the transregional exchange of iconography and ideas pertaining to it. That is true of the sunflower pictured in Dodoens’s _Florum, et Coronariarum_, at right. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ plant growing in soil as the artist may have encountered it in a garden. Indeed, Dodoens’s description identifies a private garden, in Mechlin, as the place shown in the picture: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.” Dodoens here establishes that the flo
+ Visual and verbal representations of the cultivated sunflower chart not only the transoceanic movement of the plant, but also the transregional exchange of iconography and ideas pertaining to it. That is true of the sunflower pictured in Dodoens’s _Florum, et Coronariarum_, at right. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ plant growing in soil as the artist may have encountered it in a garden. Indeed, Dodoens’s description identifies a private garden, in Mechlin, as the place shown in the picture: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.” Dodoens here establishes that the flower was not just beautiful to behold but also a foreign luxury good that conferred status 
 <param ve-image fit="contain" url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
 If accurate, Dodoens’s account charts the migration of _Helianthus annuus_ to Flanders by the mid-1560s. Still, the provenance of such sunflowers remains somewhat muddy. Whereas Dodoens gives the sunflower the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins, the word “Peru” was often used indiscriminately at the time to mean someplace in the Americas. That vague terminology was repeated in subsequent herbals, propagating a myth about the sunflower’s “Peruvian” origins. A good case in point is this illustration of _Chrysanthemum Peruvianum_ from John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), an English-language translation of Dodoens's text.
@@ -147,11 +147,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMDg1NzE0LDY5MTE0NTkxLC0xNTE4Nz
-UxLDE3ODc3ODAyNDYsLTMyMjE1MTY3NSwxNzc4NjA4MDEsLTc1
-NzMxMzY0MCwxMTIyNzg1MjY1LC0xODUzODczNDY0LC0xODIzOD
-Y1MTcsLTE0MTM4MjY0NTMsOTc1NzQxOTA1LDE1MDg1MTk1NzIs
-LTI5NzQ3MTM0MSwtMTM0MjExMDA0LDk1MDYzNTkzMiwyMTM5NT
-cwODc3LDE0MzU1NzkxOTYsMTE2NjQ3MzQ3OCwxMDE3MDAwOTg5
-XX0=
+eyJoaXN0b3J5IjpbLTk0MjgyNzEwNCw2OTExNDU5MSwtMTUxOD
+c1MSwxNzg3NzgwMjQ2LC0zMjIxNTE2NzUsMTc3ODYwODAxLC03
+NTczMTM2NDAsMTEyMjc4NTI2NSwtMTg1Mzg3MzQ2NCwtMTgyMz
+g2NTE3LC0xNDEzODI2NDUzLDk3NTc0MTkwNSwxNTA4NTE5NTcy
+LC0yOTc0NzEzNDEsLTEzNDIxMTAwNCw5NTA2MzU5MzIsMjEzOT
+U3MDg3NywxNDM1NTc5MTk2LDExNjY0NzM0NzgsMTAxNzAwMDk4
+OV19
 -->
