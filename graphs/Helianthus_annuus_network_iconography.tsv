@@ -1,0 +1,62 @@
+source	source.label	target	target.label	edge
+Q65027	Basilius Besler	Q516015	Hortus Eystettensis (Bavaria, 1613)	supervised production of
+Q65027	Basilius Besler		AUTHOR, HERBALIST	is example of
+Q65027	Basilius Besler	Q46	Europe	active in
+Q110347	Johann Konrad von Gemmingen	Q516015	Hortus Eystettensis (Bavaria, 1613)	patron of
+Q110347	Johann Konrad von Gemmingen		PATRON	is example of
+Q110347	Johann Konrad von Gemmingen		GARDEN OWNER	is example of
+Q110347	Johann Konrad von Gemmingen	Q46	Europe	active in
+Q516015	Hortus Eystettensis (Bavaria, 1613)		Sunflower (Flos Solis Maior)	includes illustration of
+	Sunflower (Flos Solis Maior)		ILLUSTRATION	is example of
+Q950531	Nicolas Monardes		Dos libros (Seville, 1569)	author of
+Q950531	Nicolas Monardes		AUTHOR, HERBALIST	is example of
+Q950531	Nicolas Monardes	Q46	Europe	active in
+Q333372	Carolus Clusius		Historia medicinal (1565)	translator of
+Q333372	Carolus Clusius	Q46	Europe	active in
+	Carolus Clusius		TRANSLATOR, HERBALIST	is example of
+	Historia medicinal (1565)		Dos libros (Seville, 1569)	translation of
+	John Frampton		Joyful News out of the New Found World (London, 1577)	translator of
+	Joyful News out of the New Found World (London, 1577)		Dos libros (Seville, 1569)	translation of
+	John Frampton		TRANSLATOR, HERBALIST	is example of
+	John Frampton	Q46	Europe	active in
+Q333372	Carolus Clusius	Q110347	Johann Konrad von Gemmingen	acquaintance of
+	Joachim Camerarius	Q110347	Johann Konrad von Gemmingen	acquaintance of
+	Joachim Camerarius	Q46	Europe	active in
+Q333372	Carolus Clusius		Joachim Camerarius	acquaintance of
+Q333372	Carolus Clusius		Histoire des plantes (Antwerp, 1557)	translator of
+	Histoire des plantes (Antwerp, 1557)		Cruydeboeck (Antwerp, 1554)	translation of
+	Anthoine Colin		Histoire des simples medicamens (Lyon, 1619)	translator of
+	Anthoine Colin		TRANSLATOR, HERBALIST	is example of
+	Histoire des simples medicamens (Lyon, 1619)		Dos libros (Seville, 1569)	translation of
+	Histoire des simples medicamens (Lyon, 1619)		Sunflower (Flos Solis Minor)	includes illustration of
+Q437466	Rembert Dodoens	Q51476697	Florum, et coronarianum (Antwerp, 1568)	author of
+Q437466	Rembert Dodoens	Q46	Europe	active in
+	Rembert Dodoens		AUTHOR, HERBALIST	is example of
+Q51476697	Florum, et coronarianum (Antwerp, 1568)		Sunflower (C. Peruvianum)	includes illustration of
+Q2094286	Pieter van der Borcht		Sunflower (C. Peruvianum)	designer of
+	Sunflower (C. Peruvianum)		ILLUSTRATION	is example of
+Q2094286	Pieter van der Borcht	Q46	Europe	active in
+	Pieter van der Borcht		ARTIST	is example of
+	Johannes Brancio	Q437466	Rembert Dodoens	acquaintance of
+	Johannes Brancio	Q46	Europe	active in
+	Johannes Brancio		GARDEN OWNER	is example of
+Q1333338	John Gerard	Q42190826	The Herball (London, 1597)	translator of
+Q1333338	John Gerard		TRANSLATOR, HERBALIST	is example of
+Q42190826	The Herball (London, 1597)	Q743600	Stirpium historiae pemptades sex (1583)	translation of
+Q42190826	The Herball (London, 1597)		Sunflower (C. Peruvianum)	includes illustration of
+Q1333338	John Gerard	Q333372	Carolus Clusius	acquaintance of
+Q1333338	John Gerard	Q46	Europe	active in
+Q5725237	Henry Lyte		A Niewe Herball (1578)	translator of
+Q5725237	Henry Lyte		TRANSLATOR, HERBALIST	is example of
+Q5725237	Henry Lyte	Q46	Europe	active in
+Q437466	Rembert Dodoens		Stirpium historiae pemptades sex (1583)	author of
+	A Niewe Herball (1578)		Cruydeboeck (Antwerp, 1554)	translation of
+Q437466	Rembert Dodoens	Q743600	Cruydeboeck (Antwerp, 1554)	author of
+Q940017	Francisco Hernandez de Toledo	Q51410225	Nova plantarum (1651)	author of
+Q940017	Francisco Hernandez de Toledo		PHYSICIAN, EXPLORER	is example of
+Q940017	Francisco Hernandez de Toledo		AUTHOR, HERALIST	is example of
+Q51410225	Nova plantarum (1651)		Sunflower (Flos Solis Maior)	includes illustration of
+Q51410225	Nova plantarum (1651)		Sunflower (Flos Solis Minor)	includes illustration of
+	Sunflower (Flos Solis Minor)		ILLUSTRATION	is example of
+Q940017	Francisco Hernandez de Toledo	Q46	Europe	active in
+Q940017	Francisco Hernandez de Toledo	Q170603	New Spain (Mexico)	active in
