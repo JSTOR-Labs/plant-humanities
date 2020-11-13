@@ -54,7 +54,7 @@ Although Dodoens’s herbal provides vital evidence about the migration of _Heli
 <param ve-entity eid="Q1333338" title="John Gerard"> 
 
 Dodoens’s _Florum, et Coronariarum_ participated in a transregional exchange of iconography and ideas related to the sunflower. This network visualization posits a preliminary model for studying those points of intersection among herbalists, scholars, artists, translators, plant collectors, patrons, and other figures, all of who were active in the botanical scene in Europe or the Americas. The web of interactions also shows some instances in which sunflower illustrations from one herbal were reproduced in another, raising questions about the significance of such pictures, about the relationship of images to their contexts, and about larger patterns of cultural exchange and knowledge production.
-<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center=">
+<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="AUTHOR, HERBALIST">
 
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-image iiif primary fit="contain" url="https://ia800805.us.archive.org/BookReader/BookReaderImages.php?id=novaplantarumani00hern&itemPath=%2F5%2Fitems%2Fnovaplantarumani00hern&server=ia800805.us.archive.org&page=n245_w820" title="Hernández, Francisco, _Nova plantarum, animalium et mineralium Mexicanorum historia_, 1651, John Carter Brown Library">
@@ -147,11 +147,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjkzOTkyOSwtMTgyMTIzOTg1NiwtMT
-k2MjM0MTk3MywtMjEyNzYxMjA3NiwxMjg0MDQwNDkyLC02MDgw
-NDA2MTYsMTYxNTI0MzA0NiwtMTI3OTE0MTgxNiw5MjM3NDcwMD
-QsLTExNjIxNDUwMzQsLTE4NjczOTUzODMsNzk1MDY3OTA1LDky
-ODIyNjA0NSwtMjA3OTkzNTk1LDE4NzYzNzUzMTQsMTgyNzc1OT
-YzOCwxNDA5NDAxNjM4LC0xODc5NTIxMjA2LDU0NDI5MjEyOCwy
-MDAzOTY5NjU5XX0=
+eyJoaXN0b3J5IjpbNzM3NDc0NzA4LC0xODIxMjM5ODU2LC0xOT
+YyMzQxOTczLC0yMTI3NjEyMDc2LDEyODQwNDA0OTIsLTYwODA0
+MDYxNiwxNjE1MjQzMDQ2LC0xMjc5MTQxODE2LDkyMzc0NzAwNC
+wtMTE2MjE0NTAzNCwtMTg2NzM5NTM4Myw3OTUwNjc5MDUsOTI4
+MjI2MDQ1LC0yMDc5OTM1OTUsMTg3NjM3NTMxNCwxODI3NzU5Nj
+M4LDE0MDk0MDE2MzgsLTE4Nzk1MjEyMDYsNTQ0MjkyMTI4LDIw
+MDM5Njk2NTldfQ==
 -->
