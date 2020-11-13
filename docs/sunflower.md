@@ -41,12 +41,7 @@ So, how did _Helianthus annuus_ come to look the way that it does today? The com
 There is some debate about when domesticated sunflowers were used in the southwestern United States and northern Mexico, and whether they were cultivated independently there. Although a charred seed was recovered at NAME SITE that some scientists identified as coming from _H. annuus_, others argued convincingly that the seed, which is no longer extant, may have come from a squash or a wild sunflower. Building on archeological research, genomic studies of the common sunflower have linked present-day crops and seed remains to a common ancestor, which was cultivated at an independent domestication center in eastern North America. For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by the Spanish.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
-
-Although the Spanish were probably the first to transport the domesticated sunflower overseas to Europe, questions persist about who collected such plants or seeds, and when and from where they did so. Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols. The practice of "collecting" natural resources as part of a colonial agenda is now termed "[extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism).” 
-<param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
-
-
-In the absence of specimens from that period, visual and verbal representation of the sunflower help us to chart its movement to Spain and to other parts of Europe as well. Nicolas Monardes’s herbal _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Seville. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of a sunflower—celebrates the arrival of the cultivated sunflower in Flanders.
+The Spanish were the first Europeans to transport the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. The map, at right, shows the destinations of several Spanish expeditions that traveled within the natural range of _Helianthus annuus_, possibly encountering it. Like other Europeans, the Spanish were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being prized as foreign curiosities and status symbols. The European "collection" of natural resources as part of a colonial agenda, now termed “[extractive colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” often involved violent encounters with indigenous peoples and the destruction of habitats. In the absence of surviving specimens, we can use representation of the sunflower to chart its movement to Spain and other parts of Europe as well. Nicolas Monardes’s herbal _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Seville. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of a sunflower—celebrates the arrival of the cultivated sunflower in Flanders.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 ### "Peruvian" Origins and Mythic Encounters
@@ -154,11 +149,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTI0MzA0NiwtMTI3OTE0MTgxNiw5Mj
-M3NDcwMDQsLTExNjIxNDUwMzQsLTE4NjczOTUzODMsNzk1MDY3
-OTA1LDkyODIyNjA0NSwtMjA3OTkzNTk1LDE4NzYzNzUzMTQsMT
-gyNzc1OTYzOCwxNDA5NDAxNjM4LC0xODc5NTIxMjA2LDU0NDI5
-MjEyOCwyMDAzOTY5NjU5LDEwMTY3NzMzNjYsLTE3Mjg3MzY1OD
-gsNjkxMTQ1OTEsLTE1MTg3NTEsMTc4Nzc4MDI0NiwtMzIyMTUx
-Njc1XX0=
+eyJoaXN0b3J5IjpbLTYwODA0MDYxNiwxNjE1MjQzMDQ2LC0xMj
+c5MTQxODE2LDkyMzc0NzAwNCwtMTE2MjE0NTAzNCwtMTg2NzM5
+NTM4Myw3OTUwNjc5MDUsOTI4MjI2MDQ1LC0yMDc5OTM1OTUsMT
+g3NjM3NTMxNCwxODI3NzU5NjM4LDE0MDk0MDE2MzgsLTE4Nzk1
+MjEyMDYsNTQ0MjkyMTI4LDIwMDM5Njk2NTksMTAxNjc3MzM2Ni
+wtMTcyODczNjU4OCw2OTExNDU5MSwtMTUxODc1MSwxNzg3Nzgw
+MjQ2XX0=
 -->
