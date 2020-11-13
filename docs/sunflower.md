@@ -8,7 +8,7 @@
 ### A Giant among Us
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. Highly valued for its edible seeds and seed oil, the species is among a small number of crop plants to have been domesticated in North America. The sunflower is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, robust unbranched stem, and imposing height. Indeed, the cultivated annual can grow freestanding up to sixteen feet tall.
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom that is inextricable from its relationship with humans. Highly valued for its edible seeds and seed oil, the cultivated annual is among a small number of crop plants to have been domesticated in North America. The species is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, robust unbranched stem, and imposing height. Indeed, the common sunflower can grow freestanding up to sixteen feet tall.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 As this botanical illustration reminds us, _H. annuus_ is a giant not just in the plant world but also in the realms of art and culture. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized proportions and plays upon a human tendency to anthropomorphize its head and foliage. Like that giant flower, _H. annuus_ looms large in our cultural imagery, so large that we often fail to appreciate the unique traits of the species and to recognize the diversity within the genus sunflower. Instead, it is all too easy for us to essentialize sunflowers by assuming that they all possess a single, golden blossom perched on an unbranched stem. Such stereotypes have often shaped or been shaped by visual representations of the plant, particularly depictions of _H. annuus_.
@@ -147,11 +147,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTg4OTc0MCwxOTcyMTI2MzE5LDczNz
-Q3NDcwOCwtMTgyMTIzOTg1NiwtMTk2MjM0MTk3MywtMjEyNzYx
-MjA3NiwxMjg0MDQwNDkyLC02MDgwNDA2MTYsMTYxNTI0MzA0Ni
-wtMTI3OTE0MTgxNiw5MjM3NDcwMDQsLTExNjIxNDUwMzQsLTE4
-NjczOTUzODMsNzk1MDY3OTA1LDkyODIyNjA0NSwtMjA3OTkzNT
-k1LDE4NzYzNzUzMTQsMTgyNzc1OTYzOCwxNDA5NDAxNjM4LC0x
-ODc5NTIxMjA2XX0=
+eyJoaXN0b3J5IjpbLTEwNjM5NTc5MzIsLTg3MTg4OTc0MCwxOT
+cyMTI2MzE5LDczNzQ3NDcwOCwtMTgyMTIzOTg1NiwtMTk2MjM0
+MTk3MywtMjEyNzYxMjA3NiwxMjg0MDQwNDkyLC02MDgwNDA2MT
+YsMTYxNTI0MzA0NiwtMTI3OTE0MTgxNiw5MjM3NDcwMDQsLTEx
+NjIxNDUwMzQsLTE4NjczOTUzODMsNzk1MDY3OTA1LDkyODIyNj
+A0NSwtMjA3OTkzNTk1LDE4NzYzNzUzMTQsMTgyNzc1OTYzOCwx
+NDA5NDAxNjM4XX0=
 -->
