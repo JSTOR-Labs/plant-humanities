@@ -11,7 +11,7 @@
 _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom that is inextricable from its relationship with humans. Highly valued for its edible seeds and seed oil, the cultivated annual is among a small number of crop plants to have been domesticated in North America. The species is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, robust unbranched stem, and imposing height. Indeed, the common sunflower can grow freestanding up to sixteen feet tall.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
-As this botanical illustration reminds us, _H. annuus_ is a giant not just in the plant world but also in the realms of art and culture. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized proportions and plays upon a human tendency to anthropomorphize its head and foliage. Like that giant flower, _H. annuus_ looms large in our cultural imagery, so large that we often fail to appreciate the unique traits of the species and to recognize the diversity within the genus sunflower. Instead, it is all too easy for us to essentialize sunflowers by assuming that they all possess a single, golden blossom perched on an unbranched stem. Such stereotypes have often shaped or been shaped by visual representations of the plant, particularly depictions of _H. annuus_.
+As this botanical illustration reminds us, _Helianthus annuus_ is a giant not just in the plant world but also in the visual arts. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized proportions. Like that giant flower, _H. annuus_ looms large in certain cultural imaginaries, so large that many of us now fail to appreciate the intrinsic value of the species and to recognize the diversity within the genus sunflower. Instead, there is a tendency for people without direct knowledge of plants to essentialize sunflowers by assuming that they all possess a single, golden blossom perched on an unbranched stem. Such stereotypes have often shaped or been shaped by visual representations of the plant.
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 This essay clarifies how pictures of the sunflower can provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have contributed to the formation of visual stereotype for the sunflower that have elided species differences and perpetuated cultural myths.
@@ -147,11 +147,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjM5NTc5MzIsLTg3MTg4OTc0MCwxOT
-cyMTI2MzE5LDczNzQ3NDcwOCwtMTgyMTIzOTg1NiwtMTk2MjM0
-MTk3MywtMjEyNzYxMjA3NiwxMjg0MDQwNDkyLC02MDgwNDA2MT
-YsMTYxNTI0MzA0NiwtMTI3OTE0MTgxNiw5MjM3NDcwMDQsLTEx
-NjIxNDUwMzQsLTE4NjczOTUzODMsNzk1MDY3OTA1LDkyODIyNj
-A0NSwtMjA3OTkzNTk1LDE4NzYzNzUzMTQsMTgyNzc1OTYzOCwx
-NDA5NDAxNjM4XX0=
+eyJoaXN0b3J5IjpbNzc1MTcyNjQwLC04NzE4ODk3NDAsMTk3Mj
+EyNjMxOSw3Mzc0NzQ3MDgsLTE4MjEyMzk4NTYsLTE5NjIzNDE5
+NzMsLTIxMjc2MTIwNzYsMTI4NDA0MDQ5MiwtNjA4MDQwNjE2LD
+E2MTUyNDMwNDYsLTEyNzkxNDE4MTYsOTIzNzQ3MDA0LC0xMTYy
+MTQ1MDM0LC0xODY3Mzk1MzgzLDc5NTA2NzkwNSw5MjgyMjYwND
+UsLTIwNzk5MzU5NSwxODc2Mzc1MzE0LDE4Mjc3NTk2MzgsMTQw
+OTQwMTYzOF19
 -->
