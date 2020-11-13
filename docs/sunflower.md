@@ -49,7 +49,7 @@ The Spanish were the first Europeans to transport the domesticated sunflower acr
 Visual and verbal representations of the cultivated sunflower chart not only the transoceanic movement of the plant, but also the transregional exchange of iconography and ideas pertaining to it. That is true of the sunflower pictured in Dodoens’s _Florum, et Coronariarum_, at right. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ plant growing in soil as the artist may have encountered it in a garden. Indeed, Dodoens’s description identifies a private garden, in Mechlin, as the place shown in the picture: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.” Dodoens, by recounting where he saw the flower, exclusivity of his experience beautiful to behold but also a foreign luxury good that conferred status upon its owner.
 <param ve-image fit="contain" url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
-Although Dodoens’s account charts the migration of _Helianthus annuus_ to Flanders by the mid-1560s, the provenance of such sunflowers remains somewhat muddy. Dodoens gives the sunflower the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate its Peruvian origins. However, the word “Peru” was often used indiscriminately at the time to mean someplace in the Americas, and there is no archaeological evidence to suggest that _H. annuus_ was present in pre-Columbian Peru. Yet, that vague terminology was repeated in subsequent herbals, propagating a myth about the sunflower’s “Peruvian” origins. A good case in point is this illustration of _Chrysanthemum Peruvianum_ from John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), an English-language translation of a different text by Dodoens.
+Although Dodoens’s herbal provides vital evidence about the migration of _Helianthus annuus_ to Flanders by the mid-1560s, its description of the provenance of such sunflowers is somewhat muddy. Dodoens uses the pre-Linnaean name _Chrysanthemum Peruvianum_ to identify the sunflower and indicate its Peruvian origins. However, at the time, the word “Peru” was used indiscriminately to mean someplace in the Americas rather than present-day Peru. It has been suggested that the confusion arose because the last port of call for Spanish explorers would have been Peru. That vague terminology was repeated in subsequent herbals, propagating a myth about the sunflower’s “Peruvian” origins. For example, John Gerard’s John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), reproduces the woodcut from _Florum, et Coronariarum_ with an English-language translation of the plant name _Chrysanthemum Peruvianum_.
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q1333338" title="John Gerard"> 
 
@@ -148,11 +148,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc2MTIwNzYsMTI4NDA0MDQ5MiwtNj
-A4MDQwNjE2LDE2MTUyNDMwNDYsLTEyNzkxNDE4MTYsOTIzNzQ3
-MDA0LC0xMTYyMTQ1MDM0LC0xODY3Mzk1MzgzLDc5NTA2NzkwNS
-w5MjgyMjYwNDUsLTIwNzk5MzU5NSwxODc2Mzc1MzE0LDE4Mjc3
-NTk2MzgsMTQwOTQwMTYzOCwtMTg3OTUyMTIwNiw1NDQyOTIxMj
-gsMjAwMzk2OTY1OSwxMDE2NzczMzY2LC0xNzI4NzM2NTg4LDY5
-MTE0NTkxXX0=
+eyJoaXN0b3J5IjpbLTE5NjIzNDE5NzMsLTIxMjc2MTIwNzYsMT
+I4NDA0MDQ5MiwtNjA4MDQwNjE2LDE2MTUyNDMwNDYsLTEyNzkx
+NDE4MTYsOTIzNzQ3MDA0LC0xMTYyMTQ1MDM0LC0xODY3Mzk1Mz
+gzLDc5NTA2NzkwNSw5MjgyMjYwNDUsLTIwNzk5MzU5NSwxODc2
+Mzc1MzE0LDE4Mjc3NTk2MzgsMTQwOTQwMTYzOCwtMTg3OTUyMT
+IwNiw1NDQyOTIxMjgsMjAwMzk2OTY1OSwxMDE2NzczMzY2LC0x
+NzI4NzM2NTg4XX0=
 -->
