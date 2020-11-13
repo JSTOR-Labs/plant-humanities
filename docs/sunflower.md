@@ -66,7 +66,7 @@ The migration of sunflower iconography is evidenced in the pages of Francisco He
 
 ### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
 
-Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers
+Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being prized as foreign curiosities and status symbols. Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 Heliotropism in plants was observed by the ancient Greeks and this phenomenon is a central conceit in the myth of Clytie and Helios. Explain the myth. The associations of the sunflower in this narrative with notions of WHAT proved influential in Western European art and culture. Introduce idea of constancy and then connect to heliotropism. Interpret print.
@@ -149,11 +149,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTM4MzU3OSwtNjA4MDQwNjE2LDE2MT
-UyNDMwNDYsLTEyNzkxNDE4MTYsOTIzNzQ3MDA0LC0xMTYyMTQ1
-MDM0LC0xODY3Mzk1MzgzLDc5NTA2NzkwNSw5MjgyMjYwNDUsLT
-IwNzk5MzU5NSwxODc2Mzc1MzE0LDE4Mjc3NTk2MzgsMTQwOTQw
-MTYzOCwtMTg3OTUyMTIwNiw1NDQyOTIxMjgsMjAwMzk2OTY1OS
-wxMDE2NzczMzY2LC0xNzI4NzM2NTg4LDY5MTE0NTkxLC0xNTE4
-NzUxXX0=
+eyJoaXN0b3J5IjpbLTEyMjA1MTY5NzcsLTYwODA0MDYxNiwxNj
+E1MjQzMDQ2LC0xMjc5MTQxODE2LDkyMzc0NzAwNCwtMTE2MjE0
+NTAzNCwtMTg2NzM5NTM4Myw3OTUwNjc5MDUsOTI4MjI2MDQ1LC
+0yMDc5OTM1OTUsMTg3NjM3NTMxNCwxODI3NzU5NjM4LDE0MDk0
+MDE2MzgsLTE4Nzk1MjEyMDYsNTQ0MjkyMTI4LDIwMDM5Njk2NT
+ksMTAxNjc3MzM2NiwtMTcyODczNjU4OCw2OTExNDU5MSwtMTUx
+ODc1MV19
 -->
