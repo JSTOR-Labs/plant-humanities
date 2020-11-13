@@ -53,7 +53,7 @@ Although Dodoens provides vital evidence about the migration of _Helianthus annu
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q1333338" title="John Gerard"> 
 
-Dodoens’s _Florum, et Coronariarum_ participated in a transregional exchange of iconography and ideas related to the sunflower. This network visualization posits a preliminary model for studying those points of intersection among herbalists, scholars, artists, translators, plant collectors, patrons, and other figures, all of who were active in the botanical scene in Europe or the Americas. The web of interactions also shows some instances in which sunflower illustrations from one herbal were reproduced in another, raising questions about the significance of such pictures, about the relationship of images to their contexts, and about larger patterns of cultural exchange and knowledge production.
+Dodoens’s _Florum, et Coronariarum_ participated in a transregional European exchange of iconography and ideas related to the sunflower. This network visualization posits a preliminary model for studying points of intersection among Dodoens and herbal authors, artists, translators, plant collectors, patrons, and other figures, all of who were active in Europe between the 1550s and the 1650s. The web of interactions also shows some instances in which illustrations of sunflowers—_Flos Solis Maior_, _Flos Solis Minor_, and _Chrysanthemum Peruvianum_—migrated from one herbal to another, possibly through intermediary sources. These borrowings raise questions about the significance of individual pictures, about relationships of images to texts, and about larger patterns of artistic exchange and their role in knowledge production.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Rembert Dodoens">
 
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
@@ -147,11 +147,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc0MjA1NjYsLTg3MTg4OTc0MCwxOT
-cyMTI2MzE5LDczNzQ3NDcwOCwtMTgyMTIzOTg1NiwtMTk2MjM0
-MTk3MywtMjEyNzYxMjA3NiwxMjg0MDQwNDkyLC02MDgwNDA2MT
-YsMTYxNTI0MzA0NiwtMTI3OTE0MTgxNiw5MjM3NDcwMDQsLTEx
-NjIxNDUwMzQsLTE4NjczOTUzODMsNzk1MDY3OTA1LDkyODIyNj
-A0NSwtMjA3OTkzNTk1LDE4NzYzNzUzMTQsMTgyNzc1OTYzOCwx
-NDA5NDAxNjM4XX0=
+eyJoaXN0b3J5IjpbMTg4OTI2MTg1LC04NzE4ODk3NDAsMTk3Mj
+EyNjMxOSw3Mzc0NzQ3MDgsLTE4MjEyMzk4NTYsLTE5NjIzNDE5
+NzMsLTIxMjc2MTIwNzYsMTI4NDA0MDQ5MiwtNjA4MDQwNjE2LD
+E2MTUyNDMwNDYsLTEyNzkxNDE4MTYsOTIzNzQ3MDA0LC0xMTYy
+MTQ1MDM0LC0xODY3Mzk1MzgzLDc5NTA2NzkwNSw5MjgyMjYwND
+UsLTIwNzk5MzU5NSwxODc2Mzc1MzE0LDE4Mjc3NTk2MzgsMTQw
+OTQwMTYzOF19
 -->
