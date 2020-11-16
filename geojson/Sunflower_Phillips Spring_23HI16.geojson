@@ -1,0 +1,62 @@
+{
+  "@context": [
+    "https://opencontext.org/contexts/search.json",
+    "http://geojson.org/geojson-ld/geojson-context.jsonld"
+  ],
+  "type": "FeatureCollection",
+  "oc-api:max-disc-tile-zoom": 11,
+  "oc-api:response-tile-zoom": 19,
+  "oc-api:geotile-scope": "0231112132",
+  "features": [
+    {
+      "id": "https://opencontext.org/search/United+States?disc-geotile=02311121320&geodeep=19&proj=52-digital-index-of-north-american-archaeology-dinaa&prop=oc-gen-cat-loc-or-context---oc-gen-cat-site&q=23HI16&response=geo-facet",
+      "json": "https://opencontext.org/search/United+States.json?disc-geotile=02311121320&geodeep=19&proj=52-digital-index-of-north-american-archaeology-dinaa&prop=oc-gen-cat-loc-or-context---oc-gen-cat-site&q=23HI16&response=geo-facet",
+      "count": 1,
+      "type": "Feature",
+      "category": "oc-api:geo-facet",
+      "when": {
+        "id": "#event-02311121320",
+        "type": "oc-gen:formation-use-life",
+        "start": "1950",
+        "stop": "1950"
+      },
+      "geometry": {
+        "id": "#geo-disc-tile-geom-02311121320",
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -93.515625,
+              37.85750715625203
+            ],
+            [
+              -93.33984375,
+              37.85750715625203
+            ],
+            [
+              -93.33984375,
+              37.99616267972814
+            ],
+            [
+              -93.515625,
+              37.99616267972814
+            ],
+            [
+              -93.515625,
+              37.85750715625203
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "#geo-disc-tile-02311121320",
+        "href": "https://opencontext.org/search/United+States?disc-geotile=02311121320&geodeep=19&proj=52-digital-index-of-north-american-archaeology-dinaa&prop=oc-gen-cat-loc-or-context---oc-gen-cat-site&q=23HI16&response=geo-facet",
+        "label": "Discovery region (1)",
+        "feature-type": "discovery region (facet)",
+        "count": 1,
+        "early bce/ce": 1950,
+        "late bce/ce": 1950
+      }
+    }
+  ]
+}
