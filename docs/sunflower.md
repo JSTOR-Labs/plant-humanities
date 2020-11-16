@@ -40,14 +40,14 @@ So, how did the _Helianthus annuus_ specimen represented by Besler’s designer 
 
 <param ve-entity eid="Q80914" title="Tabasco">
 There is some debate among scientists about when domesticated sunflowers were used in the southwestern United States and northern Mexico, and whether they were cultivated independently there.[^ref7]  A charred seed, which is no longer extant, was recovered at San Antonio cave, in Tobasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that the seed it may have come from a squash or a wild sunflower. Building on that and other archeological research, genomic studies of the common sunflower have linked present-day crops and seed remains to a common ancestor, which was cultivated at an independent domestication center in eastern North America. For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by Spanish explorers.
-<param ve-map center="18.299068, -92.378113" zoom="6">
+<param ve-map prefer-geojson center="18.299068, -92.378113" zoom="6">
 
 <param ve-entity eid="Q950531" title="Nicolás Monardes">
 <param ve-entity eid="Q437466" title="Rembert Dodoens">
 <param ve-entity eid="Q8717" title="Seville">
 <param ve-entity eid="Q234" title="Flanders">
 The Spanish first transported the domesticated sunflower across the Atlantic Ocean as part of an imperial agenda, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” we can use verbal and visual descriptions of the plant from herbals to chart its introduction to Spain and other parts of Europe as well. Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in <span data-click-map-flyto="37.355704, -5.981840">Seville</span>. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to <span data-click-map-flyto="51.242429, 4.397804">Flanders</span>.
-<param ve-map center="43.797104, 7.265838" zoom="6">
+<param ve-map prefer-geojson center="43.797104, 7.265838" zoom="6">
 
 ### “Peruvian” Origins and Mythic Encounters
 
@@ -169,11 +169,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTM4NzA0Miw1MTg0MzU2MjAsLTIwOD
-E3Nzg3NDUsMjAzMjk5MzQ4OSwtMTAwNjAyMTIwMCwtMTU2NzYx
-MDk4NSwxNTQ2NTIwOTgzLDE1MjgyNjA3NTIsMTU0Njg4ODI4Ny
-wtMTMyODI4MzU3MSw2MzE0MjE3ODYsMTg3Mzc1NjQyNCwxMjQ2
-MjI0Mjc2LDEzNTQ1NzY5MTYsLTE2MTkyMjc3OTIsMjMyNjUxOD
-M2LC0xNDAzMjE4NTA1LDE5NzI3NDc2MTksMTg4OTk1ODk1MCwt
-ODc4OTg3MjI1XX0=
+eyJoaXN0b3J5IjpbOTI0MjkwMzQ4LDEyMjkzODcwNDIsNTE4ND
+M1NjIwLC0yMDgxNzc4NzQ1LDIwMzI5OTM0ODksLTEwMDYwMjEy
+MDAsLTE1Njc2MTA5ODUsMTU0NjUyMDk4MywxNTI4MjYwNzUyLD
+E1NDY4ODgyODcsLTEzMjgyODM1NzEsNjMxNDIxNzg2LDE4NzM3
+NTY0MjQsMTI0NjIyNDI3NiwxMzU0NTc2OTE2LC0xNjE5MjI3Nz
+kyLDIzMjY1MTgzNiwtMTQwMzIxODUwNSwxOTcyNzQ3NjE5LDE4
+ODk5NTg5NTBdfQ==
 -->
