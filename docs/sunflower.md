@@ -36,9 +36,7 @@ Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical name
 
 So, how did the _Helianthus annuus_ specimen represented by Besler’s designer come into being? The common sunflower was cultivated by humans many centuries ago, and the history of that process is enmeshed with convergences of plant and human mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref5] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref6] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large seeds.
 <param ve-map title="Archaeological sites from where seed remains of _Helianthus_ have been recovered" center="47.192704, 23.108475" zoom="4">
-<param ve-map-layer data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Buxus_sempervirens_plg.json"
-	data-active="true">
+<param ve-map-layer data-type="geojson" data-url="https://jstor-labs.github.io/plant-humanities/geojson/## **Sunflower_Hayes_40ML139.geojson" data-active="true">
 <param ve-map-layer
 	data-type="geojson"
 	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Buxus_sempervirens_pnt.json"
@@ -175,11 +173,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTE2MzI0NiwyMzI2NTE4MzYsLTE0MD
-MyMTg1MDUsMTk3Mjc0NzYxOSwxODg5OTU4OTUwLC04Nzg5ODcy
-MjUsOTEyMDk2MzI2LDE3NDA1NzUyMDIsLTg3MTg4OTc0MCwxOT
-cyMTI2MzE5LDczNzQ3NDcwOCwtMTgyMTIzOTg1NiwtMTk2MjM0
-MTk3MywtMjEyNzYxMjA3NiwxMjg0MDQwNDkyLC02MDgwNDA2MT
-YsMTYxNTI0MzA0NiwtMTI3OTE0MTgxNiw5MjM3NDcwMDQsLTEx
-NjIxNDUwMzRdfQ==
+eyJoaXN0b3J5IjpbLTE5MDg2OTQxNzMsMjMyNjUxODM2LC0xND
+AzMjE4NTA1LDE5NzI3NDc2MTksMTg4OTk1ODk1MCwtODc4OTg3
+MjI1LDkxMjA5NjMyNiwxNzQwNTc1MjAyLC04NzE4ODk3NDAsMT
+k3MjEyNjMxOSw3Mzc0NzQ3MDgsLTE4MjEyMzk4NTYsLTE5NjIz
+NDE5NzMsLTIxMjc2MTIwNzYsMTI4NDA0MDQ5MiwtNjA4MDQwNj
+E2LDE2MTUyNDMwNDYsLTEyNzkxNDE4MTYsOTIzNzQ3MDA0LC0x
+MTYyMTQ1MDM0XX0=
 -->
