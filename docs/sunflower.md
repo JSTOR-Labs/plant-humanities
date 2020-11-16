@@ -42,7 +42,7 @@ There is some debate among scientists about when domesticated sunflowers were us
 <param ve-map center="18.299068, -92.378113" zoom="10">
 
 The Spanish first transported the domesticated sunflower across the Atlantic Ocean as part of an imperial agenda, though questions persist about who collected such plants or seeds, and when and from where they did so. The map, at right, shows the locations where several Spanish expeditions could have encountered _Helianthus annuus_. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” we can use verbal and visual descriptions of the plant from herbals to chart its introduction to Spain and other parts of Europe as well. Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Seville. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to Flanders.
-<param ve-map center="0.040297, -71.224280" zoom="8" >
+<param ve-map center="43.615469, 3.882742" zoom="6" >
 
 ### “Peruvian” Origins and Mythic Encounters
 
@@ -164,11 +164,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzIyNjM1MzgsMTUyODI2MDc1MiwxNT
-Q2ODg4Mjg3LC0xMzI4MjgzNTcxLDYzMTQyMTc4NiwxODczNzU2
-NDI0LDEyNDYyMjQyNzYsMTM1NDU3NjkxNiwtMTYxOTIyNzc5Mi
-wyMzI2NTE4MzYsLTE0MDMyMTg1MDUsMTk3Mjc0NzYxOSwxODg5
-OTU4OTUwLC04Nzg5ODcyMjUsOTEyMDk2MzI2LDE3NDA1NzUyMD
-IsLTg3MTg4OTc0MCwxOTcyMTI2MzE5LDczNzQ3NDcwOCwtMTgy
-MTIzOTg1Nl19
+eyJoaXN0b3J5IjpbOTUzMjc0OTMzLDE1MjgyNjA3NTIsMTU0Nj
+g4ODI4NywtMTMyODI4MzU3MSw2MzE0MjE3ODYsMTg3Mzc1NjQy
+NCwxMjQ2MjI0Mjc2LDEzNTQ1NzY5MTYsLTE2MTkyMjc3OTIsMj
+MyNjUxODM2LC0xNDAzMjE4NTA1LDE5NzI3NDc2MTksMTg4OTk1
+ODk1MCwtODc4OTg3MjI1LDkxMjA5NjMyNiwxNzQwNTc1MjAyLC
+04NzE4ODk3NDAsMTk3MjEyNjMxOSw3Mzc0NzQ3MDgsLTE4MjEy
+Mzk4NTZdfQ==
 -->
