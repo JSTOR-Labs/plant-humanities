@@ -46,7 +46,7 @@ The Spanish first transported the domesticated sunflower across the Atlantic Oce
 ### “Peruvian” Origins and Mythic Encounters
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht">
-Visual and verbal representations of the cultivated sunflower chart not only the transoceanic movement of the plant, but also the transregional exchange of iconography and ideas pertaining to it. That is true of the sunflower pictured in Dodoens’s _Florum, et Coronariarum_, at right. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ plant growing in soil as the artist may have encountered it in a garden. Indeed, Dodoens’s description identifies a specific garden, in Mechlin, as the place shown in the picture where it blooms: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.” Beautiful to behold, according to Dodoens, the sunflower became a rare foreign luxury good that conferred status upon its owner; it was also a living artifact of European colonialism and the violence encounters.
+Visual and verbal representations of the cultivated sunflower chart not only the transoceanic movement of the plant, but also the transregional exchange of iconography and ideas pertaining to it. That is true of the sunflower pictured in Dodoens’s _Florum, et Coronariarum_, at right. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ plant growing in soil as the artist may have encountered it in a garden. Indeed, Dodoens’s description identifies a specific garden, in Mechlin, as the place shown in the picture where it blooms: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.” Beautiful to behold, according to Dodoens, the sunflower became a rare foreign luxury good that conferred status upon its owner; it was also a living artifact of European colonialist policies that .
 <param ve-image fit="contain" url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
 
 Although Dodoens provides vital evidence about the migration of _Helianthus annuus_ to Flanders by the mid-1560s, his account of the sunflower’s provenance is somewhat muddy. Dodoens used the pre-Linnaean name _Chrysanthemum Peruvianum_ to identify the cultivated sunflower and indicate its Peruvian origins. However, at that time, the word “Peru” was used indiscriminately to mean someplace in the Americas. It is possible that the authors of herbals mistakenly associated plants from the Americas with Peru because that was the last port of call for Spanish ships returning to Europe. The myth of the sunflower’s “Peruvian” origins was propagated by subsequent herbals that repurposed imagery and information from Dodoens. That was the case for John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which reproduces the woodcut of _Chrysanthemum Peruvianum_ from Dodoens’s _Florum, et Coronariarum_.
@@ -163,11 +163,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyMzc4NzY2LDE4ODk5NTg5NTAsLTg3OD
-k4NzIyNSw5MTIwOTYzMjYsMTc0MDU3NTIwMiwtODcxODg5NzQw
-LDE5NzIxMjYzMTksNzM3NDc0NzA4LC0xODIxMjM5ODU2LC0xOT
-YyMzQxOTczLC0yMTI3NjEyMDc2LDEyODQwNDA0OTIsLTYwODA0
-MDYxNiwxNjE1MjQzMDQ2LC0xMjc5MTQxODE2LDkyMzc0NzAwNC
-wtMTE2MjE0NTAzNCwtMTg2NzM5NTM4Myw3OTUwNjc5MDUsOTI4
-MjI2MDQ1XX0=
+eyJoaXN0b3J5IjpbMTk3Mjc0NzYxOSwxODg5OTU4OTUwLC04Nz
+g5ODcyMjUsOTEyMDk2MzI2LDE3NDA1NzUyMDIsLTg3MTg4OTc0
+MCwxOTcyMTI2MzE5LDczNzQ3NDcwOCwtMTgyMTIzOTg1NiwtMT
+k2MjM0MTk3MywtMjEyNzYxMjA3NiwxMjg0MDQwNDkyLC02MDgw
+NDA2MTYsMTYxNTI0MzA0NiwtMTI3OTE0MTgxNiw5MjM3NDcwMD
+QsLTExNjIxNDUwMzQsLTE4NjczOTUzODMsNzk1MDY3OTA1LDky
+ODIyNjA0NV19
 -->
