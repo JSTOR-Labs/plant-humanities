@@ -40,9 +40,8 @@ So, how did the _Helianthus annuus_ specimen represented by Besler’s designer 
 
 <param ve-entity eid="Q80914" title="Tabasco">
 There is some debate among scientists about when domesticated sunflowers were used in the southwestern United States and northern Mexico, and whether they were cultivated independently there.[^ref7]  A charred seed, which is no longer extant, was recovered at San Antonio cave, in Tobasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that the seed it may have come from a squash or a wild sunflower. Building on that and other archeological research, genomic studies of the common sunflower have linked present-day crops and seed remains to a common ancestor, which was cultivated at an independent domestication center in eastern North America. For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by Spanish explorers.
-<param ve-map prefer-geojson center="18.299068, -92.378113" zoom="6">
+<param ve-map prefer-geojson center="18.299068, -92.378113" zoom="5">
 
-<param ve-entity eid="Q46" title="Europe">
 <param ve-entity eid="Q29" title="Spain">
 The Spanish first transported the domesticated sunflower across the Atlantic Ocean as part of an imperial agenda, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” we can use verbal and visual descriptions of the plant from herbals to chart its introduction to Spain and other parts of Europe as well. 
 <param ve-map prefer-geojson center="43.797104, 7.265838" zoom="4">
@@ -174,7 +173,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDQ4MDY0NiwxMjI5Mzg3MDQyLDUxOD
+eyJoaXN0b3J5IjpbLTc2NTg5NTYyNiwxMjI5Mzg3MDQyLDUxOD
 QzNTYyMCwtMjA4MTc3ODc0NSwyMDMyOTkzNDg5LC0xMDA2MDIx
 MjAwLC0xNTY3NjEwOTg1LDE1NDY1MjA5ODMsMTUyODI2MDc1Mi
 wxNTQ2ODg4Mjg3LC0xMzI4MjgzNTcxLDYzMTQyMTc4NiwxODcz
