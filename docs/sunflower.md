@@ -45,6 +45,8 @@ There is some debate among scientists about when domesticated sunflowers were us
 The Spanish first transported the domesticated sunflower across the Atlantic Ocean as part of an imperial agenda, though questions persist about who collected such plants or seeds, and when and from where they did so. The map, at right, shows the locations where several Spanish expeditions could have encountered _Helianthus annuus_. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” we can use verbal and visual descriptions of the plant from herbals to chart its introduction to Spain and other parts of Europe as well.
 <param ve-map center="37.355704, -5.981840" zoom="8">
 
+<param ve-entity eid="Q950531" title="Nicolás Monardes">
+<param ve-entity eid="Q437466" title="Rembert Dodoens">
 <param ve-entity eid="Q17025438" title="United States National Herbarium">
 <param ve-entity eid="Q17025438" title="United States National Herbarium">
 Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Seville. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to <span data-click-map-flyto="51.242429, 4.397804">Flanders</span>.
@@ -170,7 +172,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Mzc3MDE1MCwtMTAwNjAyMTIwMCwtMT
+eyJoaXN0b3J5IjpbLTI0MDQzNjM0NCwtMTAwNjAyMTIwMCwtMT
 U2NzYxMDk4NSwxNTQ2NTIwOTgzLDE1MjgyNjA3NTIsMTU0Njg4
 ODI4NywtMTMyODI4MzU3MSw2MzE0MjE3ODYsMTg3Mzc1NjQyNC
 wxMjQ2MjI0Mjc2LDEzNTQ1NzY5MTYsLTE2MTkyMjc3OTIsMjMy
