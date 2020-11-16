@@ -77,12 +77,14 @@ Another species, _Heliconia tortuosa_ from Costa Rica, provides a fascinating ex
 <param ve-entity eid="Q1533239" aliases="midges" title="Ceratopogonidae">
 <param ve-entity eid="Q859257" aliases="flies" title="fly">
 The close relationship between heliconias and their pollinators highlights the vital role these plants play in the broader ecosystem as a source of food and shelter. A number of birds, such as toucans and tanagers, as well as squirrels feed on the bright blue fruits and seeds of most species of _Heliconia_. Some plants, like _Heliconia imbricata_, are keystone species crucial to the survival of many other rainforest inhabitants.  In addition to feeding energy-rich nectar to the hummingbirds which pollinate its flowers, this heliconia offers a daytime home to tent-making bats, who fold-over the banana-like leaves to provide shelter from the tropical sun and rain. The species also serves as the perfect spot for hummingbirds to build their nests under the tips of the leaves. Meanwhile, the liquid that pools in the bracts enclosing the flowers is a breeding ground for insect larvae, especially mosquitos, midges, and flies. One group of tropical beetles, called the rolled-leaf hispine beetles, is highly specialized to feed inside the unfurling leaves of this and other species of heliconias and their relatives.
-<param ve-vis-network title="_Heliconia imbricata_ and hummingbird mutualistic interactions" file="https://jstor-labs.github.io/plant-humanities/graphs/heliconia-v3.tsv">
+<param ve-d3plus-ring-network 
+       url="https://github.com/JSTOR-Labs/plant-humanities/blob/develop/data/heliconia_network_interactions.tsv" center="Heliconia imbricata">
 
 <param ve-entity eid="Q441" title="botany">
 <param ve-entity eid="Q181916" title="herbarium">
 Botany has always been a highly visual science, and our understanding of plants depends partly on the ways in which we have chosen to represent them. One of the conventions of both the botanical portrait and the scientific illustration alike is the rendering of the singular plant removed from its natural context and portrayed against a neutral background. Similarly, the herbarium sheet removes the plant from its ecosystem, rendering it suitable for transportation, archiving, and future reference and comparison in museums, but divorcing the specimen from its web of interactions and relationships. We know that plants do not exist in isolation; they inhabit rich and diverse habitats populated by many plants, numerous birds, other animals, and microorganisms. Today, many of the highly specialized interactions among these creatures are severely under threat of extinction. Botanists are therefore using the conventional forms of plant representation, such as herbarium specimens, to understand more about natural habitats of the species and repurposing them to determine effective strategies for their conservation.
-<param ve-vis-network file="https://jstor-labs.github.io/plant-humanities/graphs/Heliconia.tsv">
+<param ve-d3plus-ring-network 
+       url="https://github.com/JSTOR-Labs/plant-humanities/blob/develop/data/heliconia_network_relationship_v2.tsv" center="Heliconia imbricata">
 
 ### Conserving the Diversity of Heliconia
 
