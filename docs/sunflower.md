@@ -11,7 +11,7 @@
 _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom that is inextricable from its relationship with humans. The cultivated annual, highly valued for its edible seeds and seed oil, is among a small number of crop plants to have been domesticated in North America.[^ref1] The species is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, robust unbranched stem, and imposing height. Indeed, the common sunflower can grow freestanding up to sixteen feet tall.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
-As this botanical illustration reminds us, _Helianthus annuus_ is a giant not just in the plant world but also in the visual arts. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized proportions. Like that giant flower, _H. annuus_ looms large in certain cultural imaginaries, so large that many of us now fail to appreciate the intrinsic value of the species and to recognize the diversity within the genus sunflower. Instead, there is a tendency for people without direct knowledge of plants to essentialize sunflowers by assuming that they all possess a single, golden blossom perched on an unbranched stem. Such stereotypes have often shaped or been shaped by visual representations of the plant.
+As this botanical illustration reminds us, _Helianthus annuus_ is a giant not just in the plant world but also in the visual arts. In this plant portrait, through the unexpected addition of a greyhound, the artist emphasizes the sunflower’s supersized proportions. Like that giant flower, _H. annuus_ looms large in certain cultural imaginaries, so large that many of us now fail to appreciate the intrinsic value of the species and to recognize the diversity within the genus sunflower. Instead, there is a tendency for people without direct knowledge of plants to essentialize sunflowers by assuming that they all possess a single, golden blossom perched on an unbranched stem. Such stereotypes have often shaped or been shaped by visual representations of the plant.
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 This essay clarifies how pictures of the sunflower can provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have contributed to the formation of visual stereotypes for the sunflower that often elide species differences and perpetuate cultural myths.
@@ -148,11 +148,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 [^ref1]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706).
 [^ref2]: Carl von Linné, _Species plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 904-06, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.669](https://doi.org/10.5962/bhl.title.669 "DOI"); Carl von Linné, _Genera plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 386, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.746](https://doi.org/10.5962/bhl.title.746).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3MTY0OTY1LDE3NDA1NzUyMDIsLTg3MT
-g4OTc0MCwxOTcyMTI2MzE5LDczNzQ3NDcwOCwtMTgyMTIzOTg1
-NiwtMTk2MjM0MTk3MywtMjEyNzYxMjA3NiwxMjg0MDQwNDkyLC
-02MDgwNDA2MTYsMTYxNTI0MzA0NiwtMTI3OTE0MTgxNiw5MjM3
-NDcwMDQsLTExNjIxNDUwMzQsLTE4NjczOTUzODMsNzk1MDY3OT
-A1LDkyODIyNjA0NSwtMjA3OTkzNTk1LDE4NzYzNzUzMTQsMTgy
-Nzc1OTYzOF19
+eyJoaXN0b3J5IjpbLTEzNDY0NDI0NjksMTc0MDU3NTIwMiwtOD
+cxODg5NzQwLDE5NzIxMjYzMTksNzM3NDc0NzA4LC0xODIxMjM5
+ODU2LC0xOTYyMzQxOTczLC0yMTI3NjEyMDc2LDEyODQwNDA0OT
+IsLTYwODA0MDYxNiwxNjE1MjQzMDQ2LC0xMjc5MTQxODE2LDky
+Mzc0NzAwNCwtMTE2MjE0NTAzNCwtMTg2NzM5NTM4Myw3OTUwNj
+c5MDUsOTI4MjI2MDQ1LC0yMDc5OTM1OTUsMTg3NjM3NTMxNCwx
+ODI3NzU5NjM4XX0=
 -->
