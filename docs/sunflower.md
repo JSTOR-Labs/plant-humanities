@@ -42,7 +42,7 @@ There is some debate among scientists about when domesticated sunflowers were us
 <param ve-map center="18.299068, -92.378113" zoom="6">
 
 The Spanish first transported the domesticated sunflower across the Atlantic Ocean as part of an imperial agenda, though questions persist about who collected such plants or seeds, and when and from where they did so. The map, at right, shows the locations where several Spanish expeditions could have encountered _Helianthus annuus_. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” we can use verbal and visual descriptions of the plant from herbals to chart its introduction to Spain and other parts of Europe as well. Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in <span data-click-map-flyto="51.242429, 4.397804">Seville</span>. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to <span data-click-map-flyto="9.036443, -69.729927, 7.3">Flanders</span>.
-<param ve-map center="45.583422, 9.280067" zoom="6">
+<param ve-map center="51.242429, 4.397804" zoom="6">
 
 ### “Peruvian” Origins and Mythic Encounters
 
@@ -164,11 +164,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjQyODU1MCwtMTU2NzYxMDk4NSwxNT
-Q2NTIwOTgzLDE1MjgyNjA3NTIsMTU0Njg4ODI4NywtMTMyODI4
-MzU3MSw2MzE0MjE3ODYsMTg3Mzc1NjQyNCwxMjQ2MjI0Mjc2LD
-EzNTQ1NzY5MTYsLTE2MTkyMjc3OTIsMjMyNjUxODM2LC0xNDAz
-MjE4NTA1LDE5NzI3NDc2MTksMTg4OTk1ODk1MCwtODc4OTg3Mj
-I1LDkxMjA5NjMyNiwxNzQwNTc1MjAyLC04NzE4ODk3NDAsMTk3
-MjEyNjMxOV19
+eyJoaXN0b3J5IjpbLTE2MjY4MTc0MjMsLTE1Njc2MTA5ODUsMT
+U0NjUyMDk4MywxNTI4MjYwNzUyLDE1NDY4ODgyODcsLTEzMjgy
+ODM1NzEsNjMxNDIxNzg2LDE4NzM3NTY0MjQsMTI0NjIyNDI3Ni
+wxMzU0NTc2OTE2LC0xNjE5MjI3NzkyLDIzMjY1MTgzNiwtMTQw
+MzIxODUwNSwxOTcyNzQ3NjE5LDE4ODk5NTg5NTAsLTg3ODk4Nz
+IyNSw5MTIwOTYzMjYsMTc0MDU3NTIwMiwtODcxODg5NzQwLDE5
+NzIxMjYzMTldfQ==
 -->
