@@ -35,7 +35,7 @@ Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical name
 ### Range and Cultivation
 
 So, how did the _Helianthus annuus_ specimen represented by Besler’s designer come into being? The common sunflower was cultivated by humans many centuries ago, and the history of that process is enmeshed with convergences of plant and human mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref5] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref6] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large seeds.
-<param ve-map title="Archaeological sites from where seed remains of _Helianthus_ have been recovered" center="35.851603, -86.368961" zoom="4" stroke-width="0" fill="green" fill-opacity="1">
+<param ve-map title="Archaeological sites from where seed remains of _Helianthus_ have been recovered" center="35.851603, -86.368961" zoom="5.5">
 <param ve-map-layer data-type="geojson" data-url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/geojson/Sunflower_Hayes_40ML139.geojson" data-active="true">
 
 There is some debate among scientists about when domesticated sunflowers were used in the southwestern United States and northern Mexico, and whether they were cultivated independently there.[^ref7] Although a charred seed was recovered at San Antonio cave that some scientists identified as coming from _H. annuus_, others argued that the seed, which is no longer extant, may have come from a squash or a wild sunflower. Building on that and other archeological research, genomic studies of the common sunflower have linked present-day crops and seed remains to a common ancestor, which was cultivated at an independent domestication center in eastern North America. For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by Spanish explorers.
@@ -164,7 +164,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjYyMjUzNDIsMjMyNjUxODM2LC0xND
+eyJoaXN0b3J5IjpbLTE2MTkyMjc3OTIsMjMyNjUxODM2LC0xND
 AzMjE4NTA1LDE5NzI3NDc2MTksMTg4OTk1ODk1MCwtODc4OTg3
 MjI1LDkxMjA5NjMyNiwxNzQwNTc1MjAyLC04NzE4ODk3NDAsMT
 k3MjEyNjMxOSw3Mzc0NzQ3MDgsLTE4MjEyMzk4NTYsLTE5NjIz
