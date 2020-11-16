@@ -51,7 +51,7 @@ The Spanish first transported the domesticated sunflower across the Atlantic Oce
 <param ve-entity eid="Q8717" title="Seville">
 <param ve-entity eid="Q162022" title="Mechelen">
 Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Seville, Spain. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.242429, 4.397804">Mechelen</span>, Flanders.
-<param ve-map prefer-geojson center="37.495436, -5.982527" zoom="9">
+<param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10">
 
 ### “Peruvian” Origins and Mythic Encounters
 
@@ -173,11 +173,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA4NDI4NDIsLTIxNDIxMTc5MTksMT
-IyOTM4NzA0Miw1MTg0MzU2MjAsLTIwODE3Nzg3NDUsMjAzMjk5
-MzQ4OSwtMTAwNjAyMTIwMCwtMTU2NzYxMDk4NSwxNTQ2NTIwOT
-gzLDE1MjgyNjA3NTIsMTU0Njg4ODI4NywtMTMyODI4MzU3MSw2
-MzE0MjE3ODYsMTg3Mzc1NjQyNCwxMjQ2MjI0Mjc2LDEzNTQ1Nz
-Y5MTYsLTE2MTkyMjc3OTIsMjMyNjUxODM2LC0xNDAzMjE4NTA1
-LDE5NzI3NDc2MTldfQ==
+eyJoaXN0b3J5IjpbNjM3NjEzODg2LC0xNDUwODQyODQyLC0yMT
+QyMTE3OTE5LDEyMjkzODcwNDIsNTE4NDM1NjIwLC0yMDgxNzc4
+NzQ1LDIwMzI5OTM0ODksLTEwMDYwMjEyMDAsLTE1Njc2MTA5OD
+UsMTU0NjUyMDk4MywxNTI4MjYwNzUyLDE1NDY4ODgyODcsLTEz
+MjgyODM1NzEsNjMxNDIxNzg2LDE4NzM3NTY0MjQsMTI0NjIyND
+I3NiwxMzU0NTc2OTE2LC0xNjE5MjI3NzkyLDIzMjY1MTgzNiwt
+MTQwMzIxODUwNV19
 -->
