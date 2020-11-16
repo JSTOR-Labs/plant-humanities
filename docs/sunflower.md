@@ -34,7 +34,7 @@ Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical name
 
 ### Range and Cultivation
 
-So, how did the _Helianthus annuus_ specimen represented by Besler’s designer come into being? The common sunflower was cultivated by humans many centuries ago, and the history of that process is enmeshed with convergences of plant and human mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref5] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP. It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large seeds.
+So, how did the _Helianthus annuus_ specimen represented by Besler’s designer come into being? The common sunflower was cultivated by humans many centuries ago, and the history of that process is enmeshed with convergences of plant and human mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref5] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref6] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large seeds.[^ref7]
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
 
 There is some debate among scientists about when domesticated sunflowers were used in the southwestern United States and northern Mexico, and whether they were cultivated independently there. Although a charred seed was recovered at San Antonio cave that some scientists identified as coming from _H. annuus_, others argued that the seed, which is no longer extant, may have come from a squash or a wild sunflower. Building on that and other archeological research, genomic studies of the common sunflower have linked present-day crops and seed remains to a common ancestor, which was cultivated at an independent domestication center in eastern North America. For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by Spanish explorers.
@@ -154,12 +154,14 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 [^ref4]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 
 [^ref5]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTkyMTkyNjIsLTg3ODk4NzIyNSw5MT
-IwOTYzMjYsMTc0MDU3NTIwMiwtODcxODg5NzQwLDE5NzIxMjYz
-MTksNzM3NDc0NzA4LC0xODIxMjM5ODU2LC0xOTYyMzQxOTczLC
-0yMTI3NjEyMDc2LDEyODQwNDA0OTIsLTYwODA0MDYxNiwxNjE1
-MjQzMDQ2LC0xMjc5MTQxODE2LDkyMzc0NzAwNCwtMTE2MjE0NT
-AzNCwtMTg2NzM5NTM4Myw3OTUwNjc5MDUsOTI4MjI2MDQ1LC0y
-MDc5OTM1OTVdfQ==
+eyJoaXN0b3J5IjpbNDEyMjE0MTkzLC04Nzg5ODcyMjUsOTEyMD
+k2MzI2LDE3NDA1NzUyMDIsLTg3MTg4OTc0MCwxOTcyMTI2MzE5
+LDczNzQ3NDcwOCwtMTgyMTIzOTg1NiwtMTk2MjM0MTk3MywtMj
+EyNzYxMjA3NiwxMjg0MDQwNDkyLC02MDgwNDA2MTYsMTYxNTI0
+MzA0NiwtMTI3OTE0MTgxNiw5MjM3NDcwMDQsLTExNjIxNDUwMz
+QsLTE4NjczOTUzODMsNzk1MDY3OTA1LDkyODIyNjA0NSwtMjA3
+OTkzNTk1XX0=
 -->
