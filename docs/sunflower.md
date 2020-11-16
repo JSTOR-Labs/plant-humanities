@@ -151,15 +151,13 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref3]: Translated in Alice Dickinson, _Carl Linnaeus; Pioneer of Modern Botany_ (New York: F. Watts, 1967), 125, accessed October 7, 2020, HathiTrust.
 
-[^ref4]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (H.N. Abrams
-
-1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
+[^ref4]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjM1NzQ5NDMsMTc0MDU3NTIwMiwtOD
-cxODg5NzQwLDE5NzIxMjYzMTksNzM3NDc0NzA4LC0xODIxMjM5
-ODU2LC0xOTYyMzQxOTczLC0yMTI3NjEyMDc2LDEyODQwNDA0OT
-IsLTYwODA0MDYxNiwxNjE1MjQzMDQ2LC0xMjc5MTQxODE2LDky
-Mzc0NzAwNCwtMTE2MjE0NTAzNCwtMTg2NzM5NTM4Myw3OTUwNj
-c5MDUsOTI4MjI2MDQ1LC0yMDc5OTM1OTUsMTg3NjM3NTMxNCwx
-ODI3NzU5NjM4XX0=
+eyJoaXN0b3J5IjpbOTEyMDk2MzI2LDE3NDA1NzUyMDIsLTg3MT
+g4OTc0MCwxOTcyMTI2MzE5LDczNzQ3NDcwOCwtMTgyMTIzOTg1
+NiwtMTk2MjM0MTk3MywtMjEyNzYxMjA3NiwxMjg0MDQwNDkyLC
+02MDgwNDA2MTYsMTYxNTI0MzA0NiwtMTI3OTE0MTgxNiw5MjM3
+NDcwMDQsLTExNjIxNDUwMzQsLTE4NjczOTUzODMsNzk1MDY3OT
+A1LDkyODIyNjA0NSwtMjA3OTkzNTk1LDE4NzYzNzUzMTQsMTgy
+Nzc1OTYzOF19
 -->
