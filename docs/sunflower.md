@@ -8,7 +8,9 @@
 ### A Giant among Us
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom that is inextricable from its relationship with humans. The cultivated annual, highly valued for its edible seeds and seed oil, is among a small number of crop plants to have been domesticated in North America. The species is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, robust unbranched stem, and imposing height. Indeed, the common sunflower can grow freestanding up to sixteen feet tall.
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom that is inextricable from its relationship with humans. The cultivated annual, highly valued for its edible seeds and seed oil, is among a small number of crop plants to have been domesticated in North America.```
+[^ref1]
+``` The species is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, robust unbranched stem, and imposing height. Indeed, the common sunflower can grow freestanding up to sixteen feet tall.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 As this botanical illustration reminds us, _Helianthus annuus_ is a giant not just in the plant world but also in the visual arts. Through the unexpected addition of a greyhound to this plant portrait, the artist emphasizes the sunflower’s supersized proportions. Like that giant flower, _H. annuus_ looms large in certain cultural imaginaries, so large that many of us now fail to appreciate the intrinsic value of the species and to recognize the diversity within the genus sunflower. Instead, there is a tendency for people without direct knowledge of plants to essentialize sunflowers by assuming that they all possess a single, golden blossom perched on an unbranched stem. Such stereotypes have often shaped or been shaped by visual representations of the plant.
@@ -147,11 +149,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3NzE5NzU2LDE3NDA1NzUyMDIsLTg3MT
-g4OTc0MCwxOTcyMTI2MzE5LDczNzQ3NDcwOCwtMTgyMTIzOTg1
-NiwtMTk2MjM0MTk3MywtMjEyNzYxMjA3NiwxMjg0MDQwNDkyLC
-02MDgwNDA2MTYsMTYxNTI0MzA0NiwtMTI3OTE0MTgxNiw5MjM3
-NDcwMDQsLTExNjIxNDUwMzQsLTE4NjczOTUzODMsNzk1MDY3OT
-A1LDkyODIyNjA0NSwtMjA3OTkzNTk1LDE4NzYzNzUzMTQsMTgy
-Nzc1OTYzOF19
+eyJoaXN0b3J5IjpbMTIxNDkwMTg3OCwxNzQwNTc1MjAyLC04Nz
+E4ODk3NDAsMTk3MjEyNjMxOSw3Mzc0NzQ3MDgsLTE4MjEyMzk4
+NTYsLTE5NjIzNDE5NzMsLTIxMjc2MTIwNzYsMTI4NDA0MDQ5Mi
+wtNjA4MDQwNjE2LDE2MTUyNDMwNDYsLTEyNzkxNDE4MTYsOTIz
+NzQ3MDA0LC0xMTYyMTQ1MDM0LC0xODY3Mzk1MzgzLDc5NTA2Nz
+kwNSw5MjgyMjYwNDUsLTIwNzk5MzU5NSwxODc2Mzc1MzE0LDE4
+Mjc3NTk2MzhdfQ==
 -->
