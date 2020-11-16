@@ -157,17 +157,17 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref6]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
 
-[^ref7]: 
+[^ref7]: For more on the debate about the domesticated sunflower in prehistoric Mexico and North America see Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 447-49; David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjUyNDc4NTIsLTg3ODk4NzIyNSw5MT
-IwOTYzMjYsMTc0MDU3NTIwMiwtODcxODg5NzQwLDE5NzIxMjYz
-MTksNzM3NDc0NzA4LC0xODIxMjM5ODU2LC0xOTYyMzQxOTczLC
-0yMTI3NjEyMDc2LDEyODQwNDA0OTIsLTYwODA0MDYxNiwxNjE1
-MjQzMDQ2LC0xMjc5MTQxODE2LDkyMzc0NzAwNCwtMTE2MjE0NT
-AzNCwtMTg2NzM5NTM4Myw3OTUwNjc5MDUsOTI4MjI2MDQ1LC0y
-MDc5OTM1OTVdfQ==
+eyJoaXN0b3J5IjpbMTg4OTk1ODk1MCwtODc4OTg3MjI1LDkxMj
+A5NjMyNiwxNzQwNTc1MjAyLC04NzE4ODk3NDAsMTk3MjEyNjMx
+OSw3Mzc0NzQ3MDgsLTE4MjEyMzk4NTYsLTE5NjIzNDE5NzMsLT
+IxMjc2MTIwNzYsMTI4NDA0MDQ5MiwtNjA4MDQwNjE2LDE2MTUy
+NDMwNDYsLTEyNzkxNDE4MTYsOTIzNzQ3MDA0LC0xMTYyMTQ1MD
+M0LC0xODY3Mzk1MzgzLDc5NTA2NzkwNSw5MjgyMjYwNDUsLTIw
+Nzk5MzU5NV19
 -->
