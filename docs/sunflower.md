@@ -145,7 +145,7 @@ As this map shows, the native range of _Helianthus_ stretches from British Colum
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
 ### References
-[^ref1]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706).
+[^ref1]: Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
 
 [^ref2]: Carl von Linné, _Species plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 904-06, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.669](https://doi.org/10.5962/bhl.title.669 "DOI"); Carl von Linné, _Genera plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 386, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.746](https://doi.org/10.5962/bhl.title.746).
 
@@ -157,11 +157,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMjE0MTkzLC04Nzg5ODcyMjUsOTEyMD
-k2MzI2LDE3NDA1NzUyMDIsLTg3MTg4OTc0MCwxOTcyMTI2MzE5
-LDczNzQ3NDcwOCwtMTgyMTIzOTg1NiwtMTk2MjM0MTk3MywtMj
-EyNzYxMjA3NiwxMjg0MDQwNDkyLC02MDgwNDA2MTYsMTYxNTI0
-MzA0NiwtMTI3OTE0MTgxNiw5MjM3NDcwMDQsLTExNjIxNDUwMz
-QsLTE4NjczOTUzODMsNzk1MDY3OTA1LDkyODIyNjA0NSwtMjA3
-OTkzNTk1XX0=
+eyJoaXN0b3J5IjpbLTUwODYzNDQyNSwtODc4OTg3MjI1LDkxMj
+A5NjMyNiwxNzQwNTc1MjAyLC04NzE4ODk3NDAsMTk3MjEyNjMx
+OSw3Mzc0NzQ3MDgsLTE4MjEyMzk4NTYsLTE5NjIzNDE5NzMsLT
+IxMjc2MTIwNzYsMTI4NDA0MDQ5MiwtNjA4MDQwNjE2LDE2MTUy
+NDMwNDYsLTEyNzkxNDE4MTYsOTIzNzQ3MDA0LC0xMTYyMTQ1MD
+M0LC0xODY3Mzk1MzgzLDc5NTA2NzkwNSw5MjgyMjYwNDUsLTIw
+Nzk5MzU5NV19
 -->
