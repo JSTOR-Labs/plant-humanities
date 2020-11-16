@@ -153,15 +153,19 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref4]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 
-[^ref5]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706).
+[^ref5]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
+
+[^ref6]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODYzNDQyNSwtODc4OTg3MjI1LDkxMj
-A5NjMyNiwxNzQwNTc1MjAyLC04NzE4ODk3NDAsMTk3MjEyNjMx
-OSw3Mzc0NzQ3MDgsLTE4MjEyMzk4NTYsLTE5NjIzNDE5NzMsLT
-IxMjc2MTIwNzYsMTI4NDA0MDQ5MiwtNjA4MDQwNjE2LDE2MTUy
-NDMwNDYsLTEyNzkxNDE4MTYsOTIzNzQ3MDA0LC0xMTYyMTQ1MD
-M0LC0xODY3Mzk1MzgzLDc5NTA2NzkwNSw5MjgyMjYwNDUsLTIw
-Nzk5MzU5NV19
+eyJoaXN0b3J5IjpbLTIwODIyMzc4ODAsLTg3ODk4NzIyNSw5MT
+IwOTYzMjYsMTc0MDU3NTIwMiwtODcxODg5NzQwLDE5NzIxMjYz
+MTksNzM3NDc0NzA4LC0xODIxMjM5ODU2LC0xOTYyMzQxOTczLC
+0yMTI3NjEyMDc2LDEyODQwNDA0OTIsLTYwODA0MDYxNiwxNjE1
+MjQzMDQ2LC0xMjc5MTQxODE2LDkyMzc0NzAwNCwtMTE2MjE0NT
+AzNCwtMTg2NzM5NTM4Myw3OTUwNjc5MDUsOTI4MjI2MDQ1LC0y
+MDc5OTM1OTVdfQ==
 -->
