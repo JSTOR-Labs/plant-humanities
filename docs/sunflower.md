@@ -50,7 +50,7 @@ The Spanish first transported the domesticated sunflower across the Atlantic Oce
 <param ve-entity eid="Q437466" title="Rembert Dodoens">
 <param ve-entity eid="Q8717" title="Seville">
 <param ve-entity eid="Q234" title="Flanders">
-Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Seville. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to <span data-click-map-flyto="51.242429, 4.397804">Flanders</span>.
+Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Seville. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to  <span data-click-map-flyto="51.242429, 4.397804">Flanders</span>.
 <param ve-map prefer-geojson center="37.355704, -5.981840" zoom="8">
 
 ### “Peruvian” Origins and Mythic Encounters
@@ -173,11 +173,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTg5NTYyNiwxMjI5Mzg3MDQyLDUxOD
-QzNTYyMCwtMjA4MTc3ODc0NSwyMDMyOTkzNDg5LC0xMDA2MDIx
-MjAwLC0xNTY3NjEwOTg1LDE1NDY1MjA5ODMsMTUyODI2MDc1Mi
-wxNTQ2ODg4Mjg3LC0xMzI4MjgzNTcxLDYzMTQyMTc4NiwxODcz
-NzU2NDI0LDEyNDYyMjQyNzYsMTM1NDU3NjkxNiwtMTYxOTIyNz
-c5MiwyMzI2NTE4MzYsLTE0MDMyMTg1MDUsMTk3Mjc0NzYxOSwx
-ODg5OTU4OTUwXX0=
+eyJoaXN0b3J5IjpbLTEyOTc4MjQxNTIsMTIyOTM4NzA0Miw1MT
+g0MzU2MjAsLTIwODE3Nzg3NDUsMjAzMjk5MzQ4OSwtMTAwNjAy
+MTIwMCwtMTU2NzYxMDk4NSwxNTQ2NTIwOTgzLDE1MjgyNjA3NT
+IsMTU0Njg4ODI4NywtMTMyODI4MzU3MSw2MzE0MjE3ODYsMTg3
+Mzc1NjQyNCwxMjQ2MjI0Mjc2LDEzNTQ1NzY5MTYsLTE2MTkyMj
+c3OTIsMjMyNjUxODM2LC0xNDAzMjE4NTA1LDE5NzI3NDc2MTks
+MTg4OTk1ODk1MF19
 -->
