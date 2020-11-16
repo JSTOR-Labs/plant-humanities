@@ -21,8 +21,8 @@ This essay clarifies how sunflower imagery can provide valuable historical infor
 
 <param ve-entity eid="Q10432667306" title="Carl Linnaeus" aliases="Carolus Linnaeus">
 The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—was named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the plant was already a beloved garden flower in Europe.[^ref2] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant, in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_, offers some insights. He asks, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?”[^ref3] His encomium on the splendor of the mature _Helianthus_ inflorescence demonstrates some traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
-<param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, title page, _Critica botanica_, 1737, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-<param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, title page, _Critica botanica_, 1737, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
+<param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, p. 97 Nomina Generica, _Critica botanica_, 1737, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
+<param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, p. 98 Nomina Generica, _Critica botanica_, 1737, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
 <param ve-entity eid="Q65027" title="Basilius Besler">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
@@ -153,11 +153,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref4]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyMDk2MzI2LDE3NDA1NzUyMDIsLTg3MT
-g4OTc0MCwxOTcyMTI2MzE5LDczNzQ3NDcwOCwtMTgyMTIzOTg1
-NiwtMTk2MjM0MTk3MywtMjEyNzYxMjA3NiwxMjg0MDQwNDkyLC
-02MDgwNDA2MTYsMTYxNTI0MzA0NiwtMTI3OTE0MTgxNiw5MjM3
-NDcwMDQsLTExNjIxNDUwMzQsLTE4NjczOTUzODMsNzk1MDY3OT
-A1LDkyODIyNjA0NSwtMjA3OTkzNTk1LDE4NzYzNzUzMTQsMTgy
-Nzc1OTYzOF19
+eyJoaXN0b3J5IjpbMTM2MDgzODIxMyw5MTIwOTYzMjYsMTc0MD
+U3NTIwMiwtODcxODg5NzQwLDE5NzIxMjYzMTksNzM3NDc0NzA4
+LC0xODIxMjM5ODU2LC0xOTYyMzQxOTczLC0yMTI3NjEyMDc2LD
+EyODQwNDA0OTIsLTYwODA0MDYxNiwxNjE1MjQzMDQ2LC0xMjc5
+MTQxODE2LDkyMzc0NzAwNCwtMTE2MjE0NTAzNCwtMTg2NzM5NT
+M4Myw3OTUwNjc5MDUsOTI4MjI2MDQ1LC0yMDc5OTM1OTUsMTg3
+NjM3NTMxNF19
 -->
