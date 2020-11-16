@@ -1,0 +1,56 @@
+{
+  "@context": [
+    "https://opencontext.org/contexts/search.json",
+    "http://geojson.org/geojson-ld/geojson-context.jsonld"
+  ],
+  "type": "FeatureCollection",
+  "oc-api:max-disc-tile-zoom": 11,
+  "oc-api:response-tile-zoom": 19,
+  "oc-api:geotile-scope": "0320012023",
+  "features": [
+    {
+      "id": "https://opencontext.org/search/United+States?disc-geotile=03200120233&geodeep=19&proj=52-digital-index-of-north-american-archaeology-dinaa&prop=oc-gen-cat-loc-or-context---oc-gen-cat-site&q=15MF1&response=geo-facet",
+      "json": "https://opencontext.org/search/United+States.json?disc-geotile=03200120233&geodeep=19&proj=52-digital-index-of-north-american-archaeology-dinaa&prop=oc-gen-cat-loc-or-context---oc-gen-cat-site&q=15MF1&response=geo-facet",
+      "count": 1,
+      "type": "Feature",
+      "category": "oc-api:geo-facet",
+      "geometry": {
+        "id": "#geo-disc-tile-geom-03200120233",
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.84765625,
+              37.71859032558813
+            ],
+            [
+              -83.67187500000001,
+              37.71859032558813
+            ],
+            [
+              -83.67187500000001,
+              37.85750715625203
+            ],
+            [
+              -83.84765625,
+              37.85750715625203
+            ],
+            [
+              -83.84765625,
+              37.71859032558813
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "#geo-disc-tile-03200120233",
+        "href": "https://opencontext.org/search/United+States?disc-geotile=03200120233&geodeep=19&proj=52-digital-index-of-north-american-archaeology-dinaa&prop=oc-gen-cat-loc-or-context---oc-gen-cat-site&q=15MF1&response=geo-facet",
+        "label": "Discovery region (1)",
+        "feature-type": "discovery region (facet)",
+        "count": 1,
+        "early bce/ce": false,
+        "late bce/ce": false
+      }
+    }
+  ]
+}
