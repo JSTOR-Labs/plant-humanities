@@ -48,9 +48,9 @@ The Spanish first transported the domesticated sunflower across the Atlantic Oce
 
 <param ve-entity eid="Q950531" title="Nicolás Monardes">
 <param ve-entity eid="Q437466" title="Rembert Dodoens">
-<param ve-entity eid="Q8717)" title="Rembert Dodoens">
-<param ve-entity eid="Q437466" title="Rembert Dodoens">
-Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Seville, Spain. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.242429, 4.397804">Mechlin</span>, Flanders.
+<param ve-entity eid="Q8717" title="Seville">
+<param ve-entity eid="Q162022" title="Mechelen">
+Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Seville, Spain. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.242429, 4.397804">Mechelen</span>, Flanders.
 <param ve-map prefer-geojson center="37.495436, -5.982527" zoom="9">
 
 ### “Peruvian” Origins and Mythic Encounters
@@ -173,7 +173,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY4Mzk5NDQsLTIxNDIxMTc5MTksMT
+eyJoaXN0b3J5IjpbLTE0NTA4NDI4NDIsLTIxNDIxMTc5MTksMT
 IyOTM4NzA0Miw1MTg0MzU2MjAsLTIwODE3Nzg3NDUsMjAzMjk5
 MzQ4OSwtMTAwNjAyMTIwMCwtMTU2NzYxMDk4NSwxNTQ2NTIwOT
 gzLDE1MjgyNjA3NTIsMTU0Njg4ODI4NywtMTMyODI4MzU3MSw2
