@@ -146,13 +146,13 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 ### References
 [^ref1]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706).
-
+[^ref2]: Carl von Linné, _Species plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 904-06, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.669](https://doi.org/10.5962/bhl.title.669 "DOI"); Carl von Linné, _Genera plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 386, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.746](https://doi.org/10.5962/bhl.title.746).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDczNzgsMTc0MDU3NTIwMiwtODcxOD
-g5NzQwLDE5NzIxMjYzMTksNzM3NDc0NzA4LC0xODIxMjM5ODU2
-LC0xOTYyMzQxOTczLC0yMTI3NjEyMDc2LDEyODQwNDA0OTIsLT
-YwODA0MDYxNiwxNjE1MjQzMDQ2LC0xMjc5MTQxODE2LDkyMzc0
-NzAwNCwtMTE2MjE0NTAzNCwtMTg2NzM5NTM4Myw3OTUwNjc5MD
-UsOTI4MjI2MDQ1LC0yMDc5OTM1OTUsMTg3NjM3NTMxNCwxODI3
-NzU5NjM4XX0=
+eyJoaXN0b3J5IjpbNzkyODMxODY1LDE3NDA1NzUyMDIsLTg3MT
+g4OTc0MCwxOTcyMTI2MzE5LDczNzQ3NDcwOCwtMTgyMTIzOTg1
+NiwtMTk2MjM0MTk3MywtMjEyNzYxMjA3NiwxMjg0MDQwNDkyLC
+02MDgwNDA2MTYsMTYxNTI0MzA0NiwtMTI3OTE0MTgxNiw5MjM3
+NDcwMDQsLTExNjIxNDUwMzQsLTE4NjczOTUzODMsNzk1MDY3OT
+A1LDkyODIyNjA0NSwtMjA3OTkzNTk1LDE4NzYzNzUzMTQsMTgy
+Nzc1OTYzOF19
 -->
