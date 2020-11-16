@@ -41,7 +41,7 @@ So, how did the _Helianthus annuus_ specimen represented by Besler’s designer 
 There is some debate among scientists about when domesticated sunflowers were used in the southwestern United States and northern Mexico, and whether they were cultivated independently there.[^ref7] Although a charred seed was recovered at San Antonio cave that some scientists identified as coming from _H. annuus_, others argued that the seed, which is no longer extant, may have come from a squash or a wild sunflower. Building on that and other archeological research, genomic studies of the common sunflower have linked present-day crops and seed remains to a common ancestor, which was cultivated at an independent domestication center in eastern North America. For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by Spanish explorers.
 <param ve-map center="18.299068, -92.378113" zoom="6">
 
-The Spanish first transported the domesticated sunflower across the Atlantic Ocean as part of an imperial agenda, though questions persist about who collected such plants or seeds, and when and from where they did so. The map, at right, shows the locations where several Spanish expeditions could have encountered _Helianthus annuus_. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” we can use verbal and visual descriptions of the plant from herbals to chart its introduction to Spain and other parts of Europe as well. Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Seville. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to Flanders.
+The Spanish first transported the domesticated sunflower across the Atlantic Ocean as part of an imperial agenda, though questions persist about who collected such plants or seeds, and when and from where they did so. The map, at right, shows the locations where several Spanish expeditions could have encountered _Helianthus annuus_. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” we can use verbal and visual descriptions of the plant from herbals to chart its introduction to Spain and other parts of Europe as well. Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in <span data-click-map-flyto="9.036443, -69.729927, 7.3">Seville</span>. Similarly, Rembert Dodoens’s _[Florum, et Coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to <span data-click-map-flyto="9.036443, -69.729927, 7.3">Flanders</span>.
 <param ve-map center="45.583422, 9.280067" zoom="5.5">
 
 ### “Peruvian” Origins and Mythic Encounters
@@ -164,11 +164,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc2MTA5ODUsMTU0NjUyMDk4MywxNT
-I4MjYwNzUyLDE1NDY4ODgyODcsLTEzMjgyODM1NzEsNjMxNDIx
-Nzg2LDE4NzM3NTY0MjQsMTI0NjIyNDI3NiwxMzU0NTc2OTE2LC
-0xNjE5MjI3NzkyLDIzMjY1MTgzNiwtMTQwMzIxODUwNSwxOTcy
-NzQ3NjE5LDE4ODk5NTg5NTAsLTg3ODk4NzIyNSw5MTIwOTYzMj
-YsMTc0MDU3NTIwMiwtODcxODg5NzQwLDE5NzIxMjYzMTksNzM3
-NDc0NzA4XX0=
+eyJoaXN0b3J5IjpbNjcxNTgyMzU5LC0xNTY3NjEwOTg1LDE1ND
+Y1MjA5ODMsMTUyODI2MDc1MiwxNTQ2ODg4Mjg3LC0xMzI4Mjgz
+NTcxLDYzMTQyMTc4NiwxODczNzU2NDI0LDEyNDYyMjQyNzYsMT
+M1NDU3NjkxNiwtMTYxOTIyNzc5MiwyMzI2NTE4MzYsLTE0MDMy
+MTg1MDUsMTk3Mjc0NzYxOSwxODg5OTU4OTUwLC04Nzg5ODcyMj
+UsOTEyMDk2MzI2LDE3NDA1NzUyMDIsLTg3MTg4OTc0MCwxOTcy
+MTI2MzE5XX0=
 -->
