@@ -80,7 +80,7 @@ The migration of sunflower iconography is evidenced in Francisco Hernández’s 
 <param ve-entity eid="Q158082" title="heliotropum">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
-Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being prized as foreign curiosities, luxury goods, and status symbols. Sunflowers, like other flora, also became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments. _Helianthus annuus_ carried connotations of devotion, loyalty, and constancy because its heliotropic phase recalled the ancient Greek myth of Helios and Clytie. The sea nymph Clytie competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wastes away while training her steadfast gaze upon his chariot as it traverses the sky. Her suffering ends with her metamorphosis into a heliotrope. Yet, as this print shows, many seventeenth-century European artists reinterpreted the myth by transforming Clytie’s attribute from a heliotrope into a more fashionable plant: the sunflower.
+Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being prized as foreign curiosities, luxury goods, and status symbols. Sunflowers, like other flora, also became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments. _Helianthus annuus_ carried connotations of devotion, loyalty, and constancy because its heliotropic phase recalled the ancient Greek myth of Helios and Clytie.[^ref11]  The sea nymph Clytie competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wastes away while training her steadfast gaze upon his chariot as it traverses the sky. Her suffering ends with her metamorphosis into a heliotrope. Yet, as this print shows, many seventeenth-century European artists reinterpreted the myth by transforming Clytie’s attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref12] 
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
 _The Sunflower_, 1866-1870, photograph, National Gallery of Art">
@@ -186,11 +186,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTczMTkxMCwtMTQxODQ5NDQ0OSwxMT
-g0NTcyNDM5LDExODUyOTg2NzcsNTQ3MTE2NzY3LDE1ODE3MDUx
-MDQsLTI2Mjg0MjUyLC05NzUxMDI3NjEsMTQ1NDg2Mzk0NSwyNj
-E1NjMzNDcsLTQ1NDc3NjYxNywxNjcxMzIyNiwtMTE2NTc0NjAx
-OSwtMzU1MzY3OTE3LDE4ODk2NzU1MzAsLTE2NDA1NDYxNzYsLT
-EzMjQ0MzA4NjcsNTM5NTM1MTM2LDE3MDg3ODUwNTEsNzkwNTQw
-NTQ1XX0=
+eyJoaXN0b3J5IjpbLTIwMTQwMDk2NjcsLTE0MTg0OTQ0NDksMT
+E4NDU3MjQzOSwxMTg1Mjk4Njc3LDU0NzExNjc2NywxNTgxNzA1
+MTA0LC0yNjI4NDI1MiwtOTc1MTAyNzYxLDE0NTQ4NjM5NDUsMj
+YxNTYzMzQ3LC00NTQ3NzY2MTcsMTY3MTMyMjYsLTExNjU3NDYw
+MTksLTM1NTM2NzkxNywxODg5Njc1NTMwLC0xNjQwNTQ2MTc2LC
+0xMzI0NDMwODY3LDUzOTUzNTEzNiwxNzA4Nzg1MDUxLDc5MDU0
+MDU0NV19
 -->
