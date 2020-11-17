@@ -85,7 +85,7 @@ Europeans were eager to collect exotic flora from the Americas because such plan
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
 _The Sunflower_, 1866-1870, photograph, National Gallery of Art">
 
-Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers
+Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers.[^ref14]
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
@@ -187,14 +187,16 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref13]: Debra N. Mancoff, _Sunflowers_ (New York: Thames and Hudson, 2001), 21-27.
 
+[^ref14]: John Peacock, _The look of Van Dyck : the Self-portrait with a sunflower and the vision of the painter_ (Ashgate, X), HathiTrust, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTI4OTU4MSwyMDc3NTk3ODI3LDEzNj
-c2MzczNzYsLTE0MTg0OTQ0NDksMTE4NDU3MjQzOSwxMTg1Mjk4
-Njc3LDU0NzExNjc2NywxNTgxNzA1MTA0LC0yNjI4NDI1MiwtOT
-c1MTAyNzYxLDE0NTQ4NjM5NDUsMjYxNTYzMzQ3LC00NTQ3NzY2
-MTcsMTY3MTMyMjYsLTExNjU3NDYwMTksLTM1NTM2NzkxNywxOD
-g5Njc1NTMwLC0xNjQwNTQ2MTc2LC0xMzI0NDMwODY3LDUzOTUz
-NTEzNl19
+eyJoaXN0b3J5IjpbLTEzMjA3MjQ5NiwxMjg1Mjg5NTgxLDIwNz
+c1OTc4MjcsMTM2NzYzNzM3NiwtMTQxODQ5NDQ0OSwxMTg0NTcy
+NDM5LDExODUyOTg2NzcsNTQ3MTE2NzY3LDE1ODE3MDUxMDQsLT
+I2Mjg0MjUyLC05NzUxMDI3NjEsMTQ1NDg2Mzk0NSwyNjE1NjMz
+NDcsLTQ1NDc3NjYxNywxNjcxMzIyNiwtMTE2NTc0NjAxOSwtMz
+U1MzY3OTE3LDE4ODk2NzU1MzAsLTE2NDA1NDYxNzYsLTEzMjQ0
+MzA4NjddfQ==
 -->
