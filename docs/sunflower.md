@@ -77,8 +77,9 @@ The migration of sunflower iconography is evidenced in Francisco Hernández’s 
 
 ### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
 
-<param ve-entity eid="Q158082" title="heliotrope">
-
+<param ve-entity eid="Q158082" title="heliotropum">
+<param ve-entity eid="Q134270" title="Helios">
+<param ve-entity eid="Q866674" title="Clytie">
 Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being prized as foreign curiosities, luxury goods, and status symbols. Sunflowers, like other flora, also became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments. _Helianthus annuus_ carried connotations of devotion, loyalty, and constancy because its heliotropic phase recalled the ancient Greek myth of Helios and Clytie. The sea nymph Clytie competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wastes away while training her steadfast gaze upon his chariot as it traverses the sky. Her suffering ends with her metamorphosis into a heliotrope. Yet, as this print shows, many seventeenth-century European artists reinterpreted the myth by transforming Clytie’s attribute from a heliotrope into a more fashionable plant: the sunflower.
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
@@ -178,7 +179,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDU2MjA5MCwxMTg1Mjk4Njc3LDU0Nz
+eyJoaXN0b3J5IjpbMTE4NDU3MjQzOSwxMTg1Mjk4Njc3LDU0Nz
 ExNjc2NywxNTgxNzA1MTA0LC0yNjI4NDI1MiwtOTc1MTAyNzYx
 LDE0NTQ4NjM5NDUsMjYxNTYzMzQ3LC00NTQ3NzY2MTcsMTY3MT
 MyMjYsLTExNjU3NDYwMTksLTM1NTM2NzkxNywxODg5Njc1NTMw
