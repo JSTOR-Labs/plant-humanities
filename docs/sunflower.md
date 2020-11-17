@@ -40,7 +40,7 @@ So, how did the _Helianthus annuus_ specimen represented in Besler’s book _[Ho
 
 <param ve-entity eid="Q80914" title="Tabasco">
 There is some debate among scientists about when humans used domesticated sunflowers in the southwestern United States and northern Mexico, and whether they were cultivated independently there.[^ref7]  A charred seed, which is no longer extant, was recovered at San Antonio cave, in Tobasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that the seed it may have come from a squash or a wild sunflower. Building on that and other archeological research, genomic studies of the common sunflower have linked present-day crops and seed remains to a common ancestor, which was cultivated at an independent domestication center in eastern North America. For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by Spanish explorers.
-<param ve-map prefer-geojson center="Q80914" title="San Antonio cave, Tobasco, Mexico" zoom="6" show-label="true">
+<param ve-map prefer-geojson center="Q80914" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
 
 <param ve-entity eid="Q29" title="Spain">
 The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals help us to chart its introduction to Spain and other parts of Europe.
@@ -176,11 +176,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTYyNjUwMzMsMTY3MTMyMjYsLTExNj
-U3NDYwMTksLTM1NTM2NzkxNywxODg5Njc1NTMwLC0xNjQwNTQ2
-MTc2LC0xMzI0NDMwODY3LDUzOTUzNTEzNiwxNzA4Nzg1MDUxLD
-c5MDU0MDU0NSwxNzE4MzA3MjUsLTI4OTc1ODgyNiwxNDM5OTU4
-NjU5LDk4ODMxNjY3MSwzMDA2MzE3MzQsLTg4NjU2ODUyMCwyMT
-EzMjkwODU5LC0xOTI3NDYxOTIyLDE4NDcyNzcxOTQsLTEyNjE5
-MjM0MzNdfQ==
+eyJoaXN0b3J5IjpbLTQ5NDQ0MzE4NCwxNjcxMzIyNiwtMTE2NT
+c0NjAxOSwtMzU1MzY3OTE3LDE4ODk2NzU1MzAsLTE2NDA1NDYx
+NzYsLTEzMjQ0MzA4NjcsNTM5NTM1MTM2LDE3MDg3ODUwNTEsNz
+kwNTQwNTQ1LDE3MTgzMDcyNSwtMjg5NzU4ODI2LDE0Mzk5NTg2
+NTksOTg4MzE2NjcxLDMwMDYzMTczNCwtODg2NTY4NTIwLDIxMT
+MyOTA4NTksLTE5Mjc0NjE5MjIsMTg0NzI3NzE5NCwtMTI2MTky
+MzQzM119
 -->
