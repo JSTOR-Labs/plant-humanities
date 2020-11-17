@@ -45,14 +45,14 @@ There is some debate among scientists about when humans used domesticated sunflo
 
 <param ve-entity eid="Q29" title="Spain">
 The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals help us to chart its introduction to Spain and other parts of Europe.
-<param ve-map prefer-geojson center="45.796048, 3.108712" zoom="3.5">
+<param ve-map prefer-geojson center="45.796048, 3.108712" zoom="3.5" show-label="true">
 
 <param ve-entity eid="Q950531" title="Nicolás Monardes">
 <param ve-entity eid="Q437466" title="Rembert Dodoens">
 <param ve-entity eid="Q8717" title="Seville">
 <param ve-entity eid="Q162022" title="Mechelen">
 Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Seville, Spain. Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—the first book to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.
-<param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10">
+<param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
 ### “Peruvian” Origins and Mythic Encounters
 
@@ -177,11 +177,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjI0MjY2NiwtMTE2NTc0NjAxOSwtMz
-U1MzY3OTE3LDE4ODk2NzU1MzAsLTE2NDA1NDYxNzYsLTEzMjQ0
-MzA4NjcsNTM5NTM1MTM2LDE3MDg3ODUwNTEsNzkwNTQwNTQ1LD
-E3MTgzMDcyNSwtMjg5NzU4ODI2LDE0Mzk5NTg2NTksOTg4MzE2
-NjcxLDMwMDYzMTczNCwtODg2NTY4NTIwLDIxMTMyOTA4NTksLT
-E5Mjc0NjE5MjIsMTg0NzI3NzE5NCwtMTI2MTkyMzQzMywtMTIx
-MDIyMTEzXX0=
+eyJoaXN0b3J5IjpbMTY3MTMyMjYsLTExNjU3NDYwMTksLTM1NT
+M2NzkxNywxODg5Njc1NTMwLC0xNjQwNTQ2MTc2LC0xMzI0NDMw
+ODY3LDUzOTUzNTEzNiwxNzA4Nzg1MDUxLDc5MDU0MDU0NSwxNz
+E4MzA3MjUsLTI4OTc1ODgyNiwxNDM5OTU4NjU5LDk4ODMxNjY3
+MSwzMDA2MzE3MzQsLTg4NjU2ODUyMCwyMTEzMjkwODU5LC0xOT
+I3NDYxOTIyLDE4NDcyNzcxOTQsLTEyNjE5MjM0MzMsLTEyMTAy
+MjExM119
 -->
