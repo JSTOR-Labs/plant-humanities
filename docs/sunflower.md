@@ -85,7 +85,7 @@ Europeans were eager to collect exotic flora from the Americas because such plan
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
 _The Sunflower_, 1866-1870, photograph, National Gallery of Art">
 
-Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being prized as foreign curiosities and status symbols. Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers
+Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
@@ -190,11 +190,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzU5NzgyNywxMzY3NjM3Mzc2LC0xND
-E4NDk0NDQ5LDExODQ1NzI0MzksMTE4NTI5ODY3Nyw1NDcxMTY3
-NjcsMTU4MTcwNTEwNCwtMjYyODQyNTIsLTk3NTEwMjc2MSwxND
-U0ODYzOTQ1LDI2MTU2MzM0NywtNDU0Nzc2NjE3LDE2NzEzMjI2
-LC0xMTY1NzQ2MDE5LC0zNTUzNjc5MTcsMTg4OTY3NTUzMCwtMT
-Y0MDU0NjE3NiwtMTMyNDQzMDg2Nyw1Mzk1MzUxMzYsMTcwODc4
-NTA1MV19
+eyJoaXN0b3J5IjpbMTI4NTI4OTU4MSwyMDc3NTk3ODI3LDEzNj
+c2MzczNzYsLTE0MTg0OTQ0NDksMTE4NDU3MjQzOSwxMTg1Mjk4
+Njc3LDU0NzExNjc2NywxNTgxNzA1MTA0LC0yNjI4NDI1MiwtOT
+c1MTAyNzYxLDE0NTQ4NjM5NDUsMjYxNTYzMzQ3LC00NTQ3NzY2
+MTcsMTY3MTMyMjYsLTExNjU3NDYwMTksLTM1NTM2NzkxNywxOD
+g5Njc1NTMwLC0xNjQwNTQ2MTc2LC0xMzI0NDMwODY3LDUzOTUz
+NTEzNl19
 -->
