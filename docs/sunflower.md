@@ -14,7 +14,7 @@
 As this botanical illustration reminds us, _Helianthus annuus_ is an imposing presence not just in the plant world but also in the art world. The artist of this plant portrait unexpectedly added a greyhound besides the sunflower to emphasize its supersized proportions. Like that giant flower, _H. annuus_ looms large in some cultural imaginaries, so large that many of us fail to appreciate the intrinsic value of the species and to recognize the diversity within the genus sunflower. Instead, for those of us without direct knowledge of that plant, it is also too easy to essentialize sunflowers by assuming that they all possess a single, golden blossom perched on an unbranched stem. Such stereotypes have often shaped or been shaped by visual representations of the plant.
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
-This essay clarifies how sunflower imagery can provide valuable historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to the plant world. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have contributed to the formation of visual stereotypes for the sunflower that often elide species differences and perpetuate cultural myths.
+This essay clarifies how sunflower imagery can provide rich historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to plants. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers that were tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have contributed to the formation of visual stereotypes for the sunflower that often elide species differences and perpetuate cultural myths.
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 ### Naming and Representing the Iconic Flower
@@ -173,11 +173,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTAyMjExMywtMTgyMzc0NzE2LDczNT
-E4MDExNCw5OTAyMzE3MjgsLTEyMTc0OTY0MjcsLTE0NTA4NDI4
-NDIsLTIxNDIxMTc5MTksMTIyOTM4NzA0Miw1MTg0MzU2MjAsLT
-IwODE3Nzg3NDUsMjAzMjk5MzQ4OSwtMTAwNjAyMTIwMCwtMTU2
-NzYxMDk4NSwxNTQ2NTIwOTgzLDE1MjgyNjA3NTIsMTU0Njg4OD
-I4NywtMTMyODI4MzU3MSw2MzE0MjE3ODYsMTg3Mzc1NjQyNCwx
-MjQ2MjI0Mjc2XX0=
+eyJoaXN0b3J5IjpbLTEyNjE5MjM0MzMsLTEyMTAyMjExMywtMT
+gyMzc0NzE2LDczNTE4MDExNCw5OTAyMzE3MjgsLTEyMTc0OTY0
+MjcsLTE0NTA4NDI4NDIsLTIxNDIxMTc5MTksMTIyOTM4NzA0Mi
+w1MTg0MzU2MjAsLTIwODE3Nzg3NDUsMjAzMjk5MzQ4OSwtMTAw
+NjAyMTIwMCwtMTU2NzYxMDk4NSwxNTQ2NTIwOTgzLDE1MjgyNj
+A3NTIsMTU0Njg4ODI4NywtMTMyODI4MzU3MSw2MzE0MjE3ODYs
+MTg3Mzc1NjQyNF19
 -->
