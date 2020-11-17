@@ -71,7 +71,7 @@ Dodoens participated in a network of transregional European exchanges of iconogr
 
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-image iiif primary fit="contain" url="https://ia800805.us.archive.org/BookReader/BookReaderImages.php?id=novaplantarumani00hern&itemPath=%2F5%2Fitems%2Fnovaplantarumani00hern&server=ia800805.us.archive.org&page=n245_w820" title="Hernández, Francisco, _Nova plantarum, animalium et mineralium Mexicanorum historia_, 1651, John Carter Brown Library">
-The migration of sunflower iconography is evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_ (1651). The book purports to document plants and animals that Hernández and his team, which included several indigenous artists, observed during a three-year expedition through Mexico in the 1570s. However, its illustrations of sunflowers, shown here, were not drawn on-site from local plants but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait made under Besler’s direction for inclusion in _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613). <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from a 1619 French-language translation of a text by Monardes, or a similar precedent. These borrowings have been interpreted as evidence that Hernández’s team of artists had to copy existing imagery because the sunflower was not established in Mexico at the time. If that were so, Hernández’s inclusion of the sunflower in his manuscript reproduced European misconceptions about its range, demonstrating the importance of consulting multiple sources.
+The migration of sunflower iconography is evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_ (1651). The book purports to document plants and animals that Hernández and his team, which included several indigenous artists, observed during a three-year expedition through Mexico in the 1570s. However, its illustrations of sunflowers, shown here, were not drawn on-site from local plants but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait made under Besler’s direction for inclusion in _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613). <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from a 1619 French-language translation of a text by Monardes, or a similar precedent. These borrowings have been interpreted as evidence that Hernández’s team of artists had to copy existing imagery because the sunflower was not established in Mexico at the time. If that were so, Hernández’s inclusion of the sunflower in his manuscript reproduced European misconceptions about its range, demonstrating the importance of consulting a broad range of sources when interpreting the information in herbals.
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, Missouri Botanical Garden">
 
@@ -176,11 +176,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTcwNTEwNCwtMjYyODQyNTIsLTk3NT
-EwMjc2MSwxNDU0ODYzOTQ1LDI2MTU2MzM0NywtNDU0Nzc2NjE3
-LDE2NzEzMjI2LC0xMTY1NzQ2MDE5LC0zNTUzNjc5MTcsMTg4OT
-Y3NTUzMCwtMTY0MDU0NjE3NiwtMTMyNDQzMDg2Nyw1Mzk1MzUx
-MzYsMTcwODc4NTA1MSw3OTA1NDA1NDUsMTcxODMwNzI1LC0yOD
-k3NTg4MjYsMTQzOTk1ODY1OSw5ODgzMTY2NzEsMzAwNjMxNzM0
+eyJoaXN0b3J5IjpbNTQ3MTE2NzY3LDE1ODE3MDUxMDQsLTI2Mj
+g0MjUyLC05NzUxMDI3NjEsMTQ1NDg2Mzk0NSwyNjE1NjMzNDcs
+LTQ1NDc3NjYxNywxNjcxMzIyNiwtMTE2NTc0NjAxOSwtMzU1Mz
+Y3OTE3LDE4ODk2NzU1MzAsLTE2NDA1NDYxNzYsLTEzMjQ0MzA4
+NjcsNTM5NTM1MTM2LDE3MDg3ODUwNTEsNzkwNTQwNTQ1LDE3MT
+gzMDcyNSwtMjg5NzU4ODI2LDE0Mzk5NTg2NTksOTg4MzE2Njcx
 XX0=
 -->
