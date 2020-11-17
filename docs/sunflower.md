@@ -57,7 +57,7 @@ Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht">
 The sunflower pictured in Dodoens’s _Florum, et coronariarum_, at right, not only charts the transoceanic movement of the plant, but also participates in the transregional exchange of iconography and ideas pertaining to it. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ plant growing in soil as the artist may have encountered it in a garden. Indeed, Dodoens’s identifies the place shown in the picture where he and the artist presumably studied the plant in bloom: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.” Beautiful to behold, according to Dodoens, the sunflower was a rare foreign luxury good that conferred status upon its owner, though it was also a living artifact of European colonialist policies that were entangled with economic exploitation and violence. Not surprisingly, there is a gap in our knowledge about the circumstances surrounding Europeans’ harvesting of cultivated sunflowers in the Americas.
-<param ve-image fit="contain" url="https://ia601308.us.archive.org/BookReader/BookReaderImages.php?id=florvmetcoronari00dodo&itemPath=%2F16%2Fitems%2Fflorvmetcoronari00dodo&server=ia601308.us.archive.org&page=n298_w651" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, The Getty Research Institute">
+<param ve-image fit="contain" url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0310.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 
 Dodoens account of the cultivated sunflower’s provenance is somewhat muddy. He used the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate mistakenly that the plant was native to Peru. However, at that time, Europeans herbalists used the word “Peru” indiscriminately to mean someplace in the Americas. It is possible that such authors mistook Peru for the place from where the plant was collected because it was the last port of call for Spanish ships returning to Europe. The myth of the sunflower’s “Peruvian” origins was propagated in subsequent herbals that repurposed imagery and information from Dodoens. That was the case for John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which reproduces the woodcut of _Chrysanthemum Peruvianum_ from Dodoens’s _Florum, et Coronariarum_.
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
@@ -173,11 +173,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODMwNzI1LC0yODk3NTg4MjYsMTQzOT
-k1ODY1OSw5ODgzMTY2NzEsMzAwNjMxNzM0LC04ODY1Njg1MjAs
-MjExMzI5MDg1OSwtMTkyNzQ2MTkyMiwxODQ3Mjc3MTk0LC0xMj
-YxOTIzNDMzLC0xMjEwMjIxMTMsLTE4MjM3NDcxNiw3MzUxODAx
-MTQsOTkwMjMxNzI4LC0xMjE3NDk2NDI3LC0xNDUwODQyODQyLC
-0yMTQyMTE3OTE5LDEyMjkzODcwNDIsNTE4NDM1NjIwLC0yMDgx
-Nzc4NzQ1XX0=
+eyJoaXN0b3J5IjpbNzkwNTQwNTQ1LDE3MTgzMDcyNSwtMjg5Nz
+U4ODI2LDE0Mzk5NTg2NTksOTg4MzE2NjcxLDMwMDYzMTczNCwt
+ODg2NTY4NTIwLDIxMTMyOTA4NTksLTE5Mjc0NjE5MjIsMTg0Nz
+I3NzE5NCwtMTI2MTkyMzQzMywtMTIxMDIyMTEzLC0xODIzNzQ3
+MTYsNzM1MTgwMTE0LDk5MDIzMTcyOCwtMTIxNzQ5NjQyNywtMT
+Q1MDg0Mjg0MiwtMjE0MjExNzkxOSwxMjI5Mzg3MDQyLDUxODQz
+NTYyMF19
 -->
