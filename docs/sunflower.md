@@ -43,7 +43,7 @@ There is some debate among scientists about when humans used domesticated sunflo
 <param ve-map prefer-geojson center="18.299068, -92.378113" zoom="6" show-label>
 
 <param ve-entity eid="Q29" title="Spain">
-The Spanish first transported the domesticated sunflower across the Atlantic Ocean as part of an imperial agenda, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” we can use verbal and visual descriptions of the plant from herbals to chart its introduction to Spain and other parts of Europe as well. 
+The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” we can use verbal and visual descriptions of the plant from herbals to chart its introduction to Spain and other parts of Europe as well. 
 <param ve-map prefer-geojson center="45.796048, 3.108712" zoom="4">
 
 <param ve-entity eid="Q950531" title="Nicolás Monardes">
@@ -173,11 +173,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4MDY2MzcxLC0xOTI3NDYxOTIyLDE4ND
-cyNzcxOTQsLTEyNjE5MjM0MzMsLTEyMTAyMjExMywtMTgyMzc0
-NzE2LDczNTE4MDExNCw5OTAyMzE3MjgsLTEyMTc0OTY0MjcsLT
-E0NTA4NDI4NDIsLTIxNDIxMTc5MTksMTIyOTM4NzA0Miw1MTg0
-MzU2MjAsLTIwODE3Nzg3NDUsMjAzMjk5MzQ4OSwtMTAwNjAyMT
-IwMCwtMTU2NzYxMDk4NSwxNTQ2NTIwOTgzLDE1MjgyNjA3NTIs
-MTU0Njg4ODI4N119
+eyJoaXN0b3J5IjpbMjExMzI5MDg1OSwtMTkyNzQ2MTkyMiwxOD
+Q3Mjc3MTk0LC0xMjYxOTIzNDMzLC0xMjEwMjIxMTMsLTE4MjM3
+NDcxNiw3MzUxODAxMTQsOTkwMjMxNzI4LC0xMjE3NDk2NDI3LC
+0xNDUwODQyODQyLC0yMTQyMTE3OTE5LDEyMjkzODcwNDIsNTE4
+NDM1NjIwLC0yMDgxNzc4NzQ1LDIwMzI5OTM0ODksLTEwMDYwMj
+EyMDAsLTE1Njc2MTA5ODUsMTU0NjUyMDk4MywxNTI4MjYwNzUy
+LDE1NDY4ODgyODddfQ==
 -->
