@@ -61,7 +61,8 @@ The sunflower pictured in Dodoens’s _Florum, et coronariarum_, at right, not o
 <param ve-image fit="contain"  url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0308.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=4&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 <param ve-image fit="contain" url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0311.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 
-Dodoens account of the cultivated sunflower’s provenance is somewhat muddy. He used the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate mistakenly that the plant was native to Peru. However, at that time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas. It is possible that such authors mistook Peru for the place from where plants were collected because it was the last port of call for Spanish ships returning to Europe. This misunderstanding about the sunflower’s “Peruvian” origins was propagated in subsequent herbals that repurposed imagery and information from Dodoens. That was the case for John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which reproduces the woodcut of _Chrysanthemum Peruvianum_ from Dodoens’s _Florum, et Coronariarum_.
+<param ve-en
+Dodoens account of the cultivated sunflower’s provenance is somewhat muddy. He used the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate mistakenly that the plant was native to Peru. However, at that time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas. It is possible that such authors mistook Peru for the place from where plants were collected because it was the last port of call for Spanish ships returning to Europe. This misunderstanding about the sunflower’s “Peruvian” origins was propagated in subsequent herbals that repurposed imagery and information from Dodoens. That was the case for John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which reproduces the woodcut of _Chrysanthemum Peruvianum_ from Dodoens’s _Florum, et coronariarum_.
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q1333338" title="John Gerard"> 
 
@@ -108,8 +109,8 @@ Henderson’s design for _Anatomy of the Sunflower_ also articulates Linnaeus’
 <param ve-entity eid="Q103129" title="stamen" aliases="stamen(s)"> 
 <param ve-entity eid="Q62779" title="pistil" aliases="pistil(s)">  
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
+<param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="9">
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="11">
-<param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="13">
 
 ### Sun-Shaped though Not Necessarily Golden
 
@@ -176,11 +177,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5NTM1MTM2LDE3MDg3ODUwNTEsNzkwNT
-QwNTQ1LDE3MTgzMDcyNSwtMjg5NzU4ODI2LDE0Mzk5NTg2NTks
-OTg4MzE2NjcxLDMwMDYzMTczNCwtODg2NTY4NTIwLDIxMTMyOT
-A4NTksLTE5Mjc0NjE5MjIsMTg0NzI3NzE5NCwtMTI2MTkyMzQz
-MywtMTIxMDIyMTEzLC0xODIzNzQ3MTYsNzM1MTgwMTE0LDk5MD
-IzMTcyOCwtMTIxNzQ5NjQyNywtMTQ1MDg0Mjg0MiwtMjE0MjEx
-NzkxOV19
+eyJoaXN0b3J5IjpbLTM3OTU2MzI3NSw1Mzk1MzUxMzYsMTcwOD
+c4NTA1MSw3OTA1NDA1NDUsMTcxODMwNzI1LC0yODk3NTg4MjYs
+MTQzOTk1ODY1OSw5ODgzMTY2NzEsMzAwNjMxNzM0LC04ODY1Nj
+g1MjAsMjExMzI5MDg1OSwtMTkyNzQ2MTkyMiwxODQ3Mjc3MTk0
+LC0xMjYxOTIzNDMzLC0xMjEwMjIxMTMsLTE4MjM3NDcxNiw3Mz
+UxODAxMTQsOTkwMjMxNzI4LC0xMjE3NDk2NDI3LC0xNDUwODQy
+ODQyXX0=
 -->
