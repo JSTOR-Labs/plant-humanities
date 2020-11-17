@@ -39,7 +39,7 @@ So, how did the _Helianthus annuus_ specimen represented in Besler’s book _Hor
 <param ve-map-layer type="geojson" title="Hayes site" active="true" data-url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/geojson/Sunflower_Hayes_40ML139.geojson" show-labels>
 
 <param ve-entity eid="Q80914" title="Tabasco">
-There is some debate among scientists about when domesticated sunflowers were used in the southwestern United States and northern Mexico, and whether they were cultivated independently there.[^ref7]  A charred seed, which is no longer extant, was recovered at San Antonio cave, in Tobasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that the seed it may have come from a squash or a wild sunflower. Building on that and other archeological research, genomic studies of the common sunflower have linked present-day crops and seed remains to a common ancestor, which was cultivated at an independent domestication center in eastern North America. For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by Spanish explorers.
+There is some debate among scientists about when humans used domesticated sunflowers in the southwestern United States and northern Mexico, and whether they were cultivated independently there.[^ref7]  A charred seed, which is no longer extant, was recovered at San Antonio cave, in Tobasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that the seed it may have come from a squash or a wild sunflower. Building on that and other archeological research, genomic studies of the common sunflower have linked present-day crops and seed remains to a common ancestor, which was cultivated at an independent domestication center in eastern North America. For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by Spanish explorers.
 <param ve-map prefer-geojson center="18.299068, -92.378113" zoom="6" show-label>
 
 <param ve-entity eid="Q29" title="Spain">
@@ -173,11 +173,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc0NjE5MjIsMTg0NzI3NzE5NCwtMT
-I2MTkyMzQzMywtMTIxMDIyMTEzLC0xODIzNzQ3MTYsNzM1MTgw
-MTE0LDk5MDIzMTcyOCwtMTIxNzQ5NjQyNywtMTQ1MDg0Mjg0Mi
-wtMjE0MjExNzkxOSwxMjI5Mzg3MDQyLDUxODQzNTYyMCwtMjA4
-MTc3ODc0NSwyMDMyOTkzNDg5LC0xMDA2MDIxMjAwLC0xNTY3Nj
-EwOTg1LDE1NDY1MjA5ODMsMTUyODI2MDc1MiwxNTQ2ODg4Mjg3
-LC0xMzI4MjgzNTcxXX0=
+eyJoaXN0b3J5IjpbMjM4MDY2MzcxLC0xOTI3NDYxOTIyLDE4ND
+cyNzcxOTQsLTEyNjE5MjM0MzMsLTEyMTAyMjExMywtMTgyMzc0
+NzE2LDczNTE4MDExNCw5OTAyMzE3MjgsLTEyMTc0OTY0MjcsLT
+E0NTA4NDI4NDIsLTIxNDIxMTc5MTksMTIyOTM4NzA0Miw1MTg0
+MzU2MjAsLTIwODE3Nzg3NDUsMjAzMjk5MzQ4OSwtMTAwNjAyMT
+IwMCwtMTU2NzYxMDk4NSwxNTQ2NTIwOTgzLDE1MjgyNjA3NTIs
+MTU0Njg4ODI4N119
 -->
