@@ -27,7 +27,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q65027" title="Basilius Besler">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. A team of artists, etchers, printmakers, and colorists, hired by Besler, produced this hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_, a striking depiction of the plant shown life-sized.[^ref4] The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they emphasized the sunflower’s beauty rather than its medicinal properties, as in herbals. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing the sunflower that anticipated current visual stereotypes for the plant.
+Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. A team of artists, etchers, printmakers, and colorists, hired by Besler, produced this hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_, a striking depiction of the plant shown life-sized.[^ref4] The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they emphasized the sunflower’s beauty rather than its medicinal properties, as in herbals. For that reason,  _Flos Solis maior_ became an influential model for visualizing the sunflower that anticipated current visual stereotypes for the plant.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
@@ -35,7 +35,7 @@ Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical name
 ### Range and Cultivation
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
-So, how did the _Helianthus annuus_ specimen represented in Besler’s book _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613) come into being? The common sunflower was cultivated by humans thousands of years ago, and the history of that process is enmeshed with convergences of plant and human mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref5] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref6] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large seeds.
+So, how did the _Helianthus annuus_ specimen represented in _Flos Solis maior_ come into being? The common sunflower was cultivated by humans thousands of years ago, and the history of that process is enmeshed with convergences of plant and human mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref5] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref6] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large seeds.
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
@@ -176,11 +176,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDQ0MzE4NCwxNjcxMzIyNiwtMTE2NT
-c0NjAxOSwtMzU1MzY3OTE3LDE4ODk2NzU1MzAsLTE2NDA1NDYx
-NzYsLTEzMjQ0MzA4NjcsNTM5NTM1MTM2LDE3MDg3ODUwNTEsNz
-kwNTQwNTQ1LDE3MTgzMDcyNSwtMjg5NzU4ODI2LDE0Mzk5NTg2
-NTksOTg4MzE2NjcxLDMwMDYzMTczNCwtODg2NTY4NTIwLDIxMT
-MyOTA4NTksLTE5Mjc0NjE5MjIsMTg0NzI3NzE5NCwtMTI2MTky
-MzQzM119
+eyJoaXN0b3J5IjpbNDIyNTI2NjkzLDE2NzEzMjI2LC0xMTY1Nz
+Q2MDE5LC0zNTUzNjc5MTcsMTg4OTY3NTUzMCwtMTY0MDU0NjE3
+NiwtMTMyNDQzMDg2Nyw1Mzk1MzUxMzYsMTcwODc4NTA1MSw3OT
+A1NDA1NDUsMTcxODMwNzI1LC0yODk3NTg4MjYsMTQzOTk1ODY1
+OSw5ODgzMTY2NzEsMzAwNjMxNzM0LC04ODY1Njg1MjAsMjExMz
+I5MDg1OSwtMTkyNzQ2MTkyMiwxODQ3Mjc3MTk0LC0xMjYxOTIz
+NDMzXX0=
 -->
