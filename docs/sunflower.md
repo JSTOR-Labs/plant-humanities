@@ -181,22 +181,22 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref10]: Botany in the Low Countries. 1993.
 
-[^ref10]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in CITATION.
+[^ref11]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in CITATION.
 
-[^ref11]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
+[^ref12]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
 
-[^ref12]: Jean-Michel Othoniel, “_Helianthus annuus_ Sunflower,” in _The Secret Language of Flowers: Notes on the Hidden Meanings of Flowers in Art_ (Boston, MA: Actes Sud/Isabella Stewart Gardner Museum, 2015), 66.
+[^ref13]: Jean-Michel Othoniel, “_Helianthus annuus_ Sunflower,” in _The Secret Language of Flowers: Notes on the Hidden Meanings of Flowers in Art_ (Boston, MA: Actes Sud/Isabella Stewart Gardner Museum, 2015), 66.
 
-[^ref13]: Debra N. Mancoff, _Sunflowers_ (New York: Thames and Hudson, 2001), 21-27.
+[^ref14]: Debra N. Mancoff, _Sunflowers_ (New York: Thames and Hudson, 2001), 21-27.
 
-[^ref14]: John Peacock, _The look of Van Dyck : the Self-portrait with a sunflower and the vision of the painter_ (Ashgate, X), HathiTrust, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
+[^ref15]: John Peacock, _The look of Van Dyck : the Self-portrait with a sunflower and the vision of the painter_ (Ashgate, X), HathiTrust, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
 
-[^ref15]: Hagop S. Atamian et al., “Circadian Regulations of Sunflower Heliotropism, Floral Orientation, and Pollinator Visits,” _Science_ 353, no. 6299 (2016): 587-90. DOI: 10.1126/science.aaf9793
+[^ref16]: Hagop S. Atamian et al., “Circadian Regulations of Sunflower Heliotropism, Floral Orientation, and Pollinator Visits,” _Science_ 353, no. 6299 (2016): 587-90. DOI: 10.1126/science.aaf9793
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY4MzUxNzAsMTUzMDQwODI1OSwxMj
+eyJoaXN0b3J5IjpbLTExNDM1NjExODgsMTUzMDQwODI1OSwxMj
 g1Mjg5NTgxLDIwNzc1OTc4MjcsMTM2NzYzNzM3NiwtMTQxODQ5
 NDQ0OSwxMTg0NTcyNDM5LDExODUyOTg2NzcsNTQ3MTE2NzY3LD
 E1ODE3MDUxMDQsLTI2Mjg0MjUyLC05NzUxMDI3NjEsMTQ1NDg2
