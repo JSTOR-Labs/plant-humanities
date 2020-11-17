@@ -108,7 +108,7 @@ Henderson’s design for _Anatomy of the Sunflower_ also articulates Linnaeus’
 <param ve-entity eid="Q103129" title="stamen" aliases="stamen(s)"> 
 <param ve-entity eid="Q62779" title="pistil" aliases="pistil(s)">  
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
-<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Muller_Humboldt%20University%20Berlin.jpg" title="Thornton’s “new” book was distinct from an earlier publication on Linnaeus by Johann Sebastian Müller, whose print _Helianthus annuus_ served as the inspiration for or shared the same model as Henderson’s.">
+<param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
 ### Sun-Shaped though Not Necessarily Golden
 
@@ -175,11 +175,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjUxOTMxNSwxNzA4Nzg1MDUxLDc5MD
-U0MDU0NSwxNzE4MzA3MjUsLTI4OTc1ODgyNiwxNDM5OTU4NjU5
-LDk4ODMxNjY3MSwzMDA2MzE3MzQsLTg4NjU2ODUyMCwyMTEzMj
-kwODU5LC0xOTI3NDYxOTIyLDE4NDcyNzcxOTQsLTEyNjE5MjM0
-MzMsLTEyMTAyMjExMywtMTgyMzc0NzE2LDczNTE4MDExNCw5OT
-AyMzE3MjgsLTEyMTc0OTY0MjcsLTE0NTA4NDI4NDIsLTIxNDIx
-MTc5MTldfQ==
+eyJoaXN0b3J5IjpbMTkyNDgwNzM4LDE3MDg3ODUwNTEsNzkwNT
+QwNTQ1LDE3MTgzMDcyNSwtMjg5NzU4ODI2LDE0Mzk5NTg2NTks
+OTg4MzE2NjcxLDMwMDYzMTczNCwtODg2NTY4NTIwLDIxMTMyOT
+A4NTksLTE5Mjc0NjE5MjIsMTg0NzI3NzE5NCwtMTI2MTkyMzQz
+MywtMTIxMDIyMTEzLC0xODIzNzQ3MTYsNzM1MTgwMTE0LDk5MD
+IzMTcyOCwtMTIxNzQ5NjQyNywtMTQ1MDg0Mjg0MiwtMjE0MjEx
+NzkxOV19
 -->
