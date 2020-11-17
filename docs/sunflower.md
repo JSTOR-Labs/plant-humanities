@@ -62,11 +62,11 @@ The illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at rig
 <param ve-image fit="contain" url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0311.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 
 <param ve-entity eid="Q419" title="Peru">
-Dodoens account of the cultivated sunflower’s provenance is somewhat muddy. He used the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate mistakenly that the plant was native to Peru. However, at that time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas. It is possible that such authors mistook Peru for the place from where plants were collected because it was the last port of call for Spanish ships returning to Europe. This misunderstanding about the sunflower’s “Peruvian” origins was propagated in subsequent herbals that repurposed imagery and information from Dodoens. That was the case for John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which reproduces the woodcut of _Chrysanthemum Peruvianum_ from Dodoens’s _Florum, et coronariarum_.
+Dodoens account of the cultivated sunflower’s provenance is somewhat muddy. He used the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate mistakenly that the plant was native to Peru. However, at that time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas. This misunderstanding about the sunflower’s “Peruvian” origins was propagated in subsequent herbals that repurposed imagery and information from Dodoens. That was the case for John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which reproduces the woodcut of _Chrysanthemum Peruvianum_ from Dodoens’s _Florum, et coronariarum_.
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q1333338" title="John Gerard"> 
 
-Dodoens participated in transregional European exchanges of iconography and ideas related to the sunflower. This network visualization posits a preliminary model for studying points of intersection among Dodoens and authors, artists, translators, plant collectors, patrons, and other figures, all of who were active in Europe between the 1550s and the 1650s. The web of interactions also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one herbal to another, possibly through intermediary sources. These borrowings raise questions about the significance of individual plants and pictures, about relationships of images to texts, about patterns of artistic exchange, and about the role of iconography in processes of knowledge production.
+Dodoens participated in a network of transregional European exchanges of iconography and ideas related to the sunflower. This visualization posits a preliminary model for studying points of intersection among Dodoens and authors, artists, translators, plant collectors, patrons, and other figures, all of who were active in Europe between the 1550s and the 1650s. The web of interactions also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one herbal to another, possibly through intermediary sources. These borrowings raise questions about the significance of individual plants and pictures, about relationships of images to texts, about patterns of artistic exchange, and about the role of iconography in processes of knowledge production.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Rembert Dodoens">
 
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
@@ -176,11 +176,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTEwMjc2MSwxNDU0ODYzOTQ1LDI2MT
-U2MzM0NywtNDU0Nzc2NjE3LDE2NzEzMjI2LC0xMTY1NzQ2MDE5
-LC0zNTUzNjc5MTcsMTg4OTY3NTUzMCwtMTY0MDU0NjE3NiwtMT
-MyNDQzMDg2Nyw1Mzk1MzUxMzYsMTcwODc4NTA1MSw3OTA1NDA1
-NDUsMTcxODMwNzI1LC0yODk3NTg4MjYsMTQzOTk1ODY1OSw5OD
-gzMTY2NzEsMzAwNjMxNzM0LC04ODY1Njg1MjAsMjExMzI5MDg1
-OV19
+eyJoaXN0b3J5IjpbLTEzMzQ0NDQ5NSwtOTc1MTAyNzYxLDE0NT
+Q4NjM5NDUsMjYxNTYzMzQ3LC00NTQ3NzY2MTcsMTY3MTMyMjYs
+LTExNjU3NDYwMTksLTM1NTM2NzkxNywxODg5Njc1NTMwLC0xNj
+QwNTQ2MTc2LC0xMzI0NDMwODY3LDUzOTUzNTEzNiwxNzA4Nzg1
+MDUxLDc5MDU0MDU0NSwxNzE4MzA3MjUsLTI4OTc1ODgyNiwxND
+M5OTU4NjU5LDk4ODMxNjY3MSwzMDA2MzE3MzQsLTg4NjU2ODUy
+MF19
 -->
