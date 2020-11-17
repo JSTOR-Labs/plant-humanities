@@ -34,7 +34,7 @@ Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical name
 
 ### Range and Cultivation
 
-So, how did the _Helianthus annuus_ specimen represented in Besler’s book _Hortus Eystettensis_ come into being? The common sunflower was cultivated by humans thousands of years ago, and the history of that process is enmeshed with convergences of plant and human mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref5] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref6] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large seeds.
+So, how did the _Helianthus annuus_ specimen represented in Besler’s book _Hortus Eystettensis_ (1613) come into being? The common sunflower was cultivated by humans thousands of years ago, and the history of that process is enmeshed with convergences of plant and human mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref5] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref6] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large seeds.
 <param ve-map center="35.851603, -86.368961" zoom="6">
 <param ve-map-layer type="geojson" title="Hayes site" active="true" data-url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/geojson/Sunflower_Hayes_40ML139.geojson" show-labels>
 
@@ -176,11 +176,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTY3NTUzMCwtMTY0MDU0NjE3NiwtMT
-MyNDQzMDg2Nyw1Mzk1MzUxMzYsMTcwODc4NTA1MSw3OTA1NDA1
-NDUsMTcxODMwNzI1LC0yODk3NTg4MjYsMTQzOTk1ODY1OSw5OD
-gzMTY2NzEsMzAwNjMxNzM0LC04ODY1Njg1MjAsMjExMzI5MDg1
-OSwtMTkyNzQ2MTkyMiwxODQ3Mjc3MTk0LC0xMjYxOTIzNDMzLC
-0xMjEwMjIxMTMsLTE4MjM3NDcxNiw3MzUxODAxMTQsOTkwMjMx
-NzI4XX0=
+eyJoaXN0b3J5IjpbNDU0MjA1NTk0LDE4ODk2NzU1MzAsLTE2ND
+A1NDYxNzYsLTEzMjQ0MzA4NjcsNTM5NTM1MTM2LDE3MDg3ODUw
+NTEsNzkwNTQwNTQ1LDE3MTgzMDcyNSwtMjg5NzU4ODI2LDE0Mz
+k5NTg2NTksOTg4MzE2NjcxLDMwMDYzMTczNCwtODg2NTY4NTIw
+LDIxMTMyOTA4NTksLTE5Mjc0NjE5MjIsMTg0NzI3NzE5NCwtMT
+I2MTkyMzQzMywtMTIxMDIyMTEzLC0xODIzNzQ3MTYsNzM1MTgw
+MTE0XX0=
 -->
