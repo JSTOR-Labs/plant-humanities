@@ -11,7 +11,7 @@
 _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom due to its relationship with humans. The species is among a small number of crop plants that humans domesticated in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide for its edible seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
-As this botanical illustration reminds us, _Helianthus annuus_ is an imposing presence not just in the plant world but also in the art world. The artist of this plant portrait unexpectedly added a greyhound besides the sunflower to emphasize its supersized proportions. Like that giant flower, _H. annuus_ looms large in some cultural imaginaries, so large that many of us fail to appreciate the intrinsic value of the species and to recognize the diversity within the genus sunflower. Instead, for those of us without direct knowledge of that plant, it is also too easy to essentialize sunflowers by assuming that they all possess a single, golden blossom perched on an unbranched stem. Such stereotypes have often shaped or been shaped by visual representations of the plant.
+Yet, as this botanical illustration reminds us, _Helianthus annuus_ has an imposing presence not just in the plant world but also in the art world. Like that plant portrait’s supersized flower, _H. annuus_ looms large in some cultural imaginaries, so large that many of us fail to appreciate the intrinsic value of the species and to recognize the diversity within the genus sunflower. Instead, for those of us without direct knowledge of such plants, it is all too easy to essentialize sunflowers by assuming that they all possess a single, golden blossom perched on an unbranched stem. Such stereotypes have often shaped or been shaped by visual representations of the plant.
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 This essay clarifies how sunflower imagery can provide rich historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to plants. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers that were tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have contributed to the formation of visual stereotypes for the sunflower that often elide species differences and perpetuate cultural myths.
@@ -176,11 +176,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA1NDYxNzYsLTEzMjQ0MzA4NjcsNT
-M5NTM1MTM2LDE3MDg3ODUwNTEsNzkwNTQwNTQ1LDE3MTgzMDcy
-NSwtMjg5NzU4ODI2LDE0Mzk5NTg2NTksOTg4MzE2NjcxLDMwMD
-YzMTczNCwtODg2NTY4NTIwLDIxMTMyOTA4NTksLTE5Mjc0NjE5
-MjIsMTg0NzI3NzE5NCwtMTI2MTkyMzQzMywtMTIxMDIyMTEzLC
-0xODIzNzQ3MTYsNzM1MTgwMTE0LDk5MDIzMTcyOCwtMTIxNzQ5
-NjQyN119
+eyJoaXN0b3J5IjpbMTg4OTY3NTUzMCwtMTY0MDU0NjE3NiwtMT
+MyNDQzMDg2Nyw1Mzk1MzUxMzYsMTcwODc4NTA1MSw3OTA1NDA1
+NDUsMTcxODMwNzI1LC0yODk3NTg4MjYsMTQzOTk1ODY1OSw5OD
+gzMTY2NzEsMzAwNjMxNzM0LC04ODY1Njg1MjAsMjExMzI5MDg1
+OSwtMTkyNzQ2MTkyMiwxODQ3Mjc3MTk0LC0xMjYxOTIzNDMzLC
+0xMjEwMjIxMTMsLTE4MjM3NDcxNiw3MzUxODAxMTQsOTkwMjMx
+NzI4XX0=
 -->
