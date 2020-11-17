@@ -77,13 +77,13 @@ The migration of sunflower iconography is evidenced in Francisco Hernández’s 
 
 ### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
 
-Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being prized as foreign curiosities and status symbols. Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers
-<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
-
 Heliotropism in plants was observed by the ancient Greeks and this phenomenon is a central conceit in the myth of Clytie and Helios. Explain the myth. The associations of the sunflower in this narrative with notions of WHAT proved influential in Western European art and culture. Introduce idea of constancy and then connect to heliotropism. Interpret print.
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
 _The Sunflower_, 1866-1870, photograph, National Gallery of Art">
+
+Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being prized as foreign curiosities and status symbols. Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers
+<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
 It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena, publishing their exciting findings in 2016. Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. 
@@ -176,11 +176,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3MTE2NzY3LDE1ODE3MDUxMDQsLTI2Mj
-g0MjUyLC05NzUxMDI3NjEsMTQ1NDg2Mzk0NSwyNjE1NjMzNDcs
-LTQ1NDc3NjYxNywxNjcxMzIyNiwtMTE2NTc0NjAxOSwtMzU1Mz
-Y3OTE3LDE4ODk2NzU1MzAsLTE2NDA1NDYxNzYsLTEzMjQ0MzA4
-NjcsNTM5NTM1MTM2LDE3MDg3ODUwNTEsNzkwNTQwNTQ1LDE3MT
-gzMDcyNSwtMjg5NzU4ODI2LDE0Mzk5NTg2NTksOTg4MzE2Njcx
-XX0=
+eyJoaXN0b3J5IjpbMTE4NTI5ODY3Nyw1NDcxMTY3NjcsMTU4MT
+cwNTEwNCwtMjYyODQyNTIsLTk3NTEwMjc2MSwxNDU0ODYzOTQ1
+LDI2MTU2MzM0NywtNDU0Nzc2NjE3LDE2NzEzMjI2LC0xMTY1Nz
+Q2MDE5LC0zNTUzNjc5MTcsMTg4OTY3NTUzMCwtMTY0MDU0NjE3
+NiwtMTMyNDQzMDg2Nyw1Mzk1MzUxMzYsMTcwODc4NTA1MSw3OT
+A1NDA1NDUsMTcxODMwNzI1LC0yODk3NTg4MjYsMTQzOTk1ODY1
+OV19
 -->
