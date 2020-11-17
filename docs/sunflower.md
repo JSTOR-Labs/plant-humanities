@@ -39,6 +39,7 @@ So, how did the _Helianthus annuus_ specimen represented in Besler’s book _[Ho
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
+<param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
 There is some debate among scientists about when humans used domesticated sunflowers in the southwestern United States and northern Mexico, and whether they were cultivated independently there.[^ref7]  A charred seed, which is no longer extant, was recovered at San Antonio cave, in Tobasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that the seed it may have come from a squash or a wild sunflower. Building on that and other archeological research, genomic studies of the common sunflower have linked present-day crops and seed remains to a common ancestor, which was cultivated at an independent domestication center in eastern North America. For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by Spanish explorers.
 <param ve-map prefer-geojson center="18.299068, -92.378113" zoom="6" show-label>
 
@@ -176,11 +177,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTI0MTExMSwtMTE2NTc0NjAxOSwtMz
-U1MzY3OTE3LDE4ODk2NzU1MzAsLTE2NDA1NDYxNzYsLTEzMjQ0
-MzA4NjcsNTM5NTM1MTM2LDE3MDg3ODUwNTEsNzkwNTQwNTQ1LD
-E3MTgzMDcyNSwtMjg5NzU4ODI2LDE0Mzk5NTg2NTksOTg4MzE2
-NjcxLDMwMDYzMTczNCwtODg2NTY4NTIwLDIxMTMyOTA4NTksLT
-E5Mjc0NjE5MjIsMTg0NzI3NzE5NCwtMTI2MTkyMzQzMywtMTIx
-MDIyMTEzXX0=
+eyJoaXN0b3J5IjpbLTE3NzQzMzgzNTgsLTExNjU3NDYwMTksLT
+M1NTM2NzkxNywxODg5Njc1NTMwLC0xNjQwNTQ2MTc2LC0xMzI0
+NDMwODY3LDUzOTUzNTEzNiwxNzA4Nzg1MDUxLDc5MDU0MDU0NS
+wxNzE4MzA3MjUsLTI4OTc1ODgyNiwxNDM5OTU4NjU5LDk4ODMx
+NjY3MSwzMDA2MzE3MzQsLTg4NjU2ODUyMCwyMTEzMjkwODU5LC
+0xOTI3NDYxOTIyLDE4NDcyNzcxOTQsLTEyNjE5MjM0MzMsLTEy
+MTAyMjExM119
 -->
