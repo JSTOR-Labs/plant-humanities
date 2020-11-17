@@ -44,7 +44,7 @@ There is some debate among scientists about when humans used domesticated sunflo
 
 <param ve-entity eid="Q29" title="Spain">
 The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals help us to chart its introduction to Spain and other parts of Europe.
-<param ve-map prefer-geojson center="45.796048, 3.108712" zoom="3.5" show-label="true">
+<param ve-map prefer-geojson center="45.796048, 3.108712" zoom="4.5" show-label="true">
 
 <param ve-entity eid="Q950531" title="Nicolás Monardes">
 <param ve-entity eid="Q437466" title="Rembert Dodoens">
@@ -176,11 +176,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTIzMjc5NjQsMTY3MTMyMjYsLTExNj
-U3NDYwMTksLTM1NTM2NzkxNywxODg5Njc1NTMwLC0xNjQwNTQ2
-MTc2LC0xMzI0NDMwODY3LDUzOTUzNTEzNiwxNzA4Nzg1MDUxLD
-c5MDU0MDU0NSwxNzE4MzA3MjUsLTI4OTc1ODgyNiwxNDM5OTU4
-NjU5LDk4ODMxNjY3MSwzMDA2MzE3MzQsLTg4NjU2ODUyMCwyMT
-EzMjkwODU5LC0xOTI3NDYxOTIyLDE4NDcyNzcxOTQsLTEyNjE5
-MjM0MzNdfQ==
+eyJoaXN0b3J5IjpbLTY3NTExNjgyNywxNjcxMzIyNiwtMTE2NT
+c0NjAxOSwtMzU1MzY3OTE3LDE4ODk2NzU1MzAsLTE2NDA1NDYx
+NzYsLTEzMjQ0MzA4NjcsNTM5NTM1MTM2LDE3MDg3ODUwNTEsNz
+kwNTQwNTQ1LDE3MTgzMDcyNSwtMjg5NzU4ODI2LDE0Mzk5NTg2
+NTksOTg4MzE2NjcxLDMwMDYzMTczNCwtODg2NTY4NTIwLDIxMT
+MyOTA4NTksLTE5Mjc0NjE5MjIsMTg0NzI3NzE5NCwtMTI2MTky
+MzQzM119
 -->
