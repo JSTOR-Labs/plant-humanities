@@ -179,12 +179,12 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref9]: Botany in the Low Countries. 1993.
 
-[^ref10]: 
+[^ref10]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in CITATION.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Nzk4OTU1MiwtMTQxODQ5NDQ0OSwxMT
+eyJoaXN0b3J5IjpbLTM5Mjc0NDczMCwtMTQxODQ5NDQ0OSwxMT
 g0NTcyNDM5LDExODUyOTg2NzcsNTQ3MTE2NzY3LDE1ODE3MDUx
 MDQsLTI2Mjg0MjUyLC05NzUxMDI3NjEsMTQ1NDg2Mzk0NSwyNj
 E1NjMzNDcsLTQ1NDc3NjYxNywxNjcxMzIyNiwtMTE2NTc0NjAx
