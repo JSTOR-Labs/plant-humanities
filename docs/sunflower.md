@@ -34,7 +34,7 @@ Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical name
 
 ### Range and Cultivation
 
-<param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
+<param ve-entity eid="Q495448" title="Marshall County">
 So, how did the _Helianthus annuus_ specimen represented in Besler’s book _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613) come into being? The common sunflower was cultivated by humans thousands of years ago, and the history of that process is enmeshed with convergences of plant and human mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref5] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref6] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large seeds.
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
@@ -176,7 +176,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTMxMDIzNTYsMTY3MTMyMjYsLTExNj
+eyJoaXN0b3J5IjpbLTE4OTIzNDU1NjYsMTY3MTMyMjYsLTExNj
 U3NDYwMTksLTM1NTM2NzkxNywxODg5Njc1NTMwLC0xNjQwNTQ2
 MTc2LC0xMzI0NDMwODY3LDUzOTUzNTEzNiwxNzA4Nzg1MDUxLD
 c5MDU0MDU0NSwxNzE4MzA3MjUsLTI4OTc1ODgyNiwxNDM5OTU4
