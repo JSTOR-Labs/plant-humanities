@@ -61,7 +61,7 @@ The sunflower pictured in Dodoens’s _Florum, et coronariarum_, at right, not o
 <param ve-image fit="contain"  url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0308.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=4&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 <param ve-image fit="contain" url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0311.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 
-Dodoens account of the cultivated sunflower’s provenance is somewhat muddy. He used the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate mistakenly that the plant was native to Peru. However, at that time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas. It is possible that such authors mistook Peru for the place from where plants was collected because it was the last port of call for Spanish ships returning to Europe. This misunderstanding of the sunflower’s “Peruvian” origins was propagated in subsequent herbals that repurposed imagery and information from Dodoens. That was the case for John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which reproduces the woodcut of _Chrysanthemum Peruvianum_ from Dodoens’s _Florum, et Coronariarum_.
+Dodoens account of the cultivated sunflower’s provenance is somewhat muddy. He used the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate mistakenly that the plant was native to Peru. However, at that time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas. It is possible that such authors mistook Peru for the place from where plants were collected because it was the last port of call for Spanish ships returning to Europe. This misunderstanding about the sunflower’s “Peruvian” origins was propagated in subsequent herbals that repurposed imagery and information from Dodoens. That was the case for John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which reproduces the woodcut of _Chrysanthemum Peruvianum_ from Dodoens’s _Florum, et Coronariarum_.
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q1333338" title="John Gerard"> 
 
@@ -175,11 +175,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTI4NjAyMjcsMTcwODc4NTA1MSw3OT
-A1NDA1NDUsMTcxODMwNzI1LC0yODk3NTg4MjYsMTQzOTk1ODY1
-OSw5ODgzMTY2NzEsMzAwNjMxNzM0LC04ODY1Njg1MjAsMjExMz
-I5MDg1OSwtMTkyNzQ2MTkyMiwxODQ3Mjc3MTk0LC0xMjYxOTIz
-NDMzLC0xMjEwMjIxMTMsLTE4MjM3NDcxNiw3MzUxODAxMTQsOT
-kwMjMxNzI4LC0xMjE3NDk2NDI3LC0xNDUwODQyODQyLC0yMTQy
-MTE3OTE5XX0=
+eyJoaXN0b3J5IjpbLTU2NjUxOTMxNSwxNzA4Nzg1MDUxLDc5MD
+U0MDU0NSwxNzE4MzA3MjUsLTI4OTc1ODgyNiwxNDM5OTU4NjU5
+LDk4ODMxNjY3MSwzMDA2MzE3MzQsLTg4NjU2ODUyMCwyMTEzMj
+kwODU5LC0xOTI3NDYxOTIyLDE4NDcyNzcxOTQsLTEyNjE5MjM0
+MzMsLTEyMTAyMjExMywtMTgyMzc0NzE2LDczNTE4MDExNCw5OT
+AyMzE3MjgsLTEyMTc0OTY0MjcsLTE0NTA4NDI4NDIsLTIxNDIx
+MTc5MTldfQ==
 -->
