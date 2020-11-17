@@ -175,20 +175,20 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref7]: For more on the debate about the domesticated sunflower in prehistoric Mexico and North America see Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 447-49; David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
 
-[^ref8]: 
+[^ref8]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
 
-[^ref9]: 
+[^ref9]: Botany in the Low Countries. 1993.
 
 [^ref10]: 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg0OTQ0NDksMTE4NDU3MjQzOSwxMT
-g1Mjk4Njc3LDU0NzExNjc2NywxNTgxNzA1MTA0LC0yNjI4NDI1
-MiwtOTc1MTAyNzYxLDE0NTQ4NjM5NDUsMjYxNTYzMzQ3LC00NT
-Q3NzY2MTcsMTY3MTMyMjYsLTExNjU3NDYwMTksLTM1NTM2Nzkx
-NywxODg5Njc1NTMwLC0xNjQwNTQ2MTc2LC0xMzI0NDMwODY3LD
-UzOTUzNTEzNiwxNzA4Nzg1MDUxLDc5MDU0MDU0NSwxNzE4MzA3
-MjVdfQ==
+eyJoaXN0b3J5IjpbMTY5Nzk4OTU1MiwtMTQxODQ5NDQ0OSwxMT
+g0NTcyNDM5LDExODUyOTg2NzcsNTQ3MTE2NzY3LDE1ODE3MDUx
+MDQsLTI2Mjg0MjUyLC05NzUxMDI3NjEsMTQ1NDg2Mzk0NSwyNj
+E1NjMzNDcsLTQ1NDc3NjYxNywxNjcxMzIyNiwtMTE2NTc0NjAx
+OSwtMzU1MzY3OTE3LDE4ODk2NzU1MzAsLTE2NDA1NDYxNzYsLT
+EzMjQ0MzA4NjcsNTM5NTM1MTM2LDE3MDg3ODUwNTEsNzkwNTQw
+NTQ1XX0=
 -->
