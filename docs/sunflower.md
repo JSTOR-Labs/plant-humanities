@@ -8,7 +8,7 @@
 ### A Giant among Us
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that were domesticated in North America.[^ref1] Prized for its edible seeds and seed oil, the cultivated annual is now grown nearly worldwide. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and nearly twice that size with a support.[^ref2]
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that were domesticated in North America.[^ref1] Prized for its edible seeds and seed oil, the cultivated annual is grown nearly worldwide today. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and nearly twice that size with a support.[^ref2]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 Yet, as this botanical illustration reminds us, _Helianthus annuus_ has an imposing presence not just in the plant world but also in the art world. Like that plant portrait’s supersized flower, _H. annuus_ looms large in some cultural imaginaries, so large that many of us fail to appreciate the intrinsic value of the species and to recognize the diversity within the genus sunflower. Instead, for those of us without direct knowledge of such plants, it is all too easy to essentialize sunflowers by assuming that they all possess a single, golden blossom perched on an unbranched stem. Such stereotypes have often shaped or been shaped by visual representations of the plant.
@@ -196,11 +196,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODI5OTk1NSwxNTMwNDA4MjU5LDEyOD
-UyODk1ODEsMjA3NzU5NzgyNywxMzY3NjM3Mzc2LC0xNDE4NDk0
-NDQ5LDExODQ1NzI0MzksMTE4NTI5ODY3Nyw1NDcxMTY3NjcsMT
-U4MTcwNTEwNCwtMjYyODQyNTIsLTk3NTEwMjc2MSwxNDU0ODYz
-OTQ1LDI2MTU2MzM0NywtNDU0Nzc2NjE3LDE2NzEzMjI2LC0xMT
-Y1NzQ2MDE5LC0zNTUzNjc5MTcsMTg4OTY3NTUzMCwtMTY0MDU0
-NjE3Nl19
+eyJoaXN0b3J5IjpbLTE3ODM3MTY2NTAsMTUzMDQwODI1OSwxMj
+g1Mjg5NTgxLDIwNzc1OTc4MjcsMTM2NzYzNzM3NiwtMTQxODQ5
+NDQ0OSwxMTg0NTcyNDM5LDExODUyOTg2NzcsNTQ3MTE2NzY3LD
+E1ODE3MDUxMDQsLTI2Mjg0MjUyLC05NzUxMDI3NjEsMTQ1NDg2
+Mzk0NSwyNjE1NjMzNDcsLTQ1NDc3NjYxNywxNjcxMzIyNiwtMT
+E2NTc0NjAxOSwtMzU1MzY3OTE3LDE4ODk2NzU1MzAsLTE2NDA1
+NDYxNzZdfQ==
 -->
