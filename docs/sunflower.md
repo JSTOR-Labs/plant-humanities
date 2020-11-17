@@ -8,7 +8,7 @@
 ### A Giant among Us
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom due to its relationship with humans. The species is among a small number of crop plants that humans domesticated in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide for its edible seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall.
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that were domesticated in North America.[^ref1] Prized for its edible seeds and seed oil, the cultivated annual is now grown nearly worldwide. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and nearly twice that size with a support.[^ref2]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 Yet, as this botanical illustration reminds us, _Helianthus annuus_ has an imposing presence not just in the plant world but also in the art world. Like that plant portrait’s supersized flower, _H. annuus_ looms large in some cultural imaginaries, so large that many of us fail to appreciate the intrinsic value of the species and to recognize the diversity within the genus sunflower. Instead, for those of us without direct knowledge of such plants, it is all too easy to essentialize sunflowers by assuming that they all possess a single, golden blossom perched on an unbranched stem. Such stereotypes have often shaped or been shaped by visual representations of the plant.
@@ -163,21 +163,23 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 [^ref1]: Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
 
-[^ref2]: Carl von Linné, _Species plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 904-06, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.669](https://doi.org/10.5962/bhl.title.669 "DOI"); Carl von Linné, _Genera plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 386, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.746](https://doi.org/10.5962/bhl.title.746).
+[^ref2]: https://www.guinnessworldrecords.com/world-records/tallest-sunflower
 
-[^ref3]: Translated in Alice Dickinson, _Carl Linnaeus; Pioneer of Modern Botany_ (New York: F. Watts, 1967), 125, accessed October 7, 2020, HathiTrust.
+[^ref3]: Carl von Linné, _Species plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 904-06, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.669](https://doi.org/10.5962/bhl.title.669 "DOI"); Carl von Linné, _Genera plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 386, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.746](https://doi.org/10.5962/bhl.title.746).
 
-[^ref4]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
+[^ref4]: Translated in Alice Dickinson, _Carl Linnaeus; Pioneer of Modern Botany_ (New York: F. Watts, 1967), 125, accessed October 7, 2020, HathiTrust.
 
-[^ref5]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
+[^ref5]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 
-[^ref6]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
+[^ref6]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
 
-[^ref7]: For more on the debate about the domesticated sunflower in prehistoric Mexico and North America see Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 447-49; David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
+[^ref7]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
 
-[^ref8]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
+[^ref8]: For more on the debate about the domesticated sunflower in prehistoric Mexico and North America see Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 447-49; David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
 
-[^ref9]: Botany in the Low Countries. 1993.
+[^ref9]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
+
+[^ref10]: Botany in the Low Countries. 1993.
 
 [^ref10]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in CITATION.
 
@@ -194,11 +196,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDQwODI1OSwxMjg1Mjg5NTgxLDIwNz
-c1OTc4MjcsMTM2NzYzNzM3NiwtMTQxODQ5NDQ0OSwxMTg0NTcy
-NDM5LDExODUyOTg2NzcsNTQ3MTE2NzY3LDE1ODE3MDUxMDQsLT
-I2Mjg0MjUyLC05NzUxMDI3NjEsMTQ1NDg2Mzk0NSwyNjE1NjMz
-NDcsLTQ1NDc3NjYxNywxNjcxMzIyNiwtMTE2NTc0NjAxOSwtMz
-U1MzY3OTE3LDE4ODk2NzU1MzAsLTE2NDA1NDYxNzYsLTEzMjQ0
-MzA4NjddfQ==
+eyJoaXN0b3J5IjpbLTE2OTY4MzUxNzAsMTUzMDQwODI1OSwxMj
+g1Mjg5NTgxLDIwNzc1OTc4MjcsMTM2NzYzNzM3NiwtMTQxODQ5
+NDQ0OSwxMTg0NTcyNDM5LDExODUyOTg2NzcsNTQ3MTE2NzY3LD
+E1ODE3MDUxMDQsLTI2Mjg0MjUyLC05NzUxMDI3NjEsMTQ1NDg2
+Mzk0NSwyNjE1NjMzNDcsLTQ1NDc3NjYxNywxNjcxMzIyNiwtMT
+E2NTc0NjAxOSwtMzU1MzY3OTE3LDE4ODk2NzU1MzAsLTE2NDA1
+NDYxNzZdfQ==
 -->
