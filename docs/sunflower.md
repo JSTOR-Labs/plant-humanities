@@ -77,7 +77,7 @@ The migration of sunflower iconography is evidenced in Francisco Hernández’s 
 
 ### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
 
-Heliotropism in plants was observed by the ancient Greeks and this phenomenon is a central conceit in the myth of Clytie and Helios. Explain the myth. The associations of the sunflower in this narrative with notions of WHAT proved influential in Western European art and culture. Introduce idea of constancy and then connect to heliotropism. Interpret print.
+Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being prized as foreign curiosities, luxury goods, and status symbols. Sunflowers, like other flora, also became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments. _Helianthus annuus_ carried connotations of devotion, loyalty, and constancy because its heliotropic phase recalled the ancient Greek myth of Helios and Clytie. The sea nymph Clytie competed unsuccessfully for the heart of the sun-god Helios. 
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
 _The Sunflower_, 1866-1870, photograph, National Gallery of Art">
@@ -176,11 +176,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTI5ODY3Nyw1NDcxMTY3NjcsMTU4MT
-cwNTEwNCwtMjYyODQyNTIsLTk3NTEwMjc2MSwxNDU0ODYzOTQ1
-LDI2MTU2MzM0NywtNDU0Nzc2NjE3LDE2NzEzMjI2LC0xMTY1Nz
-Q2MDE5LC0zNTUzNjc5MTcsMTg4OTY3NTUzMCwtMTY0MDU0NjE3
-NiwtMTMyNDQzMDg2Nyw1Mzk1MzUxMzYsMTcwODc4NTA1MSw3OT
-A1NDA1NDUsMTcxODMwNzI1LC0yODk3NTg4MjYsMTQzOTk1ODY1
-OV19
+eyJoaXN0b3J5IjpbMTQ3NjI4MDkyMywxMTg1Mjk4Njc3LDU0Nz
+ExNjc2NywxNTgxNzA1MTA0LC0yNjI4NDI1MiwtOTc1MTAyNzYx
+LDE0NTQ4NjM5NDUsMjYxNTYzMzQ3LC00NTQ3NzY2MTcsMTY3MT
+MyMjYsLTExNjU3NDYwMTksLTM1NTM2NzkxNywxODg5Njc1NTMw
+LC0xNjQwNTQ2MTc2LC0xMzI0NDMwODY3LDUzOTUzNTEzNiwxNz
+A4Nzg1MDUxLDc5MDU0MDU0NSwxNzE4MzA3MjUsLTI4OTc1ODgy
+Nl19
 -->
