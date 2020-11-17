@@ -89,7 +89,7 @@ Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
-It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena, publishing their exciting findings in 2016. Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. 
+It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena, publishing their exciting findings in 2016.[^ref15] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. 
 <param ve-video title="_Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits_, Hagop S. Atamian, Nicky M. Creux, Evan A. Brown, Austin G. Garner, Benjamin K. Blackman, Stacey L. Harmer, DOI: 10.1126/science.aaf9793" vid="rjwd4DErj_M?t=18">
 
 These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Needles to say, these exciting findings generated a media buzz!
@@ -189,10 +189,12 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref14]: John Peacock, _The look of Van Dyck : the Self-portrait with a sunflower and the vision of the painter_ (Ashgate, X), HathiTrust, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
 
+[^ref15]: Hagop S. Atamian et al., “Circadian Regulations of Sunflower Heliotropism, Floral Orientation, and Pollinator Visits,” _Science_ 353, no. 6299 (2016): 587-90. DOI: 10.1126/science.aaf9793
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA3MjQ5NiwxMjg1Mjg5NTgxLDIwNz
+eyJoaXN0b3J5IjpbMTUzMDQwODI1OSwxMjg1Mjg5NTgxLDIwNz
 c1OTc4MjcsMTM2NzYzNzM3NiwtMTQxODQ5NDQ0OSwxMTg0NTcy
 NDM5LDExODUyOTg2NzcsNTQ3MTE2NzY3LDE1ODE3MDUxMDQsLT
 I2Mjg0MjUyLC05NzUxMDI3NjEsMTQ1NDg2Mzk0NSwyNjE1NjMz
