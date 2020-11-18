@@ -80,11 +80,13 @@ Both Hernández and Dodoens participated in a transregional European network tha
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
 <param ve-entity eid="Q81506" title="Charles I of England">
 <param ve-entity eid="Q112110" title="emblem">
-<param ve-entity eid="Q158082" title="heliotropum">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and emblems.[^ref14] By showing himself standing opposite a magnificently blooming sunflower and wearing a gold chain gifted from the king, Van Dyck conveys his loyalty to his patron and role as a member of the court. _Helianthus annuus_ carried connotations of devotion, loyalty, and constancy because its heliotropic phase recalled the ancient Greek myth of Helios and Clytie.[^ref15]  The sea nymph Clytie competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wastes away while training her steadfast gaze upon his chariot as it traverses the sky. Her suffering ends with her metamorphosis into a heliotrope. Yet, as this print shows, many seventeenth-century European artists reinterpreted the myth by transforming Clytie’s attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16] 
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and emblems.[^ref14] By showing himself standing opposite a magnificently blooming sunflower and wearing a gold chain gifted from the king, Van Dyck conveys his loyalty to his patron and role as a member of the court. Sunflowers carried connotations of loyalty, devotion, and constancy because their heliotropic phase recalled the ancient Greek myth of Helios and Clytie.[^ref15]
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
+
+<param ve-entity eid="Q158082" title="heliotropum">
+The sea nymph Clytie competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wastes away while training her steadfast gaze upon his chariot as it traverses the sky. Her suffering ends with her metamorphosis into a heliotrope. Yet, as this print shows, many seventeenth-century European artists reinterpreted the myth by transforming Clytie’s attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16]
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
@@ -199,11 +201,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDcxOTI0NywtMTg5NDE0MjE5NywtND
-QzNTQyNTczLC0xMTAyMTYyMjY4LC0xMDMwMzYxMTcyLDQ4NDMx
-NDU4MCwxNzM0NDkxODY5LDEwNTM2NjM1NDksLTE5NTAxMzYwOT
-csLTQ5NjM0MTU0LC0xODkwNjc1OTM3LC01NzM2ODIyOTEsMTc0
-NDM5NDg5MywxMDU2MDY2MDcwLC0xOTYyMzk5NjQzLC0xNDIzMD
-I1NDQ2LC0xNTI0MTU3MTM3LDM1MTk2MjQ5MSwtNjcyMTI3MDkz
-LC0xMTY5OTgxNTEyXX0=
+eyJoaXN0b3J5IjpbMTAzMzU4NDUxOCwxNzUwNzE5MjQ3LC0xOD
+k0MTQyMTk3LC00NDM1NDI1NzMsLTExMDIxNjIyNjgsLTEwMzAz
+NjExNzIsNDg0MzE0NTgwLDE3MzQ0OTE4NjksMTA1MzY2MzU0OS
+wtMTk1MDEzNjA5NywtNDk2MzQxNTQsLTE4OTA2NzU5MzcsLTU3
+MzY4MjI5MSwxNzQ0Mzk0ODkzLDEwNTYwNjYwNzAsLTE5NjIzOT
+k2NDMsLTE0MjMwMjU0NDYsLTE1MjQxNTcxMzcsMzUxOTYyNDkx
+LC02NzIxMjcwOTNdfQ==
 -->
