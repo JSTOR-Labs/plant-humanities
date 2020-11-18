@@ -82,11 +82,11 @@ Both Hernández and Dodoens participated in a transregional European network tha
 <param ve-entity eid="Q112110" title="emblem">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and emblems.[^ref14] By showing himself standing opposite a magnificently blooming sunflower and wearing a gold chain gifted from the king, Van Dyck conveys his loyalty to his patron and role as a member of the court. Sunflowers carried connotations of loyalty, devotion, and constancy because their heliotropic phase recalled the ancient Greek myth of Helios and Clytie.[^ref15]
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and emblems.[^ref14] By showing himself standing opposite a magnificently blooming sunflower and wearing a gold chain gifted from the king, Van Dyck conveys his loyalty to his patron and role as a member of the court. Sunflowers carried connotations of loyalty, devotion, and constancy because their heliotropic phase recalled the ancient Greek myth of the sun-god Helios and the sea nymph Clytie.[^ref15]
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
-As this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie by transforming her attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16] The sea nymph competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wasted away while training her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope.
+As this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie by transforming her attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16] The nymph competed unsuccessfully for the heart of Helios. Scorned by him, Clytie wasted away while training her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
@@ -198,11 +198,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODY3NDE1MCwtODc4NTk4MTcsNzIzMz
-A2MjA3LDE3NTA3MTkyNDcsLTE4OTQxNDIxOTcsLTQ0MzU0MjU3
-MywtMTEwMjE2MjI2OCwtMTAzMDM2MTE3Miw0ODQzMTQ1ODAsMT
-czNDQ5MTg2OSwxMDUzNjYzNTQ5LC0xOTUwMTM2MDk3LC00OTYz
-NDE1NCwtMTg5MDY3NTkzNywtNTczNjgyMjkxLDE3NDQzOTQ4OT
-MsMTA1NjA2NjA3MCwtMTk2MjM5OTY0MywtMTQyMzAyNTQ0Niwt
-MTUyNDE1NzEzN119
+eyJoaXN0b3J5IjpbLTE3MjgzNjkzMTcsLTg3ODU5ODE3LDcyMz
+MwNjIwNywxNzUwNzE5MjQ3LC0xODk0MTQyMTk3LC00NDM1NDI1
+NzMsLTExMDIxNjIyNjgsLTEwMzAzNjExNzIsNDg0MzE0NTgwLD
+E3MzQ0OTE4NjksMTA1MzY2MzU0OSwtMTk1MDEzNjA5NywtNDk2
+MzQxNTQsLTE4OTA2NzU5MzcsLTU3MzY4MjI5MSwxNzQ0Mzk0OD
+kzLDEwNTYwNjYwNzAsLTE5NjIzOTk2NDMsLTE0MjMwMjU0NDYs
+LTE1MjQxNTcxMzddfQ==
 -->
