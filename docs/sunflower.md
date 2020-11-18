@@ -80,7 +80,7 @@ Both Hernández and Dodoens participated in a transregional European network tha
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
 <param ve-entity eid="Q81506" title="Charles I of England">
 <param ve-entity eid="Q862550" title="language of flowers">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe; a stellar example being the engravings published in Bessler's _Hortus Eystettensis_.[^ref14] Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and floreligia and emblems.[^ref15] The double-portrait, of painter and plant, manifests the artist's skill as a portraitist and boosted his celebrity. By showing himself wearing a gold chain gifted from the king and standing opposite a blooming sunflower, Van Dyck also conveys his role as a member of the court who is loyal to his patron. Sunflowers, like other flora, became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe; a stellar example being the engravings published in Bessler's _Hortus Eystettensis_. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and floreligia and emblems.[^ref14] The double-portrait, of painter and plant, manifests the artist's skill as a portraitist and boosted his celebrity. By showing himself wearing a gold chain gifted from the king and standing opposite a blooming sunflower, Van Dyck also conveys his role as a member of the court who is loyal to his patron. Sunflowers, like other flora, became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments.
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
@@ -190,7 +190,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref13]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
 
-[^ref14]: John Peacock interprets the sunflower shown in the painting as an example of a _Flos Solis minor_ plant based upon the scale of the bloom relative to the artist. John Peacock, _The Look of Van Dyck: The Self-Portrait with a Sunflower and the Vision of the Painter_ (Burlington, VT: Ashgate, 2006), 116, HathiTrust, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
+[^ref14]: John Peacock, _The Look of Van Dyck: The Self-Portrait with a Sunflower and the Vision of the Painter_ (Burlington, VT: Ashgate, 2006), 116, HathiTrust, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
 
 [^ref15]: Jean-Michel Othoniel, “_Helianthus annuus_ Sunflower,” in _The Secret Language of Flowers: Notes on the Hidden Meanings of Flowers in Art_ (Boston, MA: Actes Sud/Isabella Stewart Gardner Museum, 2015), 66.
 
@@ -201,11 +201,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Mjk4Nzc1LC0xMTAyMTYyMjY4LC0xMD
-MwMzYxMTcyLDQ4NDMxNDU4MCwxNzM0NDkxODY5LDEwNTM2NjM1
-NDksLTE5NTAxMzYwOTcsLTQ5NjM0MTU0LC0xODkwNjc1OTM3LC
-01NzM2ODIyOTEsMTc0NDM5NDg5MywxMDU2MDY2MDcwLC0xOTYy
-Mzk5NjQzLC0xNDIzMDI1NDQ2LC0xNTI0MTU3MTM3LDM1MTk2Mj
-Q5MSwtNjcyMTI3MDkzLC0xMTY5OTgxNTEyLDEwMTQyNjk4MTEs
-LTE5MTIwMDYzMDZdfQ==
+eyJoaXN0b3J5IjpbLTQ0MzU0MjU3MywtMTEwMjE2MjI2OCwtMT
+AzMDM2MTE3Miw0ODQzMTQ1ODAsMTczNDQ5MTg2OSwxMDUzNjYz
+NTQ5LC0xOTUwMTM2MDk3LC00OTYzNDE1NCwtMTg5MDY3NTkzNy
+wtNTczNjgyMjkxLDE3NDQzOTQ4OTMsMTA1NjA2NjA3MCwtMTk2
+MjM5OTY0MywtMTQyMzAyNTQ0NiwtMTUyNDE1NzEzNywzNTE5Nj
+I0OTEsLTY3MjEyNzA5MywtMTE2OTk4MTUxMiwxMDE0MjY5ODEx
+LC0xOTEyMDA2MzA2XX0=
 -->
