@@ -11,7 +11,7 @@
 _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that were domesticated in North America thousands of years ago.[^ref1] Still in use today, the cultivated annual is grown nearly worldwide to harvest its seeds and produce oil from them. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and nearly twice that size with a support.[^ref2]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
-Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the art world. Like the supersized flower in this plant portrait, _H. annuus_ looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with visual stereotypes for the sunflower than with the actual palnt. Because many of us lack experiential or botanical knowledge of sunflowers it is all too easy to essentialize them by assuming that they all possess a single, golden blossom perched on an unbranched stem. In doing so, we fail to appreciate the intrinsic value of the species and to recognize the diversity within the genus sunflower.
+Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the art world. Like the supersized flower in this plant portrait, _H. annuus_ looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with visual stereotypes for the sunflower than with the actual plant. Because many of us lack experiential or botanical knowledge of sunflowers it is all too easy to essentialize them by assuming that they all possess a single, golden blossom perched on an unbranched stem. In doing so, we fail to appreciate the intrinsic value of the species and to recognize the diversity within the genus sunflower.
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 This essay clarifies how sunflower imagery can provide rich historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to plants. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers that were tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have contributed to the formation of visual stereotypes for the sunflower that often elide species differences and perpetuate cultural myths.
@@ -196,11 +196,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjQ5MzA1MCw1Njg1NTM3NjMsNDY3MD
-EyODM3LC0xNzc3NTg2NTMxLDkyODY4NDM1MCwxMTM5NzA4Mzg1
-LC0xNzgzNzE2NjUwLDE1MzA0MDgyNTksMTI4NTI4OTU4MSwyMD
-c3NTk3ODI3LDEzNjc2MzczNzYsLTE0MTg0OTQ0NDksMTE4NDU3
-MjQzOSwxMTg1Mjk4Njc3LDU0NzExNjc2NywxNTgxNzA1MTA0LC
-0yNjI4NDI1MiwtOTc1MTAyNzYxLDE0NTQ4NjM5NDUsMjYxNTYz
-MzQ3XX0=
+eyJoaXN0b3J5IjpbLTEzMTgwMTU1NDgsNTY4NTUzNzYzLDQ2Nz
+AxMjgzNywtMTc3NzU4NjUzMSw5Mjg2ODQzNTAsMTEzOTcwODM4
+NSwtMTc4MzcxNjY1MCwxNTMwNDA4MjU5LDEyODUyODk1ODEsMj
+A3NzU5NzgyNywxMzY3NjM3Mzc2LC0xNDE4NDk0NDQ5LDExODQ1
+NzI0MzksMTE4NTI5ODY3Nyw1NDcxMTY3NjcsMTU4MTcwNTEwNC
+wtMjYyODQyNTIsLTk3NTEwMjc2MSwxNDU0ODYzOTQ1LDI2MTU2
+MzM0N119
 -->
