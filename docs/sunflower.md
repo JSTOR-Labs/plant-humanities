@@ -86,7 +86,7 @@ By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
-As this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie by transforming her attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16] The sea nymph Clytie competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wasted away while training her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope.
+As this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie by transforming her attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16] The sea nymph competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wasted away while training her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
@@ -198,11 +198,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwOTMwNzY4LC04Nzg1OTgxNyw3MjMzMD
-YyMDcsMTc1MDcxOTI0NywtMTg5NDE0MjE5NywtNDQzNTQyNTcz
-LC0xMTAyMTYyMjY4LC0xMDMwMzYxMTcyLDQ4NDMxNDU4MCwxNz
-M0NDkxODY5LDEwNTM2NjM1NDksLTE5NTAxMzYwOTcsLTQ5NjM0
-MTU0LC0xODkwNjc1OTM3LC01NzM2ODIyOTEsMTc0NDM5NDg5My
-wxMDU2MDY2MDcwLC0xOTYyMzk5NjQzLC0xNDIzMDI1NDQ2LC0x
-NTI0MTU3MTM3XX0=
+eyJoaXN0b3J5IjpbMTQ2ODY3NDE1MCwtODc4NTk4MTcsNzIzMz
+A2MjA3LDE3NTA3MTkyNDcsLTE4OTQxNDIxOTcsLTQ0MzU0MjU3
+MywtMTEwMjE2MjI2OCwtMTAzMDM2MTE3Miw0ODQzMTQ1ODAsMT
+czNDQ5MTg2OSwxMDUzNjYzNTQ5LC0xOTUwMTM2MDk3LC00OTYz
+NDE1NCwtMTg5MDY3NTkzNywtNTczNjgyMjkxLDE3NDQzOTQ4OT
+MsMTA1NjA2NjA3MCwtMTk2MjM5OTY0MywtMTQyMzAyNTQ0Niwt
+MTUyNDE1NzEzN119
 -->
