@@ -83,7 +83,7 @@ Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and
 <param ve-entity eid="Q158082" title="heliotropum">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
-Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being prized as foreign curiosities, luxury goods, and status symbols. Sunflowers, like other flora, also became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments. _Helianthus annuus_ carried connotations of devotion, loyalty, and constancy because its heliotropic phase recalled the ancient Greek myth of Helios and Clytie.[^ref13]  The sea nymph Clytie competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wastes away while training her steadfast gaze upon his chariot as it traverses the sky. Her suffering ends with her metamorphosis into a heliotrope. Yet, as this print shows, many seventeenth-century European artists reinterpreted the myth by transforming Clytie’s attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref14] 
+Sunflowers, like other flora, also became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments. _Helianthus annuus_ carried connotations of devotion, loyalty, and constancy because its heliotropic phase recalled the ancient Greek myth of Helios and Clytie.[^ref13]  The sea nymph Clytie competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wastes away while training her steadfast gaze upon his chariot as it traverses the sky. Her suffering ends with her metamorphosis into a heliotrope. Yet, as this print shows, many seventeenth-century European artists reinterpreted the myth by transforming Clytie’s attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref14] 
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
 _The Sunflower_, 1866-1870, photograph, National Gallery of Art">
@@ -196,11 +196,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjM0MTU0LC0xODkwNjc1OTM3LC01Nz
-M2ODIyOTEsMTc0NDM5NDg5MywxMDU2MDY2MDcwLC0xOTYyMzk5
-NjQzLC0xNDIzMDI1NDQ2LC0xNTI0MTU3MTM3LDM1MTk2MjQ5MS
-wtNjcyMTI3MDkzLC0xMTY5OTgxNTEyLDEwMTQyNjk4MTEsLTE5
-MTIwMDYzMDYsMTYzMjYzNjc3LC0yMDM4NTU1ODQsODI0MjQxMT
-I2LDI5Mzg5OTAxNCwtMzQzNzMzMzE2LDM3Mjg0NzU1NiwtMjA5
-NjUzNjAwNl19
+eyJoaXN0b3J5IjpbLTE5NTAxMzYwOTcsLTQ5NjM0MTU0LC0xOD
+kwNjc1OTM3LC01NzM2ODIyOTEsMTc0NDM5NDg5MywxMDU2MDY2
+MDcwLC0xOTYyMzk5NjQzLC0xNDIzMDI1NDQ2LC0xNTI0MTU3MT
+M3LDM1MTk2MjQ5MSwtNjcyMTI3MDkzLC0xMTY5OTgxNTEyLDEw
+MTQyNjk4MTEsLTE5MTIwMDYzMDYsMTYzMjYzNjc3LC0yMDM4NT
+U1ODQsODI0MjQxMTI2LDI5Mzg5OTAxNCwtMzQzNzMzMzE2LDM3
+Mjg0NzU1Nl19
 -->
