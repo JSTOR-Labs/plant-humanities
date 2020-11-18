@@ -72,7 +72,7 @@ The migration of sunflower iconography is evidenced in Francisco Hernández’s 
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, Missouri Botanical Garden">
 
-Both Hernández and Dodoens participated in a network of transregional European exchanges of iconography and ideas related to the sunflower. This visualization posits a preliminary model for studying points of intersection among Dodoens and authors, artists, translators, plant collectors, patrons, and other figures, active in Europe between the 1550s and the 1650s. The web of interactions also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one herbal to another, possibly through intermediary sources. These borrowings raise questions about the significance of individual plants and pictures, about relationships of images to texts, about patterns of artistic exchange, and about the role of iconography in processes of knowledge production.
+Both Hernández and Dodoens participated in a transregional European network that exchanged iconography and ideas related to the sunflower. This visualization posits a preliminary model for studying points of intersection among authors, artists, translators, plant collectors, patrons, and other figures between the 1550s and the 1650s. It also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one herbal to another, possibly through intermediary sources. These borrowings raise questions about the significance of individual plants and pictures, about relationships of images to texts, about patterns of artistic exchange, and about the role of iconography in processes of knowledge production.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Rembert Dodoens">
 
 ### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
@@ -196,11 +196,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjYzMzYxMSwtNjcyMTI3MDkzLC0xMT
-Y5OTgxNTEyLDEwMTQyNjk4MTEsLTE5MTIwMDYzMDYsMTYzMjYz
-Njc3LC0yMDM4NTU1ODQsODI0MjQxMTI2LDI5Mzg5OTAxNCwtMz
-QzNzMzMzE2LDM3Mjg0NzU1NiwtMjA5NjUzNjAwNiwzMDkzMDM0
-MDIsLTEzMTgwMTU1NDgsNTY4NTUzNzYzLDQ2NzAxMjgzNywtMT
-c3NzU4NjUzMSw5Mjg2ODQzNTAsMTEzOTcwODM4NSwtMTc4Mzcx
-NjY1MF19
+eyJoaXN0b3J5IjpbMzUxOTYyNDkxLC02NzIxMjcwOTMsLTExNj
+k5ODE1MTIsMTAxNDI2OTgxMSwtMTkxMjAwNjMwNiwxNjMyNjM2
+NzcsLTIwMzg1NTU4NCw4MjQyNDExMjYsMjkzODk5MDE0LC0zND
+M3MzMzMTYsMzcyODQ3NTU2LC0yMDk2NTM2MDA2LDMwOTMwMzQw
+MiwtMTMxODAxNTU0OCw1Njg1NTM3NjMsNDY3MDEyODM3LC0xNz
+c3NTg2NTMxLDkyODY4NDM1MCwxMTM5NzA4Mzg1LC0xNzgzNzE2
+NjUwXX0=
 -->
