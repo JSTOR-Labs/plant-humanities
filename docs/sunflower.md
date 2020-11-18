@@ -62,7 +62,7 @@ The illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at rig
 <param ve-image fit="contain" url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0311.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 
 <param ve-entity eid="Q419" title="Peru">
-The circumstances surrounding Europeans’ harvesting of sunflowers in the Americas are not well documented, and Dodoens’s account of their provenance is also somewhat muddy.He used the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate mistakenly that the plant was native to Peru. However, at that time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas. This misunderstanding about the sunflower’s “Peruvian” origins was propagated in subsequent herbals that repurposed imagery and information from Dodoens. That was the case for John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which reproduces the woodcut of _Chrysanthemum Peruvianum_ from Dodoens’s _Florum, et coronariarum_.
+The circumstances surrounding Europeans’ harvesting of sunflowers in North America are not well documented, and Dodoens’s account of their provenance is also somewhat muddy. He used the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate mistakenly that the plant was native to Peru. However, at that time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas. This misunderstanding about the sunflower’s “Peruvian” origins was propagated in subsequent herbals that repurposed imagery and information from Dodoens. That was the case for John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which reproduces the woodcut of _Chrysanthemum Peruvianum_ from Dodoens’s _Florum, et coronariarum_.
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q1333338" title="John Gerard"> 
 
@@ -196,11 +196,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk5ODE1MTIsMTAxNDI2OTgxMSwtMT
-kxMjAwNjMwNiwxNjMyNjM2NzcsLTIwMzg1NTU4NCw4MjQyNDEx
-MjYsMjkzODk5MDE0LC0zNDM3MzMzMTYsMzcyODQ3NTU2LC0yMD
-k2NTM2MDA2LDMwOTMwMzQwMiwtMTMxODAxNTU0OCw1Njg1NTM3
-NjMsNDY3MDEyODM3LC0xNzc3NTg2NTMxLDkyODY4NDM1MCwxMT
-M5NzA4Mzg1LC0xNzgzNzE2NjUwLDE1MzA0MDgyNTksMTI4NTI4
-OTU4MV19
+eyJoaXN0b3J5IjpbLTY3MjEyNzA5MywtMTE2OTk4MTUxMiwxMD
+E0MjY5ODExLC0xOTEyMDA2MzA2LDE2MzI2MzY3NywtMjAzODU1
+NTg0LDgyNDI0MTEyNiwyOTM4OTkwMTQsLTM0MzczMzMxNiwzNz
+I4NDc1NTYsLTIwOTY1MzYwMDYsMzA5MzAzNDAyLC0xMzE4MDE1
+NTQ4LDU2ODU1Mzc2Myw0NjcwMTI4MzcsLTE3Nzc1ODY1MzEsOT
+I4Njg0MzUwLDExMzk3MDgzODUsLTE3ODM3MTY2NTAsMTUzMDQw
+ODI1OV19
 -->
