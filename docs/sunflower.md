@@ -77,7 +77,7 @@ Both Hernández and Dodoens participated in a transregional European network tha
 
 ### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
 
-When the Flemi Anthony Van Dyck self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers.[^ref14]
+An iconography for representing the sunflower was well established in Europe at t The Flemish artist Anthony Van Dyck produced this self-portrait with sunflower,  address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers.[^ref14]
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
@@ -198,11 +198,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzIzMzYwOTcsMTczNDQ5MTg2OSwxMD
-UzNjYzNTQ5LC0xOTUwMTM2MDk3LC00OTYzNDE1NCwtMTg5MDY3
-NTkzNywtNTczNjgyMjkxLDE3NDQzOTQ4OTMsMTA1NjA2NjA3MC
-wtMTk2MjM5OTY0MywtMTQyMzAyNTQ0NiwtMTUyNDE1NzEzNywz
-NTE5NjI0OTEsLTY3MjEyNzA5MywtMTE2OTk4MTUxMiwxMDE0Mj
-Y5ODExLC0xOTEyMDA2MzA2LDE2MzI2MzY3NywtMjAzODU1NTg0
-LDgyNDI0MTEyNl19
+eyJoaXN0b3J5IjpbNDczODkwOTc2LDE3MzQ0OTE4NjksMTA1Mz
+Y2MzU0OSwtMTk1MDEzNjA5NywtNDk2MzQxNTQsLTE4OTA2NzU5
+MzcsLTU3MzY4MjI5MSwxNzQ0Mzk0ODkzLDEwNTYwNjYwNzAsLT
+E5NjIzOTk2NDMsLTE0MjMwMjU0NDYsLTE1MjQxNTcxMzcsMzUx
+OTYyNDkxLC02NzIxMjcwOTMsLTExNjk5ODE1MTIsMTAxNDI2OT
+gxMSwtMTkxMjAwNjMwNiwxNjMyNjM2NzcsLTIwMzg1NTU4NCw4
+MjQyNDExMjZdfQ==
 -->
