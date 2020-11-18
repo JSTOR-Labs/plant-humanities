@@ -80,16 +80,12 @@ Both Hernández and Dodoens participated in a transregional European network tha
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
 <param ve-entity eid="Q81506" title="Charles I of England">
 <param ve-entity eid="Q112110" title="emblem">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and emblems.[^ref14] By showing himself standing opposite a magnificently blooming sunflower and wearing a gold chain gifted from the king, Van Dyck conveys his loyalty to his patron and role as a member of the court.
-<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
-
 <param ve-entity eid="Q158082" title="heliotropum">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
-_Helianthus annuus_ carried connotations of devotion, loyalty, and constancy because its heliotropic phase recalled the ancient Greek myth of Helios and Clytie.[^ref15]  The sea nymph Clytie competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wastes away while training her steadfast gaze upon his chariot as it traverses the sky. Her suffering ends with her metamorphosis into a heliotrope. Yet, as this print shows, many seventeenth-century European artists reinterpreted the myth by transforming Clytie’s attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16] 
-<param ve-image primary fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
-<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
-_The Sunflower_, 1866-1870, photograph, National Gallery of Art">
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and emblems.[^ref14] By showing himself standing opposite a magnificently blooming sunflower and wearing a gold chain gifted from the king, Van Dyck conveys his loyalty to his patron and role as a member of the court. _Helianthus annuus_ carried connotations of devotion, loyalty, and constancy because its heliotropic phase recalled the ancient Greek myth of Helios and Clytie.[^ref15]  The sea nymph Clytie competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wastes away while training her steadfast gaze upon his chariot as it traverses the sky. Her suffering ends with her metamorphosis into a heliotrope. Yet, as this print shows, many seventeenth-century European artists reinterpreted the myth by transforming Clytie’s attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16] 
+<param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
+<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
 It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref17] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. 
@@ -201,11 +197,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTcyNDM5MzEsLTE4OTQxNDIxOTcsLT
-Q0MzU0MjU3MywtMTEwMjE2MjI2OCwtMTAzMDM2MTE3Miw0ODQz
-MTQ1ODAsMTczNDQ5MTg2OSwxMDUzNjYzNTQ5LC0xOTUwMTM2MD
-k3LC00OTYzNDE1NCwtMTg5MDY3NTkzNywtNTczNjgyMjkxLDE3
-NDQzOTQ4OTMsMTA1NjA2NjA3MCwtMTk2MjM5OTY0MywtMTQyMz
-AyNTQ0NiwtMTUyNDE1NzEzNywzNTE5NjI0OTEsLTY3MjEyNzA5
-MywtMTE2OTk4MTUxMl19
+eyJoaXN0b3J5IjpbLTkyODgyMTQ2MywtMTg5NDE0MjE5NywtND
+QzNTQyNTczLC0xMTAyMTYyMjY4LC0xMDMwMzYxMTcyLDQ4NDMx
+NDU4MCwxNzM0NDkxODY5LDEwNTM2NjM1NDksLTE5NTAxMzYwOT
+csLTQ5NjM0MTU0LC0xODkwNjc1OTM3LC01NzM2ODIyOTEsMTc0
+NDM5NDg5MywxMDU2MDY2MDcwLC0xOTYyMzk5NjQzLC0xNDIzMD
+I1NDQ2LC0xNTI0MTU3MTM3LDM1MTk2MjQ5MSwtNjcyMTI3MDkz
+LC0xMTY5OTgxNTEyXX0=
 -->
