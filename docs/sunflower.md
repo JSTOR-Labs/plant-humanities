@@ -78,7 +78,7 @@ Both Hernández and Dodoens participated in a transregional European network tha
 ### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
 
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working forelf-portrait with sunflower,  address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers.[^ref14]
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, would have elf-portrait with sunflower,  address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers.[^ref14]
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
@@ -199,11 +199,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5NjU3MTc3LC0xMDMwMzYxMTcyLDQ4ND
-MxNDU4MCwxNzM0NDkxODY5LDEwNTM2NjM1NDksLTE5NTAxMzYw
-OTcsLTQ5NjM0MTU0LC0xODkwNjc1OTM3LC01NzM2ODIyOTEsMT
-c0NDM5NDg5MywxMDU2MDY2MDcwLC0xOTYyMzk5NjQzLC0xNDIz
-MDI1NDQ2LC0xNTI0MTU3MTM3LDM1MTk2MjQ5MSwtNjcyMTI3MD
-kzLC0xMTY5OTgxNTEyLDEwMTQyNjk4MTEsLTE5MTIwMDYzMDYs
-MTYzMjYzNjc3XX0=
+eyJoaXN0b3J5IjpbMTc5MDUxMDQ1MSwtMTAzMDM2MTE3Miw0OD
+QzMTQ1ODAsMTczNDQ5MTg2OSwxMDUzNjYzNTQ5LC0xOTUwMTM2
+MDk3LC00OTYzNDE1NCwtMTg5MDY3NTkzNywtNTczNjgyMjkxLD
+E3NDQzOTQ4OTMsMTA1NjA2NjA3MCwtMTk2MjM5OTY0MywtMTQy
+MzAyNTQ0NiwtMTUyNDE1NzEzNywzNTE5NjI0OTEsLTY3MjEyNz
+A5MywtMTE2OTk4MTUxMiwxMDE0MjY5ODExLC0xOTEyMDA2MzA2
+LDE2MzI2MzY3N119
 -->
