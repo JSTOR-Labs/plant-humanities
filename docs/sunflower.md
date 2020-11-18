@@ -86,7 +86,7 @@ By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
-As this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie by transforming her attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16] The nymph competed unsuccessfully for the heart of Helios. Scorned by him, Clytie wasted away while training her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope. Still, the myth continues to be enmeshed with the sunflower in visual representations as evidenced by Elizabeth Colomba’s 2007 [watercolor](https://artmuseum.princeton.edu/collections/objects/127332), which casts a black woman in mid-nineteenth-century attire as Clytie. 
+As this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie by transforming her attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16] The nymph competed unsuccessfully for the heart of Helios. Scorned by him, Clytie wasted away while training her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope. Still, the myth continues to be enmeshed with the sunflower as evidenced by Elizabeth Colomba’s 2007 [watercolor](https://artmuseum.princeton.edu/collections/objects/127332), which, by casting a black woman as Clytie, claims a space for the black body within visual codes for representing mythological narratives that have been synonymous with whiteness.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
@@ -198,11 +198,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5NjY4MTU3LDEzNzk5NjcxODgsLTE3Mj
-gzNjkzMTcsLTg3ODU5ODE3LDcyMzMwNjIwNywxNzUwNzE5MjQ3
-LC0xODk0MTQyMTk3LC00NDM1NDI1NzMsLTExMDIxNjIyNjgsLT
-EwMzAzNjExNzIsNDg0MzE0NTgwLDE3MzQ0OTE4NjksMTA1MzY2
-MzU0OSwtMTk1MDEzNjA5NywtNDk2MzQxNTQsLTE4OTA2NzU5Mz
-csLTU3MzY4MjI5MSwxNzQ0Mzk0ODkzLDEwNTYwNjYwNzAsLTE5
-NjIzOTk2NDNdfQ==
+eyJoaXN0b3J5IjpbLTE2ODMyNjM4ODcsNzc5NjY4MTU3LDEzNz
+k5NjcxODgsLTE3MjgzNjkzMTcsLTg3ODU5ODE3LDcyMzMwNjIw
+NywxNzUwNzE5MjQ3LC0xODk0MTQyMTk3LC00NDM1NDI1NzMsLT
+ExMDIxNjIyNjgsLTEwMzAzNjExNzIsNDg0MzE0NTgwLDE3MzQ0
+OTE4NjksMTA1MzY2MzU0OSwtMTk1MDEzNjA5NywtNDk2MzQxNT
+QsLTE4OTA2NzU5MzcsLTU3MzY4MjI5MSwxNzQ0Mzk0ODkzLDEw
+NTYwNjYwNzBdfQ==
 -->
