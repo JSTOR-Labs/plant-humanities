@@ -50,7 +50,7 @@ The Spanish first transported the domesticated sunflower across the Atlantic Oce
 <param ve-entity eid="Q437466" title="Rembert Dodoens">
 <param ve-entity eid="Q8717" title="Seville">
 <param ve-entity eid="Q162022" title="Mechelen">
-Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref10] Similarly, Pietro Andrea, 1500-1577](https://www.biodiversitylibrary.org/creator/966)Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568) provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.
+Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref10] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568) provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders. 
 <param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
 ### “Peruvian” Origins and Mythic Encounters
@@ -196,11 +196,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY4NzQyNywtMTk1MDEzNjA5NywtND
-k2MzQxNTQsLTE4OTA2NzU5MzcsLTU3MzY4MjI5MSwxNzQ0Mzk0
-ODkzLDEwNTYwNjYwNzAsLTE5NjIzOTk2NDMsLTE0MjMwMjU0ND
-YsLTE1MjQxNTcxMzcsMzUxOTYyNDkxLC02NzIxMjcwOTMsLTEx
-Njk5ODE1MTIsMTAxNDI2OTgxMSwtMTkxMjAwNjMwNiwxNjMyNj
-M2NzcsLTIwMzg1NTU4NCw4MjQyNDExMjYsMjkzODk5MDE0LC0z
-NDM3MzMzMTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NDYwMzg0MTMsLTE5NTAxMzYwOTcsLT
+Q5NjM0MTU0LC0xODkwNjc1OTM3LC01NzM2ODIyOTEsMTc0NDM5
+NDg5MywxMDU2MDY2MDcwLC0xOTYyMzk5NjQzLC0xNDIzMDI1ND
+Q2LC0xNTI0MTU3MTM3LDM1MTk2MjQ5MSwtNjcyMTI3MDkzLC0x
+MTY5OTgxNTEyLDEwMTQyNjk4MTEsLTE5MTIwMDYzMDYsMTYzMj
+YzNjc3LC0yMDM4NTU1ODQsODI0MjQxMTI2LDI5Mzg5OTAxNCwt
+MzQzNzMzMzE2XX0=
 -->
