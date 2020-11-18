@@ -80,7 +80,7 @@ Both Hernández and Dodoens participated in a transregional European network tha
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
 <param ve-entity eid="Q81506" title="Charles I of England">
 <param ve-entity eid="Q862550" title="language of flowers">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe; a highwatermark being the engraving published in Bessler's _Hortus Eysettensis. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and floreligia and emblems.[^ref14] The double-portrait, of painter and plant, manifests the artist's skill as a portraitist and boosted his celebrity. By showing himself wearing a gold chain gifted from the king and standing opposite a blooming sunflower, Van Dyck also conveys his role as a member of the court who is loyal to his patron. Sunflowers, like other flora, became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe; a stellar example being the engravings published in Bessler's _Hortus Eystettensis_.[^ref14] Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and floreligia and emblems.[^ref15] The double-portrait, of painter and plant, manifests the artist's skill as a portraitist and boosted his celebrity. By showing himself wearing a gold chain gifted from the king and standing opposite a blooming sunflower, Van Dyck also conveys his role as a member of the court who is loyal to his patron. Sunflowers, like other flora, became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments.
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
@@ -201,11 +201,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDU0MTc3NzcsLTExMDIxNjIyNjgsLT
-EwMzAzNjExNzIsNDg0MzE0NTgwLDE3MzQ0OTE4NjksMTA1MzY2
-MzU0OSwtMTk1MDEzNjA5NywtNDk2MzQxNTQsLTE4OTA2NzU5Mz
-csLTU3MzY4MjI5MSwxNzQ0Mzk0ODkzLDEwNTYwNjYwNzAsLTE5
-NjIzOTk2NDMsLTE0MjMwMjU0NDYsLTE1MjQxNTcxMzcsMzUxOT
-YyNDkxLC02NzIxMjcwOTMsLTExNjk5ODE1MTIsMTAxNDI2OTgx
-MSwtMTkxMjAwNjMwNl19
+eyJoaXN0b3J5IjpbLTk1Mjk4Nzc1LC0xMTAyMTYyMjY4LC0xMD
+MwMzYxMTcyLDQ4NDMxNDU4MCwxNzM0NDkxODY5LDEwNTM2NjM1
+NDksLTE5NTAxMzYwOTcsLTQ5NjM0MTU0LC0xODkwNjc1OTM3LC
+01NzM2ODIyOTEsMTc0NDM5NDg5MywxMDU2MDY2MDcwLC0xOTYy
+Mzk5NjQzLC0xNDIzMDI1NDQ2LC0xNTI0MTU3MTM3LDM1MTk2Mj
+Q5MSwtNjcyMTI3MDkzLC0xMTY5OTgxNTEyLDEwMTQyNjk4MTEs
+LTE5MTIwMDYzMDZdfQ==
 -->
