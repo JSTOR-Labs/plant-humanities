@@ -66,14 +66,14 @@ The circumstances surrounding Europeans’ harvesting of sunflowers in North Ame
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q1333338" title="John Gerard"> 
 
-Dodoens participated in a network of transregional European exchanges of iconography and ideas related to the sunflower. This visualization posits a preliminary model for studying points of intersection among Dodoens and authors, artists, translators, plant collectors, patrons, and other figures, active in Europe between the 1550s and the 1650s. The web of interactions also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one herbal to another, possibly through intermediary sources. These borrowings raise questions about the significance of individual plants and pictures, about relationships of images to texts, about patterns of artistic exchange, and about the role of iconography in processes of knowledge production.
-<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Rembert Dodoens">
-
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-image iiif primary fit="contain" url="https://ia800805.us.archive.org/BookReader/BookReaderImages.php?id=novaplantarumani00hern&itemPath=%2F5%2Fitems%2Fnovaplantarumani00hern&server=ia800805.us.archive.org&page=n245_w820" title="Hernández, Francisco, _Nova plantarum, animalium et mineralium Mexicanorum historia_, 1651, John Carter Brown Library">
-The migration of sunflower iconography is evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_ (1651).[^ref12] The book purports to document plants and animals that Hernández and his team, which included several indigenous artists, observed during a three-year expedition through Mexico in the 1570s. However, its illustrations of sunflowers, shown here, were not drawn on-site from local plants but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait made under Besler’s direction for inclusion in _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613). <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from a 1619 French-language translation of a text by Monardes, or a similar precedent. These borrowings have been interpreted as evidence that Hernández’s team of artists had to copy existing imagery because the sunflower was not established in Mexico at the time. If that were so, Hernández’s inclusion of the sunflower in his manuscript reproduced European assumptions about its range that would later be challenged in scientific studies.
+The migration of sunflower iconography is evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_ (1651).[^ref12] The book purports to document plants and animals that Hernández and his team, which included several indigenous artists, observed during a three-year expedition through Mexico in the 1570s. However, its illustrations of sunflowers, shown here, were not drawn on-site from local plants but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait made under Besler’s direction for inclusion in _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613). <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from a 1619 French-language translation of a text by Monardes, or a similar precedent. These borrowings have been interpreted as evidence that Hernández’s team of artists had to copy existing imagery because the sunflower was not established in Mexico at the time. If that were so, Hernández’s inclusion of the sunflower in his manuscript reproduced European misconceptions about its range.
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, Missouri Botanical Garden">
+
+Both Hernández and Dodoens participated in a network of transregional European exchanges of iconography and ideas related to the sunflower. This visualization posits a preliminary model for studying points of intersection among Dodoens and authors, artists, translators, plant collectors, patrons, and other figures, active in Europe between the 1550s and the 1650s. The web of interactions also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one herbal to another, possibly through intermediary sources. These borrowings raise questions about the significance of individual plants and pictures, about relationships of images to texts, about patterns of artistic exchange, and about the role of iconography in processes of knowledge production.
+<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Rembert Dodoens">
 
 ### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
 
@@ -196,11 +196,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjEyNzA5MywtMTE2OTk4MTUxMiwxMD
-E0MjY5ODExLC0xOTEyMDA2MzA2LDE2MzI2MzY3NywtMjAzODU1
-NTg0LDgyNDI0MTEyNiwyOTM4OTkwMTQsLTM0MzczMzMxNiwzNz
-I4NDc1NTYsLTIwOTY1MzYwMDYsMzA5MzAzNDAyLC0xMzE4MDE1
-NTQ4LDU2ODU1Mzc2Myw0NjcwMTI4MzcsLTE3Nzc1ODY1MzEsOT
-I4Njg0MzUwLDExMzk3MDgzODUsLTE3ODM3MTY2NTAsMTUzMDQw
-ODI1OV19
+eyJoaXN0b3J5IjpbMTYwMjYzMzYxMSwtNjcyMTI3MDkzLC0xMT
+Y5OTgxNTEyLDEwMTQyNjk4MTEsLTE5MTIwMDYzMDYsMTYzMjYz
+Njc3LC0yMDM4NTU1ODQsODI0MjQxMTI2LDI5Mzg5OTAxNCwtMz
+QzNzMzMzE2LDM3Mjg0NzU1NiwtMjA5NjUzNjAwNiwzMDkzMDM0
+MDIsLTEzMTgwMTU1NDgsNTY4NTUzNzYzLDQ2NzAxMjgzNywtMT
+c3NzU4NjUzMSw5Mjg2ODQzNTAsMTEzOTcwODM4NSwtMTc4Mzcx
+NjY1MF19
 -->
