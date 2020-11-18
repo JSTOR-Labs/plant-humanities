@@ -62,7 +62,7 @@ The illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at rig
 <param ve-image fit="contain" url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0311.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 
 <param ve-entity eid="Q419" title="Peru">
-Dodoens'used the pre-Linnaean name _Chrysanthemum Peruvianum_ to indicate mistakenly that the plant was native to Peru. However, at that time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas. This misunderstanding about the sunflower’s “Peruvian” origins was propagated in subsequent herbals that repurposed imagery and information from Dodoens. That was the case for John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which reproduces the woodcut of _Chrysanthemum Peruvianum_ from Dodoens’s _Florum, et coronariarum_.
+Dodoens's use of the pre-Linnaean name _Chrysanthemum Peruvianum_ to describe the domesticated sunflower mistakenly that the plant was native to Peru. However, at that time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas. This misunderstanding about the sunflower’s “Peruvian” origins was propagated in subsequent herbals that repurposed imagery and information from Dodoens. That was the case for John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which reproduces the woodcut of _Chrysanthemum Peruvianum_ from Dodoens’s _Florum, et coronariarum_.
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q1333338" title="John Gerard"> 
 
@@ -196,11 +196,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxNDgwODgsMTc0NDM5NDg5MywxMDU2MD
-Y2MDcwLC0xOTYyMzk5NjQzLC0xNDIzMDI1NDQ2LC0xNTI0MTU3
-MTM3LDM1MTk2MjQ5MSwtNjcyMTI3MDkzLC0xMTY5OTgxNTEyLD
-EwMTQyNjk4MTEsLTE5MTIwMDYzMDYsMTYzMjYzNjc3LC0yMDM4
-NTU1ODQsODI0MjQxMTI2LDI5Mzg5OTAxNCwtMzQzNzMzMzE2LD
-M3Mjg0NzU1NiwtMjA5NjUzNjAwNiwzMDkzMDM0MDIsLTEzMTgw
-MTU1NDhdfQ==
+eyJoaXN0b3J5IjpbNjAxMjg3MTg4LDE3NDQzOTQ4OTMsMTA1Nj
+A2NjA3MCwtMTk2MjM5OTY0MywtMTQyMzAyNTQ0NiwtMTUyNDE1
+NzEzNywzNTE5NjI0OTEsLTY3MjEyNzA5MywtMTE2OTk4MTUxMi
+wxMDE0MjY5ODExLC0xOTEyMDA2MzA2LDE2MzI2MzY3NywtMjAz
+ODU1NTg0LDgyNDI0MTEyNiwyOTM4OTkwMTQsLTM0MzczMzMxNi
+wzNzI4NDc1NTYsLTIwOTY1MzYwMDYsMzA5MzAzNDAyLC0xMzE4
+MDE1NTQ4XX0=
 -->
