@@ -92,7 +92,7 @@ _The Sunflower_, 1866-1870, photograph, National Gallery of Art">
 It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref16] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. 
 <param ve-video title="_Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits_, Hagop S. Atamian, Nicky M. Creux, Evan A. Brown, Austin G. Garner, Benjamin K. Blackman, Stacey L. Harmer, DOI: 10.1126/science.aaf9793" vid="rjwd4DErj_M?t=18">
 
-These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Needles to say, these exciting findings generated a media buzz!
+These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Needless to say, the exciting findings generated a media buzz!
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/7/74/Sunflower_with_bees_%28284583050%29.jpg" title="_Sunflower with bees_, attributed to Dwight Sipler, CC Attribution 2.0 Generic">
 
 ### Out of One, Many
@@ -196,11 +196,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTM4NTk4MSwtMTg5MDY3NTkzNywtNT
-czNjgyMjkxLDE3NDQzOTQ4OTMsMTA1NjA2NjA3MCwtMTk2MjM5
-OTY0MywtMTQyMzAyNTQ0NiwtMTUyNDE1NzEzNywzNTE5NjI0OT
-EsLTY3MjEyNzA5MywtMTE2OTk4MTUxMiwxMDE0MjY5ODExLC0x
-OTEyMDA2MzA2LDE2MzI2MzY3NywtMjAzODU1NTg0LDgyNDI0MT
-EyNiwyOTM4OTkwMTQsLTM0MzczMzMxNiwzNzI4NDc1NTYsLTIw
-OTY1MzYwMDZdfQ==
+eyJoaXN0b3J5IjpbLTQ5NjM0MTU0LC0xODkwNjc1OTM3LC01Nz
+M2ODIyOTEsMTc0NDM5NDg5MywxMDU2MDY2MDcwLC0xOTYyMzk5
+NjQzLC0xNDIzMDI1NDQ2LC0xNTI0MTU3MTM3LDM1MTk2MjQ5MS
+wtNjcyMTI3MDkzLC0xMTY5OTgxNTEyLDEwMTQyNjk4MTEsLTE5
+MTIwMDYzMDYsMTYzMjYzNjc3LC0yMDM4NTU1ODQsODI0MjQxMT
+I2LDI5Mzg5OTAxNCwtMzQzNzMzMzE2LDM3Mjg0NzU1NiwtMjA5
+NjUzNjAwNl19
 -->
