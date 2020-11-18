@@ -80,7 +80,7 @@ Both Hernández and Dodoens participated in a transregional European network tha
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
 <param ve-entity eid="Q81506" title="Charles I of England">
 <param ve-entity eid="Q862550" title="language of flowers">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and emblems.[^ref14] The double-portrait, of painter and plant, was a bravura demonstration of the artist's skill as a portraitist th. By showing himself wearing a gold chain gifted from the king and standing opposite a blooming sunflower, Van Dyck also conveys his role as a member of the court who is loyal to his patron. Sunflowers, like other flora, became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and emblems.[^ref14] The double-portrait, of painter and plant, was a bravura demonstration of the artist's skill as a portraitist with a bold wit. By showing himself wearing a gold chain gifted from the king and standing opposite a blooming sunflower, Van Dyck also conveys his role as a member of the court who is loyal to his patron. Sunflowers, like other flora, became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments.
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
@@ -201,11 +201,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTgzMzM5MCwtNDQzNTQyNTczLC0xMT
-AyMTYyMjY4LC0xMDMwMzYxMTcyLDQ4NDMxNDU4MCwxNzM0NDkx
-ODY5LDEwNTM2NjM1NDksLTE5NTAxMzYwOTcsLTQ5NjM0MTU0LC
-0xODkwNjc1OTM3LC01NzM2ODIyOTEsMTc0NDM5NDg5MywxMDU2
-MDY2MDcwLC0xOTYyMzk5NjQzLC0xNDIzMDI1NDQ2LC0xNTI0MT
-U3MTM3LDM1MTk2MjQ5MSwtNjcyMTI3MDkzLC0xMTY5OTgxNTEy
-LDEwMTQyNjk4MTFdfQ==
+eyJoaXN0b3J5IjpbLTIwOTQxODcyOTIsLTQ0MzU0MjU3MywtMT
+EwMjE2MjI2OCwtMTAzMDM2MTE3Miw0ODQzMTQ1ODAsMTczNDQ5
+MTg2OSwxMDUzNjYzNTQ5LC0xOTUwMTM2MDk3LC00OTYzNDE1NC
+wtMTg5MDY3NTkzNywtNTczNjgyMjkxLDE3NDQzOTQ4OTMsMTA1
+NjA2NjA3MCwtMTk2MjM5OTY0MywtMTQyMzAyNTQ0NiwtMTUyND
+E1NzEzNywzNTE5NjI0OTEsLTY3MjEyNzA5MywtMTE2OTk4MTUx
+MiwxMDE0MjY5ODExXX0=
 -->
