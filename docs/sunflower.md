@@ -79,7 +79,7 @@ Both Hernández and Dodoens participated in a transregional European network tha
 
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
 <param ve-entity eid="Q81506" title="Charles I of England">
-<param ve-entity eid="
+<param ve-entity eid="Q862550" title="language of flowers">
 By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and floreligia and emblems.[^ref14] The double-portrait, of painter and plant, manifests the artist's skill as a portraitist and boosted his celebrity. By showing himself wearing a gold chain gifted from the king and standing opposite a blooming sunflower, Van Dyck also conveys his role as a member of the court who is loyal to his patron. Sunflowers, like other flora, became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments.
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
@@ -190,18 +190,18 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref13]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
 
-[^ref14]: Jean-Michel Othoniel, “_Helianthus annuus_ Sunflower,” in _The Secret Language of Flowers: Notes on the Hidden Meanings of Flowers in Art_ (Boston, MA: Actes Sud/Isabella Stewart Gardner Museum, 2015), 66.
+[^ref14]: John Peacock, _The Look of Van Dyck: The Self-Portrait with a Sunflower and the Vision of the painter_ (Ashgate, X), HathiTrust, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
 
-[^ref15]: Debra N. Mancoff, _Sunflowers_ (New York: Thames and Hudson, 2001), 21-27.
+[^ref15]: Jean-Michel Othoniel, “_Helianthus annuus_ Sunflower,” in _The Secret Language of Flowers: Notes on the Hidden Meanings of Flowers in Art_ (Boston, MA: Actes Sud/Isabella Stewart Gardner Museum, 2015), 66.
 
-[^ref16]: John Peacock, _The look of Van Dyck : the Self-portrait with a sunflower and the vision of the painter_ (Ashgate, X), HathiTrust, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
+[^ref16]: Debra N. Mancoff, _Sunflowers_ (New York: Thames and Hudson, 2001), 21-27.
 
 [^ref17]: Hagop S. Atamian et al., “Circadian Regulations of Sunflower Heliotropism, Floral Orientation, and Pollinator Visits,” _Science_ 353, no. 6299 (2016): 587-90. DOI: 10.1126/science.aaf9793
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjM3NTc3MywtMTEwMjE2MjI2OCwtMT
+eyJoaXN0b3J5IjpbMTM3NTEzMTIxOCwtMTEwMjE2MjI2OCwtMT
 AzMDM2MTE3Miw0ODQzMTQ1ODAsMTczNDQ5MTg2OSwxMDUzNjYz
 NTQ5LC0xOTUwMTM2MDk3LC00OTYzNDE1NCwtMTg5MDY3NTkzNy
 wtNTczNjgyMjkxLDE3NDQzOTQ4OTMsMTA1NjA2NjA3MCwtMTk2
