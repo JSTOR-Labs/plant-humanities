@@ -79,13 +79,14 @@ Both Hernández and Dodoens participated in a transregional European network tha
 
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
 <param ve-entity eid="Q81506" title="Charles I of England">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and floreligia and emblems.[^ref14] The double-portrait, of painter and plant, manifests the artist's skill as a portraitist and boosted his celebrity. By showing himself wearing a gold chain from the king and standing opposite a blooming sunflower, Van Dyck also conveys his role as a member of the court and devoted servent of the king.
+<param ve-entity eid="
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and floreligia and emblems.[^ref14] The double-portrait, of painter and plant, manifests the artist's skill as a portraitist and boosted his celebrity. By showing himself wearing a gold chain gifted from the king and standing opposite a blooming sunflower, Van Dyck also conveys his role as a member of the court who is loyal to his patron. Sunflowers, like other flora, became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments.
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
-Sunflowers, like other flora, also became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments. _Helianthus annuus_ carried connotations of devotion, loyalty, and constancy because its heliotropic phase recalled the ancient Greek myth of Helios and Clytie.[^ref15]  The sea nymph Clytie competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wastes away while training her steadfast gaze upon his chariot as it traverses the sky. Her suffering ends with her metamorphosis into a heliotrope. Yet, as this print shows, many seventeenth-century European artists reinterpreted the myth by transforming Clytie’s attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16] 
+_Helianthus annuus_ carried connotations of devotion, loyalty, and constancy because its heliotropic phase recalled the ancient Greek myth of Helios and Clytie.[^ref15]  The sea nymph Clytie competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wastes away while training her steadfast gaze upon his chariot as it traverses the sky. Her suffering ends with her metamorphosis into a heliotrope. Yet, as this print shows, many seventeenth-century European artists reinterpreted the myth by transforming Clytie’s attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16] 
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
 _The Sunflower_, 1866-1870, photograph, National Gallery of Art">
@@ -200,11 +201,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTMwNDc4LC0xMTAyMTYyMjY4LC0xMD
-MwMzYxMTcyLDQ4NDMxNDU4MCwxNzM0NDkxODY5LDEwNTM2NjM1
-NDksLTE5NTAxMzYwOTcsLTQ5NjM0MTU0LC0xODkwNjc1OTM3LC
-01NzM2ODIyOTEsMTc0NDM5NDg5MywxMDU2MDY2MDcwLC0xOTYy
-Mzk5NjQzLC0xNDIzMDI1NDQ2LC0xNTI0MTU3MTM3LDM1MTk2Mj
-Q5MSwtNjcyMTI3MDkzLC0xMTY5OTgxNTEyLDEwMTQyNjk4MTEs
-LTE5MTIwMDYzMDZdfQ==
+eyJoaXN0b3J5IjpbMTE0NjM3NTc3MywtMTEwMjE2MjI2OCwtMT
+AzMDM2MTE3Miw0ODQzMTQ1ODAsMTczNDQ5MTg2OSwxMDUzNjYz
+NTQ5LC0xOTUwMTM2MDk3LC00OTYzNDE1NCwtMTg5MDY3NTkzNy
+wtNTczNjgyMjkxLDE3NDQzOTQ4OTMsMTA1NjA2NjA3MCwtMTk2
+MjM5OTY0MywtMTQyMzAyNTQ0NiwtMTUyNDE1NzEzNywzNTE5Nj
+I0OTEsLTY3MjEyNzA5MywtMTE2OTk4MTUxMiwxMDE0MjY5ODEx
+LC0xOTEyMDA2MzA2XX0=
 -->
