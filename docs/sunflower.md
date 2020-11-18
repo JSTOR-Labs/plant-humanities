@@ -62,7 +62,7 @@ The illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at rig
 <param ve-image fit="contain" url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0311.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 
 <param ve-entity eid="Q419" title="Peru">
-Dodoens used the pre-Linnaean name _Chrysanthemum Peruvianum_ for the domesticated sunflower to denote its native range. However, at the time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas. That muddy terminology was repeated in subsequent herbals, such as John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which contributed to a myth that sunflowers originated in Peru. “Peruvian” origins was propagated
+Dodoens used the pre-Linnaean name _Chrysanthemum Peruvianum_ for the domesticated sunflower to denote its native range. However, at the time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas. That muddy terminology was repeated in subsequent herbals, such as John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which contributed to a myth that sunflowers originated in Peru.
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q1333338" title="John Gerard"> 
 
@@ -196,7 +196,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODk5OTA0OSwxNzQ0Mzk0ODkzLDEwNT
+eyJoaXN0b3J5IjpbLTU3MzY4MjI5MSwxNzQ0Mzk0ODkzLDEwNT
 YwNjYwNzAsLTE5NjIzOTk2NDMsLTE0MjMwMjU0NDYsLTE1MjQx
 NTcxMzcsMzUxOTYyNDkxLC02NzIxMjcwOTMsLTExNjk5ODE1MT
 IsMTAxNDI2OTgxMSwtMTkxMjAwNjMwNiwxNjMyNjM2NzcsLTIw
