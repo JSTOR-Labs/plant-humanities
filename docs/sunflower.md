@@ -190,7 +190,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref13]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
 
-[^ref14]: John Peacock, _The Look of Van Dyck: The Self-Portrait with a Sunflower and the Vision of the painter_ (Ashgate, X), HathiTrust, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
+[^ref14]: John Peacock interprets the sunflower shown in the painting as an example of a _Flos Solis minor plant_ based upon the scale of the bloom relative to the artist. John Peacock, _The Look of Van Dyck: The Self-Portrait with a Sunflower and the Vision of the Painter_ (Ashgate, X), 116, HathiTrust, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
 
 [^ref15]: Jean-Michel Othoniel, “_Helianthus annuus_ Sunflower,” in _The Secret Language of Flowers: Notes on the Hidden Meanings of Flowers in Art_ (Boston, MA: Actes Sud/Isabella Stewart Gardner Museum, 2015), 66.
 
@@ -201,11 +201,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTEzMTIxOCwtMTEwMjE2MjI2OCwtMT
-AzMDM2MTE3Miw0ODQzMTQ1ODAsMTczNDQ5MTg2OSwxMDUzNjYz
-NTQ5LC0xOTUwMTM2MDk3LC00OTYzNDE1NCwtMTg5MDY3NTkzNy
-wtNTczNjgyMjkxLDE3NDQzOTQ4OTMsMTA1NjA2NjA3MCwtMTk2
-MjM5OTY0MywtMTQyMzAyNTQ0NiwtMTUyNDE1NzEzNywzNTE5Nj
-I0OTEsLTY3MjEyNzA5MywtMTE2OTk4MTUxMiwxMDE0MjY5ODEx
-LC0xOTEyMDA2MzA2XX0=
+eyJoaXN0b3J5IjpbNTQyOTMxMywtMTEwMjE2MjI2OCwtMTAzMD
+M2MTE3Miw0ODQzMTQ1ODAsMTczNDQ5MTg2OSwxMDUzNjYzNTQ5
+LC0xOTUwMTM2MDk3LC00OTYzNDE1NCwtMTg5MDY3NTkzNywtNT
+czNjgyMjkxLDE3NDQzOTQ4OTMsMTA1NjA2NjA3MCwtMTk2MjM5
+OTY0MywtMTQyMzAyNTQ0NiwtMTUyNDE1NzEzNywzNTE5NjI0OT
+EsLTY3MjEyNzA5MywtMTE2OTk4MTUxMiwxMDE0MjY5ODExLC0x
+OTEyMDA2MzA2XX0=
 -->
