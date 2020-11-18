@@ -86,7 +86,7 @@ By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
-As this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie by transforming her attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16] The nymph competed unsuccessfully for the heart of Helios. Scorned by him, Clytie wasted away while training her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope.
+As this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie by transforming her attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16] The nymph competed unsuccessfully for the heart of Helios. Scorned by him, Clytie wasted away while training her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope. Still, the myth continues to be enmeshed with the sunflower in visual representations as evidenced by Elizabeth Colomba’s 2007 [watercolor](https://artmuseum.princeton.edu/collections/objects/127332), which casts a black woman in mid-nineteenth-century attire as Clytie.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
@@ -198,11 +198,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTk2NzE4OCwtMTcyODM2OTMxNywtOD
-c4NTk4MTcsNzIzMzA2MjA3LDE3NTA3MTkyNDcsLTE4OTQxNDIx
-OTcsLTQ0MzU0MjU3MywtMTEwMjE2MjI2OCwtMTAzMDM2MTE3Mi
-w0ODQzMTQ1ODAsMTczNDQ5MTg2OSwxMDUzNjYzNTQ5LC0xOTUw
-MTM2MDk3LC00OTYzNDE1NCwtMTg5MDY3NTkzNywtNTczNjgyMj
-kxLDE3NDQzOTQ4OTMsMTA1NjA2NjA3MCwtMTk2MjM5OTY0Mywt
-MTQyMzAyNTQ0Nl19
+eyJoaXN0b3J5IjpbMTIxODE3NTg3MSwxMzc5OTY3MTg4LC0xNz
+I4MzY5MzE3LC04Nzg1OTgxNyw3MjMzMDYyMDcsMTc1MDcxOTI0
+NywtMTg5NDE0MjE5NywtNDQzNTQyNTczLC0xMTAyMTYyMjY4LC
+0xMDMwMzYxMTcyLDQ4NDMxNDU4MCwxNzM0NDkxODY5LDEwNTM2
+NjM1NDksLTE5NTAxMzYwOTcsLTQ5NjM0MTU0LC0xODkwNjc1OT
+M3LC01NzM2ODIyOTEsMTc0NDM5NDg5MywxMDU2MDY2MDcwLC0x
+OTYyMzk5NjQzXX0=
 -->
