@@ -79,7 +79,7 @@ Both Hernández and Dodoens participated in a transregional European network tha
 
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
 <param ve-entity eid="Q81506" title="Charles I of England">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models, such as illustrations in herbals and floreligia, from which to work.[^ref14] The double-portrait, of painter and plant, manifests the artist's skill as a portraitist for the king and a member of his cou.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models, such as illustrations in herbals and floreligia, from which to work.[^ref14] The double-portrait, of painter and plant, manifests the artist's skill as a portraitist for the king and a member of his court. By showing his likeness opposite a sunflower, and fingering a 
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
@@ -200,11 +200,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDA2MDkzMSwtMTEwMjE2MjI2OCwtMT
-AzMDM2MTE3Miw0ODQzMTQ1ODAsMTczNDQ5MTg2OSwxMDUzNjYz
-NTQ5LC0xOTUwMTM2MDk3LC00OTYzNDE1NCwtMTg5MDY3NTkzNy
-wtNTczNjgyMjkxLDE3NDQzOTQ4OTMsMTA1NjA2NjA3MCwtMTk2
-MjM5OTY0MywtMTQyMzAyNTQ0NiwtMTUyNDE1NzEzNywzNTE5Nj
-I0OTEsLTY3MjEyNzA5MywtMTE2OTk4MTUxMiwxMDE0MjY5ODEx
-LC0xOTEyMDA2MzA2XX0=
+eyJoaXN0b3J5IjpbLTExMDk5NTAwMTUsLTExMDIxNjIyNjgsLT
+EwMzAzNjExNzIsNDg0MzE0NTgwLDE3MzQ0OTE4NjksMTA1MzY2
+MzU0OSwtMTk1MDEzNjA5NywtNDk2MzQxNTQsLTE4OTA2NzU5Mz
+csLTU3MzY4MjI5MSwxNzQ0Mzk0ODkzLDEwNTYwNjYwNzAsLTE5
+NjIzOTk2NDMsLTE0MjMwMjU0NDYsLTE1MjQxNTcxMzcsMzUxOT
+YyNDkxLC02NzIxMjcwOTMsLTExNjk5ODE1MTIsMTAxNDI2OTgx
+MSwtMTkxMjAwNjMwNl19
 -->
