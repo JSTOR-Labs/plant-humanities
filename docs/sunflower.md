@@ -77,6 +77,9 @@ Both Hernández and Dodoens participated in a transregional European network tha
 
 ### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
 
+Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers.[^ref15]
+<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
+
 <param ve-entity eid="Q158082" title="heliotropum">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
@@ -84,9 +87,6 @@ Europeans were eager to collect exotic flora from the Americas because such plan
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
 _The Sunflower_, 1866-1870, photograph, National Gallery of Art">
-
-Anthony Van Dyck’s self-portrait with sunflower; address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers.[^ref15]
-<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
 It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena, publishing their exciting findings in 2016.[^ref16] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. 
@@ -196,11 +196,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxOTYyNDkxLC02NzIxMjcwOTMsLTExNj
-k5ODE1MTIsMTAxNDI2OTgxMSwtMTkxMjAwNjMwNiwxNjMyNjM2
-NzcsLTIwMzg1NTU4NCw4MjQyNDExMjYsMjkzODk5MDE0LC0zND
-M3MzMzMTYsMzcyODQ3NTU2LC0yMDk2NTM2MDA2LDMwOTMwMzQw
-MiwtMTMxODAxNTU0OCw1Njg1NTM3NjMsNDY3MDEyODM3LC0xNz
-c3NTg2NTMxLDkyODY4NDM1MCwxMTM5NzA4Mzg1LC0xNzgzNzE2
-NjUwXX0=
+eyJoaXN0b3J5IjpbLTE1MjQxNTcxMzcsMzUxOTYyNDkxLC02Nz
+IxMjcwOTMsLTExNjk5ODE1MTIsMTAxNDI2OTgxMSwtMTkxMjAw
+NjMwNiwxNjMyNjM2NzcsLTIwMzg1NTU4NCw4MjQyNDExMjYsMj
+kzODk5MDE0LC0zNDM3MzMzMTYsMzcyODQ3NTU2LC0yMDk2NTM2
+MDA2LDMwOTMwMzQwMiwtMTMxODAxNTU0OCw1Njg1NTM3NjMsND
+Y3MDEyODM3LC0xNzc3NTg2NTMxLDkyODY4NDM1MCwxMTM5NzA4
+Mzg1XX0=
 -->
