@@ -79,7 +79,7 @@ Both Hernández and Dodoens participated in a transregional European network tha
 
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
 <param ve-entity eid="Q81506" title="Charles I of England">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and floreligia and emblems.[^ref14] The double-portrait, of painter and plant, manifests the artist's skill as a portraitist and boosted his celebrity. His inclusion of a blooming sunflower and a gold chain from his patron, Van Dyck conveys his devotion to the king.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and floreligia and emblems.[^ref14] The double-portrait, of painter and plant, manifests the artist's skill as a portraitist and boosted his celebrity. By showing himself wearing a gold chain from the king and standing opposite a blooming sunflower, Van Dyck also conveys his role as a member of the court and devoted servent of the king.
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
@@ -200,7 +200,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5MTcyMjM5LC0xMTAyMTYyMjY4LC0xMD
+eyJoaXN0b3J5IjpbLTExNTMwNDc4LC0xMTAyMTYyMjY4LC0xMD
 MwMzYxMTcyLDQ4NDMxNDU4MCwxNzM0NDkxODY5LDEwNTM2NjM1
 NDksLTE5NTAxMzYwOTcsLTQ5NjM0MTU0LC0xODkwNjc1OTM3LC
 01NzM2ODIyOTEsMTc0NDM5NDg5MywxMDU2MDY2MDcwLC0xOTYy
