@@ -141,6 +141,8 @@ Still life paintings provide another rich source of evidence regarding plant div
 ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_charger_MET_sm.jpg){: .right}
 Aesthetic Movement (Britain); Gender; whiteness Walter Satterlee _[The Decorative Sisters](https://hdl.handle.net/2027/loc.ark:/13960/t84j1d31x)_
 <param ve-image primary fit="contain" url="https://images.nypl.org/index.php?id=488090&t=w" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
+<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
+_The Sunflower_, 1866-1870, photograph, National Gallery of Art">
 
 <param ve-entity eid="Q30875" title="Oscar Wilde">
 Popularized motif in decoration of designed objects for everyday use. These objects often used in the home, a feminine domain, become associated with gender. Sunflower is forced on Oscar Wilde.
@@ -197,7 +199,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODgyMTQ2MywtMTg5NDE0MjE5NywtND
+eyJoaXN0b3J5IjpbMTc1MDcxOTI0NywtMTg5NDE0MjE5NywtND
 QzNTQyNTczLC0xMTAyMTYyMjY4LC0xMDMwMzYxMTcyLDQ4NDMx
 NDU4MCwxNzM0NDkxODY5LDEwNTM2NjM1NDksLTE5NTAxMzYwOT
 csLTQ5NjM0MTU0LC0xODkwNjc1OTM3LC01NzM2ODIyOTEsMTc0
