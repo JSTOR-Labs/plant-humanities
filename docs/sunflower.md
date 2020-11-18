@@ -79,7 +79,7 @@ Both Hernández and Dodoens participated in a transregional European network tha
 
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
 <param ve-entity eid="Q81506" title="Charles I of England">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models, such as the illustrations in herbals and floreligia. elf-portrait with sunflower,  address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers.[^ref14]
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models, such as illustrations in herbals and floreligia, from which to work.[^ref14] address loyalty to patron and nationalism; discuss value placed on painting from nature; anthropomorphic quality of flowers.
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
@@ -200,7 +200,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODc1MjQyNywtMTAzMDM2MTE3Miw0OD
+eyJoaXN0b3J5IjpbLTU2OTMwNjU4NSwtMTAzMDM2MTE3Miw0OD
 QzMTQ1ODAsMTczNDQ5MTg2OSwxMDUzNjYzNTQ5LC0xOTUwMTM2
 MDk3LC00OTYzNDE1NCwtMTg5MDY3NTkzNywtNTczNjgyMjkxLD
 E3NDQzOTQ4OTMsMTA1NjA2NjA3MCwtMTk2MjM5OTY0MywtMTQy
