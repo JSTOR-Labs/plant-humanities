@@ -50,7 +50,7 @@ The Spanish first transported the domesticated sunflower across the Atlantic Oce
 <param ve-entity eid="Q437466" title="Rembert Dodoens">
 <param ve-entity eid="Q8717" title="Seville">
 <param ve-entity eid="Q162022" title="Mechelen">
-Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref10] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_— provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.
+Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref10] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_— provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref11]
 <param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
 ### “Peruvian” Origins and Mythic Encounters
@@ -89,7 +89,7 @@ Sunflowers, like other flora, also became associated with a mythical lexicon, kn
 _The Sunflower_, 1866-1870, photograph, National Gallery of Art">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
-It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref16] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. 
+It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref17] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. 
 <param ve-video title="_Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits_, Hagop S. Atamian, Nicky M. Creux, Evan A. Brown, Austin G. Garner, Benjamin K. Blackman, Stacey L. Harmer, DOI: 10.1126/science.aaf9793" vid="rjwd4DErj_M?t=18">
 
 These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Needless to say, the exciting findings generated a media buzz!
@@ -181,26 +181,28 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref10]: Botany in the Low Countries. 1993.
 
-[^ref11]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in CITATION.
+[^ref11]: For another illustration from that period see Pietro Andrea Mattioli, _I discori di M. Pietro Andrea Matthioli…_ (Venice: Vincenzo Valgris, 1568), Biodiversity Heritage Library, [https://www.biodiversitylibrary.org/page/51721054](https://www.biodiversitylibrary.org/page/51721054).
 
-[^ref12]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
+[^ref12]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in CITATION.
 
-[^ref13]: Jean-Michel Othoniel, “_Helianthus annuus_ Sunflower,” in _The Secret Language of Flowers: Notes on the Hidden Meanings of Flowers in Art_ (Boston, MA: Actes Sud/Isabella Stewart Gardner Museum, 2015), 66.
+[^ref13]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
 
-[^ref14]: Debra N. Mancoff, _Sunflowers_ (New York: Thames and Hudson, 2001), 21-27.
+[^ref14]: Jean-Michel Othoniel, “_Helianthus annuus_ Sunflower,” in _The Secret Language of Flowers: Notes on the Hidden Meanings of Flowers in Art_ (Boston, MA: Actes Sud/Isabella Stewart Gardner Museum, 2015), 66.
 
-[^ref15]: John Peacock, _The look of Van Dyck : the Self-portrait with a sunflower and the vision of the painter_ (Ashgate, X), HathiTrust, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
+[^ref15]: Debra N. Mancoff, _Sunflowers_ (New York: Thames and Hudson, 2001), 21-27.
 
-[^ref16]: Hagop S. Atamian et al., “Circadian Regulations of Sunflower Heliotropism, Floral Orientation, and Pollinator Visits,” _Science_ 353, no. 6299 (2016): 587-90. DOI: 10.1126/science.aaf9793
+[^ref16]: John Peacock, _The look of Van Dyck : the Self-portrait with a sunflower and the vision of the painter_ (Ashgate, X), HathiTrust, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
+
+[^ref17]: Hagop S. Atamian et al., “Circadian Regulations of Sunflower Heliotropism, Floral Orientation, and Pollinator Visits,” _Science_ 353, no. 6299 (2016): 587-90. DOI: 10.1126/science.aaf9793
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MzY2MzU0OSwtMTk1MDEzNjA5NywtND
-k2MzQxNTQsLTE4OTA2NzU5MzcsLTU3MzY4MjI5MSwxNzQ0Mzk0
-ODkzLDEwNTYwNjYwNzAsLTE5NjIzOTk2NDMsLTE0MjMwMjU0ND
-YsLTE1MjQxNTcxMzcsMzUxOTYyNDkxLC02NzIxMjcwOTMsLTEx
-Njk5ODE1MTIsMTAxNDI2OTgxMSwtMTkxMjAwNjMwNiwxNjMyNj
-M2NzcsLTIwMzg1NTU4NCw4MjQyNDExMjYsMjkzODk5MDE0LC0z
-NDM3MzMzMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MjEwNjIxNDYsMTA1MzY2MzU0OSwtMT
+k1MDEzNjA5NywtNDk2MzQxNTQsLTE4OTA2NzU5MzcsLTU3MzY4
+MjI5MSwxNzQ0Mzk0ODkzLDEwNTYwNjYwNzAsLTE5NjIzOTk2ND
+MsLTE0MjMwMjU0NDYsLTE1MjQxNTcxMzcsMzUxOTYyNDkxLC02
+NzIxMjcwOTMsLTExNjk5ODE1MTIsMTAxNDI2OTgxMSwtMTkxMj
+AwNjMwNiwxNjMyNjM2NzcsLTIwMzg1NTU4NCw4MjQyNDExMjYs
+MjkzODk5MDE0XX0=
 -->
