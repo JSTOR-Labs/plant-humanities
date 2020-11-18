@@ -79,8 +79,8 @@ Both Hernández and Dodoens participated in a transregional European network tha
 
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
 <param ve-entity eid="Q81506" title="Charles I of England">
-<param ve-entity eid="Q862550" title="language of flowers">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and emblems.[^ref14] By showing himself standing opposite a blooming sunflower and wearing a gold chain gifted from the king, Van Dyck also conveys his role as a member of the court who is loyal to his patron. Sunflowers, like other flora, became associated with a mythical lexicon, known as the language of flowers, that imbued specific plants with human sentiments.
+<param ve-entity eid="Q112110" title="emblem">
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, had numerous models from which to work such as illustrations in herbals and emblems.[^ref14] By showing himself standing opposite a blooming sunflower and wearing a gold chain gifted from the king, Van Dyck conveys his loyalty to his patron and role as a member of the court.
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
@@ -201,7 +201,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYwMTU5NzIsLTQ0MzU0MjU3MywtMT
+eyJoaXN0b3J5IjpbLTE4OTQxNDIxOTcsLTQ0MzU0MjU3MywtMT
 EwMjE2MjI2OCwtMTAzMDM2MTE3Miw0ODQzMTQ1ODAsMTczNDQ5
 MTg2OSwxMDUzNjYzNTQ5LC0xOTUwMTM2MDk3LC00OTYzNDE1NC
 wtMTg5MDY3NTkzNywtNTczNjgyMjkxLDE3NDQzOTQ4OTMsMTA1
