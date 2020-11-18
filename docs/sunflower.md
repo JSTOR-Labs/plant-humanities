@@ -86,7 +86,7 @@ By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
-Many seventeenth-century European artists reinterpreted the myth of Helios and Clytie by transforming her attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16]The sea nymph Clytie competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wasted away while training her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope. Yet, as this print shows
+As this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie by transforming her attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref16] The sea nymph Clytie competed unsuccessfully for the heart of the sun-god Helios. Scorned by him, Clytie wasted away while training her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
@@ -198,7 +198,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwNjExMjYyLC04Nzg1OTgxNyw3MjMzMD
+eyJoaXN0b3J5IjpbNzQwOTMwNzY4LC04Nzg1OTgxNyw3MjMzMD
 YyMDcsMTc1MDcxOTI0NywtMTg5NDE0MjE5NywtNDQzNTQyNTcz
 LC0xMTAyMTYyMjY4LC0xMDMwMzYxMTcyLDQ4NDMxNDU4MCwxNz
 M0NDkxODY5LDEwNTM2NjM1NDksLTE5NTAxMzYwOTcsLTQ5NjM0
