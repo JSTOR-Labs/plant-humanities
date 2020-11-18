@@ -89,7 +89,7 @@ Europeans were eager to collect exotic flora from the Americas because such plan
 _The Sunflower_, 1866-1870, photograph, National Gallery of Art">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
-It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena, publishing their exciting findings in 2016.[^ref16] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. 
+It is widely believed that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref16] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. 
 <param ve-video title="_Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits_, Hagop S. Atamian, Nicky M. Creux, Evan A. Brown, Austin G. Garner, Benjamin K. Blackman, Stacey L. Harmer, DOI: 10.1126/science.aaf9793" vid="rjwd4DErj_M?t=18">
 
 These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Needles to say, these exciting findings generated a media buzz!
@@ -196,11 +196,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA2NzU5MzcsLTU3MzY4MjI5MSwxNz
-Q0Mzk0ODkzLDEwNTYwNjYwNzAsLTE5NjIzOTk2NDMsLTE0MjMw
-MjU0NDYsLTE1MjQxNTcxMzcsMzUxOTYyNDkxLC02NzIxMjcwOT
-MsLTExNjk5ODE1MTIsMTAxNDI2OTgxMSwtMTkxMjAwNjMwNiwx
-NjMyNjM2NzcsLTIwMzg1NTU4NCw4MjQyNDExMjYsMjkzODk5MD
-E0LC0zNDM3MzMzMTYsMzcyODQ3NTU2LC0yMDk2NTM2MDA2LDMw
-OTMwMzQwMl19
+eyJoaXN0b3J5IjpbMTE2MTM4NTk4MSwtMTg5MDY3NTkzNywtNT
+czNjgyMjkxLDE3NDQzOTQ4OTMsMTA1NjA2NjA3MCwtMTk2MjM5
+OTY0MywtMTQyMzAyNTQ0NiwtMTUyNDE1NzEzNywzNTE5NjI0OT
+EsLTY3MjEyNzA5MywtMTE2OTk4MTUxMiwxMDE0MjY5ODExLC0x
+OTEyMDA2MzA2LDE2MzI2MzY3NywtMjAzODU1NTg0LDgyNDI0MT
+EyNiwyOTM4OTkwMTQsLTM0MzczMzMxNiwzNzI4NDc1NTYsLTIw
+OTY1MzYwMDZdfQ==
 -->
