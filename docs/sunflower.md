@@ -128,6 +128,12 @@ Our casual familiarity with the sunflower, both real and represented, may lead u
 
 ### Sun-Shaped though Not Necessarily Golden
 
+<param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
+<param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
+Still life paintings provide another rich source of evidence regarding plant diversity, conveying information that cannot be preserved on herbarium sheets. Claude Monet's _Jerusalem artichoke_ presents an impression of _Helianthus tuberosus_ in which he studies how the eye perceives its color and form, whereas Vincent van Gogh's _Sunflowers_ engages with the tactile and emotive aspects of _Helianthus annuus_ by juxtaposing typical blossoms and double-flower mutants. The pictures not only show us different species, but also model for us a kind of aesthetic and phenomenological attentiveness to the plant world to which we ought to aspire.
+<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflowers%20Monet%20van%20Gogh%20CC.jpg" title="Claude Monet _Jerusalem artichoke_ 1880 (left), Vincent van Gogh, _Sunflower_, 1888, National Gallery London">
+<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflowers%20compared%20to%20van%20Gogh%20painting.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
+
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
@@ -143,11 +149,6 @@ We may also be surprised to discover the diversity within the genus _Helianthus_
 Sunflower seeds also exhibit similar varience. Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets.
 <param ve-image fit="contain" primary url="https://s3.amazonaws.com/PEM_artscape/e301826_painting_image/large.jpg" title="Bruce Hathale (Diné (Navajo)), _Big Gods on Whirling Logs, Big Godway. Guardian of Two Sunflower Plants_, early 1990s, acrylic on linen, Gift from James and Margie Krebs Collection of Native American Art, Peabody Essex Museum">
 
-<param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
-<param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
-Still life paintings provide another rich source of evidence regarding plant diversity, conveying information that cannot be preserved on herbarium sheets. Claude Monet's _Jerusalem artichoke_ presents an impression of _Helianthus tuberosus_ in which he studies how the eye perceives its color and form, whereas Vincent van Gogh's _Sunflowers_ engages with the tactile and emotive aspects of _Helianthus annuus_ by juxtaposing typical blossoms and double-flower mutants. The pictures not only show us different species, but also model for us a kind of aesthetic and phenomenological attentiveness to the plant world to which we ought to aspire.
-<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflowers%20Monet%20van%20Gogh%20CC.jpg" title="Claude Monet _Jerusalem artichoke_ 1880 (left), Vincent van Gogh, _Sunflower_, 1888, National Gallery London">
-<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflowers%20compared%20to%20van%20Gogh%20painting.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
 ### Floral Cyphers: Portrayals of Gender, Sexual Identity, Race, and Class
 
@@ -218,11 +219,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDYzMzg4NywtMTU4MDAzNDc2MiwxMj
-kyNDExNDYyLDMwNTc5NjAzNywtNzk0NDcyMjMsNzA1MTY1MjIz
-LDQxNDc4MDM3OCwtNTIxMzU3NTU3LDI2Njg0NDM5NSwtODAwMD
-M2NDg4LDMyMzQ1MTcyNywtMTQ3ODAxNTk0LDE4NzE4ODQ4ODks
-LTE5Mjg1ODk4MDAsLTE5ODg2MzAxOTYsLTg3NzYyMDc4MiwtMT
-M1OTAwNDA1MSw3NjE3MTk1ODksODQyODI0NzAxLC0xNjY0MTIw
-ODA4XX0=
+eyJoaXN0b3J5IjpbMTc2NDEzMzQ3MSwxMDkwNjMzODg3LC0xNT
+gwMDM0NzYyLDEyOTI0MTE0NjIsMzA1Nzk2MDM3LC03OTQ0NzIy
+Myw3MDUxNjUyMjMsNDE0NzgwMzc4LC01MjEzNTc1NTcsMjY2OD
+Q0Mzk1LC04MDAwMzY0ODgsMzIzNDUxNzI3LC0xNDc4MDE1OTQs
+MTg3MTg4NDg4OSwtMTkyODU4OTgwMCwtMTk4ODYzMDE5NiwtOD
+c3NjIwNzgyLC0xMzU5MDA0MDUxLDc2MTcxOTU4OSw4NDI4MjQ3
+MDFdfQ==
 -->
