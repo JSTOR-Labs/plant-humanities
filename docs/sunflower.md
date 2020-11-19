@@ -11,10 +11,10 @@
 _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans domesticated in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and nearly twice that size when supported.[^ref2]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
-Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the art world. Like the supersized flower in this plant portrait, _H. annuus_ looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than actual sunflowers. Because _H. annuus_ is the species most often represented, as a single golden bloom on an unbranched stem, it is all too easy for us to essentialize sunflowers by assuming they all share the traits shown in that imagery. In doing so, we fail to appreciate the intrinsic value of _H. annuus_ and to recognize the diversity within the genus sunflower.
+Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the art world. Like the supersized flower in this plant portrait, _H. annuus_ looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. How can we draw on those visual depictions to reconnect with individual plants? By closely examining portrayals of sunflowers, we can cultivate a new attentiveness to the visual arts that also serves to sharpen our capacity to perceive the unique traits of individual species and the diversity within the plant world more broadly.
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
-In response, this essay clarifies how sunflower imagery can provide rich historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to plants. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. Although such artists developed conventions for representing sunflowers that were tailored to those aims, they consistently engaged with cultural beliefs about the flower’s formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic. These trends in [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) have contributed to the formation of visual stereotypes for the sunflower that we can interpret to deepen understandings of individual plants and artistic engagements with them.
+Sunflower imagery can provide rich historical information about the genus and the roles of visual culture in communicating knowledges, myths, and meanings related to plants. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. In doing so, they developed conventions for representing specific characteristics of sunflowers that were tailored to realizing those aims. By tracking changes in that [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) over time, we can learn about the historical significance of sunflowers in specific temporal and geographic contexts, as well as shifts in the ways that humans have represented, encountered, used, thought about, and valued, or failed to value, plants.
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 ### Naming and Representing the Iconic Flower
@@ -198,11 +198,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4ODgyMTg2LC0xNjgzMjYzODg3LDc3OT
-Y2ODE1NywxMzc5OTY3MTg4LC0xNzI4MzY5MzE3LC04Nzg1OTgx
-Nyw3MjMzMDYyMDcsMTc1MDcxOTI0NywtMTg5NDE0MjE5NywtND
-QzNTQyNTczLC0xMTAyMTYyMjY4LC0xMDMwMzYxMTcyLDQ4NDMx
-NDU4MCwxNzM0NDkxODY5LDEwNTM2NjM1NDksLTE5NTAxMzYwOT
-csLTQ5NjM0MTU0LC0xODkwNjc1OTM3LC01NzM2ODIyOTEsMTc0
-NDM5NDg5M119
+eyJoaXN0b3J5IjpbLTE2NTMwMjc2MDYsLTE2ODMyNjM4ODcsNz
+c5NjY4MTU3LDEzNzk5NjcxODgsLTE3MjgzNjkzMTcsLTg3ODU5
+ODE3LDcyMzMwNjIwNywxNzUwNzE5MjQ3LC0xODk0MTQyMTk3LC
+00NDM1NDI1NzMsLTExMDIxNjIyNjgsLTEwMzAzNjExNzIsNDg0
+MzE0NTgwLDE3MzQ0OTE4NjksMTA1MzY2MzU0OSwtMTk1MDEzNj
+A5NywtNDk2MzQxNTQsLTE4OTA2NzU5MzcsLTU3MzY4MjI5MSwx
+NzQ0Mzk0ODkzXX0=
 -->
