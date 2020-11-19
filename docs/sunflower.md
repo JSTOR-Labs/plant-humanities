@@ -109,15 +109,16 @@ Visual representations of sunflowers have shaped and been shaped by cultural ass
 
 ### Out of One, Many
 
+In the late eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography to communicate scientific information about plants and their reproductive systems.
+
+
 <param ve-entity eid="Q14847254" title="Compositae"> 
 <param ve-entity eid="Q30765614" title="floret"> 
-Our familiarity with the sunflower, both real and represented, may lead us to overlook the fact that its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets. This diagram of a mature flower head shows that its disk consists of florets and that what we generally call “petals” are actually ray florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own seed after pollination. Although these traits may come as a surprise to us, botanical illustrators developed an iconography to communicate information about them in the late eighteenth and early nineteenth centuries.
+Our familiarity with the sunflower, both real and represented, may lead us to overlook the fact that its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets. This diagram of a mature flower head shows that its disk consists of florets and that what we generally call “petals” are actually ray florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own seed after pollination.
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Helianthus whirl, attributed to L. Shyamal © Creative Commons Attribution-Share Alike 2.5">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg">
 
-This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies a sophisticated understanding of the plant. Henderson shows a partial view of two mature plants—facing opposite directions—to communicate valuable information about their dorsal and ventral anatomical structures, while taking some aesthetic liberties to imbue the flower heads with a sense of movement and vitality. <span data-click-image-zoomto="982,2706,2213,1795">At the center of the left flower,</span> a series of green scallop- and flame-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets. These details remind us that the study of art and flora are endeavors rooted in the practices of direct observation and visual analysis.
-<param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
 <param ve-entity eid="Q5928444" title="Robert John Thornton">
 <param ve-entity eid="Q103129" title="stamen" aliases="stamen(s)"> 
@@ -218,11 +219,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODAwMzQ3NjIsMTI5MjQxMTQ2MiwzMD
-U3OTYwMzcsLTc5NDQ3MjIzLDcwNTE2NTIyMyw0MTQ3ODAzNzgs
-LTUyMTM1NzU1NywyNjY4NDQzOTUsLTgwMDAzNjQ4OCwzMjM0NT
-E3MjcsLTE0NzgwMTU5NCwxODcxODg0ODg5LC0xOTI4NTg5ODAw
-LC0xOTg4NjMwMTk2LC04Nzc2MjA3ODIsLTEzNTkwMDQwNTEsNz
-YxNzE5NTg5LDg0MjgyNDcwMSwtMTY2NDEyMDgwOCwtMjU4Nzg0
-MDMzXX0=
+eyJoaXN0b3J5IjpbLTE4MDc3NzY3MCwtMTU4MDAzNDc2MiwxMj
+kyNDExNDYyLDMwNTc5NjAzNywtNzk0NDcyMjMsNzA1MTY1MjIz
+LDQxNDc4MDM3OCwtNTIxMzU3NTU3LDI2Njg0NDM5NSwtODAwMD
+M2NDg4LDMyMzQ1MTcyNywtMTQ3ODAxNTk0LDE4NzE4ODQ4ODks
+LTE5Mjg1ODk4MDAsLTE5ODg2MzAxOTYsLTg3NzYyMDc4MiwtMT
+M1OTAwNDA1MSw3NjE3MTk1ODksODQyODI0NzAxLC0xNjY0MTIw
+ODA4XX0=
 -->
