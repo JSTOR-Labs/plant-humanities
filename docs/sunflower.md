@@ -75,7 +75,7 @@ The illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at rig
 <param ve-entity eid="Q419" title="Peru">
 <param ve-entity eid="Q59882" title="Chrysanthemum">
 <param ve-entity eid="Q1860320" title="Matthias de l'Obel">
-Dodoens used the pre-Linnaean name _Chrysanthemum Peruvianum_ for the domesticated sunflower in order to denote that the chrysanthemum-like flower was native to Peru. However, at the time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas.[^ref16] That muddy terminology was repeated in subsequent herbals, such as John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which reproduces the woodcut from Dodoens’s _Florum, et coronariarum_.  For that reason, misconeptions about the sunflower’s “Peruvian” origins persist . Conversely, in [Plantarum, seu, Stirpium historia](https://www.biodiversitylibrary.org/page/9871376)_ (1576), Matthias de l'Obel first used the terms “Solis Flos” and “Solis Flos minor” to describe _Helianthus annuus_ and a perennial sunflower. Those names for the “flower of the sun” and smaller sunflower would be appropriated by Besler, among others.
+Dodoens used the pre-Linnaean name _Chrysanthemum Peruvianum_ for the domesticated sunflower in order to denote that the chrysanthemum-like flower was native to Peru. However, at the time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas.[^ref16] That muddy terminology was repeated in subsequent herbals, such as John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578), which reproduces the woodcut from Dodoens’s _Florum, et coronariarum_.  For that reason, misconeptions about the sunflower’s “Peruvian” origins persist even today. Conversely, in [Plantarum, seu, Stirpium historia](https://www.biodiversitylibrary.org/page/9871376)_ (1576), Matthias de l'Obel first used the terms “Solis Flos” and “Solis Flos minor” to describe _Helianthus annuus_ and a perennial sunflower. Those names for the “flower of the sun” and smaller sunflower would be appropriated by Besler, among others.
 <param ve-image fit="contain" primary url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0310.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q1333338" title="John Gerard"> 
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDQ2NzQ2MywtNTIxMzU3NTU3LDI2Nj
-g0NDM5NSwtODAwMDM2NDg4LDMyMzQ1MTcyNywtMTQ3ODAxNTk0
-LDE4NzE4ODQ4ODksLTE5Mjg1ODk4MDAsLTE5ODg2MzAxOTYsLT
-g3NzYyMDc4MiwtMTM1OTAwNDA1MSw3NjE3MTk1ODksODQyODI0
-NzAxLC0xNjY0MTIwODA4LC0yNTg3ODQwMzMsNjAwMDkyNjMwLC
-01NzAxNDA1NiwtMTI2OTQ3NzU1LC0xNjYwMTI2MTgsLTgwOTc4
-MTk2XX0=
+eyJoaXN0b3J5IjpbNDUyNDYxMTY0LC01MjEzNTc1NTcsMjY2OD
+Q0Mzk1LC04MDAwMzY0ODgsMzIzNDUxNzI3LC0xNDc4MDE1OTQs
+MTg3MTg4NDg4OSwtMTkyODU4OTgwMCwtMTk4ODYzMDE5NiwtOD
+c3NjIwNzgyLC0xMzU5MDA0MDUxLDc2MTcxOTU4OSw4NDI4MjQ3
+MDEsLTE2NjQxMjA4MDgsLTI1ODc4NDAzMyw2MDAwOTI2MzAsLT
+U3MDE0MDU2LC0xMjY5NDc3NTUsLTE2NjAxMjYxOCwtODA5Nzgx
+OTZdfQ==
 -->
