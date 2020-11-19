@@ -183,7 +183,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref9]: For a concise summary of the debate see Schiffer, “Origin of the Domesticated Sunflower,” 241-46.
 
-[^ref10]: David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; 
+[^ref10]: David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” 57-74.
 
 [^ref11]: Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
 
@@ -208,7 +208,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzU1ODU5OCw4NDI4MjQ3MDEsLTE2Nj
+eyJoaXN0b3J5IjpbMTc2MTgzNTA5Niw4NDI4MjQ3MDEsLTE2Nj
 QxMjA4MDgsLTI1ODc4NDAzMyw2MDAwOTI2MzAsLTU3MDE0MDU2
 LC0xMjY5NDc3NTUsLTE2NjAxMjYxOCwtODA5NzgxOTYsLTk5MT
 g3OTExOSwtMTY1MzAyNzYwNiwtMTY4MzI2Mzg4Nyw3Nzk2Njgx
