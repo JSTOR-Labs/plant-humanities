@@ -43,11 +43,12 @@ So, how did the _Helianthus annuus_ specimen represented in _Flos Solis maior_ c
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
-<param ve-entity eid="Q495448" title="Marshall County">
-<param ve-entity eid="Q491017" title="Pike County">
-<param ve-entity eid="Q110510" title="Crawford County">
-<param ve-entity eid="Q61379" title="Searcy">
-<param ve-entity eid="Q61379" title="Searcy">
+<param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
+<param ve-entity eid="Q491017" title="Pike County" aliases="eastern North America">
+<param ve-entity eid="Q110510" title="Crawford County" aliases="eastern North America">
+<param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
+<param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
+<param ve-entity eid="Q490360" title="Hickory Country" aliases="eastern North America">
 There is some debate among scientists about when humans used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether they were cultivated independently there.[^ref9] A charred seed, which is no longer extant, was recovered at San Andrés archaeological site, in Tabasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that it may have come from a bottle gourd.[^ref10] Expanding on that archeological research, genomic studies of modern domesticated and wild sunflowers have linked them to a common ancestor, which was cultivated at an independent domestication center, along with pepo squash, marshelder, and chenopod, in eastern North America.[^ref11] For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by Spanish explorers.[^ref12]
 <param ve-map prefer-geojson center="Q80914" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
 
@@ -213,11 +214,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2MDM0MjE4LC0xOTg4NjMwMTk2LC04Nz
-c2MjA3ODIsLTEzNTkwMDQwNTEsNzYxNzE5NTg5LDg0MjgyNDcw
-MSwtMTY2NDEyMDgwOCwtMjU4Nzg0MDMzLDYwMDA5MjYzMCwtNT
-cwMTQwNTYsLTEyNjk0Nzc1NSwtMTY2MDEyNjE4LC04MDk3ODE5
-NiwtOTkxODc5MTE5LC0xNjUzMDI3NjA2LC0xNjgzMjYzODg3LD
-c3OTY2ODE1NywxMzc5OTY3MTg4LC0xNzI4MzY5MzE3LC04Nzg1
-OTgxN119
+eyJoaXN0b3J5IjpbLTE5Mjg1ODk4MDAsLTE5ODg2MzAxOTYsLT
+g3NzYyMDc4MiwtMTM1OTAwNDA1MSw3NjE3MTk1ODksODQyODI0
+NzAxLC0xNjY0MTIwODA4LC0yNTg3ODQwMzMsNjAwMDkyNjMwLC
+01NzAxNDA1NiwtMTI2OTQ3NzU1LC0xNjYwMTI2MTgsLTgwOTc4
+MTk2LC05OTE4NzkxMTksLTE2NTMwMjc2MDYsLTE2ODMyNjM4OD
+csNzc5NjY4MTU3LDEzNzk5NjcxODgsLTE3MjgzNjkzMTcsLTg3
+ODU5ODE3XX0=
 -->
