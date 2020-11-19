@@ -60,7 +60,7 @@ The Spanish first transported the domesticated sunflower across the Atlantic Oce
 <param ve-entity eid="Q437466" title="Rembert Dodoens" aliases="Dodoens’s">
 <param ve-entity eid="Q8717" title="Seville">
 <param ve-entity eid="Q162022" title="Mechelen">
-Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref10] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref13]
+Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14]
 <param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
 ### “Peruvian” Origins and Mythic Encounters
@@ -195,11 +195,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref12]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449; Bruce D. Smith, "Eastern North America as an Independent Center of Plant Domestication," _Proceedings of the National Academy of Science of the Unites States of America_ 103, no. 33 (August 15, 2006): 12223-28.
 
-[^ref13]: For a contemporary illustration see Pietro Andrea Mattioli, _I discori di M. Pietro Andrea Matthioli…_ (Venice: Vincenzo Valgris, 1568), Biodiversity Heritage Library, [https://www.biodiversitylibrary.org/page/51721054](https://www.biodiversitylibrary.org/page/51721054).
+[^ref13]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in _An Illustrated History of the Herbals .
+
+[^ref14]: For a contemporary illustration see Pietro Andrea Mattioli, _I discori di M. Pietro Andrea Matthioli…_ (Venice: Vincenzo Valgris, 1568), Biodiversity Heritage Library, [https://www.biodiversitylibrary.org/page/51721054](https://www.biodiversitylibrary.org/page/51721054).
 
 [^ref10]: Botany in the Low Countries. 1993.
-
-[^ref12]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in CITATION.
 
 [^ref13]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
 
@@ -214,11 +214,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTg4NDg4OSwtMTkyODU4OTgwMCwtMT
-k4ODYzMDE5NiwtODc3NjIwNzgyLC0xMzU5MDA0MDUxLDc2MTcx
-OTU4OSw4NDI4MjQ3MDEsLTE2NjQxMjA4MDgsLTI1ODc4NDAzMy
-w2MDAwOTI2MzAsLTU3MDE0MDU2LC0xMjY5NDc3NTUsLTE2NjAx
-MjYxOCwtODA5NzgxOTYsLTk5MTg3OTExOSwtMTY1MzAyNzYwNi
-wtMTY4MzI2Mzg4Nyw3Nzk2NjgxNTcsMTM3OTk2NzE4OCwtMTcy
-ODM2OTMxN119
+eyJoaXN0b3J5IjpbMTc4MDYzMTU1OCwxODcxODg0ODg5LC0xOT
+I4NTg5ODAwLC0xOTg4NjMwMTk2LC04Nzc2MjA3ODIsLTEzNTkw
+MDQwNTEsNzYxNzE5NTg5LDg0MjgyNDcwMSwtMTY2NDEyMDgwOC
+wtMjU4Nzg0MDMzLDYwMDA5MjYzMCwtNTcwMTQwNTYsLTEyNjk0
+Nzc1NSwtMTY2MDEyNjE4LC04MDk3ODE5NiwtOTkxODc5MTE5LC
+0xNjUzMDI3NjA2LC0xNjgzMjYzODg3LDc3OTY2ODE1NywxMzc5
+OTY3MTg4XX0=
 -->
