@@ -72,7 +72,7 @@ The illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at rig
 <param ve-image fit="contain" url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0311.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 <param ve-image fit="contain" url=https://ia801904.us.archive.org/BookReader/BookReaderImages.php?id=gri_33125014246561&itemPath=%2F3%2Fitems%2Fgri_33125014246561&server=ia801904.us.archive.org&page=n29_w907" title="Pietro Andrea Matthioli, _I discorsi di M. Pietro Andrea Matthioli..._, Venice: Vincenzo ValgrisI, 1568, Getty Research Institute">
 
-In the late 1500s, it was common for authors to repurpose illustrations and text from existing sources, adapting that material to suit new contexts. That is true for the sunflower imagery in Dodoens's _Florum, et coronariarum_. For example, John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578) reproduces the illustration along with the pre-Linnaean name _Chrysanthemum Peruvianum_, which conveyed that the chrysanthemum-like flower was native to Peru. However, at the time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas.[^ref16] That muddy terminology has contributed to a peristant myth of the cultivated sunflower's "Peruvian" origins. In another instance of borrowing, Matthias de l'Obel reused the same image for his herbal [Plantarum, seu, Stirpium historia](https://www.biodiversitylibrary.org/page/9871376)_ (1576),  though he renamed the plant “Solis Flos.” In both cases, the size of the images are reduced and occupy a 
+In the late 1500s, it was common for authors to repurpose illustrations and text from existing sources, adapting that material to suit new contexts. That is true for the sunflower imagery in Dodoens's _Florum, et coronariarum_. For example, John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578) reproduces the illustration along with the pre-Linnaean name _Chrysanthemum Peruvianum_, which conveyed that the chrysanthemum-like flower was native to Peru. However, at the time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas.[^ref16] That muddy terminology has contributed to a peristant myth of the cultivated sunflower's "Peruvian" origins. In another instance of borrowing, Matthias de l'Obel reused the same image for his herbal [Plantarum, seu, Stirpium historia](https://www.biodiversitylibrary.org/page/9871376)_ (1576),  though he renamed the plant “Solis Flos.” In both cases, the size of the images are reduced and are given equal or lesser prominence than text. 
 <param ve-image fit="contain" primary url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-image fit="contain" url="https://ia800501.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488167&itemPath=%2F12%2Fitems%2Fmobot31753003488167&server=ia800501.us.archive.org&page=n328_w966" title="Matthias de l'Obel, _Plantarum, seu, Stirpium historia_, Antwerp: Christophori Plantini, 1576, Missouri Botanical Gardeny">
 <param ve-entity eid="Q419" title="Peru">
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjQ0NTc1OSw3MDUxNjUyMjMsNDE0Nz
-gwMzc4LC01MjEzNTc1NTcsMjY2ODQ0Mzk1LC04MDAwMzY0ODgs
-MzIzNDUxNzI3LC0xNDc4MDE1OTQsMTg3MTg4NDg4OSwtMTkyOD
-U4OTgwMCwtMTk4ODYzMDE5NiwtODc3NjIwNzgyLC0xMzU5MDA0
-MDUxLDc2MTcxOTU4OSw4NDI4MjQ3MDEsLTE2NjQxMjA4MDgsLT
-I1ODc4NDAzMyw2MDAwOTI2MzAsLTU3MDE0MDU2LC0xMjY5NDc3
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTQwNzMzNDcsNzA1MTY1MjIzLDQxNDc4MD
+M3OCwtNTIxMzU3NTU3LDI2Njg0NDM5NSwtODAwMDM2NDg4LDMy
+MzQ1MTcyNywtMTQ3ODAxNTk0LDE4NzE4ODQ4ODksLTE5Mjg1OD
+k4MDAsLTE5ODg2MzAxOTYsLTg3NzYyMDc4MiwtMTM1OTAwNDA1
+MSw3NjE3MTk1ODksODQyODI0NzAxLC0xNjY0MTIwODA4LC0yNT
+g3ODQwMzMsNjAwMDkyNjMwLC01NzAxNDA1NiwtMTI2OTQ3NzU1
+XX0=
 -->
