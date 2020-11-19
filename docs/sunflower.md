@@ -78,7 +78,6 @@ The illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at rig
 <param ve-entity eid="Q1860320" title="Matthias de l'Obel">
 <parma ve-entity eid="Q1333338" title="John Gerard" aliases="John Gerard's">
 In the late 1500s, it was common for authors to repurpose illustrations and text from existing sources, adapting that material to suit new contexts. That is true for the sunflower imagery in Dodoens's _Florum, et coronariarum_. For example, John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578) reproduces the illustration along with the pre-Linnaean name _Chrysanthemum Peruvianum_, which conveyed that the chrysanthemum-like flower was native to Peru. However, at the time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas.[^ref16] That muddy terminology has contributed to a peristant myth of the cultivated sunflower's "Peruvian" origins. In another instance of borrowing, Matthias de l'Obel reused the same image for his herbal [Plantarum, seu, Stirpium historia](https://www.biodiversitylibrary.org/page/9871376)_ (1576),  though he renamed the plant “Solis Flos.” 
-<param ve-image fit="contain" primary url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0310.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q1333338" title="John Gerard"> 
 
@@ -221,7 +220,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODUzNDEwOSw0MTQ3ODAzNzgsLTUyMT
+eyJoaXN0b3J5IjpbMTYzMDQ0NjQwNSw0MTQ3ODAzNzgsLTUyMT
 M1NzU1NywyNjY4NDQzOTUsLTgwMDAzNjQ4OCwzMjM0NTE3Mjcs
 LTE0NzgwMTU5NCwxODcxODg0ODg5LC0xOTI4NTg5ODAwLC0xOT
 g4NjMwMTk2LC04Nzc2MjA3ODIsLTEzNTkwMDQwNTEsNzYxNzE5
