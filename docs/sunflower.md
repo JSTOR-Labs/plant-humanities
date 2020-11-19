@@ -96,11 +96,11 @@ Both Hernández and Dodoens participated in a transregional network of Europeans
 <param ve-entity eid="Q112110" title="emblem">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe, one of the foremost being Bessler's _Hortus Eystettensis_. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as illustrations in herbals and emblems.[^ref18] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly half of the composition to describing the pert head of a blooming sunflower so that whoever encountered the work would be well aware of his loyalty to his patron. Europeans associated sunflowers with the human sentimentas of loyalty, devotion, and constancy because heliotropic phase recalled the ancient Greek myth of the sun-god Helios and the sea nymph Clytie.[^ref15]
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe, one of the foremost being Bessler's _Hortus Eystettensis_. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as illustrations in herbals and emblems.[^ref18] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly half of the composition to describing the pert head of a blooming sunflower so that whoever encountered the work would be well aware of his loyalty to his patron. Europeans associated sunflowers with the human sentimentas of loyalty, devotion, and constancy because the plant's heliotropic phase recalled the ancient Greek myth of the sun-god Helios and the sea nymph Clytie.[^ref18]
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
-As this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie by transforming her attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref19] The nymph competed unsuccessfully for the heart of Helios. Scorned by him, Clytie wasted away while training her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope. Still, the myth continues to be enmeshed with the sunflower as evidenced by Elizabeth Colomba’s 2007 [watercolor](https://artmuseum.princeton.edu/collections/objects/127332), which, by casting a black woman as Clytie, claims a space for the black body within visual codes for representing mythological narratives that have been synonymous with whiteness.
+According to the myth, he nymph competed unsuccessfully for the heart of Helios. Scorned by him, Clytie wasted away while training her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope. As this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie by transforming her attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref19] Still, the myth continues to be enmeshed with the sunflower as evidenced by Elizabeth Colomba’s 2007 [watercolor](https://artmuseum.princeton.edu/collections/objects/127332), which, by casting a black woman as Clytie, claims a space for the black body within visual codes for representing mythological narratives that have been synonymous with whiteness.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjI2MzE4NjksMzA1Nzk2MDM3LC03OT
-Q0NzIyMyw3MDUxNjUyMjMsNDE0NzgwMzc4LC01MjEzNTc1NTcs
-MjY2ODQ0Mzk1LC04MDAwMzY0ODgsMzIzNDUxNzI3LC0xNDc4MD
-E1OTQsMTg3MTg4NDg4OSwtMTkyODU4OTgwMCwtMTk4ODYzMDE5
-NiwtODc3NjIwNzgyLC0xMzU5MDA0MDUxLDc2MTcxOTU4OSw4ND
-I4MjQ3MDEsLTE2NjQxMjA4MDgsLTI1ODc4NDAzMyw2MDAwOTI2
-MzBdfQ==
+eyJoaXN0b3J5IjpbOTA1NDQ3NjcyLDMwNTc5NjAzNywtNzk0ND
+cyMjMsNzA1MTY1MjIzLDQxNDc4MDM3OCwtNTIxMzU3NTU3LDI2
+Njg0NDM5NSwtODAwMDM2NDg4LDMyMzQ1MTcyNywtMTQ3ODAxNT
+k0LDE4NzE4ODQ4ODksLTE5Mjg1ODk4MDAsLTE5ODg2MzAxOTYs
+LTg3NzYyMDc4MiwtMTM1OTAwNDA1MSw3NjE3MTk1ODksODQyOD
+I0NzAxLC0xNjY0MTIwODA4LC0yNTg3ODQwMzMsNjAwMDkyNjMw
+XX0=
 -->
