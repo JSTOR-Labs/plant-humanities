@@ -31,8 +31,8 @@ Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical name
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
-It is worth noting that Besler oversaw the creation of a related engraving _Flos Solis minor_, showing a small perennial sunflower with a branched stem and multiple heads, though its significance has been eclipsed by _Flos Solis major_. The preference for that iconography is consistent with the formation of a modern visual stereotype for the sunflower![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
-—a single golden bloom perched on an unbranched stem—that occludes the intrinsic value of the plant and elides diversity within the genus.
+It is worth noting that Besler oversaw the creation of a related engraving _Flos Solis minor_, showing a small perennial sunflower with a branched stem and multiple heads, though its significance has been eclipsed by _Flos Solis major_. The preference for that iconography is consistent with the formation of a modern visual stereotype for the sunflower—![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .center}
+(a single golden bloom perched on an unbranched stem)—that occludes the intrinsic value of the plant and elides diversity within the genus.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
 
 
@@ -202,11 +202,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI1ODg5NjIsLTI1ODc4NDAzMyw2MD
-AwOTI2MzAsLTU3MDE0MDU2LC0xMjY5NDc3NTUsLTE2NjAxMjYx
-OCwtODA5NzgxOTYsLTk5MTg3OTExOSwtMTY1MzAyNzYwNiwtMT
-Y4MzI2Mzg4Nyw3Nzk2NjgxNTcsMTM3OTk2NzE4OCwtMTcyODM2
-OTMxNywtODc4NTk4MTcsNzIzMzA2MjA3LDE3NTA3MTkyNDcsLT
-E4OTQxNDIxOTcsLTQ0MzU0MjU3MywtMTEwMjE2MjI2OCwtMTAz
-MDM2MTE3Ml19
+eyJoaXN0b3J5IjpbMzU4ODE4NjI2LC0yNTg3ODQwMzMsNjAwMD
+kyNjMwLC01NzAxNDA1NiwtMTI2OTQ3NzU1LC0xNjYwMTI2MTgs
+LTgwOTc4MTk2LC05OTE4NzkxMTksLTE2NTMwMjc2MDYsLTE2OD
+MyNjM4ODcsNzc5NjY4MTU3LDEzNzk5NjcxODgsLTE3MjgzNjkz
+MTcsLTg3ODU5ODE3LDcyMzMwNjIwNywxNzUwNzE5MjQ3LC0xOD
+k0MTQyMTk3LC00NDM1NDI1NzMsLTExMDIxNjIyNjgsLTEwMzAz
+NjExNzJdfQ==
 -->
