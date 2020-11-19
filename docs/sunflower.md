@@ -96,7 +96,7 @@ Both Hernández and Dodoens participated in a transregional network of Europeans
 <param ve-entity eid="Q112110" title="emblem">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe, one of the foremost being Bessler's _Hortus Eystettensis_. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as illustrations in herbals and emblems.[^ref18] In the portrait, the artist portrays himself wearing a gold chain gifted by the king standing opposite a magnificent, blooming sunflower andVan Dyck conveys his loyalty to his patron and role as a member of the court. Sunflowers carried connotations of loyalty, devotion, and constancy because their heliotropic phase recalled the ancient Greek myth of the sun-god Helios and the sea nymph Clytie.[^ref15]
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe, one of the foremost being Bessler's _Hortus Eystettensis_. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as illustrations in herbals and emblems.[^ref18] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also reserves nearly half of the canvas t magnificent, blooming sunflower andVan Dyck conveys his loyalty to his patron and role as a member of the court. Sunflowers carried connotations of loyalty, devotion, and constancy because their heliotropic phase recalled the ancient Greek myth of the sun-god Helios and the sea nymph Clytie.[^ref15]
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
@@ -218,7 +218,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDU1MTIxMiwzMDU3OTYwMzcsLTc5ND
+eyJoaXN0b3J5IjpbLTE1MTU4MzgwNywzMDU3OTYwMzcsLTc5ND
 Q3MjIzLDcwNTE2NTIyMyw0MTQ3ODAzNzgsLTUyMTM1NzU1Nywy
 NjY4NDQzOTUsLTgwMDAzNjQ4OCwzMjM0NTE3MjcsLTE0NzgwMT
 U5NCwxODcxODg0ODg5LC0xOTI4NTg5ODAwLC0xOTg4NjMwMTk2
