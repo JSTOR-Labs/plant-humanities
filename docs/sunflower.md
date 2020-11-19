@@ -96,7 +96,7 @@ Both Hernández and Dodoens participated in a transregional network of Europeans
 <param ve-entity eid="Q112110" title="emblem">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe, one of the foremost being Bessler's _Hortus Eystettensis_. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as illustrations in herbals and emblems.[^ref18] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also reserves nearly half of the composition for the description of a magnificent, golden blooming sunflower, a floral embodiment of his loyalty to his patron. Sunflowers carried connotations of loyalty, devotion, and constancy because their heliotropic phase recalled the ancient Greek myth of the sun-god Helios and the sea nymph Clytie.[^ref15]
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe, one of the foremost being Bessler's _Hortus Eystettensis_. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as illustrations in herbals and emblems.[^ref18] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly half of the composition to describing a magnificent, golden blooming sunflower, a floral embodiment of his loyalty to his patron. Sunflowers carried connotations of loyalty, devotion, and constancy because their heliotropic phase recalled the ancient Greek myth of the sun-god Helios and the sea nymph Clytie.[^ref15]
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0NDk4MDgxLDMwNTc5NjAzNywtNzk0ND
-cyMjMsNzA1MTY1MjIzLDQxNDc4MDM3OCwtNTIxMzU3NTU3LDI2
-Njg0NDM5NSwtODAwMDM2NDg4LDMyMzQ1MTcyNywtMTQ3ODAxNT
-k0LDE4NzE4ODQ4ODksLTE5Mjg1ODk4MDAsLTE5ODg2MzAxOTYs
-LTg3NzYyMDc4MiwtMTM1OTAwNDA1MSw3NjE3MTk1ODksODQyOD
-I0NzAxLC0xNjY0MTIwODA4LC0yNTg3ODQwMzMsNjAwMDkyNjMw
-XX0=
+eyJoaXN0b3J5IjpbMTEzOTY3MDcxMCwzMDU3OTYwMzcsLTc5ND
+Q3MjIzLDcwNTE2NTIyMyw0MTQ3ODAzNzgsLTUyMTM1NzU1Nywy
+NjY4NDQzOTUsLTgwMDAzNjQ4OCwzMjM0NTE3MjcsLTE0NzgwMT
+U5NCwxODcxODg0ODg5LC0xOTI4NTg5ODAwLC0xOTg4NjMwMTk2
+LC04Nzc2MjA3ODIsLTEzNTkwMDQwNTEsNzYxNzE5NTg5LDg0Mj
+gyNDcwMSwtMTY2NDEyMDgwOCwtMjU4Nzg0MDMzLDYwMDA5MjYz
+MF19
 -->
