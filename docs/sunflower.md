@@ -181,9 +181,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref8]: “Heiser (1965) proposed an hypothesis that is still tenable. The species [_Helianthus annuus_] spread prehistorically over eastern North America as a weedy camp-follower.” Jonathan D. Sauer, “HELIANTHUS – SUNFLOWER,” in _Historical Geography of Crop Plants: A Select Roster_ (Bosa Roca: Taylor and Francis Group, 1993), 23; 
 
-[^ref8]: For a concise summary of the debate see Schiffer, “Origin of the Domesticated Sunflower,” 241-46.
+[^ref9]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449.
 
-Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 447-49; David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
+[^ref10]: For a concise summary of the debate see Schiffer, “Origin of the Domesticated Sunflower,” 241-46.
+
+; David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
 
 [^ref9]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
 
@@ -206,7 +208,7 @@ Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjU4MDIwNiw4NDI4MjQ3MDEsLTE2Nj
+eyJoaXN0b3J5IjpbLTE5NzIyMjUzNSw4NDI4MjQ3MDEsLTE2Nj
 QxMjA4MDgsLTI1ODc4NDAzMyw2MDAwOTI2MzAsLTU3MDE0MDU2
 LC0xMjY5NDc3NTUsLTE2NjAxMjYxOCwtODA5NzgxOTYsLTk5MT
 g3OTExOSwtMTY1MzAyNzYwNiwtMTY4MzI2Mzg4Nyw3Nzk2Njgx
