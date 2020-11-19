@@ -50,8 +50,8 @@ There is some debate among scientists about when humans used domesticated sunflo
 The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals help us to chart its introduction to Spain and other parts of Europe.
 <param ve-map prefer-geojson center="45.796048, 3.108712" zoom="4.5" show-label="true">
 
-<param ve-entity eid="Q950531" title="Nicolás Monardes">
-<param ve-entity eid="Q437466" title="Rembert Dodoens">
+<param ve-entity eid="Q950531" title="Nicolás Monardes" aliases="Monardes’s">
+<param ve-entity eid="Q437466" title="Rembert Dodoens" aliases="Dodoens’s">
 <param ve-entity eid="Q8717" title="Seville">
 <param ve-entity eid="Q162022" title="Mechelen">
 Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref10] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref11]
@@ -208,11 +208,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTgzNTA5Niw4NDI4MjQ3MDEsLTE2Nj
-QxMjA4MDgsLTI1ODc4NDAzMyw2MDAwOTI2MzAsLTU3MDE0MDU2
-LC0xMjY5NDc3NTUsLTE2NjAxMjYxOCwtODA5NzgxOTYsLTk5MT
-g3OTExOSwtMTY1MzAyNzYwNiwtMTY4MzI2Mzg4Nyw3Nzk2Njgx
-NTcsMTM3OTk2NzE4OCwtMTcyODM2OTMxNywtODc4NTk4MTcsNz
-IzMzA2MjA3LDE3NTA3MTkyNDcsLTE4OTQxNDIxOTcsLTQ0MzU0
-MjU3M119
+eyJoaXN0b3J5IjpbNzYxNzE5NTg5LDg0MjgyNDcwMSwtMTY2ND
+EyMDgwOCwtMjU4Nzg0MDMzLDYwMDA5MjYzMCwtNTcwMTQwNTYs
+LTEyNjk0Nzc1NSwtMTY2MDEyNjE4LC04MDk3ODE5NiwtOTkxOD
+c5MTE5LC0xNjUzMDI3NjA2LC0xNjgzMjYzODg3LDc3OTY2ODE1
+NywxMzc5OTY3MTg4LC0xNzI4MzY5MzE3LC04Nzg1OTgxNyw3Mj
+MzMDYyMDcsMTc1MDcxOTI0NywtMTg5NDE0MjE5NywtNDQzNTQy
+NTczXX0=
 -->
