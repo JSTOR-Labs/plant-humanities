@@ -187,7 +187,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref11]: Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
 
-[^ref12]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449.
+[^ref12]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449; Bruce D. Smith, "Eastern North Americ
 
 [^ref13]: For a contemporary illustration see Pietro Andrea Mattioli, _I discori di M. Pietro Andrea Matthioli…_ (Venice: Vincenzo Valgris, 1568), Biodiversity Heritage Library, [https://www.biodiversitylibrary.org/page/51721054](https://www.biodiversitylibrary.org/page/51721054).
 
@@ -208,11 +208,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc3Njg3NjAsNzYxNzE5NTg5LDg0Mj
-gyNDcwMSwtMTY2NDEyMDgwOCwtMjU4Nzg0MDMzLDYwMDA5MjYz
-MCwtNTcwMTQwNTYsLTEyNjk0Nzc1NSwtMTY2MDEyNjE4LC04MD
-k3ODE5NiwtOTkxODc5MTE5LC0xNjUzMDI3NjA2LC0xNjgzMjYz
-ODg3LDc3OTY2ODE1NywxMzc5OTY3MTg4LC0xNzI4MzY5MzE3LC
-04Nzg1OTgxNyw3MjMzMDYyMDcsMTc1MDcxOTI0NywtMTg5NDE0
-MjE5N119
+eyJoaXN0b3J5IjpbMTk2NDcwOTY0OSw3NjE3MTk1ODksODQyOD
+I0NzAxLC0xNjY0MTIwODA4LC0yNTg3ODQwMzMsNjAwMDkyNjMw
+LC01NzAxNDA1NiwtMTI2OTQ3NzU1LC0xNjYwMTI2MTgsLTgwOT
+c4MTk2LC05OTE4NzkxMTksLTE2NTMwMjc2MDYsLTE2ODMyNjM4
+ODcsNzc5NjY4MTU3LDEzNzk5NjcxODgsLTE3MjgzNjkzMTcsLT
+g3ODU5ODE3LDcyMzMwNjIwNywxNzUwNzE5MjQ3LC0xODk0MTQy
+MTk3XX0=
 -->
