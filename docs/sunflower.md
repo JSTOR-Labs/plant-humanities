@@ -8,7 +8,7 @@
 ### A Giant among Us
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that were domesticated in North America thousands of years ago.[^ref1] Still in use today, mainly as a source of protein-rich seeds and seed oil, the annual is cultivated nearly worldwide. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and nearly twice that size with a support.[^ref2]
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans domesticated in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and nearly twice that size when supported.[^ref2]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the art world. Like the supersized flower in this plant portrait, _H. annuus_ looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than actual sunflowers. Because _H. annuus_ is the species most often represented, as a single golden bloom on an unbranched stem, it is all too easy for us to essentialize sunflowers by assuming they all share the traits shown in that imagery. In doing so, we fail to appreciate the intrinsic value of _H. annuus_ and to recognize the diversity within the genus sunflower.
@@ -198,11 +198,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODMyNjM4ODcsNzc5NjY4MTU3LDEzNz
-k5NjcxODgsLTE3MjgzNjkzMTcsLTg3ODU5ODE3LDcyMzMwNjIw
-NywxNzUwNzE5MjQ3LC0xODk0MTQyMTk3LC00NDM1NDI1NzMsLT
-ExMDIxNjIyNjgsLTEwMzAzNjExNzIsNDg0MzE0NTgwLDE3MzQ0
-OTE4NjksMTA1MzY2MzU0OSwtMTk1MDEzNjA5NywtNDk2MzQxNT
-QsLTE4OTA2NzU5MzcsLTU3MzY4MjI5MSwxNzQ0Mzk0ODkzLDEw
-NTYwNjYwNzBdfQ==
+eyJoaXN0b3J5IjpbODI4ODgyMTg2LC0xNjgzMjYzODg3LDc3OT
+Y2ODE1NywxMzc5OTY3MTg4LC0xNzI4MzY5MzE3LC04Nzg1OTgx
+Nyw3MjMzMDYyMDcsMTc1MDcxOTI0NywtMTg5NDE0MjE5NywtND
+QzNTQyNTczLC0xMTAyMTYyMjY4LC0xMDMwMzYxMTcyLDQ4NDMx
+NDU4MCwxNzM0NDkxODY5LDEwNTM2NjM1NDksLTE5NTAxMzYwOT
+csLTQ5NjM0MTU0LC0xODkwNjc1OTM3LC01NzM2ODIyOTEsMTc0
+NDM5NDg5M119
 -->
