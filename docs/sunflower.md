@@ -100,7 +100,7 @@ By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
-According to the myth, Clytie competed unsuccessfully for the heart of Helios. Scorned by him and shunned by her fellow nymphs, Clytie wasted away while she trained her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope that moved in concert with the sun's rays. Yet, as this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie by replacing the floral imagery in their pictures with a sunflower.[^ref19] Even today, the myth continues to be enmeshed with the sunflower: Elizabeth Colomba’s 2007 [watercolor](https://artmuseum.princeton.edu/collections/objects/127332) casts a black woman as Clytie, claiming a space for the black body within visual codes for representing mythological narratives that have traditionally been reserved for white ones.
+According to the myth, Clytie competed unsuccessfully for the heart of Helios. Scorned by him and shunned by her fellow nymphs, Clytie wasted away while she trained her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope that moved in concert with the sun's rays. Yet, as this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie in their pictures by replacing traditional floral imagery with a sunflower.[^ref19] Even today, the myth continues to be enmeshed with the sunflower: Elizabeth Colomba’s 2007 [watercolor](https://artmuseum.princeton.edu/collections/objects/127332) casts a black woman as Clytie, claiming a space for the black body within visual codes for representing mythological narratives that have been conventionally reserved for white ones.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODIyMjczNTEsMzA1Nzk2MDM3LC03OT
-Q0NzIyMyw3MDUxNjUyMjMsNDE0NzgwMzc4LC01MjEzNTc1NTcs
-MjY2ODQ0Mzk1LC04MDAwMzY0ODgsMzIzNDUxNzI3LC0xNDc4MD
-E1OTQsMTg3MTg4NDg4OSwtMTkyODU4OTgwMCwtMTk4ODYzMDE5
-NiwtODc3NjIwNzgyLC0xMzU5MDA0MDUxLDc2MTcxOTU4OSw4ND
-I4MjQ3MDEsLTE2NjQxMjA4MDgsLTI1ODc4NDAzMyw2MDAwOTI2
-MzBdfQ==
+eyJoaXN0b3J5IjpbLTYwODY3NjU3OCwzMDU3OTYwMzcsLTc5ND
+Q3MjIzLDcwNTE2NTIyMyw0MTQ3ODAzNzgsLTUyMTM1NzU1Nywy
+NjY4NDQzOTUsLTgwMDAzNjQ4OCwzMjM0NTE3MjcsLTE0NzgwMT
+U5NCwxODcxODg0ODg5LC0xOTI4NTg5ODAwLC0xOTg4NjMwMTk2
+LC04Nzc2MjA3ODIsLTEzNTkwMDQwNTEsNzYxNzE5NTg5LDg0Mj
+gyNDcwMSwtMTY2NDEyMDgwOCwtMjU4Nzg0MDMzLDYwMDA5MjYz
+MF19
 -->
