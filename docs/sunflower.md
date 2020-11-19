@@ -72,7 +72,7 @@ The illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at rig
 <param ve-image fit="contain" url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0311.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 <param ve-image fit="contain" url=https://ia801904.us.archive.org/BookReader/BookReaderImages.php?id=gri_33125014246561&itemPath=%2F3%2Fitems%2Fgri_33125014246561&server=ia801904.us.archive.org&page=n29_w907" title="Pietro Andrea Matthioli, _I discorsi di M. Pietro Andrea Matthioli..._, Venice: Vincenzo ValgrisI, 1568, Getty Research Institute">
 
-In the late 1500s, it was common for authors to repurpose illustrations and text from existing sources, adapting that material to new contexts. That is true for the sunflower imagery in Dodoens's _Florum, et coronariarum_. For example, John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578) reproduces the illustration along with the pre-Linnaean name _Chrysanthemum Peruvianum_, which conveyed that the chrysanthemum-like flower was native to Peru. It is important to realize that, at the time, European herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas.[^ref16] That muddy terminology has contributed to a misconception about the cultivated sunflower's "Peruvian" origins. In another instance of borrowing, Matthias de l'Obel reused the same image for his herbal [Plantarum, seu, Stirpium historia](https://www.biodiversitylibrary.org/page/9871376)_ (1576),  though he renamed the plant “Solis Flos.” In both cases, the size of the pictures were reduced to give equal or lesser prominence to text. 
+In the late 1500s, it was common for authors to repurpose illustrations and text from existing sources, adapting that material to new contexts. That is true for the sunflower imagery in Dodoens's _Florum, et coronariarum_. For example, John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578) reproduces the illustration along with the pre-Linnaean name _Chrysanthemum Peruvianum_, which conveyed that the chrysanthemum-like flower was native to Peru. It is important to realize that, at the time, European herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas.[^ref16] That muddy terminology has contributed to a misconception about the cultivated sunflower's "Peruvian" origins. In another instance of borrowing, Matthias de l'Obel reused the same image for his herbal [Plantarum, seu, Stirpium historia](https://www.biodiversitylibrary.org/page/9871376)_ (1576),  though he renamed the plant “Solis Flos.” In both cases, the size of the pictures were reduced and greater prominence was given to text in  conventions established for herbals. 
 <param ve-image fit="contain" primary url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-image fit="contain" url="https://ia800501.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488167&itemPath=%2F12%2Fitems%2Fmobot31753003488167&server=ia800501.us.archive.org&page=n328_w966" title="Matthias de l'Obel, _Plantarum, seu, Stirpium historia_, Antwerp: Christophori Plantini, 1576, Missouri Botanical Gardeny">
 <param ve-entity eid="Q419" title="Peru">
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyNTI1OTM3LDcwNTE2NTIyMyw0MTQ3OD
-AzNzgsLTUyMTM1NzU1NywyNjY4NDQzOTUsLTgwMDAzNjQ4OCwz
-MjM0NTE3MjcsLTE0NzgwMTU5NCwxODcxODg0ODg5LC0xOTI4NT
-g5ODAwLC0xOTg4NjMwMTk2LC04Nzc2MjA3ODIsLTEzNTkwMDQw
-NTEsNzYxNzE5NTg5LDg0MjgyNDcwMSwtMTY2NDEyMDgwOCwtMj
-U4Nzg0MDMzLDYwMDA5MjYzMCwtNTcwMTQwNTYsLTEyNjk0Nzc1
-NV19
+eyJoaXN0b3J5IjpbLTE0MDE2NzEzMzgsNzA1MTY1MjIzLDQxND
+c4MDM3OCwtNTIxMzU3NTU3LDI2Njg0NDM5NSwtODAwMDM2NDg4
+LDMyMzQ1MTcyNywtMTQ3ODAxNTk0LDE4NzE4ODQ4ODksLTE5Mj
+g1ODk4MDAsLTE5ODg2MzAxOTYsLTg3NzYyMDc4MiwtMTM1OTAw
+NDA1MSw3NjE3MTk1ODksODQyODI0NzAxLC0xNjY0MTIwODA4LC
+0yNTg3ODQwMzMsNjAwMDkyNjMwLC01NzAxNDA1NiwtMTI2OTQ3
+NzU1XX0=
 -->
