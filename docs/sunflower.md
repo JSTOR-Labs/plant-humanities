@@ -43,7 +43,7 @@ So, how did the _Helianthus annuus_ specimen represented in _Flos Solis maior_ c
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
-There is some debate among scientists about when humans used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether they were cultivated independently there.[^ref9] A charred seed, which is no longer extant, was recovered at San Antonio cave, in Tabasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that it may have come from a squash or a wild sunflower.[^ref10] Expanding on that archeological research, genomic studies of the common sunflower have linked present-day crops and seed remains to a common ancestor, which was cultivated at an independent domestication center in eastern North America.[^ref11] For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by Spanish explorers.[^ref12]
+There is some debate among scientists about when humans used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether they were cultivated independently there.[^ref9] A charred seed, which is no longer extant, was recovered at San Antonio cave, in Tabasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that it may have come from a bottle gourd.[^ref10] Expanding on that archeological research, genomic studies of the common sunflower have linked present-day crops and seed remains to a common ancestor, which was cultivated at an independent domestication center in eastern North America.[^ref11] For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by Spanish explorers.[^ref12]
 <param ve-map prefer-geojson center="Q80914" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
 
 <param ve-entity eid="Q29" title="Spain">
@@ -208,11 +208,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Nzk3NTY1LDc2MTcxOTU4OSw4NDI4Mj
-Q3MDEsLTE2NjQxMjA4MDgsLTI1ODc4NDAzMyw2MDAwOTI2MzAs
-LTU3MDE0MDU2LC0xMjY5NDc3NTUsLTE2NjAxMjYxOCwtODA5Nz
-gxOTYsLTk5MTg3OTExOSwtMTY1MzAyNzYwNiwtMTY4MzI2Mzg4
-Nyw3Nzk2NjgxNTcsMTM3OTk2NzE4OCwtMTcyODM2OTMxNywtOD
-c4NTk4MTcsNzIzMzA2MjA3LDE3NTA3MTkyNDcsLTE4OTQxNDIx
-OTddfQ==
+eyJoaXN0b3J5IjpbLTkxNjU2MTA5OCw3NjE3MTk1ODksODQyOD
+I0NzAxLC0xNjY0MTIwODA4LC0yNTg3ODQwMzMsNjAwMDkyNjMw
+LC01NzAxNDA1NiwtMTI2OTQ3NzU1LC0xNjYwMTI2MTgsLTgwOT
+c4MTk2LC05OTE4NzkxMTksLTE2NTMwMjc2MDYsLTE2ODMyNjM4
+ODcsNzc5NjY4MTU3LDEzNzk5NjcxODgsLTE3MjgzNjkzMTcsLT
+g3ODU5ODE3LDcyMzMwNjIwNywxNzUwNzE5MjQ3LC0xODk0MTQy
+MTk3XX0=
 -->
