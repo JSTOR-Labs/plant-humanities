@@ -66,7 +66,7 @@ Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002
 ### “Peruvian” Origins and Mythic Encounters
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht">
-The illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at right, charts the transoceanic movement of the plant to Flanders. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ plant growing in soil as the artist may have encountered it in a garden. Indeed, Dodoens’s identifies the place where the plant blooms shown in the picture: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.”[^ref12] Beautiful to behold, according to Dodoens, the sunflower was a rare foreign luxury good that conferred status upon its owner, though it was also a living artifact of European colonialist and imperialist agendas.
+The illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at right, charts the transoceanic movement of the plant to Flanders. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature _Helianthus annuus_ plant growing in soil as the artist may have encountered it in a garden. Indeed, Dodoens’s identifies the place where the plant blooms shown in the picture: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.”[^ref15] Beautiful to behold, according to Dodoens, the sunflower was a rare foreign luxury good that conferred status upon its owner, though it was also a living artifact of European colonialist and imperialist agendas.
 <param ve-image fit="contain" primary url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0310.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 <param ve-image fit="contain"  url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0308.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=4&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 <param ve-image fit="contain" url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0311.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
@@ -199,7 +199,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref14]: For a contemporary illustration see Pietro Andrea Mattioli, _I discori di M. Pietro Andrea Matthioli…_ (Venice: Vincenzo Valgris, 1568), Biodiversity Heritage Library, [https://www.biodiversitylibrary.org/page/51721054](https://www.biodiversitylibrary.org/page/51721054).
 
-[^ref10]: Botany in the Low Countries. 1993.
+[^ref15]: Botany in the Low Countries. 1993.
 
 [^ref13]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
 
@@ -214,11 +214,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzcwMDMxODEsMTg3MTg4NDg4OSwtMT
-kyODU4OTgwMCwtMTk4ODYzMDE5NiwtODc3NjIwNzgyLC0xMzU5
-MDA0MDUxLDc2MTcxOTU4OSw4NDI4MjQ3MDEsLTE2NjQxMjA4MD
-gsLTI1ODc4NDAzMyw2MDAwOTI2MzAsLTU3MDE0MDU2LC0xMjY5
-NDc3NTUsLTE2NjAxMjYxOCwtODA5NzgxOTYsLTk5MTg3OTExOS
-wtMTY1MzAyNzYwNiwtMTY4MzI2Mzg4Nyw3Nzk2NjgxNTcsMTM3
-OTk2NzE4OF19
+eyJoaXN0b3J5IjpbLTg2MzA0MDYxMywxODcxODg0ODg5LC0xOT
+I4NTg5ODAwLC0xOTg4NjMwMTk2LC04Nzc2MjA3ODIsLTEzNTkw
+MDQwNTEsNzYxNzE5NTg5LDg0MjgyNDcwMSwtMTY2NDEyMDgwOC
+wtMjU4Nzg0MDMzLDYwMDA5MjYzMCwtNTcwMTQwNTYsLTEyNjk0
+Nzc1NSwtMTY2MDEyNjE4LC04MDk3ODE5NiwtOTkxODc5MTE5LC
+0xNjUzMDI3NjA2LC0xNjgzMjYzODg3LDc3OTY2ODE1NywxMzc5
+OTY3MTg4XX0=
 -->
