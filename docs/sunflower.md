@@ -104,7 +104,7 @@ According to the myth, Clytie competed unsuccessfully for the heart of Helios. S
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
-Visual representations of sunflowers have shaped and been shaped by cultural assumptions that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref20] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation.
+Visual representations of sunflowers have shaped and been shaped by cultural assumptions that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref20] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Needless to say, time-lapsed footage of sunflowers in motion created a media buzz!
 <param ve-video title="_Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits_, Hagop S. Atamian, Nicky M. Creux, Evan A. Brown, Austin G. Garner, Benjamin K. Blackman, Stacey L. Harmer, DOI: 10.1126/science.aaf9793" vid="rjwd4DErj_M?t=18">
 
 ### Out of One, Many
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTM1NjEwLDMwNTc5NjAzNywtNzk0ND
-cyMjMsNzA1MTY1MjIzLDQxNDc4MDM3OCwtNTIxMzU3NTU3LDI2
-Njg0NDM5NSwtODAwMDM2NDg4LDMyMzQ1MTcyNywtMTQ3ODAxNT
-k0LDE4NzE4ODQ4ODksLTE5Mjg1ODk4MDAsLTE5ODg2MzAxOTYs
-LTg3NzYyMDc4MiwtMTM1OTAwNDA1MSw3NjE3MTk1ODksODQyOD
-I0NzAxLC0xNjY0MTIwODA4LC0yNTg3ODQwMzMsNjAwMDkyNjMw
-XX0=
+eyJoaXN0b3J5IjpbLTM0NzkwNjA1OCwzMDU3OTYwMzcsLTc5ND
+Q3MjIzLDcwNTE2NTIyMyw0MTQ3ODAzNzgsLTUyMTM1NzU1Nywy
+NjY4NDQzOTUsLTgwMDAzNjQ4OCwzMjM0NTE3MjcsLTE0NzgwMT
+U5NCwxODcxODg0ODg5LC0xOTI4NTg5ODAwLC0xOTg4NjMwMTk2
+LC04Nzc2MjA3ODIsLTEzNTkwMDQwNTEsNzYxNzE5NTg5LDg0Mj
+gyNDcwMSwtMTY2NDEyMDgwOCwtMjU4Nzg0MDMzLDYwMDA5MjYz
+MF19
 -->
