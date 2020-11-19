@@ -43,7 +43,10 @@ So, how did the _Helianthus annuus_ specimen represented in _Flos Solis maior_ c
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
-<param ve-entity eid="Q80914" title="Tabasco">
+<param ve-entity eid="Q495448" title="Marshall County">
+<param ve-entity eid="Q495448" title="Marshall County">
+<param ve-entity eid="Q495448" title="Marshall County">
+<param ve-entity eid="Q495448" title="Marshall County">
 There is some debate among scientists about when humans used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether they were cultivated independently there.[^ref9] A charred seed, which is no longer extant, was recovered at San Andrés archaeological site, in Tabasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that it may have come from a bottle gourd.[^ref10] Expanding on that archeological research, genomic studies of modern domesticated and wild sunflowers have linked them to a common ancestor, which was cultivated at an independent domestication center, along with pepo squash, marshelder, and chenopod, in eastern North America.[^ref11] For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by Spanish explorers.[^ref12]
 <param ve-map prefer-geojson center="Q80914" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
 
@@ -209,11 +212,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODg2MzAxOTYsLTg3NzYyMDc4MiwtMT
-M1OTAwNDA1MSw3NjE3MTk1ODksODQyODI0NzAxLC0xNjY0MTIw
-ODA4LC0yNTg3ODQwMzMsNjAwMDkyNjMwLC01NzAxNDA1NiwtMT
-I2OTQ3NzU1LC0xNjYwMTI2MTgsLTgwOTc4MTk2LC05OTE4Nzkx
-MTksLTE2NTMwMjc2MDYsLTE2ODMyNjM4ODcsNzc5NjY4MTU3LD
-EzNzk5NjcxODgsLTE3MjgzNjkzMTcsLTg3ODU5ODE3LDcyMzMw
-NjIwN119
+eyJoaXN0b3J5IjpbLTUzNzYzNTEzMiwtMTk4ODYzMDE5NiwtOD
+c3NjIwNzgyLC0xMzU5MDA0MDUxLDc2MTcxOTU4OSw4NDI4MjQ3
+MDEsLTE2NjQxMjA4MDgsLTI1ODc4NDAzMyw2MDAwOTI2MzAsLT
+U3MDE0MDU2LC0xMjY5NDc3NTUsLTE2NjAxMjYxOCwtODA5Nzgx
+OTYsLTk5MTg3OTExOSwtMTY1MzAyNzYwNiwtMTY4MzI2Mzg4Ny
+w3Nzk2NjgxNTcsMTM3OTk2NzE4OCwtMTcyODM2OTMxNywtODc4
+NTk4MTddfQ==
 -->
