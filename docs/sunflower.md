@@ -100,7 +100,7 @@ By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
-According to the myth, Clytie competed unsuccessfully for the heart of Helios. Scorned by him and shunned by her fellow nymphs, Clytie wasted away while she trained her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope that moved in concert with the sun's rays. Yest, as this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie by transforming her floral attribute from a heliotrope into a more fashionable plant: the sunflower.[^ref19] Even today, the myth continues to be enmeshed with the sunflower as evidenced by Elizabeth Colomba’s 2007 [watercolor](https://artmuseum.princeton.edu/collections/objects/127332), which, by casting a black woman as Clytie, claims a space for the black body within visual codes for representing mythological narratives that have been synonymous with whiteness.
+According to the myth, Clytie competed unsuccessfully for the heart of Helios. Scorned by him and shunned by her fellow nymphs, Clytie wasted away while she trained her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope that moved in concert with the sun's rays. Yest, as this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie by replacing the floral imagery in t sunflower.[^ref19] Even today, the myth continues to be enmeshed with the sunflower as evidenced by Elizabeth Colomba’s 2007 [watercolor](https://artmuseum.princeton.edu/collections/objects/127332), which, by casting a black woman as Clytie, claims a space for the black body within visual codes for representing mythological narratives that have been synonymous with whiteness.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjYxMDE1LDMwNTc5NjAzNywtNzk0ND
-cyMjMsNzA1MTY1MjIzLDQxNDc4MDM3OCwtNTIxMzU3NTU3LDI2
-Njg0NDM5NSwtODAwMDM2NDg4LDMyMzQ1MTcyNywtMTQ3ODAxNT
-k0LDE4NzE4ODQ4ODksLTE5Mjg1ODk4MDAsLTE5ODg2MzAxOTYs
-LTg3NzYyMDc4MiwtMTM1OTAwNDA1MSw3NjE3MTk1ODksODQyOD
-I0NzAxLC0xNjY0MTIwODA4LC0yNTg3ODQwMzMsNjAwMDkyNjMw
-XX0=
+eyJoaXN0b3J5IjpbMTkzMzkyNzM2NSwzMDU3OTYwMzcsLTc5ND
+Q3MjIzLDcwNTE2NTIyMyw0MTQ3ODAzNzgsLTUyMTM1NzU1Nywy
+NjY4NDQzOTUsLTgwMDAzNjQ4OCwzMjM0NTE3MjcsLTE0NzgwMT
+U5NCwxODcxODg0ODg5LC0xOTI4NTg5ODAwLC0xOTg4NjMwMTk2
+LC04Nzc2MjA3ODIsLTEzNTkwMDQwNTEsNzYxNzE5NTg5LDg0Mj
+gyNDcwMSwtMTY2NDEyMDgwOCwtMjU4Nzg0MDMzLDYwMDA5MjYz
+MF19
 -->
