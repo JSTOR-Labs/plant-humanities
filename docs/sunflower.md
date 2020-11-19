@@ -78,7 +78,8 @@ The illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at rig
 <param ve-entity eid="Q1860320" title="Matthias de l'Obel">
 <parma ve-entity eid="Q1333338" title="John Gerard" aliases="John Gerard's">
 In the late 1500s, it was common for authors to repurpose illustrations and text from existing sources, adapting that material to suit new contexts. That is true for the sunflower imagery in Dodoens's _Florum, et coronariarum_. For example, John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578) reproduces the illustration along with the pre-Linnaean name _Chrysanthemum Peruvianum_, which conveyed that the chrysanthemum-like flower was native to Peru. However, at the time, Europeans herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas.[^ref16] That muddy terminology has contributed to a peristant myth of the cultivated sunflower's "Peruvian" origins. In another instance of borrowing, Matthias de l'Obel reused the same image for his herbal [Plantarum, seu, Stirpium historia](https://www.biodiversitylibrary.org/page/9871376)_ (1576),  though he renamed the plant “Solis Flos.” 
-<param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
+<param ve-image fit="contain" primary url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
+<param ve-image fit="contain" url="https://ia800501.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488167&itemPath=%2F12%2Fitems%2Fmobot31753003488167&server=ia800501.us.archive.org&page=n328_w966" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q1333338" title="John Gerard"> 
 
 
@@ -220,11 +221,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDQ0NjQwNSw0MTQ3ODAzNzgsLTUyMT
-M1NzU1NywyNjY4NDQzOTUsLTgwMDAzNjQ4OCwzMjM0NTE3Mjcs
-LTE0NzgwMTU5NCwxODcxODg0ODg5LC0xOTI4NTg5ODAwLC0xOT
-g4NjMwMTk2LC04Nzc2MjA3ODIsLTEzNTkwMDQwNTEsNzYxNzE5
-NTg5LDg0MjgyNDcwMSwtMTY2NDEyMDgwOCwtMjU4Nzg0MDMzLD
-YwMDA5MjYzMCwtNTcwMTQwNTYsLTEyNjk0Nzc1NSwtMTY2MDEy
-NjE4XX0=
+eyJoaXN0b3J5IjpbNjQ4Mzc3NTg1LDQxNDc4MDM3OCwtNTIxMz
+U3NTU3LDI2Njg0NDM5NSwtODAwMDM2NDg4LDMyMzQ1MTcyNywt
+MTQ3ODAxNTk0LDE4NzE4ODQ4ODksLTE5Mjg1ODk4MDAsLTE5OD
+g2MzAxOTYsLTg3NzYyMDc4MiwtMTM1OTAwNDA1MSw3NjE3MTk1
+ODksODQyODI0NzAxLC0xNjY0MTIwODA4LC0yNTg3ODQwMzMsNj
+AwMDkyNjMwLC01NzAxNDA1NiwtMTI2OTQ3NzU1LC0xNjYwMTI2
+MThdfQ==
 -->
