@@ -96,7 +96,7 @@ Both Hernández and Dodoens participated in a transregional network of Europeans
 <param ve-entity eid="Q112110" title="emblem">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe, one of the foremost being Bessler's _Hortus Eystettensis_. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as illustrations in herbals and emblems.[^ref18] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly half of the composition to describing the pert head of a blooming sunflower so that a floral embodiment of his loyalty to his patron. Sunflowers carried connotations of loyalty, devotion, and constancy because their heliotropic phase recalled the ancient Greek myth of the sun-god Helios and the sea nymph Clytie.[^ref15]
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe, one of the foremost being Bessler's _Hortus Eystettensis_. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as illustrations in herbals and emblems.[^ref18] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly half of the composition to describing the pert head of a blooming sunflower so that whoever encountered the work would be well aware of his loyalty to his patron. Europeans associated sunflowers with the human sentimentas of loyalty, devotion, and constancy because heliotropic phase recalled the ancient Greek myth of the sun-god Helios and the sea nymph Clytie.[^ref15]
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
@@ -218,7 +218,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI2NDQ4ODQsMzA1Nzk2MDM3LC03OT
+eyJoaXN0b3J5IjpbLTE4MjI2MzE4NjksMzA1Nzk2MDM3LC03OT
 Q0NzIyMyw3MDUxNjUyMjMsNDE0NzgwMzc4LC01MjEzNTc1NTcs
 MjY2ODQ0Mzk1LC04MDAwMzY0ODgsMzIzNDUxNzI3LC0xNDc4MD
 E1OTQsMTg3MTg4NDg4OSwtMTkyODU4OTgwMCwtMTk4ODYzMDE5
