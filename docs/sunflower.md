@@ -39,7 +39,7 @@ It is worth noting that Besler oversaw the creation of a related engraving _Flos
 ### Range and Cultivation
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
-So, how did the _Helianthus annuus_ specimen represented in _Flos Solis maior_ come into being? The common sunflower was cultivated by humans thousands of years ago, and the history of that process is enmeshed with convergences of plant and human mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref6] The earliest known sunflower remains—charred achenes—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref7] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large seeds.
+So, how did the _Helianthus annuus_ specimen represented in _Flos Solis maior_ come into being? The common sunflower was cultivated by humans thousands of years ago, and the history of that process is enmeshed with convergences of plant and human mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref6] The earliest known sunflower remains—charred achenes—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref7] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large seeds.[^ref8]
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
@@ -179,6 +179,8 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref7]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
 
+[^ref8]: <![endif]--> “Heiser (1965) proposed an hypothesis that is still tenable. The species [_Helianthus annuus_] spread prehistorically over eastern North America as a weedy camp-follower.” Jonathan D. Sauer, “HELIANTHUS – SUNFLOWER,” in _Historical Geography of Crop Plants: A Select Roster_ (Bosa Roca: Taylor and Francis Group, 1993), 23.
+
 [^ref8]: For more on the debate about the domesticated sunflower in prehistoric Mexico and North America see Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 447-49; David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
 
 [^ref9]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
@@ -202,11 +204,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyODI0NzAxLC0xNjY0MTIwODA4LC0yNT
-g3ODQwMzMsNjAwMDkyNjMwLC01NzAxNDA1NiwtMTI2OTQ3NzU1
-LC0xNjYwMTI2MTgsLTgwOTc4MTk2LC05OTE4NzkxMTksLTE2NT
-MwMjc2MDYsLTE2ODMyNjM4ODcsNzc5NjY4MTU3LDEzNzk5Njcx
-ODgsLTE3MjgzNjkzMTcsLTg3ODU5ODE3LDcyMzMwNjIwNywxNz
-UwNzE5MjQ3LC0xODk0MTQyMTk3LC00NDM1NDI1NzMsLTExMDIx
-NjIyNjhdfQ==
+eyJoaXN0b3J5IjpbNTgyMTA5NjMxLDg0MjgyNDcwMSwtMTY2ND
+EyMDgwOCwtMjU4Nzg0MDMzLDYwMDA5MjYzMCwtNTcwMTQwNTYs
+LTEyNjk0Nzc1NSwtMTY2MDEyNjE4LC04MDk3ODE5NiwtOTkxOD
+c5MTE5LC0xNjUzMDI3NjA2LC0xNjgzMjYzODg3LDc3OTY2ODE1
+NywxMzc5OTY3MTg4LC0xNzI4MzY5MzE3LC04Nzg1OTgxNyw3Mj
+MzMDYyMDcsMTc1MDcxOTI0NywtMTg5NDE0MjE5NywtNDQzNTQy
+NTczXX0=
 -->
