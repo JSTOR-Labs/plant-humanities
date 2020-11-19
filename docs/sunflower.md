@@ -54,7 +54,7 @@ The Spanish first transported the domesticated sunflower across the Atlantic Oce
 <param ve-entity eid="Q437466" title="Rembert Dodoens" aliases="Dodoens’s">
 <param ve-entity eid="Q8717" title="Seville">
 <param ve-entity eid="Q162022" title="Mechelen">
-Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref10] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref11]
+Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref10] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref13]
 <param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
 ### “Peruvian” Origins and Mythic Encounters
@@ -189,9 +189,9 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref12]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449.
 
-[^ref10]: Botany in the Low Countries. 1993.
+[^ref13]: For another illustration from that period see Pietro Andrea Mattioli, _I discori di M. Pietro Andrea Matthioli…_ (Venice: Vincenzo Valgris, 1568), Biodiversity Heritage Library, [https://www.biodiversitylibrary.org/page/51721054](https://www.biodiversitylibrary.org/page/51721054).
 
-[^ref11]: For another illustration from that period see Pietro Andrea Mattioli, _I discori di M. Pietro Andrea Matthioli…_ (Venice: Vincenzo Valgris, 1568), Biodiversity Heritage Library, [https://www.biodiversitylibrary.org/page/51721054](https://www.biodiversitylibrary.org/page/51721054).
+[^ref10]: Botany in the Low Countries. 1993.
 
 [^ref12]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in CITATION.
 
@@ -208,11 +208,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxNzE5NTg5LDg0MjgyNDcwMSwtMTY2ND
-EyMDgwOCwtMjU4Nzg0MDMzLDYwMDA5MjYzMCwtNTcwMTQwNTYs
-LTEyNjk0Nzc1NSwtMTY2MDEyNjE4LC04MDk3ODE5NiwtOTkxOD
-c5MTE5LC0xNjUzMDI3NjA2LC0xNjgzMjYzODg3LDc3OTY2ODE1
-NywxMzc5OTY3MTg4LC0xNzI4MzY5MzE3LC04Nzg1OTgxNyw3Mj
-MzMDYyMDcsMTc1MDcxOTI0NywtMTg5NDE0MjE5NywtNDQzNTQy
-NTczXX0=
+eyJoaXN0b3J5IjpbLTk4MDQyMDY1Myw3NjE3MTk1ODksODQyOD
+I0NzAxLC0xNjY0MTIwODA4LC0yNTg3ODQwMzMsNjAwMDkyNjMw
+LC01NzAxNDA1NiwtMTI2OTQ3NzU1LC0xNjYwMTI2MTgsLTgwOT
+c4MTk2LC05OTE4NzkxMTksLTE2NTMwMjc2MDYsLTE2ODMyNjM4
+ODcsNzc5NjY4MTU3LDEzNzk5NjcxODgsLTE3MjgzNjkzMTcsLT
+g3ODU5ODE3LDcyMzMwNjIwNywxNzUwNzE5MjQ3LC0xODk0MTQy
+MTk3XX0=
 -->
