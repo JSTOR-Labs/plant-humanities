@@ -35,6 +35,7 @@ It is worth noting that Besler oversaw the creation of a related engraving _Flos
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
 
 
+
 ### Range and Cultivation
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
@@ -201,11 +202,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzE0MTA2MiwtMTI2OTQ3NzU1LC0xNj
-YwMTI2MTgsLTgwOTc4MTk2LC05OTE4NzkxMTksLTE2NTMwMjc2
-MDYsLTE2ODMyNjM4ODcsNzc5NjY4MTU3LDEzNzk5NjcxODgsLT
-E3MjgzNjkzMTcsLTg3ODU5ODE3LDcyMzMwNjIwNywxNzUwNzE5
-MjQ3LC0xODk0MTQyMTk3LC00NDM1NDI1NzMsLTExMDIxNjIyNj
-gsLTEwMzAzNjExNzIsNDg0MzE0NTgwLDE3MzQ0OTE4NjksMTA1
-MzY2MzU0OV19
+eyJoaXN0b3J5IjpbLTU3MDE0MDU2LC0xMjY5NDc3NTUsLTE2Nj
+AxMjYxOCwtODA5NzgxOTYsLTk5MTg3OTExOSwtMTY1MzAyNzYw
+NiwtMTY4MzI2Mzg4Nyw3Nzk2NjgxNTcsMTM3OTk2NzE4OCwtMT
+cyODM2OTMxNywtODc4NTk4MTcsNzIzMzA2MjA3LDE3NTA3MTky
+NDcsLTE4OTQxNDIxOTcsLTQ0MzU0MjU3MywtMTEwMjE2MjI2OC
+wtMTAzMDM2MTE3Miw0ODQzMTQ1ODAsMTczNDQ5MTg2OSwxMDUz
+NjYzNTQ5XX0=
 -->
