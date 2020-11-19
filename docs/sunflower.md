@@ -27,7 +27,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q65027" title="Basilius Besler">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. A team of artists, etchers, printmakers, and colorists, hired by Besler, produced this hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_, a striking depiction of the plant shown life-sized.[^ref5] The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time, though not without precedents, because they emphasized the sunflower’s beauty rather than its medicinal properties For that reason,  _Flos Solis maior_ became an influential model for visualizing the sunflower that anticipated current visual stereotypes for the plant.
+Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical names, it is arguable that Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. A team of artists, etchers, printmakers, and colorists, hired by Besler, produced this hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_, a striking depiction of the plant shown life-sized.[^ref5] The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time, though not without precedents, because they emphasized the sunflower’s beauty rather than its medicinal properties, as in herbals. For that reason, Besler’s _Flos Solis maior_ (“giant flower of the sun”) became an influential model for visualizing _H. annuus_ that anticipates nineteenth-century visual stereotypes for the plant. It is worth noting that Besler’s supervised the creation of anotheengraving _Flos Solis minor_ depicts a perennial sunflower with a branched stem and multiple heads, though that iconography is eclipsed by _Flos Solis major_.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
@@ -198,11 +198,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTc4MTk2LC05OTE4NzkxMTksLTE2NT
-MwMjc2MDYsLTE2ODMyNjM4ODcsNzc5NjY4MTU3LDEzNzk5Njcx
-ODgsLTE3MjgzNjkzMTcsLTg3ODU5ODE3LDcyMzMwNjIwNywxNz
-UwNzE5MjQ3LC0xODk0MTQyMTk3LC00NDM1NDI1NzMsLTExMDIx
-NjIyNjgsLTEwMzAzNjExNzIsNDg0MzE0NTgwLDE3MzQ0OTE4Nj
-ksMTA1MzY2MzU0OSwtMTk1MDEzNjA5NywtNDk2MzQxNTQsLTE4
-OTA2NzU5MzddfQ==
+eyJoaXN0b3J5IjpbLTE1NjQyOTUzNDUsLTgwOTc4MTk2LC05OT
+E4NzkxMTksLTE2NTMwMjc2MDYsLTE2ODMyNjM4ODcsNzc5NjY4
+MTU3LDEzNzk5NjcxODgsLTE3MjgzNjkzMTcsLTg3ODU5ODE3LD
+cyMzMwNjIwNywxNzUwNzE5MjQ3LC0xODk0MTQyMTk3LC00NDM1
+NDI1NzMsLTExMDIxNjIyNjgsLTEwMzAzNjExNzIsNDg0MzE0NT
+gwLDE3MzQ0OTE4NjksMTA1MzY2MzU0OSwtMTk1MDEzNjA5Nywt
+NDk2MzQxNTRdfQ==
 -->
