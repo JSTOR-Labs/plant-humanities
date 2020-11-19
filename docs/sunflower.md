@@ -183,7 +183,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref9]: For a concise summary of the debate see Schiffer, “Origin of the Domesticated Sunflower,” 241-46.
 
-[^ref10]: David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” 57-74; Charles B. Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication,
+[^ref10]: David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” 57-74; Charles B. Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," _Genetic Resources and Crop Evolution_ 55, no. 1 (2008): 9-13.
 
 [^ref11]: Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
 
@@ -208,11 +208,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODIwNTUyMiw3NjE3MTk1ODksODQyOD
-I0NzAxLC0xNjY0MTIwODA4LC0yNTg3ODQwMzMsNjAwMDkyNjMw
-LC01NzAxNDA1NiwtMTI2OTQ3NzU1LC0xNjYwMTI2MTgsLTgwOT
-c4MTk2LC05OTE4NzkxMTksLTE2NTMwMjc2MDYsLTE2ODMyNjM4
-ODcsNzc5NjY4MTU3LDEzNzk5NjcxODgsLTE3MjgzNjkzMTcsLT
-g3ODU5ODE3LDcyMzMwNjIwNywxNzUwNzE5MjQ3LC0xODk0MTQy
-MTk3XX0=
+eyJoaXN0b3J5IjpbMTI5Nzk3NTY1LDc2MTcxOTU4OSw4NDI4Mj
+Q3MDEsLTE2NjQxMjA4MDgsLTI1ODc4NDAzMyw2MDAwOTI2MzAs
+LTU3MDE0MDU2LC0xMjY5NDc3NTUsLTE2NjAxMjYxOCwtODA5Nz
+gxOTYsLTk5MTg3OTExOSwtMTY1MzAyNzYwNiwtMTY4MzI2Mzg4
+Nyw3Nzk2NjgxNTcsMTM3OTk2NzE4OCwtMTcyODM2OTMxNywtOD
+c4NTk4MTcsNzIzMzA2MjA3LDE3NTA3MTkyNDcsLTE4OTQxNDIx
+OTddfQ==
 -->
