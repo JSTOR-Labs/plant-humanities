@@ -195,7 +195,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref12]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449; Bruce D. Smith, "Eastern North America as an Independent Center of Plant Domestication," _Proceedings of the National Academy of Science of the Unites States of America_ 103, no. 33 (August 15, 2006): 12223-28.
 
-[^ref13]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in _An Illustrated History of the Herbals .
+[^ref13]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in _An Illustrated History of the Herbals_ (New York: Columbia University Press, 1997), ##-##.
 
 [^ref14]: For a contemporary illustration see Pietro Andrea Mattioli, _I discori di M. Pietro Andrea Matthioli…_ (Venice: Vincenzo Valgris, 1568), Biodiversity Heritage Library, [https://www.biodiversitylibrary.org/page/51721054](https://www.biodiversitylibrary.org/page/51721054).
 
@@ -214,11 +214,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDYzMTU1OCwxODcxODg0ODg5LC0xOT
-I4NTg5ODAwLC0xOTg4NjMwMTk2LC04Nzc2MjA3ODIsLTEzNTkw
-MDQwNTEsNzYxNzE5NTg5LDg0MjgyNDcwMSwtMTY2NDEyMDgwOC
-wtMjU4Nzg0MDMzLDYwMDA5MjYzMCwtNTcwMTQwNTYsLTEyNjk0
-Nzc1NSwtMTY2MDEyNjE4LC04MDk3ODE5NiwtOTkxODc5MTE5LC
-0xNjUzMDI3NjA2LC0xNjgzMjYzODg3LDc3OTY2ODE1NywxMzc5
-OTY3MTg4XX0=
+eyJoaXN0b3J5IjpbLTEzNzcwMDMxODEsMTg3MTg4NDg4OSwtMT
+kyODU4OTgwMCwtMTk4ODYzMDE5NiwtODc3NjIwNzgyLC0xMzU5
+MDA0MDUxLDc2MTcxOTU4OSw4NDI4MjQ3MDEsLTE2NjQxMjA4MD
+gsLTI1ODc4NDAzMyw2MDAwOTI2MzAsLTU3MDE0MDU2LC0xMjY5
+NDc3NTUsLTE2NjAxMjYxOCwtODA5NzgxOTYsLTk5MTg3OTExOS
+wtMTY1MzAyNzYwNiwtMTY4MzI2Mzg4Nyw3Nzk2NjgxNTcsMTM3
+OTk2NzE4OF19
 -->
