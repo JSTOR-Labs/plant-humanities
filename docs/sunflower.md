@@ -179,7 +179,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref7]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
 
-[^ref8]: <![endif]--> “Heiser (1965) proposed an hypothesis that is still tenable. The species [_Helianthus annuus_] spread prehistorically over eastern North America as a weedy camp-follower.” Jonathan D. Sauer, “HELIANTHUS – SUNFLOWER,” in _Historical Geography of Crop Plants: A Select Roster_ (Bosa Roca: Taylor and Francis Group, 1993), 23.
+[^ref8]: “Heiser (1965) proposed an hypothesis that is still tenable. The species [_Helianthus annuus_] spread prehistorically over eastern North America as a weedy camp-follower.” Jonathan D. Sauer, “HELIANTHUS – SUNFLOWER,” in _Historical Geography of Crop Plants: A Select Roster_ (Bosa Roca: Taylor and Francis Group, 1993), 23; 
 
 [^ref8]: For more on the debate about the domesticated sunflower in prehistoric Mexico and North America see Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 447-49; David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
 
@@ -204,11 +204,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyMTA5NjMxLDg0MjgyNDcwMSwtMTY2ND
-EyMDgwOCwtMjU4Nzg0MDMzLDYwMDA5MjYzMCwtNTcwMTQwNTYs
-LTEyNjk0Nzc1NSwtMTY2MDEyNjE4LC04MDk3ODE5NiwtOTkxOD
-c5MTE5LC0xNjUzMDI3NjA2LC0xNjgzMjYzODg3LDc3OTY2ODE1
-NywxMzc5OTY3MTg4LC0xNzI4MzY5MzE3LC04Nzg1OTgxNyw3Mj
-MzMDYyMDcsMTc1MDcxOTI0NywtMTg5NDE0MjE5NywtNDQzNTQy
-NTczXX0=
+eyJoaXN0b3J5IjpbLTc3MTA4NjQ5OSw4NDI4MjQ3MDEsLTE2Nj
+QxMjA4MDgsLTI1ODc4NDAzMyw2MDAwOTI2MzAsLTU3MDE0MDU2
+LC0xMjY5NDc3NTUsLTE2NjAxMjYxOCwtODA5NzgxOTYsLTk5MT
+g3OTExOSwtMTY1MzAyNzYwNiwtMTY4MzI2Mzg4Nyw3Nzk2Njgx
+NTcsMTM3OTk2NzE4OCwtMTcyODM2OTMxNywtODc4NTk4MTcsNz
+IzMzA2MjA3LDE3NTA3MTkyNDcsLTE4OTQxNDIxOTcsLTQ0MzU0
+MjU3M119
 -->
