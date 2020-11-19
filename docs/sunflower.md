@@ -49,6 +49,9 @@ So, how did the _Helianthus annuus_ specimen represented in _Flos Solis maior_ c
 <param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
 <param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
 <param ve-entity eid="Q490360" title="Hickory Country" aliases="eastern North America">
+<param ve-entity eid="X" title="pepo squash">
+<param ve-entity eid="X" title="pepo squash">
+<param ve-entity eid="X" title="pepo squash">
 There is some debate among scientists about when humans used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether they were cultivated independently there.[^ref9] A charred seed, which is no longer extant, was recovered at San Andrés archaeological site, in Tabasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that it may have come from a bottle gourd.[^ref10] Expanding on that archeological research, genomic studies of modern domesticated and wild sunflowers have linked them to a common ancestor, which was cultivated at an independent domestication center, along with pepo squash, marshelder, and chenopod, in <span data-click-map-flyto="37.347878, -89.590292">eastern North America</span>.[^ref11] For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly even by Spanish explorers.[^ref12]
 <param ve-map prefer-geojson center="Q80914" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
 
@@ -216,11 +219,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzQ0Mzg3NSwyNjY4NDQzOTUsLTgwMD
-AzNjQ4OCwzMjM0NTE3MjcsLTE0NzgwMTU5NCwxODcxODg0ODg5
-LC0xOTI4NTg5ODAwLC0xOTg4NjMwMTk2LC04Nzc2MjA3ODIsLT
-EzNTkwMDQwNTEsNzYxNzE5NTg5LDg0MjgyNDcwMSwtMTY2NDEy
-MDgwOCwtMjU4Nzg0MDMzLDYwMDA5MjYzMCwtNTcwMTQwNTYsLT
-EyNjk0Nzc1NSwtMTY2MDEyNjE4LC04MDk3ODE5NiwtOTkxODc5
-MTE5XX0=
+eyJoaXN0b3J5IjpbLTE0NzExMzM3MjYsMjY2ODQ0Mzk1LC04MD
+AwMzY0ODgsMzIzNDUxNzI3LC0xNDc4MDE1OTQsMTg3MTg4NDg4
+OSwtMTkyODU4OTgwMCwtMTk4ODYzMDE5NiwtODc3NjIwNzgyLC
+0xMzU5MDA0MDUxLDc2MTcxOTU4OSw4NDI4MjQ3MDEsLTE2NjQx
+MjA4MDgsLTI1ODc4NDAzMyw2MDAwOTI2MzAsLTU3MDE0MDU2LC
+0xMjY5NDc3NTUsLTE2NjAxMjYxOCwtODA5NzgxOTYsLTk5MTg3
+OTExOV19
 -->
