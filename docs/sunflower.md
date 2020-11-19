@@ -70,7 +70,7 @@ The illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at rig
 <param ve-image fit="contain" primary url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0310.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 <param ve-image fit="contain"  url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0308.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=4&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 <param ve-image fit="contain" url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0311.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
-<param ve-image fit="contain" url=https://ia801904.us.archive.org/BookReader/BookReaderImages.php?id=gri_33125014246561&itemPath=%2F3%2Fitems%2Fgri_33125014246561&server=ia801904.us.archive.org&page=n29_w907" title="Pietro Andrea Matthioli, _I discorsi di M. Pietro Andrea Matthioli..._, enetia :Appresso Vincenzo ValgrisI,MDLXVIII [1568]">
+<param ve-image fit="contain" url=https://ia801904.us.archive.org/BookReader/BookReaderImages.php?id=gri_33125014246561&itemPath=%2F3%2Fitems%2Fgri_33125014246561&server=ia801904.us.archive.org&page=n29_w907" title="Pietro Andrea Matthioli, _I discorsi di M. Pietro Andrea Matthioli..._, Venice: Vincenzo ValgrisI, 1568, Getty Research Institute">
 
 <param ve-entity eid="Q419" title="Peru">
 <param ve-entity eid="Q59882" title="Chrysanthemum">
@@ -216,11 +216,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4NzEyMzc0LC0xNDc4MDE1OTQsMTg3MT
-g4NDg4OSwtMTkyODU4OTgwMCwtMTk4ODYzMDE5NiwtODc3NjIw
-NzgyLC0xMzU5MDA0MDUxLDc2MTcxOTU4OSw4NDI4MjQ3MDEsLT
-E2NjQxMjA4MDgsLTI1ODc4NDAzMyw2MDAwOTI2MzAsLTU3MDE0
-MDU2LC0xMjY5NDc3NTUsLTE2NjAxMjYxOCwtODA5NzgxOTYsLT
-k5MTg3OTExOSwtMTY1MzAyNzYwNiwtMTY4MzI2Mzg4Nyw3Nzk2
-NjgxNTddfQ==
+eyJoaXN0b3J5IjpbLTE5Njk3OTk1MjIsLTE0NzgwMTU5NCwxOD
+cxODg0ODg5LC0xOTI4NTg5ODAwLC0xOTg4NjMwMTk2LC04Nzc2
+MjA3ODIsLTEzNTkwMDQwNTEsNzYxNzE5NTg5LDg0MjgyNDcwMS
+wtMTY2NDEyMDgwOCwtMjU4Nzg0MDMzLDYwMDA5MjYzMCwtNTcw
+MTQwNTYsLTEyNjk0Nzc1NSwtMTY2MDEyNjE4LC04MDk3ODE5Ni
+wtOTkxODc5MTE5LC0xNjUzMDI3NjA2LC0xNjgzMjYzODg3LDc3
+OTY2ODE1N119
 -->
