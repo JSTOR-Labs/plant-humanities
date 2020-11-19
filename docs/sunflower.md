@@ -109,8 +109,7 @@ Visual representations of sunflowers have shaped and been shaped by cultural ass
 
 ### Out of One, Many
 
-<param ve-entity eid="Q5928444" title="Robert John Thornton">
-In the late eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography to communicate scientific information about plants and their reproductive systems. This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies a sophisticated understanding of the plant. Henderson shows a partial view of two mature plants—facing opposite directions—to communicate valuable information about their dorsal and ventral anatomical structures, while taking some aesthetic liberties to imbue the flower heads with a sense of movement and vitality. <span data-click-image-zoomto="982,2706,2213,1795">At the center of the left flower,</span> a series of green scallop- and flame-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets. These details remind us that the study of art and flora are endeavors rooted in the practices of direct observation and visual analysis.
+In the late eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing sunflowers that allowed them to communicate scientific information about plants and new findings about their reproductive systems. This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies a sophisticated understanding of the plant. Henderson shows a partial view of two mature plants—facing opposite directions—to communicate valuable information about their dorsal and ventral anatomical structures, while taking some aesthetic liberties to imbue the flower heads with a sense of movement and vitality. <span data-click-image-zoomto="982,2706,2213,1795">At the center of the left flower,</span> a series of green scallop- and flame-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets. These details remind us that the study of art and flora are endeavors rooted in the practices of direct observation and visual analysis.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
 
@@ -220,11 +219,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2MTg5NDMzLC0xNTgwMDM0NzYyLDEyOT
-I0MTE0NjIsMzA1Nzk2MDM3LC03OTQ0NzIyMyw3MDUxNjUyMjMs
-NDE0NzgwMzc4LC01MjEzNTc1NTcsMjY2ODQ0Mzk1LC04MDAwMz
-Y0ODgsMzIzNDUxNzI3LC0xNDc4MDE1OTQsMTg3MTg4NDg4OSwt
-MTkyODU4OTgwMCwtMTk4ODYzMDE5NiwtODc3NjIwNzgyLC0xMz
-U5MDA0MDUxLDc2MTcxOTU4OSw4NDI4MjQ3MDEsLTE2NjQxMjA4
-MDhdfQ==
+eyJoaXN0b3J5IjpbLTE0NDg2MTMyOTQsLTE1ODAwMzQ3NjIsMT
+I5MjQxMTQ2MiwzMDU3OTYwMzcsLTc5NDQ3MjIzLDcwNTE2NTIy
+Myw0MTQ3ODAzNzgsLTUyMTM1NzU1NywyNjY4NDQzOTUsLTgwMD
+AzNjQ4OCwzMjM0NTE3MjcsLTE0NzgwMTU5NCwxODcxODg0ODg5
+LC0xOTI4NTg5ODAwLC0xOTg4NjMwMTk2LC04Nzc2MjA3ODIsLT
+EzNTkwMDQwNTEsNzYxNzE5NTg5LDg0MjgyNDcwMSwtMTY2NDEy
+MDgwOF19
 -->
