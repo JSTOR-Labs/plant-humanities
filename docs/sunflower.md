@@ -58,7 +58,7 @@ The Spanish first transported the domesticated sunflower across the Atlantic Oce
 <param ve-entity eid="Q8717" title="Seville">
 <param ve-entity eid="Q162022" title="Mechelen">
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
-<param ve-entity eid="Q252772" title="Eichstätt">
+<param ve-entity eid="Q10491" title="Eichstätt">
 Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14] Through transregional trade networks Prince Bishop of Eichstätt obtained materials for the cultivation of domesticated sunflowers in his garden at <span data-click-map-flyto="48.897182, 11.170371">Eichstätt</span>, Bavaria, which were depicted in Besler's [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908) (1613).
 <param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
@@ -221,11 +221,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzI0OTk0Miw2NjIxNzI5MTksNDEwMD
-AxNzU2LC0xMzIwMDU5MTk3LDE3Mzk4MzAxODEsMTUwNTkyMTU0
-MSwtMTU0MjUzMzM2MywxOTIyODExNTI5LDEwOTAzOTM0MTQsOD
-U1OTc0NjI1LC00NzE5ODMwOTEsLTEwOTg5OTAxNCwtMTI0Nzc3
-NTI1OCwxMzEwMzE1ODgxLDE3MTI0OTUwMTgsMTM3MjQwNjQ5NS
-wtMTk0Njc5MTcwMCwxNzk3NTIzMTYyLC00NDY0Nzg4NjksLTE2
-MzA1NDk2NDJdfQ==
+eyJoaXN0b3J5IjpbMTU4MTYyNTMwMiwtMjc3MjQ5OTQyLDY2Mj
+E3MjkxOSw0MTAwMDE3NTYsLTEzMjAwNTkxOTcsMTczOTgzMDE4
+MSwxNTA1OTIxNTQxLC0xNTQyNTMzMzYzLDE5MjI4MTE1MjksMT
+A5MDM5MzQxNCw4NTU5NzQ2MjUsLTQ3MTk4MzA5MSwtMTA5ODk5
+MDE0LC0xMjQ3Nzc1MjU4LDEzMTAzMTU4ODEsMTcxMjQ5NTAxOC
+wxMzcyNDA2NDk1LC0xOTQ2NzkxNzAwLDE3OTc1MjMxNjIsLTQ0
+NjQ3ODg2OV19
 -->
