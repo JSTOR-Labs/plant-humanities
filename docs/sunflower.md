@@ -129,7 +129,7 @@ Henderson's botanical illustration highlights a trait of the sunflower that we m
 
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
-During the latter half of the nineteenth century, a period of rapid industralization and urbanization, some European painters developed new visual languages for representing sunflowers that manifest their subjective experiences of the plant world. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_, a species of sunflower with branched stems and multiple flower heads. He presents an impression of the plants that is also a mediation on how theye perceives its color and form. Vincent van Gogh's _Sunflowers_ engages with the tactile and emotive aspects of _Helianthus annuus_ by juxtaposing typical blossoms and double-flower mutants at different stages of life. The pictures not only show us different species, but also model for us a kind of aesthetic and phenomenological attentiveness to the plant world to which we ought to aspire. 
+During the latter half of the nineteenth century, a period of rapid industralization and urbanization, some European painters developed new visual languages for representing sunflowers that manifest their subjective experiences of the plant world. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_, a species of sunflower with branched stems and multiple flower heads. He presents an impression of the plants that approximates how the eye perceives their brilliant gold and silvcolor and form. Vincent van Gogh's _Sunflowers_ engages with the tactile and emotive aspects of _Helianthus annuus_ by juxtaposing typical blossoms and double-flower mutants at different stages of life. The pictures not only show us different species, but also model for us a kind of aesthetic and phenomenological attentiveness to the plant world to which we ought to aspire. 
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflowers%20Monet%20van%20Gogh%20CC.jpg" title="Claude Monet _Jerusalem artichoke_ 1880 (left), Vincent van Gogh, _Sunflower_, 1888, National Gallery London">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflowers%20compared%20to%20van%20Gogh%20painting.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU0NTU3MzAsLTQ0NjQ3ODg2OSwtMT
-YzMDU0OTY0MiwzODU4MTc3MjksMTAzODMxMTc2OSwxMjY3OTg4
-MDIwLC02ODY3NzgwMjQsNTE0MjMwMjI4LC0xNzEzMjI2NzU2LD
-gxMDkwNTU2NywtODYxMzU5NDQ5LC0zMzQwODk1NjIsMTAwNjk4
-NDQzNywxOTQ3NTU2Mzk2LDEzODk2ODYzNDIsMTc2NDEzMzQ3MS
-wxMDkwNjMzODg3LC0xNTgwMDM0NzYyLDEyOTI0MTE0NjIsMzA1
-Nzk2MDM3XX0=
+eyJoaXN0b3J5IjpbLTI0NTc2NDY1MywtNDQ2NDc4ODY5LC0xNj
+MwNTQ5NjQyLDM4NTgxNzcyOSwxMDM4MzExNzY5LDEyNjc5ODgw
+MjAsLTY4Njc3ODAyNCw1MTQyMzAyMjgsLTE3MTMyMjY3NTYsOD
+EwOTA1NTY3LC04NjEzNTk0NDksLTMzNDA4OTU2MiwxMDA2OTg0
+NDM3LDE5NDc1NTYzOTYsMTM4OTY4NjM0MiwxNzY0MTMzNDcxLD
+EwOTA2MzM4ODcsLTE1ODAwMzQ3NjIsMTI5MjQxMTQ2MiwzMDU3
+OTYwMzddfQ==
 -->
