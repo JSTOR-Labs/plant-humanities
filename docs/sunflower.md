@@ -99,11 +99,11 @@ By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
-Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant's heliotropic phase recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun-god Helios.[^ref18] According to the story, Clytie competed unsuccessfully for Helios's affestions. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, holy cosumed with training her gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, named for its movement toward the sun's rays. Yet, as this print shows, many seventeenth-century artists reinterpreted the narrative by recasting the flora mentioned therein as a sunflower.[^ref19] That break with conventions demonstrates the fashionability of the sunflower and the degree to which its imagery was entangled with X and Y.
+Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant's heliotropic phase recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun-god Helios.[^ref18] According to the story, Clytie competed unsuccessfully for Helios's affestions. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, holy cosumed with training her gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, named for its movement toward the sun's rays. Yet, as this print shows, many seventeenth-century artists reinterpreted the narrative by recasting the flora mentioned therein as a sunflower.[^ref19] That break with conventions demonstrates the fashionability of the sunflower as a visual motif and the degree to which its imagery was entangled with beliefs about the flower's formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
-Such visual portrayals of sunflowers informed and were informed by longstanding cultural assumptions that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref20] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Needless to say, time-lapsed footage of sunflowers in motion created a media buzz!
+There is a longstanding cultural assumption that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref20] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation.
 <param ve-video title="_Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits_, Hagop S. Atamian, Nicky M. Creux, Evan A. Brown, Austin G. Garner, Benjamin K. Blackman, Stacey L. Harmer, DOI: 10.1126/science.aaf9793" vid="rjwd4DErj_M?t=18">
 
 ### Out of One, Many
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjgwMDA4MywtNjg2Nzc4MDI0LDUxND
-IzMDIyOCwtMTcxMzIyNjc1Niw4MTA5MDU1NjcsLTg2MTM1OTQ0
-OSwtMzM0MDg5NTYyLDEwMDY5ODQ0MzcsMTk0NzU1NjM5NiwxMz
-g5Njg2MzQyLDE3NjQxMzM0NzEsMTA5MDYzMzg4NywtMTU4MDAz
-NDc2MiwxMjkyNDExNDYyLDMwNTc5NjAzNywtNzk0NDcyMjMsNz
-A1MTY1MjIzLDQxNDc4MDM3OCwtNTIxMzU3NTU3LDI2Njg0NDM5
-NV19
+eyJoaXN0b3J5IjpbMzgyOTg3ODY2LC02ODY3NzgwMjQsNTE0Mj
+MwMjI4LC0xNzEzMjI2NzU2LDgxMDkwNTU2NywtODYxMzU5NDQ5
+LC0zMzQwODk1NjIsMTAwNjk4NDQzNywxOTQ3NTU2Mzk2LDEzOD
+k2ODYzNDIsMTc2NDEzMzQ3MSwxMDkwNjMzODg3LC0xNTgwMDM0
+NzYyLDEyOTI0MTE0NjIsMzA1Nzk2MDM3LC03OTQ0NzIyMyw3MD
+UxNjUyMjMsNDE0NzgwMzc4LC01MjEzNTc1NTcsMjY2ODQ0Mzk1
+XX0=
 -->
