@@ -140,7 +140,7 @@ During the latter half of the nineteenth century, a period of rapid industraliza
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
 <param ve-entity eid="Q181916" title="herbarium">
- Still life paintings provide another rich source of evidence regarding plant diversity, conveying information that cannot be preserved on herbarium sheets. We may also be surprised to discover the diversity within the genus _Helianthus_. Indeed, there are more than fifty accepted species grouped under Helianthus and, contrary to what is often portrayed in images and texts, their palette is not limited to yellow.
+Contrary to what is most often portrayed in images and texts, their palette is not limited to yellow.We may also be surprised to discover the diversity within the genus _Helianthus_. Indeed, there are more than fifty accepted species grouped under Helianthus and, 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
  Their color can range from gold to orange to red and even an unexpected shade of pink. Species also vary in terms of size and the number and shape of their leaves and flower heads, as demonstrated by these herbarium sheets with dried _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke). The specimens also dispel the notion that sunflowers only have one large blossom per stock.
 <param ve-plant-specimen eid="Q171497" max="1">
@@ -221,11 +221,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzUzODc0MTgsODU1OTc0NjI1LC00Nz
-E5ODMwOTEsLTEwOTg5OTAxNCwtMTI0Nzc3NTI1OCwxMzEwMzE1
-ODgxLDE3MTI0OTUwMTgsMTM3MjQwNjQ5NSwtMTk0Njc5MTcwMC
-wxNzk3NTIzMTYyLC00NDY0Nzg4NjksLTE2MzA1NDk2NDIsMzg1
-ODE3NzI5LDEwMzgzMTE3NjksMTI2Nzk4ODAyMCwtNjg2Nzc4MD
-I0LDUxNDIzMDIyOCwtMTcxMzIyNjc1Niw4MTA5MDU1NjcsLTg2
-MTM1OTQ0OV19
+eyJoaXN0b3J5IjpbMTg5NzY1NzEyNyw4NTU5NzQ2MjUsLTQ3MT
+k4MzA5MSwtMTA5ODk5MDE0LC0xMjQ3Nzc1MjU4LDEzMTAzMTU4
+ODEsMTcxMjQ5NTAxOCwxMzcyNDA2NDk1LC0xOTQ2NzkxNzAwLD
+E3OTc1MjMxNjIsLTQ0NjQ3ODg2OSwtMTYzMDU0OTY0MiwzODU4
+MTc3MjksMTAzODMxMTc2OSwxMjY3OTg4MDIwLC02ODY3NzgwMj
+QsNTE0MjMwMjI4LC0xNzEzMjI2NzU2LDgxMDkwNTU2NywtODYx
+MzU5NDQ5XX0=
 -->
