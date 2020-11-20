@@ -113,7 +113,7 @@ In the late eighteenth and early nineteenth centuries, botanical illustrators de
 
 <param ve-entity eid="Q14847254" title="Compositae"> 
 <param ve-entity eid="Q30765614" title="floret"> 
-Henderson's botanical illustration highlights a trait of the sunflower that we may overlook: its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets. This diagram of a mature flower head shows that its disk consists of florets and that what we generally call “petals” are actually ray florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own seed after pollination. Through this process of visual analysis and careful contemplation, we realize that the sunfl.
+Henderson's botanical illustration highlights a trait of the sunflower that we may overlook: its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets. This diagram of a mature flower head shows that its disk consists of florets and that what we generally call “petals” are actually ray florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own seed after pollination. Through this process of visual analysis and careful contemplation, we realize that the sunflower has evolved not to provide us with seeds nor beautiful flowers, but rather t.
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Helianthus whirl, attributed to L. Shyamal © Creative Commons Attribution-Share Alike 2.5">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg">
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3NjMyOTQ1LDM4NTgxNzcyOSwxMDM4Mz
-ExNzY5LDEyNjc5ODgwMjAsLTY4Njc3ODAyNCw1MTQyMzAyMjgs
-LTE3MTMyMjY3NTYsODEwOTA1NTY3LC04NjEzNTk0NDksLTMzND
-A4OTU2MiwxMDA2OTg0NDM3LDE5NDc1NTYzOTYsMTM4OTY4NjM0
-MiwxNzY0MTMzNDcxLDEwOTA2MzM4ODcsLTE1ODAwMzQ3NjIsMT
-I5MjQxMTQ2MiwzMDU3OTYwMzcsLTc5NDQ3MjIzLDcwNTE2NTIy
-M119
+eyJoaXN0b3J5IjpbLTg5MTQyMjcwOSwzODU4MTc3MjksMTAzOD
+MxMTc2OSwxMjY3OTg4MDIwLC02ODY3NzgwMjQsNTE0MjMwMjI4
+LC0xNzEzMjI2NzU2LDgxMDkwNTU2NywtODYxMzU5NDQ5LC0zMz
+QwODk1NjIsMTAwNjk4NDQzNywxOTQ3NTU2Mzk2LDEzODk2ODYz
+NDIsMTc2NDEzMzQ3MSwxMDkwNjMzODg3LC0xNTgwMDM0NzYyLD
+EyOTI0MTE0NjIsMzA1Nzk2MDM3LC03OTQ0NzIyMyw3MDUxNjUy
+MjNdfQ==
 -->
