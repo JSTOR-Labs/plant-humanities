@@ -128,12 +128,13 @@ Henderson's botanical illustration highlights a trait of the sunflower that we m
 
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
-During the latter half of the nineteenth century, a period of rapid industralization and urbanization, some European painters developed new visual languages for representing sunflowers that manifest their subjective experiences of the plant world. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_, a species of sunflower with branched stems and multiple flower heads. He presents an impression of the plants that approximates how the human eye perceives their brilliant gold and green hues under specific light conditions. Conversely, Vincent van Gogh's _Sunflowers_ juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants, shown at different stages of life. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir our emotions or spirituality. In those ways, the pictures model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire. We may also read the paintings as _memento mori_, or reminders of a withering connection to and impending loss of nature in the face of modernity, coincident with a growing reabirth of a conservation movement in France.
+During the latter half of the nineteenth century, a period of rapid industralization and urbanization, some European painters developed new visual languages for representing sunflowers that manifest their subjective experiences of the plant world. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_, a species of sunflower with branched stems and multiple flower heads. He presents an impression of the plants that approximates how the human eye perceives their brilliant gold and green hues under specific light conditions. Conversely, Vincent van Gogh's _Sunflowers_ juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants, shown at different stages of life. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir our emotions or spirituality. In those ways, the pictures model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire. We may also read the paintings as _memento mori_, or reminders of a withering connection to and impending loss of nature in the face of modernity, coincident with a growing realization about the need to conserve woods and trees.
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-entity eid="Q273383" title="Memento mori">
 <param ve-entity eid="Q202398" title="industrialization">
 <param ve-entity eid="Q161078" title="urbanization">
 <param ve-entity eid="Q628403" title="conservation">
+<param ve-entity eid="Q11084414" title="modernity">
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflowers%20Monet%20van%20Gogh%20CC.jpg" title="Claude Monet _Jerusalem artichoke_ 1880 (left), Vincent van Gogh, _Sunflower_, 1888, National Gallery London">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflowers%20compared%20to%20van%20Gogh%20painting.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
@@ -220,11 +221,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzQ2NzgyOCwxOTIyODExNTI5LDEwOT
-AzOTM0MTQsODU1OTc0NjI1LC00NzE5ODMwOTEsLTEwOTg5OTAx
-NCwtMTI0Nzc3NTI1OCwxMzEwMzE1ODgxLDE3MTI0OTUwMTgsMT
-M3MjQwNjQ5NSwtMTk0Njc5MTcwMCwxNzk3NTIzMTYyLC00NDY0
-Nzg4NjksLTE2MzA1NDk2NDIsMzg1ODE3NzI5LDEwMzgzMTE3Nj
-ksMTI2Nzk4ODAyMCwtNjg2Nzc4MDI0LDUxNDIzMDIyOCwtMTcx
-MzIyNjc1Nl19
+eyJoaXN0b3J5IjpbNDgyNDI5NzA4LDE5MjI4MTE1MjksMTA5MD
+M5MzQxNCw4NTU5NzQ2MjUsLTQ3MTk4MzA5MSwtMTA5ODk5MDE0
+LC0xMjQ3Nzc1MjU4LDEzMTAzMTU4ODEsMTcxMjQ5NTAxOCwxMz
+cyNDA2NDk1LC0xOTQ2NzkxNzAwLDE3OTc1MjMxNjIsLTQ0NjQ3
+ODg2OSwtMTYzMDU0OTY0MiwzODU4MTc3MjksMTAzODMxMTc2OS
+wxMjY3OTg4MDIwLC02ODY3NzgwMjQsNTE0MjMwMjI4LC0xNzEz
+MjI2NzU2XX0=
 -->
