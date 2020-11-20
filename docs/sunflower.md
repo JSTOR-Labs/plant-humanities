@@ -14,7 +14,7 @@ _Helianthus annuus_ (common sunflower) holds a special status in the plant kingd
 Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the art world. Like the supersized flower in this plant portrait, _H. annuus_ looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to appreciate and approach them with care.
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
-Sunflower imagery can provide rich historical information about the genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_ and the roles of visual culture in communicating knowledges, myths, and meanings related to plants. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. In doing so, they developed conventions for representing specific characteristics of sunflowers that were tailored to realizing those aims. By tracking changes in that [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) over time, we can learn about the historical significance of sunflowers in specific temporal and geographic contexts, as well as shifts in the ways that humans have represented, encountered, used, thought about, and valued that genus. X visual arts that we can cultivate a renewed attentiveness to the can also serve to enhance our capacity for perceiving the unique traits of individual specimens and the diversity of plantlife growing, perhaps unnoticed, in our daily environments.
+Sunflower imagery can provide rich historical information about the genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_ and the roles of visual culture in communicating knowledges, myths, and meanings related to plants. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. In doing so, they developed conventions for representing specific characteristics of sunflowers that were tailored to realizing those aims. By tracking changes in that [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) over time, we can learn about the historical significance of sunflowers in specific temporal and geographic contexts, as well as shifts in the ways that humans have represented, encountered, used, thought about, and valued that genus. That practice of close visual analysis unique traits of individual specimens and the diversity of plantlife growing, perhaps unnoticed, in our daily environments.
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 ### Naming and Representing the Iconic Flower
@@ -216,11 +216,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTIwMjMwNDEsMTk0NzU1NjM5NiwxMz
-g5Njg2MzQyLDE3NjQxMzM0NzEsMTA5MDYzMzg4NywtMTU4MDAz
-NDc2MiwxMjkyNDExNDYyLDMwNTc5NjAzNywtNzk0NDcyMjMsNz
-A1MTY1MjIzLDQxNDc4MDM3OCwtNTIxMzU3NTU3LDI2Njg0NDM5
-NSwtODAwMDM2NDg4LDMyMzQ1MTcyNywtMTQ3ODAxNTk0LDE4Nz
-E4ODQ4ODksLTE5Mjg1ODk4MDAsLTE5ODg2MzAxOTYsLTg3NzYy
-MDc4Ml19
+eyJoaXN0b3J5IjpbMTQ0NTM3NDczMSwxOTQ3NTU2Mzk2LDEzOD
+k2ODYzNDIsMTc2NDEzMzQ3MSwxMDkwNjMzODg3LC0xNTgwMDM0
+NzYyLDEyOTI0MTE0NjIsMzA1Nzk2MDM3LC03OTQ0NzIyMyw3MD
+UxNjUyMjMsNDE0NzgwMzc4LC01MjEzNTc1NTcsMjY2ODQ0Mzk1
+LC04MDAwMzY0ODgsMzIzNDUxNzI3LC0xNDc4MDE1OTQsMTg3MT
+g4NDg4OSwtMTkyODU4OTgwMCwtMTk4ODYzMDE5NiwtODc3NjIw
+NzgyXX0=
 -->
