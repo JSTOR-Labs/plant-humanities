@@ -85,7 +85,7 @@ The migration of sunflower iconography is also evidenced in Francisco Hernández
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, Missouri Botanical Garden">
 
-Both Hernández and Dodoens participated in a transregional network of Europeans who exchanged iconography and ideas related to the sunflower. The model, at right, visualizes some of the intersections among those authors, artists, translators, plant collectors, patrons, and other historical figures, focusing on the period from the 1550s to the 1650s. It also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one herbal to another, possibly through sources.
+Both Hernández and Dodoens participated in a transregional network of Europeans who exchanged iconography and ideas related to the sunflower. The model, at right, visualizes some of the intersections among those authors, artists, translators, plant collectors, patrons, and other historical figures, focusing on the period from the 1550s to the 1650s. It also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one herbal to another, possibly through sources not identified here.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Rembert Dodoens">
 
 ### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
@@ -95,7 +95,7 @@ Both Hernández and Dodoens participated in a transregional network of Europeans
 <param ve-entity eid="Q112110" title="emblem">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe, one of the foremost being Bessler's _Hortus Eystettensis_. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as illustrations in herbals and emblems.[^ref18] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly half of the composition to describing the pert head of a blooming sunflower so that whoever encountered the work would be well aware of his loyalty to his patron.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals and emblems.[^ref18] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly half of the composition to describing the pert head of a blooming sunflower so that whoever encountered the work would be well aware of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTU3NTkzMSwtNjg2Nzc4MDI0LDUxND
-IzMDIyOCwtMTcxMzIyNjc1Niw4MTA5MDU1NjcsLTg2MTM1OTQ0
-OSwtMzM0MDg5NTYyLDEwMDY5ODQ0MzcsMTk0NzU1NjM5NiwxMz
-g5Njg2MzQyLDE3NjQxMzM0NzEsMTA5MDYzMzg4NywtMTU4MDAz
-NDc2MiwxMjkyNDExNDYyLDMwNTc5NjAzNywtNzk0NDcyMjMsNz
-A1MTY1MjIzLDQxNDc4MDM3OCwtNTIxMzU3NTU3LDI2Njg0NDM5
-NV19
+eyJoaXN0b3J5IjpbLTEzNTY3MTM5MDYsLTY4Njc3ODAyNCw1MT
+QyMzAyMjgsLTE3MTMyMjY3NTYsODEwOTA1NTY3LC04NjEzNTk0
+NDksLTMzNDA4OTU2MiwxMDA2OTg0NDM3LDE5NDc1NTYzOTYsMT
+M4OTY4NjM0MiwxNzY0MTMzNDcxLDEwOTA2MzM4ODcsLTE1ODAw
+MzQ3NjIsMTI5MjQxMTQ2MiwzMDU3OTYwMzcsLTc5NDQ3MjIzLD
+cwNTE2NTIyMyw0MTQ3ODAzNzgsLTUyMTM1NzU1NywyNjY4NDQz
+OTVdfQ==
 -->
