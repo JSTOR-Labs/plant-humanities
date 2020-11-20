@@ -84,7 +84,7 @@ The migration of sunflower iconography is also evidenced in Francisco Hernández
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, Missouri Botanical Garden">
 
-Both Hernández and Dodoens participated in a transregional network of Europeans who exchanged iconography and ideas related to the sunflower. This model, at right, visualizes some of the intersections among those authors, artists, translators, plant collectors, patrons, and other historical figures, focusing on the period from the 1550s to the 1650s. It also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one herbal to another, possibly through sources not identified here.
+Both Hernández and Dodoens participated in a transregional network of Europeans who exchanged iconography and ideas related to the sunflower. This model visualizes some of the intersections among those authors, artists, translators, plant collectors, patrons, and other historical figures, focusing on the period from the 1550s to the 1650s. It also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one book to another, possibly through sources not identified here.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Rembert Dodoens">
 
 ### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
@@ -217,7 +217,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDYzMTE0MywtMTI0Nzc3NTI1OCwxMz
+eyJoaXN0b3J5IjpbMTQzNTcxNzg4NywtMTI0Nzc3NTI1OCwxMz
 EwMzE1ODgxLDE3MTI0OTUwMTgsMTM3MjQwNjQ5NSwtMTk0Njc5
 MTcwMCwxNzk3NTIzMTYyLC00NDY0Nzg4NjksLTE2MzA1NDk2ND
 IsMzg1ODE3NzI5LDEwMzgzMTE3NjksMTI2Nzk4ODAyMCwtNjg2
