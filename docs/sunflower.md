@@ -8,7 +8,7 @@
 ### A Giant among Us
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants domesticated by humans in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and nearly twice that when supported.[^ref2]
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans domesticated in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and nearly twice that when supported.[^ref2]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the art world. Like the supersized flower in this plant portrait, _H. annuus_ looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with greater curiosity and more care.
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzUyMzE2MiwtNDQ2NDc4ODY5LC0xNj
-MwNTQ5NjQyLDM4NTgxNzcyOSwxMDM4MzExNzY5LDEyNjc5ODgw
-MjAsLTY4Njc3ODAyNCw1MTQyMzAyMjgsLTE3MTMyMjY3NTYsOD
-EwOTA1NTY3LC04NjEzNTk0NDksLTMzNDA4OTU2MiwxMDA2OTg0
-NDM3LDE5NDc1NTYzOTYsMTM4OTY4NjM0MiwxNzY0MTMzNDcxLD
-EwOTA2MzM4ODcsLTE1ODAwMzQ3NjIsMTI5MjQxMTQ2MiwzMDU3
-OTYwMzddfQ==
+eyJoaXN0b3J5IjpbLTE5NDY3OTE3MDAsMTc5NzUyMzE2MiwtND
+Q2NDc4ODY5LC0xNjMwNTQ5NjQyLDM4NTgxNzcyOSwxMDM4MzEx
+NzY5LDEyNjc5ODgwMjAsLTY4Njc3ODAyNCw1MTQyMzAyMjgsLT
+E3MTMyMjY3NTYsODEwOTA1NTY3LC04NjEzNTk0NDksLTMzNDA4
+OTU2MiwxMDA2OTg0NDM3LDE5NDc1NTYzOTYsMTM4OTY4NjM0Mi
+wxNzY0MTMzNDcxLDEwOTA2MzM4ODcsLTE1ODAwMzQ3NjIsMTI5
+MjQxMTQ2Ml19
 -->
