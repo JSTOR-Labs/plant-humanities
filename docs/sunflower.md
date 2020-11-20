@@ -120,7 +120,7 @@ Henderson's botanical illustration highlights a trait of the sunflower that we m
 
 <param ve-entity eid="Q5928444" title="Robert John Thornton">
 <param ve-entity eid="Q103129" title="stamen" aliases="stamen(s)"> 
-<param ve-entity eid="Q62779" title="pistil" aliases="pistil(s)">  Henderson’s design for _Anatomy of the Sunflower_ also articulates Linnaeus’s contributions to botany as they relate to _Helianthus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the <span data-click-image-zoomto="2992,4439,1952,1782">lower right corner of _Anatomy of the Sunflower_,</span> where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book _[New illustration of the sexual system of Carolus von Linnaeus](http://id.lib.harvard.edu/alma/990075420710203941/catalog)_.
+<param ve-entity eid="Q62779" title="pistil" aliases="pistil(s)">  Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiveness while also articulating Linnaeus’s contributions to botany as they relate to _Helianthus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the <span data-click-image-zoomto="2992,4439,1952,1782">lower right corner of _Anatomy of the Sunflower_,</span> where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book _[New illustration of the sexual system of Carolus von Linnaeus](http://id.lib.harvard.edu/alma/990075420710203941/catalog)_.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="9">
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="11">
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzE4MDg3NCwzODU4MTc3MjksMTAzOD
-MxMTc2OSwxMjY3OTg4MDIwLC02ODY3NzgwMjQsNTE0MjMwMjI4
-LC0xNzEzMjI2NzU2LDgxMDkwNTU2NywtODYxMzU5NDQ5LC0zMz
-QwODk1NjIsMTAwNjk4NDQzNywxOTQ3NTU2Mzk2LDEzODk2ODYz
-NDIsMTc2NDEzMzQ3MSwxMDkwNjMzODg3LC0xNTgwMDM0NzYyLD
-EyOTI0MTE0NjIsMzA1Nzk2MDM3LC03OTQ0NzIyMyw3MDUxNjUy
-MjNdfQ==
+eyJoaXN0b3J5IjpbLTE2MzA1NDk2NDIsMzg1ODE3NzI5LDEwMz
+gzMTE3NjksMTI2Nzk4ODAyMCwtNjg2Nzc4MDI0LDUxNDIzMDIy
+OCwtMTcxMzIyNjc1Niw4MTA5MDU1NjcsLTg2MTM1OTQ0OSwtMz
+M0MDg5NTYyLDEwMDY5ODQ0MzcsMTk0NzU1NjM5NiwxMzg5Njg2
+MzQyLDE3NjQxMzM0NzEsMTA5MDYzMzg4NywtMTU4MDAzNDc2Mi
+wxMjkyNDExNDYyLDMwNTc5NjAzNywtNzk0NDcyMjMsNzA1MTY1
+MjIzXX0=
 -->
