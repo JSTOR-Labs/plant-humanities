@@ -95,7 +95,7 @@ Both Hernández and Dodoens participated in a transregional network of Europeans
 <param ve-entity eid="Q112110" title="emblem">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals and emblems.[^ref18] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly half of the composition to describing the pert head of a blooming sunflower so that whoever encountered the picture would  his loyalty to his patron.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals and emblems.[^ref18] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly half of the composition to describing the pert head of a blooming sunflower--a floral embodiment of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
@@ -218,7 +218,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ1MDk1OTcsLTY4Njc3ODAyNCw1MT
+eyJoaXN0b3J5IjpbLTE3OTc3ODA0MDIsLTY4Njc3ODAyNCw1MT
 QyMzAyMjgsLTE3MTMyMjY3NTYsODEwOTA1NTY3LC04NjEzNTk0
 NDksLTMzNDA4OTU2MiwxMDA2OTg0NDM3LDE5NDc1NTYzOTYsMT
 M4OTY4NjM0MiwxNzY0MTMzNDcxLDEwOTA2MzM4ODcsLTE1ODAw
