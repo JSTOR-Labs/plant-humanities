@@ -140,15 +140,15 @@ During the latter half of the nineteenth century, a period of rapid industraliza
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
 <param ve-entity eid="Q181916" title="herbarium">
-Contrary to what is most often portrayed in images and texts, their palette is not limited to yellow.We may also be surprised to discover the diversity within the genus _Helianthus_. Indeed, there are more than fifty accepted species grouped under Helianthus and, 
+Contrary to what is most often portrayed in images and texts, the palette of _Helianthus_ is not limited to yellow. Indeed, there are more than fifty accepted species grouped under _Helianthus_ and, 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
- Their color can range from gold to orange to red and even an unexpected shade of pink. Species also vary in terms of size and the number and shape of their leaves and flower heads, as demonstrated by these herbarium sheets with dried _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke). The specimens also dispel the notion that sunflowers only have one large blossom per stock.
+their color can range from gold to orange to red and even an unexpected shade of pink. Species also vary in terms of size and the number and shape of their leaves and flower heads, as demonstrated by these herbarium sheets with dried _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke). The specimens also dispel the notion that sunflowers only have one large blossom per stock.
 <param ve-plant-specimen eid="Q171497" max="1">
 <param ve-plant-specimen eid="Q12212017" max="1">
 <param ve-plant-specimen eid="Q146190" max="1">
 
 <param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
-Sunflower seeds also exhibit similar varience. Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets.
+Sunflower seeds also exhibit similar variations in size, color, and markings. Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets.
 <param ve-image fit="contain" primary url="https://s3.amazonaws.com/PEM_artscape/e301826_painting_image/large.jpg" title="Bruce Hathale (Diné (Navajo)), _Big Gods on Whirling Logs, Big Godway. Guardian of Two Sunflower Plants_, early 1990s, acrylic on linen, Gift from James and Margie Krebs Collection of Native American Art, Peabody Essex Museum">
 
 
@@ -221,7 +221,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzY1NzEyNyw4NTU5NzQ2MjUsLTQ3MT
+eyJoaXN0b3J5IjpbMTkzNjM0MjkwMCw4NTU5NzQ2MjUsLTQ3MT
 k4MzA5MSwtMTA5ODk5MDE0LC0xMjQ3Nzc1MjU4LDEzMTAzMTU4
 ODEsMTcxMjQ5NTAxOCwxMzcyNDA2NDk1LC0xOTQ2NzkxNzAwLD
 E3OTc1MjMxNjIsLTQ0NjQ3ODg2OSwtMTYzMDU0OTY0MiwzODU4
