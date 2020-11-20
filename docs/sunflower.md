@@ -149,7 +149,7 @@ their color can range from gold to orange to red to dark purple and even an unex
 <param ve-plant-specimen eid="Q146190" max="1">
 
 <param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
-Sunflower seeds also exhibit similar variations in size, color, and markings. They can be solid black or gray, and with stripes or mottled patterns. The Hopi tribe grow a sunflower with black seeds that they use to dye vegetal fibers when making baskets. That practice evidence tribal plant knowledge, while also communicating cultural and spiritual beliefs related to sunflower and the sun. According to the [Native American Ethnobotany Database](http://naeb.brit.org/uses/search/?string=sunflower), Indigenous peoples of North America also use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially.
+Sunflower seeds also exhibit similar variations in size, color, and markings. They can be solid black or gray, and with stripes or mottled patterns. The Hopi tribe grow a sunflower with black seeds that they use to dye vegetal fibers when making baskets. Those dying and basketmaking practices were gendered feminine, evidences tribal plant knowledge, while also communicating cultural and spiritual beliefs related to sunflowers. According to the [Native American Ethnobotany Database](http://naeb.brit.org/uses/search/?string=sunflower), Indigenous peoples of North America also use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially.
 <param ve-image fit="contain" primary url="https://s3.amazonaws.com/PEM_artscape/e301826_painting_image/large.jpg" title="Bruce Hathale (Diné (Navajo)), _Big Gods on Whirling Logs, Big Godway. Guardian of Two Sunflower Plants_, early 1990s, acrylic on linen, Gift from James and Margie Krebs Collection of Native American Art, Peabody Essex Museum">
 
 
@@ -221,11 +221,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTkyMTU0MSwtMTU0MjUzMzM2MywxOT
-IyODExNTI5LDEwOTAzOTM0MTQsODU1OTc0NjI1LC00NzE5ODMw
-OTEsLTEwOTg5OTAxNCwtMTI0Nzc3NTI1OCwxMzEwMzE1ODgxLD
-E3MTI0OTUwMTgsMTM3MjQwNjQ5NSwtMTk0Njc5MTcwMCwxNzk3
-NTIzMTYyLC00NDY0Nzg4NjksLTE2MzA1NDk2NDIsMzg1ODE3Nz
-I5LDEwMzgzMTE3NjksMTI2Nzk4ODAyMCwtNjg2Nzc4MDI0LDUx
-NDIzMDIyOF19
+eyJoaXN0b3J5IjpbOTkzMjQ5MjAxLDE1MDU5MjE1NDEsLTE1ND
+I1MzMzNjMsMTkyMjgxMTUyOSwxMDkwMzkzNDE0LDg1NTk3NDYy
+NSwtNDcxOTgzMDkxLC0xMDk4OTkwMTQsLTEyNDc3NzUyNTgsMT
+MxMDMxNTg4MSwxNzEyNDk1MDE4LDEzNzI0MDY0OTUsLTE5NDY3
+OTE3MDAsMTc5NzUyMzE2MiwtNDQ2NDc4ODY5LC0xNjMwNTQ5Nj
+QyLDM4NTgxNzcyOSwxMDM4MzExNzY5LDEyNjc5ODgwMjAsLTY4
+Njc3ODAyNF19
 -->
