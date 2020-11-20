@@ -37,11 +37,11 @@ It is important to note that ancient, medieval, and early modern herbals were by
 <param ve-image
        title="Herbario nuouo, Castore Durante"
        attribution="Via BHL"
-       url="https://www.biodiversitylibrary.org/image/page/49828671">
+       url="https://www.biodiversitylibrary.org/pageimage/49828671">
 <param ve-image
        title="I discorsi by M. Pietro Andrea Matthioli"
        attribution="Via BHL"
-       url="https://www.biodiversitylibrary.org/image/page/51721921">
+       url="https://www.biodiversitylibrary.org/pageimage/51721921">
 
 Additionally, historians of early modern medicine have demonstrated that elite and middling European women actively read printed vernacular medical books such as herbals and advice manuals in addition to collecting medicinal recipes, since they were expected to have general medical knowledge in order to fulfill their Christian duties as wives, mothers, and caregivers, both within the home and the community.  Recipe collections are particularly telling when assessing the intersection of learned and lay medicine. Recipes collected and circulated by elite women often incorporated, combined, or refined medicinal knowledge found in herbals. For example, in a set of seventeenth century handwritten recipes dealing with issues of conception, the author, Rebecca Winch (d. 1713), listed the ingredients for a potion used for “purging the wombe from all hurtfull or superfillus humers which hinder conception.” The ingredients for the potion included mugwort, pennyroyal, and dittany of Crete, all commonly described as substances that provoke menstruation, birth, and afterbirth in early modern herbals. (image of the recipe)
 <param ve-image
