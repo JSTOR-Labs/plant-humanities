@@ -28,9 +28,20 @@ One such lore was the power of dittany for women’s health. According to Diosco
        url="http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg.pl?coll=schoenberg&subcoll=ljs419&image=ljs419_body0057.sid&level=2">
 
 By the early modern period, dittany was often described in herbals in three forms. The first was true dittany, a rare herb which grew only on rocky cliffs on the island of Crete. The second was white dittany (sometimes called fraxinella), and the third was bastard or false dittany. Today, these correlate to three different species across three related genera—Origanum dictamnus, Dictamnus albus, and Ballota pseudodictamnus respectively. While we now classify dittany as three distinct species, in early modern herbals the main differences between the three were origin and, most importantly, potency. Whether described in two or three forms, all types of dittany in early modern herbals continued to be classified as a potent emmenagogue and an expellant for both a fetus and afterbirth. (specimens of each)
+<param ve-plant-specimen eid="Q1227336" max="1">
+<param ve-plant-specimen eid="Q2643074" max="1">
+<param ve-plant-specimen eid="Q15345437" max="1">
 
 ### Herbals and Women’s Medical Knowledge 
 It is important to note that ancient, medieval, and early modern herbals were by and large written by men and were the product of a learned textual tradition rather than lay or common knowledge.  As such, the simple appearance of dittany as an herb for women’s health in herbals is not sufficient evidence to suggest that women knew the plant’s medicinal virtues and used it accordingly. However, while the initial production of early modern herbals was spurred by learned medical humanist seeking to elucidating classical scholarship to produce more useful guides for identifying medicinal plants, the popularity and proliferation of herbals increased substantially over the course of the sixteenth and seventeenth centuries. This indicates that herbals were consumed by an increasingly larger audience. Furthermore, many herbals produced in the late 16th century, such as Castore Durante’s 1585 Roman herbal, were simplified versions of more complicated Latin herbals, written in the vernacular and, thus, far more accessible to a wider, albeit literate, audience. (compare Durante and Mattioli’s dittany entries)
+<param ve-image
+       title="Herbario nuouo, Castore Durante"
+       attribution="Via BHL"
+       url="https://www.biodiversitylibrary.org/image/page/49828671">
+<param ve-image
+       title="I discorsi by M. Pietro Andrea Matthioli"
+       attribution="Via BHL"
+       url="https://www.biodiversitylibrary.org/image/page/51721921">
 
 Additionally, historians of early modern medicine have demonstrated that elite and middling European women actively read printed vernacular medical books such as herbals and advice manuals in addition to collecting medicinal recipes, since they were expected to have general medical knowledge in order to fulfill their Christian duties as wives, mothers, and caregivers, both within the home and the community.  Recipe collections are particularly telling when assessing the intersection of learned and lay medicine. Recipes collected and circulated by elite women often incorporated, combined, or refined medicinal knowledge found in herbals. For example, in a set of seventeenth century handwritten recipes dealing with issues of conception, the author, Rebecca Winch (d. 1713), listed the ingredients for a potion used for “purging the wombe from all hurtfull or superfillus humers which hinder conception.” The ingredients for the potion included mugwort, pennyroyal, and dittany of Crete, all commonly described as substances that provoke menstruation, birth, and afterbirth in early modern herbals. (image of the recipe)
 <param ve-image
