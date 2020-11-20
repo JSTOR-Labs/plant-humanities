@@ -94,7 +94,7 @@ Both Hernández and Dodoens participated in a transregional network of Europeans
 <param ve-entity eid="Q112110" title="emblem">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals and emblems.[^ref18] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head of a blooming sunflower--a floral embodiment of his loyalty to his patron.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals and emblems.[^ref18] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower--a floral embodiment of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
@@ -217,11 +217,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2MTczNzQ2LC0xMjQ3Nzc1MjU4LDEzMT
-AzMTU4ODEsMTcxMjQ5NTAxOCwxMzcyNDA2NDk1LC0xOTQ2Nzkx
-NzAwLDE3OTc1MjMxNjIsLTQ0NjQ3ODg2OSwtMTYzMDU0OTY0Mi
-wzODU4MTc3MjksMTAzODMxMTc2OSwxMjY3OTg4MDIwLC02ODY3
-NzgwMjQsNTE0MjMwMjI4LC0xNzEzMjI2NzU2LDgxMDkwNTU2Ny
-wtODYxMzU5NDQ5LC0zMzQwODk1NjIsMTAwNjk4NDQzNywxOTQ3
-NTU2Mzk2XX0=
+eyJoaXN0b3J5IjpbLTk0MDc3ODE3MywtMTI0Nzc3NTI1OCwxMz
+EwMzE1ODgxLDE3MTI0OTUwMTgsMTM3MjQwNjQ5NSwtMTk0Njc5
+MTcwMCwxNzk3NTIzMTYyLC00NDY0Nzg4NjksLTE2MzA1NDk2ND
+IsMzg1ODE3NzI5LDEwMzgzMTE3NjksMTI2Nzk4ODAyMCwtNjg2
+Nzc4MDI0LDUxNDIzMDIyOCwtMTcxMzIyNjc1Niw4MTA5MDU1Nj
+csLTg2MTM1OTQ0OSwtMzM0MDg5NTYyLDEwMDY5ODQ0MzcsMTk0
+NzU1NjM5Nl19
 -->
