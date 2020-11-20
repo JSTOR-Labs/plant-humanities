@@ -81,7 +81,7 @@ In the late 1500s, it was common for herbalists to appropriate illustrations and
 
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-image iiif primary fit="contain" url="https://ia800805.us.archive.org/BookReader/BookReaderImages.php?id=novaplantarumani00hern&itemPath=%2F5%2Fitems%2Fnovaplantarumani00hern&server=ia800805.us.archive.org&page=n245_w820" title="Hernández, Francisco, _Nova plantarum, animalium et mineralium Mexicanorum historia_, 1651, John Carter Brown Library">
-The migration of sunflower iconography is also evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_ (1651).[^ref17] The book purports to document plants and animals that Hernández and his team, which included several indigenous artists, observed during a three-year expedition through Mexico in the 1570s. However, its illustrations of sunflowers, shown here, were not drawn on-site from local plants but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait made under Besler’s direction for inclusion in _Hortus Eystettensis_. <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from a 1619 French-language translation of a text by Monardes, or a similar precedent. These appropriations have been interpreted as evidence that Hernández’s team of artists had to copy existing imagery because the sunflower was not yet established in Mexico at the time. If that were so, Hernández’s inclusion of the sunflower in his manuscript recounted a mythic encounter with the plant, reproducing European misconceptions about its range.
+The migration of sunflower iconography is also evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_ (1651).[^ref17] The book purports to document plants and animals that Hernández and his team, which included several indigenous artists, observed during a three-year expedition through Mexico in the 1570s. However, its illustrations of sunflowers, shown here, were not drawn on-site from local plants but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait made under Besler’s direction for inclusion in _Hortus Eystettensis_. <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from a 1619 French-language translation of a text by Monardes, or a similar precedent. These appropriations have been interpreted as evidence that Hernández’s team of artists had to copy existing imagery because the sunflower was not yet established in Mexico at the time. If that were so, Hernández’s inclusion of the sunflower in his manuscript recounted a mythic encounter with the plant, reproducing European misconceptions about its range that scientists would later dispute.
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, Missouri Botanical Garden">
 
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODIyMDEzNywtNjg2Nzc4MDI0LDUxND
-IzMDIyOCwtMTcxMzIyNjc1Niw4MTA5MDU1NjcsLTg2MTM1OTQ0
-OSwtMzM0MDg5NTYyLDEwMDY5ODQ0MzcsMTk0NzU1NjM5NiwxMz
-g5Njg2MzQyLDE3NjQxMzM0NzEsMTA5MDYzMzg4NywtMTU4MDAz
-NDc2MiwxMjkyNDExNDYyLDMwNTc5NjAzNywtNzk0NDcyMjMsNz
-A1MTY1MjIzLDQxNDc4MDM3OCwtNTIxMzU3NTU3LDI2Njg0NDM5
-NV19
+eyJoaXN0b3J5IjpbLTE5MDMzMDYzODQsLTY4Njc3ODAyNCw1MT
+QyMzAyMjgsLTE3MTMyMjY3NTYsODEwOTA1NTY3LC04NjEzNTk0
+NDksLTMzNDA4OTU2MiwxMDA2OTg0NDM3LDE5NDc1NTYzOTYsMT
+M4OTY4NjM0MiwxNzY0MTMzNDcxLDEwOTA2MzM4ODcsLTE1ODAw
+MzQ3NjIsMTI5MjQxMTQ2MiwzMDU3OTYwMzcsLTc5NDQ3MjIzLD
+cwNTE2NTIyMyw0MTQ3ODAzNzgsLTUyMTM1NzU1NywyNjY4NDQz
+OTVdfQ==
 -->
