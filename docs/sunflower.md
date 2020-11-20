@@ -128,7 +128,7 @@ Henderson's botanical illustration highlights a trait of the sunflower that we m
 
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
-During the latter half of the nineteenth century, a period of rapid industralization and urbanization in Europe, some painters developed new visual languages for representing sunflowers to explore the subjective experiences of encountering plants. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plants's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to poignantly affect our emotions or spirituality. In those ways, the pictures model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire. We may also read the paintings as _memento mori_, or reminders of a withering connection to and impending loss of nature in the face of modernity, coincident with a growing realization about the need to conserve woods and trees.
+During the latter half of the nineteenth century, a period of rapid industralization and urbanization in Europe, some painters developed new visual languages for representing sunflowers to explore the subjective experiences of encountering plants. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plants's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir emotions or disclose spirituality meanings. The artists engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire. We may also read the paintings as _memento mori_, or reminders of a withering connection to and impending loss of nature in the face of modernity, coincident with a growing realization about the need to conserve woods and trees.
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-entity eid="Q273383" title="Memento mori">
 <param ve-entity eid="Q202398" title="industrialization">
@@ -221,11 +221,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5MDg2MjY3LDY2MjE3MjkxOSw0MTAwMD
-E3NTYsLTEzMjAwNTkxOTcsMTczOTgzMDE4MSwxNTA1OTIxNTQx
-LC0xNTQyNTMzMzYzLDE5MjI4MTE1MjksMTA5MDM5MzQxNCw4NT
-U5NzQ2MjUsLTQ3MTk4MzA5MSwtMTA5ODk5MDE0LC0xMjQ3Nzc1
-MjU4LDEzMTAzMTU4ODEsMTcxMjQ5NTAxOCwxMzcyNDA2NDk1LC
-0xOTQ2NzkxNzAwLDE3OTc1MjMxNjIsLTQ0NjQ3ODg2OSwtMTYz
-MDU0OTY0Ml19
+eyJoaXN0b3J5IjpbLTE5MTY2MDU1NTQsNjYyMTcyOTE5LDQxMD
+AwMTc1NiwtMTMyMDA1OTE5NywxNzM5ODMwMTgxLDE1MDU5MjE1
+NDEsLTE1NDI1MzMzNjMsMTkyMjgxMTUyOSwxMDkwMzkzNDE0LD
+g1NTk3NDYyNSwtNDcxOTgzMDkxLC0xMDk4OTkwMTQsLTEyNDc3
+NzUyNTgsMTMxMDMxNTg4MSwxNzEyNDk1MDE4LDEzNzI0MDY0OT
+UsLTE5NDY3OTE3MDAsMTc5NzUyMzE2MiwtNDQ2NDc4ODY5LC0x
+NjMwNTQ5NjQyXX0=
 -->
