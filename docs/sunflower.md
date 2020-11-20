@@ -142,7 +142,7 @@ During the latter half of the nineteenth century, a period of rapid industraliza
 <param ve-entity eid="Q181916" title="herbarium">
 Contrary to what is most often portrayed in images and texts, the palette of _Helianthus_ is not limited to yellow. Indeed, there are more than fifty accepted species grouped under _Helianthus_ and, 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
-their color can range from gold to orange to red and even an unexpected shade of pink. Species also vary in terms of size and the number and shape of their leaves and flower heads, as demonstrated by these herbarium sheets with dried _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke). The specimens also dispel the notion that sunflowers only have one large blossom per stock.
+their color can range from gold to orange to red to dark purple and even an unexpected shade of pink. Species also vary in terms of size and the number and shape of their leaves and flower heads, as demonstrated by these herbarium sheets with dried _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke). The specimens also dispel the notion that sunflowers only have one large blossom per stock.
 <param ve-plant-specimen eid="Q171497" max="1">
 <param ve-plant-specimen eid="Q12212017" max="1">
 <param ve-plant-specimen eid="Q146190" max="1">
@@ -220,11 +220,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDM5MzQxNCw4NTU5NzQ2MjUsLTQ3MT
-k4MzA5MSwtMTA5ODk5MDE0LC0xMjQ3Nzc1MjU4LDEzMTAzMTU4
-ODEsMTcxMjQ5NTAxOCwxMzcyNDA2NDk1LC0xOTQ2NzkxNzAwLD
-E3OTc1MjMxNjIsLTQ0NjQ3ODg2OSwtMTYzMDU0OTY0MiwzODU4
-MTc3MjksMTAzODMxMTc2OSwxMjY3OTg4MDIwLC02ODY3NzgwMj
-QsNTE0MjMwMjI4LC0xNzEzMjI2NzU2LDgxMDkwNTU2NywtODYx
-MzU5NDQ5XX0=
+eyJoaXN0b3J5IjpbMTkyMjgxMTUyOSwxMDkwMzkzNDE0LDg1NT
+k3NDYyNSwtNDcxOTgzMDkxLC0xMDk4OTkwMTQsLTEyNDc3NzUy
+NTgsMTMxMDMxNTg4MSwxNzEyNDk1MDE4LDEzNzI0MDY0OTUsLT
+E5NDY3OTE3MDAsMTc5NzUyMzE2MiwtNDQ2NDc4ODY5LC0xNjMw
+NTQ5NjQyLDM4NTgxNzcyOSwxMDM4MzExNzY5LDEyNjc5ODgwMj
+AsLTY4Njc3ODAyNCw1MTQyMzAyMjgsLTE3MTMyMjY3NTYsODEw
+OTA1NTY3XX0=
 -->
