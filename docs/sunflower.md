@@ -149,7 +149,7 @@ their color can range from gold to orange to red to dark purple and even an unex
 <param ve-plant-specimen eid="Q146190" max="1">
 
 <param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
-Sunflower seeds also exhibit similar variations in size, color, and markings. They can be solid black or gray, and with stripes or mottled patterns. The Hopi tribe grow a sunflower with black seeds that they use to dye vegetal fibers when making baskets. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun.Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. 
+Sunflower seeds also exhibit similar variations in size, color, and markings. They can be solid black or gray, and with stripes or mottled patterns. The Hopi tribe grow a sunflower with black seeds that they use to dye vegetal fibers when making baskets. That practice evidence tribal plant knowledge, while also communicating cultural and spiritual beliefs related to sunflower and the sun. Indigenous peoples of North America also use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially.
 <param ve-image fit="contain" primary url="https://s3.amazonaws.com/PEM_artscape/e301826_painting_image/large.jpg" title="Bruce Hathale (Diné (Navajo)), _Big Gods on Whirling Logs, Big Godway. Guardian of Two Sunflower Plants_, early 1990s, acrylic on linen, Gift from James and Margie Krebs Collection of Native American Art, Peabody Essex Museum">
 
 
@@ -221,7 +221,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQ1ODk1NzgsMTkyMjgxMTUyOSwxMD
+eyJoaXN0b3J5IjpbLTE1NDI1MzMzNjMsMTkyMjgxMTUyOSwxMD
 kwMzkzNDE0LDg1NTk3NDYyNSwtNDcxOTgzMDkxLC0xMDk4OTkw
 MTQsLTEyNDc3NzUyNTgsMTMxMDMxNTg4MSwxNzEyNDk1MDE4LD
 EzNzI0MDY0OTUsLTE5NDY3OTE3MDAsMTc5NzUyMzE2MiwtNDQ2
