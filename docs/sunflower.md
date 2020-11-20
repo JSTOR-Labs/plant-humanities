@@ -113,7 +113,7 @@ In the late eighteenth and early nineteenth centuries, botanical illustrators de
 
 <param ve-entity eid="Q14847254" title="Compositae"> 
 <param ve-entity eid="Q30765614" title="floret"> 
-Henderson's botanical illustration highlights a trait of the sunflower that we may overlook: its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets. This diagram of a mature flower head shows that its disk consists of florets and that what we generally call “petals” are actually ray florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own seed after pollination.  To appreciate the elegant geometry of a sunflower whirl and details remind us that the study of flora and art are endeavors rooted in the practices of direct observation and visual analysis.
+Henderson's botanical illustration highlights a trait of the sunflower that we may overlook: its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets. This diagram of a mature flower head shows that its disk consists of florets and that what we generally call “petals” are actually ray florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own seed after pollination. To perceive these  sunflower whirl and details remind us that the study of flora and art are endeavors rooted in the practices of direct observation and visual analysis.
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Helianthus whirl, attributed to L. Shyamal © Creative Commons Attribution-Share Alike 2.5">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg">
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ5MzczNjIsMTAzODMxMTc2OSwxMj
-Y3OTg4MDIwLC02ODY3NzgwMjQsNTE0MjMwMjI4LC0xNzEzMjI2
-NzU2LDgxMDkwNTU2NywtODYxMzU5NDQ5LC0zMzQwODk1NjIsMT
-AwNjk4NDQzNywxOTQ3NTU2Mzk2LDEzODk2ODYzNDIsMTc2NDEz
-MzQ3MSwxMDkwNjMzODg3LC0xNTgwMDM0NzYyLDEyOTI0MTE0Nj
-IsMzA1Nzk2MDM3LC03OTQ0NzIyMyw3MDUxNjUyMjMsNDE0Nzgw
-Mzc4XX0=
+eyJoaXN0b3J5IjpbMzg1ODE3NzI5LDEwMzgzMTE3NjksMTI2Nz
+k4ODAyMCwtNjg2Nzc4MDI0LDUxNDIzMDIyOCwtMTcxMzIyNjc1
+Niw4MTA5MDU1NjcsLTg2MTM1OTQ0OSwtMzM0MDg5NTYyLDEwMD
+Y5ODQ0MzcsMTk0NzU1NjM5NiwxMzg5Njg2MzQyLDE3NjQxMzM0
+NzEsMTA5MDYzMzg4NywtMTU4MDAzNDc2MiwxMjkyNDExNDYyLD
+MwNTc5NjAzNywtNzk0NDcyMjMsNzA1MTY1MjIzLDQxNDc4MDM3
+OF19
 -->
