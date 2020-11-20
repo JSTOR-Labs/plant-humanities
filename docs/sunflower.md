@@ -99,7 +99,7 @@ By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
-Europeans associated sunflowers with the human sentimentas of loyalty, devotion, and constancy because the plant's heliotropic phase recalled the ancient Greek myth of the sun-god Helios and the sea nymph Clytie.[^ref18] According to the myth, Clytie competed unsuccessfully for the heart of Helios. Scorned by him and shunned by her fellow nymphs, Clytie wasted away while she trained her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope that moved in concert with the sun's rays. Yet, as this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie in their pictures by replacing traditional floral imagery with a sunflower.[^ref19] Even today, the myth continues to be enmeshed with the sunflower: Elizabeth Colomba’s 2007 [watercolor](https://artmuseum.princeton.edu/collections/objects/127332) casts a black woman as Clytie, claiming a space for the black body within visual codes for representing mythological narratives that have been conventionally reserved for white ones.
+Europeans associated sunflowers with the human sentiments of loyalty, devotion, and constancy because the plant's heliotropic phase recalled how, ancient Greek myth in which the sea nymph Clytie pines for the sun-god Helios.[^ref18] According to the story, Clytie competed unsuccessfully for the heart of Helios. Scorned by him and shunned by her fellow nymphs, Clytie wasted away while she trained her steadfast gaze upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope that moved in concert with the sun's rays. Yet, as this print shows, many seventeenth-century European artists reinterpreted the myth of Helios and Clytie in their pictures by replacing traditional floral imagery with a sunflower.[^ref19] Even today, the myth continues to be enmeshed with the sunflower: Elizabeth Colomba’s 2007 [watercolor](https://artmuseum.princeton.edu/collections/objects/127332) casts a black woman as Clytie, claiming a space for the black body within visual codes for representing mythological narratives that have been conventionally reserved for white ones.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc3ODA0MDIsLTY4Njc3ODAyNCw1MT
-QyMzAyMjgsLTE3MTMyMjY3NTYsODEwOTA1NTY3LC04NjEzNTk0
-NDksLTMzNDA4OTU2MiwxMDA2OTg0NDM3LDE5NDc1NTYzOTYsMT
-M4OTY4NjM0MiwxNzY0MTMzNDcxLDEwOTA2MzM4ODcsLTE1ODAw
-MzQ3NjIsMTI5MjQxMTQ2MiwzMDU3OTYwMzcsLTc5NDQ3MjIzLD
-cwNTE2NTIyMyw0MTQ3ODAzNzgsLTUyMTM1NzU1NywyNjY4NDQz
-OTVdfQ==
+eyJoaXN0b3J5IjpbNTU0MzIyODI3LC02ODY3NzgwMjQsNTE0Mj
+MwMjI4LC0xNzEzMjI2NzU2LDgxMDkwNTU2NywtODYxMzU5NDQ5
+LC0zMzQwODk1NjIsMTAwNjk4NDQzNywxOTQ3NTU2Mzk2LDEzOD
+k2ODYzNDIsMTc2NDEzMzQ3MSwxMDkwNjMzODg3LC0xNTgwMDM0
+NzYyLDEyOTI0MTE0NjIsMzA1Nzk2MDM3LC03OTQ0NzIyMyw3MD
+UxNjUyMjMsNDE0NzgwMzc4LC01MjEzNTc1NTcsMjY2ODQ0Mzk1
+XX0=
 -->
