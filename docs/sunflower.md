@@ -11,7 +11,7 @@
 _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants domesticated by humans in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and nearly twice that when supported.[^ref2]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
-Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the art world. Like the supersized flower in this plant portrait, _H. annuus_ looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. 
+Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the art world. Like the supersized flower in this plant portrait, _H. annuus_ looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. These visual representations shape and are shaped by our interactions with plants.
 
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
@@ -217,11 +217,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTY4NjM0MiwxNzY0MTMzNDcxLDEwOT
-A2MzM4ODcsLTE1ODAwMzQ3NjIsMTI5MjQxMTQ2MiwzMDU3OTYw
-MzcsLTc5NDQ3MjIzLDcwNTE2NTIyMyw0MTQ3ODAzNzgsLTUyMT
-M1NzU1NywyNjY4NDQzOTUsLTgwMDAzNjQ4OCwzMjM0NTE3Mjcs
-LTE0NzgwMTU5NCwxODcxODg0ODg5LC0xOTI4NTg5ODAwLC0xOT
-g4NjMwMTk2LC04Nzc2MjA3ODIsLTEzNTkwMDQwNTEsNzYxNzE5
-NTg5XX0=
+eyJoaXN0b3J5IjpbMTk0NzU1NjM5NiwxMzg5Njg2MzQyLDE3Nj
+QxMzM0NzEsMTA5MDYzMzg4NywtMTU4MDAzNDc2MiwxMjkyNDEx
+NDYyLDMwNTc5NjAzNywtNzk0NDcyMjMsNzA1MTY1MjIzLDQxND
+c4MDM3OCwtNTIxMzU3NTU3LDI2Njg0NDM5NSwtODAwMDM2NDg4
+LDMyMzQ1MTcyNywtMTQ3ODAxNTk0LDE4NzE4ODQ4ODksLTE5Mj
+g1ODk4MDAsLTE5ODg2MzAxOTYsLTg3NzYyMDc4MiwtMTM1OTAw
+NDA1MV19
 -->
