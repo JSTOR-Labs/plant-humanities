@@ -148,7 +148,7 @@ their color can range from gold to orange to red and even an unexpected shade of
 <param ve-plant-specimen eid="Q146190" max="1">
 
 <param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
-Sunflower seeds also exhibit similar variations in size, color, and markings. Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets.
+Sunflower seeds also exhibit similar variations in size, color, and markings. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets. Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun.
 <param ve-image fit="contain" primary url="https://s3.amazonaws.com/PEM_artscape/e301826_painting_image/large.jpg" title="Bruce Hathale (Diné (Navajo)), _Big Gods on Whirling Logs, Big Godway. Guardian of Two Sunflower Plants_, early 1990s, acrylic on linen, Gift from James and Margie Krebs Collection of Native American Art, Peabody Essex Museum">
 
 
@@ -171,7 +171,6 @@ Racial caricatures of Oscar Wilde in US disparage him by depicting black persons
 
 
 ### “Sun, sun, sun, here it comes”
-
 
 As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Of the two images in Hernández’s _Nova plantarum_, the one adapted from Besler’s _Hortus Eystettensis_ resembles what would become a visual cliché for representing the plant in other contexts.
 <param ve-image iiif region="1078,259,3906,3278"
@@ -221,7 +220,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjM0MjkwMCw4NTU5NzQ2MjUsLTQ3MT
+eyJoaXN0b3J5IjpbMTA5MDM5MzQxNCw4NTU5NzQ2MjUsLTQ3MT
 k4MzA5MSwtMTA5ODk5MDE0LC0xMjQ3Nzc1MjU4LDEzMTAzMTU4
 ODEsMTcxMjQ5NTAxOCwxMzcyNDA2NDk1LC0xOTQ2NzkxNzAwLD
 E3OTc1MjMxNjIsLTQ0NjQ3ODg2OSwtMTYzMDU0OTY0MiwzODU4
