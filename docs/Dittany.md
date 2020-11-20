@@ -23,9 +23,9 @@ By the beginning of the Medieval period, the works of classical authors such as 
 
 One such lore was the power of dittany for women’s health. According to Dioscorides, arguably the most influential ancient author on medicinal herbs, “diktamnos” was a hot plant with woolly leaves, and true dittany grew only on the island of Crete. Like Pliny, Dioscorides described the medical virtues of dittany (and bastard dittany) for women, which he said when drunk, used as suppository (pessary), or burned as incense had the power to expel a dead fetus. Dioscorides’s De Materia Medica served as the foundational text for most European herbal manuscripts. As such, Dioscorides’s description of dittany, as well as his claim that it had the power to quicken birth and expel a dead fetus, was repeated in Medieval herbal manuscripts as well as early modern printed herbals. (dittany in Pseudo-Ap)
 <param ve-image
-       title="Foetal positions in womb, illustration to Soranus, Gynaecia (Manuscript: Brussels, Bibliothèque Royale, ms. 3701-15, fol. 28r)"
-       attribution="Anonymous Unknown author, Public domain, via Wikimedia Commons"
-       url="https://upload.wikimedia.org/wikipedia/commons/2/21/Foetal_positions_BR_3701-15_28r.jpg">
+       title="'Ditamo bianco' (Origanum dictamnus, dittany of Crete)"
+       attribution="[Herbal containing 192 drawings of plants], in Italian and Latin. Manuscript on paper. Veneto? Italy, S. XV, Manuscript Number: ljs419"
+       url="http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg.pl?coll=schoenberg&subcoll=ljs419&image=ljs419_body0057.sid&level=2">
 
 By the early modern period, dittany was often described in herbals in three forms. The first was true dittany, a rare herb which grew only on rocky cliffs on the island of Crete. The second was white dittany (sometimes called fraxinella), and the third was bastard or false dittany. Today, these correlate to three different species across three related genera—Origanum dictamnus, Dictamnus albus, and Ballota pseudodictamnus respectively. While we now classify dittany as three distinct species, in early modern herbals the main differences between the three were origin and, most importantly, potency. Whether described in two or three forms, all types of dittany in early modern herbals continued to be classified as a potent emmenagogue and an expellant for both a fetus and afterbirth. (specimens of each)
 
