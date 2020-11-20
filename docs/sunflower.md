@@ -129,7 +129,7 @@ Henderson's botanical illustration highlights a trait of the sunflower that we m
 
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
-During the nineteenth century, European painters who were members of the avant-garde developed unique approaches to representing sunflowers that responded to the ways that industralization and urbanization altered human interactions with plants and the natural world. Claude Monet's _Jerusalem artichoke_ presents an impression of _Helianthus tuberosus_ in which he studies how the eye perceives its color and form, whereas Vincent van Gogh's _Sunflowers_ engages with the tactile and emotive aspects of _Helianthus annuus_ by juxtaposing typical blossoms and double-flower mutants. The pictures not only show us different species, but also model for us a kind of aesthetic and phenomenological attentiveness to the plant world to which we ought to aspire.
+During the latter half of the nineteenth century, a period of rapid industralization and urbanization, some European painters developed unique approaches for representing sunflowers. Claude Monet's _Jerusalem artichoke_ presents an impression of _Helianthus tuberosus_ in which he studies how the eye perceives its color and form, whereas Vincent van Gogh's _Sunflowers_ engages with the tactile and emotive aspects of _Helianthus annuus_ by juxtaposing typical blossoms and double-flower mutants. The pictures not only show us different species, but also model for us a kind of aesthetic and phenomenological attentiveness to the plant world to which we ought to aspire.
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflowers%20Monet%20van%20Gogh%20CC.jpg" title="Claude Monet _Jerusalem artichoke_ 1880 (left), Vincent van Gogh, _Sunflower_, 1888, National Gallery London">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflowers%20compared%20to%20van%20Gogh%20painting.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
@@ -218,7 +218,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjY4NDkwNywtMTYzMDU0OTY0MiwzOD
+eyJoaXN0b3J5IjpbLTQ0NjQ3ODg2OSwtMTYzMDU0OTY0MiwzOD
 U4MTc3MjksMTAzODMxMTc2OSwxMjY3OTg4MDIwLC02ODY3Nzgw
 MjQsNTE0MjMwMjI4LC0xNzEzMjI2NzU2LDgxMDkwNTU2NywtOD
 YxMzU5NDQ5LC0zMzQwODk1NjIsMTAwNjk4NDQzNywxOTQ3NTU2
