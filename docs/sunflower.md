@@ -129,6 +129,7 @@ Henderson's botanical illustration highlights a trait of the sunflower that we m
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 During the latter half of the nineteenth century, a period of rapid industralization and urbanization, some European painters developed new visual languages for representing sunflowers that manifest their subjective experiences of the plant world. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_, a species of sunflower with branched stems and multiple flower heads. He presents an impression of the plants that approximates how the human eye perceives their brilliant gold and green hues under specific light conditions. Conversely, Vincent van Gogh's _Sunflowers_ juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants, shown at different stages of life. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir our emotions or spirituality. In all of those ways, the pictures model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire. We may also read the paintings as _memento mori_, or reminders of a withering connection to and impending loss of nature in the face of modernity, as well as the birth of a conservation movement in France.
+<param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-entity eid="Q273383" title="Memento mori">
 <param ve-entity eid="Q202398" title="industrialization">
 <param ve-entity eid="Q161078" title="urbanization">
@@ -138,7 +139,6 @@ During the latter half of the nineteenth century, a period of rapid industraliza
 
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
-<param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-entity eid="Q181916" title="herbarium">
  Still life paintings provide another rich source of evidence regarding plant diversity, conveying information that cannot be preserved on herbarium sheets. We may also be surprised to discover the diversity within the genus _Helianthus_. Indeed, there are more than fifty accepted species grouped under Helianthus and, contrary to what is often portrayed in images and texts, their palette is not limited to yellow.
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
@@ -221,11 +221,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwMTkxOTEwLDg1NTk3NDYyNSwtNDcxOT
-gzMDkxLC0xMDk4OTkwMTQsLTEyNDc3NzUyNTgsMTMxMDMxNTg4
-MSwxNzEyNDk1MDE4LDEzNzI0MDY0OTUsLTE5NDY3OTE3MDAsMT
-c5NzUyMzE2MiwtNDQ2NDc4ODY5LC0xNjMwNTQ5NjQyLDM4NTgx
-NzcyOSwxMDM4MzExNzY5LDEyNjc5ODgwMjAsLTY4Njc3ODAyNC
-w1MTQyMzAyMjgsLTE3MTMyMjY3NTYsODEwOTA1NTY3LC04NjEz
-NTk0NDldfQ==
+eyJoaXN0b3J5IjpbLTE5MzUzODc0MTgsODU1OTc0NjI1LC00Nz
+E5ODMwOTEsLTEwOTg5OTAxNCwtMTI0Nzc3NTI1OCwxMzEwMzE1
+ODgxLDE3MTI0OTUwMTgsMTM3MjQwNjQ5NSwtMTk0Njc5MTcwMC
+wxNzk3NTIzMTYyLC00NDY0Nzg4NjksLTE2MzA1NDk2NDIsMzg1
+ODE3NzI5LDEwMzgzMTE3NjksMTI2Nzk4ODAyMCwtNjg2Nzc4MD
+I0LDUxNDIzMDIyOCwtMTcxMzIyNjc1Niw4MTA5MDU1NjcsLTg2
+MTM1OTQ0OV19
 -->
