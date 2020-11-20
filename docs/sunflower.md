@@ -150,7 +150,7 @@ their color can range from gold to orange to red to dark purple and even an unex
 
 <param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
 Sunflower seeds also exhibit similar variations in size, color, and markings. They can be solid black or gray, and have stripes or mottled patterns. The Hopi tribe grow a sunflower with deep purple seeds that they harvest to produce dye for coloring vegetal and natural fibers as well as making face paint. Both dying and basketmaking practices are gendered feminine and passed on matralinealy, evidencing tribal plant knowledge while also communicating cultural and spiritual beliefs related to sunflowers. According to the [Native American Ethnobotany Database](http://naeb.brit.org/uses/search/?string=sunflower), Indigenous peoples of North America also use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially.
-<param ve-image fit="contain" primary url="https://www.human.cornell.edu/sites/default/files/styles/landscape_1600x900/public/helianthus-annuus-1.jpg?itok=5KVpk_8q" title="Hopi >
+<param ve-image fit="contain" primary url="https://www.human.cornell.edu/sites/default/files/styles/landscape_1600x900/public/helianthus-annuus-1.jpg?itok=5KVpk_8q" title="Hopi Sunflower _Helianthus Annuus_, seeds produce blue, black, and purple dye and the leaves give a range of yellow to green, Cornell University>
 
 
 ### Floral Cyphers: Portrayals of Gender, Sexual Identity, Race, and Class
@@ -221,7 +221,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODAzMzA0MCw0MTAwMDE3NTYsLTEzMj
+eyJoaXN0b3J5IjpbLTU4MTE1MzAzOSw0MTAwMDE3NTYsLTEzMj
 AwNTkxOTcsMTczOTgzMDE4MSwxNTA1OTIxNTQxLC0xNTQyNTMz
 MzYzLDE5MjI4MTE1MjksMTA5MDM5MzQxNCw4NTU5NzQ2MjUsLT
 Q3MTk4MzA5MSwtMTA5ODk5MDE0LC0xMjQ3Nzc1MjU4LDEzMTAz
