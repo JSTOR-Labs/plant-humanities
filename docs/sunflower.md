@@ -128,8 +128,8 @@ Henderson's botanical illustration highlights a trait of the sunflower that we m
 
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
-During the latter half of the nineteenth century, a period of rapid industralization and urbanization, some European painters developed new visual languages for representing sunflowers that manifest their subjective experiences of the plant world. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_, a species of sunflower with branched stems and multiple flower heads. He presents an impression of the plants that approximates how the human eye perceives their brilliant gold and green hues under specific light conditions. Conversely, Vincent van Gogh's _Sunflowers_ juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants, shown at different stages of life. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir our emotions or spirituality. In all of those ways, the pictures model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire. We may also read the paintings as _memento mori_, or reminders of a withering connection to and impending loss of nature in the face of modernity.
-<param ve-entity eid="X" title="
+During the latter half of the nineteenth century, a period of rapid industralization and urbanization, some European painters developed new visual languages for representing sunflowers that manifest their subjective experiences of the plant world. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_, a species of sunflower with branched stems and multiple flower heads. He presents an impression of the plants that approximates how the human eye perceives their brilliant gold and green hues under specific light conditions. Conversely, Vincent van Gogh's _Sunflowers_ juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants, shown at different stages of life. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir our emotions or spirituality. In all of those ways, the pictures model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire. We may also read the paintings as _memento mori_, or reminders of a withering connection to and impending loss of nature in the face of modernity, as well as a nascent conservation movement.
+<param ve-entity eid="Q273383" title="Memento mori">
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflowers%20Monet%20van%20Gogh%20CC.jpg" title="Claude Monet _Jerusalem artichoke_ 1880 (left), Vincent van Gogh, _Sunflower_, 1888, National Gallery London">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflowers%20compared%20to%20van%20Gogh%20painting.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzEzMDU1NzIsODU1OTc0NjI1LC00Nz
-E5ODMwOTEsLTEwOTg5OTAxNCwtMTI0Nzc3NTI1OCwxMzEwMzE1
-ODgxLDE3MTI0OTUwMTgsMTM3MjQwNjQ5NSwtMTk0Njc5MTcwMC
-wxNzk3NTIzMTYyLC00NDY0Nzg4NjksLTE2MzA1NDk2NDIsMzg1
-ODE3NzI5LDEwMzgzMTE3NjksMTI2Nzk4ODAyMCwtNjg2Nzc4MD
-I0LDUxNDIzMDIyOCwtMTcxMzIyNjc1Niw4MTA5MDU1NjcsLTg2
-MTM1OTQ0OV19
+eyJoaXN0b3J5IjpbMTIzODMxODQ3Miw4NTU5NzQ2MjUsLTQ3MT
+k4MzA5MSwtMTA5ODk5MDE0LC0xMjQ3Nzc1MjU4LDEzMTAzMTU4
+ODEsMTcxMjQ5NTAxOCwxMzcyNDA2NDk1LC0xOTQ2NzkxNzAwLD
+E3OTc1MjMxNjIsLTQ0NjQ3ODg2OSwtMTYzMDU0OTY0MiwzODU4
+MTc3MjksMTAzODMxMTc2OSwxMjY3OTg4MDIwLC02ODY3NzgwMj
+QsNTE0MjMwMjI4LC0xNzEzMjI2NzU2LDgxMDkwNTU2NywtODYx
+MzU5NDQ5XX0=
 -->
