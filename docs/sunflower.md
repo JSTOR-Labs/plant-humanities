@@ -149,7 +149,7 @@ their color can range from gold to orange to red to dark purple and even an unex
 <param ve-plant-specimen eid="Q146190" max="1">
 
 <param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
-Sunflower seeds also exhibit similar variations in size, color, and markings. The Hopi tribe grow a sunflower with black seeds that is used to dye natural fibers for making tapestry weavings and baskets. Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun.
+Sunflower seeds also exhibit similar variations in size, color, and markings. They can be solid black or gray, and with stripes or mottled patterns. The Hopi tribe grow a sunflower with black seeds that they use to dye natural fibers for making tapestry weavings and baskets. Indigenous peoples of North America use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. More specifically, some artists incorporate the sunflower—as a motif and a material—into their work using practices that evidence tribal plant knowledges, while also communicating cultural and spiritual beliefs related to that flower or the sun.
 <param ve-image fit="contain" primary url="https://s3.amazonaws.com/PEM_artscape/e301826_painting_image/large.jpg" title="Bruce Hathale (Diné (Navajo)), _Big Gods on Whirling Logs, Big Godway. Guardian of Two Sunflower Plants_, early 1990s, acrylic on linen, Gift from James and Margie Krebs Collection of Native American Art, Peabody Essex Museum">
 
 
@@ -221,11 +221,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyNDI5NzA4LDE5MjI4MTE1MjksMTA5MD
-M5MzQxNCw4NTU5NzQ2MjUsLTQ3MTk4MzA5MSwtMTA5ODk5MDE0
-LC0xMjQ3Nzc1MjU4LDEzMTAzMTU4ODEsMTcxMjQ5NTAxOCwxMz
-cyNDA2NDk1LC0xOTQ2NzkxNzAwLDE3OTc1MjMxNjIsLTQ0NjQ3
-ODg2OSwtMTYzMDU0OTY0MiwzODU4MTc3MjksMTAzODMxMTc2OS
-wxMjY3OTg4MDIwLC02ODY3NzgwMjQsNTE0MjMwMjI4LC0xNzEz
-MjI2NzU2XX0=
+eyJoaXN0b3J5IjpbLTIwNDU3NzE0MTksMTkyMjgxMTUyOSwxMD
+kwMzkzNDE0LDg1NTk3NDYyNSwtNDcxOTgzMDkxLC0xMDk4OTkw
+MTQsLTEyNDc3NzUyNTgsMTMxMDMxNTg4MSwxNzEyNDk1MDE4LD
+EzNzI0MDY0OTUsLTE5NDY3OTE3MDAsMTc5NzUyMzE2MiwtNDQ2
+NDc4ODY5LC0xNjMwNTQ5NjQyLDM4NTgxNzcyOSwxMDM4MzExNz
+Y5LDEyNjc5ODgwMjAsLTY4Njc3ODAyNCw1MTQyMzAyMjgsLTE3
+MTMyMjY3NTZdfQ==
 -->
