@@ -8,7 +8,7 @@
 ### A Giant among Us
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans domesticated in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and nearly twice that size when supported.[^ref2]
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants domesticated by humans in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and nearly twice that when supported.[^ref2]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the art world. Like the supersized flower in this plant portrait, _H. annuus_ looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. How can we draw on those visual depictions to reconnect with the plant world and the intrinsic value of flora? By closely examining portrayals of sunflowers, we can cultivate a renewed attentiveness to the visual arts that can also serve to enhance our capacity for perceiving the unique traits of individual specimens and the diversity of plantlife growing, perhaps unnoticed, in our daily environments.
@@ -219,11 +219,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDEzMzQ3MSwxMDkwNjMzODg3LC0xNT
-gwMDM0NzYyLDEyOTI0MTE0NjIsMzA1Nzk2MDM3LC03OTQ0NzIy
-Myw3MDUxNjUyMjMsNDE0NzgwMzc4LC01MjEzNTc1NTcsMjY2OD
-Q0Mzk1LC04MDAwMzY0ODgsMzIzNDUxNzI3LC0xNDc4MDE1OTQs
-MTg3MTg4NDg4OSwtMTkyODU4OTgwMCwtMTk4ODYzMDE5NiwtOD
-c3NjIwNzgyLC0xMzU5MDA0MDUxLDc2MTcxOTU4OSw4NDI4MjQ3
-MDFdfQ==
+eyJoaXN0b3J5IjpbMTQ2NTM0Mzg3NCwxNzY0MTMzNDcxLDEwOT
+A2MzM4ODcsLTE1ODAwMzQ3NjIsMTI5MjQxMTQ2MiwzMDU3OTYw
+MzcsLTc5NDQ3MjIzLDcwNTE2NTIyMyw0MTQ3ODAzNzgsLTUyMT
+M1NzU1NywyNjY4NDQzOTUsLTgwMDAzNjQ4OCwzMjM0NTE3Mjcs
+LTE0NzgwMTU5NCwxODcxODg0ODg5LC0xOTI4NTg5ODAwLC0xOT
+g4NjMwMTk2LC04Nzc2MjA3ODIsLTEzNTkwMDQwNTEsNzYxNzE5
+NTg5XX0=
 -->
