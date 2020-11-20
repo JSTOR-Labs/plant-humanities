@@ -149,7 +149,7 @@ their color can range from gold to orange to red to dark purple and even an unex
 <param ve-plant-specimen eid="Q146190" max="1">
 
 <param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
-Sunflower seeds also exhibit variations in size, color, and markings. Whole seeds--comprised of a kernel and a hull--can be solid black or gray, and have stripes or mottled patterns. The Hopi tribe of Native Americans have cultivated sunflowers with deep purple seeds, that appear black and shiny, for hundreds of years. They use the seeds to produce dark blue or purple dyes for coloring wools and natural fibers. Those materials are used to make weavings and baskets. The processes of cultivating, harvesting, and boiling seeds to produce dye for basketry evidences a rich tradition of tribal plant knowledge that is interwoven materially with cultural and spiritual beliefs related to sunflowers. According to the [Native American Ethnobotany Database](http://naeb.brit.org/uses/search/?string=sunflower), Indigenous peoples of North America also use(d) the plant in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially.
+Sunflower seeds also exhibit variations in size, color, and markings. Whole seeds--comprised of a kernel and a hull--can be solid black or gray, and have stripes or mottled patterns. The Hopi tribe of Native Americans have cultivated sunflowers with deep purple seeds, that appear black and shiny, for hundreds of years. They use these seeds to produce dark blue or purple dyes for coloring wools and natural fibers that are in turn used to make weavings and baskets. The processes of cultivating, harvesting, and boiling seeds to produce dye for basketry evidences a rich tradition of tribal plant knowledge that is interwoven with cultural and spiritual beliefs related to sunflowers. According to the [Native American Ethnobotany Database](http://naeb.brit.org/uses/search/?string=sunflower), Indigenous peoples of North America also use(d) sunflowers in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially. 
 <param ve-image fit="contain" primary url="https://www.human.cornell.edu/sites/default/files/styles/landscape_1600x900/public/helianthus-annuus-1.jpg?itok=5KVpk_8q" title="Hopi Sunflower _Helianthus Annuus_, seeds produce blue, black, and purple dye and the leaves give a range of yellow to green, College of Human Ecology, Cornell University">
 
 
@@ -221,11 +221,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTAzNzU0OCw0MTAwMDE3NTYsLTEzMj
-AwNTkxOTcsMTczOTgzMDE4MSwxNTA1OTIxNTQxLC0xNTQyNTMz
-MzYzLDE5MjI4MTE1MjksMTA5MDM5MzQxNCw4NTU5NzQ2MjUsLT
-Q3MTk4MzA5MSwtMTA5ODk5MDE0LC0xMjQ3Nzc1MjU4LDEzMTAz
-MTU4ODEsMTcxMjQ5NTAxOCwxMzcyNDA2NDk1LC0xOTQ2NzkxNz
-AwLDE3OTc1MjMxNjIsLTQ0NjQ3ODg2OSwtMTYzMDU0OTY0Miwz
-ODU4MTc3MjldfQ==
+eyJoaXN0b3J5IjpbNjc2MTMwNzIyLDQxMDAwMTc1NiwtMTMyMD
+A1OTE5NywxNzM5ODMwMTgxLDE1MDU5MjE1NDEsLTE1NDI1MzMz
+NjMsMTkyMjgxMTUyOSwxMDkwMzkzNDE0LDg1NTk3NDYyNSwtND
+cxOTgzMDkxLC0xMDk4OTkwMTQsLTEyNDc3NzUyNTgsMTMxMDMx
+NTg4MSwxNzEyNDk1MDE4LDEzNzI0MDY0OTUsLTE5NDY3OTE3MD
+AsMTc5NzUyMzE2MiwtNDQ2NDc4ODY5LC0xNjMwNTQ5NjQyLDM4
+NTgxNzcyOV19
 -->
