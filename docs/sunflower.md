@@ -173,7 +173,7 @@ Racial caricatures of Oscar Wilde in US disparage him by depicting black persons
 
 ### “Sun, sun, sun, here it comes”
 
-As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Of the two images in Hernández’s _Nova plantarum_, the one adapted from Besler’s _Hortus Eystettensis_ resembles what would become a visual cliché for representing the plant in other contexts.
+As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide.
 <param ve-image iiif region="1078,259,3906,3278"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
@@ -223,11 +223,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc5NjY2ODYsLTExMTg2OTQwOTIsLT
-IwODQ1MjE0NTksLTU2NTEwODIxOCwxNTgxNjI1MzAyLC0yNzcy
-NDk5NDIsNjYyMTcyOTE5LDQxMDAwMTc1NiwtMTMyMDA1OTE5Ny
-wxNzM5ODMwMTgxLDE1MDU5MjE1NDEsLTE1NDI1MzMzNjMsMTky
-MjgxMTUyOSwxMDkwMzkzNDE0LDg1NTk3NDYyNSwtNDcxOTgzMD
-kxLC0xMDk4OTkwMTQsLTEyNDc3NzUyNTgsMTMxMDMxNTg4MSwx
-NzEyNDk1MDE4XX0=
+eyJoaXN0b3J5IjpbLTE3OTU2MTg1MTksLTE3NTc5NjY2ODYsLT
+ExMTg2OTQwOTIsLTIwODQ1MjE0NTksLTU2NTEwODIxOCwxNTgx
+NjI1MzAyLC0yNzcyNDk5NDIsNjYyMTcyOTE5LDQxMDAwMTc1Ni
+wtMTMyMDA1OTE5NywxNzM5ODMwMTgxLDE1MDU5MjE1NDEsLTE1
+NDI1MzMzNjMsMTkyMjgxMTUyOSwxMDkwMzkzNDE0LDg1NTk3ND
+YyNSwtNDcxOTgzMDkxLC0xMDk4OTkwMTQsLTEyNDc3NzUyNTgs
+MTMxMDMxNTg4MV19
 -->
