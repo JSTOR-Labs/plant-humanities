@@ -108,7 +108,7 @@ There is a longstanding cultural assumption that sunflowers are heliotropic thro
 
 ### Out of One, Many
 
-In the late eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing sunflowers that allowed them to communicate  scientific knowledge. This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies an artistic approach to studying plants as specimens. Henderson shows a partial view of two mature plants—facing opposite directions—to communicate valuable information about their dorsal and ventral anatomical structures, while taking some aesthetic liberties to imbue the flower heads with a sense of movement and vitality. <span data-click-image-zoomto="982,2706,2213,1795">At the center of the left flower,</span> a series of green scallop- and flame-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets.
+In the late eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing sunflowers that allowed them to communicate  scientific knowledge. This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies an mode of engaging with plants as specimens. Henderson shows a partial view of two mature plants—facing opposite directions—to communicate valuable information about their dorsal and ventral anatomical structures, while taking some aesthetic liberties to imbue the flower heads with a sense of movement and vitality. <span data-click-image-zoomto="982,2706,2213,1795">At the center of the left flower,</span> a series of green scallop- and flame-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
 <param ve-entity eid="Q14847254" title="Compositae"> 
@@ -218,7 +218,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTM2NjA2NCwtNjg2Nzc4MDI0LDUxND
+eyJoaXN0b3J5IjpbMTg4NzE4OTUxMSwtNjg2Nzc4MDI0LDUxND
 IzMDIyOCwtMTcxMzIyNjc1Niw4MTA5MDU1NjcsLTg2MTM1OTQ0
 OSwtMzM0MDg5NTYyLDEwMDY5ODQ0MzcsMTk0NzU1NjM5NiwxMz
 g5Njg2MzQyLDE3NjQxMzM0NzEsMTA5MDYzMzg4NywtMTU4MDAz
