@@ -36,7 +36,7 @@ Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical name
 ### Range and Cultivation
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
-How did the _Helianthus annuus_ specimen represented in _Flos Solis maior_ come into being? The common sunflower was cultivated by humans thousands of years ago, and the history of that process is enmeshed with convergences of plant and human interactions and mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref6] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref7] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large  flower heads with more seeds.[^ref8]
+How did the type of _Helianthus annuus_ specimen represented in _Flos Solis maior_ come into being? The common sunflower was cultivated by humans thousands of years ago, and the history of that process is enmeshed with convergences of plant and human mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref6] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref7] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large  flower heads with more seeds.[^ref8]
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
@@ -218,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjQwNjQ5NSwtMTk0Njc5MTcwMCwxNz
-k3NTIzMTYyLC00NDY0Nzg4NjksLTE2MzA1NDk2NDIsMzg1ODE3
-NzI5LDEwMzgzMTE3NjksMTI2Nzk4ODAyMCwtNjg2Nzc4MDI0LD
-UxNDIzMDIyOCwtMTcxMzIyNjc1Niw4MTA5MDU1NjcsLTg2MTM1
-OTQ0OSwtMzM0MDg5NTYyLDEwMDY5ODQ0MzcsMTk0NzU1NjM5Ni
-wxMzg5Njg2MzQyLDE3NjQxMzM0NzEsMTA5MDYzMzg4NywtMTU4
-MDAzNDc2Ml19
+eyJoaXN0b3J5IjpbMjA2OTY4Njc2NiwxMzcyNDA2NDk1LC0xOT
+Q2NzkxNzAwLDE3OTc1MjMxNjIsLTQ0NjQ3ODg2OSwtMTYzMDU0
+OTY0MiwzODU4MTc3MjksMTAzODMxMTc2OSwxMjY3OTg4MDIwLC
+02ODY3NzgwMjQsNTE0MjMwMjI4LC0xNzEzMjI2NzU2LDgxMDkw
+NTU2NywtODYxMzU5NDQ5LC0zMzQwODk1NjIsMTAwNjk4NDQzNy
+wxOTQ3NTU2Mzk2LDEzODk2ODYzNDIsMTc2NDEzMzQ3MSwxMDkw
+NjMzODg3XX0=
 -->
