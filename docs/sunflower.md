@@ -153,24 +153,6 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-image fit="contain" primary url="https://www.human.cornell.edu/sites/default/files/styles/landscape_1600x900/public/helianthus-annuus-1.jpg?itok=5KVpk_8q" title="Hopi Sunflower _Helianthus Annuus_, seeds produce blue, black, and purple dye and the leaves give a range of yellow to green, College of Human Ecology, Cornell University">
 
 
-### Floral Cyphers: Portrayals of Gender, Sexual Identity, Race, and Class
-
-![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_charger_MET_sm.jpg){: .right}
-Aesthetic Movement (Britain); Gender; whiteness Walter Satterlee _[The Decorative Sisters](https://hdl.handle.net/2027/loc.ark:/13960/t84j1d31x)_
-<param ve-image primary fit="contain" url="https://images.nypl.org/index.php?id=488090&t=w" title="Walter Satterlee, [A trade card depicting women and flowers including sunflowers.], 1876-90, L. Prang & Co., The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library">
-<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/the_sunflower_2007.29.14.jpg" title="Julia Margaret Cameron  
-_The Sunflower_, 1866-1870, photograph, National Gallery of Art">
-
-<param ve-entity eid="Q30875" title="Oscar Wilde">
-Popularized motif in decoration of designed objects for everyday use. These objects often used in the home, a feminine domain, become associated with gender. Sunflower is forced on Oscar Wilde.
-<param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/dp/original/DP884629.jpg" title="Thomas Nast, _Wilde on Us. Something To 'Live Up' To in America_, 1882, The Metropolitan Museum of Art, New York, Gift of Thomas Nast Jr., Mabel Nast Crawford and Cyril Nast, 1933">
-
-Racial caricatures of Oscar Wilde in US disparage him by depicting black persons with emblems associated with him.
-<param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DP-15482-011.jpg" title="James A. Palmer, _An Aesthetic Darkey_ from the _Aiken and Vicinity_ series, 1882, The Metropolitan Museum of Art, New York, Purchase, Nancy Dunn Revocable Trust Gift, 2017">
-<param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DP-15482-003.jpg" title="Unidentified Edgefield District potter, _Face Harvest Jug_, 19th century, The Metropolitan Museum of Art, New York, Purchase, Nancy Dunn Revocable Trust Gift, 2017">
-<param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DP-15482-007.jpg" title="Unidentified Edgefield District potter, _Face Harvest Jug_, 19th century, The Metropolitan Museum of Art, New York, Purchase, Nancy Dunn Revocable Trust Gift, 2017">
-
-
 ### “Sun, sun, sun, here it comes”
 
 As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide.
@@ -223,11 +205,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU2MTg1MTksLTE3NTc5NjY2ODYsLT
-ExMTg2OTQwOTIsLTIwODQ1MjE0NTksLTU2NTEwODIxOCwxNTgx
-NjI1MzAyLC0yNzcyNDk5NDIsNjYyMTcyOTE5LDQxMDAwMTc1Ni
-wtMTMyMDA1OTE5NywxNzM5ODMwMTgxLDE1MDU5MjE1NDEsLTE1
-NDI1MzMzNjMsMTkyMjgxMTUyOSwxMDkwMzkzNDE0LDg1NTk3ND
-YyNSwtNDcxOTgzMDkxLC0xMDk4OTkwMTQsLTEyNDc3NzUyNTgs
-MTMxMDMxNTg4MV19
+eyJoaXN0b3J5IjpbLTE0NjY0MDA1NjcsLTE3OTU2MTg1MTksLT
+E3NTc5NjY2ODYsLTExMTg2OTQwOTIsLTIwODQ1MjE0NTksLTU2
+NTEwODIxOCwxNTgxNjI1MzAyLC0yNzcyNDk5NDIsNjYyMTcyOT
+E5LDQxMDAwMTc1NiwtMTMyMDA1OTE5NywxNzM5ODMwMTgxLDE1
+MDU5MjE1NDEsLTE1NDI1MzMzNjMsMTkyMjgxMTUyOSwxMDkwMz
+kzNDE0LDg1NTk3NDYyNSwtNDcxOTgzMDkxLC0xMDk4OTkwMTQs
+LTEyNDc3NzUyNThdfQ==
 -->
