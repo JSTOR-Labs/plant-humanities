@@ -129,7 +129,7 @@ Henderson's botanical illustration highlights a trait of the sunflower that we m
 
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
-During the latter half of the nineteenth century, a period of rapid industralization and urbanization, some European painters developed new visual languages for representing sunflowers that manifest their subjective experiences of the plant world. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_, a species of sunflower with branched stems and multiple flower heads. He presents an impression of the plants that approximates how the eye perceives their brilliant gold and green hues under specific light conditions. Conversely, Vincent van Gogh's _Sunflowers_ juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants, shown at different stages of life. His portrayals of the flowers, some  with drooping heads  explores the expressive capacity of flowers  The pictures model for us a kind of aesthetic and phenomenological attentiveness to the plant world to which we ought to aspire. 
+During the latter half of the nineteenth century, a period of rapid industralization and urbanization, some European painters developed new visual languages for representing sunflowers that manifest their subjective experiences of the plant world. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_, a species of sunflower with branched stems and multiple flower heads. He presents an impression of the plants that approximates how the eye perceives their brilliant gold and green hues under specific light conditions. Conversely, Vincent van Gogh's _Sunflowers_ juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants, shown at different stages of life. His portrayals of the flowers, some x, and others y, explore the expressive capacity of flowers  The pictures model for us a kind of aesthetic and phenomenological attentiveness to the plant world to which we ought to aspire. 
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflowers%20Monet%20van%20Gogh%20CC.jpg" title="Claude Monet _Jerusalem artichoke_ 1880 (left), Vincent van Gogh, _Sunflower_, 1888, National Gallery London">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflowers%20compared%20to%20van%20Gogh%20painting.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
@@ -218,7 +218,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTQwNDMxMiwtNDQ2NDc4ODY5LC0xNj
+eyJoaXN0b3J5IjpbLTY5OTA5MTk0NSwtNDQ2NDc4ODY5LC0xNj
 MwNTQ5NjQyLDM4NTgxNzcyOSwxMDM4MzExNzY5LDEyNjc5ODgw
 MjAsLTY4Njc3ODAyNCw1MTQyMzAyMjgsLTE3MTMyMjY3NTYsOD
 EwOTA1NTY3LC04NjEzNTk0NDksLTMzNDA4OTU2MiwxMDA2OTg0
