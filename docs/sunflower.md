@@ -129,7 +129,7 @@ Henderson's botanical illustration highlights a trait of the sunflower that we m
 
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
-During the nineteenth century, European painters developed unique styles for representing sunflowers that responded to  Still life paintings provide another rich source of evidence regarding plant diversity, conveying information that cannot be preserved on herbarium sheets. Claude Monet's _Jerusalem artichoke_ presents an impression of _Helianthus tuberosus_ in which he studies how the eye perceives its color and form, whereas Vincent van Gogh's _Sunflowers_ engages with the tactile and emotive aspects of _Helianthus annuus_ by juxtaposing typical blossoms and double-flower mutants. The pictures not only show us different species, but also model for us a kind of aesthetic and phenomenological attentiveness to the plant world to which we ought to aspire.
+During the nineteenth century, European painters who were members of the avant-garde developed unique approaches to representing sunflowers that responded to the ways that industralization and urbanization altered human interactions with plants and the natural world. Claude Monet's _Jerusalem artichoke_ presents an impression of _Helianthus tuberosus_ in which he studies how the eye perceives its color and form, whereas Vincent van Gogh's _Sunflowers_ engages with the tactile and emotive aspects of _Helianthus annuus_ by juxtaposing typical blossoms and double-flower mutants. The pictures not only show us different species, but also model for us a kind of aesthetic and phenomenological attentiveness to the plant world to which we ought to aspire.
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflowers%20Monet%20van%20Gogh%20CC.jpg" title="Claude Monet _Jerusalem artichoke_ 1880 (left), Vincent van Gogh, _Sunflower_, 1888, National Gallery London">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflowers%20compared%20to%20van%20Gogh%20painting.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
@@ -137,7 +137,7 @@ During the nineteenth century, European painters developed unique styles for rep
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-entity eid="Q181916" title="herbarium">
-We may also be surprised to discover the diversity within the genus _Helianthus_. Indeed, there are more than fifty accepted species grouped under Helianthus and, contrary to what is often portrayed in images and texts, their palette is not limited to yellow.
+ Still life paintings provide another rich source of evidence regarding plant diversity, conveying information that cannot be preserved on herbarium sheets. We may also be surprised to discover the diversity within the genus _Helianthus_. Indeed, there are more than fifty accepted species grouped under Helianthus and, contrary to what is often portrayed in images and texts, their palette is not limited to yellow.
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
  Their color can range from gold to orange to red and even an unexpected shade of pink. Species also vary in terms of size and the number and shape of their leaves and flower heads, as demonstrated by these herbarium sheets with dried _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke). The specimens also dispel the notion that sunflowers only have one large blossom per stock.
 <param ve-plant-specimen eid="Q171497" max="1">
@@ -218,7 +218,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjAyOTk5MiwtMTYzMDU0OTY0MiwzOD
+eyJoaXN0b3J5IjpbMTQ4MjY4NDkwNywtMTYzMDU0OTY0MiwzOD
 U4MTc3MjksMTAzODMxMTc2OSwxMjY3OTg4MDIwLC02ODY3Nzgw
 MjQsNTE0MjMwMjI4LC0xNzEzMjI2NzU2LDgxMDkwNTU2NywtOD
 YxMzU5NDQ5LC0zMzQwODk1NjIsMTAwNjk4NDQzNywxOTQ3NTU2
