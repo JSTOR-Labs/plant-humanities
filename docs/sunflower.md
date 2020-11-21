@@ -174,7 +174,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref2]: Carl von Linné, _Species plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 904-06, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.669](https://doi.org/10.5962/bhl.title.669 "DOI"); Carl von Linné, _Genera plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 386, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.746](https://doi.org/10.5962/bhl.title.746).
 
-[^ref4]: Translated in Alice Dickinson, _Carl Linnaeus; Pioneer of Modern Botany_ (New York: F. Watts, 1967), 125, accessed October 7, 2020, HathiTrust.
+[^ref3]: Translated in Alice Dickinson, _Carl Linnaeus; Pioneer of Modern Botany_ (New York: F. Watts, 1967), 125, accessed October 7, 2020, HathiTrust.
 
 [^ref5]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449.
 
@@ -219,11 +219,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxMzA2MjMzLC03MzY5MDUxOTIsLTE2Mj
-c2NDIyNzYsLTE5MzkwNTkzNjcsLTEyMTYxOTIwMzgsLTQzMjI3
-OTI4NywtOTI2OTYzOTYwLDE2NDMyNzA3MTcsMjMxODEwNzM4LD
-EzMzg1NDY2MDgsLTE5MTI0OTE2ODAsMTYwMDU3ODI2NiwtMjEz
-MTE1MjA4NCwtNTc4NDMxNDM0LC0xNzcwMDQ0ODIzLC0zMjE5Mj
-Q5NzQsMTI4ODE1NjUxNSwxODg2Mjk1MDEyLDI3MTY5MDI0Nywt
-MjI3OTEzMzQyXX0=
+eyJoaXN0b3J5IjpbLTE5NDgxNzU3NTIsLTczNjkwNTE5MiwtMT
+YyNzY0MjI3NiwtMTkzOTA1OTM2NywtMTIxNjE5MjAzOCwtNDMy
+Mjc5Mjg3LC05MjY5NjM5NjAsMTY0MzI3MDcxNywyMzE4MTA3Mz
+gsMTMzODU0NjYwOCwtMTkxMjQ5MTY4MCwxNjAwNTc4MjY2LC0y
+MTMxMTUyMDg0LC01Nzg0MzE0MzQsLTE3NzAwNDQ4MjMsLTMyMT
+kyNDk3NCwxMjg4MTU2NTE1LDE4ODYyOTUwMTIsMjcxNjkwMjQ3
+LC0yMjc5MTMzNDJdfQ==
 -->
