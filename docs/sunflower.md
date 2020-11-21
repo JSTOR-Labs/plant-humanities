@@ -24,7 +24,7 @@ The genus Helianthus—a Latin compound derived from the Greek words _helios_ (s
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, p. 97 Nomina Generica, _Critica botanica_, 1737, Lugduni Batavorum: Apud Conradum Wishoff © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, p. 98 Nomina Generica, _Critica botanica_, 1737, Lugduni Batavorum: Apud Conradum Wishoff © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
-### Plant Mobility and Early European Descriptions
+### Plant Mobility and Early Printed Sources
 
 <param ve-entity eid="Q29" title="Spain">
 The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
@@ -207,11 +207,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjY0NzA4MSwtMTgyOTM1MjM4NiwtMT
-Q2NjQwMDU2NywtMTc5NTYxODUxOSwtMTc1Nzk2NjY4NiwtMTEx
-ODY5NDA5MiwtMjA4NDUyMTQ1OSwtNTY1MTA4MjE4LDE1ODE2Mj
-UzMDIsLTI3NzI0OTk0Miw2NjIxNzI5MTksNDEwMDAxNzU2LC0x
-MzIwMDU5MTk3LDE3Mzk4MzAxODEsMTUwNTkyMTU0MSwtMTU0Mj
-UzMzM2MywxOTIyODExNTI5LDEwOTAzOTM0MTQsODU1OTc0NjI1
-LC00NzE5ODMwOTFdfQ==
+eyJoaXN0b3J5IjpbMTg0OTgwNTE2NSwxMjM2NjQ3MDgxLC0xOD
+I5MzUyMzg2LC0xNDY2NDAwNTY3LC0xNzk1NjE4NTE5LC0xNzU3
+OTY2Njg2LC0xMTE4Njk0MDkyLC0yMDg0NTIxNDU5LC01NjUxMD
+gyMTgsMTU4MTYyNTMwMiwtMjc3MjQ5OTQyLDY2MjE3MjkxOSw0
+MTAwMDE3NTYsLTEzMjAwNTkxOTcsMTczOTgzMDE4MSwxNTA1OT
+IxNTQxLC0xNTQyNTMzMzYzLDE5MjI4MTE1MjksMTA5MDM5MzQx
+NCw4NTU5NzQ2MjVdfQ==
 -->
