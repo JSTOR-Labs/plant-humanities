@@ -43,7 +43,7 @@ The genus Helianthus—a Latin compound derived from the Greek words _helios_ (s
 <param ve-entity eid="Q29" title="Spain">
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
 <param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
-Europeans were eager to collect flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and treasures bound up with imperialist and colonialist agendas. The Spanish first transported the domesticated sunflower from North America to <span data-click-map-flyto="40.425, -3.639">Spain</span>, though questions persist about who collected such plants or seeds, and when and from where they did so.[^ref4] In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
+Europeans were eager to collect plants from the Americas because they were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and treasures bound up with imperialist and colonialist agendas. The Spanish first transported the domesticated sunflower from North America to <span data-click-map-flyto="40.425, -3.639">Spain</span>, though questions persist about who collected such plants or seeds, and when and from where they did so.[^ref4] In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
 <param ve-map prefer-geojson center="Q495448" zoom="5" title="North America" show-label="true">
 
 <param ve-entity eid="Q950531" title="Nicolás Monardes" aliases="Monardes’s">
@@ -231,11 +231,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4NDYyMTI5LC0yOTExNDY1NDYsLTEzMz
-c1NTQxODUsLTUzNDMxMDY1OCwtMTk4MzIyMDIyOCwxMzU3NzAy
-Njc2LDE1OTczMDM2NzcsMjE3MTI0OTIyLDE1NTY5NjAyNDcsLT
-E3MzY5MTU1MzMsLTEwMzQyNjk3ODcsLTY0ODk2NTc2NywtNjMy
-NzUwMTg1LDUwMzQ4MDI2MiwzMjc4MzQ5OTQsLTE4NTg5MzM1NT
-YsMTE4ODcwMDYyOSwtNDczMDU2Mzc3LC03MzY5MDUxOTIsLTE2
-Mjc2NDIyNzZdfQ==
+eyJoaXN0b3J5IjpbLTM4NDAzNTQ5NCwtMjkxMTQ2NTQ2LC0xMz
+M3NTU0MTg1LC01MzQzMTA2NTgsLTE5ODMyMjAyMjgsMTM1Nzcw
+MjY3NiwxNTk3MzAzNjc3LDIxNzEyNDkyMiwxNTU2OTYwMjQ3LC
+0xNzM2OTE1NTMzLC0xMDM0MjY5Nzg3LC02NDg5NjU3NjcsLTYz
+Mjc1MDE4NSw1MDM0ODAyNjIsMzI3ODM0OTk0LC0xODU4OTMzNT
+U2LDExODg3MDA2MjksLTQ3MzA1NjM3NywtNzM2OTA1MTkyLC0x
+NjI3NjQyMjc2XX0=
 -->
