@@ -27,7 +27,7 @@ The genus Helianthus—a Latin compound derived from the Greek words _helios_ (s
 ### Plant Mobility and Early Printed Sources
 
 <param ve-entity eid="Q29" title="Spain">
-The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe. Europeans eagerly collected exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities and status symbols.
+The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe. Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and "trophies of empire.
 <param ve-map prefer-geojson center="45.796048, 3.108712" zoom="4.5" show-label="true">
 
 <param ve-entity eid="Q950531" title="Nicolás Monardes" aliases="Monardes’s">
@@ -207,11 +207,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzE5NzYwMDUsMTIzNjY0NzA4MSwtMT
-gyOTM1MjM4NiwtMTQ2NjQwMDU2NywtMTc5NTYxODUxOSwtMTc1
-Nzk2NjY4NiwtMTExODY5NDA5MiwtMjA4NDUyMTQ1OSwtNTY1MT
-A4MjE4LDE1ODE2MjUzMDIsLTI3NzI0OTk0Miw2NjIxNzI5MTks
-NDEwMDAxNzU2LC0xMzIwMDU5MTk3LDE3Mzk4MzAxODEsMTUwNT
-kyMTU0MSwtMTU0MjUzMzM2MywxOTIyODExNTI5LDEwOTAzOTM0
-MTQsODU1OTc0NjI1XX0=
+eyJoaXN0b3J5IjpbNjE0MTQyNzgwLDEyMzY2NDcwODEsLTE4Mj
+kzNTIzODYsLTE0NjY0MDA1NjcsLTE3OTU2MTg1MTksLTE3NTc5
+NjY2ODYsLTExMTg2OTQwOTIsLTIwODQ1MjE0NTksLTU2NTEwOD
+IxOCwxNTgxNjI1MzAyLC0yNzcyNDk5NDIsNjYyMTcyOTE5LDQx
+MDAwMTc1NiwtMTMyMDA1OTE5NywxNzM5ODMwMTgxLDE1MDU5Mj
+E1NDEsLTE1NDI1MzMzNjMsMTkyMjgxMTUyOSwxMDkwMzkzNDE0
+LDg1NTk3NDYyNV19
 -->
