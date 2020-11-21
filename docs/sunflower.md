@@ -65,7 +65,7 @@ This illustration of a sunflower from Dodoens’s _Florum, et coronariarum_, at 
 <param ve-image fit="contain" url=https://ia801904.us.archive.org/BookReader/BookReaderImages.php?id=gri_33125014246561&itemPath=%2F3%2Fitems%2Fgri_33125014246561&server=ia801904.us.archive.org&page=n29_w907" title="Pietro Andrea Matthioli, _I discorsi di M. Pietro Andrea Matthioli..._, Venice: Vincenzo ValgrisI, 1568, Getty Research Institute">
 
 <param ve-entity eid="Q1860320" title="Matthias de l'Obel">
-In the sixteenth and seventeenth centuries, it was common for herbalists to appropriate illustrations and text from existing sources, adapting that material to new contexts. Numerous books recycled the picture of the sunflower published in Dodoens's _Florum, et coronariarum_ often, as in the following examples, reducing the size of that image to provide more space for text. Matthias de l'Obel reused the illustration in his botanical and medicinal treatise _[Plantarum, seu, Stirpium historia](https://www.biodiversitylibrary.org/page/9871376)_ (1576), publishing it under the name _Solis Flos_ (“flower of the sun”). By contrast, John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578) reproduced the portrait along with Dodoens's name for the domesticated sunflower _Chrysanthemum Peruvianum_. It is important to note that, at the time, European herbalists used the word “Peru” indiscriminately to mean someplace in the Americas.[^ref8] Despite there being no archaeological evidence supporting the presence of _H. annuus_ in pre-Columbian Peru, that usage has been misinterpreted as proof of the flower's "Peruvian" origins.
+In the sixteenth and seventeenth centuries, it was common for herbalists to appropriate illustrations and text from existing sources, adapting that material to new contexts. Numerous books recycled the picture of the sunflower published in Dodoens's _Florum, et coronariarum_ often, as in the following examples, reducing the size of that image to provide more space for text. Matthias de l'Obel reused the illustration in his botanical and medicinal treatise _[Plantarum, seu, Stirpium historia](https://www.biodiversitylibrary.org/page/9871376)_ (1576), publishing it under the name _Solis Flos_ (“flower of the sun”). By contrast, John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578) reproduced the plant portrait with the name _Chrysanthemum Peruvianum_ used by Dodoens. It is important to note that, at the time, European herbalists used the word “Peru” indiscriminately to mean someplace in the Americas.[^ref8] Despite there being no archaeological evidence supporting the presence of _H. annuus_ in pre-Columbian Peru, that usage has continued to be misinterpreted as proof of the flower's "Peruvian" origins.
 <param ve-image fit="contain" primary url="https://ia800501.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488167&itemPath=%2F12%2Fitems%2Fmobot31753003488167&server=ia800501.us.archive.org&page=n328_w966" title="Matthias de l'Obel, _Plantarum, seu, Stirpium historia_, Antwerp: Christophori Plantini, 1576, Missouri Botanical Gardeny">
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q419" title="Peru">
@@ -243,11 +243,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzA4MjIzOTIsLTUyOTY4MTUxMCwtNj
-IzNTA4NjUxLDMyMDM4NjYzMSwxOTY5OTgzMDM0LDEzMjMyMTgz
-OSwtMjkxMTQ2NTQ2LC0xMzM3NTU0MTg1LC01MzQzMTA2NTgsLT
-E5ODMyMjAyMjgsMTM1NzcwMjY3NiwxNTk3MzAzNjc3LDIxNzEy
-NDkyMiwxNTU2OTYwMjQ3LC0xNzM2OTE1NTMzLC0xMDM0MjY5Nz
-g3LC02NDg5NjU3NjcsLTYzMjc1MDE4NSw1MDM0ODAyNjIsMzI3
-ODM0OTk0XX0=
+eyJoaXN0b3J5IjpbMTU3MzM3NSwtNTI5NjgxNTEwLC02MjM1MD
+g2NTEsMzIwMzg2NjMxLDE5Njk5ODMwMzQsMTMyMzIxODM5LC0y
+OTExNDY1NDYsLTEzMzc1NTQxODUsLTUzNDMxMDY1OCwtMTk4Mz
+IyMDIyOCwxMzU3NzAyNjc2LDE1OTczMDM2NzcsMjE3MTI0OTIy
+LDE1NTY5NjAyNDcsLTE3MzY5MTU1MzMsLTEwMzQyNjk3ODcsLT
+Y0ODk2NTc2NywtNjMyNzUwMTg1LDUwMzQ4MDI2MiwzMjc4MzQ5
+OTRdfQ==
 -->
