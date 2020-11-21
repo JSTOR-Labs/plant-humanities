@@ -190,7 +190,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref8]: F. de Nave and D. Imhof, eds., _Botany in the Low Countries: (end of the 15th centry, ca. 1650) Plantin-Moretus Museum Exhibition_ (Antwerp: City of Antwerp, the Plantin-Moretus Museum and the Stedelijk Prentenkabinet (Municipal Printroom), 1993), ##.
 
-[^ref9]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
+[^ref9]: Heiser, “The Domesticated Sunflower in Mexico?,” 449.
 
 [^ref7]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
 
@@ -217,11 +217,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Mzk5NTYyOCwtMTIxNjE5MjAzOCwtND
-MyMjc5Mjg3LC05MjY5NjM5NjAsMTY0MzI3MDcxNywyMzE4MTA3
-MzgsMTMzODU0NjYwOCwtMTkxMjQ5MTY4MCwxNjAwNTc4MjY2LC
-0yMTMxMTUyMDg0LC01Nzg0MzE0MzQsLTE3NzAwNDQ4MjMsLTMy
-MTkyNDk3NCwxMjg4MTU2NTE1LDE4ODYyOTUwMTIsMjcxNjkwMj
-Q3LC0yMjc5MTMzNDIsLTExOTE3MDMzNzgsMTAxMjIwOTM4OCwt
-MjEyNzE4OTM1MF19
+eyJoaXN0b3J5IjpbLTE5MzkwNTkzNjcsLTEyMTYxOTIwMzgsLT
+QzMjI3OTI4NywtOTI2OTYzOTYwLDE2NDMyNzA3MTcsMjMxODEw
+NzM4LDEzMzg1NDY2MDgsLTE5MTI0OTE2ODAsMTYwMDU3ODI2Ni
+wtMjEzMTE1MjA4NCwtNTc4NDMxNDM0LC0xNzcwMDQ0ODIzLC0z
+MjE5MjQ5NzQsMTI4ODE1NjUxNSwxODg2Mjk1MDEyLDI3MTY5MD
+I0NywtMjI3OTEzMzQyLC0xMTkxNzAzMzc4LDEwMTIyMDkzODgs
+LTIxMjcxODkzNTBdfQ==
 -->
