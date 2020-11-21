@@ -190,11 +190,9 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref10]: [Add commentary about history of manuscript and its production.] Ray Desmond, “The Discovery of the New World,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 24-27.
 
-[^ref11]: Heiser, “The Domesticated Sunflower in Mexico?,” 449.
+[^ref11]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
 
-[^ref13]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
-
-[^ref14]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
+[^ref12]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
 
 [^ref15]: “Heiser (1965) proposed an hypothesis that is still tenable. The species [_Helianthus annuus_] spread prehistorically over eastern North America as a weedy camp-follower.” Sauer, “HELIANTHUS – SUNFLOWER,” in _Historical Geography of Crop Plants: A Select Roster_ (Bosa Roca: Taylor and Francis Group, 1993), 23.
 
@@ -219,11 +217,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjI5MjcxNSwxMTg4NzAwNjI5LC00Nz
-MwNTYzNzcsLTczNjkwNTE5MiwtMTYyNzY0MjI3NiwtMTkzOTA1
-OTM2NywtMTIxNjE5MjAzOCwtNDMyMjc5Mjg3LC05MjY5NjM5Nj
-AsMTY0MzI3MDcxNywyMzE4MTA3MzgsMTMzODU0NjYwOCwtMTkx
-MjQ5MTY4MCwxNjAwNTc4MjY2LC0yMTMxMTUyMDg0LC01Nzg0Mz
-E0MzQsLTE3NzAwNDQ4MjMsLTMyMTkyNDk3NCwxMjg4MTU2NTE1
-LDE4ODYyOTUwMTJdfQ==
+eyJoaXN0b3J5IjpbODcwODk2MTY5LDExODg3MDA2MjksLTQ3Mz
+A1NjM3NywtNzM2OTA1MTkyLC0xNjI3NjQyMjc2LC0xOTM5MDU5
+MzY3LC0xMjE2MTkyMDM4LC00MzIyNzkyODcsLTkyNjk2Mzk2MC
+wxNjQzMjcwNzE3LDIzMTgxMDczOCwxMzM4NTQ2NjA4LC0xOTEy
+NDkxNjgwLDE2MDA1NzgyNjYsLTIxMzExNTIwODQsLTU3ODQzMT
+QzNCwtMTc3MDA0NDgyMywtMzIxOTI0OTc0LDEyODgxNTY1MTUs
+MTg4NjI5NTAxMl19
 -->
