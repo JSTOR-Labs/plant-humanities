@@ -39,8 +39,7 @@ The Spanish first transported the domesticated sunflower across the Atlantic Oce
 Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14]
 <param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
-
-### Early Illustrations and “Peruvian” Origins
+### “Peruvian” Origins and Image Migration
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht">
 The illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at right, contributed to the development of a visual language for portraying _Helianthus annuus_, in particular, and ornamentals, in general, that emphasized the aesthetic qualities of plants in full bloom. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature sunflower growing in soil as the artist may have encountered it displayed in a garden. Indeed, Dodoens’s identifies the place shown in the picture: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.”[^ref15] Beautiful to behold, according to Dodoens, the sort of sunflower portrayed here was a rare foreign luxury good that conferred status upon its owner, though it was also a living artifact of European colonialist and imperialist agendas.
@@ -211,7 +210,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjE3ODQ5MiwtMTgyOTM1MjM4NiwtMT
+eyJoaXN0b3J5IjpbMTkzNTY4NjA2MywtMTgyOTM1MjM4NiwtMT
 Q2NjQwMDU2NywtMTc5NTYxODUxOSwtMTc1Nzk2NjY4NiwtMTEx
 ODY5NDA5MiwtMjA4NDUyMTQ1OSwtNTY1MTA4MjE4LDE1ODE2Mj
 UzMDIsLTI3NzI0OTk0Miw2NjIxNzI5MTksNDEwMDAxNzU2LC0x
