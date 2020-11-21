@@ -120,6 +120,7 @@ There is a longstanding cultural assumption that sunflowers are heliotropic thro
 
 ### Out of One, Many
 
+<param ve-entity eid="Q2374149" title="botanist" aliases="botanists">
 In the eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing sunflowers that allowed them to communicate  new forms of scientific knowledge about plants. This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies a mode of artistic engagement with plants tailored to the needs of botanists. Henderson shows a partial view of two mature plants—facing opposite directions—to communicate valuable information about their dorsal and ventral anatomical structures. Yet Henderson takes some aesthetic liberties to imbue the flower heads with a sense of movement and vitality, making his design appealing to plant and art collectors alike. <span data-click-image-zoomto="982,2706,2213,1795">At the center of the left flower,</span> a series of green scallop-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
@@ -224,7 +225,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjE5NTIwNCwyMTcxMjQ5MjIsMTU1Nj
+eyJoaXN0b3J5IjpbMTU5NzMwMzY3NywyMTcxMjQ5MjIsMTU1Nj
 k2MDI0NywtMTczNjkxNTUzMywtMTAzNDI2OTc4NywtNjQ4OTY1
 NzY3LC02MzI3NTAxODUsNTAzNDgwMjYyLDMyNzgzNDk5NCwtMT
 g1ODkzMzU1NiwxMTg4NzAwNjI5LC00NzMwNTYzNzcsLTczNjkw
