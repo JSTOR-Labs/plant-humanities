@@ -118,7 +118,8 @@ The discussion of sunflowers in Hernández’s _Nova plantarum_ complicates deba
 
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
 <param ve-entity eid="Q81506" title="Charles I of England">
-<param ve-entity eid="Q112110" title="emblem">
+<param ve-entity eid="Q112110" title="emblem" aliases="emblems">
+<param ve-entity eid="Q15472169" title="patron of the arts" aliases="patron">
 By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals and emblems.[^ref20] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower—a floral embodiment of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
@@ -241,11 +242,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzY3MTYxMCwxOTY5OTgzMDM0LDEzMj
-MyMTgzOSwtMjkxMTQ2NTQ2LC0xMzM3NTU0MTg1LC01MzQzMTA2
-NTgsLTE5ODMyMjAyMjgsMTM1NzcwMjY3NiwxNTk3MzAzNjc3LD
-IxNzEyNDkyMiwxNTU2OTYwMjQ3LC0xNzM2OTE1NTMzLC0xMDM0
-MjY5Nzg3LC02NDg5NjU3NjcsLTYzMjc1MDE4NSw1MDM0ODAyNj
-IsMzI3ODM0OTk0LC0xODU4OTMzNTU2LDExODg3MDA2MjksLTQ3
-MzA1NjM3N119
+eyJoaXN0b3J5IjpbLTE3NjA1NDkwNjEsMTk2OTk4MzAzNCwxMz
+IzMjE4MzksLTI5MTE0NjU0NiwtMTMzNzU1NDE4NSwtNTM0MzEw
+NjU4LC0xOTgzMjIwMjI4LDEzNTc3MDI2NzYsMTU5NzMwMzY3Ny
+wyMTcxMjQ5MjIsMTU1Njk2MDI0NywtMTczNjkxNTUzMywtMTAz
+NDI2OTc4NywtNjQ4OTY1NzY3LC02MzI3NTAxODUsNTAzNDgwMj
+YyLDMyNzgzNDk5NCwtMTg1ODkzMzU1NiwxMTg4NzAwNjI5LC00
+NzMwNTYzNzddfQ==
 -->
