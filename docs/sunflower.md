@@ -78,7 +78,7 @@ In the sixteenth and seventeenth centuries, it was common for herbalists to appr
 <param ve-entity eid="Q5189819" title="cruciform">
 <param ve-entity eid="Q462437" title="composition">
 <param ve-entity eid="Q63540903" title="focal point">
-Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. A team of artists, etchers, printmakers, and colorists, hired by Besler, produced this hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_ and hundreds of other copies.[^ref9] The sumptuous portrait depicts the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
+Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. A team of artists, etchers, printmakers, and colorists, hired by Besler, produced this hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_ and hundreds of other [prints pulled from the same plate](https://www.metmuseum.org/about-the-met/curatorial-departments/drawings-and-prints/materials-and-techniques/printmaking/engraving).[^ref9] The sumptuous portrait depicts the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
 that anticipates modern visual stereotypes for the plant, perhaps best epitomized by this emoji.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
@@ -248,11 +248,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5NTQ4ODA4LC0xOTI4OTgxNTM1LC0yMT
-IxNzA0NTI0LC0yNDUyMzg0NjEsLTE4OTk2MTg1NTIsLTEzNzg2
-MzczNTEsMTA5MzkwNjAyMCw5NDE1MTgzOCwtMTc5MDgyODgyNS
-wtMTU0MjkyMTUwMywxNTczMzc1LC01Mjk2ODE1MTAsLTYyMzUw
-ODY1MSwzMjAzODY2MzEsMTk2OTk4MzAzNCwxMzIzMjE4MzksLT
-I5MTE0NjU0NiwtMTMzNzU1NDE4NSwtNTM0MzEwNjU4LC0xOTgz
-MjIwMjI4XX0=
+eyJoaXN0b3J5IjpbLTE2MzAwMDQ5ODQsLTE5Mjg5ODE1MzUsLT
+IxMjE3MDQ1MjQsLTI0NTIzODQ2MSwtMTg5OTYxODU1MiwtMTM3
+ODYzNzM1MSwxMDkzOTA2MDIwLDk0MTUxODM4LC0xNzkwODI4OD
+I1LC0xNTQyOTIxNTAzLDE1NzMzNzUsLTUyOTY4MTUxMCwtNjIz
+NTA4NjUxLDMyMDM4NjYzMSwxOTY5OTgzMDM0LDEzMjMyMTgzOS
+wtMjkxMTQ2NTQ2LC0xMzM3NTU0MTg1LC01MzQzMTA2NTgsLTE5
+ODMyMjAyMjhdfQ==
 -->
