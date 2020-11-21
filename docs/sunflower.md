@@ -178,9 +178,9 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref4]: Translated in Alice Dickinson, _Carl Linnaeus; Pioneer of Modern Botany_ (New York: F. Watts, 1967), 125, accessed October 7, 2020, HathiTrust.
 
-[
+[^ref5]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449.
 
-[^ref6]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449
+[^ref6]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in _An Illustrated History of the Herbals_ (New York: Columbia University Press, 1997), 201-09.
 
 [^ref5]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 
@@ -197,8 +197,6 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 [^ref11]: Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
 
 [^ref12]: Heiser, “The Domesticated Sunflower in Mexico?,” 449; Bruce D. Smith, "Eastern North America as an Independent Center of Plant Domestication," _Proceedings of the National Academy of Science of the Unites States of America_ 103, no. 33 (August 15, 2006): 12223-28.
-
-[^ref13]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in _An Illustrated History of the Herbals_ (New York: Columbia University Press, 1997), ##-##.
 
 [^ref14]: For a contemporary illustration see Pietro Andrea Mattioli, _I discori di M. Pietro Andrea Matthioli…_ (Venice: Vincenzo Valgris, 1568), Biodiversity Heritage Library, [https://www.biodiversitylibrary.org/page/51721054](https://www.biodiversitylibrary.org/page/51721054).
 
@@ -219,7 +217,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzI2MzYyOSwtMTIxNjE5MjAzOCwtND
+eyJoaXN0b3J5IjpbMjExOTk1Mzc5MSwtMTIxNjE5MjAzOCwtND
 MyMjc5Mjg3LC05MjY5NjM5NjAsMTY0MzI3MDcxNywyMzE4MTA3
 MzgsMTMzODU0NjYwOCwtMTkxMjQ5MTY4MCwxNjAwNTc4MjY2LC
 0yMTMxMTUyMDg0LC01Nzg0MzE0MzQsLTE3NzAwNDQ4MjMsLTMy
