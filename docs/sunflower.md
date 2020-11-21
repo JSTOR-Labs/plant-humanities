@@ -27,14 +27,14 @@ The genus Helianthus—a Latin compound derived from the Greek words _helios_ (s
 ### Plant Mobility and Early Printed Sources
 
 <param ve-entity eid="Q29" title="Spain">
-Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and treasures bound up with imperial expansion. The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
+Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and treasures bound up with imperial expansion. The Spanish first transported the domesticated sunflower from North America to Europe, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
 <param ve-map prefer-geojson center="45.796048, 3.108712" zoom="4.5" show-label="true">
 
 <param ve-entity eid="Q950531" title="Nicolás Monardes" aliases="Monardes’s">
 <param ve-entity eid="Q437466" title="Rembert Dodoens" aliases="Dodoens’s">
 <param ve-entity eid="Q8717" title="Seville">
 <param ve-entity eid="Q162022" title="Mechelen">
-Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14] 
+Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14] It is important to establish here that
 <param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
 ### “Peruvian” Origins and Image Migration
@@ -205,11 +205,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0MTg1NDU2LDE4MDUxOTg3MTgsNjE0MT
-QyNzgwLDEyMzY2NDcwODEsLTE4MjkzNTIzODYsLTE0NjY0MDA1
-NjcsLTE3OTU2MTg1MTksLTE3NTc5NjY2ODYsLTExMTg2OTQwOT
-IsLTIwODQ1MjE0NTksLTU2NTEwODIxOCwxNTgxNjI1MzAyLC0y
-NzcyNDk5NDIsNjYyMTcyOTE5LDQxMDAwMTc1NiwtMTMyMDA1OT
-E5NywxNzM5ODMwMTgxLDE1MDU5MjE1NDEsLTE1NDI1MzMzNjMs
-MTkyMjgxMTUyOV19
+eyJoaXN0b3J5IjpbMTA2MzUxMTM5NCwxODA1MTk4NzE4LDYxND
+E0Mjc4MCwxMjM2NjQ3MDgxLC0xODI5MzUyMzg2LC0xNDY2NDAw
+NTY3LC0xNzk1NjE4NTE5LC0xNzU3OTY2Njg2LC0xMTE4Njk0MD
+kyLC0yMDg0NTIxNDU5LC01NjUxMDgyMTgsMTU4MTYyNTMwMiwt
+Mjc3MjQ5OTQyLDY2MjE3MjkxOSw0MTAwMDE3NTYsLTEzMjAwNT
+kxOTcsMTczOTgzMDE4MSwxNTA1OTIxNTQxLC0xNTQyNTMzMzYz
+LDE5MjI4MTE1MjldfQ==
 -->
