@@ -178,15 +178,13 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref4]: Charles B. Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," _Genetic Resources and Crop Evolution_ 55, no. 1 (2008): 9-13.
 
-[^ref5]: X
+[^ref5]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in _An Illustrated History of the Herbals_ (New York: Columbia University Press, 1997), 201-09.
 
-[^ref6]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in _An Illustrated History of the Herbals_ (New York: Columbia University Press, 1997), 201-09.
+[^ref6]: Arthur K. Wheelock, Jr., _From Botany to Bouquets: Flowers in Northern Art_ (Washington, D.C.: National Gallery of Art, 1999).
 
-[^ref7]: Arthur K. Wheelock, Jr., _From Botany to Bouquets: Flowers in Northern Art_ (Washington, D.C.: National Gallery of Art, 1999).
+[^ref7]: F. de Nave and D. Imhof, eds., _Botany in the Low Countries: (end of the 15th centry, ca. 1650) Plantin-Moretus Museum Exhibition_ (Antwerp: City of Antwerp, the Plantin-Moretus Museum and the Stedelijk Prentenkabinet (Municipal Printroom), 1993), ##.
 
-[^ref8]: F. de Nave and D. Imhof, eds., _Botany in the Low Countries: (end of the 15th centry, ca. 1650) Plantin-Moretus Museum Exhibition_ (Antwerp: City of Antwerp, the Plantin-Moretus Museum and the Stedelijk Prentenkabinet (Municipal Printroom), 1993), ##.
-
-[^ref9]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449.
+[^ref8]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449.
 
 [^ref10]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 
@@ -221,11 +219,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzA1NjM3NywtNzM2OTA1MTkyLC0xNj
-I3NjQyMjc2LC0xOTM5MDU5MzY3LC0xMjE2MTkyMDM4LC00MzIy
-NzkyODcsLTkyNjk2Mzk2MCwxNjQzMjcwNzE3LDIzMTgxMDczOC
-wxMzM4NTQ2NjA4LC0xOTEyNDkxNjgwLDE2MDA1NzgyNjYsLTIx
-MzExNTIwODQsLTU3ODQzMTQzNCwtMTc3MDA0NDgyMywtMzIxOT
-I0OTc0LDEyODgxNTY1MTUsMTg4NjI5NTAxMiwyNzE2OTAyNDcs
-LTIyNzkxMzM0Ml19
+eyJoaXN0b3J5IjpbMTQ3Mzg0NTYzNywtNDczMDU2Mzc3LC03Mz
+Y5MDUxOTIsLTE2Mjc2NDIyNzYsLTE5MzkwNTkzNjcsLTEyMTYx
+OTIwMzgsLTQzMjI3OTI4NywtOTI2OTYzOTYwLDE2NDMyNzA3MT
+csMjMxODEwNzM4LDEzMzg1NDY2MDgsLTE5MTI0OTE2ODAsMTYw
+MDU3ODI2NiwtMjEzMTE1MjA4NCwtNTc4NDMxNDM0LC0xNzcwMD
+Q0ODIzLC0zMjE5MjQ5NzQsMTI4ODE1NjUxNSwxODg2Mjk1MDEy
+LDI3MTY5MDI0N119
 -->
