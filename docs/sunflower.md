@@ -27,7 +27,7 @@ The genus Helianthus—a Latin compound derived from the Greek words _helios_ (s
 ### Plant Mobility and Early European Descriptions
 
 <param ve-entity eid="Q29" title="Spain">
-The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals and other corroborating evidence can be used to chart its introduction to Spain and other parts of Europe.
+The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals and other corroborating evidence can be used to chart its introduction to Spain and other parts of Europe.
 <param ve-map prefer-geojson center="45.796048, 3.108712" zoom="4.5" show-label="true">
 
 <param ve-entity eid="Q950531" title="Nicolás Monardes" aliases="Monardes’s">
@@ -211,11 +211,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTkzODc4NywtMTgyOTM1MjM4NiwtMT
-Q2NjQwMDU2NywtMTc5NTYxODUxOSwtMTc1Nzk2NjY4NiwtMTEx
-ODY5NDA5MiwtMjA4NDUyMTQ1OSwtNTY1MTA4MjE4LDE1ODE2Mj
-UzMDIsLTI3NzI0OTk0Miw2NjIxNzI5MTksNDEwMDAxNzU2LC0x
-MzIwMDU5MTk3LDE3Mzk4MzAxODEsMTUwNTkyMTU0MSwtMTU0Mj
-UzMzM2MywxOTIyODExNTI5LDEwOTAzOTM0MTQsODU1OTc0NjI1
-LC00NzE5ODMwOTFdfQ==
+eyJoaXN0b3J5IjpbLTEyNTkxMTAwMDIsLTE4MjkzNTIzODYsLT
+E0NjY0MDA1NjcsLTE3OTU2MTg1MTksLTE3NTc5NjY2ODYsLTEx
+MTg2OTQwOTIsLTIwODQ1MjE0NTksLTU2NTEwODIxOCwxNTgxNj
+I1MzAyLC0yNzcyNDk5NDIsNjYyMTcyOTE5LDQxMDAwMTc1Niwt
+MTMyMDA1OTE5NywxNzM5ODMwMTgxLDE1MDU5MjE1NDEsLTE1ND
+I1MzMzNjMsMTkyMjgxMTUyOSwxMDkwMzkzNDE0LDg1NTk3NDYy
+NSwtNDcxOTgzMDkxXX0=
 -->
