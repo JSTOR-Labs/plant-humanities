@@ -91,6 +91,8 @@ Through transregional trade networks Prince Bishop of Eichstätt obtained materi
 ### Mythic Encounters and Scientific Debates
 
 <param ve-image iiif primary fit="contain" url="https://ia800805.us.archive.org/BookReader/BookReaderImages.php?id=novaplantarumani00hern&itemPath=%2F5%2Fitems%2Fnovaplantarumani00hern&server=ia800805.us.archive.org&page=n245_w820" title="Hernández, Francisco, _Nova plantarum, animalium et mineralium Mexicanorum historia_, 1651, John Carter Brown Library">
+<param ve-entity eid="Q2401485" title="expedition">
+<param ve-entity eid="Q103817" title="indigenous people" aliases="idigenous">
 The migration of sunflower iconography is also evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_ (1651). The book purports to document plants and animals that Hernández and his team, which included several indigenous artists, observed during a three-year expedition through Mexico in the 1570s.[^ref11] However, its illustrations of sunflowers, shown here, were not drawn on-site from local plants but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait made under Besler’s direction for inclusion in _Hortus Eystettensis_. <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from Anthoine Colin's _[Histoire des simples médicamens apportés de l'Amerique](%5D%28https://www.biodiversitylibrary.org/page/7815694%29)_ (1619), a French-language translation of a text by Monardes, or from a similar precedent. These appropriations have been interpreted as evidence that Hernández’s team of artists or those working on a later version had to copy existing imagery because the sunflower was not established in Mexico at the time of the expedition.[^ref12] If that were so, Hernández’s inclusion of the sunflower in his manuscript recounted a mythic encounter with the plant, reproducing European misconceptions about its range that scientists would later dispute.
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, Missouri Botanical Garden">
@@ -236,11 +238,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTk4MzAzNCwxMzIzMjE4MzksLTI5MT
-E0NjU0NiwtMTMzNzU1NDE4NSwtNTM0MzEwNjU4LC0xOTgzMjIw
-MjI4LDEzNTc3MDI2NzYsMTU5NzMwMzY3NywyMTcxMjQ5MjIsMT
-U1Njk2MDI0NywtMTczNjkxNTUzMywtMTAzNDI2OTc4NywtNjQ4
-OTY1NzY3LC02MzI3NTAxODUsNTAzNDgwMjYyLDMyNzgzNDk5NC
-wtMTg1ODkzMzU1NiwxMTg4NzAwNjI5LC00NzMwNTYzNzcsLTcz
-NjkwNTE5Ml19
+eyJoaXN0b3J5IjpbMTc0MTIzMzk0NywxOTY5OTgzMDM0LDEzMj
+MyMTgzOSwtMjkxMTQ2NTQ2LC0xMzM3NTU0MTg1LC01MzQzMTA2
+NTgsLTE5ODMyMjAyMjgsMTM1NzcwMjY3NiwxNTk3MzAzNjc3LD
+IxNzEyNDkyMiwxNTU2OTYwMjQ3LC0xNzM2OTE1NTMzLC0xMDM0
+MjY5Nzg3LC02NDg5NjU3NjcsLTYzMjc1MDE4NSw1MDM0ODAyNj
+IsMzI3ODM0OTk0LC0xODU4OTMzNTU2LDExODg3MDA2MjksLTQ3
+MzA1NjM3N119
 -->
