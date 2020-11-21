@@ -103,16 +103,18 @@ The discussion of sunflowers in Hernández’s _Nova plantarum_ complicates deba
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
 <param ve-entity eid="Q81506" title="Charles I of England">
 <param ve-entity eid="Q112110" title="emblem">
-<param ve-entity eid="Q134270" title="Helios">
-<param ve-entity eid="Q866674" title="Clytie">
 By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals and emblems.[^ref20] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower—a floral embodiment of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
-<param ve-entity eid="Q158082" title="heliotropum">
+<param ve-entity eid="Q158082" title="heliotropum" aliases="heliotrope">
+<param ve-entity eid="Q134270" title="Helios">
+<param ve-entity eid="Q866674" title="Clytie">
 Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant's heliotropic phase recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun-god Helios.[^ref21] According to the story, Clytie competed unsuccessfully for Helios's affections. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, wholly consumed with the act of gazing upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, so-named for its movement toward the sun's rays. Yet, as this print shows, many seventeenth-century artists reinterpreted the narrative by recasting the flora mentioned therein as a sunflower.[^ref22] That break with conventions demonstrates the fashionability of the sunflower as a visual motif and the degree to which its imagery was entangled with beliefs about the flower's formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
+# pollinator (Q1141466)
+
 There is a longstanding cultural assumption that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref23] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation.
 <param ve-video title="_Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits_, Hagop S. Atamian, Nicky M. Creux, Evan A. Brown, Austin G. Garner, Benjamin K. Blackman, Stacey L. Harmer, DOI: 10.1126/science.aaf9793" vid="rjwd4DErj_M?t=18">
 
@@ -222,11 +224,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3MTI0OTIyLDE1NTY5NjAyNDcsLTE3Mz
-Y5MTU1MzMsLTEwMzQyNjk3ODcsLTY0ODk2NTc2NywtNjMyNzUw
-MTg1LDUwMzQ4MDI2MiwzMjc4MzQ5OTQsLTE4NTg5MzM1NTYsMT
-E4ODcwMDYyOSwtNDczMDU2Mzc3LC03MzY5MDUxOTIsLTE2Mjc2
-NDIyNzYsLTE5MzkwNTkzNjcsLTEyMTYxOTIwMzgsLTQzMjI3OT
-I4NywtOTI2OTYzOTYwLDE2NDMyNzA3MTcsMjMxODEwNzM4LDEz
-Mzg1NDY2MDhdfQ==
+eyJoaXN0b3J5IjpbMTU2ODQwODI1NiwyMTcxMjQ5MjIsMTU1Nj
+k2MDI0NywtMTczNjkxNTUzMywtMTAzNDI2OTc4NywtNjQ4OTY1
+NzY3LC02MzI3NTAxODUsNTAzNDgwMjYyLDMyNzgzNDk5NCwtMT
+g1ODkzMzU1NiwxMTg4NzAwNjI5LC00NzMwNTYzNzcsLTczNjkw
+NTE5MiwtMTYyNzY0MjI3NiwtMTkzOTA1OTM2NywtMTIxNjE5Mj
+AzOCwtNDMyMjc5Mjg3LC05MjY5NjM5NjAsMTY0MzI3MDcxNywy
+MzE4MTA3MzhdfQ==
 -->
