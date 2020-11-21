@@ -78,7 +78,7 @@ The migration of sunflower iconography is also evidenced in Francisco Hernández
 Both Hernández and Dodoens participated in a transregional network of Europeans who exchanged iconography and ideas related to the sunflower. This model visualizes some of the intersections among those authors, artists, translators, plant collectors, patrons, and other historical figures, focusing on the period from the 1550s to the 1650s. It also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one book to another, possibly through sources not identified here.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Rembert Dodoens">
 
-### A
+### A Celebration of Sunflower Aesthetics
 <param ve-entity eid="Q65027" title="Basilius Besler">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
@@ -206,11 +206,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDY0NTgxLC0xODI5MzUyMzg2LC0xND
-Y2NDAwNTY3LC0xNzk1NjE4NTE5LC0xNzU3OTY2Njg2LC0xMTE4
-Njk0MDkyLC0yMDg0NTIxNDU5LC01NjUxMDgyMTgsMTU4MTYyNT
-MwMiwtMjc3MjQ5OTQyLDY2MjE3MjkxOSw0MTAwMDE3NTYsLTEz
-MjAwNTkxOTcsMTczOTgzMDE4MSwxNTA1OTIxNTQxLC0xNTQyNT
-MzMzYzLDE5MjI4MTE1MjksMTA5MDM5MzQxNCw4NTU5NzQ2MjUs
-LTQ3MTk4MzA5MV19
+eyJoaXN0b3J5IjpbLTU2NzAxOTUyOCwtMTgyOTM1MjM4NiwtMT
+Q2NjQwMDU2NywtMTc5NTYxODUxOSwtMTc1Nzk2NjY4NiwtMTEx
+ODY5NDA5MiwtMjA4NDUyMTQ1OSwtNTY1MTA4MjE4LDE1ODE2Mj
+UzMDIsLTI3NzI0OTk0Miw2NjIxNzI5MTksNDEwMDAxNzU2LC0x
+MzIwMDU5MTk3LDE3Mzk4MzAxODEsMTUwNTkyMTU0MSwtMTU0Mj
+UzMzM2MywxOTIyODExNTI5LDEwOTAzOTM0MTQsODU1OTc0NjI1
+LC00NzE5ODMwOTFdfQ==
 -->
