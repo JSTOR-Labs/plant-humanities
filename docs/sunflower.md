@@ -71,6 +71,7 @@ Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical name
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
+<param ve-entity eid="Q252772" title="Eichstätt">
 Through transregional trade networks Prince Bishop of Eichstätt obtained materials for the cultivation of domesticated sunflowers in his garden at Eichstätt, Bavaria, which were depicted in Besler's [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908) (1613). Eichstätt and Besler participated in a transregional network of Europeans who exchanged iconography and ideas related to the sunflower. This model visualizes some of the intersections among those authors, artists, translators, plant collectors, patrons, and other historical figures, focusing on the period from the 1550s to the 1650s. It also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one book to another, possibly through sources not identified here.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Rembert Dodoens">
 
@@ -213,11 +214,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMjIwOTM4OCwtMjEyNzE4OTM1MCw5ND
-cxMjE5ODQsLTEwODgyMTYyOTQsMTgwNTE5ODcxOCw2MTQxNDI3
-ODAsMTIzNjY0NzA4MSwtMTgyOTM1MjM4NiwtMTQ2NjQwMDU2Ny
-wtMTc5NTYxODUxOSwtMTc1Nzk2NjY4NiwtMTExODY5NDA5Miwt
-MjA4NDUyMTQ1OSwtNTY1MTA4MjE4LDE1ODE2MjUzMDIsLTI3Nz
-I0OTk0Miw2NjIxNzI5MTksNDEwMDAxNzU2LC0xMzIwMDU5MTk3
-LDE3Mzk4MzAxODFdfQ==
+eyJoaXN0b3J5IjpbLTExOTE3MDMzNzgsMTAxMjIwOTM4OCwtMj
+EyNzE4OTM1MCw5NDcxMjE5ODQsLTEwODgyMTYyOTQsMTgwNTE5
+ODcxOCw2MTQxNDI3ODAsMTIzNjY0NzA4MSwtMTgyOTM1MjM4Ni
+wtMTQ2NjQwMDU2NywtMTc5NTYxODUxOSwtMTc1Nzk2NjY4Niwt
+MTExODY5NDA5MiwtMjA4NDUyMTQ1OSwtNTY1MTA4MjE4LDE1OD
+E2MjUzMDIsLTI3NzI0OTk0Miw2NjIxNzI5MTksNDEwMDAxNzU2
+LC0xMzIwMDU5MTk3XX0=
 -->
