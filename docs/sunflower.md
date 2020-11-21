@@ -55,9 +55,9 @@ The illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at rig
 <param ve-image fit="contain" url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0311.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 <param ve-image fit="contain" url=https://ia801904.us.archive.org/BookReader/BookReaderImages.php?id=gri_33125014246561&itemPath=%2F3%2Fitems%2Fgri_33125014246561&server=ia801904.us.archive.org&page=n29_w907" title="Pietro Andrea Matthioli, _I discorsi di M. Pietro Andrea Matthioli..._, Venice: Vincenzo ValgrisI, 1568, Getty Research Institute">
 
-In the late 1500s, it was common for herbalists to appropriate illustrations and text from existing sources, adapting that material to new contexts. That was true of the sunflower imagery in Dodoens's _Florum, et coronariarum_.  In the following instances, the size of the illustrations were reduced to provide more space for text in keeping with the economical visual conventions and utilitarian function of herbals. Matthias de l'Obel reused the image in his herbal _[Plantarum, seu, Stirpium historia](https://www.biodiversitylibrary.org/page/9871376)_ (1576). He named the plant _Solis Flos_ (“flower of the sun”) and a small perennial sunflower _Solis Flos minor_, monikers that others later appropriated. By contrast, John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578) reproduced the image along with the pre-Linnaean name for the domesticated sunflower _Chrysanthemum Peruvianum_. It is important to note that, at the time, Dodoens and other herbalists used the word “Peru” indiscriminately to mean someplace in the Americas.[^ref16] Despite there being no archaeological evidence supporting the presence of _H. annuus_ in pre-colonial Peru, that muddied terminology has been misinterpreted as proof of the flower's "Peruvian" origins.
-<param ve-image fit="contain" primary url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
-<param ve-image fit="contain" url="https://ia800501.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488167&itemPath=%2F12%2Fitems%2Fmobot31753003488167&server=ia800501.us.archive.org&page=n328_w966" title="Matthias de l'Obel, _Plantarum, seu, Stirpium historia_, Antwerp: Christophori Plantini, 1576, Missouri Botanical Gardeny">
+In the late 1500s, it was common for herbalists to appropriate illustrations and text from existing sources, adapting that material to new contexts. That was true of the sunflower imagery in Dodoens's _Florum, et coronariarum_.  In the following instances, the size of the illustrations were reduced to provide more space for text in keeping with the economical visual conventions and utilitarian function of herbals. Matthias de l'Obel reused the image in his herbal _[Plantarum, seu, Stirpium historia](https://www.biodiversitylibrary.org/page/9871376)_ (1576). He named the plant _Solis Flos_ (“flower of the sun”) and a small perennial sunflower _Solis Flos minor_, monikers that others later appropriated. By contrast, John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578) reproduced the image along with the pre-Linnaean name for the domesticated sunflower _Chrysanthemum Peruvianum_. It is important to note that, at the time, Dodoens and other herbalists used the word “Peru” indiscriminately to mean someplace in the Americas.[^ref16] Despite there being no archaeological evidence supporting the presence of _H. annuus_ in pre-Columbian Peru, that muddied terminology has been misinterpreted as proof of the flower's "Peruvian" origins.
+<param ve-image fit="contain" primary url="https://ia800501.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488167&itemPath=%2F12%2Fitems%2Fmobot31753003488167&server=ia800501.us.archive.org&page=n328_w966" title="Matthias de l'Obel, _Plantarum, seu, Stirpium historia_, Antwerp: Christophori Plantini, 1576, Missouri Botanical Gardeny">
+<param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q419" title="Peru">
 <param ve-entity eid="Q1860320" title="Matthias de l'Obel">
 <parma ve-entity eid="Q1333338" title="John Gerard" aliases="John Gerard's">
@@ -214,11 +214,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjMxMDkxLDI3MTY5MDI0NywtMjI3OT
-EzMzQyLC0xMTkxNzAzMzc4LDEwMTIyMDkzODgsLTIxMjcxODkz
-NTAsOTQ3MTIxOTg0LC0xMDg4MjE2Mjk0LDE4MDUxOTg3MTgsNj
-E0MTQyNzgwLDEyMzY2NDcwODEsLTE4MjkzNTIzODYsLTE0NjY0
-MDA1NjcsLTE3OTU2MTg1MTksLTE3NTc5NjY2ODYsLTExMTg2OT
-QwOTIsLTIwODQ1MjE0NTksLTU2NTEwODIxOCwxNTgxNjI1MzAy
-LC0yNzcyNDk5NDJdfQ==
+eyJoaXN0b3J5IjpbMTg4NjI5NTAxMiwyNzE2OTAyNDcsLTIyNz
+kxMzM0MiwtMTE5MTcwMzM3OCwxMDEyMjA5Mzg4LC0yMTI3MTg5
+MzUwLDk0NzEyMTk4NCwtMTA4ODIxNjI5NCwxODA1MTk4NzE4LD
+YxNDE0Mjc4MCwxMjM2NjQ3MDgxLC0xODI5MzUyMzg2LC0xNDY2
+NDAwNTY3LC0xNzk1NjE4NTE5LC0xNzU3OTY2Njg2LC0xMTE4Nj
+k0MDkyLC0yMDg0NTIxNDU5LC01NjUxMDgyMTgsMTU4MTYyNTMw
+MiwtMjc3MjQ5OTQyXX0=
 -->
