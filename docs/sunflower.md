@@ -43,7 +43,7 @@ Europeans were eager to collect exotic flora from the Americas because such plan
 <param ve-entity eid="Q162022" title="Mechelen">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
 <param ve-entity eid="Q354326" title="florilegium" aliases="florilegia">
-Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text in that herbal based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Monardes was primarily interested in the use of colonial trade routes to obtain "new" plants with healing and medicinal properties. However, the sunflower did not fit that paradigm and Europeans instead came to value the plant mostly for its magnificent blooms and towering height. These qualities are described in Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_. An early example of a florilegium, Dodoens's treatise devoted to ornamental and aromatic flowers also maps the movement of cultivated sunflowers to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14]
+Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text in that herbal based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Monardes was primarily interested in the use of colonial trade routes to obtain "new" plants with healing and medicinal properties. However, the sunflower did not fit that paradigm and Europeans instead came to value the plant mostly for its magnificent blooms and towering height. These qualities are described in Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_. An early example of a florilegium, Dodoens's treatise devoted to ornamental and aromatic flowers also maps the movement of cultivated sunflowers to <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14]
 <param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
 ### “Peruvian” Origins and Image Migration
@@ -214,11 +214,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDAzODUzOTAsMjcxNjkwMjQ3LC0yMj
-c5MTMzNDIsLTExOTE3MDMzNzgsMTAxMjIwOTM4OCwtMjEyNzE4
-OTM1MCw5NDcxMjE5ODQsLTEwODgyMTYyOTQsMTgwNTE5ODcxOC
-w2MTQxNDI3ODAsMTIzNjY0NzA4MSwtMTgyOTM1MjM4NiwtMTQ2
-NjQwMDU2NywtMTc5NTYxODUxOSwtMTc1Nzk2NjY4NiwtMTExOD
-Y5NDA5MiwtMjA4NDUyMTQ1OSwtNTY1MTA4MjE4LDE1ODE2MjUz
-MDIsLTI3NzI0OTk0Ml19
+eyJoaXN0b3J5IjpbMTgyNzgyMzIzMywyNzE2OTAyNDcsLTIyNz
+kxMzM0MiwtMTE5MTcwMzM3OCwxMDEyMjA5Mzg4LC0yMTI3MTg5
+MzUwLDk0NzEyMTk4NCwtMTA4ODIxNjI5NCwxODA1MTk4NzE4LD
+YxNDE0Mjc4MCwxMjM2NjQ3MDgxLC0xODI5MzUyMzg2LC0xNDY2
+NDAwNTY3LC0xNzk1NjE4NTE5LC0xNzU3OTY2Njg2LC0xMTE4Nj
+k0MDkyLC0yMDg0NTIxNDU5LC01NjUxMDgyMTgsMTU4MTYyNTMw
+MiwtMjc3MjQ5OTQyXX0=
 -->
