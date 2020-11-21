@@ -126,7 +126,6 @@ In the eighteenth and early nineteenth centuries, botanical illustrators develop
 
 <param ve-entity eid="Q14847254" title="Compositae"> 
 <param ve-entity eid="Q30765614" title="floret" aliases="florets"> 
-
 Henderson's botanical illustration highlights a trait of the sunflower that we may overlook due to our casual familiarity with the plant. Its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets. This diagram of a mature flower head shows that what we generally call “petals” are actually ray florets, which serve to attract pollinators to disk florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own seed after pollination. Perceiving such traits and intuiting their reproductive functions requires a process of direct observation, visual analysis, and patient contemplation akin to encountering an artwork.
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Helianthus whirl, attributed to L. Shyamal © Creative Commons Attribution-Share Alike 2.5">
@@ -226,11 +225,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAwOTQxNjYsLTE5ODMyMjAyMjgsMT
-M1NzcwMjY3NiwxNTk3MzAzNjc3LDIxNzEyNDkyMiwxNTU2OTYw
-MjQ3LC0xNzM2OTE1NTMzLC0xMDM0MjY5Nzg3LC02NDg5NjU3Nj
-csLTYzMjc1MDE4NSw1MDM0ODAyNjIsMzI3ODM0OTk0LC0xODU4
-OTMzNTU2LDExODg3MDA2MjksLTQ3MzA1NjM3NywtNzM2OTA1MT
-kyLC0xNjI3NjQyMjc2LC0xOTM5MDU5MzY3LC0xMjE2MTkyMDM4
-LC00MzIyNzkyODddfQ==
+eyJoaXN0b3J5IjpbLTkwNzEyMjQ3MiwtMTk4MzIyMDIyOCwxMz
+U3NzAyNjc2LDE1OTczMDM2NzcsMjE3MTI0OTIyLDE1NTY5NjAy
+NDcsLTE3MzY5MTU1MzMsLTEwMzQyNjk3ODcsLTY0ODk2NTc2Ny
+wtNjMyNzUwMTg1LDUwMzQ4MDI2MiwzMjc4MzQ5OTQsLTE4NTg5
+MzM1NTYsMTE4ODcwMDYyOSwtNDczMDU2Mzc3LC03MzY5MDUxOT
+IsLTE2Mjc2NDIyNzYsLTE5MzkwNTkzNjcsLTEyMTYxOTIwMzgs
+LTQzMjI3OTI4N119
 -->
