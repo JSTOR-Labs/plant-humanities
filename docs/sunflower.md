@@ -80,7 +80,7 @@ Although Linnaeus gave _Helianthus_ and _Helianthus annuus_ their botanical name
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
-Besler participated in a transregional network of Europeans who exchanged iconography and ideas related to the sunflower. This model visualizes some of the intersections among those authors, artists, translators, plant collectors, patrons, and other historical figures, focusing on the period from the 1550s to the 1650s. It also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one book to another, possibly through sources not identified here.
+Through transregional trade networks Prince Bishop of Eichstätt obtained materials for the cultivation of domesticated sunflowers in his garden at Eichstätt, Bavaria, which were depicted in Besler's [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908) (1613). Eichstätt and Besler participated in a transregional network of Europeans who exchanged iconography and ideas related to the sunflower. This model visualizes some of the intersections among those authors, artists, translators, plant collectors, patrons, and other historical figures, focusing on the period from the 1550s to the 1650s. It also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one book to another, possibly through sources not identified here.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Rembert Dodoens">
 
 ### Mythic Encounters and Image Migrations
@@ -210,11 +210,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NjA2MjUxLC0xODI5MzUyMzg2LC0xND
-Y2NDAwNTY3LC0xNzk1NjE4NTE5LC0xNzU3OTY2Njg2LC0xMTE4
-Njk0MDkyLC0yMDg0NTIxNDU5LC01NjUxMDgyMTgsMTU4MTYyNT
-MwMiwtMjc3MjQ5OTQyLDY2MjE3MjkxOSw0MTAwMDE3NTYsLTEz
-MjAwNTkxOTcsMTczOTgzMDE4MSwxNTA1OTIxNTQxLC0xNTQyNT
-MzMzYzLDE5MjI4MTE1MjksMTA5MDM5MzQxNCw4NTU5NzQ2MjUs
-LTQ3MTk4MzA5MV19
+eyJoaXN0b3J5IjpbLTE2NjM4OTUzNzYsLTE4MjkzNTIzODYsLT
+E0NjY0MDA1NjcsLTE3OTU2MTg1MTksLTE3NTc5NjY2ODYsLTEx
+MTg2OTQwOTIsLTIwODQ1MjE0NTksLTU2NTEwODIxOCwxNTgxNj
+I1MzAyLC0yNzcyNDk5NDIsNjYyMTcyOTE5LDQxMDAwMTc1Niwt
+MTMyMDA1OTE5NywxNzM5ODMwMTgxLDE1MDU5MjE1NDEsLTE1ND
+I1MzMzNjMsMTkyMjgxMTUyOSwxMDkwMzkzNDE0LDg1NTk3NDYy
+NSwtNDcxOTgzMDkxXX0=
 -->
