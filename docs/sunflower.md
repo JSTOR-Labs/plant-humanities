@@ -26,7 +26,7 @@ Sunflower imagery can provide rich historical information about the genus _[Heli
 ### Naming the Iconic Flower
 
 <param ve-entity eid="Q10432667306" title="Carl Linnaeus" aliases="Carolus Linnaeus">
-The genus Helianthus—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—was named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the plant was already a beloved garden flower in Europe.[^ref2] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant, in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_ (1737), offers some insights. He asks, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?”[^ref3] His encomium on the splendor of the mature _Helianthus_ inflorescence and its formal resemblance to the sun demonstrates some traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
+The genus Helianthus—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—was named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the plant was already a beloved garden flower in Europe.[^ref2] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant, in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_ (1737), offers some insights. He asks, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?”[^ref3] His encomium on the splendor of the mature _Helianthus_ and its formal resemblance to the sun demonstrates some traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, p. 97 Nomina Generica, _Critica botanica_, 1737, Lugduni Batavorum: Apud Conradum Wishoff © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, p. 98 Nomina Generica, _Critica botanica_, 1737, Lugduni Batavorum: Apud Conradum Wishoff © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
@@ -230,11 +230,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTE0NjU0NiwtMTMzNzU1NDE4NSwtNT
-M0MzEwNjU4LC0xOTgzMjIwMjI4LDEzNTc3MDI2NzYsMTU5NzMw
-MzY3NywyMTcxMjQ5MjIsMTU1Njk2MDI0NywtMTczNjkxNTUzMy
-wtMTAzNDI2OTc4NywtNjQ4OTY1NzY3LC02MzI3NTAxODUsNTAz
-NDgwMjYyLDMyNzgzNDk5NCwtMTg1ODkzMzU1NiwxMTg4NzAwNj
-I5LC00NzMwNTYzNzcsLTczNjkwNTE5MiwtMTYyNzY0MjI3Niwt
-MTkzOTA1OTM2N119
+eyJoaXN0b3J5IjpbLTkyOTEyOTM3NiwtMjkxMTQ2NTQ2LC0xMz
+M3NTU0MTg1LC01MzQzMTA2NTgsLTE5ODMyMjAyMjgsMTM1Nzcw
+MjY3NiwxNTk3MzAzNjc3LDIxNzEyNDkyMiwxNTU2OTYwMjQ3LC
+0xNzM2OTE1NTMzLC0xMDM0MjY5Nzg3LC02NDg5NjU3NjcsLTYz
+Mjc1MDE4NSw1MDM0ODAyNjIsMzI3ODM0OTk0LC0xODU4OTMzNT
+U2LDExODg3MDA2MjksLTQ3MzA1NjM3NywtNzM2OTA1MTkyLC0x
+NjI3NjQyMjc2XX0=
 -->
