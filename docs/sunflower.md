@@ -98,8 +98,8 @@ The migration of sunflower iconography is also evidenced in Francisco Hernández
 <param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, Missouri Botanical Garden">
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
-# fossil (Q40614)
-Although botanists have consulted herbals and other historical evidence to chart the movement of _Helianthus annuus_, they have also used maps of plant distribution and fossilized remains to study the origins of the plant.[^ref13] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref14] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large  flower heads with more seeds.[^ref15]
+<param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
+Although botanists have consulted herbals and other historical evidence to chart the movement of _Helianthus annuus_, they have also used maps of plant distribution and fossilized remains to study the origins of the plant.[^ref13] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref14] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, such as large  flower heads with more seeds.[^ref15]
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
@@ -239,7 +239,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTI5MTA3MSwxOTY5OTgzMDM0LDEzMj
+eyJoaXN0b3J5IjpbLTkxMDIzNzE0NiwxOTY5OTgzMDM0LDEzMj
 MyMTgzOSwtMjkxMTQ2NTQ2LC0xMzM3NTU0MTg1LC01MzQzMTA2
 NTgsLTE5ODMyMjAyMjgsMTM1NzcwMjY3NiwxNTk3MzAzNjc3LD
 IxNzEyNDkyMiwxNTU2OTYwMjQ3LC0xNzM2OTE1NTMzLC0xMDM0
