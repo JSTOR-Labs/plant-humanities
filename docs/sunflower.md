@@ -178,6 +178,8 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref4]: Charles B. Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," _Genetic Resources and Crop Evolution_ 55, no. 1 (2008): 9-13.
 
+[^ref5]: X
+
 [^ref6]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in _An Illustrated History of the Herbals_ (New York: Columbia University Press, 1997), 201-09.
 
 [^ref7]: Arthur K. Wheelock, Jr., _From Botany to Bouquets: Flowers in Northern Art_ (Washington, D.C.: National Gallery of Art, 1999).
@@ -219,11 +221,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDk2MTE5NjMsLTczNjkwNTE5MiwtMT
-YyNzY0MjI3NiwtMTkzOTA1OTM2NywtMTIxNjE5MjAzOCwtNDMy
-Mjc5Mjg3LC05MjY5NjM5NjAsMTY0MzI3MDcxNywyMzE4MTA3Mz
-gsMTMzODU0NjYwOCwtMTkxMjQ5MTY4MCwxNjAwNTc4MjY2LC0y
-MTMxMTUyMDg0LC01Nzg0MzE0MzQsLTE3NzAwNDQ4MjMsLTMyMT
-kyNDk3NCwxMjg4MTU2NTE1LDE4ODYyOTUwMTIsMjcxNjkwMjQ3
-LC0yMjc5MTMzNDJdfQ==
+eyJoaXN0b3J5IjpbLTU0NTQwNjcxMywtNzM2OTA1MTkyLC0xNj
+I3NjQyMjc2LC0xOTM5MDU5MzY3LC0xMjE2MTkyMDM4LC00MzIy
+NzkyODcsLTkyNjk2Mzk2MCwxNjQzMjcwNzE3LDIzMTgxMDczOC
+wxMzM4NTQ2NjA4LC0xOTEyNDkxNjgwLDE2MDA1NzgyNjYsLTIx
+MzExNTIwODQsLTU3ODQzMTQzNCwtMTc3MDA0NDgyMywtMzIxOT
+I0OTc0LDEyODgxNTY1MTUsMTg4NjI5NTAxMiwyNzE2OTAyNDcs
+LTIyNzkxMzM0Ml19
 -->
