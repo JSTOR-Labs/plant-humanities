@@ -186,7 +186,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref6]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
 
-[^ref7]: For a contemporary illustration see Pietro Andrea Mattioli, _I discori di M. Pietro Andrea Matthioli…_ (Venice: Vincenzo Valgris, 1568), Biodiversity Heritage Library, [https://www.biodiversitylibrary.org/page/51721054](https://www.biodiversitylibrary.org/page/51721054).
+[^ref7]: 
 
 [^ref7]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
 
@@ -217,11 +217,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc1MzM2MjcsLTEyMTYxOTIwMzgsLT
-QzMjI3OTI4NywtOTI2OTYzOTYwLDE2NDMyNzA3MTcsMjMxODEw
-NzM4LDEzMzg1NDY2MDgsLTE5MTI0OTE2ODAsMTYwMDU3ODI2Ni
-wtMjEzMTE1MjA4NCwtNTc4NDMxNDM0LC0xNzcwMDQ0ODIzLC0z
-MjE5MjQ5NzQsMTI4ODE1NjUxNSwxODg2Mjk1MDEyLDI3MTY5MD
-I0NywtMjI3OTEzMzQyLC0xMTkxNzAzMzc4LDEwMTIyMDkzODgs
-LTIxMjcxODkzNTBdfQ==
+eyJoaXN0b3J5IjpbMzcyNTM5NzY4LC0xMjE2MTkyMDM4LC00Mz
+IyNzkyODcsLTkyNjk2Mzk2MCwxNjQzMjcwNzE3LDIzMTgxMDcz
+OCwxMzM4NTQ2NjA4LC0xOTEyNDkxNjgwLDE2MDA1NzgyNjYsLT
+IxMzExNTIwODQsLTU3ODQzMTQzNCwtMTc3MDA0NDgyMywtMzIx
+OTI0OTc0LDEyODgxNTY1MTUsMTg4NjI5NTAxMiwyNzE2OTAyND
+csLTIyNzkxMzM0MiwtMTE5MTcwMzM3OCwxMDEyMjA5Mzg4LC0y
+MTI3MTg5MzUwXX0=
 -->
