@@ -113,8 +113,7 @@ Europeans associated sunflowers with the human sentiments of loyalty and constan
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
-# pollinator (Q1141466)
-
+<param ve-entity eid="Q1141466" title="pollinator">
 There is a longstanding cultural assumption that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref23] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation.
 <param ve-video title="_Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits_, Hagop S. Atamian, Nicky M. Creux, Evan A. Brown, Austin G. Garner, Benjamin K. Blackman, Stacey L. Harmer, DOI: 10.1126/science.aaf9793" vid="rjwd4DErj_M?t=18">
 
@@ -224,11 +223,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODQwODI1NiwyMTcxMjQ5MjIsMTU1Nj
-k2MDI0NywtMTczNjkxNTUzMywtMTAzNDI2OTc4NywtNjQ4OTY1
-NzY3LC02MzI3NTAxODUsNTAzNDgwMjYyLDMyNzgzNDk5NCwtMT
-g1ODkzMzU1NiwxMTg4NzAwNjI5LC00NzMwNTYzNzcsLTczNjkw
-NTE5MiwtMTYyNzY0MjI3NiwtMTkzOTA1OTM2NywtMTIxNjE5Mj
-AzOCwtNDMyMjc5Mjg3LC05MjY5NjM5NjAsMTY0MzI3MDcxNywy
-MzE4MTA3MzhdfQ==
+eyJoaXN0b3J5IjpbLTE3MDg5OTY0NDIsMjE3MTI0OTIyLDE1NT
+Y5NjAyNDcsLTE3MzY5MTU1MzMsLTEwMzQyNjk3ODcsLTY0ODk2
+NTc2NywtNjMyNzUwMTg1LDUwMzQ4MDI2MiwzMjc4MzQ5OTQsLT
+E4NTg5MzM1NTYsMTE4ODcwMDYyOSwtNDczMDU2Mzc3LC03MzY5
+MDUxOTIsLTE2Mjc2NDIyNzYsLTE5MzkwNTkzNjcsLTEyMTYxOT
+IwMzgsLTQzMjI3OTI4NywtOTI2OTYzOTYwLDE2NDMyNzA3MTcs
+MjMxODEwNzM4XX0=
 -->
