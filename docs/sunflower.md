@@ -121,7 +121,7 @@ There is a longstanding cultural assumption that sunflowers are heliotropic thro
 ### Out of One, Many
 
 <param ve-entity eid="Q2374149" title="botanist" aliases="botanists">
-In the eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing sunflowers that allowed them to communicate  new forms of scientific knowledge about plants. This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist Peter Henderson, exemplifies a mode of artistic engagement with plants tailored to the needs of botanists. Henderson shows a partial view of two mature plants—facing opposite directions—to communicate valuable information about their dorsal and ventral anatomical structures. Yet Henderson takes some aesthetic liberties to imbue the flower heads with a sense of movement and vitality, making his design appealing to plant and art collectors alike. <span data-click-image-zoomto="982,2706,2213,1795">At the center of the left flower,</span> a series of green scallop-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets.
+In the eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing sunflowers that allowed them to communicate  new forms of scientific knowledge about plants. This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist [Peter Henderson](http://vocab.getty.edu/page/ulan/500042021), exemplifies a mode of artistic engagement with plants tailored to the needs of botanists. Henderson shows a partial view of two mature plants—facing opposite directions—to communicate valuable information about their dorsal and ventral anatomical structures. Yet Henderson takes some aesthetic liberties to imbue the flower heads with a sense of movement and vitality, making his design appealing to plant and art collectors alike. <span data-click-image-zoomto="982,2706,2213,1795">At the center of the left flower,</span> a series of green scallop-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
 <param ve-entity eid="Q14847254" title="Compositae"> 
@@ -144,11 +144,9 @@ Henderson's botanical illustration highlights a trait of the sunflower that we m
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 In the latter nineteenth century, a period of rapid industralization and urbanization in Europe, some painters developed new visual languages for representing sunflowers to explore the subjective experiences of encountering plants. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plant's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir human emotions or spirituality. These engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire.
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
-<param ve-entity eid="Q273383" title="Memento mori">
 <param ve-entity eid="Q202398" title="industrialization">
 <param ve-entity eid="Q161078" title="urbanization">
 <param ve-entity eid="Q628403" title="conservation">
-<param ve-entity eid="Q11084414" title="modernity">
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflowers%20Monet%20van%20Gogh%20CC.jpg" title="Claude Monet _Jerusalem artichoke_ 1880 (left), Vincent van Gogh, _Sunflower_, 1888, National Gallery London">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflowers%20compared%20to%20van%20Gogh%20painting.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
@@ -225,11 +223,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzMwMzY3NywyMTcxMjQ5MjIsMTU1Nj
-k2MDI0NywtMTczNjkxNTUzMywtMTAzNDI2OTc4NywtNjQ4OTY1
-NzY3LC02MzI3NTAxODUsNTAzNDgwMjYyLDMyNzgzNDk5NCwtMT
-g1ODkzMzU1NiwxMTg4NzAwNjI5LC00NzMwNTYzNzcsLTczNjkw
-NTE5MiwtMTYyNzY0MjI3NiwtMTkzOTA1OTM2NywtMTIxNjE5Mj
-AzOCwtNDMyMjc5Mjg3LC05MjY5NjM5NjAsMTY0MzI3MDcxNywy
-MzE4MTA3MzhdfQ==
+eyJoaXN0b3J5IjpbMTM1NzcwMjY3NiwxNTk3MzAzNjc3LDIxNz
+EyNDkyMiwxNTU2OTYwMjQ3LC0xNzM2OTE1NTMzLC0xMDM0MjY5
+Nzg3LC02NDg5NjU3NjcsLTYzMjc1MDE4NSw1MDM0ODAyNjIsMz
+I3ODM0OTk0LC0xODU4OTMzNTU2LDExODg3MDA2MjksLTQ3MzA1
+NjM3NywtNzM2OTA1MTkyLC0xNjI3NjQyMjc2LC0xOTM5MDU5Mz
+Y3LC0xMjE2MTkyMDM4LC00MzIyNzkyODcsLTkyNjk2Mzk2MCwx
+NjQzMjcwNzE3XX0=
 -->
