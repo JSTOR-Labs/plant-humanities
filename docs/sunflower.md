@@ -35,9 +35,9 @@ The genus Helianthus—a Latin compound derived from the Greek words _helios_ (s
 <param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
 <param ve-entity eid="Q490360" title="Hickory Country" aliases="eastern North America">
 <param ve-entity eid="Q29" title="Spain">
-<param ve-entity eid="Q7167" title="colonialism">
-<param ve-entity eid="Q7260" title="imperialism">
-Europeans were eager to collect flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and treasures bound up with imperialism and colonialism. The Spanish first transported the domesticated sunflower from North America to Europe, though questions persist about who collected such plants or seeds, and when and from where they did so.[^ref4] In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to <span data-click-map-flyto="45.796048, 3.108712">Spain</span> and other parts of Europe.
+<param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
+<param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
+Europeans were eager to collect flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and treasures bound up with imperialist and colonialist agendas. The Spanish first transported the domesticated sunflower from North America to Europe, though questions persist about who collected such plants or seeds, and when and from where they did so.[^ref4] In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to <span data-click-map-flyto="45.796048, 3.108712">Spain</span> and other parts of Europe.
 <param ve-map prefer-geojson center="Q495448" zoom="5" title="North America" show-label="true">
 
 <param ve-entity eid="Q950531" title="Nicolás Monardes" aliases="Monardes’s">
@@ -222,11 +222,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTAwNjkxNCwtMTAzNDI2OTc4NywtNj
-Q4OTY1NzY3LC02MzI3NTAxODUsNTAzNDgwMjYyLDMyNzgzNDk5
-NCwtMTg1ODkzMzU1NiwxMTg4NzAwNjI5LC00NzMwNTYzNzcsLT
-czNjkwNTE5MiwtMTYyNzY0MjI3NiwtMTkzOTA1OTM2NywtMTIx
-NjE5MjAzOCwtNDMyMjc5Mjg3LC05MjY5NjM5NjAsMTY0MzI3MD
-cxNywyMzE4MTA3MzgsMTMzODU0NjYwOCwtMTkxMjQ5MTY4MCwx
-NjAwNTc4MjY2XX0=
+eyJoaXN0b3J5IjpbLTE3MzY5MTU1MzMsLTEwMzQyNjk3ODcsLT
+Y0ODk2NTc2NywtNjMyNzUwMTg1LDUwMzQ4MDI2MiwzMjc4MzQ5
+OTQsLTE4NTg5MzM1NTYsMTE4ODcwMDYyOSwtNDczMDU2Mzc3LC
+03MzY5MDUxOTIsLTE2Mjc2NDIyNzYsLTE5MzkwNTkzNjcsLTEy
+MTYxOTIwMzgsLTQzMjI3OTI4NywtOTI2OTYzOTYwLDE2NDMyNz
+A3MTcsMjMxODEwNzM4LDEzMzg1NDY2MDgsLTE5MTI0OTE2ODAs
+MTYwMDU3ODI2Nl19
 -->
