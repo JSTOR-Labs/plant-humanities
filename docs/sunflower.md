@@ -75,10 +75,8 @@ The migration of sunflower iconography is also evidenced in Francisco Hernández
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, Missouri Botanical Garden">
 
-### Range and Cultivation
-
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
-How did the type of _Helianthus annuus_ specimen represented in _Flos Solis maior_ come into being? The common sunflower was cultivated by humans thousands of years ago, and the history of that process is enmeshed with convergences of plant and human mobility. We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref6] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref7] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large  flower heads with more seeds.[^ref8]
+We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref6] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref7] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large  flower heads with more seeds.[^ref8]
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
@@ -210,7 +208,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTkwMTEwMSwtMTgyOTM1MjM4NiwtMT
+eyJoaXN0b3J5IjpbLTQxMjExODUxNiwtMTgyOTM1MjM4NiwtMT
 Q2NjQwMDU2NywtMTc5NTYxODUxOSwtMTc1Nzk2NjY4NiwtMTEx
 ODY5NDA5MiwtMjA4NDUyMTQ1OSwtNTY1MTA4MjE4LDE1ODE2Mj
 UzMDIsLTI3NzI0OTk0Miw2NjIxNzI5MTksNDEwMDAxNzU2LC0x
