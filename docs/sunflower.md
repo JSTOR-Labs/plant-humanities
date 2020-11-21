@@ -188,7 +188,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref9]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 
-[^ref10]: [Add commentary about history of manuscript and its production.] Ray Desmond, “CHAPTER,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), ##-##.
+[^ref10]: [Add commentary about history of manuscript and its production.] Ray Desmond, “The Discovery of the New World,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 24-27.
 
 [^ref11]: Heiser, “The Domesticated Sunflower in Mexico?,” 449.
 
@@ -219,11 +219,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3MTk3MjUyLDExODg3MDA2MjksLTQ3Mz
-A1NjM3NywtNzM2OTA1MTkyLC0xNjI3NjQyMjc2LC0xOTM5MDU5
-MzY3LC0xMjE2MTkyMDM4LC00MzIyNzkyODcsLTkyNjk2Mzk2MC
-wxNjQzMjcwNzE3LDIzMTgxMDczOCwxMzM4NTQ2NjA4LC0xOTEy
-NDkxNjgwLDE2MDA1NzgyNjYsLTIxMzExNTIwODQsLTU3ODQzMT
-QzNCwtMTc3MDA0NDgyMywtMzIxOTI0OTc0LDEyODgxNTY1MTUs
-MTg4NjI5NTAxMl19
+eyJoaXN0b3J5IjpbLTM0NjI5MjcxNSwxMTg4NzAwNjI5LC00Nz
+MwNTYzNzcsLTczNjkwNTE5MiwtMTYyNzY0MjI3NiwtMTkzOTA1
+OTM2NywtMTIxNjE5MjAzOCwtNDMyMjc5Mjg3LC05MjY5NjM5Nj
+AsMTY0MzI3MDcxNywyMzE4MTA3MzgsMTMzODU0NjYwOCwtMTkx
+MjQ5MTY4MCwxNjAwNTc4MjY2LC0yMTMxMTUyMDg0LC01Nzg0Mz
+E0MzQsLTE3NzAwNDQ4MjMsLTMyMTkyNDk3NCwxMjg4MTU2NTE1
+LDE4ODYyOTUwMTJdfQ==
 -->
