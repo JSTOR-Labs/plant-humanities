@@ -34,9 +34,8 @@ The genus Helianthus—a Latin compound derived from the Greek words _helios_ (s
 <param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
 <param ve-entity eid="Q490360" title="Hickory Country" aliases="eastern North America">
 <param ve-entity eid="Q29" title="Spain">
-Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and treasures bound up with imperial expansion. The Spanish first transported the domesticated sunflower from North America to Europe, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals, along with corroborating evidence, can be used to chart its introduction to <span data-click-map-flyto="51.031964, 4.502767">Spain and other parts of Europe.
-<param ve-map prefer-geojson center="Q80914" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
-<param ve-map prefer-geojson center="45.796048, 3.108712" zoom="4.5" show-label="true">
+Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and treasures bound up with imperial expansion. The Spanish first transported the domesticated sunflower from North America to Europe, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals, along with corroborating evidence, can be used to chart its introduction to <span data-click-map-flyto="45.796048, 3.108712">Spain</span> and other parts of Europe.
+<param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q950531" title="Nicolás Monardes" aliases="Monardes’s">
 <param ve-entity eid="Q437466" title="Rembert Dodoens" aliases="Dodoens’s">
@@ -213,11 +212,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjQ4NjA2MiwtMTA4ODIxNjI5NCwxOD
-A1MTk4NzE4LDYxNDE0Mjc4MCwxMjM2NjQ3MDgxLC0xODI5MzUy
-Mzg2LC0xNDY2NDAwNTY3LC0xNzk1NjE4NTE5LC0xNzU3OTY2Nj
-g2LC0xMTE4Njk0MDkyLC0yMDg0NTIxNDU5LC01NjUxMDgyMTgs
-MTU4MTYyNTMwMiwtMjc3MjQ5OTQyLDY2MjE3MjkxOSw0MTAwMD
-E3NTYsLTEzMjAwNTkxOTcsMTczOTgzMDE4MSwxNTA1OTIxNTQx
-LC0xNTQyNTMzMzYzXX0=
+eyJoaXN0b3J5IjpbLTE0MTA0MjI3MTAsLTEwODgyMTYyOTQsMT
+gwNTE5ODcxOCw2MTQxNDI3ODAsMTIzNjY0NzA4MSwtMTgyOTM1
+MjM4NiwtMTQ2NjQwMDU2NywtMTc5NTYxODUxOSwtMTc1Nzk2Nj
+Y4NiwtMTExODY5NDA5MiwtMjA4NDUyMTQ1OSwtNTY1MTA4MjE4
+LDE1ODE2MjUzMDIsLTI3NzI0OTk0Miw2NjIxNzI5MTksNDEwMD
+AxNzU2LC0xMzIwMDU5MTk3LDE3Mzk4MzAxODEsMTUwNTkyMTU0
+MSwtMTU0MjUzMzM2M119
 -->
