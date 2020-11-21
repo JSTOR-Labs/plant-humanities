@@ -75,6 +75,7 @@ In the sixteenth and seventeenth centuries, it was common for herbalists to appr
 ### Sunflower Aesthetics in Full Bloom
 <param ve-entity eid="Q65027" title="Basilius Besler">
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
+<param ve-entity eid
 Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. A team of artists, etchers, printmakers, and colorists, hired by Besler, produced this hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_, a striking depiction of the plant shown life-sized.[^ref9] The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ that anticipates modern visual stereotypes for the plant.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
@@ -233,11 +234,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODc2NzYyNDcsMTMyMzIxODM5LC0yOT
-ExNDY1NDYsLTEzMzc1NTQxODUsLTUzNDMxMDY1OCwtMTk4MzIy
-MDIyOCwxMzU3NzAyNjc2LDE1OTczMDM2NzcsMjE3MTI0OTIyLD
-E1NTY5NjAyNDcsLTE3MzY5MTU1MzMsLTEwMzQyNjk3ODcsLTY0
-ODk2NTc2NywtNjMyNzUwMTg1LDUwMzQ4MDI2MiwzMjc4MzQ5OT
-QsLTE4NTg5MzM1NTYsMTE4ODcwMDYyOSwtNDczMDU2Mzc3LC03
-MzY5MDUxOTJdfQ==
+eyJoaXN0b3J5IjpbMjExOTA3NTIxMywxMzIzMjE4MzksLTI5MT
+E0NjU0NiwtMTMzNzU1NDE4NSwtNTM0MzEwNjU4LC0xOTgzMjIw
+MjI4LDEzNTc3MDI2NzYsMTU5NzMwMzY3NywyMTcxMjQ5MjIsMT
+U1Njk2MDI0NywtMTczNjkxNTUzMywtMTAzNDI2OTc4NywtNjQ4
+OTY1NzY3LC02MzI3NTAxODUsNTAzNDgwMjYyLDMyNzgzNDk5NC
+wtMTg1ODkzMzU1NiwxMTg4NzAwNjI5LC00NzMwNTYzNzcsLTcz
+NjkwNTE5Ml19
 -->
