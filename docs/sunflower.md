@@ -27,7 +27,7 @@ The genus Helianthus—a Latin compound derived from the Greek words _helios_ (s
 ### Plant Mobility and Early Printed Sources
 
 <param ve-entity eid="Q29" title="Spain">
-The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe. Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and treasures bound up with imperial expansion.
+Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and treasures bound up with imperial expansion. The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
 <param ve-map prefer-geojson center="45.796048, 3.108712" zoom="4.5" show-label="true">
 
 <param ve-entity eid="Q950531" title="Nicolás Monardes" aliases="Monardes’s">
@@ -205,11 +205,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTE5ODcxOCw2MTQxNDI3ODAsMTIzNj
-Y0NzA4MSwtMTgyOTM1MjM4NiwtMTQ2NjQwMDU2NywtMTc5NTYx
-ODUxOSwtMTc1Nzk2NjY4NiwtMTExODY5NDA5MiwtMjA4NDUyMT
-Q1OSwtNTY1MTA4MjE4LDE1ODE2MjUzMDIsLTI3NzI0OTk0Miw2
-NjIxNzI5MTksNDEwMDAxNzU2LC0xMzIwMDU5MTk3LDE3Mzk4Mz
-AxODEsMTUwNTkyMTU0MSwtMTU0MjUzMzM2MywxOTIyODExNTI5
-LDEwOTAzOTM0MTRdfQ==
+eyJoaXN0b3J5IjpbOTk0MTg1NDU2LDE4MDUxOTg3MTgsNjE0MT
+QyNzgwLDEyMzY2NDcwODEsLTE4MjkzNTIzODYsLTE0NjY0MDA1
+NjcsLTE3OTU2MTg1MTksLTE3NTc5NjY2ODYsLTExMTg2OTQwOT
+IsLTIwODQ1MjE0NTksLTU2NTEwODIxOCwxNTgxNjI1MzAyLC0y
+NzcyNDk5NDIsNjYyMTcyOTE5LDQxMDAwMTc1NiwtMTMyMDA1OT
+E5NywxNzM5ODMwMTgxLDE1MDU5MjE1NDEsLTE1NDI1MzMzNjMs
+MTkyMjgxMTUyOV19
 -->
