@@ -134,12 +134,14 @@ Europeans associated sunflowers with the human sentiments of loyalty and constan
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
 <param ve-entity eid="Q1141466" title="pollinator">
 <param ve-entity eid="Q208353" title="circadian rhythm">
-There is a longstanding cultural assumption that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref24] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation.
+There is a longstanding cultural assumption that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref24] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation.
 <param ve-video title="_Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits_, Hagop S. Atamian, Nicky M. Creux, Evan A. Brown, Austin G. Garner, Benjamin K. Blackman, Stacey L. Harmer, DOI: 10.1126/science.aaf9793" vid="rjwd4DErj_M?t=18">
 
 ### Out of One, Many
 
 <param ve-entity eid="Q2374149" title="botanist" aliases="botanists">
+<param ve-entity eid="Q2602751" title="dorsal">
+<param ve-entity eid="Q3429717" title="ventral">
 In the eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing sunflowers that allowed them to communicate  new forms of scientific knowledge about plants. This hand-colored print _Anatomy of the Sunflower_, based on a design by the artist [Peter Henderson](http://vocab.getty.edu/page/ulan/500042021), exemplifies a mode of artistic engagement with plants tailored to the needs of botanists. Henderson shows a partial view of two mature plants—facing opposite directions—to communicate valuable information about their dorsal and ventral anatomical structures. Yet Henderson takes some aesthetic liberties to imbue the flower heads with a sense of movement and vitality, making his design appealing to plant and art collectors alike. <span data-click-image-zoomto="982,2706,2213,1795">At the center of the left flower,</span> a series of green scallop-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
@@ -248,7 +250,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjM0NDE0OCwtMTYzMDAwNDk4NCwtMT
+eyJoaXN0b3J5IjpbMTcwMTQ3MTQyOSwtMTYzMDAwNDk4NCwtMT
 kyODk4MTUzNSwtMjEyMTcwNDUyNCwtMjQ1MjM4NDYxLC0xODk5
 NjE4NTUyLC0xMzc4NjM3MzUxLDEwOTM5MDYwMjAsOTQxNTE4Mz
 gsLTE3OTA4Mjg4MjUsLTE1NDI5MjE1MDMsMTU3MzM3NSwtNTI5
