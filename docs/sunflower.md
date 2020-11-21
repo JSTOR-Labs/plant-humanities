@@ -186,9 +186,9 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref8]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449.
 
-[^ref10]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
+[^ref9]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 
-[^ref11]: Ray Desmond, “CHAPTER,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), ##-##.
+[^ref10]: Ray Desmond, “CHAPTER,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), ##-##.
 
 [^ref12]: Heiser, “The Domesticated Sunflower in Mexico?,” 449.
 
@@ -219,7 +219,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODA5NTE3NCwtNDczMDU2Mzc3LC03Mz
+eyJoaXN0b3J5IjpbMTE4ODcwMDYyOSwtNDczMDU2Mzc3LC03Mz
 Y5MDUxOTIsLTE2Mjc2NDIyNzYsLTE5MzkwNTkzNjcsLTEyMTYx
 OTIwMzgsLTQzMjI3OTI4NywtOTI2OTYzOTYwLDE2NDMyNzA3MT
 csMjMxODEwNzM4LDEzMzg1NDY2MDgsLTE5MTI0OTE2ODAsMTYw
