@@ -42,7 +42,7 @@ Europeans were eager to collect exotic flora from the Americas because such plan
 <param ve-entity eid="Q8717" title="Seville">
 <param ve-entity eid="Q162022" title="Mechelen">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
-Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14] It is important to establish here that Monardes's herbals primarily focused on the use of colonial trade routes to obtain plants with healing and medicinal properties, whereas Dodoens's though the sunflower 
+Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14] It is important to establish here that Monardes's _Dos libros_ and other herbals primarily focused on the use of colonial trade routes to obtain plants with healing and medicinal properties, though the sunflower did not conform to those. Dodoens's though the sunflower 
 <param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
 ### “Peruvian” Origins and Image Migration
@@ -212,11 +212,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk2NDI0ODcsLTIxMjcxODkzNTAsOT
-Q3MTIxOTg0LC0xMDg4MjE2Mjk0LDE4MDUxOTg3MTgsNjE0MTQy
-NzgwLDEyMzY2NDcwODEsLTE4MjkzNTIzODYsLTE0NjY0MDA1Nj
-csLTE3OTU2MTg1MTksLTE3NTc5NjY2ODYsLTExMTg2OTQwOTIs
-LTIwODQ1MjE0NTksLTU2NTEwODIxOCwxNTgxNjI1MzAyLC0yNz
-cyNDk5NDIsNjYyMTcyOTE5LDQxMDAwMTc1NiwtMTMyMDA1OTE5
-NywxNzM5ODMwMTgxXX0=
+eyJoaXN0b3J5IjpbMTUxNDE3NTA3NSwtMjEyNzE4OTM1MCw5ND
+cxMjE5ODQsLTEwODgyMTYyOTQsMTgwNTE5ODcxOCw2MTQxNDI3
+ODAsMTIzNjY0NzA4MSwtMTgyOTM1MjM4NiwtMTQ2NjQwMDU2Ny
+wtMTc5NTYxODUxOSwtMTc1Nzk2NjY4NiwtMTExODY5NDA5Miwt
+MjA4NDUyMTQ1OSwtNTY1MTA4MjE4LDE1ODE2MjUzMDIsLTI3Nz
+I0OTk0Miw2NjIxNzI5MTksNDEwMDAxNzU2LC0xMzIwMDU5MTk3
+LDE3Mzk4MzAxODFdfQ==
 -->
