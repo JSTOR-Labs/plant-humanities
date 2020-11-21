@@ -11,7 +11,7 @@
 _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans domesticated in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and nearly twice that when supported.[^ref2]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
-Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the visual arts. Like the supersized flower in this plant portrait, the domesticated sunflower looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. The proliferation of the flower in European artistic traditions is due partly to the aesthetic appeal of traits artificially selected to increase seed production, a single bloom with a large disk, and partly to the timing of its introduction to Europe coinciding with the flourishing of a new genre of botanical illustration known as the florilegium.
+Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the visual arts. Like the supersized flower in this plant portrait, the domesticated sunflower looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. The proliferation of the flower in European artistic traditions is due partly to the aesthetic appeal of traits artificially selected to increase seed production, a single bloom with a large disk, and partly to the timing of its introduction to Europe coinciding with the flourishing of a new genre of botanical treatise known as the florilegium.
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 Sunflower imagery can provide rich historical information about the genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_ and the roles of visual culture in communicating knowledges, myths, and meanings related to plants. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. In doing so, they developed conventions for representing specific characteristics of sunflowers that were tailored to those aims. By tracking changes in that [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) over time, we can learn about the historical significance of sunflowers in specific temporal and geographic contexts, as well as shifts in the ways that humans have represented, encountered, used, thought about, and valued the genus. Through that practice of close visual analysis, that engaging with artworks necessarily entails, we also cultivate a more attentive mode of being with plants.
@@ -214,11 +214,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTI2NTc3NywxNjAwNTc4MjY2LC0yMT
-MxMTUyMDg0LC01Nzg0MzE0MzQsLTE3NzAwNDQ4MjMsLTMyMTky
-NDk3NCwxMjg4MTU2NTE1LDE4ODYyOTUwMTIsMjcxNjkwMjQ3LC
-0yMjc5MTMzNDIsLTExOTE3MDMzNzgsMTAxMjIwOTM4OCwtMjEy
-NzE4OTM1MCw5NDcxMjE5ODQsLTEwODgyMTYyOTQsMTgwNTE5OD
-cxOCw2MTQxNDI3ODAsMTIzNjY0NzA4MSwtMTgyOTM1MjM4Niwt
-MTQ2NjQwMDU2N119
+eyJoaXN0b3J5IjpbLTE5MTI0OTE2ODAsMTYwMDU3ODI2NiwtMj
+EzMTE1MjA4NCwtNTc4NDMxNDM0LC0xNzcwMDQ0ODIzLC0zMjE5
+MjQ5NzQsMTI4ODE1NjUxNSwxODg2Mjk1MDEyLDI3MTY5MDI0Ny
+wtMjI3OTEzMzQyLC0xMTkxNzAzMzc4LDEwMTIyMDkzODgsLTIx
+MjcxODkzNTAsOTQ3MTIxOTg0LC0xMDg4MjE2Mjk0LDE4MDUxOT
+g3MTgsNjE0MTQyNzgwLDEyMzY2NDcwODEsLTE4MjkzNTIzODYs
+LTE0NjY0MDA1NjddfQ==
 -->
