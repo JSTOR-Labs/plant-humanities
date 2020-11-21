@@ -64,7 +64,8 @@ This illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at ri
 <param ve-image fit="contain" url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0311.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 <param ve-image fit="contain" url=https://ia801904.us.archive.org/BookReader/BookReaderImages.php?id=gri_33125014246561&itemPath=%2F3%2Fitems%2Fgri_33125014246561&server=ia801904.us.archive.org&page=n29_w907" title="Pietro Andrea Matthioli, _I discorsi di M. Pietro Andrea Matthioli..._, Venice: Vincenzo ValgrisI, 1568, Getty Research Institute">
 
-In the sixteenth and seventeenth centuries, it was common for herbalists to appropriate illustrations and text from existing sources, adapting that material to new contexts. That was true of the sunflower imagery in Dodoens's _Florum, et coronariarum_.  In the following borrowings, the size of the illustrations were reduced to provide more space for text in keeping with the respective functions. Matthias de l'Obel reused the image in his botanical and medicinal treatise _[Plantarum, seu, Stirpium historia](https://www.biodiversitylibrary.org/page/9871376)_ (1576), which advanced a new method for classifying plants based upon their inherent traits. He renamed the domesticated sunflower _Solis Flos_ (“flower of the sun”) and a small perennial sunflower _Solis Flos minor_; later authors used those monikers. By contrast, John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578) reproduced the image along with Dodoens's name for the domesticated sunflower _Chrysanthemum Peruvianum_. It is important to note that, at the time, European herbalists used the word “Peru” indiscriminately to mean someplace in the Americas.[^ref8] Despite there being no archaeological evidence supporting the presence of _H. annuus_ in pre-Columbian Peru, that muddied terminology has been misinterpreted as proof of the flower's "Peruvian" origins.
+<param ve-entity eid="Q1860320" 
+In the sixteenth and seventeenth centuries, it was common for herbalists to appropriate illustrations and text from existing sources, adapting that material to new contexts. That was true of the sunflower imagery in Dodoens's _Florum, et coronariarum_.  In the following books, the size of the illustrations were reduced to provide more space for text in keeping with their utilitarian functions. Matthias de l'Obel reused the image in his botanical and medicinal treatise _[Plantarum, seu, Stirpium historia](https://www.biodiversitylibrary.org/page/9871376)_ (1576), which advanced a new method for classifying plants based upon their inherent traits. He renamed the domesticated sunflower _Solis Flos_ (“flower of the sun”) and a small perennial sunflower _Solis Flos minor_; later authors used those monikers. By contrast, John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578) reproduced the image along with Dodoens's name for the domesticated sunflower _Chrysanthemum Peruvianum_. It is important to note that, at the time, European herbalists used the word “Peru” indiscriminately to mean someplace in the Americas.[^ref8] Despite there being no archaeological evidence supporting the presence of _H. annuus_ in pre-Columbian Peru, that muddied terminology has been misinterpreted as proof of the flower's "Peruvian" origins.
 <param ve-image fit="contain" primary url="https://ia800501.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488167&itemPath=%2F12%2Fitems%2Fmobot31753003488167&server=ia800501.us.archive.org&page=n328_w966" title="Matthias de l'Obel, _Plantarum, seu, Stirpium historia_, Antwerp: Christophori Plantini, 1576, Missouri Botanical Gardeny">
 <param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
 <param ve-entity eid="Q419" title="Peru">
@@ -232,11 +233,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5NDI5NTM1LC0yOTExNDY1NDYsLTEzMz
-c1NTQxODUsLTUzNDMxMDY1OCwtMTk4MzIyMDIyOCwxMzU3NzAy
-Njc2LDE1OTczMDM2NzcsMjE3MTI0OTIyLDE1NTY5NjAyNDcsLT
-E3MzY5MTU1MzMsLTEwMzQyNjk3ODcsLTY0ODk2NTc2NywtNjMy
-NzUwMTg1LDUwMzQ4MDI2MiwzMjc4MzQ5OTQsLTE4NTg5MzM1NT
-YsMTE4ODcwMDYyOSwtNDczMDU2Mzc3LC03MzY5MDUxOTIsLTE2
-Mjc2NDIyNzZdfQ==
+eyJoaXN0b3J5IjpbMTY1OTIzMTMwMiwtMjkxMTQ2NTQ2LC0xMz
+M3NTU0MTg1LC01MzQzMTA2NTgsLTE5ODMyMjAyMjgsMTM1Nzcw
+MjY3NiwxNTk3MzAzNjc3LDIxNzEyNDkyMiwxNTU2OTYwMjQ3LC
+0xNzM2OTE1NTMzLC0xMDM0MjY5Nzg3LC02NDg5NjU3NjcsLTYz
+Mjc1MDE4NSw1MDM0ODAyNjIsMzI3ODM0OTk0LC0xODU4OTMzNT
+U2LDExODg3MDA2MjksLTQ3MzA1NjM3NywtNzM2OTA1MTkyLC0x
+NjI3NjQyMjc2XX0=
 -->
