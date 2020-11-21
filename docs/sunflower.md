@@ -190,7 +190,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref10]: Ray Desmond, “CHAPTER,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), ##-##.
 
-[^ref12]: Heiser, “The Domesticated Sunflower in Mexico?,” 449.
+[^ref11]: Heiser, “The Domesticated Sunflower in Mexico?,” 449.
 
 [^ref13]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
 
@@ -219,11 +219,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODcwMDYyOSwtNDczMDU2Mzc3LC03Mz
-Y5MDUxOTIsLTE2Mjc2NDIyNzYsLTE5MzkwNTkzNjcsLTEyMTYx
-OTIwMzgsLTQzMjI3OTI4NywtOTI2OTYzOTYwLDE2NDMyNzA3MT
-csMjMxODEwNzM4LDEzMzg1NDY2MDgsLTE5MTI0OTE2ODAsMTYw
-MDU3ODI2NiwtMjEzMTE1MjA4NCwtNTc4NDMxNDM0LC0xNzcwMD
-Q0ODIzLC0zMjE5MjQ5NzQsMTI4ODE1NjUxNSwxODg2Mjk1MDEy
-LDI3MTY5MDI0N119
+eyJoaXN0b3J5IjpbMTI0MTQwNzc5OCwxMTg4NzAwNjI5LC00Nz
+MwNTYzNzcsLTczNjkwNTE5MiwtMTYyNzY0MjI3NiwtMTkzOTA1
+OTM2NywtMTIxNjE5MjAzOCwtNDMyMjc5Mjg3LC05MjY5NjM5Nj
+AsMTY0MzI3MDcxNywyMzE4MTA3MzgsMTMzODU0NjYwOCwtMTkx
+MjQ5MTY4MCwxNjAwNTc4MjY2LC0yMTMxMTUyMDg0LC01Nzg0Mz
+E0MzQsLTE3NzAwNDQ4MjMsLTMyMTkyNDk3NCwxMjg4MTU2NTE1
+LDE4ODYyOTUwMTJdfQ==
 -->
