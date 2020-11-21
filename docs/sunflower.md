@@ -163,7 +163,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
-In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, some painters developed new visual languages for representing sunflowers to explore the subjective experiences of encountering plants. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plant's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir human emotions or spirituality. These engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire.
+In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, some painters developed new visual languages for representing sunflowers to explore the subjective experiences of encountering plants. In _Jerusalem Artichoke_ (1880), Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plant's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ (1888) juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir human emotions or spirituality. These engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire.
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-entity eid="Q202398" title="industrialization">
 <param ve-entity eid="Q161078" title="urbanization">
@@ -246,11 +246,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg2MzczNTEsMTA5MzkwNjAyMCw5ND
-E1MTgzOCwtMTc5MDgyODgyNSwtMTU0MjkyMTUwMywxNTczMzc1
-LC01Mjk2ODE1MTAsLTYyMzUwODY1MSwzMjAzODY2MzEsMTk2OT
-k4MzAzNCwxMzIzMjE4MzksLTI5MTE0NjU0NiwtMTMzNzU1NDE4
-NSwtNTM0MzEwNjU4LC0xOTgzMjIwMjI4LDEzNTc3MDI2NzYsMT
-U5NzMwMzY3NywyMTcxMjQ5MjIsMTU1Njk2MDI0NywtMTczNjkx
-NTUzM119
+eyJoaXN0b3J5IjpbLTI0NTIzODQ2MSwtMTM3ODYzNzM1MSwxMD
+kzOTA2MDIwLDk0MTUxODM4LC0xNzkwODI4ODI1LC0xNTQyOTIx
+NTAzLDE1NzMzNzUsLTUyOTY4MTUxMCwtNjIzNTA4NjUxLDMyMD
+M4NjYzMSwxOTY5OTgzMDM0LDEzMjMyMTgzOSwtMjkxMTQ2NTQ2
+LC0xMzM3NTU0MTg1LC01MzQzMTA2NTgsLTE5ODMyMjAyMjgsMT
+M1NzcwMjY3NiwxNTk3MzAzNjc3LDIxNzEyNDkyMiwxNTU2OTYw
+MjQ3XX0=
 -->
