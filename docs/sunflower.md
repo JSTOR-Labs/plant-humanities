@@ -100,7 +100,7 @@ The migration of sunflower iconography is also evidenced in Francisco Hernández
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
-Although botanists have consulted herbals and other historical evidence to chart the movement of _Helianthus annuus_, they have also used maps of plant distribution and fossilized remains to study the origins of the plant.[^ref14] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref14] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, such as large  flower heads with more seeds.[^ref15]
+Although botanists have consulted herbals and other historical evidence to chart the movement of _Helianthus annuus_, they have also used maps of plant distribution and fossilized remains to study the origins of the plant.[^ref14] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref15] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, such as large  flower heads with more seeds.[^ref16]
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
@@ -112,7 +112,7 @@ Although botanists have consulted herbals and other historical evidence to chart
 <param ve-entity eid="Q490360" title="Hickory Country" aliases="eastern North America">
 <param ve-entity eid="Q222046" title="genomics">
 <param ve-entity eid="Q839954" title="archaeological site">
-The discussion of sunflowers in Hernández’s _Nova plantarum_ complicates debates among scientists about when humans used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether they were cultivated independently there.[^ref16] A charred seed was recovered at San Andrés archaeological site in Tabasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that it may have come from a bottle gourd.[^ref17] Expanding on that archeological research, genomic studies of modern domesticated and wild sunflowers have linked the plants to a common ancestor, which was cultivated at an independent domestication center, along with pepo squash, marshelder, and chenopod, in <span data-click-map-flyto="37.347878, -89.590292">eastern North America</span>.[^ref18] For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly by Spanish colonizers.[^ref19]
+The discussion of sunflowers in Hernández’s _Nova plantarum_ complicates debates among scientists about when humans used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether they were cultivated independently there.[^ref17] A charred seed was recovered at San Andrés archaeological site in Tabasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that it may have come from a bottle gourd.[^ref18] Expanding on that archeological research, genomic studies of modern domesticated and wild sunflowers have linked the plants to a common ancestor, which was cultivated at an independent domestication center, along with pepo squash, marshelder, and chenopod, in <span data-click-map-flyto="37.347878, -89.590292">eastern North America</span>.[^ref19] For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly by Spanish colonizers.[^ref20]
 <param ve-map prefer-geojson center="Q80914" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
 
 ### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
@@ -121,20 +121,20 @@ The discussion of sunflowers in Hernández’s _Nova plantarum_ complicates deba
 <param ve-entity eid="Q81506" title="Charles I of England">
 <param ve-entity eid="Q112110" title="emblem" aliases="emblems">
 <param ve-entity eid="Q15472169" title="patron of the arts" aliases="patron">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals and emblems.[^ref20] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower—a floral manifestation of his loyalty to his patron.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals and emblems.[^ref21] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower—a floral manifestation of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum" aliases="heliotrope">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
 <param ve-entity eid="Q1229071" title="motif">
-Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant's heliotropic phase recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun-god Helios.[^ref21] According to the story, Clytie competed unsuccessfully for Helios's affections. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, wholly consumed with the act of gazing upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, so-named for its movement toward the sun's rays. Yet, as this print shows, many seventeenth-century artists reinterpreted the narrative by recasting that flora as a sunflower.[^ref22] That break with conventions demonstrates the fashionability of the sunflower as a motif, and the degree to which it was entangled not only with beliefs about the flower's formal resemblance to the sun but also with misconceptions about the mature plant being heliotropic.
+Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant's heliotropic phase recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun-god Helios.[^ref22] According to the story, Clytie competed unsuccessfully for Helios's affections. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, wholly consumed with the act of gazing upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, so-named for its movement toward the sun's rays. Yet, as this print shows, many seventeenth-century artists reinterpreted the narrative by recasting that flora as a sunflower.[^ref23] That break with conventions demonstrates the fashionability of the sunflower as a motif, and the degree to which it was entangled not only with beliefs about the flower's formal resemblance to the sun but also with misconceptions about the mature plant being heliotropic.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
 <param ve-entity eid="Q1141466" title="pollinator">
 <param ve-entity eid="Q208353" title="circadian rhythm">
-There is a longstanding cultural assumption that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref23] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation.
+There is a longstanding cultural assumption that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref24] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages, too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation.
 <param ve-video title="_Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits_, Hagop S. Atamian, Nicky M. Creux, Evan A. Brown, Austin G. Garner, Benjamin K. Blackman, Stacey L. Harmer, DOI: 10.1126/science.aaf9793" vid="rjwd4DErj_M?t=18">
 
 ### Out of One, Many
@@ -184,7 +184,7 @@ their color can range from gold to orange to red to dark purple and even an unex
 <param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
 <param ve-entity eid="Q14524280" title="husk">
 <param ve-entity eid="Q40763" title="seed">
-Sunflower seeds also exhibit variations in size, color, and markings. Whole seeds–comprised of a kernel and a husk–can be solid black or gray, and have a stripe pattern. The Hopi tribe of Native Americans have cultivated sunflowers with deep purple seeds, that appear black and shiny, in the southwest for hundreds of years. They use these seeds to produce dark blue or purple dyes for coloring wools and natural fibers that are in turn used to make [weavings and baskets.](https://scalar.usc.edu/works/american-indian-film-archive/hopi-arts-and-crafts?path=hopi-southwest-indians) The processes of cultivating, harvesting, and boiling seeds to produce dye for basketry are exaples of a rich tradition of tribal plant knowledge that is interwoven with cultural and spiritual beliefs. Indigenous peoples of North America also use(d) sunflowers in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially.[^ref24]
+Sunflower seeds also exhibit variations in size, color, and markings. Whole seeds–comprised of a kernel and a husk–can be solid black or gray, and have a stripe pattern. The Hopi tribe of Native Americans have cultivated sunflowers with deep purple seeds, that appear black and shiny, in the southwest for hundreds of years. They use these seeds to produce dark blue or purple dyes for coloring wools and natural fibers that are in turn used to make [weavings and baskets.](https://scalar.usc.edu/works/american-indian-film-archive/hopi-arts-and-crafts?path=hopi-southwest-indians) The processes of cultivating, harvesting, and boiling seeds to produce dye for basketry are exaples of a rich tradition of tribal plant knowledge that is interwoven with cultural and spiritual beliefs. Indigenous peoples of North America also use(d) sunflowers in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially.[^ref25]
 <param ve-image fit="contain" primary url="https://www.human.cornell.edu/sites/default/files/styles/landscape_1600x900/public/helianthus-annuus-1.jpg?itok=5KVpk_8q" title="Hopi Sunflower _Helianthus Annuus_, seeds produce blue, black, and purple dye and the leaves give a range of yellow to green, College of Human Ecology, Cornell University">
 
 
@@ -211,15 +211,17 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref8]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449.
 
-[^ref9]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995).
+[^ref9]: Ibid., 449 [check source].
 
-[^ref10]: Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
+[^ref10]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995).
 
-[^ref11]: [Add commentary about history of manuscript and its production.] Ray Desmond, “The Discovery of the New World,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 24-27.
+[^ref11]: Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 
-[^ref12]: Heiser, Jr., “The Domesticated Sunflower in Mexico?,” 449.
+[^ref12]: [Add commentary about history of manuscript and its production.] Ray Desmond, “The Discovery of the New World,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 24-27.
 
-[^ref13]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
+[^ref13]: Heiser, Jr., “The Domesticated Sunflower in Mexico?,” 449.
+
+[^ref14]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
 
 [^ref14]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
 
@@ -246,11 +248,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzUzOTYwNCwtMTkyODk4MTUzNSwtMj
-EyMTcwNDUyNCwtMjQ1MjM4NDYxLC0xODk5NjE4NTUyLC0xMzc4
-NjM3MzUxLDEwOTM5MDYwMjAsOTQxNTE4MzgsLTE3OTA4Mjg4Mj
-UsLTE1NDI5MjE1MDMsMTU3MzM3NSwtNTI5NjgxNTEwLC02MjM1
-MDg2NTEsMzIwMzg2NjMxLDE5Njk5ODMwMzQsMTMyMzIxODM5LC
-0yOTExNDY1NDYsLTEzMzc1NTQxODUsLTUzNDMxMDY1OCwtMTk4
-MzIyMDIyOF19
+eyJoaXN0b3J5IjpbMTQ4OTY4MDk2LC0xOTI4OTgxNTM1LC0yMT
+IxNzA0NTI0LC0yNDUyMzg0NjEsLTE4OTk2MTg1NTIsLTEzNzg2
+MzczNTEsMTA5MzkwNjAyMCw5NDE1MTgzOCwtMTc5MDgyODgyNS
+wtMTU0MjkyMTUwMywxNTczMzc1LC01Mjk2ODE1MTAsLTYyMzUw
+ODY1MSwzMjAzODY2MzEsMTk2OTk4MzAzNCwxMzIzMjE4MzksLT
+I5MTE0NjU0NiwtMTMzNzU1NDE4NSwtNTM0MzEwNjU4LC0xOTgz
+MjIwMjI4XX0=
 -->
