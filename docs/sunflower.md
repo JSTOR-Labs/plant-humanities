@@ -188,6 +188,8 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref7]: Arthur K. Wheelock, Jr., _From Botany to Bouquets: Flowers in Northern Art_ (Washington, D.C.: National Gallery of Art, 1999).
 
+[^ref8]: F. de Nave and D. Imhof, eds., Botany in the Low Countries: . 1993.
+
 [^ref7]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
 
 [^ref8]: “Heiser (1965) proposed an hypothesis that is still tenable. The species [_Helianthus annuus_] spread prehistorically over eastern North America as a weedy camp-follower.” Jonathan D. Sauer, “HELIANTHUS – SUNFLOWER,” in _Historical Geography of Crop Plants: A Select Roster_ (Bosa Roca: Taylor and Francis Group, 1993), 23; 
@@ -199,8 +201,6 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 [^ref11]: Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
 
 [^ref12]: Heiser, “The Domesticated Sunflower in Mexico?,” 449; Bruce D. Smith, "Eastern North America as an Independent Center of Plant Domestication," _Proceedings of the National Academy of Science of the Unites States of America_ 103, no. 33 (August 15, 2006): 12223-28.
-
-[^ref15]: Botany in the Low Countries. 1993.
 
 [^ref16]: Heiser, “The Domesticated Sunflower in Mexico?,” page #.
 
@@ -217,11 +217,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTIwNjA3LC0xMjE2MTkyMDM4LC00Mz
-IyNzkyODcsLTkyNjk2Mzk2MCwxNjQzMjcwNzE3LDIzMTgxMDcz
-OCwxMzM4NTQ2NjA4LC0xOTEyNDkxNjgwLDE2MDA1NzgyNjYsLT
-IxMzExNTIwODQsLTU3ODQzMTQzNCwtMTc3MDA0NDgyMywtMzIx
-OTI0OTc0LDEyODgxNTY1MTUsMTg4NjI5NTAxMiwyNzE2OTAyND
-csLTIyNzkxMzM0MiwtMTE5MTcwMzM3OCwxMDEyMjA5Mzg4LC0y
-MTI3MTg5MzUwXX0=
+eyJoaXN0b3J5IjpbLTE5OTI2NzA1OTIsLTEyMTYxOTIwMzgsLT
+QzMjI3OTI4NywtOTI2OTYzOTYwLDE2NDMyNzA3MTcsMjMxODEw
+NzM4LDEzMzg1NDY2MDgsLTE5MTI0OTE2ODAsMTYwMDU3ODI2Ni
+wtMjEzMTE1MjA4NCwtNTc4NDMxNDM0LC0xNzcwMDQ0ODIzLC0z
+MjE5MjQ5NzQsMTI4ODE1NjUxNSwxODg2Mjk1MDEyLDI3MTY5MD
+I0NywtMjI3OTEzMzQyLC0xMTkxNzAzMzc4LDEwMTIyMDkzODgs
+LTIxMjcxODkzNTBdfQ==
 -->
