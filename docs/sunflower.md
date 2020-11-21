@@ -8,7 +8,7 @@
 ### A Giant among Us
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans domesticated in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and nearly twice that when supported.[^ref2]
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans domesticated in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and [nearly twice that when supported](https://www.guinnessworldrecords.com/world-records/tallest-sunflower).
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 <param ve-entity eid="Q995745" title="artificial selection" aliases="artificially selected">
@@ -21,7 +21,7 @@ Sunflower imagery can provide rich historical information about the genus _[Heli
 ### Naming the Iconic Flower
 
 <param ve-entity eid="Q10432667306" title="Carl Linnaeus" aliases="Carolus Linnaeus">
-The genus Helianthus—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—was named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the plant was already a beloved garden flower in Europe.[^ref3] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant, in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_ (1737), offers some insights. He asks, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?”[^ref4] His encomium on the splendor of the mature _Helianthus_ inflorescence and its formal resemblance to the sun demonstrates some traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
+The genus Helianthus—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—was named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the plant was already a beloved garden flower in Europe.[^ref2] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant, in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_ (1737), offers some insights. He asks, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?”[^ref4] His encomium on the splendor of the mature _Helianthus_ inflorescence and its formal resemblance to the sun demonstrates some traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, p. 97 Nomina Generica, _Critica botanica_, 1737, Lugduni Batavorum: Apud Conradum Wishoff © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, p. 98 Nomina Generica, _Critica botanica_, 1737, Lugduni Batavorum: Apud Conradum Wishoff © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
@@ -172,9 +172,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 ### References
 [^ref1]: Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
 
-[^ref2]: https://www.guinnessworldrecords.com/world-records/tallest-sunflower
-
-[^ref3]: Carl von Linné, _Species plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 904-06, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.669](https://doi.org/10.5962/bhl.title.669 "DOI"); Carl von Linné, _Genera plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 386, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.746](https://doi.org/10.5962/bhl.title.746).
+[^ref2]: Carl von Linné, _Species plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 904-06, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.669](https://doi.org/10.5962/bhl.title.669 "DOI"); Carl von Linné, _Genera plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 386, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.746](https://doi.org/10.5962/bhl.title.746).
 
 [^ref4]: Translated in Alice Dickinson, _Carl Linnaeus; Pioneer of Modern Botany_ (New York: F. Watts, 1967), 125, accessed October 7, 2020, HathiTrust.
 
@@ -221,11 +219,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjkwNTE5MiwtMTYyNzY0MjI3NiwtMT
-kzOTA1OTM2NywtMTIxNjE5MjAzOCwtNDMyMjc5Mjg3LC05MjY5
-NjM5NjAsMTY0MzI3MDcxNywyMzE4MTA3MzgsMTMzODU0NjYwOC
-wtMTkxMjQ5MTY4MCwxNjAwNTc4MjY2LC0yMTMxMTUyMDg0LC01
-Nzg0MzE0MzQsLTE3NzAwNDQ4MjMsLTMyMTkyNDk3NCwxMjg4MT
-U2NTE1LDE4ODYyOTUwMTIsMjcxNjkwMjQ3LC0yMjc5MTMzNDIs
-LTExOTE3MDMzNzhdfQ==
+eyJoaXN0b3J5IjpbNjAxMzA2MjMzLC03MzY5MDUxOTIsLTE2Mj
+c2NDIyNzYsLTE5MzkwNTkzNjcsLTEyMTYxOTIwMzgsLTQzMjI3
+OTI4NywtOTI2OTYzOTYwLDE2NDMyNzA3MTcsMjMxODEwNzM4LD
+EzMzg1NDY2MDgsLTE5MTI0OTE2ODAsMTYwMDU3ODI2NiwtMjEz
+MTE1MjA4NCwtNTc4NDMxNDM0LC0xNzcwMDQ0ODIzLC0zMjE5Mj
+Q5NzQsMTI4ODE1NjUxNSwxODg2Mjk1MDEyLDI3MTY5MDI0Nywt
+MjI3OTEzMzQyXX0=
 -->
