@@ -110,6 +110,7 @@ Although botanists have consulted herbals and other historical evidence to chart
 <param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
 <param ve-entity eid="Q490360" title="Hickory Country" aliases="eastern North America">
 <param ve-entity eid="Q222046" title="genomics">
+<param ve-entity eid="Q839954" title="archaeological site">
 The discussion of sunflowers in Hernández’s _Nova plantarum_ complicates debates among scientists about when humans used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether they were cultivated independently there.[^ref16] A charred seed was recovered at San Andrés archaeological site in Tabasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that it may have come from a bottle gourd.[^ref17] Expanding on that archeological research, genomic studies of modern domesticated and wild sunflowers have linked the plants to a common ancestor, which was cultivated at an independent domestication center, along with pepo squash, marshelder, and chenopod, in <span data-click-map-flyto="37.347878, -89.590292">eastern North America</span>.[^ref18] For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly by Spanish colonizers.[^ref19]
 <param ve-map prefer-geojson center="Q80914" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
 
@@ -240,11 +241,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwMjQxNDIwLDE5Njk5ODMwMzQsMTMyMz
-IxODM5LC0yOTExNDY1NDYsLTEzMzc1NTQxODUsLTUzNDMxMDY1
-OCwtMTk4MzIyMDIyOCwxMzU3NzAyNjc2LDE1OTczMDM2NzcsMj
-E3MTI0OTIyLDE1NTY5NjAyNDcsLTE3MzY5MTU1MzMsLTEwMzQy
-Njk3ODcsLTY0ODk2NTc2NywtNjMyNzUwMTg1LDUwMzQ4MDI2Mi
-wzMjc4MzQ5OTQsLTE4NTg5MzM1NTYsMTE4ODcwMDYyOSwtNDcz
-MDU2Mzc3XX0=
+eyJoaXN0b3J5IjpbLTY3MzY3MTYxMCwxOTY5OTgzMDM0LDEzMj
+MyMTgzOSwtMjkxMTQ2NTQ2LC0xMzM3NTU0MTg1LC01MzQzMTA2
+NTgsLTE5ODMyMjAyMjgsMTM1NzcwMjY3NiwxNTk3MzAzNjc3LD
+IxNzEyNDkyMiwxNTU2OTYwMjQ3LC0xNzM2OTE1NTMzLC0xMDM0
+MjY5Nzg3LC02NDg5NjU3NjcsLTYzMjc1MDE4NSw1MDM0ODAyNj
+IsMzI3ODM0OTk0LC0xODU4OTMzNTU2LDExODg3MDA2MjksLTQ3
+MzA1NjM3N119
 -->
