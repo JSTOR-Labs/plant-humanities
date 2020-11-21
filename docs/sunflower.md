@@ -27,15 +27,13 @@ The genus Helianthus—a Latin compound derived from the Greek words _helios_ (s
 ### Plant Mobility and Early Printed Sources
 
 <param ve-entity eid="Q29" title="Spain">
-The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe. Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and "trophies of empire.
+The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe. Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and treasures bound up with imperial expansion.
 <param ve-map prefer-geojson center="45.796048, 3.108712" zoom="4.5" show-label="true">
 
 <param ve-entity eid="Q950531" title="Nicolás Monardes" aliases="Monardes’s">
 <param ve-entity eid="Q437466" title="Rembert Dodoens" aliases="Dodoens’s">
 <param ve-entity eid="Q8717" title="Seville">
 <param ve-entity eid="Q162022" title="Mechelen">
-<param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
-<param ve-entity eid="Q10491" title="Eichstätt">
 Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14] 
 <param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
@@ -207,11 +205,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0MTQyNzgwLDEyMzY2NDcwODEsLTE4Mj
-kzNTIzODYsLTE0NjY0MDA1NjcsLTE3OTU2MTg1MTksLTE3NTc5
-NjY2ODYsLTExMTg2OTQwOTIsLTIwODQ1MjE0NTksLTU2NTEwOD
-IxOCwxNTgxNjI1MzAyLC0yNzcyNDk5NDIsNjYyMTcyOTE5LDQx
-MDAwMTc1NiwtMTMyMDA1OTE5NywxNzM5ODMwMTgxLDE1MDU5Mj
-E1NDEsLTE1NDI1MzMzNjMsMTkyMjgxMTUyOSwxMDkwMzkzNDE0
-LDg1NTk3NDYyNV19
+eyJoaXN0b3J5IjpbMTgwNTE5ODcxOCw2MTQxNDI3ODAsMTIzNj
+Y0NzA4MSwtMTgyOTM1MjM4NiwtMTQ2NjQwMDU2NywtMTc5NTYx
+ODUxOSwtMTc1Nzk2NjY4NiwtMTExODY5NDA5MiwtMjA4NDUyMT
+Q1OSwtNTY1MTA4MjE4LDE1ODE2MjUzMDIsLTI3NzI0OTk0Miw2
+NjIxNzI5MTksNDEwMDAxNzU2LC0xMzIwMDU5MTk3LDE3Mzk4Mz
+AxODEsMTUwNTkyMTU0MSwtMTU0MjUzMzM2MywxOTIyODExNTI5
+LDEwOTAzOTM0MTRdfQ==
 -->
