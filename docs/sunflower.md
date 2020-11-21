@@ -57,7 +57,7 @@ Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002
 ### “Peruvian” Origins and Image Migration
 
 <param ve-entity eid="Q2094286" title="Petrus van der Borcht">
-<param ve-entity eid="Q36133" title="soil"
+<param ve-entity eid="Q36133" title="soil">
 This illustration of a sunflower in Dodoens’s _Florum, et coronariarum_, at right, contributed to the development of visual conventions for portraying _Helianthus annuus_, in particular, and ornamentals, in general, that emphasized the aesthetic qualities of plants in full bloom. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature sunflower growing in soil as the artist may have encountered it displayed in a garden. Indeed, Dodoens’s identifies the place shown in the picture: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.”[^ref7] Beautiful to behold, according to Dodoens, the sort of sunflower portrayed here was a rare foreign luxury good that conferred status upon its owner.
 <param ve-image fit="contain" primary url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0310.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
 <param ve-image fit="contain"  url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0308.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=4&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
@@ -232,11 +232,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODk3OTI0NiwtMjkxMTQ2NTQ2LC0xMz
-M3NTU0MTg1LC01MzQzMTA2NTgsLTE5ODMyMjAyMjgsMTM1Nzcw
-MjY3NiwxNTk3MzAzNjc3LDIxNzEyNDkyMiwxNTU2OTYwMjQ3LC
-0xNzM2OTE1NTMzLC0xMDM0MjY5Nzg3LC02NDg5NjU3NjcsLTYz
-Mjc1MDE4NSw1MDM0ODAyNjIsMzI3ODM0OTk0LC0xODU4OTMzNT
-U2LDExODg3MDA2MjksLTQ3MzA1NjM3NywtNzM2OTA1MTkyLC0x
-NjI3NjQyMjc2XX0=
+eyJoaXN0b3J5IjpbLTE5NDcyNDE5NjIsLTI5MTE0NjU0NiwtMT
+MzNzU1NDE4NSwtNTM0MzEwNjU4LC0xOTgzMjIwMjI4LDEzNTc3
+MDI2NzYsMTU5NzMwMzY3NywyMTcxMjQ5MjIsMTU1Njk2MDI0Ny
+wtMTczNjkxNTUzMywtMTAzNDI2OTc4NywtNjQ4OTY1NzY3LC02
+MzI3NTAxODUsNTAzNDgwMjYyLDMyNzgzNDk5NCwtMTg1ODkzMz
+U1NiwxMTg4NzAwNjI5LC00NzMwNTYzNzcsLTczNjkwNTE5Miwt
+MTYyNzY0MjI3Nl19
 -->
