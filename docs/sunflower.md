@@ -74,6 +74,7 @@ In the sixteenth and seventeenth centuries, it was common for herbalists to appr
 
 ### Sunflower Aesthetics in Full Bloom
 <param ve-entity eid="Q65027" title="Basilius Besler">
+<param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-entity eid="Q5189819" title="cruciform">
 <param ve-entity eid="Q462437" title="composition">
@@ -84,7 +85,6 @@ that anticipates modern visual stereotypes for the plant, perhaps best epitomize
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
-<param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-entity eid="Q252772" title="Eichstätt">
 Through transregional trade networks Prince Bishop of Eichstätt obtained materials for the cultivation of sunflowers in his garden at Eichstätt, Bavaria.[^ref11] Eichstätt and Besler also used those connections to exchange iconography and ideas related to the sunflower. This model visualizes some of their intersections with authors, artists, translators, plant collectors, patrons, and other historical figures, focusing on the period from the 1550s to the 1650s. It also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one book to another, possibly through sources not identified here. Such borrowings raise questions about the significance of individual plants and pictures, about relationships of images to text, about patterns of artistic exchange, and about the role of iconography in processes of knowledge production and transmission.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Johann Konrad von Gemmingen">
@@ -248,11 +248,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTE5ODExLC0xNjMwMDA0OTg0LC0xOT
-I4OTgxNTM1LC0yMTIxNzA0NTI0LC0yNDUyMzg0NjEsLTE4OTk2
-MTg1NTIsLTEzNzg2MzczNTEsMTA5MzkwNjAyMCw5NDE1MTgzOC
-wtMTc5MDgyODgyNSwtMTU0MjkyMTUwMywxNTczMzc1LC01Mjk2
-ODE1MTAsLTYyMzUwODY1MSwzMjAzODY2MzEsMTk2OTk4MzAzNC
-wxMzIzMjE4MzksLTI5MTE0NjU0NiwtMTMzNzU1NDE4NSwtNTM0
-MzEwNjU4XX0=
+eyJoaXN0b3J5IjpbLTE5NjMyMDkyMTksLTE2MzAwMDQ5ODQsLT
+E5Mjg5ODE1MzUsLTIxMjE3MDQ1MjQsLTI0NTIzODQ2MSwtMTg5
+OTYxODU1MiwtMTM3ODYzNzM1MSwxMDkzOTA2MDIwLDk0MTUxOD
+M4LC0xNzkwODI4ODI1LC0xNTQyOTIxNTAzLDE1NzMzNzUsLTUy
+OTY4MTUxMCwtNjIzNTA4NjUxLDMyMDM4NjYzMSwxOTY5OTgzMD
+M0LDEzMjMyMTgzOSwtMjkxMTQ2NTQ2LC0xMzM3NTU0MTg1LC01
+MzQzMTA2NThdfQ==
 -->
