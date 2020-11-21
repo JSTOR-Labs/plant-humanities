@@ -103,11 +103,11 @@ The discussion of sunflowers in Hernández’s _Nova plantarum_ complicates deba
 <param ve-entity eid="Q112110" title="emblem">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals and emblems.[^ref21] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower--a floral embodiment of his loyalty to his patron.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals and emblems.[^ref20] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower--a floral embodiment of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum">
-Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant's heliotropic phase recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun-god Helios.[^ref18] According to the story, Clytie competed unsuccessfully for Helios's affections. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, wholly consumed with the act of gazing upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, so-named for its movement toward the sun's rays. Yet, as this print shows, many seventeenth-century artists reinterpreted the narrative by recasting the flora mentioned therein as a sunflower.[^ref22] That break with conventions demonstrates the fashionability of the sunflower as a visual motif and the degree to which its imagery was entangled with beliefs about the flower's formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic.
+Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant's heliotropic phase recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun-god Helios.[^ref21] According to the story, Clytie competed unsuccessfully for Helios's affections. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, wholly consumed with the act of gazing upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, so-named for its movement toward the sun's rays. Yet, as this print shows, many seventeenth-century artists reinterpreted the narrative by recasting the flora mentioned therein as a sunflower.[^ref22] That break with conventions demonstrates the fashionability of the sunflower as a visual motif and the degree to which its imagery was entangled with beliefs about the flower's formal resemblance to the sun and, less often so, with misconceptions about the mature plant being heliotropic.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
@@ -137,7 +137,7 @@ Henderson's botanical illustration highlights a trait of the sunflower that we m
 
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
-In the latter nineteenth century, a period of rapid industralization and urbanization in Europe, some painters developed new visual languages for representing sunflowers to explore the subjective experiences of encountering plants. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plants's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir human emotions or spirituality. These engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire.
+In the latter nineteenth century, a period of rapid industralization and urbanization in Europe, some painters developed new visual languages for representing sunflowers to explore the subjective experiences of encountering plants. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plant's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir human emotions or spirituality. These engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire.
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-entity eid="Q273383" title="Memento mori">
 <param ve-entity eid="Q202398" title="industrialization">
@@ -220,11 +220,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg5MzM1NTYsMTE4ODcwMDYyOSwtND
-czMDU2Mzc3LC03MzY5MDUxOTIsLTE2Mjc2NDIyNzYsLTE5Mzkw
-NTkzNjcsLTEyMTYxOTIwMzgsLTQzMjI3OTI4NywtOTI2OTYzOT
-YwLDE2NDMyNzA3MTcsMjMxODEwNzM4LDEzMzg1NDY2MDgsLTE5
-MTI0OTE2ODAsMTYwMDU3ODI2NiwtMjEzMTE1MjA4NCwtNTc4ND
-MxNDM0LC0xNzcwMDQ0ODIzLC0zMjE5MjQ5NzQsMTI4ODE1NjUx
-NSwxODg2Mjk1MDEyXX0=
+eyJoaXN0b3J5IjpbMzI3ODM0OTk0LC0xODU4OTMzNTU2LDExOD
+g3MDA2MjksLTQ3MzA1NjM3NywtNzM2OTA1MTkyLC0xNjI3NjQy
+Mjc2LC0xOTM5MDU5MzY3LC0xMjE2MTkyMDM4LC00MzIyNzkyOD
+csLTkyNjk2Mzk2MCwxNjQzMjcwNzE3LDIzMTgxMDczOCwxMzM4
+NTQ2NjA4LC0xOTEyNDkxNjgwLDE2MDA1NzgyNjYsLTIxMzExNT
+IwODQsLTU3ODQzMTQzNCwtMTc3MDA0NDgyMywtMzIxOTI0OTc0
+LDEyODgxNTY1MTVdfQ==
 -->
