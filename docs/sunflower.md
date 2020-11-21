@@ -76,7 +76,7 @@ The migration of sunflower iconography is also evidenced in Francisco Hernández
 <param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, Missouri Botanical Garden">
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
-We can chart that movement by using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref6] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref7] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large  flower heads with more seeds.[^ref8]
+Although botanists have consulted herbals and other historical evidence to chart the movement of _Helianthus annuusby using maps to study the locations associated with plant distribution, fossilized remains, and other forms of evidence.[^ref6] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref7] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large  flower heads with more seeds.[^ref8]
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
@@ -208,11 +208,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjExODUxNiwtMTgyOTM1MjM4NiwtMT
-Q2NjQwMDU2NywtMTc5NTYxODUxOSwtMTc1Nzk2NjY4NiwtMTEx
-ODY5NDA5MiwtMjA4NDUyMTQ1OSwtNTY1MTA4MjE4LDE1ODE2Mj
-UzMDIsLTI3NzI0OTk0Miw2NjIxNzI5MTksNDEwMDAxNzU2LC0x
-MzIwMDU5MTk3LDE3Mzk4MzAxODEsMTUwNTkyMTU0MSwtMTU0Mj
-UzMzM2MywxOTIyODExNTI5LDEwOTAzOTM0MTQsODU1OTc0NjI1
-LC00NzE5ODMwOTFdfQ==
+eyJoaXN0b3J5IjpbLTE4NTA0NDQ1NzUsLTE4MjkzNTIzODYsLT
+E0NjY0MDA1NjcsLTE3OTU2MTg1MTksLTE3NTc5NjY2ODYsLTEx
+MTg2OTQwOTIsLTIwODQ1MjE0NTksLTU2NTEwODIxOCwxNTgxNj
+I1MzAyLC0yNzcyNDk5NDIsNjYyMTcyOTE5LDQxMDAwMTc1Niwt
+MTMyMDA1OTE5NywxNzM5ODMwMTgxLDE1MDU5MjE1NDEsLTE1ND
+I1MzMzNjMsMTkyMjgxMTUyOSwxMDkwMzkzNDE0LDg1NTk3NDYy
+NSwtNDcxOTgzMDkxXX0=
 -->
