@@ -35,7 +35,7 @@ Europeans were eager to collect exotic flora from the Americas because such plan
 <param ve-entity eid="Q8717" title="Seville">
 <param ve-entity eid="Q162022" title="Mechelen">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
-<param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
+<param ve-entity eid="Q95576768" title="herbal" aliases=" herbals"> 
 Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14] It is important to establish here that 
 <param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
@@ -206,7 +206,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDk5MjU3NiwxODA1MTk4NzE4LDYxND
+eyJoaXN0b3J5IjpbMTQ3NDEwMDIyNiwxODA1MTk4NzE4LDYxND
 E0Mjc4MCwxMjM2NjQ3MDgxLC0xODI5MzUyMzg2LC0xNDY2NDAw
 NTY3LC0xNzk1NjE4NTE5LC0xNzU3OTY2Njg2LC0xMTE4Njk0MD
 kyLC0yMDg0NTIxNDU5LC01NjUxMDgyMTgsMTU4MTYyNTMwMiwt
