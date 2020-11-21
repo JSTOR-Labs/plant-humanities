@@ -8,7 +8,7 @@
 ### A Giant among Us
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans domesticated in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and [nearly twice that when supported](https://www.guinnessworldrecords.com/world-records/tallest-sunflower).
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans domesticated in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 <param ve-entity eid="Q995745" title="artificial selection" aliases="artificially selected">
@@ -220,11 +220,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDA2MzE5MiwzMjc4MzQ5OTQsLTE4NT
-g5MzM1NTYsMTE4ODcwMDYyOSwtNDczMDU2Mzc3LC03MzY5MDUx
-OTIsLTE2Mjc2NDIyNzYsLTE5MzkwNTkzNjcsLTEyMTYxOTIwMz
-gsLTQzMjI3OTI4NywtOTI2OTYzOTYwLDE2NDMyNzA3MTcsMjMx
-ODEwNzM4LDEzMzg1NDY2MDgsLTE5MTI0OTE2ODAsMTYwMDU3OD
-I2NiwtMjEzMTE1MjA4NCwtNTc4NDMxNDM0LC0xNzcwMDQ0ODIz
-LC0zMjE5MjQ5NzRdfQ==
+eyJoaXN0b3J5IjpbNTAzNDgwMjYyLDMyNzgzNDk5NCwtMTg1OD
+kzMzU1NiwxMTg4NzAwNjI5LC00NzMwNTYzNzcsLTczNjkwNTE5
+MiwtMTYyNzY0MjI3NiwtMTkzOTA1OTM2NywtMTIxNjE5MjAzOC
+wtNDMyMjc5Mjg3LC05MjY5NjM5NjAsMTY0MzI3MDcxNywyMzE4
+MTA3MzgsMTMzODU0NjYwOCwtMTkxMjQ5MTY4MCwxNjAwNTc4Mj
+Y2LC0yMTMxMTUyMDg0LC01Nzg0MzE0MzQsLTE3NzAwNDQ4MjMs
+LTMyMTkyNDk3NF19
 -->
