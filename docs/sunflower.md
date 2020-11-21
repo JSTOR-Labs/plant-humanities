@@ -19,6 +19,7 @@ _Helianthus annuus_ (common sunflower) holds a special status in the plant kingd
 Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the visual arts. Like the supersized flower in this plant portrait, the domesticated sunflower looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. The proliferation of the flower in European art is due partly to the aesthetic appeal of traits artificially selected to increase seed production, a single bloom with a large disk, and partly to the timing of its introduction to Europe coincident with the flourishing of a new genre of botanical treatise known as the [florilegium](https://wordsmith.org/words/florilegium.html) ("collection of flowers").
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
+<param ve-entity eid="Q861716" title="visual culture">
 Sunflower imagery can provide rich historical information about the genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_ and the roles of visual culture in communicating knowledges, myths, and meanings related to plants. Artists working in Europe and North America from the colonial to the modern period, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. In doing so, they developed conventions for representing specific characteristics of sunflowers that were tailored to those aims. By tracking changes in that [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) over time, we can learn about the historical significance of sunflowers in specific temporal and geographic contexts, as well as shifts in the ways that humans have represented, encountered, used, thought about, and valued the genus. Through that practice of close visual analysis, that engaging with artworks necessarily entails, we also cultivate a greater attentiveness to bring to our encounters with plants.
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
@@ -229,11 +230,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNjIxNTUwLC0xMzM3NTU0MTg1LC01Mz
-QzMTA2NTgsLTE5ODMyMjAyMjgsMTM1NzcwMjY3NiwxNTk3MzAz
-Njc3LDIxNzEyNDkyMiwxNTU2OTYwMjQ3LC0xNzM2OTE1NTMzLC
-0xMDM0MjY5Nzg3LC02NDg5NjU3NjcsLTYzMjc1MDE4NSw1MDM0
-ODAyNjIsMzI3ODM0OTk0LC0xODU4OTMzNTU2LDExODg3MDA2Mj
-ksLTQ3MzA1NjM3NywtNzM2OTA1MTkyLC0xNjI3NjQyMjc2LC0x
-OTM5MDU5MzY3XX0=
+eyJoaXN0b3J5IjpbLTI5MTE0NjU0NiwtMTMzNzU1NDE4NSwtNT
+M0MzEwNjU4LC0xOTgzMjIwMjI4LDEzNTc3MDI2NzYsMTU5NzMw
+MzY3NywyMTcxMjQ5MjIsMTU1Njk2MDI0NywtMTczNjkxNTUzMy
+wtMTAzNDI2OTc4NywtNjQ4OTY1NzY3LC02MzI3NTAxODUsNTAz
+NDgwMjYyLDMyNzgzNDk5NCwtMTg1ODkzMzU1NiwxMTg4NzAwNj
+I5LC00NzMwNTYzNzcsLTczNjkwNTE5MiwtMTYyNzY0MjI3Niwt
+MTkzOTA1OTM2N119
 -->
