@@ -151,7 +151,9 @@ Henderson's botanical illustration highlights a trait of the sunflower that we m
 
 <param ve-entity eid="Q5928444" title="Robert John Thornton">
 <param ve-entity eid="Q103129" title="stamen" aliases="stamen(s)"> 
-<param ve-entity eid="Q62779" title="pistil" aliases="pistil(s)">  Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiveness while also articulating Linnaeus’s contributions to botany as they relate to _Helianthus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the <span data-click-image-zoomto="2992,4439,1952,1782">lower right corner of _Anatomy of the Sunflower_,</span> where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book _[New illustration of the sexual system of Carolus von Linnaeus](http://id.lib.harvard.edu/alma/990075420710203941/catalog)_.
+<param ve-entity eid="Q62779" title="pistil" aliases="pistil(s)">
+<param ve-entity eid="Q7211" title="taxonomy">
+Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiveness while also articulating Linnaeus’s contributions to botany as they relate to _Helianthus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the <span data-click-image-zoomto="2992,4439,1952,1782">lower right corner of _Anatomy of the Sunflower_,</span> where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book _[New illustration of the sexual system of Carolus von Linnaeus](http://id.lib.harvard.edu/alma/990075420710203941/catalog)_.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="9">
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="11">
@@ -160,7 +162,7 @@ Henderson's botanical illustration highlights a trait of the sunflower that we m
 
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
-In the latter nineteenth century, a period of rapid industralization and urbanization in Europe, some painters developed new visual languages for representing sunflowers to explore the subjective experiences of encountering plants. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plant's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir human emotions or spirituality. These engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire.
+In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, some painters developed new visual languages for representing sunflowers to explore the subjective experiences of encountering plants. In _Jerusalem Artichoke_, Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plant's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir human emotions or spirituality. These engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire.
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-entity eid="Q202398" title="industrialization">
 <param ve-entity eid="Q161078" title="urbanization">
@@ -243,11 +245,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzM3NSwtNTI5NjgxNTEwLC02MjM1MD
-g2NTEsMzIwMzg2NjMxLDE5Njk5ODMwMzQsMTMyMzIxODM5LC0y
-OTExNDY1NDYsLTEzMzc1NTQxODUsLTUzNDMxMDY1OCwtMTk4Mz
-IyMDIyOCwxMzU3NzAyNjc2LDE1OTczMDM2NzcsMjE3MTI0OTIy
-LDE1NTY5NjAyNDcsLTE3MzY5MTU1MzMsLTEwMzQyNjk3ODcsLT
-Y0ODk2NTc2NywtNjMyNzUwMTg1LDUwMzQ4MDI2MiwzMjc4MzQ5
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTE1NDI5MjE1MDMsMTU3MzM3NSwtNTI5Nj
+gxNTEwLC02MjM1MDg2NTEsMzIwMzg2NjMxLDE5Njk5ODMwMzQs
+MTMyMzIxODM5LC0yOTExNDY1NDYsLTEzMzc1NTQxODUsLTUzND
+MxMDY1OCwtMTk4MzIyMDIyOCwxMzU3NzAyNjc2LDE1OTczMDM2
+NzcsMjE3MTI0OTIyLDE1NTY5NjAyNDcsLTE3MzY5MTU1MzMsLT
+EwMzQyNjk3ODcsLTY0ODk2NTc2NywtNjMyNzUwMTg1LDUwMzQ4
+MDI2Ml19
 -->
