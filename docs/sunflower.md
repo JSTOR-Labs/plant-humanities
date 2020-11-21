@@ -42,7 +42,7 @@ Europeans were eager to collect exotic flora from the Americas because such plan
 <param ve-entity eid="Q8717" title="Seville">
 <param ve-entity eid="Q162022" title="Mechelen">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
-Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14] It is important to establish here that 
+Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14] It is important to establish here that Monardes's herbal primarily focused the healing and medicinal properties of plants, though the sunflower 
 <param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
 ### “Peruvian” Origins and Image Migration
@@ -212,11 +212,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjcxODkzNTAsOTQ3MTIxOTg0LC0xMD
-g4MjE2Mjk0LDE4MDUxOTg3MTgsNjE0MTQyNzgwLDEyMzY2NDcw
-ODEsLTE4MjkzNTIzODYsLTE0NjY0MDA1NjcsLTE3OTU2MTg1MT
-ksLTE3NTc5NjY2ODYsLTExMTg2OTQwOTIsLTIwODQ1MjE0NTks
-LTU2NTEwODIxOCwxNTgxNjI1MzAyLC0yNzcyNDk5NDIsNjYyMT
-cyOTE5LDQxMDAwMTc1NiwtMTMyMDA1OTE5NywxNzM5ODMwMTgx
-LDE1MDU5MjE1NDFdfQ==
+eyJoaXN0b3J5IjpbODQyMjIzMzU2LC0yMTI3MTg5MzUwLDk0Nz
+EyMTk4NCwtMTA4ODIxNjI5NCwxODA1MTk4NzE4LDYxNDE0Mjc4
+MCwxMjM2NjQ3MDgxLC0xODI5MzUyMzg2LC0xNDY2NDAwNTY3LC
+0xNzk1NjE4NTE5LC0xNzU3OTY2Njg2LC0xMTE4Njk0MDkyLC0y
+MDg0NTIxNDU5LC01NjUxMDgyMTgsMTU4MTYyNTMwMiwtMjc3Mj
+Q5OTQyLDY2MjE3MjkxOSw0MTAwMDE3NTYsLTEzMjAwNTkxOTcs
+MTczOTgzMDE4MV19
 -->
