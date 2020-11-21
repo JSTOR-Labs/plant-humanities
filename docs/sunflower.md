@@ -182,15 +182,15 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref6]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in _An Illustrated History of the Herbals_ (New York: Columbia University Press, 1997), 201-09.
 
-[^ref5]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
-
-[^ref6]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
-
 [^ref7]: Arthur K. Wheelock, Jr., _From Botany to Bouquets: Flowers in Northern Art_ (Washington, D.C.: National Gallery of Art, 1999).
 
 [^ref8]: F. de Nave and D. Imhof, eds., _Botany in the Low Countries: (end of the 15th centry, ca. 1650) Plantin-Moretus Museum Exhibition_ (Antwerp: City of Antwerp, the Plantin-Moretus Museum and the Stedelijk Prentenkabinet (Municipal Printroom), 1993), ##.
 
 [^ref9]: Heiser, “The Domesticated Sunflower in Mexico?,” 449.
+
+[^ref10]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
+
+[^ref6]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
 
 [^ref7]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
 
@@ -217,11 +217,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzYzODY3NSwtMTkzOTA1OTM2NywtMT
-IxNjE5MjAzOCwtNDMyMjc5Mjg3LC05MjY5NjM5NjAsMTY0MzI3
-MDcxNywyMzE4MTA3MzgsMTMzODU0NjYwOCwtMTkxMjQ5MTY4MC
-wxNjAwNTc4MjY2LC0yMTMxMTUyMDg0LC01Nzg0MzE0MzQsLTE3
-NzAwNDQ4MjMsLTMyMTkyNDk3NCwxMjg4MTU2NTE1LDE4ODYyOT
-UwMTIsMjcxNjkwMjQ3LC0yMjc5MTMzNDIsLTExOTE3MDMzNzgs
-MTAxMjIwOTM4OF19
+eyJoaXN0b3J5IjpbOTYwNDEyODUzLC0xOTM5MDU5MzY3LC0xMj
+E2MTkyMDM4LC00MzIyNzkyODcsLTkyNjk2Mzk2MCwxNjQzMjcw
+NzE3LDIzMTgxMDczOCwxMzM4NTQ2NjA4LC0xOTEyNDkxNjgwLD
+E2MDA1NzgyNjYsLTIxMzExNTIwODQsLTU3ODQzMTQzNCwtMTc3
+MDA0NDgyMywtMzIxOTI0OTc0LDEyODgxNTY1MTUsMTg4NjI5NT
+AxMiwyNzE2OTAyNDcsLTIyNzkxMzM0MiwtMTE5MTcwMzM3OCwx
+MDEyMjA5Mzg4XX0=
 -->
