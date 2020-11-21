@@ -87,7 +87,7 @@ that anticipates modern visual stereotypes for the plant, perhaps best epitomize
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-entity eid="Q252772" title="Eichstätt">
 Through transregional trade networks Prince Bishop of Eichstätt obtained materials for the cultivation of sunflowers in his garden at Eichstätt, Bavaria, which he commissioned Besler to document in [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908) (1613).[^ref10] Eichstätt and Besler also used those connections to exchange iconography and ideas related to the sunflower. This model visualizes some of their intersections with authors, artists, translators, plant collectors, patrons, and other historical figures, focusing on the period from the 1550s to the 1650s. It also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one book to another, possibly through sources not identified here. Such borrowings raise questions about the significance of individual plants and pictures, about relationships of images to text, about patterns of artistic exchange, and about the role of iconography in processes of knowledge production and transmission.
-<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Johann Konrad von Gemmingen">
+<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography_v2.tsv" center="Johann Konrad von Gemmingen">
 
 ### Mythic Encounters and Scientific Debates
 
@@ -246,11 +246,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTIzODQ2MSwtMTM3ODYzNzM1MSwxMD
-kzOTA2MDIwLDk0MTUxODM4LC0xNzkwODI4ODI1LC0xNTQyOTIx
-NTAzLDE1NzMzNzUsLTUyOTY4MTUxMCwtNjIzNTA4NjUxLDMyMD
-M4NjYzMSwxOTY5OTgzMDM0LDEzMjMyMTgzOSwtMjkxMTQ2NTQ2
-LC0xMzM3NTU0MTg1LC01MzQzMTA2NTgsLTE5ODMyMjAyMjgsMT
-M1NzcwMjY3NiwxNTk3MzAzNjc3LDIxNzEyNDkyMiwxNTU2OTYw
-MjQ3XX0=
+eyJoaXN0b3J5IjpbLTE4OTk2MTg1NTIsLTI0NTIzODQ2MSwtMT
+M3ODYzNzM1MSwxMDkzOTA2MDIwLDk0MTUxODM4LC0xNzkwODI4
+ODI1LC0xNTQyOTIxNTAzLDE1NzMzNzUsLTUyOTY4MTUxMCwtNj
+IzNTA4NjUxLDMyMDM4NjYzMSwxOTY5OTgzMDM0LDEzMjMyMTgz
+OSwtMjkxMTQ2NTQ2LC0xMzM3NTU0MTg1LC01MzQzMTA2NTgsLT
+E5ODMyMjAyMjgsMTM1NzcwMjY3NiwxNTk3MzAzNjc3LDIxNzEy
+NDkyMl19
 -->
