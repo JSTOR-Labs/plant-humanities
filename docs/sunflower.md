@@ -15,6 +15,8 @@ _Helianthus annuus_ (common sunflower) holds a special status in the plant kingd
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
 <param ve-entity eid="Q995745" title="artificial selection" aliases="artificially selected">
+<param ve-entity eid="Q3796486" title="botanical illustration">
+
 Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the visual arts. Like the supersized flower in this plant portrait, the domesticated sunflower looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. The proliferation of the flower in European art is due partly to the aesthetic appeal of traits artificially selected to increase seed production, a single bloom with a large disk, and partly to the timing of its introduction to Europe coinciding with the flourishing of a new genre of botanical treatise known as the [florilegium](https://wordsmith.org/words/florilegium.html) ("collection of flowers").
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
@@ -228,11 +230,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDMxMDY1OCwtMTk4MzIyMDIyOCwxMz
-U3NzAyNjc2LDE1OTczMDM2NzcsMjE3MTI0OTIyLDE1NTY5NjAy
-NDcsLTE3MzY5MTU1MzMsLTEwMzQyNjk3ODcsLTY0ODk2NTc2Ny
-wtNjMyNzUwMTg1LDUwMzQ4MDI2MiwzMjc4MzQ5OTQsLTE4NTg5
-MzM1NTYsMTE4ODcwMDYyOSwtNDczMDU2Mzc3LC03MzY5MDUxOT
-IsLTE2Mjc2NDIyNzYsLTE5MzkwNTkzNjcsLTEyMTYxOTIwMzgs
-LTQzMjI3OTI4N119
+eyJoaXN0b3J5IjpbLTEzMzc1NTQxODUsLTUzNDMxMDY1OCwtMT
+k4MzIyMDIyOCwxMzU3NzAyNjc2LDE1OTczMDM2NzcsMjE3MTI0
+OTIyLDE1NTY5NjAyNDcsLTE3MzY5MTU1MzMsLTEwMzQyNjk3OD
+csLTY0ODk2NTc2NywtNjMyNzUwMTg1LDUwMzQ4MDI2MiwzMjc4
+MzQ5OTQsLTE4NTg5MzM1NTYsMTE4ODcwMDYyOSwtNDczMDU2Mz
+c3LC03MzY5MDUxOTIsLTE2Mjc2NDIyNzYsLTE5MzkwNTkzNjcs
+LTEyMTYxOTIwMzhdfQ==
 -->
