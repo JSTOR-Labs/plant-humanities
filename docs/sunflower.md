@@ -176,7 +176,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref3]: Translated in Alice Dickinson, _Carl Linnaeus; Pioneer of Modern Botany_ (New York: F. Watts, 1967), 125, accessed October 7, 2020, HathiTrust.
 
-[^ref5]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449.
+[^ref4]: Sauer
 
 [^ref6]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in _An Illustrated History of the Herbals_ (New York: Columbia University Press, 1997), 201-09.
 
@@ -184,7 +184,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref8]: F. de Nave and D. Imhof, eds., _Botany in the Low Countries: (end of the 15th centry, ca. 1650) Plantin-Moretus Museum Exhibition_ (Antwerp: City of Antwerp, the Plantin-Moretus Museum and the Stedelijk Prentenkabinet (Municipal Printroom), 1993), ##.
 
-[^ref9]: Heiser, “The Domesticated Sunflower in Mexico?,” 449.
+[^ref9]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449.
 
 [^ref10]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 
@@ -196,7 +196,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref14]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
 
-[^ref15]: “Heiser (1965) proposed an hypothesis that is still tenable. The species [_Helianthus annuus_] spread prehistorically over eastern North America as a weedy camp-follower.” Jonathan D. Sauer, “HELIANTHUS – SUNFLOWER,” in _Historical Geography of Crop Plants: A Select Roster_ (Bosa Roca: Taylor and Francis Group, 1993), 23; 
+[^ref15]: “Heiser (1965) proposed an hypothesis that is still tenable. The species [_Helianthus annuus_] spread prehistorically over eastern North America as a weedy camp-follower.” Jonathan D. Sauer, “HELIANTHUS – SUNFLOWER,” in _Historical Geography of Crop Plants: A Select Roster_ (Bosa Roca: Taylor and Francis Group, 1993), 23.
 
 [^ref16]: For a concise summary of the debate see Schiffer, “Origin of the Domesticated Sunflower,” 241-46.
 
@@ -219,7 +219,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDgxNzU3NTIsLTczNjkwNTE5MiwtMT
+eyJoaXN0b3J5IjpbLTEyODk2MDE3NTcsLTczNjkwNTE5MiwtMT
 YyNzY0MjI3NiwtMTkzOTA1OTM2NywtMTIxNjE5MjAzOCwtNDMy
 Mjc5Mjg3LC05MjY5NjM5NjAsMTY0MzI3MDcxNywyMzE4MTA3Mz
 gsMTMzODU0NjYwOCwtMTkxMjQ5MTY4MCwxNjAwNTc4MjY2LC0y
