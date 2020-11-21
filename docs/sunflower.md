@@ -34,7 +34,7 @@ The genus Helianthus—a Latin compound derived from the Greek words _helios_ (s
 <param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
 <param ve-entity eid="Q490360" title="Hickory Country" aliases="eastern North America">
 <param ve-entity eid="Q29" title="Spain">
-Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and treasures bound up with imperial expansion. The Spanish first transported the domesticated sunflower from North America to Europe, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals and florilegia, along with corroborating evidence, can be used to chart its introduction to <span data-click-map-flyto="45.796048, 3.108712">Spain</span> and other parts of Europe.
+Europeans were eager to collect exotic flora from the Americas because such plants were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and treasures bound up with imperial expansion. The Spanish first transported the domesticated sunflower from North America to Europe, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to <span data-click-map-flyto="45.796048, 3.108712">Spain</span> and other parts of Europe.
 <param ve-map prefer-geojson center="Q495448" zoom="5" title="North America" show-label="true">
 
 <param ve-entity eid="Q950531" title="Nicolás Monardes" aliases="Monardes’s">
@@ -43,7 +43,7 @@ Europeans were eager to collect exotic flora from the Americas because such plan
 <param ve-entity eid="Q162022" title="Mechelen">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
 <param ve-entity eid="Q354326" title="florilegium" aliases="florilegia">
-Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text in that herbal based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Monardes was primarily interested in the use of colonial trade routes to obtain "new" plants with healing and medicinal properties. However, the sunflower did not fit that paradigm and Europeans came to value the plant for its magnificent blooms and towering height. These qualities are described in Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_. This early example of a florilegium, a treatise devoted to ornamental and aromatic flowers, also provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14]
+Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text in that herbal based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Monardes was primarily interested in the use of colonial trade routes to obtain "new" plants with healing and medicinal properties. However, the sunflower did not fit that paradigm and Europeans instead came to value the plant mostly for its magnificent blooms and towering height. These qualities are described in Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_. This early example of a florilegium, a treatise devoted to ornamental and aromatic flowers, also provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14]
 <param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
 ### “Peruvian” Origins and Image Migration
@@ -214,11 +214,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNzkxMzM0MiwtMTE5MTcwMzM3OCwxMD
-EyMjA5Mzg4LC0yMTI3MTg5MzUwLDk0NzEyMTk4NCwtMTA4ODIx
-NjI5NCwxODA1MTk4NzE4LDYxNDE0Mjc4MCwxMjM2NjQ3MDgxLC
-0xODI5MzUyMzg2LC0xNDY2NDAwNTY3LC0xNzk1NjE4NTE5LC0x
-NzU3OTY2Njg2LC0xMTE4Njk0MDkyLC0yMDg0NTIxNDU5LC01Nj
-UxMDgyMTgsMTU4MTYyNTMwMiwtMjc3MjQ5OTQyLDY2MjE3Mjkx
-OSw0MTAwMDE3NTZdfQ==
+eyJoaXN0b3J5IjpbNzQ0MDU0NDY0LC0yMjc5MTMzNDIsLTExOT
+E3MDMzNzgsMTAxMjIwOTM4OCwtMjEyNzE4OTM1MCw5NDcxMjE5
+ODQsLTEwODgyMTYyOTQsMTgwNTE5ODcxOCw2MTQxNDI3ODAsMT
+IzNjY0NzA4MSwtMTgyOTM1MjM4NiwtMTQ2NjQwMDU2NywtMTc5
+NTYxODUxOSwtMTc1Nzk2NjY4NiwtMTExODY5NDA5MiwtMjA4ND
+UyMTQ1OSwtNTY1MTA4MjE4LDE1ODE2MjUzMDIsLTI3NzI0OTk0
+Miw2NjIxNzI5MTldfQ==
 -->
