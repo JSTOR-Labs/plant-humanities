@@ -44,7 +44,7 @@ Europeans were eager to collect exotic flora from the Americas because such plan
 <param ve-entity eid="Q162022" title="Mechelen">
 <param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
 <param ve-entity eid="Q354326" title="florilegium" aliases="florilegia">
-Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text in that herbal based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^re6] Monardes was primarily interested in the use of colonial trade routes to obtain "new" plants with healing and medicinal properties. However, the sunflower did not fit that paradigm and Europeans instead came to value the plant mostly for its magnificent blooms and towering height. These qualities are described in Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_. An early example of a florilegium, Dodoens's treatise devoted to ornamental and aromatic flowers also maps the movement of cultivated sunflowers to <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14]
+Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text in that herbal based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^re6] Monardes was primarily interested in the use of colonial trade routes to obtain "new" plants with healing and medicinal properties. However, the sunflower did not fit that paradigm and Europeans instead came to value the plant mostly for its magnificent blooms and towering height. These qualities are described in Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_. An early example of a florilegium, Dodoens's treatise devoted to ornamental and aromatic flowers also maps the movement of cultivated sunflowers to <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref7]
 <param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
 ### “Peruvian” Origins and Image Migration
@@ -186,6 +186,8 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref6]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
 
+[^ref7]: For a contemporary illustration see Pietro Andrea Mattioli, _I discori di M. Pietro Andrea Matthioli…_ (Venice: Vincenzo Valgris, 1568), Biodiversity Heritage Library, [https://www.biodiversitylibrary.org/page/51721054](https://www.biodiversitylibrary.org/page/51721054).
+
 [^ref7]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
 
 [^ref8]: “Heiser (1965) proposed an hypothesis that is still tenable. The species [_Helianthus annuus_] spread prehistorically over eastern North America as a weedy camp-follower.” Jonathan D. Sauer, “HELIANTHUS – SUNFLOWER,” in _Historical Geography of Crop Plants: A Select Roster_ (Bosa Roca: Taylor and Francis Group, 1993), 23; 
@@ -197,8 +199,6 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 [^ref11]: Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
 
 [^ref12]: Heiser, “The Domesticated Sunflower in Mexico?,” 449; Bruce D. Smith, "Eastern North America as an Independent Center of Plant Domestication," _Proceedings of the National Academy of Science of the Unites States of America_ 103, no. 33 (August 15, 2006): 12223-28.
-
-[^ref14]: For a contemporary illustration see Pietro Andrea Mattioli, _I discori di M. Pietro Andrea Matthioli…_ (Venice: Vincenzo Valgris, 1568), Biodiversity Heritage Library, [https://www.biodiversitylibrary.org/page/51721054](https://www.biodiversitylibrary.org/page/51721054).
 
 [^ref15]: Botany in the Low Countries. 1993.
 
@@ -217,11 +217,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTk1Mzc5MSwtMTIxNjE5MjAzOCwtND
-MyMjc5Mjg3LC05MjY5NjM5NjAsMTY0MzI3MDcxNywyMzE4MTA3
-MzgsMTMzODU0NjYwOCwtMTkxMjQ5MTY4MCwxNjAwNTc4MjY2LC
-0yMTMxMTUyMDg0LC01Nzg0MzE0MzQsLTE3NzAwNDQ4MjMsLTMy
-MTkyNDk3NCwxMjg4MTU2NTE1LDE4ODYyOTUwMTIsMjcxNjkwMj
-Q3LC0yMjc5MTMzNDIsLTExOTE3MDMzNzgsMTAxMjIwOTM4OCwt
-MjEyNzE4OTM1MF19
+eyJoaXN0b3J5IjpbLTIxMzc1MzM2MjcsLTEyMTYxOTIwMzgsLT
+QzMjI3OTI4NywtOTI2OTYzOTYwLDE2NDMyNzA3MTcsMjMxODEw
+NzM4LDEzMzg1NDY2MDgsLTE5MTI0OTE2ODAsMTYwMDU3ODI2Ni
+wtMjEzMTE1MjA4NCwtNTc4NDMxNDM0LC0xNzcwMDQ0ODIzLC0z
+MjE5MjQ5NzQsMTI4ODE1NjUxNSwxODg2Mjk1MDEyLDI3MTY5MD
+I0NywtMjI3OTEzMzQyLC0xMTkxNzAzMzc4LDEwMTIyMDkzODgs
+LTIxMjcxODkzNTBdfQ==
 -->
