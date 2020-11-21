@@ -24,6 +24,20 @@ The genus Helianthus—a Latin compound derived from the Greek words _helios_ (s
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, p. 97 Nomina Generica, _Critica botanica_, 1737, Lugduni Batavorum: Apud Conradum Wishoff © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, p. 98 Nomina Generica, _Critica botanica_, 1737, Lugduni Batavorum: Apud Conradum Wishoff © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
+### Plant Mobility and Image Migration
+
+<param ve-entity eid="Q29" title="Spain">
+The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals and other corroborating evidence can be used to chart its introduction to Spain and other parts of Europe.
+<param ve-map prefer-geojson center="45.796048, 3.108712" zoom="4.5" show-label="true">
+<param ve-entity eid="Q950531" title="Nicolás Monardes" aliases="Monardes’s">
+<param ve-entity eid="Q437466" title="Rembert Dodoens" aliases="Dodoens’s">
+<param ve-entity eid="Q8717" title="Seville">
+<param ve-entity eid="Q162022" title="Mechelen">
+<param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
+<param ve-entity eid="Q10491" title="Eichstätt">
+Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14] Through transregional trade networks Prince Bishop of Eichstätt obtained materials for the cultivation of domesticated sunflowers in his garden at <span data-click-map-flyto="48.897182, 11.170371">Eichstätt</span>, Bavaria, which were depicted in Besler's [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908) (1613).
+<param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
+
 ### Range and Cultivation
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
@@ -39,19 +53,6 @@ How did the type of _Helianthus annuus_ specimen represented in _Flos Solis maio
 <param ve-entity eid="Q490360" title="Hickory Country" aliases="eastern North America">
 There is some debate among scientists about when humans used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether they were cultivated independently there.[^ref9] A charred seed was recovered at San Andrés archaeological site in Tabasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that it may have come from a bottle gourd.[^ref10] Expanding on that archeological research, genomic studies of modern domesticated and wild sunflowers have linked the plants to a common ancestor, which was cultivated at an independent domestication center, along with pepo squash, marshelder, and chenopod, in <span data-click-map-flyto="37.347878, -89.590292">eastern North America</span>.[^ref11] For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly by Spanish colonizers.[^ref12]
 <param ve-map prefer-geojson center="Q80914" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
-
-<param ve-entity eid="Q29" title="Spain">
-The Spanish first transported the domesticated sunflower across the Atlantic Ocean, though questions persist about who collected such plants or seeds, and when and from where they did so. In the absence of more specific evidence about their harvesting of the domesticated sunflower, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in herbals and other corroborating evidence can be used to chart its introduction to Spain and other parts of Europe.
-<param ve-map prefer-geojson center="45.796048, 3.108712" zoom="4.5" show-label="true">
-
-<param ve-entity eid="Q950531" title="Nicolás Monardes" aliases="Monardes’s">
-<param ve-entity eid="Q437466" title="Rembert Dodoens" aliases="Dodoens’s">
-<param ve-entity eid="Q8717" title="Seville">
-<param ve-entity eid="Q162022" title="Mechelen">
-<param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
-<param ve-entity eid="Q10491" title="Eichstätt">
-Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref13] Similarly, Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_—provides crucial evidence about when the cultivated sunflower was brought to a garden in <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref14] Through transregional trade networks Prince Bishop of Eichstätt obtained materials for the cultivation of domesticated sunflowers in his garden at <span data-click-map-flyto="48.897182, 11.170371">Eichstätt</span>, Bavaria, which were depicted in Besler's [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908) (1613).
-<param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
 
 ### “Peruvian” Origins and Mythic Encounters
 
@@ -206,7 +207,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzAxOTUyOCwtMTgyOTM1MjM4NiwtMT
+eyJoaXN0b3J5IjpbLTM1MjIzMDIxNSwtMTgyOTM1MjM4NiwtMT
 Q2NjQwMDU2NywtMTc5NTYxODUxOSwtMTc1Nzk2NjY4NiwtMTEx
 ODY5NDA5MiwtMjA4NDUyMTQ1OSwtNTY1MTA4MjE4LDE1ODE2Mj
 UzMDIsLTI3NzI0OTk0Miw2NjIxNzI5MTksNDEwMDAxNzU2LC0x
