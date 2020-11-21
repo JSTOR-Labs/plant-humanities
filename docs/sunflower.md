@@ -78,7 +78,7 @@ Through transregional trade networks Prince Bishop of Eichstätt obtained materi
 ### Mythic Encounters and Scientific Debates
 
 <param ve-image iiif primary fit="contain" url="https://ia800805.us.archive.org/BookReader/BookReaderImages.php?id=novaplantarumani00hern&itemPath=%2F5%2Fitems%2Fnovaplantarumani00hern&server=ia800805.us.archive.org&page=n245_w820" title="Hernández, Francisco, _Nova plantarum, animalium et mineralium Mexicanorum historia_, 1651, John Carter Brown Library">
-The migration of sunflower iconography is also evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_ (1651). The book purports to document plants and animals that Hernández and his team, which included several indigenous artists, observed during a three-year expedition through Mexico in the 1570s.[^ref11] However, its illustrations of sunflowers, shown here, were not drawn on-site from local plants but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait made under Besler’s direction for inclusion in _Hortus Eystettensis_. <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from Anthoine Colin's 1619 French-language translation of a text by Monardes, or a similar precedent. These appropriations have been interpreted as evidence that Hernández’s team of artists or those working on a later version had to copy existing imagery because the sunflower was not established in Mexico at the time of the expedition.[^ref12] If that were so, Hernández’s inclusion of the sunflower in his manuscript recounted a mythic encounter with the plant, reproducing European misconceptions about its range that scientists would later dispute.
+The migration of sunflower iconography is also evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_ (1651). The book purports to document plants and animals that Hernández and his team, which included several indigenous artists, observed during a three-year expedition through Mexico in the 1570s.[^ref11] However, its illustrations of sunflowers, shown here, were not drawn on-site from local plants but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait made under Besler’s direction for inclusion in _Hortus Eystettensis_. <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from [Anthoine Colin's 1619 French-language translation of a text by Monardes](https://www.biodiversitylibrary.org/page/7815694), or a similar precedent. These appropriations have been interpreted as evidence that Hernández’s team of artists or those working on a later version had to copy existing imagery because the sunflower was not established in Mexico at the time of the expedition.[^ref12] If that were so, Hernández’s inclusion of the sunflower in his manuscript recounted a mythic encounter with the plant, reproducing European misconceptions about its range that scientists would later dispute.
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, Missouri Botanical Garden">
 
@@ -220,11 +220,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3ODM0OTk0LC0xODU4OTMzNTU2LDExOD
-g3MDA2MjksLTQ3MzA1NjM3NywtNzM2OTA1MTkyLC0xNjI3NjQy
-Mjc2LC0xOTM5MDU5MzY3LC0xMjE2MTkyMDM4LC00MzIyNzkyOD
-csLTkyNjk2Mzk2MCwxNjQzMjcwNzE3LDIzMTgxMDczOCwxMzM4
-NTQ2NjA4LC0xOTEyNDkxNjgwLDE2MDA1NzgyNjYsLTIxMzExNT
-IwODQsLTU3ODQzMTQzNCwtMTc3MDA0NDgyMywtMzIxOTI0OTc0
-LDEyODgxNTY1MTVdfQ==
+eyJoaXN0b3J5IjpbMTU3NDA2MzE5MiwzMjc4MzQ5OTQsLTE4NT
+g5MzM1NTYsMTE4ODcwMDYyOSwtNDczMDU2Mzc3LC03MzY5MDUx
+OTIsLTE2Mjc2NDIyNzYsLTE5MzkwNTkzNjcsLTEyMTYxOTIwMz
+gsLTQzMjI3OTI4NywtOTI2OTYzOTYwLDE2NDMyNzA3MTcsMjMx
+ODEwNzM4LDEzMzg1NDY2MDgsLTE5MTI0OTE2ODAsMTYwMDU3OD
+I2NiwtMjEzMTE1MjA4NCwtNTc4NDMxNDM0LC0xNzcwMDQ0ODIz
+LC0zMjE5MjQ5NzRdfQ==
 -->
