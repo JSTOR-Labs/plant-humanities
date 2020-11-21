@@ -185,9 +185,13 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref8]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449.
 
-[^ref9]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
+[^ref9]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995).
 
-[^ref10]: [Add commentary about history of manuscript and its production.] Ray Desmond, “The Discovery of the New World,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 24-27.
+[^ref10]: Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
+
+[^ref11]: [Add commentary about history of manuscript and its production.] Ray Desmond, “The Discovery of the New World,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 24-27.
+
+[^ref12]: Heiser, Jr., “The Domesticated Sunflower in Mexico?,” 449.
 
 [^ref11]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
 
@@ -216,11 +220,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyMDY5NzE0LDExODg3MDA2MjksLTQ3Mz
-A1NjM3NywtNzM2OTA1MTkyLC0xNjI3NjQyMjc2LC0xOTM5MDU5
-MzY3LC0xMjE2MTkyMDM4LC00MzIyNzkyODcsLTkyNjk2Mzk2MC
-wxNjQzMjcwNzE3LDIzMTgxMDczOCwxMzM4NTQ2NjA4LC0xOTEy
-NDkxNjgwLDE2MDA1NzgyNjYsLTIxMzExNTIwODQsLTU3ODQzMT
-QzNCwtMTc3MDA0NDgyMywtMzIxOTI0OTc0LDEyODgxNTY1MTUs
-MTg4NjI5NTAxMl19
+eyJoaXN0b3J5IjpbLTMxMTc5NjEzOSwxMTg4NzAwNjI5LC00Nz
+MwNTYzNzcsLTczNjkwNTE5MiwtMTYyNzY0MjI3NiwtMTkzOTA1
+OTM2NywtMTIxNjE5MjAzOCwtNDMyMjc5Mjg3LC05MjY5NjM5Nj
+AsMTY0MzI3MDcxNywyMzE4MTA3MzgsMTMzODU0NjYwOCwtMTkx
+MjQ5MTY4MCwxNjAwNTc4MjY2LC0yMTMxMTUyMDg0LC01Nzg0Mz
+E0MzQsLTE3NzAwNDQ4MjMsLTMyMTkyNDk3NCwxMjg4MTU2NTE1
+LDE4ODYyOTUwMTJdfQ==
 -->
