@@ -198,30 +198,30 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref14]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
 
-[^ref8]: “Heiser (1965) proposed an hypothesis that is still tenable. The species [_Helianthus annuus_] spread prehistorically over eastern North America as a weedy camp-follower.” Jonathan D. Sauer, “HELIANTHUS – SUNFLOWER,” in _Historical Geography of Crop Plants: A Select Roster_ (Bosa Roca: Taylor and Francis Group, 1993), 23; 
+[^ref15]: “Heiser (1965) proposed an hypothesis that is still tenable. The species [_Helianthus annuus_] spread prehistorically over eastern North America as a weedy camp-follower.” Jonathan D. Sauer, “HELIANTHUS – SUNFLOWER,” in _Historical Geography of Crop Plants: A Select Roster_ (Bosa Roca: Taylor and Francis Group, 1993), 23; 
 
-[^ref9]: For a concise summary of the debate see Schiffer, “Origin of the Domesticated Sunflower,” 241-46.
+[^ref16]: For a concise summary of the debate see Schiffer, “Origin of the Domesticated Sunflower,” 241-46.
 
-[^ref10]: David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” 57-74; Charles B. Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," _Genetic Resources and Crop Evolution_ 55, no. 1 (2008): 9-13.
+[^ref17]: David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” 57-74; Charles B. Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," _Genetic Resources and Crop Evolution_ 55, no. 1 (2008): 9-13.
 
-[^ref11]: Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
+[^ref18]: Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
 
-[^ref12]: Heiser, “The Domesticated Sunflower in Mexico?,” 449; Bruce D. Smith, "Eastern North America as an Independent Center of Plant Domestication," _Proceedings of the National Academy of Science of the Unites States of America_ 103, no. 33 (August 15, 2006): 12223-28.
+[^ref19]: Heiser, “The Domesticated Sunflower in Mexico?,” 449; Bruce D. Smith, "Eastern North America as an Independent Center of Plant Domestication," _Proceedings of the National Academy of Science of the Unites States of America_ 103, no. 33 (August 15, 2006): 12223-28.
 
-[^ref17]: John Peacock, _The Look of Van Dyck: The Self-Portrait with a Sunflower and the Vision of the Painter_ (Burlington, VT: Ashgate, 2006), 116, HathiTrust, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
+[^ref20]: John Peacock, _The Look of Van Dyck: The Self-Portrait with a Sunflower and the Vision of the Painter_ (Burlington, VT: Ashgate, 2006), 116, HathiTrust, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
 
-[^ref18]: Jean-Michel Othoniel, “_Helianthus annuus_ Sunflower,” in _The Secret Language of Flowers: Notes on the Hidden Meanings of Flowers in Art_ (Boston, MA: Actes Sud/Isabella Stewart Gardner Museum, 2015), 66.
+[^ref21]: Jean-Michel Othoniel, “_Helianthus annuus_ Sunflower,” in _The Secret Language of Flowers: Notes on the Hidden Meanings of Flowers in Art_ (Boston, MA: Actes Sud/Isabella Stewart Gardner Museum, 2015), 66.
 
-[^ref19]: Debra N. Mancoff, _Sunflowers_ (New York: Thames and Hudson, 2001), 21-27.
+[^ref22]: Debra N. Mancoff, _Sunflowers_ (New York: Thames and Hudson, 2001), 21-27.
 
-[^ref20]: Hagop S. Atamian et al., “Circadian Regulations of Sunflower Heliotropism, Floral Orientation, and Pollinator Visits,” _Science_ 353, no. 6299 (2016): 587-90. DOI: 10.1126/science.aaf9793
+[^ref23]: Hagop S. Atamian et al., “Circadian Regulations of Sunflower Heliotropism, Floral Orientation, and Pollinator Visits,” _Science_ 353, no. 6299 (2016): 587-90. DOI: 10.1126/science.aaf9793
 
-[^ref21]: Native American Ethnobotany Database http://naeb.brit.org/uses/search/?string=sunflower
+[^ref24]: Native American Ethnobotany Database http://naeb.brit.org/uses/search/?string=sunflower
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzU0NDg3NSwtMTkzOTA1OTM2NywtMT
+eyJoaXN0b3J5IjpbMTcwNDM2MzE3MiwtMTkzOTA1OTM2NywtMT
 IxNjE5MjAzOCwtNDMyMjc5Mjg3LC05MjY5NjM5NjAsMTY0MzI3
 MDcxNywyMzE4MTA3MzgsMTMzODU0NjYwOCwtMTkxMjQ5MTY4MC
 wxNjAwNTc4MjY2LC0yMTMxMTUyMDg0LC01Nzg0MzE0MzQsLTE3
