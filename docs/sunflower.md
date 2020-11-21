@@ -79,12 +79,12 @@ Through transregional trade networks Prince Bishop of Eichstätt obtained materi
 ### Mythic Encounters and Scientific Debates
 
 <param ve-image iiif primary fit="contain" url="https://ia800805.us.archive.org/BookReader/BookReaderImages.php?id=novaplantarumani00hern&itemPath=%2F5%2Fitems%2Fnovaplantarumani00hern&server=ia800805.us.archive.org&page=n245_w820" title="Hernández, Francisco, _Nova plantarum, animalium et mineralium Mexicanorum historia_, 1651, John Carter Brown Library">
-The migration of sunflower iconography is also evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_ (1651). The book purports to document plants and animals that Hernández and his team, which included several indigenous artists, observed during a three-year expedition through Mexico in the 1570s.[^ref10] However, its illustrations of sunflowers, shown here, were not drawn on-site from local plants but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait made under Besler’s direction for inclusion in _Hortus Eystettensis_. <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from Anthoine Colin's 1619 French-language translation of a text by Monardes, or a similar precedent. These appropriations have been interpreted as evidence that Hernández’s team of artists or those working on a later version had to copy existing imagery because the sunflower was not established in Mexico at the time of the expedition.[^ref11] If that were so, Hernández’s inclusion of the sunflower in his manuscript recounted a mythic encounter with the plant, reproducing European misconceptions about its range that scientists would later dispute.
+The migration of sunflower iconography is also evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_ (1651). The book purports to document plants and animals that Hernández and his team, which included several indigenous artists, observed during a three-year expedition through Mexico in the 1570s.[^ref11] However, its illustrations of sunflowers, shown here, were not drawn on-site from local plants but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait made under Besler’s direction for inclusion in _Hortus Eystettensis_. <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from Anthoine Colin's 1619 French-language translation of a text by Monardes, or a similar precedent. These appropriations have been interpreted as evidence that Hernández’s team of artists or those working on a later version had to copy existing imagery because the sunflower was not established in Mexico at the time of the expedition.[^ref12] If that were so, Hernández’s inclusion of the sunflower in his manuscript recounted a mythic encounter with the plant, reproducing European misconceptions about its range that scientists would later dispute.
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, Missouri Botanical Garden">
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
-Although botanists have consulted herbals and other historical evidence to chart the movement of _Helianthus annuus_, they have also used maps of plant distribution and fossilized remains to study the origins of the plant.[^ref14] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref15] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large  flower heads with more seeds.[^ref16]
+Although botanists have consulted herbals and other historical evidence to chart the movement of _Helianthus annuus_, they have also used maps of plant distribution and fossilized remains to study the origins of the plant.[^ref13] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref14] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess favorable traits, such as large  flower heads with more seeds.[^ref15]
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
@@ -196,9 +196,9 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref13]: “Heiser (1965) proposed an hypothesis that is still tenable. The species [_Helianthus annuus_] spread prehistorically over eastern North America as a weedy camp-follower.” Sauer, “HELIANTHUS – SUNFLOWER,” in _Historical Geography of Crop Plants: A Select Roster_ (Bosa Roca: Taylor and Francis Group, 1993), 23.
 
-[^ref16]: For a concise summary of the debate see Schiffer, “Origin of the Domesticated Sunflower,” 241-46.
+[^ref14]: For a concise summary of the debate see Schiffer, “Origin of the Domesticated Sunflower,” 241-46.
 
-[^ref17]: David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” 57-74; Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," 9-13.
+[^ref15]: David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” 57-74; Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," 9-13.
 
 [^ref18]: Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
 
@@ -217,11 +217,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExODMyMTcxLDExODg3MDA2MjksLTQ3Mz
-A1NjM3NywtNzM2OTA1MTkyLC0xNjI3NjQyMjc2LC0xOTM5MDU5
-MzY3LC0xMjE2MTkyMDM4LC00MzIyNzkyODcsLTkyNjk2Mzk2MC
-wxNjQzMjcwNzE3LDIzMTgxMDczOCwxMzM4NTQ2NjA4LC0xOTEy
-NDkxNjgwLDE2MDA1NzgyNjYsLTIxMzExNTIwODQsLTU3ODQzMT
-QzNCwtMTc3MDA0NDgyMywtMzIxOTI0OTc0LDEyODgxNTY1MTUs
-MTg4NjI5NTAxMl19
+eyJoaXN0b3J5IjpbMTI5MDY4Nzc4NiwxMTg4NzAwNjI5LC00Nz
+MwNTYzNzcsLTczNjkwNTE5MiwtMTYyNzY0MjI3NiwtMTkzOTA1
+OTM2NywtMTIxNjE5MjAzOCwtNDMyMjc5Mjg3LC05MjY5NjM5Nj
+AsMTY0MzI3MDcxNywyMzE4MTA3MzgsMTMzODU0NjYwOCwtMTkx
+MjQ5MTY4MCwxNjAwNTc4MjY2LC0yMTMxMTUyMDg0LC01Nzg0Mz
+E0MzQsLTE3NzAwNDQ4MjMsLTMyMTkyNDk3NCwxMjg4MTU2NTE1
+LDE4ODYyOTUwMTJdfQ==
 -->
