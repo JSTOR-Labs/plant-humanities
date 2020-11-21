@@ -125,7 +125,8 @@ In the eighteenth and early nineteenth centuries, botanical illustrators develop
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
 <param ve-entity eid="Q14847254" title="Compositae"> 
-<param ve-entity eid="Q30765614" title="floret"> 
+<param ve-entity eid="Q30765614" title="floret" aliases="florets"> 
+
 Henderson's botanical illustration highlights a trait of the sunflower that we may overlook due to our casual familiarity with the plant. Its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets. This diagram of a mature flower head shows that what we generally call “petals” are actually ray florets, which serve to attract pollinators to disk florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own seed after pollination. Perceiving such traits and intuiting their reproductive functions requires a process of direct observation, visual analysis, and patient contemplation akin to encountering an artwork.
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Helianthus whirl, attributed to L. Shyamal © Creative Commons Attribution-Share Alike 2.5">
@@ -225,11 +226,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODMyMjAyMjgsMTM1NzcwMjY3NiwxNT
-k3MzAzNjc3LDIxNzEyNDkyMiwxNTU2OTYwMjQ3LC0xNzM2OTE1
-NTMzLC0xMDM0MjY5Nzg3LC02NDg5NjU3NjcsLTYzMjc1MDE4NS
-w1MDM0ODAyNjIsMzI3ODM0OTk0LC0xODU4OTMzNTU2LDExODg3
-MDA2MjksLTQ3MzA1NjM3NywtNzM2OTA1MTkyLC0xNjI3NjQyMj
-c2LC0xOTM5MDU5MzY3LC0xMjE2MTkyMDM4LC00MzIyNzkyODcs
-LTkyNjk2Mzk2MF19
+eyJoaXN0b3J5IjpbLTE2ODAwOTQxNjYsLTE5ODMyMjAyMjgsMT
+M1NzcwMjY3NiwxNTk3MzAzNjc3LDIxNzEyNDkyMiwxNTU2OTYw
+MjQ3LC0xNzM2OTE1NTMzLC0xMDM0MjY5Nzg3LC02NDg5NjU3Nj
+csLTYzMjc1MDE4NSw1MDM0ODAyNjIsMzI3ODM0OTk0LC0xODU4
+OTMzNTU2LDExODg3MDA2MjksLTQ3MzA1NjM3NywtNzM2OTA1MT
+kyLC0xNjI3NjQyMjc2LC0xOTM5MDU5MzY3LC0xMjE2MTkyMDM4
+LC00MzIyNzkyODddfQ==
 -->
