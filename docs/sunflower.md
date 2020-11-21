@@ -11,7 +11,7 @@
 _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans domesticated in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and nearly twice that when supported.[^ref2]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
 
-Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the art world. Like the supersized flower in this plant portrait, _H. annuus_ looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care.
+Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the art world. Like the supersized flower in this plant portrait, _H. annuus_ looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers.
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 Sunflower imagery can provide rich historical information about the genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_ and the roles of visual culture in communicating knowledges, myths, and meanings related to plants. Artists working in Europe and America from the colonial period to the present day, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. In doing so, they developed conventions for representing specific characteristics of sunflowers that were tailored to those aims. By tracking changes in that [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) over time, we can learn about the historical significance of sunflowers in specific temporal and geographic contexts, as well as shifts in the ways that humans have represented, encountered, used, thought about, and valued the genus. Through that practice of close visual analysis, that engaging with artworks necessarily entails, we also cultivate a more attentive mode of being with plants.
@@ -164,7 +164,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 
 ### “Sun, sun, sun, here it comes”
 
-As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide.
+As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care.
 <param ve-image iiif region="1078,259,3906,3278"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
@@ -214,7 +214,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTg5NDgyOCwtMTE5MTcwMzM3OCwxMD
+eyJoaXN0b3J5IjpbMTc0MTY0NDAzMiwtMTE5MTcwMzM3OCwxMD
 EyMjA5Mzg4LC0yMTI3MTg5MzUwLDk0NzEyMTk4NCwtMTA4ODIx
 NjI5NCwxODA1MTk4NzE4LDYxNDE0Mjc4MCwxMjM2NjQ3MDgxLC
 0xODI5MzUyMzg2LC0xNDY2NDAwNTY3LC0xNzk1NjE4NTE5LC0x
