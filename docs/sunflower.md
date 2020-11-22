@@ -33,13 +33,6 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 
 ### Plant Mobility and Early Printed Sources
 
-<param ve-entity eid="Q80914" title="Tabasco">
-<param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
-<param ve-entity eid="Q491017" title="Pike County" aliases="eastern North America">
-<param ve-entity eid="Q110510" title="Crawford County" aliases="eastern North America">
-<param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
-<param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
-<param ve-entity eid="Q490360" title="Hickory Country" aliases="eastern North America">
 <param ve-entity eid="Q29" title="Spain">
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
 <param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
@@ -250,11 +243,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTQ3MTQyOSwtMTYzMDAwNDk4NCwtMT
-kyODk4MTUzNSwtMjEyMTcwNDUyNCwtMjQ1MjM4NDYxLC0xODk5
-NjE4NTUyLC0xMzc4NjM3MzUxLDEwOTM5MDYwMjAsOTQxNTE4Mz
-gsLTE3OTA4Mjg4MjUsLTE1NDI5MjE1MDMsMTU3MzM3NSwtNTI5
-NjgxNTEwLC02MjM1MDg2NTEsMzIwMzg2NjMxLDE5Njk5ODMwMz
-QsMTMyMzIxODM5LC0yOTExNDY1NDYsLTEzMzc1NTQxODUsLTUz
-NDMxMDY1OF19
+eyJoaXN0b3J5IjpbMTI1MjUzNTU4NSwxNzAxNDcxNDI5LC0xNj
+MwMDA0OTg0LC0xOTI4OTgxNTM1LC0yMTIxNzA0NTI0LC0yNDUy
+Mzg0NjEsLTE4OTk2MTg1NTIsLTEzNzg2MzczNTEsMTA5MzkwNj
+AyMCw5NDE1MTgzOCwtMTc5MDgyODgyNSwtMTU0MjkyMTUwMywx
+NTczMzc1LC01Mjk2ODE1MTAsLTYyMzUwODY1MSwzMjAzODY2Mz
+EsMTk2OTk4MzAzNCwxMzIzMjE4MzksLTI5MTE0NjU0NiwtMTMz
+NzU1NDE4NV19
 -->
