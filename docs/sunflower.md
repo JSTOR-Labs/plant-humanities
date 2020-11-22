@@ -113,7 +113,7 @@ The discussion of sunflowers in Hernández’s _Nova plantarum_ complicates deba
 <param ve-entity eid="Q81506" title="Charles I of England">
 <param ve-entity eid="Q112110" title="emblem" aliases="emblems">
 <param ve-entity eid="Q15472169" title="patron of the arts" aliases="patron">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography for representing the aesthetic qualities of sunflowers in Europe. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals and emblems.[^ref21] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower—a floral manifestation of his loyalty to his patron.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals and emblems.[^ref21] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower—a floral manifestation of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum" aliases="heliotrope">
@@ -242,11 +242,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU4MDM4NjUsMTcwMTQ3MTQyOSwtMT
-YzMDAwNDk4NCwtMTkyODk4MTUzNSwtMjEyMTcwNDUyNCwtMjQ1
-MjM4NDYxLC0xODk5NjE4NTUyLC0xMzc4NjM3MzUxLDEwOTM5MD
-YwMjAsOTQxNTE4MzgsLTE3OTA4Mjg4MjUsLTE1NDI5MjE1MDMs
-MTU3MzM3NSwtNTI5NjgxNTEwLC02MjM1MDg2NTEsMzIwMzg2Nj
-MxLDE5Njk5ODMwMzQsMTMyMzIxODM5LC0yOTExNDY1NDYsLTEz
-Mzc1NTQxODVdfQ==
+eyJoaXN0b3J5IjpbMTc4NTMyMzUzMywxNzAxNDcxNDI5LC0xNj
+MwMDA0OTg0LC0xOTI4OTgxNTM1LC0yMTIxNzA0NTI0LC0yNDUy
+Mzg0NjEsLTE4OTk2MTg1NTIsLTEzNzg2MzczNTEsMTA5MzkwNj
+AyMCw5NDE1MTgzOCwtMTc5MDgyODgyNSwtMTU0MjkyMTUwMywx
+NTczMzc1LC01Mjk2ODE1MTAsLTYyMzUwODY1MSwzMjAzODY2Mz
+EsMTk2OTk4MzAzNCwxMzIzMjE4MzksLTI5MTE0NjU0NiwtMTMz
+NzU1NDE4NV19
 -->
