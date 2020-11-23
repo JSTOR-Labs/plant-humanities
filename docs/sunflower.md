@@ -185,7 +185,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 ### “Sun, sun, sun, here it comes”
 
 [Conclusion in progress!] In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, some painters developed new visual languages for representing sunflowers to explore the subjective experiences of encountering plants. However, they may also be read as _memento mori_, or reminders of a withering connection to nature in the face of modernity and coincident with emergent conservation movements, particularly in Paris. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care.
-<param ve-image primary iiif url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
+<param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 <param ve-image iiif region="1078,259,3906,3278"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
@@ -243,11 +243,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTYzODQ3NSwxMTI0MjE0NDUyLDE3MD
-E0NzE0MjksLTE2MzAwMDQ5ODQsLTE5Mjg5ODE1MzUsLTIxMjE3
-MDQ1MjQsLTI0NTIzODQ2MSwtMTg5OTYxODU1MiwtMTM3ODYzNz
-M1MSwxMDkzOTA2MDIwLDk0MTUxODM4LC0xNzkwODI4ODI1LC0x
-NTQyOTIxNTAzLDE1NzMzNzUsLTUyOTY4MTUxMCwtNjIzNTA4Nj
-UxLDMyMDM4NjYzMSwxOTY5OTgzMDM0LDEzMjMyMTgzOSwtMjkx
-MTQ2NTQ2XX0=
+eyJoaXN0b3J5IjpbLTEwMTk3MDA1LDE3MDk2Mzg0NzUsMTEyND
+IxNDQ1MiwxNzAxNDcxNDI5LC0xNjMwMDA0OTg0LC0xOTI4OTgx
+NTM1LC0yMTIxNzA0NTI0LC0yNDUyMzg0NjEsLTE4OTk2MTg1NT
+IsLTEzNzg2MzczNTEsMTA5MzkwNjAyMCw5NDE1MTgzOCwtMTc5
+MDgyODgyNSwtMTU0MjkyMTUwMywxNTczMzc1LC01Mjk2ODE1MT
+AsLTYyMzUwODY1MSwzMjAzODY2MzEsMTk2OTk4MzAzNCwxMzIz
+MjE4MzldfQ==
 -->
