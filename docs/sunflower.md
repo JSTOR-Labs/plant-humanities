@@ -37,32 +37,7 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
 <param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
 Europeans were eager to collect plants from the Americas because they were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and goods bound up with imperialist and colonialist projects. The Spanish first transported the domesticated sunflower from North America to <span data-click-map-flyto="40.425, -3.639">Spain</span>, though questions persist about who collected such plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
-<param ve-map prefer-geojson center="Q495448" zoom="5" title="North America" show-label="true">
-
-<param ve-entity eid="Q950531" title="Nicolás Monardes" aliases="Monardes’s">
-<param ve-entity eid="Q437466" title="Rembert Dodoens" aliases="Dodoens’s">
-<param ve-entity eid="Q8717" title="Seville">
-<param ve-entity eid="Q162022" title="Mechelen">
-<param ve-entity eid="Q6165948" title="herbal" aliases=" herbals"> 
-Nicolas Monardes’s _[Dos libros](https://archive.org/details/hin-wel-all-00002448-001)_ (1565) contains the first-known published description of a sunflower written by a European. Monardes, who did not travel to the Americas, presumably authored the text for that herbal based on his observations of plants grown in his botanical garden in Sevilla, Spain.[^ref5] Monardes was primarily interested in the use of colonial trade routes to obtain "new" plants with healing and medicinal properties. However, the sunflower did not fit that paradigm and Europeans instead came to value the plant mostly for its magnificent blooms and towering height. These qualities are described in Rembert Dodoens’s _[Florum, et coronariarum](https://www.biodiversitylibrary.org/page/48323400)_ (1568)—one of the first books to reproduce an illustration of _H. annuus_. An early example of a florilegium, Dodoens's treatise devoted to ornamental and aromatic flowers also maps the movement of cultivated sunflowers to <span data-click-map-flyto="51.031964, 4.502767">Mechelen</span>, Flanders.[^ref6]
-<param ve-map prefer-geojson center="37.495436, -5.982527" zoom="10" show-label="true">
-
-### “Peruvian” Origins and Image Migration
-
-<param ve-entity eid="Q2094286" title="Petrus van der Borcht">
-This illustration of a sunflower from Dodoens’s _Florum, et coronariarum_, at right, contributed to the development of visual conventions for portraying _Helianthus annuus_, in particular, and ornamentals, in general, that emphasized the aesthetic qualities of plants in full bloom. The [woodcut](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), designed by Petrus van der Borcht, depicts a mature sunflower growing in soil as the artist may have encountered it displayed in a garden. Indeed, Dodoens’s identifies the place shown in the picture: “They call this plant the ‘Sun of India’ (or ‘Indian Sun’) because it so resembles a sun surrounded by rays. We saw this plant in the delightful garden abundant with any variety of plants belonging to the excellent and worthy Johannes Brancio…. You may seek it in vain elsewhere, only to find it in his garden.”[^ref7] Beautiful to behold, according to Dodoens, the sort of sunflower portrayed here was a rare foreign luxury good that conferred status upon its owner and attested to the dominion and domination of European countries over parts of North America from which it came.
-<param ve-image fit="contain" primary url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0310.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
-<param ve-image fit="contain"  url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0308.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=4&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
-<param ve-image fit="contain" url="https://ia801007.us.archive.org/BookReader/BookReaderImages.php?zip=/20/items/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2.zip&file=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_jp2/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242_0311.jp2&id=Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242&scale=3.5736&rotate=0" title="_Florum et coronariarum odoratarumque nonnularum herbarum historia_, Antverpiæ: ex officina Christophori Plantini, 1568, Biblioteca dell’Orto Botanico di Padova">
-<param ve-image fit="contain" url=https://ia801904.us.archive.org/BookReader/BookReaderImages.php?id=gri_33125014246561&itemPath=%2F3%2Fitems%2Fgri_33125014246561&server=ia801904.us.archive.org&page=n29_w907" title="Pietro Andrea Matthioli, _I discorsi di M. Pietro Andrea Matthioli..._, Venice: Vincenzo ValgrisI, 1568, Getty Research Institute">
-
-<param ve-entity eid="Q1860320" title="Matthias de l'Obel">
-In the sixteenth and seventeenth centuries, it was common for herbalists to appropriate illustrations and text from existing sources, adapting that material to new contexts. Numerous books recycled the picture of the sunflower from Dodoens's _Florum, et coronariarum_, often, as in the following examples, reducing its size to provide more space for text. Matthias de l'Obel's botanical and medicinal treatise _[Plantarum, seu, Stirpium historia](https://www.biodiversitylibrary.org/page/9871376)_ (1576) published the image with a different name: _Solis Flos_ (“flower of the sun”). However, John Gerard's _[The herball](https://doi.org/10.5962/bhl.title.7107)_ (1578) reproduced the plant portrait with the name _Chrysanthemum Peruvianum_ used by Dodoens. It is worth noting that, at the time, European herbalists often used the word “Peru” indiscriminately to mean someplace in the Americas.[^ref8] That muddy usage has continued to be misinterpreted as proof of the flower's "Peruvian" origins despite there being no archaeological evidence to support the presence of _H. annuus_ in pre-Columbian Peru.[^ref9]
-<param ve-image fit="contain" primary url="https://ia800501.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488167&itemPath=%2F12%2Fitems%2Fmobot31753003488167&server=ia800501.us.archive.org&page=n328_w966" title="Matthias de l'Obel, _Plantarum, seu, Stirpium historia_, Antwerp: Christophori Plantini, 1576, Missouri Botanical Gardeny">
-<param ve-image fit="contain" url="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000811155&itemPath=%2F18%2Fitems%2Fmobot31753000811155&server=ia800502.us.archive.org&page=n215_w576" title="John Gerard, _The herball, or Generall historie of plantes_, London, 1578, Missouri Botanical Gardeny">
-<param ve-entity eid="Q419" title="Peru">
-<param ve-entity eid="Q1860320" title="Matthias de l'Obel">
-<parma ve-entity eid="Q1333338" title="John Gerard" aliases="John Gerard's">
+<param ve-knightlab-timeline source="1mlXQQ3VKfeYznV2VktShOQd2-7aH5p52_n20LQ1U0uE" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 ### Sunflower Aesthetics in Full Bloom
 <param ve-entity eid="Q65027" title="Basilius Besler">
@@ -243,11 +218,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2NzU2OTEyLDE0MjMxMDIzNjQsMTcwOT
-YzODQ3NSwxMTI0MjE0NDUyLDE3MDE0NzE0MjksLTE2MzAwMDQ5
-ODQsLTE5Mjg5ODE1MzUsLTIxMjE3MDQ1MjQsLTI0NTIzODQ2MS
-wtMTg5OTYxODU1MiwtMTM3ODYzNzM1MSwxMDkzOTA2MDIwLDk0
-MTUxODM4LC0xNzkwODI4ODI1LC0xNTQyOTIxNTAzLDE1NzMzNz
-UsLTUyOTY4MTUxMCwtNjIzNTA4NjUxLDMyMDM4NjYzMSwxOTY5
-OTgzMDM0XX0=
+eyJoaXN0b3J5IjpbLTE4MjM2NDgwNDIsNTY2NzU2OTEyLDE0Mj
+MxMDIzNjQsMTcwOTYzODQ3NSwxMTI0MjE0NDUyLDE3MDE0NzE0
+MjksLTE2MzAwMDQ5ODQsLTE5Mjg5ODE1MzUsLTIxMjE3MDQ1Mj
+QsLTI0NTIzODQ2MSwtMTg5OTYxODU1MiwtMTM3ODYzNzM1MSwx
+MDkzOTA2MDIwLDk0MTUxODM4LC0xNzkwODI4ODI1LC0xNTQyOT
+IxNTAzLDE1NzMzNzUsLTUyOTY4MTUxMCwtNjIzNTA4NjUxLDMy
+MDM4NjYzMV19
 -->
