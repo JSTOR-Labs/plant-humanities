@@ -173,16 +173,6 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref4]: Charles B. Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," _Genetic Resources and Crop Evolution_ 55, no. 1 (2008): 9-13.
 
-[^ref5]: Frank J. Anderson, "The Coloquios of Garcia da Orta, and the Dos Libros of Nicolas Monardes," in _An Illustrated History of the Herbals_ (New York: Columbia University Press, 1997), 201-09.
-
-[^ref6]: Arthur K. Wheelock, Jr., _From Botany to Bouquets: Flowers in Northern Art_ (Washington, D.C.: National Gallery of Art, 1999).
-
-[^ref7]: F. de Nave and D. Imhof, eds., _Botany in the Low Countries: (end of the 15th centry, ca. 1650) Plantin-Moretus Museum Exhibition_ (Antwerp: City of Antwerp, the Plantin-Moretus Museum and the Stedelijk Prentenkabinet (Municipal Printroom), 1993), ##.
-
-[^ref8]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resources and Crop Evolution_ 45 (1988): 449.
-
-[^ref9]: Ibid., 449 [check source].
-
 [^ref10]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995).
 
 [^ref11]: Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
@@ -218,11 +208,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM2NDgwNDIsNTY2NzU2OTEyLDE0Mj
-MxMDIzNjQsMTcwOTYzODQ3NSwxMTI0MjE0NDUyLDE3MDE0NzE0
-MjksLTE2MzAwMDQ5ODQsLTE5Mjg5ODE1MzUsLTIxMjE3MDQ1Mj
-QsLTI0NTIzODQ2MSwtMTg5OTYxODU1MiwtMTM3ODYzNzM1MSwx
-MDkzOTA2MDIwLDk0MTUxODM4LC0xNzkwODI4ODI1LC0xNTQyOT
-IxNTAzLDE1NzMzNzUsLTUyOTY4MTUxMCwtNjIzNTA4NjUxLDMy
-MDM4NjYzMV19
+eyJoaXN0b3J5IjpbMzM5MjE1MTUyLC0xODIzNjQ4MDQyLDU2Nj
+c1NjkxMiwxNDIzMTAyMzY0LDE3MDk2Mzg0NzUsMTEyNDIxNDQ1
+MiwxNzAxNDcxNDI5LC0xNjMwMDA0OTg0LC0xOTI4OTgxNTM1LC
+0yMTIxNzA0NTI0LC0yNDUyMzg0NjEsLTE4OTk2MTg1NTIsLTEz
+Nzg2MzczNTEsMTA5MzkwNjAyMCw5NDE1MTgzOCwtMTc5MDgyOD
+gyNSwtMTU0MjkyMTUwMywxNTczMzc1LC01Mjk2ODE1MTAsLTYy
+MzUwODY1MV19
 -->
