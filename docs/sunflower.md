@@ -159,9 +159,6 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 In _Jerusalem Artichoke_ (1880), Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plant's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ (1888) juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir human emotions or spirituality. These engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire.
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
-<param ve-entity eid="Q202398" title="industrialization">
-<param ve-entity eid="Q161078" title="urbanization">
-<param ve-entity eid="Q628403" title="conservation">
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflowers%20Monet%20van%20Gogh%20CC.jpg" title="Claude Monet _Jerusalem artichoke_ 1880 (left), Vincent van Gogh, _Sunflower_, 1888, National Gallery London">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflowers%20compared%20to%20van%20Gogh%20painting.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
@@ -185,7 +182,9 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 ### “Sun, sun, sun, here it comes”
 
 <param ve-entity eid="Q273383" title="Memento mori" aliases="memento mori">
-
+<param ve-entity eid="Q202398" title="industrialization">
+<param ve-entity eid="Q161078" title="urbanization">
+<param ve-entity eid="Q628403" title="conservation">
 [Conclusion in progress!] In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, some painters developed new visual languages for representing sunflowers to explore the subjective experiences of encountering plants. However, they may also be read as _memento mori_, or reminders of a wilting connection to nature in the face of modernity and coincident with emergent conservation movements, particularly in Paris. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 <param ve-image iiif region="1078,259,3906,3278"
@@ -245,11 +244,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjU4MjcyLDE3MDk2Mzg0NzUsMTEyND
-IxNDQ1MiwxNzAxNDcxNDI5LC0xNjMwMDA0OTg0LC0xOTI4OTgx
-NTM1LC0yMTIxNzA0NTI0LC0yNDUyMzg0NjEsLTE4OTk2MTg1NT
-IsLTEzNzg2MzczNTEsMTA5MzkwNjAyMCw5NDE1MTgzOCwtMTc5
-MDgyODgyNSwtMTU0MjkyMTUwMywxNTczMzc1LC01Mjk2ODE1MT
-AsLTYyMzUwODY1MSwzMjAzODY2MzEsMTk2OTk4MzAzNCwxMzIz
-MjE4MzldfQ==
+eyJoaXN0b3J5IjpbMTQyMzEwMjM2NCwxNzA5NjM4NDc1LDExMj
+QyMTQ0NTIsMTcwMTQ3MTQyOSwtMTYzMDAwNDk4NCwtMTkyODk4
+MTUzNSwtMjEyMTcwNDUyNCwtMjQ1MjM4NDYxLC0xODk5NjE4NT
+UyLC0xMzc4NjM3MzUxLDEwOTM5MDYwMjAsOTQxNTE4MzgsLTE3
+OTA4Mjg4MjUsLTE1NDI5MjE1MDMsMTU3MzM3NSwtNTI5NjgxNT
+EwLC02MjM1MDg2NTEsMzIwMzg2NjMxLDE5Njk5ODMwMzQsMTMy
+MzIxODM5XX0=
 -->
