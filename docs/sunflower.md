@@ -53,7 +53,7 @@ that anticipates modern visual stereotypes for the plant, perhaps best epitomize
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
 <param ve-entity eid="Q252772" title="Eichstätt">
-Through transregional trade networks Prince Bishop of Eichstätt obtained materials for the cultivation of sunflowers in his garden at Eichstätt, Bavaria.[^ref11] Eichstätt and Besler also used those connections to exchange iconography and ideas related to the sunflower. This model visualizes some of their intersections with authors, artists, translators, plant collectors, patrons, and other historical figures, focusing on the period from the 1550s to the 1650s. It also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one book to another, possibly through sources not identified here. Such borrowings raise questions about the significance of individual plants and pictures, about relationships of images to text, about patterns of artistic exchange, and about the role of iconography in processes of knowledge production and transmission.
+Through transregional trade networks Prince Bishop of Eichstätt obtained materials for the cultivation of sunflowers in his garden at Eichstätt, Bavaria.[^ref11] Eichstätt and Besler also used those connections to exchange iconography and ideas related to the sunflower. This model visualizes some of their intersections with authors, artists, translators, plant collectors, patrons, and other historical figures, focusing on the period from the 1550s to the 1650s. It also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one book to another, possibly through sources not identified here. 
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Johann Konrad von Gemmingen">
 
 ### Mythic Encounters and Scientific Debates
@@ -208,11 +208,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Nzg1NTU2MywtMTU2OTgzNjg5MCwzMz
-kyMTUxNTIsLTE4MjM2NDgwNDIsNTY2NzU2OTEyLDE0MjMxMDIz
-NjQsMTcwOTYzODQ3NSwxMTI0MjE0NDUyLDE3MDE0NzE0MjksLT
-E2MzAwMDQ5ODQsLTE5Mjg5ODE1MzUsLTIxMjE3MDQ1MjQsLTI0
-NTIzODQ2MSwtMTg5OTYxODU1MiwtMTM3ODYzNzM1MSwxMDkzOT
-A2MDIwLDk0MTUxODM4LC0xNzkwODI4ODI1LC0xNTQyOTIxNTAz
-LDE1NzMzNzVdfQ==
+eyJoaXN0b3J5IjpbNTI1NDgzOTAwLDE5Nzc4NTU1NjMsLTE1Nj
+k4MzY4OTAsMzM5MjE1MTUyLC0xODIzNjQ4MDQyLDU2Njc1Njkx
+MiwxNDIzMTAyMzY0LDE3MDk2Mzg0NzUsMTEyNDIxNDQ1MiwxNz
+AxNDcxNDI5LC0xNjMwMDA0OTg0LC0xOTI4OTgxNTM1LC0yMTIx
+NzA0NTI0LC0yNDUyMzg0NjEsLTE4OTk2MTg1NTIsLTEzNzg2Mz
+czNTEsMTA5MzkwNjAyMCw5NDE1MTgzOCwtMTc5MDgyODgyNSwt
+MTU0MjkyMTUwM119
 -->
