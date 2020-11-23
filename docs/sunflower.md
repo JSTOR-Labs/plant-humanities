@@ -37,7 +37,7 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
 <param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
 Europeans were eager to collect plants from the Americas because they were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and goods bound up with imperialist and colonialist projects. The Spanish first transported the domesticated sunflower from North America to <span data-click-map-flyto="40.425, -3.639">Spain</span>, though questions persist about who collected such plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
-<param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
+<param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 ### Sunflower Aesthetics in Full Bloom
 <param ve-entity eid="Q65027" title="Basilius Besler">
@@ -208,11 +208,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njk4MzY4OTAsMzM5MjE1MTUyLC0xOD
-IzNjQ4MDQyLDU2Njc1NjkxMiwxNDIzMTAyMzY0LDE3MDk2Mzg0
-NzUsMTEyNDIxNDQ1MiwxNzAxNDcxNDI5LC0xNjMwMDA0OTg0LC
-0xOTI4OTgxNTM1LC0yMTIxNzA0NTI0LC0yNDUyMzg0NjEsLTE4
-OTk2MTg1NTIsLTEzNzg2MzczNTEsMTA5MzkwNjAyMCw5NDE1MT
-gzOCwtMTc5MDgyODgyNSwtMTU0MjkyMTUwMywxNTczMzc1LC01
-Mjk2ODE1MTBdfQ==
+eyJoaXN0b3J5IjpbMTk3Nzg1NTU2MywtMTU2OTgzNjg5MCwzMz
+kyMTUxNTIsLTE4MjM2NDgwNDIsNTY2NzU2OTEyLDE0MjMxMDIz
+NjQsMTcwOTYzODQ3NSwxMTI0MjE0NDUyLDE3MDE0NzE0MjksLT
+E2MzAwMDQ5ODQsLTE5Mjg5ODE1MzUsLTIxMjE3MDQ1MjQsLTI0
+NTIzODQ2MSwtMTg5OTYxODU1MiwtMTM3ODYzNzM1MSwxMDkzOT
+A2MDIwLDk0MTUxODM4LC0xNzkwODI4ODI1LC0xNTQyOTIxNTAz
+LDE1NzMzNzVdfQ==
 -->
