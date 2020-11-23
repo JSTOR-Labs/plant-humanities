@@ -185,6 +185,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 ### “Sun, sun, sun, here it comes”
 
 [Conclusion in progress!] As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care.
+<param ve-image primary iiif url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 <param ve-image iiif region="1078,259,3906,3278"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
 
@@ -242,11 +243,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDIxNDQ1MiwxNzAxNDcxNDI5LC0xNj
-MwMDA0OTg0LC0xOTI4OTgxNTM1LC0yMTIxNzA0NTI0LC0yNDUy
-Mzg0NjEsLTE4OTk2MTg1NTIsLTEzNzg2MzczNTEsMTA5MzkwNj
-AyMCw5NDE1MTgzOCwtMTc5MDgyODgyNSwtMTU0MjkyMTUwMywx
-NTczMzc1LC01Mjk2ODE1MTAsLTYyMzUwODY1MSwzMjAzODY2Mz
-EsMTk2OTk4MzAzNCwxMzIzMjE4MzksLTI5MTE0NjU0NiwtMTMz
-NzU1NDE4NV19
+eyJoaXN0b3J5IjpbMTgzNTU3OTk3MiwxMTI0MjE0NDUyLDE3MD
+E0NzE0MjksLTE2MzAwMDQ5ODQsLTE5Mjg5ODE1MzUsLTIxMjE3
+MDQ1MjQsLTI0NTIzODQ2MSwtMTg5OTYxODU1MiwtMTM3ODYzNz
+M1MSwxMDkzOTA2MDIwLDk0MTUxODM4LC0xNzkwODI4ODI1LC0x
+NTQyOTIxNTAzLDE1NzMzNzUsLTUyOTY4MTUxMCwtNjIzNTA4Nj
+UxLDMyMDM4NjYzMSwxOTY5OTgzMDM0LDEzMjMyMTgzOSwtMjkx
+MTQ2NTQ2XX0=
 -->
