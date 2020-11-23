@@ -178,8 +178,7 @@ their color can range from gold to orange to red to dark purple and even an unex
 Sunflower seeds also exhibit variations in size, color, and markings. Whole seeds–comprised of a kernel and a husk–can be solid black or gray, and have a stripe pattern. The Hopi tribe of Native Americans have cultivated sunflowers with deep purple seeds, that appear black and shiny, in the southwest for hundreds of years. They use these seeds to produce dark blue or purple dyes for coloring wools and natural fibers that are in turn used to make [weavings and baskets.](https://scalar.usc.edu/works/american-indian-film-archive/hopi-arts-and-crafts?path=hopi-southwest-indians) The processes of cultivating, harvesting, and boiling seeds to produce dye for basketry are exaples of a rich tradition of tribal plant knowledge that is interwoven with cultural and spiritual beliefs. Indigenous peoples of North America also use(d) sunflowers in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially.[^ref25]
 <param ve-image fit="contain" primary url="https://www.human.cornell.edu/sites/default/files/styles/landscape_1600x900/public/helianthus-annuus-1.jpg?itok=5KVpk_8q" title="Hopi Sunflower _Helianthus Annuus_, seeds produce blue, black, and purple dye and the leaves give a range of yellow to green, College of Human Ecology, Cornell University">
 
-
-### “Sun, sun, sun, here it comes”
+### Gone to Seed
 
 <param ve-entity eid="Q273383" title="Memento mori" aliases="memento mori">
 <param ve-entity eid="Q202398" title="industrialization">
@@ -244,11 +243,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzEwMjM2NCwxNzA5NjM4NDc1LDExMj
-QyMTQ0NTIsMTcwMTQ3MTQyOSwtMTYzMDAwNDk4NCwtMTkyODk4
-MTUzNSwtMjEyMTcwNDUyNCwtMjQ1MjM4NDYxLC0xODk5NjE4NT
-UyLC0xMzc4NjM3MzUxLDEwOTM5MDYwMjAsOTQxNTE4MzgsLTE3
-OTA4Mjg4MjUsLTE1NDI5MjE1MDMsMTU3MzM3NSwtNTI5NjgxNT
-EwLC02MjM1MDg2NTEsMzIwMzg2NjMxLDE5Njk5ODMwMzQsMTMy
-MzIxODM5XX0=
+eyJoaXN0b3J5IjpbNTY2NzU2OTEyLDE0MjMxMDIzNjQsMTcwOT
+YzODQ3NSwxMTI0MjE0NDUyLDE3MDE0NzE0MjksLTE2MzAwMDQ5
+ODQsLTE5Mjg5ODE1MzUsLTIxMjE3MDQ1MjQsLTI0NTIzODQ2MS
+wtMTg5OTYxODU1MiwtMTM3ODYzNzM1MSwxMDkzOTA2MDIwLDk0
+MTUxODM4LC0xNzkwODI4ODI1LC0xNTQyOTIxNTAzLDE1NzMzNz
+UsLTUyOTY4MTUxMCwtNjIzNTA4NjUxLDMyMDM4NjYzMSwxOTY5
+OTgzMDM0XX0=
 -->
