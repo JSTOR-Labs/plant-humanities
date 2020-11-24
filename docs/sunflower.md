@@ -48,14 +48,14 @@ In the late fifteenth and sixteenth centuries, Europeans were eager to collect p
 <param ve-entity eid="Q5189819" title="cruciform">
 <param ve-entity eid="Q462437" title="composition">
 <param ve-entity eid="Q63540903" title="focal point">
-Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. Besler was commissioned by Prince Bishop of Eichstätt to oversee the creation of a florilegium, entitled [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908) (1613), documenting the foreign flowers grown in his garden in Bavaria. A team of artists, etchers, printmakers, and colorists, hired by Besler, produced this hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_ and many other [prints using the same metal plate](https://www.metmuseum.org/about-the-met/curatorial-departments/drawings-and-prints/materials-and-techniques/printmaking/engraving), though not all of them were hand-colored.[^ref9] This sumptuous portrait depicts the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
+Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. Besler was commissioned by Prince Bishop of Eichstätt to oversee the creation of a florilegium, entitled [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908) (1613), documenting the foreign flowers grown in his garden in Eichstätt, Bavaria. A team of artists, etchers, printmakers, and colorists, hired by Besler, produced this hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_ and many other [prints using the same metal plate](https://www.metmuseum.org/about-the-met/curatorial-departments/drawings-and-prints/materials-and-techniques/printmaking/engraving), though not all of them were hand-colored.[^ref9] This sumptuous portrait depicts the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
 that anticipates modern visual stereotypes for the plant, perhaps best epitomized by this emoji.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
 <param ve-entity eid="Q252772" title="Eichstätt">
-Through transregional trade networks Prince Bishop of Eichstätt obtained materials for the cultivation of sunflowers in his garden at Eichstätt, Bavaria.[^ref11] Eichstätt and Besler also used those connections to exchange iconography and ideas related to the sunflower. This model visualizes some of their intersections with authors, artists, translators, plant collectors, patrons, and other historical figures, focusing on the period from the 1550s to the 1650s. It also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one book to another, possibly through sources not identified here. 
+Through transregional trade networks Prince Bishop of Eichstätt obtained materials for cultivating sunflowers in his garden.[^ref11] Eichstätt and Besler also used those connections to exchange iconography and ideas related to the sunflower. This model visualizes some of their intersections with authors, artists, translators, plant collectors, patrons, and other historical figures, focusing on the period from the 1550s to the 1650s. It also shows some instances in which illustrations of sunflowers—_Flos Solis maior_, _Flos Solis minor_, and _Chrysanthemum Peruvianum_—migrated from one book to another, possibly through sources not identified here. 
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Johann Konrad von Gemmingen">
 
 ### Mythic Encounters and Scientific Debates
@@ -210,11 +210,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjYyMjUyMCwtMTc0ODkzMDA2MSwtMT
-c2MzI3MTYzNiw5NjQxMTIwODQsLTE4MTc1MzkwMiwtNzc2Njg3
-MzQsLTQyMTQ1MjU3OSw1MjU0ODM5MDAsMTk3Nzg1NTU2MywtMT
-U2OTgzNjg5MCwzMzkyMTUxNTIsLTE4MjM2NDgwNDIsNTY2NzU2
-OTEyLDE0MjMxMDIzNjQsMTcwOTYzODQ3NSwxMTI0MjE0NDUyLD
-E3MDE0NzE0MjksLTE2MzAwMDQ5ODQsLTE5Mjg5ODE1MzUsLTIx
-MjE3MDQ1MjRdfQ==
+eyJoaXN0b3J5IjpbLTE2NjQ3MzIzMjksMTg1MjYyMjUyMCwtMT
+c0ODkzMDA2MSwtMTc2MzI3MTYzNiw5NjQxMTIwODQsLTE4MTc1
+MzkwMiwtNzc2Njg3MzQsLTQyMTQ1MjU3OSw1MjU0ODM5MDAsMT
+k3Nzg1NTU2MywtMTU2OTgzNjg5MCwzMzkyMTUxNTIsLTE4MjM2
+NDgwNDIsNTY2NzU2OTEyLDE0MjMxMDIzNjQsMTcwOTYzODQ3NS
+wxMTI0MjE0NDUyLDE3MDE0NzE0MjksLTE2MzAwMDQ5ODQsLTE5
+Mjg5ODE1MzVdfQ==
 -->
