@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config
-       title="Pitcher Plant: From "Exotic" Curiosity to Conservation Priority"
+       title="Pitcher Plant: From Frenchified Curiosity to Conservation Priority"
        author="Kristan M. Hanson"
        source-image="https://ia800500.us.archive.org/BookReader/BookReaderImages.php?id=monographTrochi2Goul&itemPath=%2F12%2Fitems%2FmonographTrochi2Goul&server=ia800500.us.archive.org&page=n285_w1713"
        banner="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/428.0550928891736,553.1346957733396,2234.3561819346573,1347.914537854157/!1102,665/0/default.jpg"
