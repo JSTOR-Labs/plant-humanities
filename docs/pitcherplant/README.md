@@ -2,8 +2,8 @@
 <param ve-config
        title="Pitcher Plant: From Frenchified Curiosity to Conservation Priority"
        author="Kristan M. Hanson"
-       source-image="https://www.biodiversitylibrary.org/item/53838#page/149/mode/1up"
-       banner="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364195&itemPath=%2F0%2Fitems%2Fmobot31753002364195&server=ia800502.us.archive.org&page=n148_w2890"
+       source-image="blob:null/350ec559-ab4d-204b-ad69-901393a2d9ad"
+       banner="https://ia600504.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002747399&itemPath=%2F9%2Fitems%2Fmobot31753002747399&server=ia600504.us.archive.org&page=n237_w1001"
        layout="vtl">
 
 ### A Giant among Us
