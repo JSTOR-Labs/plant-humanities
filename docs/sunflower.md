@@ -122,7 +122,7 @@ In the eighteenth and early nineteenth centuries, botanical illustrators develop
 <param ve-entity eid="Q30765614" title="floret" aliases="florets"> 
 <param ve-entity eid="Q2587899" title="fecundity">
 <
-Henderson's botanical illustration highlights a trait of the sunflower that we may overlook due to our casual familiarity with the plant. Its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets. This diagram of a mature flower head shows that what we generally call “petals” are actually ray florets, which are sterile and serve to attract pollinators to disk florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own fruit after pollination. The plant has evolved to balance the energy outputted to grow ray and disk florets in order to maximize pollinator visitation and thus fecundity, although other factors, such as predators or pathogens, also constribute to floral evolution.[^ref20] Perceiving such floral morpohologica traits, deducing their reproductive functions, and  requires a process of direct observation, visual analysis, and patient contemplation akin to encountering an artwork.
+Henderson's botanical illustration highlights a trait of the sunflower that we may overlook due to our casual familiarity with the plant. Its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets. This diagram of a mature flower head shows that what we generally call “petals” are actually ray florets, which are sterile and serve to attract pollinators to disk florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own fruit after pollination. The plant has evolved to balance the energy outputted to grow ray and disk florets in order to maximize pollinator visitation and thus fecundity, although other factors, such as predators or pathogens, also constribute to floral evolution.[^ref20] Perceiving such floral traits, deducing their functions, and contextualizing them within ecosystems requires a process of direct observation, visual analysis, and patient contemplation of the natural woakin to encountering an artwork.
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Helianthus whirl, attributed to L. Shyamal © Creative Commons Attribution-Share Alike 2.5">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg">
@@ -216,11 +216,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1OTI3MTI0LDE4MTIwMDMyMDAsOTMwNj
-c4MjU3LDM4NTA1NjgyOSwxMDE2NDY5ODA3LDk0NDQ3ODcyOSwt
-NTA3MDgwMjA2LDg1MzI5MDU1OSwtMTYyMTYyMzczMywtMTk3Nz
-k1OTUyLDE4NTI2MjI1MjAsLTE3NDg5MzAwNjEsLTE3NjMyNzE2
-MzYsOTY0MTEyMDg0LC0xODE3NTM5MDIsLTc3NjY4NzM0LC00Mj
-E0NTI1NzksNTI1NDgzOTAwLDE5Nzc4NTU1NjMsLTE1Njk4MzY4
-OTBdfQ==
+eyJoaXN0b3J5IjpbLTEzNTY5ODc0MjQsMTgxMjAwMzIwMCw5Mz
+A2NzgyNTcsMzg1MDU2ODI5LDEwMTY0Njk4MDcsOTQ0NDc4NzI5
+LC01MDcwODAyMDYsODUzMjkwNTU5LC0xNjIxNjIzNzMzLC0xOT
+c3OTU5NTIsMTg1MjYyMjUyMCwtMTc0ODkzMDA2MSwtMTc2MzI3
+MTYzNiw5NjQxMTIwODQsLTE4MTc1MzkwMiwtNzc2Njg3MzQsLT
+QyMTQ1MjU3OSw1MjU0ODM5MDAsMTk3Nzg1NTU2MywtMTU2OTgz
+Njg5MF19
 -->
