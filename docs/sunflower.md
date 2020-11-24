@@ -55,7 +55,7 @@ that anticipates modern visual stereotypes for the plant, perhaps best epitomize
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
-Through transregional trade networks Prince Bishop of Eichstätt obtained materials for his gardeners to cultivate sunflowers and instructions for doing so.[^ref6] Eichstätt and Besler also used those connections to exchange books, illustrations, and other materials that espoused new aesthetic conventions for representing the sunflower and taxonomic approaches for organizing depictions of flowers within florilegia. This model visualizes some of the men's connections with other herbalists, translators, publishers, artists, patrons, and other historical figures who were active mainly in Europe, focusing on the period from the 1550s to the 1650s. 
+Through transregional trade networks Prince Bishop of Eichstätt obtained materials for his gardeners to cultivate sunflowers and instructions for doing so.[^ref6] Eichstätt and Besler also used those connections to exchange books, illustrations, and other materials that espoused new aesthetic conventions for representing the sunflower and taxonomic approaches for organizing depictions of flowers within florilegia. This model visualizes some of the men's connections with other herbalists, translators, publishers, artists, patrons, and other historical figures who were active mainly in Europe, focusing on the period from the 1550s to the 1650s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Johann Konrad von Gemmingen">
 
 ### Mythic Encounters and Scientific Debates
@@ -210,7 +210,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjI3NzIxMjEsLTE5Nzc5NTk1MiwxOD
+eyJoaXN0b3J5IjpbLTE1Njk3NzM1MTksLTE5Nzc5NTk1MiwxOD
 UyNjIyNTIwLC0xNzQ4OTMwMDYxLC0xNzYzMjcxNjM2LDk2NDEx
 MjA4NCwtMTgxNzUzOTAyLC03NzY2ODczNCwtNDIxNDUyNTc5LD
 UyNTQ4MzkwMCwxOTc3ODU1NTYzLC0xNTY5ODM2ODkwLDMzOTIx
