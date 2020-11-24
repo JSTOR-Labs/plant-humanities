@@ -167,7 +167,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q202398" title="industrialization">
 <param ve-entity eid="Q161078" title="urbanization">
 <param ve-entity eid="Q628403" title="conservation">
-[Conclusion in progress!] In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, some painters developed new visual languages for representing sunflowers to explore the subjective experiences of encountering plants. However, they may also be read as _memento mori_, or reminders of a wilting connection to nature in the face of modernity and coincident with emergent conservation movements, particularly in Paris. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care.[^ref23]
+[Conclusion in progress!] In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, some painters developed new visual languages for representing sunflowers to explore the subjective experiences of encountering plants. However, they may also be read as _memento mori_, or reminders of a wilting connection to nature in the face of modernity and coincident with emergent conservation movements, particularly in Paris. As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 <param ve-image iiif region="1078,259,3906,3278"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
@@ -217,16 +217,15 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref22]: Native American Ethnobotany Database http://naeb.brit.org/uses/search/?string=sunflower
 
-[^ref23]: Stephen F. Eisenman, "From Corot to Monet: The Ecology of Impressionism," in _From Corot to Monet: The Ecology of Impressionism_, eds. Stephen F. Eisenman (New York: Rizzoli International Publications, 2010), 28-29.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjA2MDcxMjgsMTgxMjAwMzIwMCw5Mz
-A2NzgyNTcsMzg1MDU2ODI5LDEwMTY0Njk4MDcsOTQ0NDc4NzI5
-LC01MDcwODAyMDYsODUzMjkwNTU5LC0xNjIxNjIzNzMzLC0xOT
-c3OTU5NTIsMTg1MjYyMjUyMCwtMTc0ODkzMDA2MSwtMTc2MzI3
-MTYzNiw5NjQxMTIwODQsLTE4MTc1MzkwMiwtNzc2Njg3MzQsLT
-QyMTQ1MjU3OSw1MjU0ODM5MDAsMTk3Nzg1NTU2MywtMTU2OTgz
-Njg5MF19
+eyJoaXN0b3J5IjpbNzk2OTgxODEwLDE4MTIwMDMyMDAsOTMwNj
+c4MjU3LDM4NTA1NjgyOSwxMDE2NDY5ODA3LDk0NDQ3ODcyOSwt
+NTA3MDgwMjA2LDg1MzI5MDU1OSwtMTYyMTYyMzczMywtMTk3Nz
+k1OTUyLDE4NTI2MjI1MjAsLTE3NDg5MzAwNjEsLTE3NjMyNzE2
+MzYsOTY0MTEyMDg0LC0xODE3NTM5MDIsLTc3NjY4NzM0LC00Mj
+E0NTI1NzksNTI1NDgzOTAwLDE5Nzc4NTU1NjMsLTE1Njk4MzY4
+OTBdfQ==
 -->
