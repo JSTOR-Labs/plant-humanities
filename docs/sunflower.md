@@ -93,6 +93,7 @@ The discussion of sunflowers in Hernández’s _Nova plantarum_ complicates deba
 <param ve-entity eid="Q15472169" title="patron of the arts" aliases="patron">
 By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals, florilegia, and emblems.[^ref16] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower—a floral manifestation of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
+<param ve-image fit="contain" url="https://lh3.ggpht.com/8VP-UitEY8ec1Q_SVPwgfAkZtKNhkkkoXOIltZHKrI1O7aZ7nku8Sav_4g0ATKAuuON8DIMxwkgNauy8gT3mnieHMg=s0" title="X">
 
 <param ve-entity eid="Q158082" title="heliotropum" aliases="heliotrope">
 <param ve-entity eid="Q134270" title="Helios">
@@ -211,11 +212,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzMjkwNTU5LC0xNjIxNjIzNzMzLC0xOT
-c3OTU5NTIsMTg1MjYyMjUyMCwtMTc0ODkzMDA2MSwtMTc2MzI3
-MTYzNiw5NjQxMTIwODQsLTE4MTc1MzkwMiwtNzc2Njg3MzQsLT
-QyMTQ1MjU3OSw1MjU0ODM5MDAsMTk3Nzg1NTU2MywtMTU2OTgz
-Njg5MCwzMzkyMTUxNTIsLTE4MjM2NDgwNDIsNTY2NzU2OTEyLD
-E0MjMxMDIzNjQsMTcwOTYzODQ3NSwxMTI0MjE0NDUyLDE3MDE0
-NzE0MjldfQ==
+eyJoaXN0b3J5IjpbLTE1MDI2MzEzNCw4NTMyOTA1NTksLTE2Mj
+E2MjM3MzMsLTE5Nzc5NTk1MiwxODUyNjIyNTIwLC0xNzQ4OTMw
+MDYxLC0xNzYzMjcxNjM2LDk2NDExMjA4NCwtMTgxNzUzOTAyLC
+03NzY2ODczNCwtNDIxNDUyNTc5LDUyNTQ4MzkwMCwxOTc3ODU1
+NTYzLC0xNTY5ODM2ODkwLDMzOTIxNTE1MiwtMTgyMzY0ODA0Mi
+w1NjY3NTY5MTIsMTQyMzEwMjM2NCwxNzA5NjM4NDc1LDExMjQy
+MTQ0NTJdfQ==
 -->
