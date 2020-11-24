@@ -140,7 +140,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
-
+<param ve-entity eid="Q170571" title="still life">
 In this floral still life painting, Vincent van Gogh immerses us in 
 
 In _Jerusalem Artichoke_ (1880), Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plant's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ (1888) juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir human emotions or spirituality. These engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire.[^ref21]
@@ -224,7 +224,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODI1NDQ3Nyw4Nzk5NzIzOTEsMjA5ND
+eyJoaXN0b3J5IjpbMjEyMDAzOTg1Nyw4Nzk5NzIzOTEsMjA5ND
 gzNDcwOSw3OTY5ODE4MTAsMTgxMjAwMzIwMCw5MzA2NzgyNTcs
 Mzg1MDU2ODI5LDEwMTY0Njk4MDcsOTQ0NDc4NzI5LC01MDcwOD
 AyMDYsODUzMjkwNTU5LC0xNjIxNjIzNzMzLC0xOTc3OTU5NTIs
