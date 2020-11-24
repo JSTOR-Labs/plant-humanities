@@ -140,7 +140,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
-In _Jerusalem Artichoke_ (1880), Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plant's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ (1888) juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir human emotions or spirituality. These engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire.
+In _Jerusalem Artichoke_ (1880), Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plant's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ (1888) juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir human emotions or spirituality. These engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire.[^ref21]
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflowers%20Monet%20van%20Gogh%20CC.jpg" title="Claude Monet _Jerusalem artichoke_ 1880 (left), Vincent van Gogh, _Sunflower_, 1888, National Gallery London">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflowers%20compared%20to%20van%20Gogh%20painting.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
@@ -215,20 +215,18 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref21]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," in _Van Gogh's Sunflowers Illuminated: Art Meets Science_, eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
 
-[^ref22]: Stephen F. Eisenman, "From Corot to Monet: The Ecology of Impressionism," in _From Corot to Monet: The Ecology of Impressionism_, eds. Stephen F. Eisenman (New York: Rizzoli International Publications, 2010
-
-2010
+[^ref22]: Stephen F. Eisenman, "From Corot to Monet: The Ecology of Impressionism," in _From Corot to Monet: The Ecology of Impressionism_, eds. Stephen F. Eisenman (New York: Rizzoli International Publications, 2010), 28-29.
 
 [^ref23]: Native American Ethnobotany Database http://naeb.brit.org/uses/search/?string=sunflower
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDcwMzgwMTIsMTgxMjAwMzIwMCw5Mz
-A2NzgyNTcsMzg1MDU2ODI5LDEwMTY0Njk4MDcsOTQ0NDc4NzI5
-LC01MDcwODAyMDYsODUzMjkwNTU5LC0xNjIxNjIzNzMzLC0xOT
-c3OTU5NTIsMTg1MjYyMjUyMCwtMTc0ODkzMDA2MSwtMTc2MzI3
-MTYzNiw5NjQxMTIwODQsLTE4MTc1MzkwMiwtNzc2Njg3MzQsLT
-QyMTQ1MjU3OSw1MjU0ODM5MDAsMTk3Nzg1NTU2MywtMTU2OTgz
-Njg5MF19
+eyJoaXN0b3J5IjpbMTMyMTQ0NzY0NiwxODEyMDAzMjAwLDkzMD
+Y3ODI1NywzODUwNTY4MjksMTAxNjQ2OTgwNyw5NDQ0Nzg3Mjks
+LTUwNzA4MDIwNiw4NTMyOTA1NTksLTE2MjE2MjM3MzMsLTE5Nz
+c5NTk1MiwxODUyNjIyNTIwLC0xNzQ4OTMwMDYxLC0xNzYzMjcx
+NjM2LDk2NDExMjA4NCwtMTgxNzUzOTAyLC03NzY2ODczNCwtND
+IxNDUyNTc5LDUyNTQ4MzkwMCwxOTc3ODU1NTYzLC0xNTY5ODM2
+ODkwXX0=
 -->
