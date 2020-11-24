@@ -70,7 +70,7 @@ The migration of sunflower iconography is evidenced in Francisco Hernández’s 
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
-Although botanists have consulted herbals and other historical evidence to chart the movement of _Helianthus annuus_, they have also used maps of plant distribution and fossilized remains to study the origins of the plant.[^ref9] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, such as large  flower heads with more seeds.[^ref11]
+Although botanists have consulted herbals and other historical evidence to chart the movement of _Helianthus annuus_, they have also used maps of plant distribution and fossilized remains to study the origins of the plant.[^ref9] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
@@ -211,7 +211,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQwNzk4ODYsLTE5Nzc5NTk1MiwxOD
+eyJoaXN0b3J5IjpbLTE2MjE2MjM3MzMsLTE5Nzc5NTk1MiwxOD
 UyNjIyNTIwLC0xNzQ4OTMwMDYxLC0xNzYzMjcxNjM2LDk2NDEx
 MjA4NCwtMTgxNzUzOTAyLC03NzY2ODczNCwtNDIxNDUyNTc5LD
 UyNTQ4MzkwMCwxOTc3ODU1NTYzLC0xNTY5ODM2ODkwLDMzOTIx
