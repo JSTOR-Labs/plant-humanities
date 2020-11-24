@@ -141,7 +141,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life">
-In this floral still life painting, Vincent van Gogh creates a radiant portrait of sunflowers in which he explores the expressive capacity of the color yellow. Van Gogh uses a full range of yellows to depict a humble earthenware vessel filled with more than a doze flowers, set against a butter-hu 
+In this floral still life painting, Vincent van Gogh creates a radiant portrait of sunflowers in which he explores the expressive capacity of the color yellow. Van Gogh uses a full range of yellows to depict a humble earthenware vessel filled with more than a doze flowers, set against a butter-hued background. The fresh cut blooms are a mixture of _Helianthus annuus_ and
 
 In _Jerusalem Artichoke_ (1880), Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plant's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ (1888) juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir human emotions or spirituality. These engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire.[^ref21]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
@@ -224,7 +224,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwMzc5ODQ3LDg3OTk3MjM5MSwyMDk0OD
+eyJoaXN0b3J5IjpbNjM2MjQ4NTAzLDg3OTk3MjM5MSwyMDk0OD
 M0NzA5LDc5Njk4MTgxMCwxODEyMDAzMjAwLDkzMDY3ODI1Nywz
 ODUwNTY4MjksMTAxNjQ2OTgwNyw5NDQ0Nzg3MjksLTUwNzA4MD
 IwNiw4NTMyOTA1NTksLTE2MjE2MjM3MzMsLTE5Nzc5NTk1Miwx
