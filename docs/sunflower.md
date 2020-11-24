@@ -144,7 +144,6 @@ In _Jerusalem Artichoke_ (1880), Claude Monet depicts an earthenware vase filled
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to [Kor!An (Корзун Андрей)](https://commons.wikimedia.org/wiki/User:Kor!An "User:Kor!An"), Wikimedia Commons">
-<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflowers%20compared%20to%20van%20Gogh%20painting.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
@@ -222,11 +221,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjQ0OTM5MiwyMDk0ODM0NzA5LDc5Nj
-k4MTgxMCwxODEyMDAzMjAwLDkzMDY3ODI1NywzODUwNTY4Mjks
-MTAxNjQ2OTgwNyw5NDQ0Nzg3MjksLTUwNzA4MDIwNiw4NTMyOT
-A1NTksLTE2MjE2MjM3MzMsLTE5Nzc5NTk1MiwxODUyNjIyNTIw
-LC0xNzQ4OTMwMDYxLC0xNzYzMjcxNjM2LDk2NDExMjA4NCwtMT
-gxNzUzOTAyLC03NzY2ODczNCwtNDIxNDUyNTc5LDUyNTQ4Mzkw
-MF19
+eyJoaXN0b3J5IjpbODAyOTY3MjcxLDIwOTQ4MzQ3MDksNzk2OT
+gxODEwLDE4MTIwMDMyMDAsOTMwNjc4MjU3LDM4NTA1NjgyOSwx
+MDE2NDY5ODA3LDk0NDQ3ODcyOSwtNTA3MDgwMjA2LDg1MzI5MD
+U1OSwtMTYyMTYyMzczMywtMTk3Nzk1OTUyLDE4NTI2MjI1MjAs
+LTE3NDg5MzAwNjEsLTE3NjMyNzE2MzYsOTY0MTEyMDg0LC0xOD
+E3NTM5MDIsLTc3NjY4NzM0LC00MjE0NTI1NzksNTI1NDgzOTAw
+XX0=
 -->
