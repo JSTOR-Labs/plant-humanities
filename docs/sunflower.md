@@ -121,7 +121,6 @@ In the eighteenth and early nineteenth centuries, botanical illustrators develop
 <param ve-entity eid="Q14847254" title="Compositae"> 
 <param ve-entity eid="Q30765614" title="floret" aliases="florets"> 
 <param ve-entity eid="Q2587899" title="fecundity">
-<
 Henderson's botanical illustration highlights a trait of the sunflower that we may overlook due to our casual familiarity with the plant. Its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets. This diagram of a mature flower head shows that what we generally call “petals” are actually ray florets, which are sterile and serve to attract pollinators to disk florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own fruit after pollination. The plant has evolved to balance the energy outputted to grow ray and disk florets in order to maximize pollinator visitation and thus fecundity, although other factors, such as predators or pathogens, also constribute to floral evolution.[^ref20] Perceiving such floral traits, deducing their functions, and contextualizing them within ecosystems requires a process of direct observation, visual analysis, and patient contemplation of the natural world draws on some of the same skills that are manifest when making and studying artworks.
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Helianthus whirl, attributed to L. Shyamal © Creative Commons Attribution-Share Alike 2.5">
@@ -141,9 +140,9 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life">
-In this still life painting, Vincent van Gogh creates a radiant portrait of sunflowers in which he explores the expressive capacity of the color yellow. He uses a range of that color to depict a humble earthenware vessel filled with more than a dozen flowers. Ocher, mustard, gold, and dusty orange, the blooms pulsate against an unmodulated buttercream ground. The flowers shown here are a mix of _Helianthus annuus_ and a double-flower mutant, now known as "teddy bear." Their full textured heads contrast with some common sunflowers, at top left and center, that have shed ray florets and started to wilt. Van Gogh produced _Sunflowers_ while living in Arles, France, where he hoped to establish an artist colony with his friend and fellow painter Paul Gauguin.[^ref21] In preparation for Gauguin's arrival, Van Gogh painted the exterior of his home yellow and clad the walls of what would become Gauguin's room with this and other works. Those circumstances invite us to read _Sunflowers_ as a plant portrait that is also a .
+In this still life painting, Vincent van Gogh creates a radiant portrait of sunflowers in which he explores the expressive capacity of the color yellow. He uses a range of that color to depict a humble earthenware vessel filled with more than a dozen flowers. Ocher, mustard, gold, and dusty orange, the blooms pulsate against an unmodulated buttercream ground. The flowers shown here are a mix of _Helianthus annuus_ and a double-flower mutant, now known as "teddy bear." Their full textured heads contrast with some common sunflowers, at top left and center, that have shed ray florets and started to wilt. Van Gogh produced _Sunflowers_ while living in Arles, France, where he hoped to establish an artist colony with his friend and fellow painter Paul Gauguin.[^ref21] In preparation for Gauguin's arrival, Van Gogh painted the exterior of his home yellow and clad the walls of what would become Gauguin's room with this and other works. Those circumstances invite us to read the emphatic yellow palette of _Sunflowers_ as an affirmation of Van Gogh's .
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
-<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to [Kor!An (Корзун Андрей)](https://commons.wikimedia.org/wiki/User:Kor!An "User:Kor!An"), Wikimedia Commons">
+<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
 
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
@@ -222,7 +221,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzY0Njg2OCwtMTYyNjMwNDQyMSw4Nz
+eyJoaXN0b3J5IjpbLTYzOTE1OTc0MCwtMTYyNjMwNDQyMSw4Nz
 k5NzIzOTEsMjA5NDgzNDcwOSw3OTY5ODE4MTAsMTgxMjAwMzIw
 MCw5MzA2NzgyNTcsMzg1MDU2ODI5LDEwMTY0Njk4MDcsOTQ0ND
 c4NzI5LC01MDcwODAyMDYsODUzMjkwNTU5LC0xNjIxNjIzNzMz
