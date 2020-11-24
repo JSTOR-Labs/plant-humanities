@@ -56,7 +56,12 @@ Additionally, historians of early modern medicine have demonstrated that elite a
        url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/112270.jpg">
 
 There is also evidence that women not only consumed herbals and vernacular medical literature, but they also passed them down through generations. Historian Kevin Hayes’s has illustrated how colonial women passed down Nicolas Culpeper's _London Dispensatory_, the first medical work to be printed in America. A 1667 London edition of Culpeper's _Dispensatory_ in the Boston Medical Library was originally owned by Elizabeth Greenleaf who passed the copy to her daughter Grace. Grace eventually gave the book to her sister. Further evidence can be found in a 1720 edition of Culpeper's _Dispensatory_, also in the Boston Medical Library, which contains an inscription stating that the book was passed down to Rachel Martin by her mother 5 days before she died on 13 March 1765.[^4] [Culpeper's Dispensatory](https://books.google.com/books?id=t5VkAAAAcAAJ&printsec=frontcover&dq=Culpeper%27s+London+Dispensatory&hl=it&sa=X&ved=2ahUKEwjTv6bk7IztAhU6F1kFHQlFDmAQ6AEwAHoECAIQAg#v=onepage&q&f=false) lists both white dittany and dittany of Crete as a root that “promotes the terms [menstruation].” While collecting recipes and consuming printed herbals was not something all women could afford or had access to, it was commonplace and expected of middling and elite women. (image of Culpepper)
-
+<param ve-image
+       title="Nicolas Culpeper's _London Dispensatory_"
+       attribution="via Google Books"
+       url="https://books.google.com/books/content?id=t5VkAAAAcAAJ&hl=it&pg=PA57&img=1&zoom=3&sig=ACfU3U3zAYl4AAJA1qvylzr9fGNwR67pVA&w=1025
+">
+       
 ### Dittany and Reproductive Control
 As we can see, by the early modern period, dittany had been prescribed as an herb for women’s reproductive health for more than a millennium. We also know that middling and elite women were aware of the purgative powers of dittany. Particularly notable was its use as an effective emmenagogue. In ancient, medieval, and early modern European medicine, regular menstruation was viewed as essential to a woman’s health. Male physicians offered numerous theories and explanations as to why women menstruated; however, all agreed that missed or delayed periods signaled an imbalance or corruption of the humors. Menstruation was viewed akin to a purge, either as a means to purify the female body or to expel excess blood—and unexpelled menstrual fluid was deemed harmful. Thus, when a woman suffered from delayed menstruation, she turned to known emmenagogic herbs to induce bleeding and return her to health. (Medieval image of woman in repose)
 <param ve-image
