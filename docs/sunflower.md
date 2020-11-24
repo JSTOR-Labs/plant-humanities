@@ -38,7 +38,7 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 <param ve-entity eid="Q29" title="Spain">
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
 <param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
-In the late fifteenth and sixteenth centuries, Europeans were eager to collect plants from the Americas because they were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and goods bound up with imperialist and colonialist projects. The Spanish first transported the domesticated sunflower from North America to <span data-click-map-flyto="40.425, -3.639">Spain</span>, though questions persist about who collected such plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
+In the late fifteenth and sixteenth centuries, Europeans were eager to collect plants from the Americas because they were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish first transported the domesticated sunflower from North America to <span data-click-map-flyto="40.425, -3.639">Spain</span>, though questions persist about who collected such plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe. Such sources often contain information tha
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -210,11 +210,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDI5NTA3OCwtMTc2MzI3MTYzNiw5Nj
-QxMTIwODQsLTE4MTc1MzkwMiwtNzc2Njg3MzQsLTQyMTQ1MjU3
-OSw1MjU0ODM5MDAsMTk3Nzg1NTU2MywtMTU2OTgzNjg5MCwzMz
-kyMTUxNTIsLTE4MjM2NDgwNDIsNTY2NzU2OTEyLDE0MjMxMDIz
-NjQsMTcwOTYzODQ3NSwxMTI0MjE0NDUyLDE3MDE0NzE0MjksLT
-E2MzAwMDQ5ODQsLTE5Mjg5ODE1MzUsLTIxMjE3MDQ1MjQsLTI0
-NTIzODQ2MV19
+eyJoaXN0b3J5IjpbMjIyMzg3NDg0LC0xNzYzMjcxNjM2LDk2ND
+ExMjA4NCwtMTgxNzUzOTAyLC03NzY2ODczNCwtNDIxNDUyNTc5
+LDUyNTQ4MzkwMCwxOTc3ODU1NTYzLC0xNTY5ODM2ODkwLDMzOT
+IxNTE1MiwtMTgyMzY0ODA0Miw1NjY3NTY5MTIsMTQyMzEwMjM2
+NCwxNzA5NjM4NDc1LDExMjQyMTQ0NTIsMTcwMTQ3MTQyOSwtMT
+YzMDAwNDk4NCwtMTkyODk4MTUzNSwtMjEyMTcwNDUyNCwtMjQ1
+MjM4NDYxXX0=
 -->
