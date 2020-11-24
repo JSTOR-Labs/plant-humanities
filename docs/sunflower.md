@@ -100,7 +100,7 @@ By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
 <param ve-entity eid="Q1229071" title="motif">
-Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant's heliotropic phase recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun-god Helios.[^ref17] According to the story, Clytie competed unsuccessfully for Helios's affections. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, wholly consumed with the act of gazing upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, so-named for its flowers' movement toward the sun's rays. Yet, as this print shows, some European artists who were active during the sixteenth-, seventeenth-, or eighteenth-century reinterpreted the narrative by recasting that flora as a sunflower.[^ref18] That break with conventions demonstrates the fashionability of the sunflower as a motif, and the degree to which it was entangled not only with beliefs about the flower's formal resemblance to the sun but also with misconceptions about the mature plant being heliotropic.
+Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant's heliotropic phase recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun-god Helios.[^ref17] According to the story, Clytie competed unsuccessfully for Helios's affections. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, wholly consumed with the act of gazing upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, so-named for its flowers' movement toward the sun's rays. Yet, as this print shows, some European artists, particularly those active in the sixteenth and seventeenth centuries, reinterpreted the narrative by recasting that flora as a sunflower.[^ref18] That break with conventions demonstrates the fashionability of the sunflower as a motif, and the degree to which it was entangled not only with beliefs about the flower's formal resemblance to the sun but also with misconceptions about the mature plant being heliotropic.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
@@ -213,7 +213,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTY2OTIwNiw5MzA2NzgyNTcsMzg1MD
+eyJoaXN0b3J5IjpbMTgxMjAwMzIwMCw5MzA2NzgyNTcsMzg1MD
 U2ODI5LDEwMTY0Njk4MDcsOTQ0NDc4NzI5LC01MDcwODAyMDYs
 ODUzMjkwNTU5LC0xNjIxNjIzNzMzLC0xOTc3OTU5NTIsMTg1Mj
 YyMjUyMCwtMTc0ODkzMDA2MSwtMTc2MzI3MTYzNiw5NjQxMTIw
