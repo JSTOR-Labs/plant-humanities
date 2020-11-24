@@ -141,7 +141,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life">
 <param ve-entity eid="Q48292" title="Artles">
-In this radiant portrait of sunflowers, Vincent van Gogh explores the expressive capacity of the color yellow. He uses that hue to depict a humble earthenware vessel and its contents: a dozen or so sunflowers. These ocher, mustard, and dusty orange blooms also pulsate against a buttercream wall. They represent a mix of _Helianthus annuus_ and a double-flower mutant, now known as "teddy bear." In contrast to the full round double-flowers, two common sunflowers, at top left and center, have shed ray florets and started to wilt. The emphatic yellow palette of _Sunflowers_ and the combination of two different blossoms accrue additional meaning when we consider that Van Gogh produced the picture while living in Arles, France.[^ref21] There, Van Gogh hoped to establish an artist's colony with his friend and fellow painter Paul Gauguin. In preparation for Gauguin's arrival, Van Gogh painted the exterior of his house yellow and decorated the walls of what would become Gauguin's room with this and another sunflower painting, among other pictures.
+In this radiant portrait of sunflowers, Vincent van Gogh explores the expressive capacity of the color yellow. He uses that hue to depict a humble earthenware vessel and its contents: a dozen or so sunflowers. These ocher, mustard, and dusty orange blooms also pulsate against a buttercream wall. They represent a mix of _Helianthus annuus_ and a double-flower mutant, now known as "teddy bear." In contrast to the full round double-flowers, two common sunflowers, at top left and center, have shed ray florets and started to wilt. The emphatic yellow palette of _Sunflowers_ and the combination of two different blossoms accrue additional meaning when we consider that Van Gogh produced the picture while living in Arles, France.[^ref21] There, Van Gogh rilliant light of Provance to imbue his art with renewed energyVan Gogh hoped to establish an artist's colony with his friend and fellow painter Paul Gauguin. In preparation for Gauguin's arrival, Van Gogh painted the exterior of his house yellow and decorated the walls of what would become Gauguin's room with this and another sunflower painting, among other pictures. The way that the vivid yellow palette imbues the floral forms with life resonates with Van Gogh's aims of harnessing the brilliant light of Provance to imbue his art with renewed energy and  Gauguin.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
 
@@ -222,7 +222,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDQ3NzY5NSwtOTUwMjU3MjY0LC0xNj
+eyJoaXN0b3J5IjpbLTE4Mzc5NjEyNCwtOTUwMjU3MjY0LC0xNj
 I2MzA0NDIxLDg3OTk3MjM5MSwyMDk0ODM0NzA5LDc5Njk4MTgx
 MCwxODEyMDAzMjAwLDkzMDY3ODI1NywzODUwNTY4MjksMTAxNj
 Q2OTgwNyw5NDQ0Nzg3MjksLTUwNzA4MDIwNiw4NTMyOTA1NTks
