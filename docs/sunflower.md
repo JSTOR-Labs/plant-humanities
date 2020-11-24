@@ -21,8 +21,8 @@ Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an 
 
 <param ve-entity eid="Q861716" title="visual culture">
 Sunflower imagery can provide rich historical information about the genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_ and the roles of visual culture in communicating knowledges, myths, and meanings related to plants. Artists working in Europe and North America from the colonial to the modern period, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. In doing so, they developed conventions for representing specific characteristics of sunflowers that were tailored to those aims. By tracking changes in that [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) over time, we can learn about the historical significance of sunflowers in specific temporal and geographic contexts, as well as shifts in the ways that humans have represented, encountered, used, thought about, and valued the genus. Through that practice of close visual analysis, that engaging with artworks necessarily entails, we also cultivate a greater attentiveness to bring to our encounters with plants.
-<param ve-image curtain fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
-<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
+<param ve-image curtain url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
+<param ve-image fit="contain"url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
 
 ### Naming the Iconic Flower
@@ -210,7 +210,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzM3Nzc3NywtNzc2Njg3MzQsLTQyMT
+eyJoaXN0b3J5IjpbLTM1NzAwNTMyNiwtNzc2Njg3MzQsLTQyMT
 Q1MjU3OSw1MjU0ODM5MDAsMTk3Nzg1NTU2MywtMTU2OTgzNjg5
 MCwzMzkyMTUxNTIsLTE4MjM2NDgwNDIsNTY2NzU2OTEyLDE0Mj
 MxMDIzNjQsMTcwOTYzODQ3NSwxMTI0MjE0NDUyLDE3MDE0NzE0
