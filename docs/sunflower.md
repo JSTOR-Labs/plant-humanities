@@ -143,7 +143,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 In _Jerusalem Artichoke_ (1880), Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plant's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ (1888) juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir human emotions or spirituality. These engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire.[^ref21]
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
-<param ve-image fit="contain" primary url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflowers%20Monet%20van%20Gogh%20CC.jpg" title="Claude Monet _Jerusalem artichoke_ 1880 (left), Vincent van Gogh, _Sunflower_, 1888, National Gallery London">
+<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutan">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflowers%20compared%20to%20van%20Gogh%20painting.jpg" title="Margaret Mee, _Heliconia uaupénsis_, © Copyright The Board of Trustees of the Royal Botanic Gardens, Kew">
 
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
@@ -222,11 +222,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDgzNDcwOSw3OTY5ODE4MTAsMTgxMj
-AwMzIwMCw5MzA2NzgyNTcsMzg1MDU2ODI5LDEwMTY0Njk4MDcs
-OTQ0NDc4NzI5LC01MDcwODAyMDYsODUzMjkwNTU5LC0xNjIxNj
-IzNzMzLC0xOTc3OTU5NTIsMTg1MjYyMjUyMCwtMTc0ODkzMDA2
-MSwtMTc2MzI3MTYzNiw5NjQxMTIwODQsLTE4MTc1MzkwMiwtNz
-c2Njg3MzQsLTQyMTQ1MjU3OSw1MjU0ODM5MDAsMTk3Nzg1NTU2
-M119
+eyJoaXN0b3J5IjpbMzQyMzYyNjUxLDIwOTQ4MzQ3MDksNzk2OT
+gxODEwLDE4MTIwMDMyMDAsOTMwNjc4MjU3LDM4NTA1NjgyOSwx
+MDE2NDY5ODA3LDk0NDQ3ODcyOSwtNTA3MDgwMjA2LDg1MzI5MD
+U1OSwtMTYyMTYyMzczMywtMTk3Nzk1OTUyLDE4NTI2MjI1MjAs
+LTE3NDg5MzAwNjEsLTE3NjMyNzE2MzYsOTY0MTEyMDg0LC0xOD
+E3NTM5MDIsLTc3NjY4NzM0LC00MjE0NTI1NzksNTI1NDgzOTAw
+XX0=
 -->
