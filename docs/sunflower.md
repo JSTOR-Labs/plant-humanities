@@ -91,7 +91,7 @@ The discussion of sunflowers in Hernández’s _Nova plantarum_ complicates deba
 <param ve-entity eid="Q81506" title="Charles I of England">
 <param ve-entity eid="Q112110" title="emblem" aliases="emblems">
 <param ve-entity eid="Q15472169" title="patron of the arts" aliases="patron">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals and emblems.[^ref16] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower—a floral manifestation of his loyalty to his patron.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals, florilegia, and emblems.[^ref16] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower—a floral manifestation of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum" aliases="heliotrope">
@@ -211,11 +211,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE2MjM3MzMsLTE5Nzc5NTk1MiwxOD
-UyNjIyNTIwLC0xNzQ4OTMwMDYxLC0xNzYzMjcxNjM2LDk2NDEx
-MjA4NCwtMTgxNzUzOTAyLC03NzY2ODczNCwtNDIxNDUyNTc5LD
-UyNTQ4MzkwMCwxOTc3ODU1NTYzLC0xNTY5ODM2ODkwLDMzOTIx
-NTE1MiwtMTgyMzY0ODA0Miw1NjY3NTY5MTIsMTQyMzEwMjM2NC
-wxNzA5NjM4NDc1LDExMjQyMTQ0NTIsMTcwMTQ3MTQyOSwtMTYz
-MDAwNDk4NF19
+eyJoaXN0b3J5IjpbODUzMjkwNTU5LC0xNjIxNjIzNzMzLC0xOT
+c3OTU5NTIsMTg1MjYyMjUyMCwtMTc0ODkzMDA2MSwtMTc2MzI3
+MTYzNiw5NjQxMTIwODQsLTE4MTc1MzkwMiwtNzc2Njg3MzQsLT
+QyMTQ1MjU3OSw1MjU0ODM5MDAsMTk3Nzg1NTU2MywtMTU2OTgz
+Njg5MCwzMzkyMTUxNTIsLTE4MjM2NDgwNDIsNTY2NzU2OTEyLD
+E0MjMxMDIzNjQsMTcwOTYzODQ3NSwxMTI0MjE0NDUyLDE3MDE0
+NzE0MjldfQ==
 -->
