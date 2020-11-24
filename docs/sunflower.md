@@ -1,4 +1,3 @@
-<a href="[https://dev.visual-essays.app](https://dev.visual-essays.app)"><img src="[https://dev-visual-essays.netlify.app/images/ve-button.png](https://dev-visual-essays.netlify.app/images/ve-button.png)"></a>
 <param ve-config
        title="Sunflower: Shining a Light on Knowledges, Myths, and Meanings"
        author="Kristan M. Hanson"
@@ -209,11 +208,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA4NzczMjcsLTQyMTQ1MjU3OSw1Mj
-U0ODM5MDAsMTk3Nzg1NTU2MywtMTU2OTgzNjg5MCwzMzkyMTUx
-NTIsLTE4MjM2NDgwNDIsNTY2NzU2OTEyLDE0MjMxMDIzNjQsMT
-cwOTYzODQ3NSwxMTI0MjE0NDUyLDE3MDE0NzE0MjksLTE2MzAw
-MDQ5ODQsLTE5Mjg5ODE1MzUsLTIxMjE3MDQ1MjQsLTI0NTIzOD
-Q2MSwtMTg5OTYxODU1MiwtMTM3ODYzNzM1MSwxMDkzOTA2MDIw
-LDk0MTUxODM4XX0=
+eyJoaXN0b3J5IjpbLTc3NjY4NzM0LC00MjE0NTI1NzksNTI1ND
+gzOTAwLDE5Nzc4NTU1NjMsLTE1Njk4MzY4OTAsMzM5MjE1MTUy
+LC0xODIzNjQ4MDQyLDU2Njc1NjkxMiwxNDIzMTAyMzY0LDE3MD
+k2Mzg0NzUsMTEyNDIxNDQ1MiwxNzAxNDcxNDI5LC0xNjMwMDA0
+OTg0LC0xOTI4OTgxNTM1LC0yMTIxNzA0NTI0LC0yNDUyMzg0Nj
+EsLTE4OTk2MTg1NTIsLTEzNzg2MzczNTEsMTA5MzkwNjAyMCw5
+NDE1MTgzOF19
 -->
