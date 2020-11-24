@@ -1,7 +1,7 @@
 <param ve-config
        title="Sunflower: Shining a Light on Knowledges, Myths, and Meanings"
        author="Kristan M. Hanson"
-       source-image="https://ia800500.us.archive.org/BookReader/BookReaderImages.php?id=monographTrochi2Goul&itemPath=%2F12%2Fitems%2FmonographTrochi2Goul&server=ia800500.us.archive.org&page=n285_w1713"
+       source-image="https://bibdigital.rjb.csic.es/"
        banner="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/428.0550928891736,553.1346957733396,2234.3561819346573,1347.914537854157/!1102,665/0/default.jpg"
        layout="vtl">
 
@@ -208,11 +208,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTQ1MjU3OSw1MjU0ODM5MDAsMTk3Nz
-g1NTU2MywtMTU2OTgzNjg5MCwzMzkyMTUxNTIsLTE4MjM2NDgw
-NDIsNTY2NzU2OTEyLDE0MjMxMDIzNjQsMTcwOTYzODQ3NSwxMT
-I0MjE0NDUyLDE3MDE0NzE0MjksLTE2MzAwMDQ5ODQsLTE5Mjg5
-ODE1MzUsLTIxMjE3MDQ1MjQsLTI0NTIzODQ2MSwtMTg5OTYxOD
-U1MiwtMTM3ODYzNzM1MSwxMDkzOTA2MDIwLDk0MTUxODM4LC0x
-NzkwODI4ODI1XX0=
+eyJoaXN0b3J5IjpbLTc3NjY4NzM0LC00MjE0NTI1NzksNTI1ND
+gzOTAwLDE5Nzc4NTU1NjMsLTE1Njk4MzY4OTAsMzM5MjE1MTUy
+LC0xODIzNjQ4MDQyLDU2Njc1NjkxMiwxNDIzMTAyMzY0LDE3MD
+k2Mzg0NzUsMTEyNDIxNDQ1MiwxNzAxNDcxNDI5LC0xNjMwMDA0
+OTg0LC0xOTI4OTgxNTM1LC0yMTIxNzA0NTI0LC0yNDUyMzg0Nj
+EsLTE4OTk2MTg1NTIsLTEzNzg2MzczNTEsMTA5MzkwNjAyMCw5
+NDE1MTgzOF19
 -->
