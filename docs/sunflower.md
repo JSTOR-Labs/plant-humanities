@@ -93,7 +93,7 @@ The discussion of sunflowers in Hernández’s _Nova plantarum_ complicates deba
 <param ve-entity eid="Q15472169" title="patron of the arts" aliases="patron">
 By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals, florilegia, and emblems.[^ref16] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower—a floral manifestation of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
-<param ve-image fit="contain" url="https://lh5.ggpht.com/-EZ8X9-meQg6Iog_SbVBOVK4OgK6RvaxhEGVBl3_EJ6Ljk1uo0jfPXMkQ8UVwcDe5HQhR2VcC_Te4P5tlwNkJTRnoCY=s0" title="Adriaen Collaert, _Florilegium, _Sunflower and other flowers_, 1570-before 1618, Rijksmuseum">
+<param ve-image fit="contain" url="https://lh5.ggpht.com/-EZ8X9-meQg6Iog_SbVBOVK4OgK6RvaxhEGVBl3_EJ6Ljk1uo0jfPXMkQ8UVwcDe5HQhR2VcC_Te4P5tlwNkJTRnoCY=s0" title="Adriaen Collaert, _Sunflower and other flowers_, from _Florilegium_, 1570-before 1618, Rijksmuseum">
 
 <param ve-entity eid="Q158082" title="heliotropum" aliases="heliotrope">
 <param ve-entity eid="Q134270" title="Helios">
@@ -212,7 +212,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDg1MzQ3MSw4NTMyOTA1NTksLTE2Mj
+eyJoaXN0b3J5IjpbLTUwNzA4MDIwNiw4NTMyOTA1NTksLTE2Mj
 E2MjM3MzMsLTE5Nzc5NTk1MiwxODUyNjIyNTIwLC0xNzQ4OTMw
 MDYxLC0xNzYzMjcxNjM2LDk2NDExMjA4NCwtMTgxNzUzOTAyLC
 03NzY2ODczNCwtNDIxNDUyNTc5LDUyNTQ4MzkwMCwxOTc3ODU1
