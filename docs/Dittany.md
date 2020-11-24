@@ -1,3 +1,5 @@
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+
 <param ve-config
 	   title="Dittany: Women’s Herbs and Reproductive Control"
 	   source-image="https://ia800806.us.archive.org/BookReader/BookReaderImages.php?id=floragraecasive6sibt&itemPath=%2F7%2Fitems%2Ffloragraecasive6sibt&server=ia800806.us.archive.org&page=n200_w925"
