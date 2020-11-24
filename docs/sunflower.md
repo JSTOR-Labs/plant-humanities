@@ -140,6 +140,8 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
+
+
 In _Jerusalem Artichoke_ (1880), Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plant's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ (1888) juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir human emotions or spirituality. These engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire.[^ref21]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to [Kor!An (Корзун Андрей)](https://commons.wikimedia.org/wiki/User:Kor!An "User:Kor!An"), Wikimedia Commons">
@@ -221,11 +223,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5OTcyMzkxLDIwOTQ4MzQ3MDksNzk2OT
-gxODEwLDE4MTIwMDMyMDAsOTMwNjc4MjU3LDM4NTA1NjgyOSwx
-MDE2NDY5ODA3LDk0NDQ3ODcyOSwtNTA3MDgwMjA2LDg1MzI5MD
-U1OSwtMTYyMTYyMzczMywtMTk3Nzk1OTUyLDE4NTI2MjI1MjAs
-LTE3NDg5MzAwNjEsLTE3NjMyNzE2MzYsOTY0MTEyMDg0LC0xOD
-E3NTM5MDIsLTc3NjY4NzM0LC00MjE0NTI1NzksNTI1NDgzOTAw
-XX0=
+eyJoaXN0b3J5IjpbMjAyNTA5NjI2Nyw4Nzk5NzIzOTEsMjA5ND
+gzNDcwOSw3OTY5ODE4MTAsMTgxMjAwMzIwMCw5MzA2NzgyNTcs
+Mzg1MDU2ODI5LDEwMTY0Njk4MDcsOTQ0NDc4NzI5LC01MDcwOD
+AyMDYsODUzMjkwNTU5LC0xNjIxNjIzNzMzLC0xOTc3OTU5NTIs
+MTg1MjYyMjUyMCwtMTc0ODkzMDA2MSwtMTc2MzI3MTYzNiw5Nj
+QxMTIwODQsLTE4MTc1MzkwMiwtNzc2Njg3MzQsLTQyMTQ1MjU3
+OV19
 -->
