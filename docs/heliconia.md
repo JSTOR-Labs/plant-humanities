@@ -2,7 +2,7 @@
        title="Heliconia: Plant-Pollinator Interactions Reveal Evolution at Work"
        author="John Kress, PhD and Yota Batsaki, PhD"
        source-image="https://ia800500.us.archive.org/BookReader/BookReaderImages.php?id=monographTrochi2Goul&itemPath=%2F12%2Fitems%2FmonographTrochi2Goul&server=ia800500.us.archive.org&page=n285_w1713"
-       banner="https://jstor-labs.github.io/plant-humanities/images/banners/heliconia.jpg"
+       banner="https://jstor-labs.github.io/plant-humanities/images/banners/heliconia.jpg/428.0550928891736,553.1346957733396,2234.3561819346573,1347.914537854157/!1102,665/0/default.jpg"
        layout="vtl">
 
 ### From Mount Helicon to the Amazon
