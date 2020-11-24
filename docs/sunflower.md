@@ -213,14 +213,14 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref20]: Chase M. Mason, et al., "Beyond Pollinators: Evolution of Floral Architecture with Environment across the Wild Sunflowers (_Helianthus_, Asteraceae)," _Plant Ecology and Evolution_ 150, no. 2 (2017): 139-150.
 
-[^ref21]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," i.
+[^ref21]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," in _Van Gogh's Sunflowers Illuminated: Art Meets Science," eds. Ella Hendriks and Marije Vellekoop (.
 
 [^ref22]: Native American Ethnobotany Database http://naeb.brit.org/uses/search/?string=sunflower
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTE4Nzg4LDE4MTIwMDMyMDAsOTMwNj
+eyJoaXN0b3J5IjpbNjgyNDI0ODg4LDE4MTIwMDMyMDAsOTMwNj
 c4MjU3LDM4NTA1NjgyOSwxMDE2NDY5ODA3LDk0NDQ3ODcyOSwt
 NTA3MDgwMjA2LDg1MzI5MDU1OSwtMTYyMTYyMzczMywtMTk3Nz
 k1OTUyLDE4NTI2MjI1MjAsLTE3NDg5MzAwNjEsLTE3NjMyNzE2
