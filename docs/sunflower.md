@@ -141,7 +141,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life">
 <param ve-entity eid="Q48292" title="Artles">
-In this still life, Vincent van Gogh creates a radiant portrait of sunflowers in which he explores the expressive capacity of the color yellow. He uses a range of yellows to depict a humble earthenware vessel filled with more than a dozen flowers. Ocher, mustard, gold, and dusty orange, the blooms pulsate against an unmodulated buttercream ground. The flowers shown here are a mix of _Helianthus annuus_ and a double-flower mutant, now known as "teddy bear." Their full round textured heads contrast with two common sunflowers, at top left and center, that have shed ray florets and started to wilt. The emphatic yellow palette of _Sunflowers_ accrues additional meaning when we consider the circumstances sourrounding its produced. Van Gogh produced the picture while living in Arles, France, where he hoped to establish an artist's colony with his friend and fellow painter Paul Gauguin.[^ref21] In preparation for Gauguin's arrival, Van Gogh painted the exterior of his house yellow and clad the walls of what would become Gauguin's room with this and another sunflower painting of his own making. The vivid  , having reached the end of their summer growth cycle, metaphorically ushered in a new fertile terrain for artistic growth.
+In this still life, Vincent van Gogh creates a radiant portrait of sunflowers in which he explores the expressive capacity of the color yellow. He uses a range of yellows to depict a humble earthenware vessel filled with more than a dozen flowers. Ocher, mustard, gold, and dusty orange, the blooms pulsate against an unmodulated buttercream ground. The flowers shown here are a mix of _Helianthus annuus_ and a double-flower mutant, now known as "teddy bear." Their full round textured heads contrast with two common sunflowers, at top left and center, that have shed ray florets and started to wilt. The emphatic yellow palette of _Sunflowers_ accrues additional meaning when we consider the circumstances sourrounding its produced. Van Gogh produced the picture while living in Arles, France, where he hoped to establish an artist's colony with his friend and fellow painter Paul Gauguin.[^ref21] In preparation for Gauguin's arrival, Van Gogh painted the exterior of his house yellow and clad the walls of what would become Gauguin's room with this and another sunflower painting. The vivid flowers  new fertile terrain for artistic growth.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
 
@@ -222,11 +222,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI1OTY5MzIsLTE2MjYzMDQ0MjEsOD
-c5OTcyMzkxLDIwOTQ4MzQ3MDksNzk2OTgxODEwLDE4MTIwMDMy
-MDAsOTMwNjc4MjU3LDM4NTA1NjgyOSwxMDE2NDY5ODA3LDk0ND
-Q3ODcyOSwtNTA3MDgwMjA2LDg1MzI5MDU1OSwtMTYyMTYyMzcz
-MywtMTk3Nzk1OTUyLDE4NTI2MjI1MjAsLTE3NDg5MzAwNjEsLT
-E3NjMyNzE2MzYsOTY0MTEyMDg0LC0xODE3NTM5MDIsLTc3NjY4
-NzM0XX0=
+eyJoaXN0b3J5IjpbMTQzMTcyMjMyNCwtMTYyNjMwNDQyMSw4Nz
+k5NzIzOTEsMjA5NDgzNDcwOSw3OTY5ODE4MTAsMTgxMjAwMzIw
+MCw5MzA2NzgyNTcsMzg1MDU2ODI5LDEwMTY0Njk4MDcsOTQ0ND
+c4NzI5LC01MDcwODAyMDYsODUzMjkwNTU5LC0xNjIxNjIzNzMz
+LC0xOTc3OTU5NTIsMTg1MjYyMjUyMCwtMTc0ODkzMDA2MSwtMT
+c2MzI3MTYzNiw5NjQxMTIwODQsLTE4MTc1MzkwMiwtNzc2Njg3
+MzRdfQ==
 -->
