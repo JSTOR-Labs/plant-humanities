@@ -141,11 +141,11 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q296" title="Claude Monet" aliases="Claude Monet's">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 In _Jerusalem Artichoke_ (1880), Claude Monet depicts an earthenware vase filled with cuttings of robust _Helianthus tuberosus_. He presents an impression of the plant's sprawling branches that approximates how the human eye perceives their brilliant gold heads and green foliage under a specific light condition. Conversely, Vincent van Gogh's _Sunflowers_ (1888) juxtaposes typical _Helianthus annuus_ blossoms with double-flower mutants. His portrayal of spent and still vigorous flowers, cut and arranged, explores the capacity of paint, floral forms, and actual plants to stir human emotions or spirituality. These engagements with sunflowers model a kind of aesthetic and phenomenological attentiveness to plants to which we ought to aspire.[^ref21]
-<param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to [Kor!An (Корзун Андрей)](https://commons.wikimedia.org/wiki/User:Kor!An "User:Kor!An"), Wikimedia Commons">
 
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
+<param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
 <param ve-entity eid="Q181916" title="herbarium">
 Contrary to what is most often portrayed in images and texts, the palette of _Helianthus_ is not limited to yellow. Indeed, there are more than fifty accepted species grouped under _Helianthus_ and, 
@@ -221,7 +221,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyOTY3MjcxLDIwOTQ4MzQ3MDksNzk2OT
+eyJoaXN0b3J5IjpbODc5OTcyMzkxLDIwOTQ4MzQ3MDksNzk2OT
 gxODEwLDE4MTIwMDMyMDAsOTMwNjc4MjU3LDM4NTA1NjgyOSwx
 MDE2NDY5ODA3LDk0NDQ3ODcyOSwtNTA3MDgwMjA2LDg1MzI5MD
 U1OSwtMTYyMTYyMzczMywtMTk3Nzk1OTUyLDE4NTI2MjI1MjAs
