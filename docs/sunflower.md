@@ -55,7 +55,7 @@ that anticipates modern visual stereotypes for the plant, perhaps best epitomize
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
 
-Through transregional trade networks Prince Bishop of Eichstätt obtained materials for his gardeners to cultivate sunflowers and instructions for doing so.[^ref6] Eichstätt and Besler also used those connections to exchange books, illustrations, and other materials that espoused new aesthetic conventions for representing the sunflower and taxonomic approaches for organizing depictions of plants within herbals and florilegia. This model visualizes some of the men's connections with herbalists, translators, publishers, artists, patrons, and other historical figures who were active mainly in Europe, focusing on the period from the 1550s to the 1650s. Besler no doubt levrePower, priviledge, and plant knowledge were consolidated in these social circles with wealthy patrons, such as Eichstätt, 
+Through transregional trade networks Prince Bishop of Eichstätt obtained materials for his gardeners to cultivate sunflowers and instructions for doing so.[^ref6] Eichstätt and Besler also used those connections to exchange books, illustrations, and other materials that espoused new aesthetic conventions for representing the sunflower and taxonomic approaches for organizing depictions of plants within herbals and florilegia. This model visualizes some of the men's connections with herbalists, translators, publishers, artists, patrons, and other historical figures who were active mainly in Europe, focusing on the period from the 1550s to the 1650s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Johann Konrad von Gemmingen">
 
 ### Mythic Encounters and Scientific Debates
@@ -210,11 +210,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyNjkxODQwLC0xOTc3OTU5NTIsMTg1Mj
-YyMjUyMCwtMTc0ODkzMDA2MSwtMTc2MzI3MTYzNiw5NjQxMTIw
-ODQsLTE4MTc1MzkwMiwtNzc2Njg3MzQsLTQyMTQ1MjU3OSw1Mj
-U0ODM5MDAsMTk3Nzg1NTU2MywtMTU2OTgzNjg5MCwzMzkyMTUx
-NTIsLTE4MjM2NDgwNDIsNTY2NzU2OTEyLDE0MjMxMDIzNjQsMT
-cwOTYzODQ3NSwxMTI0MjE0NDUyLDE3MDE0NzE0MjksLTE2MzAw
-MDQ5ODRdfQ==
+eyJoaXN0b3J5IjpbLTE4NjgwMzI2NjQsLTE5Nzc5NTk1MiwxOD
+UyNjIyNTIwLC0xNzQ4OTMwMDYxLC0xNzYzMjcxNjM2LDk2NDEx
+MjA4NCwtMTgxNzUzOTAyLC03NzY2ODczNCwtNDIxNDUyNTc5LD
+UyNTQ4MzkwMCwxOTc3ODU1NTYzLC0xNTY5ODM2ODkwLDMzOTIx
+NTE1MiwtMTgyMzY0ODA0Miw1NjY3NTY5MTIsMTQyMzEwMjM2NC
+wxNzA5NjM4NDc1LDExMjQyMTQ0NTIsMTcwMTQ3MTQyOSwtMTYz
+MDAwNDk4NF19
 -->
