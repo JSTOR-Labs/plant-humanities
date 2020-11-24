@@ -82,7 +82,7 @@ Although botanists have consulted herbals and other historical evidence to chart
 The discussion of sunflowers in Hernández’s _Nova plantarum_ complicates debates among scientists about when humans used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether they were cultivated independently there.[^ref17] A charred seed was recovered at San Andrés archaeological site in Tabasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that it may have come from a bottle gourd.[^ref18] Expanding on that archeological research, genomic studies of modern domesticated and wild sunflowers have linked the plants to a single common ancestor, which was cultivated at an independent domestication center, along with pepo squash, marshelder, and chenopod, in <span data-click-map-flyto="37.347878, -89.590292">eastern North America</span>.[^ref19] For those reasons, several botanists have argued that _H. annuus_ was brought to Mexico via North American trade routes, possibly by Spanish colonizers.[^ref20]
 <param ve-map prefer-geojson center="Q80914" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
 
-### “I’ll Follow the Sun”: Heliotropism as Myth and Metaphor
+### “I’ll Follow the Sun”: Heliotropism as Metaphor and Myth
 
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
 <param ve-entity eid="Q81506" title="Charles I of England">
@@ -101,7 +101,7 @@ Europeans associated sunflowers with the human sentiments of loyalty and constan
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
 <param ve-entity eid="Q1141466" title="pollinator">
 <param ve-entity eid="Q208353" title="circadian rhythm">
-There is a longstanding cultural assumption that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref24] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation.
+There is a longstanding cultural assumption that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and, once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref24] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Needless to say, these findings generated a media buzz.
 <param ve-video title="_Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits_, Hagop S. Atamian, Nicky M. Creux, Evan A. Brown, Austin G. Garner, Benjamin K. Blackman, Stacey L. Harmer, DOI: 10.1126/science.aaf9793" vid="rjwd4DErj_M?t=18">
 
 ### Out of One, Many
@@ -208,11 +208,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1NDgzOTAwLDE5Nzc4NTU1NjMsLTE1Nj
-k4MzY4OTAsMzM5MjE1MTUyLC0xODIzNjQ4MDQyLDU2Njc1Njkx
-MiwxNDIzMTAyMzY0LDE3MDk2Mzg0NzUsMTEyNDIxNDQ1MiwxNz
-AxNDcxNDI5LC0xNjMwMDA0OTg0LC0xOTI4OTgxNTM1LC0yMTIx
-NzA0NTI0LC0yNDUyMzg0NjEsLTE4OTk2MTg1NTIsLTEzNzg2Mz
-czNTEsMTA5MzkwNjAyMCw5NDE1MTgzOCwtMTc5MDgyODgyNSwt
-MTU0MjkyMTUwM119
+eyJoaXN0b3J5IjpbLTQyMTQ1MjU3OSw1MjU0ODM5MDAsMTk3Nz
+g1NTU2MywtMTU2OTgzNjg5MCwzMzkyMTUxNTIsLTE4MjM2NDgw
+NDIsNTY2NzU2OTEyLDE0MjMxMDIzNjQsMTcwOTYzODQ3NSwxMT
+I0MjE0NDUyLDE3MDE0NzE0MjksLTE2MzAwMDQ5ODQsLTE5Mjg5
+ODE1MzUsLTIxMjE3MDQ1MjQsLTI0NTIzODQ2MSwtMTg5OTYxOD
+U1MiwtMTM3ODYzNzM1MSwxMDkzOTA2MDIwLDk0MTUxODM4LC0x
+NzkwODI4ODI1XX0=
 -->
