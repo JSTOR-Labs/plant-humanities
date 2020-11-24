@@ -215,18 +215,18 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref21]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," in _Van Gogh's Sunflowers Illuminated: Art Meets Science," eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
 
-[^ref22]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," in _Van Gogh's Sunflowers Illuminated: Art Meets Science," eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
+[^ref22]: Stephen F. Eisenman, "From Corot to Monet: The Ecology of Impressionism," in _Van Gogh's Sunflowers Illuminated: Art Meets Science," eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
 
 [^ref23]: Native American Ethnobotany Database http://naeb.brit.org/uses/search/?string=sunflower
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1NjAyNTQ1LDE4MTIwMDMyMDAsOTMwNj
-c4MjU3LDM4NTA1NjgyOSwxMDE2NDY5ODA3LDk0NDQ3ODcyOSwt
-NTA3MDgwMjA2LDg1MzI5MDU1OSwtMTYyMTYyMzczMywtMTk3Nz
-k1OTUyLDE4NTI2MjI1MjAsLTE3NDg5MzAwNjEsLTE3NjMyNzE2
-MzYsOTY0MTEyMDg0LC0xODE3NTM5MDIsLTc3NjY4NzM0LC00Mj
-E0NTI1NzksNTI1NDgzOTAwLDE5Nzc4NTU1NjMsLTE1Njk4MzY4
-OTBdfQ==
+eyJoaXN0b3J5IjpbLTI2NDQwNTA3MSwxODEyMDAzMjAwLDkzMD
+Y3ODI1NywzODUwNTY4MjksMTAxNjQ2OTgwNyw5NDQ0Nzg3Mjks
+LTUwNzA4MDIwNiw4NTMyOTA1NTksLTE2MjE2MjM3MzMsLTE5Nz
+c5NTk1MiwxODUyNjIyNTIwLC0xNzQ4OTMwMDYxLC0xNzYzMjcx
+NjM2LDk2NDExMjA4NCwtMTgxNzUzOTAyLC03NzY2ODczNCwtND
+IxNDUyNTc5LDUyNTQ4MzkwMCwxOTc3ODU1NTYzLC0xNTY5ODM2
+ODkwXX0=
 -->
