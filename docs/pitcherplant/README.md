@@ -2,7 +2,7 @@
 <param ve-config
        title="Pitcher Plant: From "Exotic" Curiosity to Conservation Priority"
        author="Kristan M. Hanson"
-       source-image="https://ia6800502.us.archive.org/BookReader/BookReaderImages.php?zip=/0/items/id=mobot31753002364195/mobot31753002364195_jp2.tar&file=mobot31753002364195_jp2/mobot31753002364195_0149.jp2&id=mobot31753002364195&scale=7.752136752136752&rotate=0&itemPath=%2F0%2Fitems%2Fmobot31753002364195&server=ia800502.us.archive.org&page=n148_w1445"
+       source-image="nepenthese_illustrationhorticole_1882.jpg"
        layout="vtl">
 
 ### A Giant among Us
