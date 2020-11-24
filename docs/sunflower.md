@@ -213,20 +213,20 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref20]: Chase M. Mason, et al., "Beyond Pollinators: Evolution of Floral Architecture with Environment across the Wild Sunflowers (_Helianthus_, Asteraceae)," _Plant Ecology and Evolution_ 150, no. 2 (2017): 139-150.
 
-[^ref21]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," in _Van Gogh's Sunflowers Illuminated: Art Meets Science," eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
+[^ref21]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," in _Van Gogh's Sunflowers Illuminated: Art Meets Science_, eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
 
-[^ref22]: Stephen F. Eisenman, "From Corot to Monet: The Ecology of Impressionism," in _Van Gogh's Sunflowers Illuminated: Art Meets Science," eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
+[^ref22]: Stephen F. Eisenman, "From Corot to Monet: The Ecology of Impressionism," in _From Corot to Monet: The Ecology of Impressionism_, eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
 
 [^ref23]: Native American Ethnobotany Database http://naeb.brit.org/uses/search/?string=sunflower
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDQwNTA3MSwxODEyMDAzMjAwLDkzMD
-Y3ODI1NywzODUwNTY4MjksMTAxNjQ2OTgwNyw5NDQ0Nzg3Mjks
-LTUwNzA4MDIwNiw4NTMyOTA1NTksLTE2MjE2MjM3MzMsLTE5Nz
-c5NTk1MiwxODUyNjIyNTIwLC0xNzQ4OTMwMDYxLC0xNzYzMjcx
-NjM2LDk2NDExMjA4NCwtMTgxNzUzOTAyLC03NzY2ODczNCwtND
-IxNDUyNTc5LDUyNTQ4MzkwMCwxOTc3ODU1NTYzLC0xNTY5ODM2
-ODkwXX0=
+eyJoaXN0b3J5IjpbLTE3MjA0NzUwMzUsMTgxMjAwMzIwMCw5Mz
+A2NzgyNTcsMzg1MDU2ODI5LDEwMTY0Njk4MDcsOTQ0NDc4NzI5
+LC01MDcwODAyMDYsODUzMjkwNTU5LC0xNjIxNjIzNzMzLC0xOT
+c3OTU5NTIsMTg1MjYyMjUyMCwtMTc0ODkzMDA2MSwtMTc2MzI3
+MTYzNiw5NjQxMTIwODQsLTE4MTc1MzkwMiwtNzc2Njg3MzQsLT
+QyMTQ1MjU3OSw1MjU0ODM5MDAsMTk3Nzg1NTU2MywtMTU2OTgz
+Njg5MF19
 -->
