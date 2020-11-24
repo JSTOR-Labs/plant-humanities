@@ -94,6 +94,7 @@ The discussion of sunflowers in Hernández’s _Nova plantarum_ complicates deba
 By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to study such as herbals, florilegia, and emblems.[^ref16] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower—a floral manifestation of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Collaert_Rijksmuseum_RP-P-BI-5997.jpg" title="Adriaen Collaert, _Sunflower and other flowers_, from _Florilegium_, 1570-before 1618, Rijksmuseum">
+<param ve-image primary fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Collaert_Rijksmuseum_RP-P-BI-5997.jpg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, after 1633">
 
 <param ve-entity eid="Q158082" title="heliotropum" aliases="heliotrope">
 <param ve-entity eid="Q134270" title="Helios">
@@ -212,11 +213,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0NDc4NzI5LC01MDcwODAyMDYsODUzMj
-kwNTU5LC0xNjIxNjIzNzMzLC0xOTc3OTU5NTIsMTg1MjYyMjUy
-MCwtMTc0ODkzMDA2MSwtMTc2MzI3MTYzNiw5NjQxMTIwODQsLT
-E4MTc1MzkwMiwtNzc2Njg3MzQsLTQyMTQ1MjU3OSw1MjU0ODM5
-MDAsMTk3Nzg1NTU2MywtMTU2OTgzNjg5MCwzMzkyMTUxNTIsLT
-E4MjM2NDgwNDIsNTY2NzU2OTEyLDE0MjMxMDIzNjQsMTcwOTYz
-ODQ3NV19
+eyJoaXN0b3J5IjpbMjY4NzY1NDAsOTQ0NDc4NzI5LC01MDcwOD
+AyMDYsODUzMjkwNTU5LC0xNjIxNjIzNzMzLC0xOTc3OTU5NTIs
+MTg1MjYyMjUyMCwtMTc0ODkzMDA2MSwtMTc2MzI3MTYzNiw5Nj
+QxMTIwODQsLTE4MTc1MzkwMiwtNzc2Njg3MzQsLTQyMTQ1MjU3
+OSw1MjU0ODM5MDAsMTk3Nzg1NTU2MywtMTU2OTgzNjg5MCwzMz
+kyMTUxNTIsLTE4MjM2NDgwNDIsNTY2NzU2OTEyLDE0MjMxMDIz
+NjRdfQ==
 -->
