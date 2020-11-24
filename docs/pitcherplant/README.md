@@ -3,7 +3,7 @@
        title="Pitcher Plant: From Frenchified Curiosity to Conservation Priority"
        author="Kristan M. Hanson"
        source-image="blob:null/350ec559-ab4d-204b-ad69-901393a2d9adhttps://www.biodiversitylibrary.org/item/53838#page/149/mode/1up"
-       banner="https://ia68005042.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002747399364195&itemPath=%2F%2Fitems%2Fmobot31753002747399364195&server=ia600502.us.archive.org&page=n237_w1001148_w2890"
+       banner="nepenthesrafflessiana_BHL_crop.jpg"
        layout="vtl">
 
 ### A Giant among Us
