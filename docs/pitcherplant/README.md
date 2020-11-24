@@ -2,9 +2,8 @@
 <param ve-config
        title="Pitcher Plant: From Frenchified Curiosity to Conservation Priority"
        author="Kristan M. Hanson"
-       source-image="nepenthese_illustrationhorticole_1882.jpg"
-       banner="ephgraphTrochi2Goul&itemPath=%2F12%2Fitems%2FmonographTrochi2Goul&server=ia800500.us.archive.org&page=n285_w1713"
-       banner="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/428.0550928891736,553.1346957733396,2234.3561819346573,1347.914537854157/!1102,665/0/defaultnepenthese_illustrationhorticole_1882.jpg.jpges_ilttioortioe82.pg"
+       source-image="https://www.biodiversitylibrary.org/item/53838#page/149/mode/1up"
+       banner="https://ia800502.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364195&itemPath=%2F0%2Fitems%2Fmobot31753002364195&server=ia800502.us.archive.org&page=n148_w2890"
        layout="vtl">
 
 ### A Giant among Us
