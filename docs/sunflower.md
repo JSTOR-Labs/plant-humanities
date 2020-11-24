@@ -49,7 +49,7 @@ In the late fifteenth and sixteenth centuries, Europeans were eager to collect p
 <param ve-entity eid="Q5189819" title="cruciform">
 <param ve-entity eid="Q462437" title="composition">
 <param ve-entity eid="Q63540903" title="focal point">
-Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. Besler was commissioned by Prince Bishop of Eichstätt to oversee the creation of a florilegium, entitled [Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908) (1613), documenting the foreign flowers grown in his garden in Eichstätt, Bavaria. A team of artists, etchers, printmakers, and colorists, hired by Besler, produced this hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_ and many other [prints using the same metal plate](https://www.metmuseum.org/about-the-met/curatorial-departments/drawings-and-prints/materials-and-techniques/printmaking/engraving), though not all of them were hand-colored.[^ref5] This sumptuous portrait depicts the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
+Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. Besler was commissioned by Prince Bishop of Eichstätt to oversee the creation of a florilegium, entitled _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613), documenting the foreign flowers grown in his garden in Eichstätt, Bavaria. A team of artists, etchers, printmakers, and colorists, hired by Besler, produced this hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_ and many other [prints using the same metal plate](https://www.metmuseum.org/about-the-met/curatorial-departments/drawings-and-prints/materials-and-techniques/printmaking/engraving), though not all of them were hand-colored.[^ref5] This sumptuous portrait depicts the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
 that anticipates modern visual stereotypes for the plant, perhaps best epitomized by this emoji.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
@@ -212,11 +212,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDI2MzEzNCw4NTMyOTA1NTksLTE2Mj
-E2MjM3MzMsLTE5Nzc5NTk1MiwxODUyNjIyNTIwLC0xNzQ4OTMw
-MDYxLC0xNzYzMjcxNjM2LDk2NDExMjA4NCwtMTgxNzUzOTAyLC
-03NzY2ODczNCwtNDIxNDUyNTc5LDUyNTQ4MzkwMCwxOTc3ODU1
-NTYzLC0xNTY5ODM2ODkwLDMzOTIxNTE1MiwtMTgyMzY0ODA0Mi
-w1NjY3NTY5MTIsMTQyMzEwMjM2NCwxNzA5NjM4NDc1LDExMjQy
-MTQ0NTJdfQ==
+eyJoaXN0b3J5IjpbNzQ0ODQ2NTE2LDg1MzI5MDU1OSwtMTYyMT
+YyMzczMywtMTk3Nzk1OTUyLDE4NTI2MjI1MjAsLTE3NDg5MzAw
+NjEsLTE3NjMyNzE2MzYsOTY0MTEyMDg0LC0xODE3NTM5MDIsLT
+c3NjY4NzM0LC00MjE0NTI1NzksNTI1NDgzOTAwLDE5Nzc4NTU1
+NjMsLTE1Njk4MzY4OTAsMzM5MjE1MTUyLC0xODIzNjQ4MDQyLD
+U2Njc1NjkxMiwxNDIzMTAyMzY0LDE3MDk2Mzg0NzUsMTEyNDIx
+NDQ1Ml19
 -->
