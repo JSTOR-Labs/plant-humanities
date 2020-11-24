@@ -141,7 +141,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life">
 <param ve-entity eid="Q48292" title="Artles">
-In this radiant portrait of sunflowers, Vincent van Gogh explores the expressive capacity of the color yellow. He uses that hue to depict a humble earthenware vessel and its contents: a dozen or so sunflowers. These ocher, mustard, and dusty orange blooms also pulsate against a buttercream wall. They represent a mix of _Helianthus annuus_ and a double-flower mutant, now known as "teddy bear." In contrast to the full round double-flowers, two common sunflowers, at top left and center, have shed ray florets and started to wilt. The emphatic yellow palette of _Sunflowers_ lends formal significance to the work, though it accrues additional meaning when we consider that Van Gogh produced the picture while living in Arles during the summer months.[^ref21] There, energized by the warm light of southern France, Van Gogh found a renewed sense of purpose and made prepartions for establishing an artist's colony with his friend and fellow painter Paul Gauguin. In preparation for Gauguin's arrival, Van Gogh painted the exterior of his house yellow and decorated the walls of what would become Gauguin's room with this and another sunflower painting, among other pictures. The way that the gold tones of _Sunflowers_ harmonize two distinct types of flowers invites us to read the work as a double-portrait of the two artists, who espoused different beliefs about the source of their artistic visions, finding a common ground.
+In this radiant portrait of sunflowers, Vincent van Gogh explores the expressive capacity of the color yellow. He uses that hue to depict a humble earthenware vessel and its contents: a dozen or so sunflowers. These ocher, mustard, and dusty orange blooms also pulsate against a buttercream wall. They represent a mix of _Helianthus annuus_ and a double-flower mutant, now known as "teddy bear." In contrast to the full round double-flowers, two common sunflowers, at top left and center, have shed ray florets and started to wilt. The emphatic yellow palette of _Sunflowers_ lends formal significance to the work, though it accrues additional meaning when we consider that Van Gogh produced the picture while living in Arles during the summer months.[^ref21] There, energized by the warm light of southern France, Van Gogh found a renewed sense of purpose and made prepartions for establishing an artist's colony with his friend and fellow painter Paul Gauguin. In preparation for Gauguin's arrival, Van Gogh painted the exterior of his house yellow and decorated the walls of what would become Gauguin's room with this and another sunflower painting, among other pictures. The way that the gold tones of _Sunflowers_ harmonize two distinct types of flowers invites us to read the work as a double-portrait of the two artists, who espoused different beliefs about the source of their artistic visions, finding a common ground, that of the canvas and the soil, on which to work.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
 
@@ -222,11 +222,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI0ODI5ODUsMzIzMjc1NTk4LC05NT
-AyNTcyNjQsLTE2MjYzMDQ0MjEsODc5OTcyMzkxLDIwOTQ4MzQ3
-MDksNzk2OTgxODEwLDE4MTIwMDMyMDAsOTMwNjc4MjU3LDM4NT
-A1NjgyOSwxMDE2NDY5ODA3LDk0NDQ3ODcyOSwtNTA3MDgwMjA2
-LDg1MzI5MDU1OSwtMTYyMTYyMzczMywtMTk3Nzk1OTUyLDE4NT
-I2MjI1MjAsLTE3NDg5MzAwNjEsLTE3NjMyNzE2MzYsOTY0MTEy
-MDg0XX0=
+eyJoaXN0b3J5IjpbLTI4MTY0NTI0NSwzMjMyNzU1OTgsLTk1MD
+I1NzI2NCwtMTYyNjMwNDQyMSw4Nzk5NzIzOTEsMjA5NDgzNDcw
+OSw3OTY5ODE4MTAsMTgxMjAwMzIwMCw5MzA2NzgyNTcsMzg1MD
+U2ODI5LDEwMTY0Njk4MDcsOTQ0NDc4NzI5LC01MDcwODAyMDYs
+ODUzMjkwNTU5LC0xNjIxNjIzNzMzLC0xOTc3OTU5NTIsMTg1Mj
+YyMjUyMCwtMTc0ODkzMDA2MSwtMTc2MzI3MTYzNiw5NjQxMTIw
+ODRdfQ==
 -->
