@@ -139,7 +139,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life">
 <param ve-entity eid="Q48292" title="Artles">
-In this still life, Vincent van Gogh explores the expressive capacity of floral forms and the color yellow by showing an arrangement of more than a dozen sunflowers against a buttery ground. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that the plants were harvested at different stages of their life cycle. Two _Helianthus annuus_ flowers, at top left and center, have shed ray florets and started to wilt, whereas many of their counterparts—a double-flower mutant now known as "teddy bear"—are still vigorous. Van Gogh painted this and six other depictions of sunflowers in the summer of 1888, after relocating to Arles, France, in the wintertime.[^ref21] Energized by the warm light of the Provençial spring and summer, Van Gogh brought a renewed vigor to his art and, in the case of this painting, took inspiration from the visual qualities of the sun-shaped flowers and his memories of observing the seasons
+In this still life, Vincent van Gogh explores the expressive capacity of floral forms and the color yellow by showing an arrangement of more than a dozen sunflowers against a buttery ground. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that the plants were harvested at different stages of their life cycle. Two _Helianthus annuus_ flowers, at top left and center, have shed ray florets and started to wilt, whereas many of their counterparts—a double-flower mutant now known as "teddy bear"—are still vigorous. Van Gogh painted this and six other depictions of sunflowers in the summer of 1888, after relocating to Arles, France, in the wintertime.[^ref21] Energized by the warm light of the Provençial spring and summer, Van Gogh brought a renewed vigor to his art and, in the case of this painting, took inspiration from the visual qualities of the sun-shaped flowers and his memories of observing them grow and bloom over the course of the seasons.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
 
@@ -220,7 +220,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjA3NjQwMyw2NDE1MTIwNDAsLTY5OT
+eyJoaXN0b3J5IjpbLTExMzk0MTk5Myw2NDE1MTIwNDAsLTY5OT
 I4MzY0Miw3MjEyNjgxMCwtNTc1MjIzODI4LDE3Njk4NTAzNDYs
 MTM1MDQ5ODYwNCwxNzAxMzA0NTkzLC0zMjU3NzY4OTgsMTI5NT
 M5MzgyLDYxMzAwNDc3NywtMTk0NTc0MjQwMiw1OTc4OTIwNjAs
