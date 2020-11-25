@@ -142,8 +142,6 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 In this still life, Vincent van Gogh explores the expressive capacity of floral forms and the color yellow by showing an arrangement of more than a dozen sunflowers. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that the plants were harvested at different stages of their life cycle. Two _Helianthus annuus_ flowers, at top left and center, have shed ray florets and produced seeds, whereas their counterparts—a double-flower mutant now known as "teddy bear"—are still vigorous. Van Gogh painted this and six other depictions of sunflowers in the summer of 1888, after relocating to Arles, France, in February.[^ref21] Energized by the warm light of the Provençial spring and summer, Van Gogh brought a renewed vigor to his painting practice and, as manifest in this work, his aristic engagements with plants that bloomed locally. 
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
-<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_vangogh_yellow_house_VGM.jpg" title="Vincent van Gogh, _The Yellow House (The Street)_, 1888, Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)">
-<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Gauguin_portrait_VGM.jpg" title="Paul Gauguin, _Vincent van Gogh Painting Sunflowers_, 1888, Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)">
 
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
@@ -222,11 +220,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjE4NTQzNCwtNjk5MjgzNjQyLDcyMT
-I2ODEwLC01NzUyMjM4MjgsMTc2OTg1MDM0NiwxMzUwNDk4NjA0
-LDE3MDEzMDQ1OTMsLTMyNTc3Njg5OCwxMjk1MzkzODIsNjEzMD
-A0Nzc3LC0xOTQ1NzQyNDAyLDU5Nzg5MjA2MCw4OTY5Mjk5Nzks
-MTc4MjIyNjg1NiwtNjA1NzkzMDczLDEyOTM4NjQ0NywtMTk2MD
-g0MjIwOSwyMTQyMjQ0NDY1LDk3NzY5MTU2LC0yOTU4Mjc3NDNd
-fQ==
+eyJoaXN0b3J5IjpbNjQxNTEyMDQwLC02OTkyODM2NDIsNzIxMj
+Y4MTAsLTU3NTIyMzgyOCwxNzY5ODUwMzQ2LDEzNTA0OTg2MDQs
+MTcwMTMwNDU5MywtMzI1Nzc2ODk4LDEyOTUzOTM4Miw2MTMwMD
+Q3NzcsLTE5NDU3NDI0MDIsNTk3ODkyMDYwLDg5NjkyOTk3OSwx
+NzgyMjI2ODU2LC02MDU3OTMwNzMsMTI5Mzg2NDQ3LC0xOTYwOD
+QyMjA5LDIxNDIyNDQ0NjUsOTc3NjkxNTYsLTI5NTgyNzc0M119
+
 -->
