@@ -218,7 +218,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref21]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," in _Van Gogh's Sunflowers Illuminated: Art Meets Science_, eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
 
-[^ref22]: Debora Silverman, _Van Gogh and Gauguin: the search for sacred art_, 2000.
+[^ref22]: Debora Silverman, _Van Gogh and Gauguin: The Search for Sacred Art_, 2000.
 
 [^ref23]: Hopi sunflower CITATION.
 
@@ -226,11 +226,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTY1NDMyOSwtMjkyMTc1MTgsMTQxMj
-E2NTIyMiwtNjYzMjM0NzUxLC0xNzA2Mzc1NzE1LC02Nzk3OTMx
-MTEsMjExMjcwMzg4MSw0NzM4MDkyNDEsMTAzNTQ0NjcwMCwtND
-U2NDI0NTExLC0yMDMwNjYwMjQ4LDMyMzI3NTU5OCwtOTUwMjU3
-MjY0LC0xNjI2MzA0NDIxLDg3OTk3MjM5MSwyMDk0ODM0NzA5LD
-c5Njk4MTgxMCwxODEyMDAzMjAwLDkzMDY3ODI1NywzODUwNTY4
-MjldfQ==
+eyJoaXN0b3J5IjpbNTcxNjQ3MywtMjkyMTc1MTgsMTQxMjE2NT
+IyMiwtNjYzMjM0NzUxLC0xNzA2Mzc1NzE1LC02Nzk3OTMxMTEs
+MjExMjcwMzg4MSw0NzM4MDkyNDEsMTAzNTQ0NjcwMCwtNDU2ND
+I0NTExLC0yMDMwNjYwMjQ4LDMyMzI3NTU5OCwtOTUwMjU3MjY0
+LC0xNjI2MzA0NDIxLDg3OTk3MjM5MSwyMDk0ODM0NzA5LDc5Nj
+k4MTgxMCwxODEyMDAzMjAwLDkzMDY3ODI1NywzODUwNTY4Mjld
+fQ==
 -->
