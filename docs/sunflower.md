@@ -139,7 +139,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life">
 <param ve-entity eid="Q48292" title="Artles">
-In this still life, Vincent van Gogh explores the expressive capacity of floral forms and the color yellow by showing an arrangement of more than a dozen sunflowers against a buttery ground. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that two different types of _Helianthus annuus_ are portrayed here and that they were harvested at different stages of their life cycles. Domesticated sunflowers, at top left and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety, known as the "Teddy Bear," with a gene mutation—are still vibrant.[^ref21] Van Gogh painted this and six other depictions of sunflowers in the summer of 1888, after relocating to Arles, France, the previous winter.[^ref22] Energized by the warm and bright light of the Provençial spring and summer, Van Gogh brought a renewed vigor to his art and, in the case of this picture, took inspiration from the visual qualities of mature flowers and his observation of them growing and blooming throughout the warm months.
+In this still life, Vincent van Gogh explores the expressive capacity of floral forms and the color yellow by showing an arrangement of more than a dozen sunflowers against a buttery ground. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that two different types of _Helianthus annuus_ are portrayed here and that they were harvested at different stages of their life cycles. Domesticated sunflowers, at top left and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety, known as the "Teddy Bear," with a gene mutation—are still vibrant.[^ref21] Van Gogh painted this and six other depictions of sunflowers in the summer of 1888, after relocating to Arles, France, the previous winter.[^ref22] Energized by the warm and bright light of the Provençial spring and summer, Van Gogh brought a renewed vigor to his art and, in the case of this picture, took inspiration from the visual aqualities of mature flowers and his observation of them growing and blooming throughout the warm months.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
 
@@ -222,11 +222,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1NjgyNjEyLC03NDMzMTIzNTEsNzQ5ND
-YxMDg2LC0yMTQyOTk3LC05NzQwMDQ0NDEsNzI3MDIxOTUyLC04
-ODY0NjcyMjUsLTc3ODc5MDYwLC0xNzg3NDMyNjQ3LC0xMTM5ND
-E5OTMsNjQxNTEyMDQwLC02OTkyODM2NDIsNzIxMjY4MTAsLTU3
-NTIyMzgyOCwxNzY5ODUwMzQ2LDEzNTA0OTg2MDQsMTcwMTMwND
-U5MywtMzI1Nzc2ODk4LDEyOTUzOTM4Miw2MTMwMDQ3NzddfQ==
+eyJoaXN0b3J5IjpbMTAwNjYxNTk0NywtNzQzMzEyMzUxLDc0OT
+Q2MTA4NiwtMjE0Mjk5NywtOTc0MDA0NDQxLDcyNzAyMTk1Miwt
+ODg2NDY3MjI1LC03Nzg3OTA2MCwtMTc4NzQzMjY0NywtMTEzOT
+QxOTkzLDY0MTUxMjA0MCwtNjk5MjgzNjQyLDcyMTI2ODEwLC01
+NzUyMjM4MjgsMTc2OTg1MDM0NiwxMzUwNDk4NjA0LDE3MDEzMD
+Q1OTMsLTMyNTc3Njg5OCwxMjk1MzkzODIsNjEzMDA0Nzc3XX0=
 
 -->
