@@ -139,7 +139,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life">
 <param ve-entity eid="Q48292" title="Artles">
-In this still life, Vincent van Gogh explores the expressive capacity of the color yellow through his depiction of an earthenware vessel containing more than a dozen sunflowers. Their radiant ocher, mustard, and dusty orange flower heads are shown at different stages of growth. Two common sunflowers, at top left and center, have shed ray florets and started to wilt, whereas their counterparts—double-flower _Helianthus annuus_ now known as a "teddy bear"—remain vigorous. Although the disparately shaped blossoms and harmonious gold palette of _Sunflowers_ lend formal significance to the painting, they accrue additional meanings when we consider that Van Gogh produced it while living in Arles in 1888.[^ref21] Energized by the warm light of southern France, Van Gogh found a renewed sense of purpose that he brought to his encounters with sunflowers and preparations for establishing an artist's colony there. To welcome his friend and fellow painter Paul Gauguin, Van Gogh had the exterior of his house painted yellow and decorated the walls of Gauguin's bedroom with this and other paintings. In light of these circumstances, _Sunflowers_ as a metaphorical double-portrait of the artist and Gauguin, who were know to disagree about their artistic visions, finding a common ground on which to work.[^ref22]
+In this still life, Vincent van Gogh explores the expressive capacity of the color yellow through his depiction of an earthenware vessel containing more than a dozen sunflowers. Their radiant ocher, mustard, and dusty orange flower heads are shown at different stages of growth. Two common sunflowers, at top left and center, have shed ray florets and started to wilt, whereas their counterparts—double-flower _Helianthus annuus_ now known as a "teddy bear"—remain vigorous. Although the disparately shaped blossoms and harmonious gold palette of _Sunflowers_ lend formal significance to the painting, they accrue additional meanings when we consider that Van Gogh produced it while living in Arles in 1888.[^ref21] Energized by the warm light of southern France, Van Gogh found a renewed sense of purpose that he brought to his encounters with sunflowers and preparations for establishing an artist's colony there. To welcome his friend and fellow painter Paul Gauguin, Van Gogh had the exterior of his house painted yellow and decorated the walls of Gauguin's bedroom with this and other paintings. In light of these circumstances, we may read _Sunflowers_ as a metaphorical double-portrait of the artist and Gauguin, who disagreed about their artistic visions, finding a common ground on which to work.[^ref22]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_vangogh_yellow_house_VGM.jpg" title="Vincent van Gogh, _The Yellow House (The Street)_, 1888, Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)">
@@ -224,11 +224,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODg3OTA0MCw4OTY5Mjk5NzksMTc4Mj
-IyNjg1NiwtNjA1NzkzMDczLDEyOTM4NjQ0NywtMTk2MDg0MjIw
-OSwyMTQyMjQ0NDY1LDk3NzY5MTU2LC0yOTU4Mjc3NDMsLTI5Mj
-E3NTE4LDE0MTIxNjUyMjIsLTY2MzIzNDc1MSwtMTcwNjM3NTcx
-NSwtNjc5NzkzMTExLDIxMTI3MDM4ODEsNDczODA5MjQxLDEwMz
-U0NDY3MDAsLTQ1NjQyNDUxMSwtMjAzMDY2MDI0OCwzMjMyNzU1
-OThdfQ==
+eyJoaXN0b3J5IjpbNTk3ODkyMDYwLDg5NjkyOTk3OSwxNzgyMj
+I2ODU2LC02MDU3OTMwNzMsMTI5Mzg2NDQ3LC0xOTYwODQyMjA5
+LDIxNDIyNDQ0NjUsOTc3NjkxNTYsLTI5NTgyNzc0MywtMjkyMT
+c1MTgsMTQxMjE2NTIyMiwtNjYzMjM0NzUxLC0xNzA2Mzc1NzE1
+LC02Nzk3OTMxMTEsMjExMjcwMzg4MSw0NzM4MDkyNDEsMTAzNT
+Q0NjcwMCwtNDU2NDI0NTExLC0yMDMwNjYwMjQ4LDMyMzI3NTU5
+OF19
 -->
