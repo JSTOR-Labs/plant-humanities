@@ -141,7 +141,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life">
 <param ve-entity eid="Q48292" title="Artles">
-In this still life, Vincent van Gogh explores the expressive capacity of the color yellow through his depiction of a humble earthenware vessel and its contents: sunflowers. These radiant ocher, mustard, and dusty orange blooms pulsate against a buttercream ground. The full round heads of double-flower mutants, a type of _Helianthus annuus_ now known as a "teddy bear," also poignantly contrast with those of two common sunflowers, at top left and center, that have shed ray florets and started to wilt. Although the emphatic yellow palette and disparately shaped blossoms in _Sunflowers_ lend formal significance to the work, they accrue additional meanings when we consider that Van Gogh produced the picture while living in Arles in the summer of 1888.[^ref21] Energized by the warm light of southern France, Van Gogh found a renewed sense of purpose that he brought to his encounters with flowers and his preparations for establishing an artist's colony there. To welcome his friend and fellow painter Paul Gauguin, Van Gogh had the exterior of his house painted yellow and decorated the walls of what would become Gauguin's room with this and other paintings of his own making. In light of those circumstances, we may read _Sunflowers_ as a metaphorical double-portrait of the artist and Gauguin, who were know to disagree about their artistic visions, finding a common ground on which to work.
+In this still life, Vincent van Gogh explores the expressive capacity of the color yellow through his depiction of a humble earthenware vessel and its contents: sunflowers. These radiant ocher, mustard, and dusty orange blooms pulsate against a buttercream ground. The full round heads of double-flower mutants, a type of _Helianthus annuus_ now known as a "teddy bear," also poignantly contrast with those of two common sunflowers, at top left and center, that have shed ray florets and started to wilt. Although the emphatic yellow palette and disparately shaped blossoms in _Sunflowers_ lend formal significance to the work, they accrue additional meanings when we consider that Van Gogh produced the picture while living in Arles in the summer of 1888.[^ref21] Energized by the warm light of southern France, Van Gogh found a renewed sense of purpose that he brought to his encounters with flowers and his preparations for establishing an artist's colony there. To welcome his friend and fellow painter Paul Gauguin, Van Gogh had the exterior of his house painted yellow and decorated the walls of what would become Gauguin's room with this and other paintings of his own making. In light of those circumstances, we may read _Sunflowers_ as a metaphorical double-portrait of the artist and Gauguin, who were know to disagree about their artistic visions, finding a common ground on which to work.[^ref22]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
 
@@ -159,7 +159,7 @@ their color can range from gold to orange to red to dark purple and even an unex
 <param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
 <param ve-entity eid="Q14524280" title="husk">
 <param ve-entity eid="Q40763" title="seed">
-Sunflower seeds also exhibit variations in size, color, and markings. Whole seeds–comprised of a kernel and a husk–can be solid black or gray, and have a stripe pattern. The Hopi tribe of Native Americans have cultivated sunflowers with deep purple seeds, that appear black and shiny, in the southwest for hundreds of years. They use these seeds to produce dark blue or purple dyes for coloring wools and natural fibers that are in turn used to make [weavings and baskets.](https://scalar.usc.edu/works/american-indian-film-archive/hopi-arts-and-crafts?path=hopi-southwest-indians) The processes of cultivating, harvesting, and boiling seeds to produce dye for basketry are exaples of a rich tradition of tribal plant knowledge that is interwoven with cultural and spiritual beliefs. Indigenous peoples of North America also use(d) sunflowers in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially.[^ref22]
+Sunflower seeds also exhibit variations in size, color, and markings. Whole seeds–comprised of a kernel and a husk–can be solid black or gray, and have a stripe pattern. The Hopi tribe of Native Americans have cultivated sunflowers with deep purple seeds, that appear black and shiny, in the southwest for hundreds of years. They use these seeds to produce dark blue or purple dyes for coloring wools and natural fibers that are in turn used to make [weavings and baskets.](https://scalar.usc.edu/works/american-indian-film-archive/hopi-arts-and-crafts?path=hopi-southwest-indians) The processes of cultivating, harvesting, and boiling seeds to produce dye for basketry are exaples of a rich tradition of tribal plant knowledge that is interwoven with cultural and spiritual beliefs. Indigenous peoples of North America also use(d) sunflowers in a variety of ways including as a source of food, fuel, pigment, dye, and medicine, as well as ceremonially.[^ref23]
 <param ve-image fit="contain" primary url="https://www.human.cornell.edu/sites/default/files/styles/landscape_1600x900/public/helianthus-annuus-1.jpg?itok=5KVpk_8q" title="Hopi Sunflower _Helianthus Annuus_, seeds produce blue, black, and purple dye and the leaves give a range of yellow to green, College of Human Ecology, Cornell University">
 
 ### Gone to Seed
@@ -222,11 +222,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzIzNDc1MSwtMTcwNjM3NTcxNSwtNj
-c5NzkzMTExLDIxMTI3MDM4ODEsNDczODA5MjQxLDEwMzU0NDY3
-MDAsLTQ1NjQyNDUxMSwtMjAzMDY2MDI0OCwzMjMyNzU1OTgsLT
-k1MDI1NzI2NCwtMTYyNjMwNDQyMSw4Nzk5NzIzOTEsMjA5NDgz
-NDcwOSw3OTY5ODE4MTAsMTgxMjAwMzIwMCw5MzA2NzgyNTcsMz
-g1MDU2ODI5LDEwMTY0Njk4MDcsOTQ0NDc4NzI5LC01MDcwODAy
-MDZdfQ==
+eyJoaXN0b3J5IjpbLTM5Nzc0MDU4NywtNjYzMjM0NzUxLC0xNz
+A2Mzc1NzE1LC02Nzk3OTMxMTEsMjExMjcwMzg4MSw0NzM4MDky
+NDEsMTAzNTQ0NjcwMCwtNDU2NDI0NTExLC0yMDMwNjYwMjQ4LD
+MyMzI3NTU5OCwtOTUwMjU3MjY0LC0xNjI2MzA0NDIxLDg3OTk3
+MjM5MSwyMDk0ODM0NzA5LDc5Njk4MTgxMCwxODEyMDAzMjAwLD
+kzMDY3ODI1NywzODUwNTY4MjksMTAxNjQ2OTgwNyw5NDQ0Nzg3
+MjldfQ==
 -->
