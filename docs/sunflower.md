@@ -139,7 +139,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life">
 <param ve-entity eid="Q48292" title="Artles">
-In this still life, Vincent van Gogh explores the expressive capacity of floral forms and the color yellow by showing an arrangement of more than a dozen sunflowers against a buttery ground. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that the plants were harvested at different stages of their life cycle. Two _Helianthus annuus_ flowers, at top left and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flower mutant now known as "[teddy bear](https://blogs.scientificamerican.com/observations/van-goghs-sunflowers-were-genetic-mutants/)"—are still vigorous. Van Gogh painted this and six other depictions of sunflowers in the summer of 1888, after relocating to Arles, France, the previous winter.[^ref21] Energized by the warm and bright light of the Provençial spring and summer, Van Gogh brought a renewed vigor to his art and, in the case of this picture, took inspiration from the visual qualities of mature flowers and his observations of them growing during the warm months.
+In this still life, Vincent van Gogh explores the expressive capacity of floral forms and the color yellow by showing an arrangement of more than a dozen sunflowers against a buttery ground. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that the plants were harvested at different stages of their life cycle. Two _Helianthus annuus_ flowers, at top left and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flower mutant now known as "Teddy Bear"—are still vigorous.[^ref21] Van Gogh painted this and six other depictions of sunflowers in the summer of 1888, after relocating to Arles, France, the previous winter.[^ref22] Energized by the warm and bright light of the Provençial spring and summer, Van Gogh brought a renewed vigor to his art and, in the case of this picture, took inspiration from the visual qualities of mature flowers and his observation of them growing and blooming throughout the warm months.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
 
@@ -157,7 +157,7 @@ their color can range from gold to orange to red to dark purple and even an unex
 <param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
 <param ve-entity eid="Q14524280" title="husk">
 <param ve-entity eid="Q40763" title="seed">
-Sunflower seeds also exhibit variations in size, color, and markings. Whole seeds–comprised of a kernel and a husk–can be solid black or gray, and have a stripe pattern. The Hopi tribe of Native Americans have cultivated sunflowers with deep purple seeds, that appear black and shiny, in the southwest for hundreds of years.[^ref22] They use these seeds to produce dark blue or purple dyes for coloring wools and vegetal fibers that are in turn used to make [weavings or baskets](https://scalar.usc.edu/works/american-indian-film-archive/hopi-arts-and-crafts?path=hopi-southwest-indians). The processes of cultivating, harvesting, and boiling seeds to produce dye for basketry are examples of a rich tradition of tribal plant knowledge that is interwoven with cultural and spiritual beliefs. Indigenous peoples of North America also [use(d) sunflowers in a variety of ways](http://naeb.brit.org/uses/search/?string=sunflower) including as a source of food, fuel, pigment, and medicine, as well as ceremonially.
+Sunflower seeds also exhibit variations in size, color, and markings. Whole seeds–comprised of a kernel and a husk–can be solid black or gray, and have a stripe pattern. The Hopi tribe of Native Americans have cultivated sunflowers with deep purple seeds, that appear black and shiny, in the southwest for hundreds of years.[^ref23] They use these seeds to produce dark blue or purple dyes for coloring wools and vegetal fibers that are in turn used to make [weavings or baskets](https://scalar.usc.edu/works/american-indian-film-archive/hopi-arts-and-crafts?path=hopi-southwest-indians). The processes of cultivating, harvesting, and boiling seeds to produce dye for basketry are examples of a rich tradition of tribal plant knowledge that is interwoven with cultural and spiritual beliefs. Indigenous peoples of North America also [use(d) sunflowers in a variety of ways](http://naeb.brit.org/uses/search/?string=sunflower) including as a source of food, fuel, pigment, and medicine, as well as ceremonially.
 <param ve-image fit="contain" primary url="https://www.human.cornell.edu/sites/default/files/styles/landscape_1600x900/public/helianthus-annuus-1.jpg?itok=5KVpk_8q" title="Hopi Sunflower _Helianthus Annuus_, seeds produce blue, black, and purple dye and the leaves give a range of yellow to green, College of Human Ecology, Cornell University">
 
 ### Gone to Seed
@@ -220,11 +220,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODc5MDYwLC0xNzg3NDMyNjQ3LC0xMT
-M5NDE5OTMsNjQxNTEyMDQwLC02OTkyODM2NDIsNzIxMjY4MTAs
-LTU3NTIyMzgyOCwxNzY5ODUwMzQ2LDEzNTA0OTg2MDQsMTcwMT
-MwNDU5MywtMzI1Nzc2ODk4LDEyOTUzOTM4Miw2MTMwMDQ3Nzcs
-LTE5NDU3NDI0MDIsNTk3ODkyMDYwLDg5NjkyOTk3OSwxNzgyMj
-I2ODU2LC02MDU3OTMwNzMsMTI5Mzg2NDQ3LC0xOTYwODQyMjA5
-XX0=
+eyJoaXN0b3J5IjpbMTQxNDA0MjI3MiwtNzc4NzkwNjAsLTE3OD
+c0MzI2NDcsLTExMzk0MTk5Myw2NDE1MTIwNDAsLTY5OTI4MzY0
+Miw3MjEyNjgxMCwtNTc1MjIzODI4LDE3Njk4NTAzNDYsMTM1MD
+Q5ODYwNCwxNzAxMzA0NTkzLC0zMjU3NzY4OTgsMTI5NTM5Mzgy
+LDYxMzAwNDc3NywtMTk0NTc0MjQwMiw1OTc4OTIwNjAsODk2OT
+I5OTc5LDE3ODIyMjY4NTYsLTYwNTc5MzA3MywxMjkzODY0NDdd
+fQ==
 -->
