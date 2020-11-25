@@ -139,7 +139,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life">
 <param ve-entity eid="Q48292" title="Artles">
-In this still life, Vincent van Gogh explores the expressive capacity of floral forms and the color yellow by showing an arrangement of more than a dozen sunflowers. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that the plants were harvested at different stages of growth. Two _Helianthus annuus_ flowers, at top left and center, have shed ray florets and started to wilt, whereas their counterparts—a double-flower mutant now known as "teddy bear"—remain vigorous. Although the floral motifs and gold palette of _Sunflowers_ lend formal significance to the painting, they accrue additional meanings when we consider that Van Gogh produced the work while living in Arles.[^ref21] Energized by the warm light of southern France, he found a renewed sense of purpose that he brought to his painterly encounters with locally grown sunflowers and his efforts to establish an artist's colony there.
+In this still life, Vincent van Gogh explores the expressive capacity of floral forms and the color yellow by showing an arrangement of more than a dozen sunflowers. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that the plants were harvested at different stages of growth. Two _Helianthus annuus_ flowers, at top left and center, have shed ray florets and started to wilt, whereas their counterparts—a double-flower mutant now known as "teddy bear"—remain vigorous. Although the floral motifs and gold palette of _Sunflowers_ lend formal significance to the painting, they accrue additional meanings when we consider that Van Gogh produced the work shortly after moving to Arles in the summer of 1888.[^ref21] Energized by the warm light of southern France, he found a renewed sense of purpose that he brought to his painterly encounters with this plant and his efforts to establish an artist's colony there.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_vangogh_yellow_house_VGM.jpg" title="To welcome Paul Gauguin, Van Gogh had the exterior of his house painted yellow and decorated the walls of Gauguin's bedroom with paintings of sunflowers and other artworks.Vincent van Gogh, _The Yellow House (The Street)_, 1888, Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)">
@@ -224,11 +224,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDQ5ODYwNCwxNzAxMzA0NTkzLC0zMj
-U3NzY4OTgsMTI5NTM5MzgyLDYxMzAwNDc3NywtMTk0NTc0MjQw
-Miw1OTc4OTIwNjAsODk2OTI5OTc5LDE3ODIyMjY4NTYsLTYwNT
-c5MzA3MywxMjkzODY0NDcsLTE5NjA4NDIyMDksMjE0MjI0NDQ2
-NSw5Nzc2OTE1NiwtMjk1ODI3NzQzLC0yOTIxNzUxOCwxNDEyMT
-Y1MjIyLC02NjMyMzQ3NTEsLTE3MDYzNzU3MTUsLTY3OTc5MzEx
-MV19
+eyJoaXN0b3J5IjpbMTc2OTg1MDM0NiwxMzUwNDk4NjA0LDE3MD
+EzMDQ1OTMsLTMyNTc3Njg5OCwxMjk1MzkzODIsNjEzMDA0Nzc3
+LC0xOTQ1NzQyNDAyLDU5Nzg5MjA2MCw4OTY5Mjk5NzksMTc4Mj
+IyNjg1NiwtNjA1NzkzMDczLDEyOTM4NjQ0NywtMTk2MDg0MjIw
+OSwyMTQyMjQ0NDY1LDk3NzY5MTU2LC0yOTU4Mjc3NDMsLTI5Mj
+E3NTE4LDE0MTIxNjUyMjIsLTY2MzIzNDc1MSwtMTcwNjM3NTcx
+NV19
 -->
