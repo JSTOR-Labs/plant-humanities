@@ -100,7 +100,7 @@ By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
 <param ve-entity eid="Q1229071" title="motif">
-Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant's heliotropic phase recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun-god Helios.[^ref17] According to the story, Clytie competed unsuccessfully for Helios's affections. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, wholly consumed with the act of gazing upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, so-named for its flowers' movement toward the sun's rays. Yet, as this print shows, some European artists, particularly those active in the sixteenth and seventeenth centuries, reinterpreted the narrative by recasting that flora as a sunflower.[^ref18] That break with conventions demonstrates the fashionability of the sunflower as a motif, and the degree to which it was entangled not only with beliefs about the flower's formal resemblance to the sun but also with misconceptions about the mature plant being heliotropic. Even today, the myth is enmeshed with the sunflower and transformation: Elizabeth Colomba's watercolor casts a black woman as Clytie, claiming a space for the black body within visual codes for representing mythological narratives that have been conventionally reserved for white ones and synonmous with Western standards of beauty.
+Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant's heliotropic phase recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun-god Helios.[^ref17] According to the story, Clytie competed unsuccessfully for Helios's affections. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, wholly consumed with the act of gazing upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, so-named for its flowers' movement toward the sun's rays. Yet, as this print shows, some European artists, particularly those active in the sixteenth and seventeenth centuries, reinterpreted the narrative by recasting that flora as a sunflower.[^ref18] That break with conventions demonstrates the fashionability of the sunflower as a motif, and the degree to which it was entangled not only with beliefs about the flower's formal resemblance to the sun but also with misconceptions about the mature plant being heliotropic. Even today, the myth is enmeshed with the sunflower and transformation. Elizabeth Colomba's watercolor casts a black woman as Clytie, claiming a space for the black body within visual codes for representing mythological narratives that have been conventionally reserved for white ones and synonmous with Western standards of beauty.
 <param ve-image compare fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 <param ve-image fit="contain" url="https://puam-loris.aws.princeton.edu/loris/PUAMSTU_E_2017_53341.jp2/full/!650,650/0/default.jpg" title="Elizabeth Colomba, _Clytie_, 2008, Princeton University Art Museum, © Elizabeth Colomba / Artists Rights Society (ARS), New York">
 
@@ -226,11 +226,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwNjk1OTMzLDk3NzY5MTU2LC0yOTU4Mj
-c3NDMsLTI5MjE3NTE4LDE0MTIxNjUyMjIsLTY2MzIzNDc1MSwt
-MTcwNjM3NTcxNSwtNjc5NzkzMTExLDIxMTI3MDM4ODEsNDczOD
-A5MjQxLDEwMzU0NDY3MDAsLTQ1NjQyNDUxMSwtMjAzMDY2MDI0
-OCwzMjMyNzU1OTgsLTk1MDI1NzI2NCwtMTYyNjMwNDQyMSw4Nz
-k5NzIzOTEsMjA5NDgzNDcwOSw3OTY5ODE4MTAsMTgxMjAwMzIw
-MF19
+eyJoaXN0b3J5IjpbMjE0MjI0NDQ2NSw5Nzc2OTE1NiwtMjk1OD
+I3NzQzLC0yOTIxNzUxOCwxNDEyMTY1MjIyLC02NjMyMzQ3NTEs
+LTE3MDYzNzU3MTUsLTY3OTc5MzExMSwyMTEyNzAzODgxLDQ3Mz
+gwOTI0MSwxMDM1NDQ2NzAwLC00NTY0MjQ1MTEsLTIwMzA2NjAy
+NDgsMzIzMjc1NTk4LC05NTAyNTcyNjQsLTE2MjYzMDQ0MjEsOD
+c5OTcyMzkxLDIwOTQ4MzQ3MDksNzk2OTgxODEwLDE4MTIwMDMy
+MDBdfQ==
 -->
