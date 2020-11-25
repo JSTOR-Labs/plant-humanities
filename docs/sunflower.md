@@ -139,7 +139,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life">
 <param ve-entity eid="Q48292" title="Artles">
-In this still life, Vincent van Gogh explores the expressive capacity of floral forms and the color yellow by showing an arrangement of more than a dozen sunflowers. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that the plants were harvested at different stages of their life cycle. Two _Helianthus annuus_ flowers, at top left and center, have shed ray florets and produced seeds, whereas their counterparts—a double-flower mutant now known as "teddy bear"—are still vigorous. Van Gogh painted this and six other depictions of sunflowers in the summer of 1888, after relocating to Arles, France in February.[^ref21] Energized by the warm light of Provence and no doubt inspired by the plants he saw growing there, Van Gogh brought a renewed sense of purpose to his painting practice, expressed 
+In this still life, Vincent van Gogh explores the expressive capacity of floral forms and the color yellow by showing an arrangement of more than a dozen sunflowers. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that the plants were harvested at different stages of their life cycle. Two _Helianthus annuus_ flowers, at top left and center, have shed ray florets and produced seeds, whereas their counterparts—a double-flower mutant now known as "teddy bear"—are still vigorous. Van Gogh painted this and six other depictions of sunflowers in the summer of 1888, after relocating to Arles, France, in February.[^ref21] Energized by the warm light of the Provencial spring and summer, Van Gogh brought a renewed sense of purpose to his painting practice and his aristic engagements with plants that he saw growing there, 
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_vangogh_yellow_house_VGM.jpg" title="Vincent van Gogh, _The Yellow House (The Street)_, 1888, Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)">
@@ -222,11 +222,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTMxNDMxODksNzIxMjY4MTAsLTU3NT
-IyMzgyOCwxNzY5ODUwMzQ2LDEzNTA0OTg2MDQsMTcwMTMwNDU5
-MywtMzI1Nzc2ODk4LDEyOTUzOTM4Miw2MTMwMDQ3NzcsLTE5ND
-U3NDI0MDIsNTk3ODkyMDYwLDg5NjkyOTk3OSwxNzgyMjI2ODU2
-LC02MDU3OTMwNzMsMTI5Mzg2NDQ3LC0xOTYwODQyMjA5LDIxND
-IyNDQ0NjUsOTc3NjkxNTYsLTI5NTgyNzc0MywtMjkyMTc1MThd
-fQ==
+eyJoaXN0b3J5IjpbLTY5OTI4MzY0Miw3MjEyNjgxMCwtNTc1Mj
+IzODI4LDE3Njk4NTAzNDYsMTM1MDQ5ODYwNCwxNzAxMzA0NTkz
+LC0zMjU3NzY4OTgsMTI5NTM5MzgyLDYxMzAwNDc3NywtMTk0NT
+c0MjQwMiw1OTc4OTIwNjAsODk2OTI5OTc5LDE3ODIyMjY4NTYs
+LTYwNTc5MzA3MywxMjkzODY0NDcsLTE5NjA4NDIyMDksMjE0Mj
+I0NDQ2NSw5Nzc2OTE1NiwtMjk1ODI3NzQzLC0yOTIxNzUxOF19
+
 -->
