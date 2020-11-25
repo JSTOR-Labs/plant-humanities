@@ -141,7 +141,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life">
 <param ve-entity eid="Q48292" title="Artles">
-In this still life, Vincent van Gogh explores the expressive capacity of the color yellow through his depiction of a humble earthenware vessel and its contents: sunflowers. These radiant ocher, mustard, and dusty orange blooms pulsate against a buttercream ground. The full round heads of double-flower mutants, a type of _Helianthus annuus_ now known as a "teddy bear," also poignantly contrast with those of two common sunflowers, at top left and center, that have shed ray florets and started to wilt. Although the emphatic yellow palette and disparately shaped blossoms in _Sunflowers_ lend formal significance to the work, they accrue additional meanings when we consider that Van Gogh produced the picture while living in Arles during the summer of 1888.[^ref21] Energized by the warm light of southern France, Van Gogh found a renewed sense of purpose that he brought to his encounters with flowers and to preparations that he was then making to establish an artist's colony there. To welcome his friend and fellow painter Paul Gauguin, Van Gogh had the exterior of his house painted yellow and decorated the walls of what would become Gauguin's room with this and other paintings. In light of those circumstances, we may read _Sunflowers_ as a metaphorical double-portrait of the artist and Gauguin, who were know to disagree about their artistic visions, finding a common ground on which to work.
+In this still life, Vincent van Gogh explores the expressive capacity of the color yellow through his depiction of a humble earthenware vessel and its contents: sunflowers. These radiant ocher, mustard, and dusty orange blooms pulsate against a buttercream ground. The full round heads of double-flower mutants, a type of _Helianthus annuus_ now known as a "teddy bear," also poignantly contrast with those of two common sunflowers, at top left and center, that have shed ray florets and started to wilt. Although the emphatic yellow palette and disparately shaped blossoms in _Sunflowers_ lend formal significance to the work, they accrue additional meanings when we consider that Van Gogh produced the picture while living in Arles in the summer of 1888.[^ref21] Energized by the warm light of southern France, Van Gogh found a renewed sense of purpose that he brought to his encounters with flowers and to preparations that he was then making to establish an artist's colony there. To welcome his friend and fellow painter Paul Gauguin, Van Gogh had the exterior of his house painted yellow and decorated the walls of what would become Gauguin's room with this and other paintings. In light of those circumstances, we may read _Sunflowers_ as a metaphorical double-portrait of the artist and Gauguin, who were know to disagree about their artistic visions, finding a common ground on which to work.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
 
@@ -222,11 +222,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTc5MzExMSwyMTEyNzAzODgxLDQ3Mz
-gwOTI0MSwxMDM1NDQ2NzAwLC00NTY0MjQ1MTEsLTIwMzA2NjAy
-NDgsMzIzMjc1NTk4LC05NTAyNTcyNjQsLTE2MjYzMDQ0MjEsOD
-c5OTcyMzkxLDIwOTQ4MzQ3MDksNzk2OTgxODEwLDE4MTIwMDMy
-MDAsOTMwNjc4MjU3LDM4NTA1NjgyOSwxMDE2NDY5ODA3LDk0ND
-Q3ODcyOSwtNTA3MDgwMjA2LDg1MzI5MDU1OSwtMTYyMTYyMzcz
-M119
+eyJoaXN0b3J5IjpbLTE5ODg1NDA5MTUsLTY3OTc5MzExMSwyMT
+EyNzAzODgxLDQ3MzgwOTI0MSwxMDM1NDQ2NzAwLC00NTY0MjQ1
+MTEsLTIwMzA2NjAyNDgsMzIzMjc1NTk4LC05NTAyNTcyNjQsLT
+E2MjYzMDQ0MjEsODc5OTcyMzkxLDIwOTQ4MzQ3MDksNzk2OTgx
+ODEwLDE4MTIwMDMyMDAsOTMwNjc4MjU3LDM4NTA1NjgyOSwxMD
+E2NDY5ODA3LDk0NDQ3ODcyOSwtNTA3MDgwMjA2LDg1MzI5MDU1
+OV19
 -->
