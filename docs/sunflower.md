@@ -120,8 +120,7 @@ In the eighteenth and early nineteenth centuries, botanical illustrators develop
 
 <param ve-entity eid="Q14847254" title="Compositae"> 
 <param ve-entity eid="Q30765614" title="floret" aliases="florets"> 
-<param ve-entity eid="Q2587899" title="fecundity">
-Henderson's botanical illustration highlights a trait of the sunflower that we may overlook due to our casual familiarity with the plant. Its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets.[^ref20] This diagram of a mature flower head shows that what we generally call “petals” are actually ray florets, which are sterile and serve to attract pollinators to disk florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own fruit after pollination. Perceiving such floral traits and examining their functions requires a process of direct observation, visual analysis, and patient contemplation of the natural world draws on some of the same skills that are manifest when making and studying artworks.
+Henderson's botanical illustration highlights a trait of the sunflower that we may overlook due to our casual familiarity with the plant. Its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets.[^ref20] This diagram of a mature flower head shows that what we generally call “petals” are actually ray florets, which are sterile and serve to attract pollinators to disk florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own fruit after pollination. Perceiving such floral traits and examining their functions requires a process of direct observation, visual analysis, and patient contemplation akin to that of making and studying artworks.
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Helianthus whirl, attributed to L. Shyamal © Creative Commons Attribution-Share Alike 2.5">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg">
@@ -226,11 +225,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTgwMjQ4ODYsLTYwNTc5MzA3MywxMj
-kzODY0NDcsLTE5NjA4NDIyMDksMjE0MjI0NDQ2NSw5Nzc2OTE1
-NiwtMjk1ODI3NzQzLC0yOTIxNzUxOCwxNDEyMTY1MjIyLC02Nj
-MyMzQ3NTEsLTE3MDYzNzU3MTUsLTY3OTc5MzExMSwyMTEyNzAz
-ODgxLDQ3MzgwOTI0MSwxMDM1NDQ2NzAwLC00NTY0MjQ1MTEsLT
-IwMzA2NjAyNDgsMzIzMjc1NTk4LC05NTAyNTcyNjQsLTE2MjYz
-MDQ0MjFdfQ==
+eyJoaXN0b3J5IjpbMTE3MjA2NTgwNSwtNjA1NzkzMDczLDEyOT
+M4NjQ0NywtMTk2MDg0MjIwOSwyMTQyMjQ0NDY1LDk3NzY5MTU2
+LC0yOTU4Mjc3NDMsLTI5MjE3NTE4LDE0MTIxNjUyMjIsLTY2Mz
+IzNDc1MSwtMTcwNjM3NTcxNSwtNjc5NzkzMTExLDIxMTI3MDM4
+ODEsNDczODA5MjQxLDEwMzU0NDY3MDAsLTQ1NjQyNDUxMSwtMj
+AzMDY2MDI0OCwzMjMyNzU1OTgsLTk1MDI1NzI2NCwtMTYyNjMw
+NDQyMV19
 -->
