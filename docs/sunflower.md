@@ -145,7 +145,7 @@ In this still life, Vincent van Gogh explores the expressive capacity of the col
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_vangogh_yellow_house_VGM.jpg" title="Vincent van Gogh, _The Yellow House (The Street)_, 1888, Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)">
-<param ve-image fit="contain" url="ttps://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Gauguin_portrait_VGM.jpg" title="Paul Gauguin, _Vincent van Gogh Painting Sunflowers_, 1888, Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)">
+<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Gauguin_portrait_VGM.jpg" title="Paul Gauguin, _Vincent van Gogh Painting Sunflowers_, 1888, Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)">
 
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
@@ -226,11 +226,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxNjQ3MywtMjkyMTc1MTgsMTQxMjE2NT
-IyMiwtNjYzMjM0NzUxLC0xNzA2Mzc1NzE1LC02Nzk3OTMxMTEs
-MjExMjcwMzg4MSw0NzM4MDkyNDEsMTAzNTQ0NjcwMCwtNDU2ND
-I0NTExLC0yMDMwNjYwMjQ4LDMyMzI3NTU5OCwtOTUwMjU3MjY0
-LC0xNjI2MzA0NDIxLDg3OTk3MjM5MSwyMDk0ODM0NzA5LDc5Nj
-k4MTgxMCwxODEyMDAzMjAwLDkzMDY3ODI1NywzODUwNTY4Mjld
-fQ==
+eyJoaXN0b3J5IjpbLTI5NTgyNzc0MywtMjkyMTc1MTgsMTQxMj
+E2NTIyMiwtNjYzMjM0NzUxLC0xNzA2Mzc1NzE1LC02Nzk3OTMx
+MTEsMjExMjcwMzg4MSw0NzM4MDkyNDEsMTAzNTQ0NjcwMCwtND
+U2NDI0NTExLC0yMDMwNjYwMjQ4LDMyMzI3NTU5OCwtOTUwMjU3
+MjY0LC0xNjI2MzA0NDIxLDg3OTk3MjM5MSwyMDk0ODM0NzA5LD
+c5Njk4MTgxMCwxODEyMDAzMjAwLDkzMDY3ODI1NywzODUwNTY4
+MjldfQ==
 -->
