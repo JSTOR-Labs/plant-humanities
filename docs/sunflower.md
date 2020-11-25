@@ -218,17 +218,17 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref22]: Debora Silverman, CITATION.
 
-[^ref23]: Native American Ethnobotany Database http://naeb.brit.org/uses/search/?string=sunflower
+[^ref23]: Hopi sunflower CITATION.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMDMwNDk1LC02NjMyMzQ3NTEsLTE3MD
-YzNzU3MTUsLTY3OTc5MzExMSwyMTEyNzAzODgxLDQ3MzgwOTI0
-MSwxMDM1NDQ2NzAwLC00NTY0MjQ1MTEsLTIwMzA2NjAyNDgsMz
-IzMjc1NTk4LC05NTAyNTcyNjQsLTE2MjYzMDQ0MjEsODc5OTcy
-MzkxLDIwOTQ4MzQ3MDksNzk2OTgxODEwLDE4MTIwMDMyMDAsOT
-MwNjc4MjU3LDM4NTA1NjgyOSwxMDE2NDY5ODA3LDk0NDQ3ODcy
-OV19
+eyJoaXN0b3J5IjpbMTQxMjE2NTIyMiwtNjYzMjM0NzUxLC0xNz
+A2Mzc1NzE1LC02Nzk3OTMxMTEsMjExMjcwMzg4MSw0NzM4MDky
+NDEsMTAzNTQ0NjcwMCwtNDU2NDI0NTExLC0yMDMwNjYwMjQ4LD
+MyMzI3NTU5OCwtOTUwMjU3MjY0LC0xNjI2MzA0NDIxLDg3OTk3
+MjM5MSwyMDk0ODM0NzA5LDc5Njk4MTgxMCwxODEyMDAzMjAwLD
+kzMDY3ODI1NywzODUwNTY4MjksMTAxNjQ2OTgwNyw5NDQ0Nzg3
+MjldfQ==
 -->
