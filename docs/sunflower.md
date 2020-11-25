@@ -212,7 +212,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref20]: Chase M. Mason, et al., "Beyond Pollinators: Evolution of Floral Architecture with Environment across the Wild Sunflowers (_Helianthus_, Asteraceae)," _Plant Ecology and Evolution_ 150, no. 2 (2017): 139-150.
 
-[^ref21]: Mark A. Chapman et al., "Genetic Analysis of Floral Symmetry in Van Gogh's _Sunflowers_ Reveals Independent Recruitment of _CYCLOIDEA_ Genes in the Asteraceae," _PLOS Genetics_, accessed November 25, 2020. [https://doi.org/10.1371/journal.pgen.1002628](https://doi.org/10.1371/journal.pgen.1002628)
+[^ref21]: Mark A. Chapman et al., "Genetic Analysis of Floral Symmetry in Van Gogh's _Sunflowers_ Reveals Independent Recruitment of _CYCLOIDEA_ Genes in the Asteraceae," _PLOS Genetics_ March 29, 2012, accessed November 25, 2020. [https://doi.org/10.1371/journal.pgen.1002628](https://doi.org/10.1371/journal.pgen.1002628)
 
 [^ref22]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," in _Van Gogh's Sunflowers Illuminated: Art Meets Science_, eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
 
@@ -222,7 +222,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjk1NzkwMiwtNzc4NzkwNjAsLTE3OD
+eyJoaXN0b3J5IjpbLTg4NjQ2NzIyNSwtNzc4NzkwNjAsLTE3OD
 c0MzI2NDcsLTExMzk0MTk5Myw2NDE1MTIwNDAsLTY5OTI4MzY0
 Miw3MjEyNjgxMCwtNTc1MjIzODI4LDE3Njk4NTAzNDYsMTM1MD
 Q5ODYwNCwxNzAxMzA0NTkzLC0zMjU3NzY4OTgsMTI5NTM5Mzgy
