@@ -144,8 +144,8 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 In this still life, Vincent van Gogh explores the expressive capacity of the color yellow through his depiction of a humble earthenware vessel and its contents: sunflowers. These radiant ocher, mustard, and dusty orange blooms pulsate against a buttercream ground. The full round heads of double-flower mutants, a type of _Helianthus annuus_ now known as a "teddy bear," also poignantly contrast with those of two common sunflowers, at top left and center, that have shed ray florets and started to wilt. Although the emphatic yellow palette and disparately shaped blossoms in _Sunflowers_ lend formal significance to the work, they accrue additional meanings when we consider that Van Gogh produced the picture while living in Arles in the summer of 1888.[^ref21] Energized by the warm light of southern France, Van Gogh found a renewed sense of purpose that he brought to his encounters with flowers and his preparations for establishing an artist's colony there. To welcome his friend and fellow painter Paul Gauguin, Van Gogh had the exterior of his house painted yellow and decorated the walls of what would become Gauguin's room with this and other paintings of his own making. In light of those circumstances, we may read _Sunflowers_ as a metaphorical double-portrait of the artist and Gauguin, who were know to disagree about their artistic visions, finding a common ground on which to work.[^ref22]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
-<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_vangogh_yellow_house_VGM.jpg" title="Adriaen Collaert, _Sunflower and other flowers_, from _Florilegium_, 1570-before 1618, Rijksmuseum">
-<param ve-image fit="contain" url="## **sunflower_Gauguin_portrait_VGM.jpg" title="Paul Gauguin, _Vincent van Gogh Painting Sunflowers_, 1888, Rijksmuseum">
+<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_vangogh_yellow_house_VGM.jpg" title="Vincent van Gogh, _The Yellow House (The Street)_, 1570-before 1618, Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)">
+<param ve-image fit="contain" url="ttps://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Gauguin_portrait_VGM.jpg" title="Paul Gauguin, _Vincent van Gogh Painting Sunflowers_, 1888, Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)">
 
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
@@ -226,7 +226,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODM4ODk2MCwtMjkyMTc1MTgsMTQxMj
+eyJoaXN0b3J5IjpbLTM4MzA5ODc1OCwtMjkyMTc1MTgsMTQxMj
 E2NTIyMiwtNjYzMjM0NzUxLC0xNzA2Mzc1NzE1LC02Nzk3OTMx
 MTEsMjExMjcwMzg4MSw0NzM4MDkyNDEsMTAzNTQ0NjcwMCwtND
 U2NDI0NTExLC0yMDMwNjYwMjQ4LDMyMzI3NTU5OCwtOTUwMjU3
