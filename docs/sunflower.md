@@ -180,7 +180,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref4]: Charles B. Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," _Genetic Resources and Crop Evolution_ 55, no. 1 (2008): 9-13.
 
-[^ref5]: Low countries catalogue CITATION.
+[^ref5]: F. de Nave and D. Imhof, eds., _Botany in the Low Countries: (end of the 15th centry, ca. 1650) Plantin-Moretus Museum Exhibition_ (Antwerp: City of Antwerp, the Plantin-Moretus Museum and the Stedelijk Prentenkabinet (Municipal Printroom), 1993).
 
 [^ref6]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 
@@ -222,7 +222,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQ2MTkzMDcsLTE5MzIzNTQ4MzcsLT
+eyJoaXN0b3J5IjpbLTE5MDIyNjE5MzksLTE5MzIzNTQ4MzcsLT
 kyNDIzMTIwNSw4MTg2MDI4ODMsMzkxNTY2MTAxLC0yMTUyMjgw
 NjcsLTIwMTQzMzc1MjksLTE3NzY2ODk4NTksLTEzMDcwNjk1OT
 IsLTU0OTIxOTU4NywtNDQyMjMxMjk5LC0xMjI1ODEzNjc5LC01
