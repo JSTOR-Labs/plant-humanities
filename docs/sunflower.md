@@ -41,7 +41,7 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 In the late fifteenth and sixteenth centuries, Europeans were eager to collect plants from the Americas because they were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish first transported the domesticated sunflower from North America to <span data-click-map-flyto="40.425, -3.639">Spain</span>, though questions persist about who collected such plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
-Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in botanical gardens and instructions for doing so.[^ref6] They also exchanged books, drawings, letters, and other communications that contributed to the development of conventions for describing sunflowers through image and text, while also positing new taxonomic approaches for organizing herbals or florilegia alphabetically, or based on morphological traits or uses. The model, at right, visualizes a network of physicians, herbalists, translators, publishers, artists, patrons, and other historical figures who were active mainly in Europe, focusing on the period from the 1550s to the 1650s.
+Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in botanical gardens and instructions for doing so.[^ref6] They also exchanged books, drawings, letters, and other communications that contributed to the development of conventions for describing sunflowers through image and text, while also positing new taxonomic approaches for organizing herbals or florilegia alphabetically, or based on morphological traits or uses. The model, at right, visualizes a network of historical figures, including physicians, herbalists, translators, publishers, artists, and patrons, who were active in Europe from the 1550s to the 1570s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Johann Konrad von Gemmingen">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -222,7 +222,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDkyMTAyNCwtMjAxNDMzNzUyOSwtMT
+eyJoaXN0b3J5IjpbMTgzNzAzMTgxNywtMjAxNDMzNzUyOSwtMT
 c3NjY4OTg1OSwtMTMwNzA2OTU5MiwtNTQ5MjE5NTg3LC00NDIy
 MzEyOTksLTEyMjU4MTM2NzksLTUzODc5OTMzNCwtNzQzMzEyMz
 UxLDc0OTQ2MTA4NiwtMjE0Mjk5NywtOTc0MDA0NDQxLDcyNzAy
