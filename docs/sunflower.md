@@ -41,7 +41,7 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 In the late fifteenth and sixteenth centuries, Europeans were eager to collect plants from the Americas because they were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish first transported the domesticated sunflower from North America to <span data-click-map-flyto="40.425, -3.639">Spain</span>, though questions persist about who collected such plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
-Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref6] They also exchanged books, drawings, letters, and other communications, which established conventions for describing sunflowers through images and text. The model, at right, visualizes a network of physicians, herbalists, translators, publishers, artists, and patrons who were active in Europe, particularly in the Low Countries, between the 1550s and the 1570s. The Low Countries, then under the rule of Hapsburg Spain, contained leading print centers and artists and woodblock carvers, working there, elevated the status of illustrations. 
+Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref6] They also exchanged books, drawings, letters, and other communications, which established conventions for describing sunflowers through images and text. The model, at right, visualizes a network of physicians, herbalists, translators, publishers, artists, and patrons who were active in Europe, particularly in the Low Countries, between the 1550s and the 1570s. The Low Countries, then under the rule of Hapsburg Spain, were a leading print center where artists and woodblock carvers elevated the quality of plant illustrations by using a naturalistic approach. 
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Johann Konrad von Gemmingen">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -222,7 +222,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzY0NDAwMjEsMzkxNTY2MTAxLC0yMT
+eyJoaXN0b3J5IjpbLTE4Mjg1MzMzMDcsMzkxNTY2MTAxLC0yMT
 UyMjgwNjcsLTIwMTQzMzc1MjksLTE3NzY2ODk4NTksLTEzMDcw
 Njk1OTIsLTU0OTIxOTU4NywtNDQyMjMxMjk5LC0xMjI1ODEzNj
 c5LC01Mzg3OTkzMzQsLTc0MzMxMjM1MSw3NDk0NjEwODYsLTIx
