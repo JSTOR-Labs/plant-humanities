@@ -33,13 +33,16 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, p. 97 Nomina Generica, _Critica botanica_, 1737, Lugduni Batavorum: Apud Conradum Wishoff © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, p. 98 Nomina Generica, _Critica botanica_, 1737, Lugduni Batavorum: Apud Conradum Wishoff © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
-### Plant Mobility and Early Printed Sources
+### Plant Mobility and Early Printed Books
 
 <param ve-entity eid="Q29" title="Spain">
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
 <param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
 In the late fifteenth and sixteenth centuries, Europeans were eager to collect plants from the Americas because they were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish first transported the domesticated sunflower from North America to <span data-click-map-flyto="40.425, -3.639">Spain</span>, though questions persist about who collected such plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
+
+Through transregional trade networks Europeans obtained materials for their gardeners to cultivate sunflowers and instructions for doing so.[^ref6] Eichstätt and Besler also used those connections to exchange books, illustrations, and other materials that espoused new aesthetic conventions for representing the sunflower and taxonomic approaches for organizing depictions of plants within herbals and florilegia. This model visualizes some of the men's connections with herbalists, translators, publishers, artists, patrons, and other historical figures who were active mainly in Europe, focusing on the period from the 1550s to the 1650s.
+<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Johann Konrad von Gemmingen">
 
 ### Sunflower Aesthetics in Full Bloom
 <param ve-entity eid="Q65027" title="Basilius Besler">
@@ -54,9 +57,6 @@ that anticipates modern visual stereotypes for the plant, perhaps best epitomize
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
 <param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
-
-Through transregional trade networks Prince Bishop of Eichstätt obtained materials for his gardeners to cultivate sunflowers and instructions for doing so.[^ref6] Eichstätt and Besler also used those connections to exchange books, illustrations, and other materials that espoused new aesthetic conventions for representing the sunflower and taxonomic approaches for organizing depictions of plants within herbals and florilegia. This model visualizes some of the men's connections with herbalists, translators, publishers, artists, patrons, and other historical figures who were active mainly in Europe, focusing on the period from the 1550s to the 1650s.
-<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Johann Konrad von Gemmingen">
 
 ### Mythic Encounters and Scientific Debates
 
@@ -222,11 +222,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQzMzc1MjksLTE3NzY2ODk4NTksLT
-EzMDcwNjk1OTIsLTU0OTIxOTU4NywtNDQyMjMxMjk5LC0xMjI1
-ODEzNjc5LC01Mzg3OTkzMzQsLTc0MzMxMjM1MSw3NDk0NjEwOD
-YsLTIxNDI5OTcsLTk3NDAwNDQ0MSw3MjcwMjE5NTIsLTg4NjQ2
-NzIyNSwtNzc4NzkwNjAsLTE3ODc0MzI2NDcsLTExMzk0MTk5My
-w2NDE1MTIwNDAsLTY5OTI4MzY0Miw3MjEyNjgxMCwtNTc1MjIz
-ODI4XX0=
+eyJoaXN0b3J5IjpbLTEyMzYwNDg5MjAsLTIwMTQzMzc1MjksLT
+E3NzY2ODk4NTksLTEzMDcwNjk1OTIsLTU0OTIxOTU4NywtNDQy
+MjMxMjk5LC0xMjI1ODEzNjc5LC01Mzg3OTkzMzQsLTc0MzMxMj
+M1MSw3NDk0NjEwODYsLTIxNDI5OTcsLTk3NDAwNDQ0MSw3Mjcw
+MjE5NTIsLTg4NjQ2NzIyNSwtNzc4NzkwNjAsLTE3ODc0MzI2ND
+csLTExMzk0MTk5Myw2NDE1MTIwNDAsLTY5OTI4MzY0Miw3MjEy
+NjgxMF19
 -->
