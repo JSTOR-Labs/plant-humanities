@@ -41,6 +41,7 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 In the late fifteenth and sixteenth centuries, Europeans were eager to collect plants from the Americas because they were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish first transported the domesticated sunflower from North America to <span data-click-map-flyto="40.425, -3.639">Spain</span>, though questions persist about who collected such plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
+
 Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref5] They also exchanged books, drawings, letters, and other communications that established some visual and verbal conventions for describing sunflowers. The model, at right, visualizes a group of physicians, herbalists, translators, publishers, artists, and patrons who traded information about sunflowers in Europe, especially in the Low Countries, between the 1550s and 1570s. The Low Countries, then under the rule of Hapsburg Spain, were a leading print center where artists and woodblock carvers, who embraced a naturalistic mode of portraying plants, elevated the quality of illustrations with respect to the accuracy of specimens shown therein. That kind of precision became increasingly valuable as the number of known plants dramatically grew and images rather than names, which lacked uniformity across sources, became the preferred method of identifying specimens.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="LOW COUNTRIES">
 
@@ -222,11 +223,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzQ3NzczNCwtOTcxMjY5OTg2LDE5Nj
-Y4NDI3NDMsNDE4MzY5NTQzLC0xNTQxNTk3MjgsLTg2NTgxMTY3
-MCwtMTkwMjI2MTkzOSwtMTkzMjM1NDgzNywtOTI0MjMxMjA1LD
-gxODYwMjg4MywzOTE1NjYxMDEsLTIxNTIyODA2NywtMjAxNDMz
-NzUyOSwtMTc3NjY4OTg1OSwtMTMwNzA2OTU5MiwtNTQ5MjE5NT
-g3LC00NDIyMzEyOTksLTEyMjU4MTM2NzksLTUzODc5OTMzNCwt
-NzQzMzEyMzUxXX0=
+eyJoaXN0b3J5IjpbMTE4MzI1MzIwNCwxNjM3NDc3NzM0LC05Nz
+EyNjk5ODYsMTk2Njg0Mjc0Myw0MTgzNjk1NDMsLTE1NDE1OTcy
+OCwtODY1ODExNjcwLC0xOTAyMjYxOTM5LC0xOTMyMzU0ODM3LC
+05MjQyMzEyMDUsODE4NjAyODgzLDM5MTU2NjEwMSwtMjE1MjI4
+MDY3LC0yMDE0MzM3NTI5LC0xNzc2Njg5ODU5LC0xMzA3MDY5NT
+kyLC01NDkyMTk1ODcsLTQ0MjIzMTI5OSwtMTIyNTgxMzY3OSwt
+NTM4Nzk5MzM0XX0=
 -->
