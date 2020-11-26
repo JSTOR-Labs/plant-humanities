@@ -41,7 +41,7 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 In the late fifteenth and sixteenth centuries, Europeans were eager to collect plants from the Americas because they were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish first transported the domesticated sunflower from North America to <span data-click-map-flyto="40.425, -3.639">Spain</span>, though questions persist about who collected such plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
-Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref5] They also exchanged books, drawings, letters, and other communications, which established some visual and verbal conventions for describing sunflowers. The model, at right, visualizes a network of physicians, herbalists, translators, publishers, artists, and patrons who traded information about sunflowers in Europe, especially in the Low Countries, between the 1550s and 1570s. The Low Countries, then under the rule of Hapsburg Spain, were a leading print center where artists and woodblock carvers, who embraced a naturalistic mode of portraying plants, elevated the quality of illustrations and the accuracy of specimens they showed. That kind of precision became increasingly importance as the number of known plants dramatically grew and images rather than names, created without any standardization, to identify specimens.
+Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref5] They also exchanged books, drawings, letters, and other communications, which established some visual and verbal conventions for describing sunflowers. The model, at right, visualizes a network of physicians, herbalists, translators, publishers, artists, and patrons who traded information about sunflowers in Europe, especially in the Low Countries, between the 1550s and 1570s. The Low Countries, then under the rule of Hapsburg Spain, were a leading print center where artists and woodblock carvers, who embraced a naturalistic mode of portraying plants, elevated the quality of illustrations and the accuracy of specimens they showed. That kind of precision became increasingly importance as the number of known plants dramatically grew and images rather than names, which lacked any uniformity, became the preferred method of identifying specimens.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Johann Konrad von Gemmingen">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -222,11 +222,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDAxMjg2MywtMTkzMjM1NDgzNywtOT
-I0MjMxMjA1LDgxODYwMjg4MywzOTE1NjYxMDEsLTIxNTIyODA2
-NywtMjAxNDMzNzUyOSwtMTc3NjY4OTg1OSwtMTMwNzA2OTU5Mi
-wtNTQ5MjE5NTg3LC00NDIyMzEyOTksLTEyMjU4MTM2NzksLTUz
-ODc5OTMzNCwtNzQzMzEyMzUxLDc0OTQ2MTA4NiwtMjE0Mjk5Ny
-wtOTc0MDA0NDQxLDcyNzAyMTk1MiwtODg2NDY3MjI1LC03Nzg3
-OTA2MF19
+eyJoaXN0b3J5IjpbLTExNDQ2MTkzMDcsLTE5MzIzNTQ4MzcsLT
+kyNDIzMTIwNSw4MTg2MDI4ODMsMzkxNTY2MTAxLC0yMTUyMjgw
+NjcsLTIwMTQzMzc1MjksLTE3NzY2ODk4NTksLTEzMDcwNjk1OT
+IsLTU0OTIxOTU4NywtNDQyMjMxMjk5LC0xMjI1ODEzNjc5LC01
+Mzg3OTkzMzQsLTc0MzMxMjM1MSw3NDk0NjEwODYsLTIxNDI5OT
+csLTk3NDAwNDQ0MSw3MjcwMjE5NTIsLTg4NjQ2NzIyNSwtNzc4
+NzkwNjBdfQ==
 -->
