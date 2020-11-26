@@ -41,7 +41,7 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 In the late fifteenth and sixteenth centuries, Europeans were eager to collect plants from the Americas because they were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish first transported the domesticated sunflower from North America to <span data-click-map-flyto="40.425, -3.639">Spain</span>, though questions persist about who collected such plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
-Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref6] They also exchanged books, drawings, letters, and other communications, which contributed to the development of conventions for describing sunflowers through images and text. The model, at right, visualizes a network of historical figures, including physicians, herbalists, translators, publishers, artists, and patrons, who were active in Europe between the 1550s and the 1570s, when the Low Countries, then under the rule of Hapsburg Spain, were a leading print center. Visual representations became increasingly important as  a period when there was not a standardized approach to naming. Nor was there any agreed upon terminology for identifying traits. During the sixteenth century, the number of known plants expanded dramatically, from X to Y.
+Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref6] They also exchanged books, drawings, letters, and other communications, which contributed to the development of conventions for describing sunflowers through images and text. The model, at right, visualizes a network of historical figures, including physicians, herbalists, translators, publishers, artists, and patrons, who were active in Europe between the 1550s and the 1570s, when the Low Countries were under the rule of Hapsburg Spain. The region was also a leading print center Visual representations became increasingly important as  a period when there was not a standardized approach to naming. Nor was there any agreed upon terminology for identifying traits.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Johann Konrad von Gemmingen">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -222,11 +222,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2OTQxMjE3LDM5MTU2NjEwMSwtMjE1Mj
-I4MDY3LC0yMDE0MzM3NTI5LC0xNzc2Njg5ODU5LC0xMzA3MDY5
-NTkyLC01NDkyMTk1ODcsLTQ0MjIzMTI5OSwtMTIyNTgxMzY3OS
-wtNTM4Nzk5MzM0LC03NDMzMTIzNTEsNzQ5NDYxMDg2LC0yMTQy
-OTk3LC05NzQwMDQ0NDEsNzI3MDIxOTUyLC04ODY0NjcyMjUsLT
-c3ODc5MDYwLC0xNzg3NDMyNjQ3LC0xMTM5NDE5OTMsNjQxNTEy
-MDQwXX0=
+eyJoaXN0b3J5IjpbLTM3Nzc1MzQzMywzOTE1NjYxMDEsLTIxNT
+IyODA2NywtMjAxNDMzNzUyOSwtMTc3NjY4OTg1OSwtMTMwNzA2
+OTU5MiwtNTQ5MjE5NTg3LC00NDIyMzEyOTksLTEyMjU4MTM2Nz
+ksLTUzODc5OTMzNCwtNzQzMzEyMzUxLDc0OTQ2MTA4NiwtMjE0
+Mjk5NywtOTc0MDA0NDQxLDcyNzAyMTk1MiwtODg2NDY3MjI1LC
+03Nzg3OTA2MCwtMTc4NzQzMjY0NywtMTEzOTQxOTkzLDY0MTUx
+MjA0MF19
 -->
