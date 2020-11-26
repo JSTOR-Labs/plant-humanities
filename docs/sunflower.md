@@ -42,8 +42,8 @@ In the late fifteenth and sixteenth centuries, Europeans were eager to collect p
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 <param ve-entity eid="Q476033" title="Low Countries">
-
-Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref5] They also exchanged books, drawings, letters, and other communications that established some visual and verbal conventions for describing sunflowers. The model, at right, visualizes a group of physicians, herbalists, translators, publishers, artists, and patrons who traded information about sunflowers in Europe, especially in the Low Countries, between the 1550s and 1570s. The Low Countries, then under the rule of Hapsburg Spain, were a leading print center where artists and woodblock carvers, who embraced a naturalistic mode of portraying plants, elevated the quality of illustrations with respect to the accuracy of specimens shown therein. That kind of precision became increasingly valuable as the number of known plants dramatically grew and images rather than names, which lacked uniformity across sources, became the preferred method of identifying specimens.
+<param ve-entity eid="Q600093" title="Habsburg Spain">
+Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref5] They also exchanged books, drawings, letters, and other communications that established some visual and verbal conventions for describing sunflowers. The model, at right, visualizes a group of physicians, herbalists, translators, publishers, artists, and patrons who traded information about sunflowers in Europe, especially in the Low Countries, between the 1550s and 1570s. The Low Countries, then under the rule of Habsburg Spain, were a leading print center where artists and woodblock carvers, who embraced a naturalistic mode of portraying plants, elevated the quality of illustrations with respect to the accuracy of specimens shown therein. That kind of precision became increasingly valuable as the number of known plants dramatically grew and images rather than names, which lacked uniformity across sources, became the preferred method of identifying specimens.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="LOW COUNTRIES">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -224,7 +224,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU0NDE1MjAsMTYzNzQ3NzczNCwtOT
+eyJoaXN0b3J5IjpbLTE5NzIxNDk3NDIsMTYzNzQ3NzczNCwtOT
 cxMjY5OTg2LDE5NjY4NDI3NDMsNDE4MzY5NTQzLC0xNTQxNTk3
 MjgsLTg2NTgxMTY3MCwtMTkwMjI2MTkzOSwtMTkzMjM1NDgzNy
 wtOTI0MjMxMjA1LDgxODYwMjg4MywzOTE1NjYxMDEsLTIxNTIy
