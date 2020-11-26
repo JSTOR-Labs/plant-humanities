@@ -42,7 +42,7 @@ In the late fifteenth and sixteenth centuries, Europeans were eager to collect p
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref5] They also exchanged books, drawings, letters, and other communications that established some visual and verbal conventions for describing sunflowers. The model, at right, visualizes a group of physicians, herbalists, translators, publishers, artists, and patrons who traded information about sunflowers in Europe, especially in the Low Countries, between the 1550s and 1570s. The Low Countries, then under the rule of Hapsburg Spain, were a leading print center where artists and woodblock carvers, who embraced a naturalistic mode of portraying plants, elevated the quality of illustrations with respect to the accuracy of specimens shown therein. That kind of precision became increasingly valuable as the number of known plants dramatically grew and images rather than names, which lacked uniformity across sources, became the preferred method of identifying specimens.
-<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="LOW COUNTRIES">
+<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="LOW COUNTRIES">
 
 ### Sunflower Aesthetics in Full Bloom
 <param ve-entity eid="Q65027" title="Basilius Besler">
@@ -222,11 +222,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTI2OTk4NiwxOTY2ODQyNzQzLDQxOD
-M2OTU0MywtMTU0MTU5NzI4LC04NjU4MTE2NzAsLTE5MDIyNjE5
-MzksLTE5MzIzNTQ4MzcsLTkyNDIzMTIwNSw4MTg2MDI4ODMsMz
-kxNTY2MTAxLC0yMTUyMjgwNjcsLTIwMTQzMzc1MjksLTE3NzY2
-ODk4NTksLTEzMDcwNjk1OTIsLTU0OTIxOTU4NywtNDQyMjMxMj
-k5LC0xMjI1ODEzNjc5LC01Mzg3OTkzMzQsLTc0MzMxMjM1MSw3
-NDk0NjEwODZdfQ==
+eyJoaXN0b3J5IjpbMTYzNzQ3NzczNCwtOTcxMjY5OTg2LDE5Nj
+Y4NDI3NDMsNDE4MzY5NTQzLC0xNTQxNTk3MjgsLTg2NTgxMTY3
+MCwtMTkwMjI2MTkzOSwtMTkzMjM1NDgzNywtOTI0MjMxMjA1LD
+gxODYwMjg4MywzOTE1NjYxMDEsLTIxNTIyODA2NywtMjAxNDMz
+NzUyOSwtMTc3NjY4OTg1OSwtMTMwNzA2OTU5MiwtNTQ5MjE5NT
+g3LC00NDIyMzEyOTksLTEyMjU4MTM2NzksLTUzODc5OTMzNCwt
+NzQzMzEyMzUxXX0=
 -->
