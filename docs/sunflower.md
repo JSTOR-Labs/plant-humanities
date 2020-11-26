@@ -41,7 +41,7 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 In the late fifteenth and sixteenth centuries, Europeans were eager to collect plants from the Americas because they were highly valued for their potential medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish first transported the domesticated sunflower from North America to <span data-click-map-flyto="40.425, -3.639">Spain</span>, though questions persist about who collected such plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
-Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref6] They also exchanged books, drawings, letters, and other communications, which established conventions for describing sunflowers through images and text. The model, at right, visualizes a network of physicians, herbalists, translators, publishers, artists, and patrons who were active in Europe, particularly in the Low Countries, between the 1550s and 1570s. The Low Countries, then under the rule of Hapsburg Spain, were a leading print center where artists and woodblock carvers embraced a naturalistic mode of representing plants, elevating the quality of illustrations and accuracy of specimens depicted therein. That kind of precision became increasingly importance as the number of known plants dramatically grew and, with it, the number of names used to identify them.
+Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref5] They also exchanged books, drawings, letters, and other communications, which established conventions for describing sunflowers through images and text. The model, at right, visualizes a network of physicians, herbalists, translators, publishers, artists, and patrons who were active in Europe, particularly in the Low Countries, between the 1550s and 1570s. The Low Countries, then under the rule of Hapsburg Spain, were a leading print center where artists and woodblock carvers embraced a naturalistic mode of representing plants, elevating the quality of illustrations and accuracy of specimens depicted therein. That kind of precision became increasingly importance as the number of known plants dramatically grew and, with it, the number of names used to identify them.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_iconography.tsv" center="Johann Konrad von Gemmingen">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -52,7 +52,7 @@ Through transregional trade networks wealthy Europeans obtained materials for cu
 <param ve-entity eid="Q5189819" title="cruciform">
 <param ve-entity eid="Q462437" title="composition">
 <param ve-entity eid="Q63540903" title="focal point">
-Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. Besler was commissioned by Prince Bishop of Eichstätt to oversee the creation of a florilegium, entitled _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613), documenting the foreign flowers grown in his garden in Eichstätt, Bavaria. A team of artists, etchers, printmakers, and colorists, hired by Besler, produced this hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_ and many other [prints using the same metal plate](https://www.metmuseum.org/about-the-met/curatorial-departments/drawings-and-prints/materials-and-techniques/printmaking/engraving), though not all of them were hand-colored.[^ref5] This sumptuous portrait depicts the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
+Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. Besler was commissioned by Prince Bishop of Eichstätt to oversee the creation of a florilegium, entitled _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613), documenting the foreign flowers grown in his garden in Eichstätt, Bavaria. A team of artists, etchers, printmakers, and colorists, hired by Besler, produced this hand-tinted [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_ and many other [prints using the same metal plate](https://www.metmuseum.org/about-the-met/curatorial-departments/drawings-and-prints/materials-and-techniques/printmaking/engraving), though not all of them were hand-colored.[^ref6] This sumptuous portrait depicts the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
 that anticipates modern visual stereotypes for the plant, perhaps best epitomized by this emoji.
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
@@ -180,9 +180,9 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 [^ref4]: Charles B. Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," _Genetic Resources and Crop Evolution_ 55, no. 1 (2008): 9-13.
 
-[^ref5]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995).
+[^ref5]: Low countries catalogue CITATION.
 
-[^ref6]: Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
+[^ref6]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 
 [^ref7]: [Add commentary about history of manuscript and its production.] Ray Desmond, “The Discovery of the New World,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 24-27.
 
@@ -222,11 +222,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDIzMTIwNSw4MTg2MDI4ODMsMzkxNT
-Y2MTAxLC0yMTUyMjgwNjcsLTIwMTQzMzc1MjksLTE3NzY2ODk4
-NTksLTEzMDcwNjk1OTIsLTU0OTIxOTU4NywtNDQyMjMxMjk5LC
-0xMjI1ODEzNjc5LC01Mzg3OTkzMzQsLTc0MzMxMjM1MSw3NDk0
-NjEwODYsLTIxNDI5OTcsLTk3NDAwNDQ0MSw3MjcwMjE5NTIsLT
-g4NjQ2NzIyNSwtNzc4NzkwNjAsLTE3ODc0MzI2NDcsLTExMzk0
-MTk5M119
+eyJoaXN0b3J5IjpbLTM1NDQxMTA3MCwtOTI0MjMxMjA1LDgxOD
+YwMjg4MywzOTE1NjYxMDEsLTIxNTIyODA2NywtMjAxNDMzNzUy
+OSwtMTc3NjY4OTg1OSwtMTMwNzA2OTU5MiwtNTQ5MjE5NTg3LC
+00NDIyMzEyOTksLTEyMjU4MTM2NzksLTUzODc5OTMzNCwtNzQz
+MzEyMzUxLDc0OTQ2MTA4NiwtMjE0Mjk5NywtOTc0MDA0NDQxLD
+cyNzAyMTk1MiwtODg2NDY3MjI1LC03Nzg3OTA2MCwtMTc4NzQz
+MjY0N119
 -->
