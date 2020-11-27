@@ -173,10 +173,10 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q628403" title="conservation">
 <param ve-entity eid="Q52105" title="habitat" aliases="habitats">
 <param ve-entity eid="Q11084414" title="modernity">
-In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, citydwellers experienced new modes of labor, leisure, transportation, consumption, and communication that, by in large, did not include direct encounters with plants in their natural habitats. That separation from nature impacted those who migrated to cities from rural areas, such as Van Gogh, providing a historical context for interpreting a painting of sunflowers that he produced while living in a Parisian suburb in 1887. The picture, a type of still life known as _memento mori_, shows what is left of two flower heads after they have gone to seed. By portraying their desicated yellow bracts and stems against a somber blue ground, the painter invites us to mourn not just for the former radiance of the flowers but also for a withering of plant-human connections in the face of modernity. This visual representation of _Helianthus annuus_, like others in this essay, shines a light on understudied aspects of human-plant relationships and our responsibility to approach such encounters with more curiosity and care. Not just a crop plant: As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. TRANS. 
+In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, citydwellers experienced new modes of labor, leisure, transportation, consumption, and communication that, by in large, did not include direct encounters with plants in their natural habitats. That separation from nature impacted those who migrated to cities from rural areas, such as Van Gogh, providing a historical context for interpreting a painting of sunflowers that he produced while living in a Parisian suburb in 1887. The picture, a type of still life known as _memento mori_, shows what is left of two flower heads after they have gone to seed. By portraying their desicated yellow bracts and stems against a somber blue ground, the painter invites us to mourn not just for the former radiance of the flowers but also for a withering of plant-human connections in the face of modernity. This visual representation of _Helianthus annuus_, like others in this essay, shines a light on understudied aspects of human-plant relationships and our responsibility to approach such encounters with more curiosity and care.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 <param ve-image iiif region="1078,259,3906,3278"
-url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
+url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title=" Not just a crop plant: As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Distribution of _Helianthus_ native (green) and introduced (purple)">
 
 ### References
 [^ref1]: Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
@@ -229,7 +229,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkwOTU2MzUsLTk0NDIzNzc2NywtMT
+eyJoaXN0b3J5IjpbLTEzNTEzOTY5MjksLTk0NDIzNzc2NywtMT
 U5MzkyMTkwNiwxNjU4MjUwMjcyLC0yNDAyMTQ1MiwyMDE0Nzgy
 ODc3LDExOTUxNTU1ODcsODQ5NzQ2MDQsLTE5ODc4NzUyOTIsMT
 I4MDQ5NTQxNywtMTkzNDk0NTI5MywxODE1MzAzNTE1LDYxNDM0
