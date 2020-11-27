@@ -172,7 +172,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q161078" title="urbanization">
 <param ve-entity eid="Q628403" title="conservation">
 <param ve-entity eid="Q52105" title="habitat" aliases="habitats">
-In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, citydwellers experienced new modes of labor, leisure, transportation, consumption, and communication that, by in large, did not include direct encounters with plants in their natural habitats. That separation from nature impacted those who migrated to the city from rural areas and provides a historical context for interpreting another painting of sunflowers that Vincent van Gogh produced while living in a suburb of Paris, in 1887. This picture of two flower heads that have gone to seed explores what is left of the plants a. connection to nature in the face of modernity , as a _memento mori_ of sorts. Not just a crop plant: As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. TRANS. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care. 
+In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, citydwellers experienced new modes of labor, leisure, transportation, consumption, and communication that, by in large, did not include direct encounters with plants in their natural habitats. That separation from nature impacted those who migrated to the city from rural areas and provides a historical context for interpreting another painting of sunflowers that Vincent van Gogh produced while living in a suburb of Paris, in 1887. This picture of two flower heads explores what is left of the plants after they have gone to seed. _memento mori_ connection to nature in the face of modernity , as a . Not just a crop plant: As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. TRANS. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care. 
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 <param ve-image iiif region="1078,259,3906,3278"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
@@ -228,11 +228,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjI2NTksMTY1ODI1MDI3MiwtMjQwMj
-E0NTIsMjAxNDc4Mjg3NywxMTk1MTU1NTg3LDg0OTc0NjA0LC0x
-OTg3ODc1MjkyLDEyODA0OTU0MTcsLTE5MzQ5NDUyOTMsMTgxNT
-MwMzUxNSw2MTQzNDE3NjAsMjExOTY5MzY1NywtMTY0NDkyMTMx
-OSwxNzQ3NTAzODAyLC0xOTcyMTQ5NzQyLDE2Mzc0Nzc3MzQsLT
-k3MTI2OTk4NiwxOTY2ODQyNzQzLDQxODM2OTU0MywtMTU0MTU5
-NzI4XX0=
+eyJoaXN0b3J5IjpbMTkyNDk5OTQwMywxNjU4MjUwMjcyLC0yND
+AyMTQ1MiwyMDE0NzgyODc3LDExOTUxNTU1ODcsODQ5NzQ2MDQs
+LTE5ODc4NzUyOTIsMTI4MDQ5NTQxNywtMTkzNDk0NTI5MywxOD
+E1MzAzNTE1LDYxNDM0MTc2MCwyMTE5NjkzNjU3LC0xNjQ0OTIx
+MzE5LDE3NDc1MDM4MDIsLTE5NzIxNDk3NDIsMTYzNzQ3NzczNC
+wtOTcxMjY5OTg2LDE5NjY4NDI3NDMsNDE4MzY5NTQzLC0xNTQx
+NTk3MjhdfQ==
 -->
