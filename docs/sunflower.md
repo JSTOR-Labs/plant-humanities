@@ -172,7 +172,8 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q161078" title="urbanization">
 <param ve-entity eid="Q628403" title="conservation">
 <param ve-entity eid="Q52105" title="habitat" aliases="habitats">
-In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, citydwellers experienced new modes of labor, leisure, transportation, consumption, and communication that, by in large, did not include direct encounters with plants in their natural habitats. That separation from nature impacted those who migrated to cities, such as Paris, from rural areas, providing a historical context for interpreting a painting of sunflowers that Vincent van Gogh produced while living in a Parisian suburb in 1887. The picture explores what is left of two sunflowers after they have gone to seed, exemplifying a type of still life known as _memento mori_. Here, we may read Van Gogh's juxtaposition of flower heads with desicated yellow leaves with a somber shade of blue as a withering of connection to nature in the face of modernity. Not just a crop plant: As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. TRANS. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care. 
+<param ve-entity eid="Q11084414" title="modernity">
+In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, citydwellers experienced new modes of labor, leisure, transportation, consumption, and communication that, by in large, did not include direct encounters with plants in their natural habitats. That separation from nature impacted those who migrated to cities, such as Paris, from rural areas, providing a historical context for interpreting a painting of sunflowers that Vincent van Gogh produced while living in a Parisian suburb in 1887. The picture explores what is left of two sunflowers after they have gone to seed, exemplifying a type of still life known as _memento mori_. Here, we may read Van Gogh's juxtaposition of flower heads with desicated yellow leaves with a somber shade of blue as a meditation on the withering connection to nature in the face of modernity. Not just a crop plant: As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. TRANS. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care. 
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 <param ve-image iiif region="1078,259,3906,3278"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
@@ -228,11 +229,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjI1MTIxLC0xNTkzOTIxOTA2LDE2NT
-gyNTAyNzIsLTI0MDIxNDUyLDIwMTQ3ODI4NzcsMTE5NTE1NTU4
-Nyw4NDk3NDYwNCwtMTk4Nzg3NTI5MiwxMjgwNDk1NDE3LC0xOT
-M0OTQ1MjkzLDE4MTUzMDM1MTUsNjE0MzQxNzYwLDIxMTk2OTM2
-NTcsLTE2NDQ5MjEzMTksMTc0NzUwMzgwMiwtMTk3MjE0OTc0Mi
-wxNjM3NDc3NzM0LC05NzEyNjk5ODYsMTk2Njg0Mjc0Myw0MTgz
-Njk1NDNdfQ==
+eyJoaXN0b3J5IjpbLTk0NDIzNzc2NywtMTU5MzkyMTkwNiwxNj
+U4MjUwMjcyLC0yNDAyMTQ1MiwyMDE0NzgyODc3LDExOTUxNTU1
+ODcsODQ5NzQ2MDQsLTE5ODc4NzUyOTIsMTI4MDQ5NTQxNywtMT
+kzNDk0NTI5MywxODE1MzAzNTE1LDYxNDM0MTc2MCwyMTE5Njkz
+NjU3LC0xNjQ0OTIxMzE5LDE3NDc1MDM4MDIsLTE5NzIxNDk3ND
+IsMTYzNzQ3NzczNCwtOTcxMjY5OTg2LDE5NjY4NDI3NDMsNDE4
+MzY5NTQzXX0=
 -->
