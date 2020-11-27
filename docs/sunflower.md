@@ -174,10 +174,9 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q52105" title="habitat" aliases="habitats">
 <param ve-entity eid="Q11084414" title="modernity">
 <param ve-entity eid="Q2638759" title="Zundert">
-In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, citydwellers experienced new modes of labor, leisure, transportation, commerce, and communication that, by in large, did not include direct encounters with plants in their natural habitats. That separation from nature impacted those who migrated to cities from small towns in rural areas such as Van Gogh, providing a poignant context for interpreting another painting by him. The artist produced _Sunflowers_ while living in a Parisian suburb, in 1887, far from the rural environments bordering his native Zundert. In this _memento mori_, he frames two flowers that have gone to seed in somber shades of blue. The flowers' barren disc and desicated yellow head serve as mournful reminders of their former beauty, though they also encapsulate the withering of human-plant connections in the face of modernity. Van Gogh's representation of _Helianthus annuus_, like others in this essay, shines a light on understudied aspects of human-plant relationships and our responsibility to approach such encounters with more curiosity, care, and respect for life.
+In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, citydwellers experienced new modes of labor, leisure, transportation, commerce, and communication that, by in large, did not include direct encounters with plants in their natural habitats. That separation from nature impacted those who migrated to cities from small towns in rural areas such as Van Gogh, providing a poignant context for interpreting another painting by him. The artist produced _Sunflowers_ while living in a Parisian suburb, in 1887, far from the rural environments bordering his native Zundert. In this _memento mori_, he frames two flowers that have gone to seed in somber shades of blue. The flowers' barren disc and desicated yellow head serve as mournful reminders of their former beauty, though they also encapsulate the withering of human-plant connections in the face of modernity. Van Gogh's representation of _Helianthus annuus_, like others in this essay, shines a light on understudied aspects of human-plant relationships and our responsibility to approach such encounters with more curiosity, care, and respect.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
-<param ve-image iiif region="1078,259,3906,3278"
-url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title=" Not just a crop plant: As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. Distribution of _Helianthus_ native (green) and introduced (purple)">
+
 
 ### References
 [^ref1]: Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
@@ -230,11 +229,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4OTIyNzIsLTM5Nzc0NjUyMiw5NzgzOD
-MwNzksMjA5NzYwNDc4NywxNjc4MjMwOTU2LDg1NjkxNjU0MSwt
-OTQ0MjM3NzY3LC0xNTkzOTIxOTA2LDE2NTgyNTAyNzIsLTI0MD
-IxNDUyLDIwMTQ3ODI4NzcsMTE5NTE1NTU4Nyw4NDk3NDYwNCwt
-MTk4Nzg3NTI5MiwxMjgwNDk1NDE3LC0xOTM0OTQ1MjkzLDE4MT
-UzMDM1MTUsNjE0MzQxNzYwLDIxMTk2OTM2NTcsLTE2NDQ5MjEz
-MTldfQ==
+eyJoaXN0b3J5IjpbLTE2NjM2ODI1NDMsOTc4OTIyNzIsLTM5Nz
+c0NjUyMiw5NzgzODMwNzksMjA5NzYwNDc4NywxNjc4MjMwOTU2
+LDg1NjkxNjU0MSwtOTQ0MjM3NzY3LC0xNTkzOTIxOTA2LDE2NT
+gyNTAyNzIsLTI0MDIxNDUyLDIwMTQ3ODI4NzcsMTE5NTE1NTU4
+Nyw4NDk3NDYwNCwtMTk4Nzg3NTI5MiwxMjgwNDk1NDE3LC0xOT
+M0OTQ1MjkzLDE4MTUzMDM1MTUsNjE0MzQxNzYwLDIxMTk2OTM2
+NTddfQ==
 -->
