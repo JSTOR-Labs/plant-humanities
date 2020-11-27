@@ -43,7 +43,7 @@ In the late fifteenth and sixteenth centuries, Europeans were eager to collect p
 
 <param ve-entity eid="Q476033" title="Low Countries">
 <param ve-entity eid="Q600093" title="Habsburg Spain">
-Through transregional trade networks, wealthy and privileged Europeans exchanged materials for cultivating _Helianthus annuus_ and instructions for doing so.[^ref5] Printed books, drawings, letters, and herbarium specimens suggest that, once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries. The model, at right, visualizes a group of proto-botanists, physicians, publishers, artists, and members of royal courts who levereged patronage and political connections to generate new knowledge about the plant in Europe between the 1550s and 1570s.
+Through transregional trade networks, wealthy and privileged Europeans exchanged materials for cultivating _Helianthus annuus_ and instructions for doing so.[^ref5] Printed books, drawings, letters, and herbarium specimens suggest that, once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries. The model, at right, visualizes a group of proto-botanists, physicians, publishers, artists, and members of royal courts who levereged political connections and entrepeneurial opportunities to generate new knowledge about the plant through the production of herbals and florilegia between the 1550s and 1570s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="SPAIN">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -224,11 +224,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg3NDYyNjUsMjExOTY5MzY1NywtMT
-Y0NDkyMTMxOSwxNzQ3NTAzODAyLC0xOTcyMTQ5NzQyLDE2Mzc0
-Nzc3MzQsLTk3MTI2OTk4NiwxOTY2ODQyNzQzLDQxODM2OTU0My
-wtMTU0MTU5NzI4LC04NjU4MTE2NzAsLTE5MDIyNjE5MzksLTE5
-MzIzNTQ4MzcsLTkyNDIzMTIwNSw4MTg2MDI4ODMsMzkxNTY2MT
-AxLC0yMTUyMjgwNjcsLTIwMTQzMzc1MjksLTE3NzY2ODk4NTks
-LTEzMDcwNjk1OTJdfQ==
+eyJoaXN0b3J5IjpbODMwMTg1NDkzLDIxMTk2OTM2NTcsLTE2ND
+Q5MjEzMTksMTc0NzUwMzgwMiwtMTk3MjE0OTc0MiwxNjM3NDc3
+NzM0LC05NzEyNjk5ODYsMTk2Njg0Mjc0Myw0MTgzNjk1NDMsLT
+E1NDE1OTcyOCwtODY1ODExNjcwLC0xOTAyMjYxOTM5LC0xOTMy
+MzU0ODM3LC05MjQyMzEyMDUsODE4NjAyODgzLDM5MTU2NjEwMS
+wtMjE1MjI4MDY3LC0yMDE0MzM3NTI5LC0xNzc2Njg5ODU5LC0x
+MzA3MDY5NTkyXX0=
 -->
