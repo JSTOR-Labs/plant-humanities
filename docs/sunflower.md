@@ -171,7 +171,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q202398" title="industrialization">
 <param ve-entity eid="Q161078" title="urbanization">
 <param ve-entity eid="Q628403" title="conservation">
-In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, citydwellers experienced new modes of labor, leisure, transportation, consumption, and communication that were increasingly removed from nature and plants. In the wake of those changes, we may read another painting by Vincent van Gogh, also entitled _Sunflowers_, as a _memento mori_ of sorts. DESCRIBE. EXPLAIN a reminder of a wilting connection to nature in the face of modernity. SENTENCE coincident with emergent conservation movements, particularly in Paris. Not just a crop plant: As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. TRANS. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care. 
+In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, citydwellers experienced new modes of labor, leisure, transportation, consumption, and communication that were increasingly removed . In the wake of those changes, we may read another painting by Vincent van Gogh, also entitled _Sunflowers_, as a _memento mori_ of sorts. DESCRIBE. EXPLAIN a reminder of a wilting connection to nature in the face of modernity. SENTENCE coincident with emergent conservation movements, particularly in Paris. Not just a crop plant: As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. TRANS. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care. 
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 <param ve-image iiif region="1078,259,3906,3278"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
@@ -227,11 +227,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzEwMDE5NTksLTI0MDIxNDUyLDIwMT
-Q3ODI4NzcsMTE5NTE1NTU4Nyw4NDk3NDYwNCwtMTk4Nzg3NTI5
-MiwxMjgwNDk1NDE3LC0xOTM0OTQ1MjkzLDE4MTUzMDM1MTUsNj
-E0MzQxNzYwLDIxMTk2OTM2NTcsLTE2NDQ5MjEzMTksMTc0NzUw
-MzgwMiwtMTk3MjE0OTc0MiwxNjM3NDc3NzM0LC05NzEyNjk5OD
-YsMTk2Njg0Mjc0Myw0MTgzNjk1NDMsLTE1NDE1OTcyOCwtODY1
-ODExNjcwXX0=
+eyJoaXN0b3J5IjpbNDA0NDE5MDIxLC0yNDAyMTQ1MiwyMDE0Nz
+gyODc3LDExOTUxNTU1ODcsODQ5NzQ2MDQsLTE5ODc4NzUyOTIs
+MTI4MDQ5NTQxNywtMTkzNDk0NTI5MywxODE1MzAzNTE1LDYxND
+M0MTc2MCwyMTE5NjkzNjU3LC0xNjQ0OTIxMzE5LDE3NDc1MDM4
+MDIsLTE5NzIxNDk3NDIsMTYzNzQ3NzczNCwtOTcxMjY5OTg2LD
+E5NjY4NDI3NDMsNDE4MzY5NTQzLC0xNTQxNTk3MjgsLTg2NTgx
+MTY3MF19
 -->
