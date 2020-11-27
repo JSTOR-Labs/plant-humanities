@@ -43,6 +43,7 @@ In the late fifteenth and sixteenth centuries, Europeans were eager to collect p
 
 <param ve-entity eid="Q476033" title="Low Countries">
 <param ve-entity eid="Q38" title="Italy">
+<param ve-entity eid="Q181916" title="herbarium">
 Through transregional trade networks, wealthy and privileged Europeans exchanged materials for cultivating _Helianthus annuus_ and instructions for doing so.[^ref5] Printed books, drawings, letters, and herbarium specimens suggest that, once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries. The model, at right, visualizes a group of proto-botanists, physicians, publishers, artists, and members of royal courts who generated new knowledge about the plant through contributing to herbals and florilegia published between the 1550s and 1570s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="SPAIN">
 
@@ -224,11 +225,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTMwMzUxNSw2MTQzNDE3NjAsMjExOT
-Y5MzY1NywtMTY0NDkyMTMxOSwxNzQ3NTAzODAyLC0xOTcyMTQ5
-NzQyLDE2Mzc0Nzc3MzQsLTk3MTI2OTk4NiwxOTY2ODQyNzQzLD
-QxODM2OTU0MywtMTU0MTU5NzI4LC04NjU4MTE2NzAsLTE5MDIy
-NjE5MzksLTE5MzIzNTQ4MzcsLTkyNDIzMTIwNSw4MTg2MDI4OD
-MsMzkxNTY2MTAxLC0yMTUyMjgwNjcsLTIwMTQzMzc1MjksLTE3
-NzY2ODk4NTldfQ==
+eyJoaXN0b3J5IjpbLTE5MzQ5NDUyOTMsMTgxNTMwMzUxNSw2MT
+QzNDE3NjAsMjExOTY5MzY1NywtMTY0NDkyMTMxOSwxNzQ3NTAz
+ODAyLC0xOTcyMTQ5NzQyLDE2Mzc0Nzc3MzQsLTk3MTI2OTk4Ni
+wxOTY2ODQyNzQzLDQxODM2OTU0MywtMTU0MTU5NzI4LC04NjU4
+MTE2NzAsLTE5MDIyNjE5MzksLTE5MzIzNTQ4MzcsLTkyNDIzMT
+IwNSw4MTg2MDI4ODMsMzkxNTY2MTAxLC0yMTUyMjgwNjcsLTIw
+MTQzMzc1MjldfQ==
 -->
