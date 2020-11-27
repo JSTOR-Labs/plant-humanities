@@ -44,7 +44,7 @@ In the late fifteenth and sixteenth centuries, Europeans were eager to collect p
 <param ve-entity eid="Q476033" title="Low Countries">
 <param ve-entity eid="Q38" title="Italy">
 <param ve-entity eid="Q181916" title="herbarium">
-Through transregional trade networks, wealthy and privileged Europeans exchanged materials for cultivating _Helianthus annuus_ and instructions for doing so.[^ref5] Printed books, drawings, letters, and herbarium specimens suggest that, once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries. This model visualizes the connections among a group of proto-botanists, publishers, artists, patrons, and members of royal courts who produced new knowledge about the plant through contributing to herbals and florilegia published between the 1550s and 1570s.
+Through transregional trade networks, wealthy and privileged Europeans exchanged materials for cultivating _Helianthus annuus_ and instructions for doing so.[^ref5] Printed books, drawings, letters, and herbarium specimens suggest that, once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries. This model visualizes the connections among a group of proto-botanists, publishers, artists, patrons, and members of royal courts who produced new knowledge about sunflowers that was published in herbals and florilegia in the 1560s and 1570s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="SPAIN">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -229,11 +229,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzQwOTksLTk0NDIzNzc2NywtMTU5Mz
-kyMTkwNiwxNjU4MjUwMjcyLC0yNDAyMTQ1MiwyMDE0NzgyODc3
-LDExOTUxNTU1ODcsODQ5NzQ2MDQsLTE5ODc4NzUyOTIsMTI4MD
-Q5NTQxNywtMTkzNDk0NTI5MywxODE1MzAzNTE1LDYxNDM0MTc2
-MCwyMTE5NjkzNjU3LC0xNjQ0OTIxMzE5LDE3NDc1MDM4MDIsLT
-E5NzIxNDk3NDIsMTYzNzQ3NzczNCwtOTcxMjY5OTg2LDE5NjY4
-NDI3NDNdfQ==
+eyJoaXN0b3J5IjpbLTE2MjM3MzA1NiwtOTQ0MjM3NzY3LC0xNT
+kzOTIxOTA2LDE2NTgyNTAyNzIsLTI0MDIxNDUyLDIwMTQ3ODI4
+NzcsMTE5NTE1NTU4Nyw4NDk3NDYwNCwtMTk4Nzg3NTI5MiwxMj
+gwNDk1NDE3LC0xOTM0OTQ1MjkzLDE4MTUzMDM1MTUsNjE0MzQx
+NzYwLDIxMTk2OTM2NTcsLTE2NDQ5MjEzMTksMTc0NzUwMzgwMi
+wtMTk3MjE0OTc0MiwxNjM3NDc3NzM0LC05NzEyNjk5ODYsMTk2
+Njg0Mjc0M119
 -->
