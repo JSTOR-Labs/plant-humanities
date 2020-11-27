@@ -172,7 +172,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q161078" title="urbanization">
 <param ve-entity eid="Q628403" title="conservation">
 <param ve-entity eid="Q52105" title="habitat" aliases="habitats">
-In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, citydwellers experienced new modes of labor, leisure, transportation, consumption, and communication that, by in large, did not include direct encounters with plants in their natural habitats. That separation from nature impacted those who migrated to cities, such as Paris, from rural areas, providing a historical context for interpreting a painting of sunflowers that Vincent van Gogh produced while living in a Parisian suburb in 1887. The picture of two sunflowers explores what is left of their disk, florets, bracts, and stem after they have gone to seed, exemplifying a genre of still life paintings known as _memento mori_. The withered flower heads are set against a cool blue background,  connection to nature in the face of modernity , as a . Not just a crop plant: As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. TRANS. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care. 
+In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, citydwellers experienced new modes of labor, leisure, transportation, consumption, and communication that, by in large, did not include direct encounters with plants in their natural habitats. That separation from nature impacted those who migrated to cities, such as Paris, from rural areas, providing a historical context for interpreting a painting of sunflowers that Vincent van Gogh produced while living in a Parisian suburb in 1887. The picture of two sunflowers explores what is left of their disk, florets, bracts, and stem after they have gone to seed, exemplifying a still life genre known as _memento mori_. The withered flower heads  cool blue background,  connection to nature in the face of modernity , as a . Not just a crop plant: As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. TRANS. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care. 
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 <param ve-image iiif region="1078,259,3906,3278"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
@@ -228,11 +228,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1NDM3ODg1LDE2NTgyNTAyNzIsLTI0MD
-IxNDUyLDIwMTQ3ODI4NzcsMTE5NTE1NTU4Nyw4NDk3NDYwNCwt
-MTk4Nzg3NTI5MiwxMjgwNDk1NDE3LC0xOTM0OTQ1MjkzLDE4MT
-UzMDM1MTUsNjE0MzQxNzYwLDIxMTk2OTM2NTcsLTE2NDQ5MjEz
-MTksMTc0NzUwMzgwMiwtMTk3MjE0OTc0MiwxNjM3NDc3NzM0LC
-05NzEyNjk5ODYsMTk2Njg0Mjc0Myw0MTgzNjk1NDMsLTE1NDE1
-OTcyOF19
+eyJoaXN0b3J5IjpbLTk0MjcyODMyOSwxNjU4MjUwMjcyLC0yND
+AyMTQ1MiwyMDE0NzgyODc3LDExOTUxNTU1ODcsODQ5NzQ2MDQs
+LTE5ODc4NzUyOTIsMTI4MDQ5NTQxNywtMTkzNDk0NTI5MywxOD
+E1MzAzNTE1LDYxNDM0MTc2MCwyMTE5NjkzNjU3LC0xNjQ0OTIx
+MzE5LDE3NDc1MDM4MDIsLTE5NzIxNDk3NDIsMTYzNzQ3NzczNC
+wtOTcxMjY5OTg2LDE5NjY4NDI3NDMsNDE4MzY5NTQzLC0xNTQx
+NTk3MjhdfQ==
 -->
