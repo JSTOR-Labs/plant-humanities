@@ -171,7 +171,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q202398" title="industrialization">
 <param ve-entity eid="Q161078" title="urbanization">
 <param ve-entity eid="Q628403" title="conservation">
-In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, SENTENCE. In the wake of those changes, we may read another painting by Vincent van Gogh, also entitled _Sunflowers_, as a _memento mori_ of sorts. DESCRIBE. EXPLAIN a reminder of a wilting connection to nature in the face of modernity. SENTENCE coincident with emergent conservation movements, particularly in Paris. Not just a crop plant: As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. TRANS. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care. 
+In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, citydwellers experie. In the wake of those changes, we may read another painting by Vincent van Gogh, also entitled _Sunflowers_, as a _memento mori_ of sorts. DESCRIBE. EXPLAIN a reminder of a wilting connection to nature in the face of modernity. SENTENCE coincident with emergent conservation movements, particularly in Paris. Not just a crop plant: As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. TRANS. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care. 
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 <param ve-image iiif region="1078,259,3906,3278"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
@@ -227,11 +227,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDc4Mjg3NywxMTk1MTU1NTg3LDg0OT
-c0NjA0LC0xOTg3ODc1MjkyLDEyODA0OTU0MTcsLTE5MzQ5NDUy
-OTMsMTgxNTMwMzUxNSw2MTQzNDE3NjAsMjExOTY5MzY1NywtMT
-Y0NDkyMTMxOSwxNzQ3NTAzODAyLC0xOTcyMTQ5NzQyLDE2Mzc0
-Nzc3MzQsLTk3MTI2OTk4NiwxOTY2ODQyNzQzLDQxODM2OTU0My
-wtMTU0MTU5NzI4LC04NjU4MTE2NzAsLTE5MDIyNjE5MzksLTE5
-MzIzNTQ4MzddfQ==
+eyJoaXN0b3J5IjpbMTc3MzkxMzMwNywyMDE0NzgyODc3LDExOT
+UxNTU1ODcsODQ5NzQ2MDQsLTE5ODc4NzUyOTIsMTI4MDQ5NTQx
+NywtMTkzNDk0NTI5MywxODE1MzAzNTE1LDYxNDM0MTc2MCwyMT
+E5NjkzNjU3LC0xNjQ0OTIxMzE5LDE3NDc1MDM4MDIsLTE5NzIx
+NDk3NDIsMTYzNzQ3NzczNCwtOTcxMjY5OTg2LDE5NjY4NDI3ND
+MsNDE4MzY5NTQzLC0xNTQxNTk3MjgsLTg2NTgxMTY3MCwtMTkw
+MjI2MTkzOV19
 -->
