@@ -43,7 +43,7 @@ In the late fifteenth and sixteenth centuries, Europeans were eager to collect p
 
 <param ve-entity eid="Q476033" title="Low Countries">
 <param ve-entity eid="Q600093" title="Habsburg Spain">
-Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref5] They also exchanged books, drawings, letters, and other communications that established some visual and verbal conventions for describing sunflowers. The model, at right, visualizes a group of physicians, herbalists, translators, publishers, artists, and patrons who traded information about sunflowers in Europe, especially in the Low Countries, between the 1550s and 1570s.
+Through transregional trade networks, wealthy Europeans in  obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref5] They also exchanged books, drawings, letters, and other communications that established some visual and verbal conventions for describing sunflowers. The model, at right, visualizes a group of physicians, herbalists, translators, publishers, artists, and patrons who traded information about sunflowers in Europe, especially in the Low Countries, between the 1550s and 1570s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="LOW COUNTRIES">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -224,11 +224,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDUyMzc4NTAsLTE2NDQ5MjEzMTksMT
-c0NzUwMzgwMiwtMTk3MjE0OTc0MiwxNjM3NDc3NzM0LC05NzEy
-Njk5ODYsMTk2Njg0Mjc0Myw0MTgzNjk1NDMsLTE1NDE1OTcyOC
-wtODY1ODExNjcwLC0xOTAyMjYxOTM5LC0xOTMyMzU0ODM3LC05
-MjQyMzEyMDUsODE4NjAyODgzLDM5MTU2NjEwMSwtMjE1MjI4MD
-Y3LC0yMDE0MzM3NTI5LC0xNzc2Njg5ODU5LC0xMzA3MDY5NTky
-LC01NDkyMTk1ODddfQ==
+eyJoaXN0b3J5IjpbMjExOTY5MzY1NywtMTY0NDkyMTMxOSwxNz
+Q3NTAzODAyLC0xOTcyMTQ5NzQyLDE2Mzc0Nzc3MzQsLTk3MTI2
+OTk4NiwxOTY2ODQyNzQzLDQxODM2OTU0MywtMTU0MTU5NzI4LC
+04NjU4MTE2NzAsLTE5MDIyNjE5MzksLTE5MzIzNTQ4MzcsLTky
+NDIzMTIwNSw4MTg2MDI4ODMsMzkxNTY2MTAxLC0yMTUyMjgwNj
+csLTIwMTQzMzc1MjksLTE3NzY2ODk4NTksLTEzMDcwNjk1OTIs
+LTU0OTIxOTU4N119
 -->
