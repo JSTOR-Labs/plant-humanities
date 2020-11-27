@@ -172,7 +172,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q161078" title="urbanization">
 <param ve-entity eid="Q628403" title="conservation">
 <param ve-entity eid="Q52105" title="habitat" aliases="habitats">
-In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, citydwellers experienced new modes of labor, leisure, transportation, consumption, and communication that, by in large, did not include direct encounters with plants in their natural habitats. That separation from nature impacted those who migrated to cities, such as Paris, from rural areas, providing a historical context for interpreting a painting of sunflowers that Vincent van Gogh produced while living in a Parisian suburb in 1887. The picture explores what is left of two sunflowers after they have gone to seed, exemplifying a still life genre known as _memento mori_. Here, by portraying desicated flower heads and mournful shade of blue sense of loss from a withering of connection to nature in the face of modernity. Not just a crop plant: As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. TRANS. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care. 
+In the latter nineteenth century, a period of rapid industrialization and urbanization in Europe, citydwellers experienced new modes of labor, leisure, transportation, consumption, and communication that, by in large, did not include direct encounters with plants in their natural habitats. That separation from nature impacted those who migrated to cities, such as Paris, from rural areas, providing a historical context for interpreting a painting of sunflowers that Vincent van Gogh produced while living in a Parisian suburb in 1887. The picture explores what is left of two sunflowers after they have gone to seed, exemplifying a type of still life known as _memento mori_. Here, desicated flower heads and a mournful shade of blue, Van Gogh confronts us with withering of connection to nature in the face of modernity. Not just a crop plant: As this map shows, the native range of _Helianthus_ stretches from British Columbia to southwest Mexico, though the plant has been introduced nearly worldwide. TRANS. Because these visual representations shape and are shaped by our interactions with sunflowers, they can illuminate understudied aspects of human-plant relationships and shine a light on our responsibility to approach such encounters with more curiosity and care. 
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 <param ve-image iiif region="1078,259,3906,3278"
 url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_distribution_native_introduced.jpg" title="Distribution of _Helianthus_ native (green) and introduced (purple)">
@@ -228,11 +228,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM5MjE5MDYsMTY1ODI1MDI3MiwtMj
-QwMjE0NTIsMjAxNDc4Mjg3NywxMTk1MTU1NTg3LDg0OTc0NjA0
-LC0xOTg3ODc1MjkyLDEyODA0OTU0MTcsLTE5MzQ5NDUyOTMsMT
-gxNTMwMzUxNSw2MTQzNDE3NjAsMjExOTY5MzY1NywtMTY0NDky
-MTMxOSwxNzQ3NTAzODAyLC0xOTcyMTQ5NzQyLDE2Mzc0Nzc3Mz
-QsLTk3MTI2OTk4NiwxOTY2ODQyNzQzLDQxODM2OTU0MywtMTU0
-MTU5NzI4XX0=
+eyJoaXN0b3J5IjpbMTY2MDI2MDcwNiwtMTU5MzkyMTkwNiwxNj
+U4MjUwMjcyLC0yNDAyMTQ1MiwyMDE0NzgyODc3LDExOTUxNTU1
+ODcsODQ5NzQ2MDQsLTE5ODc4NzUyOTIsMTI4MDQ5NTQxNywtMT
+kzNDk0NTI5MywxODE1MzAzNTE1LDYxNDM0MTc2MCwyMTE5Njkz
+NjU3LC0xNjQ0OTIxMzE5LDE3NDc1MDM4MDIsLTE5NzIxNDk3ND
+IsMTYzNzQ3NzczNCwtOTcxMjY5OTg2LDE5NjY4NDI3NDMsNDE4
+MzY5NTQzXX0=
 -->
