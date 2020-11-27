@@ -43,7 +43,7 @@ In the late fifteenth and sixteenth centuries, Europeans were eager to collect p
 
 <param ve-entity eid="Q476033" title="Low Countries">
 <param ve-entity eid="Q600093" title="Habsburg Spain">
-Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref5] They also exchanged books, drawings, letters, and other communications that established some visual and verbal conventions for describing sunflowers. The model, at right, visualizes a group of physicians, herbalists, translators, publishers, artists, and patrons who traded information about sunflowers in Europe, especially in the Low Countries, between the 1550s and 1570s. The Low Countries, then under the rule of Habsburg Spain, were a leading print center where artists and woodblock carvers, who embraced a naturalistic mode of portraying plants, elevated the quality of illustrations with respect to the accuracy of specimens shown therein. That kind of precision became increasingly valuable as the number of known plants dramatically grew and images rather than names, which lacked uniformity across sources, became the preferred method of identifying specimens.
+Through transregional trade networks wealthy Europeans obtained materials for cultivating sunflowers in medicinal and ornamental gardens and instructions for doing so.[^ref5] They also exchanged books, drawings, letters, and other communications that established some visual and verbal conventions for describing sunflowers. The model, at right, visualizes a group of physicians, herbalists, translators, publishers, artists, and patrons who traded information about sunflowers in Europe, especially in the Low Countries, between the 1550s and 1570s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="LOW COUNTRIES">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -224,11 +224,11 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzUwMzgwMiwtMTk3MjE0OTc0MiwxNj
-M3NDc3NzM0LC05NzEyNjk5ODYsMTk2Njg0Mjc0Myw0MTgzNjk1
-NDMsLTE1NDE1OTcyOCwtODY1ODExNjcwLC0xOTAyMjYxOTM5LC
-0xOTMyMzU0ODM3LC05MjQyMzEyMDUsODE4NjAyODgzLDM5MTU2
-NjEwMSwtMjE1MjI4MDY3LC0yMDE0MzM3NTI5LC0xNzc2Njg5OD
-U5LC0xMzA3MDY5NTkyLC01NDkyMTk1ODcsLTQ0MjIzMTI5OSwt
-MTIyNTgxMzY3OV19
+eyJoaXN0b3J5IjpbLTE2NDQ5MjEzMTksMTc0NzUwMzgwMiwtMT
+k3MjE0OTc0MiwxNjM3NDc3NzM0LC05NzEyNjk5ODYsMTk2Njg0
+Mjc0Myw0MTgzNjk1NDMsLTE1NDE1OTcyOCwtODY1ODExNjcwLC
+0xOTAyMjYxOTM5LC0xOTMyMzU0ODM3LC05MjQyMzEyMDUsODE4
+NjAyODgzLDM5MTU2NjEwMSwtMjE1MjI4MDY3LC0yMDE0MzM3NT
+I5LC0xNzc2Njg5ODU5LC0xMzA3MDY5NTkyLC01NDkyMTk1ODcs
+LTQ0MjIzMTI5OV19
 -->
