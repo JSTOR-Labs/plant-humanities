@@ -43,7 +43,7 @@ In the late fifteenth and sixteenth centuries, Europeans were eager to collect p
 
 <param ve-entity eid="Q476033" title="Low Countries">
 <param ve-entity eid="Q600093" title="Habsburg Spain">
-Through transregional trade networks, wealthy and privileged Europeans exchanged materials for cultivating _Helianthus annuus_ and instructions for doing so.[^ref5] Printed books, drawings, letters, and herbarium specimens suggest that, once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries. The model, at right, visualizes a group of physicians, herbalists, publishers, artists, and patrons who levereged political connections and other resources to generate new knowledge about the plant in Europe between the 1550s and 1570s.
+Through transregional trade networks, wealthy and privileged Europeans exchanged materials for cultivating _Helianthus annuus_ and instructions for doing so.[^ref5] Printed books, drawings, letters, and herbarium specimens suggest that, once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries. The model, at right, visualizes a group of proto-botanists, physicians, publishers, artists, and members of royal courts who levereged patronage and political connections to generate new knowledge about the plant in Europe between the 1550s and 1570s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="SPAIN">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -224,7 +224,7 @@ url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ1ODQyNzYsMjExOTY5MzY1NywtMT
+eyJoaXN0b3J5IjpbLTE5MTg3NDYyNjUsMjExOTY5MzY1NywtMT
 Y0NDkyMTMxOSwxNzQ3NTAzODAyLC0xOTcyMTQ5NzQyLDE2Mzc0
 Nzc3MzQsLTk3MTI2OTk4NiwxOTY2ODQyNzQzLDQxODM2OTU0My
 wtMTU0MTU5NzI4LC04NjU4MTE2NzAsLTE5MDIyNjE5MzksLTE5
