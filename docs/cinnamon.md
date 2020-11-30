@@ -1,6 +1,6 @@
 <param ve-config
 	title="Cinnamon: [subtitle]"
-	banner="https://upload.wikimedia.org/wikipedia/commons/6/61/Gew%C3%B6hnlicher_Buchsbaum%2C_Buxus_sempervirens_.JPG"
+	banner="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/cinnamon_banner_image.jpg"
 	layout="vtl"
 	num-maps="0"
 	num-images="0"
@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 change stuff here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTkxODcyNSwtMTIyNDgxNzQ0NCwtMT
-A2NTQ5MzczNCw0ODI2Mjc3MjgsMjA4OTMzNzU0OCwtNzkwMjQ0
-MzUxXX0=
+eyJoaXN0b3J5IjpbLTM1NzcwOTIwMSwxNzYxOTE4NzI1LC0xMj
+I0ODE3NDQ0LC0xMDY1NDkzNzM0LDQ4MjYyNzcyOCwyMDg5MzM3
+NTQ4LC03OTAyNDQzNTFdfQ==
 -->
