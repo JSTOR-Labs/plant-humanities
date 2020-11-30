@@ -144,7 +144,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q2299244" title="wilting" aliases="wilt">
 In this still life, Vincent van Gogh explores the expressive capacity of floral forms and the color yellow by showing an arrangement of more than a dozen sunflowers in an earthenware vessel, against a buttercream background. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that two different types of _Helianthus annuus_ are portrayed here and they were harvested at different stages of their life cycles. The sunflowers, at top left and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety known as the "Teddy Bear"—are still vibrant.[^ref21] Van Gogh painted this and several other depictions of sunflowers directly from life during the summer of 1888, after relocating to Arles, France, the previous winter.[^ref22] Energized by the bright light of Provence during the warm months, the painter brought a renewed vigor to his engagements with the visual, tactile, and emotive qualities of mature _H. annuus_, producing iconic plant portraits, like this one, that are intertwined with his mythic status in mass culture.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
-<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," attributed to Kor!An (Корзун Андрей), Wikimedia Commons">
+<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," Kor!An (Корзун Андрей), Wikimedia Commons">
 
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
@@ -226,11 +226,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTc1OTU2MCwtNDYwMjg4MzE3LC0xOD
-Q4NzU1NzA0LC0yMTExNzI4NDc4LC00MTY3MDg3ODQsMTY0ODUx
-NzY5MSwtMjEzMjM5NTI2MywtMzYyMzc2MTc1LC0xNDkwNDc2Nj
-MsLTUyOTExNzA1Niw4NDgyNzU0ODIsLTE3MDk1Nzk1MTAsMTIw
-Nzc0MDYzOCwxNzM2MTY5Nzc2LDk3ODkyMjcyLC0zOTc3NDY1Mj
-IsOTc4MzgzMDc5LDIwOTc2MDQ3ODcsMTY3ODIzMDk1Niw4NTY5
-MTY1NDFdfQ==
+eyJoaXN0b3J5IjpbODcyODUyODIxLDE5Nzk3NTk1NjAsLTQ2MD
+I4ODMxNywtMTg0ODc1NTcwNCwtMjExMTcyODQ3OCwtNDE2NzA4
+Nzg0LDE2NDg1MTc2OTEsLTIxMzIzOTUyNjMsLTM2MjM3NjE3NS
+wtMTQ5MDQ3NjYzLC01MjkxMTcwNTYsODQ4Mjc1NDgyLC0xNzA5
+NTc5NTEwLDEyMDc3NDA2MzgsMTczNjE2OTc3Niw5Nzg5MjI3Mi
+wtMzk3NzQ2NTIyLDk3ODM4MzA3OSwyMDk3NjA0Nzg3LDE2Nzgy
+MzA5NTZdfQ==
 -->
