@@ -67,7 +67,7 @@ that anticipates modern visual stereotypes for the plant, perhaps best epitomize
 The migration of sunflower iconography is evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_, which was published posthumously in 1651. The book purports to document plants and animals that Hernández and his team, which included several indigenous artists, observed during a three-year expedition through Mexico in the 1570s.[^ref7] However, its illustrations of sunflowers, shown here, were not drawn on-site from local flora but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait made under Besler’s direction for inclusion in _Hortus Eystettensis_. <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from Anthoine Colin's _[Histoire des simples médicamens apportés de l'Amerique](https://www.biodiversitylibrary.org/page/7815694)_ (1619), a French-language translation of a text by Monardes, or from a similar precedent. These appropriations have been interpreted as evidence that Hernández’s team of artists or those working on his manuscript at a later date had to copy existing imagery because the sunflower was not established in Mexico at the time of the expedition.[^ref8] If that were so, Hernández’s discussion of the sunflower conveyed a mythic encounter with the plant, reproducing European misconceptions about its range that scientists would later dispute.
 <param ve-image iiif primary fit="contain" url="https://ia800805.us.archive.org/BookReader/BookReaderImages.php?id=novaplantarumani00hern&itemPath=%2F5%2Fitems%2Fnovaplantarumani00hern&server=ia800805.us.archive.org&page=n245_w820" title="Hernández, Francisco, _Nova plantarum, animalium et mineralium Mexicanorum historia_, 1651, John Carter Brown Library, Internet Archive">
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-<param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, Missouri Botanical Garden, Biodiversity Heritage Library">
+<param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, trans. Anthoine Colin, Missouri Botanical Garden, Biodiversity Heritage Library">
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
@@ -226,11 +226,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTI2Mjg5MywxNjQ4NTE3NjkxLC0yMT
-MyMzk1MjYzLC0zNjIzNzYxNzUsLTE0OTA0NzY2MywtNTI5MTE3
-MDU2LDg0ODI3NTQ4MiwtMTcwOTU3OTUxMCwxMjA3NzQwNjM4LD
-E3MzYxNjk3NzYsOTc4OTIyNzIsLTM5Nzc0NjUyMiw5NzgzODMw
-NzksMjA5NzYwNDc4NywxNjc4MjMwOTU2LDg1NjkxNjU0MSwtOT
-Q0MjM3NzY3LC0xNTkzOTIxOTA2LDE2NTgyNTAyNzIsLTI0MDIx
-NDUyXX0=
+eyJoaXN0b3J5IjpbLTI1MDY2NDQ2LDE2NDg1MTc2OTEsLTIxMz
+IzOTUyNjMsLTM2MjM3NjE3NSwtMTQ5MDQ3NjYzLC01MjkxMTcw
+NTYsODQ4Mjc1NDgyLC0xNzA5NTc5NTEwLDEyMDc3NDA2MzgsMT
+czNjE2OTc3Niw5Nzg5MjI3MiwtMzk3NzQ2NTIyLDk3ODM4MzA3
+OSwyMDk3NjA0Nzg3LDE2NzgyMzA5NTYsODU2OTE2NTQxLC05ND
+QyMzc3NjcsLTE1OTM5MjE5MDYsMTY1ODI1MDI3MiwtMjQwMjE0
+NTJdfQ==
 -->
