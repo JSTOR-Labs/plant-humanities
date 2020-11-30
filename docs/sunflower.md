@@ -121,8 +121,8 @@ In the eighteenth and early nineteenth centuries, botanical illustrators develop
 <param ve-entity eid="Q14847254" title="Compositae"> 
 <param ve-entity eid="Q30765614" title="floret" aliases="florets"> 
 Henderson's botanical illustration highlights a trait of the sunflower that we may overlook due to our casual familiarity with the plant. Its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets.[^ref20] This diagram of a mature flower head shows that what we generally call “petals” are actually ray florets, which are sterile and serve to attract pollinators to disk florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own fruit after pollination. Perceiving such floral traits and examining their functions requires a process of direct observation and visual analysis akin to making and studying artworks.
-<param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons Attribution-NonCommercial License - Version 3.0">
-<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Helianthus whirl, attributed to L. Shyamal © Creative Commons Attribution-Share Alike 2.5">
+<param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons">
+<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="_Helianthus_ whirl, L. Shyamal, Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg">
 
 <param ve-entity eid="Q5928444" title="Robert John Thornton">
@@ -226,11 +226,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDI4ODMxNywtMTg0ODc1NTcwNCwtMj
-ExMTcyODQ3OCwtNDE2NzA4Nzg0LDE2NDg1MTc2OTEsLTIxMzIz
-OTUyNjMsLTM2MjM3NjE3NSwtMTQ5MDQ3NjYzLC01MjkxMTcwNT
-YsODQ4Mjc1NDgyLC0xNzA5NTc5NTEwLDEyMDc3NDA2MzgsMTcz
-NjE2OTc3Niw5Nzg5MjI3MiwtMzk3NzQ2NTIyLDk3ODM4MzA3OS
-wyMDk3NjA0Nzg3LDE2NzgyMzA5NTYsODU2OTE2NTQxLC05NDQy
-Mzc3NjddfQ==
+eyJoaXN0b3J5IjpbMTk3OTc1OTU2MCwtNDYwMjg4MzE3LC0xOD
+Q4NzU1NzA0LC0yMTExNzI4NDc4LC00MTY3MDg3ODQsMTY0ODUx
+NzY5MSwtMjEzMjM5NTI2MywtMzYyMzc2MTc1LC0xNDkwNDc2Nj
+MsLTUyOTExNzA1Niw4NDgyNzU0ODIsLTE3MDk1Nzk1MTAsMTIw
+Nzc0MDYzOCwxNzM2MTY5Nzc2LDk3ODkyMjcyLC0zOTc3NDY1Mj
+IsOTc4MzgzMDc5LDIwOTc2MDQ3ODcsMTY3ODIzMDk1Niw4NTY5
+MTY1NDFdfQ==
 -->
