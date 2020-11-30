@@ -44,7 +44,7 @@ In the late fifteenth and sixteenth centuries, Europeans were eager to collect p
 <param ve-entity eid="Q476033" title="Low Countries">
 <param ve-entity eid="Q38" title="Italy">
 <param ve-entity eid="Q181916" title="herbarium">
-Through transregional trade networks, wealthy and privileged Europeans exchanged materials for cultivating _Helianthus annuus_ and instructions for doing so.[^ref5] Printed books, drawings, letters, and herbarium specimens suggest that, once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries. This model visualizes the connections among a group of proto-botanists, publishers, artists, patrons, and members of royal courts in those regions who produced new knowledge about sunflowers, which was published in herbals and florilegia in the 1560s and 1570s.
+Through transregional trade networks, wealthy and privileged Europeans exchanged materials for cultivating _Helianthus annuus_ and instructions for doing so.[^ref5] Printed books, drawings, letters, and herbarium specimens suggest that, once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries. This model visualizes some connections among a group of proto-botanists, publishers, artists, patrons, and members of royal courts that facilitated the exchange and production of new knowledge about sunflowers, which was published in herbals and florilegia in the 1560s and 1570s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="PROTO BOTANIST">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjM3NjE3NSwtMTQ5MDQ3NjYzLC01Mj
-kxMTcwNTYsODQ4Mjc1NDgyLC0xNzA5NTc5NTEwLDEyMDc3NDA2
-MzgsMTczNjE2OTc3Niw5Nzg5MjI3MiwtMzk3NzQ2NTIyLDk3OD
-M4MzA3OSwyMDk3NjA0Nzg3LDE2NzgyMzA5NTYsODU2OTE2NTQx
-LC05NDQyMzc3NjcsLTE1OTM5MjE5MDYsMTY1ODI1MDI3MiwtMj
-QwMjE0NTIsMjAxNDc4Mjg3NywxMTk1MTU1NTg3LDg0OTc0NjA0
-XX0=
+eyJoaXN0b3J5IjpbLTIxMzIzOTUyNjMsLTM2MjM3NjE3NSwtMT
+Q5MDQ3NjYzLC01MjkxMTcwNTYsODQ4Mjc1NDgyLC0xNzA5NTc5
+NTEwLDEyMDc3NDA2MzgsMTczNjE2OTc3Niw5Nzg5MjI3MiwtMz
+k3NzQ2NTIyLDk3ODM4MzA3OSwyMDk3NjA0Nzg3LDE2NzgyMzA5
+NTYsODU2OTE2NTQxLC05NDQyMzc3NjcsLTE1OTM5MjE5MDYsMT
+Y1ODI1MDI3MiwtMjQwMjE0NTIsMjAxNDc4Mjg3NywxMTk1MTU1
+NTg3XX0=
 -->
