@@ -12,7 +12,7 @@
 <param ve-entity eid="Q235352" title="crop" aliases="crop plants">
 <param ve-entity eid="Q199182" title="ornamental plant" aliases="ornamental">
 _Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans domesticated in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported.
-<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
+<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, Iampinkavocado, Wikimedia Commons">
 
 <param ve-entity eid="Q995745" title="artificial selection" aliases="artificially selected">
 <param ve-entity eid="Q3796486" title="botanical illustration">
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4Mjc1NDgyLC0xNzA5NTc5NTEwLDEyMD
-c3NDA2MzgsMTczNjE2OTc3Niw5Nzg5MjI3MiwtMzk3NzQ2NTIy
-LDk3ODM4MzA3OSwyMDk3NjA0Nzg3LDE2NzgyMzA5NTYsODU2OT
-E2NTQxLC05NDQyMzc3NjcsLTE1OTM5MjE5MDYsMTY1ODI1MDI3
-MiwtMjQwMjE0NTIsMjAxNDc4Mjg3NywxMTk1MTU1NTg3LDg0OT
-c0NjA0LC0xOTg3ODc1MjkyLDEyODA0OTU0MTcsLTE5MzQ5NDUy
-OTNdfQ==
+eyJoaXN0b3J5IjpbLTUyOTExNzA1Niw4NDgyNzU0ODIsLTE3MD
+k1Nzk1MTAsMTIwNzc0MDYzOCwxNzM2MTY5Nzc2LDk3ODkyMjcy
+LC0zOTc3NDY1MjIsOTc4MzgzMDc5LDIwOTc2MDQ3ODcsMTY3OD
+IzMDk1Niw4NTY5MTY1NDEsLTk0NDIzNzc2NywtMTU5MzkyMTkw
+NiwxNjU4MjUwMjcyLC0yNDAyMTQ1MiwyMDE0NzgyODc3LDExOT
+UxNTU1ODcsODQ5NzQ2MDQsLTE5ODc4NzUyOTIsMTI4MDQ5NTQx
+N119
 -->
