@@ -1,8 +1,12 @@
 <param ve-config
-       title="Essay title"
-       author="Author names"
-       banner="/images/header.jpg"
-       layout="vtl">
+	title="Cinnamon: [subtitle]"
+	banner="https://upload.wikimedia.org/wikipedia/commons/6/61/Gew%C3%B6hnlicher_Buchsbaum%2C_Buxus_sempervirens_.JPG"
+	layout="vtl"
+	num-maps="0"
+	num-images="0"
+	num-specimens="0"
+	num-primary-sources="0"
+	author="Wouter Klein">
 
 # Essay template
 
@@ -10,6 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 change stuff here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQ4MTc0NDQsLTEwNjU0OTM3MzQsND
-gyNjI3NzI4LDIwODkzMzc1NDgsLTc5MDI0NDM1MV19
+eyJoaXN0b3J5IjpbMTc2MTkxODcyNSwtMTIyNDgxNzQ0NCwtMT
+A2NTQ5MzczNCw0ODI2Mjc3MjgsMjA4OTMzNzU0OCwtNzkwMjQ0
+MzUxXX0=
 -->
