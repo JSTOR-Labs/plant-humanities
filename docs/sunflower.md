@@ -59,7 +59,7 @@ that anticipates modern visual stereotypes for the plant, perhaps best epitomize
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
-<param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, attributed to J. Donvil, CC Attribution-Share Alike 4.0 International">
+<param ve-image iiif fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Hortus_Eystettensis.jpg" title="Basilius Besler, _Hortus Eystettensis_, 1613, R. 23E, Université de Liège, J. Donvil, Wikimedia Commons">
 
 ### Mythic Encounters and Scientific Debates
 
@@ -228,7 +228,7 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjEyMzE2NSwtMjEzMjM5NTI2MywtMz
+eyJoaXN0b3J5IjpbMTY0ODUxNzY5MSwtMjEzMjM5NTI2MywtMz
 YyMzc2MTc1LC0xNDkwNDc2NjMsLTUyOTExNzA1Niw4NDgyNzU0
 ODIsLTE3MDk1Nzk1MTAsMTIwNzc0MDYzOCwxNzM2MTY5Nzc2LD
 k3ODkyMjcyLC0zOTc3NDY1MjIsOTc4MzgzMDc5LDIwOTc2MDQ3
