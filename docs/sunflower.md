@@ -23,7 +23,7 @@ Yet, as this botanical illustration reminds us, cultivated _Helianthus annuus_ a
 
 <param ve-entity eid="Q861716" title="visual culture">
 Sunflower imagery can provide rich historical information about the genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_ and the roles of visual culture in communicating knowledges, myths, and meanings related to plants. Artists working in Europe and North America from the colonial to the modern period, produced likenesses of the sunflower that served aesthetic, scientific, commercial, and other functions. In doing so, they developed conventions for representing specific characteristics of sunflowers that were tailored to those aims. By tracking changes in that [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) over time, we can learn about the historical significance of sunflowers in specific temporal and geographic contexts, as well as shifts in the ways that humans have represented, encountered, used, studied, and valued the genus. Through that practice of close visual analysis, that engaging with artworks necessarily involves, we also cultivate a greater attentiveness to bring to our encounters with plants.
-<param ve-image layers url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="Sunflower, attributed to Iampinkavocado, CC Attribution-Share Alike 4.0 International">
+<param ve-image layers url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
 <param ve-image url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
 
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1NDIzNDQwLC02Njg0ODU2NzAsMzQwMT
-Y2OTcwLC0xODc5MjI4OTcxLDE2MDc3MDc2MTQsLTExODY3MjQz
-NDgsLTIwNDYwMjM1NDQsMTYyMDM3MzU2MiwtMTE0MTM1MTY2MS
-wtMTE0MTM1MTY2MSwtMTIxMzkxMTQ3MiwtNzI5NzI3MDk1LC0x
-MDA3NzA1OTU2LDEwMzAwMDM3NjAsLTE3NzI5NzE4NjQsODcyOD
-UyODIxLDE5Nzk3NTk1NjAsLTQ2MDI4ODMxNywtMTg0ODc1NTcw
-NCwtMjExMTcyODQ3OF19
+eyJoaXN0b3J5IjpbMjEwMjY1Mzg1NCwzOTU0MjM0NDAsLTY2OD
+Q4NTY3MCwzNDAxNjY5NzAsLTE4NzkyMjg5NzEsMTYwNzcwNzYx
+NCwtMTE4NjcyNDM0OCwtMjA0NjAyMzU0NCwxNjIwMzczNTYyLC
+0xMTQxMzUxNjYxLC0xMTQxMzUxNjYxLC0xMjEzOTExNDcyLC03
+Mjk3MjcwOTUsLTEwMDc3MDU5NTYsMTAzMDAwMzc2MCwtMTc3Mj
+k3MTg2NCw4NzI4NTI4MjEsMTk3OTc1OTU2MCwtNDYwMjg4MzE3
+LC0xODQ4NzU1NzA0XX0=
 -->
