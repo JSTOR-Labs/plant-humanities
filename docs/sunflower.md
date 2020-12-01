@@ -18,7 +18,7 @@ _Helianthus annuus_ (common sunflower) holds a special status in the plant kingd
 
 <param ve-entity eid="Q995745" title="artificial selection" aliases="artificially selected">
 <param ve-entity eid="Q3796486" title="botanical illustration">
-Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the visual arts. Like the supersized flower in this plant portrait, the domesticated sunflower looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. The proliferation of the flower in European art is due partly to the aesthetic appeal of traits artificially selected to increase seed production, a single bloom with a large disk, and partly to the timing of its introduction to Europe coincident with the flourishing of a new genre of botanical treatise known as the [florilegium](https://wordsmith.org/words/florilegium.html) ("collection of flowers").
+Yet, as this botanical illustration reminds us, cultivated _Helianthus annuus_ also has an imposing presence in the visual arts. Like the supersized flower in this plant portrait, the domesticated sunflower looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. The proliferation of the flower in European art is due partly to the aesthetic appeal of traits artificially selected to increase seed production, a single bloom with a large disk, and partly to the timing of its introduction to Europe coincident with the flourishing of a new genre of botanical treatise known as the [florilegium](https://wordsmith.org/words/florilegium.html) ("collection of flowers").
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 <param ve-entity eid="Q861716" title="visual culture">
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzkyMjg5NzEsMTYwNzcwNzYxNCwtMT
-E4NjcyNDM0OCwtMjA0NjAyMzU0NCwxNjIwMzczNTYyLC0xMTQx
-MzUxNjYxLC0xMTQxMzUxNjYxLC0xMjEzOTExNDcyLC03Mjk3Mj
-cwOTUsLTEwMDc3MDU5NTYsMTAzMDAwMzc2MCwtMTc3Mjk3MTg2
-NCw4NzI4NTI4MjEsMTk3OTc1OTU2MCwtNDYwMjg4MzE3LC0xOD
-Q4NzU1NzA0LC0yMTExNzI4NDc4LC00MTY3MDg3ODQsMTY0ODUx
-NzY5MSwtMjEzMjM5NTI2M119
+eyJoaXN0b3J5IjpbMTQzNDcyMjQ1MiwtMTg3OTIyODk3MSwxNj
+A3NzA3NjE0LC0xMTg2NzI0MzQ4LC0yMDQ2MDIzNTQ0LDE2MjAz
+NzM1NjIsLTExNDEzNTE2NjEsLTExNDEzNTE2NjEsLTEyMTM5MT
+E0NzIsLTcyOTcyNzA5NSwtMTAwNzcwNTk1NiwxMDMwMDAzNzYw
+LC0xNzcyOTcxODY0LDg3Mjg1MjgyMSwxOTc5NzU5NTYwLC00Nj
+AyODgzMTcsLTE4NDg3NTU3MDQsLTIxMTE3Mjg0NzgsLTQxNjcw
+ODc4NCwxNjQ4NTE3NjkxXX0=
 -->
