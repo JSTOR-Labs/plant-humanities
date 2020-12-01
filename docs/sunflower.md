@@ -151,7 +151,7 @@ In this still life, Vincent van Gogh explores the expressive capacity of floral 
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
 <param ve-entity eid="Q181916" title="herbarium">
 Contrary to what is most often portrayed in images and texts, the palette of _Helianthus_ is not limited to yellow. Indeed, there are more than fifty accepted species grouped under _Helianthus_ and, 
-![Sunflower](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
 their color can range from gold to orange to red to dark purple and even an unexpected shade of pink. Species also vary in terms of size and the number and shape of their leaves and flower heads, as demonstrated by these herbarium sheets with dried _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke). The specimens also dispel the notion that sunflowers only have one large blossom per stock.
 <param ve-plant-specimen eid="Q171497" max="1">
 <param ve-plant-specimen eid="Q12212017" max="1">
@@ -226,11 +226,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzA4NTY2NiwtMTE0MTM1MTY2MSwtMT
-IxMzkxMTQ3MiwtNzI5NzI3MDk1LC0xMDA3NzA1OTU2LDEwMzAw
-MDM3NjAsLTE3NzI5NzE4NjQsODcyODUyODIxLDE5Nzk3NTk1Nj
-AsLTQ2MDI4ODMxNywtMTg0ODc1NTcwNCwtMjExMTcyODQ3OCwt
-NDE2NzA4Nzg0LDE2NDg1MTc2OTEsLTIxMzIzOTUyNjMsLTM2Mj
-M3NjE3NSwtMTQ5MDQ3NjYzLC01MjkxMTcwNTYsODQ4Mjc1NDgy
-LC0xNzA5NTc5NTEwXX0=
+eyJoaXN0b3J5IjpbLTExNDEzNTE2NjEsLTExNDEzNTE2NjEsLT
+EyMTM5MTE0NzIsLTcyOTcyNzA5NSwtMTAwNzcwNTk1NiwxMDMw
+MDAzNzYwLC0xNzcyOTcxODY0LDg3Mjg1MjgyMSwxOTc5NzU5NT
+YwLC00NjAyODgzMTcsLTE4NDg3NTU3MDQsLTIxMTE3Mjg0Nzgs
+LTQxNjcwODc4NCwxNjQ4NTE3NjkxLC0yMTMyMzk1MjYzLC0zNj
+IzNzYxNzUsLTE0OTA0NzY2MywtNTI5MTE3MDU2LDg0ODI3NTQ4
+MiwtMTcwOTU3OTUxMF19
 -->
