@@ -32,7 +32,7 @@ Sunflower imagery can provide rich historical information about the genus _[Heli
 <param ve-entity eid="Q10432667306" title="Carl Linnaeus" aliases="Carolus Linnaeus">
 <param ve-entity eid="Q66425303" title="iconic">
 The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—and the species _Helianthus annuus_ were named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the plant was already a beloved garden flower in Europe.[^ref2] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant, in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_ (1737), offers some insights. He asks, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?”[^ref3] His encomium on the splendor of the mature _Helianthus_ and its formal resemblance to the sun demonstrates some traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
-<param ve-image primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, p. 97 Nomina Generica, _Critica botanica_, 1737, Lugduni Batavorum: Apud Conradum Wishoff © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
+<param ve-image primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, Nomina Generica, _Critica botanica_, 1737, Lugduni Batavorum: Apud Conradum Wishoff © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, p. 98 Nomina Generica, _Critica botanica_, 1737, Lugduni Batavorum: Apud Conradum Wishoff © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
 ### Plant Mobility and Early Printed Books
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAxODE5MzgsMjEwMjY1Mzg1NCwzOT
-U0MjM0NDAsLTY2ODQ4NTY3MCwzNDAxNjY5NzAsLTE4NzkyMjg5
-NzEsMTYwNzcwNzYxNCwtMTE4NjcyNDM0OCwtMjA0NjAyMzU0NC
-wxNjIwMzczNTYyLC0xMTQxMzUxNjYxLC0xMTQxMzUxNjYxLC0x
-MjEzOTExNDcyLC03Mjk3MjcwOTUsLTEwMDc3MDU5NTYsMTAzMD
-AwMzc2MCwtMTc3Mjk3MTg2NCw4NzI4NTI4MjEsMTk3OTc1OTU2
-MCwtNDYwMjg4MzE3XX0=
+eyJoaXN0b3J5IjpbNTExNDQ5MTk4LC0xNjgwMTgxOTM4LDIxMD
+I2NTM4NTQsMzk1NDIzNDQwLC02Njg0ODU2NzAsMzQwMTY2OTcw
+LC0xODc5MjI4OTcxLDE2MDc3MDc2MTQsLTExODY3MjQzNDgsLT
+IwNDYwMjM1NDQsMTYyMDM3MzU2MiwtMTE0MTM1MTY2MSwtMTE0
+MTM1MTY2MSwtMTIxMzkxMTQ3MiwtNzI5NzI3MDk1LC0xMDA3Nz
+A1OTU2LDEwMzAwMDM3NjAsLTE3NzI5NzE4NjQsODcyODUyODIx
+LDE5Nzk3NTk1NjBdfQ==
 -->
