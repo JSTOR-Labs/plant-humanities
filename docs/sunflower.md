@@ -12,7 +12,7 @@
 <param ve-entity eid="Q235352" title="crop" aliases="crop plants">
 <param ve-entity eid="Q199182" title="ornamental plant" aliases="ornamental">
 <param ve-entity eid="Q297292" title="oil seed" aliases="oil seeds">
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans first domesticated in North America thousands of years ago.[^ref1] Today, the cultivated annual is grown nearly worldwide, mainly as a source of protein-rich oil seeds. The domesticated sunflower is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported.
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans first domesticated from a wild ancestor in North America thousands of years ago.[^ref1] Today, the cultivated annual is grown nearly worldwide, mainly as a source of protein-rich oil seeds. The domesticated sunflower is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Helianthus_annuus_3.jpg" title="Wild _Helianthus annuus_ has a branched stem and multiple flower heads, Kyle Canyon Road, Spring Mountains, southern Nevada, Stan Shebs, Wikimedia Commons, CC BY-SA 3.0">
 
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDcyMjQ1MiwtMTg3OTIyODk3MSwxNj
-A3NzA3NjE0LC0xMTg2NzI0MzQ4LC0yMDQ2MDIzNTQ0LDE2MjAz
-NzM1NjIsLTExNDEzNTE2NjEsLTExNDEzNTE2NjEsLTEyMTM5MT
-E0NzIsLTcyOTcyNzA5NSwtMTAwNzcwNTk1NiwxMDMwMDAzNzYw
-LC0xNzcyOTcxODY0LDg3Mjg1MjgyMSwxOTc5NzU5NTYwLC00Nj
-AyODgzMTcsLTE4NDg3NTU3MDQsLTIxMTE3Mjg0NzgsLTQxNjcw
-ODc4NCwxNjQ4NTE3NjkxXX0=
+eyJoaXN0b3J5IjpbMzQwMTY2OTcwLC0xODc5MjI4OTcxLDE2MD
+c3MDc2MTQsLTExODY3MjQzNDgsLTIwNDYwMjM1NDQsMTYyMDM3
+MzU2MiwtMTE0MTM1MTY2MSwtMTE0MTM1MTY2MSwtMTIxMzkxMT
+Q3MiwtNzI5NzI3MDk1LC0xMDA3NzA1OTU2LDEwMzAwMDM3NjAs
+LTE3NzI5NzE4NjQsODcyODUyODIxLDE5Nzk3NTk1NjAsLTQ2MD
+I4ODMxNywtMTg0ODc1NTcwNCwtMjExMTcyODQ3OCwtNDE2NzA4
+Nzg0LDE2NDg1MTc2OTFdfQ==
 -->
