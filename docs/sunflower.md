@@ -40,7 +40,7 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 <param ve-entity eid="Q29" title="Spain">
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
 <param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
-In the sixteenth century, Europeans were eager to collect plants from the Americas because they were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish were likely the first Europeans to transport the domesticated sunflower from North America to Spain, though questions persist about who collected such live plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early print sources, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
+In the sixteenth century, Europeans were eager to collect plants from the Americas because they were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish were likely the first Europeans to transport the domesticated sunflower from North America to Spain, though questions persist about who collected such live plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early printed books, along with corroborating evidence, can be used to chart its introduction to Spain and other parts of Europe.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 <param ve-entity eid="Q476033" title="Low Countries">
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExMjA5NzA2LC0xNjgwMTgxOTM4LDIxMD
-I2NTM4NTQsMzk1NDIzNDQwLC02Njg0ODU2NzAsMzQwMTY2OTcw
-LC0xODc5MjI4OTcxLDE2MDc3MDc2MTQsLTExODY3MjQzNDgsLT
-IwNDYwMjM1NDQsMTYyMDM3MzU2MiwtMTE0MTM1MTY2MSwtMTE0
-MTM1MTY2MSwtMTIxMzkxMTQ3MiwtNzI5NzI3MDk1LC0xMDA3Nz
-A1OTU2LDEwMzAwMDM3NjAsLTE3NzI5NzE4NjQsODcyODUyODIx
-LDE5Nzk3NTk1NjBdfQ==
+eyJoaXN0b3J5IjpbLTI1Mzk2MzI2OSwtMTY4MDE4MTkzOCwyMT
+AyNjUzODU0LDM5NTQyMzQ0MCwtNjY4NDg1NjcwLDM0MDE2Njk3
+MCwtMTg3OTIyODk3MSwxNjA3NzA3NjE0LC0xMTg2NzI0MzQ4LC
+0yMDQ2MDIzNTQ0LDE2MjAzNzM1NjIsLTExNDEzNTE2NjEsLTEx
+NDEzNTE2NjEsLTEyMTM5MTE0NzIsLTcyOTcyNzA5NSwtMTAwNz
+cwNTk1NiwxMDMwMDAzNzYwLC0xNzcyOTcxODY0LDg3Mjg1Mjgy
+MSwxOTc5NzU5NTYwXX0=
 -->
