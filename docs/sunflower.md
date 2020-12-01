@@ -12,13 +12,13 @@
 <param ve-entity eid="Q235352" title="crop" aliases="crop plants">
 <param ve-entity eid="Q199182" title="ornamental plant" aliases="ornamental">
 <param ve-entity eid="Q297292" title="oil seed" aliases="oil seeds">
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans first domesticated from a wild ancestor in North America thousands of years ago.[^ref1] Today, the cultivated annual is grown nearly worldwide, mainly as a source of protein-rich oil seeds. The domesticated sunflower is also a popular ornamental, renowned for its yellow flower head, round disk, <heart-shaped or ovate leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported.
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans first domesticated from a wild ancestor in North America thousands of years ago.[^ref1] Today, the cultivated annual is grown nearly worldwide, mainly as a source of protein-rich oil seeds. The domesticated sunflower is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped or ovate leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Helianthus_annuus_3.jpg" title="Wild _Helianthus annuus_ has a branched stem and multiple flower heads, Kyle Canyon Road, Spring Mountains, southern Nevada, Stan Shebs, Wikimedia Commons, CC BY-SA 3.0">
 
 <param ve-entity eid="Q995745" title="artificial selection" aliases="artificially selected">
 <param ve-entity eid="Q3796486" title="botanical illustration">
-Yet, as this botanical illustration reminds us, cultivated _Helianthus annuus_ also has an imposing presence in the visual arts. Like the supersized flower in this plant portrait, the domesticated sunflower looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. The proliferation of the flower in European art is due partly to the aesthetic appeal of traits artificially selected to increase seed production, a single bloom with a large disk, and partly to the timing of its introduction to Europe coincident with the flourishing of a new genre of botanical treatise known as the [florilegium](https://wordsmith.org/words/florilegium.html) ("collection of flowers").
+Yet, as this botanical illustration reminds us, cultivated _Helianthus annuus_ also has an imposing presence in the visual arts. Like the supersized flower in this plant portrait, the domesticated sunflower looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. The proliferation of the flower in European art is due partly to the aesthetic appeal of traits artificially selected to increase seed production, a single bloom with a large disk, and partly to the timing of its introduction to Europe in the sixtecoincident with the flourishing of a new genre of botanical treatise known as the [florilegium](https://wordsmith.org/words/florilegium.html) ("collection of flowers").
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 <param ve-entity eid="Q861716" title="visual culture">
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTE3NjA4LDM0MDE2Njk3MCwtMTg3OT
-IyODk3MSwxNjA3NzA3NjE0LC0xMTg2NzI0MzQ4LC0yMDQ2MDIz
-NTQ0LDE2MjAzNzM1NjIsLTExNDEzNTE2NjEsLTExNDEzNTE2Nj
-EsLTEyMTM5MTE0NzIsLTcyOTcyNzA5NSwtMTAwNzcwNTk1Niwx
-MDMwMDAzNzYwLC0xNzcyOTcxODY0LDg3Mjg1MjgyMSwxOTc5Nz
-U5NTYwLC00NjAyODgzMTcsLTE4NDg3NTU3MDQsLTIxMTE3Mjg0
-NzgsLTQxNjcwODc4NF19
+eyJoaXN0b3J5IjpbLTYxNzA0NjcyMSwzNDAxNjY5NzAsLTE4Nz
+kyMjg5NzEsMTYwNzcwNzYxNCwtMTE4NjcyNDM0OCwtMjA0NjAy
+MzU0NCwxNjIwMzczNTYyLC0xMTQxMzUxNjYxLC0xMTQxMzUxNj
+YxLC0xMjEzOTExNDcyLC03Mjk3MjcwOTUsLTEwMDc3MDU5NTYs
+MTAzMDAwMzc2MCwtMTc3Mjk3MTg2NCw4NzI4NTI4MjEsMTk3OT
+c1OTU2MCwtNDYwMjg4MzE3LC0xODQ4NzU1NzA0LC0yMTExNzI4
+NDc4LC00MTY3MDg3ODRdfQ==
 -->
