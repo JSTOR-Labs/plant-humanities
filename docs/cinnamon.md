@@ -1,5 +1,5 @@
 <param ve-config
-	title="Cinnamon"
+	title="The Cinnamon Challenge: "
 	banner="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/cinnamon_banner_image.jpg"
 	layout="vtl"
 	num-maps="0"
@@ -13,7 +13,7 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3NzMwNjgzLC0zNTc3MDkyMDEsMTc2MT
-kxODcyNSwtMTIyNDgxNzQ0NCwtMTA2NTQ5MzczNCw0ODI2Mjc3
-MjgsMjA4OTMzNzU0OCwtNzkwMjQ0MzUxXX0=
+eyJoaXN0b3J5IjpbNDk5MzgxNzksNzE3NzMwNjgzLC0zNTc3MD
+kyMDEsMTc2MTkxODcyNSwtMTIyNDgxNzQ0NCwtMTA2NTQ5Mzcz
+NCw0ODI2Mjc3MjgsMjA4OTMzNzU0OCwtNzkwMjQ0MzUxXX0=
 -->
