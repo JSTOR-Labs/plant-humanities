@@ -46,7 +46,7 @@ In the sixteenth century, Europeans were eager to collect plants from the Americ
 <param ve-entity eid="Q476033" title="Low Countries">
 <param ve-entity eid="Q38" title="Italy">
 <param ve-entity eid="Q181916" title="herbarium">
-Once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries via transregional trade routes.[^ref5] Networks of wealthy and privileged Europeans, mostly comprised of men, exchanged materials for cultivating _Helianthus annuus_ and instructions for doing so that often took the form of letters with drawings. This model visualizes some connections among a group of proto botanists, publishers, artists, patrons, and members of royal courts who, through their epistolary and direct interactions, generated new knowledge about the cultivated sunflower that was published in herbals and florilegia during the 1560s and 1570s.
+Once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries via transregional trade routes.[^ref5] Networks of wealthy and privileged Europeans, mostly comprised of men, exchanged plant materials for cultivating _Helianthus annuus_ and instructions for doing so that, according to them, was conveyed in letters and drawings. This model visualizes some connections among a group of proto botanists, publishers, artists, patrons, and members of royal courts who, through their epistolary and direct interactions, generated new knowledge about the cultivated sunflower that was published in herbals and florilegia during the 1560s and 1570s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="PROTO BOTANIST">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -228,7 +228,7 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDc5MTM0OSwtMzA4NDg1MjgsMTcyNj
+eyJoaXN0b3J5IjpbLTk1NTc3MTM2NCwtMzA4NDg1MjgsMTcyNj
 kzODE3MSw0MDk5Nzk2MzIsMzg1Nzg3NTY1LC0xMTI2NDA5NTQ5
 LC0xMzAxNjUxNjU5LC0xMzU0MzYzNjY1LC0xNzg1ODgxNjQ0LC
 0yMTMxNDQxNDM4LDEyODEwNzM3MTYsMTY1OTEyMjM0NiwtMTY4
