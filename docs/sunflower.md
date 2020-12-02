@@ -40,7 +40,7 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 <param ve-entity eid="Q29" title="Spain">
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
 <param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
-<![endif]--> In the sixteenth century, Europeans were eager to collect plants from the Americas. They highly valued both living organisms and plant materials for their medicinal and culinary properties, in addition to them being foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish were likely the first Europeans to transport the domesticated sunflower from North America to Spain, though questions persist about who collected such live plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” we can use verbal and visual descriptions of the plant in early printed books to chart its introduction to Spain and other parts of Europe. However, such books are not always reliable, so it is important to study them alongside other forms of evidence, including correspondence, drawings, inventories, or herbarium specimens.
+In the sixteenth century, Europeans were eager to collect plants from the Americas. They highly valued both living organisms and plant materials for their medicinal and culinary properties, in addition to them being foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish were likely the first Europeans to transport the domesticated sunflower from North America to Spain, though questions persist about who collected such live plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” we can use verbal and visual descriptions of the plant in early printed books to chart its introduction to Spain and other parts of Europe. However, such books are not always reliable, so it is important to study them alongside other forms of evidence, including correspondence, drawings, inventories, or herbarium specimens.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 <param ve-entity eid="Q476033" title="Low Countries">
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODEyMjU5ODQsNDA5OTc5NjMyLDM4NT
-c4NzU2NSwtMTEyNjQwOTU0OSwtMTMwMTY1MTY1OSwtMTM1NDM2
-MzY2NSwtMTc4NTg4MTY0NCwtMjEzMTQ0MTQzOCwxMjgxMDczNz
-E2LDE2NTkxMjIzNDYsLTE2ODAxODE5MzgsMjEwMjY1Mzg1NCwz
-OTU0MjM0NDAsLTY2ODQ4NTY3MCwzNDAxNjY5NzAsLTE4NzkyMj
-g5NzEsMTYwNzcwNzYxNCwtMTE4NjcyNDM0OCwtMjA0NjAyMzU0
-NCwxNjIwMzczNTYyXX0=
+eyJoaXN0b3J5IjpbMTcyNjkzODE3MSw0MDk5Nzk2MzIsMzg1Nz
+g3NTY1LC0xMTI2NDA5NTQ5LC0xMzAxNjUxNjU5LC0xMzU0MzYz
+NjY1LC0xNzg1ODgxNjQ0LC0yMTMxNDQxNDM4LDEyODEwNzM3MT
+YsMTY1OTEyMjM0NiwtMTY4MDE4MTkzOCwyMTAyNjUzODU0LDM5
+NTQyMzQ0MCwtNjY4NDg1NjcwLDM0MDE2Njk3MCwtMTg3OTIyOD
+k3MSwxNjA3NzA3NjE0LC0xMTg2NzI0MzQ4LC0yMDQ2MDIzNTQ0
+LDE2MjAzNzM1NjJdfQ==
 -->
