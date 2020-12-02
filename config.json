@@ -10,6 +10,7 @@
     "nav": [
         {"label": "Home", "icon": "home-alt", "path": "/"},
         {"label": "About", "icon": "info", "path": "/about"},
-        {"label": "Help", "icon": "question", "path": "/help"}
+        {"label": "Help", "icon": "question", "path": "/help"},
+        {"label": "Login", "icon": "user"}
     ]
 }
