@@ -40,7 +40,7 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 <param ve-entity eid="Q29" title="Spain">
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
 <param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
-In the sixteenth century, Europeans were eager to collect plants from the Americas because they were highly valued for their medicinal and culinary properties, in addition to being foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish were likely the first Europeans to transport the domesticated sunflower from North America to Spain, though questions persist about who collected such live plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” verbal and visual descriptions of the plant in early printed books, along with corroborating sources, can be used to chart its introduction to Spain and other parts of Europe.
+<![endif]--> In the sixteenth century, Europeans were eager to collect plants from the Americas. They highly valued both living organisms and plant materials for their medicinal and culinary properties, in addition to them being foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish were likely the first Europeans to transport the domesticated sunflower from North America to Spain, though questions persist about who collected such live plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” we can use verbal and visual descriptions of the plant in early printed books to chart its introduction to Spain and other parts of Europe. However, such books are not always reliable, so it is important to study them alongside other forms of evidence, including correspondence, drawings, inventories, or herbarium specimens.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 <param ve-entity eid="Q476033" title="Low Countries">
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5OTc5NjMyLDM4NTc4NzU2NSwtMTEyNj
-QwOTU0OSwtMTMwMTY1MTY1OSwtMTM1NDM2MzY2NSwtMTc4NTg4
-MTY0NCwtMjEzMTQ0MTQzOCwxMjgxMDczNzE2LDE2NTkxMjIzND
-YsLTE2ODAxODE5MzgsMjEwMjY1Mzg1NCwzOTU0MjM0NDAsLTY2
-ODQ4NTY3MCwzNDAxNjY5NzAsLTE4NzkyMjg5NzEsMTYwNzcwNz
-YxNCwtMTE4NjcyNDM0OCwtMjA0NjAyMzU0NCwxNjIwMzczNTYy
-LC0xMTQxMzUxNjYxXX0=
+eyJoaXN0b3J5IjpbLTE1ODEyMjU5ODQsNDA5OTc5NjMyLDM4NT
+c4NzU2NSwtMTEyNjQwOTU0OSwtMTMwMTY1MTY1OSwtMTM1NDM2
+MzY2NSwtMTc4NTg4MTY0NCwtMjEzMTQ0MTQzOCwxMjgxMDczNz
+E2LDE2NTkxMjIzNDYsLTE2ODAxODE5MzgsMjEwMjY1Mzg1NCwz
+OTU0MjM0NDAsLTY2ODQ4NTY3MCwzNDAxNjY5NzAsLTE4NzkyMj
+g5NzEsMTYwNzcwNzYxNCwtMTE4NjcyNDM0OCwtMjA0NjAyMzU0
+NCwxNjIwMzczNTYyXX0=
 -->
