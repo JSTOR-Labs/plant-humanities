@@ -12,7 +12,7 @@
 <param ve-entity eid="Q235352" title="crop" aliases="crop plants">
 <param ve-entity eid="Q199182" title="ornamental plant" aliases="ornamental">
 <param ve-entity eid="Q297292" title="oil seed" aliases="oil seeds">
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans first domesticated from a wild ancestor in North America thousands of years ago.[^ref1] Today, the cultivated annual is grown nearly worldwide, mainly as a source of protein-rich oil seeds. The domesticated sunflower is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped or ovate leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported.
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans first domesticated from a wild ancestor in North America thousands of years ago.[^ref1] Today, the domesticated sunflower is grown nearly worldwide, mainly as a source of protein-rich oil seeds. The plant is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped or ovate leaves, unbranched stem, and imposing height. Indeed, the cultivated annual can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Helianthus_annuus_3.jpg" title="Wild _Helianthus annuus_ is an annual plant with a branched stem and many flower heads, Kyle Canyon Road, Spring Mountains, southern Nevada, Stan Shebs, Wikimedia Commons, CC BY-SA 3.0">
 
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY0MDk1NDksLTEzMDE2NTE2NTksLT
-EzNTQzNjM2NjUsLTE3ODU4ODE2NDQsLTIxMzE0NDE0MzgsMTI4
-MTA3MzcxNiwxNjU5MTIyMzQ2LC0xNjgwMTgxOTM4LDIxMDI2NT
-M4NTQsMzk1NDIzNDQwLC02Njg0ODU2NzAsMzQwMTY2OTcwLC0x
-ODc5MjI4OTcxLDE2MDc3MDc2MTQsLTExODY3MjQzNDgsLTIwND
-YwMjM1NDQsMTYyMDM3MzU2MiwtMTE0MTM1MTY2MSwtMTE0MTM1
-MTY2MSwtMTIxMzkxMTQ3Ml19
+eyJoaXN0b3J5IjpbMzg1Nzg3NTY1LC0xMTI2NDA5NTQ5LC0xMz
+AxNjUxNjU5LC0xMzU0MzYzNjY1LC0xNzg1ODgxNjQ0LC0yMTMx
+NDQxNDM4LDEyODEwNzM3MTYsMTY1OTEyMjM0NiwtMTY4MDE4MT
+kzOCwyMTAyNjUzODU0LDM5NTQyMzQ0MCwtNjY4NDg1NjcwLDM0
+MDE2Njk3MCwtMTg3OTIyODk3MSwxNjA3NzA3NjE0LC0xMTg2Nz
+I0MzQ4LC0yMDQ2MDIzNTQ0LDE2MjAzNzM1NjIsLTExNDEzNTE2
+NjEsLTExNDEzNTE2NjFdfQ==
 -->
