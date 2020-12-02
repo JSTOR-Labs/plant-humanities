@@ -66,7 +66,7 @@ that anticipated modern visual stereotypes for the plant, perhaps best epitomize
 ### Mythic Encounters and Scientific Debates
 
 <param ve-entity eid="Q2401485" title="expedition">
-The migration of sunflower iconography is evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_, which was published posthumously in 1651. The book purports to document plants and animals that Hernández and his team, which included several indigenous artists, observed during a three-year expedition through Mexico in the 1570s.[^ref7] However, its illustrations of sunflowers, shown here, were not drawn on-site from local flora but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait made under Besler’s direction for inclusion in _Hortus Eystettensis_. <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from Anthoine Colin's _[Histoire des simples médicamens apportés de l'Amerique](https://www.biodiversitylibrary.org/page/7815694)_ (1619), a French-language translation of a text by Monardes, or from a similar precedent. These appropriations have been interpreted as evidence that Hernández’s team of artists or those working on his manuscript at a later date had to copy existing imagery because the sunflower was not established in Mexico at the time of the expedition.[^ref8] If that were so, Hernández’s discussion of the sunflower conveyed a mythic encounter with the plant, reproducing European misconceptions about its range that scientists would later dispute.
+The migration of sunflower iconography is evidenced in Francisco Hernández’s _[Nova plantarum](https://doi.org/10.5962/bhl.title.136937)_, which was published posthumously in 1651. The book purports to document plants and animals that Hernández and his team, which included several indigenous artists, observed during a three-year expedition through Mexico in the 1570s.[^ref7] However, its illustrations of sunflowers, shown here, were not drawn on-site from local flora but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait made under Besler’s direction for inclusion in _Hortus Eystettensis_. <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from Anthoine Colin's _[Histoire des simples médicamens apportés de l'Amerique](https://www.biodiversitylibrary.org/page/7815694)_, a 1619 French-language translation of a text by Nicolás Monardes, or from a similar precedent. These appropriations have been interpreted as evidence that Hernández’s team of artists or those working on his manuscript at a later date had to copy existing imagery because the sunflower was not established in Mexico at the time of his expedition.[^ref8] If that were so, Hernández’s discussion of the sunflower implied a mythic encounter with the plant, reproducing European misconceptions about its range that scientists would later dispute.
 <param ve-image iiif primary fit="contain" url="https://ia800805.us.archive.org/BookReader/BookReaderImages.php?id=novaplantarumani00hern&itemPath=%2F5%2Fitems%2Fnovaplantarumani00hern&server=ia800805.us.archive.org&page=n245_w820" title="Francisco Hernández, _Nova plantarum, animalium et mineralium Mexicanorum historia_, 1651, John Carter Brown Library, Internet Archive">
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, trans. Anthoine Colin, Missouri Botanical Garden, Biodiversity Heritage Library">
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjMyMzA4MjMsMTY4OTQyMzE1NiwtOT
-U1NzcxMzY0LC0zMDg0ODUyOCwxNzI2OTM4MTcxLDQwOTk3OTYz
-MiwzODU3ODc1NjUsLTExMjY0MDk1NDksLTEzMDE2NTE2NTksLT
-EzNTQzNjM2NjUsLTE3ODU4ODE2NDQsLTIxMzE0NDE0MzgsMTI4
-MTA3MzcxNiwxNjU5MTIyMzQ2LC0xNjgwMTgxOTM4LDIxMDI2NT
-M4NTQsMzk1NDIzNDQwLC02Njg0ODU2NzAsMzQwMTY2OTcwLC0x
-ODc5MjI4OTcxXX0=
+eyJoaXN0b3J5IjpbLTE5NTczMDIyMDMsLTExNjMyMzA4MjMsMT
+Y4OTQyMzE1NiwtOTU1NzcxMzY0LC0zMDg0ODUyOCwxNzI2OTM4
+MTcxLDQwOTk3OTYzMiwzODU3ODc1NjUsLTExMjY0MDk1NDksLT
+EzMDE2NTE2NTksLTEzNTQzNjM2NjUsLTE3ODU4ODE2NDQsLTIx
+MzE0NDE0MzgsMTI4MTA3MzcxNiwxNjU5MTIyMzQ2LC0xNjgwMT
+gxOTM4LDIxMDI2NTM4NTQsMzk1NDIzNDQwLC02Njg0ODU2NzAs
+MzQwMTY2OTcwXX0=
 -->
