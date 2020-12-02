@@ -56,7 +56,7 @@ Once introduced to Spain, the domesticated sunflower quickly migrated to parts o
 <param ve-entity eid="Q5189819" title="cruciform">
 <param ve-entity eid="Q462437" title="composition">
 <param ve-entity eid="Q63540903" title="focal point">
-Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. Besler was commissioned by Prince Bishop of Eichstätt to oversee the creation of a florilegium, entitled _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613), documenting the contents of his garden in Eichstätt, Bavaria. Artists, etchers, printmakers, and colorists, hired by Besler, produced this [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_ and other [prints from the same plate](https://www.metmuseum.org/about-the-met/curatorial-departments/drawings-and-prints/materials-and-techniques/printmaking/engraving), though only those belonging to luxury editions were hand-colored.[^ref6] This sumptuous portrait depicts the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
+Basilius Besler, who oversaw the production of the print, at right, helped to establish some visual conventions for representing the sunflower. Besler was commissioned by Prince Bishop of Eichstätt to oversee the creation of a florilegium, entitled _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_ (1613), documenting the contents of his garden in Eichstätt, Bavaria. Besler hired artists, etchers, printmakers, and colorists to produced this [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of _H. annuus_ and others, which were mad from the same [plate](https://www.metmuseum.org/about-the-met/curatorial-departments/drawings-and-prints/materials-and-techniques/printmaking/engraving) though only those belonging to luxury editions were hand-colored.[^ref6] This sumptuous portrait depicts the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
 that anticipated modern visual stereotypes for the plant, perhaps best epitomized by this emoji.
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTc3MTM2NCwtMzA4NDg1MjgsMTcyNj
-kzODE3MSw0MDk5Nzk2MzIsMzg1Nzg3NTY1LC0xMTI2NDA5NTQ5
-LC0xMzAxNjUxNjU5LC0xMzU0MzYzNjY1LC0xNzg1ODgxNjQ0LC
-0yMTMxNDQxNDM4LDEyODEwNzM3MTYsMTY1OTEyMjM0NiwtMTY4
-MDE4MTkzOCwyMTAyNjUzODU0LDM5NTQyMzQ0MCwtNjY4NDg1Nj
-cwLDM0MDE2Njk3MCwtMTg3OTIyODk3MSwxNjA3NzA3NjE0LC0x
-MTg2NzI0MzQ4XX0=
+eyJoaXN0b3J5IjpbLTIxMzQ3MzM2MTMsLTk1NTc3MTM2NCwtMz
+A4NDg1MjgsMTcyNjkzODE3MSw0MDk5Nzk2MzIsMzg1Nzg3NTY1
+LC0xMTI2NDA5NTQ5LC0xMzAxNjUxNjU5LC0xMzU0MzYzNjY1LC
+0xNzg1ODgxNjQ0LC0yMTMxNDQxNDM4LDEyODEwNzM3MTYsMTY1
+OTEyMjM0NiwtMTY4MDE4MTkzOCwyMTAyNjUzODU0LDM5NTQyMz
+Q0MCwtNjY4NDg1NjcwLDM0MDE2Njk3MCwtMTg3OTIyODk3MSwx
+NjA3NzA3NjE0XX0=
 -->
