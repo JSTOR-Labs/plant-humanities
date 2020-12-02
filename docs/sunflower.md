@@ -46,7 +46,7 @@ In the sixteenth century, Europeans were eager to collect plants from the Americ
 <param ve-entity eid="Q476033" title="Low Countries">
 <param ve-entity eid="Q38" title="Italy">
 <param ve-entity eid="Q181916" title="herbarium">
-Once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries via transregional trade routes.[^ref5] Networks of wealthy and privileged Europeans, mostly comprised of men, exchanged materials for cultivating _Helianthus annuus_ and instructions for doing so that often took the form of letters with drawings. This model visualizes some connections among a group of proto botanists, publishers, artists, patrons, and members of royal courts who, through their epistolary and direct interactions, generated new knowledge about the plant that was published in herbals and florilegia during the 1560s and 1570s.
+Once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries via transregional trade routes.[^ref5] Networks of wealthy and privileged Europeans, mostly comprised of men, exchanged materials for cultivating _Helianthus annuus_ and instructions for doing so that often took the form of letters with drawings. This model visualizes some connections among a group of proto botanists, publishers, artists, patrons, and members of royal courts who, through their epistolary and direct interactions, generated new knowledge about the cultivated sunflower that was published in herbals and florilegia during the 1560s and 1570s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="PROTO BOTANIST">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDUwMzg3MjIsLTMwODQ4NTI4LDE3Mj
-Y5MzgxNzEsNDA5OTc5NjMyLDM4NTc4NzU2NSwtMTEyNjQwOTU0
-OSwtMTMwMTY1MTY1OSwtMTM1NDM2MzY2NSwtMTc4NTg4MTY0NC
-wtMjEzMTQ0MTQzOCwxMjgxMDczNzE2LDE2NTkxMjIzNDYsLTE2
-ODAxODE5MzgsMjEwMjY1Mzg1NCwzOTU0MjM0NDAsLTY2ODQ4NT
-Y3MCwzNDAxNjY5NzAsLTE4NzkyMjg5NzEsMTYwNzcwNzYxNCwt
-MTE4NjcyNDM0OF19
+eyJoaXN0b3J5IjpbMTI2NDc5MTM0OSwtMzA4NDg1MjgsMTcyNj
+kzODE3MSw0MDk5Nzk2MzIsMzg1Nzg3NTY1LC0xMTI2NDA5NTQ5
+LC0xMzAxNjUxNjU5LC0xMzU0MzYzNjY1LC0xNzg1ODgxNjQ0LC
+0yMTMxNDQxNDM4LDEyODEwNzM3MTYsMTY1OTEyMjM0NiwtMTY4
+MDE4MTkzOCwyMTAyNjUzODU0LDM5NTQyMzQ0MCwtNjY4NDg1Nj
+cwLDM0MDE2Njk3MCwtMTg3OTIyODk3MSwxNjA3NzA3NjE0LC0x
+MTg2NzI0MzQ4XX0=
 -->
