@@ -8,12 +8,11 @@
 	num-primary-sources="0"
 	author="Wouter Klein">
 
-# Essay template
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### [Title]
+dus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDg2NTM3LDcxNzczMDY4MywtMzU3Nz
+eyJoaXN0b3J5IjpbNzc0NTIxNzEwLDcxNzczMDY4MywtMzU3Nz
 A5MjAxLDE3NjE5MTg3MjUsLTEyMjQ4MTc0NDQsLTEwNjU0OTM3
 MzQsNDgyNjI3NzI4LDIwODkzMzc1NDgsLTc5MDI0NDM1MV19
 -->
