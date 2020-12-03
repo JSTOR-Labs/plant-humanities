@@ -141,7 +141,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q63825" title="double-flowered">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life" aliases="still lifes">
-In the later-nineteenth century, European painters who worked in modernist styles embraced the genre of still life, exploring the material and emotive qualities of paint, plants, and floral forms. In doing so, Vincent van Gogh cultivated a personal iconography for representing the domesticated sunflower. In his 1888 painting _Sunflowers_, vase filled with an arrangement of more than a dozen golden flowers. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that two different types of cultivated _Helianthus annuus_ are portrayed here and they were harvested at different stages of their life cycles. The sunflowers, at top left and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety known as the "Teddy Bear"—are still vibrant.[^ref21] Van Gogh painted this and several other depictions of sunflowers directly from life during the summer of 1888, after moving from Paris to Arles the previous winter.[^ref22] Energized by the bright light of Provence and new opportunities for encountering plantlife there, he produced this and other sunflower portraits with such effusive brushwork and vibrant yellow palettes that they both iconic and uniquely his.
+In the later-nineteenth century, European painters who worked in modernist styles embraced the genre of still life, exploring the material and emotive qualities of paint, plants, and floral forms. In doing so, Vincent van Gogh cultivated a personal iconography for representing the domesticated sunflower. In his 1888 painting _Sunflowers_, vase filled with an arrangement of more than a dozen golden flowers. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that two different types of cultivated _Helianthus annuus_ are portrayed here and they were harvested at different stages of their life cycles. The sunflowers, at top left and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety known as the "Teddy Bear"—are still vibrant.[^ref21] Van Gogh painted this and several other depictions of sunflowers directly from life during the summer of 1888, after moving from Paris to Arles the previous winter.[^ref22] Energized by the bright light of Provence and new opportunities for encountering plantlife there, he produced this and other sunflower portraits with such effusive brushwork and vibrant yellow palettes that they are both iconic and unmistakably his.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," Kor!An (Корзун Андрей), Wikimedia Commons">
 
@@ -227,11 +227,11 @@ In the later nineteenth century, a period of rapid industrialization and urbaniz
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1NzI0MDAwLDM3NTEwNTQ2OSwtMjY1ND
-A1MDc4LC01Nzk4ODcyNDYsLTEyODk4NzI1MywxNDM1NzkwMjk2
-LC0zMDY1NjQ4MzgsLTExNzUxODY2NDYsMTA3MDk2MjcxNCw5Mz
-kxOTYyMjksNzY3NjEyOTEyLDM4NTQ5NTcyMCwxNjgyMzY3NzUs
-LTU0MjcxODYwMywtMTQ1NzA3NTg2OCwtMTE1NTE5NjcyMSw2Nj
-A1OTMxNTUsMjExMTc0OTI4LC0yMTM0NTMxODMwLC0xNzk1NDI0
-MjE2XX0=
+eyJoaXN0b3J5IjpbMTEzNzIxNDIxMiwzNzUxMDU0NjksLTI2NT
+QwNTA3OCwtNTc5ODg3MjQ2LC0xMjg5ODcyNTMsMTQzNTc5MDI5
+NiwtMzA2NTY0ODM4LC0xMTc1MTg2NjQ2LDEwNzA5NjI3MTQsOT
+M5MTk2MjI5LDc2NzYxMjkxMiwzODU0OTU3MjAsMTY4MjM2Nzc1
+LC01NDI3MTg2MDMsLTE0NTcwNzU4NjgsLTExNTUxOTY3MjEsNj
+YwNTkzMTU1LDIxMTE3NDkyOCwtMjEzNDUzMTgzMCwtMTc5NTQy
+NDIxNl19
 -->
