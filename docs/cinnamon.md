@@ -19,17 +19,17 @@ Cinnamon already had a global history long before any European ever saw the 'tru
 How could such confusion last so long?
 
 ### Cinnamon as a tool of empire
-Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as  a means to enhance the power of a state by displaying its control over exotic richess
+Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. Many coins can be found from the reign of Roman emperor Trajan (ruled 98-117 AD)
 
 Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), The Land of Fertility II: The Southeast Mediterranean from the Bronze Age (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 99-106, there 99-100.
 
 ### An ongoing challenge
 About current developments in botany and medicine to make sense of cinnamon.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODQzNjYyOSw3ODY2ODkwOTIsLTEyMD
-E1NjEyMTMsMTAzNDY4MzMyNCwtMTAxMTE4Mjk2NiwtMjEzNTcw
-MjIyMCwtNzc2NTgwNDIzLDc4NTc5MzQ0MiwxNzMwMjExNDU2LD
-cxNzczMDY4MywtMzU3NzA5MjAxLDE3NjE5MTg3MjUsLTEyMjQ4
-MTc0NDQsLTEwNjU0OTM3MzQsNDgyNjI3NzI4LDIwODkzMzc1ND
-gsLTc5MDI0NDM1MV19
+eyJoaXN0b3J5IjpbLTE1ODA1MjYyNjQsNzg2Njg5MDkyLC0xMj
+AxNTYxMjEzLDEwMzQ2ODMzMjQsLTEwMTExODI5NjYsLTIxMzU3
+MDIyMjAsLTc3NjU4MDQyMyw3ODU3OTM0NDIsMTczMDIxMTQ1Ni
+w3MTc3MzA2ODMsLTM1NzcwOTIwMSwxNzYxOTE4NzI1LC0xMjI0
+ODE3NDQ0LC0xMDY1NDkzNzM0LDQ4MjYyNzcyOCwyMDg5MzM3NT
+Q4LC03OTAyNDQzNTFdfQ==
 -->
