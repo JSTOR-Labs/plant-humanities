@@ -142,8 +142,6 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life">
 <param ve-entity eid="Q48292" title="Arles">
-<param ve-entity eid="Q2070979" title="senescence">
-<param ve-entity eid="Q2299244" title="wilting" aliases="wilt">
 <param ve-entity eid="Q202398" title="industrialization">
 <param ve-entity eid="Q161078" title="urbanization">
 <param ve-entity eid="Q628403" title="conservation">
@@ -174,6 +172,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 ### Gone to Seed
 
 <param ve-entity eid="Q273383" title="Memento mori" aliases="memento mori">
+<param ve-entity eid="Q2299244" title="wilting" aliases="wilt">
 The artist produced _Sunflowers_ while living in a Parisian suburb, in 1887, far from the rural environment bordering his native Zundert. In this _memento mori_, he portrays two flowers that have gone to seed against a somber blue background. The flowers' barren disc and desiccated yellow head serve as mournful reminders of their former beauty, though we may also read them as metaphors for the withering of human connections with plants due to modernity. This representation of _Helianthus annuus_, like others considered here, shines a light on some understudied aspects of human-plant relationships and our responsibility to approach such encounters from with more attentiveness and care.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
@@ -228,7 +227,7 @@ The artist produced _Sunflowers_ while living in a Parisian suburb, in 1887, far
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODgyODY5MywtMTE3NTE4NjY0NiwxMD
+eyJoaXN0b3J5IjpbLTMwNjU2NDgzOCwtMTE3NTE4NjY0NiwxMD
 cwOTYyNzE0LDkzOTE5NjIyOSw3Njc2MTI5MTIsMzg1NDk1NzIw
 LDE2ODIzNjc3NSwtNTQyNzE4NjAzLC0xNDU3MDc1ODY4LC0xMT
 U1MTk2NzIxLDY2MDU5MzE1NSwyMTExNzQ5MjgsLTIxMzQ1MzE4
