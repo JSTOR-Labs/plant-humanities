@@ -21,7 +21,7 @@ How could such confusion last so long?
 ### Cinnamon as a tool of empire
 Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. Many coins can be found from the reign of Roman emperor.[^ref1]
 <param ve-image
-	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding "
+	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding a branch and a bundle of cinnamon sticks, and standing next to a camel."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1376,64,1625,119554,53,900,667">
 
@@ -31,11 +31,11 @@ Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri 
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 99-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDYzOTIxODcsLTEzMjMyNTYyODQsLT
-IwMTI2NzM1OTUsLTc1NzI2NDQzNyw3ODY2ODkwOTIsLTEyMDE1
-NjEyMTMsMTAzNDY4MzMyNCwtMTAxMTE4Mjk2NiwtMjEzNTcwMj
-IyMCwtNzc2NTgwNDIzLDc4NTc5MzQ0MiwxNzMwMjExNDU2LDcx
-NzczMDY4MywtMzU3NzA5MjAxLDE3NjE5MTg3MjUsLTEyMjQ4MT
-c0NDQsLTEwNjU0OTM3MzQsNDgyNjI3NzI4LDIwODkzMzc1NDgs
-LTc5MDI0NDM1MV19
+eyJoaXN0b3J5IjpbMTI2MTM3NzE2NywtMTMyMzI1NjI4NCwtMj
+AxMjY3MzU5NSwtNzU3MjY0NDM3LDc4NjY4OTA5MiwtMTIwMTU2
+MTIxMywxMDM0NjgzMzI0LC0xMDExMTgyOTY2LC0yMTM1NzAyMj
+IwLC03NzY1ODA0MjMsNzg1NzkzNDQyLDE3MzAyMTE0NTYsNzE3
+NzMwNjgzLC0zNTc3MDkyMDEsMTc2MTkxODcyNSwtMTIyNDgxNz
+Q0NCwtMTA2NTQ5MzczNCw0ODI2Mjc3MjgsMjA4OTMzNzU0OCwt
+NzkwMjQ0MzUxXX0=
 -->
