@@ -149,7 +149,7 @@ In the later nineteenth century, European painters who worked in modern visual l
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
 <param ve-entity eid="Q181916" title="herbarium">
-Contrary to what is most often portrayed in images and texts, the palette of _Helianthus_ is not limited to yellow. Indeed, there are more than fifty accepted species grouped under _Helianthus_ and, 
+Contrary to what is most often portrayed in images and texts, particularly Van Gogh's iconic plant portraits, the palette of _Helianthus_ is not limited to yellow. Indeed, there are more than fifty accepted species grouped under _Helianthus_ and, 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
 their color can range from gold to orange to red to dark purple and even an unexpected shade of pink. Species also vary in terms of size and the number and shape of their leaves and flower heads, as demonstrated by these herbarium sheets with dried _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke). The specimens also dispel the notion that sunflowers only have one large blossom per stock.
 <param ve-plant-specimen eid="Q171497" max="1">
@@ -227,11 +227,11 @@ In the later nineteenth century, a period of rapid industrialization and urbaniz
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0NzE4NjAwLC0xMjg5ODcyNTMsMTQzNT
-c5MDI5NiwtMzA2NTY0ODM4LC0xMTc1MTg2NjQ2LDEwNzA5NjI3
-MTQsOTM5MTk2MjI5LDc2NzYxMjkxMiwzODU0OTU3MjAsMTY4Mj
-M2Nzc1LC01NDI3MTg2MDMsLTE0NTcwNzU4NjgsLTExNTUxOTY3
-MjEsNjYwNTkzMTU1LDIxMTE3NDkyOCwtMjEzNDUzMTgzMCwtMT
-c5NTQyNDIxNiwzMTE3MTI4ODEsNjUyMjA3Miw2MzA1ODgzMTFd
-fQ==
+eyJoaXN0b3J5IjpbLTIwNjQ1ODM1NCwtMTI4OTg3MjUzLDE0Mz
+U3OTAyOTYsLTMwNjU2NDgzOCwtMTE3NTE4NjY0NiwxMDcwOTYy
+NzE0LDkzOTE5NjIyOSw3Njc2MTI5MTIsMzg1NDk1NzIwLDE2OD
+IzNjc3NSwtNTQyNzE4NjAzLC0xNDU3MDc1ODY4LC0xMTU1MTk2
+NzIxLDY2MDU5MzE1NSwyMTExNzQ5MjgsLTIxMzQ1MzE4MzAsLT
+E3OTU0MjQyMTYsMzExNzEyODgxLDY1MjIwNzIsNjMwNTg4MzEx
+XX0=
 -->
