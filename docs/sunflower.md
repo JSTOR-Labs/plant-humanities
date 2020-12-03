@@ -12,7 +12,7 @@
 <param ve-entity eid="Q235352" title="crop" aliases="crop plants">
 <param ve-entity eid="Q199182" title="ornamental plant" aliases="ornamental">
 <param ve-entity eid="Q297292" title="oil seed" aliases="oil seeds">
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans first domesticated from a wild ancestor in North America thousands of years ago.[^ref1] Today, we still grow the domesticated sunflower as a source of protein-rich oil seeds, though its range has expanded nearly worldwide. The plant is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped or ovate leaves, unbranched stem, and imposing height. Indeed, the cultivated annual can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported.
+_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans first domesticated from wild ancestors in North America thousands of years ago.[^ref1] Of that group, the domesticated sunflower is the only one still in use today, primarily as an oil seed crop. The cultivated annual is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped or ovate leaves, unbranched stem, and imposing height. Indeed, the cultivated annual can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Helianthus_annuus_3.jpg" title="Wild _Helianthus annuus_ is an annual plant with a branched stem and many flower heads, Kyle Canyon Road, Spring Mountains, southern Nevada, Stan Shebs, Wikimedia Commons, CC BY-SA 3.0">
 
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjk3NDQyMywtMTE2MzIzMDgyMywxNj
-g5NDIzMTU2LC05NTU3NzEzNjQsLTMwODQ4NTI4LDE3MjY5Mzgx
-NzEsNDA5OTc5NjMyLDM4NTc4NzU2NSwtMTEyNjQwOTU0OSwtMT
-MwMTY1MTY1OSwtMTM1NDM2MzY2NSwtMTc4NTg4MTY0NCwtMjEz
-MTQ0MTQzOCwxMjgxMDczNzE2LDE2NTkxMjIzNDYsLTE2ODAxOD
-E5MzgsMjEwMjY1Mzg1NCwzOTU0MjM0NDAsLTY2ODQ4NTY3MCwz
-NDAxNjY5NzBdfQ==
+eyJoaXN0b3J5IjpbMTMxNDg5OTM0NiwyMDM2OTc0NDIzLC0xMT
+YzMjMwODIzLDE2ODk0MjMxNTYsLTk1NTc3MTM2NCwtMzA4NDg1
+MjgsMTcyNjkzODE3MSw0MDk5Nzk2MzIsMzg1Nzg3NTY1LC0xMT
+I2NDA5NTQ5LC0xMzAxNjUxNjU5LC0xMzU0MzYzNjY1LC0xNzg1
+ODgxNjQ0LC0yMTMxNDQxNDM4LDEyODEwNzM3MTYsMTY1OTEyMj
+M0NiwtMTY4MDE4MTkzOCwyMTAyNjUzODU0LDM5NTQyMzQ0MCwt
+NjY4NDg1NjcwXX0=
 -->
