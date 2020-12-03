@@ -19,17 +19,17 @@ Cinnamon already had a global history long before any European ever saw the 'tru
 How could such confusion last so long?
 
 ### Cinnamon as a tool of empire
-Once 'true' cinnamon had begun to be associated with the cinnamon from Sri Lanka
+Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a de facto monopoly on the cinnamon trade. 
 
 Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), The Land of Fertility II: The Southeast Mediterranean from the Bronze Age (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 99-106, there 99-100.
 
 ### An ongoing challenge
 About current developments in botany and medicine to make sense of cinnamon.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgzMzQ1MTYsNzg2Njg5MDkyLC0xMj
-AxNTYxMjEzLDEwMzQ2ODMzMjQsLTEwMTExODI5NjYsLTIxMzU3
-MDIyMjAsLTc3NjU4MDQyMyw3ODU3OTM0NDIsMTczMDIxMTQ1Ni
-w3MTc3MzA2ODMsLTM1NzcwOTIwMSwxNzYxOTE4NzI1LC0xMjI0
-ODE3NDQ0LC0xMDY1NDkzNzM0LDQ4MjYyNzcyOCwyMDg5MzM3NT
-Q4LC03OTAyNDQzNTFdfQ==
+eyJoaXN0b3J5IjpbLTg0NDkxMzYwMiw3ODY2ODkwOTIsLTEyMD
+E1NjEyMTMsMTAzNDY4MzMyNCwtMTAxMTE4Mjk2NiwtMjEzNTcw
+MjIyMCwtNzc2NTgwNDIzLDc4NTc5MzQ0MiwxNzMwMjExNDU2LD
+cxNzczMDY4MywtMzU3NzA5MjAxLDE3NjE5MTg3MjUsLTEyMjQ4
+MTc0NDQsLTEwNjU0OTM3MzQsNDgyNjI3NzI4LDIwODkzMzc1ND
+gsLTc5MDI0NDM1MV19
 -->
