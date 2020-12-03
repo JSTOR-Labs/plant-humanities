@@ -13,12 +13,12 @@
 In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction was simple enough – try to swallow a tablespoon of cinnamon at once – it proved to be virtually impossible in practice. Trying to ingest dry, grinded cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestable clutter in the back of the throat. Thankfully, this <span url="https://doi.org/10.1542/peds.2012-3418">quite dangerous assignment</span> is a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous TouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort of 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
 
 ### A global history
-Cinnamon already had a global history long before any European ever saw a _Cinnamomum_-species in real life.
+Cinnamon already had a global history long before any European ever saw a _Cinnamomum_-species in real life. And here lies the key t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjU4MDQyMyw3ODU3OTM0NDIsMTczMD
-IxMTQ1Niw3MTc3MzA2ODMsLTM1NzcwOTIwMSwxNzYxOTE4NzI1
-LC0xMjI0ODE3NDQ0LC0xMDY1NDkzNzM0LDQ4MjYyNzcyOCwyMD
-g5MzM3NTQ4LC03OTAyNDQzNTFdfQ==
+eyJoaXN0b3J5IjpbNzA2NTgxNjk5LC03NzY1ODA0MjMsNzg1Nz
+kzNDQyLDE3MzAyMTE0NTYsNzE3NzMwNjgzLC0zNTc3MDkyMDEs
+MTc2MTkxODcyNSwtMTIyNDgxNzQ0NCwtMTA2NTQ5MzczNCw0OD
+I2Mjc3MjgsMjA4OTMzNzU0OCwtNzkwMjQ0MzUxXX0=
 -->
