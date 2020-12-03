@@ -73,7 +73,7 @@ The migration of sunflower iconography from Besler’s _Hortus Eystettensis_  to
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
-Although botanists have consulted herbals and other historical evidence to chart the movement of cultivated _Helianthus annuus_, they have also used maps of plant distribution and fossilized remains to study the origins of the plant.[^ref9] The earliest known sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
+Although botanists have consulted herbals and other historical evidence to chart the movement of cultivated _Helianthus annuus_, they have also used maps of plant distribution and fossilized remains to study the origins of the plant.[^ref9] The earliest known sunflower remains—charred seeds—tell us that humans used cultivated _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDM3OTU3NywtNTQyNzE4NjAzLC0xND
-U3MDc1ODY4LC0xMTU1MTk2NzIxLDY2MDU5MzE1NSwyMTExNzQ5
-MjgsLTIxMzQ1MzE4MzAsLTE3OTU0MjQyMTYsMzExNzEyODgxLD
-Y1MjIwNzIsNjMwNTg4MzExLC0xNzE3NzMzMjcwLDIwMzY5NzQ0
-MjMsLTExNjMyMzA4MjMsMTY4OTQyMzE1NiwtOTU1NzcxMzY0LC
-0zMDg0ODUyOCwxNzI2OTM4MTcxLDQwOTk3OTYzMiwzODU3ODc1
-NjVdfQ==
+eyJoaXN0b3J5IjpbMTc1OTcxNzQsLTU0MjcxODYwMywtMTQ1Nz
+A3NTg2OCwtMTE1NTE5NjcyMSw2NjA1OTMxNTUsMjExMTc0OTI4
+LC0yMTM0NTMxODMwLC0xNzk1NDI0MjE2LDMxMTcxMjg4MSw2NT
+IyMDcyLDYzMDU4ODMxMSwtMTcxNzczMzI3MCwyMDM2OTc0NDIz
+LC0xMTYzMjMwODIzLDE2ODk0MjMxNTYsLTk1NTc3MTM2NCwtMz
+A4NDg1MjgsMTcyNjkzODE3MSw0MDk5Nzk2MzIsMzg1Nzg3NTY1
+XX0=
 -->
