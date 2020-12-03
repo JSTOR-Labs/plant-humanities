@@ -8,13 +8,12 @@
 	num-primary-sources="0"
 	author="Wouter Klein">
 
-### [Title]
+### The Cinnamon Challenge
 
-dus
-
+In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. The instruction was simple enough: try to swallow a tablespoon of cinnamon at once.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDIxMTQ1Niw3MTc3MzA2ODMsLTM1Nz
-cwOTIwMSwxNzYxOTE4NzI1LC0xMjI0ODE3NDQ0LC0xMDY1NDkz
-NzM0LDQ4MjYyNzcyOCwyMDg5MzM3NTQ4LC03OTAyNDQzNTFdfQ
-==
+eyJoaXN0b3J5IjpbLTIzNDAzMzE4NCwxNzMwMjExNDU2LDcxNz
+czMDY4MywtMzU3NzA5MjAxLDE3NjE5MTg3MjUsLTEyMjQ4MTc0
+NDQsLTEwNjU0OTM3MzQsNDgyNjI3NzI4LDIwODkzMzc1NDgsLT
+c5MDI0NDM1MV19
 -->
