@@ -14,11 +14,11 @@ In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although
 
 ### A global history
 
-Cinnamon already had a global history long before any European ever saw a _Cinnamomum_-species in real life. And here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species. This is a vital observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has often been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία) two plants that were described by ancient authorities (most notably Dioscorides from the first century AD), 
+Cinnamon already had a global history long before any European ever saw a _Cinnamomum_-species in real life. And here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species. This is a vital observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has often been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), that were described by ancient authorities (most notably Dioscorides from the first century AD), were in fact the same plants that were found in the east Indies in the sixteenth century
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTExODI5NjYsLTIxMzU3MDIyMjAsLT
-c3NjU4MDQyMyw3ODU3OTM0NDIsMTczMDIxMTQ1Niw3MTc3MzA2
-ODMsLTM1NzcwOTIwMSwxNzYxOTE4NzI1LC0xMjI0ODE3NDQ0LC
-0xMDY1NDkzNzM0LDQ4MjYyNzcyOCwyMDg5MzM3NTQ4LC03OTAy
-NDQzNTFdfQ==
+eyJoaXN0b3J5IjpbNzA2ODY0MjYsLTEwMTExODI5NjYsLTIxMz
+U3MDIyMjAsLTc3NjU4MDQyMyw3ODU3OTM0NDIsMTczMDIxMTQ1
+Niw3MTc3MzA2ODMsLTM1NzcwOTIwMSwxNzYxOTE4NzI1LC0xMj
+I0ODE3NDQ0LC0xMDY1NDkzNzM0LDQ4MjYyNzcyOCwyMDg5MzM3
+NTQ4LC03OTAyNDQzNTFdfQ==
 -->
