@@ -141,7 +141,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q63825" title="double-flowered">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life" aliases="still lifes">
-In the later nineteenth century, European painters who worked in modern visual languages embraced the genre of still life to explore the material and emotive qualities of paint, plants, and floral forms. In doing so, Vincent van Gogh made the cultivated sunflower his own. In _Sunflowers_, from 1888, he shows a yellow vase filled with an arrangement of more than a dozen golden flowers. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that two different types of _Helianthus annuus_ are portrayed here and they were harvested at different stages of their life cycles. The sunflowers, at top left and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety known as the "Teddy Bear"—are still vibrant.[^ref21] Van Gogh painted this and several other depictions of sunflowers directly from life during the summer of 1888, after moving from Paris to Arles the previous winter.[^ref22] Energized by the bright light of Provence and new opportunities for encountering plantlife there, Van Gogh exucted these plant portraits with such effusive brushwork and vibrant palettes that they are now iconic but also grafted onto the mythic artist himself.
+In the later nineteenth century, European painters who worked in modern visual languages embraced the genre of still life to explore the material and emotive qualities of paint, plants, and floral forms. In doing so, Vincent van Gogh made the cultivated sunflower his own. In _Sunflowers_, from 1888, he shows a yellow vase filled with an arrangement of more than a dozen golden flowers. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that two different types of _Helianthus annuus_ are portrayed here and they were harvested at different stages of their life cycles. The sunflowers, at top left and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety known as the "Teddy Bear"—are still vibrant.[^ref21] Van Gogh painted this and several other depictions of sunflowers directly from life during the summer of 1888, after moving from Paris to Arles the previous winter.[^ref22] Energized by the bright light of Provence and new opportunities for encountering plantlife there, Van Gogh exucted these plant portraits with such effusive brushwork and vibrant palettes that they are now at once instantly recognizable and at the same time inseperable from the mythic status of the artist himself.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," Kor!An (Корзун Андрей), Wikimedia Commons">
 
@@ -227,11 +227,11 @@ In the later nineteenth century, a period of rapid industrialization and urbaniz
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTM1NTUwNzksLTEyODk4NzI1MywxND
-M1NzkwMjk2LC0zMDY1NjQ4MzgsLTExNzUxODY2NDYsMTA3MDk2
-MjcxNCw5MzkxOTYyMjksNzY3NjEyOTEyLDM4NTQ5NTcyMCwxNj
-gyMzY3NzUsLTU0MjcxODYwMywtMTQ1NzA3NTg2OCwtMTE1NTE5
-NjcyMSw2NjA1OTMxNTUsMjExMTc0OTI4LC0yMTM0NTMxODMwLC
-0xNzk1NDI0MjE2LDMxMTcxMjg4MSw2NTIyMDcyLDYzMDU4ODMx
-MV19
+eyJoaXN0b3J5IjpbNDk0NzE4NjAwLC0xMjg5ODcyNTMsMTQzNT
+c5MDI5NiwtMzA2NTY0ODM4LC0xMTc1MTg2NjQ2LDEwNzA5NjI3
+MTQsOTM5MTk2MjI5LDc2NzYxMjkxMiwzODU0OTU3MjAsMTY4Mj
+M2Nzc1LC01NDI3MTg2MDMsLTE0NTcwNzU4NjgsLTExNTUxOTY3
+MjEsNjYwNTkzMTU1LDIxMTE3NDkyOCwtMjEzNDUzMTgzMCwtMT
+c5NTQyNDIxNiwzMTE3MTI4ODEsNjUyMjA3Miw2MzA1ODgzMTFd
+fQ==
 -->
