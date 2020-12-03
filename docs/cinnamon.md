@@ -1,6 +1,6 @@
 <param ve-config
 	title="Cinnamon: two thousand years of botanical disambiguation"
-	banner="https://github.com/WouterKlein/plant-humanities/images/cinnamon_banner_image.jpg"
+	banner="https://github.com/WouterKlein/plant-humanities/blob/develop/images/cinnamon_banner_image.jpg"
 	layout="vtl"
 	num-maps="0"
 	num-images="0"
@@ -31,11 +31,11 @@ Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri 
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 99-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDk4NzE4MjQsLTIxMDY5NDA2NDYsOT
-cwMjk4MDgyLDExODg2MzY5NDEsLTE1MDQ1ODM4NzYsMTI2MTM3
-NzE2NywtMTMyMzI1NjI4NCwtMjAxMjY3MzU5NSwtNzU3MjY0ND
-M3LDc4NjY4OTA5MiwtMTIwMTU2MTIxMywxMDM0NjgzMzI0LC0x
-MDExMTgyOTY2LC0yMTM1NzAyMjIwLC03NzY1ODA0MjMsNzg1Nz
-kzNDQyLDE3MzAyMTE0NTYsNzE3NzMwNjgzLC0zNTc3MDkyMDEs
-MTc2MTkxODcyNV19
+eyJoaXN0b3J5IjpbLTE4OTU4MjgxNTYsLTIwMDk4NzE4MjQsLT
+IxMDY5NDA2NDYsOTcwMjk4MDgyLDExODg2MzY5NDEsLTE1MDQ1
+ODM4NzYsMTI2MTM3NzE2NywtMTMyMzI1NjI4NCwtMjAxMjY3Mz
+U5NSwtNzU3MjY0NDM3LDc4NjY4OTA5MiwtMTIwMTU2MTIxMywx
+MDM0NjgzMzI0LC0xMDExMTgyOTY2LC0yMTM1NzAyMjIwLC03Nz
+Y1ODA0MjMsNzg1NzkzNDQyLDE3MzAyMTE0NTYsNzE3NzMwNjgz
+LC0zNTc3MDkyMDFdfQ==
 -->
