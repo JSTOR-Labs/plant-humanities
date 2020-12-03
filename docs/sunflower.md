@@ -173,7 +173,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q52105" title="habitat" aliases="habitats">
 <param ve-entity eid="Q11084414" title="modernity">
 <param ve-entity eid="Q2638759" title="Zundert">
-Visual representations of domesticated _Helianthus annuus_considered here, shines a light on some understudied aspects of human-plant relationships and our responsibility to approach such encounters with more attentiveness and care.
+Visual representations of domesticated _Helianthus annuus_ considered in this essay shine a light on some understudied aspects of human-plant relationships and our responsibility to approach such encounters with more attentiveness and care.
 In the later nineteenth century, a period of rapid industrialization and urbanization in Europe, city dwellers participated in new modes of urban labor, leisure, transportation, and commerce that did not often include direct encounters with plants in their natural habitats. That separation from nature profoundly impacted those who migrated to cities from rural areas, such as Vincent Van Gogh, providing a poignant context for interpreting this still life painting by him.The artist produced _Sunflowers_ while living in a Parisian suburb, in 1887, far from the rural environment bordering his native Zundert. In this _memento mori_, he portrays two flowers that have gone to seed against a somber blue background. The flowers' barren disc and desiccated yellow head serve as mournful reminders of their former beauty, though we may also read them as metaphors for the withering of human connections with plants due to modernity.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
@@ -228,11 +228,11 @@ In the later nineteenth century, a period of rapid industrialization and urbaniz
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAyNTQxNzIsLTcxMDUyNDg3MywxNj
-YzNDIzNzUzLDEzNzczNTIwMDMsMTEzNzIxNDIxMiwzNzUxMDU0
-NjksLTI2NTQwNTA3OCwtNTc5ODg3MjQ2LC0xMjg5ODcyNTMsMT
-QzNTc5MDI5NiwtMzA2NTY0ODM4LC0xMTc1MTg2NjQ2LDEwNzA5
-NjI3MTQsOTM5MTk2MjI5LDc2NzYxMjkxMiwzODU0OTU3MjAsMT
-Y4MjM2Nzc1LC01NDI3MTg2MDMsLTE0NTcwNzU4NjgsLTExNTUx
-OTY3MjFdfQ==
+eyJoaXN0b3J5IjpbMTUzMTU0MTUxMywtNzEwNTI0ODczLDE2Nj
+M0MjM3NTMsMTM3NzM1MjAwMywxMTM3MjE0MjEyLDM3NTEwNTQ2
+OSwtMjY1NDA1MDc4LC01Nzk4ODcyNDYsLTEyODk4NzI1MywxND
+M1NzkwMjk2LC0zMDY1NjQ4MzgsLTExNzUxODY2NDYsMTA3MDk2
+MjcxNCw5MzkxOTYyMjksNzY3NjEyOTEyLDM4NTQ5NTcyMCwxNj
+gyMzY3NzUsLTU0MjcxODYwMywtMTQ1NzA3NTg2OCwtMTE1NTE5
+NjcyMV19
 -->
