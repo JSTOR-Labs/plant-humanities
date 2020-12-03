@@ -19,7 +19,7 @@ Cinnamon already had a global history long before any European ever saw the 'tru
 How could such confusion last so long?
 
 ### Cinnamon as a tool of empire
-Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. Many coins can be found from the reign of Roman emperor.[^ref1]
+Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. Many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks.[^ref1]
 <param ve-image
 	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding a branch and a bundle of cinnamon sticks, and standing next to a camel."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
@@ -31,11 +31,11 @@ Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri 
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 99-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODYzNjk0MSwtMTUwNDU4Mzg3NiwxMj
-YxMzc3MTY3LC0xMzIzMjU2Mjg0LC0yMDEyNjczNTk1LC03NTcy
-NjQ0MzcsNzg2Njg5MDkyLC0xMjAxNTYxMjEzLDEwMzQ2ODMzMj
-QsLTEwMTExODI5NjYsLTIxMzU3MDIyMjAsLTc3NjU4MDQyMyw3
-ODU3OTM0NDIsMTczMDIxMTQ1Niw3MTc3MzA2ODMsLTM1NzcwOT
-IwMSwxNzYxOTE4NzI1LC0xMjI0ODE3NDQ0LC0xMDY1NDkzNzM0
-LDQ4MjYyNzcyOF19
+eyJoaXN0b3J5IjpbNzMwNzUzODkzLDExODg2MzY5NDEsLTE1MD
+Q1ODM4NzYsMTI2MTM3NzE2NywtMTMyMzI1NjI4NCwtMjAxMjY3
+MzU5NSwtNzU3MjY0NDM3LDc4NjY4OTA5MiwtMTIwMTU2MTIxMy
+wxMDM0NjgzMzI0LC0xMDExMTgyOTY2LC0yMTM1NzAyMjIwLC03
+NzY1ODA0MjMsNzg1NzkzNDQyLDE3MzAyMTE0NTYsNzE3NzMwNj
+gzLC0zNTc3MDkyMDEsMTc2MTkxODcyNSwtMTIyNDgxNzQ0NCwt
+MTA2NTQ5MzczNF19
 -->
