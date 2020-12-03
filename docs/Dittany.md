@@ -32,9 +32,21 @@ One such lore was the power of dittany for women’s health. According to Diosco
        url="http://images.library.upenn.edu/mrsidsceti/bin/image_jpeg.pl?coll=schoenberg&subcoll=ljs419&image=ljs419_body0057.sid&level=2">
 
 By the early modern period, [dittany was often described in herbals in three forms](https://biodiversitylibrary.org/page/56599913). The first was true dittany, a rare herb which grew only on rocky cliffs on the island of Crete. The second was white dittany (sometimes called fraxinella), and the third was bastard or false dittany. Today, these correlate to three different species across three related genera—_Origanum dictamnus_, _Dictamnus albus_, and _Ballota pseudodictamnus_ respectively. While we now classify dittany as three distinct species, in early modern herbals the main differences between the three were origin and, most importantly, potency. Whether described in two or three forms, all types of dittany in early modern herbals continued to be classified as a potent emmenagogue and an expellant for both a fetus and afterbirth.
-<param ve-plant-specimen eid="Q1227336" max="1">
-<param ve-plant-specimen eid="Q2643074" max="1">
-<param ve-plant-specimen eid="Q15345437" max="1">
+<param ve-image compare
+       description="Labiatae Origanum dictamnus"
+       attribution="Ulisse Aldrovandi Herbarium"
+       license="Copyright (©): Permission granted to reproduce for personal and educational use only. Commercial copying, hiring, lending is prohibited."
+       url="http://137.204.21.141/ALDROVANDI/image/vol5fg169.JPG">
+<param ve-image
+       description="Rutaceae Dictamnus albus"
+       attribution="Ulisse Aldrovandi Herbarium"
+       license="Copyright (©): Permission granted to reproduce for personal and educational use only. Commercial copying, hiring, lending is prohibited."
+       url="http://137.204.21.141/ALDROVANDI/image/vol3fg165.JPG">
+<param ve-image
+       description="Labiatae Ballota pseudodictamnus"
+       attribution="Ulisse Aldrovandi Herbarium"
+       license="Copyright (©): Permission granted to reproduce for personal and educational use only. Commercial copying, hiring, lending is prohibited."
+       url="http://137.204.21.141/ALDROVANDI/image/vol1fg158.JPG"
 
 ### Herbals and Women’s Medical Knowledge 
 It is important to note that ancient, medieval, and early modern herbals were by and large written by men and were the product of a learned textual tradition rather than lay or common knowledge.[^2] As such, the simple appearance of dittany as an herb for women’s health in herbals is not sufficient evidence to suggest that women knew the plant’s medicinal virtues and used it accordingly. However, while the initial production of early modern herbals was spurred by learned medical humanist seeking to elucidating classical scholarship to produce more useful guides for identifying medicinal plants, the popularity and proliferation of herbals increased substantially over the course of the sixteenth and seventeenth centuries. This indicates that herbals were consumed by an increasingly larger audience. Furthermore, many herbals produced in the late 16th century, such as [Castore Durante’s 1585 Roman herbal](https://biodiversitylibrary.org/page/49828671), were simplified versions of more complicated Latin herbals, written in the vernacular and, thus, far more accessible to a wider, albeit literate, audience.
