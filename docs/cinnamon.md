@@ -10,10 +10,10 @@
 
 ### The Cinnamon Challenge
 
-In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction was simple enough – try to swallow a tablespoon of cinnamon at once – it proved to be virtually impossible in practice. Trying to ingest 
+In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction was simple enough – try to swallow a tablespoon of cinnamon at once – it proved to be virtually impossible in practice. Trying to ingest dry, grinded cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDc5MTU2MCwxNzMwMjExNDU2LDcxNz
-czMDY4MywtMzU3NzA5MjAxLDE3NjE5MTg3MjUsLTEyMjQ4MTc0
-NDQsLTEwNjU0OTM3MzQsNDgyNjI3NzI4LDIwODkzMzc1NDgsLT
-c5MDI0NDM1MV19
+eyJoaXN0b3J5IjpbLTE4NDAyMDgxNjQsMTczMDIxMTQ1Niw3MT
+c3MzA2ODMsLTM1NzcwOTIwMSwxNzYxOTE4NzI1LC0xMjI0ODE3
+NDQ0LC0xMDY1NDkzNzM0LDQ4MjYyNzcyOCwyMDg5MzM3NTQ4LC
+03OTAyNDQzNTFdfQ==
 -->
