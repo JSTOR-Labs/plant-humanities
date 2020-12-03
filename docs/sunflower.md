@@ -141,14 +141,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q63825" title="double-flowered">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life">
-<param ve-entity eid="Q48292" title="Arles">
-<param ve-entity eid="Q202398" title="industrialization">
-<param ve-entity eid="Q161078" title="urbanization">
-<param ve-entity eid="Q628403" title="conservation">
-<param ve-entity eid="Q52105" title="habitat" aliases="habitats">
-<param ve-entity eid="Q11084414" title="modernity">
-<param ve-entity eid="Q2638759" title="Zundert">
-In the later nineteenth century, a period of rapid industrialization and urbanization in Europe, city dwellers participated in new modes of urban labor, leisure, transportation, and commerce that did not often include direct encounters with plants in their natural habitats. That separation from nature profoundly impacted those who migrated to cities from rural areas, such as Vincent Van Gogh, providing a poignant context for interpreting this still life painting by him. In it, Van Gogh shows a vase filled with an arrangement of more than a dozen sunflowers. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that two different types of _Helianthus annuus_ are portrayed here and they were harvested at different stages of their life cycles. The sunflowers, at top left and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety known as the "Teddy Bear"—are still vibrant.[^ref21] Van Gogh painted this depiction of sunflowers directly from life during the summer of 1888, after moving from Paris to Arles the previous winter.[^ref22] Energized by the bright light of Provence and new opportunities for encountering plantlife, Van Gogh produced several such pictures that are now intertwined in the cultural imaginary with the historical figure of the artist himself.
+In it, Van Gogh shows a vase filled with an arrangement of more than a dozen sunflowers. The disparate shapes of their radiant ocher, mustard, and yellow-orange flower heads indicate that two different types of _Helianthus annuus_ are portrayed here and they were harvested at different stages of their life cycles. The sunflowers, at top left and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety known as the "Teddy Bear"—are still vibrant.[^ref21] Van Gogh painted this depiction of sunflowers directly from life during the summer of 1888, after moving from Paris to Arles the previous winter.[^ref22] Energized by the bright light of Provence and new opportunities for encountering plantlife, Van Gogh produced several such pictures that are now intertwined in the cultural imaginary with the historical figure of the artist himself.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," Kor!An (Корзун Андрей), Wikimedia Commons">
 
@@ -173,6 +166,13 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 
 <param ve-entity eid="Q273383" title="Memento mori" aliases="memento mori">
 <param ve-entity eid="Q2299244" title="wilting" aliases="wilt">
+<param ve-entity eid="Q48292" title="Arles">
+<param ve-entity eid="Q202398" title="industrialization">
+<param ve-entity eid="Q161078" title="urbanization">
+<param ve-entity eid="Q628403" title="conservation">
+<param ve-entity eid="Q52105" title="habitat" aliases="habitats">
+<param ve-entity eid="Q11084414" title="modernity">
+<param ve-entity eid="Q2638759" title="Zundert">
 In the later nineteenth century, a period of rapid industrialization and urbanization in Europe, city dwellers participated in new modes of urban labor, leisure, transportation, and commerce that did not often include direct encounters with plants in their natural habitats. That separation from nature profoundly impacted those who migrated to cities from rural areas, such as Vincent Van Gogh, providing a poignant context for interpreting this still life painting by him.The artist produced _Sunflowers_ while living in a Parisian suburb, in 1887, far from the rural environment bordering his native Zundert. In this _memento mori_, he portrays two flowers that have gone to seed against a somber blue background. The flowers' barren disc and desiccated yellow head serve as mournful reminders of their former beauty, though we may also read them as metaphors for the withering of human connections with plants due to modernity. This representation of _Helianthus annuus_, like others considered here, shines a light on some understudied aspects of human-plant relationships and our responsibility to approach such encounters from with more attentiveness and care.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
@@ -227,11 +227,11 @@ In the later nineteenth century, a period of rapid industrialization and urbaniz
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY2NTc5NTYsLTMwNjU2NDgzOCwtMT
-E3NTE4NjY0NiwxMDcwOTYyNzE0LDkzOTE5NjIyOSw3Njc2MTI5
-MTIsMzg1NDk1NzIwLDE2ODIzNjc3NSwtNTQyNzE4NjAzLC0xND
-U3MDc1ODY4LC0xMTU1MTk2NzIxLDY2MDU5MzE1NSwyMTExNzQ5
-MjgsLTIxMzQ1MzE4MzAsLTE3OTU0MjQyMTYsMzExNzEyODgxLD
-Y1MjIwNzIsNjMwNTg4MzExLC0xNzE3NzMzMjcwLDIwMzY5NzQ0
-MjNdfQ==
+eyJoaXN0b3J5IjpbMTQzNTc5MDI5NiwtMzA2NTY0ODM4LC0xMT
+c1MTg2NjQ2LDEwNzA5NjI3MTQsOTM5MTk2MjI5LDc2NzYxMjkx
+MiwzODU0OTU3MjAsMTY4MjM2Nzc1LC01NDI3MTg2MDMsLTE0NT
+cwNzU4NjgsLTExNTUxOTY3MjEsNjYwNTkzMTU1LDIxMTE3NDky
+OCwtMjEzNDUzMTgzMCwtMTc5NTQyNDIxNiwzMTE3MTI4ODEsNj
+UyMjA3Miw2MzA1ODgzMTEsLTE3MTc3MzMyNzAsMjAzNjk3NDQy
+M119
 -->
