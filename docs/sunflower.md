@@ -94,7 +94,7 @@ The discussion of sunflowers in Hernández’s _Nova plantarum_ complicates deba
 <param ve-entity eid="Q81506" title="Charles I of England">
 <param ve-entity eid="Q112110" title="emblem" aliases="emblems">
 <param ve-entity eid="Q15472169" title="patron of the arts" aliases="patron">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist then working for Charles I of England, surely had numerous models to study such as herbals, florilegia, and emblems.[^ref16] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower—a floral manifestation of his loyalty to his patron.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of primarily domesticated sunflowers. Van Dyck, a Flemish artist then working for Charles I of England, surely had numerous models to study such as herbals, florilegia, and emblems.[^ref16] In the portrait, the artist portrays himself wearing a gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming sunflower—a floral manifestation of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, c. 1632 or 1633, Eaton Hall, Cheshire, England, Wikimedia Commons">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Collaert_Rijksmuseum_RP-P-BI-5997.jpg" title="Adriaen Collaert, _Sunflower and other flowers_, from _Florilegium_, 1570-before 1618, Rijksmuseum">
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Vianen_Rijksmuseum_RP-P-1908-3593.jpg" title="Jan van Vianen, _Emblemes d'Amour_ (Emblems of Love), 1686, Rijksmuseum">
@@ -228,7 +228,7 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzMjI3NDM0LC01NDI3MTg2MDMsLTE0NT
+eyJoaXN0b3J5IjpbMTY4MjM2Nzc1LC01NDI3MTg2MDMsLTE0NT
 cwNzU4NjgsLTExNTUxOTY3MjEsNjYwNTkzMTU1LDIxMTE3NDky
 OCwtMjEzNDUzMTgzMCwtMTc5NTQyNDIxNiwzMTE3MTI4ODEsNj
 UyMjA3Miw2MzA1ODgzMTEsLTE3MTc3MzMyNzAsMjAzNjk3NDQy
