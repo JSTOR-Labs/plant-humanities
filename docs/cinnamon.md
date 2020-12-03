@@ -10,7 +10,7 @@
 
 ### The cinnamon challenge
 
-In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction was simple enough – try to swallow a tablespoon of cinnamon at once – it proved to be virtually impossible in practice. Trying to ingest dry, grinded cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestable clutter in the back of the throat. Thankfully, this [quite dagerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
+In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, grinded cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestable clutter in the back of the throat. Thankfully, this [quite dagerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
 
 ### A global history
 
@@ -31,11 +31,11 @@ Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri 
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 99-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODE5MDc1NCwtMjAwOTg3MTgyNCwtMj
-EwNjk0MDY0Niw5NzAyOTgwODIsMTE4ODYzNjk0MSwtMTUwNDU4
-Mzg3NiwxMjYxMzc3MTY3LC0xMzIzMjU2Mjg0LC0yMDEyNjczNT
-k1LC03NTcyNjQ0MzcsNzg2Njg5MDkyLC0xMjAxNTYxMjEzLDEw
-MzQ2ODMzMjQsLTEwMTExODI5NjYsLTIxMzU3MDIyMjAsLTc3Nj
-U4MDQyMyw3ODU3OTM0NDIsMTczMDIxMTQ1Niw3MTc3MzA2ODMs
-LTM1NzcwOTIwMV19
+eyJoaXN0b3J5IjpbODYzOTc1OTE0LC0yMDA5ODcxODI0LC0yMT
+A2OTQwNjQ2LDk3MDI5ODA4MiwxMTg4NjM2OTQxLC0xNTA0NTgz
+ODc2LDEyNjEzNzcxNjcsLTEzMjMyNTYyODQsLTIwMTI2NzM1OT
+UsLTc1NzI2NDQzNyw3ODY2ODkwOTIsLTEyMDE1NjEyMTMsMTAz
+NDY4MzMyNCwtMTAxMTE4Mjk2NiwtMjEzNTcwMjIyMCwtNzc2NT
+gwNDIzLDc4NTc5MzQ0MiwxNzMwMjExNDU2LDcxNzczMDY4Mywt
+MzU3NzA5MjAxXX0=
 -->
