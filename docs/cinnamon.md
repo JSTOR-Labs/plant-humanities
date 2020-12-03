@@ -14,9 +14,9 @@ In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although
 
 ### A global history
 
-Cinnamon already had a global history long before any European ever saw a _Cinnamomum_-species in real life. And here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a vital observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has often been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), that were described by ancient authorities, were in fact the same plants as those found in the East Indies in the sixteenth century. The assumption persisted into the twenty-first century, 
+Cinnamon already had a global history long before any European ever saw a _Cinnamomum verum_ J.Presl in real life. And here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a vital observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has often been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), that were described by ancient authorities, were in fact the same plants as those found in the East Indies in the sixteenth century. The assumption persisted into the twenty-first century, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDY0NjE1NCwxMDM0NjgzMzI0LC0xMD
+eyJoaXN0b3J5IjpbMjA2ODE2OTY3MiwxMDM0NjgzMzI0LC0xMD
 ExMTgyOTY2LC0yMTM1NzAyMjIwLC03NzY1ODA0MjMsNzg1Nzkz
 NDQyLDE3MzAyMTE0NTYsNzE3NzMwNjgzLC0zNTc3MDkyMDEsMT
 c2MTkxODcyNSwtMTIyNDgxNzQ0NCwtMTA2NTQ5MzczNCw0ODI2
