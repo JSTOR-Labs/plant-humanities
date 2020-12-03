@@ -25,15 +25,19 @@ Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri 
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="154,53,900,667">
 
-Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), The Land of Fertility II: The Southeast Mediterranean from the Bronze Age (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 99-106, there 99-100.
+
 
 ### An ongoing challenge
 About current developments in botany and medicine to make sense of cinnamon.
+
+### References
+
+[^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), The Land of Fertility II: The Southeast Mediterranean from the Bronze Age (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 99-106, there 99-100.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2NzI0MzMsLTc1NzI2NDQzNyw3ODY2OD
-kwOTIsLTEyMDE1NjEyMTMsMTAzNDY4MzMyNCwtMTAxMTE4Mjk2
-NiwtMjEzNTcwMjIyMCwtNzc2NTgwNDIzLDc4NTc5MzQ0MiwxNz
-MwMjExNDU2LDcxNzczMDY4MywtMzU3NzA5MjAxLDE3NjE5MTg3
-MjUsLTEyMjQ4MTc0NDQsLTEwNjU0OTM3MzQsNDgyNjI3NzI4LD
-IwODkzMzc1NDgsLTc5MDI0NDM1MV19
+eyJoaXN0b3J5IjpbNjEyOTE1MDk2LC03NTcyNjQ0MzcsNzg2Nj
+g5MDkyLC0xMjAxNTYxMjEzLDEwMzQ2ODMzMjQsLTEwMTExODI5
+NjYsLTIxMzU3MDIyMjAsLTc3NjU4MDQyMyw3ODU3OTM0NDIsMT
+czMDIxMTQ1Niw3MTc3MzA2ODMsLTM1NzcwOTIwMSwxNzYxOTE4
+NzI1LC0xMjI0ODE3NDQ0LC0xMDY1NDkzNzM0LDQ4MjYyNzcyOC
+wyMDg5MzM3NTQ4LC03OTAyNDQzNTFdfQ==
 -->
