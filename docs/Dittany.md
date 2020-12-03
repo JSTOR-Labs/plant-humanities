@@ -50,12 +50,12 @@ By the early modern period, [dittany was often described in herbals in three for
 
 ### Herbals and Women’s Medical Knowledge 
 It is important to note that ancient, medieval, and early modern herbals were by and large written by men and were the product of a learned textual tradition rather than lay or common knowledge.[^2] As such, the simple appearance of dittany as an herb for women’s health in herbals is not sufficient evidence to suggest that women knew the plant’s medicinal virtues and used it accordingly. However, while the initial production of early modern herbals was spurred by learned medical humanist seeking to elucidating classical scholarship to produce more useful guides for identifying medicinal plants, the popularity and proliferation of herbals increased substantially over the course of the sixteenth and seventeenth centuries. This indicates that herbals were consumed by an increasingly larger audience. Furthermore, many herbals produced in the late 16th century, such as [Castore Durante’s 1585 Roman herbal](https://biodiversitylibrary.org/page/49828671), were simplified versions of more complicated Latin herbals, written in the vernacular and, thus, far more accessible to a wider, albeit literate, audience.
-<param ve-image
-       title="I discorsi by M. Pietro Andrea Matthioli"
+<param ve-image curtain
+       description="I discorsi by M. Pietro Andrea Matthioli"
        attribution="Via BHL"
        url="https://www.biodiversitylibrary.org/pageimage/51721921">
 <param ve-image
-       title="Herbario nuouo, Castore Durante"
+       description="Herbario nuouo, Castore Durante"
        attribution="Via BHL"
        url="https://www.biodiversitylibrary.org/pageimage/49828671">
 
