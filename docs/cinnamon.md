@@ -10,9 +10,9 @@
 
 ### The Cinnamon Challenge
 
-In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction was simple enough – try to swallow a tablespoon of cinnamon at once – it proved to be virtually impossible in practice. Trying to ingest dry, grinded cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestable clutter in the back of the throat
+In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction was simple enough – try to swallow a tablespoon of cinnamon at once – it proved to be virtually impossible in practice. Trying to ingest dry, grinded cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestable clutter in the back of the throat. This ridiculous and quite dangerous assignment is a marginal footnote in the history of cinnamon. The real challenge of cinnamon has been an ongoing effort of learned men and women
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODE0NzE0NCwxNzMwMjExNDU2LDcxNz
+eyJoaXN0b3J5IjpbMTQ1MjgyMzM5NiwxNzMwMjExNDU2LDcxNz
 czMDY4MywtMzU3NzA5MjAxLDE3NjE5MTg3MjUsLTEyMjQ4MTc0
 NDQsLTEwNjU0OTM3MzQsNDgyNjI3NzI4LDIwODkzMzc1NDgsLT
 c5MDI0NDM1MV19
