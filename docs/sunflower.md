@@ -131,7 +131,7 @@ Henderson's botanical illustration highlights a trait of sunflowers that we may 
 <param ve-entity eid="Q103129" title="stamen" aliases="stamen(s)"> 
 <param ve-entity eid="Q62779" title="pistil" aliases="pistil(s)">
 <param ve-entity eid="Q7211" title="taxonomy">
-Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiveness while also articulating Linnaeus’s contributions to botany as they relate to _Helianthus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the <span data-click-image-zoomto="2992,4439,1952,1782">lower right corner of _Anatomy of the Sunflower_,</span> where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book _[New illustration of the sexual system of Carolus von Linnaeus](http://id.lib.harvard.edu/alma/990075420710203941/catalog)_.
+Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiveness to the plant world while also articulating Linnaeus’s contributions to botany as they relate to _Helianthus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the <span data-click-image-zoomto="2992,4439,1952,1782">lower right corner of _Anatomy of the Sunflower_,</span> where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book _[New illustration of the sexual system of Carolus von Linnaeus](http://id.lib.harvard.edu/alma/990075420710203941/catalog)_.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="9">
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="11">
@@ -228,11 +228,11 @@ In the latter nineteenth century, a period of rapid industrialization and urbani
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDY4MDEzLDEwNzA5NjI3MTQsOTM5MT
-k2MjI5LDc2NzYxMjkxMiwzODU0OTU3MjAsMTY4MjM2Nzc1LC01
-NDI3MTg2MDMsLTE0NTcwNzU4NjgsLTExNTUxOTY3MjEsNjYwNT
-kzMTU1LDIxMTE3NDkyOCwtMjEzNDUzMTgzMCwtMTc5NTQyNDIx
-NiwzMTE3MTI4ODEsNjUyMjA3Miw2MzA1ODgzMTEsLTE3MTc3Mz
-MyNzAsMjAzNjk3NDQyMywtMTE2MzIzMDgyMywxNjg5NDIzMTU2
-XX0=
+eyJoaXN0b3J5IjpbLTExNzUxODY2NDYsMTA3MDk2MjcxNCw5Mz
+kxOTYyMjksNzY3NjEyOTEyLDM4NTQ5NTcyMCwxNjgyMzY3NzUs
+LTU0MjcxODYwMywtMTQ1NzA3NTg2OCwtMTE1NTE5NjcyMSw2Nj
+A1OTMxNTUsMjExMTc0OTI4LC0yMTM0NTMxODMwLC0xNzk1NDI0
+MjE2LDMxMTcxMjg4MSw2NTIyMDcyLDYzMDU4ODMxMSwtMTcxNz
+czMzI3MCwyMDM2OTc0NDIzLC0xMTYzMjMwODIzLDE2ODk0MjMx
+NTZdfQ==
 -->
