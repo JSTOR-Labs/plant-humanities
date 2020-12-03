@@ -149,7 +149,7 @@ In the later-nineteenth century, European painters who worked in modernist style
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
 <param ve-entity eid="Q181916" title="herbarium">
-Contrary to what is most often portrayed in images and texts, particularly Van Gogh's iconic plant portraits, the palette of _Helianthus_ is not limited to yellow. Indeed, there are more than fifty accepted species grouped under _Helianthus_ and 
+Contrary to what is most often portrayed in images and texts, particularly Van Gogh's iconic sunflower portraits, the palette of _Helianthus_ is not limited to yellow. Indeed, there are more than fifty accepted species grouped under _Helianthus_ and 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
 their color can range from gold to orange to red to dark purple and even an unexpected shade of pink. Species also vary in terms of size and the number and shape of their leaves and flower heads, as demonstrated by these herbarium sheets with dried _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke). The specimens also dispel the notion that sunflowers only have one large blossom per stock.
 <param ve-plant-specimen eid="Q171497" max="1">
@@ -173,7 +173,8 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q52105" title="habitat" aliases="habitats">
 <param ve-entity eid="Q11084414" title="modernity">
 <param ve-entity eid="Q2638759" title="Zundert">
-In the later nineteenth century, a period of rapid industrialization and urbanization in Europe, city dwellers participated in new modes of urban labor, leisure, transportation, and commerce that did not often include direct encounters with plants in their natural habitats. That separation from nature profoundly impacted those who migrated to cities from rural areas, such as Vincent Van Gogh, providing a poignant context for interpreting this still life painting by him.The artist produced _Sunflowers_ while living in a Parisian suburb, in 1887, far from the rural environment bordering his native Zundert. In this _memento mori_, he portrays two flowers that have gone to seed against a somber blue background. The flowers' barren disc and desiccated yellow head serve as mournful reminders of their former beauty, though we may also read them as metaphors for the withering of human connections with plants due to modernity. This representation of _Helianthus annuus_, like others considered here, shines a light on some understudied aspects of human-plant relationships and our responsibility to approach such encounters with more attentiveness and care.
+Visual representations of domesticated _Helianthus annuus_considered here, shines a light on some understudied aspects of human-plant relationships and our responsibility to approach such encounters with more attentiveness and care.
+In the later nineteenth century, a period of rapid industrialization and urbanization in Europe, city dwellers participated in new modes of urban labor, leisure, transportation, and commerce that did not often include direct encounters with plants in their natural habitats. That separation from nature profoundly impacted those who migrated to cities from rural areas, such as Vincent Van Gogh, providing a poignant context for interpreting this still life painting by him.The artist produced _Sunflowers_ while living in a Parisian suburb, in 1887, far from the rural environment bordering his native Zundert. In this _memento mori_, he portrays two flowers that have gone to seed against a somber blue background. The flowers' barren disc and desiccated yellow head serve as mournful reminders of their former beauty, though we may also read them as metaphors for the withering of human connections with plants due to modernity.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -227,11 +228,11 @@ In the later nineteenth century, a period of rapid industrialization and urbaniz
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTIxMzY5LC03MTA1MjQ4NzMsMTY2Mz
-QyMzc1MywxMzc3MzUyMDAzLDExMzcyMTQyMTIsMzc1MTA1NDY5
-LC0yNjU0MDUwNzgsLTU3OTg4NzI0NiwtMTI4OTg3MjUzLDE0Mz
-U3OTAyOTYsLTMwNjU2NDgzOCwtMTE3NTE4NjY0NiwxMDcwOTYy
-NzE0LDkzOTE5NjIyOSw3Njc2MTI5MTIsMzg1NDk1NzIwLDE2OD
-IzNjc3NSwtNTQyNzE4NjAzLC0xNDU3MDc1ODY4LC0xMTU1MTk2
-NzIxXX0=
+eyJoaXN0b3J5IjpbLTE1MjAyNTQxNzIsLTcxMDUyNDg3MywxNj
+YzNDIzNzUzLDEzNzczNTIwMDMsMTEzNzIxNDIxMiwzNzUxMDU0
+NjksLTI2NTQwNTA3OCwtNTc5ODg3MjQ2LC0xMjg5ODcyNTMsMT
+QzNTc5MDI5NiwtMzA2NTY0ODM4LC0xMTc1MTg2NjQ2LDEwNzA5
+NjI3MTQsOTM5MTk2MjI5LDc2NzYxMjkxMiwzODU0OTU3MjAsMT
+Y4MjM2Nzc1LC01NDI3MTg2MDMsLTE0NTcwNzU4NjgsLTExNTUx
+OTY3MjFdfQ==
 -->
