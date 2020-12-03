@@ -173,7 +173,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 
 <param ve-entity eid="Q273383" title="Memento mori" aliases="memento mori">
 <param ve-entity eid="Q2299244" title="wilting" aliases="wilt">
-The artist produced _Sunflowers_ while living in a Parisian suburb, in 1887, far from the rural environment bordering his native Zundert. In this _memento mori_, he portrays two flowers that have gone to seed against a somber blue background. The flowers' barren disc and desiccated yellow head serve as mournful reminders of their former beauty, though we may also read them as metaphors for the withering of human connections with plants due to modernity. This representation of _Helianthus annuus_, like others considered here, shines a light on some understudied aspects of human-plant relationships and our responsibility to approach such encounters from with more attentiveness and care.
+In the later nineteenth century, a period of rapid industrialization and urbanization in Europe, city dwellers participated in new modes of urban labor, leisure, transportation, and commerce that did not often include direct encounters with plants in their natural habitats. That separation from nature profoundly impacted those who migrated to cities from rural areas, such as Vincent Van Gogh, providing a poignant context for interpreting this still life painting by him.The artist produced _Sunflowers_ while living in a Parisian suburb, in 1887, far from the rural environment bordering his native Zundert. In this _memento mori_, he portrays two flowers that have gone to seed against a somber blue background. The flowers' barren disc and desiccated yellow head serve as mournful reminders of their former beauty, though we may also read them as metaphors for the withering of human connections with plants due to modernity. This representation of _Helianthus annuus_, like others considered here, shines a light on some understudied aspects of human-plant relationships and our responsibility to approach such encounters from with more attentiveness and care.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -227,11 +227,11 @@ The artist produced _Sunflowers_ while living in a Parisian suburb, in 1887, far
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjU2NDgzOCwtMTE3NTE4NjY0NiwxMD
-cwOTYyNzE0LDkzOTE5NjIyOSw3Njc2MTI5MTIsMzg1NDk1NzIw
-LDE2ODIzNjc3NSwtNTQyNzE4NjAzLC0xNDU3MDc1ODY4LC0xMT
-U1MTk2NzIxLDY2MDU5MzE1NSwyMTExNzQ5MjgsLTIxMzQ1MzE4
-MzAsLTE3OTU0MjQyMTYsMzExNzEyODgxLDY1MjIwNzIsNjMwNT
-g4MzExLC0xNzE3NzMzMjcwLDIwMzY5NzQ0MjMsLTExNjMyMzA4
+eyJoaXN0b3J5IjpbLTE2NDY2NTc5NTYsLTMwNjU2NDgzOCwtMT
+E3NTE4NjY0NiwxMDcwOTYyNzE0LDkzOTE5NjIyOSw3Njc2MTI5
+MTIsMzg1NDk1NzIwLDE2ODIzNjc3NSwtNTQyNzE4NjAzLC0xND
+U3MDc1ODY4LC0xMTU1MTk2NzIxLDY2MDU5MzE1NSwyMTExNzQ5
+MjgsLTIxMzQ1MzE4MzAsLTE3OTU0MjQyMTYsMzExNzEyODgxLD
+Y1MjIwNzIsNjMwNTg4MzExLC0xNzE3NzMzMjcwLDIwMzY5NzQ0
 MjNdfQ==
 -->
