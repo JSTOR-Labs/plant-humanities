@@ -10,9 +10,9 @@
 
 ### The Cinnamon Challenge
 
-In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. The instruction was simple enough: try to swallow a tablespoon of cinnamon at once.
+In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction was simple enough – try to swallow a tablespoon of cinnamon at once – it proved to be virtually impossible in practice. Trying to ingest 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDAzMzE4NCwxNzMwMjExNDU2LDcxNz
+eyJoaXN0b3J5IjpbLTI3MDc5MTU2MCwxNzMwMjExNDU2LDcxNz
 czMDY4MywtMzU3NzA5MjAxLDE3NjE5MTg3MjUsLTEyMjQ4MTc0
 NDQsLTEwNjU0OTM3MzQsNDgyNjI3NzI4LDIwODkzMzc1NDgsLT
 c5MDI0NDM1MV19
