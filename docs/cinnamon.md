@@ -40,7 +40,7 @@ Paul Hermann
 
 Global availability
 	- in Russia
-	Griffin (C.L.) 2018.pdf
+	Griffin (C.L.) 2018
 
 British efforts to maintain the cinnamon monopoly, and failure
 
@@ -58,17 +58,19 @@ Cinnamon in the Spanish (Atlantic) world
 	Crawford (M.J.) 2016a.pdf (Mutis)
 	Delbourgo (J.) & Dew (N.) 2008a.pdf (art Safier over Pizzarro en Orellana, later Jussieu)
 	- Publishing cinnamon knowledge (Hernández expedition)
-	Freedberg (D.) 2002.pdf
+	Freedberg (D.) 2002
+	- Elcano's coat of arms after the Magelhaes expedition
+	Guerra (F.) 1964
 	
-
-Bleichmar (D.) 2012.pdf
+Medicinal uses
+Ranasinghe (P.) 2013
 
 
 ### References
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5MzQxODMyLDcyMDcxODY4Nyw3MjcxOD
+eyJoaXN0b3J5IjpbMTMyMTY4MjAyLDcyMDcxODY4Nyw3MjcxOD
 UzMDAsODYzOTc1OTE0LC0yMDA5ODcxODI0LC0yMTA2OTQwNjQ2
 LDk3MDI5ODA4MiwxMTg4NjM2OTQxLC0xNTA0NTgzODc2LDEyNj
 EzNzcxNjcsLTEzMjMyNTYyODQsLTIwMTI2NzM1OTUsLTc1NzI2
