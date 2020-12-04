@@ -82,6 +82,9 @@ Cinnamon in the Spanish (Atlantic) world
 Handel vóór de Portugezen
 Bouchon (G.) 1990
 
+Portrugezen
+Biedermann (Z.) 2009
+
 Medicinal uses
 Ranasinghe (P.) 2013
 
@@ -102,11 +105,11 @@ http://www.worldstopexports.com/cinnamon-exporters/
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzQwMDA3NiwtMTkzODcwMzcxNCwxMT
-k4MDgyNzk2LC0yMDI2MjEyNzQ4LDEyNjc0Nzk2NDksLTE3ODA2
-ODY0LC0xODQ5OTA4NzI4LC0zNTM5MDA3OTEsLTE1ODA3NTAxNz
-gsLTIxNDE1Njc2ODMsMTI5OTg0ODY4OSwxMzIxNjgyMDIsNzIw
-NzE4Njg3LDcyNzE4NTMwMCw4NjM5NzU5MTQsLTIwMDk4NzE4Mj
-QsLTIxMDY5NDA2NDYsOTcwMjk4MDgyLDExODg2MzY5NDEsLTE1
-MDQ1ODM4NzZdfQ==
+eyJoaXN0b3J5IjpbMTYwODc4MDUyMiwtNjEzNDAwMDc2LC0xOT
+M4NzAzNzE0LDExOTgwODI3OTYsLTIwMjYyMTI3NDgsMTI2NzQ3
+OTY0OSwtMTc4MDY4NjQsLTE4NDk5MDg3MjgsLTM1MzkwMDc5MS
+wtMTU4MDc1MDE3OCwtMjE0MTU2NzY4MywxMjk5ODQ4Njg5LDEz
+MjE2ODIwMiw3MjA3MTg2ODcsNzI3MTg1MzAwLDg2Mzk3NTkxNC
+wtMjAwOTg3MTgyNCwtMjEwNjk0MDY0Niw5NzAyOTgwODIsMTE4
+ODYzNjk0MV19
 -->
