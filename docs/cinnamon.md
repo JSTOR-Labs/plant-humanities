@@ -14,7 +14,7 @@ In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although
 
 ### A global history
 
-Cinnamon already had a global history long before any European ever saw the 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. And here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a vital observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), that were described by ancient medical authorities, were the same plants as the ones with those names that were found in the East Indies in the sixteenth century. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably the East-African species _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_ at all.
+Cinnamon already had a global history long before any European ever saw the 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. And here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), that were described by ancient medical authorities, were the same plants as the ones with those names that were found in the East Indies in the sixteenth century. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably the East-African species _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_ at all.
 
 How could such confusion last so long?
 
@@ -31,11 +31,11 @@ Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri 
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 99-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzOTc1OTE0LC0yMDA5ODcxODI0LC0yMT
-A2OTQwNjQ2LDk3MDI5ODA4MiwxMTg4NjM2OTQxLC0xNTA0NTgz
-ODc2LDEyNjEzNzcxNjcsLTEzMjMyNTYyODQsLTIwMTI2NzM1OT
-UsLTc1NzI2NDQzNyw3ODY2ODkwOTIsLTEyMDE1NjEyMTMsMTAz
-NDY4MzMyNCwtMTAxMTE4Mjk2NiwtMjEzNTcwMjIyMCwtNzc2NT
-gwNDIzLDc4NTc5MzQ0MiwxNzMwMjExNDU2LDcxNzczMDY4Mywt
-MzU3NzA5MjAxXX0=
+eyJoaXN0b3J5IjpbNzE5NTcxOTM1LDg2Mzk3NTkxNCwtMjAwOT
+g3MTgyNCwtMjEwNjk0MDY0Niw5NzAyOTgwODIsMTE4ODYzNjk0
+MSwtMTUwNDU4Mzg3NiwxMjYxMzc3MTY3LC0xMzIzMjU2Mjg0LC
+0yMDEyNjczNTk1LC03NTcyNjQ0MzcsNzg2Njg5MDkyLC0xMjAx
+NTYxMjEzLDEwMzQ2ODMzMjQsLTEwMTExODI5NjYsLTIxMzU3MD
+IyMjAsLTc3NjU4MDQyMyw3ODU3OTM0NDIsMTczMDIxMTQ1Niw3
+MTc3MzA2ODNdfQ==
 -->
