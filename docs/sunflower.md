@@ -144,7 +144,6 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q63825" title="double-flowered">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life" aliases="still lifes">
-<param ve-entity eid="Q2299244" title="wilting" aliases="wilt">
 <param ve-entity eid="Q48292" title="Arles">
 <param ve-entity eid="Q90" title="Paris">
 In the later-nineteenth century, many European painters embraced the genre of still life to explore the expressive capacities of paint, plants, and floral forms. Indeed, Vincent van Gogh cultivated a signature style of representing domesticated sunflowers in which he emphasizes color and texture. In this 1888 painting, entitled _Sunflowers_, he uses a range of intense yellows to depict an arrangement of more than a dozen blooms. The disparate hues and shapes of their radiant ocher, mustard, and golden-orange flower heads indicate that two different types of cultivated _Helianthus annuus_ are portrayed here and that they were harvested at different stages of their life cycles. The sunflowers, <span data-click-image-zoomto="9,1135,1311,1118">at top left</span> and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety known as the <span data-click-image-zoomto="2050,113,1311,1118">"Teddy Bear"</span>—are still vibrant.[^ref21] Van Gogh painted <span data-click-image-zoomto="-1158,0,7037,6001">these sunflowers</span> directly from life during the summer of 1888, after moving from Paris to Arles the previous winter.[^ref22] We can therefore read his gold palette as metaphorically evoking the bright warm light of southern France that nurtured his painting practice and the growth of the sunflowers shown here.
@@ -230,7 +229,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDMwMTEyNjIsLTU4NDUyNjgyOCwtMz
+eyJoaXN0b3J5IjpbLTE2Njk1NTQ4NzQsLTU4NDUyNjgyOCwtMz
 MwNTc3MDU2LDg2NzEyOTA2LC0zMjgzMDU0NzcsLTE3NTE5MzU1
 MTgsMTc1NDAzMDM4OSw3NjYzNzg1NDYsLTE4ODM2NzkyMDMsLT
 E4ODM2NzkyMDMsLTE5NzI1MzM4MzIsMTY4MTA0MzQ1OCw4NTg0
