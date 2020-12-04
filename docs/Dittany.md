@@ -125,7 +125,7 @@ The knowledge of how to provoke menstruation through herbs gave pre-modern women
        description="A woman in bed recovering from childbirth, a midwife washes the baby while another attendant looks after the mother. Woodcut."
        region="754,96,2113,1530"
        attribution="16th century, Swiss, via the Wellcome Collection"
-       license="See page for author, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+       license="Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/1/18/A_woman_in_bed_recovering_from_childbirth%2C_a_midwife_washes_Wellcome_V0014914ER.jpg">
 
 ### References
