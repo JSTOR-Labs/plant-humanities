@@ -204,7 +204,7 @@ Visual representations of domesticated _Helianthus annuus_ and _Helianthus_ cons
 
 [^ref12]: For a concise summary of the debate see Schiffer, “Origin of the Domesticated Sunflower,” 241-46.
 
-[^ref13]: David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” 57-74; Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," 9-13.
+[^ref13]: Because the seed is no longer extant, it cannot undergo further testing. David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” 57-74; Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," 9-13.
 
 [^ref14]: Benjamin K. Blackman, et al., “Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
 
@@ -230,11 +230,11 @@ Visual representations of domesticated _Helianthus annuus_ and _Helianthus_ cons
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjUyMDgzMiwtMTYwNDQ5OTA4MywyMD
-U2MDYwNDgsMjA0NDQwNjU2MywtMTc4MzEwMzU0LC0xMDE5NzUy
-NjgyLC0xMDE5NzUyNjgyLC0xMzA1MTY1NTI3LC0yMDk4NTA4Nz
-A5LC04NTcwNzUzNjIsLTEzOTU1NzcxOTIsMTEwNTg2MDY5Miwx
-NTUwOTYzMDQyLC0xMTYxMTAwODE5LC05NjE4MDYxMTcsMTg4Nj
-MyNzY2OCwxNDUxMzU4MzM4LC0xNjY1MTUyOTAxLDE5NTYwNDAy
-MDAsMjUyNDY1MDU5XX0=
+eyJoaXN0b3J5IjpbNDAzMjgzNTU4LC0xNjA0NDk5MDgzLDIwNT
+YwNjA0OCwyMDQ0NDA2NTYzLC0xNzgzMTAzNTQsLTEwMTk3NTI2
+ODIsLTEwMTk3NTI2ODIsLTEzMDUxNjU1MjcsLTIwOTg1MDg3MD
+ksLTg1NzA3NTM2MiwtMTM5NTU3NzE5MiwxMTA1ODYwNjkyLDE1
+NTA5NjMwNDIsLTExNjExMDA4MTksLTk2MTgwNjExNywxODg2Mz
+I3NjY4LDE0NTEzNTgzMzgsLTE2NjUxNTI5MDEsMTk1NjA0MDIw
+MCwyNTI0NjUwNTldfQ==
 -->
