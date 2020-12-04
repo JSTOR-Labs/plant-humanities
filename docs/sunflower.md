@@ -146,7 +146,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q48292" title="Arles">
 <param ve-entity eid="Q90" title="Paris">
 
-In the later-nineteenth century, many European painters embraced the genre of still life to explore the expressive capacities of paint, plants, and floral forms. Vincent van Gogh cultivated a personal iconography for representing domesticated sunflowers in which he emphasized color. In this 1888 painting, entitled _Sunflowers_, he uses a range of intense yellows to depict an arrangement of more than a dozen blooms. The disparate hues and shapes of their radiant ocher, mustard, and golden-orange flower heads indicate that two different types of cultivated _Helianthus annuus_ are portrayed here and that they were harvested at different stages of their life cycles. The sunflowers, at top left and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety known as the "Teddy Bear"—are still vibrant.[^ref21] Van Gogh painted these sunflowers directly from life during the summer of 1888, after moving from Paris to Arles the previous winter.[^ref22] We can therefore read his gold palette as metaphorically invoking the bright warm light of Provenance, which energized him and nurtured the sunflowers shown here to maturity.
+In the later-nineteenth century, many European painters embraced the genre of still life to explore the expressive capacities of paint, plants, and floral forms. Indeed, Vincent van Gogh cultivated a signature style of representing domesticated sunflowers that greatly emphasizes color .In this 1888 painting, entitled _Sunflowers_, he uses a range of intense yellows to depict an arrangement of more than a dozen blooms. The disparate hues and shapes of their radiant ocher, mustard, and golden-orange flower heads indicate that two different types of cultivated _Helianthus annuus_ are portrayed here and that they were harvested at different stages of their life cycles. The sunflowers, at top left and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety known as the "Teddy Bear"—are still vibrant.[^ref21] Van Gogh painted these sunflowers directly from life during the summer of 1888, after moving from Paris to Arles the previous winter.[^ref22] We can therefore read his gold palette as metaphorically invoking the bright warm light of Provenance, which energized him and nurtured the sunflowers shown here to maturity.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," Kor!An (Корзун Андрей), Wikimedia Commons">
 
@@ -230,11 +230,11 @@ Visual representations of domesticated _Helianthus annuus_ and _Helianthus_ cons
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3NTg0MTc4LDQwMzI4MzU1OCwtMTYwND
-Q5OTA4MywyMDU2MDYwNDgsMjA0NDQwNjU2MywtMTc4MzEwMzU0
-LC0xMDE5NzUyNjgyLC0xMDE5NzUyNjgyLC0xMzA1MTY1NTI3LC
-0yMDk4NTA4NzA5LC04NTcwNzUzNjIsLTEzOTU1NzcxOTIsMTEw
-NTg2MDY5MiwxNTUwOTYzMDQyLC0xMTYxMTAwODE5LC05NjE4MD
-YxMTcsMTg4NjMyNzY2OCwxNDUxMzU4MzM4LC0xNjY1MTUyOTAx
-LDE5NTYwNDAyMDBdfQ==
+eyJoaXN0b3J5IjpbMTQ5OTMzNjQ3NCw0OTc1ODQxNzgsNDAzMj
+gzNTU4LC0xNjA0NDk5MDgzLDIwNTYwNjA0OCwyMDQ0NDA2NTYz
+LC0xNzgzMTAzNTQsLTEwMTk3NTI2ODIsLTEwMTk3NTI2ODIsLT
+EzMDUxNjU1MjcsLTIwOTg1MDg3MDksLTg1NzA3NTM2MiwtMTM5
+NTU3NzE5MiwxMTA1ODYwNjkyLDE1NTA5NjMwNDIsLTExNjExMD
+A4MTksLTk2MTgwNjExNywxODg2MzI3NjY4LDE0NTEzNTgzMzgs
+LTE2NjUxNTI5MDFdfQ==
 -->
