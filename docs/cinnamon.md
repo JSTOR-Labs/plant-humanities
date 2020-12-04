@@ -25,19 +25,22 @@ Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri 
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1376,64,1625,119554,53,900,667">
 
-### Paul Hermann
+Paul Hermann
 
+British efforts to maintain the cinnamon monopoly, and failure
+
+Efforts of transplantation and acclimatization
 
 
 ### References
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODk0NzMyMiw3MjcxODUzMDAsODYzOT
-c1OTE0LC0yMDA5ODcxODI0LC0yMTA2OTQwNjQ2LDk3MDI5ODA4
-MiwxMTg4NjM2OTQxLC0xNTA0NTgzODc2LDEyNjEzNzcxNjcsLT
-EzMjMyNTYyODQsLTIwMTI2NzM1OTUsLTc1NzI2NDQzNyw3ODY2
-ODkwOTIsLTEyMDE1NjEyMTMsMTAzNDY4MzMyNCwtMTAxMTE4Mj
-k2NiwtMjEzNTcwMjIyMCwtNzc2NTgwNDIzLDc4NTc5MzQ0Miwx
-NzMwMjExNDU2XX0=
+eyJoaXN0b3J5IjpbNzQ3NTQ5NzQsNzI3MTg1MzAwLDg2Mzk3NT
+kxNCwtMjAwOTg3MTgyNCwtMjEwNjk0MDY0Niw5NzAyOTgwODIs
+MTE4ODYzNjk0MSwtMTUwNDU4Mzg3NiwxMjYxMzc3MTY3LC0xMz
+IzMjU2Mjg0LC0yMDEyNjczNTk1LC03NTcyNjQ0MzcsNzg2Njg5
+MDkyLC0xMjAxNTYxMjEzLDEwMzQ2ODMzMjQsLTEwMTExODI5Nj
+YsLTIxMzU3MDIyMjAsLTc3NjU4MDQyMyw3ODU3OTM0NDIsMTcz
+MDIxMTQ1Nl19
 -->
