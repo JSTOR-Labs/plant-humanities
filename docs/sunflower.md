@@ -75,7 +75,7 @@ The migration of sunflower iconography from Besler’s _Hortus Eystettensis_  to
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
 Although botanists, working since the 1940s, consulted herbals and other historical evidence to chart the movement of cultivated _Helianthus annuus_, they also revolutionized the field by using distribution maps and fossilized remains to study the origins of the plant.[^ref9] The earliest known cultivated sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
-<param ve-map prefer-geojson center="Q495448" zoom="8.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
+<param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
 <param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
@@ -228,11 +228,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTYwMzM1OCwtMTg4MzY3OTIwMywtMT
-k3MjUzMzgzMiwxNjgxMDQzNDU4LDg1ODQxMjI2MCwtMTY1ODA1
-NDM0MywtMTM2ODUwMjQ3OSwxMDU4OTEzMjQzLDExNDAxOTEyOD
-QsNDA2ODczOTcwLC0yMTE0Mjc1NDYyLC0xOTQ0MDgxNSwxNDk5
-MzM2NDc0LDQ5NzU4NDE3OCw0MDMyODM1NTgsLTE2MDQ0OTkwOD
-MsMjA1NjA2MDQ4LDIwNDQ0MDY1NjMsLTE3ODMxMDM1NCwtMTAx
-OTc1MjY4Ml19
+eyJoaXN0b3J5IjpbLTE4ODM2NzkyMDMsLTE4ODM2NzkyMDMsLT
+E5NzI1MzM4MzIsMTY4MTA0MzQ1OCw4NTg0MTIyNjAsLTE2NTgw
+NTQzNDMsLTEzNjg1MDI0NzksMTA1ODkxMzI0MywxMTQwMTkxMj
+g0LDQwNjg3Mzk3MCwtMjExNDI3NTQ2MiwtMTk0NDA4MTUsMTQ5
+OTMzNjQ3NCw0OTc1ODQxNzgsNDAzMjgzNTU4LC0xNjA0NDk5MD
+gzLDIwNTYwNjA0OCwyMDQ0NDA2NTYzLC0xNzgzMTAzNTQsLTEw
+MTk3NTI2ODJdfQ==
 -->
