@@ -77,16 +77,20 @@ Cinnamon in the Spanish (Atlantic) world
 Medicinal uses
 Ranasinghe (P.) 2013
 
+Modern distribution
+[https://www.cabi.org/isc/datasheet/13573](https://www.cabi.org/isc/datasheet/13573)
+bevat zeer veel relevante info, ook over historische introducties in andere gebieden, en wat geografische data
+
 
 ### References
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk5MDg3MjgsLTM1MzkwMDc5MSwtMT
-U4MDc1MDE3OCwtMjE0MTU2NzY4MywxMjk5ODQ4Njg5LDEzMjE2
-ODIwMiw3MjA3MTg2ODcsNzI3MTg1MzAwLDg2Mzk3NTkxNCwtMj
-AwOTg3MTgyNCwtMjEwNjk0MDY0Niw5NzAyOTgwODIsMTE4ODYz
-Njk0MSwtMTUwNDU4Mzg3NiwxMjYxMzc3MTY3LC0xMzIzMjU2Mj
-g0LC0yMDEyNjczNTk1LC03NTcyNjQ0MzcsNzg2Njg5MDkyLC0x
-MjAxNTYxMjEzXX0=
+eyJoaXN0b3J5IjpbLTE3ODA2ODY0LC0xODQ5OTA4NzI4LC0zNT
+M5MDA3OTEsLTE1ODA3NTAxNzgsLTIxNDE1Njc2ODMsMTI5OTg0
+ODY4OSwxMzIxNjgyMDIsNzIwNzE4Njg3LDcyNzE4NTMwMCw4Nj
+M5NzU5MTQsLTIwMDk4NzE4MjQsLTIxMDY5NDA2NDYsOTcwMjk4
+MDgyLDExODg2MzY5NDEsLTE1MDQ1ODM4NzYsMTI2MTM3NzE2Ny
+wtMTMyMzI1NjI4NCwtMjAxMjY3MzU5NSwtNzU3MjY0NDM3LDc4
+NjY4OTA5Ml19
 -->
