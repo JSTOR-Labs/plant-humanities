@@ -145,7 +145,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q2299244" title="wilting" aliases="wilt">
 <param ve-entity eid="Q48292" title="Arles">
 <param ve-entity eid="Q90" title="Paris">
-In the later-nineteenth century, many European painters embraced the genre of still life to explore the expressive capacities of paint, plants, and floral forms. Indeed, Vincent van Gogh cultivated a signature style of representing domesticated sunflowers that greatly emphasizes color .In this 1888 painting, entitled _Sunflowers_, he uses a range of intense yellows to depict an arrangement of more than a dozen blooms. The disparate hues and shapes of their radiant ocher, mustard, and golden-orange flower heads indicate that two different types of cultivated _Helianthus annuus_ are portrayed here and that they were harvested at different stages of their life cycles. The sunflowers, <span data-click-image-zoomto="9,1135,1311,1118">at top left</span> and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety known as the <span data-click-image-zoomto="2050,113,1311,1118">"Teddy Bear"</span>—are still vibrant.[^ref21] Van Gogh painted <span data-click-image-zoomto="-1158,0,7037,6001">these sunflowers</span> directly from life during the summer of 1888, after moving from Paris to Arles the previous winter.[^ref22] We can therefore read his gold palette as metaphorically evoking the bright warm light of southern France that nurtured his painting practice and the growth of the sunflowers shown here.
+In the later-nineteenth century, many European painters embraced the genre of still life to explore the expressive capacities of paint, plants, and floral forms. Indeed, Vincent van Gogh cultivated a signature style of representing domesticated sunflowers in which he emphasizes color and texture. In this 1888 painting, entitled _Sunflowers_, he uses a range of intense yellows to depict an arrangement of more than a dozen blooms. The disparate hues and shapes of their radiant ocher, mustard, and golden-orange flower heads indicate that two different types of cultivated _Helianthus annuus_ are portrayed here and that they were harvested at different stages of their life cycles. The sunflowers, <span data-click-image-zoomto="9,1135,1311,1118">at top left</span> and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety known as the <span data-click-image-zoomto="2050,113,1311,1118">"Teddy Bear"</span>—are still vibrant.[^ref21] Van Gogh painted <span data-click-image-zoomto="-1158,0,7037,6001">these sunflowers</span> directly from life during the summer of 1888, after moving from Paris to Arles the previous winter.[^ref22] We can therefore read his gold palette as metaphorically evoking the bright warm light of southern France that nurtured his painting practice and the growth of the sunflowers shown here.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," Kor!An (Корзун Андрей), Wikimedia Commons">
 
@@ -228,11 +228,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDU3NzA1Niw4NjcxMjkwNiwtMzI4Mz
-A1NDc3LC0xNzUxOTM1NTE4LDE3NTQwMzAzODksNzY2Mzc4NTQ2
-LC0xODgzNjc5MjAzLC0xODgzNjc5MjAzLC0xOTcyNTMzODMyLD
-E2ODEwNDM0NTgsODU4NDEyMjYwLC0xNjU4MDU0MzQzLC0xMzY4
-NTAyNDc5LDEwNTg5MTMyNDMsMTE0MDE5MTI4NCw0MDY4NzM5Nz
-AsLTIxMTQyNzU0NjIsLTE5NDQwODE1LDE0OTkzMzY0NzQsNDk3
-NTg0MTc4XX0=
+eyJoaXN0b3J5IjpbLTU4NDUyNjgyOCwtMzMwNTc3MDU2LDg2Nz
+EyOTA2LC0zMjgzMDU0NzcsLTE3NTE5MzU1MTgsMTc1NDAzMDM4
+OSw3NjYzNzg1NDYsLTE4ODM2NzkyMDMsLTE4ODM2NzkyMDMsLT
+E5NzI1MzM4MzIsMTY4MTA0MzQ1OCw4NTg0MTIyNjAsLTE2NTgw
+NTQzNDMsLTEzNjg1MDI0NzksMTA1ODkxMzI0MywxMTQwMTkxMj
+g0LDQwNjg3Mzk3MCwtMjExNDI3NTQ2MiwtMTk0NDA4MTUsMTQ5
+OTMzNjQ3NF19
 -->
