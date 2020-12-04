@@ -105,6 +105,7 @@ http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1
 
 
 Kaneelhandel vandaag de dag
+Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 12)
 http://www.worldstopexports.com/cinnamon-exporters/
 
 
@@ -115,11 +116,11 @@ http://www.worldstopexports.com/cinnamon-exporters/
 
 [^ref2]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjU2NzgyLC0zODQ1MDIwNzcsLTIxMT
-I5Nzg4MzEsNTM2NTYzNjI1LC0xOTUzMjc5MzcxLDE2MDg3ODA1
-MjIsLTYxMzQwMDA3NiwtMTkzODcwMzcxNCwxMTk4MDgyNzk2LC
-0yMDI2MjEyNzQ4LDEyNjc0Nzk2NDksLTE3ODA2ODY0LC0xODQ5
-OTA4NzI4LC0zNTM5MDA3OTEsLTE1ODA3NTAxNzgsLTIxNDE1Nj
-c2ODMsMTI5OTg0ODY4OSwxMzIxNjgyMDIsNzIwNzE4Njg3LDcy
-NzE4NTMwMF19
+eyJoaXN0b3J5IjpbLTI2ODU2NTY1NCwtMzg0NTAyMDc3LC0yMT
+EyOTc4ODMxLDUzNjU2MzYyNSwtMTk1MzI3OTM3MSwxNjA4Nzgw
+NTIyLC02MTM0MDAwNzYsLTE5Mzg3MDM3MTQsMTE5ODA4Mjc5Ni
+wtMjAyNjIxMjc0OCwxMjY3NDc5NjQ5LC0xNzgwNjg2NCwtMTg0
+OTkwODcyOCwtMzUzOTAwNzkxLC0xNTgwNzUwMTc4LC0yMTQxNT
+Y3NjgzLDEyOTk4NDg2ODksMTMyMTY4MjAyLDcyMDcxODY4Nyw3
+MjcxODUzMDBdfQ==
 -->
