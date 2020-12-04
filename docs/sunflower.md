@@ -55,7 +55,7 @@ Once introduced to Spain, the domesticated sunflower quickly migrated to parts o
 <param ve-entity eid="Q65027" title="Basilius Besler">
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-entity eid="Q252772" title="Eichstätt">
-
+<param ve-entity eid="Q980" title="Bavaria">
 <param ve-entity eid="Q5189819" title="cruciform">
 <param ve-entity eid="Q462437" title="composition">
 <param ve-entity eid="Q63540903" title="focal point">
@@ -229,11 +229,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTkzNTU1LC0xNjY5NTU0ODc0LC01OD
-Q1MjY4MjgsLTMzMDU3NzA1Niw4NjcxMjkwNiwtMzI4MzA1NDc3
-LC0xNzUxOTM1NTE4LDE3NTQwMzAzODksNzY2Mzc4NTQ2LC0xOD
-gzNjc5MjAzLC0xODgzNjc5MjAzLC0xOTcyNTMzODMyLDE2ODEw
-NDM0NTgsODU4NDEyMjYwLC0xNjU4MDU0MzQzLC0xMzY4NTAyND
-c5LDEwNTg5MTMyNDMsMTE0MDE5MTI4NCw0MDY4NzM5NzAsLTIx
-MTQyNzU0NjJdfQ==
+eyJoaXN0b3J5IjpbLTMwMzc4ODI2MywtMTY2OTU1NDg3NCwtNT
+g0NTI2ODI4LC0zMzA1NzcwNTYsODY3MTI5MDYsLTMyODMwNTQ3
+NywtMTc1MTkzNTUxOCwxNzU0MDMwMzg5LDc2NjM3ODU0NiwtMT
+g4MzY3OTIwMywtMTg4MzY3OTIwMywtMTk3MjUzMzgzMiwxNjgx
+MDQzNDU4LDg1ODQxMjI2MCwtMTY1ODA1NDM0MywtMTM2ODUwMj
+Q3OSwxMDU4OTEzMjQzLDExNDAxOTEyODQsNDA2ODczOTcwLC0y
+MTE0Mjc1NDYyXX0=
 -->
