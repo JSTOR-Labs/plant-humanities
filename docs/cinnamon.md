@@ -78,7 +78,7 @@ Cinnamon in the Spanish (Atlantic) world
 	see also http://www.theplantlist.org/tpl1.1/record/kew-2721453, because # _Cinnamomum_  _mindanaense_ is a synonym of _Cinnamomum_  _burmanni_
 
 Handel vóór de Portugezen
-Chaudhury (S.) & Morineau (M.) 1999 (art )
+Bouchon (G.) 1990
 
 Medicinal uses
 Ranasinghe (P.) 2013
@@ -97,11 +97,11 @@ http://www.worldstopexports.com/cinnamon-exporters/
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjYyMTI3NDgsMTI2NzQ3OTY0OSwtMT
-c4MDY4NjQsLTE4NDk5MDg3MjgsLTM1MzkwMDc5MSwtMTU4MDc1
-MDE3OCwtMjE0MTU2NzY4MywxMjk5ODQ4Njg5LDEzMjE2ODIwMi
-w3MjA3MTg2ODcsNzI3MTg1MzAwLDg2Mzk3NTkxNCwtMjAwOTg3
-MTgyNCwtMjEwNjk0MDY0Niw5NzAyOTgwODIsMTE4ODYzNjk0MS
-wtMTUwNDU4Mzg3NiwxMjYxMzc3MTY3LC0xMzIzMjU2Mjg0LC0y
-MDEyNjczNTk1XX0=
+eyJoaXN0b3J5IjpbMTE5ODA4Mjc5NiwtMjAyNjIxMjc0OCwxMj
+Y3NDc5NjQ5LC0xNzgwNjg2NCwtMTg0OTkwODcyOCwtMzUzOTAw
+NzkxLC0xNTgwNzUwMTc4LC0yMTQxNTY3NjgzLDEyOTk4NDg2OD
+ksMTMyMTY4MjAyLDcyMDcxODY4Nyw3MjcxODUzMDAsODYzOTc1
+OTE0LC0yMDA5ODcxODI0LC0yMTA2OTQwNjQ2LDk3MDI5ODA4Mi
+wxMTg4NjM2OTQxLC0xNTA0NTgzODc2LDEyNjEzNzcxNjcsLTEz
+MjMyNTYyODRdfQ==
 -->
