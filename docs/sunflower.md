@@ -153,7 +153,7 @@ In the later-nineteenth century, many European painters embraced the genre of st
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
 <param ve-entity eid="Q181916" title="herbarium">
-Contrary to what is most often portrayed in images and texts, particularly Van Gogh's iconic sunflower portraits, the palette of _Helianthus_ is not limited to yellow. Indeed, there are more than fifty accepted species grouped under _Helianthus_ and 
+Contrary to what is most often portrayed in visual and verbal descriptions of sunflowers, the palette of _Helianthus_ is not limited to yellow. Indeed, there are more than fifty accepted species grouped under _Helianthus_ and 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
 their color can range from gold to orange to red to dark purple and even an unexpected shade of pink. Species also vary in terms of size and the number and shape of their leaves and flower heads, as demonstrated by these herbarium sheets with dried _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke). The specimens also dispel the notion that sunflowers only have one large blossom per stock.
 <param ve-plant-specimen eid="Q171497" max="1">
@@ -229,7 +229,7 @@ Visual representations of domesticated _Helianthus annuus_ and _Helianthus_ cons
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDg4MjExMSwxNDk5MzM2NDc0LDQ5Nz
+eyJoaXN0b3J5IjpbLTQ5MjI4NjY3NSwxNDk5MzM2NDc0LDQ5Nz
 U4NDE3OCw0MDMyODM1NTgsLTE2MDQ0OTkwODMsMjA1NjA2MDQ4
 LDIwNDQ0MDY1NjMsLTE3ODMxMDM1NCwtMTAxOTc1MjY4MiwtMT
 AxOTc1MjY4MiwtMTMwNTE2NTUyNywtMjA5ODUwODcwOSwtODU3
