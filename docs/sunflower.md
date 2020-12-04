@@ -145,7 +145,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q2299244" title="wilting" aliases="wilt">
 <param ve-entity eid="Q48292" title="Arles">
 <param ve-entity eid="Q90" title="Paris">
-In the later-nineteenth century, many European painters embraced the genre of still life to explore the expressive capacities of paint, plants, and floral forms. Indeed, Vincent van Gogh cultivated a signature style of representing domesticated sunflowers that greatly emphasizes color .In this 1888 painting, entitled _Sunflowers_, he uses a range of intense yellows to depict an arrangement of more than a dozen blooms. The disparate hues and shapes of their radiant ocher, mustard, and golden-orange flower heads indicate that two different types of cultivated _Helianthus annuus_ are portrayed here and that they were harvested at different stages of their life cycles. The sunflowers, <span data-click-image-zoomto="9,1135,1311,1118">at top left</span> and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety known as the <span data-click-image-zoomto="2050,113,1311,1118">"Teddy Bear"</span>—are still vibrant.[^ref21] Van Gogh painted these sunflowers directly from life during the summer of 1888, after moving from Paris to Arles the previous winter.[^ref22] We can therefore read his gold palette as metaphorically evoking the bright warm light of southern France that nurtured his painting practice and the growth of the sunflowers shown here.
+In the later-nineteenth century, many European painters embraced the genre of still life to explore the expressive capacities of paint, plants, and floral forms. Indeed, Vincent van Gogh cultivated a signature style of representing domesticated sunflowers that greatly emphasizes color .In this 1888 painting, entitled _Sunflowers_, he uses a range of intense yellows to depict an arrangement of more than a dozen blooms. The disparate hues and shapes of their radiant ocher, mustard, and golden-orange flower heads indicate that two different types of cultivated _Helianthus annuus_ are portrayed here and that they were harvested at different stages of their life cycles. The sunflowers, <span data-click-image-zoomto="9,1135,1311,1118">at top left</span> and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety known as the <span data-click-image-zoomto="2050,113,1311,1118">"Teddy Bear"</span>—are still vibrant.[^ref21] Van Gogh painted <span data-click-image-zoomto="2097,480,1798,1533">these sunflowers</span> directly from life during the summer of 1888, after moving from Paris to Arles the previous winter.[^ref22] We can therefore read his gold palette as metaphorically evoking the bright warm light of southern France that nurtured his painting practice and the growth of the sunflowers shown here.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," Kor!An (Корзун Андрей), Wikimedia Commons">
 
@@ -174,7 +174,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q1334780" title="environmental degradation">
 <param ve-entity eid="Q219416" title="sustainability" aliases="sustainable">
 <param ve-entity eid="Q2336124" title="defamiliarization">
-Visual representations of sunflowers have shaped and been shaped by human interactions with the plant world. By analyzing that imagery, we can become more attuned to the significance of human-plant encounters and our own engagements with plants. That kind of attentive regard for plants is essential if we are to enter into sustainable relationships with them and prevent further environmental degradation. This 1887 painting by Van Gogh, entitled _Sunflowers_, reminds us just what is at stake. The _memento mori_  shows two cut flower heads that have gone to seed—<span data-click-image-zoomto="819,696,1798,1533">a dried disk with exposed kernels</span> nestles up against span data-click-image-zoomto="2097,480,1798,1533">a desiccated yellow husk</span>, both rest on a somber though <span data-click-image-zoomto="151,-153,3595,3065">tactile blue ground</span>. The artist’s defamiliarization of sunflower iconography unsettles our tendency to assume that plants are infinitely replenishable. For that reason, we can read the floral remains as a mournful reminder of our withered or exploitative relationship to nature, although it would be more productive to interpret them in a positive light, as an invitation to cultivate connections to plants that attend to their intrinsic values as living organisms.
+Visual representations of sunflowers have shaped and been shaped by human interactions with the plant world. By analyzing that imagery, we can become more attuned to the significance of human-plant encounters and our own engagements with plants. That kind of attentive regard for plants is essential if we are to enter into sustainable relationships with them and prevent further environmental degradation. This 1887 painting by Van Gogh, entitled _Sunflowers_, reminds us just what is at stake. The _memento mori_  shows two cut flower heads that have gone to seed—<span data-click-image-zoomto="819,696,1798,1533">a dried disk with exposed kernels</span> nestles up against <span data-click-image-zoomto="2097,480,1798,1533">a desiccated yellow husk</span>, both rest on a somber though <span data-click-image-zoomto="151,-153,3595,3065">tactile blue ground</span>. The artist’s defamiliarization of sunflower iconography unsettles our tendency to assume that plants are infinitely replenishable. For that reason, we can read the floral remains as a mournful reminder of our withered or exploitative relationship to nature, although it would be more productive to interpret them in a positive light, as an invitation to cultivate connections to plants that attend to their intrinsic values as living organisms.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -228,11 +228,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MTI5MDYsLTMyODMwNTQ3NywtMTc1MT
-kzNTUxOCwxNzU0MDMwMzg5LDc2NjM3ODU0NiwtMTg4MzY3OTIw
-MywtMTg4MzY3OTIwMywtMTk3MjUzMzgzMiwxNjgxMDQzNDU4LD
-g1ODQxMjI2MCwtMTY1ODA1NDM0MywtMTM2ODUwMjQ3OSwxMDU4
-OTEzMjQzLDExNDAxOTEyODQsNDA2ODczOTcwLC0yMTE0Mjc1ND
-YyLC0xOTQ0MDgxNSwxNDk5MzM2NDc0LDQ5NzU4NDE3OCw0MDMy
-ODM1NThdfQ==
+eyJoaXN0b3J5IjpbLTkxNDIyMjQxNyw4NjcxMjkwNiwtMzI4Mz
+A1NDc3LC0xNzUxOTM1NTE4LDE3NTQwMzAzODksNzY2Mzc4NTQ2
+LC0xODgzNjc5MjAzLC0xODgzNjc5MjAzLC0xOTcyNTMzODMyLD
+E2ODEwNDM0NTgsODU4NDEyMjYwLC0xNjU4MDU0MzQzLC0xMzY4
+NTAyNDc5LDEwNTg5MTMyNDMsMTE0MDE5MTI4NCw0MDY4NzM5Nz
+AsLTIxMTQyNzU0NjIsLTE5NDQwODE1LDE0OTkzMzY0NzQsNDk3
+NTg0MTc4XX0=
 -->
