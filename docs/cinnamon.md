@@ -94,6 +94,7 @@ Biedermann (Z.) 2009
 
 Medicinal uses
 Ranasinghe (P.) 2013
+Oketch‐Rabah (H.A.), Marles (R.J.) & Brinckmann (J.A.) 2018
 
 Modern distribution
 CABI:
@@ -113,11 +114,11 @@ http://www.worldstopexports.com/cinnamon-exporters/
 
 [^ref2]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0Njc2ODk1LC0yMTEyOTc4ODMxLDUzNj
-U2MzYyNSwtMTk1MzI3OTM3MSwxNjA4NzgwNTIyLC02MTM0MDAw
-NzYsLTE5Mzg3MDM3MTQsMTE5ODA4Mjc5NiwtMjAyNjIxMjc0OC
-wxMjY3NDc5NjQ5LC0xNzgwNjg2NCwtMTg0OTkwODcyOCwtMzUz
-OTAwNzkxLC0xNTgwNzUwMTc4LC0yMTQxNTY3NjgzLDEyOTk4ND
-g2ODksMTMyMTY4MjAyLDcyMDcxODY4Nyw3MjcxODUzMDAsODYz
-OTc1OTE0XX0=
+eyJoaXN0b3J5IjpbLTczMTE5MDc1NiwtMjExMjk3ODgzMSw1Mz
+Y1NjM2MjUsLTE5NTMyNzkzNzEsMTYwODc4MDUyMiwtNjEzNDAw
+MDc2LC0xOTM4NzAzNzE0LDExOTgwODI3OTYsLTIwMjYyMTI3ND
+gsMTI2NzQ3OTY0OSwtMTc4MDY4NjQsLTE4NDk5MDg3MjgsLTM1
+MzkwMDc5MSwtMTU4MDc1MDE3OCwtMjE0MTU2NzY4MywxMjk5OD
+Q4Njg5LDEzMjE2ODIwMiw3MjA3MTg2ODcsNzI3MTg1MzAwLDg2
+Mzk3NTkxNF19
 -->
