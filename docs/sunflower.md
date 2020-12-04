@@ -176,7 +176,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q52105" title="habitat" aliases="habitats">
 <param ve-entity eid="Q11084414" title="modernity">
 <param ve-entity eid="Q2638759" title="Zundert">
-Sunflower imagery produced by artists in Europe and North America has shaped and been shaped by knowledges, myths, and meanings. By shining a light on some understudied aspects of human-plant relationships that such images evidence, we become more attuned to significance of changes in sunflower iconography and more attentive to our encounters with plants. In the later nineteenth century, a period of rapid industrialization and urbanization in Europe, city dwellers participated in new modes of urban labor, leisure, transportation, and commerce that did not often include direct encounters with plants in their natural habitats. That separation from nature profoundly impacted those who migrated to cities from rural areas, such as Vincent Van Gogh, providing a poignant context for interpreting this still life painting by him.The artist produced _Sunflowers_ while living in a Parisian suburb, in 1887, far from the rural environment bordering his native Zundert. In this _memento mori_, he portrays two flowers that have gone to seed against a somber blue background. The flowers' barren disc and desiccated yellow head serve as mournful reminders of their former beauty, though we may also read them as metaphors for the withering of human connections with plants due to modernity.
+Sunflower imagery produced by artists in Europe has shaped and been shaped by knowledges, myths, and meanings related to _Helianthus annus_ and _Helianthus_ more broadly. By shining a light on such images and the ways they engage with human-plant relationships, we grow more attuned to the historical significance of sunflower iconography and our own encounters with plants. That mode of attentive regard for nature is critical if we are to mend relationships with plants and respond to our current ecological crisis. Just what is at stake is poignantly evoked in this _memento mori_ by Van Gogh. In it, he portrays two flowers that have gone to seed against a somber blue background. The flowers’ barren disk and desiccated yellow head serve as mournful reminders of their former beauty. The artist produced _Sunflowers_ in 1887, while living in a Parisian suburb far from the rural environment bordering his native Zundert. though we may also read them as metaphors for the withering of human connections with plants due to modernity.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -230,11 +230,11 @@ Sunflower imagery produced by artists in Europe and North America has shaped and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQyNzU0NjIsLTE5NDQwODE1LDE0OT
-kzMzY0NzQsNDk3NTg0MTc4LDQwMzI4MzU1OCwtMTYwNDQ5OTA4
-MywyMDU2MDYwNDgsMjA0NDQwNjU2MywtMTc4MzEwMzU0LC0xMD
-E5NzUyNjgyLC0xMDE5NzUyNjgyLC0xMzA1MTY1NTI3LC0yMDk4
-NTA4NzA5LC04NTcwNzUzNjIsLTEzOTU1NzcxOTIsMTEwNTg2MD
-Y5MiwxNTUwOTYzMDQyLC0xMTYxMTAwODE5LC05NjE4MDYxMTcs
-MTg4NjMyNzY2OF19
+eyJoaXN0b3J5IjpbNDA2ODczOTcwLC0yMTE0Mjc1NDYyLC0xOT
+Q0MDgxNSwxNDk5MzM2NDc0LDQ5NzU4NDE3OCw0MDMyODM1NTgs
+LTE2MDQ0OTkwODMsMjA1NjA2MDQ4LDIwNDQ0MDY1NjMsLTE3OD
+MxMDM1NCwtMTAxOTc1MjY4MiwtMTAxOTc1MjY4MiwtMTMwNTE2
+NTUyNywtMjA5ODUwODcwOSwtODU3MDc1MzYyLC0xMzk1NTc3MT
+kyLDExMDU4NjA2OTIsMTU1MDk2MzA0MiwtMTE2MTEwMDgxOSwt
+OTYxODA2MTE3XX0=
 -->
