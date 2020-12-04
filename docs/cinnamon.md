@@ -73,6 +73,8 @@ Cinnamon in the Spanish (Atlantic) world
 	Freedberg (D.) 2002 (zou bruggetje kunnen zijn vanuit Orta)
 	- Elcano's coat of arms after the Magelhaes expedition
 	Guerra (F.) 1964
+	- Cinnamon production of the Philippines
+	sMallari (F.) 1974
 	
 Medicinal uses
 Ranasinghe (P.) 2013
@@ -91,11 +93,11 @@ http://www.worldstopexports.com/cinnamon-exporters/
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDMzNTE1OTEsLTE3ODA2ODY0LC0xOD
-Q5OTA4NzI4LC0zNTM5MDA3OTEsLTE1ODA3NTAxNzgsLTIxNDE1
-Njc2ODMsMTI5OTg0ODY4OSwxMzIxNjgyMDIsNzIwNzE4Njg3LD
-cyNzE4NTMwMCw4NjM5NzU5MTQsLTIwMDk4NzE4MjQsLTIxMDY5
-NDA2NDYsOTcwMjk4MDgyLDExODg2MzY5NDEsLTE1MDQ1ODM4Nz
-YsMTI2MTM3NzE2NywtMTMyMzI1NjI4NCwtMjAxMjY3MzU5NSwt
-NzU3MjY0NDM3XX0=
+eyJoaXN0b3J5IjpbLTE3MTcwMjM4MCwtMTc4MDY4NjQsLTE4ND
+k5MDg3MjgsLTM1MzkwMDc5MSwtMTU4MDc1MDE3OCwtMjE0MTU2
+NzY4MywxMjk5ODQ4Njg5LDEzMjE2ODIwMiw3MjA3MTg2ODcsNz
+I3MTg1MzAwLDg2Mzk3NTkxNCwtMjAwOTg3MTgyNCwtMjEwNjk0
+MDY0Niw5NzAyOTgwODIsMTE4ODYzNjk0MSwtMTUwNDU4Mzg3Ni
+wxMjYxMzc3MTY3LC0xMzIzMjU2Mjg0LC0yMDEyNjczNTk1LC03
+NTcyNjQ0MzddfQ==
 -->
