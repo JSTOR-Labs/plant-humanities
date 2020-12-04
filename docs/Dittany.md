@@ -52,8 +52,8 @@ By the early modern period, [dittany was often described in herbals in three for
 It is important to note that ancient, medieval, and early modern herbals were by and large written by men and were the product of a learned textual tradition rather than lay or common knowledge.[^2] As such, the simple appearance of dittany as an herb for women’s health in herbals is not sufficient evidence to suggest that women knew the plant’s medicinal virtues and used it accordingly. However, while the initial production of early modern herbals was spurred by learned medical humanist seeking to elucidating classical scholarship to produce more useful guides for identifying medicinal plants, the popularity and proliferation of herbals increased substantially over the course of the sixteenth and seventeenth centuries. This indicates that herbals were consumed by an increasingly larger audience. Furthermore, many herbals produced in the late 16th century, such as [Castore Durante’s 1585 Roman herbal](https://biodiversitylibrary.org/page/49828671), were simplified versions of more complicated Latin herbals, written in the vernacular and, thus, far more accessible to a wider, albeit literate, audience.
 <param ve-image curtain
        description="I discorsi by M. Pietro Andrea Matthioli"
-       attribution="Via BHL"
-       url="https://www.biodiversitylibrary.org/pageimage/51721921">
+       attribution=""
+       url="https://media.proquest.com/media/hms/FULL/316/t2sZ6?pg=242&_a=ChgyMDIwMTIwNDE0NDAxNDkwMTo1NzIyMjASBjEwMzgzOBoKT05FX1NFQVJDSCIPMjA2LjI1My4yMDcuMjM1KgcyMDQ2NDUyMgoyMDkwMzY1MDc1Og9TaW5nbGVQYWdlSW1hZ2VCATBSBk9ubGluZVoCUEdiBEZVTExqCjE1NDQvMDEvMDFyCjE1NDQvMTIvMzF6AIIBM1AtMTAwOTI3MS0xMTMxMS1QRVJQRVRVQUwtMTAwMDAzNTkvMTAwMDAyOTUtNTUxNjk4OJIBBk9ubGluZcoBUk1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwLjE1OyBydjo4MS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzgxLjDSAQVCb29rc5oCB1ByZVBhaWSqAiFPUzpFTVMtUGFnZUltYWdlLWdldEltYWdlU291cmNlLTPKAgRCb29r4gIA8gIA%2BgIBToIDA1dlYooDHENJRDoyMDIwMTIwNDE0NDAxNDg5ODoyNjczNzE%3D&_s=A%2BKcaBk6AHszPKZPIgBwjjVCk4M%3D">
 <param ve-image
        description="Herbario nuouo, Castore Durante"
        attribution="Via BHL"
