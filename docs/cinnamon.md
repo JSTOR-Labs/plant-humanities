@@ -29,7 +29,7 @@ Biblical connotations
 	Duke (J.A.) 2008
 
 Orta
-	- Eigen ervaring va
+	- Eigen ervaring van planten die uit de oudheid bekend waren
 	Fontes da Costa (P.) 2015
 
 Dutch monopoly in Ceylon
@@ -74,11 +74,11 @@ Ranasinghe (P.) 2013
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5Nzk0NTMyLDEyOTk4NDg2ODksMTMyMT
-Y4MjAyLDcyMDcxODY4Nyw3MjcxODUzMDAsODYzOTc1OTE0LC0y
-MDA5ODcxODI0LC0yMTA2OTQwNjQ2LDk3MDI5ODA4MiwxMTg4Nj
-M2OTQxLC0xNTA0NTgzODc2LDEyNjEzNzcxNjcsLTEzMjMyNTYy
-ODQsLTIwMTI2NzM1OTUsLTc1NzI2NDQzNyw3ODY2ODkwOTIsLT
-EyMDE1NjEyMTMsMTAzNDY4MzMyNCwtMTAxMTE4Mjk2NiwtMjEz
-NTcwMjIyMF19
+eyJoaXN0b3J5IjpbLTIxNDE1Njc2ODMsMTI5OTg0ODY4OSwxMz
+IxNjgyMDIsNzIwNzE4Njg3LDcyNzE4NTMwMCw4NjM5NzU5MTQs
+LTIwMDk4NzE4MjQsLTIxMDY5NDA2NDYsOTcwMjk4MDgyLDExOD
+g2MzY5NDEsLTE1MDQ1ODM4NzYsMTI2MTM3NzE2NywtMTMyMzI1
+NjI4NCwtMjAxMjY3MzU5NSwtNzU3MjY0NDM3LDc4NjY4OTA5Mi
+wtMTIwMTU2MTIxMywxMDM0NjgzMzI0LC0xMDExMTgyOTY2LC0y
+MTM1NzAyMjIwXX0=
 -->
