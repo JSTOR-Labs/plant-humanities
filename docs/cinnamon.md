@@ -104,15 +104,15 @@ http://www.worldstopexports.com/cinnamon-exporters/
 #Salagama  (Q3469487), also known als saliya or chaliya
 
 ### References
-[^ref1]: Haw, S.G., "Cinnamon, Cassia and Ancient Trade", _Journal of Ancient History and Archaeology, 4:1 (2017) 5-18
+[^ref1]: Stephen G. Haw, "Cinnamon, Cassia and Ancient Trade", _Journal of Ancient History and Archaeology_, 4:1 (2017) 5-18
 
 [^ref2]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwNjM3MDEyLDE2MDg3ODA1MjIsLTYxMz
-QwMDA3NiwtMTkzODcwMzcxNCwxMTk4MDgyNzk2LC0yMDI2MjEy
-NzQ4LDEyNjc0Nzk2NDksLTE3ODA2ODY0LC0xODQ5OTA4NzI4LC
-0zNTM5MDA3OTEsLTE1ODA3NTAxNzgsLTIxNDE1Njc2ODMsMTI5
-OTg0ODY4OSwxMzIxNjgyMDIsNzIwNzE4Njg3LDcyNzE4NTMwMC
-w4NjM5NzU5MTQsLTIwMDk4NzE4MjQsLTIxMDY5NDA2NDYsOTcw
-Mjk4MDgyXX0=
+eyJoaXN0b3J5IjpbLTE5NTMyNzkzNzEsMTYwODc4MDUyMiwtNj
+EzNDAwMDc2LC0xOTM4NzAzNzE0LDExOTgwODI3OTYsLTIwMjYy
+MTI3NDgsMTI2NzQ3OTY0OSwtMTc4MDY4NjQsLTE4NDk5MDg3Mj
+gsLTM1MzkwMDc5MSwtMTU4MDc1MDE3OCwtMjE0MTU2NzY4Mywx
+Mjk5ODQ4Njg5LDEzMjE2ODIwMiw3MjA3MTg2ODcsNzI3MTg1Mz
+AwLDg2Mzk3NTkxNCwtMjAwOTg3MTgyNCwtMjEwNjk0MDY0Niw5
+NzAyOTgwODJdfQ==
 -->
