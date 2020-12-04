@@ -108,6 +108,8 @@ Kaneelhandel vandaag de dag
 Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 12)
 http://www.worldstopexports.com/cinnamon-exporters/
 
+Future of cinnamon
+Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 14): lezen!
 
 #Salagama  (Q3469487), also known als saliya or chaliya
 
@@ -116,7 +118,7 @@ http://www.worldstopexports.com/cinnamon-exporters/
 
 [^ref2]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODU2NTY1NCwtMzg0NTAyMDc3LC0yMT
+eyJoaXN0b3J5IjpbMTI4OTYzNTY4MCwtMzg0NTAyMDc3LC0yMT
 EyOTc4ODMxLDUzNjU2MzYyNSwtMTk1MzI3OTM3MSwxNjA4Nzgw
 NTIyLC02MTM0MDAwNzYsLTE5Mzg3MDM3MTQsMTE5ODA4Mjc5Ni
 wtMjAyNjIxMjc0OCwxMjY3NDc5NjQ5LC0xNzgwNjg2NCwtMTg0
