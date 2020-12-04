@@ -2,7 +2,7 @@
 
 <param ve-config
 	   title="Dittany: Women’s Herbs and Reproductive Control"
-	   source-image="https://ia800806.us.archive.org/BookReader/BookReaderImages.php?id=floragraecasive6sibt&itemPath=%2F7%2Fitems%2Ffloragraecasive6sibt&server=ia800806.us.archive.org&page=n200_w925"
+	   source-image="https://upload.wikimedia.org/wikipedia/commons/9/9a/Origanum_dictamnus.jpg"
 	   layout="vtl"
 	   num-maps="13"
 	   num-images="11"
