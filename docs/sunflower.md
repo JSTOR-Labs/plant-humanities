@@ -38,6 +38,8 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 ### Plant Mobility and Early Printed Books
 
 <param ve-entity eid="Q29" title="Spain">
+<param ve-entity eid="Q49" title="North America">
+<param ve-entity eid="Q46" title="Europe">
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
 <param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
 In the sixteenth century, Europeans were eager to collect plants from the Americas. They highly valued both living organisms and plant materials for their medicinal and culinary properties, while also prizing them as foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish were likely the first Europeans to transport the domesticated sunflower from North America to Spain, though questions persist about who collected such live plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” we can use verbal and visual descriptions of the plant in early printed books to chart its introduction to Spain and other parts of Europe. It is worth noting that such books are not always reliable and should be consulted alongside correspondence, inventories, auction records, herbarium specimens, and other forms of evidence.
@@ -228,11 +230,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDUyNjgyOCwtMzMwNTc3MDU2LDg2Nz
-EyOTA2LC0zMjgzMDU0NzcsLTE3NTE5MzU1MTgsMTc1NDAzMDM4
-OSw3NjYzNzg1NDYsLTE4ODM2NzkyMDMsLTE4ODM2NzkyMDMsLT
-E5NzI1MzM4MzIsMTY4MTA0MzQ1OCw4NTg0MTIyNjAsLTE2NTgw
-NTQzNDMsLTEzNjg1MDI0NzksMTA1ODkxMzI0MywxMTQwMTkxMj
-g0LDQwNjg3Mzk3MCwtMjExNDI3NTQ2MiwtMTk0NDA4MTUsMTQ5
-OTMzNjQ3NF19
+eyJoaXN0b3J5IjpbMjEwNjY5NTYyOCwtNTg0NTI2ODI4LC0zMz
+A1NzcwNTYsODY3MTI5MDYsLTMyODMwNTQ3NywtMTc1MTkzNTUx
+OCwxNzU0MDMwMzg5LDc2NjM3ODU0NiwtMTg4MzY3OTIwMywtMT
+g4MzY3OTIwMywtMTk3MjUzMzgzMiwxNjgxMDQzNDU4LDg1ODQx
+MjI2MCwtMTY1ODA1NDM0MywtMTM2ODUwMjQ3OSwxMDU4OTEzMj
+QzLDExNDAxOTEyODQsNDA2ODczOTcwLC0yMTE0Mjc1NDYyLC0x
+OTQ0MDgxNV19
 -->
