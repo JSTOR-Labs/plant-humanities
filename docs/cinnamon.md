@@ -38,6 +38,8 @@ Dutch monopoly in Ceylon
 Paul Hermann
 	Andel (T.) & Barth (N.) 2018
 
+Global availability
+
 British efforts to maintain the cinnamon monopoly, and failure
 
 Efforts of transplantation and acclimatization
@@ -63,11 +65,11 @@ Bleichmar (D.) 2012.pdf
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwNzE4Njg3LDcyNzE4NTMwMCw4NjM5Nz
-U5MTQsLTIwMDk4NzE4MjQsLTIxMDY5NDA2NDYsOTcwMjk4MDgy
-LDExODg2MzY5NDEsLTE1MDQ1ODM4NzYsMTI2MTM3NzE2NywtMT
-MyMzI1NjI4NCwtMjAxMjY3MzU5NSwtNzU3MjY0NDM3LDc4NjY4
-OTA5MiwtMTIwMTU2MTIxMywxMDM0NjgzMzI0LC0xMDExMTgyOT
-Y2LC0yMTM1NzAyMjIwLC03NzY1ODA0MjMsNzg1NzkzNDQyLDE3
-MzAyMTE0NTZdfQ==
+eyJoaXN0b3J5IjpbLTUzNjg0NTQzMyw3MjA3MTg2ODcsNzI3MT
+g1MzAwLDg2Mzk3NTkxNCwtMjAwOTg3MTgyNCwtMjEwNjk0MDY0
+Niw5NzAyOTgwODIsMTE4ODYzNjk0MSwtMTUwNDU4Mzg3NiwxMj
+YxMzc3MTY3LC0xMzIzMjU2Mjg0LC0yMDEyNjczNTk1LC03NTcy
+NjQ0MzcsNzg2Njg5MDkyLC0xMjAxNTYxMjEzLDEwMzQ2ODMzMj
+QsLTEwMTExODI5NjYsLTIxMzU3MDIyMjAsLTc3NjU4MDQyMyw3
+ODU3OTM0NDJdfQ==
 -->
