@@ -36,7 +36,7 @@ Orta
 	- Eigen ervaring van planten die uit de oudheid bekend waren
 	Orta (G.) 1913 (let op: digib ubi dusseldorf heeft een IIIF manifest)
 	Fontes da Costa (P.) 2015 (art Ornelas e Castro)
-	- 	afbeeldingen in Orta en Clusius
+	- 	afbeeldingen in Orta en Clusius (mooi linkjes naar BHL zowel Orta (G.) 1567 als Clusius (C.) 1605)
 	Fontes da Costa (P.) 2015 (art Ornelas e Castro)
 
 Dutch monopoly in Ceylon
@@ -107,7 +107,7 @@ http://www.worldstopexports.com/cinnamon-exporters/
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODEwMzc1NiwxNjA4NzgwNTIyLC02MT
+eyJoaXN0b3J5IjpbLTEyMTAxOTkzNywxNjA4NzgwNTIyLC02MT
 M0MDAwNzYsLTE5Mzg3MDM3MTQsMTE5ODA4Mjc5NiwtMjAyNjIx
 Mjc0OCwxMjY3NDc5NjQ5LC0xNzgwNjg2NCwtMTg0OTkwODcyOC
 wtMzUzOTAwNzkxLC0xNTgwNzUwMTc4LC0yMTQxNTY3NjgzLDEy
