@@ -113,16 +113,18 @@ Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 14): lezen!
 
 #Salagama  (Q3469487), also known als saliya or chaliya
 
+
+
 ### References
 [^ref1]: Stephen G. Haw, "Cinnamon, Cassia and Ancient Trade", _Journal of Ancient History and Archaeology_, 4:1 (2017) 5-18
 
 [^ref2]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTYzNTY4MCwtMzg0NTAyMDc3LC0yMT
-EyOTc4ODMxLDUzNjU2MzYyNSwtMTk1MzI3OTM3MSwxNjA4Nzgw
-NTIyLC02MTM0MDAwNzYsLTE5Mzg3MDM3MTQsMTE5ODA4Mjc5Ni
-wtMjAyNjIxMjc0OCwxMjY3NDc5NjQ5LC0xNzgwNjg2NCwtMTg0
-OTkwODcyOCwtMzUzOTAwNzkxLC0xNTgwNzUwMTc4LC0yMTQxNT
-Y3NjgzLDEyOTk4NDg2ODksMTMyMTY4MjAyLDcyMDcxODY4Nyw3
-MjcxODUzMDBdfQ==
+eyJoaXN0b3J5IjpbMTYxNTAyMTU3MiwxMjg5NjM1NjgwLC0zOD
+Q1MDIwNzcsLTIxMTI5Nzg4MzEsNTM2NTYzNjI1LC0xOTUzMjc5
+MzcxLDE2MDg3ODA1MjIsLTYxMzQwMDA3NiwtMTkzODcwMzcxNC
+wxMTk4MDgyNzk2LC0yMDI2MjEyNzQ4LDEyNjc0Nzk2NDksLTE3
+ODA2ODY0LC0xODQ5OTA4NzI4LC0zNTM5MDA3OTEsLTE1ODA3NT
+AxNzgsLTIxNDE1Njc2ODMsMTI5OTg0ODY4OSwxMzIxNjgyMDIs
+NzIwNzE4Njg3XX0=
 -->
