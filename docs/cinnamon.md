@@ -23,7 +23,7 @@ Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri 
 <param ve-image
 	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding a branch and a bundle of cinnamon sticks, and standing next to a camel. Note that this coin was found on the opposite side of the Roman empire, in Yorkshire, Britain."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
-	region="1310,113,1691,1099">
+	region="1414,152,1586,1031">
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -75,7 +75,7 @@ Ranasinghe (P.) 2013
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2MTcwNTM0LC0xNTgwNzUwMTc4LC0yMT
+eyJoaXN0b3J5IjpbNDM5MDk3OTUxLC0xNTgwNzUwMTc4LC0yMT
 QxNTY3NjgzLDEyOTk4NDg2ODksMTMyMTY4MjAyLDcyMDcxODY4
 Nyw3MjcxODUzMDAsODYzOTc1OTE0LC0yMDA5ODcxODI0LC0yMT
 A2OTQwNjQ2LDk3MDI5ODA4MiwxMTg4NjM2OTQxLC0xNTA0NTgz
