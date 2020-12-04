@@ -67,7 +67,7 @@ Cinnamon in the Spanish (Atlantic) world
 	- Chocolate drink in Spanish Atlantic world
 	Aram (B.) & Yun-Casalilla (B.) 2014 (art Fattacciu)
 	- Spanish efforts to find cinnamon in the New World
-	Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar)
+	Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
 	Bleichmar (D.) 2012 (Mutis)
 	Crawford (M.J.) 2016a.pdf (Mutis)
 	Delbourgo (J.) & Dew (N.) 2008a.pdf (art Safier over Pizzarro en Orellana, later Jussieu)
@@ -99,11 +99,11 @@ http://www.worldstopexports.com/cinnamon-exporters/
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODI3OTI3MiwxMTk4MDgyNzk2LC0yMD
-I2MjEyNzQ4LDEyNjc0Nzk2NDksLTE3ODA2ODY0LC0xODQ5OTA4
-NzI4LC0zNTM5MDA3OTEsLTE1ODA3NTAxNzgsLTIxNDE1Njc2OD
-MsMTI5OTg0ODY4OSwxMzIxNjgyMDIsNzIwNzE4Njg3LDcyNzE4
-NTMwMCw4NjM5NzU5MTQsLTIwMDk4NzE4MjQsLTIxMDY5NDA2ND
-YsOTcwMjk4MDgyLDExODg2MzY5NDEsLTE1MDQ1ODM4NzYsMTI2
-MTM3NzE2N119
+eyJoaXN0b3J5IjpbLTE5Mzg3MDM3MTQsMTE5ODA4Mjc5NiwtMj
+AyNjIxMjc0OCwxMjY3NDc5NjQ5LC0xNzgwNjg2NCwtMTg0OTkw
+ODcyOCwtMzUzOTAwNzkxLC0xNTgwNzUwMTc4LC0yMTQxNTY3Nj
+gzLDEyOTk4NDg2ODksMTMyMTY4MjAyLDcyMDcxODY4Nyw3Mjcx
+ODUzMDAsODYzOTc1OTE0LC0yMDA5ODcxODI0LC0yMTA2OTQwNj
+Q2LDk3MDI5ODA4MiwxMTg4NjM2OTQxLC0xNTA0NTgzODc2LDEy
+NjEzNzcxNjddfQ==
 -->
