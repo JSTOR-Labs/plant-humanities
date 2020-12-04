@@ -46,8 +46,9 @@ Dutch monopoly in Ceylon
 	Heniger (J.) 1986
 	Cook (H.J.) 2007
 
-Paul Hermann
+Paul Hermann / Linnaeus?
 	Andel (T.) & Barth (N.) 2018
+	Jarvis (C.E.) 2007.pdf
 
 Global availability
 	- in Russia
@@ -81,11 +82,11 @@ Ranasinghe (P.) 2013
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODM2NzAxMCwtMzUzOTAwNzkxLC0xNT
-gwNzUwMTc4LC0yMTQxNTY3NjgzLDEyOTk4NDg2ODksMTMyMTY4
-MjAyLDcyMDcxODY4Nyw3MjcxODUzMDAsODYzOTc1OTE0LC0yMD
-A5ODcxODI0LC0yMTA2OTQwNjQ2LDk3MDI5ODA4MiwxMTg4NjM2
-OTQxLC0xNTA0NTgzODc2LDEyNjEzNzcxNjcsLTEzMjMyNTYyOD
-QsLTIwMTI2NzM1OTUsLTc1NzI2NDQzNyw3ODY2ODkwOTIsLTEy
-MDE1NjEyMTNdfQ==
+eyJoaXN0b3J5IjpbLTE4NDk5MDg3MjgsLTM1MzkwMDc5MSwtMT
+U4MDc1MDE3OCwtMjE0MTU2NzY4MywxMjk5ODQ4Njg5LDEzMjE2
+ODIwMiw3MjA3MTg2ODcsNzI3MTg1MzAwLDg2Mzk3NTkxNCwtMj
+AwOTg3MTgyNCwtMjEwNjk0MDY0Niw5NzAyOTgwODIsMTE4ODYz
+Njk0MSwtMTUwNDU4Mzg3NiwxMjYxMzc3MTY3LC0xMzIzMjU2Mj
+g0LC0yMDEyNjczNTk1LC03NTcyNjQ0MzcsNzg2Njg5MDkyLC0x
+MjAxNTYxMjEzXX0=
 -->
