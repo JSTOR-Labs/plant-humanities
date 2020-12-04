@@ -71,6 +71,7 @@ Cinnamon in the Spanish (Atlantic) world
 	Bleichmar (D.) 2012 (Mutis)
 	Crawford (M.J.) 2016a.pdf (Mutis)
 	Delbourgo (J.) & Dew (N.) 2008a.pdf (art Safier over Pizzarro en Orellana, later Jussieu)
+	Burdick (C.E.) 2014
 	- Publishing cinnamon knowledge (Hernández expedition)
 	Freedberg (D.) 2002 (zou bruggetje kunnen zijn vanuit Orta)
 	- Elcano's coat of arms after the Magelhaes expedition
@@ -106,11 +107,11 @@ http://www.worldstopexports.com/cinnamon-exporters/
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM4MjUzNzgsMTYwODc4MDUyMiwtNj
-EzNDAwMDc2LC0xOTM4NzAzNzE0LDExOTgwODI3OTYsLTIwMjYy
-MTI3NDgsMTI2NzQ3OTY0OSwtMTc4MDY4NjQsLTE4NDk5MDg3Mj
-gsLTM1MzkwMDc5MSwtMTU4MDc1MDE3OCwtMjE0MTU2NzY4Mywx
-Mjk5ODQ4Njg5LDEzMjE2ODIwMiw3MjA3MTg2ODcsNzI3MTg1Mz
-AwLDg2Mzk3NTkxNCwtMjAwOTg3MTgyNCwtMjEwNjk0MDY0Niw5
-NzAyOTgwODJdfQ==
+eyJoaXN0b3J5IjpbMTU4ODEwMzc1NiwxNjA4NzgwNTIyLC02MT
+M0MDAwNzYsLTE5Mzg3MDM3MTQsMTE5ODA4Mjc5NiwtMjAyNjIx
+Mjc0OCwxMjY3NDc5NjQ5LC0xNzgwNjg2NCwtMTg0OTkwODcyOC
+wtMzUzOTAwNzkxLC0xNTgwNzUwMTc4LC0yMTQxNTY3NjgzLDEy
+OTk4NDg2ODksMTMyMTY4MjAyLDcyMDcxODY4Nyw3MjcxODUzMD
+AsODYzOTc1OTE0LC0yMDA5ODcxODI0LC0yMTA2OTQwNjQ2LDk3
+MDI5ODA4Ml19
 -->
