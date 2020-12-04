@@ -111,20 +111,21 @@ http://www.worldstopexports.com/cinnamon-exporters/
 Future of cinnamon
 Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 14): lezen!
 
+In ieder geval toevoegen:
 #Salagama  (Q3469487), also known als saliya or chaliya
 
-
+# Verder vanaf Samaraweera (V.) 1971
 
 ### References
 [^ref1]: Stephen G. Haw, "Cinnamon, Cassia and Ancient Trade", _Journal of Ancient History and Archaeology_, 4:1 (2017) 5-18
 
 [^ref2]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTAyMTU3MiwxMjg5NjM1NjgwLC0zOD
-Q1MDIwNzcsLTIxMTI5Nzg4MzEsNTM2NTYzNjI1LC0xOTUzMjc5
-MzcxLDE2MDg3ODA1MjIsLTYxMzQwMDA3NiwtMTkzODcwMzcxNC
-wxMTk4MDgyNzk2LC0yMDI2MjEyNzQ4LDEyNjc0Nzk2NDksLTE3
-ODA2ODY0LC0xODQ5OTA4NzI4LC0zNTM5MDA3OTEsLTE1ODA3NT
-AxNzgsLTIxNDE1Njc2ODMsMTI5OTg0ODY4OSwxMzIxNjgyMDIs
-NzIwNzE4Njg3XX0=
+eyJoaXN0b3J5IjpbLTE4NDUzNjk4MjAsMTI4OTYzNTY4MCwtMz
+g0NTAyMDc3LC0yMTEyOTc4ODMxLDUzNjU2MzYyNSwtMTk1MzI3
+OTM3MSwxNjA4NzgwNTIyLC02MTM0MDAwNzYsLTE5Mzg3MDM3MT
+QsMTE5ODA4Mjc5NiwtMjAyNjIxMjc0OCwxMjY3NDc5NjQ5LC0x
+NzgwNjg2NCwtMTg0OTkwODcyOCwtMzUzOTAwNzkxLC0xNTgwNz
+UwMTc4LC0yMTQxNTY3NjgzLDEyOTk4NDg2ODksMTMyMTY4MjAy
+LDcyMDcxODY4N119
 -->
