@@ -29,12 +29,12 @@ Dutch monopoly in Ceylon
 Zwart (P.) 2016
 
 Paul Hermann
-Andel (T.) & Barth (N.) 2018
+	Andel (T.) & Barth (N.) 2018
 
 British efforts to maintain the cinnamon monopoly, and failure
 
 Efforts of transplantation and acclimatization
-Ricardo (L.M.) 2018
+	Ricardo (L.M.) 2018
 
 Cinnamon in the Spanish (Atlantic) world
 	Chocolate drink
@@ -48,11 +48,11 @@ Bleichmar (D.) 2012.pdf
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1MjA2MTE0LDcyNzE4NTMwMCw4NjM5Nz
-U5MTQsLTIwMDk4NzE4MjQsLTIxMDY5NDA2NDYsOTcwMjk4MDgy
-LDExODg2MzY5NDEsLTE1MDQ1ODM4NzYsMTI2MTM3NzE2NywtMT
-MyMzI1NjI4NCwtMjAxMjY3MzU5NSwtNzU3MjY0NDM3LDc4NjY4
-OTA5MiwtMTIwMTU2MTIxMywxMDM0NjgzMzI0LC0xMDExMTgyOT
-Y2LC0yMTM1NzAyMjIwLC03NzY1ODA0MjMsNzg1NzkzNDQyLDE3
-MzAyMTE0NTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMTk3MDUxMzQsNzI3MTg1MzAwLDg2Mz
+k3NTkxNCwtMjAwOTg3MTgyNCwtMjEwNjk0MDY0Niw5NzAyOTgw
+ODIsMTE4ODYzNjk0MSwtMTUwNDU4Mzg3NiwxMjYxMzc3MTY3LC
+0xMzIzMjU2Mjg0LC0yMDEyNjczNTk1LC03NTcyNjQ0MzcsNzg2
+Njg5MDkyLC0xMjAxNTYxMjEzLDEwMzQ2ODMzMjQsLTEwMTExOD
+I5NjYsLTIxMzU3MDIyMjAsLTc3NjU4MDQyMyw3ODU3OTM0NDIs
+MTczMDIxMTQ1Nl19
 -->
