@@ -18,7 +18,7 @@ _Helianthus annuus_ (common sunflower) holds a special status in the plant kingd
 
 <param ve-entity eid="Q995745" title="artificial selection" aliases="artificially selected">
 <param ve-entity eid="Q3796486" title="botanical illustration">
-Yet, as this botanical illustration reminds us, cultivated _Helianthus annuus_ also has an imposing presence in the visual arts. Like the supersized flower in this plant portrait, the domesticated sunflower looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. The proliferation of the flower in European art since the colonial period is due partly to the aesthetic appeal of traits artificially selected to increase seed production, a single bloom with a large disk, and partly to the timing of its introduction to Europe in the sixteenth century coincident with the flourishing of a new genre of botanical treatise known as the [florilegium](https://wordsmith.org/words/florilegium.html) ("collection of flowers").
+Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an imposing presence in the visual arts. Like the supersized flower in this plant portrait, the domesticated sunflower looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. The proliferation of the flower in European art since the colonial period is due partly to the aesthetic appeal of traits artificially selected to increase seed production, a single bloom with a large disk, and partly to the timing of its introduction to Europe in the sixteenth century coincident with the flourishing of a new genre of botanical treatise known as the [florilegium](https://wordsmith.org/words/florilegium.html) ("collection of flowers").
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 <param ve-entity eid="Q861716" title="visual culture">
@@ -229,11 +229,11 @@ Visual representations of domesticated _Helianthus annuus_ and _Helianthus_ cons
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzA3NTM2MiwtMTM5NTU3NzE5MiwxMT
-A1ODYwNjkyLDE1NTA5NjMwNDIsLTExNjExMDA4MTksLTk2MTgw
-NjExNywxODg2MzI3NjY4LDE0NTEzNTgzMzgsLTE2NjUxNTI5MD
-EsMTk1NjA0MDIwMCwyNTI0NjUwNTksOTY2NjkxMDIsLTE5MzUy
-ODE1NzMsLTk0Mzc0MTI5OCwtMjMzODg0Nzc2LC0yMDEyMTUzNz
-IxLDE1MzE1NDE1MTMsLTcxMDUyNDg3MywxNjYzNDIzNzUzLDEz
-NzczNTIwMDNdfQ==
+eyJoaXN0b3J5IjpbLTIwOTg1MDg3MDksLTg1NzA3NTM2MiwtMT
+M5NTU3NzE5MiwxMTA1ODYwNjkyLDE1NTA5NjMwNDIsLTExNjEx
+MDA4MTksLTk2MTgwNjExNywxODg2MzI3NjY4LDE0NTEzNTgzMz
+gsLTE2NjUxNTI5MDEsMTk1NjA0MDIwMCwyNTI0NjUwNTksOTY2
+NjkxMDIsLTE5MzUyODE1NzMsLTk0Mzc0MTI5OCwtMjMzODg0Nz
+c2LC0yMDEyMTUzNzIxLDE1MzE1NDE1MTMsLTcxMDUyNDg3Mywx
+NjYzNDIzNzUzXX0=
 -->
