@@ -176,7 +176,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q52105" title="habitat" aliases="habitats">
 <param ve-entity eid="Q11084414" title="modernity">
 <param ve-entity eid="Q2638759" title="Zundert">
-Visual representations of sunflowers have shaped and been shaped by knowledges, myths, and meanings pertaining to _Helianthus annus_ and _Helianthus_. By analyzing historical changes in such imagery, we become more attuned to some ways that art can illuminate human encounters with sunflowers and our own experiences. That sort of attentive regard for plants is critical if we are to avert further environmental degradation. Just what is at stake for us finds a visual corollary in this _memento mori_ by Van Gogh. The artist shows two disembodied flower heads that have gone to seed and that defamiliarization of sunflower iconography—neither seed crops or nor ornamentals—prompts to reconsider the intrinsic value of such plants. Although the barren pock-marked disk and desiccated yellow husk may be read metaphorically as evoking the withered relationship of humans to nature, that is now understood to be a characteristic of modernity, we may also read the floral remains in a more positive light as an invitation to cultivate sustainable connections with plants.
+Visual representations of sunflowers have shaped and been shaped by knowledges, myths, and meanings pertaining to _Helianthus annus_ and _Helianthus_. By analyzing historical changes in such imagery, we become more attuned to some ways that art can illuminate human encounters with sunflowers and our own experiences. That sort of attentive regard for plants is critical if we are to avert further environmental degradation. Just what is at stake for us finds a visual corollary in this _memento mori_ by Van Gogh. The artist shows two disembodied flower heads that have gone to seed and that defamiliarization of sunflower iconography—neither seed crops or nor ornamentals—prompts to reconsider the intrinsic value of such plants. Although the barren pock-marked disk and desiccated yellow husk may be read metaphorically as evoking the withered relationship of humans to nature, that is now understood to be a characteristic of modernity, we may also read the floral remains in a more positive light as an invitation to cultivate sustainable connections with plantlife.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -230,11 +230,11 @@ Visual representations of sunflowers have shaped and been shaped by knowledges, 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTgwNTQzNDMsLTEzNjg1MDI0NzksMT
-A1ODkxMzI0MywxMTQwMTkxMjg0LDQwNjg3Mzk3MCwtMjExNDI3
-NTQ2MiwtMTk0NDA4MTUsMTQ5OTMzNjQ3NCw0OTc1ODQxNzgsND
-AzMjgzNTU4LC0xNjA0NDk5MDgzLDIwNTYwNjA0OCwyMDQ0NDA2
-NTYzLC0xNzgzMTAzNTQsLTEwMTk3NTI2ODIsLTEwMTk3NTI2OD
-IsLTEzMDUxNjU1MjcsLTIwOTg1MDg3MDksLTg1NzA3NTM2Miwt
-MTM5NTU3NzE5Ml19
+eyJoaXN0b3J5IjpbODU4NDEyMjYwLC0xNjU4MDU0MzQzLC0xMz
+Y4NTAyNDc5LDEwNTg5MTMyNDMsMTE0MDE5MTI4NCw0MDY4NzM5
+NzAsLTIxMTQyNzU0NjIsLTE5NDQwODE1LDE0OTkzMzY0NzQsND
+k3NTg0MTc4LDQwMzI4MzU1OCwtMTYwNDQ5OTA4MywyMDU2MDYw
+NDgsMjA0NDQwNjU2MywtMTc4MzEwMzU0LC0xMDE5NzUyNjgyLC
+0xMDE5NzUyNjgyLC0xMzA1MTY1NTI3LC0yMDk4NTA4NzA5LC04
+NTcwNzUzNjJdfQ==
 -->
