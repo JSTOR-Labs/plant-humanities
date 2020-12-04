@@ -122,11 +122,11 @@ While contemporary scientific research has not assessed dittany’s biofactors i
        
 The knowledge of how to provoke menstruation through herbs gave pre-modern women some reproductive control, either as a means to regulate menstruation to increase the likelihood of conception or as a means to end an unwanted, early-stage pregnancy. For more than 1,500 years medical texts and herbals associated dittany with women’s health, particularly with issues of menstruation as well as labor and delivery. This long association coupled with the evidence that early modern elite and middling women read and applied plant knowledge derived from herbals suggests that pre-modern women in the west did indeed seek to exercise agency over fertility and reproduction, and that medicinal herbs like dittany were central to this endeavor.
 <param ve-image 
-       description="Woman holding a book presents herbs to Plato from an illustrated Old English herbal copied in England in the early 11th century."
+       description="A woman in bed recovering from childbirth, a midwife washes the baby while another attendant looks after the mother. Woodcut."
        region="754,96,2113,1530"
-       attribution="Cotton MS Vitellius C III, The British Library"
-       license="Copyright (©): British Library Board. Permission granted to reproduce for personal and educational use only. Commercial copying, hiring, lending is prohibited."
-       url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Woman%20in%20Old%20English%20Herbal%20copy.jpg">
+       attribution="16th century, Swiss, via the Wellcome Collection"
+       license="See page for author, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/18/A_woman_in_bed_recovering_from_childbirth%2C_a_midwife_washes_Wellcome_V0014914ER.jpg">
 
 ### References
 [^1]: Bostock, John and H. T. Riley (1855). "Pliny the Elder, The Natural History". Perseus at Tufts. Retrieved May 26, 2020. http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-eng1:26.90
