@@ -131,7 +131,7 @@ While contemporary scientific research has not assessed dittany’s biofactors i
 The knowledge of how to provoke menstruation through herbs gave pre-modern women some reproductive control, either as a means to regulate menstruation to increase the likelihood of conception or as a means to end an unwanted, early-stage pregnancy. For more than 1,500 years medical texts and herbals associated dittany with women’s health, particularly with issues of menstruation as well as labor and delivery. This long association coupled with the evidence that early modern elite and middling women read and applied plant knowledge derived from herbals suggests that pre-modern women in the west did indeed seek to exercise agency over fertility and reproduction, and that medicinal herbs like dittany were central to this endeavor.
 <param ve-image 
        description="Two women and a man work at distilling the properties of plants and herbs."
-       region="26,48,1321,943"
+       region="315,1054,918,677"
        attribution="Rösslin, Eucharius, -1547, via the Wellcome Collection"
        license="Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/a/ab/People_distilling_Wellcome_L0042112.jpg">
