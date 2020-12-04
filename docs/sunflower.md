@@ -174,7 +174,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q1334780" title="environmental degradation">
 <param ve-entity eid="Q219416" title="sustainability" aliases="sustainable">
 <param ve-entity eid="Q2336124" title="defamiliarization">
-Visual representations of sunflowers have shaped and been shaped by human interactions with the plant world. By analyzing that imagery, we can become more attuned to the significance of human-plant encounters and our own engagements with plants. That kind of attentive regard for plants is essential if we are to enter into sustainable relationships with them and prevent further environmental degradation. This 1887 painting by Van Gogh, entitled _Sunflowers_, reminds us just what is at stake. The _memento mori_  shows two cut flower heads that have gone to seed—<span data-click-image-zoomto="9,1135,1311,1118">a dried disk with exposed kernels</span> nestles up against span data-click-image-zoomto="9,1135,1311,1118">a desiccated yellow husk</span>, both rest on a somber though <span data-click-image-zoomto="151,-153,3595,3065">tactile blue ground</span>. The artist’s defamiliarization of sunflower iconography unsettles our tendency to assume that plants are infinitely replenishable. For that reason, we can read the floral remains as a mournful reminder of our withered or exploitative relationship to nature, although it would be more productive to interpret them in a positive light, as an invitation to cultivate connections to plants that attend to their intrinsic values as living organisms.
+Visual representations of sunflowers have shaped and been shaped by human interactions with the plant world. By analyzing that imagery, we can become more attuned to the significance of human-plant encounters and our own engagements with plants. That kind of attentive regard for plants is essential if we are to enter into sustainable relationships with them and prevent further environmental degradation. This 1887 painting by Van Gogh, entitled _Sunflowers_, reminds us just what is at stake. The _memento mori_  shows two cut flower heads that have gone to seed—<span data-click-image-zoomto="819,696,1798,1533">a dried disk with exposed kernels</span> nestles up against span data-click-image-zoomto="2097,480,1798,1533">a desiccated yellow husk</span>, both rest on a somber though <span data-click-image-zoomto="151,-153,3595,3065">tactile blue ground</span>. The artist’s defamiliarization of sunflower iconography unsettles our tendency to assume that plants are infinitely replenishable. For that reason, we can read the floral remains as a mournful reminder of our withered or exploitative relationship to nature, although it would be more productive to interpret them in a positive light, as an invitation to cultivate connections to plants that attend to their intrinsic values as living organisms.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -228,11 +228,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTgxNjAyNywtMzI4MzA1NDc3LC0xNz
-UxOTM1NTE4LDE3NTQwMzAzODksNzY2Mzc4NTQ2LC0xODgzNjc5
-MjAzLC0xODgzNjc5MjAzLC0xOTcyNTMzODMyLDE2ODEwNDM0NT
-gsODU4NDEyMjYwLC0xNjU4MDU0MzQzLC0xMzY4NTAyNDc5LDEw
-NTg5MTMyNDMsMTE0MDE5MTI4NCw0MDY4NzM5NzAsLTIxMTQyNz
-U0NjIsLTE5NDQwODE1LDE0OTkzMzY0NzQsNDk3NTg0MTc4LDQw
-MzI4MzU1OF19
+eyJoaXN0b3J5IjpbODY3MTI5MDYsLTMyODMwNTQ3NywtMTc1MT
+kzNTUxOCwxNzU0MDMwMzg5LDc2NjM3ODU0NiwtMTg4MzY3OTIw
+MywtMTg4MzY3OTIwMywtMTk3MjUzMzgzMiwxNjgxMDQzNDU4LD
+g1ODQxMjI2MCwtMTY1ODA1NDM0MywtMTM2ODUwMjQ3OSwxMDU4
+OTEzMjQzLDExNDAxOTEyODQsNDA2ODczOTcwLC0yMTE0Mjc1ND
+YyLC0xOTQ0MDgxNSwxNDk5MzM2NDc0LDQ5NzU4NDE3OCw0MDMy
+ODM1NThdfQ==
 -->
