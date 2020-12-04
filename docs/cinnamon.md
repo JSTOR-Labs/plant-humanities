@@ -93,9 +93,9 @@ Portrugezen
 Biedermann (Z.) 2009
 
 Medicinal uses
+Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 11)
 Ranasinghe (P.) 2013
-Oketch‐Rabah (H.A.), Marles (R.J.) & Brinckmann (J.A.) 2018
-Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004
+Oketch‐Rabah (H.A.), Marles (R.J.) & Brinckmann (J.A.) 2018 (botanical ambiguity in ascertaining medicinal properties)
 
 Modern distribution
 CABI:
@@ -115,11 +115,11 @@ http://www.worldstopexports.com/cinnamon-exporters/
 
 [^ref2]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDUwMjA3NywtMjExMjk3ODgzMSw1Mz
-Y1NjM2MjUsLTE5NTMyNzkzNzEsMTYwODc4MDUyMiwtNjEzNDAw
-MDc2LC0xOTM4NzAzNzE0LDExOTgwODI3OTYsLTIwMjYyMTI3ND
-gsMTI2NzQ3OTY0OSwtMTc4MDY4NjQsLTE4NDk5MDg3MjgsLTM1
-MzkwMDc5MSwtMTU4MDc1MDE3OCwtMjE0MTU2NzY4MywxMjk5OD
-Q4Njg5LDEzMjE2ODIwMiw3MjA3MTg2ODcsNzI3MTg1MzAwLDg2
-Mzk3NTkxNF19
+eyJoaXN0b3J5IjpbMTI5NjU2NzgyLC0zODQ1MDIwNzcsLTIxMT
+I5Nzg4MzEsNTM2NTYzNjI1LC0xOTUzMjc5MzcxLDE2MDg3ODA1
+MjIsLTYxMzQwMDA3NiwtMTkzODcwMzcxNCwxMTk4MDgyNzk2LC
+0yMDI2MjEyNzQ4LDEyNjc0Nzk2NDksLTE3ODA2ODY0LC0xODQ5
+OTA4NzI4LC0zNTM5MDA3OTEsLTE1ODA3NTAxNzgsLTIxNDE1Nj
+c2ODMsMTI5OTg0ODY4OSwxMzIxNjgyMDIsNzIwNzE4Njg3LDcy
+NzE4NTMwMF19
 -->
