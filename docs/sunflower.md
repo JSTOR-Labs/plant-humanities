@@ -56,7 +56,7 @@ Once introduced to Spain, the domesticated sunflower quickly migrated to parts o
 <param ve-entity eid="Q5189819" title="cruciform">
 <param ve-entity eid="Q462437" title="composition">
 <param ve-entity eid="Q63540903" title="focal point">
-In the 1610s, Basilius Besler oversaw the production of this print, which established some visual conventions for representing the domesticated sunflower. Besler was commissioned by Prince Bishop of Eichstätt to oversee the creation of a florilegium, entitled _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, documenting the contents of his garden in Bavaria.[^ref6] This [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) portrays a _Helianthus annuus_ specimen thought to have been grown there and supplied to an artist who produced the design from which its [plate](https://www.metmuseum.org/about-the-met/curatorial-departments/drawings-and-prints/materials-and-techniques/printmaking/engraving) was made. The hand-colored portrait depicts the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value, unlike most woodblock prints found in herbals. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
+In the 1610s, Basilius Besler oversaw the production of this print, which established some visual conventions for representing the domesticated sunflower. Besler was commissioned by Prince Bishop of Eichstätt to oversee the creation of a florilegium, entitled _[Hortus Eystettensis](https://bibdigital.rjb.csic.es/idurl/1/10908)_, documenting the contents of his garden in Bavaria.[^ref6] This [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) portrays a specimen thought to have been grown there and supplied to the artist. The hand-colored portrait depicts the plant shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value, unlike most woodblock prints found in herbals. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
 that anticipated modern visual stereotypes for the plant, perhaps best epitomized by this sunflower emoji.
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
@@ -228,11 +228,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODY4ODc5NiwtMTg4MzY3OTIwMywtMT
-g4MzY3OTIwMywtMTk3MjUzMzgzMiwxNjgxMDQzNDU4LDg1ODQx
-MjI2MCwtMTY1ODA1NDM0MywtMTM2ODUwMjQ3OSwxMDU4OTEzMj
-QzLDExNDAxOTEyODQsNDA2ODczOTcwLC0yMTE0Mjc1NDYyLC0x
-OTQ0MDgxNSwxNDk5MzM2NDc0LDQ5NzU4NDE3OCw0MDMyODM1NT
-gsLTE2MDQ0OTkwODMsMjA1NjA2MDQ4LDIwNDQ0MDY1NjMsLTE3
-ODMxMDM1NF19
+eyJoaXN0b3J5IjpbLTExNjgyOTk0MzEsLTE4ODM2NzkyMDMsLT
+E4ODM2NzkyMDMsLTE5NzI1MzM4MzIsMTY4MTA0MzQ1OCw4NTg0
+MTIyNjAsLTE2NTgwNTQzNDMsLTEzNjg1MDI0NzksMTA1ODkxMz
+I0MywxMTQwMTkxMjg0LDQwNjg3Mzk3MCwtMjExNDI3NTQ2Miwt
+MTk0NDA4MTUsMTQ5OTMzNjQ3NCw0OTc1ODQxNzgsNDAzMjgzNT
+U4LC0xNjA0NDk5MDgzLDIwNTYwNjA0OCwyMDQ0NDA2NTYzLC0x
+NzgzMTAzNTRdfQ==
 -->
