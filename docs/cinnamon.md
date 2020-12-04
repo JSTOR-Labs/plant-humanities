@@ -19,7 +19,7 @@ Cinnamon already had a global history long before any European ever saw the 'tru
 How could such confusion last so long?
 
 ### Cinnamon as a tool of empire
-Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf.[^ref1]
+Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the [^ref1]
 <param ve-image
 	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding a branch and a bundle of cinnamon sticks, and standing next to a camel."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
@@ -31,11 +31,11 @@ Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri 
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTc2NzEwMiw4NjM5NzU5MTQsLTIwMD
-k4NzE4MjQsLTIxMDY5NDA2NDYsOTcwMjk4MDgyLDExODg2MzY5
-NDEsLTE1MDQ1ODM4NzYsMTI2MTM3NzE2NywtMTMyMzI1NjI4NC
-wtMjAxMjY3MzU5NSwtNzU3MjY0NDM3LDc4NjY4OTA5MiwtMTIw
-MTU2MTIxMywxMDM0NjgzMzI0LC0xMDExMTgyOTY2LC0yMTM1Nz
-AyMjIwLC03NzY1ODA0MjMsNzg1NzkzNDQyLDE3MzAyMTE0NTYs
-NzE3NzMwNjgzXX0=
+eyJoaXN0b3J5IjpbLTEzNjE0NTg3ODMsODYzOTc1OTE0LC0yMD
+A5ODcxODI0LC0yMTA2OTQwNjQ2LDk3MDI5ODA4MiwxMTg4NjM2
+OTQxLC0xNTA0NTgzODc2LDEyNjEzNzcxNjcsLTEzMjMyNTYyOD
+QsLTIwMTI2NzM1OTUsLTc1NzI2NDQzNyw3ODY2ODkwOTIsLTEy
+MDE1NjEyMTMsMTAzNDY4MzMyNCwtMTAxMTE4Mjk2NiwtMjEzNT
+cwMjIyMCwtNzc2NTgwNDIzLDc4NTc5MzQ0MiwxNzMwMjExNDU2
+LDcxNzczMDY4M119
 -->
