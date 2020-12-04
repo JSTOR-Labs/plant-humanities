@@ -46,7 +46,7 @@ In the sixteenth century, Europeans were eager to collect plants from the Americ
 <param ve-entity eid="Q476033" title="Low Countries">
 <param ve-entity eid="Q38" title="Italy">
 <param ve-entity eid="Q181916" title="herbarium">
-Once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries via transregional trade routes.[^ref5] Networks of wealthy and privileged Europeans, most of who were men, exchanged plant materials for cultivating _Helianthus annuus_ and instructions for doing so that were oftentimes conveyed in letters and drawings. This model visualizes some connections among a group of proto botanists, patrons, publishers, artists, and members of royal courts who, through their epistolary and direct interactions, generated knowledges and cultural myths about the cultivated sunflower that were published in herbals and florilegia during the 1560s and 1570s.
+Once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries via transregional trade routes.[^ref5] Networks of wealthy and privileged Europeans, most of who were men, exchanged plant materials for cultivating _Helianthus annuus_ and instructions for doing so in letters and drawings. This model visualizes some connections among a group of proto botanists, patrons, publishers, artists, and members of royal courts who, through their epistolary and direct interactions, generated knowledges and cultural myths about the cultivated sunflower that were published in herbals and florilegia during the 1560s and 1570s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="PROTO BOTANIST">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -229,7 +229,7 @@ Visual representations of domesticated _Helianthus annuus_ and _Helianthus_ cons
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk0NzczNTcsLTEzMDUxNjU1MjcsLT
+eyJoaXN0b3J5IjpbLTEyMjQzMTY5NzIsLTEzMDUxNjU1MjcsLT
 IwOTg1MDg3MDksLTg1NzA3NTM2MiwtMTM5NTU3NzE5MiwxMTA1
 ODYwNjkyLDE1NTA5NjMwNDIsLTExNjExMDA4MTksLTk2MTgwNj
 ExNywxODg2MzI3NjY4LDE0NTEzNTgzMzgsLTE2NjUxNTI5MDEs
