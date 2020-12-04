@@ -95,15 +95,18 @@ http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1
 Kaneelhandel vandaag de dag
 http://www.worldstopexports.com/cinnamon-exporters/
 
+
+#Salagama  (Q3469487), also known als saliya or chaliya
+
 ### References
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg3MDM3MTQsMTE5ODA4Mjc5NiwtMj
-AyNjIxMjc0OCwxMjY3NDc5NjQ5LC0xNzgwNjg2NCwtMTg0OTkw
-ODcyOCwtMzUzOTAwNzkxLC0xNTgwNzUwMTc4LC0yMTQxNTY3Nj
-gzLDEyOTk4NDg2ODksMTMyMTY4MjAyLDcyMDcxODY4Nyw3Mjcx
-ODUzMDAsODYzOTc1OTE0LC0yMDA5ODcxODI0LC0yMTA2OTQwNj
-Q2LDk3MDI5ODA4MiwxMTg4NjM2OTQxLC0xNTA0NTgzODc2LDEy
-NjEzNzcxNjddfQ==
+eyJoaXN0b3J5IjpbLTYxMzQwMDA3NiwtMTkzODcwMzcxNCwxMT
+k4MDgyNzk2LC0yMDI2MjEyNzQ4LDEyNjc0Nzk2NDksLTE3ODA2
+ODY0LC0xODQ5OTA4NzI4LC0zNTM5MDA3OTEsLTE1ODA3NTAxNz
+gsLTIxNDE1Njc2ODMsMTI5OTg0ODY4OSwxMzIxNjgyMDIsNzIw
+NzE4Njg3LDcyNzE4NTMwMCw4NjM5NzU5MTQsLTIwMDk4NzE4Mj
+QsLTIxMDY5NDA2NDYsOTcwMjk4MDgyLDExODg2MzY5NDEsLTE1
+MDQ1ODM4NzZdfQ==
 -->
