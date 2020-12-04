@@ -74,7 +74,7 @@ The migration of sunflower iconography from Besler’s _Hortus Eystettensis_  to
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
-Although botanists, beginning in the 1940s, consulted herbals and other historical evidence to chart the movement of cultivated _Helianthus annuus_, they also used distribution maps and fossilized remains to study the origins of the plant.[^ref9] The earliest known cultivated sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
+Although botanists consulted herbals and other historical evidence to chart the movement of cultivated _Helianthus annuus_, they also used distribution maps and fossilized remains to study the origins of the plant.[^ref9] The earliest known cultivated sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
@@ -230,11 +230,11 @@ Visual representations of domesticated _Helianthus annuus_ and _Helianthus_ cons
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4Mjc2MzQyLDIwNTYwNjA0OCwyMDQ0ND
-A2NTYzLC0xNzgzMTAzNTQsLTEwMTk3NTI2ODIsLTEwMTk3NTI2
-ODIsLTEzMDUxNjU1MjcsLTIwOTg1MDg3MDksLTg1NzA3NTM2Mi
-wtMTM5NTU3NzE5MiwxMTA1ODYwNjkyLDE1NTA5NjMwNDIsLTEx
-NjExMDA4MTksLTk2MTgwNjExNywxODg2MzI3NjY4LDE0NTEzNT
-gzMzgsLTE2NjUxNTI5MDEsMTk1NjA0MDIwMCwyNTI0NjUwNTks
-OTY2NjkxMDJdfQ==
+eyJoaXN0b3J5IjpbLTEyNTk5Mzg1NzAsMjA1NjA2MDQ4LDIwND
+Q0MDY1NjMsLTE3ODMxMDM1NCwtMTAxOTc1MjY4MiwtMTAxOTc1
+MjY4MiwtMTMwNTE2NTUyNywtMjA5ODUwODcwOSwtODU3MDc1Mz
+YyLC0xMzk1NTc3MTkyLDExMDU4NjA2OTIsMTU1MDk2MzA0Miwt
+MTE2MTEwMDgxOSwtOTYxODA2MTE3LDE4ODYzMjc2NjgsMTQ1MT
+M1ODMzOCwtMTY2NTE1MjkwMSwxOTU2MDQwMjAwLDI1MjQ2NTA1
+OSw5NjY2OTEwMl19
 -->
