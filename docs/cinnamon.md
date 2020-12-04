@@ -28,6 +28,8 @@ Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri 
 Dutch monopoly in Ceylon
 	- Economic development of harvesting, trade, and prices
 	Zwart (P.) 2016
+	- Competition and efforts to maintain the monopoly
+	Cook (H.J.) 2007
 
 Paul Hermann
 	Andel (T.) & Barth (N.) 2018
@@ -42,7 +44,9 @@ Cinnamon in the Spanish (Atlantic) world
 	- Chocolate drink in Spanish Atlantic world
 	Aram (B.) & Yun-Casalilla (B.) 2014 (art Fattacciu)
 	- Spanish efforts to find cinnamon in the New World
-	Bleichmar (D.) 2012
+	Bleichmar (D.) 2012 (Mutis)
+	Crawford (M.J.) 2016a.pdf (Mutis)
+	Delbourgo (J.) & Dew (N.) 2008a.pdf (art Safier over Pizzarro en Orellana, later Jussieu)
 
 Bleichmar (D.) 2012.pdf
 
@@ -51,11 +55,11 @@ Bleichmar (D.) 2012.pdf
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTY5NjQwNTAsNzI3MTg1MzAwLDg2Mz
-k3NTkxNCwtMjAwOTg3MTgyNCwtMjEwNjk0MDY0Niw5NzAyOTgw
-ODIsMTE4ODYzNjk0MSwtMTUwNDU4Mzg3NiwxMjYxMzc3MTY3LC
-0xMzIzMjU2Mjg0LC0yMDEyNjczNTk1LC03NTcyNjQ0MzcsNzg2
-Njg5MDkyLC0xMjAxNTYxMjEzLDEwMzQ2ODMzMjQsLTEwMTExOD
-I5NjYsLTIxMzU3MDIyMjAsLTc3NjU4MDQyMyw3ODU3OTM0NDIs
-MTczMDIxMTQ1Nl19
+eyJoaXN0b3J5IjpbMTI5MzA1NjkyMCw3MjcxODUzMDAsODYzOT
+c1OTE0LC0yMDA5ODcxODI0LC0yMTA2OTQwNjQ2LDk3MDI5ODA4
+MiwxMTg4NjM2OTQxLC0xNTA0NTgzODc2LDEyNjEzNzcxNjcsLT
+EzMjMyNTYyODQsLTIwMTI2NzM1OTUsLTc1NzI2NDQzNyw3ODY2
+ODkwOTIsLTEyMDE1NjEyMTMsMTAzNDY4MzMyNCwtMTAxMTE4Mj
+k2NiwtMjEzNTcwMjIyMCwtNzc2NTgwNDIzLDc4NTc5MzQ0Miwx
+NzMwMjExNDU2XX0=
 -->
