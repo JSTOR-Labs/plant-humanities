@@ -170,12 +170,11 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 
 ### Gone to Seed
 
-<param ve-entity eid="Q273383" title="Memento mori" aliases="memento mori">
 <param ve-entity eid="Q11084414" title="modernity">
 <param ve-entity eid="Q1334780" title="environmental degradation">
 <param ve-entity eid="Q219416" title="sustainability" aliases="sustainable">
 <param ve-entity eid="Q2336124" title="defamiliarization">
-Visual representations of sunflowers have shaped and been shaped by human interactions with the plant world. By analyzing that imagery, we can become more attuned to the significance of human-plant encounters and our own engagements with plants. That kind of attentive regard for plants is essential if we are to enter into sustainable relationships with them and prevent further environmental degradation. This 1887 painting by Van Gogh, entitled _Sunflowers_, reminds us just what is at stake. The _memento mori_  shows two cut flower heads that have gone to seed—<span data-click-image-zoomto="819,696,1798,1533">a dried disk with exposed kernels</span> nestles up against <span data-click-image-zoomto="2097,480,1798,1533">a desiccated yellow husk</span>, both rest on a somber though <span data-click-image-zoomto="151,-153,3595,3065">tactile blue ground</span>. The artist’s defamiliarization of sunflower iconography unsettles our tendency to assume that plants are infinitely replenishable. For that reason, we can read the floral remains as a mournful reminder of our withered or exploitative relationship to nature, although it would be more productive to interpret them in a positive light, as an invitation to cultivate connections to plants that attend to their intrinsic values as living organisms.
+Visual representations of sunflowers have shaped and been shaped by human interactions with the plant world. By analyzing that imagery, we can become more attuned to the significance of human-plant encounters and our own engagements with plants. That kind of attentive regard for plants is essential if we are to enter into sustainable relationships with them and prevent further environmental degradation. This 1887 painting by Van Gogh, entitled _Sunflowers_, reminds us just what is at stake. The [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori)  shows two cut flower heads that have gone to seed—<span data-click-image-zoomto="819,696,1798,1533">a dried disk with exposed kernels</span> nestles up against <span data-click-image-zoomto="2097,480,1798,1533">a desiccated yellow husk</span>, both rest on a somber though <span data-click-image-zoomto="151,-153,3595,3065">tactile blue ground</span>. The artist’s defamiliarization of sunflower iconography unsettles our tendency to assume that plants are infinitely replenishable. For that reason, we can read the floral remains as a mournful reminder of our withered or exploitative relationship to nature, although it would be more productive to interpret them in a positive light, as an invitation to cultivate connections to plants that attend to their intrinsic values as living organisms.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -229,11 +228,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njk1NTQ4NzQsLTU4NDUyNjgyOCwtMz
-MwNTc3MDU2LDg2NzEyOTA2LC0zMjgzMDU0NzcsLTE3NTE5MzU1
-MTgsMTc1NDAzMDM4OSw3NjYzNzg1NDYsLTE4ODM2NzkyMDMsLT
-E4ODM2NzkyMDMsLTE5NzI1MzM4MzIsMTY4MTA0MzQ1OCw4NTg0
-MTIyNjAsLTE2NTgwNTQzNDMsLTEzNjg1MDI0NzksMTA1ODkxMz
-I0MywxMTQwMTkxMjg0LDQwNjg3Mzk3MCwtMjExNDI3NTQ2Miwt
-MTk0NDA4MTVdfQ==
+eyJoaXN0b3J5IjpbLTc0ODUzMzIyMSwtMTY2OTU1NDg3NCwtNT
+g0NTI2ODI4LC0zMzA1NzcwNTYsODY3MTI5MDYsLTMyODMwNTQ3
+NywtMTc1MTkzNTUxOCwxNzU0MDMwMzg5LDc2NjM3ODU0NiwtMT
+g4MzY3OTIwMywtMTg4MzY3OTIwMywtMTk3MjUzMzgzMiwxNjgx
+MDQzNDU4LDg1ODQxMjI2MCwtMTY1ODA1NDM0MywtMTM2ODUwMj
+Q3OSwxMDU4OTEzMjQzLDExNDAxOTEyODQsNDA2ODczOTcwLC0y
+MTE0Mjc1NDYyXX0=
 -->
