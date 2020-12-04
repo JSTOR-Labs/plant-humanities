@@ -30,6 +30,7 @@ Biblical connotations
 
 Orta
 	- Eigen ervaring van planten die uit de oudheid bekend waren
+	Orta (G.) 1913 (let op: digib ubi dusseldorf heeft een IIIF manifest)
 	Fontes da Costa (P.) 2015
 
 Dutch monopoly in Ceylon
@@ -74,11 +75,11 @@ Ranasinghe (P.) 2013
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE1Njc2ODMsMTI5OTg0ODY4OSwxMz
-IxNjgyMDIsNzIwNzE4Njg3LDcyNzE4NTMwMCw4NjM5NzU5MTQs
-LTIwMDk4NzE4MjQsLTIxMDY5NDA2NDYsOTcwMjk4MDgyLDExOD
-g2MzY5NDEsLTE1MDQ1ODM4NzYsMTI2MTM3NzE2NywtMTMyMzI1
-NjI4NCwtMjAxMjY3MzU5NSwtNzU3MjY0NDM3LDc4NjY4OTA5Mi
-wtMTIwMTU2MTIxMywxMDM0NjgzMzI0LC0xMDExMTgyOTY2LC0y
-MTM1NzAyMjIwXX0=
+eyJoaXN0b3J5IjpbLTE1ODA3NTAxNzgsLTIxNDE1Njc2ODMsMT
+I5OTg0ODY4OSwxMzIxNjgyMDIsNzIwNzE4Njg3LDcyNzE4NTMw
+MCw4NjM5NzU5MTQsLTIwMDk4NzE4MjQsLTIxMDY5NDA2NDYsOT
+cwMjk4MDgyLDExODg2MzY5NDEsLTE1MDQ1ODM4NzYsMTI2MTM3
+NzE2NywtMTMyMzI1NjI4NCwtMjAxMjY3MzU5NSwtNzU3MjY0ND
+M3LDc4NjY4OTA5MiwtMTIwMTU2MTIxMywxMDM0NjgzMzI0LC0x
+MDExMTgyOTY2XX0=
 -->
