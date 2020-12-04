@@ -86,7 +86,7 @@ Although botanists, working since the 1940s, consulted herbals and other histori
 <param ve-entity eid="Q490360" title="Hickory Country" aliases="eastern North America">
 <param ve-entity eid="Q222046" title="genomics">
 <param ve-entity eid="Q839954" title="archaeological site">
-The discussion of sunflowers in Hernández’s _Nova plantarum_ complicates debates among scientists about when humans used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether such plants were cultivated independently there.[^ref12] A charred seed was recovered at San Andrés archaeological site in Tabasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that it may have come from a bottle gourd.[^ref13] Expanding on that archeological research, genomic studies of modern domesticated and wild sunflowers have linked the plants to a single common ancestor, which was cultivated at an independent domestication center, along with pepo squash, marsh elder, and chenopod, in <span data-click-map-flyto="37.347878, -89.590292">eastern North America</span>.[^ref14] For those reasons, several botanists have argued that domesticated _H. annuus_ was brought to Mexico via North American trade routes, possibly by Spanish colonizers.[^ref15]
+Yet scientists about when humans used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether such plants were cultivated independently there.[^ref12] A charred seed was recovered at San Andrés archaeological site in Tabasco, Mexico. Although some scientists identified the seed as coming from _H. annuus_, others argued that it may have come from a bottle gourd.[^ref13] Expanding on that archeological research, genomic studies of modern domesticated and wild sunflowers have linked the plants to a single common ancestor, which was cultivated at an independent domestication center, along with pepo squash, marsh elder, and chenopod, in <span data-click-map-flyto="37.347878, -89.590292">eastern North America</span>.[^ref14] For those reasons, several botanists have argued that domesticated _H. annuus_ was brought to Mexico via North American trade routes, possibly by Spanish colonizers.[^ref15]
 <param ve-map prefer-geojson center="Q80914" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
 
 ### “I’ll Follow the Sun”: Heliotropism as Metaphor and Myth
@@ -230,11 +230,11 @@ Visual representations of domesticated _Helianthus annuus_ and _Helianthus_ cons
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ0OTkwODMsMjA1NjA2MDQ4LDIwND
-Q0MDY1NjMsLTE3ODMxMDM1NCwtMTAxOTc1MjY4MiwtMTAxOTc1
-MjY4MiwtMTMwNTE2NTUyNywtMjA5ODUwODcwOSwtODU3MDc1Mz
-YyLC0xMzk1NTc3MTkyLDExMDU4NjA2OTIsMTU1MDk2MzA0Miwt
-MTE2MTEwMDgxOSwtOTYxODA2MTE3LDE4ODYzMjc2NjgsMTQ1MT
-M1ODMzOCwtMTY2NTE1MjkwMSwxOTU2MDQwMjAwLDI1MjQ2NTA1
-OSw5NjY2OTEwMl19
+eyJoaXN0b3J5IjpbLTE0MDM0NDk5NDMsLTE2MDQ0OTkwODMsMj
+A1NjA2MDQ4LDIwNDQ0MDY1NjMsLTE3ODMxMDM1NCwtMTAxOTc1
+MjY4MiwtMTAxOTc1MjY4MiwtMTMwNTE2NTUyNywtMjA5ODUwOD
+cwOSwtODU3MDc1MzYyLC0xMzk1NTc3MTkyLDExMDU4NjA2OTIs
+MTU1MDk2MzA0MiwtMTE2MTEwMDgxOSwtOTYxODA2MTE3LDE4OD
+YzMjc2NjgsMTQ1MTM1ODMzOCwtMTY2NTE1MjkwMSwxOTU2MDQw
+MjAwLDI1MjQ2NTA1OV19
 -->
