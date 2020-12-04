@@ -174,7 +174,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q1334780" title="environmental degradation">
 <param ve-entity eid="Q219416" title="sustainability" aliases="sustainable">
 <param ve-entity eid="Q2336124" title="defamiliarization">
-Visual representations of sunflowers have shaped and been shaped by human interactions with the plant world. By analyzing that imagery, we can become more attuned to the significance of such encounters and more attentive our own encounters with plants. That kind of attentive regard for non-human organisms is essential if we are to enter into sustainable relationships with them and prevent further environmental degradation. This 1887 _memento mori_ by Van Gogh reminds us just what is at stake. The artist’s painting, _Sunflowers_, shows two cut flower heads that have gone to seed—a dried disk with exposed kernels nestles up against a desiccated yellow husk, both rest on a tactile somber blue ground. That defamiliarization of sunflower iconography unsettles a human tendency to assume that nature is infinitely replenishable. The floral remains can therefore be read as a mournful commentary on the withered relationship of humans to nature, although it would be more productive to interpret them in a positive light, as an invitation to cultivate connections to plants that attend to their intrinsic values and int.
+Visual representations of sunflowers have shaped and been shaped by human interactions with the plant world. By analyzing that imagery, we can become more attuned to the significance of such encounters and more attentive our own encounters with plants. That kind of attentive regard for non-human organisms is essential if we are to enter into sustainable relationships with them and prevent further environmental degradation. This 1887 _memento mori_ by Van Gogh reminds us just what is at stake. The artist’s painting, _Sunflowers_, shows two cut flower heads that have gone to seed—a dried disk with exposed kernels nestles up against a desiccated yellow husk, both rest on a tactile somber blue ground. That defamiliarization of sunflower iconography unsettles a human tendency to assume that nature is infinitely replenishable. The floral remains can therefore be read as a mournful commentary on the withered relationship of humans to nature, although it would be more productive to interpret them in a positive light, as an invitation to cultivate connections to plants that attend to their intrinsic values and interactions with the world around them.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -228,11 +228,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDYyNjgwMCwxNjgxMDQzNDU4LDg1OD
-QxMjI2MCwtMTY1ODA1NDM0MywtMTM2ODUwMjQ3OSwxMDU4OTEz
-MjQzLDExNDAxOTEyODQsNDA2ODczOTcwLC0yMTE0Mjc1NDYyLC
-0xOTQ0MDgxNSwxNDk5MzM2NDc0LDQ5NzU4NDE3OCw0MDMyODM1
-NTgsLTE2MDQ0OTkwODMsMjA1NjA2MDQ4LDIwNDQ0MDY1NjMsLT
-E3ODMxMDM1NCwtMTAxOTc1MjY4MiwtMTAxOTc1MjY4MiwtMTMw
-NTE2NTUyN119
+eyJoaXN0b3J5IjpbLTE5NzI1MzM4MzIsMTY4MTA0MzQ1OCw4NT
+g0MTIyNjAsLTE2NTgwNTQzNDMsLTEzNjg1MDI0NzksMTA1ODkx
+MzI0MywxMTQwMTkxMjg0LDQwNjg3Mzk3MCwtMjExNDI3NTQ2Mi
+wtMTk0NDA4MTUsMTQ5OTMzNjQ3NCw0OTc1ODQxNzgsNDAzMjgz
+NTU4LC0xNjA0NDk5MDgzLDIwNTYwNjA0OCwyMDQ0NDA2NTYzLC
+0xNzgzMTAzNTQsLTEwMTk3NTI2ODIsLTEwMTk3NTI2ODIsLTEz
+MDUxNjU1MjddfQ==
 -->
