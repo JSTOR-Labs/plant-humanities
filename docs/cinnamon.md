@@ -28,6 +28,10 @@ Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri 
 Biblical connotations
 	Duke (J.A.) 2008
 
+Orta
+	- dus
+	Fontes da Costa (P.) 2015
+
 Dutch monopoly in Ceylon
 	- Economic development of harvesting, trade, and prices
 	Zwart (P.) 2016
@@ -58,7 +62,7 @@ Cinnamon in the Spanish (Atlantic) world
 	Crawford (M.J.) 2016a.pdf (Mutis)
 	Delbourgo (J.) & Dew (N.) 2008a.pdf (art Safier over Pizzarro en Orellana, later Jussieu)
 	- Publishing cinnamon knowledge (Hernández expedition)
-	Freedberg (D.) 2002
+	Freedberg (D.) 2002 (zou bruggetje kunnen zijn vanuit Orta)
 	- Elcano's coat of arms after the Magelhaes expedition
 	Guerra (F.) 1964
 	
@@ -70,11 +74,11 @@ Ranasinghe (P.) 2013
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTY4MjAyLDcyMDcxODY4Nyw3MjcxOD
-UzMDAsODYzOTc1OTE0LC0yMDA5ODcxODI0LC0yMTA2OTQwNjQ2
-LDk3MDI5ODA4MiwxMTg4NjM2OTQxLC0xNTA0NTgzODc2LDEyNj
-EzNzcxNjcsLTEzMjMyNTYyODQsLTIwMTI2NzM1OTUsLTc1NzI2
-NDQzNyw3ODY2ODkwOTIsLTEyMDE1NjEyMTMsMTAzNDY4MzMyNC
-wtMTAxMTE4Mjk2NiwtMjEzNTcwMjIyMCwtNzc2NTgwNDIzLDc4
-NTc5MzQ0Ml19
+eyJoaXN0b3J5IjpbMTI5OTg0ODY4OSwxMzIxNjgyMDIsNzIwNz
+E4Njg3LDcyNzE4NTMwMCw4NjM5NzU5MTQsLTIwMDk4NzE4MjQs
+LTIxMDY5NDA2NDYsOTcwMjk4MDgyLDExODg2MzY5NDEsLTE1MD
+Q1ODM4NzYsMTI2MTM3NzE2NywtMTMyMzI1NjI4NCwtMjAxMjY3
+MzU5NSwtNzU3MjY0NDM3LDc4NjY4OTA5MiwtMTIwMTU2MTIxMy
+wxMDM0NjgzMzI0LC0xMDExMTgyOTY2LC0yMTM1NzAyMjIwLC03
+NzY1ODA0MjNdfQ==
 -->
