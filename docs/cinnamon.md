@@ -14,12 +14,12 @@ In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although
 
 ### A global history
 
-Cinnamon already had a global history long before any European ever saw the 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. And here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), that were described by ancient medical authorities, were the same plants as the ones with those names that were found in the East Indies in the sixteenth century. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably the East-African species _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_ at all.
+Cinnamon already had a global history long before any European ever saw the 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. And here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), that were described by ancient medical authorities, were the same plants as the ones with those names that were found in the East Indies in the sixteenth century. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably the East-African species _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_ at all.[^ref1]
 
 How could such confusion last so long?
 
 ### Cinnamon as a tool of empire
-Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref1]
+Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref2]
 <param ve-image
 	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding a branch and a bundle of cinnamon sticks, and standing next to a camel. Note that this coin was found on the opposite side of the Roman empire, in Yorkshire, Britain."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
@@ -104,14 +104,15 @@ http://www.worldstopexports.com/cinnamon-exporters/
 #Salagama  (Q3469487), also known als saliya or chaliya
 
 ### References
+[^ref1]: Haw, S.G., "Cinnamon, Cassia and Ancient Trade", _Journal of Ancient History and Archaeology, 4:1 (2017) 5-18
 
-[^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
+[^ref2]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTAxOTkzNywxNjA4NzgwNTIyLC02MT
-M0MDAwNzYsLTE5Mzg3MDM3MTQsMTE5ODA4Mjc5NiwtMjAyNjIx
-Mjc0OCwxMjY3NDc5NjQ5LC0xNzgwNjg2NCwtMTg0OTkwODcyOC
-wtMzUzOTAwNzkxLC0xNTgwNzUwMTc4LC0yMTQxNTY3NjgzLDEy
-OTk4NDg2ODksMTMyMTY4MjAyLDcyMDcxODY4Nyw3MjcxODUzMD
-AsODYzOTc1OTE0LC0yMDA5ODcxODI0LC0yMTA2OTQwNjQ2LDk3
-MDI5ODA4Ml19
+eyJoaXN0b3J5IjpbNjcwNjM3MDEyLDE2MDg3ODA1MjIsLTYxMz
+QwMDA3NiwtMTkzODcwMzcxNCwxMTk4MDgyNzk2LC0yMDI2MjEy
+NzQ4LDEyNjc0Nzk2NDksLTE3ODA2ODY0LC0xODQ5OTA4NzI4LC
+0zNTM5MDA3OTEsLTE1ODA3NTAxNzgsLTIxNDE1Njc2ODMsMTI5
+OTg0ODY4OSwxMzIxNjgyMDIsNzIwNzE4Njg3LDcyNzE4NTMwMC
+w4NjM5NzU5MTQsLTIwMDk4NzE4MjQsLTIxMDY5NDA2NDYsOTcw
+Mjk4MDgyXX0=
 -->
