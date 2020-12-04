@@ -60,6 +60,7 @@ British efforts to maintain the cinnamon monopoly, and failure
 Efforts of transplantation and acclimatization
 	- Cinnamon in Rio de Janeiro botanical garden (google die even)
 	Ricardo (L.M.) 2018
+	Hermann (P.) 1687 (failed attempt in Dutch gardens)
 
 Cinnamon in the Spanish (Atlantic) world
 	- Combus and cinnamon
@@ -108,11 +109,11 @@ http://www.worldstopexports.com/cinnamon-exporters/
 
 [^ref2]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTMyNzkzNzEsMTYwODc4MDUyMiwtNj
-EzNDAwMDc2LC0xOTM4NzAzNzE0LDExOTgwODI3OTYsLTIwMjYy
-MTI3NDgsMTI2NzQ3OTY0OSwtMTc4MDY4NjQsLTE4NDk5MDg3Mj
-gsLTM1MzkwMDc5MSwtMTU4MDc1MDE3OCwtMjE0MTU2NzY4Mywx
-Mjk5ODQ4Njg5LDEzMjE2ODIwMiw3MjA3MTg2ODcsNzI3MTg1Mz
-AwLDg2Mzk3NTkxNCwtMjAwOTg3MTgyNCwtMjEwNjk0MDY0Niw5
-NzAyOTgwODJdfQ==
+eyJoaXN0b3J5IjpbNTM2NTYzNjI1LC0xOTUzMjc5MzcxLDE2MD
+g3ODA1MjIsLTYxMzQwMDA3NiwtMTkzODcwMzcxNCwxMTk4MDgy
+Nzk2LC0yMDI2MjEyNzQ4LDEyNjc0Nzk2NDksLTE3ODA2ODY0LC
+0xODQ5OTA4NzI4LC0zNTM5MDA3OTEsLTE1ODA3NTAxNzgsLTIx
+NDE1Njc2ODMsMTI5OTg0ODY4OSwxMzIxNjgyMDIsNzIwNzE4Nj
+g3LDcyNzE4NTMwMCw4NjM5NzU5MTQsLTIwMDk4NzE4MjQsLTIx
+MDY5NDA2NDZdfQ==
 -->
