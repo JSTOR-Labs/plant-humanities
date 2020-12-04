@@ -176,7 +176,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q52105" title="habitat" aliases="habitats">
 <param ve-entity eid="Q11084414" title="modernity">
 <param ve-entity eid="Q2638759" title="Zundert">
-Visual representations of domesticated _Helianthus annuus_ and _Helianthus_ considered in this essay shine a light on some understudied aspects of human-plant relationships and our responsibility to approach such encounters with more attentiveness and care. In the later nineteenth century, a period of rapid industrialization and urbanization in Europe, city dwellers participated in new modes of urban labor, leisure, transportation, and commerce that did not often include direct encounters with plants in their natural habitats. That separation from nature profoundly impacted those who migrated to cities from rural areas, such as Vincent Van Gogh, providing a poignant context for interpreting this still life painting by him.The artist produced _Sunflowers_ while living in a Parisian suburb, in 1887, far from the rural environment bordering his native Zundert. In this _memento mori_, he portrays two flowers that have gone to seed against a somber blue background. The flowers' barren disc and desiccated yellow head serve as mournful reminders of their former beauty, though we may also read them as metaphors for the withering of human connections with plants due to modernity.
+Sunflower imagery produced by artists in Europe and North America has shaped and been shaped by knowledges, myths, and meanings. By shining a light on some understudied aspects of human-plant relationships that such images evidence, we become more attuned to significance of changes in sunflower iconography and more attentive to our encounters with plants. In the later nineteenth century, a period of rapid industrialization and urbanization in Europe, city dwellers participated in new modes of urban labor, leisure, transportation, and commerce that did not often include direct encounters with plants in their natural habitats. That separation from nature profoundly impacted those who migrated to cities from rural areas, such as Vincent Van Gogh, providing a poignant context for interpreting this still life painting by him.The artist produced _Sunflowers_ while living in a Parisian suburb, in 1887, far from the rural environment bordering his native Zundert. In this _memento mori_, he portrays two flowers that have gone to seed against a somber blue background. The flowers' barren disc and desiccated yellow head serve as mournful reminders of their former beauty, though we may also read them as metaphors for the withering of human connections with plants due to modernity.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -230,11 +230,11 @@ Visual representations of domesticated _Helianthus annuus_ and _Helianthus_ cons
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQwODE1LDE0OTkzMzY0NzQsNDk3NT
-g0MTc4LDQwMzI4MzU1OCwtMTYwNDQ5OTA4MywyMDU2MDYwNDgs
-MjA0NDQwNjU2MywtMTc4MzEwMzU0LC0xMDE5NzUyNjgyLC0xMD
-E5NzUyNjgyLC0xMzA1MTY1NTI3LC0yMDk4NTA4NzA5LC04NTcw
-NzUzNjIsLTEzOTU1NzcxOTIsMTEwNTg2MDY5MiwxNTUwOTYzMD
-QyLC0xMTYxMTAwODE5LC05NjE4MDYxMTcsMTg4NjMyNzY2OCwx
-NDUxMzU4MzM4XX0=
+eyJoaXN0b3J5IjpbLTIxMTQyNzU0NjIsLTE5NDQwODE1LDE0OT
+kzMzY0NzQsNDk3NTg0MTc4LDQwMzI4MzU1OCwtMTYwNDQ5OTA4
+MywyMDU2MDYwNDgsMjA0NDQwNjU2MywtMTc4MzEwMzU0LC0xMD
+E5NzUyNjgyLC0xMDE5NzUyNjgyLC0xMzA1MTY1NTI3LC0yMDk4
+NTA4NzA5LC04NTcwNzUzNjIsLTEzOTU1NzcxOTIsMTEwNTg2MD
+Y5MiwxNTUwOTYzMDQyLC0xMTYxMTAwODE5LC05NjE4MDYxMTcs
+MTg4NjMyNzY2OF19
 -->
