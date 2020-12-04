@@ -29,13 +29,13 @@ Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri 
 
 ### References
 
-[^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 99-106, there 99-101.
+[^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTIwMzgwLDg2Mzk3NTkxNCwtMjAwOT
-g3MTgyNCwtMjEwNjk0MDY0Niw5NzAyOTgwODIsMTE4ODYzNjk0
-MSwtMTUwNDU4Mzg3NiwxMjYxMzc3MTY3LC0xMzIzMjU2Mjg0LC
-0yMDEyNjczNTk1LC03NTcyNjQ0MzcsNzg2Njg5MDkyLC0xMjAx
-NTYxMjEzLDEwMzQ2ODMzMjQsLTEwMTExODI5NjYsLTIxMzU3MD
-IyMjAsLTc3NjU4MDQyMyw3ODU3OTM0NDIsMTczMDIxMTQ1Niw3
-MTc3MzA2ODNdfQ==
+eyJoaXN0b3J5IjpbLTQ2NTc2NzEwMiw4NjM5NzU5MTQsLTIwMD
+k4NzE4MjQsLTIxMDY5NDA2NDYsOTcwMjk4MDgyLDExODg2MzY5
+NDEsLTE1MDQ1ODM4NzYsMTI2MTM3NzE2NywtMTMyMzI1NjI4NC
+wtMjAxMjY3MzU5NSwtNzU3MjY0NDM3LDc4NjY4OTA5MiwtMTIw
+MTU2MTIxMywxMDM0NjgzMzI0LC0xMDExMTgyOTY2LC0yMTM1Nz
+AyMjIwLC03NzY1ODA0MjMsNzg1NzkzNDQyLDE3MzAyMTE0NTYs
+NzE3NzMwNjgzXX0=
 -->
