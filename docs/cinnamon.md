@@ -78,8 +78,11 @@ Medicinal uses
 Ranasinghe (P.) 2013
 
 Modern distribution
-[https://www.cabi.org/isc/datasheet/13573](https://www.cabi.org/isc/datasheet/13573)
-bevat zeer veel relevante info, ook over historische introducties in andere gebieden, en wat geografische data
+CABI:
+https://www.cabi.org/isc/datasheet/13573
+Kew, Plants of the World Online
+http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1
+
 
 Kaneelhandel vandaag de dag
 http://www.worldstopexports.com/cinnamon-exporters/
@@ -88,11 +91,11 @@ http://www.worldstopexports.com/cinnamon-exporters/
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTgxMTM2NiwtMTc4MDY4NjQsLTE4ND
-k5MDg3MjgsLTM1MzkwMDc5MSwtMTU4MDc1MDE3OCwtMjE0MTU2
-NzY4MywxMjk5ODQ4Njg5LDEzMjE2ODIwMiw3MjA3MTg2ODcsNz
-I3MTg1MzAwLDg2Mzk3NTkxNCwtMjAwOTg3MTgyNCwtMjEwNjk0
-MDY0Niw5NzAyOTgwODIsMTE4ODYzNjk0MSwtMTUwNDU4Mzg3Ni
-wxMjYxMzc3MTY3LC0xMzIzMjU2Mjg0LC0yMDEyNjczNTk1LC03
-NTcyNjQ0MzddfQ==
+eyJoaXN0b3J5IjpbLTEzMDMzNTE1OTEsLTE3ODA2ODY0LC0xOD
+Q5OTA4NzI4LC0zNTM5MDA3OTEsLTE1ODA3NTAxNzgsLTIxNDE1
+Njc2ODMsMTI5OTg0ODY4OSwxMzIxNjgyMDIsNzIwNzE4Njg3LD
+cyNzE4NTMwMCw4NjM5NzU5MTQsLTIwMDk4NzE4MjQsLTIxMDY5
+NDA2NDYsOTcwMjk4MDgyLDExODg2MzY5NDEsLTE1MDQ1ODM4Nz
+YsMTI2MTM3NzE2NywtMTMyMzI1NjI4NCwtMjAxMjY3MzU5NSwt
+NzU3MjY0NDM3XX0=
 -->
