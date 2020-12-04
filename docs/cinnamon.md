@@ -25,6 +25,9 @@ Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri 
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1376,64,1625,119554,53,900,667">
 
+Biblical connotations
+	Duke (J.A.) 2008
+
 Dutch monopoly in Ceylon
 	- Economic development of harvesting, trade, and prices
 	Zwart (P.) 2016
@@ -47,6 +50,8 @@ Cinnamon in the Spanish (Atlantic) world
 	Bleichmar (D.) 2012 (Mutis)
 	Crawford (M.J.) 2016a.pdf (Mutis)
 	Delbourgo (J.) & Dew (N.) 2008a.pdf (art Safier over Pizzarro en Orellana, later Jussieu)
+	- Publishing cinnamon knowledge
+	Freedberg (D.) 2002.pdf
 
 Bleichmar (D.) 2012.pdf
 
@@ -55,11 +60,11 @@ Bleichmar (D.) 2012.pdf
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzA1NjkyMCw3MjcxODUzMDAsODYzOT
-c1OTE0LC0yMDA5ODcxODI0LC0yMTA2OTQwNjQ2LDk3MDI5ODA4
-MiwxMTg4NjM2OTQxLC0xNTA0NTgzODc2LDEyNjEzNzcxNjcsLT
-EzMjMyNTYyODQsLTIwMTI2NzM1OTUsLTc1NzI2NDQzNyw3ODY2
-ODkwOTIsLTEyMDE1NjEyMTMsMTAzNDY4MzMyNCwtMTAxMTE4Mj
-k2NiwtMjEzNTcwMjIyMCwtNzc2NTgwNDIzLDc4NTc5MzQ0Miwx
-NzMwMjExNDU2XX0=
+eyJoaXN0b3J5IjpbNTc3MDg0ODE2LDcyNzE4NTMwMCw4NjM5Nz
+U5MTQsLTIwMDk4NzE4MjQsLTIxMDY5NDA2NDYsOTcwMjk4MDgy
+LDExODg2MzY5NDEsLTE1MDQ1ODM4NzYsMTI2MTM3NzE2NywtMT
+MyMzI1NjI4NCwtMjAxMjY3MzU5NSwtNzU3MjY0NDM3LDc4NjY4
+OTA5MiwtMTIwMTU2MTIxMywxMDM0NjgzMzI0LC0xMDExMTgyOT
+Y2LC0yMTM1NzAyMjIwLC03NzY1ODA0MjMsNzg1NzkzNDQyLDE3
+MzAyMTE0NTZdfQ==
 -->
