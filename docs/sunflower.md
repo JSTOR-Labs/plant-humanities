@@ -174,7 +174,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q1334780" title="environmental degradation">
 <param ve-entity eid="Q219416" title="sustainability" aliases="sustainable">
 <param ve-entity eid="Q2336124" title="defamiliarization">
-As this essay has shown, visual representations of sunflowers have shaped and been shaped by the knowledges, myths, and meanings that artists and societies have attached to _Helianthus annus_ and _Helianthus_. By analyzing historical changes in such imagery, we become more attuned to some ways that art can illuminate human encounters with sunflowers as well as our own experiences with them. The sort of attentive regard that art demands, we must also extend to plants if we are to avert further environmental degradation. Just what is at stake for us and plants finds a visual corollary in this _memento mori_ by Van Gogh. In _Sunflowers_, from 1887, the artist shows two disembodied flower heads that have gone to seed and that defamiliarization of sunflower iconography prompts us to reconsider the value of such plants, which are no longer useful to us as seed crops or ornamentals. The floral remains—a barren pock-marked disk and desiccated yellow husk—may be read metaphorically as mournful reminders of the withered relationship of humans to nature concomitant with modernity. However, we may also read that imagery in a more positive light as an invitation to cultivate sustainable connections with plants that are not predicated on their usefulness to us.
+As this essay has shown, visual representations of sunflowers have shaped and been shaped by the knowledges, myths, and meanings that artists and societies have attached to _Helianthus annus_ and _Helianthus_. By analyzing historical changes in such imagery, we become more attuned to some ways that art can illuminate human encounters with sunflowers as well as our own experiences with them. The sort of attentive regard that art demands, we must also extend to plants if we are to avert further environmental degradation. Just what is at stake for us and plants finds a visual corollary in this _memento mori_ by Van Gogh. In _Sunflowers_, from 1887, the artist shows two disembodied flower heads that have gone to seed and that defamiliarization of sunflower iconography prompts us to reconsider the value of such plants, which are no longer useful to us as seed crops or ornamentals. The floral remains—a barren pock-marked disk and desiccated yellow husk—may be read metaphorically as mournful reminders of the withered relationship of humans to nature concomitant with modernity. However, we may also read that imagery in a more positive light as an invitation to cultivate sustainable connections with plants that are not predicated on their use values.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -228,7 +228,7 @@ As this essay has shown, visual representations of sunflowers have shaped and be
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTA0MzQ1OCw4NTg0MTIyNjAsLTE2NT
+eyJoaXN0b3J5IjpbMTAzMjMyODk0MSw4NTg0MTIyNjAsLTE2NT
 gwNTQzNDMsLTEzNjg1MDI0NzksMTA1ODkxMzI0MywxMTQwMTkx
 Mjg0LDQwNjg3Mzk3MCwtMjExNDI3NTQ2MiwtMTk0NDA4MTUsMT
 Q5OTMzNjQ3NCw0OTc1ODQxNzgsNDAzMjgzNTU4LC0xNjA0NDk5
