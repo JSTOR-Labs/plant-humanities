@@ -74,7 +74,8 @@ Cinnamon in the Spanish (Atlantic) world
 	- Elcano's coat of arms after the Magelhaes expedition
 	Guerra (F.) 1964
 	- Cinnamon production of the Philippines
-	sMallari (F.) 1974
+	Mallari (F.) 1974
+	see also http://www.theplantlist.org/tpl1.1/record/kew-2721453, because # _Cinnamomum_  _mindanaense_ is a synonym of _Cinnamomum_  _burmanni_
 	
 Medicinal uses
 Ranasinghe (P.) 2013
@@ -93,7 +94,7 @@ http://www.worldstopexports.com/cinnamon-exporters/
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTcwMjM4MCwtMTc4MDY4NjQsLTE4ND
+eyJoaXN0b3J5IjpbMTI2NzQ3OTY0OSwtMTc4MDY4NjQsLTE4ND
 k5MDg3MjgsLTM1MzkwMDc5MSwtMTU4MDc1MDE3OCwtMjE0MTU2
 NzY4MywxMjk5ODQ4Njg5LDEzMjE2ODIwMiw3MjA3MTg2ODcsNz
 I3MTg1MzAwLDg2Mzk3NTkxNCwtMjAwOTg3MTgyNCwtMjEwNjk0
