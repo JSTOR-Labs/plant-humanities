@@ -77,6 +77,7 @@ Cinnamon in the Spanish (Atlantic) world
 	Guerra (F.) 1964
 	- Cinnamon production of the Philippines
 	Mallari (F.) 1974
+	Bleichmar (D.) 2012 (pp.123-126)
 	see also http://www.theplantlist.org/tpl1.1/record/kew-2721453, because # _Cinnamomum_  _mindanaense_ is a synonym of _Cinnamomum_  _burmanni_
 
 Handel vóór de Portugezen
@@ -105,11 +106,11 @@ http://www.worldstopexports.com/cinnamon-exporters/
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODc4MDUyMiwtNjEzNDAwMDc2LC0xOT
-M4NzAzNzE0LDExOTgwODI3OTYsLTIwMjYyMTI3NDgsMTI2NzQ3
-OTY0OSwtMTc4MDY4NjQsLTE4NDk5MDg3MjgsLTM1MzkwMDc5MS
-wtMTU4MDc1MDE3OCwtMjE0MTU2NzY4MywxMjk5ODQ4Njg5LDEz
-MjE2ODIwMiw3MjA3MTg2ODcsNzI3MTg1MzAwLDg2Mzk3NTkxNC
-wtMjAwOTg3MTgyNCwtMjEwNjk0MDY0Niw5NzAyOTgwODIsMTE4
-ODYzNjk0MV19
+eyJoaXN0b3J5IjpbLTE3ODM4MjUzNzgsMTYwODc4MDUyMiwtNj
+EzNDAwMDc2LC0xOTM4NzAzNzE0LDExOTgwODI3OTYsLTIwMjYy
+MTI3NDgsMTI2NzQ3OTY0OSwtMTc4MDY4NjQsLTE4NDk5MDg3Mj
+gsLTM1MzkwMDc5MSwtMTU4MDc1MDE3OCwtMjE0MTU2NzY4Mywx
+Mjk5ODQ4Njg5LDEzMjE2ODIwMiw3MjA3MTg2ODcsNzI3MTg1Mz
+AwLDg2Mzk3NTkxNCwtMjAwOTg3MTgyNCwtMjEwNjk0MDY0Niw5
+NzAyOTgwODJdfQ==
 -->
