@@ -146,7 +146,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q48292" title="Arles">
 <param ve-entity eid="Q90" title="Paris">
 In the later-nineteenth century, many European painters embraced the genre of still life to explore the expressive capacities of paint, plants, and floral forms. Indeed, Vincent van Gogh cultivated a signature style of representing domesticated sunflowers that greatly emphasizes color .In this 1888 painting, entitled _Sunflowers_, he uses a range of intense yellows to depict an arrangement of more than a dozen blooms. The disparate hues and shapes of their radiant ocher, mustard, and golden-orange flower heads indicate that two different types of cultivated _Helianthus annuus_ are portrayed here and that they were harvested at different stages of their life cycles. The sunflowers, at top left and center, have shed ray florets and started to wilt, whereas many of their plush counterparts—a double-flowered variety known as the "Teddy Bear"—are still vibrant.[^ref21] Van Gogh painted these sunflowers directly from life during the summer of 1888, after moving from Paris to Arles the previous winter.[^ref22] We can therefore read his gold palette as metaphorically evoking the bright warm light of southern France that nurtured his painting practice and the growth of the sunflowers shown here.
-<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
+<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg/805px-Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," Kor!An (Корзун Андрей), Wikimedia Commons">
 
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
@@ -230,11 +230,11 @@ Sunflower imagery produced by artists in Europe has shaped and been shaped by kn
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDE5MTI4NCw0MDY4NzM5NzAsLTIxMT
-QyNzU0NjIsLTE5NDQwODE1LDE0OTkzMzY0NzQsNDk3NTg0MTc4
-LDQwMzI4MzU1OCwtMTYwNDQ5OTA4MywyMDU2MDYwNDgsMjA0ND
-QwNjU2MywtMTc4MzEwMzU0LC0xMDE5NzUyNjgyLC0xMDE5NzUy
-NjgyLC0xMzA1MTY1NTI3LC0yMDk4NTA4NzA5LC04NTcwNzUzNj
-IsLTEzOTU1NzcxOTIsMTEwNTg2MDY5MiwxNTUwOTYzMDQyLC0x
-MTYxMTAwODE5XX0=
+eyJoaXN0b3J5IjpbMTA1ODkxMzI0MywxMTQwMTkxMjg0LDQwNj
+g3Mzk3MCwtMjExNDI3NTQ2MiwtMTk0NDA4MTUsMTQ5OTMzNjQ3
+NCw0OTc1ODQxNzgsNDAzMjgzNTU4LC0xNjA0NDk5MDgzLDIwNT
+YwNjA0OCwyMDQ0NDA2NTYzLC0xNzgzMTAzNTQsLTEwMTk3NTI2
+ODIsLTEwMTk3NTI2ODIsLTEzMDUxNjU1MjcsLTIwOTg1MDg3MD
+ksLTg1NzA3NTM2MiwtMTM5NTU3NzE5MiwxMTA1ODYwNjkyLDE1
+NTA5NjMwNDJdfQ==
 -->
