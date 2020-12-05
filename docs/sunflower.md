@@ -42,7 +42,7 @@ The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ 
 <param ve-entity eid="Q46" title="Europe">
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
 <param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
-In the sixteenth century, Europeans were eager to collect plants from the Americas. They highly valued both living organisms and plant materials for their medicinal and culinary properties, while also prizing them as foreign curiosities, status symbols, and trophies bound up with imperialist and colonialist projects. The Spanish were likely the first Europeans to transport the domesticated sunflower from North America to Spain, though questions persist about who collected such live plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” we can use verbal and visual descriptions of the plant in early printed books to chart its introduction to Spain and other parts of Europe. It is worth noting that such books are not always reliable and should be consulted alongside correspondence, inventories, auction records, herbarium specimens, and other forms of evidence.
+The Spanish were likely the first Europeans to transport the domesticated sunflower from North America to Spain, though questions persist about who collected such live plants or seeds, and when and from where they did so.[^ref4] In the absence of more definitive evidence about their harvesting of _Helianthus annuus_, an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” we can use verbal and visual descriptions of the plant in early printed books to chart its introduction to Spain and other parts of Europe. It is worth noting that such books are not always reliable and should be consulted alongside correspondence, inventories, auction records, herbarium specimens, and other forms of evidence.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 <param ve-entity eid="Q476033" title="Low Countries">
@@ -229,11 +229,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5NTc4NDc4LC0xNjY5NTU0ODc0LC01OD
-Q1MjY4MjgsLTMzMDU3NzA1Niw4NjcxMjkwNiwtMzI4MzA1NDc3
-LC0xNzUxOTM1NTE4LDE3NTQwMzAzODksNzY2Mzc4NTQ2LC0xOD
-gzNjc5MjAzLC0xODgzNjc5MjAzLC0xOTcyNTMzODMyLDE2ODEw
-NDM0NTgsODU4NDEyMjYwLC0xNjU4MDU0MzQzLC0xMzY4NTAyND
-c5LDEwNTg5MTMyNDMsMTE0MDE5MTI4NCw0MDY4NzM5NzAsLTIx
-MTQyNzU0NjJdfQ==
+eyJoaXN0b3J5IjpbNDY3NDM5MDAzLDIyOTU3ODQ3OCwtMTY2OT
+U1NDg3NCwtNTg0NTI2ODI4LC0zMzA1NzcwNTYsODY3MTI5MDYs
+LTMyODMwNTQ3NywtMTc1MTkzNTUxOCwxNzU0MDMwMzg5LDc2Nj
+M3ODU0NiwtMTg4MzY3OTIwMywtMTg4MzY3OTIwMywtMTk3MjUz
+MzgzMiwxNjgxMDQzNDU4LDg1ODQxMjI2MCwtMTY1ODA1NDM0My
+wtMTM2ODUwMjQ3OSwxMDU4OTEzMjQzLDExNDAxOTEyODQsNDA2
+ODczOTcwXX0=
 -->
