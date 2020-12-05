@@ -175,7 +175,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q1334780" title="environmental degradation">
 <param ve-entity eid="Q219416" title="sustainability" aliases="sustainable">
 <param ve-entity eid="Q2336124" title="defamiliarization">
-Visual representations of sunflowers have shaped and been shaped by human interactions with them. By analyzing such imagery, we can become more attuned to the significance of human encounters with sunflowers and our own engagements with the plant. That kind of attentive regard for plants is essential if we are to enter into sustainable relationships with them and prevent forms of environmental degradation that have affected them directly. Van Gogh’s 1887 painting, entitled _Sunflowers_, reminds us just what is at stake. This [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori)  shows two cut flower heads that have gone to seed—<span data-click-image-zoomto="819,696,1798,1533">a dried disk with exposed kernels</span> nestles up against <span data-click-image-zoomto="2097,480,1798,1533">a desiccated yellow husk</span>—resting on a somber blue ground. The artist’s defamiliarization of traditional<span data-click-image-zoomto="151,-153,3595,3065">sunflower iconography</span> is profoundly unsettling because it refutes deeply held cultural beliefs that plants are an infinitely replenishable natural resources. To be sure, we can read the floral remains in Van Gogh’s picture as mournful reminders of our withered relationship to nature; however, it would be more productive to interpret the sunflower imagery in a positive light, as an invitation to cultivate connections with plants that attend to the intrinsic values of such organisms and the emotive aspects of their life cycles.
+Visual representations of sunflowers have shaped and been shaped by human interactions with them. By analyzing such imagery, we can become more attuned to the significance of human encounters with sunflowers and our own engagements with the plant. That kind of attentive regard for plants is essential if we are to enter into sustainable relationships with them and prevent forms of environmental degradation that have affected them directly. Van Gogh’s 1887 painting, entitled _Sunflowers_, reminds us just what is at stake. This [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori)  shows two cut flower heads that have gone to seed—<span data-click-image-zoomto="819,696,1798,1533">a dried disk with exposed kernels</span> nestles up against <span data-click-image-zoomto="2097,480,1798,1533">a desiccated yellow husk</span>—resting on a somber blue ground. The artist’s defamiliarization of traditional<span data-click-image-zoomto="151,-153,3595,3065">sunflower iconography</span> is profoundly unsettling because it refutes deeply held cultural beliefs that plants are an infinitely replenishable natural resources. To be sure, we can read the floral remains in Van Gogh’s picture as mournful reminders of our withered relationship to nature; however, it is more productive to interpret the sunflower imagery in a positive light, as an invitation to cultivate connections with plants that attend to the intrinsic values of such organisms and the emotive aspects of their life cycles.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -229,11 +229,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5NjczMzIxLDEzMjU5NzQ3NDQsLTEwNT
-QzMzM0MjYsMTY1NTY2NzkwLC03NDc4NTYwMDUsLTEwMDQzOTQx
-MDAsLTU1ODU3MDk0MywxMzQxOTU0OTk2LDExNjczMjI0MzYsMj
-AzMzUzNTg4NywtMTU2MTc5NjU2Nyw0Njc0MzkwMDMsMjI5NTc4
-NDc4LC0xNjY5NTU0ODc0LC01ODQ1MjY4MjgsLTMzMDU3NzA1Ni
-w4NjcxMjkwNiwtMzI4MzA1NDc3LC0xNzUxOTM1NTE4LDE3NTQw
-MzAzODldfQ==
+eyJoaXN0b3J5IjpbLTIwNjA2OTYzMzksMTMyNTk3NDc0NCwtMT
+A1NDMzMzQyNiwxNjU1NjY3OTAsLTc0Nzg1NjAwNSwtMTAwNDM5
+NDEwMCwtNTU4NTcwOTQzLDEzNDE5NTQ5OTYsMTE2NzMyMjQzNi
+wyMDMzNTM1ODg3LC0xNTYxNzk2NTY3LDQ2NzQzOTAwMywyMjk1
+Nzg0NzgsLTE2Njk1NTQ4NzQsLTU4NDUyNjgyOCwtMzMwNTc3MD
+U2LDg2NzEyOTA2LC0zMjgzMDU0NzcsLTE3NTE5MzU1MTgsMTc1
+NDAzMDM4OV19
 -->
