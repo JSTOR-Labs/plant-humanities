@@ -22,7 +22,7 @@ Yet, as this botanical illustration reminds us, _Helianthus annuus_ also has an 
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 <param ve-entity eid="Q861716" title="visual culture">
-Sunflower imagery can provide rich historical information about the genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_ and the roles of visual culture in communicating knowledges, myths, and meanings related to plants. Artists working in Europe and North America from the colonial to the modern period, produced likenesses of the sunflower that served aesthetic, imperial, scientific, commercial, and other functions. In doing so, they developed conventions for representing specific characteristics of sunflowers that were tailored to those aims. By tracking changes in that [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) over time, we can learn about the historical significance of sunflowers in specific temporal and geographic contexts, as well as shifts in the ways that humans have represented, encountered, used, studied, and valued them. Through that practice of close visual analysis, that engaging with artworks necessarily involves, we also cultivate a greater attentiveness to bring to our encounters with the plant world.
+Sunflower imagery can provide rich historical information about the plant and the roles of visual culture in communicating knowledges, myths, and meanings related to it. Artists working in Europe and North America from the colonial to the modern period, produced likenesses of the sunflower that served aesthetic, imperial, scientific, commercial, and other functions. In doing so, they developed conventions for representing specific characteristics of sunflowers that were tailored to those aims. By tracking changes in that [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) over time, we can learn about the historical significance of sunflowers in specific temporal and geographic contexts, as well as shifts in the ways that humans have represented, encountered, used, studied, and valued them. Through that practice of close visual analysis, that engaging with artworks necessarily involves, we also cultivate a greater attentiveness to bring to our encounters with the plant world.
 <param ve-image layers url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
 <param ve-image url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
@@ -31,7 +31,7 @@ Sunflower imagery can provide rich historical information about the genus _[Heli
 
 <param ve-entity eid="Q10432667306" title="Carl Linnaeus" aliases="Carolus Linnaeus">
 <param ve-entity eid="Q66425303" title="iconic">
-The genus _Helianthus_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—and the species _Helianthus annuus_ were named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the plant was already a beloved garden flower in Europe.[^ref2] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant, in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_ (1737), offers some insights. He asks, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?”[^ref3] His encomium on the splendor of a mature _Helianthus_ inflorescence and its formal resemblance to the sun demonstrates some traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
+The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—and the species _Helianthus annuus_ were named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the plant was already a beloved garden flower in Europe.[^ref2] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant, in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_ (1737), offers some insights. He asks, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?”[^ref3] His encomium on the splendor of a mature _Helianthus_ inflorescence and its formal resemblance to the sun demonstrates some traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
 <param ve-image primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, _Critica botanica_, Lugduni Batavorum: Apud Conradum Wishoff, 1737, 97 © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, _Critica botanica_, Lugduni Batavorum: Apud Conradum Wishoff, 1737, 98 © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
@@ -229,11 +229,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTU1MzE3OCwtMjEyODk2NjQ4MCwxMz
-I1OTc0NzQ0LC0xMDU0MzMzNDI2LDE2NTU2Njc5MCwtNzQ3ODU2
-MDA1LC0xMDA0Mzk0MTAwLC01NTg1NzA5NDMsMTM0MTk1NDk5Ni
-wxMTY3MzIyNDM2LDIwMzM1MzU4ODcsLTE1NjE3OTY1NjcsNDY3
-NDM5MDAzLDIyOTU3ODQ3OCwtMTY2OTU1NDg3NCwtNTg0NTI2OD
-I4LC0zMzA1NzcwNTYsODY3MTI5MDYsLTMyODMwNTQ3NywtMTc1
-MTkzNTUxOF19
+eyJoaXN0b3J5IjpbNjM5NDExNDkwLC0yMTI4OTY2NDgwLDEzMj
+U5NzQ3NDQsLTEwNTQzMzM0MjYsMTY1NTY2NzkwLC03NDc4NTYw
+MDUsLTEwMDQzOTQxMDAsLTU1ODU3MDk0MywxMzQxOTU0OTk2LD
+ExNjczMjI0MzYsMjAzMzUzNTg4NywtMTU2MTc5NjU2Nyw0Njc0
+MzkwMDMsMjI5NTc4NDc4LC0xNjY5NTU0ODc0LC01ODQ1MjY4Mj
+gsLTMzMDU3NzA1Niw4NjcxMjkwNiwtMzI4MzA1NDc3LC0xNzUx
+OTM1NTE4XX0=
 -->
