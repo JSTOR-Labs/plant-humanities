@@ -48,7 +48,7 @@ The Spanish were likely the first Europeans to transport the domesticated sunflo
 <param ve-entity eid="Q476033" title="Low Countries">
 <param ve-entity eid="Q38" title="Italy">
 <param ve-entity eid="Q181916" title="herbarium">
-Once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries via transregional trade routes.[^ref5] Networks of wealthy and privileged Europeans, most of who were men, exchanged plant materials for cultivating _Helianthus annuus_ and instructions for doing so in letters and drawings. This model visualizes some connections among a group of proto botanists, patrons, publishers, artists, and members of royal courts who, through their epistolary and direct interactions, exchanged information about the cultivated sunflower that was published in herbals and florilegia during the 1560s and 1570s.
+Once introduced to Spain, according to early printed books,the domesticated sunflower quickly migrated to parts of Italy and the Low Countries via transregional trade routes.[^ref5] Networks of wealthy and privileged Europeans, most of who were men, exchanged plant materials for cultivating _Helianthus annuus_ and instructions for doing so in letters and drawings. This model visualizes some connections among a group of proto botanists, patrons, publishers, artists, and members of royal courts who, through their epistolary and direct interactions, exchanged information about the cultivated sunflower that was published in herbals and florilegia during the 1560s and 1570s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="PROTO BOTANIST">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -229,11 +229,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE3OTY1NjcsNDY3NDM5MDAzLDIyOT
-U3ODQ3OCwtMTY2OTU1NDg3NCwtNTg0NTI2ODI4LC0zMzA1Nzcw
-NTYsODY3MTI5MDYsLTMyODMwNTQ3NywtMTc1MTkzNTUxOCwxNz
-U0MDMwMzg5LDc2NjM3ODU0NiwtMTg4MzY3OTIwMywtMTg4MzY3
-OTIwMywtMTk3MjUzMzgzMiwxNjgxMDQzNDU4LDg1ODQxMjI2MC
-wtMTY1ODA1NDM0MywtMTM2ODUwMjQ3OSwxMDU4OTEzMjQzLDEx
-NDAxOTEyODRdfQ==
+eyJoaXN0b3J5IjpbLTE1ODEyMzUyOTksLTE1NjE3OTY1NjcsND
+Y3NDM5MDAzLDIyOTU3ODQ3OCwtMTY2OTU1NDg3NCwtNTg0NTI2
+ODI4LC0zMzA1NzcwNTYsODY3MTI5MDYsLTMyODMwNTQ3NywtMT
+c1MTkzNTUxOCwxNzU0MDMwMzg5LDc2NjM3ODU0NiwtMTg4MzY3
+OTIwMywtMTg4MzY3OTIwMywtMTk3MjUzMzgzMiwxNjgxMDQzND
+U4LDg1ODQxMjI2MCwtMTY1ODA1NDM0MywtMTM2ODUwMjQ3OSwx
+MDU4OTEzMjQzXX0=
 -->
