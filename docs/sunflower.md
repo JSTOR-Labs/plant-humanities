@@ -42,7 +42,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q46" title="Europe">
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
 <param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
-The Spanish were likely the first Europeans to transport the domesticated sunflower from North America to Spain during the sixteenth century.[^ref4] However, questions persist about who collected such specimens or seeds, and when and from where they did so—an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism).” In the absence of further evidence about such harvesting of sunflowers, we must largely rely on verbal and visual descriptions of the plant from early printed books to chart its introduction to Spain and other parts of Europe. Because such accounts are not always reliable, it is important to verify their information whenever possible by consulting correspondence, inventories, auction records, herbarium specimens, and other forms of evidence.
+The Spanish were likely the first Europeans to transport the domesticated sunflower from North America to Spain during the sixteenth century.[^ref4] However, questions persist about who collected such specimens or seeds, and when and from where they did so—an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism).” In the absence of further evidence about that harvesting of sunflowers, we must largely rely on verbal and visual descriptions of the plant from early printed books to chart its introduction to Spain and other parts of Europe. Because such accounts are not always reliable, and told from a Eurocentric perspective, it is important to assess the accuracy of their claims by consulting maps, drawings, correspondence, inventories, auction records, herbarium specimens, and oral and linguistic evidence.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 <param ve-entity eid="Q476033" title="Low Countries">
@@ -229,11 +229,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjU3NDg5MywtMTY3MTU1NTkzMiwtMT
-g0NTM2MTMzNywtNTEwMzgzODUzLDcyNDM3NTEwMSwtODA5ODg5
-MTA4LDExOTMwNjAyMDEsNTg4ODk3MDQzLC04MDkzNTQ3NzAsLT
-IwODQ2OTAwMTUsNjM5NDExNDkwLC0yMTI4OTY2NDgwLDEzMjU5
-NzQ3NDQsLTEwNTQzMzM0MjYsMTY1NTY2NzkwLC03NDc4NTYwMD
-UsLTEwMDQzOTQxMDAsLTU1ODU3MDk0MywxMzQxOTU0OTk2LDEx
-NjczMjI0MzZdfQ==
+eyJoaXN0b3J5IjpbMTczNzUwMzkzLC00NjI1NzQ4OTMsLTE2Nz
+E1NTU5MzIsLTE4NDUzNjEzMzcsLTUxMDM4Mzg1Myw3MjQzNzUx
+MDEsLTgwOTg4OTEwOCwxMTkzMDYwMjAxLDU4ODg5NzA0MywtOD
+A5MzU0NzcwLC0yMDg0NjkwMDE1LDYzOTQxMTQ5MCwtMjEyODk2
+NjQ4MCwxMzI1OTc0NzQ0LC0xMDU0MzMzNDI2LDE2NTU2Njc5MC
+wtNzQ3ODU2MDA1LC0xMDA0Mzk0MTAwLC01NTg1NzA5NDMsMTM0
+MTk1NDk5Nl19
 -->
