@@ -42,7 +42,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q46" title="Europe">
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
 <param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
-The Spanish were likely the first Europeans to transport the domesticated sunflower from North America to Spain during the sixteenth century.[^ref4] However, questions persist about who collected such specimens or seeds, and when and from where they did so—an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism).” In the absence of further evidence about the harvesting and overseas transport of sunflowers, we must largely rely on verbal and visual descriptions of the plant from books to chart its introduction to Spain and other parts of Europe. Because such accounts are not always reliable, and generally authored from a Eurocentric perspective, it is important to consult a broad variety of sources to reconstruct a fuller picture of plant histories and those, namely Indigenous and enslaved persons, who have been omitted from them.
+The Spanish were likely the first Europeans to transport the domesticated sunflower from North America to Spain during the sixteenth century.[^ref4] However, questions persist about who collected such specimens or seeds, and when and from where they did so—an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism).” In the absence of further evidence about the harvesting and transoceanic movement of sunflowers, we must largely rely on verbal and visual descriptions of the plant from books to chart its introduction to Spain and other parts of Europe. Because such accounts are not always reliable, and generally authored from a Eurocentric perspective, it is important to consult a broad range of sources to reconstruct a fuller picture of plant histories and those, namely Indigenous and enslaved persons, who have been traditionally omitted from them.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 <param ve-entity eid="Q476033" title="Low Countries">
@@ -229,11 +229,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2Njc0Mjg2LDg0MDM3NTg5MywtNDYyNT
-c0ODkzLC0xNjcxNTU1OTMyLC0xODQ1MzYxMzM3LC01MTAzODM4
-NTMsNzI0Mzc1MTAxLC04MDk4ODkxMDgsMTE5MzA2MDIwMSw1OD
-g4OTcwNDMsLTgwOTM1NDc3MCwtMjA4NDY5MDAxNSw2Mzk0MTE0
-OTAsLTIxMjg5NjY0ODAsMTMyNTk3NDc0NCwtMTA1NDMzMzQyNi
-wxNjU1NjY3OTAsLTc0Nzg1NjAwNSwtMTAwNDM5NDEwMCwtNTU4
-NTcwOTQzXX0=
+eyJoaXN0b3J5IjpbLTEyNDUwODAyMjcsODI2Njc0Mjg2LDg0MD
+M3NTg5MywtNDYyNTc0ODkzLC0xNjcxNTU1OTMyLC0xODQ1MzYx
+MzM3LC01MTAzODM4NTMsNzI0Mzc1MTAxLC04MDk4ODkxMDgsMT
+E5MzA2MDIwMSw1ODg4OTcwNDMsLTgwOTM1NDc3MCwtMjA4NDY5
+MDAxNSw2Mzk0MTE0OTAsLTIxMjg5NjY0ODAsMTMyNTk3NDc0NC
+wtMTA1NDMzMzQyNiwxNjU1NjY3OTAsLTc0Nzg1NjAwNSwtMTAw
+NDM5NDEwMF19
 -->
