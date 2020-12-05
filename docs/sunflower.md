@@ -167,7 +167,8 @@ their flowers' color can range from gold to orange to red to dark purple and eve
 <param ve-entity eid="Q14524280" title="husk">
 <param ve-entity eid="Q40763" title="seed">
 Sunflower seeds also exhibit variations in size, color, and markings. Whole seeds–comprised of a kernel and a husk–can be solid black or gray and have a stripe pattern. The Hopi tribe of Native Americans have cultivated sunflowers with deep purple seeds, that appear black and shiny, in the southwest for hundreds of years.[^ref23] They use these seeds to produce dark blue or purple dyes for coloring wools and vegetal fibers that are in turn used to make [weavings or baskets](https://scalar.usc.edu/works/american-indian-film-archive/hopi-arts-and-crafts?path=hopi-southwest-indians). The processes of cultivating, harvesting, and boiling seeds to produce dye for basketry are examples of a rich tradition of tribal plant knowledge that is interwoven with cultural and spiritual beliefs. Indigenous peoples of North America also [use(d) sunflowers in a variety of ways](http://naeb.brit.org/uses/search/?string=sunflower) including as a source of food, fuel, pigment, and medicine, as well as ceremonially.
-<param ve-image fit="contain" primary url="https://www.human.cornell.edu/sites/default/files/styles/landscape_1600x900/public/helianthus-annuus-1.jpg?itok=5KVpk_8q" title="Hopi Sunflower _Helianthus Annuus_, seeds produce blue, black, and purple dye and the leaves give a range of yellow to green, College of Human Ecology, Cornell University">
+<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sunflower_Seeds_Kaldari.jpg/1024px-Sunflower_Seeds_Kaldari.jpg" title="Sunflower seeds, hulled (achene) and dehulled, ">
+<param ve-image fit="contain" url="https://www.human.cornell.edu/sites/default/files/styles/landscape_1600x900/public/helianthus-annuus-1.jpg?itok=5KVpk_8q" title="Hopi Sunflower _Helianthus Annuus_, seeds produce blue, black, and purple dye and the leaves give a range of yellow to green, College of Human Ecology, Cornell University">
 
 ### Gone to Seed
 
@@ -229,11 +230,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5NDExNDkwLC0yMTI4OTY2NDgwLDEzMj
-U5NzQ3NDQsLTEwNTQzMzM0MjYsMTY1NTY2NzkwLC03NDc4NTYw
-MDUsLTEwMDQzOTQxMDAsLTU1ODU3MDk0MywxMzQxOTU0OTk2LD
-ExNjczMjI0MzYsMjAzMzUzNTg4NywtMTU2MTc5NjU2Nyw0Njc0
-MzkwMDMsMjI5NTc4NDc4LC0xNjY5NTU0ODc0LC01ODQ1MjY4Mj
-gsLTMzMDU3NzA1Niw4NjcxMjkwNiwtMzI4MzA1NDc3LC0xNzUx
-OTM1NTE4XX0=
+eyJoaXN0b3J5IjpbMjA1Njk1NjA1MCw2Mzk0MTE0OTAsLTIxMj
+g5NjY0ODAsMTMyNTk3NDc0NCwtMTA1NDMzMzQyNiwxNjU1NjY3
+OTAsLTc0Nzg1NjAwNSwtMTAwNDM5NDEwMCwtNTU4NTcwOTQzLD
+EzNDE5NTQ5OTYsMTE2NzMyMjQzNiwyMDMzNTM1ODg3LC0xNTYx
+Nzk2NTY3LDQ2NzQzOTAwMywyMjk1Nzg0NzgsLTE2Njk1NTQ4Nz
+QsLTU4NDUyNjgyOCwtMzMwNTc3MDU2LDg2NzEyOTA2LC0zMjgz
+MDU0NzddfQ==
 -->
