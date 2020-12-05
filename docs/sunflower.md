@@ -77,7 +77,7 @@ The migration of sunflower iconography from Besler’s _Hortus Eystettensis_  to
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
-Although modern-day botanists consulted herbals and other historical evidence to chart the movement of cultivated _Helianthus annuus_, they also revolutionized the field by using distribution maps and fossilized remains to study the origins of the plant.[^ref9] The earliest known cultivated sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
+Since the 1940s, botanists have consulted herbals and other historical evidence along with distribution maps and fossilized remains in order to study the origins of cultivated _Helianthus annuus_.[^ref9] The earliest known cultivated sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
@@ -229,11 +229,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzMyMjQzNiwyMDMzNTM1ODg3LC0xNT
-YxNzk2NTY3LDQ2NzQzOTAwMywyMjk1Nzg0NzgsLTE2Njk1NTQ4
-NzQsLTU4NDUyNjgyOCwtMzMwNTc3MDU2LDg2NzEyOTA2LC0zMj
-gzMDU0NzcsLTE3NTE5MzU1MTgsMTc1NDAzMDM4OSw3NjYzNzg1
-NDYsLTE4ODM2NzkyMDMsLTE4ODM2NzkyMDMsLTE5NzI1MzM4Mz
-IsMTY4MTA0MzQ1OCw4NTg0MTIyNjAsLTE2NTgwNTQzNDMsLTEz
-Njg1MDI0NzldfQ==
+eyJoaXN0b3J5IjpbMTI4NjkxODA0NiwxMTY3MzIyNDM2LDIwMz
+M1MzU4ODcsLTE1NjE3OTY1NjcsNDY3NDM5MDAzLDIyOTU3ODQ3
+OCwtMTY2OTU1NDg3NCwtNTg0NTI2ODI4LC0zMzA1NzcwNTYsOD
+Y3MTI5MDYsLTMyODMwNTQ3NywtMTc1MTkzNTUxOCwxNzU0MDMw
+Mzg5LDc2NjM3ODU0NiwtMTg4MzY3OTIwMywtMTg4MzY3OTIwMy
+wtMTk3MjUzMzgzMiwxNjgxMDQzNDU4LDg1ODQxMjI2MCwtMTY1
+ODA1NDM0M119
 -->
