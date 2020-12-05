@@ -175,7 +175,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q1334780" title="environmental degradation">
 <param ve-entity eid="Q219416" title="sustainability" aliases="sustainable">
 <param ve-entity eid="Q2336124" title="defamiliarization">
-Visual representations of sunflowers have shaped and been shaped by human interactions with them. By analyzing such imagery, we can become more attuned to the significance of human encounters with sunflowers and our own engagements with the plant. That kind of attentive regard for plants is essential if we are to enter into sustainable relationships with them and prevent forms of environmental degradation that have affected them directly. Van Gogh’s 1887 painting, entitled _Sunflowers_, reminds us just what is at stake. This [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori)  shows two cut flower heads that have gone to seed—<span data-click-image-zoomto="819,696,1798,1533">a dried disk with exposed kernels</span> nestles up against <span data-click-image-zoomto="2097,480,1798,1533">a desiccated yellow husk</span>, both rest on a somber though <span data-click-image-zoomto="151,-153,3595,3065">tactile blue ground</span>. The artist’s defamiliarization of sunflower iconography unsettles our tendency to assume that plants are infinitely replenishable. For that reason, we can read the floral remains as a mournful reminder of our withered or exploitative relationship to nature, although it would be more productive to interpret them in a positive light, as an invitation to cultivate connections to plants that attend to their intrinsic values as living organisms.
+Visual representations of sunflowers have shaped and been shaped by human interactions with them. By analyzing such imagery, we can become more attuned to the significance of human encounters with sunflowers and our own engagements with the plant. That kind of attentive regard for plants is essential if we are to enter into sustainable relationships with them and prevent forms of environmental degradation that have affected them directly. Van Gogh’s 1887 painting, entitled _Sunflowers_, reminds us just what is at stake. This [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori)  shows two cut flower heads that have gone to seed—<span data-click-image-zoomto="819,696,1798,1533">a dried disk with exposed kernels</span> nestles up against <span data-click-image-zoomto="2097,480,1798,1533">a desiccated yellow husk</span>—resting on a somber blue ground. The artist’s defamiliarization of <span data-click-image-zoomto="151,-153,3595,3065">sunflower iconography</span> unsettles our tendency to assume that plants are infinitely replenishable. For that reason, we can read the floral remains as a mournful reminder of our withered or exploitative relationship to nature, although it would be more productive to interpret them in a positive light, as an invitation to cultivate connections to plants that attend to their intrinsic values as living organisms.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -229,11 +229,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTY2NzkwLC03NDc4NTYwMDUsLTEwMD
-QzOTQxMDAsLTU1ODU3MDk0MywxMzQxOTU0OTk2LDExNjczMjI0
-MzYsMjAzMzUzNTg4NywtMTU2MTc5NjU2Nyw0Njc0MzkwMDMsMj
-I5NTc4NDc4LC0xNjY5NTU0ODc0LC01ODQ1MjY4MjgsLTMzMDU3
-NzA1Niw4NjcxMjkwNiwtMzI4MzA1NDc3LC0xNzUxOTM1NTE4LD
-E3NTQwMzAzODksNzY2Mzc4NTQ2LC0xODgzNjc5MjAzLC0xODgz
-Njc5MjAzXX0=
+eyJoaXN0b3J5IjpbLTU0NTMxODU1MiwxNjU1NjY3OTAsLTc0Nz
+g1NjAwNSwtMTAwNDM5NDEwMCwtNTU4NTcwOTQzLDEzNDE5NTQ5
+OTYsMTE2NzMyMjQzNiwyMDMzNTM1ODg3LC0xNTYxNzk2NTY3LD
+Q2NzQzOTAwMywyMjk1Nzg0NzgsLTE2Njk1NTQ4NzQsLTU4NDUy
+NjgyOCwtMzMwNTc3MDU2LDg2NzEyOTA2LC0zMjgzMDU0NzcsLT
+E3NTE5MzU1MTgsMTc1NDAzMDM4OSw3NjYzNzg1NDYsLTE4ODM2
+NzkyMDNdfQ==
 -->
