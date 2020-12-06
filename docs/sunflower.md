@@ -48,6 +48,8 @@ Domesticated _Helianthus annuus_ was first introduced to Europe, probably by the
 <param ve-entity eid="Q29" title="Spain">
 <param ve-entity eid="Q38" title="Italy">
 <param ve-entity eid="Q181916" title="herbarium">
+<param ve-entity eid="Q457191" title="Pietro Andrea Mattioli">
+<param ve-entity eid="Q437466" title="Rembert Dodoens">
 Once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries via transregional trade routes.[^ref5] Networks of wealthy and privileged Europeans, most of who were men, exchanged plant materials for cultivating _Helianthus annuus_ and instructions for doing so in letters and drawings. This model visualizes some connections among a group of proto botanists, patrons, publishers, artists, and members of royal courts who, through their epistolary and direct interactions, exchanged information about the cultivated sunflower that was published in herbals and florilegia during the 1560s and 1570s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="PROTO BOTANIST">
 
@@ -229,11 +231,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk3NTg4NjgsMTQ5ODg3NDg5LC04Mj
-A3OTM4MTAsLTIxMjU1NDg0MzAsLTE4MjQxNzg0ODEsLTc3ODQz
-MzYwNiwtMTY1NDAyMDQ2NiwtNzI1ODMzNDg2LDgyNjY3NDI4Ni
-w4NDAzNzU4OTMsLTQ2MjU3NDg5MywtMTY3MTU1NTkzMiwtMTg0
-NTM2MTMzNywtNTEwMzgzODUzLDcyNDM3NTEwMSwtODA5ODg5MT
-A4LDExOTMwNjAyMDEsNTg4ODk3MDQzLC04MDkzNTQ3NzAsLTIw
-ODQ2OTAwMTVdfQ==
+eyJoaXN0b3J5IjpbMjA3NjQ5NzE3LC0xNzY5NzU4ODY4LDE0OT
+g4NzQ4OSwtODIwNzkzODEwLC0yMTI1NTQ4NDMwLC0xODI0MTc4
+NDgxLC03Nzg0MzM2MDYsLTE2NTQwMjA0NjYsLTcyNTgzMzQ4Ni
+w4MjY2NzQyODYsODQwMzc1ODkzLC00NjI1NzQ4OTMsLTE2NzE1
+NTU5MzIsLTE4NDUzNjEzMzcsLTUxMDM4Mzg1Myw3MjQzNzUxMD
+EsLTgwOTg4OTEwOCwxMTkzMDYwMjAxLDU4ODg5NzA0MywtODA5
+MzU0NzcwXX0=
 -->
