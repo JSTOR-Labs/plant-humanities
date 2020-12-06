@@ -108,7 +108,7 @@ By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Collaert_Rijksmuseum_RP-P-BI-5997.jpg" title="Adriaen Collaert, _Sunflower and other flowers_, from _Florilegium_, 1570-before 1618, Rijksmuseum">
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Vianen_Rijksmuseum_RP-P-1908-3593.jpg" title="Jan van Vianen, _Emblemes d'Amour_ (Emblems of Love), 1686, Rijksmuseum">
 
-<param ve-entity eid="Q158082" title="heliotropium">
+<param ve-entity eid="Q158082" title="Heliotropium">
 <param ve-entity eid="Q147281" title="Calendula">
 <param ve-entity eid="Q134270" title="Helios">
 <param ve-entity eid="Q866674" title="Clytie">
@@ -237,11 +237,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDIzMzQyMCw0NDA5ODg4ODIsLTQxMT
-Q3NzE3Niw3NDU0OTE2MiwtNTAzMzYyMDMyLC0xMTA0MzEwMDM0
-LDg1NDU2ODUyNCwxMTU4MDY2OTQyLC0xODA2NDcyOTU2LC0yMT
-EzMDAyNzUyLC01NTA1Mjg1MTgsLTk4NjI2OTMxMSwxNjQyMDI1
-MTU4LDQ3NTI1MzIwMCwtMTYwNTcyNjc5MSwyMDc2NDk3MTcsLT
-E3Njk3NTg4NjgsMTQ5ODg3NDg5LC04MjA3OTM4MTAsLTIxMjU1
-NDg0MzBdfQ==
+eyJoaXN0b3J5IjpbLTk2MzIxODY0NCwxNjMwMjMzNDIwLDQ0MD
+k4ODg4MiwtNDExNDc3MTc2LDc0NTQ5MTYyLC01MDMzNjIwMzIs
+LTExMDQzMTAwMzQsODU0NTY4NTI0LDExNTgwNjY5NDIsLTE4MD
+Y0NzI5NTYsLTIxMTMwMDI3NTIsLTU1MDUyODUxOCwtOTg2MjY5
+MzExLDE2NDIwMjUxNTgsNDc1MjUzMjAwLC0xNjA1NzI2NzkxLD
+IwNzY0OTcxNywtMTc2OTc1ODg2OCwxNDk4ODc0ODksLTgyMDc5
+MzgxMF19
 -->
