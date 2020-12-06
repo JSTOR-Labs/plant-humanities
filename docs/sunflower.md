@@ -101,10 +101,10 @@ Yet scientists still disagree about when humans used domesticated sunflowers in 
 <param ve-entity eid="Q112110" title="emblem" aliases="emblems">
 <param ve-entity eid="Q15472169" title="patron of the arts" aliases="patron">
 <param ve-entity eid="Q2825010" title="Adriaen Collaert">
-<param ve-entity eid="Q1140201" title="Crispijn van de Passe the Younger">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist then working for Charles I of England, surely had numerous models to study.[^ref16] Such imagery would have been known through emblems and florilegia, particularly those produced by Crispijn van de Passe the Younger and Adriaen Collaert. In this self-portrait, the artist portrays his likeness wearing an opulent gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming golden sunflower—a floral manifestation of his loyalty to his patron.
+<param ve-entity eid="Q1140201" title="Crispijn van de Passe the Younger" aliases="Crispijn van de Passe">
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist then working for Charles I of England, surely had numerous models to study.[^ref16] Such imagery would have been known through emblems and florilegia, particularly those produced by Crispijn van de Passe and Adriaen Collaert. In this self-portrait, the artist portrays his likeness wearing an opulent gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming golden sunflower—a floral manifestation of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, c. 1632 or 1633, Eaton Hall, Cheshire, England, Wikimedia Commons">
-<param ve-image fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/0c/21/4f/74/0c214f74-b475-4efc-ba0c-0b5c745e3f71/iiif/4817_000147.tif/8.210526315789474,5.47329650092081,2225.0526315789475,1477.7900552486187/!813,540/0/default.jpg" title="_Hortus floridus_, CC BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
+<param ve-image fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/0c/21/4f/74/0c214f74-b475-4efc-ba0c-0b5c745e3f71/iiif/4817_000147.tif/8.210526315789474,5.47329650092081,2225.0526315789475,1477.7900552486187/!813,540/0/default.jpg" title="Crispijn van de Passe, _Hortus floridus_, 1614-1616, CC BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Collaert_Rijksmuseum_RP-P-BI-5997.jpg" title="Adriaen Collaert, _Sunflower and other flowers_, from _Florilegium_, 1570-before 1618, Rijksmuseum">
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Vianen_Rijksmuseum_RP-P-1908-3593.jpg" title="Jan van Vianen, _Emblemes d'Amour_ (Emblems of Love), 1686, Rijksmuseum">
 
@@ -236,11 +236,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjE0NjAwNSw4NTQ1Njg1MjQsMTE1OD
-A2Njk0MiwtMTgwNjQ3Mjk1NiwtMjExMzAwMjc1MiwtNTUwNTI4
-NTE4LC05ODYyNjkzMTEsMTY0MjAyNTE1OCw0NzUyNTMyMDAsLT
-E2MDU3MjY3OTEsMjA3NjQ5NzE3LC0xNzY5NzU4ODY4LDE0OTg4
-NzQ4OSwtODIwNzkzODEwLC0yMTI1NTQ4NDMwLC0xODI0MTc4ND
-gxLC03Nzg0MzM2MDYsLTE2NTQwMjA0NjYsLTcyNTgzMzQ4Niw4
-MjY2NzQyODZdfQ==
+eyJoaXN0b3J5IjpbNDIzNTU4MDk5LDg1NDU2ODUyNCwxMTU4MD
+Y2OTQyLC0xODA2NDcyOTU2LC0yMTEzMDAyNzUyLC01NTA1Mjg1
+MTgsLTk4NjI2OTMxMSwxNjQyMDI1MTU4LDQ3NTI1MzIwMCwtMT
+YwNTcyNjc5MSwyMDc2NDk3MTcsLTE3Njk3NTg4NjgsMTQ5ODg3
+NDg5LC04MjA3OTM4MTAsLTIxMjU1NDg0MzAsLTE4MjQxNzg0OD
+EsLTc3ODQzMzYwNiwtMTY1NDAyMDQ2NiwtNzI1ODMzNDg2LDgy
+NjY3NDI4Nl19
 -->
