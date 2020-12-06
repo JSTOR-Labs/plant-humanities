@@ -40,7 +40,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q49" title="North America">
 <param ve-entity eid="Q46" title="Europe">
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
-<param ve-entity eid="Q6165948" title="imperialism" aliases="imperialist">
+<param ve-entity eid="Q6165948" title="herbal" aliases="herbals">
 Domesticated _Helianthus annuus_ was first introduced to Europe, probably by the Spanish, in the sixteenth century.[^ref4] However, questions persist about who collected such specimens or seeds, and when and from where they did so—an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism).” Shortly thereafter early printed books devoted to the description and identification of medicinal plants, known as herbals, began to include verbal and then visual descriptions of sunflowers. These accounts reveal that Europeans primarily valued the cultivated sunflower for its ornamental blooms and imposing height, distinguishing the plant from others and prompting artists to develop new conventions for portraying such showy flowers.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
@@ -229,7 +229,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTU3ODgzNywxNDk4ODc0ODksLTgyMD
+eyJoaXN0b3J5IjpbMTg1NDQzOTExOSwxNDk4ODc0ODksLTgyMD
 c5MzgxMCwtMjEyNTU0ODQzMCwtMTgyNDE3ODQ4MSwtNzc4NDMz
 NjA2LC0xNjU0MDIwNDY2LC03MjU4MzM0ODYsODI2Njc0Mjg2LD
 g0MDM3NTg5MywtNDYyNTc0ODkzLC0xNjcxNTU1OTMyLC0xODQ1
