@@ -128,7 +128,8 @@ There is a longstanding cultural assumption that sunflowers are heliotropic thro
 <param ve-entity eid="Q2374149" title="botanist" aliases="botanists">
 <param ve-entity eid="Q2602751" title="dorsal">
 <param ve-entity eid="Q3429717" title="ventral">
-In the eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing cultivated sunflowers that allowed them to communicate scientific knowledge about the plant. This hand-colored print _Anatomy of the Sunflower_, designed by [Peter Henderson](http://vocab.getty.edu/page/ulan/500042021), exemplifies a mode of artistic engagement with plants tailored to the needs of botanists. Henderson’s image shows a partial view of two mature plants—facing opposite directions—to communicate valuable information about their dorsal and ventral anatomical structures. Yet Henderson takes some aesthetic liberties to imbue the flower heads with a sense of movement and vitality, expanding the appeal of the illustration beyond scientists to plant and art collectors as well. <span data-click-image-zoomto="982,2706,2213,1795">At the center of the left flower,</span> a series of green scallop-like shapes describe how bracts, or modified leaves, grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets.
+<param ve-entity eid="Q729496" title="bract" aliases="bracts">
+In the eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing cultivated sunflowers that allowed them to communicate scientific knowledge about the plant. This hand-colored print _Anatomy of the Sunflower_, designed by [Peter Henderson](http://vocab.getty.edu/page/ulan/500042021), exemplifies a mode of artistic engagement with plants tailored to the needs of botanists. Henderson’s image shows a partial view of two mature plants—facing opposite directions—to communicate valuable information about their dorsal and ventral anatomical structures. Yet Henderson takes some aesthetic liberties to imbue the flower heads with a sense of movement and vitality, expanding the appeal of the illustration beyond scientists to plant and art collectors as well. <span data-click-image-zoomto="982,2706,2213,1795">At the center of the left flower,</span> a series of green scallop-like shapes describe how bracts grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
 <param ve-entity eid="Q14847254" title="Compositae"> 
@@ -236,11 +237,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQzMTAwMzQsODU0NTY4NTI0LDExNT
-gwNjY5NDIsLTE4MDY0NzI5NTYsLTIxMTMwMDI3NTIsLTU1MDUy
-ODUxOCwtOTg2MjY5MzExLDE2NDIwMjUxNTgsNDc1MjUzMjAwLC
-0xNjA1NzI2NzkxLDIwNzY0OTcxNywtMTc2OTc1ODg2OCwxNDk4
-ODc0ODksLTgyMDc5MzgxMCwtMjEyNTU0ODQzMCwtMTgyNDE3OD
-Q4MSwtNzc4NDMzNjA2LC0xNjU0MDIwNDY2LC03MjU4MzM0ODYs
-ODI2Njc0Mjg2XX0=
+eyJoaXN0b3J5IjpbLTUwMzM2MjAzMiwtMTEwNDMxMDAzNCw4NT
+Q1Njg1MjQsMTE1ODA2Njk0MiwtMTgwNjQ3Mjk1NiwtMjExMzAw
+Mjc1MiwtNTUwNTI4NTE4LC05ODYyNjkzMTEsMTY0MjAyNTE1OC
+w0NzUyNTMyMDAsLTE2MDU3MjY3OTEsMjA3NjQ5NzE3LC0xNzY5
+NzU4ODY4LDE0OTg4NzQ4OSwtODIwNzkzODEwLC0yMTI1NTQ4ND
+MwLC0xODI0MTc4NDgxLC03Nzg0MzM2MDYsLTE2NTQwMjA0NjYs
+LTcyNTgzMzQ4Nl19
 -->
