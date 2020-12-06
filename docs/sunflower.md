@@ -163,7 +163,7 @@ In the later-nineteenth century, many European painters embraced the genre of st
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
 <param ve-entity eid="Q181916" title="herbarium">
 <param ve-entity eid="Q4886" title="cultivar" aliases="cultivars">
-Contrary to what is most often portrayed in visual and verbal descriptions of sunflowers, the palette of _Helianthus annuus_ is not limited to yellow. Indeed, there are many cultivars
+Contrary to what is most often portrayed in visual and verbal descriptions of sunflowers, the palette of _Helianthus annuus_ is not limited to yellow. Rather, there are many _H. annuus_ cultivars
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
 with flowers that can range from gold to orange to red to dark purple and even an unexpected shade of pink. There are also more than fifty accepted species grouped under _Helianthus_ and they vary in terms of size and the number and shape of their leaves and flower heads. The specimens of _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke) on these herbarium sheets also dispel the false notion that all sunflowers only have one large blossom per stock. That trait, as we now know, is unique to the domesticated sunflower and due to human selection.
 <param ve-plant-specimen eid="Q171497" max="1">
@@ -237,11 +237,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTEwMDQ1NCw5MzE2MTI5NjUsNjg1OD
-M0MjMzLDE5MTk3OTQyOTUsLTE1MDk2MzE2NzksLTE0NTE0MDY2
-NjEsLTYxODk1NzE5OSwxODM0OTM2Mzc0LC0xMzQ0NDM5MzQ1LD
-EyODgyNDU2MDksLTE3MTc0NTIwMCwtMTg3MzM5MDM1OSwxNTI3
-NjA5NjcwLC0xMDQ1NjA1NDEwLDE1OTQxNzg4NTYsLTE1MTU1Mz
-QyNjUsLTI0MDQwNzk1MiwtMTUxMTU3MDkyOSwtOTYzMjE4NjQ0
-LDE2MzAyMzM0MjBdfQ==
+eyJoaXN0b3J5IjpbLTEzMDU0NDczODMsOTMxNjEyOTY1LDY4NT
+gzNDIzMywxOTE5Nzk0Mjk1LC0xNTA5NjMxNjc5LC0xNDUxNDA2
+NjYxLC02MTg5NTcxOTksMTgzNDkzNjM3NCwtMTM0NDQzOTM0NS
+wxMjg4MjQ1NjA5LC0xNzE3NDUyMDAsLTE4NzMzOTAzNTksMTUy
+NzYwOTY3MCwtMTA0NTYwNTQxMCwxNTk0MTc4ODU2LC0xNTE1NT
+M0MjY1LC0yNDA0MDc5NTIsLTE1MTE1NzA5MjksLTk2MzIxODY0
+NCwxNjMwMjMzNDIwXX0=
 -->
