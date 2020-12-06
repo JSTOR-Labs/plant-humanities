@@ -37,15 +37,15 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 
 ### Plant Mobility and Early Printed Books
 
-<param ve-entity eid="Q29" title="Spain">
 <param ve-entity eid="Q49" title="North America">
 <param ve-entity eid="Q46" title="Europe">
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
-<param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
+<param ve-entity eid="Q6165948" title="imperialism" aliases="imperialist">
 Domesticated _Helianthus annuus_ was first introduced to Europe, probably by the Spanish, in the sixteenth century.[^ref4] However, questions persist about who collected such specimens or seeds, and when and from where they did so—an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism).” Shortly thereafter early printed books devoted to the description and identification of medicinal plants, known as herbals, began to include verbal and then visual descriptions of sunflowers. These accounts reveal that Europeans primarily valued the cultivated sunflower for its ornamental blooms and imposing height, distinguishing the plant from others and prompting artists to develop new conventions for portraying such showy flowers.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 <param ve-entity eid="Q476033" title="Low Countries">
+<param ve-entity eid="Q29" title="Spain">
 <param ve-entity eid="Q38" title="Italy">
 <param ve-entity eid="Q181916" title="herbarium">
 Once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries via transregional trade routes.[^ref5] Networks of wealthy and privileged Europeans, most of who were men, exchanged plant materials for cultivating _Helianthus annuus_ and instructions for doing so in letters and drawings. This model visualizes some connections among a group of proto botanists, patrons, publishers, artists, and members of royal courts who, through their epistolary and direct interactions, exchanged information about the cultivated sunflower that was published in herbals and florilegia during the 1560s and 1570s.
@@ -229,7 +229,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDQ0Nzc5MywxNDk4ODc0ODksLTgyMD
+eyJoaXN0b3J5IjpbMTM2NTU3ODgzNywxNDk4ODc0ODksLTgyMD
 c5MzgxMCwtMjEyNTU0ODQzMCwtMTgyNDE3ODQ4MSwtNzc4NDMz
 NjA2LC0xNjU0MDIwNDY2LC03MjU4MzM0ODYsODI2Njc0Mjg2LD
 g0MDM3NTg5MywtNDYyNTc0ODkzLC0xNjcxNTU1OTMyLC0xODQ1
