@@ -182,7 +182,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q11084414" title="modernity">
 <param ve-entity eid="Q219416" title="sustainability" aliases="sustainable">
 <param ve-entity eid="Q2336124" title="defamiliarization" aliases="defamiliarizes">
-Visual representations of sunflowers have shaped and been shaped by human interactions with them. By analyzing such imagery, we can become more attuned to the significance of human encounters with sunflowers and our own engagements with plants. That kind of attentive regard for plant life is essential if we are to enter into sustainable relationships with it. Such ideas attain visibility in this [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori) painted by Vincent van Gogh in 1887. In _Sunflowers_, the artist shows a dried disk with exposed kernels and a desiccated yellow husk resting on a somber blue ground. His defamiliarization of the cut flower heads unsettles our tendencies to appreciate sunflowers for their beauty and construe plants as infinitely replenishable natural resources. On those grounds, we can interpret Van Gogh’s picture as an invitation to bring greater attentiveness, care, and gratitude to our relationships with plants.
+Visual representations of sunflowers have shaped and been shaped by human interactions with them. By analyzing such imagery, we can become more attuned to the significance of human encounters with sunflowers and our own engagements with plants. That kind of attentive regard for plant life is essential if we are to enter into sustainable relationships with it. These and other ideas attain visibility in the [memento mori](%5D(https:/www.tate.org.uk/art/art-terms/m/memento-mori), at right, painted by Vincent van Gogh in 1887. In _Sunflowers_, the artist shows a dried disk with exposed kernels and a desiccated yellow husk resting on a somber blue ground. His defamiliarization of the cut flower heads unsettles our tendencies to appreciate sunflowers for their beauty or utility and construe plants as infinitely replenishable natural resources. On those grounds, we can interpret Van Gogh’s picture as an invitation to bring greater attentiveness, care, and gratitude to our relationships with plants.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -236,11 +236,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzYwOTY3MCwtMTA0NTYwNTQxMCwxNT
-k0MTc4ODU2LC0xNTE1NTM0MjY1LC0yNDA0MDc5NTIsLTE1MTE1
-NzA5MjksLTk2MzIxODY0NCwxNjMwMjMzNDIwLDQ0MDk4ODg4Mi
-wtNDExNDc3MTc2LDc0NTQ5MTYyLC01MDMzNjIwMzIsLTExMDQz
-MTAwMzQsODU0NTY4NTI0LDExNTgwNjY5NDIsLTE4MDY0NzI5NT
-YsLTIxMTMwMDI3NTIsLTU1MDUyODUxOCwtOTg2MjY5MzExLDE2
-NDIwMjUxNThdfQ==
+eyJoaXN0b3J5IjpbNTMxNjkyMDUzLDE1Mjc2MDk2NzAsLTEwND
+U2MDU0MTAsMTU5NDE3ODg1NiwtMTUxNTUzNDI2NSwtMjQwNDA3
+OTUyLC0xNTExNTcwOTI5LC05NjMyMTg2NDQsMTYzMDIzMzQyMC
+w0NDA5ODg4ODIsLTQxMTQ3NzE3Niw3NDU0OTE2MiwtNTAzMzYy
+MDMyLC0xMTA0MzEwMDM0LDg1NDU2ODUyNCwxMTU4MDY2OTQyLC
+0xODA2NDcyOTU2LC0yMTEzMDAyNzUyLC01NTA1Mjg1MTgsLTk4
+NjI2OTMxMV19
 -->
