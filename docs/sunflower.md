@@ -164,7 +164,7 @@ In the later-nineteenth century, many European painters embraced the genre of st
 <param ve-entity eid="Q4886" title="cultivar" aliases="cultivars">
 Contrary to what is most often portrayed in visual and verbal descriptions of sunflowers, the palette of _Helianthus annuus_ is not limited to yellow. Indeed, there are many cultivars
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
-with flowers that can range from gold to orange to red to dark purple and even an unexpected shade of pink. more than fifty accepted species grouped under _Helianthus_ and Species also vary in terms of size and the number and shape of their leaves and flower heads, as demonstrated by these herbarium sheets with dried _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke). The specimens also dispel the false notion that all sunflowers only have one large blossom per stock. That trait, as we now know, is unique to the domesticated sunflower and due to human selection.
+with flowers that can range from gold to orange to red to dark purple and even an unexpected shade of pink. There are also more than fifty accepted species grouped under _Helianthus_ and they vary in terms of size and the number and shape of their leaves and flower heads. The specimens of _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke) on these herbarium sheets also dispel the false notion that all sunflowers only have one large blossom per stock. That trait, as we now know, is unique to the domesticated sunflower and due to human selection.
 <param ve-plant-specimen eid="Q171497" max="1">
 <param ve-plant-specimen eid="Q12212017" max="1">
 <param ve-plant-specimen eid="Q146190" max="1">
@@ -237,11 +237,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTQ3NzE3Niw3NDU0OTE2MiwtNTAzMz
-YyMDMyLC0xMTA0MzEwMDM0LDg1NDU2ODUyNCwxMTU4MDY2OTQy
-LC0xODA2NDcyOTU2LC0yMTEzMDAyNzUyLC01NTA1Mjg1MTgsLT
-k4NjI2OTMxMSwxNjQyMDI1MTU4LDQ3NTI1MzIwMCwtMTYwNTcy
-Njc5MSwyMDc2NDk3MTcsLTE3Njk3NTg4NjgsMTQ5ODg3NDg5LC
-04MjA3OTM4MTAsLTIxMjU1NDg0MzAsLTE4MjQxNzg0ODEsLTc3
-ODQzMzYwNl19
+eyJoaXN0b3J5IjpbLTExNDMxMjQyNzMsLTQxMTQ3NzE3Niw3ND
+U0OTE2MiwtNTAzMzYyMDMyLC0xMTA0MzEwMDM0LDg1NDU2ODUy
+NCwxMTU4MDY2OTQyLC0xODA2NDcyOTU2LC0yMTEzMDAyNzUyLC
+01NTA1Mjg1MTgsLTk4NjI2OTMxMSwxNjQyMDI1MTU4LDQ3NTI1
+MzIwMCwtMTYwNTcyNjc5MSwyMDc2NDk3MTcsLTE3Njk3NTg4Nj
+gsMTQ5ODg3NDg5LC04MjA3OTM4MTAsLTIxMjU1NDg0MzAsLTE4
+MjQxNzg0ODFdfQ==
 -->
