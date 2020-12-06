@@ -22,7 +22,7 @@ Yet, as this botanical illustration reminds us, domesticated _Helianthus annuus_
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 <param ve-entity eid="Q861716" title="visual culture">
-Sunflower imagery can provide rich historical information about the plant and the roles of visual culture in communicating knowledges, myths, and meanings related to it. Artists working in Europe and North America from the colonial to the modern period, produced likenesses of the sunflower that served aesthetic, imperial, scientific, commercial, and other functions. In doing so, they developed conventions for representing specific characteristics of sunflowers that were tailored to those aims. By tracking changes in that [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) over time, we can learn about the historical significance of sunflowers in specific temporal and geographic contexts, as well as shifts in the ways that humans have represented, encountered, used, studied, and valued them. Through that practice of close visual analysis, that engaging with artworks necessarily involves, we also cultivate a greater attentiveness to bring to our encounters with the plant world.
+Sunflower imagery can provide rich historical information about the plant and the roles of visual culture in communicating knowledges, myths, and meanings related to it. Artists working in Europe from the age of colonization to the modern period, produced likenesses of the sunflower that served aesthetic, imperial, scientific, commercial, and other functions. In doing so, they developed conventions for representing specific characteristics of sunflowers that were tailored to those aims. By tracking changes in that [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) over time, we can learn about the historical significance of sunflowers in specific temporal and geographic contexts, as well as shifts in the ways that humans have represented, encountered, used, studied, and valued them. Through that practice of close visual analysis, that engaging with artworks necessarily involves, we also cultivate a greater attentiveness to bring to our encounters with plants.
 <param ve-image layers url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
 <param ve-image url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
@@ -229,11 +229,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDc5MzgxMCwtMjEyNTU0ODQzMCwtMT
-gyNDE3ODQ4MSwtNzc4NDMzNjA2LC0xNjU0MDIwNDY2LC03MjU4
-MzM0ODYsODI2Njc0Mjg2LDg0MDM3NTg5MywtNDYyNTc0ODkzLC
-0xNjcxNTU1OTMyLC0xODQ1MzYxMzM3LC01MTAzODM4NTMsNzI0
-Mzc1MTAxLC04MDk4ODkxMDgsMTE5MzA2MDIwMSw1ODg4OTcwND
-MsLTgwOTM1NDc3MCwtMjA4NDY5MDAxNSw2Mzk0MTE0OTAsLTIx
-Mjg5NjY0ODBdfQ==
+eyJoaXN0b3J5IjpbOTU4OTM3ODkyLC04MjA3OTM4MTAsLTIxMj
+U1NDg0MzAsLTE4MjQxNzg0ODEsLTc3ODQzMzYwNiwtMTY1NDAy
+MDQ2NiwtNzI1ODMzNDg2LDgyNjY3NDI4Niw4NDAzNzU4OTMsLT
+Q2MjU3NDg5MywtMTY3MTU1NTkzMiwtMTg0NTM2MTMzNywtNTEw
+MzgzODUzLDcyNDM3NTEwMSwtODA5ODg5MTA4LDExOTMwNjAyMD
+EsNTg4ODk3MDQzLC04MDkzNTQ3NzAsLTIwODQ2OTAwMTUsNjM5
+NDExNDkwXX0=
 -->
