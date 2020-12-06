@@ -183,8 +183,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q1334780" title="environmental degradation">
 <param ve-entity eid="Q219416" title="sustainability" aliases="sustainable">
 <param ve-entity eid="Q2336124" title="defamiliarization" aliases="defamiliarizes">
-Visual representations of sunflowers have shaped and been shaped by human interactions with them. By analyzing such imagery, we can become more attuned to the significance of human encounters with sunflowers and our own engagements with plants. That kind of attentive regard for plantlife is essential if we are to enter into sustainable relationships with it and prevent further environmental degradation. These ideas are given visual form in Van Gogh’s painting _Sunflowers_, from 1887. In this [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori), <![endif]--> the artist defamiliarizes conventions for representing sunflowers by showing two cut flower heads—a dried disk with exposed kernels and a desiccated yellow husk—resting on a somber blue ground. His presentation of the floral remains unsettles our tendency to appreciate sunflowers solely for their beauty and perhaps, more provocatively, upends a common assumption that plants can be infinitely replenished.
-two cut flower heads—<span data-click-image-zoomto="819,696,1798,1533">a dried disk</span> with exposed kernels and <span data-click-image-zoomto="2097,480,1798,1533">a desiccated yellow husk</span>—resting on a somber blue ground. The artist’s defamiliarization of traditional<span data-click-image-zoomto="151,-153,3595,3065">sunflower iconography</span>
+Visual representations of sunflowers have shaped and been shaped by human interactions with them. By analyzing such imagery, we can become more attuned to the significance of human encounters with sunflowers and our own engagements with plants. That kind of attentive regard for plantlife is essential if we are to enter into sustainable relationships with it and prevent further environmental degradation. These ideas are given visual form in Van Gogh’s painting _Sunflowers_, from 1887. In this [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori), the artist defamiliarizes conventions for representing sunflowers by showing two cut flower heads—a dried disk with exposed kernels and a desiccated yellow husk—resting on a somber blue ground. His presentation of the floral remains unsettles our tendency to appreciate sunflowers solely for their beauty and perhaps, more provocatively, upends a common assumption that plants can be infinitely replenished. 
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -238,7 +237,7 @@ two cut flower heads—<span data-click-image-zoomto="819,696,1798,1533">a dried
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDIxOTQwOCwtMTUxMTU3MDkyOSwtOT
+eyJoaXN0b3J5IjpbLTI0MDQwNzk1MiwtMTUxMTU3MDkyOSwtOT
 YzMjE4NjQ0LDE2MzAyMzM0MjAsNDQwOTg4ODgyLC00MTE0Nzcx
 NzYsNzQ1NDkxNjIsLTUwMzM2MjAzMiwtMTEwNDMxMDAzNCw4NT
 Q1Njg1MjQsMTE1ODA2Njk0MiwtMTgwNjQ3Mjk1NiwtMjExMzAw
