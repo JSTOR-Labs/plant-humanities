@@ -12,7 +12,7 @@
 <param ve-entity eid="Q235352" title="crop" aliases="crop plants">
 <param ve-entity eid="Q199182" title="ornamental plant" aliases="ornamental">
 <param ve-entity eid="Q297292" title="oil seed" aliases="oil seeds">
-_Helianthus annuus_ (common or annual sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans first domesticated in North America thousands of years ago and the only one that is still widely used today.[^ref1] Indeed, domesticated sunflower is primarily grown as an oil seed crop, having been introduced from its native range in North America nearly worldwide. The cultivated sunflower is also a popular ornamental, renowned for its yellow flower head, large disk, heart-shaped or ovate leaves, unbranched stem, and imposing height. Remarkably, the plant can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported. 
+_Helianthus annuus_ (common or annual sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans first domesticated in North America thousands of years ago and the only one that is still widely used today.[^ref1] Indeed, the domesticated sunflower is primarily grown as an oil seed crop, having been introduced from its native range in North America nearly worldwide. The cultivated sunflower is also a popular ornamental, renowned for its yellow flower head, large disk, heart-shaped or ovate leaves, unbranched stem, and imposing height. Remarkably, the plant can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported. 
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Helianthus_annuus_3.jpg" title="Wild _Helianthus annuus_ is an annual plant with a multi-branched stem and many small flower heads, Kyle Canyon Road, Spring Mountains, southern Nevada, Stan Shebs, Wikimedia Commons, CC BY-SA 3.0">
 
@@ -237,11 +237,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTA3OTE3OTIsLTkxODQxNzY1NywtMT
-MwNTQ0NzM4Myw5MzE2MTI5NjUsNjg1ODM0MjMzLDE5MTk3OTQy
-OTUsLTE1MDk2MzE2NzksLTE0NTE0MDY2NjEsLTYxODk1NzE5OS
-wxODM0OTM2Mzc0LC0xMzQ0NDM5MzQ1LDEyODgyNDU2MDksLTE3
-MTc0NTIwMCwtMTg3MzM5MDM1OSwxNTI3NjA5NjcwLC0xMDQ1Nj
-A1NDEwLDE1OTQxNzg4NTYsLTE1MTU1MzQyNjUsLTI0MDQwNzk1
-MiwtMTUxMTU3MDkyOV19
+eyJoaXN0b3J5IjpbLTE0Mzk0MTA5NzUsLTExNTA3OTE3OTIsLT
+kxODQxNzY1NywtMTMwNTQ0NzM4Myw5MzE2MTI5NjUsNjg1ODM0
+MjMzLDE5MTk3OTQyOTUsLTE1MDk2MzE2NzksLTE0NTE0MDY2Nj
+EsLTYxODk1NzE5OSwxODM0OTM2Mzc0LC0xMzQ0NDM5MzQ1LDEy
+ODgyNDU2MDksLTE3MTc0NTIwMCwtMTg3MzM5MDM1OSwxNTI3Nj
+A5NjcwLC0xMDQ1NjA1NDEwLDE1OTQxNzg4NTYsLTE1MTU1MzQy
+NjUsLTI0MDQwNzk1Ml19
 -->
