@@ -18,7 +18,7 @@ _Helianthus annuus_ (common or annual sunflower) holds a special status in the p
 
 <param ve-entity eid="Q995745" title="artificial selection" aliases="artificially selected">
 <param ve-entity eid="Q3796486" title="botanical illustration">
-Yet, as this botanical illustration reminds us, domesticated _Helianthus annuus_ also has an imposing presence in the visual arts. Like the supersized flower in this plant portrait, the sunflower looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. The proliferation of the flower in European art since the later sixteenth century is due partly to the aesthetic appeal of traits artificially selected to increase seed production, a single flower head with a large disk, and partly to the timing of its introduction to Europe as a new genre of botanical treatise, the [florilegium](https://wordsmith.org/words/florilegium.html) ("collection of flowers"), emerged.
+Yet, as this botanical illustration reminds us, domesticated _Helianthus annuus_ also has an imposing presence in the visual arts. Like the supersized flower in this plant portrait, the sunflower looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. The proliferation of the flower in European art since the later sixteenth century is due partly to the aesthetic appeal of traits artificially selected to increase seed production, a single flower head with a large disk, and partly to the timing of its introduction to Europe just prior to the blossoming of a new genre of botanical treatise called the [florilegium](https://wordsmith.org/words/florilegium.html) ("collection of flowers").
 <param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 <param ve-entity eid="Q861716" title="visual culture">
@@ -237,11 +237,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk0MTA5NzUsLTExNTA3OTE3OTIsLT
-kxODQxNzY1NywtMTMwNTQ0NzM4Myw5MzE2MTI5NjUsNjg1ODM0
-MjMzLDE5MTk3OTQyOTUsLTE1MDk2MzE2NzksLTE0NTE0MDY2Nj
-EsLTYxODk1NzE5OSwxODM0OTM2Mzc0LC0xMzQ0NDM5MzQ1LDEy
-ODgyNDU2MDksLTE3MTc0NTIwMCwtMTg3MzM5MDM1OSwxNTI3Nj
-A5NjcwLC0xMDQ1NjA1NDEwLDE1OTQxNzg4NTYsLTE1MTU1MzQy
-NjUsLTI0MDQwNzk1Ml19
+eyJoaXN0b3J5IjpbLTE4Njk1NTYwNTcsLTE0Mzk0MTA5NzUsLT
+ExNTA3OTE3OTIsLTkxODQxNzY1NywtMTMwNTQ0NzM4Myw5MzE2
+MTI5NjUsNjg1ODM0MjMzLDE5MTk3OTQyOTUsLTE1MDk2MzE2Nz
+ksLTE0NTE0MDY2NjEsLTYxODk1NzE5OSwxODM0OTM2Mzc0LC0x
+MzQ0NDM5MzQ1LDEyODgyNDU2MDksLTE3MTc0NTIwMCwtMTg3Mz
+M5MDM1OSwxNTI3NjA5NjcwLC0xMDQ1NjA1NDEwLDE1OTQxNzg4
+NTYsLTE1MTU1MzQyNjVdfQ==
 -->
