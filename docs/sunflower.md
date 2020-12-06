@@ -79,7 +79,7 @@ The migration of sunflower iconography from Besler’s _Hortus Eystettensis_  to
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
- inconsistent information about the origins and range of domesticated sunflowers presented in herbals and other historical evidence along with distribution maps and fossilized remains in order to study the origins of cultivated _Helianthus annuus_.[^ref9] The earliest known cultivated sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
+Although modern-day botanists have consulted herbals and other historical evidence to study the origins and range of domesticated sunflowers, beginning in the 1940s presented in herbals and other historical evidence along with distribution maps and fossilized remains in order to study the origins of cultivated _Helianthus annuus_.[^ref9] The earliest known cultivated sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
@@ -231,11 +231,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODk3ODcxNiwxNjQyMDI1MTU4LDQ3NT
-I1MzIwMCwtMTYwNTcyNjc5MSwyMDc2NDk3MTcsLTE3Njk3NTg4
-NjgsMTQ5ODg3NDg5LC04MjA3OTM4MTAsLTIxMjU1NDg0MzAsLT
-E4MjQxNzg0ODEsLTc3ODQzMzYwNiwtMTY1NDAyMDQ2NiwtNzI1
-ODMzNDg2LDgyNjY3NDI4Niw4NDAzNzU4OTMsLTQ2MjU3NDg5My
-wtMTY3MTU1NTkzMiwtMTg0NTM2MTMzNywtNTEwMzgzODUzLDcy
-NDM3NTEwMV19
+eyJoaXN0b3J5IjpbLTE4MjcyMDcyNDEsMTY0MjAyNTE1OCw0Nz
+UyNTMyMDAsLTE2MDU3MjY3OTEsMjA3NjQ5NzE3LC0xNzY5NzU4
+ODY4LDE0OTg4NzQ4OSwtODIwNzkzODEwLC0yMTI1NTQ4NDMwLC
+0xODI0MTc4NDgxLC03Nzg0MzM2MDYsLTE2NTQwMjA0NjYsLTcy
+NTgzMzQ4Niw4MjY2NzQyODYsODQwMzc1ODkzLC00NjI1NzQ4OT
+MsLTE2NzE1NTU5MzIsLTE4NDUzNjEzMzcsLTUxMDM4Mzg1Myw3
+MjQzNzUxMDFdfQ==
 -->
