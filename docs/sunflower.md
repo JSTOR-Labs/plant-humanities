@@ -50,7 +50,7 @@ Domesticated _Helianthus annuus_ was first introduced to Europe, probably by the
 <param ve-entity eid="Q181916" title="herbarium">
 <param ve-entity eid="Q457191" title="Pietro Andrea Mattioli">
 <param ve-entity eid="Q437466" title="Rembert Dodoens">
-Once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries via transregional trade routes.[^ref5] Networks of wealthy and privileged Europeans, most of who were men, exchanged plant materials for cultivating _Helianthus annuus_ and instructions for doing so in letters and drawings. This model visualizes some connections among a group of proto botanists, patrons, publishers, artists, and members of royal courts who, through their epistolary and direct interactions, exchanged information about the cultivated sunflower that was published in herbals and florilegia during the 1560s and 1570s.
+Once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries via transregional trade routes.[^ref5] Networks of wealthy and privileged Europeans, most of who were men, exchanged plant materials for cultivating _Helianthus annuus_ and instructions for doing so in letters and drawings. Pietro Andrea Mattioli acknowledged his receipt of such correspondence in a late edition of his herbal _[I Discori](https://ia601904.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/gri_33125014246561/gri_33125014246561_jp2.zip&file=gri_33125014246561_jp2/gri_33125014246561_0029.jp2&id=gri_33125014246561&scale=6.211180124223603&rotate=0)_, as did Rembert Dodoens in _[Florum, et coronariarum](https://archive.org/details/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/page/n309/mode/2up)_,  a precursor to the florilegium. This model visualizes some of their connections with a group of proto botanists, patrons, publishers, artists, and members of royal courts who, through epistolary and direct interactions, exchanged information about the cultivated sunflower that was then recounted in books produced in the 1560s and 1570s.
 <param ve-d3plus-ring-network url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/graphs/Helianthus_annuus_network_low_countries.tsv" center="PROTO BOTANIST">
 
 ### Sunflower Aesthetics in Full Bloom
@@ -231,11 +231,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjQ5NzE3LC0xNzY5NzU4ODY4LDE0OT
-g4NzQ4OSwtODIwNzkzODEwLC0yMTI1NTQ4NDMwLC0xODI0MTc4
-NDgxLC03Nzg0MzM2MDYsLTE2NTQwMjA0NjYsLTcyNTgzMzQ4Ni
-w4MjY2NzQyODYsODQwMzc1ODkzLC00NjI1NzQ4OTMsLTE2NzE1
-NTU5MzIsLTE4NDUzNjEzMzcsLTUxMDM4Mzg1Myw3MjQzNzUxMD
-EsLTgwOTg4OTEwOCwxMTkzMDYwMjAxLDU4ODg5NzA0MywtODA5
-MzU0NzcwXX0=
+eyJoaXN0b3J5IjpbLTI3NjI2MDE4NSwyMDc2NDk3MTcsLTE3Nj
+k3NTg4NjgsMTQ5ODg3NDg5LC04MjA3OTM4MTAsLTIxMjU1NDg0
+MzAsLTE4MjQxNzg0ODEsLTc3ODQzMzYwNiwtMTY1NDAyMDQ2Ni
+wtNzI1ODMzNDg2LDgyNjY3NDI4Niw4NDAzNzU4OTMsLTQ2MjU3
+NDg5MywtMTY3MTU1NTkzMiwtMTg0NTM2MTMzNywtNTEwMzgzOD
+UzLDcyNDM3NTEwMSwtODA5ODg5MTA4LDExOTMwNjAyMDEsNTg4
+ODk3MDQzXX0=
 -->
