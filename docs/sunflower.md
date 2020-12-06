@@ -42,7 +42,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q46" title="Europe">
 <param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
 <param ve-entity eid="Q7260" title="imperialism" aliases="imperialist">
-The Spanish were likely the first Europeans to transport the domesticated sunflower from North America to Spain in the sixteenth century.[^ref4] However, questions persist about who collected such specimens or seeds, and when and from where they did so—an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism).” In the absence of further evidence about the harvesting and transoceanic movement of sunflowers, we must largely rely on verbal and visual descriptions of the plant from books to chart its introduction to Spain and other parts of Europe. Because such accounts are not always reliable, and generally authored from a Eurocentric perspective, it is important to consult a broad range of sources to reconstruct a fuller picture of plant histories and those, namely Indigenous and enslaved persons and women, who have been traditionally omitted from them.
+Domesticated _Helianthus annuus_ was first introduced to Europe, probably by the Spanish, in the sixteenth century.[^ref4] However, questions persist about who collected such specimens or seeds, and when and from where they did so—an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism).” Shortly thereafter early printed books devoted to the description and identification of medicinal plants, known as herbals, began to include verbal and then visual descriptions of sunflowers. These accounts reveal that Europeans primarily valued the cultivated sunflower for its ornamental blooms and imposing height, distinguishing the plant from others and prompting artists to develop new conventions for portraying such showy flowers.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 <param ve-entity eid="Q476033" title="Low Countries">
@@ -229,11 +229,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODg3NDg5LC04MjA3OTM4MTAsLTIxMj
-U1NDg0MzAsLTE4MjQxNzg0ODEsLTc3ODQzMzYwNiwtMTY1NDAy
-MDQ2NiwtNzI1ODMzNDg2LDgyNjY3NDI4Niw4NDAzNzU4OTMsLT
-Q2MjU3NDg5MywtMTY3MTU1NTkzMiwtMTg0NTM2MTMzNywtNTEw
-MzgzODUzLDcyNDM3NTEwMSwtODA5ODg5MTA4LDExOTMwNjAyMD
-EsNTg4ODk3MDQzLC04MDkzNTQ3NzAsLTIwODQ2OTAwMTUsNjM5
-NDExNDkwXX0=
+eyJoaXN0b3J5IjpbMTU0MDQ0Nzc5MywxNDk4ODc0ODksLTgyMD
+c5MzgxMCwtMjEyNTU0ODQzMCwtMTgyNDE3ODQ4MSwtNzc4NDMz
+NjA2LC0xNjU0MDIwNDY2LC03MjU4MzM0ODYsODI2Njc0Mjg2LD
+g0MDM3NTg5MywtNDYyNTc0ODkzLC0xNjcxNTU1OTMyLC0xODQ1
+MzYxMzM3LC01MTAzODM4NTMsNzI0Mzc1MTAxLC04MDk4ODkxMD
+gsMTE5MzA2MDIwMSw1ODg4OTcwNDMsLTgwOTM1NDc3MCwtMjA4
+NDY5MDAxNV19
 -->
