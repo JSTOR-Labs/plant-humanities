@@ -61,7 +61,7 @@ Once introduced to Spain, the domesticated sunflower quickly migrated to parts o
 <param ve-entity eid="Q5189819" title="cruciform">
 <param ve-entity eid="Q462437" title="composition">
 <param ve-entity eid="Q63540903" title="focal point">
-The advent of the florilegium was integral to the blossoming of sunflower aesthetics. In the 1610s, Basilius Besler was commissioned by Prince Bishop of Eichstätt, Johann Konrad von Gemmingen to supervise the creation of a florilegium, [_Hortus Eystettensis_](https://bibdigital.rjb.csic.es/idurl/1/10908), documenting the contents of his garden in Bavaria.[^ref6] This hand-colored [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) portrays a domesticated sunflower believed to have been grown there shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power and religious reverence for nature . A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value, unlike most illustrations then found in herbals. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
+The advent of the florilegium was integral to the blossoming of sunflower aesthetics. In the 1610s, Basilius Besler was commissioned by Prince Bishop of Eichstätt, Johann Konrad von Gemmingen to supervise the creation of a florilegium, [_Hortus Eystettensis_](https://bibdigital.rjb.csic.es/idurl/1/10908), documenting the contents of his garden in Bavaria.[^ref6] He oversaw the production of this hand-colored [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary), which portrays a domesticated sunflower believed to have been grown there shown life-sized. The image’s impact derives not only from its impressive dimensions, but also from its bold cruciform composition, which imbues the full flower head and stem with a sense of power and religious reverence for nature. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value, unlike most illustrations then found in herbals. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
 that anticipated modern visual stereotypes for the plant, perhaps best epitomized by this tiny sunflower emoji.
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
@@ -234,11 +234,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTYwMzg2MCwtNTUwNTI4NTE4LC05OD
-YyNjkzMTEsMTY0MjAyNTE1OCw0NzUyNTMyMDAsLTE2MDU3MjY3
-OTEsMjA3NjQ5NzE3LC0xNzY5NzU4ODY4LDE0OTg4NzQ4OSwtOD
-IwNzkzODEwLC0yMTI1NTQ4NDMwLC0xODI0MTc4NDgxLC03Nzg0
-MzM2MDYsLTE2NTQwMjA0NjYsLTcyNTgzMzQ4Niw4MjY2NzQyOD
-YsODQwMzc1ODkzLC00NjI1NzQ4OTMsLTE2NzE1NTU5MzIsLTE4
-NDUzNjEzMzddfQ==
+eyJoaXN0b3J5IjpbLTIxMTMwMDI3NTIsLTU1MDUyODUxOCwtOT
+g2MjY5MzExLDE2NDIwMjUxNTgsNDc1MjUzMjAwLC0xNjA1NzI2
+NzkxLDIwNzY0OTcxNywtMTc2OTc1ODg2OCwxNDk4ODc0ODksLT
+gyMDc5MzgxMCwtMjEyNTU0ODQzMCwtMTgyNDE3ODQ4MSwtNzc4
+NDMzNjA2LC0xNjU0MDIwNDY2LC03MjU4MzM0ODYsODI2Njc0Mj
+g2LDg0MDM3NTg5MywtNDYyNTc0ODkzLC0xNjcxNTU1OTMyLC0x
+ODQ1MzYxMzM3XX0=
 -->
