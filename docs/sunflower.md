@@ -100,7 +100,7 @@ Yet scientists still disagree about when humans used domesticated sunflowers in 
 <param ve-entity eid="Q81506" title="Charles I of England">
 <param ve-entity eid="Q112110" title="emblem" aliases="emblems">
 <param ve-entity eid="Q15472169" title="patron of the arts" aliases="patron">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist then working for Charles I of England, surely had numerous models to study. Such as the images in herbals, emblems, and florilegia.[^ref16] In this self-portrait, the artist portrays his likeness wearing an opulent gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming golden sunflower—a floral manifestation of his loyalty to his patron.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist then working for Charles I of England, surely had numerous models to study. Such imagery would have been known through emblems and florilegia, .[^ref16] In this self-portrait, the artist portrays his likeness wearing an opulent gold chain gifted by the king in order to identify his position as a royal portraitist and member of the court. He also devotes nearly a third of the composition to describing the pert head and robust foliage of a blooming golden sunflower—a floral manifestation of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, c. 1632 or 1633, Eaton Hall, Cheshire, England, Wikimedia Commons">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Collaert_Rijksmuseum_RP-P-BI-5997.jpg" title="Adriaen Collaert, _Sunflower and other flowers_, from _Florilegium_, 1570-before 1618, Rijksmuseum">
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Vianen_Rijksmuseum_RP-P-1908-3593.jpg" title="Jan van Vianen, _Emblemes d'Amour_ (Emblems of Love), 1686, Rijksmuseum">
@@ -231,11 +231,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2NDUwMTkzLDE2NDIwMjUxNTgsNDc1Mj
-UzMjAwLC0xNjA1NzI2NzkxLDIwNzY0OTcxNywtMTc2OTc1ODg2
-OCwxNDk4ODc0ODksLTgyMDc5MzgxMCwtMjEyNTU0ODQzMCwtMT
-gyNDE3ODQ4MSwtNzc4NDMzNjA2LC0xNjU0MDIwNDY2LC03MjU4
-MzM0ODYsODI2Njc0Mjg2LDg0MDM3NTg5MywtNDYyNTc0ODkzLC
-0xNjcxNTU1OTMyLC0xODQ1MzYxMzM3LC01MTAzODM4NTMsNzI0
-Mzc1MTAxXX0=
+eyJoaXN0b3J5IjpbMTI5NzQxOTY5NSwxNjQyMDI1MTU4LDQ3NT
+I1MzIwMCwtMTYwNTcyNjc5MSwyMDc2NDk3MTcsLTE3Njk3NTg4
+NjgsMTQ5ODg3NDg5LC04MjA3OTM4MTAsLTIxMjU1NDg0MzAsLT
+E4MjQxNzg0ODEsLTc3ODQzMzYwNiwtMTY1NDAyMDQ2NiwtNzI1
+ODMzNDg2LDgyNjY3NDI4Niw4NDAzNzU4OTMsLTQ2MjU3NDg5My
+wtMTY3MTU1NTkzMiwtMTg0NTM2MTMzNywtNTEwMzgzODUzLDcy
+NDM3NTEwMV19
 -->
