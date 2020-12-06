@@ -41,7 +41,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q46" title="Europe">
 <param ve-entity eid="Q815962" title="colonization">
 <param ve-entity eid="Q6165948" title="herbal" aliases="herbals">
-Domesticated _Helianthus annuus_ was first introduced to Europe, probably by the Spanish, in the sixteenth century.[^ref4] However, questions persist about who collected such specimens or seeds, and when and from where they did so—an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism).” By the mid-1560s, verbal and visual descriptions of cultivated sunflowers authored by Europeans began to appear in herbals. These accounts reveal that cultivated _H. annuus_ was distinct among other North American flora because Europeans primarily valued its ornamental blooms and imposing height, as opposed to its medicinal, healing, nutritional, or culinary properties.
+Domesticated _Helianthus annuus_ was first introduced to Europe, probably by the Spanish, in the sixteenth century.[^ref4] However, questions persist about who collected such specimens or seeds, and when and from where they did so—an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism).” By the late-1560s, verbal and visual descriptions of cultivated sunflowers authored by Europeans began to appear in herbals. These accounts reveal that cultivated _H. annuus_ was distinct among other North American flora because Europeans primarily valued its ornamental blooms and imposing height, as opposed to its medicinal, healing, nutritional, or culinary properties.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 <param ve-entity eid="Q476033" title="Low Countries">
@@ -237,7 +237,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTUxMzExNywxMjc0NDkwNzc4LC0yMD
+eyJoaXN0b3J5IjpbLTc0MTMxNTA5NSwxMjc0NDkwNzc4LC0yMD
 AyODAyNDQ3LC0xODY5NTU2MDU3LC0xNDM5NDEwOTc1LC0xMTUw
 NzkxNzkyLC05MTg0MTc2NTcsLTEzMDU0NDczODMsOTMxNjEyOT
 Y1LDY4NTgzNDIzMywxOTE5Nzk0Mjk1LC0xNTA5NjMxNjc5LC0x
