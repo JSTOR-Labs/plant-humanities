@@ -182,7 +182,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q11084414" title="modernity">
 <param ve-entity eid="Q219416" title="sustainability" aliases="sustainable">
 <param ve-entity eid="Q2336124" title="defamiliarization" aliases="defamiliarizes">
-Visual representations of sunflowers have shaped and been shaped by human interactions with them. By analyzing such imagery, we can become more attuned to the significance of human encounters with sunflowers and our own engagements with plants. That kind of attentive regard for plant life is essential if we are to enter into sustainable relationships with it. These ideas are given visual form in Van Gogh’s painting _Sunflowers_, from 1887. In this [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori), the artist defamiliarizes sunflowers by showing two cut flower heads—a dried disk with exposed kernels and a desiccated yellow husk—resting on a somber blue ground. His presentation of the floral remains unsettles our tendency to appreciate sunflowers solely for their beauty and perhaps, more provocatively, upends a common assumption that plants can be infinitely replenished.
+Visual representations of sunflowers have shaped and been shaped by human interactions with them. By analyzing such imagery, we can become more attuned to the significance of human encounters with sunflowers and our own engagements with plants. That kind of attentive regard for plant life is essential if we are to enter into sustainable relationships with it. These ideas are given visual form in Van Gogh’s painting _Sunflowers_, from 1887. In this [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori), the artist defamiliarizes sunflowers by showing two cut flower heads—a dried disk with exposed kernels and a desiccated yellow husk—resting on a somber blue ground. His presentation of the floral remains unsettles our tendency to appreciate sunflowers for their beauty and perhaps, more provocatively, upends a common assumption that plants can be infinitely replenished.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -236,7 +236,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA4MDY5OTcsLTI0MDQwNzk1MiwtMT
+eyJoaXN0b3J5IjpbLTE1MTU1MzQyNjUsLTI0MDQwNzk1MiwtMT
 UxMTU3MDkyOSwtOTYzMjE4NjQ0LDE2MzAyMzM0MjAsNDQwOTg4
 ODgyLC00MTE0NzcxNzYsNzQ1NDkxNjIsLTUwMzM2MjAzMiwtMT
 EwNDMxMDAzNCw4NTQ1Njg1MjQsMTE1ODA2Njk0MiwtMTgwNjQ3
