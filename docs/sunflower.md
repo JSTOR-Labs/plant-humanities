@@ -79,7 +79,7 @@ The migration of sunflower iconography from Besler’s _Hortus Eystettensis_  to
 
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
-The inconsistencies in Hernández’s botanists have consulted herbals and other historical evidence along with distribution maps and fossilized remains in order to study the origins of cultivated _Helianthus annuus_.[^ref9] The earliest known cultivated sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
+The inconsistent in Hernández’s botanists have consulted herbals and other historical evidence along with distribution maps and fossilized remains in order to study the origins of cultivated _Helianthus annuus_.[^ref9] The earliest known cultivated sunflower remains—charred seeds—tell us that humans used _H._ _annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
@@ -231,7 +231,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY5NTgwMCwxNjQyMDI1MTU4LDQ3NT
+eyJoaXN0b3J5IjpbMTUxMzUwMjcyOCwxNjQyMDI1MTU4LDQ3NT
 I1MzIwMCwtMTYwNTcyNjc5MSwyMDc2NDk3MTcsLTE3Njk3NTg4
 NjgsMTQ5ODg3NDg5LC04MjA3OTM4MTAsLTIxMjU1NDg0MzAsLT
 E4MjQxNzg0ODEsLTc3ODQzMzYwNiwtMTY1NDAyMDQ2NiwtNzI1
