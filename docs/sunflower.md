@@ -39,7 +39,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 
 <param ve-entity eid="Q49" title="North America">
 <param ve-entity eid="Q46" title="Europe">
-<param ve-entity eid="Q7167" title="colonialism" aliases="colonialist">
+<param ve-entity eid="Q815962" title="colonization">
 <param ve-entity eid="Q6165948" title="herbal" aliases="herbals">
 Domesticated _Helianthus annuus_ was first introduced to Europe, probably by the Spanish, in the sixteenth century.[^ref4] However, questions persist about who collected such specimens or seeds, and when and from where they did so—an exploitative practice now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism).” Shortly thereafter early printed books devoted to the description and identification of medicinal plants, known as herbals, began to include verbal and then visual descriptions of sunflowers. These accounts reveal that Europeans primarily valued the cultivated sunflower for its ornamental blooms and imposing height, distinguishing the plant from others and prompting artists to develop new conventions for portraying such showy flowers.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
@@ -229,11 +229,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDQzOTExOSwxNDk4ODc0ODksLTgyMD
-c5MzgxMCwtMjEyNTU0ODQzMCwtMTgyNDE3ODQ4MSwtNzc4NDMz
-NjA2LC0xNjU0MDIwNDY2LC03MjU4MzM0ODYsODI2Njc0Mjg2LD
-g0MDM3NTg5MywtNDYyNTc0ODkzLC0xNjcxNTU1OTMyLC0xODQ1
-MzYxMzM3LC01MTAzODM4NTMsNzI0Mzc1MTAxLC04MDk4ODkxMD
-gsMTE5MzA2MDIwMSw1ODg4OTcwNDMsLTgwOTM1NDc3MCwtMjA4
-NDY5MDAxNV19
+eyJoaXN0b3J5IjpbLTE3Njk3NTg4NjgsMTQ5ODg3NDg5LC04Mj
+A3OTM4MTAsLTIxMjU1NDg0MzAsLTE4MjQxNzg0ODEsLTc3ODQz
+MzYwNiwtMTY1NDAyMDQ2NiwtNzI1ODMzNDg2LDgyNjY3NDI4Ni
+w4NDAzNzU4OTMsLTQ2MjU3NDg5MywtMTY3MTU1NTkzMiwtMTg0
+NTM2MTMzNywtNTEwMzgzODUzLDcyNDM3NTEwMSwtODA5ODg5MT
+A4LDExOTMwNjAyMDEsNTg4ODk3MDQzLC04MDkzNTQ3NzAsLTIw
+ODQ2OTAwMTVdfQ==
 -->
