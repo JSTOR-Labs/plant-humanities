@@ -103,7 +103,7 @@ Yet scientists still disagree about when humans used domesticated sunflowers in 
 <param ve-entity eid="Q15472169" title="patron of the arts" aliases="patron">
 <param ve-entity eid="Q2825010" title="Adriaen Collaert">
 <param ve-entity eid="Q1140201" title="Crispijn van de Passe the Younger" aliases="Crispijn van de Passe">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist then working for Charles I of England, surely had numerous models from which to work.[^ref16] Such imagery would have been known to artists through emblems and florilegia, particularly those produced by Crispijn van de Passe and Adriaen Collaert. Nevertheless, Van Dyck's painting presents a lively image of the artist who has just turned his head toward us, as though, perhaps, we discovered him admiring a flower unawares in a pleasure garden. The painter's opulent gold chain, gifted by the King, identified his position as a royal portraitist and member of the court. He points his index finger toward the pert head and robust foliage of a blooming golden sunflower—a floral manifestation of his loyalty to his patron.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist then working for Charles I of England, surely had numerous models from which to work.[^ref16] Such imagery would have been known to artists through emblems and florilegia, particularly those produced by Crispijn van de Passe and Adriaen Collaert. Nevertheless, Van Dyck's painting presents a lively image of the artist who has seemingly just turned his head toward us, as though we spontaneously discovered him admiring a flower unawares in a pleasure garden. The painter's opulent gold chain, gifted by the King, identifies his position as a royal portraitist and member of the court. His index finger draws our attention to the pert head and robust foliage of a blooming golden sunflower—a floral manifestation of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, c. 1632 or 1633, Eaton Hall, Cheshire, England, Wikimedia Commons">
 <param ve-image fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/0c/21/4f/74/0c214f74-b475-4efc-ba0c-0b5c745e3f71/iiif/4817_000147.tif/8.210526315789474,5.47329650092081,2225.0526315789475,1477.7900552486187/!813,540/0/default.jpg" title="Crispijn van de Passe, _Hortus floridus_, 1614-16, CC BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Collaert_Rijksmuseum_RP-P-BI-5997.jpg" title="Adriaen Collaert, _Sunflower and other flowers_, from _Florilegium_, 1570-before 1618, Rijksmuseum">
@@ -237,11 +237,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxNjEyOTY1LDY4NTgzNDIzMywxOTE5Nz
-k0Mjk1LC0xNTA5NjMxNjc5LC0xNDUxNDA2NjYxLC02MTg5NTcx
-OTksMTgzNDkzNjM3NCwtMTM0NDQzOTM0NSwxMjg4MjQ1NjA5LC
-0xNzE3NDUyMDAsLTE4NzMzOTAzNTksMTUyNzYwOTY3MCwtMTA0
-NTYwNTQxMCwxNTk0MTc4ODU2LC0xNTE1NTM0MjY1LC0yNDA0MD
-c5NTIsLTE1MTE1NzA5MjksLTk2MzIxODY0NCwxNjMwMjMzNDIw
-LDQ0MDk4ODg4Ml19
+eyJoaXN0b3J5IjpbMTE2MzM0NjU2Nyw5MzE2MTI5NjUsNjg1OD
+M0MjMzLDE5MTk3OTQyOTUsLTE1MDk2MzE2NzksLTE0NTE0MDY2
+NjEsLTYxODk1NzE5OSwxODM0OTM2Mzc0LC0xMzQ0NDM5MzQ1LD
+EyODgyNDU2MDksLTE3MTc0NTIwMCwtMTg3MzM5MDM1OSwxNTI3
+NjA5NjcwLC0xMDQ1NjA1NDEwLDE1OTQxNzg4NTYsLTE1MTU1Mz
+QyNjUsLTI0MDQwNzk1MiwtMTUxMTU3MDkyOSwtOTYzMjE4NjQ0
+LDE2MzAyMzM0MjBdfQ==
 -->
