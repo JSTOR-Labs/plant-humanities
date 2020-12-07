@@ -12,8 +12,8 @@
 
 In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction s simple enough – try to swallow a tablespoon of cinnamon at once – it prove to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestable clutter in the back of the throat. Thankfully, this [quite dagerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
 
-### A global history of forgotten knowledge
-Cinnamon already had a global history long before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same as those found in the East Indies in the sixteenth century, to which those names were attached. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
+### Forgotten knowledge and fabricated history
+Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same as those found in the East Indies in the sixteenth century, to which those names were attached. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
 
 How could such confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, however, European scholars writing about cinnamon would turn to classical, not medieval sources to understand the spice and its properties. Discrepancies between classical descriptions of the spice and the plant that was found in Sri Lanka could be resolved. In his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations of cinnamon and descriptions by classical authors by the fact that the latter had only known the processed spice, not the actual plant. The _cinnamomum_ and _cassia_ (or _cassia lignea_) of the ancients were only processed variations of the same plant, he claimed.[^ref3]
 <param ve-image
@@ -22,7 +22,7 @@ How could such confusion last so long? First, a possible explanation for the shi
 	seq="100219"
 	region="">
 
-Much more surprising than the early modern confusion of what cinnamon was, is the fact that the exact same confusion continued to exist until the present day. This is a striking case of forgotten knowledge in modern science. Already in the nineteenth century, the renowned referenec work [_Pharmacographia_]
+A second, and much more surprising reason for the lothan the early modern confusion of what cinnamon was, is the fact that the exact same confusion continued to exist until the present day. This is a striking case of forgotten knowledge in modern science. Already in the nineteenth century, the renowned referenec work [_Pharmacographia_]
 
 ### Cinnamon as a tool of empire
 Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref4]
@@ -129,11 +129,11 @@ In ieder geval toevoegen:
 [^ref3]: Inês de Ornellas e Castro, "A 'Pleasant Banquet of Words': Therapeutic Virtues and Alimentary Consumption in Garcia de Orta's _Colloquies on the Simples and Drugs of India_", in: Palmira Fontes da Costa (ed.), _Medicine, Trade, and Empire: Garcia de Orta's_ Colloquies on the Simples and Drugs of India _(1563) in Context_ (Farnham and Burlington: Ashgate 2015) 67-88, there 84, 85.
 [^ref4]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTUwMDYwMiwtOTI3NTU5NDAsMzkwOD
-g3NTY2LC0xMDI4NTU3ODc2LDE1NjY3MDQ4OSwtMTg3OTAyNDEw
-MSwxNTIyNDA2ODM1LDMxMzM0ODIzOSwyMTAzNDU2MzksNDQ3ND
-E0NTI1LC0zMzkyMTkzMTUsNDg1Mzg0NzgxLC0xMjY4OTc2Niwt
-MTg0NTM2OTgyMCwxMjg5NjM1NjgwLC0zODQ1MDIwNzcsLTIxMT
-I5Nzg4MzEsNTM2NTYzNjI1LC0xOTUzMjc5MzcxLDE2MDg3ODA1
-MjJdfQ==
+eyJoaXN0b3J5IjpbNDY0MDQ2Mzg1LDE3MDk1MDA2MDIsLTkyNz
+U1OTQwLDM5MDg4NzU2NiwtMTAyODU1Nzg3NiwxNTY2NzA0ODks
+LTE4NzkwMjQxMDEsMTUyMjQwNjgzNSwzMTMzNDgyMzksMjEwMz
+Q1NjM5LDQ0NzQxNDUyNSwtMzM5MjE5MzE1LDQ4NTM4NDc4MSwt
+MTI2ODk3NjYsLTE4NDUzNjk4MjAsMTI4OTYzNTY4MCwtMzg0NT
+AyMDc3LC0yMTEyOTc4ODMxLDUzNjU2MzYyNSwtMTk1MzI3OTM3
+MV19
 -->
