@@ -22,7 +22,7 @@ How could such confusion last so long? First, a possible explanation for the shi
 	seq="100219"
 	region="">
 
-A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in early modern times continued to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. This narrative of ancient trade is unlikely, but an even more imaginative version was proposed in their reasoning is more plausible than Cinnamon could not have come from Sri Lanka in Antiquity, where it only ball cinnamonentered Europe from Arabia and East Africa: from China, they argued, but certainly not from Sri Lanka.s traded. They favored the second option, claiming that all the cinnamon of the ancients must have been _cassia lignea_ from China. Cinnamon could not have come from Sri Lanka in Antiquity,
+A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in early modern times continued to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. This narrative of ancient trade is unlikely, but an even more imaginative version was proposed by J.I. Miller, who argued their reasoning is more plausible than Cinnamon could not have come from Sri Lanka in Antiquity, where it only ball cinnamonentered Europe from Arabia and East Africa: from China, they argued, but certainly not from Sri Lanka.s traded. They favored the second option, claiming that all the cinnamon of the ancients must have been _cassia lignea_ from China. Cinnamon could not have come from Sri Lanka in Antiquity,
 
 ### Cinnamon as a tool of empire
 Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref5]
@@ -130,11 +130,11 @@ In ieder geval toevoegen:
 [^ref4]: Vijaya Samaraweera, "The Cinnamon Trade of Ceylon", _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
 [^ref5]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU5MzQ0MTQsLTE2Njc3NjU5NTAsLT
-Q5OTEyOTU2LDg1NjYwOTc2LC0xMjQzMzg3NTQyLDM4MjM3ODIx
-OCwxNzA5NTAwNjAyLC05Mjc1NTk0MCwzOTA4ODc1NjYsLTEwMj
-g1NTc4NzYsMTU2NjcwNDg5LC0xODc5MDI0MTAxLDE1MjI0MDY4
-MzUsMzEzMzQ4MjM5LDIxMDM0NTYzOSw0NDc0MTQ1MjUsLTMzOT
-IxOTMxNSw0ODUzODQ3ODEsLTEyNjg5NzY2LC0xODQ1MzY5ODIw
-XX0=
+eyJoaXN0b3J5IjpbMjkxMDM5MzA4LC0xNjY3NzY1OTUwLC00OT
+kxMjk1Niw4NTY2MDk3NiwtMTI0MzM4NzU0MiwzODIzNzgyMTgs
+MTcwOTUwMDYwMiwtOTI3NTU5NDAsMzkwODg3NTY2LC0xMDI4NT
+U3ODc2LDE1NjY3MDQ4OSwtMTg3OTAyNDEwMSwxNTIyNDA2ODM1
+LDMxMzM0ODIzOSwyMTAzNDU2MzksNDQ3NDE0NTI1LC0zMzkyMT
+kzMTUsNDg1Mzg0NzgxLC0xMjY4OTc2NiwtMTg0NTM2OTgyMF19
+
 -->
