@@ -134,15 +134,15 @@ In ieder geval toevoegen:
 
 [^ref4]: Vijaya Samaraweera, "The Cinnamon Trade of Ceylon", _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
 
-[^ref5]: J. Innes Miller, _The Spice Trade of the Roman Empire, 29 B.C. to A.D. 641_ (Oxford: Clarendon Press 1969); embraced by Lionel Casson, _Ancient Trade and Society_ (Detroit: Wayne State University Press 1984) 225-246; and John M. Riddle, _Dioscorides on Pharmacy and Medicine_. Forew. by J. Scarborough (Austin: University of Texas Press 1985) refuted by Manfred G. Raschke, "New Studies in Roman Commerce with the East", in: H. Temporini (ed.), _Aufstieg und Niedergang der Römischen Welt: Geschichte und Kultur Roms in der neueren Forschung, II Principat / Rise and Fall of the Roman World: History and Culture of Rome in Recent Research, 2nd Principat_ (Berlin and New York: Walter de Gruyter 1978), vol. 9, part 2, 604-1361; Patricia Crone, _Meccan Trade and the Rise of Islam_ (Princeton (NJ): Princeton University Press 1987).
+[^ref5]: J. Innes Miller, _The Spice Trade of the Roman Empire, 29 B.C. to A.D. 641_ (Oxford: Clarendon Press 1969); embraced by Lionel Casson, _Ancient Trade and Society_ (Detroit: Wayne State University Press 1984) 225-246; and by John M. Riddle, _Dioscorides on Pharmacy and Medicine_. Forew. by J. Scarborough (Austin: University of Texas Press 1985) 98-104; refuted by Manfred G. Raschke, "New Studies in Roman Commerce with the East", in: H. Temporini (ed.), _Aufstieg und Niedergang der Römischen Welt: Geschichte und Kultur Roms in der neueren Forschung, II Principat / Rise and Fall of the Roman World: History and Culture of Rome in Recent Research, 2nd Principat_ (Berlin and New York: Walter de Gruyter 1978), vol. 9, part 2, 604-1361; and by Patricia Crone, _Meccan Trade and the Rise of Islam_ (Princeton (NJ): Princeton University Press 1987) 37.
 
 [^ref6]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODg2NzkyOCwtMTg1MjY2NDM4MiwzNT
-Y5NjgzMDMsLTE0MjgxNzY2OTksLTE4NjA1OTc2ODAsMjY0Nzgw
-Njk5LDEyNzgwMjIyMTcsMjE0NjIwNDUxOCwyOTEwMzkzMDgsLT
-E2Njc3NjU5NTAsLTQ5OTEyOTU2LDg1NjYwOTc2LC0xMjQzMzg3
-NTQyLDM4MjM3ODIxOCwxNzA5NTAwNjAyLC05Mjc1NTk0MCwzOT
-A4ODc1NjYsLTEwMjg1NTc4NzYsMTU2NjcwNDg5LC0xODc5MDI0
-MTAxXX0=
+eyJoaXN0b3J5IjpbLTEzODEzNDk3NzUsLTE4NTI2NjQzODIsMz
+U2OTY4MzAzLC0xNDI4MTc2Njk5LC0xODYwNTk3NjgwLDI2NDc4
+MDY5OSwxMjc4MDIyMjE3LDIxNDYyMDQ1MTgsMjkxMDM5MzA4LC
+0xNjY3NzY1OTUwLC00OTkxMjk1Niw4NTY2MDk3NiwtMTI0MzM4
+NzU0MiwzODIzNzgyMTgsMTcwOTUwMDYwMiwtOTI3NTU5NDAsMz
+kwODg3NTY2LC0xMDI4NTU3ODc2LDE1NjY3MDQ4OSwtMTg3OTAy
+NDEwMV19
 -->
