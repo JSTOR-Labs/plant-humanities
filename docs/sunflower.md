@@ -104,7 +104,7 @@ Yet scientists still disagree about when humans used domesticated sunflowers in 
 <param ve-entity eid="Q15472169" title="patron of the arts" aliases="patron">
 <param ve-entity eid="Q2825010" title="Adriaen Collaert">
 <param ve-entity eid="Q1140201" title="Crispijn van de Passe the Younger" aliases="Crispijn van de Passe">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist under the patronage of Charles I of England, surely had numerous printed models from which to work.[^ref16] Such imagery was known to artists through emblems and florilegia, particularly those produced by Crispijn van de Passe and Adriaen Collaert. Regardless of which sources were consulted, Van Dyck’s painting presents a lively image of the artist who appears to have just turned his head to face us, as though we spontaneously discovered him admiring a sunflower unawares in a pleasure garden. The painter's opulent gold chain, gifted by the King, identifies his position as a royal portraitist and member of the court. Opposite him, the pert head and robust foliage of a golden sunflower served as a glorious floral manifestation of his loyalty to his patron.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist under the patronage of Charles I of England, surely had numerous printed models from which to work.[^ref16] Such imagery was known to artists through emblems and florilegia, particularly those produced by Crispijn van de Passe and Adriaen Collaert. Regardless of which sources were consulted, Van Dyck’s painting presents a lively image of the artist who appears to have just turned his head to face us, as though we spontaneously discovered him admiring a sunflower unawares in a pleasure garden. The painter's opulent gold chain, gifted by the King, identifies his position as a royal portraitist and member of the court. the pert head and robust foliage of a golden sunflowera glorious floral manifestation of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, c. 1632 or 1633, Eaton Hall, Cheshire, England, Wikimedia Commons">
 <param ve-image fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/0c/21/4f/74/0c214f74-b475-4efc-ba0c-0b5c745e3f71/iiif/4817_000147.tif/8.210526315789474,5.47329650092081,2225.0526315789475,1477.7900552486187/!813,540/0/default.jpg" title="Crispijn van de Passe, _Hortus floridus_, 1614-16, CC BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Collaert_Rijksmuseum_RP-P-BI-5997.jpg" title="Adriaen Collaert, _Sunflower and other flowers_, from _Florilegium_, 1570-before 1618, Rijksmuseum">
@@ -238,11 +238,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQyMTAzMCwtMTM0Mjg5ODM5MSwtMT
-c4NTIzMDkyOSw2MjAxNzY2ODEsNDA0OTg1NjM0LC0xODE0NjQw
-NzY4LC0yMTQwMzQwODIsMTQxNjg1MDY2MCwtNDAwNDIxMjIsLT
-EwMDQ0Mjc0MjksMTY1MjIwNzM5OCwtNTg2NDEyNzE2LC0xMTkw
-MTIzMzM0LC03MzE3ODgwOTksLTE2OTEzNDIzNzEsMjA3Njc2MT
-A2OSwxMzM1ODM0MTE4LC0xMzg4OTQxNjcxLDEyNzQ0OTA3Nzgs
-LTIwMDI4MDI0NDddfQ==
+eyJoaXN0b3J5IjpbNzQ5NjgwOTU0LC0xMzQyODk4MzkxLC0xNz
+g1MjMwOTI5LDYyMDE3NjY4MSw0MDQ5ODU2MzQsLTE4MTQ2NDA3
+NjgsLTIxNDAzNDA4MiwxNDE2ODUwNjYwLC00MDA0MjEyMiwtMT
+AwNDQyNzQyOSwxNjUyMjA3Mzk4LC01ODY0MTI3MTYsLTExOTAx
+MjMzMzQsLTczMTc4ODA5OSwtMTY5MTM0MjM3MSwyMDc2NzYxMD
+Y5LDEzMzU4MzQxMTgsLTEzODg5NDE2NzEsMTI3NDQ5MDc3OCwt
+MjAwMjgwMjQ0N119
 -->
