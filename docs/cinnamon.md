@@ -39,7 +39,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1414,152,1586,1031">
 
-In the sixteenth century, the first efforts of European powers to gain control of cinnamon production and trade were humble. The Portuguese settled on the coast of Sri Lanka, hoping they could enforce commercial arrangements with local rulers without getting involved in local politics. The king of Kotte, a kingdom in the southwest, was certainly receptive, but in part because he hoped to use Portuguese help 
+In the sixteenth century, the first efforts of European powers to gain control of cinnamon production and trade were humble. The Portuguese settled on the coast of Sri Lanka, hoping they could enforce commercial arrangements with local rulers without getting involved in local politics. The king of Kotte, a kingdom in the southwest, was certainly receptive, but in part because he hoped to use Portuguese help to confront the Kingdom of Kollam in Kerela, to which Kotte had to pay tribute.
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -138,11 +138,11 @@ In ieder geval toevoegen:
 
 [^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjgwODUxNzMsMTQ4MzYxNzU0Miw0ND
-cwMDM2NzcsMTg5NjM0MzgyMiwtMTQ5NzI1OTk0LC05ODY2NTI5
-MjQsLTQ1MjYwNjI5NCw0MDc1MDc3ODQsMTA2NDA3Nzg2NywtOD
-gwMzQ1MTExLC0xMzczOTM4ODUwLDExNDU4NjgxMzUsLTEzMjgy
-NTU3MiwtMzExOTI0NzUxLC0xNTQ5Mjg1MDA5LC0xODUyNjY0Mz
-gyLDM1Njk2ODMwMywtMTQyODE3NjY5OSwtMTg2MDU5NzY4MCwy
-NjQ3ODA2OTldfQ==
+eyJoaXN0b3J5IjpbLTE4NDUyNjQ1OTUsLTEzMjgwODUxNzMsMT
+Q4MzYxNzU0Miw0NDcwMDM2NzcsMTg5NjM0MzgyMiwtMTQ5NzI1
+OTk0LC05ODY2NTI5MjQsLTQ1MjYwNjI5NCw0MDc1MDc3ODQsMT
+A2NDA3Nzg2NywtODgwMzQ1MTExLC0xMzczOTM4ODUwLDExNDU4
+NjgxMzUsLTEzMjgyNTU3MiwtMzExOTI0NzUxLC0xNTQ5Mjg1MD
+A5LC0xODUyNjY0MzgyLDM1Njk2ODMwMywtMTQyODE3NjY5OSwt
+MTg2MDU5NzY4MF19
 -->
