@@ -19,7 +19,7 @@ How could such confusion last so long? First, a possible explanation for the shi
 <param ve-image
 	title="test"
 	manifest="http://digital.ub.uni-duesseldorf.de/i3f/v20/4722055/manifest"
-	seq="100"
+	seq="100219"
 	region="">
 
 ### Cinnamon as a tool of empire
@@ -131,11 +131,11 @@ In ieder geval toevoegen:
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTE4OTA5OSwtMTg3OTAyNDEwMSwxNT
-IyNDA2ODM1LDMxMzM0ODIzOSwyMTAzNDU2MzksNDQ3NDE0NTI1
-LC0zMzkyMTkzMTUsNDg1Mzg0NzgxLC0xMjY4OTc2NiwtMTg0NT
-M2OTgyMCwxMjg5NjM1NjgwLC0zODQ1MDIwNzcsLTIxMTI5Nzg4
-MzEsNTM2NTYzNjI1LC0xOTUzMjc5MzcxLDE2MDg3ODA1MjIsLT
-YxMzQwMDA3NiwtMTkzODcwMzcxNCwxMTk4MDgyNzk2LC0yMDI2
-MjEyNzQ4XX0=
+eyJoaXN0b3J5IjpbMTU2NjcwNDg5LDEzNDUxODkwOTksLTE4Nz
+kwMjQxMDEsMTUyMjQwNjgzNSwzMTMzNDgyMzksMjEwMzQ1NjM5
+LDQ0NzQxNDUyNSwtMzM5MjE5MzE1LDQ4NTM4NDc4MSwtMTI2OD
+k3NjYsLTE4NDUzNjk4MjAsMTI4OTYzNTY4MCwtMzg0NTAyMDc3
+LC0yMTEyOTc4ODMxLDUzNjU2MzYyNSwtMTk1MzI3OTM3MSwxNj
+A4NzgwNTIyLC02MTM0MDAwNzYsLTE5Mzg3MDM3MTQsMTE5ODA4
+Mjc5Nl19
 -->
