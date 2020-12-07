@@ -2,7 +2,7 @@
 
 <param ve-config
 	   title="Dittany: Women’s Herbs and Reproductive Control"
-	   source-image="https://upload.wikimedia.org/wikipedia/commons/9/9a/Origanum_dictamnus.jpg"
+	   banner="https://upload.wikimedia.org/wikipedia/commons/9/9a/Origanum_dictamnus.jpg"
 	   layout="vtl"
 	   num-maps="13"
 	   num-images="11"
