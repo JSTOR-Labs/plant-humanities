@@ -18,9 +18,9 @@ Cinnamon already had a global history long before any European ever saw 'true' c
 
 How could such confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, however, European scholars writing about cinnamon would turn to classical, not medieval sources to understand the spice and its properties. Curiously, discrepancies between classical descriptions of the spice and the plant found in sixteenth-century Sri Lanka could be resolved. The Portuguese physician Garcia de Orta, for instance, who worked in sixteenth-century Goa in India, 
 <param ve-image
-	title=""
-	manifest=""
-	seq="219"
+	title="test"
+	manifest="http://digital.ub.uni-duesseldorf.de/i3f/v20/4722055/manifest"
+	seq="100"
 	region="">
 
 ### Cinnamon as a tool of empire
@@ -132,11 +132,11 @@ In ieder geval toevoegen:
 
 [^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMTkwOTg3LC0xODc5MDI0MTAxLDE1Mj
-I0MDY4MzUsMzEzMzQ4MjM5LDIxMDM0NTYzOSw0NDc0MTQ1MjUs
-LTMzOTIxOTMxNSw0ODUzODQ3ODEsLTEyNjg5NzY2LC0xODQ1Mz
-Y5ODIwLDEyODk2MzU2ODAsLTM4NDUwMjA3NywtMjExMjk3ODgz
-MSw1MzY1NjM2MjUsLTE5NTMyNzkzNzEsMTYwODc4MDUyMiwtNj
-EzNDAwMDc2LC0xOTM4NzAzNzE0LDExOTgwODI3OTYsLTIwMjYy
-MTI3NDhdfQ==
+eyJoaXN0b3J5IjpbMTU3NzY4NTczMywtMTg3OTAyNDEwMSwxNT
+IyNDA2ODM1LDMxMzM0ODIzOSwyMTAzNDU2MzksNDQ3NDE0NTI1
+LC0zMzkyMTkzMTUsNDg1Mzg0NzgxLC0xMjY4OTc2NiwtMTg0NT
+M2OTgyMCwxMjg5NjM1NjgwLC0zODQ1MDIwNzcsLTIxMTI5Nzg4
+MzEsNTM2NTYzNjI1LC0xOTUzMjc5MzcxLDE2MDg3ODA1MjIsLT
+YxMzQwMDA3NiwtMTkzODcwMzcxNCwxMTk4MDgyNzk2LC0yMDI2
+MjEyNzQ4XX0=
 -->
