@@ -18,13 +18,11 @@ Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinna
 	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
 	manifest="https://iiif.lib.harvard.edu/manifests/ids:18040817">
 
-
-How could such confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, however, European scholars writing about cinnamon would turn to classical, not medieval sources to understand the spice and its properties. Discrepancies between classical descriptions of the spice and the plant that was found in Sri Lanka could be resolved. In his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations of cinnamon and descriptions by classical authors by the fact that the latter had only known the processed spice, not the actual plant. The _cinnamomum_ and _cassia_ (or _cassia lignea_) of the ancients were only processed variations of the same plant, he claimed.[^ref3]
+How could such confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, however, European scholars writing about cinnamon would turn to classical, not medieval sources, to understand the spice and its properties. Discrepancies between classical descriptions of the spice and the plant that was found in Sri Lanka could be resolved. In his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations of cinnamon and descriptions by classical authors by the fact that the latter had only known the processed spice, not the actual plant. The _cinnamomum_ and _cassia_ (or _cassia lignea_) of the ancients were only processed variations of the same plant, he claimed.[^ref3]
 <param ve-image
 	title="test"
 	manifest="http://digital.ub.uni-duesseldorf.de/i3f/v20/4722055/manifest"
-	seq="100219"
-	region="">
+	seq="100">
 
 A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in early modern times continued to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. This narrative of ancient trade is unlikely, but still less imaginative than the one proposed by J. Innes Miller, who argued for an interoceanic Spice Route in Antiquity, spanning th
 
@@ -134,11 +132,11 @@ In ieder geval toevoegen:
 [^ref4]: Vijaya Samaraweera, "The Cinnamon Trade of Ceylon", _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
 [^ref5]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQ5NDE0MDQsMTI3ODAyMjIxNywyMT
-Q2MjA0NTE4LDI5MTAzOTMwOCwtMTY2Nzc2NTk1MCwtNDk5MTI5
-NTYsODU2NjA5NzYsLTEyNDMzODc1NDIsMzgyMzc4MjE4LDE3MD
-k1MDA2MDIsLTkyNzU1OTQwLDM5MDg4NzU2NiwtMTAyODU1Nzg3
-NiwxNTY2NzA0ODksLTE4NzkwMjQxMDEsMTUyMjQwNjgzNSwzMT
-MzNDgyMzksMjEwMzQ1NjM5LDQ0NzQxNDUyNSwtMzM5MjE5MzE1
-XX0=
+eyJoaXN0b3J5IjpbMjY0NzgwNjk5LDEyNzgwMjIyMTcsMjE0Nj
+IwNDUxOCwyOTEwMzkzMDgsLTE2Njc3NjU5NTAsLTQ5OTEyOTU2
+LDg1NjYwOTc2LC0xMjQzMzg3NTQyLDM4MjM3ODIxOCwxNzA5NT
+AwNjAyLC05Mjc1NTk0MCwzOTA4ODc1NjYsLTEwMjg1NTc4NzYs
+MTU2NjcwNDg5LC0xODc5MDI0MTAxLDE1MjI0MDY4MzUsMzEzMz
+Q4MjM5LDIxMDM0NTYzOSw0NDc0MTQ1MjUsLTMzOTIxOTMxNV19
+
 -->
