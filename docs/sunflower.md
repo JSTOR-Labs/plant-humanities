@@ -81,7 +81,7 @@ The migration of sunflower iconography from one source to another is evidenced i
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
 <param ve-entity eid="Q14714" title="achene" aliases="achenes">
-Although European herbals perpetuated a cultural myth that the domesticated sunflower originated in Peru and was present in Mexico prior to colonization, botanists debunked these ideas by using distribution maps and fossilized remains to study the plant’s origin and range.[^ref9] The earliest known cultivated sunflower remains—charred seeds, more accurately termed “achenes”—tell us that humans used _Helianthus annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
+Although European herbals such as Hernández’s perpetuated cultural myths that the domesticated sunflower was present in Mexico prior to colonization or originated in Peru, botanists debunked these ideas by using distribution maps and fossilized remains to study the plant’s origin and range.[^ref9] The earliest known cultivated sunflower remains—charred seeds, more accurately termed “achenes”—tell us that humans used _Helianthus annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
 <param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
@@ -238,11 +238,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDY5NjkzMSwtOTQ0MjA0MzUxLDIwMj
-E2MTgxMDksLTE4NDA1NzYzMDIsMTcyOTA4NDg0OSwtMzEzNDcz
-MzkwLC0xODg0NDA3ODg3LDY3NDg3NzcxOSw3NDk2ODA5NTQsLT
-EzNDI4OTgzOTEsLTE3ODUyMzA5MjksNjIwMTc2NjgxLDQwNDk4
-NTYzNCwtMTgxNDY0MDc2OCwtMjE0MDM0MDgyLDE0MTY4NTA2Nj
-AsLTQwMDQyMTIyLC0xMDA0NDI3NDI5LDE2NTIyMDczOTgsLTU4
-NjQxMjcxNl19
+eyJoaXN0b3J5IjpbLTQ5NDQ2MzM5LC02NTA2OTY5MzEsLTk0ND
+IwNDM1MSwyMDIxNjE4MTA5LC0xODQwNTc2MzAyLDE3MjkwODQ4
+NDksLTMxMzQ3MzM5MCwtMTg4NDQwNzg4Nyw2NzQ4Nzc3MTksNz
+Q5NjgwOTU0LC0xMzQyODk4MzkxLC0xNzg1MjMwOTI5LDYyMDE3
+NjY4MSw0MDQ5ODU2MzQsLTE4MTQ2NDA3NjgsLTIxNDAzNDA4Mi
+wxNDE2ODUwNjYwLC00MDA0MjEyMiwtMTAwNDQyNzQyOSwxNjUy
+MjA3Mzk4XX0=
 -->
