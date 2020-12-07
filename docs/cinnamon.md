@@ -15,7 +15,7 @@ In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although
 ### Forgotten knowledge
 Cinnamon already had a global history long before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities, are the same as those found in the East Indies in the sixteenth century, to which those names were attached. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
 
-How could such confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, however, European scholars writing about cinnamon would turn to classical, not medieval sources to understand the spice and its properties. Discrepancies between classical descriptions of the spice and the plant found in sixteenth-century Sri Lanka could be resolved. The Portuguese physician Garcia de Orta, for instance, who worked in sixteenth-century Goa in India, explained the differences between his own observations of cinnamon and descriptions by classical authors by the fact that the latter h
+How could such confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, however, European scholars writing about cinnamon would turn to classical, not medieval sources to understand the spice and its properties. Discrepancies between classical descriptions of the spice and the plant found in sixteenth-century Sri Lanka could be resolved. The Portuguese physician [quite dagerous assignment](https://doi.org/10.1542/peds.2012-3418) , for instance, who worked in sixteenth-century Goa in India, explained the differences between his own observations of cinnamon and descriptions by classical authors by the fact that the latter had only known the processed spice, not the actual plant.
 <param ve-image
 	title="test"
 	manifest="http://digital.ub.uni-duesseldorf.de/i3f/v20/4722055/manifest"
@@ -23,7 +23,7 @@ How could such confusion last so long? First, a possible explanation for the shi
 	region="">
 
 ### Cinnamon as a tool of empire
-Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref3]
+Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref4]
 <param ve-image
 	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding a branch and a bundle of cinnamon sticks, and standing next to a camel. Note that this coin was found on the opposite side of the Roman empire, in Yorkshire, Britain."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
@@ -125,17 +125,13 @@ In ieder geval toevoegen:
 [^ref2]: Haw, "Cinnamon", 10-11.
 [^ref3376,64,1625,119554,53,900,667">
 
-
-
-### References
-
-[^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
+[^ref4]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTYyNTM5MiwxNTY2NzA0ODksLTE4Nz
-kwMjQxMDEsMTUyMjQwNjgzNSwzMTMzNDgyMzksMjEwMzQ1NjM5
-LDQ0NzQxNDUyNSwtMzM5MjE5MzE1LDQ4NTM4NDc4MSwtMTI2OD
-k3NjYsLTE4NDUzNjk4MjAsMTI4OTYzNTY4MCwtMzg0NTAyMDc3
-LC0yMTEyOTc4ODMxLDUzNjU2MzYyNSwtMTk1MzI3OTM3MSwxNj
-A4NzgwNTIyLC02MTM0MDAwNzYsLTE5Mzg3MDM3MTQsMTE5ODA4
-Mjc5Nl19
+eyJoaXN0b3J5IjpbLTE5MzIzMzk2NTMsMTU2NjcwNDg5LC0xOD
+c5MDI0MTAxLDE1MjI0MDY4MzUsMzEzMzQ4MjM5LDIxMDM0NTYz
+OSw0NDc0MTQ1MjUsLTMzOTIxOTMxNSw0ODUzODQ3ODEsLTEyNj
+g5NzY2LC0xODQ1MzY5ODIwLDEyODk2MzU2ODAsLTM4NDUwMjA3
+NywtMjExMjk3ODgzMSw1MzY1NjM2MjUsLTE5NTMyNzkzNzEsMT
+YwODc4MDUyMiwtNjEzNDAwMDc2LC0xOTM4NzAzNzE0LDExOTgw
+ODI3OTZdfQ==
 -->
