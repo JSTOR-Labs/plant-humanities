@@ -121,14 +121,14 @@ In ieder geval toevoegen:
 # Verder vanaf Samaraweera (V.) 19s
 [^ref1]: Stephen G. Haw, "Cinnamon, Cassia and Ancient Trade", _Journal of Ancient History and Archaeology_, 4:1 (2017) 5-18
 [^ref2]: Haw, "Cinnamon", 10-11.
-[^ref3]: Inês de Ornellas e Castro, "A 'Pleasant Banquet of Words': Therapeutic Virtues and Alimentary Consumption in Garcia de Orta's _Colloquies on the Simples and Drugs of India_", in: P. Fontes da Costa (ed.), _Medicine, Trade, and Empire: Garcia de Orta's Colloquies on the Simples and Drugs of India (1563) in Context (Farnham and Burlington: Ashgate 2015) 67-88
-[^ref4: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
+[^ref3]: Inês de Ornellas e Castro, "A 'Pleasant Banquet of Words': Therapeutic Virtues and Alimentary Consumption in Garcia de Orta's _Colloquies on the Simples and Drugs of India_", in: Palmira Fontes da Costa (ed.), _Medicine, Trade, and Empire: Garcia de Orta's_ Colloquies on the Simples and Drugs of India _(1563) in Context_ (Farnham and Burlington: Ashgate 2015) 67-88, there 84, 85.
+[^ref4]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjQ3MTI2MCwtOTI3NTU5NDAsMzkwOD
-g3NTY2LC0xMDI4NTU3ODc2LDE1NjY3MDQ4OSwtMTg3OTAyNDEw
-MSwxNTIyNDA2ODM1LDMxMzM0ODIzOSwyMTAzNDU2MzksNDQ3ND
-E0NTI1LC0zMzkyMTkzMTUsNDg1Mzg0NzgxLC0xMjY4OTc2Niwt
-MTg0NTM2OTgyMCwxMjg5NjM1NjgwLC0zODQ1MDIwNzcsLTIxMT
-I5Nzg4MzEsNTM2NTYzNjI1LC0xOTUzMjc5MzcxLDE2MDg3ODA1
-MjJdfQ==
+eyJoaXN0b3J5IjpbNjIyOTEzMDg1LC05Mjc1NTk0MCwzOTA4OD
+c1NjYsLTEwMjg1NTc4NzYsMTU2NjcwNDg5LC0xODc5MDI0MTAx
+LDE1MjI0MDY4MzUsMzEzMzQ4MjM5LDIxMDM0NTYzOSw0NDc0MT
+Q1MjUsLTMzOTIxOTMxNSw0ODUzODQ3ODEsLTEyNjg5NzY2LC0x
+ODQ1MzY5ODIwLDEyODk2MzU2ODAsLTM4NDUwMjA3NywtMjExMj
+k3ODgzMSw1MzY1NjM2MjUsLTE5NTMyNzkzNzEsMTYwODc4MDUy
+Ml19
 -->
