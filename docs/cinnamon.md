@@ -40,7 +40,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1414,152,1586,1031">
 
-In the sixteenth century, the first efforts of European powers to gain control of cinnamon production and trade were humble. The Portuguese settled on the coast of Sri Lanka, hoping they could enforce commercial arrangements with local rulers. 
+In the sixteenth century, the first efforts of European powers to gain control of cinnamon production and trade were humble. The Portuguese settled on the coast of Sri Lanka, hoping they could enforce commercial arrangements with local rulers without getting involved in local politics. The king of Kotte, a kingdom in the southwest, was certainly receptive, but in part because he hoped to use Portuguese help 
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -139,11 +139,11 @@ In ieder geval toevoegen:
 
 [^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3MDAzNjc3LDE4OTYzNDM4MjIsLTE0OT
-cyNTk5NCwtOTg2NjUyOTI0LC00NTI2MDYyOTQsNDA3NTA3Nzg0
-LDEwNjQwNzc4NjcsLTg4MDM0NTExMSwtMTM3MzkzODg1MCwxMT
-Q1ODY4MTM1LC0xMzI4MjU1NzIsLTMxMTkyNDc1MSwtMTU0OTI4
-NTAwOSwtMTg1MjY2NDM4MiwzNTY5NjgzMDMsLTE0MjgxNzY2OT
-ksLTE4NjA1OTc2ODAsMjY0NzgwNjk5LDEyNzgwMjIyMTcsMjE0
-NjIwNDUxOF19
+eyJoaXN0b3J5IjpbMTQ4MzYxNzU0Miw0NDcwMDM2NzcsMTg5Nj
+M0MzgyMiwtMTQ5NzI1OTk0LC05ODY2NTI5MjQsLTQ1MjYwNjI5
+NCw0MDc1MDc3ODQsMTA2NDA3Nzg2NywtODgwMzQ1MTExLC0xMz
+czOTM4ODUwLDExNDU4NjgxMzUsLTEzMjgyNTU3MiwtMzExOTI0
+NzUxLC0xNTQ5Mjg1MDA5LC0xODUyNjY0MzgyLDM1Njk2ODMwMy
+wtMTQyODE3NjY5OSwtMTg2MDU5NzY4MCwyNjQ3ODA2OTksMTI3
+ODAyMjIxN119
 -->
