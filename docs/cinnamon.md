@@ -22,7 +22,7 @@ How could such confusion last so long? First, a possible explanation for the shi
 	seq="100219"
 	region="">
 
-A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in early modern times continued to exist until the present day. This is a striking case of forgotten knowledge in modern science. Already in the nineteenth century, the renowned reference work [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) by Flückiger and Hanbury stated that
+A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in early modern times continued to exist until the present day. This is a striking case of forgotten knowledge in modern science. Already in the nineteenth century, the renowned reference work [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) by Flückiger and Hanbury stated that cinnamon in Antiquity entered Europe from Arabia and East Africa, which could be the habitat of t
 
 ### Cinnamon as a tool of empire
 Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref4]
@@ -129,11 +129,11 @@ In ieder geval toevoegen:
 [^ref3]: Inês de Ornellas e Castro, "A 'Pleasant Banquet of Words': Therapeutic Virtues and Alimentary Consumption in Garcia de Orta's _Colloquies on the Simples and Drugs of India_", in: Palmira Fontes da Costa (ed.), _Medicine, Trade, and Empire: Garcia de Orta's_ Colloquies on the Simples and Drugs of India _(1563) in Context_ (Farnham and Burlington: Ashgate 2015) 67-88, there 84, 85.
 [^ref4]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDMzODc1NDIsMzgyMzc4MjE4LDE3MD
-k1MDA2MDIsLTkyNzU1OTQwLDM5MDg4NzU2NiwtMTAyODU1Nzg3
-NiwxNTY2NzA0ODksLTE4NzkwMjQxMDEsMTUyMjQwNjgzNSwzMT
-MzNDgyMzksMjEwMzQ1NjM5LDQ0NzQxNDUyNSwtMzM5MjE5MzE1
-LDQ4NTM4NDc4MSwtMTI2ODk3NjYsLTE4NDUzNjk4MjAsMTI4OT
-YzNTY4MCwtMzg0NTAyMDc3LC0yMTEyOTc4ODMxLDUzNjU2MzYy
-NV19
+eyJoaXN0b3J5IjpbOTUzOTU2MzA3LC0xMjQzMzg3NTQyLDM4Mj
+M3ODIxOCwxNzA5NTAwNjAyLC05Mjc1NTk0MCwzOTA4ODc1NjYs
+LTEwMjg1NTc4NzYsMTU2NjcwNDg5LC0xODc5MDI0MTAxLDE1Mj
+I0MDY4MzUsMzEzMzQ4MjM5LDIxMDM0NTYzOSw0NDc0MTQ1MjUs
+LTMzOTIxOTMxNSw0ODUzODQ3ODEsLTEyNjg5NzY2LC0xODQ1Mz
+Y5ODIwLDEyODk2MzU2ODAsLTM4NDUwMjA3NywtMjExMjk3ODgz
+MV19
 -->
