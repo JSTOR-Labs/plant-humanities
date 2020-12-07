@@ -15,6 +15,7 @@
 _Helianthus annuus_ (common or annual sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans first domesticated in North America thousands of years ago and the only one that is still widely used today.[^ref1] Indeed, the domesticated sunflower is primarily grown as an oil seed crop, having been introduced from its native range in North America nearly worldwide. The cultivated sunflower is also a popular ornamental, renowned for its yellow flower head, large disk, heart-shaped or ovate leaves, unbranched stem, and imposing height. Remarkably, the plant can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported. 
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Helianthus_annuus_3.jpg" title="Wild _Helianthus annuus_ is an annual plant with a multi-branched stem and many small flower heads, Kyle Canyon Road, Spring Mountains, southern Nevada, Stan Shebs, Wikimedia Commons, CC BY-SA 3.0">
+<param ve-image fit="contain" url="
 
 <param ve-entity eid="Q995745" title="artificial selection" aliases="artificially selected">
 <param ve-entity eid="Q3796486" title="botanical illustration">
@@ -236,11 +237,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDQyMTIyLC0xMDA0NDI3NDI5LDE2NT
-IyMDczOTgsLTU4NjQxMjcxNiwtMTE5MDEyMzMzNCwtNzMxNzg4
-MDk5LC0xNjkxMzQyMzcxLDIwNzY3NjEwNjksMTMzNTgzNDExOC
-wtMTM4ODk0MTY3MSwxMjc0NDkwNzc4LC0yMDAyODAyNDQ3LC0x
-ODY5NTU2MDU3LC0xNDM5NDEwOTc1LC0xMTUwNzkxNzkyLC05MT
-g0MTc2NTcsLTEzMDU0NDczODMsOTMxNjEyOTY1LDY4NTgzNDIz
-MywxOTE5Nzk0Mjk1XX0=
+eyJoaXN0b3J5IjpbMTQxNjg1MDY2MCwtNDAwNDIxMjIsLTEwMD
+Q0Mjc0MjksMTY1MjIwNzM5OCwtNTg2NDEyNzE2LC0xMTkwMTIz
+MzM0LC03MzE3ODgwOTksLTE2OTEzNDIzNzEsMjA3Njc2MTA2OS
+wxMzM1ODM0MTE4LC0xMzg4OTQxNjcxLDEyNzQ0OTA3NzgsLTIw
+MDI4MDI0NDcsLTE4Njk1NTYwNTcsLTE0Mzk0MTA5NzUsLTExNT
+A3OTE3OTIsLTkxODQxNzY1NywtMTMwNTQ0NzM4Myw5MzE2MTI5
+NjUsNjg1ODM0MjMzXX0=
 -->
