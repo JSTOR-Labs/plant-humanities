@@ -32,7 +32,7 @@ Sunflower imagery can provide rich historical information about the plant and th
 
 <param ve-entity eid="Q10432667306" title="Carl Linnaeus" aliases="Carolus Linnaeus">
 <param ve-entity eid="Q66425303" title="iconic">
-The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2%29)_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—and the species _Helianthus annuus_ were named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the domesticated sunflower was already a beloved garden flower in Europe.[^ref2] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant, in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_ (1737), offers some insights. He asks, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?”[^ref3] His encomium on the splendor of a mature _Helianthus_ inflorescence and its formal resemblance to the sun demonstrates some traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
+The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2%29)_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—and the species _Helianthus annuus_ were named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the domesticated sunflower was already a beloved garden flower in Europe.[^ref2] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_ (1737), offers some insights. He asks, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?”[^ref3] His encomium on the splendor of a mature _Helianthus_ inflorescence celebrates its formal resemblance to the sun demonstrates some traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
 <param ve-image primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, _Critica botanica_, Lugduni Batavorum: Apud Conradum Wishoff, 1737, 97 © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, _Critica botanica_, Lugduni Batavorum: Apud Conradum Wishoff, 1737, 98 © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
@@ -237,11 +237,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0OTg1NjM0LC0xODE0NjQwNzY4LC0yMT
-QwMzQwODIsMTQxNjg1MDY2MCwtNDAwNDIxMjIsLTEwMDQ0Mjc0
-MjksMTY1MjIwNzM5OCwtNTg2NDEyNzE2LC0xMTkwMTIzMzM0LC
-03MzE3ODgwOTksLTE2OTEzNDIzNzEsMjA3Njc2MTA2OSwxMzM1
-ODM0MTE4LC0xMzg4OTQxNjcxLDEyNzQ0OTA3NzgsLTIwMDI4MD
-I0NDcsLTE4Njk1NTYwNTcsLTE0Mzk0MTA5NzUsLTExNTA3OTE3
-OTIsLTkxODQxNzY1N119
+eyJoaXN0b3J5IjpbNjIwMTc2NjgxLDQwNDk4NTYzNCwtMTgxND
+Y0MDc2OCwtMjE0MDM0MDgyLDE0MTY4NTA2NjAsLTQwMDQyMTIy
+LC0xMDA0NDI3NDI5LDE2NTIyMDczOTgsLTU4NjQxMjcxNiwtMT
+E5MDEyMzMzNCwtNzMxNzg4MDk5LC0xNjkxMzQyMzcxLDIwNzY3
+NjEwNjksMTMzNTgzNDExOCwtMTM4ODk0MTY3MSwxMjc0NDkwNz
+c4LC0yMDAyODAyNDQ3LC0xODY5NTU2MDU3LC0xNDM5NDEwOTc1
+LC0xMTUwNzkxNzkyXX0=
 -->
