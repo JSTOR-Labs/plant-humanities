@@ -10,7 +10,7 @@
 
 ### The cinnamon challenge
 
-In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction s simple enough – try to swallow a tablespoon of cinnamon at once – it prove to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestable clutter in the back of the throat. Thankfully, this [quite dagerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
+In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestable clutter in the back of the throat. Thankfully, this [quite dagerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
 
 ### Forgotten knowledge and fabricated history
 Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same as those found in the East Indies in the sixteenth century, to which those names were attached. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
@@ -141,11 +141,11 @@ In ieder geval toevoegen:
 
 [^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1MTIxMzM2LC00NTI2MDYyOTQsNDA3NT
-A3Nzg0LDEwNjQwNzc4NjcsLTg4MDM0NTExMSwtMTM3MzkzODg1
-MCwxMTQ1ODY4MTM1LC0xMzI4MjU1NzIsLTMxMTkyNDc1MSwtMT
-U0OTI4NTAwOSwtMTg1MjY2NDM4MiwzNTY5NjgzMDMsLTE0Mjgx
-NzY2OTksLTE4NjA1OTc2ODAsMjY0NzgwNjk5LDEyNzgwMjIyMT
-csMjE0NjIwNDUxOCwyOTEwMzkzMDgsLTE2Njc3NjU5NTAsLTQ5
-OTEyOTU2XX0=
+eyJoaXN0b3J5IjpbMTgzMzYyMTgwNCwtNDUyNjA2Mjk0LDQwNz
+UwNzc4NCwxMDY0MDc3ODY3LC04ODAzNDUxMTEsLTEzNzM5Mzg4
+NTAsMTE0NTg2ODEzNSwtMTMyODI1NTcyLC0zMTE5MjQ3NTEsLT
+E1NDkyODUwMDksLTE4NTI2NjQzODIsMzU2OTY4MzAzLC0xNDI4
+MTc2Njk5LC0xODYwNTk3NjgwLDI2NDc4MDY5OSwxMjc4MDIyMj
+E3LDIxNDYyMDQ1MTgsMjkxMDM5MzA4LC0xNjY3NzY1OTUwLC00
+OTkxMjk1Nl19
 -->
