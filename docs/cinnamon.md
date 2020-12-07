@@ -31,7 +31,7 @@ All such philological quibbling about ancient sources was of no concern to the e
 <param ve-image
 	title="Coat of arms of Juan Sebastián Elcano. At the bottom can be seen two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner reads in Latin "Primus circumdedisti me" ("You first encircled me").
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
-	fit="contain">
+	region="-408,1,1403,1023">
 
 ### Cinnamon as a tool of empire
 Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref]
@@ -141,7 +141,7 @@ In ieder geval toevoegen:
 
 [^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODcwMTI3MSwtOTg2NjUyOTI0LC00NT
+eyJoaXN0b3J5IjpbLTk4MDYzMTk2NCwtOTg2NjUyOTI0LC00NT
 I2MDYyOTQsNDA3NTA3Nzg0LDEwNjQwNzc4NjcsLTg4MDM0NTEx
 MSwtMTM3MzkzODg1MCwxMTQ1ODY4MTM1LC0xMzI4MjU1NzIsLT
 MxMTkyNDc1MSwtMTU0OTI4NTAwOSwtMTg1MjY2NDM4MiwzNTY5
