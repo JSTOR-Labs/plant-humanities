@@ -130,17 +130,17 @@ In ieder geval toevoegen:
 
 [^ref4]: Vijaya Samaraweera, "The Cinnamon Trade of Ceylon", _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
 
-[^ref5]: J. Innes Miller, _The Spice Trade of the Roman Empire, 29 B.C. to A.D. 641_ (Oxford: Clarendon Press 1969); embraced by Lionel Casson, _Ancient Trade and Society_ (Detroit: Wayne State University Press 1984) 225-246; and by John M. Riddle, _Dioscorides on Pharmacy and Medicine_. Forew. by J. Scarborough (Austin: University of Texas Press 1985) 98-104; refuted by Manfred G. Raschke, "New Studies in Roman Commerce with the East", in: H. Temporini (ed.), _Aufstieg und Niedergang der Römischen Welt: Geschichte und Kultur Roms in der neueren Forschung, II Principat / Rise and Fall of the Roman World: History and Culture of Rome in Recent Research, 2nd Principat_ (Berlin and New York: Walter de Gruyter 1978), vol. 9, part 2, 604-1361; and by Patricia Crone, _Meccan Trade and the Rise of Islam_ (Princeton (NJ): Princeton University Press 1987) 37.
+[^ref5]: J. Innes Miller, _The Spice Trade of the Roman Empire, 29 B.C. to A.D. 641_ (Oxford: Clarendon Press 1969). The Spice Route thesis was embraced by Lionel Casson, _Ancient Trade and Society_ (Detroit: Wayne State University Press 1984) 225-246; and by John M. Riddle, _Dioscorides on Pharmacy and Medicine_. Forew. by J. Scarborough (Austin: University of Texas Press 1985) 98-104. It was refuted by Manfred G. Raschke, "New Studies in Roman Commerce with the East", in: H. Temporini (ed.), _Aufstieg und Niedergang der Römischen Welt: Geschichte und Kultur Roms in der neueren Forschung, II Principat / Rise and Fall of the Roman World: History and Culture of Rome in Recent Research, 2nd Principat_ (Berlin and New York: Walter de Gruyter 1978), vol. 9, part 2, 604-1361; and by Patricia Crone, _Meccan Trade and the Rise of Islam_ (Princeton (NJ): Princeton University Press 1987) 37.
 
 [^ref6]: George B. Griffenhagen, "The Materia Medica of Christopher Columbus", _Pharmacy in History_, 34:3 (1992) 131-145, there 133; and Francisco Guerra, "Drugs from the Indies and the Political Economy of the Sixteenth Century", in: N. Florkin (ed.), _Materia Medica in the XVIth Century: Proceedings of a Symposium of the International Academy of the History of Medicine Held at the University of Basel, 7th Sept. 1964_. Analecta Medico-Historica 1 (Oxford: Pergamon Press 1964) 29-54.
 
 [^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjgyNTU3MiwtMzExOTI0NzUxLC0xNT
-Q5Mjg1MDA5LC0xODUyNjY0MzgyLDM1Njk2ODMwMywtMTQyODE3
-NjY5OSwtMTg2MDU5NzY4MCwyNjQ3ODA2OTksMTI3ODAyMjIxNy
-wyMTQ2MjA0NTE4LDI5MTAzOTMwOCwtMTY2Nzc2NTk1MCwtNDk5
-MTI5NTYsODU2NjA5NzYsLTEyNDMzODc1NDIsMzgyMzc4MjE4LD
-E3MDk1MDA2MDIsLTkyNzU1OTQwLDM5MDg4NzU2NiwtMTAyODU1
-Nzg3Nl19
+eyJoaXN0b3J5IjpbLTE5NDQwOTE5MDUsLTEzMjgyNTU3MiwtMz
+ExOTI0NzUxLC0xNTQ5Mjg1MDA5LC0xODUyNjY0MzgyLDM1Njk2
+ODMwMywtMTQyODE3NjY5OSwtMTg2MDU5NzY4MCwyNjQ3ODA2OT
+ksMTI3ODAyMjIxNywyMTQ2MjA0NTE4LDI5MTAzOTMwOCwtMTY2
+Nzc2NTk1MCwtNDk5MTI5NTYsODU2NjA5NzYsLTEyNDMzODc1ND
+IsMzgyMzc4MjE4LDE3MDk1MDA2MDIsLTkyNzU1OTQwLDM5MDg4
+NzU2Nl19
 -->
