@@ -40,6 +40,8 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1414,152,1586,1031">
 
+In the sixteenth century, theEuropean powers wanted to use cinnamon as a
+
 Biblical connotations
 	Duke (J.A.) 2008
 
@@ -137,11 +139,11 @@ In ieder geval toevoegen:
 
 [^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjM0MzgyMiwtMTQ5NzI1OTk0LC05OD
-Y2NTI5MjQsLTQ1MjYwNjI5NCw0MDc1MDc3ODQsMTA2NDA3Nzg2
-NywtODgwMzQ1MTExLC0xMzczOTM4ODUwLDExNDU4NjgxMzUsLT
-EzMjgyNTU3MiwtMzExOTI0NzUxLC0xNTQ5Mjg1MDA5LC0xODUy
-NjY0MzgyLDM1Njk2ODMwMywtMTQyODE3NjY5OSwtMTg2MDU5Nz
-Y4MCwyNjQ3ODA2OTksMTI3ODAyMjIxNywyMTQ2MjA0NTE4LDI5
-MTAzOTMwOF19
+eyJoaXN0b3J5IjpbOTcwMzkwNTk1LDE4OTYzNDM4MjIsLTE0OT
+cyNTk5NCwtOTg2NjUyOTI0LC00NTI2MDYyOTQsNDA3NTA3Nzg0
+LDEwNjQwNzc4NjcsLTg4MDM0NTExMSwtMTM3MzkzODg1MCwxMT
+Q1ODY4MTM1LC0xMzI4MjU1NzIsLTMxMTkyNDc1MSwtMTU0OTI4
+NTAwOSwtMTg1MjY2NDM4MiwzNTY5NjgzMDMsLTE0MjgxNzY2OT
+ksLTE4NjA1OTc2ODAsMjY0NzgwNjk5LDEyNzgwMjIyMTcsMjE0
+NjIwNDUxOF19
 -->
