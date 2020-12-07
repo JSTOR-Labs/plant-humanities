@@ -23,7 +23,7 @@ How could such confusion last so long? First, a possible explanation for the shi
 	region="">
 
 ### Cinnamon as a tool of empire
-Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref]
+Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref4]
 <param ve-image
 	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding a branch and a bundle of cinnamon sticks, and standing next to a camel. Note that this coin was found on the opposite side of the Roman empire, in Yorkshire, Britain."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
@@ -127,7 +127,7 @@ In ieder geval toevoegen:
 [^ref3]: Inês de Ornellas e Castro, "A 'Pleasant Banquet of Words': Therapeutic Virtues and Alimentary Consumption in Garcia de Orta's _Colloquies on the Simples and Drugs of India_", in: Palmira Fontes da Costa (ed.), _Medicine, Trade, and Empire: Garcia de Orta's_ Colloquies on the Simples and Drugs of India _(1563) in Context_ (Farnham and Burlington: Ashgate 2015) 67-88, there 84, 85.
 [^ref4]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3Mjg3NTEyLC05Mjc1NTk0MCwzOTA4OD
+eyJoaXN0b3J5IjpbNTA1NDkwMTk0LC05Mjc1NTk0MCwzOTA4OD
 c1NjYsLTEwMjg1NTc4NzYsMTU2NjcwNDg5LC0xODc5MDI0MTAx
 LDE1MjI0MDY4MzUsMzEzMzQ4MjM5LDIxMDM0NTYzOSw0NDc0MT
 Q1MjUsLTMzOTIxOTMxNSw0ODUzODQ3ODEsLTEyNjg5NzY2LC0x
