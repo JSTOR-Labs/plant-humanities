@@ -74,10 +74,6 @@ Efforts of transplantation and acclimatization
 	Hermann (P.) 1687 (failed attempt in Dutch gardens)
 
 Cinnamon in the Spanish (Atlantic) world
-	- Combus and cinnamon
-	Griffenhagen (G.B.) 1992
-	- Elcano's coat of arms after the Magelhaes expedition
-	Guerra (F.) 1964
 	- Dutch exports of cinnamon to Spain and Spanish world
 	Israel (J.I.) 1989
 	- Chocolate drink in Spanish Atlantic world
@@ -141,7 +137,7 @@ In ieder geval toevoegen:
 
 [^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzAzNTQ3NSwtMTQ5NzI1OTk0LC05OD
+eyJoaXN0b3J5IjpbMTg5NjM0MzgyMiwtMTQ5NzI1OTk0LC05OD
 Y2NTI5MjQsLTQ1MjYwNjI5NCw0MDc1MDc3ODQsMTA2NDA3Nzg2
 NywtODgwMzQ1MTExLC0xMzczOTM4ODUwLDExNDU4NjgxMzUsLT
 EzMjgyNTU3MiwtMzExOTI0NzUxLC0xNTQ5Mjg1MDA5LC0xODUy
