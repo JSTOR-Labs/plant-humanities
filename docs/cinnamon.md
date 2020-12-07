@@ -29,7 +29,7 @@ A second, and much more surprising reason for the long-lasting confusion over ci
 ### Cinnamon as a tool of empire
 All such philological quibbling about ancient sources was of no concern to the early modern consumer, who simply craved for cinnamon. The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world, after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
 <param ve-image
-	title="Coat of arms of Juan Sebastián Elcano. At the bottom can be seen two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner reads in Latin "Primus circumdedisti me" ("You first encircled me").
+	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner reads in Latin "Primus circumdedisti me" ("You first encircled me").
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	region="-408,1,1403,1023">
 
@@ -140,11 +140,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDUxMzQxMzgsLTEzMjgwODUxNzMsMT
-Q4MzYxNzU0Miw0NDcwMDM2NzcsMTg5NjM0MzgyMiwtMTQ5NzI1
-OTk0LC05ODY2NTI5MjQsLTQ1MjYwNjI5NCw0MDc1MDc3ODQsMT
-A2NDA3Nzg2NywtODgwMzQ1MTExLC0xMzczOTM4ODUwLDExNDU4
-NjgxMzUsLTEzMjgyNTU3MiwtMzExOTI0NzUxLC0xNTQ5Mjg1MD
-A5LC0xODUyNjY0MzgyLDM1Njk2ODMwMywtMTQyODE3NjY5OSwt
-MTg2MDU5NzY4MF19
+eyJoaXN0b3J5IjpbLTk0MTUzODI1NCwtMjAwNTEzNDEzOCwtMT
+MyODA4NTE3MywxNDgzNjE3NTQyLDQ0NzAwMzY3NywxODk2MzQz
+ODIyLC0xNDk3MjU5OTQsLTk4NjY1MjkyNCwtNDUyNjA2Mjk0LD
+QwNzUwNzc4NCwxMDY0MDc3ODY3LC04ODAzNDUxMTEsLTEzNzM5
+Mzg4NTAsMTE0NTg2ODEzNSwtMTMyODI1NTcyLC0zMTE5MjQ3NT
+EsLTE1NDkyODUwMDksLTE4NTI2NjQzODIsMzU2OTY4MzAzLC0x
+NDI4MTc2Njk5XX0=
 -->
