@@ -38,12 +38,6 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 Biblical connotations
 	Duke (J.A.) 2008
 
-Forgotten knowledge - Lasting confusion
-	Miller (J.I.) 1969
-	- Indian Ocean trade hypothesis persists
-	Nutton (V.) 1985
-	Riddle (J.M.) 1985
-
 Orta
 	- Eigen ervaring van planten die uit de oudheid bekend waren
 	Orta (G.) 1913 (let op: digib ubi dusseldorf heeft een IIIF manifest)
@@ -140,11 +134,11 @@ In ieder geval toevoegen:
 
 [^ref6]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTQzNjk4NSwtMTU0OTI4NTAwOSwtMT
-g1MjY2NDM4MiwzNTY5NjgzMDMsLTE0MjgxNzY2OTksLTE4NjA1
-OTc2ODAsMjY0NzgwNjk5LDEyNzgwMjIyMTcsMjE0NjIwNDUxOC
-wyOTEwMzkzMDgsLTE2Njc3NjU5NTAsLTQ5OTEyOTU2LDg1NjYw
-OTc2LC0xMjQzMzg3NTQyLDM4MjM3ODIxOCwxNzA5NTAwNjAyLC
-05Mjc1NTk0MCwzOTA4ODc1NjYsLTEwMjg1NTc4NzYsMTU2Njcw
-NDg5XX0=
+eyJoaXN0b3J5IjpbLTIwNTc3OTAzNjAsLTE1NDkyODUwMDksLT
+E4NTI2NjQzODIsMzU2OTY4MzAzLC0xNDI4MTc2Njk5LC0xODYw
+NTk3NjgwLDI2NDc4MDY5OSwxMjc4MDIyMjE3LDIxNDYyMDQ1MT
+gsMjkxMDM5MzA4LC0xNjY3NzY1OTUwLC00OTkxMjk1Niw4NTY2
+MDk3NiwtMTI0MzM4NzU0MiwzODIzNzgyMTgsMTcwOTUwMDYwMi
+wtOTI3NTU5NDAsMzkwODg3NTY2LC0xMDI4NTU3ODc2LDE1NjY3
+MDQ4OV19
 -->
