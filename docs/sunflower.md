@@ -43,7 +43,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q815962" title="colonization">
 <param ve-entity eid="Q6165948" title="herbal" aliases="herbals">
 <param ve-entity eid="Q52105" title="habitat">
-The first known pictures of domesticated sunflowers produced by Europeans were printed in herbals in the late-1560s.[^ref4] These illustrations of tall, hearty plants with thick stocks, giant leaves, and ponderous sun-shaped flowers provide a foundation for studying later sunflower iconography. Such visual descriptions along with textual ones also help us to chart the plant’s mobility from North America to Europe. Yet, it is important to acknowledge that herbals provide an incomplete and sanitized history of the plant during the age of colonization. The treatises typically omit any information about plant harvesting and the impact of such exploitative practices, now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” on Indigenous peoples and local habitats. For that reason, questions persist about who collected such live specimens or seeds, and when and from where they did so.
+The first known pictures of domesticated sunflowers produced by Europeans were printed in herbals in the late-1560s.[^ref4] These illustrations of tall, hearty plants with thick stocks, giant leaves, and ponderous sun-shaped flowers provide a foundation for studying later sunflower iconography. Such visual descriptions along with textual ones also help us to chart the plant’s mobility from North America to Europe. Yet, it is important to acknowledge that herbals provide an incomplete and sanitized history of the plant during the age of colonization. The treatises typically omit any information about plant harvesting and the impact of such exploitative practices, now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” on Indigenous peoples and local habitats. For that reason, questions persist about who first collected sunflowers, whether live specimens or seeds, and when and from where they did so.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 <param ve-entity eid="Q476033" title="Low Countries">
@@ -239,11 +239,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyNTc1ODIsNjA4NTM5NjMxLC0yMTQzMD
-czMzQ0LDIwMTg2NjU4ODksLTMwMzc3NjMyMywtMTg3MzkxODky
-NCw1NzE0OTkyMTIsLTk2ODIxNDE5MCwtNjM0OTMzNzc3LC02NT
-A2OTY5MzEsLTk0NDIwNDM1MSwyMDIxNjE4MTA5LC0xODQwNTc2
-MzAyLDE3MjkwODQ4NDksLTMxMzQ3MzM5MCwtMTg4NDQwNzg4Ny
-w2NzQ4Nzc3MTksNzQ5NjgwOTU0LC0xMzQyODk4MzkxLC0xNzg1
-MjMwOTI5XX0=
+eyJoaXN0b3J5IjpbMTg5NjAxODc2OCw4OTI1NzU4Miw2MDg1Mz
+k2MzEsLTIxNDMwNzMzNDQsMjAxODY2NTg4OSwtMzAzNzc2MzIz
+LC0xODczOTE4OTI0LDU3MTQ5OTIxMiwtOTY4MjE0MTkwLC02Mz
+Q5MzM3NzcsLTY1MDY5NjkzMSwtOTQ0MjA0MzUxLDIwMjE2MTgx
+MDksLTE4NDA1NzYzMDIsMTcyOTA4NDg0OSwtMzEzNDczMzkwLC
+0xODg0NDA3ODg3LDY3NDg3NzcxOSw3NDk2ODA5NTQsLTEzNDI4
+OTgzOTFdfQ==
 -->
