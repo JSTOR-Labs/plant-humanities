@@ -127,14 +127,14 @@ In ieder geval toevoegen:
 [^ref1]: Stephen G. Haw, "Cinnamon, Cassia and Ancient Trade", _Journal of Ancient History and Archaeology_, 4:1 (2017) 5-18
 [^ref2]: Haw, "Cinnamon", 10-11.
 [^ref3]: Inês de Ornellas e Castro, "A 'Pleasant Banquet of Words': Therapeutic Virtues and Alimentary Consumption in Garcia de Orta's _Colloquies on the Simples and Drugs of India_", in: Palmira Fontes da Costa (ed.), _Medicine, Trade, and Empire: Garcia de Orta's_ Colloquies on the Simples and Drugs of India _(1563) in Context_ (Farnham and Burlington: Ashgate 2015) 67-88, there 84, 85.
-[^ref4]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
+[^ref4]: Vijaya Samaraweera, "The Cinnamon Trade of Ceylon", _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
 [^ref5]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA3OTIyNTcsODU2NjA5NzYsLTEyND
-MzODc1NDIsMzgyMzc4MjE4LDE3MDk1MDA2MDIsLTkyNzU1OTQw
-LDM5MDg4NzU2NiwtMTAyODU1Nzg3NiwxNTY2NzA0ODksLTE4Nz
-kwMjQxMDEsMTUyMjQwNjgzNSwzMTMzNDgyMzksMjEwMzQ1NjM5
-LDQ0NzQxNDUyNSwtMzM5MjE5MzE1LDQ4NTM4NDc4MSwtMTI2OD
-k3NjYsLTE4NDUzNjk4MjAsMTI4OTYzNTY4MCwtMzg0NTAyMDc3
-XX0=
+eyJoaXN0b3J5IjpbLTQ5OTEyOTU2LDg1NjYwOTc2LC0xMjQzMz
+g3NTQyLDM4MjM3ODIxOCwxNzA5NTAwNjAyLC05Mjc1NTk0MCwz
+OTA4ODc1NjYsLTEwMjg1NTc4NzYsMTU2NjcwNDg5LC0xODc5MD
+I0MTAxLDE1MjI0MDY4MzUsMzEzMzQ4MjM5LDIxMDM0NTYzOSw0
+NDc0MTQ1MjUsLTMzOTIxOTMxNSw0ODUzODQ3ODEsLTEyNjg5Nz
+Y2LC0xODQ1MzY5ODIwLDEyODk2MzU2ODAsLTM4NDUwMjA3N119
+
 -->
