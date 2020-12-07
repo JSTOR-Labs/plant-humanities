@@ -104,7 +104,7 @@ Yet scientists still disagree about when humans used domesticated sunflowers in 
 <param ve-entity eid="Q15472169" title="patron of the arts" aliases="patron">
 <param ve-entity eid="Q2825010" title="Adriaen Collaert">
 <param ve-entity eid="Q1140201" title="Crispijn van de Passe the Younger" aliases="Crispijn van de Passe">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist under the patronage of Charles I of England, surely had numerous printed models from which to work.[^ref16] Such imagery was known to artists through emblems and florilegia, particularly those produced by Crispijn van de Passe and Adriaen Collaert. Regardless of which sources were consulted, Van Dyck’s painting presents a lively image of the artist who appears to have just turned his head to face us, as though we spontaneously discovered him admiring a sunflower unawares in a pleasure garden. The painter fingers an opulent gold chain, gifted by the King, that identifies his position as a royal portraitist and member of the court. His index finger directs our gaze to the pert head and robust foliage of a golden sunflower—a glorious floral manifestation of his loyalty to his patron.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, at right, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers. Van Dyck, a Flemish artist under the patronage of Charles I of England, surely had numerous printed models from which to work.[^ref16] Such imagery was known to artists through emblems and florilegia, particularly those produced by Crispijn van de Passe and Adriaen Collaert. Regardless of which sources were consulted, Van Dyck’s painting presents a lively image of the artist who appears to have just turned his head to face us, as though we spontaneously discovered him admiring a sunflower unawares in a pleasure garden. With one hand, the painter fingers an opulent gold chain, gifted by the King, that identifies his position as a royal portraitist and member of the court. With the other, he directs our attention to the pert head and robust foliage of a golden sunflower—a glorious floral manifestation of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, c. 1632 or 1633, Eaton Hall, Cheshire, England, Wikimedia Commons">
 <param ve-image fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/0c/21/4f/74/0c214f74-b475-4efc-ba0c-0b5c745e3f71/iiif/4817_000147.tif/8.210526315789474,5.47329650092081,2225.0526315789475,1477.7900552486187/!813,540/0/default.jpg" title="Crispijn van de Passe, _Hortus floridus_, 1614-16, CC BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Collaert_Rijksmuseum_RP-P-BI-5997.jpg" title="Adriaen Collaert, _Sunflower and other flowers_, from _Florilegium_, 1570-before 1618, Rijksmuseum">
@@ -238,11 +238,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0ODc3NzE5LDc0OTY4MDk1NCwtMTM0Mj
-g5ODM5MSwtMTc4NTIzMDkyOSw2MjAxNzY2ODEsNDA0OTg1NjM0
-LC0xODE0NjQwNzY4LC0yMTQwMzQwODIsMTQxNjg1MDY2MCwtND
-AwNDIxMjIsLTEwMDQ0Mjc0MjksMTY1MjIwNzM5OCwtNTg2NDEy
-NzE2LC0xMTkwMTIzMzM0LC03MzE3ODgwOTksLTE2OTEzNDIzNz
-EsMjA3Njc2MTA2OSwxMzM1ODM0MTE4LC0xMzg4OTQxNjcxLDEy
-NzQ0OTA3NzhdfQ==
+eyJoaXN0b3J5IjpbLTE0ODMzNzA2ODQsNjc0ODc3NzE5LDc0OT
+Y4MDk1NCwtMTM0Mjg5ODM5MSwtMTc4NTIzMDkyOSw2MjAxNzY2
+ODEsNDA0OTg1NjM0LC0xODE0NjQwNzY4LC0yMTQwMzQwODIsMT
+QxNjg1MDY2MCwtNDAwNDIxMjIsLTEwMDQ0Mjc0MjksMTY1MjIw
+NzM5OCwtNTg2NDEyNzE2LC0xMTkwMTIzMzM0LC03MzE3ODgwOT
+ksLTE2OTEzNDIzNzEsMjA3Njc2MTA2OSwxMzM1ODM0MTE4LC0x
+Mzg4OTQxNjcxXX0=
 -->
