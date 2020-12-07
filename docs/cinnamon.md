@@ -119,12 +119,15 @@ In ieder geval toevoegen:
 #Salagama  (Q3469487), also known als saliya or chaliya
 
 # Verder vanaf Samaraweera (V.) 19s
+
+### References
+
 [^ref1]: Stephen G. Haw, "Cinnamon, Cassia and Ancient Trade", _Journal of Ancient History and Archaeology_, 4:1 (2017) 5-18
 [^ref2]: Haw, "Cinnamon", 10-11.
 [^ref3]: Inês de Ornellas e Castro, "A 'Pleasant Banquet of Words': Therapeutic Virtues and Alimentary Consumption in Garcia de Orta's _Colloquies on the Simples and Drugs of India_", in: Palmira Fontes da Costa (ed.), _Medicine, Trade, and Empire: Garcia de Orta's_ Colloquies on the Simples and Drugs of India _(1563) in Context_ (Farnham and Burlington: Ashgate 2015) 67-88, there 84, 85.
 [^ref4]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyOTEzMDg1LC05Mjc1NTk0MCwzOTA4OD
+eyJoaXN0b3J5IjpbNDA3Mjg3NTEyLC05Mjc1NTk0MCwzOTA4OD
 c1NjYsLTEwMjg1NTc4NzYsMTU2NjcwNDg5LC0xODc5MDI0MTAx
 LDE1MjI0MDY4MzUsMzEzMzQ4MjM5LDIxMDM0NTYzOSw0NDc0MT
 Q1MjUsLTMzOTIxOTMxNSw0ODUzODQ3ODEsLTEyNjg5NzY2LC0x
