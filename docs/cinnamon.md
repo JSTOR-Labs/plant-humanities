@@ -15,7 +15,7 @@ In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although
 ### A global history of forgotten knowledge
 Cinnamon already had a global history long before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same as those found in the East Indies in the sixteenth century, to which those names were attached. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
 
-How could such confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, however, European scholars writing about cinnamon would turn to classical, not medieval sources to understand the spice and its properties. Discrepancies between classical descriptions of the spice and the plant that was found in sixteenth-century Sri Lanka could be resolved. In his book [_Colloquies on the Simples and Drugs of India_](https://doi.org/10.1542/peds.2012-3418) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations of cinnamon and descriptions by classical authors by the fact that the latter had only known the processed spice, not the actual plant. The _cinnamomum_ and _cassia_ (or _cassia lignea_) of the ancients [^ref3]
+How could such confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, however, European scholars writing about cinnamon would turn to classical, not medieval sources to understand the spice and its properties. Discrepancies between classical descriptions of the spice and the plant that was found in siteri Lanka could be resolved. his book [_Colloquies on the Simples and Drugs of India_](https://doi.org/10.1542/peds.2012-3418) (1563), the Portuguese physician Garcia de ta, wo wked in Goa, explained the differences between his own observations of cinnamon and descriptions by classical authors by the fact that the latter had only known the processed spice, not the actual plant. The _cinnamomum_ and _cassia_ (or _cassia lignea_) of the ancients [^ref3]
 <param ve-image
 	title="test"
 	manifest="http://digital.ub.uni-duesseldorf.de/i3f/v20/4722055/manifest"
@@ -23,7 +23,7 @@ How could such confusion last so long? First, a possible explanation for the shi
 	region="">
 
 ### Cinnamon as a tool of empire
-Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref4]
+Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref]
 <param ve-image
 	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding a branch and a bundle of cinnamon sticks, and standing next to a camel. Note that this coin was found on the opposite side of the Roman empire, in Yorkshire, Britain."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
@@ -118,19 +118,17 @@ Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 14): lezen!
 In ieder geval toevoegen:
 #Salagama  (Q3469487), also known als saliya or chaliya
 
-# Verder vanaf Samaraweera (V.) 1971
-
-### References
+# Verder vanaf Samaraweera (V.) 19s
 [^ref1]: Stephen G. Haw, "Cinnamon, Cassia and Ancient Trade", _Journal of Ancient History and Archaeology_, 4:1 (2017) 5-18
 [^ref2]: Haw, "Cinnamon", 10-11.
-[^ref3]: 
-[^ref4]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
+[^ref3 
+[^ref4: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTkzMDg5OCwzOTA4ODc1NjYsLTEwMj
-g1NTc4NzYsMTU2NjcwNDg5LC0xODc5MDI0MTAxLDE1MjI0MDY4
-MzUsMzEzMzQ4MjM5LDIxMDM0NTYzOSw0NDc0MTQ1MjUsLTMzOT
-IxOTMxNSw0ODUzODQ3ODEsLTEyNjg5NzY2LC0xODQ1MzY5ODIw
-LDEyODk2MzU2ODAsLTM4NDUwMjA3NywtMjExMjk3ODgzMSw1Mz
-Y1NjM2MjUsLTE5NTMyNzkzNzEsMTYwODc4MDUyMiwtNjEzNDAw
-MDc2XX0=
+eyJoaXN0b3J5IjpbLTkyNzU1OTQwLDExODU5MzA4OTgsMzkwOD
+g3NTY2LC0xMDI4NTU3ODc2LDE1NjY3MDQ4OSwtMTg3OTAyNDEw
+MSwxNTIyNDA2ODM1LDMxMzM0ODIzOSwyMTAzNDU2MzksNDQ3ND
+E0NTI1LC0zMzkyMTkzMTUsNDg1Mzg0NzgxLC0xMjY4OTc2Niwt
+MTg0NTM2OTgyMCwxMjg5NjM1NjgwLC0zODQ1MDIwNzcsLTIxMT
+I5Nzg4MzEsNTM2NTYzNjI1LC0xOTUzMjc5MzcxLDE2MDg3ODA1
+MjJdfQ==
 -->
