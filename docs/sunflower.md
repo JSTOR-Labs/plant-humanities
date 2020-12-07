@@ -174,7 +174,7 @@ with flowers that can range from gold to orange to red to dark purple and even a
 <param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
 <param ve-entity eid="Q14524280" title="husk">
 <param ve-entity eid="Q40763" title="seed">
-Sunflower seeds also exhibit variations in size, color, and markings. Whole seeds–comprised of a kernel and a husk–can be solid black or gray and have a stripe pattern. The Hopi tribe of Native Americans have cultivated [sunflowers with deep purple seeds](https://www.nativeseeds.org/pages/hopi-black-dye-sunflower), that appear black and shiny, in the southwest for hundreds of years.[^ref23] They use these seeds to produce dark blue or purple dyes for coloring wools and vegetal fibers that are in turn used to make [weavings or baskets](https://scalar.usc.edu/works/american-indian-film-archive/hopi-arts-and-crafts?path=hopi-southwest-indians). The processes of cultivating, harvesting, and boiling seeds to produce dye for basketry exemplifies a rich tradition of tribal plant knowledge that is interwoven with cultural and spiritual beliefs. Indigenous peoples of North America also [use(d) sunflowers in a variety of ways](http://naeb.brit.org/uses/search/?string=sunflower) including as a source of food, fuel, pigment, and medicine, as well as ceremonially.
+Sunflower seeds also exhibit variations in size, color, and markings. Whole seeds–comprised of a kernel and a husk–can be solid black or gray and have a stripe pattern. The Hopi tribe of Native Americans have cultivated [sunflowers with deep purple seeds](https://www.nativeseeds.org/pages/hopi-black-dye-sunflower), that appear black and shiny, in the southwest for hundreds of years.[^ref23] They use these seeds to create dark blue or purple dyes for coloring wools and vegetal fibers that are in turn used to make [weavings or baskets](https://scalar.usc.edu/works/american-indian-film-archive/hopi-arts-and-crafts?path=hopi-southwest-indians). The processes of cultivating, harvesting, and boiling seeds to produce dye for basketry exemplifies a rich tradition of tribal plant knowledge that is interwoven with cultural and spiritual beliefs. Indigenous peoples of North America also [use(d) sunflowers in a variety of ways](http://naeb.brit.org/uses/search/?string=sunflower) including as a source of food, fuel, pigment, and medicine, as well as ceremonially.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sunflower_Seeds_Kaldari.jpg/1024px-Sunflower_Seeds_Kaldari.jpg" title="Sunflower seeds, hulled (achene) and dehulled, Kaldari, Wikimedia Commons, public domain">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_with_black_seeds_wikimedia.jpeg" title="Sunflower with black seeds, Amada44, Wikimedia Commons, CC BY 3.0">
 <param ve-image fit="contain" url="https://www.human.cornell.edu/sites/default/files/styles/landscape_1600x900/public/helianthus-annuus-1.jpg?itok=5KVpk_8q" title="Hopi Sunflower _Helianthus Annuus_, seeds produce blue, black, and purple dye and the leaves give a range of yellow to green, College of Human Ecology, Cornell University">
@@ -238,11 +238,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5Njc0Mjk5LDY3NDg3NzcxOSw3NDk2OD
-A5NTQsLTEzNDI4OTgzOTEsLTE3ODUyMzA5MjksNjIwMTc2Njgx
-LDQwNDk4NTYzNCwtMTgxNDY0MDc2OCwtMjE0MDM0MDgyLDE0MT
-Y4NTA2NjAsLTQwMDQyMTIyLC0xMDA0NDI3NDI5LDE2NTIyMDcz
-OTgsLTU4NjQxMjcxNiwtMTE5MDEyMzMzNCwtNzMxNzg4MDk5LC
-0xNjkxMzQyMzcxLDIwNzY3NjEwNjksMTMzNTgzNDExOCwtMTM4
-ODk0MTY3MV19
+eyJoaXN0b3J5IjpbLTE4ODQ0MDc4ODcsNjc0ODc3NzE5LDc0OT
+Y4MDk1NCwtMTM0Mjg5ODM5MSwtMTc4NTIzMDkyOSw2MjAxNzY2
+ODEsNDA0OTg1NjM0LC0xODE0NjQwNzY4LC0yMTQwMzQwODIsMT
+QxNjg1MDY2MCwtNDAwNDIxMjIsLTEwMDQ0Mjc0MjksMTY1MjIw
+NzM5OCwtNTg2NDEyNzE2LC0xMTkwMTIzMzM0LC03MzE3ODgwOT
+ksLTE2OTEzNDIzNzEsMjA3Njc2MTA2OSwxMzM1ODM0MTE4LC0x
+Mzg4OTQxNjcxXX0=
 -->
