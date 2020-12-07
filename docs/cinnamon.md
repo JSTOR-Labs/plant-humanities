@@ -22,7 +22,7 @@ How could such confusion last so long? First, a possible explanation for the shi
 	seq="100219"
 	region="">
 
-A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in early modern times continued to exist until the present day. This is a striking case of forgotten knowledge in modern science. Already in the nineteenth century, the renowned reference work [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) by Flückiger and Hanbury stated that cinnamon in Antiquity entered Europe from Arabia and East Africa, which could either be the habitat of the plant or the emporium through which it was traded. They favored the second option, claiming that all the cinnamon of the ancients must have been _cassia lignea_ from China. Cinnamon could not have come from Sri Lanka, where it only became a noticeable export item in the thierteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4]
+A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in early modern times continued to exist until the present day. This is a striking case of forgotten knowledge in modern science. Already in the nineteenth century, the renowned reference work [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) by Flückiger and Hanbury stated that cinnamon in Antiquity entered Europe from Arabia and East Africa, which could either be the habitat of the plant or the emporium through which it was traded. They favored the second option, claiming that all the cinnamon of the ancients must have been _cassia lignea_ from China. Cinnamon could not have come from Sri Lanka in Antiquity, where it only became a noticeable export item in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4]
 
 ### Cinnamon as a tool of empire
 Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref5]
@@ -130,11 +130,11 @@ In ieder geval toevoegen:
 [^ref4]: Vijaya Samaraweera, "The Cinnamon Trade of Ceylon", _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
 [^ref5]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTEyOTU2LDg1NjYwOTc2LC0xMjQzMz
-g3NTQyLDM4MjM3ODIxOCwxNzA5NTAwNjAyLC05Mjc1NTk0MCwz
-OTA4ODc1NjYsLTEwMjg1NTc4NzYsMTU2NjcwNDg5LC0xODc5MD
-I0MTAxLDE1MjI0MDY4MzUsMzEzMzQ4MjM5LDIxMDM0NTYzOSw0
-NDc0MTQ1MjUsLTMzOTIxOTMxNSw0ODUzODQ3ODEsLTEyNjg5Nz
-Y2LC0xODQ1MzY5ODIwLDEyODk2MzU2ODAsLTM4NDUwMjA3N119
-
+eyJoaXN0b3J5IjpbLTExMTY4MDUxODgsLTQ5OTEyOTU2LDg1Nj
+YwOTc2LC0xMjQzMzg3NTQyLDM4MjM3ODIxOCwxNzA5NTAwNjAy
+LC05Mjc1NTk0MCwzOTA4ODc1NjYsLTEwMjg1NTc4NzYsMTU2Nj
+cwNDg5LC0xODc5MDI0MTAxLDE1MjI0MDY4MzUsMzEzMzQ4MjM5
+LDIxMDM0NTYzOSw0NDc0MTQ1MjUsLTMzOTIxOTMxNSw0ODUzOD
+Q3ODEsLTEyNjg5NzY2LC0xODQ1MzY5ODIwLDEyODk2MzU2ODBd
+fQ==
 -->
