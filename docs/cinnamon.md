@@ -27,7 +27,7 @@ How could such confusion last so long? First, a possible explanation for the shi
 A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in early modern times continued to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. This narrative of ancient trade is unlikely, but still less imaginative than the one proposed by J. Innes Miller, who argued for an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept has been rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
 
 ### Cinnamon as a tool of empire
-Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref6]
+All such philological of ancient sources were of no concern to the early modern consumer, whoOnce 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref6]
 <param ve-image
 	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding a branch and a bundle of cinnamon sticks, and standing next to a camel. Note that this coin was found on the opposite side of the Roman empire, in Yorkshire, Britain."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
@@ -138,11 +138,11 @@ In ieder geval toevoegen:
 
 [^ref6]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDkyODUwMDksLTE4NTI2NjQzODIsMz
-U2OTY4MzAzLC0xNDI4MTc2Njk5LC0xODYwNTk3NjgwLDI2NDc4
-MDY5OSwxMjc4MDIyMjE3LDIxNDYyMDQ1MTgsMjkxMDM5MzA4LC
-0xNjY3NzY1OTUwLC00OTkxMjk1Niw4NTY2MDk3NiwtMTI0MzM4
-NzU0MiwzODIzNzgyMTgsMTcwOTUwMDYwMiwtOTI3NTU5NDAsMz
-kwODg3NTY2LC0xMDI4NTU3ODc2LDE1NjY3MDQ4OSwtMTg3OTAy
-NDEwMV19
+eyJoaXN0b3J5IjpbMTc0NjQ1MzUzMCwtMTU0OTI4NTAwOSwtMT
+g1MjY2NDM4MiwzNTY5NjgzMDMsLTE0MjgxNzY2OTksLTE4NjA1
+OTc2ODAsMjY0NzgwNjk5LDEyNzgwMjIyMTcsMjE0NjIwNDUxOC
+wyOTEwMzkzMDgsLTE2Njc3NjU5NTAsLTQ5OTEyOTU2LDg1NjYw
+OTc2LC0xMjQzMzg3NTQyLDM4MjM3ODIxOCwxNzA5NTAwNjAyLC
+05Mjc1NTk0MCwzOTA4ODc1NjYsLTEwMjg1NTc4NzYsMTU2Njcw
+NDg5XX0=
 -->
