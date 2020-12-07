@@ -124,7 +124,7 @@ In ieder geval toevoegen:
 
 ### References
 
-[^ref1]: Stephen G. Haw, "Cinnamon, Cassia and Ancient Trade", _Journal of Ancient History and Archaeology_, 4:1 (2017) 5-18
+[^ref1]: Stephen G. Haw, "Cinnamon, Cassia and Ancient Trade", _Journal of Ancient History and Archaeology_, 4:1 (2017) 5-18.
 
 [^ref2]: Haw, "Cinnamon", 10-11.
 
@@ -138,9 +138,9 @@ In ieder geval toevoegen:
 
 [^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 
-[^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310
+[^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjk2OTU2MDQsLTEzMjgwODUxNzMsMT
+eyJoaXN0b3J5IjpbLTIwMDUxMzQxMzgsLTEzMjgwODUxNzMsMT
 Q4MzYxNzU0Miw0NDcwMDM2NzcsMTg5NjM0MzgyMiwtMTQ5NzI1
 OTk0LC05ODY2NTI5MjQsLTQ1MjYwNjI5NCw0MDc1MDc3ODQsMT
 A2NDA3Nzg2NywtODgwMzQ1MTExLC0xMzczOTM4ODUwLDExNDU4
