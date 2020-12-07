@@ -39,7 +39,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1414,152,1586,1031">
 
-In the sixteenth century, the first efforts of European powers to gain control of cinnamon production and trade were humble. The Portuguese settled on the coast of Sri Lanka, hoping they could enforce commercial arrangements with local rulers without getting involved in local politics. The king of Kotte, a kingdom in the southwest, was certainly receptive, but in part because he hoped to use Portuguese help to confront the Kingdom of Kollam in Kerela, to which Kotte had to pay tribute.
+In the sixteenth century, the first efforts of European powers to gain control of cinnamon production and trade were humble. The Portuguese settled on the coast of Sri Lanka, hoping they could enforce commercial arrangements with local rulers without getting involved in local politics. The king of Kotte, a kingdom in the southwest, was certainly receptive, but in part because he hoped to use Portuguese help to confront the Kingdom of Kollam in Kerela, to which Kotte had to pay tribute.[^ref8]
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -137,8 +137,10 @@ In ieder geval toevoegen:
 [^ref6]: George B. Griffenhagen, "The Materia Medica of Christopher Columbus", _Pharmacy in History_, 34:3 (1992) 131-145, there 133; and Francisco Guerra, "Drugs from the Indies and the Political Economy of the Sixteenth Century", in: N. Florkin (ed.), _Materia Medica in the XVIth Century: Proceedings of a Symposium of the International Academy of the History of Medicine Held at the University of Basel, 7th Sept. 1964_. Analecta Medico-Historica 1 (Oxford: Pergamon Press 1964) 29-54.
 
 [^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
+
+[^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDUyNjQ1OTUsLTEzMjgwODUxNzMsMT
+eyJoaXN0b3J5IjpbLTE4Mjk2OTU2MDQsLTEzMjgwODUxNzMsMT
 Q4MzYxNzU0Miw0NDcwMDM2NzcsMTg5NjM0MzgyMiwtMTQ5NzI1
 OTk0LC05ODY2NTI5MjQsLTQ1MjYwNjI5NCw0MDc1MDc3ODQsMT
 A2NDA3Nzg2NywtODgwMzQ1MTExLC0xMzczOTM4ODUwLDExNDU4
