@@ -34,7 +34,7 @@ All such philological quibbling about ancient sources was of no concern to the e
 	region="-408,1,1403,1023">
 
 ### Cinnamon as a tool of empire
-Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon – 'true' or not – as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia, holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref]
+Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon – 'true' or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref]
 <param ve-image
 	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding a branch and a bundle of cinnamon sticks, and standing next to a camel. Note that this coin was found on the opposite side of the Roman empire, in Yorkshire, Britain."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
@@ -141,11 +141,11 @@ In ieder geval toevoegen:
 
 [^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3MDA4OTYwLC05ODY2NTI5MjQsLTQ1Mj
-YwNjI5NCw0MDc1MDc3ODQsMTA2NDA3Nzg2NywtODgwMzQ1MTEx
-LC0xMzczOTM4ODUwLDExNDU4NjgxMzUsLTEzMjgyNTU3MiwtMz
-ExOTI0NzUxLC0xNTQ5Mjg1MDA5LC0xODUyNjY0MzgyLDM1Njk2
-ODMwMywtMTQyODE3NjY5OSwtMTg2MDU5NzY4MCwyNjQ3ODA2OT
-ksMTI3ODAyMjIxNywyMTQ2MjA0NTE4LDI5MTAzOTMwOCwtMTY2
-Nzc2NTk1MF19
+eyJoaXN0b3J5IjpbLTE0OTcyNTk5NCwtOTg2NjUyOTI0LC00NT
+I2MDYyOTQsNDA3NTA3Nzg0LDEwNjQwNzc4NjcsLTg4MDM0NTEx
+MSwtMTM3MzkzODg1MCwxMTQ1ODY4MTM1LC0xMzI4MjU1NzIsLT
+MxMTkyNDc1MSwtMTU0OTI4NTAwOSwtMTg1MjY2NDM4MiwzNTY5
+NjgzMDMsLTE0MjgxNzY2OTksLTE4NjA1OTc2ODAsMjY0NzgwNj
+k5LDEyNzgwMjIyMTcsMjE0NjIwNDUxOCwyOTEwMzkzMDgsLTE2
+Njc3NjU5NTBdfQ==
 -->
