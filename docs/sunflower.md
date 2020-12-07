@@ -72,7 +72,7 @@ that anticipated modern visual stereotypes for the plant, perhaps best epitomize
 
 <param ve-entity eid="Q2401485" title="expedition">
 <param ve-entity eid="Q170603" title="Viceroyalty of New Spain" aliases="New Spain">
-The migration of sunflower iconography from Besler’s _Hortus Eystettensis_  to other sources is evidenced in the pages of Francisco Hernández’s _[Nova plantarum](https://www.biodiversitylibrary.org/page/54114015)_, published posthumously in 1651. The book purports to document plants and animals that Hernández and his team, which included several Indigenous artists, observed during a three-year expedition through New Spain (present-day Mexico) in the 1570s.[^ref7] However, its illustrations of sunflowers, shown here, were not drawn on-site from local flora but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait _Flos Solis maior_ made under Besler’s direction. <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from a [florilegium](http://hdl.handle.net/10934/RM0001.COLLECT.432189) that was itself republished in an [herbal](https://www.biodiversitylibrary.org/page/7815694). These appropriations have been interpreted as evidence that Hernández’s team of artists or those working on his manuscript at a later date had to copy existing imagery because the sunflower was not established in New Spain at the time of his expedition.[^ref8] If that is so, as modern-day botanists argue, Hernández’s discussion of the sunflower implied a mythic encounter with the plant that reproduced European misconceptions about its range.
+The migration of sunflower iconography from one source to another is evidenced in the pages of Francisco Hernández’s _[Nova plantarum](https://www.biodiversitylibrary.org/page/54114015)_, published posthumously in 1651. The book purports to document plants and animals that Hernández and his team, which included several Indigenous artists, observed during a three-year expedition through New Spain (present-day Mexico) in the 1570s.[^ref7] However, its illustrations of sunflowers, shown here, were not drawn on-site from local flora but rather borrowed from European models. <span data-click-image-zoomto="237,130,569,546">The upper one</span> was adapted directly or through intermediary sources from the sunflower portrait _Flos Solis maior_ made under Besler’s direction. <span data-click-image-zoomto="237,554,570,546">The lower one</span> repurposes a design from a [florilegium](http://hdl.handle.net/10934/RM0001.COLLECT.432189) that was itself republished in an [herbal](https://www.biodiversitylibrary.org/page/7815694). These appropriations have been interpreted as evidence that Hernández’s team of artists or those working on his manuscript at a later date had to copy existing imagery because the sunflower was not established in New Spain at the time of his expedition.[^ref8] If that is so, as modern-day botanists argue, Hernández’s discussion of the sunflower implied a mythic encounter with the plant that reproduced European misconceptions about its range.
 <param ve-image iiif primary fit="contain" url="https://ia800805.us.archive.org/BookReader/BookReaderImages.php?id=novaplantarumani00hern&itemPath=%2F5%2Fitems%2Fnovaplantarumani00hern&server=ia800805.us.archive.org&page=n245_w820" title="Francisco Hernández, _Nova plantarum, animalium et mineralium Mexicanorum historia_, 1651, John Carter Brown Library, Internet Archive">
 <param ve-image primary iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, CC BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Collaert_Rijksmuseum_RP-P-BI-5997.jpg" title="Adriaen Collaert, _Sunflower and other flowers_, from _Florilegium_, 1570-before 1618, Rijksmuseum">
@@ -238,11 +238,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDIwNDM1MSwyMDIxNjE4MTA5LC0xOD
-QwNTc2MzAyLDE3MjkwODQ4NDksLTMxMzQ3MzM5MCwtMTg4NDQw
-Nzg4Nyw2NzQ4Nzc3MTksNzQ5NjgwOTU0LC0xMzQyODk4MzkxLC
-0xNzg1MjMwOTI5LDYyMDE3NjY4MSw0MDQ5ODU2MzQsLTE4MTQ2
-NDA3NjgsLTIxNDAzNDA4MiwxNDE2ODUwNjYwLC00MDA0MjEyMi
-wtMTAwNDQyNzQyOSwxNjUyMjA3Mzk4LC01ODY0MTI3MTYsLTEx
-OTAxMjMzMzRdfQ==
+eyJoaXN0b3J5IjpbLTY1MDY5NjkzMSwtOTQ0MjA0MzUxLDIwMj
+E2MTgxMDksLTE4NDA1NzYzMDIsMTcyOTA4NDg0OSwtMzEzNDcz
+MzkwLC0xODg0NDA3ODg3LDY3NDg3NzcxOSw3NDk2ODA5NTQsLT
+EzNDI4OTgzOTEsLTE3ODUyMzA5MjksNjIwMTc2NjgxLDQwNDk4
+NTYzNCwtMTgxNDY0MDc2OCwtMjE0MDM0MDgyLDE0MTY4NTA2Nj
+AsLTQwMDQyMTIyLC0xMDA0NDI3NDI5LDE2NTIyMDczOTgsLTU4
+NjQxMjcxNl19
 -->
