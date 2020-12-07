@@ -15,14 +15,10 @@ In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although
 ### Forgotten knowledge and fabricated history
 Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same as those found in the East Indies in the sixteenth century, to which those names were attached. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
 <param ve-image
-	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelt)"
+	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
 	manifest="https://iiif.lib.harvard.edu/manifests/ids:18040817"
-	seq="100219"
 	region="">
 
-[https://iiif.lib.harvard.edu/manifests/ids:18040817](https://iiif.lib.harvard.edu/manifests/ids:18040817)
-  
-f. 129b
 
 How could such confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, however, European scholars writing about cinnamon would turn to classical, not medieval sources to understand the spice and its properties. Discrepancies between classical descriptions of the spice and the plant that was found in Sri Lanka could be resolved. In his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations of cinnamon and descriptions by classical authors by the fact that the latter had only known the processed spice, not the actual plant. The _cinnamomum_ and _cassia_ (or _cassia lignea_) of the ancients were only processed variations of the same plant, he claimed.[^ref3]
 <param ve-image
@@ -139,11 +135,11 @@ In ieder geval toevoegen:
 [^ref4]: Vijaya Samaraweera, "The Cinnamon Trade of Ceylon", _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
 [^ref5]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0NDE1MjAwLDIxNDYyMDQ1MTgsMjkxMD
-M5MzA4LC0xNjY3NzY1OTUwLC00OTkxMjk1Niw4NTY2MDk3Niwt
-MTI0MzM4NzU0MiwzODIzNzgyMTgsMTcwOTUwMDYwMiwtOTI3NT
-U5NDAsMzkwODg3NTY2LC0xMDI4NTU3ODc2LDE1NjY3MDQ4OSwt
-MTg3OTAyNDEwMSwxNTIyNDA2ODM1LDMxMzM0ODIzOSwyMTAzND
-U2MzksNDQ3NDE0NTI1LC0zMzkyMTkzMTUsNDg1Mzg0NzgxXX0=
+eyJoaXN0b3J5IjpbMTI3ODAyMjIxNywyMTQ2MjA0NTE4LDI5MT
+AzOTMwOCwtMTY2Nzc2NTk1MCwtNDk5MTI5NTYsODU2NjA5NzYs
+LTEyNDMzODc1NDIsMzgyMzc4MjE4LDE3MDk1MDA2MDIsLTkyNz
+U1OTQwLDM5MDg4NzU2NiwtMTAyODU1Nzg3NiwxNTY2NzA0ODks
+LTE4NzkwMjQxMDEsMTUyMjQwNjgzNSwzMTMzNDgyMzksMjEwMz
+Q1NjM5LDQ0NzQxNDUyNSwtMzM5MjE5MzE1LDQ4NTM4NDc4MV19
 
 -->
