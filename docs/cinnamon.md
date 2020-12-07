@@ -27,9 +27,9 @@ How could such confusion last so long? First, a possible explanation for the shi
 A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in early modern times continued to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. This narrative of ancient trade is unlikely, but still less imaginative than the one proposed by J. Innes Miller, who argued for an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept has been rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
 
 ### Cinnamon as a tool of empire
-All such philological quibbling about ancient sources was of no concern to the early modern consumer, who simply craved for cinnamon. The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan S. de Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world, after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted in his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
+All such philological quibbling about ancient sources was of no concern to the early modern consumer, who simply craved for cinnamon. The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world, after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
 <param ve-image
-	title="Juan Sebastián Elcano"
+	title="Coat of arms of Juan Sebastián Elcano, showing "
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png">
 
 Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
@@ -139,11 +139,11 @@ In ieder geval toevoegen:
 
 [^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzM5Mzg4NTAsMTE0NTg2ODEzNSwtMT
-MyODI1NTcyLC0zMTE5MjQ3NTEsLTE1NDkyODUwMDksLTE4NTI2
-NjQzODIsMzU2OTY4MzAzLC0xNDI4MTc2Njk5LC0xODYwNTk3Nj
-gwLDI2NDc4MDY5OSwxMjc4MDIyMjE3LDIxNDYyMDQ1MTgsMjkx
-MDM5MzA4LC0xNjY3NzY1OTUwLC00OTkxMjk1Niw4NTY2MDk3Ni
-wtMTI0MzM4NzU0MiwzODIzNzgyMTgsMTcwOTUwMDYwMiwtOTI3
-NTU5NDBdfQ==
+eyJoaXN0b3J5IjpbLTg4MDM0NTExMSwtMTM3MzkzODg1MCwxMT
+Q1ODY4MTM1LC0xMzI4MjU1NzIsLTMxMTkyNDc1MSwtMTU0OTI4
+NTAwOSwtMTg1MjY2NDM4MiwzNTY5NjgzMDMsLTE0MjgxNzY2OT
+ksLTE4NjA1OTc2ODAsMjY0NzgwNjk5LDEyNzgwMjIyMTcsMjE0
+NjIwNDUxOCwyOTEwMzkzMDgsLTE2Njc3NjU5NTAsLTQ5OTEyOT
+U2LDg1NjYwOTc2LC0xMjQzMzg3NTQyLDM4MjM3ODIxOCwxNzA5
+NTAwNjAyXX0=
 -->
