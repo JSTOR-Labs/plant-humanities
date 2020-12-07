@@ -166,7 +166,7 @@ In the later-nineteenth century, many European painters embraced the genre of st
 <param ve-entity eid="Q4886" title="cultivar" aliases="cultivars">
 Contrary to what is most often portrayed in visual and verbal descriptions of sunflowers, the palette of _Helianthus annuus_ is not limited to yellow. Rather, there are many _H. annuus_ cultivars
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
-with flowers that can range from gold to orange to red to dark purple and even an unexpected shade of pink. There are also more than fifty accepted species grouped under _Helianthus_ and they vary in terms of size and the number and shape of their leaves and flower heads. The specimens of _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke) on these herbarium sheets also dispel the false notion that all sunflowers only have one large blossom per stock. That trait, as we now know, is unique to the domesticated sunflower and due to human selection.
+with flowers that can range from gold to orange to red to dark purple and even an unexpected shade of pink. There are also more than fifty accepted species grouped under _Helianthus_ and they vary in terms of size and the number and shape of their leaves and flower heads. The specimens of _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke) on these herbarium sheets also dispel the false notion that all sunflowers possess a single large blossom per stock. That trait, as we now know, is unique to the domesticated sunflower and due to human selection.
 <param ve-plant-specimen eid="Q171497" max="1">
 <param ve-plant-specimen eid="Q12212017" max="1">
 <param ve-plant-specimen eid="Q146190" max="1">
@@ -238,11 +238,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0NDA2MTE3LDY3NDg3NzcxOSw3NDk2OD
-A5NTQsLTEzNDI4OTgzOTEsLTE3ODUyMzA5MjksNjIwMTc2Njgx
-LDQwNDk4NTYzNCwtMTgxNDY0MDc2OCwtMjE0MDM0MDgyLDE0MT
-Y4NTA2NjAsLTQwMDQyMTIyLC0xMDA0NDI3NDI5LDE2NTIyMDcz
-OTgsLTU4NjQxMjcxNiwtMTE5MDEyMzMzNCwtNzMxNzg4MDk5LC
-0xNjkxMzQyMzcxLDIwNzY3NjEwNjksMTMzNTgzNDExOCwtMTM4
-ODk0MTY3MV19
+eyJoaXN0b3J5IjpbMTU5ODgzMDkwNCw2NzQ4Nzc3MTksNzQ5Nj
+gwOTU0LC0xMzQyODk4MzkxLC0xNzg1MjMwOTI5LDYyMDE3NjY4
+MSw0MDQ5ODU2MzQsLTE4MTQ2NDA3NjgsLTIxNDAzNDA4MiwxND
+E2ODUwNjYwLC00MDA0MjEyMiwtMTAwNDQyNzQyOSwxNjUyMjA3
+Mzk4LC01ODY0MTI3MTYsLTExOTAxMjMzMzQsLTczMTc4ODA5OS
+wtMTY5MTM0MjM3MSwyMDc2NzYxMDY5LDEzMzU4MzQxMTgsLTEz
+ODg5NDE2NzFdfQ==
 -->
