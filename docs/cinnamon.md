@@ -29,9 +29,9 @@ A second, and much more surprising reason for the long-lasting confusion over ci
 ### Cinnamon a a tool of empire
 All such philological quibbling about ancient sources was of no concern to the early modern consumer, who simply craved for cinnamon. The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world, after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
 <param ve-image
-	title="Juan Sebastián Elcano. At the bottom can be seen two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner reads in Latin "Primus circumdedisti me" ("You first encircled me").
+	title="Coat of arms of Juan Sebastián Elcano. At the bottom can be seen two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner reads in Latin "Primus circumdedisti me" ("You first encircled me").
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
-	fit="contain"
+	fit="contain">
 
 ### Cinnamon as a tool of empire
 Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref]
@@ -141,11 +141,11 @@ In ieder geval toevoegen:
 
 [^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjEyMDQyODUsLTk4NjY1MjkyNCwtND
-UyNjA2Mjk0LDQwNzUwNzc4NCwxMDY0MDc3ODY3LC04ODAzNDUx
-MTEsLTEzNzM5Mzg4NTAsMTE0NTg2ODEzNSwtMTMyODI1NTcyLC
-0zMTE5MjQ3NTEsLTE1NDkyODUwMDksLTE4NTI2NjQzODIsMzU2
-OTY4MzAzLC0xNDI4MTc2Njk5LC0xODYwNTk3NjgwLDI2NDc4MD
-Y5OSwxMjc4MDIyMjE3LDIxNDYyMDQ1MTgsMjkxMDM5MzA4LC0x
-NjY3NzY1OTUwXX0=
+eyJoaXN0b3J5IjpbLTU2ODcwMTI3MSwtOTg2NjUyOTI0LC00NT
+I2MDYyOTQsNDA3NTA3Nzg0LDEwNjQwNzc4NjcsLTg4MDM0NTEx
+MSwtMTM3MzkzODg1MCwxMTQ1ODY4MTM1LC0xMzI4MjU1NzIsLT
+MxMTkyNDc1MSwtMTU0OTI4NTAwOSwtMTg1MjY2NDM4MiwzNTY5
+NjgzMDMsLTE0MjgxNzY2OTksLTE4NjA1OTc2ODAsMjY0NzgwNj
+k5LDEyNzgwMjIyMTcsMjE0NjIwNDUxOCwyOTEwMzkzMDgsLTE2
+Njc3NjU5NTBdfQ==
 -->
