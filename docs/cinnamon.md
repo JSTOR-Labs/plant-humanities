@@ -28,6 +28,12 @@ A second, and much more surprising reason for the long-lasting confusion over ci
 
 ### Cinnamon as a tool of empire
 All such philological quibbling about ancient sources was of no concern to the early modern consumer, who simply craved for cinnamon. The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan S. de Elcano (1476-1526), who completed Magellan's circumnavigation of the world, after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted in his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
+<param ve-image
+	title="test"
+	manifest="http://digital.ub.uni-duesseldorf.de/i3f/v20/4722055/manifest"
+	seq="100">
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png
 
 Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
 <param ve-image
@@ -136,11 +142,11 @@ In ieder geval toevoegen:
 
 [^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQwOTE5MDUsLTEzMjgyNTU3MiwtMz
-ExOTI0NzUxLC0xNTQ5Mjg1MDA5LC0xODUyNjY0MzgyLDM1Njk2
-ODMwMywtMTQyODE3NjY5OSwtMTg2MDU5NzY4MCwyNjQ3ODA2OT
-ksMTI3ODAyMjIxNywyMTQ2MjA0NTE4LDI5MTAzOTMwOCwtMTY2
-Nzc2NTk1MCwtNDk5MTI5NTYsODU2NjA5NzYsLTEyNDMzODc1ND
-IsMzgyMzc4MjE4LDE3MDk1MDA2MDIsLTkyNzU1OTQwLDM5MDg4
-NzU2Nl19
+eyJoaXN0b3J5IjpbLTU0NTMwMTE5NSwtMTMyODI1NTcyLC0zMT
+E5MjQ3NTEsLTE1NDkyODUwMDksLTE4NTI2NjQzODIsMzU2OTY4
+MzAzLC0xNDI4MTc2Njk5LC0xODYwNTk3NjgwLDI2NDc4MDY5OS
+wxMjc4MDIyMjE3LDIxNDYyMDQ1MTgsMjkxMDM5MzA4LC0xNjY3
+NzY1OTUwLC00OTkxMjk1Niw4NTY2MDk3NiwtMTI0MzM4NzU0Mi
+wzODIzNzgyMTgsMTcwOTUwMDYwMiwtOTI3NTU5NDAsMzkwODg3
+NTY2XX0=
 -->
