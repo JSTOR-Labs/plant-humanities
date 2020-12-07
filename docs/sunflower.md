@@ -20,7 +20,7 @@ _Helianthus annuus_ (common or annual sunflower) holds a special status in the p
 <param ve-entity eid="Q995745" title="artificial selection" aliases="artificially selected">
 <param ve-entity eid="Q3796486" title="botanical illustration">
 Yet, as this botanical illustration reminds us, domesticated _Helianthus annuus_ also has an imposing presence in the visual arts. Like the supersized flower in this plant portrait, the sunflower looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. The proliferation of the flower in European art since the later sixteenth century is due partly to the aesthetic appeal of traits artificially selected to increase seed production, a single flower head with a large disk, and partly to the timing of its introduction to Europe just prior to the blossoming of a new genre of botanical treatise, called the [florilegium](https://wordsmith.org/words/florilegium.html) ("collection of flowers"), in the 1610s.
-<param ve-image fit="contain" primary url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
+<param ve-image url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 <param ve-entity eid="Q861716" title="visual culture">
 Sunflower imagery can provide rich historical information about the plant and the roles of visual culture in communicating knowledges, myths, and meanings related to it. Artists working in Europe from the age of colonization to the modern period, produced likenesses of the sunflower that served aesthetic, imperial, scientific, commercial, and other functions. In doing so, they developed conventions for representing specific characteristics of sunflowers that were tailored to those aims. By tracking changes in that [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) over time, we can learn about the historical significance of sunflowers in specific temporal and geographic contexts, as well as shifts in the ways that humans have represented, encountered, used, studied, and valued them. Through that practice of close visual analysis, that engaging with artworks necessarily involves, we also cultivate a greater attentiveness to bring to our encounters with plants.
@@ -237,11 +237,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDAzNDA4MiwxNDE2ODUwNjYwLC00MD
-A0MjEyMiwtMTAwNDQyNzQyOSwxNjUyMjA3Mzk4LC01ODY0MTI3
-MTYsLTExOTAxMjMzMzQsLTczMTc4ODA5OSwtMTY5MTM0MjM3MS
-wyMDc2NzYxMDY5LDEzMzU4MzQxMTgsLTEzODg5NDE2NzEsMTI3
-NDQ5MDc3OCwtMjAwMjgwMjQ0NywtMTg2OTU1NjA1NywtMTQzOT
-QxMDk3NSwtMTE1MDc5MTc5MiwtOTE4NDE3NjU3LC0xMzA1NDQ3
-MzgzLDkzMTYxMjk2NV19
+eyJoaXN0b3J5IjpbMTI4NTExMDA1NiwtMjE0MDM0MDgyLDE0MT
+Y4NTA2NjAsLTQwMDQyMTIyLC0xMDA0NDI3NDI5LDE2NTIyMDcz
+OTgsLTU4NjQxMjcxNiwtMTE5MDEyMzMzNCwtNzMxNzg4MDk5LC
+0xNjkxMzQyMzcxLDIwNzY3NjEwNjksMTMzNTgzNDExOCwtMTM4
+ODk0MTY3MSwxMjc0NDkwNzc4LC0yMDAyODAyNDQ3LC0xODY5NT
+U2MDU3LC0xNDM5NDEwOTc1LC0xMTUwNzkxNzkyLC05MTg0MTc2
+NTcsLTEzMDU0NDczODNdfQ==
 -->
