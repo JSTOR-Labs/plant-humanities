@@ -136,7 +136,7 @@ In the eighteenth and early nineteenth centuries, botanical illustrators develop
 
 <param ve-entity eid="Q14847254" title="Compositae"> 
 <param ve-entity eid="Q30765614" title="floret" aliases="florets"> 
-Henderson's botanical illustration highlights a trait of sunflowers that we may overlook due to our casual familiarity with the plant. Its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets.[^ref20] This diagram of a mature flower head shows that what we generally call “petals” are actually ray florets, which are sterile and serve to attract pollinators to disk florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own fruit after pollination. Perceiving such floral traits and examining their functions requires a process of direct observation and visual analysis akin to making and studying artistic representations of plants.
+Henderson's botanical illustration highlights a trait of sunflowers that we may overlook due to our casual familiarity with the plant. Its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets.[^ref20] This diagram of a mature flower head shows that what we generally call “petals” are actually ray florets, which are sterile and serve to attract pollinators to disk florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own fruit after pollination. Perceiving such floral traits and examining their functions requires a process of direct observation and visual analysis that is practiced by scientists and artists alike.
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="_Helianthus_ whirl, L. Shyamal, Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg">
@@ -238,11 +238,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzI4MTY3MCw2NzQ4Nzc3MTksNzQ5Nj
-gwOTU0LC0xMzQyODk4MzkxLC0xNzg1MjMwOTI5LDYyMDE3NjY4
-MSw0MDQ5ODU2MzQsLTE4MTQ2NDA3NjgsLTIxNDAzNDA4MiwxND
-E2ODUwNjYwLC00MDA0MjEyMiwtMTAwNDQyNzQyOSwxNjUyMjA3
-Mzk4LC01ODY0MTI3MTYsLTExOTAxMjMzMzQsLTczMTc4ODA5OS
-wtMTY5MTM0MjM3MSwyMDc2NzYxMDY5LDEzMzU4MzQxMTgsLTEz
-ODg5NDE2NzFdfQ==
+eyJoaXN0b3J5IjpbLTE2MjkwNTkyNzgsNjc0ODc3NzE5LDc0OT
+Y4MDk1NCwtMTM0Mjg5ODM5MSwtMTc4NTIzMDkyOSw2MjAxNzY2
+ODEsNDA0OTg1NjM0LC0xODE0NjQwNzY4LC0yMTQwMzQwODIsMT
+QxNjg1MDY2MCwtNDAwNDIxMjIsLTEwMDQ0Mjc0MjksMTY1MjIw
+NzM5OCwtNTg2NDEyNzE2LC0xMTkwMTIzMzM0LC03MzE3ODgwOT
+ksLTE2OTEzNDIzNzEsMjA3Njc2MTA2OSwxMzM1ODM0MTE4LC0x
+Mzg4OTQxNjcxXX0=
 -->
