@@ -134,15 +134,15 @@ In ieder geval toevoegen:
 
 [^ref4]: Vijaya Samaraweera, "The Cinnamon Trade of Ceylon", _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
 
-[^ref5]: J. Innes Miller, _The Spice Trade of the Roman Empire, 29 B.C. to A.D. 641_ (Oxford: Clarendon Press 1969); 
+[^ref5]: J. Innes Miller, _The Spice Trade of the Roman Empire, 29 B.C. to A.D. 641_ (Oxford: Clarendon Press 1969); refuted Patricia Crone, _Meccan Trade and the Rise of Islam_ (Princeton (NJ): Princeton University Press 1987) 37;
 
 [^ref6]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2OTY4MzAzLC0xNDI4MTc2Njk5LC0xOD
-YwNTk3NjgwLDI2NDc4MDY5OSwxMjc4MDIyMjE3LDIxNDYyMDQ1
-MTgsMjkxMDM5MzA4LC0xNjY3NzY1OTUwLC00OTkxMjk1Niw4NT
-Y2MDk3NiwtMTI0MzM4NzU0MiwzODIzNzgyMTgsMTcwOTUwMDYw
-MiwtOTI3NTU5NDAsMzkwODg3NTY2LC0xMDI4NTU3ODc2LDE1Nj
-Y3MDQ4OSwtMTg3OTAyNDEwMSwxNTIyNDA2ODM1LDMxMzM0ODIz
-OV19
+eyJoaXN0b3J5IjpbLTEzOTQ4NTI4MDgsMzU2OTY4MzAzLC0xND
+I4MTc2Njk5LC0xODYwNTk3NjgwLDI2NDc4MDY5OSwxMjc4MDIy
+MjE3LDIxNDYyMDQ1MTgsMjkxMDM5MzA4LC0xNjY3NzY1OTUwLC
+00OTkxMjk1Niw4NTY2MDk3NiwtMTI0MzM4NzU0MiwzODIzNzgy
+MTgsMTcwOTUwMDYwMiwtOTI3NTU5NDAsMzkwODg3NTY2LC0xMD
+I4NTU3ODc2LDE1NjY3MDQ4OSwtMTg3OTAyNDEwMSwxNTIyNDA2
+ODM1XX0=
 -->
