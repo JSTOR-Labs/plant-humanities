@@ -29,7 +29,7 @@ A second, and much more surprising reason for the long-lasting confusion over ci
 ### Cinnamon a a tool of empire
 All such philological quibbling about ancient sources was of no concern to the early modern consumer, who simply craved for cinnamon. The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world, after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
 <param ve-image
-	title="Juan Sebastián Elcano"
+	title="Coat of arms of Juan Sebastián Elcano. At the bottom can be seen two "
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	fit="contain">
 
@@ -142,11 +142,11 @@ In ieder geval toevoegen:
 
 [^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDcyNzg1NSwxMDY0MDc3ODY3LC04OD
-AzNDUxMTEsLTEzNzM5Mzg4NTAsMTE0NTg2ODEzNSwtMTMyODI1
-NTcyLC0zMTE5MjQ3NTEsLTE1NDkyODUwMDksLTE4NTI2NjQzOD
-IsMzU2OTY4MzAzLC0xNDI4MTc2Njk5LC0xODYwNTk3NjgwLDI2
-NDc4MDY5OSwxMjc4MDIyMjE3LDIxNDYyMDQ1MTgsMjkxMDM5Mz
-A4LC0xNjY3NzY1OTUwLC00OTkxMjk1Niw4NTY2MDk3NiwtMTI0
-MzM4NzU0Ml19
+eyJoaXN0b3J5IjpbNjM3NTcxMjMwLDEwNjQwNzc4NjcsLTg4MD
+M0NTExMSwtMTM3MzkzODg1MCwxMTQ1ODY4MTM1LC0xMzI4MjU1
+NzIsLTMxMTkyNDc1MSwtMTU0OTI4NTAwOSwtMTg1MjY2NDM4Mi
+wzNTY5NjgzMDMsLTE0MjgxNzY2OTksLTE4NjA1OTc2ODAsMjY0
+NzgwNjk5LDEyNzgwMjIyMTcsMjE0NjIwNDUxOCwyOTEwMzkzMD
+gsLTE2Njc3NjU5NTAsLTQ5OTEyOTU2LDg1NjYwOTc2LC0xMjQz
+Mzg3NTQyXX0=
 -->
