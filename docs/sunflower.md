@@ -15,7 +15,7 @@
 _Helianthus annuus_ (common or annual sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans first domesticated in North America thousands of years ago and the only one that is still widely used today.[^ref1] Indeed, the domesticated sunflower is primarily grown as an oil seed crop, having been introduced from its native range in North America nearly worldwide. The cultivated sunflower is also a popular ornamental, renowned for its yellow flower head, large disk, heart-shaped or ovate leaves, unbranched stem, and imposing height. Remarkably, the plant can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported. 
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Helianthus_annuus_3.jpg" title="Wild _Helianthus annuus_ is an annual plant with a multi-branched stem and many small flower heads, Kyle Canyon Road, Spring Mountains, southern Nevada, Stan Shebs, Wikimedia Commons, CC BY-SA 3.0">
-<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower%20output%20map_wikimedia.jpeg" title="Map of sunflower production (average percentage of land used for its production times average yield in each grid cell) across the world compiled by the University of Minnesota Institute on the Environment with data from: Monfreda, C., N. Ramankutty, and J.A. Foley. 2008. Farming the planet: 2. Geographic distribution of crop areas, yields, physiological types, and net primary production in the year 2000. Global Biogeochemical Cycles 22: GB1022">
+<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower%20output%20map_wikimedia.jpeg" title="Map of sunflower production (average percentage of land used for its production times average yield in each grid cell), University of Minnesota Institute on the Environment, AndrewMT, Wikimedia Commons, CC BY-SA 3.0">
 
 <param ve-entity eid="Q995745" title="artificial selection" aliases="artificially selected">
 <param ve-entity eid="Q3796486" title="botanical illustration">
@@ -237,7 +237,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjI4MzEzNiwxNDE2ODUwNjYwLC00MD
+eyJoaXN0b3J5IjpbLTIxNDAzNDA4MiwxNDE2ODUwNjYwLC00MD
 A0MjEyMiwtMTAwNDQyNzQyOSwxNjUyMjA3Mzk4LC01ODY0MTI3
 MTYsLTExOTAxMjMzMzQsLTczMTc4ODA5OSwtMTY5MTM0MjM3MS
 wyMDc2NzYxMDY5LDEzMzU4MzQxMTgsLTEzODg5NDE2NzEsMTI3
