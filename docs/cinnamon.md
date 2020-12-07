@@ -24,7 +24,7 @@ How could such confusion last so long? First, a possible explanation for the shi
 	manifest="http://digital.ub.uni-duesseldorf.de/i3f/v20/4722055/manifest"
 	seq="100">
 
-A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in early modern times continued to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. This narrative of ancient trade is unlikely, but still less imaginative than the one proposed by J. Innes Miller, who argued for an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. This fantastic concept has been rejecvted by historians, but Sri Lanka
+A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in early modern times continued to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. This narrative of ancient trade is unlikely, but still less imaginative than the one proposed by J. Innes Miller, who argued for an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. This fantastic concept has been rejected by historians, but Sri Lanka
 
 ### Cinnamon as a tool of empire
 Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref5]
@@ -136,11 +136,11 @@ In ieder geval toevoegen:
 
 [^ref5]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjI1NDk4OSwtMTQyODE3NjY5OSwtMT
-g2MDU5NzY4MCwyNjQ3ODA2OTksMTI3ODAyMjIxNywyMTQ2MjA0
-NTE4LDI5MTAzOTMwOCwtMTY2Nzc2NTk1MCwtNDk5MTI5NTYsOD
-U2NjA5NzYsLTEyNDMzODc1NDIsMzgyMzc4MjE4LDE3MDk1MDA2
-MDIsLTkyNzU1OTQwLDM5MDg4NzU2NiwtMTAyODU1Nzg3NiwxNT
-Y2NzA0ODksLTE4NzkwMjQxMDEsMTUyMjQwNjgzNSwzMTMzNDgy
-MzldfQ==
+eyJoaXN0b3J5IjpbLTEzNDM5NDI3LC0xNDI4MTc2Njk5LC0xOD
+YwNTk3NjgwLDI2NDc4MDY5OSwxMjc4MDIyMjE3LDIxNDYyMDQ1
+MTgsMjkxMDM5MzA4LC0xNjY3NzY1OTUwLC00OTkxMjk1Niw4NT
+Y2MDk3NiwtMTI0MzM4NzU0MiwzODIzNzgyMTgsMTcwOTUwMDYw
+MiwtOTI3NTU5NDAsMzkwODg3NTY2LC0xMDI4NTU3ODc2LDE1Nj
+Y3MDQ4OSwtMTg3OTAyNDEwMSwxNTIyNDA2ODM1LDMxMzM0ODIz
+OV19
 -->
