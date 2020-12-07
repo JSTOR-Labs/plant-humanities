@@ -134,15 +134,15 @@ In ieder geval toevoegen:
 
 [^ref4]: Vijaya Samaraweera, "The Cinnamon Trade of Ceylon", _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
 
-[^ref5]: J. Innes Miller, _The Spice Trade of the Roman Empire, 29 B.C. to A.D. 641_ (Oxford: Clarendon Press 1969); refuted Patricia Crone, _Meccan Trade and the Rise of Islam_ (Princeton (NJ): Princeton University Press 1987) 37;
+[^ref5]: J. Innes Miller, _The Spice Trade of the Roman Empire, 29 B.C. to A.D. 641_ (Oxford: Clarendon Press 1969); embraced by Casson, L., _Ancient Trade and Society (Detroit: Wayne State University Press 1984)refuted by Manfred G. Raschke, "New Studies in Roman Commerce with the East", in: H. Temporini (ed.), _Aufstieg und Niedergang der Römischen Welt: Geschichte und Kultur Roms in der neueren Forschung, II Principat / Rise and Fall of the Roman World: History and Culture of Rome in Recent Research, 2nd Principat_ (Berlin and New York: Walter de Gruyter 1978), vol. 9, part 2, 604-1361; Patricia Crone, _Meccan Trade and the Rise of Islam_ (Princeton (NJ): Princeton University Press 1987).
 
 [^ref6]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQ4NTI4MDgsMzU2OTY4MzAzLC0xND
-I4MTc2Njk5LC0xODYwNTk3NjgwLDI2NDc4MDY5OSwxMjc4MDIy
-MjE3LDIxNDYyMDQ1MTgsMjkxMDM5MzA4LC0xNjY3NzY1OTUwLC
-00OTkxMjk1Niw4NTY2MDk3NiwtMTI0MzM4NzU0MiwzODIzNzgy
-MTgsMTcwOTUwMDYwMiwtOTI3NTU5NDAsMzkwODg3NTY2LC0xMD
-I4NTU3ODc2LDE1NjY3MDQ4OSwtMTg3OTAyNDEwMSwxNTIyNDA2
-ODM1XX0=
+eyJoaXN0b3J5IjpbOTI0NjU1MTg1LDM1Njk2ODMwMywtMTQyOD
+E3NjY5OSwtMTg2MDU5NzY4MCwyNjQ3ODA2OTksMTI3ODAyMjIx
+NywyMTQ2MjA0NTE4LDI5MTAzOTMwOCwtMTY2Nzc2NTk1MCwtND
+k5MTI5NTYsODU2NjA5NzYsLTEyNDMzODc1NDIsMzgyMzc4MjE4
+LDE3MDk1MDA2MDIsLTkyNzU1OTQwLDM5MDg4NzU2NiwtMTAyOD
+U1Nzg3NiwxNTY2NzA0ODksLTE4NzkwMjQxMDEsMTUyMjQwNjgz
+NV19
 -->
