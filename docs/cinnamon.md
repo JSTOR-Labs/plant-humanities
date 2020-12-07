@@ -18,7 +18,7 @@ Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinna
 	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
 	manifest="https://iiif.lib.harvard.edu/manifests/ids:18040817">
 
-How could such confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, however, European scholars writing about cinnamon would turn to classical, not medieval sources, to understand the spice and its properties. Discrepancies between classical descriptions of the spice and the plant that was found in Sri Lanka could be resolved. In his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations of cinnamon and descriptions by classical authors by the fact that the latter had only known the processed spice, not the actual plant. The _cinnamomum_ and _cassia_ (or _cassia lignea_) of the ancients were only processed variations of the same plant, he claimed.[^ref3]
+How could such confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, however, European scholars writing about cinnamon would turn to classical, not medieval sources, to understand the spice and its properties. Discrepancies between classical descriptions of the spice and the plant that was found in Sri Lanka could be resolved. In his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations and classical descriptions of cinnamon by the fact that the latter had only known the processed spice, not the actual plant. The _cinnamomum_ and _cassia_ (or _cassia lignea_) of the ancients were only processed variations of the same plant, he claimed.[^ref3]
 <param ve-image
 	title="test"
 	manifest="http://digital.ub.uni-duesseldorf.de/i3f/v20/4722055/manifest"
@@ -132,11 +132,11 @@ In ieder geval toevoegen:
 [^ref4]: Vijaya Samaraweera, "The Cinnamon Trade of Ceylon", _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
 [^ref5]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0NzgwNjk5LDEyNzgwMjIyMTcsMjE0Nj
-IwNDUxOCwyOTEwMzkzMDgsLTE2Njc3NjU5NTAsLTQ5OTEyOTU2
-LDg1NjYwOTc2LC0xMjQzMzg3NTQyLDM4MjM3ODIxOCwxNzA5NT
-AwNjAyLC05Mjc1NTk0MCwzOTA4ODc1NjYsLTEwMjg1NTc4NzYs
-MTU2NjcwNDg5LC0xODc5MDI0MTAxLDE1MjI0MDY4MzUsMzEzMz
-Q4MjM5LDIxMDM0NTYzOSw0NDc0MTQ1MjUsLTMzOTIxOTMxNV19
-
+eyJoaXN0b3J5IjpbLTE4NjA1OTc2ODAsMjY0NzgwNjk5LDEyNz
+gwMjIyMTcsMjE0NjIwNDUxOCwyOTEwMzkzMDgsLTE2Njc3NjU5
+NTAsLTQ5OTEyOTU2LDg1NjYwOTc2LC0xMjQzMzg3NTQyLDM4Mj
+M3ODIxOCwxNzA5NTAwNjAyLC05Mjc1NTk0MCwzOTA4ODc1NjYs
+LTEwMjg1NTc4NzYsMTU2NjcwNDg5LC0xODc5MDI0MTAxLDE1Mj
+I0MDY4MzUsMzEzMzQ4MjM5LDIxMDM0NTYzOSw0NDc0MTQ1MjVd
+fQ==
 -->
