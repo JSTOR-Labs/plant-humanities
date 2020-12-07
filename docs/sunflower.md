@@ -42,7 +42,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q46" title="Europe">
 <param ve-entity eid="Q815962" title="colonization">
 <param ve-entity eid="Q6165948" title="herbal" aliases="herbals">
-Herbals provide rich, albeit incomplete, historical evidence about the sunflower in the sixteenth century.[^ref4] Although these treatises suggest that it was the Spanish who first introduced cultivated _Helianthus annuus_ to Europe, they generally omit any information about the plant’s harvesting and the impact of that exploitative practice, now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” on Indigenous peoples and local habitats. Yet, despite those omissions, herbals offer insights about the significance of domesticated _H. annuus_ because they contain the first known verbal and visual descriptions of the plant authored by Europeans. They primarily highlight the sunflower’s showy blossom and imposing height, revealing that, unlike most flora then imported for medicinal or culinary uses, it held a special status as an ornamental and a foreign curiosity.
+Herbals provide rich, albeit incomplete, historical evidence about the sunflower in the sixteenth century.[^ref4] Although these treatises suggest that it was the Spanish who first introduced cultivated _Helianthus annuus_ to Europe, they generally omit any information about the plant’s harvesting and the impact of that exploitative practice, now termed “[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism),” on Indigenous peoples and local habitats. Yet, despite those omissions, herbals offer insights about the significance of domesticated _H. annuus_ because they contain the first known verbal and visual descriptions of the plant authored by Europeans. These representations highlight the sunflower’s showy head and imposing height, revealing that it held a special status, as both an ornamental and a foreign curiosity, distinct from most flora then imported for medicinal or culinary uses.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 <param ve-entity eid="Q476033" title="Low Countries">
@@ -238,11 +238,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTYxODEwOSwtMTg0MDU3NjMwMiwxNz
-I5MDg0ODQ5LC0zMTM0NzMzOTAsLTE4ODQ0MDc4ODcsNjc0ODc3
-NzE5LDc0OTY4MDk1NCwtMTM0Mjg5ODM5MSwtMTc4NTIzMDkyOS
-w2MjAxNzY2ODEsNDA0OTg1NjM0LC0xODE0NjQwNzY4LC0yMTQw
-MzQwODIsMTQxNjg1MDY2MCwtNDAwNDIxMjIsLTEwMDQ0Mjc0Mj
-ksMTY1MjIwNzM5OCwtNTg2NDEyNzE2LC0xMTkwMTIzMzM0LC03
-MzE3ODgwOTldfQ==
+eyJoaXN0b3J5IjpbLTk0NDIwNDM1MSwyMDIxNjE4MTA5LC0xOD
+QwNTc2MzAyLDE3MjkwODQ4NDksLTMxMzQ3MzM5MCwtMTg4NDQw
+Nzg4Nyw2NzQ4Nzc3MTksNzQ5NjgwOTU0LC0xMzQyODk4MzkxLC
+0xNzg1MjMwOTI5LDYyMDE3NjY4MSw0MDQ5ODU2MzQsLTE4MTQ2
+NDA3NjgsLTIxNDAzNDA4MiwxNDE2ODUwNjYwLC00MDA0MjEyMi
+wtMTAwNDQyNzQyOSwxNjUyMjA3Mzk4LC01ODY0MTI3MTYsLTEx
+OTAxMjMzMzRdfQ==
 -->
