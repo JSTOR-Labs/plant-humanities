@@ -10,7 +10,7 @@
 
 ### The cinnamon challenge
 
-In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestable clutter in the back of the throat. Thankfully, this [quite dagerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
+In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction s simple enough – try to swallow a tablespoon of cinnamon at once – it prove to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestable clutter in the back of the throat. Thankfully, this [quite dagerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
 
 ### A global history
 
@@ -119,13 +119,19 @@ In ieder geval toevoegen:
 ### References
 [^ref1]: Stephen G. Haw, "Cinnamon, Cassia and Ancient Trade", _Journal of Ancient History and Archaeology_, 4:1 (2017) 5-18
 [^ref2]: Haw, "Cinnamon", 10-11.
-[^ref3]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 97-106, there 99-101.
+[^ref3376,64,1625,119554,53,900,667">
+
+
+
+### References
+
+[^ref1]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjQwNjgzNSwzMTMzNDgyMzksMjEwMz
-Q1NjM5LDQ0NzQxNDUyNSwtMzM5MjE5MzE1LDQ4NTM4NDc4MSwt
-MTI2ODk3NjYsLTE4NDUzNjk4MjAsMTI4OTYzNTY4MCwtMzg0NT
-AyMDc3LC0yMTEyOTc4ODMxLDUzNjU2MzYyNSwtMTk1MzI3OTM3
-MSwxNjA4NzgwNTIyLC02MTM0MDAwNzYsLTE5Mzg3MDM3MTQsMT
-E5ODA4Mjc5NiwtMjAyNjIxMjc0OCwxMjY3NDc5NjQ5LC0xNzgw
-Njg2NF19
+eyJoaXN0b3J5IjpbLTE4NzkwMjQxMDEsMTUyMjQwNjgzNSwzMT
+MzNDgyMzksMjEwMzQ1NjM5LDQ0NzQxNDUyNSwtMzM5MjE5MzE1
+LDQ4NTM4NDc4MSwtMTI2ODk3NjYsLTE4NDUzNjk4MjAsMTI4OT
+YzNTY4MCwtMzg0NTAyMDc3LC0yMTEyOTc4ODMxLDUzNjU2MzYy
+NSwtMTk1MzI3OTM3MSwxNjA4NzgwNTIyLC02MTM0MDAwNzYsLT
+E5Mzg3MDM3MTQsMTE5ODA4Mjc5NiwtMjAyNjIxMjc0OCwxMjY3
+NDc5NjQ5XX0=
 -->
