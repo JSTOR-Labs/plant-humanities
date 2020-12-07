@@ -71,6 +71,8 @@ Efforts of transplantation and acclimatization
 Cinnamon in the Spanish (Atlantic) world
 	- Combus and cinnamon
 	Griffenhagen (G.B.) 1992
+	- Elcano's coat of arms after the Magelhaes expedition
+	Guerra (F.) 1964
 	- Dutch exports of cinnamon to Spain and Spanish world
 	Israel (J.I.) 1989
 	- Chocolate drink in Spanish Atlantic world
@@ -83,8 +85,6 @@ Cinnamon in the Spanish (Atlantic) world
 	Burdick (C.E.) 2014
 	- Publishing cinnamon knowledge (Hernández expedition)
 	Freedberg (D.) 2002 (zou bruggetje kunnen zijn vanuit Orta)
-	- Elcano's coat of arms after the Magelhaes expedition
-	Guerra (F.) 1964
 	- Cinnamon production of the Philippines
 	Mallari (F.) 1974
 	Bleichmar (D.) 2012 (pp.123-126)
@@ -134,11 +134,11 @@ In ieder geval toevoegen:
 
 [^ref6]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc3OTAzNjAsLTE1NDkyODUwMDksLT
-E4NTI2NjQzODIsMzU2OTY4MzAzLC0xNDI4MTc2Njk5LC0xODYw
-NTk3NjgwLDI2NDc4MDY5OSwxMjc4MDIyMjE3LDIxNDYyMDQ1MT
-gsMjkxMDM5MzA4LC0xNjY3NzY1OTUwLC00OTkxMjk1Niw4NTY2
-MDk3NiwtMTI0MzM4NzU0MiwzODIzNzgyMTgsMTcwOTUwMDYwMi
-wtOTI3NTU5NDAsMzkwODg3NTY2LC0xMDI4NTU3ODc2LDE1NjY3
-MDQ4OV19
+eyJoaXN0b3J5IjpbOTkyNTAyMDgsLTE1NDkyODUwMDksLTE4NT
+I2NjQzODIsMzU2OTY4MzAzLC0xNDI4MTc2Njk5LC0xODYwNTk3
+NjgwLDI2NDc4MDY5OSwxMjc4MDIyMjE3LDIxNDYyMDQ1MTgsMj
+kxMDM5MzA4LC0xNjY3NzY1OTUwLC00OTkxMjk1Niw4NTY2MDk3
+NiwtMTI0MzM4NzU0MiwzODIzNzgyMTgsMTcwOTUwMDYwMiwtOT
+I3NTU5NDAsMzkwODg3NTY2LC0xMDI4NTU3ODc2LDE1NjY3MDQ4
+OV19
 -->
