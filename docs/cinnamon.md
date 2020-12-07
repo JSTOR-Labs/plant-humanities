@@ -21,6 +21,8 @@ Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinna
 	region="">
 
 [https://iiif.lib.harvard.edu/manifests/ids:18040817](https://iiif.lib.harvard.edu/manifests/ids:18040817)
+  
+f. 129b
 
 How could such confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, however, European scholars writing about cinnamon would turn to classical, not medieval sources to understand the spice and its properties. Discrepancies between classical descriptions of the spice and the plant that was found in Sri Lanka could be resolved. In his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations of cinnamon and descriptions by classical authors by the fact that the latter had only known the processed spice, not the actual plant. The _cinnamomum_ and _cassia_ (or _cassia lignea_) of the ancients were only processed variations of the same plant, he claimed.[^ref3]
 <param ve-image
@@ -137,7 +139,7 @@ In ieder geval toevoegen:
 [^ref4]: Vijaya Samaraweera, "The Cinnamon Trade of Ceylon", _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
 [^ref5]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzY1ODEyLDIxNDYyMDQ1MTgsMjkxMD
+eyJoaXN0b3J5IjpbNDEyMzQ1NzcwLDIxNDYyMDQ1MTgsMjkxMD
 M5MzA4LC0xNjY3NzY1OTUwLC00OTkxMjk1Niw4NTY2MDk3Niwt
 MTI0MzM4NzU0MiwzODIzNzgyMTgsMTcwOTUwMDYwMiwtOTI3NT
 U5NDAsMzkwODg3NTY2LC0xMDI4NTU3ODc2LDE1NjY3MDQ4OSwt
