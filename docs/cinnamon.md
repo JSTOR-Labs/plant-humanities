@@ -22,6 +22,8 @@ How could such confusion last so long? First, a possible explanation for the shi
 	seq="100219"
 	region="">
 
+Much more surprising than the early modern confusion of what cinnamon was, is the fact that the exact same confusion 
+
 ### Cinnamon as a tool of empire
 Once 'true' cinnamon had begun to be associated only with the cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), which show a personification of Arabia holding a bundle of cinnamon sticks, next to a camel. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda to emphasize the relation between the authority of the empire and the conquered lands.[^ref4]
 <param ve-image
@@ -127,11 +129,11 @@ In ieder geval toevoegen:
 [^ref3]: Inês de Ornellas e Castro, "A 'Pleasant Banquet of Words': Therapeutic Virtues and Alimentary Consumption in Garcia de Orta's _Colloquies on the Simples and Drugs of India_", in: Palmira Fontes da Costa (ed.), _Medicine, Trade, and Empire: Garcia de Orta's_ Colloquies on the Simples and Drugs of India _(1563) in Context_ (Farnham and Burlington: Ashgate 2015) 67-88, there 84, 85.
 [^ref4]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3OTQ3MDg3LC05Mjc1NTk0MCwzOTA4OD
-c1NjYsLTEwMjg1NTc4NzYsMTU2NjcwNDg5LC0xODc5MDI0MTAx
-LDE1MjI0MDY4MzUsMzEzMzQ4MjM5LDIxMDM0NTYzOSw0NDc0MT
-Q1MjUsLTMzOTIxOTMxNSw0ODUzODQ3ODEsLTEyNjg5NzY2LC0x
-ODQ1MzY5ODIwLDEyODk2MzU2ODAsLTM4NDUwMjA3NywtMjExMj
-k3ODgzMSw1MzY1NjM2MjUsLTE5NTMyNzkzNzEsMTYwODc4MDUy
-Ml19
+eyJoaXN0b3J5IjpbMTg1ODMxODc3NCwtOTI3NTU5NDAsMzkwOD
+g3NTY2LC0xMDI4NTU3ODc2LDE1NjY3MDQ4OSwtMTg3OTAyNDEw
+MSwxNTIyNDA2ODM1LDMxMzM0ODIzOSwyMTAzNDU2MzksNDQ3ND
+E0NTI1LC0zMzkyMTkzMTUsNDg1Mzg0NzgxLC0xMjY4OTc2Niwt
+MTg0NTM2OTgyMCwxMjg5NjM1NjgwLC0zODQ1MDIwNzcsLTIxMT
+I5Nzg4MzEsNTM2NTYzNjI1LC0xOTUzMjc5MzcxLDE2MDg3ODA1
+MjJdfQ==
 -->
