@@ -29,7 +29,7 @@ A second, and much more surprising reason for the long-lasting confusion over ci
 ### Cinnamon a a tool of empire
 All such philological quibbling about ancient sources was of no concern to the early modern consumer, who simply craved for cinnamon. The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan S Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world, after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted n his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
 <param ve-image
-	title="Juan Sebastián Elcano. At the bottom can be seen two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The "
+	title="Juan Sebastián Elcano. At the bottom can be seen two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner reads in Latin "Primus circumdedisti me" ("You first encircled me").
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	fit="contain"
 
@@ -141,11 +141,11 @@ In ieder geval toevoegen:
 
 [^ref7]: Barbara Zając, "Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)", in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjYwNjI5NCw0MDc1MDc3ODQsMTA2ND
-A3Nzg2NywtODgwMzQ1MTExLC0xMzczOTM4ODUwLDExNDU4Njgx
-MzUsLTEzMjgyNTU3MiwtMzExOTI0NzUxLC0xNTQ5Mjg1MDA5LC
-0xODUyNjY0MzgyLDM1Njk2ODMwMywtMTQyODE3NjY5OSwtMTg2
-MDU5NzY4MCwyNjQ3ODA2OTksMTI3ODAyMjIxNywyMTQ2MjA0NT
-E4LDI5MTAzOTMwOCwtMTY2Nzc2NTk1MCwtNDk5MTI5NTYsODU2
-NjA5NzZdfQ==
+eyJoaXN0b3J5IjpbOTI1MTIxMzM2LC00NTI2MDYyOTQsNDA3NT
+A3Nzg0LDEwNjQwNzc4NjcsLTg4MDM0NTExMSwtMTM3MzkzODg1
+MCwxMTQ1ODY4MTM1LC0xMzI4MjU1NzIsLTMxMTkyNDc1MSwtMT
+U0OTI4NTAwOSwtMTg1MjY2NDM4MiwzNTY5NjgzMDMsLTE0Mjgx
+NzY2OTksLTE4NjA1OTc2ODAsMjY0NzgwNjk5LDEyNzgwMjIyMT
+csMjE0NjIwNDUxOCwyOTEwMzkzMDgsLTE2Njc3NjU5NTAsLTQ5
+OTEyOTU2XX0=
 -->
