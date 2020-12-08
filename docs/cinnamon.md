@@ -41,7 +41,8 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 
 Using cinnamon as a means to increase the prestige of an individual or a state was one thing. Managing the production and trade of the spice was quite another. In the sixteenth century, the Portuguese made humble attempts to create a monopoly on the cinnamon trade, They soon realized that this was impossible without getting involved in local politics on the island. Local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals.[^ref8]
 <param ve-map
-	title="">
+	title=""
+	center="Q854">
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -142,11 +143,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkyMDMyMDQsMTg3ODg2NjE4OCwtOD
-YwMTIxMjczLDE2NjU1ODI5MjcsLTk0MTUzODI1NCwtMjAwNTEz
-NDEzOCwtMTMyODA4NTE3MywxNDgzNjE3NTQyLDQ0NzAwMzY3Ny
-wxODk2MzQzODIyLC0xNDk3MjU5OTQsLTk4NjY1MjkyNCwtNDUy
-NjA2Mjk0LDQwNzUwNzc4NCwxMDY0MDc3ODY3LC04ODAzNDUxMT
-EsLTEzNzM5Mzg4NTAsMTE0NTg2ODEzNSwtMTMyODI1NTcyLC0z
-MTE5MjQ3NTFdfQ==
+eyJoaXN0b3J5IjpbLTQ4NTA0MjQwNiwtMTU3OTIwMzIwNCwxOD
+c4ODY2MTg4LC04NjAxMjEyNzMsMTY2NTU4MjkyNywtOTQxNTM4
+MjU0LC0yMDA1MTM0MTM4LC0xMzI4MDg1MTczLDE0ODM2MTc1ND
+IsNDQ3MDAzNjc3LDE4OTYzNDM4MjIsLTE0OTcyNTk5NCwtOTg2
+NjUyOTI0LC00NTI2MDYyOTQsNDA3NTA3Nzg0LDEwNjQwNzc4Nj
+csLTg4MDM0NTExMSwtMTM3MzkzODg1MCwxMTQ1ODY4MTM1LC0x
+MzI4MjU1NzJdfQ==
 -->
