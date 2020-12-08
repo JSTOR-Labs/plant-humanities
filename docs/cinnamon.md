@@ -68,6 +68,7 @@ Dutch monopoly in Ceylon
 	- Competition and efforts to maintain the monopoly
 	Heniger (J.) 1986
 	Cook (H.J.) 2007
+	Wagenaar (L.) 2016
 
 Paul Hermann / Linnaeus?
 	Andel (T.) & Barth (N.) 2018
@@ -84,6 +85,7 @@ Efforts of transplantation and acclimatization
 	- Cinnamon in Rio de Janeiro botanical garden (google die even)
 	Ricardo (L.M.) 2018
 	Hermann (P.) 1687 (failed attempt in Dutch gardens)
+	Zumbroich (T.J.) 2005
 
 Cinnamon in the Spanish (Atlantic) world
 	- Dutch exports of cinnamon to Spain and Spanish world
@@ -153,7 +155,7 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzM1MzgxOCw0OTgwMjcyNSw0NzE0Nj
+eyJoaXN0b3J5IjpbMTUwMTAxNTM2OSw0OTgwMjcyNSw0NzE0Nj
 U5MzcsLTE0Mzc1MTYyMzEsODIzMDIzNzEsODcyNTg3NTA1LC00
 ODUwNDI0MDYsLTE1NzkyMDMyMDQsMTg3ODg2NjE4OCwtODYwMT
 IxMjczLDE2NjU1ODI5MjcsLTk0MTUzODI1NCwtMjAwNTEzNDEz
