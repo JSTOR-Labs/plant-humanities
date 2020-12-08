@@ -25,10 +25,13 @@ Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinna
 How could this confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, however, European scholars writing about cinnamon would turn to classical, not medieval sources, to understand the spice and its properties. Discrepancies between classical descriptions of the spice and the plant that was found in Sri Lanka could be resolved. In his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations and classical authors' descriptions of cinnamon by the fact that the latter had only known the processed spice, not the actual plant.[^ref3]
 <param ve-image
 	title="test"
-	manifest="http://digital.ub.uni-duesseldorf.de/i3f/v20/4722055/manifest"
-	seq="100">
+	manifest=""
+	seq="">
 
 A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in the early modern period continue`s to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. This narrative of ancient global trade is also unlikely, but still less imaginative than the one proposed by J. Innes Miller (1969), who argued for an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept has been rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
+<param ve-map
+	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
+	manifest="https://iiif.lib.harvard.edu/manifests/ids:18040817">
 
 ### Cinnamon as a tool of empire
 All such philological quibbling about ancient sources was of no concern to the early modern consumer, who simply craved for cinnamon. The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
@@ -147,11 +150,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyNTg3NTA1LC00ODUwNDI0MDYsLTE1Nz
-kyMDMyMDQsMTg3ODg2NjE4OCwtODYwMTIxMjczLDE2NjU1ODI5
-MjcsLTk0MTUzODI1NCwtMjAwNTEzNDEzOCwtMTMyODA4NTE3My
-wxNDgzNjE3NTQyLDQ0NzAwMzY3NywxODk2MzQzODIyLC0xNDk3
-MjU5OTQsLTk4NjY1MjkyNCwtNDUyNjA2Mjk0LDQwNzUwNzc4NC
-wxMDY0MDc3ODY3LC04ODAzNDUxMTEsLTEzNzM5Mzg4NTAsMTE0
-NTg2ODEzNV19
+eyJoaXN0b3J5IjpbODIzMDIzNzEsODcyNTg3NTA1LC00ODUwND
+I0MDYsLTE1NzkyMDMyMDQsMTg3ODg2NjE4OCwtODYwMTIxMjcz
+LDE2NjU1ODI5MjcsLTk0MTUzODI1NCwtMjAwNTEzNDEzOCwtMT
+MyODA4NTE3MywxNDgzNjE3NTQyLDQ0NzAwMzY3NywxODk2MzQz
+ODIyLC0xNDk3MjU5OTQsLTk4NjY1MjkyNCwtNDUyNjA2Mjk0LD
+QwNzUwNzc4NCwxMDY0MDc3ODY3LC04ODAzNDUxMTEsLTEzNzM5
+Mzg4NTBdfQ==
 -->
