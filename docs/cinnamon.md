@@ -128,6 +128,7 @@ http://www.worldstopexports.com/cinnamon-exporters/
 
 Future of cinnamon
 Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 14): lezen!
+Turner (S.), Monnerat (M.) & Slack (P.) 2019 (uncertain prospects for cinnamon farmers in Vietnam)
 
 In ieder geval toevoegen:
 #Salagama  (Q3469487), also known als saliya or chaliya
@@ -152,11 +153,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4MDI3MjUsNDcxNDY1OTM3LC0xNDM3NT
-E2MjMxLDgyMzAyMzcxLDg3MjU4NzUwNSwtNDg1MDQyNDA2LC0x
-NTc5MjAzMjA0LDE4Nzg4NjYxODgsLTg2MDEyMTI3MywxNjY1NT
-gyOTI3LC05NDE1MzgyNTQsLTIwMDUxMzQxMzgsLTEzMjgwODUx
-NzMsMTQ4MzYxNzU0Miw0NDcwMDM2NzcsMTg5NjM0MzgyMiwtMT
-Q5NzI1OTk0LC05ODY2NTI5MjQsLTQ1MjYwNjI5NCw0MDc1MDc3
-ODRdfQ==
+eyJoaXN0b3J5IjpbMTMyMzM1MzgxOCw0OTgwMjcyNSw0NzE0Nj
+U5MzcsLTE0Mzc1MTYyMzEsODIzMDIzNzEsODcyNTg3NTA1LC00
+ODUwNDI0MDYsLTE1NzkyMDMyMDQsMTg3ODg2NjE4OCwtODYwMT
+IxMjczLDE2NjU1ODI5MjcsLTk0MTUzODI1NCwtMjAwNTEzNDEz
+OCwtMTMyODA4NTE3MywxNDgzNjE3NTQyLDQ0NzAwMzY3NywxOD
+k2MzQzODIyLC0xNDk3MjU5OTQsLTk4NjY1MjkyNCwtNDUyNjA2
+Mjk0XX0=
 -->
