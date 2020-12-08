@@ -63,7 +63,7 @@ Once introduced to Spain, the domesticated sunflower quickly migrated to parts o
 <param ve-entity eid="Q462437" title="composition">
 <param ve-entity eid="Q63540903" title="focal point">
 The advent of the florilegium in the 1610s was integral to the blossoming of sunflower aesthetics as is evidenced in the sumptuous prints contained in [_Hortus Eystettensis_](https://bibdigital.rjb.csic.es/idurl/1/10908).[^ref6] The 1613 book was commissioned from Basilius Besler by the Prince Bishop of Eichstätt, who wished to document rare and foreign flora then growing in his garden. As part of the project, Besler oversaw the production of this hand-colored [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of a domesticated sunflower shown life-sized. The image’s impact derives not only from its impressive dimensions but also from its bold cruciform composition, both of which imbue the full flower head and stem with a sense of power and religious reverence for nature. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value, unlike most illustrations then found in herbals. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ 
-that anticipated modern visual stereotypes for the plant, perhaps best epitomized by this tiny sunflower emoji.
+that anticipated modern visual stereotypes for the plant, perhaps best epitomized by this tiny [sunflower emoji](https://openmoji.org/library/#search=sunflower).
 
 ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
 
@@ -241,11 +241,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODU5OTU5NCw4NjkyMTQ2OTIsLTE5Mj
-I4NjIyMTYsLTEyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2ODM0
-LC00OTIyMjQ5NTgsMTc2MTk1ODQwNywyNzcwMjU3NTUsMTExOT
-M0Mjc0NSwtMTIzNDEyMjYxOCwtMTc0NzA2MDI4MywtMTg0NDA3
-OTEzMywtNzUwNjI1MTM0LC0xMzU4Mzk2OTY4LDg1NjkzODI5Mi
-wxMDY4NDIzODE2LDE0NDg4MjQzNjAsLTE1MzkwMjM3NTcsLTEw
-MzkyOTI3MF19
+eyJoaXN0b3J5IjpbLTIwMDA4OTA1NzMsLTkyODU5OTU5NCw4Nj
+kyMTQ2OTIsLTE5MjI4NjIyMTYsLTEyMzk3ODI0OCw1MTMxMTY4
+MzQsNTEzMTE2ODM0LC00OTIyMjQ5NTgsMTc2MTk1ODQwNywyNz
+cwMjU3NTUsMTExOTM0Mjc0NSwtMTIzNDEyMjYxOCwtMTc0NzA2
+MDI4MywtMTg0NDA3OTEzMywtNzUwNjI1MTM0LC0xMzU4Mzk2OT
+Y4LDg1NjkzODI5MiwxMDY4NDIzODE2LDE0NDg4MjQzNjAsLTE1
+MzkwMjM3NTddfQ==
 -->
