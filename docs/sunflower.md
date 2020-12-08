@@ -160,7 +160,7 @@ In the later-nineteenth century, many European painters embraced the genre of st
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," Kor!An (Корзун Андрей), Wikimedia Commons">
 
-![Wikimedia Commons, CC BY 2.0](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
+!["Strawberry Blonde" Sunflower, Dwight Sipler, Wikimedia Commons, CC BY 2.0](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
 
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
@@ -238,11 +238,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDUyMjAwMzAsMTc2MTk1ODQwNywyNz
-cwMjU3NTUsMTExOTM0Mjc0NSwtMTIzNDEyMjYxOCwtMTc0NzA2
-MDI4MywtMTg0NDA3OTEzMywtNzUwNjI1MTM0LC0xMzU4Mzk2OT
-Y4LDg1NjkzODI5MiwxMDY4NDIzODE2LDE0NDg4MjQzNjAsLTE1
-MzkwMjM3NTcsLTEwMzkyOTI3MCwtMTA0MzQxNjk2NSw4OTI1Nz
-U4Miw2MDg1Mzk2MzEsLTIxNDMwNzMzNDQsMjAxODY2NTg4OSwt
-MzAzNzc2MzIzXX0=
+eyJoaXN0b3J5IjpbLTQ5MjIyNDk1OCwxNzYxOTU4NDA3LDI3Nz
+AyNTc1NSwxMTE5MzQyNzQ1LC0xMjM0MTIyNjE4LC0xNzQ3MDYw
+MjgzLC0xODQ0MDc5MTMzLC03NTA2MjUxMzQsLTEzNTgzOTY5Nj
+gsODU2OTM4MjkyLDEwNjg0MjM4MTYsMTQ0ODgyNDM2MCwtMTUz
+OTAyMzc1NywtMTAzOTI5MjcwLC0xMDQzNDE2OTY1LDg5MjU3NT
+gyLDYwODUzOTYzMSwtMjE0MzA3MzM0NCwyMDE4NjY1ODg5LC0z
+MDM3NzYzMjNdfQ==
 -->
