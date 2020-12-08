@@ -24,7 +24,7 @@ How could this confusion last so long? First, a possible explanation for the shi
 	manifest="http://digital.ub.uni-duesseldorf.de/i3f/v20/4722055/manifest"
 	seq="100">
 
-A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in the early modern period continued to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. This narrative of ancient global trade is also unlikely, but still less imaginative than the one proposed by J. Innes Miller (1969), who argued for an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept has been rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
+A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in the early modern period continue`s to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. This narrative of ancient global trade is also unlikely, but still less imaginative than the one proposed by J. Innes Miller (1969), who argued for an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept has been rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
 
 ### Cinnamon as a tool of empire
 All such philological quibbling about ancient sources was of no concern to the early modern consumer, who simply craved for cinnamon. The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world, after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
@@ -140,11 +140,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTUzODI1NCwtMjAwNTEzNDEzOCwtMT
-MyODA4NTE3MywxNDgzNjE3NTQyLDQ0NzAwMzY3NywxODk2MzQz
-ODIyLC0xNDk3MjU5OTQsLTk4NjY1MjkyNCwtNDUyNjA2Mjk0LD
-QwNzUwNzc4NCwxMDY0MDc3ODY3LC04ODAzNDUxMTEsLTEzNzM5
-Mzg4NTAsMTE0NTg2ODEzNSwtMTMyODI1NTcyLC0zMTE5MjQ3NT
-EsLTE1NDkyODUwMDksLTE4NTI2NjQzODIsMzU2OTY4MzAzLC0x
-NDI4MTc2Njk5XX0=
+eyJoaXN0b3J5IjpbLTkxNjQyNjIzLC05NDE1MzgyNTQsLTIwMD
+UxMzQxMzgsLTEzMjgwODUxNzMsMTQ4MzYxNzU0Miw0NDcwMDM2
+NzcsMTg5NjM0MzgyMiwtMTQ5NzI1OTk0LC05ODY2NTI5MjQsLT
+Q1MjYwNjI5NCw0MDc1MDc3ODQsMTA2NDA3Nzg2NywtODgwMzQ1
+MTExLC0xMzczOTM4ODUwLDExNDU4NjgxMzUsLTEzMjgyNTU3Mi
+wtMzExOTI0NzUxLC0xNTQ5Mjg1MDA5LC0xODUyNjY0MzgyLDM1
+Njk2ODMwM119
 -->
