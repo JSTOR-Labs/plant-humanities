@@ -12,9 +12,9 @@
 
 In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestable clutter in the back of the throat. Thankfully, this [quite dagerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
 <param ve-image
-	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner reads in Latin 'Primus circumdedisti me' ('You first encircled me')."
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
-	region="-408,1,1403,1023">
+	title="test"
+	url="https://upload.wikimedia.org/wikipedia/commons/1/12/Ground_Cinnamon_Powder_and_a_Cinnamon_Stick.jpg"
+	region="">
 	
 ### Forgotten knowledge and fabricated history
 Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same as those found in the East Indies in the sixteenth century, to which those names were attached. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
@@ -147,11 +147,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTkxODU5OCwtNDg1MDQyNDA2LC0xNT
-c5MjAzMjA0LDE4Nzg4NjYxODgsLTg2MDEyMTI3MywxNjY1NTgy
-OTI3LC05NDE1MzgyNTQsLTIwMDUxMzQxMzgsLTEzMjgwODUxNz
-MsMTQ4MzYxNzU0Miw0NDcwMDM2NzcsMTg5NjM0MzgyMiwtMTQ5
-NzI1OTk0LC05ODY2NTI5MjQsLTQ1MjYwNjI5NCw0MDc1MDc3OD
-QsMTA2NDA3Nzg2NywtODgwMzQ1MTExLC0xMzczOTM4ODUwLDEx
-NDU4NjgxMzVdfQ==
+eyJoaXN0b3J5IjpbODcyNTg3NTA1LC00ODUwNDI0MDYsLTE1Nz
+kyMDMyMDQsMTg3ODg2NjE4OCwtODYwMTIxMjczLDE2NjU1ODI5
+MjcsLTk0MTUzODI1NCwtMjAwNTEzNDEzOCwtMTMyODA4NTE3My
+wxNDgzNjE3NTQyLDQ0NzAwMzY3NywxODk2MzQzODIyLC0xNDk3
+MjU5OTQsLTk4NjY1MjkyNCwtNDUyNjA2Mjk0LDQwNzUwNzc4NC
+wxMDY0MDc3ODY3LC04ODAzNDUxMTEsLTEzNzM5Mzg4NTAsMTE0
+NTg2ODEzNV19
 -->
