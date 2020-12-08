@@ -39,7 +39,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1414,152,1586,1031">
 
-Using cinnamon as a means to increase the In the sixteenth century, the first efforts of European powers to gain control of cinnamon production and trade were humble. The Portuguese settled on the coast of Sri Lanka, hoping they could enforce commercial arrangements with local rulers without getting involved in local politics. The king of Kotte, a kingdom in the southwest, was certainly receptive, but in part because he hoped to use Portuguese help to confront the Kingdom of Kollam in Kerela, to which Kotte had to pay tribute.[^ref8]
+Using cinnamon as a means to increase the prestige of an individual or a state was one thing. Gaining control over the production of the spice was quite   In the sixteenth century, the first efforts of European powers to gain control of cinnamon production and trade were humble. The Portuguese settled on the coast of Sri Lanka, hoping they could enforce commercial arrangements with local rulers without getting involved in local politics. The king of Kotte, a kingdom in the southwest, was certainly receptive, but in part because he hoped to use Portuguese help to confront the Kingdom of Kollam in Kerela, to which Kotte had to pay tribute.[^ref8]
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -140,7 +140,7 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDkwMTIzNywtOTQxNTM4MjU0LC0yMD
+eyJoaXN0b3J5IjpbMTI5MzI1MTM5MCwtOTQxNTM4MjU0LC0yMD
 A1MTM0MTM4LC0xMzI4MDg1MTczLDE0ODM2MTc1NDIsNDQ3MDAz
 Njc3LDE4OTYzNDM4MjIsLTE0OTcyNTk5NCwtOTg2NjUyOTI0LC
 00NTI2MDYyOTQsNDA3NTA3Nzg0LDEwNjQwNzc4NjcsLTg4MDM0
