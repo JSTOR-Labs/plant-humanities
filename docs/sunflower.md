@@ -86,7 +86,7 @@ The migration of sunflower iconography from one source to another is evidenced i
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
 <param ve-entity eid="Q14714" title="achene" aliases="achenes">
 Although European herbals such as Hernández’s perpetuated cultural myths that the domesticated sunflower was present in Mexico prior to colonization or originated in Peru, botanists have since debunked these ideas by using distribution maps and fossilized remains to study the plant’s origin and range.[^ref9] The earliest known cultivated sunflower remains—charred seeds, more accurately termed “achenes”—tell us that humans used _Helianthus annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
-<param ve-map prefer-geojson center="Q495448" zoom="7.5" fill="#cc6600" stroke="#990000" stroke-width="5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
+<param ve-map prefer-geojson center="Q495448" zoom="7.5" fill="#cc9933" stroke="#cc6600" stroke-width="4" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
 <param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
@@ -98,7 +98,7 @@ Although European herbals such as Hernández’s perpetuated cultural myths that
 <param ve-entity eid="Q222046" title="genomics">
 <param ve-entity eid="Q839954" title="archaeological site">
 Yet scientists still disagree about when humans used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether such plants were cultivated independently there.[^ref12] An ongoing source of debate is the origin of a charred seed that was recovered at San Andrés archaeological site in Tabasco, Mexico. Although some scientists identified the seed as coming from cultivated _Helianthus annuus_, others argued that it most likely came from a bottle gourd.[^ref13] Expanding on that archeological research, genomic studies of modern domesticated and wild sunflowers have linked the plants to a single common ancestor, which was cultivated at an independent domestication center, along with pepo squash, marsh elder, and chenopod, in <span data-click-map-flyto="37.347878, -89.590292">eastern North America</span>.[^ref14] For these reasons, botanists have argued that domesticated _H. annuus_ was brought to Mexico via North American trade routes, possibly by Spanish colonizers.[^ref15]
-<param ve-map prefer-geojson center="Q80914" fill="#cc9933" stroke="#cc6600" stroke-width="5" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
+<param ve-map prefer-geojson center="Q80914" fill="#cc9933" stroke="#cc6600" stroke-width="4" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
 
 ### “I’ll Follow the Sun”: Heliotropism as Metaphor and Myth
 
@@ -241,11 +241,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTcwMDExMTgsLTE5MjI4NjIyMTYsLT
-EyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2ODM0LC00OTIyMjQ5
-NTgsMTc2MTk1ODQwNywyNzcwMjU3NTUsMTExOTM0Mjc0NSwtMT
-IzNDEyMjYxOCwtMTc0NzA2MDI4MywtMTg0NDA3OTEzMywtNzUw
-NjI1MTM0LC0xMzU4Mzk2OTY4LDg1NjkzODI5MiwxMDY4NDIzOD
-E2LDE0NDg4MjQzNjAsLTE1MzkwMjM3NTcsLTEwMzkyOTI3MCwt
-MTA0MzQxNjk2NV19
+eyJoaXN0b3J5IjpbODY5MjE0NjkyLC0xOTIyODYyMjE2LC0xMj
+M5NzgyNDgsNTEzMTE2ODM0LDUxMzExNjgzNCwtNDkyMjI0OTU4
+LDE3NjE5NTg0MDcsMjc3MDI1NzU1LDExMTkzNDI3NDUsLTEyMz
+QxMjI2MTgsLTE3NDcwNjAyODMsLTE4NDQwNzkxMzMsLTc1MDYy
+NTEzNCwtMTM1ODM5Njk2OCw4NTY5MzgyOTIsMTA2ODQyMzgxNi
+wxNDQ4ODI0MzYwLC0xNTM5MDIzNzU3LC0xMDM5MjkyNzAsLTEw
+NDM0MTY5NjVdfQ==
 -->
