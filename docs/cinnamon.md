@@ -78,6 +78,7 @@ Global availability
 	Griffin (C.L.) 2018
 
 British efforts to maintain the cinnamon monopoly, and failure
+	Samaraweera (V.) 1971
 
 Efforts of transplantation and acclimatization
 	- Cinnamon in Rio de Janeiro botanical garden (google die even)
@@ -99,6 +100,7 @@ Cinnamon in the Spanish (Atlantic) world
 	Freedberg (D.) 2002 (zou bruggetje kunnen zijn vanuit Orta)
 	- Cinnamon production of the Philippines
 	Mallari (F.) 1974
+	Skowronek (R.K.) 2016
 	Bleichmar (D.) 2012 (pp.123-126)
 	see also http://www.theplantlist.org/tpl1.1/record/kew-2721453, because # _Cinnamomum_  _mindanaense_ is a synonym of _Cinnamomum_  _burmanni_
 
@@ -150,11 +152,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNDY1OTM3LC0xNDM3NTE2MjMxLDgyMz
-AyMzcxLDg3MjU4NzUwNSwtNDg1MDQyNDA2LC0xNTc5MjAzMjA0
-LDE4Nzg4NjYxODgsLTg2MDEyMTI3MywxNjY1NTgyOTI3LC05ND
-E1MzgyNTQsLTIwMDUxMzQxMzgsLTEzMjgwODUxNzMsMTQ4MzYx
-NzU0Miw0NDcwMDM2NzcsMTg5NjM0MzgyMiwtMTQ5NzI1OTk0LC
-05ODY2NTI5MjQsLTQ1MjYwNjI5NCw0MDc1MDc3ODQsMTA2NDA3
-Nzg2N119
+eyJoaXN0b3J5IjpbNDk4MDI3MjUsNDcxNDY1OTM3LC0xNDM3NT
+E2MjMxLDgyMzAyMzcxLDg3MjU4NzUwNSwtNDg1MDQyNDA2LC0x
+NTc5MjAzMjA0LDE4Nzg4NjYxODgsLTg2MDEyMTI3MywxNjY1NT
+gyOTI3LC05NDE1MzgyNTQsLTIwMDUxMzQxMzgsLTEzMjgwODUx
+NzMsMTQ4MzYxNzU0Miw0NDcwMDM2NzcsMTg5NjM0MzgyMiwtMT
+Q5NzI1OTk0LC05ODY2NTI5MjQsLTQ1MjYwNjI5NCw0MDc1MDc3
+ODRdfQ==
 -->
