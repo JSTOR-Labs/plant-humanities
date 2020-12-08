@@ -86,7 +86,7 @@ The migration of sunflower iconography from one source to another is evidenced i
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
 <param ve-entity eid="Q14714" title="achene" aliases="achenes">
 Although European herbals such as Hernández’s perpetuated cultural myths that the domesticated sunflower was present in Mexico prior to colonization or originated in Peru, botanists have since debunked these ideas by using distribution maps and fossilized remains to study the plant’s origin and range.[^ref9] The earliest known cultivated sunflower remains—charred seeds, more accurately termed “achenes”—tell us that humans used _Helianthus annuus_ at [Hayes shelter](http://opencontext.org/subjects/9cdf1026-42cd-4903-820c-e7415ede8900) in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref10] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref11]
-<param ve-map prefer-geojson center="Q495448" zoom="7.5" title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
+<param ve-map prefer-geojson center="Q495448" zoom="7.5" #660099 title="Hayes Shelter prehistoric site, Marshall County, Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
 <param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
@@ -241,11 +241,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzMTE2ODM0LDUxMzExNjgzNCwtNDkyMj
-I0OTU4LDE3NjE5NTg0MDcsMjc3MDI1NzU1LDExMTkzNDI3NDUs
-LTEyMzQxMjI2MTgsLTE3NDcwNjAyODMsLTE4NDQwNzkxMzMsLT
-c1MDYyNTEzNCwtMTM1ODM5Njk2OCw4NTY5MzgyOTIsMTA2ODQy
-MzgxNiwxNDQ4ODI0MzYwLC0xNTM5MDIzNzU3LC0xMDM5MjkyNz
-AsLTEwNDM0MTY5NjUsODkyNTc1ODIsNjA4NTM5NjMxLC0yMTQz
-MDczMzQ0XX0=
+eyJoaXN0b3J5IjpbLTEzMjAxNDQ2OTksNTEzMTE2ODM0LDUxMz
+ExNjgzNCwtNDkyMjI0OTU4LDE3NjE5NTg0MDcsMjc3MDI1NzU1
+LDExMTkzNDI3NDUsLTEyMzQxMjI2MTgsLTE3NDcwNjAyODMsLT
+E4NDQwNzkxMzMsLTc1MDYyNTEzNCwtMTM1ODM5Njk2OCw4NTY5
+MzgyOTIsMTA2ODQyMzgxNiwxNDQ4ODI0MzYwLC0xNTM5MDIzNz
+U3LC0xMDM5MjkyNzAsLTEwNDM0MTY5NjUsODkyNTc1ODIsNjA4
+NTM5NjMxXX0=
 -->
