@@ -135,7 +135,7 @@ There is a longstanding cultural assumption that sunflowers are heliotropic thro
 <param ve-entity eid="Q2602751" title="dorsal">
 <param ve-entity eid="Q3429717" title="ventral">
 <param ve-entity eid="Q729496" title="bract" aliases="bracts">
-In the eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing cultivated sunflowers that allowed them to communicate scientific knowledge about the plant. This hand-colored print _Anatomy of the Sunflower_, designed by [Peter Henderson](http://vocab.getty.edu/page/ulan/500042021), exemplifies a mode of artistic engagement with plants tailored to the needs of botanists. Henderson’s image shows a partial view of two mature specimens—facing opposite directions—to communicate valuable information about their dorsal and ventral anatomical structures. Yet Henderson takes some aesthetic liberties to imbue the flower heads with a sense of movement and vitality, expanding the appeal of the illustration beyond scientists to plant and art collectors as well. At the center of <span data-click-image-zoomto="982,2706,2213,1795">the left flower,</span> a series of green scallop-like shapes describe how bracts grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. <span data-click-image-zoomto="3200,1997,1038,897">A close look at the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets.
+In the eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing cultivated sunflowers that allowed them to communicate scientific knowledge about the plant. This hand-colored print _Anatomy of the Sunflower_, designed by [Peter Henderson](http://vocab.getty.edu/page/ulan/500042021), exemplifies a mode of artistic engagement with plants tailored to the needs of botanists. Henderson’s image shows a partial view of two mature specimens—facing opposite directions—to communicate valuable information about their dorsal and ventral anatomical structures. Yet Henderson takes some aesthetic liberties to imbue the flower heads with a sense of movement and vitality, expanding the appeal of the illustration beyond scientists to plant and art collectors as well. At the center of <span data-click-image-zoomto="982,2706,2213,1795">the left flower,</span> a series of green scallop-like shapes describe how bracts grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. A close look at <span data-click-image-zoomto="3200,1997,1038,897">the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
 <param ve-entity eid="Q14847254" title="Compositae"> 
@@ -149,7 +149,7 @@ Henderson's botanical illustration highlights a trait of sunflowers that we may 
 <param ve-entity eid="Q103129" title="stamen" aliases="stamen(s)"> 
 <param ve-entity eid="Q62779" title="pistil" aliases="pistil(s)">
 <param ve-entity eid="Q7211" title="taxonomy">
-Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiveness to the plant world while also articulating Linnaeus’s contributions to botany as they relate to _Helianthus annuus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the <span data-click-image-zoomto="2992,4439,1952,1782">lower right corner of _Anatomy of the Sunflower_,</span> where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book _[New illustration of the sexual system of Carolus von Linnaeus](http://id.lib.harvard.edu/alma/990075420710203941/catalog)_.
+Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiveness to the plant world while also articulating Linnaeus’s contributions to botany as they relate to _Helianthus annuus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the <span data-click-image-zoomto="2992,4439,1952,1782">lower right corner</span> of _Anatomy of the Sunflower_,where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book _[New illustration of the sexual system of Carolus von Linnaeus](http://id.lib.harvard.edu/alma/990075420710203941/catalog)_.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="9">
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="11">
@@ -241,11 +241,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5MjE0NjkyLC0xOTIyODYyMjE2LC0xMj
-M5NzgyNDgsNTEzMTE2ODM0LDUxMzExNjgzNCwtNDkyMjI0OTU4
-LDE3NjE5NTg0MDcsMjc3MDI1NzU1LDExMTkzNDI3NDUsLTEyMz
-QxMjI2MTgsLTE3NDcwNjAyODMsLTE4NDQwNzkxMzMsLTc1MDYy
-NTEzNCwtMTM1ODM5Njk2OCw4NTY5MzgyOTIsMTA2ODQyMzgxNi
-wxNDQ4ODI0MzYwLC0xNTM5MDIzNzU3LC0xMDM5MjkyNzAsLTEw
-NDM0MTY5NjVdfQ==
+eyJoaXN0b3J5IjpbLTE0Njk1NzM1MTIsODY5MjE0NjkyLC0xOT
+IyODYyMjE2LC0xMjM5NzgyNDgsNTEzMTE2ODM0LDUxMzExNjgz
+NCwtNDkyMjI0OTU4LDE3NjE5NTg0MDcsMjc3MDI1NzU1LDExMT
+kzNDI3NDUsLTEyMzQxMjI2MTgsLTE3NDcwNjAyODMsLTE4NDQw
+NzkxMzMsLTc1MDYyNTEzNCwtMTM1ODM5Njk2OCw4NTY5MzgyOT
+IsMTA2ODQyMzgxNiwxNDQ4ODI0MzYwLC0xNTM5MDIzNzU3LC0x
+MDM5MjkyNzBdfQ==
 -->
