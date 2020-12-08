@@ -27,7 +27,7 @@ How could this confusion last so long? First, a possible explanation for the shi
 A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in the early modern period continue`s to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. This narrative of ancient global trade is also unlikely, but still less imaginative than the one proposed by J. Innes Miller (1969), who argued for an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept has been rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
 
 ### Cinnamon as a tool of empire
-All such philological quibbling about ancient sources was of no concern to the early modern consumer, who simply craved for cinnamon. The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world, after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
+All such philological quibbling about ancient sources was of no concern to the early modern consumer, who simply craved for cinnamon. The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
 <param ve-image
 	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner reads in Latin "Primus circumdedisti me" ("You first encircled me").
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
@@ -142,11 +142,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODg2NjE4OCwtODYwMTIxMjczLDE2Nj
-U1ODI5MjcsLTk0MTUzODI1NCwtMjAwNTEzNDEzOCwtMTMyODA4
-NTE3MywxNDgzNjE3NTQyLDQ0NzAwMzY3NywxODk2MzQzODIyLC
-0xNDk3MjU5OTQsLTk4NjY1MjkyNCwtNDUyNjA2Mjk0LDQwNzUw
-Nzc4NCwxMDY0MDc3ODY3LC04ODAzNDUxMTEsLTEzNzM5Mzg4NT
-AsMTE0NTg2ODEzNSwtMTMyODI1NTcyLC0zMTE5MjQ3NTEsLTE1
-NDkyODUwMDldfQ==
+eyJoaXN0b3J5IjpbLTE1NzkyMDMyMDQsMTg3ODg2NjE4OCwtOD
+YwMTIxMjczLDE2NjU1ODI5MjcsLTk0MTUzODI1NCwtMjAwNTEz
+NDEzOCwtMTMyODA4NTE3MywxNDgzNjE3NTQyLDQ0NzAwMzY3Ny
+wxODk2MzQzODIyLC0xNDk3MjU5OTQsLTk4NjY1MjkyNCwtNDUy
+NjA2Mjk0LDQwNzUwNzc4NCwxMDY0MDc3ODY3LC04ODAzNDUxMT
+EsLTEzNzM5Mzg4NTAsMTE0NTg2ODEzNSwtMTMyODI1NTcyLC0z
+MTE5MjQ3NTFdfQ==
 -->
