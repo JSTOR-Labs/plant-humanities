@@ -9,6 +9,12 @@
 	   num-specimens="0"
 	   num-primary-sources="6"
 	   author="Ashley Buchanan, PhD">
+
+<param ve-component
+       name="tabulator"
+       selectors="tag:tabulator"
+       icon="fa-table"
+       src="/components/Tabulator.vue">
      
 ### Herbs and Women’s Health
 Twenty-first century women generally assume that we enjoy greater agency over health and fertility than women of the pre-modern world, thanks to scientific advancements in women’s health as well as the availability and effectiveness of <span eid="Q122224">contraceptives</span>. We accept that without modern obstetrics, gynecology, and hormonal contraceptives, our foremothers were simply victims of biology—if they survived the perils of their first pregnancy and childbirth, they spent much of their lives pregnant. While it is true that for much of history women did not have reproductive knowledge derived from technological advancements and modern gynecology, it is incorrect to assume that they had no reproductive knowledge or choice. In fact, for much of history, women’s agency over their health and fertility was due in large part to their knowledge of medicinal herbs; herbs like <span eid="Q1227336">dittany</span>. 
@@ -101,10 +107,7 @@ As we can see, by the early modern period, dittany had been prescribed as an her
 
 As many historians of science and medicine have concluded, the use of herbs to “draw the menses down” or “provoke menstruation” was rather well-known and commonplace in pre-modern Europe.[^5] For example, Durante’s popular herbal, listed [142 plants](https://www.biodiversitylibrary.org/page/49829022) capable of provoking menstruation, including three types of dittany. Mattioli’s influential herbal listed [125](https://www.biodiversitylibrary.org/page/51721123#page/127/mode/1up) and <span eid="Q1333338">Gerard’s</span> recorded [25](https://www.biodiversitylibrary.org/page/57082515) plants or plant-based remedies capable of provoking menstruation. Historians postulate that women of lower social classes would have known of the medicinal uses of herbs through the oral tradition that paralleled the written sources and was subsequently largely lost with the professionalization of medicine and the increasing religious and legal restrictions on women’s reproduction.
 <param eid="Q457191">
-<param ve-image region="-125,3,2500,1785"
-       title="Emmenagogic Herbs Found in At Least Two of the Three Herbals by Mattioli (1568), Durante (1585), and Gerard (1597)"
-       attribution="Created by Author"
-       url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Plants%20that%20Provoke%20Menstruation.jpg">
+<param ve-tabulator url="data/Emmenagogic_Herbs.tsv">
 
 The ubiquity of emmenagogic plants in premodern herbals has led some scholars to question the explicit usage of these herbs. In the early 1990s historian John Riddle posited that herbs like dittany were actually used to control fertility and prevent unwanted pregnancy.[^6] As is the case today, delayed or missed menstruation in the early modern world could have been caused by any number of health and environmental factors. Pregnancy, however, was and remains a leading cause. Therefore, argued Riddle, emmenagogues were not only used to restore women’s health but were also employed as a means to prevent or terminate unwanted pregnancies. For example in his entry on <span eid="Q2484930">stinking gladdon</span>, Gerard stated, “[It profiteth being used in a pessarie, to provoke the termes, and to cause abortion.](https://www.biodiversitylibrary.org/page/57081035)”
 <param ve-image
