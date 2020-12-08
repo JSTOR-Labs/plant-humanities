@@ -15,7 +15,7 @@
 _Helianthus annuus_ (common or annual sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans first domesticated in North America thousands of years ago and the only one that is still widely used today.[^ref1] Indeed, the domesticated sunflower is primarily grown as an oil seed crop, having been introduced from its native range in North America nearly worldwide. The cultivated sunflower is also a popular ornamental, renowned for its yellow flower head, large disk, heart-shaped or ovate leaves, unbranched stem, and imposing height. Remarkably, the plant can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported. 
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Helianthus_annuus_3.jpg" title="Wild _Helianthus annuus_ is an annual plant with a multi-branched stem and many small flower heads, Kyle Canyon Road, Spring Mountains, southern Nevada, Stan Shebs, Wikimedia Commons, CC BY-SA 3.0">
-<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower%20output%20map_wikimedia.jpeg" title="Map of sunflower production (average percentage of land used for its production times average yield in each grid cell) in the year 2000, University of Minnesota Institute on the Environment, data (doi.org/10.1029/2007GB002947), AndrewMT, Wikimedia Commons, CC BY-SA 3.0">
+<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/3/3b/SunflowerYield.png" title="Map of sunflower production (average percentage of land used for its production times average yield in each grid cell) in the year 2000, University of Minnesota Institute on the Environment, data (doi.org/10.1029/2007GB002947), AndrewMT, Wikimedia Commons, CC BY-SA 3.0">
 
 <param ve-entity eid="Q995745" title="artificial selection" aliases="artificially selected">
 <param ve-entity eid="Q3796486" title="botanical illustration">
@@ -241,11 +241,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njk1NzM1MTIsODY5MjE0NjkyLC0xOT
-IyODYyMjE2LC0xMjM5NzgyNDgsNTEzMTE2ODM0LDUxMzExNjgz
-NCwtNDkyMjI0OTU4LDE3NjE5NTg0MDcsMjc3MDI1NzU1LDExMT
-kzNDI3NDUsLTEyMzQxMjI2MTgsLTE3NDcwNjAyODMsLTE4NDQw
-NzkxMzMsLTc1MDYyNTEzNCwtMTM1ODM5Njk2OCw4NTY5MzgyOT
-IsMTA2ODQyMzgxNiwxNDQ4ODI0MzYwLC0xNTM5MDIzNzU3LC0x
-MDM5MjkyNzBdfQ==
+eyJoaXN0b3J5IjpbLTkyODU5OTU5NCw4NjkyMTQ2OTIsLTE5Mj
+I4NjIyMTYsLTEyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2ODM0
+LC00OTIyMjQ5NTgsMTc2MTk1ODQwNywyNzcwMjU3NTUsMTExOT
+M0Mjc0NSwtMTIzNDEyMjYxOCwtMTc0NzA2MDI4MywtMTg0NDA3
+OTEzMywtNzUwNjI1MTM0LC0xMzU4Mzk2OTY4LDg1NjkzODI5Mi
+wxMDY4NDIzODE2LDE0NDg4MjQzNjAsLTE1MzkwMjM3NTcsLTEw
+MzkyOTI3MF19
 -->
