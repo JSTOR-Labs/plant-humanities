@@ -1,7 +1,6 @@
 <param ve-config
 	title="Cinnamon: two thousand years of botanical disambiguation"
 	banner="https://upload.wikimedia.org/wikipedia/commons/1/12/Ground_Cinnamon_Powder_and_a_Cinnamon_Stick.jpg"
-	region="1033,952,2287,1715"
 	layout="vtl"
 	num-maps="0"
 	num-images="0"
@@ -148,11 +147,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzYxNjgwMjYsLTQ4NTA0MjQwNiwtMT
-U3OTIwMzIwNCwxODc4ODY2MTg4LC04NjAxMjEyNzMsMTY2NTU4
-MjkyNywtOTQxNTM4MjU0LC0yMDA1MTM0MTM4LC0xMzI4MDg1MT
-czLDE0ODM2MTc1NDIsNDQ3MDAzNjc3LDE4OTYzNDM4MjIsLTE0
-OTcyNTk5NCwtOTg2NjUyOTI0LC00NTI2MDYyOTQsNDA3NTA3Nz
-g0LDEwNjQwNzc4NjcsLTg4MDM0NTExMSwtMTM3MzkzODg1MCwx
-MTQ1ODY4MTM1XX0=
+eyJoaXN0b3J5IjpbODcyNTg3NTA1LC00ODUwNDI0MDYsLTE1Nz
+kyMDMyMDQsMTg3ODg2NjE4OCwtODYwMTIxMjczLDE2NjU1ODI5
+MjcsLTk0MTUzODI1NCwtMjAwNTEzNDEzOCwtMTMyODA4NTE3My
+wxNDgzNjE3NTQyLDQ0NzAwMzY3NywxODk2MzQzODIyLC0xNDk3
+MjU5OTQsLTk4NjY1MjkyNCwtNDUyNjA2Mjk0LDQwNzUwNzc4NC
+wxMDY0MDc3ODY3LC04ODAzNDUxMTEsLTEzNzM5Mzg4NTAsMTE0
+NTg2ODEzNV19
 -->
