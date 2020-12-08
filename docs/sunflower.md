@@ -98,7 +98,7 @@ Although European herbals such as Hernández’s perpetuated cultural myths that
 <param ve-entity eid="Q222046" title="genomics">
 <param ve-entity eid="Q839954" title="archaeological site">
 Yet scientists still disagree about when humans used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether such plants were cultivated independently there.[^ref12] An ongoing source of debate is the origin of a charred seed that was recovered at San Andrés archaeological site in Tabasco, Mexico. Although some scientists identified the seed as coming from cultivated _Helianthus annuus_, others argued that it most likely came from a bottle gourd.[^ref13] Expanding on that archeological research, genomic studies of modern domesticated and wild sunflowers have linked the plants to a single common ancestor, which was cultivated at an independent domestication center, along with pepo squash, marsh elder, and chenopod, in <span data-click-map-flyto="37.347878, -89.590292">eastern North America</span>.[^ref14] For these reasons, botanists have argued that domesticated _H. annuus_ was brought to Mexico via North American trade routes, possibly by Spanish colonizers.[^ref15]
-<param ve-map prefer-geojson center="Q80914" fill="#cc6600" stroke="#cc3300" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
+<param ve-map prefer-geojson center="Q80914" fill="#cc6600" stroke="#990000" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
 
 ### “I’ll Follow the Sun”: Heliotropism as Metaphor and Myth
 
@@ -241,11 +241,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTQzNjI5MCwtMTkyMjg2MjIxNiwtMT
-IzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4MzQsLTQ5MjIyNDk1
-OCwxNzYxOTU4NDA3LDI3NzAyNTc1NSwxMTE5MzQyNzQ1LC0xMj
-M0MTIyNjE4LC0xNzQ3MDYwMjgzLC0xODQ0MDc5MTMzLC03NTA2
-MjUxMzQsLTEzNTgzOTY5NjgsODU2OTM4MjkyLDEwNjg0MjM4MT
-YsMTQ0ODgyNDM2MCwtMTUzOTAyMzc1NywtMTAzOTI5MjcwLC0x
-MDQzNDE2OTY1XX0=
+eyJoaXN0b3J5IjpbLTEyMTkwMDgzNTAsLTE5MjI4NjIyMTYsLT
+EyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2ODM0LC00OTIyMjQ5
+NTgsMTc2MTk1ODQwNywyNzcwMjU3NTUsMTExOTM0Mjc0NSwtMT
+IzNDEyMjYxOCwtMTc0NzA2MDI4MywtMTg0NDA3OTEzMywtNzUw
+NjI1MTM0LC0xMzU4Mzk2OTY4LDg1NjkzODI5MiwxMDY4NDIzOD
+E2LDE0NDg4MjQzNjAsLTE1MzkwMjM3NTcsLTEwMzkyOTI3MCwt
+MTA0MzQxNjk2NV19
 -->
