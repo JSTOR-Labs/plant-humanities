@@ -205,7 +205,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref8]: Heiser, Jr., “The Domesticated Sunflower in Mexico?,” 449.
 
-[^ref9]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
+[^ref9]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” 57-74.
 
 [^ref10]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
 
@@ -238,11 +238,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQxMjI2MTgsLTE3NDcwNjAyODMsLT
-E4NDQwNzkxMzMsLTc1MDYyNTEzNCwtMTM1ODM5Njk2OCw4NTY5
-MzgyOTIsMTA2ODQyMzgxNiwxNDQ4ODI0MzYwLC0xNTM5MDIzNz
-U3LC0xMDM5MjkyNzAsLTEwNDM0MTY5NjUsODkyNTc1ODIsNjA4
-NTM5NjMxLC0yMTQzMDczMzQ0LDIwMTg2NjU4ODksLTMwMzc3Nj
-MyMywtMTg3MzkxODkyNCw1NzE0OTkyMTIsLTk2ODIxNDE5MCwt
-NjM0OTMzNzc3XX0=
+eyJoaXN0b3J5IjpbNDkyMzY1NzQ5LC0xMjM0MTIyNjE4LC0xNz
+Q3MDYwMjgzLC0xODQ0MDc5MTMzLC03NTA2MjUxMzQsLTEzNTgz
+OTY5NjgsODU2OTM4MjkyLDEwNjg0MjM4MTYsMTQ0ODgyNDM2MC
+wtMTUzOTAyMzc1NywtMTAzOTI5MjcwLC0xMDQzNDE2OTY1LDg5
+MjU3NTgyLDYwODUzOTYzMSwtMjE0MzA3MzM0NCwyMDE4NjY1OD
+g5LC0zMDM3NzYzMjMsLTE4NzM5MTg5MjQsNTcxNDk5MjEyLC05
+NjgyMTQxOTBdfQ==
 -->
