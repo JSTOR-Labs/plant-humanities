@@ -201,7 +201,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref6]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 
-[^ref7]: [Add commentary about history of manuscript and its production.] Ray Desmond, “The Discovery of the New World,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 24-27.
+[^ref7]: Ray Desmond, “The Discovery of the New World,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 24-27.
 
 [^ref8]: Heiser, Jr., “The Domesticated Sunflower in Mexico?,” 449.
 
@@ -238,11 +238,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyMzY1NzQ5LC0xMjM0MTIyNjE4LC0xNz
-Q3MDYwMjgzLC0xODQ0MDc5MTMzLC03NTA2MjUxMzQsLTEzNTgz
-OTY5NjgsODU2OTM4MjkyLDEwNjg0MjM4MTYsMTQ0ODgyNDM2MC
-wtMTUzOTAyMzc1NywtMTAzOTI5MjcwLC0xMDQzNDE2OTY1LDg5
-MjU3NTgyLDYwODUzOTYzMSwtMjE0MzA3MzM0NCwyMDE4NjY1OD
-g5LC0zMDM3NzYzMjMsLTE4NzM5MTg5MjQsNTcxNDk5MjEyLC05
-NjgyMTQxOTBdfQ==
+eyJoaXN0b3J5IjpbMTExOTM0Mjc0NSwtMTIzNDEyMjYxOCwtMT
+c0NzA2MDI4MywtMTg0NDA3OTEzMywtNzUwNjI1MTM0LC0xMzU4
+Mzk2OTY4LDg1NjkzODI5MiwxMDY4NDIzODE2LDE0NDg4MjQzNj
+AsLTE1MzkwMjM3NTcsLTEwMzkyOTI3MCwtMTA0MzQxNjk2NSw4
+OTI1NzU4Miw2MDg1Mzk2MzEsLTIxNDMwNzMzNDQsMjAxODY2NT
+g4OSwtMzAzNzc2MzIzLC0xODczOTE4OTI0LDU3MTQ5OTIxMiwt
+OTY4MjE0MTkwXX0=
 -->
