@@ -46,7 +46,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1414,152,1586,1031">
 
-Using cinnamon as a means to increase the prestige of an individual or a state was one thing. Managing the production and trade of the spice was quite another. In the sixteenth century, the Portuguese made humble attempts to create a monopoly on the cinnamon trade, They soon realized that this was impossible without getting involved in local politics on the island. Local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals.[^ref8]
+Using cinnamon as a means to increase the prestige of an individual or a state is one thing. Managing the production and trade of the spice is quite another. In the sixteenth century, the Portuguese made humble attempts to create a monopoly on the cinnamon trade, They soon realized that this was impossible without getting involved in local politics on the island. Local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals.[^ref8]
 <param ve-map
 	title=""
 	center="Q854">
@@ -150,11 +150,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzc1MTYyMzEsODIzMDIzNzEsODcyNT
-g3NTA1LC00ODUwNDI0MDYsLTE1NzkyMDMyMDQsMTg3ODg2NjE4
-OCwtODYwMTIxMjczLDE2NjU1ODI5MjcsLTk0MTUzODI1NCwtMj
-AwNTEzNDEzOCwtMTMyODA4NTE3MywxNDgzNjE3NTQyLDQ0NzAw
-MzY3NywxODk2MzQzODIyLC0xNDk3MjU5OTQsLTk4NjY1MjkyNC
-wtNDUyNjA2Mjk0LDQwNzUwNzc4NCwxMDY0MDc3ODY3LC04ODAz
-NDUxMTFdfQ==
+eyJoaXN0b3J5IjpbNDcxNDY1OTM3LC0xNDM3NTE2MjMxLDgyMz
+AyMzcxLDg3MjU4NzUwNSwtNDg1MDQyNDA2LC0xNTc5MjAzMjA0
+LDE4Nzg4NjYxODgsLTg2MDEyMTI3MywxNjY1NTgyOTI3LC05ND
+E1MzgyNTQsLTIwMDUxMzQxMzgsLTEzMjgwODUxNzMsMTQ4MzYx
+NzU0Miw0NDcwMDM2NzcsMTg5NjM0MzgyMiwtMTQ5NzI1OTk0LC
+05ODY2NTI5MjQsLTQ1MjYwNjI5NCw0MDc1MDc3ODQsMTA2NDA3
+Nzg2N119
 -->
