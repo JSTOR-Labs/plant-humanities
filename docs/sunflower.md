@@ -160,14 +160,14 @@ In the later-nineteenth century, many European painters embraced the genre of st
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," Kor!An (Корзун Андрей), Wikimedia Commons">
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
+
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
 <param ve-entity eid="Q181916" title="herbarium">
 <param ve-entity eid="Q4886" title="cultivar" aliases="cultivars">
-Contrary to what is most often portrayed in visual and verbal descriptions of sunflowers, the palette of _Helianthus annuus_ is not limited to yellow. Rather, there are many _H. annuus_ cultivars
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/319px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg){: .right}
-with flowers that can range from gold to orange to red to dark purple and even an unexpected shade of pink. There are also more than fifty accepted species grouped under _Helianthus_ and they vary in terms of size and the number and shape of their leaves and flower heads. The specimens of _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke) on these herbarium sheets also dispel the false notion that all sunflowers possess a single large blossom per stem. That trait, as we now know, is unique to the domesticated sunflower and due to human selection.
+Contrary to what is most often portrayed in visual and verbal descriptions of sunflowers, the palette of _Helianthus annuus_ is not limited to yellow. Rather, there are many _H. annuus_ cultivars with flowers that can range from gold to orange to red to dark purple and even an unexpected shade of pink. There are also more than fifty accepted species grouped under _Helianthus_ and they vary in terms of size and the number and shape of their leaves and flower heads. The specimens of _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke) on these herbarium sheets also dispel the false notion that all sunflowers possess a single large blossom per stem. That trait, as we now know, is unique to the domesticated sunflower and due to human selection.
 <param ve-plant-specimen eid="Q171497" max="1">
 <param ve-plant-specimen eid="Q12212017" max="1">
 <param ve-plant-specimen eid="Q146190" max="1">
@@ -238,11 +238,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3MDI1NzU1LDExMTkzNDI3NDUsLTEyMz
-QxMjI2MTgsLTE3NDcwNjAyODMsLTE4NDQwNzkxMzMsLTc1MDYy
-NTEzNCwtMTM1ODM5Njk2OCw4NTY5MzgyOTIsMTA2ODQyMzgxNi
-wxNDQ4ODI0MzYwLC0xNTM5MDIzNzU3LC0xMDM5MjkyNzAsLTEw
-NDM0MTY5NjUsODkyNTc1ODIsNjA4NTM5NjMxLC0yMTQzMDczMz
-Q0LDIwMTg2NjU4ODksLTMwMzc3NjMyMywtMTg3MzkxODkyNCw1
-NzE0OTkyMTJdfQ==
+eyJoaXN0b3J5IjpbMTc2MTk1ODQwNywyNzcwMjU3NTUsMTExOT
+M0Mjc0NSwtMTIzNDEyMjYxOCwtMTc0NzA2MDI4MywtMTg0NDA3
+OTEzMywtNzUwNjI1MTM0LC0xMzU4Mzk2OTY4LDg1NjkzODI5Mi
+wxMDY4NDIzODE2LDE0NDg4MjQzNjAsLTE1MzkwMjM3NTcsLTEw
+MzkyOTI3MCwtMTA0MzQxNjk2NSw4OTI1NzU4Miw2MDg1Mzk2Mz
+EsLTIxNDMwNzMzNDQsMjAxODY2NTg4OSwtMzAzNzc2MzIzLC0x
+ODczOTE4OTI0XX0=
 -->
