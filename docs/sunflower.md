@@ -118,7 +118,7 @@ By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_
 <param ve-entity eid="Q1229071" title="motif">
 <param ve-entity eid="Q758238" title="attribute">
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
-Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant's heliotropic phase of development recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun-god Helios.[^ref17] According to the story, Clytie competed unsuccessfully for Helios's affections. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, wholly consumed with gazing upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, so named for its flowers' movement toward the sun's rays. Heliotropism was associated with _Heliotropium_ in ancient Rome and later with _Calendula_ or the marigold in [medieval Europe](https://www.metmuseum.org/blogs/in-season/2014/climbing-in-the-garden). Yet, as this print shows, European artists of the late-sixteenth through the eighteenth centuries portrayed Clytie’s attribute as a sunflower.[^ref18] That floral inventiveness demonstrates the fashionability of the sunflower as a motif, and the degree to which it was entangled not only with beliefs about the flower's formal resemblance to the sun but also with misconceptions about the mature plant being heliotropic.
+Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant's heliotropic phase of development recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun-god Helios.[^ref17] According to the story, Clytie competed unsuccessfully for Helios's affections. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, wholly consumed with gazing upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, so named for its flowers' movement toward the sun's rays. Heliotropism was associated with _Heliotropium_ in ancient Rome and later with _Calendula_ or the marigold in [medieval Europe](https://www.metmuseum.org/blogs/in-season/2014/climbing-in-the-garden). Yet, as this print shows, European artists of the late-sixteenth through the eighteenth centuries portrayed Clytie’s attribute as a sunflower.[^ref18] That floral inventiveness demonstrates the fashionability of the sunflower as a motif and the degree to which it was entangled not only with beliefs about the flower's formal resemblance to the sun but also with misconceptions about the mature plant being heliotropic.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1141466" title="pollinator">
@@ -239,11 +239,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTgzOTY5NjgsODU2OTM4MjkyLDEwNj
-g0MjM4MTYsMTQ0ODgyNDM2MCwtMTUzOTAyMzc1NywtMTAzOTI5
-MjcwLC0xMDQzNDE2OTY1LDg5MjU3NTgyLDYwODUzOTYzMSwtMj
-E0MzA3MzM0NCwyMDE4NjY1ODg5LC0zMDM3NzYzMjMsLTE4NzM5
-MTg5MjQsNTcxNDk5MjEyLC05NjgyMTQxOTAsLTYzNDkzMzc3Ny
-wtNjUwNjk2OTMxLC05NDQyMDQzNTEsMjAyMTYxODEwOSwtMTg0
-MDU3NjMwMl19
+eyJoaXN0b3J5IjpbLTc1MDYyNTEzNCwtMTM1ODM5Njk2OCw4NT
+Y5MzgyOTIsMTA2ODQyMzgxNiwxNDQ4ODI0MzYwLC0xNTM5MDIz
+NzU3LC0xMDM5MjkyNzAsLTEwNDM0MTY5NjUsODkyNTc1ODIsNj
+A4NTM5NjMxLC0yMTQzMDczMzQ0LDIwMTg2NjU4ODksLTMwMzc3
+NjMyMywtMTg3MzkxODkyNCw1NzE0OTkyMTIsLTk2ODIxNDE5MC
+wtNjM0OTMzNzc3LC02NTA2OTY5MzEsLTk0NDIwNDM1MSwyMDIx
+NjE4MTA5XX0=
 -->
