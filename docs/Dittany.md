@@ -135,10 +135,7 @@ Unfortunately, no contemporary scientific studies specifically assess dittany’
 While contemporary scientific research has not assessed dittany’s biofactors in relation to reproductive health, researchers have identified pennyroyal’s key active compound, pulegone. An experiment by Soares et al.[^8] revealed that the essential oil of pennyroyal and isolated pulegone does have the potential to produce significant effects on the female reproductive system.[^9] In fact, many plants high in essential oils have proven abortifacient properties. Nearly all of the herbs cited as an effective emmenagogue across the herbals of Mattioli, Durante, and Gerard have high essential oil contents, and mugwort, pennyroyal, and rue remain classed as herbs women should avoid while pregnant today.[^10]
 <param eid="Q413816">
 <param eid="Q170885">
-<param ve-image
-       title="Emmenagogic Herbs Found in All Three Herbals by Mattioli (1568), Durante (1585), and Gerard (1597)"
-       attribution="Created by Author"
-       url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Plants%20that%20Provoke%20Menstruation2.jpg">
+<param ve-tabulator url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/Emmenagogic_Herbs_3Herbals.tsv">
        
 The knowledge of how to provoke menstruation through herbs gave pre-modern women some reproductive control, either as a means to regulate menstruation to increase the likelihood of conception or as a means to end an unwanted, early-stage pregnancy. For more than 1,500 years medical texts and herbals associated dittany with women’s health, particularly with issues of menstruation as well as labor and delivery. This long association coupled with the evidence that early modern elite and middling women read and applied plant knowledge derived from herbals suggests that pre-modern women in the west did indeed seek to exercise agency over fertility and reproduction and that medicinal herbs like dittany were central to this endeavor.
 <param ve-image 
