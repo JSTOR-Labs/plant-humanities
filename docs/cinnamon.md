@@ -28,7 +28,7 @@ How could this confusion last so long? First, a possible explanation for the shi
 	manifest=""
 	seq="">
 
-A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in the early modern period continue`s to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. This narrative of ancient global trade is also unlikely, but still less imaginative than the one proposed by J. Innes Miller (1969), who argued for an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept has been rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
+A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in the early modern period continues to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. Although this narrative of ancient global trade is debatable, itikely, but still less imaginative than the one proposed by J. Innes Miller (1969), who argued for an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept has been rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
 <param ve-map
 	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
 	manifest="https://iiif.lib.harvard.edu/manifests/ids:18040817">
@@ -150,11 +150,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzMDIzNzEsODcyNTg3NTA1LC00ODUwND
-I0MDYsLTE1NzkyMDMyMDQsMTg3ODg2NjE4OCwtODYwMTIxMjcz
-LDE2NjU1ODI5MjcsLTk0MTUzODI1NCwtMjAwNTEzNDEzOCwtMT
-MyODA4NTE3MywxNDgzNjE3NTQyLDQ0NzAwMzY3NywxODk2MzQz
-ODIyLC0xNDk3MjU5OTQsLTk4NjY1MjkyNCwtNDUyNjA2Mjk0LD
-QwNzUwNzc4NCwxMDY0MDc3ODY3LC04ODAzNDUxMTEsLTEzNzM5
-Mzg4NTBdfQ==
+eyJoaXN0b3J5IjpbMjg1Mjk3ODYsODIzMDIzNzEsODcyNTg3NT
+A1LC00ODUwNDI0MDYsLTE1NzkyMDMyMDQsMTg3ODg2NjE4OCwt
+ODYwMTIxMjczLDE2NjU1ODI5MjcsLTk0MTUzODI1NCwtMjAwNT
+EzNDEzOCwtMTMyODA4NTE3MywxNDgzNjE3NTQyLDQ0NzAwMzY3
+NywxODk2MzQzODIyLC0xNDk3MjU5OTQsLTk4NjY1MjkyNCwtND
+UyNjA2Mjk0LDQwNzUwNzc4NCwxMDY0MDc3ODY3LC04ODAzNDUx
+MTFdfQ==
 -->
