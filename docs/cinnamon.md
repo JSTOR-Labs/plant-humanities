@@ -6,7 +6,7 @@
 	num-images="0"
 	num-specimens="0"
 	num-primary-sources="0"
-	author="Wouter Klein">
+	author="Wouter Klein, PhD">
 
 ### The cinnamon challenge
 
@@ -142,11 +142,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjIwMjcwMzYsLTg2MDEyMTI3MywxNj
-Y1NTgyOTI3LC05NDE1MzgyNTQsLTIwMDUxMzQxMzgsLTEzMjgw
-ODUxNzMsMTQ4MzYxNzU0Miw0NDcwMDM2NzcsMTg5NjM0MzgyMi
-wtMTQ5NzI1OTk0LC05ODY2NTI5MjQsLTQ1MjYwNjI5NCw0MDc1
-MDc3ODQsMTA2NDA3Nzg2NywtODgwMzQ1MTExLC0xMzczOTM4OD
-UwLDExNDU4NjgxMzUsLTEzMjgyNTU3MiwtMzExOTI0NzUxLC0x
-NTQ5Mjg1MDA5XX0=
+eyJoaXN0b3J5IjpbMTg3ODg2NjE4OCwtODYwMTIxMjczLDE2Nj
+U1ODI5MjcsLTk0MTUzODI1NCwtMjAwNTEzNDEzOCwtMTMyODA4
+NTE3MywxNDgzNjE3NTQyLDQ0NzAwMzY3NywxODk2MzQzODIyLC
+0xNDk3MjU5OTQsLTk4NjY1MjkyNCwtNDUyNjA2Mjk0LDQwNzUw
+Nzc4NCwxMDY0MDc3ODY3LC04ODAzNDUxMTEsLTEzNzM5Mzg4NT
+AsMTE0NTg2ODEzNSwtMTMyODI1NTcyLC0zMTE5MjQ3NTEsLTE1
+NDkyODUwMDldfQ==
 -->
