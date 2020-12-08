@@ -233,17 +233,17 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref22]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," in _Van Gogh's Sunflowers Illuminated: Art Meets Science_, eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
 
-[^ref23]: Hopi sunflower CITATION.
+[^ref23]: Charles B. Heiser, Jr. "The Hopi Sunflower." _Missouri Botanical Garden Bulletin_ 33, no. 8, 163-66.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQwNzkxMzMsLTc1MDYyNTEzNCwtMT
-M1ODM5Njk2OCw4NTY5MzgyOTIsMTA2ODQyMzgxNiwxNDQ4ODI0
-MzYwLC0xNTM5MDIzNzU3LC0xMDM5MjkyNzAsLTEwNDM0MTY5Nj
-UsODkyNTc1ODIsNjA4NTM5NjMxLC0yMTQzMDczMzQ0LDIwMTg2
-NjU4ODksLTMwMzc3NjMyMywtMTg3MzkxODkyNCw1NzE0OTkyMT
-IsLTk2ODIxNDE5MCwtNjM0OTMzNzc3LC02NTA2OTY5MzEsLTk0
-NDIwNDM1MV19
+eyJoaXN0b3J5IjpbLTE3NDcwNjAyODMsLTE4NDQwNzkxMzMsLT
+c1MDYyNTEzNCwtMTM1ODM5Njk2OCw4NTY5MzgyOTIsMTA2ODQy
+MzgxNiwxNDQ4ODI0MzYwLC0xNTM5MDIzNzU3LC0xMDM5MjkyNz
+AsLTEwNDM0MTY5NjUsODkyNTc1ODIsNjA4NTM5NjMxLC0yMTQz
+MDczMzQ0LDIwMTg2NjU4ODksLTMwMzc3NjMyMywtMTg3MzkxOD
+kyNCw1NzE0OTkyMTIsLTk2ODIxNDE5MCwtNjM0OTMzNzc3LC02
+NTA2OTY5MzFdfQ==
 -->
