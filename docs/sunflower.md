@@ -233,12 +233,12 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref22]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," in _Van Gogh's Sunflowers Illuminated: Art Meets Science_, eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
 
-[^ref23]: Charles B. Heiser, Jr. "The Hopi Sunflower." _Missouri Botanical Garden Bulletin_ 33, no. 8 (1945): 163-66; Mary-Russell Ferrell Colton, _Hopi Dyes_ (Flagstaff: Museum of Northern Arizona [1965]), accessed December 7, 2020, HathiTrust.
+[^ref23]: Charles B. Heiser, Jr. "The Hopi Sunflower." _Missouri Botanical Garden Bulletin_ 33, no. 8, 163-66, [https://www.biodiversitylibrary.org/item/19196#page/201/mode/1up](https://protect-us.mimecast.com/s/aiEAC82YDptkN1jh19wT2?domain=biodiversitylibrary.org); Mary-Russell Ferrell Colton, _Hopi Dyes_ (Flagstaff: Museum of Northern Arizona, 1965), accessed December 7, 2020, HathiTrust.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODYxMjkzNDIsLTE3NDcwNjAyODMsLT
+eyJoaXN0b3J5IjpbLTEyMzQxMjI2MTgsLTE3NDcwNjAyODMsLT
 E4NDQwNzkxMzMsLTc1MDYyNTEzNCwtMTM1ODM5Njk2OCw4NTY5
 MzgyOTIsMTA2ODQyMzgxNiwxNDQ4ODI0MzYwLC0xNTM5MDIzNz
 U3LC0xMDM5MjkyNzAsLTEwNDM0MTY5NjUsODkyNTc1ODIsNjA4
