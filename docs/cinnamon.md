@@ -44,7 +44,7 @@ The quest for spices, cinnamon among them, was one of the most important aims th
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	fit="contain">
 
-Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to acquire a share of the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. They nerefore, they engaged in 'reluctant imperialism' to get access to cinnamon: [^ref8]
+Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to acquire a share of the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, the Portuguese engaged in 'reluctant imperialism' to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon. [^ref8]
 <param ve-map
 	title="Sri Lanka"
 	center="7.792820, 80.750146"
@@ -155,11 +155,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxODM5MzYsLTEzOTc3MDEzNzgsLTE1Nj
-c4NjIxNDAsNTc2MzQ4MTM5LC04NTIyMTMzNjQsMTc2MTEwODA1
-LDE0MzM5NTc5NSwtMTUzOTUyMjg3MSwxMjE1ODM2NjE2LC0xND
-c4Mjg4ODkxLDk3OTkyNDg3LDE3NDcxOTE4MTgsMTQzODA4NTA3
-MywxNDE5NTMzNzI2LC0xODM3MzcwOTI0LDE2MzQ5ODI3OTUsLT
-E3NDg0Mjg0MzgsNjAwMTQyOTI2LDE1MDEwMTUzNjksNDk4MDI3
-MjVdfQ==
+eyJoaXN0b3J5IjpbLTIwNjkxMTUyNjcsLTEzOTc3MDEzNzgsLT
+E1Njc4NjIxNDAsNTc2MzQ4MTM5LC04NTIyMTMzNjQsMTc2MTEw
+ODA1LDE0MzM5NTc5NSwtMTUzOTUyMjg3MSwxMjE1ODM2NjE2LC
+0xNDc4Mjg4ODkxLDk3OTkyNDg3LDE3NDcxOTE4MTgsMTQzODA4
+NTA3MywxNDE5NTMzNzI2LC0xODM3MzcwOTI0LDE2MzQ5ODI3OT
+UsLTE3NDg0Mjg0MzgsNjAwMTQyOTI2LDE1MDEwMTUzNjksNDk4
+MDI3MjVdfQ==
 -->
