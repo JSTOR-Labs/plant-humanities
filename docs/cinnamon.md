@@ -32,17 +32,17 @@ A second, and much more surprising reason for the long-lasting confusion over ci
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
 
 ### Cinnamon as a tool of empire
-All such philological quibbling about ancient sources was of no concern to the early modern consumer, who simply craved for cinnamon. The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
-<param ve-image
-	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner reads in Latin "Primus circumdedisti me" ("You first encircled me").
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
-	region="">
-
 Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon – 'true' or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
 <param ve-image
 	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding a branch and a bundle of cinnamon sticks, and standing next to a camel. Note that this coin was found on the opposite side of the Roman empire, in Yorkshire, Britain."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1414,152,1586,1031">
+
+The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
+<param ve-image
+	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner reads in Latin "Primus circumdedisti me" ("You first encircled me").
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
+	region="">
 
 Using cinnamon as a means to increase the prestige of an individual or a state is one thing. Managing the production and trade of the spice is quite another. In the sixteenth century, the Portuguese made humble attempts to create a monopoly on the cinnamon trade, They soon realized that this was impossible without getting involved in local politics on the island. Local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals.[^ref8]
 <param ve-map
@@ -154,11 +154,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDg0Mjg0MzgsNjAwMTQyOTI2LDE1MD
-EwMTUzNjksNDk4MDI3MjUsNDcxNDY1OTM3LC0xNDM3NTE2MjMx
-LDgyMzAyMzcxLDg3MjU4NzUwNSwtNDg1MDQyNDA2LC0xNTc5Mj
-AzMjA0LDE4Nzg4NjYxODgsLTg2MDEyMTI3MywxNjY1NTgyOTI3
-LC05NDE1MzgyNTQsLTIwMDUxMzQxMzgsLTEzMjgwODUxNzMsMT
-Q4MzYxNzU0Miw0NDcwMDM2NzcsMTg5NjM0MzgyMiwtMTQ5NzI1
-OTk0XX0=
+eyJoaXN0b3J5IjpbLTE1MDQyODEzMzksLTE3NDg0Mjg0MzgsNj
+AwMTQyOTI2LDE1MDEwMTUzNjksNDk4MDI3MjUsNDcxNDY1OTM3
+LC0xNDM3NTE2MjMxLDgyMzAyMzcxLDg3MjU4NzUwNSwtNDg1MD
+QyNDA2LC0xNTc5MjAzMjA0LDE4Nzg4NjYxODgsLTg2MDEyMTI3
+MywxNjY1NTgyOTI3LC05NDE1MzgyNTQsLTIwMDUxMzQxMzgsLT
+EzMjgwODUxNzMsMTQ4MzYxNzU0Miw0NDcwMDM2NzcsMTg5NjM0
+MzgyMl19
 -->
