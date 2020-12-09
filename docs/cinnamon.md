@@ -29,7 +29,7 @@ How could this confusion last so long? First, a possible explanation for the shi
 A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in the early modern period continues to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. Although this narrative of ancient global trade is debatable, it is still less imaginative than the one proposed by J. Innes Miller (1969), who argued for an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept has been rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
 <param ve-image
 	title=""
-	url="https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png">
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/1024px-No_image_available.svg.png">
 
 ### Cinnamon as a tool of empire
 All such philological quibbling about ancient sources was of no concern to the early modern consumer, who simply craved for cinnamon. The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
@@ -153,11 +153,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMTQyOTI2LDE1MDEwMTUzNjksNDk4MD
-I3MjUsNDcxNDY1OTM3LC0xNDM3NTE2MjMxLDgyMzAyMzcxLDg3
-MjU4NzUwNSwtNDg1MDQyNDA2LC0xNTc5MjAzMjA0LDE4Nzg4Nj
-YxODgsLTg2MDEyMTI3MywxNjY1NTgyOTI3LC05NDE1MzgyNTQs
-LTIwMDUxMzQxMzgsLTEzMjgwODUxNzMsMTQ4MzYxNzU0Miw0ND
-cwMDM2NzcsMTg5NjM0MzgyMiwtMTQ5NzI1OTk0LC05ODY2NTI5
-MjRdfQ==
+eyJoaXN0b3J5IjpbLTExOTU2NTk2MjMsNjAwMTQyOTI2LDE1MD
+EwMTUzNjksNDk4MDI3MjUsNDcxNDY1OTM3LC0xNDM3NTE2MjMx
+LDgyMzAyMzcxLDg3MjU4NzUwNSwtNDg1MDQyNDA2LC0xNTc5Mj
+AzMjA0LDE4Nzg4NjYxODgsLTg2MDEyMTI3MywxNjY1NTgyOTI3
+LC05NDE1MzgyNTQsLTIwMDUxMzQxMzgsLTEzMjgwODUxNzMsMT
+Q4MzYxNzU0Miw0NDcwMDM2NzcsMTg5NjM0MzgyMiwtMTQ5NzI1
+OTk0XX0=
 -->
