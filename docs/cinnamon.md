@@ -18,7 +18,7 @@ In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although
 ### Forgotten knowledge and fabricated history
 Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same as those found in the East Indies in the sixteenth century, to which those names were attached. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
 <param ve-image
-	title=""
+	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
 	manifest="https://iiif.lib.harvard.edu/manifests/ids:18040817">
 
 How could this confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, however, European scholars writing about cinnamon would turn to classical, not medieval sources, to understand the spice and its properties. Discrepancies between classical descriptions of the spice and the plant that was found in Sri Lanka could be resolved. In his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations and classical authors' descriptions of cinnamon by the fact that the latter had only known the processed spice, not the actual plant.[^ref3]
@@ -28,15 +28,15 @@ How could this confusion last so long? First, a possible explanation for the shi
 
 A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in the early modern period continues to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. Although this narrative of ancient global trade is debatable, it is still less imaginative than the one proposed by J. Innes Miller (1969), who argued for an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept has been rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
 <param ve-map
-	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
-	manifest="https://iiif.lib.harvard.edu/manifests/ids:18040817">
+	title=""
+	url="https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png">
 
 ### Cinnamon as a tool of empire
 All such philological quibbling about ancient sources was of no concern to the early modern consumer, who simply craved for cinnamon. The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
 <param ve-image
 	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner reads in Latin "Primus circumdedisti me" ("You first encircled me").
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
-	region="-408,1,1403,1023">
+	region="">
 
 Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon – 'true' or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
 <param ve-image
@@ -46,7 +46,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 
 Using cinnamon as a means to increase the prestige of an individual or a state is one thing. Managing the production and trade of the spice is quite another. In the sixteenth century, the Portuguese made humble attempts to create a monopoly on the cinnamon trade, They soon realized that this was impossible without getting involved in local politics on the island. Local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals.[^ref8]
 <param ve-map
-	title=""
+	title="Sri Lanka"
 	center="Q854">
 
 Biblical connotations
@@ -153,11 +153,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3OTU4MzU1LDE1MDEwMTUzNjksNDk4MD
-I3MjUsNDcxNDY1OTM3LC0xNDM3NTE2MjMxLDgyMzAyMzcxLDg3
-MjU4NzUwNSwtNDg1MDQyNDA2LC0xNTc5MjAzMjA0LDE4Nzg4Nj
-YxODgsLTg2MDEyMTI3MywxNjY1NTgyOTI3LC05NDE1MzgyNTQs
-LTIwMDUxMzQxMzgsLTEzMjgwODUxNzMsMTQ4MzYxNzU0Miw0ND
-cwMDM2NzcsMTg5NjM0MzgyMiwtMTQ5NzI1OTk0LC05ODY2NTI5
-MjRdfQ==
+eyJoaXN0b3J5IjpbMTUzOTA3ODY3MSwxNTAxMDE1MzY5LDQ5OD
+AyNzI1LDQ3MTQ2NTkzNywtMTQzNzUxNjIzMSw4MjMwMjM3MSw4
+NzI1ODc1MDUsLTQ4NTA0MjQwNiwtMTU3OTIwMzIwNCwxODc4OD
+Y2MTg4LC04NjAxMjEyNzMsMTY2NTU4MjkyNywtOTQxNTM4MjU0
+LC0yMDA1MTM0MTM4LC0xMzI4MDg1MTczLDE0ODM2MTc1NDIsND
+Q3MDAzNjc3LDE4OTYzNDM4MjIsLTE0OTcyNTk5NCwtOTg2NjUy
+OTI0XX0=
 -->
