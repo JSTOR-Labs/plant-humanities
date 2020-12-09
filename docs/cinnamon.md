@@ -79,11 +79,6 @@ Global availability
 British efforts to maintain the cinnamon monopoly, and failure
 	Samaraweera (V.) 1971
 
-Efforts of transplantation and acclimatization
-	- Cinnamon in Rio de Janeiro botanical garden (google die even)
-	Ricardo (L.M.) 2018
-	Hermann (P.) 1687 (failed attempt in Dutch gardens)
-	Zumbroich (T.J.) 2005
 
 Cinnamon in the Spanish (Atlantic) world
 	- Dutch exports of cinnamon to Spain and Spanish world
@@ -103,6 +98,12 @@ Cinnamon in the Spanish (Atlantic) world
 	Skowronek (R.K.) 2016
 	Bleichmar (D.) 2012 (pp.123-126)
 	see also http://www.theplantlist.org/tpl1.1/record/kew-2721453, because # _Cinnamomum_  _mindanaense_ is a synonym of _Cinnamomum_  _burmanni_
+
+Efforts of transplantation and acclimatization
+	- Cinnamon in Rio de Janeiro botanical garden (google die even)
+	Ricardo (L.M.) 2018
+	Hermann (P.) 1687 (failed attempt in Dutch gardens)
+	Zumbroich (T.J.) 2005
 
 Handel vóór de Portugezen
 Bouchon (G.) 1990
@@ -153,11 +154,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3NDgxODY2LDYwMDE0MjkyNiwxNTAxMD
-E1MzY5LDQ5ODAyNzI1LDQ3MTQ2NTkzNywtMTQzNzUxNjIzMSw4
-MjMwMjM3MSw4NzI1ODc1MDUsLTQ4NTA0MjQwNiwtMTU3OTIwMz
-IwNCwxODc4ODY2MTg4LC04NjAxMjEyNzMsMTY2NTU4MjkyNywt
-OTQxNTM4MjU0LC0yMDA1MTM0MTM4LC0xMzI4MDg1MTczLDE0OD
-M2MTc1NDIsNDQ3MDAzNjc3LDE4OTYzNDM4MjIsLTE0OTcyNTk5
-NF19
+eyJoaXN0b3J5IjpbLTE3NDg0Mjg0MzgsNjAwMTQyOTI2LDE1MD
+EwMTUzNjksNDk4MDI3MjUsNDcxNDY1OTM3LC0xNDM3NTE2MjMx
+LDgyMzAyMzcxLDg3MjU4NzUwNSwtNDg1MDQyNDA2LC0xNTc5Mj
+AzMjA0LDE4Nzg4NjYxODgsLTg2MDEyMTI3MywxNjY1NTgyOTI3
+LC05NDE1MzgyNTQsLTIwMDUxMzQxMzgsLTEzMjgwODUxNzMsMT
+Q4MzYxNzU0Miw0NDcwMDM2NzcsMTg5NjM0MzgyMiwtMTQ5NzI1
+OTk0XX0=
 -->
