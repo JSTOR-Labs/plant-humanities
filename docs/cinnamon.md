@@ -44,7 +44,7 @@ The quest for spices, cinnamon among them, was one of the most important aims th
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	fit="contain">
 
-Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to acquire a share of the cinnamon trade. In the sixteenth century, the Portuguese made humble attempts to create a monopoly. They soon realized that this was impossible without getting involved in local politics on the island. Local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals.[^ref8]
+Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to acquire a share of the cinnamon trade. In the sixteenth century, the Portuguese made humble attempts to create a monopoly. They soon realized that this was impossible without getting involved in local politics on the island. Local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese engaged in 'reluctant imperialism' to get access to cinnamon: [^ref8]
 <param ve-map
 	title="Sri Lanka"
 	center="7.792820, 80.750146"
@@ -155,11 +155,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2MzQ4MTM5LC04NTIyMTMzNjQsMTc2MT
-EwODA1LDE0MzM5NTc5NSwtMTUzOTUyMjg3MSwxMjE1ODM2NjE2
-LC0xNDc4Mjg4ODkxLDk3OTkyNDg3LDE3NDcxOTE4MTgsMTQzOD
-A4NTA3MywxNDE5NTMzNzI2LC0xODM3MzcwOTI0LDE2MzQ5ODI3
-OTUsLTE3NDg0Mjg0MzgsNjAwMTQyOTI2LDE1MDEwMTUzNjksND
-k4MDI3MjUsNDcxNDY1OTM3LC0xNDM3NTE2MjMxLDgyMzAyMzcx
-XX0=
+eyJoaXN0b3J5IjpbLTE1Njc4NjIxNDAsNTc2MzQ4MTM5LC04NT
+IyMTMzNjQsMTc2MTEwODA1LDE0MzM5NTc5NSwtMTUzOTUyMjg3
+MSwxMjE1ODM2NjE2LC0xNDc4Mjg4ODkxLDk3OTkyNDg3LDE3ND
+cxOTE4MTgsMTQzODA4NTA3MywxNDE5NTMzNzI2LC0xODM3Mzcw
+OTI0LDE2MzQ5ODI3OTUsLTE3NDg0Mjg0MzgsNjAwMTQyOTI2LD
+E1MDEwMTUzNjksNDk4MDI3MjUsNDcxNDY1OTM3LC0xNDM3NTE2
+MjMxXX0=
 -->
