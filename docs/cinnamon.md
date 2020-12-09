@@ -50,7 +50,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	center="7.792820, 80.750146"
 	zoom="7.6">
 
-The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They already signed a treaty with the king of Kandy in 1638, hoping this would give them a share of of the cinnamon trade, which was still dominated by the Portuguese at the time.
+The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They already signed a treaty with the king of Kandy in 1638, hoping this would give them a share of of the cinnamon trade, which was still dominated by the Portuguese at the time. The Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658. The Dutch now controlled many coastal areas 
 
 About cinnamon harvesting
 <param ve-image
@@ -165,11 +165,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Mzc0MDM2OCwtMTE0MzMxNzY0MywtMT
-MzNTk3NTI2MCwxMzE5MTE4OTY3LC01ODgyOTMyMjYsLTEwODI1
-MzI4NTIsLTE1NjY3OTc3MTUsLTIwNjkxMTUyNjcsLTEzOTc3MD
-EzNzgsLTE1Njc4NjIxNDAsNTc2MzQ4MTM5LC04NTIyMTMzNjQs
-MTc2MTEwODA1LDE0MzM5NTc5NSwtMTUzOTUyMjg3MSwxMjE1OD
-M2NjE2LC0xNDc4Mjg4ODkxLDk3OTkyNDg3LDE3NDcxOTE4MTgs
-MTQzODA4NTA3M119
+eyJoaXN0b3J5IjpbLTE3NDU5NjQ1NDQsLTExNDMzMTc2NDMsLT
+EzMzU5NzUyNjAsMTMxOTExODk2NywtNTg4MjkzMjI2LC0xMDgy
+NTMyODUyLC0xNTY2Nzk3NzE1LC0yMDY5MTE1MjY3LC0xMzk3Nz
+AxMzc4LC0xNTY3ODYyMTQwLDU3NjM0ODEzOSwtODUyMjEzMzY0
+LDE3NjExMDgwNSwxNDMzOTU3OTUsLTE1Mzk1MjI4NzEsMTIxNT
+gzNjYxNiwtMTQ3ODI4ODg5MSw5Nzk5MjQ4NywxNzQ3MTkxODE4
+LDE0MzgwODUwNzNdfQ==
 -->
