@@ -42,7 +42,7 @@ The quest for spices, cinnamon among them, was one of the most important aims th
 <param ve-image
 	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner reads in Latin 'Primus circumdedisti me' ('You first encircled me')."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
-	region="">
+	fit="contain">
 
 Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. In the sixteenth century, the Portuguese made humble attempts to create a monopoly on the cinnamon trade, They soon realized that this was impossible without getting involved in local politics on the island. Local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals.[^ref8]
 <param ve-map
@@ -154,11 +154,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTUzMzcyNiwtMTgzNzM3MDkyNCwxNj
-M0OTgyNzk1LC0xNzQ4NDI4NDM4LDYwMDE0MjkyNiwxNTAxMDE1
-MzY5LDQ5ODAyNzI1LDQ3MTQ2NTkzNywtMTQzNzUxNjIzMSw4Mj
-MwMjM3MSw4NzI1ODc1MDUsLTQ4NTA0MjQwNiwtMTU3OTIwMzIw
-NCwxODc4ODY2MTg4LC04NjAxMjEyNzMsMTY2NTU4MjkyNywtOT
-QxNTM4MjU0LC0yMDA1MTM0MTM4LC0xMzI4MDg1MTczLDE0ODM2
-MTc1NDJdfQ==
+eyJoaXN0b3J5IjpbMTQzODA4NTA3MywxNDE5NTMzNzI2LC0xOD
+M3MzcwOTI0LDE2MzQ5ODI3OTUsLTE3NDg0Mjg0MzgsNjAwMTQy
+OTI2LDE1MDEwMTUzNjksNDk4MDI3MjUsNDcxNDY1OTM3LC0xND
+M3NTE2MjMxLDgyMzAyMzcxLDg3MjU4NzUwNSwtNDg1MDQyNDA2
+LC0xNTc5MjAzMjA0LDE4Nzg4NjYxODgsLTg2MDEyMTI3MywxNj
+Y1NTgyOTI3LC05NDE1MzgyNTQsLTIwMDUxMzQxMzgsLTEzMjgw
+ODUxNzNdfQ==
 -->
