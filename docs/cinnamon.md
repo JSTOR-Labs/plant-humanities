@@ -27,7 +27,7 @@ How could this confusion last so long? First, a possible explanation for the shi
 	url="https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png">
 
 A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in the early modern period continues to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. Although this narrative of ancient global trade is debatable, it is still less imaginative than the one proposed by J. Innes Miller (1969), who argued for an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept has been rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
-<param ve-map
+<param ve-image
 	title=""
 	url="https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png">
 
@@ -153,11 +153,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTA3ODY3MSwxNTAxMDE1MzY5LDQ5OD
-AyNzI1LDQ3MTQ2NTkzNywtMTQzNzUxNjIzMSw4MjMwMjM3MSw4
-NzI1ODc1MDUsLTQ4NTA0MjQwNiwtMTU3OTIwMzIwNCwxODc4OD
-Y2MTg4LC04NjAxMjEyNzMsMTY2NTU4MjkyNywtOTQxNTM4MjU0
-LC0yMDA1MTM0MTM4LC0xMzI4MDg1MTczLDE0ODM2MTc1NDIsND
-Q3MDAzNjc3LDE4OTYzNDM4MjIsLTE0OTcyNTk5NCwtOTg2NjUy
-OTI0XX0=
+eyJoaXN0b3J5IjpbNjAwMTQyOTI2LDE1MDEwMTUzNjksNDk4MD
+I3MjUsNDcxNDY1OTM3LC0xNDM3NTE2MjMxLDgyMzAyMzcxLDg3
+MjU4NzUwNSwtNDg1MDQyNDA2LC0xNTc5MjAzMjA0LDE4Nzg4Nj
+YxODgsLTg2MDEyMTI3MywxNjY1NTgyOTI3LC05NDE1MzgyNTQs
+LTIwMDUxMzQxMzgsLTEzMjgwODUxNzMsMTQ4MzYxNzU0Miw0ND
+cwMDM2NzcsMTg5NjM0MzgyMiwtMTQ5NzI1OTk0LC05ODY2NTI5
+MjRdfQ==
 -->
