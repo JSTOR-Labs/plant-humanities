@@ -26,7 +26,7 @@ How could this confusion last so long? First, a possible explanation for the shi
 	title="test"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
 
-A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in the early modern period still exists today. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_ (a common historical name for _cassia_, generally believed to be _Cinnamomum cassia_ (L.) J.Presl), imported from China through Arabia and East Africa. Although this narrative of ancient global trade is debatable, it is still less imaginative than the one proposed by J. Innes Miller (1969). Miller claimed there had been an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept has been rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
+A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue still exists today. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_ (a common historical name for _cassia_, generally believed to be _Cinnamomum cassia_ (L.) J.Presl), imported from China through Arabia and East Africa. Although this narrative of ancient global trade is debatable, it is still less imaginative than the one proposed by J. Innes Miller (1969). Miller claimed there had been an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept has been rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
 <param ve-image
 	title="test"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
@@ -154,11 +154,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTgzNjYxNiwtMTQ3ODI4ODg5MSw5Nz
-k5MjQ4NywxNzQ3MTkxODE4LDE0MzgwODUwNzMsMTQxOTUzMzcy
-NiwtMTgzNzM3MDkyNCwxNjM0OTgyNzk1LC0xNzQ4NDI4NDM4LD
-YwMDE0MjkyNiwxNTAxMDE1MzY5LDQ5ODAyNzI1LDQ3MTQ2NTkz
-NywtMTQzNzUxNjIzMSw4MjMwMjM3MSw4NzI1ODc1MDUsLTQ4NT
-A0MjQwNiwtMTU3OTIwMzIwNCwxODc4ODY2MTg4LC04NjAxMjEy
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTE2NTg5NTYyMzksMTIxNTgzNjYxNiwtMT
+Q3ODI4ODg5MSw5Nzk5MjQ4NywxNzQ3MTkxODE4LDE0MzgwODUw
+NzMsMTQxOTUzMzcyNiwtMTgzNzM3MDkyNCwxNjM0OTgyNzk1LC
+0xNzQ4NDI4NDM4LDYwMDE0MjkyNiwxNTAxMDE1MzY5LDQ5ODAy
+NzI1LDQ3MTQ2NTkzNywtMTQzNzUxNjIzMSw4MjMwMjM3MSw4Nz
+I1ODc1MDUsLTQ4NTA0MjQwNiwtMTU3OTIwMzIwNCwxODc4ODY2
+MTg4XX0=
 -->
