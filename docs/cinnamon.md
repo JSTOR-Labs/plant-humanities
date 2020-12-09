@@ -60,6 +60,8 @@ Peelers were specialized laborers from the Singalese caste _Salagama_ (also know
 	title="test2"
 	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg">
 
+The tight restrictions of the Dutch on cinnamon production and export 
+
 Biblical connotations
 	Duke (J.A.) 2008
 
@@ -167,11 +169,11 @@ In ieder geval toevoegen:
 
 [^ref9]: Lodewijk Wagenaar, _Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_. Transl. by Steve Green and Michael Blass (Amsterdam: Rijksmuseum / Nijmegen: Vantilt Publishers 2016) 149-157.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4MDI5MTc0LC03MTI5Mjg2MjQsNDI3OD
-EyNTYwLDYwODE4NDUxMCwtMjE0MTEzNzY3NywtNTg0MDAzMDE2
-LDE0MTQ2Mjk3NjcsLTE4MDA3ODE0NTIsLTE4ODQ5MzgzMjIsLT
-ExNDMzMTc2NDMsLTEzMzU5NzUyNjAsMTMxOTExODk2NywtNTg4
-MjkzMjI2LC0xMDgyNTMyODUyLC0xNTY2Nzk3NzE1LC0yMDY5MT
-E1MjY3LC0xMzk3NzAxMzc4LC0xNTY3ODYyMTQwLDU3NjM0ODEz
-OSwtODUyMjEzMzY0XX0=
+eyJoaXN0b3J5IjpbLTYwNzY2ODE4MCw3MTgwMjkxNzQsLTcxMj
+kyODYyNCw0Mjc4MTI1NjAsNjA4MTg0NTEwLC0yMTQxMTM3Njc3
+LC01ODQwMDMwMTYsMTQxNDYyOTc2NywtMTgwMDc4MTQ1MiwtMT
+g4NDkzODMyMiwtMTE0MzMxNzY0MywtMTMzNTk3NTI2MCwxMzE5
+MTE4OTY3LC01ODgyOTMyMjYsLTEwODI1MzI4NTIsLTE1NjY3OT
+c3MTUsLTIwNjkxMTUyNjcsLTEzOTc3MDEzNzgsLTE1Njc4NjIx
+NDAsNTc2MzQ4MTM5XX0=
 -->
