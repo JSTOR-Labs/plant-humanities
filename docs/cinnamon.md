@@ -13,20 +13,18 @@
 In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestable clutter in the back of the throat. Thankfully, this [quite dagerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
 <param ve-image
 	title="test"
-	url="https://upload.wikimedia.org/wikipedia/commons/1/12/Ground_Cinnamon_Powder_and_a_Cinnamon_Stick.jpg"
-	region="">
+	url="https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png">
 	
 ### Forgotten knowledge and fabricated history
 Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same as those found in the East Indies in the sixteenth century, to which those names were attached. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
 <param ve-image
-	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
+	title=""
 	manifest="https://iiif.lib.harvard.edu/manifests/ids:18040817">
 
 How could this confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, however, European scholars writing about cinnamon would turn to classical, not medieval sources, to understand the spice and its properties. Discrepancies between classical descriptions of the spice and the plant that was found in Sri Lanka could be resolved. In his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations and classical authors' descriptions of cinnamon by the fact that the latter had only known the processed spice, not the actual plant.[^ref3]
 <param ve-image
 	title="test"
-	manifest=""
-	seq="">
+	url="https://upload.wikimedia.org/wikipedia/commons/0/0a/No-image-available.png">
 
 A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue as in the early modern period continues to exist until the present day. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_, imported from China through Arabia and East Africa. Although this narrative of ancient global trade is debatable, it is still less imaginative than the one proposed by J. Innes Miller (1969), who argued for an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept has been rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
 <param ve-map
@@ -155,11 +153,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTAxNTM2OSw0OTgwMjcyNSw0NzE0Nj
-U5MzcsLTE0Mzc1MTYyMzEsODIzMDIzNzEsODcyNTg3NTA1LC00
-ODUwNDI0MDYsLTE1NzkyMDMyMDQsMTg3ODg2NjE4OCwtODYwMT
-IxMjczLDE2NjU1ODI5MjcsLTk0MTUzODI1NCwtMjAwNTEzNDEz
-OCwtMTMyODA4NTE3MywxNDgzNjE3NTQyLDQ0NzAwMzY3NywxOD
-k2MzQzODIyLC0xNDk3MjU5OTQsLTk4NjY1MjkyNCwtNDUyNjA2
-Mjk0XX0=
+eyJoaXN0b3J5IjpbNDc3OTU4MzU1LDE1MDEwMTUzNjksNDk4MD
+I3MjUsNDcxNDY1OTM3LC0xNDM3NTE2MjMxLDgyMzAyMzcxLDg3
+MjU4NzUwNSwtNDg1MDQyNDA2LC0xNTc5MjAzMjA0LDE4Nzg4Nj
+YxODgsLTg2MDEyMTI3MywxNjY1NTgyOTI3LC05NDE1MzgyNTQs
+LTIwMDUxMzQxMzgsLTEzMjgwODUxNzMsMTQ4MzYxNzU0Miw0ND
+cwMDM2NzcsMTg5NjM0MzgyMiwtMTQ5NzI1OTk0LC05ODY2NTI5
+MjRdfQ==
 -->
