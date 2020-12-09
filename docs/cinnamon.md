@@ -60,7 +60,7 @@ Peelers were specialized laborers from the Singalese caste _Salagama_ (also know
 	title="test2"
 	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg">
 
-The tight restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the VOC. In the 1720s, export restrictions were loosened for several products, but not cinnamon.
+The tight restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India COmpany (VOC). In the 1720s, export restrictions were loosened for several products, but not cinnamon.
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -169,11 +169,11 @@ In ieder geval toevoegen:
 
 [^ref9]: Lodewijk Wagenaar, _Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_. Transl. by Steve Green and Michael Blass (Amsterdam: Rijksmuseum / Nijmegen: Vantilt Publishers 2016) 149-157.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjQ3MDIzNSw3MTgwMjkxNzQsLTcxMj
-kyODYyNCw0Mjc4MTI1NjAsNjA4MTg0NTEwLC0yMTQxMTM3Njc3
-LC01ODQwMDMwMTYsMTQxNDYyOTc2NywtMTgwMDc4MTQ1MiwtMT
-g4NDkzODMyMiwtMTE0MzMxNzY0MywtMTMzNTk3NTI2MCwxMzE5
-MTE4OTY3LC01ODgyOTMyMjYsLTEwODI1MzI4NTIsLTE1NjY3OT
-c3MTUsLTIwNjkxMTUyNjcsLTEzOTc3MDEzNzgsLTE1Njc4NjIx
-NDAsNTc2MzQ4MTM5XX0=
+eyJoaXN0b3J5IjpbLTExNzU0NTQzLDcxODAyOTE3NCwtNzEyOT
+I4NjI0LDQyNzgxMjU2MCw2MDgxODQ1MTAsLTIxNDExMzc2Nzcs
+LTU4NDAwMzAxNiwxNDE0NjI5NzY3LC0xODAwNzgxNDUyLC0xOD
+g0OTM4MzIyLC0xMTQzMzE3NjQzLC0xMzM1OTc1MjYwLDEzMTkx
+MTg5NjcsLTU4ODI5MzIyNiwtMTA4MjUzMjg1MiwtMTU2Njc5Nz
+cxNSwtMjA2OTExNTI2NywtMTM5NzcwMTM3OCwtMTU2Nzg2MjE0
+MCw1NzYzNDgxMzldfQ==
 -->
