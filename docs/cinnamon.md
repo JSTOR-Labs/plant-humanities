@@ -32,7 +32,7 @@ A second, and much more surprising reason for the long-lasting confusion over ci
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
 
 ### Cinnamon as a tool of empire
-The attraction of cinnamon – 'true' or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predates the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
+The attraction of cinnamon – 'true' or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predates the early modern period. For example, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
 <param ve-image
 	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding a branch and a bundle of cinnamon sticks, and standing next to a camel. Note that this coin was found on the opposite side of the Roman empire, in Yorkshire, Britain."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
@@ -154,11 +154,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njc2NzM4OTYsLTE1Mzk1MjI4NzEsMT
-IxNTgzNjYxNiwtMTQ3ODI4ODg5MSw5Nzk5MjQ4NywxNzQ3MTkx
-ODE4LDE0MzgwODUwNzMsMTQxOTUzMzcyNiwtMTgzNzM3MDkyNC
-wxNjM0OTgyNzk1LC0xNzQ4NDI4NDM4LDYwMDE0MjkyNiwxNTAx
-MDE1MzY5LDQ5ODAyNzI1LDQ3MTQ2NTkzNywtMTQzNzUxNjIzMS
-w4MjMwMjM3MSw4NzI1ODc1MDUsLTQ4NTA0MjQwNiwtMTU3OTIw
-MzIwNF19
+eyJoaXN0b3J5IjpbMTQzMzk1Nzk1LC0xNTM5NTIyODcxLDEyMT
+U4MzY2MTYsLTE0NzgyODg4OTEsOTc5OTI0ODcsMTc0NzE5MTgx
+OCwxNDM4MDg1MDczLDE0MTk1MzM3MjYsLTE4MzczNzA5MjQsMT
+YzNDk4Mjc5NSwtMTc0ODQyODQzOCw2MDAxNDI5MjYsMTUwMTAx
+NTM2OSw0OTgwMjcyNSw0NzE0NjU5MzcsLTE0Mzc1MTYyMzEsOD
+IzMDIzNzEsODcyNTg3NTA1LC00ODUwNDI0MDYsLTE1NzkyMDMy
+MDRdfQ==
 -->
