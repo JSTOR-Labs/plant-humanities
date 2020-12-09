@@ -21,7 +21,7 @@ Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinna
 	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
 	manifest="https://iiif.lib.harvard.edu/manifests/ids:18040817">
 
-How could this confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, European scholars writing about cinnamon would turn to classical, not medieval sources, to understand the spice and its properties. However, they managed to resolve the discrepancies they found between classical descriptions of the spice, and the plant that was found in Sri Lanka. In his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations and classical authors' descriptions of cinnamon by the fact that the latter had only known the processed spice, not the actual plant.[^ref3]
+How could this confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, European scholars writing about cinnamon would turn to classical, not medieval sources, to understand the spice and its properties. They managed to resolve the discrepancies they found between classical descriptions of the spice and the plant that was found in Sri Lanka. In his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations and classical authors' descriptions of cinnamon by the fact that the latter had only known the processed spice, not the actual plant.[^ref3]
 <param ve-image
 	title="test"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
@@ -154,11 +154,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5OTI0ODcsMTc0NzE5MTgxOCwxNDM4MD
-g1MDczLDE0MTk1MzM3MjYsLTE4MzczNzA5MjQsMTYzNDk4Mjc5
-NSwtMTc0ODQyODQzOCw2MDAxNDI5MjYsMTUwMTAxNTM2OSw0OT
-gwMjcyNSw0NzE0NjU5MzcsLTE0Mzc1MTYyMzEsODIzMDIzNzEs
-ODcyNTg3NTA1LC00ODUwNDI0MDYsLTE1NzkyMDMyMDQsMTg3OD
-g2NjE4OCwtODYwMTIxMjczLDE2NjU1ODI5MjcsLTk0MTUzODI1
-NF19
+eyJoaXN0b3J5IjpbLTE0NzgyODg4OTEsOTc5OTI0ODcsMTc0Nz
+E5MTgxOCwxNDM4MDg1MDczLDE0MTk1MzM3MjYsLTE4MzczNzA5
+MjQsMTYzNDk4Mjc5NSwtMTc0ODQyODQzOCw2MDAxNDI5MjYsMT
+UwMTAxNTM2OSw0OTgwMjcyNSw0NzE0NjU5MzcsLTE0Mzc1MTYy
+MzEsODIzMDIzNzEsODcyNTg3NTA1LC00ODUwNDI0MDYsLTE1Nz
+kyMDMyMDQsMTg3ODg2NjE4OCwtODYwMTIxMjczLDE2NjU1ODI5
+MjddfQ==
 -->
