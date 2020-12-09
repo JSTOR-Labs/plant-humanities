@@ -40,7 +40,7 @@ The attraction of cinnamon – 'true' or other – as a means to enhance the pow
 
 The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
 <param ve-image
-	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner reads in Latin "Primus circumdedisti me" ("You first encircled me").
+	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner reads in Latin 'Primus circumdedisti me' ('You first encircled me')."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	region="">
 
@@ -154,11 +154,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzczNzA5MjQsMTYzNDk4Mjc5NSwtMT
-c0ODQyODQzOCw2MDAxNDI5MjYsMTUwMTAxNTM2OSw0OTgwMjcy
-NSw0NzE0NjU5MzcsLTE0Mzc1MTYyMzEsODIzMDIzNzEsODcyNT
-g3NTA1LC00ODUwNDI0MDYsLTE1NzkyMDMyMDQsMTg3ODg2NjE4
-OCwtODYwMTIxMjczLDE2NjU1ODI5MjcsLTk0MTUzODI1NCwtMj
-AwNTEzNDEzOCwtMTMyODA4NTE3MywxNDgzNjE3NTQyLDQ0NzAw
-MzY3N119
+eyJoaXN0b3J5IjpbMTQxOTUzMzcyNiwtMTgzNzM3MDkyNCwxNj
+M0OTgyNzk1LC0xNzQ4NDI4NDM4LDYwMDE0MjkyNiwxNTAxMDE1
+MzY5LDQ5ODAyNzI1LDQ3MTQ2NTkzNywtMTQzNzUxNjIzMSw4Mj
+MwMjM3MSw4NzI1ODc1MDUsLTQ4NTA0MjQwNiwtMTU3OTIwMzIw
+NCwxODc4ODY2MTg4LC04NjAxMjEyNzMsMTY2NTU4MjkyNywtOT
+QxNTM4MjU0LC0yMDA1MTM0MTM4LC0xMzI4MDg1MTczLDE0ODM2
+MTc1NDJdfQ==
 -->
