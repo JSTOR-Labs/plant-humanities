@@ -44,7 +44,7 @@ The quest for spices, cinnamon among them, was one of the most important aims th
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	fit="contain">
 
-Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to acquire a share of the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, the Portuguese engaged in 'reluctant imperialism' to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
+Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to get access to the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, the Portuguese engaged in 'reluctant imperialism' to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
 <param ve-map
 	title="Sri Lanka"
 	center="7.792820, 80.750146"
@@ -155,11 +155,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5MjUwMjk5LC0yMDY5MTE1MjY3LC0xMz
-k3NzAxMzc4LC0xNTY3ODYyMTQwLDU3NjM0ODEzOSwtODUyMjEz
-MzY0LDE3NjExMDgwNSwxNDMzOTU3OTUsLTE1Mzk1MjI4NzEsMT
-IxNTgzNjYxNiwtMTQ3ODI4ODg5MSw5Nzk5MjQ4NywxNzQ3MTkx
-ODE4LDE0MzgwODUwNzMsMTQxOTUzMzcyNiwtMTgzNzM3MDkyNC
-wxNjM0OTgyNzk1LC0xNzQ4NDI4NDM4LDYwMDE0MjkyNiwxNTAx
-MDE1MzY5XX0=
+eyJoaXN0b3J5IjpbLTg1NzQ1NzcyOSwtMjA2OTExNTI2NywtMT
+M5NzcwMTM3OCwtMTU2Nzg2MjE0MCw1NzYzNDgxMzksLTg1MjIx
+MzM2NCwxNzYxMTA4MDUsMTQzMzk1Nzk1LC0xNTM5NTIyODcxLD
+EyMTU4MzY2MTYsLTE0NzgyODg4OTEsOTc5OTI0ODcsMTc0NzE5
+MTgxOCwxNDM4MDg1MDczLDE0MTk1MzM3MjYsLTE4MzczNzA5Mj
+QsMTYzNDk4Mjc5NSwtMTc0ODQyODQzOCw2MDAxNDI5MjYsMTUw
+MTAxNTM2OV19
 -->
