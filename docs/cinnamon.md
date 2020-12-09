@@ -48,7 +48,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 <param ve-map
 	title="Sri Lanka"
 	center="7.792820, 80.750146"
-	zoom="7.">
+	zoom="7.6">
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -155,11 +155,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3Mzg0MTYzMywtODUyMjEzMzY0LDE3Nj
-ExMDgwNSwxNDMzOTU3OTUsLTE1Mzk1MjI4NzEsMTIxNTgzNjYx
-NiwtMTQ3ODI4ODg5MSw5Nzk5MjQ4NywxNzQ3MTkxODE4LDE0Mz
-gwODUwNzMsMTQxOTUzMzcyNiwtMTgzNzM3MDkyNCwxNjM0OTgy
-Nzk1LC0xNzQ4NDI4NDM4LDYwMDE0MjkyNiwxNTAxMDE1MzY5LD
-Q5ODAyNzI1LDQ3MTQ2NTkzNywtMTQzNzUxNjIzMSw4MjMwMjM3
-MV19
+eyJoaXN0b3J5IjpbNTc2MzQ4MTM5LC04NTIyMTMzNjQsMTc2MT
+EwODA1LDE0MzM5NTc5NSwtMTUzOTUyMjg3MSwxMjE1ODM2NjE2
+LC0xNDc4Mjg4ODkxLDk3OTkyNDg3LDE3NDcxOTE4MTgsMTQzOD
+A4NTA3MywxNDE5NTMzNzI2LC0xODM3MzcwOTI0LDE2MzQ5ODI3
+OTUsLTE3NDg0Mjg0MzgsNjAwMTQyOTI2LDE1MDEwMTUzNjksND
+k4MDI3MjUsNDcxNDY1OTM3LC0xNDM3NTE2MjMxLDgyMzAyMzcx
+XX0=
 -->
