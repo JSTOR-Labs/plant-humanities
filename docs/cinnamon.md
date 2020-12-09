@@ -50,7 +50,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	center="7.792820, 80.750146"
 	zoom="7.6">
 
-The Dutch made even stronger
+The Dutch ha
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -157,7 +157,7 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDk5OTgzMSwtMjA2OTExNTI2NywtMT
+eyJoaXN0b3J5IjpbLTI2NzQ4Njc0OSwtMjA2OTExNTI2NywtMT
 M5NzcwMTM3OCwtMTU2Nzg2MjE0MCw1NzYzNDgxMzksLTg1MjIx
 MzM2NCwxNzYxMTA4MDUsMTQzMzk1Nzk1LC0xNTM5NTIyODcxLD
 EyMTU4MzY2MTYsLTE0NzgyODg4OTEsOTc5OTI0ODcsMTc0NzE5
