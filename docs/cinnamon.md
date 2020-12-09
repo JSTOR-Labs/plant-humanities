@@ -50,7 +50,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	center="7.792820, 80.750146"
 	zoom="7.6">
 
-The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They already signed a treaty with the king of Kandy in 1638, hoping this would give them a share of of the cinnamon trade, which was still dominated by the Portuguese at the time. The Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658. The Dutch now controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior.
+The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They already signed a treaty with the king of Kandy in 1638, hoping this would give them a share of of the cinnamon trade, which was still dominated by the Portuguese at the time. The Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658. The Dutch now controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The rela
 
 About cinnamon harvesting
 <param ve-image
@@ -165,11 +165,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ5MzgzMjIsLTExNDMzMTc2NDMsLT
-EzMzU5NzUyNjAsMTMxOTExODk2NywtNTg4MjkzMjI2LC0xMDgy
-NTMyODUyLC0xNTY2Nzk3NzE1LC0yMDY5MTE1MjY3LC0xMzk3Nz
-AxMzc4LC0xNTY3ODYyMTQwLDU3NjM0ODEzOSwtODUyMjEzMzY0
-LDE3NjExMDgwNSwxNDMzOTU3OTUsLTE1Mzk1MjI4NzEsMTIxNT
-gzNjYxNiwtMTQ3ODI4ODg5MSw5Nzk5MjQ4NywxNzQ3MTkxODE4
-LDE0MzgwODUwNzNdfQ==
+eyJoaXN0b3J5IjpbLTIwNTA4Mjc4NDMsLTE4ODQ5MzgzMjIsLT
+ExNDMzMTc2NDMsLTEzMzU5NzUyNjAsMTMxOTExODk2NywtNTg4
+MjkzMjI2LC0xMDgyNTMyODUyLC0xNTY2Nzk3NzE1LC0yMDY5MT
+E1MjY3LC0xMzk3NzAxMzc4LC0xNTY3ODYyMTQwLDU3NjM0ODEz
+OSwtODUyMjEzMzY0LDE3NjExMDgwNSwxNDMzOTU3OTUsLTE1Mz
+k1MjI4NzEsMTIxNTgzNjYxNiwtMTQ3ODI4ODg5MSw5Nzk5MjQ4
+NywxNzQ3MTkxODE4XX0=
 -->
