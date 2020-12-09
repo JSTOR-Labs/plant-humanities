@@ -50,7 +50,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	center="7.792820, 80.750146"
 	zoom="7.6">
 
-The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They already signed a treaty with the king of Kandy in 1638, hoping this would give them a share of of the cinnamon trade, which was still dominated by the Portuguese at the time. The Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658. The Dutch now controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. Harvesters were specialized laborers from the _Salagama_ caste (als known as _saliya_ or _chaliya_). The Dutch maintained and intensified Cinnamon trees were scattered throughout the island, so harvesters often had to cross Portuguese and
+The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They already signed a treaty with the king of Kandy in 1638, hoping this would give them a share of of the cinnamon trade, which was still dominated by the Portuguese at the time. The Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658. The Dutch now controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. The Dutch intensified the existing process of cinnamon harvesting. Harvesters were specialized laborers from the _Salagama_ caste (als known as _saliya_ or _chaliya_).  Cinnamon trees were scattered throughout the forests of the island, so harvesters often had to cross Portuguese and, later, Kandian territory to reach area
 
 About cinnamon harvesting
 <param ve-image
@@ -165,11 +165,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTEyMTY4MCwtMTgwMDc4MTQ1MiwtMT
-g4NDkzODMyMiwtMTE0MzMxNzY0MywtMTMzNTk3NTI2MCwxMzE5
-MTE4OTY3LC01ODgyOTMyMjYsLTEwODI1MzI4NTIsLTE1NjY3OT
-c3MTUsLTIwNjkxMTUyNjcsLTEzOTc3MDEzNzgsLTE1Njc4NjIx
-NDAsNTc2MzQ4MTM5LC04NTIyMTMzNjQsMTc2MTEwODA1LDE0Mz
-M5NTc5NSwtMTUzOTUyMjg3MSwxMjE1ODM2NjE2LC0xNDc4Mjg4
-ODkxLDk3OTkyNDg3XX0=
+eyJoaXN0b3J5IjpbLTEwNzI0MDA1ODQsLTE4MDA3ODE0NTIsLT
+E4ODQ5MzgzMjIsLTExNDMzMTc2NDMsLTEzMzU5NzUyNjAsMTMx
+OTExODk2NywtNTg4MjkzMjI2LC0xMDgyNTMyODUyLC0xNTY2Nz
+k3NzE1LC0yMDY5MTE1MjY3LC0xMzk3NzAxMzc4LC0xNTY3ODYy
+MTQwLDU3NjM0ODEzOSwtODUyMjEzMzY0LDE3NjExMDgwNSwxND
+MzOTU3OTUsLTE1Mzk1MjI4NzEsMTIxNTgzNjYxNiwtMTQ3ODI4
+ODg5MSw5Nzk5MjQ4N119
 -->
