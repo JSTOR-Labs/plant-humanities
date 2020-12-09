@@ -32,7 +32,7 @@ A second, and much more surprising reason for the long-lasting confusion over ci
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
 
 ### Cinnamon as a tool of empire
-Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. But the attraction of cinnamon – 'true' or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
+The attraction of cinnamon – 'true' or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predated the early modern period. For instance, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
 <param ve-image
 	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding a branch and a bundle of cinnamon sticks, and standing next to a camel. Note that this coin was found on the opposite side of the Roman empire, in Yorkshire, Britain."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
@@ -44,7 +44,7 @@ The quest for spices, cinnamon among them, was one of the most important aims th
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	region="">
 
-Using cinnamon as a means to increase the prestige of an individual or a state is one thing. Managing the production and trade of the spice is quite another. In the sixteenth century, the Portuguese made humble attempts to create a monopoly on the cinnamon trade, They soon realized that this was impossible without getting involved in local politics on the island. Local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals.[^ref8]
+Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. In the sixteenth century, the Portuguese made humble attempts to create a monopoly on the cinnamon trade, They soon realized that this was impossible without getting involved in local politics on the island. Local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals.[^ref8]
 <param ve-map
 	title="Sri Lanka"
 	center="Q854">
@@ -154,11 +154,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQyODEzMzksLTE3NDg0Mjg0MzgsNj
-AwMTQyOTI2LDE1MDEwMTUzNjksNDk4MDI3MjUsNDcxNDY1OTM3
-LC0xNDM3NTE2MjMxLDgyMzAyMzcxLDg3MjU4NzUwNSwtNDg1MD
-QyNDA2LC0xNTc5MjAzMjA0LDE4Nzg4NjYxODgsLTg2MDEyMTI3
-MywxNjY1NTgyOTI3LC05NDE1MzgyNTQsLTIwMDUxMzQxMzgsLT
-EzMjgwODUxNzMsMTQ4MzYxNzU0Miw0NDcwMDM2NzcsMTg5NjM0
-MzgyMl19
+eyJoaXN0b3J5IjpbMTYzNDk4Mjc5NSwtMTc0ODQyODQzOCw2MD
+AxNDI5MjYsMTUwMTAxNTM2OSw0OTgwMjcyNSw0NzE0NjU5Mzcs
+LTE0Mzc1MTYyMzEsODIzMDIzNzEsODcyNTg3NTA1LC00ODUwND
+I0MDYsLTE1NzkyMDMyMDQsMTg3ODg2NjE4OCwtODYwMTIxMjcz
+LDE2NjU1ODI5MjcsLTk0MTUzODI1NCwtMjAwNTEzNDEzOCwtMT
+MyODA4NTE3MywxNDgzNjE3NTQyLDQ0NzAwMzY3NywxODk2MzQz
+ODIyXX0=
 -->
