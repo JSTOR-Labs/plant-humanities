@@ -38,7 +38,7 @@ The attraction of cinnamon – 'true' or other – as a means to enhance the pow
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1414,152,1586,1031">
 
-The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies for the Spanish kingdom.[^ref6]
+The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies.[^ref6]
 <param ve-image
 	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner covering the globe reads in Latin 'Primus circumdedisti me' ('You first encircled me')."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
@@ -154,11 +154,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzk1Nzk1LC0xNTM5NTIyODcxLDEyMT
-U4MzY2MTYsLTE0NzgyODg4OTEsOTc5OTI0ODcsMTc0NzE5MTgx
-OCwxNDM4MDg1MDczLDE0MTk1MzM3MjYsLTE4MzczNzA5MjQsMT
-YzNDk4Mjc5NSwtMTc0ODQyODQzOCw2MDAxNDI5MjYsMTUwMTAx
-NTM2OSw0OTgwMjcyNSw0NzE0NjU5MzcsLTE0Mzc1MTYyMzEsOD
-IzMDIzNzEsODcyNTg3NTA1LC00ODUwNDI0MDYsLTE1NzkyMDMy
-MDRdfQ==
+eyJoaXN0b3J5IjpbMzEwNzg1ODA0LDE0MzM5NTc5NSwtMTUzOT
+UyMjg3MSwxMjE1ODM2NjE2LC0xNDc4Mjg4ODkxLDk3OTkyNDg3
+LDE3NDcxOTE4MTgsMTQzODA4NTA3MywxNDE5NTMzNzI2LC0xOD
+M3MzcwOTI0LDE2MzQ5ODI3OTUsLTE3NDg0Mjg0MzgsNjAwMTQy
+OTI2LDE1MDEwMTUzNjksNDk4MDI3MjUsNDcxNDY1OTM3LC0xND
+M3NTE2MjMxLDgyMzAyMzcxLDg3MjU4NzUwNSwtNDg1MDQyNDA2
+XX0=
 -->
