@@ -60,7 +60,7 @@ Peelers were specialized laborers from the Singalese caste _Salagama_ (also know
 	title="test2"
 	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg">
 
-The tight restrictions of the Dutch on cinnamon production and export 
+The factight restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished.
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -169,7 +169,7 @@ In ieder geval toevoegen:
 
 [^ref9]: Lodewijk Wagenaar, _Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_. Transl. by Steve Green and Michael Blass (Amsterdam: Rijksmuseum / Nijmegen: Vantilt Publishers 2016) 149-157.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzY2ODE4MCw3MTgwMjkxNzQsLTcxMj
+eyJoaXN0b3J5IjpbLTI3MTg5MjQ2OCw3MTgwMjkxNzQsLTcxMj
 kyODYyNCw0Mjc4MTI1NjAsNjA4MTg0NTEwLC0yMTQxMTM3Njc3
 LC01ODQwMDMwMTYsMTQxNDYyOTc2NywtMTgwMDc4MTQ1MiwtMT
 g4NDkzODMyMiwtMTE0MzMxNzY0MywtMTMzNTk3NTI2MCwxMzE5
