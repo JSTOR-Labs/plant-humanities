@@ -52,7 +52,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 
 The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658, the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. The Dutch intensified the process of cinnamon harvesting. Cinnamon trees were scattered throughout the forests of the island, so groups of local harvesters often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of harvesters, there was little they could do when harvesters chose, or were forced to, switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave harvesters alone, in order not to interrupt the supply of cinnamon.
 
-Harvesters were specialized laborers from the Singalese caste _Salagama_ (also known as _Saliya_ or _Chaliya_).
+Harvesters were specialized laborers from the Singalese caste _Salagama_ (also known as _Saliya_ or _Chaliya_). Although they knew they were indispensable for the cinnamon trade, they were treated harshly by the Dutch.
 <param ve-image
 	title="test1"
 	url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kaneel%2C_nootmuskaat%2C_kruidnagel_en_bamboe_Kaneel_en_Nootmus_Canelle%2C_Muscade%2C_Chasse_des_Elephans%2C_etc_Kruytnagelengewas_Girofle%2C_Bambous%2C_Montagne_brulante%2C_etc_%28titel_op_object%29_Les_Indes_Orientales_et_Occidentales_e%2C_BI-1972-1043-16.jpg">
@@ -165,11 +165,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDYyOTc2NywtMTgwMDc4MTQ1MiwtMT
-g4NDkzODMyMiwtMTE0MzMxNzY0MywtMTMzNTk3NTI2MCwxMzE5
-MTE4OTY3LC01ODgyOTMyMjYsLTEwODI1MzI4NTIsLTE1NjY3OT
-c3MTUsLTIwNjkxMTUyNjcsLTEzOTc3MDEzNzgsLTE1Njc4NjIx
-NDAsNTc2MzQ4MTM5LC04NTIyMTMzNjQsMTc2MTEwODA1LDE0Mz
-M5NTc5NSwtMTUzOTUyMjg3MSwxMjE1ODM2NjE2LC0xNDc4Mjg4
-ODkxLDk3OTkyNDg3XX0=
+eyJoaXN0b3J5IjpbLTcxMDU4MTk5MiwxNDE0NjI5NzY3LC0xOD
+AwNzgxNDUyLC0xODg0OTM4MzIyLC0xMTQzMzE3NjQzLC0xMzM1
+OTc1MjYwLDEzMTkxMTg5NjcsLTU4ODI5MzIyNiwtMTA4MjUzMj
+g1MiwtMTU2Njc5NzcxNSwtMjA2OTExNTI2NywtMTM5NzcwMTM3
+OCwtMTU2Nzg2MjE0MCw1NzYzNDgxMzksLTg1MjIxMzM2NCwxNz
+YxMTA4MDUsMTQzMzk1Nzk1LC0xNTM5NTIyODcxLDEyMTU4MzY2
+MTYsLTE0NzgyODg4OTFdfQ==
 -->
