@@ -47,7 +47,8 @@ The quest for spices, cinnamon among them, was one of the most important aims th
 Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to acquire a share of the cinnamon trade. In the sixteenth century, the Portuguese made humble attempts to create a monopoly. They soon realized that this was impossible without getting involved in local politics on the island. Local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals.[^ref8]
 <param ve-map
 	title="Sri Lanka"
-	center="Q854">
+	center="Q854"
+	zoom="8">
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -154,11 +155,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwNzg1ODA0LDE0MzM5NTc5NSwtMTUzOT
-UyMjg3MSwxMjE1ODM2NjE2LC0xNDc4Mjg4ODkxLDk3OTkyNDg3
-LDE3NDcxOTE4MTgsMTQzODA4NTA3MywxNDE5NTMzNzI2LC0xOD
-M3MzcwOTI0LDE2MzQ5ODI3OTUsLTE3NDg0Mjg0MzgsNjAwMTQy
-OTI2LDE1MDEwMTUzNjksNDk4MDI3MjUsNDcxNDY1OTM3LC0xND
-M3NTE2MjMxLDgyMzAyMzcxLDg3MjU4NzUwNSwtNDg1MDQyNDA2
-XX0=
+eyJoaXN0b3J5IjpbMTYwNDY3MjMwOCwxNDMzOTU3OTUsLTE1Mz
+k1MjI4NzEsMTIxNTgzNjYxNiwtMTQ3ODI4ODg5MSw5Nzk5MjQ4
+NywxNzQ3MTkxODE4LDE0MzgwODUwNzMsMTQxOTUzMzcyNiwtMT
+gzNzM3MDkyNCwxNjM0OTgyNzk1LC0xNzQ4NDI4NDM4LDYwMDE0
+MjkyNiwxNTAxMDE1MzY5LDQ5ODAyNzI1LDQ3MTQ2NTkzNywtMT
+QzNzUxNjIzMSw4MjMwMjM3MSw4NzI1ODc1MDUsLTQ4NTA0MjQw
+Nl19
 -->
