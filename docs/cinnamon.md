@@ -165,13 +165,13 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 
-[^ref9]: 
+[^ref9]: Lodewijk Wagenaar, _Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_. Transl. by S. Green and M. Blass (Amsterdam: Rijksmuseum / Nijmegen: Vantilt Publishers 2016)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk5NTM0NTAsLTcxMjkyODYyNCw0Mj
-c4MTI1NjAsNjA4MTg0NTEwLC0yMTQxMTM3Njc3LC01ODQwMDMw
-MTYsMTQxNDYyOTc2NywtMTgwMDc4MTQ1MiwtMTg4NDkzODMyMi
-wtMTE0MzMxNzY0MywtMTMzNTk3NTI2MCwxMzE5MTE4OTY3LC01
-ODgyOTMyMjYsLTEwODI1MzI4NTIsLTE1NjY3OTc3MTUsLTIwNj
-kxMTUyNjcsLTEzOTc3MDEzNzgsLTE1Njc4NjIxNDAsNTc2MzQ4
-MTM5LC04NTIyMTMzNjRdfQ==
+eyJoaXN0b3J5IjpbLTcyMTgxMzU2NCwtNzEyOTI4NjI0LDQyNz
+gxMjU2MCw2MDgxODQ1MTAsLTIxNDExMzc2NzcsLTU4NDAwMzAx
+NiwxNDE0NjI5NzY3LC0xODAwNzgxNDUyLC0xODg0OTM4MzIyLC
+0xMTQzMzE3NjQzLC0xMzM1OTc1MjYwLDEzMTkxMTg5NjcsLTU4
+ODI5MzIyNiwtMTA4MjUzMjg1MiwtMTU2Njc5NzcxNSwtMjA2OT
+ExNTI2NywtMTM5NzcwMTM3OCwtMTU2Nzg2MjE0MCw1NzYzNDgx
+MzksLTg1MjIxMzM2NF19
 -->
