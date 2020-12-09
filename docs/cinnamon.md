@@ -50,7 +50,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	center="7.792820, 80.750146"
 	zoom="7.6">
 
-The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They already signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658, the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. The Dutch intensified the existing process of cinnamon harvesting. Harvesters were specialized laborers from the _Salagama_ caste (als known as _saliya_ or _chaliya_).  Cinnamon trees were scattered throughout the forests of the island, so harvesters often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory or on individual groups of harvesters, there was little they could do when harvesters chose, or were forced to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to 
+The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They already signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658, the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. The Dutch intensified the existing process of cinnamon harvesting. Harvesters were specialized laborers from the _Salagama_ caste (als known as _saliya_ or _chaliya_).  Cinnamon trees were scattered throughout the forests of the island, so harvesters often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory or on individual groups of harvesters, there was little they could do when harvesters chose, or were forced to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave harvesters alone and thus not interrupt the supply of cinnamon.
 
 About cinnamon harvesting
 <param ve-image
@@ -165,11 +165,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwNjE5MTE4LC0xODAwNzgxNDUyLC0xOD
-g0OTM4MzIyLC0xMTQzMzE3NjQzLC0xMzM1OTc1MjYwLDEzMTkx
-MTg5NjcsLTU4ODI5MzIyNiwtMTA4MjUzMjg1MiwtMTU2Njc5Nz
-cxNSwtMjA2OTExNTI2NywtMTM5NzcwMTM3OCwtMTU2Nzg2MjE0
-MCw1NzYzNDgxMzksLTg1MjIxMzM2NCwxNzYxMTA4MDUsMTQzMz
-k1Nzk1LC0xNTM5NTIyODcxLDEyMTU4MzY2MTYsLTE0NzgyODg4
-OTEsOTc5OTI0ODddfQ==
+eyJoaXN0b3J5IjpbLTExMTc2ODg2MzIsLTE4MDA3ODE0NTIsLT
+E4ODQ5MzgzMjIsLTExNDMzMTc2NDMsLTEzMzU5NzUyNjAsMTMx
+OTExODk2NywtNTg4MjkzMjI2LC0xMDgyNTMyODUyLC0xNTY2Nz
+k3NzE1LC0yMDY5MTE1MjY3LC0xMzk3NzAxMzc4LC0xNTY3ODYy
+MTQwLDU3NjM0ODEzOSwtODUyMjEzMzY0LDE3NjExMDgwNSwxND
+MzOTU3OTUsLTE1Mzk1MjI4NzEsMTIxNTgzNjYxNiwtMTQ3ODI4
+ODg5MSw5Nzk5MjQ4N119
 -->
