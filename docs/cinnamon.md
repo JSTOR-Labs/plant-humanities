@@ -42,9 +42,9 @@ The quest for spices, cinnamon among them, was one of the most important aims th
 <param ve-image
 	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner covering the globe reads in Latin 'Primus circumdedisti me' ('You first encircled me')."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
-	fit="true">
+	fit="contain">
 
-Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain control of the island, which would mean a _de facto_ monopoly on the cinnamon trade. In the sixteenth century, the Portuguese made humble attempts to create a monopoly on the cinnamon trade, They soon realized that this was impossible without getting involved in local politics on the island. Local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals.[^ref8]
+Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to acquire a share of the cinnamon trade. In the sixteenth century, the Portuguese made humble attempts to create a monopoly. They soon realized that this was impossible without getting involved in local politics on the island. Local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals.[^ref8]
 <param ve-map
 	title="Sri Lanka"
 	center="Q854">
@@ -154,11 +154,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ0MzAxMzQsMTQzODA4NTA3MywxND
-E5NTMzNzI2LC0xODM3MzcwOTI0LDE2MzQ5ODI3OTUsLTE3NDg0
-Mjg0MzgsNjAwMTQyOTI2LDE1MDEwMTUzNjksNDk4MDI3MjUsND
-cxNDY1OTM3LC0xNDM3NTE2MjMxLDgyMzAyMzcxLDg3MjU4NzUw
-NSwtNDg1MDQyNDA2LC0xNTc5MjAzMjA0LDE4Nzg4NjYxODgsLT
-g2MDEyMTI3MywxNjY1NTgyOTI3LC05NDE1MzgyNTQsLTIwMDUx
-MzQxMzhdfQ==
+eyJoaXN0b3J5IjpbMTc0NzE5MTgxOCwxNDM4MDg1MDczLDE0MT
+k1MzM3MjYsLTE4MzczNzA5MjQsMTYzNDk4Mjc5NSwtMTc0ODQy
+ODQzOCw2MDAxNDI5MjYsMTUwMTAxNTM2OSw0OTgwMjcyNSw0Nz
+E0NjU5MzcsLTE0Mzc1MTYyMzEsODIzMDIzNzEsODcyNTg3NTA1
+LC00ODUwNDI0MDYsLTE1NzkyMDMyMDQsMTg3ODg2NjE4OCwtOD
+YwMTIxMjczLDE2NjU1ODI5MjcsLTk0MTUzODI1NCwtMjAwNTEz
+NDEzOF19
 -->
