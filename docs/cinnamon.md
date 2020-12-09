@@ -52,7 +52,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 
 The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658, the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. The Dutch intensified the process of cinnamon harvesting. Cinnamon trees were scattered throughout the forests of the island, so groups of local harvesters often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of harvesters, there was little they could do when harvesters chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave harvesters alone, in order not to interrupt the supply of cinnamon.
 
-Harvesters were specialized laborers from the Singalese caste _Salagama_ (also known as _Saliya_ or _Chaliya_). Although their skills were indispensable for the cinnamon trade, they were treated harshly by the Dutch. Each year, harvesters gathered in Colombo to pledge loyalty to the Dutch governor (a ceremony called _paresse_). There was a long harvesting season for cinnamon between May and August, and a short one between January and February. On both occassions, groups of men were sent off into the woods with nothing but paring knives and an amount of rice. They had to provide for other necessities themselves. Each man was obliged to bring back 12 _robes_ (of 56 pounds each) at the end of the summer season. Boys from 12 years of age had to contribute proportionally. Although Dutch sources
+Harvesters were specialized laborers from the Singalese caste _Salagama_ (also known as _Saliya_ or _Chaliya_). Although their skills were indispensable for the cinnamon trade, they were treated harshly by the Dutch. Each year, harvesters gathered in Colombo to pledge loyalty to the Dutch governor (a ceremony called _paresse_). There was a long harvesting season for cinnamon between May and August, and a short one between January and February. On both occassions, groups of men were sent off into the woods with nothing but paring knives and an amount of rice. They had to provide for other necessities themselves. Each man was obliged to bring back 12 _robes_ (of 56 pounds each) at the end of the summer season. Boys from 12 years of age had to contribute proportionally. Although Dutch sources often complained about 
 <param ve-image
 	title="test1"
 	url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kaneel%2C_nootmuskaat%2C_kruidnagel_en_bamboe_Kaneel_en_Nootmus_Canelle%2C_Muscade%2C_Chasse_des_Elephans%2C_etc_Kruytnagelengewas_Girofle%2C_Bambous%2C_Montagne_brulante%2C_etc_%28titel_op_object%29_Les_Indes_Orientales_et_Occidentales_e%2C_BI-1972-1043-16.jpg">
@@ -165,11 +165,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjkyODYyNCw0Mjc4MTI1NjAsNjA4MT
-g0NTEwLC0yMTQxMTM3Njc3LC01ODQwMDMwMTYsMTQxNDYyOTc2
-NywtMTgwMDc4MTQ1MiwtMTg4NDkzODMyMiwtMTE0MzMxNzY0My
-wtMTMzNTk3NTI2MCwxMzE5MTE4OTY3LC01ODgyOTMyMjYsLTEw
-ODI1MzI4NTIsLTE1NjY3OTc3MTUsLTIwNjkxMTUyNjcsLTEzOT
-c3MDEzNzgsLTE1Njc4NjIxNDAsNTc2MzQ4MTM5LC04NTIyMTMz
-NjQsMTc2MTEwODA1XX0=
+eyJoaXN0b3J5IjpbLTEyOTY4MjAyMjMsLTcxMjkyODYyNCw0Mj
+c4MTI1NjAsNjA4MTg0NTEwLC0yMTQxMTM3Njc3LC01ODQwMDMw
+MTYsMTQxNDYyOTc2NywtMTgwMDc4MTQ1MiwtMTg4NDkzODMyMi
+wtMTE0MzMxNzY0MywtMTMzNTk3NTI2MCwxMzE5MTE4OTY3LC01
+ODgyOTMyMjYsLTEwODI1MzI4NTIsLTE1NjY3OTc3MTUsLTIwNj
+kxMTUyNjcsLTEzOTc3MDEzNzgsLTE1Njc4NjIxNDAsNTc2MzQ4
+MTM5LC04NTIyMTMzNjRdfQ==
 -->
