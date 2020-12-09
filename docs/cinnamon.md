@@ -50,7 +50,12 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	center="7.792820, 80.750146"
 	zoom="7.6">
 
-The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They already signed a treaty with the king of Kandy in 1638, hoping this would give them a share of of the cinnamon trade. 
+The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They already signed a treaty with the king of Kandy in 1638, hoping this would give them a share of of the cinnamon trade.
+
+About cinnamon harvesting
+<param ve-image
+	title="test"
+	url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kaneel%2C_nootmuskaat%2C_kruidnagel_en_bamboe_Kaneel_en_Nootmus_Canelle%2C_Muscade%2C_Chasse_des_Elephans%2C_etc_Kruytnagelengewas_Girofle%2C_Bambous%2C_Montagne_brulante%2C_etc_%28titel_op_object%29_Les_Indes_Orientales_et_Occidentales_e%2C_BI-1972-1043-16.jpg">
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -157,11 +162,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI1MzI4NTIsLTE1NjY3OTc3MTUsLT
-IwNjkxMTUyNjcsLTEzOTc3MDEzNzgsLTE1Njc4NjIxNDAsNTc2
-MzQ4MTM5LC04NTIyMTMzNjQsMTc2MTEwODA1LDE0MzM5NTc5NS
-wtMTUzOTUyMjg3MSwxMjE1ODM2NjE2LC0xNDc4Mjg4ODkxLDk3
-OTkyNDg3LDE3NDcxOTE4MTgsMTQzODA4NTA3MywxNDE5NTMzNz
-I2LC0xODM3MzcwOTI0LDE2MzQ5ODI3OTUsLTE3NDg0Mjg0Mzgs
-NjAwMTQyOTI2XX0=
+eyJoaXN0b3J5IjpbLTU4ODI5MzIyNiwtMTA4MjUzMjg1MiwtMT
+U2Njc5NzcxNSwtMjA2OTExNTI2NywtMTM5NzcwMTM3OCwtMTU2
+Nzg2MjE0MCw1NzYzNDgxMzksLTg1MjIxMzM2NCwxNzYxMTA4MD
+UsMTQzMzk1Nzk1LC0xNTM5NTIyODcxLDEyMTU4MzY2MTYsLTE0
+NzgyODg4OTEsOTc5OTI0ODcsMTc0NzE5MTgxOCwxNDM4MDg1MD
+czLDE0MTk1MzM3MjYsLTE4MzczNzA5MjQsMTYzNDk4Mjc5NSwt
+MTc0ODQyODQzOF19
 -->
