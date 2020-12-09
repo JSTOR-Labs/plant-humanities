@@ -50,7 +50,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	center="7.792820, 80.750146"
 	zoom="7.6">
 
-The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They already signed a treaty with the king of Kandy in 1638, hoping this would give them a share of of the cinnamon trade, which was still dominated by the Portuguese at the time. The Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658. The Dutch now controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of kandy was strained.
+The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They already signed a treaty with the king of Kandy in 1638, hoping this would give them a share of of the cinnamon trade, which was still dominated by the Portuguese at the time. The Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658. The Dutch now controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. Harvesters were 
 
 About cinnamon harvesting
 <param ve-image
@@ -108,7 +108,7 @@ Cinnamon in the Spanish (Atlantic) world
 	Mallari (F.) 1974
 	Skowronek (R.K.) 2016
 	Bleichmar (D.) 2012 (pp.123-126)
-	see also http://www.theplantlist.org/tpl1.1/record/kew-2721453, because # _Cinnamomum_  _mindanaense_ is a synonym of _Cinnamomum_  _burmanni_
+	see also http://www.theplantlist.org/tpl1.1/record/kew-2721453, because # _Cinnamomum_ _mindanaense_ is a synonym of _Cinnamomum_ _burmanni_
 
 Efforts of transplantation and acclimatization
 	- Cinnamon in Rio de Janeiro botanical garden (google die even)
@@ -143,7 +143,7 @@ Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 14): lezen!
 Turner (S.), Monnerat (M.) & Slack (P.) 2019 (uncertain prospects for cinnamon farmers in Vietnam)
 
 In ieder geval toevoegen:
-#Salagama  (Q3469487), also known als saliya or chaliya
+#Salagama (Q3469487), also known als saliya or chaliya
 
 # Verder vanaf Samaraweera (V.) 19s
 
@@ -165,11 +165,11 @@ In ieder geval toevoegen:
 
 [^ref8]: Zoltán Biedermann, "The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)", _Journal of Early Modern History_, 13:4 (2009) 265-310.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzAyODc1OCwtMTg4NDkzODMyMiwtMT
-E0MzMxNzY0MywtMTMzNTk3NTI2MCwxMzE5MTE4OTY3LC01ODgy
-OTMyMjYsLTEwODI1MzI4NTIsLTE1NjY3OTc3MTUsLTIwNjkxMT
-UyNjcsLTEzOTc3MDEzNzgsLTE1Njc4NjIxNDAsNTc2MzQ4MTM5
-LC04NTIyMTMzNjQsMTc2MTEwODA1LDE0MzM5NTc5NSwtMTUzOT
-UyMjg3MSwxMjE1ODM2NjE2LC0xNDc4Mjg4ODkxLDk3OTkyNDg3
-LDE3NDcxOTE4MThdfQ==
+eyJoaXN0b3J5IjpbLTEyMzY1MzA3MTgsLTE4ODQ5MzgzMjIsLT
+ExNDMzMTc2NDMsLTEzMzU5NzUyNjAsMTMxOTExODk2NywtNTg4
+MjkzMjI2LC0xMDgyNTMyODUyLC0xNTY2Nzk3NzE1LC0yMDY5MT
+E1MjY3LC0xMzk3NzAxMzc4LC0xNTY3ODYyMTQwLDU3NjM0ODEz
+OSwtODUyMjEzMzY0LDE3NjExMDgwNSwxNDMzOTU3OTUsLTE1Mz
+k1MjI4NzEsMTIxNTgzNjYxNiwtMTQ3ODI4ODg5MSw5Nzk5MjQ4
+NywxNzQ3MTkxODE4XX0=
 -->
