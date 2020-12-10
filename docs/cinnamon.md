@@ -61,7 +61,7 @@ Peelers were specialized laborers from the Singalese caste _Salagama_ (also know
 	title="Imaginary landscapes with spices from the East Indies. On the left can be seen a nutmeg tree, a cinnamon tree, and an elephant chase in the background. On the right can be seen a cloves tree and bamboo, with the volcano Ternate in the back. Etching by Romeyn de Hooghe, produced between 1682 and 1733. Rijksmuseum, Amsterdam, object no. BI-1972-1043-16, serial no. 10/41."
 	url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kaneel%2C_nootmuskaat%2C_kruidnagel_en_bamboe_Kaneel_en_Nootmus_Canelle%2C_Muscade%2C_Chasse_des_Elephans%2C_etc_Kruytnagelengewas_Girofle%2C_Bambous%2C_Montagne_brulante%2C_etc_%28titel_op_object%29_Les_Indes_Orientales_et_Occidentales_e%2C_BI-1972-1043-16.jpg">
 <param ve-image
-	title="Peeling cinnamon on Ceylon. Anonymous copperplate print, "
+	title="Peeling cinnamon on Ceylon. Anonymous copperplate print, produced c. 1672"
 	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg">
 
 The restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest to create a temporary cultivated field (called a _chena_). Under Dutch rule, they were no longer allowed to practice species circulation on a _chena_ once the plot was planted with cinnamon, so as not to diminish the total acreage. But Pieter van Dam, long-term secretary of the VOC, calculated around 1700 that Sri Lanka produced more than enough cinnamon to supply European and international markets. This makes the suppression of _chena_ practices seem all the more exploitative.[^ref11]
@@ -182,11 +182,11 @@ In ieder geval toevoegen:
 
 [^ref11]: Wagenaar, _Cinnamon & Elephants_, 150, 153.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2MzIzMzYzLC0xMDI1MTk2MDM2LDExOD
-g3NzQ1NzcsLTIwMTAxNDgwOSwtMjgxMjU0NjY3LDcxODAyOTE3
-NCwtNzEyOTI4NjI0LDQyNzgxMjU2MCw2MDgxODQ1MTAsLTIxND
-ExMzc2NzcsLTU4NDAwMzAxNiwxNDE0NjI5NzY3LC0xODAwNzgx
-NDUyLC0xODg0OTM4MzIyLC0xMTQzMzE3NjQzLC0xMzM1OTc1Mj
-YwLDEzMTkxMTg5NjcsLTU4ODI5MzIyNiwtMTA4MjUzMjg1Miwt
-MTU2Njc5NzcxNV19
+eyJoaXN0b3J5IjpbLTEzMTY3OTg3NzQsLTEwMjUxOTYwMzYsMT
+E4ODc3NDU3NywtMjAxMDE0ODA5LC0yODEyNTQ2NjcsNzE4MDI5
+MTc0LC03MTI5Mjg2MjQsNDI3ODEyNTYwLDYwODE4NDUxMCwtMj
+E0MTEzNzY3NywtNTg0MDAzMDE2LDE0MTQ2Mjk3NjcsLTE4MDA3
+ODE0NTIsLTE4ODQ5MzgzMjIsLTExNDMzMTc2NDMsLTEzMzU5Nz
+UyNjAsMTMxOTExODk2NywtNTg4MjkzMjI2LC0xMDgyNTMyODUy
+LC0xNTY2Nzk3NzE1XX0=
 -->
