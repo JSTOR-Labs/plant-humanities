@@ -51,6 +51,10 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	zoom="7.6">
 
 The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658, the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. The Dutch intensified the process of cinnamon peeling. Cinnamon trees were scattered throughout the forests of the island, so groups of local peelers often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of peelers, there was little they could do when peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave peelers alone, in order not to interrupt the supply of cinnamon.
+<param ve-map
+	title="Sri Lanka"
+	center="7.792820, 80.750146"
+	zoom="7.6">
 
 Peelers were specialized laborers from the Singalese caste _Salagama_ (also known as _Saliya_ or _Chaliya_). Although their skills were indispensable for the cinnamon trade, they were treated harshly by the Dutch. Each year, the peelers gathered in Colombo to pledge loyalty to the Dutch governor (a ceremony called _paresse_). There was a long peeling season for cinnamon between May and August, and a short one between January and February. On both occassions, groups of men were sent off into the woods with nothing but paring knives and an amount of rice. Each man was obliged to bring back 12 _robes_ (of 56 pounds each) at the end of the summer season. Boys from 12 years of age had to contribute proportionally. Dutch sources often complained about peelers as lazy and unreliable, but the peelers had a hard life. They were away from home for months, had to provide for themselves while working in the forests, where they were subject to diseases, and they were severely punished if they did not meet their quotum.[^ref9]
 <param ve-image
@@ -62,10 +66,10 @@ Peelers were specialized laborers from the Singalese caste _Salagama_ (also know
 
 The restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest to create a temporary cultivated field (called a _chena_). Under Dutch rule, they were no longer allowed to practice species circulation on a _chena_ once the plot was planted with cinnamon, so as not to diminish the total acreage. But Pieter van Dam, long-term secretary of the VOC, calculated around 1700 that Sri Lanka produced more than enough cinnamon to supply European and international markets. This makes the suppression of _chena_ practices seem all the more exploitative.[^ref11]
 <param ve-image
-	title="test2"
-	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg">
+	title="test"
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
 
-
+dus
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -178,11 +182,11 @@ In ieder geval toevoegen:
 
 [^ref11]: Wagenaar, _Cinnamon & Elephants_, 150, 153.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTcxMDE0OCwxMTg4Nzc0NTc3LC0yMD
-EwMTQ4MDksLTI4MTI1NDY2Nyw3MTgwMjkxNzQsLTcxMjkyODYy
-NCw0Mjc4MTI1NjAsNjA4MTg0NTEwLC0yMTQxMTM3Njc3LC01OD
-QwMDMwMTYsMTQxNDYyOTc2NywtMTgwMDc4MTQ1MiwtMTg4NDkz
-ODMyMiwtMTE0MzMxNzY0MywtMTMzNTk3NTI2MCwxMzE5MTE4OT
-Y3LC01ODgyOTMyMjYsLTEwODI1MzI4NTIsLTE1NjY3OTc3MTUs
-LTIwNjkxMTUyNjddfQ==
+eyJoaXN0b3J5IjpbLTEwMjUxOTYwMzYsMTE4ODc3NDU3NywtMj
+AxMDE0ODA5LC0yODEyNTQ2NjcsNzE4MDI5MTc0LC03MTI5Mjg2
+MjQsNDI3ODEyNTYwLDYwODE4NDUxMCwtMjE0MTEzNzY3NywtNT
+g0MDAzMDE2LDE0MTQ2Mjk3NjcsLTE4MDA3ODE0NTIsLTE4ODQ5
+MzgzMjIsLTExNDMzMTc2NDMsLTEzMzU5NzUyNjAsMTMxOTExOD
+k2NywtNTg4MjkzMjI2LC0xMDgyNTMyODUyLC0xNTY2Nzk3NzE1
+LC0yMDY5MTE1MjY3XX0=
 -->
