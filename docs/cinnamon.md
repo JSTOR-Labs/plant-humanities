@@ -73,7 +73,9 @@ Local grievances about the VOC policy for _chenas_, combined with extortion of p
 
 Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 
-Other states, like Spain, tried – unsuccesfully – to acquire cinnamon trees themselves, or at least to copy Dutch practices for exotic plants in their colonies.[^ref15]
+### Cinnamon and the imagination of empire
+
+Other states were desperate to have cinnamon themselves. This was , like Spain, tried – unsuccesfully – to acquire cinnamon trees themselves, or at least to copy Dutch practices for exotic plants in its colonies.[^ref15]
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -179,11 +181,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTc3MjM1NiwyMDgzOTUzNDU0LDIwOD
-M5NTM0NTQsLTE1MzAxNDM4MzEsLTEwNjc1MTAxNzMsMTMyNjI0
-OTExNiwtNzU3MzUzMDEwLC0yMTMwMjc4NTYsMzY0NDg3NDUwLD
-E3MTgwNjg3MjEsMzQ1NjM0MTkyLDE4NTk2NzQ3NDMsODE5MDUy
-NDU0LDE5NDIwNjY1MjcsLTEzMTY3OTg3NzQsLTEwMjUxOTYwMz
-YsMTE4ODc3NDU3NywtMjAxMDE0ODA5LC0yODEyNTQ2NjcsNzE4
-MDI5MTc0XX0=
+eyJoaXN0b3J5IjpbNzYwMzUwMjM2LDIwODM5NTM0NTQsMjA4Mz
+k1MzQ1NCwtMTUzMDE0MzgzMSwtMTA2NzUxMDE3MywxMzI2MjQ5
+MTE2LC03NTczNTMwMTAsLTIxMzAyNzg1NiwzNjQ0ODc0NTAsMT
+cxODA2ODcyMSwzNDU2MzQxOTIsMTg1OTY3NDc0Myw4MTkwNTI0
+NTQsMTk0MjA2NjUyNywtMTMxNjc5ODc3NCwtMTAyNTE5NjAzNi
+wxMTg4Nzc0NTc3LC0yMDEwMTQ4MDksLTI4MTI1NDY2Nyw3MTgw
+MjkxNzRdfQ==
 -->
