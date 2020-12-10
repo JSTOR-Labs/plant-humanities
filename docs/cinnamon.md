@@ -71,6 +71,9 @@ The restrictions of the Dutch on cinnamon production and export made it the only
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
 
 Local grievances about the VOC policy for _chenas_, combined with extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war may have caused the Dutch to rethink their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with 'cinnamon gardens' (_kaneeltuinen_), which amounted to nothing less than a succesful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees (!) by 1794.[^ref12] The success was short-lived, however. When the British took over control of the Dutch terittories on Sri Lanka in 1796, they failed to maintain the success of the cinnamon plantation economy. Calls for free trade and better working conditions for peelers, high export duties, and competition of cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But the measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea production, thus ending the success of cinnamon production for years to come.[^ref13]
+<param ve-image
+	title="test"
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
 
 Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine, he was reprimanded in 1675 by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 
@@ -167,11 +170,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyODIzMTc3LC0xNDEwNDQxMzg3LC0yMD
-E1ODUxNzU3LDE4NDkwMjA2ODksMjA4Mzk1MzQ1NCwyMDgzOTUz
-NDU0LC0xNTMwMTQzODMxLC0xMDY3NTEwMTczLDEzMjYyNDkxMT
-YsLTc1NzM1MzAxMCwtMjEzMDI3ODU2LDM2NDQ4NzQ1MCwxNzE4
-MDY4NzIxLDM0NTYzNDE5MiwxODU5Njc0NzQzLDgxOTA1MjQ1NC
-wxOTQyMDY2NTI3LC0xMzE2Nzk4Nzc0LC0xMDI1MTk2MDM2LDEx
-ODg3NzQ1NzddfQ==
+eyJoaXN0b3J5IjpbLTE2MDcxNjI1NzcsMjgyODIzMTc3LC0xND
+EwNDQxMzg3LC0yMDE1ODUxNzU3LDE4NDkwMjA2ODksMjA4Mzk1
+MzQ1NCwyMDgzOTUzNDU0LC0xNTMwMTQzODMxLC0xMDY3NTEwMT
+czLDEzMjYyNDkxMTYsLTc1NzM1MzAxMCwtMjEzMDI3ODU2LDM2
+NDQ4NzQ1MCwxNzE4MDY4NzIxLDM0NTYzNDE5MiwxODU5Njc0Nz
+QzLDgxOTA1MjQ1NCwxOTQyMDY2NTI3LC0xMzE2Nzk4Nzc0LC0x
+MDI1MTk2MDM2XX0=
 -->
