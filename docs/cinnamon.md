@@ -175,15 +175,15 @@ In ieder geval toevoegen:
 
 [^ref13]: Samaraweera, "The Cinnamon Trade of Ceylon".
 
-[^ref14]: Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press 2007) 310-317.
+[^ref14]: Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press 2007) 310-317; and Johan Heniger, _Hendrik Adriaan van Reede tot Drakenstein (1636-1691) and Hortus Malabaricus: A Contribution to the History of Dutch Colonial Botany (Rotterdam and Boston: A.A. Balkema 1986).
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzAxNDM4MzEsLTEwNjc1MTAxNzMsMT
-MyNjI0OTExNiwtNzU3MzUzMDEwLC0yMTMwMjc4NTYsMzY0NDg3
-NDUwLDE3MTgwNjg3MjEsMzQ1NjM0MTkyLDE4NTk2NzQ3NDMsOD
-E5MDUyNDU0LDE5NDIwNjY1MjcsLTEzMTY3OTg3NzQsLTEwMjUx
-OTYwMzYsMTE4ODc3NDU3NywtMjAxMDE0ODA5LC0yODEyNTQ2Nj
-csNzE4MDI5MTc0LC03MTI5Mjg2MjQsNDI3ODEyNTYwLDYwODE4
-NDUxMF19
+eyJoaXN0b3J5IjpbMjkxMzEwMjE5LC0xNTMwMTQzODMxLC0xMD
+Y3NTEwMTczLDEzMjYyNDkxMTYsLTc1NzM1MzAxMCwtMjEzMDI3
+ODU2LDM2NDQ4NzQ1MCwxNzE4MDY4NzIxLDM0NTYzNDE5MiwxOD
+U5Njc0NzQzLDgxOTA1MjQ1NCwxOTQyMDY2NTI3LC0xMzE2Nzk4
+Nzc0LC0xMDI1MTk2MDM2LDExODg3NzQ1NzcsLTIwMTAxNDgwOS
+wtMjgxMjU0NjY3LDcxODAyOTE3NCwtNzEyOTI4NjI0LDQyNzgx
+MjU2MF19
 -->
