@@ -60,7 +60,7 @@ Peelers were specialized laborers from the Singalese caste _Salagama_ (also know
 	title="test2"
 	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg">
 
-The restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt i
+The restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -171,11 +171,11 @@ In ieder geval toevoegen:
 
 [^ref10]: S. Arasaratnam, "Dutch Commercial Policy in Ceylon and its Effects on the Indo-Ceylon Trade (1690-1750)", _Indian Economic & Social History Review_, 4:2 (1967) 109-130
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzMTM4NDc3LC0yODEyNTQ2NjcsNzE4MD
-I5MTc0LC03MTI5Mjg2MjQsNDI3ODEyNTYwLDYwODE4NDUxMCwt
-MjE0MTEzNzY3NywtNTg0MDAzMDE2LDE0MTQ2Mjk3NjcsLTE4MD
-A3ODE0NTIsLTE4ODQ5MzgzMjIsLTExNDMzMTc2NDMsLTEzMzU5
-NzUyNjAsMTMxOTExODk2NywtNTg4MjkzMjI2LC0xMDgyNTMyOD
-UyLC0xNTY2Nzk3NzE1LC0yMDY5MTE1MjY3LC0xMzk3NzAxMzc4
-LC0xNTY3ODYyMTQwXX0=
+eyJoaXN0b3J5IjpbLTIwMTAxNDgwOSwtMjgxMjU0NjY3LDcxOD
+AyOTE3NCwtNzEyOTI4NjI0LDQyNzgxMjU2MCw2MDgxODQ1MTAs
+LTIxNDExMzc2NzcsLTU4NDAwMzAxNiwxNDE0NjI5NzY3LC0xOD
+AwNzgxNDUyLC0xODg0OTM4MzIyLC0xMTQzMzE3NjQzLC0xMzM1
+OTc1MjYwLDEzMTkxMTg5NjcsLTU4ODI5MzIyNiwtMTA4MjUzMj
+g1MiwtMTU2Njc5NzcxNSwtMjA2OTExNTI2NywtMTM5NzcwMTM3
+OCwtMTU2Nzg2MjE0MF19
 -->
