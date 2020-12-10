@@ -69,7 +69,7 @@ The restrictions of the Dutch on cinnamon production and export made it the only
 	title="test"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
 
-dus
+Local grievances about the 
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -182,11 +182,11 @@ In ieder geval toevoegen:
 
 [^ref11]: Wagenaar, _Cinnamon & Elephants_, 150, 153.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTY3NDc0Myw4MTkwNTI0NTQsMTk0Mj
-A2NjUyNywtMTMxNjc5ODc3NCwtMTAyNTE5NjAzNiwxMTg4Nzc0
-NTc3LC0yMDEwMTQ4MDksLTI4MTI1NDY2Nyw3MTgwMjkxNzQsLT
-cxMjkyODYyNCw0Mjc4MTI1NjAsNjA4MTg0NTEwLC0yMTQxMTM3
-Njc3LC01ODQwMDMwMTYsMTQxNDYyOTc2NywtMTgwMDc4MTQ1Mi
-wtMTg4NDkzODMyMiwtMTE0MzMxNzY0MywtMTMzNTk3NTI2MCwx
-MzE5MTE4OTY3XX0=
+eyJoaXN0b3J5IjpbMTg5NzIxMjcwNSwxODU5Njc0NzQzLDgxOT
+A1MjQ1NCwxOTQyMDY2NTI3LC0xMzE2Nzk4Nzc0LC0xMDI1MTk2
+MDM2LDExODg3NzQ1NzcsLTIwMTAxNDgwOSwtMjgxMjU0NjY3LD
+cxODAyOTE3NCwtNzEyOTI4NjI0LDQyNzgxMjU2MCw2MDgxODQ1
+MTAsLTIxNDExMzc2NzcsLTU4NDAwMzAxNiwxNDE0NjI5NzY3LC
+0xODAwNzgxNDUyLC0xODg0OTM4MzIyLC0xMTQzMzE3NjQzLC0x
+MzM1OTc1MjYwXX0=
 -->
