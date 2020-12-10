@@ -15,7 +15,8 @@ In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although
 	title="test"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
 	
-### Forgotten knowledge and fabricated history
+### 
+Forgotten knowledge and fabricated history
 Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same as those found in the East Indies in the sixteenth century, to which those names were attached. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
 <param ve-image
 	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
@@ -31,7 +32,8 @@ A second, and much more surprising reason for the long-lasting confusion over ci
 	title="test"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
 
-### Cinnamon as a tool of empire
+### 
+Cinnamon as a tool of empire
 The attraction of cinnamon – 'true' or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predates the early modern period. For example, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
 <param ve-image
 	title="Reverse side of a Roman coin from the reign of emperor Trajan (reigned 98-117 CE), showing a female personification of Arabia, holding a branch and a bundle of cinnamon sticks, and standing next to a camel. Note that this coin was found on the opposite side of the Roman empire, in Yorkshire, Britain."
@@ -63,7 +65,8 @@ Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also know
 <param ve-image
 	title="Peeling cinnamon on Ceylon. Anonymous copperplate print, from Philippus Baldaeus, _Naauwkeurige beschryvinge van Malabar en Choromandel, derzelver aangrenzende ryken en het machtige eyland Ceylon_ (Amsterdam: Johannes Janssonius van Waasberge 1672) 195."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg"
-	fit="contain">
+	fit="containtest"
+	url="NL-HaNA_4.VEL_939A-klein.jpg">
 
 The restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest to create a temporary cultivated field (called a _chena_). Under Dutch rule, they were no longer allowed to practice species circulation on a _chena_ once the plot was planted with cinnamon, so as not to diminish the total acreage. But Pieter van Dam, long-term secretary of the VOC, calculated around 1700 that Sri Lanka produced more than enough cinnamon to supply European and international markets. This makes the suppression of _chena_ practices seem all the more exploitative.[^ref11]
 <param ve-image
@@ -79,63 +82,63 @@ Local grievances about the VOC policy for _chenas_, combined with extortion of p
 Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine, he was reprimanded in 1675 by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 
 Empire was not
-Alinea over Paul Hermann, herbaria, mislukte plantjes exporteren, misschien Linnaeus? Misschien zelfs Koerner noemen? Hermann (P.) 1687 (failed attempt in Dutch gardens). Paul Hermann / Linnaeus? Andel (T.) & Barth (N.) 2018. Jarvis (C.E.) 2007.
+ Alinea over Paul Hermann, herbaria, mislukte plantjes exporteren, misschien Linnaeus? Misschien zelfs Koerner noemen? Hermann (P.) 1687 (failed attempt in Dutch gardens). Paul Hermann / Linnaeus? Andel (T.) & Barth (N.) 2018. Jarvis (C.E.) 2007.
 
 ### Cinnamon and the imagination of empire
 
 Other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – unsuccesfully – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref15]
 
 Orta
-	- Eigen ervaring van planten die uit de oudheid bekend waren
-	Orta (G.) 1913 (let op: digib ubi dusseldorf heeft een IIIF manifest)
-	Fontes da Costa (P.) 2015 (art Ornelas e Castro)
-	- 	afbeeldingen in Orta en Clusius (mooi linkjes naar BHL zowel Orta (G.) 1567 als Clusius (C.) 1605)
-	Fontes da Costa (P.) 2015 (art Ornelas e Castro)
+	 - Eigen ervaring van planten die uit de oudheid bekend waren
+	 Orta (G.) 1913 (let op: digib ubi dusseldorf heeft een IIIF manifest)
+	 Fontes da Costa (P.) 2015 (art Ornelas e Castro)
+	 - 	afbeeldingen in Orta en Clusius (mooi linkjes naar BHL zowel Orta (G.) 1567 als Clusius (C.) 1605)
+	 Fontes da Costa (P.) 2015 (art Ornelas e Castro)
 
 Cinnamon in the Spanish (Atlantic) world
-	- Dutch exports of cinnamon to Spain and Spanish world
-	Israel (J.I.) 1989
-	- Chocolate drink in Spanish Atlantic world
-	Aram (B.) & Yun-Casalilla (B.) 2014 (art Fattacciu)
-	- Spanish efforts to find cinnamon in the New World
-	Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
-	Delbourgo (J.) & Dew (N.) 2008a.pdf (art Safier over Pizzarro en Orellana, later Jussieu)
-	Burdick (C.E.) 2014
-	- Publishing cinnamon knowledge (Hernández expedition)
-	Freedberg (D.) 2002 (zou bruggetje kunnen zijn vanuit Orta)
-	- Cinnamon production of the Philippines
-	Mallari (F.) 1974
-	Skowronek (R.K.) 2016
-	Bleichmar (D.) 2012 (pp.123-126)
-	see also http://www.theplantlist.org/tpl1.1/record/kew-2721453, because # _Cinnamomum_ _mindanaense_ is a synonym of _Cinnamomum_ _burmanni_
+	 - Dutch exports of cinnamon to Spain and Spanish world
+	 Israel (J.I.) 1989
+	 - Chocolate drink in Spanish Atlantic world
+	 Aram (B.) & Yun-Casalilla (B.) 2014 (art Fattacciu)
+	 - Spanish efforts to find cinnamon in the New World
+	 Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
+	 Delbourgo (J.) & Dew (N.) 2008a.pdf (art Safier over Pizzarro en Orellana, later Jussieu)
+	 Burdick (C.E.) 2014
+	 - Publishing cinnamon knowledge (Hernández expedition)
+	 Freedberg (D.) 2002 (zou bruggetje kunnen zijn vanuit Orta)
+	 - Cinnamon production of the Philippines
+	 Mallari (F.) 1974
+	 Skowronek (R.K.) 2016
+	 Bleichmar (D.) 2012 (pp.123-126)
+	 see also http://www.theplantlist.org/tpl1.1/record/kew-2721453, because # _Cinnamomum_ _ mindanaense_ is a synonym of _Cinnamomum_ _ burmanni_
 
 Efforts of transplantation and acclimatization
-	- Cinnamon in Rio de Janeiro botanical garden (google die even)
-	Ricardo (L.M.) 2018
-	Zumbroich (T.J.) 2005
+	 - Cinnamon in Rio de Janeiro botanical garden (google die even)
+	 Ricardo (L.M.) 2018
+	 Zumbroich (T.J.) 2005
 
 Medicinal uses
-Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 11)
-Ranasinghe (P.) 2013
-Oketch‐Rabah (H.A.), Marles (R.J.) & Brinckmann (J.A.) 2018 (botanical ambiguity in ascertaining medicinal properties)
+ Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 11)
+ Ranasinghe (P.) 2013
+ Oketch‐Rabah (H.A.), Marles (R.J.) & Brinckmann (J.A.) 2018 (botanical ambiguity in ascertaining medicinal properties)
 
 Modern distribution
-CABI:
-https://www.cabi.org/isc/datasheet/13573
-Kew, Plants of the World Online
-http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1
+ CABI:
+ https://www.cabi.org/isc/datasheet/13573
+ Kew, Plants of the World Online
+ http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1
 
 
 Kaneelhandel vandaag de dag
-Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 12)
-http://www.worldstopexports.com/cinnamon-exporters/
+ Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 12)
+ http://www.worldstopexports.com/cinnamon-exporters/
 
 Future of cinnamon
-Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 14): lezen!
-Turner (S.), Monnerat (M.) & Slack (P.) 2019 (uncertain prospects for cinnamon farmers in Vietnam)
+ Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 14): lezen!
+ Turner (S.), Monnerat (M.) & Slack (P.) 2019 (uncertain prospects for cinnamon farmers in Vietnam)
 
 In ieder geval toevoegen:
-#Salagama (Q3469487), also known als saliya or chaliya
+ #Salagama (Q3469487), also known als saliya or chaliya
 
 # Verder vanaf Samaraweera (V.) 19s
 
@@ -170,3 +173,6 @@ In ieder geval toevoegen:
 [^ref14]: Johan Heniger, _Hendrik Adriaan van Reede tot Drakenstein (1636-1691) and Hortus Malabaricus: A Contribution to the History of Dutch Colonial Botany_ (Rotterdam and Boston: A.A. Balkema 1986) 37-38; and Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press 2007) 310-317.
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyMTUyMzg3NDNdfQ==
+-->
