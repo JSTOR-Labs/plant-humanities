@@ -62,7 +62,8 @@ Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also know
 	url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kaneel%2C_nootmuskaat%2C_kruidnagel_en_bamboe_Kaneel_en_Nootmus_Canelle%2C_Muscade%2C_Chasse_des_Elephans%2C_etc_Kruytnagelengewas_Girofle%2C_Bambous%2C_Montagne_brulante%2C_etc_%28titel_op_object%29_Les_Indes_Orientales_et_Occidentales_e%2C_BI-1972-1043-16.jpg">
 <param ve-image
 	title="Peeling cinnamon on Ceylon. Anonymous copperplate print, from Philippus Baldaeus, _Naauwkeurige beschryvinge van Malabar en Choromandel, derzelver aangrenzende ryken en het machtige eyland Ceylon_ (Amsterdam: Johannes Janssonius van Waasberge 1672) 195."
-	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg">
+	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg"
+	fit="contain">
 
 The restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest to create a temporary cultivated field (called a _chena_). Under Dutch rule, they were no longer allowed to practice species circulation on a _chena_ once the plot was planted with cinnamon, so as not to diminish the total acreage. But Pieter van Dam, long-term secretary of the VOC, calculated around 1700 that Sri Lanka produced more than enough cinnamon to supply European and international markets. This makes the suppression of _chena_ practices seem all the more exploitative.[^ref11]
 <param ve-image
@@ -166,11 +167,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTA0NDEzODcsLTIwMTU4NTE3NTcsMT
-g0OTAyMDY4OSwyMDgzOTUzNDU0LDIwODM5NTM0NTQsLTE1MzAx
-NDM4MzEsLTEwNjc1MTAxNzMsMTMyNjI0OTExNiwtNzU3MzUzMD
-EwLC0yMTMwMjc4NTYsMzY0NDg3NDUwLDE3MTgwNjg3MjEsMzQ1
-NjM0MTkyLDE4NTk2NzQ3NDMsODE5MDUyNDU0LDE5NDIwNjY1Mj
-csLTEzMTY3OTg3NzQsLTEwMjUxOTYwMzYsMTE4ODc3NDU3Nywt
-MjAxMDE0ODA5XX0=
+eyJoaXN0b3J5IjpbMjgyODIzMTc3LC0xNDEwNDQxMzg3LC0yMD
+E1ODUxNzU3LDE4NDkwMjA2ODksMjA4Mzk1MzQ1NCwyMDgzOTUz
+NDU0LC0xNTMwMTQzODMxLC0xMDY3NTEwMTczLDEzMjYyNDkxMT
+YsLTc1NzM1MzAxMCwtMjEzMDI3ODU2LDM2NDQ4NzQ1MCwxNzE4
+MDY4NzIxLDM0NTYzNDE5MiwxODU5Njc0NzQzLDgxOTA1MjQ1NC
+wxOTQyMDY2NTI3LC0xMzE2Nzk4Nzc0LC0xMDI1MTk2MDM2LDEx
+ODg3NzQ1NzddfQ==
 -->
