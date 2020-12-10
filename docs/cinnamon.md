@@ -73,6 +73,7 @@ Local grievances about the VOC policy for _chenas_, combined with extortion of p
 
 Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine, he was reprimanded in 1675 by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 
+Empire was not
 Alinea over Paul Hermann, herbaria, mislukte plantjes exporteren, misschien Linnaeus? Misschien zelfs Koerner noemen? Hermann (P.) 1687 (failed attempt in Dutch gardens). Paul Hermann / Linnaeus? Andel (T.) & Barth (N.) 2018. Jarvis (C.E.) 2007.
 
 ### Cinnamon and the imagination of empire
@@ -165,11 +166,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODAxNjI3NSwtMjAxNTg1MTc1NywxOD
-Q5MDIwNjg5LDIwODM5NTM0NTQsMjA4Mzk1MzQ1NCwtMTUzMDE0
-MzgzMSwtMTA2NzUxMDE3MywxMzI2MjQ5MTE2LC03NTczNTMwMT
-AsLTIxMzAyNzg1NiwzNjQ0ODc0NTAsMTcxODA2ODcyMSwzNDU2
-MzQxOTIsMTg1OTY3NDc0Myw4MTkwNTI0NTQsMTk0MjA2NjUyNy
-wtMTMxNjc5ODc3NCwtMTAyNTE5NjAzNiwxMTg4Nzc0NTc3LC0y
-MDEwMTQ4MDldfQ==
+eyJoaXN0b3J5IjpbLTE0MTA0NDEzODcsLTIwMTU4NTE3NTcsMT
+g0OTAyMDY4OSwyMDgzOTUzNDU0LDIwODM5NTM0NTQsLTE1MzAx
+NDM4MzEsLTEwNjc1MTAxNzMsMTMyNjI0OTExNiwtNzU3MzUzMD
+EwLC0yMTMwMjc4NTYsMzY0NDg3NDUwLDE3MTgwNjg3MjEsMzQ1
+NjM0MTkyLDE4NTk2NzQ3NDMsODE5MDUyNDU0LDE5NDIwNjY1Mj
+csLTEzMTY3OTg3NzQsLTEwMjUxOTYwMzYsMTE4ODc3NDU3Nywt
+MjAxMDE0ODA5XX0=
 -->
