@@ -71,9 +71,9 @@ The restrictions of the Dutch on cinnamon production and export made it the only
 
 Local grievances about the VOC policy for _chenas_, combined with extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war may have caused the Dutch to rethink their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with 'cinnamon gardens' (_kaneeltuinen_), which amounted to nothing less than a succesful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees (!) by 1794.[^ref12] The success was short-lived, however. When the British took over control of the Dutch terittories on Sri Lanka in 1796, they failed to maintain the success of the cinnamon plantation economy. Calls for free trade and better working conditions for peelers, high export duties, and competition of cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But the measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea production, thus ending the success of cinnamon production for years to come.[^ref13]
 
-Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. But in fact, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.
+Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. But in fact, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 
-Other states, like Spain, tried – unsuccesfully – to acquire cinnamon trees themselves, or at least to copy Dutch practices for exotic plants in their colonies.[^ref14] 
+Other states, like Spain, tried – unsuccesfully – to acquire cinnamon trees themselves, or at least to copy Dutch practices for exotic plants in their colonies.[^ref15]
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -121,12 +121,6 @@ Efforts of transplantation and acclimatization
 	Ricardo (L.M.) 2018
 	Hermann (P.) 1687 (failed attempt in Dutch gardens)
 	Zumbroich (T.J.) 2005
-
-Handel vóór de Portugezen
-Bouchon (G.) 1990
-
-Portrugezen
-Biedermann (Z.) 2009
 
 Medicinal uses
 Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 11)
@@ -181,9 +175,11 @@ In ieder geval toevoegen:
 
 [^ref13]: Samaraweera, "The Cinnamon Trade of Ceylon".
 
-[^ref14]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
+[^ref14]: dus
+
+[^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTUzMzI3MDIsLTEwNjc1MTAxNzMsMT
+eyJoaXN0b3J5IjpbLTE5NzIyNzUzNDcsLTEwNjc1MTAxNzMsMT
 MyNjI0OTExNiwtNzU3MzUzMDEwLC0yMTMwMjc4NTYsMzY0NDg3
 NDUwLDE3MTgwNjg3MjEsMzQ1NjM0MTkyLDE4NTk2NzQ3NDMsOD
 E5MDUyNDU0LDE5NDIwNjY1MjcsLTEzMTY3OTg3NzQsLTEwMjUx
