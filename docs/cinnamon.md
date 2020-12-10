@@ -60,7 +60,7 @@ Peelers were specialized laborers from the Singalese caste _Salagama_ (also know
 	title="test2"
 	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg">
 
-The restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon
+The restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -171,11 +171,11 @@ In ieder geval toevoegen:
 
 [^ref10]: S. Arasaratnam, "Dutch Commercial Policy in Ceylon and its Effects on the Indo-Ceylon Trade (1690-1750)", _Indian Economic & Social History Review_, 4:2 (1967) 109-130
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTAxNDgwOSwtMjgxMjU0NjY3LDcxOD
-AyOTE3NCwtNzEyOTI4NjI0LDQyNzgxMjU2MCw2MDgxODQ1MTAs
-LTIxNDExMzc2NzcsLTU4NDAwMzAxNiwxNDE0NjI5NzY3LC0xOD
-AwNzgxNDUyLC0xODg0OTM4MzIyLC0xMTQzMzE3NjQzLC0xMzM1
-OTc1MjYwLDEzMTkxMTg5NjcsLTU4ODI5MzIyNiwtMTA4MjUzMj
-g1MiwtMTU2Njc5NzcxNSwtMjA2OTExNTI2NywtMTM5NzcwMTM3
-OCwtMTU2Nzg2MjE0MF19
+eyJoaXN0b3J5IjpbLTUzODExMjIyOSwtMjAxMDE0ODA5LC0yOD
+EyNTQ2NjcsNzE4MDI5MTc0LC03MTI5Mjg2MjQsNDI3ODEyNTYw
+LDYwODE4NDUxMCwtMjE0MTEzNzY3NywtNTg0MDAzMDE2LDE0MT
+Q2Mjk3NjcsLTE4MDA3ODE0NTIsLTE4ODQ5MzgzMjIsLTExNDMz
+MTc2NDMsLTEzMzU5NzUyNjAsMTMxOTExODk2NywtNTg4MjkzMj
+I2LC0xMDgyNTMyODUyLC0xNTY2Nzk3NzE1LC0yMDY5MTE1MjY3
+LC0xMzk3NzAxMzc4XX0=
 -->
