@@ -20,9 +20,6 @@ Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinna
 <param ve-image
 	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
 	manifest="https://iiif.lib.harvard.edu/manifests/ids:18040817">
-<param ve-image
-	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
-	url="">
 	
 How could this confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, European scholars writing about cinnamon would turn to classical, not medieval sources, to understand the spice and its properties. They managed to resolve the discrepancies they found between classical descriptions of the spice and the plant that was found in Sri Lanka. In his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations and classical authors' descriptions of cinnamon by the fact that the latter had only known the processed spice, not the actual plant.[^ref3]
 <param ve-image
@@ -185,11 +182,11 @@ In ieder geval toevoegen:
 
 [^ref11]: Wagenaar, _Cinnamon & Elephants_, 150, 153.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5MDUyNDU0LDE5NDIwNjY1MjcsLTEzMT
-Y3OTg3NzQsLTEwMjUxOTYwMzYsMTE4ODc3NDU3NywtMjAxMDE0
-ODA5LC0yODEyNTQ2NjcsNzE4MDI5MTc0LC03MTI5Mjg2MjQsND
-I3ODEyNTYwLDYwODE4NDUxMCwtMjE0MTEzNzY3NywtNTg0MDAz
-MDE2LDE0MTQ2Mjk3NjcsLTE4MDA3ODE0NTIsLTE4ODQ5MzgzMj
-IsLTExNDMzMTc2NDMsLTEzMzU5NzUyNjAsMTMxOTExODk2Nywt
-NTg4MjkzMjI2XX0=
+eyJoaXN0b3J5IjpbMTg1OTY3NDc0Myw4MTkwNTI0NTQsMTk0Mj
+A2NjUyNywtMTMxNjc5ODc3NCwtMTAyNTE5NjAzNiwxMTg4Nzc0
+NTc3LC0yMDEwMTQ4MDksLTI4MTI1NDY2Nyw3MTgwMjkxNzQsLT
+cxMjkyODYyNCw0Mjc4MTI1NjAsNjA4MTg0NTEwLC0yMTQxMTM3
+Njc3LC01ODQwMDMwMTYsMTQxNDYyOTc2NywtMTgwMDc4MTQ1Mi
+wtMTg4NDkzODMyMiwtMTE0MzMxNzY0MywtMTMzNTk3NTI2MCwx
+MzE5MTE4OTY3XX0=
 -->
