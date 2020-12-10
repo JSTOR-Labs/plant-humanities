@@ -69,7 +69,7 @@ The restrictions of the Dutch on cinnamon production and export made it the only
 	title="test"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
 
-Local grievances about the VOC policy for _chenas_, combined with extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war may have caused the Dutch to reconsider their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with 'cinnamon gardens' (_kaneeltuinen_), which amounted to nothing less than a succesful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees (!) by 1794.[^ref12] The success was short-lived, however. When the British took over control of Sri Lanka in 
+Local grievances about the VOC policy for _chenas_, combined with extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war may have caused the Dutch to reconsider their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with 'cinnamon gardens' (_kaneeltuinen_), which amounted to nothing less than a succesful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees (!) by 1794.[^ref12] The success was short-lived, however. When the British took over control of the Dutch terittories on Sri Lanka ain 1796, they tried to
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -184,11 +184,11 @@ In ieder geval toevoegen:
 
 [^ref12]: Wagenaar, _Cinnamon & Elephants_, 155.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0OTQ3NTEzLDE4NTk2NzQ3NDMsODE5MD
-UyNDU0LDE5NDIwNjY1MjcsLTEzMTY3OTg3NzQsLTEwMjUxOTYw
-MzYsMTE4ODc3NDU3NywtMjAxMDE0ODA5LC0yODEyNTQ2NjcsNz
-E4MDI5MTc0LC03MTI5Mjg2MjQsNDI3ODEyNTYwLDYwODE4NDUx
-MCwtMjE0MTEzNzY3NywtNTg0MDAzMDE2LDE0MTQ2Mjk3NjcsLT
-E4MDA3ODE0NTIsLTE4ODQ5MzgzMjIsLTExNDMzMTc2NDMsLTEz
-MzU5NzUyNjBdfQ==
+eyJoaXN0b3J5IjpbMTczNjUyNDUwNCwxODU5Njc0NzQzLDgxOT
+A1MjQ1NCwxOTQyMDY2NTI3LC0xMzE2Nzk4Nzc0LC0xMDI1MTk2
+MDM2LDExODg3NzQ1NzcsLTIwMTAxNDgwOSwtMjgxMjU0NjY3LD
+cxODAyOTE3NCwtNzEyOTI4NjI0LDQyNzgxMjU2MCw2MDgxODQ1
+MTAsLTIxNDExMzc2NzcsLTU4NDAwMzAxNiwxNDE0NjI5NzY3LC
+0xODAwNzgxNDUyLC0xODg0OTM4MzIyLC0xMTQzMzE3NjQzLC0x
+MzM1OTc1MjYwXX0=
 -->
