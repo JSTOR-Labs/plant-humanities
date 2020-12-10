@@ -69,7 +69,7 @@ The restrictions of the Dutch on cinnamon production and export made it the only
 	title="test"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
 
-Local grievances about the VOC policy for _chenas_, combined with extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1760. The war may have caused the Dutch to reconsider their approach for cinnamon production. Governor Iman Willem Falck (in office 1765-1785)
+Local grievances about the VOC policy for _chenas_, combined with extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1760. The war may have caused the Dutch to reconsider their approach for cinnamon production. From 1769, governor Iman Willem Falck (in office 1765-1785) secretly began experimenting with 'cinnamon gardens' (_kaneeltuinen_).
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -182,11 +182,11 @@ In ieder geval toevoegen:
 
 [^ref11]: Wagenaar, _Cinnamon & Elephants_, 150, 153.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI1Mjk5NywxODU5Njc0NzQzLDgxOT
-A1MjQ1NCwxOTQyMDY2NTI3LC0xMzE2Nzk4Nzc0LC0xMDI1MTk2
-MDM2LDExODg3NzQ1NzcsLTIwMTAxNDgwOSwtMjgxMjU0NjY3LD
-cxODAyOTE3NCwtNzEyOTI4NjI0LDQyNzgxMjU2MCw2MDgxODQ1
-MTAsLTIxNDExMzc2NzcsLTU4NDAwMzAxNiwxNDE0NjI5NzY3LC
-0xODAwNzgxNDUyLC0xODg0OTM4MzIyLC0xMTQzMzE3NjQzLC0x
-MzM1OTc1MjYwXX0=
+eyJoaXN0b3J5IjpbLTEzNjEzNjU1ODAsMTg1OTY3NDc0Myw4MT
+kwNTI0NTQsMTk0MjA2NjUyNywtMTMxNjc5ODc3NCwtMTAyNTE5
+NjAzNiwxMTg4Nzc0NTc3LC0yMDEwMTQ4MDksLTI4MTI1NDY2Ny
+w3MTgwMjkxNzQsLTcxMjkyODYyNCw0Mjc4MTI1NjAsNjA4MTg0
+NTEwLC0yMTQxMTM3Njc3LC01ODQwMDMwMTYsMTQxNDYyOTc2Ny
+wtMTgwMDc4MTQ1MiwtMTg4NDkzODMyMiwtMTE0MzMxNzY0Mywt
+MTMzNTk3NTI2MF19
 -->
