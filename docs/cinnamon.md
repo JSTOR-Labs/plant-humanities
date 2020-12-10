@@ -60,7 +60,7 @@ Peelers were specialized laborers from the Singalese caste _Salagama_ (also know
 	title="test2"
 	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg">
 
-The restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest to create a temporary cultivated field (called a _chena_). Under Dutch rule, they were no longer allowed to practice species circulation on a _chena_ once the plot was planted with cinnamon, so as not to diminish the total acreage. Pieter van Dam, long-term secretary of the VOC, calculated around 1700 that Sr Lanka produced more than enough cinnamon 
+The restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest to create a temporary cultivated field (called a _chena_). Under Dutch rule, they were no longer allowed to practice species circulation on a _chena_ once the plot was planted with cinnamon, so as not to diminish the total acreage. But Pieter van Dam, long-term secretary of the VOC, calculated around 1700 that Sri Lanka produced more than enough cinnamon to supply European and international markets. 
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -171,11 +171,11 @@ In ieder geval toevoegen:
 
 [^ref10]: S. Arasaratnam, "Dutch Commercial Policy in Ceylon and its Effects on the Indo-Ceylon Trade (1690-1750)", _Indian Economic & Social History Review_, 4:2 (1967) 109-130
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDg0MzIxLDExODg3NzQ1NzcsLTIwMT
-AxNDgwOSwtMjgxMjU0NjY3LDcxODAyOTE3NCwtNzEyOTI4NjI0
-LDQyNzgxMjU2MCw2MDgxODQ1MTAsLTIxNDExMzc2NzcsLTU4ND
-AwMzAxNiwxNDE0NjI5NzY3LC0xODAwNzgxNDUyLC0xODg0OTM4
-MzIyLC0xMTQzMzE3NjQzLC0xMzM1OTc1MjYwLDEzMTkxMTg5Nj
-csLTU4ODI5MzIyNiwtMTA4MjUzMjg1MiwtMTU2Njc5NzcxNSwt
-MjA2OTExNTI2N119
+eyJoaXN0b3J5IjpbLTIxMTI0MjY4ODQsMTE4ODc3NDU3NywtMj
+AxMDE0ODA5LC0yODEyNTQ2NjcsNzE4MDI5MTc0LC03MTI5Mjg2
+MjQsNDI3ODEyNTYwLDYwODE4NDUxMCwtMjE0MTEzNzY3NywtNT
+g0MDAzMDE2LDE0MTQ2Mjk3NjcsLTE4MDA3ODE0NTIsLTE4ODQ5
+MzgzMjIsLTExNDMzMTc2NDMsLTEzMzU5NzUyNjAsMTMxOTExOD
+k2NywtNTg4MjkzMjI2LC0xMDgyNTMyODUyLC0xNTY2Nzk3NzE1
+LC0yMDY5MTE1MjY3XX0=
 -->
