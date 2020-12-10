@@ -60,7 +60,12 @@ Peelers were specialized laborers from the Singalese caste _Salagama_ (also know
 	title="test2"
 	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg">
 
-The restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest to create a temporary cultivated field (called a _chena_). Under Dutch rule, they were no longer allowed to practice species circulation on a _chena_ once the plot was planted with cinnamon, so as not to diminish the total acreage. But Pieter van Dam, long-term secretary of the VOC, calculated around 1700 that Sri Lanka produced more than enough cinnamon to supply European and international markets. This makes the suppression of _chena_ practices seem all the more 
+The restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest to create a temporary cultivated field (called a _chena_). Under Dutch rule, they were no longer allowed to practice species circulation on a _chena_ once the plot was planted with cinnamon, so as not to diminish the total acreage. But Pieter van Dam, long-term secretary of the VOC, calculated around 1700 that Sri Lanka produced more than enough cinnamon to supply European and international markets. This makes the suppression of _chena_ practices seem all the more exploitative.[^ref11]
+<param ve-image
+	title="test2"
+	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg">
+
+
 
 Biblical connotations
 	Duke (J.A.) 2008
@@ -169,9 +174,11 @@ In ieder geval toevoegen:
 
 [^ref9]: Lodewijk Wagenaar, _Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_. Transl. by Steve Green and Michael Blass (Amsterdam: Rijksmuseum / Nijmegen: Vantilt Publishers 2016) 149-157.
 
-[^ref10]: S. Arasaratnam, "Dutch Commercial Policy in Ceylon and its Effects on the Indo-Ceylon Trade (1690-1750)", _Indian Economic & Social History Review_, 4:2 (1967) 109-130
+[^ref10]: S. Arasaratnam, "Dutch Commercial Policy in Ceylon and its Effects on the Indo-Ceylon Trade (1690-1750)", _Indian Economic & Social History Review_, 4:2 (1967) 109-130.
+
+[^ref11]: Wagenaar, _Cinnamon & Elephants_, 150, 153.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjE4OTQ4MCwxMTg4Nzc0NTc3LC0yMD
+eyJoaXN0b3J5IjpbMTQ5MTcxMDE0OCwxMTg4Nzc0NTc3LC0yMD
 EwMTQ4MDksLTI4MTI1NDY2Nyw3MTgwMjkxNzQsLTcxMjkyODYy
 NCw0Mjc4MTI1NjAsNjA4MTg0NTEwLC0yMTQxMTM3Njc3LC01OD
 QwMDMwMTYsMTQxNDYyOTc2NywtMTgwMDc4MTQ1MiwtMTg4NDkz
