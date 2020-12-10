@@ -188,13 +188,13 @@ In ieder geval toevoegen:
 
 [^ref13]: Samaraweera, "The Cinnamon Trade of Ceylon".
 
-[^ref14]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60.
+[^ref14]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0NDg3NDUwLDE3MTgwNjg3MjEsMzQ1Nj
-M0MTkyLDE4NTk2NzQ3NDMsODE5MDUyNDU0LDE5NDIwNjY1Mjcs
-LTEzMTY3OTg3NzQsLTEwMjUxOTYwMzYsMTE4ODc3NDU3NywtMj
-AxMDE0ODA5LC0yODEyNTQ2NjcsNzE4MDI5MTc0LC03MTI5Mjg2
-MjQsNDI3ODEyNTYwLDYwODE4NDUxMCwtMjE0MTEzNzY3NywtNT
-g0MDAzMDE2LDE0MTQ2Mjk3NjcsLTE4MDA3ODE0NTIsLTE4ODQ5
-MzgzMjJdfQ==
+eyJoaXN0b3J5IjpbLTIxMzAyNzg1NiwzNjQ0ODc0NTAsMTcxOD
+A2ODcyMSwzNDU2MzQxOTIsMTg1OTY3NDc0Myw4MTkwNTI0NTQs
+MTk0MjA2NjUyNywtMTMxNjc5ODc3NCwtMTAyNTE5NjAzNiwxMT
+g4Nzc0NTc3LC0yMDEwMTQ4MDksLTI4MTI1NDY2Nyw3MTgwMjkx
+NzQsLTcxMjkyODYyNCw0Mjc4MTI1NjAsNjA4MTg0NTEwLC0yMT
+QxMTM3Njc3LC01ODQwMDMwMTYsMTQxNDYyOTc2NywtMTgwMDc4
+MTQ1Ml19
 -->
