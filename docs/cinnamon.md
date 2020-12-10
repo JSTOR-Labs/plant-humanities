@@ -96,13 +96,6 @@ Paul Hermann / Linnaeus?
 	Andel (T.) & Barth (N.) 2018
 	Jarvis (C.E.) 2007.pdf
 
-Global availability
-	- in Russia
-	Griffin (C.L.) 2018
-
-British efforts to maintain the cinnamon monopoly, and failure
-	Samaraweera (V.) 1971
-
 
 Cinnamon in the Spanish (Atlantic) world
 	- Dutch exports of cinnamon to Spain and Spanish world
@@ -188,7 +181,7 @@ In ieder geval toevoegen:
 
 [^ref14]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzY2Mjg1MywtMjEzMDI3ODU2LDM2ND
+eyJoaXN0b3J5IjpbLTc1NzM1MzAxMCwtMjEzMDI3ODU2LDM2ND
 Q4NzQ1MCwxNzE4MDY4NzIxLDM0NTYzNDE5MiwxODU5Njc0NzQz
 LDgxOTA1MjQ1NCwxOTQyMDY2NTI3LC0xMzE2Nzk4Nzc0LC0xMD
 I1MTk2MDM2LDExODg3NzQ1NzcsLTIwMTAxNDgwOSwtMjgxMjU0
