@@ -71,6 +71,8 @@ The restrictions of the Dutch on cinnamon production and export made it the only
 
 Local grievances about the VOC policy for _chenas_, combined with extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war may have caused the Dutch to rethink their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with 'cinnamon gardens' (_kaneeltuinen_), which amounted to nothing less than a succesful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees (!) by 1794.[^ref12] The success was short-lived, however. When the British took over control of the Dutch terittories on Sri Lanka in 1796, they failed to maintain the success of the cinnamon plantation economy. Calls for free trade and better working conditions for peelers, high export duties, and competition of cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But the measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea production, thus ending the success of cinnamon production for years to come.[^ref13]
 
+Cinnamon was the most succesf
+
 Biblical connotations
 	Duke (J.A.) 2008
 
@@ -184,9 +186,9 @@ In ieder geval toevoegen:
 
 [^ref12]: Wagenaar, _Cinnamon & Elephants_, 155.
 
-[^ref13]: Samaraweera, V., "The Cinnamon Trade of Ceylon", Indian Economic & Social History Review, 8:4 (1971) 415-442
+[^ref13]: Samaraweera, "The Cinnamon Trade of Ceylon".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzk4MTg3MywzNDU2MzQxOTIsMTg1OT
+eyJoaXN0b3J5IjpbLTg5NjgyMzk4NCwzNDU2MzQxOTIsMTg1OT
 Y3NDc0Myw4MTkwNTI0NTQsMTk0MjA2NjUyNywtMTMxNjc5ODc3
 NCwtMTAyNTE5NjAzNiwxMTg4Nzc0NTc3LC0yMDEwMTQ4MDksLT
 I4MTI1NDY2Nyw3MTgwMjkxNzQsLTcxMjkyODYyNCw0Mjc4MTI1
