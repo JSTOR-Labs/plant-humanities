@@ -111,8 +111,6 @@ Cinnamon in the Spanish (Atlantic) world
 	Aram (B.) & Yun-Casalilla (B.) 2014 (art Fattacciu)
 	- Spanish efforts to find cinnamon in the New World
 	Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
-	Bleichmar (D.) 2012 (Mutis)
-	Crawford (M.J.) 2016a.pdf (Mutis)
 	Delbourgo (J.) & Dew (N.) 2008a.pdf (art Safier over Pizzarro en Orellana, later Jussieu)
 	Burdick (C.E.) 2014
 	- Publishing cinnamon knowledge (Hernández expedition)
@@ -190,11 +188,11 @@ In ieder geval toevoegen:
 
 [^ref14]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzAyNzg1NiwzNjQ0ODc0NTAsMTcxOD
-A2ODcyMSwzNDU2MzQxOTIsMTg1OTY3NDc0Myw4MTkwNTI0NTQs
-MTk0MjA2NjUyNywtMTMxNjc5ODc3NCwtMTAyNTE5NjAzNiwxMT
-g4Nzc0NTc3LC0yMDEwMTQ4MDksLTI4MTI1NDY2Nyw3MTgwMjkx
-NzQsLTcxMjkyODYyNCw0Mjc4MTI1NjAsNjA4MTg0NTEwLC0yMT
-QxMTM3Njc3LC01ODQwMDMwMTYsMTQxNDYyOTc2NywtMTgwMDc4
-MTQ1Ml19
+eyJoaXN0b3J5IjpbMTA2NzY2Mjg1MywtMjEzMDI3ODU2LDM2ND
+Q4NzQ1MCwxNzE4MDY4NzIxLDM0NTYzNDE5MiwxODU5Njc0NzQz
+LDgxOTA1MjQ1NCwxOTQyMDY2NTI3LC0xMzE2Nzk4Nzc0LC0xMD
+I1MTk2MDM2LDExODg3NzQ1NzcsLTIwMTAxNDgwOSwtMjgxMjU0
+NjY3LDcxODAyOTE3NCwtNzEyOTI4NjI0LDQyNzgxMjU2MCw2MD
+gxODQ1MTAsLTIxNDExMzc2NzcsLTU4NDAwMzAxNiwxNDE0NjI5
+NzY3XX0=
 -->
