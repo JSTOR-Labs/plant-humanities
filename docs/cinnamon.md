@@ -175,11 +175,11 @@ In ieder geval toevoegen:
 
 [^ref13]: Samaraweera, "The Cinnamon Trade of Ceylon".
 
-[^ref14]: dus
+[^ref14]: Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press 2007) 310-317.
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzIyNzUzNDcsLTEwNjc1MTAxNzMsMT
+eyJoaXN0b3J5IjpbLTE1MzAxNDM4MzEsLTEwNjc1MTAxNzMsMT
 MyNjI0OTExNiwtNzU3MzUzMDEwLC0yMTMwMjc4NTYsMzY0NDg3
 NDUwLDE3MTgwNjg3MjEsMzQ1NjM0MTkyLDE4NTk2NzQ3NDMsOD
 E5MDUyNDU0LDE5NDIwNjY1MjcsLTEzMTY3OTg3NzQsLTEwMjUx
