@@ -69,7 +69,7 @@ The restrictions of the Dutch on cinnamon production and export made it the only
 	title="test"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
 
-Local grievances about the VOC policy for _chenas_, combined with extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war may have caused the Dutch to rethink their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with 'cinnamon gardens' (_kaneeltuinen_), which amounted to nothing less than a succesful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees (!) by 1794.[^ref12] The success was short-lived, however. When the British took over control of the Dutch terittories on Sri Lanka in 1796, they failed to maintain the success of the cinnamon plantation economy. Calls for free trade and better working conditions for peelers, high export duties, and competition of cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But the measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea production, thus ending the success of cinnamon production for years to come.[^ref13]
+Local grievances about the VOC policy for _chenas_, combined with extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war may have caused the Dutch to rethink their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with 'cinnamon gardens' (_kaneeltuinen_), which amounted to nothing less than a succesful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees by 1794.[^ref12] The success was short-lived, however. When the British took over control of the Dutch terittories on Sri Lanka in 1796, they failed to maintain the success of the cinnamon plantation economy. Calls for free trade and better working conditions for peelers, high export duties, and competition of cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But the measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea production, thus ending the success of cinnamon production for years to come.[^ref13]
 
 Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. But in fact, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 
@@ -179,11 +179,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Mzk1MzQ1NCwtMTUzMDE0MzgzMSwtMT
-A2NzUxMDE3MywxMzI2MjQ5MTE2LC03NTczNTMwMTAsLTIxMzAy
-Nzg1NiwzNjQ0ODc0NTAsMTcxODA2ODcyMSwzNDU2MzQxOTIsMT
-g1OTY3NDc0Myw4MTkwNTI0NTQsMTk0MjA2NjUyNywtMTMxNjc5
-ODc3NCwtMTAyNTE5NjAzNiwxMTg4Nzc0NTc3LC0yMDEwMTQ4MD
-ksLTI4MTI1NDY2Nyw3MTgwMjkxNzQsLTcxMjkyODYyNCw0Mjc4
-MTI1NjBdfQ==
+eyJoaXN0b3J5IjpbNDI0NTIwNDE0LDIwODM5NTM0NTQsLTE1Mz
+AxNDM4MzEsLTEwNjc1MTAxNzMsMTMyNjI0OTExNiwtNzU3MzUz
+MDEwLC0yMTMwMjc4NTYsMzY0NDg3NDUwLDE3MTgwNjg3MjEsMz
+Q1NjM0MTkyLDE4NTk2NzQ3NDMsODE5MDUyNDU0LDE5NDIwNjY1
+MjcsLTEzMTY3OTg3NzQsLTEwMjUxOTYwMzYsMTE4ODc3NDU3Ny
+wtMjAxMDE0ODA5LC0yODEyNTQ2NjcsNzE4MDI5MTc0LC03MTI5
+Mjg2MjRdfQ==
 -->
