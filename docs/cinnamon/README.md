@@ -72,7 +72,7 @@ Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also know
 
 The restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest to create temporary cultivated fields (called _chenas_). Under Dutch rule, they were no longer allowed to practice species circulation on a _chena_ once the plot was planted with cinnamon, so as not to diminish the total acreage. But Pieter van Dam, long-term secretary of the VOC, calculated around 1700 that Sri Lanka produced more than enough cinnamon to supply European and international markets. This makes the suppression of _chena_ practices seem all the more exploitative.[^ref11]
 <param ve-image
-	title="Image from 1720, showing the benefits that could be made from monocultures of cinnamon on temporary cleared fields (_chenas_). The image on the left shows a demarcated area of forest to be cultivated; the image on the middle shows the same field after the original vegetation was cleared; and the image on the right shows the _chena_ as a monoculture of cinnamon. The text at the bottom is a calculation of the expected returns: for cinnamon, the field a 27-fold increase."
+	title="Image from 1720, showing the benefits that could be made from monocultures of cinnamon on temporary cleared fields (_chenas_). The image on the left shows a demarcated area of forest to be cultivated; the image on the middle shows the same field after the original vegetation was cleared; and the image on the right shows the _chena_ as a monoculture of cinnamon. The text at the bottom is a calculation of the expected returns. A field with only five cinnamon trees could contain 135 trees after cultivation: a 27-fold increase."
 	url="NL-HaNA_4.VEL_939A-groot_cropped.jpg">
 
 Local grievances about the VOC policy for _chenas_, combined with extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war may have caused the Dutch to rethink their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with 'cinnamon gardens' (_kaneeltuinen_), which amounted to nothing less than a succesful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees (!) by 1794.[^ref12] The success was short-lived, however. When the British took over control of the Dutch terittories on Sri Lanka in 1796, they failed to maintain the success of the cinnamon plantation economy. Calls for free trade and better working conditions for peelers, high export duties, and competition of cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But the measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea production, thus ending the success of cinnamon production for years to come.[^ref13]
@@ -178,11 +178,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4MTU1MTMxLDIwOTk1NzM3ODUsMTU2OD
-Y1OTU2NCwtMjEwNDM2MDU0MCw4MDY5MDA5NSwtMTQ1MjM0MDE3
-Nyw4MDUyODA5OTUsLTEwMjk5MTg4NDQsMTA2NDI5NDc4LDgxOD
-kzNDY2NCwyNjk0MTU4NCwtMTMyNzI0NTYyMiwtNzkxMjYxMDY4
-LC0xODA2MDg5NzQ4LDE1OTk0NDg2MjYsMjg0MjMwODI1LDg5NT
-U3MjI5MiwtMTY2OTc5MTAyNSwxNzg3NTA5MDQyLC0xODg0NzA5
-OF19
+eyJoaXN0b3J5IjpbLTE5NzE5NjQ4NDQsMjA5OTU3Mzc4NSwxNT
+Y4NjU5NTY0LC0yMTA0MzYwNTQwLDgwNjkwMDk1LC0xNDUyMzQw
+MTc3LDgwNTI4MDk5NSwtMTAyOTkxODg0NCwxMDY0Mjk0NzgsOD
+E4OTM0NjY0LDI2OTQxNTg0LC0xMzI3MjQ1NjIyLC03OTEyNjEw
+NjgsLTE4MDYwODk3NDgsMTU5OTQ0ODYyNiwyODQyMzA4MjUsOD
+k1NTcyMjkyLC0xNjY5NzkxMDI1LDE3ODc1MDkwNDIsLTE4ODQ3
+MDk4XX0=
 -->
