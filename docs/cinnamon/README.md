@@ -77,7 +77,7 @@ The restrictions of the Dutch on cinnamon production and export made it the only
 
 Local grievances about the VOC policy for _chenas_, combined with extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war may have caused the Dutch to rethink their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with 'cinnamon gardens' (_kaneeltuinen_), which amounted to nothing less than a succesful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees (!) by 1794.[^ref12] The success was short-lived, however. When the British took over control of the Dutch terittories on Sri Lanka in 1796, they failed to maintain the success of the cinnamon plantation economy. Calls for free trade and better working conditions for peelers, high export duties, and competition of cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But the measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea production, thus ending the success of cinnamon production for years to come.[^ref13]
 <param ve-image
-	title="'Map of the cinnamon gardens with their main roads in the district of Kaliture.' This map"
+	title="'Map of the cinnamon gardens with their main roads in the district of Kaliture.' This eighteenth-century map shows "
 	url="NL-HaNA_4.VEL_935-groot.jpg"
 	region="2226,1064,839,630">
 
@@ -177,11 +177,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODY1OTU2NCwtMjEwNDM2MDU0MCw4MD
-Y5MDA5NSwtMTQ1MjM0MDE3Nyw4MDUyODA5OTUsLTEwMjk5MTg4
-NDQsMTA2NDI5NDc4LDgxODkzNDY2NCwyNjk0MTU4NCwtMTMyNz
-I0NTYyMiwtNzkxMjYxMDY4LC0xODA2MDg5NzQ4LDE1OTk0NDg2
-MjYsMjg0MjMwODI1LDg5NTU3MjI5MiwtMTY2OTc5MTAyNSwxNz
-g3NTA5MDQyLC0xODg0NzA5OCwtMzc2NTE1MTEyLDE2MDA2NDE3
-NDNdfQ==
+eyJoaXN0b3J5IjpbLTEzMzAzNjU2NjAsMTU2ODY1OTU2NCwtMj
+EwNDM2MDU0MCw4MDY5MDA5NSwtMTQ1MjM0MDE3Nyw4MDUyODA5
+OTUsLTEwMjk5MTg4NDQsMTA2NDI5NDc4LDgxODkzNDY2NCwyNj
+k0MTU4NCwtMTMyNzI0NTYyMiwtNzkxMjYxMDY4LC0xODA2MDg5
+NzQ4LDE1OTk0NDg2MjYsMjg0MjMwODI1LDg5NTU3MjI5MiwtMT
+Y2OTc5MTAyNSwxNzg3NTA5MDQyLC0xODg0NzA5OCwtMzc2NTE1
+MTEyXX0=
 -->
