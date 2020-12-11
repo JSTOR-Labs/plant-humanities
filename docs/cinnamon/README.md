@@ -10,7 +10,7 @@
 
 ### The cinnamon challenge
 
-In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestable clutter in the back of the throat. Thankfully, this [quite dagerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
+In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestable clutter in the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
 <param ve-video
 	vid="UXkGtJUP0WE"
 	title="Mythbusters Cinnamon Challenge.">
@@ -178,11 +178,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYwODk3NDgsMTU5OTQ0ODYyNiwyOD
-QyMzA4MjUsODk1NTcyMjkyLC0xNjY5NzkxMDI1LDE3ODc1MDkw
-NDIsLTE4ODQ3MDk4LC0zNzY1MTUxMTIsMTYwMDY0MTc0MywtMj
-MzOTczMjUyLDgwNzExODc0MiwtMTcwODM0NjI5LDE3MjA5ODA2
-NywtNjg0MTQ0MzE3LC0xOTU5NDAzNTE1LDE4Nzc1NTkzNzcsMT
-gxNzUyMzA1MSwtNDAyNTEwODc0LDc4MzUyOTkwOCwtMTk5MDgx
-Mzc5Ml19
+eyJoaXN0b3J5IjpbLTc5MTI2MTA2OCwtMTgwNjA4OTc0OCwxNT
+k5NDQ4NjI2LDI4NDIzMDgyNSw4OTU1NzIyOTIsLTE2Njk3OTEw
+MjUsMTc4NzUwOTA0MiwtMTg4NDcwOTgsLTM3NjUxNTExMiwxNj
+AwNjQxNzQzLC0yMzM5NzMyNTIsODA3MTE4NzQyLC0xNzA4MzQ2
+MjksMTcyMDk4MDY3LC02ODQxNDQzMTcsLTE5NTk0MDM1MTUsMT
+g3NzU1OTM3NywxODE3NTIzMDUxLC00MDI1MTA4NzQsNzgzNTI5
+OTA4XX0=
 -->
