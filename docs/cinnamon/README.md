@@ -85,7 +85,7 @@ Local grievances about the VOC policy for _chenas_, and about extortion of peele
 
 The success was short-lived, however. When the British took over control of the Dutch terittories on Sri Lanka in 1796, they failed to maintain the success of the cinnamon plantation economy. Calls for free trade and better working conditions for peelers, high export duties, and competition of cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But the measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea production, thus ending the success of cinnamon production for years to come.[^ref13]
 <param ve-image
-	title="No visualization here yet."
+	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
 ### A tool of empire or a tool of science?
@@ -192,11 +192,11 @@ In ieder geval toevoegen:
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDkwMTgxMiwxODkwOTA3ODA4LDEwNz
-Y5Njk0NjksLTIwNjQwMjYxNTEsNDMxNDc2NjI4LDE0NTA4NzE5
-NTIsMTkzOTAwNDQ0MSwtMTM5NDcyMjc1MCwyMDk5NTczNzg1LD
-E1Njg2NTk1NjQsLTIxMDQzNjA1NDAsODA2OTAwOTUsLTE0NTIz
-NDAxNzcsODA1MjgwOTk1LC0xMDI5OTE4ODQ0LDEwNjQyOTQ3OC
-w4MTg5MzQ2NjQsMjY5NDE1ODQsLTEzMjcyNDU2MjIsLTc5MTI2
-MTA2OF19
+eyJoaXN0b3J5IjpbMTQwNjE0NTI1NiwxMzMwOTAxODEyLDE4OT
+A5MDc4MDgsMTA3Njk2OTQ2OSwtMjA2NDAyNjE1MSw0MzE0NzY2
+MjgsMTQ1MDg3MTk1MiwxOTM5MDA0NDQxLC0xMzk0NzIyNzUwLD
+IwOTk1NzM3ODUsMTU2ODY1OTU2NCwtMjEwNDM2MDU0MCw4MDY5
+MDA5NSwtMTQ1MjM0MDE3Nyw4MDUyODA5OTUsLTEwMjk5MTg4ND
+QsMTA2NDI5NDc4LDgxODkzNDY2NCwyNjk0MTU4NCwtMTMyNzI0
+NTYyMl19
 -->
