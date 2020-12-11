@@ -83,11 +83,14 @@ Local grievances about the VOC policy for _chenas_, combined with extortion of p
 Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine, he was reprimanded in 1675 by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 
 Empire was not
- Alinea over Paul Hermann, herbaria, mislukte plantjes exporteren, misschien Linnaeus? Misschien zelfs Koerner noemen? Hermann (P.) 1687 (failed attempt in Dutch gardens). Paul Hermann / Linnaeus? Andel (T.) & Barth (N.) 2018. Jarvis (C.E.) 2007.
+Alinea over Paul Hermann, herbaria, mislukte plantjes exporteren, misschien Linnaeus? Misschien zelfs Koerner noemen? Hermann (P.) 1687 (failed attempt in Dutch gardens). Paul Hermann / Linnaeus? Andel (T.) & Barth (N.) 2018. Jarvis (C.E.) 2007.
 
 ### Cinnamon and the imagination of empire
 
 Other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – unsuccesfully – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref15]
+<param ve-image
+	title="bla bla bla"
+	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
 
 Orta
 	 - Eigen ervaring van planten die uit de oudheid bekend waren
@@ -173,8 +176,8 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDE0NDMxNywtMTk1OTQwMzUxNSwxOD
-c3NTU5Mzc3LDE4MTc1MjMwNTEsLTQwMjUxMDg3NCw3ODM1Mjk5
-MDgsLTE5OTA4MTM3OTIsMTcxODUwMjY0MiwxNzE4NTAyNjQyLC
-0xMjE1MjM4NzQzXX0=
+eyJoaXN0b3J5IjpbMTcyMDk4MDY3LC02ODQxNDQzMTcsLTE5NT
+k0MDM1MTUsMTg3NzU1OTM3NywxODE3NTIzMDUxLC00MDI1MTA4
+NzQsNzgzNTI5OTA4LC0xOTkwODEzNzkyLDE3MTg1MDI2NDIsMT
+cxODUwMjY0MiwtMTIxNTIzODc0M119
 -->
