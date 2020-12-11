@@ -25,6 +25,9 @@ How could this confusion last so long? First, a possible explanation for the shi
 <param ve-image
 	title="test"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
+<param ve-image
+	title="test"
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
 
 A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue still exists today. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_ (a common historical name for _cassia_, generally believed to be _Cinnamomum cassia_ (L.) J.Presl), imported from China through Arabia and East Africa. Although this narrative is debatable, it is still less imaginative than the one proposed by J. Innes Miller (1969). Miller claimed there had been an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept has been rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
 <param ve-image
@@ -170,7 +173,8 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzU1OTM3NywxODE3NTIzMDUxLC00MD
-I1MTA4NzQsNzgzNTI5OTA4LC0xOTkwODEzNzkyLDE3MTg1MDI2
-NDIsMTcxODUwMjY0MiwtMTIxNTIzODc0M119
+eyJoaXN0b3J5IjpbMTE3MzM1NTYyNywxODc3NTU5Mzc3LDE4MT
+c1MjMwNTEsLTQwMjUxMDg3NCw3ODM1Mjk5MDgsLTE5OTA4MTM3
+OTIsMTcxODUwMjY0MiwxNzE4NTAyNjQyLC0xMjE1MjM4NzQzXX
+0=
 -->
