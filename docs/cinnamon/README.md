@@ -27,7 +27,8 @@ How could this confusion last so long? First, a possible explanation for the shi
 	url="https://www.archive.org/download/mobot31753003488159/page/n71_w314">
 <param ve-image
 	title="Cinnamon bark, in Carolus Clusius, _Exoticorum Libri Decem_ ([Leiden]: Ex Officinâ Plantinianâ Raphelengii 1605) 171. Clusius adapted Orta's work once more for this publication on exotic naturalia. Unhappy with the leaf image from his 1567 edition of Orta's work, he left it out here, and only included the image cinnamon bark."
-	url="https://www.archive.org/download/mobot31753000811387/page/n185_w1131">
+	url="https://www.archive.org/download/mobot31753000811387/page/n185_w1131"
+	region="246,1762,1391,985">
 
 A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue still exists today. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_ (a common historical name for _cassia_, generally believed to be _Cinnamomum cassia_ (L.) J.Presl), imported from China through Arabia and East Africa. Although this narrative is debatable, it is still less imaginative than the one proposed by J. Innes Miller (1969). Miller claimed there had been an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept is now rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
 <param ve-image
@@ -176,9 +177,9 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzMxNTYzNSwtMTcwODM0NjI5LDE3Mj
-A5ODA2NywtNjg0MTQ0MzE3LC0xOTU5NDAzNTE1LDE4Nzc1NTkz
-NzcsMTgxNzUyMzA1MSwtNDAyNTEwODc0LDc4MzUyOTkwOCwtMT
-k5MDgxMzc5MiwxNzE4NTAyNjQyLDE3MTg1MDI2NDIsLTEyMTUy
-Mzg3NDNdfQ==
+eyJoaXN0b3J5IjpbODA3MTE4NzQyLC0xNzA4MzQ2MjksMTcyMD
+k4MDY3LC02ODQxNDQzMTcsLTE5NTk0MDM1MTUsMTg3NzU1OTM3
+NywxODE3NTIzMDUxLC00MDI1MTA4NzQsNzgzNTI5OTA4LC0xOT
+kwODEzNzkyLDE3MTg1MDI2NDIsMTcxODUwMjY0MiwtMTIxNTIz
+ODc0M119
 -->
