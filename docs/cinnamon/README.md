@@ -21,7 +21,7 @@ Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinna
 	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b. [Note: I downloaded this image from HOLLIS Images. The image has a manifest but it is no reusable, as it requires a login to access.]"
 	url="18040817.jpg">
 	
-How could this confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, European scholars writing about cinnamon would turn to classical, not medieval sources, to understand the spice and its properties. They managed to resolve the discrepancies they found between classical descriptions of the spice and the plant that was found in Sri Lanka. For instance, in his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations and classical authors' descriptions of cinnamon by the fact that the latter had only known the processed spice, not the actual plant.[^ref3]
+How could this confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, European scholars writing about cinnamon would turn to classical, not medieval sources, to understand the spice and its properties. They managed to resolve the discrepancies they found between classical descriptions of the spice and the plant that was found in Sri Lanka. For instance, in his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations and classical authors' descriptions of cinnamon by the fact that the latter had only known the processed spice, not the plant.[^ref3]
 <param ve-image
 	title="Cinnamon leaf and bark, in Garcia de Orta, _Aromatum, et Simplicium aliquot Medicamentorum apud Indos nascentium Historia_ (Antverpiae: Ex officina Christophori Plantini 1567) 72. The images were not in Orta's original Portuguese publication of 1563, but they were added by the editor, Flemish botanist Carolus Clusius, for this Latin edition."
 	url="https://www.archive.org/download/mobot31753003488159/page/n71_w314">
@@ -178,10 +178,10 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI4MzI5ODQsMTYwMDY0MTc0MywtMj
-MzOTczMjUyLDgwNzExODc0MiwtMTcwODM0NjI5LDE3MjA5ODA2
-NywtNjg0MTQ0MzE3LC0xOTU5NDAzNTE1LDE4Nzc1NTkzNzcsMT
-gxNzUyMzA1MSwtNDAyNTEwODc0LDc4MzUyOTkwOCwtMTk5MDgx
-Mzc5MiwxNzE4NTAyNjQyLDE3MTg1MDI2NDIsLTEyMTUyMzg3ND
-NdfQ==
+eyJoaXN0b3J5IjpbLTM3NjUxNTExMiwxNjAwNjQxNzQzLC0yMz
+M5NzMyNTIsODA3MTE4NzQyLC0xNzA4MzQ2MjksMTcyMDk4MDY3
+LC02ODQxNDQzMTcsLTE5NTk0MDM1MTUsMTg3NzU1OTM3NywxOD
+E3NTIzMDUxLC00MDI1MTA4NzQsNzgzNTI5OTA4LC0xOTkwODEz
+NzkyLDE3MTg1MDI2NDIsMTcxODUwMjY0MiwtMTIxNTIzODc0M1
+19
 -->
