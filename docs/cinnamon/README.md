@@ -99,7 +99,7 @@ Interests of empire and a disinterested search for knowledge could go hand in ha
 	title="'Cinnamon from Ceylon with flowers'. Specimen of   
 _Cinnamomum verum_ J.Presl, from Paul Hermann's herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171. [This is currently a downloaded image, because the Leiden volumes of Hermann's herbarium are not in JSTOR's Global Plants database. The London volumes are.]"
 	attribution="https://data.biodiversitydata.nl/naturalis/specimen/L.2070171"
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
+	url="007714869-L.2070171.jpg">
 
 ### Cinnamon and the imagination of empire
 
@@ -200,7 +200,7 @@ In ieder geval toevoegen:
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTAzMTU2NiwtNjc2OTIwNzMyLC0xNz
+eyJoaXN0b3J5IjpbLTcwODUwMzQ1OSwtNjc2OTIwNzMyLC0xNz
 Q4MDMyNDUwLC0xODY0ODI0MjAwLDEzMzA5MDE4MTIsMTg5MDkw
 NzgwOCwxMDc2OTY5NDY5LC0yMDY0MDI2MTUxLDQzMTQ3NjYyOC
 wxNDUwODcxOTUyLDE5MzkwMDQ0NDEsLTEzOTQ3MjI3NTAsMjA5
