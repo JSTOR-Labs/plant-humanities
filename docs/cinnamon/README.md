@@ -32,7 +32,7 @@ How could this confusion last so long? First, a possible explanation for the shi
 
 A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue still exists today. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_ (a common historical name for _cassia_, generally believed to be _Cinnamomum cassia_ (L.) J.Presl), imported from China through Arabia and East Africa. Although this narrative is debatable, it is still less imaginative than the one proposed by J. Innes Miller (1969). Miller claimed there had been an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept is now rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
 <param ve-image
-	title="The proposed Spice Route of Antiquity, by J. Innes Miller. [Note: I'm not sure if I want to use this image, and if so I should reproduce it as a proper ve-map tag, which seems like it would be a lot of work.]"
+	title="The proposed Spice Route of Antiquity, by J. Innes Miller. [Note: This is just a screenshot from Riddle's book. I'm not sure if I want to use this image, and if so, I should reproduce it as a proper ve-map tag, which seems like it would be a lot of work.]"
 	attribution="Taken from John M. Riddle, _Dioscorides on Pharmacy and Medicine_. Forew. by John Scarborough (Austin: University of Texas Press 1985) 99."
 	url="Indian_Ocean_Spice_route_(Riddle 1985p99_from Miller_1969).bmp">
 
@@ -184,11 +184,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM4ODY2MDYsLTE2Njk3OTEwMjUsMT
-c4NzUwOTA0MiwtMTg4NDcwOTgsLTM3NjUxNTExMiwxNjAwNjQx
-NzQzLC0yMzM5NzMyNTIsODA3MTE4NzQyLC0xNzA4MzQ2MjksMT
-cyMDk4MDY3LC02ODQxNDQzMTcsLTE5NTk0MDM1MTUsMTg3NzU1
-OTM3NywxODE3NTIzMDUxLC00MDI1MTA4NzQsNzgzNTI5OTA4LC
-0xOTkwODEzNzkyLDE3MTg1MDI2NDIsMTcxODUwMjY0MiwtMTIx
-NTIzODc0M119
+eyJoaXN0b3J5IjpbODk1NTcyMjkyLC0xNjY5NzkxMDI1LDE3OD
+c1MDkwNDIsLTE4ODQ3MDk4LC0zNzY1MTUxMTIsMTYwMDY0MTc0
+MywtMjMzOTczMjUyLDgwNzExODc0MiwtMTcwODM0NjI5LDE3Mj
+A5ODA2NywtNjg0MTQ0MzE3LC0xOTU5NDAzNTE1LDE4Nzc1NTkz
+NzcsMTgxNzUyMzA1MSwtNDAyNTEwODc0LDc4MzUyOTkwOCwtMT
+k5MDgxMzc5MiwxNzE4NTAyNjQyLDE3MTg1MDI2NDIsLTEyMTUy
+Mzg3NDNdfQ==
 -->
