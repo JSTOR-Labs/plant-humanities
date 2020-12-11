@@ -55,14 +55,17 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	center="7.792820, 80.750146"
 	zoom="7.6">
 <param ve-image
-	title="Sri Lanka in the sixteenth century (after 1521)"
+	title="Sri Lanka in the sixteenth century (after 1521). [Note: the Portuguese possession are not shown on this map.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Lanka_geopolitics_-_after_%22Spoiling_of_Vijayabahu%22.png">
 
 The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658, the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. The Dutch intensified the process of cinnamon peeling. Cinnamon trees were scattered throughout the forests of the island, so groups of local peelers often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of peelers, there was little they could do when peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave peelers alone, in order not to interrupt the supply of cinnamon.
 <param ve-map
-	title="Sri Lanka"
+	title="Sri Lanka in the sixteenth century (after 1521) [Note: I have to create a ve-map tag based on the map from Wikimedia Commons.]"
 	center="7.792820, 80.750146"
 	zoom="7.6">
+<param ve-image
+	title="Sri Lanka in the sixteenth century (after 1521)"
+	url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Lanka_geopolitics_-_after_%22Spoiling_of_Vijayabahu%22.png">
 
 Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also known as _Saliya_ or _Chaliya_). Although their skills were indispensable for the cinnamon trade, they were treated harshly by the Dutch. Each year, the peelers gathered in Colombo to pledge loyalty to the Dutch governor (a ceremony called _paresse_). There was a long peeling season for cinnamon between May and August, and a short one between January and February. On both occassions, groups of men were sent off into the woods with nothing but paring knives and an amount of rice. Each man was obliged to bring back 12 _robes_ (of 56 pounds each) at the end of the summer season. Boys from 12 years of age had to contribute proportionally. Dutch sources often complained about peelers as lazy and unreliable, but the peelers had a hard life. They were away from home for months, had to provide for themselves while working in the forests, where they were subject to diseases, and they were severely punished if they did not meet their quotum.[^ref9]
 <param ve-image
@@ -181,10 +184,10 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxOTczNDk5LDE3ODc1MDkwNDIsLTE4OD
-Q3MDk4LC0zNzY1MTUxMTIsMTYwMDY0MTc0MywtMjMzOTczMjUy
-LDgwNzExODc0MiwtMTcwODM0NjI5LDE3MjA5ODA2NywtNjg0MT
-Q0MzE3LC0xOTU5NDAzNTE1LDE4Nzc1NTkzNzcsMTgxNzUyMzA1
-MSwtNDAyNTEwODc0LDc4MzUyOTkwOCwtMTk5MDgxMzc5MiwxNz
-E4NTAyNjQyLDE3MTg1MDI2NDIsLTEyMTUyMzg3NDNdfQ==
+eyJoaXN0b3J5IjpbLTE2Njk3OTEwMjUsMTc4NzUwOTA0MiwtMT
+g4NDcwOTgsLTM3NjUxNTExMiwxNjAwNjQxNzQzLC0yMzM5NzMy
+NTIsODA3MTE4NzQyLC0xNzA4MzQ2MjksMTcyMDk4MDY3LC02OD
+QxNDQzMTcsLTE5NTk0MDM1MTUsMTg3NzU1OTM3NywxODE3NTIz
+MDUxLC00MDI1MTA4NzQsNzgzNTI5OTA4LC0xOTkwODEzNzkyLD
+E3MTg1MDI2NDIsMTcxODUwMjY0MiwtMTIxNTIzODc0M119
 -->
