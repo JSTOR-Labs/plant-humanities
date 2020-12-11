@@ -89,7 +89,7 @@ The success was short-lived, however. When the British took over control of the 
 
 Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 
-Interests of empire and a disinterested search for knowledge could go hand in hand. Paul Hermann was 
+Interests of empire and a disinterested search for knowledge could go hand in hand. The botanist Paul Hermann was emplyed by the Dutch East India Company between 1672 and 1677 to gather botanical knowlegde on Sri Lanka. Although Hermann barely made it out of the capital Colombo, his 
 Alinea over Paul Hermann, herbaria, mislukte plantjes exporteren, misschien Linnaeus? Misschien zelfs Koerner noemen? Hermann (P.) 1687 (failed attempt in Dutch gardens). Paul Hermann / Linnaeus? Andel (T.) & Barth (N.) 2018. Jarvis (C.E.) 2007.
 
 ### Cinnamon and the imagination of empire
@@ -183,11 +183,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU0MjE0NzAsNDMxNDc2NjI4LDE0NT
-A4NzE5NTIsMTkzOTAwNDQ0MSwtMTM5NDcyMjc1MCwyMDk5NTcz
-Nzg1LDE1Njg2NTk1NjQsLTIxMDQzNjA1NDAsODA2OTAwOTUsLT
-E0NTIzNDAxNzcsODA1MjgwOTk1LC0xMDI5OTE4ODQ0LDEwNjQy
-OTQ3OCw4MTg5MzQ2NjQsMjY5NDE1ODQsLTEzMjcyNDU2MjIsLT
-c5MTI2MTA2OCwtMTgwNjA4OTc0OCwxNTk5NDQ4NjI2LDI4NDIz
-MDgyNV19
+eyJoaXN0b3J5IjpbLTIyMjc4MzE1Miw0MzE0NzY2MjgsMTQ1MD
+g3MTk1MiwxOTM5MDA0NDQxLC0xMzk0NzIyNzUwLDIwOTk1NzM3
+ODUsMTU2ODY1OTU2NCwtMjEwNDM2MDU0MCw4MDY5MDA5NSwtMT
+Q1MjM0MDE3Nyw4MDUyODA5OTUsLTEwMjk5MTg4NDQsMTA2NDI5
+NDc4LDgxODkzNDY2NCwyNjk0MTU4NCwtMTMyNzI0NTYyMiwtNz
+kxMjYxMDY4LC0xODA2MDg5NzQ4LDE1OTk0NDg2MjYsMjg0MjMw
+ODI1XX0=
 -->
