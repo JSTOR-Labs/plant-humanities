@@ -51,21 +51,15 @@ The quest for spices, cinnamon among them, was one of the most important aims th
 
 Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to get access to the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, the Portuguese engaged in 'reluctant imperialism' to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
 <param ve-map
-	title="Sri Lanka in the sixteenth century (after 1521) [Note: I have to create a ve-map tag based on the map from Wikimedia Commons.]"
+	title="Sri Lanka in the sixteenth century (after 1521) [Note: I have to create a ve-map tag based on a map in Wagenaar, p. 32, and a map from Wikimedia Commons (https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Lanka_geopolitics_-_after_%22Spoiling_of_Vijayabahu%22.png).]"
 	center="7.792820, 80.750146"
 	zoom="7.6">
-<param ve-image
-	title="Sri Lanka in the sixteenth century (after 1521). [Note: the Portuguese possession are not shown on this map.]"
-	url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Lanka_geopolitics_-_after_%22Spoiling_of_Vijayabahu%22.png">
 
 The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658, the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. The Dutch intensified the process of cinnamon peeling. Cinnamon trees were scattered throughout the forests of the island, so groups of local peelers often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of peelers, there was little they could do when peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave peelers alone, in order not to interrupt the supply of cinnamon.
 <param ve-map
-	title="Sri Lanka in the sixteenth century (after 1521) [Note: I have to create a ve-map tag based on the map from Wikimedia Commons.]"
+	title="Sri Lanka in the sixteenth century (after 1521) [Note: I have to create a ve-map tag based on a map in Wagenaar, p. 32.]"
 	center="7.792820, 80.750146"
 	zoom="7.6">
-<param ve-image
-	title="Sri Lanka in the sixteenth century (after 1521)"
-	url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Lanka_geopolitics_-_after_%22Spoiling_of_Vijayabahu%22.png">
 
 Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also known as _Saliya_ or _Chaliya_). Although their skills were indispensable for the cinnamon trade, they were treated harshly by the Dutch. Each year, the peelers gathered in Colombo to pledge loyalty to the Dutch governor (a ceremony called _paresse_). There was a long peeling season for cinnamon between May and August, and a short one between January and February. On both occassions, groups of men were sent off into the woods with nothing but paring knives and an amount of rice. Each man was obliged to bring back 12 _robes_ (of 56 pounds each) at the end of the summer season. Boys from 12 years of age had to contribute proportionally. Dutch sources often complained about peelers as lazy and unreliable, but the peelers had a hard life. They were away from home for months, had to provide for themselves while working in the forests, where they were subject to diseases, and they were severely punished if they did not meet their quotum.[^ref9]
 <param ve-image
@@ -184,11 +178,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1NTcyMjkyLC0xNjY5NzkxMDI1LDE3OD
-c1MDkwNDIsLTE4ODQ3MDk4LC0zNzY1MTUxMTIsMTYwMDY0MTc0
-MywtMjMzOTczMjUyLDgwNzExODc0MiwtMTcwODM0NjI5LDE3Mj
-A5ODA2NywtNjg0MTQ0MzE3LC0xOTU5NDAzNTE1LDE4Nzc1NTkz
-NzcsMTgxNzUyMzA1MSwtNDAyNTEwODc0LDc4MzUyOTkwOCwtMT
-k5MDgxMzc5MiwxNzE4NTAyNjQyLDE3MTg1MDI2NDIsLTEyMTUy
-Mzg3NDNdfQ==
+eyJoaXN0b3J5IjpbMjg0MjMwODI1LDg5NTU3MjI5MiwtMTY2OT
+c5MTAyNSwxNzg3NTA5MDQyLC0xODg0NzA5OCwtMzc2NTE1MTEy
+LDE2MDA2NDE3NDMsLTIzMzk3MzI1Miw4MDcxMTg3NDIsLTE3MD
+gzNDYyOSwxNzIwOTgwNjcsLTY4NDE0NDMxNywtMTk1OTQwMzUx
+NSwxODc3NTU5Mzc3LDE4MTc1MjMwNTEsLTQwMjUxMDg3NCw3OD
+M1Mjk5MDgsLTE5OTA4MTM3OTIsMTcxODUwMjY0MiwxNzE4NTAy
+NjQyXX0=
 -->
