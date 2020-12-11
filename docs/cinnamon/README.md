@@ -33,7 +33,7 @@ How could this confusion last so long? First, a possible explanation for the shi
 A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue still exists today. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_ (a common historical name for _cassia_, generally believed to be _Cinnamomum cassia_ (L.) J.Presl), imported from China through Arabia and East Africa. Although this narrative is debatable, it is still less imaginative than the one proposed by J. Innes Miller (1969). Miller claimed there had been an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept is now rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
 <param ve-image
 	title="bla bla bla. [Note: I'm not sure if I want to use this image, and if so I should reproduce it as a proper ve-map tag, which seems like it would be a lot of work.]"
-	url="Indian_Ocean_Spice_route_(Riddle 1985p99_from Miller_1969).jpg">
+	url="Indian_Ocean_Spice_route_(Riddle 1985p99_from Miller_1969).bmp">
 
 ### Cinnamon as a tool of empire
 The attraction of cinnamon – 'true' or other – as a means to enhance the power of a state, by displaying its control over exotic riches, predates the early modern period. For example, many coins can be found from the reign of Roman emperor Trajan (reigned 98-117 CE), showing a personification of Arabia, who holds a bundle of cinnamon sticks. The motif can be associated with Trajan's conquests on the eastern border of the empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, to emphasize the relation between the authority of the empire and the conquered lands.[^ref7]
@@ -177,9 +177,9 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTEwMzc5LC0yMzM5NzMyNTIsODA3MT
-E4NzQyLC0xNzA4MzQ2MjksMTcyMDk4MDY3LC02ODQxNDQzMTcs
-LTE5NTk0MDM1MTUsMTg3NzU1OTM3NywxODE3NTIzMDUxLC00MD
-I1MTA4NzQsNzgzNTI5OTA4LC0xOTkwODEzNzkyLDE3MTg1MDI2
-NDIsMTcxODUwMjY0MiwtMTIxNTIzODc0M119
+eyJoaXN0b3J5IjpbMTYwMDY0MTc0MywtMjMzOTczMjUyLDgwNz
+ExODc0MiwtMTcwODM0NjI5LDE3MjA5ODA2NywtNjg0MTQ0MzE3
+LC0xOTU5NDAzNTE1LDE4Nzc1NTkzNzcsMTgxNzUyMzA1MSwtND
+AyNTEwODc0LDc4MzUyOTkwOCwtMTk5MDgxMzc5MiwxNzE4NTAy
+NjQyLDE3MTg1MDI2NDIsLTEyMTUyMzg3NDNdfQ==
 -->
