@@ -188,15 +188,15 @@ In ieder geval toevoegen:
 
 [^ref17]: Paul Hermann, _Horti academici Lugduno-Batavi catalogus exhibens Plantarum omnium Nomina, quibus ab anno MDCLXXXI ad annum MDCLXXXVI Hortus fuit instructus ut & Plurimarum in eodem cultarum & à nemine hucusque editarum Descriptiones & Icones_ (Lugduni Batavorum: Apud Cornelium Boutesteyn 1687) 130; quoted in Heniger, _Hendrik Adriaan van Reede tot Drakenstein_, 155.
 
-[^ref17]: Albertus Seba, "An Account of the Cinnamon Tree in Ceylon, and its several Sorts. Communicated by the Chief Inspector of the Cinnamon Trade and Manufacture in that Island to Albertus Seba, a Noted Druggist at Amsterdam. Translated by the late Dr. Scheuchzer, F. R. S.", _Philosophical Transactions_, 36:409 (1730) I, 97-109.
+[^ref18]: Albertus Seba, "An Account of the Cinnamon Tree in Ceylon, and its several Sorts. Communicated by the Chief Inspector of the Cinnamon Trade and Manufacture in that Island to Albertus Seba, a Noted Druggist at Amsterdam. Translated by the late Dr. Scheuchzer, F. R. S.", _Philosophical Transactions_, 36:409 (1730) I, 97-109.
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDgxNjgyOTksMTg5MDkwNzgwOCwxMD
-c2OTY5NDY5LC0yMDY0MDI2MTUxLDQzMTQ3NjYyOCwxNDUwODcx
-OTUyLDE5MzkwMDQ0NDEsLTEzOTQ3MjI3NTAsMjA5OTU3Mzc4NS
-wxNTY4NjU5NTY0LC0yMTA0MzYwNTQwLDgwNjkwMDk1LC0xNDUy
-MzQwMTc3LDgwNTI4MDk5NSwtMTAyOTkxODg0NCwxMDY0Mjk0Nz
-gsODE4OTM0NjY0LDI2OTQxNTg0LC0xMzI3MjQ1NjIyLC03OTEy
-NjEwNjhdfQ==
+eyJoaXN0b3J5IjpbMTMzMDkwMTgxMiwxODkwOTA3ODA4LDEwNz
+Y5Njk0NjksLTIwNjQwMjYxNTEsNDMxNDc2NjI4LDE0NTA4NzE5
+NTIsMTkzOTAwNDQ0MSwtMTM5NDcyMjc1MCwyMDk5NTczNzg1LD
+E1Njg2NTk1NjQsLTIxMDQzNjA1NDAsODA2OTAwOTUsLTE0NTIz
+NDAxNzcsODA1MjgwOTk1LC0xMDI5OTE4ODQ0LDEwNjQyOTQ3OC
+w4MTg5MzQ2NjQsMjY5NDE1ODQsLTEzMjcyNDU2MjIsLTc5MTI2
+MTA2OF19
 -->
