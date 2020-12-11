@@ -23,7 +23,7 @@ Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinna
 	
 How could this confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, European scholars writing about cinnamon would turn to classical, not medieval sources, to understand the spice and its properties. They managed to resolve the discrepancies they found between classical descriptions of the spice and the plant that was found in Sri Lanka. In his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations and classical authors' descriptions of cinnamon by the fact that the latter had only known the processed spice, not the actual plant.[^ref3]
 <param ve-image
-	title="test"
+	title="Cinnamon leaf and bark, in Garcia de Orta, _Aromatum, et Simplicium aliquot Medicamentorum apud Indos nascentium Historia_ (Antverpiae: Ex officina Christophori Plantini 1567) 71. The images were not in Orta's original Portuguese publication of 1563, but they were added by the editor, Flemish botanist Carolus Clusius, for this Latin edition."
 	url="https://www.archive.org/download/mobot31753003488159/page/n71_w314">
 <param ve-image
 	title="test"
@@ -176,8 +176,8 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDk4MDY3LC02ODQxNDQzMTcsLTE5NT
-k0MDM1MTUsMTg3NzU1OTM3NywxODE3NTIzMDUxLC00MDI1MTA4
-NzQsNzgzNTI5OTA4LC0xOTkwODEzNzkyLDE3MTg1MDI2NDIsMT
-cxODUwMjY0MiwtMTIxNTIzODc0M119
+eyJoaXN0b3J5IjpbLTE3NDkyODM3NDAsMTcyMDk4MDY3LC02OD
+QxNDQzMTcsLTE5NTk0MDM1MTUsMTg3NzU1OTM3NywxODE3NTIz
+MDUxLC00MDI1MTA4NzQsNzgzNTI5OTA4LC0xOTkwODEzNzkyLD
+E3MTg1MDI2NDIsMTcxODUwMjY0MiwtMTIxNTIzODc0M119
 -->
