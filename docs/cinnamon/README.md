@@ -87,7 +87,7 @@ The success was short-lived, however. When the British took over control of the 
 	title="No visualization here yet."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine, he was reprimanded in 1675 by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
+Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 
 Empire was not
 Alinea over Paul Hermann, herbaria, mislukte plantjes exporteren, misschien Linnaeus? Misschien zelfs Koerner noemen? Hermann (P.) 1687 (failed attempt in Dutch gardens). Paul Hermann / Linnaeus? Andel (T.) & Barth (N.) 2018. Jarvis (C.E.) 2007.
@@ -183,11 +183,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxNDc2NjI4LDE0NTA4NzE5NTIsMTkzOT
-AwNDQ0MSwtMTM5NDcyMjc1MCwyMDk5NTczNzg1LDE1Njg2NTk1
-NjQsLTIxMDQzNjA1NDAsODA2OTAwOTUsLTE0NTIzNDAxNzcsOD
-A1MjgwOTk1LC0xMDI5OTE4ODQ0LDEwNjQyOTQ3OCw4MTg5MzQ2
-NjQsMjY5NDE1ODQsLTEzMjcyNDU2MjIsLTc5MTI2MTA2OCwtMT
-gwNjA4OTc0OCwxNTk5NDQ4NjI2LDI4NDIzMDgyNSw4OTU1NzIy
-OTJdfQ==
+eyJoaXN0b3J5IjpbNzU2OTQzNzY0LDQzMTQ3NjYyOCwxNDUwOD
+cxOTUyLDE5MzkwMDQ0NDEsLTEzOTQ3MjI3NTAsMjA5OTU3Mzc4
+NSwxNTY4NjU5NTY0LC0yMTA0MzYwNTQwLDgwNjkwMDk1LC0xND
+UyMzQwMTc3LDgwNTI4MDk5NSwtMTAyOTkxODg0NCwxMDY0Mjk0
+NzgsODE4OTM0NjY0LDI2OTQxNTg0LC0xMzI3MjQ1NjIyLC03OT
+EyNjEwNjgsLTE4MDYwODk3NDgsMTU5OTQ0ODYyNiwyODQyMzA4
+MjVdfQ==
 -->
