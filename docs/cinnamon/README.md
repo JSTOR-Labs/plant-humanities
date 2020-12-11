@@ -97,7 +97,7 @@ Although cinnamon was a successful monopoly during the Dutch period, was it only
 Interests of empire and a disinterested search for knowledge could go hand in hand. The botanist Paul Hermann was employed by the VOC between 1672 and 1677 to gather botanical knowlegde on Sri Lanka. Although Hermann barely made it out of the capital Colombo, he managed to collect an impressive amount of material, including many cinnamon specimens.[^ref15] Hermann's collections offered input for decades of scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carolus Linnaeus, who dreamed of transplanting cinnamon to plantations in Lapland.[^ref16] But Hermann already knew that northern Europe was too cold for cinnamon: in spite of the VOC ban on exporting living plants, he sent trees to several acquaintances in the Dutch Republic, none of which lasted for more than two or three years.[^ref17] Exchange of knowledge and goods was evidently possible: an extensive, first-hand account of all the cinnamon varieties on Sri Lanka even made it into the _Philosophical Transactions_ of the Royal Society in 1730.[^ref18]
 <param ve-image
 	title="'Cinnamon from Ceylon with flowers'. Specimen of   
-_Cinnamomum verum_ J.Presl from Paul Hermann's herbarium of o"
+_Cinnamomum verum_ J.Presl from Paul Hermann's herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171. [This is currently a downloaded image. because the Leiden volumes of Hermann's H]"
 	attribution="https://data.biodiversitydata.nl/naturalis/specimen/L.2070171"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
@@ -200,11 +200,11 @@ In ieder geval toevoegen:
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzQ2MDEyLC0xNzQ4MDMyNDUwLC0xOD
-Y0ODI0MjAwLDEzMzA5MDE4MTIsMTg5MDkwNzgwOCwxMDc2OTY5
-NDY5LC0yMDY0MDI2MTUxLDQzMTQ3NjYyOCwxNDUwODcxOTUyLD
-E5MzkwMDQ0NDEsLTEzOTQ3MjI3NTAsMjA5OTU3Mzc4NSwxNTY4
-NjU5NTY0LC0yMTA0MzYwNTQwLDgwNjkwMDk1LC0xNDUyMzQwMT
-c3LDgwNTI4MDk5NSwtMTAyOTkxODg0NCwxMDY0Mjk0NzgsODE4
-OTM0NjY0XX0=
+eyJoaXN0b3J5IjpbMjAwMjMyMzg3NywtMTc0ODAzMjQ1MCwtMT
+g2NDgyNDIwMCwxMzMwOTAxODEyLDE4OTA5MDc4MDgsMTA3Njk2
+OTQ2OSwtMjA2NDAyNjE1MSw0MzE0NzY2MjgsMTQ1MDg3MTk1Mi
+wxOTM5MDA0NDQxLC0xMzk0NzIyNzUwLDIwOTk1NzM3ODUsMTU2
+ODY1OTU2NCwtMjEwNDM2MDU0MCw4MDY5MDA5NSwtMTQ1MjM0MD
+E3Nyw4MDUyODA5OTUsLTEwMjk5MTg4NDQsMTA2NDI5NDc4LDgx
+ODkzNDY2NF19
 -->
