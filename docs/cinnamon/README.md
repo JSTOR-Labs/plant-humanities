@@ -1,6 +1,6 @@
 <param ve-config
 	title="Cinnamon: two thousand years of botanical disambiguation"
-	banner="https://upload.wikimedia.org/wikipedia/commons/1/12/Ground_Cinnamon_Powder_and_a_Cinnamon_Stick.jpg"
+	banner="banner_image.png"
 	layout="vtl"
 	num-maps="0"
 	num-images="0"
@@ -178,11 +178,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDI5NDc4LDgxODkzNDY2NCwyNjk0MT
-U4NCwtMTMyNzI0NTYyMiwtNzkxMjYxMDY4LC0xODA2MDg5NzQ4
-LDE1OTk0NDg2MjYsMjg0MjMwODI1LDg5NTU3MjI5MiwtMTY2OT
-c5MTAyNSwxNzg3NTA5MDQyLC0xODg0NzA5OCwtMzc2NTE1MTEy
-LDE2MDA2NDE3NDMsLTIzMzk3MzI1Miw4MDcxMTg3NDIsLTE3MD
-gzNDYyOSwxNzIwOTgwNjcsLTY4NDE0NDMxNywtMTk1OTQwMzUx
-NV19
+eyJoaXN0b3J5IjpbLTEwMjk5MTg4NDQsMTA2NDI5NDc4LDgxOD
+kzNDY2NCwyNjk0MTU4NCwtMTMyNzI0NTYyMiwtNzkxMjYxMDY4
+LC0xODA2MDg5NzQ4LDE1OTk0NDg2MjYsMjg0MjMwODI1LDg5NT
+U3MjI5MiwtMTY2OTc5MTAyNSwxNzg3NTA5MDQyLC0xODg0NzA5
+OCwtMzc2NTE1MTEyLDE2MDA2NDE3NDMsLTIzMzk3MzI1Miw4MD
+cxMTg3NDIsLTE3MDgzNDYyOSwxNzIwOTgwNjcsLTY4NDE0NDMx
+N119
 -->
