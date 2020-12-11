@@ -54,7 +54,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	center="7.792820, 80.750146"
 	zoom="7.6">
 
-The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658, the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. The Dutch intensified the process of cinnamon peeling. Cinnamon trees were scattered throughout the forests of the island, so groups of local peelers often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of peelers, there was little they could do when peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave peelers alone, in order not to interrupt the supply of cinnamon.
+The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo (1656) and Jaffnapatnam (1658), the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. The Dutch intensified the process of cinnamon peeling. Cinnamon trees were scattered throughout the forests of the island, so groups of local peelers often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of peelers, there was little they could do when peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave peelers alone, in order not to interrupt the supply of cinnamon.
 <param ve-map
 	title="Sri Lanka during the Dutch period. [Note: I have to create a ve-map tag based on a map in Wagenaar, p. 32.]"
 	center="7.792820, 80.750146"
@@ -177,11 +177,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2OTAwOTUsLTE0NTIzNDAxNzcsODA1Mj
-gwOTk1LC0xMDI5OTE4ODQ0LDEwNjQyOTQ3OCw4MTg5MzQ2NjQs
-MjY5NDE1ODQsLTEzMjcyNDU2MjIsLTc5MTI2MTA2OCwtMTgwNj
-A4OTc0OCwxNTk5NDQ4NjI2LDI4NDIzMDgyNSw4OTU1NzIyOTIs
-LTE2Njk3OTEwMjUsMTc4NzUwOTA0MiwtMTg4NDcwOTgsLTM3Nj
-UxNTExMiwxNjAwNjQxNzQzLC0yMzM5NzMyNTIsODA3MTE4NzQy
-XX0=
+eyJoaXN0b3J5IjpbMTM0MjM0ODU5Myw4MDY5MDA5NSwtMTQ1Mj
+M0MDE3Nyw4MDUyODA5OTUsLTEwMjk5MTg4NDQsMTA2NDI5NDc4
+LDgxODkzNDY2NCwyNjk0MTU4NCwtMTMyNzI0NTYyMiwtNzkxMj
+YxMDY4LC0xODA2MDg5NzQ4LDE1OTk0NDg2MjYsMjg0MjMwODI1
+LDg5NTU3MjI5MiwtMTY2OTc5MTAyNSwxNzg3NTA5MDQyLC0xOD
+g0NzA5OCwtMzc2NTE1MTEyLDE2MDA2NDE3NDMsLTIzMzk3MzI1
+Ml19
 -->
