@@ -181,17 +181,17 @@ In ieder geval toevoegen:
 
 [^ref14]: Johan Heniger, _Hendrik Adriaan van Reede tot Drakenstein (1636-1691) and Hortus Malabaricus: A Contribution to the History of Dutch Colonial Botany_ (Rotterdam and Boston: A.A. Balkema 1986) 37-38; and Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press 2007) 310-317.
 
-[^ref16]:
+[^ref15]: Tinde van Andel and Nadine Barth, "Paul Hermann's Ceylon Herbarium (1672-1679) at Leiden, the Netherlands", _Taxon_, 67:5 (2018) 977-988.
 
 [^ref16]: Lisbet Koerner, _Linnaeus: Nature and Nation_ (Cambridge (MA) and London: Harvard University Press 1999) 36.
 
 [^ref17]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk2NTMxNTYsMTA3Njk2OTQ2OSwtMj
-A2NDAyNjE1MSw0MzE0NzY2MjgsMTQ1MDg3MTk1MiwxOTM5MDA0
-NDQxLC0xMzk0NzIyNzUwLDIwOTk1NzM3ODUsMTU2ODY1OTU2NC
-wtMjEwNDM2MDU0MCw4MDY5MDA5NSwtMTQ1MjM0MDE3Nyw4MDUy
-ODA5OTUsLTEwMjk5MTg4NDQsMTA2NDI5NDc4LDgxODkzNDY2NC
-wyNjk0MTU4NCwtMTMyNzI0NTYyMiwtNzkxMjYxMDY4LC0xODA2
-MDg5NzQ4XX0=
+eyJoaXN0b3J5IjpbLTcxNzkzNTQxNiwxMDc2OTY5NDY5LC0yMD
+Y0MDI2MTUxLDQzMTQ3NjYyOCwxNDUwODcxOTUyLDE5MzkwMDQ0
+NDEsLTEzOTQ3MjI3NTAsMjA5OTU3Mzc4NSwxNTY4NjU5NTY0LC
+0yMTA0MzYwNTQwLDgwNjkwMDk1LC0xNDUyMzQwMTc3LDgwNTI4
+MDk5NSwtMTAyOTkxODg0NCwxMDY0Mjk0NzgsODE4OTM0NjY0LD
+I2OTQxNTg0LC0xMzI3MjQ1NjIyLC03OTEyNjEwNjgsLTE4MDYw
+ODk3NDhdfQ==
 -->
