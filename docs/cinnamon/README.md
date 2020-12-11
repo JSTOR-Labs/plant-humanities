@@ -71,7 +71,7 @@ Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also know
 	fit="containtest"
 	url="NL-HaNA_4.VEL_939A-klein.jpg">
 
-The restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest to create a temporary cultivated field (called a _chena_). Under Dutch rule, they were no longer allowed to practice species circulation on a _chena_ once the plot was planted with cinnamon, so as not to diminish the total acreage. But Pieter van Dam, long-term secretary of the VOC, calculated around 1700 that Sri Lanka produced more than enough cinnamon to supply European and international markets. This makes the suppression of _chena_ practices seem all the more exploitative.[^ref11]
+The restrictions of the Dutch on cinnamon production and export made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengal traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch was also felt internally. Cinnamon harvesters had long been accustomed to clearing plots of forest to create temporary cultivated fields (called _chenas_). Under Dutch rule, they were no longer allowed to practice species circulation on a _chena_ once the plot was planted with cinnamon, so as not to diminish the total acreage. But Pieter van Dam, long-term secretary of the VOC, calculated around 1700 that Sri Lanka produced more than enough cinnamon to supply European and international markets. This makes the suppression of _chena_ practices seem all the more exploitative.[^ref11]
 <param ve-image
 	title="test"
 	url="NL-HaNA_4.VEL_939A-groot_cropped.jpg">
@@ -178,11 +178,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5NDE1ODQsLTEzMjcyNDU2MjIsMjY5ND
-E1ODQsLTc5MTI2MTA2OCwtMTgwNjA4OTc0OCwxNTk5NDQ4NjI2
-LDI4NDIzMDgyNSw4OTU1NzIyOTIsLTE2Njk3OTEwMjUsMTc4Nz
-UwOTA0MiwtMTg4NDcwOTgsLTM3NjUxNTExMiwxNjAwNjQxNzQz
-LC0yMzM5NzMyNTIsODA3MTE4NzQyLC0xNzA4MzQ2MjksMTcyMD
-k4MDY3LC02ODQxNDQzMTcsLTE5NTk0MDM1MTUsMTg3NzU1OTM3
-N119
+eyJoaXN0b3J5IjpbODE4OTM0NjY0LDI2OTQxNTg0LC0xMzI3Mj
+Q1NjIyLC03OTEyNjEwNjgsLTE4MDYwODk3NDgsMTU5OTQ0ODYy
+NiwyODQyMzA4MjUsODk1NTcyMjkyLC0xNjY5NzkxMDI1LDE3OD
+c1MDkwNDIsLTE4ODQ3MDk4LC0zNzY1MTUxMTIsMTYwMDY0MTc0
+MywtMjMzOTczMjUyLDgwNzExODc0MiwtMTcwODM0NjI5LDE3Mj
+A5ODA2NywtNjg0MTQ0MzE3LC0xOTU5NDAzNTE1LDE4Nzc1NTkz
+NzddfQ==
 -->
