@@ -54,6 +54,7 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	center="7.792820, 80.750146"
 	zoom="7.6">
 
+### Optimizing the monopoly
 The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo (1656) and Jaffnapatnam (1658), the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. The Dutch intensified the process of cinnamon peeling. Cinnamon trees were scattered throughout the forests of the island, so groups of local peelers often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of peelers, there was little they could do when peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave peelers alone, in order not to interrupt the supply of cinnamon.
 <param ve-map
 	title="Sri Lanka during the Dutch period. [Note: I have to create a ve-map tag based on a map in Wagenaar, p. 32.]"
@@ -87,6 +88,7 @@ The success was short-lived, however. When the British took over control of the 
 	title="No visualization here yet."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
+### Cinnamon as a tool of empire
 Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 
 Interests of empire and a disinterested search for knowledge could go hand in hand. The botanist Paul Hermann was employed by the Dutch East India Company between 1672 and 1677 to gather botanical knowlegde on Sri Lanka. Although Hermann barely made it out of the capital Colombo, he managed to collect an incredible amount of specimens, that are still stored in collections in London, Leiden, Paris and Erfurt. Cinnamon features prominently in these volumes. his collections of specimens offered input for decades of scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carolus Linnaeus, who dreamed of transplanting exotic species to Swedish regions, and create cinnamon plantations in Lapland.[^ref16]
@@ -187,11 +189,11 @@ In ieder geval toevoegen:
 
 [^ref17]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTUyMjQxODgsMTA3Njk2OTQ2OSwtMj
-A2NDAyNjE1MSw0MzE0NzY2MjgsMTQ1MDg3MTk1MiwxOTM5MDA0
-NDQxLC0xMzk0NzIyNzUwLDIwOTk1NzM3ODUsMTU2ODY1OTU2NC
-wtMjEwNDM2MDU0MCw4MDY5MDA5NSwtMTQ1MjM0MDE3Nyw4MDUy
-ODA5OTUsLTEwMjk5MTg4NDQsMTA2NDI5NDc4LDgxODkzNDY2NC
-wyNjk0MTU4NCwtMTMyNzI0NTYyMiwtNzkxMjYxMDY4LC0xODA2
-MDg5NzQ4XX0=
+eyJoaXN0b3J5IjpbLTQzMzI0Mzg5NywxMDc2OTY5NDY5LC0yMD
+Y0MDI2MTUxLDQzMTQ3NjYyOCwxNDUwODcxOTUyLDE5MzkwMDQ0
+NDEsLTEzOTQ3MjI3NTAsMjA5OTU3Mzc4NSwxNTY4NjU5NTY0LC
+0yMTA0MzYwNTQwLDgwNjkwMDk1LC0xNDUyMzQwMTc3LDgwNTI4
+MDk5NSwtMTAyOTkxODg0NCwxMDY0Mjk0NzgsODE4OTM0NjY0LD
+I2OTQxNTg0LC0xMzI3MjQ1NjIyLC03OTEyNjEwNjgsLTE4MDYw
+ODk3NDhdfQ==
 -->
