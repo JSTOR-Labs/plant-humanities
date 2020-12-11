@@ -18,7 +18,7 @@ In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although
 ### Forgotten knowledge and fabricated history
 Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: it is mostly about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same plants as those found in the East Indies in the sixteenth century. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
 <param ve-image
-	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
+	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b. [Note: I downloaded this image from HOLLIS Images. The image has a manifest but it is no reusable as it requires a login.]"
 	url="18040817.jpg">
 	
 How could this confusion last so long? First, a possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, European scholars writing about cinnamon would turn to classical, not medieval sources, to understand the spice and its properties. They managed to resolve the discrepancies they found between classical descriptions of the spice and the plant that was found in Sri Lanka. In his book [_Colloquies on the Simples and Drugs of India_](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations and classical authors' descriptions of cinnamon by the fact that the latter had only known the processed spice, not the actual plant.[^ref3]
@@ -177,9 +177,9 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDM4OTQ4NzEsODA3MTE4NzQyLC0xNz
-A4MzQ2MjksMTcyMDk4MDY3LC02ODQxNDQzMTcsLTE5NTk0MDM1
-MTUsMTg3NzU1OTM3NywxODE3NTIzMDUxLC00MDI1MTA4NzQsNz
-gzNTI5OTA4LC0xOTkwODEzNzkyLDE3MTg1MDI2NDIsMTcxODUw
-MjY0MiwtMTIxNTIzODc0M119
+eyJoaXN0b3J5IjpbLTY2NTA4MDcxNCw4MDcxMTg3NDIsLTE3MD
+gzNDYyOSwxNzIwOTgwNjcsLTY4NDE0NDMxNywtMTk1OTQwMzUx
+NSwxODc3NTU5Mzc3LDE4MTc1MjMwNTEsLTQwMjUxMDg3NCw3OD
+M1Mjk5MDgsLTE5OTA4MTM3OTIsMTcxODUwMjY0MiwxNzE4NTAy
+NjQyLC0xMjE1MjM4NzQzXX0=
 -->
