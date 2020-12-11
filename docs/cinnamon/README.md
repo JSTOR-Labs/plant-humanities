@@ -54,6 +54,9 @@ Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lank
 	title="Sri Lanka"
 	center="7.792820, 80.750146"
 	zoom="7.6">
+<param ve-image
+	title="Map of Sri lanka"
+	url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Lanka_geopolitics_-_after_%22Spoiling_of_Vijayabahu%22.png">
 
 The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese were defeated in Colombo in 1656 and Jaffnapatnam in 1658, the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island's interior. The relation between the Dutch and the king of Kandy was strained. The Dutch intensified the process of cinnamon peeling. Cinnamon trees were scattered throughout the forests of the island, so groups of local peelers often had to cross Portuguese and, later, Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or on individual groups of peelers, there was little they could do when peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to leave peelers alone, in order not to interrupt the supply of cinnamon.
 <param ve-map
@@ -178,10 +181,10 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ3MDk4LC0zNzY1MTUxMTIsMTYwMD
-Y0MTc0MywtMjMzOTczMjUyLDgwNzExODc0MiwtMTcwODM0NjI5
-LDE3MjA5ODA2NywtNjg0MTQ0MzE3LC0xOTU5NDAzNTE1LDE4Nz
-c1NTkzNzcsMTgxNzUyMzA1MSwtNDAyNTEwODc0LDc4MzUyOTkw
-OCwtMTk5MDgxMzc5MiwxNzE4NTAyNjQyLDE3MTg1MDI2NDIsLT
-EyMTUyMzg3NDNdfQ==
+eyJoaXN0b3J5IjpbMTc4NzUwOTA0MiwtMTg4NDcwOTgsLTM3Nj
+UxNTExMiwxNjAwNjQxNzQzLC0yMzM5NzMyNTIsODA3MTE4NzQy
+LC0xNzA4MzQ2MjksMTcyMDk4MDY3LC02ODQxNDQzMTcsLTE5NT
+k0MDM1MTUsMTg3NzU1OTM3NywxODE3NTIzMDUxLC00MDI1MTA4
+NzQsNzgzNTI5OTA4LC0xOTkwODEzNzkyLDE3MTg1MDI2NDIsMT
+cxODUwMjY0MiwtMTIxNTIzODc0M119
 -->
