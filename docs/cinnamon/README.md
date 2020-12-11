@@ -9,7 +9,16 @@
 	author="Wouter Klein, PhD">
 
 ### The cinnamon challenge
-
+Test paragraph
+bla
+bla
+bla
+bla
+bla
+<param ve-image
+	title="test"
+	manifest="https://iiif-v2.visual-essays.app/manifest/429e29e46bab79cc568cb88da896d4da68830439bbab78d5c6016ec56d055d3a">
+	
 In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although the instruction is simple enough – try to swallow a tablespoon of cinnamon at once – it proves to be virtually impossible in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterised by extreme exhalation of cinnamon powder (known as 'dragon breath'). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestable clutter in the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote in the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos, or as a quotidian kitchen spice, will be surprised to learn that the real challenge of cinnamon has been an ongoing effort for 2000 years, to find out what cinnamon actually is, as a plant and as a medicine.
 <param ve-video
 	vid="cmpd58kMl2s"
@@ -178,11 +187,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjk5MTg4NDQsMTA2NDI5NDc4LDgxOD
-kzNDY2NCwyNjk0MTU4NCwtMTMyNzI0NTYyMiwtNzkxMjYxMDY4
-LC0xODA2MDg5NzQ4LDE1OTk0NDg2MjYsMjg0MjMwODI1LDg5NT
-U3MjI5MiwtMTY2OTc5MTAyNSwxNzg3NTA5MDQyLC0xODg0NzA5
-OCwtMzc2NTE1MTEyLDE2MDA2NDE3NDMsLTIzMzk3MzI1Miw4MD
-cxMTg3NDIsLTE3MDgzNDYyOSwxNzIwOTgwNjcsLTY4NDE0NDMx
-N119
+eyJoaXN0b3J5IjpbODA1MjgwOTk1LC0xMDI5OTE4ODQ0LDEwNj
+QyOTQ3OCw4MTg5MzQ2NjQsMjY5NDE1ODQsLTEzMjcyNDU2MjIs
+LTc5MTI2MTA2OCwtMTgwNjA4OTc0OCwxNTk5NDQ4NjI2LDI4ND
+IzMDgyNSw4OTU1NzIyOTIsLTE2Njk3OTEwMjUsMTc4NzUwOTA0
+MiwtMTg4NDcwOTgsLTM3NjUxNTExMiwxNjAwNjQxNzQzLC0yMz
+M5NzMyNTIsODA3MTE4NzQyLC0xNzA4MzQ2MjksMTcyMDk4MDY3
+XX0=
 -->
