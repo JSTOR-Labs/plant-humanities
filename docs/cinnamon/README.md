@@ -47,7 +47,7 @@ The quest for spices, cinnamon among them, was one of the most important aims th
 <param ve-image
 	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner covering the globe reads in Latin 'Primus circumdedisti me' ('You first encircled me')."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
-	region="-408,0,1403,1023">
+	fit="contain">
 
 Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to get access to the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, the Portuguese engaged in 'reluctant imperialism' to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
 <param ve-map
@@ -178,11 +178,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjcyNDU2MjIsMjY5NDE1ODQsLTc5MT
-I2MTA2OCwtMTgwNjA4OTc0OCwxNTk5NDQ4NjI2LDI4NDIzMDgy
-NSw4OTU1NzIyOTIsLTE2Njk3OTEwMjUsMTc4NzUwOTA0MiwtMT
-g4NDcwOTgsLTM3NjUxNTExMiwxNjAwNjQxNzQzLC0yMzM5NzMy
-NTIsODA3MTE4NzQyLC0xNzA4MzQ2MjksMTcyMDk4MDY3LC02OD
-QxNDQzMTcsLTE5NTk0MDM1MTUsMTg3NzU1OTM3NywxODE3NTIz
-MDUxXX0=
+eyJoaXN0b3J5IjpbMjY5NDE1ODQsLTEzMjcyNDU2MjIsMjY5ND
+E1ODQsLTc5MTI2MTA2OCwtMTgwNjA4OTc0OCwxNTk5NDQ4NjI2
+LDI4NDIzMDgyNSw4OTU1NzIyOTIsLTE2Njk3OTEwMjUsMTc4Nz
+UwOTA0MiwtMTg4NDcwOTgsLTM3NjUxNTExMiwxNjAwNjQxNzQz
+LC0yMzM5NzMyNTIsODA3MTE4NzQyLC0xNzA4MzQ2MjksMTcyMD
+k4MDY3LC02ODQxNDQzMTcsLTE5NTk0MDM1MTUsMTg3NzU1OTM3
+N119
 -->
