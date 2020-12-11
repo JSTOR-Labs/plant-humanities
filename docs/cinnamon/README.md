@@ -60,7 +60,7 @@ The Dutch made even stronger, concerted efforts to get a hold on cinnamon. They 
 	center="7.792820, 80.750146"
 	zoom="7.6">
 
-Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also known as _Saliya_ or _Chaliya_). Although their skills were indispensable for the cinnamon trade, they were treated harshly by the Dutch. Each year, the peelers gathered in Colombo to pledge loyalty to the Dutch governor (a ceremony called _paresse_). There was a long peeling season for cinnamon between May and August, and a short one between January and February. On both occassions, groups of men were sent off into the woods with nothing but paring knives and an amount of rice. Adult men were obliged to bring back 12 _robes_ (of 56 pounds each) at the end of the summer season. Boys from 12 years of age had to contribute proportionally. Dutch sources often complained about peelers as lazy and unreliable, but the peelers had a hard life. They were away from home for months, had to provide for themselves while working in the forests, where they were subject to diseases, and they were severely punished if they did not meet their quotum.[^ref9]
+Peelers were specialized laborers from the Sinhalese caste _Salagama_ (also known as _Saliya_ or _Chaliya_). Although their skills were indispensable for the cinnamon trade, they were treated harshly by the Dutch. Each year, the peelers gathered in Colombo for a ceremony where they pledged loyalty to the Dutch governor. There was a long peeling season for cinnamon between May and August, and a short one between January and February. On both occassions, groups of men were sent off into the woods with nothing but paring knives and an amount of rice. Adult men were obliged to bring back 12 _robes_ (of 56 pounds each) at the end of the summer season. Boys from 12 years of age had to contribute proportionally. Dutch sources often complained about peelers as lazy and unreliable, but the peelers had a hard life. They were away from home for months, had to provide for themselves while working in the forests, where they were subject to diseases, and they were severely punished if they did not meet their quotum.[^ref9]
 <param ve-image
 	title="Imaginary landscapes with spices from the East Indies. On the left can be seen a nutmeg tree, a cinnamon tree, and an elephant chase in the background. On the right can be seen a cloves tree and bamboo, with the volcano Ternate in the back. Etching by Romeyn de Hooghe, produced between 1682 and 1733. Rijksmuseum, Amsterdam, object no. BI-1972-1043-16, serial no. 10/41."
 	url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kaneel%2C_nootmuskaat%2C_kruidnagel_en_bamboe_Kaneel_en_Nootmus_Canelle%2C_Muscade%2C_Chasse_des_Elephans%2C_etc_Kruytnagelengewas_Girofle%2C_Bambous%2C_Montagne_brulante%2C_etc_%28titel_op_object%29_Les_Indes_Orientales_et_Occidentales_e%2C_BI-1972-1043-16.jpg">
@@ -178,11 +178,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQ3MjI3NTAsMjA5OTU3Mzc4NSwxNT
-Y4NjU5NTY0LC0yMTA0MzYwNTQwLDgwNjkwMDk1LC0xNDUyMzQw
-MTc3LDgwNTI4MDk5NSwtMTAyOTkxODg0NCwxMDY0Mjk0NzgsOD
-E4OTM0NjY0LDI2OTQxNTg0LC0xMzI3MjQ1NjIyLC03OTEyNjEw
-NjgsLTE4MDYwODk3NDgsMTU5OTQ0ODYyNiwyODQyMzA4MjUsOD
-k1NTcyMjkyLC0xNjY5NzkxMDI1LDE3ODc1MDkwNDIsLTE4ODQ3
-MDk4XX0=
+eyJoaXN0b3J5IjpbLTI4Njc2NzkwMCwtMTM5NDcyMjc1MCwyMD
+k5NTczNzg1LDE1Njg2NTk1NjQsLTIxMDQzNjA1NDAsODA2OTAw
+OTUsLTE0NTIzNDAxNzcsODA1MjgwOTk1LC0xMDI5OTE4ODQ0LD
+EwNjQyOTQ3OCw4MTg5MzQ2NjQsMjY5NDE1ODQsLTEzMjcyNDU2
+MjIsLTc5MTI2MTA2OCwtMTgwNjA4OTc0OCwxNTk5NDQ4NjI2LD
+I4NDIzMDgyNSw4OTU1NzIyOTIsLTE2Njk3OTEwMjUsMTc4NzUw
+OTA0Ml19
 -->
