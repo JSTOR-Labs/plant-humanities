@@ -15,7 +15,7 @@ In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although
 	title="test"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/No_image_template.svg/1024px-No_image_template.svg.png">
 	
-### Forgotten knowledge and fabricated history
+## Forgotten knowledge and fabricated history
 Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: most of cinnamon's history is about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same as those found in the East Indies in the sixteenth century, to which those names were attached. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
 <param ve-image
 	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
@@ -170,11 +170,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDcxNjI1NzcsMjgyODIzMTc3LC0xND
-EwNDQxMzg3LC0yMDE1ODUxNzU3LDE4NDkwMjA2ODksMjA4Mzk1
-MzQ1NCwyMDgzOTUzNDU0LC0xNTMwMTQzODMxLC0xMDY3NTEwMT
-czLDEzMjYyNDkxMTYsLTc1NzM1MzAxMCwtMjEzMDI3ODU2LDM2
-NDQ4NzQ1MCwxNzE4MDY4NzIxLDM0NTYzNDE5MiwxODU5Njc0Nz
-QzLDgxOTA1MjQ1NCwxOTQyMDY2NTI3LC0xMzE2Nzk4Nzc0LC0x
-MDI1MTk2MDM2XX0=
+eyJoaXN0b3J5IjpbLTE2MzQ0MTA4NjQsLTE2MDcxNjI1NzcsMj
+gyODIzMTc3LC0xNDEwNDQxMzg3LC0yMDE1ODUxNzU3LDE4NDkw
+MjA2ODksMjA4Mzk1MzQ1NCwyMDgzOTUzNDU0LC0xNTMwMTQzOD
+MxLC0xMDY3NTEwMTczLDEzMjYyNDkxMTYsLTc1NzM1MzAxMCwt
+MjEzMDI3ODU2LDM2NDQ4NzQ1MCwxNzE4MDY4NzIxLDM0NTYzND
+E5MiwxODU5Njc0NzQzLDgxOTA1MjQ1NCwxOTQyMDY2NTI3LC0x
+MzE2Nzk4Nzc0XX0=
 -->
