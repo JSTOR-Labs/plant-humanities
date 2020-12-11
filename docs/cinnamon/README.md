@@ -138,8 +138,6 @@ Future of cinnamon
 In ieder geval toevoegen:
  #Salagama (Q3469487), also known als saliya or chaliya
 
-# Verder vanaf Samaraweera (V.) 19s
-
 ### References
 
 [^ref1]: Stephen G. Haw, "Cinnamon, Cassia and Ancient Trade", _Journal of Ancient History and Archaeology_, 4:1 (2017) 5-18.
@@ -172,7 +170,7 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzUyMzA1MSwtNDAyNTEwODc0LDc4Mz
-UyOTkwOCwtMTk5MDgxMzc5MiwxNzE4NTAyNjQyLDE3MTg1MDI2
-NDIsLTEyMTUyMzg3NDNdfQ==
+eyJoaXN0b3J5IjpbMTg3NzU1OTM3NywxODE3NTIzMDUxLC00MD
+I1MTA4NzQsNzgzNTI5OTA4LC0xOTkwODEzNzkyLDE3MTg1MDI2
+NDIsMTcxODUwMjY0MiwtMTIxNTIzODc0M119
 -->
