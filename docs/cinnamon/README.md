@@ -26,7 +26,7 @@ How could this confusion last so long? First, a possible explanation for the shi
 	title="Cinnamon leaf and bark, in Garcia de Orta, _Aromatum, et Simplicium aliquot Medicamentorum apud Indos nascentium Historia_ (Antverpiae: Ex officina Christophori Plantini 1567) 72. The images were not in Orta's original Portuguese publication of 1563, but they were added by the editor, Flemish botanist Carolus Clusius, for this Latin edition."
 	url="https://www.archive.org/download/mobot31753003488159/page/n71_w314">
 <param ve-image
-	title="Cinnamon bark, in Carolus Clusius, _Exoticorum Libri Decem_ ([Leiden]: Ex Officinâ Plantinianâ Raphelengii 1605) 171. Clusius adapted Orta's work once more for this publication on exotic naturalia. Unhappy with the leaf image from his 1567 edition of Orta's work, he left it out here, and only included the image cinnamon bark."
+	title="Cinnamon bark, in Carolus Clusius, _Exoticorum Libri Decem_ ([Leiden]: Ex Officinâ Plantinianâ Raphelengii 1605) 171. Clusius adapted Orta's work once more for this publication on exotic naturalia. Unhappy with the leaf image from his 1567 edition of Orta's work, he left it out here, and only included the image of cinnamon bark."
 	url="https://www.archive.org/download/mobot31753000811387/page/n185_w1131"
 	region="246,1762,1391,985">
 
@@ -177,7 +177,7 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODg4ODg4MSw4MDcxMTg3NDIsLTE3MD
+eyJoaXN0b3J5IjpbLTIzMzk3MzI1Miw4MDcxMTg3NDIsLTE3MD
 gzNDYyOSwxNzIwOTgwNjcsLTY4NDE0NDMxNywtMTk1OTQwMzUx
 NSwxODc3NTU5Mzc3LDE4MTc1MjMwNTEsLTQwMjUxMDg3NCw3OD
 M1Mjk5MDgsLTE5OTA4MTM3OTIsMTcxODUwMjY0MiwxNzE4NTAy
