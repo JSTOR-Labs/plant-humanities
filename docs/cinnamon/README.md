@@ -79,7 +79,7 @@ Local grievances about the VOC policy for _chenas_, combined with extortion of p
 <param ve-image
 	title="bladiebla"
 	url="NL-HaNA_4.VEL_935-groot.jpg"
-	region="2169,1011,950,713">
+	region="2226,1064,839,630">
 
 Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine, he was reprimanded in 1675 by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 
@@ -177,11 +177,11 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQzNjA1NDAsODA2OTAwOTUsLTE0NT
-IzNDAxNzcsODA1MjgwOTk1LC0xMDI5OTE4ODQ0LDEwNjQyOTQ3
-OCw4MTg5MzQ2NjQsMjY5NDE1ODQsLTEzMjcyNDU2MjIsLTc5MT
-I2MTA2OCwtMTgwNjA4OTc0OCwxNTk5NDQ4NjI2LDI4NDIzMDgy
-NSw4OTU1NzIyOTIsLTE2Njk3OTEwMjUsMTc4NzUwOTA0MiwtMT
-g4NDcwOTgsLTM3NjUxNTExMiwxNjAwNjQxNzQzLC0yMzM5NzMy
-NTJdfQ==
+eyJoaXN0b3J5IjpbLTE3NDUzMTgwMTIsLTIxMDQzNjA1NDAsOD
+A2OTAwOTUsLTE0NTIzNDAxNzcsODA1MjgwOTk1LC0xMDI5OTE4
+ODQ0LDEwNjQyOTQ3OCw4MTg5MzQ2NjQsMjY5NDE1ODQsLTEzMj
+cyNDU2MjIsLTc5MTI2MTA2OCwtMTgwNjA4OTc0OCwxNTk5NDQ4
+NjI2LDI4NDIzMDgyNSw4OTU1NzIyOTIsLTE2Njk3OTEwMjUsMT
+c4NzUwOTA0MiwtMTg4NDcwOTgsLTM3NjUxNTExMiwxNjAwNjQx
+NzQzXX0=
 -->
