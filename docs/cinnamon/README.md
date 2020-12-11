@@ -89,7 +89,7 @@ The success was short-lived, however. When the British took over control of the 
 
 Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 
-Interests of empire and a disinterested search for knowledge could go hand in hand. The botanist Paul Hermann was employed by the Dutch East India Company between 1672 and 1677 to gather botanical knowlegde on Sri Lanka. Although Hermann barely made it out of the capital Colombo, his collections of specimens offered input for decades of scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carolus Linnaeus, who dreamed of transplanting exotic species to Swedish regions, and create cinnamon plantations in Lapland.
+Interests of empire and a disinterested search for knowledge could go hand in hand. The botanist Paul Hermann was employed by the Dutch East India Company between 1672 and 1677 to gather botanical knowlegde on Sri Lanka. Although Hermann barely made it out of the capital Colombo, his collections of specimens offered input for decades of scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carolus Linnaeus, who dreamed of transplanting exotic species to Swedish regions, and create cinnamon plantations in Lapland.[^ref16]
 Alinea over Paul Hermann, herbaria, mislukte plantjes exporteren, misschien Linnaeus? Misschien zelfs Koerner noemen? Hermann (P.) 1687 (failed attempt in Dutch gardens). Paul Hermann / Linnaeus? Andel (T.) & Barth (N.) 2018. Jarvis (C.E.) 2007.
 
 ### Cinnamon and the imagination of empire
@@ -183,13 +183,13 @@ In ieder geval toevoegen:
 
 [^ref15]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 
-Lisbet Koerner, _Linnaeus: Nature and Nation_ (Cambridge (MA) and London: Harvard University Press 1999) 36.
+[^ref16]: Lisbet Koerner, _Linnaeus: Nature and Nation_ (Cambridge (MA) and London: Harvard University Press 1999) 36.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3Njk2OTQ2OSwtMjA2NDAyNjE1MSw0Mz
-E0NzY2MjgsMTQ1MDg3MTk1MiwxOTM5MDA0NDQxLC0xMzk0NzIy
-NzUwLDIwOTk1NzM3ODUsMTU2ODY1OTU2NCwtMjEwNDM2MDU0MC
-w4MDY5MDA5NSwtMTQ1MjM0MDE3Nyw4MDUyODA5OTUsLTEwMjk5
-MTg4NDQsMTA2NDI5NDc4LDgxODkzNDY2NCwyNjk0MTU4NCwtMT
-MyNzI0NTYyMiwtNzkxMjYxMDY4LC0xODA2MDg5NzQ4LDE1OTk0
-NDg2MjZdfQ==
+eyJoaXN0b3J5IjpbMTI5MjQwMDMyNywxMDc2OTY5NDY5LC0yMD
+Y0MDI2MTUxLDQzMTQ3NjYyOCwxNDUwODcxOTUyLDE5MzkwMDQ0
+NDEsLTEzOTQ3MjI3NTAsMjA5OTU3Mzc4NSwxNTY4NjU5NTY0LC
+0yMTA0MzYwNTQwLDgwNjkwMDk1LC0xNDUyMzQwMTc3LDgwNTI4
+MDk5NSwtMTAyOTkxODg0NCwxMDY0Mjk0NzgsODE4OTM0NjY0LD
+I2OTQxNTg0LC0xMzI3MjQ1NjIyLC03OTEyNjEwNjgsLTE4MDYw
+ODk3NDhdfQ==
 -->
