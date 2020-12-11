@@ -91,7 +91,7 @@ The success was short-lived, however. When the British took over control of the 
 ### A tool of empire or a tool of science?
 Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 
-Interests of empire and a disinterested search for knowledge could go hand in hand. The botanist Paul Hermann was employed by the Dutch East India Company between 1672 and 1677 to gather botanical knowlegde on Sri Lanka. Although Hermann barely made it out of the capital Colombo, he managed to collect an impressive amount of specimens, that are still stored in collections in London, Leiden, Paris and Erfurt. Cinnamon features prominently in these volumes.[^ref15] Hermann's collections offered input for decades of scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carolus Linnaeus, who dreamed of transplanting cinnamon to plantations in Lapland.[^ref16] But Hermann already knew that northern Europe was too cold for cinnamon: in spite of the VOC ban on exporting living plants, he managed to send living trees [^ref17]
+Interests of empire and a disinterested search for knowledge could go hand in hand. The botanist Paul Hermann was employed by the Dutch East India Company between 1672 and 1677 to gather botanical knowlegde on Sri Lanka. Although Hermann barely made it out of the capital Colombo, he managed to collect an impressive amount of specimens, that are still stored in collections in London, Leiden, Paris and Erfurt. Cinnamon features prominently in these volumes.[^ref15] Hermann's collections offered input for decades of scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carolus Linnaeus, who dreamed of transplanting cinnamon to plantations in Lapland.[^ref16] But Hermann already knew that northern Europe was too cold for cinnamon: in spite of the VOC ban on exporting living plants, he sent living trees to the regent # Hieronymus van Beverningh[^ref17]
 Alinea over Paul Hermann, herbaria, mislukte plantjes exporteren, misschien Linnaeus? Misschien zelfs Koerner noemen? Hermann (P.) 1687 (failed attempt in Dutch gardens). Paul Hermann / Linnaeus? Andel (T.) & Barth (N.) 2018. Jarvis (C.E.) 2007.
 
 ### Cinnamon and the imagination of empire
@@ -187,15 +187,15 @@ In ieder geval toevoegen:
 
 [^ref16]: Lisbet Koerner, _Linnaeus: Nature and Nation_ (Cambridge (MA) and London: Harvard University Press 1999) 36.
 
-[^ref17]: Paul Hermann, _Horti academici Lugduno-Batavi catalogus exhibens Plantarum omnium Nomina, quibus ab anno MDCLXXXI ad annum MDCLXXXVI Hortus fuit instructus ut & Plurimarum in eodem cultarum & à nemine hucusque editarum Descriptiones & Icones_ (Lugduni Batavorum: Apud Cornelium Boutesteyn 1687) 130; quoted in
+[^ref17]: Paul Hermann, _Horti academici Lugduno-Batavi catalogus exhibens Plantarum omnium Nomina, quibus ab anno MDCLXXXI ad annum MDCLXXXVI Hortus fuit instructus ut & Plurimarum in eodem cultarum & à nemine hucusque editarum Descriptiones & Icones_ (Lugduni Batavorum: Apud Cornelium Boutesteyn 1687) 130; quoted in Heniger, _Hendrik Adriaan van Reede tot Drakenstein_, 155.
 
 [^ref18]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDkwNzgwOCwxMDc2OTY5NDY5LC0yMD
-Y0MDI2MTUxLDQzMTQ3NjYyOCwxNDUwODcxOTUyLDE5MzkwMDQ0
-NDEsLTEzOTQ3MjI3NTAsMjA5OTU3Mzc4NSwxNTY4NjU5NTY0LC
-0yMTA0MzYwNTQwLDgwNjkwMDk1LC0xNDUyMzQwMTc3LDgwNTI4
-MDk5NSwtMTAyOTkxODg0NCwxMDY0Mjk0NzgsODE4OTM0NjY0LD
-I2OTQxNTg0LC0xMzI3MjQ1NjIyLC03OTEyNjEwNjgsLTE4MDYw
-ODk3NDhdfQ==
+eyJoaXN0b3J5IjpbMTU3Nzk0MzA3OSwxODkwOTA3ODA4LDEwNz
+Y5Njk0NjksLTIwNjQwMjYxNTEsNDMxNDc2NjI4LDE0NTA4NzE5
+NTIsMTkzOTAwNDQ0MSwtMTM5NDcyMjc1MCwyMDk5NTczNzg1LD
+E1Njg2NTk1NjQsLTIxMDQzNjA1NDAsODA2OTAwOTUsLTE0NTIz
+NDAxNzcsODA1MjgwOTk1LC0xMDI5OTE4ODQ0LDEwNjQyOTQ3OC
+w4MTg5MzQ2NjQsMjY5NDE1ODQsLTEzMjcyNDU2MjIsLTc5MTI2
+MTA2OF19
 -->
