@@ -91,7 +91,7 @@ The success was short-lived, however. When the British took over control of the 
 ### A tool of empire or a tool of science?
 Although cinnamon was a succesful monopoly during the Dutch period, was it really a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. But the Dutch monopoly was about retaining commercial interests above anything else. Otherwise, some exchange of knowledge was possible, and not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 
-Interests of empire and a disinterested search for knowledge could go hand in hand. The botanist Paul Hermann was employed by the Dutch East India Company between 1672 and 1677 to gather botanical knowlegde on Sri Lanka. Although Hermann barely made it out of the capital Colombo, he managed to collect an impressive amount of specimens, that are still stored in collections in London, Leiden, Paris and Erfurt. Cinnamon features prominently in these volumes.[^ref15] Hermann's collections offered input for decades of scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carolus Linnaeus, who dreamed of transplanting cinnamon to plantations in Lapland.[^ref16] But Hermann already knew that northern Europe was too cold for cinnamon: in spite of the VOC ban on exporting living plants, he sent living trees to several acquaintances the regent Hieronymus van Beverningh and botanist Arnold Syen, which only lasted two or three years.[^ref17] Exchange of knowledge and goods 
+Interests of empire and a disinterested search for knowledge could go hand in hand. The botanist Paul Hermann was employed by the VOC between 1672 and 1677 to gather botanical knowlegde on Sri Lanka. Although Hermann barely made it out of the capital Colombo, he managed to collect an impressive amount of specimens, that are still stored in collections in London, Leiden, Paris and Erfurt. Cinnamon features prominently in these volumes.[^ref15] Hermann's collections offered input for decades of scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carolus Linnaeus, who dreamed of transplanting cinnamon to plantations in Lapland.[^ref16] But Hermann already knew that northern Europe was too cold for cinnamon: in spite of the VOC ban on exporting living plants, he sent living trees to several acquaintances in the Dutch Republic, but non of those lasted for more than two or three years.[^ref17] Exchange of knowledge and goods 
 
 ### Cinnamon and the imagination of empire
 
@@ -190,11 +190,11 @@ In ieder geval toevoegen:
 
 [^ref18]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM2NTUzNDAsMTg5MDkwNzgwOCwxMD
-c2OTY5NDY5LC0yMDY0MDI2MTUxLDQzMTQ3NjYyOCwxNDUwODcx
-OTUyLDE5MzkwMDQ0NDEsLTEzOTQ3MjI3NTAsMjA5OTU3Mzc4NS
-wxNTY4NjU5NTY0LC0yMTA0MzYwNTQwLDgwNjkwMDk1LC0xNDUy
-MzQwMTc3LDgwNTI4MDk5NSwtMTAyOTkxODg0NCwxMDY0Mjk0Nz
-gsODE4OTM0NjY0LDI2OTQxNTg0LC0xMzI3MjQ1NjIyLC03OTEy
-NjEwNjhdfQ==
+eyJoaXN0b3J5IjpbMTEyNTQxMTIxLDE4OTA5MDc4MDgsMTA3Nj
+k2OTQ2OSwtMjA2NDAyNjE1MSw0MzE0NzY2MjgsMTQ1MDg3MTk1
+MiwxOTM5MDA0NDQxLC0xMzk0NzIyNzUwLDIwOTk1NzM3ODUsMT
+U2ODY1OTU2NCwtMjEwNDM2MDU0MCw4MDY5MDA5NSwtMTQ1MjM0
+MDE3Nyw4MDUyODA5OTUsLTEwMjk5MTg4NDQsMTA2NDI5NDc4LD
+gxODkzNDY2NCwyNjk0MTU4NCwtMTMyNzI0NTYyMiwtNzkxMjYx
+MDY4XX0=
 -->
