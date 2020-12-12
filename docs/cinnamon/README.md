@@ -94,7 +94,7 @@ Although cinnamon was a successful monopoly during the Dutch period, was it only
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-Interests of empire and a disinterested search for knowledge could go hand in hand. The botanist Paul Hermann was employed by the VOC between 1672 and 1677 to gather botanical knowlegde on Sri Lanka. Although Hermann barely made it out of Colombo, he managed to collect an impressive amount of material, including many cinnamon specimens.[^ref15] Hermann's collections offered input for decades of scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carolus Linnaeus, who dreamed of transplanting cinnamon to plantations in Lapland.[^ref16] But Hermann already knew that northern Europe was too cold for cinnamon: in spite of the VOC ban on exporting living plants, he sent trees to several acquaintances in the Dutch Republic, none of which lasted for more than two or three years.[^ref17] Exchange of knowledge and goods was evidently possible: an extensive, first-hand account of all the cinnamon varieties on Sri Lanka even made it into the _Philosophical Transactions_ of the Royal Society in 1730.[^ref18]
+Interests of empire and a disinterested search for knowledge could go hand in hand. The botanist Paul Hermann was employed by the VOC between 1672 and 1677 to gather botanical knowlegde on Sri Lanka. Although Hermann barely made it out of Colombo, he managed to collect an impressive amount of material, including many cinnamon specimens.[^ref15] Hermann's collections offered input for decades of scholarly interest in Sri Lankan flora. Many specimens served indirectly as type specimens for the _Species Plantarum_ (1753) of Carolus Linnaeus, who dreamed of transplanting cinnamon to plantations in Lapland.[^ref16] But Hermann already knew that northern Europe was too cold for cinnamon: in spite of the VOC ban on exporting living plants, he sent trees to several acquaintances in the Dutch Republic, none of which survived the cold winters.[^ref17] Exchange of knowledge and goods was evidently possible: an extensive, first-hand account of all the cinnamon varieties on Sri Lanka even made it into the _Philosophical Transactions_ of the Royal Society in 1730.[^ref18]
 <param ve-image
 	title="'Cinnamon from Ceylon with flowers'. Specimen of   
 _Cinnamomum verum_ J.Presl, from Paul Hermann's herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171. [This is currently a downloaded image, because the Leiden volumes of Hermann's herbarium are not in JSTOR's Global Plants database. The London volumes are.]"
@@ -209,11 +209,11 @@ In ieder geval toevoegen:
 
 [^ref25]: Bleichmar, _Visible Empire_, 123-126.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTY0OTcwNCw1NjczNTM4MTIsMTg3Nj
-MxNTg3NSwxNTc4MDQyNTYxLDIwMjE5NzcxNDIsLTEwODc1OTkw
-MzcsLTEzNjYxMTU2MDMsLTE3ODEzMjQwLC05Nzg4MTY0NjksLT
-k4MTIyNTQ0MiwtMTA3MDA3NTEyNCw0MjQ4NDUyMDYsNDA0ODAx
-MjAyLC03MDIwODcxNzMsLTc3NTY3NTk3NCwtOTY2NTAzMDA1LC
-03MDQ1MDM3MTUsLTcwODUwMzQ1OSwtNjc2OTIwNzMyLC0xNzQ4
-MDMyNDUwXX0=
+eyJoaXN0b3J5IjpbLTEzNzYzNzM2NDIsNTY3MzUzODEyLDE4Nz
+YzMTU4NzUsMTU3ODA0MjU2MSwyMDIxOTc3MTQyLC0xMDg3NTk5
+MDM3LC0xMzY2MTE1NjAzLC0xNzgxMzI0MCwtOTc4ODE2NDY5LC
+05ODEyMjU0NDIsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LDQwNDgw
+MTIwMiwtNzAyMDg3MTczLC03NzU2NzU5NzQsLTk2NjUwMzAwNS
+wtNzA0NTAzNzE1LC03MDg1MDM0NTksLTY3NjkyMDczMiwtMTc0
+ODAzMjQ1MF19
 -->
