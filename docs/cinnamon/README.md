@@ -113,7 +113,7 @@ The Spanish efforts to find cinnamon in the New World were not only intended to 
 	title="bla bla bla"
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
 
-And Spain really needed cinnamon. One eighteenth-century estimate 
+And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch production on Sri Lanka was exported to Spain and its colonies.
 
 
 
@@ -203,11 +203,11 @@ In ieder geval toevoegen:
 
 [^ref21]: Catherine E. Burdick, "Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle's _Tabula Geographica Regni Chile_ (1646)", _Imago Mundi_, 66:2 (2014) 196-212.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIxNjgwOTQsLTEzNjYxMTU2MDMsLT
-E3ODEzMjQwLC05Nzg4MTY0NjksLTk4MTIyNTQ0MiwtMTA3MDA3
-NTEyNCw0MjQ4NDUyMDYsNDA0ODAxMjAyLC03MDIwODcxNzMsLT
-c3NTY3NTk3NCwtOTY2NTAzMDA1LC03MDQ1MDM3MTUsLTcwODUw
-MzQ1OSwtNjc2OTIwNzMyLC0xNzQ4MDMyNDUwLC0xODY0ODI0Mj
-AwLDEzMzA5MDE4MTIsMTg5MDkwNzgwOCwxMDc2OTY5NDY5LC0y
-MDY0MDI2MTUxXX0=
+eyJoaXN0b3J5IjpbMjA2NTAyODk3OCwtMTM2NjExNTYwMywtMT
+c4MTMyNDAsLTk3ODgxNjQ2OSwtOTgxMjI1NDQyLC0xMDcwMDc1
+MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLTcwMjA4NzE3MywtNz
+c1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUwMzcxNSwtNzA4NTAz
+NDU5LC02NzY5MjA3MzIsLTE3NDgwMzI0NTAsLTE4NjQ4MjQyMD
+AsMTMzMDkwMTgxMiwxODkwOTA3ODA4LDEwNzY5Njk0NjksLTIw
+NjQwMjYxNTFdfQ==
 -->
