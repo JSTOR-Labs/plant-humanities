@@ -113,7 +113,7 @@ The Spanish efforts to find cinnamon in the New World were not only intended to 
 	title="bla bla bla"
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
 
-And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch cinnamon exports from Sri Lanka to Europe was consumed by Spain and its colonies.[^ref22] Cinnamon was used, for instance, as a flavoring ingredient in chocolate drinks, which were very popular in the Spanish Atlantic world. To supplement the supply of cinnamon, Spain embarked on a second strategy of producing cinnamon itself, from other _Cinnamomum_ species in the East Indies. 
+And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch cinnamon exports from Sri Lanka to Europe was consumed by Spain and its colonies.[^ref22] Cinnamon was used, for instance, as a flavoring ingredient in chocolate drinks, which were very popular in the Spanish Atlantic world. To supplement the supply of cinnamon, Spain embarked on a second strategy of producing cinnamon itself, from other _Cinnamomum_ species in the East Indies. Thus, plantations were created in the Philippines, planted with local species like _Cinnamomum burmanni_ (Nees ^^ T.Nees) Blume and Cinnamomum cebuense Kosterm.
 
 
 
@@ -200,11 +200,11 @@ In ieder geval toevoegen:
 
 [^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press 1989) 251-252. The estimate comes from Jacques Savary des Bruslons's, _Dictionnaire universel de commerce_ of 1723.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODc1OTkwMzcsLTEzNjYxMTU2MDMsLT
-E3ODEzMjQwLC05Nzg4MTY0NjksLTk4MTIyNTQ0MiwtMTA3MDA3
-NTEyNCw0MjQ4NDUyMDYsNDA0ODAxMjAyLC03MDIwODcxNzMsLT
-c3NTY3NTk3NCwtOTY2NTAzMDA1LC03MDQ1MDM3MTUsLTcwODUw
-MzQ1OSwtNjc2OTIwNzMyLC0xNzQ4MDMyNDUwLC0xODY0ODI0Mj
-AwLDEzMzA5MDE4MTIsMTg5MDkwNzgwOCwxMDc2OTY5NDY5LC0y
-MDY0MDI2MTUxXX0=
+eyJoaXN0b3J5IjpbNzU5MDg2ODMyLC0xMDg3NTk5MDM3LC0xMz
+Y2MTE1NjAzLC0xNzgxMzI0MCwtOTc4ODE2NDY5LC05ODEyMjU0
+NDIsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LDQwNDgwMTIwMiwtNz
+AyMDg3MTczLC03NzU2NzU5NzQsLTk2NjUwMzAwNSwtNzA0NTAz
+NzE1LC03MDg1MDM0NTksLTY3NjkyMDczMiwtMTc0ODAzMjQ1MC
+wtMTg2NDgyNDIwMCwxMzMwOTAxODEyLDE4OTA5MDc4MDgsMTA3
+Njk2OTQ2OV19
 -->
