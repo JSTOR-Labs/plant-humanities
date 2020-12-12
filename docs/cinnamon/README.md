@@ -106,6 +106,7 @@ _Cinnamomum verum_ J.Presl, from Paul Hermann's herbarium of plants from Sri Lan
 Meanwhile, other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – ultimately with no success – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World even went back as far as the early days of exploration: we already mentioned Columbus's efforts to find cinnamon on his journeys. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river (1541-1542) was also intended to find the legendary 'Land of Cinnamon' (_País de la Canela_), which was associated with the land of gold, El Dorado. Their journey still inspired the French botanist Joseph de Jussieu to find the cinnamon lands of South America in the 1740s.[^ref20]
 <param ve-map
 	title="[Might be cool to include a map here, of the Pizarro and Orellana expedition. There is reusable geodata avilable on http://sharemap.org/public/Francisco_de_Orellana_Amazon_River_voyage_(1541-1542)#!webgl]"
+	center_"-1.961220, -63.523771"
 	url="">
 
 The Spanish efforts to find cinnamon in the New World were not only intended to compete with the 'true' cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain's European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative route, which would benefit Spain. This was an important aim for men like Alonso de Ovalle, a Chilean Jesuit. His _Histórica Relación del Reyno de Chile_ (1646) was accompanied by a detailed map, which served as a visual propaganda tool for Spanish South America. The map highlights the assets of the continent, including the presence of _canela_ and _cynamomum_ areas along the east coast.[^ref21] This was one strategy to emphasize the possibilities of cinnamon production for the Spanish global empire.
@@ -209,11 +210,11 @@ In ieder geval toevoegen:
 
 [^ref25]: Bleichmar, _Visible Empire_, 123-126.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzYzNzM2NDIsNTY3MzUzODEyLDE4Nz
-YzMTU4NzUsMTU3ODA0MjU2MSwyMDIxOTc3MTQyLC0xMDg3NTk5
-MDM3LC0xMzY2MTE1NjAzLC0xNzgxMzI0MCwtOTc4ODE2NDY5LC
-05ODEyMjU0NDIsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LDQwNDgw
-MTIwMiwtNzAyMDg3MTczLC03NzU2NzU5NzQsLTk2NjUwMzAwNS
-wtNzA0NTAzNzE1LC03MDg1MDM0NTksLTY3NjkyMDczMiwtMTc0
-ODAzMjQ1MF19
+eyJoaXN0b3J5IjpbMTc1NjQ0MjA2MywtMTM3NjM3MzY0Miw1Nj
+czNTM4MTIsMTg3NjMxNTg3NSwxNTc4MDQyNTYxLDIwMjE5Nzcx
+NDIsLTEwODc1OTkwMzcsLTEzNjYxMTU2MDMsLTE3ODEzMjQwLC
+05Nzg4MTY0NjksLTk4MTIyNTQ0MiwtMTA3MDA3NTEyNCw0MjQ4
+NDUyMDYsNDA0ODAxMjAyLC03MDIwODcxNzMsLTc3NTY3NTk3NC
+wtOTY2NTAzMDA1LC03MDQ1MDM3MTUsLTcwODUwMzQ1OSwtNjc2
+OTIwNzMyXX0=
 -->
