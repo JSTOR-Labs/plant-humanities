@@ -103,7 +103,7 @@ _Cinnamomum verum_ J.Presl, from Paul Hermann's herbarium of plants from Sri Lan
 
 ### Cinnamon and the imagination of empire
 
-Other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – unsuccesfully – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19]
+Meanwhile, other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – unsuccesfully – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19]
 <param ve-image
 	title="bla bla bla"
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
@@ -200,11 +200,11 @@ In ieder geval toevoegen:
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0ODAxMjAyLC03MDIwODcxNzMsLTc3NT
-Y3NTk3NCwtOTY2NTAzMDA1LC03MDQ1MDM3MTUsLTcwODUwMzQ1
-OSwtNjc2OTIwNzMyLC0xNzQ4MDMyNDUwLC0xODY0ODI0MjAwLD
-EzMzA5MDE4MTIsMTg5MDkwNzgwOCwxMDc2OTY5NDY5LC0yMDY0
-MDI2MTUxLDQzMTQ3NjYyOCwxNDUwODcxOTUyLDE5MzkwMDQ0ND
-EsLTEzOTQ3MjI3NTAsMjA5OTU3Mzc4NSwxNTY4NjU5NTY0LC0y
-MTA0MzYwNTQwXX0=
+eyJoaXN0b3J5IjpbLTEyODI0MTYzNTgsNDA0ODAxMjAyLC03MD
+IwODcxNzMsLTc3NTY3NTk3NCwtOTY2NTAzMDA1LC03MDQ1MDM3
+MTUsLTcwODUwMzQ1OSwtNjc2OTIwNzMyLC0xNzQ4MDMyNDUwLC
+0xODY0ODI0MjAwLDEzMzA5MDE4MTIsMTg5MDkwNzgwOCwxMDc2
+OTY5NDY5LC0yMDY0MDI2MTUxLDQzMTQ3NjYyOCwxNDUwODcxOT
+UyLDE5MzkwMDQ0NDEsLTEzOTQ3MjI3NTAsMjA5OTU3Mzc4NSwx
+NTY4NjU5NTY0XX0=
 -->
