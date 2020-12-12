@@ -113,7 +113,7 @@ The Spanish efforts to find cinnamon in the New World were not only intended to 
 	title="bla bla bla"
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
 
-And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch cinnamon exports from Sri Lanka to Europe was consumed by Spain and its colonies.[^ref22] Cinnamon was used, for instance, as a flavoring ingredient in chocolate drinks, which were very popular in the Spanish Atlantic world.
+And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch cinnamon exports from Sri Lanka to Europe was consumed by Spain and its colonies.[^ref22] Cinnamon was used, for instance, as a flavoring ingredient in chocolate drinks, which were very popular in the Spanish Atlantic world. To supplement the supply of cinnamo
 
 
 
@@ -121,8 +121,6 @@ Cinnamon in the Spanish (Atlantic) world
 	 - Chocolate drink in Spanish Atlantic world
 	 Aram (B.) & Yun-Casalilla (B.) 2014 (art Fattacciu)
 	 - Publishing cinnamon knowledge (Hernández expedition)
-	 Freedberg (D.) 2002 (zou bruggetje kunnen zijn vanuit Orta)
-	 - Cinnamon production of the Philippines
 	 Mallari (F.) 1974
 	 Skowronek (R.K.) 2016
 	 Bleichmar (D.) 2012 (pp.123-126)
@@ -202,11 +200,11 @@ In ieder geval toevoegen:
 
 [^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press 1989) 251-252. The estimate comes from Jacques Savary des Bruslons's, _Dictionnaire universel de commerce_ of 1723.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA0MTk4NywtMTM2NjExNTYwMywtMT
-c4MTMyNDAsLTk3ODgxNjQ2OSwtOTgxMjI1NDQyLC0xMDcwMDc1
-MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLTcwMjA4NzE3MywtNz
-c1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUwMzcxNSwtNzA4NTAz
-NDU5LC02NzY5MjA3MzIsLTE3NDgwMzI0NTAsLTE4NjQ4MjQyMD
-AsMTMzMDkwMTgxMiwxODkwOTA3ODA4LDEwNzY5Njk0NjksLTIw
-NjQwMjYxNTFdfQ==
+eyJoaXN0b3J5IjpbLTEzMDg2NjYwMTcsLTEzNjYxMTU2MDMsLT
+E3ODEzMjQwLC05Nzg4MTY0NjksLTk4MTIyNTQ0MiwtMTA3MDA3
+NTEyNCw0MjQ4NDUyMDYsNDA0ODAxMjAyLC03MDIwODcxNzMsLT
+c3NTY3NTk3NCwtOTY2NTAzMDA1LC03MDQ1MDM3MTUsLTcwODUw
+MzQ1OSwtNjc2OTIwNzMyLC0xNzQ4MDMyNDUwLC0xODY0ODI0Mj
+AwLDEzMzA5MDE4MTIsMTg5MDkwNzgwOCwxMDc2OTY5NDY5LC0y
+MDY0MDI2MTUxXX0=
 -->
