@@ -108,7 +108,7 @@ Meanwhile, other states were desperate to have cinnamon for themselves. This was
 	title="[Might be cool to include a map here, of the Pizarro and Orellana expedition. There is reusable geodata avilable on http://sharemap.org/public/Francisco_de_Orellana_Amazon_River_voyage_(1541-1542)#!webgl]"
 	url="">
 
-The Spanish efforts to find cinnamon in the New World were not only intended to compete with the 'true' cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain's European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative route, which would benefit Spain. This was an important aim of men like Alonso de Ovalle, a Chilean Jesuit. His _Histórica Relación del Reyno de Chile_ (1646) was accompanied by a detailed map, which highlighted the assets of South America for the Spanish  [^ref21]
+The Spanish efforts to find cinnamon in the New World were not only intended to compete with the 'true' cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain's European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative route, which would benefit Spain. This was an important aim of men like Alonso de Ovalle, a Chilean Jesuit. His _Histórica Relación del Reyno de Chile_ (1646) was accompanied by a detailed map, which served as a visual propaganda tool for South America. The map highlighted the assets of the continent, including _canela_ and _cynamomum_.[^ref21]
 	 - Spanish efforts to find cinnamon in the New World
 	 Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
 
@@ -207,11 +207,11 @@ In ieder geval toevoegen:
 
 [^ref21]: Catherine E. Burdick, "Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle's _Tabula Geographica Regni Chile_ (1646)", _Imago Mundi_, 66:2 (2014) 196-212.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzODQxMjExLC0xNzgxMzI0MCwtOTc4OD
-E2NDY5LC05ODEyMjU0NDIsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2
-LDQwNDgwMTIwMiwtNzAyMDg3MTczLC03NzU2NzU5NzQsLTk2Nj
-UwMzAwNSwtNzA0NTAzNzE1LC03MDg1MDM0NTksLTY3NjkyMDcz
-MiwtMTc0ODAzMjQ1MCwtMTg2NDgyNDIwMCwxMzMwOTAxODEyLD
-E4OTA5MDc4MDgsMTA3Njk2OTQ2OSwtMjA2NDAyNjE1MSw0MzE0
-NzY2MjhdfQ==
+eyJoaXN0b3J5IjpbLTk3ODU2NDg1NywtMTc4MTMyNDAsLTk3OD
+gxNjQ2OSwtOTgxMjI1NDQyLC0xMDcwMDc1MTI0LDQyNDg0NTIw
+Niw0MDQ4MDEyMDIsLTcwMjA4NzE3MywtNzc1Njc1OTc0LC05Nj
+Y1MDMwMDUsLTcwNDUwMzcxNSwtNzA4NTAzNDU5LC02NzY5MjA3
+MzIsLTE3NDgwMzI0NTAsLTE4NjQ4MjQyMDAsMTMzMDkwMTgxMi
+wxODkwOTA3ODA4LDEwNzY5Njk0NjksLTIwNjQwMjYxNTEsNDMx
+NDc2NjI4XX0=
 -->
