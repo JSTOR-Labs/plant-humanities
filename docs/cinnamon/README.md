@@ -124,7 +124,7 @@ A third, and most daring strategy to get cinnamon, was to transplant the 'true' 
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J. Presl. is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header 'cinnamon', without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has many therapeutic applications that have been studied, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making the 
+Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J. Presl. is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header 'cinnamon', without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has a lot of potential therapeutic applicationsty, and has been studied many times, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making the 
 <param ve-map
 	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don't know if I can simply extract it from the sources: https://www.cabi.org/isc/datasheet/13573 (CABI), and http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1 (Kew, Plants of the World Online)]">
 
@@ -202,11 +202,11 @@ Future of cinnamon
 
 [^ref28]: U.M. Senanayake and R.O.B. Wijesekera, "Cinnamon and Cassia – The Future Vision", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus Cinnamomum_. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 327-329.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTUzMjQwODAsLTg0MDI2NjI3MCwtMT
-IxNDMzMzU4Myw2NDQwMTI3NDgsLTM1Mjc1ODg0MSw3NTQ2MjI0
-NTcsMTAzMDI2NzE4MCwtMTM3NjM3MzY0Miw1NjczNTM4MTIsMT
-g3NjMxNTg3NSwxNTc4MDQyNTYxLDIwMjE5NzcxNDIsLTEwODc1
-OTkwMzcsLTEzNjYxMTU2MDMsLTE3ODEzMjQwLC05Nzg4MTY0Nj
-ksLTk4MTIyNTQ0MiwtMTA3MDA3NTEyNCw0MjQ4NDUyMDYsNDA0
-ODAxMjAyXX0=
+eyJoaXN0b3J5IjpbMTc3NDE5NTc0LC04NDAyNjYyNzAsLTEyMT
+QzMzM1ODMsNjQ0MDEyNzQ4LC0zNTI3NTg4NDEsNzU0NjIyNDU3
+LDEwMzAyNjcxODAsLTEzNzYzNzM2NDIsNTY3MzUzODEyLDE4Nz
+YzMTU4NzUsMTU3ODA0MjU2MSwyMDIxOTc3MTQyLC0xMDg3NTk5
+MDM3LC0xMzY2MTE1NjAzLC0xNzgxMzI0MCwtOTc4ODE2NDY5LC
+05ODEyMjU0NDIsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LDQwNDgw
+MTIwMl19
 -->
