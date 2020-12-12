@@ -201,15 +201,15 @@ In ieder geval toevoegen:
 
 [^ref21]: Catherine E. Burdick, "Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle's _Tabula Geographica Regni Chile_ (1646)", _Imago Mundi_, 66:2 (2014) 196-212.
 
-[^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press 1989) 251-252. The estimate comes from Jacques Savary des Bruslons's, _Dictionnaire universel de commerce_ of 1723.
+[^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press 1989) 251-252. The estimate comes from Jacques Savary des Bruslons's, _Dictionnaire universel de commerce_ of 1723. The Real Sociedad Económica de Madrid calculated in 1780 that 600.000 pounds of Dutch cinnamon were consumed by Spanish Am
 
 [^ref23]: Francisco Mallari, S.J.,, "The Mindanao Cinnamon", _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; Irene Fattacciu, "The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification", in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273; and Russell K. Skowronek, "Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy", in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODA0MjU2MSwyMDIxOTc3MTQyLC0xMD
-g3NTk5MDM3LC0xMzY2MTE1NjAzLC0xNzgxMzI0MCwtOTc4ODE2
-NDY5LC05ODEyMjU0NDIsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LD
-QwNDgwMTIwMiwtNzAyMDg3MTczLC03NzU2NzU5NzQsLTk2NjUw
-MzAwNSwtNzA0NTAzNzE1LC03MDg1MDM0NTksLTY3NjkyMDczMi
-wtMTc0ODAzMjQ1MCwtMTg2NDgyNDIwMCwxMzMwOTAxODEyLDE4
-OTA5MDc4MDhdfQ==
+eyJoaXN0b3J5IjpbLTQwMzE1MTMxMSwxNTc4MDQyNTYxLDIwMj
+E5NzcxNDIsLTEwODc1OTkwMzcsLTEzNjYxMTU2MDMsLTE3ODEz
+MjQwLC05Nzg4MTY0NjksLTk4MTIyNTQ0MiwtMTA3MDA3NTEyNC
+w0MjQ4NDUyMDYsNDA0ODAxMjAyLC03MDIwODcxNzMsLTc3NTY3
+NTk3NCwtOTY2NTAzMDA1LC03MDQ1MDM3MTUsLTcwODUwMzQ1OS
+wtNjc2OTIwNzMyLC0xNzQ4MDMyNDUwLC0xODY0ODI0MjAwLDEz
+MzA5MDE4MTJdfQ==
 -->
