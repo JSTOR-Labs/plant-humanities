@@ -108,11 +108,7 @@ Meanwhile, other states were desperate to have cinnamon for themselves. This was
 	title="[Might be cool to include a map here, of the Pizarro and Orellana expedition. There is reusable geodata avilable on http://sharemap.org/public/Francisco_de_Orellana_Amazon_River_voyage_(1541-1542)#!webgl]"
 	url="">
 
-The Spanish efforts to find cinnamon in the New World were not only intended to compete with the 'true' cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain's European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative route, which would benefit Spain. This was an important aim for men like Alonso de Ovalle, a Chilean Jesuit. His _Histórica Relación del Reyno de Chile_ (1646) was accompanied by a detailed map, which served as a visual propaganda tool for Spanish South America. The map highlights the assets of the continent, including _canela_ and _cynamomum_.[^ref21] This was one strategy to 
-	 - Spanish efforts to find cinnamon in the New World
-	 Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
-
-	 Burdick (C.E.) 2014
+The Spanish efforts to find cinnamon in the New World were not only intended to compete with the 'true' cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain's European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative route, which would benefit Spain. This was an important aim for men like Alonso de Ovalle, a Chilean Jesuit. His _Histórica Relación del Reyno de Chile_ (1646) was accompanied by a detailed map, which served as a visual propaganda tool for Spanish South America. The map highlights the assets of the continent, including the presence of _canela_ and _cynamomum_ areas along the east coast.[^ref21] This was one strategy to emphasize the possibilities of cinnamon production for the Spanish global empire.4
 <param ve-image
 	title="bla bla bla"
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
@@ -207,7 +203,7 @@ In ieder geval toevoegen:
 
 [^ref21]: Catherine E. Burdick, "Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle's _Tabula Geographica Regni Chile_ (1646)", _Imago Mundi_, 66:2 (2014) 196-212.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTUwMzgzOCwtMTM2NjExNTYwMywtMT
+eyJoaXN0b3J5IjpbMjEwNjY5MTU2MSwtMTM2NjExNTYwMywtMT
 c4MTMyNDAsLTk3ODgxNjQ2OSwtOTgxMjI1NDQyLC0xMDcwMDc1
 MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLTcwMjA4NzE3MywtNz
 c1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUwMzcxNSwtNzA4NTAz
