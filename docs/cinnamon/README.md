@@ -207,13 +207,13 @@ In ieder geval toevoegen:
 
 [^ref24]: Francisco Mallari, S.J.,, "The Mindanao Cinnamon", _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; and Russell K. Skowronek, "Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy", in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
 
-[^ref25]: Bleichmar, _Visible Empire_, 
+[^ref25]: Bleichmar, _Visible Empire_, 123-126.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjMwMTM1MiwxODc2MzE1ODc1LDE1Nz
-gwNDI1NjEsMjAyMTk3NzE0MiwtMTA4NzU5OTAzNywtMTM2NjEx
-NTYwMywtMTc4MTMyNDAsLTk3ODgxNjQ2OSwtOTgxMjI1NDQyLC
-0xMDcwMDc1MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLTcwMjA4
-NzE3MywtNzc1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUwMzcxNS
-wtNzA4NTAzNDU5LC02NzY5MjA3MzIsLTE3NDgwMzI0NTAsLTE4
-NjQ4MjQyMDBdfQ==
+eyJoaXN0b3J5IjpbNTY3MzUzODEyLDE4NzYzMTU4NzUsMTU3OD
+A0MjU2MSwyMDIxOTc3MTQyLC0xMDg3NTk5MDM3LC0xMzY2MTE1
+NjAzLC0xNzgxMzI0MCwtOTc4ODE2NDY5LC05ODEyMjU0NDIsLT
+EwNzAwNzUxMjQsNDI0ODQ1MjA2LDQwNDgwMTIwMiwtNzAyMDg3
+MTczLC03NzU2NzU5NzQsLTk2NjUwMzAwNSwtNzA0NTAzNzE1LC
+03MDg1MDM0NTksLTY3NjkyMDczMiwtMTc0ODAzMjQ1MCwtMTg2
+NDgyNDIwMF19
 -->
