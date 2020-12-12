@@ -89,7 +89,7 @@ The success was short-lived, however. When the British took over control of the 
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
 ### A tool of empire or a tool of science?
-Although cinnamon was a successful monopoly during the Dutch period, was it only a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. The Dutch monopoly was about retaining commercial interests above anything else, but not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government in Batavia agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
+Although cinnamon was a successful monopoly during the Dutch period, was it only a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. The Dutch monopoly was about retaining commercial interests above anything else, but not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil of local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government in Batavia agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 <param ve-image
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
@@ -209,11 +209,11 @@ In ieder geval toevoegen:
 
 [^ref25]: Bleichmar, _Visible Empire_, 123-126.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3MzUzODEyLDE4NzYzMTU4NzUsMTU3OD
-A0MjU2MSwyMDIxOTc3MTQyLC0xMDg3NTk5MDM3LC0xMzY2MTE1
-NjAzLC0xNzgxMzI0MCwtOTc4ODE2NDY5LC05ODEyMjU0NDIsLT
-EwNzAwNzUxMjQsNDI0ODQ1MjA2LDQwNDgwMTIwMiwtNzAyMDg3
-MTczLC03NzU2NzU5NzQsLTk2NjUwMzAwNSwtNzA0NTAzNzE1LC
-03MDg1MDM0NTksLTY3NjkyMDczMiwtMTc0ODAzMjQ1MCwtMTg2
-NDgyNDIwMF19
+eyJoaXN0b3J5IjpbLTQ3OTg3OTgwNyw1NjczNTM4MTIsMTg3Nj
+MxNTg3NSwxNTc4MDQyNTYxLDIwMjE5NzcxNDIsLTEwODc1OTkw
+MzcsLTEzNjYxMTU2MDMsLTE3ODEzMjQwLC05Nzg4MTY0NjksLT
+k4MTIyNTQ0MiwtMTA3MDA3NTEyNCw0MjQ4NDUyMDYsNDA0ODAx
+MjAyLC03MDIwODcxNzMsLTc3NTY3NTk3NCwtOTY2NTAzMDA1LC
+03MDQ1MDM3MTUsLTcwODUwMzQ1OSwtNjc2OTIwNzMyLC0xNzQ4
+MDMyNDUwXX0=
 -->
