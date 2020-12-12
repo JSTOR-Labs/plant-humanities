@@ -119,16 +119,12 @@ And Spain really needed cinnamon. One eighteenth-century report estimated that t
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-A third, and most daring strategy to get cinnamon, was to transplant the 'true' cinnamon to Spanish territories. This was an important objective of men like Casimiro Gómez Ortega, director of the Royal botanical Garden in Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published an 'Instruction on the Safest and Most Economical Means of Transporting Live Plants by Sea and by Land to the Most Distant Countries' in 1779. The document invited and instructed naturalists everywhere to contribute plants and plant knowledge for the Spanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis addressed the Spanish crown in the 1760s to support his plans for botanical expeditions in South America. New plant knowledge would greatly benefit the empire, and again cinnamon was explicitly mentioned.[^ref26] However, Spain never succeeded in growing 'true' cinnamon in South America, while the French (Guadeloupe, 1762) and the British (St. Vincent, 1768) did succeed.[^ref27]
+A third, and most daring strategy to get cinnamon, was to transplant the 'true' cinnamon to Spanish territories. This was an important objective of men like Casimiro Gómez Ortega, director of the Royal botanical Garden in Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published an 'Instruction on the Safest and Most Economical Means of Transporting Live Plants by Sea and by Land to the Most Distant Countries' in 1779. The document invited and instructed naturalists everywhere to contribute plants and plant knowledge for the Spanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis addressed the Spanish crown in the 1760s to support his plans for botanical expeditions in South America. New plant knowledge would greatly benefit the empire, and again cinnamon was explicitly mentioned.[^ref26] However, Spain never succeeded in growing 'true' cinnamon in South America, while the French (Guadeloupe, 1762) and the British (Saint Vincent, 1768) did succeed.[^ref27]
+<param ve-image
+	title="[No visualization here yet.]"
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-Cinnamon in the Spanish (Atlantic) world
-	 - Chocolate drink in Spanish Atlantic world
-	 Aram (B.) & Yun-Casalilla (B.) 2014 (art Fattacciu)
-	 - Publishing cinnamon knowledge (Hernández expedition)
-	 Mallari (F.) 1974
-	 Skowronek (R.K.) 2016
-	 Bleichmar (D.) 2012 (pp.123-126)
-	 see also http://www.theplantlist.org/tpl1.1/record/kew-2721453, because # _Cinnamomum_ _ mindanaense_ is a synonym of _Cinnamomum_ _ burmanni_
+dus
 
 Efforts of transplantation and acclimatization
 	 - Cinnamon in Rio de Janeiro botanical garden (google die even)
@@ -154,9 +150,6 @@ Kaneelhandel vandaag de dag
 Future of cinnamon
  Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 14): lezen!
  Turner (S.), Monnerat (M.) & Slack (P.) 2019 (uncertain prospects for cinnamon farmers in Vietnam)
-
-In ieder geval toevoegen:
- #Salagama (Q3469487), also known als saliya or chaliya
 
 ### References
 
@@ -214,11 +207,11 @@ In ieder geval toevoegen:
 
 [^ref27]: Thomas J. Zumbroich, "The Introduction of Nutmeg (_Myristica fragrans_ Houtt.) and Cinnamon (_Cinnamomum verum_ J. Presl.) to America", _Acta Botánica Venezuélica_, 28:1 (2005) 155-160.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MDEyNzQ4LC0zNTI3NTg4NDEsNzU0Nj
-IyNDU3LDEwMzAyNjcxODAsLTEzNzYzNzM2NDIsNTY3MzUzODEy
-LDE4NzYzMTU4NzUsMTU3ODA0MjU2MSwyMDIxOTc3MTQyLC0xMD
-g3NTk5MDM3LC0xMzY2MTE1NjAzLC0xNzgxMzI0MCwtOTc4ODE2
-NDY5LC05ODEyMjU0NDIsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LD
-QwNDgwMTIwMiwtNzAyMDg3MTczLC03NzU2NzU5NzQsLTk2NjUw
-MzAwNV19
+eyJoaXN0b3J5IjpbLTEyMTQzMzM1ODMsNjQ0MDEyNzQ4LC0zNT
+I3NTg4NDEsNzU0NjIyNDU3LDEwMzAyNjcxODAsLTEzNzYzNzM2
+NDIsNTY3MzUzODEyLDE4NzYzMTU4NzUsMTU3ODA0MjU2MSwyMD
+IxOTc3MTQyLC0xMDg3NTk5MDM3LC0xMzY2MTE1NjAzLC0xNzgx
+MzI0MCwtOTc4ODE2NDY5LC05ODEyMjU0NDIsLTEwNzAwNzUxMj
+QsNDI0ODQ1MjA2LDQwNDgwMTIwMiwtNzAyMDg3MTczLC03NzU2
+NzU5NzRdfQ==
 -->
