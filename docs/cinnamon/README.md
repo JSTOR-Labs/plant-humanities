@@ -201,11 +201,11 @@ In ieder geval toevoegen:
 
 [^ref21]: Catherine E. Burdick, "Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle's _Tabula Geographica Regni Chile_ (1646)", _Imago Mundi_, 66:2 (2014) 196-212.
 
-[^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press 1989) 251-252. The estimate comes from Jacques Savary des Bruslons's, _Dictionnaire universel de commerce_ of 1723. The Real Sociedad Económica de Madrid calculated in 1780 that 600.000 pounds of Dutch cinnamon were consumed by Spanish Am
+[^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press 1989) 251-252. The estimate comes from Jacques Savary des Bruslons's, _Dictionnaire universel de commerce_ of 1723. The Real Sociedad Económica de Madrid calculated in 1780 that 600.000 pounds of Dutch cinnamon were consumed by Spanish America each year. See Daniela Bleichmar, _Visible Empire: Botanical Expeditions and Visible Culture in the Hispanic Enlightenment_ (Chicago and London: University of Chicago Press 2012) 132.
 
 [^ref23]: Francisco Mallari, S.J.,, "The Mindanao Cinnamon", _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; Irene Fattacciu, "The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification", in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273; and Russell K. Skowronek, "Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy", in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzE1MTMxMSwxNTc4MDQyNTYxLDIwMj
+eyJoaXN0b3J5IjpbMTg3NjMxNTg3NSwxNTc4MDQyNTYxLDIwMj
 E5NzcxNDIsLTEwODc1OTkwMzcsLTEzNjYxMTU2MDMsLTE3ODEz
 MjQwLC05Nzg4MTY0NjksLTk4MTIyNTQ0MiwtMTA3MDA3NTEyNC
 w0MjQ4NDUyMDYsNDA0ODAxMjAyLC03MDIwODcxNzMsLTc3NTY3
