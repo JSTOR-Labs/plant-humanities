@@ -113,7 +113,7 @@ The Spanish efforts to find cinnamon in the New World were not only intended to 
 	title="bla bla bla"
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
 
-And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch cinnamon exports from Sri Lanka to Europe was consumed by Spain and its colonies.[^ref22] Cinnamon was used, for instance, as a flavoring ingredient in chocolate drinks, which were very popular in the Spanish Atlantic world. To supplement the supply of cinnamon, Spain embarked on a second strategy of producing cinnamon itself, from other _Cinnamomum_ species in the East Indies. Thus, plantations were created in the Philippines, planted with local species like _Cinnamomum burmanni_ (Nees ^^ T.Nees) Blume and Cinnamomum cebuense Kosterm.
+And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch cinnamon exports from Sri Lanka to Europe was consumed by Spain and its colonies.[^ref22] Cinnamon was used, for instance, as a flavoring ingredient in chocolate drinks, which were very popular in the Spanish Atlantic world.[^ref23] To supplement the supply of cinnamon, Spain embarked on a second strategy of producing cinnamon itself, from other _Cinnamomum_ species in the East Indies. Thus, plantations were created in the Philippines, planted with local species like _Cinnamomum burmanni_ (Nees & T.Nees) Blume and _Cinnamomum cebuense_ Kosterm.
 
 
 
@@ -199,12 +199,14 @@ In ieder geval toevoegen:
 [^ref21]: Catherine E. Burdick, "Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle's _Tabula Geographica Regni Chile_ (1646)", _Imago Mundi_, 66:2 (2014) 196-212.
 
 [^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press 1989) 251-252. The estimate comes from Jacques Savary des Bruslons's, _Dictionnaire universel de commerce_ of 1723.
+
+[^ref23]: Irene Fattacciu, "The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification", in: Bethany. Aram and B. Yun-Casalilla (eds.), Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MDg2ODMyLC0xMDg3NTk5MDM3LC0xMz
-Y2MTE1NjAzLC0xNzgxMzI0MCwtOTc4ODE2NDY5LC05ODEyMjU0
-NDIsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LDQwNDgwMTIwMiwtNz
-AyMDg3MTczLC03NzU2NzU5NzQsLTk2NjUwMzAwNSwtNzA0NTAz
-NzE1LC03MDg1MDM0NTksLTY3NjkyMDczMiwtMTc0ODAzMjQ1MC
-wtMTg2NDgyNDIwMCwxMzMwOTAxODEyLDE4OTA5MDc4MDgsMTA3
-Njk2OTQ2OV19
+eyJoaXN0b3J5IjpbMTI0MDY2NDYzMSwtMTA4NzU5OTAzNywtMT
+M2NjExNTYwMywtMTc4MTMyNDAsLTk3ODgxNjQ2OSwtOTgxMjI1
+NDQyLC0xMDcwMDc1MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLT
+cwMjA4NzE3MywtNzc1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUw
+MzcxNSwtNzA4NTAzNDU5LC02NzY5MjA3MzIsLTE3NDgwMzI0NT
+AsLTE4NjQ4MjQyMDAsMTMzMDkwMTgxMiwxODkwOTA3ODA4LDEw
+NzY5Njk0NjldfQ==
 -->
