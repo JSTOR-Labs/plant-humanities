@@ -201,12 +201,14 @@ In ieder geval toevoegen:
 [^ref18]: Albertus Seba, "An Account of the Cinnamon Tree in Ceylon, and its several Sorts. Communicated by the Chief Inspector of the Cinnamon Trade and Manufacture in that Island to Albertus Seba, a Noted Druggist at Amsterdam. Translated by the late Dr. Scheuchzer, F. R. S.", _Philosophical Transactions_, 36:409 (1730) I, 97-109.
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
+
+[^ref20]: Neil Safier, "Fruitless Botany: Joseph de Jussieu's South American Odyssey", in: James Delbourgo and Nicholas Dew (eds.), _Science and Empire in the Atlantic World_ (New York: Routledge 2008) 203-224.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NTIyMTk2LC05ODEyMjU0NDIsLTEwNz
-AwNzUxMjQsNDI0ODQ1MjA2LDQwNDgwMTIwMiwtNzAyMDg3MTcz
-LC03NzU2NzU5NzQsLTk2NjUwMzAwNSwtNzA0NTAzNzE1LC03MD
-g1MDM0NTksLTY3NjkyMDczMiwtMTc0ODAzMjQ1MCwtMTg2NDgy
-NDIwMCwxMzMwOTAxODEyLDE4OTA5MDc4MDgsMTA3Njk2OTQ2OS
-wtMjA2NDAyNjE1MSw0MzE0NzY2MjgsMTQ1MDg3MTk1MiwxOTM5
-MDA0NDQxXX0=
+eyJoaXN0b3J5IjpbLTk3ODgxNjQ2OSwtOTgxMjI1NDQyLC0xMD
+cwMDc1MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLTcwMjA4NzE3
+MywtNzc1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUwMzcxNSwtNz
+A4NTAzNDU5LC02NzY5MjA3MzIsLTE3NDgwMzI0NTAsLTE4NjQ4
+MjQyMDAsMTMzMDkwMTgxMiwxODkwOTA3ODA4LDEwNzY5Njk0Nj
+ksLTIwNjQwMjYxNTEsNDMxNDc2NjI4LDE0NTA4NzE5NTIsMTkz
+OTAwNDQ0MV19
 -->
