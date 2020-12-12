@@ -108,12 +108,6 @@ Meanwhile, other states were desperate to have cinnamon for themselves. This was
 	title="bla bla bla"
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
 
-Orta
-	 - Eigen ervaring van planten die uit de oudheid bekend waren
-	 Orta (G.) 1913 (let op: digib ubi dusseldorf heeft een IIIF manifest)
-	 Fontes da Costa (P.) 2015 (art Ornelas e Castro)
-	 - 	afbeeldingen in Orta en Clusius (mooi linkjes naar BHL zowel Orta (G.) 1567 als Clusius (C.) 1605)
-	 Fontes da Costa (P.) 2015 (art Ornelas e Castro)
 
 Cinnamon in the Spanish (Atlantic) world
 	 - Dutch exports of cinnamon to Spain and Spanish world
@@ -200,11 +194,11 @@ In ieder geval toevoegen:
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI0MTYzNTgsNDA0ODAxMjAyLC03MD
-IwODcxNzMsLTc3NTY3NTk3NCwtOTY2NTAzMDA1LC03MDQ1MDM3
-MTUsLTcwODUwMzQ1OSwtNjc2OTIwNzMyLC0xNzQ4MDMyNDUwLC
-0xODY0ODI0MjAwLDEzMzA5MDE4MTIsMTg5MDkwNzgwOCwxMDc2
-OTY5NDY5LC0yMDY0MDI2MTUxLDQzMTQ3NjYyOCwxNDUwODcxOT
-UyLDE5MzkwMDQ0NDEsLTEzOTQ3MjI3NTAsMjA5OTU3Mzc4NSwx
-NTY4NjU5NTY0XX0=
+eyJoaXN0b3J5IjpbNDI0ODQ1MjA2LDQwNDgwMTIwMiwtNzAyMD
+g3MTczLC03NzU2NzU5NzQsLTk2NjUwMzAwNSwtNzA0NTAzNzE1
+LC03MDg1MDM0NTksLTY3NjkyMDczMiwtMTc0ODAzMjQ1MCwtMT
+g2NDgyNDIwMCwxMzMwOTAxODEyLDE4OTA5MDc4MDgsMTA3Njk2
+OTQ2OSwtMjA2NDAyNjE1MSw0MzE0NzY2MjgsMTQ1MDg3MTk1Mi
+wxOTM5MDA0NDQxLC0xMzk0NzIyNzUwLDIwOTk1NzM3ODUsMTU2
+ODY1OTU2NF19
 -->
