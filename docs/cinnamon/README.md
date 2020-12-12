@@ -200,13 +200,13 @@ In ieder geval toevoegen:
 
 [^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press 1989) 251-252. The estimate comes from Jacques Savary des Bruslons's, _Dictionnaire universel de commerce_ of 1723.
 
-[^ref23]: Irene Fattacciu, "The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification", in: Bethany. Aram and B. Yun-Casalilla (eds.), Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273
+[^ref23]: Irene Fattacciu, "The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification", in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDY2NDYzMSwtMTA4NzU5OTAzNywtMT
-M2NjExNTYwMywtMTc4MTMyNDAsLTk3ODgxNjQ2OSwtOTgxMjI1
-NDQyLC0xMDcwMDc1MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLT
-cwMjA4NzE3MywtNzc1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUw
-MzcxNSwtNzA4NTAzNDU5LC02NzY5MjA3MzIsLTE3NDgwMzI0NT
-AsLTE4NjQ4MjQyMDAsMTMzMDkwMTgxMiwxODkwOTA3ODA4LDEw
-NzY5Njk0NjldfQ==
+eyJoaXN0b3J5IjpbLTE4ODQ0NDk2MzgsLTEwODc1OTkwMzcsLT
+EzNjYxMTU2MDMsLTE3ODEzMjQwLC05Nzg4MTY0NjksLTk4MTIy
+NTQ0MiwtMTA3MDA3NTEyNCw0MjQ4NDUyMDYsNDA0ODAxMjAyLC
+03MDIwODcxNzMsLTc3NTY3NTk3NCwtOTY2NTAzMDA1LC03MDQ1
+MDM3MTUsLTcwODUwMzQ1OSwtNjc2OTIwNzMyLC0xNzQ4MDMyND
+UwLC0xODY0ODI0MjAwLDEzMzA5MDE4MTIsMTg5MDkwNzgwOCwx
+MDc2OTY5NDY5XX0=
 -->
