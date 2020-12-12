@@ -103,7 +103,7 @@ _Cinnamomum verum_ J.Presl, from Paul Hermann's herbarium of plants from Sri Lan
 
 ### Cinnamon and the imagination of empire
 
-Meanwhile, other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – unsuccesfully – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19]
+Meanwhile, other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – unsuccesfully – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19] But the Spanish quest for cinnamon went back as early as the days of the _conquistadors_. The famous expedition of gonzalo Pizarro and ## Francisco de Orellana
 
 	 - Spanish efforts to find cinnamon in the New World
 	 Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
@@ -196,11 +196,11 @@ In ieder geval toevoegen:
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LDQwND
-gwMTIwMiwtNzAyMDg3MTczLC03NzU2NzU5NzQsLTk2NjUwMzAw
-NSwtNzA0NTAzNzE1LC03MDg1MDM0NTksLTY3NjkyMDczMiwtMT
-c0ODAzMjQ1MCwtMTg2NDgyNDIwMCwxMzMwOTAxODEyLDE4OTA5
-MDc4MDgsMTA3Njk2OTQ2OSwtMjA2NDAyNjE1MSw0MzE0NzY2Mj
-gsMTQ1MDg3MTk1MiwxOTM5MDA0NDQxLC0xMzk0NzIyNzUwLDIw
-OTk1NzM3ODVdfQ==
+eyJoaXN0b3J5IjpbLTEyNTYyMzc3NzgsLTEwNzAwNzUxMjQsND
+I0ODQ1MjA2LDQwNDgwMTIwMiwtNzAyMDg3MTczLC03NzU2NzU5
+NzQsLTk2NjUwMzAwNSwtNzA0NTAzNzE1LC03MDg1MDM0NTksLT
+Y3NjkyMDczMiwtMTc0ODAzMjQ1MCwtMTg2NDgyNDIwMCwxMzMw
+OTAxODEyLDE4OTA5MDc4MDgsMTA3Njk2OTQ2OSwtMjA2NDAyNj
+E1MSw0MzE0NzY2MjgsMTQ1MDg3MTk1MiwxOTM5MDA0NDQxLC0x
+Mzk0NzIyNzUwXX0=
 -->
