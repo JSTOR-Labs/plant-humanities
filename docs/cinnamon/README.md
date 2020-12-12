@@ -103,7 +103,7 @@ _Cinnamomum verum_ J.Presl, from Paul Hermann's herbarium of plants from Sri Lan
 
 ### Cinnamon and the imagination of empire
 
-Meanwhile, other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – ultimately with no success – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World even went back as far as the early days of exploration: we already encountered Columbus's efforts to find cinnamon on his journeys. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river (1541-1542) was also intended to find the legendary 'Land of Cinnamon' (_País de la Canela_), which was associated with the land of gold, El Dorado. Their journey 
+Meanwhile, other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – ultimately with no success – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World even went back as far as the early days of exploration: we already encountered Columbus's efforts to find cinnamon on his journeys. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river (1541-1542) was also intended to find the legendary 'Land of Cinnamon' (_País de la Canela_), which was associated with the land of gold, El Dorado. Their journey still inspired the French botanist Joseph de Jussieu to find the cinnamon lands of South America in the 1740s.[^ref20]
 <param ve-map
 	title="[Might be nice to include a map here, of the Pizarro and Orellana expedition. There is reusable geodata avilable on http://sharemap.org/public/Francisco_de_Orellana_Amazon_River_voyage_(1541-1542)#!webgl]"
 	url="">
@@ -202,7 +202,7 @@ In ieder geval toevoegen:
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3NzgzMjM5LC05ODEyMjU0NDIsLTEwNz
+eyJoaXN0b3J5IjpbNjY3NTIyMTk2LC05ODEyMjU0NDIsLTEwNz
 AwNzUxMjQsNDI0ODQ1MjA2LDQwNDgwMTIwMiwtNzAyMDg3MTcz
 LC03NzU2NzU5NzQsLTk2NjUwMzAwNSwtNzA0NTAzNzE1LC03MD
 g1MDM0NTksLTY3NjkyMDczMiwtMTc0ODAzMjQ1MCwtMTg2NDgy
