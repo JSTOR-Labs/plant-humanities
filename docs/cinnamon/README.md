@@ -107,7 +107,7 @@ Meanwhile, other states were desperate to have cinnamon for themselves. This was
 <param ve-map
 	title="[Might be cool to include a map here, of the Pizarro and Orellana expedition. There is reusable geodata avilable on http://sharemap.org/public/Francisco_de_Orellana_Amazon_River_voyage_(1541-1542)#!webgl]"
 	center_"-1.961220, -63.523771"
-	url="">
+	zoom="5">
 
 The Spanish efforts to find cinnamon in the New World were not only intended to compete with the 'true' cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain's European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative route, which would benefit Spain. This was an important aim for men like Alonso de Ovalle, a Chilean Jesuit. His _Histórica Relación del Reyno de Chile_ (1646) was accompanied by a detailed map, which served as a visual propaganda tool for Spanish South America. The map highlights the assets of the continent, including the presence of _canela_ and _cynamomum_ areas along the east coast.[^ref21] This was one strategy to emphasize the possibilities of cinnamon production for the Spanish global empire.
 <param ve-image
@@ -210,11 +210,11 @@ In ieder geval toevoegen:
 
 [^ref25]: Bleichmar, _Visible Empire_, 123-126.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjQ0MjA2MywtMTM3NjM3MzY0Miw1Nj
-czNTM4MTIsMTg3NjMxNTg3NSwxNTc4MDQyNTYxLDIwMjE5Nzcx
-NDIsLTEwODc1OTkwMzcsLTEzNjYxMTU2MDMsLTE3ODEzMjQwLC
-05Nzg4MTY0NjksLTk4MTIyNTQ0MiwtMTA3MDA3NTEyNCw0MjQ4
-NDUyMDYsNDA0ODAxMjAyLC03MDIwODcxNzMsLTc3NTY3NTk3NC
-wtOTY2NTAzMDA1LC03MDQ1MDM3MTUsLTcwODUwMzQ1OSwtNjc2
-OTIwNzMyXX0=
+eyJoaXN0b3J5IjpbLTk3MDUxMjY0LC0xMzc2MzczNjQyLDU2Nz
+M1MzgxMiwxODc2MzE1ODc1LDE1NzgwNDI1NjEsMjAyMTk3NzE0
+MiwtMTA4NzU5OTAzNywtMTM2NjExNTYwMywtMTc4MTMyNDAsLT
+k3ODgxNjQ2OSwtOTgxMjI1NDQyLC0xMDcwMDc1MTI0LDQyNDg0
+NTIwNiw0MDQ4MDEyMDIsLTcwMjA4NzE3MywtNzc1Njc1OTc0LC
+05NjY1MDMwMDUsLTcwNDUwMzcxNSwtNzA4NTAzNDU5LC02NzY5
+MjA3MzJdfQ==
 -->
