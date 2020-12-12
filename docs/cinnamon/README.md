@@ -108,7 +108,7 @@ Meanwhile, other states were desperate to have cinnamon for themselves. This was
 	title="[Might be cool to include a map here, of the Pizarro and Orellana expedition. There is reusable geodata avilable on http://sharemap.org/public/Francisco_de_Orellana_Amazon_River_voyage_(1541-1542)#!webgl]"
 	url="">
 
-The Spanish efforts to find cinnamon in the New World were not only intended to compete with the 'true' cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain's European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive stopping shipping route, which would benefit Spain.
+The Spanish efforts to find cinnamon in the New World were not only intended to compete with the 'true' cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain's European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative shipping route, which would benefit Spain. Thus, [^ref21]
 	 - Spanish efforts to find cinnamon in the New World
 	 Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
 
@@ -204,8 +204,10 @@ In ieder geval toevoegen:
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 
 [^ref20]: Neil Safier, "Fruitless Botany: Joseph de Jussieu's South American Odyssey", in: James Delbourgo and Nicholas Dew (eds.), _Science and Empire in the Atlantic World_ (New York: Routledge 2008) 203-224.
+
+[^ref21]: Catherine E. Burdick, "Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle's Tabula Geographica Regni Chile (1646)", Imago Mundi, 66:2 (2014) 196-212
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkzNDc3NjksLTk3ODgxNjQ2OSwtOT
+eyJoaXN0b3J5IjpbLTE3NDQ2MDU1MTUsLTk3ODgxNjQ2OSwtOT
 gxMjI1NDQyLC0xMDcwMDc1MTI0LDQyNDg0NTIwNiw0MDQ4MDEy
 MDIsLTcwMjA4NzE3MywtNzc1Njc1OTc0LC05NjY1MDMwMDUsLT
 cwNDUwMzcxNSwtNzA4NTAzNDU5LC02NzY5MjA3MzIsLTE3NDgw
