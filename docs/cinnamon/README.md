@@ -124,7 +124,7 @@ A third, and most daring strategy to get cinnamon, was to transplant the 'true' 
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J. Presl. is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header 'cinnamon', without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has a lot of potential therapeutic applications that have been studied, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making it difficult to generalize the results.[^ref29] The species epithet _verum_, therefore, although it may look like an obsolete name in a globalized world where 
+Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J. Presl. is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28] Moreover, commercial statistics usually generalize all market variations under the header 'cinnamon', without differentiating between _Cinnamomum_ species. This issue is even more pertinent in medicine. Cinnamon has a lot of potential therapeutic applications that have been studied, but many studies fail to clarify which species of _Cinnamomum_ was/were used, making it difficult to generalize the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what
 <param ve-map
 	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don't know if I can simply extract it from the sources: https://www.cabi.org/isc/datasheet/13573 (CABI), and http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1 (Kew, Plants of the World Online)]">
 
@@ -188,7 +188,7 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDcyMjcyMDAsLTE0NTg0MzE3MjYsLT
+eyJoaXN0b3J5IjpbLTE1MTQxMDk4NzUsLTE0NTg0MzE3MjYsLT
 g0MDI2NjI3MCwtMTIxNDMzMzU4Myw2NDQwMTI3NDgsLTM1Mjc1
 ODg0MSw3NTQ2MjI0NTcsMTAzMDI2NzE4MCwtMTM3NjM3MzY0Mi
 w1NjczNTM4MTIsMTg3NjMxNTg3NSwxNTc4MDQyNTYxLDIwMjE5
