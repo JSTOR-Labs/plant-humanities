@@ -200,9 +200,9 @@ In ieder geval toevoegen:
 
 [^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press 1989) 251-252. The estimate comes from Jacques Savary des Bruslons's, _Dictionnaire universel de commerce_ of 1723.
 
-[^ref23]: Irene Fattacciu, "The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification", in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273; Skowronek, R.K., "Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy", in: C. Wu (ed.), Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective (Singapore: Springer Science+Business Media 2016) 59-74
+[^ref23]: Francisco Mallari, S.J.,, "The Mindanao Cinnamon", _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; Irene Fattacciu, "The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification", in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273; aRussell K. Skowronek, "Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy", in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjI3MjY2NSwtMTA4NzU5OTAzNywtMT
+eyJoaXN0b3J5IjpbLTk4NDg2NzA3MywtMTA4NzU5OTAzNywtMT
 M2NjExNTYwMywtMTc4MTMyNDAsLTk3ODgxNjQ2OSwtOTgxMjI1
 NDQyLC0xMDcwMDc1MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLT
 cwMjA4NzE3MywtNzc1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUw
