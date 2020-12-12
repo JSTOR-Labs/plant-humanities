@@ -124,7 +124,7 @@ A third, and most daring strategy to get cinnamon, was to transplant the 'true' 
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-Nowadays, Sri Lanka is again the [world's largest exporter of 'true' cinnamon](). But _Cinnamomum verum_ J. Presl. is now grown in many countries in the tropical zone
+Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J. Presl. is now grown in many countries in the tropical zone
 
 Efforts of transplantation and acclimatization
 	 - Cinnamon in Rio de Janeiro botanical garden (google die even)
@@ -207,7 +207,7 @@ Future of cinnamon
 
 [^ref27]: Thomas J. Zumbroich, "The Introduction of Nutmeg (_Myristica fragrans_ Houtt.) and Cinnamon (_Cinnamomum verum_ J. Presl.) to America", _Acta Botánica Venezuélica_, 28:1 (2005) 155-160.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODA2MzExNCwtMTIxNDMzMzU4Myw2ND
+eyJoaXN0b3J5IjpbLTIxOTI4NDk3MCwtMTIxNDMzMzU4Myw2ND
 QwMTI3NDgsLTM1Mjc1ODg0MSw3NTQ2MjI0NTcsMTAzMDI2NzE4
 MCwtMTM3NjM3MzY0Miw1NjczNTM4MTIsMTg3NjMxNTg3NSwxNT
 c4MDQyNTYxLDIwMjE5NzcxNDIsLTEwODc1OTkwMzcsLTEzNjYx
