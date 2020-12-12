@@ -113,6 +113,11 @@ Meanwhile, other states were desperate to have cinnamon for themselves. This was
 	title="bla bla bla"
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
 
+<param ve-map
+	title="bla bla bla"
+	url=""
+
+
 
 Cinnamon in the Spanish (Atlantic) world
 	 - Dutch exports of cinnamon to Spain and Spanish world
@@ -196,11 +201,11 @@ In ieder geval toevoegen:
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTIyNTQ0MiwtMTA3MDA3NTEyNCw0Mj
-Q4NDUyMDYsNDA0ODAxMjAyLC03MDIwODcxNzMsLTc3NTY3NTk3
-NCwtOTY2NTAzMDA1LC03MDQ1MDM3MTUsLTcwODUwMzQ1OSwtNj
-c2OTIwNzMyLC0xNzQ4MDMyNDUwLC0xODY0ODI0MjAwLDEzMzA5
-MDE4MTIsMTg5MDkwNzgwOCwxMDc2OTY5NDY5LC0yMDY0MDI2MT
-UxLDQzMTQ3NjYyOCwxNDUwODcxOTUyLDE5MzkwMDQ0NDEsLTEz
-OTQ3MjI3NTBdfQ==
+eyJoaXN0b3J5IjpbMTc3NTc3NTM4NywtOTgxMjI1NDQyLC0xMD
+cwMDc1MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLTcwMjA4NzE3
+MywtNzc1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUwMzcxNSwtNz
+A4NTAzNDU5LC02NzY5MjA3MzIsLTE3NDgwMzI0NTAsLTE4NjQ4
+MjQyMDAsMTMzMDkwMTgxMiwxODkwOTA3ODA4LDEwNzY5Njk0Nj
+ksLTIwNjQwMjYxNTEsNDMxNDc2NjI4LDE0NTA4NzE5NTIsMTkz
+OTAwNDQ0MV19
 -->
