@@ -119,7 +119,7 @@ And Spain really needed cinnamon. One eighteenth-century report estimated that t
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-A third, and most daring strategy to get cinnamon, was to transplant the 'true' cinnamon to Spanish territories. This was an important objective of men like Casimiro Gómez Ortega, director of the Royal botanical Garden in Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published a 'Instruction on the Safest and Most Economical Means of Transporting Live Plants by Sea and by Land to the Most Distant Countries' in 1779. The document invited and instructed naturalists everywhere to contribute plants and plant knowledge for the Spanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis 
+A third, and most daring strategy to get cinnamon, was to transplant the 'true' cinnamon to Spanish territories. This was an important objective of men like Casimiro Gómez Ortega, director of the Royal botanical Garden in Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published an 'Instruction on the Safest and Most Economical Means of Transporting Live Plants by Sea and by Land to the Most Distant Countries' in 1779. The document invited and instructed naturalists everywhere to contribute plants and plant knowledge for the Spanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis addressed the Spanish crown to support his plans for botanical expeditions in South America 
 
 Cinnamon in the Spanish (Atlantic) world
 	 - Chocolate drink in Spanish Atlantic world
@@ -210,7 +210,7 @@ In ieder geval toevoegen:
 
 [^ref25]: Bleichmar, _Visible Empire_, 123-126.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzA2Nzg5LDc1NDYyMjQ1NywxMDMwMj
+eyJoaXN0b3J5IjpbNDQyOTQ1MTA2LDc1NDYyMjQ1NywxMDMwMj
 Y3MTgwLC0xMzc2MzczNjQyLDU2NzM1MzgxMiwxODc2MzE1ODc1
 LDE1NzgwNDI1NjEsMjAyMTk3NzE0MiwtMTA4NzU5OTAzNywtMT
 M2NjExNTYwMywtMTc4MTMyNDAsLTk3ODgxNjQ2OSwtOTgxMjI1
