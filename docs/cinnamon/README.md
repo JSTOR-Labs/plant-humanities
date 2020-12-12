@@ -124,7 +124,7 @@ A third, and most daring strategy to get cinnamon, was to transplant the 'true' 
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J. Presl. is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[]
+Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J. Presl. is now grown in many countries in the tropical zone, but the quality of the product differs for each region.[^ref28]
 <param ve-map
 	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don't know if I can simply extract it from the sources: https://www.cabi.org/isc/datasheet/13573 (CABI), and http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1 (Kew, Plants of the World Online)]">
 
@@ -199,12 +199,14 @@ Future of cinnamon
 [^ref26]: Bleichmar, _Visible Empire_, 26, 31.
 
 [^ref27]: Thomas J. Zumbroich, "The Introduction of Nutmeg (_Myristica fragrans_ Houtt.) and Cinnamon (_Cinnamomum verum_ J. Presl.) to America", _Acta Botánica Venezuélica_, 28:1 (2005) 155-160.
+
+[^ref28]: U.M. Senanayake and R.O.B. Wijesekera, "Cinnamon and Cassia – The Future Vision", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus Cinnamomum_. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 327-329.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTEwMzY5OTksLTEyMTQzMzM1ODMsNj
-Q0MDEyNzQ4LC0zNTI3NTg4NDEsNzU0NjIyNDU3LDEwMzAyNjcx
-ODAsLTEzNzYzNzM2NDIsNTY3MzUzODEyLDE4NzYzMTU4NzUsMT
-U3ODA0MjU2MSwyMDIxOTc3MTQyLC0xMDg3NTk5MDM3LC0xMzY2
-MTE1NjAzLC0xNzgxMzI0MCwtOTc4ODE2NDY5LC05ODEyMjU0ND
-IsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LDQwNDgwMTIwMiwtNzAy
-MDg3MTczXX0=
+eyJoaXN0b3J5IjpbLTg0MDI2NjI3MCwtMTIxNDMzMzU4Myw2ND
+QwMTI3NDgsLTM1Mjc1ODg0MSw3NTQ2MjI0NTcsMTAzMDI2NzE4
+MCwtMTM3NjM3MzY0Miw1NjczNTM4MTIsMTg3NjMxNTg3NSwxNT
+c4MDQyNTYxLDIwMjE5NzcxNDIsLTEwODc1OTkwMzcsLTEzNjYx
+MTU2MDMsLTE3ODEzMjQwLC05Nzg4MTY0NjksLTk4MTIyNTQ0Mi
+wtMTA3MDA3NTEyNCw0MjQ4NDUyMDYsNDA0ODAxMjAyLC03MDIw
+ODcxNzNdfQ==
 -->
