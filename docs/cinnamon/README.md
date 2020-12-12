@@ -113,7 +113,7 @@ The Spanish efforts to find cinnamon in the New World were not only intended to 
 	title="bla bla bla"
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
 
-And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch cinnamon exports from Sri Lanka to Europe was consumed by Spain and its colonies.[^ref22] Cinnamon was used, for instance, as a flavoring ingredient in chocolate drinks, which were very popular in the Spanish Atlantic world.[^ref23] To supplement the supply of cinnamon, Spain embarked on a second strategy of producing cinnamon itself, from other _Cinnamomum_ species in the East Indies. Thus, plantations were created in the Philippines, planted with local species like _Cinnamomum burmanni_ (Nees & T.Nees) Blume and _Cinnamomum cebuense_ Kosterm.
+And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch cinnamon exports from Sri Lanka to Europe was consumed by Spain and its colonies.[^ref22] It was not enough. To supplement the supply of cinnamon, Spain embarked on a second strategy of producing cinnamon itself, from other _Cinnamomum_ species in the East Indies. Thus, plantations were created in the Philippines, planted with local species like _Cinnamomum burmanni_ (Nees & T.Nees) Blume and _Cinnamomum cebuense_ Kosterm. Cinnamon was used, for instance, as a flavoring ingredient in chocolate drinks, which were very popular in the Spanish Atlantic world.[^ref23] 
 
 
 
@@ -200,13 +200,13 @@ In ieder geval toevoegen:
 
 [^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press 1989) 251-252. The estimate comes from Jacques Savary des Bruslons's, _Dictionnaire universel de commerce_ of 1723.
 
-[^ref23]: Irene Fattacciu, "The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification", in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273.
+[^ref23]: Irene Fattacciu, "The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification", in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273; Skowronek, R.K., "Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy", in: C. Wu (ed.), Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective (Singapore: Springer Science+Business Media 2016) 59-74
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ0NDk2MzgsLTEwODc1OTkwMzcsLT
-EzNjYxMTU2MDMsLTE3ODEzMjQwLC05Nzg4MTY0NjksLTk4MTIy
-NTQ0MiwtMTA3MDA3NTEyNCw0MjQ4NDUyMDYsNDA0ODAxMjAyLC
-03MDIwODcxNzMsLTc3NTY3NTk3NCwtOTY2NTAzMDA1LC03MDQ1
-MDM3MTUsLTcwODUwMzQ1OSwtNjc2OTIwNzMyLC0xNzQ4MDMyND
-UwLC0xODY0ODI0MjAwLDEzMzA5MDE4MTIsMTg5MDkwNzgwOCwx
-MDc2OTY5NDY5XX0=
+eyJoaXN0b3J5IjpbMTg2MjI3MjY2NSwtMTA4NzU5OTAzNywtMT
+M2NjExNTYwMywtMTc4MTMyNDAsLTk3ODgxNjQ2OSwtOTgxMjI1
+NDQyLC0xMDcwMDc1MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLT
+cwMjA4NzE3MywtNzc1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUw
+MzcxNSwtNzA4NTAzNDU5LC02NzY5MjA3MzIsLTE3NDgwMzI0NT
+AsLTE4NjQ4MjQyMDAsMTMzMDkwMTgxMiwxODkwOTA3ODA4LDEw
+NzY5Njk0NjldfQ==
 -->
