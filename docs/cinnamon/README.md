@@ -108,7 +108,7 @@ Meanwhile, other states were desperate to have cinnamon for themselves. This was
 	title="[Might be cool to include a map here, of the Pizarro and Orellana expedition. There is reusable geodata avilable on http://sharemap.org/public/Francisco_de_Orellana_Amazon_River_voyage_(1541-1542)#!webgl]"
 	url="">
 
-
+The Spanish efforts to find cinnamon in the New World were not only intended to compete with the 'true' cinnamon of the Portuguese and the Dutch.
 	 - Spanish efforts to find cinnamon in the New World
 	 Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
 
@@ -205,7 +205,7 @@ In ieder geval toevoegen:
 
 [^ref20]: Neil Safier, "Fruitless Botany: Joseph de Jussieu's South American Odyssey", in: James Delbourgo and Nicholas Dew (eds.), _Science and Empire in the Atlantic World_ (New York: Routledge 2008) 203-224.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDk2NTU2NCwtOTc4ODE2NDY5LC05OD
+eyJoaXN0b3J5IjpbMjE0NjA1OTM4OSwtOTc4ODE2NDY5LC05OD
 EyMjU0NDIsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LDQwNDgwMTIw
 MiwtNzAyMDg3MTczLC03NzU2NzU5NzQsLTk2NjUwMzAwNSwtNz
 A0NTAzNzE1LC03MDg1MDM0NTksLTY3NjkyMDczMiwtMTc0ODAz
