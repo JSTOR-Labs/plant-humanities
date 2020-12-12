@@ -126,9 +126,7 @@ A third, and most daring strategy to get cinnamon, was to transplant the 'true' 
 
 Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion still remains: _Cinnamomum verum_ J. Presl. is now grown in many countries in the tropical zone, but the quality of the product differs for each region.
 <param ve-map
-	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don't know if I can simply extract it from thMight be cool to include a map here, of the Pizarro and Orellana expedition. There is reusable geodata avilable on http://sharemap.org/public/Francisco_de_Orellana_Amazon_River_voyage_(1541-1542)#!webgl]"
-	center="-1.961220, -63.523771"
-	zoom="4.9">
+	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don't know if I can simply extract it from the sources: https://www.cabi.org/isc/datasheet/13573 (CABI), and http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1 (Kew, Plants of the World Online)]">
 
 Medicinal uses
  Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 11)
@@ -137,9 +135,7 @@ Medicinal uses
 
 Modern distribution
  CABI:
- https://www.cabi.org/isc/datasheet/13573
- Kew, Plants of the World Online
- http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1
+
 
 
 Kaneelhandel vandaag de dag
@@ -206,7 +202,7 @@ Future of cinnamon
 
 [^ref27]: Thomas J. Zumbroich, "The Introduction of Nutmeg (_Myristica fragrans_ Houtt.) and Cinnamon (_Cinnamomum verum_ J. Presl.) to America", _Acta Botánica Venezuélica_, 28:1 (2005) 155-160.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTA3MDkzLC0xMjE0MzMzNTgzLDY0ND
+eyJoaXN0b3J5IjpbNDY2Njc4ODI5LC0xMjE0MzMzNTgzLDY0ND
 AxMjc0OCwtMzUyNzU4ODQxLDc1NDYyMjQ1NywxMDMwMjY3MTgw
 LC0xMzc2MzczNjQyLDU2NzM1MzgxMiwxODc2MzE1ODc1LDE1Nz
 gwNDI1NjEsMjAyMTk3NzE0MiwtMTA4NzU5OTAzNywtMTM2NjEx
