@@ -78,7 +78,7 @@ The restrictions of the Dutch on cinnamon production and export made it the only
 
 Local grievances about the VOC policy for _chenas_, and about extortion of peelers by Sinhalese and Dutch officials, exploded in 1760. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The war finally may have caused the Dutch to rethink their approach for cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765-1785) began to experiment with 'cinnamon gardens' (_kaneeltuinen_), which amounted to nothing less than a succesful colonial plantation mechanism. By the end of his governorship, there were 24 million cinnamon trees growing in gardens, which increased to 609 million trees (!) by 1794.[^ref12]
 <param ve-image
-	title="'Map of the cinnamon gardens with their main roads in the district of Kaliture.' This anonymous, eighteenth-century map shows 70 cinnamon gardens located immediately south of Colombo, between Kaliture (present-day Kalutara) and the mouth of the Bentotte (Bentota) River."
+	title="'Map of the cinnamon gardens with their main roads in the district of Kaliture.' This anonymous, eighteenth-century map shows 70 cinnamon gardens located immediately south of Colombo, between Kaliture (present-day Kalutara) and the mouth of the Bentotte (Bentota) river."
 	attribution="Nationaal Archief, The Hague, 4.VEL 'Inventaris van de verzameling buitenlandse kaarten Leupe, 1584-1865', inv.no. 935 'Kaart van de Salpittie Korls Kanneeltuynen, met dies Hoofdwegens, geleegen in het district Kaliture'."
 	url="NL-HaNA_4.VEL_935-groot.jpg"
 	region="2226,1064,839,630">
@@ -103,7 +103,7 @@ _Cinnamomum verum_ J.Presl, from Paul Hermann's herbarium of plants from Sri Lan
 
 ### Cinnamon and the imagination of empire
 
-Meanwhile, other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – ultimately with no success – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World even went back as far as the early days of exploration: we already encountered Columbus's efforts to find cinnamon on his journeys. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river
+Meanwhile, other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – ultimately with no success – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World even went back as far as the early days of exploration: we already encountered Columbus's efforts to find cinnamon on his journeys. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river (1541-1542) was also intended to find the legendary 'Land of Cinnamon' (_País de _)
 
 	 - Spanish efforts to find cinnamon in the New World
 	 Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
@@ -196,11 +196,11 @@ In ieder geval toevoegen:
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwMDcwMTQ0LC0xMDcwMDc1MTI0LDQyND
-g0NTIwNiw0MDQ4MDEyMDIsLTcwMjA4NzE3MywtNzc1Njc1OTc0
-LC05NjY1MDMwMDUsLTcwNDUwMzcxNSwtNzA4NTAzNDU5LC02Nz
-Y5MjA3MzIsLTE3NDgwMzI0NTAsLTE4NjQ4MjQyMDAsMTMzMDkw
-MTgxMiwxODkwOTA3ODA4LDEwNzY5Njk0NjksLTIwNjQwMjYxNT
-EsNDMxNDc2NjI4LDE0NTA4NzE5NTIsMTkzOTAwNDQ0MSwtMTM5
-NDcyMjc1MF19
+eyJoaXN0b3J5IjpbMTMzOTE2MTMwMiwtMTA3MDA3NTEyNCw0Mj
+Q4NDUyMDYsNDA0ODAxMjAyLC03MDIwODcxNzMsLTc3NTY3NTk3
+NCwtOTY2NTAzMDA1LC03MDQ1MDM3MTUsLTcwODUwMzQ1OSwtNj
+c2OTIwNzMyLC0xNzQ4MDMyNDUwLC0xODY0ODI0MjAwLDEzMzA5
+MDE4MTIsMTg5MDkwNzgwOCwxMDc2OTY5NDY5LC0yMDY0MDI2MT
+UxLDQzMTQ3NjYyOCwxNDUwODcxOTUyLDE5MzkwMDQ0NDEsLTEz
+OTQ3MjI3NTBdfQ==
 -->
