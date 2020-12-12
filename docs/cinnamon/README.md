@@ -1,5 +1,5 @@
 <param ve-config
-	title="_Cinnamomum verum_: two thousand years of discovering 'true' cinnamon"
+	title="Cinnamomum verum: two thousand years of discovering 'true' cinnamon"
 	banner="https://free.iiifhosting.com/iiif/dce243e93c83f5c437ebe4c4b3025b1824db07aeef46c580742fb3aa85d72ac9/pct:0,40,100,40/full/0/color.jpg"
 	layout="vtl"
 	num-maps="0"
@@ -188,7 +188,7 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5OTk4ODg0LC0xNDU4NDMxNzI2LC04ND
+eyJoaXN0b3J5IjpbNTYwNzc5MjQyLC0xNDU4NDMxNzI2LC04ND
 AyNjYyNzAsLTEyMTQzMzM1ODMsNjQ0MDEyNzQ4LC0zNTI3NTg4
 NDEsNzU0NjIyNDU3LDEwMzAyNjcxODAsLTEzNzYzNzM2NDIsNT
 Y3MzUzODEyLDE4NzYzMTU4NzUsMTU3ODA0MjU2MSwyMDIxOTc3
