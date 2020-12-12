@@ -108,7 +108,7 @@ Meanwhile, other states were desperate to have cinnamon for themselves. This was
 	title="[Might be cool to include a map here, of the Pizarro and Orellana expedition. There is reusable geodata avilable on http://sharemap.org/public/Francisco_de_Orellana_Amazon_River_voyage_(1541-1542)#!webgl]"
 	url="">
 
-The Spanish efforts to find cinnamon in the New World were not only intended to compete with the 'true' cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The succe
+The Spanish efforts to find cinnamon in the New World were not only intended to compete with the 'true' cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The spice trade successes of Spain's European rivals in the East Indies made the Cape of Good Hope the principal 
 	 - Spanish efforts to find cinnamon in the New World
 	 Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
 
@@ -205,11 +205,11 @@ In ieder geval toevoegen:
 
 [^ref20]: Neil Safier, "Fruitless Botany: Joseph de Jussieu's South American Odyssey", in: James Delbourgo and Nicholas Dew (eds.), _Science and Empire in the Atlantic World_ (New York: Routledge 2008) 203-224.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjA2NTAzNCwtOTc4ODE2NDY5LC05OD
-EyMjU0NDIsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LDQwNDgwMTIw
-MiwtNzAyMDg3MTczLC03NzU2NzU5NzQsLTk2NjUwMzAwNSwtNz
-A0NTAzNzE1LC03MDg1MDM0NTksLTY3NjkyMDczMiwtMTc0ODAz
-MjQ1MCwtMTg2NDgyNDIwMCwxMzMwOTAxODEyLDE4OTA5MDc4MD
-gsMTA3Njk2OTQ2OSwtMjA2NDAyNjE1MSw0MzE0NzY2MjgsMTQ1
-MDg3MTk1Ml19
+eyJoaXN0b3J5IjpbNzkyNDM0MDA5LC05Nzg4MTY0NjksLTk4MT
+IyNTQ0MiwtMTA3MDA3NTEyNCw0MjQ4NDUyMDYsNDA0ODAxMjAy
+LC03MDIwODcxNzMsLTc3NTY3NTk3NCwtOTY2NTAzMDA1LC03MD
+Q1MDM3MTUsLTcwODUwMzQ1OSwtNjc2OTIwNzMyLC0xNzQ4MDMy
+NDUwLC0xODY0ODI0MjAwLDEzMzA5MDE4MTIsMTg5MDkwNzgwOC
+wxMDc2OTY5NDY5LC0yMDY0MDI2MTUxLDQzMTQ3NjYyOCwxNDUw
+ODcxOTUyXX0=
 -->
