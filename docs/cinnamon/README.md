@@ -42,7 +42,7 @@ The attraction of cinnamon – 'true' or other – as a means to enhance the pow
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1414,152,1586,1031">
 
-The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees, which he believed should grow there. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies.[^ref6]
+The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon bark with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees, which he believed should grow there. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies.[^ref6]
 <param ve-image
 	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner covering the globe reads in Latin 'Primus circumdedisti me' ('You first encircled me')."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
@@ -200,11 +200,11 @@ In ieder geval toevoegen:
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDUwMzcxNSwtNzA4NTAzNDU5LC02Nz
-Y5MjA3MzIsLTE3NDgwMzI0NTAsLTE4NjQ4MjQyMDAsMTMzMDkw
-MTgxMiwxODkwOTA3ODA4LDEwNzY5Njk0NjksLTIwNjQwMjYxNT
-EsNDMxNDc2NjI4LDE0NTA4NzE5NTIsMTkzOTAwNDQ0MSwtMTM5
-NDcyMjc1MCwyMDk5NTczNzg1LDE1Njg2NTk1NjQsLTIxMDQzNj
-A1NDAsODA2OTAwOTUsLTE0NTIzNDAxNzcsODA1MjgwOTk1LC0x
-MDI5OTE4ODQ0XX0=
+eyJoaXN0b3J5IjpbMTI0ODk3MjU3NSwtNzA0NTAzNzE1LC03MD
+g1MDM0NTksLTY3NjkyMDczMiwtMTc0ODAzMjQ1MCwtMTg2NDgy
+NDIwMCwxMzMwOTAxODEyLDE4OTA5MDc4MDgsMTA3Njk2OTQ2OS
+wtMjA2NDAyNjE1MSw0MzE0NzY2MjgsMTQ1MDg3MTk1MiwxOTM5
+MDA0NDQxLC0xMzk0NzIyNzUwLDIwOTk1NzM3ODUsMTU2ODY1OT
+U2NCwtMjEwNDM2MDU0MCw4MDY5MDA5NSwtMTQ1MjM0MDE3Nyw4
+MDUyODA5OTVdfQ==
 -->
