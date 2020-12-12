@@ -89,7 +89,7 @@ The success was short-lived, however. When the British took over control of the 
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
 ### A tool of empire or a tool of science?
-Although cinnamon was a successful monopoly during the Dutch period, was it only a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. The Dutch monopoly was about retaining commercial interests above anything else, but not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
+Although cinnamon was a successful monopoly during the Dutch period, was it only a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. The Dutch monopoly was about retaining commercial interests above anything else, but not all restrictions were commercially motivated. When the commander of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil from local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government in Batavia agreed, but Van Rheede justified his actions by letter and continued his work. Here, the motivation of both men was to demonstrate that the medicines from 'their' respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14] 
 <param ve-image
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
@@ -200,7 +200,7 @@ In ieder geval toevoegen:
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxOTYzMTk1LC03MDIwODcxNzMsLTc3NT
+eyJoaXN0b3J5IjpbNDA0ODAxMjAyLC03MDIwODcxNzMsLTc3NT
 Y3NTk3NCwtOTY2NTAzMDA1LC03MDQ1MDM3MTUsLTcwODUwMzQ1
 OSwtNjc2OTIwNzMyLC0xNzQ4MDMyNDUwLC0xODY0ODI0MjAwLD
 EzMzA5MDE4MTIsMTg5MDkwNzgwOCwxMDc2OTY5NDY5LC0yMDY0
