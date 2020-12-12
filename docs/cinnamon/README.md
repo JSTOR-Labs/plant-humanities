@@ -205,13 +205,13 @@ In ieder geval toevoegen:
 
 [^ref20]: Neil Safier, "Fruitless Botany: Joseph de Jussieu's South American Odyssey", in: James Delbourgo and Nicholas Dew (eds.), _Science and Empire in the Atlantic World_ (New York: Routledge 2008) 203-224.
 
-[^ref21]: Catherine E. Burdick, "Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle's Tabula Geographica Regni Chile (1646)", Imago Mundi, 66:2 (2014) 196-212
+[^ref21]: Catherine E. Burdick, "Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle's _Tabula Geographica Regni Chile_ (1646)", _Imago Mundi_, 66:2 (2014) 196-212.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ2MDU1MTUsLTk3ODgxNjQ2OSwtOT
-gxMjI1NDQyLC0xMDcwMDc1MTI0LDQyNDg0NTIwNiw0MDQ4MDEy
-MDIsLTcwMjA4NzE3MywtNzc1Njc1OTc0LC05NjY1MDMwMDUsLT
-cwNDUwMzcxNSwtNzA4NTAzNDU5LC02NzY5MjA3MzIsLTE3NDgw
-MzI0NTAsLTE4NjQ4MjQyMDAsMTMzMDkwMTgxMiwxODkwOTA3OD
-A4LDEwNzY5Njk0NjksLTIwNjQwMjYxNTEsNDMxNDc2NjI4LDE0
-NTA4NzE5NTJdfQ==
+eyJoaXN0b3J5IjpbNDQ4ODY2OTUzLC05Nzg4MTY0NjksLTk4MT
+IyNTQ0MiwtMTA3MDA3NTEyNCw0MjQ4NDUyMDYsNDA0ODAxMjAy
+LC03MDIwODcxNzMsLTc3NTY3NTk3NCwtOTY2NTAzMDA1LC03MD
+Q1MDM3MTUsLTcwODUwMzQ1OSwtNjc2OTIwNzMyLC0xNzQ4MDMy
+NDUwLC0xODY0ODI0MjAwLDEzMzA5MDE4MTIsMTg5MDkwNzgwOC
+wxMDc2OTY5NDY5LC0yMDY0MDI2MTUxLDQzMTQ3NjYyOCwxNDUw
+ODcxOTUyXX0=
 -->
