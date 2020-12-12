@@ -186,16 +186,16 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref28]: U.M. Senanayake and R.O.B. Wijesekera, "Cinnamon and Cassia – The Future Vision", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 327-329.
 
-[^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; 
+[^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and
  Ravindran (P.N.), Nirmal Babu (K.) & Shylaja (M.) 2004 (hst 11)
  Ranasinghe (P.) 2013
  Oketch‐Rabah (H.A.), Marles (R.J.) & Brinckmann (J.A.) 2018 (botanical ambiguity in ascertaining medicinal properties)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzkzMTY2NSwtODQwMjY2MjcwLC0xMj
-E0MzMzNTgzLDY0NDAxMjc0OCwtMzUyNzU4ODQxLDc1NDYyMjQ1
-NywxMDMwMjY3MTgwLC0xMzc2MzczNjQyLDU2NzM1MzgxMiwxOD
-c2MzE1ODc1LDE1NzgwNDI1NjEsMjAyMTk3NzE0MiwtMTA4NzU5
-OTAzNywtMTM2NjExNTYwMywtMTc4MTMyNDAsLTk3ODgxNjQ2OS
-wtOTgxMjI1NDQyLC0xMDcwMDc1MTI0LDQyNDg0NTIwNiw0MDQ4
-MDEyMDJdfQ==
+eyJoaXN0b3J5IjpbODAxMTcxMjksLTg0MDI2NjI3MCwtMTIxND
+MzMzU4Myw2NDQwMTI3NDgsLTM1Mjc1ODg0MSw3NTQ2MjI0NTcs
+MTAzMDI2NzE4MCwtMTM3NjM3MzY0Miw1NjczNTM4MTIsMTg3Nj
+MxNTg3NSwxNTc4MDQyNTYxLDIwMjE5NzcxNDIsLTEwODc1OTkw
+MzcsLTEzNjYxMTU2MDMsLTE3ODEzMjQwLC05Nzg4MTY0NjksLT
+k4MTIyNTQ0MiwtMTA3MDA3NTEyNCw0MjQ4NDUyMDYsNDA0ODAx
+MjAyXX0=
 -->
