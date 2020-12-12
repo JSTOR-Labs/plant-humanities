@@ -119,7 +119,7 @@ And Spain really needed cinnamon. One eighteenth-century report estimated that t
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-A third, and most daring strategy to get cinnamon, was to transplant the 'true' cinnamon to Spanish territories. This was an important objective of men like Casimiro Gómez Ortega, director of the Royal botanical Garden in Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published a 'Instruction on the Safest and Most Economical Means of Transporting Live Plants by Sea and by Land to the Most Distant Countries' in 1779. The document 
+A third, and most daring strategy to get cinnamon, was to transplant the 'true' cinnamon to Spanish territories. This was an important objective of men like Casimiro Gómez Ortega, director of the Royal botanical Garden in Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published a 'Instruction on the Safest and Most Economical Means of Transporting Live Plants by Sea and by Land to the Most Distant Countries' in 1779. The document ivited naturalists everywhere to contribute 
 
 Cinnamon in the Spanish (Atlantic) world
 	 - Chocolate drink in Spanish Atlantic world
@@ -210,11 +210,11 @@ In ieder geval toevoegen:
 
 [^ref25]: Bleichmar, _Visible Empire_, 123-126.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0NjIyNDU3LDEwMzAyNjcxODAsLTEzNz
-YzNzM2NDIsNTY3MzUzODEyLDE4NzYzMTU4NzUsMTU3ODA0MjU2
-MSwyMDIxOTc3MTQyLC0xMDg3NTk5MDM3LC0xMzY2MTE1NjAzLC
-0xNzgxMzI0MCwtOTc4ODE2NDY5LC05ODEyMjU0NDIsLTEwNzAw
-NzUxMjQsNDI0ODQ1MjA2LDQwNDgwMTIwMiwtNzAyMDg3MTczLC
-03NzU2NzU5NzQsLTk2NjUwMzAwNSwtNzA0NTAzNzE1LC03MDg1
-MDM0NTldfQ==
+eyJoaXN0b3J5IjpbLTIxMDY0MzkyNjAsNzU0NjIyNDU3LDEwMz
+AyNjcxODAsLTEzNzYzNzM2NDIsNTY3MzUzODEyLDE4NzYzMTU4
+NzUsMTU3ODA0MjU2MSwyMDIxOTc3MTQyLC0xMDg3NTk5MDM3LC
+0xMzY2MTE1NjAzLC0xNzgxMzI0MCwtOTc4ODE2NDY5LC05ODEy
+MjU0NDIsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LDQwNDgwMTIwMi
+wtNzAyMDg3MTczLC03NzU2NzU5NzQsLTk2NjUwMzAwNSwtNzA0
+NTAzNzE1XX0=
 -->
