@@ -114,7 +114,9 @@ The Spanish efforts to find cinnamon in the New World were not only intended to 
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
 
 And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch cinnamon exports from Sri Lanka to Europe was consumed by Spain and its colonies.[^ref22] It was still not enough. To supplement the supply of cinnamon, Spain embarked on a second strategy of producing cinnamon itself, from other _Cinnamomum_ species in the East Indies. Thus, plantations were created in the Philippines, planted with local species like _Cinnamomum burmanni_ (Nees & T.Nees) Blume and _Cinnamomum cebuense_ Kosterm. Cinnamon was used, for instance, as a flavoring ingredient in chocolate drinks, which were very popular in the Spanish Atlantic world.[^ref23] 
-
+<param ve-image
+	title="[No visualization here yet.]"
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
 
 Cinnamon in the Spanish (Atlantic) world
@@ -202,7 +204,7 @@ In ieder geval toevoegen:
 
 [^ref23]: Francisco Mallari, S.J.,, "The Mindanao Cinnamon", _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; Irene Fattacciu, "The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification", in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273; and Russell K. Skowronek, "Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy", in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDI3MzQzMSwtMTA4NzU5OTAzNywtMT
+eyJoaXN0b3J5IjpbMTc2NzY0OTk0MiwtMTA4NzU5OTAzNywtMT
 M2NjExNTYwMywtMTc4MTMyNDAsLTk3ODgxNjQ2OSwtOTgxMjI1
 NDQyLC0xMDcwMDc1MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLT
 cwMjA4NzE3MywtNzc1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUw
