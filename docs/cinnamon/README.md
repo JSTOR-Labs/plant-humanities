@@ -113,7 +113,7 @@ The Spanish efforts to find cinnamon in the New World were not only intended to 
 	title="bla bla bla"
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
 
-And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch cinnamon exports from Sri Lanka to Europe was consumed by Spain and its colonies.[^ref22] It still wasn't enough. To supplement the supply of cinnamon, Spain embarked on a second strategy of producing cinnamon itself, from other _Cinnamomum_ species in the East Indies. Thus, plantations were created in the Philippines, planted with local species like _Cinnamomum burmanni_ (Nees & T.Nees) Blume and _Cinnamomum cebuense_ Kosterm. The Spanish pharmacist and botanist Juan de Cuéllar went at lengths to convince his superiors in Madrid that cinnamon from the Philippines was identical to the one from Sri Lanka. All this cinnamon was used, for instance, as a flavoring ingredient in chocolate drinks, which were very popular in the Spanish Atlantic world.[^ref23] 
+And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch cinnamon exports from Sri Lanka to Europe was consumed by Spain and its colonies.[^ref22] It still wasn't enough. To supplement the supply of cinnamon, Spain embarked on a second strategy of producing cinnamon itself, from other _Cinnamomum_ species in the East Indies. Thus, plantations were created in the Philippines, planted with local species like _Cinnamomum burmanni_ (Nees & T.Nees) Blume and _Cinnamomum cebuense_ Kosterm.[^ref23] The Spanish pharmacist and botanist Juan de Cuéllar went at lengths to convince his superiors in Madrid that cinnamon from the Philippines was identical to the one from Sri Lanka. This was not only a scholarly motivated exercise, but an important [^ref23]All this cinnamon was used, for instance, as a flavoring ingredient in chocolate drinks, which were very popular in the Spanish Atlantic world.
 <param ve-image
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
@@ -205,11 +205,11 @@ In ieder geval toevoegen:
 
 [^ref23]: Francisco Mallari, S.J.,, "The Mindanao Cinnamon", _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; Irene Fattacciu, "The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification", in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273; and Russell K. Skowronek, "Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy", in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDk2ODg5NSwxODc2MzE1ODc1LDE1Nz
-gwNDI1NjEsMjAyMTk3NzE0MiwtMTA4NzU5OTAzNywtMTM2NjEx
-NTYwMywtMTc4MTMyNDAsLTk3ODgxNjQ2OSwtOTgxMjI1NDQyLC
-0xMDcwMDc1MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLTcwMjA4
-NzE3MywtNzc1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUwMzcxNS
-wtNzA4NTAzNDU5LC02NzY5MjA3MzIsLTE3NDgwMzI0NTAsLTE4
-NjQ4MjQyMDBdfQ==
+eyJoaXN0b3J5IjpbLTEwODUyNDYzNjIsMTg3NjMxNTg3NSwxNT
+c4MDQyNTYxLDIwMjE5NzcxNDIsLTEwODc1OTkwMzcsLTEzNjYx
+MTU2MDMsLTE3ODEzMjQwLC05Nzg4MTY0NjksLTk4MTIyNTQ0Mi
+wtMTA3MDA3NTEyNCw0MjQ4NDUyMDYsNDA0ODAxMjAyLC03MDIw
+ODcxNzMsLTc3NTY3NTk3NCwtOTY2NTAzMDA1LC03MDQ1MDM3MT
+UsLTcwODUwMzQ1OSwtNjc2OTIwNzMyLC0xNzQ4MDMyNDUwLC0x
+ODY0ODI0MjAwXX0=
 -->
