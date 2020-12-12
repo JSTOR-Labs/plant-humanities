@@ -113,7 +113,7 @@ The Spanish efforts to find cinnamon in the New World were not only intended to 
 	title="bla bla bla"
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
 
-And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch production on Sri Lanka was exported to Spain and its colonies.
+And Spain really needed cinnamon. One eighteenth-century report estimated that two-thirds of the Dutch production on Sri Lanka was exported to Spain and its colonies.[^ref22]
 
 
 
@@ -202,8 +202,10 @@ In ieder geval toevoegen:
 [^ref20]: Neil Safier, "Fruitless Botany: Joseph de Jussieu's South American Odyssey", in: James Delbourgo and Nicholas Dew (eds.), _Science and Empire in the Atlantic World_ (New York: Routledge 2008) 203-224.
 
 [^ref21]: Catherine E. Burdick, "Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle's _Tabula Geographica Regni Chile_ (1646)", _Imago Mundi_, 66:2 (2014) 196-212.
+
+[^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press 1989)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTAyODk3OCwtMTM2NjExNTYwMywtMT
+eyJoaXN0b3J5IjpbMTg3MzQ5MDIyOSwtMTM2NjExNTYwMywtMT
 c4MTMyNDAsLTk3ODgxNjQ2OSwtOTgxMjI1NDQyLC0xMDcwMDc1
 MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLTcwMjA4NzE3MywtNz
 c1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUwMzcxNSwtNzA4NTAz
