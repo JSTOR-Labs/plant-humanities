@@ -103,7 +103,7 @@ _Cinnamomum verum_ J.Presl, from Paul Hermann's herbarium of plants from Sri Lan
 
 ### Cinnamon and the imagination of empire
 
-Meanwhile, other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – unsuccesfully – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World even went back as far as the early days of exploration. We alreadearly as the days of the _conquistadors_. The famous expedition of gonzalo Pizarro and Francisco de Orellana along the Amazon river
+Meanwhile, other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – ultimately with no success – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World even went back as far as the early days of exploration: we already encountered Columbus's efforts to find cinnamon on his journeys. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river
 
 	 - Spanish efforts to find cinnamon in the New World
 	 Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
@@ -196,11 +196,11 @@ In ieder geval toevoegen:
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzkwMjA2MDAsLTEwNzAwNzUxMjQsND
-I0ODQ1MjA2LDQwNDgwMTIwMiwtNzAyMDg3MTczLC03NzU2NzU5
-NzQsLTk2NjUwMzAwNSwtNzA0NTAzNzE1LC03MDg1MDM0NTksLT
-Y3NjkyMDczMiwtMTc0ODAzMjQ1MCwtMTg2NDgyNDIwMCwxMzMw
-OTAxODEyLDE4OTA5MDc4MDgsMTA3Njk2OTQ2OSwtMjA2NDAyNj
-E1MSw0MzE0NzY2MjgsMTQ1MDg3MTk1MiwxOTM5MDA0NDQxLC0x
-Mzk0NzIyNzUwXX0=
+eyJoaXN0b3J5IjpbNjIwMDcwMTQ0LC0xMDcwMDc1MTI0LDQyND
+g0NTIwNiw0MDQ4MDEyMDIsLTcwMjA4NzE3MywtNzc1Njc1OTc0
+LC05NjY1MDMwMDUsLTcwNDUwMzcxNSwtNzA4NTAzNDU5LC02Nz
+Y5MjA3MzIsLTE3NDgwMzI0NTAsLTE4NjQ4MjQyMDAsMTMzMDkw
+MTgxMiwxODkwOTA3ODA4LDEwNzY5Njk0NjksLTIwNjQwMjYxNT
+EsNDMxNDc2NjI4LDE0NTA4NzE5NTIsMTkzOTAwNDQ0MSwtMTM5
+NDcyMjc1MF19
 -->
