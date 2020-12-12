@@ -118,7 +118,7 @@ And Spain really needed cinnamon. One eighteenth-century report estimated that t
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-A third, and most daring strategy to get cinnamon, was to transplant the 'true' cinnamon to Spanish territories. This was an important objective of men like Casimiro Gómez Ortega, director of the Royal botanical Garden in Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish vbo
+A third, and most daring strategy to get cinnamon, was to transplant the 'true' cinnamon to Spanish territories. This was an important objective of men like Casimiro Gómez Ortega, director of the Royal botanical Garden in Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards.
 
 Cinnamon in the Spanish (Atlantic) world
 	 - Chocolate drink in Spanish Atlantic world
@@ -205,11 +205,11 @@ In ieder geval toevoegen:
 
 [^ref23]: Francisco Mallari, S.J.,, "The Mindanao Cinnamon", _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; Irene Fattacciu, "The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification", in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273; and Russell K. Skowronek, "Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy", in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyMTM2ODIxLDIwMjE5NzcxNDIsLTEwOD
-c1OTkwMzcsLTEzNjYxMTU2MDMsLTE3ODEzMjQwLC05Nzg4MTY0
-NjksLTk4MTIyNTQ0MiwtMTA3MDA3NTEyNCw0MjQ4NDUyMDYsND
-A0ODAxMjAyLC03MDIwODcxNzMsLTc3NTY3NTk3NCwtOTY2NTAz
-MDA1LC03MDQ1MDM3MTUsLTcwODUwMzQ1OSwtNjc2OTIwNzMyLC
-0xNzQ4MDMyNDUwLC0xODY0ODI0MjAwLDEzMzA5MDE4MTIsMTg5
-MDkwNzgwOF19
+eyJoaXN0b3J5IjpbMTU3ODA0MjU2MSwyMDIxOTc3MTQyLC0xMD
+g3NTk5MDM3LC0xMzY2MTE1NjAzLC0xNzgxMzI0MCwtOTc4ODE2
+NDY5LC05ODEyMjU0NDIsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LD
+QwNDgwMTIwMiwtNzAyMDg3MTczLC03NzU2NzU5NzQsLTk2NjUw
+MzAwNSwtNzA0NTAzNzE1LC03MDg1MDM0NTksLTY3NjkyMDczMi
+wtMTc0ODAzMjQ1MCwtMTg2NDgyNDIwMCwxMzMwOTAxODEyLDE4
+OTA5MDc4MDhdfQ==
 -->
