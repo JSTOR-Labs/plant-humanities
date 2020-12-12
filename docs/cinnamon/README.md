@@ -108,7 +108,7 @@ Meanwhile, other states were desperate to have cinnamon for themselves. This was
 	title="[Might be cool to include a map here, of the Pizarro and Orellana expedition. There is reusable geodata avilable on http://sharemap.org/public/Francisco_de_Orellana_Amazon_River_voyage_(1541-1542)#!webgl]"
 	url="">
 
-The Spanish efforts to find cinnamon in the New World were not only intended to compete with the 'true' cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain's European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative shipping route, which would benefit Spain. Thus, [^ref21]
+The Spanish efforts to find cinnamon in the New World were not only intended to compete with the 'true' cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial successes of Spain's European rivals in the East Indies made the Cape of Good Hope the principal shipping route to get there. The promise of South American riches could transform Cape Horn into an attractive alternative route, which would benefit Spain. This was an important aim of men like Alonso de Ovalle, a Chilean Jesuit, to  [^ref21]
 	 - Spanish efforts to find cinnamon in the New World
 	 Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
 
@@ -207,7 +207,7 @@ In ieder geval toevoegen:
 
 [^ref21]: Catherine E. Burdick, "Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle's _Tabula Geographica Regni Chile_ (1646)", _Imago Mundi_, 66:2 (2014) 196-212.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4ODY2OTUzLC05Nzg4MTY0NjksLTk4MT
+eyJoaXN0b3J5IjpbMjM4NTkyMzQ4LC05Nzg4MTY0NjksLTk4MT
 IyNTQ0MiwtMTA3MDA3NTEyNCw0MjQ4NDUyMDYsNDA0ODAxMjAy
 LC03MDIwODcxNzMsLTc3NTY3NTk3NCwtOTY2NTAzMDA1LC03MD
 Q1MDM3MTUsLTcwODUwMzQ1OSwtNjc2OTIwNzMyLC0xNzQ4MDMy
