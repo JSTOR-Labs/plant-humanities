@@ -119,7 +119,7 @@ And Spain really needed cinnamon. One eighteenth-century report estimated that t
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-A third, and most daring strategy to get cinnamon, was to transplant the 'true' cinnamon to Spanish territories. This was an important objective of men like Casimiro Gómez Ortega, director of the Royal botanical Garden in Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published an 'Instruction on the Safest and Most Economical Means of Transporting Live Plants by Sea and by Land to the Most Distant Countries' in 1779. The document invited and instructed naturalists everywhere to contribute plants and plant knowledge for the Spanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis addressed the Spanish crown in the 1760s to support his plans for botanical expeditions in South America. New plant knowledge would greatly benefit the empire, and again cinnamon was explicitly mentioned.[^ref26] However, Spain never succeeded in growing 'true' cinnamon in South America, while the French (Guadeloupe, 1762) and the British (St. Vincent, 1768) did succeed.
+A third, and most daring strategy to get cinnamon, was to transplant the 'true' cinnamon to Spanish territories. This was an important objective of men like Casimiro Gómez Ortega, director of the Royal botanical Garden in Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada from 1783 onwards. Gómez Ortega published an 'Instruction on the Safest and Most Economical Means of Transporting Live Plants by Sea and by Land to the Most Distant Countries' in 1779. The document invited and instructed naturalists everywhere to contribute plants and plant knowledge for the Spanish empire. Cinnamon was explicitly mentioned as one of the target species. Similarly, Mutis addressed the Spanish crown in the 1760s to support his plans for botanical expeditions in South America. New plant knowledge would greatly benefit the empire, and again cinnamon was explicitly mentioned.[^ref26] However, Spain never succeeded in growing 'true' cinnamon in South America, while the French (Guadeloupe, 1762) and the British (St. Vincent, 1768) did succeed.[^ref27]
 
 Cinnamon in the Spanish (Atlantic) world
 	 - Chocolate drink in Spanish Atlantic world
@@ -211,12 +211,14 @@ In ieder geval toevoegen:
 [^ref25]: Bleichmar, _Visible Empire_, 123-126.
 
 [^ref26]: Bleichmar, _Visible Empire_, 26, 31.
+
+[^ref27]: Thomas J. Zumbroich, "The Introduction of Nutmeg (_Myristica fragrans_ Houtt.) and Cinnamon (_Cinnamomum verum_ J. Presl.) to America", _Acta Botánica Venezuélica_, 28:1 (2005) 155-160.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg4NzUxMTcsLTM1Mjc1ODg0MSw3NT
-Q2MjI0NTcsMTAzMDI2NzE4MCwtMTM3NjM3MzY0Miw1NjczNTM4
-MTIsMTg3NjMxNTg3NSwxNTc4MDQyNTYxLDIwMjE5NzcxNDIsLT
-EwODc1OTkwMzcsLTEzNjYxMTU2MDMsLTE3ODEzMjQwLC05Nzg4
-MTY0NjksLTk4MTIyNTQ0MiwtMTA3MDA3NTEyNCw0MjQ4NDUyMD
-YsNDA0ODAxMjAyLC03MDIwODcxNzMsLTc3NTY3NTk3NCwtOTY2
-NTAzMDA1XX0=
+eyJoaXN0b3J5IjpbNjQ0MDEyNzQ4LC0zNTI3NTg4NDEsNzU0Nj
+IyNDU3LDEwMzAyNjcxODAsLTEzNzYzNzM2NDIsNTY3MzUzODEy
+LDE4NzYzMTU4NzUsMTU3ODA0MjU2MSwyMDIxOTc3MTQyLC0xMD
+g3NTk5MDM3LC0xMzY2MTE1NjAzLC0xNzgxMzI0MCwtOTc4ODE2
+NDY5LC05ODEyMjU0NDIsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LD
+QwNDgwMTIwMiwtNzAyMDg3MTczLC03NzU2NzU5NzQsLTk2NjUw
+MzAwNV19
 -->
