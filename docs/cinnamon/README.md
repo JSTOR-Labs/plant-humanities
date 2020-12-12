@@ -118,7 +118,7 @@ And Spain really needed cinnamon. One eighteenth-century report estimated that t
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-A third, and most daring strategy to get cinnamon, was to transplant the 'true' cinnamon to Spanish territories. This was an important objective of men 
+A third, and most daring strategy to get cinnamon, was to transplant the 'true' cinnamon to Spanish territories. This was an important objective of men like Casimiro Gómez Ortega, director of the Royal botanical Garden in Madrid between 1771 and 1801, and 
 
 Cinnamon in the Spanish (Atlantic) world
 	 - Chocolate drink in Spanish Atlantic world
@@ -205,11 +205,11 @@ In ieder geval toevoegen:
 
 [^ref23]: Francisco Mallari, S.J.,, "The Mindanao Cinnamon", _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; Irene Fattacciu, "The Resilience and Boomerang Effect of Chocolate: A Product's Globalization and Commodification", in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273; and Russell K. Skowronek, "Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy", in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI4ODcxLC0xMDg3NTk5MDM3LC0xMz
-Y2MTE1NjAzLC0xNzgxMzI0MCwtOTc4ODE2NDY5LC05ODEyMjU0
-NDIsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LDQwNDgwMTIwMiwtNz
-AyMDg3MTczLC03NzU2NzU5NzQsLTk2NjUwMzAwNSwtNzA0NTAz
-NzE1LC03MDg1MDM0NTksLTY3NjkyMDczMiwtMTc0ODAzMjQ1MC
-wtMTg2NDgyNDIwMCwxMzMwOTAxODEyLDE4OTA5MDc4MDgsMTA3
-Njk2OTQ2OV19
+eyJoaXN0b3J5IjpbMjAyMTk3NzE0MiwtMTA4NzU5OTAzNywtMT
+M2NjExNTYwMywtMTc4MTMyNDAsLTk3ODgxNjQ2OSwtOTgxMjI1
+NDQyLC0xMDcwMDc1MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLT
+cwMjA4NzE3MywtNzc1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUw
+MzcxNSwtNzA4NTAzNDU5LC02NzY5MjA3MzIsLTE3NDgwMzI0NT
+AsLTE4NjQ4MjQyMDAsMTMzMDkwMTgxMiwxODkwOTA3ODA4LDEw
+NzY5Njk0NjldfQ==
 -->
