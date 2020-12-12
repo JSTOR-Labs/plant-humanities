@@ -103,14 +103,15 @@ _Cinnamomum verum_ J.Presl, from Paul Hermann's herbarium of plants from Sri Lan
 
 ### Cinnamon and the imagination of empire
 
-Meanwhile, other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – ultimately with no success – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World even went back as far as the early days of exploration: we already encountered Columbus's efforts to find cinnamon on his journeys. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river (1541-1542) was also intended to find the legendary 'Land of Cinnamon' (_País de la Canela_), which was associated with the land of gold, El Dorado. Their journey still inspired the French botanist Joseph de Jussieu to find the cinnamon lands of South America in the 1740s.[^ref20]
+Meanwhile, other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – ultimately with no success – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World even went back as far as the early days of exploration: we already mentioned Columbus's efforts to find cinnamon on his journeys. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river (1541-1542) was also intended to find the legendary 'Land of Cinnamon' (_País de la Canela_), which was associated with the land of gold, El Dorado. Their journey still inspired the French botanist Joseph de Jussieu to find the cinnamon lands of South America in the 1740s.[^ref20]
 <param ve-map
-	title="[Might be nice to include a map here, of the Pizarro and Orellana expedition. There is reusable geodata avilable on http://sharemap.org/public/Francisco_de_Orellana_Amazon_River_voyage_(1541-1542)#!webgl]"
+	title="[Might be cool to include a map here, of the Pizarro and Orellana expedition. There is reusable geodata avilable on http://sharemap.org/public/Francisco_de_Orellana_Amazon_River_voyage_(1541-1542)#!webgl]"
 	url="">
+
 
 	 - Spanish efforts to find cinnamon in the New World
 	 Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
-	 Delbourgo (J.) & Dew (N.) 2008a.pdf (art Safier over Pizzarro en Orellana, later Jussieu)
+
 	 Burdick (C.E.) 2014
 <param ve-image
 	title="bla bla bla"
@@ -204,11 +205,11 @@ In ieder geval toevoegen:
 
 [^ref20]: Neil Safier, "Fruitless Botany: Joseph de Jussieu's South American Odyssey", in: James Delbourgo and Nicholas Dew (eds.), _Science and Empire in the Atlantic World_ (New York: Routledge 2008) 203-224.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODgxNjQ2OSwtOTgxMjI1NDQyLC0xMD
-cwMDc1MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLTcwMjA4NzE3
-MywtNzc1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUwMzcxNSwtNz
-A4NTAzNDU5LC02NzY5MjA3MzIsLTE3NDgwMzI0NTAsLTE4NjQ4
-MjQyMDAsMTMzMDkwMTgxMiwxODkwOTA3ODA4LDEwNzY5Njk0Nj
-ksLTIwNjQwMjYxNTEsNDMxNDc2NjI4LDE0NTA4NzE5NTIsMTkz
-OTAwNDQ0MV19
+eyJoaXN0b3J5IjpbMjA3NDk2NTU2NCwtOTc4ODE2NDY5LC05OD
+EyMjU0NDIsLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LDQwNDgwMTIw
+MiwtNzAyMDg3MTczLC03NzU2NzU5NzQsLTk2NjUwMzAwNSwtNz
+A0NTAzNzE1LC03MDg1MDM0NTksLTY3NjkyMDczMiwtMTc0ODAz
+MjQ1MCwtMTg2NDgyNDIwMCwxMzMwOTAxODEyLDE4OTA5MDc4MD
+gsMTA3Njk2OTQ2OSwtMjA2NDAyNjE1MSw0MzE0NzY2MjgsMTQ1
+MDg3MTk1Ml19
 -->
