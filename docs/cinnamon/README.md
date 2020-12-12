@@ -118,8 +118,6 @@ And Spain really needed cinnamon. One eighteenth-century report estimated that t
 
 
 Cinnamon in the Spanish (Atlantic) world
-	 - Dutch exports of cinnamon to Spain and Spanish world
-	 Israel (J.I.) 1989
 	 - Chocolate drink in Spanish Atlantic world
 	 Aram (B.) & Yun-Casalilla (B.) 2014 (art Fattacciu)
 
@@ -205,11 +203,11 @@ In ieder geval toevoegen:
 
 [^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press 1989) 251-252. The estimate comes from Jacques Savary des Bruslons's, _Dictionnaire universel de commerce_ of 1723.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjgxMDgyMSwtMTM2NjExNTYwMywtMT
-c4MTMyNDAsLTk3ODgxNjQ2OSwtOTgxMjI1NDQyLC0xMDcwMDc1
-MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLTcwMjA4NzE3MywtNz
-c1Njc1OTc0LC05NjY1MDMwMDUsLTcwNDUwMzcxNSwtNzA4NTAz
-NDU5LC02NzY5MjA3MzIsLTE3NDgwMzI0NTAsLTE4NjQ4MjQyMD
-AsMTMzMDkwMTgxMiwxODkwOTA3ODA4LDEwNzY5Njk0NjksLTIw
-NjQwMjYxNTFdfQ==
+eyJoaXN0b3J5IjpbNDk0ODE3MzgzLC0xMzY2MTE1NjAzLC0xNz
+gxMzI0MCwtOTc4ODE2NDY5LC05ODEyMjU0NDIsLTEwNzAwNzUx
+MjQsNDI0ODQ1MjA2LDQwNDgwMTIwMiwtNzAyMDg3MTczLC03Nz
+U2NzU5NzQsLTk2NjUwMzAwNSwtNzA0NTAzNzE1LC03MDg1MDM0
+NTksLTY3NjkyMDczMiwtMTc0ODAzMjQ1MCwtMTg2NDgyNDIwMC
+wxMzMwOTAxODEyLDE4OTA5MDc4MDgsMTA3Njk2OTQ2OSwtMjA2
+NDAyNjE1MV19
 -->
