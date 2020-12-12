@@ -104,6 +104,11 @@ _Cinnamomum verum_ J.Presl, from Paul Hermann's herbarium of plants from Sri Lan
 ### Cinnamon and the imagination of empire
 
 Meanwhile, other states were desperate to have cinnamon for themselves. This was especially true for Spain and its empire. Spain tried – unsuccesfully – to acquire cinnamon trees itself, or at least to copy Dutch practices for exotic plants in its colonies.[^ref19]
+
+	 - Spanish efforts to find cinnamon in the New World
+	 Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
+	 Delbourgo (J.) & Dew (N.) 2008a.pdf (art Safier over Pizzarro en Orellana, later Jussieu)
+	 Burdick (C.E.) 2014
 <param ve-image
 	title="bla bla bla"
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
@@ -114,10 +119,7 @@ Cinnamon in the Spanish (Atlantic) world
 	 Israel (J.I.) 1989
 	 - Chocolate drink in Spanish Atlantic world
 	 Aram (B.) & Yun-Casalilla (B.) 2014 (art Fattacciu)
-	 - Spanish efforts to find cinnamon in the New World
-	 Batsaki (Y.), Cahalan (S.B.) & Tchikine (A.) 2016 (art Bleichmar over Ortega)
-	 Delbourgo (J.) & Dew (N.) 2008a.pdf (art Safier over Pizzarro en Orellana, later Jussieu)
-	 Burdick (C.E.) 2014
+
 	 - Publishing cinnamon knowledge (Hernández expedition)
 	 Freedberg (D.) 2002 (zou bruggetje kunnen zijn vanuit Orta)
 	 - Cinnamon production of the Philippines
@@ -194,11 +196,11 @@ In ieder geval toevoegen:
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0ODQ1MjA2LDQwNDgwMTIwMiwtNzAyMD
-g3MTczLC03NzU2NzU5NzQsLTk2NjUwMzAwNSwtNzA0NTAzNzE1
-LC03MDg1MDM0NTksLTY3NjkyMDczMiwtMTc0ODAzMjQ1MCwtMT
-g2NDgyNDIwMCwxMzMwOTAxODEyLDE4OTA5MDc4MDgsMTA3Njk2
-OTQ2OSwtMjA2NDAyNjE1MSw0MzE0NzY2MjgsMTQ1MDg3MTk1Mi
-wxOTM5MDA0NDQxLC0xMzk0NzIyNzUwLDIwOTk1NzM3ODUsMTU2
-ODY1OTU2NF19
+eyJoaXN0b3J5IjpbLTEwNzAwNzUxMjQsNDI0ODQ1MjA2LDQwND
+gwMTIwMiwtNzAyMDg3MTczLC03NzU2NzU5NzQsLTk2NjUwMzAw
+NSwtNzA0NTAzNzE1LC03MDg1MDM0NTksLTY3NjkyMDczMiwtMT
+c0ODAzMjQ1MCwtMTg2NDgyNDIwMCwxMzMwOTAxODEyLDE4OTA5
+MDc4MDgsMTA3Njk2OTQ2OSwtMjA2NDAyNjE1MSw0MzE0NzY2Mj
+gsMTQ1MDg3MTk1MiwxOTM5MDA0NDQxLC0xMzk0NzIyNzUwLDIw
+OTk1NzM3ODVdfQ==
 -->
