@@ -29,7 +29,7 @@ How could this confusion last so long? First, a possible explanation for the shi
 	url="https://www.archive.org/download/mobot31753000811387/page/n185_w1131"
 	region="246,1762,1391,985">
 
-A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue still exists today. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_ (a common historical name for _cassia_, generally believed to be _Cinnamomum cassia_ (L.) J.Presl), imported from China through Arabia and East Africa. Although this narrative is debatable, it is still less imaginative than the one proposed by J. Innes Miller (1969). Miller claimed there had been an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this fantastic concept is now rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
+A second, and much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue still exists today. This is a striking case of forgotten knowledge in modern science. In the nineteenth century, Flückiger and Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in Antiquity did not come from Sri Lanka. It only became a noticeable export item there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, it must have been _cassia lignea_ (a common historical name for _cassia_, generally believed to be _Cinnamomum cassia_ (L.) J.Presl), imported from China through Arabia and East Africa. Although this narrative is debatable, it is still less fantastic than the one proposed by J. Innes Miller (1969). Miller claimed there had been an interoceanic Spice Route in Antiquity, spanning all corners of the Indian Ocean world. Although this concept is now rejected by historians, Sri Lanka still features in many accounts of cinnamon in Antiquity.[^ref5]
 <param ve-image
 	title="The proposed Spice Route of Antiquity, by J. Innes Miller. [Note: This is just a screenshot from Riddle's book. I'm not sure if I want to use this image, and if so, I should reproduce it as a proper ve-map tag, which seems like it would be a lot of work.]"
 	attribution="Taken from John M. Riddle, _Dioscorides on Pharmacy and Medicine_. Forew. by John Scarborough (Austin: University of Texas Press 1985) 99."
@@ -200,11 +200,11 @@ In ieder geval toevoegen:
 
 [^ref19]: Daniela Bleichmar, "Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment", in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODUwMzQ1OSwtNjc2OTIwNzMyLC0xNz
-Q4MDMyNDUwLC0xODY0ODI0MjAwLDEzMzA5MDE4MTIsMTg5MDkw
-NzgwOCwxMDc2OTY5NDY5LC0yMDY0MDI2MTUxLDQzMTQ3NjYyOC
-wxNDUwODcxOTUyLDE5MzkwMDQ0NDEsLTEzOTQ3MjI3NTAsMjA5
-OTU3Mzc4NSwxNTY4NjU5NTY0LC0yMTA0MzYwNTQwLDgwNjkwMD
-k1LC0xNDUyMzQwMTc3LDgwNTI4MDk5NSwtMTAyOTkxODg0NCwx
-MDY0Mjk0NzhdfQ==
+eyJoaXN0b3J5IjpbLTcwNDUwMzcxNSwtNzA4NTAzNDU5LC02Nz
+Y5MjA3MzIsLTE3NDgwMzI0NTAsLTE4NjQ4MjQyMDAsMTMzMDkw
+MTgxMiwxODkwOTA3ODA4LDEwNzY5Njk0NjksLTIwNjQwMjYxNT
+EsNDMxNDc2NjI4LDE0NTA4NzE5NTIsMTkzOTAwNDQ0MSwtMTM5
+NDcyMjc1MCwyMDk5NTczNzg1LDE1Njg2NTk1NjQsLTIxMDQzNj
+A1NDAsODA2OTAwOTUsLTE0NTIzNDAxNzcsODA1MjgwOTk1LC0x
+MDI5OTE4ODQ0XX0=
 -->
