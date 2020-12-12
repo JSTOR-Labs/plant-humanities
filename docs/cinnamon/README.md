@@ -124,7 +124,7 @@ A third, and most daring strategy to get cinnamon, was to transplant the 'true' 
 	title="[No visualization here yet.]"
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 
-Nowadays, Sri Lanka is again the world's largest exporter of 'true' cinnamon, derived from Cinnamomum verumn
+Nowadays, Sri Lanka is again the world's largest exporter of 'true' cinnamon, although _Cinnamomum verum_ J. Presl. 
 
 Efforts of transplantation and acclimatization
 	 - Cinnamon in Rio de Janeiro botanical garden (google die even)
@@ -207,11 +207,11 @@ Future of cinnamon
 
 [^ref27]: Thomas J. Zumbroich, "The Introduction of Nutmeg (_Myristica fragrans_ Houtt.) and Cinnamon (_Cinnamomum verum_ J. Presl.) to America", _Acta Botánica Venezuélica_, 28:1 (2005) 155-160.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjY0Njk4NiwtMTIxNDMzMzU4Myw2ND
-QwMTI3NDgsLTM1Mjc1ODg0MSw3NTQ2MjI0NTcsMTAzMDI2NzE4
-MCwtMTM3NjM3MzY0Miw1NjczNTM4MTIsMTg3NjMxNTg3NSwxNT
-c4MDQyNTYxLDIwMjE5NzcxNDIsLTEwODc1OTkwMzcsLTEzNjYx
-MTU2MDMsLTE3ODEzMjQwLC05Nzg4MTY0NjksLTk4MTIyNTQ0Mi
-wtMTA3MDA3NTEyNCw0MjQ4NDUyMDYsNDA0ODAxMjAyLC03MDIw
-ODcxNzNdfQ==
+eyJoaXN0b3J5IjpbNTQxMTAwMTQxLC0xMjE0MzMzNTgzLDY0ND
+AxMjc0OCwtMzUyNzU4ODQxLDc1NDYyMjQ1NywxMDMwMjY3MTgw
+LC0xMzc2MzczNjQyLDU2NzM1MzgxMiwxODc2MzE1ODc1LDE1Nz
+gwNDI1NjEsMjAyMTk3NzE0MiwtMTA4NzU5OTAzNywtMTM2NjEx
+NTYwMywtMTc4MTMyNDAsLTk3ODgxNjQ2OSwtOTgxMjI1NDQyLC
+0xMDcwMDc1MTI0LDQyNDg0NTIwNiw0MDQ4MDEyMDIsLTcwMjA4
+NzE3M119
 -->
