@@ -15,7 +15,7 @@ In 2012-2013, the 'cinnamon challenge' was a short-lived internet hype. Although
 	title="Mythbusters Cinnamon Challenge.">
 	
 ### Forgotten knowledge and fabricated history
-Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl) growing on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: it is mostly about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same plants as those found in the East Indies in the sixteenth century. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
+Cinnamon had a long history before any European ever saw 'true' cinnamon (_Cinnamomum verum_ J.Presl), whi growing on Sri Lanka. Here immediately lies the key to understanding the history of cinnamon: it is mostly about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial observation, because a lot of confusion about cinnamon emanates from the incorrect equation of _names_ with _plants_. To be more precise: in the Latin west it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same plants as those found in the East Indies in the sixteenth century. A recent revision of archaeological, historical, linguistic and botanical evidence, however, has suggested that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
 <param ve-image
 	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides's _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b. [Note: I downloaded this image from HOLLIS Images. The image has a manifest but it is no reusable, as it requires a login to access.]"
 	url="18040817.jpg">
@@ -188,11 +188,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwNzc5MjQyLC0xNDU4NDMxNzI2LC04ND
-AyNjYyNzAsLTEyMTQzMzM1ODMsNjQ0MDEyNzQ4LC0zNTI3NTg4
-NDEsNzU0NjIyNDU3LDEwMzAyNjcxODAsLTEzNzYzNzM2NDIsNT
-Y3MzUzODEyLDE4NzYzMTU4NzUsMTU3ODA0MjU2MSwyMDIxOTc3
-MTQyLC0xMDg3NTk5MDM3LC0xMzY2MTE1NjAzLC0xNzgxMzI0MC
-wtOTc4ODE2NDY5LC05ODEyMjU0NDIsLTEwNzAwNzUxMjQsNDI0
-ODQ1MjA2XX0=
+eyJoaXN0b3J5IjpbLTEwMjQ4Mjk5NCw1NjA3NzkyNDIsLTE0NT
+g0MzE3MjYsLTg0MDI2NjI3MCwtMTIxNDMzMzU4Myw2NDQwMTI3
+NDgsLTM1Mjc1ODg0MSw3NTQ2MjI0NTcsMTAzMDI2NzE4MCwtMT
+M3NjM3MzY0Miw1NjczNTM4MTIsMTg3NjMxNTg3NSwxNTc4MDQy
+NTYxLDIwMjE5NzcxNDIsLTEwODc1OTkwMzcsLTEzNjYxMTU2MD
+MsLTE3ODEzMjQwLC05Nzg4MTY0NjksLTk4MTIyNTQ0MiwtMTA3
+MDA3NTEyNF19
 -->
