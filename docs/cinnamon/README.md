@@ -42,7 +42,7 @@ The attraction of cinnamon – 'true' or other – as a means to enhance the pow
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1414,152,1586,1031">
 
-The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon bark with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees, which he believed should grow there. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano (1486/1487-1526), who completed Magellan's circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies.[^ref6]
+The quest for spices, cinnamon among them, was one of the most important aims that inspired Europeans of the fifteenth and sixteenth centuries to sail the oceans. With success, as many explorers claimed. Columbus brought samples of cinnamon bark with him on his first journey to the New World, to help native inhabitants guide him to cinnamon trees, which he believed should grow there. He sent samples of a kind of 'white cinnamon' (probably _Canella winterana_ (L.) Gaertn.) back to Spain from his second journey. Similarly, Juan Sebastián Elcano, who completed Magellan's circumnavigation of the world after the commander himself had been killed on the Philippines, petitioned succesfully to have cinnamon sticks, cloves and nutmeg depicted on his coat of arms, to commemorate his role in opening up the spice route to the East Indies.[^ref6]
 <param ve-image
 	title="Coat of arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner covering the globe reads in Latin 'Primus circumdedisti me' ('You first encircled me')."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
@@ -188,11 +188,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTkwMjM4MDksNTYwNzc5MjQyLC0xND
-U4NDMxNzI2LC04NDAyNjYyNzAsLTEyMTQzMzM1ODMsNjQ0MDEy
-NzQ4LC0zNTI3NTg4NDEsNzU0NjIyNDU3LDEwMzAyNjcxODAsLT
-EzNzYzNzM2NDIsNTY3MzUzODEyLDE4NzYzMTU4NzUsMTU3ODA0
-MjU2MSwyMDIxOTc3MTQyLC0xMDg3NTk5MDM3LC0xMzY2MTE1Nj
-AzLC0xNzgxMzI0MCwtOTc4ODE2NDY5LC05ODEyMjU0NDIsLTEw
-NzAwNzUxMjRdfQ==
+eyJoaXN0b3J5IjpbLTE3MTk3NDAyNzcsLTEzMTkwMjM4MDksNT
+YwNzc5MjQyLC0xNDU4NDMxNzI2LC04NDAyNjYyNzAsLTEyMTQz
+MzM1ODMsNjQ0MDEyNzQ4LC0zNTI3NTg4NDEsNzU0NjIyNDU3LD
+EwMzAyNjcxODAsLTEzNzYzNzM2NDIsNTY3MzUzODEyLDE4NzYz
+MTU4NzUsMTU3ODA0MjU2MSwyMDIxOTc3MTQyLC0xMDg3NTk5MD
+M3LC0xMzY2MTE1NjAzLC0xNzgxMzI0MCwtOTc4ODE2NDY5LC05
+ODEyMjU0NDJdfQ==
 -->
