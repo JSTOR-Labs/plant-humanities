@@ -48,7 +48,7 @@ The quest for spices, cinnamon among them, was one of the most important aims th
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	fit="contain">
 
-Once 'true' cinnamon had begun to be associated only with cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to get access to the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, they engaged in 'reluctant imperialism' to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
+Once 'true' cinnamon had begun to be understood as cinnamon from Sri Lanka, European states strove to gain a foothold on the island, to get access to the cinnamon trade. From the sixteenth century onwards, local rulers bargained with the Portugese, and later the Dutch, for a share in the cinnamon trade, in exchange for political and/or military assistance against their rivals. The Portuguese made humble attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics on the island. Therefore, they engaged in 'reluctant imperialism' to get access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
 <param ve-map
 	title="Sri Lanka in the sixteenth century (after 1521). [Note: I have to create a ve-map tag based on a map in Wagenaar, p. 32, and a map from Wikimedia Commons (https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Lanka_geopolitics_-_after_%22Spoiling_of_Vijayabahu%22.png).]"
 	center="7.792820, 80.750146"
@@ -188,11 +188,11 @@ Nowadays, Sri Lanka ranks high again among [the world's largest exporters of cin
 
 [^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, "Pharmacology and Toxicology of Cinnamon and Cassia", in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., "Medicinal Properties of 'True' Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review", _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, "Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data", _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTk3NDAyNzcsLTEzMTkwMjM4MDksNT
-YwNzc5MjQyLC0xNDU4NDMxNzI2LC04NDAyNjYyNzAsLTEyMTQz
-MzM1ODMsNjQ0MDEyNzQ4LC0zNTI3NTg4NDEsNzU0NjIyNDU3LD
-EwMzAyNjcxODAsLTEzNzYzNzM2NDIsNTY3MzUzODEyLDE4NzYz
-MTU4NzUsMTU3ODA0MjU2MSwyMDIxOTc3MTQyLC0xMDg3NTk5MD
-M3LC0xMzY2MTE1NjAzLC0xNzgxMzI0MCwtOTc4ODE2NDY5LC05
-ODEyMjU0NDJdfQ==
+eyJoaXN0b3J5IjpbMTM0NDE2NTA2NiwtMTMxOTAyMzgwOSw1Nj
+A3NzkyNDIsLTE0NTg0MzE3MjYsLTg0MDI2NjI3MCwtMTIxNDMz
+MzU4Myw2NDQwMTI3NDgsLTM1Mjc1ODg0MSw3NTQ2MjI0NTcsMT
+AzMDI2NzE4MCwtMTM3NjM3MzY0Miw1NjczNTM4MTIsMTg3NjMx
+NTg3NSwxNTc4MDQyNTYxLDIwMjE5NzcxNDIsLTEwODc1OTkwMz
+csLTEzNjYxMTU2MDMsLTE3ODEzMjQwLC05Nzg4MTY0NjksLTk4
+MTIyNTQ0Ml19
 -->
