@@ -2,6 +2,9 @@
     "title": "Explore the cultural history of plants and their influence on human societies.",
     "banner": "/images/header.jpg",
     "bannerHeight": 400,
+    "acct": "JSTOR-Labs",
+    "repo": "plant-humanities",
+    "ref": "reorganized",
     "mdRoot": "/docs",
     "components": [
         {"name": "indexHeader", "src": "/components/IndexHeader.vue"},
