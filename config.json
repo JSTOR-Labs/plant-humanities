@@ -7,7 +7,7 @@
     "ref": "reorganized",
     "mdRoot": "/docs",
     "components": [
-        {"name": "indexHeader", "type": "header", "src": "/components/IndexHeader.vue"},
+        {"name": "indexHeader", "type": "header", "layouts": ["index"], "src": "/components/IndexHeader.vue"},
         {"name": "siteFooter", "src": "/components/Footer.vue"}
     ],
     "nav": [
