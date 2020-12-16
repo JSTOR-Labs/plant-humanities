@@ -2,15 +2,14 @@
     "title": "Explore the cultural history of plants and their influence on human societies.",
     "banner": "/images/header.jpg",
     "bannerHeight": 400,
-    "mdRoot": "/docs",
+    "acct": "JSTOR-Labs",
+    "repo": "plant-humanities",
+    "ref": "main",
     "components": [
-        {"name": "indexHeader", "src": "/components/IndexHeader.vue"},
+        {"name": "indexHeader", "type": "header", "src": "https://raw.githubusercontent.com/jstor-labs/visual-essays/main/app/client-lib/components/PlantsIndexHeader.vue"},
         {"name": "siteFooter", "src": "/components/Footer.vue"}
     ],
     "nav": [
-        {"label": "Home", "icon": "home-alt", "path": "/"},
-        {"label": "About", "icon": "info", "path": "/about"},
-        {"label": "Help", "icon": "question", "path": "/help"},
-        {"label": "Login", "icon": "user"}
+        {"label": "About", "icon": "info", "path": "/about"}
     ]
 }
