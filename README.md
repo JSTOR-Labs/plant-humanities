@@ -1,4 +1,4 @@
-<param ve-config title="Plant Humanities" layout="index" header="plants">
+<param ve-config title="Plant Humanities" layout="index" header="plants-index">
 
 #
 
