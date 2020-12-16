@@ -4,8 +4,7 @@
     "bannerHeight": 400,
     "acct": "JSTOR-Labs",
     "repo": "plant-humanities",
-    "ref": "develop",
-    "mdRoot": "/docs",
+    "ref": "main",
     "components": [
         {"name": "indexHeader", "type": "header", "src": "https://raw.githubusercontent.com/jstor-labs/visual-essays/main/app/client-lib/components/PlantsIndexHeader.vue"},
         {"name": "siteFooter", "src": "/components/Footer.vue"}
