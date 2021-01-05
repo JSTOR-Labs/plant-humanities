@@ -143,7 +143,6 @@ In the eighteenth and early nineteenth centuries, botanical illustrators develop
 Henderson's botanical illustration highlights a trait of sunflowers that we may overlook due to our casual familiarity with the plant. Its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, _Compositae_ (_Asteraceae_), produces a special kind of inflorescence that is a composite of many tiny flowers known as florets.[^ref20] This diagram of a mature flower head shows that what we generally call “petals” are actually ray florets; they are sterile and serve to attract pollinators to disk florets. The disk florets, which number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own fruit after pollination. Perceiving such floral traits and examining their functions requires a process of direct observation and visual analysis that is practiced by scientists and artists alike.
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="_Helianthus_ whirl, L. Shyamal, Wikimedia Commons">
-<param ve-graphic img="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg" title="Sunflower Model">
 
 <param ve-entity eid="Q5928444" title="Robert John Thornton">
 <param ve-entity eid="Q103129" title="stamen" aliases="stamen(s)"> 
@@ -241,11 +240,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzI0MjcxNiwtMjAxODIxNzkzOCwtMj
-AwMDg5MDU3MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMTkyMjg2
-MjIxNiwtMTIzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4MzQsLT
-Q5MjIyNDk1OCwxNzYxOTU4NDA3LDI3NzAyNTc1NSwxMTE5MzQy
-NzQ1LC0xMjM0MTIyNjE4LC0xNzQ3MDYwMjgzLC0xODQ0MDc5MT
-MzLC03NTA2MjUxMzQsLTEzNTgzOTY5NjgsODU2OTM4MjkyLDEw
-Njg0MjM4MTZdfQ==
+eyJoaXN0b3J5IjpbLTE0MDE5NTcwNTIsLTk3NzI0MjcxNiwtMj
+AxODIxNzkzOCwtMjAwMDg5MDU3MywtOTI4NTk5NTk0LDg2OTIx
+NDY5MiwtMTkyMjg2MjIxNiwtMTIzOTc4MjQ4LDUxMzExNjgzNC
+w1MTMxMTY4MzQsLTQ5MjIyNDk1OCwxNzYxOTU4NDA3LDI3NzAy
+NTc1NSwxMTE5MzQyNzQ1LC0xMjM0MTIyNjE4LC0xNzQ3MDYwMj
+gzLC0xODQ0MDc5MTMzLC03NTA2MjUxMzQsLTEzNTgzOTY5Njgs
+ODU2OTM4MjkyXX0=
 -->
