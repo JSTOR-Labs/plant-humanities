@@ -215,7 +215,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref12]: Adriaen Collaert, designer and printmaker, _Florilegium_, 1570 to before 1618, published by Theodoor Galle and Philips Galle, possibly Netherlands, engraving, 178 x 126 mm, Rijksmuseum, [http://hdl.handle.net/10934/RM0001.COLLECT.432189](http://hdl.handle.net/10934/RM0001.COLLECT.432189); Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_  (Lyon: Aux despens de Iean Pillehotte..., 1619), accessed January 6, 2021, [https://www.biodiversitylibrary.org/page/7815694](https://www.biodiversitylibrary.org/page/7815694).
 
-[^ref8]: Heiser, Jr., “The Domesticated Sunflower in Mexico?,” 449.
+[^ref13]: Heiser, Jr., "The Domesticated Sunflower in Mexico?," 449.
 
 [^ref9]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” 57-74.
 
@@ -250,11 +250,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MDQ4MCwtOTc3MjQyNzE2LC05NzcyND
-I3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkzOCwtMjAwMDg5MDU3
-MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMTkyMjg2MjIxNiwtMT
-IzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4MzQsLTQ5MjIyNDk1
-OCwxNzYxOTU4NDA3LDI3NzAyNTc1NSwxMTE5MzQyNzQ1LC0xMj
-M0MTIyNjE4LC0xNzQ3MDYwMjgzLC0xODQ0MDc5MTMzLC03NTA2
-MjUxMzRdfQ==
+eyJoaXN0b3J5IjpbODEzMDM1MzE3LC05NzcyNDI3MTYsLTk3Nz
+I0MjcxNiwtOTc3MjQyNzE2LC0yMDE4MjE3OTM4LC0yMDAwODkw
+NTczLC05Mjg1OTk1OTQsODY5MjE0NjkyLC0xOTIyODYyMjE2LC
+0xMjM5NzgyNDgsNTEzMTE2ODM0LDUxMzExNjgzNCwtNDkyMjI0
+OTU4LDE3NjE5NTg0MDcsMjc3MDI1NzU1LDExMTkzNDI3NDUsLT
+EyMzQxMjI2MTgsLTE3NDcwNjAyODMsLTE4NDQwNzkxMzMsLTc1
+MDYyNTEzNF19
 -->
