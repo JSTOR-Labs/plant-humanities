@@ -62,8 +62,7 @@ Once introduced to Spain, the domesticated sunflower quickly migrated to parts o
 <param ve-entity eid="Q5189819" title="cruciform">
 <param ve-entity eid="Q462437" title="composition">
 <param ve-entity eid="Q63540903" title="focal point">
-The advent of the florilegium in the 1610s was integral to the blossoming of sunflower aesthetics as is evidenced in the sumptuous prints contained in [_Hortus Eystettensis_](https://bibdigital.rjb.csic.es/idurl/1/10908).[^ref6] The 1613 book was commissioned from Basilius Besler by the Prince Bishop of Eichstätt, who wished to document rare and foreign flora then growing in his garden. As part of the project, Besler oversaw the production of this hand-colored [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of a domesticated sunflower shown life-sized. The image’s impact derives not only from its impressive dimensions but also from its bold cruciform composition, both of which imbue the full flower head and stem with a sense of power and religious reverence for nature. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value, unlike most illustrations then found in herbals. For that reason, Besler’s _Flos Solis maior_ became an influential model for visualizing _H. annuus_ 
-that anticipated modern visual stereotypes for the plant, perhaps best epitomized by this tiny [sunflower emoji](https://openmoji.org/library/#search=sunflower).
+The advent of the florilegium in the 1610s was integral to the blossoming of sunflower aesthetics as is evidenced in the sumptuous prints contained in[_Hortus Eystettensis_](https://bibdigital.rjb.csic.es/idurl/1/10908).[^ref9] The 1613 book was commissioned from Basilius Besler by the Prince Bishop of Eichstätt, who wished to document rare and foreign flora then growing in his garden. As part of the project, Besler oversaw the production of this hand-colored [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of a domesticated sunflower shown life-sized. The image’s impact derives not only from its impressive dimensions but also from its bold cruciform composition, both of which imbue the full flower head and stem with a sense of power and religious reverence for nature. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value, unlike most economical illustrations then found in herbals. For that reason, Besler’s _Flos Solis maior_ ("large flower of the sun”) became an influential model for visualizing _H. annuus_ that anticipated modern visual stereotypes for the plant, perhaps best epitomized by this tiny [sunflower emoji](https://openmoji.org/library/#search=sunflower).
 
 ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
 
@@ -247,11 +246,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzU3MzQxMSwtOTc3MjQyNzE2LC05Nz
-cyNDI3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkzOCwtMjAwMDg5
-MDU3MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMTkyMjg2MjIxNi
-wtMTIzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4MzQsLTQ5MjIy
-NDk1OCwxNzYxOTU4NDA3LDI3NzAyNTc1NSwxMTE5MzQyNzQ1LC
-0xMjM0MTIyNjE4LC0xNzQ3MDYwMjgzLC0xODQ0MDc5MTMzLC03
-NTA2MjUxMzRdfQ==
+eyJoaXN0b3J5IjpbLTExMzI1NzM5MjgsLTk3NzI0MjcxNiwtOT
+c3MjQyNzE2LC05NzcyNDI3MTYsLTIwMTgyMTc5MzgsLTIwMDA4
+OTA1NzMsLTkyODU5OTU5NCw4NjkyMTQ2OTIsLTE5MjI4NjIyMT
+YsLTEyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2ODM0LC00OTIy
+MjQ5NTgsMTc2MTk1ODQwNywyNzcwMjU3NTUsMTExOTM0Mjc0NS
+wtMTIzNDEyMjYxOCwtMTc0NzA2MDI4MywtMTg0NDA3OTEzMywt
+NzUwNjI1MTM0XX0=
 -->
