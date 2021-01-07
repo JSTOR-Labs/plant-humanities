@@ -19,7 +19,7 @@ _Helianthus annuus_ (common sunflower) is an annual herb that includes wild, wee
 
 <param ve-entity eid="Q995745" title="artificial selection" aliases="artificially selected">
 <param ve-entity eid="Q3796486" title="botanical illustration">
-Yet, as this botanical illustration reminds us, domesticated _Helianthus annuus_ also has an imposing presence in the visual arts. Like the supersized flower in this plant portrait, the sunflower looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. The proliferation of the flower in European art since the later sixteenth century is due partly to the aesthetic appeal of traits artificially selected to increase seed production, a single flower head with a large disk, and partly to the timing of its introduction to Europe just prior to the blossoming of a new genre of botanical treatise, called the [florilegium](https://wordsmith.org/words/florilegium.html) ("collection of flowers"), in the 1610s.
+While the domesticated sunflower is an imposing presence in nature, its aesthetic portrayals also hold powerful and enduring visual appeal. Like the supersized flower in this botanical illustration, cultivated _Helianthus annuus_ looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with actual sunflowers. The proliferation of the flower in European art since the late sixteenth century was due partly to the aesthetic appeal of traits artificially selected to increase seed production, a single composite flower head with a large disk, and partly to the timing of its introduction to Europe just prior to the blossoming of a new genre of botanical treatise, called the [florilegium](https://wordsmith.org/words/florilegium.html) ("collection of flowers"), in the early 1600s. The transplanting of the flower and the cultural excitement surrounding its foreign provenance were also fueled by the European exploration and colonization of North America prior to and during this period.
 <param ve-image fit="contain" url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
 
 <param ve-entity eid="Q861716" title="visual culture">
@@ -243,11 +243,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTk5MzcyNywtOTc3MjQyNzE2LC05Nz
-cyNDI3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkzOCwtMjAwMDg5
-MDU3MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMTkyMjg2MjIxNi
-wtMTIzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4MzQsLTQ5MjIy
-NDk1OCwxNzYxOTU4NDA3LDI3NzAyNTc1NSwxMTE5MzQyNzQ1LC
-0xMjM0MTIyNjE4LC0xNzQ3MDYwMjgzLC0xODQ0MDc5MTMzLC03
-NTA2MjUxMzRdfQ==
+eyJoaXN0b3J5IjpbNjIwODk4MzY4LC05NzcyNDI3MTYsLTk3Nz
+I0MjcxNiwtOTc3MjQyNzE2LC0yMDE4MjE3OTM4LC0yMDAwODkw
+NTczLC05Mjg1OTk1OTQsODY5MjE0NjkyLC0xOTIyODYyMjE2LC
+0xMjM5NzgyNDgsNTEzMTE2ODM0LDUxMzExNjgzNCwtNDkyMjI0
+OTU4LDE3NjE5NTg0MDcsMjc3MDI1NzU1LDExMTkzNDI3NDUsLT
+EyMzQxMjI2MTgsLTE3NDcwNjAyODMsLTE4NDQwNzkxMzMsLTc1
+MDYyNTEzNF19
 -->
