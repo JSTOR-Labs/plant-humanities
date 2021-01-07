@@ -204,7 +204,9 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref6]: Charles B. Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," _Genetic Resources and Crop Evolution_ 55, no. 1 (2008): 9-13.
 
-[^ref5]: F. de Nave and D. Imhof, eds., _Botany in the Low Countries: (end of the 15th centry, ca. 1650) Plantin-Moretus Museum Exhibition_ (Antwerp: City of Antwerp, the Plantin-Moretus Museum and the Stedelijk Prentenkabinet (Municipal Printroom), 1993).
+[^ref7]: F. de Nave and D. Imhof, eds., _Botany in the Low Countries: (end of the 15th centry, ca. 1650) Plantin-Moretus Museum Exhibition_ (Antwerp: City of Antwerp, the Plantin-Moretus Museum and the Stedelijk Prentenkabinet (Municipal Printroom), 1993).
+
+[^ref8]: Pietro Andrea Mattioli, _I discorsi di M. Pietro Andrea Matthioli ... nelli sei libri di Pedacio Dioscoride Anazarbeo della materia medicinale: hora di nuouo dal suo istesso autore ricorretti, & in più di mille luoghi aumen..._ (Venice: Appresso Vincenzo ValgrisI, MDLXVIII [1568]), accessed January 6, 2021, [https://www.biodiversitylibrary.org/page/51721079](https://www.biodiversitylibrary.org/page/51721079); Rembert Dodoens, _Florum, et coronariarum odoratarumque nonnullarum herbarum historia, Remberto Dodonae ... auctore_ (Antwerp: ex officina Christophori Plantini, 1569), accessed January 6, 2021, [https://archive.org/details/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/page/n3/mode/2up](https://archive.org/details/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/page/n3/mode/2up).
 
 [^ref6]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 
@@ -245,11 +247,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTEwNjA0NTMsLTk3NzI0MjcxNiwtOT
-c3MjQyNzE2LC05NzcyNDI3MTYsLTIwMTgyMTc5MzgsLTIwMDA4
-OTA1NzMsLTkyODU5OTU5NCw4NjkyMTQ2OTIsLTE5MjI4NjIyMT
-YsLTEyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2ODM0LC00OTIy
-MjQ5NTgsMTc2MTk1ODQwNywyNzcwMjU3NTUsMTExOTM0Mjc0NS
-wtMTIzNDEyMjYxOCwtMTc0NzA2MDI4MywtMTg0NDA3OTEzMywt
-NzUwNjI1MTM0XX0=
+eyJoaXN0b3J5IjpbMTQ1MTMxMzQ1MiwtOTc3MjQyNzE2LC05Nz
+cyNDI3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkzOCwtMjAwMDg5
+MDU3MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMTkyMjg2MjIxNi
+wtMTIzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4MzQsLTQ5MjIy
+NDk1OCwxNzYxOTU4NDA3LDI3NzAyNTc1NSwxMTE5MzQyNzQ1LC
+0xMjM0MTIyNjE4LC0xNzQ3MDYwMjgzLC0xODQ0MDc5MTMzLC03
+NTA2MjUxMzRdfQ==
 -->
