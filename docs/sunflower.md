@@ -209,6 +209,8 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref9]: Basilius Besler, _Hortus Eystettensis sive diligens et accurata omnium plantarum, florum, stirpium ex variis orbis terrae partibus singulari studio collectarum, quae in celeberrimis viridiariis arcem episcopalem ibidem cingentibus hoc tempore conspiciuntur, delineatio et ad vivum repraesentatio_, Vol. 2 ([Nuremberg]: [s.n.], 1613), accessed January 6, 2021, [https://bibdigital.rjb.csic.es/idurl/1/10913](https://bibdigital.rjb.csic.es/idurl/1/10913); Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, "A Garden at Eichstätt," in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 
+[^ref10]: Francisco Hernández, _Nova plantarum, animalium et mineralium Mexicanorum historia_ (Rome MDCLI: Sumptibus Blasij Deuersini, & Zanobij Masotti bibliopolarum, typis Vitalis Mascardi, [1651]), accessed January 6, 2021, [https://www.biodiversitylibrary.org/page/54114015](https://www.biodiversitylibrary.org/page/54114015).
+
 [^ref7]: Ray Desmond, “The Discovery of the New World,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 24-27.
 
 [^ref8]: Heiser, Jr., “The Domesticated Sunflower in Mexico?,” 449.
@@ -246,11 +248,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDA2MDE0MCwtOTc3MjQyNzE2LC05Nz
-cyNDI3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkzOCwtMjAwMDg5
-MDU3MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMTkyMjg2MjIxNi
-wtMTIzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4MzQsLTQ5MjIy
-NDk1OCwxNzYxOTU4NDA3LDI3NzAyNTc1NSwxMTE5MzQyNzQ1LC
-0xMjM0MTIyNjE4LC0xNzQ3MDYwMjgzLC0xODQ0MDc5MTMzLC03
-NTA2MjUxMzRdfQ==
+eyJoaXN0b3J5IjpbMTc4NjAxOTQzLC05NzcyNDI3MTYsLTk3Nz
+I0MjcxNiwtOTc3MjQyNzE2LC0yMDE4MjE3OTM4LC0yMDAwODkw
+NTczLC05Mjg1OTk1OTQsODY5MjE0NjkyLC0xOTIyODYyMjE2LC
+0xMjM5NzgyNDgsNTEzMTE2ODM0LDUxMzExNjgzNCwtNDkyMjI0
+OTU4LDE3NjE5NTg0MDcsMjc3MDI1NzU1LDExMTkzNDI3NDUsLT
+EyMzQxMjI2MTgsLTE3NDcwNjAyODMsLTE4NDQwNzkxMzMsLTc1
+MDYyNTEzNF19
 -->
