@@ -192,8 +192,6 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms during the summer months. At this stage of growth, the mature flower faces east, and its warmth and radiant yellow ray florets together attract insect pollinators. Once pollinated and fertilized, the plant develops seeds that slowly ripen. They are ready for harvesting when the flower head sheds its petals, droops, and turns yellow and then brown. That final stage of the annual's lifecycle is poignantly evoked in Vincent van Gogh's 1887 painting _Sunflowers_. The left and center sections of the picture show a dried flower head with exposed kernels. Its dark-brown, rust-orange, and aqua disk nestles against the desiccated yellow husk of a second once-vibrant flower. The plant portrait radically departs from the visual conventions for representing the domesticated sunflower at the height of its beauty, as a mature golden flower poised atop a thick vertical stem adorned with robust leaves. Conversely, Van Gogh defamiliarizes the left plant by portraying it with a few wilted rays, lying flat and inert. That withered floral imagery unsettles our tendency to appreciate the sunflower primarily for its beauty or utility, while also challenging a deeply held assumption that such natural resources are infinitely replenishable. In all of these ways, Van Gogh's [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori) invites us to bring greater attentiveness, care, and gratitude to our relationships with all plants, though none more so than the glorious sunflower.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
-![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .left}
-
 ### References
 [^ref1]: Charles B. Heiser, Jr., "The Origin and Development of the Cultivated Sunflower," _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706).
 
@@ -260,11 +258,11 @@ Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms du
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjM4NTA5NiwtMTQ1NzAzOTQ5OSwxNz
-U1NzIyMjY1LC05MTk4NjA5MTYsMTE3NjA2NDYyMSwyMDg5MDM4
-OTY2LDE5NzI5ODI4MDksMTQ1MTk4NzY1NSw1OTUzMzgyNjgsMj
-EwNzUyNTc0LDIxMDc1MjU3NCwyMTA3NTI1NzQsNjc3NDM2NDkw
-LC0xMTk4OTc0NDE4LDgxMzAzNTMxNywtOTc3MjQyNzE2LC05Nz
-cyNDI3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkzOCwtMjAwMDg5
-MDU3M119
+eyJoaXN0b3J5IjpbMTU0NTU1MTk3NSwxMTE2Mzg1MDk2LC0xND
+U3MDM5NDk5LDE3NTU3MjIyNjUsLTkxOTg2MDkxNiwxMTc2MDY0
+NjIxLDIwODkwMzg5NjYsMTk3Mjk4MjgwOSwxNDUxOTg3NjU1LD
+U5NTMzODI2OCwyMTA3NTI1NzQsMjEwNzUyNTc0LDIxMDc1MjU3
+NCw2Nzc0MzY0OTAsLTExOTg5NzQ0MTgsODEzMDM1MzE3LC05Nz
+cyNDI3MTYsLTk3NzI0MjcxNiwtOTc3MjQyNzE2LC0yMDE4MjE3
+OTM4XX0=
 -->
