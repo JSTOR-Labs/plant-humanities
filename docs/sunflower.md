@@ -187,7 +187,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q11084414" title="modernity">
 <param ve-entity eid="Q219416" title="sustainability" aliases="sustainable">
 <param ve-entity eid="Q2336124" title="defamiliarization">
-Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms during the summer months. At this stage of growth, the mature flower faces east, and its warmth and radiant yellow ray florets together attract insect pollinators. Once pollinated and fertilized, the plant develops seeds that slowly ripen. They are ready for harvesting when the flower head sheds its petals, droops, and turns yellow and then brown. That final stage of the annual’s lifecycle is poignantly evoked in Vincent van Gogh’s 1887 painting _Sunflowers_. The left and center sections of the picture show a dried flower head with exposed kernels. Its dark-brown, rust-orange, and aqua disk nestles against the desiccated yellow husk of a second once-vibrant flower. The plant portrait radically departs from the visual conventions for representing the domesticated sunflower at the height of its beauty, as a mature golden flower poised atop a thick vertical stem adorned with robust leaves. Conversely, Van Gogh defamiliarizes the left plant by portraying it with a few wilted rays, lying flat and inert. That withered floral imagery unsettles our tendency to appreciate the sunflower primarily for its beauty or utility, while also challenging a deeply held assumption that such natural resources are infinitely replenishable. In all of these ways, Van Gogh’s [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori) invites us to bring greater attentiveness, care, and gratitude to our relationships with all plants, though none more so than the glorious sunflower.
+Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms during the summer months. At this stage of growth, the mature flower faces east, and its warmth and radiant yellow ray florets together attract insect pollinators. Once pollinated and fertilized, the plant develops seeds that slowly ripen. They are ready for harvesting when the flower head sheds its petals, droops, and turns yellow and then brown. That final stage of the annual’s lifecycle is poignantly evoked in Vincent van Gogh's 1887 painting _Sunflowers_. The left and center sections of the picture show a dried flower head with exposed kernels. Its dark-brown, rust-orange, and aqua disk nestles against the desiccated yellow husk of a second once-vibrant flower. The plant portrait radically departs from the visual conventions for representing the domesticated sunflower at the height of its beauty, as a mature golden flower poised atop a thick vertical stem adorned with robust leaves. Conversely, Van Gogh defamiliarizes the left plant by portraying it with a few wilted rays, lying flat and inert. That withered floral imagery unsettles our tendency to appreciate the sunflower primarily for its beauty or utility, while also challenging a deeply held assumption that such natural resources are infinitely replenishable. In all of these ways, Van Gogh's [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori) invites us to bring greater attentiveness, care, and gratitude to our relationships with all plants, though none more so than the glorious sunflower.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -256,11 +256,11 @@ Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms du
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTMyMTUzMTQsLTExOTg5NzQ0MTgsOD
-EzMDM1MzE3LC05NzcyNDI3MTYsLTk3NzI0MjcxNiwtOTc3MjQy
-NzE2LC0yMDE4MjE3OTM4LC0yMDAwODkwNTczLC05Mjg1OTk1OT
-QsODY5MjE0NjkyLC0xOTIyODYyMjE2LC0xMjM5NzgyNDgsNTEz
-MTE2ODM0LDUxMzExNjgzNCwtNDkyMjI0OTU4LDE3NjE5NTg0MD
-csMjc3MDI1NzU1LDExMTkzNDI3NDUsLTEyMzQxMjI2MTgsLTE3
-NDcwNjAyODNdfQ==
+eyJoaXN0b3J5IjpbNjc3NDM2NDkwLC0xMTk4OTc0NDE4LDgxMz
+AzNTMxNywtOTc3MjQyNzE2LC05NzcyNDI3MTYsLTk3NzI0Mjcx
+NiwtMjAxODIxNzkzOCwtMjAwMDg5MDU3MywtOTI4NTk5NTk0LD
+g2OTIxNDY5MiwtMTkyMjg2MjIxNiwtMTIzOTc4MjQ4LDUxMzEx
+NjgzNCw1MTMxMTY4MzQsLTQ5MjIyNDk1OCwxNzYxOTU4NDA3LD
+I3NzAyNTc1NSwxMTE5MzQyNzQ1LC0xMjM0MTIyNjE4LC0xNzQ3
+MDYwMjgzXX0=
 -->
