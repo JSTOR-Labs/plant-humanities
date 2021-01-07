@@ -249,18 +249,18 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref29]: Mark A. Chapman et al., "Genetic Analysis of Floral Symmetry in Van Gogh's _Sunflowers_ Reveals Independent Recruitment of _CYCLOIDEA_ Genes in the Asteraceae," _PLOS Genetics_ March 29, 2012, accessed November 25, 2020. [https://doi.org/10.1371/journal.pgen.1002628](https://doi.org/10.1371/journal.pgen.1002628)
 
-[^ref22]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," in _Van Gogh's Sunflowers Illuminated: Art Meets Science_, eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
+[^ref30]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," in _Van Gogh's Sunflowers Illuminated: Art Meets Science_, eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
 
-[^ref23]: Charles B. Heiser, Jr. "The Hopi Sunflower." _Missouri Botanical Garden Bulletin_ 33, no. 8, 163-66, [https://www.biodiversitylibrary.org/item/19196#page/201/mode/1up](https://protect-us.mimecast.com/s/aiEAC82YDptkN1jh19wT2?domain=biodiversitylibrary.org); Mary-Russell Ferrell Colton, _Hopi Dyes_ (Flagstaff: Museum of Northern Arizona, 1965), accessed December 7, 2020, HathiTrust.
+[^ref31]: Charles B. Heiser, Jr. "The Hopi Sunflower." _Missouri Botanical Garden Bulletin_ 33, no. 8, 163-66, [https://www.biodiversitylibrary.org/item/19196#page/201/mode/1up](https://protect-us.mimecast.com/s/aiEAC82YDptkN1jh19wT2?domain=biodiversitylibrary.org); Mary-Russell Ferrell Colton, _Hopi Dyes_ (Flagstaff: Museum of Northern Arizona, 1965), accessed December 7, 2020, HathiTrust.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzMzQzODI4LDgxMzAzNTMxNywtOTc3Mj
-QyNzE2LC05NzcyNDI3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkz
-OCwtMjAwMDg5MDU3MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMT
-kyMjg2MjIxNiwtMTIzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4
-MzQsLTQ5MjIyNDk1OCwxNzYxOTU4NDA3LDI3NzAyNTc1NSwxMT
-E5MzQyNzQ1LC0xMjM0MTIyNjE4LC0xNzQ3MDYwMjgzLC0xODQ0
-MDc5MTMzXX0=
+eyJoaXN0b3J5IjpbMjA0NzAzMTU0MCw4MTMwMzUzMTcsLTk3Nz
+I0MjcxNiwtOTc3MjQyNzE2LC05NzcyNDI3MTYsLTIwMTgyMTc5
+MzgsLTIwMDA4OTA1NzMsLTkyODU5OTU5NCw4NjkyMTQ2OTIsLT
+E5MjI4NjIyMTYsLTEyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2
+ODM0LC00OTIyMjQ5NTgsMTc2MTk1ODQwNywyNzcwMjU3NTUsMT
+ExOTM0Mjc0NSwtMTIzNDEyMjYxOCwtMTc0NzA2MDI4MywtMTg0
+NDA3OTEzM119
 -->
