@@ -107,7 +107,7 @@ Yet scientists still disagree about when humans first used domesticated sunflowe
 <param ve-entity eid="Q15472169" title="patron of the arts" aliases="patron">
 <param ve-entity eid="Q2825010" title="Adriaen Collaert">
 <param ve-entity eid="Q1140201" title="Crispijn van de Passe the Younger" aliases="Crispijn van de Passe">
-By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers with botanical specificity. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to consult.[^ref21] That imagery was known to artists through emblems and florilegia, such as the ones, shown at right, produced by Crispijn van de Passe and Adriaen Collaert. Regardless of which sources were used, Van Dyck’s painting presents a lively image of the artist who appears to have just turned his head to face us, as though we spontaneously discovered him admiring a sunflower unawares in a pleasure garden. With one hand, the painter fingers an opulent gold chain, gifted by the King, that identifies his position as official portraitist of the court. With the other, he directs our attention to the pert head and robust foliage of a golden sunflower—a glorious floral manifestation of his loyalty to his patron.
+By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_, there was a well-established iconography in Europe for representing the aesthetic qualities of sunflowers with botanical specificity. Van Dyck, a Flemish artist working for Charles I of England, surely had numerous models to consult.[^ref21] That imagery was known to artists through emblems and florilegia, such as the ones, shown at right, produced by Crispijn van de Passe and Adriaen Collaert. Regardless of which sources were used, Van Dyck's painting presents a lively image of the artist who appears to have just turned his head to face us, as though we spontaneously discovered him admiring a sunflower unawares in a pleasure garden. With one hand, the painter fingers an opulent gold chain, gifted by the King, that identifies his position as official portraitist of the court. With the other, he directs our attention to the pert head and robust foliage of a golden sunflower—a glorious floral manifestation of his loyalty to his patron.
 <param ve-image primary fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Anthonyvandyckselfportrait.jpeg" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, c. 1632 or 1633, Eaton Hall, Cheshire, England, Wikimedia Commons">
 <param ve-image fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/0c/21/4f/74/0c214f74-b475-4efc-ba0c-0b5c745e3f71/iiif/4817_000147.tif/8.210526315789474,5.47329650092081,2225.0526315789475,1477.7900552486187/!813,540/0/default.jpg" title="Crispijn van de Passe, _Hortus floridus_, 1614-16, CC BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Collaert_Rijksmuseum_RP-P-BI-5997.jpg" title="Adriaen Collaert, _Sunflower and other flowers_, from _Florilegium_, 1570-before 1618, Rijksmuseum">
@@ -120,7 +120,7 @@ By the early 1630s, when Anthony Van Dyck painted _Self-Portrait with Sunflower_
 <param ve-entity eid="Q1229071" title="motif">
 <param ve-entity eid="Q758238" title="attribute">
 <param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
-Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant's heliotropic phase of development recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun-god Helios.[^ref17] According to the story, Clytie competed unsuccessfully for Helios's affections. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, wholly consumed with gazing upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, so named for its flowers' movement toward the sun's rays. Heliotropism was associated with _Heliotropium_ in ancient Rome and later with _Calendula_ or the marigold in [medieval Europe](https://www.metmuseum.org/blogs/in-season/2014/climbing-in-the-garden). Yet, as this print shows, European artists of the late-sixteenth through the eighteenth centuries portrayed Clytie’s attribute as a sunflower.[^ref18] That floral inventiveness demonstrates the fashionability of the sunflower as a motif and the degree to which it was entangled not only with beliefs about the flower's formal resemblance to the sun but also with misconceptions about the mature plant being heliotropic.
+Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant’s heliotropic phase of development recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun-god Helios.[^ref22] According to the story, Clytie competed unsuccessfully for Helios's affections. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, wholly consumed with gazing upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, so named for its flowers' movement toward the sun's rays. Heliotropism was associated with _Heliotropium_ in ancient Rome and later with _Calendula_ or the marigold in [medieval Europe](https://www.metmuseum.org/blogs/in-season/2014/climbing-in-the-garden). Yet, as this print shows, European artists of the late-sixteenth through the eighteenth centuries portrayed Clytie’s attribute as a sunflower.[^ref18] That floral inventiveness demonstrates the fashionability of the sunflower as a motif and the degree to which it was entangled not only with beliefs about the flower's formal resemblance to the sun but also with misconceptions about the mature plant being heliotropic.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
 <param ve-entity eid="Q1141466" title="pollinator">
@@ -256,11 +256,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzAzMTU0MCw4MTMwMzUzMTcsLTk3Nz
-I0MjcxNiwtOTc3MjQyNzE2LC05NzcyNDI3MTYsLTIwMTgyMTc5
-MzgsLTIwMDA4OTA1NzMsLTkyODU5OTU5NCw4NjkyMTQ2OTIsLT
-E5MjI4NjIyMTYsLTEyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2
-ODM0LC00OTIyMjQ5NTgsMTc2MTk1ODQwNywyNzcwMjU3NTUsMT
-ExOTM0Mjc0NSwtMTIzNDEyMjYxOCwtMTc0NzA2MDI4MywtMTg0
-NDA3OTEzM119
+eyJoaXN0b3J5IjpbNTM1Nzc4MzE4LDgxMzAzNTMxNywtOTc3Mj
+QyNzE2LC05NzcyNDI3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkz
+OCwtMjAwMDg5MDU3MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMT
+kyMjg2MjIxNiwtMTIzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4
+MzQsLTQ5MjIyNDk1OCwxNzYxOTU4NDA3LDI3NzAyNTc1NSwxMT
+E5MzQyNzQ1LC0xMjM0MTIyNjE4LC0xNzQ3MDYwMjgzLC0xODQ0
+MDc5MTMzXX0=
 -->
