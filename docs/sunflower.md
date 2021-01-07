@@ -250,16 +250,16 @@ Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms du
 
 [^ref30]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," in _Van Gogh's Sunflowers Illuminated: Art Meets Science_, eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
 
-[^ref31]: Charles B. Heiser, Jr. "The Hopi Sunflower." _Missouri Botanical Garden Bulletin_ 33, no. 8, 163-66, [https://www.biodiversitylibrary.org/item/19196#page/201/mode/1up](https://protect-us.mimecast.com/s/aiEAC82YDptkN1jh19wT2?domain=biodiversitylibrary.org); Mary-Russell Ferrell Colton, _Hopi Dyes_ (Flagstaff: Museum of Northern Arizona, 1965), accessed December 7, 2020, HathiTrust.
+[^ref31]: Charles B. Heiser, Jr. "The Hopi Sunflower." _Missouri Botanical Garden Bulletin_ 33, no. 8, 163-66, [https://www.biodiversitylibrary.org/item/19196#page/201/mode/1up](https://protect-us.mimecast.com/s/aiEAC82YDptkN1jh19wT2?domain=biodiversitylibrary.org); Mary-Russell Ferrell Colton, _Hopi Dyes_ (Flagstaff: Museum of Northern Arizona, 1965), accessed December 7, 2020, [https://catalog.hathitrust.org/Record/009147006](https://catalog.hathitrust.org/Record/009147006).
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Mjk4MjgwOSwxNDUxOTg3NjU1LDU5NT
-MzODI2OCwyMTA3NTI1NzQsMjEwNzUyNTc0LDIxMDc1MjU3NCw2
-Nzc0MzY0OTAsLTExOTg5NzQ0MTgsODEzMDM1MzE3LC05NzcyND
-I3MTYsLTk3NzI0MjcxNiwtOTc3MjQyNzE2LC0yMDE4MjE3OTM4
-LC0yMDAwODkwNTczLC05Mjg1OTk1OTQsODY5MjE0NjkyLC0xOT
-IyODYyMjE2LC0xMjM5NzgyNDgsNTEzMTE2ODM0LDUxMzExNjgz
-NF19
+eyJoaXN0b3J5IjpbMjA4OTAzODk2NiwxOTcyOTgyODA5LDE0NT
+E5ODc2NTUsNTk1MzM4MjY4LDIxMDc1MjU3NCwyMTA3NTI1NzQs
+MjEwNzUyNTc0LDY3NzQzNjQ5MCwtMTE5ODk3NDQxOCw4MTMwMz
+UzMTcsLTk3NzI0MjcxNiwtOTc3MjQyNzE2LC05NzcyNDI3MTYs
+LTIwMTgyMTc5MzgsLTIwMDA4OTA1NzMsLTkyODU5OTU5NCw4Nj
+kyMTQ2OTIsLTE5MjI4NjIyMTYsLTEyMzk3ODI0OCw1MTMxMTY4
+MzRdfQ==
 -->
