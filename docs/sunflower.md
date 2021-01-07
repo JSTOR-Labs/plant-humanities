@@ -233,9 +233,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref21]: John Peacock, _The Look of Van Dyck: The Self-Portrait with a Sunflower and the Vision of the Painter_ (Burlington, VT: Ashgate, 2006), 116, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
 
-[^ref17]: Jean-Michel Othoniel, “_Helianthus annuus_ Sunflower,” in _The Secret Language of Flowers: Notes on the Hidden Meanings of Flowers in Art_ (Boston, MA: Actes Sud/Isabella Stewart Gardner Museum, 2015), 66.
+[^ref22]: Jean-Michel Othoniel, "_Helianthus annuus_ Sunflower," in _The Secret Language of Flowers: Notes on the Hidden Meanings of Flowers in Art_ (Boston, MA: Actes Sud/Isabella Stewart Gardner Museum, 2015), 66.
 
-[^ref18]: Debra N. Mancoff, _Sunflowers_ (New York: Thames and Hudson, 2001), 21-27.
+[^ref23]: Erika von Erhardt-Siebold, "The Heliotrope Tradition," _Osiris_ 3 (1937): 22-46, accessed January 6, 2021, [http://www.jstor.org/stable/301579](http://www.jstor.org/stable/301579).
+
+[^ref24]: Debra N. Mancoff, _Sunflowers_ (New York: Thames and Hudson, 2001), 21-27.
 
 [^ref19]: Hagop S. Atamian et al., “Circadian Regulations of Sunflower Heliotropism, Floral Orientation, and Pollinator Visits,” _Science_ 353, no. 6299 (2016): 587-90. DOI: 10.1126/science.aaf9793
 
@@ -250,7 +252,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTMwNzc3Myw4MTMwMzUzMTcsLTk3Nz
+eyJoaXN0b3J5IjpbMTUzNTQ3NTUxNiw4MTMwMzUzMTcsLTk3Nz
 I0MjcxNiwtOTc3MjQyNzE2LC05NzcyNDI3MTYsLTIwMTgyMTc5
 MzgsLTIwMDA4OTA1NzMsLTkyODU5OTU5NCw4NjkyMTQ2OTIsLT
 E5MjI4NjIyMTYsLTEyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2
