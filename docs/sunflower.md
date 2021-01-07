@@ -148,7 +148,7 @@ Henderson's botanical illustration highlights a trait of sunflowers that we may 
 <param ve-entity eid="Q103129" title="stamen" aliases="stamen(s)"> 
 <param ve-entity eid="Q62779" title="pistil" aliases="pistil(s)">
 <param ve-entity eid="Q7211" title="taxonomy">
-Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiveness to the plant world while also articulating Linnaeus’s contributions to botany as they relate to _Helianthus annuus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the <span data-click-image-zoomto="2992,4439,1952,1782">lower right corner</span> of _Anatomy of the Sunflower_,where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book _[New illustration of the sexual system of Carolus von Linnaeus](http://id.lib.harvard.edu/alma/990075420710203941/catalog)_.
+Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiveness to the plant world while also articulating Linnaeus’s contributions to botany as they relate to _Helianthus annuus_. Linnaeus developed a plant taxonomy that he based on the number, arrangement, and similarities of reproductive organs: stamen(s) and pistil(s). The tremendous influence of this system on the production of knowledge about and portrayal of plants is evident in the <span data-click-image-zoomto="2992,4439,1952,1782">lower right corner</span> of _Anatomy of the Sunflower_,where there are precise depictions of such organs. This series of details was essential to the function of the picture; it was commissioned by Dr. Robert John Thornton for his book _[New illustration of the sexual system of Carolus von Linnaeus](http://id.lib.harvard.edu/alma/990075420710203941/catalog)_.[^ref28]
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="9">
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="11">
@@ -256,11 +256,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDM4NzA0OTUsODEzMDM1MzE3LC05Nz
-cyNDI3MTYsLTk3NzI0MjcxNiwtOTc3MjQyNzE2LC0yMDE4MjE3
-OTM4LC0yMDAwODkwNTczLC05Mjg1OTk1OTQsODY5MjE0NjkyLC
-0xOTIyODYyMjE2LC0xMjM5NzgyNDgsNTEzMTE2ODM0LDUxMzEx
-NjgzNCwtNDkyMjI0OTU4LDE3NjE5NTg0MDcsMjc3MDI1NzU1LD
-ExMTkzNDI3NDUsLTEyMzQxMjI2MTgsLTE3NDcwNjAyODMsLTE4
-NDQwNzkxMzNdfQ==
+eyJoaXN0b3J5IjpbLTc3NDk4NDUxOCw4MTMwMzUzMTcsLTk3Nz
+I0MjcxNiwtOTc3MjQyNzE2LC05NzcyNDI3MTYsLTIwMTgyMTc5
+MzgsLTIwMDA4OTA1NzMsLTkyODU5OTU5NCw4NjkyMTQ2OTIsLT
+E5MjI4NjIyMTYsLTEyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2
+ODM0LC00OTIyMjQ5NTgsMTc2MTk1ODQwNywyNzcwMjU3NTUsMT
+ExOTM0Mjc0NSwtMTIzNDEyMjYxOCwtMTc0NzA2MDI4MywtMTg0
+NDA3OTEzM119
 -->
