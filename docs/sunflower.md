@@ -99,7 +99,7 @@ Although European herbals such as Hernández's perpetuated cultural myths that t
 Yet scientists still disagree about when humans first used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether such plants were cultivated independently there.[^ref17] An ongoing source of debate is the origin of a charred seed that was recovered at San Andrés archaeological site in Tabasco, Mexico. Although some scientists identified the seed as coming from cultivated _Helianthus annuus_, others argued that it most likely came from a bottle gourd.[^ref18] Expanding on that archeological research, genomic studies of modern domesticated and wild sunflowers have linked the plants to a single common ancestor, which was cultivated at an independent domestication center, along with pepo squash, marsh elder, and chenopod, in <span data-click-map-flyto="37.347878, -89.590292">eastern North America</span>.[^ref19] Citing that evidence, botanists have argued that domesticated _H. annuus_ was brought to Mexico via North American trade routes, possibly by Spanish colonizers.[^ref20]
 <param ve-map prefer-geojson center="Q80914" fill="#cc9933" stroke="#cc6600" stroke-width="4" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
 
-### “I’ll Follow the Sun”: Heliotropism as Metaphor and Myth
+### "I'll Follow the Sun": Heliotropism as Metaphor and Myth
 
 <param ve-entity eid="Q150679" title="Anthony Van Dyck">
 <param ve-entity eid="Q81506" title="Charles I of England">
@@ -255,11 +255,11 @@ Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms du
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1MzM4MjY4LDIxMDc1MjU3NCwyMTA3NT
-I1NzQsMjEwNzUyNTc0LDY3NzQzNjQ5MCwtMTE5ODk3NDQxOCw4
-MTMwMzUzMTcsLTk3NzI0MjcxNiwtOTc3MjQyNzE2LC05NzcyND
-I3MTYsLTIwMTgyMTc5MzgsLTIwMDA4OTA1NzMsLTkyODU5OTU5
-NCw4NjkyMTQ2OTIsLTE5MjI4NjIyMTYsLTEyMzk3ODI0OCw1MT
-MxMTY4MzQsNTEzMTE2ODM0LC00OTIyMjQ5NTgsMTc2MTk1ODQw
-N119
+eyJoaXN0b3J5IjpbMTQ1MTk4NzY1NSw1OTUzMzgyNjgsMjEwNz
+UyNTc0LDIxMDc1MjU3NCwyMTA3NTI1NzQsNjc3NDM2NDkwLC0x
+MTk4OTc0NDE4LDgxMzAzNTMxNywtOTc3MjQyNzE2LC05NzcyND
+I3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkzOCwtMjAwMDg5MDU3
+MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMTkyMjg2MjIxNiwtMT
+IzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4MzQsLTQ5MjIyNDk1
+OF19
 -->
