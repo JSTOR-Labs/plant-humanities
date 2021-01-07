@@ -43,7 +43,7 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q815962" title="colonization">
 <param ve-entity eid="Q6165948" title="herbal" aliases="herbals">
 <param ve-entity eid="Q52105" title="habitat">
-The first known pictures of domesticated sunflowers produced by Europeans were printed in herbals in the late-1560s.[^ref6] These illustrations of tall, hearty plants with thick stocks, giant leaves, and ponderous sun-shaped flowers provide a foundation for studying later sunflower iconography. Such visual descriptions along with textual ones also help us to chart the plant’s mobility from North America to Europe. Yet, it is important to acknowledge that herbals present incomplete and sanitized histories of the plant world during the age of colonization. The treatises typically omit any information about plant harvesting and the impact of such exploitative practices, now termed "[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism)," on Indigenous peoples and local habitats. For this and other reasons, questions persist about who first collected sunflowers, when and from where they did so, and what global circumstances permitted that type of bioprospecting.
+The first known pictures of domesticated sunflowers produced by Europeans were printed in herbals in the late-1560s.[^ref6] These illustrations of tall, hearty plants with thick stocks, giant leaves, and ponderous sun-shaped flowers provide a foundation for studying later sunflower iconography. Such visual descriptions along with textual ones also help us to chart the plant's mobility from North America to Europe. Yet, it is important to acknowledge that herbals present incomplete and sanitized histories of the plant world during the age of colonization. The treatises typically omit any information about plant harvesting and the impact of such exploitative practices, now termed "[extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism)," on Indigenous peoples and local habitats. For this and other reasons, questions persist about who first collected sunflowers, when and from where they did so, and what global circumstances permitted that type of bioprospecting.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 <param ve-entity eid="Q476033" title="Low Countries">
@@ -258,11 +258,11 @@ Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms du
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTcyMjI2NSwtOTE5ODYwOTE2LDExNz
-YwNjQ2MjEsMjA4OTAzODk2NiwxOTcyOTgyODA5LDE0NTE5ODc2
-NTUsNTk1MzM4MjY4LDIxMDc1MjU3NCwyMTA3NTI1NzQsMjEwNz
-UyNTc0LDY3NzQzNjQ5MCwtMTE5ODk3NDQxOCw4MTMwMzUzMTcs
-LTk3NzI0MjcxNiwtOTc3MjQyNzE2LC05NzcyNDI3MTYsLTIwMT
-gyMTc5MzgsLTIwMDA4OTA1NzMsLTkyODU5OTU5NCw4NjkyMTQ2
-OTJdfQ==
+eyJoaXN0b3J5IjpbMTkwOTUxNjQ5MSwxNzU1NzIyMjY1LC05MT
+k4NjA5MTYsMTE3NjA2NDYyMSwyMDg5MDM4OTY2LDE5NzI5ODI4
+MDksMTQ1MTk4NzY1NSw1OTUzMzgyNjgsMjEwNzUyNTc0LDIxMD
+c1MjU3NCwyMTA3NTI1NzQsNjc3NDM2NDkwLC0xMTk4OTc0NDE4
+LDgxMzAzNTMxNywtOTc3MjQyNzE2LC05NzcyNDI3MTYsLTk3Nz
+I0MjcxNiwtMjAxODIxNzkzOCwtMjAwMDg5MDU3MywtOTI4NTk5
+NTk0XX0=
 -->
