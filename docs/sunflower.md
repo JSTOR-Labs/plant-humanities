@@ -33,7 +33,7 @@ A cultural history of the sunflower that attends to the circulation and signific
 <param ve-entity eid="Q10432667306" title="Carl Linnaeus" aliases="Carolus Linnaeus">
 <param ve-entity eid="Q66425303" title="iconic">
 The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2%29)_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—and the species _Helianthus annuus_ were named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the domesticated sunflower was already a beloved garden flower in Europe.[^ref3] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_, from 1737, offers some insights.[^ref4] He writes, "Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?"[^ref5] His encomium on the splendor of a mature inflorescence and its formal resemblance to the sun demonstrates some traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
-<param ve-image primary fit="cover" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, _Critica botanica_, Lugduni Batavorum: Apud Conradum Wishoff, 1737, 97 © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
+<param ve-image primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, _Critica botanica_, Lugduni Batavorum: Apud Conradum Wishoff, 1737, 97 © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, _Critica botanica_, Lugduni Batavorum: Apud Conradum Wishoff, 1737, 98 © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
 ### Plant Mobility and Early Printed Books
@@ -255,7 +255,7 @@ Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms du
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjk4MTkwMSwyMDg5MDM4OTY2LDE5Nz
+eyJoaXN0b3J5IjpbMjA4OTAzODk2NiwyMDg5MDM4OTY2LDE5Nz
 I5ODI4MDksMTQ1MTk4NzY1NSw1OTUzMzgyNjgsMjEwNzUyNTc0
 LDIxMDc1MjU3NCwyMTA3NTI1NzQsNjc3NDM2NDkwLC0xMTk4OT
 c0NDE4LDgxMzAzNTMxNywtOTc3MjQyNzE2LC05NzcyNDI3MTYs
