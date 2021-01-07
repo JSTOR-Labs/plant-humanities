@@ -62,13 +62,7 @@ Once introduced to Spain, the domesticated sunflower quickly migrated to parts o
 <param ve-entity eid="Q5189819" title="cruciform">
 <param ve-entity eid="Q462437" title="composition">
 <param ve-entity eid="Q63540903" title="focal point">
-The advent of the florilegium in the 1610s was integral to the blossoming of sunflower aesthetics as is evidenced in the sumptuous prints contained in[_Hortus Eystettensis_](https://bibdigital.rjb.csic.es/idurl/1/10908).[^ref9] The 1613 book was commissioned from Basilius Besler by the Prince Bishop of Eichstätt, who wished to document rare and foreign flora then growing in his garden. As part of the project, Besler oversaw the production of this hand-colored [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of a domesticated sunflower shown life-sized. The image's impact derives not only from its impressive dimensions but also from its bold cruciform composition, both of which imbue the full flower head and stem with a sense of power and religious reverence for nature. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value, unlike most economical illustrations then found in herbals. 
-
-![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
-
-For that reason, Besler's _Flos Solis maior_ ("large flower of the sun") became an influential model for visualizing _H. annuus_ that anticipated modern visual stereotypes for the plant, perhaps best epitomized by this tiny [sunflower emoji](https://openmoji.org/library/#search=sunflower).
-
-
+The advent of the florilegium in the 1610s was integral to the blossoming of sunflower aesthetics as is evidenced in the sumptuous prints contained in[_Hortus Eystettensis_](https://bibdigital.rjb.csic.es/idurl/1/10908).[^ref9] The 1613 book was commissioned from Basilius Besler by the Prince Bishop of Eichstätt, who wished to document rare and foreign flora then growing in his garden. As part of the project, Besler oversaw the production of this hand-colored [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of a domesticated sunflower shown life-sized. The image's impact derives not only from its impressive dimensions but also from its bold cruciform composition, both of which imbue the full flower head and stem with a sense of power and religious reverence for nature. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value, unlike most economical illustrations then found in herbals. For that reason, Besler's _Flos Solis maior_ ("large flower of the sun") became an influential model for visualizing _H. annuus_ that anticipated modern visual stereotypes for the plant, perhaps best epitomized by this tiny [sunflower emoji](https://openmoji.org/library/#search=sunflower).
 
 ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/Sunflower%20emoji_openmoji.org_tiny.jpg){: .right}
 
@@ -264,11 +258,11 @@ Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms du
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTcwMzk0OTksMTc1NTcyMjI2NSwtOT
-E5ODYwOTE2LDExNzYwNjQ2MjEsMjA4OTAzODk2NiwxOTcyOTgy
-ODA5LDE0NTE5ODc2NTUsNTk1MzM4MjY4LDIxMDc1MjU3NCwyMT
-A3NTI1NzQsMjEwNzUyNTc0LDY3NzQzNjQ5MCwtMTE5ODk3NDQx
-OCw4MTMwMzUzMTcsLTk3NzI0MjcxNiwtOTc3MjQyNzE2LC05Nz
-cyNDI3MTYsLTIwMTgyMTc5MzgsLTIwMDA4OTA1NzMsLTkyODU5
-OTU5NF19
+eyJoaXN0b3J5IjpbMTU0NTU1MTk3NSwtMTQ1NzAzOTQ5OSwxNz
+U1NzIyMjY1LC05MTk4NjA5MTYsMTE3NjA2NDYyMSwyMDg5MDM4
+OTY2LDE5NzI5ODI4MDksMTQ1MTk4NzY1NSw1OTUzMzgyNjgsMj
+EwNzUyNTc0LDIxMDc1MjU3NCwyMTA3NTI1NzQsNjc3NDM2NDkw
+LC0xMTk4OTc0NDE4LDgxMzAzNTMxNywtOTc3MjQyNzE2LC05Nz
+cyNDI3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkzOCwtMjAwMDg5
+MDU3M119
 -->
