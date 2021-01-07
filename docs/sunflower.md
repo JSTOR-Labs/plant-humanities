@@ -247,7 +247,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref28]: Robert John Thornton, _New illustration of the sexual system of Carolus von Linnaeus: comprehending an elucidation of the several parts of the fructification: a prize dissertation on the sexes of plants: a full explanation of the classes, and orders, of the sexual system: and The temple of flora, or, Garden of nature, being picturesque, botanical, coloured plates, of select plants, illustrative of the same, with descriptions_ (London: Printed, for the publisher, by T. Bensley, Bolt Court, Fleet Street, [1807?] [i.e. 1799-1810]), accessed January 6, 2021, [https://iiif.lib.harvard.edu/manifests/view/drs:436574052$1i](https://iiif.lib.harvard.edu/manifests/view/drs:436574052$1i).
 
-[^ref21]: Mark A. Chapman et al., "Genetic Analysis of Floral Symmetry in Van Gogh's _Sunflowers_ Reveals Independent Recruitment of _CYCLOIDEA_ Genes in the Asteraceae," _PLOS Genetics_ March 29, 2012, accessed November 25, 2020. [https://doi.org/10.1371/journal.pgen.1002628](https://doi.org/10.1371/journal.pgen.1002628)
+[^ref29]: Mark A. Chapman et al., "Genetic Analysis of Floral Symmetry in Van Gogh's _Sunflowers_ Reveals Independent Recruitment of _CYCLOIDEA_ Genes in the Asteraceae," _PLOS Genetics_ March 29, 2012, accessed November 25, 2020. [https://doi.org/10.1371/journal.pgen.1002628](https://doi.org/10.1371/journal.pgen.1002628)
 
 [^ref22]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," in _Van Gogh's Sunflowers Illuminated: Art Meets Science_, eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
 
@@ -256,7 +256,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4NDAzNjc2LDgxMzAzNTMxNywtOTc3Mj
+eyJoaXN0b3J5IjpbNDAzMzQzODI4LDgxMzAzNTMxNywtOTc3Mj
 QyNzE2LC05NzcyNDI3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkz
 OCwtMjAwMDg5MDU3MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMT
 kyMjg2MjIxNiwtMTIzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4
