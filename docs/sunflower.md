@@ -196,9 +196,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref2]: Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
 
-[^ref3]: Carl von Linné, _Species plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 904-06, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.669](https://doi.org/10.5962/bhl.title.669 "DOI"); Carl von Linné, _Genera plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 386, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.746](https://doi.org/10.5962/bhl.title.746).
+[^ref3]: Carl von Linné, _Species plantarum_, (Stockholm: Impensis Laurentii Salvii, 1754), 904-06, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.669](https://doi.org/10.5962/bhl.title.669 "DOI"); Carl von Linné, _Genera plantarum_, (Stockholm: Impensis Laurentii Salvii, 1754), 386, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.746](https://doi.org/10.5962/bhl.title.746).
 
-[^ref3]: Translated in Alice Dickinson, _Carl Linnaeus; Pioneer of Modern Botany_ (New York: F. Watts, 1967), 125, accessed October 7, 2020, HathiTrust.
+[^ref4]: Carl von Linné, _Critica Botanica_ (Lugduni Batavorum: Apud Conradum Wishoff, 1737), 97, accessed January 6, 2021, [https://bibdigital.rjb.csic.es/idurl/1/11541](https://bibdigital.rjb.csic.es/idurl/1/11541).
+
+[^ref5]: Translated in Alice Dickinson, _Carl Linnaeus; Pioneer of Modern Botany_ (New York: F. Watts, 1967), 125, accessed October 7, 2020, HathiTrust.
 
 [^ref4]: Charles B. Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," _Genetic Resources and Crop Evolution_ 55, no. 1 (2008): 9-13.
 
@@ -243,7 +245,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1MzA1MDEsLTk3NzI0MjcxNiwtOTc3Mj
+eyJoaXN0b3J5IjpbNjgzOTE3NDcsLTk3NzI0MjcxNiwtOTc3Mj
 QyNzE2LC05NzcyNDI3MTYsLTIwMTgyMTc5MzgsLTIwMDA4OTA1
 NzMsLTkyODU5OTU5NCw4NjkyMTQ2OTIsLTE5MjI4NjIyMTYsLT
 EyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2ODM0LC00OTIyMjQ5
