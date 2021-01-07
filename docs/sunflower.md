@@ -169,7 +169,7 @@ In the late nineteenth century, some European painters embraced the genre of sti
 <param ve-entity eid="Q12212017" title="Helianthus giganteus">
 <param ve-entity eid="Q181916" title="herbarium">
 <param ve-entity eid="Q4886" title="cultivar" aliases="cultivars">
-Contrary to what is most often portrayed in visual and verbal descriptions of sunflowers, the palette of _Helianthus annuus_ is not limited to yellow. Rather, there are many _H. annuus_ cultivars with flowers that can range from gold to orange to red to dark purple and even an unexpected shade of pink. There are also more than fifty accepted species grouped under _Helianthus_ and they vary in terms of size and the number and shape of their leaves and flower heads. The specimens of _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke) on these herbarium sheets also dispel the false notion that all sunflowers possess a single large blossom per stem. That trait, as we now know, is unique to the domesticated sunflower and due to human selection.
+Contrary to what is most often portrayed in visual and verbal descriptions of sunflowers, the palette of _Helianthus annuus_ is not limited to yellow. Rather, there are many _H. annuus_ cultivars with flowers that can range from gold to orange to red to dark purple and even an unexpected shade of pink. There are also more than fifty accepted species grouped under _Helianthus_ and they vary in terms of size and the number and shape of their leaves and flower heads. The differences among specimens of _Helianthus annuus_ (common sunflower), _Helianthus giganteus_ (giant sunflower), and _Helianthus tuberosus_ (Jerusalem artichoke or sunchoke), mounted on these herbarium sheets, also dispel the false notion that all sunflowers possess a single large blossom per stem. That trait, as we now know, is unique to the domesticated sunflower and due to human selection.
 <param ve-plant-specimen eid="Q171497" max="1">
 <param ve-plant-specimen eid="Q12212017" max="1">
 <param ve-plant-specimen eid="Q146190" max="1">
@@ -256,11 +256,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDgyNDQ1OTMsODEzMDM1MzE3LC05Nz
-cyNDI3MTYsLTk3NzI0MjcxNiwtOTc3MjQyNzE2LC0yMDE4MjE3
-OTM4LC0yMDAwODkwNTczLC05Mjg1OTk1OTQsODY5MjE0NjkyLC
-0xOTIyODYyMjE2LC0xMjM5NzgyNDgsNTEzMTE2ODM0LDUxMzEx
-NjgzNCwtNDkyMjI0OTU4LDE3NjE5NTg0MDcsMjc3MDI1NzU1LD
-ExMTkzNDI3NDUsLTEyMzQxMjI2MTgsLTE3NDcwNjAyODMsLTE4
-NDQwNzkxMzNdfQ==
+eyJoaXN0b3J5IjpbNTQ5NDg3NzU1LDgxMzAzNTMxNywtOTc3Mj
+QyNzE2LC05NzcyNDI3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkz
+OCwtMjAwMDg5MDU3MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMT
+kyMjg2MjIxNiwtMTIzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4
+MzQsLTQ5MjIyNDk1OCwxNzYxOTU4NDA3LDI3NzAyNTc1NSwxMT
+E5MzQyNzQ1LC0xMjM0MTIyNjE4LC0xNzQ3MDYwMjgzLC0xODQ0
+MDc5MTMzXX0=
 -->
