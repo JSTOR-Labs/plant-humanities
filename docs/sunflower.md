@@ -208,7 +208,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref8]: Pietro Andrea Mattioli, _I discorsi di M. Pietro Andrea Matthioli ... nelli sei libri di Pedacio Dioscoride Anazarbeo della materia medicinale: hora di nuouo dal suo istesso autore ricorretti, & in più di mille luoghi aumen..._ (Venice: Appresso Vincenzo ValgrisI, MDLXVIII [1568]), accessed January 6, 2021, [https://www.biodiversitylibrary.org/page/51721079](https://www.biodiversitylibrary.org/page/51721079); Rembert Dodoens, _Florum, et coronariarum odoratarumque nonnullarum herbarum historia, Remberto Dodonae ... auctore_ (Antwerp: ex officina Christophori Plantini, 1569), accessed January 6, 2021, [https://archive.org/details/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/page/n3/mode/2up](https://archive.org/details/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/page/n3/mode/2up).
 
-[^ref6]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
+[^ref9]: Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, “A Garden at Eichstätt,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
 
 [^ref7]: Ray Desmond, “The Discovery of the New World,” in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 24-27.
 
@@ -247,7 +247,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzczOTQ1NzQsLTk3NzI0MjcxNiwtOT
+eyJoaXN0b3J5IjpbLTEzMTcxNzc0MTksLTk3NzI0MjcxNiwtOT
 c3MjQyNzE2LC05NzcyNDI3MTYsLTIwMTgyMTc5MzgsLTIwMDA4
 OTA1NzMsLTkyODU5OTU5NCw4NjkyMTQ2OTIsLTE5MjI4NjIyMT
 YsLTEyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2ODM0LC00OTIy
