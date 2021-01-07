@@ -158,7 +158,7 @@ Henderson’s design for _Anatomy of the Sunflower_ models that sort of attentiv
 <param ve-entity eid="Q63825" title="double-flowered">
 <param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
 <param ve-entity eid="Q170571" title="still life" aliases="still lifes">
-In the late nineteenth century, some European painters embraced the genre of still life to explore the expressive capacities of paint, plants, and floral forms. In doing go, Vincent van Gogh cultivated a signature style of representing domesticated sunflowers. In this 1888 painting, entitled _Sunflowers_, he uses a striking range of intense yellows to depict an arrangement of more than a dozen blooms. The disparate hues and shapes of their radiant ocher, mustard, and golden-orange flower heads indicate that two different types of cultivated _Helianthus annuus_ are portrayed here and that they were harvested at different stages of their life cycles. The sunflower, <span data-click-image-zoomto="9,1135,1311,1118">at top left</span>, has shed ray florets and started to wilt, whereas many of its plush counterparts—a double-flowered variety known as the <span data-click-image-zoomto="2050,113,1311,1118">"Teddy Bear"</span>—are still vibrant.[^ref21] Van Gogh painted <span data-click-image-zoomto="-1158,0,7037,6001">these sunflowers</span> directly from life during the summer of 1888, after moving from Paris to Arles, France, the previous winter.[^ref22] We can therefore read his golden palette and radiant bouquet as metaphorically evoking the bright warm light of southern France that rejuvenated his painting practice and nurtured the growth of flowers like those shown here.
+In the late nineteenth century, some European painters embraced the genre of still life to explore the expressive capacities of paint, plants, and floral forms. In doing go, Vincent van Gogh cultivated a signature style of representing domesticated sunflowers. In this 1888 painting, entitled _Sunflowers_, he uses a striking range of intense yellows to depict an arrangement of more than a dozen blooms. The disparate hues and shapes of their radiant ocher, mustard, and golden-orange flower heads indicate that two different types of cultivated _Helianthus annuus_ are portrayed here and that they were harvested at different stages of their life cycles. The sunflower, <span data-click-image-zoomto="9,1135,1311,1118">at top left</span>, has shed ray florets and started to wilt, whereas many of its plush counterparts—a double-flowered variety known as the <span data-click-image-zoomto="2050,113,1311,1118">"Teddy Bear"</span>—are still vibrant.[^ref29] Van Gogh painted <span data-click-image-zoomto="-1158,0,7037,6001">these sunflowers</span> directly from life during the summer of 1888, after moving from Paris to Arles, France, the previous winter.[^ref30] We can therefore read his golden palette and radiant bouquet as metaphorically evoking the bright warm light of southern France that rejuvenated his painting practice and nurtured the growth of flowers like the ones shown here.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vincent_van_Gogh_-_Sunflowers_%281888%2C_National_Gallery_London%29.jpg" title="Vincent van Gogh, _Sunflowers_, 1888, National Gallery, London">
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as "teddy bear," Kor!An (Корзун Андрей), Wikimedia Commons">
 
@@ -256,11 +256,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjE5NjUsODEzMDM1MzE3LC05NzcyND
-I3MTYsLTk3NzI0MjcxNiwtOTc3MjQyNzE2LC0yMDE4MjE3OTM4
-LC0yMDAwODkwNTczLC05Mjg1OTk1OTQsODY5MjE0NjkyLC0xOT
-IyODYyMjE2LC0xMjM5NzgyNDgsNTEzMTE2ODM0LDUxMzExNjgz
-NCwtNDkyMjI0OTU4LDE3NjE5NTg0MDcsMjc3MDI1NzU1LDExMT
-kzNDI3NDUsLTEyMzQxMjI2MTgsLTE3NDcwNjAyODMsLTE4NDQw
-NzkxMzNdfQ==
+eyJoaXN0b3J5IjpbLTEzNDgyNDQ1OTMsODEzMDM1MzE3LC05Nz
+cyNDI3MTYsLTk3NzI0MjcxNiwtOTc3MjQyNzE2LC0yMDE4MjE3
+OTM4LC0yMDAwODkwNTczLC05Mjg1OTk1OTQsODY5MjE0NjkyLC
+0xOTIyODYyMjE2LC0xMjM5NzgyNDgsNTEzMTE2ODM0LDUxMzEx
+NjgzNCwtNDkyMjI0OTU4LDE3NjE5NTg0MDcsMjc3MDI1NzU1LD
+ExMTkzNDI3NDUsLTEyMzQxMjI2MTgsLTE3NDcwNjAyODMsLTE4
+NDQwNzkxMzNdfQ==
 -->
