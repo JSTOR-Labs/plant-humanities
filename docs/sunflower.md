@@ -239,9 +239,13 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref24]: Debra N. Mancoff, _Sunflowers_ (New York: Thames and Hudson, 2001), 21-27.
 
-[^ref19]: Hagop S. Atamian et al., “Circadian Regulations of Sunflower Heliotropism, Floral Orientation, and Pollinator Visits,” _Science_ 353, no. 6299 (2016): 587-90. DOI: 10.1126/science.aaf9793
+[^ref25]: Hagop S. Atamian et al., "Circadian Regulations of Sunflower Heliotropism, Floral Orientation, and Pollinator Visits," _Science_ 353, no. 6299 (2016): 587-90. DOI: 10.1126/science.aaf9793.
 
-[^ref20]: Chase M. Mason, et al., "Beyond Pollinators: Evolution of Floral Architecture with Environment across the Wild Sunflowers (_Helianthus_, Asteraceae)," _Plant Ecology and Evolution_ 150, no. 2 (2017): 139-150.
+[^ref26]: Peter Henderson’s design for _Anatomy of a Sunflower_ resembles another botanical illustration, which was published in John S. Miller’s book _An_ _Illustration of the Sexual System of Linnaeus_. See John S. Miller, _Illustratio systematis sexualis Linnaei_ (Francofurti ad Moenum: Varrentrapp et Wenner, 1804), accessed January 6, 2021, [https://doi.org/10.18452/235](https://doi.org/10.18452/235); John S. Miller (Johann Sebastian Müller), _Helianthus annuus_ L., 1770-1777, hand-colored engraving, 55 x 38.1 cm, Victoria and Albert Museum, [http://collections.vam.ac.uk/item/O922809/helianthus-annuus-l-print-muller-johann-sebastian/](http://collections.vam.ac.uk/item/O922809/helianthus-annuus-l-print-muller-johann-sebastian/).
+
+[^ref27]: Chase M. Mason, et al., "Beyond Pollinators: Evolution of Floral Architecture with Environment across the Wild Sunflowers (_Helianthus_, Asteraceae)," _Plant Ecology and Evolution_ 150, no. 2 (2017): 139-150.
+
+[^ref28]: Robert John Thornton, _New illustration of the sexual system of Carolus von Linnaeus: comprehending an elucidation of the several parts of the fructification: a prize dissertation on the sexes of plants: a full explanation of the classes, and orders, of the sexual system: and The temple of flora, or, Garden of nature, being picturesque, botanical, coloured plates, of select plants, illustrative of the same, with descriptions_ (London: Printed, for the publisher, by T. Bensley, Bolt Court, Fleet Street, [1807?] [i.e. 1799-1810]), accessed January 6, 2021, [https://iiif.lib.harvard.edu/manifests/view/drs:436574052$1i](https://iiif.lib.harvard.edu/manifests/view/drs:436574052$1i).
 
 [^ref21]: Mark A. Chapman et al., "Genetic Analysis of Floral Symmetry in Van Gogh's _Sunflowers_ Reveals Independent Recruitment of _CYCLOIDEA_ Genes in the Asteraceae," _PLOS Genetics_ March 29, 2012, accessed November 25, 2020. [https://doi.org/10.1371/journal.pgen.1002628](https://doi.org/10.1371/journal.pgen.1002628)
 
@@ -252,11 +256,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTQ3NTUxNiw4MTMwMzUzMTcsLTk3Nz
-I0MjcxNiwtOTc3MjQyNzE2LC05NzcyNDI3MTYsLTIwMTgyMTc5
-MzgsLTIwMDA4OTA1NzMsLTkyODU5OTU5NCw4NjkyMTQ2OTIsLT
-E5MjI4NjIyMTYsLTEyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2
-ODM0LC00OTIyMjQ5NTgsMTc2MTk1ODQwNywyNzcwMjU3NTUsMT
-ExOTM0Mjc0NSwtMTIzNDEyMjYxOCwtMTc0NzA2MDI4MywtMTg0
-NDA3OTEzM119
+eyJoaXN0b3J5IjpbNzI4NDAzNjc2LDgxMzAzNTMxNywtOTc3Mj
+QyNzE2LC05NzcyNDI3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkz
+OCwtMjAwMDg5MDU3MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMT
+kyMjg2MjIxNiwtMTIzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4
+MzQsLTQ5MjIyNDk1OCwxNzYxOTU4NDA3LDI3NzAyNTc1NSwxMT
+E5MzQyNzQ1LC0xMjM0MTIyNjE4LC0xNzQ3MDYwMjgzLC0xODQ0
+MDc5MTMzXX0=
 -->
