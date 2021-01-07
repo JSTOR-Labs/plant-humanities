@@ -125,7 +125,7 @@ Europeans associated sunflowers with the human sentiments of loyalty and constan
 
 <param ve-entity eid="Q1141466" title="pollinator">
 <param ve-entity eid="Q208353" title="circadian rhythm">
-There is a longstanding cultural assumption that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref25] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Needless to say, these exciting findings generated a [media buzz](https://www.npr.org/sections/thetwo-way/2016/08/05/488891151/the-mystery-of-why-sunflowers-turn-to-follow-the-sun-solved)!
+There is a longstanding cultural assumption that sunflowers are heliotropic throughout their lives. In actuality, however, the plant only tracks the movement of the sun during an early phase of its development and once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref25]Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at nighttime. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Needless to say, these exciting findings generated a [media buzz](https://www.npr.org/sections/thetwo-way/2016/08/05/488891151/the-mystery-of-why-sunflowers-turn-to-follow-the-sun-solved)!
 <param ve-video title="_Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits_, Hagop S. Atamian, Nicky M. Creux, Evan A. Brown, Austin G. Garner, Benjamin K. Blackman, Stacey L. Harmer, DOI: 10.1126/science.aaf9793" vid="rjwd4DErj_M?t=18">
 
 ### Out of One, Many
@@ -256,11 +256,11 @@ Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms du
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzUyNTc0LDY3NzQzNjQ5MCwtMTE5OD
-k3NDQxOCw4MTMwMzUzMTcsLTk3NzI0MjcxNiwtOTc3MjQyNzE2
-LC05NzcyNDI3MTYsLTIwMTgyMTc5MzgsLTIwMDA4OTA1NzMsLT
-kyODU5OTU5NCw4NjkyMTQ2OTIsLTE5MjI4NjIyMTYsLTEyMzk3
-ODI0OCw1MTMxMTY4MzQsNTEzMTE2ODM0LC00OTIyMjQ5NTgsMT
-c2MTk1ODQwNywyNzcwMjU3NTUsMTExOTM0Mjc0NSwtMTIzNDEy
-MjYxOF19
+eyJoaXN0b3J5IjpbMTMzNDQxNDU0NiwyMTA3NTI1NzQsNjc3ND
+M2NDkwLC0xMTk4OTc0NDE4LDgxMzAzNTMxNywtOTc3MjQyNzE2
+LC05NzcyNDI3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkzOCwtMj
+AwMDg5MDU3MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMTkyMjg2
+MjIxNiwtMTIzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4MzQsLT
+Q5MjIyNDk1OCwxNzYxOTU4NDA3LDI3NzAyNTc1NSwxMTE5MzQy
+NzQ1XX0=
 -->
