@@ -134,7 +134,7 @@ There is a longstanding cultural assumption that sunflowers are heliotropic thro
 <param ve-entity eid="Q2602751" title="dorsal">
 <param ve-entity eid="Q3429717" title="ventral">
 <param ve-entity eid="Q729496" title="bract" aliases="bracts">
-In the eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing cultivated sunflowers that allowed them to communicate scientific knowledge about the plant. This hand-colored print _Anatomy of the Sunflower_, designed by[Peter Henderson](http://vocab.getty.edu/page/ulan/500042021), exemplifies a mode of artistic engagement with plants tailored to the needs of botanists.[^ref26] Henderson’s image shows a partial view of two mature specimens—facing opposite directions—to communicate valuable information about their dorsal and ventral morphological structures. Yet his design takes some aesthetic liberties to imbue the flower heads with a sense of movement and vitality, expanding the appeal of the illustration beyond scientists to plant and art collectors as well. At the center of <span data-click-image-zoomto="982,2706,2213,1795">the left flower,</span> a series of green scallop-like shapes describe how bracts grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant's stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange "petals," some with gold highlights, radiate outward from its dark-brown disk. A close look at <span data-click-image-zoomto="3200,1997,1038,897">the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets.
+In the eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing cultivated sunflowers that allowed them to communicate scientific knowledge about the plant. This hand-colored print _Anatomy of the Sunflower_, designed by [Peter Henderson](http://vocab.getty.edu/page/ulan/500042021), exemplifies a mode of artistic engagement with plants tailored to the needs of botanists.[^ref26] Henderson’s image shows a partial view of two mature specimens—facing opposite directions—to communicate valuable information about their dorsal and ventral morphological structures. Yet his design takes some aesthetic liberties to imbue the flower heads with a sense of movement and vitality, expanding the appeal of the illustration beyond scientists to plant and art collectors as well. At the center of <span data-click-image-zoomto="982,2706,2213,1795">the left flower,</span> a series of green scallop-like shapes describe how bracts grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant's stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange "petals," some with gold highlights, radiate outward from its dark-brown disk. A close look at <span data-click-image-zoomto="3200,1997,1038,897">the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
 <param ve-entity eid="Q14847254" title="Compositae"> 
@@ -256,11 +256,11 @@ Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms du
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3NDM2NDkwLC0xMTk4OTc0NDE4LDgxMz
-AzNTMxNywtOTc3MjQyNzE2LC05NzcyNDI3MTYsLTk3NzI0Mjcx
-NiwtMjAxODIxNzkzOCwtMjAwMDg5MDU3MywtOTI4NTk5NTk0LD
-g2OTIxNDY5MiwtMTkyMjg2MjIxNiwtMTIzOTc4MjQ4LDUxMzEx
-NjgzNCw1MTMxMTY4MzQsLTQ5MjIyNDk1OCwxNzYxOTU4NDA3LD
-I3NzAyNTc1NSwxMTE5MzQyNzQ1LC0xMjM0MTIyNjE4LC0xNzQ3
-MDYwMjgzXX0=
+eyJoaXN0b3J5IjpbMjEwNzUyNTc0LDY3NzQzNjQ5MCwtMTE5OD
+k3NDQxOCw4MTMwMzUzMTcsLTk3NzI0MjcxNiwtOTc3MjQyNzE2
+LC05NzcyNDI3MTYsLTIwMTgyMTc5MzgsLTIwMDA4OTA1NzMsLT
+kyODU5OTU5NCw4NjkyMTQ2OTIsLTE5MjI4NjIyMTYsLTEyMzk3
+ODI0OCw1MTMxMTY4MzQsNTEzMTE2ODM0LC00OTIyMjQ5NTgsMT
+c2MTk1ODQwNywyNzcwMjU3NTUsMTExOTM0Mjc0NSwtMTIzNDEy
+MjYxOF19
 -->
