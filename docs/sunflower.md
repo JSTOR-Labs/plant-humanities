@@ -217,13 +217,13 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref13]: Heiser, Jr., "The Domesticated Sunflower in Mexico?," 449.
 
-[^ref9]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706); Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” 57-74.
+[^ref14]: Heiser, Jr., "The Origin and Development of the Cultivated Sunflower," 161-67; Smith, "The Domestication of _Helianthus annuus_ L. (sunflower)," 57-74.
 
-[^ref10]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
+[^ref15]: Michael Brian Schiffer, "Origin of the Domesticated Sunflower," in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
 
-[^ref11]: “Heiser (1965) proposed an hypothesis that is still tenable. The species [_Helianthus annuus_] spread prehistorically over eastern North America as a weedy camp-follower.” Sauer, “HELIANTHUS – SUNFLOWER,” in _Historical Geography of Crop Plants: A Select Roster_ (Bosa Roca: Taylor and Francis Group, 1993), 23.
+[^ref16]: "Heiser (1965) proposed an hypothesis that is still tenable. The species [_Helianthus annuus_] spread prehistorically over eastern North America as a weedy camp-follower." Sauer, "HELIANTHUS – SUNFLOWER," in _Historical Geography of Crop Plants: A Select Roster_ (Bosa Roca: Taylor and Francis Group, 1993), 23.
 
-[^ref12]: For a concise summary of the debate see Schiffer, “Origin of the Domesticated Sunflower,” 241-46.
+[^ref17]: For a concise summary of the debate see Schiffer, “Origin of the Domesticated Sunflower,” 241-46.
 
 [^ref13]: Because the seed is no longer extant, it cannot undergo further testing. David L. Lentz, et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” 57-74; Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," 9-13.
 
@@ -250,11 +250,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU2MDMzNzYsODEzMDM1MzE3LC05Nz
-cyNDI3MTYsLTk3NzI0MjcxNiwtOTc3MjQyNzE2LC0yMDE4MjE3
-OTM4LC0yMDAwODkwNTczLC05Mjg1OTk1OTQsODY5MjE0NjkyLC
-0xOTIyODYyMjE2LC0xMjM5NzgyNDgsNTEzMTE2ODM0LDUxMzEx
-NjgzNCwtNDkyMjI0OTU4LDE3NjE5NTg0MDcsMjc3MDI1NzU1LD
-ExMTkzNDI3NDUsLTEyMzQxMjI2MTgsLTE3NDcwNjAyODMsLTE4
-NDQwNzkxMzNdfQ==
+eyJoaXN0b3J5IjpbLTU5Mjg1NzI2NSw4MTMwMzUzMTcsLTk3Nz
+I0MjcxNiwtOTc3MjQyNzE2LC05NzcyNDI3MTYsLTIwMTgyMTc5
+MzgsLTIwMDA4OTA1NzMsLTkyODU5OTU5NCw4NjkyMTQ2OTIsLT
+E5MjI4NjIyMTYsLTEyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2
+ODM0LC00OTIyMjQ5NTgsMTc2MTk1ODQwNywyNzcwMjU3NTUsMT
+ExOTM0Mjc0NSwtMTIzNDEyMjYxOCwtMTc0NzA2MDI4MywtMTg0
+NDA3OTEzM119
 -->
