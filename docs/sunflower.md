@@ -187,7 +187,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q11084414" title="modernity">
 <param ve-entity eid="Q219416" title="sustainability" aliases="sustainable">
 <param ve-entity eid="Q2336124" title="defamiliarization">
-Visual representations of sunflowers have shaped and been shaped by human interactions with actual plants. By analyzing trends in such imagery, we can become more attuned to the significance of those encounters and our own. That kind of attentive regard for plant life is essential if we are to enter into sustainable relationships with it. These are just some of the sentiments that attain visibility in Vincent van Gogh's [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori), at right. _Sunflowers_, from 1887, shows a dried flower head with exposed kernels nestled against a desiccated yellow husk, both of which rest on a somber blue ground. This defamiliarization of sunflowers unsettles our tendencies to appreciate them solely for their beauty or utility, while also challenging our assumptions that they are infinitely replenishable natural resources. In all of these ways, Van Gogh’s picture invites us to bring greater attentiveness, care, and gratitude to our relationships with plants, none more so than the glorious sunflower.
+Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms during the summer months. At this stage of growth, the mature flower faces east, and its warmth and radiant yellow ray florets together attract insect pollinators. Once pollinated and fertilized, the plant develops seeds that slowly ripen. They are ready for harvesting when the flower head sheds its petals, droops, and turns yellow and then brown. That final stage of the annual’s lifecycle is poignantly evoked in Vincent van Gogh’s 1887 painting _Sunflowers_. The left and center sections of the picture show a dried flower head with exposed kernels. Its dark-brown, rust-orange, and aqua disk nestles against the desiccated yellow husk of a second once-vibrant flower. The plant portrait radically departs from the visual conventions for representing the domesticated sunflower at the height of its beauty, as a mature golden flower poised atop a thick vertical stem adorned with robust leaves. Conversely, Van Gogh defamiliarizes the left plant by portraying it with a few wilted rays, lying flat and inert. That withered floral imagery unsettles our tendency to appreciate the sunflower primarily for its beauty or utility, while also challenging a deeply held assumption that such natural resources are infinitely replenishable. In all of these ways, Van Gogh’s [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori) invites us to bring greater attentiveness, care, and gratitude to our relationships with all plants, though none more so than the glorious sunflower.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
@@ -256,11 +256,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTg5NzQ0MTgsODEzMDM1MzE3LC05Nz
-cyNDI3MTYsLTk3NzI0MjcxNiwtOTc3MjQyNzE2LC0yMDE4MjE3
-OTM4LC0yMDAwODkwNTczLC05Mjg1OTk1OTQsODY5MjE0NjkyLC
-0xOTIyODYyMjE2LC0xMjM5NzgyNDgsNTEzMTE2ODM0LDUxMzEx
-NjgzNCwtNDkyMjI0OTU4LDE3NjE5NTg0MDcsMjc3MDI1NzU1LD
-ExMTkzNDI3NDUsLTEyMzQxMjI2MTgsLTE3NDcwNjAyODMsLTE4
-NDQwNzkxMzNdfQ==
+eyJoaXN0b3J5IjpbLTE0OTMyMTUzMTQsLTExOTg5NzQ0MTgsOD
+EzMDM1MzE3LC05NzcyNDI3MTYsLTk3NzI0MjcxNiwtOTc3MjQy
+NzE2LC0yMDE4MjE3OTM4LC0yMDAwODkwNTczLC05Mjg1OTk1OT
+QsODY5MjE0NjkyLC0xOTIyODYyMjE2LC0xMjM5NzgyNDgsNTEz
+MTE2ODM0LDUxMzExNjgzNCwtNDkyMjI0OTU4LDE3NjE5NTg0MD
+csMjc3MDI1NzU1LDExMTkzNDI3NDUsLTEyMzQxMjI2MTgsLTE3
+NDcwNjAyODNdfQ==
 -->
