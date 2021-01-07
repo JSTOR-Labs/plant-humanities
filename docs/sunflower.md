@@ -134,7 +134,7 @@ There is a longstanding cultural assumption that sunflowers are heliotropic thro
 <param ve-entity eid="Q2602751" title="dorsal">
 <param ve-entity eid="Q3429717" title="ventral">
 <param ve-entity eid="Q729496" title="bract" aliases="bracts">
-In the eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing cultivated sunflowers that allowed them to communicate scientific knowledge about the plant. This hand-colored print _Anatomy of the Sunflower_, designed by [Peter Henderson](http://vocab.getty.edu/page/ulan/500042021), exemplifies a mode of artistic engagement with plants tailored to the needs of botanists. Henderson’s image shows a partial view of two mature specimens—facing opposite directions—to communicate valuable information about their dorsal and ventral anatomical structures. Yet Henderson takes some aesthetic liberties to imbue the flower heads with a sense of movement and vitality, expanding the appeal of the illustration beyond scientists to plant and art collectors as well. At the center of <span data-click-image-zoomto="982,2706,2213,1795">the left flower,</span> a series of green scallop-like shapes describe how bracts grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. A close look at <span data-click-image-zoomto="3200,1997,1038,897">the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets.
+In the eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing cultivated sunflowers that allowed them to communicate scientific knowledge about the plant. This hand-colored print _Anatomy of the Sunflower_, designed by[Peter Henderson](http://vocab.getty.edu/page/ulan/500042021), exemplifies a mode of artistic engagement with plants tailored to the needs of botanists.[^ref26] Henderson’s image shows a partial view of two mature specimens—facing opposite directions—to communicate valuable information about their dorsal and ventral morphological structures. Yet his design takes some aesthetic liberties to imbue the flower heads with a sense of movement and vitality, expanding the appeal of the illustration beyond scientists to plant and art collectors as well. At the center of <span data-click-image-zoomto="982,2706,2213,1795">the left flower,</span> a series of green scallop-like shapes describe how bracts grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. A close look at <span data-click-image-zoomto="3200,1997,1038,897">the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 
 <param ve-entity eid="Q14847254" title="Compositae"> 
@@ -256,11 +256,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDA2NDMyMyw4MTMwMzUzMTcsLTk3Nz
-I0MjcxNiwtOTc3MjQyNzE2LC05NzcyNDI3MTYsLTIwMTgyMTc5
-MzgsLTIwMDA4OTA1NzMsLTkyODU5OTU5NCw4NjkyMTQ2OTIsLT
-E5MjI4NjIyMTYsLTEyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2
-ODM0LC00OTIyMjQ5NTgsMTc2MTk1ODQwNywyNzcwMjU3NTUsMT
-ExOTM0Mjc0NSwtMTIzNDEyMjYxOCwtMTc0NzA2MDI4MywtMTg0
-NDA3OTEzM119
+eyJoaXN0b3J5IjpbODE4OTgwMTI5LDgxMzAzNTMxNywtOTc3Mj
+QyNzE2LC05NzcyNDI3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkz
+OCwtMjAwMDg5MDU3MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMT
+kyMjg2MjIxNiwtMTIzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4
+MzQsLTQ5MjIyNDk1OCwxNzYxOTU4NDA3LDI3NzAyNTc1NSwxMT
+E5MzQyNzQ1LC0xMjM0MTIyNjE4LC0xNzQ3MDYwMjgzLC0xODQ0
+MDc5MTMzXX0=
 -->
