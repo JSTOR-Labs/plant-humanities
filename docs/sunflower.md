@@ -200,7 +200,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref4]: Carl von Linné, _Critica Botanica_ (Lugduni Batavorum: Apud Conradum Wishoff, 1737), 97, accessed January 6, 2021, [https://bibdigital.rjb.csic.es/idurl/1/11541](https://bibdigital.rjb.csic.es/idurl/1/11541).
 
-[^ref5]: Translated in Alice Dickinson, _Carl Linnaeus; Pioneer of Modern Botany_ (New York: F. Watts, 1967), 125, accessed January 7, 2021, https://archive.org/details/carllinnaeuspion00dick.
+[^ref5]: Translated in Alice Dickinson, _Carl Linnaeus; Pioneer of Modern Botany_ (New York: F. Watts, 1967), 125, accessed January 7, 2021, [https://catalog.hathitrust.org/Record/001490099](https://catalog.hathitrust.org/Record/001490099).
 
 [^ref4]: Charles B. Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," _Genetic Resources and Crop Evolution_ 55, no. 1 (2008): 9-13.
 
@@ -245,7 +245,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzI5NTk2OSwtOTc3MjQyNzE2LC05Nz
+eyJoaXN0b3J5IjpbLTgxMTM0ODI3NywtOTc3MjQyNzE2LC05Nz
 cyNDI3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkzOCwtMjAwMDg5
 MDU3MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMTkyMjg2MjIxNi
 wtMTIzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4MzQsLTQ5MjIy
