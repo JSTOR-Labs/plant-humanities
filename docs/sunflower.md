@@ -32,7 +32,7 @@ A cultural history of the sunflower that attends to the circulation and signific
 
 <param ve-entity eid="Q10432667306" title="Carl Linnaeus" aliases="Carolus Linnaeus">
 <param ve-entity eid="Q66425303" title="iconic">
-The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2%29)_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—and the species _Helianthus annuus_ were named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the domesticated sunflower was already a beloved garden flower in Europe.[^ref2] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_, from 1737, offers some insights. He writes, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?”[^ref3] His encomium on the splendor of a mature _Helianthus_ inflorescence and its formal resemblance to the sun demonstrates some traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
+The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2%29)_—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—and the species _Helianthus annuus_ were named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the domesticated sunflower was already a beloved garden flower in Europe.[^ref3] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_, from 1737, offers some insights. He writes, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?”[^ref4] His encomium on the splendor of a mature _Helianthus_ inflorescence and its formal resemblance to the sun demonstrates some traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
 <param ve-image primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000113.tif/4.838541666666667,2.4198717948717947,924.1614583333334,1502.7403846153845/!382,621/0/default.jpg" title="Carolus Linnaeus, _Critica botanica_, Lugduni Batavorum: Apud Conradum Wishoff, 1737, 97 © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/e8/2c/8e/2a/e82c8e2a-35c2-486b-91f5-aa4582260a34/iiif/LINN_0276S_000114.tif/2.4168797953964196,7.2548076923076925,925.6649616368287,1489.6538461538462/!383,616/0/default.jpg" title="Carolus Linnaeus, _Critica botanica_, Lugduni Batavorum: Apud Conradum Wishoff, 1737, 98 © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
@@ -194,9 +194,9 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 ### References
 [^ref1]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706).
 
-[^ref1]: Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
+[^ref2]: Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
 
-[^ref2]: Carl von Linné, _Species plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 904-06, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.669](https://doi.org/10.5962/bhl.title.669 "DOI"); Carl von Linné, _Genera plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 386, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.746](https://doi.org/10.5962/bhl.title.746).
+[^ref3]: Carl von Linné, _Species plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 904-06, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.669](https://doi.org/10.5962/bhl.title.669 "DOI"); Carl von Linné, _Genera plantarum_, Holmiæ (Stockholm): Impensis Laurentii Salvii, 1754, 386, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.746](https://doi.org/10.5962/bhl.title.746).
 
 [^ref3]: Translated in Alice Dickinson, _Carl Linnaeus; Pioneer of Modern Botany_ (New York: F. Watts, 1967), 125, accessed October 7, 2020, HathiTrust.
 
@@ -243,11 +243,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODkxNTQ4MzksLTk3NzI0MjcxNiwtOT
-c3MjQyNzE2LC05NzcyNDI3MTYsLTIwMTgyMTc5MzgsLTIwMDA4
-OTA1NzMsLTkyODU5OTU5NCw4NjkyMTQ2OTIsLTE5MjI4NjIyMT
-YsLTEyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2ODM0LC00OTIy
-MjQ5NTgsMTc2MTk1ODQwNywyNzcwMjU3NTUsMTExOTM0Mjc0NS
-wtMTIzNDEyMjYxOCwtMTc0NzA2MDI4MywtMTg0NDA3OTEzMywt
-NzUwNjI1MTM0XX0=
+eyJoaXN0b3J5IjpbLTM1MjY1MjI4MSwtOTc3MjQyNzE2LC05Nz
+cyNDI3MTYsLTk3NzI0MjcxNiwtMjAxODIxNzkzOCwtMjAwMDg5
+MDU3MywtOTI4NTk5NTk0LDg2OTIxNDY5MiwtMTkyMjg2MjIxNi
+wtMTIzOTc4MjQ4LDUxMzExNjgzNCw1MTMxMTY4MzQsLTQ5MjIy
+NDk1OCwxNzYxOTU4NDA3LDI3NzAyNTc1NSwxMTE5MzQyNzQ1LC
+0xMjM0MTIyNjE4LC0xNzQ3MDYwMjgzLC0xODQ0MDc5MTMzLC03
+NTA2MjUxMzRdfQ==
 -->
