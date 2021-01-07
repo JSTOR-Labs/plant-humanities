@@ -231,7 +231,7 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 [^ref20]: Heiser, "The Domesticated Sunflower in Mexico?," 449; Bruce D. Smith, "Eastern North America as an Independent Center of Plant Domestication," _Proceedings of the National Academy of Science of the Unites States of America_ 103, no. 33 (August 15, 2006): 12223-28.
 
-[^ref21]: John Peacock, _The Look of Van Dyck: The Self-Portrait with a Sunflower and the Vision of the Painter_ (Burlington, VT: Ashgate, 2006), 116, HathiTrust, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
+[^ref21]: John Peacock, _The Look of Van Dyck: The Self-Portrait with a Sunflower and the Vision of the Painter_ (Burlington, VT: Ashgate, 2006), 116, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
 
 [^ref17]: Jean-Michel Othoniel, “_Helianthus annuus_ Sunflower,” in _The Secret Language of Flowers: Notes on the Hidden Meanings of Flowers in Art_ (Boston, MA: Actes Sud/Isabella Stewart Gardner Museum, 2015), 66.
 
@@ -250,11 +250,11 @@ Visual representations of sunflowers have shaped and been shaped by human intera
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3MTIzOTcsODEzMDM1MzE3LC05NzcyND
-I3MTYsLTk3NzI0MjcxNiwtOTc3MjQyNzE2LC0yMDE4MjE3OTM4
-LC0yMDAwODkwNTczLC05Mjg1OTk1OTQsODY5MjE0NjkyLC0xOT
-IyODYyMjE2LC0xMjM5NzgyNDgsNTEzMTE2ODM0LDUxMzExNjgz
-NCwtNDkyMjI0OTU4LDE3NjE5NTg0MDcsMjc3MDI1NzU1LDExMT
-kzNDI3NDUsLTEyMzQxMjI2MTgsLTE3NDcwNjAyODMsLTE4NDQw
-NzkxMzNdfQ==
+eyJoaXN0b3J5IjpbMTI4NTMwNzc3Myw4MTMwMzUzMTcsLTk3Nz
+I0MjcxNiwtOTc3MjQyNzE2LC05NzcyNDI3MTYsLTIwMTgyMTc5
+MzgsLTIwMDA4OTA1NzMsLTkyODU5OTU5NCw4NjkyMTQ2OTIsLT
+E5MjI4NjIyMTYsLTEyMzk3ODI0OCw1MTMxMTY4MzQsNTEzMTE2
+ODM0LC00OTIyMjQ5NTgsMTc2MTk1ODQwNywyNzcwMjU3NTUsMT
+ExOTM0Mjc0NSwtMTIzNDEyMjYxOCwtMTc0NzA2MDI4MywtMTg0
+NDA3OTEzM119
 -->
