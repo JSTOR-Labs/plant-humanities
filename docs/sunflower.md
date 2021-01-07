@@ -184,7 +184,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 
 ### Gone to Seed
 
-<param ve-entity eid="Q1141466" title="pollinator" aliases="sustainable">
+<param ve-entity eid="Q1141466" title="pollinator">
 <param ve-entity eid="Q2336124" title="defamiliarization" aliases="defamiliarizes">
 Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms during the summer months. At this stage of growth, the mature flower faces east, and its warmth and radiant yellow ray florets together attract insect pollinators. Once pollinated and fertilized, the plant develops seeds that slowly ripen. They are ready for harvesting when the flower head sheds its petals, droops, and turns yellow and then brown. That final stage of the annual's lifecycle is poignantly evoked in Vincent van Gogh's 1887 painting _Sunflowers_. The left and center sections of the picture show a dried flower head with exposed kernels. Its dark-brown, rust-orange, and aqua disk nestles against the desiccated yellow husk of a second once-vibrant flower. The plant portrait radically departs from the visual conventions for representing the domesticated sunflower at the height of its beauty, as a mature golden flower poised atop a thick vertical stem adorned with robust leaves. Conversely, Van Gogh defamiliarizes the left plant by portraying it with a few wilted rays, lying flat and inert. That withered floral imagery unsettles our tendency to appreciate the sunflower primarily for its beauty or utility, while also challenging a deeply held assumption that such natural resources are infinitely replenishable. In all of these ways, Van Gogh's [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori) invites us to bring greater attentiveness, care, and gratitude to our relationships with all plants, though none more so than the glorious sunflower.
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
@@ -255,7 +255,7 @@ Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms du
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MzIyMTQ0LDIxMDc1MjU3NCwyMTA3NT
+eyJoaXN0b3J5IjpbNTcxNjUxMTcwLDIxMDc1MjU3NCwyMTA3NT
 I1NzQsMjEwNzUyNTc0LDY3NzQzNjQ5MCwtMTE5ODk3NDQxOCw4
 MTMwMzUzMTcsLTk3NzI0MjcxNiwtOTc3MjQyNzE2LC05NzcyND
 I3MTYsLTIwMTgyMTc5MzgsLTIwMDA4OTA1NzMsLTkyODU5OTU5
