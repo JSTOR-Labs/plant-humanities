@@ -184,7 +184,6 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 
 ### Gone to Seed
 
-<param ve-entity eid="Q11084414" title="modernity">
 <param ve-entity eid="Q219416" title="sustainability" aliases="sustainable">
 <param ve-entity eid="Q2336124" title="defamiliarization">
 Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms during the summer months. At this stage of growth, the mature flower faces east, and its warmth and radiant yellow ray florets together attract insect pollinators. Once pollinated and fertilized, the plant develops seeds that slowly ripen. They are ready for harvesting when the flower head sheds its petals, droops, and turns yellow and then brown. That final stage of the annual’s lifecycle is poignantly evoked in Vincent van Gogh's 1887 painting _Sunflowers_. The left and center sections of the picture show a dried flower head with exposed kernels. Its dark-brown, rust-orange, and aqua disk nestles against the desiccated yellow husk of a second once-vibrant flower. The plant portrait radically departs from the visual conventions for representing the domesticated sunflower at the height of its beauty, as a mature golden flower poised atop a thick vertical stem adorned with robust leaves. Conversely, Van Gogh defamiliarizes the left plant by portraying it with a few wilted rays, lying flat and inert. That withered floral imagery unsettles our tendency to appreciate the sunflower primarily for its beauty or utility, while also challenging a deeply held assumption that such natural resources are infinitely replenishable. In all of these ways, Van Gogh's [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori) invites us to bring greater attentiveness, care, and gratitude to our relationships with all plants, though none more so than the glorious sunflower.
@@ -256,11 +255,11 @@ Cultivated _Helianthus annuus_ is a fast-growing sun-loving plant that blooms du
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzUyNTc0LDIxMDc1MjU3NCwyMTA3NT
-I1NzQsNjc3NDM2NDkwLC0xMTk4OTc0NDE4LDgxMzAzNTMxNywt
-OTc3MjQyNzE2LC05NzcyNDI3MTYsLTk3NzI0MjcxNiwtMjAxOD
-IxNzkzOCwtMjAwMDg5MDU3MywtOTI4NTk5NTk0LDg2OTIxNDY5
-MiwtMTkyMjg2MjIxNiwtMTIzOTc4MjQ4LDUxMzExNjgzNCw1MT
-MxMTY4MzQsLTQ5MjIyNDk1OCwxNzYxOTU4NDA3LDI3NzAyNTc1
-NV19
+eyJoaXN0b3J5IjpbMTA1NjkwNTEyNSwyMTA3NTI1NzQsMjEwNz
+UyNTc0LDIxMDc1MjU3NCw2Nzc0MzY0OTAsLTExOTg5NzQ0MTgs
+ODEzMDM1MzE3LC05NzcyNDI3MTYsLTk3NzI0MjcxNiwtOTc3Mj
+QyNzE2LC0yMDE4MjE3OTM4LC0yMDAwODkwNTczLC05Mjg1OTk1
+OTQsODY5MjE0NjkyLC0xOTIyODYyMjE2LC0xMjM5NzgyNDgsNT
+EzMTE2ODM0LDUxMzExNjgzNCwtNDkyMjI0OTU4LDE3NjE5NTg0
+MDddfQ==
 -->
