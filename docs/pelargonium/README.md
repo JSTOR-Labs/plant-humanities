@@ -29,7 +29,6 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is a
 The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period.  The particular morphology of the plant lends the genus its name; _Pelargonium_ comes from the Greek word _pelargos_ ("[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”) which alludes to its long, almost beak-shaped fruit.
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="Pelargonium alchemilloides (L.) L'Hér.">
 
-
 <param ve-entity eid="Q157211" title="geranium" aliases="Geranium"> 
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
 <param ve-entity eid="Q18083598" title="Pelargonium inquinans"> 
@@ -39,6 +38,7 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 
 ### Introduction to Europe and Nomenclature Confusion
 
+The _Pelargonium_ is native to Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. Portuguese and Dutch traders first introduced the plant to Europe on their return from making colonial voyages to present-day South Africa. Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the Leiden Botanical Garden by Paul Hermann, a medical officer with the Dutch East India company (VOC).
 
 
 ### References
@@ -48,10 +48,10 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzU1NDczMSwzMTgyNjI5MTQsLTE4Nj
-UxNzgwMzEsLTQ4NTU5OTg0NiwtNTAwNjA5ODgwLC0xODM5ODI5
-ODM2LC0xMDM2MzAzMTAzLDY3NDU4MjYwNSwtOTE0NTkwMDk2LC
-0xODY4NTk2ODk5LC0xNTQxNjgwOTE0LC02OTMwODIyNjksLTk4
-MTUxNTQyNiwyMjUxMjgwNTgsNjkzODIzMDU4LC04MDA1ODU5MD
-RdfQ==
+eyJoaXN0b3J5IjpbLTE1MzY0NTcyNjksMzE4MjYyOTE0LC0xOD
+Y1MTc4MDMxLC00ODU1OTk4NDYsLTUwMDYwOTg4MCwtMTgzOTgy
+OTgzNiwtMTAzNjMwMzEwMyw2NzQ1ODI2MDUsLTkxNDU5MDA5Ni
+wtMTg2ODU5Njg5OSwtMTU0MTY4MDkxNCwtNjkzMDgyMjY5LC05
+ODE1MTU0MjYsMjI1MTI4MDU4LDY5MzgyMzA1OCwtODAwNTg1OT
+A0XX0=
 -->
