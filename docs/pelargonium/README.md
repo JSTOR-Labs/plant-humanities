@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config
-       title="A _Pelargonium_ by any Other Name Would Smell as Sweet…"
+       title="A _Pelargonium_ by Any Other Name Would Smell as Sweet…"
        author="Daisy Reid, Verónica Matallana Chaves, Yao Jiang"
        source-image="blob:null/350ec559-ab4d-204b-ad69-901393a2d9adhttps://www.biodiversitylibrary.org/item/53838#page/149/mode/1up"
        banner="https://ids.lib.harvard.edu/ids/iiif/435776338/full/full/0/default.jpg"
@@ -27,7 +27,7 @@ However, you might be surprised to learn that the scarlet geranium with which Di
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjUwMDI0MCwtNjkzMDgyMjY5LC05OD
-E1MTU0MjYsMjI1MTI4MDU4LDY5MzgyMzA1OCwtODAwNTg1OTA0
-XX0=
+eyJoaXN0b3J5IjpbLTExMDgzMTQ2NDAsLTY5MzA4MjI2OSwtOT
+gxNTE1NDI2LDIyNTEyODA1OCw2OTM4MjMwNTgsLTgwMDU4NTkw
+NF19
 -->
