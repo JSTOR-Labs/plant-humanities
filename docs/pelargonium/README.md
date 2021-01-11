@@ -46,7 +46,7 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
 The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia, though it was first collected by Europeans in present-day South Africa in the late 1500s. Portuguese and Dutch traders harvested pelargoniums there, transporting the plants to Europe on their return from making colonial voyages.
-<param ve-map center="15.969, 74.966" zoom="2.5">
+<param ve-map center="-7.347, 72.45474968040142" zoom="2.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
 
@@ -176,11 +176,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU1NzM4NjcsMTM5MzUzNDkyLC04OD
-gxMzU1NjAsLTE4MzQ3MTIyMjUsMTcxNjg0OTYzNCwtMTkxNTY5
-NTUwNSwtMTkxNTY5NTUwNSwtMTU3MTAyNDIsMTgwODQ1MTI1Mi
-wxNTE0MjA1MjQyLC0xMTQ3OTY2MjAzLC0xMDU3MzE3MTg2LC0x
-MDMxNjYwOTMwLDE1NzMzMzMzMjUsNzE1Njk3ODE5LC0xMzAyMz
-g1MzQ0LDEwODM5NTk2OTIsMzQ1NjI0MzQ3LC01MDc2MzMzNTcs
-LTQ3Njc4MTA2OV19
+eyJoaXN0b3J5IjpbMTk0MDIzNzEwMiwtMjA3NTU3Mzg2NywxMz
+kzNTM0OTIsLTg4ODEzNTU2MCwtMTgzNDcxMjIyNSwxNzE2ODQ5
+NjM0LC0xOTE1Njk1NTA1LC0xOTE1Njk1NTA1LC0xNTcxMDI0Mi
+wxODA4NDUxMjUyLDE1MTQyMDUyNDIsLTExNDc5NjYyMDMsLTEw
+NTczMTcxODYsLTEwMzE2NjA5MzAsMTU3MzMzMzMyNSw3MTU2OT
+c4MTksLTEzMDIzODUzNDQsMTA4Mzk1OTY5MiwzNDU2MjQzNDcs
+LTUwNzYzMzM1N119
 -->
