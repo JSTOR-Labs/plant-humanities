@@ -87,7 +87,8 @@ The pelargonium was a favored plant of municipal gardeners because the hardy eve
 <param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47">
 
 By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly instated as a staple in British domestic interiors, gardens, and patios. In his hugely popular 1875 book [_The amateur's flower garden_](https://www.biodiversitylibrary.org/bibliography/145001#/summary), Shirley Hibberd included designs for creating a harmonious pelargonium garden—“geranium garden”—based on the plant’s striking colour variations. In the layout of a panel garden, Hibberd suggests two potential summer schemes: one for a red-harmony garden, and another for a blue-harmony style.[^ref12] By 1895, writers such as Donald McDonald were still echoing Hibberd’s domestic horticultural penchant for the plant; McDonald wrote that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums,” a testament to the long-standing appeal of _Pelargoniums_ in British Victorian culture.[^ref13]
-<param ve-image primary fit="contain" url="https://ia903006.us.archive.org/BookReader/BookReaderImages.php?id=miniaturelangua00burk&itemPath=%2F15%2Fitems%2Fminiaturelangua00burk&server=ia903006.us.archive.org&page=n33_w436" title="<The broad range of varieties and scents of _Pelargonium_ (under the name _Geranium_, of course) made it a favourite in the Victorian “language of flowers.” This concealed language allowed members of upper-class society to use specific flowers as a sort of code to pass on secret, often romantic, messages that they were forbidden from speaking aloud. Here, we can see that the scarlet Geranium (_P. inquinans_) means “comfort.” Excerpt from L. Burke’s _The Miniature Language of Flowers_, Biodiversity Heritage Library">
+<param ve-image primary fit="contain" url="https://www.biodiversitylibrary.org/pageimage/55342041" title="Shirley Hibberd’s Victorian garden plans, including bedding pelargoniums, in _The amateur’s flower garden_, Biodiversity Heritage Library">
+<param ve-image fit="contain" url="https://ia600109.us.archive.org/BookReader/BookReaderImages.php?id=amateursflowerga00hibb&itemPath=%2F9%2Fitems%2Famateursflowerga00hibb&server=ia600109.us.archive.org&page=n31_w363" title="Shirley Hibberd’s Victorian garden plans, including bedding pelargoniums, in _The amateur’s flower garden_, Biodiversity Heritage Library">
 
 ### The “Genteel” _Geranium_ and Working-class Culture
 
@@ -171,7 +172,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ2OTczNDQsLTEwNTczMTcxODYsLT
+eyJoaXN0b3J5IjpbLTExNDc5NjYyMDMsLTEwNTczMTcxODYsLT
 EwMzE2NjA5MzAsMTU3MzMzMzMyNSw3MTU2OTc4MTksLTEzMDIz
 ODUzNDQsMTA4Mzk1OTY5MiwzNDU2MjQzNDcsLTUwNzYzMzM1Ny
 wtNDc2NzgxMDY5LDExODU5ODU1OTAsLTk0MTMzOTQ1NSwxNjA5
