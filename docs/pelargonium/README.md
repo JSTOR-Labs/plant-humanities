@@ -73,10 +73,8 @@ Botanists have struggled to disentangle the _Pelargonium_ and the _Geranium_ sin
 ### The Wardian Case: A New Horizon for Overseas Plant Transport
 
 <param ve-entity eid="Q2779805" title="Wardian case">
-<param ve-entity eid="Q66569" title="Paul Hermann">
-<param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
-<param ve-entity eid="Q43631" title="Leiden">
-Early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container in which plants could survive, without watering, for months at a time. Prior to that technology, botanists encountered dreadful difficulties transporting live specimens during overseas voyages. Such journeys lasted for months, during which time plants suffered from exposure to salt water and harsh weather, extreme changes in climate, and lack of proper care. Indeed, John Livingstone estimated in 1819 that “only one in a thousand plants survived the journey.”[^ref8] The Wardian case created the conditions for a major globe plant migration on an unprecedented scale, as the glazed box was employed extensively by colonial enterprises, botanic gardens, plant nurseries, and individual collectors.[^ref9] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotics indoors in such ornamental glass furnishings, safely protected from the industrial pollution in the air as well as the varying temperatures of the British climate.
+<param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
+Early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container in which plants could survive, without watering, for months at a time. Prior to that technology, botanists encountered dreadful difficulties transporting live specimens during overseas voyages. Such journeys lasted for months, during which time plants suffered from exposure to salt water and harsh weather, extreme changes in climate, and lack of proper care. Indeed, John Livingstone estimated in 1819 that “only one in a thousand plants survived the journey.”[^ref8] The Wardian case created the conditions for a major globe plant migration on an unprecedented scale, as the glazed box was employed extensively by colonial enterprises, botanic gardens, plant nurseries, and individual collectors.[^ref9] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotics indoors in such ornamental glass furnishings, safely protected from the industrial pollution in the air as well as the varying temperatures of the British climate.[^ref10]
 <param ve-image primary fit="contain" url="https://ia800604.us.archive.org/BookReader/BookReaderImages.php?id=ongrowthplantsc00ward&itemPath=%2F0%2Fitems%2Fongrowthplantsc00ward&server=ia800604.us.archive.org&page=n52_w325" title="An 1852 illustration of the Wardian case by Nathaniel Bagshaw Ward, the physician and botanist for whom the case was named, from _On the Growth of Plants in Closely Glazed Cases_">
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835239&t=w" title="Illustration of the Wardian case in a home space, 1872">
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835246&t=w" title="Illustration of three Wardian cases in the domestic space, 1870">
@@ -99,8 +97,10 @@ Early-1830s Britain saw the groundbreaking invention of the Wardian case, a seal
 [^ref8]: Keogh, Luke. _The Wardian Case: How a Simple Box Moved Plants and Saved the World_. University of Chicago Press, 2020.
 
 [^ref9]: Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
+
+[^ref10]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjM1NzQ4NTcsMzQ1NjI0MzQ3LC01MD
+eyJoaXN0b3J5IjpbLTEwMDEyMjQ0NTcsMzQ1NjI0MzQ3LC01MD
 c2MzMzNTcsLTQ3Njc4MTA2OSwxMTg1OTg1NTkwLC05NDEzMzk0
 NTUsMTYwOTYxOTUzNCwxMDU0MTkyNTA3LC0xNDY0MzQ4MTU2LC
 02MzY2MTMxNzMsLTgwMDY0NjQ2NSwyMDkwMDI5MTY3LC04MDAx
