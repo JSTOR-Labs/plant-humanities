@@ -38,10 +38,13 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 
 ### Introduction to Europe and Nomenclature Confusion
 
-The _Pelargonium_ is native to Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. Portuguese and Dutch traders first introduced the plant to Europe on their return from making colonial voyages to present-day South Africa. Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the Leiden Botanical Garden by Paul Hermann, a medical officer with the Dutch East India company (VOC).
-<param ve-image url="https://bibdigital.rjb.csic.es/i/?IIIF=/bc/98/80/89/bc988089-fe6a-44fc-830c-54d8ada8d3b2/iiif/COR_Canad_Pl_000126.tif/3.3666666666666667,16.836734693877553,1309.6333333333334,1781.3265306122448/!389,529/0/default.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
+The _Pelargonium_ is native to Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. Portuguese and Dutch traders first introduced the plant to Europe on their return from making colonial voyages to present-day South Africa. 
 <param ve-map center="40, 0" zoom="1.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
+
+Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the Leiden Botanical Garden by Paul Hermann, a medical officer with the Dutch East India company (VOC).
+<param ve-image url="https://bibdigital.rjb.csic.es/i/?IIIF=/bc/98/80/89/bc988089-fe6a-44fc-830c-54d8ada8d3b2/iiif/COR_Canad_Pl_000126.tif/3.3666666666666667,16.836734693877553,1309.6333333333334,1781.3265306122448/!389,529/0/default.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
+
 
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
@@ -50,7 +53,7 @@ The _Pelargonium_ is native to Southern Africa, St. Helena, Asia Minor, Madagasc
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDE0MjQwMSwtNTk2MjY4MzYzLDMxOD
+eyJoaXN0b3J5IjpbLTIxNTgwMTc1NywtNTk2MjY4MzYzLDMxOD
 I2MjkxNCwtMTg2NTE3ODAzMSwtNDg1NTk5ODQ2LC01MDA2MDk4
 ODAsLTE4Mzk4Mjk4MzYsLTEwMzYzMDMxMDMsNjc0NTgyNjA1LC
 05MTQ1OTAwOTYsLTE4Njg1OTY4OTksLTE1NDE2ODA5MTQsLTY5
