@@ -108,7 +108,7 @@ Today, pelargonium oil continues to be industrially produced in factories across
 ### Conclusion
 
 Although the _Pelargonium_ by any other name would smell as sweet, our recognition of its unique identity is long overdue. Indeed, the _Pelargonium_’s almost-forgotten global history extremely rich blossoming as it does at the intersections of colonial trade, botany, agriculture, gardening, art, culture, and industry. Telling the story of the _Pelargonium_ as an entity separate from the _Geranium_, illuminates just some of the many ways in which it has been interwoven with human histories – hiding in plain sight, as it were, by virtue of its long-persisting misnomer.
-<param ve-image primary fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.item.r=Geranium.zoom" title="Anthony van Dyck, _Self-Portrait with a Sunflower_, c. 1632 or 1633, Eaton Hall, Cheshire, England, Wikimedia Commons">
+<param ve-image primary fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.item.r=Geranium.zoom" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), c. 1632, Wikimedia Commons">
 
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
@@ -147,11 +147,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1NTAyNjI0LDEwODM5NTk2OTIsMzQ1Nj
-I0MzQ3LC01MDc2MzMzNTcsLTQ3Njc4MTA2OSwxMTg1OTg1NTkw
-LC05NDEzMzk0NTUsMTYwOTYxOTUzNCwxMDU0MTkyNTA3LC0xND
-Y0MzQ4MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NSwyMDkwMDI5
-MTY3LC04MDAxMTQwOTksLTE3NjQ1NTA3MTcsLTEwMzMzNjA2OD
-QsLTU5NjI2ODM2MywzMTgyNjI5MTQsLTE4NjUxNzgwMzEsLTQ4
-NTU5OTg0Nl19
+eyJoaXN0b3J5IjpbLTc0Mzg2OTE0MSwxMDgzOTU5NjkyLDM0NT
+YyNDM0NywtNTA3NjMzMzU3LC00NzY3ODEwNjksMTE4NTk4NTU5
+MCwtOTQxMzM5NDU1LDE2MDk2MTk1MzQsMTA1NDE5MjUwNywtMT
+Q2NDM0ODE1NiwtNjM2NjEzMTczLC04MDA2NDY0NjUsMjA5MDAy
+OTE2NywtODAwMTE0MDk5LC0xNzY0NTUwNzE3LC0xMDMzMzYwNj
+g0LC01OTYyNjgzNjMsMzE4MjYyOTE0LC0xODY1MTc4MDMxLC00
+ODU1OTk4NDZdfQ==
 -->
