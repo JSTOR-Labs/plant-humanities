@@ -89,13 +89,13 @@ Early-1830s Britain saw the groundbreaking invention of the Wardian case, a seal
 
 [^ref8]: Keogh, Luke. _The Wardian Case: How a Simple Box Moved Plants and Saved the World_. University of Chicago Press, 2020.
 
-[^ref9]: <![endif]--> Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
+[^ref9]: Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODM3MTc3NCwtNTA3NjMzMzU3LC00Nz
-Y3ODEwNjksMTE4NTk4NTU5MCwtOTQxMzM5NDU1LDE2MDk2MTk1
-MzQsMTA1NDE5MjUwNywtMTQ2NDM0ODE1NiwtNjM2NjEzMTczLC
-04MDA2NDY0NjUsMjA5MDAyOTE2NywtODAwMTE0MDk5LC0xNzY0
-NTUwNzE3LC0xMDMzMzYwNjg0LC01OTYyNjgzNjMsMzE4MjYyOT
-E0LC0xODY1MTc4MDMxLC00ODU1OTk4NDYsLTUwMDYwOTg4MCwt
-MTgzOTgyOTgzNl19
+eyJoaXN0b3J5IjpbMzQ1NjI0MzQ3LC01MDc2MzMzNTcsLTQ3Nj
+c4MTA2OSwxMTg1OTg1NTkwLC05NDEzMzk0NTUsMTYwOTYxOTUz
+NCwxMDU0MTkyNTA3LC0xNDY0MzQ4MTU2LC02MzY2MTMxNzMsLT
+gwMDY0NjQ2NSwyMDkwMDI5MTY3LC04MDAxMTQwOTksLTE3NjQ1
+NTA3MTcsLTEwMzMzNjA2ODQsLTU5NjI2ODM2MywzMTgyNjI5MT
+QsLTE4NjUxNzgwMzEsLTQ4NTU5OTg0NiwtNTAwNjA5ODgwLC0x
+ODM5ODI5ODM2XX0=
 -->
