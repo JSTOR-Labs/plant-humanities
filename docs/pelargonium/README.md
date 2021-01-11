@@ -108,7 +108,7 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-entity eid="Q262" title="Algeria">
 <param ve-entity eid="Q173705" title="Grasse">
 <param ve-entity eid="Q29520" title="China">
-<param ve-entity eid="Q79" title="Egypt">
+<param ve-entity eid="Q34687" title="Rosa" aliases="roses">
 In 1847, the French perfume industries of Grasse, including the company of Léon Chiris Léopold Chiris? , introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it. Algeria was considered an ideal place for doing so due to its warm arid and semi-arid climate and the low cost of colonial labor needed for the "preparation and planting of cuttings, weeding of fields, harvesting of the material to be distilled." Perfumers selected pelargoniums because most species have a sweet aroma similar to roses. Such oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant.
 
 <param ve-entity eid="Q2344308" title="Boufarik">
@@ -162,11 +162,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0NjgxNjAsNzE1Njk3ODE5LC0xMzAyMz
-g1MzQ0LDEwODM5NTk2OTIsMzQ1NjI0MzQ3LC01MDc2MzMzNTcs
-LTQ3Njc4MTA2OSwxMTg1OTg1NTkwLC05NDEzMzk0NTUsMTYwOT
-YxOTUzNCwxMDU0MTkyNTA3LC0xNDY0MzQ4MTU2LC02MzY2MTMx
-NzMsLTgwMDY0NjQ2NSwyMDkwMDI5MTY3LC04MDAxMTQwOTksLT
-E3NjQ1NTA3MTcsLTEwMzMzNjA2ODQsLTU5NjI2ODM2MywzMTgy
-NjI5MTRdfQ==
+eyJoaXN0b3J5IjpbLTE2NTk5MjU0MTcsNzE1Njk3ODE5LC0xMz
+AyMzg1MzQ0LDEwODM5NTk2OTIsMzQ1NjI0MzQ3LC01MDc2MzMz
+NTcsLTQ3Njc4MTA2OSwxMTg1OTg1NTkwLC05NDEzMzk0NTUsMT
+YwOTYxOTUzNCwxMDU0MTkyNTA3LC0xNDY0MzQ4MTU2LC02MzY2
+MTMxNzMsLTgwMDY0NjQ2NSwyMDkwMDI5MTY3LC04MDAxMTQwOT
+ksLTE3NjQ1NTA3MTcsLTEwMzMzNjA2ODQsLTU5NjI2ODM2Mywz
+MTgyNjI5MTRdfQ==
 -->
