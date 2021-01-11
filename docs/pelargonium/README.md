@@ -80,7 +80,7 @@ Early-1830s Britain saw the groundbreaking invention of the Wardian case, a seal
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835239&t=w" title="Illustration of the Wardian case in a home space, 1872">
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835246&t=w" title="Illustration of three Wardian cases in the domestic space, 1870">
 
-### _Pelargonium_-mania in the Victorian Era
+### Pelargonium-mania in the Victorian Era
 
 It was against this backdrop that _Pelargoniums_ soon became the mainstay of all municipal gardens in Victorian England. The 1837 _Floricultural Cabinet_ listed the best pelargoniums for bedding as one of the old faithful multipurpose plants. The ubiquity of the plant in public spaces is also celebrated in E. Adveno Brooke’s 1858 book _The Gardens of England_. As he explains, the bright scarlet pelargonium bloomed nearly everywhere from stone vases to flowerbeds and parterres. These locations, shown in illustrations at right, include the upper and lower terrace gardens of Bewood, the colonnade of Alton Gardens, as well as the parterre of Harewood.
 <param ve-image primary fit="contain" url="Pelargonium_Bewood_BHL.jpg" title="Upper and lower terrace gardens of Bewood, scarlet pelargonium planted in stone vases and beds in _The gardens of England_, Biodiversity Heritage Library">
@@ -176,11 +176,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQzMTYwODYsLTE5MTU2OTU1MDUsLT
-E5MTU2OTU1MDUsLTE1NzEwMjQyLDE4MDg0NTEyNTIsMTUxNDIw
-NTI0MiwtMTE0Nzk2NjIwMywtMTA1NzMxNzE4NiwtMTAzMTY2MD
-kzMCwxNTczMzMzMzI1LDcxNTY5NzgxOSwtMTMwMjM4NTM0NCwx
-MDgzOTU5NjkyLDM0NTYyNDM0NywtNTA3NjMzMzU3LC00NzY3OD
-EwNjksMTE4NTk4NTU5MCwtOTQxMzM5NDU1LDE2MDk2MTk1MzQs
-MTA1NDE5MjUwN119
+eyJoaXN0b3J5IjpbMTcxNjg0OTYzNCwtMTkxNTY5NTUwNSwtMT
+kxNTY5NTUwNSwtMTU3MTAyNDIsMTgwODQ1MTI1MiwxNTE0MjA1
+MjQyLC0xMTQ3OTY2MjAzLC0xMDU3MzE3MTg2LC0xMDMxNjYwOT
+MwLDE1NzMzMzMzMjUsNzE1Njk3ODE5LC0xMzAyMzg1MzQ0LDEw
+ODM5NTk2OTIsMzQ1NjI0MzQ3LC01MDc2MzMzNTcsLTQ3Njc4MT
+A2OSwxMTg1OTg1NTkwLC05NDEzMzk0NTUsMTYwOTYxOTUzNCwx
+MDU0MTkyNTA3XX0=
 -->
