@@ -62,7 +62,7 @@ Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was proba
 The nomenclature confusion began when the plant now known as _Pelargonium_ _triste_ was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P._ _triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_ due to the superficial similarities between the genera _Geranium_ and Pelargonium. This visualization of the two plants’ overlapping global nomenclature history provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
 
-Botanists have struggled to disentangle the _Pelargonium_ and the _Geranium_ since the mid-1750s. Carl Linnaeus, in his 1753 [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for 20 pelargoniums including the _Pelargonium zonale_.[^ref5] 
+Botanists have struggled to disentangle the _Pelargonium_ and the _Geranium_ since the mid-1750s. Carl Linnaeus, in his 1753 [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for 20 pelargoniums including the _Pelargonium zonale_.[^ref5] Because Linnaean taxonomy was so revered at that time, Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargoniums_ as an independent genus was overlooked.[^ref6] Eventually, by creating ten new genera in the _Geraniaceae_ family, Robert Sweet introduced a serious classification system in 1820 to ease the shortfall in Linnaean nomenclature.[^ref7] However, by the early nineteenth century, pelargoniums had already attained so much popularity, particularly in England and France, that the name “geranium” stuck. 
 
 
 
@@ -75,11 +75,11 @@ Botanists have struggled to disentangle the _Pelargonium_ and the _Geranium_ sin
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk2OTgxNzQsLTQ3Njc4MTA2OSwxMT
-g1OTg1NTkwLC05NDEzMzk0NTUsMTYwOTYxOTUzNCwxMDU0MTky
-NTA3LC0xNDY0MzQ4MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NS
-wyMDkwMDI5MTY3LC04MDAxMTQwOTksLTE3NjQ1NTA3MTcsLTEw
-MzMzNjA2ODQsLTU5NjI2ODM2MywzMTgyNjI5MTQsLTE4NjUxNz
-gwMzEsLTQ4NTU5OTg0NiwtNTAwNjA5ODgwLC0xODM5ODI5ODM2
-LC0xMDM2MzAzMTAzXX0=
+eyJoaXN0b3J5IjpbLTY2MDM5NjQwMCwtNDc2NzgxMDY5LDExOD
+U5ODU1OTAsLTk0MTMzOTQ1NSwxNjA5NjE5NTM0LDEwNTQxOTI1
+MDcsLTE0NjQzNDgxNTYsLTYzNjYxMzE3MywtODAwNjQ2NDY1LD
+IwOTAwMjkxNjcsLTgwMDExNDA5OSwtMTc2NDU1MDcxNywtMTAz
+MzM2MDY4NCwtNTk2MjY4MzYzLDMxODI2MjkxNCwtMTg2NTE3OD
+AzMSwtNDg1NTk5ODQ2LC01MDA2MDk4ODAsLTE4Mzk4Mjk4MzYs
+LTEwMzYzMDMxMDNdfQ==
 -->
