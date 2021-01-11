@@ -120,15 +120,15 @@ The ubiquity of the _Pelargonium_ in the Victorian era soon began to carry a cul
 
 [^ref13]: McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
 
-[^ref
+[^ref14]: Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--. [https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up](https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDkwNTMzMDIsMTA4Mzk1OTY5MiwzND
-U2MjQzNDcsLTUwNzYzMzM1NywtNDc2NzgxMDY5LDExODU5ODU1
-OTAsLTk0MTMzOTQ1NSwxNjA5NjE5NTM0LDEwNTQxOTI1MDcsLT
-E0NjQzNDgxNTYsLTYzNjYxMzE3MywtODAwNjQ2NDY1LDIwOTAw
-MjkxNjcsLTgwMDExNDA5OSwtMTc2NDU1MDcxNywtMTAzMzM2MD
-Y4NCwtNTk2MjY4MzYzLDMxODI2MjkxNCwtMTg2NTE3ODAzMSwt
-NDg1NTk5ODQ2XX0=
+eyJoaXN0b3J5IjpbNDk0MDUzMTkyLDEwODM5NTk2OTIsMzQ1Nj
+I0MzQ3LC01MDc2MzMzNTcsLTQ3Njc4MTA2OSwxMTg1OTg1NTkw
+LC05NDEzMzk0NTUsMTYwOTYxOTUzNCwxMDU0MTkyNTA3LC0xND
+Y0MzQ4MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NSwyMDkwMDI5
+MTY3LC04MDAxMTQwOTksLTE3NjQ1NTA3MTcsLTEwMzMzNjA2OD
+QsLTU5NjI2ODM2MywzMTgyNjI5MTQsLTE4NjUxNzgwMzEsLTQ4
+NTU5OTg0Nl19
 -->
