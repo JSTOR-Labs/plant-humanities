@@ -46,7 +46,7 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
 The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia, though it was first collected by Europeans in present-day South Africa in the late 1500s. Portuguese and Dutch traders harvested pelargoniums there, transporting the plants to Europe on their return from making colonial voyages.
-<param ve-map center="21.849, 79.14" zoom="2.5">
+<param ve-map center="15.969, 74.966" zoom="2.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
 
@@ -73,11 +73,11 @@ The nomenclature confusion began when the plant now known as _Pelargonium_ _tris
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTk4NTU5MCwtOTQxMzM5NDU1LDE2MD
-k2MTk1MzQsMTA1NDE5MjUwNywtMTQ2NDM0ODE1NiwtNjM2NjEz
-MTczLC04MDA2NDY0NjUsMjA5MDAyOTE2NywtODAwMTE0MDk5LC
-0xNzY0NTUwNzE3LC0xMDMzMzYwNjg0LC01OTYyNjgzNjMsMzE4
-MjYyOTE0LC0xODY1MTc4MDMxLC00ODU1OTk4NDYsLTUwMDYwOT
-g4MCwtMTgzOTgyOTgzNiwtMTAzNjMwMzEwMyw2NzQ1ODI2MDUs
-LTkxNDU5MDA5Nl19
+eyJoaXN0b3J5IjpbMTQxMjg4MDg3OSwxMTg1OTg1NTkwLC05ND
+EzMzk0NTUsMTYwOTYxOTUzNCwxMDU0MTkyNTA3LC0xNDY0MzQ4
+MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NSwyMDkwMDI5MTY3LC
+04MDAxMTQwOTksLTE3NjQ1NTA3MTcsLTEwMzMzNjA2ODQsLTU5
+NjI2ODM2MywzMTgyNjI5MTQsLTE4NjUxNzgwMzEsLTQ4NTU5OT
+g0NiwtNTAwNjA5ODgwLC0xODM5ODI5ODM2LC0xMDM2MzAzMTAz
+LDY3NDU4MjYwNV19
 -->
