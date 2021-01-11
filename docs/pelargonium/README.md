@@ -45,7 +45,7 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 <param ve-entity eid="Q1019" title="Madagascar">
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
-The _Pelargonium_ is native to Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. Portuguese and Dutch traders first introduced the plant to Europe on their return from making colonial voyages to present-day South Africa. 
+The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia, though it was first collected by Europeans in present-day South Africa in the late 1500s. Portuguese and Dutch traders harvested pelargoniums there, transporting the plants to Europe on their return from making colonial voyages.
 <param ve-map center="40, 0" zoom="1.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -72,11 +72,11 @@ The nomenclature confusion began when the plant now known as _Pelargonium_ _tris
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDY0NjQ2NSwyMDkwMDI5MTY3LC04MD
-AxMTQwOTksLTE3NjQ1NTA3MTcsLTEwMzMzNjA2ODQsLTU5NjI2
-ODM2MywzMTgyNjI5MTQsLTE4NjUxNzgwMzEsLTQ4NTU5OTg0Ni
-wtNTAwNjA5ODgwLC0xODM5ODI5ODM2LC0xMDM2MzAzMTAzLDY3
-NDU4MjYwNSwtOTE0NTkwMDk2LC0xODY4NTk2ODk5LC0xNTQxNj
-gwOTE0LC02OTMwODIyNjksLTk4MTUxNTQyNiwyMjUxMjgwNTgs
-NjkzODIzMDU4XX0=
+eyJoaXN0b3J5IjpbLTE3NzgxMDgwNjgsLTgwMDY0NjQ2NSwyMD
+kwMDI5MTY3LC04MDAxMTQwOTksLTE3NjQ1NTA3MTcsLTEwMzMz
+NjA2ODQsLTU5NjI2ODM2MywzMTgyNjI5MTQsLTE4NjUxNzgwMz
+EsLTQ4NTU5OTg0NiwtNTAwNjA5ODgwLC0xODM5ODI5ODM2LC0x
+MDM2MzAzMTAzLDY3NDU4MjYwNSwtOTE0NTkwMDk2LC0xODY4NT
+k2ODk5LC0xNTQxNjgwOTE0LC02OTMwODIyNjksLTk4MTUxNTQy
+NiwyMjUxMjgwNThdfQ==
 -->
