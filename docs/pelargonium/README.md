@@ -31,9 +31,7 @@ The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a lo
 <param ve-map center="40, 0" zoom="1.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
-<![endif]-->
-
-Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. Several key differences between the genera can be observed by comparing the reproductive systems of the two plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. While the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. A final divergence between the two is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens.
+Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. Several key differences between the genera can be observed by comparing the reproductive systems of the two plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. Yet another distinction is that while the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. A final divergence between the two is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens.
 
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
@@ -42,8 +40,8 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg4MTA1NDUsLTE4Mzk4Mjk4MzYsLT
-EwMzYzMDMxMDMsNjc0NTgyNjA1LC05MTQ1OTAwOTYsLTE4Njg1
-OTY4OTksLTE1NDE2ODA5MTQsLTY5MzA4MjI2OSwtOTgxNTE1ND
-I2LDIyNTEyODA1OCw2OTM4MjMwNTgsLTgwMDU4NTkwNF19
+eyJoaXN0b3J5IjpbNDY4OTg1MzAwLC0xODM5ODI5ODM2LC0xMD
+M2MzAzMTAzLDY3NDU4MjYwNSwtOTE0NTkwMDk2LC0xODY4NTk2
+ODk5LC0xNTQxNjgwOTE0LC02OTMwODIyNjksLTk4MTUxNTQyNi
+wyMjUxMjgwNTgsNjkzODIzMDU4LC04MDA1ODU5MDRdfQ==
 -->
