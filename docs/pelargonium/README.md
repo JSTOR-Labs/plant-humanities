@@ -26,8 +26,7 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is a
 
 ### Pelargonium Morphology: Fruit and Flower
 
-The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period. There are approximately 300 species of _Pelargonium_, originating from Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. 
-
+The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period.
 !["The stork brings its young a frog," Norway, Sverresborg Trøndelag Folkemuseum, Europeana](https://api.europeana.eu/thumbnail/v2/url.json?size=w400&type=IMAGE&uri=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800){: .right}
 
 The particular morphology of the plant actually lends the genus its name; _Pelargonium_ comes from the Greek word _pelargos_ ("stork”) which alludes to the long, almost beak-shaped fruit.
@@ -51,7 +50,7 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDQxODY4NSwzMTgyNjI5MTQsLTE4Nj
+eyJoaXN0b3J5IjpbLTgzNDUwMDQ3OCwzMTgyNjI5MTQsLTE4Nj
 UxNzgwMzEsLTQ4NTU5OTg0NiwtNTAwNjA5ODgwLC0xODM5ODI5
 ODM2LC0xMDM2MzAzMTAzLDY3NDU4MjYwNSwtOTE0NTkwMDk2LC
 0xODY4NTk2ODk5LC0xNTQxNjgwOTE0LC02OTMwODIyNjksLTk4
