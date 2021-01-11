@@ -31,8 +31,11 @@ The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a lo
 <param ve-map center="40, 0" zoom="1.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
+!["The stork brings its young a frog," Norway, Sverresborg Trøndelag Folkemuseum, Europeana](https://api.europeana.eu/thumbnail/v2/url.json?size=w400&type=IMAGE&uri=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800){: .right}
 
-
+<param ve-entity eid="Q157211" title="geranium" aliases="Geranium"> 
+<param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
+<param ve-entity eid="Q18083598" title="Pelargonium inquinans"> 
 Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. Several key differences between the genera can be observed by comparing the reproductive systems of the two plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. Another difference is that, while the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. A final divergence between the two is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens.
 <param ve-image layers url="https://free.iiifhosting.com/iiif/946417abf874969ccb7ed3e11de335c107f89d030c8a7d27fe55a2c9892bb2c1/info.json" title="Differences between Geranium and Pelargonium flowers, Verónica Matallana">
 <param ve-image url="https://free.iiifhosting.com/iiif/ba2f217efdf25d87a4fc0e79c0b096245ef26d4ebde668bd65af649d05b2deb1/info.json" title="“Géranium platypetalum” & “Pelargonium zonale Wild et hybrids,” _Atlas des plantes de jardins et d'appartements exotiques et européennes: 320 planches coloriées inédites, dessinées d'après nature, représentant 370 plantes, accompagnées d'un texte explicatif donnant la description, l'origine, le mode de culture, de multiplication et les usages des fleurs les plus généralement cultivées_, D. Bois, from Bibliothèque Nationale de France, département Sciences et techniques, 8-S-9126">
@@ -48,10 +51,10 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjcyMjIyMSwzMTgyNjI5MTQsLTE4Nj
-UxNzgwMzEsLTQ4NTU5OTg0NiwtNTAwNjA5ODgwLC0xODM5ODI5
-ODM2LC0xMDM2MzAzMTAzLDY3NDU4MjYwNSwtOTE0NTkwMDk2LC
-0xODY4NTk2ODk5LC0xNTQxNjgwOTE0LC02OTMwODIyNjksLTk4
-MTUxNTQyNiwyMjUxMjgwNTgsNjkzODIzMDU4LC04MDA1ODU5MD
-RdfQ==
+eyJoaXN0b3J5IjpbODU3Mzk4NzE2LDMxODI2MjkxNCwtMTg2NT
+E3ODAzMSwtNDg1NTk5ODQ2LC01MDA2MDk4ODAsLTE4Mzk4Mjk4
+MzYsLTEwMzYzMDMxMDMsNjc0NTgyNjA1LC05MTQ1OTAwOTYsLT
+E4Njg1OTY4OTksLTE1NDE2ODA5MTQsLTY5MzA4MjI2OSwtOTgx
+NTE1NDI2LDIyNTEyODA1OCw2OTM4MjMwNTgsLTgwMDU4NTkwNF
+19
 -->
