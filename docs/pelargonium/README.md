@@ -86,12 +86,16 @@ Early-1830s Britain saw the groundbreaking invention of the Wardian case, a seal
 [^ref6]: Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.
 
 [^ref7]: Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.
+
+[^ref8]: Keogh, Luke. _The Wardian Case: How a Simple Box Moved Plants and Saved the World_. University of Chicago Press, 2020.
+
+[^ref9]: <![endif]--> Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTU5MzEzMDgsLTUwNzYzMzM1NywtND
-c2NzgxMDY5LDExODU5ODU1OTAsLTk0MTMzOTQ1NSwxNjA5NjE5
-NTM0LDEwNTQxOTI1MDcsLTE0NjQzNDgxNTYsLTYzNjYxMzE3My
-wtODAwNjQ2NDY1LDIwOTAwMjkxNjcsLTgwMDExNDA5OSwtMTc2
-NDU1MDcxNywtMTAzMzM2MDY4NCwtNTk2MjY4MzYzLDMxODI2Mj
-kxNCwtMTg2NTE3ODAzMSwtNDg1NTk5ODQ2LC01MDA2MDk4ODAs
-LTE4Mzk4Mjk4MzZdfQ==
+eyJoaXN0b3J5IjpbLTcyODM3MTc3NCwtNTA3NjMzMzU3LC00Nz
+Y3ODEwNjksMTE4NTk4NTU5MCwtOTQxMzM5NDU1LDE2MDk2MTk1
+MzQsMTA1NDE5MjUwNywtMTQ2NDM0ODE1NiwtNjM2NjEzMTczLC
+04MDA2NDY0NjUsMjA5MDAyOTE2NywtODAwMTE0MDk5LC0xNzY0
+NTUwNzE3LC0xMDMzMzYwNjg0LC01OTYyNjgzNjMsMzE4MjYyOT
+E0LC0xODY1MTc4MDMxLC00ODU1OTk4NDYsLTUwMDYwOTg4MCwt
+MTgzOTgyOTgzNl19
 -->
