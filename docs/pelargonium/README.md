@@ -110,9 +110,13 @@ By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly 
 
 [^ref11]: Hibberd, Shirley. “Lecture on the Pelargonium.” _The Journal of Horticulture_, 1880, pp. 14, 74-75.
 
+[^ref12]: Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875. [https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up](https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up)
+
+[^ref13]: McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODM3NTQ0MCwxMDgzOTU5NjkyLDM0NT
+eyJoaXN0b3J5IjpbMjA2NjMzODk3NiwxMDgzOTU5NjkyLDM0NT
 YyNDM0NywtNTA3NjMzMzU3LC00NzY3ODEwNjksMTE4NTk4NTU5
 MCwtOTQxMzM5NDU1LDE2MDk2MTk1MzQsMTA1NDE5MjUwNywtMT
 Q2NDM0ODE1NiwtNjM2NjEzMTczLC04MDA2NDY0NjUsMjA5MDAy
