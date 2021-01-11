@@ -64,9 +64,8 @@ Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was proba
 The nomenclature confusion began when the plant now known as _Pelargonium_ _triste_ was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P._ _triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_ due to the superficial similarities between the genera _Geranium_ and Pelargonium. This visualization of the two plants’ overlapping global nomenclature history provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
 
-<param ve-entity eid="Q213360" title="Table Mountain">
-<param ve-entity eid="Q66569" title="Paul Hermann">
-<param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
+<param ve-entity eid="Q1043" title="Carl Linnaeus">
+<param ve-entity eid="Q465834" title="Charles Louis L'Héritier de Brutelle" aliases="Charles-Louis L’Héritier de Brutelle’s">
 <param ve-entity eid="Q43631" title="Leiden">
 Botanists have struggled to disentangle the _Pelargonium_ and the _Geranium_ since the mid-1750s. Carl Linnaeus, in his 1753 [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for 20 pelargoniums including the _Pelargonium zonale_.[^ref5] Because Linnaean taxonomy was so revered at that time, Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargoniums_ as an independent genus was overlooked.[^ref6] Eventually, by creating ten new genera in the _Geraniaceae_ family, Robert Sweet introduced a serious classification system in 1820 to ease the shortfall in Linnaean nomenclature.[^ref7] However, by the early nineteenth century, pelargoniums had already attained so much popularity, particularly in England and France, that the name “geranium” stuck. 
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
@@ -101,7 +100,7 @@ Early-1830s Britain saw the groundbreaking invention of the Wardian case, a seal
 
 [^ref9]: Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzOTgzNDA2NiwzNDU2MjQzNDcsLTUwNz
+eyJoaXN0b3J5IjpbLTc4ODgxNDYwMCwzNDU2MjQzNDcsLTUwNz
 YzMzM1NywtNDc2NzgxMDY5LDExODU5ODU1OTAsLTk0MTMzOTQ1
 NSwxNjA5NjE5NTM0LDEwNTQxOTI1MDcsLTE0NjQzNDgxNTYsLT
 YzNjYxMzE3MywtODAwNjQ2NDY1LDIwOTAwMjkxNjcsLTgwMDEx
