@@ -109,7 +109,7 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-entity eid="Q173705" title="Grasse">
 <param ve-entity eid="Q34687" title="Rosa" aliases="roses">
 In 1847, the French perfume industries of Grasse, including the company of Léon Chiris Léopold Chiris? , introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it. Algeria was considered an ideal place for doing so due to its warm arid and semi-arid climate and the low cost of colonial labor needed for the "preparation and planting of cuttings, weeding of fields, harvesting of the material to be distilled." Perfumers selected pelargoniums because most species have a sweet aroma similar to roses. Such oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant.
-<param ve-image primary fit="contain" url="https://www.davidrumsey.com/luna/servlet/workspace/handleMediaPlayer;JSESSIONID=d89290fb-8ab4-4ca6-b7db-0c60b7a724f7?lunaMediaId=RUMSEY~8~1~290244~90061831" title=
+<param ve-image primary fit="contain" url="https://www.davidrumsey.com/luna/servlet/workspace/handleMediaPlayer;JSESSIONID=d89290fb-8ab4-4ca6-b7db-0c60b7a724f7?lunaMediaId=RUMSEY~8~1~290244~90061831" title="Map “Les etu A. Chiris s'installent dans le Monde entier”, 1931, from David Rumsey Historical Map Collection">
 
 <param ve-entity eid="Q2344308" title="Boufarik">
 <param ve-entity eid="Q4092" title="Cape of Good Hope" aliases="Cap de Bonne Espérance">
@@ -163,11 +163,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDMyODEwOSwxNTczMzMzMzI1LDcxNT
-Y5NzgxOSwtMTMwMjM4NTM0NCwxMDgzOTU5NjkyLDM0NTYyNDM0
-NywtNTA3NjMzMzU3LC00NzY3ODEwNjksMTE4NTk4NTU5MCwtOT
-QxMzM5NDU1LDE2MDk2MTk1MzQsMTA1NDE5MjUwNywtMTQ2NDM0
-ODE1NiwtNjM2NjEzMTczLC04MDA2NDY0NjUsMjA5MDAyOTE2Ny
-wtODAwMTE0MDk5LC0xNzY0NTUwNzE3LC0xMDMzMzYwNjg0LC01
-OTYyNjgzNjNdfQ==
+eyJoaXN0b3J5IjpbMTczNzM2NDM1LDE1NzMzMzMzMjUsNzE1Nj
+k3ODE5LC0xMzAyMzg1MzQ0LDEwODM5NTk2OTIsMzQ1NjI0MzQ3
+LC01MDc2MzMzNTcsLTQ3Njc4MTA2OSwxMTg1OTg1NTkwLC05ND
+EzMzk0NTUsMTYwOTYxOTUzNCwxMDU0MTkyNTA3LC0xNDY0MzQ4
+MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NSwyMDkwMDI5MTY3LC
+04MDAxMTQwOTksLTE3NjQ1NTA3MTcsLTEwMzMzNjA2ODQsLTU5
+NjI2ODM2M119
 -->
