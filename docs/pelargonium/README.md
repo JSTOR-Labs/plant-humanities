@@ -26,10 +26,11 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is a
 
 ### Pelargonium Morphology: Fruit and Flower
 
-The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period. There are approximately 300 species of _Pelargonium_, originating from Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. The particular morphology of the plant actually lends the genus its name; _Pelargonium_ comes from the Greek word _pelargos_ ("stork”) which alludes to the long, almost beak-shaped fruit.
+The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period. There are approximately 300 species of _Pelargonium_, originating from Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. 
 
 !["The stork brings its young a frog," Norway, Sverresborg Trøndelag Folkemuseum, Europeana](https://api.europeana.eu/thumbnail/v2/url.json?size=w400&type=IMAGE&uri=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800){: .right}
 
+The particular morphology of the plant actually lends the genus its name; _Pelargonium_ comes from the Greek word _pelargos_ ("stork”) which alludes to the long, almost beak-shaped fruit.
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="Pelargonium alchemilloides (L.) L'Hér.">
 <param ve-map center="40, 0" zoom="1.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
@@ -50,10 +51,10 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDAyNTM5LDMxODI2MjkxNCwtMTg2NT
-E3ODAzMSwtNDg1NTk5ODQ2LC01MDA2MDk4ODAsLTE4Mzk4Mjk4
-MzYsLTEwMzYzMDMxMDMsNjc0NTgyNjA1LC05MTQ1OTAwOTYsLT
-E4Njg1OTY4OTksLTE1NDE2ODA5MTQsLTY5MzA4MjI2OSwtOTgx
-NTE1NDI2LDIyNTEyODA1OCw2OTM4MjMwNTgsLTgwMDU4NTkwNF
-19
+eyJoaXN0b3J5IjpbLTc4NDQxODY4NSwzMTgyNjI5MTQsLTE4Nj
+UxNzgwMzEsLTQ4NTU5OTg0NiwtNTAwNjA5ODgwLC0xODM5ODI5
+ODM2LC0xMDM2MzAzMTAzLDY3NDU4MjYwNSwtOTE0NTkwMDk2LC
+0xODY4NTk2ODk5LC0xNTQxNjgwOTE0LC02OTMwODIyNjksLTk4
+MTUxNTQyNiwyMjUxMjgwNTgsNjkzODIzMDU4LC04MDA1ODU5MD
+RdfQ==
 -->
