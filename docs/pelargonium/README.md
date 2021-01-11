@@ -98,13 +98,13 @@ Early-1830s Britain saw the groundbreaking invention of the Wardian case, a seal
 
 [^ref9]: Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
 
-[^ref10]: 
+[^ref10]: Lindsay Wells. "Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor." _Victorian Studies_ 60, no. 2 (2018): 158-70. Accessed January 11, 2021. http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDEyMjQ0NTcsMzQ1NjI0MzQ3LC01MD
-c2MzMzNTcsLTQ3Njc4MTA2OSwxMTg1OTg1NTkwLC05NDEzMzk0
-NTUsMTYwOTYxOTUzNCwxMDU0MTkyNTA3LC0xNDY0MzQ4MTU2LC
-02MzY2MTMxNzMsLTgwMDY0NjQ2NSwyMDkwMDI5MTY3LC04MDAx
-MTQwOTksLTE3NjQ1NTA3MTcsLTEwMzMzNjA2ODQsLTU5NjI2OD
-M2MywzMTgyNjI5MTQsLTE4NjUxNzgwMzEsLTQ4NTU5OTg0Niwt
-NTAwNjA5ODgwXX0=
+eyJoaXN0b3J5IjpbMTA4Mzk1OTY5MiwzNDU2MjQzNDcsLTUwNz
+YzMzM1NywtNDc2NzgxMDY5LDExODU5ODU1OTAsLTk0MTMzOTQ1
+NSwxNjA5NjE5NTM0LDEwNTQxOTI1MDcsLTE0NjQzNDgxNTYsLT
+YzNjYxMzE3MywtODAwNjQ2NDY1LDIwOTAwMjkxNjcsLTgwMDEx
+NDA5OSwtMTc2NDU1MDcxNywtMTAzMzM2MDY4NCwtNTk2MjY4Mz
+YzLDMxODI2MjkxNCwtMTg2NTE3ODAzMSwtNDg1NTk5ODQ2LC01
+MDA2MDk4ODBdfQ==
 -->
