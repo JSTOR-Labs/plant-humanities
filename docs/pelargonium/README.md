@@ -137,7 +137,7 @@ Today, pelargonium oil continues to be industrially produced in factories across
 ### Conclusion
 
 Although the _Pelargonium_ by any other name would smell as sweet, our recognition of its unique identity is long overdue. Indeed, the _Pelargonium_’s almost-forgotten global history extremely rich blossoming as it does at the intersections of colonial trade, botany, agriculture, gardening, art, culture, and industry. Telling the story of the _Pelargonium_ as an entity separate from the _Geranium_, illuminates just some of the many ways in which it has been interwoven with human histories – hiding in plain sight, as it were, by virtue of its long-persisting misnomer.
-<param ve-image primary fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.item.r=Geranium.zoom" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), 1907-1920, photograph, Source gallica.bnf.fr / BnF">
+<param ve-image primary fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.highres" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), 1907-1920, photograph, Source gallica.bnf.fr / BnF">
 
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
@@ -176,11 +176,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjg0OTYzNCwtMTkxNTY5NTUwNSwtMT
-kxNTY5NTUwNSwtMTU3MTAyNDIsMTgwODQ1MTI1MiwxNTE0MjA1
-MjQyLC0xMTQ3OTY2MjAzLC0xMDU3MzE3MTg2LC0xMDMxNjYwOT
-MwLDE1NzMzMzMzMjUsNzE1Njk3ODE5LC0xMzAyMzg1MzQ0LDEw
-ODM5NTk2OTIsMzQ1NjI0MzQ3LC01MDc2MzMzNTcsLTQ3Njc4MT
-A2OSwxMTg1OTg1NTkwLC05NDEzMzk0NTUsMTYwOTYxOTUzNCwx
-MDU0MTkyNTA3XX0=
+eyJoaXN0b3J5IjpbLTE4MzQ3MTIyMjUsMTcxNjg0OTYzNCwtMT
+kxNTY5NTUwNSwtMTkxNTY5NTUwNSwtMTU3MTAyNDIsMTgwODQ1
+MTI1MiwxNTE0MjA1MjQyLC0xMTQ3OTY2MjAzLC0xMDU3MzE3MT
+g2LC0xMDMxNjYwOTMwLDE1NzMzMzMzMjUsNzE1Njk3ODE5LC0x
+MzAyMzg1MzQ0LDEwODM5NTk2OTIsMzQ1NjI0MzQ3LC01MDc2Mz
+MzNTcsLTQ3Njc4MTA2OSwxMTg1OTg1NTkwLC05NDEzMzk0NTUs
+MTYwOTYxOTUzNF19
 -->
