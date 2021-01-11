@@ -66,7 +66,7 @@ The nomenclature confusion began when the plant now known as _Pelargonium_ _tris
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
 <param ve-entity eid="Q465834" title="Charles Louis L'Héritier de Brutelle" aliases="Charles-Louis L’Héritier de Brutelle’s">
-<param ve-entity eid="Q43631" title="Leiden">
+<param ve-entity eid="Q2003356" title="Robert Sweet">
 Botanists have struggled to disentangle the _Pelargonium_ and the _Geranium_ since the mid-1750s. Carl Linnaeus, in his 1753 [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for 20 pelargoniums including the _Pelargonium zonale_.[^ref5] Because Linnaean taxonomy was so revered at that time, Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargoniums_ as an independent genus was overlooked.[^ref6] Eventually, by creating ten new genera in the _Geraniaceae_ family, Robert Sweet introduced a serious classification system in 1820 to ease the shortfall in Linnaean nomenclature.[^ref7] However, by the early nineteenth century, pelargoniums had already attained so much popularity, particularly in England and France, that the name “geranium” stuck. 
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
@@ -100,11 +100,11 @@ Early-1830s Britain saw the groundbreaking invention of the Wardian case, a seal
 
 [^ref9]: Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODgxNDYwMCwzNDU2MjQzNDcsLTUwNz
-YzMzM1NywtNDc2NzgxMDY5LDExODU5ODU1OTAsLTk0MTMzOTQ1
-NSwxNjA5NjE5NTM0LDEwNTQxOTI1MDcsLTE0NjQzNDgxNTYsLT
-YzNjYxMzE3MywtODAwNjQ2NDY1LDIwOTAwMjkxNjcsLTgwMDEx
-NDA5OSwtMTc2NDU1MDcxNywtMTAzMzM2MDY4NCwtNTk2MjY4Mz
-YzLDMxODI2MjkxNCwtMTg2NTE3ODAzMSwtNDg1NTk5ODQ2LC01
-MDA2MDk4ODBdfQ==
+eyJoaXN0b3J5IjpbMjUzNjE4MDE3LDM0NTYyNDM0NywtNTA3Nj
+MzMzU3LC00NzY3ODEwNjksMTE4NTk4NTU5MCwtOTQxMzM5NDU1
+LDE2MDk2MTk1MzQsMTA1NDE5MjUwNywtMTQ2NDM0ODE1NiwtNj
+M2NjEzMTczLC04MDA2NDY0NjUsMjA5MDAyOTE2NywtODAwMTE0
+MDk5LC0xNzY0NTUwNzE3LC0xMDMzMzYwNjg0LC01OTYyNjgzNj
+MsMzE4MjYyOTE0LC0xODY1MTc4MDMxLC00ODU1OTk4NDYsLTUw
+MDYwOTg4MF19
 -->
