@@ -36,6 +36,8 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 <param ve-image layers url="https://free.iiifhosting.com/iiif/946417abf874969ccb7ed3e11de335c107f89d030c8a7d27fe55a2c9892bb2c1/info.json" title="Differences between Geranium and Pelargonium flowers, Verónica Matallana">
 <param ve-image url="https://free.iiifhosting.com/iiif/ba2f217efdf25d87a4fc0e79c0b096245ef26d4ebde668bd65af649d05b2deb1/info.json" title="“Géranium platypetalum” & “Pelargonium zonale Wild et hybrids,” _Atlas des plantes de jardins et d'appartements exotiques et européennes: 320 planches coloriées inédites, dessinées d'après nature, représentant 370 plantes, accompagnées d'un texte explicatif donnant la description, l'origine, le mode de culture, de multiplication et les usages des fleurs les plus généralement cultivées_, D. Bois, from Bibliothèque Nationale de France, département Sciences et techniques, 8-S-9126">
 
+### Introduction to Europe and Nomenclature Confusion
+
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
 
@@ -43,9 +45,9 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDM4NDMxNCwtMTg2NTE3ODAzMSwtND
-g1NTk5ODQ2LC01MDA2MDk4ODAsLTE4Mzk4Mjk4MzYsLTEwMzYz
-MDMxMDMsNjc0NTgyNjA1LC05MTQ1OTAwOTYsLTE4Njg1OTY4OT
-ksLTE1NDE2ODA5MTQsLTY5MzA4MjI2OSwtOTgxNTE1NDI2LDIy
-NTEyODA1OCw2OTM4MjMwNTgsLTgwMDU4NTkwNF19
+eyJoaXN0b3J5IjpbMjkzMTUwMDk2LC0xODY1MTc4MDMxLC00OD
+U1OTk4NDYsLTUwMDYwOTg4MCwtMTgzOTgyOTgzNiwtMTAzNjMw
+MzEwMyw2NzQ1ODI2MDUsLTkxNDU5MDA5NiwtMTg2ODU5Njg5OS
+wtMTU0MTY4MDkxNCwtNjkzMDgyMjY5LC05ODE1MTU0MjYsMjI1
+MTI4MDU4LDY5MzgyMzA1OCwtODAwNTg1OTA0XX0=
 -->
