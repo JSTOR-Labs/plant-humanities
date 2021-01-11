@@ -12,9 +12,9 @@
 <param ve-entity eid="Q192691" title="annual plant">
 <param ve-entity eid="Q235352" title="crop" aliases="crop plants">
 <param ve-entity eid="Q199182" title="ornamental plant" aliases="ornamental">
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans domesticated in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported.
+There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium.[^ref1] With their vibrant red flowers and sweet, rose scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color” at his country home, Gad’s Hill Place, in Kent.[^ref2] <![endif]--> Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.” 
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/8/80/Nepenthes_rafflesiana_squat2.jpg" title="_Nepenthes rafflesiana_, attributed to Robert Jong, en:User:Rbrtjong">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4Njc2ODcyLC05ODE1MTU0MjYsMjI1MT
-I4MDU4LDY5MzgyMzA1OCwtODAwNTg1OTA0XX0=
+eyJoaXN0b3J5IjpbMTI1Njk2NTQ3MywtOTgxNTE1NDI2LDIyNT
+EyODA1OCw2OTM4MjMwNTgsLTgwMDU4NTkwNF19
 -->
