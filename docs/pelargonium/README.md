@@ -23,6 +23,7 @@ However, you might be surprised to learn that the scarlet geranium with which Di
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is a familiar cultural fixture for so many of us – but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history – from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. A social and cultural history of the _Pelargonium_ that attends to its use as an ornamental and an aromatic in the nineteenth century reveals a fervor of excitement not just for growing and displaying the flower but also for smelling and wearing its scent, both of which contribute to its enduring popularity today.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" title="Charles Dickens’ favored plant the _Pelargonium inquinans_ commonly known as a geranium, ViGA, 2017, Wikimedia Commons, CC BY-SA 4.0">
 
+
 ### _Pelargonium_ Morphology: Fruit and Flower
 
 The _Pelargonium_ is a perennial bush, with a strong and aromatic smell. There are approximately 300 species of _Pelargonium_, originating from Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. The particular morphology of the plant actually lends the genus its name; _Pelargonium_ comes from the Greek word _pelargos_ (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”) which alludes to the long, almost beak-shaped fruit.
@@ -37,7 +38,7 @@ The _Pelargonium_ is a perennial bush, with a strong and aromatic smell. There a
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjY1OTk0OTUsLTEwMzYzMDMxMDMsNj
+eyJoaXN0b3J5IjpbLTE5MjI5MzE0ODEsLTEwMzYzMDMxMDMsNj
 c0NTgyNjA1LC05MTQ1OTAwOTYsLTE4Njg1OTY4OTksLTE1NDE2
 ODA5MTQsLTY5MzA4MjI2OSwtOTgxNTE1NDI2LDIyNTEyODA1OC
 w2OTM4MjMwNTgsLTgwMDU4NTkwNF19
