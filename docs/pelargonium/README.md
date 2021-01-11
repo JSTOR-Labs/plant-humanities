@@ -93,7 +93,9 @@ The ubiquity of the _Pelargonium_ in the Victorian era soon began to carry a cul
 
 For many lower-class Victorian families who did not have gardens, growing _Pelargoniums_ in pots and displaying them in windows or balconies became a way to try and project a sense of belonging to higher classes to which they aspired. In other words, as the century wore on, the iconic flower became a visual marker for the lower classes’ (often awkward) attempts to convey a social standing superior to their own. Naturally, such attempts rarely landed in the way they were intended, and before long, horticulturalists began to look down on the _Pelargonium_ with a certain derision. Jekyll writes in 1919 that, “It is a common thing for friends to express surprise at seeing scarlet Geraniums...in my garden, forgetting that it was not the fault of the plants that they were misused or employed in dull or even stupid ways.”[^ref15] His comments reveal that it was not the plants themselves that were particularly offensive to garden specialists; rather, it was the way they had been used by certain cack-handed individuals, presumably the lower classes, that made them such a subject of scorn in horticultural circles. 
 
-As a result, the _Pelargonium_ at the turn of the century became a symbol for the working class’s ungainly attempts at propriety and a gauche lack of style–and it was instrumentalized as such throughout art and literature. Catherine Horwood notes that, “If there is one plant that sums up the attitude of Victorian sentimentalists towards the unfortunate working class in the nineteenth century, it is the forlorn red ‘geranium’ sitting on a cottage window-sill. Hundreds of artists used this as a symbol of aspirations to respectability.”
+As a result, the _Pelargonium_ at the turn of the century became a symbol for the working class’s ungainly attempts at propriety and a gauche lack of style–and it was instrumentalized as such throughout art and literature. Catherine Horwood notes that, “If there is one plant that sums up the attitude of Victorian sentimentalists towards the unfortunate working class in the nineteenth century, it is the forlorn red ‘geranium’ sitting on a cottage window-sill. Hundreds of artists used this as a symbol of aspirations to respectability.”[^ref16] With this context, we might understand Kirkland’s pretensions to the “genteel _Geranium_” as an ironic statement, more in line with the OED’s definition of “genteel” as “being characteristic of those who are possessed with a dread of being taken for ‘common people’, or who attach exaggerated importance to supposed marks of social superiority...in educated language it has always a sarcastic or at least playful colouring,” than to assertions of true gentility.[^ref17] 
+
+
 
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
@@ -126,13 +128,17 @@ As a result, the _Pelargonium_ at the turn of the century became a symbol for th
 
 [^ref15]: Jekyll, Gertrude. _Colour Schemes for the Flower Garden_. Country Life, 1919.
 
+[^ref16]: Horwood, Catherine. _Potted History: The Story of Plants in the Home_. Quarto Group Inc, 2007.
+
+[^ref17]: "genteel, adj. and n." OED Online. Oxford University Press, June 2020. Web. 1 August 2020.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzczOTAwOCwxMDgzOTU5NjkyLDM0NT
-YyNDM0NywtNTA3NjMzMzU3LC00NzY3ODEwNjksMTE4NTk4NTU5
-MCwtOTQxMzM5NDU1LDE2MDk2MTk1MzQsMTA1NDE5MjUwNywtMT
-Q2NDM0ODE1NiwtNjM2NjEzMTczLC04MDA2NDY0NjUsMjA5MDAy
-OTE2NywtODAwMTE0MDk5LC0xNzY0NTUwNzE3LC0xMDMzMzYwNj
-g0LC01OTYyNjgzNjMsMzE4MjYyOTE0LC0xODY1MTc4MDMxLC00
-ODU1OTk4NDZdfQ==
+eyJoaXN0b3J5IjpbLTExNTMxMzYzMDksMTA4Mzk1OTY5MiwzND
+U2MjQzNDcsLTUwNzYzMzM1NywtNDc2NzgxMDY5LDExODU5ODU1
+OTAsLTk0MTMzOTQ1NSwxNjA5NjE5NTM0LDEwNTQxOTI1MDcsLT
+E0NjQzNDgxNTYsLTYzNjYxMzE3MywtODAwNjQ2NDY1LDIwOTAw
+MjkxNjcsLTgwMDExNDA5OSwtMTc2NDU1MDcxNywtMTAzMzM2MD
+Y4NCwtNTk2MjY4MzYzLDMxODI2MjkxNCwtMTg2NTE3ODAzMSwt
+NDg1NTk5ODQ2XX0=
 -->
