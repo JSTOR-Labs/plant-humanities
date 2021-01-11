@@ -104,6 +104,7 @@ In 1847, the French perfume industries of Grasse, including the company of Léon
 The Chiris company introduced a particular pelargonium hybrid, "_Geranium rosat_," to Boufarik, Algeria, selecting "a trentaine of wild Pelargonium species, from cells that are found most frequently in the Cap de Bonne Espérance region." That selection allowed the Chiris establishments to earn a stable profit.[REF] In 1865, Chiris built a 3,000 square meter factory in the Saint-Marguerite domain in Boufarik, which was first acquired in 1836. Its production was centered on _Pelargoniums_, orange trees, and other aromatic plants.[REF] However, the headquarters in Boufarik closed once it was nationalized in 1963, as did the other headquarters in the former European colonies.
 
 Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[REF] Significantly, the confusion surrounding pelargonium nomenclature in Europe contexts also exists in China. More than 50% of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You (Pelargonium Oil)_ in Chinese. It is said that the name _Tianzhu Kui_ was introduced by Junyu Zhang in 1933 based on his studies in Japan. The word _Tianzhu Kui_ is from _ゼラニウム_, which is pronounced as _Geranium_ in English.
+<param ve-image fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Tianzhu_Kui.png" title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_ (_Pelargonium_) in Chinese. Jin, Jiancheng, and Xun Zhang. _Chinese Gongbi Line Drawing of Hundred Flowers (Autumn and Winter)_. Tianjin Yangliuqing Fine Arts Press. 2005.">
 
 ### Conclusion
 
@@ -147,11 +148,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyMjg2NjI3LDEwODM5NTk2OTIsMzQ1Nj
-I0MzQ3LC01MDc2MzMzNTcsLTQ3Njc4MTA2OSwxMTg1OTg1NTkw
-LC05NDEzMzk0NTUsMTYwOTYxOTUzNCwxMDU0MTkyNTA3LC0xND
-Y0MzQ4MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NSwyMDkwMDI5
-MTY3LC04MDAxMTQwOTksLTE3NjQ1NTA3MTcsLTEwMzMzNjA2OD
-QsLTU5NjI2ODM2MywzMTgyNjI5MTQsLTE4NjUxNzgwMzEsLTQ4
-NTU5OTg0Nl19
+eyJoaXN0b3J5IjpbLTEzMDIzODUzNDQsMTA4Mzk1OTY5MiwzND
+U2MjQzNDcsLTUwNzYzMzM1NywtNDc2NzgxMDY5LDExODU5ODU1
+OTAsLTk0MTMzOTQ1NSwxNjA5NjE5NTM0LDEwNTQxOTI1MDcsLT
+E0NjQzNDgxNTYsLTYzNjYxMzE3MywtODAwNjQ2NDY1LDIwOTAw
+MjkxNjcsLTgwMDExNDA5OSwtMTc2NDU1MDcxNywtMTAzMzM2MD
+Y4NCwtNTk2MjY4MzYzLDMxODI2MjkxNCwtMTg2NTE3ODAzMSwt
+NDg1NTk5ODQ2XX0=
 -->
