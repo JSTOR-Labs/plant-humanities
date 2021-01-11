@@ -75,13 +75,13 @@ Botanists have struggled to disentangle the _Pelargonium_ and the _Geranium_ sin
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 
-[^ref5]: 
+[^ref5]: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.
 
-[^ref6]:
+[^ref6]: Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.
 
-[^ref7]:
+[^ref7]: Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc3NDQwMiwtNDc2NzgxMDY5LDExOD
+eyJoaXN0b3J5IjpbLTUwNzYzMzM1NywtNDc2NzgxMDY5LDExOD
 U5ODU1OTAsLTk0MTMzOTQ1NSwxNjA5NjE5NTM0LDEwNTQxOTI1
 MDcsLTE0NjQzNDgxNTYsLTYzNjYxMzE3MywtODAwNjQ2NDY1LD
 IwOTAwMjkxNjcsLTgwMDExNDA5OSwtMTc2NDU1MDcxNywtMTAz
