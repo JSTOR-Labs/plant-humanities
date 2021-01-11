@@ -46,6 +46,8 @@ Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was proba
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
 
 
+
+
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
 
@@ -55,10 +57,10 @@ Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was proba
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTQ4MTgzMSwtMTAzMzM2MDY4NCwtNT
-k2MjY4MzYzLDMxODI2MjkxNCwtMTg2NTE3ODAzMSwtNDg1NTk5
-ODQ2LC01MDA2MDk4ODAsLTE4Mzk4Mjk4MzYsLTEwMzYzMDMxMD
-MsNjc0NTgyNjA1LC05MTQ1OTAwOTYsLTE4Njg1OTY4OTksLTE1
-NDE2ODA5MTQsLTY5MzA4MjI2OSwtOTgxNTE1NDI2LDIyNTEyOD
-A1OCw2OTM4MjMwNTgsLTgwMDU4NTkwNF19
+eyJoaXN0b3J5IjpbLTE3NjQ1NTA3MTcsLTEwMzMzNjA2ODQsLT
+U5NjI2ODM2MywzMTgyNjI5MTQsLTE4NjUxNzgwMzEsLTQ4NTU5
+OTg0NiwtNTAwNjA5ODgwLC0xODM5ODI5ODM2LC0xMDM2MzAzMT
+AzLDY3NDU4MjYwNSwtOTE0NTkwMDk2LC0xODY4NTk2ODk5LC0x
+NTQxNjgwOTE0LC02OTMwODIyNjksLTk4MTUxNTQyNiwyMjUxMj
+gwNTgsNjkzODIzMDU4LC04MDA1ODU5MDRdfQ==
 -->
