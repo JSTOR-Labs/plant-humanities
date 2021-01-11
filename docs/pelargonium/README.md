@@ -33,7 +33,7 @@ The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a lo
 
 
 Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. Several key differences between the genera can be observed by comparing the reproductive systems of the two plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. Another difference is that, while the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. A final divergence between the two is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens.
-<param ve-image layers url="https://free.iiifhosting.com/iiif/946417abf874969ccb7ed3e11de335c107f89d030c8a7d27fe55a2c9892bb2c1/info.json" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
+<param ve-image layers url="https://free.iiifhosting.com/iiif/946417abf874969ccb7ed3e11de335c107f89d030c8a7d27fe55a2c9892bb2c1/info.json" title="Differences between Geranium and Pelargonium flowers, Verónica Matallana">
 <param ve-image url="https://free.iiifhosting.com/iiif/ba2f217efdf25d87a4fc0e79c0b096245ef26d4ebde668bd65af649d05b2deb1/info.json" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
 ### References
@@ -43,9 +43,9 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjUxNzgwMzEsLTQ4NTU5OTg0NiwtNT
-AwNjA5ODgwLC0xODM5ODI5ODM2LC0xMDM2MzAzMTAzLDY3NDU4
-MjYwNSwtOTE0NTkwMDk2LC0xODY4NTk2ODk5LC0xNTQxNjgwOT
-E0LC02OTMwODIyNjksLTk4MTUxNTQyNiwyMjUxMjgwNTgsNjkz
-ODIzMDU4LC04MDA1ODU5MDRdfQ==
+eyJoaXN0b3J5IjpbLTQxODYyNjcyOCwtMTg2NTE3ODAzMSwtND
+g1NTk5ODQ2LC01MDA2MDk4ODAsLTE4Mzk4Mjk4MzYsLTEwMzYz
+MDMxMDMsNjc0NTgyNjA1LC05MTQ1OTAwOTYsLTE4Njg1OTY4OT
+ksLTE1NDE2ODA5MTQsLTY5MzA4MjI2OSwtOTgxNTE1NDI2LDIy
+NTEyODA1OCw2OTM4MjMwNTgsLTgwMDU4NTkwNF19
 -->
