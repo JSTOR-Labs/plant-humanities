@@ -52,7 +52,7 @@ The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madaga
 
 <param ve-entity eid="Q213360" title="Table Mountain">
 <param ve-entity eid="Q66569" title="Paul Hermann">
-Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the Leiden Botanical Garden by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref4]
+Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the <Leiden Botanical Garden</span>by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref4]
 <param ve-map center="-24.569, 25.879" zoom="4">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -72,7 +72,7 @@ The nomenclature confusion began when the plant now known as _Pelargonium_ _tris
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTAzMTk5NiwxMDU0MTkyNTA3LC0xND
+eyJoaXN0b3J5IjpbLTI1Mjc5OTgwNywxMDU0MTkyNTA3LC0xND
 Y0MzQ4MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NSwyMDkwMDI5
 MTY3LC04MDAxMTQwOTksLTE3NjQ1NTA3MTcsLTEwMzMzNjA2OD
 QsLTU5NjI2ODM2MywzMTgyNjI5MTQsLTE4NjUxNzgwMzEsLTQ4
