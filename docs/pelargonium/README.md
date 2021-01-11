@@ -97,8 +97,18 @@ As a result, the _Pelargonium_ at the turn of the century became a symbol for th
 
 ### Pelargoniums, Imperial Splendor, and Colonial Profit
 
+<param ve-entity eid="Q29520" title="China">
+<param ve-entity eid="Q79" title="Egypt">
+<param ve-entity eid="Q29520" title="China">
+<param ve-entity eid="Q79" title="Egypt">
+<param ve-entity eid="Q29520" title="China">
+<param ve-entity eid="Q79" title="Egypt">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, specifically in Paris. As part of a massive project to urbanize Paris, overseen by Emperor Napoleon III and Baron Haussmann, architects designed new parks, gardens, squares, and promenades and oversaw the revitalization of existing green spaces with fresh plantings.[REF] In his book _Les Promenades de Paris_, Adolphe Alphand inventories the myriad "trees, shrubs and plants" selected by him and others to beautify the city.[REF] Needless to say, they chose many different types of showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for mass-producing them. Although Alphand’s book primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[REF] The French-bred pelargoniums, which retained some of their exotic associations with Southern Africa, served as live manifestations of the global reach of the French Empire and its colonial agenda especially because the plants were then propagated in French Algiers to produce fragrant oils.
 
+<param ve-entity eid="Q262" title="Algeria">
+<param ve-entity eid="Q79" title="Egypt">
+<param ve-entity eid="Q29520" title="China">
+<param ve-entity eid="Q79" title="Egypt">
 In 1847, the French perfume industries of Grasse, including the company of Léon Chiris, introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it. Algeria was considered an ideal place for doing so due to its warm arid and semi-arid climate and the low cost of colonial labor needed for the "preparation and planting of cuttings, weeding of fields, harvesting of the material to be distilled." Perfumers selected pelargoniums because most species have a sweet aroma similar to roses. Such oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant.
 
 The Chiris company introduced a particular pelargonium hybrid, "_Geranium rosat_," to Boufarik, Algeria, selecting "a trentaine of wild Pelargonium species, from cells that are found most frequently in the Cap de Bonne Espérance region." That selection allowed the Chiris establishments to earn a stable profit.[REF] In 1865, Chiris built a 3,000 square meter factory in the Saint-Marguerite domain in Boufarik, which was first acquired in 1836. Its production was centered on _Pelargoniums_, orange trees, and other aromatic plants.[REF] However, the headquarters in Boufarik closed once it was nationalized in 1963, as did the other headquarters in the former European colonies.
@@ -150,11 +160,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA1NDYwOTAsLTEzMDIzODUzNDQsMT
-A4Mzk1OTY5MiwzNDU2MjQzNDcsLTUwNzYzMzM1NywtNDc2Nzgx
-MDY5LDExODU5ODU1OTAsLTk0MTMzOTQ1NSwxNjA5NjE5NTM0LD
-EwNTQxOTI1MDcsLTE0NjQzNDgxNTYsLTYzNjYxMzE3MywtODAw
-NjQ2NDY1LDIwOTAwMjkxNjcsLTgwMDExNDA5OSwtMTc2NDU1MD
-cxNywtMTAzMzM2MDY4NCwtNTk2MjY4MzYzLDMxODI2MjkxNCwt
-MTg2NTE3ODAzMV19
+eyJoaXN0b3J5IjpbMTYwOTkwNDE3MCwtMTMwMjM4NTM0NCwxMD
+gzOTU5NjkyLDM0NTYyNDM0NywtNTA3NjMzMzU3LC00NzY3ODEw
+NjksMTE4NTk4NTU5MCwtOTQxMzM5NDU1LDE2MDk2MTk1MzQsMT
+A1NDE5MjUwNywtMTQ2NDM0ODE1NiwtNjM2NjEzMTczLC04MDA2
+NDY0NjUsMjA5MDAyOTE2NywtODAwMTE0MDk5LC0xNzY0NTUwNz
+E3LC0xMDMzMzYwNjg0LC01OTYyNjgzNjMsMzE4MjYyOTE0LC0x
+ODY1MTc4MDMxXX0=
 -->
