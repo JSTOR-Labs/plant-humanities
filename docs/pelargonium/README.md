@@ -87,6 +87,12 @@ The pelargonium was a favored plant of municipal gardeners because the hardy eve
 
 By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly instated as a staple in British domestic interiors, gardens, and patios. In his hugely popular 1875 book [_The amateur's flower garden_](https://www.biodiversitylibrary.org/bibliography/145001#/summary), Shirley Hibberd included designs for creating a harmonious pelargonium garden—“geranium garden”—based on the plant’s striking colour variations. In the layout of a panel garden, Hibberd suggests two potential summer schemes: one for a red-harmony garden, and another for a blue-harmony style.[^ref12] By 1895, writers such as Donald McDonald were still echoing Hibberd’s domestic horticultural penchant for the plant; McDonald wrote that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums,” a testament to the long-standing appeal of _Pelargoniums_ in British Victorian culture.[^ref13]
 
+### The “Genteel” _Geranium_ and Working-class Culture
+
+The ubiquity of the _Pelargonium_ in the Victorian era soon began to carry a cultural significance all its own – and it was not always a positive one. In 1864’s _The Book of Flowers_, Caroline Kirkland follows the poet Leigh Hunt in describing the _Geranium_ (of course, really a _Pelargonium_) as a _genteel_ plant. She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel.”[^ref14] Although we may construe her comment as nothing more than an attestation to the _Pelargonium’s_ universal charms, her use of the word “genteel” takes on additional meaning when we consider the significance of the _Pelargonium_ in the context of working-class culture.
+
+
+
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
 
@@ -114,13 +120,15 @@ By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly 
 
 [^ref13]: McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
 
+[^ref
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjMzODk3NiwxMDgzOTU5NjkyLDM0NT
-YyNDM0NywtNTA3NjMzMzU3LC00NzY3ODEwNjksMTE4NTk4NTU5
-MCwtOTQxMzM5NDU1LDE2MDk2MTk1MzQsMTA1NDE5MjUwNywtMT
-Q2NDM0ODE1NiwtNjM2NjEzMTczLC04MDA2NDY0NjUsMjA5MDAy
-OTE2NywtODAwMTE0MDk5LC0xNzY0NTUwNzE3LC0xMDMzMzYwNj
-g0LC01OTYyNjgzNjMsMzE4MjYyOTE0LC0xODY1MTc4MDMxLC00
-ODU1OTk4NDZdfQ==
+eyJoaXN0b3J5IjpbLTE5NDkwNTMzMDIsMTA4Mzk1OTY5MiwzND
+U2MjQzNDcsLTUwNzYzMzM1NywtNDc2NzgxMDY5LDExODU5ODU1
+OTAsLTk0MTMzOTQ1NSwxNjA5NjE5NTM0LDEwNTQxOTI1MDcsLT
+E0NjQzNDgxNTYsLTYzNjYxMzE3MywtODAwNjQ2NDY1LDIwOTAw
+MjkxNjcsLTgwMDExNDA5OSwtMTc2NDU1MDcxNywtMTAzMzM2MD
+Y4NCwtNTk2MjY4MzYzLDMxODI2MjkxNCwtMTg2NTE3ODAzMSwt
+NDg1NTk5ODQ2XX0=
 -->
