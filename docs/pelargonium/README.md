@@ -45,7 +45,7 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 <param ve-entity eid="Q1019" title="Madagascar">
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
-The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia, though it was first collected by Europeans in present-day South Africa</span> in the late 1500s. Portuguese and Dutch traders harvested pelargoniums there, transporting the plants to Europe on their return from making colonial voyages.
+The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia, though it was first collected by Europeans in present-day South Africa in the late 1500s. Portuguese and Dutch traders harvested pelargoniums there, transporting the plants to Europe on their return from making colonial voyages.
 <param ve-map center="40, 0" zoom="1.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -53,7 +53,7 @@ The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madaga
 <param ve-entity eid="Q213360" title="Table Mountain">
 <param ve-entity eid="Q66569" title="Paul Hermann">
 Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the Leiden Botanical Garden by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref4]
-<param ve-map center="40, 0" zoom="1.5">
+<param ve-map center="-24.569, 25.879" zoom="3">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
 
@@ -72,11 +72,11 @@ The nomenclature confusion began when the plant now known as _Pelargonium_ _tris
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4ODIxNTMsLTE0NjQzNDgxNTYsLTYzNj
-YxMzE3MywtODAwNjQ2NDY1LDIwOTAwMjkxNjcsLTgwMDExNDA5
-OSwtMTc2NDU1MDcxNywtMTAzMzM2MDY4NCwtNTk2MjY4MzYzLD
-MxODI2MjkxNCwtMTg2NTE3ODAzMSwtNDg1NTk5ODQ2LC01MDA2
-MDk4ODAsLTE4Mzk4Mjk4MzYsLTEwMzYzMDMxMDMsNjc0NTgyNj
-A1LC05MTQ1OTAwOTYsLTE4Njg1OTY4OTksLTE1NDE2ODA5MTQs
-LTY5MzA4MjI2OV19
+eyJoaXN0b3J5IjpbMTA1NDE5MjUwNywtMTQ2NDM0ODE1NiwtNj
+M2NjEzMTczLC04MDA2NDY0NjUsMjA5MDAyOTE2NywtODAwMTE0
+MDk5LC0xNzY0NTUwNzE3LC0xMDMzMzYwNjg0LC01OTYyNjgzNj
+MsMzE4MjYyOTE0LC0xODY1MTc4MDMxLC00ODU1OTk4NDYsLTUw
+MDYwOTg4MCwtMTgzOTgyOTgzNiwtMTAzNjMwMzEwMyw2NzQ1OD
+I2MDUsLTkxNDU5MDA5NiwtMTg2ODU5Njg5OSwtMTU0MTY4MDkx
+NCwtNjkzMDgyMjY5XX0=
 -->
