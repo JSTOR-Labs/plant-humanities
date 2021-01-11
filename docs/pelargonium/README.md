@@ -31,8 +31,8 @@ The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a lo
 <param ve-map center="40, 0" zoom="1.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
-
 !["The stork brings its young a frog," Norway, Sverresborg Trøndelag Folkemuseum, Europeana](https://api.europeana.eu/thumbnail/v2/url.json?size=w400&type=IMAGE&uri=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800){: .right}
+
 
 
 Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. Several key differences between the genera can be observed by comparing the reproductive systems of the two plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. Another difference is that, while the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. A final divergence between the two is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens.
@@ -50,10 +50,10 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ1MTYxNjEsMzE4MjYyOTE0LC0xOD
-Y1MTc4MDMxLC00ODU1OTk4NDYsLTUwMDYwOTg4MCwtMTgzOTgy
-OTgzNiwtMTAzNjMwMzEwMyw2NzQ1ODI2MDUsLTkxNDU5MDA5Ni
-wtMTg2ODU5Njg5OSwtMTU0MTY4MDkxNCwtNjkzMDgyMjY5LC05
-ODE1MTU0MjYsMjI1MTI4MDU4LDY5MzgyMzA1OCwtODAwNTg1OT
-A0XX0=
+eyJoaXN0b3J5IjpbNDcwNDkwMjM5LDMxODI2MjkxNCwtMTg2NT
+E3ODAzMSwtNDg1NTk5ODQ2LC01MDA2MDk4ODAsLTE4Mzk4Mjk4
+MzYsLTEwMzYzMDMxMDMsNjc0NTgyNjA1LC05MTQ1OTAwOTYsLT
+E4Njg1OTY4OTksLTE1NDE2ODA5MTQsLTY5MzA4MjI2OSwtOTgx
+NTE1NDI2LDIyNTEyODA1OCw2OTM4MjMwNTgsLTgwMDU4NTkwNF
+19
 -->
