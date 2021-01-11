@@ -14,7 +14,15 @@
 <param ve-entity eid="Q199182" title="ornamental plant" aliases="ornamental">
 There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium.[^ref1] With their vibrant red flowers and sweet, rose scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color” at his country home, Gad’s Hill Place, in Kent.[^ref2] Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.[^ref3]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/8/80/Nepenthes_rafflesiana_squat2.jpg" title="_Nepenthes rafflesiana_, attributed to Robert Jong, en:User:Rbrtjong">
+
+
+### References
+[^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
+
+[^ref2]: Dickens, Mamie. _My Father as I Recall Him_. Roxburghe Press, 1896.
+
+[^ref3]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzMzMxMjAzLC05ODE1MTU0MjYsMjI1MT
+eyJoaXN0b3J5IjpbNDQwODc4NTY4LC05ODE1MTU0MjYsMjI1MT
 I4MDU4LDY5MzgyMzA1OCwtODAwNTg1OTA0XX0=
 -->
