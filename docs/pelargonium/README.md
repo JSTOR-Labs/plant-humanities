@@ -6,7 +6,7 @@
        banner="https://ids.lib.harvard.edu/ids/iiif/435776338/full/full/0/default.jpg"
        layout="vtl">
 
-### What's in a Name?
+### What’s in a Name?
 
 <param ve-entity eid="Q5686" title="Charles Dickens">
 <param ve-entity eid="Q5516441" title="Gads Hill Place" aliases="Gad’s Hill Place">
@@ -27,7 +27,7 @@ However, you might be surprised to learn that the scarlet geranium with which Di
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzI5MTMxOCwtNjkzMDgyMjY5LC05OD
+eyJoaXN0b3J5IjpbMTk0MjgxOTExMiwtNjkzMDgyMjY5LC05OD
 E1MTU0MjYsMjI1MTI4MDU4LDY5MzgyMzA1OCwtODAwNTg1OTA0
 XX0=
 -->
