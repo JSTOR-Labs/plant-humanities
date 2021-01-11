@@ -104,7 +104,7 @@ As a result, the _Pelargonium_ at the turn of the century became a symbol for th
 <param ve-entity eid="Q29520" title="China">
 <param ve-entity eid="Q79" title="Egypt">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, specifically in Paris. As part of a massive project to urbanize Paris, overseen by Emperor Napoleon III and Baron Haussmann, architects designed new parks, gardens, squares, and promenades and oversaw the revitalization of existing green spaces with fresh plantings.[REF] In his book _Les Promenades de Paris_, Adolphe Alphand inventories the myriad "trees, shrubs and plants" selected by him and others to beautify the city.[REF] Needless to say, they chose many different types of showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for mass-producing them. Although Alphand’s book primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[REF] The French-bred pelargoniums, which retained some of their exotic associations with Southern Africa, served as live manifestations of the global reach of the French Empire and its colonial agenda especially because the plants were then propagated in French Algiers to produce fragrant oils.
-<param ve-image primary fit="contain" url="https://www.davidrumsey.com/luna/servlet/workspace/handleMediaPlayer;JSESSIONID=d89290fb-8ab4-4ca6-b7db-0c60b7a724f7?lunaMediaId=RUMSEY~8~1~290244~90061831" title="Map “Les etu A. Chiris s'installent dans le Monde entier”, 1931, from David Rumsey Historical Map Collection">
+<param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47">
 
 <param ve-entity eid="Q262" title="Algeria">
 <param ve-entity eid="Q173705" title="Grasse">
@@ -164,7 +164,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjgyMjU3OSwxNTczMzMzMzI1LDcxNT
+eyJoaXN0b3J5IjpbMTU5NzA2MDI4MywxNTczMzMzMzI1LDcxNT
 Y5NzgxOSwtMTMwMjM4NTM0NCwxMDgzOTU5NjkyLDM0NTYyNDM0
 NywtNTA3NjMzMzU3LC00NzY3ODEwNjksMTE4NTk4NTU5MCwtOT
 QxMzM5NDU1LDE2MDk2MTk1MzQsMTA1NDE5MjUwNywtMTQ2NDM0
