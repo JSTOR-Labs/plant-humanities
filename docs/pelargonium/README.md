@@ -33,9 +33,8 @@ The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a lo
 
 
 Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. Several key differences between the genera can be observed by comparing the reproductive systems of the two plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. Another difference is that, while the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. A final divergence between the two is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens.
-<param ve-image layers url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
-<param ve-image url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
-```
+<param ve-image layers url="https://free.iiifhosting.com/iiif/946417abf874969ccb7ed3e11de335c107f89d030c8a7d27fe55a2c9892bb2c1/info.json" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
+<param ve-image url="https://free.iiifhosting.com/iiif/ba2f217efdf25d87a4fc0e79c0b096245ef26d4ebde668bd65af649d05b2deb1/info.json" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
@@ -44,9 +43,9 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTU5OTg0NiwtNTAwNjA5ODgwLC0xOD
-M5ODI5ODM2LC0xMDM2MzAzMTAzLDY3NDU4MjYwNSwtOTE0NTkw
-MDk2LC0xODY4NTk2ODk5LC0xNTQxNjgwOTE0LC02OTMwODIyNj
-ksLTk4MTUxNTQyNiwyMjUxMjgwNTgsNjkzODIzMDU4LC04MDA1
-ODU5MDRdfQ==
+eyJoaXN0b3J5IjpbLTE4NjUxNzgwMzEsLTQ4NTU5OTg0NiwtNT
+AwNjA5ODgwLC0xODM5ODI5ODM2LC0xMDM2MzAzMTAzLDY3NDU4
+MjYwNSwtOTE0NTkwMDk2LC0xODY4NTk2ODk5LC0xNTQxNjgwOT
+E0LC02OTMwODIyNjksLTk4MTUxNTQyNiwyMjUxMjgwNTgsNjkz
+ODIzMDU4LC04MDA1ODU5MDRdfQ==
 -->
