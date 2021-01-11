@@ -83,7 +83,7 @@ Early-1830s Britain saw the groundbreaking invention of the Wardian case, a seal
 
 It was against this backdrop that _Pelargoniums_ soon became the mainstay of all municipal gardens in Victorian England. The 1837 _Floricultural Cabinet_ listed the best pelargoniums for bedding as one of the old faithful multipurpose plants. The ubiquity of the plant in public spaces is also celebrated in E. Adveno Brooke’s 1858 book _The Gardens of England_. As he explains, the bright scarlet pelargonium bloomed nearly everywhere from stone vases to flowerbeds and parterres. These locations, shown in illustrations at right, include the upper and lower terrace gardens of Bewood, the colonnade of Alton Gardens, as well as the parterre of Harewood.
 
-The pelargonium was a favored plant of municipal gardeners because the hardy evergreen showed off its blooms for extended periods, flowering even in slightly chillier climates. More significantly, nursery owners adored the plant because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. Indeed, vendors were falling over one another to market the newest, most magnificent, and sweetest-smelling pelargoniums to meet the demand for the choicest blooms. Other factors contributing to the mania for the pelargonium were the arrival of mass-produced pots and planters for displaying ornamentals and, at least initially, excitement surrounding the exotic connotations of plant due to its Southern African provenance. Desire to obtain novel cultivars became so frenzied that some compared it to the infamous tulip-buying spree, known as “tulipomania,” that occurred in Holland in the 1630s.[^ref10]
+The pelargonium was a favored plant of municipal gardeners because the hardy evergreen showed off its blooms for extended periods, flowering even in slightly chillier climates. More significantly, nursery owners adored the plant because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. Indeed, vendors were falling over one another to market the newest, most magnificent, and sweetest-smelling pelargoniums to meet the demand for the choicest blooms. Other factors contributing to the mania for the pelargonium were the arrival of mass-produced pots and planters for displaying ornamentals and, at least initially, excitement surrounding the exotic connotations of plant due to its Southern African provenance. Desire to obtain novel cultivars became so frenzied that some compared it to the infamous tulip-buying spree, known as “tulipomania,” that occurred in Holland in the 1630s.[^ref11]
 
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
@@ -105,8 +105,12 @@ The pelargonium was a favored plant of municipal gardeners because the hardy eve
 [^ref9]: Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
 
 [^ref10]: Lindsay Wells. "Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor." _Victorian Studies_ 60, no. 2 (2018): 158-70. Accessed January 11, 2021. http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02.
+
+[^ref11]: Hibberd, Shirley. “Lecture on the Pelargonium.” _The Journal of Horticulture_, 1880, pp. 14, 74-75.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDM5NTE3NjgsMTA4Mzk1OTY5MiwzND
+eyJoaXN0b3J5IjpbLTE2Njk2NTUyMzcsMTA4Mzk1OTY5MiwzND
 U2MjQzNDcsLTUwNzYzMzM1NywtNDc2NzgxMDY5LDExODU5ODU1
 OTAsLTk0MTMzOTQ1NSwxNjA5NjE5NTM0LDEwNTQxOTI1MDcsLT
 E0NjQzNDgxNTYsLTYzNjYxMzE3MywtODAwNjQ2NDY1LDIwOTAw
