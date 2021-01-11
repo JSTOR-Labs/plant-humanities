@@ -25,9 +25,12 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is a
 
 ### _Pelargonium_ Morphology: Fruit and Flower
 
-<![endif]-->
-
 The _Pelargonium_ is a perennial bush, with a strong and aromatic smell. There are approximately 300 species of _Pelargonium_, originating from Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. The particular morphology of the plant actually lends the genus its name; _Pelargonium_ comes from the Greek word _pelargos_ (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”) which alludes to the long, almost beak-shaped fruit.
+<param ve-image 
+title="Pelargonium alchemilloides (L.) L'Hér." url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center">
+<param ve-map center="40, 0" zoom="1.5">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
+```
 
 
 ### References
@@ -37,7 +40,7 @@ The _Pelargonium_ is a perennial bush, with a strong and aromatic smell. There a
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDg3MTIwMCwtMTAzNjMwMzEwMyw2Nz
+eyJoaXN0b3J5IjpbMTc3MjM3NTUzOSwtMTAzNjMwMzEwMyw2Nz
 Q1ODI2MDUsLTkxNDU5MDA5NiwtMTg2ODU5Njg5OSwtMTU0MTY4
 MDkxNCwtNjkzMDgyMjY5LC05ODE1MTU0MjYsMjI1MTI4MDU4LD
 Y5MzgyMzA1OCwtODAwNTg1OTA0XX0=
