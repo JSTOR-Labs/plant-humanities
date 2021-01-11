@@ -108,7 +108,7 @@ Today, pelargonium oil continues to be industrially produced in factories across
 ### Conclusion
 
 Although the _Pelargonium_ by any other name would smell as sweet, our recognition of its unique identity is long overdue. Indeed, the _Pelargonium_’s almost-forgotten global history extremely rich blossoming as it does at the intersections of colonial trade, botany, agriculture, gardening, art, culture, and industry. Telling the story of the _Pelargonium_ as an entity separate from the _Geranium_, illuminates just some of the many ways in which it has been interwoven with human histories – hiding in plain sight, as it were, by virtue of its long-persisting misnomer.
-<param ve-image primary fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.item.r=Geranium.zoom" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), 1907-1920, photograph, Gallica">
+<param ve-image primary fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.item.r=Geranium.zoom" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), 1907-1920, photograph, Source gallica.bnf.fr / BnF">
 
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
@@ -147,11 +147,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTExMDEzNDMsMTA4Mzk1OTY5MiwzND
-U2MjQzNDcsLTUwNzYzMzM1NywtNDc2NzgxMDY5LDExODU5ODU1
-OTAsLTk0MTMzOTQ1NSwxNjA5NjE5NTM0LDEwNTQxOTI1MDcsLT
-E0NjQzNDgxNTYsLTYzNjYxMzE3MywtODAwNjQ2NDY1LDIwOTAw
-MjkxNjcsLTgwMDExNDA5OSwtMTc2NDU1MDcxNywtMTAzMzM2MD
-Y4NCwtNTk2MjY4MzYzLDMxODI2MjkxNCwtMTg2NTE3ODAzMSwt
-NDg1NTk5ODQ2XX0=
+eyJoaXN0b3J5IjpbODEyMjg2NjI3LDEwODM5NTk2OTIsMzQ1Nj
+I0MzQ3LC01MDc2MzMzNTcsLTQ3Njc4MTA2OSwxMTg1OTg1NTkw
+LC05NDEzMzk0NTUsMTYwOTYxOTUzNCwxMDU0MTkyNTA3LC0xND
+Y0MzQ4MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NSwyMDkwMDI5
+MTY3LC04MDAxMTQwOTksLTE3NjQ1NTA3MTcsLTEwMzMzNjA2OD
+QsLTU5NjI2ODM2MywzMTgyNjI5MTQsLTE4NjUxNzgwMzEsLTQ4
+NTU5OTg0Nl19
 -->
