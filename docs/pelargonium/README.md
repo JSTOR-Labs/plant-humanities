@@ -45,9 +45,8 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 <param ve-entity eid="Q1019" title="Madagascar">
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
-<param ve-entity eid="Q490360" title="Hickory Country" aliases="eastern North America">
-<param ve-entity eid="Q222046" title="genomics">
-<param ve-entity eid="Q839954" title="archaeological site">
+<param ve-entity eid="Q213360" title="Table Mountain">
+<param ve-entity eid="Q66569" title="Paul Hermann">
 The _Pelargonium_ is native to Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. Portuguese and Dutch traders first introduced the plant to Europe on their return from making colonial voyages to present-day South Africa. Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the Leiden Botanical Garden by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref4]
 <param ve-map center="40, 0" zoom="1.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
@@ -68,11 +67,11 @@ The nomenclature confusion began when the plant now known as _Pelargonium_ _tris
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjIwMjcwMzUsLTgwMDExNDA5OSwtMT
-c2NDU1MDcxNywtMTAzMzM2MDY4NCwtNTk2MjY4MzYzLDMxODI2
-MjkxNCwtMTg2NTE3ODAzMSwtNDg1NTk5ODQ2LC01MDA2MDk4OD
-AsLTE4Mzk4Mjk4MzYsLTEwMzYzMDMxMDMsNjc0NTgyNjA1LC05
-MTQ1OTAwOTYsLTE4Njg1OTY4OTksLTE1NDE2ODA5MTQsLTY5Mz
-A4MjI2OSwtOTgxNTE1NDI2LDIyNTEyODA1OCw2OTM4MjMwNTgs
-LTgwMDU4NTkwNF19
+eyJoaXN0b3J5IjpbLTcxOTM5NDk4MCwtODAwMTE0MDk5LC0xNz
+Y0NTUwNzE3LC0xMDMzMzYwNjg0LC01OTYyNjgzNjMsMzE4MjYy
+OTE0LC0xODY1MTc4MDMxLC00ODU1OTk4NDYsLTUwMDYwOTg4MC
+wtMTgzOTgyOTgzNiwtMTAzNjMwMzEwMyw2NzQ1ODI2MDUsLTkx
+NDU5MDA5NiwtMTg2ODU5Njg5OSwtMTU0MTY4MDkxNCwtNjkzMD
+gyMjY5LC05ODE1MTU0MjYsMjI1MTI4MDU4LDY5MzgyMzA1OCwt
+ODAwNTg1OTA0XX0=
 -->
