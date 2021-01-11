@@ -53,6 +53,7 @@ The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madaga
 <param ve-entity eid="Q213360" title="Table Mountain">
 <param ve-entity eid="Q66569" title="Paul Hermann">
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
+
 Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span>by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref4]
 <param ve-map center="-24.569, 25.879" zoom="5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
@@ -73,11 +74,11 @@ The nomenclature confusion began when the plant now known as _Pelargonium_ _tris
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjg4MDg3OSwxMTg1OTg1NTkwLC05ND
-EzMzk0NTUsMTYwOTYxOTUzNCwxMDU0MTkyNTA3LC0xNDY0MzQ4
-MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NSwyMDkwMDI5MTY3LC
-04MDAxMTQwOTksLTE3NjQ1NTA3MTcsLTEwMzMzNjA2ODQsLTU5
-NjI2ODM2MywzMTgyNjI5MTQsLTE4NjUxNzgwMzEsLTQ4NTU5OT
-g0NiwtNTAwNjA5ODgwLC0xODM5ODI5ODM2LC0xMDM2MzAzMTAz
-LDY3NDU4MjYwNV19
+eyJoaXN0b3J5IjpbNTczOTU5MTY5LDExODU5ODU1OTAsLTk0MT
+MzOTQ1NSwxNjA5NjE5NTM0LDEwNTQxOTI1MDcsLTE0NjQzNDgx
+NTYsLTYzNjYxMzE3MywtODAwNjQ2NDY1LDIwOTAwMjkxNjcsLT
+gwMDExNDA5OSwtMTc2NDU1MDcxNywtMTAzMzM2MDY4NCwtNTk2
+MjY4MzYzLDMxODI2MjkxNCwtMTg2NTE3ODAzMSwtNDg1NTk5OD
+Q2LC01MDA2MDk4ODAsLTE4Mzk4Mjk4MzYsLTEwMzYzMDMxMDMs
+Njc0NTgyNjA1XX0=
 -->
