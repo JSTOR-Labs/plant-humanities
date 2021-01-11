@@ -29,7 +29,7 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is a
 The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period.  The particular morphology of the plant lends the genus its name; _Pelargonium_ comes from the Greek word _pelargos_ ("[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”) which alludes to its long, almost beak-shaped fruit.
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="Pelargonium alchemilloides (L.) L'Hér.">
 
-<param ve-entity eid="Q157211" title="geranium" aliases="Geranium"> 
+<param ve-entity eid="Q183252" title="morphology"> 
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
 <param ve-entity eid="Q18083598" title="Pelargonium inquinans"> 
 Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. Several key differences between the genera can be observed by comparing the reproductive systems of the two plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. Another difference is that, while the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. A final divergence between the two is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens.
@@ -58,11 +58,11 @@ The nomenclature confusion began when the plant now known as _Pelargonium_ _tris
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDExNDA5OSwtMTc2NDU1MDcxNywtMT
-AzMzM2MDY4NCwtNTk2MjY4MzYzLDMxODI2MjkxNCwtMTg2NTE3
-ODAzMSwtNDg1NTk5ODQ2LC01MDA2MDk4ODAsLTE4Mzk4Mjk4Mz
-YsLTEwMzYzMDMxMDMsNjc0NTgyNjA1LC05MTQ1OTAwOTYsLTE4
-Njg1OTY4OTksLTE1NDE2ODA5MTQsLTY5MzA4MjI2OSwtOTgxNT
-E1NDI2LDIyNTEyODA1OCw2OTM4MjMwNTgsLTgwMDU4NTkwNF19
-
+eyJoaXN0b3J5IjpbODkwODA5ODAwLC04MDAxMTQwOTksLTE3Nj
+Q1NTA3MTcsLTEwMzMzNjA2ODQsLTU5NjI2ODM2MywzMTgyNjI5
+MTQsLTE4NjUxNzgwMzEsLTQ4NTU5OTg0NiwtNTAwNjA5ODgwLC
+0xODM5ODI5ODM2LC0xMDM2MzAzMTAzLDY3NDU4MjYwNSwtOTE0
+NTkwMDk2LC0xODY4NTk2ODk5LC0xNTQxNjgwOTE0LC02OTMwOD
+IyNjksLTk4MTUxNTQyNiwyMjUxMjgwNTgsNjkzODIzMDU4LC04
+MDA1ODU5MDRdfQ==
 -->
