@@ -60,9 +60,7 @@ Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was proba
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
 <param ve-entity eid="Q10543296" title="Pelargonium triste">
-<param ve-entity eid="Q66569" title="Paul Hermann">
-<param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
-<param ve-entity eid="Q43631" title="Leiden">
+<param ve-entity eid="Q863247" title="nomenclature">
 The nomenclature confusion began when the plant now known as _Pelargonium_ _triste_ was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P._ _triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_ due to the superficial similarities between the genera _Geranium_ and Pelargonium. This visualization of the two plants’ overlapping global nomenclature history provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
 
@@ -103,11 +101,11 @@ Early-1830s Britain saw the groundbreaking invention of the Wardian case, a seal
 
 [^ref9]: Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5MjI4NDE1LDM0NTYyNDM0NywtNTA3Nj
-MzMzU3LC00NzY3ODEwNjksMTE4NTk4NTU5MCwtOTQxMzM5NDU1
-LDE2MDk2MTk1MzQsMTA1NDE5MjUwNywtMTQ2NDM0ODE1NiwtNj
-M2NjEzMTczLC04MDA2NDY0NjUsMjA5MDAyOTE2NywtODAwMTE0
-MDk5LC0xNzY0NTUwNzE3LC0xMDMzMzYwNjg0LC01OTYyNjgzNj
-MsMzE4MjYyOTE0LC0xODY1MTc4MDMxLC00ODU1OTk4NDYsLTUw
-MDYwOTg4MF19
+eyJoaXN0b3J5IjpbLTUzOTgzNDA2NiwzNDU2MjQzNDcsLTUwNz
+YzMzM1NywtNDc2NzgxMDY5LDExODU5ODU1OTAsLTk0MTMzOTQ1
+NSwxNjA5NjE5NTM0LDEwNTQxOTI1MDcsLTE0NjQzNDgxNTYsLT
+YzNjYxMzE3MywtODAwNjQ2NDY1LDIwOTAwMjkxNjcsLTgwMDEx
+NDA5OSwtMTc2NDU1MDcxNywtMTAzMzM2MDY4NCwtNTk2MjY4Mz
+YzLDMxODI2MjkxNCwtMTg2NTE3ODAzMSwtNDg1NTk5ODQ2LC01
+MDA2MDk4ODBdfQ==
 -->
