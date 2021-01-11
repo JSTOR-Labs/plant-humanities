@@ -26,7 +26,7 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is a
 
 ### Pelargonium Morphology: Fruit and Flower
 
-The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period. The particular morphology of the plant lends the genus its name; _Pelargonium_ comes from the Greek word _pelargos_ (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”) which alludes to the long, almost beak-shaped fruit.
+The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period. ![endif]--> There are approximately 300 species of _Pelargonium_, originating from Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. The particular morphology of the plant actually lends the genus its name; _Pelargonium_ comes from the Greek word _pelargos_ (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”) which alludes to the long, almost beak-shaped fruit.
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="Pelargonium alchemilloides (L.) L'Hér.">
 <param ve-map center="40, 0" zoom="1.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
@@ -46,7 +46,7 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDYzNTE2MiwtMTg2NTE3ODAzMSwtND
+eyJoaXN0b3J5IjpbMTIzODYyODc2OSwtMTg2NTE3ODAzMSwtND
 g1NTk5ODQ2LC01MDA2MDk4ODAsLTE4Mzk4Mjk4MzYsLTEwMzYz
 MDMxMDMsNjc0NTgyNjA1LC05MTQ1OTAwOTYsLTE4Njg1OTY4OT
 ksLTE1NDE2ODA5MTQsLTY5MzA4MjI2OSwtOTgxNTE1NDI2LDIy
