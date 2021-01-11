@@ -114,7 +114,7 @@ As a result, the _Pelargonium_ at the turn of the century became a symbol for th
 <param ve-entity eid="Q90" title="Paris">
 <param ve-entity eid="Q79" title="Egypt">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, specifically in Paris. As part of a massive project to urbanize Paris, overseen by Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, architects designed new parks, gardens, squares, and promenades and oversaw the revitalization of existing green spaces with fresh plantings.[REF] In his book _Les Promenades de Paris_, Adolphe Alphand inventories the myriad "trees, shrubs and plants" selected by him and others to beautify the city.[REF] Needless to say, they chose many different types of showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for mass-producing them. Although Alphand’s book primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[REF] The French-bred pelargoniums, which retained some of their exotic associations with Southern Africa, served as live manifestations of the global reach of the French Empire and its colonial agenda especially because the plants were then propagated in French Algiers to produce fragrant oils.
-<param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47">
+<param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="45">
 <param ve-image fit="contain" url="http://bibliotheque-numerique.hortalia.org/files/original/cfaab4c201ee428b33285f88ffa6af24.jpg" title="_Pelargoniums_ in the Jardins de Luxembourg in Paris. Hortalia Bibliothèque numérique">
 
 <param ve-entity eid="Q262" title="Algeria">
@@ -175,11 +175,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzM2MzA2LDE1MTQyMDUyNDIsLTExND
-c5NjYyMDMsLTEwNTczMTcxODYsLTEwMzE2NjA5MzAsMTU3MzMz
-MzMyNSw3MTU2OTc4MTksLTEzMDIzODUzNDQsMTA4Mzk1OTY5Mi
-wzNDU2MjQzNDcsLTUwNzYzMzM1NywtNDc2NzgxMDY5LDExODU5
-ODU1OTAsLTk0MTMzOTQ1NSwxNjA5NjE5NTM0LDEwNTQxOTI1MD
-csLTE0NjQzNDgxNTYsLTYzNjYxMzE3MywtODAwNjQ2NDY1LDIw
-OTAwMjkxNjddfQ==
+eyJoaXN0b3J5IjpbMTgwODQ1MTI1MiwxNTE0MjA1MjQyLC0xMT
+Q3OTY2MjAzLC0xMDU3MzE3MTg2LC0xMDMxNjYwOTMwLDE1NzMz
+MzMzMjUsNzE1Njk3ODE5LC0xMzAyMzg1MzQ0LDEwODM5NTk2OT
+IsMzQ1NjI0MzQ3LC01MDc2MzMzNTcsLTQ3Njc4MTA2OSwxMTg1
+OTg1NTkwLC05NDEzMzk0NTUsMTYwOTYxOTUzNCwxMDU0MTkyNT
+A3LC0xNDY0MzQ4MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NSwy
+MDkwMDI5MTY3XX0=
 -->
