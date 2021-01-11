@@ -65,6 +65,7 @@ The nomenclature confusion began when the plant now known as _Pelargonium_ _tris
 Botanists have struggled to disentangle the _Pelargonium_ and the _Geranium_ since the mid-1750s. Carl Linnaeus, in his 1753 [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for 20 pelargoniums including the _Pelargonium zonale_.[^ref5] Because Linnaean taxonomy was so revered at that time, Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargoniums_ as an independent genus was overlooked.[^ref6] Eventually, by creating ten new genera in the _Geraniaceae_ family, Robert Sweet introduced a serious classification system in 1820 to ease the shortfall in Linnaean nomenclature.[^ref7] However, by the early nineteenth century, pelargoniums had already attained so much popularity, particularly in England and France, that the name “geranium” stuck. 
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
+### The Wardian Case: A New Horizon for Overseas Plant Transport**
 
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
@@ -81,11 +82,11 @@ Botanists have struggled to disentangle the _Pelargonium_ and the _Geranium_ sin
 
 [^ref7]: Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM1OTI4NDIsLTUwNzYzMzM1NywtND
-c2NzgxMDY5LDExODU5ODU1OTAsLTk0MTMzOTQ1NSwxNjA5NjE5
-NTM0LDEwNTQxOTI1MDcsLTE0NjQzNDgxNTYsLTYzNjYxMzE3My
-wtODAwNjQ2NDY1LDIwOTAwMjkxNjcsLTgwMDExNDA5OSwtMTc2
-NDU1MDcxNywtMTAzMzM2MDY4NCwtNTk2MjY4MzYzLDMxODI2Mj
-kxNCwtMTg2NTE3ODAzMSwtNDg1NTk5ODQ2LC01MDA2MDk4ODAs
-LTE4Mzk4Mjk4MzZdfQ==
+eyJoaXN0b3J5IjpbLTY0Mjg2MjI4MSwtNTA3NjMzMzU3LC00Nz
+Y3ODEwNjksMTE4NTk4NTU5MCwtOTQxMzM5NDU1LDE2MDk2MTk1
+MzQsMTA1NDE5MjUwNywtMTQ2NDM0ODE1NiwtNjM2NjEzMTczLC
+04MDA2NDY0NjUsMjA5MDAyOTE2NywtODAwMTE0MDk5LC0xNzY0
+NTUwNzE3LC0xMDMzMzYwNjg0LC01OTYyNjgzNjMsMzE4MjYyOT
+E0LC0xODY1MTc4MDMxLC00ODU1OTk4NDYsLTUwMDYwOTg4MCwt
+MTgzOTgyOTgzNl19
 -->
