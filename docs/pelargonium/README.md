@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config
-       title="A *Pelargonium* by Any Other Name Would Smell as Sweet…"
+       title="A Pelargonium by Any Other Name Would Smell as Sweet…"
        author="Daisy Reid, Verónica Matallana Chaves, Yao Jiang"
        source-image="blob:null/350ec559-ab4d-204b-ad69-901393a2d9adhttps://www.biodiversitylibrary.org/item/53838#page/149/mode/1up"
        banner="https://ids.lib.harvard.edu/ids/iiif/435776338/full/full/0/default.jpg"
@@ -30,7 +30,7 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is a
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0OTE5NDUyLC02OTMwODIyNjksLTk4MT
-UxNTQyNiwyMjUxMjgwNTgsNjkzODIzMDU4LC04MDA1ODU5MDRd
-fQ==
+eyJoaXN0b3J5IjpbLTE1NDE2ODA5MTQsLTY5MzA4MjI2OSwtOT
+gxNTE1NDI2LDIyNTEyODA1OCw2OTM4MjMwNTgsLTgwMDU4NTkw
+NF19
 -->
