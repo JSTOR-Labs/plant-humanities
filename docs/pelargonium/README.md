@@ -53,11 +53,10 @@ The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madaga
 <param ve-entity eid="Q213360" title="Table Mountain">
 <param ve-entity eid="Q66569" title="Paul Hermann">
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
-
+<param ve-entity eid=
 Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span>by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref4]
 <param ve-map center="-24.569, 25.879" zoom="5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
-
 
 The nomenclature confusion began when the plant now known as _Pelargonium_ _triste_ was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P._ _triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_ due to the superficial similarities between the genera _Geranium_ and Pelargonium. This visualization of the two plants’ overlapping global nomenclature history provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
@@ -74,11 +73,11 @@ The nomenclature confusion began when the plant now known as _Pelargonium_ _tris
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczOTU5MTY5LDExODU5ODU1OTAsLTk0MT
-MzOTQ1NSwxNjA5NjE5NTM0LDEwNTQxOTI1MDcsLTE0NjQzNDgx
-NTYsLTYzNjYxMzE3MywtODAwNjQ2NDY1LDIwOTAwMjkxNjcsLT
-gwMDExNDA5OSwtMTc2NDU1MDcxNywtMTAzMzM2MDY4NCwtNTk2
-MjY4MzYzLDMxODI2MjkxNCwtMTg2NTE3ODAzMSwtNDg1NTk5OD
-Q2LC01MDA2MDk4ODAsLTE4Mzk4Mjk4MzYsLTEwMzYzMDMxMDMs
-Njc0NTgyNjA1XX0=
+eyJoaXN0b3J5IjpbLTE4MDExMDQ2MjYsMTE4NTk4NTU5MCwtOT
+QxMzM5NDU1LDE2MDk2MTk1MzQsMTA1NDE5MjUwNywtMTQ2NDM0
+ODE1NiwtNjM2NjEzMTczLC04MDA2NDY0NjUsMjA5MDAyOTE2Ny
+wtODAwMTE0MDk5LC0xNzY0NTUwNzE3LC0xMDMzMzYwNjg0LC01
+OTYyNjgzNjMsMzE4MjYyOTE0LC0xODY1MTc4MDMxLC00ODU1OT
+k4NDYsLTUwMDYwOTg4MCwtMTgzOTgyOTgzNiwtMTAzNjMwMzEw
+Myw2NzQ1ODI2MDVdfQ==
 -->
