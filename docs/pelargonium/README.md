@@ -97,7 +97,11 @@ As a result, the _Pelargonium_ at the turn of the century became a symbol for th
 
 ### Pelargoniums, Imperial Splendor, and Colonial Profit
 
+The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, specifically in Paris. As part of a massive project to urbanize Paris, overseen by Emperor Napoleon III and Baron Haussmann, architects designed new parks, gardens, squares, and promenades and oversaw the revitalization of existing green spaces with fresh plantings.[REF] In his book _Les Promenades de Paris_, Adolphe Alphand inventories the myriad "trees, shrubs and plants" selected by him and others to beautify the city.[REF] Needless to say, they chose many different types of showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for mass-producing them. Although Alphand’s book primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[REF] The French-bred pelargoniums, which retained some of their exotic associations with Southern Africa, served as live manifestations of the global reach of the French Empire and its colonial agenda especially because the plants were then propagated in French Algiers to produce fragrant oils.
 
+In 1847, the French perfume industries of Grasse, including the company of Léon Chiris, introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it. Algeria was considered an ideal place for doing so due to its warm arid and semi-arid climate and the low cost of colonial labor needed for the "preparation and planting of cuttings, weeding of fields, harvesting of the material to be distilled." Perfumers selected pelargoniums because most species have a sweet aroma similar to roses. Such oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant.
+
+The Chiris company introduced a particular pelargonium hybrid, "_Geranium rosat_," to Boufarik, Algeria, selecting "a trentaine of wild Pelargonium species, from cells that are found most frequently in the Cap de Bonne Espérance region." That selection allowed the Chiris establishments to earn a stable profit.[REF] 
 
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
@@ -136,11 +140,11 @@ As a result, the _Pelargonium_ at the turn of the century became a symbol for th
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDQxMDY0LDEwODM5NTk2OTIsMzQ1Nj
-I0MzQ3LC01MDc2MzMzNTcsLTQ3Njc4MTA2OSwxMTg1OTg1NTkw
-LC05NDEzMzk0NTUsMTYwOTYxOTUzNCwxMDU0MTkyNTA3LC0xND
-Y0MzQ4MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NSwyMDkwMDI5
-MTY3LC04MDAxMTQwOTksLTE3NjQ1NTA3MTcsLTEwMzMzNjA2OD
-QsLTU5NjI2ODM2MywzMTgyNjI5MTQsLTE4NjUxNzgwMzEsLTQ4
-NTU5OTg0Nl19
+eyJoaXN0b3J5IjpbLTEzMzY3NzkzNCwxMDgzOTU5NjkyLDM0NT
+YyNDM0NywtNTA3NjMzMzU3LC00NzY3ODEwNjksMTE4NTk4NTU5
+MCwtOTQxMzM5NDU1LDE2MDk2MTk1MzQsMTA1NDE5MjUwNywtMT
+Q2NDM0ODE1NiwtNjM2NjEzMTczLC04MDA2NDY0NjUsMjA5MDAy
+OTE2NywtODAwMTE0MDk5LC0xNzY0NTUwNzE3LC0xMDMzMzYwNj
+g0LC01OTYyNjgzNjMsMzE4MjYyOTE0LC0xODY1MTc4MDMxLC00
+ODU1OTk4NDZdfQ==
 -->
