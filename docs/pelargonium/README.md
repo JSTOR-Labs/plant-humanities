@@ -94,7 +94,7 @@ The ubiquity of the _Pelargonium_ in the Victorian era soon began to carry a cul
 For many lower-class Victorian families who did not have gardens, growing _Pelargoniums_ in pots and displaying them in windows or balconies became a way to try and project a sense of belonging to higher classes to which they aspired. In other words, as the century wore on, the iconic flower became a visual marker for the lower classes’ (often awkward) attempts to convey a social standing superior to their own. Naturally, such attempts rarely landed in the way they were intended, and before long, horticulturalists began to look down on the _Pelargonium_ with a certain derision. Jekyll writes in 1919 that, “It is a common thing for friends to express surprise at seeing scarlet Geraniums...in my garden, forgetting that it was not the fault of the plants that they were misused or employed in dull or even stupid ways.”[^ref15] His comments reveal that it was not the plants themselves that were particularly offensive to garden specialists; rather, it was the way they had been used by certain cack-handed individuals, presumably the lower classes, that made them such a subject of scorn in horticultural circles. 
 
 As a result, the _Pelargonium_ at the turn of the century became a symbol for the working class’s ungainly attempts at propriety and a gauche lack of style–and it was instrumentalized as such throughout art and literature. Catherine Horwood notes that, “If there is one plant that sums up the attitude of Victorian sentimentalists towards the unfortunate working class in the nineteenth century, it is the forlorn red ‘geranium’ sitting on a cottage window-sill. Hundreds of artists used this as a symbol of aspirations to respectability.”[^ref16] With this context, we might understand Kirkland’s pretensions to the “genteel _Geranium_” as an ironic statement, more in line with the OED’s definition of “genteel” as “being characteristic of those who are possessed with a dread of being taken for ‘common people’, or who attach exaggerated importance to supposed marks of social superiority...in educated language it has always a sarcastic or at least playful colouring,” than to assertions of true gentility.[^ref17] 
-<param ve-image primary fit="contain" url="https://wikioo.org/paintings.php?refarticle=9GZR6B&titlepainting=The%20music%20lesson&artistname=William%20Henry%20Midwood" title="_The Music Lesson_, oil on canvas, 1872, William Henry Midwood, ">
+<param ve-image primary fit="contain" url="https://wikioo.org/paintings.php?refarticle=9GZR6B&titlepainting=The%20music%20lesson&artistname=William%20Henry%20Midwood" title="_The Music Lesson_, oil on canvas, 1872, William Henry Midwood, Wikioo.org - The Encyclopedia of Fine Arts">
 
 ### Pelargoniums, Imperial Splendor, and Colonial Profit
 
@@ -166,11 +166,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzI1MzczMCwtMTAzMTY2MDkzMCwxNT
-czMzMzMzI1LDcxNTY5NzgxOSwtMTMwMjM4NTM0NCwxMDgzOTU5
-NjkyLDM0NTYyNDM0NywtNTA3NjMzMzU3LC00NzY3ODEwNjksMT
-E4NTk4NTU5MCwtOTQxMzM5NDU1LDE2MDk2MTk1MzQsMTA1NDE5
-MjUwNywtMTQ2NDM0ODE1NiwtNjM2NjEzMTczLC04MDA2NDY0Nj
-UsMjA5MDAyOTE2NywtODAwMTE0MDk5LC0xNzY0NTUwNzE3LC0x
-MDMzMzYwNjg0XX0=
+eyJoaXN0b3J5IjpbNTc2NzY5Mjk3LC0xMDMxNjYwOTMwLDE1Nz
+MzMzMzMjUsNzE1Njk3ODE5LC0xMzAyMzg1MzQ0LDEwODM5NTk2
+OTIsMzQ1NjI0MzQ3LC01MDc2MzMzNTcsLTQ3Njc4MTA2OSwxMT
+g1OTg1NTkwLC05NDEzMzk0NTUsMTYwOTYxOTUzNCwxMDU0MTky
+NTA3LC0xNDY0MzQ4MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NS
+wyMDkwMDI5MTY3LC04MDAxMTQwOTksLTE3NjQ1NTA3MTcsLTEw
+MzMzNjA2ODRdfQ==
 -->
