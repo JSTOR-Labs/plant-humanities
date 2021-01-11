@@ -21,8 +21,8 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 
 [^ref2]: Dickens, Mamie. _My Father as I Recall Him_. Roxburghe Press, 1896.
 
-[^ref3]: 
+[^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwODc4NTY4LC05ODE1MTU0MjYsMjI1MT
-I4MDU4LDY5MzgyMzA1OCwtODAwNTg1OTA0XX0=
+eyJoaXN0b3J5IjpbMTY4ODAxMDAzMCwtOTgxNTE1NDI2LDIyNT
+EyODA1OCw2OTM4MjMwNTgsLTgwMDU4NTkwNF19
 -->
