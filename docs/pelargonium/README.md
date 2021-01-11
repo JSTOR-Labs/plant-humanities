@@ -96,7 +96,7 @@ By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly 
 ### The “Genteel” _Geranium_ and Working-class Culture
 
 The ubiquity of the _Pelargonium_ in the Victorian era soon began to carry a cultural significance all its own – and it was not always a positive one. In 1864’s _The Book of Flowers_, Caroline Kirkland follows the poet Leigh Hunt in describing the _Geranium_ (of course, really a _Pelargonium_) as a _genteel_ plant. She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel.”[^ref14] Although we may construe her comment as nothing more than an attestation to the _Pelargonium’s_ universal charms, her use of the word “genteel” takes on additional meaning when we consider the significance of the _Pelargonium_ in the context of working-class culture.
-<param ve-image primary fit="contain" url="https://ia903006.us.archive.org/BookReader/BookReaderImages.php?id=miniaturelangua00burk&itemPath=%2F15%2Fitems%2Fminiaturelangua00burk&server=ia903006.us.archive.org&page=n33_w436" title="<The broad range of varieties and scents of _Pelargonium_ (under the name _Geranium_, of course) made it a favourite in the Victorian “language of flowers.” This concealed language allowed members of upper-class society to use specific flowers as a sort of code to pass on secret, often romantic, messages that they were forbidden from speaking aloud. Here, we can see that the scarlet Geranium (_P. inquinans_) means “comfort.” Excerpt from L. Burke’s _The Miniature Language of Flowers_, Biodiversity Heritage Library">
+<param ve-image primary fit="contain" url="https://ia903006.us.archive.org/BookReader/BookReaderImages.php?id=miniaturelangua00burk&itemPath=%2F15%2Fitems%2Fminiaturelangua00burk&server=ia903006.us.archive.org&page=n33_w436" title="The broad range of varieties and scents of _Pelargonium_ (under the name _Geranium_, of course) made it a favourite in the Victorian “language of flowers.” This concealed language allowed members of upper-class society to use specific flowers as a sort of code to pass on secret, often romantic, messages that they were forbidden from speaking aloud. Here, we can see that the scarlet Geranium (_P. inquinans_) means “comfort.” Excerpt from L. Burke’s _The Miniature Language of Flowers_, Biodiversity Heritage Library">
 
 For many lower-class Victorian families who did not have gardens, growing _Pelargoniums_ in pots and displaying them in windows or balconies became a way to try and project a sense of belonging to higher classes to which they aspired. In other words, as the century wore on, the iconic flower became a visual marker for the lower classes’ (often awkward) attempts to convey a social standing superior to their own. Naturally, such attempts rarely landed in the way they were intended, and before long, horticulturalists began to look down on the _Pelargonium_ with a certain derision. Jekyll writes in 1919 that, “It is a common thing for friends to express surprise at seeing scarlet Geraniums...in my garden, forgetting that it was not the fault of the plants that they were misused or employed in dull or even stupid ways.”[^ref15] His comments reveal that it was not the plants themselves that were particularly offensive to garden specialists; rather, it was the way they had been used by certain cack-handed individuals, presumably the lower classes, that made them such a subject of scorn in horticultural circles.
 <param ve-image primary fit="contain" url="https://ia902704.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/jennysgeraniumor00bostiala/jennysgeraniumor00bostiala_jp2.zip&file=jennysgeraniumor00bostiala_jp2/jennysgeraniumor00bostiala_0008.jp2&id=jennysgeraniumor00bostiala&scale=4&rotate=0" title="Frontispiece, _Jenny’s Geranium, or, The Prize Flower of a London Court_, S.W. Partridge & Co, c. 1869. Children’s Book Collection. Library Special Collections, Charles E. Young Research Library, UCLA.]">
@@ -175,11 +175,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODYyNzU5MiwxNTE0MjA1MjQyLC0xMT
-Q3OTY2MjAzLC0xMDU3MzE3MTg2LC0xMDMxNjYwOTMwLDE1NzMz
-MzMzMjUsNzE1Njk3ODE5LC0xMzAyMzg1MzQ0LDEwODM5NTk2OT
-IsMzQ1NjI0MzQ3LC01MDc2MzMzNTcsLTQ3Njc4MTA2OSwxMTg1
-OTg1NTkwLC05NDEzMzk0NTUsMTYwOTYxOTUzNCwxMDU0MTkyNT
-A3LC0xNDY0MzQ4MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NSwy
-MDkwMDI5MTY3XX0=
+eyJoaXN0b3J5IjpbMTMzMzM2MzA2LDE1MTQyMDUyNDIsLTExND
+c5NjYyMDMsLTEwNTczMTcxODYsLTEwMzE2NjA5MzAsMTU3MzMz
+MzMyNSw3MTU2OTc4MTksLTEzMDIzODUzNDQsMTA4Mzk1OTY5Mi
+wzNDU2MjQzNDcsLTUwNzYzMzM1NywtNDc2NzgxMDY5LDExODU5
+ODU1OTAsLTk0MTMzOTQ1NSwxNjA5NjE5NTM0LDEwNTQxOTI1MD
+csLTE0NjQzNDgxNTYsLTYzNjYxMzE3MywtODAwNjQ2NDY1LDIw
+OTAwMjkxNjddfQ==
 -->
