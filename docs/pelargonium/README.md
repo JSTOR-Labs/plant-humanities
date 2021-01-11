@@ -70,7 +70,7 @@ Botanists have struggled to disentangle the _Pelargonium_ and the _Geranium_ sin
 Early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container in which plants could survive, without watering, for months at a time. Prior to that technology, botanists encountered dreadful difficulties transporting live specimens during overseas voyages. Such journeys lasted for months, during which time plants suffered from exposure to salt water and harsh weather, extreme changes in climate, and lack of proper care. Indeed, John Livingstone estimated in 1819 that “only one in a thousand plants survived the journey.”[^ref8] The Wardian case created the conditions for a major globe plant migration on an unprecedented scale, as the glazed box was employed extensively by colonial enterprises, botanic gardens, plant nurseries, and individual collectors.[^ref9] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotics indoors in such ornamental glass furnishings, safely protected from the industrial pollution in the air as well as the varying temperatures of the British climate.
 <param ve-image primary fit="contain" url="https://ia800604.us.archive.org/BookReader/BookReaderImages.php?id=ongrowthplantsc00ward&itemPath=%2F0%2Fitems%2Fongrowthplantsc00ward&server=ia800604.us.archive.org&page=n52_w325" title="An 1852 illustration of the Wardian case by Nathaniel Bagshaw Ward, the physician and botanist for whom the case was named, from _On the Growth of Plants in Closely Glazed Cases_">
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835239&t=w" title="Illustration of the Wardian case in a home space, 1872">
-<param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Collaert_Rijksmuseum_RP-P-BI-5997.jpg" title="Illustration of three Wardian cases in the domestic space, 1870">
+<param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835246&t=w" title="Illustration of three Wardian cases in the domestic space, 1870">
 
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
@@ -87,7 +87,7 @@ Early-1830s Britain saw the groundbreaking invention of the Wardian case, a seal
 
 [^ref7]: Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njg3MTAwOTgsLTUwNzYzMzM1NywtND
+eyJoaXN0b3J5IjpbLTIxMTU5MzEzMDgsLTUwNzYzMzM1NywtND
 c2NzgxMDY5LDExODU5ODU1OTAsLTk0MTMzOTQ1NSwxNjA5NjE5
 NTM0LDEwNTQxOTI1MDcsLTE0NjQzNDgxNTYsLTYzNjYxMzE3My
 wtODAwNjQ2NDY1LDIwOTAwMjkxNjcsLTgwMDExNDA5OSwtMTc2
