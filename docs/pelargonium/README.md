@@ -108,7 +108,7 @@ Today, pelargonium oil continues to be industrially produced in factories across
 ### Conclusion
 
 Although the _Pelargonium_ by any other name would smell as sweet, our recognition of its unique identity is long overdue. Indeed, the _Pelargonium_’s almost-forgotten global history extremely rich blossoming as it does at the intersections of colonial trade, botany, agriculture, gardening, art, culture, and industry. Telling the story of the _Pelargonium_ as an entity separate from the _Geranium_, illuminates just some of the many ways in which it has been interwoven with human histories – hiding in plain sight, as it were, by virtue of its long-persisting misnomer.
-<param ve-image primary fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.item.r=Geranium.zoom" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), c. 1632, Wikimedia Commons">
+<param ve-image primary fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.item.r=Geranium.zoom" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), 1907-1920, photograph, Gallica">
 
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
@@ -147,11 +147,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Mzg2OTE0MSwxMDgzOTU5NjkyLDM0NT
-YyNDM0NywtNTA3NjMzMzU3LC00NzY3ODEwNjksMTE4NTk4NTU5
-MCwtOTQxMzM5NDU1LDE2MDk2MTk1MzQsMTA1NDE5MjUwNywtMT
-Q2NDM0ODE1NiwtNjM2NjEzMTczLC04MDA2NDY0NjUsMjA5MDAy
-OTE2NywtODAwMTE0MDk5LC0xNzY0NTUwNzE3LC0xMDMzMzYwNj
-g0LC01OTYyNjgzNjMsMzE4MjYyOTE0LC0xODY1MTc4MDMxLC00
-ODU1OTk4NDZdfQ==
+eyJoaXN0b3J5IjpbLTEyMTExMDEzNDMsMTA4Mzk1OTY5MiwzND
+U2MjQzNDcsLTUwNzYzMzM1NywtNDc2NzgxMDY5LDExODU5ODU1
+OTAsLTk0MTMzOTQ1NSwxNjA5NjE5NTM0LDEwNTQxOTI1MDcsLT
+E0NjQzNDgxNTYsLTYzNjYxMzE3MywtODAwNjQ2NDY1LDIwOTAw
+MjkxNjcsLTgwMDExNDA5OSwtMTc2NDU1MDcxNywtMTAzMzM2MD
+Y4NCwtNTk2MjY4MzYzLDMxODI2MjkxNCwtMTg2NTE3ODAzMSwt
+NDg1NTk5ODQ2XX0=
 -->
