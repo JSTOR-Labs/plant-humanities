@@ -95,6 +95,7 @@ For many lower-class Victorian families who did not have gardens, growing _Pelar
 
 As a result, the _Pelargonium_ at the turn of the century became a symbol for the working class’s ungainly attempts at propriety and a gauche lack of style–and it was instrumentalized as such throughout art and literature. Catherine Horwood notes that, “If there is one plant that sums up the attitude of Victorian sentimentalists towards the unfortunate working class in the nineteenth century, it is the forlorn red ‘geranium’ sitting on a cottage window-sill. Hundreds of artists used this as a symbol of aspirations to respectability.”[^ref16] With this context, we might understand Kirkland’s pretensions to the “genteel _Geranium_” as an ironic statement, more in line with the OED’s definition of “genteel” as “being characteristic of those who are possessed with a dread of being taken for ‘common people’, or who attach exaggerated importance to supposed marks of social superiority...in educated language it has always a sarcastic or at least playful colouring,” than to assertions of true gentility.[^ref17] 
 
+
 ### Pelargoniums, Imperial Splendor, and Colonial Profit
 
 <param ve-entity eid="Q142" title="France">
@@ -165,11 +166,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE2NjA5MzAsMTU3MzMzMzMyNSw3MT
-U2OTc4MTksLTEzMDIzODUzNDQsMTA4Mzk1OTY5MiwzNDU2MjQz
-NDcsLTUwNzYzMzM1NywtNDc2NzgxMDY5LDExODU5ODU1OTAsLT
-k0MTMzOTQ1NSwxNjA5NjE5NTM0LDEwNTQxOTI1MDcsLTE0NjQz
-NDgxNTYsLTYzNjYxMzE3MywtODAwNjQ2NDY1LDIwOTAwMjkxNj
-csLTgwMDExNDA5OSwtMTc2NDU1MDcxNywtMTAzMzM2MDY4NCwt
-NTk2MjY4MzYzXX0=
+eyJoaXN0b3J5IjpbLTEwMTMyMzA0NDgsLTEwMzE2NjA5MzAsMT
+U3MzMzMzMyNSw3MTU2OTc4MTksLTEzMDIzODUzNDQsMTA4Mzk1
+OTY5MiwzNDU2MjQzNDcsLTUwNzYzMzM1NywtNDc2NzgxMDY5LD
+ExODU5ODU1OTAsLTk0MTMzOTQ1NSwxNjA5NjE5NTM0LDEwNTQx
+OTI1MDcsLTE0NjQzNDgxNTYsLTYzNjYxMzE3MywtODAwNjQ2ND
+Y1LDIwOTAwMjkxNjcsLTgwMDExNDA5OSwtMTc2NDU1MDcxNywt
+MTAzMzM2MDY4NF19
 -->
