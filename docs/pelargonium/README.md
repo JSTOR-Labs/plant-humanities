@@ -42,7 +42,7 @@ The _Pelargonium_ is native to Southern Africa, St. Helena, Asia Minor, Madagasc
 <param ve-map center="40, 0" zoom="1.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
-Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the Leiden Botanical Garden by Paul Hermann, a medical officer with the Dutch East India company (VOC).
+Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the Leiden Botanical Garden by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref4]
 <param ve-image url="https://bibdigital.rjb.csic.es/i/?IIIF=/bc/98/80/89/bc988089-fe6a-44fc-830c-54d8ada8d3b2/iiif/COR_Canad_Pl_000126.tif/3.3666666666666667,16.836734693877553,1309.6333333333334,1781.3265306122448/!389,529/0/default.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
 
 
@@ -52,11 +52,13 @@ Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was proba
 [^ref2]: Dickens, Mamie. _My Father as I Recall Him_. Roxburghe Press, 1896.
 
 [^ref3]:  Ibid.
+
+[^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTgwMTc1NywtNTk2MjY4MzYzLDMxOD
-I2MjkxNCwtMTg2NTE3ODAzMSwtNDg1NTk5ODQ2LC01MDA2MDk4
-ODAsLTE4Mzk4Mjk4MzYsLTEwMzYzMDMxMDMsNjc0NTgyNjA1LC
-05MTQ1OTAwOTYsLTE4Njg1OTY4OTksLTE1NDE2ODA5MTQsLTY5
-MzA4MjI2OSwtOTgxNTE1NDI2LDIyNTEyODA1OCw2OTM4MjMwNT
-gsLTgwMDU4NTkwNF19
+eyJoaXN0b3J5IjpbLTEwMzMzNjA2ODQsLTU5NjI2ODM2MywzMT
+gyNjI5MTQsLTE4NjUxNzgwMzEsLTQ4NTU5OTg0NiwtNTAwNjA5
+ODgwLC0xODM5ODI5ODM2LC0xMDM2MzAzMTAzLDY3NDU4MjYwNS
+wtOTE0NTkwMDk2LC0xODY4NTk2ODk5LC0xNTQxNjgwOTE0LC02
+OTMwODIyNjksLTk4MTUxNTQyNiwyMjUxMjgwNTgsNjkzODIzMD
+U4LC04MDA1ODU5MDRdfQ==
 -->
