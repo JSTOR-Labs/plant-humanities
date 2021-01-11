@@ -94,7 +94,7 @@ By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly 
 <param ve-image primary fit="contain" url="https://www.biodiversitylibrary.org/pageimage/55342041" title="Shirley Hibberd’s Victorian garden plans, including bedding pelargoniums, in _The amateur’s flower garden_, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://ia800109.us.archive.org/BookReader/BookReaderImages.php?id=amateursflowerga00hibb&itemPath=%2F9%2Fitems%2Famateursflowerga00hibb&server=ia800109.us.archive.org&page=n30_w374" title="Shirley Hibberd’s Victorian garden plans, including bedding pelargoniums, in _The amateur’s flower garden_, Biodiversity Heritage Library">
 
-### The “Genteel” _Geranium_ and Working-class Culture
+### The “Genteel” Geranium and Working-class Culture
 
 The ubiquity of the _Pelargonium_ in the Victorian era soon began to carry a cultural significance all its own – and it was not always a positive one. In 1864’s _The Book of Flowers_, Caroline Kirkland follows the poet Leigh Hunt in describing the _Geranium_ (of course, really a _Pelargonium_) as a _genteel_ plant. She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel.”[^ref14] Although we may construe her comment as nothing more than an attestation to the _Pelargonium’s_ universal charms, her use of the word “genteel” takes on additional meaning when we consider the significance of the _Pelargonium_ in the context of working-class culture.
 <param ve-image primary fit="contain" url="https://ia903006.us.archive.org/BookReader/BookReaderImages.php?id=miniaturelangua00burk&itemPath=%2F15%2Fitems%2Fminiaturelangua00burk&server=ia903006.us.archive.org&page=n33_w436" title="The broad range of varieties and scents of _Pelargonium_ (under the name _Geranium_, of course) made it a favourite in the Victorian “language of flowers.” This concealed language allowed members of upper-class society to use specific flowers as a sort of code to pass on secret, often romantic, messages that they were forbidden from speaking aloud. Here, we can see that the scarlet Geranium (_P. inquinans_) means “comfort.” Excerpt from L. Burke’s _The Miniature Language of Flowers_, Biodiversity Heritage Library">
@@ -176,11 +176,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzM3MDQyOSwtMjA3NTU3Mzg2NywxMz
-kzNTM0OTIsLTg4ODEzNTU2MCwtMTgzNDcxMjIyNSwxNzE2ODQ5
-NjM0LC0xOTE1Njk1NTA1LC0xOTE1Njk1NTA1LC0xNTcxMDI0Mi
-wxODA4NDUxMjUyLDE1MTQyMDUyNDIsLTExNDc5NjYyMDMsLTEw
-NTczMTcxODYsLTEwMzE2NjA5MzAsMTU3MzMzMzMyNSw3MTU2OT
-c4MTksLTEzMDIzODUzNDQsMTA4Mzk1OTY5MiwzNDU2MjQzNDcs
-LTUwNzYzMzM1N119
+eyJoaXN0b3J5IjpbMzI4OTA4NzAxLDE3ODMzNzA0MjksLTIwNz
+U1NzM4NjcsMTM5MzUzNDkyLC04ODgxMzU1NjAsLTE4MzQ3MTIy
+MjUsMTcxNjg0OTYzNCwtMTkxNTY5NTUwNSwtMTkxNTY5NTUwNS
+wtMTU3MTAyNDIsMTgwODQ1MTI1MiwxNTE0MjA1MjQyLC0xMTQ3
+OTY2MjAzLC0xMDU3MzE3MTg2LC0xMDMxNjYwOTMwLDE1NzMzMz
+MzMjUsNzE1Njk3ODE5LC0xMzAyMzg1MzQ0LDEwODM5NTk2OTIs
+MzQ1NjI0MzQ3XX0=
 -->
