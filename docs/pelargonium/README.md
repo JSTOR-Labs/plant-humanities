@@ -72,7 +72,7 @@ Botanists have struggled to disentangle the _Pelargonium_ and the _Geranium_ sin
 
 ### The Wardian Case: A New Horizon for Overseas Plant Transport
 
-<param ve-entity eid="Q213360" title="Table Mountain">
+<param ve-entity eid="Q2779805" title="Wardian case">
 <param ve-entity eid="Q66569" title="Paul Hermann">
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
 <param ve-entity eid="Q43631" title="Leiden">
@@ -100,11 +100,11 @@ Early-1830s Britain saw the groundbreaking invention of the Wardian case, a seal
 
 [^ref9]: Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzNjE4MDE3LDM0NTYyNDM0NywtNTA3Nj
-MzMzU3LC00NzY3ODEwNjksMTE4NTk4NTU5MCwtOTQxMzM5NDU1
-LDE2MDk2MTk1MzQsMTA1NDE5MjUwNywtMTQ2NDM0ODE1NiwtNj
-M2NjEzMTczLC04MDA2NDY0NjUsMjA5MDAyOTE2NywtODAwMTE0
-MDk5LC0xNzY0NTUwNzE3LC0xMDMzMzYwNjg0LC01OTYyNjgzNj
-MsMzE4MjYyOTE0LC0xODY1MTc4MDMxLC00ODU1OTk4NDYsLTUw
-MDYwOTg4MF19
+eyJoaXN0b3J5IjpbLTE2MjM1NzQ4NTcsMzQ1NjI0MzQ3LC01MD
+c2MzMzNTcsLTQ3Njc4MTA2OSwxMTg1OTg1NTkwLC05NDEzMzk0
+NTUsMTYwOTYxOTUzNCwxMDU0MTkyNTA3LC0xNDY0MzQ4MTU2LC
+02MzY2MTMxNzMsLTgwMDY0NjQ2NSwyMDkwMDI5MTY3LC04MDAx
+MTQwOTksLTE3NjQ1NTA3MTcsLTEwMzMzNjA2ODQsLTU5NjI2OD
+M2MywzMTgyNjI5MTQsLTE4NjUxNzgwMzEsLTQ4NTU5OTg0Niwt
+NTAwNjA5ODgwXX0=
 -->
