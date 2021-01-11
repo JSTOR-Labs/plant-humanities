@@ -32,6 +32,7 @@ The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a lo
 <param ve-entity eid="Q183252" title="morphology"> 
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
 <param ve-entity eid="Q687699" title="Nectary" aliases="nectaries"> 
+<param ve-entity eid="Q103129" title="stamen"> 
 Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. Several key differences between the genera can be observed by comparing the reproductive systems of the two plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. Another difference is that, while the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. A final divergence between the two is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens.
 <param ve-image layers url="https://free.iiifhosting.com/iiif/946417abf874969ccb7ed3e11de335c107f89d030c8a7d27fe55a2c9892bb2c1/info.json" title="Differences between Geranium and Pelargonium flowers, Verónica Matallana">
 <param ve-image url="https://free.iiifhosting.com/iiif/ba2f217efdf25d87a4fc0e79c0b096245ef26d4ebde668bd65af649d05b2deb1/info.json" title="“Géranium platypetalum” & “Pelargonium zonale Wild et hybrids,” _Atlas des plantes de jardins et d'appartements exotiques et européennes: 320 planches coloriées inédites, dessinées d'après nature, représentant 370 plantes, accompagnées d'un texte explicatif donnant la description, l'origine, le mode de culture, de multiplication et les usages des fleurs les plus généralement cultivées_, D. Bois, from Bibliothèque Nationale de France, département Sciences et techniques, 8-S-9126">
@@ -58,11 +59,11 @@ The nomenclature confusion began when the plant now known as _Pelargonium_ _tris
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODY1ODExNiwtODAwMTE0MDk5LC0xNz
-Y0NTUwNzE3LC0xMDMzMzYwNjg0LC01OTYyNjgzNjMsMzE4MjYy
-OTE0LC0xODY1MTc4MDMxLC00ODU1OTk4NDYsLTUwMDYwOTg4MC
-wtMTgzOTgyOTgzNiwtMTAzNjMwMzEwMyw2NzQ1ODI2MDUsLTkx
-NDU5MDA5NiwtMTg2ODU5Njg5OSwtMTU0MTY4MDkxNCwtNjkzMD
-gyMjY5LC05ODE1MTU0MjYsMjI1MTI4MDU4LDY5MzgyMzA1OCwt
-ODAwNTg1OTA0XX0=
+eyJoaXN0b3J5IjpbLTExNjk1MTUxNzksLTgwMDExNDA5OSwtMT
+c2NDU1MDcxNywtMTAzMzM2MDY4NCwtNTk2MjY4MzYzLDMxODI2
+MjkxNCwtMTg2NTE3ODAzMSwtNDg1NTk5ODQ2LC01MDA2MDk4OD
+AsLTE4Mzk4Mjk4MzYsLTEwMzYzMDMxMDMsNjc0NTgyNjA1LC05
+MTQ1OTAwOTYsLTE4Njg1OTY4OTksLTE1NDE2ODA5MTQsLTY5Mz
+A4MjI2OSwtOTgxNTE1NDI2LDIyNTEyODA1OCw2OTM4MjMwNTgs
+LTgwMDU4NTkwNF19
 -->
