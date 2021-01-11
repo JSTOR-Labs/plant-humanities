@@ -9,7 +9,7 @@
 ### What's in a Name?
 
 <param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-<param ve-entity eid="Q192691" title="annual plant">
+<param ve-entity eid="Q192691" title="# Charles Dickens">
 <param ve-entity eid="Q235352" title="crop" aliases="crop plants">
 <param ve-entity eid="Q199182" title="ornamental plant" aliases="ornamental">
 There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium.[^ref1] With their vibrant red flowers and sweet, rose scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color” at his country home, Gad’s Hill Place, in Kent.[^ref2] Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.[^ref3]
@@ -23,6 +23,6 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODAxMDAzMCwtOTgxNTE1NDI2LDIyNT
+eyJoaXN0b3J5IjpbLTgwNDQ0OTE0OCwtOTgxNTE1NDI2LDIyNT
 EyODA1OCw2OTM4MjMwNTgsLTgwMDU4NTkwNF19
 -->
