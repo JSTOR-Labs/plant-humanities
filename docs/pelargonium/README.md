@@ -84,8 +84,10 @@ Early-1830s Britain saw the groundbreaking invention of the Wardian case, a seal
 It was against this backdrop that _Pelargoniums_ soon became the mainstay of all municipal gardens in Victorian England. The 1837 _Floricultural Cabinet_ listed the best pelargoniums for bedding as one of the old faithful multipurpose plants. The ubiquity of the plant in public spaces is also celebrated in E. Adveno Brooke’s 1858 book _The Gardens of England_. As he explains, the bright scarlet pelargonium bloomed nearly everywhere from stone vases to flowerbeds and parterres. These locations, shown in illustrations at right, include the upper and lower terrace gardens of Bewood, the colonnade of Alton Gardens, as well as the parterre of Harewood.
 
 The pelargonium was a favored plant of municipal gardeners because the hardy evergreen showed off its blooms for extended periods, flowering even in slightly chillier climates. More significantly, nursery owners adored the plant because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. Indeed, vendors were falling over one another to market the newest, most magnificent, and sweetest-smelling pelargoniums to meet the demand for the choicest blooms. Other factors contributing to the mania for the pelargonium were the arrival of mass-produced pots and planters for displaying ornamentals and, at least initially, excitement surrounding the exotic connotations of plant due to its Southern African provenance. Desire to obtain novel cultivars became so frenzied that some compared it to the infamous tulip-buying spree, known as “tulipomania,” that occurred in Holland in the 1630s.[^ref11]
+<param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47">
 
 By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly instated as a staple in British domestic interiors, gardens, and patios. In his hugely popular 1875 book [_The amateur's flower garden_](https://www.biodiversitylibrary.org/bibliography/145001#/summary), Shirley Hibberd included designs for creating a harmonious pelargonium garden—“geranium garden”—based on the plant’s striking colour variations. In the layout of a panel garden, Hibberd suggests two potential summer schemes: one for a red-harmony garden, and another for a blue-harmony style.[^ref12] By 1895, writers such as Donald McDonald were still echoing Hibberd’s domestic horticultural penchant for the plant; McDonald wrote that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums,” a testament to the long-standing appeal of _Pelargoniums_ in British Victorian culture.[^ref13]
+<param ve-image primary fit="contain" url="https://ia903006.us.archive.org/BookReader/BookReaderImages.php?id=miniaturelangua00burk&itemPath=%2F15%2Fitems%2Fminiaturelangua00burk&server=ia903006.us.archive.org&page=n33_w436" title="<The broad range of varieties and scents of _Pelargonium_ (under the name _Geranium_, of course) made it a favourite in the Victorian “language of flowers.” This concealed language allowed members of upper-class society to use specific flowers as a sort of code to pass on secret, often romantic, messages that they were forbidden from speaking aloud. Here, we can see that the scarlet Geranium (_P. inquinans_) means “comfort.” Excerpt from L. Burke’s _The Miniature Language of Flowers_, Biodiversity Heritage Library">
 
 ### The “Genteel” _Geranium_ and Working-class Culture
 
@@ -169,11 +171,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyOTkxMTYyLC0xMDU3MzE3MTg2LC0xMD
-MxNjYwOTMwLDE1NzMzMzMzMjUsNzE1Njk3ODE5LC0xMzAyMzg1
-MzQ0LDEwODM5NTk2OTIsMzQ1NjI0MzQ3LC01MDc2MzMzNTcsLT
-Q3Njc4MTA2OSwxMTg1OTg1NTkwLC05NDEzMzk0NTUsMTYwOTYx
-OTUzNCwxMDU0MTkyNTA3LC0xNDY0MzQ4MTU2LC02MzY2MTMxNz
-MsLTgwMDY0NjQ2NSwyMDkwMDI5MTY3LC04MDAxMTQwOTksLTE3
-NjQ1NTA3MTddfQ==
+eyJoaXN0b3J5IjpbLTEyNDQ2OTczNDQsLTEwNTczMTcxODYsLT
+EwMzE2NjA5MzAsMTU3MzMzMzMyNSw3MTU2OTc4MTksLTEzMDIz
+ODUzNDQsMTA4Mzk1OTY5MiwzNDU2MjQzNDcsLTUwNzYzMzM1Ny
+wtNDc2NzgxMDY5LDExODU5ODU1OTAsLTk0MTMzOTQ1NSwxNjA5
+NjE5NTM0LDEwNTQxOTI1MDcsLTE0NjQzNDgxNTYsLTYzNjYxMz
+E3MywtODAwNjQ2NDY1LDIwOTAwMjkxNjcsLTgwMDExNDA5OSwt
+MTc2NDU1MDcxN119
 -->
