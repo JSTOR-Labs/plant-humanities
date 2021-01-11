@@ -23,6 +23,8 @@ However, you might be surprised to learn that the scarlet geranium with which Di
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is a familiar cultural fixture for so many of us – but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history – from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. A social and cultural history of the _Pelargonium_ that attends to its use as an ornamental and an aromatic in the nineteenth century reveals a fervor of excitement not just for growing and displaying the flower but also for smelling and wearing its scent, both of which contribute to its enduring popularity today.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" title="Charles Dickens’ favored plant the _Pelargonium inquinans_ commonly known as a geranium, ViGA, 2017, Wikimedia Commons, CC BY-SA 4.0">
 
+### _Pelargonium_ Morphology: Fruit and Flower
+
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
 
@@ -30,8 +32,8 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is a
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzYzMDMxMDMsNjc0NTgyNjA1LC05MT
-Q1OTAwOTYsLTE4Njg1OTY4OTksLTE1NDE2ODA5MTQsLTY5MzA4
-MjI2OSwtOTgxNTE1NDI2LDIyNTEyODA1OCw2OTM4MjMwNTgsLT
-gwMDU4NTkwNF19
+eyJoaXN0b3J5IjpbMjAyMDE1NzA5NywtMTAzNjMwMzEwMyw2Nz
+Q1ODI2MDUsLTkxNDU5MDA5NiwtMTg2ODU5Njg5OSwtMTU0MTY4
+MDkxNCwtNjkzMDgyMjY5LC05ODE1MTU0MjYsMjI1MTI4MDU4LD
+Y5MzgyMzA1OCwtODAwNTg1OTA0XX0=
 -->
