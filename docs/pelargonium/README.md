@@ -24,7 +24,7 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is a
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" title="Charles Dickens’ favored plant the _Pelargonium inquinans_ commonly known as a geranium, ViGA, 2017, Wikimedia Commons, CC BY-SA 4.0">
 
 
-### _Pelargonium_ Morphology: Fruit and Flower
+### Pelargonium Morphology: Fruit and Flower
 
 The _Pelargonium_ is a perennial bush, with a strong and aromatic smell. There are approximately 300 species of _Pelargonium_, originating from Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. The particular morphology of the plant actually lends the genus its name; _Pelargonium_ comes from the Greek word _pelargos_ (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”) which alludes to the long, almost beak-shaped fruit.
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="Pelargonium alchemilloides (L.) L'Hér.">
@@ -38,8 +38,8 @@ The _Pelargonium_ is a perennial bush, with a strong and aromatic smell. There a
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTM1Mjk0OCwtMTAzNjMwMzEwMyw2Nz
-Q1ODI2MDUsLTkxNDU5MDA5NiwtMTg2ODU5Njg5OSwtMTU0MTY4
-MDkxNCwtNjkzMDgyMjY5LC05ODE1MTU0MjYsMjI1MTI4MDU4LD
-Y5MzgyMzA1OCwtODAwNTg1OTA0XX0=
+eyJoaXN0b3J5IjpbLTE4Mzk4Mjk4MzYsLTEwMzYzMDMxMDMsNj
+c0NTgyNjA1LC05MTQ1OTAwOTYsLTE4Njg1OTY4OTksLTE1NDE2
+ODA5MTQsLTY5MzA4MjI2OSwtOTgxNTE1NDI2LDIyNTEyODA1OC
+w2OTM4MjMwNTgsLTgwMDU4NTkwNF19
 -->
