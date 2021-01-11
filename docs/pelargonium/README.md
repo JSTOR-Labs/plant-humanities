@@ -104,7 +104,7 @@ In 1847, the French perfume industries of Grasse, including the company of Léon
 The Chiris company introduced a particular pelargonium hybrid, "_Geranium rosat_," to Boufarik, Algeria, selecting "a trentaine of wild Pelargonium species, from cells that are found most frequently in the Cap de Bonne Espérance region." That selection allowed the Chiris establishments to earn a stable profit.[REF] In 1865, Chiris built a 3,000 square meter factory in the Saint-Marguerite domain in Boufarik, which was first acquired in 1836. Its production was centered on _Pelargoniums_, orange trees, and other aromatic plants.[REF] However, the headquarters in Boufarik closed once it was nationalized in 1963, as did the other headquarters in the former European colonies.
 
 <param ve-entity eid="Q29520" title="China">
-<param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
+<param ve-entity eid="Q79" title="Egypt">
 Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[REF] Significantly, the confusion surrounding pelargonium nomenclature in Europe contexts also exists in China. More than 50% of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You (Pelargonium Oil)_ in Chinese. It is said that the name _Tianzhu Kui_ was introduced by Junyu Zhang in 1933 based on his studies in Japan. The word _Tianzhu Kui_ is from _ゼラニウム_, which is pronounced as _Geranium_ in English.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Tianzhu_Kui.png" title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_ (_Pelargonium_) in Chinese. Jin, Jiancheng, and Xun Zhang. _Chinese Gongbi Line Drawing of Hundred Flowers (Autumn and Winter)_. Tianjin Yangliuqing Fine Arts Press. 2005.">
 
@@ -150,11 +150,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Mzk4MTEzNSwtMTMwMjM4NTM0NCwxMD
-gzOTU5NjkyLDM0NTYyNDM0NywtNTA3NjMzMzU3LC00NzY3ODEw
-NjksMTE4NTk4NTU5MCwtOTQxMzM5NDU1LDE2MDk2MTk1MzQsMT
-A1NDE5MjUwNywtMTQ2NDM0ODE1NiwtNjM2NjEzMTczLC04MDA2
-NDY0NjUsMjA5MDAyOTE2NywtODAwMTE0MDk5LC0xNzY0NTUwNz
-E3LC0xMDMzMzYwNjg0LC01OTYyNjgzNjMsMzE4MjYyOTE0LC0x
-ODY1MTc4MDMxXX0=
+eyJoaXN0b3J5IjpbLTEwNDA1NDYwOTAsLTEzMDIzODUzNDQsMT
+A4Mzk1OTY5MiwzNDU2MjQzNDcsLTUwNzYzMzM1NywtNDc2Nzgx
+MDY5LDExODU5ODU1OTAsLTk0MTMzOTQ1NSwxNjA5NjE5NTM0LD
+EwNTQxOTI1MDcsLTE0NjQzNDgxNTYsLTYzNjYxMzE3MywtODAw
+NjQ2NDY1LDIwOTAwMjkxNjcsLTgwMDExNDA5OSwtMTc2NDU1MD
+cxNywtMTAzMzM2MDY4NCwtNTk2MjY4MzYzLDMxODI2MjkxNCwt
+MTg2NTE3ODAzMV19
 -->
