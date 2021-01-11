@@ -39,7 +39,8 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 ### Introduction to Europe and Nomenclature Confusion
 
 The _Pelargonium_ is native to Southern Africa, St. Helena, Asia Minor, Madagascar, and Australia. Portuguese and Dutch traders first introduced the plant to Europe on their return from making colonial voyages to present-day South Africa. Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the Leiden Botanical Garden by Paul Hermann, a medical officer with the Dutch East India company (VOC).
-
+<param ve-map center="40, 0" zoom="1.5">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
 ### References
 [^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
@@ -48,10 +49,10 @@ The _Pelargonium_ is native to Southern Africa, St. Helena, Asia Minor, Madagasc
 
 [^ref3]:  Ibid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY0NTcyNjksMzE4MjYyOTE0LC0xOD
-Y1MTc4MDMxLC00ODU1OTk4NDYsLTUwMDYwOTg4MCwtMTgzOTgy
-OTgzNiwtMTAzNjMwMzEwMyw2NzQ1ODI2MDUsLTkxNDU5MDA5Ni
-wtMTg2ODU5Njg5OSwtMTU0MTY4MDkxNCwtNjkzMDgyMjY5LC05
-ODE1MTU0MjYsMjI1MTI4MDU4LDY5MzgyMzA1OCwtODAwNTg1OT
-A0XX0=
+eyJoaXN0b3J5IjpbLTU5NjI2ODM2MywzMTgyNjI5MTQsLTE4Nj
+UxNzgwMzEsLTQ4NTU5OTg0NiwtNTAwNjA5ODgwLC0xODM5ODI5
+ODM2LC0xMDM2MzAzMTAzLDY3NDU4MjYwNSwtOTE0NTkwMDk2LC
+0xODY4NTk2ODk5LC0xNTQxNjgwOTE0LC02OTMwODIyNjksLTk4
+MTUxNTQyNiwyMjUxMjgwNTgsNjkzODIzMDU4LC04MDA1ODU5MD
+RdfQ==
 -->
