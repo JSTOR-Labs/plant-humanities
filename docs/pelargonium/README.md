@@ -82,9 +82,9 @@ Early-1830s Britain saw the groundbreaking invention of the Wardian case, a seal
 ### _Pelargonium_-mania in the Victorian Era
 
 It was against this backdrop that _Pelargoniums_ soon became the mainstay of all municipal gardens in Victorian England. The 1837 _Floricultural Cabinet_ listed the best pelargoniums for bedding as one of the old faithful multipurpose plants. The ubiquity of the plant in public spaces is also celebrated in E. Adveno Brooke’s 1858 book _The Gardens of England_. As he explains, the bright scarlet pelargonium bloomed nearly everywhere from stone vases to flowerbeds and parterres. These locations, shown in illustrations at right, include the upper and lower terrace gardens of Bewood, the colonnade of Alton Gardens, as well as the parterre of Harewood.
-<param ve-image primary fit="contain" url="https://www.flickr.com/photos/biodivlibrary/48307821501/" title="Upper and lower terrace gardens of Bewood, scarlet pelargonium planted in stone vases and beds in _The gardens of England_, Biodiversity Heritage Library">
-<param ve-image fit="contain" url="https://www.flickr.com/photos/biodivlibrary/48307822051/" title="Colonnade of Alton Gardens, scarlet pelargonium planted in stone vases, in _The gardens of England_, Biodiversity Heritage Library">
-<param ve-image fit="contain" url="https://www.flickr.com/photos/biodivlibrary/48307940832/" title="Parterre of Harewood, scarlet pelargonium planted in stone vases and parterres, in _The gardens of England_ Biodiversity Heritage Library">
+<param ve-image primary fit="contain" url="https://github.com/kristanmhanson/plant-humanities/blob/develop/docs/pelargonium/Pelargonium_ParterreHarewood_BHL.jpg" title="Upper and lower terrace gardens of Bewood, scarlet pelargonium planted in stone vases and beds in _The gardens of England_, Biodiversity Heritage Library">
+<param ve-image fit="contain" url="https://github.com/kristanmhanson/plant-humanities/blob/develop/docs/pelargonium/Pelargonium_ParterreHarewood_BHL.jpg" title="Colonnade of Alton Gardens, scarlet pelargonium planted in stone vases, in _The gardens of England_, Biodiversity Heritage Library">
+<param ve-image fit="contain" url="https://github.com/kristanmhanson/plant-humanities/blob/develop/docs/pelargonium/Pelargonium_ParterreHarewood_BHL.jpg" title="Parterre of Harewood, scarlet pelargonium planted in stone vases and parterres, in _The gardens of England_ Biodiversity Heritage Library">
 
 The pelargonium was a favored plant of municipal gardeners because the hardy evergreen showed off its blooms for extended periods, flowering even in slightly chillier climates. More significantly, nursery owners adored the plant because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. Indeed, vendors were falling over one another to market the newest, most magnificent, and sweetest-smelling pelargoniums to meet the demand for the choicest blooms. Other factors contributing to the mania for the pelargonium were the arrival of mass-produced pots and planters for displaying ornamentals and, at least initially, excitement surrounding the exotic connotations of plant due to its Southern African provenance. Desire to obtain novel cultivars became so frenzied that some compared it to the infamous tulip-buying spree, known as “tulipomania,” that occurred in Holland in the 1630s.[^ref11]
 <param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:435776315" seq="21">
@@ -175,11 +175,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODQ1MTI1MiwxNTE0MjA1MjQyLC0xMT
-Q3OTY2MjAzLC0xMDU3MzE3MTg2LC0xMDMxNjYwOTMwLDE1NzMz
-MzMzMjUsNzE1Njk3ODE5LC0xMzAyMzg1MzQ0LDEwODM5NTk2OT
-IsMzQ1NjI0MzQ3LC01MDc2MzMzNTcsLTQ3Njc4MTA2OSwxMTg1
-OTg1NTkwLC05NDEzMzk0NTUsMTYwOTYxOTUzNCwxMDU0MTkyNT
-A3LC0xNDY0MzQ4MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NSwy
-MDkwMDI5MTY3XX0=
+eyJoaXN0b3J5IjpbLTExMDg3MjA1MjEsMTgwODQ1MTI1MiwxNT
+E0MjA1MjQyLC0xMTQ3OTY2MjAzLC0xMDU3MzE3MTg2LC0xMDMx
+NjYwOTMwLDE1NzMzMzMzMjUsNzE1Njk3ODE5LC0xMzAyMzg1Mz
+Q0LDEwODM5NTk2OTIsMzQ1NjI0MzQ3LC01MDc2MzMzNTcsLTQ3
+Njc4MTA2OSwxMTg1OTg1NTkwLC05NDEzMzk0NTUsMTYwOTYxOT
+UzNCwxMDU0MTkyNTA3LC0xNDY0MzQ4MTU2LC02MzY2MTMxNzMs
+LTgwMDY0NjQ2NV19
 -->
