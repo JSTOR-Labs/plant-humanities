@@ -30,8 +30,8 @@ The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a lo
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="Pelargonium alchemilloides (L.) L'Hér.">
 
 <param ve-entity eid="Q183252" title="morphology"> 
-<param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
-<param ve-entity eid="Q18083598" title="Pelargonium inquinans"> 
+<param ve-entity eid="Q506" title="flower" aliases="flowers"> 
+<param ve-entity eid="Q687699" title="# ectary"> 
 Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. Several key differences between the genera can be observed by comparing the reproductive systems of the two plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. Another difference is that, while the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. A final divergence between the two is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens.
 <param ve-image layers url="https://free.iiifhosting.com/iiif/946417abf874969ccb7ed3e11de335c107f89d030c8a7d27fe55a2c9892bb2c1/info.json" title="Differences between Geranium and Pelargonium flowers, Verónica Matallana">
 <param ve-image url="https://free.iiifhosting.com/iiif/ba2f217efdf25d87a4fc0e79c0b096245ef26d4ebde668bd65af649d05b2deb1/info.json" title="“Géranium platypetalum” & “Pelargonium zonale Wild et hybrids,” _Atlas des plantes de jardins et d'appartements exotiques et européennes: 320 planches coloriées inédites, dessinées d'après nature, représentant 370 plantes, accompagnées d'un texte explicatif donnant la description, l'origine, le mode de culture, de multiplication et les usages des fleurs les plus généralement cultivées_, D. Bois, from Bibliothèque Nationale de France, département Sciences et techniques, 8-S-9126">
@@ -58,11 +58,11 @@ The nomenclature confusion began when the plant now known as _Pelargonium_ _tris
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwODA5ODAwLC04MDAxMTQwOTksLTE3Nj
-Q1NTA3MTcsLTEwMzMzNjA2ODQsLTU5NjI2ODM2MywzMTgyNjI5
-MTQsLTE4NjUxNzgwMzEsLTQ4NTU5OTg0NiwtNTAwNjA5ODgwLC
-0xODM5ODI5ODM2LC0xMDM2MzAzMTAzLDY3NDU4MjYwNSwtOTE0
-NTkwMDk2LC0xODY4NTk2ODk5LC0xNTQxNjgwOTE0LC02OTMwOD
-IyNjksLTk4MTUxNTQyNiwyMjUxMjgwNTgsNjkzODIzMDU4LC04
-MDA1ODU5MDRdfQ==
+eyJoaXN0b3J5IjpbMjA1Nzg1NzMxNiwtODAwMTE0MDk5LC0xNz
+Y0NTUwNzE3LC0xMDMzMzYwNjg0LC01OTYyNjgzNjMsMzE4MjYy
+OTE0LC0xODY1MTc4MDMxLC00ODU1OTk4NDYsLTUwMDYwOTg4MC
+wtMTgzOTgyOTgzNiwtMTAzNjMwMzEwMyw2NzQ1ODI2MDUsLTkx
+NDU5MDA5NiwtMTg2ODU5Njg5OSwtMTU0MTY4MDkxNCwtNjkzMD
+gyMjY5LC05ODE1MTU0MjYsMjI1MTI4MDU4LDY5MzgyMzA1OCwt
+ODAwNTg1OTA0XX0=
 -->
