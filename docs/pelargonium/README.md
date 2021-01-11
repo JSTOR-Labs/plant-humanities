@@ -39,9 +39,9 @@ Morphological traits also differentiate the _Pelargonium_ from the _Geranium_. S
 
 ### Introduction to Europe and Nomenclature Confusion
 
-<param ve-entity eid="Q80914" title="Southern Africa">
-<param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
-<param ve-entity eid="Q491017" title="Pike County" aliases="eastern North America">
+<param ve-entity eid="Q27394" title="Southern Africa">
+<param ve-entity eid="Q34497" title="Saint Helena" aliases="St. Helena">
+<param ve-entity eid="Q491017" title="Asia Minor" aliases="eastern North America">
 <param ve-entity eid="Q110510" title="Crawford County" aliases="eastern North America">
 <param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
 <param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
@@ -68,11 +68,11 @@ The nomenclature confusion began when the plant now known as _Pelargonium_ _tris
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTgyNDgwMDIsLTgwMDExNDA5OSwtMT
-c2NDU1MDcxNywtMTAzMzM2MDY4NCwtNTk2MjY4MzYzLDMxODI2
-MjkxNCwtMTg2NTE3ODAzMSwtNDg1NTk5ODQ2LC01MDA2MDk4OD
-AsLTE4Mzk4Mjk4MzYsLTEwMzYzMDMxMDMsNjc0NTgyNjA1LC05
-MTQ1OTAwOTYsLTE4Njg1OTY4OTksLTE1NDE2ODA5MTQsLTY5Mz
-A4MjI2OSwtOTgxNTE1NDI2LDIyNTEyODA1OCw2OTM4MjMwNTgs
-LTgwMDU4NTkwNF19
+eyJoaXN0b3J5IjpbLTg4NjkyNzA3OSwtODAwMTE0MDk5LC0xNz
+Y0NTUwNzE3LC0xMDMzMzYwNjg0LC01OTYyNjgzNjMsMzE4MjYy
+OTE0LC0xODY1MTc4MDMxLC00ODU1OTk4NDYsLTUwMDYwOTg4MC
+wtMTgzOTgyOTgzNiwtMTAzNjMwMzEwMyw2NzQ1ODI2MDUsLTkx
+NDU5MDA5NiwtMTg2ODU5Njg5OSwtMTU0MTY4MDkxNCwtNjkzMD
+gyMjY5LC05ODE1MTU0MjYsMjI1MTI4MDU4LDY5MzgyMzA1OCwt
+ODAwNTg1OTA0XX0=
 -->
