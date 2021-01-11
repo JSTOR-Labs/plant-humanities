@@ -104,7 +104,7 @@ For many lower-class Victorian families who did not have gardens, growing _Pelar
 
 
 As a result, the _Pelargonium_ at the turn of the century became a symbol for the working class’s ungainly attempts at propriety and a gauche lack of style–and it was instrumentalized as such throughout art and literature. Catherine Horwood notes that, “If there is one plant that sums up the attitude of Victorian sentimentalists towards the unfortunate working class in the nineteenth century, it is the forlorn red ‘geranium’ sitting on a cottage window-sill. Hundreds of artists used this as a symbol of aspirations to respectability.”[^ref16] With this context, we might understand Kirkland’s pretensions to the “genteel _Geranium_” as an ironic statement, more in line with the OED’s definition of “genteel” as “being characteristic of those who are possessed with a dread of being taken for ‘common people’, or who attach exaggerated importance to supposed marks of social superiority...in educated language it has always a sarcastic or at least playful colouring,” than to assertions of true gentility.[^ref17] 
-<param ve-image primary fit="contain" url="https://wikioo.org/paintings.php?refarticle=9GZR6B&titlepainting=The%20music%20lesson&artistname=William%20Henry%20Midwood" title="_The Music Lesson_, oil on canvas, 1872, William Henry Midwood, Wikioo.org - The Encyclopedia of Fine Arts">
+<param ve-image primary fit="contain" url="https://img.wikioo.org/ADC/Art.nsf/O/9GZR6B/$File/WilliamHenryMidwood-Themusiclesson.JPG" title="_The Music Lesson_, oil on canvas, 1872, William Henry Midwood, Wikioo.org - The Encyclopedia of Fine Arts">
 
 ### Pelargoniums, Imperial Splendor, and Colonial Profit
 
@@ -176,11 +176,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzUzNDkyLC04ODgxMzU1NjAsLTE4Mz
-Q3MTIyMjUsMTcxNjg0OTYzNCwtMTkxNTY5NTUwNSwtMTkxNTY5
-NTUwNSwtMTU3MTAyNDIsMTgwODQ1MTI1MiwxNTE0MjA1MjQyLC
-0xMTQ3OTY2MjAzLC0xMDU3MzE3MTg2LC0xMDMxNjYwOTMwLDE1
-NzMzMzMzMjUsNzE1Njk3ODE5LC0xMzAyMzg1MzQ0LDEwODM5NT
-k2OTIsMzQ1NjI0MzQ3LC01MDc2MzMzNTcsLTQ3Njc4MTA2OSwx
-MTg1OTg1NTkwXX0=
+eyJoaXN0b3J5IjpbLTIwNzU1NzM4NjcsMTM5MzUzNDkyLC04OD
+gxMzU1NjAsLTE4MzQ3MTIyMjUsMTcxNjg0OTYzNCwtMTkxNTY5
+NTUwNSwtMTkxNTY5NTUwNSwtMTU3MTAyNDIsMTgwODQ1MTI1Mi
+wxNTE0MjA1MjQyLC0xMTQ3OTY2MjAzLC0xMDU3MzE3MTg2LC0x
+MDMxNjYwOTMwLDE1NzMzMzMzMjUsNzE1Njk3ODE5LC0xMzAyMz
+g1MzQ0LDEwODM5NTk2OTIsMzQ1NjI0MzQ3LC01MDc2MzMzNTcs
+LTQ3Njc4MTA2OV19
 -->
