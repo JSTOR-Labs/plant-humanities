@@ -109,8 +109,10 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-entity eid="Q173705" title="Grasse">
 <param ve-entity eid="Q29520" title="China">
 <param ve-entity eid="Q79" title="Egypt">
-In 1847, the French perfume industries of Grasse, including the company of Léon Chiris, introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it. Algeria was considered an ideal place for doing so due to its warm arid and semi-arid climate and the low cost of colonial labor needed for the "preparation and planting of cuttings, weeding of fields, harvesting of the material to be distilled." Perfumers selected pelargoniums because most species have a sweet aroma similar to roses. Such oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant.
+In 1847, the French perfume industries of Grasse, including the company of Léon Chiris Léopold Chiris? , introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it. Algeria was considered an ideal place for doing so due to its warm arid and semi-arid climate and the low cost of colonial labor needed for the "preparation and planting of cuttings, weeding of fields, harvesting of the material to be distilled." Perfumers selected pelargoniums because most species have a sweet aroma similar to roses. Such oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant.
 
+<param ve-entity eid="Q29520" title="China">
+<param ve-entity eid="Q79" title="Egypt">
 The Chiris company introduced a particular pelargonium hybrid, "_Geranium rosat_," to Boufarik, Algeria, selecting "a trentaine of wild Pelargonium species, from cells that are found most frequently in the Cap de Bonne Espérance region." That selection allowed the Chiris establishments to earn a stable profit.[REF] In 1865, Chiris built a 3,000 square meter factory in the Saint-Marguerite domain in Boufarik, which was first acquired in 1836. Its production was centered on _Pelargoniums_, orange trees, and other aromatic plants.[REF] However, the headquarters in Boufarik closed once it was nationalized in 1963, as did the other headquarters in the former European colonies.
 
 <param ve-entity eid="Q29520" title="China">
@@ -160,7 +162,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTQyMzA5LC0xMzAyMzg1MzQ0LDEwOD
+eyJoaXN0b3J5IjpbNzE1Njk3ODE5LC0xMzAyMzg1MzQ0LDEwOD
 M5NTk2OTIsMzQ1NjI0MzQ3LC01MDc2MzMzNTcsLTQ3Njc4MTA2
 OSwxMTg1OTg1NTkwLC05NDEzMzk0NTUsMTYwOTYxOTUzNCwxMD
 U0MTkyNTA3LC0xNDY0MzQ4MTU2LC02MzY2MTMxNzMsLTgwMDY0
