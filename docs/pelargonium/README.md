@@ -62,6 +62,7 @@ Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was proba
 The nomenclature confusion began when the plant now known as _Pelargonium_ _triste_ was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P._ _triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_ due to the superficial similarities between the genera _Geranium_ and Pelargonium. This visualization of the two plants’ overlapping global nomenclature history provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
 
+Botanists have struggled to disentangle the _Pelargonium_ and the _Geranium_ since the mid-1750s. Carl Linnaeus, in his 1753 [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for 20 pelargoniums including the _Pelargonium zonale_.[^ref5] 
 
 
 
@@ -74,11 +75,11 @@ The nomenclature confusion began when the plant now known as _Pelargonium_ _tris
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Njc4MTA2OSwxMTg1OTg1NTkwLC05ND
-EzMzk0NTUsMTYwOTYxOTUzNCwxMDU0MTkyNTA3LC0xNDY0MzQ4
-MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NSwyMDkwMDI5MTY3LC
-04MDAxMTQwOTksLTE3NjQ1NTA3MTcsLTEwMzMzNjA2ODQsLTU5
-NjI2ODM2MywzMTgyNjI5MTQsLTE4NjUxNzgwMzEsLTQ4NTU5OT
-g0NiwtNTAwNjA5ODgwLC0xODM5ODI5ODM2LC0xMDM2MzAzMTAz
-LDY3NDU4MjYwNV19
+eyJoaXN0b3J5IjpbLTE4MDk2OTgxNzQsLTQ3Njc4MTA2OSwxMT
+g1OTg1NTkwLC05NDEzMzk0NTUsMTYwOTYxOTUzNCwxMDU0MTky
+NTA3LC0xNDY0MzQ4MTU2LC02MzY2MTMxNzMsLTgwMDY0NjQ2NS
+wyMDkwMDI5MTY3LC04MDAxMTQwOTksLTE3NjQ1NTA3MTcsLTEw
+MzMzNjA2ODQsLTU5NjI2ODM2MywzMTgyNjI5MTQsLTE4NjUxNz
+gwMzEsLTQ4NTU5OTg0NiwtNTAwNjA5ODgwLC0xODM5ODI5ODM2
+LC0xMDM2MzAzMTAzXX0=
 -->
