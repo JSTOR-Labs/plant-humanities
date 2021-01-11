@@ -92,7 +92,7 @@ The pelargonium was a favored plant of municipal gardeners because the hardy eve
 
 By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly instated as a staple in British domestic interiors, gardens, and patios. In his hugely popular 1875 book [_The amateur's flower garden_](https://www.biodiversitylibrary.org/bibliography/145001#/summary), Shirley Hibberd included designs for creating a harmonious pelargonium garden—“geranium garden”—based on the plant’s striking colour variations. In the layout of a panel garden, Hibberd suggests two potential summer schemes: one for a red-harmony garden, and another for a blue-harmony style.[^ref12] By 1895, writers such as Donald McDonald were still echoing Hibberd’s domestic horticultural penchant for the plant; McDonald wrote that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums,” a testament to the long-standing appeal of _Pelargoniums_ in British Victorian culture.[^ref13]
 <param ve-image primary fit="contain" url="https://www.biodiversitylibrary.org/pageimage/55342041" title="Shirley Hibberd’s Victorian garden plans, including bedding pelargoniums, in _The amateur’s flower garden_, Biodiversity Heritage Library">
-<param ve-image fit="contain" url="https://ia600109.us.archive.org/BookReader/BookReaderImages.php?id=amateursflowerga00hibb&itemPath=%2F9%2Fitems%2Famateursflowerga00hibb&server=ia600109.us.archive.org&page=n31_w363" title="Shirley Hibberd’s Victorian garden plans, including bedding pelargoniums, in _The amateur’s flower garden_, Biodiversity Heritage Library">
+<param ve-image fit="contain" url="https://ia800109.us.archive.org/BookReader/BookReaderImages.php?id=amateursflowerga00hibb&itemPath=%2F9%2Fitems%2Famateursflowerga00hibb&server=ia800109.us.archive.org&page=n30_w374" title="Shirley Hibberd’s Victorian garden plans, including bedding pelargoniums, in _The amateur’s flower garden_, Biodiversity Heritage Library">
 
 ### The “Genteel” _Geranium_ and Working-class Culture
 
@@ -176,11 +176,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU2OTU1MDUsLTE5MTU2OTU1MDUsLT
-E1NzEwMjQyLDE4MDg0NTEyNTIsMTUxNDIwNTI0MiwtMTE0Nzk2
-NjIwMywtMTA1NzMxNzE4NiwtMTAzMTY2MDkzMCwxNTczMzMzMz
-I1LDcxNTY5NzgxOSwtMTMwMjM4NTM0NCwxMDgzOTU5NjkyLDM0
-NTYyNDM0NywtNTA3NjMzMzU3LC00NzY3ODEwNjksMTE4NTk4NT
-U5MCwtOTQxMzM5NDU1LDE2MDk2MTk1MzQsMTA1NDE5MjUwNywt
-MTQ2NDM0ODE1Nl19
+eyJoaXN0b3J5IjpbLTE0MDQzMTYwODYsLTE5MTU2OTU1MDUsLT
+E5MTU2OTU1MDUsLTE1NzEwMjQyLDE4MDg0NTEyNTIsMTUxNDIw
+NTI0MiwtMTE0Nzk2NjIwMywtMTA1NzMxNzE4NiwtMTAzMTY2MD
+kzMCwxNTczMzMzMzI1LDcxNTY5NzgxOSwtMTMwMjM4NTM0NCwx
+MDgzOTU5NjkyLDM0NTYyNDM0NywtNTA3NjMzMzU3LC00NzY3OD
+EwNjksMTE4NTk4NTU5MCwtOTQxMzM5NDU1LDE2MDk2MTk1MzQs
+MTA1NDE5MjUwN119
 -->
