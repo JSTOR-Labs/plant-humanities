@@ -19,7 +19,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 <param ve-entity eid="Q157211" title="geranium" aliases="Geranium"> 
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
 <param ve-entity eid="Q18083598" title="Pelargonium inquinans"> 
-However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one, _Pelargonium_, and was a _Pelargonium inquinans_, to be exact. These two genera, _Pelargonium_ and _Geranium_, have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate roiled in botanical circles from the mid-eighteenth to the early nineteenth centuries, the popularity of the pelargonium gradually increased generating a first wave of excitement for the flower in the early 1800s. Yet, despite naturalists proving the _Pelargonium_ and _Geranium_ were two distinct genera, the public of the early nineteenth century had grown so accustomed to using the common name “geranium” for both types of plants that we still do so today.
+However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one, _Pelargonium_, and was a _Pelargonium inquinans_, to be exact. These two genera, _Pelargonium_ and _Geranium_, have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate roiled in botanical circles from the mid-eighteenth to the early nineteenth centuries, the popularity of the pelargonium gradually increased generating a first wave of cultural excitement for the flower in the early 1800s. Yet, despite naturalists proving the _Pelargonium_ and _Geranium_ were two distinct genera, the public of the early nineteenth century had grown so accustomed to using the common name “geranium” for both types of plants that we still do so today.
 <param ve-image fit="contain" primary url="https://www.biodiversitylibrary.org/pageimage/53144785" title="Botanical drawings of _Pelargonium odoratissimum_ and _Pelargonium inquinans_, Biodiversity Heritage Library">
 
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the role of technology in the plant’s changing popularity throughout the long nineteenth century reveals fervors of excitement for growing and displaying the flower, first under glass and then in garden beds, and for smelling and wearing its scent. This appreciation of the pelargonium also elucidates some reasons that Dicken’s favored flower still infuses many municipal, domestic, and potted gardens with its brilliant hues and varied fragrances today.
@@ -180,11 +180,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTk2MTkyNywzODkxMTk0MDAsNDA5ND
-Q2MzMzLDE3MDc4OTQ1NDAsLTE1NTI4ODQzMzMsODM5MDIwNjIx
-LC0xOTU0MjM5NDA5LC01MzE3MTY4MiwyMTAwNjk4ODI2LC0xMz
-kzNTAyNTczLDMyODkwODcwMSwxNzgzMzcwNDI5LC0yMDc1NTcz
-ODY3LDEzOTM1MzQ5MiwtODg4MTM1NTYwLC0xODM0NzEyMjI1LD
-E3MTY4NDk2MzQsLTE5MTU2OTU1MDUsLTE5MTU2OTU1MDUsLTE1
-NzEwMjQyXX0=
+eyJoaXN0b3J5IjpbLTExMTgzODgxNywtOTYxOTYxOTI3LDM4OT
+ExOTQwMCw0MDk0NDYzMzMsMTcwNzg5NDU0MCwtMTU1Mjg4NDMz
+Myw4MzkwMjA2MjEsLTE5NTQyMzk0MDksLTUzMTcxNjgyLDIxMD
+A2OTg4MjYsLTEzOTM1MDI1NzMsMzI4OTA4NzAxLDE3ODMzNzA0
+MjksLTIwNzU1NzM4NjcsMTM5MzUzNDkyLC04ODgxMzU1NjAsLT
+E4MzQ3MTIyMjUsMTcxNjg0OTYzNCwtMTkxNTY5NTUwNSwtMTkx
+NTY5NTUwNV19
 -->
