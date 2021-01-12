@@ -1,0 +1,34 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://visual-essays.app/annotations/?include=description&target=arbor_vitae//b94eb7d6",
+  "type": "AnnotationPage",
+  "partOf": {
+    "id": "http://visual-essays.app/annotations/?include=description&target=arbor_vitae//b94eb7d6",
+    "total": 1,
+    "modified": "2021-01-12T14:43:01.561816"
+  },
+  "startIndex": 0,
+  "items": [
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "An image",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1476.5330810546875,1160.2786865234375,671.6026611328125,857.142822265625"
+        },
+        "id": "arbor_vitae//b94eb7d6"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arbor_vitae//b94eb7d6/5ad7bfb6",
+      "seq": 0
+    }
+  ]
+}
