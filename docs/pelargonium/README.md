@@ -25,7 +25,7 @@ However, you might be surprised to learn that the scarlet flower with which Dick
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the role of technology in the plant’s changing popularity during the long nineteenth century reveals a fervor of excitement for growing and displaying the flower, first under glass and then in garden beds, and for smelling and wearing its scent. This visual narrative of the pelargonium also elucidates some reasons that Dicken’s favored flower still infuses many municipal, domestic, and potted gardens with its brilliant hues, horseshoe-shaped foliage, and varied fragrances today.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" title="Charles Dickens’ favored plant the _Pelargonium inquinans_ commonly known as a geranium, ViGA, 2017, Wikimedia Commons, CC BY-SA 4.0">
 <param ve-image fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
-<param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
+<param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., Flickr">
 <param ve-image fit="contain" url="Pelargoniums_Squaredelaplacedauphine_Paris.jpeg" title="Pelargoniums bloom in a window box garden, Square de la Place Dauphine, Paris, 2017, Kristan M. Hanson">
 
 
@@ -188,11 +188,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTk3MDY0MzksLTE2MDYzMDc1OCwtMT
-U3MDM3MDk5NCw0MTE2NDAwMjMsLTcwMjEwODc1MiwtMTE0ODc3
-Nzc5OSwtNzYwMjU4NDI1LC0xNTg4NzExMTQxLDk2Mzc2MTY2NC
-wtMTEyNDYxODkxLDgwMDI4NTQyNSwtMTMwNzUzODY1MiwxNTQ0
-NTc5MjY3LC04ODQ5MTM3NjEsMTU0NDU3OTI2NywtNzM0ODc5OT
-U0LDM1NDg5MjM0OCwtMTYwNjg0ODU2MiwxNDcxMjIzNzY0LC0x
-MTE4Mzg4MTddfQ==
+eyJoaXN0b3J5IjpbMzAxODA4NTU4LC0xNjA2MzA3NTgsLTE1Nz
+AzNzA5OTQsNDExNjQwMDIzLC03MDIxMDg3NTIsLTExNDg3Nzc3
+OTksLTc2MDI1ODQyNSwtMTU4ODcxMTE0MSw5NjM3NjE2NjQsLT
+ExMjQ2MTg5MSw4MDAyODU0MjUsLTEzMDc1Mzg2NTIsMTU0NDU3
+OTI2NywtODg0OTEzNzYxLDE1NDQ1NzkyNjcsLTczNDg3OTk1NC
+wzNTQ4OTIzNDgsLTE2MDY4NDg1NjIsMTQ3MTIyMzc2NCwtMTEx
+ODM4ODE3XX0=
 -->
