@@ -95,9 +95,10 @@ Early-1830s Britain saw the groundbreaking invention of the Wardian case, a seal
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835246&t=w" title="Illustration of three Wardian cases in the domestic space, 1870">
 
 This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotics indoors in such ornamental glass furnishings, safely protected from the industrial pollution in the air as well as the varying temperatures of the British climate
-<param ve-image
+<param ve-image primary
 title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
-
+<param ve-image
+url="https://upload.wikimedia.org/wikipedia/commons/3/37/Floriculture.jpg" title="Biodiversity Heritage Library">
 
 ### Pelargonium-mania in the Victorian Era
 
@@ -199,11 +200,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU5ODkyNTUsNTU5OTg1NzY3LC0xNz
-Y3ODc0OTEzLC04MDE3NzUzNjUsMTY0NjQ1MDI1MSw3ODk3MzAz
-MjQsLTIwNTc3MjI3NDQsLTk1MDE2NTQ1MiwxOTkwMjM0MDQwLC
-05MTYwNzQ0MTMsLTE5OTk1MTM1NjIsLTQxNTM0OTcyMiwyMDAy
-MzI2MTM4LDMwMTgwODU1OCwtMTYwNjMwNzU4LC0xNTcwMzcwOT
-k0LDQxMTY0MDAyMywtNzAyMTA4NzUyLC0xMTQ4Nzc3Nzk5LC03
-NjAyNTg0MjVdfQ==
+eyJoaXN0b3J5IjpbMzcyNzAzODgzLDU1OTk4NTc2NywtMTc2Nz
+g3NDkxMywtODAxNzc1MzY1LDE2NDY0NTAyNTEsNzg5NzMwMzI0
+LC0yMDU3NzIyNzQ0LC05NTAxNjU0NTIsMTk5MDIzNDA0MCwtOT
+E2MDc0NDEzLC0xOTk5NTEzNTYyLC00MTUzNDk3MjIsMjAwMjMy
+NjEzOCwzMDE4MDg1NTgsLTE2MDYzMDc1OCwtMTU3MDM3MDk5NC
+w0MTE2NDAwMjMsLTcwMjEwODc1MiwtMTE0ODc3Nzc5OSwtNzYw
+MjU4NDI1XX0=
 -->
