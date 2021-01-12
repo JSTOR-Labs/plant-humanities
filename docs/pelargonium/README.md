@@ -84,7 +84,7 @@ This visualization of the global nomenclature history of the _Pelargonium_ and t
 <param ve-entity eid="Q465834" title="Charles Louis L'Héritier de Brutelle" aliases="Charles-Louis L’Héritier de Brutelle’s">
 <param ve-entity eid="Q2003356" title="Robert Sweet">
 Carl Linnaeus, in his 1753-treatise [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref6] Because Linnaean taxonomy was so revered at that time, his near contemporary Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargoniums_ as an independent genus was overlooked.[^ref7] Eventually, by creating ten new genera in the _Geraniaceae_ family, Robert Sweet introduced a serious classification system in his 1820-book _[Geraniaceae: The Natural Order of Gerania](https://www.biodiversitylibrary.org/page/47461998)_ to ease the shortfall in Linnaean nomenclature.[^ref8] However, by the early nineteenth century, pelargoniums had already attained so much popularity, particularly in England and France, that the name “geranium” stuck.
-<param ve-image primary url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="Pelargonium alchemilloides (L.) L'Hér.">
+<param ve-image primary url="https://ia800906.us.archive.org/BookReader/BookReaderImages.php?id=geraniaceaev5swee&itemPath=%2F2%2Fitems%2Fgeraniaceaev5swee&server=ia800906.us.archive.org&page=n333_w380" title="Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, ">
 
 
 ### The Wardian Case: A New Horizon for Overseas Plant Transport
@@ -194,11 +194,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjA3NDQxMywtMTk5OTUxMzU2MiwtND
-E1MzQ5NzIyLDIwMDIzMjYxMzgsMzAxODA4NTU4LC0xNjA2MzA3
-NTgsLTE1NzAzNzA5OTQsNDExNjQwMDIzLC03MDIxMDg3NTIsLT
-ExNDg3Nzc3OTksLTc2MDI1ODQyNSwtMTU4ODcxMTE0MSw5NjM3
-NjE2NjQsLTExMjQ2MTg5MSw4MDAyODU0MjUsLTEzMDc1Mzg2NT
-IsMTU0NDU3OTI2NywtODg0OTEzNzYxLDE1NDQ1NzkyNjcsLTcz
-NDg3OTk1NF19
+eyJoaXN0b3J5IjpbMzYwNTgxMDc3LC05MTYwNzQ0MTMsLTE5OT
+k1MTM1NjIsLTQxNTM0OTcyMiwyMDAyMzI2MTM4LDMwMTgwODU1
+OCwtMTYwNjMwNzU4LC0xNTcwMzcwOTk0LDQxMTY0MDAyMywtNz
+AyMTA4NzUyLC0xMTQ4Nzc3Nzk5LC03NjAyNTg0MjUsLTE1ODg3
+MTExNDEsOTYzNzYxNjY0LC0xMTI0NjE4OTEsODAwMjg1NDI1LC
+0xMzA3NTM4NjUyLDE1NDQ1NzkyNjcsLTg4NDkxMzc2MSwxNTQ0
+NTc5MjY3XX0=
 -->
