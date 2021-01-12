@@ -9,8 +9,8 @@
 ### What’s in a Name?
 
 <param ve-entity eid="Q5686" title="Charles Dickens">
-<param ve-entity eid="Q67479626" title="Kent">
-<param ve-entity eid="Q3850458" title="Mary Dickens">
+<param ve-entity eid="Q67479626" title="Kent" aliases="Kent.">
+<param ve-entity eid="Q3850458" title="Mary Dickens" aliases="Mamie Dickens">
 There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium.[^ref1] With their vibrant red flowers and sweet, rose scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color” at his country home, [Gad’s Hill Place](https://thegardenstrust.blog/2020/01/25/dickens-and-gardens/), in Kent.[^ref2] Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.”[^ref3]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" title="Charles Dickens with his two daughters at Gad’s Hill Place. Behind them is a staged “theatre” of potted geraniums displayed beneath a bay window. _Charles Dickens with his daughters, Mamie Dickens and Catherine ('Katey') Elizabeth Macready Perugini (née Dickens)_, after Joseph Athanase Aufray, after a photograph by Mason & Co (Robert Hindry Mason), photogravure, published 18 December 1869, National Gallery of Art, Wikimedia Commons">
 <param ve-image fit="contain" url="Pelargonium_CharlesDickensWindow_FLICKR.jpg"title="Stained glass window with portrait of Charles Dickens encircled by his favorite flower, Charles Dickens Birthplace Museum, Portsmouth, England, Fred Rockwood, 2010, Flickr, CC BY-NC-SA 2.0">
@@ -30,8 +30,9 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 
 ### Pelargonium Morphology: Fruit and Flower
 
-The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period.  The particular morphology of the plant lends the genus its name; _Pelargonium_ comes from the Greek word _pelargos_ ("[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”) which alludes to its long, almost beak-shaped fruit.
+The _Pelargonium_ and its relative the _Geranium_ both belong to the family _Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to birds and, at least superficially, each other. The name _Pelargonium_ comes from the Greek _pelargos_ (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”) which alludes to the plant’s long, beak-shaped fruit. Similarly, _Geranium_ derives from the Greek _géranos_ (“crane”) and describes the shape of the fruit capsule common to some species.
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="Pelargonium alchemilloides (L.) L'Hér.">
+
 
 <param ve-entity eid="Q183252" title="morphology"> 
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
@@ -180,11 +181,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0ODkyMzQ4LC0xNjA2ODQ4NTYyLDE0Nz
-EyMjM3NjQsLTExMTgzODgxNywtOTYxOTYxOTI3LDM4OTExOTQw
-MCw0MDk0NDYzMzMsMTcwNzg5NDU0MCwtMTU1Mjg4NDMzMyw4Mz
-kwMjA2MjEsLTE5NTQyMzk0MDksLTUzMTcxNjgyLDIxMDA2OTg4
-MjYsLTEzOTM1MDI1NzMsMzI4OTA4NzAxLDE3ODMzNzA0MjksLT
-IwNzU1NzM4NjcsMTM5MzUzNDkyLC04ODgxMzU1NjAsLTE4MzQ3
-MTIyMjVdfQ==
+eyJoaXN0b3J5IjpbLTczNDg3OTk1NCwzNTQ4OTIzNDgsLTE2MD
+Y4NDg1NjIsMTQ3MTIyMzc2NCwtMTExODM4ODE3LC05NjE5NjE5
+MjcsMzg5MTE5NDAwLDQwOTQ0NjMzMywxNzA3ODk0NTQwLC0xNT
+UyODg0MzMzLDgzOTAyMDYyMSwtMTk1NDIzOTQwOSwtNTMxNzE2
+ODIsMjEwMDY5ODgyNiwtMTM5MzUwMjU3MywzMjg5MDg3MDEsMT
+c4MzM3MDQyOSwtMjA3NTU3Mzg2NywxMzkzNTM0OTIsLTg4ODEz
+NTU2MF19
 -->
