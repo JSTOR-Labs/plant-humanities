@@ -77,10 +77,13 @@ The nomenclature confusion surrounding the _Pelargonium_ began when the plant no
 <param ve-storiiies id="fc1gpa51fu" title="_The_ Geraniaceae _Family_, Verónica Matallana">
 
 
+This visualization of the global nomenclature history of the _Pelargonium_ and the _Geranium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.  Indeed, botanists have struggled to disentangle the _Pelargonium_ and the _Geranium_ since the mid-1750s.
+<param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
+
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
 <param ve-entity eid="Q465834" title="Charles Louis L'Héritier de Brutelle" aliases="Charles-Louis L’Héritier de Brutelle’s">
 <param ve-entity eid="Q2003356" title="Robert Sweet">
-This visualization of the global nomenclature history of the _Pelargonium_ and the _Geranium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_. Indeed, as it explains, botanists have struggled to disentangle the _Pelargonium_ and the _Geranium_ since the mid-1750s. Carl Linnaeus, in his 1753-treatise [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref6] Because Linnaean taxonomy was so revered at that time, his near contemporary Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargoniums_ as an independent genus was overlooked.[^ref7] Eventually, by creating ten new genera in the _Geraniaceae_ family, Robert Sweet introduced a serious classification system in his 1820-book _[Geraniaceae: The Natural Order of Gerania](https://www.biodiversitylibrary.org/page/47461998)_ to ease the shortfall in Linnaean nomenclature.[^ref8] However, by the early nineteenth century, pelargoniums had already attained so much popularity, particularly in England and France, that the name “geranium” stuck.
+Carl Linnaeus, in his 1753-treatise [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref6] Because Linnaean taxonomy was so revered at that time, his near contemporary Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargoniums_ as an independent genus was overlooked.[^ref7] Eventually, by creating ten new genera in the _Geraniaceae_ family, Robert Sweet introduced a serious classification system in his 1820-book _[Geraniaceae: The Natural Order of Gerania](https://www.biodiversitylibrary.org/page/47461998)_ to ease the shortfall in Linnaean nomenclature.[^ref8] However, by the early nineteenth century, pelargoniums had already attained so much popularity, particularly in England and France, that the name “geranium” stuck.
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
 
@@ -191,11 +194,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTk1MTM1NjIsLTQxNTM0OTcyMiwyMD
-AyMzI2MTM4LDMwMTgwODU1OCwtMTYwNjMwNzU4LC0xNTcwMzcw
-OTk0LDQxMTY0MDAyMywtNzAyMTA4NzUyLC0xMTQ4Nzc3Nzk5LC
-03NjAyNTg0MjUsLTE1ODg3MTExNDEsOTYzNzYxNjY0LC0xMTI0
-NjE4OTEsODAwMjg1NDI1LC0xMzA3NTM4NjUyLDE1NDQ1NzkyNj
-csLTg4NDkxMzc2MSwxNTQ0NTc5MjY3LC03MzQ4Nzk5NTQsMzU0
-ODkyMzQ4XX0=
+eyJoaXN0b3J5IjpbNTk4MTE1OTUxLC0xOTk5NTEzNTYyLC00MT
+UzNDk3MjIsMjAwMjMyNjEzOCwzMDE4MDg1NTgsLTE2MDYzMDc1
+OCwtMTU3MDM3MDk5NCw0MTE2NDAwMjMsLTcwMjEwODc1MiwtMT
+E0ODc3Nzc5OSwtNzYwMjU4NDI1LC0xNTg4NzExMTQxLDk2Mzc2
+MTY2NCwtMTEyNDYxODkxLDgwMDI4NTQyNSwtMTMwNzUzODY1Mi
+wxNTQ0NTc5MjY3LC04ODQ5MTM3NjEsMTU0NDU3OTI2NywtNzM0
+ODc5OTU0XX0=
 -->
