@@ -154,6 +154,8 @@ The Chiris company introduced a particular pelargonium hybrid, "_Geranium rosat_
 <param ve-entity eid="Q29520" title="China">
 <param ve-entity eid="Q79" title="Egypt">
 Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[REF] Significantly, the confusion surrounding pelargonium nomenclature in Europe contexts also exists in China. More than 50% of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You (Pelargonium Oil)_ in Chinese. It is said that the name _Tianzhu Kui_ was introduced by Junyu Zhang in 1933 based on his studies in Japan. The word _Tianzhu Kui_ is from _ゼラニウム_, which is pronounced as _Geranium_ in English.
+<param ve-map center="18.240663, 40.244245" zoom="2.9">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/djareid/Dumbarton-PH/master/industrial-oil.json" title="global geranium oil industries" active>
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Tianzhu_Kui.png" title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_ (_Pelargonium_) in Chinese. Jin, Jiancheng, and Xun Zhang. _Chinese Gongbi Line Drawing of Hundred Flowers (Autumn and Winter)_. Tianjin Yangliuqing Fine Arts Press. 2005.">
 
 ### Conclusion
@@ -200,11 +202,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDExMzExMyw1NTk5ODU3NjcsLTE3Nj
-c4NzQ5MTMsLTgwMTc3NTM2NSwxNjQ2NDUwMjUxLDc4OTczMDMy
-NCwtMjA1NzcyMjc0NCwtOTUwMTY1NDUyLDE5OTAyMzQwNDAsLT
-kxNjA3NDQxMywtMTk5OTUxMzU2MiwtNDE1MzQ5NzIyLDIwMDIz
-MjYxMzgsMzAxODA4NTU4LC0xNjA2MzA3NTgsLTE1NzAzNzA5OT
-QsNDExNjQwMDIzLC03MDIxMDg3NTIsLTExNDg3Nzc3OTksLTc2
-MDI1ODQyNV19
+eyJoaXN0b3J5IjpbMTIxNTU1ODg5LC05MTAxMTMxMTMsNTU5OT
+g1NzY3LC0xNzY3ODc0OTEzLC04MDE3NzUzNjUsMTY0NjQ1MDI1
+MSw3ODk3MzAzMjQsLTIwNTc3MjI3NDQsLTk1MDE2NTQ1MiwxOT
+kwMjM0MDQwLC05MTYwNzQ0MTMsLTE5OTk1MTM1NjIsLTQxNTM0
+OTcyMiwyMDAyMzI2MTM4LDMwMTgwODU1OCwtMTYwNjMwNzU4LC
+0xNTcwMzcwOTk0LDQxMTY0MDAyMywtNzAyMTA4NzUyLC0xMTQ4
+Nzc3Nzk5XX0=
 -->
