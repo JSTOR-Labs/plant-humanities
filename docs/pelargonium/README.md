@@ -61,7 +61,7 @@ The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madaga
 <param ve-entity eid="Q66569" title="Paul Hermann">
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
 <param ve-entity eid="Q43631" title="Leiden">
-<param ve-entity eid="Q7161189" title="Pelargonium grossularioides">
+<param ve-entity eid="Q7161189" title="Pelargonium grossularioides" aliases="P. grossularioides">
 Of the many _Pelargonium_ species, _Pelargonium triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref4] In his 1689-book _[Paradisi Batavi Prodromus](https://bibdigital.rjb.csic.es/idurl/1/13582)_, Hermann recorded the name of one such pelargonium, now known as _P. grossularioides_.[^ref5] During this period, Hermann and other physicians highly valued these and other non-native plants for their medicinal, culinary, and nutritive properties and studied them accordingly.
 <param ve-map center="-24.569, 25.879" zoom="5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
@@ -190,11 +190,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODE5MTM1NywtNzAyMTA4NzUyLC0xMT
-Q4Nzc3Nzk5LC03NjAyNTg0MjUsLTE1ODg3MTExNDEsOTYzNzYx
-NjY0LC0xMTI0NjE4OTEsODAwMjg1NDI1LC0xMzA3NTM4NjUyLD
-E1NDQ1NzkyNjcsLTg4NDkxMzc2MSwxNTQ0NTc5MjY3LC03MzQ4
-Nzk5NTQsMzU0ODkyMzQ4LC0xNjA2ODQ4NTYyLDE0NzEyMjM3Nj
-QsLTExMTgzODgxNywtOTYxOTYxOTI3LDM4OTExOTQwMCw0MDk0
-NDYzMzNdfQ==
+eyJoaXN0b3J5IjpbLTEyNTM4OTQwMjUsLTcwMjEwODc1MiwtMT
+E0ODc3Nzc5OSwtNzYwMjU4NDI1LC0xNTg4NzExMTQxLDk2Mzc2
+MTY2NCwtMTEyNDYxODkxLDgwMDI4NTQyNSwtMTMwNzUzODY1Mi
+wxNTQ0NTc5MjY3LC04ODQ5MTM3NjEsMTU0NDU3OTI2NywtNzM0
+ODc5OTU0LDM1NDg5MjM0OCwtMTYwNjg0ODU2MiwxNDcxMjIzNz
+Y0LC0xMTE4Mzg4MTcsLTk2MTk2MTkyNywzODkxMTk0MDAsNDA5
+NDQ2MzMzXX0=
 -->
