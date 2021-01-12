@@ -20,7 +20,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one, _Pelargonium_, and was a _Pelargonium inquinans_, to be exact. These two genera, _Pelargonium_ and _Geranium_, have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate roiled in botanical circles from the mid-eighteenth to the early nineteenth centuries, the popularity of the pelargonium gradually increased generating a first wave of excitement for the flower in the early 1800s. Yet, despite naturalists proving the _Pelargonium_ and _Geranium_ were two distinct genera, the public of the early nineteenth century had grown so accustomed to using the common name “geranium” for both types of plants that we still do so today.
 <param ve-image fit="contain" primary url="https://www.biodiversitylibrary.org/pageimage/53144785" title="Botanical drawings of _Pelargonium odoratissimum_ and _Pelargonium inquinans_, Biodiversity Heritage Library">
 
-So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the role of technology in the plant’s changing popularity throughout the long nineteenth century reveals fervors of excitement for growing and displaying the flower, first under glass and then in garden beds, and for smelling and wearing its scent. This appreciation of the pelargonium also elucidates some reasons that Dicken’s favored flower still proliferates in many municipal and domestic gardens today.
+So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the role of technology in the plant’s changing popularity throughout the long nineteenth century reveals fervors of excitement for growing and displaying the flower, first under glass and then in garden beds, and for smelling and wearing its scent. This appreciation of the pelargonium also elucidates some reasons that Dicken’s favored flower still infuses many municipal, domestic, and potted gardens with its brilliant hues and varied fragrances today.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" title="Charles Dickens’ favored plant the _Pelargonium inquinans_ commonly known as a geranium, ViGA, 2017, Wikimedia Commons, CC BY-SA 4.0">
 
 
@@ -176,11 +176,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzEzNTQxMywtMTk1NDIzOTQwOSwtNT
-MxNzE2ODIsMjEwMDY5ODgyNiwtMTM5MzUwMjU3MywzMjg5MDg3
-MDEsMTc4MzM3MDQyOSwtMjA3NTU3Mzg2NywxMzkzNTM0OTIsLT
-g4ODEzNTU2MCwtMTgzNDcxMjIyNSwxNzE2ODQ5NjM0LC0xOTE1
-Njk1NTA1LC0xOTE1Njk1NTA1LC0xNTcxMDI0MiwxODA4NDUxMj
-UyLDE1MTQyMDUyNDIsLTExNDc5NjYyMDMsLTEwNTczMTcxODYs
-LTEwMzE2NjA5MzBdfQ==
+eyJoaXN0b3J5IjpbODM5MDIwNjIxLC0xOTU0MjM5NDA5LC01Mz
+E3MTY4MiwyMTAwNjk4ODI2LC0xMzkzNTAyNTczLDMyODkwODcw
+MSwxNzgzMzcwNDI5LC0yMDc1NTczODY3LDEzOTM1MzQ5MiwtOD
+g4MTM1NTYwLC0xODM0NzEyMjI1LDE3MTY4NDk2MzQsLTE5MTU2
+OTU1MDUsLTE5MTU2OTU1MDUsLTE1NzEwMjQyLDE4MDg0NTEyNT
+IsMTUxNDIwNTI0MiwtMTE0Nzk2NjIwMywtMTA1NzMxNzE4Niwt
+MTAzMTY2MDkzMF19
 -->
