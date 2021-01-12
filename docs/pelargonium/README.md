@@ -13,8 +13,8 @@
 <param ve-entity eid="Q3850458" title="Mary Dickens">
 There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium.[^ref1] With their vibrant red flowers and sweet, rose scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color” at his country home, Gad’s Hill Place, in Kent.[^ref2] Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.”[^ref3]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" title="Charles Dickens with his two daughters at Gad’s Hill Place. Behind them is a staged “theatre” of potted geraniums displayed beneath a bay window. _Charles Dickens with his daughters, Mamie Dickens and Catherine ('Katey') Elizabeth Macready Perugini (née Dickens)_, after Joseph Athanase Aufray, after a photograph by Mason & Co (Robert Hindry Mason), photogravure, published 18 December 1869, National Gallery of Art, Wikimedia Commons">
-<param ve-image fit="contain" url="Pelargonium_CharlesDickensMuseum_FLICKR.jpg" title="Flower bed of brilliant red pelargoniums, Charles Dickens Birthplace Museum, Portsmouth, England, Mark Hooper, 2017, Flickr, CC BY-NC-SA 2.0">
 <param ve-image fit="contain" url="Pelargonium_CharlesDickensWindow_FLICKR.jpg"title="Stained glass window with portrait of Charles Dickens encircled by his favorite flower, Charles Dickens Birthplace Museum, Portsmouth, England, Fred Rockwood, 2010, Flickr, CC BY-NC-SA 2.0">
+<param ve-image fit="contain" url="Pelargonium_CharlesDickensMuseum_FLICKR.jpg" title="Flower bed of brilliant red pelargoniums, Charles Dickens Birthplace Museum, Portsmouth, England, Mark Hooper, 2017, Flickr, CC BY-NC-SA 2.0">
 
 <param ve-entity eid="Q157211" title="geranium" aliases="Geranium"> 
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
@@ -180,11 +180,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODQwMTkzNCw0MDk0NDYzMzMsMTcwNz
-g5NDU0MCwtMTU1Mjg4NDMzMyw4MzkwMjA2MjEsLTE5NTQyMzk0
-MDksLTUzMTcxNjgyLDIxMDA2OTg4MjYsLTEzOTM1MDI1NzMsMz
-I4OTA4NzAxLDE3ODMzNzA0MjksLTIwNzU1NzM4NjcsMTM5MzUz
-NDkyLC04ODgxMzU1NjAsLTE4MzQ3MTIyMjUsMTcxNjg0OTYzNC
-wtMTkxNTY5NTUwNSwtMTkxNTY5NTUwNSwtMTU3MTAyNDIsMTgw
-ODQ1MTI1Ml19
+eyJoaXN0b3J5IjpbMzg5MTE5NDAwLDQwOTQ0NjMzMywxNzA3OD
+k0NTQwLC0xNTUyODg0MzMzLDgzOTAyMDYyMSwtMTk1NDIzOTQw
+OSwtNTMxNzE2ODIsMjEwMDY5ODgyNiwtMTM5MzUwMjU3MywzMj
+g5MDg3MDEsMTc4MzM3MDQyOSwtMjA3NTU3Mzg2NywxMzkzNTM0
+OTIsLTg4ODEzNTU2MCwtMTgzNDcxMjIyNSwxNzE2ODQ5NjM0LC
+0xOTE1Njk1NTA1LC0xOTE1Njk1NTA1LC0xNTcxMDI0MiwxODA4
+NDUxMjUyXX0=
 -->
