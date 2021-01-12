@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=Agave/1492e25c",
-    "total": 1,
-    "modified": "2021-01-12T13:47:51.762476"
+    "total": 2,
+    "modified": "2021-01-12T13:49:51.929112"
   },
   "startIndex": 0,
   "items": [
@@ -29,6 +29,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "Agave/1492e25c/177f25f9",
       "seq": 0
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "What is this?",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2021.9322509765625,2124.838623046875,677.6236572265625,603.322998046875"
+        },
+        "id": "Agave/1492e25c"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "Agave/1492e25c/383e8c4e",
+      "seq": 1
     }
   ]
 }
