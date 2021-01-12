@@ -55,7 +55,6 @@ The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madaga
 <param ve-map center="-7.347, 72.454" zoom="2.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
-
 <param ve-entity eid="Q213360" title="Table Mountain">
 <param ve-entity eid="Q66569" title="Paul Hermann">
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
@@ -182,7 +181,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3MzgxMzQzLC0xMzA3NTM4NjUyLDE1ND
+eyJoaXN0b3J5IjpbODAwMjg1NDI1LC0xMzA3NTM4NjUyLDE1ND
 Q1NzkyNjcsLTg4NDkxMzc2MSwxNTQ0NTc5MjY3LC03MzQ4Nzk5
 NTQsMzU0ODkyMzQ4LC0xNjA2ODQ4NTYyLDE0NzEyMjM3NjQsLT
 ExMTgzODgxNywtOTYxOTYxOTI3LDM4OTExOTQwMCw0MDk0NDYz
