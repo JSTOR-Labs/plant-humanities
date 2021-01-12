@@ -31,6 +31,7 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 ### Pelargonium Morphology: Fruit and Flower
 
 <param ve-entity eid="Q155945" title="Geraniaceae"> 
+<param ve-entity eid="Q147768" title="capsule"> 
 The _Pelargonium_ and its relative the _Geranium_ both belong to the family _Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, at least superficially, each other. The name _Pelargonium_ comes from the Greek _pelargos_ (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”), which alludes to the plant’s long, beak-shaped fruit. Similarly, the moniker _Geranium_ derives from the Greek _géranos_ (“crane”), a descriptive reference to a columnar fruit capsule characteristic of some species.
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="Pelargonium alchemilloides (L.) L'Hér.">
 
@@ -181,7 +182,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMzM0ODA4LC0xMzA3NTM4NjUyLDE1ND
+eyJoaXN0b3J5IjpbNDE3MzgxMzQzLC0xMzA3NTM4NjUyLDE1ND
 Q1NzkyNjcsLTg4NDkxMzc2MSwxNTQ0NTc5MjY3LC03MzQ4Nzk5
 NTQsMzU0ODkyMzQ4LC0xNjA2ODQ4NTYyLDE0NzEyMjM3NjQsLT
 ExMTgzODgxNywtOTYxOTYxOTI3LDM4OTExOTQwMCw0MDk0NDYz
