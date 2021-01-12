@@ -20,7 +20,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one, _Pelargonium_, and was a _Pelargonium inquinans_, to be exact. These two genera, _Pelargonium_ and _Geranium_, have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate roiled in botanical circles from the mid-eighteenth to the early nineteenth centuries, the popularity of the pelargonium gradually increased generating a first wave of excitement for the flower in the early 1800s. Yet, despite naturalists proving the _Pelargonium_ and _Geranium_ were two distinct genera, the public of the early nineteenth century had grown so accustomed to using the common name “geranium” for both types of plants that we still do so today.
 <param ve-image fit="contain" primary url="https://www.biodiversitylibrary.org/pageimage/53144785" title="Botanical drawings of _Pelargonium odoratissimum_ and _Pelargonium inquinans_, Biodiversity Heritage Library">
 
-So how can we tell the history of the forgotten _Pelargonium_, a plant that is a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten historyfrom its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. A social and cultural history of the _Pelargonium_ that attends to its use as an ornamental and an aromatic in the nineteenth century reveals a fervor of excitement not just for growing and displaying the flower but also for smelling and wearing its scent, both of which contribute to its enduring popularity today.
+So how can we tell the history of the forgotten _Pelargonium_, a plant that is a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. A social and cultural history of the _Pelargonium_ that attends to its use as an ornamental and an aromatic in the nineteenth century reveals a fervor of excitement not just for growing and displaying the flower but also for smelling and wearing its scent, both of which contribute to its enduring popularity today.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" title="Charles Dickens’ favored plant the _Pelargonium inquinans_ commonly known as a geranium, ViGA, 2017, Wikimedia Commons, CC BY-SA 4.0">
 
 
@@ -176,7 +176,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg2NjI3OTUsLTUzMTcxNjgyLDIxMD
+eyJoaXN0b3J5IjpbLTE5NTQyMzk0MDksLTUzMTcxNjgyLDIxMD
 A2OTg4MjYsLTEzOTM1MDI1NzMsMzI4OTA4NzAxLDE3ODMzNzA0
 MjksLTIwNzU1NzM4NjcsMTM5MzUzNDkyLC04ODgxMzU1NjAsLT
 E4MzQ3MTIyMjUsMTcxNjg0OTYzNCwtMTkxNTY5NTUwNSwtMTkx
