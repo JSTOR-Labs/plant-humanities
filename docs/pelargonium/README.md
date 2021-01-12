@@ -23,7 +23,7 @@ However, you might be surprised to learn that the scarlet flower with which Dick
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the role of technology in the plant’s changing popularity throughout the long nineteenth century reveals fervors of excitement for growing and displaying the flower, first under glass and then in garden beds, and for smelling and wearing its scent. This appreciation of the pelargonium also elucidates some reasons that Dicken’s favored flower still infuses many municipal, domestic, and potted gardens with its brilliant hues and varied fragrances today.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" title="Charles Dickens’ favored plant the _Pelargonium inquinans_ commonly known as a geranium, ViGA, 2017, Wikimedia Commons, CC BY-SA 4.0">
 <param ve-image fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
-<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" title="Charles Dickens’ favored plant the _Pelargonium inquinans_ commonly known as a geranium, ViGA, 2017, Wikimedia Commons, CC BY-SA 4.0">
+<param ve-image fit="contain" url="Pelargoniums_Squaredelaplacedauphine_Paris.jpeg" title="Pelargoniums bloom in a window box garden, Square de la Place Dauphine, Paris, 2017, Kristan M. Hanson">
 
 
 ### Pelargonium Morphology: Fruit and Flower
@@ -178,11 +178,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyMzkxNDE4LDgzOTAyMDYyMSwtMTk1ND
-IzOTQwOSwtNTMxNzE2ODIsMjEwMDY5ODgyNiwtMTM5MzUwMjU3
-MywzMjg5MDg3MDEsMTc4MzM3MDQyOSwtMjA3NTU3Mzg2NywxMz
-kzNTM0OTIsLTg4ODEzNTU2MCwtMTgzNDcxMjIyNSwxNzE2ODQ5
-NjM0LC0xOTE1Njk1NTA1LC0xOTE1Njk1NTA1LC0xNTcxMDI0Mi
-wxODA4NDUxMjUyLDE1MTQyMDUyNDIsLTExNDc5NjYyMDMsLTEw
-NTczMTcxODZdfQ==
+eyJoaXN0b3J5IjpbLTE1NTI4ODQzMzMsODM5MDIwNjIxLC0xOT
+U0MjM5NDA5LC01MzE3MTY4MiwyMTAwNjk4ODI2LC0xMzkzNTAy
+NTczLDMyODkwODcwMSwxNzgzMzcwNDI5LC0yMDc1NTczODY3LD
+EzOTM1MzQ5MiwtODg4MTM1NTYwLC0xODM0NzEyMjI1LDE3MTY4
+NDk2MzQsLTE5MTU2OTU1MDUsLTE5MTU2OTU1MDUsLTE1NzEwMj
+QyLDE4MDg0NTEyNTIsMTUxNDIwNTI0MiwtMTE0Nzk2NjIwMywt
+MTA1NzMxNzE4Nl19
 -->
