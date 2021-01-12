@@ -61,7 +61,7 @@ The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madaga
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
 <param ve-entity eid="Q43631" title="Leiden">
 <param ve-entity eid="Q7161189" title="Pelargonium grossularioides">
-Of the many _Pelargonium_ species, _Pelargonium triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span>by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref4] In his 1689-book _Paradisi Batavi Prodromus_, Hermann recorded the name of one such pelargonium, now known as _P. grossularioides_. During this period, Hermann and other physicians highly valued these and other non-native plants for their medicinal, culinary, and nutritive properties and studied them accordingly.
+Of the many _Pelargonium_ species, _Pelargonium triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span>by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref4] In his 1689-book _[Paradisi Batavi Prodromus](https://bibdigital.rjb.csic.es/idurl/1/13582)_, Hermann recorded the name of one such pelargonium, now known as _P. grossularioides_.[^ref5] During this period, Hermann and other physicians highly valued these and other non-native plants for their medicinal, culinary, and nutritive properties and studied them accordingly.
 <param ve-map center="-24.569, 25.879" zoom="5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
@@ -155,6 +155,8 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 
+[^ref5]: Sherard, William, _Schola botanica sive catalogus plantarum, quas ab aliquot annis in Horto Regio Parisiensis Studiosis indigitavit vir clarissimvs Joseph Pitton Tournefort, D. M. ut et Pauli Hermanni P.P. Paradisi Batavi prodromus, In quo Planta rariores omnes, in Batavorum Hortis hactenus cultae, & plurinam partem à nemine antea descriptae recensentur_, 
+
 [^ref5]: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.
 
 [^ref6]: Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.
@@ -183,11 +185,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzNzYxNjY0LC0xMTI0NjE4OTEsODAwMj
-g1NDI1LC0xMzA3NTM4NjUyLDE1NDQ1NzkyNjcsLTg4NDkxMzc2
-MSwxNTQ0NTc5MjY3LC03MzQ4Nzk5NTQsMzU0ODkyMzQ4LC0xNj
-A2ODQ4NTYyLDE0NzEyMjM3NjQsLTExMTgzODgxNywtOTYxOTYx
-OTI3LDM4OTExOTQwMCw0MDk0NDYzMzMsMTcwNzg5NDU0MCwtMT
-U1Mjg4NDMzMyw4MzkwMjA2MjEsLTE5NTQyMzk0MDksLTUzMTcx
-NjgyXX0=
+eyJoaXN0b3J5IjpbOTUwODQ4MzgsOTYzNzYxNjY0LC0xMTI0Nj
+E4OTEsODAwMjg1NDI1LC0xMzA3NTM4NjUyLDE1NDQ1NzkyNjcs
+LTg4NDkxMzc2MSwxNTQ0NTc5MjY3LC03MzQ4Nzk5NTQsMzU0OD
+kyMzQ4LC0xNjA2ODQ4NTYyLDE0NzEyMjM3NjQsLTExMTgzODgx
+NywtOTYxOTYxOTI3LDM4OTExOTQwMCw0MDk0NDYzMzMsMTcwNz
+g5NDU0MCwtMTU1Mjg4NDMzMyw4MzkwMjA2MjEsLTE5NTQyMzk0
+MDldfQ==
 -->
