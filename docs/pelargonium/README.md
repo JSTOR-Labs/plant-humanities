@@ -61,7 +61,7 @@ The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madaga
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
 <param ve-entity eid="Q43631" title="Leiden">
 <param ve-entity eid="Q7161189" title="Pelargonium grossularioides">
-Of the many _Pelargonium_ species, _Pelargonium triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span>by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref4] In his 1689-book _[Paradisi Batavi Prodromus](https://bibdigital.rjb.csic.es/idurl/1/13582)_, Hermann recorded the name of one such pelargonium, now known as _P. grossularioides_.[^ref5] During this period, Hermann and other physicians highly valued these and other non-native plants for their medicinal, culinary, and nutritive properties and studied them accordingly.
+Of the many _Pelargonium_ species, _Pelargonium triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref4] In his 1689-book _[Paradisi Batavi Prodromus](https://bibdigital.rjb.csic.es/idurl/1/13582)_, Hermann recorded the name of one such pelargonium, now known as _P. grossularioides_.[^ref5] During this period, Hermann and other physicians highly valued these and other non-native plants for their medicinal, culinary, and nutritive properties and studied them accordingly.
 <param ve-map center="-24.569, 25.879" zoom="5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
@@ -185,11 +185,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxMjg1NzExLC0xNTg4NzExMTQxLDk2Mz
-c2MTY2NCwtMTEyNDYxODkxLDgwMDI4NTQyNSwtMTMwNzUzODY1
-MiwxNTQ0NTc5MjY3LC04ODQ5MTM3NjEsMTU0NDU3OTI2NywtNz
-M0ODc5OTU0LDM1NDg5MjM0OCwtMTYwNjg0ODU2MiwxNDcxMjIz
-NzY0LC0xMTE4Mzg4MTcsLTk2MTk2MTkyNywzODkxMTk0MDAsND
-A5NDQ2MzMzLDE3MDc4OTQ1NDAsLTE1NTI4ODQzMzMsODM5MDIw
-NjIxXX0=
+eyJoaXN0b3J5IjpbLTc2MDI1ODQyNSwtMTU4ODcxMTE0MSw5Nj
+M3NjE2NjQsLTExMjQ2MTg5MSw4MDAyODU0MjUsLTEzMDc1Mzg2
+NTIsMTU0NDU3OTI2NywtODg0OTEzNzYxLDE1NDQ1NzkyNjcsLT
+czNDg3OTk1NCwzNTQ4OTIzNDgsLTE2MDY4NDg1NjIsMTQ3MTIy
+Mzc2NCwtMTExODM4ODE3LC05NjE5NjE5MjcsMzg5MTE5NDAwLD
+QwOTQ0NjMzMywxNzA3ODk0NTQwLC0xNTUyODg0MzMzLDgzOTAy
+MDYyMV19
 -->
