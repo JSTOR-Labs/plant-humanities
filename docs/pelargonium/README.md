@@ -94,6 +94,11 @@ Early-1830s Britain saw the groundbreaking invention of the Wardian case, a seal
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835239&t=w" title="Illustration of the Wardian case in a home space, 1872">
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835246&t=w" title="Illustration of three Wardian cases in the domestic space, 1870">
 
+This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotics indoors in such ornamental glass furnishings, safely protected from the industrial pollution in the air as well as the varying temperatures of the British climate
+<param ve-image
+title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
+
+
 ### Pelargonium-mania in the Victorian Era
 
 It was against this backdrop that _Pelargoniums_ soon became the mainstay of all municipal gardens in Victorian England. The 1837 _Floricultural Cabinet_ listed the best pelargoniums for bedding as one of the old faithful multipurpose plants. The ubiquity of the plant in public spaces is also celebrated in E. Adveno Brooke’s 1858 book _The Gardens of England_. As he explains, the bright scarlet pelargonium bloomed nearly everywhere from stone vases to flowerbeds and parterres. These locations, shown in illustrations at right, include the upper and lower terrace gardens of Bewood, the colonnade of Alton Gardens, as well as the parterre of Harewood.
@@ -194,11 +199,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5OTg1NzY3LC0xNzY3ODc0OTEzLC04MD
-E3NzUzNjUsMTY0NjQ1MDI1MSw3ODk3MzAzMjQsLTIwNTc3MjI3
-NDQsLTk1MDE2NTQ1MiwxOTkwMjM0MDQwLC05MTYwNzQ0MTMsLT
-E5OTk1MTM1NjIsLTQxNTM0OTcyMiwyMDAyMzI2MTM4LDMwMTgw
-ODU1OCwtMTYwNjMwNzU4LC0xNTcwMzcwOTk0LDQxMTY0MDAyMy
-wtNzAyMTA4NzUyLC0xMTQ4Nzc3Nzk5LC03NjAyNTg0MjUsLTE1
-ODg3MTExNDFdfQ==
+eyJoaXN0b3J5IjpbLTEzMTU5ODkyNTUsNTU5OTg1NzY3LC0xNz
+Y3ODc0OTEzLC04MDE3NzUzNjUsMTY0NjQ1MDI1MSw3ODk3MzAz
+MjQsLTIwNTc3MjI3NDQsLTk1MDE2NTQ1MiwxOTkwMjM0MDQwLC
+05MTYwNzQ0MTMsLTE5OTk1MTM1NjIsLTQxNTM0OTcyMiwyMDAy
+MzI2MTM4LDMwMTgwODU1OCwtMTYwNjMwNzU4LC0xNTcwMzcwOT
+k0LDQxMTY0MDAyMywtNzAyMTA4NzUyLC0xMTQ4Nzc3Nzk5LC03
+NjAyNTg0MjVdfQ==
 -->
