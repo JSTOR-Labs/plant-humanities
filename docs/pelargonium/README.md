@@ -150,6 +150,7 @@ In 1847, the French perfume industries of Grasse, including the company of Léon
 <param ve-entity eid="Q4092" title="Cape of Good Hope" aliases="Cap de Bonne Espérance">
 The Chiris company introduced a particular pelargonium hybrid, "_Geranium rosat_," to Boufarik, Algeria, selecting "a trentaine of wild Pelargonium species, from cells that are found most frequently in the Cap de Bonne Espérance region." That selection allowed the Chiris establishments to earn a stable profit.[REF] In 1865, Chiris built a 3,000 square meter factory in the Saint-Marguerite domain in Boufarik, which was first acquired in 1836. Its production was centered on _Pelargoniums_, orange trees, and other aromatic plants.[REF] However, the headquarters in Boufarik closed once it was nationalized in 1963, as did the other headquarters in the former European colonies.
 <param ve-storiiies id="091ed" title="Anonymous, photographs of pelargonium fields and floricultural industry, Algeria, Source gallica.bnf.fr / BnF">
+<param ve-storiiies id="991gw">
 
 <param ve-entity eid="Q29520" title="China">
 <param ve-entity eid="Q79" title="Egypt">
@@ -202,11 +203,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTU1ODg5LC05MTAxMTMxMTMsNTU5OT
-g1NzY3LC0xNzY3ODc0OTEzLC04MDE3NzUzNjUsMTY0NjQ1MDI1
-MSw3ODk3MzAzMjQsLTIwNTc3MjI3NDQsLTk1MDE2NTQ1MiwxOT
-kwMjM0MDQwLC05MTYwNzQ0MTMsLTE5OTk1MTM1NjIsLTQxNTM0
-OTcyMiwyMDAyMzI2MTM4LDMwMTgwODU1OCwtMTYwNjMwNzU4LC
-0xNTcwMzcwOTk0LDQxMTY0MDAyMywtNzAyMTA4NzUyLC0xMTQ4
-Nzc3Nzk5XX0=
+eyJoaXN0b3J5IjpbNDgyMTE1ODgsLTkxMDExMzExMyw1NTk5OD
+U3NjcsLTE3Njc4NzQ5MTMsLTgwMTc3NTM2NSwxNjQ2NDUwMjUx
+LDc4OTczMDMyNCwtMjA1NzcyMjc0NCwtOTUwMTY1NDUyLDE5OT
+AyMzQwNDAsLTkxNjA3NDQxMywtMTk5OTUxMzU2MiwtNDE1MzQ5
+NzIyLDIwMDIzMjYxMzgsMzAxODA4NTU4LC0xNjA2MzA3NTgsLT
+E1NzAzNzA5OTQsNDExNjQwMDIzLC03MDIxMDg3NTIsLTExNDg3
+Nzc3OTldfQ==
 -->
