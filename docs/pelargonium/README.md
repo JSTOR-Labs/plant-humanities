@@ -69,7 +69,7 @@ Of the many _Pelargonium_ species, _Pelargonium triste_ was probably the first o
 
 <param ve-entity eid="Q10543296" title="Pelargonium triste">
 <param ve-entity eid="Q863247" title="nomenclature">
-The nomenclature confusion began when the plant now known as _Pelargonium_ _triste_ was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P._ _triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_ due to the superficial similarities between the genera _Geranium_ and Pelargonium. This visualization of the two plants’ overlapping global nomenclature history provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.
+The nomenclature confusion surrounding the _Pelargonium_ began when the plant now known as _Pelargonium_ _triste_ was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P._ _triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_ due to the superficial similarities between the genera _Geranium_ and Pelargonium. This visualization of the two plants’ overlapping global nomenclature history provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
 <param ve-storiiies id="fc1gpa51fu">
 
@@ -186,7 +186,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDAzODYwMywtMTE0ODc3Nzc5OSwtNz
+eyJoaXN0b3J5IjpbMTgxMTkyMjU2NSwtMTE0ODc3Nzc5OSwtNz
 YwMjU4NDI1LC0xNTg4NzExMTQxLDk2Mzc2MTY2NCwtMTEyNDYx
 ODkxLDgwMDI4NTQyNSwtMTMwNzUzODY1MiwxNTQ0NTc5MjY3LC
 04ODQ5MTM3NjEsMTU0NDU3OTI2NywtNzM0ODc5OTU0LDM1NDg5
