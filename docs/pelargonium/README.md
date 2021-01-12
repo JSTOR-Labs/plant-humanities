@@ -9,7 +9,7 @@
 ### What’s in a Name?
 
 <param ve-entity eid="Q5686" title="Charles Dickens">
-<param ve-entity eid="Q5516441" title="Gads Hill Place" aliases="Gad’s Hill Place">
+<param ve-entity eid="Q67479626" title="Kent">
 <param ve-entity eid="Q3850458" title="Mary Dickens">
 There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium.[^ref1] With their vibrant red flowers and sweet, rose scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color” at his country home, [Gad’s Hill Place](https://thegardenstrust.blog/2020/01/25/dickens-and-gardens/), in Kent.[^ref2] Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.”[^ref3]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" title="Charles Dickens with his two daughters at Gad’s Hill Place. Behind them is a staged “theatre” of potted geraniums displayed beneath a bay window. _Charles Dickens with his daughters, Mamie Dickens and Catherine ('Katey') Elizabeth Macready Perugini (née Dickens)_, after Joseph Athanase Aufray, after a photograph by Mason & Co (Robert Hindry Mason), photogravure, published 18 December 1869, National Gallery of Art, Wikimedia Commons">
@@ -180,11 +180,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MDUzNzg2LDM4OTExOTQwMCw0MDk0ND
-YzMzMsMTcwNzg5NDU0MCwtMTU1Mjg4NDMzMyw4MzkwMjA2MjEs
-LTE5NTQyMzk0MDksLTUzMTcxNjgyLDIxMDA2OTg4MjYsLTEzOT
-M1MDI1NzMsMzI4OTA4NzAxLDE3ODMzNzA0MjksLTIwNzU1NzM4
-NjcsMTM5MzUzNDkyLC04ODgxMzU1NjAsLTE4MzQ3MTIyMjUsMT
-cxNjg0OTYzNCwtMTkxNTY5NTUwNSwtMTkxNTY5NTUwNSwtMTU3
-MTAyNDJdfQ==
+eyJoaXN0b3J5IjpbLTk2MTk2MTkyNywzODkxMTk0MDAsNDA5ND
+Q2MzMzLDE3MDc4OTQ1NDAsLTE1NTI4ODQzMzMsODM5MDIwNjIx
+LC0xOTU0MjM5NDA5LC01MzE3MTY4MiwyMTAwNjk4ODI2LC0xMz
+kzNTAyNTczLDMyODkwODcwMSwxNzgzMzcwNDI5LC0yMDc1NTcz
+ODY3LDEzOTM1MzQ5MiwtODg4MTM1NTYwLC0xODM0NzEyMjI1LD
+E3MTY4NDk2MzQsLTE5MTU2OTU1MDUsLTE5MTU2OTU1MDUsLTE1
+NzEwMjQyXX0=
 -->
