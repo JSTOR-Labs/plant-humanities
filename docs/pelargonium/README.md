@@ -51,7 +51,8 @@ Morphological traits not only inspire the names _Pelargonium_ and _Geranium_, bu
 <param ve-entity eid="Q1019" title="Madagascar">
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
-The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia, though it was first collected by Europeans in present-day South Africa in the late 1500s. Portuguese and Dutch traders harvested pelargoniums there, transporting the plants to Europe on their return from making colonial voyages.
+<param ve-entity eid="Q258" title="South Africa">
+The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. There are more than 280 accepted species and the majority of them are endemic to the Cape of South Africa: a biodiversity hotspot. It was also from there that Portuguese and Dutch traders first harvested pelargoniums in the late 1500s. They then transported the plants to Europe on their return from making colonial voyages.
 <param ve-map center="-7.347, 72.454" zoom="2.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -181,11 +182,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwMjg1NDI1LC0xMzA3NTM4NjUyLDE1ND
-Q1NzkyNjcsLTg4NDkxMzc2MSwxNTQ0NTc5MjY3LC03MzQ4Nzk5
-NTQsMzU0ODkyMzQ4LC0xNjA2ODQ4NTYyLDE0NzEyMjM3NjQsLT
-ExMTgzODgxNywtOTYxOTYxOTI3LDM4OTExOTQwMCw0MDk0NDYz
-MzMsMTcwNzg5NDU0MCwtMTU1Mjg4NDMzMyw4MzkwMjA2MjEsLT
-E5NTQyMzk0MDksLTUzMTcxNjgyLDIxMDA2OTg4MjYsLTEzOTM1
-MDI1NzNdfQ==
+eyJoaXN0b3J5IjpbLTE4Nzg2MDQxNjMsODAwMjg1NDI1LC0xMz
+A3NTM4NjUyLDE1NDQ1NzkyNjcsLTg4NDkxMzc2MSwxNTQ0NTc5
+MjY3LC03MzQ4Nzk5NTQsMzU0ODkyMzQ4LC0xNjA2ODQ4NTYyLD
+E0NzEyMjM3NjQsLTExMTgzODgxNywtOTYxOTYxOTI3LDM4OTEx
+OTQwMCw0MDk0NDYzMzMsMTcwNzg5NDU0MCwtMTU1Mjg4NDMzMy
+w4MzkwMjA2MjEsLTE5NTQyMzk0MDksLTUzMTcxNjgyLDIxMDA2
+OTg4MjZdfQ==
 -->
