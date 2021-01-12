@@ -145,8 +145,6 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-entity eid="Q34687" title="Rosa" aliases="roses">
 In 1847, the French perfume industries of Grasse, including the company of Léon Chiris Léopold Chiris? , introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it. Algeria was considered an ideal place for doing so due to its warm arid and semi-arid climate and the low cost of colonial labor needed for the "preparation and planting of cuttings, weeding of fields, harvesting of the material to be distilled." Perfumers selected pelargoniums because most species have a sweet aroma similar to roses. Such oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant.
 <param ve-image primary fit="contain" url="Pelargonium_Chirismap_DavidRumsey.jpg" title="Gabriel Mazuyer, Georges Lecomte, Lucien Boucher, _Les etu A. Chiris s'installent dans le Monde entier_, 1931, published by Antoine Chiris, Paris, from David Rumsey Historical Map Collection">
-<param ve-storiiies id="991gw">
-
 
 <param ve-entity eid="Q2344308" title="Boufarik">
 <param ve-entity eid="Q4092" title="Cape of Good Hope" aliases="Cap de Bonne Espérance">
@@ -204,11 +202,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0NDA0MzE1LDIwMjE0ODQ4NDcsLTkxMD
-ExMzExMyw1NTk5ODU3NjcsLTE3Njc4NzQ5MTMsLTgwMTc3NTM2
-NSwxNjQ2NDUwMjUxLDc4OTczMDMyNCwtMjA1NzcyMjc0NCwtOT
-UwMTY1NDUyLDE5OTAyMzQwNDAsLTkxNjA3NDQxMywtMTk5OTUx
-MzU2MiwtNDE1MzQ5NzIyLDIwMDIzMjYxMzgsMzAxODA4NTU4LC
-0xNjA2MzA3NTgsLTE1NzAzNzA5OTQsNDExNjQwMDIzLC03MDIx
-MDg3NTJdfQ==
+eyJoaXN0b3J5IjpbLTUwMDEwNTA0LDk1NDQwNDMxNSwyMDIxND
+g0ODQ3LC05MTAxMTMxMTMsNTU5OTg1NzY3LC0xNzY3ODc0OTEz
+LC04MDE3NzUzNjUsMTY0NjQ1MDI1MSw3ODk3MzAzMjQsLTIwNT
+c3MjI3NDQsLTk1MDE2NTQ1MiwxOTkwMjM0MDQwLC05MTYwNzQ0
+MTMsLTE5OTk1MTM1NjIsLTQxNTM0OTcyMiwyMDAyMzI2MTM4LD
+MwMTgwODU1OCwtMTYwNjMwNzU4LC0xNTcwMzcwOTk0LDQxMTY0
+MDAyM119
 -->
