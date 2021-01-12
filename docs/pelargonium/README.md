@@ -85,6 +85,7 @@ This visualization of the global nomenclature history of the _Pelargonium_ and t
 <param ve-entity eid="Q2003356" title="Robert Sweet">
 Carl Linnaeus, in his 1753-treatise [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref6] Because Linnaean taxonomy was so revered at that time, his near contemporary Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargoniums_ as an independent genus was overlooked.[^ref7] Eventually, by creating ten new genera in the _Geraniaceae_ family, Robert Sweet introduced a serious classification system in his 1820-book _[Geraniaceae: The Natural Order of Gerania](https://www.biodiversitylibrary.org/page/47461998)_ to ease the shortfall in Linnaean nomenclature.[^ref8] However, by the early nineteenth century, pelargoniums had already attained so much popularity, particularly in England and France, that the name “geranium” stuck.
 <param ve-image primary url="https://ia800906.us.archive.org/BookReader/BookReaderImages.php?id=geraniaceaev5swee&itemPath=%2F2%2Fitems%2Fgeraniaceaev5swee&server=ia800906.us.archive.org&page=n333_w380" title="Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, New York Botanical Garden, LuEsther T. Mertz Library, Biodiversity Heritage Library">
+<param ve-image primary url="https://ia800906.us.archive.org/BookReader/BookReaderImages.php?id=geraniaceaev5swee&itemPath=%2F2%2Fitems%2Fgeraniaceaev5swee&server=ia800906.us.archive.org&page=n334_w359" title="Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, New York Botanical Garden, LuEsther T. Mertz Library, Biodiversity Heritage Library">
 
 
 ### The Wardian Case: A New Horizon for Overseas Plant Transport
@@ -194,7 +195,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2NDI0MzYwLC05MTYwNzQ0MTMsLTE5OT
+eyJoaXN0b3J5IjpbMzkzMzY1OTU2LC05MTYwNzQ0MTMsLTE5OT
 k1MTM1NjIsLTQxNTM0OTcyMiwyMDAyMzI2MTM4LDMwMTgwODU1
 OCwtMTYwNjMwNzU4LC0xNTcwMzcwOTk0LDQxMTY0MDAyMywtNz
 AyMTA4NzUyLC0xMTQ4Nzc3Nzk5LC03NjAyNTg0MjUsLTE1ODg3
