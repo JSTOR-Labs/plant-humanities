@@ -72,7 +72,7 @@ Of the many _Pelargonium_ species, _Pelargonium triste_ was probably the first o
 
 <param ve-entity eid="Q10543296" title="Pelargonium triste">
 <param ve-entity eid="Q863247" title="nomenclature">
-The nomenclature confusion surrounding the _Pelargonium_ began when the plant now known as _Pelargonium triste_ was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P. triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_ due to the superficial similarities between the genera _Geranium_ and _Pelargonium_. This visualization of the global nomenclature history of the two plants provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.  Indeed, botanists have struggled to disentangle the _Pelargonium_ and the _Geranium_ since the mid-1750s.
+The nomenclature confusion surrounding the _Pelargonium_ began when the plant now known as _Pelargonium triste_ was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P. triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_ due to the superficial similarities between the genera _Geranium_ and _Pelargonium_. This visualization of the global nomenclature history of the two plants provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.  Indeed, botanists have struggled to disentangle the two genera since the mid-1750s.
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
@@ -192,11 +192,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTQzMDI5NywtMjA1NzcyMjc0NCwtOT
-UwMTY1NDUyLDE5OTAyMzQwNDAsLTkxNjA3NDQxMywtMTk5OTUx
-MzU2MiwtNDE1MzQ5NzIyLDIwMDIzMjYxMzgsMzAxODA4NTU4LC
-0xNjA2MzA3NTgsLTE1NzAzNzA5OTQsNDExNjQwMDIzLC03MDIx
-MDg3NTIsLTExNDg3Nzc3OTksLTc2MDI1ODQyNSwtMTU4ODcxMT
-E0MSw5NjM3NjE2NjQsLTExMjQ2MTg5MSw4MDAyODU0MjUsLTEz
-MDc1Mzg2NTJdfQ==
+eyJoaXN0b3J5IjpbNzg5NzMwMzI0LC0yMDU3NzIyNzQ0LC05NT
+AxNjU0NTIsMTk5MDIzNDA0MCwtOTE2MDc0NDEzLC0xOTk5NTEz
+NTYyLC00MTUzNDk3MjIsMjAwMjMyNjEzOCwzMDE4MDg1NTgsLT
+E2MDYzMDc1OCwtMTU3MDM3MDk5NCw0MTE2NDAwMjMsLTcwMjEw
+ODc1MiwtMTE0ODc3Nzc5OSwtNzYwMjU4NDI1LC0xNTg4NzExMT
+QxLDk2Mzc2MTY2NCwtMTEyNDYxODkxLDgwMDI4NTQyNSwtMTMw
+NzUzODY1Ml19
 -->
