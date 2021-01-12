@@ -154,8 +154,6 @@ The Chiris company introduced a particular pelargonium hybrid, "_Geranium rosat_
 <param ve-storiiies id="991gw">
 
 
-<param ve-entity eid="Q29520" title="China">
-<param ve-entity eid="Q79" title="Egypt">
 Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[REF] Significantly, the confusion surrounding pelargonium nomenclature in Europe contexts also exists in China. More than 50% of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You (Pelargonium Oil)_ in Chinese. It is said that the name _Tianzhu Kui_ was introduced by Junyu Zhang in 1933 based on his studies in Japan. The word _Tianzhu Kui_ is from _ゼラニウム_, which is pronounced as _Geranium_ in English.
 <param ve-map center="18.240663, 40.244245" zoom="2.9">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/djareid/Dumbarton-PH/master/industrial-oil.json" title="global geranium oil industries" active>
@@ -205,11 +203,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTQ4NDg0NywtOTEwMTEzMTEzLDU1OT
-k4NTc2NywtMTc2Nzg3NDkxMywtODAxNzc1MzY1LDE2NDY0NTAy
-NTEsNzg5NzMwMzI0LC0yMDU3NzIyNzQ0LC05NTAxNjU0NTIsMT
-k5MDIzNDA0MCwtOTE2MDc0NDEzLC0xOTk5NTEzNTYyLC00MTUz
-NDk3MjIsMjAwMjMyNjEzOCwzMDE4MDg1NTgsLTE2MDYzMDc1OC
-wtMTU3MDM3MDk5NCw0MTE2NDAwMjMsLTcwMjEwODc1MiwtMTE0
-ODc3Nzc5OV19
+eyJoaXN0b3J5IjpbMTI1MDQzODE5NSwyMDIxNDg0ODQ3LC05MT
+AxMTMxMTMsNTU5OTg1NzY3LC0xNzY3ODc0OTEzLC04MDE3NzUz
+NjUsMTY0NjQ1MDI1MSw3ODk3MzAzMjQsLTIwNTc3MjI3NDQsLT
+k1MDE2NTQ1MiwxOTkwMjM0MDQwLC05MTYwNzQ0MTMsLTE5OTk1
+MTM1NjIsLTQxNTM0OTcyMiwyMDAyMzI2MTM4LDMwMTgwODU1OC
+wtMTYwNjMwNzU4LC0xNTcwMzcwOTk0LDQxMTY0MDAyMywtNzAy
+MTA4NzUyXX0=
 -->
