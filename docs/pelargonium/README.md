@@ -26,7 +26,7 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" title="Charles Dickens’ favored plant the _Pelargonium inquinans_ commonly known as a geranium, ViGA, 2017, Wikimedia Commons, CC BY-SA 4.0">
 <param ve-image fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
 <param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Pelargoniums bloom in garden vases, Bowood House, village of Derry Hill, England, alh1, 2015, Flickr, CC BY-NC-ND 2.0">
-<param ve-image fit="contain" url="Pelargonium_SanDiegoBotanicalGarden_Flickr.jpg" title="Pelargonium 'Arcturus' Angel Geranium, San Diego Botanical Garden, African Garden, cultivar413, 2015, Flickr, CC BY-NC-ND 2.0">
+<param ve-image fit="contain" url="Pelargonium_SanDiegoBotanicalGarden_Flickr.jpg" title="Pelargonium 'Arcturus', San Diego Botanic Garden, African Garden, cultivar413, 2019, Flickr, CC BY 2.0">
 <param ve-image fit="contain" url="Pelargoniums_Squaredelaplacedauphine_Paris.jpeg" title="Pelargoniums bloom in a window box garden, Square de la Place Dauphine, Paris, 2017, Kristan M. Hanson">
 
 
@@ -189,11 +189,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwNzc4ODg3LDIwMDIzMjYxMzgsMzAxOD
-A4NTU4LC0xNjA2MzA3NTgsLTE1NzAzNzA5OTQsNDExNjQwMDIz
-LC03MDIxMDg3NTIsLTExNDg3Nzc3OTksLTc2MDI1ODQyNSwtMT
-U4ODcxMTE0MSw5NjM3NjE2NjQsLTExMjQ2MTg5MSw4MDAyODU0
-MjUsLTEzMDc1Mzg2NTIsMTU0NDU3OTI2NywtODg0OTEzNzYxLD
-E1NDQ1NzkyNjcsLTczNDg3OTk1NCwzNTQ4OTIzNDgsLTE2MDY4
-NDg1NjJdfQ==
+eyJoaXN0b3J5IjpbLTQxNTM0OTcyMiwyMDAyMzI2MTM4LDMwMT
+gwODU1OCwtMTYwNjMwNzU4LC0xNTcwMzcwOTk0LDQxMTY0MDAy
+MywtNzAyMTA4NzUyLC0xMTQ4Nzc3Nzk5LC03NjAyNTg0MjUsLT
+E1ODg3MTExNDEsOTYzNzYxNjY0LC0xMTI0NjE4OTEsODAwMjg1
+NDI1LC0xMzA3NTM4NjUyLDE1NDQ1NzkyNjcsLTg4NDkxMzc2MS
+wxNTQ0NTc5MjY3LC03MzQ4Nzk5NTQsMzU0ODkyMzQ4LC0xNjA2
+ODQ4NTYyXX0=
 -->
