@@ -13,7 +13,7 @@
 <param ve-entity eid="Q3850458" title="Mary Dickens">
 There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium.[^ref1] With their vibrant red flowers and sweet, rose scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color” at his country home, Gad’s Hill Place, in Kent.[^ref2] Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.”[^ref3]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" title="Charles Dickens with his two daughters at Gad’s Hill Place. Behind them is a staged “theatre” of potted geraniums displayed beneath a bay window. _Charles Dickens with his daughters, Mamie Dickens and Catherine ('Katey') Elizabeth Macready Perugini (née Dickens)_, after Joseph Athanase Aufray, after a photograph by Mason & Co (Robert Hindry Mason), photogravure, published 18 December 1869, National Gallery of Art, Wikimedia Commons">
-<param ve-image fit="contain" url="Pelargonium_CharlesDickensMuseum_FLICKR.jpg" title="Charles Dickens Museum , ViGA, 2017, Wikimedia Commons, CC BY-SA 4.0">
+<param ve-image fit="contain" url="Pelargonium_CharlesDickensMuseum_FLICKR.jpg" title="FlCharles Dickens Birthplace Museum, Portsmouth, England, Mark Hooper, 2017, Flickr, CC BY-NC-SA 2.0">
 
 <param ve-entity eid="Q157211" title="geranium" aliases="Geranium"> 
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
@@ -179,7 +179,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDg5MjU0LDE3MDc4OTQ1NDAsLTE1NT
+eyJoaXN0b3J5IjpbMzQ2NDM5MTkyLDE3MDc4OTQ1NDAsLTE1NT
 I4ODQzMzMsODM5MDIwNjIxLC0xOTU0MjM5NDA5LC01MzE3MTY4
 MiwyMTAwNjk4ODI2LC0xMzkzNTAyNTczLDMyODkwODcwMSwxNz
 gzMzcwNDI5LC0yMDc1NTczODY3LDEzOTM1MzQ5MiwtODg4MTM1
