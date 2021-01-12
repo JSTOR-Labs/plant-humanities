@@ -52,7 +52,7 @@ Morphological traits not only inspire the names _Pelargonium_ and _Geranium_, bu
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
 <param ve-entity eid="Q258" title="South Africa">
-The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. There are more than 280 accepted species and the majority of them are endemic to the Cape of South Africa, which is a biodiversity hotspot. It is not surprising, then, that Portuguese and Dutch traders first harvested pelargoniums from that location in the late 1500s. They then transported the plants—a fragile and precious cargo—to Europe on their return from making colonial voyages.
+The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. There are more than 280 accepted _Pelargonium_ species and the majority of them are endemic to the Cape of South Africa, which is a biodiversity hotspot. It is not surprising, then, that Portuguese and Dutch traders first harvested pelargoniums from that location in the late 1500s. They then transported the plants—a fragile and precious cargo—to Europe on their return from making colonial voyages.
 <param ve-map center="-7.347, 72.454" zoom="2.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -182,11 +182,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4NTM5NjE4LDgwMDI4NTQyNSwtMTMwNz
-UzODY1MiwxNTQ0NTc5MjY3LC04ODQ5MTM3NjEsMTU0NDU3OTI2
-NywtNzM0ODc5OTU0LDM1NDg5MjM0OCwtMTYwNjg0ODU2MiwxND
-cxMjIzNzY0LC0xMTE4Mzg4MTcsLTk2MTk2MTkyNywzODkxMTk0
-MDAsNDA5NDQ2MzMzLDE3MDc4OTQ1NDAsLTE1NTI4ODQzMzMsOD
-M5MDIwNjIxLC0xOTU0MjM5NDA5LC01MzE3MTY4MiwyMTAwNjk4
-ODI2XX0=
+eyJoaXN0b3J5IjpbLTExMjQ2MTg5MSw4MDAyODU0MjUsLTEzMD
+c1Mzg2NTIsMTU0NDU3OTI2NywtODg0OTEzNzYxLDE1NDQ1Nzky
+NjcsLTczNDg3OTk1NCwzNTQ4OTIzNDgsLTE2MDY4NDg1NjIsMT
+Q3MTIyMzc2NCwtMTExODM4ODE3LC05NjE5NjE5MjcsMzg5MTE5
+NDAwLDQwOTQ0NjMzMywxNzA3ODk0NTQwLC0xNTUyODg0MzMzLD
+gzOTAyMDYyMSwtMTk1NDIzOTQwOSwtNTMxNzE2ODIsMjEwMDY5
+ODgyNl19
 -->
