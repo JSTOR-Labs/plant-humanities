@@ -155,7 +155,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 
-[^ref5]: Sherard, William. _Schola botanica sive catalogus plantarum, quas ab aliquot annis in Horto Regio Parisiensis Studiosis indigitavit vir clarissimvs Joseph Pitton Tournefort, D. M. ut et Pauli Hermanni P.P. Paradisi Batavi prodromus, In quo Planta rariores omnes, in Batavorum Hortis hactenus cultae, & plurinam partem à nemine antea descriptae recensentur__. Amstelaedami : Apud Henricum Wetstenium, 1689. https://bibdigital.rjb.csic.es/idurl/1/13582; Taylor, Judith M. 
+[^ref5]: Sherard, William. _Schola botanica sive catalogus plantarum, quas ab aliquot annis in Horto Regio Parisiensis Studiosis indigitavit vir clarissimvs Joseph Pitton Tournefort, D. M. ut et Pauli Hermanni P.P. Paradisi Batavi prodromus, In quo Planta rariores omnes, in Batavorum Hortis hactenus cultae, & plurinam partem à nemine antea descriptae recensentur__. Amstelaedami : Apud Henricum Wetstenium, 1689. https://bibdigital.rjb.csic.es/idurl/1/13582; Taylor, Judith M. _Visions of Loveliness: Great Flower Breeders of the Past_. Athens, OH: Ohio University Press, 2014, pp. 366.
 
 [^ref5]: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.
 
@@ -185,7 +185,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjI4NzkwNCw5NjM3NjE2NjQsLTExMj
+eyJoaXN0b3J5IjpbMTIwNTYyNjM0MCw5NjM3NjE2NjQsLTExMj
 Q2MTg5MSw4MDAyODU0MjUsLTEzMDc1Mzg2NTIsMTU0NDU3OTI2
 NywtODg0OTEzNzYxLDE1NDQ1NzkyNjcsLTczNDg3OTk1NCwzNT
 Q4OTIzNDgsLTE2MDY4NDg1NjIsMTQ3MTIyMzc2NCwtMTExODM4
