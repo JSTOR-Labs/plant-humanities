@@ -72,14 +72,14 @@ Of the many _Pelargonium_ species, _Pelargonium triste_ was probably the first o
 
 <param ve-entity eid="Q10543296" title="Pelargonium triste">
 <param ve-entity eid="Q863247" title="nomenclature">
-The nomenclature confusion surrounding the _Pelargonium_ began when the plant now known as _Pelargonium triste_ was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P. triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_ due to the superficial similarities between the genera _Geranium_ and _Pelargonium_. This visualization of the global nomenclature history of the two plants provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.  Indeed, botanists have struggled to disentangle the two genera since the mid-1750s.
+The nomenclature confusion surrounding the _Pelargonium_ began when the plant now known as _Pelargonium triste_ was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P. triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_ due to the superficial similarities between the genera _Geranium_ and _Pelargonium_. This visualization of the global nomenclature history of the two plants provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_. 
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
 <param ve-entity eid="Q465834" title="Charles Louis L'Héritier de Brutelle" aliases="Charles-Louis L’Héritier de Brutelle’s">
 <param ve-entity eid="Q2003356" title="Robert Sweet">
-Carl Linnaeus, in his 1753-treatise [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref6] Because Linnaean taxonomy was so revered at that time, his near contemporary Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargoniums_ as an independent genus was overlooked.[^ref7] Eventually, by creating ten new genera in the _Geraniaceae_ family, Robert Sweet introduced a serious classification system in his 1820-book _[Geraniaceae: The Natural Order of Gerania](https://www.biodiversitylibrary.org/page/47461998)_ to ease the shortfall in Linnaean nomenclature.[^ref8] However, by the early nineteenth century, pelargoniums had already attained so much popularity, particularly in England and France, that the name “geranium” stuck.
+As the visualization explains, botanists have struggled to disentangle the two genera since the mid-1750s. Indeed, Carl Linnaeus, in his 1753-treatise [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref6] Because Linnaean taxonomy was so revered at that time, his near contemporary Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargoniums_ as an independent genus was overlooked.[^ref7] Eventually, by creating ten new genera in the _Geraniaceae_ family, Robert Sweet introduced a serious classification system in his 1820-book _[Geraniaceae: The Natural Order of Gerania](https://www.biodiversitylibrary.org/page/47461998)_ to ease the shortfall in Linnaean nomenclature.[^ref8] However, by the early nineteenth century, pelargoniums had already attained so much popularity, particularly in England and France, that the name “geranium” stuck.
 <param ve-image primary url="Pelargonium_geraniaceaev5swee_0334.jpg" title="_Pelargonium Glorianum. Queen of Portugal's Stork's-bill_,Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, New York Botanical Garden, LuEsther T. Mertz Library, Biodiversity Heritage Library">
 <param ve-image primary url="Pelargonium_geraniaceaev5swee_0335.jpg" title="_Pelargonium Glorianum. Queen of Portugal's Stork's-bill_, Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, New York Botanical Garden, LuEsther T. Mertz Library, Biodiversity Heritage Library">
 <param ve-image primary url="Pelargonium_geraniaceaev5swee_0336.jpg" title="_Pelargonium Glorianum. Queen of Portugal's Stork's-bill_, Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, New York Botanical Garden, LuEsther T. Mertz Library, Biodiversity Heritage Library">
@@ -192,11 +192,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5NzMwMzI0LC0yMDU3NzIyNzQ0LC05NT
-AxNjU0NTIsMTk5MDIzNDA0MCwtOTE2MDc0NDEzLC0xOTk5NTEz
-NTYyLC00MTUzNDk3MjIsMjAwMjMyNjEzOCwzMDE4MDg1NTgsLT
-E2MDYzMDc1OCwtMTU3MDM3MDk5NCw0MTE2NDAwMjMsLTcwMjEw
-ODc1MiwtMTE0ODc3Nzc5OSwtNzYwMjU4NDI1LC0xNTg4NzExMT
-QxLDk2Mzc2MTY2NCwtMTEyNDYxODkxLDgwMDI4NTQyNSwtMTMw
-NzUzODY1Ml19
+eyJoaXN0b3J5IjpbMTY0NjQ1MDI1MSw3ODk3MzAzMjQsLTIwNT
+c3MjI3NDQsLTk1MDE2NTQ1MiwxOTkwMjM0MDQwLC05MTYwNzQ0
+MTMsLTE5OTk1MTM1NjIsLTQxNTM0OTcyMiwyMDAyMzI2MTM4LD
+MwMTgwODU1OCwtMTYwNjMwNzU4LC0xNTcwMzcwOTk0LDQxMTY0
+MDAyMywtNzAyMTA4NzUyLC0xMTQ4Nzc3Nzk5LC03NjAyNTg0Mj
+UsLTE1ODg3MTExNDEsOTYzNzYxNjY0LC0xMTI0NjE4OTEsODAw
+Mjg1NDI1XX0=
 -->
