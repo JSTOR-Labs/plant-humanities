@@ -26,6 +26,7 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" title="Charles Dickens’ favored plant the _Pelargonium inquinans_ commonly known as a geranium, ViGA, 2017, Wikimedia Commons, CC BY-SA 4.0">
 <param ve-image fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
 <param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Pelargoniums bloom in garden vases, Bowood House, village of Derry Hill, England, alh1, 2015, Flickr, CC BY-NC-ND 2.0">
+[Pelargonium_SanDiegoBotanicalGarden_Flickr](https://github.com/kristanmhanson/plant-humanities/blob/develop/docs/pelargonium/Pelargonium_SanDiegoBotanicalGarden_Flickr.jpg "Pelargonium_SanDiegoBotanicalGarden_Flickr.jpg"
 <param ve-image fit="contain" url="Pelargoniums_Squaredelaplacedauphine_Paris.jpeg" title="Pelargoniums bloom in a window box garden, Square de la Place Dauphine, Paris, 2017, Kristan M. Hanson">
 
 
@@ -188,11 +189,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjMyNjEzOCwzMDE4MDg1NTgsLTE2MD
-YzMDc1OCwtMTU3MDM3MDk5NCw0MTE2NDAwMjMsLTcwMjEwODc1
-MiwtMTE0ODc3Nzc5OSwtNzYwMjU4NDI1LC0xNTg4NzExMTQxLD
-k2Mzc2MTY2NCwtMTEyNDYxODkxLDgwMDI4NTQyNSwtMTMwNzUz
-ODY1MiwxNTQ0NTc5MjY3LC04ODQ5MTM3NjEsMTU0NDU3OTI2Ny
-wtNzM0ODc5OTU0LDM1NDg5MjM0OCwtMTYwNjg0ODU2MiwxNDcx
-MjIzNzY0XX0=
+eyJoaXN0b3J5IjpbMTgzOTYxNDM4MSwyMDAyMzI2MTM4LDMwMT
+gwODU1OCwtMTYwNjMwNzU4LC0xNTcwMzcwOTk0LDQxMTY0MDAy
+MywtNzAyMTA4NzUyLC0xMTQ4Nzc3Nzk5LC03NjAyNTg0MjUsLT
+E1ODg3MTExNDEsOTYzNzYxNjY0LC0xMTI0NjE4OTEsODAwMjg1
+NDI1LC0xMzA3NTM4NjUyLDE1NDQ1NzkyNjcsLTg4NDkxMzc2MS
+wxNTQ0NTc5MjY3LC03MzQ4Nzk5NTQsMzU0ODkyMzQ4LC0xNjA2
+ODQ4NTYyXX0=
 -->
