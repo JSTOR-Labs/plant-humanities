@@ -40,7 +40,8 @@ The _Pelargonium_ and its relative the _Geranium_ both belong to the family _Ger
 <param ve-entity eid="Q687699" title="Nectary" aliases="nectaries"> 
 <param ve-entity eid="Q103129" title="stamen"> 
 Morphological traits not only inspire the names _Pelargonium_ and _Geranium_, but also separate the genera. Indeed, several key differences can be observed by comparing the reproductive systems of the two plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. Another difference is that, while the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. A final divergence between the two is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens.
-<param ve-iiif-compare url1="https://free.iiifhosting.com/iiif/946417abf874969ccb7ed3e11de335c107f89d030c8a7d27fe55a2c9892bb2c1/info.json" url2="https://free.iiifhosting.com/iiif/ba2f217efdf25d87a4fc0e79c0b096245ef26d4ebde668bd65af649d05b2deb1/info.json" title="_Differences between Geranium and Pelargonium flowers_, Verónica Matallana, “Géranium platypetalum” & “Pelargonium zonale Wild et hybrids,” _Atlas des plantes de jardins et d'appartements exotiques et européennes: 320 planches coloriées inédites, dessinées d'après nature, représentant 370 plantes, accompagnées d'un texte explicatif donnant la description, l'origine, le mode de culture, de multiplication et les usages des fleurs les plus généralement cultivées_, D. Bois, from Bibliothèque Nationale de France, département Sciences et techniques, 8-S-9126>
+<param ve-image layers url="https://free.iiifhosting.com/iiif/946417abf874969ccb7ed3e11de335c107f89d030c8a7d27fe55a2c9892bb2c1/info.json" title="Differences between Geranium and Pelargonium flowers, Verónica Matallana">
+<param ve-image url="https://free.iiifhosting.com/iiif/ba2f217efdf25d87a4fc0e79c0b096245ef26d4ebde668bd65af649d05b2deb1/info.json" title="“Géranium platypetalum” & “Pelargonium zonale Wild et hybrids,” _Atlas des plantes de jardins et d'appartements exotiques et européennes: 320 planches coloriées inédites, dessinées d'après nature, représentant 370 plantes, accompagnées d'un texte explicatif donnant la description, l'origine, le mode de culture, de multiplication et les usages des fleurs les plus généralement cultivées_, D. Bois, from Bibliothèque Nationale de France, département Sciences et techniques, 8-S-9126">
 
 
 ### Introduction to Europe and Nomenclature Confusion
@@ -185,11 +186,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDg3Nzc3OTksLTc2MDI1ODQyNSwtMT
-U4ODcxMTE0MSw5NjM3NjE2NjQsLTExMjQ2MTg5MSw4MDAyODU0
-MjUsLTEzMDc1Mzg2NTIsMTU0NDU3OTI2NywtODg0OTEzNzYxLD
-E1NDQ1NzkyNjcsLTczNDg3OTk1NCwzNTQ4OTIzNDgsLTE2MDY4
-NDg1NjIsMTQ3MTIyMzc2NCwtMTExODM4ODE3LC05NjE5NjE5Mj
-csMzg5MTE5NDAwLDQwOTQ0NjMzMywxNzA3ODk0NTQwLC0xNTUy
-ODg0MzMzXX0=
+eyJoaXN0b3J5IjpbLTQxNDAzODYwMywtMTE0ODc3Nzc5OSwtNz
+YwMjU4NDI1LC0xNTg4NzExMTQxLDk2Mzc2MTY2NCwtMTEyNDYx
+ODkxLDgwMDI4NTQyNSwtMTMwNzUzODY1MiwxNTQ0NTc5MjY3LC
+04ODQ5MTM3NjEsMTU0NDU3OTI2NywtNzM0ODc5OTU0LDM1NDg5
+MjM0OCwtMTYwNjg0ODU2MiwxNDcxMjIzNzY0LC0xMTE4Mzg4MT
+csLTk2MTk2MTkyNywzODkxMTk0MDAsNDA5NDQ2MzMzLDE3MDc4
+OTQ1NDBdfQ==
 -->
