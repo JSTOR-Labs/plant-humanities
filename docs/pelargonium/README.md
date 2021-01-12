@@ -60,7 +60,7 @@ The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madaga
 <param ve-entity eid="Q66569" title="Paul Hermann">
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
 <param ve-entity eid="Q43631" title="Leiden">
-Of the approximately 300 _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span>by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref4]
+Of the many _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first one to reach Europe before 1600, and it was subsequently introduced to France. By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula–and brought back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span>by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref4] In his 1689-book _Paradisi Batavi Prodromus_, Hermann recorded the name of one such pelargonium, now known as _P. grossularioides_. During this period, Hermann and other physicians highly valued these and other non-native plants for their medicinal, culinary, and nutritive properties and studied them accordingly.
 <param ve-map center="-24.569, 25.879" zoom="5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
@@ -182,11 +182,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ2MTg5MSw4MDAyODU0MjUsLTEzMD
-c1Mzg2NTIsMTU0NDU3OTI2NywtODg0OTEzNzYxLDE1NDQ1Nzky
-NjcsLTczNDg3OTk1NCwzNTQ4OTIzNDgsLTE2MDY4NDg1NjIsMT
-Q3MTIyMzc2NCwtMTExODM4ODE3LC05NjE5NjE5MjcsMzg5MTE5
-NDAwLDQwOTQ0NjMzMywxNzA3ODk0NTQwLC0xNTUyODg0MzMzLD
-gzOTAyMDYyMSwtMTk1NDIzOTQwOSwtNTMxNzE2ODIsMjEwMDY5
-ODgyNl19
+eyJoaXN0b3J5IjpbMTM3OTQxNTg2MiwtMTEyNDYxODkxLDgwMD
+I4NTQyNSwtMTMwNzUzODY1MiwxNTQ0NTc5MjY3LC04ODQ5MTM3
+NjEsMTU0NDU3OTI2NywtNzM0ODc5OTU0LDM1NDg5MjM0OCwtMT
+YwNjg0ODU2MiwxNDcxMjIzNzY0LC0xMTE4Mzg4MTcsLTk2MTk2
+MTkyNywzODkxMTk0MDAsNDA5NDQ2MzMzLDE3MDc4OTQ1NDAsLT
+E1NTI4ODQzMzMsODM5MDIwNjIxLC0xOTU0MjM5NDA5LC01MzE3
+MTY4Ml19
 -->
