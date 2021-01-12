@@ -25,6 +25,7 @@ However, you might be surprised to learn that the scarlet flower with which Dick
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the role of technology in the plant’s changing popularity during the long nineteenth century reveals a fervor of excitement for growing and displaying the flower, first under glass and then in garden beds, and for smelling and wearing its scent. This visual narrative of the pelargonium also elucidates some reasons that Dicken’s favored flower still infuses many municipal, domestic, and potted gardens with its brilliant hues, horseshoe-shaped foliage, and varied fragrances today.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" title="Charles Dickens’ favored plant the _Pelargonium inquinans_ commonly known as a geranium, ViGA, 2017, Wikimedia Commons, CC BY-SA 4.0">
 <param ve-image fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
+<param ve-image fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
 <param ve-image fit="contain" url="Pelargoniums_Squaredelaplacedauphine_Paris.jpeg" title="Pelargoniums bloom in a window box garden, Square de la Place Dauphine, Paris, 2017, Kristan M. Hanson">
 
 
@@ -187,11 +188,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDYzMDc1OCwtMTU3MDM3MDk5NCw0MT
-E2NDAwMjMsLTcwMjEwODc1MiwtMTE0ODc3Nzc5OSwtNzYwMjU4
-NDI1LC0xNTg4NzExMTQxLDk2Mzc2MTY2NCwtMTEyNDYxODkxLD
-gwMDI4NTQyNSwtMTMwNzUzODY1MiwxNTQ0NTc5MjY3LC04ODQ5
-MTM3NjEsMTU0NDU3OTI2NywtNzM0ODc5OTU0LDM1NDg5MjM0OC
-wtMTYwNjg0ODU2MiwxNDcxMjIzNzY0LC0xMTE4Mzg4MTcsLTk2
-MTk2MTkyN119
+eyJoaXN0b3J5IjpbLTUwNzQ3MTMyOCwtMTYwNjMwNzU4LC0xNT
+cwMzcwOTk0LDQxMTY0MDAyMywtNzAyMTA4NzUyLC0xMTQ4Nzc3
+Nzk5LC03NjAyNTg0MjUsLTE1ODg3MTExNDEsOTYzNzYxNjY0LC
+0xMTI0NjE4OTEsODAwMjg1NDI1LC0xMzA3NTM4NjUyLDE1NDQ1
+NzkyNjcsLTg4NDkxMzc2MSwxNTQ0NTc5MjY3LC03MzQ4Nzk5NT
+QsMzU0ODkyMzQ4LC0xNjA2ODQ4NTYyLDE0NzEyMjM3NjQsLTEx
+MTgzODgxN119
 -->
