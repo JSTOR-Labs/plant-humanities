@@ -31,7 +31,7 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 ### Pelargonium Morphology: Fruit and Flower
 
 <param ve-entity eid="Q155945" title="Geraniaceae"> 
-The _Pelargonium_ and its relative the _Geranium_ both belong to the family _ Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to birds and, at least superficially, each other. The name _Pelargonium_ comes from the Greek _pelargos_ (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”) which alludes to the plant’s long, beak-shaped fruit. Similarly, _Geranium_ derives from the Greek _géranos_ (“crane”) and describes the shape of the fruit capsule common to some species.
+The _Pelargonium_ and its relative the _Geranium_ both belong to the family _Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to birds and, at least superficially, each other. The name _Pelargonium_ comes from the Greek _pelargos_ (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”) which alludes to the plant’s long, beak-shaped fruit. Similarly, _Geranium_ derives from the Greek _géranos_ (“crane”) and describes the shape of the fruit capsule common to some species.
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="Pelargonium alchemilloides (L.) L'Hér.">
 
 <param ve-entity eid="Q183252" title="morphology"> 
@@ -181,11 +181,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDkxMzc2MSwxNTQ0NTc5MjY3LC03Mz
-Q4Nzk5NTQsMzU0ODkyMzQ4LC0xNjA2ODQ4NTYyLDE0NzEyMjM3
-NjQsLTExMTgzODgxNywtOTYxOTYxOTI3LDM4OTExOTQwMCw0MD
-k0NDYzMzMsMTcwNzg5NDU0MCwtMTU1Mjg4NDMzMyw4MzkwMjA2
-MjEsLTE5NTQyMzk0MDksLTUzMTcxNjgyLDIxMDA2OTg4MjYsLT
-EzOTM1MDI1NzMsMzI4OTA4NzAxLDE3ODMzNzA0MjksLTIwNzU1
-NzM4NjddfQ==
+eyJoaXN0b3J5IjpbMTU0NDU3OTI2NywtODg0OTEzNzYxLDE1ND
+Q1NzkyNjcsLTczNDg3OTk1NCwzNTQ4OTIzNDgsLTE2MDY4NDg1
+NjIsMTQ3MTIyMzc2NCwtMTExODM4ODE3LC05NjE5NjE5MjcsMz
+g5MTE5NDAwLDQwOTQ0NjMzMywxNzA3ODk0NTQwLC0xNTUyODg0
+MzMzLDgzOTAyMDYyMSwtMTk1NDIzOTQwOSwtNTMxNzE2ODIsMj
+EwMDY5ODgyNiwtMTM5MzUwMjU3MywzMjg5MDg3MDEsMTc4MzM3
+MDQyOV19
 -->
