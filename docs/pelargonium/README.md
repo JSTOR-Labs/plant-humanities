@@ -22,7 +22,6 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one, _Pelargonium_, and was a _Pelargonium inquinans_, to be exact. These two genera, _Pelargonium_ and _Geranium_, have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate roiled in botanical circles from the mid-eighteenth to the early nineteenth centuries, the popularity of the pelargonium gradually increased and a first wave of cultural excitement for the flower peaked in the early 1800s. By that time, the public had grown accustomed to using the common name “geranium” for both types of plants, and for the most part, we continue to use it in this way today.
 <param ve-image fit="contain" primary url="https://www.biodiversitylibrary.org/pageimage/53144785" title="Botanical drawings of _Pelargonium odoratissimum_ and _Pelargonium inquinans_, Biodiversity Heritage Library">
 
-<param ve-entity eid="Q155945" title="Geraniaceae"> 
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the role of technology in the plant’s changing popularity during the long nineteenth century reveals a fervor of excitement for growing and displaying the flower, first under glass and then in garden beds, and for smelling and wearing its scent. This visual narrative of the pelargonium also elucidates some reasons that Dicken’s favored flower still infuses many municipal, domestic, and potted gardens with its brilliant hues, horseshoe-shaped foliage, and varied fragrances today.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" title="Charles Dickens’ favored plant the _Pelargonium inquinans_ commonly known as a geranium, ViGA, 2017, Wikimedia Commons, CC BY-SA 4.0">
 <param ve-image fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
@@ -31,9 +30,9 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 
 ### Pelargonium Morphology: Fruit and Flower
 
+<param ve-entity eid="Q155945" title="Geraniaceae"> 
 The _Pelargonium_ and its relative the _Geranium_ both belong to the family _Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to birds and, at least superficially, each other. The name _Pelargonium_ comes from the Greek _pelargos_ (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”) which alludes to the plant’s long, beak-shaped fruit. Similarly, _Geranium_ derives from the Greek _géranos_ (“crane”) and describes the shape of the fruit capsule common to some species.
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="Pelargonium alchemilloides (L.) L'Hér.">
-
 
 <param ve-entity eid="Q183252" title="morphology"> 
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
@@ -182,11 +181,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkyMTUyODUsLTczNDg3OTk1NCwzNT
-Q4OTIzNDgsLTE2MDY4NDg1NjIsMTQ3MTIyMzc2NCwtMTExODM4
-ODE3LC05NjE5NjE5MjcsMzg5MTE5NDAwLDQwOTQ0NjMzMywxNz
-A3ODk0NTQwLC0xNTUyODg0MzMzLDgzOTAyMDYyMSwtMTk1NDIz
-OTQwOSwtNTMxNzE2ODIsMjEwMDY5ODgyNiwtMTM5MzUwMjU3My
-wzMjg5MDg3MDEsMTc4MzM3MDQyOSwtMjA3NTU3Mzg2NywxMzkz
-NTM0OTJdfQ==
+eyJoaXN0b3J5IjpbMTU0NDU3OTI2NywtNzM0ODc5OTU0LDM1ND
+g5MjM0OCwtMTYwNjg0ODU2MiwxNDcxMjIzNzY0LC0xMTE4Mzg4
+MTcsLTk2MTk2MTkyNywzODkxMTk0MDAsNDA5NDQ2MzMzLDE3MD
+c4OTQ1NDAsLTE1NTI4ODQzMzMsODM5MDIwNjIxLC0xOTU0MjM5
+NDA5LC01MzE3MTY4MiwyMTAwNjk4ODI2LC0xMzkzNTAyNTczLD
+MyODkwODcwMSwxNzgzMzcwNDI5LC0yMDc1NTczODY3LDEzOTM1
+MzQ5Ml19
 -->
