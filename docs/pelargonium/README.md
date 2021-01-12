@@ -70,6 +70,7 @@ Of the many _Pelargonium_ species, _Pelargonium triste_ was probably the first o
 <param ve-entity eid="Q10543296" title="Pelargonium triste">
 <param ve-entity eid="Q863247" title="nomenclature">
 The nomenclature confusion surrounding the _Pelargonium_ began when the plant now known as _Pelargonium triste_ was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P. triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_ due to the superficial similarities between the genera _Geranium_ and _Pelargonium_. This visualization of the two plants’ overlapping global nomenclature history provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.
+<param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
 <param ve-storiiies id="fc1gpa51fu">
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
@@ -185,11 +186,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5NTQyMjY2LC0xMTQ4Nzc3Nzk5LC03Nj
-AyNTg0MjUsLTE1ODg3MTExNDEsOTYzNzYxNjY0LC0xMTI0NjE4
-OTEsODAwMjg1NDI1LC0xMzA3NTM4NjUyLDE1NDQ1NzkyNjcsLT
-g4NDkxMzc2MSwxNTQ0NTc5MjY3LC03MzQ4Nzk5NTQsMzU0ODky
-MzQ4LC0xNjA2ODQ4NTYyLDE0NzEyMjM3NjQsLTExMTgzODgxNy
-wtOTYxOTYxOTI3LDM4OTExOTQwMCw0MDk0NDYzMzMsMTcwNzg5
-NDU0MF19
+eyJoaXN0b3J5IjpbMjA3NDA3OTUxMywtMTE0ODc3Nzc5OSwtNz
+YwMjU4NDI1LC0xNTg4NzExMTQxLDk2Mzc2MTY2NCwtMTEyNDYx
+ODkxLDgwMDI4NTQyNSwtMTMwNzUzODY1MiwxNTQ0NTc5MjY3LC
+04ODQ5MTM3NjEsMTU0NDU3OTI2NywtNzM0ODc5OTU0LDM1NDg5
+MjM0OCwtMTYwNjg0ODU2MiwxNDcxMjIzNzY0LC0xMTE4Mzg4MT
+csLTk2MTk2MTkyNywzODkxMTk0MDAsNDA5NDQ2MzMzLDE3MDc4
+OTQ1NDBdfQ==
 -->
