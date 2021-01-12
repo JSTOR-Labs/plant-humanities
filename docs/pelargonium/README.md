@@ -17,7 +17,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 <param ve-entity eid="Q157211" title="geranium" aliases="Geranium"> 
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
 <param ve-entity eid="Q18083598" title="Pelargonium inquinans"> 
-However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not actually a _Geranium_. In fact, it was a _Pelargonium_ – _Pelargonium inquinans_, to be exact. These two genera, the _Pelargonium_ and the _Geranium_ have been embroiled in a long history of taxonomic confusion, which dates back to the 1670s. SENTENCE. Despite naturalists proving that the _Pelargonium_ and the _Geranium_ are two distinct genera, the public grew so accustomed to using the common name “geranium” for both types of plants that we still do so today.
+However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not actually a _Geranium_. In fact, it was a _Pelargonium_ – _Pelargonium inquinans_, to be exact. These two genera, the _Pelargonium_ and the _Geranium_ have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. SENTENCE. Despite naturalists proving that the _Pelargonium_ and the _Geranium_ are two distinct genera, the public grew so accustomed to using the common name “geranium” for both types of plants that we still do so today.
 <param ve-image fit="contain" primary url="https://www.biodiversitylibrary.org/pageimage/53144785" title="Botanical drawings of _Pelargonium odoratissimum_ and _Pelargonium inquinans_, Biodiversity Heritage Library">
 
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is a familiar cultural fixture for so many of us – but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history – from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. A social and cultural history of the _Pelargonium_ that attends to its use as an ornamental and an aromatic in the nineteenth century reveals a fervor of excitement not just for growing and displaying the flower but also for smelling and wearing its scent, both of which contribute to its enduring popularity today.
@@ -176,11 +176,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4OTA4NzAxLDE3ODMzNzA0MjksLTIwNz
-U1NzM4NjcsMTM5MzUzNDkyLC04ODgxMzU1NjAsLTE4MzQ3MTIy
-MjUsMTcxNjg0OTYzNCwtMTkxNTY5NTUwNSwtMTkxNTY5NTUwNS
-wtMTU3MTAyNDIsMTgwODQ1MTI1MiwxNTE0MjA1MjQyLC0xMTQ3
-OTY2MjAzLC0xMDU3MzE3MTg2LC0xMDMxNjYwOTMwLDE1NzMzMz
-MzMjUsNzE1Njk3ODE5LC0xMzAyMzg1MzQ0LDEwODM5NTk2OTIs
-MzQ1NjI0MzQ3XX0=
+eyJoaXN0b3J5IjpbLTEzOTM1MDI1NzMsMzI4OTA4NzAxLDE3OD
+MzNzA0MjksLTIwNzU1NzM4NjcsMTM5MzUzNDkyLC04ODgxMzU1
+NjAsLTE4MzQ3MTIyMjUsMTcxNjg0OTYzNCwtMTkxNTY5NTUwNS
+wtMTkxNTY5NTUwNSwtMTU3MTAyNDIsMTgwODQ1MTI1MiwxNTE0
+MjA1MjQyLC0xMTQ3OTY2MjAzLC0xMDU3MzE3MTg2LC0xMDMxNj
+YwOTMwLDE1NzMzMzMzMjUsNzE1Njk3ODE5LC0xMzAyMzg1MzQ0
+LDEwODM5NTk2OTJdfQ==
 -->
