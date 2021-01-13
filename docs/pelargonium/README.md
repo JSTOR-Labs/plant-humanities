@@ -79,7 +79,7 @@ The nomenclature confusion surrounding the _Pelargonium_ began when _Pelargonium
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_, named for the dull color of its foliage, has not been widely hybridized and cultural interest in the plant is limited to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
-This visualization of the global nomenclature history of the _Pelargonium_ and the _Geranium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_. As it explains, botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ since the mid-eighteenth century. Indeed, Carl Linnaeus, in his 1753-book [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref8] 
+This visualization of the nomenclature history of the _Pelargonium_ and the _Geranium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_. As it explains, botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ since the mid-eighteenth century. Indeed, Carl Linnaeus, in his 1753-book [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref8] 
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
 <param ve-entity eid="Q465834" title="Charles Louis L'Héritier de Brutelle" aliases="Charles-Louis L’Héritier de Brutelle’s">
@@ -215,7 +215,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDc5NTIyOCwtMzM5ODI2NTA5LC0xMD
+eyJoaXN0b3J5IjpbLTYxMDExNDAwOSwtMzM5ODI2NTA5LC0xMD
 cyMTQ3Nzc2LDk2ODk4OTI5NSwtMTk0NjgzNzI4MSw0MjE1MjE0
 NzYsMTU4MDE4ODc2LDM1OTkxOTMzOSwxMTk0Nzk4NjA2LC0xNz
 IzMTQ3OTIwLDE4MTUzODAyOTMsMjA4OTI4MzE4NSw3MzY1MDEx
