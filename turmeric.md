@@ -1,4 +1,3 @@
-
 <param ve-config
        title="Turmeric"
 	   source-image="https://images.nypl.org/index.php?id=1126115&t=w"

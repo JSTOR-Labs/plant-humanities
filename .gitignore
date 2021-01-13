@@ -3,3 +3,4 @@
 
 # Vim swap files
 *.swp
+venv

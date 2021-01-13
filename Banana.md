@@ -1,5 +1,3 @@
-[View](https://plant-humanities.app/essay?gdid=1CUNlxL1pArMUI7W3ozl6YfpOHi04hPqA)
-
 <param ve-config
 	   title="Chaos out of Order: Bananas and the Limits of Linnaean Taxonomy"
 	   source-image="https://upload.wikimedia.org/wikipedia/commons/0/0f/Banana_Maria_Sibylla_Merian_1705_plate_XII.png"

@@ -2,7 +2,7 @@
 	title="Peony: From an Ancient Cure to an Early Modern Tool of Statecraft"
 	source-image="https://iiif.wellcomecollection.org/image/B0009092.jpg/full/2048%2C/0/default.jpg"
 	banner="https://jstor-labs.github.io/plant-humanities/images/banners/peony.jpg"
-     layout="vtl"
+       layout="vtl"
 	num-maps="4"
 	num-images="10"
 	num-specimens="16"

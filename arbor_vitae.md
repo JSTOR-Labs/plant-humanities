@@ -1,5 +1,3 @@
-[View](https://plant-humanities.app/essay?gdid=1ZhAYXtLWogfZygES96g4OXU-6tLtKTTM)
-
 <param ve-config
 	  title="Arbor Vitae - Thuja occidentalis"
 	  source-image="https://upload.wikimedia.org/wikipedia/commons/6/67/Neuch%C3%A2tel_Herbarium_-_Thuja_occidentalis_-_NEU000099701.jpg"
