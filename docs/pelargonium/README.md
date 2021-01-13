@@ -19,7 +19,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 <param ve-entity eid="Q157211" title="geranium" aliases="Geranium"> 
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
 <param ve-entity eid="Q18083598" title="Pelargonium inquinans"> 
-However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one, _Pelargonium_, and were ‘Mrs. Pollock’ and ‘General Tom Thumb’ pelargoniums, to be exact.[^ref4] The two genera _Pelargonium_ and _Geranium_ have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate roiled in botanical circles from the mid-eighteenth to the early nineteenth centuries, the popularity of the pelargonium gradually increased and a first wave of cultural excitement for the flower peaked in the early 1800s. By the early-1900s, the public had grown accustomed to using the common name “geranium” for both types of plants, and for the most part, we continue to use it in this way today.
+However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one, _Pelargonium_, and were ‘Mrs. Pollock’ and ‘General Tom Thumb’ pelargoniums, to be exact.[^ref4] The two genera _Pelargonium_ and _Geranium_ have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate roiled in botanical circles from the mid-eighteenth to the early nineteenth centuries, the popularity of the pelargonium increased as a rarified greenhouse exotic and later as a mass-produced garden ornament. By the early-1900s, the public had grown accustomed to using the common name “geranium” for both types of plants, and for the most part, we continue to use it in this way today.
 <param ve-image fit="contain" primary url="https://www.biodiversitylibrary.org/pageimage/53144785" title="Botanical drawings of _Pelargonium odoratissimum_ and _Pelargonium inquinans_, Biodiversity Heritage Library">
 
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the role of technology in the plant’s changing popularity during the long nineteenth century reveals a fervor of excitement for growing and displaying the flower, first under glass and then in garden beds, and for smelling and wearing its scent. This visual narrative of the pelargonium also elucidates some reasons that Dicken’s favored flower still infuses many municipal, domestic, and potted gardens with its brilliant hues, horseshoe-shaped foliage, and varied fragrances today.
@@ -204,11 +204,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDIwMTI3MDAsLTI5NzAyNTMwMiwtNT
-AwMTA1MDQsOTU0NDA0MzE1LDIwMjE0ODQ4NDcsLTkxMDExMzEx
-Myw1NTk5ODU3NjcsLTE3Njc4NzQ5MTMsLTgwMTc3NTM2NSwxNj
-Q2NDUwMjUxLDc4OTczMDMyNCwtMjA1NzcyMjc0NCwtOTUwMTY1
-NDUyLDE5OTAyMzQwNDAsLTkxNjA3NDQxMywtMTk5OTUxMzU2Mi
-wtNDE1MzQ5NzIyLDIwMDIzMjYxMzgsMzAxODA4NTU4LC0xNjA2
-MzA3NThdfQ==
+eyJoaXN0b3J5IjpbLTE0MzAyNzQ4ODEsLTEwMDIwMTI3MDAsLT
+I5NzAyNTMwMiwtNTAwMTA1MDQsOTU0NDA0MzE1LDIwMjE0ODQ4
+NDcsLTkxMDExMzExMyw1NTk5ODU3NjcsLTE3Njc4NzQ5MTMsLT
+gwMTc3NTM2NSwxNjQ2NDUwMjUxLDc4OTczMDMyNCwtMjA1Nzcy
+Mjc0NCwtOTUwMTY1NDUyLDE5OTAyMzQwNDAsLTkxNjA3NDQxMy
+wtMTk5OTUxMzU2MiwtNDE1MzQ5NzIyLDIwMDIzMjYxMzgsMzAx
+ODA4NTU4XX0=
 -->
