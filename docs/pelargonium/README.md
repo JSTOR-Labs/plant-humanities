@@ -170,45 +170,45 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref4]: Charles Dickens grew _P._ × _hortorum_ ‘Mrs. Pollock’ in pots and _P._ × _hortorum_ ‘General Tom Thumb’ in beds at Gad’s Hill Place. Hartley, “Dickens and the Geranium,” p. 6; Ide, Jennifer M. 2017. "A Rose for Charles Dickens." _The Dickensian_ 113 (501) (Spring): 35-36. http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/rose-charles-dickens/docview/2056424376/se-2?accountid=11311.
 
-[^ref5]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
-
 [^ref5]: John Gerard, _The herball, or, Generall historie of plantes_, London: Printed by Adam Islip Joice Norton and Richard Whitakers,anno 1633. [https://www.biodiversitylibrary.org/page/51905442](https://www.biodiversitylibrary.org/page/51905442)
 
-[^ref6]: Sherard, William. _Schola botanica sive catalogus plantarum, quas ab aliquot annis in Horto Regio Parisiensis Studiosis indigitavit vir clarissimvs Joseph Pitton Tournefort, D. M. ut et Pauli Hermanni P.P. Paradisi Batavi prodromus, In quo Planta rariores omnes, in Batavorum Hortis hactenus cultae, & plurinam partem à nemine antea descriptae recensentur_. Amstelaedami: Apud Henricum Wetstenium, 1689. [https://bibdigital.rjb.csic.es/idurl/1/13582](https://bibdigital.rjb.csic.es/idurl/1/13582); Taylor, Judith M. _Visions of Loveliness: Great Flower Breeders of the Past_. Athens, OH: Ohio University Press, 2014, pp. 366; Wilkinson, Anne. _The Passion for Pelargoniums_. Stroud: The History Press, 2007, pp. 21-22.
+[^ref6]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 
-[^ref7]: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.
+[^ref7]: Sherard, William. _Schola botanica sive catalogus plantarum, quas ab aliquot annis in Horto Regio Parisiensis Studiosis indigitavit vir clarissimvs Joseph Pitton Tournefort, D. M. ut et Pauli Hermanni P.P. Paradisi Batavi prodromus, In quo Planta rariores omnes, in Batavorum Hortis hactenus cultae, & plurinam partem à nemine antea descriptae recensentur_. Amstelaedami: Apud Henricum Wetstenium, 1689. [https://bibdigital.rjb.csic.es/idurl/1/13582](https://bibdigital.rjb.csic.es/idurl/1/13582); Taylor, Judith M. _Visions of Loveliness: Great Flower Breeders of the Past_. Athens, OH: Ohio University Press, 2014, pp. 366; Wilkinson, Anne. _The Passion for Pelargoniums_. Stroud: The History Press, 2007, pp. 21-22.
 
-[^ref8]: Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.
+[^ref8]: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.
 
-[^ref9]: Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.
+[^ref9]: Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.
 
-[^ref10]: Keogh, Luke. _The Wardian Case: How a Simple Box Moved Plants and Saved the World_. University of Chicago Press, 2020.
+[^ref10]: Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.
 
-[^ref11]: Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
+[^ref11]: Keogh, Luke. _The Wardian Case: How a Simple Box Moved Plants and Saved the World_. University of Chicago Press, 2020.
 
-[^ref12]: Lindsay Wells. "Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor." _Victorian Studies_ 60, no. 2 (2018): 158-70. Accessed January 11, 2021. http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02.
+[^ref12]: Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
 
-[^ref13]: Hibberd, Shirley. “Lecture on the Pelargonium.” _The Journal of Horticulture_, 1880, pp. 14, 74-75.
+[^ref13]: Lindsay Wells. "Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor." _Victorian Studies_ 60, no. 2 (2018): 158-70. Accessed January 11, 2021. http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02.
 
-[^ref14]: Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875. [https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up](https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up)
+[^ref14]: Hibberd, Shirley. “Lecture on the Pelargonium.” _The Journal of Horticulture_, 1880, pp. 14, 74-75.
 
-[^ref15]: McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
+[^ref15]: Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875. [https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up](https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up)
 
-[^ref16]: Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--. [https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up](https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up)
+[^ref16]: McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
 
-[^ref17]: Jekyll, Gertrude. _Colour Schemes for the Flower Garden_. Country Life, 1919.
+[^ref17]: Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--. [https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up](https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up)
 
-[^ref18]: Horwood, Catherine. _Potted History: The Story of Plants in the Home_. Quarto Group Inc, 2007.
+[^ref18]: Jekyll, Gertrude. _Colour Schemes for the Flower Garden_. Country Life, 1919.
 
-[^ref19]: "genteel, adj. and n." OED Online. Oxford University Press, June 2020. Web. 1 August 2020.
+[^ref19]: Horwood, Catherine. _Potted History: The Story of Plants in the Home_. Quarto Group Inc, 2007.
+
+[^ref20]: "genteel, adj. and n." OED Online. Oxford University Press, June 2020. Web. 1 August 2020.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3MjQ5NzcwLC04OTE1NjExNjgsNDYwNj
-QxNzE0LDExMzI4MTk2NDQsLTE3OTU3Mjk4NzEsMTQ2NzU0NDU0
-NiwtODM3NzQ0NjE2LC0xNDk0NDkyMjIzLC00OTY5NzU4MjQsMT
-YxNDIzNzcwMCwtMjc1ODE2MzEwLDE0Mzg0OTMyMTIsLTEwMDIw
-MTI3MDAsLTI5NzAyNTMwMiwtNTAwMTA1MDQsOTU0NDA0MzE1LD
-IwMjE0ODQ4NDcsLTkxMDExMzExMyw1NTk5ODU3NjcsLTE3Njc4
-NzQ5MTNdfQ==
+eyJoaXN0b3J5IjpbLTY5NjQwNDMyNSwtODkxNTYxMTY4LDQ2MD
+Y0MTcxNCwxMTMyODE5NjQ0LC0xNzk1NzI5ODcxLDE0Njc1NDQ1
+NDYsLTgzNzc0NDYxNiwtMTQ5NDQ5MjIyMywtNDk2OTc1ODI0LD
+E2MTQyMzc3MDAsLTI3NTgxNjMxMCwxNDM4NDkzMjEyLC0xMDAy
+MDEyNzAwLC0yOTcwMjUzMDIsLTUwMDEwNTA0LDk1NDQwNDMxNS
+wyMDIxNDg0ODQ3LC05MTAxMTMxMTMsNTU5OTg1NzY3LC0xNzY3
+ODc0OTEzXX0=
 -->
