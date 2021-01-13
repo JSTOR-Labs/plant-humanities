@@ -32,8 +32,8 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 ### Pelargonium Morphology: Fruit and Flower
 
 <param ve-entity eid="Q155945" title="Geraniaceae"> 
-<param ve-entity eid="Q147768" title="capsule"> 
-The _Pelargonium_ and its relative the _Geranium_ both belong to the family _Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, at least superficially, each other. The name _Pelargonium_ comes from the Greek _pelargos_ (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”), which alludes to the plant’s long, beak-shaped fruit. Similarly, the moniker _Geranium_ derives from the Greek _géranos_ (“crane”), a descriptive reference to a columnar fruit capsule characteristic of some species.
+<param ve-entity eid="Q147768" title="capsule" aliases="capsules"><param ve-entity eid="Q147768" title="capsule" aliases="capsules"> 
+The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the family _Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, at least superficially, one another. The name _Pelargonium_ comes from the Greek _pelargos_ (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”), which alludes to the plant’s long, beak-shaped fruit. Similarly, _Geranium_ from _géranos_ (“crane”) and _Erodium_ from _erodios_ (“heron”) describe the columnar fruit capsules characteristic of some species.
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="Pelargonium alchemilloides (L.) L'Hér.">
 
 <param ve-entity eid="Q183252" title="morphology"> 
@@ -203,11 +203,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQ0OTIyMjMsLTQ5Njk3NTgyNCwxNj
-E0MjM3NzAwLC0yNzU4MTYzMTAsMTQzODQ5MzIxMiwtMTAwMjAx
-MjcwMCwtMjk3MDI1MzAyLC01MDAxMDUwNCw5NTQ0MDQzMTUsMj
-AyMTQ4NDg0NywtOTEwMTEzMTEzLDU1OTk4NTc2NywtMTc2Nzg3
-NDkxMywtODAxNzc1MzY1LDE2NDY0NTAyNTEsNzg5NzMwMzI0LC
-0yMDU3NzIyNzQ0LC05NTAxNjU0NTIsMTk5MDIzNDA0MCwtOTE2
-MDc0NDEzXX0=
+eyJoaXN0b3J5IjpbMTMzMjQzNjMyNCwtMTQ5NDQ5MjIyMywtND
+k2OTc1ODI0LDE2MTQyMzc3MDAsLTI3NTgxNjMxMCwxNDM4NDkz
+MjEyLC0xMDAyMDEyNzAwLC0yOTcwMjUzMDIsLTUwMDEwNTA0LD
+k1NDQwNDMxNSwyMDIxNDg0ODQ3LC05MTAxMTMxMTMsNTU5OTg1
+NzY3LC0xNzY3ODc0OTEzLC04MDE3NzUzNjUsMTY0NjQ1MDI1MS
+w3ODk3MzAzMjQsLTIwNTc3MjI3NDQsLTk1MDE2NTQ1MiwxOTkw
+MjM0MDQwXX0=
 -->
