@@ -21,6 +21,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 <param ve-entity eid="Q18083598" title="Pelargonium inquinans"> 
 However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one, _Pelargonium_.[^ref4] The two genera _Pelargonium_ and _Geranium_ have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate over how to classify pelargoniums roiled in botanical circles of the mid-eighteenth and early nineteenth centuries, its popularity steadily increased, first as a greenhouse exotic and then as a collector’s showpiece. Once nurseries made hardy garden varieties available to the masses, in the mid-nineteenth century, the public had grown accustomed to using the common name “geranium” for both types of plants, and for the most part, we continue to do so today.
 <param ve-image fit="contain" primary url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n118_w1253" title="Charles Dickens grew 'Miss Pollock' pelargoniums in pots at Gad's Hill Place, _Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
+<param ve-image fit="contain" url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n120_w927" title="Charles Dickens grew 'Miss Pollock' pelargoniums in pots at Gad's Hill Place, _Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the plant’s popularity during the long nineteenth century reveals how horticultural technologies fueled cultural excitement for growing and displaying the flower, first in glasshouses and later in garden beds, in tandem with fashions for smelling and wearing its varied scents. This visual narrative also elucidates some reasons that Dicken’s favored flower still infuses gardens with its brilliant hues, painted foliage, and pleasurable fragrances today.
 <param ve-image fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
@@ -206,11 +207,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTM1ODExMSw1MzQ4NjUyOTcsMTE3Nj
-UxNDUyNSw5Njk3MjI3MzUsMTY1NjE1MzUwMiwtMTk0MDE5Mjgz
-MCw5ODc1ODY0OCwyNDI0MTcxNzQsOTcyNDYwMDkwLDc3MzkzMD
-g1MywtNzU2MzUzMDU2LC04OTE1NjExNjgsNDYwNjQxNzE0LDEx
-MzI4MTk2NDQsLTE3OTU3Mjk4NzEsMTQ2NzU0NDU0NiwtODM3Nz
-Q0NjE2LC0xNDk0NDkyMjIzLC00OTY5NzU4MjQsMTYxNDIzNzcw
-MF19
+eyJoaXN0b3J5IjpbMTUxMDA3ODY0OSwtNDU1MzU4MTExLDUzND
+g2NTI5NywxMTc2NTE0NTI1LDk2OTcyMjczNSwxNjU2MTUzNTAy
+LC0xOTQwMTkyODMwLDk4NzU4NjQ4LDI0MjQxNzE3NCw5NzI0Nj
+AwOTAsNzczOTMwODUzLC03NTYzNTMwNTYsLTg5MTU2MTE2OCw0
+NjA2NDE3MTQsMTEzMjgxOTY0NCwtMTc5NTcyOTg3MSwxNDY3NT
+Q0NTQ2LC04Mzc3NDQ2MTYsLTE0OTQ0OTIyMjMsLTQ5Njk3NTgy
+NF19
 -->
