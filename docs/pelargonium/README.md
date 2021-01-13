@@ -72,6 +72,7 @@ Of the many _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first
 <param ve-entity eid="Q863247" title="nomenclature">
 The nomenclature confusion surrounding the _Pelargonium_ began when _Pelargonium_ _triste_ (“sad pelargonium”)  was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P._ _triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_, as evidenced, at right, in this plant portrait. This misrecognition of _P._ _triste_ stems from the fact that Europeans were already familiar with some [geraniums](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327764-2) that are endogenous to the Mediterranean and simply grouped pelargoniums with plants they already knew. This visualization of the global nomenclature history of the _Pelargonium_ and the _Geranium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_ at the University of California Botanical Garden]University of California Botanical Garden"), Berkeley, California">
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
@@ -204,11 +205,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3NTg2NDgsMjQyNDE3MTc0LDk3MjQ2MD
-A5MCw3NzM5MzA4NTMsLTc1NjM1MzA1NiwtODkxNTYxMTY4LDQ2
-MDY0MTcxNCwxMTMyODE5NjQ0LC0xNzk1NzI5ODcxLDE0Njc1ND
-Q1NDYsLTgzNzc0NDYxNiwtMTQ5NDQ5MjIyMywtNDk2OTc1ODI0
-LDE2MTQyMzc3MDAsLTI3NTgxNjMxMCwxNDM4NDkzMjEyLC0xMD
-AyMDEyNzAwLC0yOTcwMjUzMDIsLTUwMDEwNTA0LDk1NDQwNDMx
-NV19
+eyJoaXN0b3J5IjpbNDk1NjIxOTIyLDk4NzU4NjQ4LDI0MjQxNz
+E3NCw5NzI0NjAwOTAsNzczOTMwODUzLC03NTYzNTMwNTYsLTg5
+MTU2MTE2OCw0NjA2NDE3MTQsMTEzMjgxOTY0NCwtMTc5NTcyOT
+g3MSwxNDY3NTQ0NTQ2LC04Mzc3NDQ2MTYsLTE0OTQ0OTIyMjMs
+LTQ5Njk3NTgyNCwxNjE0MjM3NzAwLC0yNzU4MTYzMTAsMTQzOD
+Q5MzIxMiwtMTAwMjAxMjcwMCwtMjk3MDI1MzAyLC01MDAxMDUw
+NF19
 -->
