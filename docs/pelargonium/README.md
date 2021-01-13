@@ -68,7 +68,6 @@ Of the many _Pelargonium_ species, _Pelargonium_ _triste_ (“sad pelargonium”
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
-
 <param ve-entity eid="Q10543296" title="Pelargonium triste">
 <param ve-entity eid="Q863247" title="nomenclature">
 The nomenclature confusion surrounding the _Pelargonium_ began when the plant now known as _Pelargonium triste_ was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P. triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_ due to the superficial similarities between the genera _Geranium_ and _Pelargonium_. This visualization of the global nomenclature history of the two plants provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_. 
@@ -203,7 +202,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjU5MDc4Niw0NjA2NDE3MTQsMTEzMj
+eyJoaXN0b3J5IjpbLTg5MTU2MTE2OCw0NjA2NDE3MTQsMTEzMj
 gxOTY0NCwtMTc5NTcyOTg3MSwxNDY3NTQ0NTQ2LC04Mzc3NDQ2
 MTYsLTE0OTQ0OTIyMjMsLTQ5Njk3NTgyNCwxNjE0MjM3NzAwLC
 0yNzU4MTYzMTAsMTQzODQ5MzIxMiwtMTAwMjAxMjcwMCwtMjk3
