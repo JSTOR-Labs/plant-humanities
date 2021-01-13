@@ -173,7 +173,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref5]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 
-[^ref6]: Sherard, William. _Schola botanica sive catalogus plantarum, quas ab aliquot annis in Horto Regio Parisiensis Studiosis indigitavit vir clarissimvs Joseph Pitton Tournefort, D. M. ut et Pauli Hermanni P.P. Paradisi Batavi prodromus, In quo Planta rariores omnes, in Batavorum Hortis hactenus cultae, & plurinam partem à nemine antea descriptae recensentur_. Amstelaedami : Apud Henricum Wetstenium, 1689. https://bibdigital.rjb.csic.es/idurl/1/13582; Taylor, Judith M. _Visions of Loveliness: Great Flower Breeders of the Past_. Athens, OH: Ohio University Press, 2014, pp. 366.
+[^ref6]: Sherard, William. _Schola botanica sive catalogus plantarum, quas ab aliquot annis in Horto Regio Parisiensis Studiosis indigitavit vir clarissimvs Joseph Pitton Tournefort, D. M. ut et Pauli Hermanni P.P. Paradisi Batavi prodromus, In quo Planta rariores omnes, in Batavorum Hortis hactenus cultae, & plurinam partem à nemine antea descriptae recensentur_. Amstelaedami: Apud Henricum Wetstenium, 1689. [https://bibdigital.rjb.csic.es/idurl/1/13582](https://bibdigital.rjb.csic.es/idurl/1/13582); Taylor, Judith M. _Visions of Loveliness: Great Flower Breeders of the Past_. Athens, OH: Ohio University Press, 2014, pp. 366; Wilkinson, Anne. _The Passion for Pelargoniums_. Stroud: The History Press, 2007, pp. 21-22.
 
 [^ref7]: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.
 
@@ -203,11 +203,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNjQxNzE0LDExMzI4MTk2NDQsLTE3OT
-U3Mjk4NzEsMTQ2NzU0NDU0NiwtODM3NzQ0NjE2LC0xNDk0NDky
-MjIzLC00OTY5NzU4MjQsMTYxNDIzNzcwMCwtMjc1ODE2MzEwLD
-E0Mzg0OTMyMTIsLTEwMDIwMTI3MDAsLTI5NzAyNTMwMiwtNTAw
-MTA1MDQsOTU0NDA0MzE1LDIwMjE0ODQ4NDcsLTkxMDExMzExMy
-w1NTk5ODU3NjcsLTE3Njc4NzQ5MTMsLTgwMTc3NTM2NSwxNjQ2
-NDUwMjUxXX0=
+eyJoaXN0b3J5IjpbLTEyNjgzMzU5ODQsNDYwNjQxNzE0LDExMz
+I4MTk2NDQsLTE3OTU3Mjk4NzEsMTQ2NzU0NDU0NiwtODM3NzQ0
+NjE2LC0xNDk0NDkyMjIzLC00OTY5NzU4MjQsMTYxNDIzNzcwMC
+wtMjc1ODE2MzEwLDE0Mzg0OTMyMTIsLTEwMDIwMTI3MDAsLTI5
+NzAyNTMwMiwtNTAwMTA1MDQsOTU0NDA0MzE1LDIwMjE0ODQ4ND
+csLTkxMDExMzExMyw1NTk5ODU3NjcsLTE3Njc4NzQ5MTMsLTgw
+MTc3NTM2NV19
 -->
