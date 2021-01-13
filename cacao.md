@@ -1,5 +1,3 @@
-[View](https://plant-humanities.app/essay?gdid=15pnIRpyLcPkQzfF203pKpxvIYaskQfmK)
-
 <param ve-config
        title="Cacao: An indigenous network and global commodity"
        source-image="https://upload.wikimedia.org/wikipedia/commons/3/31/Cacao_Nacional_Fino_de_Aroma.jpg"
