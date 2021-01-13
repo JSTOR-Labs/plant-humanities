@@ -78,7 +78,7 @@ The nomenclature confusion surrounding the _Pelargonium_ began when _Pelargonium
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], Jacques-Philippe Cornut, _Canadensium Plantarum_, Paris, Venundantur apud Simonem Le Moyne, 1635, Biblioteca Digital">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_, named for the dull color of its foliage, has not been widely hybridized and cultural interest in the plant is limited to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 
-
+This visualization of the global nomenclature history of the _Pelargonium_ and the _Geranium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
@@ -215,11 +215,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDU1Mjg2MTAsMzU5OTE5MzM5LDExOT
-Q3OTg2MDYsLTE3MjMxNDc5MjAsMTgxNTM4MDI5MywyMDg5Mjgz
-MTg1LDczNjUwMTEzMyw1MTUzMzc4MjUsMjgwMzY3NzQ4LC02OD
-czNTg3MzgsMTEzOTM3NDQ0LDg5MjkzMDEyLC0xMTU0NzY1MjMx
-LC0xODY1NTc4MDM2LC0xOTE1MzA5NzcyLC00NTUzNTgxMTEsNT
-M0ODY1Mjk3LDExNzY1MTQ1MjUsOTY5NzIyNzM1LDE2NTYxNTM1
-MDJdfQ==
+eyJoaXN0b3J5IjpbMTY5MTY0MTcyNCwzNTk5MTkzMzksMTE5ND
+c5ODYwNiwtMTcyMzE0NzkyMCwxODE1MzgwMjkzLDIwODkyODMx
+ODUsNzM2NTAxMTMzLDUxNTMzNzgyNSwyODAzNjc3NDgsLTY4Nz
+M1ODczOCwxMTM5Mzc0NDQsODkyOTMwMTIsLTExNTQ3NjUyMzEs
+LTE4NjU1NzgwMzYsLTE5MTUzMDk3NzIsLTQ1NTM1ODExMSw1Mz
+Q4NjUyOTcsMTE3NjUxNDUyNSw5Njk3MjI3MzUsMTY1NjE1MzUw
+Ml19
 -->
