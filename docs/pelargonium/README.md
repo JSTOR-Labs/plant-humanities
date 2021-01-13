@@ -58,7 +58,7 @@ Morphological traits not only inspired the names _Pelargonium_ and _Geranium_, b
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
-The _Pelargonium_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape of South Africa, which is a biodiversity hotspot. It is not surprising, then, that Portuguese and Dutch traders first harvested pelargoniums, both live plants and seeds, from the Cape in the late 1500s. They then transported that fragile and precious cargo to Europe on their return from making colonial voyages.
+The _Pelargonium_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape of South Africa, which is a biodiversity hotspot. It is not surprising, then, that Portuguese traders first harvested pelargoniums, both live plants and seeds, from the Cape in the late fifteenth or early sixteenth centuries. They transported that fragile and precious cargo to Europe on their return from making colonial voyages.
 <param ve-map center="-7.347, 72.454" zoom="2.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -213,11 +213,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2NTAxMTMzLDUxNTMzNzgyNSwyODAzNj
-c3NDgsLTY4NzM1ODczOCwxMTM5Mzc0NDQsODkyOTMwMTIsLTEx
-NTQ3NjUyMzEsLTE4NjU1NzgwMzYsLTE5MTUzMDk3NzIsLTQ1NT
-M1ODExMSw1MzQ4NjUyOTcsMTE3NjUxNDUyNSw5Njk3MjI3MzUs
-MTY1NjE1MzUwMiwtMTk0MDE5MjgzMCw5ODc1ODY0OCwyNDI0MT
-cxNzQsOTcyNDYwMDkwLDc3MzkzMDg1MywtNzU2MzUzMDU2XX0=
+eyJoaXN0b3J5IjpbMjA4OTI4MzE4NSw3MzY1MDExMzMsNTE1Mz
+M3ODI1LDI4MDM2Nzc0OCwtNjg3MzU4NzM4LDExMzkzNzQ0NCw4
+OTI5MzAxMiwtMTE1NDc2NTIzMSwtMTg2NTU3ODAzNiwtMTkxNT
+MwOTc3MiwtNDU1MzU4MTExLDUzNDg2NTI5NywxMTc2NTE0NTI1
+LDk2OTcyMjczNSwxNjU2MTUzNTAyLC0xOTQwMTkyODMwLDk4Nz
+U4NjQ4LDI0MjQxNzE3NCw5NzI0NjAwOTAsNzczOTMwODUzXX0=
 
 -->
