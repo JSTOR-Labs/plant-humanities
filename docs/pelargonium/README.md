@@ -78,7 +78,7 @@ The nomenclature confusion surrounding the _Pelargonium_ began when _Pelargonium
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], Jacques-Philippe Cornut, _Canadensium Plantarum_, Paris, Venundantur apud Simonem Le Moyne, 1635, Biblioteca Digital">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_, named for the dull color of its foliage, has not been widely hybridized and cultural interest in the plant is limited to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 
-This visualization of the global nomenclature history of the _Pelargonium_ and the _Geranium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.
+This visualization of the global nomenclature history of the _Pelargonium_ and the _Geranium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.  As the interactive timeline explains, botanists have struggled to disentangle the genera since the mid-eighteenth century. Indeed, Carl Linnaeus, in his 1753-book [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
@@ -217,11 +217,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4OTg5Mjk1LC0xOTQ2ODM3MjgxLDQyMT
-UyMTQ3NiwxNTgwMTg4NzYsMzU5OTE5MzM5LDExOTQ3OTg2MDYs
-LTE3MjMxNDc5MjAsMTgxNTM4MDI5MywyMDg5MjgzMTg1LDczNj
-UwMTEzMyw1MTUzMzc4MjUsMjgwMzY3NzQ4LC02ODczNTg3Mzgs
-MTEzOTM3NDQ0LDg5MjkzMDEyLC0xMTU0NzY1MjMxLC0xODY1NT
-c4MDM2LC0xOTE1MzA5NzcyLC00NTUzNTgxMTEsNTM0ODY1Mjk3
-XX0=
+eyJoaXN0b3J5IjpbLTEwNzIxNDc3NzYsOTY4OTg5Mjk1LC0xOT
+Q2ODM3MjgxLDQyMTUyMTQ3NiwxNTgwMTg4NzYsMzU5OTE5MzM5
+LDExOTQ3OTg2MDYsLTE3MjMxNDc5MjAsMTgxNTM4MDI5MywyMD
+g5MjgzMTg1LDczNjUwMTEzMyw1MTUzMzc4MjUsMjgwMzY3NzQ4
+LC02ODczNTg3MzgsMTEzOTM3NDQ0LDg5MjkzMDEyLC0xMTU0Nz
+Y1MjMxLC0xODY1NTc4MDM2LC0xOTE1MzA5NzcyLC00NTUzNTgx
+MTFdfQ==
 -->
