@@ -19,7 +19,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 <param ve-entity eid="Q157211" title="geranium" aliases="Geranium"> 
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
 <param ve-entity eid="Q18083598" title="Pelargonium inquinans"> 
-However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one, _Pelargonium_, and was a _Pelargonium inquinans_, to be exact. These two genera, _Pelargonium_ and _Geranium_, have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate roiled in botanical circles from the mid-eighteenth to the early nineteenth centuries, the popularity of the pelargonium gradually increased and a first wave of cultural excitement for the flower peaked in the early 1800s. By that time, the public had grown accustomed to using the common name “geranium” for both types of plants, and for the most part, we continue to use it in this way today.
+However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one, _Pelargonium_, and were ‘Mrs. Pollock’ and ‘General Tom Thumb’ pelargoniums, to be exact.[^ref4] These two genera, _Pelargonium_ and _Geranium_, have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate roiled in botanical circles from the mid-eighteenth to the early nineteenth centuries, the popularity of the pelargonium gradually increased and a first wave of cultural excitement for the flower peaked in the early 1800s. By that time, the public had grown accustomed to using the common name “geranium” for both types of plants, and for the most part, we continue to use it in this way today.
 <param ve-image fit="contain" primary url="https://www.biodiversitylibrary.org/pageimage/53144785" title="Botanical drawings of _Pelargonium odoratissimum_ and _Pelargonium inquinans_, Biodiversity Heritage Library">
 
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the role of technology in the plant’s changing popularity during the long nineteenth century reveals a fervor of excitement for growing and displaying the flower, first under glass and then in garden beds, and for smelling and wearing its scent. This visual narrative of the pelargonium also elucidates some reasons that Dicken’s favored flower still infuses many municipal, domestic, and potted gardens with its brilliant hues, horseshoe-shaped foliage, and varied fragrances today.
@@ -164,11 +164,13 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 <param ve-image primary fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.highres" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), 1907-1920, photograph, Source gallica.bnf.fr / BnF">
 
 ### References
-[^ref1]: Hartley, Jenny. “Dickens and the Geranium.” _The Dickensian_, vol. 114, no. 504, 2018, pp. 5-14.
+[^ref1]: Hartley, Jenny. 2018. "Dickens and the Geranium." _The Dickensian_ 114 (504) (Spring): 5-14. http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/dickens-geranium/docview/2056426823/se-2?accountid=11311.
 
 [^ref2]: Dickens, Mamie. _My Father as I Recall Him_. Roxburghe Press, 1896.
 
 [^ref3]:  Ibid.
+
+[^ref4]: Hartley, “Dickens and the Geranium,” p. 6; Ide, Jennifer M. 2017. "A Rose for Charles Dickens." _The Dickensian_ 113 (501) (Spring): 35-36. http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/rose-charles-dickens/docview/2056424376/se-2?accountid=11311.
 
 [^ref4]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 
@@ -202,11 +204,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzAyNTMwMiwtNTAwMTA1MDQsOTU0ND
-A0MzE1LDIwMjE0ODQ4NDcsLTkxMDExMzExMyw1NTk5ODU3Njcs
-LTE3Njc4NzQ5MTMsLTgwMTc3NTM2NSwxNjQ2NDUwMjUxLDc4OT
-czMDMyNCwtMjA1NzcyMjc0NCwtOTUwMTY1NDUyLDE5OTAyMzQw
-NDAsLTkxNjA3NDQxMywtMTk5OTUxMzU2MiwtNDE1MzQ5NzIyLD
-IwMDIzMjYxMzgsMzAxODA4NTU4LC0xNjA2MzA3NTgsLTE1NzAz
-NzA5OTRdfQ==
+eyJoaXN0b3J5IjpbLTE3MDYyMTE1NDgsLTI5NzAyNTMwMiwtNT
+AwMTA1MDQsOTU0NDA0MzE1LDIwMjE0ODQ4NDcsLTkxMDExMzEx
+Myw1NTk5ODU3NjcsLTE3Njc4NzQ5MTMsLTgwMTc3NTM2NSwxNj
+Q2NDUwMjUxLDc4OTczMDMyNCwtMjA1NzcyMjc0NCwtOTUwMTY1
+NDUyLDE5OTAyMzQwNDAsLTkxNjA3NDQxMywtMTk5OTUxMzU2Mi
+wtNDE1MzQ5NzIyLDIwMDIzMjYxMzgsMzAxODA4NTU4LC0xNjA2
+MzA3NThdfQ==
 -->
