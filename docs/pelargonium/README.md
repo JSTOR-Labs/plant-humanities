@@ -83,13 +83,13 @@ This visualization of the global nomenclature history of the _Pelargonium_ and t
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
 <param ve-entity eid="Q465834" title="Charles Louis L'Héritier de Brutelle" aliases="Charles-Louis L’Héritier de Brutelle’s">
-<param ve-entity eid="Q2003356" title="Robert Sweet">
 <param ve-entity eid="Q3898877" title="Pelargonium zonale">
 <param ve-entity eid="Q551638" title="Pierre-Joseph Redouté">
 As the interactive timeline above explains, botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ since the mid-eighteenth century. Indeed, Carl Linnaeus, in his 1753-book [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref8] Because Linnaean taxonomy was so revered at that time, his near contemporary Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargonium_ as an independent genus was overlooked.[^ref9] The two stunning portraits of pelargoniums, at right, were designed by the accomplished artists Pierre Joseph Redouté for L’Héritier de Brutelle’s [Geraniologia](https://www.biodiversitylibrary.org/page/46555490), from 1787-88.
 <param ve-image primary url="https://ia902708.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000519287&itemPath=%2F17%2Fitems%2Fmobot31753000519287&server=ia902708.us.archive.org&page=n34_w665" title="Pierre Joseph Redouté, _Pelargonium graveolens_, Charles Louis Héritier de Brutelle, _Geraniologia: seu, E̲r̲o̲d̲i̲i̲, P̲e̲l̲a̲r̲g̲o̲n̲i̲i̲, G̲e̲r̲a̲n̲i̲i̲, M̲o̲n̲s̲o̲n̲i̲̲æ et G̲r̲i̲e̲l̲i̲: historia iconibus illustrata_, Paris: Typis Petri-Francisci Didot: Prostat apud Ludovicum Nicolaum Prévost,1787-1788, Missouri Botanical Garden, Biodiversity Heritage Library">
 <param ve-image url="https://ia802708.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000519287&itemPath=%2F17%2Fitems%2Fmobot31753000519287&server=ia802708.us.archive.org&page=n48_w1039" title="Pierre Joseph Redouté, _Pelargonium lateripes_, Charles Louis Héritier de Brutelle, _Geraniologia: seu, E̲r̲o̲d̲i̲i̲, P̲e̲l̲a̲r̲g̲o̲n̲i̲i̲, G̲e̲r̲a̲n̲i̲i̲, M̲o̲n̲s̲o̲n̲i̲̲æ et G̲r̲i̲e̲l̲i̲: historia iconibus illustrata_, Paris: Typis Petri-Francisci Didot: Prostat apud Ludovicum Nicolaum Prévost,1787-1788, Missouri Botanical Garden, Biodiversity Heritage Library">
 
+<param ve-entity eid="Q2003356" title="Robert Sweet">
 Eventually, in the early-1800s, Robert Sweet introduced a serious classification system to ease the shortfall in Linnaean nomenclature. Sweet created ten new genera in the _Geraniaceae_ family, and his five-volume study of pelargoniums, _[Geraniaceae: The Natural Order of Gerania](https://www.biodiversitylibrary.org/page/47461998)_, remains a crucial source of information about the plant.[^ref10] By this time, despite naturalists proving that the _Pelargonium_ was a distinct genus, pelargoniums had attained such popularity that the name “geranium” stuck.
 <param ve-image primary url="Pelargonium_geraniaceaev5swee_0334.jpg" title="_Pelargonium Glorianum. Queen of Portugal's Stork's-bill_,Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, New York Botanical Garden, LuEsther T. Mertz Library, Biodiversity Heritage Library">
 <param ve-image primary url="Pelargonium_geraniaceaev5swee_0335.jpg" title="_Pelargonium Glorianum. Queen of Portugal's Stork's-bill_, Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, New York Botanical Garden, LuEsther T. Mertz Library, Biodiversity Heritage Library">
@@ -217,11 +217,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjE1NTA1MSwtMTk0NjgzNzI4MSw0Mj
-E1MjE0NzYsMTU4MDE4ODc2LDM1OTkxOTMzOSwxMTk0Nzk4NjA2
-LC0xNzIzMTQ3OTIwLDE4MTUzODAyOTMsMjA4OTI4MzE4NSw3Mz
-Y1MDExMzMsNTE1MzM3ODI1LDI4MDM2Nzc0OCwtNjg3MzU4NzM4
-LDExMzkzNzQ0NCw4OTI5MzAxMiwtMTE1NDc2NTIzMSwtMTg2NT
-U3ODAzNiwtMTkxNTMwOTc3MiwtNDU1MzU4MTExLDUzNDg2NTI5
-N119
+eyJoaXN0b3J5IjpbOTY4OTg5Mjk1LC0xOTQ2ODM3MjgxLDQyMT
+UyMTQ3NiwxNTgwMTg4NzYsMzU5OTE5MzM5LDExOTQ3OTg2MDYs
+LTE3MjMxNDc5MjAsMTgxNTM4MDI5MywyMDg5MjgzMTg1LDczNj
+UwMTEzMyw1MTUzMzc4MjUsMjgwMzY3NzQ4LC02ODczNTg3Mzgs
+MTEzOTM3NDQ0LDg5MjkzMDEyLC0xMTU0NzY1MjMxLC0xODY1NT
+c4MDM2LC0xOTE1MzA5NzcyLC00NTUzNTgxMTEsNTM0ODY1Mjk3
+XX0=
 -->
