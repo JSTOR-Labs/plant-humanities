@@ -18,7 +18,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 <param ve-entity eid="Q157211" title="geranium" aliases="Geranium"> 
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
 <param ve-entity eid="Q18083598" title="Pelargonium inquinans"> 
-However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one, _Pelargonium_.[^ref4] The two genera _Pelargonium_ and _Geranium_ have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate over how to classify pelargoniums roiled in botanical circles of the mid-eighteenth and early nineteenth centuries, its popularity steadily increased, first as a greenhouse exotic and then as a collector’s showpiece. Once nurseries made hardy garden varieties available to the masses, in the mid-nineteenth century, the public had grown accustomed to using the common name “geranium” for both types of plants, and for the most part, we continue to do so today.
+However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one called _Pelargonium_.[^ref4] The two genera _Pelargonium_ and _Geranium_ have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate over how to classify pelargoniums roiled in botanical circles of the mid-eighteenth and early nineteenth centuries, its popularity steadily increased, first as a greenhouse exotic and then as a collector’s showpiece. Once nurseries made hardy garden varieties available to the masses, in the mid-nineteenth century, the public had grown accustomed to using the common name “geranium” for both types of plants, and for the most part, we continue to do so today.
 <param ve-image fit="contain" primary url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n118_w1253" title="Charles Dickens grew 'Miss Pollock' pelargoniums in pots at Gad's Hill Place, _Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n120_w927" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 
@@ -213,7 +213,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDg5NDQ5LDExMzkzNzQ0NCw4OTI5Mz
+eyJoaXN0b3J5IjpbMTkyNTQ2MzI4LDExMzkzNzQ0NCw4OTI5Mz
 AxMiwtMTE1NDc2NTIzMSwtMTg2NTU3ODAzNiwtMTkxNTMwOTc3
 MiwtNDU1MzU4MTExLDUzNDg2NTI5NywxMTc2NTE0NTI1LDk2OT
 cyMjczNSwxNjU2MTUzNTAyLC0xOTQwMTkyODMwLDk4NzU4NjQ4
