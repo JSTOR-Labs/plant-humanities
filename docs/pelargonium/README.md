@@ -37,8 +37,8 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 <param ve-entity eid="Q162920" title="Erodium"> 
 <param ve-entity eid="Q25365" title="Gruidae" aliases="crane"> 
 <param ve-entity eid="Q3259077" title="heron"> 
-<param ve-entity eid="Q162920" title="Ciconiidae"> 
-The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the family _Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, at least superficially, one another. The name _Pelargonium_ comes from the Greek _pelargos_ (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”), which alludes to the plant’s long, beak-shaped fruit. Similarly, _Geranium_ from _géranos_ (“crane”) and _Erodium_ from _erodios_ (“heron”) describe the columnar fruit capsules characteristic of some species.
+<param ve-entity eid="Q28507" title="Ciconiidae"> 
+The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the family _Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, at least superficially, one another. The name _Pelargonium_ comes from the Greek _pelargos_ (“stork”), which alludes to the plant’s long, beak-shaped fruit. Similarly, _Geranium_ from _géranos_ (“crane”) and _Erodium_ from _erodios_ (“heron”) describe the columnar fruit capsules characteristic of some species.
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="The dried specimen on this herbarium sheet shows the beak-shaped fruit for which the pelargonium was named. Pelargonium alchemilloides (L.) L'Hér.">
 
 <param ve-entity eid="Q183252" title="morphology"> 
@@ -211,11 +211,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjkyMDEsLTQ1NTM1ODExMSw1MzQ4Nj
-UyOTcsMTE3NjUxNDUyNSw5Njk3MjI3MzUsMTY1NjE1MzUwMiwt
-MTk0MDE5MjgzMCw5ODc1ODY0OCwyNDI0MTcxNzQsOTcyNDYwMD
-kwLDc3MzkzMDg1MywtNzU2MzUzMDU2LC04OTE1NjExNjgsNDYw
-NjQxNzE0LDExMzI4MTk2NDQsLTE3OTU3Mjk4NzEsMTQ2NzU0ND
-U0NiwtODM3NzQ0NjE2LC0xNDk0NDkyMjIzLC00OTY5NzU4MjRd
-fQ==
+eyJoaXN0b3J5IjpbLTkwMzYxNDE1MSwtNDU1MzU4MTExLDUzND
+g2NTI5NywxMTc2NTE0NTI1LDk2OTcyMjczNSwxNjU2MTUzNTAy
+LC0xOTQwMTkyODMwLDk4NzU4NjQ4LDI0MjQxNzE3NCw5NzI0Nj
+AwOTAsNzczOTMwODUzLC03NTYzNTMwNTYsLTg5MTU2MTE2OCw0
+NjA2NDE3MTQsMTEzMjgxOTY0NCwtMTc5NTcyOTg3MSwxNDY3NT
+Q0NTQ2LC04Mzc3NDQ2MTYsLTE0OTQ0OTIyMjMsLTQ5Njk3NTgy
+NF19
 -->
