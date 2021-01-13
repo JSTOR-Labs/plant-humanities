@@ -33,7 +33,11 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 ### Pelargonium Morphology: Fruit and Flower
 
 <param ve-entity eid="Q155945" title="Geraniaceae"> 
-<param ve-entity eid="Q147768" title="capsule" aliases="capsules"><param ve-entity eid="Q162920" title="Erodium"> 
+<param ve-entity eid="Q147768" title="capsule" aliases="capsules">
+<param ve-entity eid="Q162920" title="Erodium"> 
+<param ve-entity eid="Q162920" title="Erodium"> 
+<param ve-entity eid="Q162920" title="Erodium"> 
+<param ve-entity eid="Q162920" title="Erodium"> 
 The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the family _Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, at least superficially, one another. The name _Pelargonium_ comes from the Greek _pelargos_ (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”), which alludes to the plant’s long, beak-shaped fruit. Similarly, _Geranium_ from _géranos_ (“crane”) and _Erodium_ from _erodios_ (“heron”) describe the columnar fruit capsules characteristic of some species.
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="The dried specimen on this herbarium sheet shows the beak-shaped fruit for which the pelargonium was named. Pelargonium alchemilloides (L.) L'Hér.">
 
@@ -207,11 +211,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1MjY1MzgxLC00NTUzNTgxMTEsNTM0OD
-Y1Mjk3LDExNzY1MTQ1MjUsOTY5NzIyNzM1LDE2NTYxNTM1MDIs
-LTE5NDAxOTI4MzAsOTg3NTg2NDgsMjQyNDE3MTc0LDk3MjQ2MD
-A5MCw3NzM5MzA4NTMsLTc1NjM1MzA1NiwtODkxNTYxMTY4LDQ2
-MDY0MTcxNCwxMTMyODE5NjQ0LC0xNzk1NzI5ODcxLDE0Njc1ND
-Q1NDYsLTgzNzc0NDYxNiwtMTQ5NDQ5MjIyMywtNDk2OTc1ODI0
-XX0=
+eyJoaXN0b3J5IjpbLTY1MTQxNDc5MSwtNDU1MzU4MTExLDUzND
+g2NTI5NywxMTc2NTE0NTI1LDk2OTcyMjczNSwxNjU2MTUzNTAy
+LC0xOTQwMTkyODMwLDk4NzU4NjQ4LDI0MjQxNzE3NCw5NzI0Nj
+AwOTAsNzczOTMwODUzLC03NTYzNTMwNTYsLTg5MTU2MTE2OCw0
+NjA2NDE3MTQsMTEzMjgxOTY0NCwtMTc5NTcyOTg3MSwxNDY3NT
+Q0NTQ2LC04Mzc3NDQ2MTYsLTE0OTQ0OTIyMjMsLTQ5Njk3NTgy
+NF19
 -->
