@@ -70,7 +70,7 @@ Of the many _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first
 
 <param ve-entity eid="Q10543296" title="Pelargonium triste">
 <param ve-entity eid="Q863247" title="nomenclature">
-The nomenclature confusion surrounding the _Pelargonium_ began when _Pelargonium_ _triste_ (“sad pelargonium”)  was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P._ _triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_, as evidenced, at right, in this plant portrait. This misrecognition of _P._ _triste_ stems from the fact that Europeans were already familiar with some [geraniums](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327764-2) that are endogenous to the Mediterranean and simply grouped pelargoniums with plants they already knew. This visualization of the global nomenclature history of the _Pelargonium_ and the _Geranium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.
+The nomenclature confusion surrounding the _Pelargonium_ began when _Pelargonium_ _triste_ (“sad pelargonium”)  was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P._ _triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_, as evidenced in the plant portrait shown at right. That misrecognition of _P._ _triste_ stems from the fact that Europeans were already familiar with some [geraniums](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327764-2) that are endogenous to the Mediterranean and simply grouped pelargoniums with plants they already knew. This visualization of the global nomenclature history of the _Pelargonium_ and the _Geranium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_.
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_, named for the dull color of its foliage, has not been widely hybridized and cultural interest in the plant is limited to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
@@ -206,11 +206,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5NzIyNzM1LDE2NTYxNTM1MDIsLTE5ND
-AxOTI4MzAsOTg3NTg2NDgsMjQyNDE3MTc0LDk3MjQ2MDA5MCw3
-NzM5MzA4NTMsLTc1NjM1MzA1NiwtODkxNTYxMTY4LDQ2MDY0MT
-cxNCwxMTMyODE5NjQ0LC0xNzk1NzI5ODcxLDE0Njc1NDQ1NDYs
-LTgzNzc0NDYxNiwtMTQ5NDQ5MjIyMywtNDk2OTc1ODI0LDE2MT
-QyMzc3MDAsLTI3NTgxNjMxMCwxNDM4NDkzMjEyLC0xMDAyMDEy
-NzAwXX0=
+eyJoaXN0b3J5IjpbMTg0MDI0ODA4OCw5Njk3MjI3MzUsMTY1Nj
+E1MzUwMiwtMTk0MDE5MjgzMCw5ODc1ODY0OCwyNDI0MTcxNzQs
+OTcyNDYwMDkwLDc3MzkzMDg1MywtNzU2MzUzMDU2LC04OTE1Nj
+ExNjgsNDYwNjQxNzE0LDExMzI4MTk2NDQsLTE3OTU3Mjk4NzEs
+MTQ2NzU0NDU0NiwtODM3NzQ0NjE2LC0xNDk0NDkyMjIzLC00OT
+Y5NzU4MjQsMTYxNDIzNzcwMCwtMjc1ODE2MzEwLDE0Mzg0OTMy
+MTJdfQ==
 -->
