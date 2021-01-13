@@ -170,7 +170,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref3]:  Ibid.
 
-[^ref4]: Hartley, “Dickens and the Geranium,” p. 6; Ide, Jennifer M. 2017. "A Rose for Charles Dickens." _The Dickensian_ 113 (501) (Spring): 35-36. http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/rose-charles-dickens/docview/2056424376/se-2?accountid=11311.
+[^ref4]: Charles Dickens grew _P._ × _hortorum_ ‘Mrs. Pollock’ in pots and _P._ × _hortorum_ ‘General Tom Thumb’ in beds at Gad’s Hill Place. Hartley, “Dickens and the Geranium,” p. 6; Ide, Jennifer M. 2017. "A Rose for Charles Dickens." _The Dickensian_ 113 (501) (Spring): 35-36. http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/rose-charles-dickens/docview/2056424376/se-2?accountid=11311.
 
 [^ref5]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 
@@ -204,11 +204,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODQ5MzIxMiwtMTAwMjAxMjcwMCwtMj
-k3MDI1MzAyLC01MDAxMDUwNCw5NTQ0MDQzMTUsMjAyMTQ4NDg0
-NywtOTEwMTEzMTEzLDU1OTk4NTc2NywtMTc2Nzg3NDkxMywtOD
-AxNzc1MzY1LDE2NDY0NTAyNTEsNzg5NzMwMzI0LC0yMDU3NzIy
-NzQ0LC05NTAxNjU0NTIsMTk5MDIzNDA0MCwtOTE2MDc0NDEzLC
-0xOTk5NTEzNTYyLC00MTUzNDk3MjIsMjAwMjMyNjEzOCwzMDE4
-MDg1NThdfQ==
+eyJoaXN0b3J5IjpbMTM3NjEyMjc3NiwxNDM4NDkzMjEyLC0xMD
+AyMDEyNzAwLC0yOTcwMjUzMDIsLTUwMDEwNTA0LDk1NDQwNDMx
+NSwyMDIxNDg0ODQ3LC05MTAxMTMxMTMsNTU5OTg1NzY3LC0xNz
+Y3ODc0OTEzLC04MDE3NzUzNjUsMTY0NjQ1MDI1MSw3ODk3MzAz
+MjQsLTIwNTc3MjI3NDQsLTk1MDE2NTQ1MiwxOTkwMjM0MDQwLC
+05MTYwNzQ0MTMsLTE5OTk1MTM1NjIsLTQxNTM0OTcyMiwyMDAy
+MzI2MTM4XX0=
 -->
