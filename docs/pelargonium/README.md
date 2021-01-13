@@ -19,7 +19,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 <param ve-entity eid="Q157211" title="geranium" aliases="Geranium"> 
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
 <param ve-entity eid="Q18083598" title="Pelargonium inquinans"> 
-However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one, _Pelargonium_.[^ref4] The two genera _Pelargonium_ and _Geranium_ have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate over how to classify pelargoniums roiled in botanical circles of the mid-eighteenth and early nineteenth centuries, its popularity steadily increased, first as a greenhouse exotic and then as a collector’s showpiece. Once hardy garden varieties of the flower were made available to the masses, in the mid-nineteenth century, the public had grown accustomed to using the common name “geranium” for both types of plants, and for the most part, we continue to use it in this way today.
+However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one, _Pelargonium_.[^ref4] The two genera _Pelargonium_ and _Geranium_ have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate over how to classify pelargoniums roiled in botanical circles of the mid-eighteenth and early nineteenth centuries, its popularity steadily increased, first as a greenhouse exotic and then as a collector’s showpiece. Once nurseries made hardy garden varieties available to the masses, in the mid-nineteenth century, the public had grown accustomed to using the common name “geranium” for both types of plants, and for the most part, we continue to do so today.
 <param ve-image fit="contain" primary url="https://www.biodiversitylibrary.org/pageimage/53144785" title="Botanical drawings of _Pelargonium odoratissimum_ and _Pelargonium inquinans_, Biodiversity Heritage Library">
 
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the role of technology in the plant’s changing popularity during the long nineteenth century reveals a fervor of excitement for growing and displaying the flower, first under glass and then in garden beds, and for smelling and wearing its scent. This visual narrative of the pelargonium also elucidates some reasons that Dicken’s favored flower still infuses many municipal, domestic, and potted gardens with its brilliant hues, horseshoe-shaped foliage, and varied fragrances today.
@@ -204,11 +204,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQ5NDc4NTksLTI3NTgxNjMxMCwxND
-M4NDkzMjEyLC0xMDAyMDEyNzAwLC0yOTcwMjUzMDIsLTUwMDEw
-NTA0LDk1NDQwNDMxNSwyMDIxNDg0ODQ3LC05MTAxMTMxMTMsNT
-U5OTg1NzY3LC0xNzY3ODc0OTEzLC04MDE3NzUzNjUsMTY0NjQ1
-MDI1MSw3ODk3MzAzMjQsLTIwNTc3MjI3NDQsLTk1MDE2NTQ1Mi
-wxOTkwMjM0MDQwLC05MTYwNzQ0MTMsLTE5OTk1MTM1NjIsLTQx
-NTM0OTcyMl19
+eyJoaXN0b3J5IjpbMTYxNDIzNzcwMCwtMjc1ODE2MzEwLDE0Mz
+g0OTMyMTIsLTEwMDIwMTI3MDAsLTI5NzAyNTMwMiwtNTAwMTA1
+MDQsOTU0NDA0MzE1LDIwMjE0ODQ4NDcsLTkxMDExMzExMyw1NT
+k5ODU3NjcsLTE3Njc4NzQ5MTMsLTgwMTc3NTM2NSwxNjQ2NDUw
+MjUxLDc4OTczMDMyNCwtMjA1NzcyMjc0NCwtOTUwMTY1NDUyLD
+E5OTAyMzQwNDAsLTkxNjA3NDQxMywtMTk5OTUxMzU2MiwtNDE1
+MzQ5NzIyXX0=
 -->
