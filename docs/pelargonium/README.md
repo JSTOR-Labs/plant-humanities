@@ -84,7 +84,10 @@ The nomenclature confusion surrounding the _Pelargonium_ began when _Pelargonium
 <param ve-entity eid="Q465834" title="Charles Louis L'Héritier de Brutelle" aliases="Charles-Louis L’Héritier de Brutelle’s">
 <param ve-entity eid="Q2003356" title="Robert Sweet">
 <param ve-entity eid="Q3898877" title="Pelargonium zonale">
-As the interactive timeline above explained, botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ since the mid-eighteenth century. Indeed, Carl Linnaeus, in his 1753-book [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref8] Because Linnaean taxonomy was so revered at that time, his near contemporary Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargonium_ as an independent genus was overlooked.[^ref9] Eventually, in the early-1800s, Robert Sweet introduced a serious classification system to ease the shortfall in Linnaean nomenclature. Sweet created ten new genera in the _Geraniaceae_ family, and his five-volume study of pelargoniums, _[Geraniaceae: The Natural Order of Gerania](https://www.biodiversitylibrary.org/page/47461998)_, remains a crucial source of information about the plant.[^ref10] By this time, despite naturalists proving that the _Pelargonium_ was a distinct genus, pelargoniums had attained such popularity that the name “geranium” stuck.
+As the interactive timeline above explained, botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ since the mid-eighteenth century. Indeed, Carl Linnaeus, in his 1753-book [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref8] Because Linnaean taxonomy was so revered at that time, his near contemporary Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargonium_ as an independent genus was overlooked.[^ref9] 
+
+
+Eventually, in the early-1800s, Robert Sweet introduced a serious classification system to ease the shortfall in Linnaean nomenclature. Sweet created ten new genera in the _Geraniaceae_ family, and his five-volume study of pelargoniums, _[Geraniaceae: The Natural Order of Gerania](https://www.biodiversitylibrary.org/page/47461998)_, remains a crucial source of information about the plant.[^ref10] By this time, despite naturalists proving that the _Pelargonium_ was a distinct genus, pelargoniums had attained such popularity that the name “geranium” stuck.
 <param ve-image primary url="Pelargonium_geraniaceaev5swee_0334.jpg" title="_Pelargonium Glorianum. Queen of Portugal's Stork's-bill_,Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, New York Botanical Garden, LuEsther T. Mertz Library, Biodiversity Heritage Library">
 <param ve-image primary url="Pelargonium_geraniaceaev5swee_0335.jpg" title="_Pelargonium Glorianum. Queen of Portugal's Stork's-bill_, Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, New York Botanical Garden, LuEsther T. Mertz Library, Biodiversity Heritage Library">
 <param ve-image primary url="Pelargonium_geraniaceaev5swee_0336.jpg" title="_Pelargonium Glorianum. Queen of Portugal's Stork's-bill_, Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, New York Botanical Garden, LuEsther T. Mertz Library, Biodiversity Heritage Library">
@@ -211,11 +214,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTUzMDk3NzIsLTQ1NTM1ODExMSw1Mz
-Q4NjUyOTcsMTE3NjUxNDUyNSw5Njk3MjI3MzUsMTY1NjE1MzUw
-MiwtMTk0MDE5MjgzMCw5ODc1ODY0OCwyNDI0MTcxNzQsOTcyND
-YwMDkwLDc3MzkzMDg1MywtNzU2MzUzMDU2LC04OTE1NjExNjgs
-NDYwNjQxNzE0LDExMzI4MTk2NDQsLTE3OTU3Mjk4NzEsMTQ2Nz
-U0NDU0NiwtODM3NzQ0NjE2LC0xNDk0NDkyMjIzLC00OTY5NzU4
-MjRdfQ==
+eyJoaXN0b3J5IjpbLTQzMjE3MTg2MiwtMTkxNTMwOTc3MiwtND
+U1MzU4MTExLDUzNDg2NTI5NywxMTc2NTE0NTI1LDk2OTcyMjcz
+NSwxNjU2MTUzNTAyLC0xOTQwMTkyODMwLDk4NzU4NjQ4LDI0Mj
+QxNzE3NCw5NzI0NjAwOTAsNzczOTMwODUzLC03NTYzNTMwNTYs
+LTg5MTU2MTE2OCw0NjA2NDE3MTQsMTEzMjgxOTY0NCwtMTc5NT
+cyOTg3MSwxNDY3NTQ0NTQ2LC04Mzc3NDQ2MTYsLTE0OTQ0OTIy
+MjNdfQ==
 -->
