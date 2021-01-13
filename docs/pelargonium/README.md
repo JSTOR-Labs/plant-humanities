@@ -11,7 +11,7 @@
 <param ve-entity eid="Q5686" title="Charles Dickens">
 <param ve-entity eid="Q67479626" title="Kent" aliases="Kent.">
 <param ve-entity eid="Q3850458" title="Mary Dickens" aliases="Mamie Dickens">
-There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium.[^ref1] With their vibrant red flowers and sweet, rose scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color” at his country home, [Gad’s Hill Place](https://thegardenstrust.blog/2020/01/25/dickens-and-gardens/), in Kent.[^ref2] Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.”[^ref3]
+There was no flower on earth that Charles Dickens loved quite as much as the scarlet geranium.[^ref1] With their vibrant red flowers and sweet, rose scent, these cheerful plants always adorned the dining table and dominated the garden in a “blaze of color” at his country home, [Gad’s Hill Place](https://thegardenstrust.blog/2020/01/25/dickens-and-gardens/), in Kent.[^ref2] Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.”[^ref3] This evocative quote along with the author are remembered each year, when [The Dickens Fellowship](https://www.dickensfellowship.org/) places an ivy-and-red-geranium wreath at his grave on the anniversary of his death.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" title="Charles Dickens with his two daughters at Gad’s Hill Place. Behind them is a staged “theatre” of potted geraniums displayed beneath a bay window. _Charles Dickens with his daughters, Mamie Dickens and Catherine ('Katey') Elizabeth Macready Perugini (née Dickens)_, after Joseph Athanase Aufray, after a photograph by Mason & Co (Robert Hindry Mason), photogravure, published 18 December 1869, National Gallery of Art, Wikimedia Commons">
 <param ve-image fit="contain" url="Pelargonium_CharlesDickensWindow_FLICKR.jpg"title="Stained glass window with portrait of Charles Dickens encircled by his favorite flower, Charles Dickens Birthplace Museum, Portsmouth, England, Fred Rockwood, 2010, Flickr, CC BY-NC-SA 2.0">
 <param ve-image fit="contain" url="Pelargonium_CharlesDickensMuseum_FLICKR.jpg" title="Flower bed of brilliant red pelargoniums, Charles Dickens Birthplace Museum, Portsmouth, England, Mark Hooper, 2017, Flickr, CC BY-NC-SA 2.0">
@@ -202,11 +202,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDEwNTA0LDk1NDQwNDMxNSwyMDIxND
-g0ODQ3LC05MTAxMTMxMTMsNTU5OTg1NzY3LC0xNzY3ODc0OTEz
-LC04MDE3NzUzNjUsMTY0NjQ1MDI1MSw3ODk3MzAzMjQsLTIwNT
-c3MjI3NDQsLTk1MDE2NTQ1MiwxOTkwMjM0MDQwLC05MTYwNzQ0
-MTMsLTE5OTk1MTM1NjIsLTQxNTM0OTcyMiwyMDAyMzI2MTM4LD
-MwMTgwODU1OCwtMTYwNjMwNzU4LC0xNTcwMzcwOTk0LDQxMTY0
-MDAyM119
+eyJoaXN0b3J5IjpbLTI5NzAyNTMwMiwtNTAwMTA1MDQsOTU0ND
+A0MzE1LDIwMjE0ODQ4NDcsLTkxMDExMzExMyw1NTk5ODU3Njcs
+LTE3Njc4NzQ5MTMsLTgwMTc3NTM2NSwxNjQ2NDUwMjUxLDc4OT
+czMDMyNCwtMjA1NzcyMjc0NCwtOTUwMTY1NDUyLDE5OTAyMzQw
+NDAsLTkxNjA3NDQxMywtMTk5OTUxMzU2MiwtNDE1MzQ5NzIyLD
+IwMDIzMjYxMzgsMzAxODA4NTU4LC0xNjA2MzA3NTgsLTE1NzAz
+NzA5OTRdfQ==
 -->
