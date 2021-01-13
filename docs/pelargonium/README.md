@@ -57,7 +57,7 @@ As the visualization at right shows, several key differences can be observed by 
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
-The _Pelargonium_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape of South Africa, which is a biodiversity hotspot. It is not surprising, then, that Portuguese traders first harvested pelargoniums, both live plants and seeds, from the Cape in the late fifteenth or early sixteenth centuries. They transported that fragile and precious cargo to Europe on their return from making colonial voyages.
+The _Pelargonium_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape of South Africa: a biodiversity hotspot. It is not surprising, then, that Portuguese traders first harvested pelargoniums, both live plants and seeds, from the Cape in the late fifteenth or early sixteenth centuries. They transported that fragile and precious cargo to Europe on their return from making colonial voyages.
 <param ve-map center="-7.347, 72.454" zoom="2.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -211,11 +211,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTgyMDk4MiwxNzk1MzI2NjgxLDE1Mj
-E5NzQ0MDgsNTgyNTE2OTkwLC0yMDc4ODIwOTAxLC04ODQ2NjU1
-MjMsMTI1ODI5Njk0NywxNTkxODg0OTUwLC0xMDgwOTUxMjc0LC
-02MTAxMTQwMDksLTMzOTgyNjUwOSwtMTA3MjE0Nzc3Niw5Njg5
-ODkyOTUsLTE5NDY4MzcyODEsNDIxNTIxNDc2LDE1ODAxODg3Ni
-wzNTk5MTkzMzksMTE5NDc5ODYwNiwtMTcyMzE0NzkyMCwxODE1
-MzgwMjkzXX0=
+eyJoaXN0b3J5IjpbLTIwMjczNDQ4NDksLTM1OTgyMDk4MiwxNz
+k1MzI2NjgxLDE1MjE5NzQ0MDgsNTgyNTE2OTkwLC0yMDc4ODIw
+OTAxLC04ODQ2NjU1MjMsMTI1ODI5Njk0NywxNTkxODg0OTUwLC
+0xMDgwOTUxMjc0LC02MTAxMTQwMDksLTMzOTgyNjUwOSwtMTA3
+MjE0Nzc3Niw5Njg5ODkyOTUsLTE5NDY4MzcyODEsNDIxNTIxND
+c2LDE1ODAxODg3NiwzNTk5MTkzMzksMTE5NDc5ODYwNiwtMTcy
+MzE0NzkyMF19
 -->
