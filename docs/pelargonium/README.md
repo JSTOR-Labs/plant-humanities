@@ -37,14 +37,14 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 <param ve-entity eid="Q25365" title="Gruidae" aliases="crane"> 
 <param ve-entity eid="Q3259077" title="heron"> 
 <param ve-entity eid="Q28507" title="Ciconiidae"> 
-The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the family _Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, at least superficially, one another. The name _Pelargonium_ comes from the Greek _pelargos_ (“stork”), which alludes to the plant’s long, beak-shaped fruit. Similarly, _Geranium_ from _géranos_ (“crane”) and _Erodium_ from _erodios_ (“heron”) describe the columnar fruit capsules characteristic of some species.
+The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the family _Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, at least superficially, one another. The name _Pelargonium_ comes from the Greek _pelargos_ (“stork”), which alludes to the plant’s long, beak-shaped fruit. Similarly, _Geranium_ from _géranos_ (“crane”) and _Erodium_ from _erodios_ (“heron”) describe the columnar fruit capsules characteristic of some species. Yet, there are many morphological traits that distinguish members of the genera _Pelargonium_ and _Geranium_ from one another. 
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="The dried specimen on this herbarium sheet shows the beak-shaped fruit for which the pelargonium was named. Pelargonium alchemilloides (L.) L'Hér.">
 
 <param ve-entity eid="Q183252" title="morphology"> 
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
 <param ve-entity eid="Q687699" title="Nectary" aliases="nectaries"> 
 <param ve-entity eid="Q103129" title="stamen" aliases="stamens"> 
-Morphological traits not only inspired the names _Pelargonium_ and _Geranium_, but also distinguish members of the two genera. As this visualization shows, several key differences can be observed by comparing the reproductive systems of the plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. Another difference is that, while the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. Yet another divergence between the two is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens. Finally, while _Pelargonium_ flowers can be many vivid shades of scarlet, purple, white, or pink, those of the _Geranium_ can be dark blue, purple, pink, or white—though they are never red.
+As this visualization shows, several key differences can be observed by comparing the reproductive systems of the plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. Another difference is that, while the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. Yet another divergence between the two is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens. Finally, while _Pelargonium_ flowers can be many vivid shades of scarlet, purple, white, or pink, those of the _Geranium_ can be dark blue, purple, pink, or white—though they are never red.
 <param ve-image layers url="https://free.iiifhosting.com/iiif/946417abf874969ccb7ed3e11de335c107f89d030c8a7d27fe55a2c9892bb2c1/info.json" title="Differences between Geranium and Pelargonium flowers, Verónica Matallana">
 <param ve-image url="https://free.iiifhosting.com/iiif/ba2f217efdf25d87a4fc0e79c0b096245ef26d4ebde668bd65af649d05b2deb1/info.json" title="“Géranium platypetalum” & “Pelargonium zonale Wild et hybrids,” _Atlas des plantes de jardins et d'appartements exotiques et européennes: 320 planches coloriées inédites, dessinées d'après nature, représentant 370 plantes, accompagnées d'un texte explicatif donnant la description, l'origine, le mode de culture, de multiplication et les usages des fleurs les plus généralement cultivées_, D. Bois, from Bibliothèque Nationale de France, département Sciences et techniques, 8-S-9126">
 
@@ -212,11 +212,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTMyNjY4MSwxNTIxOTc0NDA4LDU4Mj
-UxNjk5MCwtMjA3ODgyMDkwMSwtODg0NjY1NTIzLDEyNTgyOTY5
-NDcsMTU5MTg4NDk1MCwtMTA4MDk1MTI3NCwtNjEwMTE0MDA5LC
-0zMzk4MjY1MDksLTEwNzIxNDc3NzYsOTY4OTg5Mjk1LC0xOTQ2
-ODM3MjgxLDQyMTUyMTQ3NiwxNTgwMTg4NzYsMzU5OTE5MzM5LD
-ExOTQ3OTg2MDYsLTE3MjMxNDc5MjAsMTgxNTM4MDI5MywyMDg5
-MjgzMTg1XX0=
+eyJoaXN0b3J5IjpbMjAxMTYwOTU4MCwxNzk1MzI2NjgxLDE1Mj
+E5NzQ0MDgsNTgyNTE2OTkwLC0yMDc4ODIwOTAxLC04ODQ2NjU1
+MjMsMTI1ODI5Njk0NywxNTkxODg0OTUwLC0xMDgwOTUxMjc0LC
+02MTAxMTQwMDksLTMzOTgyNjUwOSwtMTA3MjE0Nzc3Niw5Njg5
+ODkyOTUsLTE5NDY4MzcyODEsNDIxNTIxNDc2LDE1ODAxODg3Ni
+wzNTk5MTkzMzksMTE5NDc5ODYwNiwtMTcyMzE0NzkyMCwxODE1
+MzgwMjkzXX0=
 -->
