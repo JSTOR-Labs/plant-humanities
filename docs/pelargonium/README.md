@@ -22,7 +22,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one, _Pelargonium_.[^ref4] The two genera _Pelargonium_ and _Geranium_ have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate over how to classify pelargoniums roiled in botanical circles of the mid-eighteenth and early nineteenth centuries, its popularity steadily increased, first as a greenhouse exotic and then as a collector’s showpiece. Once nurseries made hardy garden varieties available to the masses, in the mid-nineteenth century, the public had grown accustomed to using the common name “geranium” for both types of plants, and for the most part, we continue to do so today.
 <param ve-image fit="contain" primary url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n118_w1253" title="Charles Dickens grew 'Miss Pollock' pelargoniums in pots at Gad's Hill Place, _Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 
-So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the role of technology in the plant’s changing popularity during the long nineteenth century reveals a fervor of excitement for growing and displaying the flower, first under glass and then in garden beds, and for smelling and wearing its scent. This visual narrative of the pelargonium also elucidates some reasons that Dicken’s favored flower still infuses many municipal, domestic, and potted gardens with its brilliant hues, horseshoe-shaped foliage, and varied fragrances today.
+So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the plant’s popularity during the long nineteenth century reveals how horticultural technologies fueled cultural excitement for growing and displaying the flower, first in glasshouses and later in garden beds, in tandem with fashions for smelling and wearing its varied scents. This visual narrative also elucidates some reasons that Dicken’s favored flower still infuses gardens with its brilliant hues, painted foliage, and pleasurable fragrances today.
 <param ve-image fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
 <param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Pelargoniums bloom in garden vases, Bowood House, village of Derry Hill, England, alh1, 2015, Flickr, CC BY-NC-ND 2.0">
 <param ve-image fit="contain" url="Pelargonium_SanDiegoBotanicalGarden_Flickr.jpg" title="Pelargonium 'Arcturus', San Diego Botanic Garden, African Garden, cultivar413, 2019, Flickr, CC BY 2.0">
@@ -203,11 +203,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Njk3NTgyNCwxNjE0MjM3NzAwLC0yNz
-U4MTYzMTAsMTQzODQ5MzIxMiwtMTAwMjAxMjcwMCwtMjk3MDI1
-MzAyLC01MDAxMDUwNCw5NTQ0MDQzMTUsMjAyMTQ4NDg0NywtOT
-EwMTEzMTEzLDU1OTk4NTc2NywtMTc2Nzg3NDkxMywtODAxNzc1
-MzY1LDE2NDY0NTAyNTEsNzg5NzMwMzI0LC0yMDU3NzIyNzQ0LC
-05NTAxNjU0NTIsMTk5MDIzNDA0MCwtOTE2MDc0NDEzLC0xOTk5
-NTEzNTYyXX0=
+eyJoaXN0b3J5IjpbLTE0OTQ0OTIyMjMsLTQ5Njk3NTgyNCwxNj
+E0MjM3NzAwLC0yNzU4MTYzMTAsMTQzODQ5MzIxMiwtMTAwMjAx
+MjcwMCwtMjk3MDI1MzAyLC01MDAxMDUwNCw5NTQ0MDQzMTUsMj
+AyMTQ4NDg0NywtOTEwMTEzMTEzLDU1OTk4NTc2NywtMTc2Nzg3
+NDkxMywtODAxNzc1MzY1LDE2NDY0NTAyNTEsNzg5NzMwMzI0LC
+0yMDU3NzIyNzQ0LC05NTAxNjU0NTIsMTk5MDIzNDA0MCwtOTE2
+MDc0NDEzXX0=
 -->
