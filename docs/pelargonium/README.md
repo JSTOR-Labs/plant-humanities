@@ -85,7 +85,7 @@ This visualization of the global nomenclature history of the _Pelargonium_ and t
 <param ve-entity eid="Q465834" title="Charles Louis L'Héritier de Brutelle" aliases="Charles-Louis L’Héritier de Brutelle’s">
 <param ve-entity eid="Q2003356" title="Robert Sweet">
 <param ve-entity eid="Q3898877" title="Pelargonium zonale">
-As the interactive timeline above explains, botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ since the mid-eighteenth century. Indeed, Carl Linnaeus, in his 1753-book [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref8] Because Linnaean taxonomy was so revered at that time, his near contemporary Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargonium_ as an independent genus was overlooked.[^ref9] 
+As the interactive timeline above explains, botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ since the mid-eighteenth century. Indeed, Carl Linnaeus, in his 1753-book [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref8] Because Linnaean taxonomy was so revered at that time, his near contemporary Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargonium_ as an independent genus was overlooked.[^ref9] The two stunning portraits of pelargoniums, at right, were designed by the accomplished artists Pierre Joseph Redouté for L’Héritier de Brutelle’s 
 <param ve-image primary url="https://ia902708.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000519287&itemPath=%2F17%2Fitems%2Fmobot31753000519287&server=ia902708.us.archive.org&page=n34_w665" title="Pierre Joseph Redouté, _Pelargonium graveolens_, Charles Louis Héritier de Brutelle, _Geraniologia: seu, E̲r̲o̲d̲i̲i̲, P̲e̲l̲a̲r̲g̲o̲n̲i̲i̲, G̲e̲r̲a̲n̲i̲i̲, M̲o̲n̲s̲o̲n̲i̲̲æ et G̲r̲i̲e̲l̲i̲: historia iconibus illustrata_, Paris: Typis Petri-Francisci Didot: Prostat apud Ludovicum Nicolaum Prévost,1787-1788, Missouri Botanical Garden, Biodiversity Heritage Library">
 <param ve-image url="https://ia802708.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000519287&itemPath=%2F17%2Fitems%2Fmobot31753000519287&server=ia802708.us.archive.org&page=n48_w1039" title="Pierre Joseph Redouté, _Pelargonium lateripes_, Charles Louis Héritier de Brutelle, _Geraniologia: seu, E̲r̲o̲d̲i̲i̲, P̲e̲l̲a̲r̲g̲o̲n̲i̲i̲, G̲e̲r̲a̲n̲i̲i̲, M̲o̲n̲s̲o̲n̲i̲̲æ et G̲r̲i̲e̲l̲i̲: historia iconibus illustrata_, Paris: Typis Petri-Francisci Didot: Prostat apud Ludovicum Nicolaum Prévost,1787-1788, Missouri Botanical Garden, Biodiversity Heritage Library">
 
@@ -216,11 +216,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxNTIxNDc2LDE1ODAxODg3NiwzNTk5MT
-kzMzksMTE5NDc5ODYwNiwtMTcyMzE0NzkyMCwxODE1MzgwMjkz
-LDIwODkyODMxODUsNzM2NTAxMTMzLDUxNTMzNzgyNSwyODAzNj
-c3NDgsLTY4NzM1ODczOCwxMTM5Mzc0NDQsODkyOTMwMTIsLTEx
-NTQ3NjUyMzEsLTE4NjU1NzgwMzYsLTE5MTUzMDk3NzIsLTQ1NT
-M1ODExMSw1MzQ4NjUyOTcsMTE3NjUxNDUyNSw5Njk3MjI3MzVd
+eyJoaXN0b3J5IjpbMzM1MzY1ODgwLDQyMTUyMTQ3NiwxNTgwMT
+g4NzYsMzU5OTE5MzM5LDExOTQ3OTg2MDYsLTE3MjMxNDc5MjAs
+MTgxNTM4MDI5MywyMDg5MjgzMTg1LDczNjUwMTEzMyw1MTUzMz
+c4MjUsMjgwMzY3NzQ4LC02ODczNTg3MzgsMTEzOTM3NDQ0LDg5
+MjkzMDEyLC0xMTU0NzY1MjMxLC0xODY1NTc4MDM2LC0xOTE1Mz
+A5NzcyLC00NTUzNTgxMTEsNTM0ODY1Mjk3LDExNzY1MTQ1MjVd
 fQ==
 -->
