@@ -172,6 +172,8 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref5]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 
+[^ref5]: John Gerard, _The herball, or, Generall historie of plantes_, London: Printed by Adam Islip Joice Norton and Richard Whitakers,anno 1633. [https://www.biodiversitylibrary.org/page/51905442](https://www.biodiversitylibrary.org/page/51905442)
+
 [^ref6]: Sherard, William. _Schola botanica sive catalogus plantarum, quas ab aliquot annis in Horto Regio Parisiensis Studiosis indigitavit vir clarissimvs Joseph Pitton Tournefort, D. M. ut et Pauli Hermanni P.P. Paradisi Batavi prodromus, In quo Planta rariores omnes, in Batavorum Hortis hactenus cultae, & plurinam partem à nemine antea descriptae recensentur_. Amstelaedami: Apud Henricum Wetstenium, 1689. [https://bibdigital.rjb.csic.es/idurl/1/13582](https://bibdigital.rjb.csic.es/idurl/1/13582); Taylor, Judith M. _Visions of Loveliness: Great Flower Breeders of the Past_. Athens, OH: Ohio University Press, 2014, pp. 366; Wilkinson, Anne. _The Passion for Pelargoniums_. Stroud: The History Press, 2007, pp. 21-22.
 
 [^ref7]: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.
@@ -202,11 +204,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjIxMzI4MjAsLTg5MTU2MTE2OCw0Nj
-A2NDE3MTQsMTEzMjgxOTY0NCwtMTc5NTcyOTg3MSwxNDY3NTQ0
-NTQ2LC04Mzc3NDQ2MTYsLTE0OTQ0OTIyMjMsLTQ5Njk3NTgyNC
-wxNjE0MjM3NzAwLC0yNzU4MTYzMTAsMTQzODQ5MzIxMiwtMTAw
-MjAxMjcwMCwtMjk3MDI1MzAyLC01MDAxMDUwNCw5NTQ0MDQzMT
-UsMjAyMTQ4NDg0NywtOTEwMTEzMTEzLDU1OTk4NTc2NywtMTc2
-Nzg3NDkxM119
+eyJoaXN0b3J5IjpbNjA3MjQ5NzcwLC04OTE1NjExNjgsNDYwNj
+QxNzE0LDExMzI4MTk2NDQsLTE3OTU3Mjk4NzEsMTQ2NzU0NDU0
+NiwtODM3NzQ0NjE2LC0xNDk0NDkyMjIzLC00OTY5NzU4MjQsMT
+YxNDIzNzcwMCwtMjc1ODE2MzEwLDE0Mzg0OTMyMTIsLTEwMDIw
+MTI3MDAsLTI5NzAyNTMwMiwtNTAwMTA1MDQsOTU0NDA0MzE1LD
+IwMjE0ODQ4NDcsLTkxMDExMzExMyw1NTk5ODU3NjcsLTE3Njc4
+NzQ5MTNdfQ==
 -->
