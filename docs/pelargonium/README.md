@@ -54,7 +54,7 @@ Morphological traits not only inspired the names _Pelargonium_ and _Geranium_, b
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
-The _Pelargonium_ is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. There are more than 280 accepted _Pelargonium_ species and the majority of them are endemic to the Cape of South Africa, which is a biodiversity hotspot. It is not surprising, then, that Portuguese and Dutch traders first harvested pelargoniums from that location in the late 1500s. They then transported the plants—a fragile and precious cargo—to Europe on their return from making colonial voyages.
+The _Pelargonium_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape of South Africa, which is a biodiversity hotspot. It is not surprising, then, that Portuguese and Dutch traders first harvested pelargoniums, both live plants and seeds, from the Cape in the late 1500s. They then transported that fragile and precious cargo to Europe on their return from making colonial voyages.
 <param ve-map center="-7.347, 72.454" zoom="2.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -203,11 +203,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU3Mjk4NzEsMTQ2NzU0NDU0NiwtOD
-M3NzQ0NjE2LC0xNDk0NDkyMjIzLC00OTY5NzU4MjQsMTYxNDIz
-NzcwMCwtMjc1ODE2MzEwLDE0Mzg0OTMyMTIsLTEwMDIwMTI3MD
-AsLTI5NzAyNTMwMiwtNTAwMTA1MDQsOTU0NDA0MzE1LDIwMjE0
-ODQ4NDcsLTkxMDExMzExMyw1NTk5ODU3NjcsLTE3Njc4NzQ5MT
-MsLTgwMTc3NTM2NSwxNjQ2NDUwMjUxLDc4OTczMDMyNCwtMjA1
-NzcyMjc0NF19
+eyJoaXN0b3J5IjpbMTEzMjgxOTY0NCwtMTc5NTcyOTg3MSwxND
+Y3NTQ0NTQ2LC04Mzc3NDQ2MTYsLTE0OTQ0OTIyMjMsLTQ5Njk3
+NTgyNCwxNjE0MjM3NzAwLC0yNzU4MTYzMTAsMTQzODQ5MzIxMi
+wtMTAwMjAxMjcwMCwtMjk3MDI1MzAyLC01MDAxMDUwNCw5NTQ0
+MDQzMTUsMjAyMTQ4NDg0NywtOTEwMTEzMTEzLDU1OTk4NTc2Ny
+wtMTc2Nzg3NDkxMywtODAxNzc1MzY1LDE2NDY0NTAyNTEsNzg5
+NzMwMzI0XX0=
 -->
