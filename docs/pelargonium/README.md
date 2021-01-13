@@ -65,7 +65,7 @@ The _Pelargonium_, which includes more than 280 accepted species, is native to S
 <param ve-entity eid="Q66569" title="Paul Hermann">
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
 <param ve-entity eid="Q43631" title="Leiden">
-Of the many _Pelargonium_ species, _Pelargonium triste_ was probably the first to reach Europe around 1600, and it was subsequently introduced to France and Britain.[^ref5] By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula—and brought back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref6] Hermann’s 1689-book _[Paradisi Batavi Prodromus](https://bibdigital.rjb.csic.es/idurl/1/13582)_ discusses a pelargonium, though its identity remains a mystery because there was no shared language for identifying the plant at the time.[^ref7]
+Of the many _Pelargonium_ species, _Pelargonium triste_ was probably the first to reach Europe around 1600, and it was subsequently introduced to France and Britain.[^ref5] By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula—and brought back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref6] Hermann’s 1689-book _[Paradisi Batavi Prodromus](https://bibdigital.rjb.csic.es/idurl/1/13582)_ discusses a pelargonium, though its identity remains a mystery because there was not any shared language for identifying plants at the time.[^ref7]
 <param ve-map center="-24.569, 25.879" zoom="5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
@@ -211,11 +211,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjczNDQ4NDksLTM1OTgyMDk4MiwxNz
-k1MzI2NjgxLDE1MjE5NzQ0MDgsNTgyNTE2OTkwLC0yMDc4ODIw
-OTAxLC04ODQ2NjU1MjMsMTI1ODI5Njk0NywxNTkxODg0OTUwLC
-0xMDgwOTUxMjc0LC02MTAxMTQwMDksLTMzOTgyNjUwOSwtMTA3
-MjE0Nzc3Niw5Njg5ODkyOTUsLTE5NDY4MzcyODEsNDIxNTIxND
-c2LDE1ODAxODg3NiwzNTk5MTkzMzksMTE5NDc5ODYwNiwtMTcy
-MzE0NzkyMF19
+eyJoaXN0b3J5IjpbMTcyNzUxNTIzOSwtMzU5ODIwOTgyLDE3OT
+UzMjY2ODEsMTUyMTk3NDQwOCw1ODI1MTY5OTAsLTIwNzg4MjA5
+MDEsLTg4NDY2NTUyMywxMjU4Mjk2OTQ3LDE1OTE4ODQ5NTAsLT
+EwODA5NTEyNzQsLTYxMDExNDAwOSwtMzM5ODI2NTA5LC0xMDcy
+MTQ3Nzc2LDk2ODk4OTI5NSwtMTk0NjgzNzI4MSw0MjE1MjE0Nz
+YsMTU4MDE4ODc2LDM1OTkxOTMzOSwxMTk0Nzk4NjA2LC0xNzIz
+MTQ3OTIwXX0=
 -->
