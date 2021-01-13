@@ -34,7 +34,7 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 <param ve-entity eid="Q155945" title="Geraniaceae"> 
 <param ve-entity eid="Q147768" title="capsule" aliases="capsules"><param ve-entity eid="Q162920" title="Erodium"> 
 The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the family _Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, at least superficially, one another. The name _Pelargonium_ comes from the Greek _pelargos_ (“[stork](https://proxy.europeana.eu/2022608/TFM_SVB_NDM_00535?view=http%3A%2F%2Fmm.dimu.no%2Fimage%2F01SzmY7g3Z%3Fdimension%3D800x800&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi)”), which alludes to the plant’s long, beak-shaped fruit. Similarly, _Geranium_ from _géranos_ (“crane”) and _Erodium_ from _erodios_ (“heron”) describe the columnar fruit capsules characteristic of some species.
-<param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="Pelargonium alchemilloides (L.) L'Hér.">
+<param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="The dried specimen on this herbarium sheet shows the beak-shaped fruit for which the pelargonium was named. Pelargonium alchemilloides (L.) L'Hér.">
 
 <param ve-entity eid="Q183252" title="morphology"> 
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
@@ -203,11 +203,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzc0NDYxNiwtMTQ5NDQ5MjIyMywtND
-k2OTc1ODI0LDE2MTQyMzc3MDAsLTI3NTgxNjMxMCwxNDM4NDkz
-MjEyLC0xMDAyMDEyNzAwLC0yOTcwMjUzMDIsLTUwMDEwNTA0LD
-k1NDQwNDMxNSwyMDIxNDg0ODQ3LC05MTAxMTMxMTMsNTU5OTg1
-NzY3LC0xNzY3ODc0OTEzLC04MDE3NzUzNjUsMTY0NjQ1MDI1MS
-w3ODk3MzAzMjQsLTIwNTc3MjI3NDQsLTk1MDE2NTQ1MiwxOTkw
-MjM0MDQwXX0=
+eyJoaXN0b3J5IjpbMTQ2NzU0NDU0NiwtODM3NzQ0NjE2LC0xND
+k0NDkyMjIzLC00OTY5NzU4MjQsMTYxNDIzNzcwMCwtMjc1ODE2
+MzEwLDE0Mzg0OTMyMTIsLTEwMDIwMTI3MDAsLTI5NzAyNTMwMi
+wtNTAwMTA1MDQsOTU0NDA0MzE1LDIwMjE0ODQ4NDcsLTkxMDEx
+MzExMyw1NTk5ODU3NjcsLTE3Njc4NzQ5MTMsLTgwMTc3NTM2NS
+wxNjQ2NDUwMjUxLDc4OTczMDMyNCwtMjA1NzcyMjc0NCwtOTUw
+MTY1NDUyXX0=
 -->
