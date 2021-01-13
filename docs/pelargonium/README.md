@@ -22,7 +22,7 @@ However, you might be surprised to learn that the scarlet flower with which Dick
 <param ve-image fit="contain" primary url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n118_w1253" title="Charles Dickens grew 'Miss Pollock' pelargoniums in pots at Gad's Hill Place, _Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n120_w927" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 
-So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the plant’s popularity during the long nineteenth century reveals how advances in horticulture fueled demand for the flower as an ornamental, first to grow in glasshouses and later in garden beds, and as an aromatic crop plant. This visual essay also elucidates some reasons that Dicken’s favored flower still infuses gardens with its brilliant hues, dazzling zonal leaves, and pleasant fragrance today.
+So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the plant’s popularity during the long nineteenth century reveals how advances in horticulture fueled demand for the flower as an ornamental, first to grow in glasshouses and later in garden beds, and as an aromatic crop plant. This visual essay also elucidates some reasons that Dicken’s favored flower infuses gardens with its brilliant hues, dazzling leaves, and pleasant fragrance to this day.
 <param ve-image fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
 <param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Pelargoniums bloom in garden vases, Bowood House, village of Derry Hill, England, alh1, 2015, Flickr, CC BY-NC-ND 2.0">
 <param ve-image fit="contain" url="Pelargonium_SanDiegoBotanicalGarden_Flickr.jpg" title="Pelargonium 'Arcturus', San Diego Botanic Garden, African Garden, cultivar413, 2019, Flickr, CC BY 2.0">
@@ -212,11 +212,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyNTE2OTkwLC0yMDc4ODIwOTAxLC04OD
-Q2NjU1MjMsMTI1ODI5Njk0NywxNTkxODg0OTUwLC0xMDgwOTUx
-Mjc0LC02MTAxMTQwMDksLTMzOTgyNjUwOSwtMTA3MjE0Nzc3Ni
-w5Njg5ODkyOTUsLTE5NDY4MzcyODEsNDIxNTIxNDc2LDE1ODAx
-ODg3NiwzNTk5MTkzMzksMTE5NDc5ODYwNiwtMTcyMzE0NzkyMC
-wxODE1MzgwMjkzLDIwODkyODMxODUsNzM2NTAxMTMzLDUxNTMz
-NzgyNV19
+eyJoaXN0b3J5IjpbMTUyMTk3NDQwOCw1ODI1MTY5OTAsLTIwNz
+g4MjA5MDEsLTg4NDY2NTUyMywxMjU4Mjk2OTQ3LDE1OTE4ODQ5
+NTAsLTEwODA5NTEyNzQsLTYxMDExNDAwOSwtMzM5ODI2NTA5LC
+0xMDcyMTQ3Nzc2LDk2ODk4OTI5NSwtMTk0NjgzNzI4MSw0MjE1
+MjE0NzYsMTU4MDE4ODc2LDM1OTkxOTMzOSwxMTk0Nzk4NjA2LC
+0xNzIzMTQ3OTIwLDE4MTUzODAyOTMsMjA4OTI4MzE4NSw3MzY1
+MDExMzNdfQ==
 -->
