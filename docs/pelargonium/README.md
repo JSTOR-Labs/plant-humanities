@@ -20,7 +20,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
 <param ve-entity eid="Q18083598" title="Pelargonium inquinans"> 
 However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one, _Pelargonium_.[^ref4] The two genera _Pelargonium_ and _Geranium_ have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate over how to classify pelargoniums roiled in botanical circles of the mid-eighteenth and early nineteenth centuries, its popularity steadily increased, first as a greenhouse exotic and then as a collector’s showpiece. Once nurseries made hardy garden varieties available to the masses, in the mid-nineteenth century, the public had grown accustomed to using the common name “geranium” for both types of plants, and for the most part, we continue to do so today.
-<param ve-image fit="contain" primary url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n118_w1253" title="Charles Dickens grew 'Miss Pollock_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
+<param ve-image fit="contain" primary url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n118_w1253" title="Charles Dickens grew 'Miss Pollock' pelargoniums in pots at Gad's Hill Place, _Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the role of technology in the plant’s changing popularity during the long nineteenth century reveals a fervor of excitement for growing and displaying the flower, first under glass and then in garden beds, and for smelling and wearing its scent. This visual narrative of the pelargonium also elucidates some reasons that Dicken’s favored flower still infuses many municipal, domestic, and potted gardens with its brilliant hues, horseshoe-shaped foliage, and varied fragrances today.
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" title="Charles Dickens’ favored plant the _Pelargonium inquinans_ commonly known as a geranium, ViGA, 2017, Wikimedia Commons, CC BY-SA 4.0">
@@ -204,11 +204,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY4NzQyOTAsMTYxNDIzNzcwMCwtMj
-c1ODE2MzEwLDE0Mzg0OTMyMTIsLTEwMDIwMTI3MDAsLTI5NzAy
-NTMwMiwtNTAwMTA1MDQsOTU0NDA0MzE1LDIwMjE0ODQ4NDcsLT
-kxMDExMzExMyw1NTk5ODU3NjcsLTE3Njc4NzQ5MTMsLTgwMTc3
-NTM2NSwxNjQ2NDUwMjUxLDc4OTczMDMyNCwtMjA1NzcyMjc0NC
-wtOTUwMTY1NDUyLDE5OTAyMzQwNDAsLTkxNjA3NDQxMywtMTk5
-OTUxMzU2Ml19
+eyJoaXN0b3J5IjpbMjUxOTc3MjczLDE2MTQyMzc3MDAsLTI3NT
+gxNjMxMCwxNDM4NDkzMjEyLC0xMDAyMDEyNzAwLC0yOTcwMjUz
+MDIsLTUwMDEwNTA0LDk1NDQwNDMxNSwyMDIxNDg0ODQ3LC05MT
+AxMTMxMTMsNTU5OTg1NzY3LC0xNzY3ODc0OTEzLC04MDE3NzUz
+NjUsMTY0NjQ1MDI1MSw3ODk3MzAzMjQsLTIwNTc3MjI3NDQsLT
+k1MDE2NTQ1MiwxOTkwMjM0MDQwLC05MTYwNzQ0MTMsLTE5OTk1
+MTM1NjJdfQ==
 -->
