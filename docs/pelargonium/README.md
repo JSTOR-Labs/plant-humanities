@@ -23,7 +23,6 @@ However, you might be surprised to learn that the scarlet flower with which Dick
 <param ve-image fit="contain" primary url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n118_w1253" title="Charles Dickens grew 'Miss Pollock' pelargoniums in pots at Gad's Hill Place, _Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ (scarlet or otherwise) to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the role of technology in the plant’s changing popularity during the long nineteenth century reveals a fervor of excitement for growing and displaying the flower, first under glass and then in garden beds, and for smelling and wearing its scent. This visual narrative of the pelargonium also elucidates some reasons that Dicken’s favored flower still infuses many municipal, domestic, and potted gardens with its brilliant hues, horseshoe-shaped foliage, and varied fragrances today.
-<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/d/da/Scarlet_geranium.jpg" title="Charles Dickens’ favored plant the _Pelargonium inquinans_ commonly known as a geranium, ViGA, 2017, Wikimedia Commons, CC BY-SA 4.0">
 <param ve-image fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
 <param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Pelargoniums bloom in garden vases, Bowood House, village of Derry Hill, England, alh1, 2015, Flickr, CC BY-NC-ND 2.0">
 <param ve-image fit="contain" url="Pelargonium_SanDiegoBotanicalGarden_Flickr.jpg" title="Pelargonium 'Arcturus', San Diego Botanic Garden, African Garden, cultivar413, 2019, Flickr, CC BY 2.0">
@@ -204,11 +203,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxOTc3MjczLDE2MTQyMzc3MDAsLTI3NT
-gxNjMxMCwxNDM4NDkzMjEyLC0xMDAyMDEyNzAwLC0yOTcwMjUz
-MDIsLTUwMDEwNTA0LDk1NDQwNDMxNSwyMDIxNDg0ODQ3LC05MT
-AxMTMxMTMsNTU5OTg1NzY3LC0xNzY3ODc0OTEzLC04MDE3NzUz
-NjUsMTY0NjQ1MDI1MSw3ODk3MzAzMjQsLTIwNTc3MjI3NDQsLT
-k1MDE2NTQ1MiwxOTkwMjM0MDQwLC05MTYwNzQ0MTMsLTE5OTk1
-MTM1NjJdfQ==
+eyJoaXN0b3J5IjpbLTQ5Njk3NTgyNCwxNjE0MjM3NzAwLC0yNz
+U4MTYzMTAsMTQzODQ5MzIxMiwtMTAwMjAxMjcwMCwtMjk3MDI1
+MzAyLC01MDAxMDUwNCw5NTQ0MDQzMTUsMjAyMTQ4NDg0NywtOT
+EwMTEzMTEzLDU1OTk4NTc2NywtMTc2Nzg3NDkxMywtODAxNzc1
+MzY1LDE2NDY0NTAyNTEsNzg5NzMwMzI0LC0yMDU3NzIyNzQ0LC
+05NTAxNjU0NTIsMTk5MDIzNDA0MCwtOTE2MDc0NDEzLC0xOTk5
+NTEzNTYyXX0=
 -->
