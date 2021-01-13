@@ -63,14 +63,14 @@ The _Pelargonium_, which includes more than 280 accepted species, is native to S
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
 <param ve-entity eid="Q43631" title="Leiden">
 <param ve-entity eid="Q7161189" title="Pelargonium grossularioides" aliases="P. grossularioides">
-Of the many _Pelargonium_ species, _Pelargonium_ _triste_ (“sad pelargonium”) was probably the first to reach Europe around 1600, and it was subsequently introduced to France and Britain.[^ref5] By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula—and brought back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref6] Hermann’s 1689-book _[Paradisi Batavi Prodromus](https://bibdigital.rjb.csic.es/idurl/1/13582)_ records the collection of a pelargonium, though its identity remains a mystery.[^ref7] He, like other physicians of the day, highly valued non-native plants for their potential medicinal, culinary, and nutritive properties and studied them accordingly.
+Of the many _Pelargonium_ species, _Pelargonium_ _triste_ was probably the first to reach Europe around 1600, and it was subsequently introduced to France and Britain.[^ref5] By 1672, ten more species had been collected—mostly from Table Mountain, on the Cape Peninsula—and brought back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref6] Hermann’s 1689-book _[Paradisi Batavi Prodromus](https://bibdigital.rjb.csic.es/idurl/1/13582)_ records the collection of a pelargonium, though its identity remains a mystery.[^ref7] He, like other physicians of the day, highly valued non-native plants for their potential medicinal, culinary, and nutritive properties and studied them accordingly.
 <param ve-map center="-24.569, 25.879" zoom="5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
 <param ve-entity eid="Q10543296" title="Pelargonium triste">
 <param ve-entity eid="Q863247" title="nomenclature">
-The nomenclature confusion surrounding the _Pelargonium_ began when the plant now known as _Pelargonium triste_ was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P. triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_ due to the superficial similarities between the genera _Geranium_ and _Pelargonium_. This visualization of the global nomenclature history of the two plants provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_. 
+The nomenclature confusion surrounding the _Pelargonium_ began when the plant now known as _Pelargonium triste_ (“sad pelargonium”)  was first brought to and cultivated at the Leiden Botanical Garden in the late seventeenth century. _P. triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_ due to the superficial similarities between the genera _Geranium_ and _Pelargonium_. This visualization of the global nomenclature history of the two plants provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_. 
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], from J. P. Cornut,  _Canadensium Plantarum_, Paris, 1635, Biblioteca Digital">
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
@@ -204,11 +204,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyNDYwMDkwLDc3MzkzMDg1MywtNzU2Mz
-UzMDU2LC04OTE1NjExNjgsNDYwNjQxNzE0LDExMzI4MTk2NDQs
-LTE3OTU3Mjk4NzEsMTQ2NzU0NDU0NiwtODM3NzQ0NjE2LC0xND
-k0NDkyMjIzLC00OTY5NzU4MjQsMTYxNDIzNzcwMCwtMjc1ODE2
-MzEwLDE0Mzg0OTMyMTIsLTEwMDIwMTI3MDAsLTI5NzAyNTMwMi
-wtNTAwMTA1MDQsOTU0NDA0MzE1LDIwMjE0ODQ4NDcsLTkxMDEx
-MzExM119
+eyJoaXN0b3J5IjpbMjQyNDE3MTc0LDk3MjQ2MDA5MCw3NzM5Mz
+A4NTMsLTc1NjM1MzA1NiwtODkxNTYxMTY4LDQ2MDY0MTcxNCwx
+MTMyODE5NjQ0LC0xNzk1NzI5ODcxLDE0Njc1NDQ1NDYsLTgzNz
+c0NDYxNiwtMTQ5NDQ5MjIyMywtNDk2OTc1ODI0LDE2MTQyMzc3
+MDAsLTI3NTgxNjMxMCwxNDM4NDkzMjEyLC0xMDAyMDEyNzAwLC
+0yOTcwMjUzMDIsLTUwMDEwNTA0LDk1NDQwNDMxNSwyMDIxNDg0
+ODQ3XX0=
 -->
