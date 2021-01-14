@@ -74,7 +74,7 @@ Of the many _Pelargonium_ species native to the Cape Peninsula, _Pelargonium tri
 <param ve-entity eid="Q10543296" title="Pelargonium triste">
 <param ve-entity eid="Q863247" title="nomenclature">
 <param ve-entity eid="Q13996" title="Mediterranean climate">
-The nomenclature confusion surrounding the _Pelargonium_ is borne out in the case of _Pelargonium triste_ (“sad pelargonium”), which is the first known species to be cultivated in Britain in the early 1600s. During this period, _P. triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_. That misidentification probably stemmed from Europeans’ prior familiarity with _[Geranium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327764-2)_ species native to the Mediterranean Basin, prompting them to liken the then mysterious pelargonium to plants already known to them. This portrait of _P. triste_ from Jacques-Philippe Cornut’s 1635-book _[Canadensium Plantarum](https://bibdigital.rjb.csic.es/idurl/1/13506)_ shows a striking view of the entire plant beneath the now incorrect name “Geranium triste.” Designed in a naturalistic style, the print describes the plant's feather-shaped leaves, stork’s beak fruit capsules, tiny five-petal flowers, and tuberous roots. However, without color, it is difficult to grasp why the sad pelargonium was named thusly after the dull hue of its foliage or flowers.
+The nomenclature confusion surrounding the _Pelargonium_ is borne out in the case of _Pelargonium triste_ (“sad pelargonium”), which is the first known species to be cultivated in Britain in the early 1600s. During this period, _P. triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_. That misidentification probably stemmed from Europeans’ prior familiarity with _[Geranium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327764-2)_ species native to the Mediterranean Basin, prompting them to liken the then mysterious pelargonium to plants already known to them. This portrait of _P. triste_ from Jacques-Philippe Cornut’s 1635-book _[Canadensium Plantarum](https://bibdigital.rjb.csic.es/idurl/1/13506)_ shows a striking view of the entire plant beneath the now incorrect name “Geranium triste.” Designed in a naturalistic style, the print describes the plant’s feather-shaped leaves, stork’s beak fruit capsules, tiny five-petal flowers, and tuberous roots. However, without color, it is difficult to grasp why the sad pelargonium was named thusly after the dull hue of its foliage or flowers.
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], Jacques-Philippe Cornut, _Canadensium Plantarum_, Paris, Venundantur apud Simonem Le Moyne, 1635, Biblioteca Digital">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_, named for the dull color of its foliage, has not been widely hybridized and cultural interest in the plant is limited to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 
@@ -212,11 +212,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDAzNzM3LDEwNjczMTUwNyw3NTY2MT
-k0ODAsMTA3NzIzNzYxNCwtMjI0ODExMjc4LDE0NTgzNjk0NzYs
-MTA2MDIzNTczMSwtMTg2MjM5NTI1LDM2MTUyNzg1MCwtMTI1ND
-E3OTAzMiwtMzM1NTcxNzQwLDEzMTk1MjA1MDcsNTYzNDk1NTgx
-LDMzOTc1ODc0NCwtNzI4MDg1ODA3LDE2MjA3NDU2NjUsNzg2OT
-I3ODYxLC01NjIzODAwMjAsMTIwMTE2Mjc3NSwtMTYyOTYxNjUx
-N119
+eyJoaXN0b3J5IjpbMTU0MjI5NjU3LC02MTQwMzczNywxMDY3Mz
+E1MDcsNzU2NjE5NDgwLDEwNzcyMzc2MTQsLTIyNDgxMTI3OCwx
+NDU4MzY5NDc2LDEwNjAyMzU3MzEsLTE4NjIzOTUyNSwzNjE1Mj
+c4NTAsLTEyNTQxNzkwMzIsLTMzNTU3MTc0MCwxMzE5NTIwNTA3
+LDU2MzQ5NTU4MSwzMzk3NTg3NDQsLTcyODA4NTgwNywxNjIwNz
+Q1NjY1LDc4NjkyNzg2MSwtNTYyMzgwMDIwLDEyMDExNjI3NzVd
+fQ==
 -->
