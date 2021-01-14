@@ -94,7 +94,7 @@ Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an 
 
 ### New Technologies and the Making of the Modern Pelargonium
 
-The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period, that thrives in dry arid climates. The earliest Southern African plants introduced to Europe were cultivated in heated greenhouses to protect them from cold and frost. During the late seventeenth and eighteenth centuries, these diminutive flowers with woody stems and jagged leaves were kept mainly as exotic curiosities and status symbols. They bore little resemblance to their descendants that florists and nurseries bred to be showy ornamental plants for indoor domestic and garden plants. Indeed, new horticultural technologies and breeding techniques of the early and mid-nineteenth century transformed the pelargonium into a Europeanized commodity for the masses.
+The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period, that thrives in dry arid climates. The earliest Southern African plants introduced to Europe were cultivated in heated greenhouses to protect them from cold and frost. During the late seventeenth and eighteenth centuries, these diminutive flowers with woody stems and jagged leaves were kept mainly as exotic curiosities and status symbols. They bore little resemblance to their descendants that florists and nurseries bred to be showy ornamental plants for indoor gardens or outdoor flowerbeds. New horticultural technologies and breeding techniques were integral to this transformation of the pelargonium into a Europeanized commodity for the masses, particularly in England and France.
 
 <param ve-entity eid="Q2779805" title="Wardian case">
 <param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
@@ -215,11 +215,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTUwMzQzNiwxMDEzNTQ5NjEsMTYzMT
-M3NTkwOCwtMTYxNDc1ODE0LC0xNjc0OTMyOTk1LDQwODQ1MjY2
-NCw0NzY4MTU3NTQsLTEyMzUyMTI0NjYsNTg1NTI4NTA2LC0yMD
-M0NDA5NDIwLC0xMzcwMjk2ODA2LC02MTQwMzczNywxMDY3MzE1
-MDcsNzU2NjE5NDgwLDEwNzcyMzc2MTQsLTIyNDgxMTI3OCwxND
-U4MzY5NDc2LDEwNjAyMzU3MzEsLTE4NjIzOTUyNSwzNjE1Mjc4
-NTBdfQ==
+eyJoaXN0b3J5IjpbODk4MjI5NzQ1LDEwMTM1NDk2MSwxNjMxMz
+c1OTA4LC0xNjE0NzU4MTQsLTE2NzQ5MzI5OTUsNDA4NDUyNjY0
+LDQ3NjgxNTc1NCwtMTIzNTIxMjQ2Niw1ODU1Mjg1MDYsLTIwMz
+Q0MDk0MjAsLTEzNzAyOTY4MDYsLTYxNDAzNzM3LDEwNjczMTUw
+Nyw3NTY2MTk0ODAsMTA3NzIzNzYxNCwtMjI0ODExMjc4LDE0NT
+gzNjk0NzYsMTA2MDIzNTczMSwtMTg2MjM5NTI1LDM2MTUyNzg1
+MF19
 -->
