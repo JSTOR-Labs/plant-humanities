@@ -94,7 +94,7 @@ Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an 
 
 ### New Technologies and the Making of the Modern Pelargonium
 
-The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period, that thrives in dry arid climates. The earliest Southern African plants introduced to Europe were cultivated in heated greenhouses to protect them from cold and frost. During the late seventeenth and eighteenth centuries, these diminutive flowers with woody stems and jagged leaves were kept mainly as exotic curiosities and status symbols. They bore little resemblance to their descendants that florists and nurseries bred to be showy ornamental plants for indoor gardens or outdoor flowerbeds. New horticultural technologies and breeding techniques were integral to this transformation of the pelargonium into a Europeanized commodity for the masses, particularly in England and France.
+The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period, that thrives in dry arid climates. The earliest Southern African plants introduced to Europe were cultivated in heated greenhouses to protect them from cold and frost. During the late seventeenth and eighteenth centuries, these diminutive flowers with woody stems and jagged leaves were kept mainly as exotic curiosities and status symbols. They bore little resemblance to their descendants that florists and nurseries bred to be showy ornamental plants for indoor gardens or outdoor flowerbeds. New horticultural technologies, namely the Wardian case and domestic conservatories, and breeding techniques were integral to this transformation of the pelargonium into a Europeanized commodity for the masses, particularly in England and France.
 <param ve-image primary
 title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
 <param ve-image
@@ -214,11 +214,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDU1NzY0OSwxMDEzNTQ5NjEsMTYzMT
-M3NTkwOCwtMTYxNDc1ODE0LC0xNjc0OTMyOTk1LDQwODQ1MjY2
-NCw0NzY4MTU3NTQsLTEyMzUyMTI0NjYsNTg1NTI4NTA2LC0yMD
-M0NDA5NDIwLC0xMzcwMjk2ODA2LC02MTQwMzczNywxMDY3MzE1
-MDcsNzU2NjE5NDgwLDEwNzcyMzc2MTQsLTIyNDgxMTI3OCwxND
-U4MzY5NDc2LDEwNjAyMzU3MzEsLTE4NjIzOTUyNSwzNjE1Mjc4
-NTBdfQ==
+eyJoaXN0b3J5IjpbMTA0MTY0Mzk2OCwtODEwNTU3NjQ5LDEwMT
+M1NDk2MSwxNjMxMzc1OTA4LC0xNjE0NzU4MTQsLTE2NzQ5MzI5
+OTUsNDA4NDUyNjY0LDQ3NjgxNTc1NCwtMTIzNTIxMjQ2Niw1OD
+U1Mjg1MDYsLTIwMzQ0MDk0MjAsLTEzNzAyOTY4MDYsLTYxNDAz
+NzM3LDEwNjczMTUwNyw3NTY2MTk0ODAsMTA3NzIzNzYxNCwtMj
+I0ODExMjc4LDE0NTgzNjk0NzYsMTA2MDIzNTczMSwtMTg2MjM5
+NTI1XX0=
 -->
