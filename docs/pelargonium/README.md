@@ -57,7 +57,7 @@ As the diagram at right shows, several key differences can be observed by compar
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
-The _Pelargonium_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape of South Africa: a biodiversity hotspot. It is not surprising, then, that Portuguese traders first harvested pelargoniums, both live plants and seeds, from the Cape in the late fifteenth or early sixteenth centuries. They transported that fragile and precious cargo to Europe on their return from making colonial voyages.
+The _Pelargonium_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape of South Africa: a biodiversity hotspot. Given their concentration there, it is not surprising, then, that Portuguese traders first harvested pelargoniums, both live plants and seeds, from the Cape in the late fifteenth or early sixteenth centuries. They transported that fragile and precious cargo to Europe on their return from making colonial voyages.
 <param ve-map center="-7.347, 72.454" zoom="2.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -211,11 +211,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3MjMyNTQyLC0xODk2MzcyNDkxLDEwMj
-U0NjYyNDQsMTUwMDI5NzYzNiwxOTE5OTk5MzYyLC0zNTk4MjA5
-ODIsMTc5NTMyNjY4MSwxNTIxOTc0NDA4LDU4MjUxNjk5MCwtMj
-A3ODgyMDkwMSwtODg0NjY1NTIzLDEyNTgyOTY5NDcsMTU5MTg4
-NDk1MCwtMTA4MDk1MTI3NCwtNjEwMTE0MDA5LC0zMzk4MjY1MD
-ksLTEwNzIxNDc3NzYsOTY4OTg5Mjk1LC0xOTQ2ODM3MjgxLDQy
-MTUyMTQ3Nl19
+eyJoaXN0b3J5IjpbNDM0MDk0NjA0LDI4NzIzMjU0MiwtMTg5Nj
+M3MjQ5MSwxMDI1NDY2MjQ0LDE1MDAyOTc2MzYsMTkxOTk5OTM2
+MiwtMzU5ODIwOTgyLDE3OTUzMjY2ODEsMTUyMTk3NDQwOCw1OD
+I1MTY5OTAsLTIwNzg4MjA5MDEsLTg4NDY2NTUyMywxMjU4Mjk2
+OTQ3LDE1OTE4ODQ5NTAsLTEwODA5NTEyNzQsLTYxMDExNDAwOS
+wtMzM5ODI2NTA5LC0xMDcyMTQ3Nzc2LDk2ODk4OTI5NSwtMTk0
+NjgzNzI4MV19
 -->
