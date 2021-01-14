@@ -95,19 +95,18 @@ Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an 
 ### New Technologies and the Making of the Modern Pelargonium
 
 The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period, that thrives in dry arid climates. The earliest Southern African plants introduced to Europe were cultivated in heated greenhouses to protect them from cold and frost. During the late seventeenth and eighteenth centuries, these diminutive flowers with woody stems and jagged leaves were kept mainly as exotic curiosities and status symbols. They bore little resemblance to their descendants that florists and nurseries bred to be showy ornamental plants for indoor gardens or outdoor flowerbeds. New horticultural technologies and breeding techniques were integral to this transformation of the pelargonium into a Europeanized commodity for the masses, particularly in England and France.
-
-<param ve-entity eid="Q2779805" title="Wardian case">
-<param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
-Early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container in which plants could survive, without watering, for months at a time. Prior to that technology, botanists encountered dreadful difficulties transporting live specimens during overseas voyages. Such journeys lasted for months, during which time plants suffered from exposure to salt water and harsh weather, extreme changes in climate, and lack of proper care. Indeed, John Livingstone estimated in 1819 that “only one in a thousand plants survived the journey.”[^ref11] The Wardian case created the conditions for a major globe plant migration on an unprecedented scale, as the glazed box was employed extensively by colonial enterprises, botanic gardens, plant nurseries, and individual collectors.[^ref12] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotics indoors in such ornamental glass furnishings, safely protected from the industrial pollution in the air as well as the varying temperatures of the British climate.[^ref13]
-<param ve-image primary fit="contain" url="https://ia800604.us.archive.org/BookReader/BookReaderImages.php?id=ongrowthplantsc00ward&itemPath=%2F0%2Fitems%2Fongrowthplantsc00ward&server=ia800604.us.archive.org&page=n52_w325" title="An 1852 illustration of the Wardian case by Nathaniel Bagshaw Ward, the physician and botanist for whom the case was named, from _On the Growth of Plants in Closely Glazed Cases_">
-<param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835239&t=w" title="Illustration of the Wardian case in a home space, 1872">
-<param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835246&t=w" title="Illustration of three Wardian cases in the domestic space, 1870">
-
-This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotics indoors in such ornamental glass furnishings, safely protected from the industrial pollution in the air as well as the varying temperatures of the British climate
 <param ve-image primary
 title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/3/37/Floriculture.jpg" title="A retail greenhouse section of a production greenhouse facility in northwest Ohio shows some of the diversity of floricultural plants produced in that region, 2007, Agricultural Research Service, United States Department of Agriculture, d786-2, public domain, Wikimedia">
+
+<param ve-entity eid="Q2779805" title="Wardian case">
+<param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
+Early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container in which plants could survive, without watering, for months at a time. Prior to that technology, botanists encountered dreadful difficulties transporting live specimens during overseas voyages. Such journeys lasted for months, during which time plants suffered from exposure to salt water and harsh weather, extreme changes in climate, and lack of proper care. Indeed, John Livingstone estimated in 1819 that “only one in a thousand plants survived the journey.”[^ref11] The Wardian case created the conditions for a major globe plant migration on an unprecedented scale, as the glazed box was employed extensively by colonial enterprises, botanic gardens, plant nurseries, and individual collectors.[^ref12] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotics indoors in such ornamental glass furnishings, safely protected from the industrial pollution in the air as well as the varying temperatures of the British climate.[^ref13] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotics indoors in such ornamental glass furnishings, safely protected from the industrial pollution in the air as well as the varying temperatures of the British climate.
+<param ve-image primary fit="contain" url="https://ia800604.us.archive.org/BookReader/BookReaderImages.php?id=ongrowthplantsc00ward&itemPath=%2F0%2Fitems%2Fongrowthplantsc00ward&server=ia800604.us.archive.org&page=n52_w325" title="An 1852 illustration of the Wardian case by Nathaniel Bagshaw Ward, the physician and botanist for whom the case was named, from _On the Growth of Plants in Closely Glazed Cases_">
+<param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835239&t=w" title="Illustration of the Wardian case in a home space, 1872">
+<param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835246&t=w" title="Illustration of three Wardian cases in the domestic space, 1870">
+
 
 ### Pelargonium-mania in the Victorian Era
 
@@ -215,11 +214,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4MjI5NzQ1LDEwMTM1NDk2MSwxNjMxMz
-c1OTA4LC0xNjE0NzU4MTQsLTE2NzQ5MzI5OTUsNDA4NDUyNjY0
-LDQ3NjgxNTc1NCwtMTIzNTIxMjQ2Niw1ODU1Mjg1MDYsLTIwMz
-Q0MDk0MjAsLTEzNzAyOTY4MDYsLTYxNDAzNzM3LDEwNjczMTUw
-Nyw3NTY2MTk0ODAsMTA3NzIzNzYxNCwtMjI0ODExMjc4LDE0NT
-gzNjk0NzYsMTA2MDIzNTczMSwtMTg2MjM5NTI1LDM2MTUyNzg1
-MF19
+eyJoaXN0b3J5IjpbLTgxMDU1NzY0OSwxMDEzNTQ5NjEsMTYzMT
+M3NTkwOCwtMTYxNDc1ODE0LC0xNjc0OTMyOTk1LDQwODQ1MjY2
+NCw0NzY4MTU3NTQsLTEyMzUyMTI0NjYsNTg1NTI4NTA2LC0yMD
+M0NDA5NDIwLC0xMzcwMjk2ODA2LC02MTQwMzczNywxMDY3MzE1
+MDcsNzU2NjE5NDgwLDEwNzcyMzc2MTQsLTIyNDgxMTI3OCwxND
+U4MzY5NDc2LDEwNjAyMzU3MzEsLTE4NjIzOTUyNSwzNjE1Mjc4
+NTBdfQ==
 -->
