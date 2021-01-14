@@ -57,7 +57,7 @@ As the diagram at right shows, several key differences can be observed by compar
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
-The _Pelargonium_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape of South Africa: a biodiversity hotspot. Given their concentration there, it is not surprising, then, that Portuguese traders first harvested pelargoniums, both live plants and seeds, from the Cape in the late fifteenth or early sixteenth centuries. They transported that fragile and precious cargo to Europe on their return from making colonial voyages.
+The _Pelargonium_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape of South Africa: a biodiversity hotspot. Given their concentration there, it is not surprising that Portuguese traders, who were the first to harvest pelargoniums, both live plants and seeds, did so in the Cape in the late fifteenth and early sixteenth centuries. They transported that fragile and precious cargo to Europe on their return from making colonial voyages.
 <param ve-map center="-7.347, 72.454" zoom="2.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -211,11 +211,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0MDk0NjA0LDI4NzIzMjU0MiwtMTg5Nj
-M3MjQ5MSwxMDI1NDY2MjQ0LDE1MDAyOTc2MzYsMTkxOTk5OTM2
-MiwtMzU5ODIwOTgyLDE3OTUzMjY2ODEsMTUyMTk3NDQwOCw1OD
-I1MTY5OTAsLTIwNzg4MjA5MDEsLTg4NDY2NTUyMywxMjU4Mjk2
-OTQ3LDE1OTE4ODQ5NTAsLTEwODA5NTEyNzQsLTYxMDExNDAwOS
-wtMzM5ODI2NTA5LC0xMDcyMTQ3Nzc2LDk2ODk4OTI5NSwtMTk0
-NjgzNzI4MV19
+eyJoaXN0b3J5IjpbLTMzMzkwNjAxNSwyODcyMzI1NDIsLTE4OT
+YzNzI0OTEsMTAyNTQ2NjI0NCwxNTAwMjk3NjM2LDE5MTk5OTkz
+NjIsLTM1OTgyMDk4MiwxNzk1MzI2NjgxLDE1MjE5NzQ0MDgsNT
+gyNTE2OTkwLC0yMDc4ODIwOTAxLC04ODQ2NjU1MjMsMTI1ODI5
+Njk0NywxNTkxODg0OTUwLC0xMDgwOTUxMjc0LC02MTAxMTQwMD
+ksLTMzOTgyNjUwOSwtMTA3MjE0Nzc3Niw5Njg5ODkyOTUsLTE5
+NDY4MzcyODFdfQ==
 -->
