@@ -43,7 +43,7 @@ The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the famil
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
 <param ve-entity eid="Q687699" title="Nectary" aliases="nectaries"> 
 <param ve-entity eid="Q103129" title="stamen" aliases="stamens"> 
-As the visualization at right shows, several key differences can be observed by comparing the reproductive systems of the plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. Another difference is that, while the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. Yet another divergence between the two is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens. Finally, while _Pelargonium_ flowers can be many vivid shades of scarlet, purple, white, or pink, those of the _Geranium_ can be dark blue, purple, pink, or white—though they are never red.
+As the diagram at right shows, several key differences can be observed by comparing the reproductive systems of the plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. Another difference is that, while the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. Yet another divergence between the two is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens. Finally, while _Pelargonium_ flowers can be many vivid shades of scarlet, purple, white, or pink, those of the _Geranium_ can be dark blue, purple, pink, or white—though they are never red.
 <param ve-image layers url="https://free.iiifhosting.com/iiif/946417abf874969ccb7ed3e11de335c107f89d030c8a7d27fe55a2c9892bb2c1/info.json" title="Differences between Geranium and Pelargonium flowers, Verónica Matallana">
 <param ve-image url="https://free.iiifhosting.com/iiif/ba2f217efdf25d87a4fc0e79c0b096245ef26d4ebde668bd65af649d05b2deb1/info.json" title="“Géranium platypetalum” & “Pelargonium zonale Wild et hybrids,” _Atlas des plantes de jardins et d'appartements exotiques et européennes: 320 planches coloriées inédites, dessinées d'après nature, représentant 370 plantes, accompagnées d'un texte explicatif donnant la description, l'origine, le mode de culture, de multiplication et les usages des fleurs les plus généralement cultivées_, D. Bois, from Bibliothèque Nationale de France, département Sciences et techniques, 8-S-9126">
 
@@ -211,11 +211,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTQ2NjI0NCwxNTAwMjk3NjM2LDE5MT
-k5OTkzNjIsLTM1OTgyMDk4MiwxNzk1MzI2NjgxLDE1MjE5NzQ0
-MDgsNTgyNTE2OTkwLC0yMDc4ODIwOTAxLC04ODQ2NjU1MjMsMT
-I1ODI5Njk0NywxNTkxODg0OTUwLC0xMDgwOTUxMjc0LC02MTAx
-MTQwMDksLTMzOTgyNjUwOSwtMTA3MjE0Nzc3Niw5Njg5ODkyOT
-UsLTE5NDY4MzcyODEsNDIxNTIxNDc2LDE1ODAxODg3NiwzNTk5
-MTkzMzldfQ==
+eyJoaXN0b3J5IjpbLTE4OTYzNzI0OTEsMTAyNTQ2NjI0NCwxNT
+AwMjk3NjM2LDE5MTk5OTkzNjIsLTM1OTgyMDk4MiwxNzk1MzI2
+NjgxLDE1MjE5NzQ0MDgsNTgyNTE2OTkwLC0yMDc4ODIwOTAxLC
+04ODQ2NjU1MjMsMTI1ODI5Njk0NywxNTkxODg0OTUwLC0xMDgw
+OTUxMjc0LC02MTAxMTQwMDksLTMzOTgyNjUwOSwtMTA3MjE0Nz
+c3Niw5Njg5ODkyOTUsLTE5NDY4MzcyODEsNDIxNTIxNDc2LDE1
+ODAxODg3Nl19
 -->
