@@ -170,7 +170,7 @@ Today, pelargonium oil continues to be industrially produced in factories across
 
 Although the _Pelargonium_ by any other name would smell as sweet, our recognition of its unique identity is long overdue. Indeed, the _Pelargonium_’s almost-forgotten global history extremely rich blossoming as it does at the intersections of colonial trade, botany, agriculture, gardening, art, culture, and industry. Telling the story of the _Pelargonium_ as an entity separate from the _Geranium_, illuminates just some of the many ways in which it has been interwoven with human histories – hiding in plain sight, as it were, by virtue of its long-persisting misnomer.
 <param ve-image primary fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.highres" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), 1907-1920, photograph, Source gallica.bnf.fr / BnF">
-<param ve-image fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.highres" title="James Tissot, _Spring Morning_, c.1875, oil on canvas, 55.9 x 42.5 cm, Gift of Mrs. Charles Wrightsman, 2009, Metropolitan Museum of Art, public domain">
+<param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP232138.jpg" title="James Tissot, _Spring Morning_, c.1875, oil on canvas, 55.9 x 42.5 cm, Gift of Mrs. Charles Wrightsman, 2009, Metropolitan Museum of Art, public domain">
 
 ### References
 [^ref1]: Hartley, Jenny. 2018. "Dickens and the Geranium." _The Dickensian_ 114 (504) (Spring): 5-14. http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/dickens-geranium/docview/2056426823/se-2?accountid=11311.
@@ -215,7 +215,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODY2MzgzNiwtMTMyOTk3NDk2NCwtMT
+eyJoaXN0b3J5IjpbLTE0NjY0MTMzMSwtMTMyOTk3NDk2NCwtMT
 Y1MjE4MTE5MSwtMzc1NTY5MTgxLDEwNDE2NDM5NjgsLTgxMDU1
 NzY0OSwxMDEzNTQ5NjEsMTYzMTM3NTkwOCwtMTYxNDc1ODE0LC
 0xNjc0OTMyOTk1LDQwODQ1MjY2NCw0NzY4MTU3NTQsLTEyMzUy
