@@ -65,6 +65,7 @@ The _Pelargonium_, which includes more than 280 accepted species, is native to S
 <param ve-entity eid="Q66569" title="Paul Hermann">
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
 <param ve-entity eid="Q43631" title="Leiden">
+<param ve-entity eid="Q3898876" title="Pelargonium cucullatum" aliases="P. cucullatum">
 Of the many _Pelargonium_ species native to the Cape Peninsula, _Pelargonium triste_ was probably the first to reach Europe, and early printed books indicate that is was introduced to France and Britain by the 1630s.[^ref5] In 1672, several more species were collected—mostly from Table Mountain, on the Cape Peninsula—and shipped to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref6] Hermann, whose 1689-book _[Paradisi Batavi Prodromus](https://bibdigital.rjb.csic.es/idurl/1/13582)_ discusses a pelargonium, is credited with collecting the first specimen of _P. cucullatum_ to reach Europe.[^ref7] However, it is important to note that some mystery surrounds the identities of these plants because there was not yet a standard language for naming them.
 <param ve-map center="-24.569, 25.879" zoom="5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
@@ -211,11 +212,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1NzgzNDY2LC0yMjQ4MTEyNzgsMTQ1OD
-M2OTQ3NiwxMDYwMjM1NzMxLC0xODYyMzk1MjUsMzYxNTI3ODUw
-LC0xMjU0MTc5MDMyLC0zMzU1NzE3NDAsMTMxOTUyMDUwNyw1Nj
-M0OTU1ODEsMzM5NzU4NzQ0LC03MjgwODU4MDcsMTYyMDc0NTY2
-NSw3ODY5Mjc4NjEsLTU2MjM4MDAyMCwxMjAxMTYyNzc1LC0xNj
-I5NjE2NTE3LC0xNjgzMTU3NTc1LDI4NzIzMjU0MiwtMTg5NjM3
-MjQ5MV19
+eyJoaXN0b3J5IjpbMTA3NzIzNzYxNCwtMjI0ODExMjc4LDE0NT
+gzNjk0NzYsMTA2MDIzNTczMSwtMTg2MjM5NTI1LDM2MTUyNzg1
+MCwtMTI1NDE3OTAzMiwtMzM1NTcxNzQwLDEzMTk1MjA1MDcsNT
+YzNDk1NTgxLDMzOTc1ODc0NCwtNzI4MDg1ODA3LDE2MjA3NDU2
+NjUsNzg2OTI3ODYxLC01NjIzODAwMjAsMTIwMTE2Mjc3NSwtMT
+YyOTYxNjUxNywtMTY4MzE1NzU3NSwyODcyMzI1NDIsLTE4OTYz
+NzI0OTFdfQ==
 -->
