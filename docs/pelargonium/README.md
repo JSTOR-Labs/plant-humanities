@@ -92,7 +92,7 @@ Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an 
 <param ve-image url="Pelargonium_geraniaceaev5swee_0334.jpg" title="_Pelargonium Glorianum. Queen of Portugal's Stork's-bill_,Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, New York Botanical Garden, LuEsther T. Mertz Library, Biodiversity Heritage Library">
 
 
-### <New Technologies and the Making of the Modern Pelargonium**
+### New Technologies and the Making of the Modern Pelargonium
 
 <param ve-entity eid="Q2779805" title="Wardian case">
 <param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
@@ -213,7 +213,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyMjk3MzUzLDE2MzEzNzU5MDgsLTE2MT
+eyJoaXN0b3J5IjpbMTAxMzU0OTYxLDE2MzEzNzU5MDgsLTE2MT
 Q3NTgxNCwtMTY3NDkzMjk5NSw0MDg0NTI2NjQsNDc2ODE1NzU0
 LC0xMjM1MjEyNDY2LDU4NTUyODUwNiwtMjAzNDQwOTQyMCwtMT
 M3MDI5NjgwNiwtNjE0MDM3MzcsMTA2NzMxNTA3LDc1NjYxOTQ4
