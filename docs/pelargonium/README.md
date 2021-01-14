@@ -147,7 +147,6 @@ As a result, the _Pelargonium_ at the turn of the century became a symbol for th
 <param ve-entity eid="Q79" title="Egypt">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, specifically in Paris. As part of a massive project to urbanize Paris, overseen by Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, architects designed new parks, gardens, squares, and promenades and oversaw the revitalization of existing green spaces with fresh plantings.[REF] In his book _Les Promenades de Paris_, Adolphe Alphand inventories the myriad "trees, shrubs and plants" selected by him and others to beautify the city.[REF] Needless to say, they chose many different types of showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for mass-producing them. Although Alphand’s book primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[REF] The French-bred pelargoniums, which retained some of their exotic associations with Southern Africa, served as live manifestations of the global reach of the French Empire and its colonial agenda especially because the plants were then propagated in French Algiers to produce fragrant oils.
 <param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="45">
-<param ve-image fit="contain" url="http://bibliotheque-numerique.hortalia.org/files/original/cfaab4c201ee428b33285f88ffa6af24.jpg" title="_Pelargoniums_ in the Jardins de Luxembourg in Paris. Hortalia Bibliothèque numérique">
 
 <param ve-entity eid="Q262" title="Algeria">
 <param ve-entity eid="Q173705" title="Grasse">
@@ -215,11 +214,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk5NzQ5NjQsLTE2NTIxODExOTEsLT
-M3NTU2OTE4MSwxMDQxNjQzOTY4LC04MTA1NTc2NDksMTAxMzU0
-OTYxLDE2MzEzNzU5MDgsLTE2MTQ3NTgxNCwtMTY3NDkzMjk5NS
-w0MDg0NTI2NjQsNDc2ODE1NzU0LC0xMjM1MjEyNDY2LDU4NTUy
-ODUwNiwtMjAzNDQwOTQyMCwtMTM3MDI5NjgwNiwtNjE0MDM3Mz
-csMTA2NzMxNTA3LDc1NjYxOTQ4MCwxMDc3MjM3NjE0LC0yMjQ4
-MTEyNzhdfQ==
+eyJoaXN0b3J5IjpbLTc3NDA1MTQxLC0xMzI5OTc0OTY0LC0xNj
+UyMTgxMTkxLC0zNzU1NjkxODEsMTA0MTY0Mzk2OCwtODEwNTU3
+NjQ5LDEwMTM1NDk2MSwxNjMxMzc1OTA4LC0xNjE0NzU4MTQsLT
+E2NzQ5MzI5OTUsNDA4NDUyNjY0LDQ3NjgxNTc1NCwtMTIzNTIx
+MjQ2Niw1ODU1Mjg1MDYsLTIwMzQ0MDk0MjAsLTEzNzAyOTY4MD
+YsLTYxNDAzNzM3LDEwNjczMTUwNyw3NTY2MTk0ODAsMTA3NzIz
+NzYxNF19
 -->
