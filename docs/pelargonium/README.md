@@ -80,7 +80,7 @@ The nomenclature confusion surrounding the _Pelargonium_ is borne out in the cas
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_ has not been widely hybridized and cultural interest in the plant is limited mainly to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
-Botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ since the mid-eighteenth century. Indeed, Carl Linnaeus, in his 1753-book [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref8] This interactive timeline showing the nomenclature history of _Pelargonium_ and  _Geranium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of pelargoniums.
+Botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ since the mid-eighteenth century. Indeed, Carl Linnaeus, in his 1753-book [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref8] This interactive timeline showing the nomenclature history of _Pelargonium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of pelargoniums.
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
 <param ve-entity eid="Q465834" title="Charles Louis L'Héritier de Brutelle" aliases="Charles-Louis L’Héritier de Brutelle’s">
@@ -213,11 +213,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDE1MTkzMywtMjAzNDQwOTQyMCwtMT
-M3MDI5NjgwNiwtNjE0MDM3MzcsMTA2NzMxNTA3LDc1NjYxOTQ4
-MCwxMDc3MjM3NjE0LC0yMjQ4MTEyNzgsMTQ1ODM2OTQ3NiwxMD
-YwMjM1NzMxLC0xODYyMzk1MjUsMzYxNTI3ODUwLC0xMjU0MTc5
-MDMyLC0zMzU1NzE3NDAsMTMxOTUyMDUwNyw1NjM0OTU1ODEsMz
-M5NzU4NzQ0LC03MjgwODU4MDcsMTYyMDc0NTY2NSw3ODY5Mjc4
-NjFdfQ==
+eyJoaXN0b3J5IjpbNTg1NTI4NTA2LC0yMDM0NDA5NDIwLC0xMz
+cwMjk2ODA2LC02MTQwMzczNywxMDY3MzE1MDcsNzU2NjE5NDgw
+LDEwNzcyMzc2MTQsLTIyNDgxMTI3OCwxNDU4MzY5NDc2LDEwNj
+AyMzU3MzEsLTE4NjIzOTUyNSwzNjE1Mjc4NTAsLTEyNTQxNzkw
+MzIsLTMzNTU3MTc0MCwxMzE5NTIwNTA3LDU2MzQ5NTU4MSwzMz
+k3NTg3NDQsLTcyODA4NTgwNywxNjIwNzQ1NjY1LDc4NjkyNzg2
+MV19
 -->
