@@ -80,7 +80,7 @@ The nomenclature confusion surrounding the _Pelargonium_ is borne out in the cas
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_ has not been widely hybridized and cultural interest in the plant is limited mainly to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
-Botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ since the mid-eighteenth century. Indeed, Carl Linnaeus, in his 1753-book [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref8] This interactive timeline showing the nomenclature history of _Pelargonium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of pelargoniums.
+Botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ since the mid-eighteenth century. Indeed, Carl Linnaeus, in his 1753-book [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums.[^ref8] This interactive timeline showing the nomenclature history of _Pelargonium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of pelargoniums.
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
 <param ve-entity eid="Q465834" title="Charles Louis L'Héritier de Brutelle" aliases="Charles-Louis L’Héritier de Brutelle’s">
@@ -213,7 +213,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjEzOTQ1MiwtMTYxNDc1ODE0LC0xNj
+eyJoaXN0b3J5IjpbMTYzMTM3NTkwOCwtMTYxNDc1ODE0LC0xNj
 c0OTMyOTk1LDQwODQ1MjY2NCw0NzY4MTU3NTQsLTEyMzUyMTI0
 NjYsNTg1NTI4NTA2LC0yMDM0NDA5NDIwLC0xMzcwMjk2ODA2LC
 02MTQwMzczNywxMDY3MzE1MDcsNzU2NjE5NDgwLDEwNzcyMzc2
