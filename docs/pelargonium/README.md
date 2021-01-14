@@ -10,7 +10,7 @@
 
 <param ve-entity eid="Q5686" title="Charles Dickens">
 <param ve-entity eid="Q3850458" title="Mary Dickens" aliases="Mamie Dickens">
-There was no flower on earth that Charles Dickens loved quite as much as the scarlet “geranium.”[^ref1] With its vibrant red flowers and sweet, rose scent, this cheerful plant always adorned the dining table and dominated the garden in a “blaze of color” at his country home, [Gad’s Hill Place](https://thegardenstrust.blog/2020/01/25/dickens-and-gardens/), in Kent.[^ref2] Attendees at his public readings could always count on seeing a scarlet geranium displayed in his buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.”[^ref3]
+There was no flower on earth that Charles Dickens loved quite as much as the scarlet “geranium.”[^ref1] With its vibrant red flowers and sweet, rose scent, this cheerful plant always adorned the dining table and dominated the garden in a “blaze of color” at his country home, [Gad’s Hill Place](https://thegardenstrust.blog/2020/01/25/dickens-and-gardens/), in Kent.[^ref2] Attendees at his public readings could always count on seeing a scarlet "geranium displayed in his buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.”[^ref3]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" title="Charles Dickens with his two daughters at Gad’s Hill Place. Behind them is a staged “theatre” of potted pelargoniums displayed beneath a bay window. _Charles Dickens with his daughters, Mamie Dickens and Catherine ('Katey') Elizabeth Macready Perugini (née Dickens)_, after Joseph Athanase Aufray, after a photograph by Mason & Co (Robert Hindry Mason), photogravure, published 18 December 1869, National Gallery of Art, Wikimedia Commons">
 <param ve-image fit="contain" url="Pelargonium_CharlesDickensWindow_FLICKR.jpg"title="In remembrance of the author and his adoration for the pelargonium, The Dickens Fellowship lays an ivy-and-red-flower wreath at his grave every year on the anniversary of his death. Window with portrait of Dickens encircled by a wreath, Charles Dickens Birthplace Museum, Portsmouth, England, Fred Rockwood, 2010, Flickr, CC BY-NC-SA 2.0">
 <param ve-image fit="contain" url="Pelargonium_CharlesDickensMuseum_FLICKR.jpg" title="Flower bed of brilliant red pelargoniums, Charles Dickens Birthplace Museum, Portsmouth, England, Mark Hooper, 2017, Flickr, CC BY-NC-SA 2.0">
@@ -18,7 +18,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 <param ve-entity eid="Q157211" title="geranium" aliases="Geranium"> 
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
 <param ve-entity eid="Q18083598" title="Pelargonium inquinans"> 
-However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one called _Pelargonium_.[^ref4] This misidentification is typical because the two have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate over how to classify pelargoniums roiled in botanical circles of the mid-eighteenth and early nineteenth centuries, the popularity of the flower steadily increased, first as a hothouse exotic and then as a collector’s showpiece. By the mid-nineteenth century, when nurseries hybridized and mass-produced hardy pelargonium varieties for widespread use, the public had grown accustomed to using the common name “geranium” for the plant, and for the most part, we continue to do so today.
+However, you might be surprised to learn that the scarlet flower with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one called _Pelargonium_.[^ref4] This misidentification is typical because the two genera have been embroiled in a long history of taxonomic confusion, which dates back to the late seventeenth century. As the debate over how to classify pelargoniums roiled in botanical circles of the mid-eighteenth and early nineteenth centuries, the popularity of the flower steadily increased, first as a hothouse exotic and then as a collector’s showpiece. By the mid-nineteenth century, when nurseries hybridized and mass-produced hardy pelargonium varieties for widespread use, the public had grown accustomed to using the common name “geranium” for the plant, and for the most part, we continue to do so today.
 <param ve-image fit="contain" primary url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n118_w1253" title="Charles Dickens grew 'Miss Pollock' pelargoniums in pots at Gad's Hill Place, _Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n120_w927" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 
@@ -211,11 +211,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5NzU4NzQ0LC03MjgwODU4MDcsMTYyMD
-c0NTY2NSw3ODY5Mjc4NjEsLTU2MjM4MDAyMCwxMjAxMTYyNzc1
-LC0xNjI5NjE2NTE3LC0xNjgzMTU3NTc1LDI4NzIzMjU0MiwtMT
-g5NjM3MjQ5MSwxMDI1NDY2MjQ0LDE1MDAyOTc2MzYsMTkxOTk5
-OTM2MiwtMzU5ODIwOTgyLDE3OTUzMjY2ODEsMTUyMTk3NDQwOC
-w1ODI1MTY5OTAsLTIwNzg4MjA5MDEsLTg4NDY2NTUyMywxMjU4
-Mjk2OTQ3XX0=
+eyJoaXN0b3J5IjpbLTM0MjE0OTM0MiwzMzk3NTg3NDQsLTcyOD
+A4NTgwNywxNjIwNzQ1NjY1LDc4NjkyNzg2MSwtNTYyMzgwMDIw
+LDEyMDExNjI3NzUsLTE2Mjk2MTY1MTcsLTE2ODMxNTc1NzUsMj
+g3MjMyNTQyLC0xODk2MzcyNDkxLDEwMjU0NjYyNDQsMTUwMDI5
+NzYzNiwxOTE5OTk5MzYyLC0zNTk4MjA5ODIsMTc5NTMyNjY4MS
+wxNTIxOTc0NDA4LDU4MjUxNjk5MCwtMjA3ODgyMDkwMSwtODg0
+NjY1NTIzXX0=
 -->
