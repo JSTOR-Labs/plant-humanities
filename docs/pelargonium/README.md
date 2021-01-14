@@ -96,7 +96,7 @@ Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an 
 
 The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period, that thrives in dry arid climates. The earliest Southern African plants introduced to Europe were cultivated in heated greenhouses to protect them from cold and frost. During the late seventeenth and eighteenth centuries, these diminutive flowers with woody stems and jagged leaves were kept mainly as exotic curiosities and status symbols. They bore little resemblance to their descendants that florists and nurseries bred to be showy ornamental plants for indoor gardens or outdoor flowerbeds. New horticultural technologies, namely the Wardian case and domestic conservatories, and breeding techniques were integral to this transformation of the pelargonium into a Europeanized commodity for the masses.
 <param ve-image primary url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
-<param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="X">
+<param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
 <param ve-image title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/3/37/Floriculture.jpg" title="A retail greenhouse section of a production greenhouse facility in northwest Ohio shows some of the diversity of floricultural plants produced in that region, 2007, Agricultural Research Service, United States Department of Agriculture, d786-2, public domain, Wikimedia">
@@ -215,11 +215,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDc3Mjk3NSwtMzc1NTY5MTgxLDEwND
-E2NDM5NjgsLTgxMDU1NzY0OSwxMDEzNTQ5NjEsMTYzMTM3NTkw
-OCwtMTYxNDc1ODE0LC0xNjc0OTMyOTk1LDQwODQ1MjY2NCw0Nz
-Y4MTU3NTQsLTEyMzUyMTI0NjYsNTg1NTI4NTA2LC0yMDM0NDA5
-NDIwLC0xMzcwMjk2ODA2LC02MTQwMzczNywxMDY3MzE1MDcsNz
-U2NjE5NDgwLDEwNzcyMzc2MTQsLTIyNDgxMTI3OCwxNDU4MzY5
-NDc2XX0=
+eyJoaXN0b3J5IjpbLTE2NTIxODExOTEsLTM3NTU2OTE4MSwxMD
+QxNjQzOTY4LC04MTA1NTc2NDksMTAxMzU0OTYxLDE2MzEzNzU5
+MDgsLTE2MTQ3NTgxNCwtMTY3NDkzMjk5NSw0MDg0NTI2NjQsND
+c2ODE1NzU0LC0xMjM1MjEyNDY2LDU4NTUyODUwNiwtMjAzNDQw
+OTQyMCwtMTM3MDI5NjgwNiwtNjE0MDM3MzcsMTA2NzMxNTA3LD
+c1NjYxOTQ4MCwxMDc3MjM3NjE0LC0yMjQ4MTEyNzgsMTQ1ODM2
+OTQ3Nl19
 -->
