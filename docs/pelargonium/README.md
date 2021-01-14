@@ -85,7 +85,7 @@ This interactive timeline showing the nomenclature history of the _Pelargonium_ 
 <param ve-entity eid="Q3898877" title="Pelargonium zonale">
 <param ve-entity eid="Q551638" title="Pierre-Joseph Redouté">
 <param ve-entity eid="Q2003356" title="Robert Sweet">
-Because Linnaean taxonomy was so revered in the late eighteenth century, his near contemporary Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargonium_ as an independent genus was overlooked.[^ref9] Underappreciated at the time, L’Héritier de Brutelle’s taxonomic revisions are evidenced in [Geraniologia](https://www.biodiversitylibrary.org/page/46555490), from 1787–88, that contains many stunning pelargonium portraits, like this one, designed by the accomplished artist Pierre Joseph Redouté. Eventually, in the early-1800s, Robert Sweet introduced a serious classification system to ease the shortfall in Linnaean nomenclature, creating ten new genera in the _Geraniaceae_ family. His five-volume study of pelargoniums, _[Geraniaceae: The Natural Order of Gerania](https://www.biodiversitylibrary.org/page/47461998)_, published between 1820 and 1830, is a crucial source of information about the plant.[^ref10] The volumes' more than 500 plant portraits attest not only to the tremendous number of hybrids available at the time, but also to the popularity of the flower with a common name–“geranium”–then too deeply rooted in the cultural imagation to be changed.
+Because Linnaean taxonomy was so revered in the late eighteenth century, his near contemporary Charles-Louis L’Héritier de Brutelle’s work to distinguish the _Pelargonium_ as an independent genus was overlooked.[^ref9] Underappreciated at the time, L’Héritier de Brutelle’s taxonomic revisions are evidenced in [Geraniologia](https://www.biodiversitylibrary.org/page/46555490), from 1787–88, that contains many stunning pelargonium portraits, like this one, designed by the accomplished artist Pierre Joseph Redouté. Eventually, in the early-1800s, Robert Sweet introduced a serious classification system to ease the shortfall in Linnaean nomenclature, creating ten new genera in the _Geraniaceae_ family. His five-volume study of pelargoniums, _[Geraniaceae: The Natural Order of Gerania](https://www.biodiversitylibrary.org/page/47461998)_, published between 1820 and 1830, is a crucial source of information about the plant.[^ref10] The volumes' more than 500 plant portraits attest not only to the tremendous number of hybrids available at the time, but also to the popularity of the flower with a common name–“geranium”–then too deeply rooted in the cultural imagination to be changed.
 <param ve-image primary url="https://ia802708.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000519287&itemPath=%2F17%2Fitems%2Fmobot31753000519287&server=ia802708.us.archive.org&page=n34_w1032" title="Pierre Joseph Redouté, _Pelargonium graveolens_, Charles Louis Héritier de Brutelle, _Geraniologia: seu, E̲r̲o̲d̲i̲i̲, P̲e̲l̲a̲r̲g̲o̲n̲i̲i̲, G̲e̲r̲a̲n̲i̲i̲, M̲o̲n̲s̲o̲n̲i̲̲æ et G̲r̲i̲e̲l̲i̲: historia iconibus illustrata_, Paris: Typis Petri-Francisci Didot: Prostat apud Ludovicum Nicolaum Prévost,1787-1788, Missouri Botanical Garden, Biodiversity Heritage Library">
 <param ve-image url="Pelargonium_geraniaceaev5swee_0334.jpg" title="_Pelargonium Glorianum. Queen of Portugal's Stork's-bill_,Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, New York Botanical Garden, LuEsther T. Mertz Library, Biodiversity Heritage Library">
 
@@ -211,11 +211,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk2MTY1MTcsLTE2ODMxNTc1NzUsMj
-g3MjMyNTQyLC0xODk2MzcyNDkxLDEwMjU0NjYyNDQsMTUwMDI5
-NzYzNiwxOTE5OTk5MzYyLC0zNTk4MjA5ODIsMTc5NTMyNjY4MS
-wxNTIxOTc0NDA4LDU4MjUxNjk5MCwtMjA3ODgyMDkwMSwtODg0
-NjY1NTIzLDEyNTgyOTY5NDcsMTU5MTg4NDk1MCwtMTA4MDk1MT
-I3NCwtNjEwMTE0MDA5LC0zMzk4MjY1MDksLTEwNzIxNDc3NzYs
-OTY4OTg5Mjk1XX0=
+eyJoaXN0b3J5IjpbLTE4NTk2NDIyNTAsLTE2Mjk2MTY1MTcsLT
+E2ODMxNTc1NzUsMjg3MjMyNTQyLC0xODk2MzcyNDkxLDEwMjU0
+NjYyNDQsMTUwMDI5NzYzNiwxOTE5OTk5MzYyLC0zNTk4MjA5OD
+IsMTc5NTMyNjY4MSwxNTIxOTc0NDA4LDU4MjUxNjk5MCwtMjA3
+ODgyMDkwMSwtODg0NjY1NTIzLDEyNTgyOTY5NDcsMTU5MTg4ND
+k1MCwtMTA4MDk1MTI3NCwtNjEwMTE0MDA5LC0zMzk4MjY1MDks
+LTEwNzIxNDc3NzZdfQ==
 -->
