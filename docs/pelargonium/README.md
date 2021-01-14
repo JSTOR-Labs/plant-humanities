@@ -95,9 +95,8 @@ Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an 
 ### New Technologies and the Making of the Modern Pelargonium
 
 The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period, that thrives in dry arid climates. The earliest Southern African plants introduced to Europe were cultivated in heated greenhouses to protect them from cold and frost. During the late seventeenth and eighteenth centuries, these diminutive flowers with woody stems and jagged leaves were kept mainly as exotic curiosities and status symbols. They bore little resemblance to their descendants that florists and nurseries bred to be showy ornamental plants for indoor gardens or outdoor flowerbeds. New horticultural technologies, namely the Wardian case and domestic conservatories, and breeding techniques were integral to this transformation of the pelargonium into a Europeanized commodity for the masses, particularly in England and France.
-<param ve-image primary url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="X">
-<param ve-image
-title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
+<param ve-image primary url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
+<param ve-image title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/3/37/Floriculture.jpg" title="A retail greenhouse section of a production greenhouse facility in northwest Ohio shows some of the diversity of floricultural plants produced in that region, 2007, Agricultural Research Service, United States Department of Agriculture, d786-2, public domain, Wikimedia">
 
@@ -215,7 +214,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTk0MzA4NiwxMDQxNjQzOTY4LC04MT
+eyJoaXN0b3J5IjpbLTM3NTU2OTE4MSwxMDQxNjQzOTY4LC04MT
 A1NTc2NDksMTAxMzU0OTYxLDE2MzEzNzU5MDgsLTE2MTQ3NTgx
 NCwtMTY3NDkzMjk5NSw0MDg0NTI2NjQsNDc2ODE1NzU0LC0xMj
 M1MjEyNDY2LDU4NTUyODUwNiwtMjAzNDQwOTQyMCwtMTM3MDI5
