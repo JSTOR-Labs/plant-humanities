@@ -37,7 +37,7 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 <param ve-entity eid="Q25365" title="Gruidae" aliases="crane"> 
 <param ve-entity eid="Q3259077" title="heron"> 
 <param ve-entity eid="Q28507" title="Ciconiidae"> 
-The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the family _Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, at least superficially, one another. The name _Pelargonium_ comes from the Greek _pelargos_ (“stork”), which alludes to the plant’s long, beak-shaped fruit. These columnar capsules, visible in the dried specimens, help the plant distribute its seeds. Similarly, _Geranium_ from _géranos_ (“crane”) and _Erodium_ from _erodios_ (“heron”) describe the columnar fruit capsules that characterize some of their species. Yet, there are other morphological traits that distinguish members of the genera _Pelargonium_ and _Geranium_ from one another. 
+The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the family _Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, at least superficially, one another. The name _Pelargonium_ comes from the Greek _pelargos_ (“stork”), which alludes to the plant’s long, beak-shaped fruit. These columnar capsules, which are visible in the dried specimens, at right, emerge from the center of the flower to aid in seed distribution. Similarly, _Geranium_ from _géranos_ (“crane”) and _Erodium_ from _erodios_ (“heron”) describe the columnar fruit capsules that characterize some of their species. Yet, there are other morphological traits that distinguish members of the genera _Pelargonium_ and _Geranium_ from one another. 
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="The dried specimen on this herbarium sheet shows the beak-shaped fruit for which the pelargonium was named. Pelargonium alchemilloides (L.) L'Hér.">
 
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
@@ -211,7 +211,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg5Mzk2NDAsLTE4NjIzOTUyNSwzNj
+eyJoaXN0b3J5IjpbLTE2NTU2NTE5ODMsLTE4NjIzOTUyNSwzNj
 E1Mjc4NTAsLTEyNTQxNzkwMzIsLTMzNTU3MTc0MCwxMzE5NTIw
 NTA3LDU2MzQ5NTU4MSwzMzk3NTg3NDQsLTcyODA4NTgwNywxNj
 IwNzQ1NjY1LDc4NjkyNzg2MSwtNTYyMzgwMDIwLDEyMDExNjI3
