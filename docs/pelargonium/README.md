@@ -94,7 +94,7 @@ Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an 
 
 ### New Technologies and the Making of the Modern Pelargonium
 
-The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period, that thrives in dry arid climates. The earliest Southern African plants introduced to Europe were cultivated in heated greenhouses to protect them from cold and frost. During the late seventeenth and eighteenth centuries, these diminutive flowers with woody stems and jagged leaves were kept mainly as exotic curiosities and status symbols. They bore little resemblance to the showy red flowers with dazzling pattern foliage and hardy constitutions favored by Dickens. Indeed, new horticultural technologies and breeding techniques of the early and mid-nineteenth century transformed the pelargonium into a Europeanized commodity for the masses.
+The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period, that thrives in dry arid climates. The earliest Southern African plants introduced to Europe were cultivated in heated greenhouses to protect them from cold and frost. During the late seventeenth and eighteenth centuries, these diminutive flowers with woody stems and jagged leaves were kept mainly as exotic curiosities and status symbols. They bore little resemblance to their cultivated descendents showy red flowers with dazzling pattern foliage and hardy constitutions favored by Dickens. Indeed, new horticultural technologies and breeding techniques of the early and mid-nineteenth century transformed the pelargonium into a Europeanized commodity for the masses.
 
 <param ve-entity eid="Q2779805" title="Wardian case">
 <param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
@@ -215,11 +215,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3Mzk1NDAxMiwxMDEzNTQ5NjEsMTYzMT
-M3NTkwOCwtMTYxNDc1ODE0LC0xNjc0OTMyOTk1LDQwODQ1MjY2
-NCw0NzY4MTU3NTQsLTEyMzUyMTI0NjYsNTg1NTI4NTA2LC0yMD
-M0NDA5NDIwLC0xMzcwMjk2ODA2LC02MTQwMzczNywxMDY3MzE1
-MDcsNzU2NjE5NDgwLDEwNzcyMzc2MTQsLTIyNDgxMTI3OCwxND
-U4MzY5NDc2LDEwNjAyMzU3MzEsLTE4NjIzOTUyNSwzNjE1Mjc4
-NTBdfQ==
+eyJoaXN0b3J5IjpbLTE2MzY4MDY3ODgsMTAxMzU0OTYxLDE2Mz
+EzNzU5MDgsLTE2MTQ3NTgxNCwtMTY3NDkzMjk5NSw0MDg0NTI2
+NjQsNDc2ODE1NzU0LC0xMjM1MjEyNDY2LDU4NTUyODUwNiwtMj
+AzNDQwOTQyMCwtMTM3MDI5NjgwNiwtNjE0MDM3MzcsMTA2NzMx
+NTA3LDc1NjYxOTQ4MCwxMDc3MjM3NjE0LC0yMjQ4MTEyNzgsMT
+Q1ODM2OTQ3NiwxMDYwMjM1NzMxLC0xODYyMzk1MjUsMzYxNTI3
+ODUwXX0=
 -->
