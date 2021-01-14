@@ -65,7 +65,7 @@ The _Pelargonium_, which includes more than 280 accepted species, is native to S
 <param ve-entity eid="Q66569" title="Paul Hermann">
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
 <param ve-entity eid="Q43631" title="Leiden">
-Of the many _Pelargonium_ species native to the Cape Peninsula, _Pelargonium triste_ was probably the first to reach Europe, and early printed books indicate that is was introduced to France and Britain by the 1630s.[^ref5] In 1672, several more species were collected—mostly from Table Mountain, on the Cape Peninsula—and shipped to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref6] Hermann, whose 1689-book _[Paradisi Batavi Prodromus](https://bibdigital.rjb.csic.es/idurl/1/13582)_ discusses a pelargonium, <![endif]--> , is credited with collecting the first specimen of _P. cucullatum_ to reach Europe.[^ref7] However, it is important to note that some degree of mystery surrounds the plants because there was not yet a standard language to identify them.
+Of the many _Pelargonium_ species native to the Cape Peninsula, _Pelargonium triste_ was probably the first to reach Europe, and early printed books indicate that is was introduced to France and Britain by the 1630s.[^ref5] In 1672, several more species were collected—mostly from Table Mountain, on the Cape Peninsula—and shipped to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref6] Hermann, whose 1689-book _[Paradisi Batavi Prodromus](https://bibdigital.rjb.csic.es/idurl/1/13582)_ discusses a pelargonium, is credited with collecting the first specimen of _P. cucullatum_ to reach Europe.[^ref7] However, it is important to note that some mystery surrounds the identities of these plants because there was not yet a standard language to identify them.
 <param ve-map center="-24.569, 25.879" zoom="5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
@@ -211,7 +211,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODExMjUyNDAsLTIyNDgxMTI3OCwxND
+eyJoaXN0b3J5IjpbLTEyMDQ2NzUwNDQsLTIyNDgxMTI3OCwxND
 U4MzY5NDc2LDEwNjAyMzU3MzEsLTE4NjIzOTUyNSwzNjE1Mjc4
 NTAsLTEyNTQxNzkwMzIsLTMzNTU3MTc0MCwxMzE5NTIwNTA3LD
 U2MzQ5NTU4MSwzMzk3NTg3NDQsLTcyODA4NTgwNywxNjIwNzQ1
