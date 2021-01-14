@@ -84,7 +84,7 @@ Botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ 
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
 <param ve-entity eid="Q465834" title="Charles Louis L'Héritier de Brutelle" aliases="Charles-Louis L’Héritier de Brutelle’s">
-<param ve-entity eid="Q164306" title="Pelargonium graveolens" aliases="Pelargonium graveolens">
+<param ve-entity eid="Q164306" title="Pelargonium graveolens" aliases="P. graveolens">
 <param ve-entity eid="Q551638" title="Pierre-Joseph Redouté">
 <param ve-entity eid="Q2003356" title="Robert Sweet">
 Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an independent genus, though his work was overlooked due to the reverence for Linnaean taxonomy in the late eighteenth century .[^ref9] Although L’Héritier de Brutelle never published his text outlining these taxonomic revisions, botanical illustrations prepared for the project by Pierre Joseph Redouté were printed under the title _[Geraniologia](https://www.biodiversitylibrary.org/page/46555490)_, from 1787–88. The one, at right, portrays _P. graveolens_, a rose-scented pelargonium that still bears the name given to it by L’Héritier de Brutelle. Eventually, in the early-1800s, Robert Sweet introduced a serious classification system to ease the shortfall in Linnaean nomenclature, creating ten new genera in the _Geraniaceae_ family. His five-volume study of pelargoniums, _[Geraniaceae: The Natural Order of Gerania](https://www.biodiversitylibrary.org/page/47461998)_, published between 1820 and 1830, remains a vital source of information about the plant.[^ref10] The volumes' more than 500 plant descriptions attest not only to the tremendous number of hybrids then available, but also to the popularity of the flower with a common name–the misnomer “geranium”–that was by then too deeply rooted in cultural imaginations to be changed.
@@ -213,11 +213,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODUzNTg4LDQwODQ1MjY2NCw0NzY4MT
-U3NTQsLTEyMzUyMTI0NjYsNTg1NTI4NTA2LC0yMDM0NDA5NDIw
-LC0xMzcwMjk2ODA2LC02MTQwMzczNywxMDY3MzE1MDcsNzU2Nj
-E5NDgwLDEwNzcyMzc2MTQsLTIyNDgxMTI3OCwxNDU4MzY5NDc2
-LDEwNjAyMzU3MzEsLTE4NjIzOTUyNSwzNjE1Mjc4NTAsLTEyNT
-QxNzkwMzIsLTMzNTU3MTc0MCwxMzE5NTIwNTA3LDU2MzQ5NTU4
-MV19
+eyJoaXN0b3J5IjpbLTE2NzQ5MzI5OTUsNDA4NDUyNjY0LDQ3Nj
+gxNTc1NCwtMTIzNTIxMjQ2Niw1ODU1Mjg1MDYsLTIwMzQ0MDk0
+MjAsLTEzNzAyOTY4MDYsLTYxNDAzNzM3LDEwNjczMTUwNyw3NT
+Y2MTk0ODAsMTA3NzIzNzYxNCwtMjI0ODExMjc4LDE0NTgzNjk0
+NzYsMTA2MDIzNTczMSwtMTg2MjM5NTI1LDM2MTUyNzg1MCwtMT
+I1NDE3OTAzMiwtMzM1NTcxNzQwLDEzMTk1MjA1MDcsNTYzNDk1
+NTgxXX0=
 -->
