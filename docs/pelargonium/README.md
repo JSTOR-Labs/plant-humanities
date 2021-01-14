@@ -80,7 +80,7 @@ The nomenclature confusion surrounding the _Pelargonium_ is borne out in the cas
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_ has not been widely hybridized and cultural interest in the plant is limited mainly to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
-Botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ since the mid-eighteenth century. Indeed, Carl Linnaeus, in his 1753-book [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref8] This interactive timeline showing the nomenclature history of the _Pelargonium_ and the _Geranium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of the _Pelargonium_. As it explains, 
+Botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ since the mid-eighteenth century. Indeed, Carl Linnaeus, in his 1753-book [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums including the _Pelargonium zonale_.[^ref8] This interactive timeline showing the nomenclature history of _Pelargonium_ and  _Geranium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of pelargoniums.
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
 <param ve-entity eid="Q465834" title="Charles Louis L'Héritier de Brutelle" aliases="Charles-Louis L’Héritier de Brutelle’s">
@@ -213,7 +213,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTcxNjA0MCwtMjAzNDQwOTQyMCwtMT
+eyJoaXN0b3J5IjpbLTY5MDE1MTkzMywtMjAzNDQwOTQyMCwtMT
 M3MDI5NjgwNiwtNjE0MDM3MzcsMTA2NzMxNTA3LDc1NjYxOTQ4
 MCwxMDc3MjM3NjE0LC0yMjQ4MTEyNzgsMTQ1ODM2OTQ3NiwxMD
 YwMjM1NzMxLC0xODYyMzk1MjUsMzYxNTI3ODUwLC0xMjU0MTc5
