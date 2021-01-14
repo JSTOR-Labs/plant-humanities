@@ -170,6 +170,7 @@ Today, pelargonium oil continues to be industrially produced in factories across
 
 Although the _Pelargonium_ by any other name would smell as sweet, our recognition of its unique identity is long overdue. Indeed, the _Pelargonium_’s almost-forgotten global history extremely rich blossoming as it does at the intersections of colonial trade, botany, agriculture, gardening, art, culture, and industry. Telling the story of the _Pelargonium_ as an entity separate from the _Geranium_, illuminates just some of the many ways in which it has been interwoven with human histories – hiding in plain sight, as it were, by virtue of its long-persisting misnomer.
 <param ve-image primary fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.highres" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), 1907-1920, photograph, Source gallica.bnf.fr / BnF">
+<param ve-image fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.highres" title="James , _Plant de géranium rouge_ (Red Geranium Plant), 1907-1920, photograph, Source gallica.bnf.fr / BnF">
 
 ### References
 [^ref1]: Hartley, Jenny. 2018. "Dickens and the Geranium." _The Dickensian_ 114 (504) (Spring): 5-14. http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/dickens-geranium/docview/2056426823/se-2?accountid=11311.
@@ -214,11 +215,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDA1MTQxLC0xMzI5OTc0OTY0LC0xNj
-UyMTgxMTkxLC0zNzU1NjkxODEsMTA0MTY0Mzk2OCwtODEwNTU3
-NjQ5LDEwMTM1NDk2MSwxNjMxMzc1OTA4LC0xNjE0NzU4MTQsLT
-E2NzQ5MzI5OTUsNDA4NDUyNjY0LDQ3NjgxNTc1NCwtMTIzNTIx
-MjQ2Niw1ODU1Mjg1MDYsLTIwMzQ0MDk0MjAsLTEzNzAyOTY4MD
-YsLTYxNDAzNzM3LDEwNjczMTUwNyw3NTY2MTk0ODAsMTA3NzIz
-NzYxNF19
+eyJoaXN0b3J5IjpbLTQ0MTc5MzE4NSwtMTMyOTk3NDk2NCwtMT
+Y1MjE4MTE5MSwtMzc1NTY5MTgxLDEwNDE2NDM5NjgsLTgxMDU1
+NzY0OSwxMDEzNTQ5NjEsMTYzMTM3NTkwOCwtMTYxNDc1ODE0LC
+0xNjc0OTMyOTk1LDQwODQ1MjY2NCw0NzY4MTU3NTQsLTEyMzUy
+MTI0NjYsNTg1NTI4NTA2LC0yMDM0NDA5NDIwLC0xMzcwMjk2OD
+A2LC02MTQwMzczNywxMDY3MzE1MDcsNzU2NjE5NDgwLDEwNzcy
+Mzc2MTRdfQ==
 -->
