@@ -94,7 +94,7 @@ Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an 
 
 ### New Technologies and the Making of the Modern Pelargonium
 
-The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period, that thrives in dry arid climates. The earliest Southern African plants introduced to Europe were cultivated in heated greenhouses to protect them from cold and frost. During the late seventeenth,  eighteenth, and early nineteenth centuries, these diminutive flowers were kept mainly as scientific specimens, exotic curiosities, status symbols, and conversation pieces. They bore little resemblance to their mid-nineteenth-century descendants that florists and nurseries bred to be showy ornamental plants for indoor gardens or outdoor flowerbeds. New technologies used to fabricate iron and plate glass and construction methods for using the materials to build heated conservatories, fowere integral to the transformation of the pelargonium into a Europeanized commodity for the masses.
+The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period, that thrives in dry arid climates. The earliest Southern African plants introduced to Europe were cultivated in heated greenhouses to protect them from cold and frost. During the late seventeenth,  eighteenth, and early nineteenth centuries, these diminutive flowers were kept mainly as scientific specimens, exotic curiosities, status symbols, and conversation pieces. They bore little resemblance to their mid-nineteenth-century descendants that florists and nurseries bred to be showy ornamental plants for indoor gardens or outdoor flowerbeds. New technologies used to fabricate iron and plate glass and construction methods for using the materials to build heated conservatories, for commercial and domestic purposes, were integral to the transformation of the pelargonium into a Europeanized commodity for the masses.
 <param ve-image primary url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
 <param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
 <param ve-image title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
@@ -215,11 +215,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI3MDIwMzgsLTE0NjY0MTMzMSwtMT
-MyOTk3NDk2NCwtMTY1MjE4MTE5MSwtMzc1NTY5MTgxLDEwNDE2
-NDM5NjgsLTgxMDU1NzY0OSwxMDEzNTQ5NjEsMTYzMTM3NTkwOC
-wtMTYxNDc1ODE0LC0xNjc0OTMyOTk1LDQwODQ1MjY2NCw0NzY4
-MTU3NTQsLTEyMzUyMTI0NjYsNTg1NTI4NTA2LC0yMDM0NDA5ND
-IwLC0xMzcwMjk2ODA2LC02MTQwMzczNywxMDY3MzE1MDcsNzU2
-NjE5NDgwXX0=
+eyJoaXN0b3J5IjpbNjAzODcyNDAwLC0xNDY2NDEzMzEsLTEzMj
+k5NzQ5NjQsLTE2NTIxODExOTEsLTM3NTU2OTE4MSwxMDQxNjQz
+OTY4LC04MTA1NTc2NDksMTAxMzU0OTYxLDE2MzEzNzU5MDgsLT
+E2MTQ3NTgxNCwtMTY3NDkzMjk5NSw0MDg0NTI2NjQsNDc2ODE1
+NzU0LC0xMjM1MjEyNDY2LDU4NTUyODUwNiwtMjAzNDQwOTQyMC
+wtMTM3MDI5NjgwNiwtNjE0MDM3MzcsMTA2NzMxNTA3LDc1NjYx
+OTQ4MF19
 -->
