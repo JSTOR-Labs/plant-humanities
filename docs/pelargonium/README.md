@@ -87,7 +87,7 @@ Botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ 
 <param ve-entity eid="Q164306" title="Pelargonium graveolens" aliases="Pelargonium graveolens">
 <param ve-entity eid="Q551638" title="Pierre-Joseph Redouté">
 <param ve-entity eid="Q2003356" title="Robert Sweet">
-Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an independent genus, though his work was overlooked due to the reverence for Linnaean taxonomy in the late eighteenth century .[^ref9] Although L’Héritier de Brutelle never published his text outlining these taxonomic revisions, botanical illustrations prepared for the project by Pierre Joseph Redouté were printed under the title [Geraniologia](https://www.biodiversitylibrary.org/page/46555490), from 1787–88. The one, at right, portrays _P. graveolens_, a rose-scented pelargonium that still bears the name given to it by L’Héritier de Brutelle. Eventually, in the early-1800s, Robert Sweet introduced a serious classification system to ease the shortfall in Linnaean nomenclature, creating ten new genera in the _Geraniaceae_ family. His five-volume study of pelargoniums, _[Geraniaceae: The Natural Order of Gerania](https://www.biodiversitylibrary.org/page/47461998)_, published between 1820 and 1830, remains a vital source of information about the plant.[^ref10] The volumes' more than 500 plant descriptions attest not only to the tremendous number of hybrids then available, but also to the popularity of the flower with a common name–the misnomer “geranium”–that was by then too deeply rooted in cultural imaginations to be changed.
+Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an independent genus, though his work was overlooked due to the reverence for Linnaean taxonomy in the late eighteenth century .[^ref9] Although L’Héritier de Brutelle never published his text outlining these taxonomic revisions, botanical illustrations prepared for the project by Pierre Joseph Redouté were printed under the title _[Geraniologia](https://www.biodiversitylibrary.org/page/46555490)_, from 1787–88. The one, at right, portrays _P. graveolens_, a rose-scented pelargonium that still bears the name given to it by L’Héritier de Brutelle. Eventually, in the early-1800s, Robert Sweet introduced a serious classification system to ease the shortfall in Linnaean nomenclature, creating ten new genera in the _Geraniaceae_ family. His five-volume study of pelargoniums, _[Geraniaceae: The Natural Order of Gerania](https://www.biodiversitylibrary.org/page/47461998)_, published between 1820 and 1830, remains a vital source of information about the plant.[^ref10] The volumes' more than 500 plant descriptions attest not only to the tremendous number of hybrids then available, but also to the popularity of the flower with a common name–the misnomer “geranium”–that was by then too deeply rooted in cultural imaginations to be changed.
 <param ve-image primary url="https://ia802708.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000519287&itemPath=%2F17%2Fitems%2Fmobot31753000519287&server=ia802708.us.archive.org&page=n34_w1032" title="Pierre Joseph Redouté, _Pelargonium graveolens_, Charles Louis Héritier de Brutelle, _Geraniologia: seu, E̲r̲o̲d̲i̲i̲, P̲e̲l̲a̲r̲g̲o̲n̲i̲i̲, G̲e̲r̲a̲n̲i̲i̲, M̲o̲n̲s̲o̲n̲i̲̲æ et G̲r̲i̲e̲l̲i̲: historia iconibus illustrata_, Paris: Typis Petri-Francisci Didot: Prostat apud Ludovicum Nicolaum Prévost,1787-1788, Missouri Botanical Garden, Biodiversity Heritage Library">
 <param ve-image url="Pelargonium_geraniaceaev5swee_0334.jpg" title="_Pelargonium Glorianum. Queen of Portugal's Stork's-bill_,Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, New York Botanical Garden, LuEsther T. Mertz Library, Biodiversity Heritage Library">
 
@@ -213,11 +213,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4NDUyNjY0LDQ3NjgxNTc1NCwtMTIzNT
-IxMjQ2Niw1ODU1Mjg1MDYsLTIwMzQ0MDk0MjAsLTEzNzAyOTY4
-MDYsLTYxNDAzNzM3LDEwNjczMTUwNyw3NTY2MTk0ODAsMTA3Nz
-IzNzYxNCwtMjI0ODExMjc4LDE0NTgzNjk0NzYsMTA2MDIzNTcz
-MSwtMTg2MjM5NTI1LDM2MTUyNzg1MCwtMTI1NDE3OTAzMiwtMz
-M1NTcxNzQwLDEzMTk1MjA1MDcsNTYzNDk1NTgxLDMzOTc1ODc0
-NF19
+eyJoaXN0b3J5IjpbMjAyODUzNTg4LDQwODQ1MjY2NCw0NzY4MT
+U3NTQsLTEyMzUyMTI0NjYsNTg1NTI4NTA2LC0yMDM0NDA5NDIw
+LC0xMzcwMjk2ODA2LC02MTQwMzczNywxMDY3MzE1MDcsNzU2Nj
+E5NDgwLDEwNzcyMzc2MTQsLTIyNDgxMTI3OCwxNDU4MzY5NDc2
+LDEwNjAyMzU3MzEsLTE4NjIzOTUyNSwzNjE1Mjc4NTAsLTEyNT
+QxNzkwMzIsLTMzNTU3MTc0MCwxMzE5NTIwNTA3LDU2MzQ5NTU4
+MV19
 -->
