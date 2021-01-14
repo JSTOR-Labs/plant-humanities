@@ -94,6 +94,8 @@ Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an 
 
 ### New Technologies and the Making of the Modern Pelargonium
 
+The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period, that thrives in dry arid climates. The earliest Southern African plants introduced to Europe were cultivated in heated greenhouses to protect them from cold and frost. During the late seventeenth and eighteenth centuries, these diminutive flowers with woody stems and jagged leaves were kept mainly as exotic curiosities and status symbols. They bore little resemblance to the showy red flowers with dazzling pattern foliage and hardy constitutions favored by Dickens. Indeed, new horticultural technologies and breeding techniques of the early and mid-nineteenth century transformed the pelargonium into a Europeanized commodity for the masses.
+
 <param ve-entity eid="Q2779805" title="Wardian case">
 <param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
 Early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container in which plants could survive, without watering, for months at a time. Prior to that technology, botanists encountered dreadful difficulties transporting live specimens during overseas voyages. Such journeys lasted for months, during which time plants suffered from exposure to salt water and harsh weather, extreme changes in climate, and lack of proper care. Indeed, John Livingstone estimated in 1819 that “only one in a thousand plants survived the journey.”[^ref11] The Wardian case created the conditions for a major globe plant migration on an unprecedented scale, as the glazed box was employed extensively by colonial enterprises, botanic gardens, plant nurseries, and individual collectors.[^ref12] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotics indoors in such ornamental glass furnishings, safely protected from the industrial pollution in the air as well as the varying temperatures of the British climate.[^ref13]
@@ -213,11 +215,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzU0OTYxLDE2MzEzNzU5MDgsLTE2MT
-Q3NTgxNCwtMTY3NDkzMjk5NSw0MDg0NTI2NjQsNDc2ODE1NzU0
-LC0xMjM1MjEyNDY2LDU4NTUyODUwNiwtMjAzNDQwOTQyMCwtMT
-M3MDI5NjgwNiwtNjE0MDM3MzcsMTA2NzMxNTA3LDc1NjYxOTQ4
-MCwxMDc3MjM3NjE0LC0yMjQ4MTEyNzgsMTQ1ODM2OTQ3NiwxMD
-YwMjM1NzMxLC0xODYyMzk1MjUsMzYxNTI3ODUwLC0xMjU0MTc5
-MDMyXX0=
+eyJoaXN0b3J5IjpbMTA3Mzk1NDAxMiwxMDEzNTQ5NjEsMTYzMT
+M3NTkwOCwtMTYxNDc1ODE0LC0xNjc0OTMyOTk1LDQwODQ1MjY2
+NCw0NzY4MTU3NTQsLTEyMzUyMTI0NjYsNTg1NTI4NTA2LC0yMD
+M0NDA5NDIwLC0xMzcwMjk2ODA2LC02MTQwMzczNywxMDY3MzE1
+MDcsNzU2NjE5NDgwLDEwNzcyMzc2MTQsLTIyNDgxMTI3OCwxND
+U4MzY5NDc2LDEwNjAyMzU3MzEsLTE4NjIzOTUyNSwzNjE1Mjc4
+NTBdfQ==
 -->
