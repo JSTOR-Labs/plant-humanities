@@ -94,7 +94,7 @@ Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an 
 
 ### New Technologies and the Making of the Modern Pelargonium
 
-The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period, that thrives in dry arid climates. The earliest plants introduced from Southern Africa to Europe were cultivated in heated greenhouses to protect them from cold and frost. During the late seventeenth, eighteenth, and early nineteenth centuries, these pelargoniums that produced diminutive flowers were kept mainly as scientific specimens, exotic curiosities, status symbols, and conversation pieces. New technologies–both for fabricating iron and plate glass, and for building conservatories from these materials–were integral to popularization of the pelargonium because they provided spaces where florists and collectors could grow, arrange, and display them.
+The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a long bloom period, that thrives in dry arid climates. The earliest plants introduced from Southern Africa to Europe were cultivated in heated greenhouses to protect them from cold and frost. During the late seventeenth, eighteenth, and early nineteenth centuries, these pelargoniums that produced diminutive flowers were kept mainly as scientific specimens, exotic curiosities, status symbols, and conversation pieces. New technologies–both for fabricating iron and plate glass, and for building conservatories from these materials–were integral to popularizing the pelargonium because they provided spaces where florists and collectors could grow, arrange, and display them.
 <param ve-image primary url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
 <param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
 <param ve-image title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
@@ -216,7 +216,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTU3NzcyNSwyNjgxOTcxMjAsLTQwNT
+eyJoaXN0b3J5IjpbMTU0MDY2Nzc0MSwyNjgxOTcxMjAsLTQwNT
 A2NjI0NCwtMTA3MzUxNjg2Niw2MDM4NzI0MDAsLTE0NjY0MTMz
 MSwtMTMyOTk3NDk2NCwtMTY1MjE4MTE5MSwtMzc1NTY5MTgxLD
 EwNDE2NDM5NjgsLTgxMDU1NzY0OSwxMDEzNTQ5NjEsMTYzMTM3
