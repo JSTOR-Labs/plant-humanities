@@ -100,7 +100,7 @@ The _Pelargonium_ is a perennial bush that thrives in dry arid climates. The ear
 
 <param ve-entity eid="Q2779805" title="Wardian case">
 <param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
-Early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container for transporting live specimens during overseas voyages, leading to an unprecedented expansion of global plant trades.[^ref11] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotic plants and mixed-species gardens indoors in such ornamental glass furnishings.[^ref12][^ref13] Commercial nurseries of the mid-nineteenth-century capitalized on an increased demand for f build sprawling complexes for breeding plants. In the case of the pelargonium, they produced myriad hybrids and cultivars with showy double-flowers and patterned foliage: fancy ones (regals) for displaying in the home, and hardy ones (zonals) for growing in flowerbeds. Once a rarified exotic plant, the modern pelargonium was now a thoroughly Europeanized commodity with mass appeal.
+Early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container for transporting live specimens during overseas voyages, leading to an unprecedented expansion of global plant trades.[^ref11] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotic plants and mixed-species gardens indoors in such ornamental glass furnishings.[^ref12][^ref13] Commercial nurseries of the mid-nineteenth-century capitalized on an increased demand for live plants, building sprawling complexes to breed hybrids and cultivars. In the case of the pelargonium, they created fancy ones (regals) for displaying in the home, and hardy ones (zonals) for growing in gardens. No longer a rarified lux, the modern pelargonium was now a thoroughly Europeanized commodity with mass appeal.
 <param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DT2030.jpg" title="Seymour Joseph Guy, The Contest for the Bouquet: The Family of Robert Gordon in Their New York Dining-Room, 1866, oil on canvas, 62.5 x 74.9 cm, Purchase, Gift of William E. Dodge, by exchange, and Lila Acheson Wallace Gift, 1992, Metropolitan Museum of Art, public domain">
 <param ve-image fit="contain" url="https://ia800604.us.archive.org/BookReader/BookReaderImages.php?id=ongrowthplantsc00ward&itemPath=%2F0%2Fitems%2Fongrowthplantsc00ward&server=ia800604.us.archive.org&page=n52_w325" title="An 1852 illustration of the Wardian case by Nathaniel Bagshaw Ward, the physician and botanist for whom the case was named, _On the Growth of Plants in Closely Glazed Cases_">
 <param ve-image title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
@@ -214,11 +214,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5NTY1ODQ4LC0xOTE3NDcwOTIwLDEzMT
-k4NTk0MSwtMTA0NzIwNzI1NCwtMjExNTk5NDUyNyw3MTQ1MzU4
-OTEsMTU0MDY2Nzc0MSwyNjgxOTcxMjAsLTQwNTA2NjI0NCwtMT
-A3MzUxNjg2Niw2MDM4NzI0MDAsLTE0NjY0MTMzMSwtMTMyOTk3
-NDk2NCwtMTY1MjE4MTE5MSwtMzc1NTY5MTgxLDEwNDE2NDM5Nj
-gsLTgxMDU1NzY0OSwxMDEzNTQ5NjEsMTYzMTM3NTkwOCwtMTYx
-NDc1ODE0XX0=
+eyJoaXN0b3J5IjpbLTIwODA5MjgyNDUsLTE5MTc0NzA5MjAsMT
+MxOTg1OTQxLC0xMDQ3MjA3MjU0LC0yMTE1OTk0NTI3LDcxNDUz
+NTg5MSwxNTQwNjY3NzQxLDI2ODE5NzEyMCwtNDA1MDY2MjQ0LC
+0xMDczNTE2ODY2LDYwMzg3MjQwMCwtMTQ2NjQxMzMxLC0xMzI5
+OTc0OTY0LC0xNjUyMTgxMTkxLC0zNzU1NjkxODEsMTA0MTY0Mz
+k2OCwtODEwNTU3NjQ5LDEwMTM1NDk2MSwxNjMxMzc1OTA4LC0x
+NjE0NzU4MTRdfQ==
 -->
