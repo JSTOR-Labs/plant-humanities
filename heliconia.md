@@ -7,7 +7,7 @@
 
 ### From Mount Helicon to the Amazon
 
-<param ve-image fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/4/@@images/image" title="Margaret Mee, <em>Heliconia</em>, 1964, gouache, Dumbarton Oaks">
+<param ve-image fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/4/@@images/image" title="Margaret Mee, _Heliconia_, 1964, gouache, Dumbarton Oaks">
 <param ve-entity eid="Q624242" aliases="Heliconias" title="Heliconia genus">
 Heliconias rank among the great botanical beauties of the natural world. Visually alluring with <span data-click-image-zoomto="568,209,1290,1100">sculptural bracts</span> and stunning colors, they have been widely distributed in ornamental gardens and the horticulture trade over the past two centuries. Yet until recently these iconic tropical plants were poorly known to scientists. As large herbs with <span data-click-image-zoomto="1429,2117,1290,1100">banana-like leaves</span> and fleshy, bulky inflorescences they are hard to collect in the field. For the same reason their character is difficult to capture on the herbarium sheet, where the sensuous bracts are reduced to a shriveled shadow of their showy presence in forest clearings. However, in recent decades, both field observations and controlled experiments by botanists and ecologists have produced a wealth of new information about heliconias. These fascinating discoveries illuminate the sophistication of plant-animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.
 
