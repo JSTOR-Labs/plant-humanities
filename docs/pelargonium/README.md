@@ -23,8 +23,10 @@ However, you might be surprised to learn that the scarlet flower with which Dick
 <param ve-image fit="contain" url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n120_w927" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the plant’s popularity during the long nineteenth century reveals how advances in horticultural technologies and breeding adapted the flower to European aesthetic and olfactory sensibilities and in doing so fueled demand for it as an ornamental plant and an aromatic crop. This visual essay also elucidates some reasons that Dicken’s favored flower is still widely used to infuse gardens with its brilliant scarlet color, showy foliage, and pleasant fragrance.
-<param ve-image fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="A dazzling display of pelargoniums in flowerbeds and decorative pots, Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
-<param v
+<param ve-image primary fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="A dazzling display of pelargoniums in flowerbeds and decorative pots, Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
+<param ve-image fit="contain" url="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, 
+
+glass, h 90mm × w 120mm
 <param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Pelargoniums bloom in garden vases, Bowood House, village of Derry Hill, England, alh1, 2015, Flickr, CC BY-NC-ND 2.0">
 <param ve-image fit="contain" url="Pelargonium_SanDiegoBotanicalGarden_Flickr.jpg" title="Pelargonium 'Arcturus', San Diego Botanic Garden, African Garden, cultivar413, 2019, Flickr, CC BY 2.0">
 <param ve-image fit="contain" url="Pelargoniums_Squaredelaplacedauphine_Paris.jpeg" title="Pelargoniums bloom in a window box garden, Square de la Place Dauphine, Paris, 2017, Kristan M. Hanson">
@@ -215,7 +217,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODUyOTc0MCw3MTQ1MzU4OTEsMTU0MD
+eyJoaXN0b3J5IjpbMTIyMzY5MzgwMiw3MTQ1MzU4OTEsMTU0MD
 Y2Nzc0MSwyNjgxOTcxMjAsLTQwNTA2NjI0NCwtMTA3MzUxNjg2
 Niw2MDM4NzI0MDAsLTE0NjY0MTMzMSwtMTMyOTk3NDk2NCwtMT
 Y1MjE4MTE5MSwtMzc1NTY5MTgxLDEwNDE2NDM5NjgsLTgxMDU1
