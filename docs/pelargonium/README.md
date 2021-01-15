@@ -94,11 +94,12 @@ Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an 
 
 ### New Technologies and the Making of the Modern Pelargonium
 
-<param ve-entity eid="Q2779805" title="Wardian case">
-<param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
 The _Pelargonium_ is a perennial bush that thrives in dry arid climates. The earliest plants introduced from Southern Africa to Europe were cultivated in heated greenhouses to protect them from cold and frost. From the late seventeenth to the early nineteenth centuries, these delicate pelargoniums were kept mainly as scientific specimens, exotic curiosities, status symbols, and conversation pieces. New technologies–both for fabricating iron and plate glass, and for building conservatories from these materials–were integral to popularizing the pelargonium in the early nineteenth century because they provided the upper classes with novel spaces for displaying them.
 <param ve-image primary url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
 <param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
+
+<param ve-entity eid="Q2779805" title="Wardian case">
+<param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
 
 Early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container for transporting live specimens during overseas voyages, leading to an unprecedented expansion of global plant trades.[^ref11] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotic plants and mixed-species gardens indoors in such ornamental glass furnishings.[^ref12][^ref13] Commercial nurseries took advantage of the latest technologies to build sprawling complexes for breeding plants. In the case of the pelargonium, they produced myriad hybrids and cultivars with showy double-flowers and patterned foliage: fancy ones (regals) for displaying in the home, and hardy ones (zonals) for growing in flowerbeds. Once a rarified exotic plant, the modern pelargonium was now a thoroughly Europeanized commodity with mass appeal.
 <param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DT2030.jpg" title="Seymour Joseph Guy, The Contest for the Bouquet: The Family of Robert Gordon in Their New York Dining-Room, 1866, oil on canvas, 62.5 x 74.9 cm, Purchase, Gift of William E. Dodge, by exchange, and Lila Acheson Wallace Gift, 1992, Metropolitan Museum of Art, public domain">
@@ -214,11 +215,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc0NzA5MjAsMTMxOTg1OTQxLC0xMD
-Q3MjA3MjU0LC0yMTE1OTk0NTI3LDcxNDUzNTg5MSwxNTQwNjY3
-NzQxLDI2ODE5NzEyMCwtNDA1MDY2MjQ0LC0xMDczNTE2ODY2LD
-YwMzg3MjQwMCwtMTQ2NjQxMzMxLC0xMzI5OTc0OTY0LC0xNjUy
-MTgxMTkxLC0zNzU1NjkxODEsMTA0MTY0Mzk2OCwtODEwNTU3Nj
-Q5LDEwMTM1NDk2MSwxNjMxMzc1OTA4LC0xNjE0NzU4MTQsLTE2
-NzQ5MzI5OTVdfQ==
+eyJoaXN0b3J5IjpbMTEwNDgwMzMwNiwtMTkxNzQ3MDkyMCwxMz
+E5ODU5NDEsLTEwNDcyMDcyNTQsLTIxMTU5OTQ1MjcsNzE0NTM1
+ODkxLDE1NDA2Njc3NDEsMjY4MTk3MTIwLC00MDUwNjYyNDQsLT
+EwNzM1MTY4NjYsNjAzODcyNDAwLC0xNDY2NDEzMzEsLTEzMjk5
+NzQ5NjQsLTE2NTIxODExOTEsLTM3NTU2OTE4MSwxMDQxNjQzOT
+Y4LC04MTA1NTc2NDksMTAxMzU0OTYxLDE2MzEzNzU5MDgsLTE2
+MTQ3NTgxNF19
 -->
