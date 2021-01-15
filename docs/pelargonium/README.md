@@ -75,7 +75,7 @@ Of the many _Pelargonium_ species native to the Cape Peninsula, _Pelargonium tri
 <param ve-entity eid="Q863247" title="nomenclature">
 <param ve-entity eid="Q13996" title="Mediterranean climate">
 <param ve-entity eid="Q355691" title="Jacques Philippe Cornut" aliases="Jacques Philippe Cornut's">
-The nomenclature confusion surrounding the _Pelargonium_ is borne out in the case of _Pelargonium triste_ (“sad pelargonium”), which is the first known species to be cultivated in Britain in the early 1600s. During this period, _P. triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_. That misidentification probably stemmed from Europeans’ prior familiarity with _[Geranium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327764-2)_ species native to the Mediterranean Basin, prompting them to liken the then mysterious pelargonium to plants already known to them. This portrait of _P. triste_ from Jacques Philippe Cornut’s 1635-book _[Canadensium Plantarum](https://bibdigital.rjb.csic.es/idurl/1/13506)_ shows a striking view of the entire plant beneath the now incorrect name “Geranium triste.” Its designer used a naturalistic style to describe the plant’s feather-shaped leaves, stork’s beak fruit, tiny five-petal flowers, and tuberous roots. However, without color, it is difficult to grasp why the sad pelargonium was named thusly after the dull hue of its foliage or flowers.
+The nomenclature confusion surrounding the _Pelargonium_ is borne out in the case of _Pelargonium triste_: the first species cultivated in Britain in the early 1600s. _P. triste_ was erroneously grouped with _Geranium_ and thus misnamed _Geranium triste_. That misidentification probably stemmed from Europeans’ prior familiarity with _[Geranium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327764-2)_ species native to the Mediterranean Basin, prompting them to liken the then mysterious pelargonium to plants already known to them. This portrait of _P. triste_ from Jacques Philippe Cornut’s 1635-book _[Canadensium Plantarum](https://bibdigital.rjb.csic.es/idurl/1/13506)_ shows a striking view of the entire plant beneath the now incorrect name “Geranium triste.” Its designer used a naturalistic style to describe the plant’s feather-shaped leaves, stork’s beak fruit, tiny five-petal flowers, and tuberous roots. However, without color, it is difficult to grasp why the sad pelargonium was named thusly after the dull hue of its foliage or flowers.
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], Jacques-Philippe Cornut, _Canadensium Plantarum_, Paris, Venundantur apud Simonem Le Moyne, 1635, Biblioteca Digital">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_ has not been widely hybridized and cultural interest in the plant is limited mainly to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 
@@ -214,11 +214,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTU5OTQ1MjcsNzE0NTM1ODkxLDE1ND
-A2Njc3NDEsMjY4MTk3MTIwLC00MDUwNjYyNDQsLTEwNzM1MTY4
-NjYsNjAzODcyNDAwLC0xNDY2NDEzMzEsLTEzMjk5NzQ5NjQsLT
-E2NTIxODExOTEsLTM3NTU2OTE4MSwxMDQxNjQzOTY4LC04MTA1
-NTc2NDksMTAxMzU0OTYxLDE2MzEzNzU5MDgsLTE2MTQ3NTgxNC
-wtMTY3NDkzMjk5NSw0MDg0NTI2NjQsNDc2ODE1NzU0LC0xMjM1
-MjEyNDY2XX0=
+eyJoaXN0b3J5IjpbLTE3OTYyOTUwMzYsLTIxMTU5OTQ1MjcsNz
+E0NTM1ODkxLDE1NDA2Njc3NDEsMjY4MTk3MTIwLC00MDUwNjYy
+NDQsLTEwNzM1MTY4NjYsNjAzODcyNDAwLC0xNDY2NDEzMzEsLT
+EzMjk5NzQ5NjQsLTE2NTIxODExOTEsLTM3NTU2OTE4MSwxMDQx
+NjQzOTY4LC04MTA1NTc2NDksMTAxMzU0OTYxLDE2MzEzNzU5MD
+gsLTE2MTQ3NTgxNCwtMTY3NDkzMjk5NSw0MDg0NTI2NjQsNDc2
+ODE1NzU0XX0=
 -->
