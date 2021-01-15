@@ -96,7 +96,7 @@ Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an 
 
 <param ve-entity eid="Q2779805" title="Wardian case">
 <param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
-The _Pelargonium_ is a perennial bush that thrives in dry arid climates. The earliest plants introduced from Southern Africa to Europe were cultivated in heated greenhouses to protect them from cold and frost. During the late seventeenth, eighteenth, and early nineteenth centuries, these pelargoniums were kept mainly as scientific specimens, exotic curiosities, status symbols, and conversation pieces. New technologies–both for fabricating iron and plate glass, and for building conservatories from these materials–were integral to popularizing the pelargonium in the early nineteenth century because they provided acclimatized spaces for growing, arranging, and displaying them. Concurrently, early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container for transporting live specimens during overseas voyages.[^ref11] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotics indoors in such ornamental glass furnishings.[^ref12][^ref13]
+The _Pelargonium_ is a perennial bush that thrives in dry arid climates. The earliest plants introduced from Southern Africa to Europe were cultivated in heated greenhouses to protect them from cold and frost. From the late seventeenth to the early nineteenth centuries, these pelargoniums were kept mainly as scientific specimens, exotic curiosities, status symbols, and conversation pieces. New technologies–both for fabricating iron and plate glass, and for building conservatories from these materials–were integral to popularizing the pelargonium in the early nineteenth century because they provided acclimatized spaces for growing, arranging, and displaying them. Concurrently, early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container for transporting live specimens during overseas voyages.[^ref11] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotics indoors in such ornamental glass furnishings.[^ref12][^ref13]
 <param ve-image primary url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
 <param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
 <param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DT2030.jpg" title="Seymour Joseph Guy, The Contest for the Bouquet: The Family of Robert Gordon in Their New York Dining-Room, 1866, oil on canvas, 62.5 x 74.9 cm, Purchase, Gift of William E. Dodge, by exchange, and Lila Acheson Wallace Gift, 1992, Metropolitan Museum of Art, public domain">
@@ -214,11 +214,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDM5MzcxNiwxMzE5ODU5NDEsLTEwND
-cyMDcyNTQsLTIxMTU5OTQ1MjcsNzE0NTM1ODkxLDE1NDA2Njc3
-NDEsMjY4MTk3MTIwLC00MDUwNjYyNDQsLTEwNzM1MTY4NjYsNj
-AzODcyNDAwLC0xNDY2NDEzMzEsLTEzMjk5NzQ5NjQsLTE2NTIx
-ODExOTEsLTM3NTU2OTE4MSwxMDQxNjQzOTY4LC04MTA1NTc2ND
-ksMTAxMzU0OTYxLDE2MzEzNzU5MDgsLTE2MTQ3NTgxNCwtMTY3
-NDkzMjk5NV19
+eyJoaXN0b3J5IjpbNzI2MDU4MjM1LDEzMTk4NTk0MSwtMTA0Nz
+IwNzI1NCwtMjExNTk5NDUyNyw3MTQ1MzU4OTEsMTU0MDY2Nzc0
+MSwyNjgxOTcxMjAsLTQwNTA2NjI0NCwtMTA3MzUxNjg2Niw2MD
+M4NzI0MDAsLTE0NjY0MTMzMSwtMTMyOTk3NDk2NCwtMTY1MjE4
+MTE5MSwtMzc1NTY5MTgxLDEwNDE2NDM5NjgsLTgxMDU1NzY0OS
+wxMDEzNTQ5NjEsMTYzMTM3NTkwOCwtMTYxNDc1ODE0LC0xNjc0
+OTMyOTk1XX0=
 -->
