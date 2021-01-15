@@ -87,7 +87,7 @@ Botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ 
 <param ve-entity eid="Q164306" title="Pelargonium graveolens" aliases="P. graveolens">
 <param ve-entity eid="Q551638" title="Pierre-Joseph Redouté">
 <param ve-entity eid="Q2003356" title="Robert Sweet">
-Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an independent genus in the late 1700s, though his work was overlooked at the time due to the reverence for Linnaean taxonomy.[^ref9] Although L’Héritier de Brutelle never published his taxonomic revisions, botanical illustrations prepared for his unrealized project by Pierre Joseph Redouté were published under the title _[Geraniologia](https://www.biodiversitylibrary.org/page/46555490)_. This one portrays _P. graveolens_, a rose-scented pelargonium that still bears L’Héritier de Brutelle’s name for it. Eventually, in the early-1800s, Robert Sweet introduced a serious classification system to ease the shortfall in Linnaean nomenclature. His five-volume book _[Geraniaceae](https://www.biodiversitylibrary.org/page/47461998)_ remains a vital source of information about the pelargonium.[^ref10] With more than 500 plant descriptions, it also attests to the popularity of the flower with a common name–“geranium”– then too deeply rooted in cultural imaginations to be corrected.
+Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an independent genus in the late 1700s, though his work was overlooked at the time due to the reverence for Linnaean taxonomy.[^ref9] Although L’Héritier de Brutelle never published his taxonomic revisions, botanical illustrations prepared for his unrealized project by Pierre Joseph Redouté were published under the title _[Geraniologia](https://www.biodiversitylibrary.org/page/46555490)_. This one portrays _P. graveolens_, a rose-scented pelargonium that still bears L’Héritier de Brutelle’s name for it. Eventually, in the early-1800s, Robert Sweet introduced a serious classification system to ease the shortfall in Linnaean nomenclature. His five-volume book _[Geraniaceae](https://www.biodiversitylibrary.org/page/47461998)_ remains a vital source of information about the pelargonium.[^ref10] With more than 500 plant descriptions, it attests to the incredible popularity of the flower with a common name–“geranium”– then too deeply rooted in cultural imaginations to be corrected.
 <param ve-image primary url="https://ia802708.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000519287&itemPath=%2F17%2Fitems%2Fmobot31753000519287&server=ia802708.us.archive.org&page=n34_w1032" title="Pierre Joseph Redouté, _Pelargonium graveolens_, Charles Louis Héritier de Brutelle, _Geraniologia: seu, E̲r̲o̲d̲i̲i̲, P̲e̲l̲a̲r̲g̲o̲n̲i̲i̲, G̲e̲r̲a̲n̲i̲i̲, M̲o̲n̲s̲o̲n̲i̲̲æ et G̲r̲i̲e̲l̲i̲: historia iconibus illustrata_, Paris: Typis Petri-Francisci Didot: Prostat apud Ludovicum Nicolaum Prévost,1787-1788, Missouri Botanical Garden, Biodiversity Heritage Library">
 <param ve-image url="Pelargonium_geraniaceaev5swee_0334.jpg" title="_Pelargonium Glorianum. Queen of Portugal's Stork's-bill_,Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, New York Botanical Garden, LuEsther T. Mertz Library, Biodiversity Heritage Library">
 
@@ -214,11 +214,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0NjA3NDAwLDEzMTk4NTk0MSwtMTA0Nz
-IwNzI1NCwtMjExNTk5NDUyNyw3MTQ1MzU4OTEsMTU0MDY2Nzc0
-MSwyNjgxOTcxMjAsLTQwNTA2NjI0NCwtMTA3MzUxNjg2Niw2MD
-M4NzI0MDAsLTE0NjY0MTMzMSwtMTMyOTk3NDk2NCwtMTY1MjE4
-MTE5MSwtMzc1NTY5MTgxLDEwNDE2NDM5NjgsLTgxMDU1NzY0OS
-wxMDEzNTQ5NjEsMTYzMTM3NTkwOCwtMTYxNDc1ODE0LC0xNjc0
-OTMyOTk1XX0=
+eyJoaXN0b3J5IjpbMTg1ODY2MDIxNiwxMzE5ODU5NDEsLTEwND
+cyMDcyNTQsLTIxMTU5OTQ1MjcsNzE0NTM1ODkxLDE1NDA2Njc3
+NDEsMjY4MTk3MTIwLC00MDUwNjYyNDQsLTEwNzM1MTY4NjYsNj
+AzODcyNDAwLC0xNDY2NDEzMzEsLTEzMjk5NzQ5NjQsLTE2NTIx
+ODExOTEsLTM3NTU2OTE4MSwxMDQxNjQzOTY4LC04MTA1NTc2ND
+ksMTAxMzU0OTYxLDE2MzEzNzU5MDgsLTE2MTQ3NTgxNCwtMTY3
+NDkzMjk5NV19
 -->
