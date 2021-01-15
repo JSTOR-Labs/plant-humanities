@@ -100,7 +100,7 @@ The _Pelargonium_ is a perennial bush that thrives in dry arid climates. The ear
 <param ve-image primary url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
 <param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
 
-Concurrently, early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container for transporting live specimens during overseas voyages, leading to an unprecedented expansion of global plant trades.[^ref11] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotic plants and mixed-species gardens indoors in such ornamental glass furnishings.[^ref12][^ref13] This horticultural revolution fueled a plant craze that  Such plants bore little resemblance to their mid-nineteenth-century descendants that many nurseries bred to possess showy double-flowers and patterned foliage: the ones bred for displaying in the home were called regals, and the others bred for growing in gardens were called zonals. Once a rarified foreign luxury, the modern pelargonium was now a Europeanized commodity for the masses.
+Concurrently, early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container for transporting live specimens during overseas voyages, leading to an unprecedented expansion of global plant trades.[^ref11] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotic plants and mixed-species gardens indoors in such ornamental glass furnishings.[^ref12][^ref13] Commercial nurseries used similar technologies to fabricate complexes in which to mass-produce plants Such plants bore little resemblance to their mid-nineteenth-century descendants that many nurseries bred to possess showy double-flowers and patterned foliage: the ones bred for displaying in the home were called regals, and the others bred for growing in gardens were called zonals. Once a rarified foreign luxury, the modern pelargonium was now a Europeanized commodity for the masses.
 <param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DT2030.jpg" title="Seymour Joseph Guy, The Contest for the Bouquet: The Family of Robert Gordon in Their New York Dining-Room, 1866, oil on canvas, 62.5 x 74.9 cm, Purchase, Gift of William E. Dodge, by exchange, and Lila Acheson Wallace Gift, 1992, Metropolitan Museum of Art, public domain">
 <param ve-image fit="contain" url="https://ia800604.us.archive.org/BookReader/BookReaderImages.php?id=ongrowthplantsc00ward&itemPath=%2F0%2Fitems%2Fongrowthplantsc00ward&server=ia800604.us.archive.org&page=n52_w325" title="An 1852 illustration of the Wardian case by Nathaniel Bagshaw Ward, the physician and botanist for whom the case was named, _On the Growth of Plants in Closely Glazed Cases_">
 <param ve-image title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
@@ -214,11 +214,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1ODIxMzAzLDEzMTk4NTk0MSwtMTA0Nz
-IwNzI1NCwtMjExNTk5NDUyNyw3MTQ1MzU4OTEsMTU0MDY2Nzc0
-MSwyNjgxOTcxMjAsLTQwNTA2NjI0NCwtMTA3MzUxNjg2Niw2MD
-M4NzI0MDAsLTE0NjY0MTMzMSwtMTMyOTk3NDk2NCwtMTY1MjE4
-MTE5MSwtMzc1NTY5MTgxLDEwNDE2NDM5NjgsLTgxMDU1NzY0OS
-wxMDEzNTQ5NjEsMTYzMTM3NTkwOCwtMTYxNDc1ODE0LC0xNjc0
-OTMyOTk1XX0=
+eyJoaXN0b3J5IjpbMTM5MzM2ODkyNSwxMzE5ODU5NDEsLTEwND
+cyMDcyNTQsLTIxMTU5OTQ1MjcsNzE0NTM1ODkxLDE1NDA2Njc3
+NDEsMjY4MTk3MTIwLC00MDUwNjYyNDQsLTEwNzM1MTY4NjYsNj
+AzODcyNDAwLC0xNDY2NDEzMzEsLTEzMjk5NzQ5NjQsLTE2NTIx
+ODExOTEsLTM3NTU2OTE4MSwxMDQxNjQzOTY4LC04MTA1NTc2ND
+ksMTAxMzU0OTYxLDE2MzEzNzU5MDgsLTE2MTQ3NTgxNCwtMTY3
+NDkzMjk5NV19
 -->
