@@ -101,9 +101,6 @@ The _Pelargonium_ is a perennial bush, with a strong and aromatic smell and a lo
 <param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
 <param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DT2030.jpg" title="Seymour Joseph Guy, The Contest for the Bouquet: The Family of Robert Gordon in Their New York Dining-Room, 1866, oil on canvas, 62.5 x 74.9 cm, Purchase, Gift of William E. Dodge, by exchange, and Lila Acheson Wallace Gift, 1992, Metropolitan Museum of Art, public domain">
 <param ve-image fit="contain" url="https://ia800604.us.archive.org/BookReader/BookReaderImages.php?id=ongrowthplantsc00ward&itemPath=%2F0%2Fitems%2Fongrowthplantsc00ward&server=ia800604.us.archive.org&page=n52_w325" title="An 1852 illustration of the Wardian case by Nathaniel Bagshaw Ward, the physician and botanist for whom the case was named, _On the Growth of Plants in Closely Glazed Cases_">
-<param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835239&t=w" title="Illustration of the Wardian case in a home space, 1872">
-<param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835246&t=w" title="Illustration of three Wardian cases in the domestic space, 1870">
-
 
 Such plants bore little resemblance to their mid-nineteenth-century descendants that many nurseries bred to possess showy double-flowers and patterned foliage: the ones bred for displaying in the home were called regals, and the others bred for growing in gardens were called zonals. Once a rarified foreign luxury, the modern pelargonium was now a Europeanized commodity for the masses.
 <param ve-image primary title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
@@ -217,7 +214,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxMTM0NTQ2LDE1NDA2Njc3NDEsMjY4MT
+eyJoaXN0b3J5IjpbNzE0NTM1ODkxLDE1NDA2Njc3NDEsMjY4MT
 k3MTIwLC00MDUwNjYyNDQsLTEwNzM1MTY4NjYsNjAzODcyNDAw
 LC0xNDY2NDEzMzEsLTEzMjk5NzQ5NjQsLTE2NTIxODExOTEsLT
 M3NTU2OTE4MSwxMDQxNjQzOTY4LC04MTA1NTc2NDksMTAxMzU0
