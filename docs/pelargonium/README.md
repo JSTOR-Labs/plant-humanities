@@ -27,7 +27,6 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 <param ve-image fit="contain" url="Pelargoniums_RP-F-2013-85-14.jpg" title="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, glass, 90 x 120 mm, Rijksmuseum, public domain">
 <param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Pelargoniums bloom in garden vases, Bowood House, village of Derry Hill, England, alh1, 2015, Flickr, CC BY-NC-ND 2.0">
 <param ve-image fit="contain" url="Pelargonium_SanDiegoBotanicalGarden_Flickr.jpg" title="Pelargonium 'Arcturus', San Diego Botanic Garden, African Garden, cultivar413, 2019, Flickr, CC BY 2.0">
-<param ve-image fit="contain" url="Pelargoniums_Squaredelaplacedauphine_Paris.jpeg" title="Pelargoniums bloom in a window box garden, Square de la Place Dauphine, Paris, 2017, Kristan M. Hanson">
 
 
 ### Pelargonium Morphology: Fruit and Flower
@@ -215,7 +214,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MDQ4MzM1LDcxNDUzNTg5MSwxNTQwNj
+eyJoaXN0b3J5IjpbNjgxOTc1MzY1LDcxNDUzNTg5MSwxNTQwNj
 Y3NzQxLDI2ODE5NzEyMCwtNDA1MDY2MjQ0LC0xMDczNTE2ODY2
 LDYwMzg3MjQwMCwtMTQ2NjQxMzMxLC0xMzI5OTc0OTY0LC0xNj
 UyMTgxMTkxLC0zNzU1NjkxODEsMTA0MTY0Mzk2OCwtODEwNTU3
