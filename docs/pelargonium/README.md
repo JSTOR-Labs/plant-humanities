@@ -99,11 +99,11 @@ Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an 
 The _Pelargonium_ is a perennial bush that thrives in dry arid climates. The earliest plants introduced from Southern Africa to Europe were cultivated in heated greenhouses to protect them from cold and frost. From the late seventeenth to the early nineteenth centuries, these delicate pelargoniums were kept mainly as scientific specimens, exotic curiosities, status symbols, and conversation pieces. New technologies–both for fabricating iron and plate glass, and for building conservatories from these materials–were integral to popularizing the pelargonium in the early nineteenth century because they provided the upper classes with novel spaces for displaying them.
 <param ve-image primary url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
 <param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
+
+Concurrently, early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container for transporting live specimens during overseas voyages, leading to an unprecedented expansion of global plant trades.[^ref11] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotic plants and mixed-species gardens indoors in such ornamental glass furnishings.[^ref12][^ref13] This horticultural revolution fueled a plant craze that  Such plants bore little resemblance to their mid-nineteenth-century descendants that many nurseries bred to possess showy double-flowers and patterned foliage: the ones bred for displaying in the home were called regals, and the others bred for growing in gardens were called zonals. Once a rarified foreign luxury, the modern pelargonium was now a Europeanized commodity for the masses.
 <param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DT2030.jpg" title="Seymour Joseph Guy, The Contest for the Bouquet: The Family of Robert Gordon in Their New York Dining-Room, 1866, oil on canvas, 62.5 x 74.9 cm, Purchase, Gift of William E. Dodge, by exchange, and Lila Acheson Wallace Gift, 1992, Metropolitan Museum of Art, public domain">
 <param ve-image fit="contain" url="https://ia800604.us.archive.org/BookReader/BookReaderImages.php?id=ongrowthplantsc00ward&itemPath=%2F0%2Fitems%2Fongrowthplantsc00ward&server=ia800604.us.archive.org&page=n52_w325" title="An 1852 illustration of the Wardian case by Nathaniel Bagshaw Ward, the physician and botanist for whom the case was named, _On the Growth of Plants in Closely Glazed Cases_">
-
-Such plants bore little resemblance to their mid-nineteenth-century descendants that many nurseries bred to possess showy double-flowers and patterned foliage: the ones bred for displaying in the home were called regals, and the others bred for growing in gardens were called zonals. Once a rarified foreign luxury, the modern pelargonium was now a Europeanized commodity for the masses.
-<param ve-image primary title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
+<param ve-image title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/3/37/Floriculture.jpg" title="A retail greenhouse section of a production greenhouse facility in northwest Ohio shows some of the diversity of floricultural plants produced in that region, 2007, Agricultural Research Service, United States Department of Agriculture, d786-2, public domain, Wikimedia">
 
@@ -214,11 +214,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5ODM3NDMsMTMxOTg1OTQxLC0xMDQ3Mj
-A3MjU0LC0yMTE1OTk0NTI3LDcxNDUzNTg5MSwxNTQwNjY3NzQx
-LDI2ODE5NzEyMCwtNDA1MDY2MjQ0LC0xMDczNTE2ODY2LDYwMz
-g3MjQwMCwtMTQ2NjQxMzMxLC0xMzI5OTc0OTY0LC0xNjUyMTgx
-MTkxLC0zNzU1NjkxODEsMTA0MTY0Mzk2OCwtODEwNTU3NjQ5LD
-EwMTM1NDk2MSwxNjMxMzc1OTA4LC0xNjE0NzU4MTQsLTE2NzQ5
-MzI5OTVdfQ==
+eyJoaXN0b3J5IjpbNDc1ODIxMzAzLDEzMTk4NTk0MSwtMTA0Nz
+IwNzI1NCwtMjExNTk5NDUyNyw3MTQ1MzU4OTEsMTU0MDY2Nzc0
+MSwyNjgxOTcxMjAsLTQwNTA2NjI0NCwtMTA3MzUxNjg2Niw2MD
+M4NzI0MDAsLTE0NjY0MTMzMSwtMTMyOTk3NDk2NCwtMTY1MjE4
+MTE5MSwtMzc1NTY5MTgxLDEwNDE2NDM5NjgsLTgxMDU1NzY0OS
+wxMDEzNTQ5NjEsMTYzMTM3NTkwOCwtMTYxNDc1ODE0LC0xNjc0
+OTMyOTk1XX0=
 -->
