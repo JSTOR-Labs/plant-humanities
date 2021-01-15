@@ -104,7 +104,8 @@ url="https://upload.wikimedia.org/wikipedia/commons/3/37/Floriculture.jpg" title
 <param ve-entity eid="Q2779805" title="Wardian case">
 <param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
 Early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container in which plants could survive, without watering, for months at a time. Prior to that technology, botanists encountered dreadful difficulties transporting live specimens during overseas voyages. Such journeys lasted for months, during which time plants suffered from exposure to salt water and harsh weather, extreme changes in climate, and lack of proper care.[^ref11] The Wardian case created the conditions for a major globe plant migration on an unprecedented scale, as the glazed box was employed extensively by colonial enterprises, botanic gardens, plant nurseries, and individual collectors.[^ref12] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotics indoors in such ornamental glass furnishings, safely protected from the industrial pollution in the air as well as the varying temperatures of the British climate.[^ref13] CONCLUSION.
-<param ve-image primary fit="contain" url="https://ia800604.us.archive.org/BookReader/BookReaderImages.php?id=ongrowthplantsc00ward&itemPath=%2F0%2Fitems%2Fongrowthplantsc00ward&server=ia800604.us.archive.org&page=n52_w325" title="An 1852 illustration of the Wardian case by Nathaniel Bagshaw Ward, the physician and botanist for whom the case was named, from _On the Growth of Plants in Closely Glazed Cases_">
+<param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DT2030.jpg" title="Seymour Joseph Guy, The Contest for the Bouquet: The Family of Robert Gordon in Their New York Dining-Room, 1866, oil on canvas, 62.5 x 74.9 cm, 
+<param ve-image fit="contain" url="https://ia800604.us.archive.org/BookReader/BookReaderImages.php?id=ongrowthplantsc00ward&itemPath=%2F0%2Fitems%2Fongrowthplantsc00ward&server=ia800604.us.archive.org&page=n52_w325" title="An 1852 illustration of the Wardian case by Nathaniel Bagshaw Ward, the physician and botanist for whom the case was named, _On the Growth of Plants in Closely Glazed Cases_">
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835239&t=w" title="Illustration of the Wardian case in a home space, 1872">
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835246&t=w" title="Illustration of three Wardian cases in the domestic space, 1870">
 
@@ -215,11 +216,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTA2NjI0NCwtMTA3MzUxNjg2Niw2MD
-M4NzI0MDAsLTE0NjY0MTMzMSwtMTMyOTk3NDk2NCwtMTY1MjE4
-MTE5MSwtMzc1NTY5MTgxLDEwNDE2NDM5NjgsLTgxMDU1NzY0OS
-wxMDEzNTQ5NjEsMTYzMTM3NTkwOCwtMTYxNDc1ODE0LC0xNjc0
-OTMyOTk1LDQwODQ1MjY2NCw0NzY4MTU3NTQsLTEyMzUyMTI0Nj
-YsNTg1NTI4NTA2LC0yMDM0NDA5NDIwLC0xMzcwMjk2ODA2LC02
-MTQwMzczN119
+eyJoaXN0b3J5IjpbMTA0NzQ4MTg5OCwtNDA1MDY2MjQ0LC0xMD
+czNTE2ODY2LDYwMzg3MjQwMCwtMTQ2NjQxMzMxLC0xMzI5OTc0
+OTY0LC0xNjUyMTgxMTkxLC0zNzU1NjkxODEsMTA0MTY0Mzk2OC
+wtODEwNTU3NjQ5LDEwMTM1NDk2MSwxNjMxMzc1OTA4LC0xNjE0
+NzU4MTQsLTE2NzQ5MzI5OTUsNDA4NDUyNjY0LDQ3NjgxNTc1NC
+wtMTIzNTIxMjQ2Niw1ODU1Mjg1MDYsLTIwMzQ0MDk0MjAsLTEz
+NzAyOTY4MDZdfQ==
 -->
