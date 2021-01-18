@@ -94,8 +94,8 @@ There is also evidence that women not only consumed herbals and vernacular medic
        
 ### Dittany and Reproductive Control
 As we can see, by the early modern period, dittany had been prescribed as an herb for women’s reproductive health for more than a millennium. We also know that middling and elite women were aware of the purgative powers of dittany. Particularly notable was its use as an effective emmenagogue. In ancient, medieval, and early modern European medicine, regular <span eid="Q12171">menstruation</span> was viewed as essential to a woman’s health. Male physicians offered numerous theories and explanations as to why women menstruated; however, all agreed that missed or delayed periods signaled an imbalance or corruption of the <span eid="Q5782572">humors</span>. Menstruation was viewed akin to a purge, either as a means to purify the female body or to expel excess blood—and unexpelled menstrual fluid was deemed harmful. Thus, when a woman suffered from delayed menstruation, she turned to known emmenagogic herbs to induce bleeding and return her to health.
-<param ve-image
-	title="Drawing from a 13th-century manuscript of Pseudo-Apuleius's ''Herbarium'', depicting a pregnant woman in repose, while another holds some an herb in one hand and prepares a concotion using a mortar and pestle with the other." 
+<param ve-iiif
+	title="Drawing from a 13th-century manuscript of Pseudo-Apuleius's ''Herbarium'', depicting a pregnant woman in repose, while another holds an herb in one hand (pennyroyal) and prepares a concotion using a mortar and pestle with the other." 
 	attribution="Cod. 93, fol. 93r: Medizinische Sammelhandschrift" 
 	url="https://digital.onb.ac.at/rep/osd/?10D7903E">
 
