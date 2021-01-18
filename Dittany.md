@@ -146,13 +146,13 @@ The knowledge of how to provoke menstruation through herbs gave pre-modern women
        url="https://upload.wikimedia.org/wikipedia/commons/a/ab/People_distilling_Wellcome_L0042112.jpg">
 
 ### References
-[ref^1]: Pliny the Elder, “Remedies for Female Diseases,” in The Natural History, trans. John Bostock and H. T. Riley, accessed May 26, 2020. http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-eng1:26.9
-[ref^2]: It should be noted that there were some female-authored medieval pharmacopeias, most notably Hildegard of Bingen’s Physica and the Trotula. For more on the Trotula, see Monica H. Green, ed. and trans., The “Trotula”: A Medieval Compendium of Women’s Medicine (Philadelphia: University of Pennsylvania Press, 2001).
-[ref^3]: Elaine Leong, “‘Herbals She Peruseth’: Reading Medicine in Early Modern England” Renaissance Studies 28, no. 4 (2014): 556–78, accessed November 18, 2020. http://www.jstor.org/stable/24423854
-[ref^4]: Kevin J. Hayes, A Colonial Woman's Bookshelf (Eugene, Oregon: Wipf and Stock Publishers, 2016), 94.
-[ref^5]: Mary Lindemann, Medicine and Society in Early Modern Europe, 2nd ed. New Approaches to European History (New York: Cambridge University Press, 2010), 21–23. 
-[ref^6]: John M. Riddle, Eve's Herbs: A History of Contraception and Abortion in the West (Cambridge, Mass.: Harvard University Press, 1997). 
-[ref^7]: Londa Schiebinger, “Agnotology and Exotic Abortifacients: The Cultural Production of Ignorance in the Eighteenth-Century Atlantic World,” Proceedings of the American Philosophical Society 149, no. 3 (2005): 316–43, accessed December 3, 2020. http://www.jstor.org/stable/4598938
-[ref^8]: P. M. Soares et al., “Inhibitory effects of the essential oil of Mentha pulegium,” Planta Medica 71 (3) (2005): 214–218. 
-[ref^9]: Sarah E. Nelson, “Persephone's Seeds: Abortifacients and Contraceptives in Ancient Greek Medicine and Their Recent Scientific Appraisal,” Pharmacy in History 51, no. 2 (2009): 57–69, accessed December 4, 2020. http://www.jstor.org/stable/41112420 
-[ref^10]: Aviva Romm, “Pregnancy and Botanical Medicine Use and Safety,” in  Botanical Medicine for Women's Health, eds. Aviva Romm, Mary L. Hardy, Simon Mills (London: Churchill Livingstone, 2010), 321–333. https://doi.org/10.1016/B978-0-443-07277-2.00013-1
+[^ref1]: Pliny the Elder, “Remedies for Female Diseases,” in The Natural History, trans. John Bostock and H. T. Riley, accessed May 26, 2020. http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-eng1:26.9
+[^ref2]: It should be noted that there were some female-authored medieval pharmacopeias, most notably Hildegard of Bingen’s Physica and the Trotula. For more on the Trotula, see Monica H. Green, ed. and trans., The “Trotula”: A Medieval Compendium of Women’s Medicine (Philadelphia: University of Pennsylvania Press, 2001).
+[^ref3]: Elaine Leong, “‘Herbals She Peruseth’: Reading Medicine in Early Modern England” Renaissance Studies 28, no. 4 (2014): 556–78, accessed November 18, 2020. http://www.jstor.org/stable/24423854
+[^ref4]: Kevin J. Hayes, A Colonial Woman's Bookshelf (Eugene, Oregon: Wipf and Stock Publishers, 2016), 94.
+[^ref5]: Mary Lindemann, Medicine and Society in Early Modern Europe, 2nd ed. New Approaches to European History (New York: Cambridge University Press, 2010), 21–23. 
+[^ref6]: John M. Riddle, Eve's Herbs: A History of Contraception and Abortion in the West (Cambridge, Mass.: Harvard University Press, 1997). 
+[^ref7]: Londa Schiebinger, “Agnotology and Exotic Abortifacients: The Cultural Production of Ignorance in the Eighteenth-Century Atlantic World,” Proceedings of the American Philosophical Society 149, no. 3 (2005): 316–43, accessed December 3, 2020. http://www.jstor.org/stable/4598938
+[^ref8]: P. M. Soares et al., “Inhibitory effects of the essential oil of Mentha pulegium,” Planta Medica 71 (3) (2005): 214–218. 
+[^ref9]: Sarah E. Nelson, “Persephone's Seeds: Abortifacients and Contraceptives in Ancient Greek Medicine and Their Recent Scientific Appraisal,” Pharmacy in History 51, no. 2 (2009): 57–69, accessed December 4, 2020. http://www.jstor.org/stable/41112420 
+[^ref10]: Aviva Romm, “Pregnancy and Botanical Medicine Use and Safety,” in  Botanical Medicine for Women's Health, eds. Aviva Romm, Mary L. Hardy, Simon Mills (London: Churchill Livingstone, 2010), 321–333. https://doi.org/10.1016/B978-0-443-07277-2.00013-1
