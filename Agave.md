@@ -30,7 +30,7 @@
 <param ve-image title="Aloë Americana: heeft gebloeid in des universiteits Kruyd-Hof tot Leiden, 1698, Rare Book Collection, Dumbarton Oaks" url="https://jstor-labs.github.io/plant-humanities/images/Aloe_Americana_Leiden_DO.jpg">
 
 The Hortus’s *Agave americana* certainly earned its nickname, taking almost a century to bloom. In its natural climate, however, an *Agave americana* typically blooms every 10 to 25 years and can grow upwards of 20 feet.[^ref2] *Agave* is a genus of monocots with some 200 species indigenous to Central America, the southwestern United States, and in some tropical areas of South America. Distinguished by their strong, fleshy leaves, agaves grow slowly and require little water to survive, making them a vital resource in semiarid climates. Although best known today as the plant from which tequila is made, agave plants played a central role in ancient Amerindian religion and culture for centuries, encouraged a botanical revolution in Europe, helped form Mexican identity in the nineteenth and twentieth centuries, and offer solutions to present-day environmental challenges.
-<param ve-map title="Agave americana distribution" center="25.503945, -102.834000" basemap="Esri_WorldPhysical" zoom="4">
+<param ve-map title="Agave americana distribution" center="25.503945, -102.834000" basemap="Esri_WorldPhysical" zoom="4" stroke-width="0" show-labels>
 <param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/agave_distribution.json">
 
 ### A Miracle Plant
@@ -55,7 +55,7 @@ Clusius was at the center of a vibrant international network of naturalists and 
 <param ve-image title="Clusius and his network" fit="contain" url="https://jstor-labs.github.io/plant-humanities/images/Clusius_Network%20copy.jpg">
 
 Exchanging plant specimens and botanical knowledge was about more than solidifying friendship with like-minded individuals. Clusius and his network, by virtue of their letters, plant cultivation, and publications, positioned themselves as experts and established the means through which botanic practices were formalized and later institutionalized. In 1593, Clusius moved to Leiden to develop and oversee the city’s new botanical garden—the very same botanical garden where the Aloe americana would finally bloom in 1698. First cultivated in the botanical gardens of Padua and Pisa, agave reached the court gardens of Rome, Venice, and Florence by the late sixteenth century, thriving in the Italy’s hotter and drier climate. *Aloe americana* remained an object of fascination in Italy throughout the seventeenth century and witnessing its rare flowering was an occasion worthy of commemoration.[^ref11] Eventually, agave plants would escape the boundaries of their cultivated gardens in Italy. Today, in addition to remaining popular ornamental plants, agaves grow widely throughout Italy and southern Europe.
-<param ve-map title="Hortus Botanicus Leiden" center="Q2468128" basemap="Esri_WorldPhysical" zoom="6.5">
+<param ve-map title="Hortus Botanicus Leiden" center="Q2468128" basemap="Esri_WorldPhysical" zoom="6.5" stroke-width="0" show-labels>
 
 ### All Tequilas Are Mescals, but not all Mescals Are Tequilas
 
@@ -66,7 +66,7 @@ While the agave in Europe was an ornamental plant that symbolized botanical know
 ### Tequila and National Identity
 
 Today, tequila is the national drink of Mexico. Since its creation, and perhaps because of its cultural hybridity, tequila has become a driving force of Mexican identity. Following the Mexican Revolution, national ideology embraced cantina (drinking) culture and the hyper-masculine “machismo” ethos tequila came to represent. Once industrial distillation was introduced to Jalisco, agave roasters (*mescalaros*) were suddenly promoted from menial laborers to alchemists. Jalisco’s tequila cottage industry elevated entire segments of mestizo populations. By 1970, tequila was an international commodity and its export has more than doubled since, with almost two-thirds of tequila exported from Mexico being consumed by Canada and the United States.[^ref13]
-<param ve-map title="Jalisco" center="Q13160" basemap="Esri_WorldPhysical" zoom="5">
+<param ve-map title="Jalisco" center="Q13160" basemap="Esri_WorldPhysical" zoom="5" stroke-width="0" show-labels>
 
 ### The Future of Agave
 
