@@ -98,6 +98,10 @@ As we can see, by the early modern period, dittany had been prescribed as an her
        title="Drawing from a 13th-century manuscript of Pseudo-Apuleius's ''Herbarium'', depicting a pregnant woman in repose, while another holds some an herb in one hand and prepares a concotion using a mortar and pestle with the other."
        attribution="Reproduced in _From Contraception and Abortion from the Ancient World to the Renaissance_ by John M. Riddle, via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/archive/d/d4/20101221012234%21Medievalpreg.jpg">
+<param ve-image
+	title="Drawing from a 13th-century manuscript of Pseudo-Apuleius's ''Herbarium'', depicting a pregnant woman in repose, while another holds some an herb in one hand and prepares a concotion using a mortar and pestle with the other." 
+	attribution="Cod. 93, fol. 93r: Medizinische Sammelhandschrift" 
+	url="https://digital.onb.ac.at/rep/osd/?10D7903E"
 
 As many historians of science and medicine have concluded, the use of herbs to “draw the menses down” or “provoke menstruation” was rather well-known and commonplace in pre-modern Europe.[^5] For example, Durante’s popular herbal, listed [142 plants](https://www.biodiversitylibrary.org/page/49829022) capable of provoking menstruation, including three types of dittany. Mattioli’s influential herbal listed [125](https://www.biodiversitylibrary.org/page/51721123#page/127/mode/1up) and <span eid="Q1333338">Gerard’s</span> recorded [25](https://www.biodiversitylibrary.org/page/57082515) plants or plant-based remedies capable of provoking menstruation. Historians postulate that women of lower social classes would have known of the medicinal uses of herbs through the oral tradition that paralleled the written sources and was subsequently largely lost with the professionalization of medicine and the increasing religious and legal restrictions on women’s reproduction.
 <param eid="Q457191">
