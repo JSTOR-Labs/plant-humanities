@@ -29,7 +29,7 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 <param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Pelargoniums bloom in garden vases, Bowood House, village of Derry Hill, England, alh1, 2015, Flickr, CC BY-NC-ND 2.0">
 <param ve-image fit="contain" url="Pelargonium_SanDiegoBotanicalGarden_Flickr.jpg" title="Pelargonium 'Arcturus', San Diego Botanic Garden, African Garden, cultivar413, 2019, Flickr, CC BY 2.0">
 
-### Pelargonium Morphology: Fruit and Flower
+### Pelargonium Morphology: Seedpod and Flower
 
 <param ve-entity eid="Q155945" title="Geraniaceae"> 
 <param ve-entity eid="Q147768" title="capsule" aliases="capsules">
@@ -214,11 +214,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxMTA1ODIxLDg1Njc5NzI5OSwtMTU3OT
-c5Njk4MSwtMTM2MDEzMTE4MiwtMTkxNzQ3MDkyMCwxMzE5ODU5
-NDEsLTEwNDcyMDcyNTQsLTIxMTU5OTQ1MjcsNzE0NTM1ODkxLD
-E1NDA2Njc3NDEsMjY4MTk3MTIwLC00MDUwNjYyNDQsLTEwNzM1
-MTY4NjYsNjAzODcyNDAwLC0xNDY2NDEzMzEsLTEzMjk5NzQ5Nj
-QsLTE2NTIxODExOTEsLTM3NTU2OTE4MSwxMDQxNjQzOTY4LC04
-MTA1NTc2NDldfQ==
+eyJoaXN0b3J5IjpbMTgyMDI2MjMzMyw4NTY3OTcyOTksLTE1Nz
+k3OTY5ODEsLTEzNjAxMzExODIsLTE5MTc0NzA5MjAsMTMxOTg1
+OTQxLC0xMDQ3MjA3MjU0LC0yMTE1OTk0NTI3LDcxNDUzNTg5MS
+wxNTQwNjY3NzQxLDI2ODE5NzEyMCwtNDA1MDY2MjQ0LC0xMDcz
+NTE2ODY2LDYwMzg3MjQwMCwtMTQ2NjQxMzMxLC0xMzI5OTc0OT
+Y0LC0xNjUyMTgxMTkxLC0zNzU1NjkxODEsMTA0MTY0Mzk2OCwt
+ODEwNTU3NjQ5XX0=
 -->
