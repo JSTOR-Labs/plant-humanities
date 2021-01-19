@@ -85,7 +85,7 @@ In the wake of that initial nomenclature confusion, botanists of the seventeenth
 
 <param ve-entity eid="Q3446485" title="Rubens Peale">
 <param ve-entity eid="Q165044" title="greenhouse">
-The _Pelargonium_ is a perennial bush that naturally occurs in temperate and tropical climates. The earliest plants to reach Europe were cultivated in heated greenhouses to protect them from cold and frost.FN These delicate pelargoniums were kept as scientific specimens, as was the case for Rubens Peale’s _Pelargonium inquinans_, depicted in this painting, and as exotic curiosities, status symbols, conversation pieces, and aesthetic objects. In the early 1800s, new technologies–both for fabricating iron and plate glass, and for constructing buildings with these materials–fueled a fad among the wealthy for purchasing domestic conservatories and pelargonium to grow, arrange, and display therein.FN
+The _Pelargonium_ is a perennial bush that naturally occurs in temperate and tropical climates. The earliest plants to reach Europe were cultivated in heated greenhouses to protect them from cold and frost.FN Wealthy plant collectors kept these delicate pelargoniums as scientific specimens, as was the case for Rubens Peale’s _Pelargonium inquinans_ depicted in this painting, and as exotic curiosities, status symbols, conversation pieces, and aesthetic objects. In the early 1800s, new technologies–both for fabricating iron and plate glass, and for constructing buildings with these materials–fueled a fad among the wealthy for purchasing domestic conservatories and pelargonium to grow, arrange, and display therein.FN
 <param ve-image primary url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
 <param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
 
@@ -207,7 +207,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM3NzYwMSwtMTc3NTU4NDA5MywtMT
+eyJoaXN0b3J5IjpbLTY2NjMyOTM0OSwtMTc3NTU4NDA5MywtMT
 k4MzEzNzIzNSwtMTQ4NzMwMDQ3MSwtMjA5Mzk2MTE1NiwtNzI4
 NTY0OTAxLDE0MTI5MDkxMzAsNDQ4NzgwNDk3LC00OTMyMDcyMz
 gsNDg3MDQzMjI0LDE3NzY5MDE2NzIsMTQ2MzA2NTQzNCwyMzg1
