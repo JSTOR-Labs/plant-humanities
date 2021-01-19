@@ -189,7 +189,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref9]: Wilkinson, _The Passion for Pelargoniums_, p. 18; see descriptions of the plant in John Gerard, _The herball, or, Generall historie of plantes_, London: Printed by Adam Islip Joice Norton and Richard Whitakers,anno 1633, p. 948, [https://www.biodiversitylibrary.org/page/51906330](https://www.biodiversitylibrary.org/page/51906330); John Parkinson, _Theatrum botanicum = the theater of plants: or, An herball of a large extent ..._, London: Printed by Tho. Cotes, 1640, p. 709, [https://www.biodiversitylibrary.org/page/56600608](https://www.biodiversitylibrary.org/page/56600608).
 
-[^ref10]: 
+[^ref10]: Jacques Philippe Cornut, _Canadensivm plantarvm, aliarúmque nondum editarum historia. Cui adiectum ad calcem Enchiridion botanicvm Parisiense, Continens Indicem Plantarum, quae in Pagis, Siluis Pratis, & Montosis iuxta Parisios locis nascuntur_, Paris: Venundantur apud Simonem Le Moyne, viâ Iacobeâ, 1635, [https://bibdigital.rjb.csic.es/idurl/1/13506](https://bibdigital.rjb.csic.es/idurl/1/13506).
 
 [^ref8]: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.
 
@@ -219,11 +219,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzOTY3NzY2LDQ0ODc4MDQ5NywtNDkzMj
-A3MjM4LDQ4NzA0MzIyNCwxNzc2OTAxNjcyLDE0NjMwNjU0MzQs
-MjM4NTQwMjAsODU2Nzk3Mjk5LC0xNTc5Nzk2OTgxLC0xMzYwMT
-MxMTgyLC0xOTE3NDcwOTIwLDEzMTk4NTk0MSwtMTA0NzIwNzI1
-NCwtMjExNTk5NDUyNyw3MTQ1MzU4OTEsMTU0MDY2Nzc0MSwyNj
-gxOTcxMjAsLTQwNTA2NjI0NCwtMTA3MzUxNjg2Niw2MDM4NzI0
-MDBdfQ==
+eyJoaXN0b3J5IjpbMTQxMjkwOTEzMCw0NDg3ODA0OTcsLTQ5Mz
+IwNzIzOCw0ODcwNDMyMjQsMTc3NjkwMTY3MiwxNDYzMDY1NDM0
+LDIzODU0MDIwLDg1Njc5NzI5OSwtMTU3OTc5Njk4MSwtMTM2MD
+EzMTE4MiwtMTkxNzQ3MDkyMCwxMzE5ODU5NDEsLTEwNDcyMDcy
+NTQsLTIxMTU5OTQ1MjcsNzE0NTM1ODkxLDE1NDA2Njc3NDEsMj
+Y4MTk3MTIwLC00MDUwNjYyNDQsLTEwNzM1MTY4NjYsNjAzODcy
+NDAwXX0=
 -->
