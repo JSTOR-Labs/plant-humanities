@@ -37,7 +37,7 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 <param ve-entity eid="Q25365" title="Gruidae" aliases="crane"> 
 <param ve-entity eid="Q3259077" title="heron"> 
 <param ve-entity eid="Q28507" title="Ciconiidae"> 
-The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the family _Geraniaceae_. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, at least superficially, one another. The name _Pelargonium_ comes from the Greek _pelargos_ (“stork”), which alludes to the plant’s long, beak-shaped fruit. Similarly, _Geranium_ from _géranos_ (“crane”) and _Erodium_ from _erodios_ (“heron”) describe the columnar fruit capsules that characterize some of their species. This kind of columnar capsule, which is visible in the dried pelargonium specimen, at right, emerges from the center of the flower to promote seed distribution.
+The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the family Geraniaceae. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, to some degree, each other. The name _Pelargonium_ comes from the Greek _pelargos_ (“stork”), which alludes to the plant’s long, beak-shaped seedpods. Similarly, _Geranium_ from _géranos_ (“crane”) and _Erodium_ from _erodios_ (“heron”) describe columnar fruit capsules that are found in some species. This columnar capsule, visible in the dried pelargonium specimen, at right, emerges from the center of the flower and aids in seed dispersal.
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="The dried specimen on this herbarium sheet shows the beak-shaped fruit for which the pelargonium was named. Pelargonium alchemilloides (L.) L'Hér.">
 
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
@@ -214,11 +214,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDI2MjMzMyw4NTY3OTcyOTksLTE1Nz
-k3OTY5ODEsLTEzNjAxMzExODIsLTE5MTc0NzA5MjAsMTMxOTg1
-OTQxLC0xMDQ3MjA3MjU0LC0yMTE1OTk0NTI3LDcxNDUzNTg5MS
-wxNTQwNjY3NzQxLDI2ODE5NzEyMCwtNDA1MDY2MjQ0LC0xMDcz
-NTE2ODY2LDYwMzg3MjQwMCwtMTQ2NjQxMzMxLC0xMzI5OTc0OT
-Y0LC0xNjUyMTgxMTkxLC0zNzU1NjkxODEsMTA0MTY0Mzk2OCwt
-ODEwNTU3NjQ5XX0=
+eyJoaXN0b3J5IjpbLTEzNjM1MDQ3MzQsODU2Nzk3Mjk5LC0xNT
+c5Nzk2OTgxLC0xMzYwMTMxMTgyLC0xOTE3NDcwOTIwLDEzMTk4
+NTk0MSwtMTA0NzIwNzI1NCwtMjExNTk5NDUyNyw3MTQ1MzU4OT
+EsMTU0MDY2Nzc0MSwyNjgxOTcxMjAsLTQwNTA2NjI0NCwtMTA3
+MzUxNjg2Niw2MDM4NzI0MDAsLTE0NjY0MTMzMSwtMTMyOTk3ND
+k2NCwtMTY1MjE4MTE5MSwtMzc1NTY5MTgxLDEwNDE2NDM5Njgs
+LTgxMDU1NzY0OV19
 -->
