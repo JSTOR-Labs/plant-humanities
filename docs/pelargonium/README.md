@@ -225,7 +225,8 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref27]: Alphand, A., & Hochereau, E. _Les promenades de Paris: Histoire--description des embellissements--dépenses de création et d'entretien des Bois de Boulogne et de Vincennes, Champs-Élysées--Parcs--squares--boulevards--places plantées, Étude sur l'art des jardins et arboretum_. Vol. 1 and 2, Paris: J. Rothschild, 1873),[https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551](https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551) [https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453](https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453)
 
-[^ref28]: Willsdon, Clare A. P. _“‘Promenades et plantations’: Impressionism, Conservation and Haussmann’s Reinvention of Paris.”  In _Soil and Stone: Impressionism, Urbanism, Environment_, edited by Frances Fowle and Richard Thomson, Burlington, VT: Ashgate, 2003, 107–24.
+[^ref28]: “Parmi les plantes qui produisent le plus d'effet, en massif, et qui supportent le mieux la pleine terre en été, on doit citer les variétés de Pélargoniums […].” (Among the plants that produce the most effect, in clumps, and that best support the open ground in summer, we must mention the varieties of Pelargoniums.) Alphand, _Les Promenades de Paris_ p.64,
+[https://bibliotheque-numerique.inha.fr/viewer/17295/?offset=#page=142&viewer=picture&o=bookmark&n=0&q=](https://bibliotheque-numerique.inha.fr/viewer/17295/?offset=#page=142&viewer=picture&o=bookmark&n=0&q=); Willsdon, Clare A. P. _“‘Promenades et plantations’: Impressionism, Conservation and Haussmann’s Reinvention of Paris.”  In _Soil and Stone: Impressionism, Urbanism, Environment_, edited by Frances Fowle and Richard Thomson, Burlington, VT: Ashgate, 2003, 107–24.
 
 [^ref29]: CIT
 
@@ -234,11 +235,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: CIT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzNjExMTU1LDE3NjExOTE3OTksLTgxNj
-IxODY5OCw0MzQwMzkwNjcsLTI4MDg2NzMyMiwtMTQyODM4MTI1
-MCwtMTU0NjAzMDMwNywtMTc4NjI5MjExMCwtNzU0MDI5NTA1LC
-0xNDM0NjA5ODY5LDE0MjU0NDQ2MTEsLTY2NjMyOTM0OSwtMTc3
-NTU4NDA5MywtMTk4MzEzNzIzNSwtMTQ4NzMwMDQ3MSwtMjA5Mz
-k2MTE1NiwtNzI4NTY0OTAxLDE0MTI5MDkxMzAsNDQ4NzgwNDk3
-LC00OTMyMDcyMzhdfQ==
+eyJoaXN0b3J5IjpbMTM0MzY3NTQ1NSwxNzYxMTkxNzk5LC04MT
+YyMTg2OTgsNDM0MDM5MDY3LC0yODA4NjczMjIsLTE0MjgzODEy
+NTAsLTE1NDYwMzAzMDcsLTE3ODYyOTIxMTAsLTc1NDAyOTUwNS
+wtMTQzNDYwOTg2OSwxNDI1NDQ0NjExLC02NjYzMjkzNDksLTE3
+NzU1ODQwOTMsLTE5ODMxMzcyMzUsLTE0ODczMDA0NzEsLTIwOT
+M5NjExNTYsLTcyODU2NDkwMSwxNDEyOTA5MTMwLDQ0ODc4MDQ5
+NywtNDkzMjA3MjM4XX0=
 -->
