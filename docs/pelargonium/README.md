@@ -114,7 +114,7 @@ The pelargonium was a favored plant of municipal gardeners because the hardy eve
 <param ve-image
 title="The Victorian flower market" url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/THE_FLOWER_MARKET.jpg" fit="cover"  attribution="Garden Musuem Collection">
 
-By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly instated as a staple in British domestic interiors, gardens, and patios. In his hugely popular 1875 book [_The amateur's flower garden_](https://www.biodiversitylibrary.org/bibliography/145001#/summary), Shirley Hibberd included designs for creating a harmonious pelargonium garden—“geranium garden”—based on the plant’s striking colour variations.[^ref19] In the layout of a panel garden, Hibberd suggests two potential summer schemes: one for a red-harmony garden, and another for a blue-harmony style. By 1895, writers such as Donald McDonald were still echoing Hibberd’s domestic horticultural penchant for the plant; McDonald wrote that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums,” a testament to the long-standing appeal of _Pelargoniums_ in British Victorian culture.[^ref20]
+By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly instated as a staple in British domestic interiors, gardens, and patios. In his hugely popular 1875 book [_The Amateur's Flower Garden_](https://www.biodiversitylibrary.org/bibliography/145001#/summary), Shirley Hibberd included designs for creating a harmonious pelargonium garden—“geranium garden”—based on the plant’s striking colour variations.[^ref19] In the layout of a panel garden, Hibberd suggests two potential summer schemes: one for a red-harmony garden, and another for a blue-harmony style. By 1895, writers such as Donald McDonald were still echoing Hibberd’s domestic horticultural penchant for the plant; McDonald wrote that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums,” a testament to the long-standing appeal of _Pelargoniums_ in British Victorian culture.[^ref20]
 <param ve-image primary fit="contain" url="https://www.biodiversitylibrary.org/pageimage/55342041" title="Shirley Hibberd’s Victorian garden plans, including bedding pelargoniums, in _The amateur’s flower garden_, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://ia800109.us.archive.org/BookReader/BookReaderImages.php?id=amateursflowerga00hibb&itemPath=%2F9%2Fitems%2Famateursflowerga00hibb&server=ia800109.us.archive.org&page=n30_w374" title="Shirley Hibberd’s Victorian garden plans, including bedding pelargoniums, in _The amateur’s flower garden_, Biodiversity Heritage Library">
 
@@ -214,11 +214,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTY3Njg1NywtMjgwODY3MzIyLC0xND
-I4MzgxMjUwLC0xNTQ2MDMwMzA3LC0xNzg2MjkyMTEwLC03NTQw
-Mjk1MDUsLTE0MzQ2MDk4NjksMTQyNTQ0NDYxMSwtNjY2MzI5Mz
-Q5LC0xNzc1NTg0MDkzLC0xOTgzMTM3MjM1LC0xNDg3MzAwNDcx
-LC0yMDkzOTYxMTU2LC03Mjg1NjQ5MDEsMTQxMjkwOTEzMCw0ND
-g3ODA0OTcsLTQ5MzIwNzIzOCw0ODcwNDMyMjQsMTc3NjkwMTY3
-MiwxNDYzMDY1NDM0XX0=
+eyJoaXN0b3J5IjpbNjM3MDE5ODc5LC0yODA4NjczMjIsLTE0Mj
+gzODEyNTAsLTE1NDYwMzAzMDcsLTE3ODYyOTIxMTAsLTc1NDAy
+OTUwNSwtMTQzNDYwOTg2OSwxNDI1NDQ0NjExLC02NjYzMjkzND
+ksLTE3NzU1ODQwOTMsLTE5ODMxMzcyMzUsLTE0ODczMDA0NzEs
+LTIwOTM5NjExNTYsLTcyODU2NDkwMSwxNDEyOTA5MTMwLDQ0OD
+c4MDQ5NywtNDkzMjA3MjM4LDQ4NzA0MzIyNCwxNzc2OTAxNjcy
+LDE0NjMwNjU0MzRdfQ==
 -->
