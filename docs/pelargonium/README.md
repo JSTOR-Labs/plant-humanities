@@ -82,15 +82,6 @@ The nomenclature confusion surrounding pelargoniums started with the introductio
 In the wake of that initial nomenclature confusion, botanists of the seventeenth century struggled to disentangle the genera _Pelargonium_ and _Geranium_. For a more in-depth discussion of the nomenclature history of _Pelargonium_ see the interactive timeline, at right, which provides insights about why there is still confusion surrounding the name and taxonomic designation of pelargoniums.
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
-<param ve-entity eid="Q465834" title="Charles Louis L'Héritier de Brutelle" aliases="Charles-Louis L’Héritier de Brutelle’s">
-<param ve-entity eid="Q164306" title="Pelargonium graveolens" aliases="P. graveolens">
-<param ve-entity eid="Q551638" title="Pierre-Joseph Redouté">
-<param ve-entity eid="Q2003356" title="Robert Sweet">
-Botanists have struggled to disentangle the genera _Pelargonium_ and _Geranium_ since the mid-eighteenth century. Indeed, Carl Linnaeus, in his 1753-book [_Species Plantarum_](https://www.biodiversitylibrary.org/bibliography/669#/summary), retained the generic name _Geranium_ for twenty pelargoniums.[^ref8] This interactive timeline showing the nomenclature history of _Pelargonium_ provides insights about why there is still confusion surrounding the name and taxonomic designation of pelargoniums. Charles-Louis L’Héritier de Brutelle first distinguished _Pelargonium_ as an independent genus in the late 1700s, though his work was overlooked at the time due to the reverence for Linnaean taxonomy.[^ref9] Although L’Héritier de Brutelle never published his taxonomic revisions, botanical illustrations prepared for his unrealized project by Pierre Joseph Redouté were published under the title _[Geraniologia](https://www.biodiversitylibrary.org/page/46555490)_. This one portrays _P. graveolens_, a rose-scented pelargonium that still bears L’Héritier de Brutelle’s name for it. Eventually, in the early-1800s, Robert Sweet introduced a serious classification system to ease the shortfall in Linnaean nomenclature. His five-volume book _[Geraniaceae](https://www.biodiversitylibrary.org/page/47461998)_ remains a vital source of information about the pelargonium.[^ref10] With more than 500 plant descriptions, it attests to the incredible popularity of the flower with a common misnomer–“geranium”– then too deeply rooted in cultural imaginations to be corrected.
-<param ve-image primary url="https://ia802708.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000519287&itemPath=%2F17%2Fitems%2Fmobot31753000519287&server=ia802708.us.archive.org&page=n34_w1032" title="Pierre Joseph Redouté, _Pelargonium graveolens_, Charles Louis Héritier de Brutelle, _Geraniologia: seu, E̲r̲o̲d̲i̲i̲, P̲e̲l̲a̲r̲g̲o̲n̲i̲i̲, G̲e̲r̲a̲n̲i̲i̲, M̲o̲n̲s̲o̲n̲i̲̲æ et G̲r̲i̲e̲l̲i̲: historia iconibus illustrata_, Paris: Typis Petri-Francisci Didot: Prostat apud Ludovicum Nicolaum Prévost,1787-1788, Missouri Botanical Garden, Biodiversity Heritage Library">
-<param ve-image url="Pelargonium_geraniaceaev5swee_0334.jpg" title="_Pelargonium Glorianum. Queen of Portugal's Stork's-bill_,Robert Sweet, _Geraniaceae: The Natural Order of Gerania_,Vol. 5, London: Printed for James Ridgway, Piccadilly,1820-1830, New York Botanical Garden, LuEsther T. Mertz Library, Biodiversity Heritage Library">
-
-
 ### New Technologies and the Making of the Modern Pelargonium
 
 The _Pelargonium_ is a perennial bush that thrives in dry arid climates. The earliest plants introduced from Southern Africa to Europe were cultivated in heated greenhouses to protect them from cold and frost. From the late seventeenth to the early nineteenth centuries, these delicate pelargoniums were kept mainly as scientific specimens, exotic curiosities, status symbols, and conversation pieces. New technologies–both for fabricating iron and plate glass, and for building conservatories from these materials–were integral to popularizing the pelargonium in the early nineteenth century because they provided the upper classes with novel spaces for displaying them.
@@ -219,11 +210,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM5NjExNTYsLTcyODU2NDkwMSwxND
-EyOTA5MTMwLDQ0ODc4MDQ5NywtNDkzMjA3MjM4LDQ4NzA0MzIy
-NCwxNzc2OTAxNjcyLDE0NjMwNjU0MzQsMjM4NTQwMjAsODU2Nz
-k3Mjk5LC0xNTc5Nzk2OTgxLC0xMzYwMTMxMTgyLC0xOTE3NDcw
-OTIwLDEzMTk4NTk0MSwtMTA0NzIwNzI1NCwtMjExNTk5NDUyNy
-w3MTQ1MzU4OTEsMTU0MDY2Nzc0MSwyNjgxOTcxMjAsLTQwNTA2
-NjI0NF19
+eyJoaXN0b3J5IjpbLTE0ODczMDA0NzEsLTIwOTM5NjExNTYsLT
+cyODU2NDkwMSwxNDEyOTA5MTMwLDQ0ODc4MDQ5NywtNDkzMjA3
+MjM4LDQ4NzA0MzIyNCwxNzc2OTAxNjcyLDE0NjMwNjU0MzQsMj
+M4NTQwMjAsODU2Nzk3Mjk5LC0xNTc5Nzk2OTgxLC0xMzYwMTMx
+MTgyLC0xOTE3NDcwOTIwLDEzMTk4NTk0MSwtMTA0NzIwNzI1NC
+wtMjExNTk5NDUyNyw3MTQ1MzU4OTEsMTU0MDY2Nzc0MSwyNjgx
+OTcxMjBdfQ==
 -->
