@@ -56,7 +56,7 @@ Other morphological traits, however, distinguish members of the genera _Pelargon
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
-The _[Pelargonium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30302759-2)_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape Peninsula of present-day South Africa: a biodiversity hotspot. Given their concentration there, it is not surprising that Dutch traders, who first introduced pelargoniums to Europe in the early 1600s, harvested them from the Cape.
+The _[Pelargonium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30302759-2)_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape Peninsula of present-day South Africa: a biodiversity hotspot. Given their concentration there, it is not surprising that Dutch traders, who first introduced pelargoniums to Europe in the early 1600s, harvested them from the Cape.[^ref5]
 <param ve-map center="-7.347, 72.454" zoom="2.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -179,6 +179,8 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref4]: Charles Dickens grew _P._ × _hortorum_ ‘Mrs. Pollock’ in pots and _P._ × _hortorum_ ‘General Tom Thumb’ in beds at Gad’s Hill Place. Hartley, “Dickens and the Geranium,” p. 6; Ide, Jennifer M. 2017. "A Rose for Charles Dickens." _The Dickensian_ 113 (501) (Spring): 35-36. http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/rose-charles-dickens/docview/2056424376/se-2?accountid=11311.
 
+[^ref5]: Wilkinson, Anne. _The Passion for Pelargoniums_. Stroud: The History Press, 2007, p. 8.
+
 [^ref5]: John Gerard, _The herball, or, Generall historie of plantes_, London: Printed by Adam Islip Joice Norton and Richard Whitakers,anno 1633. [https://www.biodiversitylibrary.org/page/51905442](https://www.biodiversitylibrary.org/page/51905442)
 
 [^ref6]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
@@ -213,11 +215,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzIwNzIzOCw0ODcwNDMyMjQsMTc3Nj
-kwMTY3MiwxNDYzMDY1NDM0LDIzODU0MDIwLDg1Njc5NzI5OSwt
-MTU3OTc5Njk4MSwtMTM2MDEzMTE4MiwtMTkxNzQ3MDkyMCwxMz
-E5ODU5NDEsLTEwNDcyMDcyNTQsLTIxMTU5OTQ1MjcsNzE0NTM1
-ODkxLDE1NDA2Njc3NDEsMjY4MTk3MTIwLC00MDUwNjYyNDQsLT
-EwNzM1MTY4NjYsNjAzODcyNDAwLC0xNDY2NDEzMzEsLTEzMjk5
-NzQ5NjRdfQ==
+eyJoaXN0b3J5IjpbLTEwMzYwMTcyODEsLTQ5MzIwNzIzOCw0OD
+cwNDMyMjQsMTc3NjkwMTY3MiwxNDYzMDY1NDM0LDIzODU0MDIw
+LDg1Njc5NzI5OSwtMTU3OTc5Njk4MSwtMTM2MDEzMTE4MiwtMT
+kxNzQ3MDkyMCwxMzE5ODU5NDEsLTEwNDcyMDcyNTQsLTIxMTU5
+OTQ1MjcsNzE0NTM1ODkxLDE1NDA2Njc3NDEsMjY4MTk3MTIwLC
+00MDUwNjYyNDQsLTEwNzM1MTY4NjYsNjAzODcyNDAwLC0xNDY2
+NDEzMzFdfQ==
 -->
