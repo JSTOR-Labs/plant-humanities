@@ -10,7 +10,7 @@
 
 <param ve-entity eid="Q5686" title="Charles Dickens">
 <param ve-entity eid="Q3850458" title="Mary Dickens" aliases="Mamie Dickens">
-There was no flower on earth that Charles Dickens loved quite as much as the scarlet “geranium.”[^ref1] With its vibrant red flowers and sweet, rose scent, this cheerful plant always adorned the dining table and dominated the garden in a “blaze of color” at his country home, [Gad’s Hill Place](https://thegardenstrust.blog/2020/01/25/dickens-and-gardens/), in Kent.[^ref2] Attendees at his public readings could always count on seeing a scarlet “geranium” displayed in his buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.”[^ref3]
+There was no flower on earth that Charles Dickens loved quite as much as the scarlet “geranium.”[^ref1] With its vibrant red flowers and sweet rose scent, this cheerful plant always adorned the dining table and dominated the garden in a “blaze of color” at his country home, [Gad’s Hill Place](https://thegardenstrust.blog/2020/01/25/dickens-and-gardens/), in Kent.[^ref2] Attendees at his public readings could always count on seeing a scarlet “geranium” displayed in his buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.”[^ref3]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" title="Charles Dickens with his two daughters at Gad’s Hill Place. Behind them is a staged “theatre” of potted pelargoniums displayed beneath a bay window. _Charles Dickens with his daughters, Mamie Dickens and Catherine ('Katey') Elizabeth Macready Perugini (née Dickens)_, after Joseph Athanase Aufray, after a photograph by Mason & Co (Robert Hindry Mason), photogravure, published 18 December 1869, National Gallery of Art, Wikimedia Commons">
 <param ve-image fit="contain" url="Pelargonium_CharlesDickensWindow_FLICKR.jpg"title="In remembrance of the author and his adoration for the pelargonium, The Dickens Fellowship lays an ivy-and-red-flower wreath at his grave every year on the anniversary of his death. Window with portrait of Dickens encircled by a wreath, Charles Dickens Birthplace Museum, Portsmouth, England, Fred Rockwood, 2010, Flickr, CC BY-NC-SA 2.0">
 <param ve-image fit="contain" url="Pelargonium_CharlesDickensMuseum_FLICKR.jpg" title="Flower bed of brilliant red pelargoniums, Charles Dickens Birthplace Museum, Portsmouth, England, Mark Hooper, 2017, Flickr, CC BY-NC-SA 2.0">
@@ -214,11 +214,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjAxMzExODIsLTE5MTc0NzA5MjAsMT
-MxOTg1OTQxLC0xMDQ3MjA3MjU0LC0yMTE1OTk0NTI3LDcxNDUz
-NTg5MSwxNTQwNjY3NzQxLDI2ODE5NzEyMCwtNDA1MDY2MjQ0LC
-0xMDczNTE2ODY2LDYwMzg3MjQwMCwtMTQ2NjQxMzMxLC0xMzI5
-OTc0OTY0LC0xNjUyMTgxMTkxLC0zNzU1NjkxODEsMTA0MTY0Mz
-k2OCwtODEwNTU3NjQ5LDEwMTM1NDk2MSwxNjMxMzc1OTA4LC0x
-NjE0NzU4MTRdfQ==
+eyJoaXN0b3J5IjpbLTE5MjAxMzMxMDAsLTEzNjAxMzExODIsLT
+E5MTc0NzA5MjAsMTMxOTg1OTQxLC0xMDQ3MjA3MjU0LC0yMTE1
+OTk0NTI3LDcxNDUzNTg5MSwxNTQwNjY3NzQxLDI2ODE5NzEyMC
+wtNDA1MDY2MjQ0LC0xMDczNTE2ODY2LDYwMzg3MjQwMCwtMTQ2
+NjQxMzMxLC0xMzI5OTc0OTY0LC0xNjUyMTgxMTkxLC0zNzU1Nj
+kxODEsMTA0MTY0Mzk2OCwtODEwNTU3NjQ5LDEwMTM1NDk2MSwx
+NjMxMzc1OTA4XX0=
 -->
