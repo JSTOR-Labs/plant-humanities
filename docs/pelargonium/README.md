@@ -211,9 +211,9 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref20]: McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
 
-[^ref21]: Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--. [https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up](https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up)
+[^ref21]: Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--. [https://www.biodiversitylibrary.org/page/56679001](https://www.biodiversitylibrary.org/page/56679001)
 
-[^ref22]: Kirkland, _The Book of Flowers_, Saunders and Otley, 18--. [https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up](https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up)
+[^ref22]: Kirkland, _The Book of Flowers_, 73, [https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up](https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up)
 
 [^ref23]: Jekyll, Gertrude. _Colour Schemes for the Flower Garden_. Country Life, 1919.
 
@@ -223,11 +223,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3MTE3ODMxLDQzNDAzOTA2NywtMjgwOD
-Y3MzIyLC0xNDI4MzgxMjUwLC0xNTQ2MDMwMzA3LC0xNzg2Mjky
-MTEwLC03NTQwMjk1MDUsLTE0MzQ2MDk4NjksMTQyNTQ0NDYxMS
-wtNjY2MzI5MzQ5LC0xNzc1NTg0MDkzLC0xOTgzMTM3MjM1LC0x
-NDg3MzAwNDcxLC0yMDkzOTYxMTU2LC03Mjg1NjQ5MDEsMTQxMj
-kwOTEzMCw0NDg3ODA0OTcsLTQ5MzIwNzIzOCw0ODcwNDMyMjQs
-MTc3NjkwMTY3Ml19
+eyJoaXN0b3J5IjpbLTE5NDQxODcyMzksNDM0MDM5MDY3LC0yOD
+A4NjczMjIsLTE0MjgzODEyNTAsLTE1NDYwMzAzMDcsLTE3ODYy
+OTIxMTAsLTc1NDAyOTUwNSwtMTQzNDYwOTg2OSwxNDI1NDQ0Nj
+ExLC02NjYzMjkzNDksLTE3NzU1ODQwOTMsLTE5ODMxMzcyMzUs
+LTE0ODczMDA0NzEsLTIwOTM5NjExNTYsLTcyODU2NDkwMSwxND
+EyOTA5MTMwLDQ0ODc4MDQ5NywtNDkzMjA3MjM4LDQ4NzA0MzIy
+NCwxNzc2OTAxNjcyXX0=
 -->
