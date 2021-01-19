@@ -125,14 +125,14 @@ By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly 
 
 <param ve-entity eid="Q655213" title="Leigh Hunt">
 <param ve-entity eid="Q5045123" title="Caroline Kirkland">
-The ubiquity of the _Pelargonium_ in the Victorian era soon began to carry a cultural significance all its own – and it was not always a positive one. In 1864’s _The Book of Flowers_, Caroline Kirkland follows the poet Leigh Hunt in describing the _Geranium_ (of course, really a _Pelargonium_) as a _genteel_ plant. She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel.”[^ref21] Although we may construe her comment as nothing more than an attestation to the _Pelargonium’s_ universal charms, her use of the word “genteel” takes on additional meaning when we consider the significance of the _Pelargonium_ in the context of working-class culture.
+The ubiquity of the _Pelargonium_ in the Victorian era soon began to carry a cultural significance all its own – and it was not always a positive one. In 1864’s _[The Book of Flowers](https://www.biodiversitylibrary.org/page/56679001)_, Caroline Kirkland follows the poet Leigh Hunt in describing the _Geranium_ (of course, really a _Pelargonium_) as a _genteel_ plant.[^ref21] She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel.”[^ref22] Although we may construe her comment as nothing more than an attestation to the _Pelargonium’s_ universal charms, her use of the word “genteel” takes on additional meaning when we consider the significance of the _Pelargonium_ in the context of working-class culture.
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Victorian_language_of_flowers_.jpg" title="The broad range of varieties and scents of _Pelargonium_ (under the name _Geranium_, of course) made it a favourite in the Victorian “language of flowers.” This concealed language allowed members of upper-class society to use specific flowers as a sort of code to pass on secret, often romantic, messages that they were forbidden from speaking aloud. Here, we can see that the scarlet Geranium (_P. inquinans_) means “comfort.” Excerpt from L. Burke’s _The Miniature Language of Flowers_, Biodiversity Heritage Library">
 
-For many lower-class Victorian families who did not have gardens, growing _Pelargoniums_ in pots and displaying them in windows or balconies became a way to try and project a sense of belonging to higher classes to which they aspired. In other words, as the century wore on, the iconic flower became a visual marker for the lower classes’ (often awkward) attempts to convey a social standing superior to their own. Naturally, such attempts rarely landed in the way they were intended, and before long, horticulturalists began to look down on the _Pelargonium_ with a certain derision. Jekyll writes in 1919 that, “It is a common thing for friends to express surprise at seeing scarlet Geraniums...in my garden, forgetting that it was not the fault of the plants that they were misused or employed in dull or even stupid ways.”[^ref22] His comments reveal that it was not the plants themselves that were particularly offensive to garden specialists; rather, it was the way they had been used by certain cack-handed individuals, presumably the lower classes, that made them such a subject of scorn in horticultural circles.
+For many lower-class Victorian families who did not have gardens, growing _Pelargoniums_ in pots and displaying them in windows or balconies became a way to try and project a sense of belonging to higher classes to which they aspired. In other words, as the century wore on, the iconic flower became a visual marker for the lower classes’ (often awkward) attempts to convey a social standing superior to their own. Naturally, such attempts rarely landed in the way they were intended, and before long, horticulturalists began to look down on the _Pelargonium_ with a certain derision. Jekyll writes in 1919 that, “It is a common thing for friends to express surprise at seeing scarlet Geraniums...in my garden, forgetting that it was not the fault of the plants that they were misused or employed in dull or even stupid ways.”[^ref23] His comments reveal that it was not the plants themselves that were particularly offensive to garden specialists; rather, it was the way they had been used by certain cack-handed individuals, presumably the lower classes, that made them such a subject of scorn in horticultural circles.
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Jenny_geranium.png" title="Frontispiece, _Jenny’s Geranium, or, The Prize Flower of a London Court_, S.W. Partridge & Co, c. 1869. Children’s Book Collection. Library Special Collections, Charles E. Young Research Library, UCLA.]">
 
 
-As a result, the _Pelargonium_ at the turn of the century became a symbol for the working class’s ungainly attempts at propriety and a gauche lack of style–and it was instrumentalized as such throughout art and literature. Catherine Horwood notes that, “If there is one plant that sums up the attitude of Victorian sentimentalists towards the unfortunate working class in the nineteenth century, it is the forlorn red ‘geranium’ sitting on a cottage window-sill. Hundreds of artists used this as a symbol of aspirations to respectability.”[^ref23] With this context, we might understand Kirkland’s pretensions to the “genteel _Geranium_” as an ironic statement, more in line with the OED’s definition of “genteel” as “being characteristic of those who are possessed with a dread of being taken for ‘common people’, or who attach exaggerated importance to supposed marks of social superiority...in educated language it has always a sarcastic or at least playful colouring,” than to assertions of true gentility.[^ref24] 
+As a result, the _Pelargonium_ at the turn of the century became a symbol for the working class’s ungainly attempts at propriety and a gauche lack of style–and it was instrumentalized as such throughout art and literature. Catherine Horwood notes that, “If there is one plant that sums up the attitude of Victorian sentimentalists towards the unfortunate working class in the nineteenth century, it is the forlorn red ‘geranium’ sitting on a cottage window-sill. Hundreds of artists used this as a symbol of aspirations to respectability.”[^ref24] With this context, we might understand Kirkland’s pretensions to the “genteel _Geranium_” as an ironic statement, more in line with the OED’s definition of “genteel” as “being characteristic of those who are possessed with a dread of being taken for ‘common people’, or who attach exaggerated importance to supposed marks of social superiority...in educated language it has always a sarcastic or at least playful colouring,” than to assertions of true gentility.[^ref25] 
 <param ve-image primary fit="contain" url="https://img.wikioo.org/ADC/Art.nsf/O/9GZR6B/$File/WilliamHenryMidwood-Themusiclesson.JPG" title="_The Music Lesson_, oil on canvas, 1872, William Henry Midwood, Wikioo.org - The Encyclopedia of Fine Arts">
 
 ### Pelargoniums, Imperial Splendor, and Colonial Profit
@@ -213,19 +213,21 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref21]: Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--. [https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up](https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up)
 
-[^ref22]: Jekyll, Gertrude. _Colour Schemes for the Flower Garden_. Country Life, 1919.
+[^ref22]: Kirkland, _The Book of Flowers_, Saunders and Otley, 18--. [https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up](https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up)
 
-[^ref23]: Horwood, Catherine. _Potted History: The Story of Plants in the Home_. Quarto Group Inc, 2007.
+[^ref23]: Jekyll, Gertrude. _Colour Schemes for the Flower Garden_. Country Life, 1919.
 
-[^ref24]: “genteel, adj. and n.” OED Online. Oxford University Press, June 2020. Web. 1 August 2020.
+[^ref24]: Horwood, Catherine. _Potted History: The Story of Plants in the Home_. Quarto Group Inc, 2007.
+
+[^ref25]: “genteel, adj. and n.” OED Online. Oxford University Press, June 2020. Web. 1 August 2020.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0MDM5MDY3LC0yODA4NjczMjIsLTE0Mj
-gzODEyNTAsLTE1NDYwMzAzMDcsLTE3ODYyOTIxMTAsLTc1NDAy
-OTUwNSwtMTQzNDYwOTg2OSwxNDI1NDQ0NjExLC02NjYzMjkzND
-ksLTE3NzU1ODQwOTMsLTE5ODMxMzcyMzUsLTE0ODczMDA0NzEs
-LTIwOTM5NjExNTYsLTcyODU2NDkwMSwxNDEyOTA5MTMwLDQ0OD
-c4MDQ5NywtNDkzMjA3MjM4LDQ4NzA0MzIyNCwxNzc2OTAxNjcy
-LDE0NjMwNjU0MzRdfQ==
+eyJoaXN0b3J5IjpbODQ3MTE3ODMxLDQzNDAzOTA2NywtMjgwOD
+Y3MzIyLC0xNDI4MzgxMjUwLC0xNTQ2MDMwMzA3LC0xNzg2Mjky
+MTEwLC03NTQwMjk1MDUsLTE0MzQ2MDk4NjksMTQyNTQ0NDYxMS
+wtNjY2MzI5MzQ5LC0xNzc1NTg0MDkzLC0xOTgzMTM3MjM1LC0x
+NDg3MzAwNDcxLC0yMDkzOTYxMTU2LC03Mjg1NjQ5MDEsMTQxMj
+kwOTEzMCw0NDg3ODA0OTcsLTQ5MzIwNzIzOCw0ODcwNDMyMjQs
+MTc3NjkwMTY3Ml19
 -->
