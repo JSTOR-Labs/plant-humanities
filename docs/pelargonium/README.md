@@ -181,7 +181,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref5]: Wilkinson, Anne. _The Passion for Pelargoniums_. Stroud: The History Press, 2007, p. 8.
 
-[^ref6]: Wilkinson, The Passion for Pelargoniums_, p. 13-21; John Gerard, _The herball, or, Generall historie of plantes_, London: Printed by Adam Islip Joice Norton and Richard Whitakers,anno 1633. [https://www.biodiversitylibrary.org/page/51905442](https://www.biodiversitylibrary.org/page/51905442)
+[^ref6]: Wilkinson, The Passion for Pelargoniums_, pp. 13-21; John Gerard, _The herball, or, Generall historie of plantes_, London: Printed by Adam Islip Joice Norton and Richard Whitakers,anno 1633. [https://www.biodiversitylibrary.org/page/51905442](https://www.biodiversitylibrary.org/page/51905442)
 
 [^ref6]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 
@@ -215,11 +215,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg4MTQ4OTcsLTQ5MzIwNzIzOCw0OD
-cwNDMyMjQsMTc3NjkwMTY3MiwxNDYzMDY1NDM0LDIzODU0MDIw
-LDg1Njc5NzI5OSwtMTU3OTc5Njk4MSwtMTM2MDEzMTE4MiwtMT
-kxNzQ3MDkyMCwxMzE5ODU5NDEsLTEwNDcyMDcyNTQsLTIxMTU5
-OTQ1MjcsNzE0NTM1ODkxLDE1NDA2Njc3NDEsMjY4MTk3MTIwLC
-00MDUwNjYyNDQsLTEwNzM1MTY4NjYsNjAzODcyNDAwLC0xNDY2
-NDEzMzFdfQ==
+eyJoaXN0b3J5IjpbMTM1MzAxNDgxNywtNDkzMjA3MjM4LDQ4Nz
+A0MzIyNCwxNzc2OTAxNjcyLDE0NjMwNjU0MzQsMjM4NTQwMjAs
+ODU2Nzk3Mjk5LC0xNTc5Nzk2OTgxLC0xMzYwMTMxMTgyLC0xOT
+E3NDcwOTIwLDEzMTk4NTk0MSwtMTA0NzIwNzI1NCwtMjExNTk5
+NDUyNyw3MTQ1MzU4OTEsMTU0MDY2Nzc0MSwyNjgxOTcxMjAsLT
+QwNTA2NjI0NCwtMTA3MzUxNjg2Niw2MDM4NzI0MDAsLTE0NjY0
+MTMzMV19
 -->
