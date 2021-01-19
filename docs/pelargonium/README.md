@@ -103,7 +103,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/3/37/Floriculture.jpg" title
 
 <param ve-entity eid="Q182688" title="Victorian era" aliases="Victorian">
 <param ve-entity eid="Q6566235" title="Pelargonium × hortorum">
-It was against this backdrop that bedding or zonal pelargoniums, known in horticultural circles as _Pelargonium × hortorum_, soon became the mainstay of all municipal gardens in Victorian England. The 1837 _Floricultural Cabinet_ listed the best pelargoniums for bedding as one of the old faithful multipurpose plants. The ubiquity of the plant in public spaces is also celebrated in E. Adveno Brooke’s 1858 book _The Gardens of England_. As he explains, the bright scarlet pelargonium bloomed nearly everywhere from stone vases to flowerbeds and parterres. These locations, shown in illustrations at right, include the upper and lower terrace gardens of Bewood, the colonnade of Alton Gardens, as well as the parterre of Harewood.
+It was against this backdrop that bedding or zonal pelargoniums, known in horticultural circles as _Pelargonium × hortorum_, soon became the mainstay of all municipal gardens in Victorian England. The 1837-volume _[The Floricultural Cabinet](https://www.biodiversitylibrary.org/page/15889416)_ listed the best pelargoniums for bedding as one of the old faithful multipurpose plants.[^ref16] The ubiquity of the plant in public spaces is also celebrated in E. Adveno Brooke’s 1858 book _The Gardens of England_.[^ref17] As he explains, the bright scarlet pelargonium bloomed nearly everywhere from stone vases to flowerbeds and parterres. These locations, shown in illustrations at right, include the upper and lower terrace gardens of Bewood, the colonnade of Alton Gardens, as well as the parterre of Harewood.
 <param ve-image primary fit="contain" url="Pelargonium_Bewood_BHL.jpg" title="Upper and lower terrace gardens of Bewood, scarlet pelargonium planted in stone vases and beds in _The gardens of England_, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="Pelargonium_AltonGardens_BHL.jpg" title="Colonnade of Alton Gardens, scarlet pelargonium planted in stone vases, in _The gardens of England_, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="Pelargonium_ParterreHarewood_BHL.jpg" title="Parterre of Harewood, scarlet pelargonium planted in stone vases and parterres, in _The gardens of England_ Biodiversity Heritage Library">
@@ -195,6 +195,8 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref15]: Lindsay Wells. "Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor." _Victorian Studies_ 60, no. 2 (2018): 158-70. Accessed January 11, 2021. http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02.
 
+[^ref16]: Mr. Thomas Appleby, “Article IV.—On the Culture of Geraniums,” The Floricultural Cabinet and Florist's Magazine, Vol. 5, 1837, pp. 8-10, [https://www.biodiversitylibrary.org/page/15889416](https://www.biodiversitylibrary.org/page/15889416)
+
 [^ref16]: Hibberd, Shirley. “Lecture on the Pelargonium.” _The Journal of Horticulture_, 1880, pp. 14, 74-75.
 
 [^ref15]: Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875. [https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up](https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up)
@@ -211,11 +213,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjgzODEyNTAsLTE1NDYwMzAzMDcsLT
-E3ODYyOTIxMTAsLTc1NDAyOTUwNSwtMTQzNDYwOTg2OSwxNDI1
-NDQ0NjExLC02NjYzMjkzNDksLTE3NzU1ODQwOTMsLTE5ODMxMz
-cyMzUsLTE0ODczMDA0NzEsLTIwOTM5NjExNTYsLTcyODU2NDkw
-MSwxNDEyOTA5MTMwLDQ0ODc4MDQ5NywtNDkzMjA3MjM4LDQ4Nz
-A0MzIyNCwxNzc2OTAxNjcyLDE0NjMwNjU0MzQsMjM4NTQwMjAs
-ODU2Nzk3Mjk5XX0=
+eyJoaXN0b3J5IjpbLTI4MDg2NzMyMiwtMTQyODM4MTI1MCwtMT
+U0NjAzMDMwNywtMTc4NjI5MjExMCwtNzU0MDI5NTA1LC0xNDM0
+NjA5ODY5LDE0MjU0NDQ2MTEsLTY2NjMyOTM0OSwtMTc3NTU4ND
+A5MywtMTk4MzEzNzIzNSwtMTQ4NzMwMDQ3MSwtMjA5Mzk2MTE1
+NiwtNzI4NTY0OTAxLDE0MTI5MDkxMzAsNDQ4NzgwNDk3LC00OT
+MyMDcyMzgsNDg3MDQzMjI0LDE3NzY5MDE2NzIsMTQ2MzA2NTQz
+NCwyMzg1NDAyMF19
 -->
