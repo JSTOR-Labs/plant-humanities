@@ -185,9 +185,9 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref11]: The interactive timeline references the following sources: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753; Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.; Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.
 
-[^ref12]: Wilkinson, _The Passion for Pelargoniums_, p. 
+[^ref12]: Wilkinson, _The Passion for Pelargoniums_, p. 8 and 22.
 
-[^ref13]:
+[^ref13]: 
 
 [^ref14]: Keogh, Luke. _The Wardian Case: How a Simple Box Moved Plants and Saved the World_. University of Chicago Press, 2020.
 
@@ -209,7 +209,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDA2NTAzNCwtNjY2MzI5MzQ5LC0xNz
+eyJoaXN0b3J5IjpbMTQyNTQ0NDYxMSwtNjY2MzI5MzQ5LC0xNz
 c1NTg0MDkzLC0xOTgzMTM3MjM1LC0xNDg3MzAwNDcxLC0yMDkz
 OTYxMTU2LC03Mjg1NjQ5MDEsMTQxMjkwOTEzMCw0NDg3ODA0OT
 csLTQ5MzIwNzIzOCw0ODcwNDMyMjQsMTc3NjkwMTY3MiwxNDYz
