@@ -74,7 +74,7 @@ Of the many _Pelargonium_ species native to the Cape Peninsula, _Pelargonium_ _t
 <param ve-entity eid="Q863247" title="nomenclature">
 <param ve-entity eid="Q13996" title="Mediterranean climate">
 <param ve-entity eid="Q355691" title="Jacques Philippe Cornut" aliases="Jacques Philippe Cornut's">
-The nomenclature confusion surrounding pelargoniums started with the introduction of _Pelargonium triste_ (“sad pelargonium”) to Europe. The plant was initially called _Geranium Indicum nocto odorato_, or “night-scented geranium of India.” Europeans misidentified the specimen as a geranium because they were already familiar with _[Geranium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327764-2)_ species, which are native to the Mediterranean Basin. Additionally, Dutch traders brought the pelargonium to Holland on their return from making colonial voyages to the East Indies, prompting some to give it an incorrect Indian provenance. Jacques Philippe Cornut renamed the plant _Geranium triste_ in an apparent reference to its sad or dull-colored foliage or flowers. He drew this portrait of the plant, which was published in his 1635-bookbook _[Canadensium Plantarum](https://bibdigital.rjb.csic.es/idurl/1/13506).
+The nomenclature confusion surrounding pelargoniums started with the introduction of _Pelargonium triste_ (“sad pelargonium”) to Europe. The plant was initially called _Geranium Indicum nocto odorato_, or “night-scented geranium of India.”[^ref9] Europeans misidentified the specimen as a geranium because they were already familiar with _[Geranium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327764-2)_ species, which are native to the Mediterranean Basin. Additionally, Dutch traders brought the pelargonium to Holland on their return from making colonial voyages to the East Indies, prompting some to give it an incorrect Indian provenance. Jacques Philippe Cornut renamed the plant _Geranium triste_ in an apparent reference to its sad or dull-colored foliage or flowers. He drew this portrait of the plant, which was published in his 1635-bookbook _[Canadensium Plantarum](https://bibdigital.rjb.csic.es/idurl/1/13506).[^ref10]
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], Jacques-Philippe Cornut, _Canadensium Plantarum_, Paris, Venundantur apud Simonem Le Moyne, 1635, Biblioteca Digital">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_ has not been widely hybridized and cultural interest in the plant is limited mainly to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 
@@ -181,13 +181,17 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref5]: Wilkinson, Anne. _The Passion for Pelargoniums_. Stroud: The History Press, 2007, p. 8.
 
-[^ref6]: Wilkinson, The Passion for Pelargoniums_, pp. 13-21; John Gerard, _The herball, or, Generall historie of plantes_, London: Printed by Adam Islip Joice Norton and Richard Whitakers,anno 1633. [https://www.biodiversitylibrary.org/page/51905442](https://www.biodiversitylibrary.org/page/51905442)
+[^ref6]: Wilkinson, The Passion for Pelargoniums_, pp. 13-21.
 
 [^ref7]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 
 [^ref8]: Sherard, William. _Schola botanica sive catalogus plantarum, quas ab aliquot annis in Horto Regio Parisiensis Studiosis indigitavit vir clarissimvs Joseph Pitton Tournefort, D. M. ut et Pauli Hermanni P.P. Paradisi Batavi prodromus, In quo Planta rariores omnes, in Batavorum Hortis hactenus cultae, & plurinam partem à nemine antea descriptae recensentur_. Amstelaedami: Apud Henricum Wetstenium, 1689. [https://bibdigital.rjb.csic.es/idurl/1/13582](https://bibdigital.rjb.csic.es/idurl/1/13582); Wilkinson, _The Passion for Pelargoniums_, pp. 21-22.
 
 [^ref8]: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.
+
+[^ref9]: 
+
+[^ref10]: 
 
 [^ref9]: Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.
 
@@ -215,11 +219,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NzgwNDk3LC00OTMyMDcyMzgsNDg3MD
-QzMjI0LDE3NzY5MDE2NzIsMTQ2MzA2NTQzNCwyMzg1NDAyMCw4
-NTY3OTcyOTksLTE1Nzk3OTY5ODEsLTEzNjAxMzExODIsLTE5MT
-c0NzA5MjAsMTMxOTg1OTQxLC0xMDQ3MjA3MjU0LC0yMTE1OTk0
-NTI3LDcxNDUzNTg5MSwxNTQwNjY3NzQxLDI2ODE5NzEyMCwtND
-A1MDY2MjQ0LC0xMDczNTE2ODY2LDYwMzg3MjQwMCwtMTQ2NjQx
-MzMxXX0=
+eyJoaXN0b3J5IjpbLTIwMjE0OTc1NzAsNDQ4NzgwNDk3LC00OT
+MyMDcyMzgsNDg3MDQzMjI0LDE3NzY5MDE2NzIsMTQ2MzA2NTQz
+NCwyMzg1NDAyMCw4NTY3OTcyOTksLTE1Nzk3OTY5ODEsLTEzNj
+AxMzExODIsLTE5MTc0NzA5MjAsMTMxOTg1OTQxLC0xMDQ3MjA3
+MjU0LC0yMTE1OTk0NTI3LDcxNDUzNTg5MSwxNTQwNjY3NzQxLD
+I2ODE5NzEyMCwtNDA1MDY2MjQ0LC0xMDczNTE2ODY2LDYwMzg3
+MjQwMF19
 -->
