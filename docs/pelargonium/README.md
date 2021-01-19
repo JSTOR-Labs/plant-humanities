@@ -187,7 +187,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref12]: Wilkinson, _The Passion for Pelargoniums_, p. 8 and 22.
 
-[^ref13]: 
+[^ref13]: Bernard Marrey and Jean-Pierre Monnet, _La grande histoire des serres & des jardins d'hiver: France 1780-1900_. Paris: Graphite, 1984, p. 51.
 
 [^ref14]: Keogh, Luke. _The Wardian Case: How a Simple Box Moved Plants and Saved the World_. University of Chicago Press, 2020.
 
@@ -209,11 +209,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTQ0NDYxMSwtNjY2MzI5MzQ5LC0xNz
-c1NTg0MDkzLC0xOTgzMTM3MjM1LC0xNDg3MzAwNDcxLC0yMDkz
-OTYxMTU2LC03Mjg1NjQ5MDEsMTQxMjkwOTEzMCw0NDg3ODA0OT
-csLTQ5MzIwNzIzOCw0ODcwNDMyMjQsMTc3NjkwMTY3MiwxNDYz
-MDY1NDM0LDIzODU0MDIwLDg1Njc5NzI5OSwtMTU3OTc5Njk4MS
-wtMTM2MDEzMTE4MiwtMTkxNzQ3MDkyMCwxMzE5ODU5NDEsLTEw
-NDcyMDcyNTRdfQ==
+eyJoaXN0b3J5IjpbLTE0MzQ2MDk4NjksMTQyNTQ0NDYxMSwtNj
+Y2MzI5MzQ5LC0xNzc1NTg0MDkzLC0xOTgzMTM3MjM1LC0xNDg3
+MzAwNDcxLC0yMDkzOTYxMTU2LC03Mjg1NjQ5MDEsMTQxMjkwOT
+EzMCw0NDg3ODA0OTcsLTQ5MzIwNzIzOCw0ODcwNDMyMjQsMTc3
+NjkwMTY3MiwxNDYzMDY1NDM0LDIzODU0MDIwLDg1Njc5NzI5OS
+wtMTU3OTc5Njk4MSwtMTM2MDEzMTE4MiwtMTkxNzQ3MDkyMCwx
+MzE5ODU5NDFdfQ==
 -->
