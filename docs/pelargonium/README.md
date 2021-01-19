@@ -79,7 +79,7 @@ The nomenclature confusion surrounding pelargoniums started with the introductio
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_ has not been widely hybridized and cultural interest in the plant is limited mainly to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
-In the wake of that initial nomenclature confusion, botanists of the seventeenth century struggled to disentangle the genera _Pelargonium_ and _Geranium_. For a more in-depth discussion of the nomenclature history of _Pelargonium_ see the interactive timeline, at right, which provides insights about why there is still confusion surrounding the name and taxonomic designation of pelargoniums.
+In the wake of that initial nomenclature confusion, botanists of the seventeenth century struggled to disentangle the genera _Pelargonium_ and _Geranium_. For a more in-depth discussion of the nomenclature history of _Pelargonium_ see the interactive timeline, at right, which provides insights about why there is still confusion surrounding the name and taxonomic designation of pelargoniums.[^ref11]
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
 ### New Technologies and the Making of the Modern Pelargonium
@@ -182,15 +182,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref10]: Jacques Philippe Cornut, _Canadensivm plantarvm, aliarúmque nondum editarum historia. Cui adiectum ad calcem Enchiridion botanicvm Parisiense, Continens Indicem Plantarum, quae in Pagis, Siluis Pratis, & Montosis iuxta Parisios locis nascuntur_, Paris: Venundantur apud Simonem Le Moyne, viâ Iacobeâ, 1635, [https://bibdigital.rjb.csic.es/idurl/1/13506](https://bibdigital.rjb.csic.es/idurl/1/13506).
 
-[^ref8]: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.
+[^ref11]: The interactive timeline references the following sources: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753; Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.; Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.
 
-[^ref9]: Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.
+[^ref12]: Keogh, Luke. _The Wardian Case: How a Simple Box Moved Plants and Saved the World_. University of Chicago Press, 2020.
 
-[^ref10]: Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.
-
-[^ref11]: Keogh, Luke. _The Wardian Case: How a Simple Box Moved Plants and Saved the World_. University of Chicago Press, 2020.
-
-[^ref12]: Indeed, John Livingstone estimated in 1819 that “only one in a thousand plants survived the journey.” Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
+[^ref13]: Indeed, John Livingstone estimated in 1819 that “only one in a thousand plants survived the journey.” Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
 
 [^ref13]: Lindsay Wells. "Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor." _Victorian Studies_ 60, no. 2 (2018): 158-70. Accessed January 11, 2021. http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02.
 
@@ -210,11 +206,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODczMDA0NzEsLTIwOTM5NjExNTYsLT
-cyODU2NDkwMSwxNDEyOTA5MTMwLDQ0ODc4MDQ5NywtNDkzMjA3
-MjM4LDQ4NzA0MzIyNCwxNzc2OTAxNjcyLDE0NjMwNjU0MzQsMj
-M4NTQwMjAsODU2Nzk3Mjk5LC0xNTc5Nzk2OTgxLC0xMzYwMTMx
-MTgyLC0xOTE3NDcwOTIwLDEzMTk4NTk0MSwtMTA0NzIwNzI1NC
-wtMjExNTk5NDUyNyw3MTQ1MzU4OTEsMTU0MDY2Nzc0MSwyNjgx
-OTcxMjBdfQ==
+eyJoaXN0b3J5IjpbMTgwOTY1MTAwNiwtMTQ4NzMwMDQ3MSwtMj
+A5Mzk2MTE1NiwtNzI4NTY0OTAxLDE0MTI5MDkxMzAsNDQ4Nzgw
+NDk3LC00OTMyMDcyMzgsNDg3MDQzMjI0LDE3NzY5MDE2NzIsMT
+Q2MzA2NTQzNCwyMzg1NDAyMCw4NTY3OTcyOTksLTE1Nzk3OTY5
+ODEsLTEzNjAxMzExODIsLTE5MTc0NzA5MjAsMTMxOTg1OTQxLC
+0xMDQ3MjA3MjU0LC0yMTE1OTk0NTI3LDcxNDUzNTg5MSwxNTQw
+NjY3NzQxXX0=
 -->
