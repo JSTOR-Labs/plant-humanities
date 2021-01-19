@@ -21,7 +21,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 However, you might be surprised to learn that the scarlet “geranium” with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one called _Pelargonium_ and was probably a bedding pelargonium derived from _P. inquinans_.[^ref4] This misidentification is typical because the two genera have been embroiled in a long history of taxonomic confusion dating back to the early 1600s. As the debate over how to classify pelargoniums roiled in botanical circles of the eighteenth and nineteenth centuries, new horticultural technologies and breeding techniques led to an increase in the plant’s variety, accessibility, and fashionability. By the mid-1800s, the public had grown accustomed to using the common name “geranium” for the plant, and for the most part, we continue to do so today.
 <param ve-image fit="contain" primary url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n118_w1253" title="Charles Dickens grew 'Miss Pollock' pelargoniums in pots at Gad's Hill Place, _Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n120_w927" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
-<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Scarlet_geranium.jpg/1024px-Scarlet_geranium.jpg" title="Victorian-era bedding pelargoniums with red flowers and zonal-pattern leaves are believed to have been derived from _Pelargonium inquinans_ and _Pelargonium zonale_, _Pelargonium inquinans_,2017, ViGA, Wikimedia Commons, CC BY-SA 4.0">
+<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Scarlet_geranium.jpg/1024px-Scarlet_geranium.jpg" title="Victorian-era bedding pelargoniums with red flowers and zone-marked leaves are believed to have been derived from _Pelargonium inquinans_ and _Pelargonium zonale_, _Pelargonium inquinans_,2017, ViGA, Wikimedia Commons, CC BY-SA 4.0">
 
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to its uses in England, France, and Algeria during the long nineteenth century reveals how European breeders transformed the once-rarified exotic into a commercial ornamental plant and a profitable aromatic crop. Indeed, Dicken’s favored scarlet “geranium” was a marvel of the Victorian age with traits having been adapted to European aesthetic and olfactory sensibilities that bore little resemblance to its South African progenitors, making it a beloved garden flower of the masses today.
 <param ve-image primary fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="A dazzling display of pelargoniums in flower beds and decorative pots, Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
@@ -213,11 +213,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3MDQzMjI0LDE3NzY5MDE2NzIsMTQ2Mz
-A2NTQzNCwyMzg1NDAyMCw4NTY3OTcyOTksLTE1Nzk3OTY5ODEs
-LTEzNjAxMzExODIsLTE5MTc0NzA5MjAsMTMxOTg1OTQxLC0xMD
-Q3MjA3MjU0LC0yMTE1OTk0NTI3LDcxNDUzNTg5MSwxNTQwNjY3
-NzQxLDI2ODE5NzEyMCwtNDA1MDY2MjQ0LC0xMDczNTE2ODY2LD
-YwMzg3MjQwMCwtMTQ2NjQxMzMxLC0xMzI5OTc0OTY0LC0xNjUy
-MTgxMTkxXX0=
+eyJoaXN0b3J5IjpbLTMxMjExNzQ0Miw0ODcwNDMyMjQsMTc3Nj
+kwMTY3MiwxNDYzMDY1NDM0LDIzODU0MDIwLDg1Njc5NzI5OSwt
+MTU3OTc5Njk4MSwtMTM2MDEzMTE4MiwtMTkxNzQ3MDkyMCwxMz
+E5ODU5NDEsLTEwNDcyMDcyNTQsLTIxMTU5OTQ1MjcsNzE0NTM1
+ODkxLDE1NDA2Njc3NDEsMjY4MTk3MTIwLC00MDUwNjYyNDQsLT
+EwNzM1MTY4NjYsNjAzODcyNDAwLC0xNDY2NDEzMzEsLTEzMjk5
+NzQ5NjRdfQ==
 -->
