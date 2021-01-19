@@ -85,13 +85,13 @@ In the wake of that initial nomenclature confusion, botanists of the seventeenth
 
 <param ve-entity eid="Q165044" title="greenhouse">
 <param ve-entity eid="Q3446485" title="Rubens Peale">
-The _Pelargonium_ is a perennial bush that naturally occurs in temperate and tropical climates. For that reason, the first plants to reach Europe were cultivated in heated greenhouses to protect them from cold and frost.[^ref12 By the early 1800s, wealthy plant collectors kept delicate pelargoniums and early hybrids as scientific specimens, exotic curiosities, status symbols, conversation pieces, and aesthetic objects. New technologies–both for fabricating iron and plate glass and for constructing buildings with these materials–fueled a fad among the elite for adding conservatories to their homes and the pelargonium was a fashionable plant for displaying therein.FN
+The _Pelargonium_ is a perennial bush that naturally occurs in temperate and tropical climates. For that reason, the first plants to reach Europe were cultivated in heated greenhouses to protect them from cold and frost.[^ref12] By the early 1800s, wealthy plant collectors kept delicate pelargoniums and early hybrids as scientific specimens, exotic curiosities, status symbols, conversation pieces, and aesthetic objects. New technologies–both for fabricating iron and plate glass and for constructing buildings with these materials–fueled a fad among the elite for adding conservatories to their homes and the pelargonium was a fashionable plant for displaying therein.[^ref13]
 <param ve-image primary url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
 <param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
 
 <param ve-entity eid="Q2779805" title="Wardian case">
 <param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
-Early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container for transporting live specimens during overseas voyages, leading to an unprecedented expansion of global plant trades.[^ref12] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotic plants and mixed-species gardens indoors in such ornamental glass furnishings.[^ref13] Commercial nurseries of the mid-nineteenth century capitalized on an increased demand for live plants, building sprawling complexes to breed hybrids and cultivars. In the case of the pelargonium, they created fancy ones (regals) for displaying in the home, and hardy ones (zonals) for growing in gardens. No longer a rarified foreign luxury, the modern pelargonium was a thoroughly Europeanized commodity with mass appeal.
+Early-1830s Britain saw the groundbreaking invention of the Wardian case, a sealed glass container for transporting live specimens during overseas voyages, leading to an unprecedented expansion of global plant trades.[^ref14] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotic plants and mixed-species gardens indoors in such ornamental glass furnishings.[^ref15] Commercial nurseries of the mid-nineteenth century capitalized on an increased demand for live plants, building sprawling complexes to breed hybrids and cultivars. In the case of the pelargonium, they created fancy ones (regals) for displaying in the home, and hardy ones (zonals) for growing in gardens. No longer a rarified foreign luxury, the modern pelargonium was a thoroughly Europeanized commodity with mass appeal.
 <param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DT2030.jpg" title="Seymour Joseph Guy, The Contest for the Bouquet: The Family of Robert Gordon in Their New York Dining-Room, 1866, oil on canvas, 62.5 x 74.9 cm, Purchase, Gift of William E. Dodge, by exchange, and Lila Acheson Wallace Gift, 1992, Metropolitan Museum of Art, public domain">
 <param ve-image fit="contain" url="https://ia800604.us.archive.org/BookReader/BookReaderImages.php?id=ongrowthplantsc00ward&itemPath=%2F0%2Fitems%2Fongrowthplantsc00ward&server=ia800604.us.archive.org&page=n52_w325" title="An 1852 illustration of the Wardian case by Nathaniel Bagshaw Ward, the physician and botanist for whom the case was named, _On the Growth of Plants in Closely Glazed Cases_">
 <param ve-image title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
@@ -185,13 +185,15 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref11]: The interactive timeline references the following sources: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753; Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.; Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.
 
-[^ref12]: Keogh, Luke. _The Wardian Case: How a Simple Box Moved Plants and Saved the World_. University of Chicago Press, 2020.
+[^ref12]: X
 
-[^ref13]: Indeed, John Livingstone estimated in 1819 that “only one in a thousand plants survived the journey.” Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
+[^ref13]:
 
-[^ref13]: Lindsay Wells. "Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor." _Victorian Studies_ 60, no. 2 (2018): 158-70. Accessed January 11, 2021. http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02.
+[^ref14]: Keogh, Luke. _The Wardian Case: How a Simple Box Moved Plants and Saved the World_. University of Chicago Press, 2020.
 
-[^ref14]: Hibberd, Shirley. “Lecture on the Pelargonium.” _The Journal of Horticulture_, 1880, pp. 14, 74-75.
+[^ref15]: Indeed, John Livingstone estimated in 1819 that “only one in a thousand plants survived the journey.” Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12. Lindsay Wells. "Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor." _Victorian Studies_ 60, no. 2 (2018): 158-70. Accessed January 11, 2021. http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02.
+
+[^ref16]: Hibberd, Shirley. “Lecture on the Pelargonium.” _The Journal of Horticulture_, 1880, pp. 14, 74-75.
 
 [^ref15]: Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875. [https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up](https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up)
 
@@ -207,11 +209,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzMwOTM1NSwtNjY2MzI5MzQ5LC0xNz
-c1NTg0MDkzLC0xOTgzMTM3MjM1LC0xNDg3MzAwNDcxLC0yMDkz
-OTYxMTU2LC03Mjg1NjQ5MDEsMTQxMjkwOTEzMCw0NDg3ODA0OT
-csLTQ5MzIwNzIzOCw0ODcwNDMyMjQsMTc3NjkwMTY3MiwxNDYz
-MDY1NDM0LDIzODU0MDIwLDg1Njc5NzI5OSwtMTU3OTc5Njk4MS
-wtMTM2MDEzMTE4MiwtMTkxNzQ3MDkyMCwxMzE5ODU5NDEsLTEw
-NDcyMDcyNTRdfQ==
+eyJoaXN0b3J5IjpbLTE5MTk5ODg4NTcsLTY2NjMyOTM0OSwtMT
+c3NTU4NDA5MywtMTk4MzEzNzIzNSwtMTQ4NzMwMDQ3MSwtMjA5
+Mzk2MTE1NiwtNzI4NTY0OTAxLDE0MTI5MDkxMzAsNDQ4NzgwND
+k3LC00OTMyMDcyMzgsNDg3MDQzMjI0LDE3NzY5MDE2NzIsMTQ2
+MzA2NTQzNCwyMzg1NDAyMCw4NTY3OTcyOTksLTE1Nzk3OTY5OD
+EsLTEzNjAxMzExODIsLTE5MTc0NzA5MjAsMTMxOTg1OTQxLC0x
+MDQ3MjA3MjU0XX0=
 -->
