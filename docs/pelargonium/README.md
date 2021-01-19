@@ -47,7 +47,6 @@ Other morphological traits, however, distinguish members of the genera _Pelargon
 <param ve-image layers url="https://free.iiifhosting.com/iiif/946417abf874969ccb7ed3e11de335c107f89d030c8a7d27fe55a2c9892bb2c1/info.json" title="Differences between Geranium and Pelargonium flowers, Verónica Matallana">
 <param ve-image url="https://free.iiifhosting.com/iiif/ba2f217efdf25d87a4fc0e79c0b096245ef26d4ebde668bd65af649d05b2deb1/info.json" title="“Géranium platypetalum” & “Pelargonium zonale Wild et hybrids,” _Atlas des plantes de jardins et d'appartements exotiques et européennes: 320 planches coloriées inédites, dessinées d'après nature, représentant 370 plantes, accompagnées d'un texte explicatif donnant la description, l'origine, le mode de culture, de multiplication et les usages des fleurs les plus généralement cultivées_, D. Bois, from Bibliothèque Nationale de France, département Sciences et techniques, 8-S-9126">
 
-
 ### Introduction to Europe and Nomenclature Confusion
 
 <param ve-entity eid="Q27394" title="Southern Africa">
@@ -57,7 +56,7 @@ Other morphological traits, however, distinguish members of the genera _Pelargon
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
-The _Pelargonium_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape Peninsula of present-day South Africa: a biodiversity hotspot. Given their concentration there, it is not surprising that Portuguese traders, who first introduced pelargoniums to Europe, harvested them from the Cape in the late fifteenth or early sixteenth centuries. They transported that fragile and precious cargo to Europe on their return from making colonial voyages.
+The _Pelargonium_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape Peninsula of present-day South Africa: a biodiversity hotspot. Given their concentration there, it is not surprising that Dutch traders, who first introduced pelargoniums to Europe in the early 1600s, harvested them from the Cape.
 <param ve-map center="-7.347, 72.454" zoom="2.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -214,11 +213,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzOTk4NDI1LDg1Njc5NzI5OSwtMTU3OT
-c5Njk4MSwtMTM2MDEzMTE4MiwtMTkxNzQ3MDkyMCwxMzE5ODU5
-NDEsLTEwNDcyMDcyNTQsLTIxMTU5OTQ1MjcsNzE0NTM1ODkxLD
-E1NDA2Njc3NDEsMjY4MTk3MTIwLC00MDUwNjYyNDQsLTEwNzM1
-MTY4NjYsNjAzODcyNDAwLC0xNDY2NDEzMzEsLTEzMjk5NzQ5Nj
-QsLTE2NTIxODExOTEsLTM3NTU2OTE4MSwxMDQxNjQzOTY4LC04
-MTA1NTc2NDldfQ==
+eyJoaXN0b3J5IjpbLTE5MDc2MTMzNDAsODU2Nzk3Mjk5LC0xNT
+c5Nzk2OTgxLC0xMzYwMTMxMTgyLC0xOTE3NDcwOTIwLDEzMTk4
+NTk0MSwtMTA0NzIwNzI1NCwtMjExNTk5NDUyNyw3MTQ1MzU4OT
+EsMTU0MDY2Nzc0MSwyNjgxOTcxMjAsLTQwNTA2NjI0NCwtMTA3
+MzUxNjg2Niw2MDM4NzI0MDAsLTE0NjY0MTMzMSwtMTMyOTk3ND
+k2NCwtMTY1MjE4MTE5MSwtMzc1NTY5MTgxLDEwNDE2NDM5Njgs
+LTgxMDU1NzY0OV19
 -->
