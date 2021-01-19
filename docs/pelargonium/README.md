@@ -23,7 +23,7 @@ However, you might be surprised to learn that the scarlet “geranium” with wh
 <param ve-image fit="contain" url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n120_w927" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Scarlet_geranium.jpg/1024px-Scarlet_geranium.jpg" title="Victorian-era bedding pelargoniums with red flowers and zonal-pattern leaves are believed to have been derived from _Pelargonium inquinans_ and _Pelargonium zonale_, _Pelargonium inquinans_,2017, ViGA, Wikimedia Commons, CC BY-SA 4.0">
 
-So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to its uses in England, France, and Algeria during the long nineteenth century reveals how European breeders transformed the once-rarified exotic into a commercial ornamental plant and a profitable aromatic crop. Indeed, Dicken’s favored scarlet “geranium” was a marvel of the Victorian age that bore little resemblance to its South African progenitors, with traits having been adapted to European aesthetic and olfactory sensibilities, making it a beloved garden flower of the masses today.
+So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to its uses in England, France, and Algeria during the long nineteenth century reveals how European breeders transformed the once-rarified exotic into a commercial ornamental plant and a profitable aromatic crop. Indeed, Dicken’s favored scarlet “geranium” was a marvel of the Victorian age with traits having been adapted to European aesthetic and olfactory sensibilities that bore little resemblance to its South African progenitors, making it a beloved garden flower of the masses today.
 <param ve-image primary fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="A dazzling display of pelargoniums in flower beds and decorative pots, Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
 <param ve-image fit="contain" url="Pelargoniums_RP-F-2013-85-14.jpg" title="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, glass, 90 x 120 mm, Rijksmuseum, public domain">
 <param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Pelargoniums bloom in garden vases, Bowood House, village of Derry Hill, England, alh1, 2015, Flickr, CC BY-NC-ND 2.0">
@@ -213,11 +213,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTA2MjM3ODIsMjM4NTQwMjAsODU2Nz
-k3Mjk5LC0xNTc5Nzk2OTgxLC0xMzYwMTMxMTgyLC0xOTE3NDcw
-OTIwLDEzMTk4NTk0MSwtMTA0NzIwNzI1NCwtMjExNTk5NDUyNy
-w3MTQ1MzU4OTEsMTU0MDY2Nzc0MSwyNjgxOTcxMjAsLTQwNTA2
-NjI0NCwtMTA3MzUxNjg2Niw2MDM4NzI0MDAsLTE0NjY0MTMzMS
-wtMTMyOTk3NDk2NCwtMTY1MjE4MTE5MSwtMzc1NTY5MTgxLDEw
-NDE2NDM5NjhdfQ==
+eyJoaXN0b3J5IjpbMTQ2MzA2NTQzNCwyMzg1NDAyMCw4NTY3OT
+cyOTksLTE1Nzk3OTY5ODEsLTEzNjAxMzExODIsLTE5MTc0NzA5
+MjAsMTMxOTg1OTQxLC0xMDQ3MjA3MjU0LC0yMTE1OTk0NTI3LD
+cxNDUzNTg5MSwxNTQwNjY3NzQxLDI2ODE5NzEyMCwtNDA1MDY2
+MjQ0LC0xMDczNTE2ODY2LDYwMzg3MjQwMCwtMTQ2NjQxMzMxLC
+0xMzI5OTc0OTY0LC0xNjUyMTgxMTkxLC0zNzU1NjkxODEsMTA0
+MTY0Mzk2OF19
 -->
