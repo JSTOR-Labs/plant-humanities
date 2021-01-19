@@ -232,14 +232,14 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref30]: CIT
 
-[^ref31]: CIT
+[^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA0MTc5NzQsMTM0MzY3NTQ1NSwxNz
-YxMTkxNzk5LC04MTYyMTg2OTgsNDM0MDM5MDY3LC0yODA4Njcz
-MjIsLTE0MjgzODEyNTAsLTE1NDYwMzAzMDcsLTE3ODYyOTIxMT
-AsLTc1NDAyOTUwNSwtMTQzNDYwOTg2OSwxNDI1NDQ0NjExLC02
-NjYzMjkzNDksLTE3NzU1ODQwOTMsLTE5ODMxMzcyMzUsLTE0OD
-czMDA0NzEsLTIwOTM5NjExNTYsLTcyODU2NDkwMSwxNDEyOTA5
-MTMwLDQ0ODc4MDQ5N119
+eyJoaXN0b3J5IjpbMjUyNDM4ODc5LDEzNDM2NzU0NTUsMTc2MT
+E5MTc5OSwtODE2MjE4Njk4LDQzNDAzOTA2NywtMjgwODY3MzIy
+LC0xNDI4MzgxMjUwLC0xNTQ2MDMwMzA3LC0xNzg2MjkyMTEwLC
+03NTQwMjk1MDUsLTE0MzQ2MDk4NjksMTQyNTQ0NDYxMSwtNjY2
+MzI5MzQ5LC0xNzc1NTg0MDkzLC0xOTgzMTM3MjM1LC0xNDg3Mz
+AwNDcxLC0yMDkzOTYxMTU2LC03Mjg1NjQ5MDEsMTQxMjkwOTEz
+MCw0NDg3ODA0OTddfQ==
 -->
