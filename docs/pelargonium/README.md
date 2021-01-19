@@ -128,8 +128,8 @@ By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly 
 The ubiquity of the _Pelargonium_ in the Victorian era soon began to carry a cultural significance all its own – and it was not always a positive one. In 1864’s _[The Book of Flowers](https://www.biodiversitylibrary.org/page/56679001)_, Caroline Kirkland follows the poet Leigh Hunt in describing the _Geranium_ (of course, really a _Pelargonium_) as a _genteel_ plant.[^ref21] She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel.”[^ref22] Although we may construe her comment as nothing more than an attestation to the _Pelargonium’s_ universal charms, her use of the word “genteel” takes on additional meaning when we consider the significance of the _Pelargonium_ in the context of working-class culture.
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Victorian_language_of_flowers_.jpg" title="The broad range of varieties and scents of _Pelargonium_ (under the name _Geranium_, of course) made it a favourite in the Victorian “language of flowers.” This concealed language allowed members of upper-class society to use specific flowers as a sort of code to pass on secret, often romantic, messages that they were forbidden from speaking aloud. Here, we can see that the scarlet Geranium (_P. inquinans_) means “comfort.” Excerpt from L. Burke’s _The Miniature Language of Flowers_, Biodiversity Heritage Library">
 
-<param ve-entity eid="Q262" title="Algeria">
-For many lower-class Victorian families who did not have gardens, growing _Pelargoniums_ in pots and displaying them in windows or balconies became a way to try and project a sense of belonging to higher classes to which they aspired. In other words, as the century wore on, the iconic flower became a visual marker for the lower classes’ (often awkward) attempts to convey a social standing superior to their own. Naturally, such attempts rarely landed in the way they were intended, and before long, horticulturalists began to look down on the _Pelargonium_ with a certain derision.  Gertrude Jekyll writes in 1919 that, “It is a common thing for friends to express surprise at seeing scarlet Geraniums...in my garden, forgetting that it was not the fault of the plants that they were misused or employed in dull or even stupid ways.”[^ref23] His comments reveal that it was not the plants themselves that were particularly offensive to garden specialists; rather, it was the way they had been used by certain cack-handed individuals, presumably the lower classes, that made them such a subject of scorn in horticultural circles.
+<param ve-entity eid="Q452354" title="Gertrude Jekyll">
+For many lower-class Victorian families who did not have gardens, growing _Pelargoniums_ in pots and displaying them in windows or balconies became a way to try and project a sense of belonging to higher classes to which they aspired. In other words, as the century wore on, the iconic flower became a visual marker for the lower classes’ (often awkward) attempts to convey a social standing superior to their own. Naturally, such attempts rarely landed in the way they were intended, and before long, horticulturalists began to look down on the _Pelargonium_ with a certain derision. Gertrude Jekyll writes in 1919 that, “It is a common thing for friends to express surprise at seeing scarlet Geraniums...in my garden, forgetting that it was not the fault of the plants that they were misused or employed in dull or even stupid ways.”[^ref23] His comments reveal that it was not the plants themselves that were particularly offensive to garden specialists; rather, it was the way they had been used by certain cack-handed individuals, presumably the lower classes, that made them such a subject of scorn in horticultural circles.
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Jenny_geranium.png" title="Frontispiece, _Jenny’s Geranium, or, The Prize Flower of a London Court_, S.W. Partridge & Co, c. 1869. Children’s Book Collection. Library Special Collections, Charles E. Young Research Library, UCLA.]">
 
 <param ve-entity eid="Q262" title="Algeria">
@@ -224,11 +224,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg3NjcwMzcsNDM0MDM5MDY3LC0yOD
-A4NjczMjIsLTE0MjgzODEyNTAsLTE1NDYwMzAzMDcsLTE3ODYy
-OTIxMTAsLTc1NDAyOTUwNSwtMTQzNDYwOTg2OSwxNDI1NDQ0Nj
-ExLC02NjYzMjkzNDksLTE3NzU1ODQwOTMsLTE5ODMxMzcyMzUs
-LTE0ODczMDA0NzEsLTIwOTM5NjExNTYsLTcyODU2NDkwMSwxND
-EyOTA5MTMwLDQ0ODc4MDQ5NywtNDkzMjA3MjM4LDQ4NzA0MzIy
-NCwxNzc2OTAxNjcyXX0=
+eyJoaXN0b3J5IjpbMTE5NjgzMzA3Miw0MzQwMzkwNjcsLTI4MD
+g2NzMyMiwtMTQyODM4MTI1MCwtMTU0NjAzMDMwNywtMTc4NjI5
+MjExMCwtNzU0MDI5NTA1LC0xNDM0NjA5ODY5LDE0MjU0NDQ2MT
+EsLTY2NjMyOTM0OSwtMTc3NTU4NDA5MywtMTk4MzEzNzIzNSwt
+MTQ4NzMwMDQ3MSwtMjA5Mzk2MTE1NiwtNzI4NTY0OTAxLDE0MT
+I5MDkxMzAsNDQ4NzgwNDk3LC00OTMyMDcyMzgsNDg3MDQzMjI0
+LDE3NzY5MDE2NzJdfQ==
 -->
