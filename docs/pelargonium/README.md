@@ -81,11 +81,11 @@ The nomenclature confusion surrounding pelargoniums started with the introductio
 In the wake of that initial nomenclature confusion, botanists of the seventeenth century struggled to disentangle the genera _Pelargonium_ and _Geranium_. For a more in-depth discussion of the nomenclature history of _Pelargonium_ see the interactive timeline, at right, which provides insights about why there is still confusion surrounding the name and taxonomic designation of pelargoniums.[^ref11]
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
-### New Technologies and the Making of the Modern Pelargonium
+### Technology, Breeding, and the Modern Pelargonium
 
-<param ve-entity eid="Q3446485" title="Rubens Peale">
 <param ve-entity eid="Q165044" title="greenhouse">
-The _Pelargonium_ is a perennial bush that naturally occurs in temperate and tropical climates. The earliest plants to reach Europe were cultivated in heated greenhouses to protect them from cold and frost.FN Wealthy plant collectors kept these delicate pelargoniums as scientific specimens, as was the case for Rubens Peale’s _Pelargonium inquinans_ depicted in this painting, and as exotic curiosities, status symbols, conversation pieces, and aesthetic objects. In the early 1800s, new technologies–both for fabricating iron and plate glass, and for constructing buildings with these materials–fueled a fad among the wealthy for purchasing domestic conservatories and pelargonium to grow, arrange, and display therein.FN
+<param ve-entity eid="Q3446485" title="Rubens Peale">
+The _Pelargonium_ is a perennial bush that naturally occurs in temperate and tropical climates. For that reason, the first plants to reach Europe were cultivated in heated greenhouses to protect them from cold and frost.[^ref12 By the early 1800s, wealthy plant collectors kept delicate pelargoniums and early hybrids as scientific specimens, exotic curiosities, status symbols, conversation pieces, and aesthetic objects. New technologies–both for fabricating iron and plate glass and for constructing buildings with these materials–fueled a fad among the elite for adding conservatories to their homes and the pelargonium was a fashionable plant for displaying therein.FN
 <param ve-image primary url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
 <param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
 
@@ -207,11 +207,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjMyOTM0OSwtMTc3NTU4NDA5MywtMT
-k4MzEzNzIzNSwtMTQ4NzMwMDQ3MSwtMjA5Mzk2MTE1NiwtNzI4
-NTY0OTAxLDE0MTI5MDkxMzAsNDQ4NzgwNDk3LC00OTMyMDcyMz
-gsNDg3MDQzMjI0LDE3NzY5MDE2NzIsMTQ2MzA2NTQzNCwyMzg1
-NDAyMCw4NTY3OTcyOTksLTE1Nzk3OTY5ODEsLTEzNjAxMzExOD
-IsLTE5MTc0NzA5MjAsMTMxOTg1OTQxLC0xMDQ3MjA3MjU0LC0y
-MTE1OTk0NTI3XX0=
+eyJoaXN0b3J5IjpbLTc2MzMwOTM1NSwtNjY2MzI5MzQ5LC0xNz
+c1NTg0MDkzLC0xOTgzMTM3MjM1LC0xNDg3MzAwNDcxLC0yMDkz
+OTYxMTU2LC03Mjg1NjQ5MDEsMTQxMjkwOTEzMCw0NDg3ODA0OT
+csLTQ5MzIwNzIzOCw0ODcwNDMyMjQsMTc3NjkwMTY3MiwxNDYz
+MDY1NDM0LDIzODU0MDIwLDg1Njc5NzI5OSwtMTU3OTc5Njk4MS
+wtMTM2MDEzMTE4MiwtMTkxNzQ3MDkyMCwxMzE5ODU5NDEsLTEw
+NDcyMDcyNTRdfQ==
 -->
