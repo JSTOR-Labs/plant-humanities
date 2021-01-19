@@ -212,15 +212,15 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref23]: Horwood, Catherine. _Potted History: The Story of Plants in the Home_. Quarto Group Inc, 2007.
 
-[^ref24]: "genteel, adj. and n." OED Online. Oxford University Press, June 2020. Web. 1 August 2020.
+[^ref24]: “genteel, adj. and n.” OED Online. Oxford University Press, June 2020. Web. 1 August 2020.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyMzAzMzgzLC0yODA4NjczMjIsLTE0Mj
-gzODEyNTAsLTE1NDYwMzAzMDcsLTE3ODYyOTIxMTAsLTc1NDAy
-OTUwNSwtMTQzNDYwOTg2OSwxNDI1NDQ0NjExLC02NjYzMjkzND
-ksLTE3NzU1ODQwOTMsLTE5ODMxMzcyMzUsLTE0ODczMDA0NzEs
-LTIwOTM5NjExNTYsLTcyODU2NDkwMSwxNDEyOTA5MTMwLDQ0OD
-c4MDQ5NywtNDkzMjA3MjM4LDQ4NzA0MzIyNCwxNzc2OTAxNjcy
-LDE0NjMwNjU0MzRdfQ==
+eyJoaXN0b3J5IjpbLTI3NDU1ODQ1MCwtMjgwODY3MzIyLC0xND
+I4MzgxMjUwLC0xNTQ2MDMwMzA3LC0xNzg2MjkyMTEwLC03NTQw
+Mjk1MDUsLTE0MzQ2MDk4NjksMTQyNTQ0NDYxMSwtNjY2MzI5Mz
+Q5LC0xNzc1NTg0MDkzLC0xOTgzMTM3MjM1LC0xNDg3MzAwNDcx
+LC0yMDkzOTYxMTU2LC03Mjg1NjQ5MDEsMTQxMjkwOTEzMCw0ND
+g3ODA0OTcsLTQ5MzIwNzIzOCw0ODcwNDMyMjQsMTc3NjkwMTY3
+MiwxNDYzMDY1NDM0XX0=
 -->
