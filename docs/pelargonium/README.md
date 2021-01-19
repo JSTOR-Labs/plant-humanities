@@ -144,8 +144,8 @@ As a result, the _Pelargonium_ at the turn of the century became a symbol for th
 <param ve-entity eid="Q90" title="Paris">
 <param ve-entity eid="Q79" title="Egypt">
 <![endif]--> The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, specifically in Paris. As part of a massive project to urbanize Paris, overseen by Emperor Napoleon III and Baron Haussmann, architects designed new parks, gardens, squares, and promenades and oversaw the revitalization of existing green spaces with fresh plantings.[^ref26] In his book _[Les Promenades de Paris](http://id.lib.harvard.edu/aleph/001173612/catalog)_, Adolphe Alphand inventories the myriad plants, shrubs, and trees selected by him and others to beautify the city.[^ref27] Needless to say, they chose many different types of showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for mass-producing them. Although Alphand’s book primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref28] The French-bred pelargoniums, which retained some of their exotic associations with Southern Africa, served as live manifestations of the global reach of the French Empire and its colonial agenda especially because the plants were then propagated in French Algiers to produce fragrant oils.
-<param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="45" title="P. Lambotte, designer, L. Stroobant, printer, _Pelargonium Zonale Inquinans_ [Varieties, 'Gloire de Corbeny,' 'Mistress Pollock,' 'Henri Lierval,' Adolphe Alphand, _Les Promenades de Paris_, Paris, J. Rothschild, 1867-1873, Frances Loeb Library, Harvard University Graduate School of Design">
-<param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25" title="Le Bois de Boulogne, Fleuriste de la Muette, Adolphe Alphand, _Les Promenades de Paris_, Paris, J. Rothschild, 1867-1873, Frances Loeb Library, Harvard University Graduate School of Design">
+<param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="45" title="P. Lambotte, designer, L. Stroobant, printer, _Pelargonium Zonale Inquinans_ ['Gloire de Corbeny,' 'Mistress Pollock,' 'Henri Lierval,'] Adolphe Alphand, _Les Promenades de Paris_, Paris, J. Rothschild, 1867-1873, Frances Loeb Library, Harvard University Graduate School of Design">
+<param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25" title="_Le Bois de Boulogne, Fleuriste de la Muette_, Adolphe Alphand, _Les Promenades de Paris_, Paris, J. Rothschild, 1867-1873, Frances Loeb Library, Harvard University Graduate School of Design">
 
 <param ve-entity eid="Q262" title="Algeria">
 <param ve-entity eid="Q173705" title="Grasse">
@@ -236,11 +236,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTExOTQxOCwyNTI0Mzg4NzksMTM0Mz
-Y3NTQ1NSwxNzYxMTkxNzk5LC04MTYyMTg2OTgsNDM0MDM5MDY3
-LC0yODA4NjczMjIsLTE0MjgzODEyNTAsLTE1NDYwMzAzMDcsLT
-E3ODYyOTIxMTAsLTc1NDAyOTUwNSwtMTQzNDYwOTg2OSwxNDI1
-NDQ0NjExLC02NjYzMjkzNDksLTE3NzU1ODQwOTMsLTE5ODMxMz
-cyMzUsLTE0ODczMDA0NzEsLTIwOTM5NjExNTYsLTcyODU2NDkw
-MSwxNDEyOTA5MTMwXX0=
+eyJoaXN0b3J5IjpbLTExNzQ0NDcwODMsMjUyNDM4ODc5LDEzND
+M2NzU0NTUsMTc2MTE5MTc5OSwtODE2MjE4Njk4LDQzNDAzOTA2
+NywtMjgwODY3MzIyLC0xNDI4MzgxMjUwLC0xNTQ2MDMwMzA3LC
+0xNzg2MjkyMTEwLC03NTQwMjk1MDUsLTE0MzQ2MDk4NjksMTQy
+NTQ0NDYxMSwtNjY2MzI5MzQ5LC0xNzc1NTg0MDkzLC0xOTgzMT
+M3MjM1LC0xNDg3MzAwNDcxLC0yMDkzOTYxMTU2LC03Mjg1NjQ5
+MDEsMTQxMjkwOTEzMF19
 -->
