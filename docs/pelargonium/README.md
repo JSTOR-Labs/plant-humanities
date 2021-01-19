@@ -78,7 +78,6 @@ The nomenclature confusion surrounding pelargoniums started with the introductio
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], Jacques-Philippe Cornut, _Canadensium Plantarum_, Paris, Venundantur apud Simonem Le Moyne, 1635, Biblioteca Digital" caption="Cornut uses a naturalistic style to describe the plant’s feathery leaves, storksbill fruit capsules, five-petal flowers, and tuberous roots. Because the print lacks color, it is difficult to grasp why the sad pelargonium was named thusly for the dull hue of its foliage or flowers.">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_ has not been widely hybridized and cultural interest in the plant is limited mainly to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 
-<param ve-entity eid="Q1043" title="Carl Linnaeus">
 In the wake of that initial nomenclature confusion, botanists of the seventeenth century struggled to disentangle the genera _Pelargonium_ and _Geranium_. For a more in-depth discussion of the nomenclature history of _Pelargonium_ see the interactive timeline, at right, which provides insights about why there is still confusion surrounding the name and taxonomic designation of pelargoniums.[^ref11]
 <param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
 
@@ -206,7 +205,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzcxMjA0MzcsLTE0ODczMDA0NzEsLT
+eyJoaXN0b3J5IjpbLTE5ODMxMzcyMzUsLTE0ODczMDA0NzEsLT
 IwOTM5NjExNTYsLTcyODU2NDkwMSwxNDEyOTA5MTMwLDQ0ODc4
 MDQ5NywtNDkzMjA3MjM4LDQ4NzA0MzIyNCwxNzc2OTAxNjcyLD
 E0NjMwNjU0MzQsMjM4NTQwMjAsODU2Nzk3Mjk5LC0xNTc5Nzk2
