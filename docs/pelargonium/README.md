@@ -145,7 +145,7 @@ As a result, the _Pelargonium_ at the turn of the century became a symbol for th
 <param ve-entity eid="Q79" title="Egypt">
 <![endif]--> The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, specifically in Paris. As part of a massive project to urbanize Paris, overseen by Emperor Napoleon III and Baron Haussmann, architects designed new parks, gardens, squares, and promenades and oversaw the revitalization of existing green spaces with fresh plantings.[^ref26] In his book _[Les Promenades de Paris](http://id.lib.harvard.edu/aleph/001173612/catalog)_, Adolphe Alphand inventories the myriad plants, shrubs, and trees selected by him and others to beautify the city.[^ref27] Needless to say, they chose many different types of showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for mass-producing them. Although Alphand’s book primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref28] The French-bred pelargoniums, which retained some of their exotic associations with Southern Africa, served as live manifestations of the global reach of the French Empire and its colonial agenda especially because the plants were then propagated in French Algiers to produce fragrant oils.
 <param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="45">
-<param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="45">
+<param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25">
 
 <param ve-entity eid="Q262" title="Algeria">
 <param ve-entity eid="Q173705" title="Grasse">
@@ -236,11 +236,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3Njg5MDQ5LDI1MjQzODg3OSwxMzQzNj
-c1NDU1LDE3NjExOTE3OTksLTgxNjIxODY5OCw0MzQwMzkwNjcs
-LTI4MDg2NzMyMiwtMTQyODM4MTI1MCwtMTU0NjAzMDMwNywtMT
-c4NjI5MjExMCwtNzU0MDI5NTA1LC0xNDM0NjA5ODY5LDE0MjU0
-NDQ2MTEsLTY2NjMyOTM0OSwtMTc3NTU4NDA5MywtMTk4MzEzNz
-IzNSwtMTQ4NzMwMDQ3MSwtMjA5Mzk2MTE1NiwtNzI4NTY0OTAx
-LDE0MTI5MDkxMzBdfQ==
+eyJoaXN0b3J5IjpbLTY5NzA3NTg4MSwyNTI0Mzg4NzksMTM0Mz
+Y3NTQ1NSwxNzYxMTkxNzk5LC04MTYyMTg2OTgsNDM0MDM5MDY3
+LC0yODA4NjczMjIsLTE0MjgzODEyNTAsLTE1NDYwMzAzMDcsLT
+E3ODYyOTIxMTAsLTc1NDAyOTUwNSwtMTQzNDYwOTg2OSwxNDI1
+NDQ0NjExLC02NjYzMjkzNDksLTE3NzU1ODQwOTMsLTE5ODMxMz
+cyMzUsLTE0ODczMDA0NzEsLTIwOTM5NjExNTYsLTcyODU2NDkw
+MSwxNDEyOTA5MTMwXX0=
 -->
