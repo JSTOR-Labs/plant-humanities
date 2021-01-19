@@ -107,7 +107,7 @@ It was against this backdrop that bedding or zonal pelargoniums, known in hortic
 <param ve-image primary fit="contain" url="Pelargonium_Bewood_BHL.jpg" title="Upper and lower terrace gardens of Bewood, scarlet pelargonium planted in stone vases and beds in _The gardens of England_, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="Pelargonium_AltonGardens_BHL.jpg" title="Colonnade of Alton Gardens, scarlet pelargonium planted in stone vases, in _The gardens of England_, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="Pelargonium_ParterreHarewood_BHL.jpg" title="Parterre of Harewood, scarlet pelargonium planted in stone vases and parterres, in _The gardens of England_ Biodiversity Heritage Library">
-<param ve-image fit="contain" url="https://ia801904.us.archive.org/BookReader/BookReaderImages.php?id=gardensEngland00Broo&itemPath=%2F12%2Fitems%2FgardensEngland00Broo&server=ia801904.us.archive.org&page=n8_w617" title="X">
+<param ve-image fit="contain" url="https://ia801904.us.archive.org/BookReader/BookReaderImages.php?id=gardensEngland00Broo&itemPath=%2F12%2Fitems%2FgardensEngland00Broo&server=ia801904.us.archive.org&page=n8_w617" title="Title page, Edward Adveno Brooke, _The Gardens of England_, London: T. McLean, [1858?],Smithsonian Libraries, Biodiversity Heritage Library">
 
 The pelargonium was a favored plant of municipal gardeners because the hardy evergreen showed off its blooms for extended periods, flowering even in slightly chillier climates. More significantly, nursery owners adored the plant because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. Indeed, vendors were falling over one another to market the newest, most magnificent, and sweetest-smelling pelargoniums to meet the demand for the choicest blooms. Other factors contributing to the mania for the pelargonium were the arrival of mass-produced pots and planters for displaying ornamentals and, at least initially, excitement surrounding the exotic connotations of plant due to its Southern African provenance. Desire to obtain novel cultivars became so frenzied that some compared it to the infamous tulip-buying spree, known as “tulipomania,” that occurred in Holland in the 1630s.[^ref14]
 <param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:435776315" seq="21">
@@ -214,11 +214,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzYzNjMzODgsLTI4MDg2NzMyMiwtMT
-QyODM4MTI1MCwtMTU0NjAzMDMwNywtMTc4NjI5MjExMCwtNzU0
-MDI5NTA1LC0xNDM0NjA5ODY5LDE0MjU0NDQ2MTEsLTY2NjMyOT
-M0OSwtMTc3NTU4NDA5MywtMTk4MzEzNzIzNSwtMTQ4NzMwMDQ3
-MSwtMjA5Mzk2MTE1NiwtNzI4NTY0OTAxLDE0MTI5MDkxMzAsND
-Q4NzgwNDk3LC00OTMyMDcyMzgsNDg3MDQzMjI0LDE3NzY5MDE2
-NzIsMTQ2MzA2NTQzNF19
+eyJoaXN0b3J5IjpbMTM3NTM4MzY2MiwtMjgwODY3MzIyLC0xND
+I4MzgxMjUwLC0xNTQ2MDMwMzA3LC0xNzg2MjkyMTEwLC03NTQw
+Mjk1MDUsLTE0MzQ2MDk4NjksMTQyNTQ0NDYxMSwtNjY2MzI5Mz
+Q5LC0xNzc1NTg0MDkzLC0xOTgzMTM3MjM1LC0xNDg3MzAwNDcx
+LC0yMDkzOTYxMTU2LC03Mjg1NjQ5MDEsMTQxMjkwOTEzMCw0ND
+g3ODA0OTcsLTQ5MzIwNzIzOCw0ODcwNDMyMjQsMTc3NjkwMTY3
+MiwxNDYzMDY1NDM0XX0=
 -->
