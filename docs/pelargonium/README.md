@@ -143,7 +143,7 @@ As a result, the _Pelargonium_ at the turn of the century became a symbol for th
 <param ve-entity eid="Q390367" title="Adolphe Alphand">
 <param ve-entity eid="Q90" title="Paris">
 <param ve-entity eid="Q79" title="Egypt">
-The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, specifically in Paris. As part of a massive project to urbanize Paris, overseen by Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, architects designed new parks, gardens, squares, and promenades and oversaw the revitalization of existing green spaces with fresh plantings.[^ref26] In his book _Les Promenades de Paris_, Adolphe Alphand inventories the myriad "trees, shrubs and plants" selected by him and others to beautify the city.[^ref27] Needless to say, they chose many different types of showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for mass-producing them. Although Alphand’s book primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[REF] The French-bred pelargoniums, which retained some of their exotic associations with Southern Africa, served as live manifestations of the global reach of the French Empire and its colonial agenda especially because the plants were then propagated in French Algiers to produce fragrant oils.
+The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, specifically in Paris. As part of a massive project to urbanize Paris, overseen by Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, architects designed new parks, gardens, squares, and promenades and oversaw the revitalization of existing green spaces with fresh plantings.[^ref26] In his book _Les Promenades de Paris_, Adolphe Alphand inventories the myriad "trees, shrubs and plants" selected by him and others to beautify the city.[^ref27] Needless to say, they chose many different types of showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for mass-producing them. Although Alphand’s book primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French-bred pelargoniums, which retained some of their exotic associations with Southern Africa, served as live manifestations of the global reach of the French Empire and its colonial agenda especially because the plants were then propagated in French Algiers to produce fragrant oils.
 <param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="45">
 
 <param ve-entity eid="Q262" title="Algeria">
@@ -223,11 +223,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDM1NjA3MSw0MzQwMzkwNjcsLTI4MD
-g2NzMyMiwtMTQyODM4MTI1MCwtMTU0NjAzMDMwNywtMTc4NjI5
-MjExMCwtNzU0MDI5NTA1LC0xNDM0NjA5ODY5LDE0MjU0NDQ2MT
-EsLTY2NjMyOTM0OSwtMTc3NTU4NDA5MywtMTk4MzEzNzIzNSwt
-MTQ4NzMwMDQ3MSwtMjA5Mzk2MTE1NiwtNzI4NTY0OTAxLDE0MT
-I5MDkxMzAsNDQ4NzgwNDk3LC00OTMyMDcyMzgsNDg3MDQzMjI0
-LDE3NzY5MDE2NzJdfQ==
+eyJoaXN0b3J5IjpbLTIwNTQ3NTE2NjYsNDM0MDM5MDY3LC0yOD
+A4NjczMjIsLTE0MjgzODEyNTAsLTE1NDYwMzAzMDcsLTE3ODYy
+OTIxMTAsLTc1NDAyOTUwNSwtMTQzNDYwOTg2OSwxNDI1NDQ0Nj
+ExLC02NjYzMjkzNDksLTE3NzU1ODQwOTMsLTE5ODMxMzcyMzUs
+LTE0ODczMDA0NzEsLTIwOTM5NjExNTYsLTcyODU2NDkwMSwxND
+EyOTA5MTMwLDQ0ODc4MDQ5NywtNDkzMjA3MjM4LDQ4NzA0MzIy
+NCwxNzc2OTAxNjcyXX0=
 -->
