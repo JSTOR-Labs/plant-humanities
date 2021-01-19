@@ -183,9 +183,9 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref6]: Wilkinson, The Passion for Pelargoniums_, pp. 13-21; John Gerard, _The herball, or, Generall historie of plantes_, London: Printed by Adam Islip Joice Norton and Richard Whitakers,anno 1633. [https://www.biodiversitylibrary.org/page/51905442](https://www.biodiversitylibrary.org/page/51905442)
 
-[^ref6]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
+[^ref7]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 
-[^ref7]: Sherard, William. _Schola botanica sive catalogus plantarum, quas ab aliquot annis in Horto Regio Parisiensis Studiosis indigitavit vir clarissimvs Joseph Pitton Tournefort, D. M. ut et Pauli Hermanni P.P. Paradisi Batavi prodromus, In quo Planta rariores omnes, in Batavorum Hortis hactenus cultae, & plurinam partem à nemine antea descriptae recensentur_. Amstelaedami: Apud Henricum Wetstenium, 1689. [https://bibdigital.rjb.csic.es/idurl/1/13582](https://bibdigital.rjb.csic.es/idurl/1/13582); Taylor, Judith M. _Visions of Loveliness: Great Flower Breeders of the Past_. Athens, OH: Ohio University Press, 2014, pp. 366; Wilkinson, Anne. _The Passion for Pelargoniums_. Stroud: The History Press, 2007, pp. 21-22.
+[^ref8]: Sherard, William. _Schola botanica sive catalogus plantarum, quas ab aliquot annis in Horto Regio Parisiensis Studiosis indigitavit vir clarissimvs Joseph Pitton Tournefort, D. M. ut et Pauli Hermanni P.P. Paradisi Batavi prodromus, In quo Planta rariores omnes, in Batavorum Hortis hactenus cultae, & plurinam partem à nemine antea descriptae recensentur_. Amstelaedami: Apud Henricum Wetstenium, 1689. [https://bibdigital.rjb.csic.es/idurl/1/13582](https://bibdigital.rjb.csic.es/idurl/1/13582); Wilkinson, _The Passion for Pelargoniums_, pp. 21-22.
 
 [^ref8]: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.
 
@@ -215,11 +215,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDg2Nzg3MiwtNDkzMjA3MjM4LDQ4Nz
-A0MzIyNCwxNzc2OTAxNjcyLDE0NjMwNjU0MzQsMjM4NTQwMjAs
-ODU2Nzk3Mjk5LC0xNTc5Nzk2OTgxLC0xMzYwMTMxMTgyLC0xOT
-E3NDcwOTIwLDEzMTk4NTk0MSwtMTA0NzIwNzI1NCwtMjExNTk5
-NDUyNyw3MTQ1MzU4OTEsMTU0MDY2Nzc0MSwyNjgxOTcxMjAsLT
-QwNTA2NjI0NCwtMTA3MzUxNjg2Niw2MDM4NzI0MDAsLTE0NjY0
-MTMzMV19
+eyJoaXN0b3J5IjpbNDQ4NzgwNDk3LC00OTMyMDcyMzgsNDg3MD
+QzMjI0LDE3NzY5MDE2NzIsMTQ2MzA2NTQzNCwyMzg1NDAyMCw4
+NTY3OTcyOTksLTE1Nzk3OTY5ODEsLTEzNjAxMzExODIsLTE5MT
+c0NzA5MjAsMTMxOTg1OTQxLC0xMDQ3MjA3MjU0LC0yMTE1OTk0
+NTI3LDcxNDUzNTg5MSwxNTQwNjY3NzQxLDI2ODE5NzEyMCwtND
+A1MDY2MjQ0LC0xMDczNTE2ODY2LDYwMzg3MjQwMCwtMTQ2NjQx
+MzMxXX0=
 -->
