@@ -223,10 +223,10 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref26]: CIT
 
-[^ref27]: Alphand, A., & Hochereau, E. _Les promenades de Paris: Histoire--description des embellissements--dépenses de création et d'entretien des Bois de Boulogne et de Vincennes, Champs-Élysées--Parcs--squares--boulevards--places plantées, Étude sur l'art des jardins et arboretum_. Vol. 1 and 2, Paris: J. Rothschild, 1873),[https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551](https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551) [https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453](https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453)
+[^ref27]: A. Alphand and E. Hochereau,  _Les promenades de Paris: Histoire--description des embellissements--dépenses de création et d'entretien des Bois de Boulogne et de Vincennes, Champs-Élysées--Parcs--squares--boulevards--places plantées, Étude sur l'art des jardins et arboretum_, vol. 1 and 2, Paris: J. Rothschild, 1873),[https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551](https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551) [https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453](https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453)
 
 [^ref28]: “Parmi les plantes qui produisent le plus d'effet, en massif, et qui supportent le mieux la pleine terre en été, on doit citer les variétés de Pélargoniums […].” (Among the plants that produce the most effect, in clumps, and that best support the open ground in summer, we must mention the varieties of Pelargoniums.) Alphand, _Les Promenades de Paris_ p.64,
-[https://bibliotheque-numerique.inha.fr/viewer/17295/?offset=#page=142&viewer=picture&o=bookmark&n=0&q=](https://bibliotheque-numerique.inha.fr/viewer/17295/?offset=#page=142&viewer=picture&o=bookmark&n=0&q=); Willsdon, Clare A. P. _“‘Promenades et plantations’: Impressionism, Conservation and Haussmann’s Reinvention of Paris.”  In _Soil and Stone: Impressionism, Urbanism, Environment_, edited by Frances Fowle and Richard Thomson, Burlington, VT: Ashgate, 2003, 107–24.
+[https://bibliotheque-numerique.inha.fr/viewer/17295/?offset=#page=142&viewer=picture&o=bookmark&n=0&q=](https://bibliotheque-numerique.inha.fr/viewer/17295/?offset=#page=142&viewer=picture&o=bookmark&n=0&q=); Clare A. P. Willsdon, _“‘Promenades et plantations’: Impressionism, Conservation and Haussmann’s Reinvention of Paris.”  In _Soil and Stone: Impressionism, Urbanism, Environment_, edited by Frances Fowle and Richard Thomson, Burlington, VT: Ashgate, 2003, 107–24.
 
 [^ref29]: CIT
 
@@ -235,11 +235,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: CIT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzY3NTQ1NSwxNzYxMTkxNzk5LC04MT
-YyMTg2OTgsNDM0MDM5MDY3LC0yODA4NjczMjIsLTE0MjgzODEy
-NTAsLTE1NDYwMzAzMDcsLTE3ODYyOTIxMTAsLTc1NDAyOTUwNS
-wtMTQzNDYwOTg2OSwxNDI1NDQ0NjExLC02NjYzMjkzNDksLTE3
-NzU1ODQwOTMsLTE5ODMxMzcyMzUsLTE0ODczMDA0NzEsLTIwOT
-M5NjExNTYsLTcyODU2NDkwMSwxNDEyOTA5MTMwLDQ0ODc4MDQ5
-NywtNDkzMjA3MjM4XX0=
+eyJoaXN0b3J5IjpbLTE1MzMwOTIwNjQsMTM0MzY3NTQ1NSwxNz
+YxMTkxNzk5LC04MTYyMTg2OTgsNDM0MDM5MDY3LC0yODA4Njcz
+MjIsLTE0MjgzODEyNTAsLTE1NDYwMzAzMDcsLTE3ODYyOTIxMT
+AsLTc1NDAyOTUwNSwtMTQzNDYwOTg2OSwxNDI1NDQ0NjExLC02
+NjYzMjkzNDksLTE3NzU1ODQwOTMsLTE5ODMxMzcyMzUsLTE0OD
+czMDA0NzEsLTIwOTM5NjExNTYsLTcyODU2NDkwMSwxNDEyOTA5
+MTMwLDQ0ODc4MDQ5N119
 -->
