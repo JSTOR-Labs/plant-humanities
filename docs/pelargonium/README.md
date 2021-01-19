@@ -83,7 +83,7 @@ In the wake of that initial nomenclature confusion, botanists of the seventeenth
 
 ### New Technologies and the Making of the Modern Pelargonium
 
-The _Pelargonium_ is a perennial bush that thrives in dry arid climates. The earliest plants introduced from Southern Africa to Europe were cultivated in heated greenhouses to protect them from cold and frost. From the late seventeenth to the early nineteenth centuries, these delicate pelargoniums were kept mainly as scientific specimens, exotic curiosities, status symbols, and conversation pieces. New technologies–both for fabricating iron and plate glass, and for building conservatories from these materials–were integral to popularizing the pelargonium in the early nineteenth century because they provided the upper classes with novel spaces for displaying them.
+The _Pelargonium_ is a perennial bush that thrives in dry arid climates. The earliest plants to reach Europe were cultivated in heated greenhouses to protect them from cold and frost. These delicate pelargoniums were kept as scientific specimens, as was the case for Rubens Peale’s _Pelargonium inquinans_, depicted in this painting, and as exotic curiosities, status symbols, conversation pieces, and aesthetic objects. In the early 1800s, new technologies–both for fabricating iron and plate glass, and for constructing buildings with these materials–fueled a fad among the wealthy for purchasing domestic conservatories and pelargonium to grow, arrange, and display therein.
 <param ve-image primary url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
 <param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
 
@@ -205,11 +205,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODMxMzcyMzUsLTE0ODczMDA0NzEsLT
-IwOTM5NjExNTYsLTcyODU2NDkwMSwxNDEyOTA5MTMwLDQ0ODc4
-MDQ5NywtNDkzMjA3MjM4LDQ4NzA0MzIyNCwxNzc2OTAxNjcyLD
-E0NjMwNjU0MzQsMjM4NTQwMjAsODU2Nzk3Mjk5LC0xNTc5Nzk2
-OTgxLC0xMzYwMTMxMTgyLC0xOTE3NDcwOTIwLDEzMTk4NTk0MS
-wtMTA0NzIwNzI1NCwtMjExNTk5NDUyNyw3MTQ1MzU4OTEsMTU0
-MDY2Nzc0MV19
+eyJoaXN0b3J5IjpbLTE3NzU1ODQwOTMsLTE5ODMxMzcyMzUsLT
+E0ODczMDA0NzEsLTIwOTM5NjExNTYsLTcyODU2NDkwMSwxNDEy
+OTA5MTMwLDQ0ODc4MDQ5NywtNDkzMjA3MjM4LDQ4NzA0MzIyNC
+wxNzc2OTAxNjcyLDE0NjMwNjU0MzQsMjM4NTQwMjAsODU2Nzk3
+Mjk5LC0xNTc5Nzk2OTgxLC0xMzYwMTMxMTgyLC0xOTE3NDcwOT
+IwLDEzMTk4NTk0MSwtMTA0NzIwNzI1NCwtMjExNTk5NDUyNyw3
+MTQ1MzU4OTFdfQ==
 -->
