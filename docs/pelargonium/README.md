@@ -187,11 +187,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref8]: Sherard, William. _Schola botanica sive catalogus plantarum, quas ab aliquot annis in Horto Regio Parisiensis Studiosis indigitavit vir clarissimvs Joseph Pitton Tournefort, D. M. ut et Pauli Hermanni P.P. Paradisi Batavi prodromus, In quo Planta rariores omnes, in Batavorum Hortis hactenus cultae, & plurinam partem à nemine antea descriptae recensentur_. Amstelaedami: Apud Henricum Wetstenium, 1689. [https://bibdigital.rjb.csic.es/idurl/1/13582](https://bibdigital.rjb.csic.es/idurl/1/13582); Wilkinson, _The Passion for Pelargoniums_, pp. 21-22.
 
-[^ref8]: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.
-
-[^ref9]: 
+[^ref9]: Wilkinson, _The Passion for Pelargoniums_, p. 18; see descriptions of the plant in John Gerard, _The herball, or, Generall historie of plantes_, London: Printed by Adam Islip Joice Norton and Richard Whitakers,anno 1633, p. 948, [https://www.biodiversitylibrary.org/page/51906330](https://www.biodiversitylibrary.org/page/51906330); John Parkinson, _Theatrum botanicum = the theater of plants: or, An herball of a large extent ..._, London: Printed by Tho. Cotes, 1640, p. 709, [https://www.biodiversitylibrary.org/page/56600608](https://www.biodiversitylibrary.org/page/56600608).
 
 [^ref10]: 
+
+[^ref8]: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753.
 
 [^ref9]: Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.
 
@@ -219,11 +219,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE0OTc1NzAsNDQ4NzgwNDk3LC00OT
-MyMDcyMzgsNDg3MDQzMjI0LDE3NzY5MDE2NzIsMTQ2MzA2NTQz
-NCwyMzg1NDAyMCw4NTY3OTcyOTksLTE1Nzk3OTY5ODEsLTEzNj
-AxMzExODIsLTE5MTc0NzA5MjAsMTMxOTg1OTQxLC0xMDQ3MjA3
-MjU0LC0yMTE1OTk0NTI3LDcxNDUzNTg5MSwxNTQwNjY3NzQxLD
-I2ODE5NzEyMCwtNDA1MDY2MjQ0LC0xMDczNTE2ODY2LDYwMzg3
-MjQwMF19
+eyJoaXN0b3J5IjpbODEzOTY3NzY2LDQ0ODc4MDQ5NywtNDkzMj
+A3MjM4LDQ4NzA0MzIyNCwxNzc2OTAxNjcyLDE0NjMwNjU0MzQs
+MjM4NTQwMjAsODU2Nzk3Mjk5LC0xNTc5Nzk2OTgxLC0xMzYwMT
+MxMTgyLC0xOTE3NDcwOTIwLDEzMTk4NTk0MSwtMTA0NzIwNzI1
+NCwtMjExNTk5NDUyNyw3MTQ1MzU4OTEsMTU0MDY2Nzc0MSwyNj
+gxOTcxMjAsLTQwNTA2NjI0NCwtMTA3MzUxNjg2Niw2MDM4NzI0
+MDBdfQ==
 -->
