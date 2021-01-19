@@ -221,7 +221,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref25]: “genteel, adj. and n.” OED Online. Oxford University Press, June 2020. Web. 1 August 2020.
 
-[^ref26]: CIT
+[^ref26]: Colta Ives, _Public Parks, Private Gardens: From Paris to Provence_, New York: Metropolitan Museum of Art, 2018.
 
 [^ref27]: A. Alphand and E. Hochereau,  _Les promenades de Paris: Histoire--description des embellissements--dépenses de création et d'entretien des Bois de Boulogne et de Vincennes, Champs-Élysées--Parcs--squares--boulevards--places plantées, Étude sur l'art des jardins et arboretum_, vol. 1 and 2, Paris: J. Rothschild, 1873),[https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551](https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551) [https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453](https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453)
 
@@ -235,11 +235,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: CIT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDIwNDI4MSwxMzQzNjc1NDU1LDE3Nj
-ExOTE3OTksLTgxNjIxODY5OCw0MzQwMzkwNjcsLTI4MDg2NzMy
-MiwtMTQyODM4MTI1MCwtMTU0NjAzMDMwNywtMTc4NjI5MjExMC
-wtNzU0MDI5NTA1LC0xNDM0NjA5ODY5LDE0MjU0NDQ2MTEsLTY2
-NjMyOTM0OSwtMTc3NTU4NDA5MywtMTk4MzEzNzIzNSwtMTQ4Nz
-MwMDQ3MSwtMjA5Mzk2MTE1NiwtNzI4NTY0OTAxLDE0MTI5MDkx
-MzAsNDQ4NzgwNDk3XX0=
+eyJoaXN0b3J5IjpbLTEzMzA0MTc5NzQsMTM0MzY3NTQ1NSwxNz
+YxMTkxNzk5LC04MTYyMTg2OTgsNDM0MDM5MDY3LC0yODA4Njcz
+MjIsLTE0MjgzODEyNTAsLTE1NDYwMzAzMDcsLTE3ODYyOTIxMT
+AsLTc1NDAyOTUwNSwtMTQzNDYwOTg2OSwxNDI1NDQ0NjExLC02
+NjYzMjkzNDksLTE3NzU1ODQwOTMsLTE5ODMxMzcyMzUsLTE0OD
+czMDA0NzEsLTIwOTM5NjExNTYsLTcyODU2NDkwMSwxNDEyOTA5
+MTMwLDQ0ODc4MDQ5N119
 -->
