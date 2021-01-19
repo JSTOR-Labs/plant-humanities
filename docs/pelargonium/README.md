@@ -185,7 +185,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref11]: The interactive timeline references the following sources: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753; Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.; Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.
 
-[^ref12]: X
+[^ref12]: Wilkinson, _The Passion for Pelargoniums_, p. 
 
 [^ref13]:
 
@@ -209,11 +209,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk5ODg4NTcsLTY2NjMyOTM0OSwtMT
-c3NTU4NDA5MywtMTk4MzEzNzIzNSwtMTQ4NzMwMDQ3MSwtMjA5
-Mzk2MTE1NiwtNzI4NTY0OTAxLDE0MTI5MDkxMzAsNDQ4NzgwND
-k3LC00OTMyMDcyMzgsNDg3MDQzMjI0LDE3NzY5MDE2NzIsMTQ2
-MzA2NTQzNCwyMzg1NDAyMCw4NTY3OTcyOTksLTE1Nzk3OTY5OD
-EsLTEzNjAxMzExODIsLTE5MTc0NzA5MjAsMTMxOTg1OTQxLC0x
-MDQ3MjA3MjU0XX0=
+eyJoaXN0b3J5IjpbMTY4NDA2NTAzNCwtNjY2MzI5MzQ5LC0xNz
+c1NTg0MDkzLC0xOTgzMTM3MjM1LC0xNDg3MzAwNDcxLC0yMDkz
+OTYxMTU2LC03Mjg1NjQ5MDEsMTQxMjkwOTEzMCw0NDg3ODA0OT
+csLTQ5MzIwNzIzOCw0ODcwNDMyMjQsMTc3NjkwMTY3MiwxNDYz
+MDY1NDM0LDIzODU0MDIwLDg1Njc5NzI5OSwtMTU3OTc5Njk4MS
+wtMTM2MDEzMTE4MiwtMTkxNzQ3MDkyMCwxMzE5ODU5NDEsLTEw
+NDcyMDcyNTRdfQ==
 -->
