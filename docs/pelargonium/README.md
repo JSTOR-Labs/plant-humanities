@@ -124,6 +124,7 @@ By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly 
 ### The “Genteel” Geranium and Working-class Culture
 
 <param ve-entity eid="Q655213" title="Leigh Hunt">
+<param ve-entity eid="Q5045123" title="Caroline Kirkland">
 The ubiquity of the _Pelargonium_ in the Victorian era soon began to carry a cultural significance all its own – and it was not always a positive one. In 1864’s _The Book of Flowers_, Caroline Kirkland follows the poet Leigh Hunt in describing the _Geranium_ (of course, really a _Pelargonium_) as a _genteel_ plant. She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel.”[^ref21] Although we may construe her comment as nothing more than an attestation to the _Pelargonium’s_ universal charms, her use of the word “genteel” takes on additional meaning when we consider the significance of the _Pelargonium_ in the context of working-class culture.
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Victorian_language_of_flowers_.jpg" title="The broad range of varieties and scents of _Pelargonium_ (under the name _Geranium_, of course) made it a favourite in the Victorian “language of flowers.” This concealed language allowed members of upper-class society to use specific flowers as a sort of code to pass on secret, often romantic, messages that they were forbidden from speaking aloud. Here, we can see that the scarlet Geranium (_P. inquinans_) means “comfort.” Excerpt from L. Burke’s _The Miniature Language of Flowers_, Biodiversity Heritage Library">
 
@@ -220,11 +221,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjM3MDY2MjMsLTI4MDg2NzMyMiwtMT
-QyODM4MTI1MCwtMTU0NjAzMDMwNywtMTc4NjI5MjExMCwtNzU0
-MDI5NTA1LC0xNDM0NjA5ODY5LDE0MjU0NDQ2MTEsLTY2NjMyOT
-M0OSwtMTc3NTU4NDA5MywtMTk4MzEzNzIzNSwtMTQ4NzMwMDQ3
-MSwtMjA5Mzk2MTE1NiwtNzI4NTY0OTAxLDE0MTI5MDkxMzAsND
-Q4NzgwNDk3LC00OTMyMDcyMzgsNDg3MDQzMjI0LDE3NzY5MDE2
-NzIsMTQ2MzA2NTQzNF19
+eyJoaXN0b3J5IjpbNDM0MDM5MDY3LC0yODA4NjczMjIsLTE0Mj
+gzODEyNTAsLTE1NDYwMzAzMDcsLTE3ODYyOTIxMTAsLTc1NDAy
+OTUwNSwtMTQzNDYwOTg2OSwxNDI1NDQ0NjExLC02NjYzMjkzND
+ksLTE3NzU1ODQwOTMsLTE5ODMxMzcyMzUsLTE0ODczMDA0NzEs
+LTIwOTM5NjExNTYsLTcyODU2NDkwMSwxNDEyOTA5MTMwLDQ0OD
+c4MDQ5NywtNDkzMjA3MjM4LDQ4NzA0MzIyNCwxNzc2OTAxNjcy
+LDE0NjMwNjU0MzRdfQ==
 -->
