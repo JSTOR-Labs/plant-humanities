@@ -79,7 +79,7 @@ The nomenclature confusion surrounding pelargoniums started with the introductio
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_ has not been widely hybridized and cultural interest in the plant is limited mainly to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 
 In the wake of that initial nomenclature confusion, botanists of the seventeenth century struggled to disentangle the genera _Pelargonium_ and _Geranium_. For a more in-depth discussion of the nomenclature history of _Pelargonium_ see the interactive timeline, at right, which provides insights about why there is still confusion surrounding the name and taxonomic designation of pelargoniums.[^ref11]
-<param ve-storiiies id="9b1fm" title="_A Brief History of Pelargonium's Nomenclature_, Yao Jiang">
+<param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 ### Technology, Breeding, and the Modern Pelargonium
 
@@ -113,7 +113,7 @@ It was against this backdrop that bedding or zonal pelargoniums, known in hortic
 The pelargonium was a favored plant of municipal gardeners because the hardy evergreen showed off its blooms for extended periods, flowering even in slightly chillier climates. More significantly, nursery owners adored the plant because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. Indeed, vendors were falling over one another to market the newest, most magnificent, and sweetest-smelling pelargoniums to meet the demand for the choicest blooms. Other factors contributing to the mania for the pelargonium were the arrival of mass-produced pots and planters for displaying ornamentals and, at least initially, excitement surrounding the exotic connotations of plant due to its Southern African provenance. Desire to obtain novel cultivars became so frenzied that some compared it to the infamous tulip-buying spree, known as “tulipomania,” that occurred in Holland in the 1630s.[^ref18]
 <param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:435776315" seq="21">
 <param ve-image
-title="The Victorian flower market" url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/THE_FLOWER_MARKET.jpg" fit="cover"  attribution="Garden Musuem Collection">
+title="The Victorian flower market" url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/THE_FLOWER_MARKET.jpg" fit="cover" attribution="Garden Musuem Collection">
 
 <param ve-entity eid="Q7498765" title="Shirley Hibberd">
 <param ve-entity eid="Q2269" title="Industrial Revolution">
@@ -236,11 +236,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQ0NDcwODMsMjUyNDM4ODc5LDEzND
-M2NzU0NTUsMTc2MTE5MTc5OSwtODE2MjE4Njk4LDQzNDAzOTA2
-NywtMjgwODY3MzIyLC0xNDI4MzgxMjUwLC0xNTQ2MDMwMzA3LC
-0xNzg2MjkyMTEwLC03NTQwMjk1MDUsLTE0MzQ2MDk4NjksMTQy
-NTQ0NDYxMSwtNjY2MzI5MzQ5LC0xNzc1NTg0MDkzLC0xOTgzMT
-M3MjM1LC0xNDg3MzAwNDcxLC0yMDkzOTYxMTU2LC03Mjg1NjQ5
-MDEsMTQxMjkwOTEzMF19
+eyJoaXN0b3J5IjpbMTI0NjE2Njk5MywtMTE3NDQ0NzA4MywyNT
+I0Mzg4NzksMTM0MzY3NTQ1NSwxNzYxMTkxNzk5LC04MTYyMTg2
+OTgsNDM0MDM5MDY3LC0yODA4NjczMjIsLTE0MjgzODEyNTAsLT
+E1NDYwMzAzMDcsLTE3ODYyOTIxMTAsLTc1NDAyOTUwNSwtMTQz
+NDYwOTg2OSwxNDI1NDQ0NjExLC02NjYzMjkzNDksLTE3NzU1OD
+QwOTMsLTE5ODMxMzcyMzUsLTE0ODczMDA0NzEsLTIwOTM5NjEx
+NTYsLTcyODU2NDkwMV19
 -->
