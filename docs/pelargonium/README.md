@@ -56,7 +56,7 @@ Other morphological traits, however, distinguish members of the genera _Pelargon
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
-The _Pelargonium_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape Peninsula of present-day South Africa: a biodiversity hotspot. Given their concentration there, it is not surprising that Dutch traders, who first introduced pelargoniums to Europe in the early 1600s, harvested them from the Cape.
+The _[Pelargonium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30302759-2)_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape Peninsula of present-day South Africa: a biodiversity hotspot. Given their concentration there, it is not surprising that Dutch traders, who first introduced pelargoniums to Europe in the early 1600s, harvested them from the Cape.
 <param ve-map center="-7.347, 72.454" zoom="2.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -213,7 +213,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjExNzQ0Miw0ODcwNDMyMjQsMTc3Nj
+eyJoaXN0b3J5IjpbLTQ5MzIwNzIzOCw0ODcwNDMyMjQsMTc3Nj
 kwMTY3MiwxNDYzMDY1NDM0LDIzODU0MDIwLDg1Njc5NzI5OSwt
 MTU3OTc5Njk4MSwtMTM2MDEzMTE4MiwtMTkxNzQ3MDkyMCwxMz
 E5ODU5NDEsLTEwNDcyMDcyNTQsLTIxMTU5OTQ1MjcsNzE0NTM1
