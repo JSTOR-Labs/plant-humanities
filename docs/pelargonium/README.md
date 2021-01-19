@@ -17,8 +17,8 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 
 <param ve-entity eid="Q157211" title="geranium" aliases="Geranium"> 
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
-<param ve-entity eid="Q18083598" title="Pelargonium inquinans"> 
-<![endif]--> However, you might be surprised to learn that the scarlet “geranium” with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one called _Pelargonium_ and was probably a bedding pelargonium derived from _P. inquinans_.[^ref4] This misidentification is typical because the two genera have been embroiled in a long history of taxonomic confusion that dates back to the late seventeenth century. As the debate over how to classify pelargoniums roiled in botanical circles of the mid-eighteenth and early nineteenth centuries, the popularity of the flower steadily increased, first as a hothouse exotic and then as a collector’s showpiece. By the mid-nineteenth century, when nurseries hybridized and mass-produced hardy pelargonium varieties for bedding and growing in potted gardens, the public had grown accustomed to using the common name “geranium” for the plant, and for the most part, we continue to do so today.
+<param ve-entity eid="Q18083598" title="Pelargonium inquinans" aliases="P. inquinans"> 
+However, you might be surprised to learn that the scarlet “geranium” with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one called _Pelargonium_ and was probably a bedding pelargonium derived from _P. inquinans_.[^ref4] This misidentification is typical because the two genera have been embroiled in a long history of taxonomic confusion that dates back to the late seventeenth century. As the debate over how to classify pelargoniums roiled in botanical circles of the mid-eighteenth and early nineteenth centuries, the popularity of the flower steadily increased, first as a hothouse exotic and then as a collector’s showpiece. By the mid-nineteenth century, when nurseries hybridized and mass-produced hardy pelargonium varieties for bedding and growing in potted gardens, the public had grown accustomed to using the common name “geranium” for the plant, and for the most part, we continue to do so today.
 <param ve-image fit="contain" primary url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n118_w1253" title="Charles Dickens grew 'Miss Pollock' pelargoniums in pots at Gad's Hill Place, _Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n120_w927" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 
@@ -214,7 +214,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTA2NDE1MCwtMTM2MDEzMTE4MiwtMT
+eyJoaXN0b3J5IjpbLTc3NzU2MjUyNiwtMTM2MDEzMTE4MiwtMT
 kxNzQ3MDkyMCwxMzE5ODU5NDEsLTEwNDcyMDcyNTQsLTIxMTU5
 OTQ1MjcsNzE0NTM1ODkxLDE1NDA2Njc3NDEsMjY4MTk3MTIwLC
 00MDUwNjYyNDQsLTEwNzM1MTY4NjYsNjAzODcyNDAwLC0xNDY2
