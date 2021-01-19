@@ -101,7 +101,8 @@ url="https://upload.wikimedia.org/wikipedia/commons/3/37/Floriculture.jpg" title
 
 ### Pelargonium-mania in the Victorian Era
 
-It was against this backdrop that _Pelargoniums_ soon became the mainstay of all municipal gardens in Victorian England. The 1837 _Floricultural Cabinet_ listed the best pelargoniums for bedding as one of the old faithful multipurpose plants. The ubiquity of the plant in public spaces is also celebrated in E. Adveno Brooke’s 1858 book _The Gardens of England_. As he explains, the bright scarlet pelargonium bloomed nearly everywhere from stone vases to flowerbeds and parterres. These locations, shown in illustrations at right, include the upper and lower terrace gardens of Bewood, the colonnade of Alton Gardens, as well as the parterre of Harewood.
+<param ve-entity eid="Q182688" title="Victorian era" aliases="Victorian">
+It was against this backdrop that bedding or zonal pelargoniums, known in horticultural circles as _Pelargonium × hortorum_, soon became the mainstay of all municipal gardens in Victorian England. The 1837 _Floricultural Cabinet_ listed the best pelargoniums for bedding as one of the old faithful multipurpose plants. The ubiquity of the plant in public spaces is also celebrated in E. Adveno Brooke’s 1858 book _The Gardens of England_. As he explains, the bright scarlet pelargonium bloomed nearly everywhere from stone vases to flowerbeds and parterres. These locations, shown in illustrations at right, include the upper and lower terrace gardens of Bewood, the colonnade of Alton Gardens, as well as the parterre of Harewood.
 <param ve-image primary fit="contain" url="Pelargonium_Bewood_BHL.jpg" title="Upper and lower terrace gardens of Bewood, scarlet pelargonium planted in stone vases and beds in _The gardens of England_, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="Pelargonium_AltonGardens_BHL.jpg" title="Colonnade of Alton Gardens, scarlet pelargonium planted in stone vases, in _The gardens of England_, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="Pelargonium_ParterreHarewood_BHL.jpg" title="Parterre of Harewood, scarlet pelargonium planted in stone vases and parterres, in _The gardens of England_ Biodiversity Heritage Library">
@@ -209,11 +210,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODYyOTIxMTAsLTc1NDAyOTUwNSwtMT
-QzNDYwOTg2OSwxNDI1NDQ0NjExLC02NjYzMjkzNDksLTE3NzU1
-ODQwOTMsLTE5ODMxMzcyMzUsLTE0ODczMDA0NzEsLTIwOTM5Nj
-ExNTYsLTcyODU2NDkwMSwxNDEyOTA5MTMwLDQ0ODc4MDQ5Nywt
-NDkzMjA3MjM4LDQ4NzA0MzIyNCwxNzc2OTAxNjcyLDE0NjMwNj
-U0MzQsMjM4NTQwMjAsODU2Nzk3Mjk5LC0xNTc5Nzk2OTgxLC0x
-MzYwMTMxMTgyXX0=
+eyJoaXN0b3J5IjpbLTE2NTYyMTM1OTIsLTE3ODYyOTIxMTAsLT
+c1NDAyOTUwNSwtMTQzNDYwOTg2OSwxNDI1NDQ0NjExLC02NjYz
+MjkzNDksLTE3NzU1ODQwOTMsLTE5ODMxMzcyMzUsLTE0ODczMD
+A0NzEsLTIwOTM5NjExNTYsLTcyODU2NDkwMSwxNDEyOTA5MTMw
+LDQ0ODc4MDQ5NywtNDkzMjA3MjM4LDQ4NzA0MzIyNCwxNzc2OT
+AxNjcyLDE0NjMwNjU0MzQsMjM4NTQwMjAsODU2Nzk3Mjk5LC0x
+NTc5Nzk2OTgxXX0=
 -->
