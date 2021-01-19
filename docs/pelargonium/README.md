@@ -22,6 +22,7 @@ However, you might be surprised to learn that the scarlet “geranium” with wh
 <param ve-image fit="contain" primary url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n118_w1253" title="Charles Dickens grew 'Miss Pollock' pelargoniums in pots at Gad's Hill Place, _Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n120_w927" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 
+
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to the plant’s popularity during the long nineteenth century reveals how advances in horticultural technologies and breeding adapted the flower to European aesthetic and olfactory sensibilities and in doing so fueled demand for it as an ornamental plant and an aromatic crop. This visual essay also elucidates some reasons that Dicken’s favored flower is still widely used to infuse gardens with its brilliant scarlet color, showy foliage, and pleasant fragrance.
 <param ve-image primary fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="A dazzling display of pelargoniums in flowerbeds and decorative pots, Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
 <param ve-image fit="contain" url="Pelargoniums_RP-F-2013-85-14.jpg" title="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, glass, 90 x 120 mm, Rijksmuseum, public domain">
@@ -214,7 +215,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ3ODA5MzUsLTEzNjAxMzExODIsLT
+eyJoaXN0b3J5IjpbLTE1Nzk3OTY5ODEsLTEzNjAxMzExODIsLT
 E5MTc0NzA5MjAsMTMxOTg1OTQxLC0xMDQ3MjA3MjU0LC0yMTE1
 OTk0NTI3LDcxNDUzNTg5MSwxNTQwNjY3NzQxLDI2ODE5NzEyMC
 wtNDA1MDY2MjQ0LC0xMDczNTE2ODY2LDYwMzg3MjQwMCwtMTQ2
