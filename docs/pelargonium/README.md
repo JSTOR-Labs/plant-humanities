@@ -149,17 +149,17 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-entity eid="Q262" title="Algeria">
 <param ve-entity eid="Q173705" title="Grasse">
 <param ve-entity eid="Q34687" title="Rosa" aliases="roses">
-In 1847, the French perfume industries of Grasse, including the company of Léon Chiris Léopold Chiris? , introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it. Algeria was considered an ideal place for doing so due to its warm arid and semi-arid climate and the low cost of colonial labor needed for the "preparation and planting of cuttings, weeding of fields, harvesting of the material to be distilled." Perfumers selected pelargoniums because most species have a sweet aroma similar to roses. Such oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant.
+In 1847, the French perfume industries of Grasse, including the company of Léon Chiris Léopold Chiris? , introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it. Algeria was considered an ideal place for doing so due to its warm arid and semi-arid climate and the low cost of colonial labor needed for the "preparation and planting of cuttings, weeding of fields, harvesting of the material to be distilled."[^ref28] Perfumers selected pelargoniums because most species have a sweet aroma similar to roses. Such oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant.
 <param ve-image primary fit="contain" url="Pelargonium_Chirismap_DavidRumsey.jpg" title="Gabriel Mazuyer, Georges Lecomte, Lucien Boucher, _Les etu A. Chiris s'installent dans le Monde entier_, 1931, published by Antoine Chiris, Paris, from David Rumsey Historical Map Collection">
 
 <param ve-entity eid="Q2344308" title="Boufarik">
 <param ve-entity eid="Q4092" title="Cape of Good Hope" aliases="Cap de Bonne Espérance">
-The Chiris company introduced a particular pelargonium hybrid, "_Geranium rosat_," to Boufarik, Algeria, selecting "a trentaine of wild Pelargonium species, from cells that are found most frequently in the Cap de Bonne Espérance region." That selection allowed the Chiris establishments to earn a stable profit.[REF] In 1865, Chiris built a 3,000 square meter factory in the Saint-Marguerite domain in Boufarik, which was first acquired in 1836. Its production was centered on _Pelargoniums_, orange trees, and other aromatic plants.[REF] However, the headquarters in Boufarik closed once it was nationalized in 1963, as did the other headquarters in the former European colonies.
+The Chiris company introduced a particular pelargonium hybrid, "_Geranium rosat_," to Boufarik, Algeria, selecting "a trentaine of wild Pelargonium species, from cells that are found most frequently in the Cap de Bonne Espérance region."[^ref29] That selection allowed the Chiris establishments to earn a stable profit. In 1865, Chiris built a 3,000 square meter factory in the Saint-Marguerite domain in Boufarik, which was first acquired in 1836. Its production was centered on _Pelargoniums_, orange trees, and other aromatic plants. However, the headquarters in Boufarik closed once it was nationalized in 1963, as did the other headquarters in the former European colonies.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000417315">
 <param ve-storiiies id="091ed" title="Anonymous, photographs of pelargonium fields and floricultural industry, Algeria, Source gallica.bnf.fr / BnF">
 
 
-Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[REF] Significantly, the confusion surrounding pelargonium nomenclature in Europe contexts also exists in China. More than 50% of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You (Pelargonium Oil)_ in Chinese. It is said that the name _Tianzhu Kui_ was introduced by Junyu Zhang in 1933 based on his studies in Japan. The word _Tianzhu Kui_ is from _ゼラニウム_, which is pronounced as _Geranium_ in English.
+Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[^ref30] Significantly, the confusion surrounding pelargonium nomenclature in Europe contexts also exists in China. More than 50% of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You (Pelargonium Oil)_ in Chinese. It is said that the name _Tianzhu Kui_ was introduced by Junyu Zhang in 1933 based on his studies in Japan. The word _Tianzhu Kui_ is from _ゼラニウム_, which is pronounced as _Geranium_ in English.
 <param ve-map center="18.240663, 40.244245" zoom="2.9">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/djareid/Dumbarton-PH/master/industrial-oil.json" title="global geranium oil industries" active>
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Tianzhu_Kui.png" title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_ (_Pelargonium_) in Chinese. Jin, Jiancheng, and Xun Zhang. _Chinese Gongbi Line Drawing of Hundred Flowers (Autumn and Winter)_. Tianjin Yangliuqing Fine Arts Press. 2005.">
@@ -221,13 +221,22 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref25]: “genteel, adj. and n.” OED Online. Oxford University Press, June 2020. Web. 1 August 2020.
 
+[^ref26]: CIT
+
+[^ref27]: CIT
+
+[^ref28]: CIT
+
+[^ref29]: CIT
+
+[^ref30]: CIT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ3NTE2NjYsNDM0MDM5MDY3LC0yOD
-A4NjczMjIsLTE0MjgzODEyNTAsLTE1NDYwMzAzMDcsLTE3ODYy
-OTIxMTAsLTc1NDAyOTUwNSwtMTQzNDYwOTg2OSwxNDI1NDQ0Nj
-ExLC02NjYzMjkzNDksLTE3NzU1ODQwOTMsLTE5ODMxMzcyMzUs
-LTE0ODczMDA0NzEsLTIwOTM5NjExNTYsLTcyODU2NDkwMSwxND
-EyOTA5MTMwLDQ0ODc4MDQ5NywtNDkzMjA3MjM4LDQ4NzA0MzIy
-NCwxNzc2OTAxNjcyXX0=
+eyJoaXN0b3J5IjpbLTgxNjIxODY5OCw0MzQwMzkwNjcsLTI4MD
+g2NzMyMiwtMTQyODM4MTI1MCwtMTU0NjAzMDMwNywtMTc4NjI5
+MjExMCwtNzU0MDI5NTA1LC0xNDM0NjA5ODY5LDE0MjU0NDQ2MT
+EsLTY2NjMyOTM0OSwtMTc3NTU4NDA5MywtMTk4MzEzNzIzNSwt
+MTQ4NzMwMDQ3MSwtMjA5Mzk2MTE1NiwtNzI4NTY0OTAxLDE0MT
+I5MDkxMzAsNDQ4NzgwNDk3LC00OTMyMDcyMzgsNDg3MDQzMjI0
+LDE3NzY5MDE2NzJdfQ==
 -->
