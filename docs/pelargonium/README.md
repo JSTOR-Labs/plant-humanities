@@ -198,23 +198,25 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref16]: Mr. Thomas Appleby, “Article IV.—On the Culture of Geraniums,” The Floricultural Cabinet and Florist's Magazine, Vol. 5, 1837, pp. 8-10, [https://www.biodiversitylibrary.org/page/15889416](https://www.biodiversitylibrary.org/page/15889416)
 
-[^ref16]: Hibberd, Shirley. “Lecture on the Pelargonium.” _The Journal of Horticulture_, 1880, pp. 14, 74-75.
+[^ref17]: Edward Adveno Brooke, _The Gardens of England_, London: T. McLean, [1858?], [https://www.biodiversitylibrary.org/page/41414093](https://www.biodiversitylibrary.org/page/41414093).
 
-[^ref15]: Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875. [https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up](https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up)
+[^ref18]: Hibberd, Shirley. “Lecture on the Pelargonium.” _The Journal of Horticulture_, 1880, pp. 14, 74-75.
 
-[^ref16]: McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
+[^ref19]: Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875. [https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up](https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up)
 
-[^ref17]: Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--. [https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up](https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up)
+[^ref20]: McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
 
-[^ref18]: Jekyll, Gertrude. _Colour Schemes for the Flower Garden_. Country Life, 1919.
+[^ref21]: Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--. [https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up](https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up)
 
-[^ref19]: Horwood, Catherine. _Potted History: The Story of Plants in the Home_. Quarto Group Inc, 2007.
+[^ref22]: Jekyll, Gertrude. _Colour Schemes for the Flower Garden_. Country Life, 1919.
 
-[^ref20]: "genteel, adj. and n." OED Online. Oxford University Press, June 2020. Web. 1 August 2020.
+[^ref23]: Horwood, Catherine. _Potted History: The Story of Plants in the Home_. Quarto Group Inc, 2007.
+
+[^ref24]: "genteel, adj. and n." OED Online. Oxford University Press, June 2020. Web. 1 August 2020.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3MDE5ODc5LC0yODA4NjczMjIsLTE0Mj
+eyJoaXN0b3J5IjpbNDUyMzAzMzgzLC0yODA4NjczMjIsLTE0Mj
 gzODEyNTAsLTE1NDYwMzAzMDcsLTE3ODYyOTIxMTAsLTc1NDAy
 OTUwNSwtMTQzNDYwOTg2OSwxNDI1NDQ0NjExLC02NjYzMjkzND
 ksLTE3NzU1ODQwOTMsLTE5ODMxMzcyMzUsLTE0ODczMDA0NzEs
