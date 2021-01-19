@@ -191,7 +191,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref14]: Keogh, Luke. _The Wardian Case: How a Simple Box Moved Plants and Saved the World_. University of Chicago Press, 2020.
 
-[^ref15]: Indeed, John Livingstone estimated in 1819 that “only one in a thousand plants survived the journey.” Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Keogh, Luke. “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12. Lindsay Wells. "Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor." _Victorian Studies_ 60, no. 2 (2018): 158-70. Accessed January 11, 2021. http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02.
+[^ref15]: Indeed, John Livingstone estimated in 1819 that “only one in a thousand plants survived the journey.” Indeed, experts estimate that in just 15 years after the invention of the case, William Hooker, the director of the Gardens at Kew from 1841 to 1865, imported more plants than in the previous century. Luke Keogh, “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12. Lindsay Wells. "Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor." _Victorian Studies_ 60, no. 2 (2018): 158-70. Accessed January 11, 2021. http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02.
 
 [^ref16]: Hibberd, Shirley. “Lecture on the Pelargonium.” _The Journal of Horticulture_, 1880, pp. 14, 74-75.
 
@@ -209,11 +209,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDAyOTUwNSwtMTQzNDYwOTg2OSwxND
-I1NDQ0NjExLC02NjYzMjkzNDksLTE3NzU1ODQwOTMsLTE5ODMx
-MzcyMzUsLTE0ODczMDA0NzEsLTIwOTM5NjExNTYsLTcyODU2ND
-kwMSwxNDEyOTA5MTMwLDQ0ODc4MDQ5NywtNDkzMjA3MjM4LDQ4
-NzA0MzIyNCwxNzc2OTAxNjcyLDE0NjMwNjU0MzQsMjM4NTQwMj
-AsODU2Nzk3Mjk5LC0xNTc5Nzk2OTgxLC0xMzYwMTMxMTgyLC0x
-OTE3NDcwOTIwXX0=
+eyJoaXN0b3J5IjpbNDA4OTUxNzY3LC03NTQwMjk1MDUsLTE0Mz
+Q2MDk4NjksMTQyNTQ0NDYxMSwtNjY2MzI5MzQ5LC0xNzc1NTg0
+MDkzLC0xOTgzMTM3MjM1LC0xNDg3MzAwNDcxLC0yMDkzOTYxMT
+U2LC03Mjg1NjQ5MDEsMTQxMjkwOTEzMCw0NDg3ODA0OTcsLTQ5
+MzIwNzIzOCw0ODcwNDMyMjQsMTc3NjkwMTY3MiwxNDYzMDY1ND
+M0LDIzODU0MDIwLDg1Njc5NzI5OSwtMTU3OTc5Njk4MSwtMTM2
+MDEzMTE4Ml19
 -->
