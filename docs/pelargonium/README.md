@@ -74,7 +74,7 @@ Of the many _Pelargonium_ species native to the Cape Peninsula, _Pelargonium_ _t
 <param ve-entity eid="Q863247" title="nomenclature">
 <param ve-entity eid="Q13996" title="Mediterranean climate">
 <param ve-entity eid="Q355691" title="Jacques Philippe Cornut" aliases="Jacques Philippe Cornut's">
-The nomenclature confusion surrounding pelargoniums started with the introduction of _Pelargonium triste_ (“sad pelargonium”) to Europe. The plant was initially called _Geranium Indicum nocto odorato_, or “night-scented geranium of India.” Europeans misidentified the specimen as a geranium because they were already familiar with _[Geranium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327764-2)_ species, which are native to the Mediterranean Basin. Additionally, Dutch traders brought the pelargonium to Holland on their return from making colonial voyages to the East Indies, prompting some to give it an incorrect Indian provenance. This portrait of _P. triste_ from Jacques Philippe Cornut’s 1635-book _[Canadensium Plantarum](https://bibdigital.rjb.csic.es/idurl/1/13506)_ shows a striking view of the plant beneath the now incorrect name “Geranium triste.” The prints depicts the plant's feathery leaves, stork’s beak fruit, tiny five-petal flowers, and tuberous roots, though, without color, it is difficult to grasp why the sad pelargonium was named thusly for the dull hue of its foliage or flowers.
+The nomenclature confusion surrounding pelargoniums started with the introduction of _Pelargonium triste_ (“sad pelargonium”) to Europe. The plant was initially called _Geranium Indicum nocto odorato_, or “night-scented geranium of India.” Europeans misidentified the specimen as a geranium because they were already familiar with _[Geranium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327764-2)_ species, which are native to the Mediterranean Basin. Additionally, Dutch traders brought the pelargonium to Holland on their return from making colonial voyages to the East Indies, prompting some to give it an incorrect Indian provenance. Jacques Philippe Cornut renamed the plant _Geranium triste_ in an apparent reference to its sad or dull-colored foliage or flowers. He drew this portrait of the plant, which was published in his 1635-bookbook _[Canadensium Plantarum](https://bibdigital.rjb.csic.es/idurl/1/13506).
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], Jacques-Philippe Cornut, _Canadensium Plantarum_, Paris, Venundantur apud Simonem Le Moyne, 1635, Biblioteca Digital">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_ has not been widely hybridized and cultural interest in the plant is limited mainly to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 
@@ -213,11 +213,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDEzMjI2OSwxNzc2OTAxNjcyLDE0Nj
-MwNjU0MzQsMjM4NTQwMjAsODU2Nzk3Mjk5LC0xNTc5Nzk2OTgx
-LC0xMzYwMTMxMTgyLC0xOTE3NDcwOTIwLDEzMTk4NTk0MSwtMT
-A0NzIwNzI1NCwtMjExNTk5NDUyNyw3MTQ1MzU4OTEsMTU0MDY2
-Nzc0MSwyNjgxOTcxMjAsLTQwNTA2NjI0NCwtMTA3MzUxNjg2Ni
-w2MDM4NzI0MDAsLTE0NjY0MTMzMSwtMTMyOTk3NDk2NCwtMTY1
-MjE4MTE5MV19
+eyJoaXN0b3J5IjpbNDg3MDQzMjI0LDE3NzY5MDE2NzIsMTQ2Mz
+A2NTQzNCwyMzg1NDAyMCw4NTY3OTcyOTksLTE1Nzk3OTY5ODEs
+LTEzNjAxMzExODIsLTE5MTc0NzA5MjAsMTMxOTg1OTQxLC0xMD
+Q3MjA3MjU0LC0yMTE1OTk0NTI3LDcxNDUzNTg5MSwxNTQwNjY3
+NzQxLDI2ODE5NzEyMCwtNDA1MDY2MjQ0LC0xMDczNTE2ODY2LD
+YwMzg3MjQwMCwtMTQ2NjQxMzMxLC0xMzI5OTc0OTY0LC0xNjUy
+MTgxMTkxXX0=
 -->
