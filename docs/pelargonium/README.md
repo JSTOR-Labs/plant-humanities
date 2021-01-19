@@ -85,7 +85,7 @@ In the wake of that initial nomenclature confusion, botanists of the seventeenth
 
 <param ve-entity eid="Q165044" title="greenhouse">
 <param ve-entity eid="Q3446485" title="Rubens Peale">
-The _Pelargonium_ is a perennial bush that naturally occurs in temperate and tropical climates. For that reason, the first plants to reach Europe were cultivated in heated greenhouses to protect them from cold and frost.[^ref12] By the early 1800s, new technologies–both for fabricating iron and plate glass and for constructing buildings with these materials–fueled a fad among the social elite for purchasing domestic conservatories and exotic plants to display therein.[^ref13] Pelargoniums and early hybrids were an ideal choice fashionable  scientific specimens, exotic curiosities, status symbols, conversation pieces, and aesthetic objects.
+The _Pelargonium_ is a perennial bush that naturally occurs in temperate and tropical climates. For that reason, the first plants to reach Europe were cultivated in heated greenhouses to protect them from cold and frost.[^ref12] By the early 1800s, new technologies–both for fabricating iron and plate glass and for constructing buildings with these materials–fueled a fad among the social elite for purchasing domestic conservatories and exotic plants to display therein.[^ref13] Pelargoniums and early hybrids were an ideal choice for such spaces, serving as scientific specimens, exotic curiosities, status symbols, conversation pieces, and aesthetic objects.
 <param ve-image primary url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
 <param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
 
@@ -209,11 +209,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc1ODQ1OTEsLTE0MzQ2MDk4NjksMT
-QyNTQ0NDYxMSwtNjY2MzI5MzQ5LC0xNzc1NTg0MDkzLC0xOTgz
-MTM3MjM1LC0xNDg3MzAwNDcxLC0yMDkzOTYxMTU2LC03Mjg1Nj
-Q5MDEsMTQxMjkwOTEzMCw0NDg3ODA0OTcsLTQ5MzIwNzIzOCw0
-ODcwNDMyMjQsMTc3NjkwMTY3MiwxNDYzMDY1NDM0LDIzODU0MD
-IwLDg1Njc5NzI5OSwtMTU3OTc5Njk4MSwtMTM2MDEzMTE4Miwt
-MTkxNzQ3MDkyMF19
+eyJoaXN0b3J5IjpbLTQ0MzY3MzEwNiwtMTQzNDYwOTg2OSwxND
+I1NDQ0NjExLC02NjYzMjkzNDksLTE3NzU1ODQwOTMsLTE5ODMx
+MzcyMzUsLTE0ODczMDA0NzEsLTIwOTM5NjExNTYsLTcyODU2ND
+kwMSwxNDEyOTA5MTMwLDQ0ODc4MDQ5NywtNDkzMjA3MjM4LDQ4
+NzA0MzIyNCwxNzc2OTAxNjcyLDE0NjMwNjU0MzQsMjM4NTQwMj
+AsODU2Nzk3Mjk5LC0xNTc5Nzk2OTgxLC0xMzYwMTMxMTgyLC0x
+OTE3NDcwOTIwXX0=
 -->
