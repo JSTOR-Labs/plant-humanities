@@ -223,7 +223,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref26]: CIT
 
-[^ref27]: Alphand, A., & Hochereau, E. (1873). _Les promenades de Paris: Histoire--description des embellissements--dépenses de création et d'entretien des Bois de Boulogne et de Vincennes, Champs-Élysées--Parcs--squares--boulevards--places plantées, Étude sur l'art des jardins et arboretum_. Paris: J. Rothschild. Vol. 1 and 2, [https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551](https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551) [https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453](https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453)
+[^ref27]: Alphand, A., & Hochereau, E. _Les promenades de Paris: Histoire--description des embellissements--dépenses de création et d'entretien des Bois de Boulogne et de Vincennes, Champs-Élysées--Parcs--squares--boulevards--places plantées, Étude sur l'art des jardins et arboretum_. Vol. 1 and 2, Paris: J. Rothschild, 1873),[https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551](https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551) [https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453](https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453)
 
 [^ref28]: CIT
 
@@ -232,11 +232,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref30]: CIT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTcyMTcwNjcsLTgxNjIxODY5OCw0Mz
-QwMzkwNjcsLTI4MDg2NzMyMiwtMTQyODM4MTI1MCwtMTU0NjAz
-MDMwNywtMTc4NjI5MjExMCwtNzU0MDI5NTA1LC0xNDM0NjA5OD
-Y5LDE0MjU0NDQ2MTEsLTY2NjMyOTM0OSwtMTc3NTU4NDA5Mywt
-MTk4MzEzNzIzNSwtMTQ4NzMwMDQ3MSwtMjA5Mzk2MTE1NiwtNz
-I4NTY0OTAxLDE0MTI5MDkxMzAsNDQ4NzgwNDk3LC00OTMyMDcy
-MzgsNDg3MDQzMjI0XX0=
+eyJoaXN0b3J5IjpbLTU0MzYyNTY5OSwtODE2MjE4Njk4LDQzND
+AzOTA2NywtMjgwODY3MzIyLC0xNDI4MzgxMjUwLC0xNTQ2MDMw
+MzA3LC0xNzg2MjkyMTEwLC03NTQwMjk1MDUsLTE0MzQ2MDk4Nj
+ksMTQyNTQ0NDYxMSwtNjY2MzI5MzQ5LC0xNzc1NTg0MDkzLC0x
+OTgzMTM3MjM1LC0xNDg3MzAwNDcxLC0yMDkzOTYxMTU2LC03Mj
+g1NjQ5MDEsMTQxMjkwOTEzMCw0NDg3ODA0OTcsLTQ5MzIwNzIz
+OCw0ODcwNDMyMjRdfQ==
 -->
