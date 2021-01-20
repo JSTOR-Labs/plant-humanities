@@ -186,7 +186,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref8]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), accessed August 20, 2010, [](%20) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 
-[^ref9]:  William Sherard, _Schola botanica sive catalogus plantarum, quas ab aliquot annis in Horto Regio Parisiensis Studiosis indigitavit vir clarissimvs Joseph Pitton Tournefort, D. M. ut et Pauli Hermanni P.P. Paradisi Batavi prodromus, In quo Planta rariores omnes, in Batavorum Hortis hactenus cultae, & plurinam partem à nemine antea descriptae recensentur_ (Amsterdam: Apud Henricum Wetstenium, 1689), accessed January 20, 2021. [https://bibdigital.rjb.csic.es/idurl/1/13582](https://bibdigital.rjb.csic.es/idurl/1/13582); Wilkinson, _The Passion for Pelargoniums_, 21–22.
+[^ref9]:  William Sherard, _Schola botanica sive catalogus plantarum, quas ab aliquot annis in Horto Regio Parisiensis Studiosis indigitavit vir clarissimvs Joseph Pitton Tournefort, D. M. ut et Pauli Hermanni P.P. Paradisi Batavi prodromus, In quo Planta rariores omnes, in Batavorum Hortis hactenus cultae, & plurinam partem à nemine antea descriptae recensentur_ (Amsterdam: Apud Henricum Wetstenium, 1689), 336, accessed January 20, 2021. [https://bibdigital.rjb.csic.es/idurl/1/13582](https://bibdigital.rjb.csic.es/idurl/1/13582); Wilkinson, _The Passion for Pelargoniums_, 21–22.
 
 [^ref10]: Wilkinson, _The Passion for Pelargoniums_, 18; see descriptions of the plant in John Gerard, _The herball, or, Generall historie of plantes_ (London: Printed by Adam Islip Joice Norton and Richard Whitakers, anno 1633), 948, accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/51906330](https://www.biodiversitylibrary.org/page/51906330); John Parkinson, _Theatrum botanicum = the theater of plants: or, An herball of a large extent ..._ (London: Printed by Tho. Cotes, 1640), 709, accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/56600608](https://www.biodiversitylibrary.org/page/56600608).
 
@@ -236,11 +236,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDgwMTU0NCwtNDcyNTIwMDYyLC0yMD
-Y0NDQ1ODU1LDc4MDY4OTkwMCwtODIwNjc4OTAxLC03MTA4NzM5
-ODcsMzcyNTk2NTM5LDEzMzc3NzY2NzUsNzA0ODI0MzU4LC0yOD
-A1MTUwMDgsLTE5NjU5MDI1NzYsLTE4NDE5MjgwNjUsMTI0NjE2
-Njk5MywtMTE3NDQ0NzA4MywyNTI0Mzg4NzksMTM0MzY3NTQ1NS
-wxNzYxMTkxNzk5LC04MTYyMTg2OTgsNDM0MDM5MDY3LC0yODA4
-NjczMjJdfQ==
+eyJoaXN0b3J5IjpbMjI4NjQzNjUyLC00NzI1MjAwNjIsLTIwNj
+Q0NDU4NTUsNzgwNjg5OTAwLC04MjA2Nzg5MDEsLTcxMDg3Mzk4
+NywzNzI1OTY1MzksMTMzNzc3NjY3NSw3MDQ4MjQzNTgsLTI4MD
+UxNTAwOCwtMTk2NTkwMjU3NiwtMTg0MTkyODA2NSwxMjQ2MTY2
+OTkzLC0xMTc0NDQ3MDgzLDI1MjQzODg3OSwxMzQzNjc1NDU1LD
+E3NjExOTE3OTksLTgxNjIxODY5OCw0MzQwMzkwNjcsLTI4MDg2
+NzMyMl19
 -->
