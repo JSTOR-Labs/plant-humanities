@@ -178,9 +178,9 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref3]: Ibid., 115.
 
-[^ref4]: Charles Dickens grew _P._ × _hortorum_ ‘Mrs. Pollock’ in pots and _P._ × _hortorum_ ‘General Tom Thumb’ in beds at Gad’s Hill Place. Hartley, “Dickens and the Geranium,” p. 6; Ide, Jennifer M. 2017. "A Rose for Charles Dickens." _The Dickensian_ 113 (501) (Spring): 35-36. http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/rose-charles-dickens/docview/2056424376/se-2?accountid=11311.
+[^ref4]: According to Jennifer Ide, Charles Dickens grew at least two types of red zonal pelargoniums at Gad’s Hill Place: ‘Mrs. Pollock’ in pots and ‘General Tom Thumb’ in beds. Hartley, “Dickens and the Geranium,” 6; Jennifer M. Ide, “A Rose for Charles Dickens,” _The Dickensian_ 113, no. 501 (Spring 2017): 35–36, accessed January 20, 2021, [http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/rose-charles-dickens/docview/2056424376/se-2?accountid=11311](http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/rose-charles-dickens/docview/2056424376/se-2?accountid=11311).
 
-[^ref5]: Wilkinson, Anne. _The Passion for Pelargoniums_. Stroud: The History Press, 2007, p. 8.
+[^ref5]: Anne Wilkinson, _The Passion for Pelargoniums_ (Stroud: The History Press, 2007), 4–8.
 
 [^ref6]: Wilkinson, The Passion for Pelargoniums_, pp. 13-21.
 
@@ -236,11 +236,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTg1NzY3MywtMTk2NTkwMjU3NiwtMT
-g0MTkyODA2NSwxMjQ2MTY2OTkzLC0xMTc0NDQ3MDgzLDI1MjQz
-ODg3OSwxMzQzNjc1NDU1LDE3NjExOTE3OTksLTgxNjIxODY5OC
-w0MzQwMzkwNjcsLTI4MDg2NzMyMiwtMTQyODM4MTI1MCwtMTU0
-NjAzMDMwNywtMTc4NjI5MjExMCwtNzU0MDI5NTA1LC0xNDM0Nj
-A5ODY5LDE0MjU0NDQ2MTEsLTY2NjMyOTM0OSwtMTc3NTU4NDA5
-MywtMTk4MzEzNzIzNV19
+eyJoaXN0b3J5IjpbMjg2ODkyNjgsLTE5NjU5MDI1NzYsLTE4ND
+E5MjgwNjUsMTI0NjE2Njk5MywtMTE3NDQ0NzA4MywyNTI0Mzg4
+NzksMTM0MzY3NTQ1NSwxNzYxMTkxNzk5LC04MTYyMTg2OTgsND
+M0MDM5MDY3LC0yODA4NjczMjIsLTE0MjgzODEyNTAsLTE1NDYw
+MzAzMDcsLTE3ODYyOTIxMTAsLTc1NDAyOTUwNSwtMTQzNDYwOT
+g2OSwxNDI1NDQ0NjExLC02NjYzMjkzNDksLTE3NzU1ODQwOTMs
+LTE5ODMxMzcyMzVdfQ==
 -->
