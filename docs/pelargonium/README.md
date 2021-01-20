@@ -93,7 +93,7 @@ The _Pelargonium_ is a perennial bush that naturally occurs in temperate and tro
 <param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
 Another technology, the Wardian case, contributed to a tremendous expansion of ornamental plant trades in the early and mid-nineteenth century. The case or sealed glass container, invented by Nathaniel Bagshaw Ward, allowed plant collectors, horticulturalists, and others to transport live specimens intact during lengthy overseas voyages.[^ref15] ![Wardian case, Nathaniel Bagshaw Ward, _On the Growth of Plants in Closely Glazed Cases_](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_wardiancase_sm.jpg) {: .right} That advance in plant mobility made exotics more abundant, accessible, and affordable, increasing the popularity of gardening as a hobby for the upper and middle classes. The case had a knock-on effect in the domestic space as well. It enabled gardeners to cultivate exotic plants and mixed-species gardens indoors in such decorative glass furnishings.[^ref16] To meet this unprecedented demand for live plants, nursery owners of the midcentury developed the zonal pelargonium for bedding in gardens and, later, the regal for growing in domestic conservatories and the home. The marvelous modern pelargonium—part natural wonder, part human invention—bloomed just as mass consumer culture embraced fresh flowers in nearly every aspect of daily life.
 <param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DT2030.jpg" title="Seymour Joseph Guy, The Contest for the Bouquet: The Family of Robert Gordon in Their New York Dining-Room, 1866, oil on canvas, 62.5 x 74.9 cm, Purchase, Gift of William E. Dodge, by exchange, and Lila Acheson Wallace Gift, 1992, Metropolitan Museum of Art, public domain">
-<param ve-image fit="contain" url="https://ia800604.us.archive.org/BookReader/BookReaderImages.php?id=ongrowthplantsc00ward&itemPath=%2F0%2Fitems%2Fongrowthplantsc00ward&server=ia800604.us.archive.org&page=n52_w325" title="An 1852 illustration of the Wardian case by Nathaniel Bagshaw Ward, the physician and botanist for whom the case was named, _On the Growth of Plants in Closely Glazed Cases_">
+<param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835246&t=w" title="Illustration of three Wardian cases in the domestic space, 1870">
 <param ve-image title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/3/37/Floriculture.jpg" title="A retail greenhouse section of a production greenhouse facility in northwest Ohio shows some of the diversity of floricultural plants produced in that region, 2007, Agricultural Research Service, United States Department of Agriculture, d786-2, public domain, Wikimedia">
@@ -239,11 +239,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2MDk5MjY2LC0xMzA5ODc2NDQyLDQwMz
-cxMDkyMiwxNDE4NzgyOTgsLTE5Mzk4NDg2NjcsLTE1MzM4OTY2
-NDgsLTgwNDI0OTMxNSwtMjAxMDYxNjUxLDU5MjE1ODM4MCwtOT
-k2Nzg2ODAzLC0zODI1MTE1NzYsLTE1NTI0NzQ3ODMsMTY0MTMx
-Mjc2LDIyODY0MzY1MiwtMTQ3NDQyNjU2LC00NzI1MjAwNjIsLT
-IwNjQ0NDU4NTUsNzgwNjg5OTAwLC04MjA2Nzg5MDEsLTcxMDg3
-Mzk4N119
+eyJoaXN0b3J5IjpbMTA1NjMxMTY2NywzMzYwOTkyNjYsLTEzMD
+k4NzY0NDIsNDAzNzEwOTIyLDE0MTg3ODI5OCwtMTkzOTg0ODY2
+NywtMTUzMzg5NjY0OCwtODA0MjQ5MzE1LC0yMDEwNjE2NTEsNT
+kyMTU4MzgwLC05OTY3ODY4MDMsLTM4MjUxMTU3NiwtMTU1MjQ3
+NDc4MywxNjQxMzEyNzYsMjI4NjQzNjUyLC0xNDc0NDI2NTYsLT
+Q3MjUyMDA2MiwtMjA2NDQ0NTg1NSw3ODA2ODk5MDAsLTgyMDY3
+ODkwMV19
 -->
