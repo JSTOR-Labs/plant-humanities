@@ -200,11 +200,13 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref15]: Luke Keogh, _The Wardian Case: How a Simple Box Moved Plants and Saved the World_ (University of Chicago Press, 2020); Luke Keogh, “The Wardian Case: How a Simple Box Moved the Plant Kingdom,” _Arnoldia_, 74, no. 4 (2017): 1–12.
 
-[^ref15]: Lindsay Wells. "Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor." _Victorian Studies_ 60, no. 2 (2018): 158-70. Accessed January 11, 2021. http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02.
+[^ref16]: Lindsay Wells, “Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor,” _Victorian Studies_ 60, no. 2 (2018): 158–70, accessed January 11, 2021, [http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02](http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02).
 
-[^ref16]: Mr. Thomas Appleby, “Article IV.—On the Culture of Geraniums,” The Floricultural Cabinet and Florist's Magazine, Vol. 5, 1837, pp. 8-10, [https://www.biodiversitylibrary.org/page/15889416](https://www.biodiversitylibrary.org/page/15889416)
+[^ref17]: Mr. Thomas Appleby, “Article IV.—On the Culture of Geraniums,” The Floricultural Cabinet and Florist's Magazine, 5 (1837): 8–10, [https://www.biodiversitylibrary.org/page/15889416](https://www.biodiversitylibrary.org/page/15889416).
 
-[^ref17]: Edward Adveno Brooke, _The Gardens of England_, London: T. McLean, [1858?], [https://www.biodiversitylibrary.org/page/41414093](https://www.biodiversitylibrary.org/page/41414093).
+[^ref18]: Edward Adveno Brooke, _The Gardens of England_ (London: T. McLean, [1858?]), accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/41414093](https://www.biodiversitylibrary.org/page/41414093).
+
+[^ref19]: Wilkinson, _The Passion for Pelargoniums_, XX.
 
 [^ref18]: Hibberd, Shirley. “Lecture on the Pelargonium.” _The Journal of Horticulture_, 1880, pp. 14, 74-75.
 
@@ -236,7 +238,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzE0NjE1MSwtMTU1MjQ3NDc4MywxNj
+eyJoaXN0b3J5IjpbLTM4MjUxMTU3NiwtMTU1MjQ3NDc4MywxNj
 QxMzEyNzYsMjI4NjQzNjUyLC0xNDc0NDI2NTYsLTQ3MjUyMDA2
 MiwtMjA2NDQ0NTg1NSw3ODA2ODk5MDAsLTgyMDY3ODkwMSwtNz
 EwODczOTg3LDM3MjU5NjUzOSwxMzM3Nzc2Njc1LDcwNDgyNDM1
