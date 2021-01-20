@@ -84,7 +84,7 @@ In the wake of that initial misrecognition of the pelargonium as a unique plant 
 
 <param ve-entity eid="Q165044" title="greenhouse">
 <param ve-entity eid="Q3446485" title="Rubens Peale">
-The _Pelargonium_ is a perennial bush that naturally occurs in temperate and tropical climates. For that reason, the first plants to reach Europe were cultivated in heated greenhouses to protect them from that region’s cold and frost.[^ref13] By the early 1800s, new technologies–both for fabricating iron and plate glass and for constructing buildings with these materials–fueled a fad among the social elite for purchasing domestic conservatories and exotic plants to display therein.[^ref14] Pelargoniums and early hybrids were an ideal choice for such spaces, serving as scientific specimens, exotic curiosities, status symbols, conversation pieces, and aesthetic objects.
+The _Pelargonium_ is a perennial bush that naturally occurs in temperate and tropical climates. For that reason, the first plants to reach Holland were cultivated in heated greenhouses to protect them from cold and frost.[^ref13] By the early 1800s, new technologies–both for fabricating iron and plate glass and for constructing buildings with these materials–fueled a fad among the social elite for purchasing domestic conservatories and exotic plants to display therein.[^ref14] Pelargoniums and early hybrids were an ideal choice for such spaces, serving as scientific specimens, exotic curiosities, status symbols, conversation pieces, and aesthetic objects.
 <param ve-image primary url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
 <param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
 
@@ -238,11 +238,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyMTU4MzgwLC05OTY3ODY4MDMsLTM4Mj
-UxMTU3NiwtMTU1MjQ3NDc4MywxNjQxMzEyNzYsMjI4NjQzNjUy
-LC0xNDc0NDI2NTYsLTQ3MjUyMDA2MiwtMjA2NDQ0NTg1NSw3OD
-A2ODk5MDAsLTgyMDY3ODkwMSwtNzEwODczOTg3LDM3MjU5NjUz
-OSwxMzM3Nzc2Njc1LDcwNDgyNDM1OCwtMjgwNTE1MDA4LC0xOT
-Y1OTAyNTc2LC0xODQxOTI4MDY1LDEyNDYxNjY5OTMsLTExNzQ0
-NDcwODNdfQ==
+eyJoaXN0b3J5IjpbLTIwMTA2MTY1MSw1OTIxNTgzODAsLTk5Nj
+c4NjgwMywtMzgyNTExNTc2LC0xNTUyNDc0NzgzLDE2NDEzMTI3
+NiwyMjg2NDM2NTIsLTE0NzQ0MjY1NiwtNDcyNTIwMDYyLC0yMD
+Y0NDQ1ODU1LDc4MDY4OTkwMCwtODIwNjc4OTAxLC03MTA4NzM5
+ODcsMzcyNTk2NTM5LDEzMzc3NzY2NzUsNzA0ODI0MzU4LC0yOD
+A1MTUwMDgsLTE5NjU5MDI1NzYsLTE4NDE5MjgwNjUsMTI0NjE2
+Njk5M119
 -->
