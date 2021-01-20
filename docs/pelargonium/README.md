@@ -23,7 +23,7 @@ However, you might be surprised to learn that the scarlet “geranium” with wh
 <param ve-image fit="contain" url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n120_w927" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Scarlet_geranium.jpg/1024px-Scarlet_geranium.jpg" title="Bedding pelargoniums with red flowers and zone-marked leaves are believed to have been derived from _Pelargonium inquinans_ and _Pelargonium zonale_, _Pelargonium inquinans_,2017, ViGA, Wikimedia Commons, CC BY-SA 4.0">
 
-So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to its uses in England, France, and Algeria during the long nineteenth century reveals how European breeders transformed the once-rarified exotic into a commercial ornamental plant and a profitable aromatic crop. Indeed, Dicken’s favored scarlet “geranium” was a marvel of the Victorian age with traits having been adapted to European aesthetic and olfactory sensibilities that bore little resemblance to its South African progenitors, making it a beloved garden flower of the masses today.
+So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to its uses in England, France, and Algeria during the long nineteenth century reveals that the modern pelargonium was an invention of the Industrial age. European breeders transformed the once-rare and -delicate exotic into a commercial ornamental plant or a profitable aromatic crop with aesthetic and fragrant traits that have enduring mass appeal.
 <param ve-image primary fit="contain" url="Pelargonium_LincolnPark_Chicago_LibCongress.jpg" title="A dazzling display of pelargoniums in flower beds and decorative pots, Keystone View Company, _Geraniums, Lincoln Park, Chicago, Ill., U.S.A._, c.1899, Library of Congress Prints and Photographs Division, LC-DIG-stereo-1s12488">
 <param ve-image fit="contain" url="Pelargoniums_RP-F-2013-85-14.jpg" title="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, glass, 90 x 120 mm, Rijksmuseum, public domain">
 <param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Pelargoniums bloom in garden vases, Bowood House, village of Derry Hill, England, alh1, 2015, Flickr, CC BY-NC-ND 2.0">
@@ -236,11 +236,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0ODI0MzU4LC0yODA1MTUwMDgsLTE5Nj
-U5MDI1NzYsLTE4NDE5MjgwNjUsMTI0NjE2Njk5MywtMTE3NDQ0
-NzA4MywyNTI0Mzg4NzksMTM0MzY3NTQ1NSwxNzYxMTkxNzk5LC
-04MTYyMTg2OTgsNDM0MDM5MDY3LC0yODA4NjczMjIsLTE0Mjgz
-ODEyNTAsLTE1NDYwMzAzMDcsLTE3ODYyOTIxMTAsLTc1NDAyOT
-UwNSwtMTQzNDYwOTg2OSwxNDI1NDQ0NjExLC02NjYzMjkzNDks
-LTE3NzU1ODQwOTNdfQ==
+eyJoaXN0b3J5IjpbMTMzNzc3NjY3NSw3MDQ4MjQzNTgsLTI4MD
+UxNTAwOCwtMTk2NTkwMjU3NiwtMTg0MTkyODA2NSwxMjQ2MTY2
+OTkzLC0xMTc0NDQ3MDgzLDI1MjQzODg3OSwxMzQzNjc1NDU1LD
+E3NjExOTE3OTksLTgxNjIxODY5OCw0MzQwMzkwNjcsLTI4MDg2
+NzMyMiwtMTQyODM4MTI1MCwtMTU0NjAzMDMwNywtMTc4NjI5Mj
+ExMCwtNzU0MDI5NTA1LC0xNDM0NjA5ODY5LDE0MjU0NDQ2MTEs
+LTY2NjMyOTM0OV19
 -->
