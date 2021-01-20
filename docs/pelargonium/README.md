@@ -176,7 +176,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref2]: Mamie Dickens, _My Father as I Recall Him_ (No place, unknown, or undetermined:  Roxburghe Press, 1896), 118, accessed January 20, 2021, [https://www.gutenberg.org/files/27234/27234-h/27234-h.htm](https://www.gutenberg.org/files/27234/27234-h/27234-h.htm).
 
-[^ref3]:  Ibid.
+[^ref3]: Ibid., 115.
 
 [^ref4]: Charles Dickens grew _P._ × _hortorum_ ‘Mrs. Pollock’ in pots and _P._ × _hortorum_ ‘General Tom Thumb’ in beds at Gad’s Hill Place. Hartley, “Dickens and the Geranium,” p. 6; Ide, Jennifer M. 2017. "A Rose for Charles Dickens." _The Dickensian_ 113 (501) (Spring): 35-36. http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/rose-charles-dickens/docview/2056424376/se-2?accountid=11311.
 
@@ -236,7 +236,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDQ2MTQ5MiwtMTk2NTkwMjU3NiwtMT
+eyJoaXN0b3J5IjpbMTQxMTg1NzY3MywtMTk2NTkwMjU3NiwtMT
 g0MTkyODA2NSwxMjQ2MTY2OTkzLC0xMTc0NDQ3MDgzLDI1MjQz
 ODg3OSwxMzQzNjc1NDU1LDE3NjExOTE3OTksLTgxNjIxODY5OC
 w0MzQwMzkwNjcsLTI4MDg2NzMyMiwtMTQyODM4MTI1MCwtMTU0
