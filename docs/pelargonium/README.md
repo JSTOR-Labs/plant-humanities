@@ -38,7 +38,7 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 <param ve-entity eid="Q3259077" title="heron"> 
 <param ve-entity eid="Q28507" title="Ciconiidae"> 
 The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the family Geraniaceae. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, to some degree, each other. The name _Pelargonium_ comes from the Greek _pelargos_ (“stork”), which alludes to the plant’s long, beak-shaped seedpods. Similarly, _Geranium_ from _géranos_ (“crane”) and _Erodium_ from _erodios_ (“heron”) describe columnar fruit capsules that are found in some species. The dried pelargonium specimen, at right, shows a cluster of columnar capsules that emerged from the center of flowers, where they aid in seed dispersal and reproduction.
-<param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="_Pelargonium alchemilloides_ (L.) L'Hér., Naturalis Biodiversity Center, Netherlands, ECCO">
+<param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="_Pelargonium alchemilloides_ (L.) L'Hér., Naturalis Biodiversity Center, Netherlands, Europeana Collections, CCO">
 
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
 <param ve-entity eid="Q687699" title="Nectary" aliases="nectaries"> 
@@ -235,11 +235,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3Mjc0MzIwLC04MjA2Nzg5MDEsLTcxMD
-g3Mzk4NywzNzI1OTY1MzksMTMzNzc3NjY3NSw3MDQ4MjQzNTgs
-LTI4MDUxNTAwOCwtMTk2NTkwMjU3NiwtMTg0MTkyODA2NSwxMj
-Q2MTY2OTkzLC0xMTc0NDQ3MDgzLDI1MjQzODg3OSwxMzQzNjc1
-NDU1LDE3NjExOTE3OTksLTgxNjIxODY5OCw0MzQwMzkwNjcsLT
-I4MDg2NzMyMiwtMTQyODM4MTI1MCwtMTU0NjAzMDMwNywtMTc4
-NjI5MjExMF19
+eyJoaXN0b3J5IjpbLTMzOTQzNDI0NiwtODIwNjc4OTAxLC03MT
+A4NzM5ODcsMzcyNTk2NTM5LDEzMzc3NzY2NzUsNzA0ODI0MzU4
+LC0yODA1MTUwMDgsLTE5NjU5MDI1NzYsLTE4NDE5MjgwNjUsMT
+I0NjE2Njk5MywtMTE3NDQ0NzA4MywyNTI0Mzg4NzksMTM0MzY3
+NTQ1NSwxNzYxMTkxNzk5LC04MTYyMTg2OTgsNDM0MDM5MDY3LC
+0yODA4NjczMjIsLTE0MjgzODEyNTAsLTE1NDYwMzAzMDcsLTE3
+ODYyOTIxMTBdfQ==
 -->
