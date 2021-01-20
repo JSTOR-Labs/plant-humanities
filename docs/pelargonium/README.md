@@ -24,9 +24,10 @@ However, you might be surprised to learn that the scarlet “geranium” with wh
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Scarlet_geranium.jpg/1024px-Scarlet_geranium.jpg" title="Bedding pelargoniums with red flowers and zone-marked leaves are believed to have been derived from _Pelargonium inquinans_ and _Pelargonium zonale_, _Pelargonium inquinans_,2017, ViGA, Wikimedia Commons, CC BY-SA 4.0">
 
 So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to its uses in England, France, and Algeria during the long nineteenth century reveals that the modern pelargonium was an invention of the Industrial age. European breeders transformed the once-rare and -delicate exotic into a commercial ornamental plant or a profitable aromatic crop with aesthetic and fragrant traits that have enduring mass appeal.
-<param ve-image primary fit="contain" url="Pelargoniums_RP-F-2013-85-14.jpg" title="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, glass, 90 x 120 mm, Rijksmuseum, public domain">
+<param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP232138.jpg" title="James Tissot, _Spring Morning_, c.1875, oil on canvas, 55.9 x 42.5 cm, Gift of Mrs. Charles Wrightsman, 2009, Metropolitan Museum of Art, public domain">
+<param ve-image fit="contain" url="Pelargoniums_RP-F-2013-85-14.jpg" title="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, glass, 90 x 120 mm, Rijksmuseum, public domain">
 <param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Pelargoniums bloom in garden vases, Bowood House, village of Derry Hill, England, alh1, 2015, Flickr, CC BY-NC-ND 2.0">
-<param ve-image fit="contain" url="Pelargonium_SanDiegoBotanicalGarden_Flickr.jpg" title="Pelargonium 'Arcturus', San Diego Botanic Garden, African Garden, cultivar413, 2019, Flickr, CC BY 2.0">
+
 
 ### Pelargonium Morphology: Seedpod and Flower
 
@@ -168,7 +169,6 @@ Today, pelargonium oil continues to be industrially produced in factories across
 
 Although the _Pelargonium_ by any other name would smell as sweet, our recognition of its unique identity is long overdue. Indeed, the _Pelargonium_’s almost-forgotten global history extremely rich blossoming as it does at the intersections of colonial trade, botany, agriculture, gardening, art, culture, and industry. Telling the story of the _Pelargonium_ as an entity separate from the _Geranium_, illuminates just some of the many ways in which it has been interwoven with human histories – hiding in plain sight, as it were, by virtue of its long-persisting misnomer.
 <param ve-image primary fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.highres" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), 1907-1920, photograph, Source gallica.bnf.fr / BnF">
-<param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP232138.jpg" title="James Tissot, _Spring Morning_, c.1875, oil on canvas, 55.9 x 42.5 cm, Gift of Mrs. Charles Wrightsman, 2009, Metropolitan Museum of Art, public domain">
 
 ### References
 [^ref1]: Jenny Hartley, “Dickens and the Geranium,” _The Dickensian_ 114, no. 504 (Spring 2018): 5–14, accessed January 20, 2021, [http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/dickens-geranium/docview/2056426823/se-2?accountid=11311](http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/dickens-geranium/docview/2056426823/se-2?accountid=11311).
@@ -235,11 +235,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyNTk2NTM5LDEzMzc3NzY2NzUsNzA0OD
-I0MzU4LC0yODA1MTUwMDgsLTE5NjU5MDI1NzYsLTE4NDE5Mjgw
-NjUsMTI0NjE2Njk5MywtMTE3NDQ0NzA4MywyNTI0Mzg4NzksMT
-M0MzY3NTQ1NSwxNzYxMTkxNzk5LC04MTYyMTg2OTgsNDM0MDM5
-MDY3LC0yODA4NjczMjIsLTE0MjgzODEyNTAsLTE1NDYwMzAzMD
-csLTE3ODYyOTIxMTAsLTc1NDAyOTUwNSwtMTQzNDYwOTg2OSwx
-NDI1NDQ0NjExXX0=
+eyJoaXN0b3J5IjpbLTcxMDg3Mzk4NywzNzI1OTY1MzksMTMzNz
+c3NjY3NSw3MDQ4MjQzNTgsLTI4MDUxNTAwOCwtMTk2NTkwMjU3
+NiwtMTg0MTkyODA2NSwxMjQ2MTY2OTkzLC0xMTc0NDQ3MDgzLD
+I1MjQzODg3OSwxMzQzNjc1NDU1LDE3NjExOTE3OTksLTgxNjIx
+ODY5OCw0MzQwMzkwNjcsLTI4MDg2NzMyMiwtMTQyODM4MTI1MC
+wtMTU0NjAzMDMwNywtMTc4NjI5MjExMCwtNzU0MDI5NTA1LC0x
+NDM0NjA5ODY5XX0=
 -->
