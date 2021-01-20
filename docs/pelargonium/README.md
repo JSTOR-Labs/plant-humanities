@@ -112,7 +112,7 @@ It was against this backdrop that bedding or zonal pelargoniums soon became the 
 <param ve-image fit="contain" url="https://ia801904.us.archive.org/BookReader/BookReaderImages.php?id=gardensEngland00Broo&itemPath=%2F12%2Fitems%2FgardensEngland00Broo&server=ia801904.us.archive.org&page=n8_w617" title="Title page, chromolithograph from Edward Adveno Brooke, _The Gardens of England_, London: T. McLean, [1858?],Smithsonian Libraries, Biodiversity Heritage Library">
 
 <param ve-entity eid="Q219217" title="tulip mania" aliases="tulipomania">
-The pelargonium was a favored plant of municipal gardeners because the hardy evergreen showed off its blooms for extended periods, flowering even in slightly chillier climates. More significantly, nursery owners adored the plant because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. Indeed, vendors were falling over one another to market the newest, most magnificent, and sweetest-smelling pelargoniums to meet the demand for the choicest blooms. Other factors contributing to the mania for the pelargonium were the arrival of mass-produced pots and planters for displaying ornamentals and, at least initially, excitement surrounding the exotic connotations of plant due to its Southern African provenance. Desire to obtain novel cultivars became so frenzied that some compared it to the infamous tulip-buying spree, known as “tulipomania,” that occurred in Holland in the 1630s.[^ref18]
+The pelargonium was a favored plant of gardeners because the hardy evergreen showed off its blooms for extended periods, flowering even in slightly chillier climates. More significantly, nursery owners adored the plant because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. Indeed, vendors were falling over one another to market the newest, most magnificent, and sweetest-smelling pelargoniums to meet the demand for the choicest blooms. Other factors contributing to the mania for the pelargonium were the arrival of mass-produced pots and planters for displaying ornamentals and, at least initially, excitement surrounding the exotic connotations of plant due to its Southern African provenance. Desire to obtain novel cultivars became so frenzied that some compared it to the infamous tulip-buying spree, known as “tulipomania,” that occurred in Holland in the 1630s.[^ref18]
 <param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:435776315" seq="21">
 <param ve-image
 title="The Victorian flower market" url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/THE_FLOWER_MARKET.jpg" fit="cover" attribution="Garden Musuem Collection">
@@ -241,11 +241,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4MDE4MzkzLDEyNTc0NjE1MTQsLTEwOD
-EzNDE5ODAsMjE4NDAxMDM3LDQzMzYxNDAzOCwyMjc0NTc2NTUs
-MzM2MDk5MjY2LC0xMzA5ODc2NDQyLDQwMzcxMDkyMiwxNDE4Nz
-gyOTgsLTE5Mzk4NDg2NjcsLTE1MzM4OTY2NDgsLTgwNDI0OTMx
-NSwtMjAxMDYxNjUxLDU5MjE1ODM4MCwtOTk2Nzg2ODAzLC0zOD
-I1MTE1NzYsLTE1NTI0NzQ3ODMsMTY0MTMxMjc2LDIyODY0MzY1
-Ml19
+eyJoaXN0b3J5IjpbMTAzNzk1ODMxNSwxMjU3NDYxNTE0LC0xMD
+gxMzQxOTgwLDIxODQwMTAzNyw0MzM2MTQwMzgsMjI3NDU3NjU1
+LDMzNjA5OTI2NiwtMTMwOTg3NjQ0Miw0MDM3MTA5MjIsMTQxOD
+c4Mjk4LC0xOTM5ODQ4NjY3LC0xNTMzODk2NjQ4LC04MDQyNDkz
+MTUsLTIwMTA2MTY1MSw1OTIxNTgzODAsLTk5Njc4NjgwMywtMz
+gyNTExNTc2LC0xNTUyNDc0NzgzLDE2NDEzMTI3NiwyMjg2NDM2
+NTJdfQ==
 -->
