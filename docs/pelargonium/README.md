@@ -84,7 +84,7 @@ In the wake of that initial misrecognition of the pelargonium as a unique plant 
 
 <param ve-entity eid="Q165044" title="greenhouse">
 <param ve-entity eid="Q3446485" title="Rubens Peale">
-The _Pelargonium_ is a perennial bush that naturally occurs in temperate and tropical climates. For that reason, the first plants to reach Holland were cultivated in heated greenhouses to protect them from cold and frost.[^ref13] By the early 1800s, new technologies–both for fabricating iron and plate glass and for constructing buildings with these materials–fueled a fad among a social elite for purchasing domestic conservatories and exotic plants to display therein.[^ref14] With a long bloom period pelargoniums and early hybrids were an ideal choice for such spaces, promoting a remarkable increase in their popularity at the time.
+The _Pelargonium_ is a perennial bush that naturally occurs in temperate and tropical climates. For that reason, the first plants to reach Holland were cultivated in heated greenhouses to protect them from that region’s cold and frost.[^ref13] By the early 1800s, new technologies–both for fabricating iron and plate glass and for constructing buildings with these materials–fueled a fad among the social elite for purchasing conservatories and exotic plants to display therein.[^ref14] Pelargoniums, which bloomed for long period and were easily hybridized, were an ideal choice for such spaces, promoting a remarkable increase in their popularity, especially florists or amateur plant breeders.
 <param ve-image primary url="Queen-Adelaide-Princess-Adelaide-of-Saxe-Meiningen.jpg" title="Pelargoniums were prized as scientific specimens, exotic curiosities, status symbols, conversation pieces, and aesthetic objects, all of which artists communicated in portraits of important plant collectors. Samuel William Reynolds, _Queen Adelaide (Princess Adelaide of Saxe-Meiningen)_, published 1831 by Martin Colnaghi, after Sir William Beechey, mezzotint, 644 x 435 mm (plate), National Portrait Gallery, London, CC BY-NC-ND 3.0">
 <param ve-image url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
 <param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
@@ -239,11 +239,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODc4Mjk4LC0xOTM5ODQ4NjY3LC0xNT
-MzODk2NjQ4LC04MDQyNDkzMTUsLTIwMTA2MTY1MSw1OTIxNTgz
-ODAsLTk5Njc4NjgwMywtMzgyNTExNTc2LC0xNTUyNDc0NzgzLD
-E2NDEzMTI3NiwyMjg2NDM2NTIsLTE0NzQ0MjY1NiwtNDcyNTIw
-MDYyLC0yMDY0NDQ1ODU1LDc4MDY4OTkwMCwtODIwNjc4OTAxLC
-03MTA4NzM5ODcsMzcyNTk2NTM5LDEzMzc3NzY2NzUsNzA0ODI0
-MzU4XX0=
+eyJoaXN0b3J5IjpbLTE2MjM4NzE3MDQsMTQxODc4Mjk4LC0xOT
+M5ODQ4NjY3LC0xNTMzODk2NjQ4LC04MDQyNDkzMTUsLTIwMTA2
+MTY1MSw1OTIxNTgzODAsLTk5Njc4NjgwMywtMzgyNTExNTc2LC
+0xNTUyNDc0NzgzLDE2NDEzMTI3NiwyMjg2NDM2NTIsLTE0NzQ0
+MjY1NiwtNDcyNTIwMDYyLC0yMDY0NDQ1ODU1LDc4MDY4OTkwMC
+wtODIwNjc4OTAxLC03MTA4NzM5ODcsMzcyNTk2NTM5LDEzMzc3
+NzY2NzVdfQ==
 -->
