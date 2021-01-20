@@ -96,7 +96,7 @@ The _Pelargonium_ is a perennial bush that naturally occurs in temperate and tro
 Another technology, the Wardian case, contributed to a tremendous expansion of ornamental plant trades in the early and mid-nineteenth century. The case or sealed glass container, invented by Nathaniel Bagshaw Ward, allowed plant collectors, horticulturalists, and others to transport live specimens intact during lengthy overseas voyages.[^ref15] ![Wardian case, Nathaniel Bagshaw Ward, _On the Growth of Plants in Closely Glazed Cases_](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_wardiancase_sm.jpg) {: .right} That advance in plant mobility made exotics more abundant, accessible, and affordable, increasing the popularity of gardening as a hobby for the upper and middle classes. The Wardian case had a knock-on effect in the domestic space as well. It enabled gardeners to cultivate exotic plants and mixed-species gardens indoors in such decorative glass furnishings.[^ref16] To meet this unprecedented demand for live plants, nursery owners of the midcentury developed the zonal pelargonium for bedding in gardens and, later, the regal for growing in domestic conservatories and the home. The marvelous, modern pelargonium—part natural wonder, part human invention—bloomed just as mass consumer culture embraced fresh flowers in nearly every aspect of daily life.
 <param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DT2030.jpg" title="Seymour Joseph Guy, The Contest for the Bouquet: The Family of Robert Gordon in Their New York Dining-Room, 1866, oil on canvas, 62.5 x 74.9 cm, Purchase, Gift of William E. Dodge, by exchange, and Lila Acheson Wallace Gift, 1992, Metropolitan Museum of Art, public domain">
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835246&t=w" title="_Wardian Case_, from Shirley Hibberd, _Rustic Adornments for Homes of Taste_, Groombridge, 1870, The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Picture Collection, New York Public Library, Public Domain">
-<param ve-image title="_A View in Our Stock House_, R. Vincent, Jr. & Sons Co., Henry G. Gilbert Nursery and Seed Trade Catalog Collection, _Descriptive Illustrated Geranium Catalogue: For Nineteen Hundred and Ten_, 1910, "geranium" catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
+<param ve-image title="_A View in Our Stock House_, R. Vincent, Jr. & Sons Co., Henry G. Gilbert Nursery and Seed Trade Catalog Collection, _Descriptive Illustrated Geranium Catalogue: For Nineteen Hundred and Ten_, 1910, U.S. Department of Agriculture, National Agricultural Library, Biodiversity Heritage Library" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270">
 
 
 ### Pelargonium-mania in the Victorian Era
@@ -239,11 +239,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyMDA2Niw0MzM2MTQwMzgsMjI3NDU3Nj
-U1LDMzNjA5OTI2NiwtMTMwOTg3NjQ0Miw0MDM3MTA5MjIsMTQx
-ODc4Mjk4LC0xOTM5ODQ4NjY3LC0xNTMzODk2NjQ4LC04MDQyND
-kzMTUsLTIwMTA2MTY1MSw1OTIxNTgzODAsLTk5Njc4NjgwMywt
-MzgyNTExNTc2LC0xNTUyNDc0NzgzLDE2NDEzMTI3NiwyMjg2ND
-M2NTIsLTE0NzQ0MjY1NiwtNDcyNTIwMDYyLC0yMDY0NDQ1ODU1
-XX0=
+eyJoaXN0b3J5IjpbMjE4NDAxMDM3LDQzMzYxNDAzOCwyMjc0NT
+c2NTUsMzM2MDk5MjY2LC0xMzA5ODc2NDQyLDQwMzcxMDkyMiwx
+NDE4NzgyOTgsLTE5Mzk4NDg2NjcsLTE1MzM4OTY2NDgsLTgwND
+I0OTMxNSwtMjAxMDYxNjUxLDU5MjE1ODM4MCwtOTk2Nzg2ODAz
+LC0zODI1MTE1NzYsLTE1NTI0NzQ3ODMsMTY0MTMxMjc2LDIyOD
+Y0MzY1MiwtMTQ3NDQyNjU2LC00NzI1MjAwNjIsLTIwNjQ0NDU4
+NTVdfQ==
 -->
