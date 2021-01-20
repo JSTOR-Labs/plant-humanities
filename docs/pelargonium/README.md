@@ -27,6 +27,8 @@ So how can we tell the history of the forgotten _Pelargonium_, a plant that is n
 <param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP232138.jpg" title="James Tissot, _Spring Morning_, c.1875, oil on canvas, 55.9 x 42.5 cm, Gift of Mrs. Charles Wrightsman, 2009, Metropolitan Museum of Art, public domain">
 <param ve-image fit="contain" url="Pelargoniums_RP-F-2013-85-14.jpg" title="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, glass, 90 x 120 mm, Rijksmuseum, public domain">
 <param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Pelargoniums bloom in garden vases, Bowood House, village of Derry Hill, England, alh1, 2015, Flickr, CC BY-NC-ND 2.0">
+<param ve-image
+url="https://upload.wikimedia.org/wikipedia/commons/3/37/Floriculture.jpg" title="A retail greenhouse section of a production greenhouse facility in northwest Ohio shows some of the diversity of floricultural plants produced in that region, 2007, Agricultural Research Service, United States Department of Agriculture, d786-2, public domain, Wikimedia">
 
 
 ### Pelargonium Morphology: Seedpod and Flower
@@ -95,8 +97,6 @@ Another technology, the Wardian case, contributed to a tremendous expansion of o
 <param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DT2030.jpg" title="Seymour Joseph Guy, The Contest for the Bouquet: The Family of Robert Gordon in Their New York Dining-Room, 1866, oil on canvas, 62.5 x 74.9 cm, Purchase, Gift of William E. Dodge, by exchange, and Lila Acheson Wallace Gift, 1992, Metropolitan Museum of Art, public domain">
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835246&t=w" title="Illustration of three Wardian cases in the domestic space, 1870">
 <param ve-image title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
-<param ve-image
-url="https://upload.wikimedia.org/wikipedia/commons/3/37/Floriculture.jpg" title="A retail greenhouse section of a production greenhouse facility in northwest Ohio shows some of the diversity of floricultural plants produced in that region, 2007, Agricultural Research Service, United States Department of Agriculture, d786-2, public domain, Wikimedia">
 
 
 ### Pelargonium-mania in the Victorian Era
@@ -239,11 +239,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjMxMTY2NywzMzYwOTkyNjYsLTEzMD
-k4NzY0NDIsNDAzNzEwOTIyLDE0MTg3ODI5OCwtMTkzOTg0ODY2
-NywtMTUzMzg5NjY0OCwtODA0MjQ5MzE1LC0yMDEwNjE2NTEsNT
-kyMTU4MzgwLC05OTY3ODY4MDMsLTM4MjUxMTU3NiwtMTU1MjQ3
-NDc4MywxNjQxMzEyNzYsMjI4NjQzNjUyLC0xNDc0NDI2NTYsLT
-Q3MjUyMDA2MiwtMjA2NDQ0NTg1NSw3ODA2ODk5MDAsLTgyMDY3
-ODkwMV19
+eyJoaXN0b3J5IjpbMjI3NDU3NjU1LDMzNjA5OTI2NiwtMTMwOT
+g3NjQ0Miw0MDM3MTA5MjIsMTQxODc4Mjk4LC0xOTM5ODQ4NjY3
+LC0xNTMzODk2NjQ4LC04MDQyNDkzMTUsLTIwMTA2MTY1MSw1OT
+IxNTgzODAsLTk5Njc4NjgwMywtMzgyNTExNTc2LC0xNTUyNDc0
+NzgzLDE2NDEzMTI3NiwyMjg2NDM2NTIsLTE0NzQ0MjY1NiwtND
+cyNTIwMDYyLC0yMDY0NDQ1ODU1LDc4MDY4OTkwMCwtODIwNjc4
+OTAxXX0=
 -->
