@@ -180,9 +180,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref5]: Anne Wilkinson, _The Passion for Pelargoniums_ (Stroud: The History Press, 2007), 4–8.
 
-[^ref6]: Wilkinson, The Passion for Pelargoniums_, pp. 13-21.
+[^ref6]: Ibid., 8.
 
-[^ref7]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
+[^ref7]: Ibid., 13-21.
+
+[^ref8]: Cynthia Houng, “Commelin’s Geranium,” _Flowers & Things_ (blog), August 20, 2010, [](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/) [https://hananomono.wordpress.com/2010/08/20/commelins-geranium/](https://hananomono.wordpress.com/2010/08/20/commelins-geranium/).
 
 [^ref8]: Sherard, William. _Schola botanica sive catalogus plantarum, quas ab aliquot annis in Horto Regio Parisiensis Studiosis indigitavit vir clarissimvs Joseph Pitton Tournefort, D. M. ut et Pauli Hermanni P.P. Paradisi Batavi prodromus, In quo Planta rariores omnes, in Batavorum Hortis hactenus cultae, & plurinam partem à nemine antea descriptae recensentur_. Amstelaedami: Apud Henricum Wetstenium, 1689. [https://bibdigital.rjb.csic.es/idurl/1/13582](https://bibdigital.rjb.csic.es/idurl/1/13582); Wilkinson, _The Passion for Pelargoniums_, pp. 21-22.
 
@@ -234,11 +236,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyNzA2MTU2LC00NzI1MjAwNjIsLTIwNj
-Q0NDU4NTUsNzgwNjg5OTAwLC04MjA2Nzg5MDEsLTcxMDg3Mzk4
-NywzNzI1OTY1MzksMTMzNzc3NjY3NSw3MDQ4MjQzNTgsLTI4MD
-UxNTAwOCwtMTk2NTkwMjU3NiwtMTg0MTkyODA2NSwxMjQ2MTY2
-OTkzLC0xMTc0NDQ3MDgzLDI1MjQzODg3OSwxMzQzNjc1NDU1LD
-E3NjExOTE3OTksLTgxNjIxODY5OCw0MzQwMzkwNjcsLTI4MDg2
-NzMyMl19
+eyJoaXN0b3J5IjpbLTcyOTgxMDYyOSwtNDcyNTIwMDYyLC0yMD
+Y0NDQ1ODU1LDc4MDY4OTkwMCwtODIwNjc4OTAxLC03MTA4NzM5
+ODcsMzcyNTk2NTM5LDEzMzc3NzY2NzUsNzA0ODI0MzU4LC0yOD
+A1MTUwMDgsLTE5NjU5MDI1NzYsLTE4NDE5MjgwNjUsMTI0NjE2
+Njk5MywtMTE3NDQ0NzA4MywyNTI0Mzg4NzksMTM0MzY3NTQ1NS
+wxNzYxMTkxNzk5LC04MTYyMTg2OTgsNDM0MDM5MDY3LC0yODA4
+NjczMjJdfQ==
 -->
