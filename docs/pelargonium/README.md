@@ -77,7 +77,7 @@ The nomenclature confusion surrounding pelargoniums started with the introductio
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], Jacques-Philippe Cornut, _Canadensium Plantarum_, Paris, Venundantur apud Simonem Le Moyne, 1635, Biblioteca Digital" caption="Cornut uses a naturalistic style to describe the plant’s feathery leaves, storksbill fruit capsules, five-petal flowers, and tuberous roots. Because the print lacks color, it is difficult to grasp why the sad pelargonium was named thusly for the dull hue of its foliage or flowers.">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_ has not been widely hybridized and cultural interest in the plant is limited mainly to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 
-In the wake of that initial nomenclature confusion, botanists of the seventeenth century struggled to disentangle the genera _Pelargonium_ and _Geranium_. For a more in-depth discussion of the nomenclature history of _Pelargonium_ see the interactive timeline, at right, which provides insights about why there is still confusion surrounding the name and taxonomic designation of pelargoniums.[^ref11]
+<![endif]--> In the wake of that initial nomenclature confusion, botanists of the seventeenth century struggled to disentangle the genera _Pelargonium_ and _Geranium_. The interactive timeline, at right, gives an overview of the nomenclature history of the _Pelargonium_, providing insights about why there is still confusion surrounding the name and taxonomic designation of pelargoniums[^ref11]
 <param ve-knightlab-timeline source="11nYkAFDtVbdE5tjZDSfYpv_8BXnmmjHc6uQRkwDHA3U&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
 ### Technology, Breeding, and the Modern Pelargonium
@@ -236,11 +236,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI0NzQ3ODMsMTY0MTMxMjc2LDIyOD
-Y0MzY1MiwtMTQ3NDQyNjU2LC00NzI1MjAwNjIsLTIwNjQ0NDU4
-NTUsNzgwNjg5OTAwLC04MjA2Nzg5MDEsLTcxMDg3Mzk4NywzNz
-I1OTY1MzksMTMzNzc3NjY3NSw3MDQ4MjQzNTgsLTI4MDUxNTAw
-OCwtMTk2NTkwMjU3NiwtMTg0MTkyODA2NSwxMjQ2MTY2OTkzLC
-0xMTc0NDQ3MDgzLDI1MjQzODg3OSwxMzQzNjc1NDU1LDE3NjEx
-OTE3OTldfQ==
+eyJoaXN0b3J5IjpbNDMxODk5MTQxLC0xNTUyNDc0NzgzLDE2ND
+EzMTI3NiwyMjg2NDM2NTIsLTE0NzQ0MjY1NiwtNDcyNTIwMDYy
+LC0yMDY0NDQ1ODU1LDc4MDY4OTkwMCwtODIwNjc4OTAxLC03MT
+A4NzM5ODcsMzcyNTk2NTM5LDEzMzc3NzY2NzUsNzA0ODI0MzU4
+LC0yODA1MTUwMDgsLTE5NjU5MDI1NzYsLTE4NDE5MjgwNjUsMT
+I0NjE2Njk5MywtMTE3NDQ0NzA4MywyNTI0Mzg4NzksMTM0MzY3
+NTQ1NV19
 -->
