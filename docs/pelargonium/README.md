@@ -103,7 +103,7 @@ Another technology, the Wardian case, contributed to a tremendous expansion of o
 
 <param ve-entity eid="Q182688" title="Victorian era" aliases="Victorian">
 <param ve-entity eid="Q444145" title="Bowood House">
-<param ve-entity eid="Q443909" title="Alton Towers" aliases="Alton Gardens">
+<param ve-entity eid="Q23928167" title="Alton Towers estate" aliases="Alton Gardens">
 It was against this backdrop that bedding or zonal pelargoniums soon became the mainstay of all municipal gardens in Victorian England. The 1837-volume of the magazine _[The Floricultural Cabinet](https://www.biodiversitylibrary.org/page/15889416)_ listed the best pelargoniums for bedding as one of the old faithful multipurpose plants.[^ref17] The ubiquity of the plant in public spaces is also celebrated in Edward Adveno Brooke’s 1858-book _[The Gardens of England](Edward%20Adveno%20Brooke,%20The%20Gardens%20of%20England,%20London:%20T.%20McLean,%20%5B1858?%5D,%20https://www.biodiversitylibrary.org/page/41414093.)_.[^ref18] As he explains, the bright scarlet pelargonium bloomed nearly everywhere from stone vases to flowerbeds and parterres. These locations, shown in illustrations from the book, at right, include the upper and lower terrace gardens of Bewood House, the colonnade of Alton Gardens, as well as the parterre of Harewood.
 <param ve-image primary fit="contain" url="Pelargonium_Bewood_BHL.jpg" title="Upper and lower terrace gardens of Bewood, scarlet pelargonium planted in stone vases and beds in _The gardens of England_, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="Pelargonium_AltonGardens_BHL.jpg" title="Colonnade of Alton Gardens, scarlet pelargonium planted in stone vases, in _The gardens of England_, Biodiversity Heritage Library">
@@ -240,11 +240,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODEzNDE5ODAsMjE4NDAxMDM3LDQzMz
-YxNDAzOCwyMjc0NTc2NTUsMzM2MDk5MjY2LC0xMzA5ODc2NDQy
-LDQwMzcxMDkyMiwxNDE4NzgyOTgsLTE5Mzk4NDg2NjcsLTE1Mz
-M4OTY2NDgsLTgwNDI0OTMxNSwtMjAxMDYxNjUxLDU5MjE1ODM4
-MCwtOTk2Nzg2ODAzLC0zODI1MTE1NzYsLTE1NTI0NzQ3ODMsMT
-Y0MTMxMjc2LDIyODY0MzY1MiwtMTQ3NDQyNjU2LC00NzI1MjAw
-NjJdfQ==
+eyJoaXN0b3J5IjpbMTc1ODU4NzQwMSwtMTA4MTM0MTk4MCwyMT
+g0MDEwMzcsNDMzNjE0MDM4LDIyNzQ1NzY1NSwzMzYwOTkyNjYs
+LTEzMDk4NzY0NDIsNDAzNzEwOTIyLDE0MTg3ODI5OCwtMTkzOT
+g0ODY2NywtMTUzMzg5NjY0OCwtODA0MjQ5MzE1LC0yMDEwNjE2
+NTEsNTkyMTU4MzgwLC05OTY3ODY4MDMsLTM4MjUxMTU3NiwtMT
+U1MjQ3NDc4MywxNjQxMzEyNzYsMjI4NjQzNjUyLC0xNDc0NDI2
+NTZdfQ==
 -->
