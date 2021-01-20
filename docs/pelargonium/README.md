@@ -103,7 +103,7 @@ Another technology, the Wardian case, contributed to a tremendous expansion of o
 
 <param ve-entity eid="Q182688" title="Victorian era" aliases="Victorian">
 <param ve-entity eid="Q444145" title="Bowood House">
-It was against this backdrop that bedding or zonal pelargoniums soon became the mainstay of all municipal gardens in Victorian England. The 1837-volume of the magazine _[The Floricultural Cabinet](https://www.biodiversitylibrary.org/page/15889416)_ listed the best pelargoniums for bedding as one of the old faithful multipurpose plants.[^ref16] The ubiquity of the plant in public spaces is also celebrated in Edward Adveno Brooke’s 1858-book _[The Gardens of England](Edward%20Adveno%20Brooke,%20The%20Gardens%20of%20England,%20London:%20T.%20McLean,%20%5B1858?%5D,%20https://www.biodiversitylibrary.org/page/41414093.)_.[^ref17] As he explains, the bright scarlet pelargonium bloomed nearly everywhere from stone vases to flowerbeds and parterres. These locations, shown in illustrations from the book, at right, include the upper and lower terrace gardens of Bewood House, the colonnade of Alton Gardens, as well as the parterre of Harewood.
+It was against this backdrop that bedding or zonal pelargoniums soon became the mainstay of all municipal gardens in Victorian England. The 1837-volume of the magazine _[The Floricultural Cabinet](https://www.biodiversitylibrary.org/page/15889416)_ listed the best pelargoniums for bedding as one of the old faithful multipurpose plants.[^ref17] The ubiquity of the plant in public spaces is also celebrated in Edward Adveno Brooke’s 1858-book _[The Gardens of England](Edward%20Adveno%20Brooke,%20The%20Gardens%20of%20England,%20London:%20T.%20McLean,%20%5B1858?%5D,%20https://www.biodiversitylibrary.org/page/41414093.)_.[^ref18] As he explains, the bright scarlet pelargonium bloomed nearly everywhere from stone vases to flowerbeds and parterres. These locations, shown in illustrations from the book, at right, include the upper and lower terrace gardens of Bewood House, the colonnade of Alton Gardens, as well as the parterre of Harewood.
 <param ve-image primary fit="contain" url="Pelargonium_Bewood_BHL.jpg" title="Upper and lower terrace gardens of Bewood, scarlet pelargonium planted in stone vases and beds in _The gardens of England_, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="Pelargonium_AltonGardens_BHL.jpg" title="Colonnade of Alton Gardens, scarlet pelargonium planted in stone vases, in _The gardens of England_, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="Pelargonium_ParterreHarewood_BHL.jpg" title="Parterre of Harewood, scarlet pelargonium planted in stone vases and parterres, in _The gardens of England_ Biodiversity Heritage Library">
@@ -239,11 +239,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxODgzNzkzLDIxODQwMTAzNyw0MzM2MT
-QwMzgsMjI3NDU3NjU1LDMzNjA5OTI2NiwtMTMwOTg3NjQ0Miw0
-MDM3MTA5MjIsMTQxODc4Mjk4LC0xOTM5ODQ4NjY3LC0xNTMzOD
-k2NjQ4LC04MDQyNDkzMTUsLTIwMTA2MTY1MSw1OTIxNTgzODAs
-LTk5Njc4NjgwMywtMzgyNTExNTc2LC0xNTUyNDc0NzgzLDE2ND
-EzMTI3NiwyMjg2NDM2NTIsLTE0NzQ0MjY1NiwtNDcyNTIwMDYy
-XX0=
+eyJoaXN0b3J5IjpbLTU3ODkyMDMwNSwyMTg0MDEwMzcsNDMzNj
+E0MDM4LDIyNzQ1NzY1NSwzMzYwOTkyNjYsLTEzMDk4NzY0NDIs
+NDAzNzEwOTIyLDE0MTg3ODI5OCwtMTkzOTg0ODY2NywtMTUzMz
+g5NjY0OCwtODA0MjQ5MzE1LC0yMDEwNjE2NTEsNTkyMTU4Mzgw
+LC05OTY3ODY4MDMsLTM4MjUxMTU3NiwtMTU1MjQ3NDc4MywxNj
+QxMzEyNzYsMjI4NjQzNjUyLC0xNDc0NDI2NTYsLTQ3MjUyMDA2
+Ml19
 -->
