@@ -91,7 +91,7 @@ The _Pelargonium_ is a perennial bush that naturally occurs in temperate and tro
 
 <param ve-entity eid="Q2779805" title="Wardian case">
 <param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
-Another technology, the Wardian case, contributed to a tremendous expansion of ornamental plant trades and made gardening affordable for the middle classes in the early and mid-nineteenth century. Nathaniel Bagshaw Ward invented this sealed glass container for transporting live specimens during overseas voyages.[^ref15] This advance in plant transport had a knock-on effect in the domestic space as well. It was now possible to cultivate exotic plants and mixed-species gardens indoors in such decorative glass furnishings.[^ref16] Capitalizing on an unprecedented demand for live plants, nurseries built sprawling industrial complexes to hybridize and mass-produce new varieties, such as bedding pelargoniums with double-flowers or zonal-marked leaves for gardens and later extra-showy ones with large flowers for domestic conservatories and interiors. The modern pelargonium—part natural wonder, part human invention—was tailor-made for the Victorian age.
+Another technology, the Wardian case, contributed to a tremendous expansion of ornamental plant trades in the early and mid-nineteenth century. The case or sealed glass container, invented by Nathaniel Bagshaw Ward, allowed plant collectors, horticulturalists, and others to transport live specimens intact during lengthy overseas voyages.[^ref15] That advance in plant mobility made exotics more abundant, accessible, and affordable, increasing the popularity of gardening as a hobby for the upper and middle classes. The case had a knock-on effect in the domestic space as well. It enabled gardeners to cultivate exotic plants and mixed-species gardens indoors in such decorative glass furnishings.[^ref16] To meet this unprecedented demand for live plants, nursery owners of the midcentury developed the zonal pelargonium for bedding in gardens and, later, the regal for growing in domestic conservatories and the home. The modern pelargonium—part natural wonder, part human invention—bloomed just as mass consumer culture embraced fresh flowers in nearly every aspect of daily life.
 <param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DT2030.jpg" title="Seymour Joseph Guy, The Contest for the Bouquet: The Family of Robert Gordon in Their New York Dining-Room, 1866, oil on canvas, 62.5 x 74.9 cm, Purchase, Gift of William E. Dodge, by exchange, and Lila Acheson Wallace Gift, 1992, Metropolitan Museum of Art, public domain">
 <param ve-image fit="contain" url="https://ia800604.us.archive.org/BookReader/BookReaderImages.php?id=ongrowthplantsc00ward&itemPath=%2F0%2Fitems%2Fongrowthplantsc00ward&server=ia800604.us.archive.org&page=n52_w325" title="An 1852 illustration of the Wardian case by Nathaniel Bagshaw Ward, the physician and botanist for whom the case was named, _On the Growth of Plants in Closely Glazed Cases_">
 <param ve-image title="Image of geranium “stock house” in 1910 geranium catalogue" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270" attribution="Biodiversity Heritage Library">
@@ -239,11 +239,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjM4NzE3MDQsMTQxODc4Mjk4LC0xOT
-M5ODQ4NjY3LC0xNTMzODk2NjQ4LC04MDQyNDkzMTUsLTIwMTA2
-MTY1MSw1OTIxNTgzODAsLTk5Njc4NjgwMywtMzgyNTExNTc2LC
-0xNTUyNDc0NzgzLDE2NDEzMTI3NiwyMjg2NDM2NTIsLTE0NzQ0
-MjY1NiwtNDcyNTIwMDYyLC0yMDY0NDQ1ODU1LDc4MDY4OTkwMC
-wtODIwNjc4OTAxLC03MTA4NzM5ODcsMzcyNTk2NTM5LDEzMzc3
-NzY2NzVdfQ==
+eyJoaXN0b3J5IjpbMTk0NDExNTg2NCwxNDE4NzgyOTgsLTE5Mz
+k4NDg2NjcsLTE1MzM4OTY2NDgsLTgwNDI0OTMxNSwtMjAxMDYx
+NjUxLDU5MjE1ODM4MCwtOTk2Nzg2ODAzLC0zODI1MTE1NzYsLT
+E1NTI0NzQ3ODMsMTY0MTMxMjc2LDIyODY0MzY1MiwtMTQ3NDQy
+NjU2LC00NzI1MjAwNjIsLTIwNjQ0NDU4NTUsNzgwNjg5OTAwLC
+04MjA2Nzg5MDEsLTcxMDg3Mzk4NywzNzI1OTY1MzksMTMzNzc3
+NjY3NV19
 -->
