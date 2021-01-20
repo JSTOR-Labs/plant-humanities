@@ -192,13 +192,13 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref11]: Jacques Philippe Cornut, _Canadensivm plantarvm, aliarúmque nondum editarum historia. Cui adiectum ad calcem Enchiridion botanicvm Parisiense, Continens Indicem Plantarum, quae in Pagis, Siluis Pratis, & Montosis iuxta Parisios locis nascuntur_ (Paris: Venundantur apud Simonem Le Moyne, viâ Iacobeâ, 1635), accessed January 20, 2021, [https://bibdigital.rjb.csic.es/idurl/1/13506](https://bibdigital.rjb.csic.es/idurl/1/13506).
 
-[^ref12]: The interactive timeline references the following sources: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753; Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.; Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.
+[^ref12]: The interactive timeline cite the following sources: Linné, Carl von, and Lars Salvius. _Species Plantarum_. Holmiae: Impensis Laurentii Salvii, 1753; Cabrini, Aloysio. _Boccone Museum rariorum plantarum: nominibus linnaei specificis_. 1791. RARE L-1-2. Dumbarton Oaks Research Library, Washington, D.C.; Sweet, Robert, and James Ridgway. _Geraniaceae_. London: Printed for James Ridgway, Piccadilly, 1820.
 
-[^ref12]: Wilkinson, _The Passion for Pelargoniums_, p. 8 and 22.
+[^ref13]: Wilkinson, _The Passion for Pelargoniums_, 8, 22.
 
-[^ref13]: Bernard Marrey and Jean-Pierre Monnet, _La grande histoire des serres & des jardins d'hiver: France 1780-1900_. Paris: Graphite, 1984, p. 51.
+[^ref14]: Bernard Marrey and Jean-Pierre Monnet, _La grande histoire des serres & des jardins d'hiver: France 1780-1900_ (Paris: Graphite, 1984), 51.
 
-[^ref14]: Keogh, Luke. _The Wardian Case: How a Simple Box Moved Plants and Saved the World_. University of Chicago Press, 2020; Luke Keogh, “The Wardian Case: How a Simple Box Moved the Plant Kingdom.” _Arnoldia_, vol. 74, no. 4, 2017, pp. 1-12.
+[^ref15]: Luke Keogh, _The Wardian Case: How a Simple Box Moved Plants and Saved the World_ (University of Chicago Press, 2020); Luke Keogh, “The Wardian Case: How a Simple Box Moved the Plant Kingdom,” _Arnoldia_, 74, no. 4 (2017): 1–12.
 
 [^ref15]: Lindsay Wells. "Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor." _Victorian Studies_ 60, no. 2 (2018): 158-70. Accessed January 11, 2021. http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02.
 
@@ -236,7 +236,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODQ2Njc3OCwtMTU1MjQ3NDc4MywxNj
+eyJoaXN0b3J5IjpbMTcyNzE0NjE1MSwtMTU1MjQ3NDc4MywxNj
 QxMzEyNzYsMjI4NjQzNjUyLC0xNDc0NDI2NTYsLTQ3MjUyMDA2
 MiwtMjA2NDQ0NTg1NSw3ODA2ODk5MDAsLTgyMDY3ODkwMSwtNz
 EwODczOTg3LDM3MjU5NjUzOSwxMzM3Nzc2Njc1LDcwNDgyNDM1
