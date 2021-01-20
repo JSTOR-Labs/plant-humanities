@@ -18,7 +18,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 <param ve-entity eid="Q157211" title="geranium" aliases="Geranium"> 
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
 <param ve-entity eid="Q18083598" title="Pelargonium inquinans" aliases="P. inquinans"> 
-However, you might be surprised to learn that the scarlet “geranium” with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one called _Pelargonium_ and was probably a bedding variety derived from _P. inquinans_, namely ‘Mrs. Pollock’ or ‘General Tom Thumb.’[^ref4] The misidentification of pelargoniums is common today because the genera _Pelargonium_ and _Geranium_ have been embroiled in a long history of taxonomic confusion dating back to the early 1600s. As the debate over how to classify pelargoniums roiled in botanical circles of the eighteenth and early nineteenth centuries, new horticultural technologies and breeding techniques led to an increase in the plant’s variety, accessibility, affordability, and popularity. By the mid-1800s, the public had grown accustomed to using the common name “geranium” for the plant, and for the most part, we continue to do so today.
+However, you might be surprised to learn that the scarlet “geranium” with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one called _Pelargonium_ and was probably a bedding variety derived from _P. inquinans_, namely ‘Mrs. Pollock’ or ‘General Tom Thumb.’[^ref4] The misidentification of pelargoniums is common today because the genera _Pelargonium_ and _Geranium_ have been embroiled in a long history of taxonomic confusion dating back to the early 1600s.[^ref5] As the debate over how to classify pelargoniums roiled in botanical circles of the eighteenth and early nineteenth centuries, new horticultural technologies and breeding techniques led to an increase in the plant’s variety, accessibility, affordability, and popularity. By the mid-1800s, the public had grown accustomed to using the common name “geranium” for the plant, and for the most part, we continue to do so today.
 <param ve-image fit="contain" primary url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n118_w1253" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n120_w927" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Scarlet_geranium.jpg/1024px-Scarlet_geranium.jpg" title="Bedding pelargoniums with red flowers and zone-marked leaves are believed to have been derived from _Pelargonium inquinans_ and _Pelargonium zonale_, _Pelargonium inquinans_,2017, ViGA, Wikimedia Commons, CC BY-SA 4.0">
@@ -56,7 +56,7 @@ Other morphological traits, however, distinguish members of the genera _Pelargon
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
-The _[Pelargonium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30302759-2)_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape Peninsula of present-day South Africa: a biodiversity hotspot. Given their concentration there, it is not surprising that Dutch traders, who first introduced pelargoniums to Europe in the early 1600s, harvested them from the Cape.[^ref5]
+The _[Pelargonium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30302759-2)_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape Peninsula of present-day South Africa: a biodiversity hotspot. Given their concentration there, it is not surprising that Dutch traders, who first introduced pelargoniums to Europe in the early 1600s, harvested them from the Cape.[^ref6]
 <param ve-map center="-7.347, 72.454" zoom="2.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -235,11 +235,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ0NDU4NTUsNzgwNjg5OTAwLC04Mj
-A2Nzg5MDEsLTcxMDg3Mzk4NywzNzI1OTY1MzksMTMzNzc3NjY3
-NSw3MDQ4MjQzNTgsLTI4MDUxNTAwOCwtMTk2NTkwMjU3NiwtMT
-g0MTkyODA2NSwxMjQ2MTY2OTkzLC0xMTc0NDQ3MDgzLDI1MjQz
-ODg3OSwxMzQzNjc1NDU1LDE3NjExOTE3OTksLTgxNjIxODY5OC
-w0MzQwMzkwNjcsLTI4MDg2NzMyMiwtMTQyODM4MTI1MCwtMTU0
-NjAzMDMwN119
+eyJoaXN0b3J5IjpbLTQ3MjUyMDA2MiwtMjA2NDQ0NTg1NSw3OD
+A2ODk5MDAsLTgyMDY3ODkwMSwtNzEwODczOTg3LDM3MjU5NjUz
+OSwxMzM3Nzc2Njc1LDcwNDgyNDM1OCwtMjgwNTE1MDA4LC0xOT
+Y1OTAyNTc2LC0xODQxOTI4MDY1LDEyNDYxNjY5OTMsLTExNzQ0
+NDcwODMsMjUyNDM4ODc5LDEzNDM2NzU0NTUsMTc2MTE5MTc5OS
+wtODE2MjE4Njk4LDQzNDAzOTA2NywtMjgwODY3MzIyLC0xNDI4
+MzgxMjUwXX0=
 -->
