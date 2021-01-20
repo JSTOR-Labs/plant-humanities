@@ -56,7 +56,7 @@ Other morphological traits, however, distinguish members of the genera _Pelargon
 <param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q258" title="South Africa">
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
-The _[Pelargonium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30302759-2)_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape Peninsula of present-day South Africa: a biodiversity hotspot. Given their concentration there, it is not surprising that Dutch traders, who first introduced pelargoniums to Europe in the early 1600s, harvested them from the Cape.[^ref6]
+The _[Pelargonium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30302759-2)_, which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. However, the great majority of these species are endemic to the Cape Peninsula of present-day South Africa: a biodiversity hotspot. Given their concentration there, it is not surprising that Dutch traders, who first introduced pelargoniums to Europe in the early seventeenth century, harvested them from the Cape.[^ref6]
 <param ve-map center="-7.347, 72.454" zoom="2.5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -65,7 +65,7 @@ The _[Pelargonium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
 <param ve-entity eid="Q43631" title="Leiden">
 <param ve-entity eid="Q3898876" title="Pelargonium cucullatum" aliases="P. cucullatum">
-Of the many _Pelargonium_ species native to the Cape Peninsula, _Pelargonium_ _triste_ was probably the first to reach Europe by the early 1600s.[^ref6] In 1672, several more species were collected—mostly from Table Mountain, on the Cape Peninsula—and shipped to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref7] Hermann is credited with collecting the first specimen of _P. cucullatum_ to reach Europe, and his 1689-book _[Paradisi Batavi Prodromus](https://bibdigital.rjb.csic.es/idurl/1/13582)_ lists an African geranium.[^ref8] Yet, some mystery surrounds the identities of these plants because there was not yet a standard language for naming them.
+Of the many _Pelargonium_ species native to Southern Africa, _Pelargonium_ _triste_ was probably the first to reach Europe by the early 1600s.[^ref6] In 1672, several more species were collected—mostly from Table Mountain, on the Cape Peninsula—and shipped to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref7] Hermann is credited with collecting the first specimen of _P. cucullatum_ to reach Europe, and his 1689-book _[Paradisi Batavi Prodromus](https://bibdigital.rjb.csic.es/idurl/1/13582)_ lists an African geranium.[^ref8] Yet, some mystery surrounds the identities of these plants because there was not yet a standard language for naming them.
 <param ve-map center="-24.569, 25.879" zoom="5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
@@ -235,11 +235,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjUyMDA2MiwtMjA2NDQ0NTg1NSw3OD
-A2ODk5MDAsLTgyMDY3ODkwMSwtNzEwODczOTg3LDM3MjU5NjUz
-OSwxMzM3Nzc2Njc1LDcwNDgyNDM1OCwtMjgwNTE1MDA4LC0xOT
-Y1OTAyNTc2LC0xODQxOTI4MDY1LDEyNDYxNjY5OTMsLTExNzQ0
-NDcwODMsMjUyNDM4ODc5LDEzNDM2NzU0NTUsMTc2MTE5MTc5OS
-wtODE2MjE4Njk4LDQzNDAzOTA2NywtMjgwODY3MzIyLC0xNDI4
-MzgxMjUwXX0=
+eyJoaXN0b3J5IjpbLTExNTk3NzU0MjQsLTQ3MjUyMDA2MiwtMj
+A2NDQ0NTg1NSw3ODA2ODk5MDAsLTgyMDY3ODkwMSwtNzEwODcz
+OTg3LDM3MjU5NjUzOSwxMzM3Nzc2Njc1LDcwNDgyNDM1OCwtMj
+gwNTE1MDA4LC0xOTY1OTAyNTc2LC0xODQxOTI4MDY1LDEyNDYx
+NjY5OTMsLTExNzQ0NDcwODMsMjUyNDM4ODc5LDEzNDM2NzU0NT
+UsMTc2MTE5MTc5OSwtODE2MjE4Njk4LDQzNDAzOTA2NywtMjgw
+ODY3MzIyXX0=
 -->
