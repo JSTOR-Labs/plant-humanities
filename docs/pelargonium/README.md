@@ -207,7 +207,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref16]: Lindsay Wells, “Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor,” _Victorian Studies_ 60, no. 2 (2018): 158–70, accessed January 11, 2021, [http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02](http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02).
 
-[^ref18]: Mr. Thomas Appleby, “Article IV.—On the Culture of Geraniums,” The Floricultural Cabinet and Florist's Magazine, 5 (1837): 8–10, [https://www.biodiversitylibrary.org/page/15889416](https://www.biodiversitylibrary.org/page/15889416); Taylor, _Visions of Loveliness_, 123–24.
+[^ref18]: Mr. Thomas Appleby, “Article IV.—On the Culture of Geraniums,” The Floricultural Cabinet and Florist's Magazine, 5 (1837): 8–10, [https://www.biodiversitylibrary.org/page/15889416](https://www.biodiversitylibrary.org/page/15889416); Wilkinson, _The Passion for Pelargoniums_, 123–24.
 
 [^ref19]: Edward Adveno Brooke, _The Gardens of England_ (London: T. McLean, [1858?]), accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/41414093](https://www.biodiversitylibrary.org/page/41414093).
 
@@ -243,7 +243,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref34]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU5Njc1NzQsODU5MTg1ODQ1LC03Nz
+eyJoaXN0b3J5IjpbLTExODczOTE1MTQsODU5MTg1ODQ1LC03Nz
 I2NzQwMjAsLTE4NTU3MjMyNjMsMTU1ODUwMjkzMywtMTY2MDI2
 NzI2OSw2MTMzNzIzNzQsMTA4MDIwMDc0OCwtNjUxNzY5Mzg5LC
 0zMzE2MzIzOCwxMzU1OTMwODI1LC0xNjMxMzg0NzQyLC0xOTU2
