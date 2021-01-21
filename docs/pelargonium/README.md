@@ -112,7 +112,7 @@ It was against this backdrop that bedding or zonal pelargoniums soon became the 
 <param ve-image fit="contain" url="https://ia801904.us.archive.org/BookReader/BookReaderImages.php?id=gardensEngland00Broo&itemPath=%2F12%2Fitems%2FgardensEngland00Broo&server=ia801904.us.archive.org&page=n8_w617" title="Title page, chromolithograph from Edward Adveno Brooke, _The Gardens of England_, London: T. McLean, [1858?],Smithsonian Libraries, Biodiversity Heritage Library">
 
 <param ve-entity eid="Q219217" title="tulip mania" aliases="tulipomania">
-Hardy zonal pelargoniums were a favored plant of gardeners because the evergreen shows off its blooms for extended periods, flowering even in slightly chilly climates.[^ref20] More significantly, nursery owners adored the plant because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. Indeed, vendors were falling over one another to market the newest, most magnificent, and sweetest-smelling pelargoniums to meet the demand for the choicest blooms. Other factors contributing to the mania for the pelargonium were the arrival of mass-produced pots and planters for displaying ornamentals and, at least initially, excitement surrounding the exotic connotations of plant due to its Southern African provenance. Desire to obtain novel cultivars became so frenzied that some compared it to the infamous tulip-buying spree, known as “tulipomania,” that occurred in Holland in the 1630s.[^ref21]
+Hardy zonal pelargoniums were a favored plant of gardeners because they show off their blooms for extended periods, flowering even in slightly chilly climates.[^ref20] More significantly, nursery owners adored the plant because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. Indeed, vendors were falling over one another to market the newest, most magnificent, and sweetest-smelling pelargoniums to meet the demand for the choicest blooms. Other factors contributing to the mania for the pelargonium were the arrival of mass-produced pots and planters for displaying ornamentals and, at least initially, excitement surrounding the exotic connotations of plant due to its Southern African provenance. Desire to obtain novel cultivars became so frenzied that some compared it to the infamous tulip-buying spree, known as “tulipomania,” that occurred in Holland in the 1630s.[^ref21]
 <param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:435776315" seq="21">
 <param ve-image
 title="The Victorian flower market" url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/THE_FLOWER_MARKET.jpg" fit="cover" attribution="Garden Musuem Collection">
@@ -243,11 +243,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref34]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzkwMjQ4NSwtNjUzODE2ODgwLDg2ND
-QyMzIwMywtNDk1NTUyOCwtMjEzMDkwMzIsODU5MTg1ODQ1LC03
-NzI2NzQwMjAsLTE4NTU3MjMyNjMsMTU1ODUwMjkzMywtMTY2MD
-I2NzI2OSw2MTMzNzIzNzQsMTA4MDIwMDc0OCwtNjUxNzY5Mzg5
-LC0zMzE2MzIzOCwxMzU1OTMwODI1LC0xNjMxMzg0NzQyLC0xOT
-U2NTg5ODU4LDEwMzcwMTM4NzYsNzU3Njg5NzA3LC0xNTMyNTI3
-MjMyXX0=
+eyJoaXN0b3J5IjpbMzA3NDkwNzQ2LDE3Nzc5MDI0ODUsLTY1Mz
+gxNjg4MCw4NjQ0MjMyMDMsLTQ5NTU1MjgsLTIxMzA5MDMyLDg1
+OTE4NTg0NSwtNzcyNjc0MDIwLC0xODU1NzIzMjYzLDE1NTg1MD
+I5MzMsLTE2NjAyNjcyNjksNjEzMzcyMzc0LDEwODAyMDA3NDgs
+LTY1MTc2OTM4OSwtMzMxNjMyMzgsMTM1NTkzMDgyNSwtMTYzMT
+M4NDc0MiwtMTk1NjU4OTg1OCwxMDM3MDEzODc2LDc1NzY4OTcw
+N119
 -->
