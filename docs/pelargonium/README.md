@@ -159,11 +159,11 @@ In 1847, the French perfume industries of Grasse, a leading center of perfume pr
 
 <param ve-entity eid="Q2344308" title="Boufarik">
 <param ve-entity eid="Q4092" title="Cape of Good Hope" aliases="Cap de Bonne Espérance">
-The Chiris company introduced a particular pelargonium hybrid, "_Geranium rosat_," to Boufarik, Algeria, selecting "a trentaine of wild Pelargonium species, from cells that are found most frequently in the Cap de Bonne Espérance region."[^ref34] That selection allowed the Chiris establishments to earn a stable profit.[^ref35] In 1865, Chiris built a 3,000 square meter factory in the Saint-Marguerite domain in Boufarik, which was first acquired in 1836. Its production was centered on _Pelargoniums_, orange trees, and other aromatic plants. However, the headquarters in Boufarik closed once it was nationalized in 1963, as did the other headquarters in the former European colonies.
+The Chiris. [^ref34] company introduced a particular pelargonium hybrid, "_Geranium rosat_," to Boufarik, Algeria, selecting "a trentaine of wild Pelargonium species, from cells that are found most frequently in the Cap de Bonne Espérance region."[^ref35] That selection allowed the Chiris establishments to earn a stable profit.[^ref36] In 1865, Chiris built a 3,000 square meter factory in the Saint-Marguerite domain in Boufarik, which was first acquired in 1836. Its production was centered on _Pelargoniums_, orange trees, and other aromatic plants. However, the headquarters in Boufarik closed once it was nationalized in 1963, as did the other headquarters in the former European colonies.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000417315">
 <param ve-storiiies id="091ed" title="Anonymous, photographs of pelargonium fields and floricultural industry, Algeria, Source gallica.bnf.fr / BnF">
 
-Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[^ref36] Significantly, the confusion surrounding pelargonium nomenclature in Europe contexts also exists in China. More than 50% of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You (Pelargonium Oil)_ in Chinese. It is said that the name _Tianzhu Kui_ was introduced by Junyu Zhang in 1933 based on his studies in Japan. The word _Tianzhu Kui_ is from _ゼラニウム_, which is pronounced as _Geranium_ in English.
+Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[^ref37] Significantly, the confusion surrounding pelargonium nomenclature in Europe contexts also exists in China. More than 50% of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You (Pelargonium Oil)_ in Chinese. It is said that the name _Tianzhu Kui_ was introduced by Junyu Zhang in 1933 based on his studies in Japan. The word _Tianzhu Kui_ is from _ゼラニウム_, which is pronounced as _Geranium_ in English.
 <param ve-map center="18.240663, 40.244245" zoom="2.9">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/djareid/Dumbarton-PH/master/industrial-oil.json" title="global geranium oil industries" active>
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Tianzhu_Kui.png" title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_ (_Pelargonium_) in Chinese. Jin, Jiancheng, and Xun Zhang. _Chinese Gongbi Line Drawing of Hundred Flowers (Autumn and Winter)_. Tianjin Yangliuqing Fine Arts Press. 2005.">
@@ -240,18 +240,20 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref33]: Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
-[^ref34]: Élie Maunier, _Les Plantes à Parfums des Colonies Françaises_ (Marseille: Institut colonial, 1932), accessed January 20, 2021, [http://www.manioc.org/patrimon/FRA12344](http://www.manioc.org/patrimon/FRA12344).
+[^ref34]: Mathilde Cocoual, “La famille Chiris: Des industriels en politique, une politique d’industriels?,” _Cahiers de la Mediterranee_ no. 92 (2016): 177-91, accessed January 21, 2021, [https://doi.org/10.4000/cdlm.8359](https://doi.org/10.4000/cdlm.8359).
 
-[^ref35]: _173J 0001. Domaine Sainte-Marguerite de l'entreprise Chiris à Boufarik (Algérie)_  [(FR-FRAD006 - FRAD006_ABEL)](https://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/FR-FRAD006/type/hg/id/FRAD006_ABEL/unitid/173J+0001+-+173J+0007).
+[^ref35]: Élie Maunier, _Les Plantes à Parfums des Colonies Françaises_ (Marseille: Institut colonial, 1932), accessed January 20, 2021, [http://www.manioc.org/patrimon/FRA12344](http://www.manioc.org/patrimon/FRA12344).
 
-[^ref36]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
+[^ref36]: _173J 0001. Domaine Sainte-Marguerite de l'entreprise Chiris à Boufarik (Algérie)_  [(FR-FRAD006 - FRAD006_ABEL)](https://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/FR-FRAD006/type/hg/id/FRAD006_ABEL/unitid/173J+0001+-+173J+0007).
+
+[^ref37]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5MjE3MTQwLC03NzY3MjY5MTEsLTQ3Nj
-EyNjM1MSwxOTQ5NDg0MDY3LDEzNzIyNTA5NCwtNTYwNzQ4MTUy
-LDE5NzQyNDQ4OTEsMzA3NDkwNzQ2LDE3Nzc5MDI0ODUsLTY1Mz
-gxNjg4MCw4NjQ0MjMyMDMsLTQ5NTU1MjgsLTIxMzA5MDMyLDg1
-OTE4NTg0NSwtNzcyNjc0MDIwLC0xODU1NzIzMjYzLDE1NTg1MD
-I5MzMsLTE2NjAyNjcyNjksNjEzMzcyMzc0LDEwODAyMDA3NDhd
+eyJoaXN0b3J5IjpbMTY2MDQ0MTg0Nyw5MTkyMTcxNDAsLTc3Nj
+cyNjkxMSwtNDc2MTI2MzUxLDE5NDk0ODQwNjcsMTM3MjI1MDk0
+LC01NjA3NDgxNTIsMTk3NDI0NDg5MSwzMDc0OTA3NDYsMTc3Nz
+kwMjQ4NSwtNjUzODE2ODgwLDg2NDQyMzIwMywtNDk1NTUyOCwt
+MjEzMDkwMzIsODU5MTg1ODQ1LC03NzI2NzQwMjAsLTE4NTU3Mj
+MyNjMsMTU1ODUwMjkzMywtMTY2MDI2NzI2OSw2MTMzNzIzNzRd
 fQ==
 -->
