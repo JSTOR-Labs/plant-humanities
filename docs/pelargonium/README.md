@@ -127,7 +127,7 @@ The _Pelargonium_, in all its many splendid aesthetic and aromatic varieties, ha
 
 <param ve-entity eid="Q655213" title="Leigh Hunt">
 <param ve-entity eid="Q5045123" title="Caroline Kirkland">
-The ubiquity of the _Pelargonium_ in the Victorian era soon began to carry a cultural significance all its own – and it was not always a positive one. In 1864’s _[The Book of Flowers](https://www.biodiversitylibrary.org/page/56679001)_, Caroline Kirkland follows the poet Leigh Hunt in describing the _Geranium_ (of course, really a _Pelargonium_) as a _genteel_ plant.[^ref23] She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel.”[^ref24] Although we may construe her comment as nothing more than an attestation to the _Pelargonium’s_ universal charms, her use of the word “genteel” takes on additional meaning when we consider the significance of the _Pelargonium_ in the context of working-class culture.
+The ubiquity of the _Pelargonium_ in the Victorian era soon began to carry a cultural significance all its own – and it was not always a positive one. In 1864’s _[The Book of Flowers](https://www.biodiversitylibrary.org/page/56679001)_, Caroline Kirkland follows the poet Leigh Hunt in describing the _Geranium_ (of course, really a _Pelargonium_) as a _genteel_ plant.[^ref24] She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel.”[^ref25] Although we may construe her comment as nothing more than an attestation to the _Pelargonium’s_ universal charms, her use of the word “genteel” takes on additional meaning when we consider the significance of the _Pelargonium_ in the context of working-class culture.
 <param ve-image primary fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Victorian_language_of_flowers_.jpg" title="The broad range of varieties and scents of _Pelargonium_ (under the name _Geranium_, of course) made it a favourite in the Victorian “language of flowers.” This concealed language allowed members of upper-class society to use specific flowers as a sort of code to pass on secret, often romantic, messages that they were forbidden from speaking aloud. Here, we can see that the scarlet Geranium (_P. inquinans_) means “comfort.” Excerpt from L. Burke’s _The Miniature Language of Flowers_, Biodiversity Heritage Library">
 
 <param ve-entity eid="Q452354" title="Gertrude Jekyll">
@@ -244,7 +244,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref35]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODczMzU1NTcsLTU2MDc0ODE1MiwxOT
+eyJoaXN0b3J5IjpbLTEzNjY4NTQyNDUsLTU2MDc0ODE1MiwxOT
 c0MjQ0ODkxLDMwNzQ5MDc0NiwxNzc3OTAyNDg1LC02NTM4MTY4
 ODAsODY0NDIzMjAzLC00OTU1NTI4LC0yMTMwOTAzMiw4NTkxOD
 U4NDUsLTc3MjY3NDAyMCwtMTg1NTcyMzI2MywxNTU4NTAyOTMz
