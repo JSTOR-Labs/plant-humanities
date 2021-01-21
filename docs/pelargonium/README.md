@@ -232,7 +232,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref30]: Adolphe Alphand and Émile Hochereau, _Les promenades de Paris: Histoire--description des embellissements--dépenses de création et d'entretien des Bois de Boulogne et de Vincennes, Champs-Élysées--Parcs--squares--boulevards--places plantées, Étude sur l'art des jardins et arboretum_, vols. 1 and 2 (Paris: J. Rothschild, 1867-73), [https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551](https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551); [https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453](https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453).
 
-[^ref31]: “Parmi les plantes qui produisent le plus d'effet, en massif, et qui supportent le mieux la pleine terre en été, on doit citer les variétés de Pélargoniums […].” (Among the plants that produce the most effect, in clumps, and that best support the open ground in summer, we must mention the varieties of Pelargoniums.) Alphand, _Les Promenades de Paris_, 64; Clare A. P. Willsdon, “‘Promenades et plantations’: Impressionism, Conservation and Haussmann’s Reinvention of Paris,” _Soil and Stone: Impressionism, Urbanism, Environment_, eds. Frances Fowle and Richard Thomson (Burlington, VT: Ashgate, 2003), 107–24.
+[^ref31]: “Parmi les plantes qui produisent le plus d'effet, en massif, et qui supportent le mieux la pleine terre en été, on doit citer les variétés de Pélargoniums […].” (Among the plants that produce the most effect, in clumps, and that best support the open ground in summer, we must mention the varieties of Pelargoniums […].) Alphand, _Les Promenades de Paris_, 64; Clare A. P. Willsdon, “‘Promenades et plantations’: Impressionism, Conservation and Haussmann’s Reinvention of Paris,” _Soil and Stone: Impressionism, Urbanism, Environment_, eds. Frances Fowle and Richard Thomson (Burlington, VT: Ashgate, 2003), 107–24.
 
 [^ref32]: Élie Maunier, _Les Plantes à Parfums des Colonies Françaises_ (Marseille: Institut colonial, 1932), accessed January 20, 2021, [http://www.manioc.org/patrimon/FRA12344](http://www.manioc.org/patrimon/FRA12344).
 
@@ -245,7 +245,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref36]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDA5MDkzMSwtNDc2MTI2MzUxLDE5ND
+eyJoaXN0b3J5IjpbLTc3NjcyNjkxMSwtNDc2MTI2MzUxLDE5ND
 k0ODQwNjcsMTM3MjI1MDk0LC01NjA3NDgxNTIsMTk3NDI0NDg5
 MSwzMDc0OTA3NDYsMTc3NzkwMjQ4NSwtNjUzODE2ODgwLDg2ND
 QyMzIwMywtNDk1NTUyOCwtMjEzMDkwMzIsODU5MTg1ODQ1LC03
