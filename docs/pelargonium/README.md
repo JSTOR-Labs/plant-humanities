@@ -154,7 +154,7 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-entity eid="Q34687" title="Rosa" aliases="roses">
 <param ve-entity eid="Q164306" title="Pelargonium graveolens" aliases="P. graveolens">
 <param ve-entity eid="Q149880" title="Pelargonium odoratissimum" aliases="P. odoratissimum">
-In 1847, the French perfume industries of Grasse, a leading center of perfume production, introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it. Algeria, under French rule since 1830, was considered an ideal place for growing this economic crop due to its warm arid and semi-arid climate and the low cost of colonial labor needed for the “preparation and planting of cuttings, weeding of fields, harvesting of the material to be distilled.”[^ref32] Perfumers selected pelargoniums because certain species, namely _Pelargonium graveolens_, _P. odoratissimum_, and _P. ‘Rosé’_, have a sweet aroma similar to roses, making them a cost-effective alternative to oil made from the real thing. Pelargonium oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant. It should be noted that not all pelargoniums smell, and some scented-leave varieties give off a pungent odor that some liken to fish or he-goat.[^ref33]
+Around 1850, the French perfume industries of Grasse, a leading center of perfume production, introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it.[^ref32] Algeria, under French rule since 1830, was considered an ideal place for growing this economic crop due to its warm arid and semi-arid climate and the low cost of colonial labor needed cultivate, harvest, and prepare the plants for distillation Perfumers selected pelargoniums because certain species, namely _Pelargonium graveolens_, _P. odoratissimum_, and _P. ‘Rosé’_, have a sweet aroma similar to roses, making them a cost-effective alternative to oil made from the real thing. Pelargonium oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant. It should be noted that not all pelargoniums smell, and some scented-leave varieties give off a pungent odor that some liken to fish or he-goat.[^ref33]
 <param ve-image primary fit="contain" url="Pelargonium_Chirismap_DavidRumsey.jpg" title="Gabriel Mazuyer, Georges Lecomte, Lucien Boucher, _Les etu A. Chiris s'installent dans le Monde entier_, 1931, published by Antoine Chiris, Paris, from David Rumsey Historical Map Collection">
 
 <param ve-entity eid="Q2344308" title="Boufarik">
@@ -249,11 +249,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref37]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1MTAzNjMxLC0yMTAwMzc1OTA4LC0xOD
-Q5NDIyNDEyLDE2MTEzOTc2OTksLTE1ODg4MzAyNTUsOTE5MjE3
-MTQwLC03NzY3MjY5MTEsLTQ3NjEyNjM1MSwxOTQ5NDg0MDY3LD
-EzNzIyNTA5NCwtNTYwNzQ4MTUyLDE5NzQyNDQ4OTEsMzA3NDkw
-NzQ2LDE3Nzc5MDI0ODUsLTY1MzgxNjg4MCw4NjQ0MjMyMDMsLT
-Q5NTU1MjgsLTIxMzA5MDMyLDg1OTE4NTg0NSwtNzcyNjc0MDIw
+eyJoaXN0b3J5IjpbMTM1OTcxNzE2OCwzNDUxMDM2MzEsLTIxMD
+AzNzU5MDgsLTE4NDk0MjI0MTIsMTYxMTM5NzY5OSwtMTU4ODgz
+MDI1NSw5MTkyMTcxNDAsLTc3NjcyNjkxMSwtNDc2MTI2MzUxLD
+E5NDk0ODQwNjcsMTM3MjI1MDk0LC01NjA3NDgxNTIsMTk3NDI0
+NDg5MSwzMDc0OTA3NDYsMTc3NzkwMjQ4NSwtNjUzODE2ODgwLD
+g2NDQyMzIwMywtNDk1NTUyOCwtMjEzMDkwMzIsODU5MTg1ODQ1
 XX0=
 -->
