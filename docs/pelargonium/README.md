@@ -69,7 +69,7 @@ The _[Pelargonium](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
 <param ve-entity eid="Q43631" title="Leiden">
 <param ve-entity eid="Q3898876" title="Pelargonium cucullatum" aliases="P. cucullatum">
-Of the many _Pelargonium_ species native to Southern Africa, _Pelargonium_ _triste_ was probably the first to reach Europe in the early 1600s.[^ref7] In 1672, several more species were collected—mostly from Table Mountain, on the Cape Peninsula—and shipped to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref8] Hermann is credited with introducing the first specimen of _P. cucullatum_, and his 1689-book _[Paradisi Batavi Prodromus](https://bibdigital.rjb.csic.es/idurl/1/13582)_ lists an “African geranium” or pelargonium.[^ref9] Yet, it is important to note that some mystery still surrounds the identities of these plants because there was not yet a standard language for naming them.
+Of the many _Pelargonium_ species native to Southern Africa, _Pelargonium_ _triste_ was probably the first to reach Europe in the early 1600s.[^ref7] In 1672, several more species were collected—mostly from Table Mountain, on the Cape Peninsula—and shipped to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India company (VOC).[^ref8] Hermann is credited with introducing  _P. cucullatum_ there, and his 1689-book _[Paradisi Batavi Prodromus](https://bibdigital.rjb.csic.es/idurl/1/13582)_ lists an “African geranium” or pelargonium.[^ref9] Yet, it is important to note that some mystery still surrounds the identities of these plants because there was not yet a standard language for naming them.
 <param ve-map center="-24.569, 25.879" zoom="5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/jstor-labs/plant-humanities/master/geojson/map.pelargonium.geojson" title="pelargonium" active>
 
@@ -243,11 +243,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjcxNTc1LC0xNjMxMzg0NzQyLC0xOT
-U2NTg5ODU4LDEwMzcwMTM4NzYsNzU3Njg5NzA3LC0xNTMyNTI3
-MjMyLC0xNjAyNDYyNjAzLC0xMzI0MjYxNDkxLDEwMzc5NTgzMT
-UsMTI1NzQ2MTUxNCwtMTA4MTM0MTk4MCwyMTg0MDEwMzcsNDMz
-NjE0MDM4LDIyNzQ1NzY1NSwzMzYwOTkyNjYsLTEzMDk4NzY0ND
-IsNDAzNzEwOTIyLDE0MTg3ODI5OCwtMTkzOTg0ODY2NywtMTUz
-Mzg5NjY0OF19
+eyJoaXN0b3J5IjpbLTE3MjI1NDI2MTcsLTE2MzEzODQ3NDIsLT
+E5NTY1ODk4NTgsMTAzNzAxMzg3Niw3NTc2ODk3MDcsLTE1MzI1
+MjcyMzIsLTE2MDI0NjI2MDMsLTEzMjQyNjE0OTEsMTAzNzk1OD
+MxNSwxMjU3NDYxNTE0LC0xMDgxMzQxOTgwLDIxODQwMTAzNyw0
+MzM2MTQwMzgsMjI3NDU3NjU1LDMzNjA5OTI2NiwtMTMwOTg3Nj
+Q0Miw0MDM3MTA5MjIsMTQxODc4Mjk4LC0xOTM5ODQ4NjY3LC0x
+NTMzODk2NjQ4XX0=
 -->
