@@ -159,7 +159,7 @@ In 1847, the French perfume industries of Grasse, a leading center of perfume pr
 
 <param ve-entity eid="Q2344308" title="Boufarik">
 <param ve-entity eid="Q4092" title="Cape of Good Hope" aliases="Cap de Bonne Espérance">
-The Chiris perfumerie, founded by Antoine Chiris in 1768, . [^ref34] company introduced a particular pelargonium hybrid, "_Geranium rosat_," to Boufarik, Algeria, selecting "a trentaine of wild Pelargonium species, from cells that are found most frequently in the Cap de Bonne Espérance region."[^ref35] That selection allowed the Chiris establishments to earn a stable profit.[^ref36] In 1865, Chiris built a 3,000 square meter factory in the Saint-Marguerite domain in Boufarik, which was first acquired in 1836. Its production was centered on _Pelargoniums_, orange trees, and other aromatic plants. However, the headquarters in Boufarik closed once it was nationalized in 1963, as did the other headquarters in the former European colonies.
+The Grasse Chiris perfumerie, founded by Antoine Chiris in 1768, originally specialized in the manufacture of soaps and perfumes from aromatic plants and other substances.[^ref34] company introduced a particular pelargonium hybrid, "_Geranium rosat_," to Boufarik, Algeria, selecting "a trentaine of wild Pelargonium species, from cells that are found most frequently in the Cap de Bonne Espérance region."[^ref35] That selection allowed the Chiris establishments to earn a stable profit.[^ref36] In 1865, Chiris built a 3,000 square meter factory in the Saint-Marguerite domain in Boufarik, which was first acquired in 1836. Its production was centered on _Pelargoniums_, orange trees, and other aromatic plants. However, the headquarters in Boufarik closed once it was nationalized in 1963, as did the other headquarters in the former European colonies.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000417315">
 <param ve-storiiies id="091ed" title="Anonymous, photographs of pelargonium fields and floricultural industry, Algeria, Source gallica.bnf.fr / BnF">
 
@@ -249,7 +249,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref37]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTAzMzM4OCwtMTU4ODgzMDI1NSw5MT
+eyJoaXN0b3J5IjpbMTQyODQ4ODkxOCwtMTU4ODgzMDI1NSw5MT
 kyMTcxNDAsLTc3NjcyNjkxMSwtNDc2MTI2MzUxLDE5NDk0ODQw
 NjcsMTM3MjI1MDk0LC01NjA3NDgxNTIsMTk3NDI0NDg5MSwzMD
 c0OTA3NDYsMTc3NzkwMjQ4NSwtNjUzODE2ODgwLDg2NDQyMzIw
