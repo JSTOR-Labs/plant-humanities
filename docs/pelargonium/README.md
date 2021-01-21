@@ -217,17 +217,17 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref22]: Shirley Hibberd, _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_ (London: Groombridge & Sons, 1875), accessed January 20, 2021, [https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up](https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up).
 
-[^ref23]: McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
+[^ref23]: Donald McDonald, _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_ (New York: Charles Scribner’s Sons, 1895), accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/43140016](https://www.biodiversitylibrary.org/page/43140016).
 
-[^ref24]: Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--. [https://www.biodiversitylibrary.org/page/56679001](https://www.biodiversitylibrary.org/page/56679001)
+[^ref24]: Caroline M. Kirkland, _The Book of Flowers_ (London: Saunders and Otley, 18--), accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/56679001](https://www.biodiversitylibrary.org/page/56679001).
 
-[^ref25]: Kirkland, _The Book of Flowers_, 73, [https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up](https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up)
+[^ref25]: Kirkland, _The Book of Flowers_, 73.
 
-[^ref26]: Jekyll, Gertrude. _Colour Schemes for the Flower Garden_. Country Life, 1919.
+[^ref26]: Gertrude Jekyll, _Colour Schemes for the Flower Garden_, 4th ed. (London: Country Life, 1919), accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/41413514](https://www.biodiversitylibrary.org/page/41413514).
 
-[^ref27]: Horwood, Catherine. _Potted History: The Story of Plants in the Home_. Quarto Group Inc, 2007.
+[^ref27]: Catherine Horwood, _Potted History: The Story of Plants in the Home_ (London: Frances Lincoln, 2007).
 
-[^ref28]: “genteel, adj. and n.” OED Online. Oxford University Press, June 2020. Web. 1 August 2020.
+[^ref28]: “genteel, adj. and n.” _OED Online_, Oxford University Press, June 2020. Web. 1 August 2020.
 
 [^ref29]: Colta Ives, _Public Parks, Private Gardens: From Paris to Provence_, New York: Metropolitan Museum of Art, 2018.
 
@@ -243,11 +243,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref34]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE4MjkyMzYsMzA3NDkwNzQ2LDE3Nz
-c5MDI0ODUsLTY1MzgxNjg4MCw4NjQ0MjMyMDMsLTQ5NTU1Mjgs
-LTIxMzA5MDMyLDg1OTE4NTg0NSwtNzcyNjc0MDIwLC0xODU1Nz
-IzMjYzLDE1NTg1MDI5MzMsLTE2NjAyNjcyNjksNjEzMzcyMzc0
-LDEwODAyMDA3NDgsLTY1MTc2OTM4OSwtMzMxNjMyMzgsMTM1NT
-kzMDgyNSwtMTYzMTM4NDc0MiwtMTk1NjU4OTg1OCwxMDM3MDEz
-ODc2XX0=
+eyJoaXN0b3J5IjpbMzM2ODkxMzA1LDMwNzQ5MDc0NiwxNzc3OT
+AyNDg1LC02NTM4MTY4ODAsODY0NDIzMjAzLC00OTU1NTI4LC0y
+MTMwOTAzMiw4NTkxODU4NDUsLTc3MjY3NDAyMCwtMTg1NTcyMz
+I2MywxNTU4NTAyOTMzLC0xNjYwMjY3MjY5LDYxMzM3MjM3NCwx
+MDgwMjAwNzQ4LC02NTE3NjkzODksLTMzMTYzMjM4LDEzNTU5Mz
+A4MjUsLTE2MzEzODQ3NDIsLTE5NTY1ODk4NTgsMTAzNzAxMzg3
+Nl19
 -->
