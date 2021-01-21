@@ -47,7 +47,7 @@ The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the famil
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
 <param ve-entity eid="Q687699" title="Nectary" aliases="nectaries"> 
 <param ve-entity eid="Q103129" title="stamen" aliases="stamens"> 
-Other morphological traits, however, distinguish members of the genera _Pelargonium_ and _Geranium_ from each other. As this diagram shows, several key differences can be observed by comparing the reproductive systems of the two plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. Another difference is that, while the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. Yet another divergence is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens. Finally, pelargonium flowers can be red, light yellow, mauve, pink, or white; however, those of geraniums can be dark blue, purple, pink, or white, and they are never scarlet.
+Other morphological traits, however, distinguish members of the genera _Pelargonium_ and _Geranium_ from each other. This diagram highlights several key differences that can be observed by comparing the reproductive systems of the two plants: the flowers. The _Pelargonium_ flower parts are arranged bilaterally around one axis making them quite distinct from the radially oriented ones of the _Geranium_. Another difference is that, while the _Geranium_ has five nectaries at the base of the petals, the _Pelargonium_ has only one embedded in the receptacle. Yet another divergence is the number of fertile stamens and their groupings. The _Pelargonium_ has between one and seven stamens, attached at the base; the _Geranium_, meanwhile, has either five or ten free stamens. Finally, pelargonium flowers can be red, light yellow, mauve, pink, or white; however, those of geraniums can be dark blue, purple, pink, or white, and they are never scarlet.
 <param ve-image layers url="https://free.iiifhosting.com/iiif/946417abf874969ccb7ed3e11de335c107f89d030c8a7d27fe55a2c9892bb2c1/info.json" title="Differences between Geranium and Pelargonium flowers, Verónica Matallana">
 <param ve-image url="https://free.iiifhosting.com/iiif/ba2f217efdf25d87a4fc0e79c0b096245ef26d4ebde668bd65af649d05b2deb1/info.json" title="“Géranium platypetalum” & “Pelargonium zonale Wild et hybrids,” _Atlas des plantes de jardins et d'appartements exotiques et européennes: 320 planches coloriées inédites, dessinées d'après nature, représentant 370 plantes, accompagnées d'un texte explicatif donnant la description, l'origine, le mode de culture, de multiplication et les usages des fleurs les plus généralement cultivées_, D. Bois, from Bibliothèque Nationale de France, département Sciences et techniques, 8-S-9126">
 
@@ -241,11 +241,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5MzQwNDE2LDE1NTg1MDI5MzMsLTE2Nj
-AyNjcyNjksNjEzMzcyMzc0LDEwODAyMDA3NDgsLTY1MTc2OTM4
-OSwtMzMxNjMyMzgsMTM1NTkzMDgyNSwtMTYzMTM4NDc0MiwtMT
-k1NjU4OTg1OCwxMDM3MDEzODc2LDc1NzY4OTcwNywtMTUzMjUy
-NzIzMiwtMTYwMjQ2MjYwMywtMTMyNDI2MTQ5MSwxMDM3OTU4Mz
-E1LDEyNTc0NjE1MTQsLTEwODEzNDE5ODAsMjE4NDAxMDM3LDQz
-MzYxNDAzOF19
+eyJoaXN0b3J5IjpbMTA5OTYyNzkwNCwxNTU4NTAyOTMzLC0xNj
+YwMjY3MjY5LDYxMzM3MjM3NCwxMDgwMjAwNzQ4LC02NTE3Njkz
+ODksLTMzMTYzMjM4LDEzNTU5MzA4MjUsLTE2MzEzODQ3NDIsLT
+E5NTY1ODk4NTgsMTAzNzAxMzg3Niw3NTc2ODk3MDcsLTE1MzI1
+MjcyMzIsLTE2MDI0NjI2MDMsLTEzMjQyNjE0OTEsMTAzNzk1OD
+MxNSwxMjU3NDYxNTE0LC0xMDgxMzQxOTgwLDIxODQwMTAzNyw0
+MzM2MTQwMzhdfQ==
 -->
