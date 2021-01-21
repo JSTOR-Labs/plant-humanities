@@ -152,17 +152,17 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-entity eid="Q262" title="Algeria">
 <param ve-entity eid="Q173705" title="Grasse">
 <param ve-entity eid="Q34687" title="Rosa" aliases="roses">
-In 1847, the French perfume industries of Grasse, including the company of Léon Chiris Léopold Chiris? , introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it. Algeria was considered an ideal place for doing so due to its warm arid and semi-arid climate and the low cost of colonial labor needed for the "preparation and planting of cuttings, weeding of fields, harvesting of the material to be distilled."[^ref31] Perfumers selected pelargoniums because most species have a sweet aroma similar to roses. Such oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant.
+In 1847, the French perfume industries of Grasse, including the company of Léon Chiris Léopold Chiris? , introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it. Algeria was considered an ideal place for doing so due to its warm arid and semi-arid climate and the low cost of colonial labor needed for the "preparation and planting of cuttings, weeding of fields, harvesting of the material to be distilled."[^ref32] Perfumers selected pelargoniums because most species have a sweet aroma similar to roses. Such oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant.
 <param ve-image primary fit="contain" url="Pelargonium_Chirismap_DavidRumsey.jpg" title="Gabriel Mazuyer, Georges Lecomte, Lucien Boucher, _Les etu A. Chiris s'installent dans le Monde entier_, 1931, published by Antoine Chiris, Paris, from David Rumsey Historical Map Collection">
 
 <param ve-entity eid="Q2344308" title="Boufarik">
 <param ve-entity eid="Q4092" title="Cape of Good Hope" aliases="Cap de Bonne Espérance">
-The Chiris company introduced a particular pelargonium hybrid, "_Geranium rosat_," to Boufarik, Algeria, selecting "a trentaine of wild Pelargonium species, from cells that are found most frequently in the Cap de Bonne Espérance region."[^ref32] That selection allowed the Chiris establishments to earn a stable profit. In 1865, Chiris built a 3,000 square meter factory in the Saint-Marguerite domain in Boufarik, which was first acquired in 1836. Its production was centered on _Pelargoniums_, orange trees, and other aromatic plants. However, the headquarters in Boufarik closed once it was nationalized in 1963, as did the other headquarters in the former European colonies.
+The Chiris company introduced a particular pelargonium hybrid, "_Geranium rosat_," to Boufarik, Algeria, selecting "a trentaine of wild Pelargonium species, from cells that are found most frequently in the Cap de Bonne Espérance region."[^ref33] That selection allowed the Chiris establishments to earn a stable profit. In 1865, Chiris built a 3,000 square meter factory in the Saint-Marguerite domain in Boufarik, which was first acquired in 1836. Its production was centered on _Pelargoniums_, orange trees, and other aromatic plants.[^ref34] However, the headquarters in Boufarik closed once it was nationalized in 1963, as did the other headquarters in the former European colonies.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000417315">
 <param ve-storiiies id="091ed" title="Anonymous, photographs of pelargonium fields and floricultural industry, Algeria, Source gallica.bnf.fr / BnF">
 
 
-Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[^ref33] Significantly, the confusion surrounding pelargonium nomenclature in Europe contexts also exists in China. More than 50% of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You (Pelargonium Oil)_ in Chinese. It is said that the name _Tianzhu Kui_ was introduced by Junyu Zhang in 1933 based on his studies in Japan. The word _Tianzhu Kui_ is from _ゼラニウム_, which is pronounced as _Geranium_ in English.
+Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[^ref35] Significantly, the confusion surrounding pelargonium nomenclature in Europe contexts also exists in China. More than 50% of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You (Pelargonium Oil)_ in Chinese. It is said that the name _Tianzhu Kui_ was introduced by Junyu Zhang in 1933 based on his studies in Japan. The word _Tianzhu Kui_ is from _ゼラニウム_, which is pronounced as _Geranium_ in English.
 <param ve-map center="18.240663, 40.244245" zoom="2.9">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/djareid/Dumbarton-PH/master/industrial-oil.json" title="global geranium oil industries" active>
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Tianzhu_Kui.png" title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_ (_Pelargonium_) in Chinese. Jin, Jiancheng, and Xun Zhang. _Chinese Gongbi Line Drawing of Hundred Flowers (Autumn and Winter)_. Tianjin Yangliuqing Fine Arts Press. 2005.">
@@ -244,11 +244,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref35]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTUxNDc2NSwtNTYwNzQ4MTUyLDE5Nz
-QyNDQ4OTEsMzA3NDkwNzQ2LDE3Nzc5MDI0ODUsLTY1MzgxNjg4
-MCw4NjQ0MjMyMDMsLTQ5NTU1MjgsLTIxMzA5MDMyLDg1OTE4NT
-g0NSwtNzcyNjc0MDIwLC0xODU1NzIzMjYzLDE1NTg1MDI5MzMs
-LTE2NjAyNjcyNjksNjEzMzcyMzc0LDEwODAyMDA3NDgsLTY1MT
-c2OTM4OSwtMzMxNjMyMzgsMTM1NTkzMDgyNSwtMTYzMTM4NDc0
-Ml19
+eyJoaXN0b3J5IjpbLTEwMzE0NzYzODMsLTU2MDc0ODE1MiwxOT
+c0MjQ0ODkxLDMwNzQ5MDc0NiwxNzc3OTAyNDg1LC02NTM4MTY4
+ODAsODY0NDIzMjAzLC00OTU1NTI4LC0yMTMwOTAzMiw4NTkxOD
+U4NDUsLTc3MjY3NDAyMCwtMTg1NTcyMzI2MywxNTU4NTAyOTMz
+LC0xNjYwMjY3MjY5LDYxMzM3MjM3NCwxMDgwMjAwNzQ4LC02NT
+E3NjkzODksLTMzMTYzMjM4LDEzNTU5MzA4MjUsLTE2MzEzODQ3
+NDJdfQ==
 -->
