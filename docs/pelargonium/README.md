@@ -17,8 +17,10 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 
 <param ve-entity eid="Q157211" title="geranium" aliases="Geranium"> 
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
-<param ve-entity eid="Q18083598" title="Pelargonium inquinans" aliases="P. inquinans"> 
-However, you might be surprised to learn that the scarlet “geranium” with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one called _Pelargonium_ and was probably a bedding variety derived from _P. inquinans_, namely ‘Mrs. Pollock’ or ‘General Tom Thumb.’[^ref4] The misidentification of pelargoniums is common today because the genera _Pelargonium_ and _Geranium_ have been embroiled in a long history of taxonomic confusion dating back to the early 1600s.[^ref5] As the debate over how to classify pelargoniums roiled in botanical circles of the eighteenth and early nineteenth centuries, new horticultural technologies and breeding techniques led to an increase in the plant’s variety, accessibility, affordability, and popularity. By the mid-1800s, the public had grown accustomed to using the common name “geranium” for the plant, and for the most part, we continue to do so today.
+<param ve-entity eid="Q4886" title="# cultivar (Q4886)" aliases="P. inquinans">
+<param ve-entity eid="Q3898877" title="Pelargonium zonale" aliases="P. inquinans">
+<param ve-entity eid="Q18083598" title="Pelargonium inquinans" aliases="P. inquinans">
+However, you might be surprised to learn that the scarlet “geranium” with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one called _Pelargonium_ and was a bedding variety derived from _P. inquinans_ and _P. zonale_, probably the cultivar ‘Mrs. Pollock’ or ‘General Tom Thumb.’^ref4] The misidentification of pelargoniums is common today because the genera _Pelargonium_ and _Geranium_ have been embroiled in a long history of taxonomic confusion dating back to the early 1600s.[^ref5] As the debate over how to classify pelargoniums roiled in botanical circles of the eighteenth and early nineteenth centuries, new horticultural technologies and breeding techniques led to an increase in the plant’s variety, accessibility, affordability, and popularity. By the mid-1800s, the public had grown accustomed to using the common name “geranium” for the plant, and for the most part, we continue to do so today.
 <param ve-image fit="contain" primary url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n118_w1253" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n120_w927" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Scarlet_geranium.jpg/1024px-Scarlet_geranium.jpg" title="Bedding pelargoniums with red flowers and zone-marked leaves are believed to have been derived from _Pelargonium inquinans_ and _Pelargonium zonale_, _Pelargonium inquinans_,2017, ViGA, Wikimedia Commons, CC BY-SA 4.0">
@@ -241,11 +243,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI0NjI2MDMsLTEzMjQyNjE0OTEsMT
-AzNzk1ODMxNSwxMjU3NDYxNTE0LC0xMDgxMzQxOTgwLDIxODQw
-MTAzNyw0MzM2MTQwMzgsMjI3NDU3NjU1LDMzNjA5OTI2NiwtMT
-MwOTg3NjQ0Miw0MDM3MTA5MjIsMTQxODc4Mjk4LC0xOTM5ODQ4
-NjY3LC0xNTMzODk2NjQ4LC04MDQyNDkzMTUsLTIwMTA2MTY1MS
-w1OTIxNTgzODAsLTk5Njc4NjgwMywtMzgyNTExNTc2LC0xNTUy
-NDc0NzgzXX0=
+eyJoaXN0b3J5IjpbLTE1NTY0Mzg2NCwtMTYwMjQ2MjYwMywtMT
+MyNDI2MTQ5MSwxMDM3OTU4MzE1LDEyNTc0NjE1MTQsLTEwODEz
+NDE5ODAsMjE4NDAxMDM3LDQzMzYxNDAzOCwyMjc0NTc2NTUsMz
+M2MDk5MjY2LC0xMzA5ODc2NDQyLDQwMzcxMDkyMiwxNDE4Nzgy
+OTgsLTE5Mzk4NDg2NjcsLTE1MzM4OTY2NDgsLTgwNDI0OTMxNS
+wtMjAxMDYxNjUxLDU5MjE1ODM4MCwtOTk2Nzg2ODAzLC0zODI1
+MTE1NzZdfQ==
 -->
