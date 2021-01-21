@@ -201,51 +201,53 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref14]: Bernard Marrey and Jean-Pierre Monnet, _La grande histoire des serres & des jardins d'hiver: France 1780-1900_ (Paris: Graphite, 1984), 51.
 
+[^ref15]: Judith M. Taylor, _Visions of Loveliness_ (Athens, OH: Ohio University Press, 2014), 368.
+
 [^ref15]: Luke Keogh, _The Wardian Case: How a Simple Box Moved Plants and Saved the World_ (University of Chicago Press, 2020); Luke Keogh, “The Wardian Case: How a Simple Box Moved the Plant Kingdom,” _Arnoldia_, 74, no. 4 (2017): 1–12.
 
 [^ref16]: Lindsay Wells, “Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor,” _Victorian Studies_ 60, no. 2 (2018): 158–70, accessed January 11, 2021, [http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02](http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02).
 
-[^ref17]: Mr. Thomas Appleby, “Article IV.—On the Culture of Geraniums,” The Floricultural Cabinet and Florist's Magazine, 5 (1837): 8–10, [https://www.biodiversitylibrary.org/page/15889416](https://www.biodiversitylibrary.org/page/15889416).
+[^ref18]: Mr. Thomas Appleby, “Article IV.—On the Culture of Geraniums,” The Floricultural Cabinet and Florist's Magazine, 5 (1837): 8–10, [https://www.biodiversitylibrary.org/page/15889416](https://www.biodiversitylibrary.org/page/15889416).
 
-[^ref18]: Edward Adveno Brooke, _The Gardens of England_ (London: T. McLean, [1858?]), accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/41414093](https://www.biodiversitylibrary.org/page/41414093).
+[^ref19]: Edward Adveno Brooke, _The Gardens of England_ (London: T. McLean, [1858?]), accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/41414093](https://www.biodiversitylibrary.org/page/41414093).
 
-[^ref19]: Wilkinson, _The Passion for Pelargoniums_, XX.
+[^ref20]: Wilkinson, _The Passion for Pelargoniums_, XX.
 
-[^ref18]: Hibberd, Shirley. “Lecture on the Pelargonium.” _The Journal of Horticulture_, 1880, pp. 14, 74-75.
+[^ref21]: Hibberd, Shirley. “Lecture on the Pelargonium.” _The Journal of Horticulture_, 1880, pp. 14, 74-75.
 
-[^ref19]: Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875. [https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up](https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up)
+[^ref22]: Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875. [https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up](https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up)
 
-[^ref20]: McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
+[^ref23]: McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
 
-[^ref21]: Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--. [https://www.biodiversitylibrary.org/page/56679001](https://www.biodiversitylibrary.org/page/56679001)
+[^ref24]: Kirkland, Caroline M. _The Book of Flowers_, Saunders and Otley, 18--. [https://www.biodiversitylibrary.org/page/56679001](https://www.biodiversitylibrary.org/page/56679001)
 
-[^ref22]: Kirkland, _The Book of Flowers_, 73, [https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up](https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up)
+[^ref25]: Kirkland, _The Book of Flowers_, 73, [https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up](https://www.biodiversitylibrary.org/item/256831#page/91/mode/1up)
 
-[^ref23]: Jekyll, Gertrude. _Colour Schemes for the Flower Garden_. Country Life, 1919.
+[^ref26]: Jekyll, Gertrude. _Colour Schemes for the Flower Garden_. Country Life, 1919.
 
-[^ref24]: Horwood, Catherine. _Potted History: The Story of Plants in the Home_. Quarto Group Inc, 2007.
+[^ref27]: Horwood, Catherine. _Potted History: The Story of Plants in the Home_. Quarto Group Inc, 2007.
 
-[^ref25]: “genteel, adj. and n.” OED Online. Oxford University Press, June 2020. Web. 1 August 2020.
+[^ref28]: “genteel, adj. and n.” OED Online. Oxford University Press, June 2020. Web. 1 August 2020.
 
-[^ref26]: Colta Ives, _Public Parks, Private Gardens: From Paris to Provence_, New York: Metropolitan Museum of Art, 2018.
+[^ref29]: Colta Ives, _Public Parks, Private Gardens: From Paris to Provence_, New York: Metropolitan Museum of Art, 2018.
 
-[^ref27]: A. Alphand and E. Hochereau,  _Les promenades de Paris: Histoire--description des embellissements--dépenses de création et d'entretien des Bois de Boulogne et de Vincennes, Champs-Élysées--Parcs--squares--boulevards--places plantées, Étude sur l'art des jardins et arboretum_, vol. 1 and 2, Paris: J. Rothschild, 1873),[https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551](https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551) [https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453](https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453)
+[^ref30]: A. Alphand and E. Hochereau,  _Les promenades de Paris: Histoire--description des embellissements--dépenses de création et d'entretien des Bois de Boulogne et de Vincennes, Champs-Élysées--Parcs--squares--boulevards--places plantées, Étude sur l'art des jardins et arboretum_, vol. 1 and 2, Paris: J. Rothschild, 1873),[https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551](https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551) [https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453](https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453)
 
-[^ref28]: “Parmi les plantes qui produisent le plus d'effet, en massif, et qui supportent le mieux la pleine terre en été, on doit citer les variétés de Pélargoniums […].” (Among the plants that produce the most effect, in clumps, and that best support the open ground in summer, we must mention the varieties of Pelargoniums.) Alphand, _Les Promenades de Paris_ p.64,
+[^ref31]: “Parmi les plantes qui produisent le plus d'effet, en massif, et qui supportent le mieux la pleine terre en été, on doit citer les variétés de Pélargoniums […].” (Among the plants that produce the most effect, in clumps, and that best support the open ground in summer, we must mention the varieties of Pelargoniums.) Alphand, _Les Promenades de Paris_ p.64,
 [https://bibliotheque-numerique.inha.fr/viewer/17295/?offset=#page=142&viewer=picture&o=bookmark&n=0&q=](https://bibliotheque-numerique.inha.fr/viewer/17295/?offset=#page=142&viewer=picture&o=bookmark&n=0&q=); Clare A. P. Willsdon, _“‘Promenades et plantations’: Impressionism, Conservation and Haussmann’s Reinvention of Paris,” _Soil and Stone: Impressionism, Urbanism, Environment_, eds. Frances Fowle and Richard Thomson, Burlington, VT: Ashgate, 2003, 107–24.
 
-[^ref29]: CIT
+[^ref32]: CIT
 
-[^ref30]: CIT
+[^ref33]: CIT
 
-[^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
+[^ref34]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTU5MzQzNiwtNzcyNjc0MDIwLC0xOD
-U1NzIzMjYzLDE1NTg1MDI5MzMsLTE2NjAyNjcyNjksNjEzMzcy
-Mzc0LDEwODAyMDA3NDgsLTY1MTc2OTM4OSwtMzMxNjMyMzgsMT
-M1NTkzMDgyNSwtMTYzMTM4NDc0MiwtMTk1NjU4OTg1OCwxMDM3
-MDEzODc2LDc1NzY4OTcwNywtMTUzMjUyNzIzMiwtMTYwMjQ2Mj
-YwMywtMTMyNDI2MTQ5MSwxMDM3OTU4MzE1LDEyNTc0NjE1MTQs
-LTEwODEzNDE5ODBdfQ==
+eyJoaXN0b3J5IjpbODU5MTg1ODQ1LC03NzI2NzQwMjAsLTE4NT
+U3MjMyNjMsMTU1ODUwMjkzMywtMTY2MDI2NzI2OSw2MTMzNzIz
+NzQsMTA4MDIwMDc0OCwtNjUxNzY5Mzg5LC0zMzE2MzIzOCwxMz
+U1OTMwODI1LC0xNjMxMzg0NzQyLC0xOTU2NTg5ODU4LDEwMzcw
+MTM4NzYsNzU3Njg5NzA3LC0xNTMyNTI3MjMyLC0xNjAyNDYyNj
+AzLC0xMzI0MjYxNDkxLDEwMzc5NTgzMTUsMTI1NzQ2MTUxNCwt
+MTA4MTM0MTk4MF19
 -->
