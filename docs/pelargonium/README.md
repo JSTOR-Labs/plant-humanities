@@ -20,7 +20,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 <param ve-entity eid="Q4886" title="cultivar">
 <param ve-entity eid="Q3898877" title="Pelargonium zonale" aliases="P. zonale">
 <param ve-entity eid="Q18083598" title="Pelargonium inquinans" aliases="P. inquinans">
-However, you might be surprised to learn that the scarlet “geranium” with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one called _Pelargonium_ and was a bedding variety derived from _P. inquinans_ and _P. zonale_, probably the cultivar ‘Mrs. Pollock’ or ‘General Tom Thumb.’[^ref4] The misidentification of pelargoniums is common today because the plant has been confused for a geranium since its introduction to Europe in the early 1600s.[^ref5] As the debate over how to classify pelargoniums roiled in botanical circles of the eighteenth and early nineteenth centuries, new horticultural technologies and breeding techniques led to an increase in the number of plants and their popularity. By the mid-1800s, the public had grown accustomed to using the common name “geranium” for the pelargonium, and for the most part, we continue to do so today.
+However, you might be surprised to learn that the scarlet “geranium” with which Dickens was so enamored was not a member of the genus _Geranium_. In fact, it belonged to an altogether different one called _Pelargonium_ and was a bedding variety derived from _P. inquinans_ and _P. zonale_, probably the cultivar ‘Mrs. Pollock’ or ‘General Tom Thumb.’[^ref4]  The misidentification of the _Pelargonium_ is common today because the plant has been confused for the _Geranium_ since its introduction to Europe in the early 1600s.[^ref5] As the debate over how to classify pelargoniums roiled in botanical circles of the eighteenth and early nineteenth centuries, new horticultural technologies and breeding techniques led to an astounding increase in the number of hybrids commercially available and their popularity soared. By the mid-1800s, the public had grown accustomed to using the common name “geranium” for the pelargonium, and for the most part, we continue to do so today.
 <param ve-image fit="contain" primary url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n118_w1253" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n120_w927" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Scarlet_geranium.jpg/1024px-Scarlet_geranium.jpg" title="Bedding pelargoniums with red flowers and zone-marked leaves are believed to have been derived from _Pelargonium inquinans_ and _Pelargonium zonale_, _Pelargonium inquinans_,2017, ViGA, Wikimedia Commons, CC BY-SA 4.0">
@@ -241,11 +241,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAyNjcyNjksNjEzMzcyMzc0LDEwOD
-AyMDA3NDgsLTY1MTc2OTM4OSwtMzMxNjMyMzgsMTM1NTkzMDgy
-NSwtMTYzMTM4NDc0MiwtMTk1NjU4OTg1OCwxMDM3MDEzODc2LD
-c1NzY4OTcwNywtMTUzMjUyNzIzMiwtMTYwMjQ2MjYwMywtMTMy
-NDI2MTQ5MSwxMDM3OTU4MzE1LDEyNTc0NjE1MTQsLTEwODEzND
-E5ODAsMjE4NDAxMDM3LDQzMzYxNDAzOCwyMjc0NTc2NTUsMzM2
-MDk5MjY2XX0=
+eyJoaXN0b3J5IjpbLTcxMjUzNzk2MiwtMTY2MDI2NzI2OSw2MT
+MzNzIzNzQsMTA4MDIwMDc0OCwtNjUxNzY5Mzg5LC0zMzE2MzIz
+OCwxMzU1OTMwODI1LC0xNjMxMzg0NzQyLC0xOTU2NTg5ODU4LD
+EwMzcwMTM4NzYsNzU3Njg5NzA3LC0xNTMyNTI3MjMyLC0xNjAy
+NDYyNjAzLC0xMzI0MjYxNDkxLDEwMzc5NTgzMTUsMTI1NzQ2MT
+UxNCwtMTA4MTM0MTk4MCwyMTg0MDEwMzcsNDMzNjE0MDM4LDIy
+NzQ1NzY1NV19
 -->
