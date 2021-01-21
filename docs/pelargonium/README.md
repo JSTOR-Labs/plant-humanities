@@ -112,14 +112,14 @@ It was against this backdrop that bedding or zonal pelargoniums soon became the 
 <param ve-image fit="contain" url="https://ia801904.us.archive.org/BookReader/BookReaderImages.php?id=gardensEngland00Broo&itemPath=%2F12%2Fitems%2FgardensEngland00Broo&server=ia801904.us.archive.org&page=n8_w617" title="Title page, chromolithograph from Edward Adveno Brooke, _The Gardens of England_, London: T. McLean, [1858?],Smithsonian Libraries, Biodiversity Heritage Library">
 
 <param ve-entity eid="Q219217" title="tulip mania" aliases="tulipomania">
-Hardy zonal pelargoniums were a favored plant of gardeners because they show off their blooms for extended periods, flowering even in slightly chilly climates.[^ref20] More significantly, nursery owners adored the plant because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. Indeed, vendors were falling over one another to market the newest, most magnificent, and sweetest-smelling pelargoniums to meet the demand for the choicest blooms. Other factors contributing to the mania for the pelargonium were the arrival of mass-produced pots and planters for displaying ornamentals and, at least initially, excitement surrounding the exotic connotations of plant due to its Southern African provenance. Desire to obtain novel cultivars became so frenzied that some compared it to the infamous tulip-buying spree, known as “tulipomania,” that occurred in Holland in the 1630s.[^ref21]
+Hardy zonal pelargoniums were a favored plant of gardeners because they show off their blooms for extended periods, flowering even in slightly chilly climates.[^ref20] More significantly, nursery owners adored the pelargonium because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. By the late nineteenth century, vendors were falling over one another to market the newest, most magnificent plants that, in addition to those for bedding, included varieties of Regals with pretty-petal markings and others with ivy- or scented-leaves. Additional factors contributing to the mania for the pelargonium were the arrival of mass-produced pots and planters for displaying ornamental flowers and dazzling greenery. Desire to obtain novel cultivars became so frenzied that some compared it to the now infamous tulip-buying spree, known as “tulipomania,” that occurred in Holland in the 1630s.[^ref21]
 <param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:435776315" seq="21">
 <param ve-image
 title="The Victorian flower market" url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/THE_FLOWER_MARKET.jpg" fit="cover" attribution="Garden Musuem Collection">
 
 <param ve-entity eid="Q7498765" title="Shirley Hibberd">
 <param ve-entity eid="Q2269" title="Industrial Revolution">
-By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly instated as a staple in British domestic interiors, gardens, and patios. In his hugely popular 1875-book [_The Amateur's Flower Garden_](https://www.biodiversitylibrary.org/bibliography/145001#/summary), Shirley Hibberd included designs for creating a harmonious pelargonium garden—“geranium garden”—based on the plant’s striking colour variations.[^ref21] In the layout of a panel garden, Hibberd suggests two potential summer schemes: one for a red-harmony garden, and another for a blue-harmony style. By 1895, writers such as Donald McDonald were still echoing Hibberd’s domestic horticultural penchant for the plant; McDonald wrote that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums,” a testament to the long-standing appeal of _Pelargoniums_ in British Victorian culture.[^ref22]
+By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly instated as a staple in British domestic interiors, gardens, and patios. In his hugely popular 1875-book [_The Amateur's Flower Garden_](https://www.biodiversitylibrary.org/bibliography/145001#/summary), Shirley Hibberd included designs for creating a harmonious pelargonium garden—“geranium garden”—based on the plant’s striking colour variations.[^ref22] In the layout of a panel garden, Hibberd suggests two potential summer schemes: one for a red-harmony garden, and another for a blue-harmony style. By 1895, writers such as Donald McDonald were still echoing Hibberd’s domestic horticultural penchant for the plant; McDonald wrote that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums,” a testament to the long-standing appeal of _Pelargoniums_ in British Victorian culture.[^ref22]
 <param ve-image primary fit="contain" url="https://www.biodiversitylibrary.org/pageimage/55342041" title="Shirley Hibberd’s Victorian garden plans, including bedding pelargoniums, in _The amateur’s flower garden_, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://ia800109.us.archive.org/BookReader/BookReaderImages.php?id=amateursflowerga00hibb&itemPath=%2F9%2Fitems%2Famateursflowerga00hibb&server=ia800109.us.archive.org&page=n30_w374" title="Shirley Hibberd’s Victorian garden plans, including bedding pelargoniums, in _The amateur’s flower garden_, Biodiversity Heritage Library">
 
@@ -244,11 +244,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref35]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDI0NDg5MSwzMDc0OTA3NDYsMTc3Nz
-kwMjQ4NSwtNjUzODE2ODgwLDg2NDQyMzIwMywtNDk1NTUyOCwt
-MjEzMDkwMzIsODU5MTg1ODQ1LC03NzI2NzQwMjAsLTE4NTU3Mj
-MyNjMsMTU1ODUwMjkzMywtMTY2MDI2NzI2OSw2MTMzNzIzNzQs
-MTA4MDIwMDc0OCwtNjUxNzY5Mzg5LC0zMzE2MzIzOCwxMzU1OT
-MwODI1LC0xNjMxMzg0NzQyLC0xOTU2NTg5ODU4LDEwMzcwMTM4
-NzZdfQ==
+eyJoaXN0b3J5IjpbLTU2MDc0ODE1MiwxOTc0MjQ0ODkxLDMwNz
+Q5MDc0NiwxNzc3OTAyNDg1LC02NTM4MTY4ODAsODY0NDIzMjAz
+LC00OTU1NTI4LC0yMTMwOTAzMiw4NTkxODU4NDUsLTc3MjY3ND
+AyMCwtMTg1NTcyMzI2MywxNTU4NTAyOTMzLC0xNjYwMjY3MjY5
+LDYxMzM3MjM3NCwxMDgwMjAwNzQ4LC02NTE3NjkzODksLTMzMT
+YzMjM4LDEzNTU5MzA4MjUsLTE2MzEzODQ3NDIsLTE5NTY1ODk4
+NThdfQ==
 -->
