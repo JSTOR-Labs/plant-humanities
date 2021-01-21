@@ -93,7 +93,7 @@ The genus _Pelargonium_ is amazingly varied, including both annual and perennial
 
 <param ve-entity eid="Q2779805" title="Wardian case">
 <param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
-Another technology, the Wardian case, contributed to a tremendous expansion of ornamental plant trades in the early and mid-nineteenth century. The case or sealed glass container, invented by Nathaniel Bagshaw Ward, allowed plant collectors, horticulturalists, and others to transport live specimens intact during lengthy overseas voyages.[^ref15] ![Wardian case, Nathaniel Bagshaw Ward, _On the Growth of Plants in Closely Glazed Cases_](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_wardiancase_sm.jpg) {: .right} That advance in plant mobility made exotics more abundant, accessible, and affordable, increasing the popularity of gardening as a hobby for the upper and middle classes. The Wardian case had a knock-on effect in the domestic space as well. It enabled gardeners to cultivate exotic plants and mixed-species gardens indoors in such decorative glass furnishings.[^ref16] To meet the unprecedented demand for live plants at midcentury, nursery owners developed the zonal pelargonium for bedding in gardens and, later, the regal for growing in domestic conservatories and the home. The marvelous, modern pelargonium—part natural wonder, part human invention—bloomed just as mass consumer culture embraced fresh flowers in nearly every aspect of daily life.
+Another technology, the Wardian case, contributed to a tremendous expansion of ornamental plant trades in the early and mid-nineteenth century. The case or sealed glass container, invented by Nathaniel Bagshaw Ward, allowed plant collectors, horticulturalists, and others to transport live specimens intact during lengthy overseas voyages.[^ref15] ![](https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_wardiancase_sm.jpg) {: .right} That advance in plant mobility made exotics more abundant, accessible, and affordable, increasing the popularity of gardening as a hobby for the upper and middle classes. The Wardian case had a knock-on effect in the domestic space as well. It enabled gardeners to cultivate exotic plants and mixed-species gardens indoors in such decorative glass furnishings.[^ref16] To meet the unprecedented demand for live plants at midcentury, nursery owners developed the zonal pelargonium for bedding in gardens and, later, the regal for growing in domestic conservatories and the home. The marvelous, modern pelargonium—part natural wonder, part human invention—bloomed just as mass consumer culture embraced fresh flowers in nearly every aspect of daily life.
 <param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DT2030.jpg" title="Seymour Joseph Guy, The Contest for the Bouquet: The Family of Robert Gordon in Their New York Dining-Room, 1866, oil on canvas, 62.5 x 74.9 cm, Purchase, Gift of William E. Dodge, by exchange, and Lila Acheson Wallace Gift, 1992, Metropolitan Museum of Art, public domain">
 <param ve-image fit="contain" url="https://images.nypl.org/index.php?id=835246&t=w" title="_Wardian Case_, from Shirley Hibberd, _Rustic Adornments for Homes of Taste_, Groombridge, 1870, The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Picture Collection, New York Public Library, Public Domain">
 <param ve-image title="_A View in Our Stock House_, R. Vincent, Jr. & Sons Co., Henry G. Gilbert Nursery and Seed Trade Catalog Collection, _Descriptive Illustrated Geranium Catalogue: For Nineteen Hundred and Ten_, 1910, U.S. Department of Agriculture, National Agricultural Library, Biodiversity Heritage Library" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270">
@@ -241,11 +241,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTc2OTM4OSwtMzMxNjMyMzgsMTM1NT
-kzMDgyNSwtMTYzMTM4NDc0MiwtMTk1NjU4OTg1OCwxMDM3MDEz
-ODc2LDc1NzY4OTcwNywtMTUzMjUyNzIzMiwtMTYwMjQ2MjYwMy
-wtMTMyNDI2MTQ5MSwxMDM3OTU4MzE1LDEyNTc0NjE1MTQsLTEw
-ODEzNDE5ODAsMjE4NDAxMDM3LDQzMzYxNDAzOCwyMjc0NTc2NT
-UsMzM2MDk5MjY2LC0xMzA5ODc2NDQyLDQwMzcxMDkyMiwxNDE4
-NzgyOThdfQ==
+eyJoaXN0b3J5IjpbMTUwODI1ODAzMCwtNjUxNzY5Mzg5LC0zMz
+E2MzIzOCwxMzU1OTMwODI1LC0xNjMxMzg0NzQyLC0xOTU2NTg5
+ODU4LDEwMzcwMTM4NzYsNzU3Njg5NzA3LC0xNTMyNTI3MjMyLC
+0xNjAyNDYyNjAzLC0xMzI0MjYxNDkxLDEwMzc5NTgzMTUsMTI1
+NzQ2MTUxNCwtMTA4MTM0MTk4MCwyMTg0MDEwMzcsNDMzNjE0MD
+M4LDIyNzQ1NzY1NSwzMzYwOTkyNjYsLTEzMDk4NzY0NDIsNDAz
+NzEwOTIyXX0=
 -->
