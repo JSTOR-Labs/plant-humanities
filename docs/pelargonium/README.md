@@ -41,7 +41,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/3/37/Floriculture.jpg" title
 <param ve-entity eid="Q25365" title="Gruidae" aliases="crane"> 
 <param ve-entity eid="Q3259077" title="heron"> 
 <param ve-entity eid="Q28507" title="Ciconiidae"> 
-The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the family Geraniaceae. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, to some degree, each other. The name _Pelargonium_ comes from the Greek _pelargos_ (“stork”), which alludes to the plant’s long, beak-shaped seedpods and fruit. Similarly, _Geranium_ from _géranos_ (“crane”) and _Erodium_ from _erodios_ (“heron”) describe columnar fruit capsules that are found in some species. The dried pelargonium specimen, at right, shows a cluster of columnar capsules that have emerged from the centers of flowers to aid in seed dispersal and reproduction.
+The _Pelargonium_ and its relatives _Geranium_ and _Erodium_ belong to the family Geraniaceae. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, to some degree, each other.  _Pelargonium_, from the Greek _pelargos_ (“stork”),  alludes to the plant’s long, beak-shaped seedpods and fruit. Similarly, _Geranium_ from _géranos_ (“crane”) and _Erodium_ from _erodios_ (“heron”) describe columnar fruit capsules that are found in some species. As the dried pelargonium specimen, at right, shows, these columnar capsules emerge from the centers of flowers, aiding in seed dispersal and reproduction.
 <param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="pct:20,10,30,30" attribution="Naturalis Biodiversity Center" title="_Pelargonium alchemilloides_ (L.) L’Hér., Naturalis Biodiversity Center, Netherlands, Europeana Collections, CCO">
 
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
@@ -241,11 +241,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODUwMjkzMywtMTY2MDI2NzI2OSw2MT
-MzNzIzNzQsMTA4MDIwMDc0OCwtNjUxNzY5Mzg5LC0zMzE2MzIz
-OCwxMzU1OTMwODI1LC0xNjMxMzg0NzQyLC0xOTU2NTg5ODU4LD
-EwMzcwMTM4NzYsNzU3Njg5NzA3LC0xNTMyNTI3MjMyLC0xNjAy
-NDYyNjAzLC0xMzI0MjYxNDkxLDEwMzc5NTgzMTUsMTI1NzQ2MT
-UxNCwtMTA4MTM0MTk4MCwyMTg0MDEwMzcsNDMzNjE0MDM4LDIy
-NzQ1NzY1NV19
+eyJoaXN0b3J5IjpbNTE5MzQwNDE2LDE1NTg1MDI5MzMsLTE2Nj
+AyNjcyNjksNjEzMzcyMzc0LDEwODAyMDA3NDgsLTY1MTc2OTM4
+OSwtMzMxNjMyMzgsMTM1NTkzMDgyNSwtMTYzMTM4NDc0MiwtMT
+k1NjU4OTg1OCwxMDM3MDEzODc2LDc1NzY4OTcwNywtMTUzMjUy
+NzIzMiwtMTYwMjQ2MjYwMywtMTMyNDI2MTQ5MSwxMDM3OTU4Mz
+E1LDEyNTc0NjE1MTQsLTEwODEzNDE5ODAsMjE4NDAxMDM3LDQz
+MzYxNDAzOF19
 -->
