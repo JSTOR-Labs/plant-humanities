@@ -77,7 +77,7 @@ Of the many _Pelargonium_ species native to Southern Africa, _Pelargonium_ _tris
 <param ve-entity eid="Q863247" title="nomenclature">
 <param ve-entity eid="Q13996" title="Mediterranean climate">
 <param ve-entity eid="Q355691" title="Jacques Philippe Cornut" aliases="Jacques Philippe Cornut's">
-The nomenclature confusion surrounding pelargoniums started when _Pelargonium triste_ reached Europe. The plant was initially called _Geranium Indicum nocto odorato_, or “night-scented geranium of India.”[^ref10] Europeans misidentified the specimen as a geranium because they were already familiar with _Geranium_ species, which are native to the Mediterranean Basin. Additionally, Dutch traders brought the pelargonium to Holland on their return from making colonial voyages to the East Indies, prompting some to assume incorrectly that it was harvested from India. During this period, Jacques Philippe Cornut renamed the plant _Geranium triste_, which he depicted and described in his 1635-book _[Canadensium Plantarum](https://bibdigital.rjb.csic.es/idurl/1/13506).[^ref11] The word _triste_ (“sad”) presumably alludes to the pelargonium’s dull-colored foliage or flowers.
+The nomenclature confusion surrounding pelargoniums started when _Pelargonium triste_ reached Europe. The plant was initially called _Geranium Indicum nocto odorato_, or “night-scented geranium of India.”[^ref10] Europeans misidentified the specimen as a geranium because they were already familiar with _Geranium_ species, which are native to the Mediterranean Basin. Additionally, Dutch traders brought the pelargonium to Holland on their return from making colonial voyages to the East Indies, prompting some to assume, wrongly, that it was harvested from India. During this period, Jacques Philippe Cornut renamed the plant _Geranium triste_, which he depicted and described in his 1635-book _[Canadensium Plantarum](https://bibdigital.rjb.csic.es/idurl/1/13506).[^ref11] The word _triste_ (“sad”) presumably alludes to the pelargonium’s dull-colored foliage or flowers.
 <param ve-image url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/docs/pelargonium/Pelargonium_geranium%20triste_COR_Canad_Pl_000126.jpg" title="_Geranium triste_ [_Pelargonium triste_], Jacques-Philippe Cornut, _Canadensium Plantarum_, Paris, Venundantur apud Simonem Le Moyne, 1635, Biblioteca Digital" caption="Cornut uses a naturalistic style to describe the plant’s feathery leaves, storksbill fruit capsules, five-petal flowers, and tuberous roots. Because the print lacks color, it is difficult to grasp why the sad pelargonium was named thusly for the dull hue of its foliage or flowers.">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_ has not been widely hybridized and cultural interest in the plant is limited mainly to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 
@@ -243,11 +243,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODA1MTE5MiwtMTYzMTM4NDc0MiwtMT
-k1NjU4OTg1OCwxMDM3MDEzODc2LDc1NzY4OTcwNywtMTUzMjUy
-NzIzMiwtMTYwMjQ2MjYwMywtMTMyNDI2MTQ5MSwxMDM3OTU4Mz
-E1LDEyNTc0NjE1MTQsLTEwODEzNDE5ODAsMjE4NDAxMDM3LDQz
-MzYxNDAzOCwyMjc0NTc2NTUsMzM2MDk5MjY2LC0xMzA5ODc2ND
-QyLDQwMzcxMDkyMiwxNDE4NzgyOTgsLTE5Mzk4NDg2NjcsLTE1
-MzM4OTY2NDhdfQ==
+eyJoaXN0b3J5IjpbLTEyMTg0NjA1MDgsLTE2MzEzODQ3NDIsLT
+E5NTY1ODk4NTgsMTAzNzAxMzg3Niw3NTc2ODk3MDcsLTE1MzI1
+MjcyMzIsLTE2MDI0NjI2MDMsLTEzMjQyNjE0OTEsMTAzNzk1OD
+MxNSwxMjU3NDYxNTE0LC0xMDgxMzQxOTgwLDIxODQwMTAzNyw0
+MzM2MTQwMzgsMjI3NDU3NjU1LDMzNjA5OTI2NiwtMTMwOTg3Nj
+Q0Miw0MDM3MTA5MjIsMTQxODc4Mjk4LC0xOTM5ODQ4NjY3LC0x
+NTMzODk2NjQ4XX0=
 -->
