@@ -119,7 +119,7 @@ title="The Victorian flower market" url="https://github.com/JSTOR-Labs/plant-hum
 
 <param ve-entity eid="Q7498765" title="Shirley Hibberd">
 <param ve-entity eid="Q2269" title="Industrial Revolution">
-By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly instated as a staple in British domestic interiors, gardens, and patios. In his hugely popular 1875-book [_The Amateur's Flower Garden_](https://www.biodiversitylibrary.org/bibliography/145001#/summary), Shirley Hibberd included designs for creating a harmonious pelargonium garden—“geranium garden”—based on the plant’s striking colour variations.[^ref22] In the layout of a panel garden, Hibberd suggests two potential summer schemes: one for a red-harmony garden, and another for a blue-harmony style. By 1895, writers such as Donald McDonald were still echoing Hibberd’s domestic horticultural penchant for the plant; McDonald wrote that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums,” a testament to the long-standing appeal of _Pelargoniums_ in British Victorian culture.[^ref22]
+By the end of the Industrial Revolution, the _Pelargonium_ had also been firmly instated as a staple in British domestic interiors, gardens, and patios. In his hugely popular 1875-book [_The Amateur's Flower Garden_](https://www.biodiversitylibrary.org/bibliography/145001#/summary), Shirley Hibberd included designs for creating a harmonious pelargonium garden—“geranium garden”—based on the plant’s striking colour variations.[^ref22] In the layout of a panel garden, Hibberd suggests two potential summer schemes: one for a red-harmony garden, and another for a blue-harmony style. By 1895, writers such as Donald McDonald were still echoing Hibberd’s domestic horticultural penchant for the plant; McDonald wrote that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums,” a testament to the long-standing appeal of _Pelargoniums_ in British Victorian culture.[^ref23]
 <param ve-image primary fit="contain" url="https://www.biodiversitylibrary.org/pageimage/55342041" title="Shirley Hibberd’s Victorian garden plans, including bedding pelargoniums, in _The amateur’s flower garden_, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://ia800109.us.archive.org/BookReader/BookReaderImages.php?id=amateursflowerga00hibb&itemPath=%2F9%2Fitems%2Famateursflowerga00hibb&server=ia800109.us.archive.org&page=n30_w374" title="Shirley Hibberd’s Victorian garden plans, including bedding pelargoniums, in _The amateur’s flower garden_, Biodiversity Heritage Library">
 
@@ -244,11 +244,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref35]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDc0ODE1MiwxOTc0MjQ0ODkxLDMwNz
-Q5MDc0NiwxNzc3OTAyNDg1LC02NTM4MTY4ODAsODY0NDIzMjAz
-LC00OTU1NTI4LC0yMTMwOTAzMiw4NTkxODU4NDUsLTc3MjY3ND
-AyMCwtMTg1NTcyMzI2MywxNTU4NTAyOTMzLC0xNjYwMjY3MjY5
-LDYxMzM3MjM3NCwxMDgwMjAwNzQ4LC02NTE3NjkzODksLTMzMT
-YzMjM4LDEzNTU5MzA4MjUsLTE2MzEzODQ3NDIsLTE5NTY1ODk4
-NThdfQ==
+eyJoaXN0b3J5IjpbLTcxOTAzNTg5NSwtNTYwNzQ4MTUyLDE5Nz
+QyNDQ4OTEsMzA3NDkwNzQ2LDE3Nzc5MDI0ODUsLTY1MzgxNjg4
+MCw4NjQ0MjMyMDMsLTQ5NTU1MjgsLTIxMzA5MDMyLDg1OTE4NT
+g0NSwtNzcyNjc0MDIwLC0xODU1NzIzMjYzLDE1NTg1MDI5MzMs
+LTE2NjAyNjcyNjksNjEzMzcyMzc0LDEwODAyMDA3NDgsLTY1MT
+c2OTM4OSwtMzMxNjMyMzgsMTM1NTkzMDgyNSwtMTYzMTM4NDc0
+Ml19
 -->
