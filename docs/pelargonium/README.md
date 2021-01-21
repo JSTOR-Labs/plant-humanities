@@ -161,7 +161,7 @@ The Grasse-based [Chiris perfumerie](https://monumentum.fr/anciennes-parfumeries
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000417315">
 <param ve-storiiies id="091ed" title="Anonymous, photographs of pelargonium fields and floricultural industry, Algeria, Source gallica.bnf.fr / BnF">
 
-Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[^ref37] Significantly, the confusion surrounding pelargonium nomenclature in Europe contexts also exists in China. More than 50% of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You (Pelargonium Oil)_ in Chinese. It is said that the name _Tianzhu Kui_ was introduced by Junyu Zhang in 1933 based on his studies in Japan. The word _Tianzhu Kui_ is from _ゼラニウム_, which is pronounced as _Geranium_ in English.
+Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[^ref37] Significantly, the confusion surrounding pelargonium nomenclature in European contexts also exists in China. More than 50% of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You (Pelargonium Oil)_ in Chinese. It is said that the name _Tianzhu Kui_ was introduced by Junyu Zhang in 1933 based on his studies in Japan. The word _Tianzhu Kui_ is from _ゼラニウム_, which is pronounced as _Geranium_ in English.
 <param ve-map center="18.240663, 40.244245" zoom="2.9">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/djareid/Dumbarton-PH/master/industrial-oil.json" title="global geranium oil industries" active>
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Tianzhu_Kui.png" title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_ (_Pelargonium_) in Chinese. Jin, Jiancheng, and Xun Zhang. _Chinese Gongbi Line Drawing of Hundred Flowers (Autumn and Winter)_. Tianjin Yangliuqing Fine Arts Press. 2005.">
@@ -247,11 +247,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref37]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk0NjMwNTAsNzE3MzEwMCwxNDg4Mz
-c0NzQ1LDM3Nzg5MzkwOCwtMTk4MTY1NjM2OCwtMTk0Nzc3NjE0
-MCwxNjg2OTEyNzE4LC01ODUxNjM2MTcsLTI2MzEwMzI2NiwzND
-UxMDM2MzEsLTIxMDAzNzU5MDgsLTE4NDk0MjI0MTIsMTYxMTM5
-NzY5OSwtMTU4ODgzMDI1NSw5MTkyMTcxNDAsLTc3NjcyNjkxMS
-wtNDc2MTI2MzUxLDE5NDk0ODQwNjcsMTM3MjI1MDk0LC01NjA3
-NDgxNTJdfQ==
+eyJoaXN0b3J5IjpbNTI1ODIzODQ5LDcxNzMxMDAsMTQ4ODM3ND
+c0NSwzNzc4OTM5MDgsLTE5ODE2NTYzNjgsLTE5NDc3NzYxNDAs
+MTY4NjkxMjcxOCwtNTg1MTYzNjE3LC0yNjMxMDMyNjYsMzQ1MT
+AzNjMxLC0yMTAwMzc1OTA4LC0xODQ5NDIyNDEyLDE2MTEzOTc2
+OTksLTE1ODg4MzAyNTUsOTE5MjE3MTQwLC03NzY3MjY5MTEsLT
+Q3NjEyNjM1MSwxOTQ5NDg0MDY3LDEzNzIyNTA5NCwtNTYwNzQ4
+MTUyXX0=
 -->
