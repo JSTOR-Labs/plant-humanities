@@ -152,7 +152,7 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-entity eid="Q262" title="Algeria">
 <param ve-entity eid="Q173705" title="Grasse">
 <param ve-entity eid="Q34687" title="Rosa" aliases="roses">
-In 1847, the French perfume industries of Grasse, a leading center of perfume production, introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it. Algeria, under French rule since 1830, was considered an ideal place for growing this economic crop due to its warm arid and semi-arid climate and the low cost of colonial labor needed for the “preparation and planting of cuttings, weeding of fields, harvesting of the material to be distilled.”[^ref32] Perfumers selected pelargoniums because most species have a sweet aroma similar to roses. Such oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant.
+In 1847, the French perfume industries of Grasse, a leading center of perfume production, introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it. Algeria, under French rule since 1830, was considered an ideal place for growing this economic crop due to its warm arid and semi-arid climate and the low cost of colonial labor needed for the “preparation and planting of cuttings, weeding of fields, harvesting of the material to be distilled.”[^ref32] Perfumers selected pelargoniums because certain species, namely X and Y, have a sweet aroma similar to roses, making them a cost-effective alternative to the real thing. Such oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant.
 <param ve-image primary fit="contain" url="Pelargonium_Chirismap_DavidRumsey.jpg" title="Gabriel Mazuyer, Georges Lecomte, Lucien Boucher, _Les etu A. Chiris s'installent dans le Monde entier_, 1931, published by Antoine Chiris, Paris, from David Rumsey Historical Map Collection">
 
 <param ve-entity eid="Q2344308" title="Boufarik">
@@ -244,11 +244,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref35]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTYxNDM3MSwtNTYwNzQ4MTUyLDE5Nz
-QyNDQ4OTEsMzA3NDkwNzQ2LDE3Nzc5MDI0ODUsLTY1MzgxNjg4
-MCw4NjQ0MjMyMDMsLTQ5NTU1MjgsLTIxMzA5MDMyLDg1OTE4NT
-g0NSwtNzcyNjc0MDIwLC0xODU1NzIzMjYzLDE1NTg1MDI5MzMs
-LTE2NjAyNjcyNjksNjEzMzcyMzc0LDEwODAyMDA3NDgsLTY1MT
-c2OTM4OSwtMzMxNjMyMzgsMTM1NTkzMDgyNSwtMTYzMTM4NDc0
-Ml19
+eyJoaXN0b3J5IjpbNjY3ODc4ODI4LC01NjA3NDgxNTIsMTk3ND
+I0NDg5MSwzMDc0OTA3NDYsMTc3NzkwMjQ4NSwtNjUzODE2ODgw
+LDg2NDQyMzIwMywtNDk1NTUyOCwtMjEzMDkwMzIsODU5MTg1OD
+Q1LC03NzI2NzQwMjAsLTE4NTU3MjMyNjMsMTU1ODUwMjkzMywt
+MTY2MDI2NzI2OSw2MTMzNzIzNzQsMTA4MDIwMDc0OCwtNjUxNz
+Y5Mzg5LC0zMzE2MzIzOCwxMzU1OTMwODI1LC0xNjMxMzg0NzQy
+XX0=
 -->
