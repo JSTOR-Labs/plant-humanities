@@ -211,11 +211,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref19]: Edward Adveno Brooke, _The Gardens of England_ (London: T. McLean, [1858?]), accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/41414093](https://www.biodiversitylibrary.org/page/41414093).
 
-[^ref20]: Wilkinson, _The Passion for Pelargoniums_, XX.
+[^ref20]: Wilkinson, _The Passion for_ _Pelargoniums_, 6, 22, 123.
 
-[^ref21]: Hibberd, Shirley. “Lecture on the Pelargonium.” _The Journal of Horticulture_, 1880, pp. 14, 74-75.
+[^ref21]: Shirley Hibberd, “Lecture on the Pelargonium,” _The Journal of Horticulture_ (1880): 14, 74–75.
 
-[^ref22]: Hibberd, Shirley. _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_, Groombridge & Sons, 1875. [https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up](https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up)
+[^ref22]: Shirley Hibberd, _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_ (London: Groombridge & Sons, 1875), accessed January 20, 2021, [https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up](https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up).
 
 [^ref23]: McDonald, Donald. _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_, Charles Scribner’s Sons, 1895.
 
@@ -243,11 +243,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref34]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NDkwNzQ2LDE3Nzc5MDI0ODUsLTY1Mz
-gxNjg4MCw4NjQ0MjMyMDMsLTQ5NTU1MjgsLTIxMzA5MDMyLDg1
-OTE4NTg0NSwtNzcyNjc0MDIwLC0xODU1NzIzMjYzLDE1NTg1MD
-I5MzMsLTE2NjAyNjcyNjksNjEzMzcyMzc0LDEwODAyMDA3NDgs
-LTY1MTc2OTM4OSwtMzMxNjMyMzgsMTM1NTkzMDgyNSwtMTYzMT
-M4NDc0MiwtMTk1NjU4OTg1OCwxMDM3MDEzODc2LDc1NzY4OTcw
-N119
+eyJoaXN0b3J5IjpbLTE1NzE4MjkyMzYsMzA3NDkwNzQ2LDE3Nz
+c5MDI0ODUsLTY1MzgxNjg4MCw4NjQ0MjMyMDMsLTQ5NTU1Mjgs
+LTIxMzA5MDMyLDg1OTE4NTg0NSwtNzcyNjc0MDIwLC0xODU1Nz
+IzMjYzLDE1NTg1MDI5MzMsLTE2NjAyNjcyNjksNjEzMzcyMzc0
+LDEwODAyMDA3NDgsLTY1MTc2OTM4OSwtMzMxNjMyMzgsMTM1NT
+kzMDgyNSwtMTYzMTM4NDc0MiwtMTk1NjU4OTg1OCwxMDM3MDEz
+ODc2XX0=
 -->
