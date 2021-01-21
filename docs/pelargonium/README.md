@@ -244,16 +244,16 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref35]: Élie Maunier, _Les Plantes à Parfums des Colonies Françaises_ (Marseille: Institut colonial, 1932), accessed January 20, 2021, [http://www.manioc.org/patrimon/FRA12344](http://www.manioc.org/patrimon/FRA12344).
 
-[^ref36]: _173J 0001. Domaine Sainte-Marguerite de l'entreprise Chiris à Boufarik (Algérie)_  [(FR-FRAD006 - FRAD006_ABEL)](https://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/FR-FRAD006/type/hg/id/FRAD006_ABEL/unitid/173J+0001+-+173J+0007).
+[^ref36]: Cocoual, “La famille Chiris,” para. 8; _173J 0001. Domaine Sainte-Marguerite de l'entreprise Chiris à Boufarik (Algérie)_  [(FR-FRAD006 - FRAD006_ABEL)](https://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/FR-FRAD006/type/hg/id/FRAD006_ABEL/unitid/173J+0001+-+173J+0007).
 
 [^ref37]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDAzNzU5MDgsLTE4NDk0MjI0MTIsMT
-YxMTM5NzY5OSwtMTU4ODgzMDI1NSw5MTkyMTcxNDAsLTc3Njcy
-NjkxMSwtNDc2MTI2MzUxLDE5NDk0ODQwNjcsMTM3MjI1MDk0LC
-01NjA3NDgxNTIsMTk3NDI0NDg5MSwzMDc0OTA3NDYsMTc3Nzkw
-MjQ4NSwtNjUzODE2ODgwLDg2NDQyMzIwMywtNDk1NTUyOCwtMj
-EzMDkwMzIsODU5MTg1ODQ1LC03NzI2NzQwMjAsLTE4NTU3MjMy
-NjNdfQ==
+eyJoaXN0b3J5IjpbMzQ1MTAzNjMxLC0yMTAwMzc1OTA4LC0xOD
+Q5NDIyNDEyLDE2MTEzOTc2OTksLTE1ODg4MzAyNTUsOTE5MjE3
+MTQwLC03NzY3MjY5MTEsLTQ3NjEyNjM1MSwxOTQ5NDg0MDY3LD
+EzNzIyNTA5NCwtNTYwNzQ4MTUyLDE5NzQyNDQ4OTEsMzA3NDkw
+NzQ2LDE3Nzc5MDI0ODUsLTY1MzgxNjg4MCw4NjQ0MjMyMDMsLT
+Q5NTU1MjgsLTIxMzA5MDMyLDg1OTE4NTg0NSwtNzcyNjc0MDIw
+XX0=
 -->
