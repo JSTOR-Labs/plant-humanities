@@ -86,7 +86,7 @@ In the wake of that initial nomenclature confusion, botanists of the seventeenth
 ### Technology, Breeding, and the Modern Pelargonium
 
 <param ve-entity eid="Q165044" title="greenhouse">
-The genus _Pelargonium_ is amazingly varied, including both annual and perennial herbs that naturally occur in temperate and tropical climates. For that reason, the first plants to reach Holland were cultivated in heated greenhouses to protect them from that region’s cold and frost.[^ref13] By the early 1800s, new technologies–both for fabricating iron and plate glass and for constructing buildings with these materials–fueled a fad among the social elite for purchasing conservatories and exotic plants to display therein.[^ref14] That innovation combined with new knowledge about hand-pollination techniques made pelargoniums, which are easily hybridized that way, an ideal choice for displaying in such spaces—their popularity quickly grew among plant collectors and amateur breeders.
+The genus _Pelargonium_ is amazingly varied, including both annual and perennial herbs that naturally occur in temperate and tropical climates. For that reason, the first plants to reach Holland were cultivated in heated greenhouses to protect them from that region’s cold and frost.[^ref13] By the early 1800s, new technologies–both for fabricating iron and plate glass and for constructing buildings with these materials–fueled a fad among the social elite for purchasing conservatories and exotic plants to grow therein.[^ref14] That innovation combined with new knowledge about hand-pollination techniques made pelargoniums, which are easily hybridized that way, an ideal choice for cultivating in such spaces—their popularity quickly grew among plant collectors and amateur breeders.
 <param ve-image primary url="Queen-Adelaide-Princess-Adelaide-of-Saxe-Meiningen.jpg" title="Pelargoniums were prized as scientific specimens, exotic curiosities, status symbols, conversation pieces, and aesthetic objects, all of which artists communicated in portraits of important plant collectors. Samuel William Reynolds, _Queen Adelaide (Princess Adelaide of Saxe-Meiningen)_, published 1831 by Martin Colnaghi, after Sir William Beechey, mezzotint, 644 x 435 mm (plate), National Portrait Gallery, London, CC BY-NC-ND 3.0">
 <param ve-image url="pelargonium_rubens_peale_with_a_geranium_1985.59.1.jpg" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
 <param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
@@ -241,11 +241,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU3MjMyNjMsMTU1ODUwMjkzMywtMT
-Y2MDI2NzI2OSw2MTMzNzIzNzQsMTA4MDIwMDc0OCwtNjUxNzY5
-Mzg5LC0zMzE2MzIzOCwxMzU1OTMwODI1LC0xNjMxMzg0NzQyLC
-0xOTU2NTg5ODU4LDEwMzcwMTM4NzYsNzU3Njg5NzA3LC0xNTMy
-NTI3MjMyLC0xNjAyNDYyNjAzLC0xMzI0MjYxNDkxLDEwMzc5NT
-gzMTUsMTI1NzQ2MTUxNCwtMTA4MTM0MTk4MCwyMTg0MDEwMzcs
-NDMzNjE0MDM4XX0=
+eyJoaXN0b3J5IjpbLTE2MDQyNDIzNDAsLTE4NTU3MjMyNjMsMT
+U1ODUwMjkzMywtMTY2MDI2NzI2OSw2MTMzNzIzNzQsMTA4MDIw
+MDc0OCwtNjUxNzY5Mzg5LC0zMzE2MzIzOCwxMzU1OTMwODI1LC
+0xNjMxMzg0NzQyLC0xOTU2NTg5ODU4LDEwMzcwMTM4NzYsNzU3
+Njg5NzA3LC0xNTMyNTI3MjMyLC0xNjAyNDYyNjAzLC0xMzI0Mj
+YxNDkxLDEwMzc5NTgzMTUsMTI1NzQ2MTUxNCwtMTA4MTM0MTk4
+MCwyMTg0MDEwMzddfQ==
 -->
