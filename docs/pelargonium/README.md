@@ -25,7 +25,7 @@ However, you might be surprised to learn that the scarlet “geranium” with wh
 <param ve-image fit="contain" url="https://ia800901.us.archive.org/BookReader/BookReaderImages.php?id=illustriertegart08cour&itemPath=%2F4%2Fitems%2Fillustriertegart08cour&server=ia800901.us.archive.org&page=n120_w927" title="_Pelargonium zonale foliis variegatis. Miss Pollock (E. G. Henderson)_,_Illustrirte Garten-Zeitung_, The LuEsther T Mertz Library, the New York Botanical Garden, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Scarlet_geranium.jpg/1024px-Scarlet_geranium.jpg" title="Bedding pelargoniums with red flowers and zone-marked leaves are believed to have been derived from _Pelargonium inquinans_ and _Pelargonium zonale_, _Pelargonium inquinans_,2017, ViGA, Wikimedia Commons, CC BY-SA 4.0">
 
-So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to its uses in England, France, and Algeria during the long nineteenth century reveals that the modern pelargonium was an invention of the Industrial age. Different hybrids were selectively bred for use as ornamental plants or aromatic crops, possessing aesthetic or fragrant traits tailored to Victorian sensibilities though with an enduring mass appeal.
+So how can we tell the history of the forgotten _Pelargonium_, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to put the _Geranium_ to one side, and to narrate instead the lesser-known story of the _Pelargonium_, to excavate its forgotten history—from its unique morphology and nomenclatural genealogy, to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. An interdisciplinary history of the _Pelargonium_ that attends to its uses in England, France, and Algeria during the long nineteenth century reveals that the modern pelargonium was an invention of the Industrial age. Different hybrids were selectively bred for use as ornamental plants or aromatic crops, possessing aesthetic or fragrant traits tailored to Victorian sensibilities though they have enduring mass appeal.
 <param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP232138.jpg" title="James Tissot, _Spring Morning_, c.1875, oil on canvas, 55.9 x 42.5 cm, Gift of Mrs. Charles Wrightsman, 2009, Metropolitan Museum of Art, public domain">
 <param ve-image fit="contain" url="Pelargoniums_RP-F-2013-85-14.jpg" title="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, glass, 90 x 120 mm, Rijksmuseum, public domain">
 <param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Pelargoniums bloom in garden vases, Bowood House, village of Derry Hill, England, alh1, 2015, Flickr, CC BY-NC-ND 2.0">
@@ -243,11 +243,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref31]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTk2Njc3LDEwMzcwMTM4NzYsNzU3Nj
-g5NzA3LC0xNTMyNTI3MjMyLC0xNjAyNDYyNjAzLC0xMzI0MjYx
-NDkxLDEwMzc5NTgzMTUsMTI1NzQ2MTUxNCwtMTA4MTM0MTk4MC
-wyMTg0MDEwMzcsNDMzNjE0MDM4LDIyNzQ1NzY1NSwzMzYwOTky
-NjYsLTEzMDk4NzY0NDIsNDAzNzEwOTIyLDE0MTg3ODI5OCwtMT
-kzOTg0ODY2NywtMTUzMzg5NjY0OCwtODA0MjQ5MzE1LC0yMDEw
-NjE2NTFdfQ==
+eyJoaXN0b3J5IjpbLTE5NTY1ODk4NTgsMTAzNzAxMzg3Niw3NT
+c2ODk3MDcsLTE1MzI1MjcyMzIsLTE2MDI0NjI2MDMsLTEzMjQy
+NjE0OTEsMTAzNzk1ODMxNSwxMjU3NDYxNTE0LC0xMDgxMzQxOT
+gwLDIxODQwMTAzNyw0MzM2MTQwMzgsMjI3NDU3NjU1LDMzNjA5
+OTI2NiwtMTMwOTg3NjQ0Miw0MDM3MTA5MjIsMTQxODc4Mjk4LC
+0xOTM5ODQ4NjY3LC0xNTMzODk2NjQ4LC04MDQyNDkzMTUsLTIw
+MTA2MTY1MV19
 -->
