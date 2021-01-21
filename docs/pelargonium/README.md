@@ -105,7 +105,7 @@ Another technology, the Wardian case, contributed to a tremendous expansion of o
 <param ve-entity eid="Q444145" title="Bowood House">
 <param ve-entity eid="Q23928167" title="Alton Towers estate" aliases="Alton Gardens">
 <param ve-entity eid="Q1585312" title="Harewood House">
-It was against this backdrop that bedding or zonal pelargoniums soon became the mainstay of most municipal and private pleasure gardens in Victorian England. The 1837-volume of the magazine _[The Floricultural Cabinet](https://www.biodiversitylibrary.org/page/15889416)_ listed a number of pelargoniums for bedding that were by then well known.[^ref18] As the number of commercially available hybrids increased so did their profile in the era’s most fashionable green spaces, a trend celebrated by Edward Adveno Brooke in his book _[The Gardens of England](Edward%20Adveno%20Brooke,%20The%20Gardens%20of%20England,%20London:%20T.%20McLean,%20%5B1858?%5D,%20https://www.biodiversitylibrary.org/page/41414093.)_.[^ref19] As he explains, the bright scarlet pelargonium bloomed nearly everywhere from stone vases to flowerbeds and parterres. Indeed, [Brooke represented these locations in paintings](https://thegardenstrust.blog/2018/04/14/edward-adveno-brooke-and-the-gardens-of-england/) that were reproduced as chromolithographs for his book, including the ones, at right, showing the upper and lower terrace gardens of Bowood House, the colonnade of Alton Gardens, as well as the parterre of Harewood House.
+It was against this backdrop that bedding or zonal pelargoniums soon became the mainstay of most municipal and private pleasure gardens in Victorian England. Already by 1837, that year’s volume of the magazine _[The Floricultural Cabinet](https://www.biodiversitylibrary.org/page/15889416)_ listed a number of pelargoniums for bedding that were well-known garden staples.[^ref18] As the number of commercially available hybrids increased so did their profile in the era’s most fashionable green spaces, a trend celebrated by Edward Adveno Brooke in his book _[The Gardens of England](Edward%20Adveno%20Brooke,%20The%20Gardens%20of%20England,%20London:%20T.%20McLean,%20%5B1858?%5D,%20https://www.biodiversitylibrary.org/page/41414093.)_.[^ref19] As he explains, the bright scarlet pelargonium bloomed nearly everywhere from stone vases to flowerbeds and parterres. Indeed, [Brooke represented these locations in paintings](https://thegardenstrust.blog/2018/04/14/edward-adveno-brooke-and-the-gardens-of-england/) that were reproduced as chromolithographs for his book, including the ones, at right, showing the upper and lower terrace gardens of Bowood House, the colonnade of Alton Gardens, as well as the parterre of Harewood House.
 <param ve-image primary fit="contain" url="Pelargonium_Bewood_BHL.jpg" title="_Upper and Lower Terrace Gardens_, Bowood_, chromolithograph from Edward Adveno Brooke, _The Gardens of England_, London: T. McLean, [1858?],Smithsonian Libraries, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="Pelargonium_AltonGardens_BHL.jpg" title="_The Colonnade, Alton Gardens_, chromolithograph from Edward Adveno Brooke, _The Gardens of England_, London: T. McLean, [1858?],Smithsonian Libraries, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="Pelargonium_ParterreHarewood_BHL.jpg" title="_The Parterre, Harewood Wood, Nr. Leeds_, chromolithograph from Edward Adveno Brooke, _The Gardens of England_, London: T. McLean, [1858?],Smithsonian Libraries, Biodiversity Heritage Library">
@@ -243,11 +243,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref34]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NDIzMjAzLC00OTU1NTI4LC0yMTMwOT
-AzMiw4NTkxODU4NDUsLTc3MjY3NDAyMCwtMTg1NTcyMzI2Mywx
-NTU4NTAyOTMzLC0xNjYwMjY3MjY5LDYxMzM3MjM3NCwxMDgwMj
-AwNzQ4LC02NTE3NjkzODksLTMzMTYzMjM4LDEzNTU5MzA4MjUs
-LTE2MzEzODQ3NDIsLTE5NTY1ODk4NTgsMTAzNzAxMzg3Niw3NT
-c2ODk3MDcsLTE1MzI1MjcyMzIsLTE2MDI0NjI2MDMsLTEzMjQy
-NjE0OTFdfQ==
+eyJoaXN0b3J5IjpbLTY1MzgxNjg4MCw4NjQ0MjMyMDMsLTQ5NT
+U1MjgsLTIxMzA5MDMyLDg1OTE4NTg0NSwtNzcyNjc0MDIwLC0x
+ODU1NzIzMjYzLDE1NTg1MDI5MzMsLTE2NjAyNjcyNjksNjEzMz
+cyMzc0LDEwODAyMDA3NDgsLTY1MTc2OTM4OSwtMzMxNjMyMzgs
+MTM1NTkzMDgyNSwtMTYzMTM4NDc0MiwtMTk1NjU4OTg1OCwxMD
+M3MDEzODc2LDc1NzY4OTcwNywtMTUzMjUyNzIzMiwtMTYwMjQ2
+MjYwM119
 -->
