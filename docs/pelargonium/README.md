@@ -239,12 +239,12 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref33]: Élie Maunier, _Les Plantes à Parfums des Colonies Françaises_ (Marseille: Institut colonial, 1932), accessed January 20, 2021, [http://www.manioc.org/patrimon/FRA12344](http://www.manioc.org/patrimon/FRA12344).
 
-[^ref34]: 
+[^ref34]: _173J 0001. Domaine Sainte-Marguerite de l'entreprise Chiris à Boufarik (Algérie)_  [(FR-FRAD006 - FRAD006_ABEL)](https://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/FR-FRAD006/type/hg/id/FRAD006_ABEL/unitid/173J+0001+-+173J+0007).
 
-[^ref34]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
+[^ref35]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjEzMzMwNCwzMDc0OTA3NDYsMTc3Nz
+eyJoaXN0b3J5IjpbMTk3NDI0NDg5MSwzMDc0OTA3NDYsMTc3Nz
 kwMjQ4NSwtNjUzODE2ODgwLDg2NDQyMzIwMywtNDk1NTUyOCwt
 MjEzMDkwMzIsODU5MTg1ODQ1LC03NzI2NzQwMjAsLTE4NTU3Mj
 MyNjMsMTU1ODUwMjkzMywtMTY2MDI2NzI2OSw2MTMzNzIzNzQs
