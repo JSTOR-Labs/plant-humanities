@@ -229,25 +229,26 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref28]: “genteel, adj. and n.” _OED Online_, Oxford University Press, June 2020. Web. 1 August 2020.
 
-[^ref29]: Colta Ives, _Public Parks, Private Gardens: From Paris to Provence_, New York: Metropolitan Museum of Art, 2018.
+[^ref29]: Colta Ives, _Public Parks, Private Gardens: From Paris to Provence_ (New York: Metropolitan Museum of Art, 2018).
 
-[^ref30]: A. Alphand and E. Hochereau,  _Les promenades de Paris: Histoire--description des embellissements--dépenses de création et d'entretien des Bois de Boulogne et de Vincennes, Champs-Élysées--Parcs--squares--boulevards--places plantées, Étude sur l'art des jardins et arboretum_, vol. 1 and 2, Paris: J. Rothschild, 1873),[https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551](https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551) [https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453](https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453)
+[^ref30]: Adolphe Alphand and Émile Hochereau, _Les promenades de Paris: Histoire--description des embellissements--dépenses de création et d'entretien des Bois de Boulogne et de Vincennes, Champs-Élysées--Parcs--squares--boulevards--places plantées, Étude sur l'art des jardins et arboretum_, vols. 1 and 2 (Paris: J. Rothschild, 1867-73), [https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551](https://nrs.harvard.edu/urn-3:GSD.LOEB:11642551); [https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453](https://nrs.harvard.edu/urn-3:GSD.LOEB:11643453).
 
-[^ref31]: “Parmi les plantes qui produisent le plus d'effet, en massif, et qui supportent le mieux la pleine terre en été, on doit citer les variétés de Pélargoniums […].” (Among the plants that produce the most effect, in clumps, and that best support the open ground in summer, we must mention the varieties of Pelargoniums.) Alphand, _Les Promenades de Paris_ p.64,
-[https://bibliotheque-numerique.inha.fr/viewer/17295/?offset=#page=142&viewer=picture&o=bookmark&n=0&q=](https://bibliotheque-numerique.inha.fr/viewer/17295/?offset=#page=142&viewer=picture&o=bookmark&n=0&q=); Clare A. P. Willsdon, _“‘Promenades et plantations’: Impressionism, Conservation and Haussmann’s Reinvention of Paris,” _Soil and Stone: Impressionism, Urbanism, Environment_, eds. Frances Fowle and Richard Thomson, Burlington, VT: Ashgate, 2003, 107–24.
+[^ref31]: “Parmi les plantes qui produisent le plus d'effet, en massif, et qui supportent le mieux la pleine terre en été, on doit citer les variétés de Pélargoniums […].” (Among the plants that produce the most effect, in clumps, and that best support the open ground in summer, we must mention the varieties of Pelargoniums.) Alphand, _Les Promenades de Paris_, 64; Clare A. P. Willsdon, “‘Promenades et plantations’: Impressionism, Conservation and Haussmann’s Reinvention of Paris,” _Soil and Stone: Impressionism, Urbanism, Environment_, eds. Frances Fowle and Richard Thomson (Burlington, VT: Ashgate, 2003), 107–24.
 
-[^ref32]: CIT
+[^ref32]: Élie Maunier, _Les Plantes à Parfums des Colonies Françaises_ (Marseille: Institut colonial, 1932), accessed January 20, 2021, [http://www.manioc.org/patrimon/FRA12344](http://www.manioc.org/patrimon/FRA12344).
 
-[^ref33]: CIT
+[^ref33]: Élie Maunier, _Les Plantes à Parfums des Colonies Françaises_ (Marseille: Institut colonial, 1932), accessed January 20, 2021, [http://www.manioc.org/patrimon/FRA12344](http://www.manioc.org/patrimon/FRA12344).
+
+[^ref34]: 
 
 [^ref34]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. _Pelargoniums: An Herb Society of America Guide_. The Herb Society of America, 2006. [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2ODkxMzA1LDMwNzQ5MDc0NiwxNzc3OT
-AyNDg1LC02NTM4MTY4ODAsODY0NDIzMjAzLC00OTU1NTI4LC0y
-MTMwOTAzMiw4NTkxODU4NDUsLTc3MjY3NDAyMCwtMTg1NTcyMz
-I2MywxNTU4NTAyOTMzLC0xNjYwMjY3MjY5LDYxMzM3MjM3NCwx
-MDgwMjAwNzQ4LC02NTE3NjkzODksLTMzMTYzMjM4LDEzNTU5Mz
-A4MjUsLTE2MzEzODQ3NDIsLTE5NTY1ODk4NTgsMTAzNzAxMzg3
-Nl19
+eyJoaXN0b3J5IjpbLTg0MjEzMzMwNCwzMDc0OTA3NDYsMTc3Nz
+kwMjQ4NSwtNjUzODE2ODgwLDg2NDQyMzIwMywtNDk1NTUyOCwt
+MjEzMDkwMzIsODU5MTg1ODQ1LC03NzI2NzQwMjAsLTE4NTU3Mj
+MyNjMsMTU1ODUwMjkzMywtMTY2MDI2NzI2OSw2MTMzNzIzNzQs
+MTA4MDIwMDc0OCwtNjUxNzY5Mzg5LC0zMzE2MzIzOCwxMzU1OT
+MwODI1LC0xNjMxMzg0NzQyLC0xOTU2NTg5ODU4LDEwMzcwMTM4
+NzZdfQ==
 -->
