@@ -236,7 +236,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 
 [^ref31]: “Parmi les plantes qui produisent le plus d'effet, en massif, et qui supportent le mieux la pleine terre en été, on doit citer les variétés de Pélargoniums […].” (Among the plants that produce the most effect, in clumps, and that best support the open ground in summer, we must mention the varieties of Pelargoniums […].) Alphand, _Les Promenades de Paris_, 64; Clare A. P. Willsdon, “‘Promenades et plantations’: Impressionism, Conservation and Haussmann’s Reinvention of Paris,” _Soil and Stone: Impressionism, Urbanism, Environment_, eds. Frances Fowle and Richard Thomson (Burlington, VT: Ashgate, 2003), 107–24.
 
-[^ref32]: Élie Maunier, _Les Plantes à Parfums des Colonies Françaises_ (Marseille: Institut colonial, 1932), accessed January 20, 2021, [http://www.manioc.org/patrimon/FRA12344](http://www.manioc.org/patrimon/FRA12344).
+[^ref32]: “Notes & Actualités. Le Géranium rosat dans l’Afrique du Nord,” _Revue de botanique appliquée et d'agriculture coloniale_ 7, no. 68 (April 1927): 273, accessed January 21, 2021, [www.persee.fr/doc/jatba_0370-3681_1927_num_7_68_4513](https://www.persee.fr/doc/jatba_0370-3681_1927_num_7_68_4513).
 
 [^ref33]: Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
@@ -249,11 +249,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, our recogniti
 [^ref37]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzEwMzI2NiwzNDUxMDM2MzEsLTIxMD
-AzNzU5MDgsLTE4NDk0MjI0MTIsMTYxMTM5NzY5OSwtMTU4ODgz
-MDI1NSw5MTkyMTcxNDAsLTc3NjcyNjkxMSwtNDc2MTI2MzUxLD
-E5NDk0ODQwNjcsMTM3MjI1MDk0LC01NjA3NDgxNTIsMTk3NDI0
-NDg5MSwzMDc0OTA3NDYsMTc3NzkwMjQ4NSwtNjUzODE2ODgwLD
-g2NDQyMzIwMywtNDk1NTUyOCwtMjEzMDkwMzIsODU5MTg1ODQ1
-XX0=
+eyJoaXN0b3J5IjpbLTU4NTE2MzYxNywtMjYzMTAzMjY2LDM0NT
+EwMzYzMSwtMjEwMDM3NTkwOCwtMTg0OTQyMjQxMiwxNjExMzk3
+Njk5LC0xNTg4ODMwMjU1LDkxOTIxNzE0MCwtNzc2NzI2OTExLC
+00NzYxMjYzNTEsMTk0OTQ4NDA2NywxMzcyMjUwOTQsLTU2MDc0
+ODE1MiwxOTc0MjQ0ODkxLDMwNzQ5MDc0NiwxNzc3OTAyNDg1LC
+02NTM4MTY4ODAsODY0NDIzMjAzLC00OTU1NTI4LC0yMTMwOTAz
+Ml19
 -->
