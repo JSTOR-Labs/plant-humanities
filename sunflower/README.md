@@ -1,3 +1,4 @@
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config
        title="Sunflower: Shining a Light on Knowledges, Myths, and Meanings"
        author="Kristan M. Hanson"
