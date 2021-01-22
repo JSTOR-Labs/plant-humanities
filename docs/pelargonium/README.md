@@ -119,7 +119,7 @@ title="The Victorian flower market" url="https://github.com/JSTOR-Labs/plant-hum
 
 <param ve-entity eid="Q7498765" title="Shirley Hibberd">
 <param ve-entity eid="Q2269" title="Industrial Revolution">
-The _Pelargonium_, in all its many splendid aesthetic and aromatic varieties, was also firmly instated as a staple in British domestic interiors, gardens, and patios. In his hugely popular 1875-book [_The Amateur's Flower Garden_](https://www.biodiversitylibrary.org/bibliography/145001#/summary), Shirley Hibberd included designs for creating a harmonious pelargonium garden—“geranium garden”—based on the plant’s striking colour variations.[^ref22] In the layout of a panel garden, Hibberd suggests two potential summer schemes: one for a red-harmony garden, and another for a blue-harmony style. By 1895, writers such as Donald McDonald were still echoing Hibberd’s domestic horticultural penchant for the plant; McDonald wrote that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums,” a testament to the long-standing appeal of _Pelargoniums_ in British Victorian culture.[^ref23]
+The _Pelargonium_, in all its many splendid aesthetic and aromatic varieties, was also firmly instated as a staple in British domestic interiors, gardens, and patios. In his hugely popular 1875-book [_The Amateur's Flower Garden_](https://www.biodiversitylibrary.org/bibliography/145001#/summary), Shirley Hibberd included designs for creating a harmonious pelargonium garden—“geranium garden”—based on the plant’s striking color variations.[^ref22] In the layout of a panel garden, Hibberd suggests two potential summer schemes: one for a red-harmony garden, and another for a blue-harmony style. By 1895, writers such as Donald McDonald were still echoing Hibberd’s domestic horticultural penchant for the plant; McDonald wrote that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums,” a testament to the long-standing appeal of _Pelargoniums_ in British Victorian culture.[^ref23]
 <param ve-image primary fit="contain" url="https://www.biodiversitylibrary.org/pageimage/55342041" title="Shirley Hibberd’s Victorian garden plans, including bedding pelargoniums, in _The amateur’s flower garden_, Biodiversity Heritage Library">
 <param ve-image fit="contain" url="https://ia800109.us.archive.org/BookReader/BookReaderImages.php?id=amateursflowerga00hibb&itemPath=%2F9%2Fitems%2Famateursflowerga00hibb&server=ia800109.us.archive.org&page=n30_w374" title="Shirley Hibberd’s Victorian garden plans, including bedding pelargoniums, in _The amateur’s flower garden_, Biodiversity Heritage Library">
 
@@ -153,7 +153,7 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-entity eid="Q173705" title="Grasse">
 <param ve-entity eid="Q34687" title="Rosa" aliases="roses">
 <param ve-entity eid="Q164306" title="Pelargonium graveolens" aliases="P. graveolens">
-Around 1850, the French perfume industries of Grasse, a leading center of perfume production, introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it.[^ref32] Algeria, under French rule since 1830, was considered an ideal place for growing this economic crop due to its warm arid and semi-arid climate and the low cost of colonial labor needed cultivate, harvest, and prepare the plants for distillation. Perfumers selected pelargoniums because certain kinds, namely _Pelargonium graveolens_, have a sweet aroma similar to roses, making them a cost-effective alternative to the real thing. Pelargonium oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant. It should be noted that not all pelargoniums smell, and some scented-leave varieties give off unpleasant, pungent odors that some liken to fish or he-goat.[^ref33]
+Around 1850, the French perfume industries of Grasse, a leading center of perfume production, introduced the pelargonium to Algeria in order to cultivate and produce aromatic oil from it.[^ref32] Algeria, under French rule since 1830, was considered an ideal place for growing this economic crop due to its warm arid and semi-arid climate and the low cost of colonial labor needed to cultivate, harvest, and prepare the plants for distillation. Perfumers selected pelargoniums because certain kinds, namely _Pelargonium graveolens_, have a sweet aroma similar to roses, making them a cost-effective alternative to the real thing. Pelargonium oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits and seeds of the plant. It should be noted that not all pelargoniums smell, and some scented-leave varieties give off unpleasant, pungent odors akin to fish or he-goat.[^ref33]
 <param ve-image primary fit="contain" url="Pelargonium_Chirismap_DavidRumsey.jpg" title="Gabriel Mazuyer, Georges Lecomte, Lucien Boucher, _Les etu A. Chiris s'installent dans le Monde entier_, 1931, published by Antoine Chiris, Paris, from David Rumsey Historical Map Collection">
 
 <param ve-entity eid="Q2344308" title="Boufarik">
@@ -247,11 +247,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, excepting tho
 [^ref37]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzU1MzM1NiwtMTc4NzkxODAxMCw1Mj
-U4MjM4NDksNzE3MzEwMCwxNDg4Mzc0NzQ1LDM3Nzg5MzkwOCwt
-MTk4MTY1NjM2OCwtMTk0Nzc3NjE0MCwxNjg2OTEyNzE4LC01OD
-UxNjM2MTcsLTI2MzEwMzI2NiwzNDUxMDM2MzEsLTIxMDAzNzU5
-MDgsLTE4NDk0MjI0MTIsMTYxMTM5NzY5OSwtMTU4ODgzMDI1NS
-w5MTkyMTcxNDAsLTc3NjcyNjkxMSwtNDc2MTI2MzUxLDE5NDk0
-ODQwNjddfQ==
+eyJoaXN0b3J5IjpbLTE3ODI1MDMxNjksLTE3ODc5MTgwMTAsNT
+I1ODIzODQ5LDcxNzMxMDAsMTQ4ODM3NDc0NSwzNzc4OTM5MDgs
+LTE5ODE2NTYzNjgsLTE5NDc3NzYxNDAsMTY4NjkxMjcxOCwtNT
+g1MTYzNjE3LC0yNjMxMDMyNjYsMzQ1MTAzNjMxLC0yMTAwMzc1
+OTA4LC0xODQ5NDIyNDEyLDE2MTEzOTc2OTksLTE1ODg4MzAyNT
+UsOTE5MjE3MTQwLC03NzY3MjY5MTEsLTQ3NjEyNjM1MSwxOTQ5
+NDg0MDY3XX0=
 -->
