@@ -147,7 +147,7 @@ As a result, the _Pelargonium_ at the turn of the century became a symbol for th
 <param ve-entity eid="Q79" title="Egypt">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, specifically in Paris. As part of a massive project to urbanize Paris, overseen by Emperor Napoleon III and Baron Haussmann, architects designed new Parisian parks, gardens, squares, and promenades and oversaw the revitalization of existing green spaces with fresh plantings.[^ref29] In his book _[Les Promenades de Paris](http://id.lib.harvard.edu/aleph/001173612/catalog)_, Adolphe Alphand inventories the myriad plants, shrubs, and trees selected by him and others to beautify the city.[^ref30] Needless to say, they chose many different types of showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for mass-producing them. Although Alphand’s book primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref31] The French-bred pelargoniums, which retained some of their exotic associations with Southern Africa, served as live manifestations of the global reach of the French Empire and its colonial agenda especially because the plants were then propagated in French Algiers to produce fragrant oils.
 <param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="45" title="P. Lambotte, designer, L. Stroobant, printer, _Pelargonium Zonale Inquinans_ ['Gloire de Corbeny,' 'Mistress Pollock,' 'Henri Lierval,'] Adolphe Alphand, _Les Promenades de Paris_, Paris, J. Rothschild, 1867-1873, Frances Loeb Library, Harvard University Graduate School of Design">
-<param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25" title="_Le Bois de Boulogne, Fleuriste de la Muette_, Adolphe Alphand, _Les Promenades de Paris_, Paris, J. Rothschild, 1867-1873, Frances Loeb Library, Harvard University Graduate School of Design">
+<param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25" title="Émile Hochereau, _Le Bois de Boulogne, Fleuriste de la Muette_, Adolphe Alphand, _Les Promenades de Paris_, Paris, J. Rothschild, 1867-1873, Frances Loeb Library, Harvard University Graduate School of Design">
 
 <param ve-entity eid="Q262" title="Algeria">
 <param ve-entity eid="Q173705" title="Grasse">
@@ -247,7 +247,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, excepting tho
 [^ref37]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY3ODU4ODUsLTgwODY0MDE2NSwtMT
+eyJoaXN0b3J5IjpbLTE1NTAzMTM1MTEsLTgwODY0MDE2NSwtMT
 c4NzkxODAxMCw1MjU4MjM4NDksNzE3MzEwMCwxNDg4Mzc0NzQ1
 LDM3Nzg5MzkwOCwtMTk4MTY1NjM2OCwtMTk0Nzc3NjE0MCwxNj
 g2OTEyNzE4LC01ODUxNjM2MTcsLTI2MzEwMzI2NiwzNDUxMDM2
