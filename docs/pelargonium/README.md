@@ -10,7 +10,7 @@
 
 <param ve-entity eid="Q5686" title="Charles Dickens">
 <param ve-entity eid="Q3850458" title="Mary Dickens" aliases="Mamie Dickens">
-There was no flower on earth that Charles Dickens loved quite as much as the scarlet “geranium.”[^ref1] With its vibrant red flowers and showy foliage, this cheerful plant always adorned the dining table and dominated the garden in “a blaze of color” at his country home, [Gad’s Hill Place](https://thegardenstrust.blog/2020/01/25/dickens-and-gardens/), in Kent.[^ref2] Attendees at his public readings could always count on seeing a scarlet “geranium” displayed in his buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.”[^ref3]
+There was no flower on earth that Charles Dickens loved quite as much as the scarlet “geranium.”[^ref1] With its vibrant red blooms and showy foliage, this cheerful plant always adorned the dining table and dominated the garden in “a blaze of color” at his country home [Gad’s Hill Place](https://thegardenstrust.blog/2020/01/25/dickens-and-gardens/), in Kent.[^ref2] Attendees at his public readings could always count on seeing a scarlet “geranium” displayed in his buttonhole, and his appreciation of the flower was such that his daughter, Mamie Dickens, even recalls her sister having said to him, “I believe, papa, that when you become an angel your wings will be made of looking-glass and your crown of scarlet geraniums.”[^ref3]
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/2/22/Charles_Dickens_with_his_two_daughters_by_Mason_%26_Co_%28Robert_Hindry_Mason%29.jpg" title="Charles Dickens with his two daughters at Gad’s Hill Place. Behind them is a “theatre” of potted scarlet “geraniums,” believed to be the zonal pelargonium ‘Mrs. Pollock,’ displayed beneath bay windows._Charles Dickens with his daughters, Mamie Dickens and Catherine ('Katey') Elizabeth Macready Perugini (née Dickens)_, after Joseph Athanase Aufray, after a photograph by Mason & Co (Robert Hindry Mason), photogravure, published 18 December 1869, National Gallery of Art, Wikimedia Commons">
 <param ve-image fit="contain" url="Pelargonium_CharlesDickensWindow_FLICKR.jpg"title="In remembrance of the author and his adoration for the pelargonium, The Dickens Fellowship lays an ivy-and-red-flower wreath at his grave every year on the anniversary of his death. Window with portrait of Dickens encircled by a wreath, Charles Dickens Birthplace Museum, Portsmouth, England, Fred Rockwood, 2010, Flickr, CC BY-NC-SA 2.0">
 <param ve-image fit="contain" url="Pelargonium_CharlesDickensMuseum_FLICKR.jpg" title="Flower bed of red pelargoniums, Charles Dickens Birthplace Museum, Portsmouth, England, Mark Hooper, 2017, Flickr, CC BY-NC-SA 2.0">
@@ -247,11 +247,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, excepting tho
 [^ref37]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc5MTgwMTAsNTI1ODIzODQ5LDcxNz
-MxMDAsMTQ4ODM3NDc0NSwzNzc4OTM5MDgsLTE5ODE2NTYzNjgs
-LTE5NDc3NzYxNDAsMTY4NjkxMjcxOCwtNTg1MTYzNjE3LC0yNj
-MxMDMyNjYsMzQ1MTAzNjMxLC0yMTAwMzc1OTA4LC0xODQ5NDIy
-NDEyLDE2MTEzOTc2OTksLTE1ODg4MzAyNTUsOTE5MjE3MTQwLC
-03NzY3MjY5MTEsLTQ3NjEyNjM1MSwxOTQ5NDg0MDY3LDEzNzIy
-NTA5NF19
+eyJoaXN0b3J5IjpbLTk1NDgxMDI3MCwtMTc4NzkxODAxMCw1Mj
+U4MjM4NDksNzE3MzEwMCwxNDg4Mzc0NzQ1LDM3Nzg5MzkwOCwt
+MTk4MTY1NjM2OCwtMTk0Nzc3NjE0MCwxNjg2OTEyNzE4LC01OD
+UxNjM2MTcsLTI2MzEwMzI2NiwzNDUxMDM2MzEsLTIxMDAzNzU5
+MDgsLTE4NDk0MjI0MTIsMTYxMTM5NzY5OSwtMTU4ODgzMDI1NS
+w5MTkyMTcxNDAsLTc3NjcyNjkxMSwtNDc2MTI2MzUxLDE5NDk0
+ODQwNjddfQ==
 -->
