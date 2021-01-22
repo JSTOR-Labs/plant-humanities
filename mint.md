@@ -38,7 +38,7 @@ Others consider Minthe to have been turned into dust by Persephone, from which H
 <param ve-image title="Black-Figure Pinax (Plaque)" url="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gela_Painter_-_Black-Figure_%22Pinax%22_%28Plaque%29_-_Walters_48225.jpg">
 
 Mint’s reputation for being used in a variety of ways, especially therapeutically, has been found in published material for centuries. The English botanist John Gerard (1654–1612) writes about what the Ancients believed in his [*Generall historie of plantes*](https://biodiversitylibrary.org/page/51905442) (published in 1633): the Greek physician <span eid="Q8778">Galen</span> taught that it “stoppeth the casting up of bloody, being given with water and vinegar”; <span eid="Q82778">Pliny</span> taught that when applied to the temples (in the form of a broth), mint could “take away the headache”; and <span eid="Q297776">Dioscorides</span> speculated that it was possible for mint to [prevent women from becoming pregnant](https://biodiversitylibrary.org/page/51906063). 
-<param ve-image title="Pulegium (pennyroyal) as a remedy in a 13th century *Pseudo-Apuleius* herbal, Cod. 93 (Faks.), fol. 93v: Medicina Antiqua, Medizinische Sammelhandschrift" url="https://digital.onb.ac.at/rep/access/iiif/image/v2/5af078d29f16830c5724f179b4beb33d515d7b64c56e03062f6737a07bc4dd4b339f9aefdef459ddebadfff555bbd0993bc3bbbda7b36d/info.json">
+<param ve-image region="681,2641,2807,2160" title="Pulegium (pennyroyal) as a remedy in a 13th century *Pseudo-Apuleius* herbal, Cod. 93 (Faks.), fol. 93v: Medicina Antiqua, Medizinische Sammelhandschrift" url="https://digital.onb.ac.at/rep/access/iiif/image/v2/5af078d29f16830c5724f179b4beb33d515d7b64c56e03062f6737a07bc4dd4b339f9aefdef459ddebadfff555bbd0993bc3bbbda7b36d/info.json">
 <param ve-image title="Clear glass shop round for pennyroyal water, England, 1850-1. Science Museum, London" url="https://jstor-labs.github.io/plant-humanities/images/pennyroyalwaterwellcome.jpg">
 
 ### ‘diverse kyndes of myntes growing’
@@ -56,7 +56,7 @@ Today, the common scent and flavor we associate with mint is synonymous with cul
 
 In the seventeenth and eighteenth centuries, *Mentha* engaged the attention of numerous well-known British botanists including <span eid="Q316949">John Ray</span> (1627–1705), <span eid="Q3774295">Adam Buddle</span> (1662–1715), [Samuel Dale (1659-1739)](https://plants.jstor.org/stable/10.5555/al.ap.person.bm000150941) (1659–1739), and Jacob Bobart (1641-1719). They could be found collecting a variety of mint species across Britain and exchanged their findings via written correspondence. They were intrigued by the properties and characteristics of the specimens, as well as “conjectures about the synonyms of authors.”[^ref5] Indeed, in Transactions of the [Linnaean Society](www.linnean.org), the botanist and naturalist James Edward Smith (1759–1828) stated that “no British genus of plants, except perhaps *Conserva*, has been hitherto less understood than that of *Mentha*; either with respect to its species, and the principles upon which their distinctions ought to be founded, or the synonyms of those species in the most recent, as well as the more ancient writers.”[^ref6]
 <param eid="Q161885" fill="#5C6609" marker-symbol="user-friends">
-<param ve-image title="Mentha pubescens, var. genuina. in *English botany, or, Coloured figures of British plants*" url="https://upload.wikimedia.org/wikipedia/commons/0/0f/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814784245103%29.jpg"
+<param ve-image title="Mentha pubescens, var. genuina. in *English botany, or, Coloured figures of British plants*" url="https://upload.wikimedia.org/wikipedia/commons/0/0f/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814784245103%29.jpg">
 
 Brian Lawrence has described the taxonomy of the genus *Mentha* as “being in a state of flux, with more than 3,000 names published since 1753.”[^ref7] In fact, the last comprehensive classification of *Mentha* was, according to Lawrence, published over a century ago, in 1896.  Due to the ease of which *Mentha* can be hybridized, around 95 percent of the 3,000 names published for the *Mentha* since 1753 (the publication year of Linnaean’s Species Plantarum) are synonyms or illegitimate, being known as “infraspecific taxa.”[^ref8]
 <param ve-image title="A mint plant with a moth or butterfly, c.1830. Wellcome Collection" url="https://jstor-labs.github.io/plant-humanities/images/menthaWellcome1.jpg">
@@ -76,7 +76,7 @@ Despite not being native to North America, peppermint and peppermint oil in part
 <param ve-image title="Peppermint by Franz Eugen Köhler, 1897" url="https://upload.wikimedia.org/wikipedia/commons/4/49/Mentha_%C3%97_piperita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-095.jpg" fit="contain"> 
 
 Essence of peppermint was regularly imported to America from London and according to research undertaken by Dan Allosso in 2017, advertisements for peppermint products in American newspapers appeared in the thousands between 1750 and 1800. In fact, his research at the American Antiquarian Society has identified almost 3,000 advertisements that appeared in over 70 newspapers printed in each of the original 13 colonies. Physicians and apothecaries “used and sold peppermint-based products in every major city in every colony.”[^ref11]
-<param ve-map title="World" basemap="Esri_WorldPhysical" center="37.874967,-41.896891" zoom="3">
+<param ve-map title="World" basemap="Esri_WorldPhysical" center="37.874967,-41.896891" zoom="3.5">
 <param title="colonies" eid="Q179997" fill="#5C6609" marker-symbol="leaf">
 <param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/mintBrUSline.geojson">
 <param ve-map-layer geojson active title="Original 13 colonies" url="https://jstor-labs.github.io/plant-humanities/geojson/13colonies.geojson">
@@ -98,7 +98,7 @@ Over time, American mint oil production would spread westwards from the east coa
 <<param title="Ohio" eid="Q1397" fill="#2d862d" marker-symbol="leaf">
 <param title="Michigan" eid="Q1166" fill="#2d862d" marker-symbol="leaf">
 <param title="Willamette" eid="Q1703681" fill="#2d862d" marker-symbol="leaf">
-<param title="Puget Island" eid="Q3593402" fill="#2d862d" marker-symbol="leaf">-->
+<param title="Puget Island" eid="Q3593402" fill="#2d862d" marker-symbol="leaf">
 <param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/mintNamerica.geojson">
 <param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/lineofmint.geojson">
 
@@ -109,10 +109,10 @@ The mint industry in Washington and Oregon would go on to develop in line with s
 ### Conclusions
 
 The mint market in British American colonies and the early United States shows that peppermint has always been an item of commerce, and an inherently commercial crop. While the naming of mint species may have constantly been in flux, American peppermint was cultivated from species that we can trace today. In fact, the majority of commercial peppermint (over half of which is used for chewing gum) descends from *Mentha Piperita*. Two varieties, Black Mitcham and White Mitcham, were introduced into Michigan from Surrey, England, by 1883 because of their hardy nature.[^ref15]
-<param ve-image url="https://jstor-labs.github.io/plant-humanities/images/mintcollage.jpg">
+<param ve-image url="https://live.staticflickr.com/2468/3864989885_a902bf7699_h.jpg">
 
 Today, mint varieties are cultivated in many different parts of the world. Its range extends across the world, wherever there are appropriate habitats for it to flourish. Mints thrive when near water, which means that lakes, rivers, and even spaces in shade enable this fast-growing plant to be grown all year round. For example, wild mint (*Mentha arvensis*) is cultivated on a huge scale in Brazil, China, Paraguay, Japan, Thailand, Angola, and India.[^ref16] In this way, peppermint production in America, spreading across the breadth of the country over time, is a microcosm of the pattern of mint distribution across the world.
-<param ve-map title="World" basemap="Esri_WorldPhysical" center="36.34,11.19" zoom="2">
+<param ve-map title="Range of mint across the world" basemap="Esri_WorldPhysical" center="36.34,11.19" zoom="2" stroke-width="0" show-labels>
 <param ve-map-layer geojson active title="Global" url="https://jstor-labs.github.io/plant-humanities/geojson/globalmintdis.geojson">
 
 Mint is ubiquitous perhaps because it has remained relevant across time and space. The plant reveals something of the early difficulties of botanical exchange and naming; speaks to the local and global movement of plants; exposes changes and developments in medical thought and practices over time (the changing popularity of herbal remedies for example); and continues to play a role in global consumer markets and advertising. Mint, in other words, will always be relevant for historical, cultural, and geographical studies. And as Hades called forth the plant to ensure that Minthe would never be forgotten, we too are constantly reminded of this plant as we go about our daily lives.
