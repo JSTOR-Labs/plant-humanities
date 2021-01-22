@@ -112,7 +112,7 @@ It was against this backdrop that bedding or zonal pelargoniums soon became the 
 <param ve-image fit="contain" url="https://ia801904.us.archive.org/BookReader/BookReaderImages.php?id=gardensEngland00Broo&itemPath=%2F12%2Fitems%2FgardensEngland00Broo&server=ia801904.us.archive.org&page=n8_w617" title="Title page, chromolithograph from Edward Adveno Brooke, _The Gardens of England_, London: T. McLean, [1858?],Smithsonian Libraries, Biodiversity Heritage Library">
 
 <param ve-entity eid="Q219217" title="tulip mania" aliases="tulipomania">
-Hardy zonal pelargoniums were a favored plant of gardeners because they show off their blooms for extended periods, flowering even in slightly chilly climates.[^ref20] More significantly, nursery owners adored the pelargonium because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. By the late nineteenth century, vendors were falling over one another to market the newest, most magnificent plants that, in addition to those for bedding, included varieties of Regals with pretty-petal markings and others with ivy- or scented-leaves. Additional factors contributing to the mania for the pelargonium were the arrival of mass-produced pots and planters for displaying ornamental flowers and dazzling greenery. Desire to obtain novel cultivars became so frenzied that some compared it to the now infamous tulip-buying spree, known as “tulipomania,” that occurred in Holland in the 1630s.[^ref21]
+Hardy zonal pelargoniums were a favored plant of gardeners because they show off their blooms for extended periods, flowering even in slightly chilly climates.[^ref20] More significantly, nursery owners adored the pelargonium because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. By the late nineteenth century, vendors were falling over one another to market the newest, most magnificent plants that, in addition to those for bedding, included varieties of regals with pretty-petal markings and others, ivy- or scented-leaves, known for their pleasing foliage. Additional factors contributing to the mania for the pelargonium were the arrival of mass-produced pots and planters for displaying ornamental flowers and dazzling greenery. Desire to obtain novel cultivars became so frenzied that some compared it to the now infamous tulip-buying spree, known as “tulipomania,” that occurred in Holland in the 1630s.[^ref21]
 <param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:435776315" seq="21">
 <param ve-image
 title="The Victorian flower market" url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/THE_FLOWER_MARKET.jpg" fit="cover" attribution="Garden Musuem Collection">
@@ -247,11 +247,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, excepting tho
 [^ref37]: According to IFEAT's (the International Federation of Essential Oils and Aroma Trades) 2017 report: in China, 5,000 to 7,000 families are involved in the production of geranium oil and around 25,000-30,000 people are involved in the whole supply chain; for Egypt, the numbers are 8,000 families and about 30,000-35,000 people. Herb Society of America, _Pelargoniums: An Herb Society of America Guide_ (Mentor, OH: The Society, 2006), accessed January 20, 2021, [https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0](https://www.herbsociety.org/file_download/inline/2b2f9fc8-e827-446c-99da-1c1e8b6559d0).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzY5OTE2MCwtMTc4NzkxODAxMCw1Mj
-U4MjM4NDksNzE3MzEwMCwxNDg4Mzc0NzQ1LDM3Nzg5MzkwOCwt
-MTk4MTY1NjM2OCwtMTk0Nzc3NjE0MCwxNjg2OTEyNzE4LC01OD
-UxNjM2MTcsLTI2MzEwMzI2NiwzNDUxMDM2MzEsLTIxMDAzNzU5
-MDgsLTE4NDk0MjI0MTIsMTYxMTM5NzY5OSwtMTU4ODgzMDI1NS
-w5MTkyMTcxNDAsLTc3NjcyNjkxMSwtNDc2MTI2MzUxLDE5NDk0
-ODQwNjddfQ==
+eyJoaXN0b3J5IjpbLTE2NzQxMDIwNjQsLTE3ODc5MTgwMTAsNT
+I1ODIzODQ5LDcxNzMxMDAsMTQ4ODM3NDc0NSwzNzc4OTM5MDgs
+LTE5ODE2NTYzNjgsLTE5NDc3NzYxNDAsMTY4NjkxMjcxOCwtNT
+g1MTYzNjE3LC0yNjMxMDMyNjYsMzQ1MTAzNjMxLC0yMTAwMzc1
+OTA4LC0xODQ5NDIyNDEyLDE2MTEzOTc2OTksLTE1ODg4MzAyNT
+UsOTE5MjE3MTQwLC03NzY3MjY5MTEsLTQ3NjEyNjM1MSwxOTQ5
+NDg0MDY3XX0=
 -->
