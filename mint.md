@@ -95,7 +95,7 @@ By the mid-1850s, America’s mint industry was focused in Wayne County, New Yor
 
 Over time, American mint oil production would spread westwards from the east coast in New York State to the Pacific coast in Washington. Peppermint was being produced in Ohio and Michigan by 1833. Commercial peppermint was introduced to Idaho in 1903, and in Oregon’s Willamette River Valley in 1909. In 1917, drained land on Puget Island in a Columbia River estuary in Wahkiakum County, Washington, proved to be ideal land for mint farming on the Pacific coast. By the late 1920s, mint oil prices were high, no doubt the result of significant advertising campaigns fashioned by American manufacturers of mint-flavored confectionary, chewing gum, and toothpaste. Not only was mint valued in the domestic market, but it was exported as well. World War II slowed the export of mint, but the increased need for menthol from American-grown peppermint for supplying the armed forces saw peppermint and spearmint become an essential war crop.[^ref14]
 <param ve-map title="World" basemap="Esri_WorldPhysical" center="41.376639,-103.166347" zoom="4">
-<<param title="Ohio" eid="Q1397" fill="#2d862d" marker-symbol="leaf">
+<param title="Ohio" eid="Q1397" fill="#2d862d" marker-symbol="leaf">
 <param title="Michigan" eid="Q1166" fill="#2d862d" marker-symbol="leaf">
 <param title="Willamette" eid="Q1703681" fill="#2d862d" marker-symbol="leaf">
 <param title="Puget Island" eid="Q3593402" fill="#2d862d" marker-symbol="leaf">
