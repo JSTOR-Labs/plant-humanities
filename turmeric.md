@@ -48,7 +48,7 @@ Wherever its exact origin, anthropologists, historians, and botanists have long 
 title="Indian Subcontinent" url="https://jstor-labs.github.io/plant-humanities/geojson/India_Sub.geojson">
 
 The plant spread beyond South and Southeast Asia. After turmeric’s domestication in Southern Asia, and long before European colonization, it was diffused to Tahiti, Hawaii, and the Easter Islands.[^ref5]
-<param ve-map title="Spread of Turmeric" center="-0.091300, 107.056186" basemap="Esri_WorldPhysical" zoom="3">
+<param ve-map title="Spread of Turmeric" center="-0.091300, 107.056186" basemap="Esri_WorldPhysical" zoom="4">
 <param ve-map-layer geojson active title="Turmeric spreads out" url="https://jstor-labs.github.io/plant-humanities/geojson/Turmeric_Spread.json">
 
 ### Taking Root Westward
