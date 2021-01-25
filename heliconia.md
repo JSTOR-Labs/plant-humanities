@@ -15,7 +15,7 @@ Heliconias rank among the great botanical beauties of the natural world. Visuall
 <param ve-image fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/4/@@images/image" title="Margaret Mee, _Heliconia_, 1964, gouache, Dumbarton Oaks">
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
-<param ve-image region="pict:6430,103,551,454" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/map_heliconia_eight_families_order_Zingiberales_frame.jpg" title="Eight families of the order Zingiberales: Marantaceae, Cannaceae, Zingiberaceae, Costaceae, Heliconiaceae, Lowiaceae, Streliziaceae, and Musaceae">
+<param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/map_heliconia_eight_families_order_Zingiberales_frame.jpg" region="pict:7152,987,743,692" title="Eight families of the order Zingiberales: Marantaceae, Cannaceae, Zingiberaceae, Costaceae, Heliconiaceae, Lowiaceae, Streliziaceae, and Musaceae">
 The genus _Heliconia_ was named after Mount Helicon—in Greek mythology, the home of Apollo and the Muses—by none other than Carl Linnaeus, the father of modern taxonomy. The name, evocative of art and beauty, was intended to emphasize the close taxonomic relationship of _Heliconia_ to the genus _[Musa]_ approximately 185 species of Heliconia worldwide, but there are undoubtedly one or two dozen more species to discover and describe in the tropical forests of the <span data-click-image-zoomto="1429,2117,1290,1100">two distinct regions across the globe</span> (South America and the South Pacific) where they grow as native plants.
 
 ### A Short History of Horticultural Excitement for Heliconia
