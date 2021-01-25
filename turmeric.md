@@ -87,7 +87,7 @@ The use of turmeric within the broader pantheon of curry powder spices did more 
 ### The Foreign Becomes Domestic
 
 As Deborah Lupton writes in her work Food, the Body, and the Self, “by taking food into the body, we take in the world.”[^ref8] Eating foods spiced with turmeric provided one means through which British consumers could take in the larger empire, both exoticizing it for their own benefit while domesticating it as a British property. This is not to argue that turmeric was solely imported or popularized for ideological reasons—as Marcy Norton has shown, “new tastes emerged out of the social matrix” created by imperialism writ large.[^ref9] Turmeric, as an important ingredient in South Asian cuisine, was one such foodstuff whose popularity, at least in Europe, most likely increased due to contact with South Asian foodways. And yet, the cultural significance of turmeric, as an exoticized yet domesticated good, demonstrates the ways plants functioned not only as catalysts for imperial expansion, but also as a means through which ideas about the British Empire were diffused. 
-<param ve-map title="The Countries of the British Empire" center="15.103853, 18.634794" basemap="Esri_WorldPhysical" zoom="1">
+<param ve-map title="Former Countries of the British Empire" center="15.103853, 18.634794" basemap="Esri_WorldPhysical" zoom="2">
 <param ve-map-layer geojson active title="Former Countries of the British Empire" url="https://jstor-labs.github.io/plant-humanities/geojson/british_empire_2.geojson">
 
 ### References
