@@ -1,0 +1,1219 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "wd:Q4352659",
+        "marker-color": "#dcffc7",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "date": "3000 BCE",
+        "description": "Uan Muhuggiag, Libya; seeds found",
+        "label": "Uan Muhuggiag, Libya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.931640625,
+          26.115985925333536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dcffc7",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "date": "3000 BCE",
+        "id": "wd:Q57477018",
+        "description": "Quseir al-Qadim, Egypt; seeds found",
+        "label": "Queseir al-Qadim, Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.26189422607422,
+          26.110745198347175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb994",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "date": "100 CE",
+        "id": "wd:Q1011544",
+        "description": "'En Gedir, Israel; seeds found",
+        "label": "'En Gedir, Israel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46180725097656,
+          31.552793227677334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dcffc7",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "date": "2500 BCE",
+        "id": "wd:Q11768",
+        "description": "Ancient Egyptian tombs; seeds found",
+        "label": "Egyptian tombs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6953125,
+          25.70836223727873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffed94",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "date": "1323 BCE",
+        "id": "wd:Q835309",
+        "description": "King Tutankhamen's tomb; seeds found",
+        "label": "King Tutankhamen's tomb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.628021240234375,
+          25.75413552707459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffd080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "date": "650 BCE",
+        "id": "wd:Q156882",
+        "description": "Samos, Greece; seeds found",
+        "label": "Samos, Greece"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8231201171875,
+          37.751172385606196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff7070",
+        "marker-color": "#ff7070",
+        "id": "wd:Q3392",
+        "date": "1500 BCE",
+        "marker-symbol": "",
+        "description": "Sudan; fruit and seeds found",
+        "label": "Range of wild watermelon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.113281249999996,
+          14.26438308756265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "",
+        "marker-color": "#ffadad",
+        "date": "920",
+        "id": "wd:Q948",
+        "description": "Tunisia; referenced in treatises",
+        "label": "Tunisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.404296875,
+          33.54139466898275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffbdbd",
+        "date": "800",
+        "id": "wd:Q668",
+        "description": "India; via trade",
+        "label": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0029296875,
+          22.14670778001263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffadad",
+        "date": "1158",
+        "id": "wd:Q8717",
+        "description": "Seville, Spain; seeds found",
+        "label": "Seville, Spain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99578857421875,
+          37.41598184194613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffbdbd",
+        "date": "1100",
+        "id": "wd:Q29520",
+        "description": "China; via trade",
+        "label": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.314453125,
+          34.813803317113155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff7070",
+        "date": "1576",
+        "id": "wd:Q555528",
+        "description": "Spanish Florida; cultivated",
+        "label": "Spanish Florida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8701171875,
+          28.57487404744697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1629",
+        "marker-size": "",
+        "marker-color": "#ff7070",
+        "marker-symbol": "",
+        "description": "Massachusetts Bay Colony; cultivated",
+        "id": "wd:Q1191350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3287353515625,
+          42.4275113263909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff7070",
+        "label": "Circum-Caribbean",
+        "date": "1600",
+        "description": "Caribbean; via slave trade",
+        "id": "wd:Q664609",
+        "fill": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.783203125,
+          21.453068633086783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff7070",
+        "label": "Circum-Caribbean",
+        "date": "1600",
+        "id": "wd:Q664609",
+        "description": "Caribbean; via slave trade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.103515625,
+          19.228176737766262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff7070",
+        "label": "Circum-Caribbean",
+        "date": "1600",
+        "marker-size": "",
+        "id": "wd:Q664609",
+        "description": "Caribbean; via slave trade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.78515625,
+          10.487811882056695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff7070",
+        "label": "Circum-Caribbean",
+        "date": "1600",
+        "id": "wd:Q664609",
+        "stroke": "",
+        "description": "Caribbean; via slave trade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.99609375,
+          14.859850400601037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1650",
+        "marker-color": "#ff7070",
+        "id": "wd:Q15217022",
+        "description": "Panama; cultivated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.903564453125,
+          9.243092645104804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1650",
+        "marker-color": "#ff7070",
+        "id": "wd:Q211435",
+        "description": "Peru; cultivated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2890625,
+          -10.055402736564224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1650",
+        "marker-color": "#ff7070",
+        "id": "wd:Q2088324",
+        "description": "Brazil; cultivated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03125,
+          -7.362466865535738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff7070",
+        "marker-size": "",
+        "date": "1700",
+        "id": "wd:Q846627",
+        "description": "Ocmulgee region, Georgia; cultivated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97973632812499,
+          32.39851580247402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff7070",
+        "marker-size": "",
+        "date": "1700",
+        "description": "Conchos people; cultivated",
+        "id": "wd:Q6463286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4193115234375,
+          29.6594160549124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1700",
+        "marker-size": "",
+        "marker-color": "#ff7070",
+        "description": "Zuni people; cultivated",
+        "id": "wd:Q231317",
+        "fill": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.775634765625,
+          34.84085858477277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff7070",
+        "marker-size": "",
+        "date": "1700",
+        "description": "Huron people; cultivated",
+        "id": "wd:Q213396"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.266845703125,
+          44.37098696297173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff7070",
+        "date": "1750",
+        "id": "wd:Q213396",
+        "description": "Mississippi Valley; cultivated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.20849609375,
+          34.23451236236987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1750",
+        "marker-size": "",
+        "marker-color": "#ff7070",
+        "id": "wd:Q852431",
+        "marker-symbol": "",
+        "description": "Puebloan people; cultivated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1761474609375,
+          34.21634468843463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1750",
+        "marker-size": "",
+        "label": "San people, Kalahari Desert",
+        "marker-color": "#ff7070",
+        "description": "San people; cultivated",
+        "id": "wd:Q172365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.08251953125,
+          -23.68477416688374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1778",
+        "marker-size": "",
+        "label": "Pacific Islanders",
+        "marker-color": "#ff7070",
+        "id": "wd:Q2065556",
+        "description": "Pacific Islanders; cultivated via James Cook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.52491760253906,
+          22.099000759798155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1395",
+        "marker-size": "",
+        "label": "Italy",
+        "marker-color": "#fd9b9b",
+        "id": "wd:Q38",
+        "description": "Italy; referenced in Tacuinum Sanitatis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.645019531249998,
+          42.049292638686836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "wd:Q5818",
+        "marker-color": "#ffadad",
+        "date": "961",
+        "description": "Cordoba, Spain; seeds found",
+        "label": "Cordoba, Spain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7845458984375,
+          37.88569271818349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb994",
+        "date": 200,
+        "description": "Greece",
+        "id": "wd:Q41",
+        "label": "Greece"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.62109375,
+          39.36827914916014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "#fdaa9b",
+        "date": "510",
+        "id": "wd:Q38",
+        "description": "Italy; referenced in Mazzini",
+        "label": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6337890625,
+          41.409775832009565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "516",
+        "marker-color": "#fdaa9b",
+        "description": "France",
+        "id": "wd:Q70972",
+        "marker-size": "",
+        "marker-symbol": "",
+        "label": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8779296875,
+          44.74673324024678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff7070",
+        "date": "1597",
+        "description": "England; John Gerard's Herball",
+        "id": "wd:Q179876",
+        "label": "England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.318359375,
+          52.10650519075632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "stroke": "#ffed94",
+        "date": "200"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.8271484375,
+            27.293689224852407
+          ],
+          [
+            32.4755859375,
+            28.497660832963472
+          ],
+          [
+            31.904296874999996,
+            29.649868677972304
+          ],
+          [
+            31.113281249999996,
+            30.751277776257812
+          ],
+          [
+            29.355468750000004,
+            32.69486597787505
+          ],
+          [
+            27.94921875,
+            34.08906131584994
+          ],
+          [
+            26.0595703125,
+            35.60371874069731
+          ],
+          [
+            24.43359375,
+            37.125286284966805
+          ],
+          [
+            22.67578125,
+            38.44498466889473
+          ],
+          [
+            22.939453125,
+            36.4566360115962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "stroke": "#ffed94",
+        "date": "200"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.69775390625,
+            38.47939467327645
+          ],
+          [
+            25.0048828125,
+            38.08268954483802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "stroke": "#ffed94",
+        "date": "200"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.32275390625,
+            33.706062655101206
+          ],
+          [
+            28.30078125,
+            31.98944183792288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "stroke": "#ffed94",
+        "date": "200"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.3447265625,
+            33.7243396617476
+          ],
+          [
+            30.454101562499996,
+            33.247875947924385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffbdbd",
+        "stroke-width": 3,
+        "date": "800",
+        "label": "via trade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.92578125,
+            28.304380682962783
+          ],
+          [
+            40.95703125,
+            31.653381399664
+          ],
+          [
+            48.1640625,
+            35.02999636902566
+          ],
+          [
+            55.8984375,
+            37.16031654673677
+          ],
+          [
+            63.984375,
+            38.41055825094609
+          ],
+          [
+            74.53125,
+            38.41055825094609
+          ],
+          [
+            83.14453125,
+            37.85750715625203
+          ],
+          [
+            91.58203125,
+            36.4566360115962
+          ],
+          [
+            98.96484375,
+            34.74161249883172
+          ],
+          [
+            97.03125,
+            39.90973623453719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffbdbd",
+        "stroke-width": 3,
+        "fill": "",
+        "date": "800"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            99.052734375,
+            34.813803317113155
+          ],
+          [
+            94.658203125,
+            31.42866311735861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffbdbd",
+        "stroke-width": 3,
+        "date": "800"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            64.072265625,
+            38.47939467327645
+          ],
+          [
+            60.380859375,
+            40.64730356252251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffbdbd",
+        "stroke-width": 3,
+        "date": "800"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            63.984375,
+            38.47939467327645
+          ],
+          [
+            62.22656249999999,
+            35.67514743608467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "1576",
+        "stroke": "#ff7070",
+        "stroke-width": 3,
+        "label": "via Spanish colonists"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.44921875,
+            40.58058466412761
+          ],
+          [
+            -11.77734375,
+            41.64007838467894
+          ],
+          [
+            -18.80859375,
+            41.64007838467894
+          ],
+          [
+            -26.54296875,
+            41.11246878918088
+          ],
+          [
+            -34.453125,
+            40.04443758460856
+          ],
+          [
+            -41.1328125,
+            39.232253141714885
+          ],
+          [
+            -48.8671875,
+            37.85750715625203
+          ],
+          [
+            -57.65624999999999,
+            36.1733569352216
+          ],
+          [
+            -65.56640625,
+            34.30714385628804
+          ],
+          [
+            -72.24609375,
+            32.69486597787505
+          ],
+          [
+            -77.87109375,
+            30.90222470517144
+          ],
+          [
+            -74.1796875,
+            37.16031654673677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff7070",
+        "stroke-width": 3,
+        "date": "1576"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.87109375,
+            30.751277776257812
+          ],
+          [
+            -70.83984375,
+            29.84064389983441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff7070",
+        "stroke-width": 3,
+        "date": "1576"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.84765625,
+            39.774769485295465
+          ],
+          [
+            -34.62890625,
+            44.465151013519616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff7070",
+        "stroke-width": 3,
+        "date": "1576"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.84765625,
+            39.50404070558415
+          ],
+          [
+            -32.34375,
+            37.020098201368114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff7070",
+        "stroke-width": 3,
+        "date": "1600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.1171875,
+            18.646245142670608
+          ],
+          [
+            -25.224609375,
+            20.715015145512087
+          ],
+          [
+            -29.443359375,
+            21.53484700204879
+          ],
+          [
+            -33.3984375,
+            22.350075806124867
+          ],
+          [
+            -41.220703125,
+            23.40276490540795
+          ],
+          [
+            -48.33984375,
+            23.40276490540795
+          ],
+          [
+            -58.447265625,
+            22.59372606392931
+          ],
+          [
+            -65.21484375,
+            22.43134015636061
+          ],
+          [
+            -70.400390625,
+            22.105998799750566
+          ],
+          [
+            -74.619140625,
+            21.779905342529645
+          ],
+          [
+            -71.279296875,
+            24.686952411999155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff7070",
+        "stroke-width": 3,
+        "date": "1600",
+        "label": "via Atlantic slave trade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.44335937499999,
+            21.861498734372567
+          ],
+          [
+            -71.015625,
+            20.2209657795223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff7070",
+        "stroke-width": 3,
+        "date": "1600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.87890625,
+            23.483400654325642
+          ],
+          [
+            -42.5390625,
+            26.352497858154024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff7070",
+        "stroke-width": 3,
+        "date": "1600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -45.791015625,
+            23.40276490540795
+          ],
+          [
+            -42.5390625,
+            21.207458730482642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff7070",
+        "stroke-width": 3,
+        "date": "1650"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.705078125,
+            31.80289258670676
+          ],
+          [
+            -82.08984375,
+            33.797408767572485
+          ],
+          [
+            -81.5625,
+            35.53222622770337
+          ],
+          [
+            -81.03515625,
+            37.020098201368114
+          ],
+          [
+            -79.98046875,
+            38.47939467327645
+          ],
+          [
+            -78.837890625,
+            39.436192999314095
+          ],
+          [
+            -77.431640625,
+            40.78054143186033
+          ],
+          [
+            -76.11328125,
+            41.64007838467894
+          ],
+          [
+            -79.189453125,
+            41.50857729743935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff7070",
+        "stroke-width": 3,
+        "date": "1650"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.201171875,
+            41.64007838467894
+          ],
+          [
+            -76.025390625,
+            39.90973623453719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff7070",
+        "stroke-width": 3,
+        "date": "1650"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.890625,
+            32.02670629333614
+          ],
+          [
+            -91.845703125,
+            32.99023555965106
+          ],
+          [
+            -96.591796875,
+            33.578014746143985
+          ],
+          [
+            -100.45898437499999,
+            33.797408767572485
+          ],
+          [
+            -105.380859375,
+            33.7243396617476
+          ],
+          [
+            -102.919921875,
+            31.80289258670676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff7070",
+        "stroke-width": 3,
+        "date": "1650"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -105.380859375,
+            33.797408767572485
+          ],
+          [
+            -103.447265625,
+            35.817813158696616
+          ]
+        ]
+      }
+    }
+  ]
+}
