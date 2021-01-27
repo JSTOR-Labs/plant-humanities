@@ -8,7 +8,7 @@
 	num-primary-sources="0"
 	author="Wouter Klein, PhD">
 
-### The cinnamon challenge test
+### The cinnamon challenge
 
 In 2012-2013, the ‘cinnamon challenge’ was a short-lived internet hype. Although the instructions were simple enough – try to swallow a tablespoon of cinnamon at once – they proved to be virtually impossible to follow in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterized by extreme exhalation of cinnamon powder (known as ‘dragon breath’). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestible clutter at the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote to the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos that tried to capture the ‘cinnamon challenge’ or as a quotidian kitchen spice will be surprised to learn that the real challenge has been an ongoing effort, to find out what cinnamon actually is, as a plant and as a medicine.
 <param title="cinnamon challenge" eid="Q420721">
