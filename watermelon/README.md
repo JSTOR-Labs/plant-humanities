@@ -1,5 +1,5 @@
 <param ve-config
-	title="Watermelon: ‘What the angels eat’"
+	title="Watermelon: The Food of Angels"
 	banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
 	layout="vtl"
 	num-maps="3"
@@ -37,7 +37,7 @@
 
 ### Watermelon, the food of angels
 
-Mark Twain once said that watermelon “is the chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat.”[^ref1] Though today ‘watermelon’ calls to mind a sturdy melon with refreshing, sweet, red flesh, for most of its millennia-long history as a cultivated crop it was known as a pale, hard, sometimes bitter fruit with relatively tender rind. Not until the sixth century CE were watermelons associated with sweet fruits like figs and grapes, and it was not until well into the 1400s that the uniformly red, thick-rinded watermelons that we recognize today began to appear. Throughout its history, the watermelon has been associated with medicine, vitality, racism, and disease, revealing a darker side to the sweet summer fruit that we know and love. 
+Mark Twain once said that the watermelon “is the chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat.”[^ref1] Though today the word “watermelon” calls to mind a sturdy gourd with refreshing, sweet, red flesh, for most of its millennia-long history as a cultivated crop it was known as a pale, hard, sometimes bitter fruit with relatively tender rind. Not until the sixth century CE were watermelons associated with sweet fruits such as figs and grapes; and it was not until well into the 1400s that the uniformly red, thick-rinded watermelons that are familiar to us today began to appear. Throughout its history across the globe, the watermelon was primarily a source of food, medicine, and drink. Its cultural history, however, reveals not only stories of racism, but also of contagion and disease, a darker side to the delicious summer fruit that we know and love.
 <param ve-vis-network
 	url="watermelon.csv">
 <param ve-image
@@ -47,15 +47,15 @@ Mark Twain once said that watermelon “is the chief of this world’s luxuries,
 	attribution="Wikimedia Commons">
 {#paragraph1}
 
-### Whose vine is it anyway?
+### Whose Vine Is It Anyway?
 
-Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the _Citrullus lanatus_ species, but the _Citrullus_ genus includes at least six other species of watermelons, including the citron _(C. caffer)_, egusi _(C. mucosospermus)_ and colocynth _(C. colocynthis)_ watermelons, which at one time were variously called or classified as subspecies of _C. lanatus_.[^ref2] Past taxonomies of the sweet dessert watermelon are therefore of minimal use for tracing its origins until further genetic analysis is undertaken; instead, literary references and visual depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
+The precise historical origins of the watermelon are obscured by its broad geographical spread today and many existent varieties, as well as the fact that its most iconic component – the tender, watery flesh – does not survive well in the archaeological record. When we refer to watermelon, we usually mean the “sweet dessert” cultivars of _Citrullus lanatus_, but the _Citrullus_ genus includes at least six other species, including the citron melon (_Citrullus caffer_), egusi melon (_Citrullus mucosospermus_), and colocynth melon (_Citrullus colocynthis_).[^ref2] Though the watermelon’s origins have been located throughout the African continent, current hypotheses point to its first domestication in northeastern Africa around six thousand years ago. Wild desert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya, adjacent to the Nile Valley.[^ref4] Some of the earliest iconography of oblong melons – an indication of their domestication – can be found in Egyptian tombs and Roman and Byzantine mosaics, with seeds also found in the famous King Tutankhamen’s tomb.[^ref5]
 <param ve-plant-specimen
 	eid="Q30160603"
 	max="2">
 {#paragraph2}
 
-Species in the genus _Citrullus_ characteristically grow on vines with pinnatifid (feather-like) leaves and only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white.[^ref3] Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in north-eastern Africa around six thousand years ago. Wild dessert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya, adjacent to the Nile Valley[^ref4] and some of the earliest iconography of oblong melons — an indication of domestication — can be found in Egyptian tombs and Mediterranean and Byzantine mosaics, and seeds were found in the famous King Tutankhamen’s tomb.[^ref5]
+[CHECK: PARTS OF THIS PARAGRAPH HAVE BEEN ADDED TO THE PREVIOUS ONE, BUT HAS THE REST BEEN DELETED OR ADDED ON ANOTHER PLACE?] Species in the genus _Citrullus_ characteristically grow on vines with pinnatifid (feather-like) leaves and only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white.[^ref3] Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in north-eastern Africa around six thousand years ago. Wild dessert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya, adjacent to the Nile Valley[^ref4] and some of the earliest iconography of oblong melons — an indication of domestication — can be found in Egyptian tombs and Mediterranean and Byzantine mosaics, and seeds were found in the famous King Tutankhamen’s tomb.[^ref5]
 <param ve-image
 	title="Representations of watermelon in Egyptian tombs"
 	url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/116/2/10.1093_aob_mcv077/2/mcv077f2p.png?Expires=1599137500&Signature=R-SPwg8TMVoQjtTuWH~HxugVkhIGbt6Jbh~qJv9YIzrz8CKD2JJUkfkcfZgF6N1mEmDkiXwIdyBr7IN8O8cIVvXJyeQFqr5G7gb~8ZvMRo1O0SPU4md~VWlToHpEklMkrX1qXbf-hrk0E-pgjjUT~jZbxp~wxd56NOV8-Xx7OhD~Kf4q0UuI6I81CFwO7aAzWfFtfbgscQTKquRGow81UBR9aNJJ5gh7jpOGZ3nr9A1~fUDuSmnqr1DbTZ67CjsLmb3qSEsw5ReuBqlUJJUEIaYUGstmRegjrnhrPpF9zhIZ13ats0ADxNeubChfhUte22fulFhjYxTaGbJN2DS04Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
@@ -77,7 +77,7 @@ Species in the genus _Citrullus_ characteristically grow on vines with pinnatifi
 	geojson active>
 {#paragraph3}
 
-In the arid savanna regions of Africa, watermelons were welcomed as sources of water, the flesh generally being cooked or beaten to a pulp to extract the water. In southern Africa’s Kalahari Desert, for example, the multiple uses of the flesh, rind, and seeds in their fresh, cooked, and dried forms helped some groups to remain sedentary and hydrated throughout the wet and dry seasons.[^ref7] As they became domesticated, watermelons were bred to yield softer and sweeter flesh, excluding traits like the mucilaginous egusi seeds or the hard, bitter flesh of the citron melon, although western and southern African cuisines still make use of these elements today.[^ref8] 
+In Africa’s arid savanna regions, watermelons were originally welcomed as sources of liquid, their flesh generally being cooked or beaten to a pulp to extract the juice. In the Kalahari Desert in southern Africa, the multiple uses of the flesh, rind, and seeds that were eaten fresh, cooked, and dried also helped some population groups to remain sedentary and hydrated throughout both wet and dry seasons.[^ref7] As they became domesticated, watermelons were bred to yield softer and sweeter flesh and exclude such less desirable traits as the mucilaginous egusi seeds or the hard, bitter flesh of the citron melon, although western and southern African cuisines still make use of them today.[^ref8]
 <param ve-image
 	title="Kalahari watermelon"
 	url="https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F69718619%2Foriginal.jpg%3F1588016254"
@@ -85,9 +85,34 @@ In the arid savanna regions of Africa, watermelons were welcomed as sources of w
 	attribution="GBIF">
 {#paragraph4}
 
-### Seeing red... eventually
+### More Than Just a Fruit…
 
-Watermelon-like fruit were referenced in ancient texts using a variety of terms including _pepon_, _melopepon_ and _kolokynte_, suggesting some kinds of watermelon had proliferated to the Mediterranean region by the common era. Around 77 CE, Pliny dedicated a section of his [_Natural History_](https://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL392.9.xml) to _pepones_, which, he wrote, made a very refreshing food, but also had a laxative effect. Various parts of the fruit were used to alleviate pain, to induce vomiting, and even to cleanse the skin and clear spots.[^ref9] In this era, these "watermelons" likely still had quite sturdy and pale flesh, not quite red and soft. Two thousand years later in 1888, watermelon was still being promoted as a face cleanser in reports by a Miss Carrie Townsend from St. Louis carried in US newspapers. Townsend, who felt sorry for girls with freckles who looked “as if they had been about when a bran bin had exploded,” claimed that no matter what was wrong with the face, the juice of the watermelon would rectify it.[^ref10] Although perhaps not quite as powerful as Townsend suggests, components of the watermelon are re-emerging as a natural skin cleanser today, such kalahari or ootanga oil traditionally extracted from the seeds in West Africa. 
+Watermelon-like fruit were referenced in ancient Greek and Roman texts using a variety of terms including pepon, melopepon, and kolokynte, suggesting that these plants proliferated in the Mediterranean region during antiquity.[^ref9] At that time, they were still likely to have sturdy and pale flesh—not quite as red and soft as it is today. Pliny the Elder dedicated a section of his [_Natural History_](https://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL392.9.xml) [DELETE LINK?] to _pepones_, which, he wrote, made a very refreshing food, but also had a laxative effect. Various parts of the fruit were used to alleviate pain, induce vomiting, and even cleanse the skin and clear spots.[^ref10]
+
+Watermelons were cultivated in Spain after the Arab conquest, with evidence of their agricultural use, mostly in the form of seeds, dating to the tenth century. Illuminated manuscripts from southern Italy illustrate the varieties of watermelons grown there. Early health treatises, such as _Tacuinum Sanitatis_, show harvesters [who taste-test them](http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=75&Fin=75&Param=C) in the fields. However, sweetness did not appear to be a consistent characteristic of watermelons. Writing in the late sixteenth century, John Gerard, in his [_Herball_](https://www.biodiversitylibrary.org/item/109874#page/789/mode/1up), described their flesh as “spungie and of a flimsie substance,” which could be “eaten rawe, but more commonly boiled”; whereas the plant itself was still associated with curative properties: “it ingendereth a waterish bloud, mitigateth the extremitie of heat of the inner parts, and tempereth the sharpness and fervent heat of choler.”[^ref15]
+<param ve-image
+	title="Watermelon in the Tacuinum Sanitatis, c. 1390-1400"
+	url="http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=74&Fin=74&Param=C"
+	fit="contain"
+	attribution="Bibliothèque Nationale de France">
+<param ve-image
+	title="Watermelon in the Carrara Herbal"
+	url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Carrara_Herbal21.jpg"
+	region="0,636,999,729"
+	attribution="British Library. Egerton MS 2020">
+<param ve-image
+	title="‘Anguriae’ in Mathiolli’s Dioscorides."
+	url="https://www.archive.org/download/mobot31753000819224/page/n512_w299"
+	fit="contain"
+	attribution="BHL">
+<param ve-image
+	title="Citrull cocumber in Gerard’s Herball"
+	url="https://www.archive.org/download/mobot31753000817756/page/n949_w320"
+	fit="contain"
+	attribution="BHL">
+{#paragraph7}
+
+In fact, centuries later, in 1888, watermelons were still being promoted as a face cleanser in U.S. newspapers. A certain Miss Carrie Townsend from St. Louis, Missouri, recommended them to girls with freckles who looked “as if they had been about when a bran bin had exploded,” claiming that no matter what was wrong with the face, the juice of the watermelon would rectify it.[^ref11] Although perhaps not quite as powerful as Miss Townsend suggests, watermelon-based treatments are re-emerging as a natural skin cleanser today, including West African kalahari or ootanga oil that is traditionally extracted from the fruit’s seeds.
 <param ve-image
 	title="Cucurbits on the Juliana Anicia Codex known as Vienna Dioscorides. Number C is _Citrullus colocynthis_, the bitter watermelon, the close relative to watermelon used as laxative and diuretic."
 	url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/100/7/10.1093/aob/mcm242/2/mcm24201.jpeg?Expires=1599152059&Signature=uPLyghEFxoPNUp8Bl7c-mT7iQ1W~Vy~voNczo6PqfdEMJ5AVzGOp6XpmFbAm7wrO3f4l0fF-941C9t-471o-otlXzw7OQvxAiN-Axh-DI2Rhvk5ldA4AdSV0hZG-d7il~xO7xeBxDm6hcfWM~uDu9uF5-c-hezzb6CAAxi2RqijxttXO6TSyOSlwUPnWUL7YJTl5y9S7cwulGYA9Wo23ukLP9sy1L0Q~O78iXt1TpCVwvPGgJDbkgwLvuAuqHsxAAQvP3HYnZyfwAPuLFB1sU52SHuNrhBIi0xbSGgj54Nmpcwvz6qvSpPPmPm8toDKk1rdAFSLiNikq1xL8ZHqD~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
@@ -95,7 +120,9 @@ Watermelon-like fruit were referenced in ancient texts using a variety of terms 
 	attribution="Annals of Botany">
 {#paragraph5}
 
-By the ninth and twelfth centuries CE respectively, watermelons had arrived in India and China via regional routes.[^ref11] The watermelon and its sinewy vines soon became a decorative icon, with associations of vitality and playfulness that persist today. In fourteenth-century Japanese Buddhist representations of arhats (those reaching nirvana in Buddhist tradition), watermelons appear in spiritual terms as a religious offering. Early Korean paintings from the Joseon Dynasty by the female artist Shin Saimdang (1504-1551) also [depicted](https://www.museum.go.kr/site/eng/relic/represent/view?relicId=2061) watermelons, symbolically alongside flowers, butterflies and mice.[^ref12] The arching vines of the watermelon plant and seeds exposed by the mice symbolized wishes for healthy and abundant children, echoed in the nearby dianthus flower which represented a wish for “no white hairs,” or lasting youth. Another one of Shin’s depictions of watermelons appears on the 5000 won banknote today, as a reminder of Shin’s dedication to art, family, civic virtue and gender equality.[^ref13]
+### Watermelons in Art Around the World
+
+By the ninth and twelfth centuries, watermelons had spread, respectively, to India and China, travelling regional trade routes.[^ref12] Distinguished by its sinewy vines, the fruit was associated with vitality and playfulness and soon became the object of artistic attention. Fourteenth-century Japanese representations of arhats – those who reached nirvana in the Buddhist tradition – for instance, show watermelons as a religious offering. Korean paintings from the Joseon Dynasty by the female artist Shin Saimdang (1504-1551) depict watermelons alongside flowers, butterflies, and mice, with their arching vines and exposed seeds symbolizing a wish for healthy and abundant children.[^ref13] One of Shin’s depictions of watermelons appears on the 5,000 won banknote today.[^ref14]
 <param ve-map
 	basemap="Esri_WorldPhysical"
 	time-selector="1000 BCE:1400"
@@ -122,30 +149,7 @@ By the ninth and twelfth centuries CE respectively, watermelons had arrived in I
 	attribution="Wikimedia Commons"> 
 {#paragraph6}
 
-Moorish conquerors of Spain left agricultural evidence of the watermelon, mostly in the shape of seeds, in the tenth century CE, and illuminated manuscripts shed light on the varieties of watermelons grown in southern Italy. The watermelon appearing in subsequent European manuscripts seemed to be more palatable than Pliny’s pepones: early health treatises (_Tacuinum Sanitatis_) often commissioned by Italian nobility in the 14th century show that they may have been so delectable that harvesters [would taste test them](http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=75&Fin=75&Param=C) in the fields. However, the sweetness — related to the redness of the flesh — of the melons does not appear to be consistent. Writing in the late 16th century, John Gerard, in his [_Herball_](https://www.biodiversitylibrary.org/item/109874#page/789/mode/1up), described the flesh as “spungie and of a flimsie substance” which can be “eaten rawe, but more commonly boiled” and was still more notable for its healthful properties: “it ingendereth a waterish bloud, mitigateth the extremitie of heat of the inner parts, and tempereth the sharpness and fervent heat of choler.”[^ref14] 
-<param ve-image
-	title="Watermelon in the Tacuinum Sanitatis, c. 1390-1400"
-	url="http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=74&Fin=74&Param=C"
-	fit="contain"
-	attribution="Bibliothèque Nationale de France">
-<param ve-image
-	title="Watermelon in the Carrara Herbal"
-	url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Carrara_Herbal21.jpg"
-	region="0,636,999,729"
-	attribution="British Library. Egerton MS 2020">
-<param ve-image
-	title="‘Anguriae’ in Mathiolli’s Dioscorides."
-	url="https://www.archive.org/download/mobot31753000819224/page/n512_w299"
-	fit="contain"
-	attribution="BHL">
-<param ve-image
-	title="Citrull cocumber in Gerard’s Herball"
-	url="https://www.archive.org/download/mobot31753000817756/page/n949_w320"
-	fit="contain"
-	attribution="BHL">
-{#paragraph7}
-
-In the seventeenth to nineteenth centuries, the watermelon became a common minor crop in European gardens and began to appear frequently in European and American still lifes, providing a diverse visual archive of watermelon varieties. The seventeenth century watermelons of Albert Eckhout and Giovanni Stanchi, for example, exhibit whorls of red flesh amongst white rind and give us a sense of how much the watermelon has changed even in the last few hundred years. The inclusion of watermelons in still lifes also provides an insight into the multitude of cultural values associated with the fruit at the time. Whilst American still lifes, such as those of the prolific Peale family in the early nineteenth century, placed the melon amidst almost nauseating abundance and plenty, European artists would often [cut through that fantasy](https://www.flickr.com/photos/104901827@N06/46017346544) quite literally with the abrupt imposition of a knife as a harsh reminder of the fleeting nature of life.
+As the watermelon became common in European kitchen gardens, it began to appear frequently in still life paintings. Seventeenth-century paintings by Albert Eckhout and Giovanni Stanchi reveal whorls of red flesh among white rind, showing how much the fruit has changed since antiquity. The inclusion of watermelons in still lifes also provides insights into the multitude of cultural meanings associated with the plant. While American still lifes, such as those by the prolific Peale family in the early nineteenth century, featured the watermelon amid overwhelming images of abundance and plenty, Baroque artists would quite literally [cut through that fantasy](https://www.flickr.com/photos/104901827@N06/46017346544) with the abrupt imposition of a knife as a symbol of the fleeting nature of life.
 <param ve-image
 	title="‘Pineapple, watermelons and other fruits (Brazilian fruits)’ by Albert Eckhout (1610-1666)"
 	url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
@@ -162,7 +166,7 @@ In the seventeenth to nineteenth centuries, the watermelon became a common minor
 	attribution="Wikimedia Commons">
 {#paragraph8}
 
-Diverse types of watermelon are also represented in styles commonly associated with European botanical specimens with the fruits sitting in isolation, such as in Maria Sybilla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/online-exhibits/maria-sibylla-merian/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium) and the nineteenth-century illustration shown to the right. This latter painting is taken from an [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, likely executed by a Chinese artist working in Malaysia or Sumatra. In it, different stages in the growth of the flower and the fruit are shown alongside the seeds and a vivid cross-section, again echoing the whorls of earlier depictions. The bright and appealingly visual nature of the modern watermelon left it uniquely open to enrolment into the racist visual tropes of nineteenth-century America. 
+Another artistic context in which watermelons were occasionally featured concerns representations of botanical specimens. In this case, they are shown in isolation, as in Maria Sibylla Merian’s [_Metamorphosis insectorum Surinamesium_](https://www.doaks.org/resources/online-exhibits/maria-sibylla-merian/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium). An example from across the globe is from the [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, which was likely executed by Chinese artists working in Malaysia or Sumatra. Different stages in the growth of the melon’s flower and the fruit are shown alongside representations of seeds and a vivid cross-section, giving a full array of botanical information.
 <param ve-image
 	title="‘Melon d’Eau,’ Metamorphosis, Maria Sybilla Merian (1719)"
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:481769537"
@@ -178,9 +182,9 @@ Diverse types of watermelon are also represented in styles commonly associated w
 	attribution="Dumbarton Oaks">
 {#paragraph9}
 
-### Watermelons, race, and the American South 
+### Watermelons, Race, and the American South 
 
-Watermelons were brought to the Americas in the sixteenth century, introduced by colonists and African slaves and cultivated widely by indigenous populations and in slave gardens. After the 1863 Emancipation Proclamation, the watermelon briefly became a tool of black citizenship; the ease with which watermelons could be grown and sold meant that they became a source of income for freed slaves.[^ref15] Although the watermelon initially held a certain amount of emancipatory potential for African-Americans both through their sale enabling the escape of the plantation economy and through the consumption of watermelons as a public and communal activity enacting newfound freedoms, the watermelon soon became perceived as a threat by white southerners who proceeded to transform the fruit into a symbol of black people’s unfitness for freedom and citizenship.
+Paradoxically, the bright and appealing nature of the watermelon also lent itself to racist tropes in  nineteenth-century America. Watermelons were introduced there in the sixteenth century and were cultivated widely, from colonists’ kitchen gardens to those tended by African slaves. The ease with which watermelons were grown and sold meant that after the 1863 Emancipation Proclamation, they could became a source of income for freed slaves.[^ref16] Their cultivation and consumption became a means of enacting newfound freedoms as a public and communal activity. Emblematizing the potential for African Americans to escape the plantation economy, the watermelon soon became perceived as a threat by white southerners, who proceeded to transform it into a symbol of Black people’s unfitness for freedom and citizenship.
 <param ve-map
 	basemap="Esri_WorldPhysical"
 	time-selector="1400:2000"
@@ -197,7 +201,7 @@ Watermelons were brought to the Americas in the sixteenth century, introduced by
 	attribution="Wikimedia Commons">
 {#paragraph10}
 
-Certain characteristics of the watermelon made it conducive to racializing: its messiness when being eaten supposedly connoted uncleanliness, its easiness to grow implied laziness, its sweetness and color connoted childishness. These aspects of the fruit were bound up with representations of African-Americans whose taste for the melon were exaggerated to the point of naturalisation; the watermelon’s African origins were cited as an explanation for Black Americans’ apparently insatiable appetite for the fruit. Nineteenth-century newspapers were filled with anecdotes and reports which repeated these racial tropes until they masqueraded as truth.
+Aspects of the fruit became bound up with representations of African Americans, showing their taste for it exaggerated to the point of the grotesque: It was messy to eat, which connoted uncleanliness; easy to grow, implying laziness; and its bright color and sweetness were associated with childishness. Watermelon’s African origins were also cited as an explanation for Black Americans’ apparently insatiable appetite for the fruit. Nineteenth-century newspapers were filled with reports and anecdotes that repeated these racial tropes, which masqueraded as facts.
 <param ve-image
 	title="“In the earliest study of the natural history of the African his absorptive powers in the matter of watermelons came to the front and has always staid there. It is one of his most salient characteristics.” (The New York Times, 1904)"
 	url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-6A6EEDA3268C2_2001"
@@ -220,14 +224,14 @@ Certain characteristics of the watermelon made it conducive to racializing: its 
 	attribution="Wikimedia Commons">
 {#paragraph11}
 
-Stories of stolen watermelons similarly contributed to establishing the perception of Black criminality following the 13th Amendment. The irresistible lure of the watermelon suggested that it did “more to tempt the colored race to steal than all other fruit combined," with countless anecdotes supposedly citing the words of African-Americans claiming that stolen watermelons tasted better than bought.[^ref16] The narrative of African-American watermelon-stealing was so entrenched that in Tennessee, the state bill that criminalized trespass in 1870 was commonly known as the ‘watermelon bill’, serving to disenfranchise convicted trespassers. The popularity of such cultural tropes became important tools in exclusionary racial politics well into the twentieth century and [are still pervasive today](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people).[^ref17]
+Stories of watermelon theft contributed to the perception of Black criminality following the enactment of the thirteenth amendment, which abolished slavery. The seemingly irresistible lure of the watermelon suggested that it did “more to tempt the colored race to steal than all other fruit combined,” with countless anecdotes supposedly citing the words of African Americans who claimed that stolen watermelons tasted better than those bought.[^ref17] The narrative of African American watermelon-stealing was so entrenched that the Tennessee state bill that criminalized such trespasses in 1870 was commonly known as the “watermelon bill.” These cultural tropes continued to shape the exclusionary racial politics in the United States well into the twentieth century and [are still pervasive today](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people).[^ref18]
 <param ve-storiiies
 	id="0d1fv">
 {#paragraph12}
 
-### “Cholera bombshells”
+### “Cholera Bombshells”
 
-The racist belief in the unhealthy habits of African-Americans also featured in nineteenth-century associations between watermelons and disease. The common belief that eating too much watermelon, especially when overripe, could lead to cholera led some cities to ban the fruit’s sale during epidemics, watermelons referred to as “cholera bombshells.”[^ref18] Whilst it is unclear whether such direct lines of causality between watermelons and cholera were accurate, contemporary evidence has shown that raw fruits and vegetables can be a frequent source of cholera infection, especially if fields are fertilized with uncomposted manure, or irrigated with contaminated water. The significance of watermelons specifically, rather than other types of fruit, in terms of cholera infections was almost certainly exaggerated to serve popular narratives in America at the time, but the association was also present in other parts of the world.
+The racist notion that watermelon consumption revealed unhealthy habits of African Americans was not an isolated phenomenon: it was paralleled by nineteenth-century associations between watermelon and disease. There was a common belief that eating too much watermelon, especially when overripe, could lead to cholera, which led some cities in the United States to ban the fruit’s sale during epidemics, with watermelons being referred to as “cholera bombshells.”[^ref19] While it is unclear whether these direct causal connections between watermelons and disease were accurate, contemporary evidence has shown that raw fruits and vegetables can be a frequent source of cholera infection, especially if fields where they grew had been fertilized with uncomposted manure or irrigated with contaminated water. While the role of watermelons as opposed to other types of fruit in transmitting cholera in the United States was almost certainly exaggerated to serve racial narratives, similar associations were common in other parts of the world.
 <param ve-image
 	title="Cholera Intelligence"
 	url="054de03b-d835-43ba-a445-3f0e1024551e.jpeg"
@@ -240,14 +244,14 @@ The racist belief in the unhealthy habits of African-Americans also featured in 
 	attribution="The Macon Telegraph. 1884, The Milwaukee Daily Sentinel, Aug. 19, p. 4, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
 {#paragraph13}
 
-In Korea at the turn of the twentieth century, for instance, British mine-owners [banned watermelons]( http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html) from the camps of their workers in order to prevent outbreaks of cholera. The logic behind this seemed to lay in the “immense quantities” of watermelons consumed by Korean workers, including the “rind” (probably the white pith, thought good for indigestion), again suggesting a continuity between a racialized critique of excess indulgence and the moralizing of disease. The campaign turned out to be successful, although whether or not that was due to the lack of watermelons is unclear.[^ref19] Similarly, posters such as that shown here from the USSR in 1921 used watermelons to illustrate how various acts of poor hygiene could lead to cholera, from drinking unboiled water to eating unwashed fruit.
+At the turn of the twentieth century, for instance, British mine owners in Korea [banned watermelons](http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html) from their workers’ camps to prevent outbreaks of cholera. The logic behind this decision seemed to be based on the “immense quantities” of watermelons consumed by Korean workers, including the rind (probably the white pith, which was considered good for indigestion). The racialized attitudes toward over-indulging in certain types of food were joined here by the moralizing of disease. The campaign was effective in preventing cholera, but it is unclear if its success was due to the watermelon ban.[^ref20] Similarly, posters from the Soviet Union during a cholera epidemic that lasted into the early 1920s used watermelons to illustrate how poor hygiene could lead to disease, from drinking unboiled water to eating unwashed fruit.
 <param ve-storiiies
 	id="831fg">
 {#paragraph14}
 
-### Capitalism and the commodification of fruit 
+### Commodification and Ecological Costs
 
-Since the twentieth century, the intensified commodification of the watermelon has transformed the fruit’s form. In many countries around the world (but not all), since the 2000s, watermelons have grown smaller, rounder, and more uniform in size in order to stack better for transit and sale. These so-called “personal melons” are more practical for transporting and storing in fridges, and importantly bring farmers bigger profits per acre, heralding a shift away from the watermelon as a communally consumed fruit.[^ref20] The other major transformation in watermelons has been the success of the seedless melon. The commercial production of seedless watermelons began in the 1990s, using colchicine – a chemical derived from crocuses – to produce a sterile seedless hybrid, crossbred to have three sets of chromosomes instead of two.[^ref21]
+The intensified commodification of the watermelon during the twentieth and especially early twenty-first centuries transformed the fruit’s appearance. In many countries around the world watermelons have grown smaller, rounder, and more uniform in size in order to stack better for transit and sale. These so-called “personal melons” are more practical for transportation and refrigeration. Importantly, they bring farmers bigger profits per acre, heralding a shift from the watermelon as communally consumed to a commodified fruit.[^ref21] Yet watermelons continue to vary significantly in shape and size. Novelty square and heart-shaped watermelons were introduced in the 1980s in Japan for easy refrigeration storage and sold at higher prices. They are used, however, almost exclusively for decorative purposes, as they are always underripe due to the constrictive molds in which they are grown.[^ref22]
 <param ve-image
 	title="Varieties of watermelons"
 	url="https://scx2.b-cdn.net/gfx/news/hires/2019/harvestingge.jpg"
@@ -258,7 +262,7 @@ Since the twentieth century, the intensified commodification of the watermelon h
 	max="2">
 {#paragraph15}
 
-Whilst the seedless watermelon now dominates the market, its hybridized sterility presents new challenges for farmers. Watermelon plants are bee-pollinated, and since bees foraging in seedless watermelon plantings carry a mixture of viable and non-viable pollen, more bees are required for effective pollination. Without sufficient pollination, watermelons may grow with a [“hollow heart”]( https://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings) and cannot be sold. Watermelon farmers in the US have turned to renting bees to meet their pollination needs, especially since the decline of the wild bee population from mass colony collapse disorder in recent years. There is increasing evidence that the transportation of bees for such purposes [causes significant stress]( https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees/) on the colonies due to, for example, changes in temperature, humidity, and vibration.[^ref21] The market demand for convenience in the shape of seedless watermelons may therefore [come at a considerable ecological cost]( https://www.nationalgeographic.com/culture/food/the-plate/2015/08/07/watermelon-may-be-the-most-unnatural-yet-delicious-fruit/).
+Another major transformation is the success of seedless cultivars. The commercial production of seedless watermelons began in the 1990s using colchicine – a chemical derived from the seeds of crocuses—to produce a sterile seedless hybrid, crossbred to have three sets of chromosomes instead of two.[^ref23] While such cultivars now dominate the market, their hybridized sterility presents new ecological challenges. Watermelon plants are bee-pollinated, and since the insects that forage in seedless watermelon plantings carry a mixture of viable and non-viable pollen, more bees are required for effective pollination. Without that, watermelons may grow with a [“hollow heart”](https://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings) – cracks and spaces within the fruit – and cannot be sold. Watermelon farmers in the United States have turned to renting bees to meet such pollination needs, especially following the decline of the wild bee population from mass colony collapse disorder in recent years. Yet there is increasing evidence that the transportation of bees for such purposes [puts significant stress](https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees/) on their colonies due to changes in temperature and humidity, the market demand for convenience thus coming at a [considerable ecological cost]( https://www.nationalgeographic.com/culture/food/the-plate/2015/08/07/watermelon-may-be-the-most-unnatural-yet-delicious-fruit/).[^ref24]
 <param ve-image
 	title="Hollow heart watermelon"
 	url="https://i.imgur.com/meq0u1f.jpg?1"
@@ -271,9 +275,7 @@ Whilst the seedless watermelon now dominates the market, its hybridized sterilit
 	attribution="Vox, Christie’s and Shutterstock">
 {#paragraph16}
 
-### Conclusion
-
-As we have seen throughout this essay, the watermelon has undergone significant transformation since it was first cultivated in northern Africa six thousand years ago. Throughout its history, the watermelon has been valued variously for its size, its sweetness, its health-giving properties, its appearance. Watermelons today vary significantly around the world in shape and size. Novelty square and heart-shaped watermelons developed in 1980s Japan for easy fridge storage are sold today at high prices almost exclusively for decorative purposes, as they are necessarily underripe due to the constrictive molds in which they are grown.[^ref23] With consumer taste and market value governing the taste and form of watermelons grown, who knows what the future might hold… 
+Today, market forces are among the chief factors that, alongside taste and tradition, continue to determine the watermelon’s transformation since its origin as a small bitter crop. The sweet red flesh that we enjoy bears witness to a range of cultural and historical meanings accumulated throughout the fruit’s rich history.
 <param ve-image
 	title="Square watermelon from Japan"
 	url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Square_watermelon.jpg"
