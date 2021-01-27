@@ -1,5 +1,5 @@
 <param ve-config
-	title="Watermelon: The Food of Angels"
+	title="Watermelon: ‘What the Angels Eat’"
 	banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
 	layout="vtl"
 	num-maps="3"
@@ -35,7 +35,7 @@
 <param title="Colocynth" eid="Q913609" aliases="C. colocynthis" aliases="colocynth">
 <param title="Atlantic slave trade" eid="Q10701282" aliases="slaves">
 
-### Watermelon, the food of angels
+### Watermelon: The Food of Angels
 
 Mark Twain once said that the watermelon “is the chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat.”[^ref1] Though today the word “watermelon” calls to mind a sturdy gourd with refreshing, sweet, red flesh, for most of its millennia-long history as a cultivated crop it was known as a pale, hard, sometimes bitter fruit with relatively tender rind. Not until the sixth century CE were watermelons associated with sweet fruits such as figs and grapes; and it was not until well into the 1400s that the uniformly red, thick-rinded watermelons that are familiar to us today began to appear. Throughout its history across the globe, the watermelon was primarily a source of food, medicine, and drink. Its cultural history, however, reveals not only stories of racism, but also of contagion and disease, a darker side to the delicious summer fruit that we know and love.
 <param ve-vis-network
