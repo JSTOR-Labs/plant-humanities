@@ -9,7 +9,7 @@
 	author="Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian">
 <param title="Dracaena" eid="Q158009" article="dragon_tree_species">
 
-### Introduction: a desensitizing sensory experience
+### Introduction: A Desensitizing Sensory Experience
 
 As the tongue goes numb and all efforts fail to remove the scarlet, sticky substance that binds to one’s teeth like quick-setting epoxy, one starts to panic and wonder if the dragon’s blood they just ingested is truly as noxious as its name suggests. Though the epithet ‘dragon’s blood’ brings forth images of medieval myths and fantastical notions of fire-breathing lizards soaring high in the sky, this ‘blood’ is in fact the resin of a very real tree. Dragon trees have thick trunks and distinctive, umbrella-style crowns. They captured the imaginations of great minds across the ages, from Pliny the Elder (d. 79 CE) in to Alexander von Humboldt (1769-1859). Unlike Pliny, however, who was the lone scholar of his age enthralled by the epic allure of the dragon tree, Enlightenment era European naturalists like Humboldt and André Pierre Ledru (1761-1825) focused on one species, _Dracaena draco_ (L.) L., and both flocked to its native Canary Islands to study it around the turn of the nineteenth century. Soon after their initial encounters with dragon’s blood, they all may have realized that this strange sap occupied a liminal space between myth, legend, and scientific botany.
 <param title="Dragon’s Blood" eid="Q421877" aliases="dragon’s blood">
@@ -22,7 +22,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 	id="8a1g2">
 {#paragraph1}
 
-### Sanguine myths and elemental reality
+### Sanguine Myths and Elemental Reality
 
 Members of today’s _Dracaena_ genus have long been valued for their signature red resin, dragon’s blood, that oozes from cuts in the bark of those trees. Though the focus of this article is on _D. draco_ , there are many other species of tree that exude their own forms of dragon’s blood. These include the other 120 members of the _Dracaena_ genus, in addition to several others. While these other trees certainly exude a resin identified as dragon’s blood, a level of botanical and geographical ambiguity that contributes to the mythical status of the substance, _D. draco_ and _D. cinnabari_ are the two species that are most commonly referred to as the source of the resin in historical sources. The first known reports of dragon’s blood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with dragon’s blood also took a foothold in Europe through the infamous tale of Hercules.[^ref1]
 <param title="Naturalis Historia" eid="Q442">
@@ -66,7 +66,7 @@ The Guanches used dragon’s blood for a variety of purposes, ranging from embal
 	id="751f7">
 {#paragraph5}
 
-### Dragon’s blood: from herbals to Enlightenment science
+### Dragon’s Blood: From Herbals to Enlightenment Science
 
 After decades of violent attacks against the Guanches, Spanish conquistadors finally vanquished the last of the Canary Islands in 1496. The Guanche language soon disappeared, with the exception of their distinct whistling language, known as Silbo Gomero <param ve-audio url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/media/Silbo%20(online-audio-converter.com).mp3">. Due to the traditional Western preference for written records rather than oral histories, much of what we now know of pre-Columbian culture on the Canaries comes from European colonial interlocutors.
 <param title="Silbo Gomero language" eid="Q415" aliases="Silbo Gomero">
@@ -118,7 +118,7 @@ In 1799, as he stopped in Tenerife before his voyage to the Americas that would 
 	region="1,26,1325,966">
 {#paragraph9}
 
-### Smothering the dragon’s flame: D. draco and the Anthropocene
+### Smothering the Dragon’s Flame: D. draco and the Anthropocene
 
 Humboldt was not the only naturalist of his time attracted to the remarkable centenary dragon tree, as some three years before, in 1796, French naturalist André Pierre Ledru also found himself in M. Franchy’s garden, admiring the very same tree. The scarlet-colored resin was a critical aspect of the Guanche pharmacopoeia and a valuable piece of _naturalia_ that spurred the Canarian economy. By the turn of the nineteenth century, however, due to unsustainable cultivation techniques, the population of trees from which it was sourced was already in decline. This environmental degradation has only increased in intensity in the last two centuries with the intensification of human-driven ecological change, known as the Anthropocene.
 <param title="Anthropocene" eid="Q26841">
