@@ -32,7 +32,7 @@ Members of today’s _Dracaena_ genus have long been valued for their signature 
 <param title="Socotra" eid="Q82859">
 <param title="Dracaena cinnabari" eid="Q133560">
 <param ve-image
-	title="Vedic Tale of the Elephant and the Dragon. Giraldus Cambrensis, _Bestiary_, (England: c.1225-1250), f58. image Provided by the British Museum"
+	title="Vedic Tale of the Elephant and the Dragon. Giraldus Cambrensis, _Bestiary_, (England: c.1225-1250), f58. Image povided by the British Museum"
 	url="https://www.bl.uk/IllImages/Ekta/big/E043/E043090a.jpg"
 	region="-45,191,1591,1127">
 {#paragraph2}
