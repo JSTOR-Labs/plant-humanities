@@ -106,21 +106,21 @@ Our understanding of the diversity and ecology of heliconias has grown tremendou
 
 ### References
 
-Altshuler, Douglas L. and Christopher James Clark.  “Darwin’s Hummingbirds.” Science 300 (2003): 588-589. _JSTOR_, [www.jstor.org/stable/3834345](www.jstor.org/stable/3834345). Accessed 1 June 2020.
+Altshuler, Douglas L. and Christopher James Clark.  “Darwin’s Hummingbirds.” Science 300 (2003): 588-589. _JSTOR_, www.jstor.org/stable/3834345. Accessed 1 June 2020.
 
-Betts, M., A. Hadley, and W. John Kress. “Pollinator recognition by a keystone tropical plant.” Proceedings of the National Academy of Sciences of the United States of America 112 (11) (2015): 3433–3438. _JSTOR_, [www.jstor.org/stable/26462059](www.jstor.org/stable/26462059). Accessed May 17, 2020.
+Betts, M., A. Hadley, and W. John Kress. “Pollinator recognition by a keystone tropical plant.” Proceedings of the National Academy of Sciences of the United States of America 112 (11) (2015): 3433–3438. _JSTOR_, www.jstor.org/stable/26462059. Accessed May 17, 2020.
 
 Curtis, William. “Heliconia Psittacorum. Parrot-Beaked Heliconia.” _The Botanical Magazine, or, Flower-Garden Displayed_ 14 (1800). Plate no. 502. No page numbers.
 
-Kress, W. John. “The Taxonomy of Old World Heliconia (Heliconiaceae).” _Allertonia_ 6 (1) (1990): 1–58. _JSTOR_, [www.jstor.org/stable/23188167](www.jstor.org/stable/23188167). Accessed 17 May 2020.
+Kress, W. John. “The Taxonomy of Old World Heliconia (Heliconiaceae).” _Allertonia_ 6 (1) (1990): 1–58. _JSTOR_, www.jstor.org/stable/23188167. Accessed 17 May 2020.
 
 ––. “A synopsis of the genus Heliconia (Heliconiaceae) in Venezuela with one new variety.”  _BioLlania Edición Especial_ No. 6 (1997): 407–430.
 
-Martén-Rodríguez, S., W. John Kress, E.J. Temeles, et al. “Plant–pollinator interactions and floral convergence in two species of Heliconia from the Caribbean Islands.” _Oecologia_ 167 (2011): 1075–1083. [https://doi.org/10.1007/s00442-011-2043-8](https://doi.org/10.1007/s00442-011-2043-8)
+Martén-Rodríguez, S., W. John Kress, E.J. Temeles, et al. “Plant–pollinator interactions and floral convergence in two species of Heliconia from the Caribbean Islands.” _Oecologia_ 167 (2011): 1075–1083. https://doi.org/10.1007/s00442-011-2043-8
 
 Mee, Margaret and T. Morrison, ed. Margaret Mee, _In Search of Flowers of the Amazon Forests: Diaries of an English artist reveal the beauty of the vanishing rainforest_. Suffolk, England: Nonesuch Expeditions, 1988.
 
 Temeles, E. J., and W. John Kress. “Evidence for adaptation in a plant-hummingbird association.”  _Science_ 300 (2003): 630–633.
 
-[https://www.heliconia.org/](https://www.heliconia.org/)
+https://www.heliconia.org/
 
