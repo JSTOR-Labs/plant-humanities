@@ -16,7 +16,8 @@ Heliconias rank among the great botanical beauties of the natural world. Visuall
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
 The genus _Heliconia_ was named after Mount Helicon—in Greek mythology, the home of Apollo and the Muses—by none other than Carl Linnaeus, the father of modern taxonomy. The name, evocative of art and beauty, was intended to emphasize the close taxonomic relationship of _Heliconia_ to the genus _Musa_ approximately 185 species of Heliconia worldwide, but there are undoubtedly one or two dozen more species to discover and describe in the tropical forests of the two distinct regions across the globe</span> (South America and the South Pacific) where they grow as native plants.
-<param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/eight_families_order_Zingiberales-gigapixel-standard-scale-2_00x.jpg" title="Eight families of the order Zingiberales: Marantaceae, Cannaceae, Zingiberaceae, Costaceae, Heliconiaceae, Lowiaceae, Streliziaceae, and Musaceae; Distribution of heliconias showing native (green) in South America and the South Pacific">
+<param ve-image primary region="-52,-32,1058,800" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/eight_families_order_Zingiberales-gigapixel-standard-scale-2_00x.jpg" title="Eight families of the order Zingiberales: Marantaceae, Cannaceae, Zingiberaceae, Costaceae, Heliconiaceae, Lowiaceae, Streliziaceae, and Musaceae">
+<param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/eight_families_order_Zingiberales-gigapixel-standard-scale-2_00x.jpg" title="Distribution of heliconias showing native (green) in South America and the South Pacific">
 
 ### A Short History of Horticultural Excitement for Heliconia
 
