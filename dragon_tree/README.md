@@ -1,5 +1,5 @@
 <param ve-config
-	title="Dracaena draco: the timeless Canarian dragon"
+	title="Dracaena draco: The Timeless Canarian Dragon"
 	banner="https://upload.wikimedia.org/wikipedia/commons/8/83/Socotra_dragon_tree.JPG"
 	layout="vtl"
 	num-maps="1"
