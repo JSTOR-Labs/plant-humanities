@@ -8,7 +8,7 @@
 	num-primary-sources="0"
 	author="Wouter Klein, PhD">
 
-### The cinnamon challenge
+### The Cinnamon Challenge
 
 In 2012-2013, the ‘cinnamon challenge’ was a short-lived internet hype. Although the instructions were simple enough – try to swallow a tablespoon of cinnamon at once – they proved to be virtually impossible to follow in practice. Trying to ingest dry, ground cinnamon bark initially causes a severe choke reaction, characterized by extreme exhalation of cinnamon powder (known as ‘dragon breath’). Subsequently, the cinnamon combines with saliva in the mouth to produce an indigestible clutter at the back of the throat. Thankfully, this [quite dangerous assignment](https://doi.org/10.1542/peds.2012-3418) will only be a marginal footnote to the history of cinnamon. Those who know cinnamon only from an endless series of ridiculous YouTube videos that tried to capture the ‘cinnamon challenge’ or as a quotidian kitchen spice will be surprised to learn that the real challenge has been an ongoing effort, to find out what cinnamon actually is, as a plant and as a medicine.
 <param title="cinnamon challenge" eid="Q420721">
@@ -17,7 +17,7 @@ In 2012-2013, the ‘cinnamon challenge’ was a short-lived internet hype. Alth
 	title="Mythbusters Cinnamon Challenge.">
 {#paragraph1}
 	
-### Forgotten knowledge and fabricated history
+### Forgotten Knowledge and Fabricated History
 
 Cinnamon had a long history before any European ever saw ‘true’ cinnamon (_Cinnamomum verum_ J.Presl), which originally grew only on Sri Lanka. Here lies the key to understanding the history of cinnamon: it is mostly about a plant-based product carrying that name, not about any particular plant species like the one mentioned above. This is a crucial point, because a lot of confusion about cinnamon emanates from the incorrectly equating _names_ with _plants_. To be more precise: in the Latin West, it has long been assumed that the plants _cinnamomum_ (κιννάμωμον in Greek) and _cassia_ (κασία), as described by ancient medical authorities (notably Dioscorides), are the same plants as those found in the East Indies in the sixteenth century. A recent revaluation of archaeological, historical, linguistic and botanical evidence, however, suggests that the cinnamon of ancient history was probably an East-African plant, _Cassia abbreviata_ Oliv., which is not related to the genus _Cinnamomum_.[^ref1]
 <param title="Sri Lanka" eid="Q854">
@@ -49,7 +49,7 @@ Another, much more surprising reason for the long-lasting confusion over cinnamo
 	url="Indian_Ocean_Spice_route_(Riddle 1985p99_from Miller_1969).bmp">
 {#paragraph4}
 
-### Cinnamon as a tool of empire
+### Cinnamon as a Tool of Empire
 
 The attraction of cinnamon – ‘true’ or other – as a means to enhance the power of state by displaying its control over exotic riches, predates the early modern period. For example, many coins from the reign of Roman emperor Trajan (r. 98-117 CE) show a personification of Arabia, who holds a bundle of cinnamon sticks. This motif can be associated with Trajan’s conquests on the eastern periphery of the Roman empire, which he managed to extend briefly unto the Persian Gulf. Such coins served as propaganda, emphasizing the empire’s authority over the conquered lands.[^ref7]
 <param title="Trajan" eid="Q1425">
@@ -82,7 +82,7 @@ Once ‘true’ cinnamon had begun to be understood as cinnamon from Sri Lanka, 
 	zoom="7.4">
 {#paragraph7}
 
-### Optimizing the monopoly
+### Optimizing the Monopoly
 
 The Dutch made even stronger, concerted efforts to get a monopoly on cinnamon. They signed a treaty with the king of Kandy in 1638, hoping this would give them a share of the cinnamon trade, which was still dominated by the Portuguese at the time. After the Portuguese defeats at Colombo (1656) and Jaffnapatnam (1658), the Dutch controlled many coastal areas of the island, while the kingdom of Kandy ruled the island’s interior. The relation between the Dutch and the king of Kandy was strained. Cinnamon trees were scattered throughout the island’s forests, so groups of cinnamon peelers who worked for the Dutch often had to cross Portuguese as well as Kandian territory to reach the areas where the trees grew. As it was impossible for the Dutch to keep a military grip on this enormous territory, or to control individual groups of peelers, there was little that they could do when the peelers chose, or were forced, to switch allegiance. Therefore, bribing the king of Kandy was a recurring means to make sure he left the peelers alone, in order not to interrupt the supply of cinnamon.
 <param title="Kingdom of Kandy" eid="Q1530762" aliases="Kandy">
@@ -130,7 +130,7 @@ The success, however, was short-lived. When the British took control over the Du
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
 {#paragraph12}
 
-### A tool of empire or a tool of science?
+### A Tool of Empire or a Tool of Science?
 
 Although cinnamon was a successful monopoly during the Dutch period, was it purely a tool of empire? Production and export were guarded as closely as possible, smuggling was prohibited, and living trees could not leave the island. The Dutch monopoly was about promoting commercial interests above anything else, but not all restrictions were commercially motivated. When the administrator of the Dutch possessions on the Malabar coast, Hendrik Adriaan van Rheede tot Drakenstein, experimented with the oil of local cinnamon species as a medicine in 1675, he was reprimanded by Rijckloff van Goens, the governor of Sri Lanka, for breaking the monopoly. The colonial government in Batavia agreed, but Van Rheede wrote a letter to justify his actions and continued his work. Here, the motivation for both men was to demonstrate that the medicines from ‘their’ respective regions were superior. In such instances, interests of empire and personal rivalry intertwined.[^ref14]
 <param title="Malabar Coast" eid="Q473181">
@@ -157,7 +157,7 @@ _Cinnamomum verum_ J.Presl, from Paul Hermanns herbarium of plants from Sri Lank
 	url="007714869-L.2070171.jpg">
 {#paragraph14}
 
-### Cinnamon and imperial imagination
+### Cinnamon and Imperial Imagination
 
 Meanwhile, other countries were desperately trying to have access to cinnamon, which was especially true of Spain and its empire. Spain sought, but ultimately without success, to procure cinnamon trees, or at least to replicate Dutch practices for cultivating such exotic plants in its colonies.[^ref19] The Spanish quest for cinnamon in the New World went back as far as the early days of exploration: we already came across Columbus’s efforts to find cinnamon on his voyages. The famous expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river (1541-1542) was also intended to find the legendary ‘Land of Cinnamon’ (_País de la Canela_), which was associated with the land of gold, El Dorado. Their journey later inspired the French botanist Joseph de Jussieu to search for cinnamon lands in South America in the 1740s.[^ref20]
 <param title="Gonzalo Pizarro" eid="Q435292">
