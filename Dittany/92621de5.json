@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=Dittany//92621de5",
-    "total": 2,
-    "modified": "2021-01-28T21:57:22.012808"
+    "total": 3,
+    "modified": "2021-01-28T21:58:10.849397"
   },
   "startIndex": 0,
   "items": [
@@ -50,6 +50,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "Dittany//92621de5/98f4a757",
       "seq": 1
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Dittany of Crete is also listed as an emmenagogue.<br>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:528.7639770507812,754.869873046875,230.4063720703125,33.88330078125"
+        },
+        "id": "Dittany//92621de5"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "Dittany//92621de5/e518929f",
+      "seq": 2
     }
   ]
 }
