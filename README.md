@@ -11,7 +11,7 @@ The visual essays below feature interactive maps, high-resolution images and vid
 
 - author: Ashley Buchanan
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/dittany.jpg)
+![](https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/images/thumbnails/dittany.jpg)
 
 ##
 [**Boxwood: A humble yet resilient plant that took over the garden world**](/boxwood)
