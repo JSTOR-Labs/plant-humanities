@@ -7,6 +7,13 @@ The visual essays below feature interactive maps, high-resolution images and vid
 # Most Recent
 
 ##
+[**Dittany: Women’s Herbs and Reproductive Control**](/Dittany)
+
+- author: Ashley Buchanan
+
+![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/dittany.jpg)
+
+##
 [**Boxwood: A humble yet resilient plant that took over the garden world**](/boxwood)
 
 - author: Anatole Tchikine
