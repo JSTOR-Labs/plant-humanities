@@ -51,7 +51,7 @@ Another, much more surprising reason for the long-lasting confusion over cinnamo
 
 ### Cinnamon as a Tool of Empire
 
-The attraction of cinnamon—true or other—as a means to enhance the power of state by displaying its control over exotic riches, predates the early modern period. For example, many coins from the reign of Roman emperor Trajan (r. 98–117 CE) show a personification of Arabia, who holds a bundle of cinnamon sticks. This motif can be associated with Trajan’s conquests on the eastern periphery of the Roman empire, which he managed to extend briefly to the Persian Gulf. Such coins served as propaganda, emphasizing the empire’s authority over the conquered lands.[^ref7]
+The attraction of cinnamon—true or other—as a means to enhance the power of state by displaying its control over exotic riches, predates the early modern period. For example, many coins from the reign of Roman emperor Trajan (r. 98–117 CE) show a personification of Arabia, who holds a bundle of cinnamon sticks. This motif can be associated with Trajan’s conquests on the eastern periphery of the Roman empire, which he managed to extend briefly to the Persian Gulf. Such coins served as propaganda, emphasizing the empire’s authority over the conquered lands.[^ref6]
 <param title="Trajan" eid="Q1425">
 <param title="Persian Gulf" eid="Q34675">
 <param ve-image
@@ -60,7 +60,7 @@ The attraction of cinnamon—true or other—as a means to enhance the power of 
 	region="1414,152,1586,1031">
 {#paragraph5}
 
-The quest for spices, cinnamon among them, was one important aim that inspired Europeans of the fifteenth and sixteenth centuries to brave the oceans. Columbus, expecting to reach India, brought samples of cinnamon bark with him on his first journey to the Americas to help native inhabitants guide him to cinnamon trees, which he believed should grow there. He sent samples of a kind of white cinnamon–probably _Canella winterana_ (L.) Gaertn.–back to Spain from his second journey. Similarly, Juan Sebastián Elcano, who completed Magellan’s circumnavigation of the world after his commander had been killed on the Philippines, successfully petitioned the king to have cinnamon sticks, cloves, and nutmeg depicted on his coat-of-arms to commemorate his role in opening up the spice route to the East Indies.[^ref6]
+The quest for spices, cinnamon among them, was one important aim that inspired Europeans of the fifteenth and sixteenth centuries to brave the oceans. Columbus, expecting to reach India, brought samples of cinnamon bark with him on his first journey to the Americas to help native inhabitants guide him to cinnamon trees, which he believed should grow there. He sent samples of a kind of white cinnamon–probably _Canella winterana_ (L.) Gaertn.–back to Spain from his second journey. Similarly, Juan Sebastián Elcano, who completed Magellan’s circumnavigation of the world after his commander had been killed on the Philippines, successfully petitioned the king to have cinnamon sticks, cloves, and nutmeg depicted on his coat-of-arms to commemorate his role in opening up the spice route to the East Indies.[^ref7]
 <param title="Christopher Columbus" eid="Q7322" aliases="Columbus">
 <param title="Canella winterana" eid="Q2706419">
 <param title="Juan Sebastián Elcano" eid="Q201510">
@@ -218,58 +218,58 @@ Today, Sri Lanka again ranks high among [the world’s largest exporters of cinn
 
 [^ref1]: Stephen G. Haw, “Cinnamon, Cassia and Ancient Trade,” _Journal of Ancient History and Archaeology_ 4, no. 1 (2017): 5–18.
 
-[^ref2]: Haw, “Cinnamon, 10-11.
+[^ref2]: Haw, “Cinnamon,” 10–11.
 
-[^ref3]: Inês de Ornellas e Castro, “‘A Pleasant Banquet of Words’: Therapeutic Virtues and Alimentary Consumption in Garcia de Orta’s _Colloquies on the Simples and Drugs of India_”, in: Palmira Fontes da Costa (ed.), _Medicine, Trade, and Empire: Garcia de Orta’s_ Colloquies on the Simples and Drugs of India _(1563) in Context_ (Farnham and Burlington: Ashgate 2015) 67-88, there 84, 85.
+[^ref3]: Inês de Ornellas e Castro, “‘A Pleasant Banquet of Words’: Therapeutic Virtues and Alimentary Consumption in Garcia de Orta’s _Colloquies on the Simples and Drugs of India_,” in Palmira Fontes da Costa, ed., _Medicine, Trade, and Empire: Garcia de Orta’s Colloquies on the Simples and Drugs of India (1563) in Context_ (New York: Routledge, 2015), 67–88, there 84, 85.
 
-[^ref4]: Vijaya Samaraweera, The Cinnamon Trade of Ceylon”, _Indian Economic & Social History Review_, 8:4 (1971) 415-442, there 416.
+[^ref4]: Vijaya Samaraweera, “The Cinnamon Trade of Ceylon,” _Indian Economic & Social History Review_ 8:4 (1971): 415–442, there 416.
 
-[^ref5]: J. Innes Miller, _The Spice Trade of the Roman Empire, 29 B.C. to A.D. 641_ (Oxford: Clarendon Press 1969). The Spice Route thesis was embraced by Lionel Casson, _Ancient Trade and Society_ (Detroit: Wayne State University Press 1984) 225-246; and by John M. Riddle, _Dioscorides on Pharmacy and Medicine_. Forew. by J. Scarborough (Austin: University of Texas Press 1985) 98-104. It was refuted by Manfred G. Raschke, “New Studies in Roman Commerce with the East”, in: H. Temporini (ed.), _Aufstieg und Niedergang der Römischen Welt: Geschichte und Kultur Roms in der neueren Forschung, II Principat / Rise and Fall of the Roman World: History and Culture of Rome in Recent Research, 2nd Principat_ (Berlin and New York: Walter de Gruyter 1978), vol. 9, part 2, 604-1361; and by Patricia Crone, _Meccan Trade and the Rise of Islam_ (Princeton (NJ): Princeton University Press 1987) 37.
+[^ref5]: J. Innes Miller, _The Spice Trade of the Roman Empire, 29 B.C. to A.D. 641_ (Oxford: Clarendon Press 1969). The Spice Route thesis was embraced by Lionel Casson, _Ancient Trade and Society_ (Detroit: Wayne State University Press, 1984), 225 –246; and by John M. Riddle, _Dioscorides on Pharmacy and Medicine_ (Austin: University of Texas Press, 1985), 98–104. It was refuted by Manfred G. Raschke, “New Studies in Roman Commerce with the East,” in H. Temporini, ed., _Aufstieg und Niedergang der Römischen Welt: Geschichte und Kultur Roms in der neueren Forschung, II Principat/Rise and Fall of the Roman World: History and Culture of Rome in Recent Research, 2nd Principat_ (Berlin and New York: Walter de Gruyter, 1978), vol. 9, part 2, 604–1361; and by Patricia Crone, _Meccan Trade and the Rise of Islam_ (Princeton, N.J.: Princeton University Press, 1987), 37.
 
-[^ref6]: George B. Griffenhagen, “The Materia Medica of Christopher Columbus”, _Pharmacy in History_, 34:3 (1992) 131-145, there 133; and Francisco Guerra, “Drugs from the Indies and the Political Economy of the Sixteenth Century”, in: N. Florkin (ed.), _Materia Medica in the XVIth Century: Proceedings of a Symposium of the International Academy of the History of Medicine Held at the University of Basel, 7th Sept. 1964_. Analecta Medico-Historica 1 (Oxford: Pergamon Press 1964) 29-54.
+[^ref6]: Barbara Zając, “Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE),” in Łukasz Miszk and Maciej Wacławik, eds., _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing, 2017), 9–106, there 99-101.
 
-[^ref7]: Barbara Zając, “Roman Coinage in the Arabia Region during the Reign of Trajan (98-117 CE)”, in: Łukasz Miszk and Maciej Wacławik (eds.), _The Land of Fertility II: The Southeast Mediterranean from the Bronze Age_ (Newcastle upon Tyne: Cambridge Scholars Publishing 2017) 9-106, there 99-101.
+[^ref7]: George B. Griffenhagen, “The Materia Medica of Christopher Columbus,” _Pharmacy in History_ 34:3 (1992): 131–145, there 133 ; Francisco Guerra, “Drugs from the Indies and the Political Economy of the Sixteenth Century,” in N. Florkin, ed., _Materia Medica in the XVIth Century: Proceedings of a Symposium of the International Academy of the History of Medicine Held at the University of Basel, 7th Sept. 1964._ Analecta Medico-Historica 1 (Oxford: Pergamon Press, 1964), 29–54.
 
-[^ref8]: Zoltán Biedermann, “The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598)”, _Journal of Early Modern History_, 13:4 (2009) 265-310.
+[^ref8]: Zoltán Biedermann, “The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598),” _Journal of Early Modern History_ 13:4 (2009): 265–310.
 
-[^ref9]: Lodewijk Wagenaar, _Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_. Transl. by Steve Green and Michael Blass (Amsterdam: Rijksmuseum / Nijmegen: Vantilt Publishers 2016) 149-157.
+[^ref9]: Lodewijk Wagenaar, _Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_. Transl. by Steve Green and Michael Blass (Amsterdam: Rijksmuseum/Nijmegen: Vantilt Publishers, 2016), 149–157.
 
-[^ref10]: S. Arasaratnam, “Dutch Commercial Policy in Ceylon and its Effects on the Indo-Ceylon Trade (1690-1750)”, _Indian Economic & Social History Review_, 4:2 (1967) 109-130.
+[^ref10]: S. Arasaratnam, “Dutch Commercial Policy in Ceylon and its Effects on the Indo-Ceylon Trade (1690-1750),” _Indian Economic & Social History Review_ 4:2 (1967): 109–130.
 
-[^ref11]: Wagenaar, _Cinnamon & Elephants_, 150, 153.
+[^ref11]: Lodewijk Wagenaar, _Cinnamon & Elephants_, 150, 153.
 
-[^ref12]: Wagenaar, _Cinnamon & Elephants_, 155.
+[^ref12]: Lodewijk Wagenaar, _Cinnamon & Elephants_, 155.
 
-[^ref13]: Samaraweera, “The Cinnamon Trade of Ceylon”.
+[^ref13]: Vijaya Samaraweera, “The Cinnamon Trade of Ceylon.”
 
-[^ref14]: Johan Heniger, _Hendrik Adriaan van Reede tot Drakenstein (1636-1691) and Hortus Malabaricus: A Contribution to the History of Dutch Colonial Botany_ (Rotterdam and Boston: A.A. Balkema 1986) 37-38; and Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press 2007) 310-317.
+[^ref14]: Johan Heniger, _Hendrik Adriaan van Reede tot Drakenstein (1636-1691) and Hortus Malabaricus: A Contribution to the History of Dutch Colonial Botany_ (Rotterdam and Boston: A.A. Balkema, 1986), 37–38; and Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press, 2007), 310–317.
 
-[^ref15]: Tinde van Andel and Nadine Barth, “Paul Hermann’s Ceylon Herbarium (1672-1679) at Leiden, the Netherlands”, _Taxon_, 67:5 (2018) 977-988, there 981.
+[^ref15]: Tinde van Andel and Nadine Barth, “Paul Hermann’s Ceylon Herbarium (1672-1679) at Leiden, the Netherlands,” _Taxon_ 67:5 (2018): 977–988, there 981.
 
-[^ref16]: Lisbet Koerner, _Linnaeus: Nature and Nation_ (Cambridge (MA) and London: Harvard University Press 1999) 36.
+[^ref16]: Lisbet Koerner, _Linnaeus: Nature and Nation_ (Cambridge, Massachusetts and London: Harvard University Press, 1999), 36.
 
-[^ref17]: Paul Hermann, _Horti academici Lugduno-Batavi catalogus exhibens Plantarum omnium Nomina, quibus ab anno MDCLXXXI ad annum MDCLXXXVI Hortus fuit instructus ut & Plurimarum in eodem cultarum & à nemine hucusque editarum Descriptiones & Icones_ (Lugduni Batavorum: Apud Cornelium Boutesteyn 1687) 130; quoted in Heniger, _Hendrik Adriaan van Reede tot Drakenstein_, 155.
+[^ref17]: Paul Hermann, _Horti academici Lugduno-Batavi catalogus exhibens Plantarum omnium Nomina, quibus ab anno MDCLXXXI ad annum MDCLXXXVI Hortus fuit instructus ut & Plurimarum in eodem cultarum & à nemine hucusque editarum Descriptiones & Icones_ (Lugduni Batavorum: Apud Cornelium Boutesteyn, 1687), 130; quoted in Heniger, _Hendrik Adriaan van Reede tot Drakenstein_, 155.
 
-[^ref18]: Albertus Seba, “An Account of th Cinnamon Tree in Ceylon, and its several Sorts. Communicated by the Chief Inspector of the Cinnamon Trade and Manufacture in that Island to Albertus Seba, a Noted Druggist at Amsterdam. Translated by the late Dr. Scheuchzer, F. R. S.”, _Philosophical Transactions_, 36:409 (1730) I, 97-109.
+[^ref18]: Albertus Seba, “An Account of the Cinnamon Tree in Ceylon, and Its Several Sorts. Communicated by the Chief Inspector of the Cinnamon Trade and Manufacture in that Island to Albertus Seba, a Noted Druggist at Amsterdam. Translated by the late Dr. Scheuchzer, F. R. S.,” _Philosophical Transactions_ 36:409 (1730): I, 97–109.
 
-[^ref19]: Daniela Bleichmar, “Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment”, in: Yota Batsaki, Sarah Burke Cahalan and Anatole Tchikine (eds.), _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection 2016) 35-60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press 2016) 76-77.
+[^ref19]: Daniela Bleichmar, “Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment,” in Yota Batsaki, Sarah Burke Cahalan, and Anatole Tchikine, eds., _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection, 2016), 35–60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press, 2016), 76–77.
 
-[^ref20]: Neil Safier, “Fruitless Botany: Joseph de Jussieu’s South American Odyssey”, in: James Delbourgo and Nicholas Dew (eds.), _Science and Empire in the Atlantic World_ (New York: Routledge 2008) 203-224.
+[^ref20]: Neil Safier, “Fruitless Botany: Joseph de Jussieu’s South American Odyssey,” in James Delbourgo and Nicholas Dew, eds., _Science and Empire in the Atlantic World_ (New York: Routledge, 2008), 203–224.
 
-[^ref21]: Catherine E. Burdick, “Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle’s _Tabula Geographica Regni Chile_ (1646)”, _Imago Mundi_, 66:2 (2014) 196-212.
+[^ref21]: Catherine E. Burdick, “Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle’s Tabula Geographica Regni Chile (1646),” _Imago Mundi_ 66:2 (2014): 196–212.
 
-[^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press 1989) 251-252. The estimate comes from Jacques Savary des Bruslons, _Dictionnaire universel de commerce_ of 1723. The Real Sociedad Económica de Madrid calculated in 1780 that 600.000 pounds of Dutch cinnamon were consumed by Spanish America each year. See Daniela Bleichmar, _Visible Empire: Botanical Expeditions and Visible Culture in the Hispanic Enlightenment_ (Chicago and London: University of Chicago Press 2012) 132.
+[^ref22]: Jonathan I. Israel, Dutch Primacy in World Trade, 1585-1740 (Oxford: Clarendon Press, 1989), 251–252. The estimate comes from Jacques Savary des Bruslons, Dictionnaire universel de commerce of 1723. The Real Sociedad Económica de Madrid calculated in 1780 that 600.000 pounds of Dutch cinnamon were consumed by Spanish America each year. See Daniela Bleichmar, Visible Empire: Botanical Expeditions and Visible Culture in the Hispanic Enlightenment (Chicago and London: University of Chicago Press, 2012), 132.
 
-[^ref23]: Irene Fattacciu, “The Resilience and Boomerang Effect of Chocolate: A Product’s Globalization and Commodification”, in: Bethany Aram and Bartolomé Yun-Casalilla (eds.), _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan 2014) 255-273.
+[^ref23]: Irene Fattacciu, “The Resilience and Boomerang Effect of Chocolate: A Product’s Globalization and Commodification,” in Bethany Aram and Bartolomé Yun-Casalilla, eds., _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan, 2014), 255–273.
 
-[^ref24]: Francisco Mallari, S.J., “The Mindanao Cinnamon”, _Philippine Quarterly of Culture and Society_, 2:4 (1974) 190-194; and Russell K. Skowronek, “Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy”, in: Chunming Wu (ed.), _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media 2016) 59-74.
+[^ref24]: Francisco Mallari, S.J., “The Mindanao Cinnamon,” _Philippine Quarterly of Culture and Society_ 2:4 (1974): 190–194; and Russell K. Skowronek, “Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy,” in Chunming Wu, ed., _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media, 2016), 59–74.
 
-[^ref25]: Bleichmar, _Visible Empire_, 123-126.
+[^ref25]: Bleichmar, _Visible Empire_, 123–126.
 
 [^ref26]: Bleichmar, _Visible Empire_, 26, 31.
 
-[^ref27]: Thomas J. Zumbroich, “The Introduction of Nutmeg (_Myristica fragrans_ Houtt.) and Cinnamon (_Cinnamomum verum_ J.Presl) to America”, _Acta Botánica Venezuélica_, 28:1 (2005) 155-160.
+[^ref27]: Thomas J. Zumbroich, “The Introduction of Nutmeg (_Myristica fragrans_ Houtt.) and Cinnamon (_Cinnamomum verum_ J.Presl) to America,” _Acta Botánica Venezuélica_, 28:1 (2005): 155–160.
 
-[^ref28]: U.M. Senanayake and R.O.B. Wijesekera, “Cinnamon and Cassia – The Future Vision”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 327-329.
+[^ref28]: U.M. Senanayake and R.O.B. Wijesekera, “Cinnamon and Cassia–The Future Vision,” in P.N. Ravindran, K. Nirmal Babu, and M. Shylaja, eds., _Cinnamon and Cassia: The Genus Cinnamomum._ Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton, Florida: CRC Press, 2004), 327–329.
 
-[^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia”, in: P.N. Ravindran, K. Nirmal Babu, and M. Shylaja (eds.), _Cinnamon and Cassia: The Genus_ Cinnamomum. Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton: CRC Press 2004) 259-284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review”, _BMC Complementary and Alternative Medicine_, 13:275 (2013); and Hellen A. Oketch-Rabah, Robin J. Marles and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data”, _Clinical Pharmacology and Therapeutics_, 104:3 (2018) 435-445.
+[^ref29]: K.K. Vijayan and R.V. Ajithan Thampuran, “Pharmacology and Toxicology of Cinnamon and Cassia,” in P.N. Ravindran, K. Nirmal Babu, and M. Shylaja, eds., _Cinnamon and Cassia: The Genus Cinnamomum._ Medicinal and Aromatic Plants – Industrial Profiles 36 (Boca Raton, Florida: CRC Press, 2004), 259–284; Priyanga Ranasinghe et al., “Medicinal Properties of ‘True’ Cinnamon (_Cinnamomum zeylanicum_): A Systematic Review,” _BMC Complementary and Alternative Medicine_, 13 (2013): 275; and Hellen A. Oketch-Rabah, Robin J. Marles, and Josef A. Brinckmann, “Cinnamon and Cassia Nomenclature Confusion: A Challenge to the Applicability of Clinical Data,” _Clinical Pharmacology and Therapeutics_ 104:3 (2018): 435–445.
