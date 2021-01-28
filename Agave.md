@@ -2,7 +2,7 @@
 	   title="Agave - An Ancient Plant with an Intoxicating History"
 	   source-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gc29_agave_americana.jpg/1920px-Gc29_agave_americana.jpg"
 	   banner="https://jstor-labs.github.io/plant-humanities/images/banners/agave.jpg"
-	   eid="Q155874"
+	   eid="Q104699604"
 	   layout="vtl"
 	   num-maps="3"
 	   num-images="8"
