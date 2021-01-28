@@ -78,6 +78,7 @@ The highly specialized relationships between heliconias and their pollinators re
 <param ve-image fit="contain" url="https://ia802503.us.archive.org/BookReader/BookReaderImages.php?id=variouscontrivan1886darw&itemPath=%2F7%2Fitems%2Fvariouscontrivan1886darw&server=ia802503.us.archive.org&page=n52_w356" title="Charles Darwin, _The various contrivances by which orchids are fertilised by insects_, page 31, New York, Appleton,1886, Harold B. Lee Library">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/9/9d/NHM_Xanthopan_morgani.jpg" title="_Xanthopan morganii_, Natural History Museum of London, March 2010, Esculapio, Wikimedia Commons, CC BY-SA 3.0">
 <param ve-image fit="contain" url="https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/mixed-media/angraecum-sesquipedale/@@images/image" title="Caroline Maschek, _Angraecum sesquipedale_, 1884–91, 31.5 × 24 cm, with additional sheet of thin paper measuring 28.5 × 24 cm, gouache on tinted Bristol paper, Dumbarton Oaks Research Library and Collection">
+<param ve-image fit="contain" url="https://live.staticflickr.com/8021/29311503431_94d29b892a_b.jpg" title="_Andean Emerald Hummingbird perched on heliconia_, Andy Morffew, Ecuador, 2015, Flickr, CC BY 2.0">
 
 <param ve-entity eid="Q38095" title="Islas Galápagos" aliases="Galápagos Islands|Galapagos">
 <param ve-entity eid="Q756311" title="Darwin's finches" aliases="Darwin’s Finches">
