@@ -11,7 +11,7 @@
 	
 ### Pretty Stinky
 In the late afternoon of a hot summer day in June 2019, an extraordinary and rare flower began to bloom at the <span eid="Q636275">New York Botanical Garden (NYBG)</span>. A press release was immediately sent out as visitors had only 24 to 36 hours to the see the world’s largest inflorescence (flower-bearing structure) in peak bloom. It was not just the size of the <span eid="Q431224">_Amorphophallus titanum_</span>, however, that would attract hundreds of thousands of visitors. It was also the fact that, as its common name “corpse flower” suggests, this gigantic plant, when in bloom, smells like rotting flesh. 
-<param ve-video id="5upF4rJUxC4" title="NYBG 2019 Corpse Flower Timelapse">
+<param ve-video vid="5upF4rJUxC4" title="NYBG 2019 Corpse Flower Timelapse">
 
 The putrid smell of the _Amorphophallus titanum_ (or titan arum), which has been described by the Huntington Botanical Garden as a combination of Limburger cheese, garlic, rotting fish, and smelly feet, is actually a pollination strategy. The powerful scent emitted by the plant along with the crimson, <span data-click-image-zoomto="1706,1802,1461,1098">meaty-color of its open spathe</span> (the frilly leaf around the flower spike) are designed to attract insect pollinators – <span eid="Q303626">carrion beetles</span> and <span eid="Q978302">flesh flies</span> – that typically feast on dead animals.[^1] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/40/Corpse_Flower_%28Amorphophallus_Titanum%29_1_of_5.jpg" title="Corpse Flower (Amorphophallus Titanum) in full bloom at Edmonton's Muttart Conservatory, April 7, 2015." attribution="wikimedia">
