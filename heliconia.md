@@ -74,7 +74,8 @@ Heliconias are not only a source of ornamental and visual pleasure—they are al
 <param ve-entity eid="Q1035" title="Charles Darwin" aliases="Charles Darwin’s">
 <param ve-entity eid="Q25308" title="Orchidaceae" aliases="orchids">
 <param ve-entity eid="Q1141466" title="pollinator" aliases="pollinators">
-The highly specialized relationships between heliconias and their pollinators reveal evolution at work. Indeed, these close—sometimes exclusive—relationships between specific plants and animals played a key role in the development of Charles Darwin’s ideas on the process of natural selection and evolution. While Darwin was especially interested in the relationship between orchids and the insects that pollinated them, heliconias offer equally interesting and unique relationships with their animal pollinators. An extraordinary [example](https://doi.org/10.1007/s00442-011-2043-8) of coevolution, or reciprocal evolution, between two species is the relationship between heliconias and hummingbirds in the eastern arc of the Caribbean islands. The two species of heliconias native to the islands, _[Heliconia bihai](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:796925-1)_ and _[Heliconia caribeae](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:796933-1)_, and the one species of hummingbird found there have coevolved in a unique and interesting way. The two heliconias are quite different from each other, but the single species of hummingbird that pollinates them is so specialized that the small-bodied females visit _Heliconia bihai_ and the larger-bodied males visit _Heliconia caribeae_. Astonishingly, the shape and size of the bills of each sex correspond to the shape and size of the flowers of the specific heliconias that they visit and feed from. In other words, the male hummingbird has evolved with one species of heliconia and the female hummingbird has evolved with the other species of heliconia.
+<param ve-entity eid="Q15329469" title="Heliconia caribaea">
+The highly specialized relationships between heliconias and their pollinators reveal evolution at work. Indeed, these close—sometimes exclusive—relationships between specific plants and animals played a key role in the development of Charles Darwin’s ideas on the process of natural selection and evolution. While Darwin was especially interested in the relationship between orchids and the insects that pollinated them, heliconias offer equally interesting and unique relationships with their animal pollinators. An extraordinary [example](https://doi.org/10.1007/s00442-011-2043-8) of coevolution, or reciprocal evolution, between two species is the relationship between heliconias and hummingbirds in the eastern arc of the Caribbean islands. The two species of heliconias native to the islands, _Heliconia bihai_ and _Heliconia caribeae_, and the one species of hummingbird found there have coevolved in a unique and interesting way. The two heliconias are quite different from each other, but the single species of hummingbird that pollinates them is so specialized that the small-bodied females visit _Heliconia bihai_ and the larger-bodied males visit _Heliconia caribeae_. Astonishingly, the shape and size of the bills of each sex correspond to the shape and size of the flowers of the specific heliconias that they visit and feed from. In other words, the male hummingbird has evolved with one species of heliconia and the female hummingbird has evolved with the other species of heliconia.
 <param ve-image fit="contain" primary url="https://ia802503.us.archive.org/BookReader/BookReaderImages.php?id=variouscontrivan1886darw&itemPath=%2F7%2Fitems%2Fvariouscontrivan1886darw&server=ia802503.us.archive.org&page=n8_w1019" title="Charles Darwin, _The various contrivances by which orchids are fertilised by insects_, title page, New York, Appleton,1886, Harold B. Lee Library">
 <param ve-image fit="contain" url="https://ia802503.us.archive.org/BookReader/BookReaderImages.php?id=variouscontrivan1886darw&itemPath=%2F7%2Fitems%2Fvariouscontrivan1886darw&server=ia802503.us.archive.org&page=n52_w356" title="Charles Darwin, _The various contrivances by which orchids are fertilised by insects_, page 31, New York, Appleton,1886, Harold B. Lee Library">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/9/9d/NHM_Xanthopan_morgani.jpg" title="_Xanthopan morganii_, Natural History Museum of London, March 2010, Esculapio, Wikimedia Commons, CC BY-SA 3.0">
@@ -119,13 +120,13 @@ Our understanding of the diversity and ecology of heliconias has grown tremendou
 
 ### References
 
-Altshuler, Douglas L. and Christopher James Clark.  “Darwin’s Hummingbirds.” Science 300 (2003): 588-589. _JSTOR_, [www.jstor.org/stable/3834345](www.jstor.org/stable/3834345). Accessed 1 June 2020.
+Altshuler, Douglas L. and Christopher James Clark.  “Darwin’s Hummingbirds.” _Science_ 300 (2003): 588-589. _JSTOR_, [www.jstor.org/stable/3834345](https://www.jstor.org/stable/i371145). Accessed 1 June 2020.
 
-Betts, M., A. Hadley, and W. John Kress. “Pollinator recognition by a keystone tropical plant.” Proceedings of the National Academy of Sciences of the United States of America 112 (11) (2015): 3433–3438. _JSTOR_, [www.jstor.org/stable/26462059](www.jstor.org/stable/3834345). Accessed May 17, 2020.
+Betts, M., A. Hadley, and W. John Kress. “Pollinator recognition by a keystone tropical plant.” Proceedings of the National Academy of Sciences of the United States of America 112 (11) (2015): 3433–3438. _JSTOR_, [www.jstor.org/stable/26462059](https://www.jstor.org/stable/3834345). Accessed May 17, 2020.
 
 Curtis, William. “Heliconia Psittacorum. Parrot-Beaked Heliconia.” _The Botanical Magazine, or, Flower-Garden Displayed_ 14 (1800). Plate no. 502. No page numbers.
 
-Kress, W. John. “The Taxonomy of Old World Heliconia (Heliconiaceae).” _Allertonia_ 6 (1) (1990): 1–58. _JSTOR_, [www.jstor.org/stable/23188167](www.jstor.org/stable/23188167). Accessed 17 May 2020.
+Kress, W. John. “The Taxonomy of Old World Heliconia (Heliconiaceae).” _Allertonia_ 6 (1) (1990): 1–58. _JSTOR_, [www.jstor.org/stable/23188167](https://www.jstor.org/stable/23188167?seq=1). Accessed 17 May 2020.
 
 ––. “A synopsis of the genus Heliconia (Heliconiaceae) in Venezuela with one new variety.”  _BioLlania Edición Especial_ No. 6 (1997): 407–430.
 
@@ -135,5 +136,5 @@ Mee, Margaret and T. Morrison, ed. Margaret Mee, _In Search of Flowers of the Am
 
 Temeles, E. J., and W. John Kress. “Evidence for adaptation in a plant-hummingbird association.”  _Science_ 300 (2003): 630–633.
 
-[https://www.heliconia.org/](https://www.heliconia.org/)
+[Heliconia.org](https://www.heliconia.org/)
 
