@@ -55,7 +55,7 @@ The striking beauty of heliconias continued to attract both the plant explorer a
 
 <param ve-entity eid="Q21380547" title="Heliconia chartacea var. meeana">
 Kress did, indeed, travel to Venezuela, found a specimen of Mee’s heliconia, and honored her by naming the new discovery _Heliconia chartacea_ var. _meeana_. A pen-and-ink drawing by the Smithsonian’s scientific illustrator [Alice Tangerini](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/tangerini-interview), employed a mix of photographs, dried specimens from Kress’s travels, and dissections under the microscope to capture the plant’s structures for the ensuing botanical publication. The discovery and description of this new variety exemplifies the entanglement of art and science in the long tradition of plant representation. 
-<param primary ve-storiiies id="ce1ku">
+<param ve-storiiies id="ce1ku">
 <param ve-image fit="contain" manifest="https://ids.si.edu/ids/manifest/ark:/65665/m3f47a8c4303da4eca8a2e8c80993477c4" title="_Heliconia chartacea_ var. _meeana_, W.J. Kress, Venezuela, Smithsonian National Museum of Natural History, CC0">
 <param ve-image fit="contain" manifest="https://ids.si.edu/ids/manifest/ark:/65665/m3cb339e5de25b46b8a7630b51986fef57" title="_Heliconia chartacea_ var. _meeana_, W.J. Kress, Venezuela, Smithsonian National Museum of Natural History, CC0">
 <param ve-image fit="contain" manifest="https://ids.si.edu/ids/manifest/ark:/65665/m3069ebeb405254391a4868f9eb7c90c50" title="_Heliconia chartacea_ var. _meeana_, W.J. Kress, Venezuela, Smithsonian National Museum of Natural History, CC0">
