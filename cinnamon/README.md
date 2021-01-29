@@ -55,7 +55,7 @@ The attraction of cinnamon—true or other—as a means to enhance the power of 
 <param title="Trajan" eid="Q1425">
 <param title="Persian Gulf" eid="Q34675">
 <param ve-image
-	title="Reverse side of a silver Roman denarius dating from the period 103-111 CE (reign of emperor Trajan), that was found in East Riding of Yorkshire, Britain. The coin shows a female personification of Arabia holding a branch and a bundle of cinnamon sticks, and standing next to a camel. If cinnamon is indeed depicted, then this should be Cassia abbreviata or Cinnamomum cassia. Numismatic information about this coin type can be found in the standard work Roman Imperial Coinage (published between 1923 and 1994), vol. 5, p. 253, no. 142."
+	title="Reverse side of a silver Roman denarius dating from the period 103-111 CE (reign of emperor Trajan), that was found in East Riding of Yorkshire, Britain. The coin shows a female personification of Arabia holding a branch and a bundle of cinnamon sticks, and standing next to a camel. If cinnamon is indeed depicted, then this should be _Cassia abbreviata_ or _Cinnamomum cassia_. Numismatic information about this coin type can be found in the standard work Roman Imperial Coinage (published between 1923 and 1994), vol. 5, p. 253, no. 142."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1414,152,1586,1031">
 {#paragraph5}
