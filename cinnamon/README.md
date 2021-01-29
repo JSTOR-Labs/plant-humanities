@@ -138,7 +138,7 @@ Although cinnamon was a successful monopoly during the Dutch period, was it pure
 <param title="Rijckloff van Goens" eid="Q1392981">
 <param title="Batavia" eid="Q1199713"> 
 <param ve-image
-	title="Test - cinnamon from hortus malabaricus"
+	title="“Carua” in the _Hortus Indicus malabricus_"
 	url="https://ia801001.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003370076&itemPath=%2F18%2Fitems%2Fmobot31753003370076&server=ia801001.us.archive.org&page=n177_w685">
 {#paragraph13}
 
