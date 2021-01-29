@@ -138,7 +138,7 @@ Although cinnamon was a successful monopoly during the Dutch period, was it pure
 <param title="Rijckloff van Goens" eid="Q1392981">
 <param title="Batavia" eid="Q1199713"> 
 <param ve-image
-	title="“Carua” in the _Hortus Indicus malabricus_"
+	title="“Carua” in the _Hortus Indicus Malabaricus_ (vol. 1, p. 107-110 and fig. 57). This massive, 12-volume work on the flora of the Malabar coast was produced by a team of European and Indian scholars supervised by Hendrik Adriaan van Rheede tot Drakenstein, and published between 1678 and 1703. The Indian botanist K.S. Manilal identified this species as _Cinnamomum verum_. Although this is the same species as the true cinnamon from Ceylon, Van Rheede's experiments with the oil from the root revealed differences between cinnamon from both locations."
 	url="https://ia801001.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003370076&itemPath=%2F18%2Fitems%2Fmobot31753003370076&server=ia801001.us.archive.org&page=n177_w685">
 {#paragraph13}
 
