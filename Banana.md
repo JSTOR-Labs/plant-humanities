@@ -74,7 +74,7 @@ In 1753 Carl Von Linnaean’s formative work, _[Systema Naturae](https://www.bio
 
 Yet, despite Linnaean taxonomy’s international acceptance and longevity, Linnaeus’s naming system does have its limitations, which we can see in the case of the banana. Linnaeus did not consider domesticated plants species, since they were the product of human manipulation. The two “wild” species of banana identified by Linnaeus– _Musa x paradisiaca_ and _Musa sapientum_—were in fact domesticated edible cultivars. Linnaeus was unaware of the banana’s long and complex history of domestication.
 <param primary="image">
-<param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/ede1155b04fc271791d9449573653bf05e85b7ce20485b61638717d262e90bd6">
+<param ve-image region="51,599,1897,1430" manifest="https://iiif-v2.visual-essays.app/manifest/ede1155b04fc271791d9449573653bf05e85b7ce20485b61638717d262e90bd6">
 
 ### The Banana Goes Global
 Thanks to domesticated bananas’ long history of human intervention and migration, modern plant taxonomy did little to clear up the confusion surrounding identifications and names of banana plants. While scientists eventually deduced that Linnaeus had identified two domesticated banana cultivars, not species, the wild progenitors of cultivated bananas as well as the origin of banana domestication remained a mystery until recently. Twenty-first century genomics and genetic testing have revealed that the origin of banana domestication was geographically further east than originally thought.
