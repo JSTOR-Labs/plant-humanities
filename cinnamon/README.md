@@ -139,7 +139,7 @@ Although cinnamon was a successful monopoly during the Dutch period, was it pure
 <param title="Batavia" eid="Q1199713"> 
 <param ve-image
 	title="Test - cinnamon from hortus malabaricus"
-	url="https://www.biodiversitylibrary.org/page/463727">
+	url="https://ia801001.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003370076&itemPath=%2F18%2Fitems%2Fmobot31753003370076&server=ia801001.us.archive.org&page=n177_w685">
 {#paragraph13}
 
 Imperial agendas and a disinterested search for knowledge could also go hand in hand. The botanist Paul Hermann was employed by the VOC between 1672 and 1677 to gather botanical knowledge on Sri Lanka. Although Hermann barely ventured beyond Colombo, he managed to collect an impressive amount of material, including many cinnamon specimens.[^ref15] Hermann’s collections sustained for decades scholarly interest in Sri Lankan flora. Many specimens served indirectly as input for the _Species Plantarum_ (1753) of Carl Linnaeus, who dreamed of transplanting cinnamon to Lapland.[^ref16] But Hermann already knew that northern Europe was too cold for cinnamon: in spite of the VOC ban on exporting living plants, he had sent trees to several acquaintances in the Dutch Republic, none of which survived the cold winters.[^ref17] Despite the government restrictions, the exchange of knowledge and goods was evidently possible: an extensive, first-hand account of all the cinnamon varieties growing on Sri Lanka even made it into the _Philosophical Transactions_ of the Royal Society in 1730.[^ref18]
