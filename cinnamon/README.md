@@ -222,7 +222,7 @@ Today, Sri Lanka again ranks high among [the world’s largest exporters of cinn
 
 [^ref3]: Inês de Ornellas e Castro, “‘A Pleasant Banquet of Words’: Therapeutic Virtues and Alimentary Consumption in Garcia de Orta’s _Colloquies on the Simples and Drugs of India_,” in Palmira Fontes da Costa, ed., _Medicine, Trade, and Empire: Garcia de Orta’s Colloquies on the Simples and Drugs of India (1563) in Context_ (New York: Routledge, 2015), 67–88, there 84, 85.
 
-[^ref4]: Vijaya Samaraweera, “The Cinnamon Trade of Ceylon,” _Indian Economic & Social History Review_ 8, no. 4 (1971): 415–442, there 416.
+[^ref4]: Vijaya Samaraweera, “The Cinnamon Trade of Ceylon,” _Indian Economic & Social History Review_ 8, no. 4 (1971): 415–442, there 416, [doi.org/10.1177/001946467100800404](https://doi.org/10.1177/001946467100800404).
 
 [^ref5]: J. Innes Miller, _The Spice Trade of the Roman Empire, 29 B.C. to A.D. 641_ (Oxford: Clarendon Press 1969). The Spice Route thesis was embraced by Lionel Casson, _Ancient Trade and Society_ (Detroit: Wayne State University Press, 1984), 225 –246; and by John M. Riddle, _Dioscorides on Pharmacy and Medicine_ (Austin: University of Texas Press, 1985), 98–104. It was refuted by Manfred G. Raschke, “New Studies in Roman Commerce with the East,” in H. Temporini, ed., _Aufstieg und Niedergang der Römischen Welt: Geschichte und Kultur Roms in der neueren Forschung, II Principat/Rise and Fall of the Roman World: History and Culture of Rome in Recent Research, 2nd Principat_ (Berlin and New York: Walter de Gruyter, 1978), vol. 9, part 2, 604–1361; and by Patricia Crone, _Meccan Trade and the Rise of Islam_ (Princeton, N.J.: Princeton University Press, 1987), 37.
 
@@ -234,7 +234,7 @@ Today, Sri Lanka again ranks high among [the world’s largest exporters of cinn
 
 [^ref9]: Lodewijk Wagenaar, _Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_. Transl. by Steve Green and Michael Blass (Amsterdam: Rijksmuseum/Nijmegen: Vantilt Publishers, 2016), 149–157.
 
-[^ref10]: S. Arasaratnam, “Dutch Commercial Policy in Ceylon and its Effects on the Indo-Ceylon Trade (1690-1750),” _Indian Economic & Social History Review_ 4, no. 2 (1967): 109–130.
+[^ref10]: S. Arasaratnam, “Dutch Commercial Policy in Ceylon and its Effects on the Indo-Ceylon Trade (1690-1750),” _Indian Economic & Social History Review_ 4, no. 2 (1967): 109–130, [doi.org/10.1177%2F001946466700400202](https://doi.org/10.1177%2F001946466700400202).
 
 [^ref11]: Lodewijk Wagenaar, _Cinnamon & Elephants_, 150, 153.
 
@@ -244,25 +244,25 @@ Today, Sri Lanka again ranks high among [the world’s largest exporters of cinn
 
 [^ref14]: Johan Heniger, _Hendrik Adriaan van Reede tot Drakenstein (1636-1691) and Hortus Malabaricus: A Contribution to the History of Dutch Colonial Botany_ (Rotterdam and Boston: A.A. Balkema, 1986), 37–38; and Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press, 2007), 310–317.
 
-[^ref15]: Tinde van Andel and Nadine Barth, “Paul Hermann’s Ceylon Herbarium (1672-1679) at Leiden, the Netherlands,” _Taxon_ 67, no. 5 (2018): 977–988, there 981.
+[^ref15]: Tinde van Andel and Nadine Barth, “Paul Hermann’s Ceylon Herbarium (1672-1679) at Leiden, the Netherlands,” _Taxon_ 67, no. 5 (2018): 977–988, there 981, [doi.org/10.12705/675.8](https://doi.org/10.12705/675.8).
 
 [^ref16]: Lisbet Koerner, _Linnaeus: Nature and Nation_ (Cambridge, Massachusetts and London: Harvard University Press, 1999), 36.
 
-[^ref17]: Paul Hermann, _Horti academici Lugduno-Batavi catalogus exhibens Plantarum omnium Nomina, quibus ab anno MDCLXXXI ad annum MDCLXXXVI Hortus fuit instructus ut & Plurimarum in eodem cultarum & à nemine hucusque editarum Descriptiones & Icones_ (Lugduni Batavorum: Apud Cornelium Boutesteyn, 1687), 130; quoted in Heniger, _Hendrik Adriaan van Reede tot Drakenstein_, 155.
+[^ref17]: Paul Hermann, [_Horti academici Lugduno-Batavi catalogus exhibens Plantarum omnium Nomina, quibus ab anno MDCLXXXI ad annum MDCLXXXVI Hortus fuit instructus ut & Plurimarum in eodem cultarum & à nemine hucusque editarum Descriptiones & Icones_](https://bibdigital.rjb.csic.es/records/item/13585-horti-academici-lugduno-batavi-catalogus) (Lugduni Batavorum: Apud Cornelium Boutesteyn, 1687), [130](https://bibdigital.rjb.csic.es/viewer/13585/?offset=#page=150&viewer=picture&o=bookmark&n=0&q=); quoted in Heniger, _Hendrik Adriaan van Reede tot Drakenstein_, 155.
 
-[^ref18]: Albertus Seba, “An Account of the Cinnamon Tree in Ceylon, and Its Several Sorts. Communicated by the Chief Inspector of the Cinnamon Trade and Manufacture in that Island to Albertus Seba, a Noted Druggist at Amsterdam. Translated by the late Dr. Scheuchzer, F. R. S.,” _Philosophical Transactions_ 36, no. 409 (1730): I, 97–109.
+[^ref18]: Albertus Seba, [“An Account of the Cinnamon Tree in Ceylon, and Its Several Sorts. Communicated by the Chief Inspector of the Cinnamon Trade and Manufacture in that Island to Albertus Seba, a Noted Druggist at Amsterdam. Translated by the late Dr. Scheuchzer, F. R. S.,”](https://doi.org/10.1098/rstl.1729.0012) _Philosophical Transactions_ 36, no. 409 (1730): I, 97–109.
 
 [^ref19]: Daniela Bleichmar, “Botanical Conquistadors: The Promises and Challenges of Imperial Botany in the Hispanic Enlightenment,” in Yota Batsaki, Sarah Burke Cahalan, and Anatole Tchikine, eds., _The Botany of Empire in the Long Eighteenth Century_ (Washington, D.C.: Dumbarton Oaks Research Library and Collection, 2016), 35–60; and Matthew James Crawford, _The Andean Wonder Drug: Cinchona Bark and Imperial Science in the Spanish Atlantic 1630-1800_ (Pittsburgh: University of Pittsburgh Press, 2016), 76–77.
 
 [^ref20]: Neil Safier, “Fruitless Botany: Joseph de Jussieu’s South American Odyssey,” in James Delbourgo and Nicholas Dew, eds., _Science and Empire in the Atlantic World_ (New York: Routledge, 2008), 203–224.
 
-[^ref21]: Catherine E. Burdick, “Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle’s Tabula Geographica Regni Chile (1646),” _Imago Mundi_ 66, no. 2 (2014): 196–212.
+[^ref21]: Catherine E. Burdick, “Patagonian Cinnamon and Pepper: Blending Geography in Alonso de Ovalle’s Tabula Geographica Regni Chile (1646),” _Imago Mundi_ 66, no. 2 (2014): 196–212, [doi.org/10.1080/03085694.2014.902581](https://doi.org/10.1080/03085694.2014.902581).
 
 [^ref22]: Jonathan I. Israel, _Dutch Primacy in World Trade, 1585-1740_ (Oxford: Clarendon Press, 1989), 251–252. The estimate comes from Jacques Savary des Bruslons, _Dictionnaire universel de commerce of 1723_. The Real Sociedad Económica de Madrid calculated in 1780 that 600.000 pounds of Dutch cinnamon were consumed by Spanish America each year. See Daniela Bleichmar, _Visible Empire: Botanical Expeditions and Visible Culture in the Hispanic Enlightenment_ (Chicago and London: University of Chicago Press, 2012), 132.
 
-[^ref23]: Irene Fattacciu, “The Resilience and Boomerang Effect of Chocolate: A Product’s Globalization and Commodification,” in Bethany Aram and Bartolomé Yun-Casalilla, eds., _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan, 2014), 255–273.
+[^ref23]: Irene Fattacciu, “The Resilience and Boomerang Effect of Chocolate: A Product’s Globalization and Commodification,” in Bethany Aram and Bartolomé Yun-Casalilla, eds., _Global Goods and the Spanish Empire, 1492-1824: Circulation, Resistance and Diversity_ (Houndmills and Basingstoke: Palgrave Macmillan, 2014), 255–273, [doi.org/10.1057/9781137324054_14](https://doi.org/10.1057/9781137324054_14).
 
-[^ref24]: Francisco Mallari, S.J., “The Mindanao Cinnamon,” _Philippine Quarterly of Culture and Society_ 2, no. 4 (1974): 190–194; and Russell K. Skowronek, “Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy,” in Chunming Wu, ed., _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media, 2016), 59–74.
+[^ref24]: Francisco Mallari, S.J., “The Mindanao Cinnamon,” _Philippine Quarterly of Culture and Society_ 2, no. 4 (1974): 190–194, https://www.jstor.org/stable/29791158; and Russell K. Skowronek, “Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy,” in Chunming Wu, ed., _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media, 2016), 59–74.
 
 [^ref25]: Bleichmar, _Visible Empire_, 123–126.
 
