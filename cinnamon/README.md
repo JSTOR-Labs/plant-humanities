@@ -152,9 +152,9 @@ Imperial agendas and a disinterested search for knowledge could also go hand in 
 <param title="Royal Society" eid="Q123885">
 <param ve-image
 	title="“Cinnamon from Ceylon with flowers”. Specimen of   
-_Cinnamomum verum_ J.Presl, from Paul Hermanns herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171. [This is currently a downloaded image, because the Leiden volumes of Hermann’s herbarium are not in JSTOR’s Global Plants database. The London volumes are.]"
-	attribution="https://data.biodiversitydata.nl/naturalis/specimen/L.2070171"
-	url="007714869-L.2070171.jpg">
+_Cinnamomum verum_ J.Presl, from Paul Hermanns herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171."
+	url="007714869-L.2070171.jpg"
+	attribution="https://data.biodiversitydata.nl/naturalis/specimen/L.2070171">
 {#paragraph14}
 
 ### Cinnamon and Imperial Imagination
