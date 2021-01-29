@@ -25,7 +25,7 @@ Cinnamon had a long history before any European ever saw “true” cinnamon (_C
 <param title="East Indies" eid="Q213137">
 <param title="Cassia abbreviata" eid="Q145495">
 <param ve-image
-	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides’s _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b. <!-- Note: I downloaded this image from HOLLIS Images. The image has a manifest but it is no reusable, as it requires a login to access. -->"
+	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides’s _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b.<!-- Note: I downloaded this image from HOLLIS Images. The image has a manifest but it is no reusable, as it requires a login to access. -->"
 	url="18040817.jpg">
 {#paragraph2}
 
