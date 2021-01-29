@@ -25,7 +25,7 @@ Cinnamon had a long history before any European ever saw “true” cinnamon (_C
 <param title="East Indies" eid="Q213137">
 <param title="Cassia abbreviata" eid="Q145495">
 <param ve-image
-	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides’s _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b.<!-- Note: I downloaded this image from HOLLIS Images. The image has a manifest but it is no reusable, as it requires a login to access. -->"
+	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides’s _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b.<!--Note: I downloaded this image from HOLLIS Images. The image has a manifest but it is no reusable, as it requires a login to access.-->"
 	url="18040817.jpg">
 {#paragraph2}
 
@@ -44,7 +44,7 @@ How could this confusion last so long? One possible explanation for the shift fr
 Another, much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue still exists today. This is a striking example of forgotten knowledge in modern science. In the nineteenth century, Friedrich A. Flückiger and Daniel Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in antiquity did not come from Sri Lanka. It only became a noticeable export from there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, the cinnamon of antiquity must have been _cassia lignea_—a common historical name for _cassia_, generally believed to be _Cinnamomum cassia_ (L.) J.Presl—imported from China through Arabia and East Africa. Although this narrative is debatable, it is more plausible than the one proposed by J. Innes Miller (1969), who claimed there had been an interoceanic Spice Route in antiquity, spanning all corners of the Indian Ocean. Although this idea is now rejected by historians, Sri Lanka still features in many accounts of cinnamon in antiquity.[^ref5]
 <param title="Cinnamomum cassia" eid="Q204148">
 <param ve-image
-	title="The proposed Spice Route of Antiquity, by J. Innes Miller. [Note: This is just a screenshot from Riddle’s book. I’m not sure if I want to use this image, and if so, I should reproduce it as a proper ve-map tag, which seems like it would be a lot of work.]"
+	title="The proposed Spice Route of Antiquity, by J. Innes Miller.<!--Note: This is just a screenshot from Riddle’s book. I’m not sure if I want to use this image, and if so, I should reproduce it as a proper ve-map tag, which seems like it would be a lot of work.-->"
 	attribution="Taken from John M. Riddle, _Dioscorides on Pharmacy and Medicine_. Forew. by John Scarborough (Austin: University of Texas Press 1985) 99."
 	url="Indian_Ocean_Spice_route_(Riddle 1985p99_from Miller_1969).bmp">
 {#paragraph4}
