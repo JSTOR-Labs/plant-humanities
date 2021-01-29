@@ -69,7 +69,7 @@ The quest for spices, cinnamon among them, was one important aim that inspired E
 <param title="Syzygium aromaticum" eid="Q26736" aliases="cloves">
 <param title="nutmeg" eid="Q83165">
 <param ve-image
-	title="Coat-of-arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a number of cloves. The banner covering the globe reads in Latin ‘Primus circumdedisti me’ (You first encircled me’)."
+	title="Coat-of-arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a number of cloves. The banner covering the globe reads in Latin “Primus circumdedisti me” (“You first encircled me”)."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	fit="contain">
 {#paragraph6}
@@ -101,7 +101,7 @@ Although their skills were indispensable for the cinnamon trade, peelers were tr
 	title="Imaginary landscapes with spices from the East Indies. On the left can be seen a nutmeg tree, a cinnamon tree, and an elephant chase in the background. On the right can be seen a cloves tree and bamboo, with the volcano Ternate in the back. Etching by Romeyn de Hooghe, produced between 1682 and 1733. Rijksmuseum, Amsterdam, object no. BI-1972-1043-16, serial no. 10/41."
 	url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kaneel%2C_nootmuskaat%2C_kruidnagel_en_bamboe_Kaneel_en_Nootmus_Canelle%2C_Muscade%2C_Chasse_des_Elephans%2C_etc_Kruytnagelengewas_Girofle%2C_Bambous%2C_Montagne_brulante%2C_etc_%28titel_op_object%29_Les_Indes_Orientales_et_Occidentales_e%2C_BI-1972-1043-16.jpg">
 <param ve-image
-	title="‘How cinnamon is peeled on the island of Ceylon’. Anonymous copperplate print, from Philippus Baldaeus, _Naauwkeurige beschryvinge van Malabar en Choromandel, derzelver aangrenzende ryken en het machtige eyland Ceylon_ (Amsterdam: Johannes Janssonius van Waasberge 1672) 195."
+	title="“How cinnamon is peeled on the island of Ceylon”. Anonymous copperplate print, from Philippus Baldaeus, _Naauwkeurige beschryvinge van Malabar en Choromandel, derzelver aangrenzende ryken en het machtige eyland Ceylon_ (Amsterdam: Johannes Janssonius van Waasberge 1672) 195."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg"
 	fit="contain">
 {#paragraph9}
@@ -118,7 +118,7 @@ In 1760, local grievances about the VOC policy concerning _chenas_, and the trea
 <param title="Iman Willem Falck" eid="Q16836179">
 <param title="plantation" eid="Q188913">
 <param ve-image
-	title="‘Map of the cinnamon gardens with their main roads in the district of Kaliture.’ This anonymous, eighteenth-century map shows 70 cinnamon gardens located immediately south of Colombo, between Kaliture (present-day Kalutara) and the mouth of the Bentotte (Bentota) river."
+	title="“Map of the cinnamon gardens with their main roads in the district of Kaliture.” This anonymous, eighteenth-century map shows 70 cinnamon gardens located immediately south of Colombo, between Kaliture (present-day Kalutara) and the mouth of the Bentotte (Bentota) river."
 	attribution="Nationaal Archief, The Hague, 4.VEL ‘Inventaris van de verzameling buitenlandse kaarten Leupe, 1584-1865’, inv.no. 935 ‘Kaart van de Salpittie Korls Kanneeltuynen, met dies Hoofdwegens, geleegen in het district Kaliture’."
 	url="NL-HaNA_4.VEL_935-groot.jpg"
 	region="2226,1064,839,630">
@@ -151,7 +151,7 @@ Imperial agendas and a disinterested search for knowledge could also go hand in 
 <param title="Philosophical Transactions" eid="Q913162">
 <param title="Royal Society" eid="Q123885">
 <param ve-image
-	title="‘Cinnamon from Ceylon with flowers’. Specimen of   
+	title="“Cinnamon from Ceylon with flowers”. Specimen of   
 _Cinnamomum verum_ J.Presl, from Paul Hermanns herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171. [This is currently a downloaded image, because the Leiden volumes of Hermann’s herbarium are not in JSTOR’s Global Plants database. The London volumes are.]"
 	attribution="https://data.biodiversitydata.nl/naturalis/specimen/L.2070171"
 	url="007714869-L.2070171.jpg">
@@ -207,10 +207,10 @@ Today, Sri Lanka again ranks high among [the world’s largest exporters of cinn
 <param ve-map primary
 	title="tba">
 <param ve-image
-	title="‘Skinning the cinnamon sticks, Ceylon’. Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 109."
+	title="“Skinning the cinnamon sticks, Ceylon”. Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 109."
 	url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Skinning_the_cinnamon_sticks%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg">
 <param ve-image
-	title="‘Forming the cinnamon quills, Ceylon’. Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 110."
+	title="Forming the cinnamon quills, Ceylon’. Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 110."
 	url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Forming_the_cinnamon_quills%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg">
 {#paragraph19}
 
