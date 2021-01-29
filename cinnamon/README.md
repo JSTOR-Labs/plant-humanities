@@ -216,7 +216,7 @@ Today, Sri Lanka again ranks high among [the world’s largest exporters of cinn
 
 ### References
 
-[^ref1]: Stephen G. Haw, “Cinnamon, Cassia and Ancient Trade,” _Journal of Ancient History and Archaeology_ 4, no. 1 (2017): 5–18. For an overview of the botanical genus _Cinnamomum_, see A.J.G.H. Kostermans, _A Monograph of the Genus Cinnamomum Schaeff. (Lauraceae)_ (Tokyo: Academia Scientific Book, 1986).
+[^ref1]: Stephen G. Haw, “Cinnamon, Cassia and Ancient Trade,” _Journal of Ancient History and Archaeology_ 4, no. 1 (2017): 5–18, doi.org/10.14795/j.v4i1.211. For an overview of the botanical genus _Cinnamomum_, see A.J.G.H. Kostermans, _A Monograph of the Genus Cinnamomum Schaeff. (Lauraceae)_ (Tokyo: Academia Scientific Book, 1986).
 
 [^ref2]: Haw, “Cinnamon,” 10–11.
 
