@@ -25,7 +25,7 @@ Cinnamon had a long history before any European ever saw “true” cinnamon (_C
 <param title="East Indies" eid="Q213137">
 <param title="Cassia abbreviata" eid="Q145495">
 <param ve-image
-	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides’s _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b.<!--Note: I downloaded this image from HOLLIS Images. The image has a manifest but it is no reusable, as it requires a login to access.-->"
+	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides’s _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
 	url="18040817.jpg">
 {#paragraph2}
 
@@ -44,7 +44,7 @@ How could this confusion last so long? One possible explanation for the shift fr
 Another, much more surprising reason for the long-lasting confusion over cinnamon, is the fact that the exact same issue still exists today. This is a striking example of forgotten knowledge in modern science. In the nineteenth century, Friedrich A. Flückiger and Daniel Hanbury already noted in their [_Pharmacographia_](https://www.biodiversitylibrary.org/item/111743#page/490/mode/1up) (1874) that cinnamon in antiquity did not come from Sri Lanka. It only became a noticeable export from there in the thirteenth century, when political power on the island shifted to the cinnamon-producing areas in the southwest.[^ref4] Rather, they argued, the cinnamon of antiquity must have been _cassia lignea_—a common historical name for _cassia_, generally believed to be _Cinnamomum cassia_ (L.) J.Presl—imported from China through Arabia and East Africa. Although this narrative is debatable, it is more plausible than the one proposed by J. Innes Miller (1969), who claimed there had been an interoceanic Spice Route in antiquity, spanning all corners of the Indian Ocean. Although this idea is now rejected by historians, Sri Lanka still features in many accounts of cinnamon in antiquity.[^ref5]
 <param title="Cinnamomum cassia" eid="Q204148">
 <param ve-image
-	title="The proposed Spice Route of Antiquity, by J. Innes Miller.<!--Note: This is just a screenshot from Riddle’s book. I’m not sure if I want to use this image, and if so, I should reproduce it as a proper ve-map tag, which seems like it would be a lot of work.-->"
+	title="The proposed Spice Route of Antiquity, by J. Innes Miller."
 	attribution="Taken from John M. Riddle, _Dioscorides on Pharmacy and Medicine_. Forew. by John Scarborough (Austin: University of Texas Press 1985) 99."
 	url="Indian_Ocean_Spice_route_(Riddle 1985p99_from Miller_1969).bmp">
 {#paragraph4}
@@ -55,7 +55,7 @@ The attraction of cinnamon—true or other—as a means to enhance the power of 
 <param title="Trajan" eid="Q1425">
 <param title="Persian Gulf" eid="Q34675">
 <param ve-image
-	title="Reverse side of a silver Roman denarius dating from the period 103-111 CE (reign of emperor Trajan), that was found in East Riding of Yorkshire, Britain. The coin shows a female personification of Arabia holding a branch and a bundle of cinnamon sticks, and standing next to a camel. If cinnamon is indeed depicted, then this should be Cassia abbreviata or Cinnamomum cassia. Numismatic information on this coin type can be found in the standard work Roman Imperial Coinage (published between 1923 and 1994), vol. 5, p. 253, no. 142."
+	title="Reverse side of a silver Roman denarius dating from the period 103-111 CE (reign of emperor Trajan), that was found in East Riding of Yorkshire, Britain. The coin shows a female personification of Arabia holding a branch and a bundle of cinnamon sticks, and standing next to a camel. If cinnamon is indeed depicted, then this should be Cassia abbreviata or Cinnamomum cassia. Numismatic information about this coin type can be found in the standard work Roman Imperial Coinage (published between 1923 and 1994), vol. 5, p. 253, no. 142."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1414,152,1586,1031">
 {#paragraph5}
@@ -69,7 +69,7 @@ The quest for spices, cinnamon among them, was one important aim that inspired E
 <param title="Syzygium aromaticum" eid="Q26736" aliases="cloves">
 <param title="nutmeg" eid="Q83165">
 <param ve-image
-	title="Coat-of-arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a bunch of cloves. The banner covering the globe reads in Latin ‘Primus circumdedisti me’ (You first encircled me’)."
+	title="Coat-of-arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a number of cloves. The banner covering the globe reads in Latin ‘Primus circumdedisti me’ (You first encircled me’)."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	fit="contain">
 {#paragraph6}
@@ -77,7 +77,7 @@ The quest for spices, cinnamon among them, was one important aim that inspired E
 Once true cinnamon had begun to be understood as cinnamon from Sri Lanka, European states strove to gain a foothold on the island and access the cinnamon trade. From the sixteenth century onward, local rulers bargained with the Portuguese, and later the Dutch, for a share in this trade, in exchange for political and military assistance against their rivals. The Portuguese made tentative attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics. Therefore, they engaged in “reluctant imperialism” to gain access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
 <param title="Kingdom of Kotte" eid="Q1589163" aliases="Kotte">
 <param ve-map
-	title="Sri Lanka in the sixteenth century (after 1521). [Note: I have to create a ve-map tag based on a map in Wagenaar, p. 32, and a map from Wikimedia Commons (https://upload.wikimedia.org/wikipedia/commons/d/d7/Sri_Lanka_geopolitics_-_after_%22Spoiling_of_Vijayabahu%22.png).]"
+	title="Sri Lanka in the sixteenth century (after 1521)."
 	center="8.050740, 80.654834"
 	zoom="7.4">
 {#paragraph7}
@@ -89,7 +89,7 @@ The Dutch made even stronger, concerted efforts to get a monopoly on cinnamon. T
 <param title="Colombo" eid="Q35381">
 <param title="Jaffna" eid="Q215277" aliases="Jaffnapatnam">
 <param ve-map
-	title="Sri Lanka during the Dutch period. [Note: I have to create a ve-map tag based on a map in Wagenaar, p. 32.]"
+	title="Sri Lanka during the Dutch period."
 	center="8.050740, 80.654834"
 	zoom="7.4">
 {#paragraph8}
@@ -166,7 +166,7 @@ Meanwhile, other countries were desperately trying to have access to cinnamon, e
 <param title="El Dorado" eid="Q192550">
 <param title="Joseph de Jussieu" eid="Q1347343">
 <param ve-map
-	title="[Might be cool to include a map here, of the Pizarro and Orellana expedition. There is reusable geodata avilable on http://sharemap.org/public/Francisco_de_Orellana_Amazon_River_voyage_(1541-1542)#!webgl]"
+	title="tba"
 	center="-1.961220, -63.523771"
 	zoom="4.9">
 {#paragraph15}
@@ -205,7 +205,7 @@ The last and most daring strategy was to transplant the true cinnamon to Spanish
 Today, Sri Lanka again ranks high among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion remains: while _Cinnamomum verum_ J.Presl is grown in many countries in the tropical zone, the quality of the end product differs for each region.[^ref28] Moreover, commercial statistics usually bring all market variations under the rubric “cinnamon”, without differentiating between different _Cinnamomum_ species. This issue is even more pertinent in the context of medicine. Cinnamon has great potential therapeutic applications, but many studies fail to clarify which species of _Cinnamomum_ they focused on, making it difficult to compare the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is true and what is not.
 <param title="cinnamon" eid="Q370239">
 <param ve-map primary
-	title="[I would like to include a map here with the current distribution of Cinnamomum verum. I have two sources for that: the data differ quite a bit, and I don’t know if I can simply extract it from the sources: https://www.cabi.org/isc/datasheet/13573 (CABI), and http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:463752-1 (Kew, Plants of the World Online)]">
+	title="tba">
 <param ve-image
 	title="‘Skinning the cinnamon sticks, Ceylon’. Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 109."
 	url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Skinning_the_cinnamon_sticks%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg">
