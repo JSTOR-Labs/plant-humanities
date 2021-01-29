@@ -177,7 +177,7 @@ The Spanish efforts to find cinnamon in the New World were not only intended to 
 <param title="Alonso de Ovalle" eid="Q2839275">
 <param title="Society of Jesus" eid="Q36380" aliases="Jesuits">
 <param ve-image
-	title="bla bla bla"
+	title=""
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
 {#paragraph16}
 
