@@ -162,7 +162,7 @@ If Mattioli and Parkinson considered boxwood primarily an ornamental plant “we
 
 ### Boxwood Reinstated
 
-The vindication of boxwood as an essential garden plant took place in late sixteenth-century France, almost a millennium-and-a-half after its enthusiastic mention by Pliny. In horticulture, this moment marked the introduction of _parterres de broderie_ characterized by low, manicured hedges that imitated embroidery patterns. Boxwood—along with myrtle, lavender, juniper, and rosemary—was deemed particularly well-adapted to making the borders of plant beds, within which were planted marjoram, thyme, hyssop, pennyroyal, sage, chamomile, mint, violets, marguerites, basil, and other herbs and flowers.[^ref21] Horticultural theorist Olivier de Serres, in _Théâtre d’Agriculture_ (1600), emphasized boxwood’s resistance to the effects of weather and time and its little need for care, favorably contrasting it with myrtle, which was less suitable to colder climates. These properties, he believed, would have made boxwood a perfect garden shrub if not for the lack of “good scent,” having instead an odor “strong, unwelcome, and unpleasant, which causes headaches.”[^ref22]
+The vindication of boxwood as an essential garden plant took place in late sixteenth-century France, almost a millennium-and-a-half after its enthusiastic mention by Pliny. In horticulture, this moment marked the introduction of _parterres de broderie_ characterized by low, manicured hedges that imitated embroidery patterns. Boxwood—along with myrtle, lavender, juniper, and rosemary—was deemed particularly well-adapted to making the borders of plant beds, within which were planted marjoram, thyme, hyssop, pennyroyal, sage, chamomile, mint, violets, marguerites, basil, and other herbs and flowers.[^ref21] Horticultural theorist Olivier de Serres, in _Théâtre d’Agriculture_ (first published in 1600), emphasized boxwood’s resistance to the effects of weather and time and its little need for care, favorably contrasting it with myrtle, which was less suitable to colder climates. These properties, he believed, would have made boxwood a perfect garden shrub if not for the lack of “good scent,” having instead an odor “strong, unwelcome, and unpleasant, which causes headaches.”[^ref22]
 <param ve-image
 	title="Front page of Claude Mollet (c. 1564-c. 1649), _Theatre des plans et iardinages_, 1652."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
@@ -267,19 +267,19 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref20]: Gerard, _Herball_, 1225.
 
-[^ref21]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529; Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66.
+[^ref21]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529. [Click here for full book](https://books.google.nl/books?id=R_daAAAAQAAJ&hl=nl&source=gbs_navlinks_s); Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66. [Click here for full book](https://www.biodiversitylibrary.org/item/271564#page/11/mode/1up).
 
 [^ref22]: De Serres, _Théatre d’agriculture_, 506, 529.
 
 [^ref23]: De Serres, _Théatre d’agriculture_, 529.
 
-[^ref24]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201–2.
+[^ref24]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201–2. [Click here for full book](https://books.google.nl/books?id=YCdAAAAAcAAJ&hl=nl&source=gbs_navlinks_s).
 
 [^ref25]: Mollet, _Théatre des jardinage_, 202–3.
 
 [^ref26]: Mollet, _Théatre des jardinage_, 203.
 
-[^ref27]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797); Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and _passim._
+[^ref27]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797). [Click here for full book](https://books.google.nl/books?id=CTwNAAAAYAAJ&hl=nl&source=gbs_navlinks_s); Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and _passim._ [Click here for full book](https://www.biodiversitylibrary.org/item/208240#page/13/mode/1up).
 
 [^ref28]: Edith Wharton, _A backward glance_ (New York, London: D. Appleton-Century Company, 1934), 130.
 
