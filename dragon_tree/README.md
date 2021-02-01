@@ -24,7 +24,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 
 ### Sanguine Myths and Elemental Reality
 
-Members of today’s _Dracaena_ genus have long been valued for their signature red resin, the so-called dragon’s blood, that oozes from cuts in the bark of those trees. Though the focus of this article is on _D. draco_, there are many other species of tree that exude their own forms of dragon’s blood. These include the other 120 members of the _Dracaena_ genus, in addition to several others. While these other trees certainly exude a resin identified as dragon’s blood, a level of botanical and geographical ambiguity that contributes to the mythical status of the substance, _D. draco_ and _D. cinnabari_ are the two species that are most commonly referred to as the source of the resin in historical sources. The first known reports of dragon’s blood were dispersed through Pliny’s [_Naturalis Historia_](https://archive.org/details/OEXV10R/mode/2up), where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with dragon’s blood also took a foothold in Europe through the infamous tale of Hercules.[^ref1]
+Members of today’s _Dracaena_ genus have long been valued for their signature red resin, the so-called dragon’s blood, that oozes from cuts in the bark of those trees. Though the focus of this article is on _D. draco_, there are many other species of tree that exude their own forms of dragon’s blood. These include the other 120 members of the _Dracaena_ genus, in addition to several others. While these other trees certainly exude a resin identified as dragon’s blood, a level of botanical and geographical ambiguity that contributes to the mythical status of the substance, _D. draco_ and _D. cinnabari_ are the two species that are most commonly referred to as the source of the resin in historical sources. The first known reports of dragon’s blood were dispersed through Pliny’s _Naturalis Historia_, where he recounted the Indian tale of a dragon (representing Brahma) biting a giant elephant (representing Shiva) and their blood mixing into the iconic resin. While this Vedic myth actually originates from Socotra island of Yemen and is based on the resin of _Dracaena cinnabari_, the fascination with dragon’s blood also took a foothold in Europe through the infamous tale of Hercules.[^ref1]
 <param title="Naturalis Historia" eid="Q442">
 <param title="Brahma" eid="Q11389">
 <param title="Shiva" eid="Q11378">
@@ -85,13 +85,15 @@ Throughout its dissemination into European spaces from the Age of Discovery, dra
 <param title="panacea" eid="Q910154">
 <param title="John Gerard" eid="Q1333338">
 <param title="John Parkinson" eid="Q256288">
+<param title="Canary Islands" eid="Q5813" aliases="Canary Islands">
 <param title="Azores" eid="Q4058447">
+<param title="Madeira" eid="Q26253">
 <param ve-image
-	title="An image of the _draco arbor_. John Gerard, _The Herballe, or Generall Histoire of Plantes_, (London: 1633), 1524."
+	title="An image of the _draco arbor_. John Gerard, _The Herball or generall Historie of Plantes_ (London: Printed by Adam Islip, Joice Norton and Richard Whitakers, 1633), 1523."
 	url="https://www.biodiversitylibrary.org/pageimage/51906905"
 	region="2,942,1802,1314">
 <param ve-image
-	title="This image of the _draco arbor_ is the same as in Gerard’s herbal, probably being the only illustration available in England at the time. John Parkinson, _Theatrum Botanicum_, (London, 1640), 1532."
+	title="This image of the _draco arbor_ is the same as in Gerard’s herbal, probably being the only illustration available in England at the time. John Parkinson, _Theatrum botanicum: the Theater of Plants. Or, an Herball of a large Extent_ (London: Printed by Tho. Cotes, 1640), 1532."
 	url="https://www.biodiversitylibrary.org/pageimage/56601428"
 	region="1,478,1831,1297">
 {#paragraph7}
