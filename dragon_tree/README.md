@@ -85,9 +85,7 @@ Throughout its dissemination into European spaces from the Age of Discovery, dra
 <param title="panacea" eid="Q910154">
 <param title="John Gerard" eid="Q1333338">
 <param title="John Parkinson" eid="Q256288">
-<param title="Canary Islands" eid="Q5813" aliases="Canary Islands">
 <param title="Azores" eid="Q4058447">
-<param title="Madeira" eid="Q26253">
 <param ve-image
 	title="An image of the _draco arbor_. John Gerard, _The Herball or generall Historie of Plantes_ (London: Printed by Adam Islip, Joice Norton and Richard Whitakers, 1633), 1523."
 	url="https://www.biodiversitylibrary.org/pageimage/51906905"
