@@ -82,9 +82,9 @@ The migration of sunflower iconography from one source to another is evidenced i
 <param ve-entity eid="Q14714" title="achene" aliases="achenes">
 <param ve-entity eid="Q96" title="Mexico">
 <param ve-entity eid="Q419" title="Peru">
-<param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
-Although European herbals such as Hernández’s perpetuated cultural myths that the domesticated sunflower was present in Mexico prior to colonization or originated in Peru, botanists have since debunked these ideas by using distribution maps and fossilized remains to study the plant’s origin and range.[^ref14] The earliest known cultivated sunflower remains—charred seeds (achenes)—tell us that humans used _Helianthus annuus_ at <span data-click-map-flyto="37.347878, -89.590292">Hayes shelter in Marshall County, Tennessee</span> by 5000 BP and parts of eastern North America by 3000 BP.[^ref15] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref16]
-<param ve-map prefer-geojson center="8.958, -79.450" fill="#cc9933" stroke="#cc6600" stroke-width="4" zoom="4" show-label="true" title="Mexico">
+<param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America|central Tennessee">
+Although European herbals such as Hernández’s perpetuated cultural myths that the domesticated sunflower was present in Mexico prior to colonization or originated in Peru, botanists have since debunked these ideas by using distribution maps and fossilized remains to study the plant’s origin and range.[^ref14] The earliest known cultivated sunflower remains—charred seeds (achenes)—tell us that humans used _Helianthus annuus_ at <span data-click-map-flyto="37.347878, -89.590292">Hayes shelter in central Tennessee</span> by 5000 BP and parts of eastern North America by 3000 BP.[^ref15] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref16]
+<param ve-map prefer-geojson center="8.958, -79.450" fill="#cc9933" stroke="#cc6600" stroke-width="4" zoom="2.5" show-label="true" title="Mexico">
 
 <param ve-entity eid="Q80914" title="Tabasco">
 <param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
