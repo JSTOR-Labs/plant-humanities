@@ -103,11 +103,11 @@ After European colonization, and along with the integration of the Canaries into
 	url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Baron_Alexander_von_Humboldt_by_Julius_Schrader_1859.jpg"
 	region="179,832,3158,2303">
 <param ve-image
-	title="Between 1799 and 1804, Alexander Humboldt visited the Canary Islands, Venezuela, Cuba, Peru, Ecuador, Mexico, and the United States."
+	title="Between 1799 and 1804, Alexander von Humboldt visited the Canary Islands, Venezuela, Cuba, Peru, Ecuador, Mexico, and the United States."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Map_Alexander_von_Humboldt_expedition-en.svg/2844px-Map_Alexander_von_Humboldt_expedition-en.svg.png"
 	fit="contain">
 <param ve-image static
-	title="Engraving of the dragon trees of the House of Franchy in the Villa de La Orotava. Sabin Berthelot, _Histoire Naturelle des Îles Canaries_, (Paris: 1838)."
+	title="Engraving of the dragon trees of the House of Franchy in the Villa de La Orotava, from P. Barker-Webb and Sabin Berthelot, _Histoire Naturelle des Îles Canaries_ (1838)."
 	url="https://upload.wikimedia.org/wikipedia/commons/d/df/Berthelot_drago_franchy.jpg">
 {#paragraph8}
 
