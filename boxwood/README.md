@@ -96,7 +96,7 @@ One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand begi
 
 How did boxwood come to represent the lasting legacy of the European garden tradition? Its historical fortunes hardly amount to a dazzling story of oversees exploration, important discoveries, and economic exploitation—the “big business” of early modern botany, to use Daniela Bleichmar’s phrase.[^ref4] An integral element in the Mediterranean maquis—scrubland vegetation—boxwood has been familiar to Europeans for many centuries. Sixteenth-century Italians considered it “a plant that is known to everybody, since it abundantly grows all over Italy”; while in England it was habitually found among “sundry waste and barren hills.”[^ref5] Boxwood’s adaptation to garden design went back to antiquity. Roman author and politician Pliny the Younger mentions its use in his villa “in Tuscis,” where, cut into various shapes representing figures and letters, it served as the main material for elaborate topiary work.[^ref6] This malleability of boxwood, the ease with which it lent itself to pruning, was particularly valued by the ancients, making it an indispensable and versatile medium for the creation of green architecture and sculpture.
 <param ve-map
-	title="Modern European distribution of common boxwood (_Buxus sempervirens_)"
+	title="Native European distribution of common boxwood (_Buxus sempervirens_)"
 	center="47.192704, 23.108475"
 	zoom="4"
 	marker-type="circle"
@@ -227,7 +227,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 ### References
 
-[^ref1]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” _Applied Microbiology and Biotechnology_ 102 (2018): 4371. (https://doi.org/10.1007/s00253-018-8936-2). 
+[^ref1]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” _Applied Microbiology and Biotechnology_ 102 (2018): 4371. [doi:10.1007/s00253-018-8936-2](https://doi.org/10.1007/s00253-018-8936-2). 
 
 [^ref2]: Ibid., with reference to USDA-National Agricultural Statistics Service Census of Agriculture 2014 reports, https://www.agcensus.usda.gov. English or European boxwood is the same species (_Buxus sempervirens_) as American boxwood. There are no boxwood species native to the United States. The centers of diversity for the genus are in Western Europe, Northern Africa, and Asia (_Buxus microphylla_).
 
@@ -259,7 +259,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref16]: Parkinson, 606; Gerard, _Herball,_ 1225.
 
-[^ref17]: Mattioli, _Discorsi,_ 138; cf. Parkinson, _Paradisi in sole,_ 606–07.
+[^ref17]: Mattioli, _Discorsi,_ 138; cf. Parkinson, _Paradisi in sole,_ 606–7.
 
 [^ref18]: Soderini, _Opere,_ I:182.
 
@@ -283,6 +283,6 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref28]: Edith Wharton, _A backward glance_ (New York, London: D. Appleton-Century Company, 1934), 130.
 
-[^ref29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts, 101_ (1953): 182. (http://www.jstor.org/stable/41365015)
+[^ref29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953): 182, [http://www.jstor.org/stable/4136501](http://www.jstor.org/stable/41365015).
 
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
