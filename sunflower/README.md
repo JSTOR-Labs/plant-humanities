@@ -79,15 +79,10 @@ The migration of sunflower iconography from one source to another is evidenced i
 <param ve-image iiif fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, trans. Anthoine Colin, Missouri Botanical Garden, Biodiversity Heritage Library">
 
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
-<param ve-entity eid="Q96" title="Mexico">
-<param ve-entity eid="Q419" title="Peru">
-Although European herbals such as Hernández’s perpetuated cultural myths that the domesticated sunflower was present in Mexico prior to colonization or originated in Peru, botanists have since debunked these ideas by using distribution maps and fossilized remains to study the plant’s origin and range.[^ref14]
-<param ve-map prefer-geojson center="8.958, -79.450" fill="#cc9933" stroke="#cc6600" stroke-width="4" zoom="2.5" show-label="true" title="Mexico">
-
 <param ve-entity eid="Q14714" title="achene" aliases="achenes">
-<param ve-entity eid="Q6841610" title="Middle Tennessee" aliases="central Tennessee">
-The earliest known cultivated sunflower remains—charred seeds (achenes)—tell us that humans used _Helianthus annuus_ at Hayes shelter in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref15] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref16]
-<param ve-map prefer-geojson center="Q495448" fill="#cc9933" stroke="#cc6600" stroke-width="4" zoom="7.5" show-label="true" title="Hayes Shelter prehistoric site, Marshall County, central Tennessee">
+<param ve-map prefer-geojson center="Q495448" fill="#cc9933" stroke="#cc6600" stroke-width="4" zoom="7" title="Hayes Shelter prehistoric site, Marshall County, central Tennessee" show-label="true">
+<param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
+Although European herbals such as Hernández’s perpetuated cultural myths that the domesticated sunflower was present in Mexico prior to colonization or originated in Peru, botanists have since debunked these ideas by using distribution maps and fossilized remains to study the plant’s origin and range.[^ref14] The earliest known cultivated sunflower remains—charred seeds (achenes)—tell us that humans used _Helianthus annuus_ at Hayes shelter in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref15] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref16]
 
 <param ve-entity eid="Q80914" title="Tabasco">
 <param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
