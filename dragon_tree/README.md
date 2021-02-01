@@ -40,9 +40,11 @@ Members of today’s _Dracaena_ genus have long been valued for their signature 
 As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples of the Hesperides, the three nymphs of evening and sunset, who were located on the western fringe of the known world. The apples were guarded by Ladon, a vicious dragon with one hundred heads. Once slain by the demigod, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^ref2] As dragon’s blood soon became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that “the source of ‘Dragon’s Blood’ [... is] the red blood of the dragon Ladon after it was killed by Hercules.”[^ref3]
 <param title="Hercules" eid="Q122248">
 <param title="Ladon" eid="Q274600">
-<param ve-iiif-compare
-	url1="https://free.iiifhosting.com/iiif/6f75f8643461e419d28159fdc552cd384cc7aa5bc1ae2e31b9e2c47b91fefd60/info.json"
-	url2="https://free.iiifhosting.com/iiif/7e103f8b67bc1ce1be0a738a6a34265de93fe18ad5978f48c076da1da1fbf636/info.json">
+<param ve-image
+	url="https://free.iiifhosting.com/iiif/6f75f8643461e419d28159fdc552cd384cc7aa5bc1ae2e31b9e2c47b91fefd60/info.json"
+	curtain="true">
+<param ve-image
+	url="https://free.iiifhosting.com/iiif/7e103f8b67bc1ce1be0a738a6a34265de93fe18ad5978f48c076da1da1fbf636/info.json">
 {#paragraph3}
 
 European understandings of the dragon tree evolved as scientific botany developed from the late medieval through the early modern period, and the myths and legends of antiquity surrounding the tree became something of the past. Native to the Canary Islands, Cape Verde, and Madeira—and recently found growing natively on the West coast of Morocco—_D. draco_ is somewhat ubiquitous along the Northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of _D. draco_ in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and dragon’s blood between his crew and 500 Guanches, the indigenous population of the Canary Islands.[^ref4]
