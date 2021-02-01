@@ -1,6 +1,6 @@
 <param ve-config
 	title="Dracaena draco: The Timeless Canarian Dragon"
-	banner="https://upload.wikimedia.org/wikipedia/commons/9/91/Los_Dragos_Gemelos_-_Bre%C3%B1a_Alta_-_La_Palma_01.jpg"
+	banner="https://upload.wikimedia.org/wikipedia/commons/e/e7/Parque_del_Drago_-_Drago_de_Icod_de_los_Vinos_01.jpg"
 	layout="vtl"
 	num-maps="1"
 	num-specimens="1"
