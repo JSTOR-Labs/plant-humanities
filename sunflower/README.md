@@ -63,7 +63,7 @@ Once introduced to Spain, the domesticated sunflower quickly migrated to parts o
 <param ve-entity eid="Q462437" title="composition">
 <param ve-entity eid="Q63540903" title="focal point">
 The advent of the florilegium in the 1610s was integral to the blossoming of sunflower aesthetics, as is evidenced in the sumptuous prints contained in [_Hortus Eystettensis_](https://bibdigital.rjb.csic.es/idurl/1/10908).[^ref9] The 1613 book was commissioned from apothecary and botanist Basilius Besler by the Prince Bishop of Eichstätt, who wished to document rare and foreign flora then growing in his garden in Bavaria. As part of the project, Besler oversaw the production of this hand-colored [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of a domesticated sunflower shown life-sized. The image’s impact derives not only from its impressive dimensions but also from its bold cruciform composition, both of which imbue the full flower head and stem with a sense of power and religious reverence for nature. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves a decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value, unlike most economical illustrations then found in herbals. For that reason, Besler’s _Flos Solis maior_ (large flower of the sun) became an influential model for visualizing _Helianthus annuus_ that anticipated modern visual stereotypes for the plant, perhaps best epitomized by [this tiny sunflower emoji](https://openmoji.org/library/#search=sunflower).
-![](Sunflower emoji_openmoji.org_tiny.jpg){: .right} For that reason, Besler's _Flos Solis maior_ ("large flower of the sun")
+![](Sunflower emoji_openmoji.org_tiny.jpg){: .right}
 <param ve-image iiif primary fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, CC BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000139.tif/33.643892339544514,26.8928,3202.898550724638,4148.2144/!476,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, CC BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image iiif fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/6.635220125786163,33.21156773211568,3145.094339622641,4138.161339421614/!474,623/0/default.jpg">
@@ -200,7 +200,7 @@ Cultivated _Helianthus annuus_ is a fast-growing, sun-loving plant that blooms d
 
 [^ref5]: Alice Dickinson, _Carl Linnaeus; Pioneer of Modern Botany_ (New York: F. Watts, 1967), 125, accessed October 7, 2020.
 
-[^ref6]: Charles B. Heiser, Jr., “The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication,” _Genetic Resources and Crop Evolution_ 55 (2008): 9–-13. https://doi.org/10.1007/s10722-007-9300-z
+[^ref6]: Charles B. Heiser, Jr., “The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication,” _Genetic Resources and Crop Evolution_ 55 (2008): 9–-13. [https://doi.org/10.1007/s10722-007-9300-z](https://doi.org/10.1007/s10722-007-9300-z)
 
 [^ref7]: Francine de Nave and Dirk Imhof, eds., _Botany in the Low Countries: (End of the 15th centry, ca. 1650) Plantin-Moretus Museum Exhibition_ (Antwerp: City of Antwerp, the Plantin-Moretus Museum and the Stedelijk Prentenkabinet [Municipal Printroom], 1993).
 
@@ -214,7 +214,7 @@ Cultivated _Helianthus annuus_ is a fast-growing, sun-loving plant that blooms d
 
 [^ref12]: Adriaen Collaert, designer and printmaker, _Florilegium_, 1570 to before 1618, published by Theodoor Galle and Philips Galle, possibly Netherlands, engraving, 178 x 126 mm, Rijksmuseum. [http://hdl.handle.net/10934/RM0001.COLLECT.432189](http://hdl.handle.net/10934/RM0001.COLLECT.432189); Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_ (Lyon, France: Aux despens de Iean Pillehotte... 1619), accessed January 6, 2021. [https://www.biodiversitylibrary.org/page/7815694](https://www.biodiversitylibrary.org/page/7815694)
 
-[^ref13]: C.B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resouces and Crop Evolution_ 45 (1998): 447–449. https://doi.org/10.1023/A:1008603501401
+[^ref13]: C.B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resouces and Crop Evolution_ 45 (1998): 447–449. [https://doi.org/10.1023/A:1008603501401](https://doi.org/10.1023/A:1008603501401)
 
 [^ref14]: C.B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower”; Bruce D. Smith, “The Domestication of Helianthus annuus L. (sunflower).”
 
@@ -238,7 +238,7 @@ Cultivated _Helianthus annuus_ is a fast-growing, sun-loving plant that blooms d
 
 [^ref24]: Debra N. Mancoff, _Sunflowers_ (New York: Thames and Hudson, 2001), 21–27.
 
-[^ref25]: Hagop S. Atamian et al., “Circadian Regulations of Sunflower Heliotropism, Floral Orientation, and Pollinator Visits,” _Science_ 353, no. 6299 (2016): 587–90. doi: 10.1126/science.aaf9793
+[^ref25]: Hagop S. Atamian et al., “Circadian Regulations of Sunflower Heliotropism, Floral Orientation, and Pollinator Visits,” _Science_ 353, no. 6299 (2016): 587–90. [doi: 10.1126/science.aaf9793](https://science.sciencemag.org/content/353/6299/587)
 
 [^ref26]: Peter Henderson’s design for _Anatomy of a Sunflower_ resembles another botanical illustration, which was published in John S. Miller’s book _An Illustration of the Sexual System of Linnaeus_. See John S. Miller, _Illustratio systematis sexualis Linnaei_ (Francofurti ad Moenum: Varrentrapp et Wenner, 1804), accessed January 6, 2021. [http://edoc.hu-berlin.de/18452/887](http://edoc.hu-berlin.de/18452/887); John S. Miller (Johann Sebastian Müller), _Helianthus annuus_ L., 1770–1777, hand-colored engraving, 55 x 38.1 cm, Victoria and Albert Museum. [http://collections.vam.ac.uk/item/O922809/helianthus-annuus-l-print-muller-johann-sebastian/](http://collections.vam.ac.uk/item/O922809/helianthus-annuus-l-print-muller-johann-sebastian/)
 
