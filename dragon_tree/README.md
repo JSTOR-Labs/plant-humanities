@@ -17,7 +17,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 <param title="Alexander von Humboldt" eid="Q6694">
 <param title="Dracaena draco" eid="Q157952" aliases="D. draco">
 <param title="André Pierre Ledru" eid="Q2848440">
-<param title="Canary Islands" eid="Q5813">
+<param title="Canary Islands" eid="Q5813" aliases="Canary Islands">
 <param ve-storiiies
 	id="8a1g2">
 {#paragraph1}
