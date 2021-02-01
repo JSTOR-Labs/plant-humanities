@@ -4,7 +4,7 @@
        author="Kristan M. Hanson"
        source-image="https://bibdigital.rjb.csic.es/"
        banner="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000140.tif/428.0550928891736,553.1346957733396,2234.3561819346573,1347.914537854157/!1102,665/0/default.jpg"
-       layout="vtl">
+       layout="vtl" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 
 ### A Giant among Us
 
@@ -51,7 +51,8 @@ Once introduced to Spain, the domesticated sunflower quickly migrated to parts o
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-entity eid="Q462437" title="composition">
 The advent of the florilegium in the 1610s was integral to the blossoming of sunflower aesthetics, as is evidenced in the sumptuous prints contained in [_Hortus Eystettensis_](https://bibdigital.rjb.csic.es/idurl/1/10908).[^ref9] The 1613 book was commissioned from apothecary and botanist Basilius Besler by the Prince Bishop of Eichstätt, who wished to document rare and foreign flora then growing in his garden in Bavaria. As part of the project, Besler oversaw the production of this hand-colored [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of a domesticated sunflower shown life-sized. The image’s impact derives not only from its impressive dimensions but also from its bold cruciform composition, both of which imbue the full flower head and stem with a sense of power and religious reverence for nature. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves a decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value, unlike most economical illustrations then found in herbals. For that reason, Besler’s _Flos Solis maior_ (large flower of the sun) became an influential model for visualizing _Helianthus annuus_ that anticipated modern visual stereotypes for the plant, perhaps best epitomized by [this tiny sunflower emoji](https://openmoji.org/library/#search=sunflower).
-<param ve-image primary fit="contain" url="http://beeld.teylersmuseum.nl/Digital_Library/Emags/149b_439-2/pubData/source/images/zoompages/zoompage86.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, Neurenberg, Teylers Museum, CC-BY-NC">
+<param ve-image primary region="0,-60,1105,1218" url="http://beeld.teylersmuseum.nl/Digital_Library/Emags/149b_439-2/pubData/source/images/zoompages/zoompage86.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, Neurenberg, Teylers Museum, CC-BY-NC">
+<param ve-image fit="contain" url="http://beeld.teylersmuseum.nl/Digital_Library/Emags/149b_439-2/pubData/source/images/zoompages/zoompage86.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, Neurenberg, Teylers Museum, CC-BY-NC">
 <param ve-image fit="contain" url="http://beeld.teylersmuseum.nl/Digital_Library/Emags/149b_439-2/pubData/source/images/1366x653/pages/page87.jpg" title="Basilius Besler, _Flos Solis prolifer_ in _Hortus Eystettensis_ vol. 2, 1613, Neurenberg, Teylers Museum, CC-BY-NC">
 
 ### Mythic Encounters and Scientific Debates
