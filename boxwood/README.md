@@ -132,7 +132,7 @@ Given this close association of boxwood with the gardens of Roman antiquity, it 
 
 The real issue with boxwood was what sixteenth-century English physician John Gerard described as the “evil and loathsome smell,” which, according to Soderini, was not only “annoying,” but could give one headaches as it “infested the air.”[^ref11] To mitigate the odor, the recommended solution was to plant boxwood in combination with other strongly scented evergreens such as myrtle, mastic, and rosemary.[^ref12] These mixed hedges benefitted from the robust texture of boxwood. Boxwood’s other selective use, also due to its thick and dense foliage, was planting it in thicket-like bird trapping grounds, _ragnaie_.[^ref13] Yet, compared to other plants that could serve analogous purposes or occupy the same garden spaces, boxwood, in Soderini’s words, was “valued little or not at all.”[^ref14]
 <param ve-image
-	title="Boxwood in Gerard’s herbal (edition of 1633, p. 1410."
+	title="Boxwood in Gerard’s herbal (edition of 1633, p. 1410)."
 	url="https://www.biodiversitylibrary.org/pageimage/60225732"
 	region="-164,1266,3297,2439">
 {#paragraph6}
@@ -153,7 +153,7 @@ If Mattioli and Parkinson considered boxwood primarily an ornamental plant “we
 <param ve-image
 	title="Sixteenth-century Netherlandish rosary bead (interior)"
 	url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Prayer_Bead_with_the_Adoration_of_the_Magi_and_the_Crucifixion_MET_DP371961.jpg"
-	region="-3,1666,2990,2243">
+	region="109,1836,2762,2043">
 <param ve-image
 	title="Sixteenth-century Netherlandish rosary bead (interior)"
 	url="https://images.metmuseum.org/CRDImages/md/original/DP371962.jpg"
@@ -205,10 +205,10 @@ Mollet’s planting and stylistic innovations gained the fullest expression in t
 Closely connected with these expatriate circles was British landscape architect Cecil Pinsent, another contemporary of Farrand’s, who extensively used boxwood in his landscaping projects. Most famous among his gardens was the Villa I Tatti in Settignano, Italy, designed for the American art historian and connoisseur Bernard Berenson. Another celebrated work was the lower terrace of the fifteenth-century Villa Medici in Fiesole that Pinsent furnished with a “carpet of box parterre,” regarded by landscape historian Geoffrey Jellicoe as fully integral to the historic character of the property.[^ref29] Popularized by postcards and book illustrations, Pinsent’s design became an iconic image of the Italian Renaissance garden, with its boxwood geometry—purposely projected into the Medicean age—serving as a visible bridge between distant antiquity and a more recent but equally glorious past.
 <param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/c/c0/Villa_i_tatti%2C_ext.%2C_giardino_05.JPG"
-	title="Boxwood pattern in the gardens of Villa I Tatti">
+	title="Boxwood pattern in the gardens of Villa I Tatti.">
 <param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/9/96/Bernard_Berenson_in_the_gardens_of_Villa_I_Tatti.jpg"
-	title="Bernard Berenson in the gardens of Villa I Tatti">
+	title="Bernard Berenson in the gardens of Villa I Tatti.">
 {#paragraph12}
 
 ### Humble Yet Resilient
@@ -227,57 +227,57 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 ### References
 
-[^ref1]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” _Applied Microbiology and Biotechnology_ 102 (2018): 4371. [doi:10.1007/s00253-018-8936-2](https://doi.org/10.1007/s00253-018-8936-2). 
+[^ref1]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” _Applied Microbiology and Biotechnology_ 102 (2018): 4371, [doi:10.1007/s00253-018-8936-2](https://doi.org/10.1007/s00253-018-8936-2). 
 
-[^ref2]: Ibid., with reference to USDA-National Agricultural Statistics Service Census of Agriculture 2014 reports, https://www.agcensus.usda.gov. English or European boxwood is the same species (_Buxus sempervirens_) as American boxwood. There are no boxwood species native to the United States. The centers of diversity for the genus are in Western Europe, Northern Africa, and Asia (_Buxus microphylla_).
+[^ref2]: Ibid., with reference to USDA-National Agricultural Statistics Service Census of Agriculture 2014 reports, [https://www.agcensus.usda.gov](https://www.agcensus.usda.gov). English or European boxwood is the same species (_Buxus sempervirens_) as American boxwood. There are no boxwood species native to the United States. The centers of diversity for the genus are in Western Europe, Northern Africa, and Asia (_Buxus microphylla_).
 
 [^ref3]: Diane Kostial McGuire, ed., _Beatrix Farrand’s Plant Book for Dumbarton Oaks_ (Washington, DC: Dumbarton Oaks, 1980), xiii.
 
-[^ref4]: Daniela Bleichmar, “Botanical conquistadors: the promises and challenges of imperial botany in the Hispanic Enlightenment,” in _The Botany of Empire in the Long Eighteenth century,_ ed. Yota Batsaki, Sarah Burke Cahalan, and Anatole Tchikine (Washington, DC: Dumbarton Oaks, 2016), 35.
+[^ref4]: Daniela Bleichmar, “Botanical conquistadors: the promises and challenges of imperial botany in the Hispanic Enlightenment,” in _The Botany of Empire in the Long Eighteenth century_, ed. Yota Batsaki, Sarah Burke Cahalan, and Anatole Tchikine (Washington, DC: Dumbarton Oaks, 2016), 35.
 
-[^ref5]: Pietro Andrea Mattioli, _Discorsi_ (Venice: Valgrisi, 1563), 138; John Gerard, _Herball_ (London: Norton, 1595), 1225.
+[^ref5]: Pietro Andrea Mattioli, _Discorsi_ (Venice: Valgrisi, 1563), 138. [Click here for full book](https://books.google.nl/books?id=6B9QAAAAcAAJ&hl=nl&source=gbs_navlinks_s); John Gerard, _The Herball or general Historie of Plantes_ (Imprinted at London: Iohn Norton, 1597), 1225. [Click here for full book](https://archive.org/details/herballorgeneral00gera_2).
 
-[^ref6]: Pliny the Younger, _Letters,_ V.6.
+[^ref6]: Pliny the Younger, _Letters_, V.6.
 
-[^ref7]: Girolamo Firenzuola, “La grande arte della agricoltura,” in Alessandro Tagliolini, “Girolamo Firenzuola e il giardino nelle fonti della metà del Cinquecento,” in _Il giardino storico italiano,_ ed. Giovanna Ragionieri (Florence: Olschki, 1981), 304.
+[^ref7]: Girolamo Firenzuola, “La grande arte della agricoltura,” in Alessandro Tagliolini, “Girolamo Firenzuola e il giardino nelle fonti della metà del Cinquecento,” in _Il giardino storico italiano_, ed. Giovanna Ragionieri (Florence: Olschki, 1981), 304.
 
-[^ref8]: Giovan Vettorio Soderini, _Opere,_ ed. Alberto Bacchi della Lega (Bologna: Romagnoli dall’Acqua, 1902–07), III:52, 245, 251, 343.
+[^ref8]: Giovan Vettorio Soderini, _Opere_, ed. Alberto Bacchi della Lega (Bologna: Romagnoli dall’Acqua, 1902–7), III:52, 245, 251, 343.
 
 [^ref9]: Soderini, _Opere,_ III:254.
 
 [^ref10]: Firenzuola, “La grande arte della agricoltura,” 304; Soderini, _Opere,_ III:254.
 
-[^ref11]: Gerard, _Herball,_ 1226; Soderini, _Opere,_ III:343.
+[^ref11]: Gerard, _Herball_, 1226; Soderini, _Opere_, III:343.
 
-[^ref12]: Soderini, _Opere,_ III:254, 255; Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance garden: from the conventions of planting, design, and ornament to the grand gardens of sixteenth-century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291–292n.17.
+[^ref12]: Soderini, _Opere_, III:254, 255; Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance garden: from the conventions of planting, design, and ornament to the grand gardens of sixteenth-century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291–2n.17.
 
-[^ref13]: Soderini, _Opere,_ III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32.
+[^ref13]: Soderini, _Opere_, III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32.
 
-[^ref14]: Soderini, _Opere,_ III:255.
+[^ref14]: Soderini, _Opere_, III:255.
 
-[^ref15]: Mattioli, _Discorsi,_ 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion; cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–40.
+[^ref15]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion; cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–40.
 
-[^ref16]: Parkinson, 606; Gerard, _Herball,_ 1225.
+[^ref16]: Parkinson, 606; Gerard, _Herball_, 1225.
 
-[^ref17]: Mattioli, _Discorsi,_ 138; cf. Parkinson, _Paradisi in sole,_ 606–7.
+[^ref17]: Mattioli, _Discorsi_, 138; cf. Parkinson, _Paradisi in sole_, 606–7.
 
-[^ref18]: Soderini, _Opere,_ I:182.
+[^ref18]: Soderini, _Opere_, I:182.
 
-[^ref19]: Soderini, _Opere,_ I:151, 175.
+[^ref19]: Soderini, _Opere_, I:151, 175.
 
-[^ref20]: Gerard, _Herball,_ 1225.
+[^ref20]: Gerard, _Herball_, 1225.
 
 [^ref21]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529; Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66.
 
-[^ref22]: De Serres, _Théatre d’agriculture,_ 506, 529.
+[^ref22]: De Serres, _Théatre d’agriculture_, 506, 529.
 
-[^ref23]: De Serres, _Théatre d’agriculture,_ 529.
+[^ref23]: De Serres, _Théatre d’agriculture_, 529.
 
-[^ref24]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201–02.
+[^ref24]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201–2.
 
-[^ref25]: Mollet, _Théatre des jardinage,_ 202–03.
+[^ref25]: Mollet, _Théatre des jardinage_, 202–3.
 
-[^ref26]: Mollet, _Théatre des jardinage,_ 203.
+[^ref26]: Mollet, _Théatre des jardinage_, 203.
 
 [^ref27]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797); Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and _passim._
 
