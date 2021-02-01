@@ -182,9 +182,9 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref8]: Rajinder K. Gupta, Bruce Bleakley, Deepika Gupta, “Dragon’s Blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008), 361, [doi:10.1016/j.jep.2007.10.018](https://doi.org/10.1016/j.jep.2007.10.018).
 
-[^ref9]: John Gerard, _The Herball, or Generall Historie of Plantes_, (London, 1633), 1524 [Click here for full book](https://www.biodiversitylibrary.org/item/33580#page/2/mode/1up); John Parkinson, _Theatrum Botanicum_, (London, 1640), 1532. [Click here for full book](https://www.biodiversitylibrary.org/item/256142#page/13/mode/1up).
+[^ref9]: John Gerard, _The Herball or generall Historie of Plantes_ (London: Printed by Adam Islip, Joice Norton and Richard Whitakers, 1633), 1524 [Click here for full book](https://www.biodiversitylibrary.org/item/33580#page/2/mode/1up); John Parkinson, _Theatrum botanicum: the Theater of Plants. Or, an Herball of a large Extent_ (London: Printed by Tho. Cotes, 1640), 1532. [Click here for full book](https://www.biodiversitylibrary.org/item/256142#page/13/mode/1up).
 
-[^ref10]: Alexander von Humboldt, _Cosmos: A sketch of the Physical Description of the Universe_, vol. 2, (London: 1849), 372. [Click here for full book](https://www.biodiversitylibrary.org/item/73407#page/9/mode/1up).
+[^ref10]: Alexander von Humboldt, _Cosmos: A sketch of the Physical Description of the Universe_ (London: Henry G. Bohn, 1849), vol. 2, 372. [Click here for full book](https://www.biodiversitylibrary.org/item/73407#page/9/mode/1up).
 
 [^ref11]: Von Humboldt, _Cosmos_, 371-372. [Click here for full book](https://www.biodiversitylibrary.org/item/73496#page/6/mode/1up)
 
