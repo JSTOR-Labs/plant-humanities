@@ -160,7 +160,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 <param title="International Union for Conservation of Nature" eid="Q48268">
 <param title="Red List of Threatened Species" eid="Q32059">
 <param ve-image
-	title="test"
+	title=""
 	iiif-url="https://free.iiifhosting.com/iiif/31fb222aa31e439323c29d61cb363d5c897b02d8cde694ff946f0f6adbb00ad/info.json">
 {#paragraph15}
 
