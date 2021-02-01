@@ -191,67 +191,67 @@ Cultivated _Helianthus annuus_ is a fast-growing, sun-loving plant that blooms d
 <param ve-image primary iiif fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, Metropolitan Museum of Art, Rogers Fund, 1949">
 
 ### References
-[^ref1]: Charles B. Heiser, Jr., "The Origin and Development of the Cultivated Sunflower," _The American Biology Teacher_ 17, no. 5 (May 1955): 161-67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706).
+[^ref1]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” The American Biology Teacher 17, no. 5 (May 1955): 161–67. https://www.jstor.org/stable/4438706
 
-[^ref2]: Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57-74.
+[^ref2]: Bruce D. Smith, “The Domestication of Helianthus annuus L. (sunflower),” Vegetation History and Archaeobotany 23 (2014): 57–74. https://doi.org/10.1007/s00334-013-0393-3
 
-[^ref3]: Carl von Linné, _Species plantarum_, (Stockholm: Impensis Laurentii Salvii, 1754), 904-06, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.669](https://doi.org/10.5962/bhl.title.669 "DOI"); Carl von Linné, _Genera plantarum_, (Stockholm: Impensis Laurentii Salvii, 1754), 386, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.746](https://doi.org/10.5962/bhl.title.746).
+[^ref3]: Carl von Linné, Species plantarum (Stockholm: Impensis Laurentii Salvii, 1754), 904 – 906, accessed October 7, 2020.  https://doi.org/10.5962/bhl.title.669; Carl von Linné, Genera plantarum (Stockholm: Impensis Laurentii Salvii, 1754), 386, accessed October 7, 2020, https://doi.org/10.5962/bhl.title.746 
 
-[^ref4]: Carl von Linné, _Critica Botanica_ (Lugduni Batavorum: Apud Conradum Wishoff, 1737), 97, accessed January 6, 2021, [https://bibdigital.rjb.csic.es/idurl/1/11541](https://bibdigital.rjb.csic.es/idurl/1/11541).
+[^ref4]: Carl von Linné, Critica Botanica (Lugduni Batavorum: Apud Conradum Wishoff, 1737), 97, accessed January 6, 2021. https://bibdigital.rjb.csic.es/idurl/1/11541
 
-[^ref5]: Translated in Alice Dickinson, _Carl Linnaeus; Pioneer of Modern Botany_ (New York: F. Watts, 1967), 125, accessed January 7, 2021, [https://catalog.hathitrust.org/Record/001490099](https://catalog.hathitrust.org/Record/001490099).
+[^ref5]: Alice Dickinson, Carl Linnaeus; Pioneer of Modern Botany (New York: F. Watts, 1967), 125, accessed October 7, 2020.
 
-[^ref6]: Charles B. Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico: Further Evidence for a North American Domestication," _Genetic Resources and Crop Evolution_ 55, no. 1 (2008): 9-13.
+[^ref6]: Charles B. Heiser, Jr., “The Sunflower (Helianthus annuus) in Mexico: Further Evidence for a North American Domestication,” Genetic Resources and Crop Evolution 55 (2008): 9–-13. https://doi.org/10.1007/s10722-007-9300-z
 
-[^ref7]: Francine de Nave and Dirk Imhof, eds., _Botany in the Low Countries: (End of the 15th centry, ca. 1650) Plantin-Moretus Museum Exhibition_ (Antwerp: City of Antwerp, the Plantin-Moretus Museum and the Stedelijk Prentenkabinet (Municipal Printroom), 1993).
+[^ref7]: Francine de Nave and Dirk Imhof, eds., Botany in the Low Countries: (End of the 15th centry, ca. 1650) Plantin-Moretus Museum Exhibition (Antwerp: City of Antwerp, the Plantin-Moretus Museum and the Stedelijk Prentenkabinet [Municipal Printroom], 1993).
 
-[^ref8]: Pietro Andrea Mattioli, _I discorsi di M. Pietro Andrea Matthioli ... nelli sei libri di Pedacio Dioscoride Anazarbeo della materia medicinale: hora di nuouo dal suo istesso autore ricorretti, & in più di mille luoghi aumen..._ (Venice: Appresso Vincenzo ValgrisI, MDLXVIII [1568]), accessed January 6, 2021, [https://www.biodiversitylibrary.org/page/51721079](https://www.biodiversitylibrary.org/page/51721079); Rembert Dodoens, _Florum, et coronariarum odoratarumque nonnullarum herbarum historia, Remberto Dodonae ... auctore_ (Antwerp: ex officina Christophori Plantini, 1569), accessed January 6, 2021, [https://archive.org/details/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/page/n3/mode/2up](https://archive.org/details/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/page/n3/mode/2up).
+[^ref8]: Pietro Andrea Mattioli, I discorsi di M. Pietro Andrea Matthioli ... nelli sei libri di Pedacio Dioscoride Anazarbeo della materia medicinale: hora di nuouo dal suo istesso autore ricorretti, & in più di mille luoghi aumen... (Venice: Appresso Vincenzo ValgrisI, MDLXVIII [1568]), accessed January 6, 2021. https://www.biodiversitylibrary.org/page/51721079; Rembert Dodoens, Florum, et coronariarum odoratarumque nonnullarum herbarum historia, Remberto Dodonae ... auctore (Antwerp: ex officina Christophori Plantini, 1569), accessed January 6, 2021. https://archive.org/details/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/page/n3/mode/2up
 
-[^ref9]: Basilius Besler, _Hortus Eystettensis sive diligens et accurata omnium plantarum, florum, stirpium ex variis orbis terrae partibus singulari studio collectarum, quae in celeberrimis viridiariis arcem episcopalem ibidem cingentibus hoc tempore conspiciuntur, delineatio et ad vivum repraesentatio_, Vol. 2 ([Nuremberg]: [s.n.], 1613), accessed January 6, 2021, [https://bibdigital.rjb.csic.es/idurl/1/10913](https://bibdigital.rjb.csic.es/idurl/1/10913); Nicolas Barker, _Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book_ (New York: H.N. Abrams, 1995); Ray Desmond, "A Garden at Eichstätt," in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 58-66.
+[^ref9]: Basilius Besler, Hortus Eystettensis sive diligens et accurata omnium plantarum, florum, stirpium ex variis orbis terrae partibus singulari studio collectarum, quae in celeberrimis viridiariis arcem episcopalem ibidem cingentibus hoc tempore conspiciuntur, delineatio et ad vivum repraesentatio, Vol. 2 ([Nuremberg]: [s.n.], 1613), accessed January 6, 2021. https://bibdigital.rjb.csic.es/idurl/1/10913; Nicolas Barker, Hortus Eystettensis: The Bishop's Garden and Besler's Magnificent Book (New York: Harry N. Abrams, 1994); Ray Desmond, “A Garden at Eichstätt,” in Great Natural History Books and their Creators (New Castle, Delaware: Oak Knoll Press, 2003), 58–66.
 
-[^ref10]: Francisco Hernández, _Nova plantarum, animalium et mineralium Mexicanorum historia_ (Rome MDCLI: Sumptibus Blasij Deuersini, & Zanobij Masotti bibliopolarum, typis Vitalis Mascardi, [1651]), accessed January 6, 2021, [https://www.biodiversitylibrary.org/page/54114015](https://www.biodiversitylibrary.org/page/54114015).
+[^ref10]: rancisco Hernández, Nova plantarum, animalium et mineralium Mexicanorum historia (Rome: Sumptibus Blasij Deuersini, & Zanobij Masotti bibliopolarum, typis Vitalis Mascardi, MDCLI [1651]), accessed January 6, 2021. https://www.biodiversitylibrary.org/page/54114015
 
-[^ref11]: Ray Desmond, "The Discovery of the New World," in _Great Natural History Books and their Creators_ (New Castle, DE: Oak Knoll Press, 2003), 24-27.
+[^ref11]: Ray Desmond, “The Discovery of the New World,” in Great Natural History Books and their Creators (New Castle, Delaware: Oak Knoll Press, 2003), 24–27.
 
-[^ref12]: Adriaen Collaert, designer and printmaker, _Florilegium_, 1570 to before 1618, published by Theodoor Galle and Philips Galle, possibly Netherlands, engraving, 178 x 126 mm, Rijksmuseum, [http://hdl.handle.net/10934/RM0001.COLLECT.432189](http://hdl.handle.net/10934/RM0001.COLLECT.432189); Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_  (Lyon: Aux despens de Iean Pillehotte..., 1619), accessed January 6, 2021, [https://www.biodiversitylibrary.org/page/7815694](https://www.biodiversitylibrary.org/page/7815694).
+[^ref12]: Adriaen Collaert, designer and printmaker, Florilegium, 1570 to before 1618, published by Theodoor Galle and Philips Galle, possibly Netherlands, engraving, 178 x 126 mm, Rijksmuseum. http://hdl.handle.net/10934/RM0001.COLLECT.432189; Nicolás Monardes, Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine (Lyon, France: Aux despens de Iean Pillehotte... 1619), accessed January 6, 2021. https://www.biodiversitylibrary.org/page/7815694
 
-[^ref13]: Heiser, Jr., "The Domesticated Sunflower in Mexico?," 449.
+[^ref13]: C.B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” Genetic Resouces and Crop Evolution 45 (1998): 447–449. https://doi.org/10.1023/A:1008603501401
 
-[^ref14]: Heiser, Jr., "The Origin and Development of the Cultivated Sunflower," 161-67; Smith, "The Domestication of _Helianthus annuus_ L. (sunflower)," 57-74.
+[^ref14]: C.B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower”; Bruce D. Smith, “The Domestication of Helianthus annuus L. (sunflower).”
 
-[^ref15]: Michael Brian Schiffer, "Origin of the Domesticated Sunflower," in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241-46.
+[^ref15]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in Archaeology’s Footprints in the Modern World (Salt Lake City: University of Utah Press, 2017), 241–46.
 
-[^ref16]: "Heiser (1965) proposed an hypothesis that is still tenable. The species [_Helianthus annuus_] spread prehistorically over eastern North America as a weedy camp-follower." Sauer, "HELIANTHUS – SUNFLOWER," in _Historical Geography of Crop Plants: A Select Roster_ (Bosa Roca: Taylor and Francis Group, 1993), 23.
+[^ref16]: “Heiser (1965) proposed an hypothesis that is still tenable. The species [Helianthus annuus] spread prehistorically over eastern North America as a weedy camp-follower.” Jonathan D. Sauer, “Helianthus – Sunflower,” in Historical Geography of Crop Plants: A Select Roster (Boca Raton, Florida: CRC Press, 1993), 23.
 
-[^ref17]: For a concise summary of the debate see Schiffer, "Origin of the Domesticated Sunflower," 241-46.
+[^ref17]: For a concise summary of the debate see Schiffer, “Origin of the Domesticated Sunflower.”
 
-[^ref18]: Because the seed is no longer extant, it cannot undergo further testing. David L. Lentz, et al., "Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico," _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232-37; Smith, "The Domestication of _Helianthus annuus_ L. (sunflower)," 57-74; Heiser, Jr., "The Sunflower (_Helianthus annuus_) in Mexico," 9-13.
+[^ref18]: Because the seed is no longer extant, it cannot undergo further testing. David L. Lentz et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” Proceedings of the National Academy of Science of the Unites States of America 105, no. 17 (April 2008): 6232– 37; Bruce D. Smith, “The Domestication of Helianthus annuus L. (sunflower)”; C.B. Heiser, Jr., “The Sunflower (Helianthus annuus) in Mexico.”
 
-[^ref19]: Benjamin K. Blackman, et al., "Sunflower Domestication Alleless Support Single Domestication Center in Eastern North America," _Proceedings of the National Academy of Science of the Unites States of America_ 108, no. 34 (August 2011): 14360-65.
+[^ref19]: Benjamin K. Blackman et al., “Sunflower Domestication Alleles Support Single Domestication Center in Eastern North America,” Proceedings of the National Academy of Science of the United States of America 108, no. 34 (August 2011): 14360–65.
 
-[^ref20]: Heiser, "The Domesticated Sunflower in Mexico?," 449; Bruce D. Smith, "Eastern North America as an Independent Center of Plant Domestication," _Proceedings of the National Academy of Science of the Unites States of America_ 103, no. 33 (August 15, 2006): 12223-28.
+[^ref20]: C.B. Heiser, “The Domesticated Sunflower in Mexico?,” 449; Bruce D. Smith, "Eastern North America as an Independent Center of Plant Domestication," Proceedings of the National Academy of Science of the United States of America 103, no. 33 (August 15, 2006): 12223–28.
 
-[^ref21]: John Peacock, _The Look of Van Dyck: The Self-Portrait with a Sunflower and the Vision of the Painter_ (Burlington, VT: Ashgate, 2006), 116, accessed November 17, 2020, https://hdl.handle.net/2027/mdp.39015067696743.
+[^ref21]: John Peacock, The Look of Van Dyck: The Self-Portrait with a Sunflower and the Vision of the Painter (Aldershot, U.K.: Ashgate, 2006), 116, accessed November 17, 2020. https://hdl.handle.net/2027/mdp.39015067696743
 
-[^ref22]: Jean-Michel Othoniel, "_Helianthus annuus_ Sunflower," in _The Secret Language of Flowers: Notes on the Hidden Meanings of Flowers in Art_ (Boston, MA: Actes Sud/Isabella Stewart Gardner Museum, 2015), 66.
+[^ref22]: Jean-Michel Othoniel, “Helianthus annuus Sunflower,” in The Secret Language of Flowers: Notes on the Hidden Meanings of Flowers in Art (Boston, Mass.: Actes Sud/Isabella Stewart Gardner Museum, 2015), 66.
 
-[^ref23]: Erika von Erhardt-Siebold, "The Heliotrope Tradition," _Osiris_ 3 (1937): 22-46, accessed January 6, 2021, [http://www.jstor.org/stable/301579](http://www.jstor.org/stable/301579).
+[^ref23]: Erika von Erhardt-Siebold, “The Heliotrope Tradition,” Osiris 3 (1937): 22–46, accessed January 6, 2021. http://www.jstor.org/stable/301579
 
-[^ref24]: Debra N. Mancoff, _Sunflowers_ (New York: Thames and Hudson, 2001), 21-27.
+[^ref24]: Debra N. Mancoff, Sunflowers (New York: Thames and Hudson, 2001), 21–27.
 
-[^ref25]: Hagop S. Atamian et al., "Circadian Regulations of Sunflower Heliotropism, Floral Orientation, and Pollinator Visits," _Science_ 353, no. 6299 (2016): 587-90. DOI: 10.1126/science.aaf9793.
+[^ref25]: Hagop S. Atamian et al., “Circadian Regulations of Sunflower Heliotropism, Floral Orientation, and Pollinator Visits,” Science 353, no. 6299 (2016): 587–90. doi: 10.1126/science.aaf9793
 
-[^ref26]: Peter Henderson’s design for _Anatomy of a Sunflower_ resembles another botanical illustration, which was published in John S. Miller’s book _An_ _Illustration of the Sexual System of Linnaeus_. See John S. Miller, _Illustratio systematis sexualis Linnaei_ (Francofurti ad Moenum: Varrentrapp et Wenner, 1804), accessed January 6, 2021, [https://doi.org/10.18452/235](https://doi.org/10.18452/235); John S. Miller (Johann Sebastian Müller), _Helianthus annuus_ L., 1770-1777, hand-colored engraving, 55 x 38.1 cm, Victoria and Albert Museum, [http://collections.vam.ac.uk/item/O922809/helianthus-annuus-l-print-muller-johann-sebastian/](http://collections.vam.ac.uk/item/O922809/helianthus-annuus-l-print-muller-johann-sebastian/).
+[^ref26]: Peter Henderson’s design for Anatomy of a Sunflower resembles another botanical illustration, which was published in John S. Miller’s book An Illustration of the Sexual System of Linnaeus. See John S. Miller, Illustratio systematis sexualis Linnaei (Francofurti ad Moenum: Varrentrapp et Wenner, 1804), accessed January 6, 2021. https://doi.org/10.18452/235; John S. Miller (Johann Sebastian Müller), Helianthus annuus L., 1770–1777, hand-colored engraving, 55 x 38.1 cm, Victoria and Albert Museum. http://collections.vam.ac.uk/item/O922809/helianthus-annuus-l-print-muller-johann-sebastian/
 
-[^ref27]: Chase M. Mason, et al., "Beyond Pollinators: Evolution of Floral Architecture with Environment across the Wild Sunflowers (_Helianthus_, Asteraceae)," _Plant Ecology and Evolution_ 150, no. 2 (2017): 139-150.
+[^ref27]: Chase M. Mason et al., “Beyond Pollinators: Evolution of Floral Architecture with Environment across the Wild Sunflowers (Helianthus, Asteraceae),” Plant Ecology and Evolution 150, no. 2 (2017): 139–150.
 
-[^ref28]: Robert John Thornton, _New illustration of the sexual system of Carolus von Linnaeus: comprehending an elucidation of the several parts of the fructification: a prize dissertation on the sexes of plants: a full explanation of the classes, and orders, of the sexual system: and The temple of flora, or, Garden of nature, being picturesque, botanical, coloured plates, of select plants, illustrative of the same, with descriptions_ (London: Printed, for the publisher, by T. Bensley, Bolt Court, Fleet Street, [1807?] [i.e. 1799-1810]), accessed January 6, 2021, [https://iiif.lib.harvard.edu/manifests/view/drs:436574052$1i](https://iiif.lib.harvard.edu/manifests/view/drs:436574052$1i).
+[^ref28]: Robert John Thornton, New illustration of the sexual system of Carolus von Linnaeus: comprehending an elucidation of the several parts of the fructification: a prize dissertation on the sexes of plants: a full explanation of the classes, and orders, of the sexual system: and The temple of flora, or, Garden of nature, being picturesque, botanical, coloured plates, of select plants, illustrative of the same, with descriptions (London: Printed, for the publisher, by T. Bensley, Bolt Court, Fleet Street, [1807?] [i.e. 1799-1810]), accessed January 6, 2021. https://iiif.lib.harvard.edu/manifests/view/drs:436574052$1i  
 
-[^ref29]: Mark A. Chapman et al., "Genetic Analysis of Floral Symmetry in Van Gogh's _Sunflowers_ Reveals Independent Recruitment of _CYCLOIDEA_ Genes in the Asteraceae," _PLOS Genetics_ March 29, 2012, accessed November 25, 2020. [https://doi.org/10.1371/journal.pgen.1002628](https://doi.org/10.1371/journal.pgen.1002628)
+[^ref29]: Mark A. Chapman et al., “Genetic Analysis of Floral Symmetry in Van Gogh's Sunflowers Reveals Independent Recruitment of CYCLOIDEA Genes in the Asteraceae,” PLOS Genetics March 29, 2012, accessed November 25, 2020. https://doi.org/10.1371/journal.pgen.1002628
 
-[^ref30]: Nienke Bakker and Christopher Riopelle, "The _Sunflowers_ in Perspective," in _Van Gogh's Sunflowers Illuminated: Art Meets Science_, eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21-47.
+[^ref30]: Nienke Bakker and Christopher Riopelle, “The Sunflowers in Perspective,” in Van Gogh's Sunflowers Illuminated: Art Meets Science, eds. Ella Hendriks and Marije Vellekoop (Amsterdam: Amsterdam University Press, 2019), 21–47.
 
-[^ref31]: Charles B. Heiser, Jr. "The Hopi Sunflower." _Missouri Botanical Garden Bulletin_ 33, no. 8, 163-66, [https://www.biodiversitylibrary.org/item/19196#page/201/mode/1up](https://protect-us.mimecast.com/s/aiEAC82YDptkN1jh19wT2?domain=biodiversitylibrary.org); Mary-Russell Ferrell Colton, _Hopi Dyes_ (Flagstaff: Museum of Northern Arizona, 1965), accessed December 7, 2020, [https://catalog.hathitrust.org/Record/009147006](https://catalog.hathitrust.org/Record/009147006).
+[^ref31]: Charles B. Heiser, Jr., “The Hopi Sunflower,” Missouri Botanical Garden Bulletin 33, no. 8, 163-66. https://www.biodiversitylibrary.org/item/19196#page/201/mode/1up; Mary-Russell Ferrell Colton, Hopi Dyes (Flagstaff: Museum of Northern Arizona, 1965), accessed December 7, 2020. https://catalog.hathitrust.org/Record/009147006
 
 
 
