@@ -40,7 +40,6 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 
 <param ve-entity eid="Q815962" title="colonization">
 <param ve-entity eid="Q6165948" title="herbal" aliases="herbals">
-<param ve-entity eid="Q52105" title="habitat">
 The first known pictures of domesticated sunflowers produced by Europeans were printed in herbals in the late 1560s.[^ref6] These illustrations of tall, hearty plants with thick stocks, giant leaves, and ponderous sun-shaped flowers provide a foundation for studying later sunflower iconography. Such visual descriptions along with textual ones also help us to chart the plant’s mobility from North America to Europe. Yet, it is important to acknowledge that herbals present incomplete and sanitized histories of the plant world during the age of colonization. The treatises typically omit any information about plant harvesting and the impact of such exploitative practices, now termed [extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), on Indigenous peoples and local habitats. For this and other reasons, questions persist about who first collected sunflowers, when and from where they did so, and what global circumstances permitted that type of bioprospecting.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
@@ -73,14 +72,9 @@ The migration of sunflower iconography from one source to another is evidenced i
 
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
 <param ve-entity eid="Q14714" title="achene" aliases="achenes">
-<param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
-<param ve-entity eid="Q491017" title="Pike County" aliases="eastern North America">
-<param ve-entity eid="Q110510" title="Crawford County" aliases="eastern North America">
-<param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
-<param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
-<param ve-entity eid="Q490360" title="Hickory Country" aliases="eastern North America">
-Although European herbals such as Hernández’s perpetuated cultural myths that the domesticated sunflower was present in Mexico prior to colonization or originated in Peru, botanists have since debunked these ideas by using distribution maps and fossilized remains to study the plant’s origin and range.[^ref14] The earliest known cultivated sunflower remains—charred seeds (achenes)—tell us that humans used _Helianthus annuus_ at Hayes shelter in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref15] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref16]
-<param ve-map prefer-geojson center="Q495448" fill="#cc9933" stroke="#cc6600" stroke-width="4" zoom="zoom="6.5"" title="Hayes Shelter prehistoric site, Marshall County, central Tennessee" show-label="true">
+<param ve-entity eid="Q495448" title="Marshall County">
+Although European herbals such as Hernández’s perpetuated cultural myths that the domesticated sunflower was present in Mexico prior to colonization or originated in Peru, botanists have since debunked these ideas by using distribution maps and fossilized remains to study the plant’s origin and range.[^ref14] The earliest known cultivated sunflower remains—charred seeds (achenes)—tell us that humans used _Helianthus annuus_ at Hayes shelter in Marshall County, Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref15] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref16]
+<param ve-map prefer-geojson center="Q495448" fill="#cc9933" stroke="#cc6600" stroke-width="4" title="Hayes Shelter prehistoric site, Marshall County, central Tennessee" zoom="7.5" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
 <param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
