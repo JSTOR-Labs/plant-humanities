@@ -74,7 +74,7 @@ The migration of sunflower iconography from one source to another is evidenced i
 <param ve-entity eid="Q14714" title="achene" aliases="achenes">
 <param ve-entity eid="Q495448" title="Marshall County">
 Although European herbals such as Hernández’s perpetuated cultural myths that the domesticated sunflower was present in Mexico prior to colonization or originated in Peru, botanists have since debunked these ideas by using distribution maps and fossilized remains to study the plant’s origin and range.[^ref14] The earliest known cultivated sunflower remains—charred seeds (achenes)—tell us that humans used _Helianthus annuus_ at Hayes shelter in Marshall County, Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref15] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref16]
-<param ve-map prefer-geojson center="Q495448" fill="#cc9933" stroke="#cc6600" stroke-width="4" title="Hayes Shelter prehistoric site, Marshall County, central Tennessee" zoom="7.5" show-label="true">
+<param ve-map prefer-geojson active="true" center="Q495448" fill="#cc9933" stroke="#cc6600" stroke-width="4" title="Hayes Shelter prehistoric site, Marshall County, central Tennessee" zoom="7.5" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
 <param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
@@ -108,7 +108,6 @@ By the early 1630s, when Anthony Van Dyck painted Self-Portrait with Sunflower, 
 <param ve-entity eid="Q866674" title="Clytie">
 <param ve-entity eid="Q1229071" title="motif">
 <param ve-entity eid="Q758238" title="attribute">
-<param ve-entity eid="Q1602587" title="heliotropism" aliases="heliotropic">
 Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant’s heliotropic phase (growing toward the light) of development recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun god Helios.[^ref22] AAccording to the story, Clytie competed unsuccessfully for Helios's affections. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, wholly consumed with gazing upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, so named for its flowers' movement toward the sun's rays. Heliotropism was associated with _Heliotropium_ in ancient Rome and later with _Calendula_, or the marigold, in [medieval Europe](https://www.metmuseum.org/blogs/in-season/2014/climbing-in-the-garden).[^ref23] Yet, as this print shows, European artists of the late sixteenth through the eighteenth centuries portrayed Clytie’s attribute as a sunflower.[^ref24] That floral inventiveness demonstrates the fashionability of the sunflower as a motif and the degree to which it was entangled not only with beliefs about the flower's formal resemblance to the sun but also with misconceptions about the mature plant being heliotropic. 
 <param ve-image fit="contain" url="Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytie_, 1772, Rijksmuseum">
 
@@ -132,6 +131,7 @@ Henderson's botanical illustration highlights a trait of sunflowers that we may 
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="_Helianthus_ whirl, L. Shyamal, Wikimedia Commons">
 <param ve-graphic img="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg" title="Sunflower Model">
+
 
 <param ve-entity eid="Q5928444" title="Robert John Thornton">
 <param ve-entity eid="Q103129" title="stamen" aliases="stamen(s)"> 
