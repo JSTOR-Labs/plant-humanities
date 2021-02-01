@@ -208,4 +208,4 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref21]: González-Castro et al., “Unraveling the Seed Dispersal System”.
 
-[^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [Click here for full article](https://www.researchgate.net/publication/ 335653444_In_Vitro_Propagation_and_Acclimatization_of_Dragon_Tree_Dracaena_dracoagonreeDracaenadraco)
+[^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [doi:10.3390/horticulturae5030064](https://doi.org/10.3390/horticulturae5030064).
