@@ -85,8 +85,8 @@ Although European herbals such as Hernández’s perpetuated cultural myths that
 <param ve-map prefer-geojson center="8.958, -79.450" fill="#cc9933" stroke="#cc6600" stroke-width="4" zoom="2.5" show-label="true" title="Mexico">
 
 <param ve-entity eid="Q14714" title="achene" aliases="achenes">
-<param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
-The earliest known cultivated sunflower remains—charred seeds (achenes)—tell us that humans used _Helianthus annuus_ at Hayes shelter in Marshall County, central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref15] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref16]
+<param ve-entity eid="Q6841610" title="Middle Tennessee" aliases="central Tennessee">
+The earliest known cultivated sunflower remains—charred seeds (achenes)—tell us that humans used _Helianthus annuus_ at Hayes shelter in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref15] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref16]
 <param ve-map prefer-geojson center="Q495448" fill="#cc9933" stroke="#cc6600" stroke-width="4" zoom="7.5" show-label="true" title="Hayes Shelter prehistoric site, Marshall County, central Tennessee">
 
 <param ve-entity eid="Q80914" title="Tabasco">
