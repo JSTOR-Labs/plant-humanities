@@ -194,7 +194,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref14]: Ledru, _Voyages_, 93. [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up).
 
-[^ref15]: Aaron González-Castro et al., “Unraveling the Seed Dispersal System of an Insular ‘Ghost’ Dragon Tree (_Dracaena draco_) in the Wild,” in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019).
+[^ref15]: Aaron González-Castro et al., “Unraveling the Seed Dispersal System of an Insular ‘Ghost’ Dragon Tree (_Dracaena draco_) in the Wild,” in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019), [doi:10.3389/fevo.2019.00039](https://doi.org/10.3389/fevo.2019.00039).
 
 [^ref16]: Ledru, _Voyages_, 93. [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
 
@@ -202,7 +202,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref18]: Joanna Jura-Morawiec and Mirela Tulik, “Dragon’s blood secretion and its ecological significance,” in _Chemoecology_ 26, no. 3, (March 2016), 101-105, [doi:10.1007%2Fs00049-016-0212-2](https://dx.doi.org/10.1007%2Fs00049-016-0212-2)/
 
-[^ref19]: Deepika Gupta, Bruce Bleakley, Rajinder K. Gupta, “Dragon’s blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008), 361.
+[^ref19]: Deepika Gupta, Bruce Bleakley, Rajinder K. Gupta, “Dragon’s blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008), 361, (doi:10.1016/j.jep.2007.10.018)[https://doi.org/10.1016/j.jep.2007.10.018].
 
 [^ref20]: IUCN Red List, “Dracaena draco,” iucnredlist.org, accessed August 3. 2020, [link](https://www.iucnredlist.org/species/30394/9535771)
 
