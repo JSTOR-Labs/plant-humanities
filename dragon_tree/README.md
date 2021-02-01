@@ -49,6 +49,7 @@ As the eleventh labor of his famous twelve, Hercules was sent to steal the golde
 {#paragraph3}
 
 European understandings of the dragon tree evolved as scientific botany developed from the late medieval through the early modern period, and the myths and legends of antiquity surrounding the tree became something of the past. Native to the Canary Islands, Cape Verde, and Madeira—and recently found growing natively on the West coast of Morocco—_D. draco_ is somewhat ubiquitous along the Northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of _D. draco_ in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and dragon’s blood between his crew and 500 Guanches, the indigenous population of the Canary Islands.[^ref4]
+<param title="Canary Islands" eid="Q5813">
 <param title="Cape Verde" eid="Q1011">
 <param title="Madeira" eid="Q26253">
 <param title="Jean de Béthencourt" eid="Q447602">
