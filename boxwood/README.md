@@ -132,8 +132,8 @@ Given this close association of boxwood with the gardens of Roman antiquity, it 
 
 The real issue with boxwood was what sixteenth-century English physician John Gerard described as the “evil and loathsome smell,” which, according to Soderini, was not only “annoying,” but could give one headaches as it “infested the air.”[^ref11] To mitigate the odor, the recommended solution was to plant boxwood in combination with other strongly scented evergreens such as myrtle, mastic, and rosemary.[^ref12] These mixed hedges benefitted from the robust texture of boxwood. Boxwood’s other selective use, also due to its thick and dense foliage, was planting it in thicket-like bird trapping grounds, _ragnaie_.[^ref13] Yet, compared to other plants that could serve analogous purposes or occupy the same garden spaces, boxwood, in Soderini’s words, was “valued little or not at all.”[^ref14]
 <param ve-image
-	title="Boxwood in Gerard’s herbal"
-	url="https://www.archive.org/download/herballorgeneral00gera_2/page/n1250_w648"
+	title="Boxwood in Gerard’s herbal (edition of 1633, p. 1410."
+	url="https://www.biodiversitylibrary.org/pageimage/60225732"
 	region="-24,334,699,518">
 {#paragraph6}
 
