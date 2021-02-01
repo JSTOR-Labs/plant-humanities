@@ -172,9 +172,9 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref3]: J. Francisco-Ortega et al., “Early Cultivation of Macaronesian Plants in Three European Gardens”, _Revista de la Academia Canaria de Ciencias_ 23, no. 3 (April 2012), 113-143. Although the classical Greek myth about the origin of dragon’s blood took place on the western edge of the known world, the dragon’s blood of antiquity derived from _D. cinnabari_ on the island of Socotra. See Andrew Dalby, _Food in the Ancient World from A to Z_ (London and New York: Routledge, 2003), 290 (under “Saffron”); and David J. Mabberley, _Mabberley’s Plant-Book: A Portable Dictionary of Plants, their Classification and Uses_ (4th edition; Cambridge: Cambridge University Press, 2017), 310.
 
-[^ref4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up). On _D. draco_’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” _Africa: Rivista trimestrale di studi e documentazione dell’Istituto italiano per l’Africa e l’Oriente_ 39, no. 3 (1984), 489-90, https://www.jstor.org/stable/40759752.
+[^ref4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (trans.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70-71. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up). On _D. draco_’s wider significance within Guanche culture, see: Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” _Africa: Rivista trimestrale di studi e documentazione dell’Istituto italiano per l’Africa e l’Oriente_ 39, no. 3 (1984), 489-90, [https://www.jstor.org/stable/40759752](https://www.jstor.org/stable/40759752).
 
-[^ref5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” _British Cactus & Succulent Journal_ 17, no. 4 (December, 1999), 171-177, https://www.jstor.org/stable/42793606; Jane Pearson and Hew D.V. Prendergast, “_Daemonorops_, _Dracaena_ and Other Dragon’s Blood,” _Economic Botany_ 55, no. 4 (October-December 2001), 474-477, [doi:10.1007/BF02871711](https://doi.org/10.1007/BF02871711).
+[^ref5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” _British Cactus & Succulent Journal_ 17, no. 4 (December, 1999), 171-177, [https://www.jstor.org/stable/42793606](https://www.jstor.org/stable/42793606); Jane Pearson and Hew D.V. Prendergast, “_Daemonorops_, _Dracaena_ and Other Dragon’s Blood,” _Economic Botany_ 55, no. 4 (October-December 2001), 474-477, [doi:10.1007/BF02871711](https://doi.org/10.1007/BF02871711).
 
 [^ref6]: “Villa de La Orotava Dragon Tree Tour: The Arautava Giant,” Ayuntamiento: Villa de La Orotava, accessed August 3, 2020. [Click here for full article](https://www.laorotava.es/en/tourism/discover-la-orotava/villa-de-la-orotava-dragon-tree-tour)
 
@@ -188,7 +188,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref11]: Von Humboldt, _Cosmos_, 371-372. [Click here for full book](https://www.biodiversitylibrary.org/item/73496#page/6/mode/1up)
 
-[^ref12]: Alexander von Humboldt, _Personal Narrative of travels to the equinoctial regions of America during the years 1799-1804_, vol. 1, (London: Routledge, 1895), 62. [Click here for full book](https://www.biodiversitylibrary.org/item/228502#page/5/mode/1up). On Humboldt’s environmentalism, see Laura Dassow Walls, “Rediscovering Humboldt’s Environmental Revolution,” _Environmental History_ 10, no. 4 (2005), 758-60, https://www.jstor.org/stable/3986179.
+[^ref12]: Alexander von Humboldt, _Personal Narrative of travels to the equinoctial regions of America during the years 1799-1804_, vol. 1, (London: Routledge, 1895), 62. [Click here for full book](https://www.biodiversitylibrary.org/item/228502#page/5/mode/1up). On Humboldt’s environmentalism, see Laura Dassow Walls, “Rediscovering Humboldt’s Environmental Revolution,” _Environmental History_ 10, no. 4 (2005), 758-60, [https://www.jstor.org/stable/3986179](https://www.jstor.org/stable/3986179).
 
 [^ref13]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_, (Paris: Arthus Bertrand, 1810), 81-82. [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up).
 
@@ -198,7 +198,7 @@ Today, _D. draco_ is officially designated as a vulnerable population on the Int
 
 [^ref16]: Ledru, _Voyages_, 93. [Click here for full book](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
 
-[^ref17]: Alice Carter Cook, “The Dragon Tree of Orotava,” _The Plant World_ 4, no. 7 (July 1901), 124, https://www.jstor.org/stable/43475706.
+[^ref17]: Alice Carter Cook, “The Dragon Tree of Orotava,” _The Plant World_ 4, no. 7 (July 1901), 124, [https://www.jstor.org/stable/43475706](https://www.jstor.org/stable/43475706).
 
 [^ref18]: Joanna Jura-Morawiec and Mirela Tulik, “Dragon’s blood secretion and its ecological significance,” in _Chemoecology_ 26, no. 3, (March 2016), 101-105, [doi:10.1007%2Fs00049-016-0212-2](https://dx.doi.org/10.1007%2Fs00049-016-0212-2)/
 
