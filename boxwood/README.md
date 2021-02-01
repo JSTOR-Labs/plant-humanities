@@ -235,7 +235,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref4]: Daniela Bleichmar, “Botanical conquistadors: the promises and challenges of imperial botany in the Hispanic Enlightenment,” in _The Botany of Empire in the Long Eighteenth century_, ed. Yota Batsaki, Sarah Burke Cahalan, and Anatole Tchikine (Washington, DC: Dumbarton Oaks, 2016), 35.
 
-[^ref5]: Pietro Andrea Mattioli, _Discorsi_ (Venice: Valgrisi, 1563), 138. [Click here for full book](https://books.google.nl/books?id=6B9QAAAAcAAJ&hl=nl&source=gbs_navlinks_s); John Gerard, _The Herball or general Historie of Plantes_ (Imprinted at London: Iohn Norton, 1597), 1225. [Click here for full book](https://archive.org/details/herballorgeneral00gera_2).
+[^ref5]: Pietro Andrea Mattioli, _Discorsi_ (Venice: Valgrisi, 1563), 138. [Click here for full book](https://books.google.nl/books?id=6B9QAAAAcAAJ&hl=nl&source=gbs_navlinks_s); John Gerard, _The Herball or general Historie of Plantes_ (London: Norton, 1597), 1225. [Click here for full book](https://archive.org/details/herballorgeneral00gera_2).
 
 [^ref6]: Pliny the Younger, _Letters_, V.6.
 
