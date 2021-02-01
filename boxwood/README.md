@@ -251,13 +251,13 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref12]: Soderini, _Opere_, III:254, 255; Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance Garden: From the Conventions of Planting, Design, and Ornament to the Grand Gardens of Sixteenth-Century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291–2n.17.
 
-[^ref13]: Soderini, _Opere_, III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32.
+[^ref13]: Soderini, _Opere_, III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32. [Click here for full book](https://books.google.nl/books?id=Ba31fJHShy4C&hl=nl&source=gbs_navlinks_s).
 
 [^ref14]: Soderini, _Opere_, III:255.
 
-[^ref15]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion; cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–40.
+[^ref15]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion. [Click here for full book](https://www.biodiversitylibrary.org/item/206045#page/5/mode/1up). Cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–40. [Click here for full book](https://books.google.nl/books?id=XsLsBIcSywYC&hl=nl&source=gbs_navlinks_s).
 
-[^ref16]: Parkinson, 606; Gerard, _Herball_, 1225.
+[^ref16]: Parkinson, _Paradisi in sole_, 606; Gerard, _Herball_, 1225.
 
 [^ref17]: Mattioli, _Discorsi_, 138; cf. Parkinson, _Paradisi in sole_, 606–7.
 
