@@ -38,17 +38,12 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 
 ### Plant Mobility and Early Printed Books
 
-<param ve-entity eid="Q49" title="North America">
-<param ve-entity eid="Q46" title="Europe">
 <param ve-entity eid="Q815962" title="colonization">
 <param ve-entity eid="Q6165948" title="herbal" aliases="herbals">
 <param ve-entity eid="Q52105" title="habitat">
 The first known pictures of domesticated sunflowers produced by Europeans were printed in herbals in the late 1560s.[^ref6] These illustrations of tall, hearty plants with thick stocks, giant leaves, and ponderous sun-shaped flowers provide a foundation for studying later sunflower iconography. Such visual descriptions along with textual ones also help us to chart the plant’s mobility from North America to Europe. Yet, it is important to acknowledge that herbals present incomplete and sanitized histories of the plant world during the age of colonization. The treatises typically omit any information about plant harvesting and the impact of such exploitative practices, now termed [extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), on Indigenous peoples and local habitats. For this and other reasons, questions persist about who first collected sunflowers, when and from where they did so, and what global circumstances permitted that type of bioprospecting.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 
-<param ve-entity eid="Q476033" title="Low Countries">
-<param ve-entity eid="Q29" title="Spain">
-<param ve-entity eid="Q38" title="Italy">
 <param ve-entity eid="Q181916" title="herbarium">
 <param ve-entity eid="Q457191" title="Pietro Andrea Mattioli">
 <param ve-entity eid="Q437466" title="Rembert Dodoens">
@@ -59,7 +54,6 @@ Once introduced to Spain, the domesticated sunflower quickly migrated to parts o
 <param ve-entity eid="Q65027" title="Basilius Besler">
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-entity eid="Q252772" title="Eichstätt" aliases="Bavaria">
-<param ve-entity eid="Q5189819" title="cruciform">
 <param ve-entity eid="Q462437" title="composition">
 <param ve-entity eid="Q63540903" title="focal point">
 The advent of the florilegium in the 1610s was integral to the blossoming of sunflower aesthetics, as is evidenced in the sumptuous prints contained in [_Hortus Eystettensis_](https://bibdigital.rjb.csic.es/idurl/1/10908).[^ref9] The 1613 book was commissioned from apothecary and botanist Basilius Besler by the Prince Bishop of Eichstätt, who wished to document rare and foreign flora then growing in his garden in Bavaria. As part of the project, Besler oversaw the production of this hand-colored [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of a domesticated sunflower shown life-sized. The image’s impact derives not only from its impressive dimensions but also from its bold cruciform composition, both of which imbue the full flower head and stem with a sense of power and religious reverence for nature. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves a decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value, unlike most economical illustrations then found in herbals. For that reason, Besler’s _Flos Solis maior_ (large flower of the sun) became an influential model for visualizing _Helianthus annuus_ that anticipated modern visual stereotypes for the plant, perhaps best epitomized by [this tiny sunflower emoji](https://openmoji.org/library/#search=sunflower).
@@ -70,7 +64,6 @@ The advent of the florilegium in the 1610s was integral to the blossoming of sun
 
 ### Mythic Encounters and Scientific Debates
 
-<param ve-entity eid="Q2401485" title="expedition">
 <param ve-entity eid="Q170603" title="Viceroyalty of New Spain" aliases="New Spain">
 The migration of sunflower iconography from one source to another is evidenced in the pages of Francisco Hernández’s _[Nova plantarum](https://www.biodiversitylibrary.org/page/54114015)_, published posthumously in 1651.[^ref10] The book purports to document plants and animals that the naturalist and physician and his team, which included several Indigenous artists, observed during a three-year expedition through New Spain (present-day Mexico) in the 1570s.[^ref11] However, its illustrations of sunflowers, shown here, were not drawn on site from local flora but rather borrowed from European models. The upper illustration was adapted directly or through intermediary sources from Besler’s _Flos Solis maior_. The lower image repurposes a design from a [florilegium](http://hdl.handle.net/10934/RM0001.COLLECT.432189) that was itself republished in an [herbal](https://www.biodiversitylibrary.org/page/7815694).[^ref12] These appropriations have been interpreted as evidence that Hernández’s team of artists or those working on his manuscript at a later date had to copy existing imagery because the sunflower was not established in New Spain at the time of his expedition.[^ref13] If that is so, as several modern-day botanists argue, Hernández’s discussion of the sunflower implied a mythic encounter with the plant that reproduced European misconceptions about its range.
 <param ve-image iiif primary fit="contain" url="https://ia800805.us.archive.org/BookReader/BookReaderImages.php?id=novaplantarumani00hern&itemPath=%2F5%2Fitems%2Fnovaplantarumani00hern&server=ia800805.us.archive.org&page=n245_w820" title="Francisco Hernández, _Nova plantarum, animalium et mineralium Mexicanorum historia_, 1651, John Carter Brown Library, Internet Archive">
@@ -80,9 +73,14 @@ The migration of sunflower iconography from one source to another is evidenced i
 
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
 <param ve-entity eid="Q14714" title="achene" aliases="achenes">
-<param ve-map prefer-geojson center="Q495448" fill="#cc9933" stroke="#cc6600" stroke-width="4" zoom="7" title="Hayes Shelter prehistoric site, Marshall County, central Tennessee" show-label="true">
-<param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
+<param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
+<param ve-entity eid="Q491017" title="Pike County" aliases="eastern North America">
+<param ve-entity eid="Q110510" title="Crawford County" aliases="eastern North America">
+<param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
+<param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
+<param ve-entity eid="Q490360" title="Hickory Country" aliases="eastern North America">
 Although European herbals such as Hernández’s perpetuated cultural myths that the domesticated sunflower was present in Mexico prior to colonization or originated in Peru, botanists have since debunked these ideas by using distribution maps and fossilized remains to study the plant’s origin and range.[^ref14] The earliest known cultivated sunflower remains—charred seeds (achenes)—tell us that humans used _Helianthus annuus_ at Hayes shelter in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref15] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref16]
+<param ve-map prefer-geojson center="Q495448" fill="#cc9933" stroke="#cc6600" stroke-width="4" zoom="zoom="6.5"" title="Hayes Shelter prehistoric site, Marshall County, central Tennessee" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
 <param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
