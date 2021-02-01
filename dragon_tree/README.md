@@ -41,6 +41,7 @@ As the eleventh labor of his famous twelve, Hercules was sent to steal the golde
 <param title="Hercules" eid="Q122248">
 <param title="Ladon" eid="Q274600">
 <param ve-image
+	title="Image comparison of the canopy of dragon tree (_Dracaena draco_) and a classical Greek depiction of the dragon Ladon."
 	url="https://free.iiifhosting.com/iiif/7e103f8b67bc1ce1be0a738a6a34265de93fe18ad5978f48c076da1da1fbf636/info.json"
 	curtain="true"
 	fit="contain">
@@ -54,11 +55,11 @@ European understandings of the dragon tree evolved as scientific botany develope
 <param title="Madeira" eid="Q26253">
 <param title="Jean de Béthencourt" eid="Q447602">
 <param ve-map
+	title="Distribution range of _Dracaena draco_."
 	basemap="Esri_WorldPhysical"
 	center="Q105967"
 	zoom="3.75">
 <param ve-map-layer
-	title="Distribution range"
 	geojson url="geojson/Dracaena draco native.json"
 	active>
 {#paragraph4}
