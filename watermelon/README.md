@@ -39,6 +39,7 @@
 
 Mark Twain once said that the watermelon “is the chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat.”[^ref1] Though today the word “watermelon” calls to mind a sturdy gourd with refreshing, sweet, red flesh, for most of its millennia-long history as a cultivated crop it was known as a pale, hard, sometimes bitter fruit with relatively tender rind. Not until the sixth century CE were watermelons associated with sweet fruits such as figs and grapes; and it was not until well into the 1400s that the uniformly red, thick-rinded watermelons that are familiar to us today began to appear. Throughout its history across the globe, the watermelon was primarily a source of food, medicine, and drink. Its cultural history, however, reveals not only stories of racism, but also of contagion and disease, a darker side to the delicious summer fruit that we know and love.
 <param ve-vis-network
+	title=""
 	url="watermelon.csv">
 <param ve-image
 	title="Watermelon."
@@ -64,12 +65,12 @@ The precise historical origins of the watermelon are obscured by its broad geogr
 	fit="contain"
 	attribution="Annals of Botany">
 <param ve-map
+	title="Distribution of watermelon."
 	basemap="Esri_WorldPhysical"
 	time-selector="3000 BCE:0"
-	center="34.5531, 18.0480"
-	zoom="3.5">
+	center="Q5818"
+	zoom="1">
 <param ve-map-layer
-	title="Distribution of watermelon."
 	url="watermelon_distribution.json"
 	geojson active>
 {#paragraph2}
