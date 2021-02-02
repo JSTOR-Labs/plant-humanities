@@ -255,7 +255,7 @@ The intensified commodification of the watermelon during the twentieth and espec
 <param ve-image
 	title="Varieties of watermelons."
 	url="https://scx2.b-cdn.net/gfx/news/hires/2019/harvestingge.jpg"
-	fit="contain"
+	region="367,109,1868,1382"
 	attribution="Science X">
 <param ve-plant-specimen
 	eid="Q17507129"
