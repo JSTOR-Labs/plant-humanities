@@ -49,13 +49,10 @@ Mark Twain once said that the watermelon “is the chief of this world’s luxur
 
 ### Whose Vine Is It Anyway?
 
-The precise historical origins of the watermelon are obscured by its broad geographical spread today and many existent varieties, as well as the fact that its most iconic component – the tender, watery flesh – does not survive well in the archaeological record. When we refer to watermelon, we usually mean the “sweet dessert” cultivars of _Citrullus lanatus_, but the _Citrullus_ genus includes at least six other species, including the citron melon (_Citrullus caffer_), egusi melon (_Citrullus mucosospermus_), and colocynth melon (_Citrullus colocynthis_).[^ref2] Though the watermelon’s origins have been located throughout the African continent, current hypotheses point to its first domestication in northeastern Africa around six thousand years ago. Wild desert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya, adjacent to the Nile Valley.[^ref3] Some of the earliest iconography of oblong melons – an indication of their domestication – can be found in Egyptian tombs and Roman and Byzantine mosaics, with seeds also found in the famous King Tutankhamen’s tomb.[^ref4]
+The precise historical origins of the watermelon are obscured by its broad geographical spread today and many existent varieties, as well as the fact that its most iconic component – the tender, watery flesh – does not survive well in the archaeological record. When we refer to watermelon, we usually mean the “sweet dessert” cultivars of _Citrullus lanatus_, but the _Citrullus_ genus includes at least six other species, including the citron melon (_Citrullus caffer_), egusi melon (_Citrullus mucosospermus_), and colocynth melon (_Citrullus colocynthis_).[^ref2] Though the watermelon’s origins have been located throughout the African continent, current hypotheses point to its first domestication in northeastern Africa around six thousand years ago. Wild desert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya, adjacent to the Nile Valley.[^ref3] Some of the earliest iconography of oblong melons—an indication of their domestication—can be found in Egyptian tombs and Roman and Byzantine mosaics, with seeds also found in the famous King Tutankhamen’s tomb.[^ref4]
 <param ve-plant-specimen
 	eid="Q30160603"
 	max="2">
-{#paragraph2}
-
-[CHECK: PARTS OF THIS PARAGRAPH HAVE BEEN ADDED TO THE PREVIOUS ONE, BUT HAS THE REST BEEN DELETED OR ADDED ON ANOTHER PLACE?] Species in the genus _Citrullus_ characteristically grow on vines with pinnatifid (feather-like) leaves and only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white.[^ref2] Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in north-eastern Africa around six thousand years ago. Wild dessert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya, adjacent to the Nile Valley[^ref3] and some of the earliest iconography of oblong melons — an indication of domestication — can be found in Egyptian tombs and Mediterranean and Byzantine mosaics, and seeds were found in the famous King Tutankhamen’s tomb.[^ref4]
 <param ve-image
 	title="Representations of watermelon in Egyptian tombs"
 	url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/116/2/10.1093_aob_mcv077/2/mcv077f2p.png?Expires=1599137500&Signature=R-SPwg8TMVoQjtTuWH~HxugVkhIGbt6Jbh~qJv9YIzrz8CKD2JJUkfkcfZgF6N1mEmDkiXwIdyBr7IN8O8cIVvXJyeQFqr5G7gb~8ZvMRo1O0SPU4md~VWlToHpEklMkrX1qXbf-hrk0E-pgjjUT~jZbxp~wxd56NOV8-Xx7OhD~Kf4q0UuI6I81CFwO7aAzWfFtfbgscQTKquRGow81UBR9aNJJ5gh7jpOGZ3nr9A1~fUDuSmnqr1DbTZ67CjsLmb3qSEsw5ReuBqlUJJUEIaYUGstmRegjrnhrPpF9zhIZ13ats0ADxNeubChfhUte22fulFhjYxTaGbJN2DS04Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
@@ -75,7 +72,7 @@ The precise historical origins of the watermelon are obscured by its broad geogr
 	title="Distribution"
 	url="watermelon_distribution.json"
 	geojson active>
-{#paragraph3}
+{#paragraph2}
 
 In Africa’s arid savanna regions, watermelons were originally welcomed as sources of liquid, their flesh generally being cooked or beaten to a pulp to extract the juice. In the Kalahari Desert in southern Africa, the multiple uses of the flesh, rind, and seeds that were eaten fresh, cooked, and dried also helped some population groups to remain sedentary and hydrated throughout both wet and dry seasons.[^ref6] As they became domesticated, watermelons were bred to yield softer and sweeter flesh and exclude such less desirable traits as the mucilaginous egusi seeds or the hard, bitter flesh of the citron melon, although western and southern African cuisines still make use of them today.[^ref7]
 <param ve-image
@@ -83,11 +80,12 @@ In Africa’s arid savanna regions, watermelons were originally welcomed as sour
 	url="https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F69718619%2Foriginal.jpg%3F1588016254"
 	fit="contain"
 	attribution="GBIF">
-{#paragraph4}
+{#paragraph3}
 
 ### More Than Just a Fruit…
 
 Watermelon-like fruit were referenced in ancient Greek and Roman texts using a variety of terms including pepon, melopepon, and kolokynte, suggesting that these plants proliferated in the Mediterranean region during antiquity.[^ref9] At that time, they were still likely to have sturdy and pale flesh—not quite as red and soft as it is today. Pliny the Elder dedicated a section of his [_Natural History_](https://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL392.9.xml) [DELETE LINK?] to _pepones_, which, he wrote, made a very refreshing food, but also had a laxative effect. Various parts of the fruit were used to alleviate pain, induce vomiting, and even cleanse the skin and clear spots.[^ref10]
+{#paragraph4}
 
 Watermelons were cultivated in Spain after the Arab conquest, with evidence of their agricultural use, mostly in the form of seeds, dating to the tenth century. Illuminated manuscripts from southern Italy illustrate the varieties of watermelons grown there. Early health treatises, such as _Tacuinum Sanitatis_, show harvesters [who taste-test them](http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=75&Fin=75&Param=C) in the fields. However, sweetness did not appear to be a consistent characteristic of watermelons. Writing in the late sixteenth century, John Gerard, in his [_Herball_](https://www.biodiversitylibrary.org/item/109874#page/789/mode/1up), described their flesh as “spungie and of a flimsie substance,” which could be “eaten rawe, but more commonly boiled”; whereas the plant itself was still associated with curative properties: “it ingendereth a waterish bloud, mitigateth the extremitie of heat of the inner parts, and tempereth the sharpness and fervent heat of choler.”[^ref15]
 <param ve-image
@@ -110,7 +108,7 @@ Watermelons were cultivated in Spain after the Arab conquest, with evidence of t
 	url="https://www.archive.org/download/mobot31753000817756/page/n949_w320"
 	fit="contain"
 	attribution="BHL">
-{#paragraph7}
+{#paragraph5}
 
 In fact, centuries later, in 1888, watermelons were still being promoted as a face cleanser in U.S. newspapers. A certain Miss Carrie Townsend from St. Louis, Missouri, recommended them to girls with freckles who looked “as if they had been about when a bran bin had exploded,” claiming that no matter what was wrong with the face, the juice of the watermelon would rectify it.[^ref11] Although perhaps not quite as powerful as Miss Townsend suggests, watermelon-based treatments are re-emerging as a natural skin cleanser today, including West African kalahari or ootanga oil that is traditionally extracted from the fruit’s seeds.
 <param ve-image
@@ -118,7 +116,7 @@ In fact, centuries later, in 1888, watermelons were still being promoted as a fa
 	url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/100/7/10.1093/aob/mcm242/2/mcm24201.jpeg?Expires=1599152059&Signature=uPLyghEFxoPNUp8Bl7c-mT7iQ1W~Vy~voNczo6PqfdEMJ5AVzGOp6XpmFbAm7wrO3f4l0fF-941C9t-471o-otlXzw7OQvxAiN-Axh-DI2Rhvk5ldA4AdSV0hZG-d7il~xO7xeBxDm6hcfWM~uDu9uF5-c-hezzb6CAAxi2RqijxttXO6TSyOSlwUPnWUL7YJTl5y9S7cwulGYA9Wo23ukLP9sy1L0Q~O78iXt1TpCVwvPGgJDbkgwLvuAuqHsxAAQvP3HYnZyfwAPuLFB1sU52SHuNrhBIi0xbSGgj54Nmpcwvz6qvSpPPmPm8toDKk1rdAFSLiNikq1xL8ZHqD~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
 	fit="contain"
 	attribution="Annals of Botany">
-{#paragraph5}
+{#paragraph6}
 
 ### Watermelons in Art Around the World
 
@@ -147,7 +145,7 @@ By the ninth and twelfth centuries, watermelons had spread, respectively, to Ind
 	url="https://upload.wikimedia.org/wikipedia/commons/d/d7/5000_won_serieV_reverse.jpeg"
 	fit="fit"
 	attribution="Wikimedia Commons"> 
-{#paragraph6}
+{#paragraph7}
 
 As the watermelon became common in European kitchen gardens, it began to appear frequently in still life paintings. Seventeenth-century paintings by Albert Eckhout and Giovanni Stanchi reveal whorls of red flesh among white rind, showing how much the fruit has changed since antiquity. The inclusion of watermelons in still lifes also provides insights into the multitude of cultural meanings associated with the plant. While American still lifes, such as those by the prolific Peale family in the early nineteenth century, featured the watermelon amid overwhelming images of abundance and plenty, Baroque artists would quite literally [cut through that fantasy](https://www.flickr.com/photos/104901827@N06/46017346544) with the abrupt imposition of a knife as a symbol of the fleeting nature of life.
 <param ve-image
