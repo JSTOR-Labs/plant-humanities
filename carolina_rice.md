@@ -77,7 +77,7 @@ In the end, the Carolina rice experiments in India were considered a failure by 
 
 ### Conclusion
 Through the complex history of Carolina rice, we not only see how rice was explicitly integrated into the imperial policies of the British government, but also how its consumption — from America to Britain— was predicated not only on the toil of enslaved people, but also on their cultivation knowledge, brought to America on the violent Middle Passage. This interconnected history of the movements of plants and people suggests the ways in which enslaved people influenced the food systems not only of the American colonies, but of the British Empire at large.
-<param ve-map title="carolina rice points" center="23.950780, 0.270493" zoom="2">
+<param ve-map title="The Varied Geographies of Carolina Rice" center="23.950780, 0.270493" zoom="2">
 <param ve-map-layer geojson active title="The Varied Geographies of Carolina Rice" url="https://jstor-labs.github.io/plant-humanities/geojson/carolina rice points.json">
 
 ### References
