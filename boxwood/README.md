@@ -52,7 +52,7 @@
 
 “Boxwood blight invades North America,” read the heading of an article that appeared in _Science News_ in January 2012. Caused by _Cylindrocladium buxicola_—a fungus whose spores remain viable for several years and are easily dispersed by birds, moving visitors, wind, or even sprinklers—the disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.”[^ref1]
 <param ve-map
-	title="Occurence of boxwood blight in America, 2010-2018"
+	title="Occurence of boxwood blight in America, 2010–2018."
 	center="39.812733, -97.042653"
 	zoom="4"
 	time-dimension
@@ -71,7 +71,7 @@ Boxwood is a genus of evergreen shrubs that enjoys great commercial success as o
 <param title="Buxus" eid="Q158703" aliases="Boxwood">
 <param title="shrub" eid="Q42295" aliases="shrubs">
 <param ve-image
-	title="Box Walk at Dumbarton Oaks"
+	title="Box Walk at Dumbarton Oaks."
 	url="https://www.doaks.org/visit/garden/explore/box-walk/@@images/image"
 	region="154,53,900,667">
 {#paragraph2}
@@ -80,7 +80,7 @@ One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand begi
 <param title="Dumbarton Oaks" eid="Q1264942">
 <param ve-map
 	prefer-geojson
-	title="Dumbarton Oaks garden"
+	title="Dumbarton Oaks garden."
 	data-center="38.914468, -77.062895"
 	data-zoom="17.8">
 <param ve-map-layer
@@ -96,7 +96,7 @@ One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand begi
 
 How did boxwood come to represent the lasting legacy of the European garden tradition? Its historical fortunes hardly amount to a dazzling story of oversees exploration, important discoveries, and economic exploitation—the “big business” of early modern botany, to use Daniela Bleichmar’s phrase.[^ref4] An integral element in the Mediterranean maquis—scrubland vegetation—boxwood has been familiar to Europeans for many centuries. Sixteenth-century Italians considered it “a plant that is known to everybody, since it abundantly grows all over Italy”; while in England it was habitually found among “sundry waste and barren hills.”[^ref5] Boxwood’s adaptation to garden design went back to antiquity. Roman author and politician Pliny the Younger mentions its use in his villa “in Tuscis,” where, cut into various shapes representing figures and letters, it served as the main material for elaborate topiary work.[^ref6] This malleability of boxwood, the ease with which it lent itself to pruning, was particularly valued by the ancients, making it an indispensable and versatile medium for the creation of green architecture and sculpture.
 <param ve-map
-	title="Native European distribution of common boxwood (_Buxus sempervirens_)"
+	title="Native European distribution of common boxwood (_Buxus sempervirens_)."
 	center="47.192704, 23.108475"
 	zoom="4"
 	marker-type="circle"
@@ -120,13 +120,13 @@ Given this close association of boxwood with the gardens of Roman antiquity, it 
 <param title="espalier"	eid="Q1754876" aliases="espaliers">
 <param title="hedge" eid="Q235779" aliases="hedges">
 <param ve-image
-	title="Boxwood pattern at Middachten Castle in the Netherlands"
+	title="Boxwood pattern at Middachten Castle in the Netherlands."
 	url="https://upload.wikimedia.org/wikipedia/commons/6/6c/Entrance_of_Castle_Middachten_with_nice_Buxus_garden_-_panoramio.jpg">
 	<param ve-image
-	title="Boxwood pattern at Vrtba Garden in Prague"
+	title="Boxwood pattern at Vrtba Garden in Prague."
 	url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Vrtbovsk%C3%A1_zahrada%2C_z_druh%C3%A9ho_parteru.JPG">
 	<param ve-image
-	title="Boxwood pattern at Oldway Mansion in Devon, England"
+	title="Boxwood pattern at Oldway Mansion in Devon, England."
 	url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Oldway_Mansion_03.jpg">
 {#paragraph5}
 
@@ -139,7 +139,7 @@ The real issue with boxwood was what sixteenth-century English physician John Ge
 
 Boxwood’s potential medicinal applications met with a similar lack of enthusiasm. Despite an attempt by Amato Lusitano, a sixteenth-century Portuguese Jewish physician, to prove that boxwood was a native European analogue of guaiacum and could, therefore, potentially cure syphilis, the general consensus—endorsed by the leading writer on _materia medica_, Pietro Andrea Mattioli—was that it “had no use in medicine.” Lusitano’s claim was dismissed as “vain and foolish,” which “could in no way be acceptable to doctors.”[^ref15] Such pronouncements against boxwood, which was considered of “no physical use among the most and best physicians,” were sustained by the Englishman John Parkinson (who, however, noted that its leaves could be given to horses as a cure for botfly larvae); Gerard raged against “foolish empirics and women leeches” who “minister it against apoplexy and such diseases.”[^ref16] This negative opinion continued to pervade early modern medical thought, while boxwood’s known curative properties, especially as a styptic, generally remained ignored. 
 <param ve-image
-	title="Boxwood image in Parkinson’s _Paradisi in sole paradisus terrestris_ (1629)"
+	title="Boxwood image in Parkinson’s _Paradisi in sole paradisus terrestris_ (1629)."
 	url="https://ia801309.us.archive.org/BookReader/BookReaderImages.php?id=gri_33125012606931&itemPath=%2F6%2Fitems%2Fgri_33125012606931&server=ia801309.us.archive.org&page=n620_w1136"
 	region="1,1157,1006,746">
 {#paragraph7}
@@ -148,14 +148,14 @@ Boxwood’s potential medicinal applications met with a similar lack of enthusia
 
 If Mattioli and Parkinson considered boxwood primarily an ornamental plant “well adapted to weaving espaliers in gardens and dividing one space from another,”[^ref17] its slow growth rate had important industrial implications. Hardened through the process of gradual maturation, its timber acquired such valued qualities as durability and density, making it indeed similar to guaiacum.[^ref18] Boxwood, according to Soderini, could last “forever” and “was good for the printing industry and other fine woodwork.”[^ref19] Since it lent itself well to lathing, Gerard considered it particularly suitable for “dagger hafts, boxes, and suchlike uses.”[^ref20] Sixteenth-century Netherlandish rosary beads—true miracles of late Gothic craftsmanship—testify to these remarkable properties. These exquisite boxwood carvings, which often measure less than two inches in diameter, could represent on a tiny scale multi-figure biblical scenes without losing any of their dramatic intensity.
 <param ve-image
-	title="Sixteenth-century Netherlandish rosary bead (exterior)"
+	title="Sixteenth-century Netherlandish rosary bead (exterior)."
 	url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Prayer_Bead_with_the_Adoration_of_the_Magi_and_the_Crucifixion_MET_DP371957.jpg">
 <param ve-image
-	title="Sixteenth-century Netherlandish rosary bead (interior)"
+	title="Sixteenth-century Netherlandish rosary bead (interior)."
 	url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Prayer_Bead_with_the_Adoration_of_the_Magi_and_the_Crucifixion_MET_DP371961.jpg"
 	region="109,1836,2762,2043">
 <param ve-image
-	title="Sixteenth-century Netherlandish rosary bead (interior)"
+	title="Sixteenth-century Netherlandish rosary bead (interior)."
 	url="https://images.metmuseum.org/CRDImages/md/original/DP371962.jpg"
 	region="133,185,2777,2083">
 {#paragraph8}
@@ -164,7 +164,7 @@ If Mattioli and Parkinson considered boxwood primarily an ornamental plant “we
 
 The vindication of boxwood as an essential garden plant took place in late sixteenth-century France, almost a millennium-and-a-half after its enthusiastic mention by Pliny. In horticulture, this moment marked the introduction of _parterres de broderie_ characterized by low, manicured hedges that imitated embroidery patterns. Boxwood—along with myrtle, lavender, juniper, and rosemary—was deemed particularly well-adapted to making the borders of plant beds, within which were planted marjoram, thyme, hyssop, pennyroyal, sage, chamomile, mint, violets, marguerites, basil, and other herbs and flowers.[^ref21] Horticultural theorist Olivier de Serres, in _Théâtre d’Agriculture_ (first published in 1600), emphasized boxwood’s resistance to the effects of weather and time and its little need for care, favorably contrasting it with myrtle, which was less suitable to colder climates. These properties, he believed, would have made boxwood a perfect garden shrub if not for the lack of “good scent,” having instead an odor “strong, unwelcome, and unpleasant, which causes headaches.”[^ref22]
 <param ve-image
-	title="Front page of Claude Mollet (c. 1564-c. 1649), _Theatre des plans et iardinages_, 1652."
+	title="Front page of Claude Mollet (c. 1564–c. 1649), _Theatre des plans et iardinages_, 1652."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
 	seq="9"
 	region="-396,75,4753,3521">
@@ -186,19 +186,19 @@ In practical terms, borders involving a combination of different shrubs as descr
 
 Mollet’s planting and stylistic innovations gained the fullest expression in the gardens of Versailles—whose boxwood parterres, _berceau_ (bowers), and a labyrinth were created for Louis XIV by André Le Nôtre. From here they spread throughout Europe and beyond. Elaborate topiary work, for example, was one of the attractions of the European-style imperial garden of Yuanming Yuan (Old Summer Palace) in Beijing, designed in the eighteenth century by Jesuit Giuseppe Castiglione. Italy continued to be resistant to the wholesale adoption of boxwood but, in the end, the shrub’s triumph was complete. If, toward the end of the eighteenth century, agricultural reformer Marco Lastri had thought that the most characteristic plants growing in Italian gardens were “fruit trees, citruses, and flowers,” over a hundred years later, American novelist Edith Wharton (Beatrix Farrand’s aunt) extolled Italy’s “old garden-magic” that she identified with green “box-parterres” and “box-edged plots.”[^ref27] Even the once-reviled smell became a feature of Old World nostalgia. In her autobiography, Wharton would fondly recall her friend Vernon Lee’s “homely box-scented garden,” an epitome of the quaint European charm consciously cultivated by members of the Anglo-American community in Florence.[^ref28]
 <param ve-image
-	title="View of the garden of the Chatêau de Clagny at Versailles, in Charles Antoine Jombert (1712-1784), _Les delices de Versailles et des maisons royales_, 1766, plate 81."
+	title="View of the garden of the Chatêau de Clagny at Versailles, in Charles Antoine Jombert (1712–1784), _Les delices de Versailles et des maisons royales_, 1766, plate 81."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:459932907"
 	seq="219"
 	rotate="90"
 	region="861,725,1619,2185">
 <param ve-image
-	title="_Parterres de broderie_ in the gardens of the Orangerie at Versailles, in Charles Antoine Jombert (1712-1784), _Les delices de Versailles et des maisons royales_, 1766, plate 118."
+	title="_Parterres de broderie_ in the gardens of the Orangerie at Versailles, in Charles Antoine Jombert (1712–1784), _Les delices de Versailles et des maisons royales_, 1766, plate 118."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:459932907"
 	seq="117"
 	rotate="90"
 	region="42,362,2798,3776">
 <param ve-image
-	title="Imperial garden of the Old Summer Palace in Beijing. Unknown artist, after Yilantai, c. 1783-1786."
+	title="Imperial garden of the Old Summer Palace in Beijing. Unknown artist, after Yilantai, c. 1783–1786."
 	url="Old-Summer-Palace_Beijing_British-Museum.jpg">
 {#paragraph11}
 
