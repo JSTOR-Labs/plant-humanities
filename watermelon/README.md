@@ -66,7 +66,7 @@ The precise historical origins of the watermelon are obscured by its broad geogr
 	fit="contain"
 	attribution="Annals of Botany">
 <param ve-map
-	title="Distribution of watermelon."
+	title="Distribution of watermelon, ."
 	basemap="Esri_WorldPhysical"
 	time-selector="3000 BCE:0"
 	center="Q26253"
@@ -122,14 +122,14 @@ In fact, centuries later, in 1888, watermelons were still being promoted as a fa
 
 ### Watermelons in Art around the World
 
-By the ninth and twelfth centuries, watermelons had spread, respectively, to India and China, travelling regional trade routes.[^ref11] Distinguished by its sinewy vines, the fruit was associated with vitality and playfulness and soon became the object of artistic attention. Fourteenth-century Japanese representations of arhats—those who reached nirvana in the Buddhist tradition—for instance, show watermelons as a religious offering. Korean paintings from the Joseon Dynasty by the female artist Shin Saimdang (1504–1551) [depict](https://www.museum.go.kr/site/eng/relic/represent/view?relicId=2061) watermelons alongside flowers, butterflies, and mice, with their arching vines and exposed seeds symbolizing a wish for healthy and abundant children.[^ref12] One of Shin’s depictions of watermelons appears on the 5,000 won banknote today.[^ref13]
+By the ninth and twelfth centuries, watermelons had spread, respectively, to India and China, travelling regional trade routes.[^ref11] Distinguished by its sinewy vines, the fruit was associated with vitality and playfulness and soon became the object of artistic attention. Fourteenth-century Japanese representations of arhats—those who reached nirvana in the Buddhist tradition—for instance, show watermelons as a religious offering. Korean paintings from the Joseon Dynasty by the female artist Shin Saimdang (1504–1551) [depict watermelons](https://www.museum.go.kr/site/eng/relic/represent/view?relicId=2061) alongside flowers, butterflies, and mice, with their arching vines and exposed seeds symbolizing a wish for healthy and abundant children.[^ref12] One of Shin’s depictions of watermelons appears on the 5,000 won banknote today.[^ref13]
 <param ve-map
+	title="Distribution of watermelon, 1000 BCE to 1400 CE."
 	basemap="Esri_WorldPhysical"
 	time-selector="1000 BCE:1400"
-	center="38.9637, 35.2433"
-	zoom="3">
+	center="Q26253"
+	zoom="1.8">
 <param ve-map-layer
-	title="Distribution of watermelon."
 	url="watermelon_distribution.json"
 	geojson active>
 <param ve-image
@@ -186,12 +186,12 @@ Another artistic context in which watermelons were occasionally featured concern
 
 Paradoxically, the bright and appealing nature of the watermelon also lent itself to racist tropes in  nineteenth-century America. Watermelons were introduced there in the sixteenth century and were cultivated widely, from colonists’ kitchen gardens to those tended by African slaves. The ease with which watermelons were grown and sold meant that after the 1863 Emancipation Proclamation, they could became a source of income for freed slaves.[^ref14] Their cultivation and consumption became a means of enacting newfound freedoms as a public and communal activity. Emblematizing the potential for African Americans to escape the plantation economy, the watermelon soon became perceived as a threat by white southerners, who proceeded to transform it into a symbol of Black people’s unfitness for freedom and citizenship.
 <param ve-map
+	title="Distribution of watermelon, 1400 to 2000 CE."
 	basemap="Esri_WorldPhysical"
 	time-selector="1400:2000"
-	center="27.6648, -81.5158"
-	zoom="">
+	center="Q26253"
+	zoom="1.8">
 <param ve-map-layer
-	title="Distribution of watermelon."
 	url="watermelon_distribution.json"
 	geojson active>
 <param ve-image
