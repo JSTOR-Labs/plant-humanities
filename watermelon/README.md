@@ -120,7 +120,7 @@ In fact, centuries later, in 1888, watermelons were still being promoted as a fa
 	attribution="Annals of Botany">
 {#paragraph6}
 
-### Watermelons in Art Around the World
+### Watermelons in Art around the World
 
 By the ninth and twelfth centuries, watermelons had spread, respectively, to India and China, travelling regional trade routes.[^ref11] Distinguished by its sinewy vines, the fruit was associated with vitality and playfulness and soon became the object of artistic attention. Fourteenth-century Japanese representations of arhats—those who reached nirvana in the Buddhist tradition—for instance, show watermelons as a religious offering. Korean paintings from the Joseon Dynasty by the female artist Shin Saimdang (1504–1551) [depict](https://www.museum.go.kr/site/eng/relic/represent/view?relicId=2061) watermelons alongside flowers, butterflies, and mice, with their arching vines and exposed seeds symbolizing a wish for healthy and abundant children.[^ref12] One of Shin’s depictions of watermelons appears on the 5,000 won banknote today.[^ref13]
 <param ve-map
@@ -153,7 +153,7 @@ As the watermelon became common in European kitchen gardens, it began to appear 
 <param ve-image
 	title="‘Pineapple, watermelons and other fruits (Brazilian fruits)’ by Albert Eckhout (1610–1666)."
 	url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
-	fit="contain"
+	region="87,334,1667,1233"
 	attribution="Wikimedia Commons">
 <param ve-image
 	title="‘Watermelons, peaches, pears and other fruit in a landscape’ by Giovanni Stanchi (1608–1675)." url="https://upload.wikimedia.org/wikipedia/commons/0/00/Giovanni_Stanchi%2C_Watermelons%2C_Peaches%2C_Pears%2C_and_Other_Fruit_in_a_Landscape.jpg"
@@ -162,7 +162,7 @@ As the watermelon became common in European kitchen gardens, it began to appear 
 <param ve-image
 	title="‘Still life with watermelons’ by Sarah Miriam Peale (1800–1855)."
 	url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Still_Life_with_Watermelon%2C_by_Sarah_Miriam_Peale%2C_1822%2C_oil_on_panel_-_Fogg_Art_Museum%2C_Harvard_University_-_DSC01409.jpg"
-	fit="contain"
+	region="45,108,2088,1544"
 	attribution="Wikimedia Commons">
 {#paragraph8}
 
@@ -174,7 +174,7 @@ Another artistic context in which watermelons were occasionally featured concern
 	region="180,2179,4002,2751"
 	attribution="Dumbarton Oaks">
 <param ve-image
-	title="Watercolours of fruits from Asia, early 19th century. South East Asia. Dumbarton Oaks collection."
+	title="Watercolours of fruits from Asia, early 19th century. South East Asia."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:426038375"
 	seq="34"
 	region="511,31,4973,7021"
