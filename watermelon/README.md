@@ -68,7 +68,7 @@ The precise historical origins of the watermelon are obscured by its broad geogr
 	title="Distribution of watermelon."
 	basemap="Esri_WorldPhysical"
 	time-selector="3000 BCE:0"
-	center="Q5818"
+	center="Q26253"
 	zoom="1.8">
 <param ve-map-layer
 	url="watermelon_distribution.json"
