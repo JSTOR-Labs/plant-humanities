@@ -106,7 +106,7 @@ After European colonization, and along with the integration of the Canaries into
 	title="Between 1799 and 1804, Alexander von Humboldt visited the Canary Islands, Venezuela, Cuba, Peru, Ecuador, Mexico, and the United States."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Map_Alexander_von_Humboldt_expedition-en.svg/2844px-Map_Alexander_von_Humboldt_expedition-en.svg.png"
 	fit="contain">
-<param ve-image static
+<param ve-image
 	title="Engraving of the dragon trees of the House of Franchy in the Villa de La Orotava, from P. Barker-Webb and Sabin Berthelot, _Histoire Naturelle des Îles Canaries_ (1838)."
 	url="https://upload.wikimedia.org/wikipedia/commons/d/df/Berthelot_drago_franchy.jpg">
 {#paragraph8}
@@ -127,14 +127,14 @@ In 1799, as he stopped in Tenerife before his voyage to the Americas that would 
 
 Humboldt was not the only naturalist of his time attracted to the remarkable centenary dragon tree, as some three years before, in 1796, French naturalist André Pierre Ledru also found himself in M. Franchy’s garden, admiring the very same tree. The scarlet-colored resin was a critical aspect of the Guanche pharmacopoeia and a valuable piece of _naturalia_ that spurred the Canarian economy. By the turn of the nineteenth century, however, due to unsustainable cultivation techniques, the population of trees from which it was sourced was already in decline. This environmental degradation has only increased in intensity in the last two centuries with the intensification of human-driven ecological change, known as the Anthropocene.
 <param title="Anthropocene" eid="Q26841">
-<param ve-image static
+<param ve-image
 	title="A _Dracaena draco_ on a mountainside overlooking a twenty-first century industrial agriculture compound near Cenbio de Valerón, Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019."
 	url="clone-stamp-craze.jpg">
 {#paragraph10}
 
 As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_](https://archive.org/details/voyageauxlesdet00sonngoog/page/n135/mode/2up), which drew on observations he made during his trip to the Isles of Fortune some fourteen years earlier: “In days gone by, the resin that one extracts from the dragon tree was an important object of commerce for Teneriffe; but since the locals have neglected to replace the old trees that were worn out by too-frequent tapping (of the resin) with young plantations, this source will soon be exhausted. There exist perhaps less than fifty dragon trees left on the island.”[^ref13] This gradual, yet persistent, degradation of the _D. draco_ population was not solely due to Guanche overcultivation, either, as Spanish colonizers inflicted profound ecological changes upon the islands when they razed and destroyed large swaths of forests during their conquest and settlement of the Canaries three centuries earlier.[^ref14] Modern ecologists attribute the dragon tree’s decline to the disappearance of seed dispersers in the Canary Islands over the _longue durée_, potentially refuting Ledru’s assertion that _D. draco_’s deterioration was due to irresponsible Guanche farming practices.[^ref15]
 <param title="Isles of Fortune" eid="Q19211357" aliases="Isles of Fortune" article="Isles_of_Fortune"> 
-<param ve-image static
+<param ve-image
 	title="A small outcrop of _Dracaena draco_ trees at the oldest botanical garden on the Canary Islands, the Jardin Botanico Canario Viera y Clavijo in Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019."
 	url="IMG_9319.jpg">
 {#paragraph11}
