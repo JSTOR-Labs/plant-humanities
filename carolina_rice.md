@@ -45,7 +45,7 @@ How did these two types of rice make it across the oceans to Carolina? During th
 But it was not enough merely to bring the seed to Carolina. Rather, tidal-basin cultivation, as Catesby documents occurring in Carolina, was a specialized form of cultivation unknown at the time in England. This fact is highlighted in natural histories of the period. Consider [Catesby’s discussion of the wetland cultivation of rice](https://www.biodiversitylibrary.org/item/120381#page/41/mode/1up) in colonial America: “In March and April it is sown in shallow trenches made by the Hough, and good Crops have been made without any further Culture than dropping the seeds on the bare ground and covering it with the Earth, or in little Holes made to receive it without any further management.” Catesby uses the passive voice, which is not uncommon in his agricultural descriptions. And yet, this seemingly innocuous construction in fact erases the essential contributions and knowledge of enslaved people, without which Carolina rice would not have come to America and the crop in general could not have been cultivated in the wetlands.
 <param ve-image title="Late 19th-Century Drawing of the Rice Planting Process on a Carolina Plantation" url="https://images.nypl.org/index.php?id=1235183&t=w">
 
-Catesby makes the role of enslaved people in rice cultivation implicitly known [through his reference to the “Hough”](https://www.biodiversitylibrary.org/item/120381#page/41/mode/1up), which makes “shallow trenches” in the land. The hoe was not a prominent tool in European agriculture at the time, “which relied principally on draft animal traction”; such metal tools were not used by the local Native American population either. In colonial-era West Africa, however, the hoe was the primary tool used for field preparation.[^ref5] Catesby’s reference to the “Hough” thus belies a long history of West African knowledge being used in the Carolinas.
+Catesby makes the role of enslaved people in rice cultivation implicitly known [through his reference to the “Hough”](https://www.biodiversitylibrary.org/item/120381#page/41/mode/1up), which makes “shallow trenches” in the land. The hoe was not a prominent tool in European agriculture at the time, “which relied principally on draft animal traction”; such metal tools were not used by the local Native American population either. In colonial-era West Africa, however, the hoe was the primary tool used for field preparation.[^ref4] Catesby’s reference to the “Hough” thus belies a long history of West African knowledge being used in the Carolinas.
 <param ve-image title="1913 Drawing by Rice Planter Elizabeth Pringle" region="0,42,600,453" url="https://images.nypl.org/index.php?id=1149814&t=w">
 
 In the penultimate sentence of his description of rice, Catesby finally acknowledges the role of enslaved peoples in the crop’s production, [writing](https://www.biodiversitylibrary.org/item/120381#page/41/mode/1up), “they use a Hand-Mill, yet there remains an inner Film which clouds the Brightness of the grain, to get off which it is beat in large wooden Mortars, and Pestles of the same, by Negro Slaves, which is very laborious and tedious.” This mortar and pestle tool, another technology used in West Africa, was employed almost exclusively by women, demonstrating the gendered aspect of rice cultivation.
@@ -80,18 +80,12 @@ Through the complex history of Carolina rice, we not only see how rice was expli
 <param ve-map title="carolina rice points" center="23.950780, 0.270493" zoom="2">
 <param ve-map-layer geojson active title="The Varied Geographies of Carolina Rice" url="https://jstor-labs.github.io/plant-humanities/geojson/carolina rice points.json">
 
-[^ref1]: A.S. Salley. _The Introduction of Rice Culture into South Carolina_. Printed for the Commission by the State, 1919, p. 10
-
-[^ref2]: Judith Carney. _Black Rice: The African Origins of Rice Cultivation in the Americas_. Cambridge, Mass.: Harvard University Press, 2001, p. 145
-
-[^ref3]: Peter Wood. _Black Majority: Negroes In Colonial South Carolina From 1670 Through the Stono Rebellion_. New York: Alfred A. Knopf, 1975, p. 35-36
-
-[^ref4]: Carney, _Black Rice_, p. 92-93
-
-[^ref5]: Carney, Black Rice, p. 108-110
-
-[^ref6]: R.C. Nash "South Carolina and the Atlantic Economy in the Late Seventeenth and Eighteenth Centuries." _The Economic History Review_, New Series, 45, no. 4 (1992), 679-681.
-
-[^ref7]: Mike Davis. _Late Victorian Holocausts: El Niño Famines and the Making of the Third World_. London: Verso, 2002.
-
-[^ref8]: Utsa Ray. _Culinary Culture in Colonial India : A Cosmopolitan Platter and the Middle-class_. Delhi: Cambridge University Press, 2015, p. 50. 
+### References
+[^ref1]: A.S. Salley, “The Introduction of Rice Culture into South Carolina,”  Bulletin of the Historical Commission of South Carolina, no. 6, (1919):10.
+[^ref2]: Judith Carney, Black Rice: The African Origins of Rice Cultivation in the Americas (Cambridge, Mass.: Harvard University Press, 2001), 145.
+[^ref3]: Peter Wood, Black Majority: Negroes in Colonial South Carolina From 1670 Through the Stono Rebellion (New York: Alfred A. Knopf, 1975), 35–36.
+[^ref4]: Judith Carney, Black Rice, 92–93.
+[^ref5]: Judith Carney, Black Rice, 108–110.
+[^ref6]: R.C. Nash, “South Carolina and the Atlantic Economy in the Late Seventeenth and Eighteenth Centuries,” The Economic History Review, New Series, 45, no. 4 (1992): 679–681.
+[^ref7]: Mike Davis, Late Victorian Holocausts: El Niño Famines and the Making of the Third World (London: Verso, 2002).
+[^ref8]: Utsa Ray, Culinary Culture in Colonial India: A Cosmopolitan Platter and the Middle-class (Delhi: Cambridge University Press, 2015), 50.
