@@ -1,6 +1,6 @@
 <param ve-config
 	title="Cultivating Cassava: From Toxic Tuber to Staple Starch"
-	banner="https://upload.wikimedia.org/wikipedia/commons/8/83/Socotra_dragon_tree.JPG"
+	banner="https://raw.githubusercontent.com/melindasusanto/demo1/master/Crosby.jpg"
 	layout="vtl"
 	num-maps="0"
 	num-specimens="0"
@@ -9,7 +9,7 @@
 	author="Christina Emery, Rachel Hirsch, and Melinda Susanto">
 <param title="" eid="" aliases="">
 
-
+### Introduction
 
 When eaten raw, cassava is likely to leave a bitter taste in one’s mouth. Worse still, the unprocessed plant, containing high levels of cyanide, is poisonous to humans and can paralyze when eaten. Despite these deterring properties, cassava has long been culturally and nutritionally significant. And as a result of Indigenous peoples of Meso- and South America discovering a way to render it edible through extensive processing, today processed cassava is enjoyed by 600 million people.  One of the world’s major food crops alongside maize, rice, and wheat, cassava is cultivated as far away from its native habitat in South America as Southeast Asia. Nigeria is the world’s largest producer of cassava, where it is a primary source of carbohydrates for many and is consumed as part of a popular dish known as fufu. 
 How did cassava come to occupy this pride of place in the global food system? How did cassava transform from a poisonous tuber into a major food staple, and from an exclusive dweller of South America into a cosmopolitan citizen of the world? To answer these questions, this essay looks at how human interactions with cassava helped shape the plant into the significant food crop that it is today. We first look at the elaborate method of processing cassava developed by the Indigenous peoples of Meso- and South America and then turn to the codification and spread of this knowledge, facilitated by European travelers to the New World. This meeting of Indigenous and European knowledge systems, combined with cassava’s tolerance for drought, resulted in a food crop that would create new hope for global food security in the twentieth and twenty-first centuries. Furthermore, as knowledge of cassava and its specimens circulated to different parts of the world, the plant took on additional cultural meanings through novel culinary uses and artistic representations.	
@@ -23,7 +23,7 @@ The Moche ceramic contains further clues as to early Andean understanding of cas
 
 [Visualisation: Moche ceramic, botanical frog: http://museum.doaks.org/objects-1/info/22560]
 
-Indigenous Knowledge: How to Process Poison 
+### Indigenous Knowledge: How to Process Poison 
 
 While storing cassava in the soil addresses the issue of perishability, additional steps need to be taken to ensure that its roots can be safely eaten upon harvesting. In the Amazon, cassava is popularly divided into two major types—sweet and bitter—depending on the level of toxicity. Sweet cassava can be eaten simply by peeling and boiling it. Bitter cassava must be processed using a specific method before being safely consumed.  The danger lies in cyanogenic glucosides, the amount of which varies depending on the type of cassava, the climate, and the season in which it is cultivated.  Women in Meso- and South America are primarily responsible for the processing of cassava and transforming the poisonous plant into flour for casaba, or cassava bread, and into a fermented beverage known as chicha. It is a multi-step process that includes washing and grating the cassava root, mashing it into a pulp, then hanging, dehydrating, and finally baking the dried pulp on a hot surface. 
 
@@ -50,7 +50,7 @@ With this transfer of knowledge from South America to Africa, other innovations 
 
 [Visualisation: image of cassava leaves]
 
-Food of the Future? 
+### Food of the Future? 
 
 Today, Nigeria is the world’s largest producer of cassava, with over 34 million tons of cassava roots produced every year. A study carried out by Nigeria’s Department of Agriculture notes that cassava is a particularly suitable crop for the country’s predominantly smallholder farming. The plant’s most important characteristics that make it a crucial for household food are its year-round availability and resistance to drought, pests, and diseases.  As more regions of the world face desertification, cassava’s ability to grow in dry climates will become even more important for preventing food scarcity in the future. 
 
@@ -69,42 +69,80 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 ### References
 
-  “Partnership Formed to Improve Cassava, Staple Food of 600 Million People,” Food and Agriculture Organization of the United Nations, November 5, 2002. http://www.fao.org/english/newsroom/news/2002/10541-en.html
-  Donald Ugent, Shelia Pozorski, and Thomas Pozorski, “Archaeological Manioc (Manihot) from Coastal Peru,” Economic Botany 40, no. 1 (1986): 99.
-  Donald Ugent, Shelia Pozorski, and Thomas Pozorski, “Archaeological Manioc (Manihot) from Coastal Peru.”
-  Donald Ugent, Shelia Pozorski, and Thomas Pozorski, “Archaeological Manioc (Manihot) from Coastal Peru,” 80.
-  Donna McClelland, “The Moche Botanical Frog,” Arqueología Iberoamericana 10 (2011): 40.
-  Donna McClelland, “The Moche Botanical Frog,” 35.
-  Donna McClelland, “The Moche Botanical Frog.”
-  Darna L. Dufour, “A Closer Look at the Nutritional Implications of Bitter Cassava Use,” in Indigenous Peoples and the Future of Amazonia: An Ecological Anthropology of an Endangered World, ed. Leslie E. Sponsel (Tucson: University of Arizona Press, 1995), 151.
-   Darna L. Dufour, “A Closer Look at the Nutritional Implications of Bitter Cassava Use.”
-  Darna L. Dufour, “A Closer Look at the Nutritional Implications of Bitter Cassava Use,” 152–53.
-  William O. Jones, “Manioc: An Example of Innovation in African Economies,” Economic Development and Cultural Change 5, no. 2 (1957): 103.
-  A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” Food Security 9, (2017): 914–915. 
-  J. Bulkan, “The Place of Bitter Cassava in the Social Organization and Belief Systems of Two Indigenous Peoples of Guyana,” Culture, Agriculture, Food and the Environment 41, no. 2 (2019): 120.
-  J. Bulkan, “The Place of Bitter Cassava in the Social Organization and Belief Systems of Two Indigenous Peoples of Guyana,” 121.
-  A. Parmer, B. Sturm, and O. Hensel, “Crops That Feed the World,” 907. 
-  Judith Ann Carney and Richard Nicholas Rosomoff, In the Shadow of Slavery (Berkeley and Los Angeles: University of California Press, 2009), 108, 112; Kaori O’Connor, “Beyond ‘Exotic Groceries’: Tapioca/Cassava/Manioc, a Hidden Commodity of Empires and Globalisation,” in Global Histories, Imperial Commodities, Local Interactions, ed. Jonathan Curry-Machado (Hampshire and New York: Palgrave Macmillan, 2013), 227.
-  Alicia C. Montoya and Rindert Jagersma, “Marketing Maria Sybilla Merian, 1720-1800: Book Auctions, Gender and Reading Culture in the Dutch Republic,” Book History 21 (2018): 56–88.
-  Maria Sibylla Merian, Metamorphosis insectorum Surinamensium (Amstelaedami : Joannem Oosterwyk, 1719), 5. https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16 
-  “Inquiries and Directions for the Antilles, or Caribbee Islands, No. 33, 634,” Philosophical Transactions of Royal Society of London (1668): 227, 231. https://www.biodiversitylibrary.org/page/23264930; Kaori O’Connor, “Beyond ‘Exotic Groceries,” 229–231.
-  Jean de Léry, History of a Voyage to the Land of Brazil, Otherwise Called America (Berkeley: University of California Press, 1990). 
-  Antonio de León Pinelo, Cuestion moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias (Madrid: Por la viuda de Iuan Gonçalez, 1636). https://www.biodiversitylibrary.org/page/55670844; Bedford Pim and Berthold Seemann, Dottings on the Roadside, in Panama, Nicaragua, and Mosquito (London: Chapman and Hall, 1869), 405–406. http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871
-  Ana Lucia Barretto Penna, Luis A. Nero, and Svetoslav D. Todorov, Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications (Boca Raton, Florida: CRC Press, 2017), 233. 
-  Antoine-François de Fourcroy and Jean-Michel Papillon, Élémens d’histoire naturelle et de chemie (Paris: Chez Cuchet, 1786), 106. https://www.biodiversitylibrary.org/page/57980618
-   Carney and Rosomoff, In the Shadow of Slavery, 54.
-  Judith Ann Carney and Richard Nicholas Rosomoff, In the Shadow of Slavery.
-  Judith Ann Carney and Richard Nicholas Rosomoff, In the Shadow of Slavery.
-  J. D. La Fleur, Fusion Foodways of Africa's Gold Coast in the Atlantic Era (Leiden; Boston: Brill, 2012), 155; William O. Jones, “Manioc,” 110.
-  J. D. La Fleur, Fusion Foodways, 164.
-  Judith Ann Carney and Richard Nicholas Rosomoff, In the Shadow of Slavery, 178.
-  J. D. La Fleur, Fusion Foodways, 177. 
-  J. D. La Fleur, Fusion Foodways, 176; A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World,” 908. 
-  A. A. Adeniji et al., “Cassava Development in Nigeria: A Country Case Study towards a Global Strategy for Cassava Development,” Food and Agriculture Organization of the United Nations. http://www.fao.org/3/a0154e/A0154E05.htm
-  “Partnership Formed to Improve Cassava.”
-  “Partnership Formed to Improve Cassava.”
-  Judith Ann Carney and Richard Nicholas Rosomoff, In the Shadow of Slavery, 180.
-  MOCA, Njideka Akunyili Crosby (Los Angeles, 2018). https://www.youtube.com/watch?v=pUZijlho9CM 
-  Artist Talk Njideka Akunyili Crosby, Whitney Museum of American Art (New York, 2018).
-  Tyler Green, “Njideka Akunyili Crosby, Bierstadt’s West,” The Modern Art Notes Podcast, 2019. https://manpodcast.com/portfolio/no-374-njideka-akunyili-crosby-bierstadts-west/
-  MOCA, Njideka Akunyili Crosby.
+[^ref1]: “Partnership Formed to Improve Cassava, Staple Food of 600 Million People,” _Food and Agriculture Organization of the United Nations_, November 5, 2002. [http://www.fao.org/english/newsroom/news/2002/10541-en.html](http://www.fao.org/english/newsroom/news/2002/10541-en.html)
+
+[^ref2]: Donald Ugent, Shelia Pozorski, and Thomas Pozorski, “Archaeological Manioc (Manihot) from Coastal Peru,” _Economic Botany_ 40, no. 1 (1986): 99.
+
+[^ref3]: Donald Ugent, Shelia Pozorski, and Thomas Pozorski, “Archaeological Manioc (Manihot) from Coastal Peru.”
+
+[^ref4]: Donald Ugent, Shelia Pozorski, and Thomas Pozorski, “Archaeological Manioc (Manihot) from Coastal Peru,” 80.
+
+[^ref5]: Donna McClelland, “The Moche Botanical Frog,” _Arqueología Iberoamericana_ 10 (2011): 40.
+
+[^ref6]: Donna McClelland, “The Moche Botanical Frog,” 35.
+
+[^ref7]: Donna McClelland, “The Moche Botanical Frog.”
+
+[^ref8]: Darna L. Dufour, “A Closer Look at the Nutritional Implications of Bitter Cassava Use,” in _Indigenous Peoples and the Future of Amazonia: An Ecological Anthropology of an Endangered World_, ed. Leslie E. Sponsel (Tucson: University of Arizona Press, 1995), 151.
+
+[^ref9]: Darna L. Dufour, “A Closer Look at the Nutritional Implications of Bitter Cassava Use.”
+
+[^ref10]: Darna L. Dufour, “A Closer Look at the Nutritional Implications of Bitter Cassava Use,” 152–53.
+
+[^ref11]: William O. Jones, “Manioc: An Example of Innovation in African Economies,” _Economic Development and Cultural Change_ 5, no. 2 (1957): 103.
+
+[^ref12]: A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” _Food Security_ 9, (2017): 914–915. 
+
+[^ref13]: J. Bulkan, “The Place of Bitter Cassava in the Social Organization and Belief Systems of Two Indigenous Peoples of Guyana,” _Culture, Agriculture, Food and the Environment_ 41, no. 2 (2019): 120.
+
+[^ref14]: J. Bulkan, “The Place of Bitter Cassava in the Social Organization and Belief Systems of Two Indigenous Peoples of Guyana,” 121.
+
+[^ref15]: A. Parmer, B. Sturm, and O. Hensel, “Crops That Feed the World,” 907. 
+
+[^ref16]: Judith Ann Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery_ (Berkeley and Los Angeles: University of California Press, 2009), 108, 112; Kaori O’Connor, “Beyond ‘Exotic Groceries’: Tapioca/Cassava/Manioc, a Hidden Commodity of Empires and Globalisation,” in _Global Histories, Imperial Commodities, Local Interactions_, ed. Jonathan Curry-Machado (Hampshire and New York: Palgrave Macmillan, 2013), 227.
+
+[^ref17]: Alicia C. Montoya and Rindert Jagersma, “Marketing Maria Sybilla Merian, 1720-1800: Book Auctions, Gender and Reading Culture in the Dutch Republic,” _Book History_ 21 (2018): 56–88.
+
+[^ref18]: Maria Sibylla Merian, _Metamorphosis insectorum Surinamensium_ (Amstelaedami: Joannem Oosterwyk, 1719), 5. [https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16](https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16)
+
+[^ref19]: “Inquiries and Directions for the Antilles, or Caribbee Islands, No. 33, 634,” _Philosophical Transactions of Royal Society of London_ (1668): 227, 231. [https://www.biodiversitylibrary.org/page/23264930](https://www.biodiversitylibrary.org/page/23264930); Kaori O’Connor, “Beyond ‘Exotic Groceries,” 229–231.
+
+[^ref20]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_ (Berkeley: University of California Press, 1990). 
+
+[^ref21]: Antonio de León Pinelo, _Cuestion moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias_ (Madrid: Por la viuda de Iuan Gonçalez, 1636). [https://www.biodiversitylibrary.org/page/55670844](https://www.biodiversitylibrary.org/page/55670844); Bedford Pim and Berthold Seemann, _Dottings on the Roadside, in Panama, Nicaragua, and Mosquito_ (London: Chapman and Hall, 1869), 405–406. [http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871](http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871)
+
+[^ref22]: Ana Lucia Barretto Penna, Luis A. Nero, and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications_ (Boca Raton, Florida: CRC Press, 2017), 233. 
+
+[^ref23]: Antoine-François de Fourcroy and Jean-Michel Papillon, _Élémens d’histoire naturelle et de chemie_ (Paris: Chez Cuchet, 1786), 106. [https://www.biodiversitylibrary.org/page/57980618](https://www.biodiversitylibrary.org/page/57980618)
+
+[^ref24]: Carney and Rosomoff, _In the Shadow of Slavery_, 54.
+
+[^ref25]: Ibidem.
+
+[^ref26]: Ibidem.
+
+[^ref27]: J. D. La Fleur, _Fusion Foodways of Africa's Gold Coast in the Atlantic Era_ (Leiden; Boston: Brill, 2012), 155; William O. Jones, “Manioc,” 110.
+
+[^ref28]: J. D. La Fleur, _Fusion Foodways_, 164.
+
+[^ref29]: Judith Ann Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery_, 178.
+
+[^ref30]: J. D. La Fleur, _Fusion Foodways_, 177. 
+
+[^ref31]: Ibid., 176; A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World,” 908. 
+
+[^ref32]: A. A. Adeniji et al., “Cassava Development in Nigeria: A Country Case Study towards a Global Strategy for Cassava Development,” _Food and Agriculture Organization of the United Nations_. [http://www.fao.org/3/a0154e/A0154E05.htm](http://www.fao.org/3/a0154e/A0154E05.htm)
+
+[^ref33]: “Partnership Formed to Improve Cassava.”
+
+[^ref34]: Ibid.
+
+[^ref35]: Carney and Rosomoff, _In the Shadow of Slavery_, 180.
+
+[^ref36]: MOCA, _Njideka Akunyili Crosby_ (Los Angeles, 2018). [https://www.youtube.com/watch?v=pUZijlho9CM](https://www.youtube.com/watch?v=pUZijlho9CM)
+
+[^ref37]: _Artist Talk Njideka Akunyili Crosby_, Whitney Museum of American Art (New York, 2018).
+
+[^ref38]: Tyler Green, “Njideka Akunyili Crosby, Bierstadt’s West,” The Modern Art Notes Podcast, 2019. [https://manpodcast.com/portfolio/no-374-njideka-akunyili-crosby-bierstadts-west/](https://manpodcast.com/portfolio/no-374-njideka-akunyili-crosby-bierstadts-west/)
+
+[^ref39]: MOCA, _Njideka Akunyili Crosby_.
