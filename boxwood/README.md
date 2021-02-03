@@ -86,10 +86,15 @@ One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand begi
 <param ve-map-layer
 	mapwarper mapwarper-id="50944"
 	active>
-<param ve-map-layer 
+<param ve-map-layer
 	data-type="geojson"
-	data-url=""
-	data-active="true">
+	data-url="box-walk.json">
+<param ve-map-layer
+	data-type="geojson"
+	data-url="box-terrace.json">
+<param ve-map-layer
+	data-type="geojson"
+	data-url="box-ellipse.json">
 {#paragraph3}
 
 ### “A Plant Known to Everybody”
