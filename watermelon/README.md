@@ -96,7 +96,7 @@ Watermelons were cultivated in Spain after the Arab conquest, with evidence of t
 	fit="contain"
 	attribution="BHL">
 <param ve-image
-	title="Citrull cocumber in Gerard’s _Herball_."
+	title="Citrull cucumber in Gerard’s _Herball_."
 	url="https://www.archive.org/download/mobot31753000817756/page/n949_w320"
 	fit="contain"
 	attribution="BHL">
