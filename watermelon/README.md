@@ -80,7 +80,7 @@ In Africa’s arid savanna regions, watermelons were originally welcomed as sour
 <param ve-image
 	title="Kalahari watermelon."
 	url="https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F69718619%2Foriginal.jpg%3F1588016254"
-	fit="contain"
+	region="194,69,1707,1263"
 	attribution="GBIF">
 {#paragraph3}
 
