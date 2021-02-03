@@ -72,6 +72,7 @@ Although European herbals such as Hernández’s perpetuated cultural myths that
 <param ve-map prefer-geojson center="Q495448" fill="#cc9933" stroke="#cc6600" stroke-width="4" title="Hayes Shelter prehistoric site, Marshall County, central Tennessee" zoom="7.5" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
+<param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America|central Tennessee">
 <param ve-entity eid="Q491017" title="Pike County" aliases="eastern North America">
 <param ve-entity eid="Q110510" title="Crawford County" aliases="eastern North America">
 <param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
