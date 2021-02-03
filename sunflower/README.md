@@ -57,6 +57,7 @@ The advent of the florilegium in the 1610s was integral to the blossoming of sun
 ![](Sunflower emoji_openmoji.org_tiny.jpg){: .left}
 
 ### Mythic Encounters and Scientific Debates
+<param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America|central Tennessee">
 
 <param ve-entity eid="Q170603" title="Viceroyalty of New Spain" aliases="New Spain">
 The migration of sunflower iconography from one source to another is evidenced in the pages of Francisco Hernández’s _[Nova plantarum](https://www.biodiversitylibrary.org/page/54114015)_, published posthumously in 1651.[^ref10] The book purports to document plants and animals that the naturalist and physician and his team, which included several Indigenous artists, observed during a three-year expedition through New Spain (present-day Mexico) in the 1570s.[^ref11] However, its illustrations of sunflowers, shown here, were not drawn on site from local flora but rather borrowed from European models. The upper illustration was adapted directly or through intermediary sources from Besler’s _Flos Solis maior_. The lower image repurposes a design from a [florilegium](http://hdl.handle.net/10934/RM0001.COLLECT.432189) that was itself republished in an [herbal](https://www.biodiversitylibrary.org/page/7815694).[^ref12] These appropriations have been interpreted as evidence that Hernández’s team of artists or those working on his manuscript at a later date had to copy existing imagery because the sunflower was not established in New Spain at the time of his expedition.[^ref13] If that is so, as several modern-day botanists argue, Hernández’s discussion of the sunflower implied a mythic encounter with the plant that reproduced European misconceptions about its range.
@@ -67,12 +68,10 @@ The migration of sunflower iconography from one source to another is evidenced i
 
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
 <param ve-entity eid="Q14714" title="achene" aliases="achenes">
-<param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
 Although European herbals such as Hernández’s perpetuated cultural myths that the domesticated sunflower was present in Mexico prior to colonization or originated in Peru, botanists have since debunked these ideas by using distribution maps and fossilized remains to study the plant’s origin and range.[^ref14] The earliest known cultivated sunflower remains—charred seeds (achenes)—tell us that humans used _Helianthus annuus_ at Hayes shelter in central Tennessee by 5000 BP and parts of eastern North America by 3000 BP.[^ref15] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref16]
 <param ve-map prefer-geojson center="Q495448" fill="#cc9933" stroke="#cc6600" stroke-width="4" title="Hayes Shelter prehistoric site, Marshall County, central Tennessee" zoom="7.5" show-label="true">
 
 <param ve-entity eid="Q80914" title="Tabasco">
-<param ve-entity eid="Q495448" title="Marshall County" aliases="eastern North America">
 <param ve-entity eid="Q491017" title="Pike County" aliases="eastern North America">
 <param ve-entity eid="Q110510" title="Crawford County" aliases="eastern North America">
 <param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
