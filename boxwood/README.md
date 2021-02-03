@@ -82,7 +82,8 @@ One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand begi
 	prefer-geojson
 	title="Dumbarton Oaks garden."
 	data-center="38.914468, -77.062895"
-	data-zoom="17.8">
+	data-zoom="17.8"
+	marker-type="none">
 <param ve-map-layer
 	mapwarper mapwarper-id="50944"
 	active>
