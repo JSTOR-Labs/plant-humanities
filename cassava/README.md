@@ -224,7 +224,7 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 [^ref30]: J. D. La Fleur, _Fusion Foodways_, 177. 
 
-[^ref31]: Ibid., 176; A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World,” 908. 
+[^ref31]: Ibid., 176; Parmer, Sturm, and Hensel, “Crops that Feed the World,” 908. 
 
 [^ref32]: A. A. Adeniji et al., “Cassava Development in Nigeria: A Country Case Study towards a Global Strategy for Cassava Development,” _Food and Agriculture Organization of the United Nations_, [http://www.fao.org/3/a0154e/A0154E05.htm](http://www.fao.org/3/a0154e/A0154E05.htm).
 
