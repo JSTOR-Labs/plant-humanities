@@ -69,14 +69,18 @@ Wild ancestors of the domesticated _Manihot esculenta_—known more commonly as 
 
 Representations of cassava made by Moche artists provide clues as to how the plant was understood and appreciated by Andean peoples in the first millennium of the Common Era. Moche artists often represented cassava together with _Leptodactylus pentadactylus_—a frog found throughout the Amazon—as shown in [this ceramic](http://museum.doaks.org/objects-1/info/22560) from Dumbarton Oaks’s collection. The smoky jungle frog, as this species is commonly called, was likely associated with agriculture, and representations of frogs may have been used in harvest-related rituals.[^ref5] Cassava may have held similar significance to Andean peoples, and ceramics such as this one may have been used to ensure a bountiful cassava harvest.
 <param title="Amazon rainforest" eid="Q177567" aliases="Amazon">
+<param ve-image
+	curtain="true"
+	title="Moche ceramic, botanical frog."
+	url="Jar-depicting-the-botanical-frog.jpg"
+	attribution="Dumbarton Oaks Research Library, Washington, D.C.">
+<param ve-image
+	title="Smoky Jungle Frog (_Leptodactylus pentadactylus_)."
+	url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Bull_frog_%28Leptodactylus_pentadactylus%29.jpg"
+	attribution="Wikimedia Commons.">
 {#paragraph4}
 
 The Moche ceramic contains further clues as to early Andean understanding of cassava. Moche artists may have chosen to pair the cassava plant with the frog to highlight characteristics they share. Both were known for being poisonous and for their capacity to survive underground for long periods of time.[^ref6] Indeed, while cassava roots are the most commonly eaten part of the plant, they go bad quickly when dug up from the soil. However, if cassava is left in the ground, it can survive for up to four years and be harvested periodically.[^ref7]
-<param ve-image
-	title="Moche ceramic, botanical frog."
-	url="http://museum.doaks.org/objects-1/info/22560"
-	attribution="Dumbarton Oaks Research Library, Washington, D.C.">
-	https://upload.wikimedia.org/wikipedia/commons/6/6e/Bull_frog_%28Leptodactylus_pentadactylus%29.jpg
 {#paragraph5}
 
 ### Indigenous Knowledge: How to Process Poison
