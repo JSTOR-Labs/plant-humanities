@@ -77,7 +77,7 @@ Representations of cassava made by Moche artists provide clues as to how the pla
 <param ve-image
 	title="Smoky Jungle Frog (_Leptodactylus pentadactylus_)."
 	url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Bull_frog_%28Leptodactylus_pentadactylus%29.jpg"
-	region="2,228,1964,1453"
+	region="1,205,1638,1211"
 	attribution="Wikimedia Commons.">
 {#paragraph4}
 
