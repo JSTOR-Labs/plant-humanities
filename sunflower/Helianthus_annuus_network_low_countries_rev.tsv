@@ -1,0 +1,39 @@
+source	source.label	target	target.label	edge
+Q1333338	John Gerard	Q42190826	The Herball (London, 1597)	translator of
+Q42190826	The Herball (London, 1597)	Q743600	Stirpium historiae pemptades sex (1583)	translation of
+	A Niewe Herball (1578)		Cruydeboeck (Antwerp, 1554)	translation of
+Q1333338	John Gerard	Q21	ENGLAND	lives in
+Q950531	Nicolas Monardes		Dos libros (Seville, 1569)	author of
+Q950531	Nicolas Monardes	Q27582642	Joachim Hopper	acquaintance of
+Q950531	Nicolas Monardes	Q29	SPAIN	lives in
+Q27582642	Joachim Hopper	Q29	SPAIN	lives in
+	Juan Fragoso	Q29	SPAIN	lives in
+Q950531	Nicolas Monardes		Juan Fragoso	acquaintance of
+Q457191	Pietro Andrea Mattioli		I discorsi di M. Pietro Andrea Matthioli (Venice, 1568)	author of
+Q457191	Pietro Andrea Mattioli	Q38	ITALY	lives in
+Q356009	Giacomo Antonio Cortuso	Q38	ITALY	lives in
+Q457191	Pietro Andrea Mattioli	Q356009	Giacomo Antonio Cortuso	acquaintance of
+Q437466	Rembert Dodoens	Q356009	Giacomo Antonio Cortuso	acquaintance of
+Q437466	Rembert Dodoens	Q743600	Cruydeboeck (Antwerp, 1554)	author of
+Q437466	Rembert Dodoens	Q51476697	Florum, et coronarianum (Antwerp, 1568)	author of
+Q2094286	Pieter van der Borcht	Q51476697	Florum, et coronarianum (Antwerp, 1568)	designer of illustrations for
+Q27582642	Joachim Hopper	Q437466	Rembert Dodoens	acquaintance of
+Q437466	Rembert Dodoens	Q476033	LOW COUNTRIES	lives in
+Q2094286	Pieter van der Borcht	Q476033	LOW COUNTRIES	lives in
+	Christopher Plantin	Q476033	LOW COUNTRIES	lives in
+	Christopher Plantin	Q51476697	Florum, et coronarianum (Antwerp, 1568)	publisher of
+Q437466	Rembert Dodoens		Stirpium historiae pemptades sex (1583)	author of
+	Christopher Plantin		Stirpium historiae pemptades sex (1583)	publisher of
+Q2085381	PUBLISHER		Christopher Plantin	example of
+Q483501	ARTIST	Q2094286	Pieter van der Borcht	example of
+Q2374149	BOTANIST	Q437466	Rembert Dodoens	example of
+Q2374149	BOTANIST	Q457191	Pietro Andrea Mattioli	example of
+Q2374149	BOTANIST	Q950531	Nicolas Monardes	example of
+Q2374149	BOTANIST	Q1333338	John Gerard	example of
+Q150862	Maximilian II, Holy Roman Emperor	Q437466	Rembert Dodoens	patron of
+Q150862	Maximilian II, Holy Roman Emperor	Q457191	Pietro Andrea Mattioli	patron of
+Q34417	Philip II of Spain	Q27582642	Joachim Hopper	patron of
+Q15472169	PATRON	Q34417	Philip II of Spain	example of
+Q15472169	PATRON	Q150862	Maximilian II, Holy Roman Emperor	example of
+Q34417	Philip II of Spain	Q29	SPAIN	king of
+Q65968	House of Habsburg	Q150862	Maximilian II, Holy Roman Emperor	member of

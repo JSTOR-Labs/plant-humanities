@@ -51,22 +51,9 @@ Mark Twain once said that the watermelon “is the chief of this world’s luxur
 
 ### Whose Vine Is It Anyway?
 
-The precise historical origins of the watermelon are obscured by its broad geographical spread today and many existent varieties, as well as the fact that its most iconic component—the tender, watery flesh—does not survive well in the archaeological record. When we refer to watermelon, we usually mean the “sweet dessert” cultivars of _Citrullus lanatus_, but the _Citrullus_ genus includes at least six other species, including the citron melon (_Citrullus caffer_), egusi melon (_Citrullus mucosospermus_), and colocynth melon (_Citrullus colocynthis_).[^ref2] Though the watermelon’s origins have been located throughout the African continent, current hypotheses point to its first domestication in northeastern Africa around six thousand years ago. Wild desert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya, adjacent to the Nile Valley.[^ref3] Some of the earliest iconography of oblong melons—an indication of their domestication—can be found in Egyptian tombs and Roman and Byzantine mosaics, with seeds also found in the famous King Tutankhamen’s tomb.[^ref4]
-<param ve-plant-specimen
-	eid="Q30160603"
-	max="2">
-<param ve-image
-	title="Representations of watermelon in Egyptian tombs."
-	url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/116/2/10.1093_aob_mcv077/2/mcv077f2p.png?Expires=1599137500&Signature=R-SPwg8TMVoQjtTuWH~HxugVkhIGbt6Jbh~qJv9YIzrz8CKD2JJUkfkcfZgF6N1mEmDkiXwIdyBr7IN8O8cIVvXJyeQFqr5G7gb~8ZvMRo1O0SPU4md~VWlToHpEklMkrX1qXbf-hrk0E-pgjjUT~jZbxp~wxd56NOV8-Xx7OhD~Kf4q0UuI6I81CFwO7aAzWfFtfbgscQTKquRGow81UBR9aNJJ5gh7jpOGZ3nr9A1~fUDuSmnqr1DbTZ67CjsLmb3qSEsw5ReuBqlUJJUEIaYUGstmRegjrnhrPpF9zhIZ13ats0ADxNeubChfhUte22fulFhjYxTaGbJN2DS04Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-	fit="contain"
-	attribution="Annals of Botany">
-<param ve-image
-	title="Round cucurbits, possibly watermelons, found in different Roman and Byzantine mosaics dated 425–600 CE in Israel."
-	url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/114/2/10.1093_aob_mcu106/3/mcu10606.jpeg?Expires=1599137594&Signature=bQYlzxcLbJtkOGTL6A7WM0WCyGwkZuHfT1I1zKUSbjxnn0OQVUQvlewQ~l3QGANeVt~Y9tZUFSFImcd7XVKgdZJbwIqOrmuODRnbNn5wXJGWlTMKCfZBwoE9mI78CvMeGFfSoD5bJgnlNWrkBJT4nrLkFYvGuopdQqmSpDKi9PvtgThhV~6RSh1ALDIwf59aS~I4VeOmQotBrg9EwD~2RwYGYvIyOa1u2BWgEgoDd9k96eaGwP73p6-soaCjrfLAlAG0yUcHa1~7HmuCTOaJ-0SX5Y2ONYHj4u0Rr7lSV4V8fAGysp7PuiEIZp7Y5C12GadGxuzvqcr6z9w3WZN5OQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-	fit="contain"
-	attribution="Annals of Botany">
+The precise historical origins of the watermelon are obscured by its broad geographical spread today and many existent varieties, as well as the fact that its most iconic component—the tender, watery flesh—does not survive well in the archaeological record. When we refer to watermelon, we usually mean the “sweet dessert” cultivars of _Citrullus lanatus_, but the _Citrullus_ genus includes at least six other species, including the citron melon (_Citrullus caffer_), egusi melon (_Citrullus mucosospermus_), and colocynth melon (_Citrullus colocynthis_).[^ref2] Though the watermelon’s origins have been located throughout the African continent, current hypotheses point to its first domestication in northeastern Africa around six thousand years ago. Wild desert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya, adjacent to the Nile Valley.[^ref3] Some of the earliest iconography of oblong melons—an indication of their domestication—can be found in Egyptian tombs and Roman and Byzantine mosaics, with seeds also found in the tomb of the famous King Tutankhamen.[^ref4]
 <param ve-map
-	title="Distribution of watermelon, ."
+	title="Distribution of watermelon, 3000 BCE to 0."
 	basemap="Esri_WorldPhysical"
 	time-selector="3000 BCE:0"
 	center="Q26253"
@@ -74,13 +61,16 @@ The precise historical origins of the watermelon are obscured by its broad geogr
 <param ve-map-layer
 	url="watermelon_distribution.json"
 	geojson active>
+<param ve-plant-specimen
+	eid="Q30160603"
+	max="2">
 {#paragraph2}
 
 In Africa’s arid savanna regions, watermelons were originally welcomed as sources of liquid, their flesh generally being cooked or beaten to a pulp to extract the juice. In the Kalahari Desert in southern Africa, the multiple uses of the flesh, rind, and seeds that were eaten fresh, cooked, and dried also helped some population groups to remain sedentary and hydrated throughout both wet and dry seasons.[^ref5] As they became domesticated, watermelons were bred to yield softer and sweeter flesh and exclude such less desirable traits as the mucilaginous egusi seeds or the hard, bitter flesh of the citron melon, although western and southern African cuisines still make use of them today.[^ref6]
 <param ve-image
 	title="Kalahari watermelon."
 	url="https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F69718619%2Foriginal.jpg%3F1588016254"
-	fit="contain"
+	region="194,69,1707,1263"
 	attribution="GBIF">
 {#paragraph3}
 
@@ -106,7 +96,7 @@ Watermelons were cultivated in Spain after the Arab conquest, with evidence of t
 	fit="contain"
 	attribution="BHL">
 <param ve-image
-	title="Citrull cocumber in Gerard’s _Herball_."
+	title="Citrull cucumber in Gerard’s _Herball_."
 	url="https://www.archive.org/download/mobot31753000817756/page/n949_w320"
 	fit="contain"
 	attribution="BHL">

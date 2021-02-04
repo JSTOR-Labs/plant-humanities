@@ -76,20 +76,23 @@ Boxwood is a genus of evergreen shrubs that enjoys great commercial success as o
 	region="154,53,900,667">
 {#paragraph2}
 
-One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace (now called Urn Terrace), and the <span data-mouseover-map-flyto="38.914959, -77.062772, 18">Box Ellipse</span> (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^ref3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
+One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace (now called Urn Terrace), and the Box Ellipse (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^ref3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
 <param title="Dumbarton Oaks" eid="Q1264942">
 <param ve-map
 	prefer-geojson
 	title="Dumbarton Oaks garden."
 	data-center="38.914468, -77.062895"
-	data-zoom="17.8">
+	data-zoom="17.8"
+	marker-type="none">
 <param ve-map-layer
 	mapwarper mapwarper-id="50944"
 	active>
-<param ve-map-layer 
-	data-type="geojson"
-	data-url=""
-	data-active="true">
+<param ve-map-layer
+	url="box-walk.json">
+<param ve-map-layer
+	url="box-terrace.json">
+<param ve-map-layer
+	url="box-ellipse.json">
 {#paragraph3}
 
 ### “A Plant Known to Everybody”
