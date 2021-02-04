@@ -34,7 +34,7 @@ While storing cassava in the soil addresses the issue of perishability, addition
 Some of the implements used for processing cassava include graters, strainers or squeezers, and sieves. Cassava graters are generally constructed by embedding small stones or nails into a wooden surface.[^ref11] The cassava root is rubbed along the device so that the stones or nails shred the tuber into small pieces. These pieces are soaked in water to form pulp, which is placed into a strainer or squeezer to remove the liquid. The toxins are removed during this straining process.[^ref12] Cassava squeezers have a similar form throughout South America: a circular woven tube that is designed to be hung from up high. The woven designs, however, may differ according to culture. After the liquid is drained, the cassava pulp is further passed through a sieve, after which it is suitable for cooking and consumption.
 [Visualisations: Cassava grater and/or squeezer – pending image rights]
 
-Despite the amount of work required to process cassava with high levels of cyanide, bitter cassava is more popularly cultivated than sweet cassava in the Amazon today. The indigenous Tukanoans of the Yapu village in the northern Amazon, for example, grow 100  different types of cassava, 98 of which are bitter.[^ref13] Archaeologist Warren Wilson and anthropologist Darna Dufour have demonstrated that bitter cassava yields a higher harvest than does its sweet counterpart, possibly due to its resistance to disease and insects.[^ref14] It is perhaps for this reason that bitter cassava is favored as a food crop over sweet cassava, despite the additional processing to render it edible.
+Despite the amount of work required to process cassava with high levels of cyanide, bitter cassava is more popularly cultivated than sweet cassava in the Amazon today. The indigenous Tukanoans of the Yapu village in the northern Amazon, for example, grow 100 different types of cassava, 98 of which are bitter.[^ref13] Archaeologist Warren Wilson and anthropologist Darna Dufour have demonstrated that bitter cassava yields a higher harvest than does its sweet counterpart, possibly due to its resistance to disease and insects.[^ref14] It is perhaps for this reason that bitter cassava is favored as a food crop over sweet cassava, despite the additional processing to render it edible.
 
 ### Early Modern Encounters: European Codification of Indigenous Methods
 
@@ -120,11 +120,11 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 [^ref18]: Maria Sibylla Merian, _Metamorphosis insectorum Surinamensium_ (Amstelaedami: Joannem Oosterwyk, 1719), 5, [https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16](https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16)
 
-[^ref19]: “Inquiries of directions for the Ant-Iles, or Caribe-Islands,”  _Philosophical Transactions of Royal Society of London_ 3, no. 33 (1668): 634,[doi:10.1098/rstl.1668.0007](https://doi.org/10.1098/rstl.1668.0007); Kaori O’Connor, “Beyond ‘Exotic Groceries,” 229–31.
+[^ref19]: “Inquiries of directions for the Ant-Iles, or Caribe-Islands,” _Philosophical Transactions the of Royal Society_ 3, no. 33 (1668): 634,[doi:10.1098/rstl.1668.0007](https://doi.org/10.1098/rstl.1668.0007); Kaori O’Connor, “Beyond ‘Exotic Groceries,” 229–31.
 
 [^ref20]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_ (Berkeley: University of California Press, 1990). 
 
-[^ref21]: Antonio de León Pinelo, _Cuestion moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias_ (Madrid: Por la viuda de Iuan Gonçalez, 1636). [Click here for full book](https://www.biodiversitylibrary.org/page/55670844); Bedford Pim and Berthold Seemann, _Dottings on the Roadside, in Panama, Nicaragua, and Mosquito_ (London: Chapman and Hall, 1869), 405–406. [http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871](http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871)
+[^ref21]: Antonio de León Pinelo, _Cuestion moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias_ (Madrid: Por la viuda de Iuan Gonçalez, 1636). [Click here for full book](https://www.biodiversitylibrary.org/page/55670844); Bedford Pim and Berthold Seemann, _Dottings on the Roadside, in Panama, Nicaragua, and Mosquito_ (London: Chapman and Hall, 1869), 405–6. [http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871](http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871)
 
 [^ref22]: Ana Lucia Barretto Penna, Luis A. Nero, and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications_ (Boca Raton, Florida: CRC Press, 2017), 233. 
 
@@ -136,7 +136,7 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 [^ref26]: Ibidem.
 
-[^ref27]: J. D. La Fleur, _Fusion Foodways of Africa's Gold Coast in the Atlantic Era_ (Leiden; Boston: Brill, 2012), 155; William O. Jones, “Manioc,” 110.
+[^ref27]: J. D. La Fleur, _Fusion Foodways of Africa’s Gold Coast in the Atlantic Era_ (Leiden; Boston: Brill, 2012), 155; William O. Jones, “Manioc,” 110.
 
 [^ref28]: J. D. La Fleur, _Fusion Foodways_, 164.
 
