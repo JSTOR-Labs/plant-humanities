@@ -55,8 +55,8 @@ How did cassava come to occupy this pride of place in the global food system? Ho
 	prefer-geojson
 	title="Global distribution of cassava. Cassava’s native habitat is marked in green, and regions where cassava was introduced by humans are marked in orange."
 	basemap="Esri_WorldPhysical"
-	center="Q1045"
-	zoom="1.9">
+	center="Q82859"
+	zoom="1.8">
 <param ve-map-layer
 	url="Cassava.json">
 {#paragraph2}
