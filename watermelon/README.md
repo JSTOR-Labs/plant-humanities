@@ -39,9 +39,6 @@
 ### Watermelon: The Food of Angels
 
 Mark Twain once said that the watermelon “is the chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat.”[^ref1] Though today the word “watermelon” calls to mind a sturdy gourd with refreshing, sweet, red flesh, for most of its millennia-long history as a cultivated crop it was known as a pale, hard, sometimes bitter fruit with relatively tender rind. Not until the sixth century CE were watermelons associated with sweet fruits such as figs and grapes; and it was not until well into the 1400s that the uniformly red, thick-rinded watermelons that are familiar to us today began to appear. Throughout its history across the globe, the watermelon was primarily a source of food, medicine, and drink. Its cultural history, however, reveals not only stories of racism, but also of contagion and disease, a darker side to the delicious summer fruit that we know and love.
-<param ve-vis-network
-	title=""
-	url="watermelon-with-edges.csv">
 <param ve-image
 	title="Watermelon."
 	url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bulgarian_watermelon.JPG"
@@ -91,7 +88,7 @@ Watermelons were cultivated in Spain after the Arab conquest, with evidence of t
 	region="0,636,999,729"
 	attribution="British Library. Egerton MS 2020">
 <param ve-image
-	title="‘Anguriae’ in Mathiolli’s commentary on Dioscorides."
+	title="‘Anguriae’ in Matthioli’s commentary on Dioscorides."
 	url="https://www.archive.org/download/mobot31753000819224/page/n512_w299"
 	fit="contain"
 	attribution="BHL">
