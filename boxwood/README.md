@@ -230,7 +230,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 ### References
 
-[^ref1]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” _Applied Microbiology and Biotechnology_ 102 (2018): 4371, [doi:10.1007/s00253-018-8936-2](https://doi.org/10.1007/s00253-018-8936-2). 
+[^ref1]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” _Applied Microbiology and Biotechnology_ 102 (2018): 4371. [doi:10.1007/s00253-018-8936-2](https://doi.org/10.1007/s00253-018-8936-2)
 
 [^ref2]: Ibid., with reference to USDA-National Agricultural Statistics Service Census of Agriculture 2014 reports, [https://www.agcensus.usda.gov](https://www.agcensus.usda.gov). English or European boxwood is the same species (_Buxus sempervirens_) as American boxwood. There are no boxwood species native to the United States. The centers of diversity for the genus are in Western Europe, Northern Africa, and Asia (_Buxus microphylla_).
 
@@ -258,7 +258,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref14]: Soderini, _Opere_, III:255.
 
-[^ref15]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion. [Click here for full book](https://www.biodiversitylibrary.org/item/206045#page/5/mode/1up). Cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–40. [Click here for full book](https://books.google.nl/books?id=XsLsBIcSywYC&hl=nl&source=gbs_navlinks_s).
+[^ref15]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion. [Click here for full book](https://www.biodiversitylibrary.org/page/50764445). Cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–40. [Click here for full book](https://books.google.nl/books?id=XsLsBIcSywYC&hl=nl&source=gbs_navlinks_s).
 
 [^ref16]: Parkinson, _Paradisi in sole_, 606; Gerard, _Herball_, 1225.
 
@@ -266,11 +266,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref18]: Soderini, _Opere_, I:182.
 
-[^ref19]: Soderini, _Opere_, I:151, 175.
+[^ref19]: Ibid., I:151, 175.
 
 [^ref20]: Gerard, _Herball_, 1225.
 
-[^ref21]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529. [Click here for full book](https://books.google.nl/books?id=R_daAAAAQAAJ&hl=nl&source=gbs_navlinks_s); Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66. [Click here for full book](https://www.biodiversitylibrary.org/item/271564#page/11/mode/1up).
+[^ref21]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529. [Click here for full book](https://books.google.nl/books?id=R_daAAAAQAAJ&hl=nl&source=gbs_navlinks_s); Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66. [Click here for full book](https://www.biodiversitylibrary.org/page/58766636).
 
 [^ref22]: De Serres, _Théatre d’agriculture_, 506, 529.
 
@@ -278,14 +278,14 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref24]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201–2. [Click here for full book](https://books.google.nl/books?id=YCdAAAAAcAAJ&hl=nl&source=gbs_navlinks_s).
 
-[^ref25]: Mollet, _Théatre des jardinage_, 202–3.
+[^ref25]: Ibid., 202–3.
 
-[^ref26]: Mollet, _Théatre des jardinage_, 203.
+[^ref26]: Ibid., 203.
 
-[^ref27]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797). [Click here for full book](https://books.google.nl/books?id=CTwNAAAAYAAJ&hl=nl&source=gbs_navlinks_s); Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and _passim._ [Click here for full book](https://www.biodiversitylibrary.org/item/208240#page/13/mode/1up).
+[^ref27]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797). [Click here for full book](https://books.google.nl/books?id=CTwNAAAAYAAJ&hl=nl&source=gbs_navlinks_s); Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and _passim._ [Click here for full book](https://www.biodiversitylibrary.org/page/51132642).
 
 [^ref28]: Edith Wharton, _A backward glance_ (New York, London: D. Appleton-Century Company, 1934), 130.
 
-[^ref29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953): 182, [http://www.jstor.org/stable/4136501](http://www.jstor.org/stable/41365015).
+[^ref29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953): 182. [http://www.jstor.org/stable/4136501](http://www.jstor.org/stable/41365015)
 
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
