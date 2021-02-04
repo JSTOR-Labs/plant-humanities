@@ -44,7 +44,11 @@ Knowledge of how to process cassava so that it could be safely consumed was comm
 Although the Caribbean is not considered cassava’s native habitat, the plant was already cultivated by the indigenous Arawak peoples who lived in the Greater Antilles when Christopher Columbus arrived in the New World.[^ref15] Through European colonization, cassava was further introduced to other places in the Caribbean, such as Barbados and Haiti, becoming subsistence food for enslaved labor in plantations.[^ref16] Cassava was established as a staple across the Caribbean by the seventeenth century, and it was represented in naturalist Maria Sibylla Merian’s (1647–1717) _Metamorphosis insectorum Surinamensium_ (1719), which describes the plants and insects that she studied during her stay in Dutch Surinam between 1699 and 1701. 
 
 Merian’s book exemplifies how knowledge accumulated and circulated through Europe, drawing on earlier texts that were in turn referenced in later publications. Her entry on cassava, for example, refers to English naturalist Hans Sloane’s (1660–1753) catalogue of Jamaican plants. Merian’s illustrations, which were based on keen in-situ observations, were disseminated by other artists who made copies of her work. As works by an accomplished artist, Merian’s books were published in various editions and widely circulated, ensuring a broad transmission of her botanical knowledge.[^ref17]
-[Visualisation: page from Maria Sybilla Merian’s book].
+<param ve-image
+	title="Cassava, in Maria Sybilla Merian (1647–1717), _Dissertatio de generatione et metamorphosibus insectorum Surinamensium_ (Amstelaedami: Apud Joannem Oosterwyk, 1719), pl. 5."
+	manifest="https://iiif.lib.harvard.edu/manifests/view/drs:481769537$18i"
+	seq="17"
+	attribution="Dumbarton Oaks Research Library, Washington, D.C.">
 
 In her book, Merian describes cassava root as the ingredient for cassava bread that was a common food among both the Indigenous Peoples and Europeans living in the American colonies by this time.[^ref18] Descriptions of cassava bread recur in other European texts, praising its value as a food source in the colonies as well as a provision for sea voyages.[^ref19] The original method of making cassava flour practiced by the Indigenous Peoples of South America, as well as variant methods used later on the African continent, can be found in these European texts. 
 [Visualisation: Image of processing of cassava]
@@ -84,7 +88,7 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 ### References
 
-[^ref1]: “Partnership Formed to Improve Cassava, Staple Food of 600 Million People,” _Food and Agriculture Organization of the United Nations_, November 5, 2002. [http://www.fao.org/english/newsroom/news/2002/10541-en.html](http://www.fao.org/english/newsroom/news/2002/10541-en.html)
+[^ref1]: “Partnership Formed to Improve Cassava, Staple Food of 600 Million People,” _Food and Agriculture Organization of the United Nations_, November 5, 2002, [http://www.fao.org/english/newsroom/news/2002/10541-en.html](http://www.fao.org/english/newsroom/news/2002/10541-en.html).
 
 [^ref2]: Donald Ugent, Shelia Pozorski, and Thomas Pozorski, “Archaeological Manioc (Manihot) from Coastal Peru,” _Economic Botany_ 40, no. 1 (1986): 99, [doi:10.1007/BF02858949](https://doi.org/10.1007/BF02858949).
 
@@ -108,7 +112,7 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 [^ref12]: A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” _Food Security_ 9, (2017): 914–5, [doi:10.1007/s12571-017-0717-8](https://doi.org/10.1007/s12571-017-0717-8). 
 
-[^ref13]: J. Bulkan, “The Place of Bitter Cassava in the Social Organization and Belief Systems of Two Indigenous Peoples of Guyana,” _Culture, Agriculture, Food and the Environment_ 41, no. 2 (2019): 120, [doi:10.1111/cuag.12228](https://doi.org/10.1111/cuag.12228)
+[^ref13]: J. Bulkan, “The Place of Bitter Cassava in the Social Organization and Belief Systems of Two Indigenous Peoples of Guyana,” _Culture, Agriculture, Food and the Environment_ 41, no. 2 (2019): 120, [doi:10.1111/cuag.12228](https://doi.org/10.1111/cuag.12228).
 
 [^ref14]: Ibid., 121.
 
@@ -118,17 +122,17 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 [^ref17]: Alicia C. Montoya and Rindert Jagersma, “Marketing Maria Sibylla Merian, 1720-1800: Book Auctions, Gender and Reading Culture in the Dutch Republic,” _Book History_ 21 (2018): 56–88, [doi:10.1353/bh.2018.0002](https://doi.org/10.1353/bh.2018.0002).
 
-[^ref18]: Maria Sibylla Merian, _Metamorphosis insectorum Surinamensium_ (Amstelaedami: Joannem Oosterwyk, 1719), 5, [https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16](https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16)
+[^ref18]: Maria Sibylla Merian, _Metamorphosis insectorum Surinamensium_ (Amstelaedami: Joannem Oosterwyk, 1719), 5, [https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16](https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16).
 
 [^ref19]: “Inquiries of directions for the Ant-Iles, or Caribe-Islands,” _Philosophical Transactions the of Royal Society_ 3, no. 33 (1668): 634,[doi:10.1098/rstl.1668.0007](https://doi.org/10.1098/rstl.1668.0007); Kaori O’Connor, “Beyond ‘Exotic Groceries,” 229–31.
 
 [^ref20]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_ (Berkeley: University of California Press, 1990). 
 
-[^ref21]: Antonio de León Pinelo, _Cuestion moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias_ (Madrid: Por la viuda de Iuan Gonçalez, 1636). [Click here for full book](https://www.biodiversitylibrary.org/page/55670844); Bedford Pim and Berthold Seemann, _Dottings on the Roadside, in Panama, Nicaragua, and Mosquito_ (London: Chapman and Hall, 1869), 405–6. [http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871](http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871)
+[^ref21]: Antonio de León Pinelo, _Cuestion moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias_ (Madrid: Por la viuda de Iuan Gonçalez, 1636). [Click here for full book](https://www.biodiversitylibrary.org/page/55670844#page/7/mode/1up); Bedford Pim and Berthold Seemann, _Dottings on the Roadside, in Panama, Nicaragua, and Mosquito_ (London: Chapman and Hall, 1869), 405–6, [http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871](http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871).
 
-[^ref22]: Ana Lucia Barretto Penna, Luis A. Nero, and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications_ (Boca Raton, Florida: CRC Press, 2017), 233. 
+[^ref22]: Ana Lucia Barretto Penna, Luis A. Nero, and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications_ (Boca Raton, FL: CRC Press, 2017), 233. 
 
-[^ref23]: Antoine-François de Fourcroy and Jean-Michel Papillon, _Élémens d’histoire naturelle et de chemie_ (Paris: Chez Cuchet, 1786), 106. [https://www.biodiversitylibrary.org/page/57980618](https://www.biodiversitylibrary.org/page/57980618)
+[^ref23]: Antoine-François de Fourcroy and Jean-Michel Papillon, _Élémens d’histoire naturelle et de chemie_ (Paris: Chez Cuchet, 1786), 106, [https://www.biodiversitylibrary.org/page/57980618](https://www.biodiversitylibrary.org/page/57980618).
 
 [^ref24]: Carney and Rosomoff, _In the Shadow of Slavery_, 54.
 
@@ -146,7 +150,7 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 [^ref31]: Ibid., 176; A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World,” 908. 
 
-[^ref32]: A. A. Adeniji et al., “Cassava Development in Nigeria: A Country Case Study towards a Global Strategy for Cassava Development,” _Food and Agriculture Organization of the United Nations_. [http://www.fao.org/3/a0154e/A0154E05.htm](http://www.fao.org/3/a0154e/A0154E05.htm)
+[^ref32]: A. A. Adeniji et al., “Cassava Development in Nigeria: A Country Case Study towards a Global Strategy for Cassava Development,” _Food and Agriculture Organization of the United Nations_, [http://www.fao.org/3/a0154e/A0154E05.htm](http://www.fao.org/3/a0154e/A0154E05.htm).
 
 [^ref33]: “Partnership Formed to Improve Cassava.”
 
@@ -154,10 +158,10 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 [^ref35]: Carney and Rosomoff, _In the Shadow of Slavery_, 180.
 
-[^ref36]: MOCA, _Njideka Akunyili Crosby_ (Los Angeles, 2018). [https://www.youtube.com/watch?v=pUZijlho9CM](https://www.youtube.com/watch?v=pUZijlho9CM)
+[^ref36]: MOCA, _Njideka Akunyili Crosby_ (Los Angeles, 2018), [https://www.youtube.com/watch?v=pUZijlho9CM](https://www.youtube.com/watch?v=pUZijlho9CM).
 
 [^ref37]: _Artist Talk Njideka Akunyili Crosby_, Whitney Museum of American Art (New York, 2018).
 
-[^ref38]: Tyler Green, “Njideka Akunyili Crosby, Bierstadt’s West,” The Modern Art Notes Podcast, 2019. [https://manpodcast.com/portfolio/no-374-njideka-akunyili-crosby-bierstadts-west/](https://manpodcast.com/portfolio/no-374-njideka-akunyili-crosby-bierstadts-west/)
+[^ref38]: Tyler Green, “Njideka Akunyili Crosby, Bierstadt’s West,” The Modern Art Notes Podcast, 2019, [https://manpodcast.com/portfolio/no-374-njideka-akunyili-crosby-bierstadts-west/](https://manpodcast.com/portfolio/no-374-njideka-akunyili-crosby-bierstadts-west/).
 
 [^ref39]: MOCA, _Njideka Akunyili Crosby_.
