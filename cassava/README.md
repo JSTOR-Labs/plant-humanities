@@ -23,6 +23,7 @@
 <param title="Greater Antilles" eid="Q128011">
 <param title="Christopher Columbus" eid="Q7322">
 <param title="Haiti" eid="Q790">
+<param title="Barbados" eid="Q244">
 <param title="Metamorphosis insectorum Surinamensium" eid="Q1925022">
 <param title="Surinam" eid="Q7646305" aliases="Dutch Surinam">
 <param title="Hans Sloane" eid="Q310326">
@@ -102,7 +103,6 @@ Knowledge of how to process cassava so that it could be safely consumed was comm
 {#paragraph9}
 
 Although the Caribbean is not considered cassava’s native habitat, the plant was already cultivated by the indigenous Arawak peoples who lived in the Greater Antilles when Christopher Columbus arrived in the New World.[^ref15] Through European colonization, cassava was further introduced to other places in the Caribbean, such as Barbados and Haiti, becoming subsistence food for enslaved labor in plantations.[^ref16] Cassava was established as a staple across the Caribbean by the seventeenth century, and it was represented in naturalist Maria Sibylla Merian’s (1647–1717) _Metamorphosis insectorum Surinamensium_ (1719), which describes the plants and insects that she studied during her stay in Dutch Surinam between 1699 and 1701.
-<param title="Barbados" eid="Q244">
 <param title="Maria Sibylla Merian" eid="Q62530">
 {#paragraph10}
 
