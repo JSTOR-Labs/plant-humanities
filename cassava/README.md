@@ -191,29 +191,29 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 [^ref11]: William O. Jones, “Manioc: An Example of Innovation in African Economies,” _Economic Development and Cultural Change_ 5, no. 2 (1957): 103, [https://www.jstor.org/stable/1151667](https://www.jstor.org/stable/1151667).
 
-[^ref12]: A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” _Food Security_ 9, (2017): 914–5, [doi:10.1007/s12571-017-0717-8](https://doi.org/10.1007/s12571-017-0717-8). 
+[^ref12]: A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World: Production and Improvement of Cassava for Food, Feed, and Industrial Uses,” _Food Security_ 9, (2017): 914–5, [doi:10.1007/s12571-017-0717-8](https://doi.org/10.1007/s12571-017-0717-8).
 
 [^ref13]: J. Bulkan, “The Place of Bitter Cassava in the Social Organization and Belief Systems of Two Indigenous Peoples of Guyana,” _Culture, Agriculture, Food and the Environment_ 41, no. 2 (2019): 120, [doi:10.1111/cuag.12228](https://doi.org/10.1111/cuag.12228).
 
 [^ref14]: Ibid., 121.
 
-[^ref15]: Parmer, Sturm, and Hensel, “Crops That Feed the World,” 907. 
+[^ref15]: Parmer, Sturm, and Hensel, “Crops That Feed the World,” 907.
 
 [^ref16]: Judith Ann Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery_ (Berkeley and Los Angeles: University of California Press, 2009), 108, 112; Kaori O’Connor, “Beyond ‘Exotic Groceries’: Tapioca/Cassava/Manioc, a Hidden Commodity of Empires and Globalisation,” in _Global Histories, Imperial Commodities, Local Interactions_, ed. Jonathan Curry-Machado (Hampshire and New York: Palgrave Macmillan, 2013), 227, [doi:10.1057/9781137283603_12](https://doi.org/10.1057/9781137283603_12).
 
 [^ref17]: Alicia C. Montoya and Rindert Jagersma, “Marketing Maria Sibylla Merian, 1720-1800: Book Auctions, Gender and Reading Culture in the Dutch Republic,” _Book History_ 21 (2018): 56–88, [doi:10.1353/bh.2018.0002](https://doi.org/10.1353/bh.2018.0002).
 
-[^ref18]: Maria Sibylla Merian, _Metamorphosis insectorum Surinamensium_ (Amstelaedami: Joannem Oosterwyk, 1719), 5, [https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16](https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16).
+[^ref18]: Maria Sibylla Merian, _Metamorphosis insectorum Surinamensium_ (Amstelaedami: Joannem Oosterwyk, 1719), 5, [Click here for full book](https://iiif.lib.harvard.edu/manifests/view/drs:481769537$8i6).
 
 [^ref19]: “Inquiries of directions for the Ant-Iles, or Caribe-Islands,” _Philosophical Transactions the of Royal Society_ 3, no. 33 (1668): 634,[doi:10.1098/rstl.1668.0007](https://doi.org/10.1098/rstl.1668.0007); Kaori O’Connor, “Beyond ‘Exotic Groceries,” 229–31.
 
-[^ref20]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_ (Berkeley: University of California Press, 1990). 
+[^ref20]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_, transl. Janet Whatley (Berkeley: University of California Press, 1990).
 
-[^ref21]: Antonio de León Pinelo, _Cuestion moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias_ (Madrid: Por la viuda de Iuan Gonçalez, 1636). [Click here for full book](https://www.biodiversitylibrary.org/page/55670844#page/7/mode/1up); Bedford Pim and Berthold Seemann, _Dottings on the Roadside, in Panama, Nicaragua, and Mosquito_ (London: Chapman and Hall, 1869), 405–6, [Click here for full book](http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871).
+[^ref21]: Antonio de León Pinelo, _Cuestion moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias_ (Madrid: Por la viuda de Iuan Gonçalez, 1636). [Click here for full book](https://www.biodiversitylibrary.org/page/55670769); Bedford Pim and Berthold Seemann, _Dottings on the Roadside, in Panama, Nicaragua, and Mosquito_ (London: Chapman and Hall, 1869), 405–6, [Click here for full book](http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871).
 
-[^ref22]: Ana Lucia Barretto Penna, Luis A. Nero, and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications_ (Boca Raton, FL: CRC Press, 2017), 233. 
+[^ref22]: Ana Lucia Barretto Penna, Luis A. Nero, and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications_ (Boca Raton, FL: CRC Press, 2016), 233, [doi:10.1201/9781315369433](https://doi.org/10.1201/9781315369433).
 
-[^ref23]: Antoine-François de Fourcroy and Jean-Michel Papillon, _Élémens d’histoire naturelle et de chemie_ (Paris: Chez Cuchet, 1786), 106, [https://www.biodiversitylibrary.org/page/57980618](https://www.biodiversitylibrary.org/page/57980618).
+[^ref23]: Antoine-François de Fourcroy and Jean-Michel Papillon, _Élémens d’histoire naturelle et de chemie_ (Paris: Chez Cuchet, 1786), 106. [Click here for full book](https://www.biodiversitylibrary.org/page/57980536).
 
 [^ref24]: Carney and Rosomoff, _In the Shadow of Slavery_, 54.
 
@@ -221,15 +221,15 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 [^ref26]: Ibidem.
 
-[^ref27]: J. D. La Fleur, _Fusion Foodways of Africa’s Gold Coast in the Atlantic Era_ (Leiden; Boston: Brill, 2012), 155; William O. Jones, “Manioc,” 110.
+[^ref27]: J. D. La Fleur, _Fusion Foodways of Africa’s Gold Coast in the Atlantic Era_ (Leiden; Boston: Brill, 2012), 155; William O. Jones, “Manioc,” 110, [doi:10.1163/9789004234093](https://doi.org/10.1163/9789004234093).
 
 [^ref28]: J. D. La Fleur, _Fusion Foodways_, 164.
 
 [^ref29]: Judith Ann Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery_, 178.
 
-[^ref30]: J. D. La Fleur, _Fusion Foodways_, 177. 
+[^ref30]: J. D. La Fleur, _Fusion Foodways_, 177.
 
-[^ref31]: Ibid., 176; Parmer, Sturm, and Hensel, “Crops that Feed the World,” 908. 
+[^ref31]: Ibid., 176; Parmer, Sturm, and Hensel, “Crops that Feed the World,” 908.
 
 [^ref32]: A. A. Adeniji et al., “Cassava Development in Nigeria: A Country Case Study towards a Global Strategy for Cassava Development,” _Food and Agriculture Organization of the United Nations_, [http://www.fao.org/3/a0154e/A0154E05.htm](http://www.fao.org/3/a0154e/A0154E05.htm).
 
@@ -241,7 +241,7 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 [^ref36]: MOCA, _Njideka Akunyili Crosby_ (Los Angeles, 2018), [https://www.youtube.com/watch?v=pUZijlho9CM](https://www.youtube.com/watch?v=pUZijlho9CM).
 
-[^ref37]: _Artist Talk Njideka Akunyili Crosby_, Whitney Museum of American Art (New York, 2018).
+[^ref37]: Whitney Museum of American Art, _Artist Talk Njideka Akunyili Crosby_ (New York, 2018), [https://www.youtube.com/watch?v=HPU8W2xBBf4](https://www.youtube.com/watch?v=HPU8W2xBBf4).
 
 [^ref38]: Tyler Green, “Njideka Akunyili Crosby, Bierstadt’s West,” The Modern Art Notes Podcast, 2019, [https://manpodcast.com/portfolio/no-374-njideka-akunyili-crosby-bierstadts-west/](https://manpodcast.com/portfolio/no-374-njideka-akunyili-crosby-bierstadts-west/).
 
