@@ -53,8 +53,8 @@ When eaten raw, cassava is likely to leave a bitter taste in one’s mouth. Wors
 <param title="cassava root" eid="Q43304555" aliases="cassava">
 
 How did cassava come to occupy this pride of place in the global food system? How did cassava transform from a poisonous tuber into a major food staple, and from an exclusive dweller of South America into a cosmopolitan citizen of the world? To answer these questions, this essay looks at how human interactions with cassava helped shape the plant into the significant food crop that it is today. We first look at the elaborate method of processing cassava developed by the indigenous peoples of Meso- and South America and then turn to the codification and spread of this knowledge, facilitated by European travelers to the New World. This meeting of indigenous and European knowledge systems, combined with cassava’s tolerance for drought, resulted in a food crop that would create new hope for global food security in the twentieth and twenty-first centuries. Furthermore, as knowledge of cassava and its specimens circulated to different parts of the world, the plant took on additional cultural meanings through novel culinary uses and artistic representations.
-[Visualisation: Map of cassava’s global distribution]
-Caption for map of cassava’s global distribution: Cassava’s native habitat is marked in green and regions where cassava was introduced by humans are marked in purple.
+[Visualisation: Map of cassava’s global distribution
+Caption for map of cassava’s global distribution: Cassava’s native habitat is marked in green and regions where cassava was introduced by humans are marked in purple.]
 
 ### Of Frogs and Cassava: Early Cultivation in the Andes
 
@@ -115,8 +115,9 @@ In spite of cassava’s potential for aiding global food security, the Food and 
 ### Place and Mobility: Njideka Akunyili Crosby’s _Cassava Garden_
 
 In addition to food security, cassava plays an increasingly important and diverse role in both local and transnational cuisines. It is the star ingredient in what is the quintessentially African dish, _fufu_, and has equivalents in Brazil, the Dominican Republic, Puerto Rico, and Cuba, serving as a testament to the diasporic communities that carried this plant enriched with new cultural meanings back to its native habitat.[^ref35]
-[Visualisation: Fufu being made in the Democratic Republic of Congo
-https://en.wikipedia.org/wiki/Cassava-based_dishes#/media/File:Making_fufu_Democratic_Republic_Congo.jpg]
+<param ve-image
+	title="_Fufu_ being made in the Democratic Republic of Congo"
+	url="https://upload.wikimedia.org/wikipedia/commons/4/45/Making_fufu_Democratic_Republic_Congo.jpg"
 
 Associated with specific culture across the globe, but also symbolizing—having spread from its native habitat in South America, across the ocean to Africa, and back to South America and the Caribbean via diasporic African communities—cassava has also been celebrated in contemporary art. Nigerian–American artist Njideka Akunyili Crosby, for example, features cassava prominently in her work as she explores the ability of people, plants, and paintings to inhabit multiple spaces.
 
