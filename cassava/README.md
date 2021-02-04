@@ -73,10 +73,12 @@ Representations of cassava made by Moche artists provide clues as to how the pla
 	curtain="true"
 	title="Moche ceramic, botanical frog."
 	url="Jar-depicting-the-botanical-frog.jpg"
+	region="-518,414,3393,2510"
 	attribution="Dumbarton Oaks Research Library, Washington, D.C.">
 <param ve-image
 	title="Smoky Jungle Frog (_Leptodactylus pentadactylus_)."
 	url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Bull_frog_%28Leptodactylus_pentadactylus%29.jpg"
+	region="2,228,1964,1453"
 	attribution="Wikimedia Commons.">
 {#paragraph4}
 
