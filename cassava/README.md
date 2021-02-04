@@ -70,7 +70,6 @@ Wild ancestors of the domesticated _Manihot esculenta_—known more commonly as 
 Representations of cassava made by Moche artists provide clues as to how the plant was understood and appreciated by Andean peoples in the first millennium of the Common Era. Moche artists often represented cassava together with _Leptodactylus pentadactylus_—a frog found throughout the Amazon—as shown in [this ceramic](http://museum.doaks.org/objects-1/info/22560) from Dumbarton Oaks’s collection. The smoky jungle frog, as this species is commonly called, was likely associated with agriculture, and representations of frogs may have been used in harvest-related rituals.[^ref5] Cassava may have held similar significance to Andean peoples, and ceramics such as this one may have been used to ensure a bountiful cassava harvest.
 <param title="Amazon rainforest" eid="Q177567" aliases="Amazon">
 <param ve-image
-	curtain="true"
 	title="Moche ceramic, botanical frog."
 	url="Jar-depicting-the-botanical-frog.jpg"
 	region="-518,414,3393,2510"
