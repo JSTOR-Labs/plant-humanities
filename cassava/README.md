@@ -108,6 +108,11 @@ Although the Caribbean is not considered cassava’s native habitat, the plant w
 
 Merian’s book exemplifies how knowledge accumulated and circulated through Europe, drawing on earlier texts that were in turn referenced in later publications. Her entry on cassava, for example, refers to English naturalist Hans Sloane’s (1660–1753) [catalogue of Jamaican plants](https://bibdigital.rjb.csic.es/records/item/14358-redirection). Merian’s illustrations, which were based on keen in-situ observations, were disseminated by other artists who made copies of her work. Merian’s books were published in various editions and widely circulated, ensuring a broad transmission of her botanical knowledge.[^ref17]
 <param ve-image
+	title="Cassava, in Maria Sybilla Merian (1647–1717), _Dissertatio de generatione et metamorphosibus insectorum Surinamensium_ (Amstelaedami: Apud Joannem Oosterwyk, 1719), pl. 4."
+	manifest="https://iiif.lib.harvard.edu/manifests/view/drs:481769537$18i"
+	seq="15"
+	attribution="Dumbarton Oaks Research Library, Washington, D.C.">
+<param ve-image
 	title="Cassava, in Maria Sybilla Merian (1647–1717), _Dissertatio de generatione et metamorphosibus insectorum Surinamensium_ (Amstelaedami: Apud Joannem Oosterwyk, 1719), pl. 5."
 	manifest="https://iiif.lib.harvard.edu/manifests/view/drs:481769537$18i"
 	seq="17"
@@ -204,7 +209,7 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 [^ref20]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_ (Berkeley: University of California Press, 1990). 
 
-[^ref21]: Antonio de León Pinelo, _Cuestion moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias_ (Madrid: Por la viuda de Iuan Gonçalez, 1636). [Click here for full book](https://www.biodiversitylibrary.org/page/55670844#page/7/mode/1up); Bedford Pim and Berthold Seemann, _Dottings on the Roadside, in Panama, Nicaragua, and Mosquito_ (London: Chapman and Hall, 1869), 405–6, [http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871](http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871).
+[^ref21]: Antonio de León Pinelo, _Cuestion moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias_ (Madrid: Por la viuda de Iuan Gonçalez, 1636). [Click here for full book](https://www.biodiversitylibrary.org/page/55670844#page/7/mode/1up); Bedford Pim and Berthold Seemann, _Dottings on the Roadside, in Panama, Nicaragua, and Mosquito_ (London: Chapman and Hall, 1869), 405–6, [Click here for full book](http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871).
 
 [^ref22]: Ana Lucia Barretto Penna, Luis A. Nero, and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications_ (Boca Raton, FL: CRC Press, 2017), 233. 
 
