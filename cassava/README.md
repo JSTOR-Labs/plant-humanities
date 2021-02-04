@@ -50,7 +50,10 @@ When eaten raw, cassava is likely to leave a bitter taste in one’s mouth. Wors
 <param title="cyanide" eid="Q55076544">
 
 How did cassava come to occupy this pride of place in the global food system? How did cassava transform from a poisonous tuber into a major food staple, and from an exclusive dweller of South America into a cosmopolitan citizen of the world? To answer these questions, this essay looks at how human interactions with cassava helped shape the plant into the significant food crop that it is today. We first look at the elaborate method of processing cassava developed by the indigenous peoples of Meso- and South America and then turn to the codification and spread of this knowledge, facilitated by European travelers to the New World. This meeting of indigenous and European knowledge systems, combined with cassava’s tolerance for drought, resulted in a food crop that would create new hope for global food security in the twentieth and twenty-first centuries. Furthermore, as knowledge of cassava and its specimens circulated to different parts of the world, the plant took on additional cultural meanings through novel culinary uses and artistic representations.
-[Visualisation: Map of cassava’s global distribution. Caption: Cassava’s native habitat is marked in green and regions where cassava was introduced by humans are marked in purple.]
+<param ve-map
+	basemap="Esri_WorldPhysical"
+	title="Global distribution of cassava. Cassava’s native habitat is marked in green, and regions where cassava was introduced by humans are marked in purple."
+	url="Cassava.json">
 
 ### Of Frogs and Cassava: Early Cultivation in the Andes
 
