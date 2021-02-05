@@ -33,10 +33,10 @@ How could this confusion last so long? One possible explanation for the shift fr
 <param title="Garcia de Orta" eid="Q1493994">
 <param title="Old Goa" eid="Q553907" aliases="Goa">
 <param ve-image
-	title="Cinnamon leaf and bark, in Garcia de Orta, _Aromatum, et Simplicium aliquot Medicamentorum apud Indos nascentium Historia_ (Antverpiae: Ex officina Christophori Plantini 1567) 72. The images were not in Orta’s original Portuguese publication of 1563, but they were added by the editor, Flemish botanist Carolus Clusius, for this Latin edition."
+	title="Cinnamon leaf and bark, in Garcia de Orta, _Aromatum, et Simplicium aliquot Medicamentorum apud Indos nascentium Historia_ (Antverpiae: Ex officina Christophori Plantini, 1567), 72. The images were not in Orta’s original Portuguese publication of 1563, but they were added by the editor, Flemish botanist Carolus Clusius, for this Latin edition."
 	url="https://www.archive.org/download/mobot31753003488159/page/n71_w314">
 <param ve-image
-	title="Cinnamon bark, in Carolus Clusius, _Exoticorum Libri Decem_ ([Leiden]: Ex Officinâ Plantinianâ Raphelengii 1605) 171. Clusius adapted Orta’s work once more for this publication on exotic naturalia. Unhappy with the leaf image from his 1567 edition of Orta’s work, he left it out here, and only included the image of cinnamon bark."
+	title="Cinnamon bark, in Carolus Clusius, _Exoticorum Libri Decem_ ([Leiden]: Ex Officinâ Plantinianâ Raphelengii, 1605), 171. Clusius adapted Orta’s work once more for this publication on exotic naturalia. Unhappy with the leaf image from his 1567 edition of Orta’s work, he left it out here, and only included the image of cinnamon bark."
 	url="https://www.archive.org/download/mobot31753000811387/page/n185_w1131"
 	region="246,1762,1391,985">
 {#paragraph3}
@@ -124,7 +124,7 @@ In 1760, local grievances about the VOC policy concerning _chenas_, and the trea
 	title="“Map of the cinnamon gardens with their main roads in the district of Kaliture.” This anonymous, eighteenth-century map shows 70 cinnamon gardens located immediately south of Colombo, between Kaliture (present-day Kalutara) and the mouth of the Bentotte (Bentota) river."
 	attribution="Nationaal Archief, The Hague, 4.VEL ‘Inventaris van de verzameling buitenlandse kaarten Leupe, 1584-1865’, inv.no. 935 ‘Kaart van de Salpittie Korls Kanneeltuynen, met dies Hoofdwegens, geleegen in het district Kaliture’."
 	url="NL-HaNA_4.VEL_935-groot.jpg"
-	region="2226,1064,839,630">
+	region="2217,1120,852,630">
 {#paragraph11}
 
 It was short-lived success, however. When the British took control over the Dutch territories on Sri Lanka in 1796, they failed to maintain the cinnamon plantation economy. Calls for free trade and better working conditions for the peelers, high export duties, and competition with cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But these measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea cultivation, thus ending the cinnamon production for years to come.[^ref13]
