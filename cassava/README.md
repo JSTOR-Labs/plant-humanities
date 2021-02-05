@@ -154,7 +154,7 @@ In spite of cassava’s potential for aiding global food security, the Food and 
 In addition to food security, cassava plays an increasingly important and diverse role in both local and transnational cuisines. It is the star ingredient in what is the quintessentially African dish, _fufu_, and has equivalents in Brazil, the Dominican Republic, Puerto Rico, and Cuba, serving as a testament to the diasporic communities that carried this plant enriched with new cultural meanings back to its native habitat.[^ref35]
 <param ve-image
 	title="_Fufu_ being made in the Democratic Republic of Congo"
-	url="https://upload.wikimedia.org/wikipedia/commons/4/45/Making_fufu_Democratic_Republic_Congo.jpg"
+	url="https://upload.wikimedia.org/wikipedia/commons/4/45/Making_fufu_Democratic_Republic_Congo.jpg">
 {#paragraph19}
 
 Associated with specific culture across the globe, but also symbolizing—having spread from its native habitat in South America, across the ocean to Africa, and back to South America and the Caribbean via diasporic African communities—cassava has also been celebrated in contemporary art. Nigerian–American artist Njideka Akunyili Crosby, for example, features cassava prominently in her work as she explores the ability of people, plants, and paintings to inhabit multiple spaces.
