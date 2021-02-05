@@ -46,8 +46,8 @@ Another, much more surprising reason for the long-lasting confusion over cinnamo
 <param ve-map
 	prefer-geojson
 	title="The proposed Spice Route of Antiquity, by J. Innes Miller (1969)."
-	data-center="5.507292705818331, 95.26958927649866"
-	data-zoom="1">
+	data-center="-5.41239965076818, 104.93056399069069"
+	data-zoom="3">
 <param ve-map-layer
 	url="Spice-Route-of-Antiquity_Miller-1969.json">
 <param ve-image
