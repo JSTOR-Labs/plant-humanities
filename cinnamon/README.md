@@ -77,7 +77,7 @@ The quest for spices, cinnamon among them, was one important aim that inspired E
 	fit="contain">
 {#paragraph6}
 
-Once true cinnamon had begun to be understood as cinnamon from Sri Lanka, European states strove to gain a foothold on the island and access the cinnamon trade. From the sixteenth century onward, local rulers bargained with the Portuguese, and later the Dutch, for a share in this trade, in exchange for political and military assistance against their rivals. The Portuguese made tentative attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics. Therefore, they engaged in “reluctant imperialism” to gain access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
+Once true cinnamon had begun to be understood as cinnamon from Sri Lanka (historically referred to as Ceylon), European states strove to gain a foothold on the island and access the cinnamon trade. From the sixteenth century onward, local rulers bargained with the Portuguese, and later the Dutch, for a share in this trade, in exchange for political and military assistance against their rivals. The Portuguese made tentative attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics. Therefore, they engaged in “reluctant imperialism” to gain access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
 <param title="Kingdom of Kotte" eid="Q1589163" aliases="Kotte">
 <param ve-map
 	title="Sri Lanka in the sixteenth century (after 1521)."
@@ -129,8 +129,11 @@ In 1760, local grievances about the VOC policy concerning _chenas_, and the trea
 
 It was short-lived success, however. When the British took control over the Dutch territories on Sri Lanka in 1796, they failed to maintain the cinnamon plantation economy. Calls for free trade and better working conditions for the peelers, high export duties, and competition with cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But these measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea cultivation, thus ending the cinnamon production for years to come.[^ref13]
 <param ve-image
-	title="[No visualization here yet.]"
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
+	title="“Skinning the cinnamon sticks, Ceylon”. Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 109. In the early twentieth century, Ward observed that cinnamon from Sria Lanka still carried historical connotations of superiorit, even though the trade had become marginal: “The demand for Ceylon cinnamon has indeed so lessened that commercial interests are urging the cultivation of Cassia in Ceylon in order to maintain the island’s position in the trade. In analytical circles the Ceylon variety is still conservatively described as ‘True cinnamon’ instead of by the commercial term ‘Ceylon cinnamon.’” (p. 111)."
+	url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Skinning_the_cinnamon_sticks%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg">
+<param ve-image
+	title="Forming the cinnamon quills, Ceylon’. Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 110. Ward still noted the difficulties in distinguishing between cinnamon types: “One specific trade difference [between _Cinnamomum verum_ and _Cinnamomum cassia_] is that Cassia quills are single, whereas in Ceylon the smaller quills are enclosed in the larger. In the ground spice it is frequently difficult to distinguish between good grades of the two barks.” (p. 110)."
+	url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Forming_the_cinnamon_quills%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg">
 {#paragraph12}
 
 ### A Tool of Empire or a Tool of Science?
@@ -207,14 +210,8 @@ The last and most daring strategy was to transplant the true cinnamon to Spanish
 
 Today, Sri Lanka again ranks high among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion remains: while _Cinnamomum verum_ J.Presl is grown in many countries in the tropical zone, the quality of the end product differs for each region.[^ref28] Moreover, commercial statistics usually bring all market variations under the rubric “cinnamon”, without differentiating between different _Cinnamomum_ species. This issue is even more pertinent in the context of medicine. Cinnamon has great potential therapeutic applications, but many studies fail to clarify which species of _Cinnamomum_ they focused on, making it difficult to compare the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is true and what is not.
 <param title="cinnamon" eid="Q370239">
-<param ve-map primary
+<param ve-map
 	title="tba">
-<param ve-image
-	title="“Skinning the cinnamon sticks, Ceylon”. Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 109."
-	url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Skinning_the_cinnamon_sticks%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg">
-<param ve-image
-	title="Forming the cinnamon quills, Ceylon’. Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 110."
-	url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Forming_the_cinnamon_quills%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg">
 {#paragraph19}
 
 ### References
