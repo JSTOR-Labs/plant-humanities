@@ -47,13 +47,10 @@ Another, much more surprising reason for the long-lasting confusion over cinnamo
 	prefer-geojson
 	title="The proposed Spice Route of Antiquity, by J. Innes Miller (1969)."
 	data-center="-5.41239965076818, 104.93056399069069"
-	data-zoom="3">
+	data-zoom="3"
+	attribution="Adapted from the map in John M. Riddle, _Dioscorides on Pharmacy and Medicine_ (Austin: University of Texas Press, 1985), 99.">
 <param ve-map-layer
 	url="Spice-Route-of-Antiquity_Miller-1969.json">
-<param ve-image
-	title="The proposed Spice Route of Antiquity, by J. Innes Miller."
-	attribution="Taken from John M. Riddle, _Dioscorides on Pharmacy and Medicine_. Forew. by John Scarborough (Austin: University of Texas Press 1985) 99."
-	url="Indian_Ocean_Spice_route_(Riddle 1985p99_from Miller_1969).bmp">
 {#paragraph4}
 
 ### Cinnamon as a Tool of Empire
