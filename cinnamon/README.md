@@ -45,12 +45,11 @@ Another, much more surprising reason for the long-lasting confusion over cinnamo
 <param title="Cinnamomum cassia" eid="Q204148">
 <param ve-map
 	prefer-geojson
-	title="The proposed Spice Route of Antiquity, by J. Innes Miller."
+	title="The proposed Spice Route of Antiquity, by J. Innes Miller (1969)."
 	data-center="5.507292705818331, 95.26958927649866"
 	data-zoom="1">
 <param ve-map-layer
-	mapwarper mapwarper-id="53710"
-	active>
+	url="Spice-Route-of-Antiquity_Miller-1969.json">
 <param ve-image
 	title="The proposed Spice Route of Antiquity, by J. Innes Miller."
 	attribution="Taken from John M. Riddle, _Dioscorides on Pharmacy and Medicine_. Forew. by John Scarborough (Austin: University of Texas Press 1985) 99."
