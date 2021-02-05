@@ -85,8 +85,6 @@ Once true cinnamon had begun to be understood as cinnamon from Sri Lanka (histor
 	zoom="7.4">
 <param ve-map-layer
 	url="Sri-Lanka.json">
-<param ve-map-layer
-	url="test.json">
 {#paragraph7}
 
 ### Optimizing the Monopoly
