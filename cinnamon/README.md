@@ -81,6 +81,7 @@ Once true cinnamon had begun to be understood as cinnamon from Sri Lanka (histor
 <param title="Kingdom of Kotte" eid="Q1589163" aliases="Kotte">
 <param ve-map
 	title="Sri Lanka in the sixteenth century (after 1521)."
+	url="Sri-Lanka.json"
 	center="8.050740, 80.654834"
 	zoom="7.4">
 {#paragraph7}
