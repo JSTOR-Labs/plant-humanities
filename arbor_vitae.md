@@ -7,7 +7,7 @@
 	  num-images="8"
 	  num-specimens="5"
 	  num-primary-sources="7"
-	  author="Ashley Buchanan, PhD">
+	  author="Ashley Buchanan">
 
 <param title="Abies balsamea" eid="Q428023" aliases="fir">
 <param title="Picea glauca" eid="Q128116">
