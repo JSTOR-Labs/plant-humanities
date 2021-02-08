@@ -7,7 +7,7 @@
 	   num-images="11"
 	   num-specimens="0"
 	   num-primary-sources="6"
-	   author="Ashley Buchanan, PhD">
+	   author="Ashley Buchanan">
 
 <param title="Hartekamp" eid="Q18771183">
 <param title="ploidy" eid="Q118406" aliases="diploid">
