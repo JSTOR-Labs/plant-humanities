@@ -130,7 +130,7 @@ The real issue with boxwood was what sixteenth-century English physician John Ge
 {#paragraph6}
 
 Boxwood’s potential medicinal applications met with a similar lack of enthusiasm. Despite an attempt by Amato Lusitano, a sixteenth-century Portuguese Jewish physician, to prove that boxwood was a native European analogue of guaiacum and could, therefore, potentially cure syphilis, the general consensus—endorsed by the leading writer on _materia medica_, Pietro Andrea Mattioli—was that it “had no use in medicine.” Lusitano’s claim was dismissed as “vain and foolish,” which “could in no way be acceptable to doctors.”[^ref15] Such pronouncements against boxwood, which was considered of “no physical use among the most and best physicians,” were sustained by the Englishman John Parkinson (who, however, noted that its leaves could be given to horses as a cure for botfly larvae); Gerard raged against “foolish empirics and women leeches” who “minister it against apoplexy and such diseases.”[^ref16] This negative opinion continued to pervade early modern medical thought, while boxwood’s known curative properties, especially as a styptic, generally remained ignored. 
-<param ve-image maifest="https://iiif-v2.visual-essays.app/manifest/995bf168dc62df827f35c41106a1654d824b59f12f06c57325873ef85ea0c660" region="1,1157,1006,746">
+<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/995bf168dc62df827f35c41106a1654d824b59f12f06c57325873ef85ea0c660" region="1,1157,1006,746">
 {#paragraph7}
 
 ### A Crafty Kind of Wood
@@ -145,12 +145,10 @@ If Mattioli and Parkinson considered boxwood primarily an ornamental plant “we
 
 The vindication of boxwood as an essential garden plant took place in late sixteenth-century France, almost a millennium-and-a-half after its enthusiastic mention by Pliny. In horticulture, this moment marked the introduction of _parterres de broderie_ characterized by low, manicured hedges that imitated embroidery patterns. Boxwood—along with myrtle, lavender, juniper, and rosemary—was deemed particularly well-adapted to making the borders of plant beds, within which were planted marjoram, thyme, hyssop, pennyroyal, sage, chamomile, mint, violets, marguerites, basil, and other herbs and flowers.[^ref21] Horticultural theorist Olivier de Serres, in _Théâtre d’Agriculture_ (first published in 1600), emphasized boxwood’s resistance to the effects of weather and time and its little need for care, favorably contrasting it with myrtle, which was less suitable to colder climates. These properties, he believed, would have made boxwood a perfect garden shrub if not for the lack of “good scent,” having instead an odor “strong, unwelcome, and unpleasant, which causes headaches.”[^ref22]
 <param ve-image
-	title="Front page of Claude Mollet (c. 1564–c. 1649), _Theatre des plans et iardinages_, 1652."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
 	seq="9"
 	region="-396,75,4753,3521">
-	<param ve-image
-	title="Garden design pattern, in Claude Mollet, _Theatre des plans et iardinages_, 1652, plate 5."
+<param ve-image
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
 	seq="237"
 	region="-422,728,5072,3758">
@@ -167,13 +165,11 @@ In practical terms, borders involving a combination of different shrubs as descr
 
 Mollet’s planting and stylistic innovations gained the fullest expression in the gardens of Versailles—whose boxwood parterres, _berceau_ (bowers), and a labyrinth were created for Louis XIV by André Le Nôtre. From here they spread throughout Europe and beyond. Elaborate topiary work, for example, was one of the attractions of the European-style imperial garden of Yuanming Yuan (Old Summer Palace) in Beijing, designed in the eighteenth century by Jesuit Giuseppe Castiglione. Italy continued to be resistant to the wholesale adoption of boxwood but, in the end, the shrub’s triumph was complete. If, toward the end of the eighteenth century, agricultural reformer Marco Lastri had thought that the most characteristic plants growing in Italian gardens were “fruit trees, citruses, and flowers,” over a hundred years later, American novelist Edith Wharton (Beatrix Farrand’s aunt) extolled Italy’s “old garden-magic” that she identified with green “box-parterres” and “box-edged plots.”[^ref27] Even the once-reviled smell became a feature of Old World nostalgia. In her autobiography, Wharton would fondly recall her friend Vernon Lee’s “homely box-scented garden,” an epitome of the quaint European charm consciously cultivated by members of the Anglo-American community in Florence.[^ref28]
 <param ve-image
-	title="View of the garden of the Chatêau de Clagny at Versailles, in Charles Antoine Jombert (1712–1784), _Les delices de Versailles et des maisons royales_, 1766, plate 81."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:459932907"
 	seq="219"
 	rotate="90"
 	region="861,725,1619,2185">
 <param ve-image
-	title="_Parterres de broderie_ in the gardens of the Orangerie at Versailles, in Charles Antoine Jombert (1712–1784), _Les delices de Versailles et des maisons royales_, 1766, plate 118."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:459932907"
 	seq="117"
 	rotate="90"
