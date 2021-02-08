@@ -18,8 +18,8 @@ Arthur Chapman, March 17, 2011, Flickr, CC BY-NC-SA 2.0"
 <param title="cassava root" eid="Q43304555" aliases="cassava">
 <param title="cyanide" eid="Q55076544">
 When eaten raw, cassava is likely to leave a bitter taste in one’s mouth. Worse still, the unprocessed plant, containing high levels of cyanide, is poisonous to humans and can paralyze when eaten. Despite these deterring properties, cassava has long been culturally and nutritionally significant. And as a result of Indigenous peoples of Meso- and South America discovering a way to render it edible through extensive processing, today processed cassava is enjoyed by 600 million people.[^ref1] One of the world’s major food crops alongside maize, rice, and wheat, cassava is cultivated as far away from its native habitat in South America as Southeast Asia. Nigeria is the world’s largest producer of cassava, where it is a primary source of carbohydrates for many and is consumed as part of a popular dish known as _fufu_.
-<param ve-image primary title="Vitamin A Cassava, Nigeria, September 20, 2012" url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cassava_ap_001.JPG/1280px-Cassava_ap_001.JPG" attribution="HarvestPlus, Flickr, CC BY-NC 2.0">
-<param ve-image title="_Fufu and goat_, Goldy's Chop Bar, Ghana, June 24, 2010" url="cassava_fufu_goat_Ghana_Flickr.jpg" attribution="nats, Flickr, CC BY-NC-SA 2.0">
+<param ve-image primary title="Vitamin A Cassava, Nigeria, September 20, 2012" url="Cassava_VitA_Nigeria_Flickr-standard-scale-2_00x-gigapixel.jpg" attribution="HarvestPlus, Flickr, CC BY-NC 2.0">
+<param ve-image title="_Fufu_ and goat, Goldy's Chop Bar, Ghana, June 24, 2010" url="cassava_fufu_goat_Ghana_Flickr.jpg" attribution="nats, Flickr, CC BY-NC-SA 2.0">
 <param ve-image title="Cassava field near Bondoukou, north-eastern Ivory Coast, September 2014" url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cassava_ap_001.JPG/1280px-Cassava_ap_001.JPG" attribution="Slav4, Wikimedia Commons, CC BY-SA 4.0">
 {#paragraph1}
 
