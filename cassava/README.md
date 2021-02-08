@@ -1,7 +1,7 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config
 	title="Cultivating Cassava: From Toxic Tuber to Staple Starch"
-	banner="Cassava_tuber_Arthur Chapman_Flickr.jpg"
+	banner="Cassava_tuber_Chapman_Flickr.jpg"
 	layout="vtl"
 	num-maps="0"
 	num-specimens="0"
