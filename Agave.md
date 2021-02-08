@@ -8,7 +8,7 @@
 	   num-images="8"
 	   num-specimens="0"
 	   num-primary-sources="3"
-	   author="Ashley Buchanan, PhD">
+	   author="Ashley Buchanan">
 
 <param title="Hortus Botanicus Leiden" eid="Q2468128" aliases="city’s new botanical garden">
 <param title="Jalisco" eid="Q13160">
