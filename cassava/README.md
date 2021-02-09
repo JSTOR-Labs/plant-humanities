@@ -94,6 +94,10 @@ Knowledge of how to process cassava so that it could be safely consumed was comm
 <param title="Surinam" eid="Q7646305" aliases="Dutch Surinam">
 <param title="Maria Sibylla Merian" eid="Q62530">
 Although the Caribbean is not considered cassava’s native habitat, the plant was already cultivated by the indigenous Arawak peoples who lived in the Greater Antilles when Christopher Columbus arrived in the New World.[^ref15] Through European colonization, cassava was further introduced to other places in the Caribbean, such as Barbados and Haiti, becoming subsistence food for enslaved labor in plantations.[^ref16] Cassava was established as a staple across the Caribbean by the seventeenth century, and it was represented in naturalist Maria Sibylla Merian’s (1647–1717) _Metamorphosis insectorum Surinamensium_ (1719), which describes the plants and insects that she studied during her stay in Dutch Surinam between 1699 and 1701.
+<param ve-map prefer-geojson
+	title="Global Map."
+	center="12.505178623477077, 61.95092983683354"
+	zoom="1.8">
 {#paragraph10}
 
 <param title="Hans Sloane" eid="Q310326">
@@ -114,7 +118,7 @@ In her book, Merian describes cassava root as the ingredient for cassava bread t
 <param title="Berthold Seemann" eid="Q64899">
 <param title="Nicaragua" eid="Q811">
 European travelers also described the process of making cassava into fermented beverages. In his 1578 publication _History of a Voyage to the Land of Brazil_, French explorer Jean de Léry recorded a recipe for the alcoholic beverage _chicha_. Cassava was cut into pieces, then boiled, chewed in the mouth for some time to combine with saliva, then boiled again in a different vessel, and finally left to ferment for several days until it was ready for consumption.[^ref20] A few decades later, Spanish historian Antonio de León Pinelo recorded a similar account of the process in Peru, and British explorers Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in nineteenth-century Nicaragua.[^ref21] Depending on the location, the beverage was called _chicha_, _massato_ (a non-alcoholic variant mixed with honey), _acca_, _kufa_, or _mushla_. [^ref22]
-[Visualisation: page from Antonio de León Pinelo’s book.]
+<param ve-image fit="contain" url="https://ia903105.us.archive.org/BookReader/BookReaderImages.php?id=questionmoralsie00lenp&itemPath=%2F19%2Fitems%2Fquestionmoralsie00lenp&server=ia903105.us.archive.org&page=n6_w420" title="Antonio de León Pinelo" attribute="X">
 {#paragraph13}
 
 Even today, many Indigenous Peoples in Meso- and South America still follow these recipes for fermented cassava beverages that were established by their ancestors and recorded by European travelers. In addition to such descriptions in travel writings, knowledge of cassava also entered other eighteenth-century European texts, such encyclopedias, and informed various fields of knowledge production, from baking and chemistry to agriculture.[^ref23]
