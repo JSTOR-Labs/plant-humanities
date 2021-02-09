@@ -79,6 +79,10 @@ Despite the amount of work required to process cassava with high levels of cyani
 
 Knowledge of how to process cassava so that it could be safely consumed was communicated to Europeans who encountered the plant and brought it to other regions of the world in the sixteenth and seventeenth centuries. The mobility of cassava, therefore, lay not only in the movement of the plant itself, but also in the transmission of this knowledge. As explorers, traders, and enslaved peoples moved across South America and the Caribbean and over the Atlantic Ocean to Africa, so too did cassava cultivars and indigenous knowledge of how to process the plant.
 [Visualisation: map focusing on South American regions].
+<param ve-map prefer-geojson
+	title="Global Map."
+	center="12.505178623477077, 61.95092983683354"
+	zoom="1.8">
 {#paragraph9}
 
 <param title="Arawak peoples" eid="Q117244">
@@ -114,6 +118,7 @@ European travelers also described the process of making cassava into fermented b
 {#paragraph13}
 
 Even today, many Indigenous Peoples in Meso- and South America still follow these recipes for fermented cassava beverages that were established by their ancestors and recorded by European travelers. In addition to such descriptions in travel writings, knowledge of cassava also entered other eighteenth-century European texts, such encyclopedias, and informed various fields of knowledge production, from baking and chemistry to agriculture.[^ref23]
+<param ve-image url="https://iiif.wellcomecollection.org/image/V0044465.jpg/full/880%2C/0/default.jpg" title="Charles Theodore Middleton, _Workers preparing cakes from manioc root in the tropics, with decorative border_, ca. 1777, engraving, 28.7 x 17 cm (platemark)" attribution="Wellcome Library, CC BY 4.0">
 {#paragraph14}
 
 ### Cassava in Circulation
