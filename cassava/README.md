@@ -52,6 +52,8 @@ Representations of cassava made by Moche artists provide clues as to how the pla
 {#paragraph4}
 
 The Moche ceramic contains further clues as to early Andean understanding of cassava. Moche artists may have chosen to pair the cassava plant with the frog to highlight characteristics they share. Both were known for being poisonous and for their capacity to survive underground for long periods of time.[^ref6] Indeed, while cassava roots are the most commonly eaten part of the plant, they go bad quickly when dug up from the soil. However, if cassava is left in the ground, it can survive for up to four years and be harvested periodically.[^ref7]
+<param ve-image primary region="-518,414,3393,2510" title="_Jar Depicting the Botanical Frog_, Moche, Early Intermediate Period, 100-800 CE, ceramic, 27.5 cm x 17 cm x 21 cm" url="Jar-depicting-the-botanical-frog.jpg" attribution="Dumbarton Oaks Research Library and Collection, Washington, D.C.">
+<param ve-image title="Rayed figure in a litter carried by anthropomorphic warriors. Drawing reproduces iconography on the body of a ceramic vessel held by the Ethnologisches Museum Berlin. To the left of the figure in the dais are anthropomorphic fox, feline, maize or corn plant known as the Botanical Frog." url="https://iiif.lib.harvard.edu/manifests/ids:457658938" attribution="Donna McClelland, December 4, 1989, Harvard University, Dumbarton Oaks Research Library">
 {#paragraph5}
 
 ### Indigenous Knowledge: How to Process Poison 
