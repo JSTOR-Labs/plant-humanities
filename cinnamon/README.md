@@ -210,8 +210,8 @@ The last and most daring strategy was to transplant the true cinnamon to Spanish
 <param title="Guadeloupe" eid="Q3118683">
 <param title="Saint Vincent" eid="Q379656">
 <param ve-image
-	title="[No visualization here yet.]"
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
+	title="Cinnamon sticks for sale at the _marché de la Darse_, Pointe-à-Pitre, Guadeloupe."
+	url="https://upload.wikimedia.org/wikipedia/commons/4/40/Cannelle_%28March%C3%A9_de_la_Darse%29.jpg">
 {#paragraph18}
 
 Today, Sri Lanka again ranks high among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion remains: while _Cinnamomum verum_ J.Presl is grown in many countries in the tropical zone, the quality of the end product differs for each region.[^ref28] Moreover, commercial statistics usually bring all market variations under the rubric “cinnamon”, without differentiating between different _Cinnamomum_ species. This issue is even more pertinent in the context of medicine. Cinnamon has great potential therapeutic applications, but many studies fail to clarify which species of _Cinnamomum_ they focused on, making it difficult to compare the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is true and what is not.
