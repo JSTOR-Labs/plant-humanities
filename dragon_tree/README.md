@@ -171,17 +171,17 @@ Due to its near-extinction in the wild, _D. draco_ is officially designated as a
 
 [^ref2]: Fauna & Flora International, “Canary Islands Dragon Tree,” Global Trees.org, accessed August 3, 2020. [Click here for full article](https://globaltrees.org/threatened-trees/trees/dragon-tree/)
 
-[^ref3]: J. Francisco-Ortega et al., “Early Cultivation of Macaronesian Plants in Three European Gardens,” _Revista de la Academia Canaria de Ciencias_ 23, no. 3 (April 2012): 113–43. [Click here for full article](https://www.biodiversitylibrary.org/page/42322954#page/121/mode/1up). Although the classical Greek myth about the origin of dragon’s blood took place on the western edge of the known world, the dragon’s blood of antiquity derived from _D. cinnabari_ on Yemen’s Socotra island. See Andrew Dalby, _Food in the Ancient World from A to Z_ (London and New York: Routledge, 2003), 290 (under “Saffron”); and David J. Mabberley, _Mabberley’s Plant-Book: A Portable Dictionary of Plants, their Classification and Uses_, 4th ed. (Cambridge: Cambridge University Press, 2017), 310. [doi:10.1017/9781316335581](https://doi.org/10.1017/9781316335581)
+[^ref3]: J. Francisco-Ortega et al., “Early Cultivation of Macaronesian Plants in Three European Gardens,” _Revista de la Academia Canaria de Ciencias_ 23, no. 3 (April 2012): 113–43. [Click here for full article](https://www.biodiversitylibrary.org/page/42322954#page/121/mode/1up). Although the classical Greek myth about the origin of dragon’s blood took place on the western edge of the known world, the dragon’s blood of antiquity derived from _D. cinnabari_ on Yemen’s Socotra island. See Andrew Dalby, _Food in the Ancient World from A to Z_ (London and New York: Routledge, 2003), 290 (under “Saffron”); and David J. Mabberley, _Mabberley’s Plant-Book: A Portable Dictionary of Plants, their Classification and Uses_, 4th ed. (Cambridge: Cambridge University Press, 2017), 310. [DOI:10.1017/9781316335581](https://doi.org/10.1017/9781316335581)
 
 [^ref4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (transl.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70–1. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up). On _D. draco_’s wider significance within Guanche culture, see Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” _Africa: Rivista trimestrale di studi e documentazione dell’Istituto italiano per l’Africa e l’Oriente_ 39, no. 3 (1984): 489–90. [https://www.jstor.org/stable/40759752](https://www.jstor.org/stable/40759752)
 
-[^ref5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” _British Cactus & Succulent Journal_ 17, no. 4 (December, 1999): 171–7. [https://www.jstor.org/stable/42793606](https://www.jstor.org/stable/42793606); Jane Pearson and Hew D.V. Prendergast, “_Daemonorops_, _Dracaena_ and Other Dragon’s Blood,” _Economic Botany_ 55, no. 4 (October-December 2001): 474–7. [doi:10.1007/BF02871711](https://doi.org/10.1007/BF02871711)
+[^ref5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” _British Cactus & Succulent Journal_ 17, no. 4 (December, 1999): 171–7. [https://www.jstor.org/stable/42793606](https://www.jstor.org/stable/42793606); Jane Pearson and Hew D.V. Prendergast, “_Daemonorops_, _Dracaena_ and Other Dragon’s Blood,” _Economic Botany_ 55, no. 4 (October-December 2001): 474–7. [DOI:10.1007/BF02871711](https://doi.org/10.1007/BF02871711)
 
 [^ref6]: “Villa de La Orotava Dragon Tree Tour: The Arautava Giant,” Ayuntamiento: Villa de La Orotava, accessed August 3, 2020. [Click here for full article](https://www.laorotava.es/en/tourism/discover-la-orotava/villa-de-la-orotava-dragon-tree-tour).
 
 [^ref7]: Bontier, Le Verrier, and Major (transl.), _The Canarian_, 70–1. [Click here for full book](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up).
 
-[^ref8]: Rajinder K. Gupta, Bruce Bleakley, and Deepika Gupta, “Dragon’s blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008): 361. [doi:10.1016/j.jep.2007.10.018](https://doi.org/10.1016/j.jep.2007.10.018)
+[^ref8]: Rajinder K. Gupta, Bruce Bleakley, and Deepika Gupta, “Dragon’s blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008): 361. [DOI:10.1016/j.jep.2007.10.018](https://doi.org/10.1016/j.jep.2007.10.018)
 
 [^ref9]: John Gerard, _The Herball or generall Historie of Plantes_ (London: Adam Islip, Joice Norton and Richard Whitakers, 1633), 1524. [Click here for full book](https://www.biodiversitylibrary.org/page/8436768); John Parkinson, _Theatrum botanicum: the Theater of Plants. Or, an Herball of a large Extent_ (London: Tho. Cotes, 1640), 1532. [Click here for full book](https://www.biodiversitylibrary.org/page/56599957).
 
@@ -195,13 +195,13 @@ Due to its near-extinction in the wild, _D. draco_ is officially designated as a
 
 [^ref14]: Ledru, _Voyages_, 93.
 
-[^ref15]: Aaron González-Castro et al., “Unraveling the Seed Dispersal System of an Insular ‘Ghost’ Dragon Tree (_Dracaena draco_) in the Wild,” in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019). [doi:10.3389/fevo.2019.00039](https://doi.org/10.3389/fevo.2019.00039)
+[^ref15]: Aaron González-Castro et al., “Unraveling the Seed Dispersal System of an Insular ‘Ghost’ Dragon Tree (_Dracaena draco_) in the Wild,” in _Frontiers in Ecology and Evolution_ 7, no. 39 (February 2019). [DOI:10.3389/fevo.2019.00039](https://doi.org/10.3389/fevo.2019.00039)
 
 [^ref16]: Ledru, _Voyages_, 93.
 
 [^ref17]: Alice Carter Cook, “The Dragon Tree of Orotava,” _The Plant World_ 4, no. 7 (July 1901), 124. [https://www.jstor.org/stable/43475706](https://www.jstor.org/stable/43475706)
 
-[^ref18]: Joanna Jura-Morawiec and Mirela Tulik, “Dragon’s blood secretion and its ecological significance,” in _Chemoecology_ 26, no. 3, (March 2016), 101–5. [doi:10.1007%2Fs00049-016-0212-2](https://dx.doi.org/10.1007%2Fs00049-016-0212-2)
+[^ref18]: Joanna Jura-Morawiec and Mirela Tulik, “Dragon’s blood secretion and its ecological significance,” in _Chemoecology_ 26, no. 3, (March 2016), 101–5. [DOI:10.1007%2Fs00049-016-0212-2](https://dx.doi.org/10.1007%2Fs00049-016-0212-2)
 
 [^ref19]: Gupta, Bleakley, and Gupta, “Dragon’s blood,” 361.
 
@@ -209,4 +209,4 @@ Due to its near-extinction in the wild, _D. draco_ is officially designated as a
 
 [^ref21]: González-Castro et al., “Unraveling the Seed Dispersal System.”
 
-[^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [doi:10.3390/horticulturae5030064](https://doi.org/10.3390/horticulturae5030064)
+[^ref22]: Alexis Galus, Ali Chenari Bouket, and Balbahri Lassaad, “In Vitro Propagation and Acclimatization of Dragon Tree (_Dracaena draco_),” in _Horticulturae_ 5, no. 64 (September 2019). [DOI:10.3390/horticulturae5030064](https://doi.org/10.3390/horticulturae5030064)
