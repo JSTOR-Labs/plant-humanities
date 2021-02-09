@@ -123,8 +123,8 @@ Yet, cacao made it to England by the end of the sixteenth century, when the well
 <param title="Clusius based in Leiden" eid="Q43631" fill="#92086D" marker-symbol="user">
 
 Interestingly, Parkinson includes a [duplicate entry for cacao,](https://biodiversitylibrary.org/page/56601539) under the name “Cacao sive Cacaute,” or “Peare bearing wholesome Almond tree.” He states that the plant is made into a beverage called “Chocolate” in an unspecified indigenous language, revealing that our modern name for the creamy, satisfying delicacy made from cacao has its linguistic origins in the New World. The second entry references a different source, “Benzo,” likely the 1565 _Historia del Mondo Nuovo_ by Italian merchant Girolamo Benzoni, [where he discusses his encounters with cacao in the Americas.](https://play.google.com/books/reader?id=Etlmh2F9VucC&hl=en&pg=GBS.PT216)
-<param ve-image title="Theatrum Botanicum p. 1642" url="https://www.biodiversitylibrary.org/pageimage/56601539" region="1667,1240,2190,1890">
-<param ve-image title="Carolus Clusius' mentions of _Beretinus_ _fructus_ and _Cacao_ _fructus_" url="https://www.biodiversitylibrary.org/pageimage/8066123" region="1667,1240,2190,1890">
+<param ve-image title="Theatrum Botanicum p. 1642" url="https://www.biodiversitylibrary.org/pageimage/56601539" region="503,861,1701,1273">
+<param ve-image title="Carolus Clusius' mentions of _Beretinus_ _fructus_ and _Cacao_ _fructus_" url="https://www.biodiversitylibrary.org/pageimage/8066123" region="-124,1850,2497,1869">
 
 Benzoni refers to the use of cacao as money and describes the methods to create the cacao beverage. Because Benzoni actually visited the region, which he identifies as Nicaragua, his first-hand account references the ecology in which cacao grows: only very warm, moist, and shady areas. It is likely that these exotic ecological constraints added to the appeal of cacao, both for the Mexica and later the Europeans, because of the prestige associated with commanding such a limited network.
 <param ve-map title="World" center="12.316683, -84.946184" zoom="5" basemap="Esri_WorldPhysical">
