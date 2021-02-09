@@ -166,6 +166,7 @@ In addition to food security, cassava plays an increasingly important and divers
 
 <param title="Njideka Akunyili Crosby" eid="Q21284874">
 Associated with specific culture across the globe, but also symbolizing—having spread from its native habitat in South America, across the ocean to Africa, and back to South America and the Caribbean via diasporic African communities—cassava has also been celebrated in contemporary art. Nigerian–American artist Njideka Akunyili Crosby, for example, features cassava prominently in her work as she explores the ability of people, plants, and paintings to inhabit multiple spaces.
+<param ve-image compare url="Crosby_Cassava_Mural_Flickr.jpg">
 <param ve-image url="Crosby_Cassava_Mural_Flickr.jpg">
 {#paragraph20}
 
