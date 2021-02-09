@@ -72,7 +72,7 @@ Some of the implements used for processing cassava include [graters, strainers o
 
 <param title="Tucanoan languages" eid="Q788144" aliases="Tukanoans">
 Despite the amount of work required to process cassava with high levels of cyanide, bitter cassava is more popularly cultivated than sweet cassava in the Amazon today. The indigenous Tukanoans of the Yapu village in the northern Amazon, for example, grow 100  different types of cassava, 98 of which are bitter.[^ref13] Archaeologist Warren Wilson and anthropologist Darna Dufour have demonstrated that bitter cassava yields a higher harvest than does its sweet counterpart, possibly due to its resistance to disease and insects.[^ref14] It is perhaps for this reason that bitter cassava is favored as a food crop over sweet cassava, despite the additional processing to render it edible.
-<param ve-image url="http://sammlungen.ub.uni-frankfurt.de/panhuys/image/view/4989868?w=1000" title="Louise von Panhuys, _Sweet Cassava_ (_Süßer Maniok, Cassava_), 1816, watercolor, color pencil, 68.3 x 48.5 cm, Universitätsbibliothek, Frankfurt am Main">
+<param ve-image fit="contain" url="http://sammlungen.ub.uni-frankfurt.de/panhuys/image/view/4989868?w=1000" title="Louise von Panhuys, _Sweet Cassava_ (_Süßer Maniok, Cassava_), 1816, watercolor, color pencil, 68.3 x 48.5 cm, Universitätsbibliothek, Frankfurt am Main">
 {#paragraph8}
 
 ### Early Modern Encounters: European Codification of Indigenous Methods
@@ -118,7 +118,7 @@ European travelers also described the process of making cassava into fermented b
 {#paragraph13}
 
 Even today, many Indigenous Peoples in Meso- and South America still follow these recipes for fermented cassava beverages that were established by their ancestors and recorded by European travelers. In addition to such descriptions in travel writings, knowledge of cassava also entered other eighteenth-century European texts, such encyclopedias, and informed various fields of knowledge production, from baking and chemistry to agriculture.[^ref23]
-<param ve-image url="https://iiif.wellcomecollection.org/image/V0044465.jpg/full/880%2C/0/default.jpg" title="Charles Theodore Middleton, _Workers preparing cakes from manioc root in the tropics, with decorative border_, ca. 1777, engraving, 28.7 x 17 cm (platemark)" attribution="Wellcome Library, CC BY 4.0">
+<param ve-image fit="contain" url="https://iiif.wellcomecollection.org/image/V0044465.jpg/full/880%2C/0/default.jpg" title="Charles Theodore Middleton, _Workers preparing cakes from manioc root in the tropics, with decorative border_, ca. 1777, engraving, 28.7 x 17 cm (platemark)" attribution="Wellcome Library, CC BY 4.0">
 {#paragraph14}
 
 ### Cassava in Circulation
