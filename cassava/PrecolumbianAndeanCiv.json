@@ -1521,7 +1521,7 @@
         "stroke-opacity": 1,
         "fill": "##666666",
         "fill-opacity": 0.5,
-        "label": "Chavin"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
