@@ -7,10 +7,9 @@
         "stroke": "null",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#32C125",
+        "fill": "#421E52",
         "fill-opacity": 0.3,
         "label": "Nazca",
-        "inception": "5,000 BCE"
       },
       "geometry": {
         "type": "Polygon",
@@ -214,10 +213,9 @@
         "stroke": "null",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#32C125",
+        "fill": "#A0193B",
         "fill-opacity": 0.3,
-        "label": "India",
-        "inception": "5,000 BCE"
+        "label": "Moche",
       },
       "geometry": {
         "type": "Polygon",
