@@ -8,8 +8,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#CC3300",
-        "fill-opacity": 0.5,
-        "label": "Nazca"
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -214,8 +213,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#660066",
-        "fill-opacity": 0.5,
-        "label": "Moche"
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -708,8 +706,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#336600",
-        "fill-opacity": 0.5,
-        "label": "Chimor"
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -1334,8 +1331,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "##666666",
-        "fill-opacity": 0.5,
-        "label": "Chavin"
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -1520,8 +1516,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "##666666",
-        "fill-opacity": 0.5,
-        "label": ""
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
