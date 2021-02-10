@@ -23,7 +23,7 @@ When eaten raw, cassava is likely to leave a bitter taste in one’s mouth. Wors
 {#paragraph1}
 
 How did cassava come to occupy this pride of place in the global food system? How did cassava transform from a poisonous tuber into a major food staple, and from an exclusive dweller of South America into a cosmopolitan citizen of the world? To answer these questions, this essay looks at how human interactions with cassava helped shape the plant into the significant food crop that it is today. We first look at the elaborate method of processing cassava developed by the Indigenous peoples of Meso- and South America and then turn to the codification and spread of this knowledge, facilitated by European travelers to the New World. This meeting of Indigenous and European knowledge systems, combined with cassava’s tolerance for drought, resulted in a food crop that would create new hope for global food security in the twentieth and twenty-first centuries. Furthermore, as knowledge of cassava and its specimens circulated to different parts of the world, the plant took on additional cultural meanings through novel culinary uses and artistic representations.
-<param ve-image primary region="-70,-51,1422,1032" title="Cassava field near Bondoukou, north-eastern Ivory Coast, September 2014" url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cassava_ap_001.JPG/1280px-Cassava_ap_001.JPG" attribution="Slav4, Wikimedia Commons, CC BY-SA 4.0">
+<param ve-image primary fit="contain" title="Cassava field near Bondoukou, north-eastern Ivory Coast, September 2014" url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cassava_ap_001.JPG/1280px-Cassava_ap_001.JPG" attribution="Slav4, Wikimedia Commons, CC BY-SA 4.0">
 <param ve-image region="2124,680,2903,1968" url="Cassava_distribution_map_4.jpg" title="Global distribution of cassava. Cassava’s native habitat is marked in green, and regions where cassava was introduced by humans are marked in orange.">
 {#paragraph2}
 
@@ -40,7 +40,7 @@ Wild ancestors of the domesticated _Manihot esculenta_—known more commonly as 
 <param title="Moche culture" eid="Q208188" aliases="Moche">
 <param title="Chimú culture" eid="Q901198" aliases="Chimú">
 Archaeological evidence suggests that cassava became an important food staple for several ancient cultures in present-day Peru, including the Chavin (1000–200 B.C.E.), Nazca (200 B.C.E.–600 C.E.), Moche (250–750 C.E.), and Chimú (1000–1470 C.E.).[^ref4]
-<param ve-map prefer-geojson basemap="Esri_WorldPhysical" title="Precolumbian Andean civilizations" center="-10.398459529701169, -75.35486070351776" fill="#6600CC" stroke="##FFFFFF" stroke-width="3" zoom="5.5" show-label="true" marker-type="none">
+<param ve-map prefer-geojson basemap="Esri_WorldPhysical" title="Precolumbian Andean civilizations" center="-10.398459529701169, -75.35486070351776" stroke="#6600CC" fill="##FFFFFF" stroke-width="3" zoom="5.5" show-label="true" marker-type="none">
 {#paragraph4}
 
 <param title="Smoky Jungle Frog" eid="Q2136945" aliases="Leptodactylus pentadactylus">
