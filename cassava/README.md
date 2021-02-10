@@ -31,7 +31,7 @@ How did cassava come to occupy this pride of place in the global food system? Ho
 
 <param title="Manihot esculenta" eid="Q83124">
 Wild ancestors of the domesticated _Manihot esculenta_—known more commonly as cassava, manioc, or yuca—were likely introduced into Meso- and South-American agriculture by Indigenous farmers around 8000 BCE.[^ref2] Cassava was domesticated in these early agricultural plots, and the plant’s seeds and stem cuttings were traded over short distances.[^ref3]
-<param ve-map prefer-geojson basemap="Esri_WorldPhysical" title="Precolumbian Andean civilizations" center="-1.4585166415471484, -78.68148782237374" fill="#6600CC" opacity=".1" stroke="#6600CC" stroke-width="3" zoom="2" show-label="true" marker-type="none">
+<param ve-map prefer-geojson title="Meso- and South-America" basemap="Esri_WorldPhysical" title="Precolumbian Andean civilizations" center="-26.850832568491303, -70.27917714859446" zoom="2.5">
 {#paragraph3}
 
 <param title="Peru" eid="Q419">
