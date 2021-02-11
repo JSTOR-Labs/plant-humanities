@@ -89,8 +89,6 @@ Once true cinnamon had begun to be understood as cinnamon from Sri Lanka (histor
 	url="Kingdom-of-Sitawaka.json">
 <param ve-map-layer
 	url="Kingdom-of-Raigama.json">
-<param ve-map-layer
-	url="test.json">
 {#paragraph7}
 
 ### Optimizing the Monopoly
