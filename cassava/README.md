@@ -77,7 +77,7 @@ Despite the amount of work required to process cassava with high levels of cyani
 
 ### Early Modern Encounters: European Codification of Indigenous Methods
 
-Knowledge of how to process cassava so that it could be safely consumed was communicated to Europeans who encountered the plant and brought it to other regions of the world in the sixteenth and seventeenth centuries. The mobility of cassava, therefore, lay not only in the movement of the plant itself, but also in the transmission of this knowledge. As explorers, traders, and enslaved peoples moved across <span data-click-map-flyto="-7.2460, -55.3492">South America and the Caribbean</span> and over the Atlantic Ocean to <span data-click-map-flyto="4.3941, 18.5572">Africa</span>, so too did cassava cultivars and indigenous knowledge of how to process the plant.
+Knowledge of how to process cassava so that it could be safely consumed was communicated to Europeans who encountered the plant and brought it to other regions of the world in the sixteenth and seventeenth centuries. The mobility of cassava, therefore, lay not only in the movement of the plant itself, but also in the transmission of this knowledge. As explorers, traders, and enslaved peoples moved across South America and the Caribbean and over the Atlantic Ocean to Africa, so too did cassava cultivars and indigenous knowledge of how to process the plant.
 <param ve-map title="World Map" basemap="Esri_WorldPhysical" center="53.1024, 18.0104" zoom="3.5">
 {#paragraph10}
 
