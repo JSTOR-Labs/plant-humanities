@@ -4,11 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "null",
-        "stroke-width": 0,
+        "stroke": "#990000",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#990000",
-        "fill-opacity": 0.8,
+        "fill": "null",
+        "fill-opacity": 0,
         "label": "Nazca"
       },
       "geometry": {
@@ -118,11 +118,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "null",
-        "stroke-width": 0,
+        "stroke": "#660099",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#660099",
-        "fill-opacity": 0.8,
+        "fill": "null",
+        "fill-opacity": 0,
         "label": "Moche and Moche Influence"
       },
       "geometry": {
