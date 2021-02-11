@@ -136,7 +136,7 @@ With this transfer of knowledge from South America to Africa, other innovations 
 
 <param title="desertification" eid="Q183481">
 Today, Nigeria is the world’s largest producer of cassava, with over 34 million tons of cassava roots produced every year. A study carried out by Nigeria’s Department of Agriculture notes that cassava is a particularly suitable crop for the country’s predominantly smallholder farming. The plant’s most important characteristics that make it a crucial for household food are its year-round availability and resistance to drought, pests, and diseases.[^ref32] As more regions of the world face desertification, cassava’s ability to grow in dry climates will become even more important for preventing food scarcity in the future.
-<param ve-image fit="contain" url="IIT_weeded cassava field_Nigeria_Flickr.jpg" title="International Institute of Tropical Agriculture, _Weeded cassava field at Owiwi, Abeokuta, Nigeria_, November 3, 2012" attribution="Flickr, CC BY-NC 2.0">
+<param ve-image url="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-020-0501-z/MediaObjects/41597_2020_501_Fig1_HTML.png?as=webp" title="International Institute of Tropical Agriculture, _Weeded cassava field at Owiwi, Abeokuta, Nigeria_, November 3, 2012" attribution="Flickr, CC BY-NC 2.0">
 {#paragraph18}
 
 <param title="FAO" eid="Q82151" aliases="Food and Agriculture Organization (FAO)">
