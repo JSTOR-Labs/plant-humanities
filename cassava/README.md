@@ -34,7 +34,6 @@ Wild ancestors of the domesticated _Manihot esculenta_—known more commonly as 
 <param ve-map prefer-geojson title="Meso- and South-America" basemap="Esri_WorldPhysical" title="Precolumbian Andean civilizations" center="-16.50698840086817, -68.1038842231085" zoom="3">
 {#paragraph3}
 
-<param title="Peru" eid="Q419">
 <param title="Chavín culture" eid="Q13341477" aliases="Chavin">
 <param title="Nazca culture" eid="Q210570" aliases="Nazca">
 <param title="Moche culture" eid="Q208188" aliases="Moche">
