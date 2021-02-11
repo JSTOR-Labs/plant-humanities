@@ -164,7 +164,7 @@ In her painting _Cassava Garden_, Crosby juxtaposes a cassava plant with an Indi
 {#paragraph22}
 
 On the other hand, Crosby associates cassava with Nigerian village life, which is why her painting incorporates imagery from her childhood in Nigeria. Along the right side of the painting, we see a textile featuring the portrait that her mother used when she ran for senate in eastern Nigeria.[^ref37] Photographs from Nigeria are also incorporated into the cassava’s leaves, creating a layered effect that Crosby refers to as a “visual vibration.”[^ref38] This melding of present and past in the juxtaposition of a South American-cum-Nigerian plant and an Indian rubber tree makes these connections across time and space so strong. Much like its vegetal subject itself, Crosby’s painting seems to ask, “When does something belong to a place?”[^ref39]
-<param ve-image url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Crosby.jpg" title="Njideka Akunyili Crosby, _Cassava Garden_, 2015, Acrylic, transfers, colored pencil, charcoal and commemorative fabric on paper, 72 x 60 in, 182.88 x 152.40 cm, Photography: Robert Glowacki, Courtesy of the Artist, Victoria Miro, London, and David Zwirner, New York, © 2015 Njideka Akunyili. All rights reserved.">
+<param ve-image fit="contain" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Crosby.jpg" title="Njideka Akunyili Crosby, _Cassava Garden_, 2015, Acrylic, transfers, colored pencil, charcoal and commemorative fabric on paper, 72 x 60 in, 182.88 x 152.40 cm, Photography: Robert Glowacki, Courtesy of the Artist, Victoria Miro, London, and David Zwirner, New York, © 2015 Njideka Akunyili. All rights reserved.">
 {#paragraph23}
 
 ### References
