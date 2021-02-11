@@ -82,16 +82,16 @@ Knowledge of how to process cassava so that it could be safely consumed was comm
 {#paragraph10}
 
 <param title="Arawak peoples" eid="Q117244">
-<param title="Greater Antilles" eid="Q128011">
 <param title="Christopher Columbus" eid="Q7322">
+<param title="Greater Antilles" eid="Q128011">
 <param title="Haiti" eid="Q790">
 <param title="Barbados" eid="Q244">
 <param title="Metamorphosis insectorum Surinamensium" eid="Q1925022">
 <param title="Surinam" eid="Q7646305" aliases="Dutch Surinam">
 <param title="Maria Sibylla Merian" eid="Q62530">
 Although the Caribbean is not considered cassava’s native habitat, the plant was already cultivated by the indigenous Arawak peoples who lived in the Greater Antilles when Christopher Columbus arrived in the New World.[^ref15] Through European colonization, cassava was further introduced to other places in the Caribbean, such as Barbados and Haiti, becoming subsistence food for enslaved labor in plantations.[^ref16] Cassava was established as a staple across the Caribbean by the seventeenth century, and it was represented in naturalist Maria Sibylla Merian’s (1647–1717) _Metamorphosis insectorum Surinamensium_ (1719), which describes the plants and insects that she studied during her stay in Dutch Surinam between 1699 and 1701.
-<param ve-map title="Greater Antilles (yellow) including Haiti (purple), and Barbados (magenta)" basemap="Esri_WorldPhysical" center="18.690785147558955, -72.27517503730738" zoom="4.3" marker-type="none" stroke="none">
- <param ve-map-layer geojson active url="Create GreaterAntilles_Haiti_Barbados.json">
+<param ve-map title="Greater Antilles (yellow) including Haiti (purple), and Barbados (magenta)" basemap="Esri_WorldPhysical" center="18.690785147558955, -72.27517503730738" zoom="4.8" marker-type="none" stroke="none">
+<param ve-map-layer geojson active url="GreaterAntilles_Haiti_Barbados.json">
 {#paragraph11}
 
 <param title="Hans Sloane" eid="Q310326">
