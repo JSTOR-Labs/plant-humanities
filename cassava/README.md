@@ -39,7 +39,7 @@ Wild ancestors of the domesticated _Manihot esculenta_—known more commonly as 
 <param title="Moche culture" eid="Q208188" aliases="Moche">
 <param title="Chimú culture" eid="Q901198" aliases="Chimú">
 Archaeological evidence suggests that cassava became an important food staple for several ancient cultures in present-day Peru, including the Chavin (1000–200 B.C.E.), Nazca (200 B.C.E.–600 C.E.), Moche (250–750 C.E.), and Chimú (1000–1470 C.E.).[^ref4]
-<param ve-map basemap="Esri_WorldPhysical" title="Pre-Columbian Andean civilizations: Nazca (magenta), Moche (purple), and Chimú (yellow)" center="-10.398459529701169, -75.35486070351776" marker-type="none" zoom="5" fill="none">
+<param ve-map basemap="Esri_WorldPhysical" title="Pre-Columbian Andean civilizations: Nazca (magenta), Moche (purple), and Chimú (yellow)" center="-10.398459529701169, -75.35486070351776" marker-type="none" zoom="5">
 <param ve-map-layer geojson active url="Peru_Nazca_Moche_Chimor.json" show-label="true">
 {#paragraph4}
 
