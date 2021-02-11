@@ -33,7 +33,7 @@ How could this confusion last so long? One possible explanation for the shift fr
 <param title="Garcia de Orta" eid="Q1493994">
 <param title="Old Goa" eid="Q553907" aliases="Goa">
 <param ve-image
-	title="Cinnamon leaf and bark, in Garcia de Orta, _Aromatum, et Simplicium aliquot Medicamentorum apud Indos nascentium Historia_ (Antverpiae: Ex officina Christophori Plantini, 1567), 72. The images were not in Orta’s original Portuguese publication of 1563, but they were added by the editor, Flemish botanist Carolus Clusius, for this Latin edition."
+	title="Cinnamon leaf and bark, in Garcia de Orta, _Aromatum, et Simplicium aliquot Medicamentorum apud Indos nascentium Historia_ (Antverpiae: Ex officina Christophori Plantini, 1567), 72. The images were not in Orta’s original Portuguese publication of 1563, but were added by the editor, Flemish botanist Carolus Clusius, for this Latin edition."
 	url="https://www.archive.org/download/mobot31753003488159/page/n71_w314">
 <param ve-image
 	title="Cinnamon bark, in Carolus Clusius, _Exoticorum Libri Decem_ ([Leiden]: Ex Officinâ Plantinianâ Raphelengii, 1605), 171. Clusius adapted Orta’s work once more for this publication on exotic naturalia. Unhappy with the leaf image from his 1567 edition of Orta’s work, he left it out here, and only included the image of cinnamon bark."
