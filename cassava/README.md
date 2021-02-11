@@ -123,7 +123,7 @@ Even today, many Indigenous Peoples in Meso- and South America still follow thes
 ### Cassava in Circulation
 
 As Europeans moved between continents, knowledge of cassava preparation, together with the plant itself, traveled with them. Cassava was initially transplanted to the west coast of Africa by Portuguese traders as early as the sixteenth century.[^ref24] At first, traders and slavers transported it in the form of a finished product, _farinha_ (manioc flour), that had been produced in Brazil.[^ref25] Eventually, Amerindian peoples from the New World who knew how to process the plant were also brought to Africa.[^ref26] Similarly, Africans brought back knowledge of cassava processing they had learned in the New World.[^ref27] Once it started being cultivated in Africa, cassava and the knowledge of its preparation became localized along the west coast of Africa, subsequently spreading inland and to other parts of the continent.[^ref28]
-<param ve-image region="2124,680,2903,1968" url="Cassava_distribution_map_4.jpg" title="Global distribution of cassava. Cassava’s native habitat is marked in green, and regions where cassava was introduced by humans are marked in orange.">
+<param ve-image region="2188,991,1452,1275" url="Cassava_distribution_map_4.jpg" title="Global distribution of cassava. Cassava’s native habitat is marked in green, and regions where cassava was introduced by humans are marked in orange.">
 <param ve-image fit="cover" url="CassavaProc_RootsTubersBananas_Mural_Flickr.jpg" title="_Cassava processing in Benin_, wall mural, March 7, 2015" attribution="Roots, Tubers and Bananas, photo by D. Dufour, Flickr, CC BY-NC-SA 2.0">
 3204,756,611,537
 {#paragraph16}
