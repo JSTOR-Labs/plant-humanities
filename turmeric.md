@@ -98,4 +98,4 @@ As Deborah Lupton writes in her work Food, the Body, and the Self, “by taking 
 [^ref7]: Stephanie Maroney, “‘To Make Curry the India Way’: Tracking the Meaning of Curry Across Eighteenth-Century Communities” _Food and Foodways_ 19 (2011), p. 129.
 [^ref8]: Deborah Lupton, _Food, the Body, and the Self_ (London: Sage Publications, 1996), p. 16
 [^ref9]: Marcy Norton, _Sacred Gifts, Profane Pleasures: A History of Tobacco and Chocolate in the Atlantic World_ (Ithaca: Cornell University Press, 2008), p. 9
-[^ref10]: Susan Zlotnick. "Domesticating Imperialism: Curry and Cookbooks in Victorian England." Frontiers 16, no. 2 (1995): 51-68.
+[^ref10]: Susan Zlotnick. "Domesticating Imperialism: Curry and Cookbooks in Victorian England." _Frontiers_ 16, no. 2 (1995): 51-68.
