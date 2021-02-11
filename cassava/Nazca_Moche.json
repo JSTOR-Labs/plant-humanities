@@ -447,7 +447,7 @@
         "stroke": "#003300",
         "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "0",
+        "fill": "null",
         "fill-opacity": 0,
         "label": "Peru"
       },
