@@ -78,11 +78,7 @@ Despite the amount of work required to process cassava with high levels of cyani
 ### Early Modern Encounters: European Codification of Indigenous Methods
 
 Knowledge of how to process cassava so that it could be safely consumed was communicated to Europeans who encountered the plant and brought it to other regions of the world in the sixteenth and seventeenth centuries. The mobility of cassava, therefore, lay not only in the movement of the plant itself, but also in the transmission of this knowledge. As explorers, traders, and enslaved peoples moved across South America and the Caribbean and over the Atlantic Ocean to Africa, so too did cassava cultivars and indigenous knowledge of how to process the plant.
-[Visualisation: map focusing on South American regions].
-<param ve-map prefer-geojson
-	title="Global Map."
-	center="12.505178623477077, 61.95092983683354"
-	zoom="1.8">
+<param ve-image url="Willdey_Map_Rumsey_large.jpg">
 {#paragraph10}
 
 <param title="Arawak peoples" eid="Q117244">
@@ -94,10 +90,7 @@ Knowledge of how to process cassava so that it could be safely consumed was comm
 <param title="Surinam" eid="Q7646305" aliases="Dutch Surinam">
 <param title="Maria Sibylla Merian" eid="Q62530">
 Although the Caribbean is not considered cassava’s native habitat, the plant was already cultivated by the indigenous Arawak peoples who lived in the Greater Antilles when Christopher Columbus arrived in the New World.[^ref15] Through European colonization, cassava was further introduced to other places in the Caribbean, such as Barbados and Haiti, becoming subsistence food for enslaved labor in plantations.[^ref16] Cassava was established as a staple across the Caribbean by the seventeenth century, and it was represented in naturalist Maria Sibylla Merian’s (1647–1717) _Metamorphosis insectorum Surinamensium_ (1719), which describes the plants and insects that she studied during her stay in Dutch Surinam between 1699 and 1701.
-<param ve-map prefer-geojson
-	title="Global Map."
-	center="12.505178623477077, 61.95092983683354"
-	zoom="1.8">
+<param ve-image url="Willdey_Map_Rumsey_large.jpg">
 {#paragraph11}
 
 <param title="Hans Sloane" eid="Q310326">
