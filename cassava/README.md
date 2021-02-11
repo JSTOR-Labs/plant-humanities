@@ -79,7 +79,7 @@ Despite the amount of work required to process cassava with high levels of cyani
 
 Knowledge of how to process cassava so that it could be safely consumed was communicated to Europeans who encountered the plant and brought it to other regions of the world in the sixteenth and seventeenth centuries. The mobility of cassava, therefore, lay not only in the movement of the plant itself, but also in the transmission of this knowledge. As explorers, traders, and enslaved peoples moved across South America and the Caribbean and over the Atlantic Ocean to Africa, so too did cassava cultivars and indigenous knowledge of how to process the plant.
 <param ve-map title="World Map" basemap="Esri_WorldPhysical" center="-7.9364, -14.3925" zoom="2.3" marker-type="none" stroke="none">
-<ve-map-layer geojson active url="distribution_arrows.json">
+<param ve-map-layer geojson active url="distribution_arrows.json">
 {#paragraph10}
 
 <param title="Arawak peoples" eid="Q117244">
