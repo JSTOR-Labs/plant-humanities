@@ -31,7 +31,7 @@ How did cassava come to occupy this pride of place in the global food system? Ho
 
 <param title="Manihot esculenta" eid="Q83124">
 Wild ancestors of the domesticated _Manihot esculenta_—known more commonly as cassava, manioc, or yuca—were likely introduced into Meso- and South-American agriculture by Indigenous farmers around 8000 BCE.[^ref2] Cassava was domesticated in these early agricultural plots, and the plant’s seeds and stem cuttings were traded over short distances.[^ref3]
-<param ve-map prefer-geojson title="Meso- and South-America" basemap="Esri_WorldPhysical" title="Precolumbian Andean civilizations" center="-16.50698840086817, -68.1038842231085" zoom="2.9">
+<param ve-map prefer-geojson title="Meso- and South-America" basemap="Esri_WorldPhysical" title="Precolumbian Andean civilizations" center="-16.50698840086817, -68.1038842231085" zoom="3">
 {#paragraph3}
 
 <param title="Chavín culture" eid="Q13341477" aliases="Chavin">
@@ -39,7 +39,7 @@ Wild ancestors of the domesticated _Manihot esculenta_—known more commonly as 
 <param title="Moche culture" eid="Q208188" aliases="Moche">
 <param title="Chimú culture" eid="Q901198" aliases="Chimú">
 Archaeological evidence suggests that cassava became an important food staple for several ancient cultures in present-day Peru, including the Chavin (1000–200 B.C.E.), Nazca (200 B.C.E.–600 C.E.), Moche (250–750 C.E.), and Chimú (1000–1470 C.E.).[^ref4]
-<param ve-map basemap="Esri_WorldPhysical" title="Pre-Columbian Andean civilizations: Nazca (magenta), Moche (purple), and Chimú (yellow)" center="-10.398459529701169, -75.35486070351776" zoom="5" marker-type="none" stroke="none">
+<param ve-map basemap="Esri_WorldPhysical" title="Locations of Pre-Columbian Andean civilizations: Nazca (magenta), Moche and Moche Influence (purple), and Chimú (yellow)" center="-10.398459529701169, -75.35486070351776" zoom="5" marker-type="none" stroke="none">
 <param ve-map-layer geojson active url="Peru_Nazca_Moche_Chimor.json">
 {#paragraph4}
 
