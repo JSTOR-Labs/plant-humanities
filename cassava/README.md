@@ -13,7 +13,6 @@ Arthur Chapman, March 17, 2011, Flickr, CC BY-NC-SA 2.0"
 
 ### Introduction
 
-<param title="carbohydrate" eid="Q11358" aliases="carbohydrates">
 <param title="fufu" eid="Q941004">
 <param title="cassava root" eid="Q43304555" aliases="cassava">
 <param title="cyanide" eid="Q55076544">
@@ -82,6 +81,7 @@ Despite the amount of work required to process cassava with high levels of cyani
 Knowledge of how to process cassava so that it could be safely consumed was communicated to Europeans who encountered the plant and brought it to other regions of the world in the sixteenth and seventeenth centuries. The mobility of cassava, therefore, lay not only in the movement of the plant itself, but also in the transmission of this knowledge. As explorers, traders, and enslaved peoples moved across South America and the Caribbean and over the Atlantic Ocean to Africa, so too did cassava cultivars and indigenous knowledge of how to process the plant.
 <param ve-map title="World Map" basemap="Esri_WorldPhysical" center="-7.9364, -14.3925" zoom="2.3" marker-type="none" stroke="none">
 <param ve-map-layer geojson active url="distribution_arrows.json">
+<param ve-map-layer geojson active url="GreaterAntilles_Haiti_Barbados.json">
 {#paragraph10}
 
 <param title="Arawak peoples" eid="Q117244">
@@ -94,6 +94,7 @@ Knowledge of how to process cassava so that it could be safely consumed was comm
 <param title="Maria Sibylla Merian" eid="Q62530">
 Although the Caribbean is not considered cassava’s native habitat, the plant was already cultivated by the indigenous Arawak peoples who lived in the Greater Antilles when Christopher Columbus arrived in the New World.[^ref15] Through European colonization, cassava was further introduced to other places in the Caribbean, such as Barbados and Haiti, becoming subsistence food for enslaved labor in plantations.[^ref16] Cassava was established as a staple across the Caribbean by the seventeenth century, and it was represented in naturalist Maria Sibylla Merian’s (1647–1717) _Metamorphosis insectorum Surinamensium_ (1719), which describes the plants and insects that she studied during her stay in Dutch Surinam between 1699 and 1701.
 <param ve-map title="Greater Antilles (yellow) including Haiti (purple), and Barbados (magenta)" basemap="Esri_WorldPhysical" center="19.1981, -71.06222" zoom="5.2" marker-type="none" stroke="none">
+<param ve-map-layer geojson active url="distribution_arrows.json">
 <param ve-map-layer geojson active url="GreaterAntilles_Haiti_Barbados.json">
 {#paragraph11}
 
@@ -163,6 +164,7 @@ Associated with specific culture across the globe, but also symbolizing—having
 <param ve-image fit="contain" url="Crosby_Cassava_Mural_Flickr.jpg" title="Njideka Akunyili Crosby, _Obodo (Country/City/Town/Ancestral Village)_, outdoor mural, MOCA Grand Avenue, Los Angeles, CA, September 30, 2018" attribute="waltarrrrr, Flickr, CC BY-NC-ND 2.0">
 {#paragraph21}
 
+<param title="Los Angeles" eid="Q65">
 In her painting _Cassava Garden_, Crosby juxtaposes a cassava plant with an Indian rubber tree, two species of plants growing in Los Angeles, where she lives and works. Crosby is well aware that neither of these plants is native to the United States, having been brought there by people from different parts of the world. By representing them together, she speaks to different meanings of place-making. On the one hand, the painting represents an imagined garden, where two plants of different geographic origin can happily coexist.[^ref36] The juxtaposition of these plants refers to modern Los Angeles, where they _do_ coexist today.
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/melindasusanto/demo1/master/Crosby.jpg" title="Njideka Akunyili Crosby, _Cassava Garden_, 2015, Acrylic, transfers, colored pencil, charcoal and commemorative fabric on paper, 72 x 60 in, 182.88 x 152.40 cm, Photography: Robert Glowacki, Courtesy of the Artist, Victoria Miro, London, and David Zwirner, New York, © 2015 Njideka Akunyili. All rights reserved.">
 {#paragraph22}
