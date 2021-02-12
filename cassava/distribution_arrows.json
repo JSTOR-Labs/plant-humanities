@@ -8,8 +8,7 @@
         "stroke-width": 3,
         "stroke-opacity": 1,
         "fill": "#6600CC",
-        "fill-opacity": 0.8,
-        "label": "none"
+        "fill-opacity": 0.8
       },
       "geometry": {
         "type": "Polygon",
@@ -158,8 +157,7 @@
         "stroke-width": 3,
         "stroke-opacity": 1,
         "fill": "#009900",
-        "fill-opacity": 0.8,
-        "label": "none"
+        "fill-opacity": 0.8
       },
       "geometry": {
         "type": "Polygon",
@@ -316,8 +314,7 @@
         "stroke-width": 3,
         "stroke-opacity": 1,
         "fill": "#FFCC00",
-        "fill-opacity": 0.8,
-        "label": "none"
+        "fill-opacity": 0.8
       },
       "geometry": {
         "type": "Polygon",
