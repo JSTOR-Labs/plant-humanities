@@ -16,23 +16,27 @@ _Helianthus annuus_, the common sunflower, is an annual herb that includes wild,
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Helianthus_annuus_3.jpg" title="Wild _Helianthus annuus_ is an annual plant with a multi-branched stem and many small flower heads, Kyle Canyon Road, Spring Mountains, southern Nevada, Stan Shebs, Wikimedia Commons, CC BY-SA 3.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/3/3b/SunflowerYield.png" title="Map of sunflower production (average percentage of land used for its production times average yield in each grid cell) in the year 2000, University of Minnesota Institute on the Environment, data (doi.org/10.1029/2007GB002947), AndrewMT, Wikimedia Commons, CC BY-SA 3.0">
+{#paragraph1}
 
 <param ve-entity eid="Q995745" title="artificial selection" aliases="artificially selected">
 <param ve-entity eid="Q3796486" title="botanical illustration">
 While the domesticated sunflower is an imposing presence in nature, its aesthetic portrayals also hold powerful and enduring visual appeal. Like the supersized flower in this botanical illustration, cultivated _Helianthus annuus_ looms large in many cultural imaginaries. So large, in fact, that we may be more familiar with sunflower imagery than with the actual flower. Its proliferation in European art since the late sixteenth century was due partly to the aesthetic appeal of traits artificially selected to increase seed production—a single composite flower head with a large disk—and partly to the timing of its introduction to Europe just prior to the blossoming of a new genre of botanical treatise, called the [florilegium](https://wordsmith.org/words/florilegium.html) (collection of flowers), in the early 1600s. The transplanting of the flower and the cultural excitement surrounding its foreign provenance were also fueled by the European exploration and colonization of North America prior to and during this period.
 <param ve-image fit="contain" url="https://www.rct.uk/sites/default/files/collection-online/8/1/257146-1330624291.jpg" title="Alexander Marshal, _Common sunflower and greyhound_, c. 1650-82, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2020">
+{#paragraph2}
 
 A cultural history of the sunflower that attends to the circulation and significance of images can provide rich historical information about the plant and the role of visual culture in communicating the knowledge, myth, and meaning related to it. Artists working in Europe from the late sixteenth to the late nineteenth centuries produced many likenesses of the sunflower, which served aesthetic, imperial, scientific, commercial, and other functions. In doing so, they developed conventions for representing specific characteristics that were tailored to those aims. By tracking changes in that [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) over time, we can learn about the historical significance of sunflowers in specific temporal and geographic contexts, as well as shifts in the ways that humans have represented, encountered, used, studied, and valued them. Close visual analysis of works of botanical art and other sorts of floral imagery can also help us cultivate and bring greater attentiveness to our encounters with plants.
 <param ve-image layers url="https://upload.wikimedia.org/wikipedia/commons/4/40/Sunflower_sky_backdrop.jpg" title="_Helianthus annuus_ cv. Sunfola, Fir0002, 2008, Wikimedia Commons, CC BY-NC 3.0">
 <param ve-image url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
+{#paragraph3}
 
 ### Naming the Iconic Flower
 
-<param ve-entity eid="Q10432667306" title="Carl Linnaeus" aliases="Carolus Linnaeus">
-The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2%29)_—a Latin compound derived from the Greek words helios (sun) and anthos (flower)—and the species _Helianthus annuus_ were named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the domesticated sunflower was already a beloved garden flower in Europe.[^ref3] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_, from 1737, offers some insights.[^ref4] He writes, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?”[^ref5] His encomium on the splendor of a mature inflorescence and its formal resemblance to the sun demonstrates traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
+<param ve-entity eid="Q1043" title="Carl Linnaeus" aliases="Carolus Linnaeus">
+The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)_—a Latin compound derived from the Greek words helios (sun) and anthos (flower)—and the species _Helianthus annuus_ were named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the domesticated sunflower was already a beloved garden flower in Europe.[^ref3] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant in _[Critica botanica](https://bibdigital.rjb.csic.es/idurl/1/11541)_, from 1737, offers some insights.[^ref4] He writes, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?”[^ref5] His encomium on the splendor of a mature inflorescence and its formal resemblance to the sun demonstrates traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
 <param ve-image primary fit="contain" url="LINN_Critica botanica_97-standard-scale-2_00x-gigapixel.jpg" title="Carolus Linnaeus, _Critica botanica_, Lugduni Batavorum: Apud Conradum Wishoff, 1737, 97 © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image fit="contain" url="LINN_Critica botanica_98-gigapixel-standard-scale-2_00x.jpg" title="Carolus Linnaeus, _Critica botanica_, Lugduni Batavorum: Apud Conradum Wishoff, 1737, 98 © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image fit="contain" url="https://content.ngv.vic.gov.au/retrieve.php?size=1280&type=image&vernonID=28131" title="Joseph Highmore, _Pamela shows Mr Williams a hiding place for her letters_, from _Pamela_, 1745, engraving, 26.7 × 35.6 cm (image), printed by Antoine Benoist, published 1762, London, National Gallery of Victoria, Melbourne, public domain">
+{#paragraph4}
 
 ### Plant Mobility and Early Printed Books
 
@@ -40,12 +44,14 @@ The genus _[Helianthus](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipn
 <param ve-entity eid="Q6165948" title="herbal" aliases="herbals">
 The first known pictures of domesticated sunflowers produced by Europeans were printed in herbals in the late 1560s.[^ref6] These illustrations of tall, hearty plants with thick stocks, giant leaves, and ponderous sun-shaped flowers provide a foundation for studying later sunflower iconography. Such visual descriptions along with textual ones also help us to chart the plant’s mobility from North America to Europe. Yet, it is important to acknowledge that herbals present incomplete and sanitized histories of the plant world during the age of colonization. The treatises typically omit any information about plant harvesting and the impact of such exploitative practices, now termed [extraction colonialism](https://www.historians.org/publications-and-directories/perspectives-on-history/october-2015/a-typology-of-colonialism), on Indigenous peoples and local habitats. For this and other reasons, questions persist about who first collected sunflowers, when and from where they did so, and what global circumstances permitted that type of bioprospecting.
 <param ve-knightlab-timeline source="1gtN_aUHlOPEZr_APokEFgx4cJGoy4wKMha-UavmXiKk&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
+{#paragraph5}
 
 <param ve-entity eid="Q181916" title="herbarium">
 <param ve-entity eid="Q457191" title="Pietro Andrea Mattioli">
 <param ve-entity eid="Q437466" title="Rembert Dodoens">
 Once introduced to Spain, the domesticated sunflower quickly migrated to parts of Italy and the Low Countries via transregional trade routes, as did images of it.[^ref7] Networks of wealthy and privileged Europeans, most of whom were men, exchanged plant materials for cultivating _Helianthus annuus_ and instructions for doing so in letters and drawings. Physician and botanist Pietro Andrea Mattioli acknowledged his receipt of such correspondence in a late edition of his herbal _[I Discori](https://ia601904.us.archive.org/BookReader/BookReaderImages.php?zip=/3/items/gri_33125014246561/gri_33125014246561_jp2.zip&file=gri_33125014246561_jp2/gri_33125014246561_0029.jp2&id=gri_33125014246561&scale=6.211180124223603&rotate=0)_, from 1568, as did Flemish physician and botanist Rembert Dodoens in his precursor to a florilegium, _[Florum, et coronariarum](https://archive.org/details/Florum-et-coronariarum-odoratarumque-nonnullarum-herbarum-historia-Remberto-Dodo-PHAIDRA_o_358242/page/n309/mode/2up)_, of the same year.[^ref8] This model visualizes some of their connections with a group of botanists, patrons, publishers, artists, and members of royal courts who exchanged information about sunflowers that was then recounted in herbals produced in the 1560s and 1570s.
 <param ve-d3plus-ring-network url="Helianthus_annuus_network_low_countries_rev.tsv" center="BOTANIST" title="Network of botanists who authored or translated herbals in which the cultivated sunflower was described and, in some cases, represented visually">
+{#paragraph6}
 
 ### Sunflower Aesthetics in Full Bloom
 <param ve-entity eid="Q65027" title="Basilius Besler">
@@ -55,6 +61,7 @@ Once introduced to Spain, the domesticated sunflower quickly migrated to parts o
 <param ve-image fit="contain" url="http://beeld.teylersmuseum.nl/Digital_Library/Emags/149b_439-2/pubData/source/images/1366x653/pages/page87.jpg" title="_Flos Solis prolifer_, in Basilius Besler, _Hortus Eystettensis_ vol. 2, 1613, Neurenberg, Teylers Museum, CC-BY-NC">
 The advent of the florilegium in the 1610s was integral to the blossoming of sunflower aesthetics, as is evidenced in the sumptuous prints contained in [_Hortus Eystettensis_](https://bibdigital.rjb.csic.es/idurl/1/10908).[^ref9] The 1613 book was commissioned from apothecary and botanist Basilius Besler by the Prince Bishop of Eichstätt, who wished to document rare and foreign flora then growing in his garden in Bavaria. As part of the project, Besler oversaw the production of this hand-colored [engraving](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/glossary) of a domesticated sunflower shown life-sized. The image’s impact derives not only from its impressive dimensions but also from its bold cruciform composition, both of which imbue the full flower head and stem with a sense of power and religious reverence for nature. A symmetrical design makes the flower’s disk spiral a focal point around which irregular ray florets lend rhythm and heart-shaped leaves a decorative flourish. These formal strategies were innovative for the time because they celebrated the sunflower’s beauty above its use value, unlike most economical illustrations then found in herbals. For that reason, Besler’s _Flos Solis maior_ (large flower of the sun) became an influential model for visualizing _Helianthus annuus_ that anticipated modern visual stereotypes for the plant, perhaps best epitomized by [this tiny sunflower emoji](https://openmoji.org/library/#search=sunflower).
 ![](Sunflower emoji_openmoji.org_tiny.jpg){: .left}
+{#paragraph7}
 
 ### Mythic Encounters and Scientific Debates
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
@@ -65,10 +72,12 @@ The migration of sunflower iconography from one source to another is evidenced i
 <param ve-image fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/43/8d/9e/4c/438d9e4c-7775-4cb9-8e4d-8eb26c4a1cf0/iiif/BES_Hort_2_000138.tif/13.450733752620545,20.173374613003098,3187.8238993710693,4148.990712074304/!474,617/0/default.jpg" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, CC BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/kristanmhanson/plant-humanities/develop/images/sunflower_Collaert_Rijksmuseum_RP-P-BI-5997.jpg" title="Adriaen Collaert, _Sunflower and Other Flowers_, 8 from set of 24, _Florilegium_, 1570-before 1618, published by Theodoor Galle and Philips Galle, possibly Netherlands, engraving, 178 × 126 mm, Rijksmuseum, Amsterdam, public domain">
 <param ve-image fit="contain" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003488126&itemPath=%2F3%2Fitems%2Fmobot31753003488126&server=ia600500.us.archive.org&page=n193_w363" title="Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_, 1619, trans. Anthoine Colin, Missouri Botanical Garden, Biodiversity Heritage Library">
+{#paragraph8}
 
 <param ve-entity eid="Q40614" title="fossil" aliases="fossilized remains">
 Although European herbals such as Hernández’s perpetuated cultural myths that the domesticated sunflower was present in Mexico prior to colonization or originated in Peru, botanists have since debunked these ideas by using distribution maps and fossilized remains to study the plant’s origin and range.[^ref14] The earliest known cultivated sunflower remains—charred seeds—tell us that humans used _Helianthus annuus_ at Hayes shelter in central Tennessee by 5000 BP ([Before Present](https://www.archaeological.org/programs/educators/introduction-to-archaeology/glossary/#b)) and parts of eastern North America by 3000 BP.[^ref15] It is likely that, in the pre-5000 BP context, Indigenous peoples transported wild sunflowers to their campsites, where the plants became stabilized and later cultivated to possess desirable traits, namely large flower heads with more seeds.[^ref16]
 <param ve-map prefer-geojson center="Q495448" fill="#cc9933" stroke="#cc6600" stroke-width="4" title="Hayes Shelter prehistoric site, Marshall County, central Tennessee" zoom="7.5" show-label="true">
+{#paragraph9}
 
 <param ve-entity eid="Q80914" title="Tabasco">
 <param ve-entity eid="Q491017" title="Pike County" aliases="eastern North America">
@@ -80,6 +89,7 @@ Although European herbals such as Hernández’s perpetuated cultural myths that
 <param ve-entity eid="Q839954" title="archaeological site">
 Yet scientists still disagree about when humans first used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether such plants were cultivated independently there.[^ref17] An ongoing source of debate is the origin of a charred seed that was recovered at San Andrés archaeological site in Tabasco, Mexico. Although some scientists identified the seed as coming from cultivated _Helianthus annuus_, others argued that it most likely came from a bottle gourd.[^ref18] Expanding on that archeological research, genomic studies of modern domesticated and wild sunflowers have linked the plants to a single common ancestor, which was cultivated at an independent domestication center, along with pepo squash, marsh elder, and chenopod, in <span data-click-map-flyto="37.347878, -89.590292">central Tennessee and other parts of eastern North America</span>.[^ref19] Citing that evidence, botanists have argued that domesticated _Helianthus annuus_ was brought to Mexico via North American trade routes, possibly by Spanish colonizers.[^ref20]
 <param ve-map prefer-geojson center="Q80914" fill="#cc9933" stroke="#cc6600" stroke-width="4" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
+{#paragraph10}
 
 ### “I’ll Follow the Sun”: Heliotropism as Metaphor and Myth
 
@@ -94,6 +104,7 @@ By the early 1630s, when Anthony van Dyck painted _Self-Portrait with Sunflower_
 <param ve-image fit="contain" url="sunflower_Vianen_Rijksmuseum_RP-P-1908-3593.jpg" title="Jan van Vianen, _Emblemes d'Amour_ (_Emblems of Love_), 1686, etching, 145 × 95 mm, Rijksmuseum, Amsterdam, public domain">
 <param ve-image fit="contain" url="https://bibdigital.rjb.csic.es/i/?IIIF=/0c/21/4f/74/0c214f74-b475-4efc-ba0c-0b5c745e3f71/iiif/4817_000147.tif/8.210526315789474,5.47329650092081,2225.0526315789475,1477.7900552486187/!813,540/0/default.jpg" title="Crispijn van de Passe, _Hortus floridus_, 1614-16, CC BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
 <param ve-image fit="contain" url="sunflower_Collaert_Rijksmuseum_RP-P-BI-5997.jpg" title="Adriaen Collaert, _Sunflower and Other Flowers_, 8 from set of 24, _Florilegium_, 1570-before 1618, published by Theodoor Galle and Philips Galle, possibly Netherlands, engraving, 178 × 126 mm, Rijksmuseum, Amsterdam, public domain">
+{#paragraph11}
 
 <param ve-entity eid="Q158082" title="Heliotropium">
 <param ve-entity eid="Q147281" title="Calendula">
@@ -103,16 +114,19 @@ By the early 1630s, when Anthony van Dyck painted _Self-Portrait with Sunflower_
 <param ve-entity eid="Q758238" title="attribute">
 Europeans associated sunflowers with the human sentiments of loyalty and constancy because the plant’s heliotropic phase (growing toward the light) of development recalled how, in an ancient Greek myth, the sea nymph Clytie expressed her devotion to the sun god Helios.[^ref22] According to the story, Clytie competed unsuccessfully for Helios’s affections. Scorned by him and shunned by her fellow nymphs, Clytie wasted away, wholly consumed with gazing upon his chariot as it traversed the sky. Her suffering ended with her metamorphosis into a heliotrope, so named for its flowers’ movement toward the sun’s rays. Heliotropism was associated with _Heliotropium_ in ancient Rome and later with _Calendula_, or the marigold, in [medieval Europe](https://www.metmuseum.org/blogs/in-season/2014/climbing-in-the-garden).[^ref23] Yet, as this print shows, European artists of the late sixteenth through the eighteenth centuries portrayed <span data-click-image-zoomto="884,1581,1475,1365">Clytie’s attribute</span> as a sunflower.[^ref24] That floral inventiveness demonstrates the fashionability of the sunflower as a motif and the degree to which it was entangled not only with beliefs about the flower’s formal resemblance to the sun but also with misconceptions about the mature plant being heliotropic. 
 <param ve-image fit="contain" url="Sunflower_Clytie_Rijksmuseum_RP-P-OB-5381.jpg" title="Francesco Bartolozzi, after Annibale Carracci, _Clytia_ (_Clytie_), 1772, published by John Boydell, London, etching/engraving, 511 × 458 mm, Rijksmuseum, Amsterdam, public domain">
+{#paragraph12}
 
 <param ve-entity eid="Q208353" title="circadian rhythm">
 There is a longstanding cultural assumption that sunflowers are heliotropic throughout their lives. In actuality, the plant only tracks the movement of the sun during an early phase of its development and once mature, faces the east. Scientists recently examined the physiological processes that are responsible for these phenomena.[^ref25] Their study reveals that the stems of immature plants elongate on opposite sides in a circadian rhythm: the east side elongates to produce heliotropism during the day and the west side does so to reorient eastward at night. This growth pattern results from different genes that are expressed in response to an internal clock or external light, and they also regulate the cessation of movement. These amazing adaptations have ecological advantages too—whereas heliotropism enhances the growth of the immature sunflower, the fixed eastward position of the blooming sunflower elevates its temperature and contributes to an increase in pollinator visitation. Needless to say, these exciting findings generated a [media buzz](https://www.npr.org/sections/thetwo-way/2016/08/05/488891151/the-mystery-of-why-sunflowers-turn-to-follow-the-sun-solved)!
 <param ve-video title="_Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits_, Hagop S. Atamian, Nicky M. Creux, Evan A. Brown, Austin G. Garner, Benjamin K. Blackman, Stacey L. Harmer, DOI: 10.1126/science.aaf9793" vid="rjwd4DErj_M?t=18">
+{#paragraph13}
 
 ### Out of One, Many
 
 <param ve-entity eid="Q729496" title="bract" aliases="bracts">
 In the eighteenth and early nineteenth centuries, botanical illustrators developed a refined iconography for representing cultivated sunflowers that allowed them to communicate scientific knowledge about the plant. This hand-colored print _Anatomy of the Sunflower_, designed by the British artist [Peter Henderson](http://vocab.getty.edu/page/ulan/500042021), exemplifies a mode of artistic engagement with plants tailored to the needs of botanists.[^ref26] Henderson’s image shows a partial view of two mature specimens—facing opposite directions—to communicate valuable information about their dorsal (back) and ventral (front) morphological structures. Yet his design takes some aesthetic liberties to imbue the flower heads with a sense of movement and vitality, expanding the appeal of the illustration beyond scientists to plant and art collectors as well. At the center of <span data-click-image-zoomto="982,2706,2213,1795">the left flower,</span> a series of green scallop-like shapes describe how its bracts (leaves) grow in concentric layers. Their slight curvature contrasts with a leaf that curls exuberantly away from the plant’s stem, leading the eye to <span data-click-image-zoomto="1448,813,4149,3588">the opposite flower.</span> Rust-orange “petals,” some with gold highlights, radiate outward from its dark-brown disk. A close look at <span data-click-image-zoomto="3200,1997,1038,897">the disk</span> reveals a circular band composed of stylized representations of yellow, five-petaled florets.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
+{#paragraph14}
 
 <param ve-entity eid="Q25400" title="Asteraceae"> 
 <param ve-entity eid="Q30765614" title="floret" aliases="florets"> 
@@ -120,6 +134,7 @@ Henderson's botanical illustration highlights a trait of sunflowers that we may 
 <param ve-image fit="contain" primary url="http://tolweb.org/tree/ToLimages/treeoflifecomphead3.jpg" title="Jose L. Panero, _Capitulum cross section diagram_, © Creative Commons">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Helianthus_whorl.jpg" title="Arrangement of disk florets in spiral clockwise and counter-clockwise directions, _Helianthus_ whorl, 2006, L. Shyamal, Wikimedia Commons, CC BY-SA 2.5">
 <param ve-graphic img="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg" title="Illustration of Helmut Vogel's (1979) model for the pattern of disk florets arranged in a sunflower head, Doron, cmglee, 2007, Wikimedia Commons, CC BY-SA 3.0">
+{#paragraph15}
 
 
 <param ve-entity eid="Q5928444" title="Robert John Thornton">
@@ -128,16 +143,18 @@ Henderson’s design for _Anatomy of the Sunflower_ models an attentiveness to t
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="9">
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="11">
+{#paragraph16}
 
 ### Sun-Shaped though Not Necessarily Golden
 
 <param ve-entity eid="Q63825" title="double-flowered">
-<param ve-entity eid="Q5582" title="Vincent van Gogh" aliases="Vincent van Gogh's">
+<param ve-entity eid="Q5582" title="Vincent van Gogh">
 <param ve-entity eid="Q170571" title="still life" aliases="still lifes">
 In the late nineteenth century, some European painters embraced the genre of still life to explore the expressive capacities of paint, plants, and floral forms. Perhaps best known is Vincent van Gogh, who cultivated a signature style of representing domesticated sunflowers. In his 1888 painting, _Sunflowers_, he uses a striking range of intense yellows to depict an arrangement of more than a dozen blooms. The disparate hues and shapes of their radiant ocher, mustard, and golden-orange flower heads portray two different types of cultivated _Helianthus annuus_ that were harvested at different stages of their life cycles. The sunflower, at center left, has shed its ray florets and started to wilt, whereas <span data-click-image-zoomto="176,267,665,601">one of its plush counterparts</span>—a double-flowered variety known as the “Teddy Bear”—is still vibrant.[^ref29] Van Gogh painted these sunflowers directly from life during the summer of 1888, after moving from Paris to Arles, France, the previous winter.[^ref30] We can read his golden palette and radiant bouquet as metaphorically evoking the bright warm light of southern France that rejuvenated his painting practice and nurtured the growth of flowers like the ones shown here.
 <param ve-image primary region="-188,0,1330,1200" url="https://res.cloudinary.com/tne/image/authenticated/s--cR0YrnfB--/q_80/artworks/VINCENT-VAN-GOGH_SONNENBLUMEN_CC-BY-SA_BSTGS_8672.jpg" title="While living in Arles, Van Gogh made seven paintings of sunflowers. Vincent van Gogh, _Sunflowers_, 1888, oil on canvas, 92 x 73 cm, Bayerische Staatsgemäldesammlungen - Neue Pinakothek, München, CC BY-SA 4.0">
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/5/59/Helianthus_annuus_%28cultivar%29_02.jpg" title="_Helianthus annuus_ double flower mutant known as 'teddy bear,' Kor!An (Корзун Андрей), Wikimedia Commons, CC BY-SA 3.0">
 <param ve-image fit="contain" url="vangoghmuseum-s0031V1962-800.jpg" title="Van Gogh produced this painting working from his own componsitions instead of from life. Vincent van Gogh, _Sunflowers_, 1889, oil on canvas, 95 x 73 cm, Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation), non-commercial use">
+{#paragraph17}
 
 <param ve-entity eid="Q171497" title="sunflower" aliases="Helianthus annuus">
 <param ve-entity eid="Q146190" title="Jerusalem artichoke" aliases="Helianthus tuberosus">
@@ -149,6 +166,7 @@ Contrary to what is most often portrayed in visual and verbal descriptions of su
 <param ve-plant-specimen eid="Q171497" max="1">
 <param ve-plant-specimen eid="Q12212017" max="1">
 <param ve-plant-specimen eid="Q146190" max="1">
+{#paragraph18}
 
 <param ve-entity eid="Q117255" aliases="Hopi" title="Hopi people"> 
 <param ve-entity eid="Q14524280" title="husk">
@@ -157,16 +175,16 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sunflower_Seeds_Kaldari.jpg/1024px-Sunflower_Seeds_Kaldari.jpg" title="Sunflower seeds, hulled (achene) and dehulled, Kaldari, Wikimedia Commons, public domain">
 <param ve-image fit="contain" url="sunflower_with_black_seeds_wikimedia.jpeg" title="Sunflower with black seeds, Amada44, Wikimedia Commons, CC BY 3.0">
 <param ve-image fit="contain" url="sunflower_CollegeofHumanEcology_Cornell.jpg" title="Hopi Sunflower _Helianthus annuus_, seeds produce blue, black, and purple dye and the leaves give a range of yellow to green, Cornell Natural Dye Garden in the College of Human Ecology at Cornell University">
+{#paragraph19}
 
 ### Gone to Seed
 
 <param ve-entity eid="Q1141466" title="pollinator" aliases="pollinators">
 <param ve-entity eid="Q2336124" title="defamiliarization" aliases="defamiliarizes">
-<param ve-entity eid="Q213753" title="harvest">
-<param ve-entity eid="Q5582" title="Vincent van Gogh">
 <param ve-entity eid="Q513359" title="biological life cycle">
 Cultivated _Helianthus annuus_ is a fast-growing, sun-loving plant that blooms during the summer months. At this stage of growth, the mature flower faces east, and its warmth and radiant yellow ray florets together attract insect pollinators. Once pollinated and fertilized, the plant develops seeds that slowly ripen. They are ready for harvesting when the flower head sheds its petals, droops, and turns yellow and then brown. That final stage of the annual’s lifecycle is poignantly evoked in Van Gogh’s _Sunflowers_. The left and center sections of the picture show a dried flower head with exposed kernels. Its dark-brown, rust-orange, and aqua disk nestles against the desiccated yellow husk of a second once-vibrant flower. The plant portrait radically departs from the visual conventions for representing the domesticated sunflower at the height of its beauty, as a mature golden flower poised atop a thick vertical stem adorned with robust leaves. Instead, Van Gogh defamiliarizes the plant on the left by portraying it with a few wilted rays, lying flat and inert. That withered floral imagery unsettles our tendency to appreciate the sunflower primarily for its beauty or utility, while also challenging a deeply held assumption that such natural resources are infinitely replenishable. In all of these ways, Van Gogh’s [memento mori](https://www.tate.org.uk/art/art-terms/m/memento-mori) invites us to bring greater attentiveness, care, and gratitude to our relationships with all plants, though none more so than the glorious sunflower.
 <param ve-image primary fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg" title="Vincent van Gogh, _Sunflowers_, 1887, The Metropolitan Museum of Art, New York, Rogers Fund, 1949, CC0">
+{#paragraph20}
 
 ### References
 [^ref1]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161–67. [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706?seq=1)

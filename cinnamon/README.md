@@ -25,7 +25,7 @@ Cinnamon had a long history before any European ever saw “true” cinnamon (_C
 <param title="East Indies" eid="Q213137">
 <param title="Cassia abbreviata" eid="Q145495">
 <param ve-image
-	title="Cinnamon, from a medieval Arabian manuscript of Dioscorides’s _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
+	title="Cinnamon, in a medieval Arabian manuscript of Dioscorides’s _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
 	url="18040817.jpg">
 {#paragraph2}
 
@@ -33,7 +33,7 @@ How could this confusion last so long? One possible explanation for the shift fr
 <param title="Garcia de Orta" eid="Q1493994">
 <param title="Old Goa" eid="Q553907" aliases="Goa">
 <param ve-image
-	title="Cinnamon leaf and bark, in Garcia de Orta, _Aromatum, et Simplicium aliquot Medicamentorum apud Indos nascentium Historia_ (Antverpiae: Ex officina Christophori Plantini, 1567), 72. The images were not in Orta’s original Portuguese publication of 1563, but they were added by the editor, Flemish botanist Carolus Clusius, for this Latin edition."
+	title="Cinnamon leaf and bark, in Garcia de Orta, _Aromatum, et Simplicium aliquot Medicamentorum apud Indos nascentium Historia_ (Antverpiae: Ex officina Christophori Plantini, 1567), 72. The images were not in Orta’s original Portuguese publication of 1563, but were added by the editor, Flemish botanist Carolus Clusius, for this Latin edition."
 	url="https://www.archive.org/download/mobot31753003488159/page/n71_w314">
 <param ve-image
 	title="Cinnamon bark, in Carolus Clusius, _Exoticorum Libri Decem_ ([Leiden]: Ex Officinâ Plantinianâ Raphelengii, 1605), 171. Clusius adapted Orta’s work once more for this publication on exotic naturalia. Unhappy with the leaf image from his 1567 edition of Orta’s work, he left it out here, and only included the image of cinnamon bark."
@@ -84,11 +84,17 @@ Once true cinnamon had begun to be understood as cinnamon from Sri Lanka (histor
 	center="8.050740, 80.654834"
 	zoom="7.4">
 <param ve-map-layer
-	url="Kingdom-of-Kandy.json"
+	url="Kingdom-of-Kandy.json">
 <param ve-map-layer
-	url="Kingdom-of-Sitawaka.json"
+	url="Kingdom-of-Sitawaka.json">
 <param ve-map-layer
-	url="Kingdom-of-Raigama.json">
+	url="Principality-of-Raigama.json">
+<param ve-map-layer
+	url="Kingdom-of-Kotte.json">
+<param ve-map-layer
+	url="Wanni-region_south.json">
+<param ve-map-layer
+	url="Wanni-region_north.json"
 {#paragraph7}
 
 ### Optimizing the Monopoly
