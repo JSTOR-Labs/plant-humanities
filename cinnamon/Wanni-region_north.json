@@ -9,6 +9,7 @@
         "stroke-opacity": 1,
         "fill": "#c3ac89",
         "fill-opacity": 0.5
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
