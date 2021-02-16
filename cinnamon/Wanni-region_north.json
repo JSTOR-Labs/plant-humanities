@@ -6577,7 +6577,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#8a653e",
+        "stroke-width": 1,
+        "stroke-opacity": 1,
+        "fill": "#c3ac89",
+        "fill-opacity": 0.5
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
