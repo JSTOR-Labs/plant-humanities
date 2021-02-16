@@ -40,8 +40,8 @@ However, recently, scholars have noted that in addition to forms of Oryza sativa
 <param ve-map-layer geojson active title="The Origins of Oryza glaberrima" url="https://jstor-labs.github.io/plant-humanities/geojson/west africa.json">
 
 How exactly did these two types of rice make it across the oceans to Carolina? During the middle passage, European slave-traders relied on African crops, as well as transplanted higher-yielding varieties of Asian rice, in order to keep both the newly enslaved peoples, and their captors, fed on the journey.[^ref2] Rice, then, most likely came from West Africa, an unintended consequence of the violent Middle Passage. Contemporary sources suggest as much. Guillaume Thomas Raynal, a French thinker of the Enlightenment, wrote in an English edition of a work [published in 1798](https://books.google.com/books?id=0YdaAAAAYAAJ&pg=PA402&lpg=PA402&dq=Opinions+differ+about+the+manner+in+which+rice+hath+been+naturalized+in+Carolina.+But+whether+the+province+may+have+acquired+it+by+shipwreck,+or+whether+it+may+have+been+carried+there+with+slaves,+or+whether+it+be+sent+from+England,+it+is+certain+the+soil+is+favourable+for+it.&source=bl&ots=SguqqW9ojc&sig=ACfU3U2wQdmA9nVXPAvoG8_IMxBvjq0N2Q&hl=en&sa=X&ved=2ahUKEwisrpuxwPfoAhVsmXIEHa3NDhsQ6AEwAHoECAsQKQ#v=onepage&q&f=false), “Opinions differ about the manner in which rice hath been naturalized in Carolina. But whether the province may have acquired it by shipwreck, or whether it may have been carried there with slaves, or whether it be sent from England, it is certain the soil is favourable for it.” Scholars such as Peter Wood have declared that Raynal’s middle hypothesis was the correct one, as no European group present in the Carolina colony had experience cultivating the crop. [^ref3]
-<param ve-map title="middle_passage" center="32.301289, -64.649329" zoom="1">
-<param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/middle_passage.json">
+<param ve-image title="The Middle Passage and the Atlantic Slave Trade" url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Triangular_trade.svg/700px-Triangular_trade.svg.png">
+
 
 ### Growing Rice in Carolina
 
@@ -92,9 +92,9 @@ Through the complex history of Carolina rice, we not only see how rice was expli
 
 [^ref4]: Carney, _Black Rice_, p. 92-93
 
-[^ref5]: Carney, Black Rice, p. 108-110
+[^ref5]: Carney, _Black Rice_, p. 108-110
 
-[^ref0]: Carney, Black Rice, Chapter 4
+[^ref0]: Carney, _Black Rice_, Chapter 4
 
 [^ref6]: R.C. Nash "South Carolina and the Atlantic Economy in the Late Seventeenth and Eighteenth Centuries." _The Economic History Review_, New Series, 45, no. 4 (1992), 679-681.
 
