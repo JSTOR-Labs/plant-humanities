@@ -94,7 +94,7 @@ Once true cinnamon had begun to be understood as cinnamon from Sri Lanka (histor
 <param ve-map-layer
 	url="Wanni-region_south.json">
 <param ve-map-layer
-	url="Wanni-region_north.json"
+	url="Wanni-region_north.json">
 {#paragraph7}
 
 ### Optimizing the Monopoly
