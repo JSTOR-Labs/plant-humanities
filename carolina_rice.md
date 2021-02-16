@@ -54,7 +54,7 @@ Doubt that this sort of wetland rice cultivation was brought to Carolina by ensl
 But it is not only this clue that indicates the basis of Carolina rice cultivation rested in the knowledge of enslaved peoples. Catesby makes the role of enslaved people in rice cultivation implicitly known [through his reference to the “Hough”](https://www.biodiversitylibrary.org/item/120381#page/41/mode/1up) that makes “shallow trenches” in the land. The hoe, as a tool, was not prominent in European agriculture at the time, “which relied principally on draft animal traction”; such metal tools were not used by the local Native American population either. By contrast, in colonial-era West Africa, the hoe was the primary tool used for field preparation.[^ref5] Catesby’s reference to the “Hough” thus belies a long history of West African knowledge being used in the Carolina’s.
 <param ve-image title="1913 Drawing by Rice Planter Elizabeth Pringle" fit="contain" url="https://images.nypl.org/index.php?id=1149814&t=w">
 
-Catesby, in the penultimate sentence of his description of rice, finally reveals the role of enslaved peoples in the crop’s production, [writing](https://www.biodiversitylibrary.org/item/120381#page/41/mode/1up), “they use a Hand-Mill, yet there remains an inner Film which clouds the Brightness of the grain, to get off which it is beat in large wooden Mortars, and Pestles of the same, by Negro Slaves, which is very laborious and tedious.” This mortar and pestle tool, another technology used in West Africa, was employed almost exclusively by women, demonstrating the gendered aspect of rice cultivation.
+Catesby, in the penultimate sentence of his description of rice, finally reveals the role of enslaved peoples in the crop’s production, [writing](https://www.biodiversitylibrary.org/item/120381#page/41/mode/1up), “they use a Hand-Mill, yet there remains an inner Film which clouds the Brightness of the grain, to get off which it is beat in large wooden Mortars, and Pestles of the same, by Negro Slaves, which is very laborious and tedious.” This mortar and pestle tool, another technology used in West Africa, was employed almost exclusively by women, demonstrating the gendered aspect of rice cultivation. [^ref0]
 <param ve-image title="1913 Drawing by Rice Planter Elizabeth Pringle" fit="contain" url="https://images.nypl.org/index.php?id=1212087&t=w">
 
 From this knowledge of enslaved people, particularly that of women, rice quickly became a popular cash crop grown in the American colonies. According to [an 1892 work on the history of rice by “Dan Talmage’s Sons,”](https://www.biodiversitylibrary.org/item/82844#page/18/mode/1up) in the 1720s, annual rice production averaged about 10 million pounds; in just two decades, that number more than doubled in just two decades to over 25 million pounds per year by the 1740s. Indeed, Carolina rice was the “region’s dominant export,” and a major player in the Western European market for rice.[^ref6]
@@ -93,6 +93,8 @@ Through the complex history of Carolina rice, we not only see how rice was expli
 [^ref4]: Carney, _Black Rice_, p. 92-93
 
 [^ref5]: Carney, Black Rice, p. 108-110
+
+[^ref0]: Carney, Black Rice, Chapter 4
 
 [^ref6]: R.C. Nash "South Carolina and the Atlantic Economy in the Late Seventeenth and Eighteenth Centuries." _The Economic History Review_, New Series, 45, no. 4 (1992), 679-681.
 
