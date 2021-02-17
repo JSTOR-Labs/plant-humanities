@@ -43,7 +43,7 @@ So how can we tell the history of the neglected pelargonium, a plant that is now
 <param ve-entity eid="Q28507" title="Ciconiidae"> 
 The pelargonium and its relatives geranium and erodium belong to the family Geraniaceae. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, to some degree, each other. Pelargonium, from the Greek _pelargos_ (stork), alludes to the plant’s long, beak-shaped seedpods and fruits. Similarly, geranium from _géranos_ (crane) and erodium from _erodios_ (heron) describe columnar fruit capsules that are found in some species. As this dried pelargonium specimen shows, the columnar capsules emerge from the centers of flowers, aiding in seed dispersal and reproduction.
 <param ve-image primary url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/11654__Botany_U_1336491.jpeg" region="183,411,658,576" attribution="Naturalis Biodiversity Center" title="_Pelargonium alchemilloides_ (L.) L’Hér., Naturalis Biodiversity Center, Netherlands, Europeana Collections, CCO">
-<param ve-image url="https://free.iiifhosting.com/iiif/946417abf874969ccb7ed3e11de335c107f89d030c8a7d27fe55a2c9892bb2c1/info.json" title="The Geraniaceae family, Verónica Matallana">
+<param ve-image fit="contain" url="The Geraniaceae family.png" title="The Geraniaceae family, Verónica Matallana">
 {#paragraph4}
 
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
