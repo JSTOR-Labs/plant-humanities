@@ -82,12 +82,13 @@ Once true cinnamon had begun to be understood as cinnamon from Sri Lanka (histor
 <param ve-map
 	title="Sri Lanka in the sixteenth century (after 1521)."
 	center="8.050740, 80.654834"
-	zoom="7.4"
+	zoom="7.4">
+<param ve-map-layer
+	url="Kingdom-of-Kandy.json"
 	show-labels>
 <param ve-map-layer
-	url="Kingdom-of-Kandy.json">
-<param ve-map-layer
-	url="Kingdom-of-Sitawaka.json">
+	url="Kingdom-of-Sitawaka.json"
+	show-labels>
 <param ve-map-layer
 	url="Principality-of-Raigama.json">
 <param ve-map-layer
