@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "KINGDOM OF KANDY"
         "stroke": "#dfc72d",
         "stroke-width": 1,
         "stroke-opacity": 1,
