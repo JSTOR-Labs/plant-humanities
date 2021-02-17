@@ -8,7 +8,8 @@
         "stroke-width": 1,
         "stroke-opacity": 1,
         "fill": "#c3ac89",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "label": "Wanni Region"
       },
       "geometry": {
         "type": "Polygon",
