@@ -9,6 +9,7 @@
         "stroke-opacity": 1,
         "fill": "#ff3e3e",
         "fill-opacity": 0.5
+        "label": "Kingdom of Jaffna"
       },
       "geometry": {
         "type": "Polygon",
