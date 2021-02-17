@@ -29,10 +29,8 @@ However, you might be surprised to learn that the scarlet “geranium” with wh
 
 So how can we tell the history of the neglected pelargonium, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to narrate the lesser-known story of the pelargonium and to relate its history—from its unique morphology and nomenclature to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. Part of the larger cultural history of the pelargonium, this interdisciplinary narrative focuses on its uses in England, France, and Algeria during the nineteenth century to reveal that the modern pelargonium was an invention of the Industrial Age. Bred for use as an ornamental plant or an aromatic crop, these newfangled pelargoniums possessed aesthetic and fragrant traits tailored to Victorian sensibilities, with enduring mass appeal.
 <param ve-image primary fit="contain" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/440729/802157/main-image" title="James Tissot, _Spring Morning_, c.1875, oil on canvas, 55.9 x 42.5 cm, Gift of Mrs. Charles Wrightsman, 2009, Metropolitan Museum of Art, public domain">
-<param ve-image fit="contain" url="Pelargoniums_RP-F-2013-85-14.jpg" title="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, glass, 90 x 120 mm, Rijksmuseum, public domain">
 <param ve-image fit="contain" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Pelargoniums bloom in garden vases, Bowood House, village of Derry Hill, England, alh1, 2015, Flickr, CC BY-NC-ND 2.0">
-<param ve-image
-url="https://upload.wikimedia.org/wikipedia/commons/3/37/Floriculture.jpg" title="A retail greenhouse section of a production greenhouse facility in northwest Ohio shows some of the diversity of floricultural plants produced in that region, 2007, Agricultural Research Service, United States Department of Agriculture, d786-2, public domain, Wikimedia">
+<param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/3/37/Floriculture.jpg" title="A retail greenhouse section of a production greenhouse facility in northwest Ohio shows some of the diversity of floricultural plants produced in that region, 2007, Agricultural Research Service, United States Department of Agriculture, d786-2, public domain, Wikimedia">
 {#paragraph3}
 
 ### Pelargonium Morphology: Seedpods and Flowers
@@ -190,6 +188,7 @@ Today, pelargonium oil continues to be industrially produced in factories across
 
 Although the _Pelargonium_ by any other name would smell as sweet, excepting those that are scentless or pungent, our recognition of its unique identity is long overdue. Indeed, the _Pelargonium_’s almost-forgotten global history is extremely rich blossoming as it does at the intersections of colonial trade, botany, agriculture, gardening, art, culture, and industry. Telling the story of the _Pelargonium_ as an entity separate from the _Geranium_, illuminates just some of the many ways in which it has been interwoven with human histories–hiding in plain sight, as it were, by virtue of its long-persisting misnomer.
 <param ve-image primary fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.highres" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), 1907-1920, photograph, Source gallica.bnf.fr / BnF">
+<param ve-image fit="contain" url="Pelargoniums_RP-F-2013-85-14.jpg" title="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, glass, 90 x 120 mm, Rijksmuseum, public domain">
 {#paragraph22}
 
 ### References
