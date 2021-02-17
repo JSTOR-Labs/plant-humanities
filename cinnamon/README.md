@@ -82,7 +82,8 @@ Once true cinnamon had begun to be understood as cinnamon from Sri Lanka (histor
 <param ve-map
 	title="Sri Lanka in the sixteenth century (after 1521)."
 	center="8.050740, 80.654834"
-	zoom="7.4">
+	zoom="7.4"
+	show-labels>
 <param ve-map-layer
 	url="Kingdom-of-Kandy.json">
 <param ve-map-layer
@@ -108,8 +109,7 @@ The Dutch made even stronger, concerted efforts to get a monopoly on cinnamon. T
 <param ve-map
 	title="Sri Lanka during the Dutch period."
 	center="8.050740, 80.654834"
-	zoom="7.4"
-	show-labels>
+	zoom="7.4">
 {#paragraph8}
 
 Although their skills were indispensable for the cinnamon trade, peelers were treated harshly by the Dutch. Each year, the peelers gathered in Colombo for a ceremony where they pledged loyalty to the Dutch governor. There was a long peeling season for cinnamon between May and August, and a short season in January and February. On both occasions, groups of men were sent off into the woods with nothing but paring knives and a supply of rice. Adult men were obliged to bring back 12 _robes_ (56 pounds each) at the end of the summer season. Boys from age 12 had to contribute proportionally. Dutch sources from the colonial administration often complained that the peelers were lazy and unreliable, but these workers had a hard life. They were away from home for months, had to provide for themselves while working in the forests, where they were afflicted by diseases, and they were severely punished if they did not meet their quotas.[^ref9]
