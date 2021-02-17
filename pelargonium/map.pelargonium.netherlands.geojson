@@ -3,13 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-      "stroke": "#dd5c31",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ff906b",
-        "fill-opacity": 0.5,
-        },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2040,13 +2034,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#dd5c31",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ff906b",
-        "fill-opacity": 0.5,
-        },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2141,13 +2129,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-      "stroke": "#dd5c31",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ff906b",
-        "fill-opacity": 0.5,
-        },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2250,13 +2232,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-      "stroke": "#dd5c31",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ff906b",
-        "fill-opacity": 0.5,
-        },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2351,13 +2327,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-      "stroke": "#dd5c31",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ff906b",
-        "fill-opacity": 0.5,
-        },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2448,13 +2418,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-      "stroke": "#dd5c31",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ff906b",
-        "fill-opacity": 0.5,
-        },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2485,13 +2449,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-      "stroke": "#dd5c31",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ff906b",
-        "fill-opacity": 0.5,
-        },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
