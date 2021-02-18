@@ -75,18 +75,18 @@ Beyond producing one of North America’s favorite spirits, agave plants, as the
 <param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/aadc49b77ce2a4b330978c2e1ea994f07f37986363f4a35ae2f61831135b8f73">
 
 ### References
-[^ref1]: Gerda van Uffelen and P.J.A. Kessler, 425 Years: Hortus Botanicus Leiden (Leiden, the Netherlands: Hortus Botanicus, 2015), 32–33.
-[^ref2]: Howard Scott Gentry, Agaves of Continental North America (Tucson, Arizona: University of Arizona Press, 1982).
-[^ref3]: Marie Sarita Gaytán, ¡̕Tequila!: Distilling the Spirit of Mexico (Stanford, California: Stanford University Press, 2014), 5.
-[^ref4]: Toribio Motolinía, History of the Indians of New Spain, Publications of the Academy of American Franciscan History, Documentary Series 1 (Washington, DC: Academy of American Franciscan History, 1951), Chapter XXXI.
+[^ref1]: Gerda van Uffelen and P.J.A. Kessler, _425 Years: Hortus Botanicus_ Leiden (Leiden, the Netherlands: Hortus Botanicus, 2015), 32–33.
+[^ref2]: Howard Scott Gentry, _Agaves of Continental North America_ (Tucson, Arizona: University of Arizona Press, 1982).
+[^ref3]: Marie Sarita Gaytán, _¡̕Tequila!: Distilling the Spirit of Mexico_ (Stanford, California: Stanford University Press, 2014), 5.
+[^ref4]: Toribio Motolinía, _History of the Indians of New Spain, Publications of the Academy of American Franciscan History,_ Documentary Series 1 (Washington, DC: Academy of American Franciscan History, 1951), Chapter XXXI.
 [^ref5]: James M. Córdova, “Drinking the Fifth Cup: Notes on the Drunken Indian Image in Colonial Mexico,” Word & Image 31, no.1 (2015): 1–18, DOI: 10.1080/02666286.2014.927210
 [^ref6]: Lucia Henderson, “Blood, Water, Vomit, and Wine,” Mesoamerican Voices: Journal of the Chicago Maya Society 3 (2008): 64–67.
 [^ref7]: A. Escalante et al., “Pulque, a Traditional Mexican Alcoholic Fermented Beverage: Historical, Microbiological, and Technical Aspects,” Frontiers in Microbiology 7 (2016): 1026, DOI:10.3389/fmicb.2016.01026
-[^ref8]: Carolus Clusius, Rariorum aliquot stirpium per Hispanias observatarum historia (Antverpiae: Ex officina Christophori Plantinus, 1576), accessed via Biodiversity Heritage Library, DOI https://doi.org/10.5962/bhl.title.847
-[^ref9]: Joachim Camerarius, Hortus Medicus et Philosophicus (Feyerabend, 1588). DOI https://doi.org/10.5962/bhl.title.128839 
-[^ref10]: Gábor Almási, The Uses of Humanism: Johannes Sambucus (1531–1584), Andreas Dudith (1533–1589), and the Republic of Letters in East Central Europe, Brill's Studies in Intellectual History (Leiden, the Netherlands: Brill, 2009).
-[^ref11]: Giambattista Scarella, Breve ragguaglio di Giambattista Scarella intorno al fiore dell' Aloe Americana (Padua, Italy: Conzatti,1710), accessed via Biodiversity Heritage Library, DOI https://doi.org/10.5962/bhl.title.112513
-[^ref12]: Marie Sarita Gaytán, ¡̕Tequila!, 8–14.
+[^ref8]: Carolus Clusius, _Rariorum aliquot stirpium per Hispanias observatarum historia_ (Antverpiae: Ex officina Christophori Plantinus, 1576), accessed via Biodiversity Heritage Library, DOI https://doi.org/10.5962/bhl.title.847
+[^ref9]: Joachim Camerarius, _Hortus Medicus et Philosophicus_ (Feyerabend, 1588). DOI https://doi.org/10.5962/bhl.title.128839 
+[^ref10]: Gábor Almási, _The Uses of Humanism: Johannes Sambucus (1531–1584), Andreas Dudith (1533–1589), and the Republic of Letters in East Central Europe,_ Brill's Studies in Intellectual History (Leiden, the Netherlands: Brill, 2009).
+[^ref11]: Giambattista Scarella, _Breve ragguaglio di Giambattista Scarella intorno al fiore dell' Aloe Americana_ (Padua, Italy: Conzatti, 1710), accessed via Biodiversity Heritage Library, DOI https://doi.org/10.5962/bhl.title.112513
+[^ref12]: Marie Sarita Gaytán, _¡̕Tequila!,_ 8–14.
 [^ref13]: Marie Sarita Gaytán, 14–15.
 [^ref14]: E. Garcia‐Moya, A. Romero‐Manzanares, and P.S. Nobel, “Highlights for Agave Productivity,” GCB Bioenergy 3 (2011): 4–14. DOI:10.1111/j.1757-1707.2010.01078.x
 [^ref15]: Sarah C. Davis, Frank G. Dohleman, and Stephen P. Long, “The Global Potential for Agave as a Biofuel Feedstock,” GCB Bioenergy 3 (2010): 68–78, DOI:10.1111/j.1757-1707.2010.01077x
