@@ -107,9 +107,13 @@ The Dutch made even stronger, concerted efforts to get a monopoly on cinnamon. T
 <param title="Colombo" eid="Q35381">
 <param title="Jaffna" eid="Q215277" aliases="Jaffnapatnam">
 <param ve-map
-	title="Sri Lanka during the Dutch period."
+	prefer-geojson
+	title="Map of Ceylon (Sri Lanka) in the late eighteenth century. The red line indicates the border between the Dutch areas along the coast and the kingdom of Kandy in the island's interior. These were the borders after the war of 1760–1766 (see below)."
 	center="8.050740, 80.654834"
 	zoom="7.4">
+<param ve-map-layer
+	mapwarper mapwarper-id="54522"
+	active>
 {#paragraph8}
 
 Although their skills were indispensable for the cinnamon trade, peelers were treated harshly by the Dutch. Each year, the peelers gathered in Colombo for a ceremony where they pledged loyalty to the Dutch governor. There was a long peeling season for cinnamon between May and August, and a short season in January and February. On both occasions, groups of men were sent off into the woods with nothing but paring knives and a supply of rice. Adult men were obliged to bring back 12 _robes_ (56 pounds each) at the end of the summer season. Boys from age 12 had to contribute proportionally. Dutch sources from the colonial administration often complained that the peelers were lazy and unreliable, but these workers had a hard life. They were away from home for months, had to provide for themselves while working in the forests, where they were afflicted by diseases, and they were severely punished if they did not meet their quotas.[^ref9]
