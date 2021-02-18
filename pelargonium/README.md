@@ -27,6 +27,7 @@ However, you might be surprised to learn that the scarlet “geranium” with wh
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Scarlet_geranium.jpg/1024px-Scarlet_geranium.jpg" title="Bedding pelargoniums with red flowers and zone-marked leaves are believed to have been derived from _Pelargonium inquinans_ and _Pelargonium zonale_, _Pelargonium inquinans_, 2017, ViGA, Wikimedia Commons, CC BY-SA 4.0">
 {#paragraph2}
 
+<param ve-entity eid="Q182688" title="Victorian era" aliases="Victorian">
 So how can we tell the history of the neglected pelargonium, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to narrate the lesser-known story of the pelargonium and to relate its history—from its unique morphology and nomenclature to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. Part of the larger cultural history of the pelargonium, this interdisciplinary narrative focuses on its uses in England, France, and Algeria during the nineteenth century to reveal that the modern pelargonium was an invention of the Industrial Age. Bred for use as an ornamental plant or an aromatic crop, these newfangled pelargoniums possessed aesthetic and fragrant traits tailored to Victorian sensibilities, with enduring mass appeal.
 <param ve-image primary fit="contain" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/440729/802157/main-image" title="James Tissot, _Spring Morning_, c.1875, oil on canvas, 55.9 x 42.5 cm, Gift of Mrs. Charles Wrightsman, 2009, Metropolitan Museum of Art, public domain">
 <param ve-image fit="cover" url="Pelargoniums_BowoodHouse_FLICKR.jpg" title="Pelargoniums bloom in garden vases, Bowood House, village of Derry Hill, England, alh1, 2015, Flickr, CC BY-NC-ND 2.0">
@@ -105,7 +106,6 @@ Another technology, the Wardian case, contributed to a tremendous expansion of o
 
 ### Pelargonium-mania in the Victorian Era
 
-<param ve-entity eid="Q182688" title="Victorian era" aliases="Victorian">
 <param ve-entity eid="Q444145" title="Bowood House">
 <param ve-entity eid="Q23928167" title="Alton Towers estate" aliases="Alton Gardens">
 <param ve-entity eid="Q1585312" title="Harewood House">
