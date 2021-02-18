@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=boxwood/850dfc6b",
-    "total": 1,
-    "modified": "2021-02-18T19:44:40.564673"
+    "total": 2,
+    "modified": "2021-02-18T21:48:50.879297"
   },
   "startIndex": 0,
   "items": [
@@ -29,6 +29,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "boxwood/850dfc6b/e768e5a4",
       "seq": 0
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "more steps",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:426.8571472167969,505,372.8571472167969,210.857177734375"
+        },
+        "id": "boxwood/850dfc6b"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "boxwood/850dfc6b/def37b62",
+      "seq": 1
     }
   ]
 }
