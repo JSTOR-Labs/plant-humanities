@@ -1,0 +1,34 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://visual-essays.app/annotations/?include=description&target=Dittany/6277bf79",
+  "type": "AnnotationPage",
+  "partOf": {
+    "id": "http://visual-essays.app/annotations/?include=description&target=Dittany/6277bf79",
+    "total": 1,
+    "modified": "2021-02-18T18:20:27.619341"
+  },
+  "startIndex": 0,
+  "items": [
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "flower",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:368.12255859375,130.73928833007812,71.498046875,50.04864501953125"
+        },
+        "id": "Dittany/6277bf79"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "Dittany/6277bf79/3689c342",
+      "seq": 0
+    }
+  ]
+}
