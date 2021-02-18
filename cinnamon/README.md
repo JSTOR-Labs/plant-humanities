@@ -192,7 +192,8 @@ Meanwhile, other countries were desperately trying to have access to cinnamon, e
 <param title="Joseph de Jussieu" eid="Q1347343">
 <param ve-image
 	title="The expedition of Gonzalo Pizarro and Francisco de Orellana along the Amazon river, 1541–1542."
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Francisco_de_Orellana_Amazon_River_voyage_%281541-1542%29.svg/1280px-Francisco_de_Orellana_Amazon_River_voyage_%281541-1542%29.svg.png">
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Francisco_de_Orellana_Amazon_River_voyage_%281541-1542%29.svg/1280px-Francisco_de_Orellana_Amazon_River_voyage_%281541-1542%29.svg.png"
+	fit="contain">
 {#paragraph15}
 
 The Spanish efforts to find cinnamon in the New World were not only intended to find an alternative to the true cinnamon of the Portuguese and the Dutch on Sri Lanka. There was more at stake. The commercial success of Spain’s European rivals in the East Indies made the Cape of Good Hope the principal shipping route for such goods. The promise of South American riches could transform Cape Horn into an alternative route, which would benefit Spain. This was an important aim for people like Alonso de Ovalle, a Chilean Jesuit. His _Histórica Relación del Reyno de Chile_ (1646) was accompanied by a detailed map, that served as a visual propaganda tool for Spanish South America. The map highlights the continent’s natural resources, including areas of _<span data-click-image-zoomto="6423,1032,659,467">canela</span>_ and _<span data-click-image-zoomto="7756,2229,613,434">cynamomum</span>_ along the east coast.[^ref21] This was a strategy to draw attention to the potential of cinnamon production for the Spanish global empire.
