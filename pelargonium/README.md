@@ -219,9 +219,9 @@ Although the _Pelargonium_ by any other name would smell as sweet, excepting tho
 
 [^ref15]: Judith M. Taylor, _Visions of Loveliness_ (Athens, Ohio: Ohio University Press, 2014), 368.
 
-[^ref15]: Luke Keogh, _The Wardian Case: How a Simple Box Moved Plants and Saved the World_ (Chicago: University of Chicago Press, 2020); Luke Keogh, “The Wardian Case: How a Simple Box Moved the Plant Kingdom,” _Arnoldia_ 74, no. 4 (2017): 1–12.
+[^ref16]: Luke Keogh, _The Wardian Case: How a Simple Box Moved Plants and Saved the World_ (Chicago: University of Chicago Press, 2020); Luke Keogh, “The Wardian Case: How a Simple Box Moved the Plant Kingdom,” _Arnoldia_ 74, no. 4 (2017): 1–12.
 
-[^ref16]: Lindsay Wells, “Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor,” _Victorian Studies_ 60, no. 2 (2018): 158–70, accessed January 11, 2021, [http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02](http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02) 
+[^ref17]: Lindsay Wells, “Close Encounters of the Wardian Kind: Terrariums and Pollution in the Victorian Parlor,” _Victorian Studies_ 60, no. 2 (2018): 158–70, accessed January 11, 2021, [http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02](http://www.jstor.org/stable/10.2979/victorianstudies.60.2.02) 
 
 [^ref18]: Mr. Thomas Appleby, “Article IV.—On the Culture of Geraniums,” _The Floricultural Cabinet and Florist's Magazine_ 5 (1837): 8–10, [https://www.biodiversitylibrary.org/page/15889416](https://www.biodiversitylibrary.org/page/15889416); Anne Wilkinson, _The Passion for Pelargoniums_, 123–24.
 
