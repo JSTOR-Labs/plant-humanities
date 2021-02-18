@@ -151,12 +151,12 @@ While we need to rethink how we select, hybridize, and propagate bananas, scient
 
 ### References
 
-[^ref1]: Xavier Perrier et al., “Multidisciplinary perspectives on banana (Musa spp.) domestication,” PNAS 108 (28) (2011): 11311–11318. http://dx.doi.org/10.1073/pnas.1102001108
+[^ref1]: Xavier Perrier et al., “Multidisciplinary perspectives on banana (Musa spp.) domestication,” PNAS 108 (28) (2011): 11311–11318. http://dx.DOI.org/10.1073/pnas.1102001108
 [^ref2]: Jean Kennedy, “Pacific Bananas: Complex Origins, Multiple Dispersals?,” Asian Perspectives 47, no. 1 (2008): 75–94, DOI:10.1353/asi.2008.0004
 [^ref3]: Jean Kennedy, “Pacific Bananas: Complex Origins, Multiple Dispersals?” 
 [^ref4]: T. P. Denham, et al., “Origins of Agriculture at Kuk Swamp in the Highlands of New Guinea,” Science, Vol. 301, Issue 5630 (2003): 189–193, DOI:10.1126/science.1085255
-[^ref5]: Virginia Scott Jenkins, Bananas: An American History (Washington, DC: Smithsonian Institution Press, 2000).
-[^ref6]: Peter Chapman, Bananas: How the United Fruit Company Shaped the World. 1st American ed. (New York: Canongate US, 2008).
+[^ref5]: Virginia Scott Jenkins, _Bananas: An American History_ (Washington, DC: Smithsonian Institution Press, 2000).
+[^ref6]: Peter Chapman, _Bananas: How the United Fruit Company Shaped the World._ 1st American ed. (New York: Canongate US, 2008).
 [^ref7]: Xavier Perrier et al. “Multidisciplinary perspectives on banana (Musa spp.) domestication.”
-[^ref8]: N. W. Simmonds and K. Shepherd, “The taxonomy and origins of the cultivated bananas.” Journal of the Linnean Society of London, Botany 55: 359 (1955): 302–312. https://doi.org/10.1111/j.1095-8339.1955.tb00015.x
+[^ref8]: N. W. Simmonds and K. Shepherd, “The taxonomy and origins of the cultivated bananas.” Journal of the Linnean Society of London, Botany 55: 359 (1955): 302–312. https://DOI.org/10.1111/j.1095-8339.1955.tb00015.x
 [^ref9]: ProMusa, Diversity of banana cultivars portal: http://www.promusa.org/Diversity+of+banana+cultivars+portal?page_ref_id=15
