@@ -211,8 +211,8 @@ And Spain really needed cinnamon. One eighteenth-century report estimated that t
 <param title="Cinnamomum cebuense" eid="Q5121027">
 <param title="Juan de Cuéllar" eid="Q6301228">
 <param ve-image
-	title="[No visualization here yet.]"
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png">
+	title="Cinnamon quills from _Cinnamomum verum_ (left) and _C. burmanni_ (right)."
+	url="https://upload.wikimedia.org/wikipedia/commons/c/ce/Cinnamomum_Verum_vs_Cinnamomum_Burmannii.jpg">
 {#paragraph17}
 
 The last and most daring strategy was to transplant the true cinnamon to Spanish territories. This was an important objective for people like Casimiro Gómez Ortega, director of the Royal Botanical Garden of Madrid between 1771 and 1801, and José Celestino Mutis, the Spanish botanist who initiated the Royal Botanical Expedition to New Granada in 1783. Gómez Ortega published an instruction in 1779, which invited naturalists across the world to contribute plants and plant knowledge for the benefit of the Spanish empire, with cinnamon as one of the target species. Similarly, Mutis addressed the Spanish crown in the 1760s to support his plans for botanical expeditions in South America. New plant knowledge would greatly benefit the empire, he argued, explicitly mentioning cinnamon.[^ref26] However, Spain never succeeded in growing true cinnamon in South America, unlike the French efforts on Guadeloupe (1762) and the British on Saint Vincent (1768).[^ref27]
@@ -230,7 +230,8 @@ The last and most daring strategy was to transplant the true cinnamon to Spanish
 Today, Sri Lanka again ranks high among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion remains: while _Cinnamomum verum_ J.Presl is grown in many countries in the tropical zone, the quality of the end product differs for each region.[^ref28] Moreover, commercial statistics usually bring all market variations under the rubric “cinnamon”, without differentiating between different _Cinnamomum_ species. This issue is even more pertinent in the context of medicine. Cinnamon has great potential therapeutic applications, but many studies fail to clarify which species of _Cinnamomum_ they focused on, making it difficult to compare the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is true and what is not.
 <param title="cinnamon" eid="Q370239">
 <param ve-map
-	title="tba">
+	title="tba"
+	data="cinnamon-production.csv">
 {#paragraph19}
 
 ### References
