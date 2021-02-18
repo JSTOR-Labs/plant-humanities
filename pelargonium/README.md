@@ -119,8 +119,7 @@ It was against this backdrop that pelargoniums became a centerpiece of many muni
 <param ve-entity eid="Q219217" title="tulip mania" aliases="tulipomania">
 Gardeners favored hardy zonal pelargoniums because they show off their blooms for extended periods, flowering even in slightly chilly climates.[^ref20] More significantly, nursery owners adored the pelargonium because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. By the late nineteenth century, vendors were falling over one another to market the newest, most magnificent plants that, in addition to those for bedding, included varieties of regals with pretty-petal markings and the ivy- and scented-leaf types, known for their pleasing foliage. Additional factors contributing to the pelargonium mania were the arrival of mass-produced pots and planters for displaying ornamental flowers and dazzling greenery. Desire to obtain novel cultivars became so frenzied that some compared it to the now infamous tulip-buying spree, known as tulipomania, that occurred in Holland in the 1630s.[^ref21]
 <param ve-image primary fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:435776315" seq="21">
-<param ve-image
-title="The Victorian flower market" url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/THE_FLOWER_MARKET.jpg" fit="cover" attribution="Garden Musuem Collection">
+<param ve-image title="flower market in Covent Garden. E.Buckman, W.B Gardener, _The Victorian Flower Market_, 1873, paper and ink" url="https://dyvdnmp0itmzz.cloudfront.net/wp-content/uploads/2019/11/17200527/gm0_2002-031-1500x1005.jpg" fit="cover" attribution="Garden Musuem Collection">
 {#paragraph13}
 
 <param ve-entity eid="Q7498765" title="Shirley Hibberd">
