@@ -60,8 +60,8 @@ Other morphological traits distinguish members of the genera pelargonium from ge
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
 The [_pelargonium_,](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30302759-2) which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. The great majority of these species are endemic to the Cape regions of present-day South Africa—a biodiversity hotspot. Given their concentration there, it is not surprising that Dutch traders, who first introduced pelargoniums to Europe in the early seventeenth century, harvested them from the Cape.[^ref6]
 <param ve-map center="-7.347, 72.454" zoom="2.5" marker-type="none">
-<param ve-map-layer geojson url="map.pelargonium.geojson" title="Pelargonium native range (red)" active>
-<param ve-map-layer geojson url="map.pelargonium.netherlands.geojson" title="Leiden Botanical Garden (Hortus Botanicus Leiden)" active>
+<param ve-map-layer geojson url="map.pelargonium.geojson" title="Pelargonium native range (red)" active show-label="true">
+<param ve-map-layer geojson url="map.pelargonium.netherlands.geojson" title="Netherlands (green)" active>
 {#paragraph6}
 
 <param ve-entity eid="Q213360" title="Table Mountain">
@@ -90,9 +90,9 @@ In the wake of that initial nomenclature confusion, seventeenth-century botanist
 
 <param ve-entity eid="Q165044" title="greenhouse">
 The genus _Pelargonium_ is amazingly varied, including both annual and perennial plants that naturally occur in temperate and tropical climates. For that reason, the first specimens to reach Holland were cultivated in heated greenhouses to protect them from the region’s cold and frost.[^ref13] By the early 1800s, new technologies—both for fabricating iron and plate glass and for constructing buildings with these materials—fueled a fad among the social elite for purchasing conservatories in order to grow exotic plants.[^ref14] These innovations combined with new knowledge about hand-pollination techniques made pelargoniums, which are easily hybridized that way, an ideal choice for such cultivation by plant collectors and amateur breeders.[^ref15]
-<param ve-image primary manifest="https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=66250" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
-<param ve-image primary url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
-<param ve-image url="Queen-Adelaide-Princess-Adelaide-of-Saxe-Meiningen.jpg" title="Samuel William Reynolds, _Queen Adelaide (Princess Adelaide of Saxe-Meiningen)_, pub. 1831 by Martin Colnaghi, after Sir William Beechey, mezzotint, 644 x 435 mm (plate), National Portrait Gallery, London, CC BY-NC-ND 3.0">
+<param ve-image primary fit="contain" manifest="https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=66250" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
+<param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/ep/original/DP152116.jpg" title="Eduard Gaertner, _The Family of Mr. Westfal in the Conservatory_, 1836, oil on canvas, 23.8 x 20 cm, Purchase, funds from various donors, by exchange, 2007, Metropolitan Museum of Art, public domain">
+<param ve-image fit="contain" url="Queen-Adelaide-Princess-Adelaide-of-Saxe-Meiningen.jpg" title="Samuel William Reynolds, _Queen Adelaide (Princess Adelaide of Saxe-Meiningen)_, pub. 1831 by Martin Colnaghi, after Sir William Beechey, mezzotint, 644 x 435 mm (plate), National Portrait Gallery, London, CC BY-NC-ND 3.0">
 {#paragraph10}
 
 <param ve-entity eid="Q2779805" title="Wardian case">
