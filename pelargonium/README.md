@@ -101,7 +101,6 @@ Another technology, the Wardian case, contributed to a tremendous expansion of o
 <param ve-image primary fit="contain" url="https://ia800604.us.archive.org/BookReader/BookReaderImages.php?id=ongrowthplantsc00ward&itemPath=%2F0%2Fitems%2Fongrowthplantsc00ward&server=ia800604.us.archive.org&page=n52_w395" title="Nathaniel Bagshaw Ward, _On the Growth of Plants in Closely Glazed Cases_, London, J. Van Voorst, 1852.">
 <param ve-image fit="contain" url="https://images.metmuseum.org/CRDImages/ad/original/DT2030.jpg" title="Seymour Joseph Guy, _The Contest for the Bouquet: The Family of Robert Gordon in Their New York Dining-Room_, 1866, oil on canvas, 62.5 x 74.9 cm, Purchase, Gift of William E. Dodge, by exchange, and Lila Acheson Wallace Gift, 1992, Metropolitan Museum of Art, public domain">
 <param ve-image primary fit="contain" url="https://images.nypl.org/index.php?id=835246&t=w" title="_Wardian Case_, from Shirley Hibberd, _Rustic Adornments for Homes of Taste_, Groombridge, 1870, The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Picture Collection, New York Public Library, Public Domain">
-<param ve-image title="_A View in Our Stock House_, R. Vincent, Jr. & Sons Co., Henry G. Gilbert Nursery and Seed Trade Catalog Collection, _Descriptive Illustrated Geranium Catalogue: For Nineteen Hundred and Ten_, 1910, U.S. Department of Agriculture, National Agricultural Library, Biodiversity Heritage Library" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270">
 {#paragraph11}
 
 ### Pelargonium-mania in the Victorian Era
@@ -184,8 +183,9 @@ Today, pelargonium oil continues to be industrially produced in factories across
 ### Hiding in Plain Sight
 
 Although the _Pelargonium_ by any other name would smell as sweet, excepting those that are scentless or pungent, our recognition of its unique identity is long overdue. Indeed, the _Pelargonium_’s almost-forgotten global history is extremely rich blossoming as it does at the intersections of colonial trade, botany, agriculture, gardening, art, culture, and industry. Telling the story of the _Pelargonium_ as an entity separate from the _Geranium_, illuminates just some of the many ways in which it has been interwoven with human histories–hiding in plain sight, as it were, by virtue of its long-persisting misnomer.
-<param ve-image primary fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.highres" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), 1907-1920, photograph, Source gallica.bnf.fr / BnF">
-<param ve-image fit="contain" url="Pelargoniums_RP-F-2013-85-14.jpg" title="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, glass, 90 x 120 mm, Rijksmuseum, public domain">
+<param ve-image primary fit="contain" url="Pelargoniums_RP-F-2013-85-14.jpg" title="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, glass, 90 x 120 mm, Rijksmuseum, public domain">
+<param ve-image fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.highres" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), 1907-1920, photograph, Source gallica.bnf.fr / BnF">
+<param ve-image title="_A View in Our Stock House_, R. Vincent, Jr. & Sons Co., Henry G. Gilbert Nursery and Seed Trade Catalog Collection, _Descriptive Illustrated Geranium Catalogue: For Nineteen Hundred and Ten_, 1910, U.S. Department of Agriculture, National Agricultural Library, Biodiversity Heritage Library" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270">
 {#paragraph22}
 
 ### References
