@@ -108,7 +108,7 @@ The Dutch made even stronger, concerted efforts to get a monopoly on cinnamon. T
 <param title="Jaffna" eid="Q215277" aliases="Jaffnapatnam">
 <param ve-map
 	prefer-geojson
-	title="Map of Ceylon (Sri Lanka) in the late eighteenth century. The red line indicates the border between the Dutch areas along the coast and the kingdom of Kandy in the island's interior. These were the borders after the war of 1760–1766 (see below)."
+	title="Map of Ceylon (Sri Lanka) in the late eighteenth century. The red line indicates the border between the Dutch areas along the coast and the kingdom of Kandy in the island's interior. These were the borders after the war of 1760–1766 (see below). Coloured drawing on paper by Jean du Perron, 1789."
 	center="8.050740, 80.654834"
 	zoom="7.4">
 <param ve-map-layer
