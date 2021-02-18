@@ -136,10 +136,10 @@ Sadly, we may never know for sure exactly which tree was used to make the medici
 [^ref1]: For the purposes of this work, "Indigenous people(s)" refers to a cultural group(s) in an ecological area that developed a successful subsistence base from the natural resources available in that area.
 [^ref2]: As a diplomat, Rasmusio was said to have used his political influence to collect original travel narratives. 
 [^ref3]: https://www.thecanadianencyclopedia.ca/en/article/coniferous-trees
-[^ref4]: Don J. Durzan, “Arginine, scurvy and Cartier's ‘tree of life,’” Journal of Ethnobiology and Ethnomedicine 5:5 (2009), DOI:10.1186/1746-4269-5-5 
-[^ref5]: Harriet V. Kuhnlein and Nancy J. Turner, Traditional Plant Foods of Canadian Indigenous Peoples: Nutrition, Botany and Use (New York: Routledge, 1991).
+[^ref4]: Don J. Durzan, “Arginine, scurvy and Cartier's ‘tree of life,’” _Journal of Ethnobiology and Ethnomedicine_ 5:5 (2009), DOI:10.1186/1746-4269-5-5 
+[^ref5]: Harriet V. Kuhnlein and Nancy J. Turner, _Traditional Plant Foods of Canadian Indigenous Peoples: Nutrition, Botany and Use_ (New York: Routledge, 1991).
 [^ref6]: James William Herrick, Iroquois Medical Botany (Syracuse: Syracuse University Press, 1977).
 [^ref7]: Durzan, “Arginine, scurvy and Cartier's ‘tree of life.’”
 [^ref8]: Durzan. 
-[^ref9]: Bauhin’s 1598 herbal is actually an edited and expanded edition of Mattioli’s seminal work, Discorsi. Arbor vitæ tree does not appear in Mattioli’s original herbal.
-[^ref10]: James Lind, A Treatise on the Scurvy: In Three Parts, Containing an Inquiry Into the Nature, Causes, an Cure, of that Disease, Together with a Critical and Chronological View of what Has Been Published on the Subject, 3rd ed. (London: S. Crowder et al., 1772).
+[^ref9]: Bauhin’s 1598 herbal is actually an edited and expanded edition of Mattioli’s seminal work, _I Discorsi_. Arbor vitæ tree does not appear in Mattioli’s original herbal.
+[^ref10]: James Lind, _A Treatise on the Scurvy: In Three Parts, Containing an Inquiry Into the Nature, Causes, an Cure, of that Disease, Together with a Critical and Chronological View of what Has Been Published on the Subject,_ 3rd ed. (London: S. Crowder et al., 1772).
