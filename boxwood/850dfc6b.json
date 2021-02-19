@@ -4,31 +4,9 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=boxwood//850dfc6b",
-    "total": 1,
-    "modified": "2021-02-19T14:39:36.896104"
+    "total": 0,
+    "modified": "2021-02-19T14:39:42.267698"
   },
   "startIndex": 0,
-  "items": [
-    {
-      "type": "Annotation",
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "test stair",
-          "purpose": "commenting"
-        }
-      ],
-      "target": {
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:506.61480712890625,281.7120666503906,173.54083251953125,112.8404541015625"
-        },
-        "id": "boxwood//850dfc6b"
-      },
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "boxwood//850dfc6b/1f2c37a3",
-      "seq": 0
-    }
-  ]
+  "items": []
 }
