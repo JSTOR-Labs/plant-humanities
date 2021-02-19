@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=cinnamon/b2d44e9b",
-    "total": 1,
-    "modified": "2021-02-19T15:10:29.199298"
+    "total": 2,
+    "modified": "2021-02-19T15:13:16.298941"
   },
   "startIndex": 0,
   "items": [
@@ -29,6 +29,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "cinnamon/b2d44e9b/2d2b52ce",
       "seq": 0
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "test2",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1016.5989379882812,1142.4541015625,458.39202880859375,557.122802734375"
+        },
+        "id": "cinnamon/b2d44e9b"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "cinnamon/b2d44e9b/a0349cc8",
+      "seq": 1
     }
   ]
 }
