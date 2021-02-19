@@ -5,7 +5,7 @@
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=cinnamon/28d2c480",
     "total": 1,
-    "modified": "2021-02-19T20:05:09.014518"
+    "modified": "2021-02-19T20:05:12.049286"
   },
   "startIndex": 0,
   "items": [
@@ -24,7 +24,7 @@
           "conformsTo": "http://www.w3.org/TR/media-frags/",
           "value": "xywh=pixel:472.23370361328125,591.7371215820312,239.27142333984375,155.642578125"
         },
-        "id": "cinnamon/28d2c480"
+        "id": "JSTOR-Labs/plant-humanities/develop/cinnamon/28d2c480"
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "cinnamon/28d2c480/96aec00e",
