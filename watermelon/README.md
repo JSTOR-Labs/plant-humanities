@@ -74,14 +74,6 @@ In Africa’s arid savanna regions, watermelons were originally welcomed as sour
 ### More Than Just a Fruit…
 
 Watermelon-like fruit were referenced in ancient Greek and Roman texts using a variety of terms including pepon, melopepon, and kolokynte, suggesting that these plants proliferated in the Mediterranean region during antiquity.[^ref7] At that time, they were still likely to have sturdy and pale flesh—not quite as red and soft as it is today. Pliny the Elder dedicated a section of his _Naturalis Historia_ to _pepones_, which, he wrote, made a very refreshing food, but also had a laxative effect. Various parts of the fruit were used to alleviate pain, induce vomiting, and even cleanse the skin and clear spots.[^ref8]
-{#paragraph4}
-
-Watermelons were cultivated in Spain after the Arab conquest, with evidence of their agricultural use, mostly in the form of seeds, dating to the tenth century. Illuminated manuscripts from southern Italy illustrate the varieties of watermelons grown there. Early health treatises, such as _Tacuinum Sanitatis_, show harvesters [who taste-test them](http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=75&Fin=75&Param=C) in the fields. However, sweetness did not appear to be a consistent characteristic of watermelons. Writing in the late sixteenth century, John Gerard, in his [_Herball_](https://www.biodiversitylibrary.org/page/35441755), described their flesh as “spungie and of a flimsie substance,” which could be “eaten rawe, but more commonly boiled”; whereas the plant itself was still associated with curative properties: “it ingendereth a waterish bloud, mitigateth the extremitie of heat of the inner parts, and tempereth the sharpness and fervent heat of choler.”[^ref9]
-<param ve-image
-	title="Watermelon in the Tacuinum Sanitatis, c. 1390–1400."
-	url="http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=74&Fin=74&Param=C"
-	fit="contain"
-	attribution="Bibliothèque Nationale de France">
 <param ve-image
 	title="Watermelon in the Carrara Herbal."
 	url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Carrara_Herbal21.jpg"
@@ -92,6 +84,14 @@ Watermelons were cultivated in Spain after the Arab conquest, with evidence of t
 	url="https://www.archive.org/download/mobot31753000819224/page/n512_w299"
 	fit="contain"
 	attribution="BHL">
+{#paragraph4}
+
+Watermelons were cultivated in Spain after the Arab conquest, with evidence of their agricultural use, mostly in the form of seeds, dating to the tenth century. Illuminated manuscripts from southern Italy illustrate the varieties of watermelons grown there. Early health treatises, such as _Tacuinum Sanitatis_, show harvesters [who taste-test them](http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=75&Fin=75&Param=C) in the fields. However, sweetness did not appear to be a consistent characteristic of watermelons. Writing in the late sixteenth century, John Gerard, in his [_Herball_](https://www.biodiversitylibrary.org/page/35441755), described their flesh as “spungie and of a flimsie substance,” which could be “eaten rawe, but more commonly boiled”; whereas the plant itself was still associated with curative properties: “it ingendereth a waterish bloud, mitigateth the extremitie of heat of the inner parts, and tempereth the sharpness and fervent heat of choler.”[^ref9]
+<param ve-image
+	title="Watermelon in the Tacuinum Sanitatis, c. 1390–1400."
+	url="http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=74&Fin=74&Param=C"
+	fit="contain"
+	attribution="Bibliothèque Nationale de France">
 <param ve-image
 	title="Citrull cucumber in Gerard’s _Herball_."
 	url="https://www.archive.org/download/mobot31753000817756/page/n949_w320"
