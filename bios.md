@@ -7,8 +7,8 @@
 ##
 **Carl Linnaeus**
 
-- twitter: 
-- email: 
+- twitter: @linnaeus
+- email: Carl@jstor.org
 
 ![](https://visual-essays.app/thumbnail?size=400x260&url=https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Carl_von_Linn%C3%A9.jpg/496px-Carl_von_Linn%C3%A9.jpg)
 
@@ -17,8 +17,8 @@ Carl Linnaeus, also known after his ennoblement as Carl von Linné, was a Swedis
 ##
 **Carolus Clusius**
 
-- twitter: 
-- email: 
+- twitter: @GOATBotanist
+- email: Carolus@doaks.org
 
 ![](https://visual-essays.app/thumbnail?size=400x260&url=https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Carolus_Clusius00.jpg/462px-Carolus_Clusius00.jpg)
 
