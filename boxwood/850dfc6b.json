@@ -1,11 +1,11 @@
 {
   "@context": "http://www.w3.org/ns/anno.jsonld",
-  "id": "http://visual-essays.app/annotations/?include=description&target=boxwood//850dfc6b",
+  "id": "http://visual-essays.app/annotations/?include=description&target=boxwood/850dfc6b",
   "type": "AnnotationPage",
   "partOf": {
-    "id": "http://visual-essays.app/annotations/?include=description&target=boxwood//850dfc6b",
+    "id": "http://visual-essays.app/annotations/?include=description&target=boxwood/850dfc6b",
     "total": 2,
-    "modified": "2021-02-18T16:29:07.262713"
+    "modified": "2021-02-19T14:37:57.325132"
   },
   "startIndex": 0,
   "items": [
