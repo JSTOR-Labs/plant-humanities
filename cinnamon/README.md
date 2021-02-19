@@ -84,26 +84,19 @@ Once true cinnamon had begun to be understood as cinnamon from Sri Lanka (histor
 	center="8.050740, 80.654834"
 	zoom="7.4">
 <param ve-map-layer
-	url="Kingdom-of-Kandy.json"
-	show-labels>
+	url="Kingdom-of-Kandy.json">
 <param ve-map-layer
-	url="Kingdom-of-Sitawaka.json"
-	show-labels>
+	url="Kingdom-of-Sitawaka.json">
 <param ve-map-layer
-	url="Principality-of-Raigama.json"
-	show-labels>
+	url="Principality-of-Raigama.json">
 <param ve-map-layer
-	url="Kingdom-of-Kotte.json"
-	show-labels>
+	url="Kingdom-of-Kotte.json">
 <param ve-map-layer
-	url="Wanni-region_south.json"
-	show-labels>
+	url="Wanni-region_south.json">
 <param ve-map-layer
-	url="Wanni-region_north.json"
-	show-labels>
+	url="Wanni-region_north.json">
 <param ve-map-layer
-	url="Kingdom-of-Jaffna.json"
-	show-labels>
+	url="Kingdom-of-Jaffna.json">
 {#paragraph7}
 
 ### Optimizing the Monopoly
