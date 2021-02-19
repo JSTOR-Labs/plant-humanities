@@ -80,8 +80,8 @@ Watermelon-like fruit were referenced in ancient Greek and Roman texts using a v
 	region="0,636,999,729"
 	attribution="British Library. Egerton MS 2020">
 <param ve-image
-	title="‘Anguriae’ in Matthioli’s commentary on Dioscorides."
-	url="https://www.archive.org/download/mobot31753000819224/page/n512_w299"
+	title="‘Anguriae’ in Matthioli’s commentary on Dioscorides (1565)."
+	url="https://www.biodiversitylibrary.org/page/40601337"
 	fit="contain"
 	attribution="BHL">
 {#paragraph4}
@@ -93,8 +93,8 @@ Watermelons were cultivated in Spain after the Arab conquest, with evidence of t
 	fit="contain"
 	attribution="Bibliothèque Nationale de France">
 <param ve-image
-	title="Citrull cucumber in Gerard’s _Herball_."
-	url="https://www.archive.org/download/mobot31753000817756/page/n949_w320"
+	title="Citrull cucumber in Gerard’s _Herball_ (1633)."
+	url="https://www.biodiversitylibrary.org/page/60225235"
 	fit="contain"
 	attribution="BHL">
 {#paragraph5}
