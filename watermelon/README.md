@@ -171,7 +171,7 @@ Another artistic context in which watermelons were occasionally featured concern
 
 ### Watermelons, Race, and the American South 
 
-Paradoxically, the bright and appealing nature of the watermelon also lent itself to racist tropes in  nineteenth-century America. Watermelons were introduced there in the sixteenth century and were cultivated widely, from colonists’ kitchen gardens to those tended by African slaves. The ease with which watermelons were grown and sold meant that after the 1863 Emancipation Proclamation, they could became a source of income for freed slaves.[^ref14] Their cultivation and consumption became a means of enacting newfound freedoms as a public and communal activity. Emblematizing the potential for African Americans to escape the plantation economy, the watermelon soon became perceived as a threat by white southerners, who proceeded to transform it into a symbol of Black people’s unfitness for freedom and citizenship.
+Paradoxically, the bright and appealing nature of the watermelon also lent itself to racist tropes in nineteenth-century America. Watermelons were introduced there in the sixteenth century and were cultivated widely, from colonists’ kitchen gardens to those tended by African slaves. The ease with which watermelons were grown and sold meant that after the 1863 Emancipation Proclamation, they could became a source of income for freed slaves.[^ref14] Their cultivation and consumption became a means of enacting newfound freedoms as a public and communal activity. Emblematizing the potential for African Americans to escape the plantation economy, the watermelon soon became perceived as a threat by white southerners, who proceeded to transform it into a symbol of Black people’s unfitness for freedom and citizenship.
 <param ve-map
 	title="Distribution of watermelon, 1400 to 2000 CE."
 	basemap="Esri_WorldPhysical"
@@ -255,7 +255,7 @@ Another major transformation is the success of seedless cultivars. The commercia
 	url="https://i.imgur.com/meq0u1f.jpg?1"
 	fit="contain"
 	attribution="Vox">
-<para ve-image
+<param ve-image
 	title="Watermelon then and now."
 	url="https://cdn.vox-cdn.com/uploads/chorus_asset/file/3910892/watermelonthenandnow.jpg"
 	fit="contain"
