@@ -4,6 +4,8 @@
 
 # Notable botanists
 
+Below are biographies for notable botanists.
+
 ##
 **Carl Linnaeus**
 
@@ -25,6 +27,8 @@ Carl Linnaeus, also known after his ennoblement as Carl von Linné, was a Swedis
 Charles de l'Écluse, L'Escluse, or Carolus Clusius, was an Artois doctor and pioneering botanist, perhaps the most influential of all 16th-century scientific horticulturists.  Clusius was born Charles de l' Écluse in 1526, in Arras (Dutch Atrecht), then in the County of Artois, Spanish Netherlands, now northern France (Hauts-de-France). At the urging of his father, who wanted him to enter the law, he commenced his studies in Latin and Greek at Louvain, followed by civil law. His father then gave him some money to move to Marburg to further his legal studies, but after eight months when his mentor moved away from Marburg he switched to theology, initially at Marburg and then on the suggestion of one of his professors at Wittenberg, where he also began a study of philosophy. Even at Marburg he had also developed an interest in plants that he continued in Wittenberg.
 
 # Famous guitarists
+
+Here are some sample biographies for a couple of famous guitarists.  As far as I know they didn't have much influence in the field of botany.  I just added them here to show how different sections are created.
 
 ##
 **Stevie Ray Vaughan**
