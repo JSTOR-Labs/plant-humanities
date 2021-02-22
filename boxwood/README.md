@@ -240,15 +240,15 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref21]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529. [Click here for full book;](https://books.google.nl/books?id=R_daAAAAQAAJ&hl=nl&source=gbs_navlinks_s) Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66. [Click here for full book.](https://www.biodiversitylibrary.org/page/58766636)
 
-[^ref22]: De Serres, _Théatre d’agriculture_, 506, 529.
+[^ref22]: Olivier de Serres, _Théatre d’agriculture_, 506, 529.
 
-[^ref23]: De Serres, _Théatre d’agriculture_, 529.
+[^ref23]: Olivier de Serres, _Théatre d’agriculture_, 529.
 
 [^ref24]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201–2. [Click here for full book.](https://books.google.nl/books?id=YCdAAAAAcAAJ&hl=nl&source=gbs_navlinks_s)
 
-[^ref25]: Ibid., 202–3.
+[^ref25]: Claude Mollet, _Théatre des jardinage_, 202–3.
 
-[^ref26]: Ibid., 203.
+[^ref26]: Claude Mollet, _Théatre des jardinage_, 203.
 
 [^ref27]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797). [Click here for full book;](https://books.google.nl/books?id=CTwNAAAAYAAJ&hl=nl&source=gbs_navlinks_s) Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and _passim._ [Click here for full book.](https://www.biodiversitylibrary.org/page/51132642)
 
