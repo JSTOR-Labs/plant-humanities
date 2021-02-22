@@ -274,25 +274,25 @@ Today, market forces are among the chief factors that, alongside taste and tradi
 
 [^ref1]: Mark Twain, _Pudd’nhead Wilson_ (Hartford, Conn.: American Publishing Company, 1894). 
 
-[^ref2]: Harry S. Paris, “Origin and Emergence of the Sweet Dessert Watermelon, Citrullus Lanatus,” _Annals of Botany_ 116, no. 2 (August 2015): 133–48, [DOI:10.1093/aob/mcv077](https://doi.org/10.1093/aob/mcv077); Guillaume Chomicki and Susanne S. Renner, “Watermelon Origin Solved with Molecular Phylogenetics Including Linnaean Material: Another Example of Museomics,” _New Phytologist_ 205, no. 2 (2015): 526–32. [DOI:10.1111/nph.13163](https://doi.org/10.1111/nph.13163)
+[^ref2]: Harry S. Paris, “Origin and Emergence of the Sweet Dessert Watermelon, Citrullus Lanatus,” _Annals of Botany_ 116, no. 2 (August 2015): 133–48, [DOI:10.1093/aob/mcv077;](https://doi.org/10.1093/aob/mcv077) Guillaume Chomicki and Susanne S. Renner, “Watermelon Origin Solved with Molecular Phylogenetics Including Linnaean Material: Another Example of Museomics,” _New Phytologist_ 205, no. 2 (2015): 526–32, [DOI:10.1111/nph.13163](https://doi.org/10.1111/nph.13163)
 
-[^ref3]: Abdalbasit Adam Mariod et al., “A Comparative Study of the Properties of Six Sudanese Cucurbit Seeds and Seed Oils,” _Journal of the American Oil Chemists’ Society_ 86, no. 12 (August 20, 2009): 1181. [DOI:10.1007/s11746-009-1459-3](https://doi.org/10.1007/s11746-009-1459-3)
+[^ref3]: Abdalbasit Adam Mariod et al., “A Comparative Study of the Properties of Six Sudanese Cucurbit Seeds and Seed Oils,” _Journal of the American Oil Chemists’ Society_ 86, no. 12 (August 20, 2009): 1181, [DOI:10.1007/s11746-009-1459-3](https://doi.org/10.1007/s11746-009-1459-3)
 
 [^ref4]: Christian de Vartavan, _Hidden Fields of Tutankhamun: From Identification to Interpretation of Newly Discovered Plant Material from the Pharaoh’s Grave_, 2nd rev. ed., Triade Exploration’s Opus Magnum Series in the Field of Egyptology 2 (London: Triade Exploration, 2002), 22.
 
-[^ref5]: David Maynard and Donald Maynard, “Cucumbers, Melons, and Watermelons,” in _The Cambridge World History of Food_, ed. Kenneth F. Kiple and Kriemhild Coneè Ornelas (Cambridge: Cambridge University Press, 2000), 307. [DOI:10.1017/CHOL9780521402149.032](https://doi.org/10.1017/CHOL9780521402149.032)
+[^ref5]: David Maynard and Donald Maynard, “Cucumbers, Melons, and Watermelons,” in _The Cambridge World History of Food_, ed. Kenneth F. Kiple and Kriemhild Coneè Ornelas (Cambridge: Cambridge University Press, 2000), 307, [DOI:10.1017/CHOL9780521402149.032](https://doi.org/10.1017/CHOL9780521402149.032)
 
-[^ref6]: Paris, “Origin and Emergence,” 136.
+[^ref6]: Harry S. Paris, “Origin and Emergence,” 136.
 
 [^ref7]: Andrew Dalby, _Food in the Ancient World from A to Z_ (London and New York: Routledge, 2003), 347.
 
-[^ref8]: Jeffrey Henderson, “Pliny Natural History: Book XX: Chapter VI,” Loeb Classical Library, accessed July 28, 2020. [http://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL392.9.xml](http://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL392.9.xml)
+[^ref8]: Jeffrey Henderson, “Pliny Natural History: Book XX: Chapter VI,” Loeb Classical Library, accessed July 28, 2020, [http://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL392.9.xml](http://www.loebclassics.com/view/pliny_elder-natural_history/1938/pb_LCL392.9.xml)
 
-[^ref9]: Gerard, J., _The Herball or general Historie of Plantes_ (London: Norton, 1597), 768. [Click here for full book](https://www.biodiversitylibrary.org/page/35440967).
+[^ref9]: John Gerard, _The Herball or general Historie of Plantes_ (London: Norton, 1597), 768. [Click here for full book.](https://www.biodiversitylibrary.org/page/35440967)
 
-[^ref10]: St Louis Globe-Democrat (1888) ‘Watermelon Juice for the Complexion’, Daily Evening Bulletin (San Francisco), Sept. 8, 66(131), accessed [ADD DATE]. [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
+[^ref10]: St Louis Globe-Democrat (1888) ‘Watermelon Juice for the Complexion’, Daily Evening Bulletin (San Francisco), Sept. 8, 66(131), accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
 
-[^ref11]: Maynard and Maynard, “Cucumbers, Melons, and Watermelons,” 306.
+[^ref11]: David Maynard and Donald Maynard, “Cucumbers, Melons, and Watermelons,” 306.
 
 [^ref12]: [https://artsandculture.google.com/culturalinstitute/beta/exhibit/animals-and-plants-in-korean-traditional-paintings-i-%C2%A0plants-and-insects/8ALCU0JJWG92Lg](https://artsandculture.google.com/culturalinstitute/beta/exhibit/animals-and-plants-in-korean-traditional-paintings-i-%C2%A0plants-and-insects/8ALCU0JJWG92Lg)
 
@@ -300,20 +300,20 @@ Today, market forces are among the chief factors that, alongside taste and tradi
 
 [^ref14]: W.R. Black, “How Watermelons Became Black,” _Journal of the Civil War Era_, 8:1 (2018): 64–86.
 
-[^ref15]: Detroit Free Press (1880) “The Influence of the Watermelon,” St Louis Globe-Democrat, Aug. 21, 6(93), p. 6, accessed [ADD DATE]. [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
+[^ref15]: Detroit Free Press (1880) “The Influence of the Watermelon,” St Louis Globe-Democrat, Aug. 21, 6(93), p. 6, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
 
-[^ref16]: Cynthia Greenlee, “On eating watermelon in front of white people: ‘I’m not as free as I thought,’” _Vox_, accessed 23/07/20. [https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people)
+[^ref16]: Cynthia Greenlee, “On eating watermelon in front of white people: ‘I’m not as free as I thought,’” _Vox_, accessed 23/07/20, [https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people)
 
-[^ref17]: “Cholera Intelligence.” _National Intelligencer_, 30 Aug. 1832, accessed [ADD DATE]. [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers); “Watermelons” (1847) _The Vermont Watchman_, Aug. 26, 41(41), accessed [ADD DATE]. [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers); “A western paper” (1873) _The Morning Republican_ 7(131), accessed [ADD DATE]. [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
+[^ref17]: “Cholera Intelligence.” _National Intelligencer_, 30 Aug. 1832, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers;](https://www.gale.com/c/nineteenth-century-us-newspapers) “Watermelons” (1847) _The Vermont Watchman_, Aug. 26, 41(41), accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers;](https://www.gale.com/c/nineteenth-century-us-newspapers) “A western paper” (1873) _The Morning Republican_ 7(131), accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
 
-[^ref18]: R. Neff, “Watermelons: A forbidden pleasure in cholera-hit Korea,” _The Korea Times_, accessed 23/07/20. [http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html](http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html)
+[^ref18]: R. Neff, “Watermelons: A forbidden pleasure in cholera-hit Korea,” _The Korea Times_, accessed 23/07/20, [http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html](http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html)
 
-[^ref19]: Kim Severson, “Watermelons Get Small,” _The New York Times_, August 17, 2010. [https://www.nytimes.com/2010/08/18/dining/18melons.html](https://www.nytimes.com/2010/08/18/dining/18melons.html)
+[^ref19]: Kim Severson, “Watermelons Get Small,” _The New York Times_, August 17, 2010, [https://www.nytimes.com/2010/08/18/dining/18melons.html](https://www.nytimes.com/2010/08/18/dining/18melons.html)
 
-[^ref20]: Atitya Irvin-Mitchell, “Square watermelons are novel, but also costly and labor-intensive,” _Pittsburgh Post-Gazette_, accessed 24/07/20. [https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201](https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201)
+[^ref20]: Atitya Irvin-Mitchell, “Square watermelons are novel, but also costly and labor-intensive,” _Pittsburgh Post-Gazette_, accessed 24/07/20, [https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201](https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201)
 
-[^ref21]: Ron Goldy, (2012) “Seedless watermelon—how do they do that?,” Michigan State University Extension, accessed 24/07/20. [https://www.canr.msu.edu/news/seedless_watermelon_how_do_they_do_that](https://www.canr.msu.edu/news/seedless_watermelon_how_do_they_do_that)
+[^ref21]: Ron Goldy, (2012) “Seedless watermelon—how do they do that?,” Michigan State University Extension, accessed 24/07/20, [https://www.canr.msu.edu/news/seedless_watermelon_how_do_they_do_that](https://www.canr.msu.edu/news/seedless_watermelon_how_do_they_do_that)
 
-[^ref22]: H. Deal Saxon, “Bees and watermelons,” _The Statesboro Herald_, accessed 24/07/20. [https://www.statesboroherald.com/local/bees-and-watermelons](https://www.statesboroherald.com/local/bees-and-watermelons); D. Melicher, “Road Trip: How Hive Transportation Puts Stress on Honey Bees,” _Entomology Today_, accessed 24/07/20. [https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees](https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees)
+[^ref22]: H. Deal Saxon, “Bees and watermelons,” _The Statesboro Herald_, accessed 24/07/20, [https://www.statesboroherald.com/local/bees-and-watermelons;](https://www.statesboroherald.com/local/bees-and-watermelons) D. Melicher, “Road Trip: How Hive Transportation Puts Stress on Honey Bees,” _Entomology Today_, accessed 24/07/20, [https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees](https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees)
 
-[^ref23]: Rebecca Rupp (2015) “Watermelon May Be the Most Unnatural, Yet Delicious Fruit,” _National Geographic_, accessed 24/07/20. [https://www.nationalgeographic.com/culture/food/the-plate/2015/08/07/watermelon-may-be-the-most-unnatural-yet-delicious-fruit](https://www.nationalgeographic.com/culture/food/the-plate/2015/08/07/watermelon-may-be-the-most-unnatural-yet-delicious-fruit)
+[^ref23]: Rebecca Rupp (2015) “Watermelon May Be the Most Unnatural, Yet Delicious Fruit,” _National Geographic_, accessed 24/07/20, [https://www.nationalgeographic.com/culture/food/the-plate/2015/08/07/watermelon-may-be-the-most-unnatural-yet-delicious-fruit](https://www.nationalgeographic.com/culture/food/the-plate/2015/08/07/watermelon-may-be-the-most-unnatural-yet-delicious-fruit)
