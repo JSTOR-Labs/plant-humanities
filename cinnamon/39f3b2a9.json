@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=cinnamon/39f3b2a9",
-    "total": 2,
-    "modified": "2021-02-22T17:19:37.317101"
+    "total": 3,
+    "modified": "2021-02-22T17:20:01.465320"
   },
   "startIndex": 0,
   "items": [
@@ -50,6 +50,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "cinnamon/39f3b2a9/b4772987",
       "seq": 1
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "... as well as down on the ground",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1945.1732177734375,1878.0185546875,804.0748291015625,540.6708984375"
+        },
+        "id": "cinnamon/39f3b2a9"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "cinnamon/39f3b2a9/c09564d5",
+      "seq": 2
     }
   ]
 }
