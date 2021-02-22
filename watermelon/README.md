@@ -101,10 +101,10 @@ Watermelons were cultivated in Spain after the Arab conquest, with evidence of t
 
 In fact, centuries later, in 1888, watermelons were still being promoted as a face cleanser in U.S. newspapers. A certain Miss Carrie Townsend from St. Louis, Missouri, recommended them to girls with freckles who looked “as if they had been about when a bran bin had exploded,” claiming that no matter what was wrong with the face, the juice of the watermelon would rectify it.[^ref10] Although perhaps not quite as powerful as Miss Townsend suggests, watermelon-based treatments are re-emerging as a natural skin cleanser today, including West African kalahari or ootanga oil that is traditionally extracted from the fruit’s seeds.
 <param ve-image
-	title="Cucurbits on the Juliana Anicia Codex known as Vienna Dioscorides. Number C is _Citrullus colocynthis_, the bitter watermelon, the close relative to watermelon that was used as a laxative and diuretic."
-	url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/100/7/10.1093/aob/mcm242/2/mcm24201.jpeg?Expires=1599152059&Signature=uPLyghEFxoPNUp8Bl7c-mT7iQ1W~Vy~voNczo6PqfdEMJ5AVzGOp6XpmFbAm7wrO3f4l0fF-941C9t-471o-otlXzw7OQvxAiN-Axh-DI2Rhvk5ldA4AdSV0hZG-d7il~xO7xeBxDm6hcfWM~uDu9uF5-c-hezzb6CAAxi2RqijxttXO6TSyOSlwUPnWUL7YJTl5y9S7cwulGYA9Wo23ukLP9sy1L0Q~O78iXt1TpCVwvPGgJDbkgwLvuAuqHsxAAQvP3HYnZyfwAPuLFB1sU52SHuNrhBIi0xbSGgj54Nmpcwvz6qvSpPPmPm8toDKk1rdAFSLiNikq1xL8ZHqD~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+	title="tba"
+	url=""
 	fit="contain"
-	attribution="Annals of Botany">
+	attribution="">
 {#paragraph6}
 
 ### Watermelons in Art around the World
