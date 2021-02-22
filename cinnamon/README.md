@@ -25,7 +25,7 @@ Cinnamon had a long history before any European ever saw “true” cinnamon (_C
 <param title="East Indies" eid="Q213137">
 <param title="Cassia abbreviata" eid="Q145495">
 <param ve-image
-	title="Cinnamon, in a medieval Arabian manuscript of Dioscorides’s _De Materia medica_ (first century CE). Translated in Arabic by an unknown scribe in Spain (twelfth-thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
+	title="Cinnamon, in a medieval Arabian manuscript of Dioscorides’s _De Materia medica_ (first century CE). Translated into Arabic by an unknown scribe in Spain (twelfth–thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
 	url="18040817.jpg">
 {#paragraph2}
 
@@ -58,7 +58,7 @@ The attraction of cinnamon—true or other—as a means to enhance the power of 
 <param title="Trajan" eid="Q1425">
 <param title="Persian Gulf" eid="Q34675">
 <param ve-image
-	title="Reverse side of a silver Roman denarius dating from the period 103-111 CE (reign of emperor Trajan), that was found in East Riding of Yorkshire, Britain. The coin shows a female personification of Arabia holding a branch and a bundle of cinnamon sticks, and standing next to a camel. If cinnamon is indeed depicted, then this should be _Cassia abbreviata_ or _Cinnamomum cassia_. Numismatic information about this coin type can be found in the standard work Roman Imperial Coinage (published between 1923 and 1994), vol. 5, p. 253, no. 142."
+	title="Reverse side of a silver Roman denarius dating from the period 103–111 CE (reign of emperor Trajan), that was found in East Riding of Yorkshire, Britain. The coin shows a female personification of Arabia holding a branch and a bundle of cinnamon sticks, and standing next to a camel. If cinnamon is indeed depicted, then this should be _Cassia abbreviata_ or _Cinnamomum cassia_. Numismatic information about this coin type can be found in the standard work Roman Imperial Coinage (published between 1923 and 1994), vol. 5, p. 253, no. 142."
 	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
 	region="1414,152,1586,1031">
 {#paragraph5}
@@ -72,7 +72,7 @@ The quest for spices, cinnamon among them, was one important aim that inspired E
 <param title="Syzygium aromaticum" eid="Q26736" aliases="cloves">
 <param title="nutmeg" eid="Q83165">
 <param ve-image
-	title="Coat-of-arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs and a number of cloves. The banner covering the globe reads in Latin “Primus circumdedisti me” (“You first encircled me”)."
+	title="Coat-of-arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs, and a number of cloves. The banner covering the globe reads in Latin “Primus circumdedisti me” (“You first encircled me”)."
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
 	fit="contain">
 {#paragraph6}
@@ -119,7 +119,7 @@ Although their skills were indispensable for the cinnamon trade, peelers were tr
 <param title="Sinhalese people" eid="Q932244" aliases="Sinhalese">
 <param title="Salagama" eid="Q3469487">
 <param ve-image
-	title="Imaginary landscapes with spices from the East Indies. On the left can be seen a nutmeg tree, a cinnamon tree, and an elephant chase in the background. On the right can be seen a cloves tree and bamboo, with the volcano Ternate in the back. Etching by Romeyn de Hooghe, produced between 1682 and 1733. Rijksmuseum, Amsterdam, object no. BI-1972-1043-16, serial no. 10/41."
+	title="Imaginary landscapes with spices from the East Indies. On the left can be seen a nutmeg tree, a cinnamon tree, and an elephant chase in the background. On the right can be seen a clove tree and bamboo, with the volcano Ternate in the background. Etching by Romeyn de Hooghe, produced between 1682 and 1733. Rijksmuseum, Amsterdam, object no. BI-1972-1043-16, serial no. 10/41."
 	url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kaneel%2C_nootmuskaat%2C_kruidnagel_en_bamboe_Kaneel_en_Nootmus_Canelle%2C_Muscade%2C_Chasse_des_Elephans%2C_etc_Kruytnagelengewas_Girofle%2C_Bambous%2C_Montagne_brulante%2C_etc_%28titel_op_object%29_Les_Indes_Orientales_et_Occidentales_e%2C_BI-1972-1043-16.jpg">
 <param ve-image
 	title="“How cinnamon is peeled on the island of Ceylon”. Anonymous copperplate print, from Philippus Baldaeus, _Naauwkeurige beschryvinge van Malabar en Choromandel, derzelver aangrenzende ryken en het machtige eyland Ceylon_ (Amsterdam: Johannes Janssonius van Waasberge, 1672), 195."
@@ -131,7 +131,7 @@ The restrictions imposed by the Dutch on cinnamon exports made it the only real 
 <param title="Dutch East India Company" eid="Q159766" aliases="Dutch East India Company (VOC)">
 <param title="shifting cultivation" eid="Q287854" aliases="crop rotation">
 <param ve-image
-	title="Drawing from 1720, showing the benefits that could be made from monocultures of cinnamon on temporary cleared fields (_chenas_). The image on the left shows a demarcated area of forest to be cultivated; the image in the middle shows the same field after the original vegetation was cleared; and the image on the right shows the _chena_ as a monoculture of cinnamon. The text at the bottom is a calculation of the expected returns. A field with only five cinnamon trees could contain 135 trees after cultivation: a 27-fold increase. When this image was produced, however, the VOC was still very reluctant to abandon the wild harvest approach it had always adopted, and _chena_ practices were dicouraged."
+	title="Drawing from 1720, showing the benefits that could be made from monocultures of cinnamon on temporary cleared fields (_chenas_). The image on the left shows a demarcated area of forest to be cultivated; the image in the middle shows the same field after the original vegetation was cleared; and the image on the right shows the _chena_ as a monoculture of cinnamon. The text at the bottom is a calculation of the expected returns. A field with only five cinnamon trees could contain 135 trees after cultivation: a 27-fold increase. When this image was produced, however, the VOC was still very reluctant to abandon the wild harvest approach it had always adopted, and _chena_ practices were discouraged."
 	url="NL-HaNA_4.VEL_939A-groot_cropped.jpg">
 {#paragraph10}
 
@@ -147,10 +147,10 @@ In 1760, local grievances about the VOC policy concerning _chenas_, and the trea
 
 It was short-lived success, however. When the British took control over the Dutch territories on Sri Lanka in 1796, they failed to maintain the cinnamon plantation economy. Calls for free trade and better working conditions for the peelers, high export duties, and competition with cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But these measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea cultivation, thus ending the cinnamon production for years to come.[^ref13]
 <param ve-image
-	title="“Skinning the cinnamon sticks, Ceylon”. Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 109. In the early twentieth century, Ward observed that cinnamon from Sri Lanka still carried historical connotations of superiority, even though the trade had become marginal: “The demand for Ceylon cinnamon has indeed so lessened that commercial interests are urging the cultivation of Cassia in Ceylon in order to maintain the island’s position in the trade. In analytical circles the Ceylon variety is still conservatively described as ‘True cinnamon’ instead of by the commercial term ‘Ceylon cinnamon.’” (p. 111)."
+	title="“Skinning the cinnamon sticks, Ceylon.” Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 109. In the early twentieth century, Ward observed that cinnamon from Sri Lanka still carried historical connotations of superiority, even though the trade had become marginal: “The demand for Ceylon cinnamon has indeed so lessened that commercial interests are urging the cultivation of Cassia in Ceylon in order to maintain the island’s position in the trade. In analytical circles the Ceylon variety is still conservatively described as ‘True cinnamon’ instead of by the commercial term ‘Ceylon cinnamon.’” (p. 111)."
 	url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Skinning_the_cinnamon_sticks%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg">
 <param ve-image
-	title="“Forming the cinnamon quills, Ceylon”. Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 110. Ward still noted the difficulties in distinguishing between cinnamon types in the early twentieth century: “One specific trade difference [between _Cinnamomum verum_ and _Cinnamomum cassia_] is that Cassia quills are single, whereas in Ceylon the smaller quills are enclosed in the larger. In the ground spice it is frequently difficult to distinguish between good grades of the two barks.” (p. 110)."
+	title="“Forming the cinnamon quills, Ceylon.” Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 110. Ward still noted the difficulties in distinguishing between cinnamon types in the early twentieth century: “One specific trade difference [between _Cinnamomum verum_ and _Cinnamomum cassia_] is that Cassia quills are single, whereas in Ceylon the smaller quills are enclosed in the larger. In the ground spice it is frequently difficult to distinguish between good grades of the two barks.” (p. 110)."
 	url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Forming_the_cinnamon_quills%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg">
 {#paragraph12}
 
@@ -222,7 +222,7 @@ The last and most daring strategy was to transplant the true cinnamon to Spanish
 <param title="Guadeloupe" eid="Q3118683">
 <param title="Saint Vincent" eid="Q379656">
 <param ve-image
-	title="Cinnamon sticks for sale at the _marché de la Darse_, Pointe-à-Pitre, Guadeloupe."
+	title="Cinnamon sticks for sale at the _Marché de la Darse_, Pointe-à-Pitre, Guadeloupe."
 	url="https://upload.wikimedia.org/wikipedia/commons/4/40/Cannelle_%28March%C3%A9_de_la_Darse%29.jpg">
 {#paragraph18}
 
