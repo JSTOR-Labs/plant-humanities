@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=cinnamon/39f3b2a9",
-    "total": 2,
-    "modified": "2021-02-22T17:21:07.207191"
+    "total": 1,
+    "modified": "2021-02-22T17:22:57.281182"
   },
   "startIndex": 0,
   "items": [
@@ -29,27 +29,6 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "cinnamon/39f3b2a9/d271a417",
       "seq": 0
-    },
-    {
-      "type": "Annotation",
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Various stages of the production process of cinnamon are shown. Peelers can be seen in the tree...",
-          "purpose": "commenting"
-        }
-      ],
-      "target": {
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1612.4525146484375,1164.055419921875,1039.7520751953125,755.55322265625"
-        },
-        "id": "cinnamon/39f3b2a9"
-      },
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "cinnamon/39f3b2a9/b4772987",
-      "seq": 1
     }
   ]
 }
