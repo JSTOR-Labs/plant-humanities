@@ -200,7 +200,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref1]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” _Applied Microbiology and Biotechnology_ 102 (2018): 4371, [DOI:10.1007/s00253-018-8936-2](https://doi.org/10.1007/s00253-018-8936-2)
 
-[^ref2]: Ibid., with reference to USDA-National Agricultural Statistics Service Census of Agriculture 2014 reports, [https://www.agcensus.usda.gov](https://www.agcensus.usda.gov). English or European boxwood is the same species (_Buxus sempervirens_) as American boxwood. There are no boxwood species native to the United States. The centers of diversity for the genus are in Western Europe, Northern Africa, and Asia (_Buxus microphylla_).
+[^ref2]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight,” with reference to USDA-National Agricultural Statistics Service Census of Agriculture 2014 reports, [https://www.agcensus.usda.gov.](https://www.agcensus.usda.gov) English or European boxwood is the same species (_Buxus sempervirens_) as American boxwood. There are no boxwood species native to the United States. The centers of diversity for the genus are in Western Europe, Northern Africa, and Asia (_Buxus microphylla_).
 
 [^ref3]: Diane Kostial McGuire, ed., _Beatrix Farrand’s Plant Book for Dumbarton Oaks_ (Washington, DC: Dumbarton Oaks, 1980), xiii.
 
@@ -214,29 +214,29 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref8]: Giovan Vettorio Soderini, _Opere_, ed. Alberto Bacchi della Lega (Bologna: Romagnoli dall’Acqua, 1902–7), III:52, 245, 251, 343.
 
-[^ref9]: Soderini, _Opere,_ III:254.
+[^ref9]: Giovan Vettorio Soderini, _Opere,_ III:254.
 
-[^ref10]: Firenzuola, “La grande arte della agricoltura,” 304; Soderini, _Opere,_ III:254.
+[^ref10]: Girolamo Firenzuola, “La grande arte della agricoltura,” 304; Giovan Vettorio Soderini, _Opere,_ III:254.
 
-[^ref11]: Gerard, _Herball_, 1226; Soderini, _Opere_, III:343.
+[^ref11]: John Gerard, _Herball_, 1226; Giovan Vettorio Soderini, _Opere_, III:343.
 
-[^ref12]: Soderini, _Opere_, III:254, 255; Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance Garden: From the Conventions of Planting, Design, and Ornament to the Grand Gardens of Sixteenth-Century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291–2n.17.
+[^ref12]: Giovan Vettorio Soderini, _Opere_, III:254, 255; Girolamo Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance Garden: From the Conventions of Planting, Design, and Ornament to the Grand Gardens of Sixteenth-Century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291–2n.17.
 
-[^ref13]: Soderini, _Opere_, III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32. [Click here for full book.](https://books.google.nl/books?id=Ba31fJHShy4C&hl=nl&source=gbs_navlinks_s)
+[^ref13]: Giovan Vettorio Soderini, _Opere_, III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32. [Click here for full book.](https://books.google.nl/books?id=Ba31fJHShy4C&hl=nl&source=gbs_navlinks_s)
 
-[^ref14]: Soderini, _Opere_, III:255.
+[^ref14]: Giovan Vettorio Soderini, _Opere_, III:255.
 
-[^ref15]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion. [Click here for full book.](https://www.biodiversitylibrary.org/page/50764445) Cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–40. [Click here for full book.](https://books.google.nl/books?id=XsLsBIcSywYC&hl=nl&source=gbs_navlinks_s)
+[^ref15]: Pietro Andrea Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion. [Click here for full book.](https://www.biodiversitylibrary.org/page/50764445) Cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–40. [Click here for full book.](https://books.google.nl/books?id=XsLsBIcSywYC&hl=nl&source=gbs_navlinks_s)
 
-[^ref16]: Parkinson, _Paradisi in sole_, 606; Gerard, _Herball_, 1225.
+[^ref16]: John Parkinson, _Paradisi in sole_, 606; John Gerard, _Herball_, 1225.
 
-[^ref17]: Mattioli, _Discorsi_, 138; cf. Parkinson, _Paradisi in sole_, 606–7.
+[^ref17]: Pietro Andrea Mattioli, _Discorsi_, 138; cf. John Parkinson, _Paradisi in sole_, 606–7.
 
-[^ref18]: Soderini, _Opere_, I:182.
+[^ref18]: Giovan Vettorio Soderini, _Opere_, I:182.
 
-[^ref19]: Ibid., I:151, 175.
+[^ref19]: Giovan Vettorio Soderini, _Opere_, I:151, 175.
 
-[^ref20]: Gerard, _Herball_, 1225.
+[^ref20]: John Gerard, _Herball_, 1225.
 
 [^ref21]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529. [Click here for full book;](https://books.google.nl/books?id=R_daAAAAQAAJ&hl=nl&source=gbs_navlinks_s) Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66. [Click here for full book.](https://www.biodiversitylibrary.org/page/58766636)
 
