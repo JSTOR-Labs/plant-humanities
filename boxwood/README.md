@@ -31,6 +31,7 @@
 <param title="Saint-Germain-en-Laye" eid="Q60847808">
 <param title="Monceaux" eid="Q1440821">
 <param title="Fontainebleau" eid="Q182872">
+<param title="Versailles" eid="Q621">
 <param title="gardens of Versailles" eid="Q3162464">
 <param title="Louis XIV" eid="Q7742">
 <param title="André Le Nôtre" eid="Q273849">
@@ -156,7 +157,6 @@ The vindication of boxwood as an essential garden plant took place in late sixte
 {#paragraph9}
 
 In practical terms, borders involving a combination of different shrubs as described by De Serres needed to be regularly replanted. If they were to last longer, his advice was to use boxwood alone regardless of its smell.[^ref23] The advocate of this method was royal gardener Claude Mollet, who was credited with inventing _parterres de broderie_ and supplying their illustrations for De Serres’s treatise _Théâtre d’Agriculture_. Coming from a family of gardeners, Mollet wrote from the perspective of a professional horticulturist (who among other things, he believed, was supposed to be well-versed in astrology). A committed champion of boxwood, he emphasized the volatility of the French climate affected by two “extremes,” “the great heat and the great cold,” which caused the “nuisance and expense of having to redo and replant garden compartments once every three years.”[^ref24] Mollet’s solution was to reduce the composition of borders solely to boxwood, which he started to implement for King Henri IV in 1595 in the gardens of Saint-Germain-en-Laye, Monceaux, and Fontainebleau; decades later, they would still remain in “good shape.”[^ref25] The species that he particularly praised was _nain_ (dwarf) boxwood, which did not grow as tall as other varieties and had smaller leaves, but showed the same resistance to freezing and heat.[^ref26]
-<param title="Versailles" eid="Q621">
 <param ve-map
 	title="French royal gardens where Claude Mollet experimented with boxwood."
 	center="Q90"
