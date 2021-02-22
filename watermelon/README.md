@@ -283,15 +283,15 @@ Today, market forces are among the chief factors that, alongside taste and tradi
 
 [^ref11]: David Maynard and Donald Maynard, “Cucumbers, Melons, and Watermelons,” 306.
 
-[^ref12]: Animals and Plants in Korean Traditional Paintings I: Plants and Insects, accessed Feb. 2, 2021, [https://artsandculture.google.com/culturalinstitute/beta/exhibit/animals-and-plants-in-korean-traditional-paintings-i-%C2%A0plants-and-insects/8ALCU0JJWG92Lg](https://artsandculture.google.com/culturalinstitute/beta/exhibit/animals-and-plants-in-korean-traditional-paintings-i-%C2%A0plants-and-insects/8ALCU0JJWG92Lg)
+[^ref12]: Animals and Plants in Korean Traditional Paintings I: Plants and Insects, accessed Feb. 22, 2021, [https://artsandculture.google.com/culturalinstitute/beta/exhibit/animals-and-plants-in-korean-traditional-paintings-i-%C2%A0plants-and-insects/8ALCU0JJWG92Lg](https://artsandculture.google.com/culturalinstitute/beta/exhibit/animals-and-plants-in-korean-traditional-paintings-i-%C2%A0plants-and-insects/8ALCU0JJWG92Lg)
 
-[^ref13]: Notes Collector, accessed February 22, 2021, [https://notescollector.eu/pages/en/notes.php?noteId=1394](https://notescollector.eu/pages/en/notes.php?noteId=1394)
+[^ref13]: Notes Collector, accessed Feb. 22, 2021, [https://notescollector.eu/pages/en/notes.php?noteId=1394](https://notescollector.eu/pages/en/notes.php?noteId=1394)
 
 [^ref14]: W.R. Black, “How Watermelons Became Black,” _Journal of the Civil War Era_, 8:1 (2018): 64–86.
 
-[^ref15]: Detroit Free Press, “The Influence of the Watermelon,” St Louis Globe-Democrat, 6(93), Aug. 21, 1880, p. 6, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
+[^ref15]: Detroit Free Press, “The Influence of the Watermelon,” St Louis Globe-Democrat, 6(93), Aug. 21, 1880, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
 
-[^ref16]: Cynthia Greenlee, “On eating watermelon in front of white people: ‘I’m not as free as I thought,’” _Vox_, accessed July 23, 2020. [Click here for full article.](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people)
+[^ref16]: Cynthia Greenlee, “On eating watermelon in front of white people: ‘I’m not as free as I thought,’” _Vox_, Aug. 29, 2019, accessed July 23, 2020. [Click here for full article.](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people)
 
 [^ref17]: “Cholera Intelligence,” _National Intelligencer_, Aug. 30, 1832, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers;](https://www.gale.com/c/nineteenth-century-us-newspapers) “Watermelons,”  _The Vermont Watchman_, 41(41), Aug. 26, 1847, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers;](https://www.gale.com/c/nineteenth-century-us-newspapers) “A western paper,” _The Morning Republican_, 7(131), 1873, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
 
@@ -299,10 +299,10 @@ Today, market forces are among the chief factors that, alongside taste and tradi
 
 [^ref19]: Kim Severson, “Watermelons Get Small,” _The New York Times_, Aug. 17, 2010, accessed Feb, 22, 2021. [Click here for full article.](https://www.nytimes.com/2010/08/18/dining/18melons.html)
 
-[^ref20]: Atitya Irvin-Mitchell, “Square watermelons are novel, but also costly and labor-intensive,” _Pittsburgh Post-Gazette_, Aug 10, 2016, accessed July 24, 2020. [Click here for full article.](https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201)
+[^ref20]: Atitya Irvin-Mitchell, “Square watermelons are novel, but also costly and labor-intensive,” _Pittsburgh Post-Gazette_, Aug. 10, 2016, accessed July 24, 2020. [Click here for full article.](https://www.post-gazette.com/life/food/2016/08/10/Square-watermelons-are-novel-but-also-costly-and-labor-intensive/stories/201607290201)
 
 [^ref21]: Ron Goldy, “Seedless watermelon—how do they do that?,” _Michigan State University Extension_, March 14, 2012, accessed July 24, 2020. [Click here for full article.](https://www.canr.msu.edu/news/seedless_watermelon_how_do_they_do_that)
 
 [^ref22]: H. Deal Saxon, “Bees and watermelons,” _The Statesboro Herald_, May 31, 2018, accessed July 24, 2020. [Click here for full article;](https://www.statesboroherald.com/local/bees-and-watermelons) D. Melicher, “Road Trip: How Hive Transportation Puts Stress on Honey Bees,” _Entomology Today_, April 1, 2018, accessed July 24, 2020. [Click here for full article.](https://entomologytoday.org/2019/04/01/road-trip-hive-transportation-stress-honey-bees)
 
-[^ref23]: Rebecca Rupp “Watermelon May Be the Most Unnatural, Yet Delicious Fruit,” _National Geographic_, Aug. 7, 2015, accessed July 24, 2020. [Click here for full article.](https://www.nationalgeographic.com/culture/food/the-plate/2015/08/07/watermelon-may-be-the-most-unnatural-yet-delicious-fruit)
+[^ref23]: Rebecca Rupp, “Watermelon May Be the Most Unnatural, Yet Delicious Fruit,” _National Geographic_, Aug. 7, 2015, accessed July 24, 2020. [Click here for full article.](https://www.nationalgeographic.com/culture/food/the-plate/2015/08/07/watermelon-may-be-the-most-unnatural-yet-delicious-fruit)
