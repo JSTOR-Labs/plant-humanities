@@ -252,23 +252,23 @@ Today, Sri Lanka again ranks high among [the world’s largest exporters of cinn
 
 [^ref8]: Zoltán Biedermann, “The Matrioshka Principle and How It Was Overcome: Portuguese and Habsburgs Imperial Attitudes in Sri Lanka and the Responses of the Rulers of Kotte (1506-1598),” _Journal of Early Modern History_ 13, no. 4 (2009): 265–310, [DOI:10.1163/138537809X12528970165181](https://doi.org/10.1163/138537809X12528970165181)
 
-[^ref9]: Lodewijk Wagenaar, _Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_, Transl. by Steve Green and Michael Blass (Amsterdam: Rijksmuseum/Nijmegen: Vantilt Publishers, 2016), 149–57.
+[^ref9]: Lodewijk Wagenaar, _Cinnamon & Elephants: Sri Lanka and The Netherlands from 1600_, transl. by Steve Green and Michael Blass (Amsterdam: Rijksmuseum/Nijmegen: Vantilt Publishers, 2016), 149–57.
 
 [^ref10]: S. Arasaratnam, “Dutch Commercial Policy in Ceylon and its Effects on the Indo-Ceylon Trade (1690-1750),” _Indian Economic & Social History Review_ 4, no. 2 (1967): 109–30, [DOI:10.1177%2F001946466700400202](https://doi.org/10.1177%2F001946466700400202)
 
 [^ref11]: Lodewijk Wagenaar, _Cinnamon & Elephants_, 150, 153.
 
-[^ref12]: Wagenaar, 155.
+[^ref12]: Lodewijk Wagenaar, _Cinnamon & Elephants_, 155.
 
 [^ref13]: Vijaya Samaraweera, “The Cinnamon Trade of Ceylon.”
 
-[^ref14]: Johan Heniger, _Hendrik Adriaan van Reede tot Drakenstein (1636-1691) and Hortus Malabaricus: A Contribution to the History of Dutch Colonial Botany_ (Rotterdam and Boston: A.A. Balkema, 1986), 37–8; and Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press, 2007), 310–7.
+[^ref14]: Johan Heniger, _Hendrik Adriaan van Reede tot Drakenstein (1636–1691) and Hortus Malabaricus: A Contribution to the History of Dutch Colonial Botany_ (Rotterdam and Boston: A.A. Balkema, 1986), 37–8; and Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press, 2007), 310–7.
 
 [^ref15]: Tinde van Andel and Nadine Barth, “Paul Hermann’s Ceylon Herbarium (1672-1679) at Leiden, the Netherlands,” _Taxon_ 67, no. 5 (2018): 981, [DOI:10.12705/675.8](https://doi.org/10.12705/675.8)
 
 [^ref16]: Lisbet Koerner, _Linnaeus: Nature and Nation_ (Cambridge, Massachusetts and London: Harvard University Press, 1999), 36.
 
-[^ref17]: Paul Hermann, _Horti academici Lugduno-Batavi catalogus exhibens Plantarum omnium Nomina, quibus ab anno MDCLXXXI ad annum MDCLXXXVI Hortus fuit instructus ut & Plurimarum in eodem cultarum & à nemine hucusque editarum Descriptiones & Icones_ (Lugduni Batavorum: Apud Cornelium Boutesteyn, 1687), 130. [Click here for full book;](https://bibdigital.rjb.csic.es/records/item/13585-horti-academici-lugduno-batavi-catalogus) quoted in Heniger, _Hendrik Adriaan van Reede tot Drakenstein_, 155.
+[^ref17]: Paul Hermann, _Horti academici Lugduno-Batavi catalogus exhibens Plantarum omnium Nomina, quibus ab anno MDCLXXXI ad annum MDCLXXXVI Hortus fuit instructus ut & Plurimarum in eodem cultarum & à nemine hucusque editarum Descriptiones & Icones_ (Lugduni Batavorum: Apud Cornelium Boutesteyn, 1687), 130. [Click here for full book;](https://bibdigital.rjb.csic.es/records/item/13585-horti-academici-lugduno-batavi-catalogus) quoted in Johan Heniger, _Hendrik Adriaan van Reede tot Drakenstein_, 155.
 
 [^ref18]: Albertus Seba, “An Account of the Cinnamon Tree in Ceylon, and Its Several Sorts. Communicated by the Chief Inspector of the Cinnamon Trade and Manufacture in that Island to Albertus Seba, a Noted Druggist at Amsterdam. Translated by the late Dr. Scheuchzer, F. R. S.,” _Philosophical Transactions_ 36, no. 409 (1730): I, 97–109, [DOI:10.1098/rstl.1729.0012](https://doi.org/10.1098/rstl.1729.0012)
 
