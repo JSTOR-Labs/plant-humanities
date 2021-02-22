@@ -32,7 +32,7 @@ Members of today’s _Dracaena_ genus have long been valued for their signature 
 <param title="Socotra" eid="Q82859">
 <param title="Dracaena cinnabari" eid="Q133560">
 <param ve-image
-	title="Vedic Tale of the Elephant and the Dragon. Giraldus Cambrensis, _Bestiary_, (England: c.1225-1250), f58. Image povided by the British Museum"
+	title="Vedic Tale of the Elephant and the Dragon. Giraldus Cambrensis, _Bestiary_, (England: c.1225–1250), f58. Image povided by the British Museum."
 	url="https://www.bl.uk/IllImages/Ekta/big/E043/E043090a.jpg"
 	region="-45,191,1591,1127">
 {#paragraph2}
@@ -101,7 +101,7 @@ After European colonization, and along with the integration of the Canaries into
 <param title="Alexander von Humboldt" eid="Q6694">
 <param title="Botanical Garden Berlin" eid="Q163255" aliases="Botanical Garden in Berlin">
 <param ve-image
-	title="An 1859 oil painting of Alexander von Humboldt by German painter Julius Schrader (1815-1900). Julius Schrader, _Baron Alexander von Humboldt (1769-1859)_, oil on canvas, 1859."
+	title="An 1859 oil painting of Alexander von Humboldt by German painter Julius Schrader (1815–1900). Julius Schrader, _Baron Alexander von Humboldt (1769-1859)_, oil on canvas, 1859."
 	url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Baron_Alexander_von_Humboldt_by_Julius_Schrader_1859.jpg"
 	region="179,832,3158,2303">
 <param ve-image
@@ -177,11 +177,11 @@ Due to its near-extinction in the wild, _D. draco_ is officially designated as a
 
 [^ref4]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (transl.), _The Canarian: or, Book of the Conquest and Conversion of the Canarians in the year 1402 by Messire Jean de Béthencourt, Kt_, (London: The Hakluyt Society, 1872), 70–1. [Click here for full book.](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up) On _D. draco_’s wider significance within Guanche culture, see Mark Milburn, “Dragon’s Blood in East and West Africa, Arabia and the Canary Islands,” _Africa: Rivista trimestrale di studi e documentazione dell’Istituto italiano per l’Africa e l’Oriente_ 39, no. 3 (1984): 489–90, [https://www.jstor.org/stable/40759752](https://www.jstor.org/stable/40759752)
 
-[^ref5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” _British Cactus & Succulent Journal_ 17, no. 4 (December, 1999): 171–7, [https://www.jstor.org/stable/42793606;](https://www.jstor.org/stable/42793606) Jane Pearson and Hew D.V. Prendergast, “_Daemonorops_, _Dracaena_ and Other Dragon’s Blood,” _Economic Botany_ 55, no. 4 (October-December 2001): 474–7, [DOI:10.1007/BF02871711](https://doi.org/10.1007/BF02871711)
+[^ref5]: Colin Walker, “A tale of dragons – the pachycaul species of Dracaena,” _British Cactus & Succulent Journal_ 17, no. 4 (December, 1999): 171–177, [https://www.jstor.org/stable/42793606;](https://www.jstor.org/stable/42793606) Jane Pearson and Hew D.V. Prendergast, “_Daemonorops_, _Dracaena_ and Other Dragon’s Blood,” _Economic Botany_ 55, no. 4 (October–December 2001): 474–477, [DOI:10.1007/BF02871711](https://doi.org/10.1007/BF02871711)
 
 [^ref6]: “Villa de La Orotava Dragon Tree Tour: The Arautava Giant,” Ayuntamiento: Villa de La Orotava, accessed August 3, 2020. [Click here for full article.](https://www.laorotava.es/en/tourism/discover-la-orotava/villa-de-la-orotava-dragon-tree-tour)
 
-[^ref7]: Bontier, Le Verrier, and Major (transl.), _The Canarian_, 70–1. [Click here for full book.](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up)
+[^ref7]: Pierre Bontier, Jean le Verrier, and Richard Henry Major (transl.), _The Canarian_, 70–1. [Click here for full book.](https://archive.org/details/canarianorbookof00bont_0/page/n7/mode/2up)
 
 [^ref8]: Rajinder K. Gupta, Bruce Bleakley, and Deepika Gupta, “Dragon’s blood: Botany, chemistry and therapeutic uses,” _Journal of Ethnopharmacology_ 115 (2008): 361, [DOI:10.1016/j.jep.2007.10.018](https://doi.org/10.1016/j.jep.2007.10.018)
 
@@ -193,7 +193,7 @@ Due to its near-extinction in the wild, _D. draco_ is officially designated as a
 
 [^ref12]: Alexander von Humboldt, _Personal Narrative of travels to the equinoctial regions of America during the years 1799-1804_ (London: Routledge, 1895), vol. 1, 62. [Click here for full book.](https://www.biodiversitylibrary.org/item/228502#page/5/mode/1up) On Humboldt’s environmentalism, see Laura Dassow Walls, “Rediscovering Humboldt’s Environmental Revolution,” _Environmental History_ 10, no. 4 (2005): 758–60, [https://www.jstor.org/stable/3986179](https://www.jstor.org/stable/3986179)
 
-[^ref13]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_ (Paris: Arthus Bertrand, 1810), 81–2. [Click here for full book.](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
+[^ref13]: André Pierre Ledru, _Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_ (Paris: Arthus Bertrand, 1810), 81–82. [Click here for full book.](https://archive.org/details/voyageauxlesdet00sonngoog/page/n5/mode/2up)
 
 [^ref14]: André Pierre Ledru, _Voyages_, 93.
 
