@@ -94,7 +94,7 @@ Knowledge of how to process cassava so that it could be safely consumed was comm
 <param title="Metamorphosis insectorum Surinamensium" eid="Q1925022">
 <param title="Surinam" eid="Q7646305" aliases="Dutch Surinam">
 <param title="Maria Sibylla Merian" eid="Q62530">
-Although the Caribbean is not considered cassava’s native habitat, the plant was already cultivated by the indigenous Arawak peoples who lived in the Greater Antilles when Christopher Columbus arrived in the New World.[^ref15] Through European colonization, cassava was further introduced to other places in the Caribbean, such as Barbados and Haiti, becoming subsistence food for enslaved labor in plantations.[^ref16] Cassava was established as a staple across the Caribbean by the seventeenth century, and it was represented in naturalist Maria Sibylla Merian’s (1647–1717) _Metamorphosis insectorum Surinamensium_ (1719), which describes the plants and insects that she studied during her stay in Dutch Surinam between 1699 and 1701.
+Although the Caribbean is not considered cassava’s native habitat, the plant was already cultivated by the indigenous Arawak peoples who lived in the Greater Antilles when Christopher Columbus arrived in the New World.[^ref15] Through European colonization, cassava was further introduced to other places in the Caribbean, such as Barbados and Haiti, becoming subsistence food for enslaved labor on plantations.[^ref16] Cassava was established as a staple across the Caribbean by the seventeenth century, and it was represented in naturalist Maria Sibylla Merian’s (1647–1717) _Metamorphosis insectorum Surinamensium_ (1719), which describes the plants and insects that she studied during her stay in Dutch Surinam between 1699 and 1701.
 <param ve-map title="Greater Antilles (yellow) including Haiti (purple), and Barbados (magenta)" basemap="Esri_WorldPhysical" center="19.1981, -71.06222" zoom="5.2" marker-type="none" stroke="none">
 <param ve-map-layer geojson active url="GreaterAntilles_Haiti_Barbados.json" title="Greater Antilles including Haiti, and Barbados">
 {#paragraph11}
@@ -179,7 +179,7 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 ### References
 
-[^ref1]: “Partnership Formed to Improve Cassava, Staple Food of 600 Million People,” _Food and Agriculture Organization of the United Nations_, November 5, 2002. [http://www.fao.org/english/newsroom/news/2002/10541-en.html](http://www.fao.org/english/newsroom/news/2002/10541-en.html)
+[^ref1]: “Partnership Formed to Improve Cassava, Staple Food of 600 Million People,” _Food and Agriculture Organization of the United Nations_, November 5, 2002, [http://www.fao.org/english/newsroom/news/2002/10541-en.html](http://www.fao.org/english/newsroom/news/2002/10541-en.html)
 
 [^ref2]: Donald Ugent, Shelia Pozorski, and Thomas Pozorski, “Archaeological Manioc (Manihot) from Coastal Peru,” _Economic Botany_ 40, no. 1 (1986): 99.
 
@@ -213,17 +213,17 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 [^ref17]: Alicia C. Montoya and Rindert Jagersma, “Marketing Maria Sybilla Merian, 1720-1800: Book Auctions, Gender and Reading Culture in the Dutch Republic,” _Book History_ 21 (2018): 56–88.
 
-[^ref18]: Maria Sibylla Merian, _Metamorphosis insectorum Surinamensium_ (Amstelaedami: Joannem Oosterwyk, 1719), 5. https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16
+[^ref18]: Maria Sibylla Merian, _Metamorphosis insectorum Surinamensium_ (Amstelaedami: Joannem Oosterwyk, 1719), 5, [https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16](https://nrs.harvard.edu/urn-3:DOAK.RESLIB:41825989?n=16)
 
-[^ref19]: “Inquiries and Directions for the Antilles, or Caribbee Islands, No. 33, 634,” _Philosophical Transactions of Royal Society of London_ (1668): 227, 231. https://www.biodiversitylibrary.org/page/23264930; Kaori O’Connor, “Beyond ‘Exotic Groceries,” 229–231.
+[^ref19]: “Inquiries and Directions for the Antilles, or Caribbee Islands, No. 33, 634,” _Philosophical Transactions of Royal Society of London_ (1668): 227, 231, [https://www.biodiversitylibrary.org/page/23264930](https://www.biodiversitylibrary.org/page/23264930); Kaori O’Connor, “Beyond ‘Exotic Groceries,” 229–231.
 
 [^ref20]: Jean de Léry, _History of a Voyage to the Land of Brazil, Otherwise Called America_ (Berkeley: University of California Press, 1990). 
 
-[^ref21]: Antonio de León Pinelo, _Cuestion moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias_ (Madrid: Por la viuda de Iuan Gonçalez, 1636). [https://www.biodiversitylibrary.org/page/55670844](https://www.biodiversitylibrary.org/page/55670844); Bedford Pim and Berthold Seemann, _Dottings on the Roadside, in Panama, Nicaragua, and Mosquito_ (London: Chapman and Hall, 1869), 405–406. [http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871](http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871)
+[^ref21]: Antonio de León Pinelo, _Cuestion moral si el chocolate quebranta el ayuno eclesiastico: Tratase de otras bebidas i confecciones que se vsan en varias provincias_ (Madrid: Por la viuda de Iuan Gonçalez, 1636), [https://www.biodiversitylibrary.org/page/55670844;](https://www.biodiversitylibrary.org/page/55670844) Bedford Pim and Berthold Seemann, _Dottings on the Roadside, in Panama, Nicaragua, and Mosquito_ (London: Chapman and Hall, 1869), 405–406, [http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871](http://mertzdigital.nybg.org/cdm/ref/collection/p9016coll23/id/30871)
 
 [^ref22]: Ana Lucia Barretto Penna, Luis A. Nero, and Svetoslav D. Todorov, _Fermented Foods of Latin America: From Traditional Knowledge to Innovative Applications_ (Boca Raton, Florida: CRC Press, 2017), 233.
 
-[^ref23]: Antoine-François de Fourcroy and Jean-Michel Papillon, Élémens d’histoire naturelle et de chemie (Paris: Chez Cuchet, 1786), 106. [https://www.biodiversitylibrary.org/page/57980618](https://www.biodiversitylibrary.org/page/57980618)
+[^ref23]: Antoine-François de Fourcroy and Jean-Michel Papillon, Élémens d’histoire naturelle et de chemie (Paris: Chez Cuchet, 1786), 106, [https://www.biodiversitylibrary.org/page/57980618](https://www.biodiversitylibrary.org/page/57980618)
 
 [^ref24]: Carney and Rosomoff, _In the Shadow of Slavery_, 54.
 
@@ -241,7 +241,7 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 [^ref31]: J. D. La Fleur, _Fusion Foodways_, 176; A. Parmer, B. Sturm, and O. Hensel, “Crops that Feed the World,” 908. 
 
-[^ref32]: A. A. Adeniji et al., “Cassava Development in Nigeria: A Country Case Study towards a Global Strategy for Cassava Development,” Food and Agriculture Organization of the United Nations. [http://www.fao.org/3/a0154e/A0154E05.htm](http://www.fao.org/3/a0154e/A0154E05.htm)
+[^ref32]: A. A. Adeniji et al., “Cassava Development in Nigeria: A Country Case Study towards a Global Strategy for Cassava Development,” Food and Agriculture Organization of the United Nations, [http://www.fao.org/3/a0154e/A0154E05.htm](http://www.fao.org/3/a0154e/A0154E05.htm)
 
 [^ref33]: “Partnership Formed to Improve Cassava.”
 
@@ -249,10 +249,10 @@ On the other hand, Crosby associates cassava with Nigerian village life, which i
 
 [^ref35]: Judith Ann Carney and Richard Nicholas Rosomoff, _In the Shadow of Slavery_, 180.
 
-[^ref36]: MOCA, _Njideka Akunyili Crosby_ (Los Angeles, 2018). [https://www.youtube.com/watch?v=pUZijlho9CM](https://www.youtube.com/watch?v=pUZijlho9CM)
+[^ref36]: MOCA, _Njideka Akunyili Crosby_ (Los Angeles, 2018), [https://www.youtube.com/watch?v=pUZijlho9CM](https://www.youtube.com/watch?v=pUZijlho9CM)
 
 [^ref37]: _Artist Talk Njideka Akunyili Crosby_, Whitney Museum of American Art (New York, 2018).
 
-[^ref38]: Tyler Green, “Njideka Akunyili Crosby, Bierstadt’s West,” The Modern Art Notes Podcast, 2019. [https://manpodcast.com/portfolio/no-374-njideka-akunyili-crosby-bierstadts-west/](https://manpodcast.com/portfolio/no-374-njideka-akunyili-crosby-bierstadts-west/)
+[^ref38]: Tyler Green, “Njideka Akunyili Crosby, Bierstadt’s West,” The Modern Art Notes Podcast, 2019, [https://manpodcast.com/portfolio/no-374-njideka-akunyili-crosby-bierstadts-west/](https://manpodcast.com/portfolio/no-374-njideka-akunyili-crosby-bierstadts-west/)
 
 [^ref39]: MOCA, _Njideka Akunyili Crosby_.
