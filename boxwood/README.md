@@ -50,7 +50,7 @@
 
 ### Boxwood under Threat
 
-“Boxwood blight invades North America,” read the heading of an article that appeared in _Science News_ in January 2012. Caused by _Cylindrocladium buxicola_—a fungus whose spores remain viable for several years and are easily dispersed by birds, moving visitors, wind, or even sprinklers—the disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.”[^ref1]
+“Boxwood blight invades North America,” reads the headline of an article that appeared in _Science News_ in January 2012. Caused by _Cylindrocladium buxicola_—a fungus whose spores remain viable for several years and are easily dispersed by birds, moving visitors, wind, or even sprinklers—the disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.”[^ref1]
 <param ve-map
 	title="Occurence of boxwood blight in America, 2010–2018."
 	center="39.812733, -97.042653"
@@ -67,7 +67,7 @@
 	url="us-states.json">
 {#paragraph1}
 
-Boxwood is a genus of evergreen shrubs that enjoys great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens_ ‘Suffruticosa’) native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of $126 million in 2014.[^ref2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.”
+Boxwood is a genus of evergreen shrubs that enjoys great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens_ ‘Suffruticosa’), native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of $126 million in 2014.[^ref2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.”
 <param title="Buxus" eid="Q158703" aliases="Boxwood">
 <param title="shrub" eid="Q42295" aliases="shrubs">
 <param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/02768200c2c5f6bd7d2b1c6a123cf09f28211b427ee28534a518bc813530d9d4" region="154,53,900,667">
@@ -95,7 +95,7 @@ One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand begi
 
 ### “A Plant Known to Everybody”
 
-How did boxwood come to represent the lasting legacy of the European garden tradition? Its historical fortunes hardly amount to a dazzling story of oversees exploration, important discoveries, and economic exploitation—the “big business” of early modern botany, to use Daniela Bleichmar’s phrase.[^ref4] An integral element in the Mediterranean maquis—scrubland vegetation—boxwood has been familiar to Europeans for many centuries. Sixteenth-century Italians considered it “a plant that is known to everybody, since it abundantly grows all over Italy”; while in England it was habitually found among “sundry waste and barren hills.”[^ref5] Boxwood’s adaptation to garden design went back to antiquity. Roman author and politician Pliny the Younger mentions its use in his villa “in Tuscis,” where, cut into various shapes representing figures and letters, it served as the main material for elaborate topiary work.[^ref6] This malleability of boxwood, the ease with which it lent itself to pruning, was particularly valued by the ancients, making it an indispensable and versatile medium for the creation of green architecture and sculpture.
+How did boxwood come to represent the lasting legacy of the European garden tradition? Its historical fortunes hardly amount to a dazzling story of oversees exploration, important discoveries, or economic exploitation—the “big business” of early modern botany, to use Daniela Bleichmar’s phrase.[^ref4] An integral element in the Mediterranean maquis—scrubland vegetation—boxwood has been familiar to Europeans for many centuries. Sixteenth-century Italians considered it “a plant that is known to everybody, since it abundantly grows all over Italy”; while in England it was habitually found among “sundry waste and barren hills.”[^ref5] Boxwood’s adaptation to garden design went back to antiquity. Roman author and politician Pliny the Younger mentions its use in his villa “in Tuscis,” where, cut into various shapes representing figures and letters, it served as the main material for elaborate topiary work.[^ref6] This malleability of boxwood, the ease with which it lent itself to pruning, was particularly valued by the ancients, making it an indispensable and versatile medium for the creation of green architecture and sculpture.
 <param ve-map
 	title="Native European distribution of common boxwood (_Buxus sempervirens_)."
 	center="47.192704, 23.108475"
@@ -198,7 +198,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 ### References
 
-[^ref1]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” _Applied Microbiology and Biotechnology_ 102 (2018): 4371. [DOI:10.1007/s00253-018-8936-2](https://doi.org/10.1007/s00253-018-8936-2)
+[^ref1]: Nicholas LeBlanc, Catalina Salgado-Salazar, Jo Anne Crouch, “Boxwood blight: an ongoing threat to ornamental and native boxwood,” _Applied Microbiology and Biotechnology_ 102 (2018): 4371, [DOI:10.1007/s00253-018-8936-2](https://doi.org/10.1007/s00253-018-8936-2)
 
 [^ref2]: Ibid., with reference to USDA-National Agricultural Statistics Service Census of Agriculture 2014 reports, [https://www.agcensus.usda.gov](https://www.agcensus.usda.gov). English or European boxwood is the same species (_Buxus sempervirens_) as American boxwood. There are no boxwood species native to the United States. The centers of diversity for the genus are in Western Europe, Northern Africa, and Asia (_Buxus microphylla_).
 
@@ -206,7 +206,7 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref4]: Daniela Bleichmar, “Botanical conquistadors: the promises and challenges of imperial botany in the Hispanic Enlightenment,” in _The Botany of Empire in the Long Eighteenth century_, ed. Yota Batsaki, Sarah Burke Cahalan, and Anatole Tchikine (Washington, DC: Dumbarton Oaks, 2016), 35.
 
-[^ref5]: Pietro Andrea Mattioli, _Discorsi_ (Venice: Valgrisi, 1563), 138. [Click here for full book](https://books.google.nl/books?id=6B9QAAAAcAAJ&hl=nl&source=gbs_navlinks_s); John Gerard, _The Herball or general Historie of Plantes_ (London: Norton, 1597), 1225. [Click here for full book](https://archive.org/details/herballorgeneral00gera_2).
+[^ref5]: Pietro Andrea Mattioli, _Discorsi_ (Venice: Valgrisi, 1563), 138. [Click here for full book;](https://books.google.nl/books?id=6B9QAAAAcAAJ&hl=nl&source=gbs_navlinks_s) John Gerard, _The Herball or general Historie of Plantes_ (London: Norton, 1597), 1225. [Click here for full book.](https://archive.org/details/herballorgeneral00gera_2)
 
 [^ref6]: Pliny the Younger, _Letters_, V.6.
 
@@ -222,11 +222,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref12]: Soderini, _Opere_, III:254, 255; Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance Garden: From the Conventions of Planting, Design, and Ornament to the Grand Gardens of Sixteenth-Century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291–2n.17.
 
-[^ref13]: Soderini, _Opere_, III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32. [Click here for full book](https://books.google.nl/books?id=Ba31fJHShy4C&hl=nl&source=gbs_navlinks_s).
+[^ref13]: Soderini, _Opere_, III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32. [Click here for full book.](https://books.google.nl/books?id=Ba31fJHShy4C&hl=nl&source=gbs_navlinks_s)
 
 [^ref14]: Soderini, _Opere_, III:255.
 
-[^ref15]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion. [Click here for full book](https://www.biodiversitylibrary.org/page/50764445). Cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–40. [Click here for full book](https://books.google.nl/books?id=XsLsBIcSywYC&hl=nl&source=gbs_navlinks_s).
+[^ref15]: Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion. [Click here for full book.](https://www.biodiversitylibrary.org/page/50764445) Cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–40. [Click here for full book.](https://books.google.nl/books?id=XsLsBIcSywYC&hl=nl&source=gbs_navlinks_s)
 
 [^ref16]: Parkinson, _Paradisi in sole_, 606; Gerard, _Herball_, 1225.
 
@@ -238,22 +238,22 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref20]: Gerard, _Herball_, 1225.
 
-[^ref21]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529. [Click here for full book](https://books.google.nl/books?id=R_daAAAAQAAJ&hl=nl&source=gbs_navlinks_s); Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66. [Click here for full book](https://www.biodiversitylibrary.org/page/58766636).
+[^ref21]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529. [Click here for full book;](https://books.google.nl/books?id=R_daAAAAQAAJ&hl=nl&source=gbs_navlinks_s) Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66. [Click here for full book.](https://www.biodiversitylibrary.org/page/58766636)
 
 [^ref22]: De Serres, _Théatre d’agriculture_, 506, 529.
 
 [^ref23]: De Serres, _Théatre d’agriculture_, 529.
 
-[^ref24]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201–2. [Click here for full book](https://books.google.nl/books?id=YCdAAAAAcAAJ&hl=nl&source=gbs_navlinks_s).
+[^ref24]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201–2. [Click here for full book.](https://books.google.nl/books?id=YCdAAAAAcAAJ&hl=nl&source=gbs_navlinks_s)
 
 [^ref25]: Ibid., 202–3.
 
 [^ref26]: Ibid., 203.
 
-[^ref27]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797). [Click here for full book](https://books.google.nl/books?id=CTwNAAAAYAAJ&hl=nl&source=gbs_navlinks_s); Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and _passim._ [Click here for full book](https://www.biodiversitylibrary.org/page/51132642).
+[^ref27]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797). [Click here for full book;](https://books.google.nl/books?id=CTwNAAAAYAAJ&hl=nl&source=gbs_navlinks_s) Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and _passim._ [Click here for full book.](https://www.biodiversitylibrary.org/page/51132642)
 
 [^ref28]: Edith Wharton, _A backward glance_ (New York, London: D. Appleton-Century Company, 1934), 130.
 
-[^ref29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953): 182. [http://www.jstor.org/stable/4136501](http://www.jstor.org/stable/41365015)
+[^ref29]: Geoffrey Jellicoe, “Italian Renaissance gardens,” _Journal of the Royal Society of Arts_, 101 (1953): 182, [http://www.jstor.org/stable/4136501](http://www.jstor.org/stable/41365015)
 
 [^ref30]: Both American and English boxwood are highly susceptible to boxwood blight, the latter perhaps owing to its compact, dense habit, which restricts air movement allowing foliage to remain wet for longer periods and trapping detritus in the interior of the plant. The cultivars of _Buxus microphylla_ and _Buxus harlandii,_ both native to Asia, show higher levels of resistance to the disease. I am grateful to Jonathan Kavalier, Director of Dumbarton Oaks Gardens, for this information.
