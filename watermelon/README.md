@@ -219,15 +219,10 @@ Stories of watermelon theft contributed to the perception of Black criminality f
 
 The racist notion that watermelon consumption revealed unhealthy habits of African Americans was not an isolated phenomenon: it was paralleled by nineteenth-century associations between watermelon and disease. There was a common belief that eating too much watermelon, especially when overripe, could lead to cholera, which led some cities in the United States to ban the fruit’s sale during epidemics, with watermelons being referred to as “cholera bombshells.”[^ref17] While it is unclear whether these direct causal connections between watermelons and disease were accurate, contemporary evidence has shown that raw fruits and vegetables can be a frequent source of cholera infection, especially if fields where they grew had been fertilized with uncomposted manure or irrigated with contaminated water. While the role of watermelons as opposed to other types of fruit in transmitting cholera in the United States was almost certainly exaggerated to serve racial narratives, similar associations were common in other parts of the world.
 <param ve-image
-	title="Cholera Intelligence."
-	url="054de03b-d835-43ba-a445-3f0e1024551e.jpeg"
+	title="1849 Cholera prevention poster by the Sanatory Committee, under the sanction of the Medical Counsel, in New York City, published between c. 1830 and c. 1840."
+	url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Cholera_395.1.jpg"
 	fit="contain"
-	attribution="The National Intelligencer. 1832, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
-<param ve-image
-	title="Carried the cholera."
-	url="watermelon-poem.jpeg"
-	fit="contain"
-	attribution="The Macon Telegraph. 1884, The Milwaukee Daily Sentinel, Aug. 19, p. 4, Gale Primary Sources, Nineteenth Century U.S. Newspapers">
+	attribution="Wikimedia Commons">
 {#paragraph13}
 
 At the turn of the twentieth century, for instance, British mine owners in Korea [banned watermelons](http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html) from their workers’ camps to prevent outbreaks of cholera. The logic behind this decision seemed to be based on the “immense quantities” of watermelons consumed by Korean workers, including the rind (probably the white pith, which was considered good for indigestion). The racialized attitudes toward over-indulging in certain types of food were joined here by the moralizing of disease. The campaign was effective in preventing cholera, but it is unclear if its success was due to the watermelon ban.[^ref18] Similarly, posters from the Soviet Union during a cholera epidemic that lasted into the early 1920s used watermelons to illustrate how poor hygiene could lead to disease, from drinking unboiled water to eating unwashed fruit.
