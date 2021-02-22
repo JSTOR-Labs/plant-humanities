@@ -208,9 +208,9 @@ Cultivated _Helianthus annuus_ is a fast-growing, sun-loving plant that blooms d
 
 [^ref11]: Ray Desmond, “The Discovery of the New World,” in _Great Natural History Books and their Creators_ (New Castle, Delaware: Oak Knoll Press, 2003), 24–27.
 
-[^ref12]: Adriaen Collaert, designer and printmaker, _Florilegium_, 1570 to before 1618, published by Theodoor Galle and Philips Galle, possibly Netherlands, engraving, 178 x 126 mm, Rijksmuseum. [http://hdl.handle.net/10934/RM0001.COLLECT.432189](http://hdl.handle.net/10934/RM0001.COLLECT.432189); Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_ (Lyon, France: Aux despens de Iean Pillehotte... 1619), accessed January 6, 2021. [https://www.biodiversitylibrary.org/page/7815694](https://www.biodiversitylibrary.org/page/7815694)
+[^ref12]: Adriaen Collaert, designer and printmaker, _Florilegium_, 1570 to before 1618, published by Theodoor Galle and Philips Galle, possibly Netherlands, engraving, 178 x 126 mm, Rijksmuseum. [http://hdl.handle.net/10934/RM0001.COLLECT.432189](http://hdl.handle.net/10934/RM0001.COLLECT.432189); Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_ (Lyon, France: Aux despens de Iean Pillehotte... 1619), accessed January 6, 2021, [https://www.biodiversitylibrary.org/page/7815694](https://www.biodiversitylibrary.org/page/7815694)
 
-[^ref13]: C.B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resouces and Crop Evolution_ 45 (1998): 447–449. [https://doi.org/10.1023/A:1008603501401](https://doi.org/10.1023/A:1008603501401)
+[^ref13]: C.B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resouces and Crop Evolution_ 45 (1998): 447–449, [https://doi.org/10.1023/A:1008603501401](https://doi.org/10.1023/A:1008603501401)
 
 [^ref14]: C.B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower”; Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower).”
 
