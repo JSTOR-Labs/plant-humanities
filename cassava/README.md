@@ -39,7 +39,7 @@ Wild ancestors of the domesticated _Manihot esculenta_—known more commonly as 
 <param title="Nazca culture" eid="Q210570" aliases="Nazca">
 <param title="Moche culture" eid="Q208188" aliases="Moche">
 <param title="Chimú culture" eid="Q901198" aliases="Chimú">
-Archaeological evidence suggests that cassava became an important food staple for several ancient cultures in present-day Peru, including the Chavin (1000–200 BCE), Nazca (200 B.C.E.–600 CE), Moche (250–750 CE), and Chimú (1000–1470 CE).[^ref4]
+Archaeological evidence suggests that cassava became an important food staple for several ancient cultures in present-day Peru, including the Chavin (1000–200 BCE), Nazca (200 BCE–600 CE), Moche (250–750 CE), and Chimú (1000–1470 CE).[^ref4]
 <param ve-map basemap="Esri_WorldPhysical" title="Locations of Pre-Columbian Andean civilizations: Nazca (magenta), Moche and Moche Influence (purple), and Chimú (yellow)." center="-10.398459529701169, -75.35486070351776" zoom="5" marker-type="none" stroke="none">
 <param ve-map-layer geojson active url="cassava_leaves.json" title="Cassava leaves">
 <param ve-map-layer geojson active url="Peru_Nazca_Moche_Chimor.json" title="Pre-Columbian Andean civilizations">
@@ -91,10 +91,9 @@ Knowledge of how to process cassava so that it could be safely consumed was comm
 <param title="Greater Antilles" eid="Q128011">
 <param title="Haiti" eid="Q790">
 <param title="Barbados" eid="Q244">
-<param title="Metamorphosis insectorum Surinamensium" eid="Q1925022">
 <param title="Surinam" eid="Q7646305" aliases="Dutch Surinam">
 <param title="Maria Sibylla Merian" eid="Q62530">
-Although the Caribbean is not considered cassava’s native habitat, the plant was already cultivated by the indigenous Arawak peoples who lived in the Greater Antilles when Christopher Columbus arrived in the New World.[^ref15] Through European colonization, cassava was further introduced to other places in the Caribbean, such as Barbados and Haiti, becoming subsistence food for enslaved labor on plantations.[^ref16] Cassava was established as a staple across the Caribbean by the seventeenth century, and it was represented in naturalist Maria Sibylla Merian’s (1647–1717) _Metamorphosis insectorum Surinamensium_ (1719), which describes the plants and insects that she studied during her stay in Dutch Surinam between 1699 and 1701.
+Although the Caribbean is not considered cassava’s native habitat, the plant was already cultivated by the indigenous Arawak peoples who lived in the Greater Antilles when Christopher Columbus arrived in the New World.[^ref15] Through European colonization, cassava was further introduced to other places in the Caribbean, such as Barbados and Haiti, becoming subsistence food for enslaved labor on plantations.[^ref16] Cassava was established as a staple across the Caribbean by the seventeenth century, and it was represented in naturalist Maria Sibylla Merian’s (1647–1717) [_Metamorphosis insectorum Surinamensium_](https://iiif.lib.harvard.edu/manifests/view/drs:481769537$1i) (1719), which describes the plants and insects that she studied during her stay in Dutch Surinam between 1699 and 1701.
 <param ve-map title="Greater Antilles (yellow) including Haiti (purple), and Barbados (magenta)." basemap="Esri_WorldPhysical" center="19.1981, -71.06222" zoom="5.2" marker-type="none" stroke="none">
 <param ve-map-layer geojson active url="GreaterAntilles_Haiti_Barbados.json" title="Greater Antilles including Haiti, and Barbados">
 {#paragraph11}
@@ -136,7 +135,7 @@ As Europeans moved between continents, knowledge of cassava preparation, togethe
 
 <param title="garri" eid="Q1494252" aliases="gari">
 With this transfer of knowledge from South America to Africa, other innovations emerged. For example, African women learned that the bitter cassava root was poisonous and learned how to prepare its leaves instead.[^ref29] They discovered that young cassava leaves could be safely consumed after being boiled. A new method of processing the root also developed, which involved pressing it with stone weights instead of using the hanging method favored in South America.[^ref30] Another African innovation emerged in the form of _gari_, or toasted flakes, made from the dried pulp of processed cassava. They are not as refined as the _farinha_ produced in South America, but can be stored for a long period of time.[^ref31]
-<param ve-image title="Cassava leaves, September 22, 2009" url="Cassava_leaf_Flickr.jpg" attribution="CIAT, ©2009CIAT/NeilPalme, Flickr, CC BY-SA 2.0">
+<param ve-image title="Cassava leaves, September 22, 2009." url="Cassava_leaf_Flickr.jpg" attribution="CIAT, ©2009CIAT/NeilPalme, Flickr, CC BY-SA 2.0">
 {#paragraph17}
 
 ### Food of the Future?
@@ -146,7 +145,7 @@ Today, Nigeria is the world’s largest producer of cassava, with over 34 millio
 <param ve-image fit="cover" url="IIT_weeded cassava field_Nigeria_Flickr.jpg" title="International Institute of Tropical Agriculture, _Weeded cassava field at Owiwi, Abeokuta, Nigeria_, November 3, 2012." attribution="Flickr, CC BY-NC 2.0">
 {#paragraph18}
 
-<param title="FAO" eid="Q82151" aliases="Food and Agriculture Organization (FAO)">
+<param title="FAO" eid="Q82151" aliases="Food and Agriculture Organization">
 In spite of cassava’s potential for aiding global food security, the Food and Agriculture Organization (FAO) of the United Nations noted in 2002 that research on the plant has lagged behind other popular food crops.[^ref33] The FAO report further observed that cassava production had fallen behind its yield potential in Africa and that marketing attempts by cassava farmers had similarly been consistently lower than expected. Increases in cassava productivity had also consistently lagged behind other top food crops, such as rice, wheat, and corn.[^ref34] As a result, the FAO launched a biotechnology development program to increase cassava production by increasing its pest and disease resistance and improving its starch quality to ensure better marketability and higher nutrient levels.
 <param ve-image primary fit="contain" url="Screen Shot 2021-01-06 at 12.02.11 PM.jpg" title="Production of Cassava." attribution="Image created by Rachel Hirsch, data from Food and Agriculture Organization of the United Nations.">
 <param ve-image region="1,0,1143,1004" url="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-020-0501-z/MediaObjects/41597_2020_501_Fig1_HTML.png?as=webp" title="Disaggregated cassava production in sub-Saharan Africa and associated data sources. Density of cassava production layer (tonnes per approx. 1 km2) (a). Cassava production data sources and administrative resolution of production census data in each of the countries (b): FAO (fao.org/faostat), Resakss (resakss.org), Agro-MAPS (kids.fao.org/agromaps/) and IITA (personal correspondence with the International Institute of Tropical Agriculture in Ibadan, Nigeria). Basemap source: Esri, DeLorme, HERE, MapmyIndia." attribution="Szyniszewska, A.M. CassavaMap, a fine-resolution disaggregation of cassava production and harvested area in Africa in 2014. _Sci Data_ 7, 159 (2020). https://doi.org/10.1038/s41597-020-0501-z, CC BY 4.0">
@@ -164,7 +163,7 @@ In addition to food security, cassava plays an increasingly important and divers
 {#paragraph20}
 
 <param title="Njideka Akunyili Crosby" eid="Q21284874">
-Associated with specific culture across the globe, but also symbolizing—having spread from its native habitat in South America, across the ocean to Africa, and back to South America and the Caribbean via diasporic African communities—cassava has also been celebrated in contemporary art. Nigerian–American artist Njideka Akunyili Crosby, for example, features cassava prominently in her work as she explores the ability of people, plants, and paintings to inhabit multiple spaces.
+Associated with specific cultures across the globe, but also symbolizing mobility—having spread from its native habitat in South America, across the ocean to Africa, and back to South America and the Caribbean via diasporic African communities—cassava has also been celebrated in contemporary art. Nigerian–American artist Njideka Akunyili Crosby, for example, features cassava prominently in her work as she explores the ability of people, plants, and paintings to inhabit multiple spaces.
 <param ve-image fit="contain" url="Crosby_Cassava_Mural_Flickr.jpg" title="Njideka Akunyili Crosby, _Obodo (Country/City/Town/Ancestral Village)_, outdoor mural, MOCA Grand Avenue, Los Angeles, CA, September 30, 2018." attribute="waltarrrrr, Flickr, CC BY-NC-ND 2.0">
 {#paragraph21}
 
