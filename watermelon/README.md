@@ -254,7 +254,7 @@ Another major transformation is the success of seedless cultivars. The commercia
 Today, market forces are among the chief factors that, alongside taste and tradition, continue to determine the watermelon’s transformation since its origin as a small bitter crop. The sweet red flesh that we enjoy bears witness to a range of cultural and historical meanings accumulated throughout the fruit’s rich history.
 <param ve-image
 	title=""
-	manifest="https://iiif.lib.harvard.edu/manifests/ids:1486002"
+	manifest="https://iiif.lib.harvard.edu/manifests/ids:1486001"
 	fit="contain"
 	attribution="">
 {#paragraph17}
