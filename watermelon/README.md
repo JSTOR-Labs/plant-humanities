@@ -238,10 +238,9 @@ At the turn of the twentieth century, for instance, British mine owners in Korea
 ### Commodification and Ecological Costs
 
 The intensified commodification of the watermelon during the twentieth and especially early twenty-first centuries transformed the fruit’s appearance. In many countries around the world watermelons have grown smaller, rounder, and more uniform in size in order to stack better for transit and sale. These so-called “personal melons” are more practical for transportation and refrigeration. Importantly, they bring farmers bigger profits per acre, heralding a shift from the watermelon as communally consumed to a commodified fruit.[^ref19] Yet watermelons continue to vary significantly in shape and size. Novelty square and heart-shaped watermelons were introduced in the 1980s in Japan for easy refrigeration storage and sold at higher prices. They are used, however, almost exclusively for decorative purposes, as they are always underripe due to the constrictive molds in which they are grown.[^ref20]
-<param ve-image
-	title="Varieties of watermelons."
-	url="https://upload.wikimedia.org/wikipedia/commons/4/48/Yangzhou_-_supermarket_-_watermelons_-_P1070029.JPG"
-	region="367,109,1868,1382"
+	title="Square watermelon from Japan."
+	url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Square_watermelon.jpg"
+	fit="contain"
 	attribution="Wikimedia Commons">
 <param ve-plant-specimen
 	eid="Q17507129"
@@ -250,23 +249,18 @@ The intensified commodification of the watermelon during the twentieth and espec
 
 Another major transformation is the success of seedless cultivars. The commercial production of seedless watermelons began in the 1990s using colchicine—a chemical derived from the seeds of crocuses—to produce a sterile seedless hybrid, crossbred to have three sets of chromosomes instead of two.[^ref21] While such cultivars now dominate the market, their hybridized sterility presents new ecological challenges. Watermelon plants are bee-pollinated, and since the insects that forage in seedless watermelon plantings carry a mixture of viable and non-viable pollen, more bees are required for effective pollination. Without that, watermelons may grow with a [“hollow heart”](https://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings)—cracks and spaces within the fruit—and cannot be sold. Watermelon farmers in the United States have turned to renting bees to meet such pollination needs, especially following the decline of the wild bee population from mass colony collapse disorder in recent years. Yet there is increasing evidence that the transportation of bees for such purposes puts significant stress on their colonies due to changes in temperature and humidity,[^ref22] the market demand for convenience thus coming at a considerable ecological cost.[^ref23]
 <param ve-image
-	title="Hollow-hearted watermelon."
-	url="https://i.imgur.com/meq0u1f.jpg?1"
-	fit="contain"
-	attribution="Vox">
-<param ve-image
-	title="Watermelon then and now."
-	url="https://cdn.vox-cdn.com/uploads/chorus_asset/file/3910892/watermelonthenandnow.jpg"
-	fit="contain"
-	attribution="Vox, Christie’s and Shutterstock">
+	title="Varieties of watermelons."
+	url="https://upload.wikimedia.org/wikipedia/commons/4/48/Yangzhou_-_supermarket_-_watermelons_-_P1070029.JPG"
+	region="367,109,1868,1382"
+	attribution="Wikimedia Commons">
 {#paragraph16}
 
 Today, market forces are among the chief factors that, alongside taste and tradition, continue to determine the watermelon’s transformation since its origin as a small bitter crop. The sweet red flesh that we enjoy bears witness to a range of cultural and historical meanings accumulated throughout the fruit’s rich history.
 <param ve-image
-	title="Square watermelon from Japan."
-	url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Square_watermelon.jpg"
+	title=""
+	manifest="https://iiif.lib.harvard.edu/manifests/ids:1486001"
 	fit="contain"
-	attribution="Wikimedia Commons">
+	attribution="">
 {#paragraph17}
 
 ### References
