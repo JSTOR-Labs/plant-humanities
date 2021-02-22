@@ -284,9 +284,9 @@ Today, Sri Lanka again ranks high among [the world’s largest exporters of cinn
 
 [^ref24]: Francisco Mallari, S.J., “The Mindanao Cinnamon,” _Philippine Quarterly of Culture and Society_ 2, no. 4 (1974): 190–4, [https://www.jstor.org/stable/29791158;](https://www.jstor.org/stable/29791158) and Russell K. Skowronek, “Cinnamon, Ceramics, and Silks: Tracking the Manila Galleon Trade in the Creation of the World Economy,” in Chunming Wu, ed., _Early Navigation in the Asia-Pacific Region: A Maritime Archaeological Perspective_ (Singapore: Springer Science+Business Media, 2016), 59–74, [DOI:10.1007/978-981-10-0904-4_3](https://doi.org/10.1007/978-981-10-0904-4_3)
 
-[^ref25]: Bleichmar, _Visible Empire_, 123–6.
+[^ref25]: Daniela Bleichmar, _Visible Empire_, 123–6.
 
-[^ref26]: Bleichmar, 26, 31.
+[^ref26]: Daniela Bleichmar, _Visible Empire_, 26, 31.
 
 [^ref27]: Thomas J. Zumbroich, “The Introduction of Nutmeg (_Myristica fragrans_ Houtt.) and Cinnamon (_Cinnamomum verum_ J.Presl) to America,” _Acta Botánica Venezuélica_ 28, no. 1 (2005): 155–60, [https://www.jstor.org/stable/41740951](https://www.jstor.org/stable/41740951)
 
