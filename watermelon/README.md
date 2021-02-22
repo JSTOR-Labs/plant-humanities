@@ -238,6 +238,7 @@ At the turn of the twentieth century, for instance, British mine owners in Korea
 ### Commodification and Ecological Costs
 
 The intensified commodification of the watermelon during the twentieth and especially early twenty-first centuries transformed the fruit’s appearance. In many countries around the world watermelons have grown smaller, rounder, and more uniform in size in order to stack better for transit and sale. These so-called “personal melons” are more practical for transportation and refrigeration. Importantly, they bring farmers bigger profits per acre, heralding a shift from the watermelon as communally consumed to a commodified fruit.[^ref19] Yet watermelons continue to vary significantly in shape and size. Novelty square and heart-shaped watermelons were introduced in the 1980s in Japan for easy refrigeration storage and sold at higher prices. They are used, however, almost exclusively for decorative purposes, as they are always underripe due to the constrictive molds in which they are grown.[^ref20]
+<param ve-image
 	title="Square watermelon from Japan."
 	url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Square_watermelon.jpg"
 	fit="contain"
