@@ -37,7 +37,7 @@ The visual essays below feature interactive maps, high-resolution images, and vi
 ##
 [**Chaos out of Order: Bananas and the Limits of Linnaean Taxonomy**](/Banana)
 
-- author: Ashley Buchanan, PhD
+- author: Ashley Buchanan
 
 ![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/banana.png)
 
