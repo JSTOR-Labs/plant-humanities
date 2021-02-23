@@ -233,11 +233,11 @@ Although the _Pelargonium_ by any other name would smell as sweet, excepting tho
 
 [^ref22]: Shirley Hibberd, _The Amateur’s Flower Garden: A Handy Guide to the Formation and Management of the Flower Garden and the Cultivation of Garden Flowers_ (London: Groombridge & Sons, 1875), accessed January 20, 2021, [https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up](https://www.biodiversitylibrary.org/item/244730#page/31/mode/1up)
 
-[^ref23]: Donald McDonald, _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_ (New York: Charles Scribner’s Sons, 1895), accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/43140016](https://www.biodiversitylibrary.org/page/43140016)
+[^ref23]: Donald McDonald, _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_ (New York: Charles Scribner’s Sons, 1895), 93, accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/43140016](https://www.biodiversitylibrary.org/page/43140016)
 
 [^ref24]: Caroline M. Kirkland, _The Book of Flowers_ (London: Saunders and Otley, 18--), accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/56679001](https://www.biodiversitylibrary.org/page/56679001)
 
-[^ref25]: Caroline Kirkland, The Book of Flowers, 73.
+[^ref25]: Caroline Kirkland, _The Book of Flowers_, 73.
 
 [^ref26]: Gertrude Jekyll, _Colour Schemes for the Flower Garden_, 4th ed. (London: Country Life, 1919), accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/41413514](https://www.biodiversitylibrary.org/page/41413514)
 
