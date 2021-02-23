@@ -93,7 +93,7 @@ In the wake of that initial nomenclature confusion, seventeenth-century botanist
 
 ### Technology, Breeding, and the Modern Pelargonium
 
-<param ve-entity eid="Q165044" title="greenhouse">
+<param ve-entity eid="Q165044" title="greenhouse" aliases="greenhouses">
 The genus _Pelargonium_ is amazingly varied, including both annual and perennial plants that naturally occur in temperate and tropical climates. For that reason, the first specimens to reach Holland were cultivated in heated greenhouses to protect them from the region’s cold and frost.[^ref13] By the early 1800s, new technologies—both for fabricating iron and plate glass and for constructing buildings with these materials—fueled a fad among the social elite of Europe and America for purchasing conservatories in order to grow exotic plants.[^ref14] These innovations combined with new knowledge about hand-pollination techniques made pelargoniums, which are easily hybridized that way, an ideal choice for such cultivation by plant collectors and amateur breeders.[^ref15]
 <param ve-image primary region="-152,788,3054,2401" url="Pelargonium_QueenAdelaide_Europeana.jpg" title="Samuel William Reynolds, _Queen Adelaide (Princess Adelaide of Saxe-Meiningen)_, pub. 1831 by Martin Colnaghi, after Sir William Beechey, mezzotint, 644 x 435 mm (plate), National Library of Spain, Europeana, CC BY-NC-SA ">
 <param ve-image fit="contain" manifest="https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=66250" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
