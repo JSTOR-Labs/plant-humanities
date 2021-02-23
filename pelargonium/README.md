@@ -14,6 +14,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 <param ve-image region="-81,1,813,667" primary url="Charles-Dickens-with-his-daughters-Mamie-Dickens-and-Catherine-Katey-Elizabeth-Macready-Perugini-ne-Dickens.jpg" title="Potted “geraniums” displayed beneath bay windows._Charles Dickens with his daughters, Mamie Dickens and Catherine ('Katey') Elizabeth Macready Perugini (née Dickens)_, after Joseph Athanase Aufray, after a photograph by Mason & Co (Robert Hindry Mason), photogravure, published 18 December 1869, National Portrait Gallery, London, CC BY-NC-ND 3.0">
 <param ve-image region="358,0,1503,1356" url="Pelargonium_CharlesDickensWindow_FLICKR.jpg"title="In remembrance of the author and his adoration for the pelargonium, the Dickens Fellowship lays an ivy-and-red-flower wreath at his grave every year on the anniversary of his death. Window with portrait of Dickens encircled by a wreath, Charles Dickens Birthplace Museum, Portsmouth, England, Fred Rockwood, 2010, Flickr, CC BY-NC-SA 2.0">
 <param ve-image region="-208,1978,4160,3448" url="Pelargonium_CharlesDickensMuseum_FLICKR.jpg" title="Flower bed of red pelargoniums, Charles Dickens Birthplace Museum, Portsmouth, England, Mark Hooper, 2017, Flickr, CC BY-NC-SA 2.0">
+<param ve-image url="https://images.metmuseum.org/CRDImages/ep/original/DP232138.jpg">
 {#paragraph1}
 
 <param ve-entity eid="Q146118" title="pelargonium" aliases="Pelargonium"> 
