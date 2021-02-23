@@ -178,8 +178,8 @@ The Grasse-based [Chiris perfumerie,](https://monumentum.fr/anciennes-parfumerie
 <param ve-entity eid="Q79" title="Egypt">
 <param ve-entity eid="Q29520" title="China">
 Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[^ref34] Significantly, the confusion surrounding pelargonium nomenclature in European contexts also exists in China. More than 50 percent of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You_ (Pelargonium Oil) in Chinese. It is said that the name _Tianzhu Kui_ was introduced by Junyu Zhang in 1933 based on his studies in Japan. The word _Tianzhu Kui_ is from ゼラニウム, which is pronounced as _Geranium_ in English.
-<param ve-map prefer-geojson center="18.240663, 40.244245" zoom="2.9" marker-type="none">
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/djareid/Dumbarton-PH/master/industrial-oil.json" title="global geranium oil industries" active>
+<param ve-map prefer-geojson center="18.240663, 40.244245" zoom="2.9">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/djareid/Dumbarton-PH/master/industrial-oil.json" title="Global geranium oil industries." active>
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Tianzhu_Kui.png" title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_ (_Pelargonium_) in Chinese. Jin, Jiancheng, and Xun Zhang. _Chinese Gongbi Line Drawing of Hundred Flowers (Autumn and Winter)_. Tianjin Yangliuqing Fine Arts Press. 2005.">
 {#paragraph20}
 
