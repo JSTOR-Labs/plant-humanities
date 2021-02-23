@@ -240,7 +240,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, excepting tho
 
 [^ref25]: Caroline Kirkland, _The Book of Flowers_, 73.
 
-[^ref26]: Gertrude Jekyll, _Colour Schemes for the Flower Garden_, 4th ed. (London: Country Life, 1919), accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/41413514](https://www.biodiversitylibrary.org/page/41413514)
+[^ref26]: Gertrude Jekyll, _Colour Schemes for the Flower Garden_, 4th ed. (London: Country Life, 1919), 81, accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/41413514](https://www.biodiversitylibrary.org/page/41413514)
 
 [^ref27]: Colta Ives, _Public Parks, Private Gardens: From Paris to Provence_ (New York: Metropolitan Museum of Art, 2018).
 
