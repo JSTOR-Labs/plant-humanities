@@ -184,7 +184,7 @@ Today, pelargonium oil continues to be industrially produced in factories across
 ### Hiding in Plain Sight
 
 Although the _Pelargonium_ by any other name would smell as sweet, excepting those that are scentless or pungent, our recognition of its unique identity is long overdue. Indeed, the _Pelargonium_’s almost-forgotten global history is extremely rich blossoming as it does at the intersections of colonial trade, botany, agriculture, gardening, art, culture, and industry. Telling the story of the _Pelargonium_ as an entity separate from the _Geranium_, illuminates just some of the many ways in which it has been interwoven with human histories–hiding in plain sight, as it were, by virtue of its long-persisting misnomer.
-<param ve-image primary fit="contain" url="Pelargoniums_RP-F-2013-85-14.jpg" title="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, glass, 90 x 120 mm, Rijksmuseum, public domain">
+<param ve-image primary region="4,1560,3632,2903" url="Pelargoniums_RP-F-2013-85-14.jpg" title="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, glass, 90 x 120 mm, Rijksmuseum, public domain">
 <param ve-image fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.highres" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), 1907-1920, photograph, Source gallica.bnf.fr / BnF">
 <param ve-image title="_A View in Our Stock House_, R. Vincent, Jr. & Sons Co., Henry G. Gilbert Nursery and Seed Trade Catalog Collection, _Descriptive Illustrated Geranium Catalogue: For Nineteen Hundred and Ten_, 1910, U.S. Department of Agriculture, National Agricultural Library, Biodiversity Heritage Library" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270">
 {#paragraph21}
