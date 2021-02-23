@@ -1,5 +1,5 @@
 <template>
-  <div id="footer">
+  <div id="footer" :style="`max-width:${maxWidth}px; overflow:hidden;`">
     a collaboration between <img src="https://jstor-labs.github.io/plant-humanities/images/do-logo.svg" style="height:100px;"> &nbsp;&nbsp;
     <img src="https://jstor-labs.github.io/plant-humanities/images/labs.jpg" height="20px">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -13,7 +13,9 @@
     name: 'Footer',
     props: {},
     data: () => ({}),
-    computed: {},
+    computed: {
+      maxWidth() { return window.innerWidth }
+    },
     mounted() {},
     methods: {},
     watch: {}
