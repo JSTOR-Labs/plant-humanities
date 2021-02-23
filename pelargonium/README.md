@@ -87,7 +87,7 @@ The nomenclature confusion surrounding pelargonium started when _Pelargonium tri
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pelargonium_triste_4.jpg/852px-Pelargonium_triste_4.jpg" title="_Pelargonium triste_ has not been widely hybridized and cultural interest in the plant is limited mainly to those who appreciate its historical importance. _Pelargonium triste_ at the University of California Botanical Garden, Berkeley, California, Stan Shebs, April 2007, Wikimedia Commons, CC BY-SA 3.0">
 {#paragraph8}
 
-In the wake of that initial nomenclature confusion, seventeenth-century botanists struggled to recognize the differences among the genera _Pelargonium_, _Geranium_, and _Erodium_. The interactive timeline gives an overview of the nomenclature history of the genus Pelargonium, providing insights into why there is still confusion surrounding the name and taxonomic designation of pelargoniums today.[^ref12]
+In the wake of that initial nomenclature confusion, seventeenth-century botanists struggled to recognize the differences among the genera _Pelargonium_, _Geranium_, and _Erodium_. The interactive timeline gives an overview of the nomenclature history of the genus _Pelargonium_, providing insights into why there is still confusion surrounding the name and taxonomic designation of pelargoniums today.[^ref12]
 <param ve-knightlab-timeline source="11nYkAFDtVbdE5tjZDSfYpv_8BXnmmjHc6uQRkwDHA3U&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="680">
 {#paragraph9}
 
