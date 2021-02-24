@@ -69,7 +69,8 @@ The quest for spices, cinnamon among them, was one important aim that inspired E
 <param title="Syzygium aromaticum" eid="Q26736" aliases="cloves">
 <param title="nutmeg" eid="Q83165">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/dff82796640feb4cedcf3feb3da54601bbf3c4a4ced6cb29d53a85210237871e">
+	manifest="https://iiif-v2.visual-essays.app/manifest/dff82796640feb4cedcf3feb3da54601bbf3c4a4ced6cb29d53a85210237871e"
+	fit="contain">
 {#paragraph6}
 
 Once true cinnamon had begun to be understood as cinnamon from Sri Lanka (historically referred to as Ceylon), European states strove to gain a foothold on the island and access the cinnamon trade. From the sixteenth century onward, local rulers bargained with the Portuguese, and later the Dutch, for a share in this trade, in exchange for political and military assistance against their rivals. The Portuguese made tentative attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics. Therefore, they engaged in “reluctant imperialism” to gain access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
