@@ -7,7 +7,6 @@
        layout="vtl">
 
 ### What’s in a Name?
-<param ve-map marker-type="pin" marker-color="#900C3F" marker-symbol="fas fa-flower" marker-symbol-color="#FFF">
 
 <param ve-entity eid="Q5686" title="Charles Dickens">
 <param ve-entity eid="Q3850458" title="Mary Dickens" aliases="Mamie Dickens">
