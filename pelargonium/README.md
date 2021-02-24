@@ -56,6 +56,7 @@ Other morphological traits distinguish members of the genera pelargonium from ge
 {#paragraph5}
 
 ### Introduction to Europe and Nomenclature Confusion
+<param ve-map marker-type="pin" marker-color="#ff0000">
 
 <param ve-entity eid="Q258" title="South Africa">
 <param ve-entity eid="Q34497" title="Saint Helena" aliases="St. Helena">
@@ -65,7 +66,6 @@ Other morphological traits distinguish members of the genera pelargonium from ge
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
 The [_pelargonium_,](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30302759-2) which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. The great majority of these species are endemic to the Cape regions of present-day South Africa—a biodiversity hotspot. Given their concentration there, it is not surprising that Dutch traders, who first introduced pelargoniums to Europe in the early seventeenth century, harvested them from the Cape.[^ref6]
 <param ve-map center="-1.8178950538873857, 72.47203596246695" zoom="2.5">
-<param ve-map marker-type="pin" stroke-width="0" fill-opacity="1" marker-color="#ff0000">
 <param ve-map-layer geojson url="map.pelargonium.geojson" title="Pelargonium native range (red)" active>
 <param ve-map-layer geojson url="map.pelargonium.netherlands.geojson" title="Netherlands (green)" active>
 {#paragraph6}
@@ -76,7 +76,6 @@ The [_pelargonium_,](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.o
 <param ve-entity eid="Q3898876" title="Pelargonium cucullatum" aliases="P. cucullatum">
 Of the many _Pelargonium_ species native to Southern Africa, _Pelargonium triste_ was probably the first to reach Europe, in the early 1600s.[^ref7] In 1672, several more species were collected—mostly from Table Mountain, on the Cape Peninsula—and shipped back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India company.[^ref8] Hermann is credited with introducing _P. cucullatum_ to the garden, and his 1689 book [_Paradisi Batavi Prodromus_](https://bibdigital.rjb.csic.es/idurl/1/13582) lists pelargonium as “African geranium.”[^ref9] Yet, it is important to note that some mystery still surrounds the identities of these plants because there was not yet a standardized method for naming them.
 <param ve-map center="-27.463216719911, 23.43344878447288" zoom="5" show-label="true">
-<param ve-map marker-type="pin" stroke-width="0" fill-opacity="1" marker-color="#ff0000">
 <param ve-map-layer geojson url="map.pelargonium.geojson" title="Pelargonium native range (red)" active>
 <param ve-map-layer geojson url="map.pelargonium.netherlands.geojson" title="Netherlands (green)" active>
 {#paragraph7}
