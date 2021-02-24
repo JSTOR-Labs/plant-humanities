@@ -121,21 +121,18 @@ It was against this backdrop that pelargoniums became a centerpiece of many muni
 <param ve-image fit="contain" url="https://ia801904.us.archive.org/BookReader/BookReaderImages.php?id=gardensEngland00Broo&itemPath=%2F12%2Fitems%2FgardensEngland00Broo&server=ia801904.us.archive.org&page=n106_w1034" title="_The Parterre, Harewood Wood, Nr. Leeds_, chromolithograph from Edward Adveno Brooke, _The Gardens of England_, London: T. McLean, [1858?], Smithsonian Libraries, Biodiversity Heritage Library." rotate="90">
 {#paragraph12}
 
-Gardeners favored hardy zonal pelargoniums because they show off their blooms for extended periods, flowering even in slightly chilly climates.[^ref20] More significantly, nursery owners adored the pelargonium because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round.
+<param ve-entity eid="Q219217" title="tulip mania" aliases="tulipomania">
+Gardeners favored hardy zonal pelargoniums because they show off their blooms for extended periods, flowering even in slightly chilly climates.[^ref20] More significantly, nursery owners adored the pelargonium because it was easy to grow and hybridize, producing cultivars in a seemingly infinite variety year-round. By the late nineteenth century, vendors were falling over one another to market the newest, most magnificent plants that, in addition to those for bedding, included varieties of <span data-click-image-zoomto="2482,2976,1359,1053">regals with pretty-petal markings</span> and the ivy- and scented-leaf types, known for their pleasing foliage. Additional factors contributing to the pelargonium mania were the arrival of mass-produced pots and planters for displaying ornamental flowers and dazzling greenery. Desire to obtain novel cultivars became so frenzied that some compared it to the now infamous <span data-click-image-zoomto="773,1278,2718,2106">tulip-buying spree</span>, known as tulipomania, that occurred in Holland in the 1630s.[^ref21]
+<param ve-image primary region="-375,1023,5436,4244" manifest="https://iiif.lib.harvard.edu/manifests/drs:435776315" seq="21">
 <param ve-image region="-12,-125,1526,1257" title="E. Buckman, engraved by W. B. Gardener, _The Flower-Market. Covent-Garden._, 1873, paper and ink, published in _Extra Supplement to the Illustrated London News_, April 26, 1873." url="https://dyvdnmp0itmzz.cloudfront.net/wp-content/uploads/2019/11/17200527/gm0_2002-031-1500x1005.jpg" region="-7,405,848,680" attribution="Garden Musuem Collection">
 {#paragraph13}
-
-<param ve-entity eid="Q219217" title="tulip mania" aliases="tulipomania">
-By the late nineteenth century, vendors were falling over one another to market the newest, most magnificent plants that, in addition to those for bedding, included varieties of <span data-click-image-zoomto="2482,2976,1359,1053">regals with pretty-petal markings</span> and the ivy- and scented-leaf types, known for their pleasing foliage. Additional factors contributing to the pelargonium mania were the arrival of mass-produced pots and planters for displaying ornamental flowers and dazzling greenery. Desire to obtain novel cultivars became so frenzied that some compared it to the now infamous <span data-click-image-zoomto="773,1278,2718,2106">tulip-buying spree</span>, known as tulipomania, that occurred in Holland in the 1630s.[^ref21]
-<param ve-image primary region="-375,1023,5436,4244" manifest="https://iiif.lib.harvard.edu/manifests/drs:435776315" seq="21">
-{#paragraph14}
 
 <param ve-entity eid="Q7498765" title="Shirley Hibberd">
 <param ve-entity eid="Q2269" title="Industrial Revolution">
 The pelargonium, in all its many splendid aesthetic and aromatic varieties, was clearly firmly a staple of British domestic interiors, gardens, and patios. In his hugely popular book [_The Amateur's Flower Garden_,](https://www.biodiversitylibrary.org/item/244730#page/9/mode/1up) Shirley Hibberd included designs for creating a harmonious pelargonium garden—“geranium garden”—based on the plant’s striking color variations.[^ref22] In the layout of a panel garden, Hibberd suggests two potential summer schemes: a red-harmony garden and a blue-harmony garden. By 1895, writers such as Donald McDonald were celebrating the scented-leaf variety of the plant and its foreign provenance; McDonald wrote that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums,” a testament to the long-standing appeal of _Pelargoniums_ in British Victorian culture.[^ref23]
 <param ve-image primary region="-352,331,3523,2730" url="https://www.biodiversitylibrary.org/pageimage/55342041" title="Garden plan, including bedding pelargoniums. Shirley Hibberd, _The Amateur’s Flower Garden_, London, Groombridge and Sons, 1875, Smithsonian Libraries, Biodiversity Heritage Library.">
 <param ve-image region="-105,588,1622,1257" url="Pelargonium_amateurs_flower_garden_19-standard-scale-2_00x-gigapixel.jpg" title="Description of scarlet and rose pink pelargoniums. Shirley Hibberd, _The Amateur’s Flower Garden_, London, Groombridge and Sons, 1875, Smithsonian Libraries, Biodiversity Heritage Library.">
-{#paragraph15}
+{#paragraph14}
 
 ### The “Genteel” Geranium and Working-class Culture
 
@@ -144,12 +141,12 @@ The pelargonium, in all its many splendid aesthetic and aromatic varieties, was 
 The ubiquity of the _Pelargonium_ in the Victorian era soon began to carry a cultural significance all its own—and it was not always a positive one. In the 1864 [_The Book of Flowers_,](https://www.biodiversitylibrary.org/page/56679001) Caroline M. Kirkland follows the poet Leigh Hunt in describing the geranium (of course, really a pelargonium) as a genteel plant.[^ref24] She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel.”[^ref25] Although we may construe her comment as merely an attestation to the pelargonium’s universal charms, her use of “genteel” takes on additional meaning when we consider the significance of the pelargonium in the context of working-class culture.
 <param ve-image primary region="-207,530,2077,1666" url="https://ia802903.us.archive.org/BookReader/BookReaderImages.php?id=bookofflowers00kirk&itemPath=%2F7%2Fitems%2Fbookofflowers00kirk&server=ia802903.us.archive.org&page=n89_w1012" title="Illustration of a pelargonium, Caroline M. Kirkland, _The Book of Flowers_, London: Saunders and Otley, 18--, University of Toronto, Biodiversity Heritage Library.">
 <param ve-image primary region="-104,407,1040,835" url="bookofflowers00kirk_0091-standard-scale-2_00x-gigapixel.jpg" title="“Geranium,” Caroline M. Kirkland, _The Book of Flowers_, London: Saunders and Otley, 18--, University of Toronto, Biodiversity Heritage Library.">
-{#paragraph16}
+{#paragraph15}
 
 <param ve-entity eid="Q452354" title="Gertrude Jekyll">
 For many Victorian families who could not afford to have gardens, growing pelargoniums in pots and displaying them on windowsills or balconies became an expression not only of their aesthetic tastes, but also of their social aspirations. Perhaps because of such class-based bias, professional horticulturalists would often look down on the pelargonium with a certain derision. Gertrude Jekyll writes in 1919 that, “It is a common thing for friends to express surprise at seeing scarlet Geraniums ... in my garden, forgetting that it was not the fault of the plants that they were misused or employed in dull or even stupid ways.”[^ref26] Her comments imply that it was not the plants themselves that were offensive to garden specialists but, rather, the style and context in which they featured.
 <param ve-image primary region="-117,366,1174,942" url="https://ia802704.us.archive.org/BookReader/BookReaderImages.php?zip=/2/items/jennysgeraniumor00bostiala/jennysgeraniumor00bostiala_jp2.zip&file=jennysgeraniumor00bostiala_jp2/jennysgeraniumor00bostiala_0008.jp2&id=jennysgeraniumor00bostiala&scale=2&rotate=0" title="This moralizing novel recounts how Jenny overcomes economic disadvantages and familial hardships while caring for her precious pelargonium; its growth exemplifies the virtue of being nurturing. Frontispiece, _Jenny’s Geranium, or, The Prize Flower of a London Court_, S.W. Partridge & Co, c. 1869. Children’s Book Collection. Library Special Collections, Charles E. Young Research Library, UCLA.">
-{#paragraph17}
+{#paragraph16}
 
 ### Pelargoniums, Imperial Splendor, and Colonial Profit
 
@@ -161,7 +158,7 @@ For many Victorian families who could not afford to have gardens, growing pelarg
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](http://id.lib.harvard.edu/aleph/001173612/catalog) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image primary region="1280,2231,4912,4300" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="45" title="P. Lambotte, designer, L. Stroobant, printer, _Pelargonium Zonale Inquinans_ ['Gloire de Corbeny,' 'Mistress Pollock,' 'Henri Lierval,'] Adolphe Alphand, _Les Promenades de Paris_, Paris, J. Rothschild, 1867-1873, Frances Loeb Library, Harvard University Graduate School of Design">
 <param ve-image region="2372,1532,5160,4028" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25" title="Émile Hochereau, _Le Bois de Boulogne, Fleuriste de la Muette_, Adolphe Alphand, _Les Promenades de Paris_, Paris, J. Rothschild, 1867-1873, Frances Loeb Library, Harvard University Graduate School of Design">
-{#paragraph18}
+{#paragraph17}
 
 <param ve-entity eid="Q262" title="Algeria">
 <param ve-entity eid="Q173705" title="Grasse">
@@ -169,7 +166,7 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-entity eid="Q164306" title="Pelargonium graveolens">
 Around 1850, the French perfume industries of Grasse, a leading center of perfume production, introduced the pelargonium to present-day Algeria in order to cultivate and produce aromatic oil from it.[^ref30] Under French rule since 1830, Algeria was considered an ideal place for growing this economic crop due to its warm arid and semi-arid climate and the low cost of colonial labor needed to cultivate, harvest, and prepare the plants for distillation. Perfumers selected pelargoniums because certain kinds, namely _Pelargonium graveolens_, have a sweet aroma similar to roses, making them a cost-effective alternative to the real thing. Pelargonium oils are extracted by [distillation](https://storiiies.cogapp.com/viewer/1e1gx/Distillation-process?_ga=2.191538920.352386283.1596674591-989112353.1594909187) and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits, and seeds of the plant. It should be noted that not all pelargoniums have scent, and some scented-leaf varieties give off unpleasant, pungent odors akin to fish or he-goat and the substances that evaporate and condense again are taken from the leaves, stems, roots, flowers, fruits, and seeds of the plant. It should be noted that not all pelargoniums smell, and some scented-leave varieties give off unpleasant, pungent odors akin to fish or he-goat.[^ref31]
 <param ve-image primary fit="contain" url="Pelargonium_Chirismap_DavidRumsey.jpg" title="According to scholar Mathilde Cocoual, the Chiris firm expanded in the mid-nineteenth century, with colonial farms located in Algeria, China, Laos, northern Vietnam (Tonkin), Madagascar, Comoros island, and Congo, Gabriel Mazuyer, Georges Lecomte, Lucien Boucher, _Les etu A. Chiris s'installent dans le Monde entier_, 1931, published by Antoine Chiris, Paris, from David Rumsey Historical Map Collection">
-{#paragraph19}
+{#paragraph18}
 
 <param ve-entity eid="Q2344308" title="Boufarik">
 <param ve-entity eid="Q45669" title="Eucalyptus" aliases="eucalyptus">
@@ -177,7 +174,7 @@ The Grasse-based [Chiris perfumerie,](https://monumentum.fr/anciennes-parfumerie
 <param ve-image title="Anonymous, photographs of pelargonium fields and floricultural industry, Algeria" attribution="Source gallica.bnf.fr / BnF" url="Chiris Factory.png">
 <param ve-storiiies id="091ed" title="Anonymous, photographs of pelargonium fields and floricultural industry, Algeria, Source gallica.bnf.fr / BnF">
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000417315">
-{#paragraph20}
+{#paragraph19}
 
 <param ve-entity eid="Q79" title="Egypt">
 <param ve-entity eid="Q148" title="People's Republic of China" aliases="China">
@@ -185,7 +182,7 @@ Today, pelargonium oil continues to be industrially produced in factories across
 <param ve-map prefer-geojson center="9.4848, 77.1048" zoom="2.4">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/djareid/Dumbarton-PH/master/industrial-oil.json" title="Global geranium oil industries." active>
 <param ve-image fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Tianzhu_Kui.png" title="Chinese _Gongbi_ Line Drawing of a geranium, which is named _Tianzhu Kui_ (_Pelargonium_) in Chinese. Jin, Jiancheng, and Xun Zhang. _Chinese Gongbi Line Drawing of Hundred Flowers (Autumn and Winter)_. Tianjin Yangliuqing Fine Arts Press. 2005.">
-{#paragraph21}
+{#paragraph20}
 
 ### Hiding in Plain Sight
 
@@ -193,7 +190,7 @@ Although the _Pelargonium_ by any other name would smell as sweet, excepting tho
 <param ve-image primary region="4,1560,3632,2903" url="Pelargoniums_RP-F-2013-85-14.jpg" title="Johannes Hendrikus Antonius Maria Lutz, Portrait, 1907-16, glass, 90 x 120 mm, Rijksmuseum, public domain">
 <param ve-image fit="contain" url="https://gallica.bnf.fr/ark:/12148/btv1b6904421n/f2.highres" title="Eugène Blondelet, _Plant de géranium rouge_ (Red Geranium Plant), 1907-1920, photograph, Source gallica.bnf.fr / BnF">
 <param ve-image title="_A View in Our Stock House_, R. Vincent, Jr. & Sons Co., Henry G. Gilbert Nursery and Seed Trade Catalog Collection, _Descriptive Illustrated Geranium Catalogue: For Nineteen Hundred and Ten_, 1910, U.S. Department of Agriculture, National Agricultural Library, Biodiversity Heritage Library" url="https://www.biodiversitylibrary.org/pageimage/47651101" fit="cover" rotate="270">
-{#paragraph22}
+{#paragraph21}
 
 ### References
 [^ref1]: Jenny Hartley, “Dickens and the Geranium,” _The Dickensian_ 114, no. 504 (Spring 2018): 5–14, accessed January 20, 2021, [http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/dickens-geranium/docview/2056426823/se-2?accountid=11311](http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/dickens-geranium/docview/2056426823/se-2?accountid=11311)
