@@ -171,8 +171,7 @@ Around 1850, the French perfume industries of Grasse, a leading center of perfum
 <param ve-entity eid="Q2344308" title="Boufarik">
 <param ve-entity eid="Q45669" title="Eucalyptus" aliases="eucalyptus">
 The Grasse-based [Chiris perfumerie,](https://monumentum.fr/anciennes-parfumeries-chiris-pa00080934.html) founded by Antoine Chiris in 1768, provides a case study on the production of pelargonium oils.[^ref32] The artisanal factory specialized in manufacturing soaps, ointments, scented waters, and perfumes from aromatic plants. In the nineteenth century, Chiris expanded into a global, industrial company with many farms in colonized territories. For example, it used colonial labor to grow “Rose geranium” or _Pelargonium graveolens_ in Boufarik, Algeria. In 1865, the company built a cutting-edge 3,000 square meter factory in Boufarik’s Saint-Marguerite domain, growing pelargoniums along with orange and eucalyptus trees.[^ref33] The group of photographs, shows the Chiris complex and its workers engaging in cultivating, harvesting, and preparing pelargoniums for making rose-scented oils and other products.
-<param ve-image title="Anonymous, photographs of pelargonium fields and floricultural industry, Algeria" attribution="Source gallica.bnf.fr / BnF" url="Chiris Factory.png">Gongbi line drawing is a realistic and meticulous genre
-<param ve-storiiies id="091ed" title="Anonymous, photographs of pelargonium fields and floricultural industry, Algeria, Source gallica.bnf.fr / BnF">
+<param ve-image title="Anonymous, photographs of pelargonium fields and floricultural industry, Algeria" attribution="Source gallica.bnf.fr / BnF" url="Chiris Factory.png">
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000417315">
 {#paragraph19}
 
