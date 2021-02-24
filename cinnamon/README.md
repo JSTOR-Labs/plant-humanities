@@ -33,11 +33,9 @@ How could this confusion last so long? One possible explanation for the shift fr
 <param title="Garcia de Orta" eid="Q1493994">
 <param title="Old Goa" eid="Q553907" aliases="Goa">
 <param ve-image
-	title="Cinnamon leaf and bark, in Garcia de Orta, _Aromatum, et Simplicium aliquot Medicamentorum apud Indos nascentium Historia_ (Antverpiae: Ex officina Christophori Plantini, 1567), 72. The images were not in Orta’s original Portuguese publication of 1563, but were added by the editor, Flemish botanist Carolus Clusius, for this Latin edition."
-	url="https://www.archive.org/download/mobot31753003488159/page/n71_w314">
+	manifest="https://iiif-v2.visual-essays.app/manifest/5b91b0c89202a30d464fa3de08883c79a895d3a62860c4341fa90181741fd454">
 <param ve-image
-	title="Cinnamon bark, in Carolus Clusius, _Exoticorum Libri Decem_ ([Leiden]: Ex Officinâ Plantinianâ Raphelengii, 1605), 171. Clusius adapted Orta’s work once more for this publication on exotic naturalia. Unhappy with the leaf image from his 1567 edition of Orta’s work, he left it out here, and only included the image of cinnamon bark."
-	url="https://www.archive.org/download/mobot31753000811387/page/n185_w1131"
+	manifest="https://iiif-v2.visual-essays.app/manifest/006f0108e4d54845126bdaf82924a6d54b4aa64283b22d4c6db3ef6ec3831cff"
 	region="246,1762,1391,985">
 {#paragraph3}
 
@@ -58,8 +56,7 @@ The attraction of cinnamon—true or other—as a means to enhance the power of 
 <param title="Trajan" eid="Q1425">
 <param title="Persian Gulf" eid="Q34675">
 <param ve-image
-	title="Reverse side of a silver Roman denarius dating from the period 103–111 CE (reign of emperor Trajan), that was found in East Riding of Yorkshire, Britain. The coin shows a female personification of Arabia holding a branch and a bundle of cinnamon sticks, and standing next to a camel. If cinnamon is indeed depicted, then this should be _Cassia abbreviata_ or _Cinnamomum cassia_. Numismatic information about this coin type can be found in the standard work Roman Imperial Coinage (published between 1923 and 1994), vol. 5, p. 253, no. 142."
-	url="https://upload.wikimedia.org/wikipedia/commons/7/77/Roman_Coin%2C_Denarius_of_Trajan_%28FindID_963033%29.jpg"
+	manifest="https://iiif-v2.visual-essays.app/manifest/e958cb22a0e9f1299003fa6a87372b31d1c14806854235f565363fe13bfb8797"
 	region="1414,152,1586,1031">
 {#paragraph5}
 
@@ -72,9 +69,7 @@ The quest for spices, cinnamon among them, was one important aim that inspired E
 <param title="Syzygium aromaticum" eid="Q26736" aliases="cloves">
 <param title="nutmeg" eid="Q83165">
 <param ve-image
-	title="Coat-of-arms of Juan Sebastián Elcano. At the bottom are two crossed cinnamon sticks, three nutmegs, and a number of cloves. The banner covering the globe reads in Latin “Primus circumdedisti me” (“You first encircled me”)."
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg/585px-Coat_of_Arms_of_Juan_Sebasti%C3%A1n_Elcano_A-71.svg.png"
-	fit="contain">
+	manifest="https://iiif-v2.visual-essays.app/manifest/dff82796640feb4cedcf3feb3da54601bbf3c4a4ced6cb29d53a85210237871e">
 {#paragraph6}
 
 Once true cinnamon had begun to be understood as cinnamon from Sri Lanka (historically referred to as Ceylon), European states strove to gain a foothold on the island and access the cinnamon trade. From the sixteenth century onward, local rulers bargained with the Portuguese, and later the Dutch, for a share in this trade, in exchange for political and military assistance against their rivals. The Portuguese made tentative attempts to create a monopoly after they first arrived on Sri Lanka in 1505. They soon realized that this was impossible without getting involved in local politics. Therefore, they engaged in “reluctant imperialism” to gain access to cinnamon: they needed a permanent presence on the island, and eventually signed an agreement with the king of Kotte in 1533 to buy large amounts of cinnamon.[^ref8]
@@ -122,9 +117,7 @@ Although their skills were indispensable for the cinnamon trade, peelers were tr
 	title="Imaginary landscapes with spices from the East Indies. Etching by Romeyn de Hooghe, produced between 1682 and 1733. Rijksmuseum, Amsterdam, object no. BI-1972-1043-16, serial no. 10/41."
 	url="https://upload.wikimedia.org/wikipedia/commons/f/f3/Kaneel%2C_nootmuskaat%2C_kruidnagel_en_bamboe_Kaneel_en_Nootmus_Canelle%2C_Muscade%2C_Chasse_des_Elephans%2C_etc_Kruytnagelengewas_Girofle%2C_Bambous%2C_Montagne_brulante%2C_etc_%28titel_op_object%29_Les_Indes_Orientales_et_Occidentales_e%2C_BI-1972-1043-16.jpg">
 <param ve-image
-	title="“How cinnamon is peeled on the island of Ceylon”. Anonymous copperplate print, from Philippus Baldaeus, _Naauwkeurige beschryvinge van Malabar en Choromandel, derzelver aangrenzende ryken en het machtige eyland Ceylon_ (Amsterdam: Johannes Janssonius van Waasberge, 1672), 195."
-	url="https://upload.wikimedia.org/wikipedia/commons/7/75/AMH-7014-KB_Peeling_cinnamon_on_Ceylon.jpg"
-	fit="contain">
+	manifest="https://iiif-v2.visual-essays.app/manifest/ee55e238fbcc4aa124d07bb79dd4484091a490550540b55737cb068779646523">
 {#paragraph9}
 
 The restrictions imposed by the Dutch on cinnamon exports made it the only real monopoly on Sri Lanka in the early modern period. Smuggling was severely punished. In 1704, Bengali traders were allowed to export small amounts of cinnamon, which would not affect the monopoly of the Dutch East India Company (VOC) too much. In the 1720s, export restrictions were loosened for several products, but not cinnamon.[^ref10] The tight grip of the Dutch over this trade was also felt internally. Sri Lankan farmers had long been accustomed to clearing plots of forest to create temporary cultivated fields called _chenas_. Under Dutch rule, they were no longer allowed to practice crop rotation on plots planted with cinnamon, so as not to diminish the total acreage. Around 1700, however, Pieter van Dam, long-term secretary to the VOC, calculated that Sri Lanka produced more than enough cinnamon to supply European and international markets. This assessment makes the suppression of _chena_ practices seem all the more exploitative.[^ref11]
@@ -147,11 +140,9 @@ In 1760, local grievances about the VOC policy concerning _chenas_, and the trea
 
 It was short-lived success, however. When the British took control over the Dutch territories on Sri Lanka in 1796, they failed to maintain the cinnamon plantation economy. Calls for free trade and better working conditions for the peelers, high export duties, and competition with cheaper _cassia_ cinnamon from Java finally led to reforms in 1833. But these measures came too late and were counterproductive: Britain sold many plantations to private owners, who switched to coffee and tea cultivation, thus ending the cinnamon production for years to come.[^ref13]
 <param ve-image
-	title="“Skinning the cinnamon sticks, Ceylon.” Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 109. In the early twentieth century, Ward observed that cinnamon from Sri Lanka still carried historical connotations of superiority, even though the trade had become marginal: “The demand for Ceylon cinnamon has indeed so lessened that commercial interests are urging the cultivation of Cassia in Ceylon in order to maintain the island’s position in the trade. In analytical circles the Ceylon variety is still conservatively described as ‘True cinnamon’ instead of by the commercial term ‘Ceylon cinnamon.’” (p. 111)."
-	url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Skinning_the_cinnamon_sticks%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg">
+	manifest="https://iiif-v2.visual-essays.app/manifest/a7e7bc67eb11be5b92f40d1e328dfa913ee6f9c067b3b74ddd1a81684178bb2d">
 <param ve-image
-	title="“Forming the cinnamon quills, Ceylon.” Image from Artemas Ward, _The Encyclopedia of Food_ (New York: self-published, 1923), 110. Ward still noted the difficulties in distinguishing between cinnamon types in the early twentieth century: “One specific trade difference [between _Cinnamomum verum_ and _Cinnamomum cassia_] is that Cassia quills are single, whereas in Ceylon the smaller quills are enclosed in the larger. In the ground spice it is frequently difficult to distinguish between good grades of the two barks.” (p. 110)."
-	url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Forming_the_cinnamon_quills%2C_Ceylon%2C_photo_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg">
+	manifest="https://iiif-v2.visual-essays.app/manifest/7185abacc6499fbee12b2119549f0aee2227e96e8e7eed70d70e70d26ccc84af">
 {#paragraph12}
 
 ### A Tool of Empire or a Tool of Science?
