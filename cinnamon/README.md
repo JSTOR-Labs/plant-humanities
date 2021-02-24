@@ -223,7 +223,8 @@ Today, Sri Lanka again ranks high among [the world’s largest exporters of cinn
 <param ve-image
 	title="Cinnamon production (all species and varieties) by the top 5 cinnamon-producing countries, 1961–2019."
 	url="cinnamon-production-chart.jpeg"
-	attribution="These data were compared on and downloaded from the website of the Food and Agriculture Organization of the United Nations (FAO), http://www.fao.org/faostat/en/#compare, accessed: 02/18/2021.">
+	attribution="These data were compared on and downloaded from the website of the Food and Agriculture Organization of the United Nations (FAO), http://www.fao.org/faostat/en/#compare, accessed: 02/18/2021."
+	region="0,88,1200,813">
 {#paragraph19}
 
 ### References
