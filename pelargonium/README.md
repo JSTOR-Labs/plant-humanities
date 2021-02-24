@@ -150,7 +150,6 @@ For many Victorian families who could not afford to have gardens, growing pelarg
 
 ### Pelargoniums, Imperial Splendor, and Colonial Profit
 
-<param ve-entity eid="Q142" title="France">
 <param ve-entity eid="Q7721" title="Napoleon III">
 <param ve-entity eid="# Q191798" title="Georges-Eugène Haussmann">
 <param ve-entity eid="Q390367" title="Adolphe Alphand">
