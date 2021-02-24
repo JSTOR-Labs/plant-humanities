@@ -70,7 +70,9 @@
 Boxwood is a genus of evergreen shrubs that enjoys great commercial success as ornamental garden plants. Among its varieties and cultivars, the most popular is arguably English or common boxwood (_Buxus sempervirens_ ‘Suffruticosa’), native to western and southern Europe, northwest Africa, and southwest Asia. In the United States—where this cultivated variety had been mass introduced on the wave of the early twentieth-century interest in European gardens—its sales, until recently, represented the greatest proportion (around 15%) among broadleaf evergreens, reaching an annual revenue of $126 million in 2014.[^ref2] A boxwood-flanked promenade, in the words of landscape architect Diane McGuire, was historically “the most common element found in almost every garden in the southern United States.”
 <param title="Buxus" eid="Q158703" aliases="Boxwood">
 <param title="shrub" eid="Q42295" aliases="shrubs">
-<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/02768200c2c5f6bd7d2b1c6a123cf09f28211b427ee28534a518bc813530d9d4" region="154,53,900,667">
+<param ve-image
+	manifest="https://iiif-v2.visual-essays.app/manifest/02768200c2c5f6bd7d2b1c6a123cf09f28211b427ee28534a518bc813530d9d4"
+	region="154,53,900,667">
 {#paragraph2}
 
 One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand beginning in 1921—includes three areas originally named after this shrub: the Box Walk, the Box Terrace (now called Urn Terrace), and the Box Ellipse (later replanted with hornbeam). According to McGuire, boxwood—along with yew and holly—was one of the most characteristic plants in Farrand’s palette, serving as “the embodiment of our deepest associations with the gardens of the Old World and with the cottage gardens of England.”[^ref3] It was precisely these historical roots of North American garden culture, not just the commercial future of a ubiquitous ornamental shrub, that the spread of boxwood blight put under threat.
@@ -120,9 +122,12 @@ How did boxwood come to represent the lasting legacy of the European garden trad
 Given this close association of boxwood with the gardens of Roman antiquity, it might come as a surprise that sixteenth-century Italian theorists disparaged its use, preferring instead other plants of similar size and texture, such as myrtle and viburnum (_Viburnum tinus_). Horticultural writer Girolamo Firenzuola, for example, recognized the ancient custom of using boxwood and laurel in making espaliers and hedges, noting, however, that these plants were less favored in his own day. Oranges, lemons, and citrons, he believed, were more “pleasing to the eye”; and, in creating a garden, one could easily dispense with boxwood altogether.[^ref7] A later author, Giovan Vettorio Soderini, similarly acknowledged boxwood’s popularity in antiquity due to its “obedience to the clippers,”[^ref8] which allowed gardeners to “give it whatever form one might want” to produce “graceful animal and human figures, ships, vessels, towers, walls, fortifications, houses, obelisks, columns, tables, architraves, arches, pilasters, and seats.”[^ref9] Along with cypress, it was supposed to instill a melancholy mood, while in winter its roots often became infested with poisonous snakes.[^ref10]
 <param title="espalier"	eid="Q1754876" aliases="espaliers">
 <param title="hedge" eid="Q235779" aliases="hedges">
-<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/28484e1b7b9ba3b6c7736369ee21dd6145039cccec8188da95f5bfeccc43e51b">
-<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/b8d5a9d47b3bb7c2c8cf6080c227831703ed5940d2db0ecb5a5db2235e41b67b">
-<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/898b77de539e0992b230af2296a11e35384bb8ab2b085f5efdc97c21d0b8d4b4">
+<param ve-image
+	manifest="https://iiif-v2.visual-essays.app/manifest/28484e1b7b9ba3b6c7736369ee21dd6145039cccec8188da95f5bfeccc43e51b">
+<param ve-image
+	manifest="https://iiif-v2.visual-essays.app/manifest/b8d5a9d47b3bb7c2c8cf6080c227831703ed5940d2db0ecb5a5db2235e41b67b">
+<param ve-image
+	manifest="https://iiif-v2.visual-essays.app/manifest/898b77de539e0992b230af2296a11e35384bb8ab2b085f5efdc97c21d0b8d4b4">
 {#paragraph5}
 
 The real issue with boxwood was what sixteenth-century English physician John Gerard described as the “evil and loathsome smell,” which, according to Soderini, was not only “annoying,” but could give one headaches as it “infested the air.”[^ref11] To mitigate the odor, the recommended solution was to plant boxwood in combination with other strongly scented evergreens such as myrtle, mastic, and rosemary.[^ref12] These mixed hedges benefitted from the robust texture of boxwood. Boxwood’s other selective use, also due to its thick and dense foliage, was planting it in thicket-like bird trapping grounds, _ragnaie_.[^ref13] Yet, compared to other plants that could serve analogous purposes or occupy the same garden spaces, boxwood, in Soderini’s words, was “valued little or not at all.”[^ref14]
@@ -132,15 +137,22 @@ The real issue with boxwood was what sixteenth-century English physician John Ge
 {#paragraph6}
 
 Boxwood’s potential medicinal applications met with a similar lack of enthusiasm. Despite an attempt by Amato Lusitano, a sixteenth-century Portuguese Jewish physician, to prove that boxwood was a native European analogue of guaiacum and could, therefore, potentially cure syphilis, the general consensus—endorsed by the leading writer on _materia medica_, Pietro Andrea Mattioli—was that it “had no use in medicine.” Lusitano’s claim was dismissed as “vain and foolish,” which “could in no way be acceptable to doctors.”[^ref15] Such pronouncements against boxwood, which was considered of “no physical use among the most and best physicians,” were sustained by the Englishman John Parkinson (who, however, noted that its leaves could be given to horses as a cure for botfly larvae); Gerard raged against “foolish empirics and women leeches” who “minister it against apoplexy and such diseases.”[^ref16] This negative opinion continued to pervade early modern medical thought, while boxwood’s known curative properties, especially as a styptic, generally remained ignored. 
-<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/995bf168dc62df827f35c41106a1654d824b59f12f06c57325873ef85ea0c660" region="1,1157,1006,746">
+<param ve-image
+	manifest="https://iiif-v2.visual-essays.app/manifest/995bf168dc62df827f35c41106a1654d824b59f12f06c57325873ef85ea0c660"
+	region="1,1157,1006,746">
 {#paragraph7}
 
 ### A Crafty Kind of Wood
 
 If Mattioli and Parkinson considered boxwood primarily an ornamental plant “well adapted to weaving espaliers in gardens and dividing one space from another,”[^ref17] its slow growth rate had important industrial implications. Hardened through the process of gradual maturation, its timber acquired such valued qualities as durability and density, making it indeed similar to guaiacum.[^ref18] Boxwood, according to Soderini, could last “forever” and “was good for the printing industry and other fine woodwork.”[^ref19] Since it lent itself well to lathing, Gerard considered it particularly suitable for “dagger hafts, boxes, and suchlike uses.”[^ref20] Sixteenth-century Netherlandish rosary beads—true miracles of late Gothic craftsmanship—testify to these remarkable properties. These exquisite boxwood carvings, which often measure less than two inches in diameter, could represent on a tiny scale multi-figure biblical scenes without losing any of their dramatic intensity.
-<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/75e0eec57b72e4c946de7e6d55cc037cc0c3ca7bd182389978a0fc1fb80a4ecd">
-<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/9a2f6a395efb3e5f6f26a9b22e72d85048dd9c1ca0e4bb186596c226fcc4dffa" region="109,1836,2762,2043">
-<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/32f8b253d8502aa0d6b81a8d79ae810bb863d3e50cc604840fb2b9b76ab2af8c" region="133,185,2777,2083">
+<param ve-image
+	manifest="https://iiif-v2.visual-essays.app/manifest/75e0eec57b72e4c946de7e6d55cc037cc0c3ca7bd182389978a0fc1fb80a4ecd">
+<param ve-image
+	manifest="https://iiif-v2.visual-essays.app/manifest/9a2f6a395efb3e5f6f26a9b22e72d85048dd9c1ca0e4bb186596c226fcc4dffa"
+	region="109,1836,2762,2043">
+<param ve-image
+	manifest="https://iiif-v2.visual-essays.app/manifest/32f8b253d8502aa0d6b81a8d79ae810bb863d3e50cc604840fb2b9b76ab2af8c"
+	region="133,185,2777,2083">
 {#paragraph8}
 
 ### Boxwood Reinstated
@@ -176,12 +188,15 @@ Mollet’s planting and stylistic innovations gained the fullest expression in t
 	seq="117"
 	rotate="90"
 	region="42,362,2798,3776">
-<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/4836a663d686ab92341e18a9e5fac65a0dc9bedd20731579b465a00312ea9ccf">
+<param ve-image
+	manifest="https://iiif-v2.visual-essays.app/manifest/4836a663d686ab92341e18a9e5fac65a0dc9bedd20731579b465a00312ea9ccf">
 {#paragraph11}
 
 Closely connected with these expatriate circles was British landscape architect Cecil Pinsent, another contemporary of Farrand’s, who extensively used boxwood in his landscaping projects. Most famous among his gardens was the Villa I Tatti in Settignano, Italy, designed for the American art historian and connoisseur Bernard Berenson. Another celebrated work was the lower terrace of the fifteenth-century Villa Medici in Fiesole that Pinsent furnished with a “carpet of box parterre,” regarded by landscape historian Geoffrey Jellicoe as fully integral to the historic character of the property.[^ref29] Popularized by postcards and book illustrations, Pinsent’s design became an iconic image of the Italian Renaissance garden, with its boxwood geometry—purposely projected into the Medicean age—serving as a visible bridge between distant antiquity and a more recent but equally glorious past.
-<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/3434cbf15d027379448579e37c698f3891c9a454522d0303a25b8d142b0cc8a7">
-<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/8fde03beeab49e3840a4eebbdaa62e777b19a4966c2b5942fe539d6f4f73ebab">
+<param ve-image
+	manifest="https://iiif-v2.visual-essays.app/manifest/3434cbf15d027379448579e37c698f3891c9a454522d0303a25b8d142b0cc8a7">
+<param ve-image
+	manifest="https://iiif-v2.visual-essays.app/manifest/8fde03beeab49e3840a4eebbdaa62e777b19a4966c2b5942fe539d6f4f73ebab">
 {#paragraph12}
 
 ### Humble Yet Resilient
