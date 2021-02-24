@@ -56,7 +56,7 @@ Other morphological traits distinguish members of the genera pelargonium from ge
 {#paragraph5}
 
 ### Introduction to Europe and Nomenclature Confusion
-<param ve-map marker-type="pin" marker-color="#ff0000">
+<param ve-map marker-type="pin" marker-color="#ff0000" marker-symbol="fas fa-flower" marker-symbol-color="#FFF">
 
 <param ve-entity eid="Q258" title="South Africa">
 <param ve-entity eid="Q34497" title="Saint Helena" aliases="St. Helena">
