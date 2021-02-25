@@ -7,14 +7,14 @@
 ##
 **Yota Batsaki**
 
-![](https://github.com/JSTOR-Labs/plant-humanities/blob/develop/images/Bataski.jpeg)
+![](https://github.com/JSTOR-Labs/plant-humanities/blob/develop/images/headshots/Bataski.jpeg)
 
 Yota Batsaki is the executive director of Dumbarton Oaks, a Harvard research institute, museum, and historic garden located in Washington, D.C. She holds a Ph.D. in comparative literature from Harvard University and was previously a lecturer and fellow at St. John’s College, Cambridge. Batsaki contributes to the research agenda of Dumbarton Oaks as principal investigator of the Plant Humanities Initiative. Funded by the Andrew W. Mellon Foundation, this is a four-year initiative to advance the emerging field of plant humanities in close dialogue with the environmental humanities and with a focus on plant-human interactions. Batsaki leads a collaboration with JSTOR Labs to develop an open access digital platform that will highlight primary sources about plants and connect them to large databases such as Global Plants and the Biodiversity Heritage Library. She also oversees scholarly programming that brings together intergenerational teams of students and researchers to investigate and narrate important cultural histories of plants for the digital platform under development.
 
 ##
 **Ashley Buchanan**
 
-![](https://github.com/JSTOR-Labs/plant-humanities/blob/develop/images/Buchanan_300x300.jpeg)
+![](https://github.com/JSTOR-Labs/plant-humanities/blob/develop/images/headshots/Buchanan_300x300.jpeg)
 
 Ashley Buchanan is the Postdoctoral Fellow for the Plant Humanities Initiative at Dumbarton Oaks. She is a historian of the early modern world, with a particular interest in plants, recipes, and medicinal cultures in 17th- and 18th-century Europe. She received her PhD in early modern history from the University of South Florida in 2018. Her research spans many topics which includes the history of science and medicine, women, and politics as well as the dynamics of gender and authority. Her current book project investigates the social, cultural, and political significance of pharmaceutical experimentation as well as the medicinal and botanical patronage at the late Medici Court (1650-1743). Her goal is to broaden the global dimension of recipes by studying the numerous exotic plants imported into Tuscany from the New World, East Africa, and Southeast Asia in the late 18th century. Ashley was a junior fellow in residence with the Medici Archive Project at the Archivio di Stato di Firenze and an Andrew W. Mellon Foundation Fellow at The Huntington.
 
