@@ -47,14 +47,14 @@ The visual essays below feature interactive maps, high-resolution images, and vi
 ##
 [**Agave - An Ancient Plant with an Intoxicating History**](/Agave)
 
-- author: Ashley Buchanan, PhD
+- author: Ashley Buchanan
 
 ![](/images/thumbnails/agave.jpg)
 
 ##
 [**Arbor Vitae - Thuja occidentalis**](/arbor_vitae)
 
-- author: Ashley Buchanan, PhD
+- author: Ashley Buchanan
 
 ![](/images/thumbnails/arbor-vitae.jpg)
 
@@ -117,7 +117,7 @@ The visual essays below feature interactive maps, high-resolution images, and vi
 ##
 [**The ubiquity of mint**](/mint)
 
-- author: Victoria Pickering PhD
+- author: Victoria Pickering
 
 ![](/images/thumbnails/mint.jpg) 
 
