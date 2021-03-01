@@ -1,6 +1,6 @@
 <param ve-config
 	   title="The Plant Humanities Initiative"
-	   layout="vtl"
+	   layout="vtl>
 
 ## About the Plant Humanities Lab
 Welcome to Plant Humanities Lab. The Plant Humanities Lab is an innovative digital space that supports the interdisciplinary study of plants from the various perspectives of the arts, sciences, and humanities, to explore their extraordinary significance to human culture. 
