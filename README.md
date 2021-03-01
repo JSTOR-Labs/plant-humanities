@@ -2,44 +2,44 @@
 
 #
 
-The visual essays below feature interactive maps, high-resolution images and videos, all linked with a network of people, places and ideas.  These essays will be featured in the Plant Humanities Workbench, which will allow users to explore the rich cultural history of plants and to craft their own narratives.
+The visual essays below feature interactive maps, high-resolution images, and videos, all linked with a network of people, places, and ideas. These essays will be featured in the Plant Humanities Lab search, which will allow users to explore the rich cultural history of plants and to craft their own narratives.
 
-# Most Recent
-
-##
-[**Dittany: Women’s Herbs and Reproductive Control**](/Dittany)
-
-- author: Ashley Buchanan
-
-![](https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/images/thumbnails/dittany.jpg)
+# Featured
 
 ##
-[**Boxwood: A humble yet resilient plant that took over the garden world**](/boxwood)
+[**Cacao: An Indigenous Network and Global Commodity**](/cacao)
 
-- author: Anatole Tchikine
+- author: Rebecca Friedel
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/boxwood.jpg)
+![](/images/thumbnails/cacao.jpg)
 
 ##
-[**The Corpse Flower - Amorphophallus titanium**](/Corpse_Flower)
+[**Sunflower: Shining a Light on Knowledge, Myth, and Meaning**](/sunflower)
 
-- author: Ashley Buchanan, PhD
+- author: Kristan M. Hanson
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/corpse-flower.jpg)
+![](/images/thumbnails/Sunflower_thumbnail.jpg)
 
 ##
 [**Heliconia: Plant-Pollinator Interactions Reveal Evolution at Work**](/heliconia)
 
-- author: John Kress, PhD and Yota Batsaki, PhD
+- authors: John Kress and Yota Batsaki
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/heliconia.jpg)
+![](/images/thumbnails/heliconia.jpg)
 
 ##
-[**Peony: From an Ancient Cure to an Early Modern Tool of Statecraft**](/Peony)
+[**Cinnamomum verum: Two Thousand Years of Discovering “True” Cinnamon**](/cinnamon)
 
-- author: Ashley Buchanan, PhD and Kyra Krakos, PhD
+- author: Wouter Klein
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/peony.jpg)
+![](/images/thumbnails/cinnamon.jpg)
+
+##
+[**Chaos out of Order: Bananas and the Limits of Linnaean Taxonomy**](/Banana)
+
+- author: Ashley Buchanan
+
+![](/images/thumbnails/banana.png)
 
 
 # All Essays
@@ -49,74 +49,109 @@ The visual essays below feature interactive maps, high-resolution images and vid
 
 - author: Ashley Buchanan, PhD
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/agave.jpg)
+![](/images/thumbnails/agave.jpg)
 
 ##
 [**Arbor Vitae - Thuja occidentalis**](/arbor_vitae)
 
 - author: Ashley Buchanan, PhD
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/arbor-vitae.jpg)
-  
+![](/images/thumbnails/arbor-vitae.jpg)
+
+##
+[**Chaos out of Order: Bananas and the Limits of Linnaean Taxonomy**](/Banana)
+
+- author: Ashley Buchanan
+
+![](/images/thumbnails/banana.png)
+
 ##
 [**Boxwood: A humble yet resilient plant that took over the garden world**](/boxwood)
 
 - author: Anatole Tchikine
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/boxwood.jpg)
+![](/images/thumbnails/boxwood.jpg)
 
 ##
-[**Chaos out of Order – Bananas and the Limits of Linnaean Taxonomy**](/Banana)
-
-- author: Ashley Buchanan, PhD
-
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/banana.png)
-
-##
-[**Cacao: An indigenous network and global commodity**](/cacao)
+[**Cacao: An Indigenous Network and Global Commodity**](/cacao)
 
 - author: Rebecca Friedel
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/cacao.jpg)
+![](/images/thumbnails/cacao.jpg)
 
 ##
 [**Carolina Rice**](/carolina_rice)
 
 - author: Julia Fine
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/carolina-rice.jpg)
+![](/images/thumbnails/carolina-rice.jpg)
 
 ##
-[**The Corpse Flower - Amorphophallus titanium**](/Corpse_Flower)
+[**Cultivating Cassava: From Toxic Tuber to Staple Starch**](/cassava)
 
-- author: Ashley Buchanan, PhD
+- authors: Christina Emery, Rachel Hirsch, and Melinda Susanto
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/corpse-flower.jpg)
+![](/images/thumbnails/cassava.jpg)
 
 ##
-[**Heliconia: Plant-Pollinator Interactions Reveal Evolution at Work**](/heliconia)
+[**Cinnamomum verum: Two Thousand Years of Discovering “True” Cinnamon**](/cinnamon)
 
-- author: John Kress, PhD and Yota Batsaki, PhD
+- author: Wouter Klein
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/heliconia.jpg)
+![](/images/thumbnails/cinnamon.jpg)
+
+##
+[**Dittany: Women’s Herbs and Reproductive Control**](/Dittany)
+
+- author: Ashley Buchanan
+
+![](/images/thumbnails/dittany.jpg)
+
+##
+[**Dracaena draco: The Timeless Canarian Dragon**](/dragon_tree)
+
+- authors: Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian
+
+![](/images/thumbnails/dragon_tree.jpg)
 
 ##
 [**The ubiquity of mint**](/mint)
 
 - author: Victoria Pickering PhD
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/mint.jpg) 
+![](/images/thumbnails/mint.jpg) 
 
 ##
-[**Peony: From an Ancient Cure to an Early Modern Tool of Statecraft**](/Peony)
+[**Heliconia: Plant-Pollinator Interactions Reveal Evolution at Work**](/heliconia)
 
-- author: Ashley Buchanan, PhD and Kyra Krakos, PhD
+- authors: John Kress and Yota Batsaki
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/peony.jpg)
+![](/images/thumbnails/heliconia.jpg)
+
+##
+[**A Pelargonium by Any Other Name Would Smell as Sweet…**](/pelargonium)
+
+- authors: Daisy Reid, Verónica Matallana Chaves, Yao Jiang
+
+![](/images/thumbnails/pelargonium.jpg)
+
+##
+[**Sunflower: Shining a Light on Knowledge, Myth, and Meaning**](/sunflower)
+
+- author: Kristan M. Hanson
+
+![](/images/thumbnails/Sunflower_thumbnail.jpg)
 
 ##
 [**Turmeric**](/turmeric)
 
 - author: Julia Fine
 
-![](https://jstor-labs.github.io/plant-humanities/images/thumbnails/turmeric.jpg)
+![](/images/thumbnails/turmeric.jpg)
+
+##
+[**Watermelon: ‘What the Angels Eat’**](watermelon)
+
+- authors: Anna Lawrence, Camilo Uribe Botta, and May Wang
+
+![](/images/thumbnails/watermelon.jpg)
