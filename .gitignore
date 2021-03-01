@@ -1,6 +1,8 @@
 # Mac OSX
 .DS_Store
+.vscode
 
 # Vim swap files
 *.swp
+
 venv

@@ -1,0 +1,55 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://visual-essays.app/annotations/?include=description&target=cinnamon/b2d44e9b",
+  "type": "AnnotationPage",
+  "partOf": {
+    "id": "http://visual-essays.app/annotations/?include=description&target=cinnamon/b2d44e9b",
+    "total": 2,
+    "modified": "2021-02-19T15:13:16.298941"
+  },
+  "startIndex": 0,
+  "items": [
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "bla bla",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:141.00405883789062,1106.9949951171875,294.8079833984375,400.0965576171875"
+        },
+        "id": "JSTOR-Labs/plant-humanities/develop/cinnamon/b2d44e9b"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "cinnamon/b2d44e9b/2d2b52ce",
+      "seq": 0
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "test2",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1016.5989379882812,1142.4541015625,458.39202880859375,557.122802734375"
+        },
+        "id": "cinnamon/b2d44e9b"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "cinnamon/b2d44e9b/a0349cc8",
+      "seq": 1
+    }
+  ]
+}

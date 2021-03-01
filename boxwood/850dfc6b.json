@@ -1,12 +1,55 @@
 {
   "@context": "http://www.w3.org/ns/anno.jsonld",
-  "id": "http://visual-essays.app/annotations/?include=description&target=boxwood//850dfc6b",
+  "id": "http://visual-essays.app/annotations/?include=description&target=boxwood/850dfc6b",
   "type": "AnnotationPage",
   "partOf": {
-    "id": "http://visual-essays.app/annotations/?include=description&target=boxwood//850dfc6b",
-    "total": 0,
-    "modified": "2021-02-19T14:39:42.267698"
+    "id": "http://visual-essays.app/annotations/?include=description&target=boxwood/850dfc6b",
+    "total": 2,
+    "modified": "2021-02-18T21:48:50.879297"
   },
   "startIndex": 0,
-  "items": []
+  "items": [
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "steps",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:498.0000305175781,306.1428527832031,196.28573608398438,100.28573608398438"
+        },
+        "id": "boxwood/850dfc6b"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "boxwood/850dfc6b/e768e5a4",
+      "seq": 0
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "more steps",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:426.8571472167969,505,372.8571472167969,210.857177734375"
+        },
+        "id": "boxwood/850dfc6b"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "boxwood/850dfc6b/def37b62",
+      "seq": 1
+    }
+  ]
 }
