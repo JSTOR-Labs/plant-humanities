@@ -28,4 +28,7 @@ Bringing together humanists and digital technology experts, the Plant Humanities
        url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia_network_relationship_v2.tsv" center="Heliconia imbricata">
 
 The Plant Humanities Lab draws on the power of Linked Open Data and uses a variety of digital tools to connect primary sources in vast repositories that include JSTOR Global Plants and the Biodiversity Heritage Library. Key to development was JSTOR Labs’s Juncture, a new, open-source tool for digital writing, which our contributors used to write their stories.
-<param ve-storiiies id="6a1do">
+<param ve-image
+	title="Ming herbal (painting): Chinese herbaceous peony"
+	url="https://upload.wikimedia.org/wikipedia/commons/2/2e/Ming_herbal_%28painting%29%3B_Chinese_herbaceous_peony_Wellcome_L0039426.jpg">
+
