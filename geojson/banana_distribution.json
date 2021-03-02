@@ -314,7 +314,8 @@
         "stroke": "null",
         "fill": "#32C125",
         "fill-opacity": 0.3,
-        "inception": "5,000 BCE"
+        "inception": "5,000 BCE",
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1960,7 +1961,7 @@
         "stroke-opacity": 1,
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": "",
+        "label": "Domesticated bananas traveled along trade routes east and west",
         "inception": "8,000 BCE"
       },
       "geometry": {
@@ -2067,7 +2068,7 @@
         "stroke": "null",
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": "",
+        "label": "Domesticated bananas traveled along trade routes east and west",
         "inception": "5,000 BCE"
       },
       "geometry": {
@@ -2229,7 +2230,7 @@
         "stroke-width": "",
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": "",
+        "label": "Domesticated bananas traveled along trade routes east and west",
         "inception": "8,000 BCE"
       },
       "geometry": {
@@ -2316,7 +2317,7 @@
         "stroke-opacity": "",
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": "",
+        "label": "Early domesticated bananas were hybridized with local subspecies in the Malay Peninsula and Indonesia, before making their way to India",
         "inception": "5,000 BCE"
       },
       "geometry": {
@@ -2413,7 +2414,7 @@
         "stroke": "null",
         "fill": "#fb683f",
         "fill-opacity": 1,
-        "label": "",
+        "label": "Around 5,000 years ago domesticated bananas reach Africa",
         "inception": "3,000 BCE"
       },
       "geometry": {
