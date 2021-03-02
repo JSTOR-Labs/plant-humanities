@@ -75,7 +75,7 @@ Some of the implements used for processing cassava include [graters, strainers o
 
 <param title="Tucanoan languages" eid="Q788144" aliases="Tukanoans">
 Despite the amount of work required to process cassava with high levels of cyanide, bitter cassava is more popularly cultivated than sweet cassava in the Amazon today. The indigenous Tukanoans of the Yapu village in the northern Amazon, for example, grow 100  different types of cassava, 98 of which are bitter.[^ref13] Archaeologist Warren Wilson and anthropologist Darna Dufour have demonstrated that bitter cassava yields a higher harvest than does its sweet counterpart, possibly due to its resistance to disease and insects.[^ref14] It is perhaps for this reason that bitter cassava is favored as a food crop over sweet cassava, despite the additional processing to render it edible.
-<param ve-image primary fit="contain" url="http://sammlungen.ub.uni-frankfurt.de/panhuys/image/view/4989873?w=1000" title="Louise von Panhuys, _Bitter Poisonous Manioc, Cassava_ (_Bittere giftige Maniok, Cassava_), 1816, watercolor, color pencil, 67.9 x 48.4 cm, Universitätsbibliothek, Frankfurt am Main.">
+<param ve-image primary region="-125,82,1250,1113" url="http://sammlungen.ub.uni-frankfurt.de/panhuys/image/view/4989873?w=1000" title="Louise von Panhuys, _Bitter Poisonous Manioc, Cassava_ (_Bittere giftige Maniok, Cassava_), 1816, watercolor, color pencil, 67.9 x 48.4 cm, Universitätsbibliothek, Frankfurt am Main.">
 <param ve-image fit="contain" url="http://sammlungen.ub.uni-frankfurt.de/panhuys/image/view/4989868?w=1000" title="Louise von Panhuys, _Sweet Cassava_ (_Süßer Maniok, Cassava_), 1816, watercolor, color pencil, 68.3 x 48.5 cm, Universitätsbibliothek, Frankfurt am Main.">
 {#paragraph9}
 
