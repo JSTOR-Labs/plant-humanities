@@ -1,8 +1,5 @@
 <param ve-config title="Plant Humanities" layout="index" header="plants-index">
 
-#
-
-The visual essays below feature interactive maps, high-resolution images, and videos, all linked with a network of people, places, and ideas. These essays will be featured in the Plant Humanities Lab search, which will allow users to explore the rich cultural history of plants and to craft their own narratives.
 
 # Featured
 
@@ -21,7 +18,7 @@ The visual essays below feature interactive maps, high-resolution images, and vi
 ![](/images/thumbnails/Sunflower_thumbnail.jpg)
 
 ##
-[**Heliconia: Plant-Pollinator Interactions Reveal Evolution at Work**](/heliconia)
+[**Heliconia: Heliconia: Evolution at Work**](/heliconia)
 
 - authors: John Kress and Yota Batsaki
 
