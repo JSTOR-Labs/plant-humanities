@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=Peony/243d9e37",
-    "total": 1,
-    "modified": "2021-03-02T15:07:56.073129"
+    "total": 2,
+    "modified": "2021-03-02T15:08:31.901632"
   },
   "startIndex": 0,
   "items": [
@@ -29,6 +29,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "Peony/243d9e37/0962447e",
       "seq": 0
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "During the Ming dynasty, the peony was not cultivated simply for its beautiful flowers, but also for its medicinal roots. The roots of 3 to 4 year old plants were harvested in the summer and autumn, cooked in warm water, and finally dried in the sun.",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:577.9411010742188,1686.5587158203125,1291.2057495117188,1080.9117431640625"
+        },
+        "id": "Peony/243d9e37"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "Peony/243d9e37/e0976b10",
+      "seq": 1
     }
   ]
 }
