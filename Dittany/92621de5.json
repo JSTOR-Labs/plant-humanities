@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=Dittany/92621de5",
-    "total": 3,
-    "modified": "2021-03-02T14:40:10.290416"
+    "total": 4,
+    "modified": "2021-03-02T14:40:52.131328"
   },
   "startIndex": 0,
   "items": [
@@ -70,6 +70,27 @@
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "Dittany//92621de5/e518929f",
+      "seq": 2
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Terms\" was a common name for menstruation.<br>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:497.71392822265625,523.8502807617188,447.8074951171875,264.03741455078125"
+        },
+        "id": "Dittany/92621de5"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "Dittany/92621de5/762460ce",
       "seq": 2
     }
   ]
