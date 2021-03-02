@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=Dittany/92621de5",
-    "total": 4,
-    "modified": "2021-03-02T14:40:52.131328"
+    "total": 5,
+    "modified": "2021-03-02T14:42:14.721984"
   },
   "startIndex": 0,
   "items": [
@@ -92,6 +92,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "Dittany/92621de5/762460ce",
       "seq": 2
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Culpeper lists both white Dittany and Dittany of Crete<br>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:489.2647399902344,570.3208618164062,570.3208312988281,395"
+        },
+        "id": "Dittany/92621de5"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "Dittany/92621de5/49ce4acb",
+      "seq": 3
     }
   ]
 }
