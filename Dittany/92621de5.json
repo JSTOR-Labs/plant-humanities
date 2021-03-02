@@ -4,74 +4,11 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=Dittany/92621de5",
-    "total": 5,
+    "total": 2,
     "modified": "2021-03-02T14:42:14.721984"
   },
   "startIndex": 0,
   "items": [
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "body": [
-        {
-          "purpose": "commenting",
-          "type": "TextualBody",
-          "value": "\"Terms\" was a common word for menstruation.<br>"
-        }
-      ],
-      "id": "Dittany//92621de5/90346ec0",
-      "seq": 0,
-      "target": {
-        "id": "Dittany//92621de5",
-        "selector": {
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "type": "FragmentSelector",
-          "value": "xywh=pixel:558.5812377929688,597.6513671875,264.28973388671875,32.5279541015625"
-        }
-      },
-      "type": "Annotation"
-    },
-    {
-      "type": "Annotation",
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Culpeper lists white Dittany as an emmenagogue.<br>",
-          "purpose": "commenting"
-        }
-      ],
-      "target": {
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:523.3426513671875,665.41796875,123.33514404296875,32.5279541015625"
-        },
-        "id": "Dittany//92621de5"
-      },
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "Dittany//92621de5/98f4a757",
-      "seq": 1
-    },
-    {
-      "type": "Annotation",
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Dittany of Crete is also listed as an emmenagogue.<br>",
-          "purpose": "commenting"
-        }
-      ],
-      "target": {
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:528.7639770507812,754.869873046875,230.4063720703125,33.88330078125"
-        },
-        "id": "Dittany//92621de5"
-      },
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "Dittany//92621de5/e518929f",
-      "seq": 2
-    },
     {
       "type": "Annotation",
       "body": [
