@@ -137,7 +137,7 @@ As Europeans moved between continents, knowledge of cassava preparation, togethe
 <param title="garri" eid="Q1494252" aliases="gari">
 With this transfer of knowledge from South America to Africa, other innovations emerged. For example, African women learned that the bitter cassava root was poisonous and learned how to prepare its leaves instead.[^ref29] They discovered that young cassava leaves could be safely consumed after being boiled. A new method of processing the root also developed, which involved pressing it with stone weights instead of using the hanging method favored in South America.[^ref30] Another African innovation emerged in the form of _gari_, or toasted flakes, made from the dried pulp of processed cassava. They are not as refined as the _farinha_ produced in South America, but can be stored for a long period of time.[^ref31]
 <param curtain ve-image title="Cassava leaves, September 22, 2009" url="Cassava_leaf_Flickr.jpg" attribution="CIAT, ©2009CIAT/NeilPalme, Flickr, CC BY-SA 2.0">
-<param ve-image fit="contain" url="http://sammlungen.ub.uni-frankfurt.de/panhuys/image/view/4989769?w=1000" title="Louise von Panhuys, _Leaves of the Bitter Manioc, Cassava_ (Blätter der bitteren Maniok, Cassava), nd, watercolor, color pencil, 39,8 x 52.3 cm, Universitätsbibliothek, Frankfurt am Main.">
+<param ve-image fit="contain" url="http://sammlungen.ub.uni-frankfurt.de/panhuys/image/view/4989769?w=1000" title="Louise von Panhuys, _Leaves of the Bitter Manioc, Cassava_ (Blätter der bitteren Maniok, Cassava), n.d., watercolor, color pencil, 39,8 x 52.3 cm, Universitätsbibliothek, Frankfurt am Main.">
 {#paragraph17}
 
 ### Food of the Future?
