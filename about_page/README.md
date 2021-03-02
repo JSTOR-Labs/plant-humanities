@@ -9,7 +9,7 @@ Welcome to Plant Humanities Lab. The Plant Humanities Lab is an innovative digit
 	url="https://upload.wikimedia.org/wikipedia/commons/2/2e/Ming_herbal_%28painting%29%3B_Chinese_herbaceous_peony_Wellcome_L0039426.jpg">
 
 Humans rely on plants for our most fundamental individual and social needs: from food, medicine, and construction to our encounters with them in art and literature. Although we think of plants as rooted in place, their global travels over the millennia offer fascinating pathways into the past and illuminate some of the most burning issues of today, including legacies of colonial violence and displacement. Climate change, habitat loss, and the accelerated species extinctions add to the urgency of researching plant–human interactions and acknowledging the importance of plants in our environment.
-<param ve-map title="Origins of Banana" center="3.979260, 129.067833" basemap="Esri_WorldPhysical" zoom="4" stroke-width="0" show-labels>
+<param ve-map title="Origins of Banana" center="-1.2819899013449472, 124.1204869034095" basemap="Esri_WorldPhysical" zoom="4" stroke-width="0" show-labels>
 <param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/banana_distribution.json">
 
 ## So Many Stories to Tell
