@@ -26,6 +26,6 @@ Bringing together humanists and digital technology experts, the Plant Humanities
        url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia_network_relationship_v2.tsv" center="Heliconia imbricata">
 
 The Plant Humanities Lab draws on the power of Linked Open Data and uses a variety of digital tools to connect primary sources in vast repositories that include JSTOR Global Plants and the Biodiversity Heritage Library. Key to development was JSTOR Labs’s Juncture, a new, open-source tool for digital writing, which our contributors used to write their stories.
-<param ve-image title="“Cinnamon from Ceylon with flowers”. Specimen of _Cinnamomum verum_ J.Presl, from Paul Hermann’s herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171."
+<param ve-image region="-79,626,6307,4735" title="“Cinnamon from Ceylon with flowers”. Specimen of _Cinnamomum verum_ J.Presl, from Paul Hermann’s herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171."
 	url="/cinnamon/007714869-L.2070171.jpg"
 	attribution="Naturalis Biodiversity Center, Leiden. https://data.biodiversitydata.nl/naturalis/specimen/L.2070171">
