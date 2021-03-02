@@ -3,7 +3,7 @@
 	   layout="vtl">
 
 ## About the Plant Humanities Lab
-Welcome to Plant Humanities Lab. The Plant Humanities Lab is an innovative digital space that supports the interdisciplinary study of plants from the various perspectives of the arts, sciences, and humanities, to explore their extraordinary significance to human culture. <span style="color: red;">_Click the play button to the right of the image to learn more about the medicinal significance of peony._</span>
+Welcome to Plant Humanities Lab. The Plant Humanities Lab is an innovative digital space that supports the interdisciplinary study of plants from the various perspectives of the arts, sciences, and humanities, to explore their extraordinary significance to human culture. <span style="color: red;"Click the play button to the right of the image to learn more about the medicinal significance of peony.</span>
 <param ve-image region="-262,533,2623,2020"
 	title="Ming herbal (painting): Chinese herbaceous peony"
 	url="https://upload.wikimedia.org/wikipedia/commons/2/2e/Ming_herbal_%28painting%29%3B_Chinese_herbaceous_peony_Wellcome_L0039426.jpg">
