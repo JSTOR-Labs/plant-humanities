@@ -82,15 +82,15 @@ Thanks to domesticated bananas’ long history of human intervention and migrati
 <param ve-image region="0,3,1050,809" manifest="https://iiif-v2.visual-essays.app/manifest/1ba7d6c716f9fbaf19ce073ca525642aa5c083b9d15b67529743c7b8eeb51383">
 
 In 2002, a comprehensive study of relationships among wild and cultivated bananas determined that the parthenocarpic “A genotype” of almost all the edible banana groups was derived from either subspecies _banksii_ (from the Papua New Guinea region) or subspecies _errans_ (Philippines) of _Musa acuminata_ (or from both of subspecies).[^ref3] These findings reveal that the origin of banana domestication was in the regions of the Philippines and Papua New Guinea. Archaeobotanical remains identified as the genus _Musa_ attest that edible bananas were indeed present in Papua New Guinea at least 10,000 years ago and were being cultivated as early as 7,000 years ago.[^ref4]
-<param ve-map title="Origins of Banana" center="3.979260, 129.067833" basemap="Esri_WorldPhysical" zoom="4" stroke-width="0" show-labels>
+<param ve-map title="Origins of Banana" center="3.979260, 129.067833" basemap="Esri_WorldPhysical" zoom="4" stroke-width="0">
 <param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/banana_distribution.json">
 
 From the Philippines and Papua New Guinea, domesticated parthenocarpic bananas traveled along trade routes and with settlers and merchants both east and west. Along the way, these early domesticated bananas were hybridized with local subspecies in the Malay Peninsula and Indonesia, before eventually making their way to India. Finally, around 5,000 years ago domesticated bananas (of the genus _Musa_) arrived in Africa from across the Indian Ocean.
-<param ve-map center="-0.923391, 85.018399" basemap="Esri_WorldPhysical" zoom="3" stroke-width="0" show-labels>
+<param ve-map center="-0.923391, 85.018399" basemap="Esri_WorldPhysical" zoom="3" stroke-width="0">
 <param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/banana_distribution.json">
 
 Europeans first learned of bananas through Alexander the Great’s Asiatic campaign in 331–323 BCE. According to the Greek naturalist Theophrastus and the Roman naturalist Pliny the Elder, one of the plants Alexander saw, recorded, and brought back to Asia Minor was the banana. Europeans, however, had neither the climate to grow bananas nor the proximity to their natural habitat to import the fresh fruit. So, while bananas became a staple food crop in Africa, India, Southeast Asia, and the Pacific, they remained an exotic curiosity in Europe.
-<param ve-map basemap="Esri_WorldPhysical" center="27.954235, 53.025546" zoom="3.5" stroke-width="0" show-labels>
+<param ve-map basemap="Esri_WorldPhysical" center="27.954235, 53.025546" zoom="3.5" stroke-width="0">
 <param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/banana_distribution.json">
 
 The rise of European maritime powers in the late fourteenth and fifteenth centuries brought renewed interest in the banana. By the time the Portuguese began exploring the west coast of Africa in the late fifteenth century, propagation of banana cultivars had spread through Africa south of the Sahara. Eventually, Portuguese slavers began transporting bananas alongside enslaved Africans to the West Indies. Unlike later periods, however, bananas were not viewed as a cash crop. Instead, they served as cheap and portable sustenance for enslaved individuals during their horrific transatlantic crossing.
