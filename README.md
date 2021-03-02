@@ -18,7 +18,7 @@
 ![](/images/thumbnails/Sunflower_thumbnail.jpg)
 
 ##
-[**Heliconia: Heliconia: Evolution at Work**](/heliconia)
+[**Heliconia: Evolution at Work**](/heliconia)
 
 - authors: John Kress and Yota Batsaki
 
