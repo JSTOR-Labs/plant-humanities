@@ -268,7 +268,7 @@ Today, market forces are among the chief factors that, alongside taste and tradi
 
 [^ref9]: John Gerard, _The Herball or generall Historie of Plantes_ (London: Norton, 1597), 768. [Click here for full book.](https://www.biodiversitylibrary.org/page/35440967)
 
-[^ref10]: _St. Louis Globe-Democrat_, ‘Watermelon Juice for the Complexion’, _Daily Evening Bulletin_ (San Francisco), 66(131), Sept. 8, 1888, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
+[^ref10]: _St. Louis Globe-Democrat_, “Watermelon Juice for the Complexion”, _Daily Evening Bulletin_ (San Francisco), 66(131), Sept. 8, 1888, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
 
 [^ref11]: David Maynard and Donald Maynard, “Cucumbers, Melons, and Watermelons,” 306.
 
