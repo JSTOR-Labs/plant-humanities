@@ -40,10 +40,7 @@
 
 Mark Twain once said that the watermelon “is the chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat.”[^ref1] Though today the word “watermelon” calls to mind a sturdy gourd with refreshing, sweet, red flesh, for most of its millennia-long history as a cultivated crop it was known as a pale, hard, sometimes bitter fruit with relatively tender rind. Not until the sixth century CE were watermelons associated with sweet fruits such as figs and grapes; and it was not until well into the 1400s that the uniformly red, thick-rinded watermelons that are familiar to us today began to appear. Throughout its history across the globe, the watermelon was primarily a source of food, medicine, and drink. Its cultural history, however, reveals not only stories of racism, but also of contagion and disease, a darker side to the delicious summer fruit that we know and love.
 <param ve-image
-	title="Watermelon."
-	url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bulgarian_watermelon.JPG"
-	fit="cover"
-	attribution="Wikimedia Commons">
+	manifest="https://iiif-v2.visual-essays.app/manifest/d8b0a8264c8d87f2adad0cc82cd6635852baed1cb6ef2929ea6d39d3642519c0">
 {#paragraph1}
 
 ### Whose Vine Is It Anyway?
@@ -65,10 +62,8 @@ The precise historical origins of the watermelon are obscured by its broad geogr
 
 In Africa’s arid savanna regions, watermelons were originally welcomed as sources of liquid, their flesh generally being cooked or beaten to a pulp to extract the juice. In the Kalahari Desert in southern Africa, the multiple uses of the flesh, rind, and seeds that were eaten fresh, cooked, and dried also helped some population groups to remain sedentary and hydrated throughout both wet and dry seasons.[^ref5] As they became domesticated, watermelons were bred to yield softer and sweeter flesh and exclude such less desirable traits as the mucilaginous egusi seeds or the hard, bitter flesh of the citron melon, although western and southern African cuisines still make use of them today.[^ref6]
 <param ve-image
-	title="Kalahari watermelon."
-	url="https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F69718619%2Foriginal.jpg%3F1588016254"
-	region="194,69,1707,1263"
-	attribution="GBIF">
+	manifest="https://iiif-v2.visual-essays.app/manifest/bca151321f88ec8c8db013c3eec370b1900f98962f5a00d0bfcb23ca03916d95"
+	region="194,69,1707,1263">
 {#paragraph3}
 
 ### More Than Just a Fruit…
@@ -119,20 +114,14 @@ By the ninth and twelfth centuries, watermelons had spread, respectively, to Ind
 	url="watermelon_distribution.json"
 	geojson active>
 <param ve-image
-	title="‘Satsubari, the Second of the Sixteen Arhats.’ Japan, early fourteenth century."
-	url="https://images.metmuseum.org/CRDImages/as/original/DP-12232-006.jpg"
-	fit="contain"
-	attribution="The Metropolitan Museum of Art">
+	manifest="https://iiif-v2.visual-essays.app/manifest/f6d42910f387363ba7c8158829f2a7bfbed2b2d696654f6b69d547d853eac3bb"
+	fit="contain">
 <param ve-image
-	title="‘Plants and insects’ by Shin Saimdang."
-	url="https://ids.lib.harvard.edu/ids/view/18731783?width=3000&height=3000"
-	fit="contain"
-	attribution="Harvard Art Museums">
+	manifest="https://iiif.harvardartmuseums.org/manifests/object/200903"
+	fit="contain">
 <param ve-image
-	title="5000 Won Banknote, Bank of Korea."
-	url="https://upload.wikimedia.org/wikipedia/commons/d/d7/5000_won_serieV_reverse.jpeg"
-	fit="fit"
-	attribution="Wikimedia Commons"> 
+	manifest="https://iiif-v2.visual-essays.app/manifest/ac85144b0333f51ba303108e56091158ac10ba9b3e50607519f7ca2f09167018"
+	fit="fit"> 
 {#paragraph7}
 
 As the watermelon became common in European kitchen gardens, it began to appear frequently in still life paintings. Seventeenth-century paintings by Albert Eckhout and Giovanni Stanchi reveal whorls of red flesh among white rind, showing how much the fruit has changed since antiquity. The inclusion of watermelons in still lifes also provides insights into the multitude of cultural meanings associated with the plant. While American still lifes, such as those by the prolific Peale family in the early nineteenth century, featured the watermelon amid overwhelming images of abundance and plenty, Baroque artists would quite literally [cut through that fantasy](https://www.flickr.com/photos/104901827@N06/46017346544) with the abrupt imposition of a knife as a symbol of the fleeting nature of life.
@@ -170,7 +159,7 @@ Another artistic context in which watermelons were occasionally featured concern
 
 ### Watermelons, Race, and the American South 
 
-Paradoxically, the bright and appealing nature of the watermelon also lent itself to racist tropes in nineteenth-century America. Watermelons were introduced there in the sixteenth century and were cultivated widely, from colonists’ kitchen gardens to those tended by African slaves. The ease with which watermelons were grown and sold meant that after the 1863 Emancipation Proclamation, they could became a source of income for freed slaves.[^ref14] Their cultivation and consumption became a means of enacting newfound freedoms as a public and communal activity. Emblematizing the potential for African Americans to escape the plantation economy, the watermelon soon became perceived as a threat by white southerners, who proceeded to transform it into a symbol of Black people’s unfitness for freedom and citizenship.
+Paradoxically, the bright and appealing nature of the watermelon also lent itself to racist tropes in nineteenth-century America. Watermelons were introduced there in the sixteenth century and were cultivated widely, from colonists’ kitchen gardens to those tended by African slaves. The ease with which watermelons were grown and sold meant that after the 1863 Emancipation Proclamation, they became a source of income for freed slaves.[^ref14] Their cultivation and consumption became a means of enacting newfound freedoms as a public and communal activity. Emblematizing the potential for African Americans to escape the plantation economy, the watermelon soon became perceived as a threat by white southerners, who proceeded to transform it into a symbol of Black people’s unfitness for freedom and citizenship.
 <param ve-map
 	title="Distribution of watermelon, 1400 to 2000 CE."
 	basemap="Esri_WorldPhysical"
@@ -279,7 +268,7 @@ Today, market forces are among the chief factors that, alongside taste and tradi
 
 [^ref9]: John Gerard, _The Herball or generall Historie of Plantes_ (London: Norton, 1597), 768. [Click here for full book.](https://www.biodiversitylibrary.org/page/35440967)
 
-[^ref10]: St Louis Globe-Democrat, ‘Watermelon Juice for the Complexion’, Daily Evening Bulletin (San Francisco), 66(131), Sept. 8, 1888, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
+[^ref10]: _St. Louis Globe-Democrat_, ‘Watermelon Juice for the Complexion’, _Daily Evening Bulletin_ (San Francisco), 66(131), Sept. 8, 1888, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
 
 [^ref11]: David Maynard and Donald Maynard, “Cucumbers, Melons, and Watermelons,” 306.
 
@@ -289,7 +278,7 @@ Today, market forces are among the chief factors that, alongside taste and tradi
 
 [^ref14]: W.R. Black, “How Watermelons Became Black,” _Journal of the Civil War Era_, 8:1 (2018): 64–86.
 
-[^ref15]: Detroit Free Press, “The Influence of the Watermelon,” St Louis Globe-Democrat, 6(93), Aug. 21, 1880, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
+[^ref15]: _Detroit Free Press_, “The Influence of the Watermelon,” _St. Louis Globe-Democrat_, 6(93), Aug. 21, 1880, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
 
 [^ref16]: Cynthia Greenlee, “On eating watermelon in front of white people: ‘I’m not as free as I thought,’” _Vox_, Aug. 29, 2019, accessed July 23, 2020. [Click here for full article.](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people)
 
