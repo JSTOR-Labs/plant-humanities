@@ -199,7 +199,7 @@ Aspects of the fruit became bound up with representations of African Americans, 
 	attribution="Wikimedia Commons">
 {#paragraph11}
 
-Stories of watermelon theft contributed to the perception of Black criminality following the enactment of the thirteenth amendment, which abolished slavery. The seemingly irresistible lure of the watermelon suggested that it did “more to tempt the colored race to steal than all other fruit combined,” with countless anecdotes supposedly citing the words of African Americans who claimed that stolen watermelons tasted better than those bought.[^ref15] The narrative of African American watermelon-stealing was so entrenched that the Tennessee state bill that criminalized such trespasses in 1870 was commonly known as the “watermelon bill.” These cultural tropes continued to shape the exclusionary racial politics in the United States well into the twentieth century and [are still pervasive today.[^ref16]](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people)
+Stories of watermelon theft contributed to the perception of Black criminality following the enactment of the thirteenth amendment, which abolished slavery. The seemingly irresistible lure of the watermelon suggested that it did “more to tempt the colored race to steal than all other fruit combined,” with countless anecdotes supposedly citing the words of African Americans who claimed that stolen watermelons tasted better than those bought.[^ref15] The narrative of African American watermelon-stealing was so entrenched that the Tennessee state bill that criminalized such trespasses in 1870 was commonly known as the “watermelon bill.” These cultural tropes continued to shape the exclusionary racial politics in the United States well into the twentieth century and [are still pervasive today.](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people)[^ref16]
 <param ve-storiiies
 	id="0d1fv">
 {#paragraph12}
@@ -268,7 +268,7 @@ Today, market forces are among the chief factors that, alongside taste and tradi
 
 [^ref9]: John Gerard, _The Herball or generall Historie of Plantes_ (London: Norton, 1597), 768. [Click here for full book.](https://www.biodiversitylibrary.org/page/35440967)
 
-[^ref10]: St Louis Globe-Democrat, ‘Watermelon Juice for the Complexion’, Daily Evening Bulletin (San Francisco), 66(131), Sept. 8, 1888, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
+[^ref10]: _St. Louis Globe-Democrat_, ‘Watermelon Juice for the Complexion’, _Daily Evening Bulletin_ (San Francisco), 66(131), Sept. 8, 1888, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
 
 [^ref11]: David Maynard and Donald Maynard, “Cucumbers, Melons, and Watermelons,” 306.
 
@@ -278,7 +278,7 @@ Today, market forces are among the chief factors that, alongside taste and tradi
 
 [^ref14]: W.R. Black, “How Watermelons Became Black,” _Journal of the Civil War Era_, 8:1 (2018): 64–86.
 
-[^ref15]: Detroit Free Press, “The Influence of the Watermelon,” St Louis Globe-Democrat, 6(93), Aug. 21, 1880, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
+[^ref15]: _Detroit Free Press_, “The Influence of the Watermelon,” _St. Louis Globe-Democrat_, 6(93), Aug. 21, 1880, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
 
 [^ref16]: Cynthia Greenlee, “On eating watermelon in front of white people: ‘I’m not as free as I thought,’” _Vox_, Aug. 29, 2019, accessed July 23, 2020. [Click here for full article.](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people)
 
