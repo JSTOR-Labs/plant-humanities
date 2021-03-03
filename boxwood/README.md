@@ -239,11 +239,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref12]: Giovan Vettorio Soderini, _Opere_, III:254, 255; Girolamo Firenzuola, “La grande arte della agricoltura,” 304. Cf. Claudia Lazzaro, _The Italian Renaissance Garden: From the Conventions of Planting, Design, and Ornament to the Grand Gardens of Sixteenth-Century Italy_ (New Haven and London: Yale University Press, 1990), 26, 291–2n.17.
 
-[^ref13]: Giovan Vettorio Soderini, _Opere_, III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32. [Click here for full book.](https://books.google.nl/books?id=Ba31fJHShy4C&hl=nl&source=gbs_navlinks_s)
+[^ref13]: Giovan Vettorio Soderini, _Opere_, III:295, 303, 343; Bernardo Davanzati, _Toscana coltivazione delle viti e delli arbori_ (Florence: Giunti, 1622), 32. [Click here for full book.](https://books.google.com/books?id=Ba31fJHShy4C)
 
 [^ref14]: Giovan Vettorio Soderini, _Opere_, III:255.
 
-[^ref15]: Pietro Andrea Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion. [Click here for full book.](https://www.biodiversitylibrary.org/page/50764445) Cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–40. [Click here for full book.](https://books.google.nl/books?id=XsLsBIcSywYC&hl=nl&source=gbs_navlinks_s)
+[^ref15]: Pietro Andrea Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion. [Click here for full book.](https://www.biodiversitylibrary.org/page/50764445) Cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–40. [Click here for full book.](https://books.google.com/books?id=XsLsBIcSywYC)
 
 [^ref16]: John Parkinson, _Paradisi in sole_, 606; John Gerard, _Herball_, 1225.
 
@@ -255,19 +255,19 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref20]: John Gerard, _Herball_, 1225.
 
-[^ref21]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529. [Click here for full book;](https://books.google.nl/books?id=R_daAAAAQAAJ&hl=nl&source=gbs_navlinks_s) Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66. [Click here for full book.](https://www.biodiversitylibrary.org/page/58766636)
+[^ref21]: Olivier de Serres, _Théatre d’agriculture_ (Paris: Saugrain, 1617), 506, 529. [Click here for full book;](https://books.google.com/books?id=R_daAAAAQAAJ) Jacques Boyceau, _Traite du jardinage_ (Paris: Vanlochom, 1638), 66. [Click here for full book.](https://www.biodiversitylibrary.org/page/58766636)
 
 [^ref22]: Olivier de Serres, _Théatre d’agriculture_, 506, 529.
 
 [^ref23]: Olivier de Serres, _Théatre d’agriculture_, 529.
 
-[^ref24]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201–2. [Click here for full book.](https://books.google.nl/books?id=YCdAAAAAcAAJ&hl=nl&source=gbs_navlinks_s)
+[^ref24]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201–2. [Click here for full book.](https://books.google.com/books?id=YCdAAAAAcAAJ)
 
 [^ref25]: Claude Mollet, _Théatre des jardinage_, 202–3.
 
 [^ref26]: Claude Mollet, _Théatre des jardinage_, 203.
 
-[^ref27]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797). [Click here for full book;](https://books.google.nl/books?id=CTwNAAAAYAAJ&hl=nl&source=gbs_navlinks_s) Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and _passim._ [Click here for full book.](https://www.biodiversitylibrary.org/page/51132642)
+[^ref27]: Marco Lastri and Giuseppe Del Rosso, _L’Osservatore fiorentino sugli edifizj della sua patria_ (Florence: Ricci, 1821), III:106 (orig. ed. 1797). [Click here for full book;](https://books.google.com/books?id=CTwNAAAAYAAJ) Edith Wharton, _Italian villas and their gardens_ (New York: The Century Co., 1904), 13 and _passim._ [Click here for full book.](https://www.biodiversitylibrary.org/page/51132642)
 
 [^ref28]: Edith Wharton, _A backward glance_ (New York, London: D. Appleton-Century Company, 1934), 130.
 
