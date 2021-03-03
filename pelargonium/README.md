@@ -139,10 +139,10 @@ The pelargonium, in all its many splendid aesthetic and aromatic varieties, was 
 ### The “Genteel” Geranium and Working-class Culture
 
 <param ve-entity eid="Q655213" title="Leigh Hunt">
-<param ve-entity eid="Q5045123" title="Caroline Kirkland">
-The ubiquity of the _Pelargonium_ in the Victorian era soon began to carry a cultural significance all its own—and it was not always a positive one. In the 1864 [_The Book of Flowers_,](https://www.biodiversitylibrary.org/page/56679001) Caroline M. Kirkland follows the poet Leigh Hunt in describing the geranium (of course, really a pelargonium) as a genteel plant.[^ref24] She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel.”[^ref25] Although we may construe her comment as merely an attestation to the pelargonium’s universal charms, her use of “genteel” takes on additional meaning when we consider the significance of the pelargonium in the context of working-class culture.
-<param ve-image primary region="-207,530,2077,1666" url="https://ia802903.us.archive.org/BookReader/BookReaderImages.php?id=bookofflowers00kirk&itemPath=%2F7%2Fitems%2Fbookofflowers00kirk&server=ia802903.us.archive.org&page=n89_w1012" title="Illustration of a pelargonium, Caroline M. Kirkland, _The Book of Flowers_, London: Saunders and Otley, 18--, University of Toronto, Biodiversity Heritage Library.">
-<param ve-image primary region="-104,407,1040,835" url="bookofflowers00kirk_0091-standard-scale-2_00x-gigapixel.jpg" title="“Geranium,” Caroline M. Kirkland, _The Book of Flowers_, London: Saunders and Otley, 18--, University of Toronto, Biodiversity Heritage Library.">
+<param ve-entity eid="Q430639" title="Sarah Josepha Hale">
+The ubiquity of the _Pelargonium_ in the Victorian era soon began to carry a cultural significance all its own—and it was not always a positive one. In the 1864 [_The Book of Flowers_,](https://www.biodiversitylibrary.org/page/56679001) Sarah Josepha Hale follows the poet Leigh Hunt in describing the geranium (of course, really a pelargonium) as a genteel plant.[^ref24] She writes, “As the Geranium offers so large a variety of species to gratify every taste, it is appropriately called genteel.”[^ref25] Although we may construe her comment as merely an attestation to the pelargonium’s universal charms, her use of “genteel” takes on additional meaning when we consider the significance of the pelargonium in the context of working-class culture.
+<param ve-image primary region="-207,530,2077,1666" url="https://ia802903.us.archive.org/BookReader/BookReaderImages.php?id=bookofflowers00kirk&itemPath=%2F7%2Fitems%2Fbookofflowers00kirk&server=ia802903.us.archive.org&page=n89_w1012" title="Illustration of a pelargonium, Sarah Josepha Buell Hale, _The Book of Flowers_, London: Saunders and Otley, 1836, University of Toronto, Biodiversity Heritage Library.">
+<param ve-image primary region="-104,407,1040,835" url="bookofflowers00kirk_0091-standard-scale-2_00x-gigapixel.jpg" title="“Geranium,” Sarah Josepha Buell Hale, _The Book of Flowers_, London: Saunders and Otley, 1836, University of Toronto, Biodiversity Heritage Library.">
 {#paragraph15}
 
 <param ve-entity eid="Q452354" title="Gertrude Jekyll">
@@ -239,9 +239,9 @@ Although the _Pelargonium_ by any other name would smell as sweet, excepting tho
 
 [^ref23]: Donald McDonald, _Sweet-Scented Flowers and Fragrant Leaves, Interesting Associations Gathered from Many Sources, with Notes on their History and Utility_ (New York: Charles Scribner’s Sons, 1895), 93, accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/43140016](https://www.biodiversitylibrary.org/page/43140016)
 
-[^ref24]: Caroline M. Kirkland, _The Book of Flowers_ (London: Saunders and Otley, 18–), accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/56679001](https://www.biodiversitylibrary.org/page/56679001)
+[^ref24]: Sarah Josepha Buell Hale, _The Book of Flowers_ (London: Saunders and Otley, 1836), accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/56679001](https://www.biodiversitylibrary.org/page/56679001)
 
-[^ref25]: Caroline M. Kirkland, _The Book of Flowers_, 73.
+[^ref25]: Sarah Josepha Buell Hale, _The Book of Flowers_, 73.
 
 [^ref26]: Gertrude Jekyll, _Colour Schemes for the Flower Garden_, 4th ed. (London: Country Life, 1919), 81, accessed January 20, 2021, [https://www.biodiversitylibrary.org/page/41413514](https://www.biodiversitylibrary.org/page/41413514)
 
