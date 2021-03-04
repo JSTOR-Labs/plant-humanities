@@ -124,8 +124,8 @@ European travelers also described the process of making cassava into fermented b
 {#paragraph14}
 
 Even today, many Indigenous Peoples in Meso- and South America still follow these recipes for fermented cassava beverages that were established by their ancestors and recorded by European travelers. In addition to such descriptions in travel writings, knowledge of cassava also entered other eighteenth-century European texts, such encyclopedias, and informed various fields of knowledge production, from baking and chemistry to agriculture.[^ref23]
-<param ve-image primary region="-189,-10,812,750" manifest="https://iiif-v2.visual-essays.app/manifest/ed091daba412388f225a5493d11ae6d040785542427478321ea587bb36f29b40">
-<param ve-image region="-48,345,978,849" manifest="https://iiif.wellcomecollection.org/image/V0044465.jpg/full/880%2C/0/default.jpg">
+<param ve-image primary fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/ed091daba412388f225a5493d11ae6d040785542427478321ea587bb36f29b40">
+<param ve-image region="-48,345,978,849" url="https://iiif.wellcomecollection.org/image/V0044465.jpg/full/880%2C/0/default.jpg" title="Charles Theodore Middleton, _Workers preparing cakes from manioc root in the tropics, with decorative border_, ca. 1777, engraving, 28.7 x 17 cm (platemark)" attribution="Wellcome Library, CC BY 4.0">
 {#paragraph15}
 
 ### Cassava in Circulation
