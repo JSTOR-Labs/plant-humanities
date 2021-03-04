@@ -1,5 +1,5 @@
 <param ve-config
-	  title="Arbor Vitae - Thuja occidentalis"
+	  title="Arbor Vitae: In Search of the Tree of Life"
 	  source-image="https://upload.wikimedia.org/wikipedia/commons/6/67/Neuch%C3%A2tel_Herbarium_-_Thuja_occidentalis_-_NEU000099701.jpg"
 	  banner="https://jstor-labs.github.io/plant-humanities/images/banners/arbor-vitae.jpg"
 	  layout="vtl"
