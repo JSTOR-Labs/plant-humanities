@@ -73,7 +73,7 @@ The Guanches used dragon’s blood for a variety of purposes, ranging from embal
 
 ### From Herbals to Enlightenment Science
 
-After decades of violent attacks against the Guanches, Spanish conquistadors vanquished the last of the Canary Islands in 1496. The Guanche language soon disappeared, with the exception of their distinct whistling language, known as Silbo Gomero <param ve-audio url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/media/Silbo%20(online-audio-converter.com).mp3">. Due to the traditional Western preference for written records rather than oral histories, much of what we now know of pre-Columbian culture on the Canaries comes from European colonial interlocutors.
+After decades of violent attacks against the Guanches, Spanish conquistadors vanquished the last of the Canary Islands in 1496. The Guanche language soon disappeared, with the exception of their distinct whistling language, known as Silbo Gomero. Due to the traditional Western preference for written records rather than oral histories, much of what we now know of pre-Columbian culture on the Canaries comes from European colonial interlocutors.
 <param title="Silbo Gomero language" eid="Q415" aliases="Silbo Gomero">
 <param ve-video
 	vid="C0CIRCjoICA"
@@ -101,8 +101,7 @@ After European colonization, and along with the integration of the Canaries into
 	manifest="https://iiif-v2.visual-essays.app/manifest/3aeb52c3ba4fe79c960ad6cc06b72422126538865f20a1fe5319d008a84a693b"
 	region="179,832,3158,2303">
 <param ve-image
-	title="Between 1799 and 1804, Alexander von Humboldt visited the Canary Islands, Venezuela, Cuba, Peru, Ecuador, Mexico, and the United States."
-	url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Map_Alexander_von_Humboldt_expedition-en.svg/2844px-Map_Alexander_von_Humboldt_expedition-en.svg.png"
+	manifest="https://iiif-v2.visual-essays.app/manifest/663749f69e87185ec74e66477e76a24e59d82a9ff68f552915a1f18b016da69e"
 	fit="contain">
 <param ve-image
 	manifest="https://iiif-v2.visual-essays.app/manifest/17656b19ab04f4a5f2d65dbad60ad9de910b52b5cb9624d5e12a1426c6e7fe98">
@@ -121,8 +120,7 @@ Humboldt was not the only naturalist of his time attracted to the remarkable cen
 <param title="André Pierre Ledru" eid="Q2848440">
 <param title="Anthropocene" eid="Q26841">
 <param ve-image
-	title="A _Dracaena draco_ on a mountainside overlooking a twenty-first century industrial agriculture compound near Cenbio de Valerón, Gran Canaria, Spain. Photo taken by Thomas C. Anderson, July 2019."
-	url="clone-stamp-craze.jpg">
+	manifest="https://iiif.lib.harvard.edu/manifests/ids:459304936">
 {#paragraph10}
 
 As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_,](https://archive.org/details/voyageauxlesdet00sonngoog/page/n135/mode/2up) which drew on observations he made during his trip to the Isles of Fortune some 14 years earlier: “In days gone by, the resin that one extracts from the dragon tree was an important object of commerce for Teneriffe; but since the locals have neglected to replace the old trees that were worn out by too-frequent tapping (of the resin) with young plantations, this source will soon be exhausted. There exist perhaps less than fifty dragon trees left on the island.”[^ref13] This gradual, yet persistent, degradation of the _D. draco_ population was not solely due to Guanche overcultivation, as Spanish colonizers inflicted profound ecological changes upon the islands when they razed and destroyed large swaths of forests during their conquest and settlement of the Canaries three centuries earlier.[^ref14] Modern ecologists attribute the dragon tree’s decline to the disappearance of seed dispersers in the Canary Islands over the past centuries, potentially refuting Ledru’s assertion that _D. draco_’s deterioration was due to irresponsible Guanche farming practices.[^ref15]
@@ -150,8 +148,7 @@ Due to its near-extinction in the wild, _D. draco_ is officially designated as a
 <param title="International Union for Conservation of Nature" eid="Q48268">
 <param title="Red List of Threatened Species" eid="Q32059">
 <param ve-image
-	title="Dragon’s blood seeping from a tree."
-	url="https://free.iiifhosting.com/iiif/31fb222aa31e439323c29d61cb363d5c897b02d8cde694ff946f0f6adbb00ad/info.json">
+	manifest="https://iiif-v2.visual-essays.app/manifest/ed823f13e24b018dfe32485bd64bab546d6f4fea8862bafa81118a1c4135cdb8">
 {#paragraph15}
 
 ### References
