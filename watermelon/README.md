@@ -248,7 +248,7 @@ Today, market forces are among the chief factors that, alongside taste and tradi
 
 [^ref13]: Notes Collector, accessed Feb. 22, 2021, [https://notescollector.eu/pages/en/notes.php?noteId=1394](https://notescollector.eu/pages/en/notes.php?noteId=1394)
 
-[^ref14]: W.R. Black, “How Watermelons Became Black,” _Journal of the Civil War Era_, 8:1 (2018): 64–86.
+[^ref14]: W.R. Black, “How Watermelons Became Black,” _Journal of the Civil War Era_ 8, no. (2018): 64–86.
 
 [^ref15]: _Detroit Free Press_, “The Influence of the Watermelon,” _St. Louis Globe-Democrat_, 6(93), Aug. 21, 1880, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
 
