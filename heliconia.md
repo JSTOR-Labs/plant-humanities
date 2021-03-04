@@ -28,7 +28,7 @@ The genus _Heliconia_ was named after Mount Helicon—in Greek mythology, the ho
 <param ve-entity eid="Q2667306" title="Heliconia psittacorum">
 <param ve-entity eid="Q15250028" title="Heliconia metallica">
 Heliconias became an object of desire for gardeners as soon as they left their natural habitats. Several species, including _Heliconia psittacorum_, [_Heliconia bihai_,](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:796925-1) and _Heliconia metallica_, have been cultivated as ornamentals since the 1700s. They were carried around the world by horticulturalists and today they are found in many botanical gardens from Europe to Asia to the Pacific.
-<param ve-image region="-790,-86,4446,4174" manifest="https://iiif-v2.visual-essays.app/manifest/9e2150175720dd19ebdd668211e7d131911455bde0239f87a7facf760e697cfa">
+<param ve-image region="-358,542,3580,3361" manifest="https://iiif-v2.visual-essays.app/manifest/9e2150175720dd19ebdd668211e7d131911455bde0239f87a7facf760e697cfa">
 {#paragraph3}
 
 <param ve-entity eid="Q2269599" title="Curtis's Botanical Magazine" aliases="The Botanical Magazine">
