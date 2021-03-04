@@ -39,7 +39,7 @@
 ![](/images/thumbnails/Banana.jpg)
 
 
-# All Essays
+# All Visual Narratives
 
 ##
 [**Agave: A Plant with an Intoxicating History**](/Agave)
