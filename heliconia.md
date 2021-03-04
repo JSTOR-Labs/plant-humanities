@@ -131,7 +131,7 @@ Our understanding of the diversity and ecology of heliconias has grown tremendou
 
 ### References
 
-<param ve-image primary fit="contain" url="https://ia800500.us.archive.org/BookReader/BookReaderImages.php?id=monographTrochi2Goul&itemPath=%2F12%2Fitems%2FmonographTrochi2Goul&server=ia800500.us.archive.org&page=n285_w1713">
+<param ve-image primary region="327,727,1072,1029" url="https://ia800500.us.archive.org/BookReader/BookReaderImages.php?id=monographTrochi2Goul&itemPath=%2F12%2Fitems%2FmonographTrochi2Goul&server=ia800500.us.archive.org&page=n285_w1713">
 
 Altshuler, Douglas L. and Christopher James Clark.  “Darwin’s Hummingbirds.” _Science_ 300 (2003): 588-589. _JSTOR_, [www.jstor.org/stable/3834345,](https://www.jstor.org/stable/3834345) accessed 1 June 2020.
 
