@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config
-       title="A Pelargonium by Any Other Name Would Smell as Sweet…"
+       title="Pelargonium: By Any Other Name Would Smell as Sweet?"
        author="Daisy Reid, Verónica Matallana Chaves, Yao Jiang"
        source-image="blob:null/350ec559-ab4d-204b-ad69-901393a2d9adhttps://www.biodiversitylibrary.org/item/53838#page/149/mode/1up"
        banner="https://ids.lib.harvard.edu/ids/iiif/435776338/full/full/0/default.jpg"
