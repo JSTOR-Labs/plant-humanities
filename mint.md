@@ -1,5 +1,5 @@
 <param ve-config 
-       title="The ubiquity of mint" 
+       title="Mint: The Ubiquity of a Commercial Crop" 
        source-image="https://upload.wikimedia.org/wikipedia/commons/b/b4/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814764048982%29.jpg"
        banner="https://jstor-labs.github.io/plant-humanities/images/banners/mint.jpg"
        layout="vtl"
