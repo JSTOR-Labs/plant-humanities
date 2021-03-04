@@ -103,7 +103,7 @@ Although the Caribbean is not considered cassava’s native habitat, the plant w
 <param title="Hans Sloane" eid="Q310326">
 Merian’s book exemplifies how knowledge accumulated and circulated through Europe, drawing on earlier texts that were in turn referenced in later publications. Her entry on cassava, for example, refers to English naturalist Hans Sloane’s (1660–1753) [catalogue of Jamaican plants.](https://bibdigital.rjb.csic.es/records/item/14358-redirection) Merian’s illustrations, which were based on keen in-situ observations, were disseminated by other artists who made copies of her work. As works by an accomplished artist, Merian’s books were published in various editions and widely circulated, ensuring a broad transmission of her botanical knowledge.[^ref17]
 <param ve-image primary region="-18,-330,4579,6613" manifest="https://iiif.lib.harvard.edu/manifests/drs:481769537" seq="15">
-<param ve-image region="-18,-330,4579,6613" manifest="https://iiif.lib.harvard.edu/manifests/drs:481769537" seq="17">
+<param ve-image region="416,2062,3576,3307" manifest="https://iiif.lib.harvard.edu/manifests/drs:481769537" seq="17">
 {#paragraph12}
 
 In her book, Merian describes cassava root as the ingredient for cassava bread that was a common food among both the Indigenous Peoples and Europeans living in the American colonies by this time.[^ref18] Descriptions of cassava bread recur in other European texts, praising its value as a food source in the colonies as well as a provision for sea voyages.[^ref19] The original method of making cassava flour practiced by the Indigenous Peoples of South America, as well as variant methods used later on the African continent, can be found in these European texts.
