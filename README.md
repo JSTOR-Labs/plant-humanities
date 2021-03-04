@@ -4,8 +4,7 @@
 # Featured
 
 ##
-[**Cacao: **](/cacao)
-An Indigenous Network and Global Commodity 
+[Cacao:An Indigenous Network and Global Commodity](/cacao)
 
 - author: Rebecca Friedel
 
