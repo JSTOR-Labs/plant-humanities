@@ -63,6 +63,7 @@ The Moche ceramic contains further clues as to early Andean understanding of cas
 
 <param title="cyanogenic glycoside" eid="Q8964351" aliases="cyanogenic glycosides">
 <param title="chicha" eid="Q516592">
+<param title="casabe de yuca" eid="Q61998616">
 While storing cassava in the soil addresses the issue of perishability, additional steps need to be taken to ensure that its roots can be safely eaten upon harvesting. In the Amazon, cassava is popularly divided into two major types—sweet and bitter—depending on the level of toxicity. Sweet cassava can be eaten simply by peeling and boiling it. Bitter cassava must be processed using a specific method before being safely consumed.[^ref8] The danger lies in cyanogenic glucosides, the amount of which varies depending on the type of cassava, the climate, and the season in which it is cultivated.[^ref9] Women in Meso- and South America are primarily responsible for the processing of cassava and transforming the poisonous plant into flour for _casaba_, or cassava bread, and into a fermented beverage known as _chicha_. It is a multi-step process that includes washing and grating the cassava root, mashing it into a pulp, then hanging, dehydrating, and finally baking the dried pulp on a hot surface.[^ref10]
 <param ve-image manifest="https://www.wdl.org/en/item/9017/iiif/manifest.json" title="Manuel María Paz, _Saliva Indian Women Making Cassava Bread, Province of Casanare_, 1856" attribute="National Library of Columbia, World Digital Library">
 {#paragraph7}
@@ -75,7 +76,7 @@ Some of the implements used for processing cassava include [graters, strainers o
 
 <param title="Tucanoan languages" eid="Q788144" aliases="Tukanoans">
 Despite the amount of work required to process cassava with high levels of cyanide, bitter cassava is more popularly cultivated than sweet cassava in the Amazon today. The indigenous Tukanoans of the Yapu village in the northern Amazon, for example, grow 100  different types of cassava, 98 of which are bitter.[^ref13] Archaeologist Warren Wilson and anthropologist Darna Dufour have demonstrated that bitter cassava yields a higher harvest than does its sweet counterpart, possibly due to its resistance to disease and insects.[^ref14] It is perhaps for this reason that bitter cassava is favored as a food crop over sweet cassava, despite the additional processing to render it edible.
-<param ve-image primary region="-125,82,1250,1113" url="http://sammlungen.ub.uni-frankfurt.de/panhuys/image/view/4989873?w=1000" title="Louise von Panhuys, _Bitter Poisonous Manioc, Cassava_ (_Bittere giftige Maniok, Cassava_), 1816, watercolor, color pencil, 67.9 x 48.4 cm, Universitätsbibliothek, Frankfurt am Main.">
+<param ve-image primary region="-100,64,1000,897" url="http://sammlungen.ub.uni-frankfurt.de/panhuys/image/view/4989873?w=1000" title="Louise von Panhuys, _Bitter Poisonous Manioc, Cassava_ (_Bittere giftige Maniok, Cassava_), 1816, watercolor, color pencil, 67.9 x 48.4 cm, Universitätsbibliothek, Frankfurt am Main.">
 <param ve-image fit="contain" url="http://sammlungen.ub.uni-frankfurt.de/panhuys/image/view/4989868?w=1000" title="Louise von Panhuys, _Sweet Cassava_ (_Süßer Maniok, Cassava_), 1816, watercolor, color pencil, 68.3 x 48.5 cm, Universitätsbibliothek, Frankfurt am Main.">
 {#paragraph9}
 
