@@ -1,5 +1,5 @@
 <param ve-config
-       title="Turmeric: The “Herb of the Sun”"
+       title="Turmeric: Herb of the Sun"
 	   source-image="https://images.nypl.org/index.php?id=1126115&t=w"
 	   banner="https://images.nypl.org/index.php?id=1126115&t=w"
 	   layout="vtl"
