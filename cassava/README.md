@@ -102,12 +102,12 @@ Although the Caribbean is not considered cassava’s native habitat, the plant w
 
 <param title="Hans Sloane" eid="Q310326">
 Merian’s book exemplifies how knowledge accumulated and circulated through Europe, drawing on earlier texts that were in turn referenced in later publications. Her entry on cassava, for example, refers to English naturalist Hans Sloane’s (1660–1753) [catalogue of Jamaican plants.](https://bibdigital.rjb.csic.es/records/item/14358-redirection) Merian’s illustrations, which were based on keen in-situ observations, were disseminated by other artists who made copies of her work. As works by an accomplished artist, Merian’s books were published in various editions and widely circulated, ensuring a broad transmission of her botanical knowledge.[^ref17]
-<param ve-image primary region="-567,352,5678,5251" manifest="https://iiif.lib.harvard.edu/manifests/drs:481769537">
-<param ve-image region="-557,398,5578,5158" manifest="https://iiif.lib.harvard.edu/manifests/drs:481769537">
+<param ve-image primary region="-18,-330,4579,6613" manifest="https://iiif.lib.harvard.edu/manifests/drs:481769537" seq="15">
+<param ve-image region="-18,-330,4579,6613" manifest="https://iiif.lib.harvard.edu/manifests/drs:481769537" seq="17">
 {#paragraph12}
 
 In her book, Merian describes cassava root as the ingredient for cassava bread that was a common food among both the Indigenous Peoples and Europeans living in the American colonies by this time.[^ref18] Descriptions of cassava bread recur in other European texts, praising its value as a food source in the colonies as well as a provision for sea voyages.[^ref19] The original method of making cassava flour practiced by the Indigenous Peoples of South America, as well as variant methods used later on the African continent, can be found in these European texts.
-<param ve-image primary region="1,1292,2865,2441" manifest="https://iiif.lib.harvard.edu/manifests/drs:481769537">
+<param ve-image primary region="542,1729,1489,1114" manifest="https://iiif.lib.harvard.edu/manifests/drs:481769537" seq="153">
 <param ve-image region="-87,133,878,748" manifest="https://iiif-v2.visual-essays.app/manifest/429c2cb183fc51f05c29735522abace18f988da7d7936e2f4fe264f9b58efd32">
 <param ve-image region="-87,119,878,748" manifest="https://iiif-v2.visual-essays.app/manifest/e8abab40512eaeb64a0c5c20ca5d8a3679cdc2eac9b07e5da74041484cd71019">
 {#paragraph13}
