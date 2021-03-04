@@ -5,7 +5,7 @@
     "acct": "JSTOR-Labs",
     "repo": "plant-humanities",
     "ref": "main",
-    "gaTrackingID": "261846638",
+    "gaTrackingID": "UA-125778965-6",
     "components": [
         {"name": "siteFooter", "src": "/components/Footer.vue"}
     ],
