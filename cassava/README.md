@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config
-	title="Cultivating Cassava: From Toxic Tuber to Staple Starch"
+	title="Cassava: From Toxic Tuber to Food Staple"
 	banner="Cassava_tuber_Chapman_Flickr.jpg"
 	attribute="Tuber of Manioc or Cassava (Manihot esculenta) in the Port Vila Markets, Efate Island, Vanuatu, 
 Arthur Chapman, March 17, 2011, Flickr, CC BY-NC-SA 2.0"
