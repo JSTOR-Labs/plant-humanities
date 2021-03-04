@@ -1,5 +1,5 @@
 <param ve-config
-	title="Carolina Rice: An Imperial Gold Rush? "
+	title="Carolina Rice: An Agricultural Legacy of Enslaved Peoples"
        source-image="https://images.nypl.org/index.php?id=G92F023_016F&t=w"
        banner="https://images.nypl.org/index.php?id=G92F023_016F&t=w"
        layout="vtl"
