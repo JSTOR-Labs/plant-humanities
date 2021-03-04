@@ -70,10 +70,8 @@ In Africa’s arid savanna regions, watermelons were originally welcomed as sour
 
 Watermelon-like fruit were referenced in ancient Greek and Roman texts using a variety of terms including pepon, melopepon, and kolokynte, suggesting that these plants proliferated in the Mediterranean region during antiquity.[^ref7] At that time, they were still likely to have sturdy and pale flesh—not quite as red and soft as it is today. Pliny the Elder dedicated a section of his _Naturalis Historia_ to _pepones_, which, he wrote, made a very refreshing food, but also had a laxative effect. Various parts of the fruit were used to alleviate pain, induce vomiting, and even cleanse the skin and clear spots.[^ref8]
 <param ve-image
-	title="Watermelon in the Carrara Herbal."
-	url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Carrara_Herbal21.jpg"
-	region="0,636,999,729"
-	attribution="British Library. Egerton MS 2020">
+	manifest="https://iiif.lib.harvard.edu/manifests/drs:459932907"
+	region="0,636,999,729">
 <param ve-image
 	manifest="https://iiif-v2.visual-essays.app/manifest/493307823a0f48a9bd70d5b9f4c25ad72af22a59429c0a74fba7d858c1c1769e"
 	fit="contain">
@@ -92,9 +90,7 @@ Watermelons were cultivated in Spain after the Arab conquest, with evidence of t
 
 In fact, centuries later, in 1888, watermelons were still being promoted as a face cleanser in U.S. newspapers. A certain Miss Carrie Townsend from St. Louis, Missouri, recommended them to girls with freckles who looked “as if they had been about when a bran bin had exploded,” claiming that no matter what was wrong with the face, the juice of the watermelon would rectify it.[^ref10] Although perhaps not quite as powerful as Miss Townsend suggests, watermelon-based treatments are re-emerging as a natural skin cleanser today, including West African kalahari or ootanga oil that is traditionally extracted from the fruit’s seeds.
 <param ve-image
-	title="tba"
-	manifest="https://iiif.lib.harvard.edu/manifests/ids:20430850"
-	attribution="">
+	manifest="https://iiif.lib.harvard.edu/manifests/ids:20430850">
 {#paragraph6}
 
 ### Watermelons in Art around the World
@@ -113,7 +109,7 @@ By the ninth and twelfth centuries, watermelons had spread, respectively, to Ind
 	manifest="https://iiif-v2.visual-essays.app/manifest/f6d42910f387363ba7c8158829f2a7bfbed2b2d696654f6b69d547d853eac3bb"
 	fit="contain">
 <param ve-image
-	manifest="https://iiif.harvardartmuseums.org/manifests/object/200903"
+	manifest="https://iiif-v2.visual-essays.app/manifest/1ef452c41fc205d4df4f14e540a6a83630d0f032643d0eed0dfa2d05eb78b748"
 	fit="contain">
 <param ve-image
 	manifest="https://iiif-v2.visual-essays.app/manifest/ac85144b0333f51ba303108e56091158ac10ba9b3e50607519f7ca2f09167018"
@@ -128,7 +124,7 @@ As the watermelon became common in European kitchen gardens, it began to appear 
 	manifest="https://iiif-v2.visual-essays.app/manifest/a99893006030afaebe65ca7ad3d3190d6e7fcc37bf352783a7307f71e63394f8"
 	fit="contain">
 <param ve-image
-	manifest="https://iiif.harvardartmuseums.org/manifests/object/4988"
+	manifest="https://iiif-v2.visual-essays.app/manifest/571b2763004fcd721fbda845d7021984108f185cbc5952b31d7ae66d8ecb3d88"
 	region="45,108,2088,1544">
 {#paragraph8}
 
@@ -182,10 +178,8 @@ Stories of watermelon theft contributed to the perception of Black criminality f
 
 The racist notion that watermelon consumption revealed unhealthy habits of African Americans was not an isolated phenomenon: it was paralleled by nineteenth-century associations between watermelon and disease. There was a common belief that eating too much watermelon, especially when overripe, could lead to cholera, which led some cities in the United States to ban the fruit’s sale during epidemics, with watermelons being referred to as “cholera bombshells.”[^ref17] While it is unclear whether these direct causal connections between watermelons and disease were accurate, contemporary evidence has shown that raw fruits and vegetables can be a frequent source of cholera infection, especially if fields where they grew had been fertilized with uncomposted manure or irrigated with contaminated water. While the role of watermelons as opposed to other types of fruit in transmitting cholera in the United States was almost certainly exaggerated to serve racial narratives, similar associations were common in other parts of the world.
 <param ve-image
-	title="1849 Cholera prevention poster by the Sanatory Committee, under the sanction of the Medical Counsel, in New York City, published between c. 1830 and c. 1840."
-	url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Cholera_395.1.jpg"
-	fit="contain"
-	attribution="Wikimedia Commons">
+	manifest="https://iiif-v2.visual-essays.app/manifest/9ccb0892a0b8dfd06d35f2ab1896918f7af641d4bfd80582e5edc5d5a39ecb67"
+	fit="contain">
 {#paragraph13}
 
 At the turn of the twentieth century, for instance, British mine owners in Korea [banned watermelons](http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html) from their workers’ camps to prevent outbreaks of cholera. The logic behind this decision seemed to be based on the “immense quantities” of watermelons consumed by Korean workers, including the rind (probably the white pith, which was considered good for indigestion). The racialized attitudes toward over-indulging in certain types of food were joined here by the moralizing of disease. The campaign was effective in preventing cholera, but it is unclear if its success was due to the watermelon ban.[^ref18] Similarly, posters from the Soviet Union during a cholera epidemic that lasted into the early 1920s used watermelons to illustrate how poor hygiene could lead to disease, from drinking unboiled water to eating unwashed fruit.
@@ -206,18 +200,14 @@ The intensified commodification of the watermelon during the twentieth and espec
 
 Another major transformation is the success of seedless cultivars. The commercial production of seedless watermelons began in the 1990s using colchicine—a chemical derived from the seeds of crocuses—to produce a sterile seedless hybrid, crossbred to have three sets of chromosomes instead of two.[^ref21] While such cultivars now dominate the market, their hybridized sterility presents new ecological challenges. Watermelon plants are bee-pollinated, and since the insects that forage in seedless watermelon plantings carry a mixture of viable and non-viable pollen, more bees are required for effective pollination. Without that, watermelons may grow with a [“hollow heart”](https://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings)—cracks and spaces within the fruit—and cannot be sold. Watermelon farmers in the United States have turned to renting bees to meet such pollination needs, especially following the decline of the wild bee population from mass colony collapse disorder in recent years. Yet there is increasing evidence that the transportation of bees for such purposes puts significant stress on their colonies due to changes in temperature and humidity,[^ref22] the market demand for convenience thus coming at a considerable ecological cost.[^ref23]
 <param ve-image
-	title="Varieties of watermelons."
-	url="https://upload.wikimedia.org/wikipedia/commons/4/48/Yangzhou_-_supermarket_-_watermelons_-_P1070029.JPG"
-	region="367,109,1868,1382"
-	attribution="Wikimedia Commons">
+	manifest="https://iiif-v2.visual-essays.app/manifest/61e3ceac1421da39d9bfa9cbf6616c8f25fc22b920ee4dbb2baab1cdcc18d75b"
+	region="367,109,1868,1382">
 {#paragraph16}
 
 Today, market forces are among the chief factors that, alongside taste and tradition, continue to determine the watermelon’s transformation since its origin as a small bitter crop. The sweet red flesh that we enjoy bears witness to a range of cultural and historical meanings accumulated throughout the fruit’s rich history.
 <param ve-image
-	title=""
 	manifest="https://iiif.lib.harvard.edu/manifests/ids:1486001"
-	fit="contain"
-	attribution="">
+	fit="contain">
 {#paragraph17}
 
 ### References
