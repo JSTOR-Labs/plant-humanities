@@ -119,7 +119,7 @@
 ![](/images/thumbnails/mint.jpg) 
 
 ##
-[**Heliconia: Plant-Pollinator Interactions Reveal Evolution at Work**](/heliconia)
+[**Heliconia: Evolution at Work**](/heliconia)
 
 - authors: John Kress and Yota Batsaki
 
