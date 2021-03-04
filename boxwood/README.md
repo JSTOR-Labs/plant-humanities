@@ -243,11 +243,11 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref14]: Giovan Vettorio Soderini, _Opere_, III:255.
 
-[^ref15]: Pietro Andrea Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion. [Click here for full book.](https://www.biodiversitylibrary.org/page/50764445) Cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–40. [Click here for full book.](https://books.google.com/books?id=XsLsBIcSywYC)
+[^ref15]: Pietro Andrea Mattioli, _Discorsi_, 138; John Parkinson, _Paradisi in sole paradisus terrestris_ (London: Lownes and Young, 1629), 606, reporting the same opinion. [Click here for full book.](https://www.biodiversitylibrary.org/page/50764445) Cf. Amato Lusitano, _Curationem medicinaliam centuriae septem_ (Bordeaux: Vernot, 1620), 639–640. [Click here for full book.](https://books.google.com/books?id=XsLsBIcSywYC)
 
 [^ref16]: John Parkinson, _Paradisi in sole_, 606; John Gerard, _Herball_, 1225.
 
-[^ref17]: Pietro Andrea Mattioli, _Discorsi_, 138; cf. John Parkinson, _Paradisi in sole_, 606–7.
+[^ref17]: Pietro Andrea Mattioli, _Discorsi_, 138; cf. John Parkinson, _Paradisi in sole_, 606–607.
 
 [^ref18]: Giovan Vettorio Soderini, _Opere_, I:182.
 
@@ -261,9 +261,9 @@ Deeply invested with cultural symbolism, boxwood represents the rich legacy of t
 
 [^ref23]: Olivier de Serres, _Théatre d’agriculture_, 529.
 
-[^ref24]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201–2. [Click here for full book.](https://books.google.com/books?id=YCdAAAAAcAAJ)
+[^ref24]: Claude Mollet, _Théatre des jardinage_ (Paris: De Sercy, 1663), 201–202. [Click here for full book.](https://books.google.com/books?id=YCdAAAAAcAAJ)
 
-[^ref25]: Claude Mollet, _Théatre des jardinage_, 202–3.
+[^ref25]: Claude Mollet, _Théatre des jardinage_, 202–203.
 
 [^ref26]: Claude Mollet, _Théatre des jardinage_, 203.
 
