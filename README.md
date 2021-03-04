@@ -36,7 +36,7 @@
 
 - author: Ashley Buchanan
 
-![](/images/thumbnails/banana.png)
+![](/images/thumbnails/Banana.jpg)
 
 
 # All Essays
@@ -60,7 +60,7 @@
 
 - author: Ashley Buchanan
 
-![](/images/thumbnails/banana.png)
+![](/images/thumbnails/Banana.jpg)
 
 ##
 [**Boxwood: A Plant That Took Over the Garden World**](/boxwood)
