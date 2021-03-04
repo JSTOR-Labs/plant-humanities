@@ -252,7 +252,7 @@ Today, market forces are among the chief factors that, alongside taste and tradi
 
 [^ref1]: Mark Twain, _Pudd’nhead Wilson_ (Hartford, Conn.: American Publishing Company, 1894). 
 
-[^ref2]: Harry S. Paris, “Origin and Emergence of the Sweet Dessert Watermelon, Citrullus Lanatus,” _Annals of Botany_ 116, no. 2 (August 2015): 133–48, [DOI:10.1093/aob/mcv077;](https://doi.org/10.1093/aob/mcv077) Guillaume Chomicki and Susanne S. Renner, “Watermelon Origin Solved with Molecular Phylogenetics Including Linnaean Material: Another Example of Museomics,” _New Phytologist_ 205, no. 2 (2015): 526–32, [DOI:10.1111/nph.13163](https://doi.org/10.1111/nph.13163)
+[^ref2]: Harry S. Paris, “Origin and Emergence of the Sweet Dessert Watermelon, Citrullus Lanatus,” _Annals of Botany_ 116, no. 2 (August 2015): 133–148, [DOI:10.1093/aob/mcv077;](https://doi.org/10.1093/aob/mcv077) Guillaume Chomicki and Susanne S. Renner, “Watermelon Origin Solved with Molecular Phylogenetics Including Linnaean Material: Another Example of Museomics,” _New Phytologist_ 205, no. 2 (2015): 526–532, [DOI:10.1111/nph.13163](https://doi.org/10.1111/nph.13163)
 
 [^ref3]: Abdalbasit Adam Mariod et al., “A Comparative Study of the Properties of Six Sudanese Cucurbit Seeds and Seed Oils,” _Journal of the American Oil Chemists’ Society_ 86, no. 12 (August 20, 2009): 1181, [DOI:10.1007/s11746-009-1459-3](https://doi.org/10.1007/s11746-009-1459-3)
 
