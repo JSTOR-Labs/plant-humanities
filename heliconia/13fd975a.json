@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=heliconia/13fd975a",
-    "total": 1,
-    "modified": "2021-03-05T23:16:33.365168"
+    "total": 2,
+    "modified": "2021-03-05T23:17:04.408679"
   },
   "startIndex": 0,
   "items": [
@@ -29,6 +29,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "heliconia/13fd975a/3453578d",
       "seq": 0
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Penduncle (A) supporting basal bract (top left)",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1054.6710205078125,22.230518341064453,1490.4249267578125,1042.8212394714355"
+        },
+        "id": "heliconia/13fd975a"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "heliconia/13fd975a/c286190d",
+      "seq": 1
     }
   ]
 }
