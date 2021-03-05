@@ -80,6 +80,7 @@ Clicking the “Cite this essay” button in the essay header will launch a popu
 
 ## From a Narrative
 Clicking the “More resources” button in the essay header will launch a new window with Plant Search results for the plant discussed in that essay.
+<param ve-image fit="contain" url="more_resources.jpg">
 
 ## From the Homepage
 Enter your search on the home page. Select your language (the default is set to English) and enter your term or topic. Plant Search looks specifically for entities such as plants, people, places and subjects. As you type, topics and suggestions will appear. If no suggestions appear, there are no results for your search terms and you should try different terms.
