@@ -31,7 +31,7 @@ However, you might be surprised to learn that the scarlet “geranium” with wh
 <param ve-entity eid="Q182688" title="Victorian era" aliases="Victorian">
 <param ve-entity eid="Q6027480" title="Industrial Age">
 So how can we tell the history of the neglected pelargonium, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to narrate the lesser-known story of the pelargonium and to relate its history—from its unique morphology and nomenclature to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. Part of the larger cultural history of the pelargonium, this interdisciplinary narrative focuses on its uses in England, France, and Algeria during the nineteenth century to reveal that the modern pelargonium was an invention of the Industrial Age. Bred for use as an ornamental plant or an aromatic crop, these newfangled pelargoniums possessed aesthetic and fragrant traits tailored to Victorian sensibilities, with enduring mass appeal.
-<param ve-image primary region="-112,1,1127,975" manifest="https://iiif-v2.visual-essays.app/manifest/57360500a41905028ce59e807bcb9dcd6df1abb33e83f5bda091ccb5df620581">
+<param ve-image primary region="-112,32,1127,1033" manifest="https://iiif-v2.visual-essays.app/manifest/57360500a41905028ce59e807bcb9dcd6df1abb33e83f5bda091ccb5df620581">
 <param ve-image fit="cover" manifest="https://iiif-v2.visual-essays.app/manifest/715316cf2455d4c390f647f58f93d6d97d87ce49a08ff6617ff53be3bc02bd65">
 <param ve-image fit="cover" manifest="https://iiif-v2.visual-essays.app/manifest/cdbd97757c4113773f37cbfc018149fd90847166ba2b3333e22d92d8d65565bd">
 {#paragraph3}
@@ -178,13 +178,13 @@ The Grasse-based [Chiris perfumerie,](https://monumentum.fr/anciennes-parfumerie
 <param ve-entity eid="Q79" title="Egypt">
 <param ve-entity eid="Q148" title="People's Republic of China" aliases="China">
 Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[^ref34] Significantly, the confusion surrounding pelargonium nomenclature in European contexts also exists in China. More than 50 percent of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You_ (Pelargonium Oil) in Chinese. It is said that the name _Tianzhu Kui_ was introduced by the Chinese horticulturalist Junyu Zhang in 1933 based on his studies in Japan.[^ref35] The words _Tianzhu Kui_ are from ゼラニウム, which is pronounced as _Geranium_ in English.
-<param ve-image regiont="0,139,1220,1056" manifest="https://iiif-v2.visual-essays.app/manifest/a4a03fd2510a5b86085485036ecc1957e397abb4670ad1b176e6890394c8a83c">
+<param ve-image regiont="0,153,1220,1119" manifest="https://iiif-v2.visual-essays.app/manifest/a4a03fd2510a5b86085485036ecc1957e397abb4670ad1b176e6890394c8a83c">
 {#paragraph20}
 
 ### Hiding in Plain Sight
 
 Although the _Pelargonium_ by any other name would smell as sweet, excepting those that are scentless or pungent, our recognition of its unique identity is long overdue. Indeed, the _Pelargonium_’s almost-forgotten global history is extremely rich, blossoming as it does at the intersections of colonial trade, botany, agriculture, gardening, art, culture, and industry. Telling the story of the _Pelargonium_ as an entity separate from the _Geranium_, illuminates just some of the many ways in which it has been interwoven with human histories–hiding in plain sight, as it were, by virtue of its long-persisting misnomer.
-<param ve-image primary region="4,1560,3632,2903" manifest="https://iiif-v2.visual-essays.app/manifest/092ea486b795bdf4b2545d73dcc1c36ca8d15163873d38a152ce732296480ef9">
+<param ve-image primary region="5,1679,3632,3335" manifest="https://iiif-v2.visual-essays.app/manifest/092ea486b795bdf4b2545d73dcc1c36ca8d15163873d38a152ce732296480ef9">
 <param ve-image region="0,460,1026,896" manifest="https://iiif-v2.visual-essays.app/manifest/8f19722ee53f6120fb82cd1037ec48a9e66da7aa5b7c02fe6c7663200ec4adf4">
 <param ve-image region="620,1424,2053,2352" manifest="https://iiif-v2.visual-essays.app/manifest/8697604449486b98fdc7f8a7144563f1954a3843f7cb8e384b1f7bf449dc5feb" rotate="270">
 {#paragraph21}
