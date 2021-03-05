@@ -6,28 +6,64 @@ You can use Plant Humanities Lab to explore the cultural histories of plants and
 
 # Plant Narratives
 Select a narrative from the home page. Each narrative is dedicated to a single plant. As you scroll through the narrative, you’ll notice each paragraph of text is presented alongside a related visualization panel. You can change which paragraph is active either by scrolling or by clicking anywhere within a new paragraph.
-The visualization panel includes a variety of components, interactive maps, high-resolution images, data visualizations and more. Icons to the right of the text indicate what components are available for each paragraph. Only one mode can display at a time, so you may have to click to see additional features. Components include:
+The visualization panel includes a variety of components, interactive maps, high-resolution images, data visualizations, and more. Icons to the right of the text indicate what components are available for each paragraph. Only one mode can display at a time, so you may have to click to see additional features. Components include:
 
 ## Images
 Pan and zoom high-resolution images by clicking on the image or on the + and - icons. Click the Home icon to return to the original presentation. When multiple images are available, select the one you want by clicking on the thumbnail at the bottom of the pane.  
+<param ve-image region="-130,635,2618,2319" manifest="https://iiif-v2.visual-essays.app/manifest/40346d8a1544f191ac8ccd648d5309bc1f62241fba9916756559e436eec72704">
+<param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/06d9b34e47e99a7440322bb7cd24b0b35519ca9eb9744c213819cc2bd3d664e5">
+<param ve-image region="804,69,1529,1313" title="Rayed figure in a litter carried by anthropomorphic warriors. Drawing reproduces iconography on the body of a ceramic vessel held by the Ethnologisches Museum Berlin. To the left of the figure in the dais are anthropomorphic fox, feline, maize or corn plant known as the Botanical Frog." manifest="https://iiif.lib.harvard.edu/manifests/ids:457658938" attribution="Donna McClelland, December 4, 1989, Harvard University, Dumbarton Oaks Research Library.">
 
-Annotated images: some images have annotations calling attention to specific portions of the image.  When these are available, additional controls appear over the image. Click Play Annotations to step through the sequence of image annotations.  
-
+Some images have annotations calling attention to specific portions of the image. When these are available, additional controls appear over the image. Click Play Annotations to step through the sequence of image annotations.  
+<param ve-image
+	title="Ming herbal (painting): Chinese herbaceous peony"
+	url="https://upload.wikimedia.org/wikipedia/commons/2/2e/Ming_herbal_%28painting%29%3B_Chinese_herbaceous_peony_Wellcome_L0039426.jpg">
+	
 ## Maps 
-Pan and zoom the maps by clicking on the map or on the + and - icons.  You can show and hide layers on the map by selecting the layers icon. Some maps have time-encoded data, with a control panel at the bottom letting you select the dates for which to display map data, and the ability to animate the display of map features for specific time periods, showing change over time on the map. 
+Pan and zoom the maps by clicking on the map or on the + and - icons. You can show and hide layers on the map by selecting the layers icon. 
+<param ve-map title="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" center="17.265945, -94.268896" zoom="5.5" hide-labels="true" basemap="Esri_WorldPhysical">
+<param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson">
+<param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson">
+
+Some maps have time-encoded data, with a control panel at the bottom letting you select the dates for which to display map data, and the ability to animate the display of map features for specific time periods, showing change over time on the map.
+<param ve-map
+	title="Occurence of boxwood blight in America, 2010–2018."
+	center="39.812733, -97.042653"
+	zoom="4"
+	time-dimension
+	time-interval="2009/2018"
+	duration="P10000Y"
+	max-zoom="4"
+	date-format="YYYY"
+	fps="0.5"
+	fill="red"
+	auto-play="true">
+<param ve-map-layer
+	url="us-states.json">
 
 ## Plant specimens
-Pan and zoom high-resolution plant specimens by clicking on the image or on the + and - icons.  Click the Home icon to return to the original presentation.  When multiple specimens are available, select the one you want by clicking on the thumbnail at the bottom of the pane.  Plant specimens are sourced from JSTOR Global Plants. 
+Pan and zoom high-resolution plant specimens by clicking on the image or on the + and - icons.  Click the Home icon to return to the original presentation.  When multiple specimens are available, select the one you want by clicking on the thumbnail at the bottom of the pane.  Plant specimens are sourced from JSTOR Global Plants
+<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/7abe92680267a8d60322bf353cbc5b915f2a372fbe7feaa4ecb4e0d5ecfb1326">
+<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/f93acafc668f8bd6d6e33e405ee35309adebd17f166b17c12b176602ce525d8d">
+<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/87622b8792fafd1cdb17ab278dbfba4b8f8ae21017b4334c3b781315229196d3">
+<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/34d415c157409b461ad72b50cdee1bfbe463e3340a9846cd1ece87f10edace52">
+<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/bbf1d2e99ed1e8769fcd0f81f88fc3b8ae3c88594d46d25fa6e87dc583a3c490">
 
 ## Network visualizations
 Hover over nodes and connectors in the network diagram for additional details; click on a node to re-center the network visualization.
+<param ve-d3plus-ring-network 
+       url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia_network_relationship_v2.tsv" center="Heliconia imbricata">
 
 ## Videos
 Play and pause videos using the video controls.
+<param ve-video
+	vid="cmpd58kMl2s"
+	title="Mythbusters Cinnamon Challenge.">
 
 ## Tabular data
 Scroll through the table using your cursor or arrow keys; sort the table by clicking on column headers.
 Timelines:  navigate the timeline by clicking on the < and > icons or selecting from the control pane at the bottom of the screen.
+<param ve-tabulator url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/Emmenagogic_Herbs.tsv">
 
 ## Links
 Links appear throughout the narrative text. Links to external sources will open in a new tab and be indicated with an [arrow] icon. Other links will either provide additional information regarding the highlighted term, or it will affect the component pane, for example zooming an image to the relevant site. When you encounter an endnote, click on it to see the note. You will be brought to the relevant note at the end of the text, with a link to a return to the relevant paragraph. 
