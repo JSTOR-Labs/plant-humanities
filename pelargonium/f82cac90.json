@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=pelargonium/f82cac90",
-    "total": 4,
-    "modified": "2021-03-05T21:47:14.504887"
+    "total": 5,
+    "modified": "2021-03-05T21:48:16.203923"
   },
   "startIndex": 0,
   "items": [
@@ -92,6 +92,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "pelargonium/f82cac90/da168664",
       "seq": 3
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Pelargonium treatment, arrival at distillery<br>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1150.3626708984375,1148.55810546875,654.933349609375,483.345703125"
+        },
+        "id": "pelargonium/f82cac90"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/f82cac90/98b31cd4",
+      "seq": 4
     }
   ]
 }
