@@ -68,11 +68,11 @@ According to Ramusio’s narrative, the tree used to cure the French explorers w
 ### Indigenous Coniferous Medicinal Knowledge
 
 Through linguistic, botanical, and historical analysis numerous trees have been put forward as the miraculous tree that saved Cartier and his men-–the balsam fir (*Abies balsamea*), white spruce (*Picea glauca*), red spruce (*Picea rubens*), black spruce (*Picea mariana*), eastern white pine (*Pinus strobus*), red pine (*Pinus resinosa*), white cedar (*Thuja occidentalis*), and eastern hemlock (*Tsuga canadensis*). Even sassafras (*Sassafras albidum*) has been considered, although it is generally agreed that based on sixteenth-century descriptions and its natural distribution, sassafras could not be a candidate.
-<param ve-image title="Isosyntype of _Abies balsamea_" url="https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/00/gpi-nebc-typspe-01-19/nebc0008/nebc00056528.jp2">
-<param ve-image title="Holotype of _Picea glauca_" url="https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/00/gpi-a-typspe-01-57/a0002/a00022322.jp2">
-<param ve-image title="Holotype of _Picea mariana_" url="https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/00/gpi-a-typspe-01-57/a0006/a00022346.jp2">
-<param ve-image title="Type of _Pinus strobus_" url="https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/alukaplant/l/phase_01/l0001/l0820001.jp2">
-<param ve-image title="Lectotype of _Thuja occidentalis_" url="https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/05/gpi-linn-typspe-01-04/linn0001/linn-hl1136-1.jp2">
+<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/7abe92680267a8d60322bf353cbc5b915f2a372fbe7feaa4ecb4e0d5ecfb1326">
+<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/f93acafc668f8bd6d6e33e405ee35309adebd17f166b17c12b176602ce525d8d">
+<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/87622b8792fafd1cdb17ab278dbfba4b8f8ae21017b4334c3b781315229196d3">
+<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/34d415c157409b461ad72b50cdee1bfbe463e3340a9846cd1ece87f10edace52">
+<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/bbf1d2e99ed1e8769fcd0f81f88fc3b8ae3c88594d46d25fa6e87dc583a3c490">
 
 Sixteenth- and seventeenth-century European herbals consistently describe the tree of life as a *Thuja* (a genus of coniferous trees) or similar to a cypress, without fruit (although the cone is now considered a fruit), and very aromatic. From this we can conclude that the tree of life was indeed an evergreen coniferous tree native to the area around present-day Quebec and Montreal.
 <param ve-map center="Q2145" basemap="Esri_WorldPhysical" zoom="6" stroke-width="0">
