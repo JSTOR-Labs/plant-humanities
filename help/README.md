@@ -3,7 +3,7 @@
 	   layout="vtl">
 
 You can use Plant Humanities Lab to explore the cultural histories of plants and their influence on human societies in two ways: take a guided tour of a single plant’s influence through curated and interactive plant narratives, or use the plant search to discover resources and data associated with people, places and plants.
-<param ve-image url="home_page.jpg">
+<param ve-image fit="contain" url="home_page.jpg">
 
 # Plant Narratives
 Select a narrative from the home page. Each narrative is dedicated to a single plant. As you scroll through the narrative, you’ll notice each paragraph of text is presented alongside a related visualization panel. You can change which paragraph is active either by scrolling or by clicking anywhere within a new paragraph.
@@ -70,7 +70,7 @@ Navigate the timeline by clicking on the < and > icons or selecting from the con
 
 ## Links
 Links appear throughout the narrative text. Links to external sources will open in a new tab and be indicated with an [arrow] icon. Other links will either provide additional information regarding the highlighted term, or it will affect the component pane, for example zooming an image to the relevant site. When you encounter an endnote, click on it to see the note. You will be brought to the relevant note at the end of the text, with a link to a return to the relevant paragraph. 
-<param ve-image fit="contain" url="Links.gif">
+<param ve-graphic fit="contain" url="Links.gif">
 
 ## Cite this essay
 Clicking the “Cite this essay” button in the essay header will launch a popup window with the citation of the current essay in three formats: MLA, APA and Chicago. Click “Copy” of the format you’re using to copy the citation to your clipboard and paste it wherever you are managing references.  
