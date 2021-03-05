@@ -3,6 +3,7 @@
 	   layout="vtl">
 
 You can use Plant Humanities Lab to explore the cultural histories of plants and their influence on human societies in two ways: take a guided tour of a single plant’s influence through curated and interactive plant narratives, or use the plant search to discover resources and data associated with people, places and plants.
+<param ve-image url="home_page.jpg">
 
 # Plant Narratives
 Select a narrative from the home page. Each narrative is dedicated to a single plant. As you scroll through the narrative, you’ll notice each paragraph of text is presented alongside a related visualization panel. You can change which paragraph is active either by scrolling or by clicking anywhere within a new paragraph.
