@@ -1,6 +1,8 @@
 <param ve-config
 	title="Watermelon: ‘What the Angels Eat’"
 	banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
+	eid="Q105749290"
+	about="Q17507129"
 	layout="vtl"
 	num-maps="3"
 	num-specimens="3"
