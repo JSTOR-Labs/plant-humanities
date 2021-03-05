@@ -69,6 +69,7 @@ Navigate the timeline by clicking on the < and > icons or selecting from the con
 
 ## Links
 Links appear throughout the narrative text. Links to external sources will open in a new tab and be indicated with an [arrow] icon. Other links will either provide additional information regarding the highlighted term, or it will affect the component pane, for example zooming an image to the relevant site. When you encounter an endnote, click on it to see the note. You will be brought to the relevant note at the end of the text, with a link to a return to the relevant paragraph. 
+<param ve-image fit="contain" url="Links.gif">
 
 ## Cite this essay
 Clicking the “Cite this essay” button in the essay header will launch a popup window with the citation of the current essay in three formats: MLA, APA and Chicago. Click “Copy” of the format you’re using to copy the citation to your clipboard and paste it wherever you are managing references.  
