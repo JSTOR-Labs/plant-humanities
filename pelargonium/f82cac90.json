@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=pelargonium/f82cac90",
-    "total": 3,
-    "modified": "2021-03-05T21:59:15.501543"
+    "total": 4,
+    "modified": "2021-03-05T21:59:45.895094"
   },
   "startIndex": 0,
   "items": [
@@ -71,6 +71,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "pelargonium/f82cac90/6d8dd4e5",
       "seq": 2
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Pelargonium supply at factory<br>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:79.59141540527344,1082.9755859375,880.0284576416016,617.8282470703125"
+        },
+        "id": "pelargonium/f82cac90"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/f82cac90/81d369e9",
+      "seq": 3
     }
   ]
 }
