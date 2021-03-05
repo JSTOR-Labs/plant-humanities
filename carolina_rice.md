@@ -2,6 +2,8 @@
 	title="Carolina Rice: An Agricultural Legacy of Enslaved Peoples"
        source-image="https://images.nypl.org/index.php?id=G92F023_016F&t=w"
        banner="https://images.nypl.org/index.php?id=G92F023_016F&t=w"
+       eid="Q105748944"
+       about="Q161426"
        layout="vtl"
        num-maps="9"
        num-images="6"
