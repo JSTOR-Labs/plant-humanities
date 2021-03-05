@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=heliconia/13fd975a",
-    "total": 2,
-    "modified": "2021-03-05T23:17:04.408679"
+    "total": 3,
+    "modified": "2021-03-05T23:17:50.420496"
   },
   "startIndex": 0,
   "items": [
@@ -50,6 +50,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "heliconia/13fd975a/c286190d",
       "seq": 1
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Bracts with flowers partially protruding",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1078.479736328125,765.0620727539062,795.210693359375,633.3114624023438"
+        },
+        "id": "heliconia/13fd975a"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "heliconia/13fd975a/936c2921",
+      "seq": 2
     }
   ]
 }
