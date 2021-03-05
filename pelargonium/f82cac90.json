@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=pelargonium/f82cac90",
-    "total": 2,
-    "modified": "2021-03-05T21:46:12.791954"
+    "total": 3,
+    "modified": "2021-03-05T21:46:40.553573"
   },
   "startIndex": 0,
   "items": [
@@ -50,6 +50,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "pelargonium/f82cac90/80efddc7",
       "seq": 1
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Harvesting pelargoniums<br>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2762.3203125,179.45010375976562,882.10595703125,640.4330139160156"
+        },
+        "id": "pelargonium/f82cac90"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/f82cac90/f64ab716",
+      "seq": 2
     }
   ]
 }
