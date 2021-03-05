@@ -2,6 +2,8 @@
        title="Turmeric: Herb of the Sun"
 	   source-image="https://images.nypl.org/index.php?id=1126115&t=w"
 	   banner="https://images.nypl.org/index.php?id=1126115&t=w"
+	   eid="Q105076343"
+	   about="Q42562"
 	   layout="vtl"
 	   num-maps="8"
 	   num-images="6"
