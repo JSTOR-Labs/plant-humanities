@@ -1,0 +1,76 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://visual-essays.app/annotations/?include=description&target=Peony/243d9e37",
+  "type": "AnnotationPage",
+  "partOf": {
+    "id": "http://visual-essays.app/annotations/?include=description&target=Peony/243d9e37",
+    "total": 3,
+    "modified": "2021-03-02T15:09:10.831584"
+  },
+  "startIndex": 0,
+  "items": [
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Painting of Chinese herbaceous peony (hongyaozi) in the meticulous gongbi style, in color on silk, from Bencao tupu (Illustrated Herbal). <br>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:81.64701080322266,445.823486328125,2001.9999618530273,2128.17626953125"
+        },
+        "id": "Peony/243d9e37"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "Peony/243d9e37/0962447e",
+      "seq": 0
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "During the Ming dynasty, the peony was not cultivated simply for its beautiful flowers, but also for its medicinal roots. The roots of 3 to 4 year old plants were harvested in the summer and autumn, cooked in warm water, and finally dried in the sun.",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:577.9411010742188,1686.5587158203125,1291.2057495117188,1080.9117431640625"
+        },
+        "id": "Peony/243d9e37"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "Peony/243d9e37/e0976b10",
+      "seq": 1
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The compound Chinese character written at the top right, \"hongyao,\" refers not only to the type of peony depicted but also its medicinal value. Like the compound term for white peony, \u201cshaoyao,\u201d the first character \u201chong\u201d refers to the type of peony, in this case red, while the second character \u201cyao\u201d means medicine. Thus, hongyao means \u201cthe medicine made from red peony.\u201d",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1482.2056884765625,277.5882263183594,958.9412841796875,849.5881652832031"
+        },
+        "id": "Peony/243d9e37"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "Peony/243d9e37/958061df",
+      "seq": 2
+    }
+  ]
+}
