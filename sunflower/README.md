@@ -26,7 +26,7 @@ While the domesticated sunflower is an imposing presence in nature, its aestheti
 
 A cultural history of the sunflower that attends to the circulation and significance of images can provide rich historical information about the plant and the role of visual culture in communicating the knowledge, myth, and meaning related to it. Artists working in Europe from the late sixteenth to the late nineteenth centuries produced many likenesses of the sunflower, which served aesthetic, imperial, scientific, commercial, and other functions. In doing so, they developed conventions for representing specific characteristics that were tailored to those aims. By tracking changes in this [iconography](https://www.tate.org.uk/art/art-terms/i/iconography) over time, we can learn about the historical significance of sunflowers in specific temporal and geographic contexts, as well as shifts in the ways that humans have represented, encountered, used, studied, and valued them. Close visual analysis of works of botanical art and other sorts of floral imagery can also help us cultivate and bring greater attentiveness to our encounters with plants.
 <param ve-image layers manifest="https://iiif-v2.visual-essays.app/manifest/326f4737add6cc9de6ac0fd191d866628bc280a0c72b2b497c17d562a1e25a12">
-<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/7eb8c93209454c3dc2a3f3cf138bfe65e76487ab7f3d8d4924360431c0644111">
+<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/30cc2872daec9f4902bb335613918a06cabedc1386bbe5bb55c6eada0331736e">
 {#paragraph3}
 
 ### Naming the Iconic Flower
