@@ -33,7 +33,7 @@ A cultural history of the sunflower that attends to the circulation and signific
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus" aliases="Carolus Linnaeus">
 The genus [_Helianthus_](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30000729-2)—a Latin compound derived from the Greek words _helios_ (sun) and _anthos_ (flower)—and the species _Helianthus annuus_ were named by the prominent Swedish naturalist Carolus Linnaeus in the eighteenth century, by which time the domesticated sunflower was already a beloved garden flower in Europe.[^ref3] Although it may be hard for us to imagine the extraordinary admiration for the sunflower at that time, Linnaeus’s exuberant description of the plant in [_Critica botanica_,](https://bibdigital.rjb.csic.es/idurl/1/11541) from 1737, offers some insights.[^ref4] He writes, “Who can see this plant in flower, whose great golden blossoms send out rays in every direction from the circular disk, without admiring the handsome flower modeled on the sun’s shape?”[^ref5] His encomium on the splendor of a mature inflorescence and its formal resemblance to the sun demonstrates traits that eighteenth-century Europeans prized and that make the flower, both real and represented, so iconic today.
-<param ve-image primary region="-232,1100,2323,1921" manifest="https://iiif-v2.visual-essays.app/manifest/bd042b6b95ac7a9773ce271d01962a5ed59e36e9d1f4609e19b91c59efd90e3a">
+<param ve-image primary manifest="https://iiif-v2.visual-essays.app/manifest/bd042b6b95ac7a9773ce271d01962a5ed59e36e9d1f4609e19b91c59efd90e3a">
 <param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/8d51f6287801f6c0aaeffba311dd0e344a9e4e6a9ac2202305ae16f1aaf75d6b">
 {#paragraph4}
 
