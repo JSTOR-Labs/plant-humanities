@@ -8,6 +8,7 @@ You can use Plant Humanities Lab to explore the cultural histories of plants and
 # Plant Narratives
 Select a narrative from the home page. Each narrative is dedicated to a single plant. As you scroll through the narrative, you’ll notice each paragraph of text is presented alongside a related visualization panel. You can change which paragraph is active either by scrolling or by clicking anywhere within a new paragraph.
 The visualization panel includes a variety of components, interactive maps, high-resolution images, data visualizations, and more. Icons to the right of the text indicate what components are available for each paragraph. Only one mode can display at a time, so you may have to click to see additional features. Components include:
+<param ve-graphic url="Essays.gif">
 
 ## Images
 Pan and zoom high-resolution images by clicking on the image or on the + and - icons. Click the Home icon to return to the original presentation. When multiple images are available, select the one you want by clicking on the thumbnail at the bottom of the pane.  
