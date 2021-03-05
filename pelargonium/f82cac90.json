@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=pelargonium/f82cac90",
-    "total": 2,
-    "modified": "2021-03-05T21:18:28.693363"
+    "total": 3,
+    "modified": "2021-03-05T21:19:32.067685"
   },
   "startIndex": 0,
   "items": [
@@ -50,6 +50,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "pelargonium/f82cac90/d2e4c444",
       "seq": 1
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Pelargonium harvest in Algeria<br>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2631.03125,16.59375,1152.34375,990.09375"
+        },
+        "id": "pelargonium/f82cac90"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/f82cac90/9ecb78e4",
+      "seq": 2
     }
   ]
 }
