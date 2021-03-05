@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://plant-humanities.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config
        title="Pitcher Plant: From Frenchified Curiosity to Conservation Priority"
        author="Kristan M. Hanson"
