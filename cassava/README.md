@@ -2,6 +2,8 @@
 <param ve-config
 	title="Cassava: From Toxic Tuber to Food Staple"
 	banner="Cassava_tuber_Chapman_Flickr.jpg"
+	eid="Q105749015"
+	about="Q83124"
 	attribute="Tuber of Manioc or Cassava (Manihot esculenta) in the Port Vila Markets, Efate Island, Vanuatu, 
 Arthur Chapman, March 17, 2011, Flickr, CC BY-NC-SA 2.0"
 	layout="vtl"
