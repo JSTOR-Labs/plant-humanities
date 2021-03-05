@@ -58,7 +58,7 @@ Representations of cassava made by Moche artists provide clues as to how the pla
 The Moche ceramic contains further clues as to early Andean understanding of cassava. Moche artists may have chosen to pair the cassava plant with the frog to highlight characteristics they share. Both were known for being poisonous and for their capacity to survive underground for long periods of time.[^ref6] Indeed, while cassava roots are the most commonly eaten part of the plant, they go bad quickly when dug up from the soil. However, if cassava is left in the ground, it can survive for up to four years and be harvested periodically.[^ref7]
 <param ve-image region="-130,635,2618,2319" manifest="https://iiif-v2.visual-essays.app/manifest/40346d8a1544f191ac8ccd648d5309bc1f62241fba9916756559e436eec72704">
 <param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/06d9b34e47e99a7440322bb7cd24b0b35519ca9eb9744c213819cc2bd3d664e5">
-<param ve-image region="804,69,1529,1313" title="Rayed figure in a litter carried by anthropomorphic warriors. Drawing reproduces iconography on the body of a ceramic vessel held by the Ethnologisches Museum Berlin. To the left of the figure in the dais are anthropomorphic fox, feline, maize or corn plant known as the Botanical Frog." manifest="https://iiif.lib.harvard.edu/manifests/ids:457658938" attribution="Donna McClelland, December 4, 1989, Harvard University, Dumbarton Oaks Research Library.">
+<param ve-image region="804,69,1529,1313" title="Rayed figure in a litter carried by anthropomorphic warriors. Drawing reproduces iconography on the body of a ceramic vessel held by the Ethnologisches Museum Berlin. To the left of the figure in the dais are anthropomorphic fox, feline, maize or corn plant known as the Botanical Frog. Harvard University, Dumbarton Oaks Research Library." manifest="https://iiif.lib.harvard.edu/manifests/ids:457658938">
 {#paragraph6}
 
 ### Indigenous Knowledge: How to Process Poison 
@@ -126,7 +126,7 @@ European travelers also described the process of making cassava into fermented b
 {#paragraph14}
 
 Even today, many Indigenous Peoples in Meso- and South America still follow these recipes for fermented cassava beverages that were established by their ancestors and recorded by European travelers. In addition to such descriptions in travel writings, knowledge of cassava also entered other eighteenth-century European texts, such encyclopedias, and informed various fields of knowledge production, from baking and chemistry to agriculture.[^ref23]
-<param ve-image primary fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/ed091daba412388f225a5493d11ae6d040785542427478321ea587bb36f29b40">
+<param ve-image primary region="-224,1,878,727" manifest="https://iiif-v2.visual-essays.app/manifest/ed091daba412388f225a5493d11ae6d040785542427478321ea587bb36f29b40">
 <param ve-image region="-48,345,978,849" url="https://iiif.wellcomecollection.org/image/V0044465.jpg/full/880%2C/0/default.jpg" title="Charles Theodore Middleton, _Workers preparing cakes from manioc root in the tropics, with decorative border_, ca. 1777, engraving, 28.7 x 17 cm (platemark)" attribution="Wellcome Library, CC BY 4.0">
 {#paragraph15}
 
