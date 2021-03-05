@@ -4,6 +4,8 @@
        author="John Kress and Yota Batsaki"
        source-image="https://ia800500.us.archive.org/BookReader/BookReaderImages.php?id=monographTrochi2Goul&itemPath=%2F12%2Fitems%2FmonographTrochi2Goul&server=ia800500.us.archive.org&page=n285_w1713"
        banner="https://jstor-labs.github.io/plant-humanities/images/banners/heliconia.jpg"
+       eid="Q105748796"
+	about="Q624242"
        layout="vtl">
 
 ### From Mount Helicon to the Amazon
