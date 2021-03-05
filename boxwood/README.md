@@ -1,6 +1,8 @@
 <param ve-config
 	title="Boxwood: A Humble Yet Resilient Plant that Took Over the Garden World"
 	banner="https://upload.wikimedia.org/wikipedia/commons/6/61/Gew%C3%B6hnlicher_Buchsbaum%2C_Buxus_sempervirens_.JPG"
+	eid="Q105748845"
+	about="Q158703"
 	layout="vtl"
 	num-maps="0"
 	num-images="0"
