@@ -131,7 +131,7 @@ In the eighteenth and early nineteenth centuries, botanical illustrators develop
 <param ve-entity eid="Q30765614" title="floret" aliases="florets"> 
 Henderson's botanical illustration highlights a trait of sunflowers that we may overlook due to our casual familiarity with the plant. Its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, Asteraceae, produces a special kind of inflorescence: a composite of many tiny flowers known as florets.[^ref27] This diagram of a mature flower head shows that what we generally call “petals” are actually ray florets; they are sterile and serve to attract pollinators to disk florets. The disk florets, which can number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own fruit after pollination. Perceiving such floral traits and examining their functions require a process of direct observation and visual analysis that is practiced by scientists and artists alike.
 <param ve-image fit="contain" primary manifest="https://iiif-v2.visual-essays.app/manifest/c1925b33f0d685ac404be129155073206c579024aea806ca654a8a3b9eb63c22">
-<param ve-image fit="contain" url="https://iiif-v2.visual-essays.app/manifest/3bf64baf040114e4237c6bfe31601506dcbd2efcced796f7b91bafdf5acac052">
+<param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/3bf64baf040114e4237c6bfe31601506dcbd2efcced796f7b91bafdf5acac052">
 <param ve-graphic img="https://upload.wikimedia.org/wikipedia/commons/a/ad/SunflowerModel.svg" title="Illustration of Helmut Vogel's (1979) model for the pattern of disk florets arranged in a sunflower head, Doron, cmglee, 2007, Wikimedia Commons, CC BY-SA 3.0">
 {#paragraph15}
 
