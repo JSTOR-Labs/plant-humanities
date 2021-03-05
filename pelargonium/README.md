@@ -21,7 +21,7 @@ There was no flower on earth that Charles Dickens loved quite as much as the sca
 <param ve-entity eid="Q3898877" title="Pelargonium zonale" aliases="P. zonale">
 <param ve-entity eid="Q18083598" title="Pelargonium inquinans" aliases="P. inquinans">
 However, you might be surprised to learn that the scarlet “geranium” with which Dickens was so enamored was not a member of the genus [_Geranium_.](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327764-2) In fact, it belonged to an altogether different genus called _Pelargonium_ and was a bedding variety derived from _P. inquinans_ and _P. zonale_, probably the cultivar “Mrs Pollock” or “General Tom Thumb.”[^ref4] The misidentification of the pelargonium is common today because the plant has been confused with the geranium since its introduction into Europe in the early 1600s.[^ref5] As the debate over how to classify pelargoniums roiled in botanical circles of the eighteenth and early nineteenth centuries, new horticultural technologies and breeding techniques led to an astounding increase in the number of hybrids commercially available—and their popularity soared. By the mid-1800s, the public had grown accustomed to using the common name geranium for the pelargonium, as for the most part we continue to do today.
-<param ve-image region="-70,78,1394,1172" primary manifest="https://iiif-v2.visual-essays.app/manifest/09e2316efadd0a33176f9dddf68a41a90e265aa9e1d42d26f0a240d86588fead">
+<param ve-image region="-70,73,1394,1257" primary manifest="https://iiif-v2.visual-essays.app/manifest/09e2316efadd0a33176f9dddf68a41a90e265aa9e1d42d26f0a240d86588fead">
 <param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/e86a63acced5e69e65f4ad6a99ab2cd5c23f04ae5f1faa8bd0af5657233495f2">
 <param ve-image fit="cover" manifest="https://iiif-v2.visual-essays.app/manifest/d429f53cb26b9930265e51847ad087bbcd494aff9037f221183458f4cb2236d7">
 {#paragraph2}
@@ -43,7 +43,7 @@ So how can we tell the history of the neglected pelargonium, a plant that is now
 <param ve-entity eid="Q3259077" title="heron"> 
 <param ve-entity eid="Q28507" title="Ciconiidae"> 
 The pelargonium and its relatives geranium and erodium belong to the family Geraniaceae. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, to some degree, each other. Pelargonium, from the Greek _pelargos_ (stork), alludes to the plant’s long, beak-shaped seedpods and fruits. Similarly, geranium from _géranos_ (crane) and erodium from _erodios_ (heron) describe columnar fruit capsules that are found in some species. As this dried pelargonium specimen shows, the columnar capsules emerge from the centers of flowers, aiding in seed dispersal and reproduction.
-<param ve-image primary manifest="https://iiif-v2.visual-essays.app/manifest/18b0fcd6b7947859c096f76c295552ee8a91ab8d61074f35e303887f654a1491">
+<param ve-image primary region="0,312,1173,1060" manifest="https://iiif-v2.visual-essays.app/manifest/18b0fcd6b7947859c096f76c295552ee8a91ab8d61074f35e303887f654a1491">
 <param ve-image fit="contain" url="The Geraniaceae family.png" title="The Geraniaceae family. Created by Verónica Matallana, 2020.">
 {#paragraph4}
 
@@ -84,7 +84,7 @@ Of the many _Pelargonium_ species native to Southern Africa, _Pelargonium triste
 <param ve-entity eid="Q863247" title="nomenclature">
 <param ve-entity eid="Q355691" title="Jacques Philippe Cornut" aliases="Jacques Philippe Cornut's">
 The nomenclature confusion surrounding pelargonium started when _Pelargonium triste_ reached Europe. The plant was initially called _Geranium Indicum nocto odorato_—night-scented geranium of India.[^ref10] Europeans misidentified the specimen as a geranium because they were already familiar with _geranium_ species, which are native to the Mediterranean Basin. Additionally, Dutch traders brought the pelargonium to Holland on their return from colonial voyages to the East Indies, prompting some to assume, wrongly, that it was harvested from India. During this period, Jacques Philippe Cornut renamed the plant _Geranium triste_, which he depicted and described in his 1635 book [_Canadensium Plantarum_.](https://bibdigital.rjb.csic.es/idurl/1/13506)[^ref11] _Triste_ (sad) presumably alludes to the pelargonium’s dull-colored foliage or flowers, and the descriptor stuck.
-<param ve-image region="-72,3,1459,1180" manifest="https://iiif-v2.visual-essays.app/manifest/fa4c1c9651a6fb070a32c0dee6a6348830438097fa23eb8cad19652bfb010294">
+<param ve-image region="-92,59,1498,1351" manifest="https://iiif-v2.visual-essays.app/manifest/fa4c1c9651a6fb070a32c0dee6a6348830438097fa23eb8cad19652bfb010294">
 <param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/646513092838fde108e667aa50e78384e796129b8a08ca052c2be5a16bd27fad">
 {#paragraph8}
 
@@ -97,7 +97,7 @@ In the wake of that initial nomenclature confusion, seventeenth-century botanist
 <param ve-entity eid="Q165044" title="greenhouse" aliases="greenhouses">
 <param ve-entity eid="Q42621" title="hybrid" aliases="hybridized">
 The genus _Pelargonium_ is amazingly varied, including both annual and perennial plants that naturally occur in temperate and tropical climates. For that reason, the first specimens to reach Holland were cultivated in heated greenhouses to protect them from the region’s cold and frost.[^ref13] By the early 1800s, new technologies—both for fabricating iron and plate glass and for constructing buildings with these materials—fueled a fad among the social elite of Europe and America for purchasing conservatories in order to grow exotic plants.[^ref14] These innovations combined with new knowledge about hand-pollination techniques made pelargoniums, which are easily hybridized that way, an ideal choice for such cultivation by plant collectors and amateur breeders.[^ref15]
-<param ve-image primary region="-191,815,3131,2427" url="Pelargonium_QueenAdelaide_Europeana.jpg" title="Samuel William Reynolds, _Queen Adelaide (Princess Adelaide of Saxe-Meiningen)_, pub. 1831 by Martin Colnaghi, after Sir William Beechey, mezzotint, 644 x 435 mm (plate), National Library of Spain, Europeana, CC BY-NC-SA">
+<param ve-image primary region="-191,788,3131,2828" url="Pelargonium_QueenAdelaide_Europeana.jpg" title="Samuel William Reynolds, _Queen Adelaide (Princess Adelaide of Saxe-Meiningen)_, pub. 1831 by Martin Colnaghi, after Sir William Beechey, mezzotint, 644 x 435 mm (plate), National Library of Spain, Europeana, CC BY-NC-SA">
 <param ve-image fit="contain" manifest="https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=66250" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm, National Gallery of Art, Open Access">
 <param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/a8871432f74ebdbc834a720148ada32ea206dbf77072e069adf3e5ddfcadaa05">
 {#paragraph10}
@@ -105,9 +105,9 @@ The genus _Pelargonium_ is amazingly varied, including both annual and perennial
 <param ve-entity eid="Q2779805" title="Wardian case">
 <param ve-entity eid="Q1966819" title="Nathaniel Bagshaw Ward" aliases="Nathaniel Ward">
 Another technology, the [Wardian case,](https://www.doaks.org/resources/online-exhibits/botany-of-empire/plant-transportation/on-the-growth-of-plants-in-closely-glazed-cases) contributed to a tremendous expansion of ornamental plant trades in early and mid-nineteenth-century Europe. The case, a sealed glass container invented by Nathaniel Bagshaw Ward, allowed naturalists, horticulturalists, and others to transport live specimens intact during lengthy overseas voyages.[^ref16] This advance in plant mobility made exotics more abundant, accessible, and affordable, increasing the popularity of gardening as a hobby for the upper and middle classes. The Wardian case had an impact in the domestic space as well, enabling home gardeners to cultivate foreign plants and mixed-species gardens indoors in such decorative glass furnishings.[^ref17] To meet the unprecedented demand for ornamental plants at midcentury, savvy nursery owners developed the zonal pelargonium for bedding in gardens and, later, the regal pelargonium for growing in domestic conservatories and the home. The marvelous modern pelargonium—part natural wonder, part human invention—bloomed just as mass consumer culture embraced fresh flowers and greenery to improve nearly every aspect of daily life.
-<param ve-image primary region="-35,182,719,582" url="https://www.doaks.org/resources/online-exhibits/botany-of-empire/plant-transportation/on-the-growth-of-plants-in-closely-glazed-cases/@@images/image" title="_On the Conveyance of Plants and Seeds on Ship-Board_, Nathaniel Bagshaw Ward, _On the Growth of Plants in Closely Glazed Cases_, London, J. Van Voorst, 1852, Dumbarton Oaks.">
+<param ve-image primary region="-36,188,719,650" url="https://www.doaks.org/resources/online-exhibits/botany-of-empire/plant-transportation/on-the-growth-of-plants-in-closely-glazed-cases/@@images/image" title="_On the Conveyance of Plants and Seeds on Ship-Board_, Nathaniel Bagshaw Ward, _On the Growth of Plants in Closely Glazed Cases_, London, J. Van Voorst, 1852, Dumbarton Oaks.">
 <param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/2da002602728414f54ca548de80340192cdfbfa96615fa1be45244f9a033eb3c">
-<param ve-image primary region="75,1436,2006,1590" manifest="https://iiif-v2.visual-essays.app/manifest/d2fa8d75a88ac1ec7edb8da2b1d6d6b6f537216e8e006a16efed340570938786">
+<param ve-image region="75,1436,2006,1590" manifest="https://iiif-v2.visual-essays.app/manifest/d2fa8d75a88ac1ec7edb8da2b1d6d6b6f537216e8e006a16efed340570938786">
 {#paragraph11}
 
 ### Pelargonium-mania in the Victorian Era
@@ -132,8 +132,8 @@ Gardeners favored hardy zonal pelargoniums because they show off their blooms fo
 <param ve-entity eid="Q2269" title="Industrial Revolution">
 <param ve-entity eid="Q99517825" title="Donald McDonald">
 The pelargonium, in all its many splendid aesthetic and aromatic varieties, was clearly firmly a staple of British domestic interiors, gardens, and patios. In his hugely popular book [_The Amateur's Flower Garden_,](https://www.biodiversitylibrary.org/item/244730#page/9/mode/1up) Shirley Hibberd included designs for creating a harmonious pelargonium garden—“geranium garden”—based on the plant’s striking color variations.[^ref22] In the layout of a panel garden, Hibberd suggests two potential summer schemes: a red-harmony garden and a blue-harmony garden. By 1895, writers such as Donald McDonald were celebrating the scented-leaf variety of the plant and its foreign provenance; McDonald wrote that, “no bouquet or basket of flowers was considered complete unless plentifully perfumed with the foliage of Cape or other sweet Pelargoniums,” a testament to the long-standing appeal of _Pelargoniums_ in British Victorian culture.[^ref23]
-<param ve-image primary region="-352,331,3523,2730" manifest="https://iiif-v2.visual-essays.app/manifest/edcec9581dee35a28c63d0fa221a4c129fafb5806420198ab32d40edc892fbe8">
-<param ve-image region="-105,588,1622,1257" manifest="https://iiif-v2.visual-essays.app/manifest/72c45a34017e2600778b9d9f5499b74d02cbc17ffea33831ed2ef5fba1f1b77f">
+<param ve-image primary region="-352,303,3523,3177" manifest="https://iiif-v2.visual-essays.app/manifest/edcec9581dee35a28c63d0fa221a4c129fafb5806420198ab32d40edc892fbe8">
+<param ve-image region="-88,76,882,796" manifest="https://iiif-v2.visual-essays.app/manifest/72c45a34017e2600778b9d9f5499b74d02cbc17ffea33831ed2ef5fba1f1b77f">
 {#paragraph14}
 
 ### The “Genteel” Geranium and Working-class Culture
@@ -157,8 +157,8 @@ For many Victorian families who could not afford to have gardens, growing pelarg
 <param ve-entity eid="Q390367" title="Adolphe Alphand">
 <param ve-entity eid="Q90" title="Paris">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](http://id.lib.harvard.edu/aleph/001173612/catalog) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
-<param ve-image primary region="1390,2258,4674,3864" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="45">
-<param ve-image region="2387,1778,5160,4267" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25">
+<param ve-image primary region="1384,2244,4674,4215" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="45">
+<param ve-image region="2319,1454,5298,4625" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25">
 {#paragraph17}
 
 <param ve-entity eid="Q262" title="Algeria">
@@ -179,7 +179,7 @@ The Grasse-based [Chiris perfumerie,](https://monumentum.fr/anciennes-parfumerie
 <param ve-entity eid="Q79" title="Egypt">
 <param ve-entity eid="Q148" title="People's Republic of China" aliases="China">
 Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[^ref34] Significantly, the confusion surrounding pelargonium nomenclature in European contexts also exists in China. More than 50 percent of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You_ (Pelargonium Oil) in Chinese. It is said that the name _Tianzhu Kui_ was introduced by the Chinese horticulturalist Junyu Zhang in 1933 based on his studies in Japan.[^ref35] The words _Tianzhu Kui_ are from ゼラニウム, which is pronounced as _Geranium_ in English.
-<param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/a4a03fd2510a5b86085485036ecc1957e397abb4670ad1b176e6890394c8a83c">
+<param ve-image regiont="-152,152,1525,1332" manifest="https://iiif-v2.visual-essays.app/manifest/a4a03fd2510a5b86085485036ecc1957e397abb4670ad1b176e6890394c8a83c">
 <param ve-map prefer-geojson center="9.4848, 77.1048" zoom="2.4">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/djareid/Dumbarton-PH/master/industrial-oil.json" title="Global geranium oil industries." active>
 {#paragraph20}
@@ -188,8 +188,8 @@ Today, pelargonium oil continues to be industrially produced in factories across
 
 Although the _Pelargonium_ by any other name would smell as sweet, excepting those that are scentless or pungent, our recognition of its unique identity is long overdue. Indeed, the _Pelargonium_’s almost-forgotten global history is extremely rich, blossoming as it does at the intersections of colonial trade, botany, agriculture, gardening, art, culture, and industry. Telling the story of the _Pelargonium_ as an entity separate from the _Geranium_, illuminates just some of the many ways in which it has been interwoven with human histories–hiding in plain sight, as it were, by virtue of its long-persisting misnomer.
 <param ve-image primary region="4,1560,3632,2903" manifest="https://iiif-v2.visual-essays.app/manifest/092ea486b795bdf4b2545d73dcc1c36ca8d15163873d38a152ce732296480ef9">
-<param ve-image fit="cover" manifest="https://iiif-v2.visual-essays.app/manifest/8f19722ee53f6120fb82cd1037ec48a9e66da7aa5b7c02fe6c7663200ec4adf4">
-<param ve-image fit="cover" manifest="https://iiif-v2.visual-essays.app/manifest/8697604449486b98fdc7f8a7144563f1954a3843f7cb8e384b1f7bf449dc5feb" rotate="270">
+<param ve-image region="0,460,1026,896" manifest="https://iiif-v2.visual-essays.app/manifest/8f19722ee53f6120fb82cd1037ec48a9e66da7aa5b7c02fe6c7663200ec4adf4">
+<param ve-image region="620,1424,2053,2352" manifest="https://iiif-v2.visual-essays.app/manifest/8697604449486b98fdc7f8a7144563f1954a3843f7cb8e384b1f7bf449dc5feb" rotate="270">
 {#paragraph21}
 
 ### References
