@@ -101,7 +101,7 @@ By the early 1630s, when Anthony van Dyck painted _Self-Portrait with Sunflower_
 <param ve-image primary fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/6bbaa6cf0ad2c8a78368979c0f63472b4fbba2f2d1d18250da6505d1eb004b45">
 <param ve-image region="-533,1800,5330,4784" url="sunflower_Vianen_Rijksmuseum_RP-P-1908-3593.jpg" title="Jan van Vianen, _Emblemes d'Amour_ (_Emblems of Love_), 1686, etching, 145 × 95 mm, Rijksmuseum, Amsterdam, public domain">
 <param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/aaf3bfa8e9fd81434ea98dda76629e99f8d44614a51c7992b617b3d1b9d786f6">
-<param ve-image region="807,2575,2158,1934" manifest="https://iiif-v2.visual-essays.app/manifest/7aacc84ce102f77cc479d142054d3117746f31904b7eaeae6f11fbcaaedbfe29">
+<param ve-image region="-431,379,4315,3993" manifest="https://iiif-v2.visual-essays.app/manifest/7aacc84ce102f77cc479d142054d3117746f31904b7eaeae6f11fbcaaedbfe29">
 {#paragraph11}
 
 <param ve-entity eid="Q158082" title="Heliotropium">
