@@ -1,6 +1,8 @@
 <param ve-config
 	title="Cinnamomum verum: Two Thousand Years of Discovering “True” Cinnamon"
 	banner="https://free.iiifhosting.com/iiif/dce243e93c83f5c437ebe4c4b3025b1824db07aeef46c580742fb3aa85d72ac9/pct:0,40,100,40/full/0/color.jpg"
+	eid="Q105748716"
+	about="Q370239"
 	layout="vtl"
 	num-maps="0"
 	num-images="0"
