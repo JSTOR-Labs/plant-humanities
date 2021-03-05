@@ -31,7 +31,7 @@ However, you might be surprised to learn that the scarlet “geranium” with wh
 <param ve-entity eid="Q182688" title="Victorian era" aliases="Victorian">
 <param ve-entity eid="Q6027480" title="Industrial Age">
 So how can we tell the history of the neglected pelargonium, a plant that is now a familiar cultural fixture for so many of us, but one that so few people know by its true identity? Perhaps it is time to narrate the lesser-known story of the pelargonium and to relate its history—from its unique morphology and nomenclature to its far-reaching impact in the spheres of industry, technology, agriculture, culture, and society. Part of the larger cultural history of the pelargonium, this interdisciplinary narrative focuses on its uses in England, France, and Algeria during the nineteenth century to reveal that the modern pelargonium was an invention of the Industrial Age. Bred for use as an ornamental plant or an aromatic crop, these newfangled pelargoniums possessed aesthetic and fragrant traits tailored to Victorian sensibilities, with enduring mass appeal.
-<param ve-image primary region="0,49,901,723" manifest="https://iiif-v2.visual-essays.app/manifest/57360500a41905028ce59e807bcb9dcd6df1abb33e83f5bda091ccb5df620581">
+<param ve-image primary region="-112,1,1127,975" manifest="https://iiif-v2.visual-essays.app/manifest/57360500a41905028ce59e807bcb9dcd6df1abb33e83f5bda091ccb5df620581">
 <param ve-image fit="cover" manifest="https://iiif-v2.visual-essays.app/manifest/715316cf2455d4c390f647f58f93d6d97d87ce49a08ff6617ff53be3bc02bd65">
 <param ve-image fit="cover" manifest="https://iiif-v2.visual-essays.app/manifest/cdbd97757c4113773f37cbfc018149fd90847166ba2b3333e22d92d8d65565bd">
 {#paragraph3}
@@ -41,9 +41,6 @@ So how can we tell the history of the neglected pelargonium, a plant that is now
 <param ve-entity eid="Q155945" title="Geraniaceae"> 
 <param ve-entity eid="Q147768" title="capsule" aliases="capsules">
 <param ve-entity eid="Q162920" title="Erodium"> 
-<param ve-entity eid="Q25365" title="Gruidae" aliases="crane"> 
-<param ve-entity eid="Q3259077" title="heron"> 
-<param ve-entity eid="Q28507" title="Ciconiidae"> 
 The pelargonium and its relatives geranium and erodium belong to the family Geraniaceae. The scientific names of these genera indicate their morphological resemblance to long-billed birds and, to some degree, each other. Pelargonium, from the Greek _pelargos_ (stork), alludes to the plant’s long, beak-shaped seedpods and fruits. Similarly, geranium from _géranos_ (crane) and erodium from _erodios_ (heron) describe columnar fruit capsules that are found in some species. As this dried pelargonium specimen shows, the columnar capsules emerge from the centers of flowers, aiding in seed dispersal and reproduction.
 <param ve-image primary region="0,312,1173,1060" manifest="https://iiif-v2.visual-essays.app/manifest/18b0fcd6b7947859c096f76c295552ee8a91ab8d61074f35e303887f654a1491">
 <param ve-image fit="contain" url="The Geraniaceae family.png" title="The Geraniaceae family. Created by Verónica Matallana, 2020.">
