@@ -2,6 +2,8 @@
 	   title="Bananas: Chaos out of Order"
 	   source-image="https://upload.wikimedia.org/wikipedia/commons/0/0f/Banana_Maria_Sibylla_Merian_1705_plate_XII.png"
 	   banner="https://jstor-labs.github.io/plant-humanities/images/banners/banana.png"
+	   eid="Q105076419"
+	   about="Q8666090"
 	   layout="vtl"
 	   num-maps="13"
 	   num-images="11"
