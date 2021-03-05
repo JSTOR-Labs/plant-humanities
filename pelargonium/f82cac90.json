@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=pelargonium/f82cac90",
-    "total": 5,
-    "modified": "2021-03-05T21:48:16.203923"
+    "total": 6,
+    "modified": "2021-03-05T21:48:51.892627"
   },
   "startIndex": 0,
   "items": [
@@ -113,6 +113,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "pelargonium/f82cac90/98b31cd4",
       "seq": 4
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Pelargonium treatment, distillery in operation<br>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2034.8851318359375,1182.392333984375,654.9332275390625,473.6787109375"
+        },
+        "id": "pelargonium/f82cac90"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/f82cac90/d2c6dbb5",
+      "seq": 5
     }
   ]
 }
