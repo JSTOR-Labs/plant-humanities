@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=pelargonium/f82cac90",
-    "total": 6,
-    "modified": "2021-03-05T21:32:34.121353"
+    "total": 7,
+    "modified": "2021-03-05T21:34:00.275336"
   },
   "startIndex": 0,
   "items": [
@@ -134,6 +134,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "pelargonium/f82cac90/08e6f867",
       "seq": 5
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Treatment of pelargoniums, unloading distillery<br>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2838.375,1036.1875,888.6875,735.65625"
+        },
+        "id": "pelargonium/f82cac90"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/f82cac90/22b2d76c",
+      "seq": 6
     }
   ]
 }
