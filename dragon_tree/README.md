@@ -1,6 +1,8 @@
 <param ve-config
 	title="Dracaena draco: The Timeless Canarian Dragon"
 	banner="https://upload.wikimedia.org/wikipedia/commons/7/73/Parque_del_Drago_-_Drago_de_Icod_de_los_Vinos_02.jpg"
+	eid="Q105749119"
+	about="Q157952"
 	layout="vtl"
 	num-maps="1"
 	num-specimens="1"
