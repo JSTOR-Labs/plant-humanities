@@ -7,12 +7,16 @@
 ##
 **Thomas C. Anderson**
 
+- authortitle: *Summer 2020 Fellow*
+
 ![](Anderson.jpg)
 
 Anderson’s research, which draws upon both historical archival studies as well as plant biology and botany, explores how early modern colonial encounters with the natural world helped shape our modern pharmacopoeia. To the early modern naturalist and explorer, the keys to life’s greatest mysteries were to be found in the petals, leaves, and anthers of strange and exotic plants. Amerindian horticultural, botanical, and art-historical contributions to this complicated and multifaceted story have only recently emerged as a subject of scholarly interest. Anderson uses the history of medicine and botany to help elucidate the unknown pasts that have nonetheless had a major impact on the construction of scientific and medical knowledge up to today. Anderson is a master’s candidate at Columbia University. He holds a bachelor’s in history and French and Francophone Studies from Hamilton College. Anderson has explored transoceanic acclimatization and the indigenous Guanche pharmacopoeia in the Canary Islands; the early modern history of imperial science and medicine in Paris; ethnobotany and plant taxonomy at the New York Botanical Gardens; historical manuscripts concerning colonial plants and their uses at the John Carter Brown Library; and toxicity and plant defense systems at Cornell University. 
 
 ##
 **Yota Batsaki**
+
+- authortitle: *Principal Investigator*
 
 ![](Bataski.jpg)
 
@@ -21,12 +25,16 @@ Yota Batsaki is the executive director of Dumbarton Oaks, a Harvard research ins
 ##
 **Camilo Uribe Botta**
 
+- authortitle: *Summer 2020 Fellow*
+
 ![](Botta.jpg)
 
 Uribe Botta’s current PhD research explores the orchid trade between Colombia and the United Kingdom in the nineteenth century, focusing on the global connections created around the plants in both sides of the Atlantic. His research analyzes the networks around these plants, from their hunting in the Colombian jungles to their conservation in British Botanical Gardens or collections from wealthy British collectors. Its overall aim is to chart the economic, scientific, and cultural conditions that led to the success of tropical orchids as a scientific and a commodity object. He focuses on the agency of orchids in global history and their relationship with humans in the nineteenth-century commerce. Botta is a PhD candidate in history at the University of Warwick. He holds a bachelor’s and a master’s in history from Universidad de los Andes in Bogota, Colombia. Uribe Botta has been assistant curator and registrar and collections manager of the Museo Colonial and Museo Santa Clara, two public institutions that are part of the Ministry of Culture of Colombia. He participated in the overhaul and total renovation of the museum’s exhibitions between 2013 and 2019. He has been a history consultant for different cultural projects in museums, theaters, and television, including the Canoas Archeological Park in Soacha, the Teatro Colón de Bogotá, and Bolívar from Caracol TV and Netflix.
 
 ##
 **Ashley Buchanan**
+
+- authortitle: *Postdoctoral Fellow*
 
 ![](Buchanan_300x300.jpg)
 
@@ -35,12 +43,16 @@ Ashley Buchanan is the Postdoctoral Fellow for the Plant Humanities Initiative a
 ##
 **Verónica Marallana Chaves**
 
+- authortitle: *Summer 2020 Fellow*
+
 ![](Chaves.jpg)
 
 Matallana Chaves’s undergraduate thesis research focuses on the history of textile work in Colombia and the use of natural fibers with a botanical-historical approach. Given the country’s sociocultural diversity, material cultural objects with an artisan trajectory play a key role in the consolidation of identities and symbolic networks. Although these objects have a consolidated historical trajectory, their agency has been changing as they have been touched by the dynamics of conservation, commodification, and resignification. Her work brings these points of tension and breakdowns in craft traditions to the surface. Chaves is in her third year of the undergraduate program in history at the Universidad Nacional de Colombia, where she has participated in projects on digital history, environmental history, and oral history and memory. She is currently part of the Public and Digital History group and is linked to the Laboratory of Historical Cartography and Digital History.
 
 ##
 **Christina Emery**
+
+- authortitle: *Summer 2020 Fellow*
 
 ![](Emery.jpg)
 
@@ -56,12 +68,16 @@ Julia Fine is a graduate student at the University of Cambridge studying Modern 
 ##
 **Rebecca Friedel**
 
+- authortitle: *Summer 2020 Fellow*
+
 ![](Friedel_300x300.jpg)
 
 Rebecca Friedel focuses on the cultural histories of plants from the Americas as a Plant Humanities Research Associate with Dumbarton Oaks. Friedel is also a paleoethnobotanist and PhD candidate in Anthropology at the University of Texas at San Antonio. Her doctoral research takes an interdisciplinary approach to reconstructing ancient Maya human-plant relationships. She is currently a U.S. Fulbright Scholar at the University of Belize where she is teaching under and establishing a BA program in Anthropology. She is passionate about education and improving access to knowledge more broadly, having co-founded an educational outreach 501c3 organization, Heritage Education Network Belize.
 
 ##
 **Kristan M. Hanson**
+
+- authortitle: *Fellow 2020-2021*
 
 ![](Hanson_300x300.jpg)
 
@@ -70,6 +86,8 @@ Kristan M. Hanson is a Plant Humanities Fellow at Dumbarton Oaks. She is an art 
 ##
 **Yao Jiang**
 
+- authortitle: *Summer 2020 Fellow*
+
 ![](Jiang.jpg)
 
 Jiang’s research explores the reinterpretation and reintroduction of the Chinese garden into modern discourse as a critical instrument to document China’s continuous cultural traditions. He is interested in the construction material exchanges and flows of the Chinese garden and its social and cultural relations, especially the introduction and cultivation of Chinese plants into the United States in the late twentieth century. For his thesis, Jiang is focusing on how the Astor Chinese Garden Court in the Metropolitan Museum of Art reshaped America’s understanding of the Chinese garden using several lenses, including the field of plant humanities. Jiang is a master student in architectural history at the University of Virginia. He holds a Bachelor of Art in environmental design from Tongji University. Jiang has served as the teaching assistant for the Sustainability Consciousness course at Tongji University (fall 2018) and the Metropolis course at UVA (spring 2020). He has recently been selected as a 2020 recipient of the Student Research Grant from the School of Architecture for his thesis project. Jiang is currently a part-time daily translator and editor to the ArchDaily China platform and serves as a research assistant to Andrew Johnston for his book project on preservation practice in China.
@@ -77,12 +95,16 @@ Jiang’s research explores the reinterpretation and reintroduction of the Chine
 ##
 **Cati Kalinoski**
 
+- authortitle: *Summer 2020 Fellow*
+
 ![](Kalinoski.jpg)
 
 Kalinoski’s research examines plant-life exhibition work through the lens of performance to investigate theories of time, extinction, and the natural world. Her research is grounded on what we as humans can learn from plants and how they shape humans’ positions in the world. Taking from disciplines such as performance studies, anthropology, museum studies, environmental studies, and philosophy, Kalinoski’s work images a new form of politics around the lessons learned from nature. Kalinoski is a master candidate at New York University’s Tisch School of the Arts Performance Studies program and a theater practitioner. Her work is centered on plant studies and theories extinction through the lens of performance and exploring new notions of time in the Anthropocene. She has been awarded the Artist and Scholar Award for her research and has presented her work across the United States
 
 ##
 **Wouter Klein**
+
+- authortitle: *Fellow 2020-2021*
 
 ![](Klein_300x300.jpg)
 
@@ -105,6 +127,8 @@ Lawrence’s research explores the sociopolitical lives of flowers in Victorian 
 ##
 **Lucas Mertehikian**
 
+- authortitle: *Summer 2020 Fellow*
+
 ![](Mertehikian.jpg)
 
 Mertehikian’s research offers a new lens on how to look at Latin American identity and its cultural and political relation with the United States with a focus on collecting efforts carried out by American scientists, diplomats, and scholars from the 1840s to the 1970s. Specifically, he analyzes three collections as case studies: Harvard University’s Latin American botanical collection, Dumbarton Oaks’ Pre-Columbian art collection, and Princeton University’s Latin American literary manuscripts collection. His current work examines how American botanist Asa Gray first took an interest in Latin American nature in the nineteenth century and the political implications that informed his collection of Latin American specimens. Mertehikian is a PhD candidate in Romance languages and literatures at Harvard University. He holds a licenciatura in literature from the Universidad de Buenos Aires and a master’s in Latin American Studies from the Universidad Nacional de Tres de Febrero, both in Argentina. In 2018, he cocurated the exhibition Passports: Lives in Transit at Houghton Library, which featured in the Boston Globe, the Harvard Gazette, and the Armenian Spectator, among other publications.
@@ -119,12 +143,16 @@ Dr. Victoria Pickering is a Research Associate in the Plant Humanities Initiativ
 ##
 **Daisy Reid**
 
+- authortitle: *Summer 2020 Fellow*
+
 ![](Reid.jpg)
 
 Daisy Reid is a graduate student in comparative literature at the University of Southern California, with a research focus on contemporary speculative and ecological fictions in conversation with critical race, queer, and feminist theory. She holds a BA in French and Italian from University College London and an MA in comparative literature from the University of Amsterdam. Her current work explores literary and artistic representations of plant-being as they come to bear upon (bio)political structures surrounding gender, sexuality, erotics, and desire.
 
 ##
 **Melinda Susanto**
+
+- authortitle: *Summer 2020 Fellow*
 
 ![](Susanto.jpg)
 
@@ -139,6 +167,8 @@ Anatole Tchikine is curator of rare books at Dumbarton Oaks. An architectural hi
 
 ##
 **May Wang**
+
+- authortitle: *Summer 2020 Fellow*
 
 ![](Wang.jpg)
 
