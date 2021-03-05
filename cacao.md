@@ -2,6 +2,8 @@
        title="Cacao: Indigenous Network to Global Commodity"
        source-image="https://upload.wikimedia.org/wikipedia/commons/3/31/Cacao_Nacional_Fino_de_Aroma.jpg"
        banner="https://jstor-labs.github.io/plant-humanities/images/banners/cacao.jpg"
+       eid="Q105747484"
+       about="Q42385"
        layout="vtl"
        num-plant-specimens="1"
        num-maps="7"
