@@ -112,7 +112,6 @@ Another technology, the [Wardian case,](https://www.doaks.org/resources/online-e
 ### Pelargonium-mania in the Victorian Era
 
 <param ve-entity eid="Q444145" title="Bowood House">
-<param ve-entity eid="Q23928167" title="Alton Towers estate" aliases="Alton Gardens">
 <param ve-entity eid="Q1585312" title="Harewood House">
 It was against this backdrop that pelargoniums became a centerpiece of many municipal and private pleasure gardens in Victorian England. In the 1837 volume of the magazine [_The Floricultural Cabinet_,](https://www.biodiversitylibrary.org/page/15889416) a number of pelargoniums for bedding were well-known garden staples.[^ref18] As the number of commercially available hybrids increased, so did their profile in the era’s most fashionable green spaces, a trend celebrated by artist Edward Adveno Brooke’s 1858 book [_The Gardens of England_](https://www.biodiversitylibrary.org/page/41414093).[^ref19] As he explains, the bright scarlet pelargonium bloomed nearly everywhere, from stone vases to flowerbeds and parterres. Indeed, [Brooke represented these locations in paintings](https://thegardenstrust.blog/2018/04/14/edward-adveno-brooke-and-the-gardens-of-england/) that were reproduced as chromolithographs for his book, including the ones depicting the upper and lower terrace gardens of Bowood House, the colonnade of Alton Gardens, as well as the parterre of Harewood House.
 <param ve-image primary fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/7bb7b2497e60ddb143c61e1d2a292b1fd6c309d48e014234f85106312f67188e">
