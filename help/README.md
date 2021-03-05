@@ -74,6 +74,7 @@ Links appear throughout the narrative text. Links to external sources will open 
 
 ## Cite this essay
 Clicking the “Cite this essay” button in the essay header will launch a popup window with the citation of the current essay in three formats: MLA, APA and Chicago. Click “Copy” of the format you’re using to copy the citation to your clipboard and paste it wherever you are managing references.  
+<param ve-image fit="contain" url="cite_this.jpg">
 
 # Plant Search
 
