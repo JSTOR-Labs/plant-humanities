@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=pelargonium/f82cac90",
-    "total": 7,
-    "modified": "2021-03-05T21:34:00.275336"
+    "total": 8,
+    "modified": "2021-03-05T21:35:00.360750"
   },
   "startIndex": 0,
   "items": [
@@ -155,6 +155,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "pelargonium/f82cac90/22b2d76c",
       "seq": 6
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Distillation of rose-scented pelargoniums<br>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:4.900005340576172,1790.1778564453125,1385.9099311828613,1013.1480712890625"
+        },
+        "id": "pelargonium/f82cac90"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/f82cac90/942be79e",
+      "seq": 7
     }
   ]
 }
