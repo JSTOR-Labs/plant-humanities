@@ -85,27 +85,27 @@ Clicking the “More resources” button in the essay header will launch a new w
 ## From the Homepage
 Enter your search on the home page. Select your language (the default is set to English) and enter your term or topic. Plant Search looks specifically for entities such as plants, people, places and subjects. As you type, topics and suggestions will appear. If no suggestions appear, there are no results for your search terms and you should try different terms.
 
-When you have selected a search term, the search results will appear. Search results combine data and results from multiple sources. At the top of the search results is the search term itself, its QID or unique WikiData identifier, alternate names or synonyms for the term, and the term’s category. Below this is a short description coupled with an image, followed by links to the source entry from Wikipedia, WikiData and WikiMedia Commons.
+When you have selected a search term, the search results will appear. Search results combine data and results from multiple sources. At the top of the search results is the search term itself, its QID or unique WikiData identifier, alternate names or synonyms for the term, and the term’s category. Below this is a short description coupled with an image, followed by links to the source entry from Wikipedia, WikiData, and WikiMedia Commons.
 
 Below this general information is a set of expandable components. Components on the left present data from WikiData; those on the right collect primary and secondary resources from a variety of sites (including this one!). Not all components will appear on every results page-some components appear only on certain plant-associated results.
 
-All Properties: WikiData properties are statements consisting of data about the topic. The data that appear are entirely contextual-for example, birth and death dates may appear in a person’s page, while geographic coordinates or population may appear on a city’s page. Properties are listed alphabetically.  
+**All Properties:** WikiData properties are statements consisting of data about the topic. The data that appear are entirely contextual-for example, birth and death dates may appear in a person’s page, while geographic coordinates or population may appear on a city’s page. Properties are listed alphabetically.  
 
-Taxonomy: When the result is a plant, the plant’s taxonomic information will appear in the first three components.  Taxon Properties describes the current taxon.  Taxonomy and Taxon Children show above and below the taxon in the taxonomic hierarchy. 
+**Taxonomy:** When the result is a plant, the plant’s taxonomic information will appear in the first three components.  Taxon Properties describes the current taxon.  Taxonomy and Taxon Children show above and below the taxon in the taxonomic hierarchy. 
 
-From Related Items: Lists other WikiData entries that refer to this entry. For example, the Sunflower results page identifies paintings and artwork that depict sunflowers.  
+**From Related Items:** Lists other WikiData entries that refer to this entry. For example, the sunflower results page identifies paintings and artwork that depict sunflowers.  
 
-External Sources: Links to the term’s unique identifiers in other databases.
+**External Sources:** Links to the term’s unique identifiers in other databases.
 
-Global Plants: Shows and links to type specimens for the related species from JSTOR Global Plants.  
+**Global Plants:** Shows and links to type specimens for the related species from JSTOR Global Plants.  
 
-Journal Content: Journal articles mentioning or about the relevant topic are listen and linked to from this component. The JSTOR tab shows articles from, you guessed it, JSTOR-access to those articles are based on your access to JSTOR.The Wikidata tab shows articles from other sources with this term listed as a topic mentioned in Wikidata 
+**Journal Content:** Journal articles mentioning or about the relevant topic are listen and linked to from this component. The JSTOR tab shows articles from, you guessed it, JSTOR-access to those articles are based on your access to JSTOR.The Wikidata tab shows articles from other sources with this term listed as a topic mentioned in Wikidata 
 
-Images: Images related to this topic from Artstor, Creative Commons, and WikiData are displayed and linked to.
+**Images:** Images related to this topic from Artstor, Creative Commons, and WikiData are displayed and linked to.
 
-Mentioned Entities: Listed here are people, places, works and other entities that this entity mentions or refers to in its Wikipedia entry.
+**Mentioned Entities:** Listed here are people, places, works and other entities that this entity mentions or refers to in its Wikipedia entry.
 
-Visual Essays: When there is a Plant Humanities Lab plant narrative about this topic or plant, it is listed here.
+**Visual Essays:** When there is a Plant Humanities Lab plant narrative about this topic or plant, it is listed here.
 
 If you are interested in creating your own plant narrative or other visual essay, please refer to the documentation for Juncture, a new, open source tool developed by JSTOR Labs that helps researchers and students make complex arguments and tell compelling stories.
 
