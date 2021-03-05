@@ -20,10 +20,9 @@ Some images have annotations calling attention to specific portions of the image
 	url="https://upload.wikimedia.org/wikipedia/commons/2/2e/Ming_herbal_%28painting%29%3B_Chinese_herbaceous_peony_Wellcome_L0039426.jpg">
 	
 ## Maps 
-Pan and zoom the maps by clicking on the map or on the + and - icons. You can show and hide layers on the map by selecting the layers icon. 
-<param ve-map title="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" center="17.265945, -94.268896" zoom="5.5" hide-labels="true" basemap="Esri_WorldPhysical">
-<param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson">
-<param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson">
+Pan and zoom the maps by clicking on the map or on the + and - icons. You can show and hide layers on the map by selecting the layers icon. Hover over a shaded area for more information.
+<param ve-map title="Origins of Banana" center="3.979260, 129.067833" basemap="Esri_WorldPhysical" zoom="4" stroke-width="0">
+<param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/banana_distribution.json">
 
 Some maps have time-encoded data, with a control panel at the bottom letting you select the dates for which to display map data, and the ability to animate the display of map features for specific time periods, showing change over time on the map.
 <param ve-map
@@ -62,8 +61,11 @@ Play and pause videos using the video controls.
 
 ## Tabular data
 Scroll through the table using your cursor or arrow keys; sort the table by clicking on column headers.
-Timelines:  navigate the timeline by clicking on the < and > icons or selecting from the control pane at the bottom of the screen.
 <param ve-tabulator url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/Emmenagogic_Herbs.tsv">
+
+## Timelines
+Navigate the timeline by clicking on the < and > icons or selecting from the control pane at the bottom of the screen.
+<param ve-knightlab-timeline source="1mlXQQ3VKfeYznV2VktShOQd2-7aH5p52_n20LQ1U0uE" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
 
 ## Links
 Links appear throughout the narrative text. Links to external sources will open in a new tab and be indicated with an [arrow] icon. Other links will either provide additional information regarding the highlighted term, or it will affect the component pane, for example zooming an image to the relevant site. When you encounter an endnote, click on it to see the note. You will be brought to the relevant note at the end of the text, with a link to a return to the relevant paragraph. 
