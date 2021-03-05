@@ -7,16 +7,12 @@
 ##
 **Thomas C. Anderson**
 
-- authortitle: *Summer School 2020 Participant*
-
 ![](Anderson.jpg)
 
 Anderson’s research, which draws upon both historical archival studies as well as plant biology and botany, explores how early modern colonial encounters with the natural world helped shape our modern pharmacopoeia. To the early modern naturalist and explorer, the keys to life’s greatest mysteries were to be found in the petals, leaves, and anthers of strange and exotic plants. Amerindian horticultural, botanical, and art-historical contributions to this complicated and multifaceted story have only recently emerged as a subject of scholarly interest. Anderson uses the history of medicine and botany to help elucidate the unknown pasts that have nonetheless had a major impact on the construction of scientific and medical knowledge up to today. Anderson is a master’s candidate at Columbia University. He holds a bachelor’s in history and French and Francophone Studies from Hamilton College. Anderson has explored transoceanic acclimatization and the indigenous Guanche pharmacopoeia in the Canary Islands; the early modern history of imperial science and medicine in Paris; ethnobotany and plant taxonomy at the New York Botanical Gardens; historical manuscripts concerning colonial plants and their uses at the John Carter Brown Library; and toxicity and plant defense systems at Cornell University. 
 
 ##
 **Yota Batsaki**
-
-- authortitle: *Principal Investigator*
 
 ![](Bataski.jpg)
 
@@ -25,16 +21,12 @@ Yota Batsaki is the executive director of Dumbarton Oaks, a Harvard research ins
 ##
 **Camilo Uribe Botta**
 
-- authortitle: *Summer School 2020 Participant*
-
 ![](Botta.jpg)
 
 Uribe Botta’s current PhD research explores the orchid trade between Colombia and the United Kingdom in the nineteenth century, focusing on the global connections created around the plants in both sides of the Atlantic. His research analyzes the networks around these plants, from their hunting in the Colombian jungles to their conservation in British Botanical Gardens or collections from wealthy British collectors. Its overall aim is to chart the economic, scientific, and cultural conditions that led to the success of tropical orchids as a scientific and a commodity object. He focuses on the agency of orchids in global history and their relationship with humans in the nineteenth-century commerce. Botta is a PhD candidate in history at the University of Warwick. He holds a bachelor’s and a master’s in history from Universidad de los Andes in Bogota, Colombia. Uribe Botta has been assistant curator and registrar and collections manager of the Museo Colonial and Museo Santa Clara, two public institutions that are part of the Ministry of Culture of Colombia. He participated in the overhaul and total renovation of the museum’s exhibitions between 2013 and 2019. He has been a history consultant for different cultural projects in museums, theaters, and television, including the Canoas Archeological Park in Soacha, the Teatro Colón de Bogotá, and Bolívar from Caracol TV and Netflix.
 
 ##
 **Ashley Buchanan**
-
-- authortitle: *Postdoctoral Fellow*
 
 ![](Buchanan_300x300.jpg)
 
@@ -43,16 +35,12 @@ Ashley Buchanan is the Postdoctoral Fellow for the Plant Humanities Initiative a
 ##
 **Verónica Marallana Chaves**
 
-- authortitle: *Summer School 2020 Participant*
-
 ![](Chaves.jpg)
 
 Matallana Chaves’s undergraduate thesis research focuses on the history of textile work in Colombia and the use of natural fibers with a botanical-historical approach. Given the country’s sociocultural diversity, material cultural objects with an artisan trajectory play a key role in the consolidation of identities and symbolic networks. Although these objects have a consolidated historical trajectory, their agency has been changing as they have been touched by the dynamics of conservation, commodification, and resignification. Her work brings these points of tension and breakdowns in craft traditions to the surface. Chaves is in her third year of the undergraduate program in history at the Universidad Nacional de Colombia, where she has participated in projects on digital history, environmental history, and oral history and memory. She is currently part of the Public and Digital History group and is linked to the Laboratory of Historical Cartography and Digital History.
 
 ##
 **Christina Emery**
-
-- authortitle: *Summer School 2020 Participant*
 
 ![](Emery.jpg)
 
@@ -61,16 +49,12 @@ Christina Emery is a senior undergraduate student majoring in archaeology and an
 ##
 **Julia Fine**
 
-- authortitle: *Fellow 2019–2020*
-
 ![](Julia_300x300.jpg)
 
 Julia Fine is a graduate student at the University of Cambridge studying Modern South Asian Studies as a George Kingsley Roth and Cambridge Trust Scholar. She received her A.B. from Harvard University in History & Literature. In 2019, Julia was a fellow at the Folger Shakespeare Library, where she worked on the Mellon-funded “Before ‘Farm to Table’: Early Modern Foodways and Cultures“ project. In 2020, she joined the Plant Humanities Initiative at Dumbarton Oaks, where she explored the movement of plants through the lens of imperial ambitions specifically within the context of the Indian Ocean world.
 
 ##
 **Rebecca Friedel**
-
-- authortitle: *Fellow 2019–2020*
 
 ![](Friedel_300x300.jpg)
 
@@ -79,16 +63,12 @@ Rebecca Friedel focuses on the cultural histories of plants from the Americas as
 ##
 **Kristan M. Hanson**
 
-- authortitle: *Fellow 2020–2021*
-
 ![](Hanson_300x300.jpg)
 
 Kristan M. Hanson is a Plant Humanities Fellow at Dumbarton Oaks. She is an art historian of nineteenth-century France, with a particular focus on depictions of women, ornamental plants, and spaces of horticultural labor and leisure. She received her PhD in art history from the University of Kansas in 2020. Her research interests include visual portrayals of plants and human-plant interactions; cultural associations of flowers and floral imagery with social markers of difference; horticultural trade networks, colonialism, and intimacy; and artistic engagements with environmental issues. Her dissertation applied digital humanities methods and tools to the study of horticultural art, plant mobility, and gendered spatial practices in the context of 1870s Paris. She has received fellowships and awards from the Oak Spring Garden Foundation, HASTAC Scholars program, and the Hall Center for the Humanities. Most recently, she coedited the exhibition catalogue _Perspectives on a Legacy Collection: Sallie Casey Thayer’s Gift to the University of Kansas_ (2020).
 
 ##
 **Yao Jiang**
-
-- authortitle: *Summer School 2020 Participant*
 
 ![](Jiang.jpg)
 
@@ -97,16 +77,12 @@ Jiang’s research explores the reinterpretation and reintroduction of the Chine
 ##
 **Cati Kalinoski**
 
-- authortitle: *Summer School 2020 Participant*
-
 ![](Kalinoski.jpg)
 
 Kalinoski’s research examines plant-life exhibition work through the lens of performance to investigate theories of time, extinction, and the natural world. Her research is grounded on what we as humans can learn from plants and how they shape humans’ positions in the world. Taking from disciplines such as performance studies, anthropology, museum studies, environmental studies, and philosophy, Kalinoski’s work images a new form of politics around the lessons learned from nature. Kalinoski is a master candidate at New York University’s Tisch School of the Arts Performance Studies program and a theater practitioner. Her work is centered on plant studies and theories extinction through the lens of performance and exploring new notions of time in the Anthropocene. She has been awarded the Artist and Scholar Award for her research and has presented her work across the United States
 
 ##
 **Wouter Klein**
-
-- authortitle: *Fellow 2020–2021*
 
 ![](Klein_300x300.jpg)
 
@@ -122,16 +98,12 @@ W. John Kress is Distinguished Scientist and Curator Emeritus at the Smithsonian
 ##
 **Anna Lawrence**
 
-- authortitle: *Summer School 2020 Participant*
-
 ![](Lawrence.jpg)
 
 Lawrence’s research explores the sociopolitical lives of flowers in Victorian Britain, considering the different plant-human relations at play in the commodification of cut-flowers, botanical instruction for women and girls, domestic working-class floriculture, and settler colonial horticulture. Grounded theoretically in critical plant studies, Lawrence is interested in the material intimacies at play in these different spheres of plant-human interaction and how they were thought about at the time, seeking to illuminate a world of alternative and exaggerated sensibilities between people and plants to help us question our own approaches to plant nature today. Lawrence is a PhD student in the Department of Geography at the University of Cambridge where she also undertook her undergraduate and master’s degrees. She is a cultural and historical geographer interested in plant-human relations. In addition to Victorian floriculture, she has worked on weeds and urban nature, as well as Caribbean music and culture in the United Kingdom. Anna currently co-convenes the graduate student-led research group Vegetal Epistemologies in Cambridge.
 
 ##
 **Lucas Mertehikian**
-
-- authortitle: *Summer School 2020 Participant*
 
 ![](Mertehikian.jpg)
 
@@ -140,16 +112,12 @@ Mertehikian’s research offers a new lens on how to look at Latin American iden
 ##
 **Victoria Pickering**
 
-- authortitle: *Fellow 2019–2020*
-
 ![](Pickering_300x300.jpg)
 
 Dr. Victoria Pickering is a Research Associate in the Plant Humanities Initiative, having been a Research Fellow at Dumbarton Oaks  between 2019-2020. Previously, she researched the global movement of plants from the late seventeenth century onward at the British Museum and the Natural History Museum in London. Today, she continues to explore the collection, description, management, and use of natural history objects in the early modern period.
 
 ##
 **Daisy Reid**
-
-- authortitle: *Summer School 2020 Participant*
 
 ![](Reid.jpg)
 
@@ -158,8 +126,6 @@ Daisy Reid is a graduate student in comparative literature at the University of 
 ##
 **Melinda Susanto**
 
-- authortitle: *Summer School 2020 Participant*
-
 ![](Susanto.jpg)
 
 Susanto’s research investigates the practices of health and medicine in eighteenth-century Indonesia through the records of the Dutch East India Company. She is focusing on the utility of plants and indigenous knowledge from the archipelago, particularly the role of local intermediaries in facilitating European knowledge production of the region. Susanto is a PhD candidate in history at Leiden University. She recently completed an MA in colonial and global history at Leiden University in 2019. Prior to this, she worked as an assistant curator at the National Gallery Singapore between 2014 and 2018. Her previous projects have explored visual materials reflecting interactions between Europe and Southeast Asia, including works on paper and books produced as a result of European scientific explorations of the region. Susanto also holds an MA in the history of art from the Courtauld Institute of Art and a BA in art history and Ancient Greek from the Australian National University.
@@ -167,16 +133,12 @@ Susanto’s research investigates the practices of health and medicine in eighte
 ##
 **Anatole Tchikine**
 
-- authortitle: *Co-investigator*
-
 ![](Tchikine_300x300.jpg)
 
 Anatole Tchikine is curator of rare books at Dumbarton Oaks. An architectural historian and a specialist on early modern Italy, he holds a PhD from the University of Dublin, Trinity College. His work mainly addresses the intersections of art and science, including the history of fountain design, botanical gardens, and collecting and representations of nature. He is the author, with Pierre de la Ruffinière du Prey, of _“Discrizione della Villa Pliniana”: Reimagining Antiquity in the Landscape of Umbria_ (2021), editor of _The Three Natures: Gardens and Landscapes of the Italian Renaissance_ (forthcoming), and coeditor of _The Botany of Empire in the Long Eighteenth Century_ (2016) and _Military Landscapes_ (2021).
 
 ##
 **May Wang**
-
-- authortitle: *Summer School 2020 Participant*
 
 ![](Wang.jpg)
 
