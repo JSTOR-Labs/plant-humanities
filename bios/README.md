@@ -7,7 +7,7 @@
 ##
 **Thomas C. Anderson**
 
-- authortitle: *Summer 2020 Fellow*
+- authortitle: *Summer School 2020 Participant*
 
 ![](Anderson.jpg)
 
@@ -25,7 +25,7 @@ Yota Batsaki is the executive director of Dumbarton Oaks, a Harvard research ins
 ##
 **Camilo Uribe Botta**
 
-- authortitle: *Summer 2020 Fellow*
+- authortitle: *Summer School 2020 Participant*
 
 ![](Botta.jpg)
 
@@ -43,7 +43,7 @@ Ashley Buchanan is the Postdoctoral Fellow for the Plant Humanities Initiative a
 ##
 **Verónica Marallana Chaves**
 
-- authortitle: *Summer 2020 Fellow*
+- authortitle: *Summer School 2020 Participant*
 
 ![](Chaves.jpg)
 
@@ -52,7 +52,7 @@ Matallana Chaves’s undergraduate thesis research focuses on the history of tex
 ##
 **Christina Emery**
 
-- authortitle: *Summer 2020 Fellow*
+- authortitle: *Summer School 2020 Participant*
 
 ![](Emery.jpg)
 
@@ -61,6 +61,8 @@ Christina Emery is a senior undergraduate student majoring in archaeology and an
 ##
 **Julia Fine**
 
+- authortitle: *Fellow 2019–2020*
+
 ![](Julia_300x300.jpg)
 
 Julia Fine is a graduate student at the University of Cambridge studying Modern South Asian Studies as a George Kingsley Roth and Cambridge Trust Scholar. She received her A.B. from Harvard University in History & Literature. In 2019, Julia was a fellow at the Folger Shakespeare Library, where she worked on the Mellon-funded “Before ‘Farm to Table’: Early Modern Foodways and Cultures“ project. In 2020, she joined the Plant Humanities Initiative at Dumbarton Oaks, where she explored the movement of plants through the lens of imperial ambitions specifically within the context of the Indian Ocean world.
@@ -68,7 +70,7 @@ Julia Fine is a graduate student at the University of Cambridge studying Modern 
 ##
 **Rebecca Friedel**
 
-- authortitle: *Summer 2020 Fellow*
+- authortitle: *Fellow 2019–2020*
 
 ![](Friedel_300x300.jpg)
 
@@ -77,7 +79,7 @@ Rebecca Friedel focuses on the cultural histories of plants from the Americas as
 ##
 **Kristan M. Hanson**
 
-- authortitle: *Fellow 2020-2021*
+- authortitle: *Fellow 2020–2021*
 
 ![](Hanson_300x300.jpg)
 
@@ -86,7 +88,7 @@ Kristan M. Hanson is a Plant Humanities Fellow at Dumbarton Oaks. She is an art 
 ##
 **Yao Jiang**
 
-- authortitle: *Summer 2020 Fellow*
+- authortitle: *Summer School 2020 Participant*
 
 ![](Jiang.jpg)
 
@@ -95,7 +97,7 @@ Jiang’s research explores the reinterpretation and reintroduction of the Chine
 ##
 **Cati Kalinoski**
 
-- authortitle: *Summer 2020 Fellow*
+- authortitle: *Summer School 2020 Participant*
 
 ![](Kalinoski.jpg)
 
@@ -104,7 +106,7 @@ Kalinoski’s research examines plant-life exhibition work through the lens of p
 ##
 **Wouter Klein**
 
-- authortitle: *Fellow 2020-2021*
+- authortitle: *Fellow 2020–2021*
 
 ![](Klein_300x300.jpg)
 
@@ -120,6 +122,8 @@ W. John Kress is Distinguished Scientist and Curator Emeritus at the Smithsonian
 ##
 **Anna Lawrence**
 
+- authortitle: *Summer School 2020 Participant*
+
 ![](Lawrence.jpg)
 
 Lawrence’s research explores the sociopolitical lives of flowers in Victorian Britain, considering the different plant-human relations at play in the commodification of cut-flowers, botanical instruction for women and girls, domestic working-class floriculture, and settler colonial horticulture. Grounded theoretically in critical plant studies, Lawrence is interested in the material intimacies at play in these different spheres of plant-human interaction and how they were thought about at the time, seeking to illuminate a world of alternative and exaggerated sensibilities between people and plants to help us question our own approaches to plant nature today. Lawrence is a PhD student in the Department of Geography at the University of Cambridge where she also undertook her undergraduate and master’s degrees. She is a cultural and historical geographer interested in plant-human relations. In addition to Victorian floriculture, she has worked on weeds and urban nature, as well as Caribbean music and culture in the United Kingdom. Anna currently co-convenes the graduate student-led research group Vegetal Epistemologies in Cambridge.
@@ -127,7 +131,7 @@ Lawrence’s research explores the sociopolitical lives of flowers in Victorian 
 ##
 **Lucas Mertehikian**
 
-- authortitle: *Summer 2020 Fellow*
+- authortitle: *Summer School 2020 Participant*
 
 ![](Mertehikian.jpg)
 
@@ -136,6 +140,8 @@ Mertehikian’s research offers a new lens on how to look at Latin American iden
 ##
 **Victoria Pickering**
 
+- authortitle: *Fellow 2019–2020*
+
 ![](Pickering_300x300.jpg)
 
 Dr. Victoria Pickering is a Research Associate in the Plant Humanities Initiative, having been a Research Fellow at Dumbarton Oaks  between 2019-2020. Previously, she researched the global movement of plants from the late seventeenth century onward at the British Museum and the Natural History Museum in London. Today, she continues to explore the collection, description, management, and use of natural history objects in the early modern period.
@@ -143,7 +149,7 @@ Dr. Victoria Pickering is a Research Associate in the Plant Humanities Initiativ
 ##
 **Daisy Reid**
 
-- authortitle: *Summer 2020 Fellow*
+- authortitle: *Summer School 2020 Participant*
 
 ![](Reid.jpg)
 
@@ -152,7 +158,7 @@ Daisy Reid is a graduate student in comparative literature at the University of 
 ##
 **Melinda Susanto**
 
-- authortitle: *Summer 2020 Fellow*
+- authortitle: *Summer School 2020 Participant*
 
 ![](Susanto.jpg)
 
@@ -161,6 +167,8 @@ Susanto’s research investigates the practices of health and medicine in eighte
 ##
 **Anatole Tchikine**
 
+- authortitle: *Co-investigator*
+
 ![](Tchikine_300x300.jpg)
 
 Anatole Tchikine is curator of rare books at Dumbarton Oaks. An architectural historian and a specialist on early modern Italy, he holds a PhD from the University of Dublin, Trinity College. His work mainly addresses the intersections of art and science, including the history of fountain design, botanical gardens, and collecting and representations of nature. He is the author, with Pierre de la Ruffinière du Prey, of _“Discrizione della Villa Pliniana”: Reimagining Antiquity in the Landscape of Umbria_ (2021), editor of _The Three Natures: Gardens and Landscapes of the Italian Renaissance_ (forthcoming), and coeditor of _The Botany of Empire in the Long Eighteenth Century_ (2016) and _Military Landscapes_ (2021).
@@ -168,7 +176,7 @@ Anatole Tchikine is curator of rare books at Dumbarton Oaks. An architectural hi
 ##
 **May Wang**
 
-- authortitle: *Summer 2020 Fellow*
+- authortitle: *Summer School 2020 Participant*
 
 ![](Wang.jpg)
 
