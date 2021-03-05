@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=pelargonium/f82cac90",
-    "total": 8,
-    "modified": "2021-03-05T21:51:48.544469"
+    "total": 9,
+    "modified": "2021-03-05T21:52:47.646120"
   },
   "startIndex": 0,
   "items": [
@@ -176,6 +176,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "pelargonium/f82cac90/77769005",
       "seq": 7
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Pelargonium treatment, harvesting oil<br>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1558.7896728515625,1988.5618896484375,872.4388427734375,638.0162353515625"
+        },
+        "id": "pelargonium/f82cac90"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/f82cac90/18ad23ac",
+      "seq": 8
     }
   ]
 }
