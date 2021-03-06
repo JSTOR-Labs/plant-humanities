@@ -1,5 +1,5 @@
 <param ve-config
-	   title="How to Use this Site"
+	   title="How to Use the Plant Humanities Lab"
 	   layout="vtl">
 
 You can use Plant Humanities Lab to explore the cultural histories of plants and their influence on human societies in two ways: take a guided tour of a single plant’s influence through curated and interactive plant narratives, or use the plant search to discover resources and data associated with people, places and plants.
