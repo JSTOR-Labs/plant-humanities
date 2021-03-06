@@ -75,13 +75,13 @@ Links appear throughout the narrative text. Links to external sources will open 
 
 ## Cite this essay
 Clicking the “Cite this essay” button in the essay header will launch a popup window with the citation of the current essay in three formats: MLA, APA and Chicago. Click “Copy” of the format you’re using to copy the citation to your clipboard and paste it wherever you are managing references.  
-<param ve-image fit="contain" url="cite_this.jpg">
+<param ve-image url="cite_this.jpg">
 
 # Plant Search
 
 ## From a Narrative
 Clicking the “More resources” button in the essay header will launch a new window with Plant Search results for the plant discussed in that essay.
-<param ve-image fit="contain" url="more_resources.jpg">
+<param ve-image url="more_resources.jpg">
 
 ## From the Homepage
 Enter your search on the home page. Select your language (the default is set to English) and enter your term or topic. Plant Search looks specifically for entities such as plants, people, places and subjects. As you type, topics and suggestions will appear. If no suggestions appear, there are no results for your search terms and you should try different terms.
