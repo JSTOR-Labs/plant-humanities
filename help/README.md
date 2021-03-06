@@ -118,4 +118,5 @@ When you have selected a search term, the search results will appear. Search res
 <param ve-image fit="contain" url="sunflowerwiki.jpg">
 
 If you are interested in creating your own plant narrative or other visual essay, please refer to the documentation for Juncture, a new, open source tool developed by JSTOR Labs that helps researchers and students make complex arguments and tell compelling stories.
+<param ve-image fit="contain" url="juncture.jpg">
 
