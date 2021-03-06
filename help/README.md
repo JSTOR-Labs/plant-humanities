@@ -81,41 +81,41 @@ Clicking the “Cite this essay” button in the essay header will launch a popu
 
 ## From a Narrative
 Clicking the “More resources” button in the essay header will launch a new window with Plant Search results for the plant discussed in that essay.
-<param ve-image url="more_resources.jpg">
+<param ve-image fit="contain" url="more_resources.jpg">
 
 ## From the Homepage
 Enter your search on the home page. Select your language (the default is set to English) and enter your term or topic. Plant Search looks specifically for entities such as plants, people, places and subjects. As you type, topics and suggestions will appear. If no suggestions appear, there are no results for your search terms and you should try different terms.
-<param ve-image url="search_from_home.jpg">
+<param ve-image fit="contain" url="search_from_home.jpg">
 
 When you have selected a search term, the search results will appear. Search results combine data and results from multiple sources. At the top of the search results is the search term itself, its QID or unique WikiData identifier, alternate names or synonyms for the term, and the term’s category. Below this is a short description coupled with an image, followed by links to the source entry from Wikipedia, WikiData, and WikiMedia Commons. Below this general information is a set of expandable components. Components on the left present data from WikiData; those on the right collect primary and secondary resources from a variety of sites (including this one!). Not all components will appear on every results page-some components appear only on certain plant-associated results.
-<param ve-image url="search_home.jpg">
+<param ve-image fit="contain" url="search_home.jpg">
 
 **Taxon Properties:** WikiData properties are statements consisting of data about the topic. The data that appear are entirely contextual-for example, birth and death dates may appear in a person’s page, while geographic coordinates or population may appear on a city’s page. Properties are listed alphabetically.  
-<param ve-image url="search_3.jpg">
+<param ve-image fit="contain" url="search_3.jpg">
 
 **Taxonomy:** When the result is a plant, the plant’s taxonomic information will appear in the first three components.  Taxon Properties describes the current taxon. Taxonomy and Taxon Children show above and below the taxon in the taxonomic hierarchy. 
-<param ve-image url="search_4.jpg">
+<param ve-image fit="contain" url="search_4.jpg">
 
 **From Related Items:** Lists other WikiData entries that refer to this entry. For example, the sunflower results page identifies paintings and artwork that depict sunflowers.
-<param ve-image url="search_6.jpg">
+<param ve-image fit="contain" url="search_6.jpg">
 
 **External Sources:** Links to the term’s unique identifiers in other databases.
-<param ve-image url="search_7.jpg">
+<param ve-image fit="contain" url="search_7.jpg">
 
 **Global Plants:** Shows and links to type specimens for the related species from JSTOR Global Plants.
-<param ve-image url="search_8.jpg">
+<param ve-image fit="contain" url="search_8.jpg">
 
 **Journal Content:** Journal articles mentioning or about the relevant topic are listen and linked to from this component. The JSTOR tab shows articles from, you guessed it, JSTOR-access to those articles are based on your access to JSTOR.The Wikidata tab shows articles from other sources with this term listed as a topic mentioned in Wikidata.
-<param ve-image url="search_9.jpg">
+<param ve-image fit="contain" url="search_9.jpg">
 
 **Images:** Images related to this topic from Artstor, Creative Commons, and WikiData are displayed and linked to.
-<param ve-image url="search_10.jpg">
+<param ve-image fit="contain" url="search_10.jpg">
 
 **Mentioned Entities:** Listed here are people, places, works and other entities that this entity mentions or refers to in its Wikipedia entry.
-<param ve-image url="search_11.jpg">
+<param ve-image fit="contain" url="search_11.jpg">
 
 **Visual Essays:** When there is a Plant Humanities Lab plant narrative about this topic or plant, it is listed here.
-<param ve-image url="sunflowerwiki.jpg">
+<param ve-image fit="contain" url="sunflowerwiki.jpg">
 
 If you are interested in creating your own plant narrative or other visual essay, please refer to the documentation for Juncture, a new, open source tool developed by JSTOR Labs that helps researchers and students make complex arguments and tell compelling stories.
 
