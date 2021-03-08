@@ -1,5 +1,5 @@
 <param ve-config
-	title="Watermelon: ‘What the Angels Eat’"
+	title="Watermelon: Stereotypes of Race and Class"
 	banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
 	eid="Q105749290"
 	about="Q17507129"
