@@ -2,12 +2,11 @@
 	   title="How to Use the Plant Humanities Lab"
 	   layout="vtl">
 
-You can use Plant Humanities Lab to explore the cultural histories of plants and their influence on human societies in two ways: take a guided tour of a single plant’s influence through curated and interactive plant narratives, or use the plant search to discover resources and data associated with people, places and plants.
+You can use Plant Humanities Lab to explore the cultural histories of plants and their influence on human societies in two ways: take a guided tour of a single plant’s influence through curated and interactive plant narratives, or use the plant search to discover resources and data associated with people, places, and plants.
 <param ve-image fit="contain" url="home_page.jpg">
 
 # Plant Narratives
-Select a narrative from the home page. Each narrative is dedicated to a single plant. As you scroll through the narrative, you’ll notice each paragraph of text is presented alongside a related visualization panel. You can change which paragraph is active either by scrolling or by clicking anywhere within a new paragraph.
-The visualization panel includes a variety of components, interactive maps, high-resolution images, data visualizations, and more. Icons to the right of the text indicate what components are available for each paragraph. Only one mode can display at a time, so you may have to click to see additional features. Components include:
+Select a narrative from the home page. Each narrative is dedicated to a single plant. As you scroll through the narrative, you’ll notice each paragraph of text is presented alongside a related visualization panel. You can change which paragraph is active either by scrolling or by clicking anywhere within a new paragraph. The visualization panel includes a variety of components, including interactive maps, high-resolution images, data visualizations, and more. Icons to the right of the text indicate what components are available for each paragraph. Only one mode can display at a time, so you may have to click to see additional features. Components include:
 <param ve-graphic url="Essays.gif">
 
 ## Images
@@ -43,7 +42,7 @@ Some maps have time-encoded data, with a control panel at the bottom letting you
 	url="us-states.json">
 
 ## Plant specimens
-Pan and zoom high-resolution plant specimens by clicking on the image or on the + and - icons.  Click the Home icon to return to the original presentation.  When multiple specimens are available, select the one you want by clicking on the thumbnail at the bottom of the pane.  Plant specimens are sourced from JSTOR Global Plants
+Pan and zoom high-resolution plant specimens by clicking on the image or on the + and - icons.  Click the Home icon to return to the original presentation.  When multiple specimens are available, select the one you want by clicking on the thumbnail at the bottom of the pane.  Plant specimens are sourced from JSTOR Global Plants.
 <param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/7abe92680267a8d60322bf353cbc5b915f2a372fbe7feaa4ecb4e0d5ecfb1326">
 <param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/f93acafc668f8bd6d6e33e405ee35309adebd17f166b17c12b176602ce525d8d">
 <param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/87622b8792fafd1cdb17ab278dbfba4b8f8ae21017b4334c3b781315229196d3">
@@ -74,7 +73,7 @@ Links appear throughout the narrative text. Links to external sources will open 
 <param ve-graphic url="Links.gif">
 
 ## Cite this essay
-Clicking the “Cite this essay” button in the essay header will launch a popup window with the citation of the current essay in three formats: MLA, APA and Chicago. Click “Copy” of the format you’re using to copy the citation to your clipboard and paste it wherever you are managing references.  
+Clicking the “Cite this essay” button in the essay header will launch a pop-up window with the citation of the current essay in three formats: MLA, APA, and Chicago. Click “Copy” of the format you’re using to copy the citation to your clipboard and paste it wherever you are managing references.  
 <param ve-image url="cite_this.jpg">
 
 # Plant Search
@@ -84,7 +83,7 @@ Clicking the “More resources” button in the essay header will launch a new w
 <param ve-image fit="contain" url="more_resources.jpg">
 
 ## From the Homepage
-Enter your search on the home page. Select your language (the default is set to English) and enter your term or topic. Plant Search looks specifically for entities such as plants, people, places and subjects. As you type, topics and suggestions will appear. If no suggestions appear, there are no results for your search terms and you should try different terms.
+Enter your search on the home page. Select your language (the default is set to English) and enter your term or topic. Plant Search looks specifically for entities such as plants, people, places, and subjects. As you type, topics and suggestions will appear. If no suggestions appear, there are no results for your search terms and you should try different terms.
 <param ve-image fit="contain" url="search_from_home.jpg">
 
 When you have selected a search term, the search results will appear. Search results combine data and results from multiple sources. At the top of the search results is the search term itself, its QID or unique WikiData identifier, alternate names or synonyms for the term, and the term’s category. Below this is a short description coupled with an image, followed by links to the source entry from Wikipedia, WikiData, and WikiMedia Commons. Below this general information is a set of expandable components. Components on the left present data from WikiData; those on the right collect primary and secondary resources from a variety of sites (including this one!). Not all components will appear on every results page-some components appear only on certain plant-associated results.
@@ -105,18 +104,18 @@ When you have selected a search term, the search results will appear. Search res
 **Global Plants:** Shows and links to type specimens for the related species from JSTOR Global Plants.
 <param ve-image fit="contain" url="search_8.jpg">
 
-**Journal Content:** Journal articles mentioning or about the relevant topic are listen and linked to from this component. The JSTOR tab shows articles from, you guessed it, JSTOR-access to those articles are based on your access to JSTOR.The Wikidata tab shows articles from other sources with this term listed as a topic mentioned in Wikidata.
+**Journal Content:** Journal articles mentioning or about the relevant topic are listed and linked in this component. The JSTOR tab shows articles from, you guessed it, JSTOR-access to those articles are based on your access to JSTOR.The Wikidata tab shows articles from other sources with this term listed as a topic mentioned in Wikidata.
 <param ve-image fit="contain" url="search_9.jpg">
 
 **Images:** Images related to this topic from Artstor, Creative Commons, and WikiData are displayed and linked to.
 <param ve-image fit="contain" url="search_10.jpg">
 
-**Mentioned Entities:** Listed here are people, places, works and other entities that this entity mentions or refers to in its Wikipedia entry.
+**Mentioned Entities:** Listed here are people, places, works, and other entities that this entity mentions or refers to in its Wikipedia entry.
 <param ve-image fit="contain" url="search_11.jpg">
 
 **Visual Essays:** When there is a Plant Humanities Lab plant narrative about this topic or plant, it is listed here.
 <param ve-image fit="contain" url="sunflowerwiki.jpg">
 
-If you are interested in creating your own plant narrative or other visual essay, please refer to the documentation for Juncture, a new, open source tool developed by JSTOR Labs that helps researchers and students make complex arguments and tell compelling stories.
+If you are interested in creating your own plant narrative or other visual essay, please refer to the documentation for Juncture, a new, open-source tool developed by JSTOR Labs that helps researchers and students make complex arguments and tell compelling stories.
 <param ve-image fit="contain" url="juncture.jpg">
 
