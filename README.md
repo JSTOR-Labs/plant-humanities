@@ -1,7 +1,7 @@
 <param ve-config title="Plant Humanities" layout="index" header="plants-index">
 
 
-# Featured Narratives
+# Featured Plant Narratives
 
 ## 
 [**Cacao: Indigenous Network to Global Commodity**](/cacao)
