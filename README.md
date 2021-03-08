@@ -20,7 +20,7 @@
 ##
 [**Heliconia: Evolution at Work**](/heliconia)
 
-- authors: John Kress and Yota Batsaki
+- authors: W. John Kress and Yota Batsaki
 
 ![](/images/thumbnails/heliconia.jpg)
 
@@ -121,7 +121,7 @@
 ##
 [**Heliconia: Evolution at Work**](/heliconia)
 
-- authors: John Kress and Yota Batsaki
+- authors: W. John Kress and Yota Batsaki
 
 ![](/images/thumbnails/heliconia.jpg)
 
