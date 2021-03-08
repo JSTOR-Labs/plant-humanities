@@ -1,7 +1,6 @@
 <param ve-config 
        title="Mint: The Ubiquity of a Commercial Crop" 
-       source-image="https://upload.wikimedia.org/wikipedia/commons/b/b4/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814764048982%29.jpg"
-       banner="https://jstor-labs.github.io/plant-humanities/images/banners/mint.jpg"
+       source-image="https://upload.wikimedia.org/wikipedia/commons/0/0f/English_botany%2C_or%2C_Coloured_figures_of_British_plants_%281863%29_%2814784245103%29.jpg"
        eid="Q105076452"
        about="Q47859"
        layout="vtl"
