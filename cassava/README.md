@@ -16,7 +16,7 @@ Arthur Chapman, March 17, 2011, Flickr, CC BY-NC-SA 2.0"
 ### Introduction
 
 <param title="fufu" eid="Q941004">
-<param title="cassava root" eid="Q43304555" aliases="cassava">
+<param title="cassava root" eid="Q43304555">
 <param title="cyanide" eid="Q55076544">
 When eaten raw, cassava is likely to leave a bitter taste in one’s mouth. Worse still, the unprocessed plant, containing high levels of cyanide, is poisonous to humans and can paralyze when eaten. Despite these deterring properties, cassava has long been culturally and nutritionally significant. And as a result of Indigenous peoples of Meso- and South America discovering a way to render it edible through extensive processing, today processed cassava is enjoyed by 600 million people.[^ref1] One of the world’s major food crops alongside maize, rice, and wheat, cassava is cultivated as far away from its native habitat in South America as Southeast Asia. Nigeria is the world’s largest producer of cassava, where it is a primary source of carbohydrates for many and is consumed as part of a popular dish known as _fufu_.
 <param ve-image layers manifest="https://iiif-v2.visual-essays.app/manifest/5e52af294f4f78d3d9e5724028f9cc9e65e61b659e763a820234a5a7efd51c5b">
