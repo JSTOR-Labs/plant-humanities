@@ -57,7 +57,7 @@ Once introduced to Spain, the domesticated sunflower quickly migrated to parts o
 ### Sunflower Aesthetics in Full Bloom
 
 <param ve-entity eid="Q65027" title="Basilius Besler">
-<param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
+<param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt|Prince Bishop of Eichstätt,">
 <param ve-entity eid="Q462437" title="composition">
 <param ve-image primary region="53,89,994,921" manifest="https://iiif-v2.visual-essays.app/manifest/30cc2872daec9f4902bb335613918a06cabedc1386bbe5bb55c6eada0331736e">
 <param ve-image region="53,89,994,921" url="http://beeld.teylersmuseum.nl/Digital_Library/Emags/149b_439-2/pubData/source/images/1366x653/pages/page87.jpg">
@@ -130,7 +130,7 @@ In the eighteenth and early nineteenth centuries, botanical illustrators develop
 {#paragraph14}
 
 <param ve-entity eid="Q25400" title="Asteraceae"> 
-<param ve-entity eid="Q30765614" title="floret" aliases="florets"> 
+<param ve-entity eid="Q30765614" title="floret" aliases="florets|florets."> 
 Henderson's botanical illustration highlights a trait of sunflowers that we may overlook due to our casual familiarity with the plant. Its flower heads are not single blossoms. _Helianthus_, like other members of the aster family, Asteraceae, produces a special kind of inflorescence: a composite of many tiny flowers known as florets.[^ref27] This diagram of a mature flower head shows that what we generally call “petals” are actually ray florets; they are sterile and serve to attract pollinators to disk florets. The disk florets, which can number in the hundreds or thousands, grow in a spiral pattern and each one can develop its own fruit after pollination. Perceiving such floral traits and examining their functions require a process of direct observation and visual analysis that is practiced by scientists and artists alike.
 <param ve-image fit="contain" primary manifest="https://iiif-v2.visual-essays.app/manifest/c1925b33f0d685ac404be129155073206c579024aea806ca654a8a3b9eb63c22">
 <param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/3bf64baf040114e4237c6bfe31601506dcbd2efcced796f7b91bafdf5acac052">
