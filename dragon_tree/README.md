@@ -1,5 +1,5 @@
 <param ve-config
-	title="Dracaena draco: The Timeless Canarian Dragon"
+	title="Dracaena draco: The Mystery of Dragon's Blood"
 	banner="https://upload.wikimedia.org/wikipedia/commons/7/73/Parque_del_Drago_-_Drago_de_Icod_de_los_Vinos_02.jpg"
 	eid="Q105749119"
 	about="Q157952"
