@@ -1,7 +1,7 @@
 <param ve-config title="Plant Humanities" layout="index" header="plants-index">
 
 
-# Featured
+# Featured Narratives
 
 ## 
 [**Cacao: Indigenous Network to Global Commodity**](/cacao)
@@ -39,7 +39,7 @@
 ![](/images/thumbnails/Banana.jpg)
 
 
-# All Visual Narratives
+# All Plant Narratives
 
 ##
 [**Agave: A Plant with an Intoxicating History**](/Agave)
