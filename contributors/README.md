@@ -68,6 +68,15 @@ Rebecca Friedel focuses on the cultural histories of plants from the Americas as
 Kristan M. Hanson is a Plant Humanities Fellow at Dumbarton Oaks. She is an art historian of nineteenth-century France, with a particular focus on depictions of women, ornamental plants, and spaces of horticultural labor and leisure. She received her PhD in art history from the University of Kansas in 2020. Her research interests include visual portrayals of plants and human-plant interactions; cultural associations of flowers and floral imagery with social markers of difference; horticultural trade networks, colonialism, and intimacy; and artistic engagements with environmental issues. Her dissertation applied digital humanities methods and tools to the study of horticultural art, plant mobility, and gendered spatial practices in the context of 1870s Paris. She has received fellowships and awards from the Oak Spring Garden Foundation, HASTAC Scholars program, and the Hall Center for the Humanities. Most recently, she coedited the exhibition catalogue _Perspectives on a Legacy Collection: Sallie Casey Thayer’s Gift to the University of Kansas_ (2020).
 
 ##
+**Rachel Hirsch**
+
+![](hirsch.jpg)
+
+What was it that made the gardens constructed throughout the Mughal Empire (1526–1857) such as Burhanpur’s Lal Bagh so appealing to these otherwise disgruntled travelers? What can we glean about their plant composition, function, and reception from textual, visual, and material sources? These and other related questions drive Hirsch’s current research on the art and architectural history of early modern South Asia. Her goal is to characterize perceptions of land and their relationship to the changing forms and functions of gardens in the sixteenth and seventeenth centuries. Ultimately, by underscoring the historical connections between humans, plants, and cultural production, she hopes to generate new understandings of territory in the early modern period. 
+
+Rachel Hirsch is a PhD candidate in history of art and architecture at Harvard University and a cultural historian of early modern South Asia. Her research interests include urban construction, perceptions of land and territory, garden history, and the potential for new art historical methods and sources. Her latest project took as its focus the Mughal city of Burhanpur and explored in depth its transformation through symbolic appropriation, ornamentation, and expansion along an underground water distribution system in the seventeenth century. She has also written extensively about Timurid and Mughal gardens and the role of travel writing in understandings of place.
+
+##
 **Yao Jiang**
 
 ![](Jiang.jpg)
