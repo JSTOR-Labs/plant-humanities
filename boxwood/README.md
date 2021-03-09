@@ -160,12 +160,12 @@ If Mattioli and Parkinson considered boxwood primarily an ornamental plant “we
 
 The vindication of boxwood as an essential garden plant took place in late sixteenth-century France, almost a millennium-and-a-half after its enthusiastic mention by Pliny. In horticulture, this moment marked the introduction of _parterres de broderie_ characterized by low, manicured hedges that imitated embroidery patterns. Boxwood—along with myrtle, lavender, juniper, and rosemary—was deemed particularly well-adapted to making the borders of plant beds, within which were planted marjoram, thyme, hyssop, pennyroyal, sage, chamomile, mint, violets, marguerites, basil, and other herbs and flowers.[^ref21] Horticultural theorist Olivier de Serres, in _Théâtre d’Agriculture_ (first published in 1600), emphasized boxwood’s resistance to the effects of weather and time and its little need for care, favorably contrasting it with myrtle, which was less suitable to colder climates. These properties, he believed, would have made boxwood a perfect garden shrub if not for the lack of “good scent,” having instead an odor “strong, unwelcome, and unpleasant, which causes headaches.”[^ref22]
 <param ve-image
-	title="Front page of Claude Mollet (c. 1564–c. 1649), _Theatre des plans et iardinages_, 1652."
+	title="Front page of Claude Mollet (c. 1564–c. 1649), &lt;i&gt; Theatre des plans et iardinages &lt;/i&gt;, 1652."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
 	seq="9"
 	region="-396,75,4753,3521">
 <param ve-image
-	title="Garden design pattern, in Claude Mollet, _Theatre des plans et iardinages_, 1652, plate 5."
+	title="Garden design pattern, in Claude Mollet, &lt;i&gt; Theatre des plans et iardinages &lt;/i&gt;, 1652, plate 5."
 	manifest="https://iiif.lib.harvard.edu/manifests/drs:47289351"
 	seq="237"
 	region="-422,728,5072,3758">
