@@ -27,15 +27,16 @@ Cinnamon had a long history before any European ever saw “true” cinnamon (_C
 <param title="East Indies" eid="Q213137">
 <param title="Cassia abbreviata" eid="Q145495">
 <param ve-image
-	title="Cinnamon, in a medieval Arabian manuscript of Dioscorides’s _De Materia medica_ (first century CE). Translated into Arabic by an unknown scribe in Spain (twelfth–thirteenth century), and currently in the Bibliothèque Nationale de France, ms. Arabe 2850, f. 129b."
-	url="18040817.jpg">
+	manifest="https://iiif-v2.visual-essays.app/manifest/8f1c29fce13a1fe8687273f9b0ed351975a406e274e26fcf7497c4dbf8192c6a"
+	fit="contain">
 {#paragraph2}
 
 How could this confusion last so long? One possible explanation for the shift from an East-African to a South-East-Asian plant is linguistic. In medieval Latin, the name for cinnamon from the East Indies was _canella_, which still resounds in many European languages today. For some reason, the names _canella_ and _cinnamomum_ both began to be associated with the East Indian spice in the Middle Ages.[^ref2] In the wake of the European voyages of discovery in the fifteenth and sixteenth centuries, European scholars writing about cinnamon would turn to classical, not medieval sources, to understand the spice and its properties. They managed to resolve the discrepancies they found between classical descriptions of the spice and the plant that was found in Sri Lanka. For instance, in his book [_Coloquios dos simples, e drogas he cousas mediçinais da Indiae_](https://books.google.com/books?id=np3nAm8zCOgC&pg=PA54-IA1#v=onepage&q&f=false) [(_Colloquies on the Simples and Drugs and Medical Things of India_)](http://digital.ub.uni-duesseldorf.de/vester/content/pageview/4968642) (1563), the Portuguese physician Garcia de Orta, who worked in Goa, explained the differences between his own observations and classical authors’ descriptions of cinnamon by the fact that the latter had only known the processed spice, not the plant itself.[^ref3]
 <param title="Garcia de Orta" eid="Q1493994">
 <param title="Old Goa" eid="Q553907" aliases="Goa">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/5b91b0c89202a30d464fa3de08883c79a895d3a62860c4341fa90181741fd454">
+	manifest="https://iiif-v2.visual-essays.app/manifest/5b91b0c89202a30d464fa3de08883c79a895d3a62860c4341fa90181741fd454"
+	fit="contain>
 <param ve-image
 	manifest="https://iiif-v2.visual-essays.app/manifest/006f0108e4d54845126bdaf82924a6d54b4aa64283b22d4c6db3ef6ec3831cff"
 	region="246,1762,1391,985">
@@ -118,7 +119,8 @@ Although their skills were indispensable for the cinnamon trade, peelers were tr
 <param title="Sinhalese people" eid="Q932244" aliases="Sinhalese">
 <param title="Salagama" eid="Q3469487">
 <param ve-image
-	   manifest="https://iiif-v2.visual-essays.app/manifest/ee55e238fbcc4aa124d07bb79dd4484091a490550540b55737cb068779646523">
+	   manifest="https://iiif-v2.visual-essays.app/manifest/ee55e238fbcc4aa124d07bb79dd4484091a490550540b55737cb068779646523"
+	   fit="contain">
 <param ve-image
 	   manifest="https://iiif-v2.visual-essays.app/manifest/104008088989b7ed4750a1613484a38317443864cb766442a2398555d7748e79">
 {#paragraph9}
@@ -127,17 +129,14 @@ The restrictions imposed by the Dutch on cinnamon exports made it the only real 
 <param title="Dutch East India Company" eid="Q159766" aliases="Dutch East India Company (VOC)">
 <param title="shifting cultivation" eid="Q287854" aliases="crop rotation">
 <param ve-image
-	title="Drawing from 1720, showing the benefits that could be made from monocultures of cinnamon on temporary cleared fields (_chenas_). The image on the left shows a demarcated area of forest to be cultivated; the image in the middle shows the same field after the original vegetation was cleared; and the image on the right shows the _chena_ as a monoculture of cinnamon. The text at the bottom is a calculation of the expected returns. A field with only five cinnamon trees could contain 135 trees after cultivation: a 27-fold increase. When this image was produced, however, the VOC was still very reluctant to abandon the wild harvest approach it had always adopted, and _chena_ practices were discouraged."
-	url="NL-HaNA_4.VEL_939A-groot_cropped.jpg">
+	manifest="https://iiif-v2.visual-essays.app/manifest/dfe3342216d51fb2f4ca107e725d0936c79c6c79bc06e3843d2a135d03899ca2">
 {#paragraph10}
 
 In 1760, local grievances about the VOC policy concerning _chenas_, and the treatment of peelers by Sinhalese and Dutch officials, created an explosive situation. Backed by the king of Kandy, the peelers rebelled, leading to a war that lasted until 1766. The rebellion finally may have caused the Dutch to rethink their approach to cinnamon production. Starting in 1769, governor Iman Willem Falck (in office 1765–1785) began to experiment with “cinnamon gardens” (_kaneeltuinen_), which amounted to nothing less than a successful colonial plantation system. By the end of his governorship, there were 24 million cinnamon trees growing in these gardens, which increased to 609 million trees (!) by 1794.[^ref12]
 <param title="Iman Willem Falck" eid="Q16836179">
 <param title="plantation" eid="Q188913">
 <param ve-image
-	title="“Map of the cinnamon gardens with their main roads in the district of Kaliture.” This anonymous, eighteenth-century map shows 70 cinnamon gardens located immediately south of Colombo, between Kaliture (present-day Kalutara) and the mouth of the Bentotte (Bentota) river."
-	attribution="Nationaal Archief, The Hague, 4.VEL ‘Inventaris van de verzameling buitenlandse kaarten Leupe, 1584-1865’, inv.no. 935 ‘Kaart van de Salpittie Korls Kanneeltuynen, met dies Hoofdwegens, geleegen in het district Kaliture’."
-	url="NL-HaNA_4.VEL_935-groot.jpg"
+	manifest="https://iiif-v2.visual-essays.app/manifest/3b6c79067d5a89000d3e0d323c7133784a5974ddf830f37917bf072fd7b1f205"
 	region="2217,1120,852,630">
 {#paragraph11}
 
@@ -156,8 +155,7 @@ Although cinnamon was a successful monopoly during the Dutch period, was it pure
 <param title="Rijckloff van Goens" eid="Q1392981">
 <param title="Batavia" eid="Q1199713"> 
 <param ve-image
-	title="“Carua” in the _Hortus Indicus Malabaricus_ (vol. 1, p. 107-110 and fig. 57). This massive, 12-volume work on the flora of the Malabar coast was produced by a team of European and Indian scholars, supervised by Hendrik Adriaan van Rheede tot Drakenstein, and published between 1678 and 1703. The Indian botanist K.S. Manilal identified this species as _Cinnamomum verum_. Although this is the same species as the true cinnamon from Ceylon, Van Rheede's experiments with the oil from the root revealed differences between cinnamon from both locations."
-	url="https://ia801001.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753003370076&itemPath=%2F18%2Fitems%2Fmobot31753003370076&server=ia801001.us.archive.org&page=n177_w685">
+	manifest="https://iiif-v2.visual-essays.app/manifest/36436dcc38c9d1e89ef6af55410d7776adbc7b63b22b1377a5579a362963e1eb">
 {#paragraph13}
 
 Imperial agendas and a disinterested search for knowledge could also go hand in hand. The botanist Paul Hermann was employed by the VOC between 1672 and 1677 to gather botanical knowledge on Sri Lanka. Although Hermann barely ventured beyond Colombo, he managed to collect an impressive amount of material, including many cinnamon specimens.[^ref15] Hermann’s collections sustained for decades scholarly interest in Sri Lankan flora. Many specimens served indirectly as input for the _Species Plantarum_ (1753) of Carl Linnaeus, who dreamed of transplanting cinnamon to Lapland.[^ref16] But Hermann already knew that northern Europe was too cold for cinnamon: in spite of the VOC ban on exporting living plants, he had sent trees to several acquaintances in the Dutch Republic, none of which survived the cold winters.[^ref17] Despite the government restrictions, the exchange of knowledge and goods was evidently possible: an extensive, first-hand account of all the cinnamon varieties growing on Sri Lanka even made it into the _Philosophical Transactions_ of the Royal Society in 1730.[^ref18]
@@ -169,10 +167,10 @@ Imperial agendas and a disinterested search for knowledge could also go hand in 
 <param title="Philosophical Transactions" eid="Q913162">
 <param title="Royal Society" eid="Q123885">
 <param ve-image
-	title="“Cinnamon from Ceylon with flowers”. Specimen of   
-_Cinnamomum verum_ J.Presl, from Paul Hermann’s herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171."
+	title="“Cinnamon from Ceylon with flowers”. Specimen of _Cinnamomum verum_ J.Presl, from Paul Hermann’s herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171."
 	url="007714869-L.2070171.jpg"
-	attribution="Naturalis Biodiversity Center, Leiden. https://data.biodiversitydata.nl/naturalis/specimen/L.2070171">
+	attribution="Naturalis Biodiversity Center, Leiden. https://data.biodiversitydata.nl/naturalis/specimen/L.2070171"
+	region="contain">
 {#paragraph14}
 
 ### Cinnamon and Imperial Imagination
@@ -195,7 +193,7 @@ The Spanish efforts to find cinnamon in the New World were not only intended to 
 <param title="Alonso de Ovalle" eid="Q2839275">
 <param title="Society of Jesus" eid="Q36380" aliases="Jesuits">
 <param ve-image
-	title=""
+	title="Map of the southern part of South America, with east at the top. The map accompanies Alonso de Ovalle’s _Histórica Relación del Reyno de Chile_ of 1646."
 	manifest="https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~1314~115900932/manifest">
 {#paragraph16}
 
