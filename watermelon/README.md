@@ -206,7 +206,7 @@ Today, market forces are among the chief factors that, alongside taste and tradi
 
 [^ref9]: John Gerard, _The Herball or generall Historie of Plantes_ (London: Norton, 1597), 768. [Click here for full book.](https://www.biodiversitylibrary.org/page/35440967)
 
-[^ref10]: _St. Louis Globe-Democrat_, “Watermelon Juice for the Complexion”, _Daily Evening Bulletin_ (San Francisco), 66(131), Sept. 8, 1888, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
+[^ref10]: “Watermelon Juice for the Complexion”, _Daily Evening Bulletin_ (San Francisco), 66(131), Sept. 8, 1888.
 
 [^ref11]: David Maynard and Donald Maynard, “Cucumbers, Melons, and Watermelons,” 306.
 
@@ -216,11 +216,11 @@ Today, market forces are among the chief factors that, alongside taste and tradi
 
 [^ref14]: W.R. Black, “How Watermelons Became Black,” _Journal of the Civil War Era_ 8, no. (2018): 64–86.
 
-[^ref15]: _Detroit Free Press_, “The Influence of the Watermelon,” _St. Louis Globe-Democrat_, 6(93), Aug. 21, 1880, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
+[^ref15]: “The Influence of the Watermelon,” _St. Louis Globe-Democrat_, 6(93), Aug. 21, 1880.
 
 [^ref16]: Cynthia Greenlee, “On eating watermelon in front of white people: ‘I’m not as free as I thought,’” _Vox_, Aug. 29, 2019, accessed July 23, 2020. [Click here for full article.](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people)
 
-[^ref17]: “Cholera Intelligence,” _National Intelligencer_, 11(6), Aug. 30, 1832, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers;](https://www.gale.com/c/nineteenth-century-us-newspapers) “Watermelons,”  _The Vermont Watchman_, 41(41), Aug. 26, 1847, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers;](https://www.gale.com/c/nineteenth-century-us-newspapers) “A western paper,” _The Morning Republican_, 7(131), [ADD DAY/MONTH] 1873, accessed [ADD DATE], [https://www.gale.com/c/nineteenth-century-us-newspapers](https://www.gale.com/c/nineteenth-century-us-newspapers)
+[^ref17]: “Cholera Intelligence,” _National Intelligencer_, 11(6), Aug. 30, 1832; “Watermelons,” _The Vermont Watchman_, 41(41), Aug. 26, 1847; “A western paper,” _The Morning Republican_, 7(131), 1873.
 
 [^ref18]: R. Neff, “Watermelons: A forbidden pleasure in cholera-hit Korea,” _The Korea Times_, July 8, 2018, accessed July 23, 2020. [Click here for full article.](http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html)
 
