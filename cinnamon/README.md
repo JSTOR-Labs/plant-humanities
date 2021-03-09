@@ -36,7 +36,7 @@ How could this confusion last so long? One possible explanation for the shift fr
 <param title="Old Goa" eid="Q553907" aliases="Goa">
 <param ve-image
 	manifest="https://iiif-v2.visual-essays.app/manifest/5b91b0c89202a30d464fa3de08883c79a895d3a62860c4341fa90181741fd454"
-	fit="contain>
+	region="-200,282,1001,724">
 <param ve-image
 	manifest="https://iiif-v2.visual-essays.app/manifest/006f0108e4d54845126bdaf82924a6d54b4aa64283b22d4c6db3ef6ec3831cff"
 	region="246,1762,1391,985">
