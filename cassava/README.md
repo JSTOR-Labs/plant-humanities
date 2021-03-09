@@ -120,7 +120,7 @@ In her book, Merian describes cassava root as the ingredient for cassava bread t
 <param title="Bedford Pim" eid="Q4879118">
 <param title="Berthold Seemann" eid="Q64899">
 European travelers also described the process of making cassava into fermented beverages. In his 1578 publication _History of a Voyage to the Land of Brazil_, French explorer Jean de Léry recorded a recipe for the alcoholic beverage _chicha_. Cassava was cut into pieces, then boiled, chewed in the mouth for some time to combine with saliva, then boiled again in a different vessel, and finally left to ferment for several days until it was ready for consumption.[^ref20] A few decades later, Spanish historian Antonio de León Pinelo recorded a similar account of the process in Peru, and British explorers Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in nineteenth-century Nicaragua.[^ref21] Depending on the location, the beverage was called _chicha_, _massato_ (a non-alcoholic variant mixed with honey), _acca_, _kufa_, or _mushla_. [^ref22]
-<param ve-image primary region="69,278,519,465" manifest="https://iiif-v2.visual-essays.app/manifest/327e4b720969d1faf2d5a18c33887fbb9c04931fe0033b76828568643b89b53e">
+<param ve-image primary region="-123,149,1076,930" manifest="https://iiif-v2.visual-essays.app/manifest/327e4b720969d1faf2d5a18c33887fbb9c04931fe0033b76828568643b89b53e">
 <param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/605ea3db7d0fd8412cdabc7d41f06b12f1c00cf0217ebcfd0480f35f73b3aed9">
 <param ve-image region="-150,-37,754,667" manifest="https://iiif-v2.visual-essays.app/manifest/3cff643fd985c29f359c9280babadf8515aaf31b3fc8c145905c2d73ae54a002">
 {#paragraph14}
