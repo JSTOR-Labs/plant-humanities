@@ -209,7 +209,7 @@ Closely connected with these expatriate circles was British landscape architect 
 Deeply invested with cultural symbolism, boxwood represents the rich legacy of the formal gardens of Europe characterized by geometric layout, controlling vistas, and ambitious scale. Characterized by climate resistance and malleability, it has served not merely as plant material, but a key medium of stylistic expression across the globe, reflecting a horticultural tradition with origins in antiquity. The story of boxwood is that of a humble yet resilient plant, which, after centuries of disparagement and neglect, succeeded in taking over the garden world. Whether or not it would be able retain this hard-earned preeminence as the most sought-after ornamental shrub, only time can tell.[^ref30]
 <param ve-image
 	title="Boxwood in the Dumbarton Oaks garden, before removal."
-	url="Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal1.jpg">
+	manifest="https://iiif.lib.harvard.edu/manifests/drs:459932907">
 <param ve-image
 	title="Boxwood blight at the Dumbarton Oaks garden."
 	url="Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal2.jpg">
