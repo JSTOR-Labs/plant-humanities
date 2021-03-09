@@ -143,6 +143,7 @@ Unfortunately, the Orotava centenary dragon tree did not outlive Humboldt and Le
 
 Just as Humboldt and Ledru observed the centenary _D. draco_ at Orotava and pondered the tree’s age, durability, and its potential influence on theories of a global climate, today’s scientists are weighing the tree’s possible medicinal benefits, including potential cancer treatments, and its commercial value in the cosmetics industry as an ingredient in anti-aging creams in relation to the species’ ongoing battle with extinction and its ecological vulnerability.[^ref18] Since many different species make good sources of what is commonly known as dragon’s blood, more comprehensive research needs to be carried out to fully assess the mythical resin’s true medicinal efficacy.[^ref19]
 <param ve-image
+	title="Eighteenth-century German apothecary jar for dragon’s blood."
 	manifest="https://ids.si.edu/ids/manifest/NMAH-AHB2013q009978">
 {#paragraph14}
 
