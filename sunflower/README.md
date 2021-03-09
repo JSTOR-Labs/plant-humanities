@@ -207,9 +207,9 @@ Cultivated _Helianthus annuus_ is a fast-growing, sun-loving plant that blooms d
 
 [^ref12]: Adriaen Collaert, designer and printmaker, _Florilegium_, 1570 to before 1618, published by Theodoor Galle and Philips Galle, possibly Netherlands, engraving, 178 x 126 mm, Rijksmuseum. [http://hdl.handle.net/10934/RM0001.COLLECT.432189](http://hdl.handle.net/10934/RM0001.COLLECT.432189); Nicolás Monardes, _Histoire des simples médicamens apportés de l'Amerique, desquels on se sert en la medecine_ (Lyon, France: Aux despens de Iean Pillehotte... 1619), accessed January 6, 2021, [https://www.biodiversitylibrary.org/page/7815694](https://www.biodiversitylibrary.org/page/7815694)
 
-[^ref13]: C.B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resouces and Crop Evolution_ 45 (1998): 447–449, [https://doi.org/10.1023/A:1008603501401](https://doi.org/10.1023/A:1008603501401)
+[^ref13]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” _Genetic Resouces and Crop Evolution_ 45 (1998): 447–449, [https://doi.org/10.1023/A:1008603501401](https://doi.org/10.1023/A:1008603501401)
 
-[^ref14]: C.B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower”; Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower).”
+[^ref14]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower”; Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower).”
 
 [^ref15]: Michael Brian Schiffer, “Origin of the Domesticated Sunflower,” in _Archaeology’s Footprints in the Modern World_ (Salt Lake City: University of Utah Press, 2017), 241–46.
 
@@ -217,11 +217,11 @@ Cultivated _Helianthus annuus_ is a fast-growing, sun-loving plant that blooms d
 
 [^ref17]: For a concise summary of the debate see Schiffer, “Origin of the Domesticated Sunflower.”
 
-[^ref18]: Because the seed is no longer extant, it cannot undergo further testing. David L. Lentz et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232– 37; Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower)”; C.B. Heiser, Jr., “The Sunflower (_Helianthus annuus_) in Mexico.”
+[^ref18]: Because the seed is no longer extant, it cannot undergo further testing. David L. Lentz et al., “Sunflower (Helianthus annuus L.) as a Pre-Columbian Domesticate in Mexico,” _Proceedings of the National Academy of Science of the Unites States of America_ 105, no. 17 (April 2008): 6232– 37; Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower)”; Charles B. Heiser, Jr., “The Sunflower (_Helianthus annuus_) in Mexico.”
 
 [^ref19]: Benjamin K. Blackman et al., “Sunflower Domestication Alleles Support Single Domestication Center in Eastern North America,” _Proceedings of the National Academy of Science of the United States of America_ 108, no. 34 (August 2011): 14360–65.
 
-[^ref20]: C.B. Heiser, “The Domesticated Sunflower in Mexico?,” 449; Bruce D. Smith, "Eastern North America as an Independent Center of Plant Domestication," _Proceedings of the National Academy of Science of the United States of America_ 103, no. 33 (August 15, 2006): 12223–28.
+[^ref20]: Charles B. Heiser, Jr., “The Domesticated Sunflower in Mexico?,” 449; Bruce D. Smith, "Eastern North America as an Independent Center of Plant Domestication," _Proceedings of the National Academy of Science of the United States of America_ 103, no. 33 (August 15, 2006): 12223–28.
 
 [^ref21]: John Peacock, _The Look of Van Dyck: The Self-Portrait with a Sunflower and the Vision of the Painter_ (Aldershot, U.K.: Ashgate, 2006), 116, accessed November 17, 2020, [https://catalog.hathitrust.org/Record/005539893](https://catalog.hathitrust.org/Record/005539893)
 
