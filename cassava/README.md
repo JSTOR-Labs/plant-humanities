@@ -1,7 +1,7 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config
 	title="Cassava: From Toxic Tuber to Food Staple"
-	banner="Cassava_tuber_Chapman_Flickr.jpg"
+	banner="http://free.iiifhosting.com/iiif/313605661600042de3bc4df1f3959c48cc760cfed05a65b802f8f182b9af57a8/full/1000,/0/default.jpg"
 	eid="Q105749015"
 	about="Q83124"
 	attribute="Tuber of Manioc or Cassava (Manihot esculenta) in the Port Vila Markets, Efate Island, Vanuatu, 
