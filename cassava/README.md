@@ -127,7 +127,7 @@ European travelers also described the process of making cassava into fermented b
 
 Even today, many Indigenous Peoples in Meso- and South America still follow these recipes for fermented cassava beverages that were established by their ancestors and recorded by European travelers. In addition to such descriptions in travel writings, knowledge of cassava also entered other eighteenth-century European texts, such encyclopedias, and informed various fields of knowledge production, from baking and chemistry to agriculture.[^ref23]
 <param ve-image primary region="-224,-15,879,760" manifest="https://iiif-v2.visual-essays.app/manifest/ed091daba412388f225a5493d11ae6d040785542427478321ea587bb36f29b40">
-<param ve-image region="-708,1,3542,3063" manifest="https://iiif-v2.visual-essays.app/manifest/1cd79c22797ade052563a19515c315ca1bd290d99fbe2fc64c49c1a3f70dddbf">
+<param ve-image region="-708,224,3542,3063" manifest="https://iiif-v2.visual-essays.app/manifest/1cd79c22797ade052563a19515c315ca1bd290d99fbe2fc64c49c1a3f70dddbf">
 {#paragraph15}
 
 ### Cassava in Circulation
