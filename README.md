@@ -2,7 +2,7 @@
 <param ve-config title="Plant Humanities" layout="index" header="plants-index">
 
 ##
-At the present time the hosting service used for our high-resolution images is currently experiencing a service outage.  We don't have an estimate for service restoration at this time.  Please check back. 
+The external hosting service used for our high-resolution images is currently experiencing a service outage.  We are temporarily serving all hi-res images using a less-performant workaround.  As a result, the site may run slower than normal until the primary service is restored.
 {:style='border:2px solid red; margin:12px; padding:12px; background-color:#FFFFE0'}
 
 # Featured Plant Narratives
