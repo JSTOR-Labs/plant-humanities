@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=heliconia/f5137b6b",
-    "total": 5,
-    "modified": "2021-03-16T17:34:33.796709"
+    "total": 6,
+    "modified": "2021-03-16T17:34:52.349235"
   },
   "startIndex": 0,
   "items": [
@@ -113,6 +113,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "heliconia/f5137b6b/33a392c1",
       "seq": 4
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Flower: (Fa) ovary, (Fb) free sepal, (Fc) fused sepal, (Fd) anthers",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:716.0194091796875,2240.5390625,807.1422119140625,502.45947265625"
+        },
+        "id": "heliconia/f5137b6b"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "heliconia/f5137b6b/ca36d187",
+      "seq": 5
     }
   ]
 }
