@@ -43,7 +43,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1880.19384765625,257.08062744140625,605.66455078125,592.5925903320312"
+          "value": "xywh=pixel:1401.941097544156,-289.64228986409177,1834.476167721897,1544.9332702819204"
         },
         "id": "heliconia/f5137b6b"
       },
@@ -64,7 +64,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1849.2257080078125,856.10302734375,662.8187255859375,1277.52978515625"
+          "value": "xywh=pixel:1364.539667993284,580.0925509697311,1790.9090909090908,1508.242563887725"
         },
         "id": "heliconia/f5137b6b"
       },
@@ -85,7 +85,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:2081.494140625,1417.2041015625,547.89453125,376.844482421875"
+          "value": "xywh=pixel:2050.866530777048,1324.7097897959,789.090909090909,664.5454545454545"
         },
         "id": "heliconia/f5137b6b"
       },
@@ -106,7 +106,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:502.2068786621094,75.68732452392578,646.7828674316406,416.93441009521484"
+          "value": "xywh=pixel:-216.29028416560067,-209.90510167664817,1834.476167721897,1544.9332702819204"
         },
         "id": "heliconia/f5137b6b"
       },
@@ -127,7 +127,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:716.0194091796875,2240.5390625,807.1422119140625,502.45947265625"
+          "value": "xywh=pixel:459.0982690614566,1844.1506823521906,1357.6944421811768,919.3244654621622"
         },
         "id": "heliconia/f5137b6b"
       },
@@ -148,7 +148,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1597.99609375,2272.61083984375,443.660888671875,379.517333984375"
+          "value": "xywh=pixel:929.9795861913249,1954.7675873010037,2005.8167248618208,1630.9811188809688"
         },
         "id": "heliconia/f5137b6b"
       },
