@@ -22,7 +22,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:2121.576904296875,86.02152252197266,825.0244140625,828.9344711303711"
+          "value": "xywh=pixel:1328.4317351316997,-719.1599549027563,2934.7349978098987,2471.5337366348344"
         },
         "id": "heliconia/f5137b6b"
       },
