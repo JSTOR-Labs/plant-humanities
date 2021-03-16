@@ -54,7 +54,7 @@ The striking beauty of heliconias continued to attract both the plant explorer a
 <param ve-image fit="contain" manifest="https://ids.si.edu/ids/manifest/ark:/65665/m3069ebeb405254391a4868f9eb7c90c50" title="__Heliconia chartacea_ var. _meeana_ W.J. Kress, W.J. Kress, Venezuela, National Museum of Natural History, Smithsonian Institution, CC0">
 
 A pen-and-ink drawing by the Smithsonian’s scientific illustrator [Alice Tangerini](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/tangerini-interview) employed a mix of photographs, dried specimens from Kress’s travels, and dissections under the microscope to capture the plant’s structures for the ensuing botanical publication. The discovery and description of this new variety exemplifies the entanglement of art and science in the long tradition of plant representation. 
-<param ve-storiiies id="ce1ku">
+<param ve-image manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/ce1ku/manifest.json">
 
 <param ve-entity eid="Q3148760" title="botanical illustrator">
 Mee’s gift of observation, honed through the painstaking sketching of plants and conversations with expert botanists, led her to notice the plant. Her painting, though with a primarily aesthetic purpose, was detailed and accurate enough to convince Kress, an expert on the genus, that this discovery was of a new variety. His scientific publication then called for the skill of a botanical illustrator, shifting the emphasis from color and composition to the accurate description of the plant’s parts, yet with a graceful economy of means that produces its own version of aesthetic pleasure.
