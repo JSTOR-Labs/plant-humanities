@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=heliconia/f5137b6b",
-    "total": 3,
-    "modified": "2021-03-16T17:33:50.000077"
+    "total": 4,
+    "modified": "2021-03-16T17:34:14.880686"
   },
   "startIndex": 0,
   "items": [
@@ -71,6 +71,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "heliconia/f5137b6b/3b318a30",
       "seq": 2
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Bract with flower protruding",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2081.494140625,1417.2041015625,547.89453125,376.844482421875"
+        },
+        "id": "heliconia/f5137b6b"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "heliconia/f5137b6b/5e6b2046",
+      "seq": 3
     }
   ]
 }
