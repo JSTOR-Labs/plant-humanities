@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=heliconia/f5137b6b",
-    "total": 4,
-    "modified": "2021-03-16T17:34:14.880686"
+    "total": 5,
+    "modified": "2021-03-16T17:34:33.796709"
   },
   "startIndex": 0,
   "items": [
@@ -92,6 +92,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "heliconia/f5137b6b/5e6b2046",
       "seq": 3
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Scale of flower (above) relative to bract (below)",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:502.2068786621094,75.68732452392578,646.7828674316406,416.93441009521484"
+        },
+        "id": "heliconia/f5137b6b"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "heliconia/f5137b6b/33a392c1",
+      "seq": 4
     }
   ]
 }
