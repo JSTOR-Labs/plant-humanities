@@ -1,0 +1,34 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://visual-essays.app/annotations/?include=description&target=heliconia/f5137b6b",
+  "type": "AnnotationPage",
+  "partOf": {
+    "id": "http://visual-essays.app/annotations/?include=description&target=heliconia/f5137b6b",
+    "total": 1,
+    "modified": "2021-03-16T17:27:42.442809"
+  },
+  "startIndex": 0,
+  "items": [
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Heliconia pendent inflorescence",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2121.576904296875,86.02152252197266,825.0244140625,828.9344711303711"
+        },
+        "id": "heliconia/f5137b6b"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "heliconia/f5137b6b/9d831f7f",
+      "seq": 0
+    }
+  ]
+}
