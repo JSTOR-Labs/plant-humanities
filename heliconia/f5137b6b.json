@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=heliconia/f5137b6b",
-    "total": 6,
-    "modified": "2021-03-16T17:34:52.349235"
+    "total": 7,
+    "modified": "2021-03-16T17:35:12.904618"
   },
   "startIndex": 0,
   "items": [
@@ -134,6 +134,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "heliconia/f5137b6b/ca36d187",
       "seq": 5
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "(J) style and stigma",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1597.99609375,2272.61083984375,443.660888671875,379.517333984375"
+        },
+        "id": "heliconia/f5137b6b"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "heliconia/f5137b6b/1d145dfe",
+      "seq": 6
     }
   ]
 }
