@@ -6,7 +6,7 @@
        banner="nepenthesrafflessiana_BHL_crop.jpg"
        layout="vtl">
 
-### A Giant among Us
+### The Pitcher Plant in Paris
 
 <param ve-entity eid="Q7721" title="Napoleon III">
 <param ve-entity eid="# Q191798" title="Georges-Eugène Haussmann">
@@ -17,12 +17,18 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-image region="2319,1454,5298,4625" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25">
 {#paragraph1}
 
-<param ve-entity eid="Q2344308" title="Boufarik">
-<param ve-entity eid="Q45669" title="Eucalyptus" aliases="eucalyptus">
-The Grasse-based [Chiris perfumerie,](https://monumentum.fr/anciennes-parfumeries-chiris-pa00080934.html) founded by Antoine Chiris in 1768, provides a case study on the production of pelargonium oils.[^ref32] The artisanal factory specialized in manufacturing soaps, ointments, scented waters, and perfumes from aromatic plants. In the nineteenth century, Chiris expanded into a global, industrial company with many farms in colonized territories. For example, it used colonial labor to grow “Rose geranium” or _Pelargonium graveolens_ in Boufarik, Algeria. In 1865, the company built a cutting-edge 3,000 square meter factory in Boufarik’s Saint-Marguerite domain, growing pelargoniums along with orange and eucalyptus trees.[^ref33] The group of photographs, shows the Chiris complex and its workers engaging in cultivating, harvesting, and preparing pelargoniums for making rose-scented oils and other products.
-<param ve-image title="Anonymous, photographs of pelargonium fields and floricultural industry, Algeria" attribution="Source gallica.bnf.fr / BnF" url="Chiris Factory.png">Gongbi line drawing is a realistic and meticulous genre
-<param ve-storiiies id="091ed" title="Anonymous, photographs of pelargonium fields and floricultural industry, Algeria, Source gallica.bnf.fr / BnF">
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000417315">
+### First Published Description
+The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
+<param ve-image primary url="https://ia800501.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002285994&itemPath=%2F20%2Fitems%2Fmobot31753002285994&server=ia800501.us.archive.org&page=n268_w2113">
+<param ve-image url="https://ia800501.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002285994&itemPath=%2F20%2Fitems%2Fmobot31753002285994&server=ia800501.us.archive.org&page=n269_w2065">
+{#paragraph2}
+
+### Shopping
+The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
+<param ve-image primary url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n103_w4272">
+<param ve-image url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n102_w2199">
+<param ve-image url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n105_w2221">
+{#paragraph3}
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjI1MTI4MDU4LDY5MzgyMzA1OCwtODAwNT
