@@ -1,4 +1,4 @@
-<a href="https://plant-humanities.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://lab.plant-humanities.org"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config
        title="Pitcher Plant: From Exotic Curiosity to Endangered Species"
        author="Kristan M. Hanson"
