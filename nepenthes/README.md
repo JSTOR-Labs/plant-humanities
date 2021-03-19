@@ -6,7 +6,7 @@
        banner="nepenthesrafflessiana_BHL_crop.jpg"
        layout="vtl">
 
-### The Pitcher Plant in Paris
+### A Stranger in Paris
 
 <param ve-entity eid="Q7721" title="Napoleon III">
 <param ve-entity eid="# Q191798" title="Georges-Eugène Haussmann">
@@ -16,11 +16,13 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-image primary region="-1269,1415,10017,7430" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47">
 {#paragraph1}
 
-### Charismatic Carnivor
+The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
+<param ve-image primary url="Nepenthes rafflesiana_Flickr_Scott Zona_2016.jpg">
+{#paragraph2}
 
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
-<param ve-image primary url="https://iiif.lib.harvard.edu/manifests/drs:47667076">
-{#paragraph2}
+<param ve-image primary region="-1269,1415,10017,7430" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47">
+{#paragraph3}
 
 ### Nepenthes pharmakon
 
@@ -30,20 +32,34 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-entity eid="Q90" title="Paris">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image primary region="-1269,1415,10017,7430" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47">
-{#paragraph3}
+{#paragraph4}
 
 ### Migration
 
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image primary region="-1269,1415,10017,7430" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47">
-{#paragraph4}
+{#paragraph5}
 
-### First Published Description
+The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
+<param ve-image primary region="-1269,1415,10017,7430" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47">
+{#paragraph6}
+
+### Charismatic Carnivor
+
+The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
+<param ve-image primary url="https://iiif.lib.harvard.edu/manifests/drs:47667076">
+{#paragraph7}
+
+The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
+<param ve-image primary url="https://iiif.lib.harvard.edu/manifests/drs:47667076">
+{#paragraph8}
+
+### Description and Marketing
 
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image primary url="https://ia800501.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002285994&itemPath=%2F20%2Fitems%2Fmobot31753002285994&server=ia800501.us.archive.org&page=n268_w2113">
 <param ve-image url="https://ia800501.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002285994&itemPath=%2F20%2Fitems%2Fmobot31753002285994&server=ia800501.us.archive.org&page=n269_w2065">
-{#paragraph5}
+{#paragraph9}
 
 ### Belgian and French Intersections
 
@@ -51,7 +67,7 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-image primary region="-1269,1415,10017,7430" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47">
 <param ve-image region="2319,1454,5298,4625" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Adolphe_Alphand_Roll_Petit_Palais_PPP00112.jpg">
-{#paragraph6}
+{#paragraph10}
 
 <param ve-entity eid="Q7721" title="Napoleon III">
 <param ve-entity eid="# Q191798" title="Georges-Eugène Haussmann">
@@ -60,15 +76,41 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image primary region="-1269,1415,10017,7430" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47">
 <param ve-image region="2319,1454,5298,4625" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25">
-{#paragraph7}
+{#paragraph11}
 
-### Shopping
+### Spectacle, Commerce, and Domestication
 
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image primary region="0,141,4272,3834" url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n103_w4272">
 <param ve-image url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n102_w2199">
 <param ve-image url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n105_w2221">
-{#paragraph8}
+{#paragraph12}
+
+### Magnificent Obsession
+
+The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
+<param ve-image primary region="0,141,4272,3834" url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n103_w4272">
+<param ve-image url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n102_w2199">
+<param ve-image url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n105_w2221">
+{#paragraph13}
+
+### Conservation
+
+The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
+<param ve-image primary region="0,141,4272,3834" url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n103_w4272">
+<param ve-image url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n102_w2199">
+<param ve-image url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n105_w2221">
+{#paragraph14}
+
+### Ode to Wonderment
+
+The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
+<param ve-image primary url="http://www.madelinevonfoerster.com/images/enlargements/NatureVive/Carnival_Insectivora_Gouache.jpg">
+{#paragraph15}
+
+The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
+<param ve-image primary url="http://www.madelinevonfoerster.com/images/enlargements/NatureVive/Carnival_Insectivora_Gouache.jpg">
+{#paragraph16}
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjI1MTI4MDU4LDY5MzgyMzA1OCwtODAwNT
