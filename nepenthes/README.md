@@ -1,19 +1,21 @@
 <a href="https://plant-humanities.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config
-       title="Pitcher Plant: From Frenchified Curiosity to Conservation Priority"
+       title="Pitcher Plant: From Exotic Curiosity to Endangered Species"
        author="Kristan M. Hanson"
        source-image="blob:null/350ec559-ab4d-204b-ad69-901393a2d9adhttps://www.biodiversitylibrary.org/item/53838#page/149/mode/1up"
        banner="nepenthesrafflessiana_BHL_crop.jpg"
        layout="vtl">
 
-### A Giant among Us
+### TITLE
 
-<param ve-entity eid="Q171497" aliases="Helianthus annuus" title="sunflower"> 
-<param ve-entity eid="Q192691" title="annual plant">
-<param ve-entity eid="Q235352" title="crop" aliases="crop plants">
-<param ve-entity eid="Q199182" title="ornamental plant" aliases="ornamental">
-_Helianthus annuus_ (common sunflower) holds a special status in the plant kingdom. The species is among a small number of crop plants that humans domesticated in North America thousands of years ago.[^ref1] Today, the annual is cultivated nearly worldwide, mainly as a source of protein-rich seeds and seed oil. _H. annuus_ is also a popular ornamental, renowned for its yellow flower head, round disk, heart-shaped leaves, unbranched stem, and imposing height. Indeed, the plant can grow freestanding up to sixteen feet tall and [nearly twice that](https://www.guinnessworldrecords.com/world-records/tallest-sunflower) when supported.
-<param ve-image fit="contain" primary url="https://upload.wikimedia.org/wikipedia/commons/8/80/Nepenthes_rafflesiana_squat2.jpg" title="_Nepenthes rafflesiana_, attributed to Robert Jong, en:User:Rbrtjong">
+<param ve-entity eid="Q7721" title="Napoleon III">
+<param ve-entity eid="# Q191798" title="Georges-Eugène Haussmann">
+<param ve-entity eid="Q390367" title="Adolphe Alphand">
+<param ve-entity eid="Q90" title="Paris">
+The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
+<param ve-image primary region="1384,2244,4674,4215" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47">
+<param ve-image region="2319,1454,5298,4625" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25">
+{#paragraph17}
 
 A pen-and-ink drawing by the Smithsonian’s scientific illustrator [Alice Tangerini](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/tangerini-interview) employed a mix of photographs, dried specimens from Kress’s travels, and dissections under the microscope to capture the plant’s structures for the ensuing botanical publication. The discovery and description of this new variety exemplifies the entanglement of art and science in the long tradition of plant representation. 
 <param ve-storiiies id="ce1ku">
