@@ -2,8 +2,8 @@
 <param ve-config
        title="Nepenthes: From Exotic Curiosity to Endangered Species"
        author="Kristan M. Hanson"
-       source-image="blob:null/350ec559-ab4d-204b-ad69-901393a2d9adhttps://www.biodiversitylibrary.org/item/53838#page/149/mode/1up"
-       banner="nepenthesrafflessiana_BHL_crop.jpg"
+       source-image="blob:null/350ec559-ab4d-204b-ad69-901393a2d9adhttps://www.biodiversitylibrary.org/page/55161008"
+       banner="InsektenfressenPflantzen_1_BHL.png"
        layout="vtl">
 
 ### A Stranger in Paris
