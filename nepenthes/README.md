@@ -88,6 +88,9 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-image primary region="0,141,4272,3834" url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n103_w4272">
 <param ve-image url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n102_w2199">
 <param ve-image url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n105_w2221">
+<param ve-image region="0,1112,2075,1863" url="https://ia600503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364062&itemPath=%2F27%2Fitems%2Fmobot31753002364062&server=ia600503.us.archive.org&page=n108_w2075">
+<param ve-image url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364062&itemPath=%2F27%2Fitems%2Fmobot31753002364062&server=ia800503.us.archive.org&page=n107_w2026">
+<param ve-image url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364062&itemPath=%2F27%2Fitems%2Fmobot31753002364062&server=ia800503.us.archive.org&page=n109_w2135">
 {#paragraph13}
 
 ### Scientific Discoveries
