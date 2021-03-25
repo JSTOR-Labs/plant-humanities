@@ -207,15 +207,9 @@ Closely connected with these expatriate circles was British landscape architect 
 ### Humble Yet Resilient
 
 Deeply invested with cultural symbolism, boxwood represents the rich legacy of the formal gardens of Europe characterized by geometric layout, controlling vistas, and ambitious scale. Characterized by climate resistance and malleability, it has served not merely as plant material, but a key medium of stylistic expression across the globe, reflecting a horticultural tradition with origins in antiquity. The story of boxwood is that of a humble yet resilient plant, which, after centuries of disparagement and neglect, succeeded in taking over the garden world. Whether or not it would be able retain this hard-earned preeminence as the most sought-after ornamental shrub, only time can tell.[^ref30]
-<param ve-image
-	title="Boxwood in the Dumbarton Oaks garden, before removal."
-	url="Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal1.jpg">
-<param ve-image
-	title="Boxwood blight at the Dumbarton Oaks garden."
-	url="Boxwood-blight-in-Dumbarton-Oaks-garden_pre-removal2.jpg">
-<param ve-image
-	title="Boxwood in the Dumbarton Oaks garden, after removal."
-	url="Boxwood-blight-in-Dumbarton-Oaks-garden_post-removal.jpg">
+<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/4237c4dfddd068b0d5894b20861e4e8a8ff60081635f996d3c4f735e93a02749">
+<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/1a99f1186016ea3c9d5ac1bc9731d95ae92cceb33b6182fc2ffdb262df9fd5a8">
+<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/437fe47876571b3be6b9b6a527af70083d56c51e89a4dd98ff4848da57bc8246">
 {#paragraph13}
 
 ### References
