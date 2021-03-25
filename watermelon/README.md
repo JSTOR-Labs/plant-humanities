@@ -226,6 +226,10 @@ The racist notion that watermelon consumption revealed unhealthy habits of Afric
 {#paragraph13}
 
 At the turn of the twentieth century, for instance, British mine owners in Korea [banned watermelons](http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html) from their workers’ camps to prevent outbreaks of cholera. The logic behind this decision seemed to be based on the “immense quantities” of watermelons consumed by Korean workers, including the rind (probably the white pith, which was considered good for indigestion). The racialized attitudes toward over-indulging in certain types of food were joined here by the moralizing of disease. The campaign was effective in preventing cholera, but it is unclear if its success was due to the watermelon ban.[^ref18] Similarly, posters from the Soviet Union during a cholera epidemic that lasted into the early 1920s used watermelons to illustrate how poor hygiene could lead to disease, from drinking unboiled water to eating unwashed fruit.
+<param ve-image
+	primary
+	manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/831fg/manifest.json"
+	fit="contain">
 <param ve-storiiies
 	id="831fg">
 {#paragraph14}
