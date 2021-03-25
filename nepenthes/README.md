@@ -6,7 +6,7 @@
        banner="InsektenfressenPflantzen_1_BHL.png"
        layout="vtl">
 
-### A Stranger in Paris
+### “...A Small Vase, with Its Own Lid, a Wonderful Sight”
 
 <param ve-entity eid="Q217530" title="Nepenthes">
 <param ve-entity eid="Q138821" title="Nepenthes rafflesiana">
