@@ -96,7 +96,7 @@ In the wake of that initial nomenclature confusion, seventeenth-century botanist
 <param ve-entity eid="Q165044" title="greenhouse" aliases="greenhouses">
 <param ve-entity eid="Q42621" title="hybrid" aliases="hybridized">
 The genus _Pelargonium_ is amazingly varied, including both annual and perennial plants that naturally occur in temperate and tropical climates. For that reason, the first specimens to reach the Netherlands were cultivated in heated greenhouses to protect them from the region’s cold and frost.[^ref13] By the early 1800s, new technologies—both for fabricating iron and plate glass and for constructing buildings with these materials—fueled a fad among the social elite of Europe and America for purchasing conservatories in order to grow exotic plants.[^ref14] These innovations combined with new knowledge about hand-pollination techniques made pelargoniums, which are easily hybridized that way, an ideal choice for such cultivation by plant collectors and amateur breeders.[^ref15]
-<param ve-image primary region="-191,788,3131,2828" manifest="Phttps://iiif-v2.visual-essays.app/manifest/c00f141c1dab971e6b1f569d8767a26da4aedd05a16ae4ec3de72aa3b5cf18d4">
+<param ve-image primary region="-191,788,3131,2828" manifest="https://iiif-v2.visual-essays.app/manifest/c00f141c1dab971e6b1f569d8767a26da4aedd05a16ae4ec3de72aa3b5cf18d4">
 <param ve-image fit="contain" manifest="https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=66250" title="Rembrandt Peale, _Rubens Peale with a Geranium_, 1801, oil on canvas, 71.4 x 61 cm">
 <param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/a8871432f74ebdbc834a720148ada32ea206dbf77072e069adf3e5ddfcadaa05">
 {#paragraph10}
