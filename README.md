@@ -146,7 +146,7 @@
 ![](/images/thumbnails/turmeric.jpg)
 
 ##
-[**Watermelon: Stereotypes of Race and Class**](watermelon)
+[**Watermelon: Stereotypes of Race and Class**](/watermelon)
 
 - authors: Anna Lawrence, Camilo Uribe Botta, and May Wang
 
