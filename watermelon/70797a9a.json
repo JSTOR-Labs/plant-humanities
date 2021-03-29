@@ -5,7 +5,7 @@
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=watermelon/70797a9a",
     "total": 2,
-    "modified": "2021-03-29T20:09:33.427229"
+    "modified": "2021-03-29T20:09:49.337313"
   },
   "startIndex": 0,
   "items": [
@@ -35,7 +35,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "<span style=\"color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 20.8px; background-color: rgba(255, 255, 255, 0.85);\">\"Remember Cholera\"</span>",
+          "value": "Remember Cholera",
           "purpose": "commenting"
         }
       ],
