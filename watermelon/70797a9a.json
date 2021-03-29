@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=watermelon/70797a9a",
-    "total": 1,
-    "modified": "2021-03-29T17:57:41.084019"
+    "total": 2,
+    "modified": "2021-03-29T20:09:16.901642"
   },
   "startIndex": 0,
   "items": [
@@ -29,6 +29,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "watermelon/70797a9a/d18a3289",
       "seq": 0
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<span style=\"color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 20.8px; background-color: rgba(255, 255, 255, 0.85);\">\"Remember Cholera\"</span>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:530.58935546875,329.86346435546875,2818.064697265625,255.5045166015625"
+        },
+        "id": "watermelon/70797a9a"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "watermelon/70797a9a/071dfef8",
+      "seq": 1
     }
   ]
 }
