@@ -5,7 +5,7 @@
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=watermelon/70797a9a",
     "total": 2,
-    "modified": "2021-03-29T20:09:16.901642"
+    "modified": "2021-03-29T20:09:33.427229"
   },
   "startIndex": 0,
   "items": [
@@ -45,7 +45,7 @@
           "conformsTo": "http://www.w3.org/TR/media-frags/",
           "value": "xywh=pixel:530.58935546875,329.86346435546875,2818.064697265625,255.5045166015625"
         },
-        "id": "watermelon/70797a9a"
+        "id": "JSTOR-Labs/plant-humanities/annotations/watermelon/70797a9a"
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "watermelon/70797a9a/071dfef8",
