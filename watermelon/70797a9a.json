@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=watermelon/70797a9a",
-    "total": 2,
-    "modified": "2021-03-29T20:09:49.337313"
+    "total": 3,
+    "modified": "2021-03-29T20:10:25.510428"
   },
   "startIndex": 0,
   "items": [
@@ -50,6 +50,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "watermelon/70797a9a/071dfef8",
       "seq": 1
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "3",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2934.44091796875,836.6221923828125,331.204345703125,401.2529296875"
+        },
+        "id": "watermelon/70797a9a"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "watermelon/70797a9a/a54f1eaa",
+      "seq": 2
     }
   ]
 }
