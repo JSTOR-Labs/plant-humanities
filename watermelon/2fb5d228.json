@@ -77,7 +77,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "4",
+          "value": "It thus became necessary for the white melon-raisers of the South to rely for protection upon the dog and the shot-gun.” The New York Times, 1882",
           "purpose": "commenting"
         }
       ],
@@ -85,7 +85,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:87.09111022949219,1509.6962890625,105.22776794433594,219.0455322265625"
+          "value": "xywh=pixel:-488.3499254609015,-44.20767110787492,3705.2631578947367,2200"
         },
         "id": "watermelon/2fb5d228"
       },
