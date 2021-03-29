@@ -1,0 +1,34 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://visual-essays.app/annotations/?include=description&target=jstor-labs/plant-humanities/watermelon/96c765a1",
+  "type": "AnnotationPage",
+  "partOf": {
+    "id": "http://visual-essays.app/annotations/?include=description&target=jstor-labs/plant-humanities/watermelon/96c765a1",
+    "total": 1,
+    "modified": "2021-03-29T15:05:31.171720"
+  },
+  "startIndex": 0,
+  "items": [
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Dirt",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1454.079833984375,1270.4913330078125,355.4742431640625,216.5028076171875"
+        },
+        "id": "jstor-labs/plant-humanities/watermelon/96c765a1"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jstor-labs/plant-humanities/watermelon/96c765a1/4856268e",
+      "seq": 0
+    }
+  ]
+}
