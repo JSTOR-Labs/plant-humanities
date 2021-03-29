@@ -14,7 +14,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "1",
+          "value": "Various methods of preserving watermelons from colored ravages have been tried...",
           "purpose": "commenting"
         }
       ],
@@ -22,7 +22,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1538.8046875,51.540130615234375,446.68115234375,335.0108337402344"
+          "value": "xywh=pixel:1246.6624166899162,-5.828464848512883,1105.4545454545453,656.3636363636363"
         },
         "id": "watermelon/2fb5d228"
       },
@@ -35,7 +35,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "2",
+          "value": "The device of surreptitiously impregnating melons with a strong emetic promised at one time to be brilliantly successful, but the intelligent colored man soon hit upon the plan of selling a watermelon to its original owner and watching the effect upon him before eating any of the same crop.",
           "purpose": "commenting"
         }
       ],
@@ -43,7 +43,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:808.9887084960938,678.046875,210.3839111328125,239.43280029296875"
+          "value": "xywh=pixel:155.87216905712486,185.3753148110242,1792.5894905713008,1064.35001002671"
         },
         "id": "watermelon/2fb5d228"
       },
@@ -56,7 +56,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "3",
+          "value": "The patent explosive watermelon ... also seemed full of promise, but it proved to be a failure. Two of three planters who had used the explosive watermelon were sued for damages by the surviving relatives of unfortunate colored melon-gatherers",
           "purpose": "commenting"
         }
       ],
@@ -64,7 +64,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1280.007080078125,1421.24609375,322.9007568359375,255.416748046875"
+          "value": "xywh=pixel:249.21736569005134,969.2783276506096,1792.5894905713008,1064.35001002671"
         },
         "id": "watermelon/2fb5d228"
       },
