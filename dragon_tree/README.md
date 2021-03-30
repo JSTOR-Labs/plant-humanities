@@ -20,6 +20,11 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 <param title="Dracaena draco" eid="Q157952" aliases="D. draco">
 <param title="André Pierre Ledru" eid="Q2848440">
 <param title="Canary Islands" eid="Q5813" aliases="Canary Islands">
+<param ve-image
+	primary
+	manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/8a1g2/manifest.json"
+	fit="contain"
+	>
 <param ve-storiiies
 	id="8a1g2">
 {#paragraph1}
