@@ -14,7 +14,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "1",
+          "value": "This engraving by Martin Schongauer is considered to be the first image produced of the dragon tree from the Canary Islands. The dragon tree can be seen on the left edge of the image.",
           "purpose": "commenting"
         }
       ],
@@ -22,7 +22,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:365.87530517578125,481.5617980957031,292.84161376953125,257.0498962402344"
+          "value": "xywh=pixel:-1184.7796363636362,213.10938621945135,2369.5592727272724,1581.5912727272723"
         },
         "id": "dragon_tree/aeed466c"
       },
@@ -35,7 +35,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "2",
+          "value": "Here, the holy family of Christian tradition is shown fleeing to Egypt to escape persecution.",
           "purpose": "commenting"
         }
       ],
@@ -43,7 +43,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1074.361328125,625.8413696289062,251.4703369140625,243.48712158203125"
+          "value": "xywh=pixel:618.1236398079443,1111.200537683181,1086.3636363636363,733.6363636363635"
         },
         "id": "dragon_tree/aeed466c"
       },
@@ -56,7 +56,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "3",
+          "value": "Rare flora and fauna are used to emphasize the foreign nature of the travels. Depicted are angels picking dates from a palm.",
           "purpose": "commenting"
         }
       ],
@@ -64,7 +64,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:383.8158264160156,1196.6390380859375,363.2348937988281,331.30224609375"
+          "value": "xywh=pixel:698.2266227624912,567.2445717740904,1086.3636363636363,733.6363636363635"
         },
         "id": "dragon_tree/aeed466c"
       },
@@ -77,7 +77,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "4",
+          "value": "A parrot is featured nibbling on the dragon tree. This image was heralded in its time for its \"remarkably accurate portrayal\" of the rare specimen. This would lead many to believe that Schongauer traveled along the Iberian Peninsula to find the subject for this portrait, though there are no records of such travel.",
           "purpose": "commenting"
         }
       ],
@@ -85,7 +85,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1150.2015380859375,1248.52978515625,363.2349853515625,311.34423828125"
+          "value": "xywh=pixel:-544.0146211235175,119.37761146454233,1678.8693032831286,1120.5818181818177"
         },
         "id": "dragon_tree/aeed466c"
       },
@@ -98,7 +98,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "5",
+          "value": "Here, a lizard is shown crawling up the dragon tree with deer in the background. It is also believed that this engraving inspired the later engraver Albrecht Dürer to create a similar woodcut that also featured the holy family and included a similar combination of the date palm, dragon tree, lizards and deer.",
           "purpose": "commenting"
         }
       ],
@@ -106,7 +106,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:555.4542846679688,1859.243408203125,482.98272705078125,307.3525390625"
+          "value": "xywh=pixel:-738.2765529416988,1240.4912478281774,1678.8693032831286,1120.5818181818177"
         },
         "id": "dragon_tree/aeed466c"
       },
@@ -119,7 +119,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "6",
+          "value": "This composition emphasizes the potentiality and possibility of these new exotic findings in the Canaries and across new discoveries in West Africa. However, the narrative of fear and anticipation also loom over the story represented by Schongauer.",
           "purpose": "commenting"
         }
       ],
@@ -127,7 +127,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1609.2347412109375,2134.663330078125,55.88232421875,255.4619140625"
+          "value": "xywh=pixel:-593.5898234683287,405.6055332958694,3231.5463828314296,2314.814814814815"
         },
         "id": "dragon_tree/aeed466c"
       },
