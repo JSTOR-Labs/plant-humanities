@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=dragon_tree/aeed466c",
-    "total": 1,
-    "modified": "2021-03-30T16:03:20.257546"
+    "total": 2,
+    "modified": "2021-03-30T16:03:25.216151"
   },
   "startIndex": 0,
   "items": [
@@ -29,6 +29,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "dragon_tree/aeed466c/6688682c",
       "seq": 0
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "2",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1074.361328125,625.8413696289062,251.4703369140625,243.48712158203125"
+        },
+        "id": "dragon_tree/aeed466c"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "dragon_tree/aeed466c/1d8bf442",
+      "seq": 1
     }
   ]
 }
