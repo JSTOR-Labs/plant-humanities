@@ -142,6 +142,10 @@ As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, S
 {#paragraph11}
 
 But even in the face of this acute anthropogenic pressure, the great dragon tree at Orotava persisted. Struck by the tree’s size, age, and enduring spirit, Ledru remarked on how even the most environmentally malicious conquistadors respected this dragon tree. Perhaps, then, to Humboldt’s delight, Ledru estimated that this special tree would easily live another 150 to 200 years.[^ref16]
+<param ve-image
+	primary
+	manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/7b1dr/manifest.json"
+	fit="contain">
 <param ve-storiiies
 	id="7b1dr">
 {#paragraph12}
