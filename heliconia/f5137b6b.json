@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=heliconia/f5137b6b",
-    "total": 6,
-    "modified": "2021-03-30T16:23:18.690741"
+    "total": 7,
+    "modified": "2021-03-30T16:23:24.639039"
   },
   "startIndex": 0,
   "items": [
@@ -134,6 +134,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "heliconia/f5137b6b/d9184735",
       "seq": 5
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "7",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1626.7049560546875,3570.498779296875,312.3643798828125,182.21240234375"
+        },
+        "id": "heliconia/f5137b6b"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "heliconia/f5137b6b/6ce11623",
+      "seq": 6
     }
   ]
 }
