@@ -14,7 +14,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "1",
+          "value": "Heliconia pendent inflorescence",
           "purpose": "commenting"
         }
       ],
@@ -22,7 +22,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:589.82861328125,711.4967041015625,442.5162353515625,516.2689208984375"
+          "value": "xywh=pixel:1328.4317351316997,-719.1599549027563,2934.7349978098987,2471.5337366348344"
         },
         "id": "heliconia/f5137b6b"
       },
@@ -35,7 +35,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "2",
+          "value": "Penduncle (A) supporting basal bract (top left)",
           "purpose": "commenting"
         }
       ],
@@ -43,7 +43,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1236.2493896484375,1583.5140380859375,251.626953125,347.071533203125"
+          "value": "xywh=pixel:1401.941097544156,-289.64228986409177,1834.476167721897,1544.9332702819204"
         },
         "id": "heliconia/f5137b6b"
       },
@@ -56,7 +56,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "3",
+          "value": "Bracts with flowers partially protruding",
           "purpose": "commenting"
         }
       ],
@@ -64,7 +64,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:980.2841186523438,2481.561767578125,442.51629638671875,303.6875"
+          "value": "xywh=pixel:1364.539667993284,580.0925509697311,1790.9090909090908,1508.242563887725"
         },
         "id": "heliconia/f5137b6b"
       },
@@ -77,7 +77,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "4",
+          "value": "Bract with flower protruding",
           "purpose": "commenting"
         }
       ],
@@ -85,7 +85,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:2203.71142578125,2047.7222900390625,394.7939453125,299.3492431640625"
+          "value": "xywh=pixel:2050.866530777048,1324.7097897959,789.090909090909,664.5454545454545"
         },
         "id": "heliconia/f5137b6b"
       },
@@ -98,7 +98,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "5",
+          "value": "Scale of flower (above) relative to bract (below)",
           "purpose": "commenting"
         }
       ],
@@ -106,7 +106,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1717.8111572265625,3049.891357421875,299.3492431640625,104.12158203125"
+          "value": "xywh=pixel:-216.29028416560067,-209.90510167664817,1834.476167721897,1544.9332702819204"
         },
         "id": "heliconia/f5137b6b"
       },
@@ -119,7 +119,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "6",
+          "value": "Flower: (Fa) ovary, (Fb) free sepal, (Fc) fused sepal, (Fd) anthers",
           "purpose": "commenting"
         }
       ],
@@ -127,7 +127,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1084.4056396484375,3305.856689453125,203.904541015625,160.5205078125"
+          "value": "xywh=pixel:459.0982690614566,1844.1506823521906,1357.6944421811768,919.3244654621622"
         },
         "id": "heliconia/f5137b6b"
       },
@@ -140,7 +140,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "7",
+          "value": "(J) style and stigma",
           "purpose": "commenting"
         }
       ],
@@ -148,7 +148,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:1626.7049560546875,3570.498779296875,312.3643798828125,182.21240234375"
+          "value": "xywh=pixel:929.9795861913249,1954.7675873010037,2005.8167248618208,1630.9811188809688"
         },
         "id": "heliconia/f5137b6b"
       },
