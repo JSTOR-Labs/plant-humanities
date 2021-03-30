@@ -14,7 +14,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "1",
+          "value": "This 1875 oil painting of the great Orotava dragon tree depicts the tree's  distinctive, umbrella-shaped, palm-like appearance.",
           "purpose": "commenting"
         }
       ],
@@ -22,7 +22,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:267.00433349609375,234.27333068847656,175.27117919921875,144.0347137451172"
+          "value": "xywh=183.0139653110047,185.8030342184181,871.8181818181816,518.1818181818181"
         },
         "id": "dragon_tree/92b0ef80"
       },
@@ -35,7 +35,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "2",
+          "value": "D. draco's resilience is accentuated by the abundance of man-made objects that surround it, as if European society on the Canary Islands has developed beneath the shade of this enduring, centenary tree.",
           "purpose": "commenting"
         }
       ],
@@ -43,7 +43,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:701.402587890625,435.502685546875,83.1722412109375,111.7010498046875"
+          "value": "xywh=pixel:103.5461429620831,501.2641725465916,943.7049441786281,560.9090909090908"
         },
         "id": "dragon_tree/92b0ef80"
       },
@@ -56,7 +56,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "3",
+          "value": "Though Monsieur Franchy's D. draco did not live the 150 to 200 years that Ledru predicted, it was a testament to nature's resilience nonetheless. Not felled by an axe or engulfed in the flames of colonial expansion, the tree that captured the imaginations of nearly all travelers to Tenerife for centuries was bested by mother nature herself, when a tempest's winds finally ended the Orotava dragon tree's reign over the Canaries in 1869.",
           "purpose": "commenting"
         }
       ],
@@ -64,7 +64,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:345.5292663574219,659.1343383789062,150.97613525390625,127.548828125"
+          "value": "xywh=pixel:-174.74735059808626,85.38672512750858,1743.6363636363633,1036.3636363636363"
         },
         "id": "dragon_tree/92b0ef80"
       },
@@ -77,7 +77,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "4",
+          "value": "The fact that Marianne North painted this portrait in 1875, six years after the tree finally fell, is a testament to the Orotava dragon tree's enduring impact on life in the Canary Islands.",
           "purpose": "commenting"
         }
       ],
@@ -85,7 +85,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:597.0789794921875,735.9456176757812,55.1304931640625,44.1363525390625"
+          "value": "xywh=pixel:-106.8723983253589,177.91240921841808,1743.6363636363633,1036.3636363636363"
         },
         "id": "dragon_tree/92b0ef80"
       },
