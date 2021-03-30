@@ -74,6 +74,11 @@ European understandings of the dragon tree evolved as scientific botany develope
 The Guanches used dragon’s blood for a variety of purposes, ranging from embalming their dead and making dyes and varnishes, to using it as a toothpaste.[^ref5] Believing that, when dragons died they transformed into the divine trees, Guanches would regularly meet under the canopy of the giant dragon tree in the village of Orotava, to enact laws and perform judicial duties, as well as base meteorological predictions on the tree’s bloom.[^ref6] The tree remained a mythic indicator of a foreign land that was both exotically enticing yet materially valuable, as shown, for instance, in Martin Schongauer’s engraving _The Flight to Egypt_ (c. 1470). Dragon’s blood was immensely valuable: Béthencourt noted that the resin was “well worth two hundred ducats, while what was given in exchange was hardly worth two francs.”[^ref7] In fact, dragon’s blood soon became a European toothpaste, likely indicating a cultural transference of ethnobotanical knowledge between the Guanches and their European neighbors.
 <param title="Guanches" eid="Q219995">
 <param title="Orotava" eid="Q177566" aliases="Orotava">
+<param ve-image
+	primary
+	manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/751f7/manifest.json"
+	fit="contain"
+	>
 <param ve-storiiies
 	id="751f7">
 {#paragraph5}
@@ -137,11 +142,6 @@ As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, S
 {#paragraph11}
 
 But even in the face of this acute anthropogenic pressure, the great dragon tree at Orotava persisted. Struck by the tree’s size, age, and enduring spirit, Ledru remarked on how even the most environmentally malicious conquistadors respected this dragon tree. Perhaps, then, to Humboldt’s delight, Ledru estimated that this special tree would easily live another 150 to 200 years.[^ref16]
-<param ve-image
-	primary
-	manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/751f7/manifest.json"
-	fit="contain"
-	>
 <param ve-storiiies
 	id="7b1dr">
 {#paragraph12}
