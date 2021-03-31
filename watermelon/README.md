@@ -145,6 +145,10 @@ Aspects of the fruit became bound up with representations of African Americans, 
 {#paragraph11}
 
 Stories of watermelon theft contributed to the perception of Black criminality following the enactment of the thirteenth amendment, which abolished slavery. The seemingly irresistible lure of the watermelon suggested that it did “more to tempt the colored race to steal than all other fruit combined,” with countless anecdotes supposedly citing the words of African Americans who claimed that stolen watermelons tasted better than those bought.[^ref15] The narrative of African American watermelon-stealing was so entrenched that the Tennessee state bill that criminalized such trespasses in 1870 was commonly known as the “watermelon bill.” These cultural tropes continued to shape the exclusionary racial politics in the United States well into the twentieth century and [are still pervasive today.](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people)[^ref16]
+<param ve-image
+	manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/0d40cac0d58811eaac44194fa8c83abe/manifest.json"
+	fit="contain"
+	>
 <param ve-storiiies
 	id="0d1fv">
 {#paragraph12}

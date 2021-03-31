@@ -1,0 +1,97 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://visual-essays.app/annotations/?include=description&target=dragon_tree/5082f0d6",
+  "type": "AnnotationPage",
+  "partOf": {
+    "id": "http://visual-essays.app/annotations/?include=description&target=dragon_tree/5082f0d6",
+    "total": 4,
+    "modified": "2021-03-30T15:56:45.152934"
+  },
+  "startIndex": 0,
+  "items": [
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Dracaena draco's branches grow for about 10 to 15 years before re-branching with their characteristic umbrella-like shape.",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-224.86781609195427,762.0556838701981,2648.7356321839084,1646.0000000000005"
+        },
+        "id": "dragon_tree/5082f0d6"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "dragon_tree/5082f0d6/9ce31427",
+      "seq": 0
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The remains of the leaves show the scarlet pigment of dracaena's resin, commonly known as \"dragon's blood.\" It has been used since ancient times as medicine, incense, varnish, and dye.",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:-477.4123600790719,233.7422219293661,2648.7356321839084,1646.0000000000005"
+        },
+        "id": "dragon_tree/5082f0d6"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "dragon_tree/5082f0d6/b77b5dca",
+      "seq": 1
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This specimen belongs to the Herbarium at the Real Jardín Botánico, in Madrid. The Real Jardín was founded in 1755 by King Fernando VI. During the late eighteenth century it became highly instrumental in rediscovering and classifying Latin American flora, in an attempt to strengthen the metropolis through a series of economic botanical endeavors, most of which failed dramatically",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1536.8160919540228,1243.9144897993365,1324.3678160919542,823.0000000000002"
+        },
+        "id": "dragon_tree/5082f0d6"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "dragon_tree/5082f0d6/ad9c6d90",
+      "seq": 2
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The specimen was collected by Eugène Bourgeau in Tenereife in 1855, in Tenerife, during his second trip to the Canary Islands (\"ex itinere secundo\"). The tree was found on the steep cliffs of the island's valley (\"in rupibus praeruptis convallium\"). Bourgeau (1813-1977) was a French botanist who collected specimens in Southern Europe, North Africa, Western Asia, and North America. The specimen was presumably classified by another botanist referred in the label as \"J. Gay.\" It was poisoned (\"envenenada\") to prevent insect attacks",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1309.9017039331904,2409.872727721394,1324.3678160919542,823.0000000000002"
+        },
+        "id": "dragon_tree/5082f0d6"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "dragon_tree/5082f0d6/7935e053",
+      "seq": 3
+    }
+  ]
+}

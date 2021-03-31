@@ -62,6 +62,11 @@ The striking beauty of heliconias continued to attract both the plant explorer a
 {#paragraph6}
 
 A pen-and-ink drawing by the Smithsonian’s scientific illustrator [Alice Tangerini](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/tangerini-interview) employed a mix of photographs, dried specimens from Kress’s travels, and dissections under the microscope to capture the plant’s structures for the ensuing botanical publication. The discovery and description of this new variety exemplifies the entanglement of art and science in the long tradition of plant representation. 
+<param ve-image
+	primary
+	manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/ce1ku/manifest.json"
+	fit="contain"
+	>
 <param ve-storiiies id="ce1ku">
 {#paragraph7}
 
