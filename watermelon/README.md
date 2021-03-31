@@ -73,7 +73,7 @@ Watermelon-like fruit were referenced in ancient Greek and Roman texts using a v
 Watermelons were cultivated in Spain after the Arab conquest, with evidence of their agricultural use, mostly in the form of seeds, dating to the tenth century. Illuminated manuscripts from southern Italy illustrate the varieties of watermelons grown there. Early health treatises, such as _Tacuinum Sanitatis_, show harvesters [who taste-test them](http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=75&Fin=75&Param=C) in the fields. However, sweetness did not appear to be a consistent characteristic of watermelons. Writing in the late sixteenth century, John Gerard, in his [_Herball_,](https://www.biodiversitylibrary.org/page/35441755) described their flesh as “spungie and of a flimsie substance,” which could be “eaten rawe, but more commonly boiled”; whereas the plant itself was still associated with curative properties: “it ingendereth a waterish bloud, mitigateth the extremitie of heat of the inner parts, and tempereth the sharpness and fervent heat of choler.”[^ref9]
 <param ve-image
 	manifest="https://iiif-v2.visual-essays.app/manifest/c76937ec3c0825d3297e49d24021ed044ee03475733290dcd305e203538cc9db"
-	fit="contain"
+	fit="contain">
 <param ve-image
 	manifest="https://iiif-v2.visual-essays.app/manifest/70363273c8f61e1288fde7416d7b6efd43d52d90481d3554d794507fda659e3e"
 	fit="contain">
