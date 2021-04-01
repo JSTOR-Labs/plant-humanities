@@ -1,13 +1,9 @@
 <param ve-config
-	title="Peony: From an Ancient Cure to an Early Modern Tool of Statecraft"
-	source-image="https://iiif.wellcomecollection.org/image/B0009092.jpg/full/2048%2C/0/default.jpg"
+	title="Peony: Pretty and Powerful"
+	source-image="https://upload.wikimedia.org/wikipedia/commons/8/86/Smith_-_Chinese_Tree_Peony_%28Paeonia_suffruticosa%29_-_1939.288_-_Cleveland_Museum_of_Art.jpg"
 	banner="https://jstor-labs.github.io/plant-humanities/images/banners/peony.jpg"
        layout="vtl"
-	num-maps="4"
-	num-images="10"
-	num-specimens="16"
-	num-primary-sources="4"
-	author="Ashley Buchanan, PhD and Kyra Krakos, PhD">
+       author="Ashley Buchanan">
 
 <param title="epilepsy" eid="Q41571" aliases="mal caduco">
 <param title="precipitation" eid="Q113796">
@@ -31,7 +27,7 @@ In 1789, a European naturalist named Sir Joseph Banks acquired a “peony tree�
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.linn-hs959-3">
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.bm000628767">
 
-As a Chinese botanical export and a prominent flower in Ottoman gardens, peonies carried connotations of the “exotic Orient” and quickly became a popular subject in nineteenth century art. The depiction of peonies in nineteenth-century French art, however, does more than simply signify the exotic or differentiate Occident and Orient.[^3] For example, in Frédéric Bazille’s Black Woman with Peonies, the foreign provenance of ornamental peonies is emphasized by the Black model, who arranges the blooms in an “Oriental” vase. Interestingly, however, Bazille pairs the peonies with irises, France’s national flower. Once new and exotic, but now also bred in France, ornamental peony cultivars had become a product of cultural hybridity, simultaneously signaling the plant’s eastern origin as well as the new varieties that were being developed in France.[^4] As we can see, peonies have long been, and continue to be, a coveted ornamental plant, but what may surprise you is that they also have an equally long history as a powerful medicinal simple.
+As a Chinese botanical export and a prominent flower in Ottoman gardens, peonies carried connotations of the “exotic Orient” and quickly became a popular subject in nineteenth century art. The depiction of peonies in nineteenth-century French art, however, does more than simply signify the exotic or differentiate Occident and Orient.[^3] For example, in Frédéric Bazille’s Black Woman with Peonies, the foreign provenance of ornamental peonies is emphasized by the Black model, who arranges the blooms in an <span data-click-image-zoomto="22,583,979,821">“Oriental” vase.</span> Interestingly, however, Bazille pairs the peonies with <span data-click-image-zoomto="138,0,979,821">irises,</span> France’s national flower. Once new and exotic, but now also bred in France, ornamental peony cultivars had become a product of cultural hybridity, simultaneously signaling the plant’s eastern origin as well as the new varieties that were being developed in France.[^4] As we can see, peonies have long been, and continue to be, a coveted ornamental plant, but what may surprise you is that they also have an equally long history as a powerful medicinal simple.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bd/Bazille%2C_N%C3%A9gresse_aux_pivoines.JPG">
 
 ### The Secret Ingredient
