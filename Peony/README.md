@@ -32,13 +32,11 @@ In 1789, a European naturalist named Sir Joseph Banks acquired a “peony tree�
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.bm000628767">
 
 As a Chinese botanical export and a prominent flower in Ottoman gardens, peonies carried connotations of the “exotic Orient” and quickly became a popular subject in nineteenth century art. The depiction of peonies in nineteenth-century French art, however, does more than simply signify the exotic or differentiate Occident and Orient.[^3] For example, in Frédéric Bazille’s Black Woman with Peonies, the foreign provenance of ornamental peonies is emphasized by the Black model, who arranges the blooms in an “Oriental” vase. Interestingly, however, Bazille pairs the peonies with irises, France’s national flower. Once new and exotic, but now also bred in France, ornamental peony cultivars had become a product of cultural hybridity, simultaneously signaling the plant’s eastern origin as well as the new varieties that were being developed in France.[^4] As we can see, peonies have long been, and continue to be, a coveted ornamental plant, but what may surprise you is that they also have an equally long history as a powerful medicinal simple.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Young_Woman_with_Peonies_A32212.jpg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bd/Bazille%2C_N%C3%A9gresse_aux_pivoines.JPGg">
 
-
-### The Power of Peony
+### The Secret Ingredient
 In 1735, a Viennese baroness wrote to the last Medici princess, <span id="Q233181">Anna Maria Luisa de Medici (1669-1743)</span>,  to thank her for sending a miraculous infant convulsion powder. In her letter, the baroness praised the powder’s effectiveness and stated that the children she treated with it had been so violently taken by convulsions that the physicians had “given up on them.” Not only had the “miraculous powder” cured the children, the baroness also stated that a number of months had passed, and the children remained in perfect health. Anna Maria Luisa was well known for her miraculous powder, which she distributed strategically to influential individuals and courts across Europe.
-<param ve-d3plus-ring-network 
-       url="https://jstor-labs.github.io/plant-humanities/graphs/peony_medici.tsv" center="Anna Maria Luisa de' Medici">
+<param ve-d3plus-ring-network url="https://jstor-labs.github.io/plant-humanities/graphs/peony_medici.tsv" center="Anna Maria Luisa de' Medici">
 
 Anna Maria Luisa’s recipe for infant convulsion powder contained a precipitation of a human skull of a man (who died violently but was never buried), a precipitation of “Oriental pearls,” a precipitation of red coral and white coral, as well as yellow amber and peony roots and seeds. While the more outrageous ingredients such as pulverized human skull and Oriental pearls stand out, it was actually the use of <span data-click-image-zoomto="901,1073,847,637">peony</span> that made Anna Maria Luisa’s powder effective and enabled her to create valuable political alliances and protect <span eid="Q154849">The Grand Duchy of Tuscany</span> as the end of the Medici dynasty neared. 
 <param ve-title="Peaonia" eid="Q147105" aliases="peony">
