@@ -100,7 +100,7 @@ Today, the primary approach to treating epilepsy and suppressing seizures is to 
        fit="contain"
        title="Treating diseased brain cells with calcium channel blockers"
        attribution="University of Bristol"
-       url="https://scx2.b-cdn.net/gfx/news/2019/calciumchann.jpg">
+       url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/Peony/Calcium%20Channel%20Blocker%20copy.jpg">
 
 The probable effectiveness of her infant convulsion powder increased Anna Maria Luisa’s socio-political influence. In fact, several letters preserved in the Florence State Archive attest to the powder’s efficacy and popularity. In one such letter, the previously mentioned Viennese baroness wrote again to Anna Maria Luisa requesting additional portions of powder given the “extraordinary effects they had on three children from the most important families of Vienna.” Anna Maria Luisa replied that she would send the baroness as much of the powder as she desired to distribute to her friends, considering that she had “put the powder to such good use.” 
 <param ve-map center="Q3012" zoom="6" title="Recipients of Anna Maria Luisa's Infant Convulsion Powder" show-labels>
