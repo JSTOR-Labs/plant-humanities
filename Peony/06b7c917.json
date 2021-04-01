@@ -5,7 +5,7 @@
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=Peony/06b7c917",
     "total": 1,
-    "modified": "2021-04-01T14:02:21.348748"
+    "modified": "2021-04-01T14:02:58.598140"
   },
   "startIndex": 0,
   "items": [
@@ -24,7 +24,7 @@
           "conformsTo": "http://www.w3.org/TR/media-frags/",
           "value": "xywh=pixel:-4.1030144691467285,8.511528968811035,2000.2061638832092,3753.578314781189"
         },
-        "id": "Peony/06b7c917"
+        "id": "JSTOR-Labs/plant-humanities/main/Peony/06b7c917"
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "Peony/06b7c917/26c8f402",
