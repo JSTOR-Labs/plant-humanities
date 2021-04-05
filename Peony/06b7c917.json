@@ -1,0 +1,34 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://visual-essays.app/annotations/?include=description&target=Peony/06b7c917",
+  "type": "AnnotationPage",
+  "partOf": {
+    "id": "http://visual-essays.app/annotations/?include=description&target=Peony/06b7c917",
+    "total": 1,
+    "modified": "2021-04-05T19:08:27.689926"
+  },
+  "startIndex": 0,
+  "items": [
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<p class=\"p1\" style=\"margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; color: rgb(0, 0, 0);\">This image is of the fourth month, when peonies bloomed and were appreciated and celebrated in the garden.</p>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:325.3786315917969,516.1237182617188,1208.8161926269531,1096.7630004882812"
+        },
+        "id": "Peony/06b7c917"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "Peony/06b7c917/26e7d585",
+      "seq": 0
+    }
+  ]
+}
