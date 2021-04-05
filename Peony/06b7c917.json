@@ -55,9 +55,9 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "body": [
         {
-          "purpose": "commenting",
           "type": "TextualBody",
           "value": "This genre painting from the Qing Dynasty (1644-1911) shows the enduring imperial fascination and appreciation of peonies.",
+          "purpose": "commenting"
         }
       ],
       "id": "Peony/06b7c917/bfc14688",
