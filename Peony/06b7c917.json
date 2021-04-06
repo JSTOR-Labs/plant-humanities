@@ -28,7 +28,7 @@
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "Peony/06b7c917/343e9fa3",
-      "seq": 0
+      "seq": 2
     },
     {
       "type": "Annotation",
@@ -61,7 +61,7 @@
         }
       ],
       "id": "Peony/06b7c917/bfc14688",
-      "seq": 2,
+      "seq": 0,
       "target": {
         "id": "Peony/06b7c917",
         "selector": {
