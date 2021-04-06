@@ -67,7 +67,6 @@ A pen-and-ink drawing by the Smithsonian’s scientific illustrator [Alice Tange
 	manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/ce1ku/manifest.json"
 	fit="contain"
 	>
-<param ve-storiiies id="ce1ku">
 {#paragraph7}
 
 <param ve-entity eid="Q3148760" title="botanical illustrator">
