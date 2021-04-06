@@ -26,7 +26,7 @@ When eaten raw, cassava is likely to leave a bitter taste in one’s mouth. Wors
 <param title="tuber" eid="Q183319"> 
 How did cassava come to occupy this pride of place in the global food system? How did cassava transform from a poisonous tuber into a major food staple, and from an exclusive dweller of South America into a cosmopolitan citizen of the world? To answer these questions, this essay looks at how human interactions with cassava helped shape the plant into the significant food crop that it is today. We first look at the elaborate method of processing cassava developed by the Indigenous peoples of Meso- and South America and then turn to the codification and spread of this knowledge, facilitated by European travelers to the New World. This meeting of Indigenous and European knowledge systems, combined with cassava’s tolerance for drought, resulted in a food crop that would create new hope for global food security in the twentieth and twenty-first centuries. Furthermore, as knowledge of cassava and its specimens circulated to different parts of the world, the plant took on additional cultural meanings through novel culinary uses and artistic representations.
 <param ve-image primary fit="cover" manifest="https://iiif-v2.visual-essays.app/manifest/cd8c60c5606f06f52ebf4c39ad566c9d05ff31e35d7898ec6083db171fb1e483">
-<param ve-image region="2124,680,2903,1968" url="Cassava_distribution_map_4.jpg" title="Global distribution of cassava. Cassava’s native habitat is marked in green, and regions where cassava was introduced by humans are marked in orange.">
+<param ve-image region="2124,680,2903,1968" manifest="https://iiif-v2.visual-essays.app/manifest/4739704f83d8a70388c0f9852ef10cfd06ee6f5a04186f5e463b0893f87b0cf7">
 {#paragraph2}
 
 ### Of Frogs and Cassava: Early Cultivation in the Andes
@@ -127,13 +127,13 @@ European travelers also described the process of making cassava into fermented b
 
 Even today, many Indigenous Peoples in Meso- and South America still follow these recipes for fermented cassava beverages that were established by their ancestors and recorded by European travelers. In addition to such descriptions in travel writings, knowledge of cassava also entered other eighteenth-century European texts, such encyclopedias, and informed various fields of knowledge production, from baking and chemistry to agriculture.[^ref23]
 <param ve-image primary region="-224,-15,879,760" manifest="https://iiif-v2.visual-essays.app/manifest/ed091daba412388f225a5493d11ae6d040785542427478321ea587bb36f29b40">
-<param ve-image region="-708,224,3542,3063" manifest="https://iiif-v2.visual-essays.app/manifest/1cd79c22797ade052563a19515c315ca1bd290d99fbe2fc64c49c1a3f70dddbf">
+<param ve-image fit="contain" region="-206,75,1030,950" manifest="https://iiif-v2.visual-essays.app/manifest/1cd79c22797ade052563a19515c315ca1bd290d99fbe2fc64c49c1a3f70dddbf">
 {#paragraph15}
 
 ### Cassava in Circulation
 
 As Europeans moved between continents, knowledge of cassava preparation, together with the plant itself, traveled with them. Cassava was initially transplanted to the west coast of Africa by Portuguese traders as early as the sixteenth century.[^ref24] At first, traders and slavers transported it in the form of a finished product, _farinha_ (manioc flour), that had been produced in Brazil.[^ref25] Eventually, Amerindian peoples from the New World who knew how to process the plant were also brought to Africa.[^ref26] Similarly, Africans brought back knowledge of cassava processing they had learned in the New World.[^ref27] Once it started being cultivated in Africa, cassava and the knowledge of its preparation became localized along the west coast of Africa, subsequently spreading inland and to other parts of the continent.[^ref28]
-<param ve-image region="2188,991,1452,1275" url="Cassava_distribution_map_4.jpg" title="Global distribution of cassava. Cassava’s native habitat is marked in green, and regions where cassava was introduced by humans are marked in orange.">
+<param ve-image region="2188,991,1452,1275" manifest="https://iiif-v2.visual-essays.app/manifest/81017ef7736a15721020d0a48762cb13950a939205c3c19c2cee983dd26798fc">
 {#paragraph16}
 
 <param title="garri" eid="Q1494252" aliases="gari">
