@@ -10,25 +10,25 @@
   "startIndex": 0,
   "items": [
     {
-      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
       "body": [
         {
           "type": "TextualBody",
-          "value": "This image is of the fourth month, when peonies bloomed and were appreciated and celebrated in the garden.",
+          "value": "This genre painting from the Qing Dynasty (1644-1911) shows the enduring imperial fascination and appreciation of peonies.",
           "purpose": "commenting"
         }
       ],
+      "id": "Peony/06b7c917/bfc14688",
+      "seq": 0,
       "target": {
+        "id": "Peony/06b7c917",
         "selector": {
-          "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:672.5625610351562,2127.87890625,1276.7273559570312,1251.19287109375"
-        },
-        "id": "Peony/06b7c917"
+          "type": "FragmentSelector",
+          "value": "xywh=pixel:60.57765197753906,65.56224060058594,1897.318832397461,3415.173843383789"
+        }
       },
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "Peony/06b7c917/343e9fa3",
-      "seq": 2
+      "type": "Annotation"
     },
     {
       "type": "Annotation",
@@ -52,25 +52,25 @@
       "seq": 1
     },
     {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
       "body": [
         {
           "type": "TextualBody",
-          "value": "This genre painting from the Qing Dynasty (1644-1911) shows the enduring imperial fascination and appreciation of peonies.",
+          "value": "This image is of the fourth month, when peonies bloomed and were appreciated and celebrated in the garden.",
           "purpose": "commenting"
         }
       ],
-      "id": "Peony/06b7c917/bfc14688",
-      "seq": 0,
       "target": {
-        "id": "Peony/06b7c917",
         "selector": {
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
           "type": "FragmentSelector",
-          "value": "xywh=pixel:60.57765197753906,65.56224060058594,1897.318832397461,3415.173843383789"
-        }
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:672.5625610351562,2127.87890625,1276.7273559570312,1251.19287109375"
+        },
+        "id": "Peony/06b7c917"
       },
-      "type": "Annotation"
-    }
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "Peony/06b7c917/343e9fa3",
+      "seq": 2
+    },
   ]
 }
