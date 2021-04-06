@@ -111,18 +111,18 @@
 ![](/images/thumbnails/dragon_tree.jpg)
 
 ##
-[**Mint: The Ubiquity of a Commercial Crop**](/mint)
-
-- author: Victoria Pickering
-
-![](/images/thumbnails/mint.jpg) 
-
-##
 [**Heliconia: Evolution at Work**](/heliconia)
 
 - authors: W. John Kress and Yota Batsaki
 
 ![](/images/thumbnails/heliconia.jpg)
+
+##
+[**Mint: The Ubiquity of a Commercial Crop**](/mint)
+
+- author: Victoria Pickering
+
+![](/images/thumbnails/mint.jpg) 
 
 ##
 [**Pelargonium: By Any Other Name Would Smell as Sweet?**](/pelargonium)
