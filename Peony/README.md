@@ -14,7 +14,7 @@
 <span eid="Q147105">Peonies</span> were first cultivated for their attractiveness and fragrance more than 1400 years ago in China and became especially popular under the <span eid="Q9683">Tang Dynasty.</span> In the Tang imperial gardens, tree (or moutan) peonies reigned as the “king of flowers” and were believed to symbolize happiness, wealth, and prosperity. We can see the association of peonies with wealth and class in a rare painting from the Tang dynasty, which depicts five ladies of the Tang court and one maidservant. The rank and prestige of each <span data-click-image-zoomto="3599,-267,2284,1914">lady</span> is shown by their scale as well as the lavish <span data-click-image-zoomto="2737,1,617,535">peonies</span> that adorn their hair. As the popularity of peonies grew, so too did their varieties. Peony plants were selected, hybridized, bred, and eventually grafted for their fragrance, petal color, petal number, and size.[^1]
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/0/06/Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._%2846x180%29_Liaoning_Provincial_Museum%2C_Shenyang..jpg">
 
-The center of imperial peony cultivation was in <span eid="Q187136">Luoyang</span> where there were peony festivals and competitions, gardens devoted solely to peonies, and even a peony research center. This led to a plethora of ornamental peony cultivars as peony breeding became an artform. More than 200 peony cultivars were described during the <span eid="Q7462">Song Dynasty</span> and today China alone has more than 1,000 cultivars.
+The center of imperial peony cultivation was in <span eid="Q187136">Luoyang</span> where there were peony festivals and competitions, gardens devoted solely to peonies, and even a peony research center. This led to a plethora of ornamental peony cultivars as peony breeding became an artform. More than 200 peony cultivars were described during the <span eid="Q7462">Song Dynasty,</span> and today, China alone has more than 1,000 cultivars.
 <param ve-image url="https://theme.npm.edu.tw/exh105/npm_anime/TwelveMonths/common/images/selection/img1_1_4.jpg">
 <param ve-map center="Q187136" zoom="4" stroke-width="0" show-labels>
 
@@ -42,7 +42,7 @@ In her letter to Anna Maria Luisa, the Vieannese baroness praised the powder’s
 <param ve-d3plus-ring-network url="https://jstor-labs.github.io/plant-humanities/graphs/peony_medici.tsv" center="Anna Maria Luisa de' Medici">
 
 ### Shaoyao: The Medicine Made from Peony
-While today we think of peonies as beautiful ornamental flowers, for more than a millennium, they have been used as medicinal plants. Peony is the single genus in the _Paeoniaceae_ family, which has about 30 species found in western North America, Northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s bio-geographic distribution.
+Although today we think of peonies as beautiful ornamental flowers, they have been used as medicinal plants for more than a millennium. Peony is the single genus in the _Paeoniaceae_ family, which has about 30 species found in western North America, Northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s bio-geographic distribution.
 <param ve-map center="32.262084, 64.391554" zoom="2.5" stroke-width="0" show-labels>
 <param ve-map-layer geojson url="/geojson/peony.json" title="Peony Distribution" active> 
 
