@@ -149,8 +149,6 @@ Stories of watermelon theft contributed to the perception of Black criminality f
 	manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/0d40cac0d58811eaac44194fa8c83abe/manifest.json"
 	fit="contain"
 	>
-<param ve-storiiies
-	id="0d1fv">
 {#paragraph12}
 
 ### “Cholera Bombshells”
@@ -166,8 +164,6 @@ At the turn of the twentieth century, for instance, British mine owners in Korea
 	primary
 	manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/831fg/manifest.json"
 	fit="contain">
-<param ve-storiiies
-	id="831fg">
 {#paragraph14}
 
 ### Commodification and Ecological Costs
