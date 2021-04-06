@@ -89,11 +89,7 @@ While modern western medicine tends to dismiss pre-modern therapeutics like Anna
        url="https://iiif.wellcomecollection.org/image/L0038032.jpg/full/full/0/default.jpg">
 
 A study conducted in 1991 on the water extract of _P. officinalis_ concluded that there are several chemical compounds found in the root, including <span id="Q7124104">paeoniflorin</span>, albiflorin, oxypaeoniflorin, and gallotannins that have documented anticonvulsant properties.[^12] Furthermore, when isolated, the compounds albiflorin and gallotannin were proven to block extracellular calcium, which is linked to intracellular seizure-related phenomena. Paeoniflorin fractions also showed inhibition, but to a weaker extent. An additional study, which administered peony root extract (from _P. officinalis_) to rats, concluded that it was “a potent in vitro inhibitor of neuron damage in the CA1 area of the hippocampus.”[^13] The study also determined that peony root extract had protective effects on damaged neurons as well as anticonvulsant action when administered orally.[^14] Finally, the administration of antiepileptic drugs early has the potential to [alter the long-term course of epilepsy](https://www.jstor.org/stable/29726099), with the possibility of preventing it from becoming an “intractable disorder.”
-<param ve-image
-       fit=""
-       title=""
-       attribution=""
-       url="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-54863-y/MediaObjects/41598_2019_54863_Fig1_HTML.png?as=webp">
+<param ve-image url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/Peony/Peony_compounds.jpg">
 
 Today, the primary approach to treating epilepsy and suppressing seizures is to alter the neural network’s excitability or inhibition by regulating chemical compounds such as sodium and calcium. Drugs like <span id="Q421567">ethosuximide</span> reduce abnormal electrical activity in the brain by regulating calcium influx in cells. Thus, in contemporary western medicine there is little market demand to further investigate the peony root’s similar biochemical compounds or potential pharmaceutical applications. This lack of contemporary interest, however, does not make the biochemical activity of peony insignificant historically. The identification of active biochemical compounds suggest that Anna Maria Luisa’s powder might have actually improved the health of the children who received it! 
 <param ve-image
