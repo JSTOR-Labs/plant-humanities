@@ -25,8 +25,6 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 	manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/8a1g2/manifest.json"
 	fit="contain"
 	>
-<param ve-storiiies
-	id="8a1g2">
 {#paragraph1}
 
 ### Sanguine Myths and Elemental Reality
@@ -79,8 +77,6 @@ The Guanches used dragon’s blood for a variety of purposes, ranging from embal
 	manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/751f7/manifest.json"
 	fit="contain"
 	>
-<param ve-storiiies
-	id="751f7">
 {#paragraph5}
 
 ### From Herbals to Enlightenment Science
@@ -146,8 +142,6 @@ But even in the face of this acute anthropogenic pressure, the great dragon tree
 	primary
 	manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/7b1dr/manifest.json"
 	fit="contain">
-<param ve-storiiies
-	id="7b1dr">
 {#paragraph12}
 
 Unfortunately, the Orotava centenary dragon tree did not outlive Humboldt and Ledru’s visits by very long. In 1819, a storm broke one of its branches, and in 1867, a hurricane-like tempest broke them all off.[^ref17] Despite this inauspicious demise, the tree’s image remains associated with the Canary Islands today, and it is still frequently featured prominently in images of Orotava. Furthermore, both naturalists’ accounts of their encounters with the dragon tree in its native environment stand as proof of its power to equally excite scientific and aesthetic imagination, promote environmental concerns, and reinforce colonial dynamics. 
