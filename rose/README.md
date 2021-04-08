@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config
-       title="Rose: A Celebration of Women's Work"
+       title="Rose: Unearthing Women's Work"
        author="Kristan M. Hanson"
        source-image="blob:null/350ec559-ab4d-204b-ad69-901393a2d9adhttps://www.biodiversitylibrary.org/page/55161008"
        banner="InsektenfressenPflantzen_1_BHL.png"
