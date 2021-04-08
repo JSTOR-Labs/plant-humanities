@@ -12,6 +12,7 @@
 <param ve-entity eid="Q138821" title="Nepenthes rafflesiana">
 <param ve-entity eid="Q10289985" title="petiole" aliases="petioles">
 Nepenthes are among the most wondrous carnivorous plants in the natural world. These plants developed extraordinary leaf adaptations that help to diversify their diet and, in turn, compensate for the nutrient-poor soil found in their native habitats, in Southeast Asia and Oceania.[^ref1] _Nepenthes rafflesiana_, portrayed in this print, evolved wing-shaped petioles capable of absorbing sunlight to fuel the synthesis of glucose (photosynthesis) and highly modified pitcher-like leaves capable of deriving nutrients from prey and animal feces. More remarkable still, _Nepenthes rafflesiana_ grows not one but two types of pitchers: first lower and then upper ones. While squat low-lying pitchers catch creepy crawlies and small vertebrates, tapered aerial ones seize flying insects and collect bat guano. Curious and beautiful, _Nepenthes rafflesiana_’s pitchers also captured the interest of humans, shaping their interactions with this plant in life and through the medium of art.[^ref2]
+<param ve-image manifes="http://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=134158">
 <param ve-image region="-169,-42,849,784" url="https://images.nypl.org/index.php?id=1130402&t=w" title="_Rose_, J. J. Grandville, _Les fleurs animées_, 1847, Paris, Gabriel de Gonet." attribute="George Arents Collection, The New York Public Library, public domain.">
 {#paragraph1}
 
