@@ -2,7 +2,7 @@
 <param ve-config
        title="Rose: Unearthing Women's Work"
        author="Kristan M. Hanson"
-       source-image="blob:null/350ec559-ab4d-204b-ad69-901393a2d9adhttps://www.biodiversitylibrary.org/page/55161008"
+       source-image="blob:null/350ec559-ab4d-204b-ad69-901393a2d9adpink_roses_2004.165.2.jpg"
        banner="InsektenfressenPflantzen_1_BHL.png"
        layout="vtl">
 
