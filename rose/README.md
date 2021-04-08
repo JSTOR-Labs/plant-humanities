@@ -2,7 +2,7 @@
 <param ve-config
        title="Rose: Unearthing Female Labor"
        author="Kristan M. Hanson"
-       source-image="https://www.nga.gov/collection/art-object-page.134158.html"
+       source-image="https://www.si.edu/object/garden-may%3Asaam_1929.6.26"
        banner="SAAM-1929.6.26_2.jpg"
        layout="vtl">
 
