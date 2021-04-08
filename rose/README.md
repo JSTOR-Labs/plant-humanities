@@ -2,8 +2,8 @@
 <param ve-config
        title="Rose: Unearthing Women's Work"
        author="Kristan M. Hanson"
-       source-image="pink_roses_2004.165.2.jpg"
-       banner="InsektenfressenPflantzen_1_BHL.png"
+       source-image="https://www.nga.gov/collection/art-object-page.134158.html"
+       banner="pink_roses_2004.165.2.jpg"
        layout="vtl">
 
 ### Queen of Flora
