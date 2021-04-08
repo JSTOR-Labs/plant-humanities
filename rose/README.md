@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config
-       title="Rose: Unearthing Women's Work"
+       title="Rose: Unearthing Female Labor"
        author="Kristan M. Hanson"
        source-image="https://www.nga.gov/collection/art-object-page.134158.html"
        banner="pink_roses_2004.165.2.jpg"
