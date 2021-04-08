@@ -33,12 +33,12 @@ In the 1600s and 1700s, European enchantment with nepenthes grew through direct 
 <param ve-image url="Nepenthes rafflesiana_Flickr_Jungle Rebel_cropped-standard-scale-2_00x-gigapixel.jpg" title="_Nepenthes rafflesiana_, Botanic Garden Meise" attribute="Jungle Rebel, Flickr, CC BY 2.0">
 {#paragraph3}
 
-### Nepenthes: Generic Name and Mythical Drug
+### Marie Antoinette and Elisabeth Louise Vigée Le Brun
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus" aliases="Carolus Linnaeus">
 Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) 
 <param ve-image primary region="-46,465,3728,3361" url="LINN_0328S_000433-standard-scale-2_00x-gigapixel.jpg" title="Page 431, Carl von Linné, _Hortus Cliffortianus Plantas_, 1738, Amsterdam: [s.n.]." attribution="Real Jardín Botánico, CC">
-<param ve-image region="-130,18,654,590" url="https://bibdigital.rjb.csic.es/i/?IIIF=/c3/14/85/74/c3148574-f77f-4350-b4ac-d97379b713fa/iiif/LINN_0328S_000007.tif/19.57788944723618,24.49479940564636,1918.6331658291458,3228.4145616641904/!392,659/0/default.jpg" title="Title page, Carl von Linné, _Hortus Cliffortianus Plantas_, 1738, Amsterdam: [s.n.]." attribution="Real Jardín Botánico, CC">
+<param ve-image region="-130,18,654,590" url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Marie_Antoinette_Adult.jpg" title="Elisabeth Louise Vigée Le Brun. Marie-Antoinette in Court Dress, 1778. Oil on canvas, 273 x 193,5 cm" attribution="Kunsthistorisches Museum, Vienna, Wikimedia Commons, public domain">
 {#paragraph4}
 
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
