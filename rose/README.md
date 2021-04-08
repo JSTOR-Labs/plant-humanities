@@ -3,7 +3,7 @@
        title="Rose: Unearthing Female Labor"
        author="Kristan M. Hanson"
        source-image="https://www.nga.gov/collection/art-object-page.134158.html"
-       banner="pink_roses_2004.165.2.jpg"
+       banner="https://ids.si.edu/ids/manifest/SAAM-1951.14.117_1"
        layout="vtl">
 
 ### Queen of Flora
