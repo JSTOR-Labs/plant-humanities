@@ -19,7 +19,7 @@ Nepenthes are among the most wondrous carnivorous plants in the natural world. T
 <param ve-entity eid="Q1019" title="Madagascar">
 <param ve-entity eid="Q290175" title="Étienne de Flacourt">
 Many rich and complex cultural engagements with nepenthes explored the botanical significance of their pitchers, while expressing an enduring fascination with their form and function. Indeed, the first known published description of a nepenthes was authored by Étienne de Flacourt, a French colonial governor of Madagascar, for his book [_Histoire de la grande isle Madagascar_,](https://bvpb.mcu.es/en/consulta/registro.do?id=406802) from 1658.[^ref3] Astonished by the pitcher of a plant now named _Nepenthes madagascariensis_, Flacourt extolled this “small vase, with its own lid,” that he mistook for a “flower or fruit,” as a truly “wonderful sight.”[^ref4] He could never have imagined that this fantastical botanical form was a leaf, nor dreamed of its function as a pitfall trap.
-<param ve-image region="-169,-42,849,784" url="https://images.nypl.org/index.php?id=1130402&t=w" title="_Rose_, J. J. Grandville, _Les fleurs animées_, 1847, Paris, Gabriel de Gonet." attribute="George Arents Collection, The New York Public Library, public domain.">
+<param ve-image region="-169,-42,849,784" url="https://upload.wikimedia.org/wikipedia/commons/5/53/Rosa_%27Souvenir_de_la_Malmaison%27_1.jpg" title="_Rosa 'Souvenir de la Malmaison'_, 14 August 2014." attribute="Nadiatalent, Wikimedia Commons, CC BY-SA 4.0.">
 {#paragraph2}
 
 <param ve-entity eid="Q7167" title="colonialism">
