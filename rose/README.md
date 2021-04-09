@@ -34,7 +34,7 @@ In the 1600s and 1700s,  European enchantment with nepenthes grew through direct
 <param ve-image url="Rose_Labor_2_Flickr-standard-scale-2_00x-gigapixel.jpg" title="Bouquet of flowers made from roses produced in Kenya and Tansania, February 13, 2008." attribute="Lynne Hand, Flickr, CC BY-NC-ND 2.0.">
 {#paragraph3}
 
-### Rosa
+### Rosa, Rosa Maria, Roza, Rozália...
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus" aliases="Carolus Linnaeus">
 <param ve-entity eid="Q34687" title="Rosa"> 
