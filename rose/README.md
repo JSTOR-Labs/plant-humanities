@@ -42,7 +42,6 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-image region="-130,18,654,590" url="https://bibdigital.rjb.csic.es/i/?IIIF=/c3/14/85/74/c3148574-f77f-4350-b4ac-d97379b713fa/iiif/LINN_0328S_000007.tif/19.57788944723618,24.49479940564636,1918.6331658291458,3228.4145616641904/!392,659/0/default.jpg" title="Title page, Carl von Linné, _Hortus Cliffortianus Plantas_, 1738, Amsterdam: [s.n.]." attribution="Real Jardín Botánico, CC">
 {#paragraph4}
 
-
 ### Morphology and Native Range
 
 <param ve-entity eid="Q183252" title="morphology"> 
@@ -64,7 +63,7 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-entity eid="Q390001" title="pastoral">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image primary region="-10,409,1017,898" url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Marie_Antoinette_Adult.jpg" title="Elisabeth Louise Vigée Le Brun. Marie-Antoinette in Court Dress, 1778. Oil on canvas, 273 x 193,5 cm" attribution="Kunsthistorisches Museum, Vienna, Wikimedia Commons, public domain">
-<param ve-image primary layers region ="-63,174,1127,995" url="https://upload.wikimedia.org/wikipedia/commons/0/00/MA-Lebrun.jpg" title="Élisabeth Vigée-Lebrun, _Marie Antoinette_, Salon de Paris 1783, oil on canvas" attribution="Collection of the prince Ludwig von Hessen und bei Rhein, Wolfsgarten Castle, Germany, Wikimedia Commons, public domain">
+<param ve-image region ="-63,174,1127,995" url="https://upload.wikimedia.org/wikipedia/commons/0/00/MA-Lebrun.jpg" title="Élisabeth Vigée-Lebrun, _Marie Antoinette_, Salon de Paris 1783, oil on canvas" attribution="Collection of the prince Ludwig von Hessen und bei Rhein, Wolfsgarten Castle, Germany, Wikimedia Commons, public domain">
 {#paragraph7}
 
 <param ve-entity eid="Q425548" title="palette">
@@ -122,7 +121,7 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-image url="La Pagerie Museum_Martinique_Flickr.jpg" title="La Pagerie Museum, Martinique, May 12, 2010." attribute="Steve Bennett, Flickr, CC BY-NC 2.0.">
 {#paragraph14}
 
-### Global Floricultural Trades
+### Global Floricultural Trade
 
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image region="0,1237,1769,1619" url="https://ia800900.us.archive.org/BookReader/BookReaderImages.php?id=reportofbritisha75brit&itemPath=%2F21%2Fitems%2Freportofbritisha75brit&server=ia800900.us.archive.org&page=n606_w1769" title="Joseph Dalton Hooker, “Address to the Department of Botaby and Zoology [The Carnivorous Habits of Plants], _Report of the British Association for the Advancement of Science_, 1874, page 111” attribute="Natural History Museum Library, London, Biodiversity Heritage Library, public domain">
@@ -148,7 +147,7 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-image primary region="0,141,4272,3834" url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n103_w4272" title="_Plantes et Fleurs Exotiques_, _L’Illustration horticole_, vol. 26, 1879" attribute="Missouri Botanical Garden, Peter H. Raven Library, Biodiversity Heritage Library, CC">
 {#paragraph19}
 
-### Hybrid Organisms and Cut Flower Aesthetic
+### Hybrid Organisms and Cut Flower Aesthetics
 
 <param ve-entity eid="Q457420" title="Wangechi Mutu">
 <param ve-entity eid="Q22669857" title="collage">
