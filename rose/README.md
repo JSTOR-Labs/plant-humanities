@@ -8,21 +8,25 @@
 
 ### Queen of Flora
 
-<param ve-entity eid="Q217530" title="Nepenthes">
+<param ve-entity eid="Q5446751" title="Fidelia Bridges">
+<param ve-entity eid="Q1952033" title="Pennsylvania Academy of the Fine Arts">
+<param ve-entity eid="Q102231" title="rose"> 
+<param ve-entity eid="Q744442" title="Jean Ignace Isidore Gérard Grandville">
 Nepenthes are among the most wondrous carnivorous plants in the natural world. These plants developed extraordinary leaf adaptations that help to diversify their diet and, in turn, compensate for the nutrient-poor soil found in their native habitats, in Southeast Asia and Oceania.[^ref1] _Nepenthes rafflesiana_, portrayed in this print, evolved wing-shaped petioles capable of absorbing sunlight to fuel the synthesis of glucose (photosynthesis) and highly modified pitcher-like leaves capable of deriving nutrients from prey and animal feces. More remarkable still, _Nepenthes rafflesiana_ grows not one but two types of pitchers: first lower and then upper ones. While squat low-lying pitchers catch creepy crawlies and small vertebrates, tapered aerial ones seize flying insects and collect bat guano. Curious and beautiful, _Nepenthes rafflesiana_’s pitchers also captured the interest of humans, shaping their interactions with this plant in life and through the medium of art.[^ref2]
-<param ve-image primary url="pink_roses_2004.165.2.jpg" title="Fidelia Bridges, _Pink Roses_, 1875, watercolor on wove paper, 35.56 × 25.4 cm." attribute="National Gallery of Art, Open Access">
-<param ve-image region="-169,-42,849,784" url="https://images.nypl.org/index.php?id=1130402&t=w" title="_Rose_, J. J. Grandville, _Les fleurs animées_, 1847, Paris, Gabriel de Gonet." attribute="George Arents Collection, The New York Public Library, public domain.">
+<param ve-image primary region="183,453,2452,2220" url="pink_roses_2004.165.2.jpg" title="Fidelia Bridges, _Pink Roses_, 1875, watercolor on wove paper, 35.56 × 25.4 cm." attribute="National Gallery of Art, Open Access">
+<param ve-image url="https://images.nypl.org/index.php?id=1130402&t=w" title="_Rose_, J. J. Grandville, _Les fleurs animées_, 1847, Paris, Gabriel de Gonet." attribute="George Arents Collection, The New York Public Library, public domain.">
 {#paragraph1}
 
-<param ve-entity eid="Q139507" title="Nepenthes madagascariensis">
-<param ve-entity eid="Q1019" title="Madagascar">
-<param ve-entity eid="Q290175" title="Étienne de Flacourt">
+<param ve-entity eid="Q684846" title="Château de Malmaison"> 
+<param ve-entity eid="Q171480" title="Joséphine de Beauharnais"> 
+<param ve-entity eid="Q199169" title="floriculture">
 Many rich and complex cultural engagements with nepenthes explored the botanical significance of their pitchers, while expressing an enduring fascination with their form and function. Indeed, the first known published description of a nepenthes was authored by Étienne de Flacourt, a French colonial governor of Madagascar, for his book [_Histoire de la grande isle Madagascar_,](https://bvpb.mcu.es/en/consulta/registro.do?id=406802) from 1658.[^ref3] Astonished by the pitcher of a plant now named _Nepenthes madagascariensis_, Flacourt extolled this “small vase, with its own lid,” that he mistook for a “flower or fruit,” as a truly “wonderful sight.”[^ref4] He could never have imagined that this fantastical botanical form was a leaf, nor dreamed of its function as a pitfall trap.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/53/Rosa_%27Souvenir_de_la_Malmaison%27_1.jpg" title="_Rosa 'Souvenir de la Malmaison'_, 14 August 2014." attribute="Nadiatalent, Wikimedia Commons, CC BY-SA 4.0.">
 {#paragraph2}
 
-<param ve-entity eid="Q7167" title="colonialism">
-<param ve-entity eid="Q98871730" title="world's fairs" aliases="world’s fairs">
+<param ve-entity eid="Q114" title="Kenya"> 
+<param ve-entity eid="Q188485" title="fair trade">
+<param ve-entity eid="Q7181" title="globalisation">
 In the 1600s and 1700s,  European enchantment with nepenthes grew through direct encounters with live plants within their native ranges and the crucible of colonialism. By the 1840s and 1850s, however, these human-plant interactions were no longer mostly confined to the geographies of Southeast Asia and Oceania. Instead, colonial trade networks enabled many European city dwellers to “discover” nepenthes without ever having to travel. Not surprisingly, encountering the plant at world’s fairs and public green spaces and in the pages of illustrated horticultural journals whetted appetites for more. So insatiable were they that nepenthes became an extraordinarily popular domestic plant in the 1870s. A cultural history of _Nepenthes_ and _Nepenthes rafflesiana_ focused on Ghent- and Paris-based horticultural and artistic networks explores the significance of their efforts to recast pitcher plants as exotic curiosities. It also considers how these imperial, commercial, and artistic enterprises transformed cultural perceptions of tropical carnivores and how changing human-plant relations in the nineteenth century impacted current efforts to conserve endangered species.
 <param ve-image layers primary url="Rose_Labor_1_Flickr-gigapixel-standard-scale-2_00x.jpg" title="a farm worker tends to roses growing inside a greenhouse at Kisima Farm in Timau, Meru County, central Kenya, approx. 250km north of the capital Nairobi. July 26, 2015." attribute="Make it Kenya / Stuart Price, Flickr, public domain.">
 <param ve-image url="Rose_Labor_2_Flickr-standard-scale-2_00x-gigapixel.jpg" title="Bouquet of flowers made from roses produced in Kenya and Tansania, February 13, 2008." attribute="Lynne Hand, Flickr, CC BY-NC-ND 2.0.">
@@ -31,40 +35,56 @@ In the 1600s and 1700s,  European enchantment with nepenthes grew through direct
 ### Rosa
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus" aliases="Carolus Linnaeus">
+<param ve-entity eid="Q34687" title="Rosa"> 
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image region="-130,18,654,590" url="https://bibdigital.rjb.csic.es/i/?IIIF=/c3/14/85/74/c3148574-f77f-4350-b4ac-d97379b713fa/iiif/LINN_0328S_000007.tif/19.57788944723618,24.49479940564636,1918.6331658291458,3228.4145616641904/!392,659/0/default.jpg" title="Title page, Carl von Linné, _Hortus Cliffortianus Plantas_, 1738, Amsterdam: [s.n.]." attribution="Real Jardín Botánico, CC">
 {#paragraph4}
 
 ### Morphology and Native Range
 
-<param ve-entity eid="Q1043" title="Carl Linnaeus" aliases="Carolus Linnaeus">
+<param ve-entity eid="Q183252" title="morphology"> 
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image region="-130,18,654,590" url="https://bibdigital.rjb.csic.es/i/?IIIF=/c3/14/85/74/c3148574-f77f-4350-b4ac-d97379b713fa/iiif/LINN_0328S_000007.tif/19.57788944723618,24.49479940564636,1918.6331658291458,3228.4145616641904/!392,659/0/default.jpg" title="Title page, Carl von Linné, _Hortus Cliffortianus Plantas_, 1738, Amsterdam: [s.n.]." attribution="Real Jardín Botánico, CC">
 {#paragraph5}
 
-<param ve-entity eid="Q1043" title="Carl Linnaeus" aliases="Carolus Linnaeus">
+<param ve-entity eid="Q4257161" title="range">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image region="-130,18,654,590" url="https://bibdigital.rjb.csic.es/i/?IIIF=/c3/14/85/74/c3148574-f77f-4350-b4ac-d97379b713fa/iiif/LINN_0328S_000007.tif/19.57788944723618,24.49479940564636,1918.6331658291458,3228.4145616641904/!392,659/0/default.jpg" title="Title page, Carl von Linné, _Hortus Cliffortianus Plantas_, 1738, Amsterdam: [s.n.]." attribution="Real Jardín Botánico, CC">
 {#paragraph6}
 
 ### The Making of a Queen 
 
-<param ve-entity eid="Q1043" title="Carl Linnaeus" aliases="Carolus Linnaeus">
+<param ve-entity eid="Q47365" title="Marie Antoinette">
+<param ve-entity eid="Q213163" title="Élisabeth Louise Vigée Le Brun"> 
+<param ve-entity eid="Q8044" title="Petit Trianon"> 
+<param ve-entity eid="Q50943951" title="Rosa 'Petit Trianon'">
+<param ve-entity eid="Q390001" title="pastoral">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image primary layers region ="0,144,1002,897" url="https://upload.wikimedia.org/wikipedia/commons/0/00/MA-Lebrun.jpg" title="Élisabeth Vigée-Lebrun, _Marie Antoinette_, Salon de Paris 1783, oil on canvas" attribution="Collection of the prince Ludwig von Hessen und bei Rhein, Wolfsgarten Castle, Germany, Wikimedia Commons, public domain">
 <param ve-image region="-14,406,1030,994" url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Marie_Antoinette_Adult.jpg" title="Elisabeth Louise Vigée Le Brun. Marie-Antoinette in Court Dress, 1778. Oil on canvas, 273 x 193,5 cm" attribution="Kunsthistorisches Museum, Vienna, Wikimedia Commons, public domain">
 {#paragraph7}
 
+<param ve-entity eid="Q425548" title="palette">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image region ="301,984,4014,3640" url="https://upload.wikimedia.org/wikipedia/commons/3/35/Self-portrait_in_a_Straw_Hat_by_Elisabeth-Louise_Vig%C3%A9e-Lebrun.jpg" title="Élisabeth Vigée-Lebrun, _Self Portrait in a Straw Hat_, after 1782, oil on canvas" attribution="National Gallery, London, Wikimedia Commons, public domain">
 {#paragraph8}
 
 ### Patroness of Roses and Art
 
+<param ve-entity eid="Q47365" title="Marie Antoinette">
+<param ve-entity eid="Q213163" title="Élisabeth Louise Vigée Le Brun"> 
+<param ve-entity eid="Q8044" title="Petit Trianon"> 
+<param ve-entity eid="Q50943951" title="Rosa 'Petit Trianon'">
+<param ve-entity eid="Q390001" title="pastoral">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image region="222,393,1471,1248" url="Josephine_HermitageMuseum.jpg" title="Gérard, François-Pascal-Simon, _Portrait of Josephine, the Wife of Napoleon_, 1801, oil on canvas, 178 x 174 cm." attribute="The State Hermitage Museum">
 {#paragraph9}
 
+<param ve-entity eid="Q47365" title="Marie Antoinette">
+<param ve-entity eid="Q213163" title="Élisabeth Louise Vigée Le Brun"> 
+<param ve-entity eid="Q8044" title="Petit Trianon"> 
+<param ve-entity eid="Q50943951" title="Rosa 'Petit Trianon'">
+<param ve-entity eid="Q390001" title="pastoral">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Bois de Boulogne_](https://www.doaks.org/resources/rare-books/bois-de-boulogne) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image primary url="Rosa Centifolia_Rosier de Provence (syn.)_NYPL.jpg" title="Pierre Joseph Redouté, _Rosa Centifolia; Rosier de Provence (syn.)_, _Les roses_, 1817-1824, stipple engraving, Paris, De l'imprimerie de Firmin Didot, imprimeur du roi de l'Institut royale de France, et de la Marine." attribute="The Miriam and Ira D. Wallach Division of Art, The New York Public Library, public domain">
 <param ve-image url="Rosier du Bengale (syn.)_New York Public Library.jpg" title="Pierre Joseph Redouté, _Rosier du Bengale (syn.)_, _Les roses_, 1817-1824, stipple engraving, Paris, De l'imprimerie de Firmin Didot, imprimeur du roi de l'Institut royale de France, et de la Marine." attribute="The Miriam and Ira D. Wallach Division of Art, The New York Public Library, public domain">
@@ -73,6 +93,11 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 
 ### On Fertile Ground
 
+<param ve-entity eid="Q47365" title="Marie Antoinette">
+<param ve-entity eid="Q213163" title="Élisabeth Louise Vigée Le Brun"> 
+<param ve-entity eid="Q8044" title="Petit Trianon"> 
+<param ve-entity eid="Q50943951" title="Rosa 'Petit Trianon'">
+<param ve-entity eid="Q390001" title="pastoral">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image primary url="https://upload.wikimedia.org/wikipedia/commons/1/1e/Jacques-Louis_David_-_The_Coronation_of_Napoleon_%281805-1807%29.jpg" title="Jacques-Louis David, _Coronation of Emperor Napoleon I and Coronation of the Empress Josephine in Notre-Dame de Paris, December 2, 1804_, 1805-07, oil on canvas, 621 x 979 cm." attribute="Musée de Louvre, Wikimedia Commons, public domain.">
 {#paragraph11}
@@ -88,8 +113,13 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-map-layer geojson active url="Peru_Nazca_Moche_Chimor.json" title="Pre-Columbian Andean civilizations">
 {#paragraph13}
 
+<param ve-entity eid="Q47365" title="Marie Antoinette">
+<param ve-entity eid="Q213163" title="Élisabeth Louise Vigée Le Brun"> 
+<param ve-entity eid="Q8044" title="Petit Trianon"> 
+<param ve-entity eid="Q50943951" title="Rosa 'Petit Trianon'">
+<param ve-entity eid="Q390001" title="pastoral">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book Les Promenades de Paris inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
-<param ve-image primary url="http://www.slaveryimages.org/iiif-img/473" title="_Slave Quarters, Sugar Plantation, Martinique_, 1826, Alcide Dessalines d'Orbigny, _Voyage pittoresque dans les deux Amèriques..._ Paris, 1836." attribute="Special Collections Department, University of Virginia Library, CC BY-NC 4.0">
+<param ve-image primary url="http://www.slaveryimages.org/iiif/464/manifest" title="_Slave Quarters, Sugar Plantation, Martinique_, 1826, Alcide Dessalines d'Orbigny, _Voyage pittoresque dans les deux Amèriques..._ Paris, 1836." attribute="Special Collections Department, University of Virginia Library, CC BY-NC 4.0">
 <param ve-image url="La Pagerie Museum_Martinique_Flickr.jpg" title="La Pagerie Museum, Martinique, May 12, 2010." attribute="Steve Bennett, Flickr, CC BY-NC 2.0.">
 {#paragraph14}
 
