@@ -72,7 +72,7 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-image region ="301,984,4014,3640" url="https://upload.wikimedia.org/wikipedia/commons/3/35/Self-portrait_in_a_Straw_Hat_by_Elisabeth-Louise_Vig%C3%A9e-Lebrun.jpg" title="Élisabeth Vigée-Lebrun, _Self Portrait in a Straw Hat_, after 1782, oil on canvas" attribution="National Gallery, London, Wikimedia Commons, public domain">
 {#paragraph8}
 
-### Patroness of Roses and Art
+### The Cultivation of an Empress
 <param ve-entity eid="Q15472169" title="patron of the arts" aliases="patroness">
 <param ve-entity eid="Q163543" title=" François Gérard">  
 <param ve-entity eid="Q517" title=" Napoleon">
@@ -140,7 +140,7 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 <param ve-image primary url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Nepenthes_rafflesiana_Dzbanecznik_2010-08-01_03.jpg/1280px-Nepenthes_rafflesiana_Dzbanecznik_2010-08-01_03.jpg" title="_Nepenthes rafflesiana_, plant cultivated in Wrocław University Botanical Garden, Wrocław, Poland, August 2010." attribute="Agnieszka Kwiecień, Nova, Wikimedia Commons, CC BY-SA 4.0">
 {#paragraph17}
 
-### Environmental Impact of Floriculture
+### Environmental Impact of Floriculture in Kenya
 
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-image primary region="-1269,1415,10017,7430" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47" title="Philippe Lambotte, _Nepenthes hookerii_, Louis-Constantin Stroobant, lithography, _Flore Ornamentale des Promenades de Paris_.">
