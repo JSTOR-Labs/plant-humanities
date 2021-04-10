@@ -44,7 +44,7 @@ In the late 1600s and early 1700s, European enchantment with nepenthes grew as m
 <param ve-entity eid="Q556591" title="George Clifford III">
 <param ve-entity eid="Q159766" title="Dutch East India Company"> 
 <param ve-entity eid="Q854" title="Sri Lanka"> 
-<param ve-entity eid="Q4247254" title="Nepenthes distillatoria">
+<param ve-entity eid="Q4247254" title="Nepenthes distillatoria" aliases="Nepenthes distillatoria,">
 <param ve-entity eid="Q9920" title="Haarlem">
 <param ve-entity eid="Q18771183" title="Hartekamp">
 How to describe, in a word, a type of plant with leaves resembling lidded pitchers? That question no doubt occupied the illustrious Swedish botanist Carolus Linnaeus in the 1730s, when he encountered a tropical pitcher plant that then lacked a proper scientific name. This species belonged to the wealthy Anglo-Dutch banker George Clifford III who was also one of the directors of the Dutch East India Company. Clifford leveraged his connections with colonial traders to obtain it from Sri Lanka (then Dutch Ceylon) and amas a renowned plant collection at his estate Hartekamp, outside Haarlem. To document these botanical riches, Clifford hired Linnaeus who worked at Hartekamp from 1736 and 1738. The result of these efforts was Linnaeus’s [_Hortus Cliffortianus_](https://bibdigital.rjb.csic.es/idurl/1/11198) that includes the first scientific description of the genus Nepenthes. The plant on which Linnaeus based his observations, now known as _Nepenthes distillatoria_, may still survive today as a dried specimen in the [Clifford Herbarium.](https://www.nhm.ac.uk/research-curation/scientific-resources/collections/botanical-collections/clifford-herbarium/)
