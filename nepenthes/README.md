@@ -42,7 +42,6 @@ In the late 1600s and early 1700s, European enchantment with nepenthes grew thro
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus" aliases="Carolus Linnaeus">
 <param ve-entity eid="Q556591" title="George Clifford III">
-<param ve-entity eid="Q181916" title="herbarium">
 <param ve-entity eid="Q159766" title="Dutch East India Company"> 
 <param ve-entity eid="Q854" title="Sri Lanka"> 
 <param ve-entity eid="Q4247254" title="Nepenthes distillatoria"> 
@@ -57,10 +56,10 @@ How to describe, in a word, a type of plant with leaves resembling lidded pitche
 <param ve-entity eid="Q171839" title="Menelaus">
 <param ve-entity eid="Q7226266" title="Polydamna">
 <param ve-entity eid="Q731512" title="Nepenthe">
-<param ve-entity eid="Q6691" title="Homer"> 
+<param ve-entity eid="Q6691" title="Homer" aliases="Homer's"> 
 <param ve-entity eid="Q35160" title="Odyssey">
 <param ve-entity eid="Q164061" title="Helen of Troy">
-The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
+Linnaeas derived his name for the tropical pitcher plant from a mythical drug mentioned in Homer’s _Odyssey_. Of the plant’s curious leaves and their equally enigmatic contents, Linnaeus wrote, “If this is not Helen’s Nepenthes, it certainly will be for all botanists. What botanist would not be filled with admiration if, after a long journey, he should find this wonderful plant. In his astonishment past ills would be forgotten when beholding this admirable work of the Creator.” His invocation of Helen of Troy describes a narrative moment from the _Odyssey_ when she offers her husband Menelaus, King of X, a mysterious elixir, Nepenthe, from Polydamna. Nepenthe, from the Greek X (what), induces a state of what after being consumed. A narrative moment described with verve by the artist Simon Vouet in this painting, in which Helen presents a cup.
 <param ve-image primary region="0,1010,3894,3768" url="vouet_helene_offrant_a_menelas_la_potion.jpg" title="Simon Vouet, studio of, _Helen Offering Menelaus the Potion of Polydamna_, ca. 1650, oil on canvas, 100 x 80 cm" attribute="Musée Carnavalet, Histoire de Paris, CC0 1.0">
 <param ve-image region="143,-10,932,874" url="Salle des actes de la faculté de pharmacie de Paris-standard-scale-2_00x-gigapixel.jpg" title="_Helen Offering Menelaus the Potion of Polydamna_, Salle des actes, Faculté de pharmacie, Université Paris Descartes." attribute="Tiraden, Wikimedia Commons, CC BY-SA 4.0">
 {#paragraph5}
