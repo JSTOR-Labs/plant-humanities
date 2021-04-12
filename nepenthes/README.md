@@ -40,15 +40,6 @@ In the late 1600s and early 1700s, European enchantment with nepenthes grew as m
 ### Nepenthes: Generic Name and Mythical Drug
 
 <param ve-entity eid="Q1043" title="Carl Linnaeus" aliases="Carolus Linnaeus">
-<param ve-entity eid="Q556591" title="George Clifford III">
-<param ve-entity eid="Q159766" title="Dutch East India Company"> 
-<param ve-entity eid="Q854" title="Sri Lanka"> 
-<param ve-entity eid="Q4247254" title="Nepenthes distillatoria" aliases="Nepenthes distillatoria,">
-<param ve-entity eid="Q9920" title="Haarlem">
-<param ve-entity eid="Q18771183" title="Hartekamp">
-How to describe, in a word, a type of plant with leaves resembling lidded pitchers? That question no doubt occupied the illustrious Swedish botanist Carolus Linnaeus in the 1730s, when he encountered a tropical pitcher plant that then lacked a proper scientific name. This species belonged to the wealthy Anglo-Dutch banker George Clifford III who was also one of the directors of the Dutch East India Company. Clifford leveraged his connections with colonial traders to obtain it from Sri Lanka (then Dutch Ceylon) and amas a renowned plant collection at his estate Hartekamp, outside Haarlem. To document these botanical riches, Clifford hired Linnaeus who worked at Hartekamp from 1736 and 1738. The result of these efforts was Linnaeus’s [_Hortus Cliffortianus_](https://bibdigital.rjb.csic.es/idurl/1/11198) that includes the first scientific description of the genus Nepenthes. The plant on which Linnaeus based his observations, now known as _Nepenthes distillatoria_, may still survive today as a dried specimen in the [Clifford Herbarium.](https://www.nhm.ac.uk/research-curation/scientific-resources/collections/botanical-collections/clifford-herbarium/)
-{#paragraph4}
-
 <param ve-entity eid="Q171839" title="Menelaus">
 <param ve-entity eid="Q731512" title="Nepenthe">
 <param ve-entity eid="Q6691" title="Homer" aliases="Homer's"> 
@@ -56,7 +47,18 @@ How to describe, in a word, a type of plant with leaves resembling lidded pitche
 <param ve-entity eid="Q164061" title="Helen of Troy">
 <param ve-entity eid="Q339979" title="phytotelma"> 
 <param ve-entity eid="Q317920" title="Simon Vouet">
-Linnaeas took inspiration for the name _Nepenthes_ from the plant and the mythical drug _nepenthe_ (νηπενθές) described in Homer’s _Odyssey_. On the relationship between the two, Linnaeus wrote, “If this is not Helen’s Nepenthes, it certainly will be for all botanists. What botanist would not be filled with admiration if, after a long journey, he should find this wonderful plant. In his astonishment past ills would be forgotten when beholding this admirable work of the Creator.” Drawing on his first botanical encounter with nepenthes, Linnaeus here compares it to the experience of being in thrall to a powerful drug: nepenthe. In the _Odyssey_, nepenthe mixed with wine is offered by Helen of Troy to her husband Menelaus, after his return from war, to induce in him a pleasant state of forgetfulness. By invoking the travel-worn Menelaus, Linnaeus perhaps comments on his own tired state upon reaching Hartekamp, where he too found unexpected pleasure in a cup (leaf) with contents (phytotelma) unknown to him. Such scientific and cultural intoxication with nepenthes would grow in the eighteenth and nineteenth centuries, as selected knowledge about the plant increased.
+How to describe, in a word, a type of plant with leaves resembling lidded pitchers? Linnaeas took inspiration for the name _Nepenthes_ from the plant and the mythical drug _nepenthe_ (νηπενθές) described in Homer’s _Odyssey_. On the relationship between the two, Linnaeus wrote, “If this is not Helen’s Nepenthes, it certainly will be for all botanists. What botanist would not be filled with admiration if, after a long journey, he should find this wonderful plant. In his astonishment past ills would be forgotten when beholding this admirable work of the Creator.” Drawing on his first botanical encounter with nepenthes, Linnaeus here compares it to the experience of being in thrall to a powerful drug: nepenthe. In the _Odyssey_, nepenthe mixed with wine is offered by Helen of Troy to her husband Menelaus, after his return from war, to induce in him a pleasant state of forgetfulness. By invoking the travel-worn Menelaus, Linnaeus perhaps comments on his own tired state upon reaching Hartekamp, where he too found unexpected pleasure in a cup (leaf) with contents (phytotelma) unknown to him. Such scientific and cultural intoxication with nepenthes would grow in the eighteenth and nineteenth centuries, as selected knowledge about the plant increased.
+<param ve-image primary region="1040,1438,2024,1748" url="vouet_helene_offrant_a_menelas_la_potion.jpg" title="Simon Vouet, studio of, _Helen Offering Menelaus the Potion of Polydamna_, ca. 1650, oil on canvas, 100 x 80 cm" attribute="Musée Carnavalet, Histoire de Paris, CC0 1.0">
+{#paragraph4}
+
+<param ve-entity eid="Q556591" title="George Clifford III">
+<param ve-entity eid="Q159766" title="Dutch East India Company"> 
+<param ve-entity eid="Q854" title="Sri Lanka"> 
+<param ve-entity eid="Q4247254" title="Nepenthes distillatoria" aliases="Nepenthes distillatoria,">
+<param ve-entity eid="Q9920" title="Haarlem">
+<param ve-entity eid="Q18771183" title="Hartekamp">
+That question no doubt occupied the illustrious Swedish botanist Carolus Linnaeus in the 1730s, when he encountered a tropical pitcher plant that then lacked a proper scientific name. This species belonged to the wealthy Anglo-Dutch banker George Clifford III who was also one of the directors of the Dutch East India Company. Clifford leveraged his connections with colonial traders to obtain it from Sri Lanka (then Dutch Ceylon) and amas a renowned plant collection at his estate Hartekamp, outside Haarlem. To document these botanical riches, Clifford hired Linnaeus who worked at Hartekamp from 1736 and 1738. The result of these efforts was Linnaeus’s [_Hortus Cliffortianus_](https://bibdigital.rjb.csic.es/idurl/1/11198) that includes the first scientific description of the genus Nepenthes. The plant on which Linnaeus based his observations, now known as _Nepenthes distillatoria_, may still survive today as a dried specimen in the [Clifford Herbarium.](https://www.nhm.ac.uk/research-curation/scientific-resources/collections/botanical-collections/clifford-herbarium/)
+<param ve-image primary url="LINN_0328S_000433-standard-scale-2_00x-gigapixel.jpg" title="Page 431, Carl von Linné, _Hortus Cliffortianus Plantas_, 1738, Amsterdam: [s.n.]." attribution="Real Jardín Botánico, CC">
 {#paragraph5}
 
 ### Colonial Bioprospecting and Transoceanic Migration
