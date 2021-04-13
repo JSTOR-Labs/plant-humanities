@@ -61,7 +61,7 @@ That question no doubt occupied the illustrious Swedish botanist Carolus Linnaeu
 <param ve-image primary region="-46,453,3728,3573" url="LINN_0328S_000433-standard-scale-2_00x-gigapixel.jpg" title="Page 431, Carl von Linné, _Hortus Cliffortianus Plantas_, 1738, Amsterdam: [s.n.]." attribution="Real Jardín Botánico, CC">
 <param ve-image region="-200,37,1002,960" url="https://www.doaks.org/resources/rare-books/hortus-cliffortianus-plantas-exhibens-quas-in-hortis-tam-vivis-quam-siccis-hartecampi-in-hollandia/001223282-linne-un-0002-1.jpg/@@images/image/zoom" title="Title page, Carl von Linné, _Hortus Cliffortianus_, 1738, Amsterdam." attribution="Dumbarton Oaks Research Library and Collection, CC">
 <param ve-image region="-200,37,1002,960" url="https://www.doaks.org/resources/rare-books/hortus-cliffortianus-plantas-exhibens-quas-in-hortis-tam-vivis-quam-siccis-hartecampi-in-hollandia/001223282-linne-un-0001-1.jpg/@@images/image/zoom" title="Frontispiece, Jan Wandelaar, Georg Dionysius Ehret, engraving, Carl von Linné, _Hortus Cliffortianus_, 1737 [i.e. 1738], Amsterdam." attribution="Dumbarton Oaks Research Library and Collection, CC">
-<param ve-image region="0,551,1067,1049" url="https://raw.githubusercontent.com/NaturalHistoryMuseum/CliffordHerbarium-imgs/master/BM000647326.JPG" title="_Nepenthes distillatoria_ specimen, George Clifford Herbarium" attribute="© The Trustees of the Natural History Museum, London, CC">
+<param ve-image region="0,551,1067,1049" url="George Clifford_Nepenthes distillatoria L_BM000647326.png" title="_Nepenthes distillatoria_ specimen, George Clifford Herbarium" attribute="© The Trustees of the Natural History Museum, London, CC-BY 4.0">
 {#paragraph5}
 
 ### Colonial Bioprospecting and Transoceanic Migration
