@@ -62,14 +62,13 @@ By invoking the travel-worn Menelaus in his description of Nepenthes, Linnaeus p
 {#paragraph5}
 
 ### Colonial Encounters and Introduction to Europe
+<param ve-map-layer geojson active url="Madagascar_nepenthes.json" title="Madagascar">
 
 <param ve-entity eid="Q77266" title="Jacob Breyne">
 <param ve-entity eid="Q150525" title="Nepenthes mirabilis">
 <param ve-entity eid="Q729917" title="João de Loureiro">
 Between the late 1650s and the 1700s, only three species of nepenthes were recorded by Europeans who traveled under the aegis of colonial trading companies and rulers. This constellation of colonial encounters with plants included those of the French colonial governor Étienne de Flacourt with _Nepenthes madagascariensis_ in <span data-click-map-flyto="-19.851956606106267, 47.10416219453961">Madagascar,</span> the Dutch merchant and botanist Jacob Breyn with _Nepenthes distillatoria_ in <span data-click-map-flyto="7.285398878746777, 80.64775966499727">Sri Lanka,</span> and the Portuguese Jesuit missionary and botanist João de Loureiro with _Nepenthes mirabilis_ in <span data-click-map-flyto="16.250907711663363, 102.3281993917686">Vietnam.</span> The small number of species known to Europeans during this period is somewhat surprising given there are now more than 160 accepted species, though not when one considers that some are endemic to a limited area. This slow trickle of knowledge about nepenthes can also be attributed to the great distance between Europe and their native range as well as the tremendous amount of work required to study live plants in their local habitats, document findings in images and text, and transport manuscripts overseas to be published.
 <param ve-map title="Map showing the locations of first recorded European encounters with nepenthese species." basemap="Esri_WorldPhysical" center="47.42670847556744, 5.923598050124657" zoom="5" marker-type="none" stroke ="none">
-<param ve-map-layer geojson active url="Singapore_nepenthes.json" title="Singapore">
-<param ve-map-layer geojson active url="Madagascar_nepenthes.json" title="Madagascar">
 <param ve-map-layer geojson active url="Vietnam_nepenthes.json" title="Vietnam">
 <param ve-map-layer geojson active url="SriLanka_nepenthes.json" title="Sri Lanka">
 {#paragraph6}
@@ -80,10 +79,8 @@ Between the late 1650s and the 1700s, only three species of nepenthes were recor
 <param ve-entity title="Stamford Raffles" eid="Q130327">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. <span data-click-map-flyto="1.356899819085481, 103.85625446407639">Singapore</span> The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
 <param ve-map basemap="Esri_WorldPhysical" title="Map showing the locations of where Georg Eberhard Rumphius and Dr. William Jack botanized." center="-3.845680915530356, 128.1808206389571" zoom="7.5" marker-type="none" stroke="none">
-<param ve-map-layer geojson active url="Madagascar_nepenthes.json" title="Madagascar">
 <param ve-map-layer geojson active url="SriLanka_nepenthes.json" title="Sri Lanka">
 <param ve-map-layer geojson active url="Vietnam_nepenthes.json" title="Vietnam">
-<param ve-map-layer geojson active url="Singapore_nepenthes.json" title="Singapore">
 {#paragraph7}
 
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
