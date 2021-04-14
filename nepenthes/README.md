@@ -182,7 +182,7 @@ The pelargonium was also a tremendously fashionable flower in mid-nineteenth-cen
 
 [^ref11]: Odyssey
 
-[^ref112]: translation in Veitch
+[^ref12]: translation in Veitch
 
 [^ref13]: Homer's Odyssey narrative and painting
 
