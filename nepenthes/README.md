@@ -33,7 +33,7 @@ Yet, for more than 200 years after the first documented European encounter with 
 
 <param ve-entity eid="Q7167" title="colonialism">
 <param ve-entity eid="Q98871730" title="world's fairs" aliases="world’s fairs">
-The 1840s, however, saw a tremendous increase in plant mobility and, in turn, European access to nepenthes. Expanding colonial trade networks and faster modes of land and maritime travel coupled with the invention of the Wardian case—a sealed box for shipping live plants—and other technologies brought nepenthes into cultivation in Europe for the first time.[^ref6] A cultural history of nepenthes focused on this transformative moment in human-plant relations illuminates how nineteenth-century artists active in Ghent and Paris contributed to a sudden explosion of interest in pitcher plants and their display in modern urban spaces. Artists of the 1850s and 1860s, for example, cultivated a visual language for advertising nepenthes to wealthy collectors and, at the same time, celebrated its municipal use as an exotic ornamental in public green spaces.[^ref7] Interpolating these horticultural conventions, which primarily emphasized nepenthes’ shape, color, and markings, artists of the mid-1870s developed a botanical aesthetic of wonder in their illustrations that accompanied news of groundbreaking discoveries about plant carnivory.[^ref8] By exploring the participation of these images in shaping cultural attitudes toward plants in late-nineteenth-century Europe, this visual narrative also connects such attitudes to the contemporary problem known as “plant blindness” and current efforts to conserve endangered species.[^ref9]
+The 1840s, however, saw a tremendous increase in plant mobility and, in turn, European access to nepenthes. Expanding colonial trade networks and faster modes of land and maritime travel coupled with the invention of the Wardian case—a sealed box for shipping live plants—and other technologies brought nepenthes into cultivation in Europe for the first time.[^ref6] A cultural history of nepenthes focused on this transformative moment in human-plant relations illuminates how nineteenth-century artists active in Ghent and Paris contributed to a sudden explosion of interest in pitcher plants and their display in modern urban spaces. Artists of the 1850s and 1860s, for example, cultivated a visual language for advertising nepenthes to wealthy collectors and celebrated its municipal use in public green spaces.[^ref7] Interpolating these horticultural conventions, artists of the mid-1870s developed a botanical aesthetic of wonder for illustrations accompanying news of groundbreaking discoveries about plant carnivory.[^ref8] By exploring the participation of these images in shaping cultural attitudes toward plants in late-nineteenth-century Europe, this visual narrative also connects such attitudes to the contemporary problem known as “plant blindness” and current efforts to conserve endangered species.[^ref9]
 <param ve-image primary region="486,214,2258,1917" url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n103_w4272" title="_Plantes et Fleurs Exotiques_, _L’Illustration horticole_, vol. 26, 1879" attribute="Missouri Botanical Garden, Peter H. Raven Library, Biodiversity Heritage Library, CC">
 {#paragraph3}
 
@@ -51,8 +51,7 @@ How to describe, in a word, a type of plant with mesmerizing leaves resembling l
 {#paragraph4}
 
 <param ve-entity eid="Q556591" title="George Clifford III">
-<param ve-entity eid="Q159766" title="Dutch East India Company"> 
-<param ve-entity eid="Q854" title="Sri Lanka"> 
+<param ve-entity eid="Q159766" title="Dutch East India Company">
 <param ve-entity eid="Q4247254" title="Nepenthes distillatoria" aliases="Nepenthes distillatoria,">
 <param ve-entity eid="Q9920" title="Haarlem">
 <param ve-entity eid="Q18771183" title="Hartekamp">
@@ -65,14 +64,11 @@ By invoking the travel-worn Menelaus in his description of Nepenthes, Linnaeus p
 
 ### Colonial Encounters and Introduction to Europe
 
-<param ve-entity eid="Q139507" title="Nepenthes madagascariensis">
-<param ve-entity eid="Q290175" title="Étienne de Flacourt">
-<param ve-entity eid="Q4247254" title="Nepenthes distillatoria">
 <param ve-entity eid="Q77266" title="Jacob Breyne">
 <param ve-entity eid="Q150525" title="Nepenthes mirabilis">
 <param ve-entity eid="Q729917" title="João de Loureiro">
 Between the late 1650s and the 1700s, only three species of nepenthes were recorded by Europeans who traveled under the aegis of colonial trading companies and rulers. This constellation of colonial encounters with plants included those of the French colonial governor Étienne de Flacourt with _Nepenthes madagascariensis_ in Madagascar, the Dutch merchant and botanist Jacob Breyn with _Nepenthes distillatoria_ in Sri Lanka, and the Portuguese Jesuit missionary and botanist João de Loureiro with _Nepenthes mirabilis_ in Vietnam. The small number of species known to Europeans during this period is somewhat surprising given there are now more than 160 accepted species. This slow trickle of knowledge can be attributed to the great distance between Europe and nepenthes’ native range as well as the tremendous amount of work required to study live plants in their local habitats, document findings in images and text, and transport manuscripts overseas to be published.
-<param ve-map prefer-geojson title="Map showing locations of first recorded nepenthese species by Europeans." basemap="Esri_WorldPhysical" center="48.369494, 6.494887" zoom="3" marker-type="none" stroke ="none">
+<param ve-map prefer-geojson title="Map showing locations of first recorded nepenthese species by Europeans." basemap="Esri_WorldPhysical" center="46.918863280769024, 10.889418447695384" zoom="5" marker-type="none" stroke ="none">
 <param ve-map-layer geojson active url="cassava_leaves.json" title="Cassava leaves">
 {#paragraph6}
 
