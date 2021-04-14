@@ -67,6 +67,10 @@ By invoking the travel-worn Menelaus in his description of Nepenthes, Linnaeus p
 <param ve-entity eid="Q150525" title="Nepenthes mirabilis">
 <param ve-entity eid="Q729917" title="João de Loureiro">
 Between the late 1650s and the 1700s, only three species of nepenthes were recorded by Europeans who traveled under the aegis of colonial trading companies and rulers. This constellation of colonial encounters with plants included those of the French colonial governor Étienne de Flacourt with _Nepenthes madagascariensis_ in <span data-click-map-flyto="-19.851956606106267, 47.10416219453961">Madagascar,</span> the Dutch merchant and botanist Jacob Breyn with _Nepenthes distillatoria_ in <span data-click-map-flyto="7.285398878746777, 80.64775966499727">Sri Lanka,</span> and the Portuguese Jesuit missionary and botanist João de Loureiro with _Nepenthes mirabilis_ in <span data-click-map-flyto="16.250907711663363, 102.3281993917686">Vietnam.</span> The small number of species known to Europeans during this period is somewhat surprising given there are now more than 160 accepted species, though not when one considers that some are endemic to a limited area. This slow trickle of knowledge about nepenthes can also be attributed to the great distance between Europe and their native range as well as the tremendous amount of work required to study live plants in their local habitats, document findings in images and text, and transport manuscripts overseas to be published.
+<param ve-map title="Map showing the locations of first recorded European encounters with nepenthese species." basemap="Esri_WorldPhysical" center="47.42670847556744, 5.923598050124657" zoom="5" marker-type="none" stroke ="none">
+<param ve-map-layer geojson active url="Madagascar_nepenthes.json" title="Madagascar">
+<param ve-map-layer geojson active url="Vietnam_nepenthes.json" title="Vietnam">
+<param ve-map-layer geojson active url="SriLanka_nepenthes.json" title="Sri Lanka">
 {#paragraph6}
 
 <param ve-entity title="Georg Eberhard Rumphius" eid="Q61439">
