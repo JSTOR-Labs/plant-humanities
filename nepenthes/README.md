@@ -65,8 +65,14 @@ By invoking the travel-worn Menelaus in his description of Nepenthes, Linnaeus p
 
 ### Colonial Encounters and Introduction to Europe
 
-The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
-<param ve-map prefer-geojson title="Meso- and South-America" basemap="Esri_WorldPhysical" center="-16.50698840086817, -68.1038842231085" zoom="3" marker-type="none" stroke ="none">
+<param ve-entity eid="Q139507" title="Nepenthes madagascariensis">
+<param ve-entity eid="Q290175" title="Étienne de Flacourt">
+<param ve-entity eid="Q4247254" title="Nepenthes distillatoria">
+<param ve-entity eid="Q77266" title="Jacob Breyne">
+<param ve-entity eid="Q150525" title="Nepenthes mirabilis">
+<param ve-entity eid="Q729917" title="João de Loureiro">
+Between the late 1650s and the 1700s, only three species of nepenthes were recorded by Europeans who traveled under the aegis of colonial trading companies and rulers. This constellation of colonial encounters with plants included those of the French colonial governor Étienne de Flacourt with _Nepenthes madagascariensis_ in Madagascar, the Dutch merchant and botanist Jacob Breyn with _Nepenthes distillatoria_ in Sri Lanka, and the Portuguese Jesuit missionary and botanist João de Loureiro with _Nepenthes mirabilis_ in Vietnam. The small number of species known to Europeans during this period is somewhat surprising given there are now more than 160 accepted species. This slow trickle of knowledge can be attributed to the great distance between Europe and nepenthes’ native range as well as the tremendous amount of work required to study live plants in their local habitats, document findings in images and text, and transport manuscripts overseas to be published.
+<param ve-map prefer-geojson title="Map showing locations of first recorded nepenthese species by Europeans." basemap="Esri_WorldPhysical" center="48.369494, 6.494887" zoom="3" marker-type="none" stroke ="none">
 <param ve-map-layer geojson active url="cassava_leaves.json" title="Cassava leaves">
 {#paragraph6}
 
