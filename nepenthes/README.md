@@ -72,6 +72,7 @@ Between the late 1650s and the 1700s, only three species of nepenthes were recor
 <param ve-map-layer geojson active url="Vietnam_nepenthes.json" title="Vietnam">
 <param ve-map-layer geojson active url="SriLanka_nepenthes.json" title="Sri Lanka">
 <param ve-map-layer geojson active url="Singapore_nepenthes.json" title="Singapore">
+<param ve-map-layer geojson active url="Ambon_nepenthes.json" title="Abon">
 {#paragraph6}
 
 <param ve-entity title="Georg Eberhard Rumphius" eid="Q61439">
@@ -79,11 +80,12 @@ Between the late 1650s and the 1700s, only three species of nepenthes were recor
 <param ve-entity title="William Jack" eid="Q15482">
 <param ve-entity title="Stamford Raffles" eid="Q130327">
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. <span data-click-map-flyto="1.356899819085481, 103.85625446407639">Singapore</span> The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
-<param ve-map basemap="Esri_WorldPhysical" title="Map showing the locations of where Georg Eberhard Rumphius and Dr. William Jack botanized." center="-3.845680915530356, 128.1808206389571" zoom="7.5" marker-type="none" stroke="none">
+<param ve-map basemap="Esri_WorldPhysical" title="Map showing the locations of where Georg Eberhard Rumphius and Dr. William Jack botanized." center="-3.845680915530356, 128.1808206389571" zoom="8" marker-type="none" stroke="none">
 <param ve-map-layer geojson active url="SriLanka_nepenthes.json" title="Sri Lanka">
 <param ve-map-layer geojson active url="Vietnam_nepenthes.json" title="Vietnam">
 <param ve-map-layer geojson active url="Madagascar_nepenthes.json" title="Madagascar">
 <param ve-map-layer geojson active url="Singapore_nepenthes.json" title="Singapore">
+<param ve-map-layer geojson active url="Ambon_nepenthes.json" title="Abon">
 {#paragraph7}
 
 The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades. Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870. Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too. The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
