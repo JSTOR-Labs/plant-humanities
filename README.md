@@ -2,6 +2,8 @@
 
 # Featured Plant Narratives
 
+# {.cards}
+
 ## 
 [**Cacao: Indigenous Network to Global Commodity**](/cacao)
 
@@ -39,6 +41,8 @@
 
 
 # All Plant Narratives
+
+# {.cards}
 
 ##
 [**Agave: A Plant with an Intoxicating History**](/Agave)
