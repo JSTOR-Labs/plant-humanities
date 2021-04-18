@@ -72,6 +72,8 @@ Information about nepenthes—both images and text—slowly traveled from the tr
 <param ve-map-layer geojson active url="Madagascar_nepenthes.json" title="Madagascar">
 <param ve-map-layer geojson active url="Vietnam_nepenthes.json" title="Vietnam">
 <param ve-map-layer geojson active url="SriLanka_nepenthes.json" title="Sri Lanka">
+<param ve-map-layer geojson active url="Ambon_nepenthes.json" title="Abon">
+<param ve-map-layer geojson active url="Netherlands_nepenthes.json" title="Netherlands">
 {#paragraph6}
 
 <param ve-entity eid="Q61439" title="Georg Eberhard Rumphius">
