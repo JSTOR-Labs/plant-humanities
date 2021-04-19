@@ -1,6 +1,16 @@
+<param ve-config
+	   title="Monotropa uniflora: Finding Emily's Flowers"
+	   source-image="https://www.talkplant.com/wp-content/uploads/2017/05/mushroom-1853282_1920.jpg"
+	   eid=""
+	   about=""
+	   layout="vtl"
+	   author="John Hessler">
+
 The American poet, Emily Dickinson (1830-1886), called the ghost plant, Monotropa uniflora, "the preferred flower of life." In a letter to Mabel Loomis Todd, she wrote of her memories and fascination with its ephemeral and otherworldly beauty, "I still cherish the clutch with which I bore it from the ground when a wondering child, an unearthly booty, and maturity only enhances the mystery, never decreases it."
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0a/Indian_pipe_PDB.JPG">
 
 Emily Dickinson seems to have had a long relationship with the plant that she found in the woods around Boston and Amherst. She wrote a poem, which she never published, to the "Indian Pipe," one of the common names of the plant: 'Tis whiter than an Indian Pipe-Tis dimmer than a Lace-No statue has it, like a fog. When you approach the place-Not any voice imply it here-Or intimate it there-A Spirit-how doth it accost-What function hath the Air? This limitless Hyperbole-Each one of us shall be-"Tis drama-if Hypothesis-It be not Tragedy."
+<param ve-image manifest="https://iiif.lib.harvard.edu/manifests/view/drs:4184689$35i">
 
 Monotropa uniflora, or Emily's Monotropa, is a perennial flower that is found in the forests of the eastern United States and into the west. It is not commonly encountered and is one of a group of plants now known for their parasitic reliance on fungi and trees. Dickinson herself preserved a specimen in her surviving herbarium , which she created when she began pursuing botany in a systematic way in her teens, and her collection contains more than 400 flowers from the time when she was a student at Amherst Academy, between 1839 and 1846.
 
