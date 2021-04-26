@@ -111,11 +111,11 @@ How did boxwood come to represent the lasting legacy of the European garden trad
 	fill-opacity="1">
 <param ve-map-layer
 	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Buxus_sempervirens_plg.json"
+	data-url="/geojson/Buxus_sempervirens_plg.json"
 	data-active="true">
 <param ve-map-layer
 	data-type="geojson"
-	data-url="https://jstor-labs.github.io/plant-humanities/geojson/Buxus_sempervirens_pnt.json"
+	data-url="/geojson/Buxus_sempervirens_pnt.json"
 	data-active="true">
 {#paragraph4}
 

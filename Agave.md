@@ -1,7 +1,7 @@
 <param ve-config
 	   title="Agave: A Plant with an Intoxicating History"
 	   source-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gc29_agave_americana.jpg/1920px-Gc29_agave_americana.jpg"
-	   banner="https://jstor-labs.github.io/plant-humanities/images/banners/agave.jpg"
+	   banner="/images/banners/agave.jpg"
 	   eid="Q104699604"
 	   about="Q155874"
 	   layout="vtl"
@@ -33,7 +33,7 @@
 
 The Hortus’s *Agave americana* certainly earned its nickname, taking almost a century to bloom. In its natural climate, however, an *Agave americana* typically blooms every 10 to 25 years and can grow upwards of 20 feet.[^ref2] *Agave* is a genus of monocots, with some 200 species indigenous to Central America, the southwestern United States, and in some tropical areas of South America. Distinguished by their strong, fleshy leaves, agaves grow slowly and require little water to survive, making them a vital resource in semiarid climates. Although best known today as the plant from which tequila is made, agave plants played a central role in ancient Amerindian religion and culture for centuries, encouraged a botanical revolution in Europe, helped form Mexican identity in the nineteenth and twentieth centuries, and offer solutions to present-day environmental challenges.
 <param ve-map title="Agave americana distribution" center="25.503945, -102.834000" basemap="Esri_WorldPhysical" zoom="4.5" stroke-width="0">
-<param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/agave_distribution.json">
+<param ve-map-layer geojson active url="/geojson/agave_distribution.json">
 
 ### A Miracle Plant
 For centuries, agave species provided spiritual and physical sustenance to the inhabitants of the semiarid lands of North and Central America. Given its numerous cultural uses, it is not surprising that the Nahuatl term for agaves, “metl,” implied that they were a miracle plant.[^ref3] In his chronicle of the indigenous peoples of New Spain, the Franciscan missionary, Toribio de Benavente Motolinía, described the many uses of agave, or “maguey” as it was locally known. He observed that the fibers from the leaves were used for sewing as well as for making cords, robes, cables, clothing, and footwear. The plant’s sharp spines were used as punches, nails, and tacks. When dried, the leaves were used for general building materials, fires, and paper. Agaves are also edible. Motolinía remarked that both the fibrous leaves and sap of the plant were palatable and nutritious. He also noted that honey, vinegar, sugar, and medicinal balsams were made from the abundant sap. Finally, and perhaps most significantly, the fermented sap of the agave, called pulque, was a beverage that, according to Motolinía, was “wholesome and very nutritious” when consumed in moderation.[^ref4]

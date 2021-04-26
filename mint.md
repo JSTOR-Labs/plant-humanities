@@ -25,7 +25,7 @@ Known as the genus *Mentha*, mint is part of the *Lamiaceae* family (formerly La
 <param eid="Q47859">
 <param eid="Q53476">
 <param ve-map title="Distribution of Mentha" basemap="Esri_WorldPhysical" center="36.34,11.19" zoom="2" stroke-width="0" show-labels>
-<param ve-map-layer geojson active title="Global" url="https://jstor-labs.github.io/plant-humanities/geojson/globalmintdis.geojson">
+<param ve-map-layer geojson active title="Global" url="/geojson/globalmintdis.geojson">
 
 ### Religion and Mythology
 
@@ -54,7 +54,7 @@ Today, the common scent and flavor we associate with mint is synonymous with cul
 <param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/317b316476d4c1ce997dcc258697113c965b6cfdb9224da8aa27a3292db8f6b4">
 <param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/660445adba7423efc963c522d3926c6137b29f86d25d564b4ed85e1198890167" region="516,360,1201,1470">
 <param ve-map title="World" basemap="Esri_WorldPhysical" center="51.520201,-0.125315" zoom="4">
-<param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/BritainYellow.geojson">
+<param ve-map-layer geojson active url="/geojson/BritainYellow.geojson">
 
 In the seventeenth and eighteenth centuries, *Mentha* engaged the attention of numerous well-known British botanists including <span eid="Q316949">John Ray</span> (1627–1705), <span eid="Q3774295">Adam Buddle</span> (1662–1715), [Samuel Dale (1659-1739)](https://plants.jstor.org/stable/10.5555/al.ap.person.bm000150941) (1659–1739), and Jacob Bobart (1641-1719). They could be found collecting a variety of mint species across Britain and exchanged their findings via written correspondence. They were intrigued by the properties and characteristics of the specimens, as well as “conjectures about the synonyms of authors.”[^ref5] Indeed, in Transactions of the [Linnaean Society](www.linnean.org), the botanist and naturalist James Edward Smith (1759–1828) stated that “no British genus of plants, except perhaps *Conserva*, has been hitherto less understood than that of *Mentha*; either with respect to its species, and the principles upon which their distinctions ought to be founded, or the synonyms of those species in the most recent, as well as the more ancient writers.”[^ref6]
 <param eid="Q161885" fill="#5C6609" marker-symbol="user-friends">
@@ -78,12 +78,12 @@ Despite not being native to North America, peppermint and peppermint oil in part
 Essence of peppermint was regularly imported to America from London and according to research undertaken by Dan Allosso in 2017, advertisements for peppermint products in American newspapers appeared in the thousands between 1750 and 1800. In fact, his research at the American Antiquarian Society has identified almost 3,000 advertisements that appeared in over 70 newspapers printed in each of the original 13 colonies. Physicians and apothecaries “used and sold peppermint-based products in every major city in every colony.”[^ref11]
 <param ve-map title="World" basemap="Esri_WorldPhysical" center="37.874967,-41.896891" zoom="3.5">
 <param title="colonies" eid="Q179997" fill="#5C6609" marker-symbol="leaf">
-<param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/mintBrUSline.geojson">
-<param ve-map-layer geojson active title="Original 13 colonies" url="https://jstor-labs.github.io/plant-humanities/geojson/13colonies.geojson">
+<param ve-map-layer geojson active url="/geojson/mintBrUSline.geojson">
+<param ve-map-layer geojson active title="Original 13 colonies" url="/geojson/13colonies.geojson">
 
 American colonists were quick to recognize the commercial opportunity presented by locally producing peppermint oil rather than importing it from England, no doubt due in part to the ease of growing mint in a variety of environments. Unlike other varieties of mint, the peppermint plant would have been propagated in early America using root cuttings probably from a small number of original plants in England. Commercial peppermint production gradually shifted from England to America starting in the 1750s; records of peppermint fields in America show that the first were found near the town Ashfield, in Franklin County, Massachusetts. In these early days, essence <span eid="Q638172">peddlers</span> ensured that peppermint was part of a widespread production and distribution network, including in northern New York and New Jersey.[^ref12]
 <param ve-map title="New England" basemap="Esri_WorldPhysical" center="42.566426,-71.751354" zoom="6">
-<param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/13colonies.geojson">
+<param ve-map-layer geojson active url="/geojson/13colonies.geojson">
 <param title="Ashfield" eid="Q2536103" fill="#2d862d" marker-symbol="leaf">
 <param eid="Q1384" fill="#2d862d" marker-symbol="leaf">
 <param title="New Jersey" eid="Q1408" fill="#2d862d" marker-symbol="leaf">
@@ -98,12 +98,12 @@ Over time, American mint oil production would spread westwards from the east coa
 <param title="Michigan" eid="Q1166" fill="#2d862d" marker-symbol="leaf">
 <param title="Willamette" eid="Q1703681" fill="#2d862d" marker-symbol="leaf">
 <param title="Puget Island" eid="Q3593402" fill="#2d862d" marker-symbol="leaf">
-<param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/mintNamerica.geojson">
-<param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/lineofmint.geojson">
+<param ve-map-layer geojson active url="/geojson/mintNamerica.geojson">
+<param ve-map-layer geojson active url="/geojson/lineofmint.geojson">
 
 The mint industry in Washington and Oregon would go on to develop in line with sophisticated mechanical planting techniques and harvesting equipment. More recently, Washington farmers have faced increasing competition from China and India, who appear able to supply the shifting consumer taste for a stronger mint flavor that cannot be easily produced by the peppermint species.
 <param ve-map id="China-map" basemap="Esri_WorldPhysical" center="30.486795,88.475136" zoom="4">
-<param ve-map-layer url="https://jstor-labs.github.io/plant-humanities/geojson/chinaIndia.geojson">
+<param ve-map-layer url="/geojson/chinaIndia.geojson">
 
 ### Conclusions
 
@@ -112,7 +112,7 @@ The mint market in British American colonies and the early United States shows t
 
 Today, mint varieties are cultivated in many different parts of the world. Its range extends across the world, wherever there are appropriate habitats for it to flourish. Mints thrive when near water, which means that lakes, rivers, and even spaces in shade enable this fast-growing plant to be grown all year round. For example, wild mint (*Mentha arvensis*) is cultivated on a huge scale in Brazil, China, Paraguay, Japan, Thailand, Angola, and India.[^ref16] In this way, peppermint production in America, spreading across the breadth of the country over time, is a microcosm of the pattern of mint distribution across the world.
 <param ve-map title="Range of mint across the world" basemap="Esri_WorldPhysical" center="36.34,11.19" zoom="2" stroke-width="0" show-labels>
-<param ve-map-layer geojson active title="Global" url="https://jstor-labs.github.io/plant-humanities/geojson/globalmintdis.geojson">
+<param ve-map-layer geojson active title="Global" url="/geojson/globalmintdis.geojson">
 
 Mint is ubiquitous perhaps because it has remained relevant across time and space. The plant reveals something of the early difficulties of botanical exchange and naming; speaks to the local and global movement of plants; exposes changes and developments in medical thought and practices over time (the changing popularity of herbal remedies for example); and continues to play a role in global consumer markets and advertising. Mint, in other words, will always be relevant for historical, cultural, and geographical studies. And as Hades called forth the plant to ensure that Minthe would never be forgotten, we too are constantly reminded of this plant as we go about our daily lives.
 <param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/1e89411c897e85c11906213a93c7d73e70d22d07927ca1338f646ccf2448b48b">

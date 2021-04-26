@@ -23,7 +23,7 @@ Some images have annotations calling attention to specific portions of the image
 ## Maps 
 Pan and zoom the maps by clicking on the map or on the + and - icons. You can show and hide layers on the map by selecting the layers icon. Hover over a shaded area for more information.
 <param ve-map title="Origins of Banana" center="3.979260, 129.067833" basemap="Esri_WorldPhysical" zoom="4" stroke-width="0">
-<param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/banana_distribution.json">
+<param ve-map-layer geojson active url="/geojson/banana_distribution.json">
 
 Some maps have time-encoded data, with a control panel at the bottom letting you select the dates for which to display map data, and the ability to animate the display of map features for specific time periods, showing change over time on the map.
 <param ve-map

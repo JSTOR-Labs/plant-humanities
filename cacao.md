@@ -1,7 +1,7 @@
 <param ve-config
        title="Cacao: Indigenous Network to Global Commodity"
        source-image="https://upload.wikimedia.org/wikipedia/commons/3/31/Cacao_Nacional_Fino_de_Aroma.jpg"
-       banner="https://jstor-labs.github.io/plant-humanities/images/banners/cacao.jpg"
+       banner="/images/banners/cacao.jpg"
        eid="Q105747484"
        about="Q42385"
        layout="vtl"
@@ -92,8 +92,8 @@ The political, social, and economic salience of cacao indicate that individuals 
 
 Far from its neotropical habitat, cacao was largely considered an elite commodity by the Mexica, with its consumption a symbol of social and political power. It is therefore not surprising to see cacao as an ingredient in the Badianus’s recipes for curing fear and malaise, particularly for political leaders. The presence of cacao in a remedy for hurt feet within the Badianus, while unclear, is perhaps indicative of the long distances traveled on foot by merchants and traders to distribute the plant across Mesoamerica. In Hernán Cortés’s conquistador accounts, several regions are recognized for their tribute of cacao to the Mexica empire, including Huauthla, Soconusco, and Cotaxtla, all of which are hundreds of miles from Tenochtitlan.[^ref11] 
 <param ve-map title="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" center="17.265945, -94.268896" zoom="5.5" hide-labels="true" basemap="Esri_WorldPhysical">
-<param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson">
-<param ve-map-layer geojson active url="https://jstor-labs.github.io/plant-humanities/geojson/Mexica.geojson">
+<param ve-map-layer geojson active url="/geojson/Neotropics.geojson">
+<param ve-map-layer geojson active url="/geojson/Mexica.geojson">
 
 We learn from many other early colonial documents that roasted cacao beans were used as currency throughout Mesoamerica, highlighting its importance as an economic good by the time Europeans arrived. The relationship between trade and cacao is also reflected in the ancient Maya gods <span eid="Q12744014">L</span> or <span eid="Q17010064">M,</span> who have been documented in relation to cacao and merchant regalia.[^ref12] Such ancient associations between commerce and cacao emphasize the deep history of long-distance trade of the plant between the many regions of Mesoamerica. These networks of cacao production and trade, as well as their associated ideologies and practices, were well-established before the arrival of Europeans.
 <param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/fe7e2fbd2a3b23718388e7f062b6e171855474ba251cdaa6be09c013e574ed41" region="367,125,784,587">
@@ -107,12 +107,12 @@ To fulfill colonial agendas, the Spanish and other Europeans found themselves pa
 
 At first thought, it is surprising that cacao does not appear in any of the [several herbals on New World plants by Nicolás Monardes.](https://bibdigital.rjb.csic.es/idurl/1/13636) However, Monardes, a physician and botanist based in Seville and who never left the hemisphere, was only aware of plants that had reached him from across the ocean via his network of fellow naturalists. He also seems to have only reported on the plants he was able to propagate in his garden or use for himself, as he repeatedly claims his findings are based on real and personal observations. Given these facts, it is unlikely that cacao seeds would have sustained their reproductive capacity after a voyage across the Atlantic, let alone propagation in the drier Mediterranean climate of Seville.
 <param ve-map title="Seville, Spain, Where Mondardes Lived and Reported his Observations of Plants" center="37.381626, -5.990299" zoom="6" hide-labels="true" basemap="Esri_WorldPhysical">
-<param ve-map-layer geojson active title="Americas and Europe" url="https://jstor-labs.github.io/plant-humanities/geojson/Americas and Europe.geojson">
+<param ve-map-layer geojson active title="Americas and Europe" url="/geojson/Americas and Europe.geojson">
 
 Yet, cacao made it to England by the end of the sixteenth century, when the well-known herbalist John Gerard featured it under the Latin name _Beretinus fructus_ in his 1597 _The Herball_. It is in this herbal that we learn cacao specimens were brought to England by Sir Francis Drake. Gerard mentions that Sir Drake observed the native populations using the plant to pay tribute to their political leaders, again echoing the deep-rooted ideologies associating cacao with economic and political networks. John Parkinson’s 1640 [_Theatrum Botanicum_](https://biodiversitylibrary.org/page/56601544) adds that the cacao specimens were brought by Sir Francis Drake from his 1580 voyage. Some of them also eventually found their way to botanist and physician Carolus Clusius in Leiden by means of Master Richard Garth, an officer of the Court of Chancery in London, and Master Hugh Morgan, the apothecary to Queen Elizabeth I. These world-traveling cacao specimens were then used by Clusius to create at least one of his two mentions of the plant in his 1604 herbal, [_Exoticorum libri decem._](https://bibdigital.rjb.csic.es/idurl/1/13558)[^ref13]
 <param ve-map title="Movement of Cacao Across the Early Modern World" center="30.607407, -93.051521" zoom="2" hide-labels="true" basemap="Esri_WorldPhysical">
-<param ve-map-layer geojson active title="Americas and Europe" url="https://jstor-labs.github.io/plant-humanities/geojson/Americas and Europe.geojson">
-<param ve-map-layer geojson active title="Sir Drake's Voyage" url="https://jstor-labs.github.io/plant-humanities/geojson/SirDrake.geojson">
+<param ve-map-layer geojson active title="Americas and Europe" url="/geojson/Americas and Europe.geojson">
+<param ve-map-layer geojson active title="Sir Drake's Voyage" url="/geojson/SirDrake.geojson">
 <param title="Network of naturalists based in London" eid="Q84" fill="#92086D" marker-symbol="users">
 <param title="Clusius based in Leiden" eid="Q43631" fill="#92086D" marker-symbol="user">
 
@@ -122,13 +122,13 @@ Interestingly, Parkinson includes a [duplicate entry for cacao,](https://biodive
 
 Benzoni refers to the use of cacao as money and describes the methods to create the cacao beverage. Because Benzoni actually visited the region, which he identifies as Nicaragua, his first-hand account references the ecology in which cacao grows: only very warm, moist, and shady areas. It is likely that these exotic ecological constraints added to the appeal of cacao, both for the Mexica and later the Europeans, because of the prestige associated with commanding such a limited network.
 <param ve-map title="Girolamo Benzoni's Accounts Refer to Cacao Being Grown in Nicaragua" center="12.316683, -84.946184" zoom="5" basemap="Esri_WorldPhysical">
-<param ve-map-layer geojson active title="Central American Neotropics" url="https://jstor-labs.github.io/plant-humanities/geojson/Neotropics.geojson">
-<param ve-map-layer geojson active title="Nicaragua" url="https://jstor-labs.github.io/plant-humanities/geojson/Nicaragua.geojson">
+<param ve-map-layer geojson active title="Central American Neotropics" url="/geojson/Neotropics.geojson">
+<param ve-map-layer geojson active title="Nicaragua" url="/geojson/Nicaragua.geojson">
 
 ### A Curio for Royal Cabinets…and More
 The political and economic powers of Europe took note of these early accounts of cacao as monetarily and ideologically valuable and, by the seventeenth century, international markets were emerging, maintained largely through African slave labor.[^ref14] The tastes of returning merchants and clergy, as well as cacao's reported medicinal properties, gave rise to its popularity in Spain by the early seventeenth century.[^ref15] In other parts of Europe, the chocolate beverage and its associated dishware featured prominently in elite networks, invoking ideologies rooted in distant places and eras of Mesoamerica. At a time when curiosities fueled the exploration and description of the natural and cultural worlds, cacao featured quite prominently as a curio to add to royal cabinets.[^ref16] Cacao also found its way into commercial products meant to entice the common palate, including the many chocolate bars, desserts, and drinks we know and love today. _Theobroma cacao_ continues to be grown in the tropics across the world, both for global and local markets.[^ref17] The ideological association of cacao with subsistence, prestige, and trade has continued across millennia and cultures, making the power and appeal of it truly timeless and global.
 <param ve-map title="Distribution of Cacao Today" center="29.187255, -10.812716" zoom="2" basemap="Esri_WorldPhysical">
-<param ve-map-layer geojson active title="Current _Theobroma cacao_ Distribution" url="https://jstor-labs.github.io/plant-humanities/geojson/CacaoDist.geojson">
+<param ve-map-layer geojson active title="Current _Theobroma cacao_ Distribution" url="/geojson/CacaoDist.geojson">
 <param ve-image primary manifest="https://iiif-v2.visual-essays.app/manifest/201c47897f6919261070ca61833a8be15cc2105c9a1716ed0b24ece62c4a8d75">
 <param ve-image title="German chocolate cup and saucer ca. 1735-45" url="https://upload.wikimedia.org/wikipedia/commons/6/69/Chocolate_Cup_And_Saucer_%28Germany%29%2C_1735–45_%28CH_18349969%29.jpg">
 <param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/008e2235f342234b7037ec346c0d7b64b57b56842db629c9ca713d933fe0e094">
