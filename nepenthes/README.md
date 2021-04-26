@@ -22,8 +22,8 @@ Nepenthes are among the most wondrous carnivorous plants in the world. This grou
 {#paragraph1}
 
 The significance of nepenthes’ pitchers in the wild was a botanical mystery that enthralled European colonial settlers, naturalists, traders, collectors, scientists, and artists since it was first recorded by a Westerner in the 1650s.[^ref3] What was this botanical structure that appeared so foreign in shape, color, and texture? Why did it resemble a domestic drinking vessel? What secrets were contained inside its hollowed body? Because the answers to these questions remained a mystery throughout the 1700s and most of the 1800s, nepenthes’ pitchers became an enduring locus of meaning in visual and verbal representations of this plant. A cultural phenomenon that is equally true of sources created in the mid-1870s to coincide with the publication of new research on plant carnivory. For these reasons, illustrations, herbarium specimens, and text can provide a lens for exploring shifting cultural attitudes toward nepenthes and exotic ornamentals more generally.
-<param ve-image primary region="420,959,2100,1971" url="Nepenthes rafflesiana_Flickr_Scott Zona_2016.jpg" title="_Nepenthes rafflesiana_, Bako National Park, Sarawak, Borneo, Malaysia, 2016." attribute="Scott Zona, Flickr, CC BY-NC 2.0">
-<param ve-image region="0,475,1367,1283" url="Nepenthes rafflesiana_Flickr_AndreaSchieber_2019.jpg" title="_Nepenthes rafflesiana_, Bako National Park, Sarawak, Borneo, Malaysia, 2019." attribute="Andrea Schieber, Flickr, CC BY-NC-ND 2.0">
+<param ve-image primary region="0,475,1367,1283" url="Nepenthes rafflesiana_Flickr_AndreaSchieber_2019.jpg" title="_Nepenthes rafflesiana_, Bako National Park, Sarawak, Borneo, Malaysia, 2019." attribute="Andrea Schieber, Flickr, CC BY-NC-ND 2.0">
+<param ve-image region="420,959,2100,1971" url="Nepenthes rafflesiana_Flickr_Scott Zona_2016.jpg" title="_Nepenthes rafflesiana_, Bako National Park, Sarawak, Borneo, Malaysia, 2016." attribute="Scott Zona, Flickr, CC BY-NC 2.0">
 {#paragraph2}
 
 <param ve-entity eid="Q60772055" title="plant blindness">
@@ -130,7 +130,7 @@ Rivalries broke out among several of Europe’s top nurseries over which one car
 <param ve-map basemap="Esri_WorldPhysical" title="Map showing the locations from which nepenthes were collected." center="-3.845680915530356, 128.1808206389571" zoom="6" marker-type="none" stroke="none">
 {#paragraph12}
 
-### The French Connection: From Municipal Parks to Glasshouses and Storefronts
+### The French Connection
 
 <param ve-entity eid="Q753457" title="rosette">
 <param ve-entity eid="Q1121337" title="chromolithography" aliases="chromolithograph">
@@ -171,6 +171,7 @@ Nepenthes and their display in modern commercial spaces were described in a writ
 
 Paragraph on colonial ties and New Caledonia ??? As this picture shows, such plants were exotic in the botanical sense and also culturally having been removed from their original contexts and displayed within a domesticating framework of gridded iron-and-glass storefronts as well as the decorative trappings of indoor gardens—pots. By the early 1800s, expanding colonial trade networks and faster modes of land and maritime travel coupled with the invention of the Wardian case—a glazed box for shipping live plants—and innovations in glasshouse technologies brought nepenthes into cultivation in Europe.  Between the 1820s and the 1870s, commercial nurseries and publishers commissioned artists to portray nepenthes in horticultural advertisements, ornamental portraits, and architectural drawings, sparking new visual vocabularies for representing this plant in isolation and framed within the built environment. In the mid-1870s, illustrators developed still another set of conventions for depicting nepenthes in journals reporting on the discovery of plant carnivory.
 <param ve-image primary url="nepenthes vieillardii_Flickr.jpg" title="_Nepenthes vieillardii_, New Caledonia, June 3, 2011" attribute="gérard, Flickr, CC BY-SA 2.0">
+<param ve-image url="https://gallica.bnf.fr/ark:/12148/bpt6k6222955x/f4.highres" title="_View of the harbor of Port-de-France (New Caledonia), after a sketch by an officer of the establishment_, engraving, L. Breton, _Le Monde illustré_, April 25, 1857." attribute="Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, FOL-LC2-2943, Gallica, public domain">
 <param ve-image url="Voyage autour du monde. La Nouvelle-Caledonie_HathiTrust_2.jpg" title="_Respite in the Bush_, engraving, L. Breton, Jules Garnier, _Voyage autour du monde. La Nouvelle-Calédonie (côte orientale)_, 3rd edition, Paris, E. Plon et cie., 1873." attribute="Harvard University, HathiTrust, public domain">
 <param ve-image url="Voyage autour du monde. La Nouvelle-Caledonie_HathiTrust_2.jpg" title="Cover, Jules Garnier, _Voyage autour du monde. La Nouvelle-Calédonie (côte orientale)_, 3rd edition, Paris, E. Plon et cie., 1873." attribute="Harvard University, HathiTrust, public domain">
 {#paragraph16}
