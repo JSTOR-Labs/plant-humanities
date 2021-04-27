@@ -207,7 +207,8 @@ The curious shape and aesthetic allure of nepenthes is a double-edged sword. On 
 <param ve-entity eid="Q161174" title="Sarracenia">
 <param ve-entity eid="Q13107254" title="Drosophyllum">
 <param ve-entity eid="Q21064184" title="Madeline von Foerster">
-<param ve-entity eid="Q11917246" title="Dionaea muscipula"> 
+<param ve-entity eid="Q11917246" title="Dionaea muscipula">
+<param ve-entity eid="Q83437" title="gemstone"> 
 The contemporary artists Madeline von Foerster produces dazzling pictures of plants that engage with present-day environmental issues. In her painting _Carnival Insectivora_, Foerster represents a bouquet of vividly hued carnivores that visually conveys their visceral and aesthetic allure. At the center of the composition, an open-lidded nepenthes—mouth agape and no doubt hungry—waits to be fed a jewel-like insect clasped within the fingers of a disembodied hand. The plant is displayed alongside a verity of other equally charismatic carnivores. They include, moving clockwise from bottom left, _Drosera_ (sundew), _Heliamphora_ (sun pitcher), _Darlingtonia_ (cobra plant), _Sarracenia_ (American pitcher plant), _Drosophyllum_ (dewy pine), and _Dionaea muscipula_ (Venus flytrap). The diversity of genii showcased in this image recall the sorts of illustrations that were produced in the mid-1870s, celebrating the discovery of plant carnivory. Connect to issues of plant blindness.
 <param ve-image region="-303,-13,1517,1339" url="Carnival_Insectivora_Gouache.jpg" title="Madeline von Foerster, _Carnival Insectivora_, 2019, gouache on paper, 35 x 50 cm, private collection" attribution="© Madeline von Foerster, http://www.madelinevonfoerster.com">
 {#paragraph21}
