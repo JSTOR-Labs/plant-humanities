@@ -6,7 +6,7 @@
        banner="InsektenfressenPflantzen_1_BHL.png"
        layout="vtl">
 
-### Form Follows Function
+### Font of Wonder
 
 <param ve-entity eid="Q217530" title="Nepenthes">
 <param ve-entity eid="Q138821" title="Nepenthes rafflesiana">
