@@ -211,7 +211,12 @@
     })
     .then(config => {
       siteConfig = config
+      acct = siteConfig.acct || acct
+      repo = siteConfig.repo || repo
       ref = siteConfig.ref || ref
+      basePath = ''
+      contentSource.acct = acct
+      contentSource.repo = repo
       contentSource.ref = ref
     })
     .then(resp => getMergedComponentsList(componentsRoot, acct, repo, ref, contentSource))
@@ -912,7 +917,7 @@
           resp = await fetch(`${baseUrl}${basePath}/config.json`)
           config = resp.ok ? await resp.json() : {}
         }
-      } else {
+      } else if (contentSource.acct) {
         let resp = await fetch(`https://api.github.com/repos/${contentSource.acct}/${contentSource.repo}/contents/config.yaml?ref=${contentSource.ref || ref}`, {
                                       headers: { Authorization: `Token ${atob(unscopedToken)}` } })
         if (resp.ok) {
@@ -927,6 +932,9 @@
             config = JSON.parse(atob(resp.content))
           }
         }
+      } else {
+        let resp = await fetch('/config.yaml')
+        if (resp.ok) config = YAML.parse(await resp.text())
       }
       ['banner', 'favicon'].forEach(attr => {
         if (config[attr]) config[attr] = convertURL(config[attr])
