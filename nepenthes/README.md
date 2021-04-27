@@ -58,12 +58,7 @@ The cultural importance that Europeans attached to nepenthes’ pitchers was art
 <param ve-entity eid="Q150525" title="Nepenthes mirabilis">
 <param ve-entity eid="Q139550" title="Nepenthes maxima"> 
 An enduring fascination with nepenthes pitchers is evidenced in the pages of the German-born botanist Georg Eberhard Rumphius’s [_Herbarium Amboinense_,](https://bibdigital.rjb.csic.es/idurl/1/10702) from 1741–53.[^ref9] Rumphius conducted this research on Ambon’s flora and fauna while living in Dutch-controlled Indonesia as a merchant for the Dutch East India Company.[^ref10] His herbal contains a description of two ‘_Cantherifera_’ (tankard bearers)—probably _Nepenthes mirabilis_ and _Nepenthes maxima_—that provides important botanical information about their appearance, name, habitat, and use.[^ref11] Of greatest interest here is Rumphius’s declaration that nepenthes “serves mostly as a curiosity, and its pitchers are kept with other strange things.”[^ref12] This appraisal of nepenthes’ primary value distinguishes it from many other economic plants, which were used by the Dutch as medicines, foods, spices, and sources of wood, pigments, and dyes. This assertion also anticipates nineteenth-century Europeans’ main use of nepenthes as an exotic curiosity and ornamental.
-<param ve-map basemap="Esri_WorldPhysical" title="Map showing the locations of where Georg Eberhard Rumphius and Dr. William Jack botanized." center="-3.845680915530356, 128.1808206389571" zoom="7" marker-type="none" stroke="none">
-<param ve-map-layer geojson active url="Madagascar_nepenthes.json" title="Madagascar">
-<param ve-map-layer geojson active url="Vietnam_nepenthes.json" title="Vietnam">
-<param ve-map-layer geojson active url="SriLanka_nepenthes.json" title="Sri Lanka">
-<param ve-map-layer geojson active url="Ambon_nepenthes.json" title="Abon">
-<param ve-map-layer geojson active url="Netherlands_nepenthes.json" title="Netherlands">
+<param ve-image url=Ambon_Map_Rijksmuseum_SK-A-4482.jpg" title="Anonymous, _View of Ambon_ [with a Portrait of Frederik Houtman], ca. 1617, oil on canvas, 148.8 x 268.2 cm. " attribute="Rijksmuseum, Amsterdam, public domain">
 {#paragraph6}
 
 <param ve-entity eid="Q148681" title="dioecy" aliases="dioecious">
