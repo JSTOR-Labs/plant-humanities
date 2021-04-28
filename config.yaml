@@ -1,0 +1,33 @@
+title: Plant Humanities Lab
+tagline: Explore the cutural histories of plants and their influence on human societies
+banner: /images/header.jpg
+favicon: /images/favicon.png
+
+# When using a custom domain these fields must be updated to match
+# the account and repository name
+acct: jstor-labs
+repo: plant-humanities
+ref: v1.1.0
+gaTrackingID: UA-125778965-7
+
+######################################################
+# Defines options shown in the header navigation menu
+######################################################
+nav:
+- label: About
+  icon: info
+  path: /about
+- label: Help
+  icon: question
+  path: /docs
+#- label: Contact Us
+#  icon: envelope
+#  path: "/contact-us"
+
+# If the /contact-us path is defined for the nav menu a contact form will be enabled
+# The following information is used in the display and processing of the contact form
+# A valid toEmail address is required. Other fields are optional
+#contactForm:
+#  toEmail:
+#  - name@example.org
+#  subject: My Juncture site feedback
