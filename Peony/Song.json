@@ -590,6 +590,21 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#941651",
+        "marker-size": "large",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.423095703125,
+          34.687427949314845
+        ]
+      }
     }
   ]
 }
