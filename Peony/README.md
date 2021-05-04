@@ -16,8 +16,8 @@
 
 The center of imperial peony cultivation was in <span data-mouseover-map-flyto="34.62403534924385, 112.45364263955301, 11">Luoyang</span> where there were peony festivals and competitions, gardens devoted solely to peonies, and even a peony research center. This led to a plethora of ornamental peony cultivars as peony breeding became an artform. More than 200 peony cultivars were described during the <span data-mouseover-map-flyto="30.54077926679056, 112.8122076655154, 5">Song Dynasty,</span> and today, China alone has more than 1,000 cultivars.
 <param ve-image url="https://theme.npm.edu.tw/exh105/npm_anime/TwelveMonths/common/images/selection/img1_1_4.jpg">
-<param ve-map center="Q187136" zoom="10" stroke-width="0" show-lables>
-<param ve-map-layer geojson title="The Song dynasty at its greatest extent in 1111 AD." url="Song.json">
+<param ve-map center="Q187136" zoom="9" stroke-width="0">
+<param ve-map-layer geojson title="The Song dynasty at its greatest extent in 1111 AD." url="Song.json" show-lables>
 
 While there were species of herbaceous peony native to Europe, ornamental peony cultivars, which had already benefitted from centuries of cultivation, grafting, and hybridization in Chinese and Islamic gardens, were introduced through the floriculture of the <span eid="Q12560">Ottoman Empire</span> in the sixteenth century.[^2] It was not until the eighteenth century, however, that Europeans would begin intensively breeding ornamental peonies. 
 <param ve-image manifest="https://ids.si.edu/ids/manifest/FS-7258_37">
