@@ -214,7 +214,7 @@ Linden’s marketing of nepenthes as “exotic”—both in the botanical sense 
 <param ve-entity eid="Q208841" title="co-evolution" aliases="co-evolved"> 
 Scientists have also discovered that many nepenthes engage in symbiotic relationships with animals from which they also derive nutrients. In the case of _Nepenthes rafflesiana_ variety elongate, the plant’s hollow leaves serve as a toilet for _Kerivoula hardwickii_, commonly known as Hardwicke’s wooly bat. This plant’s pitchers co-evolved with bats in amazing ways. The color and shape of the pitcher allow bats identify it from among others in the same habitat through echolocation. In other words, its lid possesses a uniquely concave surface that pings just right for the bats. The pitchers are also shaped such that they allow bats to roost inside without risking falling into the hollowed space or coming into contact with its fluid. While the bat is protected from the elements and predators, it leaves a “present” behind: guano. Rich in nitrogen and phosphates, this feces provides the sorts of nutrients that are found lacking in _Nepenthes rafflesiana_’s native habitat, in Borneo. Remarkably, the poop of wooly bats, which are insectivorous, boasts a higher concentration of nutrients than do insects endemic to the region.
 <param ve-video title="_Is this the first bat-eating plant? - Nature's Weirdest Events: Episode 4 Preview - BBC Two_, BBC, Oct 14, 2016." vid="FCZFFc6YRX4">
-{#paragraph21}
+{#paragraph22}
 
 ### Enduring Wonderment
 
@@ -228,7 +228,7 @@ Scientists have also discovered that many nepenthes engage in symbiotic relation
 <param ve-entity eid="Q83437" title="gemstone"> 
 The contemporary artists Madeline von Foerster produces dazzling pictures of plants that engage with present-day environmental issues. In her painting _Carnival Insectivora_, Foerster represents a bouquet of vividly hued carnivores that visually conveys their visceral and aesthetic allure. At the center of the composition, an open-lidded nepenthes—mouth agape and no doubt hungry—waits to be fed a jewel-like insect clasped within the fingers of a disembodied hand. The plant is displayed alongside a verity of other equally charismatic carnivores. They include, moving clockwise from bottom left, _Drosera_ (sundew), _Heliamphora_ (sun pitcher), _Darlingtonia_ (cobra plant), _Sarracenia_ (American pitcher plant), _Drosophyllum_ (dewy pine), and _Dionaea muscipula_ (Venus flytrap). The diversity of genii showcased in this image recall the sorts of illustrations that were produced in the mid-1870s, celebrating the discovery of plant carnivory. Connect to issues of plant blindness.
 <param ve-image region="-303,-13,1517,1339" url="Carnival_Insectivora_Gouache.jpg" title="Madeline von Foerster, _Carnival Insectivora_, 2019, gouache on paper, 35 x 50 cm, private collection" attribution="© Madeline von Foerster, http://www.madelinevonfoerster.com">
-{#paragraph22}
+{#paragraph23}
 
 <param ve-entity eid="Q1146002" title="cabinet of curiosities">
 <param ve-entity eid="Q17131134" title="shadow box" aliases="shadow boxes">
@@ -241,7 +241,7 @@ While Madeline von Foerster uses a refined labor-intensive technique to lay down
 <param ve-image manifest="https://ids.si.edu/ids/manifest/SAAM-1999.91_1" title="Joseph Cornell, _Soap Bubble Set_, 1949-1950, glasses, pipes, printed paper, and other media in a glass-fronted wood box" attribution="Smithsonian American Art Museum, Usage conditions apply">
 <param ve-image region="-1229,-207,6145,5683" url="https://ia800305.us.archive.org/BookReader/BookReaderImages.php?id=KunstformenderN00Haec&itemPath=%2F27%2Fitems%2FKunstformenderN00Haec&server=ia800305.us.archive.org&page=n322_w3687">
 <param ve-image region="-1229,-207,6145,5683" url="https://ia800305.us.archive.org/BookReader/BookReaderImages.php?id=KunstformenderN00Haec&itemPath=%2F27%2Fitems%2FKunstformenderN00Haec&server=ia800305.us.archive.org&page=n334_w3687">
-{#paragraph23}
+{#paragraph24}
 
 ### References
 [^ref1]: Anthea Phillipps, Anthony Lamb, Phillip Cribb, Royal Botanic Gardens, Kew, and Malayan Nature Society, _Pitcher-plants of Borneo_ (Kota Kinabalu: Natural History Publications (Borneo), 1996).
