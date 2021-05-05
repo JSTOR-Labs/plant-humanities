@@ -45,6 +45,7 @@ Images and dried specimens of nepenthes along with textual descriptions of this 
 {#paragraph4}
 
 A constellation of European encounters with nepenthes included those of the French colonial governor Étienne de Flacourt with _Nepenthes madagascariensis_ in <span data-click-map-flyto="-19.851956606106267, 47.10416219453961">Madagascar,</span> the Dutch-Polish merchant and botanist Jacob Breyne with _Nepenthes distillatoria_ in <span data-click-map-flyto="7.285398878746777, 80.64775966499727">Sri Lanka,</span> and the Portuguese Jesuit missionary and botanist João de Loureiro with _Nepenthes mirabilis_ in <span data-click-map-flyto="16.250907711663363, 102.3281993917686">Vietnam.</span>[^ref6] They traveled to the southern tropics under the aegis of colonial trading companies and rulers, recording findings about native flora. While such studies often relied on the assistance of indigenous peoples, European accounts often omit, misconstrue, or incorrectly reported local knowledge of native plants making it difficult for scholars to study knowledge exchanges in colonial contact zones.
+<param ve-map title="Map showing the locations of first recorded European encounters with nepenthese species." center="-2, 118" zoom="4">
 {#paragraph5}
 
 <param ve-entity eid="Q139507" title="Nepenthes madagascariensis">
