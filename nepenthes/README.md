@@ -38,7 +38,7 @@ A history of nepenthes focused on European visual cultures of botanical research
 
 Images and dried specimens of nepenthes along with textual descriptions of this plant were slow to reach Europe from the mid-1600s through the 1700s. During this period, only three _Nepenthes_ species of the more than [160 accepted today](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327014-2) were recorded by Europeans.[^ref5] While the greatest species diversity is concentrated in the <span data-click-map-flyto="12.54417233681754, 122.76058881891258, 6">Philippines</span> (59), <span data-click-map-flyto="1.4249699271350025, 114.5218661556842, 6">Borneo</span> (40), and <span data-click-map-flyto="-0.25273272063866625, 101.26580655470983, 6">Sumatra<span> (37), the earliest recorded colonial encounters occurred in other places colonized by the Dutch and Portuguese. The slow pace of identifications during this period was partly due to the labor, time, and cost involved in recording foreign flora in the tropics and then sending manuscripts to Europe for publication. It was also due to the limited range of some species to a single geographic regions such as a mountain or island.
 <param ve-map title="Heatmap showing distribution of nepenthese species. Data from Wikimedia, S. R. McPherson, _Pitcher Plants of the Old World_, 2009." center="-2, 118" zoom="4" basemap="Esri_WorldPhysical">
-<param ve-map-layer heatmap url="nepenthes_horticultural_heatmap.tsv" radius="2" scale-radius="true" use-local-extrema="true" max-opacity="0.6">
+<param ve-map-layer heatmap url="nepenthes_horticultural_heatmap.tsv" radius="2" scale-radius="true" use-local extrema="true" max-opacity="0.6">
 {#paragraph4}
 
 <param ve-entity eid="Q77266" title="Jacob Breyne">
