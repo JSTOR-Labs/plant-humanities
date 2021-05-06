@@ -118,11 +118,13 @@ Nepenthes’ imagery dramatically changed in the early 1800s following the emerg
 <param ve-image region="0,231,866,796" url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002747993&itemPath=%2F31%2Fitems%2Fmobot31753002747993&server=ia800503.us.archive.org&page=n35_w866" title="_No. 1017. Nepenthes distillatoria_ fæmina, in _The Botanical Cabinet_ vol. 11, 1825." attribute="Missouri Botanical Garden, Peter H. Raven Library, Biodiversity Heritage Library, public domain">
 {#paragraph12}
 
-<param ve-entity eid="Q6107276" title=" Revue Horticole">
-<param ve-entity eid="Q5961244" title="L'illustration horticole" aliases="L’illustration horticole">
-<param ve-entity eid="Q2160648" title=" Flore des Serres et des Jardins de l'Europe" aliases=" Flore des Serres et des Jardins de l’Europe">
 <param ve-entity eid="Q2073003" title="Louis van Houtte">
-Some of the most prominent botanical and horticultural journals to advertise nepenthes were established in England. They included William Curtis’s _Curtis’s Botanical Magazine_, Conrad Loddiges’ _The Botanical Cabinet_, and Joseph Paxton and his cofounders’ _Gardeners’ Chronicle_.[^ref24] While British nurseries initially dominated global plants trades, this monopoly was broken by the Belgian firms of Louise van Houtte, Ambroise Verschaffelt, and Jean Linden in the 1840s and 1850s.[^ref25] Van Houtte’s _Flore des Serres et des Jardins de l’Europe_ and Vershaffelt’s _L’Illustration horticole_ (later acquired by Linden) also ran advertisements for nepenthes.[^ref26] A survey of their pages reveals an intense rivalry—each nursery strove for exclusive proprietorship over the newest, rarest, and most luxurious stock.
+<param ve-entity eid="Q2993615" title="Conrad Loddiges">
+<param ve-entity eid="Q318372" title="Joseph Paxton">
+<param ve-entity eid="Q460867" title="William Curtis"> 
+<param ve-entity eid="Q458992" title="Ambroise Verschaffelt">
+<param ve-entity eid="Q781362" title="Jean Jules Linden"> 
+Some of the most prominent botanical and horticultural journals to advertise nepenthes were established in England beginning in the late 1700s. They included William Curtis’s [_The Botanical Magazine_](https://www.biodiversitylibrary.org/item/7351#page/2/mode/1up) (succeeded by [_Curtis’s Botanical Magazine_](https://www.biodiversitylibrary.org/item/14276#page/2/mode/1up)), Conrad Loddiges’ [_The Botanical Cabinet_](https://www.biodiversitylibrary.org/item/91698#page/1/mode/1up), and Joseph Paxton and his cofounders’ [_The Gardeners’ Chronicle_](https://www.biodiversitylibrary.org/item/95187#page/1/mode/1up).[^ref24] While British nurseries initially dominated global plants trades, this monopoly was broken by the Belgian firms of Louise van Houtte, Ambroise Verschaffelt, and Jean Jules Linden in the 1840s and 1850s.[^ref25] Van Houtte’s [_Flore des Serres et des Jardins de l’Europe_](https://www.biodiversitylibrary.org/item/53599#page/3/mode/1up) and Vershaffelt’s [_L’Illustration horticole_](https://www.biodiversitylibrary.org/item/3350#page/3/mode/1up) (later acquired by Linden) also ran advertisements for nepenthes.[^ref26] A survey of their pages reveals an intense rivalry—each nursery strove for exclusive proprietorship over the newest, rarest, and most luxurious stock.
 <param ve-tabulator url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/Emmenagogic_Herbs.tsv">
 {#paragraph13}
 
