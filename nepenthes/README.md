@@ -139,7 +139,7 @@ By the 1850s and 1860s, new technologies increased access to nepenthes in Europe
 <param ve-image region="357,519,773,710" url="https://ia600500.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002747290&itemPath=%2F11%2Fitems%2Fmobot31753002747290&server=ia600500.us.archive.org&page=n259_w1704" title="_Partial View of the Conservatories at the Van Houtte Establishment_, _Flore des serres et des jardins de l'Europe_, 1850-51, lithography" attribute="Missouri Botanical Garden, Peter H. Raven Library, Biodiversity Heritage Library, public domain">
 {#paragraph15}
 
-### French Connections
+### Paris Tropical
 
 <param ve-entity eid="Q753457" title="rosette">
 <param ve-entity eid="Q184784" title="architectural drawing">
@@ -161,7 +161,7 @@ It is astounding that Alphand’s head gardener Jean-Pierre Barillet-Deschamps, 
 <param ve-image region="2319,1454,5298,4625" ref="10" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25">
 {#paragraph17}
 
-### Scientific Discoveries
+### Gimme Danger
 
 <param ve-entity eid="Q387724" title="Worthington George Smith" aliases="W. G. Smith">
 <param ve-entity eid="Q1035" title="Charles Darwin">
