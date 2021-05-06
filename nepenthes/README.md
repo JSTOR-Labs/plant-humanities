@@ -107,7 +107,7 @@ Linnaeus wrote this description for his 1738 book [_Hortus Cliffortianus_](https
 <param ve-image region="-200,37,1002,960" url="https://www.doaks.org/resources/rare-books/hortus-cliffortianus-plantas-exhibens-quas-in-hortis-tam-vivis-quam-siccis-hartecampi-in-hollandia/001223282-linne-un-0001-1.jpg/@@images/image/zoom" title="Frontispiece, Jan Wandelaar, Georg Dionysius Ehret, engraving, Carl von Linné, _Hortus Cliffortianus_, 1737 [i.e. 1738], Amsterdam." attribution="Dumbarton Oaks Research Library and Collection, CC">
 {#paragraph11}
 
-### The Art of Horticultural Networks
+### The Art of Botanical and Horticultural Networks
 
 <param ve-entity eid="Q6107276" title=" Revue Horticole">
 <param ve-entity eid="Q5961244" title="L'illustration horticole" aliases="L’illustration horticole">
