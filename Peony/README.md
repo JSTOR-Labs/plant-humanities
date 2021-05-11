@@ -7,7 +7,6 @@
 
 <param title="epilepsy" eid="Q41571" aliases="mal caduco">
 <param title="precipitation" eid="Q113796">
-<param title="Medici Dynasty" eid="Q170022">
 <param title="Paeoniaceae" eid="Q3360397">
 
 ### The Secret Ingredient
