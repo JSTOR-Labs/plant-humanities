@@ -7,7 +7,8 @@
 
 ### Drake’s Root
 In September of 1580, explorer Francis Drake became the first Englishman to circumnavigate the globe. During his three-year journey, Drake sailed west from England, through the Straits of Magellan (southern Chile), up the west coast of South America to Peru, and finally as far north as present-day California before crossing the Pacific Ocean. He then travelled through the Moluccas and Java (Indonesia) before rounding the Cape of Good Hope (South Africa) and returning to England. Along the way, Drake kept personal notes and drew images of the exotic plants he encountered. (map of New World Plants from Drake’s voyage?)
-<param ve-map center="21.773124435892633, -78.6721411443764" zoom="2.5">
+<param ve-map center="10.167355763494177, -50.17000174655964" zoom="2.5">
+<param ve-map-layer geojson title="Drake's circumnavigation between 1577 and 1580." url="drake.json" show-lables>
 
 As long-distance seaborn trade and European colonialism grew over the course of the early modern period, explorers like Drake as well as merchants, diplomats, privateers, and travelers became essential in the discovery, collection, and dissemination of local or indigenous plant knowledge and specimens to European naturalists, physicians, and apothecaries. Which is why, in 1581, famed naturalist Charles Ècluse (often referred to as Clusius) travelled to <span data-click-image-zoomto="3041,1428,736,626">London</span> to meet Drake and his men, hear their stories, and learn about what new plants they had discovered. 
 <param ve-image region="944,1013,3162,2688" url="Drake.jpg">
