@@ -9,6 +9,8 @@ customCSS: /css/custom.css
 #acct: <GitHub account/username>
 #repo: <GitHub repository>
 
+ref: v1.1.0
+
 ######################################################
 # Defines options shown in the header navigation menu
 ######################################################
