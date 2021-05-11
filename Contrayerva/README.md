@@ -10,7 +10,7 @@ In September of 1580, explorer Francis Drake became the first Englishman to circ
 <param ve-map center="21.773124435892633, -78.6721411443764" zoom="3">
 
 As long-distance seaborn trade and European colonialism grew over the course of the early modern period, explorers like Drake as well as merchants, diplomats, privateers, and travelers became essential in the discovery, collection, and dissemination of local or indigenous plant knowledge and specimens to European naturalists, physicians, and apothecaries. Which is why, in 1581, famed naturalist Charles Ècluse (often referred to as Clusius) travelled to London to meet Drake and his men, hear their stories, and learn about what new plants they had discovered. 
-<param ve-image url="Drake.jp2">
+<param ve-image url="Drake.jpg">
 
 This was not the first nor the last time Clusius would seek the botanical discoveries of men like Drake. Thanks to European voyages of exploration, sixteenth-century Europe saw an influx of exotic flora and fauna from the Americas, Africa, and Asia. Because of this, the study of plants became fashionable, and, as historian Florike Egmond explains, manifested in the cultures of collecting and gardening. It is also why the sixteenth century saw the establishment of the first University botanical gardens and academic chairs in medical botany. Clusius was at the center of these cultures and a key figure in their development. Clusius relied on a vast network of apothecaries, aristocratic men and women, merchants, explorers, physicians, and even local herbalists to become an expert on exotic plants. 
 (Clusius’s Network, recreate from letters – https://socrates.leidenuniv.nl/search/?type=edismax&cp=collection%3Aubl_clusius)
