@@ -16,8 +16,8 @@ This was not the first nor the last time Clusius would seek the botanical discov
 (Clusius’s Network, recreate from letters – https://socrates.leidenuniv.nl/search/?type=edismax&cp=collection%3Aubl_clusius)
 
 After meeting Drake and many of his crew, Clusius returned to the continent and published _Aliquot notae in Garciae aromatum historiam (1582),_ which detailed Drake’s botanical discoveries and was the first substantial published record of Drake’s voyage. In this work, Clusius described a valuable root that Drake had collected. He even named the root, “Drakena Radix,” or Drake’s Root, in honor of Drake. Clusius described the root as half an inch thick, swelling with knots, and irregular; blackish on the outside, white on the inside, and fibrous. He also noted that it was astringent in taste and biting to the tongue but became agreeable in the mouth.
-<param ve-image fit="contain" url="https://www.biodiversitylibrary.org/imagepage/58480828">
-<param ve-image fit="contain" url="https://www.biodiversitylibrary.org/imagepage/58480797">
+<param ve-image fit="contain" url="https://www.biodiversitylibrary.org/image/page/58480828">
+<param ve-image fit="contain" url="https://www.biodiversitylibrary.org/page/58480797">
 
 Clusius’s work recounted the story and significance of the root as it was told to him but one of Drake’s gentlemen sailors, Lawrence Eliot. According to Eliot, the root was highly valued by the Spaniards in Peru, who would not part with it for any price. The leaves of the plant were an active poison, but the root was the antidote to that poison as well as every other kind of poison. The root strengthened the heart when ground and mixed with white wine in the morning, and the water in which the root was soaked was a fever remedy. But what was the root that Drake learned about in Peru and brought home to England? And did the Spanish learn of this root from indigenous peoples in Peru? 
 <param ve-image fit="contain" url="https://www.biodiversitylibrary.org/page/58480796">
