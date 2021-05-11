@@ -6,7 +6,7 @@
        author="Ashley Buchanan">
 
 ### Drake’s Root
-In September of 1580, explorer Francis Drake became the first Englishman to circumnavigate the globe. During his three-year journey, Drake sailed west from England, through the Straits of Magellan (southern Chile), up the west coast of South America to Peru, and finally as far north as present-day California before crossing the Pacific Ocean. He then travelled through the Moluccas and Java (Indonesia) before rounding the Cape of Good Hope (South Africa) and returning to England. Along the way, Drake kept personal notes and drew images of the exotic plants he encountered. (map of New World Plants from Drake’s voyage?)
+In September of 1580, explorer Francis Drake became the first Englishman to circumnavigate the globe. During his three-year journey, Drake sailed west from England, through the <span data-mouseover-map-flyto="-45.56520925271492, -69.8574999781909">Straits of Magellan (southern Chile),</span> up the west coast of South America to <span data-mouseover-map-flyto="-11.885729425910258, -70.58862061549497">Peru,</span> and finally as far north as present-day <span data-mouseover-map-flyto="34.14627900677548, -124.64135643768574">California</span> before crossing the Pacific Ocean. He then travelled through the Moluccas and Java (Indonesia) before rounding the Cape of Good Hope (South Africa) and returning to England. Along the way, Drake kept personal notes and drew images of the exotic plants he encountered.
 <param ve-map center="10.167355763494177, -50.17000174655964" zoom="2.5">
 <param ve-map-layer geojson title="Drake's circumnavigation between 1577 and 1580." url="drake.json" show-lables>
 
