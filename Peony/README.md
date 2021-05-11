@@ -42,7 +42,7 @@ Today, peonies remain one of the most sought-after ornamental flowers in the wor
 <param ve-image region="0,124,1084,909" url="https://upload.wikimedia.org/wikipedia/commons/7/71/Camille_Pissarro_-_Bouquet_of_pink_Peonies_-_Ashmolean_Museum.jpg">
 
 ### Shaoyao: The Medicine Made from Peony
-Although today we think of peonies as beautiful ornamental flowers, they have been used as medicinal plants for more than a millennium. Peony is the single genus in the _Paeoniaceae_ family, which has about 30 species found in western North America, Northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s bio-geographic distribution.
+Peonies have been used as medicinal plants for more than a millennium. Peony is the single genus in the _Paeoniaceae_ family, which has about 30 species found in western North America, Northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s bio-geographic distribution.
 <param ve-map center="32.262084, 64.391554" zoom="2.5" stroke-width="0" show-labels>
 <param ve-map-layer geojson url="/geojson/peony.json" title="Peony Distribution" active> 
 
