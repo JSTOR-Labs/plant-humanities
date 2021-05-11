@@ -2438,7 +2438,7 @@
         "marker-color": "#ff9300",
         "marker-size": "medium",
         "marker-symbol": "",
-        "stroke": "#000000"
+        "stroke": ""
       },
       "geometry": {
         "type": "Point",
@@ -2454,7 +2454,7 @@
         "marker-color": "#ff9300",
         "marker-size": "medium",
         "marker-symbol": "",
-        "stroke": "#000000"
+        "stroke": ""
       },
       "geometry": {
         "type": "Point",
@@ -2805,7 +2805,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium"
+        "marker-size": "medium",
+        "stroke": ""
       },
       "geometry": {
         "type": "Point",
@@ -3450,7 +3451,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium"
+        "marker-size": "medium",
+        "stroke-opacity": ""
       },
       "geometry": {
         "type": "Point",
