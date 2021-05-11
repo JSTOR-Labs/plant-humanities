@@ -6,7 +6,8 @@
       "properties": {
         "stroke-opacity": "",
         "marker-color": "#ff9300",
-        "marker-size": "medium"
+        "marker-size": "small",
+        "stroke": ""
       },
       "geometry": {
         "type": "Point",
@@ -20,7 +21,10 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium"
+        "marker-size": "small",
+        "stroke": "",
+        "stroke-width": "",
+        "marker-symbol": ""
       },
       "geometry": {
         "type": "Point",
@@ -192,7 +196,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium"
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -323,7 +327,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": ""
       },
       "geometry": {
@@ -539,7 +543,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": ""
       },
       "geometry": {
@@ -719,7 +723,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "stroke-opacity": ""
       },
@@ -896,7 +900,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": ""
       },
       "geometry": {
@@ -911,7 +915,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "stroke": ""
       },
@@ -1183,7 +1187,7 @@
         "stroke": "",
         "stroke-width": "",
         "marker-color": "#ff9300",
-        "marker-size": "medium"
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -1449,7 +1453,7 @@
         "stroke-width": "",
         "stroke-opacity": "",
         "marker-color": "#ff9300",
-        "marker-size": "medium"
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -1957,7 +1961,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "stroke": "",
         "stroke-width": "",
@@ -1976,7 +1980,7 @@
       "properties": {
         "stroke": "",
         "marker-color": "#ff9300",
-        "marker-size": "medium"
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -2224,7 +2228,7 @@
       "properties": {
         "stroke": "",
         "marker-color": "#ff9300",
-        "marker-size": "medium"
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -2436,7 +2440,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "stroke": ""
       },
@@ -2452,7 +2456,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "stroke": ""
       },
@@ -2791,7 +2795,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium"
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -2805,7 +2809,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium",
+        "marker-size": "small",
         "stroke": ""
       },
       "geometry": {
@@ -2820,7 +2824,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium"
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -2834,7 +2838,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium"
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -3151,7 +3155,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium"
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -3451,7 +3455,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium",
+        "marker-size": "small",
         "stroke-opacity": ""
       },
       "geometry": {
@@ -3466,7 +3470,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff9300",
-        "marker-size": "medium"
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
