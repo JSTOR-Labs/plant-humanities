@@ -152,7 +152,7 @@
   <script>
     console.log(window.location)
     const isJuncture = window.location.hostname.indexOf('juncture-digital.org') >= 0 || window.location.host === 'localhost:8088'
-    const junctureVersion = 'main'
+    const junctureVersion = 'v0.0.51'
     console.log(`isJuncture=${isJuncture} junctureVersion=${junctureVersion} referrer=${document.referrer}`)
 
     let head = document.querySelector('head')
@@ -294,6 +294,7 @@
       siteConfig = config
       if (window.location.host !== 'localhost:8080') {
         contentSource = {...contentSource, ...{acct: config.acct || contentSource.acct, repo: config.repo || contentSource.repo, ref: config.ref || contentSource.ref}}
+        if (!contentSource.isGhpSite) contentSource.assetsBaseUrl = `https://gitcdn.link/cdn/${contentSource.acct}/${contentSource.repo}/${contentSource.ref}`
       }
       return config
     })
@@ -1018,8 +1019,10 @@
             resp = await this.getFile('/index.html', 'jstor-labs', 'juncture', fromRef)
             await this.putFile('/index.html', resp.content.replace(/const junctureVersion = '.*'/, `const junctureVersion = '${fromRef}'`), targetAcct, targetRepo, 'juncture')
 
-            resp = await this.getFile('/config.yaml', 'jstor-labs', 'juncture', fromRef)
-            await this.putFile('/config.yaml', this.replaceValues(resp.content, baseReplacementValues), targetAcct, targetRepo, 'juncture')
+            if (targetAcct !== 'jstor-labs' && targetRepo !== 'juncture') {
+              resp = await this.getFile('/config.yaml', 'jstor-labs', 'juncture', fromRef)
+              await this.putFile('/config.yaml', this.replaceValues(resp.content, baseReplacementValues), targetAcct, targetRepo, 'juncture')
+            }
 
             await this.copyFile({acct:'jstor-labs', repo:'juncture', ref: fromRef, path:'/404.html'}, {acct: targetAcct, repo: targetRepo, ref:'juncture'})
             await this.copyFile({acct:'jstor-labs', repo:'juncture', ref: fromRef, path:'/.nojekyll'}, {acct: targetAcct, repo: targetRepo, ref:'juncture'})
@@ -1270,7 +1273,7 @@
       if (contentSource.isGhpSite) {
         resp = await fetch(`${contentSource.baseUrl}${contentSource.basePath}/config.yaml`)
         if (resp.ok) config = YAML.parse(await resp.text())
-      } else if (contentSource.acct && contentSource.acct !== 'jstor-labs' && contentSource.repo !== 'juncture') {
+      } else if (contentSource.repo !== 'juncture' || contentSource.acct !== 'jstor-labs') {
         config = {}
         let ghToken = oauthAccessToken || ghUnscopedToken
         resp = await fetch(`https://api.github.com/repos/${contentSource.acct}/${contentSource.repo}/contents/config.yaml?ref=juncture`,
@@ -1339,8 +1342,8 @@
         resp = await resp.json()
         componentsList = [...componentsList, ...resp.files.map(fname => `${contentSource.baseUrl}${basePath}/${componentsRoot}/${fname}`)]
       }
-      // if (isJuncture && contentSource.acct !== 'jstor-labs' && contentSource.repo !== 'juncture') {
-      if (contentSource.acct !== 'jstor-labs' && contentSource.repo !== 'juncture') {
+      // if (isJuncture && contentSource.acct !== 'jstor-labs' || contentSource.repo !== 'juncture') {
+      if (contentSource.repo !== 'juncture' || contentSource.acct !== 'jstor-labs') {
         let resp = await fetch(`https://api.github.com/repos/jstor-labs/juncture/git/trees/${junctureVersion}`, ghToken ? {headers: {Authorization: `Token ${ghToken}`}} : {})
         resp = await resp.json()
         resp = await fetch(resp.tree.find(item => item.path === componentsRoot).url, ghToken ? {headers: {Authorization: `Token ${ghToken}`}} : {})
@@ -1398,10 +1401,12 @@
         pathElems = (path || window.location.pathname).split('/').filter(elem => elem !== '')
         if (!pathIsDir) pathElems = pathElems.slice(0, -1)
         pathElems = [...pathElems, ...current.split('/').filter(elem => elem !== '')]
+        if (isJuncture && contentSource.repo !== 'juncture' || contentSource.acct !== 'jstor-labs') pathElems = pathElems.slice(2)
+        console.log(pathElems)
       }
       if (pathElems[0] === contentSource.repo) pathElems = pathElems.slice(1)
       converted = `${contentSource.assetsBaseUrl || contentSource.baseUrl}/${pathElems.join('/')}`
-      // console.log(`convertURL: current=${current} converted=${converted} path=${path} pathIsDir=${pathIsDir} pathElems=${pathElems}`)
+      console.log(`convertURL: current=${current} converted=${converted} path=${path} pathIsDir=${pathIsDir} pathElems=${pathElems}`)
       return converted
     }
 
