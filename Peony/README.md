@@ -103,10 +103,7 @@ The probable effectiveness of her infant convulsion powder increased Anna Maria 
 <param ve-map-layer geojson url="/geojson/AML_distribution.json" title="Distribution of Anna Maria Luisa's Infant Convulsion Powder" active> 
 
 The gift of “miraculous” medicine to the Viennese court was not simply altruistic. As a woman, Anna Maria Luisa was barred from inheriting and ruling Tuscany on the death of <span data-click-image-zoomto="524,236,1525,1146">her brother</span>, the <span eid="Q256580">last Medici Grand Duke</span>. Although she lacked official power, Anna Maria Luisa fashioned influence through the gift of her infant convulsion powder, which allowed her to ingratiate herself with some of <span data-click-image-zoomto="214,581,1271,955">Vienna’s most important and powerful families</span>. This ensured goodwill and communication between the Grand Duchy of Tuscany and the court that would decide its fate. By the end of the Medici dynasty, the Viennese court was the headquarters of the <span eid="Q645719">Habsburg dynasty</span> and the center of its imperial politics. In 1737, <span eid="Q151075">Francis of Lorraine</span>, future head of the <span eid="Q12548">Holy Roman Empire</span> which controlled much of Europe at this time, became the Grand Duke of Tuscany and ruled Florence from the imperial court in Vienna—a court much indebted to Anna Maria Luisa’s infant convulsion powder and the power of peony.
-<param ve-image
-       fit=""
-       title="Line of Sucession for the Grand Duchy of Tuscany"
-       url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Black%20and%20White%20Simple%20Corporate%20Family%20Tree.jpg">
+<param ve-image region="412,1,1423,1209" title="Line of Sucession for the Grand Duchy of Tuscany" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/master/images/Black%20and%20White%20Simple%20Corporate%20Family%20Tree.jpg">
 
 ### References 
 [^1]: Zhou Shi-Liang, Zou Xin-Hui, Zhou Zhi-Qin, Liu Jing, Xu Chao, Yu Jing, Wang Qiang, Zhang Da-Ming, Wang Xiao-Quan, Ge Song, Sang Tao, Pan Kai-Yu and Hong De-Yuan, “Multiple species of wild tree peonies gave rise to the ‘king of flowers’, Paeonia suffruticosa Andrews,” Proceedings: Biological Sciences, 22 December 2014, Vol. 281, No. 1797 (22 December 2014), pp. 1-8. 
