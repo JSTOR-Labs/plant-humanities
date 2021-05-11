@@ -1,7 +1,7 @@
-title: Juncture
-tagline: A Visual Essay Site
+title: Plant Humanities Lab
+tagline: Explore the cutural histories of plants and their influence on human societies
 banner: /images/header.jpg
-favicon: /images/favicon.svg
+favicon: /images/favicon.png
 customCSS: /css/custom.css
 
 # When using a custom domain these fields must be updated to match
@@ -16,16 +16,16 @@ nav:
 - label: About
   icon: info
   path: /about
-#- label: Contact Us
-#  icon: envelope
-#  path: "/contact-us"
+- label: Contact Us
+  icon: envelope
+  path: "/contact-us"
 
 # If the /contact-us path is defined for the nav menu a contact form will be enabled
 # The following information is used in the display and processing of the contact form.
 contactForm:
   toEmail:
-  - <contact-email>
-  subject: Contact Us
+  - ron.snyder@ithaka.org
+  subject: Plant Humanities Lab Contact
 
 #######################################################
 # Base URL of server used for serving and optionally
@@ -34,7 +34,7 @@ contactForm:
 iiifServer: https://iiif.juncture-digital.org
 
 siteAdmins:
-- <github-username>
+- rsnyder
 
 ######################################################
 # Optional credentials used for GitHub API and OAuth integration
