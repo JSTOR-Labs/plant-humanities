@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config
-       title="Nepenthes: From Exotic Curiosity to Endangered Plant"
+       title="Nepenthes: From Curious Pitcher to Endangered Plant"
        author="Kristan M. Hanson"
        source-image="blob:null/350ec559-ab4d-204b-ad69-901393a2d9adhttps://www.biodiversitylibrary.org/page/55161008"
        banner="InsektenfressenPflantzen_1_BHL.png"
