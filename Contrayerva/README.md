@@ -1,8 +1,8 @@
 <param ve-config
 	title="Contrayerva"
 	banner="https://digital.ub.uni-duesseldorf.de/download/webcache/2000/4241393"
-       layout="vtl"
-       author="Ashley Buchanan">
+       	layout="vtl"
+       	author="Ashley Buchanan">
 
 ### Drake’s Root
 In September of 1580, explorer Francis Drake became the first Englishman to circumnavigate the globe. During his three-year journey, Drake sailed west from England, through the <span data-mouseover-map-flyto="-45.56520925271492, -69.8574999781909, 3.5">Straits of Magellan (southern Chile),</span> up the west coast of South America to <span data-mouseover-map-flyto="-11.885729425910258, -70.58862061549497, 3.5">Peru,</span> and finally as far north as present-day <span data-mouseover-map-flyto="34.14627900677548, -124.64135643768574, 3.5">California</span> before crossing the Pacific Ocean. He then travelled through <span data-mouseover-map-flyto="11.525545599871606, 162.74035702251814. 3.5">Moluccas and Java (Indonesia)</span> before rounding the <span data-mouseover-map-flyto="-7.444802594154242, 22.417681622436678, 3.5">Cape of Good Hope (South Africa)</span> and returning to <span data-mouseover-map-flyto="46.45955422716802, -0.6518199562064875, 3.5">England.</span> Along the way, Drake kept personal notes and drew images of the exotic plants he encountered.
@@ -24,8 +24,8 @@ Clusius’s work recounted the story and significance of the root as it was told
 
 #### What’s in a Name?
 Unbeknownst to Clusius, he had already published information on Drake’s Root. In 1574, Clusius published his Latin translation of the first two books of Nicolas Mondardes’s Historia medicinal, which was originally published in three parts (1565, 1571 and 1574). In a 1579 Latin version of Monardes’s work, Clusius translated Monardes’s description of a root the Spanish called “contrayerva.” According to Monardes, the “roots that fight poison” came from a province in Peru called Charcas. He explained that the Spaniards who live in the Indies called it Contrayerva (which meant “antidote”), because when ground into a powder and drunk in white wine, it was an excellent remedy for “any sort of poison, which it will make the patient vomit or sweat out.”
-<param ve-image fit="contain" region="-11,11,1049,892" url="https://books.google.com/books/content?id=58VbAAAAQAAJ&hl=it&pg=PA28&img=1&zoom=3&bul=1&sig=ACfU3U301EvEkTa9RXDbUJhUZuMqsAvQbQ&w=1025">
-<param ve-image fit="contain" url="https://www.biodiversitylibrary.org/page/58480796">
+<param ve-compare sync fit="contain" region="-11,11,1049,892" url="https://books.google.com/books/content?id=58VbAAAAQAAJ&hl=it&pg=PA28&img=1&zoom=3&bul=1&sig=ACfU3U301EvEkTa9RXDbUJhUZuMqsAvQbQ&w=1025">
+<param ve-compare fit="contain" url="https://www.biodiversitylibrary.org/pageimage/58480796">
 
 Although Monardes never left Spain, he collected plants, information, and eyewitness accounts of New World medicinal plants, often recording indigenous uses in the process. Monardes even propagated and experimented with many of the plants he was sent in his garden in Seville, Spain. Like Mondardes, Clusius never traveled to the New World. Thus, two of the earliest and most important authors disseminating knowledge of New World plants into Europe relied on disparate information from European agents in the New World. This, of course, was problematic. Like Europe, the cultures of Central and South America were not monolithic and plant names and uses could, and often did, vary by region. As specimens and information on New World plants flooded Europe, confusion over plant names and identification proliferated. Between 1571 and 1686, contrayerva appeared in numerous European herbals and was identified by at least five different names.  
 (table, contrayerva names across herbals)
