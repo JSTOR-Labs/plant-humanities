@@ -1,7 +1,6 @@
 <param ve-config
 	title="Contrayerva"
-	source-image="https://upload.wikimedia.org/wikipedia/commons/8/86/Smith_-_Chinese_Tree_Peony_%28Paeonia_suffruticosa%29_-_1939.288_-_Cleveland_Museum_of_Art.jpg"
-	banner="https://upload.wikimedia.org/wikipedia/commons/8/86/Smith_-_Chinese_Tree_Peony_%28Paeonia_suffruticosa%29_-_1939.288_-_Cleveland_Museum_of_Art.jpg"
+	banner="https://digital.ub.uni-duesseldorf.de/download/webcache/2000/4241393"
        layout="vtl"
        author="Ashley Buchanan">
 
