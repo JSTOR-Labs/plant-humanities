@@ -1,6 +1,6 @@
 <param ve-config
 	title="Contrayerva"
-	banner="https://digital.ub.uni-duesseldorf.de/download/webcache/2000/4241393"
+	banner="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/Contrayerva/Contrayerva_Header.jpg"
        	layout="vtl"
        	author="Ashley Buchanan">
 
