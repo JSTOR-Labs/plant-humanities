@@ -65,7 +65,7 @@ European understandings of the dragon tree evolved as scientific botany develope
 	center="Q105967"
 	zoom="3.75">
 <param ve-map-layer
-	geojson url="/geojson/Dracaena draco native.json"
+	geojson url="/geojson/Dracaena%20draco%20native.json"
 	active>
 {#paragraph4}
 
