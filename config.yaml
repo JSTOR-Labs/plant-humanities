@@ -8,7 +8,7 @@ favicon: /images/favicon.png
 acct: jstor-labs
 repo: plant-humanities
 ref: v1.1.0
-gaTrackingID: UA-125778965-7
+gaPropertyID: UA-125778965-7
 
 ######################################################
 # Defines options shown in the header navigation menu
@@ -20,6 +20,9 @@ nav:
 - label: Help
   icon: question
   path: /docs
+- label: Contributors
+  icon: user-friends
+  path: /contributors
 #- label: Contact Us
 #  icon: envelope
 #  path: "/contact-us"
