@@ -10,6 +10,7 @@ customCSS: /css/custom.css
 #repo: <GitHub repository>
 
 ref: v1.1.0
+gaPropertyID: UA-125778965-7
 
 ######################################################
 # Defines options shown in the header navigation menu
@@ -21,12 +22,15 @@ nav:
 - label: Contact Us
   icon: envelope
   path: "/contact-us"
+- label: Contributors
+  icon: user-friends
+  path: /contributors
 
 # If the /contact-us path is defined for the nav menu a contact form will be enabled
 # The following information is used in the display and processing of the contact form.
 contactForm:
   toEmail:
-  - ron.snyder@ithaka.org
+  - labs@ithakaorg.onmicrosoft.com
   subject: Plant Humanities Lab Contact
 
 #######################################################
