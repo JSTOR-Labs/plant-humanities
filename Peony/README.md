@@ -47,8 +47,8 @@ Peony is the single genus in the _Paeoniaceae_ family, which has about 30 specie
 <param ve-map-layer geojson url="/geojson/peony.json" title="Peony Distribution" active> 
 
 Two species of _Paeonia_ were particularly important in ancient Chinese medical practice, <span id="Q163076">_Paeonia lactiflora_,</span> which was the primary source of both white peony and red peony, and <span id="Q163018">_Paeonia suffruticosa_,</span> commonly known as the tree peony or moutan. The earliest record of the use of peony in Chinese medicine was discovered in an imperial Chinese Han tomb (25–220 CE). Writings within the tomb tell that peony root (called “danpi”), likely _P. suffruticosa,_ was used to treat blood stasis nearly 2,000 years ago.[^6]
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0153623">
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000687216">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0153623" region="-587,1236,7046,5625">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000687216" region="0,5,6524,5209">
 
 In 1644, and a testament to peony’s long history as an important medicinal simple, a high <span id="Q9903">Ming</span> illustrated <span id="Q6165948">herbal,</span> Bencao tupu 本草圖譜, beautifully depicted _P. lactiflora,_ also known as common Chinese garden peony. _P. lactiflora_ is the source of both red and white Chinese garden peony and both were (and remain) important medicinal herbs in traditional Chinese medicine. According to the herbal, _P. lactiflora_ was used to treat gynecological symptoms including hot flashes and irregular menstrual cycles. It was also used in the treatment of high blood pressure and inflammation.[^7] The compound Chinese characters for white peony, “Shaoyao,” and the variant for red peony, "Hongyao," (written in the top right corner of the illustration) reveal the plant’s importance in medicine. The first character of both, “shao” and "hong," refer to the peony plant, while the second character “yao” means medicine. And so, both mean “the medicine made from peony.”[^8]
 <param ve-image
