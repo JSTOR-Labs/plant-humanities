@@ -770,6 +770,22 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4e8f00",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "label": "Tenochtitlan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.129638671875,
+          19.442636882017407
+        ]
+      }
     }
   ]
 }
