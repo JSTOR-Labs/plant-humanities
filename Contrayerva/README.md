@@ -48,8 +48,8 @@ The Florentine Codex describes coanenepilli as a white root with a thick outer s
 <param ve-image url="https://www.wdl.org/en/item/10096/view/3/602/">
 
 The posthumous works of Francisco Hernandez also documented the uses and virtues of Nahua coanenepilli. Sponsored by the King of Spain, Phillip II, Francisco Hernández traveled to New Spain in 1570 and spent 7 years traveling around Mexico and collecting specimens and indigenous knowledge of plants and animals. Hernández’s identified at least two varieties of coanenepilli, which he described as physically different, but endowed with the same properties. Thus, according to Hernández, both were used locally to treat pulmonary affections and fevers. Unfortunately, Hernández’s research was not immediately published upon his return to Spain, and much of it was later destroyed by fire. Surviving notes from Hernández were eventually compiled and published, but these notes contained no images, just brief descriptions of the two kinds of coanenepilli.
-<param ve-image url="https://www.biodiversitylibrary.org/page/42728883">
-<param ve-image url="https://www.biodiversitylibrary.org/page/55231362">
+<param ve-image url="https://www.biodiversitylibrary.org/pageimage/42728883">
+<param ve-image url="https://www.biodiversitylibrary.org/pageimage/55231362">
 
 These few surviving sources on Nahua materia medica, produced by the Spanish in collaboration with local informants, offer different descriptions and illustrations of several plants all identified as coanenepilli. Scholars postulate that these sources associate the name coanenepilli (and its spelling variants) with at least three different plants. Two of these are now believed to be Dorstenia contrayerva L. (contrayerva) and Passiflora (passionflower, possibly Passiflora jorullensis). Historian Emily Walcott Emmart noted the plant illustrated in the Badianus does not physically match either Dorstenia contrayerva L or Passiflora. Instead, she postulated that the plant depicted as coanenepilli in the Badianus was a species of Dahlia.
 Specimens of all three
