@@ -78,7 +78,7 @@ As we can see, indigenous knowledge of coanenepilli was in many ways misundersto
 <param ve-image url="https://www.biodiversitylibrary.org/pageimage/673094">
 
 Due to a lack of surviving textual evidence and the erasure of Nahua medicinal knowledge over the course of Spanish colonization, we may never fully understand the cultural histories and significance of coanenepilli. Identifying plants through texts across languages, geographies, and historic periods is difficult and imperfect. As we can see, plants like contrayerva are often not simply a single plant that can be trace through translation and text. Despite these challenges, understanding contrayerva’s indigenous roots highlights the circulation and dynamic nature of indigenous knowledge as well as how threads of such knowledge, although formed and reformed, also became politically and socially valuable as they were assimilated into European pharmacopeias.[^13]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/33/Dorstenia_contrajerva.jpg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/33/Dorstenia_contrajerva.jpg" region="0,2190,4012,3474">
 
 ## References
 [^1]: Egmond, Florike. _The World of Carolus Clusius_. Vol. 6. Perspectives in Economic and Social History. London: Routledge, 2010.
