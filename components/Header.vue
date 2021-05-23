@@ -52,7 +52,7 @@
 
         <div class="homepage-header">
           <div id="logo" ref="logo">
-            <img src="images/phl-website-png-logo.png" xlink:href="/images/phl-website-svg-logo.svg" />
+            <img :src="`${contentSource.assetsBaseUrl}/images/phl-website-png-logo.png`" xlink:href="/images/phl-website-svg-logo.svg" />
           </div>
 
           <div id="brand" ref="brand">
@@ -352,7 +352,7 @@
     padding: 0 0 6px 50px;
     align-self: center;
   }
-  
+
   .header-wrapper {
     display: grid;
     grid-template-columns: auto;
