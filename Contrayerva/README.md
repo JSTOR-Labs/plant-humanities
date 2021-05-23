@@ -28,7 +28,7 @@ Unbeknownst to Clusius, he had already published information on Drake’s Root. 
 <param ve-image fit="contain" url="https://www.biodiversitylibrary.org/pageimage/58480797">
 
 Although Monardes never left Spain, he collected plants, information, and eyewitness accounts of New World medicinal plants, often recording indigenous uses in the process. Monardes even propagated and experimented with many of the plants he was sent in his garden in Seville, Spain. Like Mondardes, Clusius never traveled to the New World. Thus, two of the earliest and most important authors disseminating knowledge of New World plants into Europe relied on disparate information from European agents in the New World. This, of course, was problematic. Like Europe, the cultures of Central and South America were not monolithic and plant names and uses could, and often did, vary by region. As specimens and information on New World plants flooded Europe, confusion over plant names and identification proliferated. Between 1571 and 1686, contrayerva appeared in numerous European herbals and was identified by at least five different names.  
-<param ve-map center="-5.576670581575259, -64.55630843462136" zoom="3">
+<param ve-map center="-9.130550123807534, -70.78263840714388" zoom="3.5">
 <param ve-map-layer geojson title="Map of Latin America displaying the approximate regional footprint of indigenous populations prior to Spanish conquests." url="pre_conquest.json">
 
 ### Translating Nature
