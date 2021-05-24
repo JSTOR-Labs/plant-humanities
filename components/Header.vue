@@ -252,6 +252,7 @@
       resultsList: null,
       comboBox: null,
       doActionResponse: {},
+      externalWindow: null,
 
       // for contact-us email
       contactName: null,
@@ -461,7 +462,13 @@
         this.$emit('reset')
       },
       openSearchTool(eid) {
-        console.log(`openSearchTool: eid=${eid}`)
+        this.openWindow(`https://search.plant-humanities.org/?eid=${eid}${this.selectedLanguage !== 'en' ? '&language='+this.selectedLanguage : ''}`, `toolbar=yes,location=yes,menubar=yes,scrollbars=yes,status=yes,titlebar=yes,left=0,top=0,width=1001,height=1200`)
+      },
+      openWindow(url, options) {
+        console.log('openWindow', url)
+        if (this.externalWindow) { this.externalWindow.close() }
+        if (options === undefined) options = 'toolbar=yes,location=yes,scrollbars=yes,status=yes,left=0,top=0,width=1000,height=1200'
+        this.externalWindow = window.open(url, '_blank', options)
       },
 
       doSearch() {
@@ -1186,10 +1193,16 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
 
-  #menu li {
+#menu li {
     display: flex;
-    /* padding: 0.5em 0; */
-    font-size: 1em;
+    padding: 0.5em 0;
+    font-size: 1.1em;
+  }
+
+  #menu li i {
+    width: 20px;
+    margin-right: 10px;
+    text-align: center;
   }
 
   #menu li:hover {
