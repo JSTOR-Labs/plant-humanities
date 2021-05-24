@@ -10,11 +10,11 @@
         <span></span>
         <ul id="menu">
 
-          <li @click="doMenuAction('menu-item-clicked', '/')"><i :class="`fas fa-home`"></i>Home</li>
+          <li @click="doMenuAction('loadEssay', '/')"><i :class="`fas fa-home`"></i>Home</li>
 
           <!--  Adds menu items defined in site config.yaml -->
           <template v-for="item in siteConfig.nav">
-            <li :key="item.path" @click="doMenuAction('menu-item-clicked', item.path)"><i :class="`fas fa-${item.icon}`"></i>{{item.label}}</li>
+            <li :key="item.path" @click="doMenuAction('loadEssay', item.path)"><i :class="`fas fa-${item.icon}`"></i>{{item.label}}</li>
           </template>
 
           <template v-if="isJuncture">
@@ -407,10 +407,10 @@
       doMenuAction(action, options) {
         console.log(`doMenuAction=${action}`, options)
         document.querySelector('#menuToggle input').checked = false
-        if (action === 'menu-item-clicked' && options === '/contact-us') {
+        if (action === 'loadEssay' && options === '/contact-us') {
           this.showForm('contact-form')
         } else {
-          this.$emit('do-action', 'loadEssay', options)
+          this.$emit('do-action', action, options)
         }
       },
       
