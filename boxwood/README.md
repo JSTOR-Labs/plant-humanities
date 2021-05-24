@@ -73,7 +73,7 @@ Boxwood is a genus of evergreen shrubs that enjoys great commercial success as o
 <param title="Buxus" eid="Q158703" aliases="Boxwood">
 <param title="shrub" eid="Q42295" aliases="shrubs">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/02768200c2c5f6bd7d2b1c6a123cf09f28211b427ee28534a518bc813530d9d4"
+	manifest="https://iiif.juncture-digital.org/manifest/02768200c2c5f6bd7d2b1c6a123cf09f28211b427ee28534a518bc813530d9d4"
 	region="154,53,900,667">
 {#paragraph2}
 
@@ -125,21 +125,21 @@ Given this close association of boxwood with the gardens of Roman antiquity, it 
 <param title="espalier"	eid="Q1754876" aliases="espaliers">
 <param title="hedge" eid="Q235779" aliases="hedges">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/28484e1b7b9ba3b6c7736369ee21dd6145039cccec8188da95f5bfeccc43e51b">
+	manifest="https://iiif.juncture-digital.org/manifest/28484e1b7b9ba3b6c7736369ee21dd6145039cccec8188da95f5bfeccc43e51b">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/b8d5a9d47b3bb7c2c8cf6080c227831703ed5940d2db0ecb5a5db2235e41b67b">
+	manifest="https://iiif.juncture-digital.org/manifest/b8d5a9d47b3bb7c2c8cf6080c227831703ed5940d2db0ecb5a5db2235e41b67b">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/898b77de539e0992b230af2296a11e35384bb8ab2b085f5efdc97c21d0b8d4b4">
+	manifest="https://iiif.juncture-digital.org/manifest/898b77de539e0992b230af2296a11e35384bb8ab2b085f5efdc97c21d0b8d4b4">
 {#paragraph5}
 
 The real issue with boxwood was what sixteenth-century English physician John Gerard described as the “evil and loathsome smell,” which, according to Soderini, was not only “annoying,” but could give one headaches as it “infested the air.”[^ref11] To mitigate the odor, the recommended solution was to plant boxwood in combination with other strongly scented evergreens such as myrtle, mastic, and rosemary.[^ref12] These mixed hedges benefitted from the robust texture of boxwood. Boxwood’s other selective use, also due to its thick and dense foliage, was planting it in thicket-like bird trapping grounds, _ragnaie_.[^ref13] Yet, compared to other plants that could serve analogous purposes or occupy the same garden spaces, boxwood, in Soderini’s words, was “valued little or not at all.”[^ref14]
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/053b7b45fbfa7112a17dbf9f4a4ee1807f56ee8f3f252d5b8d68ae57cc6ced25">
+	manifest="https://iiif.juncture-digital.org/manifest/053b7b45fbfa7112a17dbf9f4a4ee1807f56ee8f3f252d5b8d68ae57cc6ced25">
 {#paragraph6}
 
 Boxwood’s potential medicinal applications met with a similar lack of enthusiasm. Despite an attempt by Amato Lusitano, a sixteenth-century Portuguese Jewish physician, to prove that boxwood was a native European analogue of guaiacum and could, therefore, potentially cure syphilis, the general consensus—endorsed by the leading writer on _materia medica_, Pietro Andrea Mattioli—was that it “had no use in medicine.” Lusitano’s claim was dismissed as “vain and foolish,” which “could in no way be acceptable to doctors.”[^ref15] Such pronouncements against boxwood, which was considered of “no physical use among the most and best physicians,” were sustained by the Englishman John Parkinson (who, however, noted that its leaves could be given to horses as a cure for botfly larvae); Gerard raged against “foolish empirics and women leeches” who “minister it against apoplexy and such diseases.”[^ref16] This negative opinion continued to pervade early modern medical thought, while boxwood’s known curative properties, especially as a styptic, generally remained ignored. 
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/995bf168dc62df827f35c41106a1654d824b59f12f06c57325873ef85ea0c660"
+	manifest="https://iiif.juncture-digital.org/manifest/995bf168dc62df827f35c41106a1654d824b59f12f06c57325873ef85ea0c660"
 	region="1,1157,1006,746">
 {#paragraph7}
 
@@ -147,12 +147,12 @@ Boxwood’s potential medicinal applications met with a similar lack of enthusia
 
 If Mattioli and Parkinson considered boxwood primarily an ornamental plant “well adapted to weaving espaliers in gardens and dividing one space from another,”[^ref17] its slow growth rate had important industrial implications. Hardened through the process of gradual maturation, its timber acquired such valued qualities as durability and density, making it indeed similar to guaiacum.[^ref18] Boxwood, according to Soderini, could last “forever” and “was good for the printing industry and other fine woodwork.”[^ref19] Since it lent itself well to lathing, Gerard considered it particularly suitable for “dagger hafts, boxes, and suchlike uses.”[^ref20] Sixteenth-century Netherlandish rosary beads—true miracles of late Gothic craftsmanship—testify to these remarkable properties. These exquisite boxwood carvings, which often measure less than two inches in diameter, could represent on a tiny scale multi-figure biblical scenes without losing any of their dramatic intensity.
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/75e0eec57b72e4c946de7e6d55cc037cc0c3ca7bd182389978a0fc1fb80a4ecd">
+	manifest="https://iiif.juncture-digital.org/manifest/75e0eec57b72e4c946de7e6d55cc037cc0c3ca7bd182389978a0fc1fb80a4ecd">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/9a2f6a395efb3e5f6f26a9b22e72d85048dd9c1ca0e4bb186596c226fcc4dffa"
+	manifest="https://iiif.juncture-digital.org/manifest/9a2f6a395efb3e5f6f26a9b22e72d85048dd9c1ca0e4bb186596c226fcc4dffa"
 	region="109,1836,2762,2043">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/32f8b253d8502aa0d6b81a8d79ae810bb863d3e50cc604840fb2b9b76ab2af8c"
+	manifest="https://iiif.juncture-digital.org/manifest/32f8b253d8502aa0d6b81a8d79ae810bb863d3e50cc604840fb2b9b76ab2af8c"
 	region="133,185,2777,2083">
 {#paragraph8}
 
@@ -194,22 +194,22 @@ Mollet’s planting and stylistic innovations gained the fullest expression in t
 	rotate="90"
 	region="42,362,2798,3776">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/4836a663d686ab92341e18a9e5fac65a0dc9bedd20731579b465a00312ea9ccf">
+	manifest="https://iiif.juncture-digital.org/manifest/4836a663d686ab92341e18a9e5fac65a0dc9bedd20731579b465a00312ea9ccf">
 {#paragraph11}
 
 Closely connected with these expatriate circles was British landscape architect Cecil Pinsent, another contemporary of Farrand’s, who extensively used boxwood in his landscaping projects. Most famous among his gardens was the Villa I Tatti in Settignano, Italy, designed for the American art historian and connoisseur Bernard Berenson. Another celebrated work was the lower terrace of the fifteenth-century Villa Medici in Fiesole that Pinsent furnished with a “carpet of box parterre,” regarded by landscape historian Geoffrey Jellicoe as fully integral to the historic character of the property.[^ref29] Popularized by postcards and book illustrations, Pinsent’s design became an iconic image of the Italian Renaissance garden, with its boxwood geometry—purposely projected into the Medicean age—serving as a visible bridge between distant antiquity and a more recent but equally glorious past.
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/3434cbf15d027379448579e37c698f3891c9a454522d0303a25b8d142b0cc8a7">
+	manifest="https://iiif.juncture-digital.org/manifest/3434cbf15d027379448579e37c698f3891c9a454522d0303a25b8d142b0cc8a7">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/8fde03beeab49e3840a4eebbdaa62e777b19a4966c2b5942fe539d6f4f73ebab">
+	manifest="https://iiif.juncture-digital.org/manifest/8fde03beeab49e3840a4eebbdaa62e777b19a4966c2b5942fe539d6f4f73ebab">
 {#paragraph12}
 
 ### Humble Yet Resilient
 
 Deeply invested with cultural symbolism, boxwood represents the rich legacy of the formal gardens of Europe characterized by geometric layout, controlling vistas, and ambitious scale. Characterized by climate resistance and malleability, it has served not merely as plant material, but a key medium of stylistic expression across the globe, reflecting a horticultural tradition with origins in antiquity. The story of boxwood is that of a humble yet resilient plant, which, after centuries of disparagement and neglect, succeeded in taking over the garden world. Whether or not it would be able retain this hard-earned preeminence as the most sought-after ornamental shrub, only time can tell.[^ref30]
-<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/4237c4dfddd068b0d5894b20861e4e8a8ff60081635f996d3c4f735e93a02749">
-<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/1a99f1186016ea3c9d5ac1bc9731d95ae92cceb33b6182fc2ffdb262df9fd5a8">
-<param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/437fe47876571b3be6b9b6a527af70083d56c51e89a4dd98ff4848da57bc8246">
+<param ve-image manifest="https://iiif.juncture-digital.org/manifest/4237c4dfddd068b0d5894b20861e4e8a8ff60081635f996d3c4f735e93a02749">
+<param ve-image manifest="https://iiif.juncture-digital.org/manifest/1a99f1186016ea3c9d5ac1bc9731d95ae92cceb33b6182fc2ffdb262df9fd5a8">
+<param ve-image manifest="https://iiif.juncture-digital.org/manifest/437fe47876571b3be6b9b6a527af70083d56c51e89a4dd98ff4848da57bc8246">
 {#paragraph13}
 
 ### References

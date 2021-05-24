@@ -23,11 +23,11 @@ mint							/images/mintcollage.jpg
 mint						Menta or Mint, L. Fuchs, *De historia stirpium commentarii*, Wellcome Collection	https://upload.wikimedia.org/wikipedia/commons/1/15/L._Fuchs%2C_De_historia_stirpium_commentarii_Wellcome_L0013945.jpg
 arbor_vitae						Theatrum botanicum, 1640	https://www.biodiversitylibrary.org/pageimage/56601375
 arbor_vitae						Cartier at Hochelaga	https://upload.wikimedia.org/wikipedia/commons/2/25/Jacques_Cartier_a_Hochelaga.jpg
-arbor_vitae						Isosyntype of _Abies balsamea_	https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/00/gpi-nebc-typspe-01-19/nebc0008/nebc00056528.jp2
-arbor_vitae						Holotype of _Picea glauca_	https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/00/gpi-a-typspe-01-57/a0002/a00022322.jp2
-arbor_vitae						Holotype of _Picea mariana_	https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/00/gpi-a-typspe-01-57/a0006/a00022346.jp2
-arbor_vitae						Type of _Pinus strobus_	https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/alukaplant/l/phase_01/l0001/l0820001.jp2
-arbor_vitae						Lectotype of _Thuja occidentalis_	https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/05/gpi-linn-typspe-01-04/linn0001/linn-hl1136-1.jp2
+arbor_vitae						Isosyntype of _Abies balsamea_	https://iiif.juncture-digital.org/gp-proxy/jp2/fpx/00/gpi-nebc-typspe-01-19/nebc0008/nebc00056528.jp2
+arbor_vitae						Holotype of _Picea glauca_	https://iiif.juncture-digital.org/gp-proxy/jp2/fpx/00/gpi-a-typspe-01-57/a0002/a00022322.jp2
+arbor_vitae						Holotype of _Picea mariana_	https://iiif.juncture-digital.org/gp-proxy/jp2/fpx/00/gpi-a-typspe-01-57/a0006/a00022346.jp2
+arbor_vitae						Type of _Pinus strobus_	https://iiif.juncture-digital.org/gp-proxy/jp2/fpx/alukaplant/l/phase_01/l0001/l0820001.jp2
+arbor_vitae						Lectotype of _Thuja occidentalis_	https://iiif.juncture-digital.org/gp-proxy/jp2/fpx/05/gpi-linn-typspe-01-04/linn0001/linn-hl1136-1.jp2
 arbor_vitae						A case of Scurvy journal of Henry Walsh	https://upload.wikimedia.org/wikipedia/commons/c/c8/A_case_of_Scurvy_journal_of_Henry_Walsh_Mahon.jpg
 arbor_vitae						The vitamin C in lemon and oranges compared to the needles and bark of several conifers	/images/Vitamin%20C%20in%20conifers.jpg
 arbor_vitae						Gardens of Fontainebleau	https://upload.wikimedia.org/wikipedia/commons/8/83/Fontainebleau_bird%27s_eye_view.jpg
@@ -63,7 +63,7 @@ Heliconia.orig						The eight families of the order Zingiberales showing the rel
 Heliconia.orig						Photograph of John Kress (center) and team with the newly-found _Heliconia_.	https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/exhibition-images/14-john-kress-finding-heliconia.jpg/@@images/21b338bf-3b3b-4f38-a159-d728bdf9baea.jpeg
 Heliconia.orig						Alice Tangerini, _Heliconia chartacea  var. meeana_	https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/mixed-media/heliconia-chartacea-var-meeana/@@images/image
 Heliconia.orig						Margaret Mee, _Heliconia  psittacorum_, Dumbarton Oaks	https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/plant-portraits/19/@@images/image
-Heliconia.orig						Herbarium specimen of _Heliconia chartacea_, from the Rio Janeiro Botanical Garden	https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/alukaplant/rb/phase_01/rb0005/rb00287315.jp2
+Heliconia.orig						Herbarium specimen of _Heliconia chartacea_, from the Rio Janeiro Botanical Garden	https://iiif.juncture-digital.org/gp-proxy/jp2/fpx/alukaplant/rb/phase_01/rb0005/rb00287315.jp2
 Heliconia.orig						Curtis’ Botanical Magazine, _Heliconia  psittacorum_, via BHL	https://www.biodiversitylibrary.org/pageimage/469079
 Heliconia.orig						Curtis’ Botanical Magazine, _Heliconia  psittacorum_, via BHL	https://www.biodiversitylibrary.org/pageimage/469080
 Heliconia.orig						Bryan Poole, _Heliconia bihai_ with female hummingbirds	https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/amazonian-entanglements/heliconia-bihai/@@images/518bb71b-5539-45b3-ac09-b2f8edac97fd.jpeg
@@ -84,9 +84,9 @@ Corpse_Flower						Indonesian men pose with two Amorphophallus plants (one in bl
 Corpse_Flower	Wikimedia Commons					Corpse Flower Bloom, Kew, 1901	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/Kew_historic_Corpse_Flower.jpg
 Corpse_Flower						IUNC Red List Map Extant (resident) _Amorphophallus titanum_ species 2018	https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/images/iunc_CF.jpg
 Corpse_Flower						Mark Hachadourian with a Corpse Flower at the NYBG	https://www.nybg.org/content/uploads/2018/06/mco-6927-1_1-768x768.jpg
-cacao						Botanical illustration of _Theobroma cacao_ by Everard Kickius (likely 1700 or 1701) of specimen from  Sir Hans Sloane's collection	https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/16/gpi-bm-typspe-01-78/bm0007/bm000589107.jp2
+cacao						Botanical illustration of _Theobroma cacao_ by Everard Kickius (likely 1700 or 1701) of specimen from  Sir Hans Sloane's collection	https://iiif.juncture-digital.org/gp-proxy/jp2/fpx/16/gpi-bm-typspe-01-78/bm0007/bm000589107.jp2
 cacao						Botanical illustration of _Theobroma cacao_ by Friedrich Guimpel (~1805-1846)	https://upload.wikimedia.org/wikipedia/commons/3/3c/Friedrich_Gottlob_Hayne14.jpg
-cacao						Herbarium specimen of _Theobroma cacao_ collected by F. Miranda in Chiapas, Mexico (1962)	https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/15/ap_01_us0005/us00102185.jp2
+cacao						Herbarium specimen of _Theobroma cacao_ collected by F. Miranda in Chiapas, Mexico (1962)	https://iiif.juncture-digital.org/gp-proxy/jp2/fpx/15/ap_01_us0005/us00102185.jp2
 cacao						The Badianus Manuscript	https://upload.wikimedia.org/wikipedia/commons/d/d8/Badianus_Codex%3B_photograph_of_open_book_Wellcome_L0021272.jpg
 cacao						Colegio Santa Cruz in Tlatelolco, Mexico with Mexica buildings in foreground	https://upload.wikimedia.org/wikipedia/commons/0/04/Tlatelolco_e_iglesia_de_Santiago_Tlatelolco%2C_M%C3%A9xico_D.F.%2C_M%C3%A9xico%2C_2013-10-16%2C_DD_25.JPG
 cacao						Flowering cacao	https://upload.wikimedia.org/wikipedia/commons/6/66/Cacao_Flor.JPG
