@@ -47,7 +47,7 @@
       </div>
     </nav>
 
-    <template v-if="path === '/'">
+    <template v-if="isHomePage">
       <div class="header-wrapper">
 
         <div class="homepage-header">
@@ -141,10 +141,61 @@
       <div class="title-bar">
         <div class="title" v-html="title"></div>
         <div class="author" v-html="author"></div>
+        <div class="buttons">
+          <button @click="showForm('citation-export-form')"><i class="fas fa-quote-left"></i>Cite this essay</button>
+          <button><i class="fas fa-search"></i>More resources</button>
+        <div>
       </div>
-    
+  
     </template>
+
+    <!-- Contact form -->
+    <div id="contact-form" class="modal-form" style="display: none;">
+      <form v-on:submit.prevent>
+        <h1>Contact us</h1>
+        <input v-model="contactName" name="name" placeholder="Name" class="form-name" type="text" required>
+        <input v-model="contactEmail" placeholder="Email" class="form-email" type="email" required>
+        <textarea v-model="contactMessage" placeholder="Your message here" class="form-message" type="text" required></textarea>
+        <div v-html="doActionResponse.message"></div>
+        <div class="form-controls">
+          <button v-if="!doActionResponse.status" class="form-cancel" formnovalidate @click="hideForm">Cancel</button>
+          <button v-if="!doActionResponse.status" class="form-submit" @click="submitContactForm">Send</button>
+          <button v-if="doActionResponse.status === 'done'" class="form-submit" @click="hideForm">Close</button>
+        </div>
+      </form>
+    </div>
     
+    <!-- Citation export form -->
+      <div id="citation-export-form" class="modal-form" style="display: none;">
+      <div class="entity-infobox" id="cite-modal" title="Citation saved to clipboard">
+        <div class="dialog-header">
+          <button class="close-button" @click="hideForm('citation-modal')">
+            <i class="fas fa-times"></i>
+          </button>
+          <h3 class="entity-title">Cite this essay</h3>
+        </div>
+
+        <div class="subtitle">MLA</div>
+        <div class="citation-wrapper">
+          <div class="citation-text" @click="copyTextToClipboard" v-html="mlaCitation"></div>
+          <div class="copy-citation" @click="copyCitationToClipboard(`${mlaCitation}`)" title="Copy to clipboard">Copy</div>
+        </div>
+        
+        <div class="subtitle">APA</div>
+        <div class="citation-wrapper">
+          <div class="citation-text" @click="copyTextToClipboard" v-html="apaCitation"></div>
+          <div class="copy-citation" @click="copyCitationToClipboard(`${apaCitation}`)" title="Copy to clipboard">Copy</div>
+        </div>
+
+        <div class="subtitle">Chicago</div>
+        <div class="citation-wrapper">
+          <div class="citation-text" @click="copyTextToClipboard" v-html="chicagoCitation"></div>
+          <div class="copy-citation" @click="copyCitationToClipboard(`${chicagoCitation}`)" title="Copy to clipboard">Copy</div>
+        </div>
+
+      </div>
+    </div>
+
   </div>
 </template>
 
@@ -185,6 +236,7 @@
       isAdmin: { type: Boolean, default: false },
       loginsEnabled: { type: Boolean, default: false },
       contentSource: { type: Object, default: () => ({}) },
+      doActionCallback: { type: Object, default: () => ({}) },
       version: { type: String, default: '' },
     },    
     data: () => ({
@@ -198,9 +250,21 @@
       input: null,
       dropdownArrow: null,
       resultsList: null,
-      comboBox: null
+      comboBox: null,
+      doActionResponse: {},
+
+      // for contact-us email
+      contactName: null,
+      contactEmail: null,
+      contactMessage: null,
+
+      // for citation export
+      mlaCitation: null,
+      apaCitation: null,
+      chicagoCitation: null
     }),    
     computed: {
+      isHomePage() { return this.path === '/' },
       containerStyle() { return { 
         height: this.active ? `${this.scrollTop < 400 ? 400 - this.scrollTop : 0}px` : '0',
         backgroundColor: 'white',
@@ -221,10 +285,133 @@
         this.comboBox = document.querySelector('.autocomplete__container')
       },
 
+      async getCitationData(eid) {
+        console.log(`getCitationData: eid=${eid}`)
+        let resp = await fetch(`https://www.wikidata.org/wiki/Special:EntityData/${eid}.json`)
+        if (resp.ok) {
+          resp = await resp.json()
+          if (resp.entities && resp.entities[eid]) this.formatCitations(resp.entities[eid])
+        }
+      },
+
+      async getEntityLabels(entity) {
+        let labels = {}
+        let eids = new Set()
+        Object.values(entity.claims).forEach(claims => claims.forEach(claim => {
+          if (claim.mainsnak.datavalue.type === 'wikibase-entityid') eids.add(claim.mainsnak.datavalue.value.id) }))
+        console.log(eids, eids.size)
+        if (eids.size > 0) {
+          let values = eids.map(eid => `(<http://www.wikidata.org/entity/${eid}>)`).join(' ')
+          let query = `SELECT ?item ?label WHERE { VALUES (?item) { ${values} } ?item rdfs:label ?label . FILTER(LANG(?label) = 'en')}`
+            let resp = await fetch(`https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`, {
+              method: 'GET',
+              headers: { Accept: 'application/sparql-results+json', 'User-agent': 'Juncture web client' }
+            })
+            resp = await resp.json()
+            resp.results.bindings.forEach(rec => labels[rec.item.value.split('/').pop()] = rec.label.value)
+        }
+        return labels
+
+      },
+      
+      async formatCitations(entity){
+        // console.log(`formatCitation`, entity)
+        let labels = await this.getEntityLabels(entity)
+        let claims = entity.claims
+      
+        let authors = []
+        if (claims['P50']) {
+          authors = [
+            ...authors, 
+            ...claims['P50']
+              .map(claim => claim.mainsnak.datavalue.value)
+              .map(val => val['entity-type'] === 'item' ? labels[val.id] : val.value)
+          ]
+        }
+        if (claims['P2093']) { // author name string
+          authors = [
+            ...authors, 
+            ...claims['P2093'].map(claim => claim.mainsnak.datavalue.value)
+          ]
+        }
+        let title = claims['P1476'] ? claims['P1476'][0].mainsnak.datavalue.value.text : ''
+
+        let sponsors = claims['P859']
+          ? claims['P859']
+            .map(claim => claim.mainsnak.datavalue.value)
+            .map(val => val['entity-type'] === 'item' ? labels[val.id] : val.value)
+          : []
+        let sponsor = sponsors.length > 0 ? sponsors[0] : ''
+
+        let publishDate = '2021'
+        let accessDate = new Date()
+        let url = claims['P953'] ? claims['P953'][0].mainsnak.datavalue.value : ''
+
+        // console.log(`title="${title}" authors=${authors} sponsor=${sponsor} url=${url} publishDate=${publishDate} accessDate=${accessDate}`)
+
+        //format authors
+        let mlaAuthor = ''
+        let apaAuthor = ''
+        let chicagoAuthor = ''
+
+        if (authors.length > 0) {
+          let splitAuthor = authors[0].split(' ');
+          mlaAuthor = splitAuthor[splitAuthor.length-1] + ', ' + splitAuthor.slice(0, splitAuthor.length-1).join(' ')
+          apaAuthor = splitAuthor[splitAuthor.length-1] + ', ' + splitAuthor[0].charAt(0)
+          chicagoAuthor = splitAuthor[splitAuthor.length-1] + ', ' + splitAuthor.slice(0, splitAuthor.length-1).join(' ')
+
+          if (authors.length > 1){
+            for (var i = 1; i < authors.length; i++){
+
+              if (i == authors.length-1){
+                mlaAuthor += ', and ' + authors[i]
+                apaAuthor += '., & ' + authors[i].split(' ').pop()+ ', ' + authors[i].split(' ')[0].charAt(0)
+                chicagoAuthor += ', and ' + authors[i]
+              }
+              else {
+                mlaAuthor += ', ' + authors[i]
+                apaAuthor += '., ' + authors[i].split(' ').pop()+ ', ' + authors[i].split(' ')[0].charAt(0)
+                chicagoAuthor += ', ' + authors[i]
+
+              }
+            }
+          }
+          
+          mlaAuthor += '. '
+          apaAuthor += '. '
+          chicagoAuthor += '. '
+        }
+
+        //mla
+        let mla = mlaAuthor + '<i>' + title + '</i>. ' + sponsors + ', ' + publishDate + '. '
+        this.mla += url + '. Accessed ' + accessDate.getDate() + ' ' + accessDate.toLocaleString('default', { month: 'short' }) + '. ' + accessDate.getFullYear()+ '.' 
+        this.mlaCitation = mla
+
+        //apa
+        this.apaCitation = apaAuthor + '('+ publishDate + '). ' + '<i>'+title+'</i>. ' + sponsor + '.'
+
+        //chicago
+        this.chicagoCitation = chicagoAuthor + '<i>'+title+'</i>. ' + sponsor + ', '
+      },
+
+      copyTextToClipboard(e) {
+        if (navigator.clipboard) navigator.clipboard.writeText(e.target.textContent)
+      },
+
+      copyCitationToClipboard(citation) {
+        if (navigator.clipboard){
+          navigator.clipboard.writeText(citation)
+        }
+      },
+
       doMenuAction(action, options) {
+        console.log(`doMenuAction=${action}`, options)
         document.querySelector('#menuToggle input').checked = false
-        console.log(`doMenuAction: action=${action}`)
-        this.$emit(action, options)
+        if (action === 'menu-item-clicked' && options === '/contact-us') {
+          this.showForm('contact-form')
+        } else {
+          this.$emit('do-action', 'loadEssay', options)
+        }
       },
       
       inputHandler: _.throttle(function () {
@@ -294,8 +481,40 @@
             .finally(() => (this.isSearching = false))
       },
 
+      showForm(formId) {
+        document.getElementById('app').classList.add('dimmed')
+        let form = document.getElementById(formId)
+        form.style.display = 'unset'
+        form.classList.add('visible-form')
+      },
+
+      hideForm() {
+        document.getElementById('app').classList.remove('dimmed')
+        let form = document.querySelector('.visible-form')
+        form.style.display = 'none'
+        form.classList.remove('visible-form')
+        this.doActionResponse = {}
+      },
+
+      submitContactForm() {
+        this.$emit('do-action', 'send-email', {
+          fromAddress: `${this.contactName} <${this.contactEmail}>`,
+          toAddress: this.siteConfig.contactForm.toEmail,
+          messageSubject: this.siteConfig.contactForm.subject,
+          messageBodyText: `${this.contactMessage}\n\r[Sent by: ${this.contactName} <${this.contactEmail}>]`,
+        })
+      }
+
     },
-    watch: {}
+    watch: {
+      doActionCallback(resp) { this.doActionResponse = resp },
+      essayConfig: {
+        handler: function (essayConfig) {
+          if (!this.isHomePage && essayConfig.eid) this.getCitationData(essayConfig.eid)
+        },
+        immediate: true
+      }
+    }
   }
 </script>
 
@@ -324,11 +543,11 @@
   .title-bar {
     display: grid;
     align-items: stretch;
-    grid-template-columns: 1fr;
+    grid-template-columns: 2fr 1fr;
     grid-template-rows: 1fr 1fr;
     grid-template-areas: 
-      "title"
-      "author";
+      "title buttons"
+      "author buttons";
     color: white;
     background-color: rgba(0, 0, 0, .6);
     /* padding-top: 14px; */
@@ -345,6 +564,7 @@
     margin: 0 0 0 22px;
     padding: 22px 0 0 50px;
   }
+
   .author {
     grid-area: author;
     font-size: min(6vw, 1.3em);
@@ -352,7 +572,29 @@
     padding: 0 0 6px 50px;
     align-self: center;
   }
-
+  .title-bar .buttons {
+    grid-area: buttons;
+    align-self: center;
+    justify-self: center;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+  }
+  .title-bar .buttons button {
+    width: 180px;
+    margin-left: auto;
+    margin-right: 1.3vw;
+    font-size: 14px;
+    color: white;
+    background-color: #7A9413;
+    border-radius: 4px;
+    padding: 8px;
+    font-weight: normal;
+    cursor: pointer;
+  }
+  .title-bar .buttons button i {
+    min-width: 28px;
+    text-align: center;
+  }
   .header-wrapper {
     display: grid;
     grid-template-columns: auto;
@@ -414,7 +656,6 @@
     font-family: Roboto, sans-serif;
     color: white !important;
   }
-
 
   .search-components {
     grid-area: search-components;

@@ -23,14 +23,15 @@ nav:
 - label: Contributors
   icon: user-friends
   path: /contributors
-#- label: Contact Us
-#  icon: envelope
-#  path: "/contact-us"
+- label: Contact Us
+  icon: envelope
+  path: "/contact-us"
 
 # If the /contact-us path is defined for the nav menu a contact form will be enabled
 # The following information is used in the display and processing of the contact form
 # A valid toEmail address is required. Other fields are optional
-#contactForm:
-#  toEmail:
+contactForm:
+  toEmail:
 #  - name@example.org
-#  subject: My Juncture site feedback
+  - Ron.Snyder@ithaka.org
+  subject: Plant Humanities Lab - site feedback
