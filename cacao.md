@@ -91,7 +91,7 @@ The political, social, and economic salience of cacao indicate that individuals 
 <param ve-image title="Classic Maya Buenavista cylinder vase used for Cacao beverages. - Rollout" manifest="https://iiif.lib.harvard.edu/manifests/ids:459304936">
 
 Far from its neotropical habitat, cacao was largely considered an elite commodity by the Mexica, with its consumption a symbol of social and political power. It is therefore not surprising to see cacao as an ingredient in the Badianus’s recipes for curing fear and malaise, particularly for political leaders. The presence of cacao in a remedy for hurt feet within the Badianus, while unclear, is perhaps indicative of the long distances traveled on foot by merchants and traders to distribute the plant across Mesoamerica. In Hernán Cortés’s conquistador accounts, several regions are recognized for their tribute of cacao to the Mexica empire, including Huauthla, Soconusco, and Cotaxtla, all of which are hundreds of miles from Tenochtitlan.[^ref11] 
-<param ve-map title="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" center="17.265945, -94.268896" zoom="5.5" hide-labels="true" basemap="Esri_WorldPhysical">
+<param ve-map title="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" center="17.265945, -94.268896" zoom="5.5" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson active url="/geojson/Neotropics.geojson">
 <param ve-map-layer geojson active url="/geojson/Mexica.geojson">
 
