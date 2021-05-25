@@ -119,7 +119,6 @@ Another artistic context in which watermelons were occasionally featured concern
 	region="180,2179,4002,2751">
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/4f9f8da5bad6c2d65d58250162aab4b226561a1a1c8307b2c93198c25ea5743f"
-	seq="34"
 	region="511,31,4973,7021"
 	rotate="90">
 {#paragraph9}
@@ -134,10 +133,10 @@ Paradoxically, the bright and appealing nature of the watermelon also lent itsel
 
 Aspects of the fruit became bound up with representations of African Americans, showing their taste for it exaggerated to the point of the grotesque: It was messy to eat, which connoted uncleanliness; easy to grow, implying laziness; and its bright color and sweetness were associated with childishness. Watermelon’s African origins were also cited as an explanation for Black Americans’ apparently insatiable appetite for the fruit. Nineteenth-century newspapers were filled with reports and anecdotes that repeated these racial tropes, which masqueraded as facts.
 <param ve-image
-	manifest="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-6A6EEDA3268C2_2001"
+	manifest="https://iiif.juncture-digital.org/manifest/cbbd62210b343ef1c7f92504062eec0e94bbdf68d11dec5689aa6f9e195eccf8"
 	fit="contain">
 <param ve-image
-	manifest="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-E57085A629442_4002-000002"
+	manifest="https://iiif.juncture-digital.org/manifest/065abeee6f4029c5257bc8560567b367e9fb69862f6daf774a65a9927db28ab2"
 	fit="contain">
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/3f207c137dcdd22dc4941333d255b9f75e98332143bab57f8c85f3d9148bbf66"
