@@ -138,8 +138,8 @@ As Europeans moved between continents, knowledge of cassava preparation, togethe
 
 With this transfer of knowledge from South America to Africa, other innovations emerged. For example, African women learned that the bitter cassava root was poisonous and learned how to prepare its leaves instead.[^ref29] They discovered that young cassava leaves could be safely consumed after being boiled. A new method of processing the root also developed, which involved pressing it with stone weights instead of using the hanging method favored in South America.[^ref30] Another African innovation emerged in the form of _gari_, or toasted flakes, made from the dried pulp of processed cassava. They are not as refined as the _farinha_ produced in South America, but can be stored for a long period of time.[^ref31]
 <param title="garri" eid="Q1494252" aliases="gari">
-<param curtain ve-image manifest="https://iiif.juncture-digital.org/manifest/a92a8554b6005f82eb79be8400413ed9e9103160c677599fb395c668d8cc63e0">
-<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/6029a21cd5ffedd9f2ba8bf9fb820a2e252c97803aeabf0830dfd5fd989cc66d">
+<param ve-compare manifest="https://iiif.juncture-digital.org/manifest/a92a8554b6005f82eb79be8400413ed9e9103160c677599fb395c668d8cc63e0">
+<param ve-compare manifest="https://iiif.juncture-digital.org/manifest/6029a21cd5ffedd9f2ba8bf9fb820a2e252c97803aeabf0830dfd5fd989cc66d">
 {#paragraph17}
 
 ### Food of the Future?
