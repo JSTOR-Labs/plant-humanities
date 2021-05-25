@@ -151,15 +151,24 @@
 
     <!-- Contact form -->
     <div id="contact-form" class="modal-form" style="display: none;">
-      <form v-on:submit.prevent>
+      <form v-on:submit.prevent class="form-wrapper">
         <h1>Contact us</h1>
         <input v-model="contactName" name="name" placeholder="Name" class="form-name" type="text" required>
         <input v-model="contactEmail" placeholder="Email" class="form-email" type="email" required>
+        <input v-model="university" placeholder="University Affiliation (optional)" class="form-uni" type="text">
+          <select v-model="role" class="form-role">
+            <option disabled value="">Please select one</option>
+            <option value="Undergraduate Student">Undergraduate</option>
+            <option value="Graduate Student">Graduate Student</option>
+            <option value="Faculty">College/University Faculty</option>
+            <option value="Scholar">Independent Scholar</option>
+            <option value="Plant Enthusiast">Plant Enthusiast</option>
+          </select>
         <textarea v-model="contactMessage" placeholder="Your message here" class="form-message" type="text" required></textarea>
         <div v-html="doActionResponse.message"></div>
         <div class="form-controls">
           <button v-if="!doActionResponse.status" class="form-cancel" formnovalidate @click="hideForm">Cancel</button>
-          <button v-if="!doActionResponse.status" class="form-submit" @click="submitContactForm">Send</button>
+          <button v-if="!doActionResponse.status" class="form-submit" @click="submitContactForm">Submit Form</button>
           <button v-if="doActionResponse.status === 'done'" class="form-submit" @click="hideForm">Close</button>
         </div>
       </form>
@@ -178,19 +187,23 @@
         <div class="subtitle">MLA</div>
         <div class="citation-wrapper">
           <div class="citation-text" @click="copyTextToClipboard" v-html="mlaCitation"></div>
-          <div class="copy-citation" @click="copyCitationToClipboard(`${mlaCitation}`)" title="Copy to clipboard">Copy</div>
+          <div class="copy-citation" @click="copyCitationToClipboard(`${mlaCitation}`, 1)" title="Copy to clipboard">Copy</div>
+          <div class="tooltiptext1">Copied to Clipboard</div>
         </div>
         
         <div class="subtitle">APA</div>
         <div class="citation-wrapper">
           <div class="citation-text" @click="copyTextToClipboard" v-html="apaCitation"></div>
-          <div class="copy-citation" @click="copyCitationToClipboard(`${apaCitation}`)" title="Copy to clipboard">Copy</div>
+          <div class="copy-citation" @click="copyCitationToClipboard(`${apaCitation}`, 2)" title="Copy to clipboard">Copy</div>
+          <div class="tooltiptext2">Copied to Clipboard</div>
+          
         </div>
 
         <div class="subtitle">Chicago</div>
         <div class="citation-wrapper">
           <div class="citation-text" @click="copyTextToClipboard" v-html="chicagoCitation"></div>
-          <div class="copy-citation" @click="copyCitationToClipboard(`${chicagoCitation}`)" title="Copy to clipboard">Copy</div>
+          <div class="copy-citation" @click="copyCitationToClipboard(`${chicagoCitation}`, 3)" title="Copy to clipboard">Copy</div>
+          <div class="tooltiptext3">Copied to Clipboard</div>
         </div>
 
       </div>
@@ -258,6 +271,8 @@
       contactName: null,
       contactEmail: null,
       contactMessage: null,
+      role: '',
+      university: '', 
 
       // for citation export
       mlaCitation: null,
@@ -399,9 +414,16 @@
         if (navigator.clipboard) navigator.clipboard.writeText(e.target.textContent)
       },
 
-      copyCitationToClipboard(citation) {
+      copyCitationToClipboard(citation, num) {
+        //var copy = document.querySelectorAll('.copy-citation');
         if (navigator.clipboard){
           navigator.clipboard.writeText(citation)
+          var styleClass = '.tooltiptext' + num
+          var tooltip = document.querySelector(styleClass);
+          tooltip.style.visibility = 'visible';
+          setTimeout(function(){
+            tooltip.style.visibility = 'hidden';
+            }, 4000);
         }
       },
 
@@ -504,11 +526,15 @@
       },
 
       submitContactForm() {
+        let body = `${this.contactMessage}\n\r[Sent by: ${this.contactName} <${this.contactEmail}>]`
+        if (this.role !== '') body += `, ${this.role}`
+        if (this.university !== '') body = body += ` at ${this.university}`
+
         this.$emit('do-action', 'send-email', {
           fromAddress: `${this.contactName} <${this.contactEmail}>`,
           toAddress: this.siteConfig.contactForm.toEmail,
           messageSubject: this.siteConfig.contactForm.subject,
-          messageBodyText: `${this.contactMessage}\n\r[Sent by: ${this.contactName} <${this.contactEmail}>]`,
+          messageBodyText: body,
         })
       }
 
@@ -699,6 +725,23 @@
     text-decoration: none !important;
   }
 
+  .tooltiptext1, .tooltiptext2, .tooltiptext3 {
+    visibility: hidden; 
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    float: right;
+    z-index: 1;
+    margin-left: 10px;
+    right:12px
+  }
+
   .selector {
     height: 100%;
     border: none;
@@ -859,6 +902,66 @@
   .subtitle {
     font-size: 1.1rem;
     font-weight: bold;
+  }
+
+  .citation-wrapper {
+    margin-top: 16px;
+    margin-bottom: 32px;
+    line-height: 1.3;
+    max-height: 380px;
+    display: flex;
+    font-size: 1.1rem;
+    overflow:auto
+  }
+
+  .citation-text {
+    float: left;
+    padding: 10px;
+    border: 1px solid #626262;
+    cursor: pointer;
+  }
+
+  .copy-citation {
+    float: right;
+    color: white;
+    background-color: #444A1E;
+    border-radius: 4px;
+    padding: 12px;
+    height: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+
+  .copy-citation:hover {
+    background-color: #737e31;
+  }
+
+  .entity-infobox {
+    color: black;
+    align-items: left;
+    margin: 1.5rem;
+  }
+
+  .dialog-header {
+    margin-bottom: 2rem;
+  }
+
+  .close-button {
+    float: right;
+  }
+
+  .entity-title {
+    display: inline !important;
+    margin: unset;
+    font-size: 1.5em;
+    font-weight: normal;
+    font-family: 'Playfair Display', Serif;
+  }
+
+  .entity-infobox .v-card__text {
+    height: 100%;
+    min-height: 165px;
+    padding-bottom: 0 !important;
   }
 
   .search-container {
@@ -1224,6 +1327,57 @@
   #menuToggle input:checked ~ ul {
     display: block;
     transform: none;
+  }
+  
+  .contact-us-container {
+    padding: 8px 16px 16px;
+  }
+
+  .modal-form {
+    padding: 8px 16px 16px;
+  }
+
+  .visible-form {
+    padding: 8px 16px 16px;
+    height: auto;
+  }
+
+  .form-wrapper {
+    margin-top:16px;
+  }
+
+  .form-name, .form-email, .form-uni, .form-message {
+    width: calc(100% - 24px);
+    height: 40px;
+    margin: 10px 0;
+    padding: 8px;
+  }
+
+  .form-role {
+    width: calc(100% - 4px);
+    height: 60px;
+    margin: 10px 0;
+    padding: 6px;
+  }
+
+  .form-message {
+    height: 160px;
+  }
+
+  .form-submit {
+    height: 40px;
+    border: 0;
+    color: white;
+    border-radius: 4px;
+    background-color:green;
+  }
+
+  input:focus:invalid {
+    border: 2px solid red;
+  }
+
+  input:required:valid {
+    border: 2px solid green;
   }
 
   @media (max-width: 920px) {
