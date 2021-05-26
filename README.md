@@ -19,7 +19,7 @@
 ##
 [**Heliconia: Evolution at Work**](/heliconia)
 
-- authors: W. John Kress and Yota Batsaki
+- W. John Kress and Yota Batsaki
 
 ![](/images/thumbnails/heliconia.jpg)
 
@@ -85,7 +85,7 @@
 ##
 [**Cassava: From Toxic Tuber to Food Staple**](/cassava)
 
-- authors: Christina Emery, Rachel Hirsch, and Melinda Susanto
+- Christina Emery, Rachel Hirsch, and Melinda Susanto
 
 ![](/images/thumbnails/cassava.jpg)
 
@@ -106,14 +106,14 @@
 ##
 [**Dracaena draco: The Mystery of Dragon's Blood**](/dragon_tree)
 
-- authors: Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian
+- Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian
 
 ![](/images/thumbnails/dragon_tree.jpg)
 
 ##
 [**Heliconia: Evolution at Work**](/heliconia)
 
-- authors: W. John Kress and Yota Batsaki
+- W. John Kress and Yota Batsaki
 
 ![](/images/thumbnails/heliconia.jpg)
 
@@ -127,7 +127,7 @@
 ##
 [**Pelargonium: By Any Other Name Would Smell as Sweet?**](/pelargonium)
 
-- authors: Daisy Reid, Verónica Matallana Chaves, Yao Jiang
+- Daisy Reid, Verónica Matallana Chaves, Yao Jiang
 
 ![](/images/thumbnails/pelargonium.jpg)
 
@@ -148,7 +148,7 @@
 ##
 [**Watermelon: Stereotypes of Race and Class**](/watermelon)
 
-- authors: Anna Lawrence, Camilo Uribe Botta, and May Wang
+- Anna Lawrence, Camilo Uribe Botta, and May Wang
 
 ![](/images/thumbnails/watermelon.jpg)
 
