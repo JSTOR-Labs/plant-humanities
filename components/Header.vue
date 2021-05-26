@@ -591,18 +591,22 @@
     font-weight: bold;
   }
 
+
   .title {
     grid-area: title;
-    font-size: min(8vw, 2.2em);
-    margin: 0 0 0 22px;
-    padding: 22px 0 0 50px;
+    font-size: min(2.5vw, 2.2em);
+    margin-left: 24px;
+    display: inline-block;
+    white-space: nowrap;
+    padding: 16px 0 0 50px;
   }
 
   .author {
     grid-area: author;
-    font-size: min(6vw, 1.3em);
-    margin: 0 0 0 22px;
-    padding: 0 0 6px 50px;
+    font-size: min(3vw, 1.3em);
+    margin-left: 24px;
+    font-weight: normal;
+    padding: 0 0 10px 50px;
     align-self: center;
   }
   .title-bar .buttons {
