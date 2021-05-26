@@ -130,7 +130,7 @@ The political and economic powers of Europe took note of these early accounts of
 <param ve-map title="Distribution of Cacao Today" center="29.187255, -10.812716" zoom="2" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson active title="Current _Theobroma cacao_ Distribution" url="/geojson/CacaoDist.geojson">
 <param ve-image primary manifest="https://iiif.juncture-digital.org/manifest/201c47897f6919261070ca61833a8be15cc2105c9a1716ed0b24ece62c4a8d75">
-<param ve-image title="German chocolate cup and saucer ca. 1735-45" url="https://upload.wikimedia.org/wikipedia/commons/6/69/Chocolate_Cup_And_Saucer_%28Germany%29%2C_1735–45_%28CH_18349969%29.jpg">
+<param ve-image title="German chocolate cup and saucer ca. 1735-45" url="https://upload.wikimedia.org/wikipedia/commons/6/69/Chocolate_Cup_And_Saucer_%28Germany%29%2C_1735%E2%80%9345_%28CH_18349969%29.jpg">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/008e2235f342234b7037ec346c0d7b64b57b56842db629c9ca713d933fe0e094">
 
 
