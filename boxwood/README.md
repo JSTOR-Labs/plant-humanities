@@ -103,14 +103,8 @@ How did boxwood come to represent the lasting legacy of the European garden trad
 	stroke-width="0"
 	fill="green"
 	fill-opacity="1">
-<param ve-map-layer
-	data-type="geojson"
-	data-url="/geojson/Buxus_sempervirens_plg.json"
-	data-active="true">
-<param ve-map-layer
-	data-type="geojson"
-	data-url="/geojson/Buxus_sempervirens_pnt.json"
-	data-active="true">
+<param ve-map-layer geojson active url="/geojson/Buxus_sempervirens_plg.json">
+<param ve-map-layer geojson active url="/geojson/Buxus_sempervirens_pnt.json">
 {#paragraph4}
 
 ### Ancient Love vs. Early Modern Dismissal
