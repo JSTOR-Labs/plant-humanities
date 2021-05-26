@@ -51,8 +51,8 @@ Representations of cassava made by Moche artists provide clues as to how the pla
 <param title="Smoky Jungle Frog" eid="Q2136945" aliases="Leptodactylus pentadactylus">
 <param title="Dumbarton Oaks" eid="Q1264942">
 <param title="Amazon rainforest" eid="Q177567" aliases="Amazon">
-<param ve-image compare region="-328,-1428,6568,5816" manifest="https://iiif.juncture-digital.org/manifest/40346d8a1544f191ac8ccd648d5309bc1f62241fba9916756559e436eec72704">
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/7a30a1786853d309b703750103aedbaa88d11a8064c895d09cf81921a6feec14">
+<param ve-compare sync region="-328,-1428,6568,5816" manifest="https://iiif.juncture-digital.org/manifest/40346d8a1544f191ac8ccd648d5309bc1f62241fba9916756559e436eec72704">
+<param ve-compare manifest="https://iiif.juncture-digital.org/manifest/7a30a1786853d309b703750103aedbaa88d11a8064c895d09cf81921a6feec14">
 {#paragraph5}
 
 The Moche ceramic contains further clues as to early Andean understanding of cassava. Moche artists may have chosen to pair the cassava plant with the frog to highlight characteristics they share. Both were known for being poisonous and for their capacity to survive underground for long periods of time.[^ref6] Indeed, while cassava roots are the most commonly eaten part of the plant, they go bad quickly when dug up from the soil. However, if cassava is left in the ground, it can survive for up to four years and be harvested periodically.[^ref7]
