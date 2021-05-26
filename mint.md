@@ -103,7 +103,7 @@ Over time, American mint oil production would spread westwards from the east coa
 
 The mint industry in Washington and Oregon would go on to develop in line with sophisticated mechanical planting techniques and harvesting equipment. More recently, Washington farmers have faced increasing competition from China and India, who appear able to supply the shifting consumer taste for a stronger mint flavor that cannot be easily produced by the peppermint species.
 <param ve-map id="China-map" basemap="Esri_WorldPhysical" center="30.486795,88.475136" zoom="4">
-<param ve-map-layer url="/geojson/chinaIndia.geojson">
+<param ve-map-layer geojson url="/geojson/chinaIndia.geojson">
 
 ### Conclusions
 
