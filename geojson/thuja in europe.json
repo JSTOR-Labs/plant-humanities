@@ -690,7 +690,7 @@
         "stroke-opacity": 0,
         "fill": "#32c125",
         "fill-opacity": 0.5,
-        "label ": "Distribution of Thuja occidentalis"
+        "label": "Distribution of Thuja occidentalis"
       },
       "geometry": {
         "type": "Polygon",
