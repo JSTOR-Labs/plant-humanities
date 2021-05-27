@@ -142,8 +142,8 @@
         <div class="title" v-html="title"></div>
         <div class="author" v-html="author"></div>
         <div class="buttons">
-          <button @click="showForm('citation-export-form')"><i class="fas fa-quote-left"></i>Cite this essay</button>
-          <button @click="openSearchTool(essayConfig.about)"><i class="fas fa-search"></i>More resources</button>
+          <button @click="showForm('citation-export-form')" class="citation"><i class="fas fa-quote-left"></i>Cite this essay</button>
+          <button @click="openSearchTool(essayConfig.about)" class="search"><i class="fas fa-search"></i>More resources</button>
         <div>
       </div>
   
@@ -925,6 +925,30 @@
     cursor: pointer;
   }
 
+  .citation {
+    margin-left: auto;
+    margin-right: 1.3vw;
+    font-size: 14px;
+    color: white;
+    background-color: #7A9413;
+    border-radius: 4px;
+    padding: 8px 24px 4px;
+    font-weight: normal;
+  }
+  .search {
+    margin-left: auto;
+    margin-right: 1.3vw;
+    margin-top: 0.6vh;
+    font-size: 14px;
+    color: white;
+    background-color: #7A9413;
+    border-radius: 4px;
+    padding: 8px 20px 4px;
+    font-weight: normal;
+    cursor: pointer;
+    text-align: center;
+  }
+
   .copy-citation {
     float: right;
     color: white;
@@ -1350,11 +1374,12 @@
     margin-top:16px;
   }
 
-  .form-name, .form-email, .form-uni, .form-message {
+  .form-name, .form-email, .form-uni, .form-message{
     width: calc(100% - 24px);
     height: 40px;
     margin: 10px 0;
     padding: 8px;
+    font-size: 1rem;
   }
 
   .form-role {
@@ -1362,10 +1387,12 @@
     height: 60px;
     margin: 10px 0;
     padding: 6px;
+    font-size: 1rem;
   }
 
   .form-message {
     height: 160px;
+    font-size: 1rem;
   }
 
   .form-submit {
