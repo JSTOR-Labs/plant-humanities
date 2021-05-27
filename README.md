@@ -24,6 +24,13 @@
 ![](/images/thumbnails/heliconia.jpg)
 
 ##
+[**Peony: Pretty and Powerful**](/Peony)
+
+- Ashley Buchanan
+
+![](/images/thumbnails/Peony_Thumbnail.jpg)
+
+##
 [**Cinnamomum verum: Discovering “True” Cinnamon**](/cinnamon)
 
 - Wouter Klein
@@ -130,6 +137,13 @@
 - Daisy Reid, Verónica Matallana Chaves, Yao Jiang
 
 ![](/images/thumbnails/pelargonium.jpg)
+
+##
+[**Peony: Pretty and Powerful**](/Peony)
+
+- Ashley Buchanan
+
+![](/images/thumbnails/Peony_Thumbnail.jpg)
 
 ##
 [**Sunflower: Knowledge, Myth, and Meaning**](/sunflower)
