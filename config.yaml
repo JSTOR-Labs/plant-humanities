@@ -9,7 +9,8 @@ customCSS: /css/custom.css
 #acct: <GitHub account/username>
 #repo: <GitHub repository>
 
-ref: v1.1.0
+ref: c0a2379
+
 gaPropertyID: UA-125778965-7
 
 ######################################################
