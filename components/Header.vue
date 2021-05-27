@@ -142,8 +142,8 @@
         <div class="title" v-html="title"></div>
         <div class="author" v-html="author"></div>
         <div class="buttons">
-          <button @click="showForm('citation-export-form')" class="citation"><i class="fas fa-quote-left"></i>Cite this essay</button>
-          <button @click="openSearchTool(essayConfig.about)" class="search"><i class="fas fa-search"></i>More resources</button>
+          <button v-if="essayConfig.eid" @click="showForm('citation-export-form')" class="citation"><i class="fas fa-quote-left"></i>  Cite this essay</button>
+          <button v-if="essayConfig.about" @click="openSearchTool(essayConfig.about)" class="search"><i class="fas fa-search"></i>  More resources</button>
         <div>
       </div>
   
