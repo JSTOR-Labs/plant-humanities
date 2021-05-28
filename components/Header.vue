@@ -320,8 +320,11 @@
           let values = eids.map(eid => `(<http://www.wikidata.org/entity/${eid}>)`).join(' ')
           let query = `SELECT ?item ?label WHERE { VALUES (?item) { ${values} } ?item rdfs:label ?label . FILTER(LANG(?label) = 'en')}`
             let resp = await fetch(`https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`, {
-              method: 'GET',
-              headers: { Accept: 'application/sparql-results+json', 'User-agent': 'Juncture web client' }
+              method: 'POST',
+              headers: { 
+                Accept: 'application/sparql-results+json',
+                'User-agent': 'Juncture web client'
+              }
             })
             resp = await resp.json()
             resp.results.bindings.forEach(rec => labels[rec.item.value.split('/').pop()] = rec.label.value)
