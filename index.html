@@ -60,6 +60,10 @@
                  @set-hover-item="hoverItem = $event"
       ></component>
     </div>
+    <div v-if="path === '/'" id="footer" ref="footer">            
+      <component v-bind:is="'ve-footer'" :site-config="siteConfig" :content-source="contentSource"></component>
+    </div>
+
     <div style="display:none;">
       <div ref="popup" class="popup" v-if="hoverEntity">
         <div v-if="hoverEntity.thumbnails" class="image"><img :src="hoverEntity.thumbnails[0]"></div>
@@ -162,7 +166,7 @@
   <script>
     console.log(window.location)
     const isJuncture = window.location.hostname.indexOf('juncture-digital.org') >= 0 || window.location.host === 'localhost:8088'
-    const junctureVersion = 'v0.0.112'
+    const junctureVersion = 'v0.0.127'
     console.log(`isJuncture=${isJuncture} junctureVersion=${junctureVersion} referrer=${document.referrer}`)
 
     const referrerUrl = document.referrer
@@ -268,7 +272,7 @@
     let qargs = window.location.href.indexOf('?') > 0 ? parseQueryString(window.location.href.split('?')[1]) : {}
     
     // GLobal variables used to initialize Vue
-    let siteConfig, contentSource, componentsList, ghUnscopedToken, oauthAccessToken, gcApiKey, gcAuthDomain, gaPropertyID
+    let siteConfig, contentSource, componentsList, ghUnscopedToken, oauthAccessToken, gcApiKey, gcAuthDomain, gaPropertyID, fontawesome
     let loginsEnabled = false
     let authenticatedUser = null
     
@@ -340,6 +344,7 @@
       if (siteConfig.favicon ) head.appendChild(makeLink(siteConfig.favicon, 'icon'))
       if (siteConfig.customCSS) head.appendChild(makeLink(siteConfig.customCSS))
       if (siteConfig.title) document.title = siteConfig.title
+      if (fontawesome) document.querySelector('body').appendChild(makeScriptTag(fontawesome, 'anonymous'))
 
       new Vue({
         el: '#app',
@@ -718,7 +723,7 @@
                 if (this.hoverEntity.mwPage && !this.hoverEntity.summary) {
                   let page = this.hoverEntity.mwPage.replace(/\/w\//, '/wiki/').split('/wiki/').pop()
                   let resp = await fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${page}`, {
-                    headers: {'User-agent': 'JSTOR Labs client'}
+                    // headers: {'User-agent': 'JSTOR Labs client'}
                   })
                   resp = await resp.json()
                   this.entities[instance.reference.dataset.eid].summary = resp.extract_html
@@ -731,12 +736,19 @@
           },
 
           // Finds all entity references in param tags
-          findEntities() {
-            return Object.fromEntries(
+          findEntities(root) {
+            let entities = Object.fromEntries(
+              // Array.from(root.querySelectorAll('param, span'))
               Array.from(this.$refs.essay.querySelectorAll('param, span'))
-                .filter(el => el.attributes.eid || (el.attributes.center && isEntityID(el.attributes.center.value)))
+                .filter(el => el.attributes.eid)
                 .map(el => attrsToObject(el))
-                .map(entity => [entity.eid || entity.center, entity]))
+                .map(entity => [entity.eid, entity]))
+              Array.from(this.$refs.essay.querySelectorAll('param'))
+                .filter(el => el.attributes.center && isEntityID(el.attributes.center.value))
+                .filter(el => !entities[el.attributes.center.value])
+                .map(el => { return {...attrsToObject(el), ...{eid: el.attributes.center.value }} })
+                .forEach(entity => entities[entity.eid] = entity)
+            return entities
           },
 
           // Finds all param tags in elements between top-level app element and element in para arg
@@ -783,8 +795,11 @@
                            OPTIONAL { ?item wdt:P6766 ?whosOnFirst . }
                          }`
             let resp = await fetch(`https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`, {
-              method: 'GET',
-              headers: { Accept: 'application/sparql-results+json', 'User-agent': 'Juncture web client' }
+              method: 'POST',
+              headers: { 
+                Accept: 'application/sparql-results+json',
+                // 'User-agent': 'Juncture web client' 
+              }
             })
             resp = await resp.json()
             let entities = {}
@@ -807,7 +822,7 @@
               if (rec.aliases && !entities[eid].aliases.has(rec.aliases.value)) entities[eid].aliases.add(rec.aliases.value)
               if (rec.images && entities[eid].images.indexOf(rec.images.value) < 0) {
                 entities[eid].images.push(rec.images.value)
-                entities[eid].thumbnails.push(this.commonsImageUrl(rec.images.value, 160))
+                entities[eid].thumbnails.push(this.commonsImageUrl(rec.images.value, 200))
               }
             })
             query = `SELECT ?item ?mwPage WHERE {
@@ -815,7 +830,11 @@
                         ?mwPage schema:about ?item .
                         ?mwPage schema:isPartOf <https://en.wikipedia.org/> . }`
             resp = await fetch(`https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`, {
-              method: 'GET', headers: { Accept: 'application/sparql-results+json', 'User-agent': 'Juncture web client' }
+              method: 'POST', 
+              headers: {
+                Accept: 'application/sparql-results+json', 
+                // 'User-agent': 'Juncture web client' 
+              }
             })
             resp = await resp.json()
             resp.results.bindings.forEach(rec => entities[rec.item.value.split('/').pop()]['mwPage'] = rec.mwPage.value)
@@ -827,6 +846,7 @@
           markdownToElem(markdown) {
             let essay = document.createElement('div')
             let tmp = new DOMParser().parseFromString(md.render(markdown), 'text/html').children[0].children[1]
+            // this.entities = this.findEntities(tmp)
             let currentSection = essay
             let segments = []
             let segment
@@ -837,6 +857,7 @@
                 if (segments) {
                   segments.forEach(segment => currentSection.innerHTML += segment.outerHTML)
                   segments = []
+                  segment = null
                 }
                 currentSection = new DOMParser().parseFromString('<section></section>', 'text/html').children[0].children[1].children[0]
                 let elClasses = Array.from(el.classList)
@@ -909,6 +930,7 @@
                   }
                   target = parsedUrl.hash === '' ? `/${pathElems.join('/')}/` : parsedUrl.hash.split('?')[0]
                 }
+                console.log(link.href, target)
                 link.removeAttribute('href')
                 link.setAttribute('data-target', target)
 
@@ -957,10 +979,10 @@
                 if (entity) {
                   let toMatch = [...[entity.label], ...entity.aliases.filter(alias => alias.length > 3)]
                   for (let i = 0; i < toMatch.length; i++) {
-                    let re = new RegExp(`(${toMatch[i]})`, 'i')
-                    if (toMatch[i], re.test(paraHTML)) {
-                      console.log()
-                      paraHTML = paraHTML.replace(re, `<span class="entity inferred" data-eid="${eid}">$1</span>`)
+                    let re = new RegExp(`[\\s(](${toMatch[i].replace(/'/, "'?")})[\\s);:,.]`, 'i')
+                    let match = re.exec(paraHTML)
+                    if (match) {
+                      paraHTML = paraHTML.replace(match[1], `<span class="entity inferred" data-eid="${eid}">${match[1]}</span>`)
                       entity.foundIn.add(para.parentElement.dataset.id)
                       break
                     }
@@ -1262,8 +1284,10 @@
           segments (segments) { console.log('segments', segments) },
           selectedViewer (selectedViewer) { console.log('selectedViewer', selectedViewer) },
           selectedItem (eid) { console.log(`selectedItem=${eid}`) },
-          hoverItem (eid) { console.log(`index.hoverItem=${eid}`) },
-
+          hoverItem (eid) {
+            document.querySelectorAll('.hover').forEach(el => el.classList.remove('hover'))
+            document.querySelectorAll(`[data-eid="${eid}"]`).forEach(el => el.classList.add('hover'))        
+          }
         }
       })
     })
@@ -1397,9 +1421,11 @@
     async function getSiteConfig() {
       let config = {}
       // let resp = await fetch(`https://gitcdn.link/cdn/jstor-labs/juncture/${junctureVersion}/config.yaml`)
-      let resp = await fetch(`https://gitcdn.link/cdn/jstor-labs/juncture/juncture/config.yaml`)
+      let junctureConfigUrl = isJuncture ? `${window.location.origin}/config.yaml` : 'https://gitcdn.link/cdn/jstor-labs/juncture/juncture/config.yaml'
+      let resp = await fetch(junctureConfigUrl)
       resp = YAML.parse(await resp.text())
       ghUnscopedToken = atob(resp.ghUnscopedToken)
+      fontawesome = resp.fontawesome
       if (isJuncture) {
         config = resp
         gcApiKey = atob(config.gcApiKey)
@@ -1418,7 +1444,7 @@
           resp = await resp.json()
           config = YAML.parse(atob(resp.content))
         }
-      } else {
+      } else if (!isJuncture) {
         resp = await fetch(`${window.location.origin}/config.yaml`)
         if (resp.ok) config = YAML.parse(await resp.text())
       }
@@ -1426,6 +1452,7 @@
       if (config.gcApiKey) gcApiKey = atob(config.gcApiKey)
       if (config.gcAuthDomain) gcAuthDomain = atob(config.gcAuthDomain)
       if (config.gaPropertyID) gaPropertyID = config.gaPropertyID
+      if (config.fontawesome) fontawesome = config.fontawesome
       loginsEnabled = gcApiKey !== undefined && gcAuthDomain !== undefined
       return config
     }
@@ -1530,14 +1557,18 @@
       return link
     }
 
+    function makeScriptTag(src, crossorigin) {
+      let el = document.createElement('script')
+      el.src = src
+      if (crossorigin) el.setAttribute('crossorigin', crossorigin)
+      return el
+    }
+
     function convertURL(current, path, pathIsDir) {
       let pathElems = []
       if (current.indexOf('http') === 0) {
-        if (current.indexOf(window.location.origin) === 0) {
-          pathElems = current.split('/').slice(3)
-        } else {
-          return current
-        }
+        if (current.indexOf(window.location.origin) === 0) pathElems = current.split('/').slice(3)
+        else return current
       } else if (current.indexOf('/') === 0) {
         pathElems = current.split('/').filter(elem => elem !== '')
       } else {
