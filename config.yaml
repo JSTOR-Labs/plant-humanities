@@ -6,8 +6,8 @@ customCSS: /css/custom.css
 
 # When using a custom domain these fields must be updated to match
 # the account and repository name
-#acct: <GitHub account/username>
-#repo: <GitHub repository>
+acct: jstor-labs
+repo: plant-humanities
 
 ref: v1.1.0
 
