@@ -323,7 +323,7 @@
               method: 'POST',
               headers: { 
                 Accept: 'application/sparql-results+json',
-                'User-agent': 'Juncture web client'
+                // 'User-agent': 'Juncture web client'
               }
             })
             resp = await resp.json()
