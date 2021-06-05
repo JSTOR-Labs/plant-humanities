@@ -142,8 +142,8 @@
         <div class="title" v-html="title"></div>
         <div class="author" v-html="author"></div>
         <div class="buttons">
-          <button v-if="essayConfig.eid" @click="showForm('citation-export-form')" class="citation"><i class="fas fa-quote-left"></i>  Cite this essay</button>
-          <button v-if="essayConfig.about" @click="openSearchTool(essayConfig.about)" class="search"><i class="fas fa-search"></i>  More resources</button>
+          <button v-if="essayConfig && essayConfig && essayConfig.eid" @click="showForm('citation-export-form')" class="citation"><i class="fas fa-quote-left"></i>  Cite this essay</button>
+          <button v-if="essayConfig && essayConfig" @click="openSearchTool(essayConfig.about)" class="search"><i class="fas fa-search"></i>  More resources</button>
         <div>
       </div>
   
@@ -284,13 +284,12 @@
       containerStyle() { return { 
         height: this.active ? `${this.scrollTop < 400 ? 400 - this.scrollTop : 0}px` : '0',
         backgroundColor: 'white',
-        backgroundImage: `url(${this.essayConfig.banner || this.siteConfig.banner || defaultBanner})`,
+        backgroundImage: `url(${this.banner})`,
         minHeight: `${this.path === '/' ? 340 : 90}px`
       } },
-      banner() { return this.essayConfigLoaded ? (this.essayConfig.banner || this.siteConfig.banner) : null },
-      bannerHeight() { return this.essayConfig && this.essayConfig.bannerHeight || this.siteConfig.bannerHeight || 400 },
-      title() { return this.essayConfig.title || this.siteConfig.title },
-      author() { return this.essayConfig.author || this.siteConfig.tagline },
+      banner() { return this.essayConfig !== null ? (this.essayConfig.banner || this.siteConfig.banner) : null },
+      title() { return this.essayConfig !== null ? this.essayConfig.title || this.siteConfig.title : null},
+      author() { return this.essayConfig !== null ? this.essayConfig.author || this.siteConfig.tagline : null },
     },
     mounted() { this.loadDependencies(this.dependencies, 0, this.init) },
     methods: {
@@ -543,7 +542,7 @@
       doActionCallback(resp) { this.doActionResponse = resp },
       essayConfig: {
         handler: function (essayConfig) {
-          if (!this.isHomePage && essayConfig.eid) this.getCitationData(essayConfig.eid)
+          if (!this.isHomePage && essayConfig && essayConfig.eid) this.getCitationData(essayConfig.eid)
         },
         immediate: true
       }
