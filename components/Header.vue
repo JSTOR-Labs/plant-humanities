@@ -63,8 +63,11 @@
 
         <div class="search-container">
           <div class="search-header">
+            <!--
             <div class="search-header__title">Plant Search</div>
             <div class="search-header__subtitle">Discover primary sources, databases, and scholarship</div>
+            -->
+            <div class="search-header__subtitle">Begin your plant research by discovering primary sources, databases, and scholarship</div>
           </div>
           <div class="search-components">
 
