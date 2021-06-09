@@ -64,7 +64,7 @@
         <div class="search-container">
           <div class="search-header">
             <div class="search-header__title">Plant Search</div>
-            <div class="search-header__subtitle">Select language, enter search term and begin your plant research</div>
+            <div class="search-header__subtitle">Discover primary sources, databases, and scholarship</div>
           </div>
           <div class="search-components">
 
@@ -126,9 +126,9 @@
           <div class="search-examples">
             <span class="examples-label">Example searches:</span>
             <span class="examples-links">
-              <a href="https://search.plant-humanities.org/?eid=Q171497" target="_blank">Sunflower</a> |
-              <a href="https://search.plant-humanities.org/?eid=Q1043" target="_blank">Carl Linnaeus</a> |
-              <a href="https://search.plant-humanities.org/?eid=Q1055" target="_blank">Hamburg, Germany</a>
+              <a href="https://search.plant-humanities.org/?eid=Q5986917" target="_blank">Azalea</a> |
+              <a href="https://search.plant-humanities.org/?eid=Q7218532" target="_blank">Toxicodendron radicans</a> |
+              <a href="https://search.plant-humanities.org/?eid=Q394451" target="_blank">Agnes Arber</a>
             </span>
           </div>
         </div>
