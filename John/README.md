@@ -15,3 +15,5 @@ In April 1759 the Governor of North Carolina, Arthur Dobbs (1689-1765), wrote to
 <param ve-map basemap="Esri_WorldPhysical" center="Q659400" zoom="7">
 <param ve-map-layer geojson title="Native range" url="flytraprange.json">
 
+szdsdhadkjsandkjdsd sdlkfslmsdkmc
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.g00210232">
