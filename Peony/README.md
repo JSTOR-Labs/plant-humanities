@@ -28,7 +28,7 @@ Peonies are not typically associated with medicine, since they have long been co
 The center of imperial peony cultivation was in <span data-mouseover-map-flyto="34.62403534924385, 112.45364263955301, 12">Luoyang,</span> where there were peony festivals and competitions, gardens devoted solely to peonies, and even a peony research center. This led to a plethora of ornamental peony cultivars as peony breeding became an artform. More than 200 peony cultivars were described during the <span data-mouseover-map-flyto="30.54077926679056, 112.8122076655154, 5">Song Dynasty</span> (960–1279 CE); today, China has more than 1,000 cultivars.
 <param ve-image url="https://theme.npm.edu.tw/exh105/npm_anime/TwelveMonths/common/images/selection/img1_1_4.jpg">
 <param ve-map center="Q187136" zoom="9" stroke-width="0">
-<param ve-map-layer geojson title="The Song dynasty at its greatest extent in 1111 AD." url="Song.json" show-lables>
+<param ve-map-layer geojson title="The Song dynasty at its greatest extent in 1111 AD." url="/Peony/Song.json" show-lables>
 
 While peonies have a long history of appreciation and cultivation as ornamental garden plants in Chinese as well as <span eid="Q3114508">Islamic gardens,</span> in western Europe they mainly were valued for their utility. Over the course of the sixteenth century that changed, when <span eid="Q12560">Ottoman</span> floriculture introduced numerous ornamental flowers to the gardens of Europe, including hyacinths, narcissi, peonies, and most famously, <span eid="Q219217">tulips.</span>[^2] It was not until the end of the eighteenth century, that Europeans would begin intensively breeding ornamental peonies.
 <param ve-image manifest="https://ids.si.edu/ids/manifest/FS-7258_37">
@@ -91,14 +91,14 @@ Despite modern western medicine tending to dismiss early therapeutics like Anna 
        url="https://iiif.wellcomecollection.org/image/L0038032.jpg/full/full/0/default.jpg">
 
 One such study conducted in 1991 on the water extract of _P. officinalis_ concluded that there are several chemical compounds found in the root, including <span id="Q7124104">paeoniflorin,</span> albiflorin, oxypaeoniflorin, and gallotannins, which have documented anticonvulsant properties.[^12] And, when isolated, the compounds albiflorin and gallotannin were proven to block extracellular calcium, which is linked to intracellular seizure-related phenomena. Paeoniflorin fractions also showed inhibition, but to a weaker extent. Another study, which administered peony root extract (from _P. officinalis_) to rats, concluded that it was “a potent in vitro inhibitor of neuron damage in the CA1 area of the hippocampus.”[^13] The study also determined that peony root extract had protective effects on damaged neurons as well as anticonvulsant action when administered orally.[^14] And so, the early administration of anti-epileptic drugs has the potential to [alter the long-term course of epilepsy](https://www.jstor.org/stable/29726099) with the possibility of preventing it from becoming an “intractable disorder.”
-<param ve-image url="Peony_compounds.jpg">
+<param ve-image url="/Peony/Peony_compounds.jpg">
 
 Today’s primary approach to treating epilepsy and suppressing seizures is to alter the neural network’s excitability or inhibition by regulating chemical compounds such as sodium and calcium. Drugs like <span id="Q421567">ethosuximide,</span> for example, reduce abnormal electrical activity in the brain by regulating calcium influx in cells. As a result, contemporary western medicine has little motivation to further investigate the peony root’s similar biochemical compounds or potential pharmaceutical applications. This lack of current interest, however, does not make the biochemical activity of peony insignificant historically. The identification of active biochemical compounds suggest that Anna Maria Luisa de Medici’s powder might have actually improved the health of the children who received it!
 <param ve-image
        fit="contain"
        title="Treating diseased brain cells with calcium channel blockers"
        attribution="University of Bristol"
-       url="Calcium%20Channel%20Blocker%20copy.jpg">
+       url="/Peony/Calcium%20Channel%20Blocker%20copy.jpg">
 
 The seeming effectiveness of her infant convulsion powder increased Anna Maria Luisa’s socio-political influence. In fact, several letters preserved in the Florence State Archive attest to the powder’s efficacy and popularity. One, from the Viennese baroness, asks Anna Maria Luisa for additional portions of powder given the “extraordinary effects they had on three children from the most important families of Vienna.” Anna Maria Luisa replied that she would send the baroness as much of the powder as she desired to distribute to her friends, considering that she had “put the powder to such good use.”
 <param ve-map center="47.61128698661441, 8.433186816910375" zoom="6" title="Recipients of Anna Maria Luisa's Infant Convulsion Powder" show-labels>
