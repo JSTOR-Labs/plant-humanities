@@ -1,0 +1,15 @@
+var links = [
+    {"source": "alpha", "target": "beta"},
+    {"source": "alpha", "target": "gamma"},
+    {"source": "beta", "target": "delta"},
+    {"source": "beta", "target": "epsilon"},
+    {"source": "zeta", "target": "gamma"},
+    {"source": "theta", "target": "gamma"},
+    {"source": "eta", "target": "gamma"}
+  ];
+
+  new d3plus.Rings()
+    .links(links)
+    .label(d => d.id)
+    .center("Dionaea muscipula")
+    .render();
