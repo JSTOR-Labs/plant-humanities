@@ -1,7 +1,7 @@
 <param ve-config
 	   title="Venus' Flytrap: Queen of the Killer Vegetables"
 	   source-image="https://upload.wikimedia.org/wikipedia/commons/0/0f/Banana_Maria_Sibylla_Merian_1705_plate_XII.png"
-	   banner="https://www.biodiversitylibrary.org/pageimage/48674418""
+	   banner="https://www.biodiversitylibrary.org/pageimage/48674418"
 	   eid=""
 	   about=""
 	   layout="vtl"
