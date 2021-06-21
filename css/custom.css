@@ -43,3 +43,21 @@ p.active-elem .inferred.event:hover {
   background: #e1ecbe !important;
   transition: all 0.2s ease-in;
 }
+
+[data-mouseover-map-flyto]::after {
+  font-size: .5em;
+  content: '\f072';
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 700;
+  padding-left: .3em;
+  vertical-align: super
+}
+
+[data-click-image-zoomto]::after {
+  font-size: .5em;
+  content: '\f00e';
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 700;
+  padding-left: .3em;
+  vertical-align: super
+}
