@@ -1,8 +1,7 @@
-source	source.label	target	target.label
-Q1043	Carl Linnaeus 	Q11917246	Dionaea muscipula
-Q1043	Carl Linnaeus 	Q39789	Daniel Solander
-Q1043	Carl Linnaeus 	Q934747	John Ellis 
-Q1043	Carl Linnaeus 	Q34	SWEDEN
-Q934747	John Ellis	Q21	ENGLAND
-Q934747	John Ellis	Q18783607	David Skene
-Q934747	John Ellis		
+source	source.label	target	target.label	edge
+Q1043	Carl Linnaeus 	Q11917246	Dionaea muscipula	classified
+Q1043	Carl Linnaeus 	Q39789	Daniel Solander	received dried specimens from
+Q1043	Carl Linnaeus 	Q934747	John Ellis 	received dried specimens from
+Q1043	Carl Linnaeus 	Q34	SWEDEN	lived in
+Q934747	John Ellis	Q21	ENGLAND	lived in 
+Q934747	John Ellis	Q18783607	David Skene	corresponded with
