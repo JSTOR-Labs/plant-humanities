@@ -14,6 +14,21 @@ Q1350818	Peter Collinson		James Gordon	nurseryman
 Q1350818	Peter Collinson	Q21	ENGLAND	lived in
 Q528476	John Bartram	Q1350818	Peter Collinson	corresponded with
 Q528476	John Bartram	Q18243	William Bartram	father of
-Q528476	John Bartram	Q21613321	William Young	rival of
+Q528476	John Bartram	Q21613321	William Young	mentor turned rival of
 Q528476	John Bartram	Q11917246	Dionaea muscipula	observed
 Q528476	John Bartram	Q30	AMERICA	lived in 
+Q18243	William Bartram	Q528476	John Bartram	corresponded with
+Q18243	William Bartram	Q11917246	Dionaea muscipula	illustrated
+Q18243	William Bartram	Q30	AMERICA	lived in 
+Q39789	Daniel Solander	Q1043	Carl Linnaeus 	corresponded with
+Q39789	Daniel Solander	Q1350818	Peter Collinson	corresponded with
+Q39789	Daniel Solander	Q11917246	Dionaea muscipula	observed
+Q39789	Daniel Solander	Q21	ENGLAND	lived in
+Q21613321	William Young	Q528476	John Bartram	mentee turned rival of
+Q21613321	William Young	Q161159	Queen Charlotte of Mecklenburg-Strelitz	botanist to
+Q21613321	William Young	Q11917246	Dionaea muscipula	observed
+Q21613321	William Young	Q21	ENGLAND	lived in
+Q21613321	William Young	Q30	AMERICA	lived in
+Q709129	Arthur Dobbs	Q11917246	Dionaea muscipula	observed
+Q709129	Arthur Dobbs	Q1350818	Peter Collinson	corresponded with
+Q709129	Arthur Dobbs	Q30	AMERICA	Governor of North Carolina
