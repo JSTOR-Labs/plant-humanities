@@ -6,6 +6,7 @@ Q1043	Carl Linnaeus 	Q34	SWEDEN	lived in
 Q934747	John Ellis	Q21	ENGLAND	lived in 
 Q934747	John Ellis	Q18783607	David Skene	corresponded with
 Q934747	John Ellis	Q11917246	Dionaea muscipula	classified
+Q1350818	Peter Collinson	Q11917246	Dionaea muscipula	observed
 Q1350818	Peter Collinson	Q709129	Arthur Dobbs	corresponded with
 Q1350818	Peter Collinson	Q528476	John Bartram	corresponded with
 Q1350818	Peter Collinson	Q39789	Daniel Solander	corresponded with
@@ -14,5 +15,5 @@ Q1350818	Peter Collinson	Q21	ENGLAND	lived in
 Q528476	John Bartram	Q1350818	Peter Collinson	corresponded with
 Q528476	John Bartram	Q18243	William Bartram	father of
 Q528476	John Bartram	Q21613321	William Young	rival of
+Q528476	John Bartram	Q11917246	Dionaea muscipula	observed
 Q528476	John Bartram	Q30	AMERICA	lived in 
-
