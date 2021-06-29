@@ -4,6 +4,7 @@ Q1043	Carl Linnaeus 	Q39789	Daniel Solander	received dried specimens from
 Q1043	Carl Linnaeus 	Q934747	John Ellis 	received dried specimens from
 Q1043	Carl Linnaeus 	Q34	SWEDEN	lived in
 Q934747	John Ellis	Q21	ENGLAND	lived in 
+Q934747	John Ellis	Q39789	Daniel Solander	corresponded with
 Q934747	John Ellis	Q18783607	David Skene	corresponded with
 Q934747	John Ellis	Q11917246	Dionaea muscipula	classified
 Q1350818	Peter Collinson	Q11917246	Dionaea muscipula	observed
@@ -25,6 +26,7 @@ Q39789	Daniel Solander	Q1350818	Peter Collinson	corresponded with
 Q39789	Daniel Solander	Q11917246	Dionaea muscipula	observed
 Q39789	Daniel Solander	Q21	ENGLAND	lived in
 Q21613321	William Young	Q528476	John Bartram	mentee turned rival of
+Q21613321	William Young		James Gordon	sold live specimens to
 Q21613321	William Young	Q161159	Queen Charlotte of Mecklenburg-Strelitz	botanist to
 Q21613321	William Young	Q11917246	Dionaea muscipula	observed
 Q21613321	William Young	Q21	ENGLAND	lived in
@@ -32,3 +34,5 @@ Q21613321	William Young	Q30	AMERICA	lived in
 Q709129	Arthur Dobbs	Q11917246	Dionaea muscipula	observed
 Q709129	Arthur Dobbs	Q1350818	Peter Collinson	corresponded with
 Q709129	Arthur Dobbs	Q30	AMERICA	Governor of North Carolina
+	James Gordon	Q21	ENGLAND	lived in
+	James Gordon	Q11917246	Dionaea muscipula	grew
