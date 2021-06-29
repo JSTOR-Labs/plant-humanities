@@ -5,3 +5,13 @@ Q1043	Carl Linnaeus 	Q934747	John Ellis 	received dried specimens from
 Q1043	Carl Linnaeus 	Q34	SWEDEN	lived in
 Q934747	John Ellis	Q21	ENGLAND	lived in 
 Q934747	John Ellis	Q18783607	David Skene	corresponded with
+Q934747	John Ellis			
+	Peter Collinson		Arthur Dobbs	corresponded with
+	Peter Collinson		John Bartram	corresponded with
+	Peter Collinson		Daniel Solander	corresponded with
+	Peter Collinson		James Gordon	nurseryman
+	Peter Collinson		ENGLAND	lived in
+	John Bartram		Peter Collinson	
+	John Bartram		William Bartram	
+	John Bartram		William Young	
+	John Bartram		AMERICA	
