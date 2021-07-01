@@ -36,3 +36,10 @@ Q709129	Arthur Dobbs	Q1350818	Peter Collinson	corresponded with
 Q709129	Arthur Dobbs	Q30	AMERICA	Governor of North Carolina
 	James Gordon	Q21	ENGLAND	lived in
 	James Gordon	Q11917246	Dionaea muscipula	grew
+Q11812	Thomas Jefferson	Q11917246	Dionaea muscipula	grew
+Q11812	Thomas Jefferson	Q30	AMERICA	3rd President of the United States of America
+Q11812	Thomas Jefferson	Q528476	John Bartram	likely met with
+Q34969	Benjamin Franklin	Q528476	John Bartram	corresponded with
+Q34969	Benjamin Franklin	Q934747	John Ellis 	corresponded with
+Q34969	Benjamin Franklin	Q30	AMERICA	founding father of
+Q34969	Benjamin Franklin	Q11812	Thomas Jefferson	close friend of
