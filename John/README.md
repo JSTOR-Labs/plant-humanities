@@ -41,14 +41,13 @@ Parallel with Linnaeus, Dionaea was also garnering attention from the American n
 <param ve-image label="American Bog Plants" description="Thornton, Illustrated plate of Venus' flytrap" license="public domain" url="https://www.biodiversitylibrary.org/pageimage/307056">
 <param ve-image label="American Bog Plants" description="Thornton, Dionaea poem" license="public domain" url="https://www.biodiversitylibrary.org/pageimage/307061">
 
-<param ve-image label="Naturalists Miscelanny" description="Shaw, Illustrated plate of Venus' flytrap" license="public domain" region="822,138,4110,3201" url="https://www.biodiversitylibrary.org/pageimage/59263121">
-
 ### The Darwins’ ‘most wonderful’ plants
 
 Charles Darwin’s enthusiasm for carnivorous plants is well documented. As early as 1859, soon after encountering the sundew Drosera rotundifolia on an English heath, the author of the Origin of Species wrote, ‘I care more about Drosera than the origin of all the species in the world.’  By September 1860 he was working with Dionaea muscipula as well, and would later dub the Venus flytrap “one of the most wonderful” plants in the world.  Darwin’s rigorous experimentation with these enigmatic vegetal carnivores culminated in 1875 with the publication of Insectivorous Plants. This treatise laid the framework for the study of plant carnivory as it exists today and cemented the notion of carnivorous plants in the scientific and public imagination.
 <param ve-image label="American Bog Plants" description="Illustrated plate of Venus' flytrap" license="public domain" region="822,138,4110,3201" url="https://www.biodiversitylibrary.org/page/307056">
 
 Yet Charles Darwin was not the first or the only one in his family to delight at the Venus flytrap and its murderous cohort. Indeed, his fascination with these plants developed over three generations of philosophical thought and scientific experimentation that included his grandfather and son. The family’s work with carnivorous plants reveals the enduring botanical legacy of Erasmus, Charles, and Francis Darwin.
+<param ve-image label="Naturalists Miscelanny" description="Shaw, Illustrated plate of Venus' flytrap" license="public domain" region="822,138,4110,3201" url="https://www.biodiversitylibrary.org/pageimage/59263121">
 
 The second piece of Erasmus Darwin’s two-part poem The Botanic Garden (1789) sought to display the Linnaean sexual system through poetic analogies of plant sexuality and human affairs, accompanied by Erasmus’ own botanical notes and observations. He carefully weaved the mythological and the physiological discussion through poetic prose and technical footnotes, appealing to a broad audience of general readers and botanical experts alike. His stanza on Drosera beautifully illustrates the tone of the work as a whole:
 
