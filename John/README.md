@@ -38,8 +38,10 @@ Linnaeus, however, did not appear agree. His November 1768 letter to Nicolaas La
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.g00210232">
 
 Parallel with Linnaeus, Dionaea was also garnering attention from the American naturalist and politician Thomas Jefferson. His first attempt to collect and share specimens of the Venus flytrap in the United States and abroad go as early as January 1786. During Jefferson’s stay in Paris that summer, he requested a shipment of “some seeds of the Dionaea muscipula,” perhaps to impress the Parisians with the wonders of the young nation.  After nearly two decades of sporadic attempts to acquire the precious seeds, he was able to obtain some in 1804, towards the close of his first term as President of the United States. Preoccupied by his duties, he finally planted them in April 1809, after the end of his second term. The Venus flytrap had officially made its way into the most important garden in the continent. 
-<param ve-image label="American Bog Plants" description="Illustrated plate of Venus' flytrap" license="public domain" region="822,138,4110,3201" url="https://www.biodiversitylibrary.org/page/307056">
-<param ve-image label="Naturalists Miscelanny" description="Illustrated plate of Venus' flytrap" license="public domain" region="822,138,4110,3201" url="https://www.biodiversitylibrary.org/page/59263121">
+<param ve-image label="American Bog Plants" description="Thornton, Illustrated plate of Venus' flytrap" license="public domain" url="https://www.biodiversitylibrary.org/page/307056">
+<param ve-image label="American Bog Plants" description="Thornton, Dionaea poem" license="public domain" url="https://www.biodiversitylibrary.org/page/307061">
+
+<param ve-image label="Naturalists Miscelanny" description="Shaw, Illustrated plate of Venus' flytrap" license="public domain" region="822,138,4110,3201" url="https://www.biodiversitylibrary.org/page/59263121">
 
 ### The Darwins’ ‘most wonderful’ plants
 
