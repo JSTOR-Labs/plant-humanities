@@ -78,3 +78,9 @@ Burdon-Sanderson’s experiments showed that Dionaea’s leaves closed only when
 
 https://upload.wikimedia.org/wikipedia/commons/d/d5/Mary_Vaux_Walcott_-_Venus_Flytrap_%28Dionaea_muscipula%29_-_1970.355.557_-_Smithsonian_American_Art_Museum.jpg
 
+Savage Garden US National Garden https://upload.wikimedia.org/wikipedia/commons/4/44/Savage_Gardens_Exhibit_at_the_U.S._Botanic_Garden_venus_flytrap_sculpture.JPG
+
+Venus flytrap, Dionaea muscipula
+William Bartram (1739 - 1823)
+Pen and ink on paper, 1767, © Natural History Museum
+
