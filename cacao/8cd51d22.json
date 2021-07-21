@@ -5,7 +5,7 @@
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=cacao/8cd51d22",
     "total": 2,
-    "modified": "2021-07-21T13:33:29.300292"
+    "modified": "2021-07-21T13:33:46.558501"
   },
   "startIndex": 0,
   "items": [
@@ -35,7 +35,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "pod",
+          "value": "cacao pod",
           "purpose": "commenting"
         }
       ],
@@ -45,7 +45,7 @@
           "conformsTo": "http://www.w3.org/TR/media-frags/",
           "value": "xywh=pixel:392.1576843261719,3772.81640625,1987.3337707519531,1202.21435546875"
         },
-        "id": "cacao/8cd51d22"
+        "id": "JSTOR-Labs/plant-humanities/develop/cacao/8cd51d22"
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "cacao/8cd51d22/aabc9ffe",
