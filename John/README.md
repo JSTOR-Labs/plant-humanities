@@ -24,6 +24,8 @@ These earliest accounts of Dionaea demonstrate the plant’s “femme fatale” 
 <param ve-map-layer geojson title="Native range" url="flytraprange-2.json">
 
 William Young, the “Queen’s Botanist” in North America, first brought living Dionaea plants to Europe in 1768.  He sent some to James Gordon, a well-known nurseryman, and continued to advertise them around England and later France as late as 1783.  Although William Bartram was likely the first to sketch Dionaea, Young produced a crudely colored illustration and named it Youngsonia in his never published A Natural History of Plants (1767).  After the Revolutionary War broke out in North America, Young relocated his business interests to France, publishing his Catalogue d’Arbres Arbustes et Plantes Herbacées d’Amerique in 1783. Two years later, he fell down a river bank and drowned while plant collecting in Gunpowder Creek, Maryland.
+<param ve-image label="Directions for bringing over seeds and plants, from the East-Indies and other distant countries, in a state of vegetation" description="Ellis illustration of flytrap" license="public domain" url="https://iiif.lib.harvard.edu/manifests/ids:400101862">
+
 <param ve-map center="Q1558" zoom="4">
 <param ve-map-layer geojson title="Introduced range" url="introducedrange.json">
 
