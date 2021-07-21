@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=cacao/8cd51d22",
-    "total": 1,
-    "modified": "2021-03-29T14:08:10.195630"
+    "total": 2,
+    "modified": "2021-07-21T13:33:29.300292"
   },
   "startIndex": 0,
   "items": [
@@ -29,6 +29,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "cacao/8cd51d22/32dde769",
       "seq": 0
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "pod",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:392.1576843261719,3772.81640625,1987.3337707519531,1202.21435546875"
+        },
+        "id": "cacao/8cd51d22"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "cacao/8cd51d22/aabc9ffe",
+      "seq": 1
     }
   ]
 }
