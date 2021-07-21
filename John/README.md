@@ -71,9 +71,10 @@ It was not until 1860, when another Darwin, Charles, began pondering the lethal 
 
 In the early 1870s Darwin’s passion for these plants reached a fever pitch. While focusing mainly on Drosera, he simultaneously studied carnivory in Dionaea, Utricularia, Pinguicula, and Aldrovanda. Meanwhile, Hooker occupied himself with the pitcher plants Nepenthes, Sarracenia, and Cephalotus at Kew. Inspired by a visit to Darwin’s home, Dr. John Burdon-Sanderson, one of the most prominent physiologists of the nineteenth century, was also compelled to investigate the mysterious behavior of Dionaea.
 <param ve-graphic img="https://upload.wikimedia.org/wikipedia/commons/9/9d/Dionaea_muscipula_closing_trap_animation.gif" title="Triggering a trap">
-<param ve-graphic img="https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif" title="Little Shop of Horrors">
 
 Burdon-Sanderson’s experiments showed that Dionaea’s leaves closed only when unsuspecting prey disturbed the electric current running through the plant, just as animal muscles contract in response to stimulus. Darwin further elucidated the nature of this  ingenious trapping mechanism. He realized that the plant had “learned” to determine the prey that was worth capturing. Of the three trigger hairs on each lobe of the leaf, two had to be touched within 20 seconds of each other to trigger the trap. Continuous stimulation would cause the trap to seal shut and begin digesting its prey, while smaller insects could simply slip out and the trap would reset. Part of Darwin’s enduring impact on biology was his work that examined such evolutionary adaptation through various botanical lenses, with the Venus flytrap being no exception.
+<param ve-graphic img="https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif" title="Little Shop of Horrors">
+
 <param ve-image label="Venus flytrap in the wild" description="prey in flytrap" license="public domain" region="285,500,1637,964" url="https://upload.wikimedia.org/wikipedia/commons/3/37/Venus_Flytrap_showing_trigger_hairs.jpg">
 
 https://upload.wikimedia.org/wikipedia/commons/d/d5/Mary_Vaux_Walcott_-_Venus_Flytrap_%28Dionaea_muscipula%29_-_1970.355.557_-_Smithsonian_American_Art_Museum.jpg
