@@ -7,11 +7,11 @@
 	   layout="vtl"
 	   author="John R. Schaefer">
 
-### Discovering Carnivory
 The Venus Flytrap, *Dionaea muscipula*, is easily the most famous <param ve-entity eid="Q18240"> carnivorous plant. These are plants that attract, capture, and digest animal prey in order to supplement the poor mineral nutrition of the soil in which they grow. Today, over 700 species possessing this specialized suite of adaptations have been identified, native to every continent except Antarctica. As the botanist <param ve-entity eid="Q157501"> Joeseph Dalton Hooker once proclaimed, “such vegetable sportsmen as the Sundew, the Venus’s Flytrap, and the Pitcher-Plants” have long been of interest to naturalists and the botanically inclined.[^ref1] Indeed, they have attracted the admiration of prominent scientists for hundreds of years, from <param ve-entity eid="Q1043"> Carl Linnaeus to <param ve-entity eid="Q1035"> Charles Darwin. Both men, having seen no small number of extraordinary plants in their lifetime, proclaimed the Venus Flytrap to be among the “most wonderful” in the world. The story of this carnivorous curiosity highlights Transatlantic networks of correspondence and specimen exchange as critical to the rise of early modern botany, and traces the terrifying delights this tiny plant inspired through visual, poetic, and experimental manipulation.
 <param ve-image label="*Dionaea muscipula*. Royal Botanic Garden, Sydney." description="Plants with Bite" attribution="John Schaefer" region="-864,127,4320,3454" license="public domain" url="https://user-images.githubusercontent.com/72099600/126518592-3ecb9dfd-af74-4cc0-8a42-58cb8f01140a.JPG">
 <param ve-image label="L-R: Pitcher plant (*Sarracenia purpurea*), Venus Flytrap (*Dionaea muscipula*), Sundew (*Drosera capensis*)" description="Plants with Bite" attribution="John Schaefer" license="public domain" region="713,14,3160,2526" url="https://user-images.githubusercontent.com/72099600/126547565-256b7442-8d6a-4039-9a7d-da627937f418.JPG">
 
+### Discovering Carnivory
 In 1759, North Carolina governor <param ve-entity eid="Q709129"> Arthur Dobbs relayed news of a “Catch Fly sensitive” plant to his old acquaintance <param ve-entity eid="Q1350818"> Peter Collinson.  Upon Collison’s request, the governor provided a more detailed description the following year. In June 1764, Collinson informed <param ve-entity eid="Q528476"> John Bartram of Philadelphia, a fellow <param ve-entity eid="Q170208"> Quaker naturalist, that he sent a dried leaf of the Venus flytrap, or “Tippitiwichet Sensitive,” to Linnaeus, whom he expected to “be in raptures at the sight of” it. Linnaeus’s response is not known, and it seems likely that the letter did not reach him.
 <param ve-image label="Venus flytrap in the wild" description="prey in flytrap" license="public domain" region="285,500,1637,964" url="https://upload.wikimedia.org/wikipedia/commons/3/3d/Dionaea%2C_fly._1.jpg">
 
@@ -89,7 +89,7 @@ https://upload.wikimedia.org/wikipedia/commons/d/d5/Mary_Vaux_Walcott_-_Venus_Fl
 
 Savage Garden US National Garden https://upload.wikimedia.org/wikipedia/commons/4/44/Savage_Gardens_Exhibit_at_the_U.S._Botanic_Garden_venus_flytrap_sculpture.JPG
 
-[1] Venus flytrap, Dionaea muscipula
+[^ref1] Venus flytrap, Dionaea muscipula
 William Bartram (1739 - 1823)
 Pen and ink on paper, 1767, © Natural History Museum
 
