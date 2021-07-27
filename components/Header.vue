@@ -436,6 +436,7 @@
           this.showForm('contact-form')
         } else {
           this.$emit('do-action', action, options)
+          this.$emit('do-action', 'load-page', options)
         }
       },
       
