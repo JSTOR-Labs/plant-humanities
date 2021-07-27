@@ -19,12 +19,14 @@ gaPropertyID: UA-125778965-7
 nav:
 - label: About
   icon: info
+  action: load-page
   path: /about
 - label: Contact Us
   icon: envelope
-  path: "/contact-us"
+  action: contact-us
 - label: Contributors
   icon: user-friends
+  action: load-page
   path: /contributors
 
 # If the /contact-us path is defined for the nav menu a contact form will be enabled
