@@ -24,6 +24,7 @@ nav:
 - label: Contact Us
   icon: envelope
   action: contact-us
+  path: /contact-us
 - label: Contributors
   icon: user-friends
   action: load-page
