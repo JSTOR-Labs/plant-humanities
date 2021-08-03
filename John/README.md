@@ -8,14 +8,14 @@
 	   author="John R. Schaefer">
 
 ### A Household Name
-The Venus flytrap, *Dionaea muscipula*, is easily the most famous <param ve-entity eid="Q18240"> carnivorous plant. These are plants that attract, capture, and digest animal prey in order to supplement the poor mineral nutrition of the soil in which they grow. Today, over 700 species possessing this specialized suite of adaptations have been identified, native to every continent except Antarctica. As the botanist <param ve-entity eid="Q157501"> Joeseph Dalton Hooker once proclaimed, “such vegetable sportsmen as the Sundew, the Venus’s Flytrap, and the Pitcher-Plants” have long been of interest to naturalists and the botanically inclined. [^ref1] Indeed, they have attracted the admiration of prominent scientists for hundreds of years, from <param ve-entity eid="Q1043"> Carl Linnaeus to <param ve-entity eid="Q1035"> Charles Darwin. Both men, having seen no small number of extraordinary plants in their lifetime, proclaimed the Venus flytrap to be among the “most wonderful” in the world. The story of this carnivorous curiosity highlights Transatlantic networks of correspondence and specimen exchange as critical to the rise of early modern botany, and traces the terrifying delights this tiny plant inspired through visual, poetic, and empirical mediums.
+The Venus flytrap, *Dionaea muscipula*, is easily the most famous <param ve-entity eid="Q18240"> carnivorous plant. These are plants that attract, capture, and digest animal prey in order to supplement the poor mineral nutrition of the soil in which they grow. Today, over 700 species possessing this specialized suite of adaptations have been identified, native to every continent except Antarctica. As the botanist <param ve-entity eid="Q157501"> Joeseph Dalton Hooker once proclaimed, “such vegetable sportsmen as the Sundew, the Venus’s Flytrap, and the Pitcher-Plants” have long been of interest to naturalists and the botanically inclined.[^ref1] Indeed, they have attracted the admiration of prominent scientists for hundreds of years, from <param ve-entity eid="Q1043"> Carl Linnaeus to <param ve-entity eid="Q1035"> Charles Darwin. Both men, having seen no small number of extraordinary plants in their lifetime, proclaimed the Venus flytrap to be among the “most wonderful” in the world.[^ref2] The story of this carnivorous curiosity highlights Transatlantic networks of correspondence and specimen exchange as critical to the rise of early modern botany, and traces the terrifying delights this tiny plant inspired through visual, poetic, and empirical mediums.
 <param ve-entity eid="Q155825" aliases="Dionaea muscipula"> 
 <param ve-image label="Venus flytrap. Royal Botanic Garden, Sydney." description="Plants with Bite" attribution="John Schaefer" region="-864,127,4320,3454" license="public domain" url="https://user-images.githubusercontent.com/72099600/126518592-3ecb9dfd-af74-4cc0-8a42-58cb8f01140a.JPG">
 <param ve-image label="L-R: Pitcher plant (Sarracenia purpurea), Venus flytrap (Dionaea muscipula), Sundew (Drosera capensis)" description="Plants with Bite" attribution="John Schaefer" license="public domain" region="713,14,3160,2526" url="https://user-images.githubusercontent.com/72099600/126547565-256b7442-8d6a-4039-9a7d-da627937f418.JPG">
 <param ve-image label="Venus flytrap in the wild" description="prey in flytrap" attribution="Wikimedia Commons" license="public domain" region="285,500,1637,964" url="https://upload.wikimedia.org/wikipedia/commons/3/3d/Dionaea%2C_fly._1.jpg">
 
 ### Discovering Carnivory
-In 1759, North Carolina governor <param ve-entity eid="Q709129"> Arthur Dobbs relayed news of a “Catch Fly sensitive” plant to his old acquaintance <param ve-entity eid="Q1350818"> Peter Collinson.  Upon Collison’s request, the governor provided a more detailed description the following year. In June 1764, Collinson informed <param ve-entity eid="Q528476"> John Bartram of Philadelphia, a fellow <param ve-entity eid="Q170208"> Quaker naturalist, that he sent a dried leaf of the Venus flytrap, or “Tippitiwichet Sensitive,” to Linnaeus, whom he expected to “be in raptures at the sight of” it. Linnaeus’s response is not known, and it seems likely that the letter did not reach him.
+In 1759, North Carolina governor <param ve-entity eid="Q709129"> Arthur Dobbs relayed news of a “Catch Fly sensitive” plant to his old acquaintance <param ve-entity eid="Q1350818"> Peter Collinson.[^ref3] Upon Collison’s request, the governor provided a more detailed description the following year. In June 1764, Collinson informed <param ve-entity eid="Q528476"> John Bartram of Philadelphia, a fellow <param ve-entity eid="Q170208"> Quaker naturalist, that he sent a dried leaf of the Venus flytrap, or “Tippitiwichet Sensitive,” to Linnaeus, whom he expected to “be in raptures at the sight of” it. Linnaeus’s response is not known, and it seems likely that the letter did not reach him.
 <param ve-map center="Q659400" zoom="7">
 <param ve-map-layer geojson label="The Venus flytrap's native range is limited to a roughly 50-mile radius around Wilmington, NC." title="Native Range" url="flytraprange-2.json">
 
@@ -100,9 +100,14 @@ As countless stunning cultivars are grown commercially to feed the global plant 
 <param ve-map center="Q659400" zoom="4">
 <param ve-map-layer geojson label="Wild populations of the Venus flytrap have been established accross the United States and Carribean, and are grown commercially worldwide." title="Introduced Range" url="introducedrange.json">
 
+
 https://upload.wikimedia.org/wikipedia/commons/d/d5/Mary_Vaux_Walcott_-_Venus_Flytrap_%28Dionaea_muscipula%29_-_1970.355.557_-_Smithsonian_American_Art_Museum.jpg
 
 Savage Garden US National Garden https://upload.wikimedia.org/wikipedia/commons/4/44/Savage_Gardens_Exhibit_at_the_U.S._Botanic_Garden_venus_flytrap_sculpture.JPG
 
-[^ref1] Venus flytrap, Dionaea muscipula
+### References
+
+[^ref1]: Xavier Perrier et al., “Multidisciplinary perspectives on banana (Musa spp.) domestication,” PNAS 108 (28) (2011): 11311–11318. http://dx.DOI.org/10.1073/pnas.1102001108
+[^ref2]: Jean Kennedy, “Pacific Bananas: Complex Origins, Multiple Dispersals?,” Asian Perspectives 47, no. 1 (2008): 75–94, DOI:10.1353/asi.2008.0004
+[^ref3]: Jean Kennedy, “Pacific Bananas: Complex Origins, Multiple Dispersals?” 
 
