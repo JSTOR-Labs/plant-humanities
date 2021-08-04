@@ -108,7 +108,7 @@ Savage Garden US National Garden https://upload.wikimedia.org/wikipedia/commons/
 
 ### References
 
-[^ref1]: Hooker, Joseph Dalton. Report of the British Association for the Advancement of Science. Vol. 44. London, 1875. https://www.biodiversitylibrary.org/item/94451.
+[^ref1]: Joseph Dalton Hooker. Report of the British Association for the Advancement of Science. Vol. 44. London, 1875. https://www.biodiversitylibrary.org/item/94451.
 [^ref2]: Darwin, Charles. Insectivorous Plants. London: J. Murray, 1875. https://www.biodiversitylibrary.org/item/178952.
 [^ref3]: Nelson, E. Charles. Aphrodite’s Mousetrap: A Biography of Venus’s Flytrap with Facsimiles of an Original Pamphlet and the Manuscripts of John Ellis. Aberystwyth, Wales: Published by Boethius Press in association with Bentham-Moxon Trust and the Linnean Society, 1990. 26-7.
 [^ref4]: Nelson, E. Charles. Aphrodite’s Mousetrap. 22.
@@ -119,9 +119,9 @@ Savage Garden US National Garden https://upload.wikimedia.org/wikipedia/commons/
 [^ref9]: Nelson. 37. 
 [^ref10]: Ellis, John. Directions for Bringing over Seeds and Plants, from the East-Indies and Other Distant Countries, in a State of Vegetation: Together with a Catalogue of Such Foreign Plants. To Which Is Added, the Figure and Botanical Description of a New Sensitive Plant, Called Dionaea Muscipula: Or, Venus’s Fly-Trap. London: Printed and sold by L. Davis, 1770. 37.
 [^ref11]: Linnaeus, Carl. “Letter 21 November 1768, Uppsala to Nicolaas Laurens Burman, Amsterdam.” Accessed April 25, 2021. http://urn.kb.se/resolve?urn=urn:nbn:se:alvin:portal:record-232622.
-[^ref12]: “Dionaea Muscipula - Venus Flytrap | Thomas Jefferson’s Monticello.” Accessed April 5, 2021. https://www.monticello.org/site/research-and-collections/dionaea-muscipula-venus-flytrap#footnote2_d6l1jms.
-[^ref13]: Darwin Correspondence Project, “Letter no. 2996,” accessed on 2 August 2021, https://www.darwinproject.ac.uk/letter/DCP-LETT-2996.xml 
+[^ref12]: Thomas Jefferson. “Dionaea Muscipula - Venus Flytrap | Thomas Jefferson’s Monticello.” Accessed April 5, 2021. https://www.monticello.org/site/research-and-collections/dionaea-muscipula-venus-flytrap#footnote2_d6l1jms.
+[^ref13]: Charles Darwin. Darwin Correspondence Project, “Letter no. 2996,” accessed on 2 August 2021, https://www.darwinproject.ac.uk/letter/DCP-LETT-2996.xml 
 [^ref14]: Charles Darwin. Insectivorous Plants. 286. 
 [^ref15]: Darwin, Erasmus. The Botanic Garden: A Poem, in Two Parts ... : With Philosophical Notes. J. Johnson, 1795. II.1:231-42. 
-[^ref16]: Bartram, William, and T. Cander. Travels through North and South Carolina, Georgia, East and West Florida, the Cherokee Country, the Extensive Territories of the Muscogulges or Creek Confederacy, and the Country of the Chactaws : Containing an Account of the Soil and Natural Productions of Those Regions : Together with Observations on the Manners of the Indians : Embellished with Copper-Plates. Philadelphia : Printed by James and Johnson, 1791. https://www.biodiversitylibrary.org/item/191332. xiii—xiv. 
+[^ref16]: Bartram, William. Travels through North and South Carolina, Georgia, East and West Florida, the Cherokee Country, the Extensive Territories of the Muscogulges or Creek Confederacy, and the Country of the Chactaws : Containing an Account of the Soil and Natural Productions of Those Regions : Together with Observations on the Manners of the Indians : Embellished with Copper-Plates. Philadelphia : Printed by James and Johnson, 1791. https://www.biodiversitylibrary.org/item/191332. xiii—xiv. 
 [^ref17]: Darwin, Francis. 1878. Experiments on the Nutrition of Drosera rotundifolia. Botanical Journal of the Linnean Society, 17(98): 17–31.
