@@ -36,9 +36,6 @@ Nepenthes are among the most wondrous carnivorous plants in the world. This grou
 <param ve-entity eid="Q18240" title="carnivorous plant" aliases="carnivorous plants">
 <param ve-entity eid="Q11982" title="photosynthesis">
 <param ve-image primary region="0,1369,2425,2320" url="https://ia800504.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002747399&itemPath=%2F9%2Fitems%2Fmobot31753002747399&server=ia800504.us.archive.org&page=n237_w2107" title="_Nepenthes rafflesiana_ Jacq., _Flore des serres et des jardins de l’Europe_, v. 16, 1865-1867" attribute="Missouri Botanical Garden, Peter H. Raven Library, Biodiversity Heritage Library, public domain.">
-<param ve-image fit="contain" ref="4" manifest="https://ids.si.edu/ids/manifest/ark:/65665/m3d8bc0e039a644dceb04960a923b2659a" title="_Nepenthes rafflesiana_ Jack, S. L. Schott, 7 Jan 1887, District of Columbia, United States." description="Squat round lower pitcher." attribute="National Museum of Natural History, Smithsonian Institution, CC0">
-<param ve-image fit="contain" ref="5" manifest="https://ids.si.edu/ids/manifest/ark:/65665/m3985c28e0ce344d09a3a50b8f33592c27" title="_Nepenthes rafflesiana_ Jack, Native collector, Sarawak, Malaysia, n.d." description="Elegantly tapered upper pitcher." attribute="National Museum of Natural History, Smithsonian Institution, CC0">
-<param ve-image region="3159,732,3490,2373" url="Nepenthes native range.jpg" title="Map showing native range of _Nepenthes_ (green). Created after Plants of the World Online.">
 {#paragraph4}
 
 ### “A Small Vase, with Its Own Lid, a Wonderful Sight”
