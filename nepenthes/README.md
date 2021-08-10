@@ -7,24 +7,32 @@
 
 ### Portrait from Life
 
-In the mid-1860s, the artist Philippe Lambotte (fl. 1860s–1870s) created a stunning portrait of nepenthes from life that was reproduced as a chromolithograph.[^ref1] This luminous print shows a full-length view of [_Nepenthes hookerii_](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:603725-1) against a pale blue-and-gold background to emphasize the plant’s vivid colors and chandelier-like form.[^ref2] Aesthetic characteristics further explored in two close-up views: one depicts a <span data-click-image-zoomto="1891,2724,1567,1453">green-and-maroon lamina</span> (leaf blade) with slightly curled edges and the other depicts a <span data-click-image-zoomto="4155,3695,1567,1405">pitcher with speckled markings</span> and fringed wings. Remarkably, <span data-click-image-zoomto="2">the nepenthes</span> on which Lambotte based his design was grown far from its native range—Southeast Asia—in Paris.
+In the mid-1860s, the artist Philippe Lambotte (fl. 1860s–1870s) created a stunning portrait of nepenthes from life that was reproduced as a chromolithograph.[^ref1] This print shows a full-length view of [_Nepenthes hookerii_](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:603725-1) against a pale blue-and-gold background to emphasize the plant’s viridescent foliage and chandelier-like form.[^ref2] Aesthetic characteristics further explored in two close-up views: one depicts a <span data-click-image-zoomto="1891,2724,1567,1453">green-and-maroon lamina</span> (leaf blade) with slightly curled edges and the other depicts a <span data-click-image-zoomto="4155,3695,1567,1405">pitcher (modified leaf) with speckled red-violet markings</span> and fringed wings. Remarkably, <span data-click-image-zoomto="2">the nepenthes</span> on which Lambotte based his design was grown far from its native ecosystem and range—the lowland rainforests of Southeast Asia—in Paris.[^ref3]
 <param ve-entity eid="Q217530" title="Nepenthes">
 <param ve-image primary ref="1" region="1277,3357,5009,4683" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47" title="Philippe Lambotte, _Nepenthes hookerii_, Louis-Constantin Stroobant, lithography, _Flore Ornamentale des Promenades de Paris_.">
 <param ve-image ref="2" region="0,475,1367,1283" url="Nepenthes rafflesiana_Flickr_AndreaSchieber_2019.jpg" title="_Nepenthes rafflesiana_, Bako National Park, Sarawak, Borneo, Malaysia, 2019." attribute="Andrea Schieber, Flickr, CC BY-NC-ND 2.0">
 {#paragraph1}
 
-Lambotte portrayed a nepenthes plant only recently cultivated at Paris’ new civic nursery—[Fleuriste de la Muette](https://www.jstor.org/stable/10.1525/rep.2012.120.1.83?mag=plant-of-the-month-fuchsia&seq=15#metadata_info_tab_contents)—for display in municipal gardens, which were created or revitalized during the urban renewal of the French capital.[^ref3] At the time, propagating tropical pitcher plants in temperate climates was still a horticultural feat worthy of immortalizing in pictures. In doing so, Lambotte recorded the visceral appeal of _Nepenthes hookerii_ while also, unwittingly, documenting its fleeting material presence at the Fleuriste and its surrounding park, <span data-click-image-zoomto="2">the sprawling Bois de Boulogne.</span> Nepenthes and many other trees, flowers, and shrubs at the Fleuriste and <span data-click-image-zoomto="3">the Bois were destroyed</span> during the Franco-Prussian War (1870–1871) and the Paris Commune (March–May 1871), never to be replaced.[^ref4] Making <span data-click-image-zoomto="1">Lambotte’s picture of _Nepenthes hookerii_</span> a vital window onto the history of nepenthes, through which to interpret its significance in Parisian green spaces and art of the 1860s.
+Lambotte portrayed a nepenthes plant newly cultivated at Paris’ Fleuriste de la Muette.[^ref3] The civic nursery complex—containing nearly twenty glasshouses—propagated enough ornamentals to supply the entire city’s municipal gardens, with some seasonal rotations.[^ref4] The glasshouse specifically designed for nepenthes is depicted in <span data-click-image-zoomto="4">these architectural drawings.</span> The lower section, for example, shows a corner of the building attached to a cutting-edge steam and water heating system that simulated growing conditions in the tropics. Notwithstanding the evidence of the drawings and Lambotte's portrait, the extent to which nepenthes grown at this glasshouse decorated Parisian promenades at parks, such as the <span data-click-image-zoomto="5">Bois de Boulogne,</span> remains a mystery. Because the Fleuriste and many of shrubs, flowers, and trees at <span data-click-image-zoomto="6">the neighboring Bois</span> were damaged or destroyed during the Franco-Prussian War (1870–1871) and the Paris Commune (March–May 1871), with few records of their material presence surviving today.[^ref5] Making these pictures of nepenthes, which were published in Adolphe Alphand’s [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i), all the more intriguing for studying the plant and its cultural significance in Paris, during the 1860s.[^ref3] 
+<param ve-entity eid="Q184784" title="architectural drawing" aliases="architectural drawings">
+<param ve-entity eid="Q20077174" title="conservatory" aliases="conservatories"> 
+<param ve-entity eid="Q419763" title="acclimatization" aliases="acclimatizing">
 <param ve-entity eid="Q46083" title="Franco-Prussian War"> 
-<param ve-entity eid="Q133132" title="Paris Commune"> 
-<param ve-image primary ref="1" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47" title="Philippe Lambotte, _Nepenthes hookerii_, Louis-Constantin Stroobant, lithography, _Flore Ornamentale des Promenades de Paris_.">
-<param ve-image ref="2" region="1720,572,2505,2259" manifest="https://iiif.lib.harvard.edu/manifests/drs:485679256" seq="8">
-<param ve-image ref="3" url="Bois_de_Boulogne_1871.jpg" title="_Lake in the Bois de Boulogne, Paris. (Sketch by Balloon Post.)_, _The Illustrated London News_, vol. 58, January 28, 1871, 97" attribute="Google Books, public domain">
+<param ve-entity eid="Q133132" title="Paris Commune">
+<param ve-entity eid="Q390367" title="Adolphe Alphand">
+<param ve-image primary ref="3" region="2319,1454,5298,4625" ref="10" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25">
+<param ve-image ref="4" region="2298,2454,1870,1627" ref="9" manifest="https://iiif.lib.harvard.edu/manifests/drs:47665956" seq="209">
+<param ve-image ref="5" region="1720,572,2505,2259" manifest="https://iiif.lib.harvard.edu/manifests/drs:485679256" seq="8">
+<param ve-image ref="6" url="Bois_de_Boulogne_1871.jpg" title="_Lake in the Bois de Boulogne, Paris. (Sketch by Balloon Post.)_, _The Illustrated London News_, vol. 58, January 28, 1871, 97" attribute="Google Books, public domain">
 {#paragraph2}
 
-As this example clarifies, images of nepenthes can provide insights about this plant in specific geographic, temporal, social, and cultural contexts. A history of nepenthes in pictures that attends to Eurocentric conventions for portraying this plant, from the 1650s to the 1870s, illuminates how it was exoticized, objectified, anthropomorphized, and domesticated. Visual analysis of eighteenth-century illustrations and herbarium sheets, for example, clarifies how these mediums communicated selected aesthetic and scientific information. At the same, it reveals how such images often flattened and decontextualized plants to the detriment of apprehending their complex status as life-forms and webs of interaction in the wild.[^ref5] Charting changes in the visual vocabularies used to portray nepenthes in the nineteenth century also powerfully demonstrates this plant’s far-reaching impact on the realms of horticulture, botany, and indoor gardening.
-<param ve-entity eid="Q181916" title="herbarium"> 
-<param ve-image primary region="0,682,1412,1319" url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000745171&itemPath=%2F34%2Fitems%2Fmobot31753000745171&server=ia800503.us.archive.org&page=n97_w1131" title="_Nepenthes rafflesiana_, Aylmer Bourke Lambert, _A description of the genus Pinus_, vol. 2, London, J. White, 1803-1824." attribute="Missouri Botanical Garden, Peter H. Raven Library, Biodiversity Heritage Library, public domain">
-<param ve-image region="420,959,2100,1971" url="Nepenthes rafflesiana_Flickr_Scott Zona_2016.jpg" title="_Nepenthes rafflesiana_, Bako National Park, Sarawak, Borneo, Malaysia, 2016." attribute="Scott Zona, Flickr, CC BY-NC 2.0">
+As the examples of X and Y clarify, It was constructed for display in municipal gardens, which were created or revitalized during the urban renewal of the French capital. [^ref33] The double-volume folio, from 1868–73, commemorated a citywide urban renewal project initiated by Napoleon III, Emperor of the French, overseen by Georges-Eugène Haussmann, and realized by many architects, horticulturalists, gardeners, and engineers, including Alphand.[^ref34]. A history of nepenthes in pictures that attends to Eurocentric conventions for portraying this plant, from the 1650s to the 1870s, illuminates how it was exoticized, objectified, anthropomorphized, and domesticated. Visual analysis of eighteenth-century illustrations and herbarium sheets, for example, clarifies how these mediums communicated selected aesthetic and scientific information. At the same, it reveals how such images often flattened and decontextualized plants to the detriment of apprehending their complex status as life-forms and webs of interaction in the wild.[^ref5] Charting changes in the visual vocabularies used to portray nepenthes in the nineteenth century also powerfully demonstrates this plant’s far-reaching impact on the realms of horticulture, botany, and indoor gardening.
+<param ve-entity eid="Q7721" title="Napoleon III">
+<param ve-entity eid="Q191798" title="Georges-Eugène Haussmann">
+<param ve-entity eid="Q201941" title="Jean-Pierre Barillet-Deschamps">
+<param ve-entity eid="Q3140857" title="horticulturist">
+<param ve-entity eid="Q181916" title="herbarium">
+<param ve-image primary ref="1" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47" title="Philippe Lambotte, _Nepenthes hookerii_, Louis-Constantin Stroobant, lithography, _Flore Ornamentale des Promenades de Paris_.">
 {#paragraph3}
 
 ### Font of Wonder
@@ -136,8 +144,6 @@ Some of the most prominent botanical and horticultural journals to advertise nep
 <param ve-tabulator url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/Emmenagogic_Herbs.tsv">
 {#paragraph14}
 
-### French Connections
-
 By the 1850s and 1860s, new technologies increased access to nepenthes in Europe and promoted a fashion for this plant’s use as an ornamental. Faster modes of land and maritime travel enabled the first shipment of a live pitcher plant to Europe in the 1840s.[^ref30]  Shortly thereafter, the British botanist Nathaniel Ward invented a [glazed box](https://www.doaks.org/resources/online-exhibits/botany-of-empire/plant-transportation/on-the-growth-of-plants-in-closely-glazed-cases)—the Wardian case—in which live plants could be shipped safely overseas.[^ref31] Its adoption by many nurseries in the 1840s accelerated the flow of pitcher plants to Europe, where they were cultivated in glasshouses that were themselves products of innovations in manufacturing, construction, and engineering. this chromolithograph was published as part of a set in the French engineer Adolphe Alphand’s [_Les Promenades de Paris_.](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i)[^ref33] The double-volume folio, from 1868–73, commemorated a citywide urban renewal project initiated by Napoleon III, Emperor of the French, overseen by Georges-Eugène Haussmann, and realized by many architects, horticulturalists, gardeners, and engineers, including Alphand.[^ref34] The publication was displayed at numerous world’s fairs to show France’s excellence in horticulture and garden design and ability to competitive with Britain in these arenas.[^ref35] 
 <param ve-entity eid="Q753457" title="rosette">
 <param ve-entity eid="Q184784" title="architectural drawing">
@@ -147,16 +153,6 @@ By the 1850s and 1860s, new technologies increased access to nepenthes in Europe
 <param ve-image primary region="1277,3357,5009,4683" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47" title="Philippe Lambotte, _Nepenthes hookerii_, Louis-Constantin Stroobant, lithography, _Flore Ornamentale des Promenades de Paris_.">
 <param ve-image ref="13" region="1720,572,2505,2259" manifest="https://iiif.lib.harvard.edu/manifests/drs:485679256" seq="8">
 {#paragraph15}
-
-It is astounding that Alphand’s head gardener Jean-Pierre Barillet-Deschamps, a French horticulturalist, selected tropical pitcher plants for display in Paris given its mild climate.[^ref36] Perhaps he did so to show the world that the French were up to the task! Indeed, several architectural drawings from Alphand’s Les Promenades des Paris celebrate the use of a new horticultural infrastructure to accomplish this feat. The images depict a glasshouse designed specifically for cultivating nepenthes and a cutting-edge gas and water heating system used to simulate growing conditions in its native habitat. In the longitudinal section, a modern glass-and-metal enclosure frames a row of nepenthes to show how technological advances were harnessed to domesticate this plant for human use. The structure was one of many comprising the <span data-click-image-zoomto="10">Fleuriste de la Muette</span>: a Parisian civic nursery complex built in 1855 to supply ornamentals for the entire city and some seasonal rotations.[^ref37] Its factory-like <span data-click-image-zoomto="8">multiplication glasshouse</span> suggests that ornamental plants were increasingly construed as mass-producible and infinitely replenishable natural resources—a cultural attitude typical of many Western societies today.
-<param ve-entity eid="Q201941" title="Jean-Pierre Barillet-Deschamps">
-<param ve-entity eid="Q3140857" title="horticulturist">
-<param ve-entity eid="Q20077174" title="conservatory" aliases="conservatories"> 
-<param ve-entity eid="Q419763" title="acclimatization" aliases="acclimatizing">
-<param ve-image primary region="2298,2454,1870,1627" ref="9" manifest="https://iiif.lib.harvard.edu/manifests/drs:47665956" seq="209">
-<param ve-image region="5029,1635,2060,1870" ref="8" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="26">
-<param ve-image region="2319,1454,5298,4625" ref="10" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25">
-{#paragraph16}
 
 ### Gimme Danger
 
@@ -169,7 +165,7 @@ Although Western botanists had long observed insects, animals, and liquid inside
 <param ve-image region="158,135,1168,1031" url="https://ia601603.us.archive.org/BookReader/BookReaderImages.php?zip=/8/items/lamosaiquerevuep1875unse/lamosaiquerevuep1875unse_jp2.zip&file=lamosaiquerevuep1875unse_jp2/lamosaiquerevuep1875unse_0020.jp2&id=lamosaiquerevuep1875unse&scale=2&rotate=0" title="After W. G. Smith, _Carnivorous Plants in the Royal Botanic Gardens, Kew_, L. B., _Les Plantes Attrape-Mouches_ (_Fly Trap Plants_), _La Mosaïque_, 1875" attribute="Getty Research Institute, Internet Archive, public domain">
 <param ve-image region="0,1237,1769,1619" url="https://ia800900.us.archive.org/BookReader/BookReaderImages.php?id=reportofbritisha75brit&itemPath=%2F21%2Fitems%2Freportofbritisha75brit&server=ia800900.us.archive.org&page=n606_w1769" title="Joseph Dalton Hooker, “Address to the Department of Botaby and Zoology [The Carnivorous Habits of Plants], _Report of the British Association for the Advancement of Science_, 1874, page 111” attribute="Natural History Museum Library, London, Biodiversity Heritage Library, public domain">
 <param ve-image region="0,152,1024,939" url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Die_Gartenlaube_%281875%29_168.jpg/1024px-Die_Gartenlaube_%281875%29_168.jpg" title="E. Schmidt, _Pflanzen als Insectenfänger_ (_Insectivorous Plants_) (, _Die Gartenlaube_, Leipzig: Ernst Keil, 1875, p. 168." attribute="Wikimedia Commons, public domain">
-{#paragraph17}
+{#paragraph16}
 
 ### “Exotic Plants and Flowers” Sold Here
 
@@ -184,7 +180,7 @@ While it is difficult to determine how many amateur gardeners and plant collecto
 <param ve-image primary region="0,102,2136,1970" url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n103_w2136" title="Édouard Riou, _Plantes et fleurs exotiques_, L. Dumont, engraving, _L’Illustration horticole_, vol. 26, 1879" attribute="Missouri Botanical Garden, Peter H. Raven Library, Biodiversity Heritage Library, CC">
 <param ve-image region="-733,102,3665,3373" url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n102_w2199" title="Louis Enault, _Succursale de la Maison J. Linden à Paris_, page 88, _L’Illustration horticole_, vol. 26, 1879" attribute="Missouri Botanical Garden, Peter H. Raven Library, Biodiversity Heritage Library, CC">
 <param ve-image region="0,1,2221,2044" url="https://ia800503.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753002364161&itemPath=%2F17%2Fitems%2Fmobot31753002364161&server=ia800503.us.archive.org&page=n105_w2221" title="Louis Enault, _Succursale de la Maison J. Linden à Paris_, page 89, _L’Illustration horticole_, vol. 26, 1879" attribute="Missouri Botanical Garden, Peter H. Raven Library, Biodiversity Heritage Library, CC">
-{#paragraph18}
+{#paragraph17}
 
 Linden’s marketing of nepenthes as “exotic”—both in the botanical sense and culturally—invites consideration of what associations this plant and its foreign provenance may have held for late nineteenth-century plant enthusiasts.[^ref39] Regardless of whether the nursery’s nepenthes came from India, Oceania, or New Caledonia, it boasted of trafficking in flora from these places and that was perhaps enough to conflate tropical pitcher plants with an imagined Orient that flattened botanical, cultural, and ecological differences.[^ref40] Because there was not any convention for portraying nepenthes in its native habitat, travel pictures of New Caledonia offer some clues about what stereotypes of this colony were then in circulation.[^ref41] A view of the Port-de-France presents a paradisical landscape seen from an elevated vantage point that reinforced a European position of mastery over this site and its botanical riches. Similarly, a portrait of the Frenchman and miner Jules Gardier shows him reclining, like an odalisque, in a lush green space with persons of Kanak heritage. These images of colonial contact zones offer some suggestions about the kinds of Eurocentric fantasies that may have become associated with exotic plants.
 <param ve-entity eid="Q33788" title="New Caledonia">
@@ -194,7 +190,7 @@ Linden’s marketing of nepenthes as “exotic”—both in the botanical sense 
 <param ve-image primary url="nepenthes vieillardii_Flickr.jpg" title="_Nepenthes vieillardii_, New Caledonia, June 3, 2011" attribute="gérard, Flickr, CC BY-SA 2.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/No02p04_nelle_caledonie-e04-vue_de_la_rade_de_port-de-france.jpg/1280px-No02p04_nelle_caledonie-e04-vue_de_la_rade_de_port-de-france.jpg" title="_View of the harbor of Port-de-France (New Caledonia), after a sketch by an officer of the establishment_, engraving, L. Breton, _Le Monde illustré_, April 25, 1857, Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, FOL-LC2-2943." attribute="Poutourrou, Wikimedia Commons, public domain">
 <param ve-image region="137,809,1053,988" url="Voyage autour du monde. La Nouvelle-Caledonie_HathiTrust.jpg" title="_Respite in the Bush_, engraving, L. Breton, Jules Garnier, _Voyage autour du monde. La Nouvelle-Calédonie (côte orientale)_, 3rd edition, Paris, E. Plon et cie., 1873." attribute="Harvard University, HathiTrust, public domain">
-{#paragraph19}
+{#paragraph18}
 
 ### Enduring Wonderment
 
@@ -203,7 +199,7 @@ Scientists have also discovered that many nepenthes engage in symbiotic relation
 <param ve-entity eid="Q301862" title="Hardwicke's woolly bat">
 <param ve-entity eid="Q208841" title="co-evolution" aliases="co-evolved"> 
 <param ve-video title="_Is this the first bat-eating plant? - Nature's Weirdest Events: Episode 4 Preview - BBC Two_, BBC, Oct 14, 2016." vid="FCZFFc6YRX4">
-{#paragraph20}
+{#paragraph19}
 
 The contemporary artists Madeline von Foerster produces dazzling pictures of plants that engage with present-day environmental issues. In her painting _Carnival Insectivora_, Foerster represents a bouquet of vividly hued carnivores that visually conveys their visceral and aesthetic allure. At the center of the composition, an open-lidded nepenthes—mouth agape and no doubt hungry—waits to be fed a jewel-like insect clasped within the fingers of a disembodied hand. The plant is displayed alongside a verity of other equally charismatic carnivores. They include, moving clockwise from bottom left, _Drosera_ (sundew), _Heliamphora_ (sun pitcher), _Darlingtonia_ (cobra plant), _Sarracenia_ (American pitcher plant), _Drosophyllum_ (dewy pine), and _Dionaea muscipula_ (Venus flytrap). The diversity of genii showcased in this image recall the sorts of illustrations that were produced in the mid-1870s, celebrating the discovery of plant carnivory. Connect to issues of plant blindness.
 <param ve-entity eid="Q266" title="Drosera">
@@ -215,7 +211,7 @@ The contemporary artists Madeline von Foerster produces dazzling pictures of pla
 <param ve-entity eid="Q11917246" title="Dionaea muscipula">
 <param ve-entity eid="Q83437" title="gemstone"> 
 <param ve-image region="-303,-13,1517,1339" url="Carnival_Insectivora_Gouache.jpg" title="Madeline von Foerster, _Carnival Insectivora_, 2019, gouache on paper, 35 x 50 cm, private collection" attribution="© Madeline von Foerster, http://www.madelinevonfoerster.com">
-{#paragraph21}
+{#paragraph20}
 
 ### References
 [^ref1]: Anthea Phillipps, Anthony Lamb, Phillip Cribb, Royal Botanic Gardens, Kew, and Malayan Nature Society, _Pitcher-plants of Borneo_ (Kota Kinabalu: Natural History Publications (Borneo), 1996).
