@@ -112,7 +112,7 @@ Arthur Conan Doyle, the author of Sherlock Holmes, helped jumpstart this craze i
 <param ve-entity eid="Q42511">
 <param ve-entity eid="Q1199259">
 <param ve-entity eid="Q886190">
-<param ve-graphic img="https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif" title="The man-eating Audrey II, modeled after the Venus flytrap (Feed me, Seymour!). Little Shop of Horrors (1986).">
+<param ve-graphic img="https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif" title="The man-eating Audrey II, modeled after the Venus flytrap (Feed me, Seymour!). Little Shop of Horrors (1986)." attribution="Giphy">
 
 As the Venus flytrap made this leap from Darwin's scientific publication to popular periodicals, it was also taken on as a protagonist of new media of educational and artistic display. The Blaschka Glass Flowers, commissioned in 1886 by Professor George Lincoln Goodale, the first director of Harvard’s Botanical Museum, included perhaps the first life-sized model of *Dionaea muscipula* for teaching, complete with a <span data-click-image-zoomto="1039,4089,702,547">tiny glass fly</span> frozen on the precipice of doom.
 <param ve-entity eid="Q835748" aliases="Blaschka Glass Flowers">
@@ -120,11 +120,12 @@ As the Venus flytrap made this leap from Darwin's scientific publication to popu
 
 As countless stunning cultivars are grown commercially to feed the global plant trade, wild populations of *Dionaea muscipula* have become increasingly threatened by habitat destruction, poaching, pollution, and anthropogenic climate change. Nearly half of all carnivorous plants fall under <param ve-entity eid="Q48268"> International Union for Conservation of Nature (IUCN) risk categories, ranging from near threatened to critically endangered. Despite wild populations having been established in the United States and Caribbean, *Dionaea* is currently listed as “vulnerable,” with hefty fines and jail time threatening potential poachers.
 <param ve-map center="Q1558" zoom="4">
-<param ve-map-layer geojson title="Wild populations of the Venus flytrap have been established accross the United States and Carribean, and are grown commercially worldwide." title="Introduced Range" url="introducedrange.json">
+<param ve-map-layer geojson title="Wild populations of the Venus flytrap have been established accross the United States and Carribean, and are grown commercially worldwide." url="introducedrange.json">
 
 Yet, today, the Venus flytrap remains on display in the living collections of almost every major botanic garden in the world. Frequently appearing in special exhibitions and displays, it continues to draw the fascination of millions of visitors each year. The Venus flytrap has assumed many unorthodox roles in human affairs, becoming - sometimes simultaneously - a bawdy pun, poetic curiosity, threat to scientific order, wonder of natural selection, teaching tool, and an inspiration for exotic myths and monstrosities. The summer of 2021 even witnessed the release of an empowering pop-ballad that subverts the plant's bawdy origins and pays homage to the creature features it inspired throughout the twentieth century. As countless individuals have struggled to find a place for this curious little plant within their respective social and scientific contexts, the fair *Dionaea* has become firmly established as an organism of beguiling and at times disconcerting cultural significance.
 <param ve-video vid="F1JTlnHGa90">
-<param ve-image label="Savage Garden display at the US National Garden (2008)." attribution="Wikimedia Commons" description="illustration of carnivorous plants" license="public domain" fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Savage_Gardens_Exhibit_at_the_U.S._Botanic_Garden_venus_flytrap_sculpture.JPG">
+<param ve-image label="Plants With Bite Exhibit at the Royal Botanic Garden, Sydney (2020)." attribution="John Schaefer" license="public domain" fit="contain" url="https://user-images.githubusercontent.com/72099600/129496212-937b675d-ed22-47d1-8ee6-e73a4edb5d15.JPG">
+<param ve-image label="Savage Garden display at the US National Garden (2008)." attribution="Wikimedia Commons" description="illustration of carnivorous plants" license="public domain" fit="fill" url="https://upload.wikimedia.org/wikipedia/commons/4/44/Savage_Gardens_Exhibit_at_the_U.S._Botanic_Garden_venus_flytrap_sculpture.JPG">
 
 ### References
 
