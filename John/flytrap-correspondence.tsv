@@ -2,6 +2,8 @@ source	source.label	target	target.label	edge
 Q1043	Carl Linnaeus 	Q11917246	Dionaea muscipula	classified
 Q1043	Carl Linnaeus 	Q39789	Daniel Solander	received dried specimens from
 Q1043	Carl Linnaeus 	Q934747	John Ellis 	received dried specimens from
+Q1043	Carl Linnaeus 	Q18783607	David Skene	correspondent of
+Q1043	Carl Linnaeus 		James Gordon	correspondent of
 Q1043	Carl Linnaeus 	Q34	SWEDEN	lived in
 Q934747	John Ellis	Q21	ENGLAND	lived in 
 Q934747	John Ellis	Q39789	Daniel Solander	corresponded with
@@ -45,4 +47,8 @@ Q34969	Benjamin Franklin	Q30	AMERICA	founding father of
 Q34969	Benjamin Franklin	Q11812	Thomas Jefferson	close friend of
 Q18783607	David Skene	Q21	ENGLAND	lived in
 Q161159	Queen Charlotte of Mecklenburg-Strelitz	Q21	ENGLAND	Queen of
+Q377335	James Douglas, 14th Earl of Morton	Q21	ENGLAND	lived in
+Q377335	James Douglas, 14th Earl of Morton	Q934747	John Ellis 	fellows of RS
+Q716978	Nicolaas Laurens Burman	Q1043	Carl Linnaeus 	correspondent of
+Q716978	Nicolaas Laurens Burman		NETHERLANDS	lived in
 
