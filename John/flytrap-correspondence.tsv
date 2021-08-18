@@ -45,6 +45,7 @@ Q34969	Benjamin Franklin	Q528476	John Bartram	corresponded with
 Q34969	Benjamin Franklin	Q934747	John Ellis 	corresponded with
 Q34969	Benjamin Franklin	Q30	AMERICA	founding father of
 Q34969	Benjamin Franklin	Q11812	Thomas Jefferson	close friend of
+Q18783607	David Skene	Q11917246	Dionaea muscipula	corresponded about
 Q18783607	David Skene	Q21	ENGLAND	lived in
 Q161159	Queen Charlotte of Mecklenburg-Strelitz	Q21	ENGLAND	Queen of
 Q377335	James Douglas, 14th Earl of Morton	Q21	ENGLAND	lived in
@@ -53,3 +54,6 @@ Q377335	James Douglas, 14th Earl of Morton	Q11917246	Dionaea muscipula	correspon
 Q716978	Nicolaas Laurens Burman	Q1043	Carl Linnaeus 	correspondent of
 Q716978	Nicolaas Laurens Burman	Q55	NETHERLANDS	lived in
 Q716978	Nicolaas Laurens Burman	Q11917246	Dionaea muscipula	corresponded about
+	Justina Davis	Q709129	Arthur Dobbs	married
+	Justina Davis	Q30	AMERICA	North Carolina
+
