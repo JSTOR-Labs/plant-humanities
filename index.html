@@ -322,6 +322,7 @@
       console.log(`headRef: acct=${acct} repo=${repo} ref=${ref} token=${token} oauthAccessToken=${oauthAccessToken} ghUnscopedToken=${ghUnscopedToken}`)
       let resp = await fetch(`https://api.github.com/repos/${acct}/${repo}/git/refs/heads`, {
         headers: {Authorization: `Token ${token}`, Accept: 'application/vnd.github.v3+json'} })
+      console.log(resp)
       if (resp.ok) {
         heads = await resp.json()
         found = heads.find(head => head.ref === `refs/heads/${ref}`)
