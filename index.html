@@ -51,8 +51,6 @@
         :params="params"
         :available-viewers="availableViewers"
         :scroll-top="scrollTop"
-        :site-config="siteConfig"
-        :essay-config="essayConfig"
         :content-source="contentSource"
         :logins-enabled="loginsEnabled"
         :is-juncture="isJuncture"
@@ -186,8 +184,8 @@
   
     console.log(window.location)
     const ENV = window.location.hostname === 'localhost' || window.location.hostname.indexOf('gitpod') > 0 ? 'DEV' : 'PROD'
-    let isJuncture = window.location.hostname.indexOf('juncture-digital.org') === 0 || ENV === 'DEV'
-    const junctureVersion = 'main'
+    let isJuncture = window.location.hostname.indexOf('juncture-digital.org') >= 0 || window.location.host === 'localhost:8088'
+    const junctureVersion = 'v0.2.12'
     let junctureVersionHash
 
     const referrerUrl = document.referrer
@@ -268,7 +266,7 @@
         let repo = window.location.pathname.split('/').filter(elem => elem !== '')[0] || 'juncture'
         contentSource = {acct: 'jstor-labs', repo, branch: 'main', ref: 'main', hash: null, baseUrl: window.location.origin, basePath: `/${repo}`, isGhpSite: true,
                          assetsBaseUrl: `${window.location.origin}/${repo}`}
-        // isJuncture = contentSource.acct === 'jstor-labs' && contentSource.repo === 'juncture'
+        isJuncture = contentSource.acct === 'jstor-labs' && contentSource.repo === 'juncture'
 
       } else {
         // GHP deploy mode
@@ -288,20 +286,6 @@
           contentSource = {
             acct: 'jstor-labs', repo: 'juncture', ref: 'main', basePath: '', isGhpSite: false,
             baseUrl: window.location.origin, assetsBaseUrl: `https://raw.githubusercontent.com/jstor-labs/juncture/main`
-          }
-          let pathElems = window.location.pathname.split('/').filter(elem => elem !== '')
-          if (pathElems.length >= 2) {
-            let ghRepoInfo = await githubRepoInfo(pathElems[0], pathElems[1])
-            if (ghRepoInfo) {
-              contentSource = {...contentSource, ...ghRepoInfo}
-              contentSource.basePath = `/${contentSource.acct}/${contentSource.repo}`
-            }
-          }
-
-        } else if (window.location.hostname === 'dev.juncture-digital.org') {
-          contentSource = {
-            acct: 'jstor-labs', repo: 'juncture-dev', ref: 'main', basePath: '', isGhpSite: false,
-            baseUrl: window.location.origin, assetsBaseUrl: `https://raw.githubusercontent.com/jstor-labs/juncture-dev/main`
           }
           let pathElems = window.location.pathname.split('/').filter(elem => elem !== '')
           if (pathElems.length >= 2) {
@@ -344,8 +328,7 @@
         sha = found ? found.object.sha : null
       } 
       if (!sha) {
-        resp = await fetch(`https://api.github.com/repos/${acct}/${repo}/tags`, {
-          headers: {Authorization: `Token ${token}`, Accept: 'application/vnd.github.v3+json'} })
+        resp = await fetch(`https://api.github.com/repos/${acct}/${repo}/tags`)
         if (resp.ok) {
           tags = await resp.json()
           found = tags.find(tag => tag.name === ref)
@@ -400,7 +383,7 @@
         }}
       //}
       if (gaPropertyID) ga('create', gaPropertyID, 'auto')
-      let attrsWithUrls = ['banner', 'favicon', 'logo']
+      let attrsWithUrls = ['banner', 'favicon']
 
       if (ENV === 'PROD' || window.location.port === '8088') {
         headRef(contentSource.acct, contentSource.repo, contentSource.ref).then(headHash => {
@@ -476,7 +459,7 @@
           isJuncture,
           junctureVersion,
           path: '/',
-          mdPath: '',
+          mdpath: '',
           mdDir: '/',
           markdown: null,
           markdownViewer: null,
@@ -508,7 +491,7 @@
         computed: {
           // essayConfig() { return this.params.find(attr => attr['ve-config'] !== undefined) },
           mainComponent() { return this.essayConfig && this.essayConfig.component ? `ve-${this.essayConfig.component.toLowerCase()}` : null},
-          isAdminUser() { return ENV === 'DEV' || authenticatedUser !== null && (authenticatedUser.isAdmin || contentSource.acct === authenticatedUser.acct) },
+          isAdminUser() { return authenticatedUser !== null && (authenticatedUser.isAdmin || contentSource.acct === authenticatedUser.acct) },
           ghToken() { return oauthAccessToken || ghUnscopedToken },
           viewerStyle() { return { 
             height: this.viewerIsOpen
@@ -580,25 +563,24 @@
             console.log('doAction', action, options)
             if (action === 'send-email') {
               this.doActionCallback = {status: 'processing', message: 'Processing request'}
-              let resp = await sendEmail(options)
-              console.log(resp)
+              await sendEmail(options)
               this.doActionCallback = {status: 'done', message: 'Email sent'}
-            } else if (action === 'view-markdown') {
+            } else if (action === 'viewMarkdown') {
               this.markdownViewer.show()
-            } else if (action === 'edit-page') {
+            } else if (action === 'editMarkdown') {
               this.editMarkdown()
-            } else if (action === 'add-page') {
+            } else if (action === 'addPage') {
               this.reposForAcct = await this.listRepositories()
               this.selectedRepo = this.reposForAcct.length > 0 ? this.reposForAcct[0].name : null
               this.showForm('add-page-form')
-            } else if (action === 'create-site') {
+            } else if (action === 'createSite') {
               this.showForm('create-site-form')
-            } else if (action === 'software-update') {
+            } else if (action === 'updateSite') {
               let releases = await getGHReleases()
               this.selectedRelease = releases[0]
               this.releases = releases
               this.showForm('update-site-form')
-            } else if (action === 'goto-github') {
+            } else if (action === 'gotoGitHub') {
               window.open(`https://github.com/${contentSource.acct}/${contentSource.repo}/tree/${contentSource.ref}`, '_blank')
             } else if (action === 'viewSiteOnJuncture') {
               window.location.href = `https://juncture-digital.org/${contentSource.acct}/${contentSource.repo}`
@@ -606,7 +588,7 @@
               this.authenticate()
             } else if (action === 'logout') {
               this.logout()
-            } else if (action === 'load-page') {
+            } else if (action === 'loadEssay') {
               this.loadEssay(options)
             }
           },
@@ -632,8 +614,7 @@
             this.formProcessingMessage = 'Creating site...'
             await this.createSite(this.authenticatedUser.acct, this.newRepo, junctureVersion)
             let siteUrl = `https://${this.authenticatedUser.acct}.github.io/${this.newRepo}`
-            // this.formProcessingMessage = `New Juncture site created at <a href="${siteUrl}">${siteUrl}</a>`
-            this.formProcessingMessage = `New Juncture site created.`
+            this.formProcessingMessage = `New Juncture site created at <a href="${siteUrl}">${siteUrl}</a>`
             this.formProcessingStatus = 'done'
           },
           
@@ -711,13 +692,20 @@
             for (let i = 0; i < pathsToTry.length; i++) {
               markdown = await this.getMarkdown(pathsToTry[i])
               if (markdown) {
-                let pathElems = pathsToTry[i].split('/').filter(elem => elem !== '')
-                let mdFile = pathElems.slice(-1)
-                this.mdDir = `/${pathElems.slice(0,-1).join('/')}`
-                this.mdPath = pathsToTry[i]
+                let mdFile = path.split('/').pop()
+                this.mdDir = mdFile !== 'README.md' && mdFile !== 'index.md' && mdFile !== 'admin.md' ? path : '/'
                 break
               }
+              this.mdPath = pathsToTry[i]
             }
+            if (markdown) {
+              ([this.markdown, this.html, this.params, this.entities] = await this.parseMarkdown(markdown))
+              let essayConfig = this.params.find(param => param['ve-config']) || {}
+              if (essayConfig.banner) essayConfig.banner = convertURL(essayConfig.banner)
+              essayConfig.component = essayConfig.component || 'essay'
+              this.essayConfig = essayConfig
+            }
+            if (gaPropertyID) ga('send', 'pageview', `${contentSource.basePath}${path}`)
 
             let browserPath = `${contentSource.basePath}${path}${this.anchor ? '#'+this.anchor : ''}`
             if (qargs.ref) browserPath += `?ref=${qargs.ref}`
@@ -727,22 +715,11 @@
               history.pushState({file: path || ''}, '', browserPath)
             }
 
-            if (markdown) {
-              ([this.markdown, this.html, this.params, this.entities] = await this.parseMarkdown(markdown))
-              let essayConfig = this.params.find(param => param['ve-config']) || {}
-              console.log('essayConfig', essayConfig)
-              if (essayConfig.banner) essayConfig.banner = convertURL(essayConfig.banner)
-              essayConfig.component = essayConfig.component || 'essay'
-              this.essayConfig = essayConfig
-            }
-            if (gaPropertyID) ga('send', 'pageview', `${contentSource.basePath}${path}`)
-
           },
 
           // Convert essay Markdown into HTML.  Markdown headings are used to infer content heirarchy
           async parseMarkdown(markdown) {
             let tmp = new DOMParser().parseFromString(md.render(markdown), 'text/html').children[0].children[1]
-            console.log(tmp)
             this.convertResourceUrls(tmp)
       
             let essay = document.createElement('div')
@@ -754,11 +731,12 @@
             tmp.querySelectorAll('param').forEach(param => {
               if (param.id || param.classList.length > 0) {
                 let prior = param.previousElementSibling
-                if (prior) {
-                  if (param.id) prior.id = param.id
-                  if (param.className) prior.className = param.className
-                  param.parentElement.removeChild(param)
+                if (param.id) {
+                  prior.id = param.id
+                  param.removeAttribute('id')
                 }
+                if (param.classList.length > 0) prior.className = param.className
+                param.parentElement.removeChild(param)
               }
             })
 
@@ -788,7 +766,7 @@
                 currentSection.setAttribute('data-id', currentDataID)
 
                 if (elClasses.indexOf('cards') >= 0) {
-                  let wrapper = new DOMParser().parseFromString(`<section class="${elClasses.join(' ')}"></section>`, 'text/html').children[0].children[1].children[0]
+                  let wrapper = new DOMParser().parseFromString('<section class="cards"></section>', 'text/html').children[0].children[1].children[0]
                   currentSection.appendChild(wrapper)
                 } else {
                   currentSection.classList.add(...elClasses)
@@ -801,7 +779,7 @@
 
                 parent.appendChild(currentSection)
 
-              } else if (el.tagName === 'P' || el.tagName === 'UL' || el.tagName === 'OL') {
+              } else if (el.tagName === 'P') {
                 if (el.innerHTML.indexOf('ve-button.png') >= 0) {
                   el = null
                 } else if (el.innerHTML.indexOf('class="nav"') >= 0) {
@@ -856,7 +834,8 @@
                 return paramObj
               })
 
-            let entities = await this.getEntityData(this.findEntities(tmp, params))
+              let entities = await this.getEntityData(this.findEntities(tmp, params))
+
             return [markdown, essay.innerHTML, params, entities]
           },
 
@@ -939,15 +918,12 @@
           },
 
           convertResourceUrls(root) {
-            let pathIsDir = this.path.slice(0,-1) === this.mdDir
             root.querySelectorAll('img').forEach(img => {
-              if (img.src.indexOf(window.location.origin) === 0) img.setAttribute('src', convertURL(img.src,`${contentSource.basePath}${this.path}`, pathIsDir))
+              if (img.src.indexOf(window.location.origin) === 0) img.setAttribute('src', convertURL(img.src,`${contentSource.basePath}${this.path}`, this.mdDir !== '/'))
             })
             root.querySelectorAll('param').forEach(param => {
               ['url', 'banner', 'article', 'logo'].forEach(attr => {
-                if (param.attributes[attr]) {
-                  param.setAttribute(attr, convertURL(param.attributes[attr].value, `${contentSource.basePath}${this.path}`, pathIsDir))
-                }
+                if (param.attributes[attr]) param.setAttribute(attr, convertURL(param.attributes[attr].value, `${contentSource.basePath}${this.path}`, this.mdDir !== '/'))
               })
             })
             return root
@@ -1134,7 +1110,7 @@
               let toReplace = {...replacementValues, ...{'<<edit-url>>': `https://github.com/${targetAcct}/${targetRepo}/edit/main/README.md`}}
               await this.putFile('/README.md', this.replaceValues(resp.content, toReplace), targetAcct, targetRepo, 'main')
 
-              await this.addPage(targetAcct, targetRepo, fromRef, '/sample')
+              await this.addPage(targetAcct, targetRepo, fromRef, '/about')
             }
 
           },
@@ -1192,7 +1168,11 @@
           essayConfig (config) {
             this.layouts = []
             this.viewerIsOpen = false
-            if (config && config.layout) this.layouts = config.layout.split(',').map(layout => layout === 'vtl' ? 'vertical' : layout)
+            if (config) {
+              if (config.layout) this.layouts = config.layout.split(',').map(layout => layout === 'vtl' ? 'vertical' : layout)
+              // Array.from(this.$refs.app.classList).forEach(cls => this.$refs.app.classList.remove(cls))
+              if (config.class) config.class.replace(/,/,' ').split(' ').forEach(cls => this.$refs.app.classList.add(cls))
+            }
           },
 
           // Watcher that updates various data elements when the active paragraph changes
@@ -1413,7 +1393,7 @@
       resp = YAML.parse(resp)
       ghUnscopedToken = atob(resp.ghUnscopedToken)
       fontawesome = resp.fontawesome
-      if (isJuncture || ENV === 'DEV') {
+      if (isJuncture) {
         config = resp
         gcApiKey = atob(config.gcApiKey)
         gcAuthDomain = atob(config.gcAuthDomain)
@@ -1441,22 +1421,17 @@
       if (config.gaPropertyID) gaPropertyID = config.gaPropertyID
       if (config.fontawesome) fontawesome = config.fontawesome
       loginsEnabled = gcApiKey !== undefined && gcAuthDomain !== undefined
-      console.log(config)
       return config
     }
 
     async function getGHTags() {
-      let ghToken = oauthAccessToken || ghUnscopedToken
-      let resp = await fetch('https://api.github.com/repos/jstor-labs/juncture/tags',
-                               ghToken ? {headers: {Authorization:`Token ${ghToken}`}} : {})
+      let resp = await fetch('https://api.github.com/repos/jstor-labs/juncture/tags')
       resp = await resp.json()
       return resp.map(tag => tag.name)
     }
 
     async function getGHReleases() {
-      let ghToken = oauthAccessToken || ghUnscopedToken
-      let resp = await fetch('https://api.github.com/repos/jstor-labs/juncture/releases',
-                               ghToken ? {headers: {Authorization:`Token ${ghToken}`}} : {})
+      let resp = await fetch('https://api.github.com/repos/jstor-labs/juncture/releases')
       return await resp.json()
     }
 
@@ -1567,25 +1542,16 @@
     }
 
     function convertURL(current, path, pathIsDir) {
-      let _current = current.replace(/\s/g, '%20')
       let pathElems = []
-      if (_current.indexOf('http') === 0) {
-        if (_current.indexOf(window.location.origin) === 0) {
-          if (!pathIsDir) {
-            let dirElems = path.split('/').filter(elem => elem !== '').slice(0,-1)
-            let mdDir = dirElems.length > 0 ? `/${dirElems.join('/')}/` : '/'
-            _current = _current.replace(new RegExp(path.replace(/\//g, '\\/')), `${mdDir}`)
-            console.log(path, mdDir, _current)
-          }
-          pathElems = _current.split('/').slice(3)
-        }
-        else return _current
-      } else if (_current.indexOf('/') === 0) {
-        pathElems = _current.split('/').filter(elem => elem !== '')
+      if (current.indexOf('http') === 0) {
+        if (current.indexOf(window.location.origin) === 0) pathElems = current.split('/').slice(3)
+        else return current
+      } else if (current.indexOf('/') === 0) {
+        pathElems = current.split('/').filter(elem => elem !== '')
       } else {
         pathElems = (path || window.location.pathname).split('/').filter(elem => elem !== '')
         if (!pathIsDir) pathElems = pathElems.slice(0, -1)
-        pathElems = [...pathElems, ..._current.split('/').filter(elem => elem !== '')]
+        pathElems = [...pathElems, ...current.split('/').filter(elem => elem !== '')]
       }
       if (isJuncture && pathElems.length >= 2) {
         if ((contentSource.repo !== 'juncture' || contentSource.acct !== 'jstor-labs') && pathElems[0] === contentSource.acct && pathElems[1] === contentSource.repo) pathElems = pathElems.slice(2)
@@ -1594,7 +1560,7 @@
       }
       // console.log(`assetsBaseUrl=${contentSource.assetsBaseUrl}`)
       converted = `${contentSource.assetsBaseUrl || contentSource.baseUrl}/${pathElems.join('/')}`
-      // console.log(`isJuncture=${isJuncture} convertURL: current=${current} converted=${converted} path=${path} pathIsDir=${pathIsDir} pathElems=${pathElems}`)
+      // console.log(`convertURL: current=${current} converted=${converted} path=${path} pathIsDir=${pathIsDir} pathElems=${pathElems}`)
       return converted
     }
 
