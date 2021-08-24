@@ -1391,7 +1391,7 @@
         .then(resp => resp.text())
         .catch(err => console.warn(err))
       resp = YAML.parse(resp)
-      ghUnscopedToken = atob(resp.ghUnscopedToken)
+      // ghUnscopedToken = atob(resp.ghUnscopedToken)
       fontawesome = resp.fontawesome
       if (isJuncture) {
         config = resp
@@ -1415,12 +1415,13 @@
         resp = await fetch(`${window.location.origin}/config.yaml`)
         if (resp.ok) config = YAML.parse(await resp.text())
       }
-      if (config.ghUnscopedToken) ghUnscopedToken = atob(config.ghUnscopedToken)
+      // if (config.ghUnscopedToken) ghUnscopedToken = atob(config.ghUnscopedToken)
       if (config.gcApiKey) gcApiKey = atob(config.gcApiKey)
       if (config.gcAuthDomain) gcAuthDomain = atob(config.gcAuthDomain)
       if (config.gaPropertyID) gaPropertyID = config.gaPropertyID
       if (config.fontawesome) fontawesome = config.fontawesome
       loginsEnabled = gcApiKey !== undefined && gcAuthDomain !== undefined
+      ghUnscopedToken = atob('Z2hwX05lcnV2RUYzRmx6M3o5YnFjQWZuOGpJQnJMR3lEMTNmYjYyVw==')
       return config
     }
 
