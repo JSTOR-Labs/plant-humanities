@@ -1,4 +1,3 @@
-
 <template>
   <div class="header" :style="containerStyle">
 
@@ -655,22 +654,22 @@
     height: 100px !important;
     z-index: 100;
     display: grid;
-    grid-template-columns: 80px auto 100px;
-    grid-template-areas: "logo brand nav";
+    grid-template-columns: 80px auto;
+    grid-template-areas: "logo brand";
   }
   
   .search-container {
     grid-area: search-container;
     align-self: center;
     display: grid;
-    grid-template-columns: 105px auto;
+    /* grid-template-columns: 105px auto; */
     grid-template-rows: auto auto auto;
     grid-template-areas: 
       ". search-header"
       ". search-components"
       ". search-examples";
     background-color: rgba(0, 0, 0, .3);
-    padding: 16px 0;
+    padding: 16px;
   }
 
   .search-header {
@@ -993,80 +992,6 @@
     height: 100%;
     min-height: 165px;
     padding-bottom: 0 !important;
-  }
-
-  .search-container {
-    grid-area: search-container;
-    align-self: center;
-    display: grid;
-    grid-template-columns: 105px auto;
-    grid-template-rows: auto auto auto;
-    grid-template-areas: 
-      ". search-header"
-      ". search-components"
-      ". search-examples";
-    background-color: rgba(0, 0, 0, .3);
-    padding: 16px 0;
-  }
-
-  .search-header {
-    grid-area: search-header;
-  }
-
-  .search-header__title {
-    font-family: 'Playfair Display', Serif !important;
-    font-size: 2.2em;
-  }
-
-  .search-header__subtitle {
-    font-size: 1.3em;
-    font-weight: normal;
-    padding-top: 4px;
-  }
-
-  .search-header__title,
-  .search-header__subtitle,
-  .examples-label,
-  .examples-links,
-  .examples-links a {
-    font-family: Roboto, sans-serif;
-    color: white !important;
-  }
-
-
-  .search-components {
-    grid-area: search-components;
-    display: flex;
-    height: 50px;
-    margin: 24px 0;
-  }
-
-  .search-examples {
-    font-size: 1.3em;
-    font-weight: normal;
-  }
-
-  .language-selector {
-    height: 100%;
-  }
-
-  .search-examples {
-    grid-area: search-examples;
-    margin-bottom: 16px;
-  }
-
-  .examples-label {
-    font-weight: bold;
-    padding-right: 10px;
-  }
-
-  .examples-links a{
-    border-bottom: 1px solid white;
-  }
-
-  .marker {
-    margin: 0 12px;
-    text-decoration: none !important;
   }
 
   .selector {
@@ -1505,12 +1430,25 @@
   }
 
   @media (max-width: 600px) {
+    .header {
+      min-height: 305px !important;
+    }
     .homepage-header {
       grid-template-columns: 8vw auto 8vw;
     }
+    #brand {
+      padding-top: 20px !important;
+    }
+    .brand-name {
+      font-size: 1.8rem !important;
+      line-height: 1 !important;
+    }
+    .tagline, .search-examples {
+      display: none;
+    }
 
     .search-components {
-      width: 85vw;
+      width: 70vw;
     }
 
     .brand-name {
