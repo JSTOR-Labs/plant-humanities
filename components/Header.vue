@@ -1361,13 +1361,13 @@
     }
 
     .brand-name {
-      font-size: 3.5vw;
-      line-height: 5vw;
+      font-size: 3.5vw !important;
+      line-height: 5vw !important;
     }
 
     .tagline {
-      font-size: 2vw;
-      line-height: 2vw;
+      font-size: 2vw !important;
+      line-height: 2vw !important;
     }
   }
 
@@ -1386,13 +1386,13 @@
     }
 
     .brand-name {
-      font-size: 4vw;
-      line-height: 5vw;
+      font-size: 4vw !important;
+      line-height: 5vw !important;
     }
 
     .tagline {
-      font-size: 2.2vw;
-      line-height: 3vw;
+      font-size: 2.2vw !important;
+      line-height: 3vw !important;
     }
 
     #logo {
