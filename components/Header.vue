@@ -597,18 +597,16 @@ body {
 .title {
   grid-area: title;
   font-size: min(2.5vw, 2.2em);
-  margin-left: 24px;
   display: inline-block;
   white-space: nowrap;
-  padding: 16px 0 0 50px;
+  padding: 16px 0 0 24px;
 }
 
 .author {
   grid-area: author;
   font-size: min(3vw, 1.3em);
-  margin-left: 24px;
   font-weight: normal;
-  padding: 0 0 10px 50px;
+  padding: 0 0 10px 24px;
   align-self: center;
 }
 .title-bar .buttons {
