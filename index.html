@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
@@ -193,7 +193,7 @@
     console.log(window.location)
     const ENV = window.location.hostname === 'localhost' || window.location.hostname.indexOf('gitpod') > 0 ? 'DEV' : 'PROD'
     let isJuncture = window.location.hostname.indexOf('juncture-digital.org') === 0 || ENV === 'DEV'
-    const junctureVersion = 'v0.4.21'
+    const junctureVersion = 'v0.4.27'
     let junctureVersionHash
 
     const referrerUrl = document.referrer
@@ -418,13 +418,9 @@
             ref: qargs.ref || config.ref || contentSource.ref
         }}
       //}
+      console.log('essayConfig', this.essayConfig)
       if (gaPropertyID) ga('create', gaPropertyID, 'auto')
-      if (siteConfig.description) {
-        let el = document.createElement('meta')
-        el.name = 'description'
-        el.content = siteConfig.description
-        document.querySelector('head').appendChild(el)
-      }
+      if (siteConfig.description) setMetaDescription(siteConfig.description)
       let attrsWithUrls = ['banner', 'favicon', 'logo']
       if ((window.location.hostname === 'localhost' || window.location.hostname.indexOf('gitpod.io') > 0) && (contentSource.acct === 'jstor-labs' && contentSource.repo === 'juncture-digital') ) {
         attrsWithUrls.forEach(attr => { if (config[attr]) config[attr] = convertURL(config[attr]) })
@@ -552,13 +548,22 @@
           loginsEnabled() { return this.oauthCredsFound && (!this.essayConfig || !this.essayConfig['logins-disabled']) }
         },
         mounted() {
-          this.anchor = window.location.href.indexOf('#') >= 0 ? window.location.href.split('#').pop() : null
+          let path
+          if (window.location.href.indexOf('#') > 0) {
+            path = window.location.href.split('#')[0].split('/').slice(3).join('')
+            let anchor = window.location.href.split('#').pop()
+            console.log(`path=${path} anchor=${anchor}`)
+            if (path) this.anchor = anchor
+            else path = anchor
+            console.log(`path=${path} anchor=${anchor}`)
+          }
+          // this.anchor = window.location.href.indexOf('#') >= 0 ? window.location.href.split('#').pop() : null
           window.onpopstate = (e) => this.loadEssay(e.state.file, true) 
           const resizeObserver = new ResizeObserver(entries => { 
             this.forceHorizontalLayout = window.matchMedia('only screen and (max-width: 1000px)').matches
           })
           resizeObserver.observe(this.$refs.app)
-          this.loadEssay()
+          this.loadEssay(path)
           // Initialize Markdown source viewer
           this.markdownViewer = tippy(this.$refs.header, {
             trigger: 'manual', 
@@ -710,7 +715,8 @@
           },
 
           async getMarkdown(path) {
-            if ((window.location.hostname === 'localhost' || window.location.hostname.indexOf('gitpod.io') > 0) && (contentSource.acct === 'jstor-labs' && contentSource.repo === 'juncture-digital')) {
+            // if ((window.location.hostname === 'localhost' || window.location.hostname.indexOf('gitpod.io') > 0) && (contentSource.acct === 'jstor-labs' && contentSource.repo === 'juncture-digital')) {
+            if (window.location.hostname === 'localhost' || window.location.hostname.indexOf('gitpod.io') > 0) {
               let url = `${contentSource.baseUrl}${contentSource.basePath}${path}`
               let resp = await fetch(url)
               if (resp.ok) return await resp.text()
@@ -1226,7 +1232,10 @@
           essayConfig (config) {
             this.layouts = []
             this.viewerIsOpen = false
-            if (config && config.layout) this.layouts = config.layout.split(',').map(layout => layout === 'vtl' ? 'vertical' : layout)
+            if (config) {
+              if (config.layout) this.layouts = config.layout.split(',').map(layout => layout === 'vtl' ? 'vertical' : layout)
+              if (config.description) setMetaDescription(config.description)
+            }
           },
 
           // Watcher that updates various data elements when the active paragraph changes
@@ -1479,6 +1488,15 @@
         el = el.parentNode
       }
       return stack
+    }
+
+    function setMetaDescription(description) {
+      let existing = Array.from(document.querySelectorAll('meta[name=description]')).find(item => item)
+      if (existing) existing.parentElement.removeChild(existing)
+      let el = document.createElement('meta')
+      el.name = 'description'
+      el.content = description
+      document.querySelector('head').appendChild(el)
     }
 
     // Gets site config
