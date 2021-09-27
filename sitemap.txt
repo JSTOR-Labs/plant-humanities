@@ -1,4 +1,4 @@
-https://lab.plant-humanities.org
+https://lab.plant-humanities.org/
 https://lab.plant-humanities.org/#/Agave/
 https://lab.plant-humanities.org/#/arbor_vitae/
 https://lab.plant-humanities.org/#/Banana/
