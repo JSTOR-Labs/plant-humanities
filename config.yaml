@@ -54,3 +54,6 @@ siteAdmins:
 # Google Cloud OAuth settings for GithHub login via Juncture
 #gcAuthDomain: <Base64-encoded Google Cloud OAuth domain>
 #gcApiKey: <Base64-encoded restricted access Google Cloud API key>
+
+oneTrustSiteKey: 9ddb1448-7baa-41b9-aa8f-9b8beb58747d
+enableOneTrust: true
