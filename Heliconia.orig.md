@@ -58,7 +58,7 @@ The more typical form of _Heliconia chartacea_ is called “Sexy Pink” in the 
 <param ve-image 
        fit="cover"
        title="Herbarium specimen of _Heliconia chartacea_, from the Rio Janeiro Botanical Garden"
-       url="https://iiif-v2.visual-essays.app/gp-proxy/jp2/fpx/alukaplant/rb/phase_01/rb0005/rb00287315.jp2">
+       url="https://iiif.juncture-digital.org/gp-proxy/jp2/fpx/alukaplant/rb/phase_01/rb0005/rb00287315.jp2">
 
 The Botanical Magazine (1799-1800) published a plate ([#502](https://www.biodiversitylibrary.org/page/469087#page/160/mode/1up)) and an entry on _Heliconia psittacorum_: “This beautiful stove plant is a native of Jamaica…” The text alludes to the fact that the image was drawn from a living specimen and marks the stage of the plant at that particular moment: “At a more advanced stage than that at which our drawing was taken, the top of the stem becomes flexuous or zig-zag,” alluding to the plant’s  trademark  bracts. The “stove plant” designation is a reminder that growing heliconias would have required expensive heating and hothouse infrastructure available only to the very wealthy; the flowering of a “stove plant” was often a competitive feat worthy of being recorded and a source of prestige for its own  owner. This drawing “was made from a plant which flowered in August 1800, amidst a great variety of beautiful and rare exotics, in the superb collection of E.D. Woodford, Esq., at Vauxhall.” Collectors basked in the achievement and glamor that came with the ability to coax such a rare exotic into bloom.
 <param ve-image 
@@ -79,7 +79,7 @@ Another strange group of heliconias in the South Pacific is found from S
 <param ve-map-layer geojson active url="geojson/heliconia_distribution.json">
 
 This is evolution at work. Indeed, the close relationships between some plants and animals and their interactions played a key role in the development of [Charles Darwin’s ideas on the process of natural selection and evolution](https://www.biodiversitylibrary.org/page/26253722](https://www.biodiversitylibrary.org/page/26253722)). Darwin was especially interested in the relationship between orchids and the insects that pollinated them. Heliconias offer equally interesting and unique relationships with their animal pollinators.
-<param ve-vis-network file="https://jstor-labs.github.io/plant-humanities/graphs/Heliconia.tsv">
+<param ve-vis-network file="/graphs/Heliconia.tsv">
 
 An extraordinary [example](https://link-springer-com.ezp-prod1.hul.harvard.edu/content/pdf/10.1007/s00442-011-2043-8.pdf) of coevolution, or reciprocal evolution between two species, is the relationship between heliconias and hummingbirds in the eastern arc of the Caribbean islands. The two species of heliconias native to these islands and the one species of hummingbird found there have coevolved in a very unique and interesting way. The two heliconias are quite different from each other, but the single species of hummingbird that pollinates them is so specialized that the small-bodied males visit the other species. Astonishingly, the shape and size of the bills of each sex corresponds to the shape and size of the flowers of the specific heliconias that they visit and feed from. In other words, one sex of the hummingbird has evolved with one species of heliconia and the other sex has evolved with the second species of plant.
 <param ve-storiiies id="e41co">

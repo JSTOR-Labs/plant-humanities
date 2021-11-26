@@ -2,15 +2,12 @@ title: Plant Humanities Lab
 tagline: Explore the cutural histories of plants and their influence on human societies
 banner: /images/header.jpg
 favicon: /images/favicon.png
-customCSS: /css/custom.css
 
 # When using a custom domain these fields must be updated to match
 # the account and repository name
 acct: jstor-labs
 repo: plant-humanities
-
 ref: v1.1.0
-
 gaPropertyID: UA-125778965-7
 
 ######################################################
@@ -19,30 +16,22 @@ gaPropertyID: UA-125778965-7
 nav:
 - label: About
   icon: info
-  action: load-page
   path: /about
-- label: Contact Us
-  icon: envelope
-  action: contact-us
-  path: /contact-us
+- label: Help
+  icon: question
+  path: /docs
 - label: Contributors
   icon: user-friends
-  action: load-page
   path: /contributors
+- label: Contact Us
+  icon: envelope
+  path: "/contact-us"
 
 # If the /contact-us path is defined for the nav menu a contact form will be enabled
-# The following information is used in the display and processing of the contact form.
+# The following information is used in the display and processing of the contact form
+# A valid toEmail address is required. Other fields are optional
 contactForm:
   toEmail:
-  - labs@ithakaorg.onmicrosoft.com
-  - planthumanities@doaks.org
-  subject: Plant Humanities Lab Contact
-
-#######################################################
-# Base URL of server used for serving and optionally
-# creating IIIF presentation manifests
-######################################################
-iiifServer: https://iiif.juncture-digital.org
-
-siteAdmins:
-- rsnyder
+#  - name@example.org
+  - Ron.Snyder@ithaka.org
+  subject: Plant Humanities Lab - site feedback

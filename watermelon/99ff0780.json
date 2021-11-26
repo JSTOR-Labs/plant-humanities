@@ -1,0 +1,107 @@
+[
+    {
+        "@context": "http://www.w3.org/ns/anno.jsonld",
+        "body": [
+            {
+                "purpose": "commenting",
+                "type": "TextualBody",
+                "value": "Remember Cholera"
+            }
+        ],
+        "id": "watermelon/70797a9a/d18a3289",
+        "seq": 0,
+        "target": {
+            "id": "watermelon/70797a9a",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "xywh=pixel:473.0131497285124,-559.3691399788589,2942.819802288808,1747.2992576089798"
+            }
+        },
+        "type": "Annotation"
+    },
+    {
+        "@context": "http://www.w3.org/ns/anno.jsonld",
+        "body": [
+            {
+                "purpose": "commenting",
+                "type": "TextualBody",
+                "value": "Do not drink unboiled water"
+            }
+        ],
+        "id": "watermelon/70797a9a/071dfef8",
+        "seq": 1,
+        "target": {
+            "id": "JSTOR-Labs/plant-humanities/annotations/watermelon/70797a9a",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "xywh=pixel:201.766416053314,715.2598856831097,1798.1806754285662,1067.6697760357113"
+            }
+        },
+        "type": "Annotation"
+    },
+    {
+        "@context": "http://www.w3.org/ns/anno.jsonld",
+        "body": [
+            {
+                "purpose": "commenting",
+                "type": "TextualBody",
+                "value": "Do not eat unwashed fruit and market food"
+            }
+        ],
+        "id": "watermelon/70797a9a/a54f1eaa",
+        "seq": 2,
+        "target": {
+            "id": "watermelon/70797a9a",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "xywh=pixel:1361.4945537693761,637.0897212485955,2118.9449901252365,1258.1235878868595"
+            }
+        },
+        "type": "Annotation"
+    },
+    {
+        "@context": "http://www.w3.org/ns/anno.jsonld",
+        "body": [
+            {
+                "purpose": "commenting",
+                "type": "TextualBody",
+                "value": "An ill person is a source of infection"
+            }
+        ],
+        "id": "watermelon/70797a9a/9a1c3ada",
+        "seq": 3,
+        "target": {
+            "id": "watermelon/70797a9a",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "xywh=pixel:1899.4761291381812,1753.9632415600815,1688.2789359002154,1002.4156181907531"
+            }
+        },
+        "type": "Annotation"
+    },
+    {
+        "@context": "http://www.w3.org/ns/anno.jsonld",
+        "body": [
+            {
+                "purpose": "commenting",
+                "type": "TextualBody",
+                "value": "Dirty water and flies transmit disease"
+            }
+        ],
+        "id": "watermelon/70797a9a/76cd4c0c",
+        "seq": 4,
+        "target": {
+            "id": "watermelon/70797a9a",
+            "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "xywh=pixel:383.35717393652004,1755.0739344382466,1688.2789359002154,1002.4156181907531"
+            }
+        },
+        "type": "Annotation"
+    }
+]

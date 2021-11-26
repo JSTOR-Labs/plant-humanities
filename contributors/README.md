@@ -1,8 +1,6 @@
-<param ve-config 
-       title="Plant Humanities Lab"
-       layout="index">
+<param ve-config title="Plant Humanities Lab">
 
-# Essay Contributors
+# Essay Contributors {.cards}
 
 ##
 **Thomas C. Anderson**

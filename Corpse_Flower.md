@@ -1,7 +1,7 @@
 <param ve-config
 	title="The Corpse Flower - Amorphophallus titanium"
 	source-image="https://upload.wikimedia.org/wikipedia/commons/d/da/Corpse_flower_%2871304%29f.jpg"
-	banner="https://jstor-labs.github.io/plant-humanities/images/banners/corpse-flower.jpg"
+	banner="/images/banners/corpse-flower.jpg"
        layout="vtl"
 	num-maps="4"
 	num-images="10"

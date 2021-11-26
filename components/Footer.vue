@@ -1,9 +1,8 @@
 <template>
   <div id="footer" :style="`max-width:${maxWidth}px; overflow:hidden;`">
-    a collaboration between <img src="https://gitcdn.link/cdn/jstor-labs/plant-humanities/v1.0.1/images/do-logo.svg" style="height:100px;"> &nbsp;&nbsp;
-    <img src="https://gitcdn.link/cdn/jstor-labs/plant-humanities/v1.0.1/images/labs.jpg" height="20px">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    with support from: <img src="https://gitcdn.link/cdn/jstor-labs/plant-humanities/v1.0.1/images/Mellon.jpg" height="20px">
+    a collaboration between <img :src="`${assetsBase}/images/do-logo.svg`" style="height:100px;"> &nbsp;&nbsp;
+    <img :src="`${assetsBase}/images/labs.jpg`" height="20px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    with support from: <img :src="`${assetsBase}/images/Mellon.jpg`" height="20px">
   </div>
 </template>
 
@@ -11,10 +10,14 @@
 
   module.exports = {  
     name: 'Footer',
-    props: {},
+    props: {
+      siteConfig: { type: Object, default: function(){ return {}} },
+      contentSource:  { type: Object, default: () => ({}) }
+    },
     data: () => ({}),
     computed: {
-      maxWidth() { return window.innerWidth }
+      maxWidth() { return window.innerWidth },
+      assetsBase() { return this.contentSource.assetsBaseUrl }
     },
     mounted() {},
     methods: {},

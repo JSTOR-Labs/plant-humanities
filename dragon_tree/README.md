@@ -37,20 +37,17 @@ Members of today’s _Dracaena_ genus have long been valued for their signature 
 <param title="Socotra" eid="Q82859">
 <param title="Dracaena cinnabari" eid="Q133560">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/76c4ad0438fadf4f3e278041dd3910699b3c9b6c7b7b46d605a11bae037728fa"
+	manifest="https://iiif.juncture-digital.org/manifest/76c4ad0438fadf4f3e278041dd3910699b3c9b6c7b7b46d605a11bae037728fa"
 	region="-45,191,1591,1127">
 {#paragraph2}
 
 As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples of the Hesperides, the three nymphs of evening and sunset, who were located on the western fringe of the known world. The apples were guarded by Ladon, a vicious dragon with 100 heads. Once slain by Hercules, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^ref2] As dragon’s blood became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that “the source of ‘Dragon’s Blood’ [... is] the red blood of the dragon Ladon after it was killed by Hercules.”[^ref3]
 <param title="Hercules" eid="Q122248">
 <param title="Ladon" eid="Q274600">
-<param ve-image
+<param ve-compare
 	title="Image comparison of the canopy of a dragon tree (_Dracaena draco_) with a classical Greek depiction of the dragon Ladon."
-	url="https://free.iiifhosting.com/iiif/7e103f8b67bc1ce1be0a738a6a34265de93fe18ad5978f48c076da1da1fbf636/info.json"
-	curtain="true"
-	fit="contain">
-<param ve-image
-	url="https://free.iiifhosting.com/iiif/6f75f8643461e419d28159fdc552cd384cc7aa5bc1ae2e31b9e2c47b91fefd60/info.json">
+	url="https://free.iiifhosting.com/iiif/7e103f8b67bc1ce1be0a738a6a34265de93fe18ad5978f48c076da1da1fbf636/info.json">
+<param ve-compare url="https://free.iiifhosting.com/iiif/6f75f8643461e419d28159fdc552cd384cc7aa5bc1ae2e31b9e2c47b91fefd60/info.json">
 {#paragraph3}
 
 European understandings of the dragon tree evolved as scientific botany developed from the late medieval through the early modern periods, and the myths and legends of antiquity surrounding the tree became artifacts of the past. Native to the Canary Islands, Cape Verde, and Madeira—and recently found growing natively on the west coast of Morocco—_D. draco_ is somewhat ubiquitous along the northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of _D. draco_ in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and dragon’s blood between his crew and 500 Guanches, the indigenous population of the Canary Islands.[^ref4]
@@ -65,7 +62,7 @@ European understandings of the dragon tree evolved as scientific botany develope
 	center="Q105967"
 	zoom="3.75">
 <param ve-map-layer
-	geojson url="/geojson/Dracaena draco native.json"
+	geojson url="Dracaena-draco-native.json"
 	active>
 {#paragraph4}
 
@@ -95,10 +92,10 @@ Throughout its dissemination into European spaces from the Age of Discovery, dra
 <param title="John Parkinson" eid="Q256288">
 <param title="Azores" eid="Q4058447">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/e956ccf471c99349ef611c66c59788625069c56bebab15b9d7ee0d8930534896"
+	manifest="https://iiif.juncture-digital.org/manifest/e956ccf471c99349ef611c66c59788625069c56bebab15b9d7ee0d8930534896"
 	region="2,942,1802,1314">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/445cd6427da7c2d60875076dea28611ca7f39f489475bba449fd1f41ba9ba597"
+	manifest="https://iiif.juncture-digital.org/manifest/445cd6427da7c2d60875076dea28611ca7f39f489475bba449fd1f41ba9ba597"
 	region="1,478,1831,1297">
 {#paragraph7}
 
@@ -106,19 +103,19 @@ After European colonization, and along with the integration of the Canaries into
 <param title="Alexander von Humboldt" eid="Q6694">
 <param title="Botanical Garden Berlin" eid="Q163255" aliases="Botanical Garden in Berlin">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/3aeb52c3ba4fe79c960ad6cc06b72422126538865f20a1fe5319d008a84a693b"
+	manifest="https://iiif.juncture-digital.org/manifest/3aeb52c3ba4fe79c960ad6cc06b72422126538865f20a1fe5319d008a84a693b"
 	region="179,832,3158,2303">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/663749f69e87185ec74e66477e76a24e59d82a9ff68f552915a1f18b016da69e"
+	manifest="https://iiif.juncture-digital.org/manifest/663749f69e87185ec74e66477e76a24e59d82a9ff68f552915a1f18b016da69e"
 	fit="contain">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/17656b19ab04f4a5f2d65dbad60ad9de910b52b5cb9624d5e12a1426c6e7fe98">
+	manifest="https://iiif.juncture-digital.org/manifest/17656b19ab04f4a5f2d65dbad60ad9de910b52b5cb9624d5e12a1426c6e7fe98">
 {#paragraph8}
 
 In 1799, as he stopped in Tenerife before his voyage to the Americas that would make him world-famous, Humboldt found himself in Orotava. While there, he visited the garden of a Monsieur Franchy and was immediately awe-struck by the sheer size and magnitude of its dragon tree—the very same tree that the Guanches had worshipped for centuries. He reported that it measured 60 feet tall and 45 feet in circumference near the roots. “We were told that the trunk of this tree,” Humboldt wrote in his [_Personal Narrative_,](https://www.biodiversitylibrary.org/item/228502#page/90/mode/1up) “which is mentioned in several ancient documents as marking the boundaries of a field, was as gigantic in the fifteenth century as it is at the present time.” According to his calculations, the specimen was undoubtedly “one of the oldest inhabitants in our world,” which called for special protection.[^ref12] Humboldt’s experience with the large _D. draco_ at Orotava was far more than the mere realization of a boyish dream, but was instead a pioneering act that inspired other European travelers to follow in his footsteps and help strengthen a global network of scientific and economic exchanges focused on plants. 
 <param title="Tenerife" eid="Q40846">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/db4ddf3476a2f42775ccb8dc3d23c5bcc71f2ae6160df17bf4b89456f5ba470e"
+	manifest="https://iiif.juncture-digital.org/manifest/db4ddf3476a2f42775ccb8dc3d23c5bcc71f2ae6160df17bf4b89456f5ba470e"
 	region="866,1834,2130,1509">
 {#paragraph9}
 
@@ -134,7 +131,7 @@ Humboldt was not the only naturalist of his time attracted to the remarkable cen
 As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_,](https://archive.org/details/voyageauxlesdet00sonngoog/page/n135/mode/2up) which drew on observations he made during his trip to the Isles of Fortune some 14 years earlier: “In days gone by, the resin that one extracts from the dragon tree was an important object of commerce for Teneriffe; but since the locals have neglected to replace the old trees that were worn out by too-frequent tapping (of the resin) with young plantations, this source will soon be exhausted. There exist perhaps less than fifty dragon trees left on the island.”[^ref13] This gradual, yet persistent, degradation of the _D. draco_ population was not solely due to Guanche overcultivation, as Spanish colonizers inflicted profound ecological changes upon the islands when they razed and destroyed large swaths of forests during their conquest and settlement of the Canaries three centuries earlier.[^ref14] Modern ecologists attribute the dragon tree’s decline to the disappearance of seed dispersers in the Canary Islands over the past centuries, potentially refuting Ledru’s assertion that _D. draco_’s deterioration was due to irresponsible Guanche farming practices.[^ref15]
 <param title="Isles of Fortune" eid="Q19211357" aliases="Isles of Fortune" article="Isles_of_Fortune"> 
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/b0934065587e79928c2e8cfbdaab05110db98265dc8249a102b9ad168fb5628a">
+	manifest="https://iiif.juncture-digital.org/manifest/b0934065587e79928c2e8cfbdaab05110db98265dc8249a102b9ad168fb5628a">
 {#paragraph11}
 
 But even in the face of this acute anthropogenic pressure, the great dragon tree at Orotava persisted. Struck by the tree’s size, age, and enduring spirit, Ledru remarked on how even the most environmentally malicious conquistadors respected this dragon tree. Perhaps, then, to Humboldt’s delight, Ledru estimated that this special tree would easily live another 150 to 200 years.[^ref16]
@@ -146,7 +143,7 @@ But even in the face of this acute anthropogenic pressure, the great dragon tree
 
 Unfortunately, the Orotava centenary dragon tree did not outlive Humboldt and Ledru’s visits by very long. In 1819, a storm broke one of its branches, and in 1867, a hurricane-like tempest broke them all off.[^ref17] Despite this inauspicious demise, the tree’s image remains associated with the Canary Islands today, and it is still frequently featured prominently in images of Orotava. Furthermore, both naturalists’ accounts of their encounters with the dragon tree in its native environment stand as proof of its power to equally excite scientific and aesthetic imagination, promote environmental concerns, and reinforce colonial dynamics. 
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/141550c2fad57ada20f7c959f99925424b7e8f9a1d05b28134faaabcf8f13873">
+	manifest="https://iiif.juncture-digital.org/manifest/141550c2fad57ada20f7c959f99925424b7e8f9a1d05b28134faaabcf8f13873">
 {#paragraph13}
 
 Just as Humboldt and Ledru observed the centenary _D. draco_ at Orotava and pondered the tree’s age, durability, and its potential influence on theories of a global climate, today’s scientists are weighing the tree’s possible medicinal benefits, including potential cancer treatments, and its commercial value in the cosmetics industry as an ingredient in anti-aging creams in relation to the species’ ongoing battle with extinction and its ecological vulnerability.[^ref18] Since many different species make good sources of what is commonly known as dragon’s blood, more comprehensive research needs to be carried out to fully assess the mythical resin’s true medicinal efficacy.[^ref19]
@@ -159,7 +156,7 @@ Due to its near-extinction in the wild, _D. draco_ is officially designated as a
 <param title="International Union for Conservation of Nature" eid="Q48268">
 <param title="Red List of Threatened Species" eid="Q32059">
 <param ve-image
-	manifest="https://iiif-v2.visual-essays.app/manifest/ed823f13e24b018dfe32485bd64bab546d6f4fea8862bafa81118a1c4135cdb8">
+	manifest="https://iiif.juncture-digital.org/manifest/ed823f13e24b018dfe32485bd64bab546d6f4fea8862bafa81118a1c4135cdb8">
 {#paragraph15}
 
 ### References
