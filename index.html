@@ -184,7 +184,8 @@
 
   <script>
 
-    const ENV = window.location.port !== '80' >= 0 ? 'DEV' : 'PROD'
+    console.log(window.location)
+    const ENV = window.location.port ? 'DEV' : 'PROD'
     
     let isJuncture = window.location.hostname.indexOf('juncture-digital.org') === 0 || ENV === 'DEV'
     const junctureVersion = 'main'
