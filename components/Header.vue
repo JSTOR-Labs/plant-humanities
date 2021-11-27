@@ -319,7 +319,7 @@
           if (claim.mainsnak.datavalue.type === 'wikibase-entityid') eids.add(claim.mainsnak.datavalue.value.id) }))
         console.log(eids, eids.size)
         if (eids.size > 0) {
-          let values = eids.map(eid => `(<http://www.wikidata.org/entity/${eid}>)`).join(' ')
+          let values = Array.from(eids).map(eid => `(<http://www.wikidata.org/entity/${eid}>)`).join(' ')
           let query = `SELECT ?item ?label WHERE { VALUES (?item) { ${values} } ?item rdfs:label ?label . FILTER(LANG(?label) = 'en')}`
           let resp = await fetch('https://query.wikidata.org/sparql', {
             method: 'POST', body: new URLSearchParams({query}),
