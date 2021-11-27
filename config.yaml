@@ -7,7 +7,7 @@ favicon: /images/favicon.png
 # the account and repository name
 acct: jstor-labs
 repo: plant-humanities
-ref: v1.1.0
+# ref: v1.1.0
 gaPropertyID: UA-125778965-7
 
 ######################################################

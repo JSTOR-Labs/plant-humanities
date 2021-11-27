@@ -1352,13 +1352,14 @@
         : atob('Z2hwX05lcnV2RUYzRmx6M3o5YnFjQWZuOGpJQnJMR3lEMTNmYjYyVw==')
 
       let ghToken = oauthAccessToken || ghUnscopedToken
-      /*
-      resp = await fetch(`https://api.github.com/repos/${config.acct || contentSource.acct}/${config.repo || contentSource.repo}/contents/config.yaml?ref=${config.ref || contentSource.ref}`, ghToken ? {headers: {Authorization:`Token ${ghToken}`}} : {})
-      if (resp.ok) {
-        resp = await resp.json()
-        config = {...config, ...YAML.parse(atob(resp.content))}
+
+      if (ENV === 'PROD' && window.location.host.indexOf('juncture-digital.org') >= 0) {
+        resp = await fetch(`https://api.github.com/repos/${config.acct || contentSource.acct}/${config.repo || contentSource.repo}/contents/config.yaml?ref=${config.ref || contentSource.ref}`, ghToken ? {headers: {Authorization:`Token ${ghToken}`}} : {})
+        if (resp.ok) {
+          resp = await resp.json()
+          config = {...config, ...YAML.parse(atob(resp.content))}
+        }
       }
-      */
 
       if (config.gcApiKey) gcApiKey = atob(config.gcApiKey)
       if (config.gcAuthDomain) gcAuthDomain = atob(config.gcAuthDomain)
