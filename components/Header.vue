@@ -304,7 +304,6 @@
       },
 
       async getCitationData(eid) {
-        console.log(`getCitationData: eid=${eid}`)
         let resp = await fetch(`https://www.wikidata.org/wiki/Special:EntityData/${eid}.json`)
         if (resp.ok) {
           resp = await resp.json()
@@ -316,8 +315,8 @@
         let labels = {}
         let eids = new Set()
         Object.values(entity.claims).forEach(claims => claims.forEach(claim => {
-          if (claim.mainsnak.datavalue.type === 'wikibase-entityid') eids.add(claim.mainsnak.datavalue.value.id) }))
-        console.log(eids, eids.size)
+          if (claim.mainsnak.datavalue.type === 'wikibase-entityid') eids.add(claim.mainsnak.datavalue.value.id) 
+        }))
         if (eids.size > 0) {
           let values = Array.from(eids).map(eid => `(<http://www.wikidata.org/entity/${eid}>)`).join(' ')
           let query = `SELECT ?item ?label WHERE { VALUES (?item) { ${values} } ?item rdfs:label ?label . FILTER(LANG(?label) = 'en')}`
@@ -430,7 +429,6 @@
       },
 
       doMenuAction(action, options) {
-        console.log(`doMenuAction=${action}`, options)
         document.querySelector('#menuToggle input').checked = false
         if (action === 'load-page' && options === '/contact-us') {
           this.showForm('contact-form')
@@ -475,7 +473,6 @@
         // event.preventDefault()
         this.closeDropdown()
         this.searchFor = item.label
-        console.log(`item-selected`, item)
         this.openSearchTool(item.id)
       },
       reset() {
@@ -489,7 +486,6 @@
         this.openWindow(`https://search.plant-humanities.org/?eid=${eid}${this.selectedLanguage !== 'en' ? '&language='+this.selectedLanguage : ''}`, `toolbar=yes,location=yes,menubar=yes,scrollbars=yes,status=yes,titlebar=yes,left=0,top=0,width=1001,height=1200`)
       },
       openWindow(url, options) {
-        console.log('openWindow', url)
         if (this.externalWindow) { this.externalWindow.close() }
         if (options === undefined) options = 'toolbar=yes,location=yes,scrollbars=yes,status=yes,left=0,top=0,width=1000,height=1200'
         this.externalWindow = window.open(url, '_blank', options)

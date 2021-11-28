@@ -4,8 +4,8 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
-  <link href="https://unpkg.com/tippy.js@6/dist/tippy.css" rel="stylesheet"/>
-  <link href="https://unpkg.com/tippy.js@6/themes/light-border.css" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/tippy.js/6.3.7/tippy.min.css" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/tippy.js/6.3.7/themes/light-border.min.css" rel="stylesheet"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
   <title>Juncture Digital Homepage</title>
   <style>
@@ -16,6 +16,7 @@
 <body>
 
   <div id="app" v-cloak ref="app" :class="layouts.join(' ')">
+    
     <div id="header" ref="header">            
       <component v-bind:is="headerComponent" :active="true" :scroll-top="scrollTop"
                  :site-config="siteConfig"
@@ -34,6 +35,7 @@
                  @logout="logout"
       ></component>
     </div>
+
     <div id="tabs-bar" ref="tabsBar">
       <span v-for="viewer in viewersEnabled" :key="`tab-${viewer}`" 
             :class="{'active-tab': selectedViewer === viewer}" 
@@ -42,6 +44,7 @@
         <i v-if="viewerData[viewer]" :class="viewerData[viewer].icon"></i>
       </span>
     </div>
+
     <div id="essay" ref="essay" @scroll="onScroll">
       <component v-bind:is="mainComponent"
         :html="html"
@@ -89,6 +92,7 @@
                  @set-hover-item="hoverItem = $event"
       ></component>
     </div>
+
     <div v-if="essayConfig && path === '/'" id="footer" ref="footer">            
       <component v-bind:is="footerComponent" :site-config="siteConfig" :content-source="contentSource"></component>
     </div>
@@ -161,11 +165,12 @@
   <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/http-vue-loader@1.4.2/src/httpVueLoader.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/yamljs/0.3.0/yaml.min.js" integrity="sha512-f/K0Q5lZ1SrdNdjc2BO2I5kTx8E5Uw1EU3PhSUB9fYPohap5rPWEmQRCjtpDxNmQB4/+MMI/Cf+nvh1VSiwrTA==" crossorigin="anonymous"></script>
-  <script src="https://unpkg.com/@popperjs/core@2"></script>
-  <script src="https://unpkg.com/tippy.js@6"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tippy.js/6.3.7/tippy.umd.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/8.4.3/firebase.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
+  <script src="https://vuejs.org/js/vue.min.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.4.3/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.4.3/firebase-auth.js"></script> 
 
   <!-- This is used for deep linking of Single Page Apps when hosted with GitHub Pages -->
   <script type="text/javascript">
@@ -184,7 +189,6 @@
 
   <script>
 
-    console.log(window.location)
     const ENV = window.location.port ? 'DEV' : 'PROD'
     
     let isJuncture = window.location.hostname.indexOf('juncture-digital.org') === 0 || ENV === 'DEV'
@@ -195,7 +199,7 @@
     const referrerUrl = document.referrer
     if (referrerUrl) {
       const referrer = parseUrl(referrerUrl)
-      if ((referrer.host === 'github.com' || referrer.host === 'juncture-digital.org') && referrer.pathname.indexOf('/jstor-labs/juncture/wiki') < 0) {
+      if (referrer.host === 'github.com' && referrer.pathname.indexOf('/jstor-labs/juncture/wiki') < 0) {
         const referrerPath = referrer.pathname.slice(1).split('/')
         const ghAcct = referrerPath[0]
         const ghRepo = referrerPath[1]
@@ -390,7 +394,7 @@
       let attrsWithUrls = ['banner', 'favicon', 'logo']
       if (ENV === 'DEV' && (contentSource.acct === 'jstor-labs' && contentSource.repo === 'juncture-digital') ) {
         attrsWithUrls.forEach(attr => { if (config[attr]) config[attr] = convertURL(config[attr]) })
-      } else {
+      } else if (contentSource.repo) {
         headRef(contentSource.acct, contentSource.repo, contentSource.ref).then(headHash => {
           if (headHash) {
             contentSource.hash = headHash.slice(0,7)
@@ -399,7 +403,6 @@
           }
         })
       }
-        
       return config
     })
     .then(config => gcOauth())
@@ -424,25 +427,45 @@
       if (siteConfig.title) document.title = siteConfig.title
       if (fontawesome) document.querySelector('body').appendChild(makeScriptTag(fontawesome, 'anonymous'))
 
-      Promise.all([
-        fetch(`/css/main.css`).then(resp => resp.ok ? resp.text() : null),
-        getFile('jstor-labs', 'juncture', junctureVersionHash, '/css/main.css')
-      ]).then(responses => {
-        let style = document.createElement('style')
-        style.innerHTML = responses[0] || responses[1]
-        document.querySelector('head').appendChild(style)
-      })
-
-      let customCssPromise = ENV === 'DEV'
-        ? fetch(`${contentSource.assetsBaseUrl}/css/custom.css`).then(resp => resp.ok ? resp.text() : null)
-        : getFile(contentSource.acct, contentSource.repo, contentSource.ref, '/css/custom.css')
-      customCssPromise.then(css => {
-        if (css) {
+      if (ENV === 'DEV') {
+        dir('/css').then(files => {
+          return Promise.all([
+            ...[ files['main.css']
+              ? fetch(files['main.css']).then(resp => resp.text())
+              : getFile('jstor-labs', 'juncture', 'main', '/css/main.css')
+            ],
+            ...Object.keys(files).filter(file => file !== 'main.css').map(file => fetch(files[file]).then(resp => resp.text()))
+          ])
+        })
+        .then(styles => {
+          styles.forEach(css => {
+            let style = document.createElement('style')
+            style.innerHTML = css
+            document.querySelector('head').appendChild(style)
+          })
+        })
+      } else {
+        getFile('jstor-labs', 'juncture', 'main', '/css/main.css').then(css => {
           let style = document.createElement('style')
           style.innerHTML = css
           document.querySelector('head').appendChild(style)
-        }
-      })
+        })
+      }
+      if (contentSource.repo) {
+        dir('/css', contentSource).then(files => {
+          let cssUrls = Object.values(files)
+          return cssUrls.length > 0
+            ? Promise.all([cssUrls.map(url => fetch(url).then(resp => resp.text()))])
+            : []
+        })
+        .then(styles => {
+          styles.forEach(css => {
+              let style = document.createElement('style')
+              style.innerHTML = css
+              document.querySelector('head').appendChild(style)
+            })
+        })
+      }
 
       if (siteConfig.enableOneTrust && siteConfig.oneTrustSiteKey) {
         let el = document.createElement('script')
@@ -474,6 +497,7 @@
           markdownViewer: null,
           viewerHeight: 0,
           availableViewers,
+          viewersEnabled: [],
           selectedViewer: null,
           viewerData: {},
           scrollTop: 0,
@@ -512,10 +536,6 @@
             } 
           },
           isVerticalLayout() { return !this.forceHorizontalLayout && this.layouts.indexOf('vertical') >= 0 },
-          viewersEnabled() { 
-            let viewers = this.items.filter(item => this.availableViewers.indexOf(item.viewer) >= 0).map(item => item.viewer)
-            return viewers.filter((viewer, index) => viewers.indexOf(viewer) === index)
-          },
           loginsEnabled() { return this.oauthCredsFound && (!this.essayConfig || !this.essayConfig['logins-disabled']) }
         },
         mounted() {
@@ -525,7 +545,6 @@
             let anchor = window.location.href.split('#').pop()
             if (path) this.anchor = anchor
             else path = anchor
-            console.log(`path=${path} anchor=${anchor}`)
           }
           window.onpopstate = (e) => this.loadEssay(e.state.file, true) 
           const resizeObserver = new ResizeObserver(entries => { 
@@ -578,7 +597,6 @@
 
           // Handles menu actions from header
           async doAction(action, options) {
-            console.log(`doAction action=${action}`)
             if (action === 'sendmail') {
               this.doActionCallback = {status: 'processing', message: 'Processing request'}
               let resp = await sendmail(options)
@@ -700,12 +718,14 @@
 
           // Loads essay Markdown file
           async loadEssay(path, replace, anchor) {
+            this.viewersEnabled = []
             this.essayConfig = null
             path = path || window.location.pathname.slice(contentSource.basePath.length) || '/'
             if (path.slice(-1) !== '/') path += '/'
             this.path = path 
             // console.log(`loadEssay: basePath=${contentSource.basePath} path=${path} anchor=${this.anchor}`)
-            let pathsToTry = [`${path}index.md`, `${path}README.md`, `${path.slice(0,-1)}.md`]
+            // let pathsToTry = [`${path}index.md`, `${path}README.md`, `${path.slice(0,-1)}.md`]
+            let pathsToTry = [`${path}README.md`, `${path.slice(0,-1)}.md`]
             let markdown
             for (let i = 0; i < pathsToTry.length; i++) {
               markdown = await this.getMarkdown(pathsToTry[i])
@@ -1091,9 +1111,28 @@
             }
           },
 
+          items: {
+            handler: function (items) {
+              let viewers = items.filter(item => this.availableViewers.indexOf(item.viewer) >= 0).map(item => item.viewer)
+              let enabled = viewers.filter((viewer, index) => viewers.indexOf(viewer) === index)
+              if (!arraysEqualIgnoreOrder(enabled, this.viewersEnabled)) this.viewersEnabled = enabled
+            },
+            immediate: true
+          },
+
+          availableViewers: {
+            handler: function (availableViewers) {
+              let viewers = this.items.filter(item => availableViewers.indexOf(item.viewer) >= 0).map(item => item.viewer)
+              let enabled = viewers.filter((viewer, index) => viewers.indexOf(viewer) === index)
+              if (!arraysEqualIgnoreOrder(enabled, this.viewersEnabled)) this.viewersEnabled = enabled
+            },
+            immediate: true
+          },
+          
           viewersEnabled: {
-            handler: function () {
-              this.selectedViewer = this.viewerIsOpen && this.viewersEnabled.length > 0 ? this.viewersEnabled[0] : null
+            handler: function (viewersEnabled) {
+              this.selectedViewer = this.viewerIsOpen && viewersEnabled.length > 0 ? viewersEnabled[0] : null
+              // console.log(`viewersEnabled: enabled=${viewersEnabled} selected=${this.selectedViewer}`)
             },
             immediate: true
           },
@@ -1106,9 +1145,7 @@
             immediate: true
           },
 
-          // logging watchers
           params (params) {
-            // console.log('params', params)
             // Load custom components declared in page markdown
             params
               .filter(param => param['ve-component'] !== undefined)
@@ -1122,7 +1159,6 @@
                 }
             })
           },
-          selectedItem (eid) { console.log(`selectedItem=${eid}`) },
           hoverItem (eid) {
             document.querySelectorAll('.hover').forEach(el => el.classList.remove('hover'))
             document.querySelectorAll(`[data-eid="${eid}"]`).forEach(el => el.classList.add('hover'))        
@@ -1132,6 +1168,7 @@
     })
 
     Vue.config.productionTip = false
+    // if (ENV === 'DEV') Vue.config.devtools = true
     Vue.config.devtools = true
 
     // Vue components mixin that handles linking to external JS and CSS resources
@@ -1210,7 +1247,7 @@
           ref = ref || this.contentSource.ref
           let ghToken = oauthAccessToken || ghUnscopedToken
           // console.log(`getFile: path=${path} acct=${acct} repo=${repo} ref=${ref} ghToken=${ghToken}`)
-          if (ENV === 'PROD' && acct) {
+          if (repo) {
             let url = `https://api.github.com/repos/${acct}/${repo}/contents${path}?ref=${ref}`
             let resp = await fetch(url, ghToken ? {headers: {Authorization:`Token ${ghToken}`}} : {})
             if (resp.ok) {
@@ -1288,8 +1325,17 @@
     function kebabToCamel(input) { return input.replace(/-([a-z])/g, function (g) {return g[1].toUpperCase()})}
     function isNumeric(arg) { return !isNaN(arg) }
     function isEntityID(arg) { return typeof arg === 'string' && arg.split(':').slice(-1).find(val => val.length > 1 && val[0] === 'Q' && isNumeric(val.slice(1))) !== undefined }
-    function attrsToObject(el) { return Object.fromEntries(Array.from(el.attributes).map(attr => 
-                      [attr.nodeName, attr.value === '' || attr.value === 'true' ? true : attr.value === 'false' ? false : attr.value] )) }
+    function attrsToObject(el) { return Object.fromEntries(Array.from(el.attributes).map(attr => [attr.nodeName, attr.value === '' || attr.value === 'true' ? true : attr.value === 'false' ? false : attr.value] )) }
+    function arraysEqualIgnoreOrder(a, b) {
+      if (a.length !== b.length) return false
+      const uniqueValues = new Set([...a, ...b])
+      for (const v of uniqueValues) {
+        const aCount = a.filter(e => e === v).length
+        const bCount = b.filter(e => e === v).length
+        if (aCount !== bCount) return false
+      }
+      return true
+    }
     function slugify(str) {
       str = str.replace(/^\s+|\s+$/g, '').toLowerCase()
       let from = "ÁÄÂÀÃÅČÇĆĎÉĚËÈÊẼĔȆÍÌÎÏŇÑÓÖÒÔÕØŘŔŠŤÚŮÜÙÛÝŸŽáäâàãåčçćďéěëèêẽĕȇíìîïňñóöòôõøðřŕšťúůüùûýÿžþÞĐđßÆa·/_,:;"
@@ -1352,7 +1398,6 @@
         : atob('Z2hwX05lcnV2RUYzRmx6M3o5YnFjQWZuOGpJQnJMR3lEMTNmYjYyVw==')
 
       let ghToken = oauthAccessToken || ghUnscopedToken
-
       if (ENV === 'PROD' && window.location.host.indexOf('juncture-digital.org') >= 0) {
         resp = await fetch(`https://api.github.com/repos/${config.acct || contentSource.acct}/${config.repo || contentSource.repo}/contents/config.yaml?ref=${config.ref || contentSource.ref}`, ghToken ? {headers: {Authorization:`Token ${ghToken}`}} : {})
         if (resp.ok) {
@@ -1403,31 +1448,32 @@
       return resp.ok ? await resp.json() : null
     }
 
-    async function listComponents(url, componentsRoot, componentsBaseUrl) {
-      componentsBaseUrl = componentsBaseUrl || url
-      let components = []
-      if (url.indexOf('api.github.com') > 0) {
+    async function dir(root, ghSource) {
+      let files = {}
+      if (ghSource) {
+        let url = `https://api.github.com/repos/${ghSource.acct}/${ghSource.repo}/git/trees/${ghSource.hash || ghSource.ref}`
         let ghToken = oauthAccessToken || ghUnscopedToken
-        let pathElems = componentsRoot.split('/')
-        let dirList, found
+        let pathElems = root.split('/').filter(pe => pe)
+        let _dirList, found
         for (let i = 0; i < pathElems.length; i++) {
-          dirList = await ghDirList(url, ghToken)
-          found = dirList ? dirList.tree.find(item => item.path === pathElems[i]) : null
+          _dirList = await ghDirList(url, ghToken)
+          found = _dirList ? _dirList.tree.find(item => item.path === pathElems[i]) : null
           url = found ? found.url : null
           if (!url) break
         }
         if (url) {
-          dirList = await ghDirList(url, ghToken)
-          components = dirList.tree.map(item => `${componentsBaseUrl}/${componentsRoot}/${item.path}`)
+          _dirList = await ghDirList(url, ghToken)
+          files = Object.fromEntries(_dirList.tree.map(item => [item.path, `https://raw.githubusercontent.com/${ghSource.acct}/${ghSource.repo}/${ghSource.hash || ghSource.ref}${root}/${item.path}`]))
         }
       } else {
-        let resp = await fetch(`${url}/${componentsRoot}`)
+        let rootUrl = `${contentSource.baseUrl}${root}`
+        let resp = await fetch(rootUrl)
         if (resp.ok) {
           let tmp = new DOMParser().parseFromString(await resp.text(), 'text/html').children[0].children[1]
-          components = Array.from(tmp.querySelectorAll('li a.file')).map(el => el.innerText).map(fname => `${componentsBaseUrl}/${componentsRoot}/${fname}`)
+          files = Object.fromEntries(Array.from(tmp.querySelectorAll('li a.file')).map(el => [el.innerText, `${rootUrl}/${el.innerText}`]))
         }
       }
-      return components
+      return files
     }
 
     // Gets a list of available components
@@ -1436,38 +1482,22 @@
 
       let ref = contentSource.acct === 'jstor-labs' && contentSource.repo === 'juncture' ? junctureVersionHash : contentSource.ref
 
-      if (ENV === 'DEV' && (contentSource.acct === 'jstor-labs' && contentSource.repo === 'juncture-digital')) {
-        componentsList = [...componentsList, ...await listComponents(
-        `${contentSource.baseUrl}${contentSource.isGhpSite ? contentSource.basePath : ''}`, 'custom/components')]
-        componentsList = [...componentsList, ...await listComponents(
-        `${contentSource.baseUrl}${contentSource.isGhpSite ? contentSource.basePath : ''}`, 'components')]
+      if (ENV === 'DEV') {
+        componentsList = Object.values(await dir('/components'))
+      }
       
-      } else {
-        
-        componentsList = [...componentsList, ...await listComponents(
-          `${contentSource.baseUrl}${contentSource.isGhpSite ? contentSource.basePath : ''}`, 'custom/components')]
-          
-        if (contentSource.repo !== 'juncture' || contentSource.acct !== 'jstor-labs') {
-          componentsList = [...componentsList, ...await listComponents(
-            `https://api.github.com/repos/${contentSource.acct}/${contentSource.repo}/git/trees/${ref}`,
-            'custom/components',
-            `https://raw.githubusercontent.com/${contentSource.acct}/${contentSource.repo}/${ref}`)]
-          componentsList = [...componentsList, ...await listComponents(
-            `https://api.github.com/repos/${contentSource.acct}/${contentSource.repo}/git/trees/${ref}`,
-            'components',
-            `https://raw.githubusercontent.com/${contentSource.acct}/${contentSource.repo}/${ref}`)]
-        }
-
-        componentsList = [...componentsList, ...await listComponents(
-          `${contentSource.baseUrl}${contentSource.isGhpSite ? contentSource.basePath : ''}`, 'components')]
-
+      if (contentSource.repo && (contentSource.repo !== 'juncture' || contentSource.acct !== 'jstor-labs')) {
+        componentsList = [
+          ...componentsList, 
+          ...Object.values(await dir('/components', contentSource))
+       ]
       }
 
-      componentsList = [...componentsList, ...await listComponents(
-        `https://api.github.com/repos/jstor-labs/juncture/git/trees/${junctureVersionHash}`,
-        'components',
-        `https://raw.githubusercontent.com/jstor-labs/juncture/${junctureVersionHash}`)]
-        
+      componentsList = [
+        ...componentsList,
+        ...Object.values(await dir('/components', {acct: 'jstor-labs', repo: 'juncture', hash: junctureVersionHash}))
+      ]
+      
       return componentsList
     }
   
