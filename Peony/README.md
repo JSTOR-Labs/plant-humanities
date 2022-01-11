@@ -91,14 +91,14 @@ Despite modern western medicine tending to dismiss early therapeutics like Anna 
        url="https://iiif.wellcomecollection.org/image/L0038032.jpg/full/full/0/default.jpg">
 
 One such study conducted in 1991 on the water extract of _P. officinalis_ concluded that there are several chemical compounds found in the root, including <span id="Q7124104">paeoniflorin,</span> albiflorin, oxypaeoniflorin, and gallotannins, which have documented anticonvulsant properties.[^12] And, when isolated, the compounds albiflorin and gallotannin were proven to block extracellular calcium, which is linked to intracellular seizure-related phenomena. Paeoniflorin fractions also showed inhibition, but to a weaker extent. Another study, which administered peony root extract (from _P. officinalis_) to rats, concluded that it was “a potent in vitro inhibitor of neuron damage in the CA1 area of the hippocampus.”[^13] The study also determined that peony root extract had protective effects on damaged neurons as well as anticonvulsant action when administered orally.[^14] And so, the early administration of anti-epileptic drugs has the potential to [alter the long-term course of epilepsy](https://www.jstor.org/stable/29726099) with the possibility of preventing it from becoming an “intractable disorder.”
-<param ve-image url="/Peony_compounds.jpg">
+<param ve-image url="Peony_compounds.jpg">
 
 Today’s primary approach to treating epilepsy and suppressing seizures is to alter the neural network’s excitability or inhibition by regulating chemical compounds such as sodium and calcium. Drugs like <span id="Q421567">ethosuximide,</span> for example, reduce abnormal electrical activity in the brain by regulating calcium influx in cells. As a result, contemporary western medicine has little motivation to further investigate the peony root’s similar biochemical compounds or potential pharmaceutical applications. This lack of current interest, however, does not make the biochemical activity of peony insignificant historically. The identification of active biochemical compounds suggest that Anna Maria Luisa de Medici’s powder might have actually improved the health of the children who received it!
 <param ve-image
        fit="contain"
        title="Treating diseased brain cells with calcium channel blockers"
        attribution="University of Bristol"
-       url="/Calcium-Channel-Blocker.jpg">
+       url="Calcium-Channel-Blocker.jpg">
 
 The seeming effectiveness of her infant convulsion powder increased Anna Maria Luisa’s socio-political influence. In fact, several letters preserved in the Florence State Archive attest to the powder’s efficacy and popularity. One, from the Viennese baroness, asks Anna Maria Luisa for additional portions of powder given the “extraordinary effects they had on three children from the most important families of Vienna.” Anna Maria Luisa replied that she would send the baroness as much of the powder as she desired to distribute to her friends, considering that she had “put the powder to such good use.”
 <param ve-map center="47.61128698661441, 8.433186816910375" zoom="6" title="Recipients of Anna Maria Luisa's Infant Convulsion Powder" show-labels>
