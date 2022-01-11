@@ -3,9 +3,7 @@
 # Featured Plant Narratives {.cards}
 
 ## 
-[**Tamarind: **](/tamarind)
-
-- ??
+[**Tamarind:**](/tamarind)
 
 ![](/images/thumbnails/cacao.jpg)
 
