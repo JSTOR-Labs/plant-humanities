@@ -343,7 +343,6 @@
     }
 
     async function getFile(acct, repo, ref, path, token) {
-      console.log(`getFile1: path=${path} acct=${acct} repo=${repo} ref=${ref} ghToken=${ghToken}`)
       token = token || oauthAccessToken || ghUnscopedToken
       let content
       let resp = await fetch(`https://api.github.com/repos/${acct}/${repo}/contents${path}?ref=${ref}`, {headers: {Authorization:`Token ${token}`}})
