@@ -38,8 +38,8 @@ Regarding India, the world’s largest tamarind producer, some sources suggest t
        zoom="2"
        max-zoom="4"
        date-format="YYYY"
-       fps="1"
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/Tamarind_map.json">
+       fps="1">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/staging/tamarind/spread-map.json" show labels>
 
 Today, tamarind orchards are located across India, with one of the oldest groves, [Nallur Amarai](https://theprint.in/pageturner/excerpt/babur-to-wwii-to-sonia-gandhi-all-connected-through-the-tamarind-tree-in-india/247670/), located just outside of Begaluru. This 54-acre grove and recently-declared biodiversity heritage site is believed to have been planted during the <span eid="Q151148">Chola dynasty</span> in the 12th century, though the oldest dated tree is 400 years old. While the plant has been cultivated in orchards and grown as a large-scale crop for commercial purposes, the trees are most frequently referenced in historical literature as singular trees, small ornamental groves (frequently in the shape of bonsai, specially in South Asia), or along roadsides. 
 <param ve-image fit="contain" label="Old tamarind tree in the Nallur Amarai Grove" author="Shyamal" attribution="Shyamal" license="CC BY-NC 4.0"  url="https://upload.wikimedia.org/wikipedia/commons/2/27/Nallur_tamarind1.jpg">
