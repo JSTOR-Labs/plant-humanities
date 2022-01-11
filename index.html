@@ -1261,8 +1261,7 @@
               return { sha: resp.sha, content: decodeURIComponent(escape(atob(resp.content))) }
             }
           } else {
-            // let url = `${this.contentSource.baseUrl}${this.contentSource.basePath}${path}`
-            let url = path
+            let url = `${this.contentSource.baseUrl}${this.contentSource.basePath}${path}`
             let resp = await fetch(url)
             if (resp.ok) resp = await resp.text()
             return {content: resp}

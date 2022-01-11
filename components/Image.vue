@@ -439,7 +439,8 @@ module.exports = {
       let files = await dir(this.mdDir, contentSource.repo ? contentSource : null)
       console.log('loadAnnotations', files, annosFile)
       if (files[annosFile]) {  
-        this.getFile(files[annosFile], contentSource.acct, contentSource.repo, contentSource.ref).then(annos => {
+        let path = `${this.mdDir}/${annosFile}`
+        this.getFile(path, contentSource.acct, contentSource.repo, contentSource.ref).then(annos => {
           if (annos && annos.content && annos.content.length > 0) {
             this.annotations = JSON.parse(annos.content)
             if (!Array.isArray(this.annotations) && this.annotations.items) this.annotations = this.annotations.items
