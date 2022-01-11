@@ -1,0 +1,33 @@
+source	source.label	target	target.label	edge
+	Tamarindus occidentalis Gaertn. (1791)	Q80235	Tamarindus indica L. (1753)	is a synonym
+	Tamarindus occidentalis Gaertn. (1791)	Q1040689	Taxonomic SYNONYMS	is a Tamarindus indica L. (1753) 
+	Tamarindus umbrosa Salisb. (1796)	Q80235	Tamarindus indica L. (1753)	is a synonym
+	Tamarindus umbrosa Salisb. (1796)	Q1040689	Taxonomic SYNONYMS	is a Tamarindus indica L. (1753) 
+	Tamarindus officinalis Hook. (1851) 	Q80235	Tamarindus indica L. (1753)	is a synonym
+	Tamarindus officinalis Hook. (1851) 	Q1040689	Taxonomic SYNONYMS	is a Tamarindus indica L. (1753) 
+	Tamarindus somalensis Mattei (1908) 	Q80235	Tamarindus indica L. (1753)	is a synonym
+	Tamarindus somalensis Mattei (1908) 	Q1040689	Taxonomic SYNONYMS	is a Tamarindus indica L. (1753) 
+	Tamarindus erythraeus Mattei (1908) 	Q80235	Tamarindus indica L. (1753)	is a synonym
+	Tamarindus erythraeus Mattei (1908) 	Q1040689	Taxonomic SYNONYMS	is a Tamarindus indica L. (1753) 
+Q72336898	Tamarind	Q80235	Tamarindus indica L. (1753)	common name
+Q72336898	Tamarind		VERNACULARS	is a Tamarindus indica L. (1753) 
+	Tamarindo	Q80235	Tamarindus indica L. (1753)	common name
+	Tamarindo		VERNACULARS	in Spain, Latin America, the Caribbean, Madagascar and Brazil is a Tamarindus indica L. (1753)
+	Manhan	Q80235	Tamarindus indica L. (1753)	common name
+	Manhan		VERNACULARS	in China is a Tamarindus indica L. (1753)
+	Amli	Q80235	Tamarindus indica L. (1753)	common name
+	Amli		VERNACULARS	in Fiji is a Tamarindus indica L. (1753)
+	Makham	Q80235	Tamarindus indica L. (1753)	common name
+	Makham		VERNACULARS	in Thailand is a Tamarindus indica L. (1753)
+	Mkwaju	Q80235	Tamarindus indica L. (1753)	common name
+	Mkwaju		VERNACULARS	in Tanzania is a Tamarindus indica L. (1753)
+	Dakhar	Q80235	Tamarindus indica L. (1753)	common name
+	Dakhar		VERNACULARS	in Senegal is a Tamarindus indica L. (1753)
+	Hamer	Q80235	Tamarindus indica L. (1753)	common name
+	Hamer		VERNACULARS	in Saudi Arabia is a Tamarindus indica L. (1753)
+	Timer hendi	Q80235	Tamarindus indica L. (1753)	common name
+	Timer hendi		VERNACULARS	in Morocco is a Tamarindus indica L. (1753)
+	Asam Jawa	Q80235	Tamarindus indica L. (1753)	common name
+	Asam Jawa		VERNACULARS	in Indonesia and Malaysia is a Tamarindus indica L. (1753)
+	Ntemi	Q80235	Tamarindus indica L. (1753)	common name
+	Ntemi		VERNACULARS	in Guinea and Malaysia is a Tamarindus indica L. (1753)

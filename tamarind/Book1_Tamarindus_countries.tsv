@@ -1,0 +1,33 @@
+source	source.label	target	target.label	edge
+	Tamarindus occidentalis Gaertn. (1791)	Q80235	Tamarindus indica L. (1753)	is a synonym
+	Tamarindus occidentalis Gaertn. (1791)	Q1040689	Taxonomic SYNONYMS	is a Tamarindus indica L. (1753) 
+	Tamarindus umbrosa Salisb. (1796)	Q80235	Tamarindus indica L. (1753)	is a synonym
+	Tamarindus umbrosa Salisb. (1796)	Q1040689	Taxonomic SYNONYMS	is a Tamarindus indica L. (1753) 
+	Tamarindus officinalis Hook. (1851) 	Q80235	Tamarindus indica L. (1753)	is a synonym
+	Tamarindus officinalis Hook. (1851) 	Q1040689	Taxonomic SYNONYMS	is a Tamarindus indica L. (1753) 
+	Tamarindus somalensis Mattei (1908) 	Q80235	Tamarindus indica L. (1753)	is a synonym
+	Tamarindus somalensis Mattei (1908) 	Q1040689	Taxonomic SYNONYMS	is a Tamarindus indica L. (1753) 
+	Tamarindus erythraeus Mattei (1908) 	Q80235	Tamarindus indica L. (1753)	is a synonym
+	Tamarindus erythraeus Mattei (1908) 	Q1040689	Taxonomic SYNONYMS	is a Tamarindus indica L. (1753) 
+Q72336898	Tamarind (English speaking countries)	Q80235	Tamarindus indica L. (1753)	common name
+Q72336898	Tamarind (English speaking countries)		VERNACULARS	is a Tamarindus indica L. (1753) 
+	Tamarindo (Spanish speaking countries)	Q80235	Tamarindus indica L. (1753)	common name
+	Tamarindo (Spanish speaking countries)		VERNACULARS	in Spain, Latin America, the Caribbean, Madagascar and Brazil is a Tamarindus indica L. (1753)
+	Manhan (China)	Q80235	Tamarindus indica L. (1753)	common name
+	Manhan (China)		VERNACULARS	in China is a Tamarindus indica L. (1753)
+	Amli (Fiji)	Q80235	Tamarindus indica L. (1753)	common name
+	Amli (Fiji)		VERNACULARS	in Fiji is a Tamarindus indica L. (1753)
+	Makham (Thailand)	Q80235	Tamarindus indica L. (1753)	common name
+	Makham (Thailand)		VERNACULARS	in Thailand is a Tamarindus indica L. (1753)
+	Mkwaju (Tanzania)	Q80235	Tamarindus indica L. (1753)	common name
+	Mkwaju (Tanzania)		VERNACULARS	in Tanzania is a Tamarindus indica L. (1753)
+	Dakhar (Senegal)	Q80235	Tamarindus indica L. (1753)	common name
+	Dakhar (Senegal)		VERNACULARS	in Senegal is a Tamarindus indica L. (1753)
+	Hamer (Saudi Arabia)	Q80235	Tamarindus indica L. (1753)	common name
+	Hamer (Saudi Arabia)		VERNACULARS	in Saudi Arabia is a Tamarindus indica L. (1753)
+	Timer hendi (Morocco)	Q80235	Tamarindus indica L. (1753)	common name
+	Timer hendi (Morocco)		VERNACULARS	in Morocco is a Tamarindus indica L. (1753)
+	Asam Jawa (Indonesia and Malaysia)	Q80235	Tamarindus indica L. (1753)	common name
+	Asam Jawa (Indonesia and Malaysia)		VERNACULARS	in Indonesia and Malaysia is a Tamarindus indica L. (1753)
+	Ntemi (Guinea)	Q80235	Tamarindus indica L. (1753)	common name
+	Ntemi (Guinea)		VERNACULARS	in Guinea and Malaysia is a Tamarindus indica L. (1753)
