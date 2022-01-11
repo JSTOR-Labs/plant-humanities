@@ -98,14 +98,14 @@ Today’s primary approach to treating epilepsy and suppressing seizures is to a
        fit="contain"
        title="Treating diseased brain cells with calcium channel blockers"
        attribution="University of Bristol"
-       url="Calcium-Channel-Blocker.jpg">
+       url="/Calcium-Channel-Blocker.jpg">
 
 The seeming effectiveness of her infant convulsion powder increased Anna Maria Luisa’s socio-political influence. In fact, several letters preserved in the Florence State Archive attest to the powder’s efficacy and popularity. One, from the Viennese baroness, asks Anna Maria Luisa for additional portions of powder given the “extraordinary effects they had on three children from the most important families of Vienna.” Anna Maria Luisa replied that she would send the baroness as much of the powder as she desired to distribute to her friends, considering that she had “put the powder to such good use.”
 <param ve-map center="47.61128698661441, 8.433186816910375" zoom="6" title="Recipients of Anna Maria Luisa's Infant Convulsion Powder" show-labels>
 <param ve-map-layer geojson url="/geojson/AML_distribution.json" title="Distribution of Anna Maria Luisa's Infant Convulsion Powder" active> 
 
 The gift of “miraculous” medicine to the Viennese court was not simply altruistic. As a woman, Anna Maria Luisa was barred from inheriting and ruling Tuscany on the death of her brother, the <span data-click-image-zoomto="1061,479,736,629">last Medici Grand Duke.</span> Although she lacked official power, Anna Maria Luisa fashioned influence through the gift of her infant convulsion powder, which allowed her to ingratiate herself with some of <span data-click-image-zoomto="214,581,1271,955">Vienna’s most important and powerful families.</span> This ensured goodwill and communication between the Grand Duchy of Tuscany and the court that would decide its fate. By the end of the Medici dynasty, the Viennese court was the headquarters of the Habsburg dynasty and the center of its imperial politics. In 1737, <span eid="Q151075">Francis of Lorraine,</span> future head of the <span eid="Q12548">Holy Roman Empire,</span> which controlled much of Europe at this time, became the Grand Duke of Tuscany and ruled Florence from the imperial court in Vienna—a court much indebted to Anna Maria Luisa de Medici’s infant convulsion powder and the power of peony.
-<param ve-image region="412,1,1423,1209" title="Line of Sucession for the Grand Duchy of Tuscany" url="../images/Black%20and%20White%20Simple%20Corporate%20Family%20Tree.jpg">
+<param ve-image region="412,1,1423,1209" title="Line of Sucession for the Grand Duchy of Tuscany" url="/images/Black%20and%20White%20Simple%20Corporate%20Family%20Tree.jpg">
 
 ### References 
 [^1]: Zhou Shi-Liang et al., “Multiple species of wild tree peonies gave rise to the ‘king of flowers’, Paeonia suffruticosa Andrews,” Proceedings: Biological Sciences 281, no. 1797  (December 2014): 1–8.
