@@ -3,6 +3,13 @@
 # Featured Plant Narratives {.cards}
 
 ## 
+[**Tamarind: **](/tamarind)
+
+- ??
+
+![](/images/thumbnails/cacao.jpg)
+
+## 
 [**Cacao: Indigenous Network to Global Commodity**](/cacao)
 
 - Rebecca Friedel
