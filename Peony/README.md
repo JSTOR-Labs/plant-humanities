@@ -17,6 +17,7 @@ In 1735, a Viennese baroness wrote to the last Medici princess, <span id="Q23318
 <param ve-image
      title="Archivio di Stato di Firenze (ASF), Miscellanea Medicea (MM) 1, ins. 2, fol. 186r."
      url="/images/IMG_1325.JPG">
+{#paragraph1}
 
 In her letter to Anna Maria Luisa, the baroness praised the powder’s effectiveness, stating that the children she treated with it had been so violently taken by convulsions that the attending physicians had “given up on them.” Not only had the “miraculous powder” cured the children, but they remained in perfect health several months later. Well known for her miraculous powder, Anna Maria Luisa strategically distributed it to influential individuals and courts across Europe. As a result, she created valuable socio-political alliances to protect <span eid="Q154849">The Grand Duchy of Tuscany</span> as the end of the Medici dynasty neared.
 <param ve-vis-network title="Anna Maria Luisa de Medici’s Network" url="AML_network.tsv">
@@ -38,10 +39,10 @@ In 1789, famed British naturalist <span eid="Q153408">Sir Joseph Banks</span> ac
 <param ve-compare url="https://iiif.juncture-digital.org/gp-proxy/jp2/fpx/16/gpi-bm-typspe-01-68/bm0007/bm000628767.jp2">
 
 As a Chinese botanical export, eastern ornamental peonies, as well as the new herbaceous and tree hybrids created from them in Europe, carried connotations of the “exotic Orient” and became a popular subject in nineteenth-century art. The depiction of peonies in nineteenth-century French paintings, however, does more than simply signify the exotic or differentiate <span eid="Q160381">Occident</span> and <span eid="Q205653">Orient.</span>[^4] For example, in <span edit="Q207298">Frédéric Bazille’s</span> _Young Woman with Peonies,_ the foreign provenance of ornamental peonies is emphasized by the Black model who arranges the blooms in an <span data-click-image-zoomto="22,583,979,821">“Oriental” vase.</span> Noteably, Bazille pairs the peonies with <span data-click-image-zoomto="138,0,979,821">irises,</span> France’s national flower. Once new and exotic, ornamental peony cultivars had become a product of cultural hybridity, simultaneously signaling the plant’s eastern origin as well as the new varieties that were being developed in France.[^5] 
-<param ve-image title="Frédéric Bazille, _Young Woman with Peonies_, 1870." attribution="Musée Fabre" url="https://upload.wikimedia.org/wikipedia/commons/b/bd/Bazille%2C_N%C3%A9gresse_aux_pivoines.JPG">
+<param ve-image title="Frédéric Bazille, Young Woman with Peonies, 1870." attribution="Musée Fabre" url="https://upload.wikimedia.org/wikipedia/commons/b/bd/Bazille%2C_N%C3%A9gresse_aux_pivoines.JPG">
 
 Today, peonies remain one of the most sought-after ornamental flowers in the world. Thanks to their abundant delicate petals, peonies often adorn gardens and homes, and are popular for wedding bouquets and floral arrangements. While peonies have long been, and continue to be, a coveted ornamental plant, what may surprise you is that they also have an equally long history—over two millennia—as a powerful medicinal therapeutic.
-<param ve-image region="0,124,1084,909" title="Camille Pissarro, _A Bouquet of Pink Peonies_, 1873." attribution="Ashmolean Museum" url="https://upload.wikimedia.org/wikipedia/commons/7/71/Camille_Pissarro_-_Bouquet_of_pink_Peonies_-_Ashmolean_Museum.jpg">
+<param ve-image region="0,124,1084,909" title="Camille Pissarro, A Bouquet of Pink Peonies, 1873." attribution="Ashmolean Museum" url="https://upload.wikimedia.org/wikipedia/commons/7/71/Camille_Pissarro_-_Bouquet_of_pink_Peonies_-_Ashmolean_Museum.jpg">
 
 ### Shaoyao: The Medicine Made from Peony
 Peony is the single genus in the _Paeoniaceae_ family, which has about 30 species found in western North America, northwest Africa, and temperate Eurasia. China, with 15 species, 10 of which are endemic, is the center of the family’s bio-geographic distribution.
