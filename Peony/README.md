@@ -17,11 +17,11 @@ In 1735, a Viennese baroness wrote to the last Medici princess, <span id="Q23318
 <param ve-image
      title="Archivio di Stato di Firenze (ASF), Miscellanea Medicea (MM) 1, ins. 2, fol. 186r."
      url="/images/IMG_1325.JPG">
-{#paragraph1}
+{paragraph1}
 
 In her letter to Anna Maria Luisa, the baroness praised the powder’s effectiveness, stating that the children she treated with it had been so violently taken by convulsions that the attending physicians had “given up on them.” Not only had the “miraculous powder” cured the children, but they remained in perfect health several months later. Well known for her miraculous powder, Anna Maria Luisa strategically distributed it to influential individuals and courts across Europe. As a result, she created valuable socio-political alliances to protect <span eid="Q154849">The Grand Duchy of Tuscany</span> as the end of the Medici dynasty neared.
 <param ve-vis-network title="Anna Maria Luisa de Medici’s Network" url="AML_network.tsv">
-{#paragraph2}
+{paragraph2}
 
 ### The Popularity of Peonies
 Peonies are not typically associated with medicine, since they have long been coveted for their beauty. In fact, <span eid="Q147105">peonies</span> were first cultivated for their attractiveness and fragrance in China more than 1,400 years ago and became especially popular under the <span eid="Q9683">Tang Dynasty</span> (618–907 CE). In the Tang imperial gardens, tree (or moutan) peonies reigned as the “king of flowers” and symbolized happiness, wealth, and prosperity. We can see the association of peonies with wealth and class in a rare Tang scroll painting that depicts five ladies of the court and one maidservant. The rank and prestige of each <span data-click-image-zoomto="3599,-267,2284,1914">lady</span> is shown by their scale relative to one another as well as by the lavish <span data-click-image-zoomto="2737,1,617,535">peonies</span> that adorn their hair. As the popularity of peonies grew in China, so too did their varieties, as horticulturalists selected, hybridized, bred, and eventually grafted peonies for their fragrance, petal color, petal number, and size.[^1]
