@@ -20,7 +20,6 @@
 <param eid="Q3888662" fill="#5C6609" marker-symbol="seedling" aliases="Huauthla">
 <param eid="Q2269745" fill="#5C6609" marker-symbol="seedling">
 <param eid="Q13393188" fill="#5C6609" marker-symbol="seedling" aliases="Cotaxtla">
-<param title="Hernán Cortés" eid="Q7326" aliases="Hernán Cortés’">
 
 ### A Coveted Tree
 
@@ -94,6 +93,7 @@ Far from its neotropical habitat, cacao was largely considered an elite commodit
 <param ve-map title="Cacao Distribution in the Mexica Empire at the Time of Contact with Europeans" center="17.265945, -94.268896" zoom="5.5" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson active url="/geojson/Neotropics.geojson" title="Neotropics">
 <param ve-map-layer geojson active url="/geojson/Mexica.geojson" title="Mexica">
+<param title="Hernán Cortés" eid="Q7326" aliases="Hernán Cortés'|Hernán Cortés’s">
 {#paragraph10}
 
 We learn from many other early colonial documents that roasted cacao beans were used as currency throughout Mesoamerica, highlighting its importance as an economic good by the time Europeans arrived. The relationship between trade and cacao is also reflected in the ancient Maya gods <span eid="Q12744014">L</span> or <span eid="Q17010064">M,</span> who have been documented in relation to cacao and merchant regalia.[^ref12] Such ancient associations between commerce and cacao emphasize the deep history of long-distance trade of the plant between the many regions of Mesoamerica. These networks of cacao production and trade, as well as their associated ideologies and practices, were well-established before the arrival of Europeans.
