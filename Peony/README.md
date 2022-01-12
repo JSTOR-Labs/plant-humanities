@@ -129,13 +129,13 @@ The gift of “miraculous” medicine to the Viennese court was not simply altru
 
 ### References 
 [^1]: Zhou Shi-Liang et al., “Multiple species of wild tree peonies gave rise to the ‘king of flowers’, _Paeonia suffruticosa_ Andrews,” _Proceedings: Biological Sciences_ 281, no. 1797  (December 2014): 1–8.
-[^2]: John H. Harvey, “Turkey as a Source of Garden Plants,” _Garden History_ 4, no. 3 (1976): 21–42. Accessed March 25, 2021. [doi:10.2307/1586521](doi:10.2307/1586521).
-[^3]: Richard Zhang, “King of Flowers: Reinterpretation of Chinese Peonies in Early Modern Europe,” _Journal of the Southern Association for the History of Medicine and Science_, 3, no. 1 (2021), [https://journals.troy.edu/index.php/JSAHMS/](https://journals.troy.edu/index.php/JSAHMS/).
+[^2]: John H. Harvey, “Turkey as a Source of Garden Plants,” _Garden History_ 4, no. 3 (1976): 21–42. Accessed March 25, 2021. [doi:10.2307/1586521.](https://www.jstor.org/stable/1586521)
+[^3]: Richard Zhang, “King of Flowers: Reinterpretation of Chinese Peonies in Early Modern Europe,” _Journal of the Southern Association for the History of Medicine and Science_, 3, no. 1 (2021), [https://journals.troy.edu/index.php/JSAHMS/.](https://journals.troy.edu/index.php/JSAHMS/)
 [^4]: Linda Nochlin, “The Imaginary Orient,” _Art in America_ 71, no. 5 (1983): 118–191.
 [^5]: Homi K. Bhabha, “On ‘hybridity’ and ‘moving beyond’” in _Art in Theory, 1900-2000: An Anthology of Changing Ideas_ (Malden, Mass.: Blackwell Publishers, 2003).
-[^6]: M. Zhao and S.P. Wu, “A Review of the Ethnobotany, Phytochemistry and Pharmacology of Tree Peony (Sect. Moutan)” _South African Journal of Botany_ 124 (2019): 556–563, [https://doi.org/10.1016/j.sajb.2019.05.018](https://doi.org/10.1016/j.sajb.2019.05.018).
+[^6]: M. Zhao and S.P. Wu, “A Review of the Ethnobotany, Phytochemistry and Pharmacology of Tree Peony (Sect. Moutan)” _South African Journal of Botany_ 124 (2019): 556–563, [https://doi.org/10.1016/j.sajb.2019.05.018.](https://doi.org/10.1016/j.sajb.2019.05.018)
 [^7]: Sarah E. Edwards, _Phytopharmacy: An Evidence-based Guide to Herbal Medicinal Products_ (Chichester, England: Wiley Blackwell, 2015).
-[^8]: Subhuti Dharmananda, “White Peony, Red Peony, and Moutan: Three Chinese Herbs Derived from Paeonia,” [http://www.itmonline.org/arts/peony.htm#figure%201](http://www.itmonline.org/arts/peony.htm#figure%201).
+[^8]: Subhuti Dharmananda, “White Peony, Red Peony, and Moutan: Three Chinese Herbs Derived from Paeonia,” [http://www.itmonline.org/arts/peony.htm#figure%201.](http://www.itmonline.org/arts/peony.htm#figure%201)
 [^9]: Graeme Tobyn, Alison Denham, and Margaret Whitelegg, _The Western Herbal Tradition: 2000 Years of Medicinal Plant Knowledge_ (Edinburgh, New York: Elsevier, 2011).
 [^10]: Priscilla Throop, “Peony,” in Hildegard Von Bingen’s _Physica: The Complete English Translation of Her Classic Work on Health and Healing_ (Rochester, Vt.: Healing Arts Press, 1998).
 [^11]: M. Zhao and S.P. Wu.
