@@ -57,11 +57,6 @@ Other morphological traits distinguish members of the genera pelargonium from ge
 ### Introduction to Europe and Nomenclature Confusion
 
 The [_pelargonium_,](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30302759-2) which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. The great majority of these species are endemic to the Cape regions of present-day South Africa—a biodiversity hotspot. Given their concentration there, it is not surprising that Dutch traders, who first introduced pelargoniums to Europe in the early seventeenth century, harvested them from the Cape.[^ref6]
-<param ve-entity eid="Q258" title="South Africa">
-<param ve-entity eid="Q34497" title="Saint Helena" aliases="St. Helena">
-<param ve-entity eid="Q12824780" title="Asia Minor">
-<param ve-entity eid="Q1019" title="Madagascar">
-<param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
 <param ve-map center="-1.8178950538873857, 72.47203596246695" zoom="2.5" show-labels="true">
 <param ve-map-layer geojson url="map-pelargonium.json" label="Pelargonium native range (red)">
