@@ -185,7 +185,7 @@ Cultivated _Helianthus annuus_ is a fast-growing, sun-loving plant that blooms d
 ### References
 [^ref1]: Charles B. Heiser, Jr., “The Origin and Development of the Cultivated Sunflower,” _The American Biology Teacher_ 17, no. 5 (May 1955): 161–67, [https://www.jstor.org/stable/4438706](https://www.jstor.org/stable/4438706?seq=1)
 
-[^ref2]: Bruce D. Smith, “The Domestication of Helianthus annuus L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57–74, [https://doi.org/10.1007/s00334-013-0393-3](https://repository.si.edu/handle/10088/25724)
+[^ref2]: Bruce D. Smith, “The Domestication of _Helianthus annuus_ L. (sunflower),” _Vegetation History and Archaeobotany_ 23 (2014): 57–74, [https://doi.org/10.1007/s00334-013-0393-3](https://repository.si.edu/handle/10088/25724)
 
 [^ref3]: Carl von Linné, _Species plantarum_ (Stockholm: Impensis Laurentii Salvii, 1754), 904–906, accessed October 7, 2020,  [https://doi.org/10.5962/bhl.title.669](https://www.biodiversitylibrary.org/bibliography/669#/summary); Carl von Linné, _Genera plantarum_ (Stockholm: Impensis Laurentii Salvii, 1754), 386, accessed October 7, 2020, [https://doi.org/10.5962/bhl.title.746](https://www.biodiversitylibrary.org/bibliography/746#/summary)
 
