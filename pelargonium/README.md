@@ -58,7 +58,7 @@ Other morphological traits distinguish members of the genera pelargonium from ge
 
 The [_pelargonium_,](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30302759-2) which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. The great majority of these species are endemic to the Cape regions of present-day South Africa—a biodiversity hotspot. Given their concentration there, it is not surprising that Dutch traders, who first introduced pelargoniums to Europe in the early seventeenth century, harvested them from the Cape.[^ref6]
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
-<param ve-map center="-1.8178950538873857, 72.47203596246695" zoom="2.5" show-labels="true" marker-type="none">
+<param ve-map center="-1.8178950538873857, 72.47203596246695" zoom="2.5" show-labels="true">
 <param ve-map-layer geojson url="map-pelargonium.json" label="Pelargonium native range (red) active">
 <param ve-map-layer geojson url="map-pelargonium-netherlands.json" label="Netherlands (green) active">
 {#paragraph6}
@@ -68,7 +68,7 @@ Of the many _Pelargonium_ species native to Southern Africa, _Pelargonium triste
 <param ve-entity eid="Q66569" title="Paul Hermann">
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
 <param ve-entity eid="Q3898876" title="Pelargonium cucullatum" aliases="P. cucullatum">
-<param ve-map center="-27.463216719911, 23.43344878447288" zoom="5" show-labels="true" marker-type="none">
+<param ve-map center="-27.463216719911, 23.43344878447288" zoom="5" show-labels="true">
 <param ve-map-layer geojson url="map-pelargonium.json" label="Pelargonium native range (red)" active>
 <param ve-map-layer geojson url="map-pelargonium-netherlands.json" label="introduced (green)" active>
 {#paragraph7}
