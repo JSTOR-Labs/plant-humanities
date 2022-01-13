@@ -60,7 +60,6 @@ The [_pelargonium_,](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.o
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
 <param ve-map center="-1.8178950538873857, 72.47203596246695" zoom="2.5" show-labels="true">
 <param ve-map-layer geojson url="map-pelargonium.json" label="Pelargonium native range (red) active">
-<param ve-map-layer geojson url="map-pelargonium-netherlands.json" label="Netherlands (green) active">
 {#paragraph6}
 
 Of the many _Pelargonium_ species native to Southern Africa, _Pelargonium triste_ was probably the first to reach Europe, in the early 1600s.[^ref7] In 1672, several more species were collected—mostly from Table Mountain, on the Cape peninsula—and shipped back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India Company.[^ref8] Hermann is credited with introducing _P. cucullatum_ to the garden, and his 1689 book [_Paradisi Batavi Prodromus_](https://bibdigital.rjb.csic.es/idurl/1/13582) lists pelargonium as “African geranium.”[^ref9] Yet, it is important to note that some mystery still surrounds the identities of these plants because there was not yet a standardized method for naming them.
