@@ -74,7 +74,7 @@ Of the many _Pelargonium_ species native to Southern Africa, _Pelargonium triste
 <param ve-entity eid="Q66569" title="Paul Hermann">
 <param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
 <param ve-entity eid="Q3898876" title="Pelargonium cucullatum" aliases="P. cucullatum">
-<param ve-map center="-27.463216719911, 23.43344878447288" zoom="5" show-label="true">
+<param ve-map center="-27.463216719911, 23.43344878447288" zoom="5" show-labels="true">
 <param ve-map-layer geojson url="map-pelargonium.json" label="Pelargonium native range (red)" active>
 <param ve-map-layer geojson url="map-pelargonium-netherlands.json" label="Netherlands (green)" active>
 {#paragraph7}
