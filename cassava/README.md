@@ -67,7 +67,7 @@ While storing cassava in the soil addresses the issue of perishability, addition
 <param title="cyanogenic glycoside" eid="Q8964351" aliases="cyanogenic glycosides">
 <param title="chicha" eid="Q516592">
 <param title="casabe de yuca" eid="Q61998616">
-<param ve-image manifest="https://www.wdl.org/en/item/9017/manifest">
+<param ve-image manifest="https://www.loc.gov/item/2021670021/manifest">
 {#paragraph7}
 
 Some of the implements used for processing cassava include [graters, strainers or squeezers, and sieves.](https://www.spurlock.illinois.edu/blog/p/food-and-drink/294) Cassava graters are generally constructed by embedding small stones or nails into a wooden surface.[^ref11] The cassava root is rubbed along the device so that the stones or nails shred the tuber into small pieces. These pieces are soaked in water to form pulp, which is placed into a strainer or squeezer to remove the liquid. The toxins are removed during this straining process.[^ref12] Cassava squeezers have a similar form throughout South America: a circular woven tube that is designed to be hung from up high. The woven designs, however, may differ according to culture. After the liquid is drained, the cassava pulp is further passed through a sieve, after which it is suitable for cooking and consumption.
