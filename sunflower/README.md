@@ -60,7 +60,7 @@ The advent of the florilegium in the 1610s was integral to the blossoming of sun
 <param ve-entity eid="Q65027" title="Basilius Besler">
 <param ve-entity eid="Q110347" title="Johann Konrad von Gemmingen" aliases="Prince Bishop of Eichstätt">
 <param ve-entity eid="Q462437" title="composition">
-<param ve-compare sync region="67,71,971,903" manifest="https://iiif.juncture-digital.org/manifest/30cc2872daec9f4902bb335613918a06cabedc1386bbe5bb55c6eada0331736e">
+<param ve-compare curtain region="67,71,971,903" manifest="https://iiif.juncture-digital.org/manifest/30cc2872daec9f4902bb335613918a06cabedc1386bbe5bb55c6eada0331736e">
 <param ve-compare region="1,-17,1918,1817" url="1F33B_sunflower_OpenMojis_rectangle_2.png">
 {#paragraph7}
 
