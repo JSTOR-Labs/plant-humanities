@@ -931,7 +931,7 @@
         "stroke-opacity": 1,
         "fill": "#ff906b",
         "fill-opacity": 0.5,
-        "label": "Madagascar"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1197,7 +1197,7 @@
         "stroke-opacity": 1,
         "fill": "#ff906b",
         "fill-opacity": 0.5,
-        "label": "Australia"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2169,7 +2169,7 @@
         "stroke-opacity": 1,
         "fill": "#ff906b",
         "fill-opacity": 0.5,
-        "label": "Asia Minor"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3739,7 +3739,7 @@
         "stroke-opacity": 1,
         "fill": "#ff906b",
         "fill-opacity": 0.5,
-        "label": "Saint Helena"
+        "label": ""
       },
       "geometry": {
         "type": "LineString",
