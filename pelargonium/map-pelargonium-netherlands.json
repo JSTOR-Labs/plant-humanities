@@ -9,7 +9,7 @@
         "stroke-opacity": 1,
         "fill": "#009900",
         "fill-opacity": 0.5,
-        "label": "introduced"
+        "label": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2739,6 +2739,49 @@
               6.142215728759766,
               53.49488815550261
             ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#009900",
+        "stroke-width": 0,
+        "fill": "#009900",
+        "stroke-opacity": 0,
+        "fill-opacity": 0,
+        "label": "Hortus Botanicus Leiden",
+        "marker-color": "#006600",
+        "marker-size": "large",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.484809041023254,
+            52.15716691271818
+          ],
+          [
+            4.4849324226379395,
+            52.15718995011475
+          ],
+          [
+            4.484969973564148,
+            52.15712412895001
+          ],
+          [
+            4.484851956367493,
+            52.157101091519344
+          ],
+          [
+            4.484851956367493,
+            52.15717349483268
+          ],
+          [
+            4.484819769859314,
+            52.15718007694625
           ]
         ]
       }
