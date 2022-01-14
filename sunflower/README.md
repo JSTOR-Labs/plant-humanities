@@ -171,7 +171,7 @@ Sunflower seeds also exhibit variations in size, color, and markings. Whole seed
 <param ve-entity eid="Q40763" title="seed">
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/164812aee7ba68a68fd77d3b790cc2994def193428197086860d5a2456631872">
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/290696f4e3c7ed98c080daef24614c4a02bf20b04a098418b5f18abe59ffd401">
-<param ve-image fit="contain" url="sunflower_CollegeofHumanEcology_Cornell.jpg" title="Hopi Sunflower Helianthus annuus, seeds produce blue, black, and purple dye and the leaves give a range of yellow to green, Cornell Natural Dye Garden in the College of Human Ecology at Cornell University">
+<param ve-image fit="contain" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/sunflower/sunflower_CollegeofHumanEcology_Cornell.jpg" title="Hopi Sunflower Helianthus annuus, seeds produce blue, black, and purple dye and the leaves give a range of yellow to green, Cornell Natural Dye Garden in the College of Human Ecology at Cornell University">
 {#paragraph19}
 
 ### Gone to Seed
