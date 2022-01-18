@@ -24,10 +24,10 @@
           "conformsTo": "http://www.w3.org/TR/media-frags/",
           "value": "xywh=pixel:182.06048583984375,205.96096801757812,867.9733276367188,608.7868347167969"
         },
-        "id": "pelargonium/f82cac90"
+        "id": "pelargonium/5c8f586e"
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "pelargonium/f82cac90/293f4fb8",
+      "id": "pelargonium/5c8f586e/293f4fb8",
       "seq": 0
     },
     {
@@ -45,10 +45,10 @@
           "conformsTo": "http://www.w3.org/TR/media-frags/",
           "value": "xywh=pixel:1297.1650390625,154.72642517089844,1232.642578125,708.2420806884766"
         },
-        "id": "pelargonium/f82cac90"
+        "id": "pelargonium/5c8f586e"
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "pelargonium/f82cac90/78ae2fa7",
+      "id": "pelargonium/5c8f586e/78ae2fa7",
       "seq": 1
     },
     {
