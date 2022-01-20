@@ -14,7 +14,7 @@
 <param title="Hartekamp" eid="Q18771183">
 <param title="ploidy" eid="Q118406" aliases="diploid">
 <param title="Musa balbisiana" eid="Q94643">
-<param title="taxonomy of Linnaeus" eid="Q54878466" aliases="Latin binomial names">
+<param title="taxonomy of Linnaeus" eid="Q54878466" aliases="Latin binomial names|Linnaean taxonomy’s">
 <param title="Systema Naturae" eid="Q29270" aliases="Linnaeus’s formative work">
 <param title="Musa × paradisiaca" eid="Q10757112" aliases="Musa paradisca">
 <param title="Musa sapientium" eid="Q49625849">
