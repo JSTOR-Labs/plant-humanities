@@ -60,7 +60,7 @@ Clusius was at the center of a vibrant international network of naturalists and 
 <param title="Carolus Clusius" eid="Q333372">
 <param title="Pietro Andrea Mattioli" eid="Q457191">
 <param title="Giacomo Antonio Cortuso" eid="Q356009">
-<param title="Joachim Camerarius the Younger" eid="Q71261">
+<param title="Joachim Camerarius" eid="Q64361">
 {#paragraph7}
 
 Exchanging plant specimens and botanical knowledge was about more than solidifying friendship with like-minded individuals. Clusius and his network, by virtue of their letters, plant cultivation, and publications, positioned themselves as experts and established the means through which botanic practices were formalized and later institutionalized. In 1593, Clusius moved to Leiden to develop and oversee the city’s new botanical garden—the very same botanical garden where the Aloe americana would finally bloom in 1698. First cultivated in the botanical gardens of Padua and Pisa, agave reached the court gardens of Rome, Venice, and Florence by the late sixteenth century, thriving in the Italy’s hotter and drier climate. *Aloe americana* remained an object of fascination in Italy throughout the seventeenth century and witnessing its rare flowering was an occasion worthy of commemoration.[^ref11] Eventually, agave plants would escape the boundaries of their cultivated gardens in Italy. Today, in addition to remaining popular ornamental plants, agaves grow widely throughout Italy and southern Europe.
