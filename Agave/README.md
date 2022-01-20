@@ -102,5 +102,5 @@ Beyond producing one of North America’s favorite spirits, agave plants, as the
 [^ref11]: Giambattista Scarella, _Breve ragguaglio di Giambattista Scarella intorno al fiore dell' Aloe Americana_ (Padua, Italy: Conzatti, 1710), accessed via Biodiversity Heritage Library, DOI [https://doi.org/10.5962/bhl.title.112513](https://doi.org/10.5962/bhl.title.112513)
 [^ref12]: Marie Sarita Gaytán, _¡̕Tequila!,_ 8–14.
 [^ref13]: Marie Sarita Gaytán, 14–15.
-[^ref14]: E. Garcia‐Moya, A. Romero‐Manzanares, and P.S. Nobel, “Highlights for Agave Productivity,” _GCB Bioenergy_ 3 (2011): 4–14. DOI:10.1111/j.1757-1707.2010.01078.x
+[^ref14]: E. Garcia‐Moya, A. Romero‐Manzanares, and P.S. Nobel, “Highlights for Agave Productivity,” _GCB Bioenergy_ 3 (2011): 4–14. [DOI:10.1111/j.1757-1707.2010.01078.x](https://doi.org/10.1111/j.1757-1707.2010.01078.x)
 [^ref15]: Sarah C. Davis, Frank G. Dohleman, and Stephen P. Long, “The Global Potential for Agave as a Biofuel Feedstock,” _GCB Bioenergy_ 3 (2010): 68–78, [DOI:10.1111/j.1757-1707.2010.01077x](https://doi.org/10.1111/j.1757-1707.2010.01077.x)
