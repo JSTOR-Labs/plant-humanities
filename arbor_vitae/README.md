@@ -13,7 +13,6 @@
 	  
 <param title="Montreal" eid="Q340">
 <param title="Juniperus communis" eid="Q26325">
-<param title="Ojibwe" eid="Q255872">
 <param title="Quebec" eid="Q2145">
 <param title="Kingdom of France" eid="Q70972" aliases="French King">
 <param title="Stadacona" eid="Q3339246" aliases="St. Lawrence River">
@@ -53,7 +52,7 @@ According to Ramusio’s narrative, the tree used to cure the French explorers w
 
 ### Indigenous Coniferous Medicinal Knowledge
 
-Through linguistic, botanical, and historical analysis numerous trees have been put forward as the miraculous tree that saved Cartier and his men-–the balsam fir (*Abies balsamea*), white spruce (*Picea glauca*), red spruce (*Picea rubens*), black spruce (*Picea mariana*), eastern white pine (*Pinus strobus*), red pine (*Pinus resinosa*), white cedar (*Thuja occidentalis*), and eastern hemlock (*Tsuga canadensis*). Even sassafras (*Sassafras albidum*) has been considered, although it is generally agreed that based on sixteenth-century descriptions and its natural distribution, sassafras could not be a candidate.
+Through linguistic, botanical, and historical analysis numerous trees have been put forward as the miraculous tree that saved Cartier and his men–the balsam fir (*Abies balsamea*), white spruce (*Picea glauca*), red spruce (*Picea rubens*), black spruce (*Picea mariana*), eastern white pine (*Pinus strobus*), red pine (*Pinus resinosa*), white cedar (*Thuja occidentalis*), and eastern hemlock (*Tsuga canadensis*). Even sassafras (*Sassafras albidum*) has been considered, although it is generally agreed that based on sixteenth-century descriptions and its natural distribution, sassafras could not be a candidate.
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/7abe92680267a8d60322bf353cbc5b915f2a372fbe7feaa4ecb4e0d5ecfb1326">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/f93acafc668f8bd6d6e33e405ee35309adebd17f166b17c12b176602ce525d8d">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/87622b8792fafd1cdb17ab278dbfba4b8f8ae21017b4334c3b781315229196d3">
@@ -67,6 +66,7 @@ Through linguistic, botanical, and historical analysis numerous trees have been 
 <param title="Pinus resinosa" eid="Q2045958">
 <param title="Tsuga canadensis" eid="Q1137143" aliases="hemlock">
 <param title="Thuja occidentalis" eid="Q147468" aliases="white cedar">
+<param title="Sassafras albidum" eid="Q584469">
 {#paragraph6}
 
 Sixteenth- and seventeenth-century European herbals consistently describe the tree of life as a *Thuja* (a genus of coniferous trees) or similar to a cypress, without fruit (although the cone is now considered a fruit), and very aromatic. From this we can conclude that the tree of life was indeed an evergreen coniferous tree native to the area around present-day Quebec and Montreal.
@@ -77,11 +77,13 @@ Sixteenth- and seventeenth-century European herbals consistently describe the tr
 Canada is home to approximately 30 species of coniferous trees, which, sometimes called evergreens, keep their foliage year-round.[^ref3] For the Indigenous peoples of eastern Canada, coniferous forests offered sources of food, building materials, and medicines for human survival. Thanks to their general distribution, ability to survive cold climates, easy identification, and their very real pharmacological properties, coniferous trees were used medicinally by all indigenous groups of eastern Canada. The tannins of coniferous trees have astringent and antiseptic properties, while their resins and essential oils have aromatic and stimulant properties.[^ref4] More importantly, many conifers contain high levels of vitamin C.
 <param ve-map center="42.655350,-74.715453" basemap="Esri_WorldPhysical" zoom="3.5" stroke-width="0" show-labels>
 <param ve-map-layer geojson active url="/geojson/ThujaDistribution.json">
+<param title="tannin" eid="Q187607" aliases="tannins">
 {#paragraph8}
 
 The Ojibwa and many other Indigenous peoples of eastern North America boiled the leaves of several local conifers, notably common juniper and white cedar, to make medicinal teas.[^ref5] The inner bark of the balsam fir was also used to brew a medicinal tea by the Miꞌkmaq and Maritime Indians. Unfortunately, the St. Lawrence Iroquoians Cartier encountered disappeared sometime in the late sixteenth century, but the continued use of conifers for medicinal teas by many of their neighbors and successors highlights these populations’ knowledge of their natural resources and success in creating a local subsistence base.
 <param ve-map center="42.655350,-74.715453" basemap="Esri_WorldPhysical" zoom="4" stroke-width="0" show-labels>
 <param ve-map-layer geojson active url="/geojson/Maritime_Indians.json">
+<param title="Ojibwe" eid="Q255872">
 {#paragraph9}
 
 Unlike the European view of Indigenous medicines, which they often described as panaceas, the Iroquois practiced (and continue to practice) a form of sympathetic medicine. That is to say that the Iroquois identified relationships between cure and disease and often prescribed specific plant remedies for specific ailments.[^ref6] We can see this in the case of the tree of life. When Cartier implored Domagaia for the secret to his miraculous recovery from the illness that plagued his men, Domagaia explained that [“he had taken the juice and sappe of the leaves of a certaine tree, and therewith had healed himself: For it was a singular remedie against that disease.”](https://hdl.handle.net/2027/aeu.ark:/13960/t35151v01?urlappend=%253Bseq=85) Over the centuries of surviving the harsh winters of eastern Canada, the St. Lawrence Iroquois had developed a successful treatment for a disease that commonly beset individuals living in cold climates—scurvy.
@@ -121,7 +123,7 @@ It is clear that by the mid-seventeenth century much of the medicinal knowledge 
 <param ve-map-layer geojson active title= "Spread of Arbor Vitæ" url="/geojson/thuja in europe.json">
 {#paragraph15}
 
-In 1753, botanist Carl Linnaeus’s pioneering work, _Systema Naturae_, which cemented a system of binomial classification for plants, identified the arbor vitæ, the _Thuja Theophrasis_, and the _Thuja strobilis lævibus_ as the same plant, which he reclassified as [*Thuja occidentalis*](https://www.biodiversitylibrary.org/page/359023#page/444/mode/1up). Since then, *Thuja occidentalis* has generally been accepted as the Ameda tree that saved Cartier and his men.
+In 1753, botanist Carl Linnaeus’s pioneering work, _Systema Naturae_, which cemented a system of binomial classification for plants, identified the arbor vitæ, the _Thuja Theophrasis_, and the _Thuja strobilis lævibus_ as the same plant, which he reclassified as [*Thuja occidentalis*.](https://www.biodiversitylibrary.org/page/359023#page/444/mode/1up) Since then, *Thuja occidentalis* has generally been accepted as the Ameda tree that saved Cartier and his men.
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/0908d28fe77ba1c753f21d6daebfe5e22c0ae5cb484691f9a4cbdf531b7df40d">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/5ddf7fb3ebedac7dfd03f38e298089ea413f9ca7a0ccf76c415d19133ca7e1a9">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/22c3a8c2ae91a7d1f11a6465f7d822b50bb1c2112b206977bef1fef8de93a855">
