@@ -12,7 +12,6 @@
 	  author="Ashley Buchanan">
 	  
 <param title="Montreal" eid="Q340">
-<param title="Juniperus communis" eid="Q26325">
 <param title="Quebec" eid="Q2145">
 <param title="Kingdom of France" eid="Q70972" aliases="French King">
 <param title="Stadacona" eid="Q3339246" aliases="St. Lawrence River">
@@ -84,6 +83,7 @@ The Ojibwa and many other Indigenous peoples of eastern North America boiled the
 <param ve-map center="42.655350,-74.715453" basemap="Esri_WorldPhysical" zoom="4" stroke-width="0" show-labels>
 <param ve-map-layer geojson active url="/geojson/Maritime_Indians.json">
 <param title="Ojibwe" eid="Q255872">
+<param title="Juniperus communis" eid="Q26325">
 {#paragraph9}
 
 Unlike the European view of Indigenous medicines, which they often described as panaceas, the Iroquois practiced (and continue to practice) a form of sympathetic medicine. That is to say that the Iroquois identified relationships between cure and disease and often prescribed specific plant remedies for specific ailments.[^ref6] We can see this in the case of the tree of life. When Cartier implored Domagaia for the secret to his miraculous recovery from the illness that plagued his men, Domagaia explained that [“he had taken the juice and sappe of the leaves of a certaine tree, and therewith had healed himself: For it was a singular remedie against that disease.”](https://hdl.handle.net/2027/aeu.ark:/13960/t35151v01?urlappend=%253Bseq=85) Over the centuries of surviving the harsh winters of eastern Canada, the St. Lawrence Iroquois had developed a successful treatment for a disease that commonly beset individuals living in cold climates—scurvy.
