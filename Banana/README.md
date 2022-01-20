@@ -15,32 +15,31 @@
 <param title="ploidy" eid="Q118406" aliases="diploid">
 <param title="Musa balbisiana" eid="Q94643">
 <param title="taxonomy of Linnaeus" eid="Q54878466" aliases="Latin binomial names">
-<param title="Systema Naturae" eid="Q29270" aliases="Linnaean’s formative work" >
-<param title="Musa × paradisiaca" eid="Q10757112" aliases="Musa paradisca" >
-<param title="Musa sapientium" eid="Q49625849" >
-<param title="Alexander the Great" eid="Q8409" aliases="Alexander the Great's" >
+<param title="Systema Naturae" eid="Q29270" aliases="Linnaean’s formative work">
+<param title="Musa × paradisiaca" eid="Q10757112" aliases="Musa paradisca">
+<param title="Musa sapientium" eid="Q49625849">
+<param title="Alexander the Great" eid="Q8409" aliases="Alexander the Great's">
 <param title="Historia Plantarum" eid="Q17156420" aliases="Theophrastus" >
-<param title="Natural History" eid="Q442" aliases="Pliny" >
-<param title="Age of Discovery" eid="Q133641" aliases="European Maritime powers" >
-<param title="Fray Tomás de Berlanga" eid="Q115599" aliases="Friar Tomas de Berlanga" >
-<param title="Hispaniola" eid="Q25277" >
-<param title="New World" eid="Q127834" >
-<param title="Garcia de Orta" eid="Q1493994" >
-<param title="Umayyad Caliphate" eid="Q8575586" >
-<param title="Avicenna" eid="Q8011" >
-<param title="André Thévet" eid="Q523054" >
-<param title="staple food" eid="Q736427" aliases="dietary staple" >
-<param title="George Clifford III" eid="Q556591" aliases="George Clifford" >
+<param title="Natural History" eid="Q442" aliases="Pliny">
+<param title="Age of Discovery" eid="Q133641" aliases="European Maritime powers">
+<param title="Fray Tomás de Berlanga" eid="Q115599" aliases="Friar Tomas de Berlanga">
+<param title="Hispaniola" eid="Q25277">
+<param title="New World" eid="Q127834">
+<param title="Garcia de Orta" eid="Q1493994">
+<param title="Umayyad Caliphate" eid="Q8575586">
+<param title="Avicenna" eid="Q8011">
+<param title="André Thévet" eid="Q523054">
+<param title="staple food" eid="Q736427" aliases="dietary staple">
+<param title="George Clifford III" eid="Q556591" aliases="George Clifford">
 <param title="banana republic" eid="Q171751">
-<param title="Cavendish banana" eid="Q1051869" >
-<param title="United Fruit Company" eid="Q1771942" >
+<param title="Cavendish banana" eid="Q1051869">
+<param title="United Fruit Company" eid="Q1771942">
 <param title="monoculture" eid="Q220212">
-<param title="vegetative reproduction" eid="Q464666" aliases="vegetal propagation" >
-<param title="Panama disease" eid="Q3240031" >
-<param title="Goa" eid="Q1171" >
-<param eid="Q6165948" >
-<param eid="Q457191" >
-<param title="Gros Michel banana" eid="Q1547451" aliases="Gros Michel" >
+<param title="vegetative reproduction" eid="Q464666" aliases="vegetal propagation">
+<param title="Panama disease" eid="Q3240031">
+<param title="Goa" eid="Q1171">
+<param title="herbal" eid="Q6165948">
+<param title="Gros Michel banana" eid="Q1547451" aliases="Gros Michel">
 
 ### Going Bananas
 Everybody knows what a banana is. At least we think we do. Today, the banana is a ubiquitous and easy-to-recognize fruit that even shares the same name or sounds the same in many modern languages. Yet, despite this commonality across cultures, the actual identification and classification of our modern-day banana is, to quote a popular idiom, “bananas.” The identity of the wild ancestor, or ancestors, of our most common modern-day edible banana, the Cavendish, remains something of a mystery and scientists are still attempting to document the approximately 500 banana cultivars that have been grown for centuries.
@@ -124,6 +123,7 @@ During this early period of renewed European interest in the banana, there was g
 The most influential European author of the period, Italian physician Pietro Andrea Mattioli, [referred to the banana plant as “musa” and the individual fruits as “muse”](https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10139456_00182.html) in his important herbal published in 1554. Musa, which was eventually adopted by Linnaeus as the name of the genus, is believed to be an adaptation of the Arabic word for banana, _mauz_ or _mawzah_. By the eighth century, Islamic expansion under the Umayyad Caliphate (661–750) had reached the Indian subcontinent, creating a region of trade, exchange, and communication stretching from India to Iberia. Through these vast commercial networks, bananas were traded and became popular throughout the Islamic Empire.
 <param ve-map center="27.272558, 55.235349" basemap="Esri_WorldPhysical" zoom="4">
 <param ve-map-layer geojson active url="/geojson/Banana_Islamic_Empire.json">
+<param title="Pietro Andrea Mattioli" eid="Q457191">
 {#paragraph16}
 
 Italian physicians and naturalists like Mattioli adopted the Arabic name for banana since it was through contact with the Islamic Empire in the late Middle Ages, as well as the writings of Islamic physicians such as Avicenna (Ibn Sina in Arabic), that Italy was first introduced to the plant. Although Mattioli did not mention or describe the “musa tree” in the first edition of his famous herbal, its appearance in a later edition in Latin in 1554 is likely the first printed European herbal entry to describe banana.
