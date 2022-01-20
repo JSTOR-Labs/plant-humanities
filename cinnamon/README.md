@@ -82,13 +82,13 @@ Once true cinnamon had begun to be understood as cinnamon from Sri Lanka (histor
 	center="8.050740, 80.654834"
 	zoom="7.4"
 	show-labels>
-<param ve-map-layer geojson url="Kingdom-of-Kandy.json">
-<param ve-map-layer geojson url="Kingdom-of-Sitawaka.json">
-<param ve-map-layer geojson url="Principality-of-Raigama.json">
-<param ve-map-layer geojson url="Kingdom-of-Kotte.json">
-<param ve-map-layer geojson url="Wanni-region_south.json">
-<param ve-map-layer geojson url="Wanni-region_north.json">
-<param ve-map-layer geojson url="Kingdom-of-Jaffna.json">
+<param ve-map-layer geojson url="Kingdom-of-Kandy.json" title="Kingdom of Kandy (yellow)">
+<param ve-map-layer geojson url="Kingdom-of-Sitawaka.json" title="Kingdom of Sitawaka (purple)">
+<param ve-map-layer geojson url="Principality-of-Raigama.json" title="Principality of Raigama (blue)">
+<param ve-map-layer geojson url="Kingdom-of-Kotte.json" title="Kingdom of Kotte (green)">
+<param ve-map-layer geojson url="Wanni-region_south.json" title="Wanni region south (brown)">
+<param ve-map-layer geojson url="Wanni-region_north.json" title="Wanni region north (brown)">
+<param ve-map-layer geojson url="Kingdom-of-Jaffna.json" title="Kingdom of Jaffna (red)">
 {#paragraph7}
 
 ### Optimizing the Monopoly
