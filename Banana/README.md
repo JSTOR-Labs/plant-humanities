@@ -15,10 +15,10 @@
 <param title="ploidy" eid="Q118406" aliases="diploid">
 <param title="Musa balbisiana" eid="Q94643">
 <param title="taxonomy of Linnaeus" eid="Q54878466" aliases="Latin binomial names">
-<param title="Systema Naturae" eid="Q29270" aliases="Linnaean’s formative work">
+<param title="Systema Naturae" eid="Q29270" aliases="Linnaeus’s formative work">
 <param title="Musa × paradisiaca" eid="Q10757112" aliases="Musa paradisca">
 <param title="Musa sapientium" eid="Q49625849">
-<param title="Alexander the Great" eid="Q8409" aliases="Alexander the Great's">
+<param title="Alexander the Great" eid="Q8409" aliases="Alexander the Great's|Alexander the Great’s">
 <param title="Historia Plantarum" eid="Q17156420" aliases="Theophrastus" >
 <param title="Natural History" eid="Q442" aliases="Pliny">
 <param title="Age of Discovery" eid="Q133641" aliases="European Maritime powers">
@@ -38,7 +38,6 @@
 <param title="vegetative reproduction" eid="Q464666" aliases="vegetal propagation">
 <param title="Panama disease" eid="Q3240031">
 <param title="Goa" eid="Q1171">
-<param title="herbal" eid="Q6165948">
 <param title="Gros Michel banana" eid="Q1547451" aliases="Gros Michel">
 
 ### Going Bananas
@@ -73,7 +72,7 @@ While wild bananas are more diverse than previously understood, scientists have 
 {#paragraph6}
 	
 ### What’s in a Name?
-In 1753, Carl Von Linnaean’s formative work, [_Systema Naturae,_](https://www.biodiversitylibrary.org/page/728487) formalized a system of nomenclature that standardized plant names and botanical terminology among botanists across the globe. The system used Latin binomial names—the first name indicating the genus, and the second the species—to identify all living organism in the natural world. In addition to binomial names, Linnaeus also proposed a new system of classifying plants. Unlike earlier attempts to group or classify plants, Linnaeus’s system focused solely on <span data-click-image-zoomto="1390,2700,2289,1718">the reproductive features</span> of wild plants (not domesticated) to characterize, organize, and group related plants. While Linnaeus’s system was a somewhat artificial structure of classification and hierarchical divisions placed on the plant world, it provided order and standardization from the chaos of plant names and groupings created by centuries of disparate European collecting and cataloguing of the plant world. While the Linnaean system of classification has been revised, modified, and added to over the centuries, the system of binomial names has remained largely unchallenged for nearly 250 years.
+In 1753, Carl Linnaeus’ formative work, [_Systema Naturae,_](https://www.biodiversitylibrary.org/page/728487) formalized a system of nomenclature that standardized plant names and botanical terminology among botanists across the globe. The system used Latin binomial names—the first name indicating the genus, and the second the species—to identify all living organism in the natural world. In addition to binomial names, Linnaeus also proposed a new system of classifying plants. Unlike earlier attempts to group or classify plants, Linnaeus’s system focused solely on <span data-click-image-zoomto="1390,2700,2289,1718">the reproductive features</span> of wild plants (not domesticated) to characterize, organize, and group related plants. While Linnaeus’s system was a somewhat artificial structure of classification and hierarchical divisions placed on the plant world, it provided order and standardization from the chaos of plant names and groupings created by centuries of disparate European collecting and cataloguing of the plant world. While the Linnaean system of classification has been revised, modified, and added to over the centuries, the system of binomial names has remained largely unchallenged for nearly 250 years.
 <param scope="local" eid="Q1043">
 <param primary="image">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/ee0b50c0bcb2631646b7bb1ed3d802297025c68dc004c8042fbd058e684f67c7">
@@ -118,6 +117,7 @@ In 1516, Friar Tomas de Berlanga, then a Catholic missionary, landed on the Isla
 ### Many Names, One Plant
 During this early period of renewed European interest in the banana, there was great uncertainty surrounding the identification, depiction, and name of the abundant yellow fruits Europeans encountered throughout Africa, India, Southeast Asia, and, thanks to their own transmission, the New World. While living in Goa, India, a Portuguese physician and naturalist, Garcia de Orta, adopted the name “banana” for the fruit. In 1563, de Orta published an herbal detailing the _materia medica_ of India, in which he wrote of a fruit found in India, Malaysia, and Arab lands as well as [“in Guinea, where they call them bananas.”](https://bibdigital.rjb.csic.es/viewer/15528/?offset=#page=360&viewer=picture&o=search&n=0&q=banana) In the early modern period, however, the use of the name banana was far from universal.
 <param ve-map primary title="Goa" basemap="Esri_WorldPhysical" center="Q1171" zoom="7">
+<param title="herbal" eid="Q6165948">
 {#paragraph15}
 
 The most influential European author of the period, Italian physician Pietro Andrea Mattioli, [referred to the banana plant as “musa” and the individual fruits as “muse”](https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10139456_00182.html) in his important herbal published in 1554. Musa, which was eventually adopted by Linnaeus as the name of the genus, is believed to be an adaptation of the Arabic word for banana, _mauz_ or _mawzah_. By the eighth century, Islamic expansion under the Umayyad Caliphate (661–750) had reached the Indian subcontinent, creating a region of trade, exchange, and communication stretching from India to Iberia. Through these vast commercial networks, bananas were traded and became popular throughout the Islamic Empire.
