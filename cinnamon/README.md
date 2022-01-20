@@ -8,7 +8,7 @@
 	num-images="0"
 	num-specimens="0"
 	num-primary-sources="0"
-	author="Wouter Klein, PhD">
+	author="Wouter Klein">
 
 ### The Cinnamon Challenge
 
@@ -206,7 +206,7 @@ The last and most daring strategy was to transplant the true cinnamon to Spanish
 	manifest="https://iiif.juncture-digital.org/manifest/e3050a38268416db81c3f972ad400bca679d26e1a61c21fb92e0b2ea21f7d615">
 {#paragraph18}
 
-Today, Sri Lanka again ranks high among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion remains: while _Cinnamomum verum_ J.Presl is grown in many countries in the tropical zone, the quality of the end product differs for each region.[^ref28] Moreover, commercial statistics usually bring all market variations under the rubric “cinnamon,” without differentiating between different _Cinnamomum_ species. This issue is even more pertinent in the context of medicine. Cinnamon has great potential therapeutic applications, but many studies fail to clarify which species of _Cinnamomum_ they focused on, making it difficult to compare the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is true and what is not.
+Today, Sri Lanka again ranks high among [the world’s largest exporters of cinnamon.](http://www.worldstopexports.com/cinnamon-exporters/) But confusion remains: while _Cinnamomum verum_ J.Presl is grown in many countries in the tropical zone, the quality of the end product differs for each region.[^ref28] Moreover, commercial statistics usually bring all market variations under the rubric “cinnamon,” without differentiating between different _Cinnamomum_ species. This issue is even more pertinent in the context of medicine. Cinnamon has great potential therapeutic applications, but many studies fail to clarify which species of _Cinnamomum_ they focused on, making it difficult to compare the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is true and what is not.
 <param title="cinnamon" eid="Q370239">
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/a48766ce5444ef52e662099a564b1559a6c7f8a48ddceb8960de0bb19ff80635"
@@ -243,7 +243,7 @@ Today, Sri Lanka again ranks high among [the world’s largest exporters of cinn
 
 [^ref14]: Johan Heniger, _Hendrik Adriaan van Reede tot Drakenstein (1636–1691) and Hortus Malabaricus: A Contribution to the History of Dutch Colonial Botany_ (Rotterdam and Boston: A.A. Balkema, 1986), 37–38; and Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press, 2007), 310–317.
 
-[^ref15]: Tinde van Andel and Nadine Barth, “Paul Hermann’s Ceylon Herbarium (1672-1679) at Leiden, the Netherlands,” _Taxon_ 67, no. 5 (2018): 981, [DOI:10.12705/675.8](https://doi.org/10.12705/675.8)
+[^ref15]: Tinde van Andel and Nadine Barth, “Paul Hermann’s Ceylon Herbarium (1672–1679) at Leiden, the Netherlands,” _Taxon_ 67, no. 5 (2018): 981, [DOI:10.12705/675.8](https://doi.org/10.12705/675.8)
 
 [^ref16]: Lisbet Koerner, _Linnaeus: Nature and Nation_ (Cambridge, Massachusetts and London: Harvard University Press, 1999), 36.
 
