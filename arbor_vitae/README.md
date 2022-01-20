@@ -15,7 +15,7 @@
 <param title="Juniperus communis" eid="Q26325">
 <param title="Ojibwe" eid="Q255872">
 <param title="Quebec" eid="Q2145">
-<param title="Kingdom of France" eid="Q709728" aliases="French King">
+<param title="Kingdom of France" eid="Q70972" aliases="French King">
 <param title="Stadacona" eid="Q3339246" aliases="St. Lawrence River">
 <param title="Hochelaga" eid="Q544356" aliases="local Indians">
 
