@@ -63,7 +63,7 @@ In the penultimate sentence of his description of rice, Catesby finally acknowle
 {#paragraph8}
 
 Any doubt that enslaved people brought wetland rice cultivation to Carolina has been put to rest by geographer Judith Carney. In her path-breaking work <span eid="Q3434002">_Black Rice_</span>, Carney details how the “preparation of tidal floodplains for rice cultivation followed principles remarkably similar to those of the mangrove rice system [in West Africa].”[^ref5] This was an incredibly intricate system, which required embankments, ditches, drainage valves, and more. As Carney explains, it was only with the knowledge of mangroves in West Africa that such systems could have been built in Carolina.
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/bb2ec0c755844ff4c12acc716234cbfaf0db938a2d517968d795e5d2da04d8d5">
+<param ve-iframe src="https://images.nypl.org/index.php?id=G92F023_003F&amp;t=w">
 {#paragraph9}
 
 As a result of the cultivation knowledge of enslaved people, particularly women, rice quickly became a popular cash crop grown in the American colonies. According to [an 1892 work on the history of rice by “Dan Talmage’s Sons,”](https://www.biodiversitylibrary.org/item/82844#page/18/mode/1up) annual rice production in the 1720s averaged about 10 million pounds; in just two decades, that number more than doubled to over 25 million pounds per year. Indeed, Carolina rice was the “region’s dominant export,” and a major player in the Western European market for rice.[^ref6]
