@@ -127,7 +127,7 @@ Boxwood’s potential medicinal applications met with a similar lack of enthusia
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/995bf168dc62df827f35c41106a1654d824b59f12f06c57325873ef85ea0c660"
 	region="1,1157,1006,746">
-<param title="Pietro Andrea Mattioli" eid="Q457191" aliases="the leading writer on _materia medica_">
+<param title="Pietro Andrea Mattioli" eid="Q457191" aliases="the leading writer">
 {#paragraph7}
 
 ### A Crafty Kind of Wood
