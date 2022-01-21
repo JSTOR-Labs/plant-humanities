@@ -155,7 +155,6 @@ Just as Humboldt and Ledru observed the centenary _D. draco_ at Orotava and pond
 Due to its near-extinction in the wild, _D. draco_ is officially designated as a vulnerable population on the International Union for Conservation of Nature’s _Red List of Threatened Species_.[^ref20] This is the result of  the decrease over time in the number of suitable animal seed dispersers, because of hunting and other forms of habitat destruction.[^ref21] Furthermore, as Ledru noted over two centuries ago, this population decline and endangerment is also due to overcultivation of the tree’s valuable resin. The number of wild specimens has never been lower than it is today, and even though there are projects to repopulate the islands through experiments in propagation and acclimatization, one wonders if ever again a _Dracaena draco_ will grow to the size and magnificence of the one that so captivated the minds of travelers like Humboldt and Ledru.[^ref22] Perhaps, after its millennia-long smolder, the dragon’s flame will be snuffed out by the twenty-first century Anthropocene. Or, perhaps, ecological preservation projects may reverse the trajectory of this ailing species.
 <param title="International Union for Conservation of Nature" eid="Q48268">
 <param title="Red List of Threatened Species" eid="Q32059">
-<param title="Dracaena draco" eid="Q157952">
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/ed823f13e24b018dfe32485bd64bab546d6f4fea8862bafa81118a1c4135cdb8">
 {#paragraph15}
