@@ -31,7 +31,6 @@ By the beginning of the Medieval period, the works of classical authors such as 
 {#paragraph3}
 
 One such lore was the power of dittany for women’s health. According to the Roman physician Dioscorides, arguably the most influential ancient author on medicinal herbs, “diktamnos,” as he called it, was a hot plant with woolly leaves, and true dittany grew only on the island of Crete. Like Pliny, Dioscorides described the medical virtues of dittany (and bastard dittany) for women, which he said when drunk, used as suppository (pessary), or burned as incense had the power to expel a dead fetus. Dioscorides’s *De Materia Medica* served as the foundational text for most European herbal manuscripts. As such, Dioscorides’s description of dittany as well as his claim that it had the power to quicken birth and expel a dead fetus, were repeated in medieval herbal manuscripts as well as in early modern printed herbals.
-<param ve-entity eid="Q297776" title="Pedanius Dioscorides">
 <param ve-entity eid="Q1291275" title="Materia medica">
 <param ve-entity eid="Q34374" title="Crete">
 <param ve-image region="-13,33,847,606" manifest="https://iiif.juncture-digital.org/manifest/1cf3db700a0638a1dd5335a1aeabb8be208f90ccd9c91b1a92af8ff98e936acd">
