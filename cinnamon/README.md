@@ -160,7 +160,7 @@ Imperial agendas and a disinterested search for knowledge could also go hand in 
 	title="“Cinnamon from Ceylon with flowers”. Specimen of Cinnamomum verum J.Presl, from Paul Hermann’s herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171."
 	url="Cinnamon_from_Ceylon_with_flowers.jpg"
 	attribution="Naturalis Biodiversity Center, Leiden. https://data.biodiversitydata.nl/naturalis/specimen/L.2070171"
-       region="contain">
+        fit="contain">
 {#paragraph14}
 
 ### Cinnamon and Imperial Imagination
