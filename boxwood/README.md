@@ -182,7 +182,7 @@ Mollet’s planting and stylistic innovations gained the fullest expression in t
 	region="42,362,2798,3776">
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/4836a663d686ab92341e18a9e5fac65a0dc9bedd20731579b465a00312ea9ccf">
-<param title="Gardens of Versailles" eid="Q3162464" aliases="gardens of Versailles">
+<param title="Gardens of Versailles" eid="Q3162464" aliases="gardens">
 {#paragraph11}
 
 Closely connected with these expatriate circles was British landscape architect Cecil Pinsent, another contemporary of Farrand’s, who extensively used boxwood in his landscaping projects. Most famous among his gardens was the Villa I Tatti in Settignano, Italy, designed for the American art historian and connoisseur Bernard Berenson. Another celebrated work was the lower terrace of the fifteenth-century Villa Medici in Fiesole that Pinsent furnished with a “carpet of box parterre,” regarded by landscape historian Geoffrey Jellicoe as fully integral to the historic character of the property.[^ref29] Popularized by postcards and book illustrations, Pinsent’s design became an iconic image of the Italian Renaissance garden, with its boxwood geometry—purposely projected into the Medicean age—serving as a visible bridge between distant antiquity and a more recent but equally glorious past.
