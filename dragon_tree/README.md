@@ -36,6 +36,7 @@ Members of today’s _Dracaena_ genus have long been valued for their signature 
 <param title="Vedic myth" eid="Q2076739" aliases="Vedic myth">
 <param title="Socotra" eid="Q82859">
 <param title="Dracaena cinnabari" eid="Q133560">
+<param title=resin" eid="Q145205">
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/76c4ad0438fadf4f3e278041dd3910699b3c9b6c7b7b46d605a11bae037728fa"
 	region="-45,191,1591,1127">
@@ -129,7 +130,6 @@ Humboldt was not the only naturalist of his time attracted to the remarkable cen
 {#paragraph10}
 
 As Ledru remarked in his 1810 [_Voyages aux îles de Ténériffe, la Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco_,](https://archive.org/details/voyageauxlesdet00sonngoog/page/n135/mode/2up) which drew on observations he made during his trip to the Isles of Fortune some 14 years earlier: “In days gone by, the resin that one extracts from the dragon tree was an important object of commerce for Teneriffe; but since the locals have neglected to replace the old trees that were worn out by too-frequent tapping (of the resin) with young plantations, this source will soon be exhausted. There exist perhaps less than fifty dragon trees left on the island.”[^ref13] This gradual, yet persistent, degradation of the _D. draco_ population was not solely due to Guanche overcultivation, as Spanish colonizers inflicted profound ecological changes upon the islands when they razed and destroyed large swaths of forests during their conquest and settlement of the Canaries three centuries earlier.[^ref14] Modern ecologists attribute the dragon tree’s decline to the disappearance of seed dispersers in the Canary Islands over the past centuries, potentially refuting Ledru’s assertion that _D. draco_’s deterioration was due to irresponsible Guanche farming practices.[^ref15]
-<param title="Isles of Fortune" eid="Q19211357" aliases="Isles of Fortune" article="Isles_of_Fortune"> 
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/b0934065587e79928c2e8cfbdaab05110db98265dc8249a102b9ad168fb5628a">
 {#paragraph11}
@@ -155,6 +155,7 @@ Just as Humboldt and Ledru observed the centenary _D. draco_ at Orotava and pond
 Due to its near-extinction in the wild, _D. draco_ is officially designated as a vulnerable population on the International Union for Conservation of Nature’s _Red List of Threatened Species_.[^ref20] This is the result of  the decrease over time in the number of suitable animal seed dispersers, because of hunting and other forms of habitat destruction.[^ref21] Furthermore, as Ledru noted over two centuries ago, this population decline and endangerment is also due to overcultivation of the tree’s valuable resin. The number of wild specimens has never been lower than it is today, and even though there are projects to repopulate the islands through experiments in propagation and acclimatization, one wonders if ever again a _Dracaena draco_ will grow to the size and magnificence of the one that so captivated the minds of travelers like Humboldt and Ledru.[^ref22] Perhaps, after its millennia-long smolder, the dragon’s flame will be snuffed out by the twenty-first century Anthropocene. Or, perhaps, ecological preservation projects may reverse the trajectory of this ailing species.
 <param title="International Union for Conservation of Nature" eid="Q48268">
 <param title="Red List of Threatened Species" eid="Q32059">
+<param title="Dracaena draco" eid="Q157952">
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/ed823f13e24b018dfe32485bd64bab546d6f4fea8862bafa81118a1c4135cdb8">
 {#paragraph15}
