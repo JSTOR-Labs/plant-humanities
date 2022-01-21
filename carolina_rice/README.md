@@ -62,7 +62,7 @@ In the penultimate sentence of his description of rice, Catesby finally acknowle
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/6ae993c498079fe77da34db9f1c1364745f6d4cb5549a7d1dbfcf9819e9ad976">
 {#paragraph8}
 
-Any doubt that enslaved people brought wetland rice cultivation to Carolina has been put to rest by geographer Judith Carney. In her path-breaking work <span eid="Q3434002">_Black Rice_,</span> Carney details how the “preparation of tidal floodplains for rice cultivation followed principles remarkably similar to those of the mangrove rice system [in West Africa].”[^ref5] This was an incredibly intricate system, which required embankments, ditches, drainage valves, and more. As Carney explains, it was only with the knowledge of mangroves in West Africa that such systems could have been built in Carolina.
+Any doubt that enslaved people brought wetland rice cultivation to Carolina has been put to rest by geographer Judith Carney. In her path-breaking work <span eid="Q3434002">_Black Rice_</span>, Carney details how the “preparation of tidal floodplains for rice cultivation followed principles remarkably similar to those of the mangrove rice system [in West Africa].”[^ref5] This was an incredibly intricate system, which required embankments, ditches, drainage valves, and more. As Carney explains, it was only with the knowledge of mangroves in West Africa that such systems could have been built in Carolina.
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/bb2ec0c755844ff4c12acc716234cbfaf0db938a2d517968d795e5d2da04d8d5">
 {#paragraph9}
 
