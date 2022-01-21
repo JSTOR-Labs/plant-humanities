@@ -11,14 +11,14 @@
        num-primary-sources="7"
        author="Julia Fine">
 
-<param title="American Civil War" eid-"Q8676" aliases="Civil War">
-<param title="South Carolina Lowcountry" eid-"Q3885311" aliases="Carolina Lowcountry">
-<param title="Oryza sativa" eid-"Q161426">
-<param title="Mark Catesby" eid-"Q334914" aliases="Catesby">
-<param title="Oryza glaberrima" eid-"Q2670252">
-<param title="Conditions of the slave trade" eid-"Q2500942" aliases="Middle Passage">
-<param title="Guillaume Thomas François Raynal" eid-"Q727782" aliases="Guillaume Thomas Raynal">
-<param title="cash crop" eid-"Q932139">
+<param title="American Civil War" eid="Q8676" aliases="Civil War">
+<param title="South Carolina Lowcountry" eid="Q3885311" aliases="Carolina Lowcountry">
+<param title="Oryza sativa" eid="Q161426">
+<param title="Mark Catesby" eid="Q334914" aliases="Catesby">
+<param title="Oryza glaberrima" eid="Q2670252">
+<param title="Conditions of the slave trade" eid="Q2500942" aliases="Middle Passage">
+<param title="Guillaume Thomas François Raynal" eid="Q727782" aliases="Guillaume Thomas Raynal">
+<param title="cash crop" eid="Q932139">
 
 ### The Comeback Kid
   
