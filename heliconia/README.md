@@ -71,7 +71,7 @@ A pen-and-ink drawing by the Smithsonian’s scientific illustrator [Alice Tange
 
 Mee’s gift of observation, honed through the painstaking sketching of plants and conversations with expert botanists, led her to notice the plant. Her painting, though with a primarily aesthetic purpose, was detailed and accurate enough to convince Kress, an expert on the genus, that this discovery was of a new variety. His scientific publication then called for the skill of a botanical illustrator, shifting the emphasis from color and composition to the accurate description of the plant’s parts, yet with a graceful economy of means that produces its own version of aesthetic pleasure.
 <param ve-entity eid="Q3148760" title="botanical illustrator">
-<param ve-compare sync region="452,2026,5154,4833" manifest="https://iiif.juncture-digital.org/manifest/84e73ecbeca5a9f0292cc4b693a257de89c3813458361b694df26e90e8f259b5">
+<param ve-compare curtain region="452,2026,5154,4833" manifest="https://iiif.juncture-digital.org/manifest/84e73ecbeca5a9f0292cc4b693a257de89c3813458361b694df26e90e8f259b5">
 <param ve-compare region="452,2026,5154,4833" manifest="https://iiif.juncture-digital.org/manifest/4d194fe2ccf2fe54f534b4fa48673c2d57a506c090381f717271d654ec3511e9">
 {#paragraph8}
 
