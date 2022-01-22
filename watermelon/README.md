@@ -9,40 +9,20 @@
 	num-images="29"
 	num-primary-sources="6"
 	author="Anna Lawrence, Camilo Uribe Botta, and May Wang">
-<param title="Watermelon" eid="Q17507129">
-<param title="Citrullus lanatus" eid="Q17507129" aliases="Citrullus lanatus">
-<param title="Mark Twain" eid="Q7245">
-<param title="genus" eid="Q132239" aliases="Citrullus">
-<param title="phenotypes" eid="Q104053" aliases="phenotypes">
-<param title="Nile Valley" eid="Q3392">
-<param title="Byzantine mosaics" eid="Q22948562">
-<param title="Kalahari Desert" eid="Q47700">
-<param title="Pliny" eid="Q82778">
-<param title="watermelon seed oil" eid="Q3819066" aliases="ootanga oil">
-<param title="arhat" eid="Q225932" aliases="arhats">
-<param title="Joseon Dynasty" eid="Q28179" aliases="Joseon Dynasty">
-<param title="Shin Saimdang" eid="Q464485">
+	
 <param title="Dianthius chinensis" eid="Q159013" aliases="dianthus flower">
-<param title="Tacuinum Sanitatis" eid="Q608662">
-<param title="John Gerard" eid="Q1333338">
-<param title="still life" eid="Q170571" aliases="still lifes">
-<param title="Albert Eckhout" eid="Q2116186">
-<param title="Giovanni Stanchi" eid="Q3107339" aliases="Giovanni Stanchi">
-<param title="Sarah Miriam Peale" eid="Q532010" aliases="Peale">
-<param title="Emancipation Proclamation" eid="Q391358">
-<param title="Thirteenth Amendment" eid="Q175613" aliases="13th Amendment">
 <param title="Crocus" eid="Q157806" aliases="crocuses">
 <param title="Citron" eid="Q30557566" aliases="C. amarus" aliases="citron">
 <param title="Egusi" eid="Q17429939" aliases="C. mucosospermus" aliases="egusi">
 <param title="Colocynth" eid="Q913609" aliases="C. colocynthis" aliases="colocynth">
-<param title="Atlantic slave trade" eid="Q10701282" aliases="slaves">
-<param title="Pliny, Natural History" eid="Q442" aliases="Naturalis Historia">
 
 ### Watermelon: The Food of Angels
 
 Mark Twain once said that the watermelon “is the chief of this world’s luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat.”[^ref1] Though today the word “watermelon” calls to mind a sturdy gourd with refreshing, sweet, red flesh, for most of its millennia-long history as a cultivated crop it was known as a pale, hard, sometimes bitter fruit with relatively tender rind. Not until the sixth century CE were watermelons associated with sweet fruits such as figs and grapes; and it was not until well into the 1400s that the uniformly red, thick-rinded watermelons that are familiar to us today began to appear. Throughout its history across the globe, the watermelon was primarily a source of food, medicine, and drink. Its cultural history, however, reveals not only stories of racism, but also of contagion and disease, a darker side to the delicious summer fruit that we know and love.
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/d8b0a8264c8d87f2adad0cc82cd6635852baed1cb6ef2929ea6d39d3642519c0">
+<param title="Watermelon" eid="Q17507129">
+<param title="Mark Twain" eid="Q7245">
 {#paragraph1}
 
 ### Whose Vine Is It Anyway?
@@ -51,12 +31,18 @@ The precise historical origins of the watermelon are obscured by its broad geogr
 <param ve-plant-specimen
 	eid="Q30160603"
 	max="2">
+<param title="Citrullus lanatus" eid="Q17507129" aliases="Citrullus lanatus">
+<param title="genus" eid="Q132239" aliases="Citrullus">
+<param title="phenotypes" eid="Q104053" aliases="phenotypes">
+<param title="Nile Valley" eid="Q3392">
+<param title="Byzantine mosaics" eid="Q22948562" aliases="byzantine mosaics">
 {#paragraph2}
 
 In Africa’s arid savanna regions, watermelons were originally welcomed as sources of liquid, their flesh generally being cooked or beaten to a pulp to extract the juice. In the Kalahari Desert in southern Africa, the multiple uses of the flesh, rind, and seeds that were eaten fresh, cooked, and dried also helped some population groups to remain sedentary and hydrated throughout both wet and dry seasons.[^ref5] As they became domesticated, watermelons were bred to yield softer and sweeter flesh and exclude such less desirable traits as the mucilaginous egusi seeds or the hard, bitter flesh of the citron melon, although western and southern African cuisines still make use of them today.[^ref6]
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/bca151321f88ec8c8db013c3eec370b1900f98962f5a00d0bfcb23ca03916d95"
 	region="194,69,1707,1263">
+<param title="Kalahari Desert" eid="Q47700">
 {#paragraph3}
 
 ### More Than Just a Fruit…
@@ -68,6 +54,8 @@ Watermelon-like fruit were referenced in ancient Greek and Roman texts using a v
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/493307823a0f48a9bd70d5b9f4c25ad72af22a59429c0a74fba7d858c1c1769e"
 	fit="contain">
+<param title="Pliny" eid="Q82778">
+<param title="Pliny, Natural History" eid="Q442" aliases="Naturalis Historia">
 {#paragraph4}
 
 Watermelons were cultivated in Spain after the Arab conquest, with evidence of their agricultural use, mostly in the form of seeds, dating to the tenth century. Illuminated manuscripts from southern Italy illustrate the varieties of watermelons grown there. Early health treatises, such as _Tacuinum Sanitatis_, show harvesters [who taste-test them](http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=75&Fin=75&Param=C) in the fields. However, sweetness did not appear to be a consistent characteristic of watermelons. Writing in the late sixteenth century, John Gerard, in his [_Herball_,](https://www.biodiversitylibrary.org/page/35441755) described their flesh as “spungie and of a flimsie substance,” which could be “eaten rawe, but more commonly boiled”; whereas the plant itself was still associated with curative properties: “it ingendereth a waterish bloud, mitigateth the extremitie of heat of the inner parts, and tempereth the sharpness and fervent heat of choler.”[^ref9]
@@ -77,12 +65,15 @@ Watermelons were cultivated in Spain after the Arab conquest, with evidence of t
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/70363273c8f61e1288fde7416d7b6efd43d52d90481d3554d794507fda659e3e"
 	fit="contain">
+<param title="Tacuinum Sanitatis" eid="Q608662">
+<param title="John Gerard" eid="Q1333338">
 {#paragraph5}
 
 In fact, centuries later, in 1888, watermelons were still being promoted as a face cleanser in U.S. newspapers. A certain Miss Carrie Townsend from St. Louis, Missouri, recommended them to girls with freckles who looked “as if they had been about when a bran bin had exploded,” claiming that no matter what was wrong with the face, the juice of the watermelon would rectify it.[^ref10] Although perhaps not quite as powerful as Miss Townsend suggests, watermelon-based treatments are re-emerging as a natural skin cleanser today, including West African kalahari or ootanga oil that is traditionally extracted from the fruit’s seeds.
 <param ve-image
 	title="Two children eating watermelon. Photograph by C. Bennette Moore (1879–1939), c. 1935."
 	manifest="https://iiif.lib.harvard.edu/manifests/ids:20430850">
+<param title="watermelon seed oil" eid="Q3819066" aliases="ootanga oil">
 {#paragraph6}
 
 ### Watermelons in Art around the World
@@ -96,7 +87,10 @@ By the ninth and twelfth centuries, watermelons had spread, respectively, to Ind
 	fit="contain">
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/ac85144b0333f51ba303108e56091158ac10ba9b3e50607519f7ca2f09167018"
-	fit="fit"> 
+	fit="fit">
+<param title="arhat" eid="Q225932" aliases="arhats">
+<param title="Joseon Dynasty" eid="Q28179" aliases="Joseon Dynasty">
+<param title="Shin Saimdang" eid="Q464485">
 {#paragraph7}
 
 As the watermelon became common in European kitchen gardens, it began to appear frequently in still life paintings. Seventeenth-century paintings by Albert Eckhout and Giovanni Stanchi reveal whorls of red flesh among white rind, showing how much the fruit has changed since antiquity. The inclusion of watermelons in still lifes also provides insights into the multitude of cultural meanings associated with the plant. While American still lifes, such as those by the prolific Peale family in the early nineteenth century, featured the watermelon amid overwhelming images of abundance and plenty, Baroque artists would quite literally [cut through that fantasy](https://www.flickr.com/photos/104901827@N06/46017346544) with the abrupt imposition of a knife as a symbol of the fleeting nature of life.
@@ -109,6 +103,10 @@ As the watermelon became common in European kitchen gardens, it began to appear 
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/571b2763004fcd721fbda845d7021984108f185cbc5952b31d7ae66d8ecb3d88"
 	region="45,108,2088,1544">
+<param title="still life" eid="Q170571" aliases="still lifes">
+<param title="Albert Eckhout" eid="Q2116186">
+<param title="Giovanni Stanchi" eid="Q3107339" aliases="Giovanni Stanchi">
+<param title="Sarah Miriam Peale" eid="Q532010" aliases="Peale">
 {#paragraph8}
 
 Another artistic context in which watermelons were occasionally featured concerns representations of botanical specimens. In this case, they are shown in isolation, as in Maria Sibylla Merian’s [_Metamorphosis insectorum Surinamesium_.](https://www.doaks.org/resources/online-exhibits/maria-sibylla-merian/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium) An example from across the globe is from the [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, which was likely executed by Chinese artists working in Malaysia or Sumatra. Different stages in the growth of the melon’s flower and the fruit are shown alongside representations of seeds and a vivid cross-section, giving a full array of botanical information.
@@ -121,6 +119,7 @@ Another artistic context in which watermelons were occasionally featured concern
 	manifest="https://iiif.juncture-digital.org/manifest/4f9f8da5bad6c2d65d58250162aab4b226561a1a1c8307b2c93198c25ea5743f"
 	region="511,31,4973,7021"
 	rotate="90">
+<param title="Maria Sibylla Merian" eid="Q62530" aliases="Maria Sibylla Merian’s">
 {#paragraph9}
 
 ### Watermelons, Race, and the American South 
@@ -129,6 +128,8 @@ Paradoxically, the bright and appealing nature of the watermelon also lent itsel
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/95604989f600a54e2a751e23fe09ccc831af47069a8c9694455becba9d9adbfe"
 	fit="contain">
+<param title="Atlantic slave trade" eid="Q10701282" aliases="slaves">
+<param title="Emancipation Proclamation" eid="Q391358">
 {#paragraph10}
 
 Aspects of the fruit became bound up with representations of African Americans, showing their taste for it exaggerated to the point of the grotesque: It was messy to eat, which connoted uncleanliness; easy to grow, implying laziness; and its bright color and sweetness were associated with childishness. Watermelon’s African origins were also cited as an explanation for Black Americans’ apparently insatiable appetite for the fruit. Nineteenth-century newspapers were filled with reports and anecdotes that repeated these racial tropes, which masqueraded as facts.
@@ -148,6 +149,7 @@ Stories of watermelon theft contributed to the perception of Black criminality f
 	manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/0d40cac0d58811eaac44194fa8c83abe/manifest.json"
 	fit="contain"
 	>
+<param title="Thirteenth Amendment" eid="Q175613" aliases="13th Amendment">
 {#paragraph12}
 
 ### “Cholera Bombshells”
@@ -156,6 +158,7 @@ The racist notion that watermelon consumption revealed unhealthy habits of Afric
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/9ccb0892a0b8dfd06d35f2ab1896918f7af641d4bfd80582e5edc5d5a39ecb67"
 	fit="contain">
+<param title="cholera" eid="Q12090">
 {#paragraph13}
 
 At the turn of the twentieth century, for instance, British mine owners in Korea [banned watermelons](http://www.koreatimes.co.kr/www/nation/2018/07/721_251812.html) from their workers’ camps to prevent outbreaks of cholera. The logic behind this decision seemed to be based on the “immense quantities” of watermelons consumed by Korean workers, including the rind (probably the white pith, which was considered good for indigestion). The racialized attitudes toward over-indulging in certain types of food were joined here by the moralizing of disease. The campaign was effective in preventing cholera, but it is unclear if its success was due to the watermelon ban.[^ref18] Similarly, posters from the Soviet Union during a cholera epidemic that lasted into the early 1920s used watermelons to illustrate how poor hygiene could lead to disease, from drinking unboiled water to eating unwashed fruit.
