@@ -7,6 +7,13 @@
        eid="Q105748670"
 	about="Q171497"
        layout="vtl" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es">
+       
+<param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
+<param ve-entity eid="Q80914" title="Tabasco">
+<param ve-entity eid="Q491017" title="Pike County" aliases="eastern North America">
+<param ve-entity eid="Q110510" title="Crawford County" aliases="eastern North America">
+<param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
+<param ve-entity eid="Q490360" title="Hickory Country" aliases="eastern North America">
 
 ### A Giant among Us
 
@@ -81,12 +88,6 @@ Although European herbals such as Hernández’s perpetuated cultural myths that
 {#paragraph9}
 
 Yet scientists still disagree about when humans first used domesticated sunflowers in parts of the southwestern United States and Mexico, and whether such plants were cultivated independently there.[^ref17] An ongoing source of debate is the origin of a charred seed that was recovered at San Andrés archaeological site in Tabasco, Mexico. Although some scientists identified the seed as coming from cultivated _Helianthus annuus_, others argued that it most likely came from a bottle gourd.[^ref18] Expanding on this archeological research, genomic studies of modern domesticated and wild sunflowers have linked the plants to a single common ancestor, which was cultivated at an independent domestication center, along with pepo squash, marsh elder, and chenopod, in <span data-click-map-flyto="37.347878, -89.590292">central Tennessee and other parts of eastern North America</span>.[^ref19] Citing that evidence, botanists have argued that domesticated _Helianthus annuus_ was brought to Mexico via North American trade routes, possibly by Spanish colonizers.[^ref20]
-<param ve-entity eid="Q80914" title="Tabasco">
-<param ve-entity eid="Q491017" title="Pike County" aliases="eastern North America">
-<param ve-entity eid="Q110510" title="Crawford County" aliases="eastern North America">
-<param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
-<param ve-entity eid="Q61379" title="Searcy" aliases="eastern North America">
-<param ve-entity eid="Q490360" title="Hickory Country" aliases="eastern North America">
 <param ve-entity eid="Q222046" title="genomics" aliases="genomic">
 <param ve-map prefer-geojson center="Q80914" fill="#cc9933" stroke="#cc6600" stroke-width="4" title="San Antonio cave, Tobasco, Mexico" zoom="6.5" show-label="true">
 {#paragraph10}
