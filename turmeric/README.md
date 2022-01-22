@@ -11,20 +11,6 @@
 	   num-primary-sources="11"
 	   author="Julia Fine">
 
-<param title="Saffron" eid="Q25434">
-<param title="Vedic period" eid="Q215262" aliases="Vedic societies">
-<param title="Kanthirava Narasaraja I" eid="Q15901299" aliases="King Kanthirava Narasaraja Rajendra">
-<param title="Pedanius Dioscorides" eid="Q297776" aliases="Dioscorides">
-<param title="Ibn Battuta" eid="Q7331">
-<param title="Pietro Andrea Mattioli" eid="Q457191" aliases="Pietro Andrea Mattioli's" aliases="Mattioli">
-<param title="Eliza Acton" eid="Q542825" aliases="Acton">
-<param title="John Pechey" eid="Q18673948" aliases="Pechey">
-<param title="John Winthrop" eid="Q720766" aliases="John Winthrop,">
-<param title="William Woodville" eid="Q6167767" aliases="Woodville">
-<param title="Robert John Thornton" eid="Q5928444" aliases="Thornton's">
-<param title="Robert John Thornton" eid="Q5928444" aliases="Thornton's">
-<param title="Atharva Veda" eid="Q236092">
-<param title="Sushruta Samhita" eid="Q1995239">
 <param title="Berberis" eid="Q158503" aliases="barbarie bark">
 
 ### Merit of the Earth? 
@@ -49,6 +35,10 @@ Wherever its exact origin, anthropologists, historians, and botanists have long 
 <param ve-map title="Indian Subcontinent" center="22.056278, 78.936964" basemap="Esri_WorldPhysical" zoom="4.1">
 <param ve-map-layer geojson active
 title="Indian Subcontinent" url="/geojson/India_Sub.geojson">
+<param title="Vedic period" eid="Q215262" aliases="Vedic societies">
+<param title="Kanthirava Narasaraja I" eid="Q15901299" aliases="King Kanthirava Narasaraja Rajendra">
+<param title="Atharva Veda" eid="Q236092">
+<param title="Sushruta Samhita" eid="Q1995239">
 {#paragraph4}
 
 The plant spread beyond South and Southeast Asia. After turmeric’s domestication in Southern Asia, and long before European colonization, it was diffused to Tahiti, Hawaii, and the Easter Islands.[^ref5]
@@ -61,25 +51,33 @@ The plant spread beyond South and Southeast Asia. After turmeric’s domesticati
 The exact date of turmeric’s arrival in the West is unclear. Some scholars claim it was mentioned by the Greek physician Dioscorides (40 C.E.–90 C.E.), demonstrating its presence in Europe in antiquity. Nevertheless, turmeric was not imported _en masse_ to Europe until the Middle Ages. The spice was first definitively mentioned outside of Southern Asia by early Arabic sources. For instance, the fourteenth century explorer Ibn Battuta [noted](https://books.google.com/books?id=FpRdi95EVfgC&pg=PA598&dq=Travels+of+ibn+battuta+curcuma&hl=en&sa=X&ved=0ahUKEwjEoYuJ_93nAhXrgnIEHX9NA2QQ6AEIPzAD#v=onepage&q&f=false) that on his travels to Delhi he had seen people take a snake, “slit open its stomach, and stuff it with curcuma (turmeric). This...takes the place of saffron with them. When I saw this small animal and them eating it, I took a loathing at it and would not eat it.”
 <param ve-map title="Delhi" center="28.634609, 77.204167" zoom="6.5">
 <param ve-map-layer geojson active title="Delhi" url="/geojson/delhi.json">
+<param title="Saffron" eid="Q25434">
+<param title="Pedanius Dioscorides" eid="Q297776" aliases="Dioscorides">
+<param title="Ibn Battuta" eid="Q7331">
 {#paragraph6}
 
 By the 1400s, the spice was being imported into Europe in large quantities; Joan Thirsk describes how by 1428, turmeric was a “now familiar” spice imported to Italy.[^ref6] The importance of turmeric in fifteenth and sixteenth century Europe becomes clear in Siena-born doctor and naturalist Pietro Andrea Mattioli’s 1558 Latin commentary on Dioscorides’s [_De Materia Medica._](https://www.biodiversitylibrary.org/page/7470316#page/143/mode/1up) Mattioli writes, “Experienced physicians identify the other genus of cypress, which resembles ginger and comes from India.” This type of cypress “work[s] wonders on ulcers,…posses[ses] a certain constrictive power which suits them for treating canker sores” and helps to induce “urination or menstruation.” Mattioli further refers to the plant’s “slightly bitter taste, and that it is yellow like saffron when chewed,” suggesting its use medicinally and gastronomically. 
 <param ve-map title="Mattioli's Birthplace" center="43.320749, 11.330224" zoom="6.5">
 <param ve-map-layer geojson active title="Mattioli's Birthplace" url="/geojson/siena.json">
+<param title="Pietro Andrea Mattioli" eid="Q457191" aliases="Pietro Andrea Mattioli’s" aliases="Mattioli">
 {#paragraph7}
 
 Even as the spice became common in Europe, in the sixteenth and seventeenth centuries, many European sources continued to view some of its uses with both curiosity and disgust. For instance, John Pechey, in a [1694 herbal of plants used in “physics and surgery,”](https://www.biodiversitylibrary.org/item/211990) wrote that turmeric’s color, in spite of its perceived similarity to the Mediterranean plant saffron, emphasizes its strangeness to a European audience: “People of China...make an Ointment with this root,” which men and women rubbed on their bodies. Pechey continues, “this may seem very odd [to] those that are unaccustomed to it, by reason of the yellow color.”
 <param ve-map title="London" center="51.513184, -0.082066" zoom="5.5">
 <param ve-map-layer geojson active title="Pechey's Birthplace" url="/geojson/london.json">
+<param title="John Pechey" eid="Q18673948" aliases="Pechey">
 {#paragraph8}
 
 As [Cargo Sheets](https://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?Search_Arg=214215&Search_Code=GKEY%5E*&PID=YLAP8EkCWFImQAJtfqUxAa1Uuq4w&SEQ=20210125132449&CNT=50&HIST=1)from the Folger Shakespeare Library demonstrate, at the time of Pechey’s writing, turmeric was being imported into Britain in large quantities by the East India Company, and sold at the East India House to grocers and traders. It may be inaccurate to draw a distinction between what was used as cuisine and what was used as medicine. One letter-writer,  [in a 1600 epistle](https://iiif.lib.harvard.edu/manifests/view/drs:53409412$1i) to English lawyer and colonizer John Winthrop, suggests using the "turmerick," along with “barbarie [barberry] bark” boiled in beer with saffron, in order to cure yellow jaundice. Others suggest that turmeric is especially useful when dealing with bodily obstructions. In his [1792 tract on medical botany,](https://www.biodiversitylibrary.org/page/48537187) by William Woodville writes that “this root has had the character of being a powerful aperient and resolvent: it has been commonly prescribed in obstruction of the liver, and other chronic visceral affections.” “The disease,” Woodville continues, “in which it has been thought most efficacious is the jaundice,” and he notes that the plant has been “highly recommended by several practical writers.”
 <param ve-map title="East India House in London" center="51.513184, -0.082066" zoom="8">
 <param ve-map-layer geojson active title="East India House" url="/geojson/East_India_House.json">
+<param title="John Winthrop" eid="Q720766" aliases="John Winthrop,">
+<param title="William Woodville" eid="Q6167767" aliases="Woodville">
 {#paragraph9}
 
 Turmeric’s popularity as a medicinal agent seems to have decreased by the early nineteenth century. In Robert John Thornton’s 1810 work, [_A Family Herbal,_](https://www.biodiversitylibrary.org/item/250671#page/7/mode/1up) he notes the fallacious nature of the claim that turmeric could cure jaundice, writing, “from an ignorant suspicion that the jaundice was to be cured by whatever produced a yellow colour, that is, I suspect, seeing the bile diffused into the habit, from obstruction of passage of the gall-duct, these yellow remedies were used to supply its place, just as the yolks of eggs are used in the same complaint.” He continues, writing that, turmeric “posses[es] only slender virtue.” An [1817 medicinal dictionary](https://books.google.com/books?id=uWNZAAAAIAAJ&newbks=1&newbks_redir=0&dq=A%20New%20Medical%20Dictionary%3A%20Containing%20an%20Explanation%20of%20the%20Terms%20in%20Anatomy&pg=PP1#v=onepage&q&f=false) echoes this assessment of turmeric’s change in status: “it is now very seldom used medicinally” and is mainly used as “an ingredient in the composition of Curry Powder,” as well as a dye. From the 1800s on, turmeric was thus chiefly employed in the West as a culinary and dyeing agent. What was the significance of this use, and how did it function discursively in the broader age of empire?
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/15b4aef3c3d90064c08f565d51d2c6a28ca5d0b57587e3f0074fb3f48e738e80">
+<param title="Robert John Thornton" eid="Q5928444" aliases="Thornton's|Thornton’s">
 {#paragraph10}
 
 ### Colonizing the Table 
@@ -95,6 +93,7 @@ Other recipes make the use of turmeric as a coloring agent even more explicit. S
 The use of turmeric within the broader pantheon of curry powder spices did more than bring the exotic to Britain—it also worked to, in the words of  Zlotnick, “domesticate” the exotic.[^ref10] As Zlotnick notes, Eliza Acton, one of the most influential English cookery authors, wrote in her 1845 work _Modern Cookery_ of curries of allegedly English origin, claiming that, with “plain” English dishes “we have intermingled many others which we know to be excellent of their kind, and which now so far belong to our national cookery, as to be met with commonly at all refined modern tables.” Acton makes explicit the notion of bringing foreign dishes into the fold of English national cuisine by including a recipe for turmeric-laden curry powder. In the cookbook’s section on curries, she discusses British “potted meats,” and how presumed Indian dishes and spices intermingle with British dishes to bring India into the fold of Greater Britain.  
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/aa25adca513ae6184966266a9a598bb56722c333052aa63ae876c2582875a506">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/aa25adca513ae6184966266a9a598bb56722c333052aa63ae876c2582875a506">
+<param title="Eliza Acton" eid="Q542825" aliases="Acton">
 {#paragraph13}
 
 ### The Foreign Becomes Domestic
