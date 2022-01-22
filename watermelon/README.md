@@ -181,7 +181,7 @@ The intensified commodification of the watermelon during the twentieth and espec
 
 Another major transformation is the success of seedless cultivars. The commercial production of seedless watermelons began in the 1990s using colchicine—a chemical derived from the seeds of crocuses—to produce a sterile seedless hybrid, crossbred to have three sets of chromosomes instead of two.[^ref21] While such cultivars now dominate the market, their hybridized sterility presents new ecological challenges. Watermelon plants are bee-pollinated, and since the insects that forage in seedless watermelon plantings carry a mixture of viable and non-viable pollen, more bees are required for effective pollination. Without that, watermelons may grow with a [“hollow heart”](https://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings)—cracks and spaces within the fruit—and cannot be sold. Watermelon farmers in the United States have turned to renting bees to meet such pollination needs, especially following the decline of the wild bee population from mass colony collapse disorder in recent years. Yet there is increasing evidence that the transportation of bees for such purposes puts significant stress on their colonies due to changes in temperature and humidity,[^ref22] the market demand for convenience thus coming at a considerable ecological cost.[^ref23]
 <param ve-image
-	manifest="https://iiif.juncture-digital.org/manifest/61e3ceac1421da39d9bfa9cbf6616c8f25fc22b920ee4dbb2baab1cdcc18d75b"
+	url="https://upload.wikimedia.org/wikipedia/commons/4/48/Yangzhou_-_supermarket_-_watermelons_-_P1070029.JPG"
 	region="367,109,1868,1382">
 {#paragraph16}
 
