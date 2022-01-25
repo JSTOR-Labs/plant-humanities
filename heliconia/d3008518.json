@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "test",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://storiiies-images.cogapp.com/iiif/2/1603393114490TangeriniHeliconiachartaceavarmeeana.ptif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:320.7944641113281,1751.6766357421875,749.9883728027344,1061.0098876953125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#4e206d74-7d53-4611-9241-081763b68f14"
+  }
+]
