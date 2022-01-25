@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#4e206d74-7d53-4611-9241-081763b68f14"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "test 2",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://storiiies-images.cogapp.com/iiif/2/1603393114490TangeriniHeliconiachartaceavarmeeana.ptif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1842.8072509765625,1642.90380859375,703.6668701171875,668.5576171875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#2a44aeb2-fd14-4734-b176-f8a7f409e26a"
   }
 ]
