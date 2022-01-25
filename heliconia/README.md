@@ -71,8 +71,8 @@ A pen-and-ink drawing by the Smithsonian’s scientific illustrator [Alice Tange
 
 Mee’s gift of observation, honed through the painstaking sketching of plants and conversations with expert botanists, led her to notice the plant. Her painting, though with a primarily aesthetic purpose, was detailed and accurate enough to convince Kress, an expert on the genus, that this discovery was of a new variety. His scientific publication then called for the skill of a botanical illustrator, shifting the emphasis from color and composition to the accurate description of the plant’s parts, yet with a graceful economy of means that produces its own version of aesthetic pleasure.
 <param ve-entity eid="Q3148760" title="botanical illustrator">
-<param ve-image layers region="452,2026,5154,4833" manifest="https://iiif.juncture-digital.org/manifest/4d194fe2ccf2fe54f534b4fa48673c2d57a506c090381f717271d654ec3511e9">
-<param ve-image region="452,2026,5154,4833" manifest="https://iiif.juncture-digital.org/manifest/84e73ecbeca5a9f0292cc4b693a257de89c3813458361b694df26e90e8f259b5">
+<param ve-compare curtain region="452,2026,5154,4833" manifest="https://iiif.juncture-digital.org/manifest/84e73ecbeca5a9f0292cc4b693a257de89c3813458361b694df26e90e8f259b5">
+<param ve-compare region="452,2026,5154,4833" manifest="https://iiif.juncture-digital.org/manifest/4d194fe2ccf2fe54f534b4fa48673c2d57a506c090381f717271d654ec3511e9">
 {#paragraph8}
 
 ### The Natural History of Heliconias – Experts in Interactions 
@@ -127,8 +127,8 @@ Botany has always been a highly visual science, and our understanding of plants 
 
 A full assessment of the conservation status of each known species of _Heliconia_ is currently being conducted by John Kress, Gary Krupnick, and Serenity Montaño at the Smithsonian. Using information from specimens collected over the last 200 years and maintained in herbaria around the world, such as the United States National Herbarium at the Smithsonian Institution, they are using both the International Union for Conservation of Nature’s [Red List Criteria](https://www.iucnredlist.org/) method of assessment and a second rapid assessment method, to determine the conservation status of each species. Geospatial Conservation Assessment ([GeoCat](https://www.gbif.org/tool/81755/geocat-geospatial-conservation-assessment-tool)) maps and Red List descriptions of the conservation status of 185 species are being produced. For example, data from over 200 herbarium specimens found in 20 institutions suggest that _Heliconia bihai_ from the <span data-click-map-flyto="18.005438, -66.612474,5.8">Caribbean</span> and <span data-click-map-flyto="1.069952, -60.720456, 4.6">northern South America</span> is of “Least Concern” for conservation. Whereas the six available specimens of the very closely related species _[Heliconia aurea](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:119303-2)_ from <span data-click-map-flyto="9.036443, -69.729927, 7.3">Colombia and Venezuela</span> indicate that it is “Vulnerable” and at risk of extinction, most likely due to habitat alteration, degradation, and destruction.
 <param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
-<param ve-map-layer geojson active title="Aurea" url="/data/heliconia-aurea.tsv" fill="#D11141" radius="6">  
-<param ve-map-layer geojson active title="Bihai" url="/data/heliconia-bihai.tsv" radius="4.5" fill="#009900">
+<param ve-map-layer geojson active title="Heliconia aurea (magenta)" url="/data/heliconia-aurea.tsv" fill="#D11141" radius="6">  
+<param ve-map-layer geojson active title="Heliconia bihai (green)" url="/data/heliconia-bihai.tsv" radius="4.5" fill="#009900">
 {#paragraph15}
 
 Our understanding of the diversity and ecology of heliconias has grown tremendously in the last few decades. Many exciting new forms and species have been discovered and described by botanists. And yet, even after years of observation, the intricate web of interactions between heliconias and their animal partners in natural ecosystems is still to be fully comprehended. Each new plant we find and each additional observation we make opens up entirely new fields for exploration. Horticulturists, scientists, and citizens have so much more to learn and appreciate about these disciples of Apollo and the Muses from Mount Helicon.

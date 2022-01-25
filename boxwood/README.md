@@ -20,7 +20,6 @@
 <param title="John Gerard" eid="Q1333338">
 <param title="Amato Lusitano" eid="Q455777">
 <param title="syphilis" eid="Q41083">
-<param title="Pietro Andrea Mattioli" eid="Q457191">
 <param title="John Parkinson" eid="Q37393560">
 <param title="Oestridae" eid="Q27485" aliases="botfly">
 <param title="apoplexy" eid="Q8264724">
@@ -34,7 +33,6 @@
 <param title="Monceaux" eid="Q1440821">
 <param title="Fontainebleau" eid="Q182872">
 <param title="Versailles" eid="Q621">
-<param title="gardens of Versailles" eid="Q3162464">
 <param title="Louis XIV" eid="Q7742">
 <param title="André Le Nôtre" eid="Q273849">
 <param title="Yuanming Yuan (Old Summer Palace)" eid="Q907894">
@@ -93,7 +91,7 @@ One of the finest among these, Dumbarton Oaks—designed by Beatrix Farrand begi
 
 ### “A Plant Known to Everybody”
 
-How did boxwood come to represent the lasting legacy of the European garden tradition? Its historical fortunes hardly amount to a dazzling story of oversees exploration, important discoveries, or economic exploitation—the “big business” of early modern botany, to use Daniela Bleichmar’s phrase.[^ref4] An integral element in the Mediterranean maquis—scrubland vegetation—boxwood has been familiar to Europeans for many centuries. Sixteenth-century Italians considered it “a plant that is known to everybody, since it abundantly grows all over Italy”; while in England it was habitually found among “sundry waste and barren hills.”[^ref5] Boxwood’s adaptation to garden design went back to antiquity. Roman author and politician Pliny the Younger mentions its use in his villa “in Tuscis,” where, cut into various shapes representing figures and letters, it served as the main material for elaborate topiary work.[^ref6] This malleability of boxwood, the ease with which it lent itself to pruning, was particularly valued by the ancients, making it an indispensable and versatile medium for the creation of green architecture and sculpture.
+How did boxwood come to represent the lasting legacy of the European garden tradition? Its historical fortunes hardly amount to a dazzling story of overseas exploration, important discoveries, or economic exploitation—the “big business” of early modern botany, to use Daniela Bleichmar’s phrase.[^ref4] An integral element in the Mediterranean maquis—scrubland vegetation—boxwood has been familiar to Europeans for many centuries. Sixteenth-century Italians considered it “a plant that is known to everybody, since it abundantly grows all over Italy”; while in England it was habitually found among “sundry waste and barren hills.”[^ref5] Boxwood’s adaptation to garden design went back to antiquity. Roman author and politician Pliny the Younger mentions its use in his villa “in Tuscis,” where, cut into various shapes representing figures and letters, it served as the main material for elaborate topiary work.[^ref6] This malleability of boxwood, the ease with which it lent itself to pruning, was particularly valued by the ancients, making it an indispensable and versatile medium for the creation of green architecture and sculpture.
 <param ve-map
 	title="Native European distribution of common boxwood (_Buxus sempervirens_)."
 	center="47.192704, 23.108475"
@@ -121,14 +119,14 @@ Given this close association of boxwood with the gardens of Roman antiquity, it 
 {#paragraph5}
 
 The real issue with boxwood was what sixteenth-century English physician John Gerard described as the “evil and loathsome smell,” which, according to Soderini, was not only “annoying,” but could give one headaches as it “infested the air.”[^ref11] To mitigate the odor, the recommended solution was to plant boxwood in combination with other strongly scented evergreens such as myrtle, mastic, and rosemary.[^ref12] These mixed hedges benefitted from the robust texture of boxwood. Boxwood’s other selective use, also due to its thick and dense foliage, was planting it in thicket-like bird trapping grounds, _ragnaie_.[^ref13] Yet, compared to other plants that could serve analogous purposes or occupy the same garden spaces, boxwood, in Soderini’s words, was “valued little or not at all.”[^ref14]
-<param ve-image
-	manifest="https://iiif.juncture-digital.org/manifest/053b7b45fbfa7112a17dbf9f4a4ee1807f56ee8f3f252d5b8d68ae57cc6ced25">
+<param ve-iframe src="https://archive.org/embed/herballorgeneral00gera_2/page/1225/mode/1up">
 {#paragraph6}
 
 Boxwood’s potential medicinal applications met with a similar lack of enthusiasm. Despite an attempt by Amato Lusitano, a sixteenth-century Portuguese Jewish physician, to prove that boxwood was a native European analogue of guaiacum and could, therefore, potentially cure syphilis, the general consensus—endorsed by the leading writer on _materia medica_, Pietro Andrea Mattioli—was that it “had no use in medicine.” Lusitano’s claim was dismissed as “vain and foolish,” which “could in no way be acceptable to doctors.”[^ref15] Such pronouncements against boxwood, which was considered of “no physical use among the most and best physicians,” were sustained by the Englishman John Parkinson (who, however, noted that its leaves could be given to horses as a cure for botfly larvae); Gerard raged against “foolish empirics and women leeches” who “minister it against apoplexy and such diseases.”[^ref16] This negative opinion continued to pervade early modern medical thought, while boxwood’s known curative properties, especially as a styptic, generally remained ignored. 
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/995bf168dc62df827f35c41106a1654d824b59f12f06c57325873ef85ea0c660"
 	region="1,1157,1006,746">
+<param title="Pietro Andrea Mattioli" eid="Q457191" aliases="the leading writer">
 {#paragraph7}
 
 ### A Crafty Kind of Wood
@@ -183,6 +181,7 @@ Mollet’s planting and stylistic innovations gained the fullest expression in t
 	region="42,362,2798,3776">
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/4836a663d686ab92341e18a9e5fac65a0dc9bedd20731579b465a00312ea9ccf">
+<param title="Gardens of Versailles" eid="Q3162464" aliases="gardens">
 {#paragraph11}
 
 Closely connected with these expatriate circles was British landscape architect Cecil Pinsent, another contemporary of Farrand’s, who extensively used boxwood in his landscaping projects. Most famous among his gardens was the Villa I Tatti in Settignano, Italy, designed for the American art historian and connoisseur Bernard Berenson. Another celebrated work was the lower terrace of the fifteenth-century Villa Medici in Fiesole that Pinsent furnished with a “carpet of box parterre,” regarded by landscape historian Geoffrey Jellicoe as fully integral to the historic character of the property.[^ref29] Popularized by postcards and book illustrations, Pinsent’s design became an iconic image of the Italian Renaissance garden, with its boxwood geometry—purposely projected into the Medicean age—serving as a visible bridge between distant antiquity and a more recent but equally glorious past.

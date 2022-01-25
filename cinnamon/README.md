@@ -8,7 +8,7 @@
 	num-images="0"
 	num-specimens="0"
 	num-primary-sources="0"
-	author="Wouter Klein, PhD">
+	author="Wouter Klein">
 
 ### The Cinnamon Challenge
 
@@ -26,7 +26,7 @@ Cinnamon had a long history before any European ever saw “true” cinnamon (_C
 <param title="Pedanius Dioscorides" eid="Q297776" aliases="Dioscorides">
 <param title="East Indies" eid="Q213137">
 <param title="Cassia abbreviata" eid="Q145495">
-<param ve-image
+<<param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/8f1c29fce13a1fe8687273f9b0ed351975a406e274e26fcf7497c4dbf8192c6a"
 	fit="contain">
 {#paragraph2}
@@ -82,13 +82,13 @@ Once true cinnamon had begun to be understood as cinnamon from Sri Lanka (histor
 	center="8.050740, 80.654834"
 	zoom="7.4"
 	show-labels>
-<param ve-map-layer geojson url="Kingdom-of-Kandy.json">
-<param ve-map-layer geojson url="Kingdom-of-Sitawaka.json">
-<param ve-map-layer geojson url="Principality-of-Raigama.json">
-<param ve-map-layer geojson url="Kingdom-of-Kotte.json">
-<param ve-map-layer geojson url="Wanni-region_south.json">
-<param ve-map-layer geojson url="Wanni-region_north.json">
-<param ve-map-layer geojson url="Kingdom-of-Jaffna.json">
+<param ve-map-layer geojson url="Kingdom-of-Kotte.json" title="Kingdom of Kotte (green)">
+<param ve-map-layer geojson url="Kingdom-of-Jaffna.json" title="Kingdom of Jaffna (red)">
+<param ve-map-layer geojson url="Wanni-region_north.json" title="Wanni region north (brown)">
+<param ve-map-layer geojson url="Wanni-region_south.json" title="Wanni region south (brown)">
+<param ve-map-layer geojson url="Kingdom-of-Kandy.json" title="Kingdom of Kandy (yellow)">
+<param ve-map-layer geojson url="Kingdom-of-Sitawaka.json" title="Kingdom of Sitawaka (purple)">
+<param ve-map-layer geojson url="Principality-of-Raigama.json" title="Principality of Raigama (blue)">
 {#paragraph7}
 
 ### Optimizing the Monopoly
@@ -157,10 +157,10 @@ Imperial agendas and a disinterested search for knowledge could also go hand in 
 <param title="Philosophical Transactions" eid="Q913162">
 <param title="Royal Society" eid="Q123885">
 <param ve-image
-	title="“Cinnamon from Ceylon with flowers”. Specimen of _Cinnamomum verum_ J.Presl, from Paul Hermann’s herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171."
-	url="007714869-L.2070171.jpg"
+	title="“Cinnamon from Ceylon with flowers”. Specimen of Cinnamomum verum J.Presl, from Paul Hermann’s herbarium of plants from Sri Lanka in Leiden, specimen no. L.2070171."
+	url="Cinnamon_from_Ceylon_with_flowers.jpg"
 	attribution="Naturalis Biodiversity Center, Leiden. https://data.biodiversitydata.nl/naturalis/specimen/L.2070171"
-	region="contain">
+        fit="contain">
 {#paragraph14}
 
 ### Cinnamon and Imperial Imagination
@@ -206,8 +206,7 @@ The last and most daring strategy was to transplant the true cinnamon to Spanish
 	manifest="https://iiif.juncture-digital.org/manifest/e3050a38268416db81c3f972ad400bca679d26e1a61c21fb92e0b2ea21f7d615">
 {#paragraph18}
 
-Today, Sri Lanka again ranks high among [the world’s largest exporters of cinnamon](http://www.worldstopexports.com/cinnamon-exporters/). But confusion remains: while _Cinnamomum verum_ J.Presl is grown in many countries in the tropical zone, the quality of the end product differs for each region.[^ref28] Moreover, commercial statistics usually bring all market variations under the rubric “cinnamon,” without differentiating between different _Cinnamomum_ species. This issue is even more pertinent in the context of medicine. Cinnamon has great potential therapeutic applications, but many studies fail to clarify which species of _Cinnamomum_ they focused on, making it difficult to compare the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is true and what is not.
-<param title="cinnamon" eid="Q370239">
+Today, Sri Lanka ranks high among [the world’s largest exporters of cinnamon.](http://www.worldstopexports.com/cinnamon-exporters/) But confusion remains: while _Cinnamomum verum_ J.Presl is grown in many countries in the tropical zone, the quality of the end product differs for each region.[^ref28] Moreover, commercial statistics usually bring all market variations under the rubric “cinnamon,” without differentiating between different _Cinnamomum_ species. This issue is even more pertinent in the context of medicine. Cinnamon has great potential therapeutic applications, but many studies fail to clarify which species of _Cinnamomum_ they focused on, making it difficult to compare the results.[^ref29] The species epithet _verum_ may sound like an obsolete name in a globalized world, where everyone has access to cinnamon and where cinnamon is grown in many tropical areas. But it still captures the essence of what cinnamon has always been about: distinguishing between what is true and what is not.
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/a48766ce5444ef52e662099a564b1559a6c7f8a48ddceb8960de0bb19ff80635"
 	region="0,88,1200,813">
@@ -243,7 +242,7 @@ Today, Sri Lanka again ranks high among [the world’s largest exporters of cinn
 
 [^ref14]: Johan Heniger, _Hendrik Adriaan van Reede tot Drakenstein (1636–1691) and Hortus Malabaricus: A Contribution to the History of Dutch Colonial Botany_ (Rotterdam and Boston: A.A. Balkema, 1986), 37–38; and Harold J. Cook, _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_ (New Haven: Yale University Press, 2007), 310–317.
 
-[^ref15]: Tinde van Andel and Nadine Barth, “Paul Hermann’s Ceylon Herbarium (1672-1679) at Leiden, the Netherlands,” _Taxon_ 67, no. 5 (2018): 981, [DOI:10.12705/675.8](https://doi.org/10.12705/675.8)
+[^ref15]: Tinde van Andel and Nadine Barth, “Paul Hermann’s Ceylon Herbarium (1672–1679) at Leiden, the Netherlands,” _Taxon_ 67, no. 5 (2018): 981, [DOI:10.12705/675.8](https://doi.org/10.12705/675.8)
 
 [^ref16]: Lisbet Koerner, _Linnaeus: Nature and Nation_ (Cambridge, Massachusetts and London: Harvard University Press, 1999), 36.
 

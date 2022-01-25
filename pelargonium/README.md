@@ -57,26 +57,18 @@ Other morphological traits distinguish members of the genera pelargonium from ge
 ### Introduction to Europe and Nomenclature Confusion
 
 The [_pelargonium_,](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:30302759-2) which includes more than 280 accepted species, is native to Southern Africa, Saint Helena, Asia Minor, Madagascar, and Australia. The great majority of these species are endemic to the Cape regions of present-day South Africa—a biodiversity hotspot. Given their concentration there, it is not surprising that Dutch traders, who first introduced pelargoniums to Europe in the early seventeenth century, harvested them from the Cape.[^ref6]
-<param ve-entity eid="Q258" title="South Africa">
-<param ve-entity eid="Q258" title="South Africa">
-<param ve-entity eid="Q34497" title="Saint Helena" aliases="St. Helena">
-<param ve-entity eid="Q12824780" title="Asia Minor">
-<param ve-entity eid="Q1019" title="Madagascar">
-<param ve-entity eid="Q408" title="Australia">
 <param ve-entity eid="Q864294" title="Biodiversity hotspot" aliases="biodiversity hotspot">
-<param ve-map center="-1.8178950538873857, 72.47203596246695" zoom="2.5">
-<param ve-map-layer geojson url="map-pelargonium.json" label="Pelargonium native range (red)">
-<param ve-map-layer geojson url="map-pelargonium-netherlands.json" label="Netherlands (green)">
+<param ve-map center="-1.8178950538873857, 72.47203596246695" zoom="2.5" show-labels="true">
+<param ve-map-layer geojson url="map-pelargonium.json" label="Pelargonium native range (red) active">
 {#paragraph6}
 
 Of the many _Pelargonium_ species native to Southern Africa, _Pelargonium triste_ was probably the first to reach Europe, in the early 1600s.[^ref7] In 1672, several more species were collected—mostly from Table Mountain, on the Cape peninsula—and shipped back to the <span data-click-map-flyto="52.159, 4.484">Leiden Botanical Garden</span> by Paul Hermann, a medical officer with the Dutch East India Company.[^ref8] Hermann is credited with introducing _P. cucullatum_ to the garden, and his 1689 book [_Paradisi Batavi Prodromus_](https://bibdigital.rjb.csic.es/idurl/1/13582) lists pelargonium as “African geranium.”[^ref9] Yet, it is important to note that some mystery still surrounds the identities of these plants because there was not yet a standardized method for naming them.
 <param ve-entity eid="Q213360" title="Table Mountain">
 <param ve-entity eid="Q66569" title="Paul Hermann">
-<param ve-entity eid="Q2468128" title="Hortus Botanicus Leiden" aliases="Leiden Botanical Garden">
 <param ve-entity eid="Q3898876" title="Pelargonium cucullatum" aliases="P. cucullatum">
-<param ve-map center="-27.463216719911, 23.43344878447288" zoom="5" show-label="true">
+<param ve-map center="-27.463216719911, 23.43344878447288" zoom="5" show-labels="true">
 <param ve-map-layer geojson url="map-pelargonium.json" label="Pelargonium native range (red)" active>
-<param ve-map-layer geojson url="map-pelargonium-netherlands.json" label="Netherlands (green)" active>
+<param ve-map-layer geojson url="map-pelargonium-netherlands.json" label="introduced (green)" active>
 {#paragraph7}
 
 The nomenclature confusion surrounding pelargonium started when _Pelargonium triste_ reached Europe. The plant was initially called _Geranium Indicum nocto odorato_—night-scented geranium of India.[^ref10] Europeans misidentified the specimen as a geranium because they were already familiar with _geranium_ species, which are native to the Mediterranean Basin. Additionally, Dutch traders brought the pelargonium to Holland on their return from colonial voyages to the East Indies, prompting some to assume, wrongly, that it was harvested from India. During this period, Jacques Philippe Cornut renamed the plant _Geranium triste_, which he depicted and described in his 1635 book [_Canadensium Plantarum_.](https://bibdigital.rjb.csic.es/idurl/1/13506)[^ref11] _Triste_ (sad) presumably alludes to the pelargonium’s dull-colored foliage or flowers, and the descriptor stuck.
