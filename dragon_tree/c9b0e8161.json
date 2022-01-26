@@ -1,9 +1,9 @@
 {
   "@context": "http://www.w3.org/ns/anno.jsonld",
-  "id": "http://visual-essays.app/annotations/?include=description&target=dragon_tree/5082f0d6",
+  "id": "http://visual-essays.app/annotations/?include=description&target=dragon_tree/c9b0e816",
   "type": "AnnotationPage",
   "partOf": {
-    "id": "http://visual-essays.app/annotations/?include=description&target=dragon_tree/5082f0d6",
+    "id": "http://visual-essays.app/annotations/?include=description&target=dragon_tree/c9b0e816",
     "total": 4,
     "modified": "2021-03-30T15:56:45.152934"
   },
@@ -24,10 +24,10 @@
           "conformsTo": "http://www.w3.org/TR/media-frags/",
           "value": "xywh=pixel:-224.86781609195427,762.0556838701981,2648.7356321839084,1646.0000000000005"
         },
-        "id": "dragon_tree/5082f0d6"
+        "id": "dragon_tree/c9b0e816"
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "dragon_tree/5082f0d6/9ce31427",
+      "id": "dragon_tree/c9b0e816/9ce31427",
       "seq": 0
     },
     {
@@ -45,10 +45,10 @@
           "conformsTo": "http://www.w3.org/TR/media-frags/",
           "value": "xywh=pixel:-477.4123600790719,233.7422219293661,2648.7356321839084,1646.0000000000005"
         },
-        "id": "dragon_tree/5082f0d6"
+        "id": "dragon_tree/c9b0e816"
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "dragon_tree/5082f0d6/b77b5dca",
+      "id": "dragon_tree/c9b0e816/b77b5dca",
       "seq": 1
     },
     {
@@ -66,10 +66,10 @@
           "conformsTo": "http://www.w3.org/TR/media-frags/",
           "value": "xywh=pixel:1536.8160919540228,1243.9144897993365,1324.3678160919542,823.0000000000002"
         },
-        "id": "dragon_tree/5082f0d6"
+        "id": "dragon_tree/c9b0e816"
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "dragon_tree/5082f0d6/ad9c6d90",
+      "id": "dragon_tree/c9b0e816/ad9c6d90",
       "seq": 2
     },
     {
@@ -87,10 +87,10 @@
           "conformsTo": "http://www.w3.org/TR/media-frags/",
           "value": "xywh=pixel:1309.9017039331904,2409.872727721394,1324.3678160919542,823.0000000000002"
         },
-        "id": "dragon_tree/5082f0d6"
+        "id": "dragon_tree/c9b0e816"
       },
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "dragon_tree/5082f0d6/7935e053",
+      "id": "dragon_tree/c9b0e816/7935e053",
       "seq": 3
     }
   ]
