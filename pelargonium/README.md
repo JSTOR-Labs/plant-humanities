@@ -176,9 +176,9 @@ Today, pelargonium oil continues to be industrially produced in factories across
 ### Hiding in Plain Sight
 
 Although the _Pelargonium_ by any other name would smell as sweet, excepting those that are scentless or pungent, our recognition of its unique identity is long overdue. Indeed, the _Pelargonium_’s almost-forgotten global history is extremely rich, blossoming as it does at the intersections of colonial trade, botany, agriculture, gardening, art, culture, and industry. Telling the story of the _Pelargonium_ as an entity separate from the _Geranium_, illuminates just some of the many ways in which it has been interwoven with human histories–hiding in plain sight, as it were, by virtue of its long-persisting misnomer.
-<param ve-image primary manifest="https://iiif.juncture-digital.org/manifest/092ea486b795bdf4b2545d73dcc1c36ca8d15163873d38a152ce732296480ef9">
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/8f19722ee53f6120fb82cd1037ec48a9e66da7aa5b7c02fe6c7663200ec4adf4">
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/8697604449486b98fdc7f8a7144563f1954a3843f7cb8e384b1f7bf449dc5feb" rotate="270">
+<param ve-image primary region="5,1679,3632,3335" manifest="https://iiif.juncture-digital.org/manifest/092ea486b795bdf4b2545d73dcc1c36ca8d15163873d38a152ce732296480ef9">
+<param ve-image region="0,460,1026,896" manifest="https://iiif.juncture-digital.org/manifest/8f19722ee53f6120fb82cd1037ec48a9e66da7aa5b7c02fe6c7663200ec4adf4">
+<param ve-image region="620,1424,2053,2352" manifest="https://iiif.juncture-digital.org/manifest/8697604449486b98fdc7f8a7144563f1954a3843f7cb8e384b1f7bf449dc5feb" rotate="270">
 {#paragraph21}
 
 ### References
