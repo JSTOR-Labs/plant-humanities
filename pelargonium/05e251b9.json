@@ -1,0 +1,202 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Pelargonium distillation",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e124cf06cf79093b52b780a9191ecf67eec2dbb6577f467a8c85cf2507fd1326",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:17.60124397277832,1806.8880615234375,1341.3854503631592,982.9840087890625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ee9bde0e-8a1f-4a5e-8e6a-9a1d1d8de222"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Pelargonium treatment, harvesting oil",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e124cf06cf79093b52b780a9191ecf67eec2dbb6577f467a8c85cf2507fd1326",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1459.5906982421875,1859.2860107421875,1039.5736083984375,884.4759521484375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c146e15f-404b-467b-9871-bbc47800d39f"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Pelargonium supply at factory",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e124cf06cf79093b52b780a9191ecf67eec2dbb6577f467a8c85cf2507fd1326",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:37.85474395751953,1034.532470703125,974.0630416870117,738.699951171875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#000be7d3-074c-45a3-9730-ac470638c6b9"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Cutting rose-scented pelargoniums",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e124cf06cf79093b52b780a9191ecf67eec2dbb6577f467a8c85cf2507fd1326",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1479.808349609375,182.40455627441406,958.466796875,728.7749481201172"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#3eca9e8b-ba50-49c9-97be-5183b40a97f3"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Pelargonium treatment, waste",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e124cf06cf79093b52b780a9191ecf67eec2dbb6577f467a8c85cf2507fd1326",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2727.618896484375,1888.6287841796875,920.1064453125,744.0496826171875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#1a0f2cff-d4af-40ca-bbe9-64bd6cf541ac"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Harvesting pelargoniums",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e124cf06cf79093b52b780a9191ecf67eec2dbb6577f467a8c85cf2507fd1326",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2777.14111328125,161.13682556152344,862.052734375,659.3003082275391"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ebb8e2fa-bd81-4415-80b7-f59d577da22c"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Field of pelargoniums",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e124cf06cf79093b52b780a9191ecf67eec2dbb6577f467a8c85cf2507fd1326",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:185.3111572265625,200.8366241455078,869.14208984375,645.1218109130859"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d37cabec-e540-4f1d-97ed-e8e195dddf76"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Pelargonium treatment, emptying of still",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e124cf06cf79093b52b780a9191ecf67eec2dbb6577f467a8c85cf2507fd1326",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2941.61181640625,1167.8104248046875,679.150146484375,493.4117431640625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#22815806-e385-4489-a41a-b9cd9113e7f9"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Pelargonium treatment, distillery in operation",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e124cf06cf79093b52b780a9191ecf67eec2dbb6577f467a8c85cf2507fd1326",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2034.187744140625,1157.8853759765625,659.30029296875,504.754638671875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#88c653ed-c96a-4641-987d-cb93ac83555a"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Pelargonium treatment, arrival at distillery",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/e124cf06cf79093b52b780a9191ecf67eec2dbb6577f467a8c85cf2507fd1326",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1142.3599853515625,1136.61767578125,664.9716796875,499.083251953125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#82703af1-f721-406c-86b9-90285f1aa6fa"
+  }
+]
