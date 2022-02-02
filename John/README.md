@@ -1,7 +1,7 @@
 <param ve-config
 	   title="Venus' Flytrap: Queen of the Carnivorous Plants"
 	   source-image="https://www.biodiversitylibrary.org/pageimage/48674418" region="236,1695,2055,771"
-	   banner="https://github.com/JSTOR-Labs/plant-humanities/blob/main/John/dionaea-banner.jpg" region="236,1695,2055,771"
+	   banner="https://user-images.githubusercontent.com/72099600/152094218-60a541f4-3712-444c-bc5b-778e82863867.jpg"
 	   about="John Ellis. Dionaea Muscipula: Or, Venus’s Fly-Trap. (London, 1770)."
 	   layout="vtl"
 	   author="John R. Schaefer">
