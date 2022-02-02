@@ -46,6 +46,27 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Field of pelargoniums",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/a77225be5738e20031eed652b283ccf816afeedf94b8caae8e3989c17096186e",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:182.06048583984375,205.96096801757812,873.7973022460938,638.4427185058594"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "pelargonium/5c8f586e/293f4fb8",
+    "seq": 0
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Pelargonium supply at factory",
         "purpose": "commenting"
       }
@@ -61,27 +82,6 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "pelargonium/5c8f586e/81d369e9",
     "seq": 3
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": "Field of pelargoniums",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:182.06048583984375,205.96096801757812,867.9733276367188,608.7868347167969"
-      },
-      "id": "pelargonium/5c8f586e"
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "pelargonium/5c8f586e/293f4fb8",
-    "seq": 0
   },
   {
     "type": "Annotation",
