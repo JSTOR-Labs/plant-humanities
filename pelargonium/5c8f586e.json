@@ -208,5 +208,25 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "pelargonium/5c8f586e/7e8d86d8",
     "seq": 5
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "test anno",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/a77225be5738e20031eed652b283ccf816afeedf94b8caae8e3989c17096186e",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1357.8988037109375,1716.8270263671875,383.2952880859375,221.3603515625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#55d327a6-15b2-433f-932c-f03700ed8c28"
   }
 ]
