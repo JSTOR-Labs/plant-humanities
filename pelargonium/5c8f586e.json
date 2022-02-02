@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Cutting rose-scented pelargoniums",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/a77225be5738e20031eed652b283ccf816afeedf94b8caae8e3989c17096186e",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1280.5831298828125,170.68556213378906,1255.8831787109375,796.2928314208984"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f078814a-58eb-4a6d-be5c-5d2d4d3a02ae"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Field of pelargoniums",
         "purpose": "commenting"
       }
