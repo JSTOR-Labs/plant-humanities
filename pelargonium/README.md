@@ -163,7 +163,7 @@ The Grasse-based [Chiris perfumerie,](https://monumentum.fr/anciennes-parfumerie
 <param ve-entity eid="Q2344308" title="Boufarik">
 <param ve-entity eid="Q45669" title="Eucalyptus" aliases="eucalyptus">
 <param ve-entity eid="Q81513" title="Citrus" aliases="orange">
-<param ve-image fit="contain" title="Pelargonium fields and floricultural industry, Algeria. Anonymous, no publication date [1900s-1910s?], black and white photograph from glass plate" attribution="Source gallica.bnf.fr / BnF" manifest="https://free.iiifhosting.com/iiif/3a5f67d4d7edf98691f1a1fbfc6ae19461675051fa93335ab4841215ac17cbd8/info.json">
+<param ve-image fit="contain" title="Pelargonium fields and floricultural industry, Algeria. Anonymous, no publication date [1900s-1910s?], black and white photograph from glass plate" attribution="Source gallica.bnf.fr / BnF" url="Chiris Factory.png">
 <param ve-plant-specimen region="3500,3116,3515,3068" jpid="10.5555/al.ap.specimen.k000417315">
 {#paragraph19}
 
