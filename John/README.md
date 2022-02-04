@@ -123,9 +123,9 @@ Yet, today, the Venus flytrap remains on display in the living collections of al
 
 ### References
 
-[^ref1]:  Hooker’s term “vegetable sportsmen” alludes to the various traps, lures, and devices that the plants deploy to catch their animal prey. Joseph Dalton Hooker. *Report of the British Association for the Advancement of Science*. Vol. 44. London, 1875. https://www.biodiversitylibrary.org/item/94451.
+[^ref1]:  Hooker’s term “vegetable sportsmen” alludes to the various traps, lures, and devices that the plants deploy to catch their animal prey. Joseph Dalton Hooker. *Report of the British Association for the Advancement of Science*. Vol. 44. (London, 1875). https://www.biodiversitylibrary.org/item/94451.
 [^ref2]: Carl Linnaeus. *Systema vegetabilium: secundum classes, ordines, genera, species cum characteribus et differentiis* (Dieterich, 1774), 335; Charles Darwin. *Insectivorous Plants* (London: John Murray, 1875), 286.
-[^ref3]: E. Charles Nelson. *Aphrodite’s Mousetrap: A Biography of Venus’s Flytrap with Facsimiles of an Original Pamphlet and the Manuscripts of John Ellis*. (Aberystwyth, Wales: Published by Boethius Press in association with Bentham-Moxon Trust and the Linnean Society, 1990) 26-7.
+[^ref3]: E. Charles Nelson. *Aphrodite’s Mousetrap: A Biography of Venus’s Flytrap with Facsimiles of an Original Pamphlet and the Manuscripts of John Ellis*. (Aberystwyth, Wales: Published by Boethius Press in association with Bentham-Moxon Trust and the Linnean Society, 1990), 26-7.
 [^ref4]: Linnaeus’ response is not known, and it seems likely that the letter from Collinson did not reach him. E. Charles Nelson. *Aphrodite’s Mousetrap*, 22. 
 [^ref5]: Peter Collinson to John Bartram. 30 June 1764. Bartram Papers BP 3:8: ms in Historical Society of Pennsylvania, quoted in E. Charles Nelson, *Aphrodite’s Mousetrap*, 129-130.
 [^ref6]: Hallock, Thomas. “Male Pleasure and the Genders of Eighteenth-Century Botanic Exchange: A Garden Tour.” *The William and Mary Quarterly* 62, no. 4 (2005): 697–718. https://doi.org/10.2307/3491445.
@@ -146,5 +146,5 @@ Judith Magee. *The Art and Science of William Bartram*. University Park, Pa., 20
 [^ref20]: Erasmus Darwin. *The Loves of the Plants*, 15-16, 24.
 [^ref21]: Erasmus Darwin. *The Loves of the Plants*, 15-16.
 [^ref22]: M. A. Trécul. “On the Organization of the Pedicellate Glands of the Leaf of Drosera Rotundifolia,” *Annals and Magazine of Natural History* 16, no. 92 (August 1, 1855): 146–49. https://doi.org/10.1080/037454809495497; Pierre Étienne Simon Duchartre. *Éléments de botanique: comprenant l'anatomie, l'organographie, la physiologie des plantes, les familles naturelles et la géographie botanique* (1867), 358.
-[^ref23]: Sophia Prior. *Carnivorous Plants and “the Man Eating Tree.”* Chicago: Field Museum of Natural History, 1939. https://www.biodiversitylibrary.org/item/25206.
+[^ref23]: Sophia Prior. *Carnivorous Plants and “the Man Eating Tree.”* Chicago: Field Museum of Natural History (1939). https://www.biodiversitylibrary.org/item/25206.
 [^ref24]: H.G. Wells, “The Flowering of the Strange Orchid,” in *The Stolen Bacillus and Other Incidents* (Macmillan and Company, limited, 1920), 17-35.
