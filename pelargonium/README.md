@@ -164,21 +164,21 @@ The Grasse-based [Chiris perfumerie,](https://monumentum.fr/anciennes-parfumerie
 <param ve-entity eid="Q45669" title="Eucalyptus" aliases="eucalyptus">
 <param ve-entity eid="Q81513" title="Citrus" aliases="orange">
 <param ve-image fit="contain" title="Pelargonium fields and floricultural industry, Algeria. Anonymous, no publication date [1900s-1910s?], black and white photograph from glass plate" attribution="Source gallica.bnf.fr / BnF" url="Chiris Factory.png">
-<param ve-plant-specimen region="3500,3116,3515,3068" jpid="10.5555/al.ap.specimen.k000417315">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000417315">
 {#paragraph19}
 
 Today, pelargonium oil continues to be industrially produced in factories across the globe, most notably in Egypt and China.[^ref34] Significantly, the confusion surrounding pelargonium nomenclature in European contexts also exists in China. More than 50 percent of Chinese packaging uses “Geranium Essential Oil” as its English translation, even though the product is labeled as _Tianzhu Kui You_ (Pelargonium Oil) in Chinese. It is said that the name _Tianzhu Kui_ was introduced by the Chinese horticulturalist Junyu Zhang in 1933 based on his studies in Japan.[^ref35] The words _Tianzhu Kui_ are from ゼラニウム, which is pronounced as _Geranium_ in English.
 <param ve-entity eid="Q79" title="Egypt">
 <param ve-entity eid="Q148" title="People's Republic of China" aliases="China">
-<param ve-image regiont="0,153,1220,1119" manifest="https://iiif.juncture-digital.org/manifest/a4a03fd2510a5b86085485036ecc1957e397abb4670ad1b176e6890394c8a83c">
+<param ve-image region="0,153,1220,1119" manifest="https://iiif.juncture-digital.org/manifest/a4a03fd2510a5b86085485036ecc1957e397abb4670ad1b176e6890394c8a83c">
 {#paragraph20}
 
 ### Hiding in Plain Sight
 
 Although the _Pelargonium_ by any other name would smell as sweet, excepting those that are scentless or pungent, our recognition of its unique identity is long overdue. Indeed, the _Pelargonium_’s almost-forgotten global history is extremely rich, blossoming as it does at the intersections of colonial trade, botany, agriculture, gardening, art, culture, and industry. Telling the story of the _Pelargonium_ as an entity separate from the _Geranium_, illuminates just some of the many ways in which it has been interwoven with human histories–hiding in plain sight, as it were, by virtue of its long-persisting misnomer.
-<param ve-image primary manifest="https://iiif.juncture-digital.org/manifest/092ea486b795bdf4b2545d73dcc1c36ca8d15163873d38a152ce732296480ef9">
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/8f19722ee53f6120fb82cd1037ec48a9e66da7aa5b7c02fe6c7663200ec4adf4">
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/8697604449486b98fdc7f8a7144563f1954a3843f7cb8e384b1f7bf449dc5feb" rotate="270">
+<param ve-image primary region="5,1679,3632,3335" manifest="https://iiif.juncture-digital.org/manifest/092ea486b795bdf4b2545d73dcc1c36ca8d15163873d38a152ce732296480ef9">
+<param ve-image region="0,460,1026,896" manifest="https://iiif.juncture-digital.org/manifest/8f19722ee53f6120fb82cd1037ec48a9e66da7aa5b7c02fe6c7663200ec4adf4">
+<param ve-image region="620,1424,2053,2352" manifest="https://iiif.juncture-digital.org/manifest/8697604449486b98fdc7f8a7144563f1954a3843f7cb8e384b1f7bf449dc5feb" rotate="270">
 {#paragraph21}
 
 ### References
