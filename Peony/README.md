@@ -77,12 +77,12 @@ Peony has an equally long history of medicinal use in Europe. In his herbal, _de
        title="Mattioli, i discorsi, pg. 965"
        url="https://www.biodiversitylibrary.org/pageimage/51722143">
 <param ve-entity eid="Q82778" title="Pliny the Elder">
-param ve-entity eid="Q457191" "Pietro Andrea Mattioli" aliases="Pietro Andrea Mattioli’s|Pietro Andrea Mattioli's">
-param ve-entity eid="Q161482" title="Paeonia mascula">
-param ve-entity eid="Q159738" title="Paeonia officinalis">
-param ve-entity eid="Q2602077" title="emmenagogue">
-param ve-entity eid="Q297776" title="Dioscorides">
-param ve-entity eid="Q3704131" title="de Materia Medica">
+<param ve-entity eid="Q457191" "Pietro Andrea Mattioli" aliases="Pietro Andrea Mattioli’s|Pietro Andrea Mattioli's">
+<param ve-entity eid="Q161482" title="Paeonia mascula">
+<param ve-entity eid="Q159738" title="Paeonia officinalis">
+<param ve-entity eid="Q2602077" title="emmenagogue">
+<param ve-entity eid="Q297776" title="Dioscorides">
+<param ve-entity eid="Q3704131" title="de Materia Medica">
 {#paragraph12}
 
 In addition to the cleansing and purgative properties associated with peony and women’s health, the Roman physician <span eid="Q8778">Galen</span> recommended tying peony root <span data-click-image-zoomto="234,230,191,204">around the necks</span> of children as an effective remedy for “the falling sickness,” which was a common pre-modern phrase for <span id="Q41571">epilepsy</span>.[^9] Throughout the middle ages, peony was used as a medicinal simple for the treatment of epilepsy or convulsions. For example, the female medieval healer and Benedictine abbess, <span id="Q70991">Hildegard von Bingen (1098—1179)</span> instructed “When one falls with epilepsy, place in his mouth [peony] while he lies there, and do this every time he falls with this disease, and he will be finally cured.”[^10] In addition to treating epilepsy, fits, and convulsions, peony was also used as a cure for lunacy and sciatica.
