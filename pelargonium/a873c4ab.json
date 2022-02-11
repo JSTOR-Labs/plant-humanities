@@ -1,0 +1,223 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://visual-essays.app/annotations/?include=description&target=pelargonium/a873c4ab",
+  "type": "AnnotationPage",
+  "partOf": {
+    "id": "http://visual-essays.app/annotations/?include=description&target=pelargonium/a873c4ab",
+    "total": 10,
+    "modified": "2022-02-11T17:20:45.388868"
+  },
+  "startIndex": 0,
+  "items": [
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<div><span class=\"pl-s\">Field of pelargoniums<br></span></div>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:124.24238586425781,122.1290512084961,998.1746063232422,797.6926040649414"
+        },
+        "id": "pelargonium/a873c4ab"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/a873c4ab/8c460778",
+      "seq": 0
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<span class=\"pl-s\">Cutting rose-scented pelargoniums</span>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1513.4263916015625,225.38539123535156,938.7828369140625,657.0525360107422"
+        },
+        "id": "pelargonium/a873c4ab"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/a873c4ab/37871a4c",
+      "seq": 1
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<span class=\"pl-s\"><span class=\"pl-pds\"></span>Harvesting pelargoniums</span>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2735.347412109375,171.9783477783203,933.213134765625,669.3226165771484"
+        },
+        "id": "pelargonium/a873c4ab"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/a873c4ab/f142a840",
+      "seq": 2
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<span class=\"pl-s\">Pelargonium supply at factory</span>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:23.727542877197266,1028.310302734375,1003.7598838806152,738.61572265625"
+        },
+        "id": "pelargonium/a873c4ab"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/a873c4ab/1e0452a9",
+      "seq": 3
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<span class=\"pl-s\">Pelargonium treatment, arrival at distillery</span>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1075.1317138671875,1057.4622802734375,814.8155517578125,689.7908935546875"
+        },
+        "id": "pelargonium/a873c4ab"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/a873c4ab/aeb2f957",
+      "seq": 4
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<span class=\"pl-s\">Pelargonium treatment, distillery in operation</span>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1940.24462890625,1054.588134765625,834.934326171875,711.346923828125"
+        },
+        "id": "pelargonium/a873c4ab"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/a873c4ab/f202e35c",
+      "seq": 5
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<span class=\"pl-s\">Pelargonium treatment, emptying of still</span>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2865.714111328125,1064.6475830078125,833.497314453125,696.9761962890625"
+        },
+        "id": "pelargonium/a873c4ab"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/a873c4ab/6ec5bed3",
+      "seq": 6
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<span class=\"pl-s\">Pelargonium distillation</span>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:6.05225133895874,1804.4964599609375,1359.4628853797913,972.8927001953125"
+        },
+        "id": "pelargonium/a873c4ab"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/a873c4ab/2a35698f",
+      "seq": 7
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<span class=\"pl-s\">Pelargonium treatment, harvesting oil</span>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:1435.931396484375,1836.1119384765625,1107.976806640625,947.0255126953125"
+        },
+        "id": "pelargonium/a873c4ab"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/a873c4ab/fc74fa9c",
+      "seq": 8
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<span class=\"pl-s\">Pelargonium treatment, waste</span>",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:2660.310302734375,1827.489501953125,1080.67236328125,934.091796875"
+        },
+        "id": "pelargonium/a873c4ab"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "pelargonium/a873c4ab/dee6d77e",
+      "seq": 9
+    }
+  ]
+}
