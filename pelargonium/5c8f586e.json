@@ -209,24 +209,4 @@
     "id": "pelargonium/5c8f586e/7e8d86d8",
     "seq": 5
   },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": "test",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://free.iiifhosting.com/iiif/a77225be5738e20031eed652b283ccf816afeedf94b8caae8e3989c17096186e",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:1270.9688720703125,1831.927734375,267.5430908203125,205.0272216796875"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#e3363835-d835-4d90-a014-63eeee861d45"
-  }
 ]
