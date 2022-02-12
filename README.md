@@ -111,7 +111,7 @@
 ![](/images/thumbnails/dittany.jpg)
 
 ##
-[**Dracaena draco: The Mystery of Dragon's Blood**](/dragon_tree)
+[**Dracaena draco: The Mystery of Dragon’s Blood**](/dragon_tree)
 
 - Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian
 
