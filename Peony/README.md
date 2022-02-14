@@ -5,7 +5,8 @@
        eid="Q106962871"
        about="Q147105"
        layout="vtl"
-       author="Ashley Buchanan">
+       author="Ashley Buchanan"
+       description=“Peonies have long been coveted for their beauty and remain one of the most sought-after ornamental flowers in the world. Yet, they also have an equally long history—over two millennia—as a powerful medicinal therapeutic across societies in Europe and Asia. Exploring some of its history, this visual narrative of the genus Peony brings together herbarium specimens, herbals, genre paintings, an illuminated manuscript, archival documents, and many more sources. Letters and a recipe preserved in the Florence State Archive, for example, provide intriguing clues about the use of peony in a miraculous infant convulsion powder and serve as a point of departure for recuperating some now-forgotten episodes from the plant’s fascinating history.”>
 
 <param title="epilepsy" eid="Q41571" aliases="mal caduco">
 <param title="precipitation" eid="Q113796">
