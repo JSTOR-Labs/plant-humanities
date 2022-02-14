@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "'black eyed pease'",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://tile.loc.gov/storage-services/master/mss/mgw/mgw2/014/2340228.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:462.9048156738281,1480.1497802734375,520.7257995605469,117.26416015625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e7e6fa51-4c40-4704-bdb5-0afc12fe012b"
+  }
+]
