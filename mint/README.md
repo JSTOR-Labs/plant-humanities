@@ -9,7 +9,8 @@
        num-images="10" 
        num-primary-sources="12" 
        num-specimens="0" 
-       author="Victoria Pickering">
+       author="Victoria Pickering"
+       description=”Mint is ubiquitous. Species of the genus Mentha, such as bergamot mint, spearmint, pennyroyal, and peppermint, are found across parts of Africa, Asia, Europe, Australia, and North America. And there are more than 7,000 of them. The ubiquity of mint in our daily lives, both the plant and commercial products made from it, has obscured some lesser-known aspects of the aromatic perennial and its remarkable significance to human history. Indeed, as this visual narrative clarifies, mint reveals something of the early difficulties of botanical exchange and naming; speaks to the local and global movement of plants; and exposes changes and developments in medical thought and practices over time.”>
 
 <param title="Samuel Dale" eid="Q1538175" aliases="Mr. Dale">
 
