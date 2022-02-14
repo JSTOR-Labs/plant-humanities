@@ -11,7 +11,8 @@ Arthur Chapman, March 17, 2011, Flickr, CC BY-NC-SA 2.0"
 	num-specimens="0"
 	num-images="0"
 	num-primary-sources="0"
-	author="Christina Emery, Rachel Hirsch, and Melinda Susanto">
+	author="Christina Emery, Rachel Hirsch, and Melinda Susanto"
+        description=”Domesticated cassava, Manihot esculenta, is one of the world’s major food crops. Indeed, processed cassava is enjoyed by 600 million people worldwide and in Nigeria, the world’s largest producer, it is a primary source of carbohydrates for many. Because cassava occupies this pride of place in the global food system, it may be surprising to learn that the unprocessed plant is poisonous to humans. How did cassava transform from a poisonous tuber into a major food staple, and from an exclusive dweller of South America into a cosmopolitan citizen of the world? To answer these questions, this visual essay looks at how human interactions with cassava helped shape the plant into the significant food crop that it is today.”>
 
 ### Introduction
 
