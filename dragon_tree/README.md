@@ -8,7 +8,9 @@
 	num-specimens="1"
 	num-images="17"
 	num-primary-sources="16"
-	author="Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian">
+	author="Thomas C. Anderson, Cati Kalinoski, and Lucas Mertehikian"
+        description=““Dragon’s blood” is a brilliant red and viscous substance. Though the epithet elicits images of medieval myths, the substance is neither blood, nor ooze from the wound of fire-breathing lizards. Rather, it is a type of resin that oozes from cuts in the bark of certain trees. While two members of today’s Draceana genus, D. draco and D. cinnabari, are most commonly referred to as the source of the resin in historical sources, there is a level of botanical and geographical ambiguity that contributes to the mythical status of “Dragon’s blood.” This visual narrative recounts the millennia-long smolder of the mystery surrounding the identification of the true source of the resin and how human demand for it contributed to the ailing health of D. draco in the twenty-first century Anthropocene.”>
+	
 <param title="Dracaena" eid="Q158009" article="dragon_tree_species">
 
 ### A Desensitizing Sensory Experience
