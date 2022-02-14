@@ -9,7 +9,8 @@
 	   num-images="11"
 	   num-specimens="0"
 	   num-primary-sources="6"
-	   author="Ashley Buchanan">
+	   author="Ashley Buchanan"
+       	   description=“The banana is a ubiquitous and easy-to-recognize fruit. Yet, that familiarity has tended to obscure the story of the modern-day domesticated banana. By peeling back some cultural stereotypes associated with the banana, this visual narrative encourages readers to consider the whole plant—a tree-like perennial herb of the genus Musa. It also uses interactive visualizations to recount the domesticated banana’s long history of human intervention and migration, while, at the same time, demonstrating that modern plant taxonomy did little to clear up the confusion surrounding identifications and names of banana plants.”>
 
 <param title="Hartekamp" eid="Q18771183">
 <param title="ploidy" eid="Q118406" aliases="diploid">
