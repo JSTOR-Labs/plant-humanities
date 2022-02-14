@@ -8,7 +8,8 @@
 	   num-images="11"
 	   num-specimens="0"
 	   num-primary-sources="6"
-	   author="Ashley Buchanan">
+	   author="Ashley Buchanan"
+           description=“Dittany has been used as a medicinal herb, particularly for women’s health, for more than 2,000 years. More specifically, the aromatic herbaceous plant has been associated with issues of menstruation, as well as labor and delivery. Herbals of the early modern period often described three forms of dittany that now correlate to Origanum dictamnus, Dictamnus albus, and Ballota pseudodictamnus. To explore the significance of dittany to women’s agency over their health and fertility through the ages, this visual narrative tracks descriptions of the plant in herbals and recipes and discusses women’s knowledge and use of the medicinal herb in relation to depictions of pregnancy and women recovering from childbirth.”>
      
 ### Herbs and Women’s Health
 Twenty-first century women generally assume that we enjoy greater agency over health and fertility than women of the pre-modern world, thanks to scientific advancements in women’s health as well as the availability and effectiveness of <span eid="Q122224">contraceptives</span>. We accept that without modern obstetrics, gynecology, and hormonal contraceptives, our foremothers were simply victims of biology—if they survived the perils of their first pregnancy and childbirth, they spent much of their lives pregnant. While it is true that for much of history women did not have reproductive knowledge derived from technological advancements and modern gynecology, it is incorrect to assume that they had no reproductive knowledge or choice. In fact, for much of history, women’s agency over their health and fertility was due in large part to their knowledge of medicinal herbs—herbs like <span eid="Q1227336">dittany</span>.
