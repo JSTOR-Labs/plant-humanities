@@ -9,7 +9,8 @@
 	   num-images="6"
 	   num-specimens="2"
 	   num-primary-sources="11"
-	   author="Julia Fine">
+	   author="Julia Fine"
+           description=“Turmeric, Curcuma longa, is a flowering plant that originated in South and Southeast Asia. Turmeric’s long history of human use has focused on a part of the plant that grows beneath the soil—its rhizome. The subterranean stem is used as a spice, medicine, and culinary and dyeing agent, which produces a brilliant yellow-orange color. A cultural history examining “the herb of the sun” and its consumption reveals that, in addition to being an important ingredient in South Asian cuisine, this foodstuff’s distinctive color and taste were integral parts of the mechanism through which British men and women could perform the ideological work of empire.”>
 
 <param title="Berberis" eid="Q158503" aliases="barbarie bark">
 
