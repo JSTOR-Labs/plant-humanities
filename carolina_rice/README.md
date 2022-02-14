@@ -9,7 +9,8 @@
        num-images="6"
        num-specimens="1"
        num-primary-sources="7"
-       author="Julia Fine">
+       author="Julia Fine"
+       description=“Carolina rice is a historical strain of the plant species Oryza sativa. Lost to history in the Reconstruction era, the “heritage grain” is now making a comeback thanks to efforts to bring back this historical strain and develop new varieties. Yet, as this visual narrative reveals, behind Carolina Rice is a long and fraught history, which manifests stories of settler colonialism, slavery, and famine. Indeed, the plant’s history demonstrates how the British Empire and the newly independent America were built on the labor and knowledge of enslaved people.”>
 
 <param title="American Civil War" eid="Q8676" aliases="Civil War">
 

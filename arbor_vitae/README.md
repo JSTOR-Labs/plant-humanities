@@ -9,7 +9,8 @@
 	  num-images="8"
 	  num-specimens="5"
 	  num-primary-sources="7"
-	  author="Ashley Buchanan">
+	  author="Ashley Buchanan"
+          description=“The histories of plants are often embroiled in mystery, as is the case with the “tree of life,” or “arbor vitæ.” More specifically, the botanical identification of the arbor vitæ has remained a source of speculation and intrigue for centuries. To get to the root of the mystery, this visual narrative recounts how the St. Lawrence Iroquois used their medicinal knowledge of the tree to make a decoction (or tea) that saved the lives of French explorers in the mid-1500s. In doing so, it reveals how knowledge of the life-giving tree was lost and which forms of evidence have been used to propose some botanical identifications of the plant.”>
 	  
 <param title="Montreal" eid="Q340">
 <param title="Quebec" eid="Q2145">
@@ -19,7 +20,7 @@
 
 ### The Mysterious Tree of Life
 
-In his 1640 herbal _Theatrum Botanicum_, John Parkinson described the “tree of life,” or “arbor vitæ,” as ["a tall tree being similar to a cypress and covered by a dark reddish bark on the trunk and an even redder bark on the branches."](https://www.biodiversitylibrary.org/page/56601375#page/1502/mode/1up) Parkinson went on to explain that the tree, unknown to the ancients, originated in the New World and was introduced to Europe by the French. He explained that while it was presented to the French King, Francis I, as the tree of life he had no idea why. Clearly, Parkinson was unaware of the miraculous stories associated with arbor vitæ.
+In his 1640 herbal _Theatrum Botanicum_, John Parkinson described the “tree of life,” or “arbor vitæ,” as [“a tall tree being similar to a cypress and covered by a dark reddish bark on the trunk and an even redder bark on the branches.”](https://www.biodiversitylibrary.org/page/56601375#page/1502/mode/1up) Parkinson went on to explain that the tree, unknown to the ancients, originated in the New World and was introduced to Europe by the French. He explained that while it was presented to the French King, Francis I, as the tree of life he had no idea why. Clearly, Parkinson was unaware of the miraculous stories associated with arbor vitæ.
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/0908d28fe77ba1c753f21d6daebfe5e22c0ae5cb484691f9a4cbdf531b7df40d">
 <param title="John Parkinson" eid="Q256288">
 <param title="Francis I of France" eid="Q129857" aliases="Francis I">
@@ -37,7 +38,7 @@ Captain Cartier had noticed that some of the local Indians also suffered from th
 <param ve-map-layer geojson active url="/geojson/St_Lawrence_Iroquoians.json">
 {#paragraph3}
 
-Thanks to the medicinal knowledge of the St. Lawrence Iroquois, Captain Cartier and crew returned home safely with fascinating tales of “New France” and the local Indigenous populations. Just five years later, in 1541, Cartier was sent back to the region on a colonizing expedition. In the end, neither of Cartier’s explorations yielded material wealth for the crown. As both were considered financial failures, there was little effort to publish any accounts of either journey. Fortunately, a Venetian diplomat and cartographer was interested in Cartier’s tales of explorations. In 1550, Giovanni Battista Ramusio translated and published a collection of travel narratives, [*Navigationi et viaggi,*](https://archive.org/details/dellenavigationi00ramu/page/n835) which included a first-hand account of Cartier’s first voyage and interactions with the St. Lawrence Iroquois.[^ref2] Thirty years later, John Florio translated Ramusio’s account of Cartier’s voyages into English. Cartier’s own account in French, however, would not be published until 1598.
+Thanks to the medicinal knowledge of the St. Lawrence Iroquois, Captain Cartier and crew returned home safely with fascinating tales of “New France” and the local Indigenous populations. Just five years later, in 1541, Cartier was sent back to the region on a colonizing expedition. In the end, neither of Cartier’s explorations yielded material wealth for the crown. As both were considered financial failures, there was little effort to publish any accounts of either journey. Fortunately, a Venetian diplomat and cartographer was interested in Cartier’s tales of explorations. In 1550, Giovanni Battista Ramusio translated and published a collection of travel narratives, [_Navigationi et viaggi_,](https://archive.org/details/dellenavigationi00ramu/page/n835) which included a first-hand account of Cartier’s first voyage and interactions with the St. Lawrence Iroquois.[^ref2] Thirty years later, John Florio translated Ramusio’s account of Cartier’s voyages into English. Cartier’s own account in French, however, would not be published until 1598.
 <param ve-map title="Locations where accounts of Cartier's expeditions were published." center="48.402007, 2.700250" basemap="Esri_WorldPhysical" zoom="4.5" stroke-width="0" show-labels>
 <param ve-map-layer geojson active url="/geojson/cartier_publishing.json">
 <param title="John Florio" eid="Q982707" aliases="Florio">
@@ -51,7 +52,7 @@ According to Ramusio’s narrative, the tree used to cure the French explorers w
 
 ### Indigenous Coniferous Medicinal Knowledge
 
-Through linguistic, botanical, and historical analysis numerous trees have been put forward as the miraculous tree that saved Cartier and his men–the balsam fir (*Abies balsamea*), white spruce (*Picea glauca*), red spruce (*Picea rubens*), black spruce (*Picea mariana*), eastern white pine (*Pinus strobus*), red pine (*Pinus resinosa*), white cedar (*Thuja occidentalis*), and eastern hemlock (*Tsuga canadensis*). Even sassafras (*Sassafras albidum*) has been considered, although it is generally agreed that based on sixteenth-century descriptions and its natural distribution, sassafras could not be a candidate.
+Through linguistic, botanical, and historical analysis numerous trees have been put forward as the miraculous tree that saved Cartier and his men–the balsam fir (_Abies balsamea_), white spruce (_Picea glauca_), red spruce (_Picea rubens_), black spruce (_Picea mariana_), eastern white pine (_Pinus strobus_), red pine (_Pinus resinosa_), white cedar (_Thuja occidentalis_), and eastern hemlock (_Tsuga canadensis_). Even sassafras (_Sassafras albidum_) has been considered, although it is generally agreed that based on sixteenth-century descriptions and its natural distribution, sassafras could not be a candidate.
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/7abe92680267a8d60322bf353cbc5b915f2a372fbe7feaa4ecb4e0d5ecfb1326">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/f93acafc668f8bd6d6e33e405ee35309adebd17f166b17c12b176602ce525d8d">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/87622b8792fafd1cdb17ab278dbfba4b8f8ae21017b4334c3b781315229196d3">
@@ -68,7 +69,7 @@ Through linguistic, botanical, and historical analysis numerous trees have been 
 <param title="Sassafras albidum" eid="Q584469">
 {#paragraph6}
 
-Sixteenth- and seventeenth-century European herbals consistently describe the tree of life as a *Thuja* (a genus of coniferous trees) or similar to a cypress, without fruit (although the cone is now considered a fruit), and very aromatic. From this we can conclude that the tree of life was indeed an evergreen coniferous tree native to the area around present-day Quebec and Montreal.
+Sixteenth- and seventeenth-century European herbals consistently describe the tree of life as a _Thuja_ (a genus of coniferous trees) or similar to a cypress, without fruit (although the cone is now considered a fruit), and very aromatic. From this we can conclude that the tree of life was indeed an evergreen coniferous tree native to the area around present-day Quebec and Montreal.
 <param ve-map center="Q2145" basemap="Esri_WorldPhysical" zoom="6" stroke-width="0">
 <param ve-map-layer geojson active url="/geojson/ThujaDistribution.json">
 {#paragraph7}
@@ -116,6 +117,7 @@ From Belon’s work, we can trace the knowledge, or lack of knowledge, of the ar
 <param title="Castore Durante" eid="Q205031">
 <param title="Gaspard Bauhin" eid="Q123612">
 <param title="Matthias de l'Obel" eid="Q1860320">
+<param title="John Parkinson" eid="Q256288">
 {#paragraph14}
 
 It is clear that by the mid-seventeenth century much of the medicinal knowledge associated with the arbor vitæ was lost. Further complicating matters of identification was the rate at which the arbor vitæ spread through Europe and the tendency to call any conifer imported from North America an arbor vitæ. Conversely, many American conifers were simply named in terms of their European counterparts and identified as a thuja or cedrus. Thus, by the end of the sixteenth century, the arbor vitæ was also known as [“Thuja theophrasti”](https://bibdigital.rjb.csic.es/viewer/10754/?offset=#page=512&viewer=picture&o=bookmark&n=0&q=) and [“Cedrus Lycia.”](https://bibdigital.rjb.csic.es/viewer/13070/?offset=#page=634&viewer=picture&o=bookmark&n=0&q=)
@@ -123,7 +125,7 @@ It is clear that by the mid-seventeenth century much of the medicinal knowledge 
 <param ve-map-layer geojson active title= "Spread of Arbor Vitæ" url="/geojson/thuja in europe.json">
 {#paragraph15}
 
-In 1753, botanist Carl Linnaeus’s pioneering work, _Systema Naturae_, which cemented a system of binomial classification for plants, identified the arbor vitæ, the _Thuja Theophrasis_, and the _Thuja strobilis lævibus_ as the same plant, which he reclassified as [*Thuja occidentalis*.](https://www.biodiversitylibrary.org/page/359023#page/444/mode/1up) Since then, *Thuja occidentalis* has generally been accepted as the Ameda tree that saved Cartier and his men.
+In 1753, botanist Carl Linnaeus’s pioneering work, _Systema Naturae_, which cemented a system of binomial classification for plants, identified the arbor vitæ, the _Thuja Theophrasis_, and the _Thuja strobilis lævibus_ as the same plant, which he reclassified as [_Thuja occidentalis_.](https://www.biodiversitylibrary.org/page/359023#page/444/mode/1up) Since then, _Thuja occidentalis_ has generally been accepted as the Ameda tree that saved Cartier and his men.
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/0908d28fe77ba1c753f21d6daebfe5e22c0ae5cb484691f9a4cbdf531b7df40d">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/5ddf7fb3ebedac7dfd03f38e298089ea413f9ca7a0ccf76c415d19133ca7e1a9">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/22c3a8c2ae91a7d1f11a6465f7d822b50bb1c2112b206977bef1fef8de93a855">
@@ -131,14 +133,14 @@ In 1753, botanist Carl Linnaeus’s pioneering work, _Systema Naturae_, which ce
 <param title="Carl Linnaeus" eid="Q1043">
 {#paragraph16}
 
-Although tales of Cartier’s explorations were not initially widely published, interest in them, as well as identifying the tree that miraculously cured scurvy, increased in the eighteenth and early nineteenth centuries as the European colonial enterprise expanded. Numerous naturalists, botanists, and historians have attempted to confirm the identity of Ameda as *Thuja occidentalis* or prove it wrong. While *Thuja occidentalis* remains the consensus, other strong contenders are the white spruce and the eastern white pine, since both have names in the Mohawk language, “onnita” and “ohnehta” respectively, that sound similar to later European spelling varieties of Ameda (Anneda, Annedda, and Hanneda). Finally, many argue that it was the balsam fir, as it has the highest levels of vitamin C (270 mg) of any North American conifer.
+Although tales of Cartier’s explorations were not initially widely published, interest in them, as well as identifying the tree that miraculously cured scurvy, increased in the eighteenth and early nineteenth centuries as the European colonial enterprise expanded. Numerous naturalists, botanists, and historians have attempted to confirm the identity of Ameda as _Thuja occidentalis_ or prove it wrong. While _Thuja occidentalis_ remains the consensus, other strong contenders are the white spruce and the eastern white pine, since both have names in the Mohawk language, “onnita” and “ohnehta” respectively, that sound similar to later European spelling varieties of Ameda (Anneda, Annedda, and Hanneda). Finally, many argue that it was the balsam fir, as it has the highest levels of vitamin C (270 mg) of any North American conifer.
 <param ve-map title="Territory of the First French Empire (blue) and Second French Empire (light blue)" center="14.996281, 6.712570" basemap="Esri_WorldPhysical" zoom="2" stroke-width="0">
 <param ve-map-layer geojson active url="/geojson/French Empire.json">
 {#paragraph17}
 
 ### Freedom From Scurvy
 
-The Scottish surgeon James Lind (1716–1794) is typically credited for solving the mystery of scurvy and discovering its cure. But as Lind explained in his 1772 [*A treatise of the scurvy,*](https://books.google.com/books?id=T1OT3tYmh5wC&printsec=frontcover&dq=A+treatise+of+the+scurvy.+In+three+parts,+Lind&hl=it&sa=X&ved=0ahUKEwiWmP2Kw_vlAhVBrlkKHa9NDYwQ6AEILDAA#v=onepage&q=cartier&f=false) he was keenly aware of the therapeutic properties of “spruce beer,” which he knew to be a common drink of the indigenous peoples of Newfoundland and because of which “they kept pretty free from the scurvy.” Lind also mentioned Cartier’s Ameda tree and, like so many before him, offered an identification, calling it “the large swampy American spruce tree.” Lind’s treatise promoted a decoction of “the tops, cones, leaves, or even green bark and wood of these trees” as an excellent antiscorbutic medicine. However, Lind saw “spruce beer” and decoctions of coniferous trees more as preventative medicines.
+The Scottish surgeon James Lind (1716–1794) is typically credited for solving the mystery of scurvy and discovering its cure. But as Lind explained in his 1772 [_A treatise of the scurvy_,](https://books.google.com/books?id=T1OT3tYmh5wC&printsec=frontcover&dq=A+treatise+of+the+scurvy.+In+three+parts,+Lind&hl=it&sa=X&ved=0ahUKEwiWmP2Kw_vlAhVBrlkKHa9NDYwQ6AEILDAA#v=onepage&q=cartier&f=false) he was keenly aware of the therapeutic properties of “spruce beer,” which he knew to be a common drink of the indigenous peoples of Newfoundland and because of which “they kept pretty free from the scurvy.” Lind also mentioned Cartier’s Ameda tree and, like so many before him, offered an identification, calling it “the large swampy American spruce tree.” Lind’s treatise promoted a decoction of “the tops, cones, leaves, or even green bark and wood of these trees” as an excellent antiscorbutic medicine. However, Lind saw “spruce beer” and decoctions of coniferous trees more as preventative medicines.
 <param ve-map title="Newfoundland" center="Q48335" basemap="Esri_WorldPhysical" zoom="5">
 <param ve-map-layer geojson active title="Newfoundland" url="/geojson/Newfoundland.json">
 <param title="James Lind" eid="Q709525">
@@ -159,10 +161,10 @@ Sadly, we may never know for sure exactly which tree was used to make the medici
 [^ref1]: For the purposes of this work, “Indigenous people(s)” refers to a cultural group(s) in an ecological area that developed a successful subsistence base from the natural resources available in that area.
 [^ref2]: As a diplomat, Rasmusio was said to have used his political influence to collect original travel narratives. 
 [^ref3]: [https://www.thecanadianencyclopedia.ca/en/article/coniferous-trees](https://www.thecanadianencyclopedia.ca/en/article/coniferous-trees)
-[^ref4]: Don J. Durzan, “Arginine, scurvy and Cartier's ‘tree of life,’” _Journal of Ethnobiology and Ethnomedicine_ 5:5 (2009), [DOI:10.1186/1746-4269-5-5](https://ethnobiomed.biomedcentral.com/articles/10.1186/1746-4269-5-5)
+[^ref4]: Don J. Durzan, “Arginine, scurvy and Cartier’s ‘tree of life,’” _Journal of Ethnobiology and Ethnomedicine_ 5:5 (2009), [DOI:10.1186/1746-4269-5-5](https://ethnobiomed.biomedcentral.com/articles/10.1186/1746-4269-5-5)
 [^ref5]: Harriet V. Kuhnlein and Nancy J. Turner, _Traditional Plant Foods of Canadian Indigenous Peoples: Nutrition, Botany and Use_ (New York: Routledge, 1991).
 [^ref6]: James William Herrick, _Iroquois Medical Botany_ (Syracuse: Syracuse University Press, 1977).
 [^ref7]: Durzan, “Arginine, scurvy and Cartier's ‘tree of life.’”
 [^ref8]: Durzan. 
 [^ref9]: Bauhin’s 1598 herbal is actually an edited and expanded edition of Mattioli’s seminal work, _I Discorsi_. Arbor vitæ tree does not appear in Mattioli’s original herbal.
-[^ref10]: James Lind, _A Treatise on the Scurvy: In Three Parts, Containing an Inquiry Into the Nature, Causes, an Cure, of that Disease, Together with a Critical and Chronological View of what Has Been Published on the Subject,_ 3rd ed. (London: S. Crowder et al., 1772).
+[^ref10]: James Lind, _A Treatise on the Scurvy: In Three Parts, Containing an Inquiry Into the Nature, Causes, an Cure, of that Disease, Together with a Critical and Chronological View of what Has Been Published on the Subject_, 3rd ed. (London: S. Crowder et al., 1772).

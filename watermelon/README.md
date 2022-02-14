@@ -8,7 +8,8 @@
 	num-specimens="3"
 	num-images="29"
 	num-primary-sources="6"
-	author="Anna Lawrence, Camilo Uribe Botta, and May Wang">
+	author="Anna Lawrence, Camilo Uribe Botta, and May Wang"
+        description=“Today, watermelons are known and loved for their refreshing, sweet, red flesh. It might therefore be surprising to learn that, for most of its millennia-long history as a cultivated crop, the watermelon was known as a pale, hard, sometimes bitter fruit with relatively tender rind. And, more than just fruit, the watermelon has been a source of food, medicine, and drink throughout its global history, with aspects of the fruit becoming bound up with stereotypes of race and class in the 1800s. Bringing together a wealth of primary sources, this visual narrative of the watermelon, Citrullus lanatus, elucidates how a range of cultural and historical meanings accumulated throughout the fruit’s rich history.”>
 	
 <param title="Dianthius chinensis" eid="Q159013" aliases="dianthus flower">
 <param title="Crocus" eid="Q157806" aliases="crocuses">
@@ -35,7 +36,7 @@ The precise historical origins of the watermelon are obscured by its broad geogr
 <param title="genus" eid="Q132239" aliases="Citrullus">
 <param title="phenotypes" eid="Q104053" aliases="phenotypes">
 <param title="Nile Valley" eid="Q3392">
-<param title="Byzantine mosaics" eid="Q22948562" aliases="byzantine mosaics">
+<param title="byzantine mosaics" eid="Q3324686" aliases="Byzantine mosaics">
 {#paragraph2}
 
 In Africa’s arid savanna regions, watermelons were originally welcomed as sources of liquid, their flesh generally being cooked or beaten to a pulp to extract the juice. In the Kalahari Desert in southern Africa, the multiple uses of the flesh, rind, and seeds that were eaten fresh, cooked, and dried also helped some population groups to remain sedentary and hydrated throughout both wet and dry seasons.[^ref5] As they became domesticated, watermelons were bred to yield softer and sweeter flesh and exclude such less desirable traits as the mucilaginous egusi seeds or the hard, bitter flesh of the citron melon, although western and southern African cuisines still make use of them today.[^ref6]
@@ -78,7 +79,7 @@ In fact, centuries later, in 1888, watermelons were still being promoted as a fa
 
 ### Watermelons in Art around the World
 
-By the ninth and twelfth centuries, watermelons had spread, respectively, to India and China, travelling regional trade routes.[^ref11] Distinguished by its sinewy vines, the fruit was associated with vitality and playfulness and soon became the object of artistic attention. Fourteenth-century Japanese representations of arhats—those who reached nirvana in the Buddhist tradition—for instance, show watermelons as a religious offering. Korean paintings from the Joseon Dynasty by the female artist Shin Saimdang (1504–1551) [depict watermelons](https://www.museum.go.kr/site/eng/relic/represent/view?relicId=2061) alongside flowers, butterflies, and mice, with their arching vines and exposed seeds symbolizing a wish for healthy and abundant children.[^ref12] One of Shin’s depictions of watermelons appears on the 5,000 won banknote today.[^ref13]
+By the ninth and twelfth centuries, watermelons had spread, respectively, to India and China, travelling regional trade routes.[^ref11] Distinguished by its sinewy vines, the fruit was associated with vitality and playfulness and soon became the object of artistic attention. Fourteenth-century Japanese representations of <span eid="Q225932">arhats</span>—those who reached nirvana in the Buddhist tradition—for instance, show watermelons as a religious offering. Korean paintings from the Joseon Dynasty by the female artist Shin Saimdang (1504–1551) [depict watermelons](https://www.museum.go.kr/site/eng/relic/represent/view?relicId=2061) alongside flowers, butterflies, and mice, with their arching vines and exposed seeds symbolizing a wish for healthy and abundant children.[^ref12] One of Shin’s depictions of watermelons appears on the 5,000 won banknote today.[^ref13]
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/f6d42910f387363ba7c8158829f2a7bfbed2b2d696654f6b69d547d853eac3bb"
 	fit="contain">

@@ -6,7 +6,8 @@
        banner="/images/banners/heliconia.jpg"
        eid="Q105748796"
 	about="Q624242"
-       layout="vtl">
+       layout="vtl"
+       description=“Heliconias grow naturally in the tropical forests of two distinct regions: South American and the South Pacific. These iconic tropical plants–with visually alluring sculptural bracts, in stunning colors–have been widely distributed in ornamental gardens and the horticultural trade since the 1700s. Yet until recently, heliconias were little known to scientists because they are hard to collect in the field and their character is difficult to capture on the herbarium sheet. This visual narrative of the genus Heliconia draws on a wealth of new scientific information about the plant to show how such discoveries illuminate the sophistication of plant–animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.”>
 
 ### From Mount Helicon to the Amazon
 

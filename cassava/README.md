@@ -11,7 +11,8 @@ Arthur Chapman, March 17, 2011, Flickr, CC BY-NC-SA 2.0"
 	num-specimens="0"
 	num-images="0"
 	num-primary-sources="0"
-	author="Christina Emery, Rachel Hirsch, and Melinda Susanto">
+	author="Christina Emery, Rachel Hirsch, and Melinda Susanto"
+        description=”Domesticated cassava, Manihot esculenta, is one of the world’s major food crops. Indeed, processed cassava is enjoyed by 600 million people worldwide and in Nigeria, the world’s largest producer, it is a primary source of carbohydrates for many. Because cassava occupies this pride of place in the global food system, it may be surprising to learn that the unprocessed plant is poisonous to humans. How did cassava transform from a poisonous tuber into a major food staple, and from an exclusive dweller of South America into a cosmopolitan citizen of the world? To answer these questions, this visual essay looks at how human interactions with cassava helped shape the plant into the significant food crop that it is today.”>
 
 ### Introduction
 
@@ -96,7 +97,7 @@ Although the Caribbean is not considered cassava’s native habitat, the plant w
 <param title="Greater Antilles" eid="Q128011">
 <param title="Haiti" eid="Q790">
 <param title="Barbados" eid="Q244">
-<param title="Maria Sibylla Merian" eid="Q62530">
+<param title="Maria Sibylla Merian" eid="Q62530" aliases="Maria Sibylla Merian’s">
 <param ve-map title="Greater Antilles (yellow) including Haiti (purple), and Barbados (magenta)." basemap="Esri_WorldPhysical" center="19.1981, -71.06222" zoom="5.2" marker-type="none" stroke="none">
 <param ve-map-layer geojson active url="GreaterAntilles_Haiti_Barbados.json" title="Greater Antilles including Haiti, and Barbados">
 {#paragraph11}
@@ -176,7 +177,7 @@ In her painting _Cassava Garden_, Crosby juxtaposes a cassava plant with an Indi
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/2615931e360860e519f958d42f76a8c84093f70a7103146efd46c38c977a2491">
 {#paragraph22}
 
-On the other hand, Crosby associates cassava with Nigerian village life, which is why her painting incorporates imagery from her childhood in Nigeria. Along the right side of the painting, we see a textile featuring a portrait of her mother, which came from her mother's funeral.[^ref37] Photographs from Nigeria are also incorporated into the cassava’s leaves, creating a layered effect that Crosby refers to as a “visual vibration.”[^ref38] This melding of present and past in the juxtaposition of a South American-cum-Nigerian plant and an Indian rubber tree makes these connections across time and space so strong. Much like its vegetal subject itself, Crosby’s painting seems to ask, “When does something belong to a place?”[^ref39]
+On the other hand, Crosby associates cassava with Nigerian village life, which is why her painting incorporates imagery from her childhood in <span eid="Q1033">Nigeria</span>. Along the right side of the painting, we see a textile featuring a portrait of her mother, which came from her mother's funeral.[^ref37] Photographs from Nigeria are also incorporated into the cassava’s leaves, creating a layered effect that Crosby refers to as a “visual vibration.”[^ref38] This melding of present and past in the juxtaposition of a South American-cum-Nigerian plant and an Indian rubber tree makes these connections across time and space so strong. Much like its vegetal subject itself, Crosby’s painting seems to ask, “When does something belong to a place?”[^ref39]
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/2615931e360860e519f958d42f76a8c84093f70a7103146efd46c38c977a2491">
 {#paragraph23}
 
