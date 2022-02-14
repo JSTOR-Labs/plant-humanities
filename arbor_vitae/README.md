@@ -9,7 +9,8 @@
 	  num-images="8"
 	  num-specimens="5"
 	  num-primary-sources="7"
-	  author="Ashley Buchanan">
+	  author="Ashley Buchanan"
+          description=“The histories of plants are often embroiled in mystery, as is the case with the “tree of life,” or “arbor vitæ.” More specifically, the botanical identification of the arbor vitæ has remained a source of speculation and intrigue for centuries. To get to the root of the mystery, this visual narrative recounts how the St. Lawrence Iroquois used their medicinal knowledge of the tree to make a decoction (or tea) that saved the lives of French explorers in the mid-1500s. In doing so, it reveals how knowledge of the life-giving tree was lost and which forms of evidence have been used to propose some possible botanical identifications of the plant.”>
 	  
 <param title="Montreal" eid="Q340">
 <param title="Quebec" eid="Q2145">
