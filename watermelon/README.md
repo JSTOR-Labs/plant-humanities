@@ -8,7 +8,8 @@
 	num-specimens="3"
 	num-images="29"
 	num-primary-sources="6"
-	author="Anna Lawrence, Camilo Uribe Botta, and May Wang">
+	author="Anna Lawrence, Camilo Uribe Botta, and May Wang"
+        description=“Today, watermelons are known and loved for their refreshing, sweet, red flesh. It might therefore be surprising to learn that, for most of its millennia-long history as a cultivated crop, the watermelon was known as a pale, hard, sometimes bitter fruit with relatively tender rind. And, more than just fruit, the watermelon has been a source of food, medicine, and drink throughout its global history, with aspects of the fruit becoming bound up with stereotypes of race and class in the 1800s. Bringing together a wealth of primary sources, this visual narrative of the watermelon, Citrullus lanatus, elucidates how a range of cultural and historical meanings accumulated throughout the fruit’s rich history.”>
 	
 <param title="Dianthius chinensis" eid="Q159013" aliases="dianthus flower">
 <param title="Crocus" eid="Q157806" aliases="crocuses">
