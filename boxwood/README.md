@@ -8,7 +8,9 @@
 	num-images="0"
 	num-specimens="0"
 	num-primary-sources="0"
-	author="Anatole Tchikine">
+	author="Anatole Tchikine"
+       	description=”Boxwood—a genus of evergreen shrubs—enjoys great commercial success as ornamental garden plants. That success and the health of established plants are however under threat. Boxwood blight—a fungal disease—has devastated gardens across the world since it was first reported in 1994. To raise awareness about the disease and appreciate the significance of boxwood, this visual narrative recounts how the plant, after centuries of disparagement and neglect, succeeded in taking over the garden world. Rediscovering some merits of this humble yet resilient plant!”>
+
 <param title="Boxwood blight" eid="Q4952010">
 <param title="fungus" eid="Q764">
 <param title="spore" eid="Q177332" aliases="spores">
