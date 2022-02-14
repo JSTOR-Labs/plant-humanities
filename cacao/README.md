@@ -9,7 +9,8 @@
        num-maps="7"
        num-images="20"
        num-primary-sources="14"
-       author="Rebecca Friedel">
+       author="Rebecca Friedel"
+       description=“Today chocolate is coveted and consumed the world over. Cacao beans’ power of seduction over humans can be traced as far back as the Formative Period in Mesoamerica. It is therefore no surprise that Theobroma cacao–the fruit-bearing tree and source of seeds used to make chocolate–has a similarly long and rich history. Indeed, this visual narrative charts the history of cacao from its circulation in indigenous networks native to the Americas to its modern-day status as a global commodity. Doing so reveals the importance of cacao not only to indigenous ideologies and practices of the Mexica, but also to shifting strategies of indigenous-colonial interaction and knowledge production in the New World during the early modern period.”>
 
 <param title="Nicolás Monardes based in Seville" eid="Q8717" fill="#92086D" marker-symbol="user">
 <param title="Benzoni‘s accounts discuss his encounters with cacao in Nicaragua" eid="Q811" fill="#92086D" marker-symbol="user">
