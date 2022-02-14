@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#6cd578",
+        "marker-size": "medium",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.486328125,
+          37.78808138412046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "marker-color": "#6cd578",
+        "marker-size": "medium",
+        "marker-symbol": "garden"
+        },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9921875,
+          18.312810846425442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "marker-color": "#6cd578",
+        "marker-size": "medium",
+        "marker-symbol": "garden"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.201171875,
+          46.86019101567027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "marker-color": "#6cd578",
+        "marker-size": "medium",
+        "marker-symbol": "garden"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44140625,
+          29.916852233070173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "marker-color": "#6cd578",
+        "marker-size": "medium",
+        "marker-symbol": "garden"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.35546875000001,
+          36.10237644873644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "marker-color": "#6cd578",
+        "marker-size": "medium",
+        "marker-symbol": "garden"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.794921875,
+          40.84706035607122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "marker-color": "#6cd578",
+        "marker-size": "medium",
+        "marker-symbol": "garden"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6953125,
+          41.31082388091818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "marker-color": "#6cd578",
+        "marker-size": "medium",
+        "marker-symbol": "garden"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8359375,
+          33.797408767572485
+        ]
+      }
+    }
+  ]
+}
