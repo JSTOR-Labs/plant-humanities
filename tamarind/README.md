@@ -81,7 +81,7 @@ Virtually every part of the tamarind tree—seeds, fruity pulp, bark, root, and 
 <param ve-entity eid="Q312959" title="Joseph de Tournefort">
 {#paragraph9}
 
-Tamarind is mentioned in traditional Sanskrit literature and traditional African medical texts like the [_Kitab al-qawl al-sinna_](http://www.cci.uct.ac.za/usr/cci/publications/aria/download_issues/2012/Mukhtar%20Bunza.pdf). Tamarind also appears in the Susruta-Samhita, an Ayurvedic medicine text. With such a diverse array of uses—and its hearty ability to withstand hot, dry climates—the plant captured the imagination of colonists on the hunt for profitable crops. The well-known synonym T. occidentalis, for example, was included in Henry Perrine’s 1838 report to the U.S. Congress House Committee on Agriculture, in which he includes T. occidentalis as a notable crop of value.
+Tamarind is mentioned in traditional Sanskrit literature and traditional African medical texts like the [_Kitab al-qawl al-sinna_.](http://www.cci.uct.ac.za/usr/cci/publications/aria/download_issues/2012/Mukhtar%20Bunza.pdf) Tamarind also appears in the Susruta-Samhita, an Ayurvedic medicine text. With such a diverse array of uses—and its hearty ability to withstand hot, dry climates—the plant captured the imagination of colonists on the hunt for profitable crops. The well-known synonym T. occidentalis, for example, was included in Henry Perrine’s 1838 report to the U.S. Congress House Committee on Agriculture, in which he includes T. occidentalis as a notable crop of value.
 <param ve-knightlab-timeline source="12v78oD74K_9d8_2Cs3DlEKoWdAy4ctB_lLUB2gYeiFk" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="750">
 <param ve-entity eid="Q1995239" title="Susruta-Samhita">
 <param ve-entity eid="Q4268924" title="Henry Perrine" aliases="Henry Perrine’s">
@@ -113,7 +113,7 @@ The leaves, young seedlings, and flowers that make up the crown are made into ch
 {#paragraph14}
 
 ### Seeds and Pods
-While the tamarind seeds may not be as manipulable as the pulp (detailed below), they are just as valuable. When pilgrims flocked to the desert to meet Khorasan mystic poet and saint Abu Said, they paid good sums to obtain seeds from the tamarind tree he sat beneath.[^ref17] Tamarind seeds are also worthy of eating: after they are soaked to remove the seed coat, they can be roasted, boiled, fried, or ground.[^ref18] In Thailand, the ground seeds are used as a coffee substitute.[^ref19] In Ayurvedic medicine, the shells of the tamarind pods can be burned to create an “alkaline ash” to then be used in other recipes.[^ref20] In addition to its culinary uses, the seeds can be made into a tamarind kernel powder and used in the textile and paper industry.[^ref21] [Saura tribal painting](https://en.wikipedia.org/wiki/Saura_painting#Paintings) in Orissa (now called Odisha, this is an eastern Indian state on the Bay of Bengal) is one tradition that makes use of the tamarind seed's natural brown hue to dye the background of paintings. Likewise, black lacquer, referred to as ‘tamarind-seed’ script, was and continues to be used to create embellished Burmese characters in religious Pali texts like the Kammavaca, a decorative manuscript that details monastic duties[^ref22]. In terms of seed viability, they retain their germination capability for several months if kept dry. Also, seeds can be scarified or briefly boiled to enhance germination[^ref23].
+While the tamarind seeds may not be as manipulable as the pulp (detailed below), they are just as valuable. When pilgrims flocked to the desert to meet Khorasan mystic poet and saint Abu Said, they paid good sums to obtain seeds from the tamarind tree he sat beneath.[^ref17] Tamarind seeds are also worthy of eating: after they are soaked to remove the seed coat, they can be roasted, boiled, fried, or ground.[^ref18] In Thailand, the ground seeds are used as a coffee substitute.[^ref19] In Ayurvedic medicine, the shells of the tamarind pods can be burned to create an “alkaline ash” to then be used in other recipes.[^ref20] In addition to its culinary uses, the seeds can be made into a tamarind kernel powder and used in the textile and paper industry.[^ref21] [Saura tribal painting](https://en.wikipedia.org/wiki/Saura_painting#Paintings) in Orissa (now called Odisha, this is an eastern Indian state on the Bay of Bengal) is one tradition that makes use of the tamarind seed's natural brown hue to dye the background of paintings. Likewise, black lacquer, referred to as ‘tamarind-seed’ script, was and continues to be used to create embellished Burmese characters in religious Pali texts like the Kammavaca, a decorative manuscript that details monastic duties.[^ref22] In terms of seed viability, they retain their germination capability for several months if kept dry. Also, seeds can be scarified or briefly boiled to enhance germination.[^ref23]
 <param ve-image fit="contain" label="Tamarind pod, Amanda Almira Newton for the US Department of Agriculture, watercolor, 1908" author="Amanda Almira Newton" attribution="U.S. Department of Agriculture Pomological Watercolor Collection. Rare and Special Collections, National Agricultural Library, Beltsville, MD 20705" license="public domain" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/pod.png?raw=true"> 
 <param ve-image fit="contain" label="19th century Burmese Kammavaca Manuscript" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Burmese_Kammavaca_Manuscript.jpg">
 <param ve-entity eid="Q1192519" title="Abu Said">
@@ -153,7 +153,7 @@ Similarly, Mrs. A.C. Carmichael, a Scottish migrant to the British West Indies a
 {#paragraph20}
 
 ### Cooking & Empire: Tamarind Recipes
-As discussed throughout this narrative, tamarind is most known for its culinary uses. Tamarind is a staple in Indian cuisine. During or following their time in the British colonies, white women colonists like Mrs. Carmichael would often feature tamarind in English-language colonial cookbooks. Examples like Flora Steel and Grace Gardiner’s 1909 _The complete Indian housekeeper & cook: the duties of mistress and servants, the management of the house, and practical recipes for cooking in all its branches_ is dedicated “To the English girls to whom fate may assign the task of being house-mothers in our Eastern Empire.” In the chapter “Hints to Missionaries and Others Living in Camp and Jungles,” the authors instruct readers to use tamarind water to quench their thirst in the course of their missionary work, when such work takes them away from established towns and villages. The authors refer to tamarind using the Hindi term “Imli,” suggesting that their knowledge of the plant comes either directly or indirectly from those speaking Hindi. The cookbook does not offer any insight as to how the British women gained access to the tamarind itself -- there are no instructions for harvesting the pods from the trees, or even directions about how best to acquire the plant from a market. This suggests that either the British women could easily obtain tamarind, or the acquisition of tamarind was easy enough to be unremarkable. Some British cooks who did remark on the acquisition of tamarind sometimes noted that when unable to import tamarind, they “had to rely on lemon juice (and sometimes sour gooseberries) as a substitute.”[^ref28]. British cooks like Eliza Acton even advocated for the importation of tamarind “in the shell - not preserved” in an effort to replicate the cuisines made in India.[^ref29]
+As discussed throughout this narrative, tamarind is most known for its culinary uses. Tamarind is a staple in Indian cuisine. During or following their time in the British colonies, white women colonists like Mrs. Carmichael would often feature tamarind in English-language colonial cookbooks. Examples like Flora Steel and Grace Gardiner’s 1909 _The complete Indian housekeeper & cook: the duties of mistress and servants, the management of the house, and practical recipes for cooking in all its branches_ is dedicated “To the English girls to whom fate may assign the task of being house-mothers in our Eastern Empire.” In the chapter “Hints to Missionaries and Others Living in Camp and Jungles,” the authors instruct readers to use tamarind water to quench their thirst in the course of their missionary work, when such work takes them away from established towns and villages. The authors refer to tamarind using the Hindi term “Imli,” suggesting that their knowledge of the plant comes either directly or indirectly from those speaking Hindi. The cookbook does not offer any insight as to how the British women gained access to the tamarind itself -- there are no instructions for harvesting the pods from the trees, or even directions about how best to acquire the plant from a market. This suggests that either the British women could easily obtain tamarind, or the acquisition of tamarind was easy enough to be unremarkable. Some British cooks who did remark on the acquisition of tamarind sometimes noted that when unable to import tamarind, they “had to rely on lemon juice (and sometimes sour gooseberries) as a substitute.”[^ref28] British cooks like Eliza Acton even advocated for the importation of tamarind “in the shell - not preserved” in an effort to replicate the cuisines made in India.[^ref29]
 <param ve-iframe attribution="University of Leeds Library" license="public domain" src="https://archive.org/embed/b21528640/page/158/">
 <param ve-entity eid="Q542825" title="Eliza Acton">
 {#paragraph21}
@@ -162,7 +162,7 @@ Historically, upper-class white British women in India, or memsahibs, employed s
 <param ve-image fit="contain" label="A female Anglo-Indian at her toilet being attended to by three Indian servants. Lithograph by J. Bouvier, 1842, after W. Tayler." attribution="Wellcome Collection" license="CC BY-SA 4.0" url="https://upload.wikimedia.org/wikipedia/commons/e/e8/A_female_Anglo-Indian_at_her_toilet_being_attended_to_by_thr_Wellcome_V0019937.jpg">
 {#paragraph22}
 
-Steel and Gardiner used their status as memsahibs to publish cookbooks that either translated or adapted Indian recipes for a white British audience, but this is but one aspect of the long history of Indian culinary history. Tamarind has been used as an ingredient in chutneys, curries, and pickles throughout Indian culinary history. Lizzie Collingham describes how after its arrival in India from eastern Africa via Arab traders, tamarind helped characterize South Indian cuisine, known for its rich sauces and “sour notes.” [^ref32] The use of tamarind is not limited to South India, however, and appears in cuisines across the country and South Asia at large. One notable chapter in colonial Indian culinary history is detailed in Chitra Deb’s Women of the Tagore Household, a history of the women in the notable Bengali Brahmin family. Deb writes that “cooking was an artform for women… one of their main modes of expression of their artistic abilities.”[^ref33]. Deb’s book contains many stories of these fascinating women, but Deb pays particular attention to the culinary prowess of Mrinalini Devi, wife of Rabrindranath Tagore, and Pragyasundari Devi, daughter of Hemendranath Tagore, Rabrindranath Tagore’s niece. [^ref34: Deb 97,123-133] Pragya, as Deb refers to her, is known for her 1902 publication of Aamish O Niramish Aahar, a Bengali cookbook that is probably the first known Bengali cookbook. [^ref35]. Of the many dishes that Deb cites from Pragya’s cookbooks, she notes a Saraswati ambol made from tamarind and a curried raw tamarind with alum as two of Pragya’s most fascinating creations.[^ref36]
+Steel and Gardiner used their status as memsahibs to publish cookbooks that either translated or adapted Indian recipes for a white British audience, but this is but one aspect of the long history of Indian culinary history. Tamarind has been used as an ingredient in chutneys, curries, and pickles throughout Indian culinary history. Lizzie Collingham describes how after its arrival in India from eastern Africa via Arab traders, tamarind helped characterize South Indian cuisine, known for its rich sauces and “sour notes.”[^ref32] The use of tamarind is not limited to South India, however, and appears in cuisines across the country and South Asia at large. One notable chapter in colonial Indian culinary history is detailed in Chitra Deb’s Women of the Tagore Household, a history of the women in the notable Bengali Brahmin family. Deb writes that “cooking was an artform for women… one of their main modes of expression of their artistic abilities.”[^ref33]. Deb’s book contains many stories of these fascinating women, but Deb pays particular attention to the culinary prowess of Mrinalini Devi, wife of Rabrindranath Tagore, and Pragyasundari Devi, daughter of Hemendranath Tagore, Rabrindranath Tagore’s niece.[^ref34] Pragya, as Deb refers to her, is known for her 1902 publication of Aamish O Niramish Aahar, a Bengali cookbook that is probably the first known Bengali cookbook.[^ref35] Of the many dishes that Deb cites from Pragya’s cookbooks, she notes a Saraswati ambol made from tamarind and a curried raw tamarind with alum as two of Pragya’s most fascinating creations.[^ref36]
 <param ve-iframe attribution="Public Library of India" license="public domain" src="https://archive.org/details/in.ernet.dli.2015.336370/page/n5/mode/2up8">
 <param ve-entity eid="Q52161948" title="Chitra Deb" aliases="Chitra Deb’s">
 <param ve-entity eid="Q32986435" title="Pragyasundari Devi">
@@ -184,70 +184,70 @@ Tamil writer Sundara Ramaswamy’s recently-translated 1966 novel [_Oru Puliyama
 {#paragraph25}
 
 ### References
-[^ref1]: Boukary O. Diallo et al., “Breeding system and pollination biology of the semi-domesticated fruit tree, *Tamarindus indica* L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources", African Journal of Biotechnology 7, no 22 (2008): 4068-4075.
+[^ref1]: Boukary O. Diallo et al., “Breeding system and pollination biology of the semi-domesticated fruit tree, _Tamarindus indica_ L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources", African Journal of Biotechnology 7, no 22 (2008): 4068-4075.
 
-[^ref2]: “Tamarind – Herb of the Month (2020)”, The Herb Society of America Blog, accessed August 2021, https://herbsocietyblog.wordpress.com/tag/tamarind-legends/
+[^ref2]: “Tamarind – Herb of the Month (2020)”, The Herb Society of America Blog, accessed August 2021, [https://herbsocietyblog.wordpress.com/tag/tamarind-legends/](https://herbsocietyblog.wordpress.com/tag/tamarind-legends/)
 
 [^ref3]: Nanditha Krishna and M. Amirthalingam, Sacred Plants of India (India: Penguin Press, 2014)
 
-[^ref4]: “Tamarind tree”, Hariyali C.P.R. Environmental Education Centre, Chennai, Govt of India, accessed August 2021, http://www.cpreecenvis.nic.in/Database/Tamarind_Tree_1009.aspx
+[^ref4]: “Tamarind tree”, Hariyali C.P.R. Environmental Education Centre, Chennai, Govt of India, accessed August 2021, [http://www.cpreecenvis.nic.in/Database/Tamarind_Tree_1009.aspx](http://www.cpreecenvis.nic.in/Database/Tamarind_Tree_1009.aspx)
 
-[^ref5]: Salim Azad, “Tamarindo -*Tamarindus indica*”, in Exotic Fruits Reference Guide, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412.
+[^ref5]: Salim Azad, “Tamarindo -_Tamarindus indica_”, in Exotic Fruits Reference Guide, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412.
 
-[^ref6]: “The IUCN Red List of Threatened Species”, International Union for Conservation of Nature (IUCN), accessed July 2021, https://www.iucnredlist.org/species/62020997/62020999
+[^ref6]: “The IUCN Red List of Threatened Species”, International Union for Conservation of Nature (IUCN), accessed July 2021, [https://www.iucnredlist.org/species/62020997/62020999](https://www.iucnredlist.org/species/62020997/62020999)
 
-[^ref7]: Boukary O. Diallo et al., “Breeding system and pollination biology of the semi-domesticated fruit tree, *Tamarindus indica* L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources", African Journal of Biotechnology 7, no 22 (2008): 4068-4075.
+[^ref7]: Boukary O. Diallo et al., “Breeding system and pollination biology of the semi-domesticated fruit tree, _Tamarindus indica_ L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources", African Journal of Biotechnology 7, no 22 (2008): 4068-4075.
 
-[^ref8]: N. C Shah, *Tamarindus indica* – Introduction in India and Culinary, Medicinal, and Industrial Uses. Asian Agri-History 18, no 4 (2014): 343–355.
+[^ref8]: N. C Shah, _Tamarindus indica_ – Introduction in India and Culinary, Medicinal, and Industrial Uses. Asian Agri-History 18, no 4 (2014): 343–355.
 
 [^ref9]: Annette S. Beveridge, The Babur-nama in English (Memoirs of Babur) (London: Luzac. & Co., 1922), 2.
 
-[^ref10]: Rehman, Abdul. “Changing Concepts of Garden Design in Lahore from Mughal to Contemporary Times.” Garden History, vol. 37, no. 2, 2009, 205.
+[^ref10]: Rehman, Abdul. “Changing Concepts of Garden Design in Lahore from Mughal to Contemporary Times.” _Garden History_, vol. 37, no. 2, 2009, 205.
 
-[^ref11]: Roberts, Judith. “English Gardens in India.” Garden History, vol. 26, no. 2, 1998, 126.
+[^ref11]: Roberts, Judith. “English Gardens in India.” _Garden History_, vol. 26, no. 2, 1998, 126.
 
-[^ref12]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “*Tamarindus indica* L. – A review of traditional uses, phytochemistry and pharmacology”, Afrika focus 23, no 1 (2010): 53-83.
+[^ref12]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “_Tamarindus indica_ L. – A review of traditional uses, phytochemistry and pharmacology”, Afrika focus 23, no 1 (2010): 53-83.
 
-[^ref13]: Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in Cities and Canopies. Trees in Indian Cities (Haryana: Penguin Press, 2019), 73-85. 
+[^ref13]: Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in _Cities and Canopies. Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73-85. 
 
-[^ref14]: "Kandro Net", accessed July 2021, http://www.khandro.net/nature_trees.htm
+[^ref14]: "Kandro Net", accessed July 2021, [http://www.khandro.net/nature_trees.htm](http://www.khandro.net/nature_trees.htm)
 
-[^ref15]: Salim Azad, “Tamarindo -*Tamarindus indica*”, in Exotic Fruits Reference Guide, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in Cities and Canopies. Trees in Indian Cities (Haryana: Penguin Press, 2019), 73-85.
+[^ref15]: Salim Azad, “Tamarindo -_Tamarindus indica_”, in Exotic Fruits Reference Guide, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in _Cities and Canopies. Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73-85.
 
-[^ref16]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “*Tamarindus indica* L. – A review of traditional uses, phytochemistry and pharmacology”, Afrika focus 23, no 1 (2010): 53-83.
+[^ref16]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “_Tamarindus indica_ L. – A review of traditional uses, phytochemistry and pharmacology”, _Afrika focus_ 23, no 1 (2010): 53-83.
 
 [^ref17]: Nathan H. Dole, and Belle M. Walker, The Persian Poets (California: Crowell, 1901).
 
-[^ref18]: Salim Azad, “Tamarindo -*Tamarindus indica*”, in Exotic Fruits Reference Guide, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in Cities and Canopies. Trees in Indian Cities (Haryana: Penguin Press, 2019), 73-85.
+[^ref18]: Salim Azad, “Tamarindo -_Tamarindus indica_”, in _Exotic Fruits Reference Guide_, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in _Cities and Canopies. Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73-85.
 
-[^ref19]: Julia Morton, "Tamarind", in Fruits of Warm Climates (Florida, 1987), 115–121.
+[^ref19]: Julia Morton, "Tamarind", in _Fruits of Warm Climates_ (Florida, 1987), 115–121.
 
-[^ref20]:  Udoy C. Dutt, The Materia Medica of the hindus, compiled from sanskrit medical works (Calcuta: Thacker, Spink & Co., 1877).
+[^ref20]:  Udoy C. Dutt, _The Materia Medica of the hindus, compiled from sanskrit medical works_ (Calcuta: Thacker, Spink & Co., 1877).
 
-[^ref21]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “*Tamarindus indica* L. – A review of traditional uses, phytochemistry and pharmacology”, Afrika focus 23, no 1 (2010): 53-83.
+[^ref21]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “_Tamarindus indica_ L. – A review of traditional uses, phytochemistry and pharmacology”, _Afrika focus_ 23, no 1 (2010): 53-83.
 
-[^ref22]: San San May, “Kammavaca: Burmese Buddhist Ordination Manuscripts,” *British Library Asian and African Studies Blog*, 17 February 2017. Accessed 16 December 2021. https://blogs.bl.uk/asian-and-african/2017/02/kammavaca-burmese-buddhist-ordination-manuscripts.html; Asian Art Department, “Kammawaza manuscript, 20th century,” *Art Gallery of NSW*, 2016. Accessed 16 December 2021. https://www.artgallery.nsw.gov.au/collection/works/45.2007.a-r/#about blog 1 and 2
-[^ref23]: Dilipkumar Pal, and Souvik Mukherjee, “Tamarind (*Tamarindus indica*) Seeds in Health and Nutrition”, in Nuts and Seeds in Health and Disease Prevention (Second Edition), eds. Victor R. Preedy, and Ronald R. Watson (Academic Press, 2020): 171-182.
+[^ref22]: San San May, “Kammavaca: Burmese Buddhist Ordination Manuscripts,” _British Library Asian and African Studies Blog_, 17 February 2017. Accessed 16 December 2021. [https://blogs.bl.uk/asian-and-african/2017/02/kammavaca-burmese-buddhist-ordination-manuscripts.html](https://blogs.bl.uk/asian-and-african/2017/02/kammavaca-burmese-buddhist-ordination-manuscripts.html); Asian Art Department, “Kammawaza manuscript, 20th century,” _Art Gallery of NSW_, 2016. Accessed 16 December 2021. [https://www.artgallery.nsw.gov.au/collection/works/45.2007.a-r/#about ](https://www.artgallery.nsw.gov.au/collection/works/45.2007.a-r/#about) blog 1 and 2
+[^ref23]: Dilipkumar Pal, and Souvik Mukherjee, “Tamarind (_Tamarindus indica_) Seeds in Health and Nutrition”, in _Nuts and Seeds in Health and Disease Prevention_ (Second Edition), eds. Victor R. Preedy, and Ronald R. Watson (Academic Press, 2020): 171-182.
 
-[^ref 24]: "Strawbery Banke Museum Artifact of the Week Archives," accessed 6 December 2021.  https://www.strawberybanke.org/artifact-of-the-week-2.cfm
-[^ref25]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “*Tamarindus indica* L. – A review of traditional uses, phytochemistry and pharmacology”, Afrika focus 23, no 1 (2010): 53-83.
+[^ref 24]: "Strawbery Banke Museum Artifact of the Week Archives," accessed 6 December 2021. [https://www.strawberybanke.org/artifact-of-the-week-2.cfm](https://www.strawberybanke.org/artifact-of-the-week-2.cfm)
+[^ref25]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “_Tamarindus indica_ L. – A review of traditional uses, phytochemistry and pharmacology”, _Afrika focus_ 23, no 1 (2010): 53-83.
 
-[^ref26]: Julia Morton, "Tamarind", in Fruits of Warm Climates (Florida, 1987), 115–121.
+[^ref26]: Julia Morton, "Tamarind", in _Fruits of Warm Climates_ (Florida, 1987), 115–121.
 
-[^ref27]: Salim Azad, “Tamarindo -*Tamarindus indica*”, in Exotic Fruits Reference Guide, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412; N. C Shah, *Tamarindus indica* – Introduction in India and Culinary, Medicinal, and Industrial Uses. Asian Agri-History 18, no 4 (2014): 343–355; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in Cities and Canopies. Trees in Indian Cities (Haryana: Penguin Press, 2019), 73-85.
+[^ref27]: Salim Azad, “Tamarindo -_Tamarindus indica_”, in _Exotic Fruits Reference Guide_, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412; N. C Shah, _Tamarindus indica_ – Introduction in India and Culinary, Medicinal, and Industrial Uses. Asian Agri-History 18, no 4 (2014): 343–355; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in _Cities and Canopies. Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73-85.
 
-[^ref28]: Lizzie Collingham, *Curry: A Tale of Cooks and Conquerors*. (Oxford: Oxford University Press, 2006)
+[^ref28]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_. (Oxford: Oxford University Press, 2006)
 
-[^ref29]: Lizzie Collingham, *Curry: A Tale of Cooks and Conquerors*. (Oxford: Oxford University Press, 2006), 144
+[^ref29]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_. (Oxford: Oxford University Press, 2006), 144.
 
-[^ref30]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India.” *Women’s History Review*, vol. 3, no. 4 (1994): 549.]  
+[^ref30]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India.” _Women’s History Review_, vol. 3, no. 4 (1994): 549.  
 
-[^ref31]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India.” *Women’s History Review*, vol. 3, no. 4 (1994): 550.]  
+[^ref31]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India.” _Women’s History Review_, vol. 3, no. 4 (1994): 550.  
 
-[^ref32]: Lizzie Collingham, *Curry: A Tale of Cooks and Conquerors*. (Oxford: Oxford University Press, 2006), 60
+[^ref32]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_. (Oxford: Oxford University Press, 2006), 60.
 
-[^ref33]: Chitra Deb, *Women of the Tagore Household*, trans. Sona Roy and Smita Chowdhry. (London: Penguin Books, 2010), 389
+[^ref33]: Chitra Deb, _Women of the Tagore Household_, trans. Sona Roy and Smita Chowdhry. (London: Penguin Books, 2010), 389.
 
-[^ref34]: Chitra Deb, *Women of the Tagore Household*, trans. Sona Roy and Smita Chowdhry. (London: Penguin Books, 2010), 123-133
+[^ref34]: Chitra Deb, _Women of the Tagore Household_, trans. Sona Roy and Smita Chowdhry. (London: Penguin Books, 2010), 123-133.
 
-[^ref35]: Ronojoy Sen, “Tagores we don’t know about,” *Times of India*, 8 May 2010. Accessed 15 December 2021. https://timesofindia.indiatimes.com/home/sunday-times/Tagores-we-didnt-know-about/articleshow/5906382.cms 
+[^ref35]: Ronojoy Sen, “Tagores we don’t know about,” _Times of India_, 8 May 2010. Accessed 15 December 2021. https://timesofindia.indiatimes.com/home/sunday-times/Tagores-we-didnt-know-about/articleshow/5906382.cms 
