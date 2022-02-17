@@ -23,7 +23,7 @@ Such contradictions have been explored through storytelling: the tree serves as 
 
 ### A Tree of Many Names
 From a taxonomic point of view, _T. indica_, first described as such by <span eid="Q1043">Carl Linnaeus</span> in <span eid="Q849308">_Species plantarum_ (1753)</span> t1: 34, is considered the only species of the Tamarindus <span eid="Q34740">genus</span>. This has not always been the species’ name, however, as earlier scientific practitioners labeled the tree with taxonomic synonyms because they believed the genus to contain different species. Over the course of the 17th and 18th centuries, *T. indica* acquired six synonyms, with *Tamarindus occidentalis Gaertn.*, or the “West Indian species,” recurring most often in the botanical literature. Comparably, the tamarind tree has garnered a host of colloquial names across the globe.[^ref5] In fact, *T. indica* derives from the Arabic *tamar-al-hindi*, or the date of India, so named after tamarind pulp’s date-like color and texture (the name also bears a resemblance to the Ethiopian vernacular for tamarind, *tommar*). 
-<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/jeschollaert/TAMARIND/main/Book1_Tamarindus_countries.tsv" center="Tamarindus indica L. (1753)">
+<param ve-d3plus-ring-network url="Book1_Tamarindus_countries.tsv" center="Tamarindus indica L. (1753)">
 {#paragraph3}
 
 ### The Tamarind’s Locale 
