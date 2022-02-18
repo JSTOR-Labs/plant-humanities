@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config 
-       title="Tamarind: From Shady Grove to Soothing Drink"
+       title="Tamarind: From Shady Grove to Culinary Wonder"
        eid="" 
        about="Q80235"
        author="Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert"
@@ -13,7 +13,6 @@ The grand and imposing hard-wooded tree _Tamarindus indica_, commonly known as t
 <param ve-compare curtain fit="contain" label="Old tamarind tree in the Nallur Amarai Grove" author="Shyamal" attribution="Shyamal" license="CC BY-NC 4.0" url="https://upload.wikimedia.org/wikipedia/commons/2/27/Nallur_tamarind1.jpg">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/8/8c/AMH-7001-KB_Church_service_beneath_a_tamarind_tree.jpg" label="Church service beneath a tamarind tree, 1672" author="Philippus Baldaeus" attribution="Koninklijke Bibliotheek" license="public domain">
 <param ve-entity eid="Q80235" title="Tamarindus indica">
-<param ve-entity eid="Q3410946" title="purgative">
 {#paragraph1}
 
 Such contradictions have been explored through storytelling: the tree serves as creative inspiration, thematic motif, and simple theatrical site across myth, legend, and fiction.[^ref2] The tamarind got its small leaves, per a Bihar tribal story, when the exiled Lord Rama, Lakshmana and Sita came upon a tamarind grove, where the tree’s large leaves provided shelter. But Rama was convinced that they were to suffer during their exile and so he ordered Lakshmana to shoot at the leaves with his bow and arrow—the leaves have been split ever since.[^ref3]
