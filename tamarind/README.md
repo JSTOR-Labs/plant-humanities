@@ -10,9 +10,9 @@
 
 ### Introduction
 The grand and imposing hard-wooded tree _Tamarindus indica_, commonly known as the tamarind tree, has long been a contradictory plant: it is at once a place of refuge and site of danger, a medicinal purgative and a culinary shape-shifter, and a thirst-quencher that is drought tolerant. And while the tree has been documented across historical and literary genres for millennia, its place of origin remains scientifically obscure. Genetic studies do suggest an African origin, though wood charcoal analysis confirms that the tree has inhabited India since at least 1300 BCE, leading some to argue it is indigenous to the region.[^ref1] The tamarind narrative is rooted in so many singular places, but its global circulation speaks to the plant’s long history and steadfast ability to grow in dry and hot climates. 
-<param ve-compare curtain fit="contain" label="Old tamarind tree in the Nallur Amarai Grove" author="Shyamal" attribution="Shyamal" license="CC BY-NC 4.0" url="https://upload.wikimedia.org/wikipedia/commons/2/27/Nallur_tamarind1.jpg">
-<param ve-compare url="https://iiif.wellcomecollection.org/image/V0043170/full/1338%2C/0/default.jpg" label="Five Egyptian trees with fruit, including the tamarind, mulberry fig and baobab" author="Olfert Dapper, 1676" attribution="Wellcome Trust, https://wellcome.org" license="CC BY-NC 4.0">
+<param ve-compare curtain url="https://iiif.wellcomecollection.org/image/V0043170/full/1338%2C/0/default.jpg" label="Five Egyptian trees with fruit, including the tamarind, mulberry fig and baobab" author="Olfert Dapper, 1676" attribution="Wellcome Trust, https://wellcome.org" license="CC BY-NC 4.0">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/8/8c/AMH-7001-KB_Church_service_beneath_a_tamarind_tree.jpg" label="Church service beneath a tamarind tree, 1672" author="Philippus Baldaeus" attribution="Koninklijke Bibliotheek" license="public domain">
+<param ve-compare fit="contain" label="Old tamarind tree in the Nallur Amarai Grove" author="Shyamal" attribution="Shyamal" license="CC BY-NC 4.0" url="https://upload.wikimedia.org/wikipedia/commons/2/27/Nallur_tamarind1.jpg">
 <param ve-entity eid="Q80235" title="Tamarindus indica">
 {#paragraph1}
 
