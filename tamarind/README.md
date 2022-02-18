@@ -87,7 +87,7 @@ Virtually every part of the tamarind tree—seeds, fruity pulp, bark, root, and 
 <param ve-entity eid="Q312959" title="Joseph de Tournefort">
 {#paragraph10}
 
-Tamarind is mentioned in traditional Sanskrit literature and traditional African medical texts like the [_Kitab al-qawl al-sinna_.](http://www.cci.uct.ac.za/usr/cci/publications/aria/download_issues/2012/Mukhtar%20Bunza.pdf) Tamarind also appears in the Susruta-Samhita, an Ayurvedic medicine text. With such a diverse array of uses—and its hearty ability to withstand hot, dry climates—the plant captured the imagination of colonists on the hunt for profitable crops. The well-known synonym T. occidentalis, for example, was included in Henry Perrine’s 1838 report to the U.S. Congress House Committee on Agriculture, in which he includes T. occidentalis as a notable crop of value.
+Tamarind is mentioned in traditional Sanskrit literature and traditional African medical texts like the [_Kitab al-qawl al-sinna_.](http://www.cci.uct.ac.za/usr/cci/publications/aria/download_issues/2012/Mukhtar%20Bunza.pdf) Tamarind also appears in the _Susruta-Samhita_, an Ayurvedic medicine text. With such a diverse array of uses—and its hearty ability to withstand hot, dry climates—the plant captured the imagination of colonists on the hunt for profitable crops. The well-known synonym _T. occidentalis_, for example, was included in Henry Perrine’s 1838 report to the U.S. Congress House Committee on Agriculture, in which he includes _T. occidentalis_ as a notable crop of value.
 <param ve-knightlab-timeline source="12v78oD74K_9d8_2Cs3DlEKoWdAy4ctB_lLUB2gYeiFk" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="750">
 <param ve-entity eid="Q1995239" title="Susruta-Samhita">
 <param ve-entity eid="Q4268924" title="Henry Perrine" aliases="Henry Perrine’s">
@@ -110,7 +110,7 @@ Tracing the appearance of the tamarind tree’s commonly-used parts across mater
 
 ### Leaves 
 In its mature state, the tamarind tree’s vast crown is a place of refuge. Because the tree can grow in developed areas, be it the side of the road, in barren spaces, or in commercial areas, it’s a common gathering place for people seeking relief from hot sun or congregating for sacred reasons.[^ref13] In many cultures the tree has historically been considered holy. Tamil culture, for example, recognizes Puliyidaivalaiyamman as the tamarind tree deity who offers fruit as a blessing.[^ref14]
-<param ve-image region="-70,1081,3648,3224" label="Joseph Hooker's tamarind tree etching from his Himalayan Journal (1848)" author="Joseph Dalton Hooker" attribution="Wellcome Library Trust, https://wellcome.org" license="CC BY-NC 2.0" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/Hooker.png?raw=true">
+<param ve-image fit="contain" label="Joseph Hooker's tamarind tree etching from his Himalayan Journal (1848)" author="Joseph Dalton Hooker" attribution="Wellcome Library Trust, https://wellcome.org" license="CC BY-NC 2.0" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/Hooker.png?raw=true">
 <param ve-entity eid="Q811571" title="tree deity">
 {#paragraph14}
 
