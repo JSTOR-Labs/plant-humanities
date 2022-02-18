@@ -191,72 +191,73 @@ But tamarind can also be the material on which stories are written. In his impor
 {#paragraph25}
 
 ### References
-[^ref1]: Boukary O. Diallo et al., “Breeding system and pollination biology of the semi-domesticated fruit tree, *Tamarindus indica* L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources", African Journal of Biotechnology 7, no 22 (2008): 4068-4075.
+[^ref1]: Boukary O. Diallo et al., “Breeding system and pollination biology of the semi-domesticated fruit tree, _Tamarindus indica_ L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources", _African Journal of Biotechnology_ 7, no 22 (2008): 4068-4075.
 
-[^ref2]: “Tamarind – Herb of the Month (2020)”, The Herb Society of America Blog, accessed August 2021, https://herbsocietyblog.wordpress.com/tag/tamarind-legends/
+[^ref2]: “Tamarind – Herb of the Month (2020)”, The Herb Society of America Blog, accessed August 2021, [https://herbsocietyblog.wordpress.com/tag/tamarind-legends/](https://herbsocietyblog.wordpress.com/tag/tamarind-legends/)
 
-[^ref3]: Nanditha Krishna and M. Amirthalingam, Sacred Plants of India (India: Penguin Press, 2014)
+[^ref3]: Nanditha Krishna and M. Amirthalingam, _Sacred Plants of India_ (India: Penguin Press, 2014)
 
-[^ref4]: “Tamarind tree”, Hariyali C.P.R. Environmental Education Centre, Chennai, Govt of India, accessed August 2021, http://www.cpreecenvis.nic.in/Database/Tamarind_Tree_1009.aspx
+[^ref4]: “Tamarind tree”, Hariyali C.P.R. Environmental Education Centre, Chennai, Govt of India, accessed August 2021, [http://www.cpreecenvis.nic.in/Database/Tamarind_Tree_1009.aspx](http://www.cpreecenvis.nic.in/Database/Tamarind_Tree_1009.aspx)
 
-[^ref5]: Salim Azad, “Tamarindo -*Tamarindus indica*”, in Exotic Fruits Reference Guide, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412.
+[^ref5]: Salim Azad, “Tamarindo - _Tamarindus indica_”, in _Exotic Fruits Reference Guide_, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412.
 
-[^ref6]: “The IUCN Red List of Threatened Species”, International Union for Conservation of Nature (IUCN), accessed July 2021, https://www.iucnredlist.org/species/62020997/62020999
+[^ref6]: “The IUCN Red List of Threatened Species”, International Union for Conservation of Nature (IUCN), accessed July 2021, [https://www.iucnredlist.org/species/62020997/62020999](https://www.iucnredlist.org/species/62020997/62020999)
 
-[^ref7]: Boukary O. Diallo et al., “Breeding system and pollination biology of the semi-domesticated fruit tree, *Tamarindus indica* L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources", African Journal of Biotechnology 7, no 22 (2008): 4068-4075.
+[^ref7]: Boukary O. Diallo et al., “Breeding system and pollination biology of the semi-domesticated fruit tree, _Tamarindus indica_ L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources", _African Journal of Biotechnology_ 7, no 22 (2008): 4068-4075.
 
-[^ref8]: N. C Shah, *Tamarindus indica* – Introduction in India and Culinary, Medicinal, and Industrial Uses. Asian Agri-History 18, no 4 (2014): 343–355.
+[^ref8]: N. C Shah, _Tamarindus indica_ – Introduction in India and Culinary, Medicinal, and Industrial Uses. _Asian Agri-History_ 18, no 4 (2014): 343–355.
 
-[^ref9]: Annette S. Beveridge, The Babur-nama in English (Memoirs of Babur) (London: Luzac. & Co., 1922), 2.
+[^ref9]: Annette S. Beveridge, _The Babur-nama in English (Memoirs of Babur)_ (London: Luzac. & Co., 1922), 2.
 
-[^ref10]: Rehman, Abdul. “Changing Concepts of Garden Design in Lahore from Mughal to Contemporary Times.” Garden History, vol. 37, no. 2, 2009, 205.
+[^ref10]: Rehman, Abdul. “Changing Concepts of Garden Design in Lahore from Mughal to Contemporary Times.” _Garden History_, vol. 37, no. 2, 2009, 205.
 
-[^ref11]: Roberts, Judith. “English Gardens in India.” Garden History, vol. 26, no. 2, 1998, pp. 126.
+[^ref11]: Roberts, Judith. “English Gardens in India.” _Garden History_, vol. 26, no. 2, 1998, pp. 126.
 
-[^ref12]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “*Tamarindus indica* L. – A review of traditional uses, phytochemistry and pharmacology”, Afrika focus 23, no 1 (2010): 53-83.
+[^ref12]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “_Tamarindus indica_ L. – A review of traditional uses, phytochemistry and pharmacology”, _Afrika focus_ 23, no 1 (2010): 53-83.
 
-[^ref13]: Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in Cities and Canopies. Trees in Indian Cities (Haryana: Penguin Press, 2019), 73-85. 
+[^ref13]: Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in _Cities and Canopies. Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73-85. 
 
-[^ref14]: "Kandro Net", accessed July 2021, http://www.khandro.net/nature_trees.htm
+[^ref14]: "Kandro Net", accessed July 2021, [http://www.khandro.net/nature_trees.htm](http://www.khandro.net/nature_trees.htm)
 
-[^ref15]: Salim Azad, “Tamarindo -*Tamarindus indica*”, in Exotic Fruits Reference Guide, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in Cities and Canopies. Trees in Indian Cities (Haryana: Penguin Press, 2019), 73-85.
+[^ref15]: Salim Azad, “Tamarindo - _Tamarindus indica_”, in _Exotic Fruits Reference Guide_, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in _Cities and Canopies. Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73-85.
 
-[^ref16]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “*Tamarindus indica* L. – A review of traditional uses, phytochemistry and pharmacology”, Afrika focus 23, no 1 (2010): 53-83.
+[^ref16]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “_Tamarindus indica_ L. – A review of traditional uses, phytochemistry and pharmacology”, _Afrika focus_ 23, no 1 (2010): 53-83.
 
-[^ref17]: Nathan H. Dole, and Belle M. Walker, The Persian Poets (California: Crowell, 1901).
+[^ref17]: Nathan H. Dole, and Belle M. Walker, _The Persian Poets_ (California: Crowell, 1901).
 
-[^ref18]: Salim Azad, “Tamarindo -*Tamarindus indica*”, in Exotic Fruits Reference Guide, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in Cities and Canopies. Trees in Indian Cities (Haryana: Penguin Press, 2019), 73-85.
+[^ref18]: Salim Azad, “Tamarindo -_Tamarindus indica_”, in _Exotic Fruits Reference Guide_, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in _Cities and Canopies. Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73-85.
 
-[^ref19]: Julia Morton, "Tamarind", in Fruits of Warm Climates (Florida, 1987), 115–121.
+[^ref19]: Julia Morton, "Tamarind", in _Fruits of Warm Climates_ (Florida, 1987), 115–121.
 
-[^ref20]:  Udoy C. Dutt, The Materia Medica of the hindus, compiled from sanskrit medical works (Calcuta: Thacker, Spink & Co., 1877).
+[^ref20]:  Udoy C. Dutt, T_he Materia Medica of the hindus, compiled from sanskrit medical works_ (Calcuta: Thacker, Spink & Co., 1877).
 
-[^ref21]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “*Tamarindus indica* L. – A review of traditional uses, phytochemistry and pharmacology”, Afrika focus 23, no 1 (2010): 53-83.
+[^ref21]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “_Tamarindus indica_ L. – A review of traditional uses, phytochemistry and pharmacology”, _Afrika focus_ 23, no 1 (2010): 53-83.
 
-[^ref22]: San San May, “Kammavaca: Burmese Buddhist Ordination Manuscripts,” *British Library Asian and African Studies Blog*, 17 February 2017. Accessed 16 December 2021. https://blogs.bl.uk/asian-and-african/2017/02/kammavaca-burmese-buddhist-ordination-manuscripts.html; Asian Art Department, “Kammawaza manuscript, 20th century,” *Art Gallery of NSW*, 2016. Accessed 16 December 2021. https://www.artgallery.nsw.gov.au/collection/works/45.2007.a-r/#about blog 1 and 2
-[^ref23]: Dilipkumar Pal, and Souvik Mukherjee, “Tamarind (*Tamarindus indica*) Seeds in Health and Nutrition”, in Nuts and Seeds in Health and Disease Prevention (Second Edition), eds. Victor R. Preedy, and Ronald R. Watson (Academic Press, 2020): 171-182.
+[^ref22]: San San May, “Kammavaca: Burmese Buddhist Ordination Manuscripts,” _British Library Asian and African Studies Blog_, 17 February 2017. Accessed 16 December 2021. [https://blogs.bl.uk/asian-and-african/2017/02/kammavaca-burmese-buddhist-ordination-manuscripts.html](https://blogs.bl.uk/asian-and-african/2017/02/kammavaca-burmese-buddhist-ordination-manuscripts.html); Asian Art Department, “Kammawaza manuscript, 20th century,” _Art Gallery of NSW_, 2016. Accessed 16 December 2021. [https://www.artgallery.nsw.gov.au/collection/works/45.2007.a-r/#about](https://www.artgallery.nsw.gov.au/collection/works/45.2007.a-r/#about)
+
+[^ref23]: Dilipkumar Pal, and Souvik Mukherjee, “Tamarind (_Tamarindus indica_) Seeds in Health and Nutrition”, in _Nuts and Seeds in Health and Disease Prevention_ (Second Edition), eds. Victor R. Preedy, and Ronald R. Watson (Academic Press, 2020): 171-182.
 
 [^ref24]: "Strawbery Banke Museum Artifact of the Week Archives," accessed 6 December 2021. [https://www.strawberybanke.org/artifact-of-the-week-2.cfm](https://www.strawberybanke.org/artifact-of-the-week-2.cfm)
 
-[^ref25]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “_Tamarindus indica_ L. – A review of traditional uses, phytochemistry and pharmacology”, Afrika focus 23, no 1 (2010): 53-83.
+[^ref25]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “_Tamarindus indica_ L. – A review of traditional uses, phytochemistry and pharmacology”, _Afrika focus_ 23, no 1 (2010): 53-83.
 
 [^ref26]: Julia Morton, "Tamarind", in _Fruits of Warm Climates_ (Florida, 1987), 115–121.
 
-[^ref27]: Salim Azad, “Tamarindo -_Tamarindus indica_”, in _Exotic Fruits Reference Guide_, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412; N. C Shah, _Tamarindus indica_ – Introduction in India and Culinary, Medicinal, and Industrial Uses. Asian Agri-History 18, no 4 (2014): 343–355; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in _Cities and Canopies. Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73-85.
+[^ref27]: Salim Azad, “Tamarindo -_Tamarindus indica_”, in _Exotic Fruits Reference Guide_, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412; N. C Shah, _Tamarindus indica_ – Introduction in India and Culinary, Medicinal, and Industrial Uses. _Asian Agri-History_ 18, no 4 (2014): 343–355; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in _Cities and Canopies. Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73-85.
 
-[^ref28]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_. (Oxford: Oxford University Press, 2006).
+[^ref28]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_ (Oxford: Oxford University Press, 2006).
 
-[^ref29]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_. (Oxford: Oxford University Press, 2006), 144.
+[^ref29]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_ (Oxford: Oxford University Press, 2006), 144.
 
 [^ref30]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India.” _Women’s History Review_, vol. 3, no. 4 (1994): 549. 
 
 [^ref31]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India.” _Women’s History Review_, vol. 3, no. 4 (1994): 550.  
 
-[^ref32]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_. (Oxford: Oxford University Press, 2006), 60.
+[^ref32]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_ (Oxford: Oxford University Press, 2006), 60.
 
-[^ref33]: Chitra Deb, _Women of the Tagore Household_, trans. Sona Roy and Smita Chowdhry. (London: Penguin Books, 2010), 389.
+[^ref33]: Chitra Deb, _Women of the Tagore Household_, trans. Sona Roy and Smita Chowdhry (London: Penguin Books, 2010), 389.
 
-[^ref34]: Chitra Deb, _Women of the Tagore Household_, trans. Sona Roy and Smita Chowdhry. (London: Penguin Books, 2010), 123-133.
+[^ref34]: Chitra Deb, _Women of the Tagore Household_, trans. Sona Roy and Smita Chowdhry (London: Penguin Books, 2010), 123-133.
 
 [^ref35]: Ronojoy Sen, “Tagores we don’t know about,” _Times of India_, 8 May 2010. Accessed 15 December 2021. [https://timesofindia.indiatimes.com/home/sunday-times/Tagores-we-didnt-know-about/articleshow/5906382.cms](https://timesofindia.indiatimes.com/home/sunday-times/Tagores-we-didnt-know-about/articleshow/5906382.cms)
 
