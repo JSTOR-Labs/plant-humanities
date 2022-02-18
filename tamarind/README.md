@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config 
-       title="Tamarind: From Shady Refuge to Culinary Wonder"
+       title="Tamarind: From Shady Refuge to Versatile Foodstuff"
        eid="" 
        about="Q80235"
        author="Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert"
