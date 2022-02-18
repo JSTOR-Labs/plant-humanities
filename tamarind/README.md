@@ -232,26 +232,26 @@ Tamil writer Sundara Ramaswamy’s recently-translated 1966 novel [_Oru Puliyama
 [^ref22]: San San May, “Kammavaca: Burmese Buddhist Ordination Manuscripts,” *British Library Asian and African Studies Blog*, 17 February 2017. Accessed 16 December 2021. https://blogs.bl.uk/asian-and-african/2017/02/kammavaca-burmese-buddhist-ordination-manuscripts.html; Asian Art Department, “Kammawaza manuscript, 20th century,” *Art Gallery of NSW*, 2016. Accessed 16 December 2021. https://www.artgallery.nsw.gov.au/collection/works/45.2007.a-r/#about blog 1 and 2
 [^ref23]: Dilipkumar Pal, and Souvik Mukherjee, “Tamarind (*Tamarindus indica*) Seeds in Health and Nutrition”, in Nuts and Seeds in Health and Disease Prevention (Second Edition), eds. Victor R. Preedy, and Ronald R. Watson (Academic Press, 2020): 171-182.
 
-[^ref 24]: "Strawbery Banke Museum Artifact of the Week Archives," accessed 6 December 2021.  https://www.strawberybanke.org/artifact-of-the-week-2.cfm
+[^ref24]: "Strawbery Banke Museum Artifact of the Week Archives," accessed 6 December 2021. [https://www.strawberybanke.org/artifact-of-the-week-2.cfm](https://www.strawberybanke.org/artifact-of-the-week-2.cfm)
 
-[^ref25]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “*Tamarindus indica* L. – A review of traditional uses, phytochemistry and pharmacology”, Afrika focus 23, no 1 (2010): 53-83.
+[^ref25]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “_Tamarindus indica_ L. – A review of traditional uses, phytochemistry and pharmacology”, Afrika focus 23, no 1 (2010): 53-83.
 
-[^ref26]: Julia Morton, "Tamarind", in Fruits of Warm Climates (Florida, 1987), 115–121.
+[^ref26]: Julia Morton, "Tamarind", in _Fruits of Warm Climates_ (Florida, 1987), 115–121.
 
-[^ref27]: Salim Azad, “Tamarindo -*Tamarindus indica*”, in Exotic Fruits Reference Guide, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412; N. C Shah, *Tamarindus indica* – Introduction in India and Culinary, Medicinal, and Industrial Uses. Asian Agri-History 18, no 4 (2014): 343–355; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in Cities and Canopies. Trees in Indian Cities (Haryana: Penguin Press, 2019), 73-85.
+[^ref27]: Salim Azad, “Tamarindo -_Tamarindus indica_”, in _Exotic Fruits Reference Guide_, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403-412; N. C Shah, _Tamarindus indica_ – Introduction in India and Culinary, Medicinal, and Industrial Uses. Asian Agri-History 18, no 4 (2014): 343–355; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica”, in _Cities and Canopies. Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73-85.
 
-[^ref28]: Lizzie Collingham, *Curry: A Tale of Cooks and Conquerors*. (Oxford: Oxford University Press, 2006)
+[^ref28]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_. (Oxford: Oxford University Press, 2006)
 
-[^ref29]: Lizzie Collingham, *Curry: A Tale of Cooks and Conquerors*. (Oxford: Oxford University Press, 2006), 144
+[^ref29]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_. (Oxford: Oxford University Press, 2006), 144
 
-[^ref30]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India.” *Women’s History Review*, vol. 3, no. 4 (1994): 549.]  
+[^ref30]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India.” _Women’s History Review_, vol. 3, no. 4 (1994): 549.]  
 
-[^ref31]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India.” *Women’s History Review*, vol. 3, no. 4 (1994): 550.]  
+[^ref31]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India.” _Women’s History Review_, vol. 3, no. 4 (1994): 550.]  
 
-[^ref32]: Lizzie Collingham, *Curry: A Tale of Cooks and Conquerors*. (Oxford: Oxford University Press, 2006), 60
+[^ref32]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_. (Oxford: Oxford University Press, 2006), 60
 
-[^ref33]: Chitra Deb, *Women of the Tagore Household*, trans. Sona Roy and Smita Chowdhry. (London: Penguin Books, 2010), 389
+[^ref33]: Chitra Deb, _Women of the Tagore Household_, trans. Sona Roy and Smita Chowdhry. (London: Penguin Books, 2010), 389
 
-[^ref34]: Chitra Deb, *Women of the Tagore Household*, trans. Sona Roy and Smita Chowdhry. (London: Penguin Books, 2010), 123-133
+[^ref34]: Chitra Deb, _Women of the Tagore Household_, trans. Sona Roy and Smita Chowdhry. (London: Penguin Books, 2010), 123-133
 
-[^ref35]: Ronojoy Sen, “Tagores we don’t know about,” *Times of India*, 8 May 2010. Accessed 15 December 2021. https://timesofindia.indiatimes.com/home/sunday-times/Tagores-we-didnt-know-about/articleshow/5906382.cms 
+[^ref35]: Ronojoy Sen, “Tagores we don’t know about,” _Times of India_, 8 May 2010. Accessed 15 December 2021. [https://timesofindia.indiatimes.com/home/sunday-times/Tagores-we-didnt-know-about/articleshow/5906382.cms](https://timesofindia.indiatimes.com/home/sunday-times/Tagores-we-didnt-know-about/articleshow/5906382.cms)
