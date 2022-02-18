@@ -110,7 +110,7 @@ Tracing the appearance of the tamarind tree’s commonly-used parts across mater
 
 ### Leaves 
 In its mature state, the tamarind tree’s vast crown is a place of refuge. Because the tree can grow in developed areas, be it the side of the road, in barren spaces, or in commercial areas, it’s a common gathering place for people seeking relief from hot sun or congregating for sacred reasons.[^ref13] In many cultures the tree has historically been considered holy. Tamil culture, for example, recognizes Puliyidaivalaiyamman as the tamarind tree deity who offers fruit as a blessing.[^ref14]
-<param ve-image fit="contain" label="Joseph Hooker's tamarind tree etching from his Himalayan Journal (1848)" author="Joseph Dalton Hooker" attribution="Wellcome Library Trust, https://wellcome.org" license="CC BY-NC 2.0" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/Hooker.png?raw=true">
+<param ve-image region="-70,1092,3648,3224" label="Joseph Hooker's tamarind tree etching from his Himalayan Journal (1848)" author="Joseph Dalton Hooker" attribution="Wellcome Library Trust, https://wellcome.org" license="CC BY-NC 2.0" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/Hooker.png?raw=true">
 <param ve-entity eid="Q811571" title="tree deity">
 {#paragraph14}
 
