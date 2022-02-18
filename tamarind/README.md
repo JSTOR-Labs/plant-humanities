@@ -110,7 +110,7 @@ Tracing the appearance of the tamarind tree’s commonly-used parts across mater
 
 ### Leaves 
 In its mature state, the tamarind tree’s vast crown is a place of refuge. Because the tree can grow in developed areas, be it the side of the road, in barren spaces, or in commercial areas, it’s a common gathering place for people seeking relief from hot sun or congregating for sacred reasons.[^ref13] In many cultures the tree has historically been considered holy. Tamil culture, for example, recognizes Puliyidaivalaiyamman as the tamarind tree deity who offers fruit as a blessing.[^ref14]
-<param ve-image fit="contain" label="Joseph Hooker's tamarind tree etching from his Himalayan Journal (1848)" author="Joseph Dalton Hooker" attribution="Wellcome Library Trust, https://wellcome.org" license="CC BY-NC 2.0" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/Hooker.png?raw=true">
+<param ve-image region="-70,1081,3648,3224" label="Joseph Hooker's tamarind tree etching from his Himalayan Journal (1848)" author="Joseph Dalton Hooker" attribution="Wellcome Library Trust, https://wellcome.org" license="CC BY-NC 2.0" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/Hooker.png?raw=true">
 <param ve-entity eid="Q811571" title="tree deity">
 {#paragraph14}
 
@@ -145,7 +145,7 @@ One immensely popular soothing and cooling drink—tamarind water—is sold ever
       
 Tamarind water has been around since at least the late medieval period as an enjoyable beverage—and also a medicinal drink. Marco Polo, in his travel accounts, observes merchants being “force[d]...to swallow a stuff called Tamarindi, mixed in sea-water” that results in “violent purging” (2nd ed., ii. 383.). A few centuries later, John Parkinson, apothecary to James I and Royal Botanist to Charles I, writes of tamarind in his _Theatrum botanicum_ (1640): “it doth exceedingly helpe to assuage the thirst, if an ounce there-of be dissolved in faire water, and a little Sugar mixed therewith.” Parkinson notes that the drink is a particularly suitable thirst-quencher for “people of the hot countries.”
 <param ve-image fit="contain" label="Gaspard Théodore comte de Mollien, at the point of death during his travels to Africa, turns to tamarind as a remedy" author="Gaspard Théodore comte de Mollien" attribution="University of Pittsburgh Library System" license="public domain" 
-url="https://upload.wikimedia.org/wikipedia/common /2/20/Travels_in_the_interior_of_Africa%2C_to_the_sources_of_the_Senegal_and_Gambia%3B_performed_by_command_of_the_French_Government%2C_in_the_year_1818_%281820%29_%2814760831431%29.jpg">
+url="https://upload.wikimedia.org/wikipedia/commons/2/20/Travels_in_the_interior_of_Africa%2C_to_the_sources_of_the_Senegal_and_Gambia%3B_performed_by_command_of_the_French_Government%2C_in_the_year_1818_%281820%29_%2814760831431%29.jpg">
 <param ve-entity eid="Q256288" title="Marco Polo">
 <param ve-entity eid="Q7622525" title="John Parkinson">
 <param ve-entity eid="Q79972" title="James I">
