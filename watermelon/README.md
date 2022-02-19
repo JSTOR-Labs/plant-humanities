@@ -107,7 +107,7 @@ As the watermelon became common in European kitchen gardens, it began to appear 
 <param title="still life" eid="Q170571" aliases="still lifes">
 <param title="Albert Eckhout" eid="Q2116186">
 <param title="Giovanni Stanchi" eid="Q3107339" aliases="Giovanni Stanchi">
-<param title="Sarah Miriam Peale" eid="Q532010" aliases="Peale">
+<param title="Peale family" eid="Q99537039">
 {#paragraph8}
 
 Another artistic context in which watermelons were occasionally featured concerns representations of botanical specimens. In this case, they are shown in isolation, as in Maria Sibylla Merian’s [_Metamorphosis insectorum Surinamesium_.](https://www.doaks.org/resources/online-exhibits/maria-sibylla-merian/dissertatio-de-generatione-et-metamorphosibus-insectorum-surinamensium) An example from across the globe is from the [album of Asian fruits](https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/) held by Dumbarton Oaks, which was likely executed by Chinese artists working in Malaysia or Sumatra. Different stages in the growth of the melon’s flower and the fruit are shown alongside representations of seeds and a vivid cross-section, giving a full array of botanical information.
