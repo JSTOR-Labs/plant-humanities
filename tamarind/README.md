@@ -139,7 +139,7 @@ Tamarind seeds are as versatile as they are valuable. When pilgrims flocked to t
 {#paragraph15}
 
 Fifteen-inch tall redware jars like the one housed at the [Strawbery Banke Museum](https://www.strawberybanke.org/) in Portsmouth, New Hampshire might have been used to carry and transport tamarind seeds and pods. The jar was found at the [Marshall Pottery site](https://sbm.oncell.com/en/29-marshall-pottery-site-47035.html) in the 1970s, a site that had been used by the family of Sameul Marshall, a potter, and three enslaved African people named Mercer, Bess, and Adam. The jar is cited as possible evidence of tamarind’s role in the history of trade between the New England city and the West Indies, as well as the interconnected significance of material culture and culinary history in the larger history of enslavement in the United States. The pods, carried and stored from the West Indies to New England, bore witness to the horrors of enslavement across time and trade.[^ref23]
-<param ve-image fit="contain" label="Artifact SB1.0426, Redware storage vessel that could have been used to ship and store tamarind." attribution="Strawbery Banke Museum, Portsmouth, NH." license="copyright" url="StrawberyBanke_jar.jpeg">
+<param ve-image fit="contain" label="Artifact SB1.0426, Redware storage vessel that could have been used to ship and store tamarind." attribution="Strawbery Banke Museum, Portsmouth, NH." license="copyright" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/container_strawbery_banke_copyright_Strawbery_Banke_Museum_2017.jpeg?raw=true">
 <param ve-entity eid="Q7622525" title="Strawbery Banke Museum">
 {#paragraph16}
 
