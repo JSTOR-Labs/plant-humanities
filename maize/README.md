@@ -1,15 +1,12 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config
 	title="Maize: Sacred Plant, Global Commodity"
-       source-image="https://images.nypl.org/index.php?id=G92F023_016F&t=w"
-       banner="https://images.nypl.org/index.php?id=G92F023_016F&t=w"
-       eid="Q105748944"
-       about="Q161426"
+       source-image="hhttps://images.nypl.org/index.php?id=57718701&t=w"
+       banner="https://images.nypl.org/index.php?id=57718701&t=w"
        layout="vtl"
        author="Julia Fine"
        description=“Add.”>
 
-<param title="American Civil War" eid="Q8676" aliases="Civil War">
 
 ### The Comeback Kid
   
