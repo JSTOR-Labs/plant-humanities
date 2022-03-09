@@ -21,6 +21,18 @@ The Guatemalan public foresaw several problems with this protection for privatiz
        license="public domain"
        fit="contain"
        url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2204.jpg">
+<param ve-image
+       label="Protests against Monsanto in Guatemala, 2015"
+       attribution="Christina Chiquin, Mujeres Ixchel"
+       license="public domain"
+       fit="contain"
+       url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2323.jpg">
+<param ve-image
+       label="Protests against Monsanto in Guatemala, 2015"
+       attribution="Christina Chiquin, Mujeres Ixchel"
+       license="public domain"
+       fit="contain"
+       url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2271.jpg">
 <param title="Roundup" eid="Q905161">
 <param title="GMO" eid="Q182726" aliases="genetically modified"> 
 <param title="Glysophate-based herbicides" eid="Q60741370" aliases="glyphosate-based herbicide"> 
