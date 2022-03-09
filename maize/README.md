@@ -11,10 +11,13 @@
 The year was 2014, and many Guatemalans were incensed. In a country with a population of 14 million, approximately 120,000 took to the streets. Protesters blocked traffic along the Pan American Highway and other major roadways to voice their opposition to the “Law for the Protection of New Plant Varieties, or, as it was popularly known, the “Monsanto Law." The law “outlawed the replanting, transportation, or selling of privatized seeds without permission, and made these actions punishable by one to four years in jail and a fine of 1,000 to 10,000 quetzals (130 to 1,300 US dollars)." 
 <param ve-map title="The Pan-American Highway in Guatemala" center="15.0981244, -90.316436" zoom="7">
 <param ve-map-layer geojson active title="The Pan-American Highway in Guatemala" url="/geojson/Guatemala.json">
+<param title="Monsanto" eid="Q207983"> 
 {#paragraph1}
 
-Carolina rice, the “heritage grain” lost to history in the Reconstruction era, has come back in a major way. Indeed, in a [2017 article,](https://www.eater.com/ad/15973794/carolina-gold-rice-heritage-grains) _Eater_ declared that “The Grain Revolution Is Here,” describing one company’s attempt to bring back the historical strain of <span eid="Q161426">_Oryza sativa_</span>. Varieties of Carolina rice, in particular, “Carolina Gold,” have been attracting the attention of niche cooking websites and standard news sources alike, with outlets from [_Serious Eats_](https://www.seriouseats.com/2016/05/carolina-gold-heirloom-rice-anson-mills.html) to the [_New York Times_](https://www.nytimes.com/2018/02/13/dining/hill-rice-slave-history.html?auth=login-email&login=email) spotlighting the grain.
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/392f06cea424166301cf13cc1394ba2f2ab201169dacf991104b03f2c06c852c">
-<param title="Oryza sativa" eid="Q161426">
-<param title="Reconstruction Era" eid="Q623429" aliases="Reconstruction era"> 
+The Guatemalan public foresaw several problems with this protection for privatized seeds, or genetically modified seeds subject to a patent or copyright. The law sought to regulate the use of specific maize seeds, engineered by Monsanto to withstand Roundup, a glyphosate-based herbicide. By outlawing the replanting of these seeds, the law increased farmer dependence on big agribusiness. In response, opposition to the law swelled, bringing together a motley crew of protestors, including "peasant federations, health workers, biologists, Maya spiritual leaders, environmentalists, Pentecostals who regard Monsanto as an anti-Christ, opportunistic politicians, college students, and even Guatemala City foodies." 
+<param ve-image manifest="https://file.ejatlas.org/img/Conflict/1975/-94.jpg">
+<param title="Roundup" eid="Q905161">
+<param title="GMO" eid="Q182726" aliases="genetically modified"> 
+<param title="Glysophate-based herbicides" eid="Q60741370" aliases="glyphosate-based herbicide"> 
+<param title="Zea mays" eid="Q11575" aliases="maize"> 
 {#paragraph2}
