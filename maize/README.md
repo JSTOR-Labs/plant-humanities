@@ -48,3 +48,5 @@ Why did maize inspire such strong reactions? Since its initial domestication ove
        url="https://digitalcollections.nypl.org/items/510d47d9-72fe-a3d9-e040-e00a18064a99">
 <param title="domestication" eid="Q905161">
 {#paragraph3}
+
+### A Kernel of Science
