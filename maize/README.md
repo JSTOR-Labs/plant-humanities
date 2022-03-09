@@ -20,7 +20,7 @@ The Guatemalan public foresaw several problems with this protection for privatiz
        attribution="EJAtlas"
        license="public domain"
        fit="contain"
-       url="Guatemala_protest_maize_EJatlas.jpg">
+       url="maize/Guatemala_protest_maize_EJAtlas.jpeg">
 <param title="Roundup" eid="Q905161">
 <param title="GMO" eid="Q182726" aliases="genetically modified"> 
 <param title="Glysophate-based herbicides" eid="Q60741370" aliases="glyphosate-based herbicide"> 
