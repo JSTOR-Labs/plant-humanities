@@ -38,3 +38,13 @@ The Guatemalan public foresaw several problems with this protection for privatiz
 <param title="Glysophate-based herbicides" eid="Q60741370" aliases="glyphosate-based herbicide"> 
 <param title="Zea mays" eid="Q11575" aliases="maize"> 
 {#paragraph2}
+
+Why did maize inspire such strong reactions? Since its initial domestication over 9000 years ago, Mesoamerican communities have lived in symbiosis with maize: humans in the region, through their own ingenuity and acumen, domesticated the crop which provided them with necessary sustenance. In turn, communities in Mesoamerica constructed their societies, cosmologies, and cultures around the plant. The Monsanto Law effectively attempted to dissolve this sacred interdependence and reciprocity between local communities and maize. The history of maize thus demonstrates the complexities of human relationships to plants, which resist categorization solely as units to be bought, sold, or patented under capitalism. 
+<param ve-image
+       label="Zea mays"
+       attribution="John Audobon, New York Public Library"
+       license="public domain"
+       fit="contain"
+       url="https://digitalcollections.nypl.org/items/510d47d9-72fe-a3d9-e040-e00a18064a99">
+<param title="domestication" eid="Q905161">
+{#paragraph3}
