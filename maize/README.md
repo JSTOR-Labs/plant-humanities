@@ -72,7 +72,7 @@ The reliance of many human societies on maize, the “[most dominant and product
 
 Indigenous groups in what is now Southwestern Mexico played a major role in this domestication process and subsequent plant transfer. Recent phylogenetic analysis has shown that maize most likely arose from a single domestication event, which probably occurred in the Rio Balsas (Balsas River) Valley around 9000 years ago. Agrobiodiversity researchers have noted that “much of the evolution of maize during domestication may have been gradual, and there is evidence of increases in cob size over the first 2000 years of selection. There was an incredible diversity in terms of types of maize after its initial domestication: as scholars have noted, “maize is a sensitive mirror of the people who grow it,” and different Indigenous groups domesticated and cultivated various types of maize depending on “environmental and also [on] social and cultural factors," suggesting the role communities played in developing different types of maize most suited to their needs. 
 <param title="phylogenetics" eid="Q171184" aliases="phylogenetic analysis"> 
-<param ve-map title="The Origin of Maize" center="17.944277, -100.514509" zoom="5">
+<param ve-map title="The Origin of Maize" center="17.944277, -100.514509" zoom="8">
 <param ve-map-layer geojson active title="The Origin of Maize" url="/geojson/BalsasRiver.json">
 {#paragraph6}
 
