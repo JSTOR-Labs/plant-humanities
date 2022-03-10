@@ -56,4 +56,4 @@ What is maize, and how did it develop? This question may seem simple, particular
        attribution="Wikimedia Commons"
        license="public domain"
        fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Maize_plant_diagram.svg/640px-Maize_plant_diagram.svg.png">
+       url="https://github.com/JSTOR-Labs/plant-humanities/blob/39f409b6d12b83b672551e9ade3b6978b5edb96f/maize/Maize_Diagram_Wikicommons.png">
