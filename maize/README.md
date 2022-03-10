@@ -50,3 +50,10 @@ Why did maize inspire such strong reactions? Since its initial domestication ove
 {#paragraph3}
 
 ### A Kernel of Science
+What is maize, and how did it develop? This question may seem simple, particularly given the ubiquity of corn-based products, but the large body of scholarship on the crop reveals it to be anything but straightforward. Maize, or in taxonomic parlance _Zea mays L._, is a cereal grain consisting of a stalk, tassels of pollen, and ears filled with cobs of kernels (averaging 800 kernels spread across 16 rows).
+<param ve-image
+       label="Diagram of Maize"
+       attribution="Wikimedia Commons"
+       license="public domain"
+       fit="contain"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Maize_plant_diagram.svg/640px-Maize_plant_diagram.svg.png">
