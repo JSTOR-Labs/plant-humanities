@@ -147,7 +147,7 @@
       "properties": {
         "marker-color": "#0a0a0a",
         "marker-size": "medium",
-        "marker-symbol": "village"
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
