@@ -4,26 +4,6 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "Maize image 1",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://free.iiifhosting.com/iiif/dbb98ee2f8049909a0f3fe34abf21fdff6f97c49d1c050468538a01a42057ad2",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:20.634920120239258,18.452381134033203,147.619047164917,158.73015975952148"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#4f3ee665-304a-47f0-895e-d14eae7bb684"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
         "value": "Maize image 2",
         "purpose": "commenting"
       }
