@@ -6,7 +6,3 @@
        banner="nepenthesrafflessiana_BHL_crop.jpg"
        layout="vtl">
 
-### “A Small Vase, with Its Own Lid, a Wonderful Sight”
-Images and dried specimens of nepenthes along with textual descriptions of this plant were slow to reach Europe from the mid-1600s through the 1700s. During this period, only three _Nepenthes_ species of the more than [160 accepted today](http:// www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:327014-2) were recorded by Europeans. The slow pace of identifications was partly due to the labor, time, and cost involved in finding and describing foreign flora in the tropics for publication in Europe and partly due to the limited range of some species to an isolated geographic region. While the greatest species diversity is concentrated in the Philippines, Borneo, and Sumatra, the earliest recorded colonial encounters occurred in other places in which there was only one or two endemic species present.
-<param ve-map center="-2, 118" zoom="4">
-{#paragraph1}
