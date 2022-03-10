@@ -1,3 +1,4 @@
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config
        title="Sunflower: Knowledge, Myth, and Meaning"
        author="Kristan M. Hanson"
@@ -7,4 +8,3 @@
 	about="Q171497"
        layout="vtl" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es"
        description=“The domesticated sunflower, Helianthus annuus, is an iconic plant. The sunflower’s widely recognizable characteristics–a yellow flower head, large disk, heart-shaped or ovate leaves, and unbranched stem–have contributed to its popularity as an ornamental garden plant and an aesthetic muse. Because Helianthus annuus has such an imposing presence in many cultural imaginaries, we may be more familiar with sunflower imagery than with the actual flower. In response, this cultural history of the sunflower–attending to the circulation and significance of images–provides rich historical information about the plant and the role of visual culture in communicating the knowledge, myth, and meaning related to it.”>
-
