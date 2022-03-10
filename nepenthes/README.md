@@ -21,4 +21,5 @@ A constellation of European encounters with nepenthes the second half of the 160
 <param ve-entity eid="Q150525" title="Nepenthes mirabilis">
 <param ve-entity eid="Q729917" title="João de Loureiro">
 <param ve-map title="Map showing the locations of first recorded European encounters with nepenthese species." center="-2, 118" zoom="4" marker-type="none" stroke ="none">
+<param ve-map-layer heatmap="none">
 {#paragraph2}
