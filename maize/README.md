@@ -78,6 +78,9 @@ Indigenous groups in what is now Southwestern Mexico played a major role in this
 
 By 7000 years BP, humans had dispersed maize from the Rio Balsas region into South America as a partial domesticate, though, as scholars have noted, there were "multiple waves of dispersal" of maize into South America. There, the crop underwent “secondary improvement in the southwestern Amazon before diversifying across the continent. Humans then dispersed this domesticated vareity back into Central America and to the north, demonstrating the "clear evidence of two-way movements of plants and people lasting millennia between Central and South America." Maize is therefore a notable example of the mobility of plants in relation to humans. 
 <param title="Before Present" eid="Q503142" aliases="BP"> 
+<param ve-map title="The Spread of Maize" center="17.944277, -100.514509" zoom="4">
+<param ve-map-layer geojson active title="The Spread of Maize" url="/geojson/maizespread.json">
+{#paragraph6}
 
 
 
