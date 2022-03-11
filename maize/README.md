@@ -82,6 +82,16 @@ By 7000 years BP, humans had dispersed maize from the Rio Balsas region into Sou
 <param ve-map-layer geojson active title="The Spread of Maize" url="/geojson/maizespread.json">
 {#paragraph6}
 
+In addition domesticating maize by selecting for attractive characteristics such as cob size, and dispersing it throughout South America and back towards Central America, humans worked to cultivate maize, which could not have survived if left to its own devices. Wild teosinte is very fragile, and its pod can be shattered by the wind. By contrast, maize relies on humans to disperse its seeds.  The scientific history of maize thus reveals the central and active role early Mesoamericans played in its domestication through conscious decisions in the cultivation processes.
+<param title="indigenous peoples of Central America" eid="Q13109203" aliases="Mesoamericans"> 
+<param ve-image
+       label="Mesoamerican Maize Agriculture as depicted in the Florentine Codex"
+       attribution="Wikimedia Commons"
+       license="public domain"
+       fit="contain"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_Florentine_Codex-_Agriculture.tiff/lossy-page1-788px-The_Florentine_Codex-_Agriculture.tiff.jpg">
+
+
 
 
 
