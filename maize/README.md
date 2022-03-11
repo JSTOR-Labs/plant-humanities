@@ -90,6 +90,21 @@ In addition domesticating maize by selecting for attractive characteristics such
        license="public domain"
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_Florentine_Codex-_Agriculture.tiff/lossy-page1-788px-The_Florentine_Codex-_Agriculture.tiff.jpg">
+{#paragraph7}
+
+### Maize, Milpa, and Mesoamerica
+After its domestication, maize quickly became an important crop for Mesoamerican people, both nutritionally and culturally. Modern-day scholars and food policy experts have noted that maize is one of the most productive crops in terms of calories per acre.  This nutritional importance extends back into the pre-colonial era. Historically, Maya peoples practiced milpa agriculture, an agroecosystem which relied on extensive intercropping (and is [being extolled](https://www.cimmyt.org/news/classic-milpa-maize-intercrop-can-help-feed-communities-forgotten-by-development/) as a means to promote biodiversity and address food insecurity today). Under this system, maize was intercropped with plants including beans, squash, peppers, tomatoes, and potatoes, allowing for greater soil and landscape regeneration when compared to monocrops.  This practice, was incredibly productive: scientists have shown that in a milpa "the maize stalk supports the climbing bean, increasing the latter’s access to light, while the bean plant fixes additional nitrogen in the soil."  Maize thus not only represented an important source of nutrition in and of itself, but also enabled the growth of other nutritionally significant crops. Archeologists, using carbon isotope analysis of human bones and teeth, have shown how "maize was an important dietary component throughout life" for populations throughout the Maya area. 
+<param title="Maya people" eid="Q45914" aliases="Maya peoples"> 
+<param title="Milpa" eid="Q1537558" aliases="Milpa agriculture"> 
+<param title="Intercropping" eid="Q853859" aliases="intercropping"> 
+<param title="monoculture" eid="Q220212" aliases="monocrops"> 
+<param title="isotope analysis" eid="Q518459"> 
+<param ve-video
+	vid="keErercQx6o"
+	title="Milpa Agriculture">
+
+
+
 
 
 
