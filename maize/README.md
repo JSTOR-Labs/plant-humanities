@@ -102,12 +102,47 @@ After its domestication, maize quickly became an important crop for Mesoamerican
 <param ve-video
 	vid="keErercQx6o"
 	title="Milpa Agriculture">
+{#paragraph8}
+
+In order to obtain the utmost nutrients from maize, people in Mesoamerica practice a process called nixtamalization, a word derived from the Nahuatl terms for lime and maize dough. While, as scholars have noted, the "origin and development [of the nixtamalization process] remain archeologically unclear," the lime treatment of maize has been used for at least the past 3000 years in Mesoamerica to produce a "reduction of the labor required to grind maize, by breaking down the kernel's durable external pericarp or shell; and enhanced nutrition, by releasing niacin and amino acids inherent in the maize and contributing additional calcium from the lime.”  While nixtamalization does reduce the effort of grinding maize, this process was still very labor intensive for Mesoamerican women, who traditionally grind maize kernels into masa, or dough, over a metate or grinding stone. Further, maize is not only used to produce masa; Mesoamerican peoples make use of the maize stalks to produce maize beer, referred to as tesqüino in certain parts of Mesoamerica and chicha (Q51592) in others.
+<param title="nixtamalization" eid="Q3052219"> 
+<param title="Nahuatl" eid="Q13300">
+<param title="masa" eid="Q1006089">
+<param title="metate" eid="Q1854307">
+<param title="chicha" eid="Q516592">
+<param ve-image
+       label="Making tortillas with nixtamalized dough"
+       attribution="Las Tortilleras: women making tortillas, by Pierre-Frederic Lehnert, early 19th century Mexico."
+       license="public domain"
+       fit="contain"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tortilleras_Nebel.jpg/1600px-Tortilleras_Nebel.jpg?20080904092709">
+{#paragraph8}
 
 
-
-
-
-
+The nutritional importance of maize cannot be separated from its cultural significance. In the Popol Vuh (Q220264), which recounts the Maya creation story, humans were quite literally molded by the deities out of maize.  Scholars have long recognized motifs of maize found in Olmec and Maya iconography.  However, in the past four decades, scholars have begun to identify a specific “Maize God”. This god has an “elongated, tonsured head [which] mimics the long tasseled cob,” and often has “maize grain ... infixed into his head,” among other qualities. While there is much about the Maize God that remains to be explained in the scholarly literature, it is clear “that the corn cycle was the central metaphor of life and death for the Maya and the nucleus around which much of their religiosity was formed.”
+<param title="Popol Vuh" eid="Q220264"> 
+<param title="Olmeca" eid="Q135364" aliases="Olmec"> 
+<param title="tonsure" eid="Q273761" aliases="tonsured"> 
+<param title="Maya maize god" eid="Q12744013" aliases="Maize God"> 
+<param ve-image
+       label="Incised Bowl of Seated Maize Deity from the Late Classic Maya Period"
+       attribution="Dumbarton Oaks"
+       license="public domain"
+       fit="contain"
+       url="maize_deity_maize_DO.jpeg">
+<param ve-image
+       label="Bowl with Anthropomorphic Cacao Trees from Early Classic Maya Period"
+       attribution="Dumbarton Oaks"
+       license="public domain"
+       fit="contain"
+       url="cacao_maize_DO.jpg">
+<param ve-image
+       label="Head of Maize God from Late Classic Maya Period"
+       attribution="Dumbarton Oaks"
+       license="public domain"
+       fit="contain"
+       url="maize_god_maize_DO.jpg">
+{#paragraph9}
 
 
 
