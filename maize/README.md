@@ -178,6 +178,7 @@ Bolstered in part by this racialized understanding of maize, scientists around t
        license="public domain"
        fit="contain"
        url="https://s30471.pcdn.co/wp-content/uploads/2021/12/HybridCornSeedDistribution_LaMolinaPeru_RAC_001-2048x1582.jpg">
+{#paragraph13}
 
 These examples illuminate the resistance of communities in Central and South America to the commodification of maize. Maize even became a symbol of Central American cultural and political independence. In the 1980s, US President Ronald Reagan prohibited trade with Nicaragua in an attempt to erode the power of the Sandinistas, a left-wing political group. What this meant in practical terms was that Nicaragua was unable to obtain a sufficient supply of wheat, usually imported from the United States. In response, Nicaraguan artist Luis Enrique Mejía Godoy released a song titled "Somos Hijos Del Maiz," or, "We Are the Children of Corn," to rally support for the Sandinistas and resist American political influence. The song begins with the lyrics (in translation) "If they take away our bread/We will see ourselves in the obligation/ to survive as our grandparents did/ with fermented corn / in the blood of the heroes." Here, the sanctity of maize became a way to express independence from colonial and neo-colonial powers.
 <param title="Sandinista National Liberation Front" eid="Q27389" aliases="Sandinistas"> 
@@ -185,5 +186,15 @@ These examples illuminate the resistance of communities in Central and South Ame
 <param ve-video
 	vid="ST_3wN3lEFo"
 	title="Somos Hijos Del Maiz">															    
+{#paragraph14}
 															    
+Maize's cultural, political, and economic significance persists in Central American communities today. Milpa agriculture continues to be practiced by Maya farmers and has been hailed as “[central](https://allianceforscience.cornell.edu/blog/2017/10/a-mexican-legacy-la-milpa-the-birthplace-of-maize/#:~:text=The%20importance%20of%20the%20milpa,an%20amazing%20variety%20of%20peppers.)” in the preservation of the biodiversity of Mexico. However, this is not to say that the symbiotic relationship between Indigenous communities and the plant has remained unchanged— anthropologists have noted the effects of globalization and migration patterns. As one woman named Teresa living in San Miguel del Valle, Oaxaca puts it: "No, we didn't have to go looking for maize [like we do now]...That’s how we lived, that’s how it was before. Now it is different. Why? Because we live in the town... and we no longer have everything that we produced naturally, not anymore. What we eat now comes from elsewhere."  Beverages like atole, which used to be produced domestically, have been industrialized, and are now sold by multinational companies. 
+<param ve-image
+       label="Fortified atole which can be prepared in 2 minutes"
+       attribution="Open Food Facts"
+       license="public domain"
+       fit="contain"
+       url="https://world.openfoodfacts.org/images/products/750/630/631/2074/front_es.8.400.jpg">
+{#paragraph15}
 
+### Monsanto: Rise and Resistance
