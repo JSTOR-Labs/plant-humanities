@@ -162,7 +162,7 @@ For the Maya, maize was and is more than simply a metaphor and a powerful image 
        attribution="Miguel Cabrera, De Lobo y de India, Albarasado"
        license="public domain"
        fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Young_Corn_God_MET_1979.206.728_b.jpeg">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Castas_11albarazado_max.jpg/640px-Castas_11albarazado_max.jpg">
   {#paragraph11}
 
 While early conquistadors disparaged maize, from the nineteenth century onwards, the crop began to attract the attention of scientists from Europe and the United States due to its productivity and economic potential both as a domestic and export crop. In the early twentieth century, scientists from the US and Europe traveled to regions in Mexico, Peru, and Guatemala, among others to identify unique “landraces,” (Q174030)  or locally adapted domesticates, of maize.  Historian of science Helen Curry has detailed how scientists attempted to transpose putative human race science onto maize taxonomies: “At the most fundamental level, the raw material and motivation for classification arose directly from the imperative of ‘improvement’ in both crops and people.”  These scientists presented a vision of “early, stable indigenous races, transformed by racial mixing with newly arriving populations from other geographical regions, giving rise to valuable new ‘incipient’ but still-unstable racial types.” 
