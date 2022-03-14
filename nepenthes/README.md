@@ -25,7 +25,5 @@ A constellation of European encounters with nepenthes the second half of the 160
 {#paragraph2}
 
 A constellation of European encounters with nepenthes the second half of the 1600s included those of the French colonial governor of Madagascar Étienne de Flacourt with
-<param ve-plant-specimen eid="Q155825" max="5" label="A dried herbarium specimen, similar to the nineteenth century 
-example shown here, was likely the closest Linnaeus ever got to this 
-predatory plant.">
+<param ve-plant-specimen eid="Q155825" max="2">
 {#paragraph3}
