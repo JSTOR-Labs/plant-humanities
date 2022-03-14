@@ -184,11 +184,5 @@ While early conquistadors disparaged maize, from the nineteenth century onwards,
        attribution="JStor Global Plants"
        license="public domain"
        fit="contain"
-       url="https://plants.jstor.org/fsi/img/size1/alukaplant/ibug/phase_01/ibug0001/ibug0030081.jpg">
-<param ve-image
-       label="Different maize specimens"
-       attribution="JStor Global Plants"
-       license="public domain"
-       fit="contain"
-       url="https://plants.jstor.org/fsi/img/size1/alukaplant/wis/phase_01/wis0003/wisv0254313wis.jpg">       
+       url="https://plants.jstor.org/fsi/img/size1/alukaplant/wis/phase_01/wis0003/wisv0254313wis.jpg"> 
   {#paragraph12}
