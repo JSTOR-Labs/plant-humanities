@@ -169,3 +169,21 @@ While early conquistadors disparaged maize, from the nineteenth century onwards,
 <param title="landrace" eid="Q174030" aliases="landraces"> 
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000632872" label="Maize specimens.">
   {#paragraph12}
+ 
+Bolstered in part by this racialized understanding of maize, scientists around the world began to breed maize for preferred traits, namely, quick growth and high productivity. By the 1940s, the Rockefeller Foundation (Q862034) began to partner with the Mexican government to increase production rates of certain staple crops, including maize.  These attempts to turn maize into a scientific commodity attracted both local and global concern: one American geographer noted that this endeavor proffered the potential “disastrous destruction of local genes.... Mexican agriculture cannot be pointed toward standardization on a few commercial types without upsetting native economy and culture hopelessly.”  As one Mexican scientist detailed, some communities refused to sell types of maize used in rituals, no matter what price was offered.
+<param title="Rockefeller Foundation" eid="Q862034"> 
+<param ve-image
+       label="Hybrid corn seed being distributed in Peru"
+       attribution="Rockefeller Archive Foundation
+       license="public domain"
+       fit="contain"
+       url="https://s30471.pcdn.co/wp-content/uploads/2021/12/HybridCornSeedDistribution_LaMolinaPeru_RAC_001-2048x1582.jpg">
+
+These examples illuminate the resistance of communities in Central and South America to the commodification of maize. Maize even became a symbol of Central American cultural and political independence. In the 1980s, US President Ronald Reagan prohibited trade with Nicaragua in an attempt to erode the power of the Sandinistas, a left-wing political group. What this meant in practical terms was that Nicaragua was unable to obtain a sufficient supply of wheat, usually imported from the United States. In response, Nicaraguan artist Luis Enrique Mejía Godoy released a song titled "Somos Hijos Del Maiz," or, "We Are the Children of Corn," to rally support for the Sandinistas and resist American political influence. The song begins with the lyrics (in translation) "If they take away our bread/We will see ourselves in the obligation/ to survive as our grandparents did/ with fermented corn / in the blood of the heroes." Here, the sanctity of maize became a way to express independence from colonial and neo-colonial powers.
+<param title="Sandinista National Liberation Front" eid="Q27389" aliases="Sandinistas"> 
+<param title="Luis Enrique Mejía Godoy" eid="Q4292179"> 
+<param ve-video
+	vid="3wN3lEFo"
+	title="Somos Hijos Del Maiz">															    
+															    
+
