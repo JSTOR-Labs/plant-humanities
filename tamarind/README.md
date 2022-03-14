@@ -70,14 +70,14 @@ Regarding India, the world’s largest tamarind producer, some sources suggest t
 {#paragraph6}
 
 Today, tamarind orchards are located across India with one of the oldest groves, Nallur Amarai, located just outside of Begaluru. This 54-acre grove and recently-declared biodiversity heritage site is believed to have been planted during the Chola dynasty in the twelfth century, though the oldest dated tree is 400 years old. While the plant has been cultivated in orchards and grown as a large-scale crop for commercial purposes, the trees are most frequently referenced in historical literature as singular trees, small ornamental groves (frequently in the shape of bonsai, especially in South Asia), or along roadsides. 
-<param ve-image fit="contain" label="Old tamarind tree in the Nallur Amarai Grove" author="Shyamal" attribution="Shyamal" license="CC BY-NC 4.0" url="https://upload.wikimedia.org/wikipedia/commons/2/27/Nallur_tamarind1.jpg">
+<param ve-image fit="contain" label="Old tamarind tree, Nallur heritage grove, Bangalore, 2018" attribution="Shyamal, Wikimedia Commons" license="CC BY-NC 4.0" url="https://upload.wikimedia.org/wikipedia/commons/2/27/Nallur_tamarind1.jpg">
 <param ve-entity eid="Q1355" title="Bengaluru"> 
 <param ve-entity eid="Q151148" title="Chola dynasty">
 <param ve-entity eid="Q64365" title="bonsai"> 
 {#paragraph7}
 
 This is the case for the <span data-mouseover-image-zoomto="1072,3109,1345,1166">tamarind trees</span> featured, in text and image, in the lavishly illustrated late sixteenth-century manuscript, Bãburnãma (History of Babur), which details the life of <span eid="Q797848">Emperor Babur</span> (1483–1530), founder of the Mughal dynasty. One of the first autobiographies in Islamic literature, the text was originally written in the Chagatai language and later translated to Persian for this manuscript at the behest of Babur’s grandson, Emperor Akbar, so that his political and military exploits might be further circulated. The finely-detailed tamarind tree illustration seen here is described as a “very good-looking tree, giving dense shade” that “grows wild in masses,” a depiction supported by the groves of tamarind trees that are referenced throughout Babur’s travels.[^ref9]
-<param ve-image fit="contain" label="Mughal Style Tamarind Tree featured in the Bãburnãma, 1590" attribution="Or. 3714 Vol.4  f.397, The British Library Board" license="copyright" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/Mughal_style_tamarind_Brit_Lib_copyright_The_British_Library.png?raw=true">
+<param ve-image fit="contain" label="Tamarind Tree, Bãburnãma (Vaki’at-i Baburi), 1590" attribution="Or. 3714 Vol.4  f.397, The British Library" license="Copyright © The British Library Board (Or. 3714)" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/Mughal_style_tamarind_Brit_Lib_copyright_The_British_Library.png?raw=true">
 <param ve-entity eid="Q33296" title="Mughal">
 <param ve-entity eid="Q1906014" title="Baburnama" aliases="Bãburnãma">
 {#paragraph8}
