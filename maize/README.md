@@ -167,8 +167,9 @@ For the Maya, maize was and is more than simply a metaphor and a powerful image 
 
 While early conquistadors disparaged maize, from the nineteenth century onwards, the crop began to attract the attention of scientists from Europe and the United States due to its productivity and economic potential both as a domestic and export crop. In the early twentieth century, scientists from the US and Europe traveled to regions in Mexico, Peru, and Guatemala, among others to identify unique “landraces,” (Q174030)  or locally adapted domesticates, of maize.  Historian of science Helen Curry has detailed how scientists attempted to transpose putative human race science onto maize taxonomies: “At the most fundamental level, the raw material and motivation for classification arose directly from the imperative of ‘improvement’ in both crops and people.”  These scientists presented a vision of “early, stable indigenous races, transformed by racial mixing with newly arriving populations from other geographical regions, giving rise to valuable new ‘incipient’ but still-unstable racial types.” 
 <param title="landrace" eid="Q174030" aliases="landraces"> 
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000632872" label="Maize specimens.">
-  {#paragraph12}
+<param ve-plant-specimen
+eid="Q11575"
+max="3">  {#paragraph12}
  
 Bolstered in part by this racialized understanding of maize, scientists around the world began to breed maize for preferred traits, namely, quick growth and high productivity. By the 1940s, the Rockefeller Foundation (Q862034) began to partner with the Mexican government to increase production rates of certain staple crops, including maize.  These attempts to turn maize into a scientific commodity attracted both local and global concern: one American geographer noted that this endeavor proffered the potential “disastrous destruction of local genes.... Mexican agriculture cannot be pointed toward standardization on a few commercial types without upsetting native economy and culture hopelessly.”  As one Mexican scientist detailed, some communities refused to sell types of maize used in rituals, no matter what price was offered.
 <param title="Rockefeller Foundation" eid="Q862034"> 
