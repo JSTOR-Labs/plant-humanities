@@ -167,22 +167,5 @@ For the Maya, maize was and is more than simply a metaphor and a powerful image 
 
 While early conquistadors disparaged maize, from the nineteenth century onwards, the crop began to attract the attention of scientists from Europe and the United States due to its productivity and economic potential both as a domestic and export crop. In the early twentieth century, scientists from the US and Europe traveled to regions in Mexico, Peru, and Guatemala, among others to identify unique “landraces,” (Q174030)  or locally adapted domesticates, of maize.  Historian of science Helen Curry has detailed how scientists attempted to transpose putative human race science onto maize taxonomies: “At the most fundamental level, the raw material and motivation for classification arose directly from the imperative of ‘improvement’ in both crops and people.”  These scientists presented a vision of “early, stable indigenous races, transformed by racial mixing with newly arriving populations from other geographical regions, giving rise to valuable new ‘incipient’ but still-unstable racial types.” 
 <param title="landrace" eid="Q174030" aliases="landraces"> 
-<param ve-image
-       label="Different maize specimens"
-       attribution="JStor Global Plants"
-       license="public domain"
-       fit="contain"
-       url="https://plants.jstor.org/fsi/img/size1/alukaplant/b/phase_01/b0002/b_10_0250142.jpg">
-<param ve-image
-       label="Different maize specimens"
-       attribution="JStor Global Plants"
-       license="public domain"
-       fit="contain"
-       url="https://plants.jstor.org/fsi/img/size1/alukaplant/ibug/phase_01/ibug0001/ibug0030081.jpg">
-<param ve-image
-       label="Different maize specimens"
-       attribution="JStor Global Plants"
-       license="public domain"
-       fit="contain"
-       url="https://plants.jstor.org/fsi/img/size1/alukaplant/wis/phase_01/wis0003/wisv0254313wis.jpg"> 
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.g00210232" label="A dried herbarium specimen, similar to the nineteenth century example shown here, was likely the closest Linnaeus ever got to this predatory plant.">
   {#paragraph12}
