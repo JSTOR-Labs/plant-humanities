@@ -144,6 +144,51 @@ The nutritional importance of maize cannot be separated from its cultural signif
        url="maize_god_maize_DO.jpg">
 {#paragraph9}
 
+For the Maya, maize was and is more than simply a metaphor and a powerful image in the Mesoamerican visual lexicon. Seventeenth-century records demonstrate how in highland Guatemala, upon the birth of a son, the Maya community would burn the blood of the umbilical cord. Then, they would “pas[s] an ear of maize through the smoke,” which would subsequently be planted in the maize field. Ethnographers have recorded that “parents used the maize from this small patch of land to feed the child ‘until he reached the age when he could plant for himself, saying that thus he not only ate by the sweat of his brow, but of his own blood as well.’”  Further, in certain regions, mothers “place an ear of maize into the palm of their newborns, and eat only dishes made from maize while breast-feeding to ensure that the child grows ‘true flesh.’”  Maize, for Maya people, thus represents more than both calories or symbol: it is a sacred plant from which all life grows. 
+<param ve-image
+       label="Young Maize God"
+       attribution="Wikimedia Commons"
+       license="public domain"
+       fit="contain"
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Young_Corn_God_MET_1979.206.728_b.jpeg">
+ {#paragraph10}
+ 
+ ### Maize in the Colonial and Postcolonial Eras
+ During the colonial era, Maya understandings of maize as a sacred plant pushed up against European understandings of the crop. Spanish colonizers often publicly denigrated foods like maize as “dangerous to the European constitution.”  But even as the Spanish publicly disdained maize, there is ample evidence that they recognized the utility—and scrumptiousness— of the crop: one Peruvian annalist of the era recounted how one group of conquistadors inhaled maize “as if it were sugared almonds.”  Indeed, there are records of conquistadors enjoying atole, a maize beverage, and eating puddings made of maize.
+<param title="conquistador" eid="Q126236" aliases="conquistadors"> 
+<param title="atole" eid="Q2312651"> 
+<param ve-image
+       label="1763 painting of Indigenous woman giving tropical fruits including guava and chaoytes to the viewer"
+       attribution="Miguel Cabrera, De Lobo y de India, Albarasado"
+       license="public domain"
+       fit="contain"
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Young_Corn_God_MET_1979.206.728_b.jpeg">
+  {#paragraph11}
 
-
-       
+While early conquistadors disparaged maize, from the nineteenth century onwards, the crop began to attract the attention of scientists from Europe and the United States due to its productivity and economic potential both as a domestic and export crop. In the early twentieth century, scientists from the US and Europe traveled to regions in Mexico, Peru, and Guatemala, among others to identify unique “landraces,” (Q174030)  or locally adapted domesticates, of maize.  Historian of science Helen Curry has detailed how scientists attempted to transpose putative human race science onto maize taxonomies: “At the most fundamental level, the raw material and motivation for classification arose directly from the imperative of ‘improvement’ in both crops and people.”  These scientists presented a vision of “early, stable indigenous races, transformed by racial mixing with newly arriving populations from other geographical regions, giving rise to valuable new ‘incipient’ but still-unstable racial types.” 
+<param title="landrace" eid="Q174030" aliases="landraces"> 
+<param ve-image
+       label="Different maize specimens"
+       attribution="JStor Global Plants"
+       license="public domain"
+       fit="contain"
+       url="https://plants.jstor.org/fsi/img/size1/alukaplant/b/phase_01/b0002/b_10_0250142.jpg">
+<param ve-image
+       label="Different maize specimens"
+       attribution="JStor Global Plants"
+       license="public domain"
+       fit="contain"
+       url="https://plants.jstor.org/fsi/img/size1/alukaplant/ibug/phase_01/ibug0001/ibug0030081.jpg">
+<param ve-image
+       label="Different maize specimens"
+       attribution="JStor Global Plants"
+       license="public domain"
+       fit="contain"
+       url="https://plants.jstor.org/fsi/img/size1/alukaplant/ibug/phase_01/ibug0001/ibug0030081.jpg">
+<param ve-image
+       label="Different maize specimens"
+       attribution="JStor Global Plants"
+       license="public domain"
+       fit="contain"
+       url="https://plants.jstor.org/fsi/img/size1/alukaplant/wis/phase_01/wis0003/wisv0254313wis.jpg">       
+  {#paragraph12}
