@@ -24,6 +24,6 @@ A constellation of European encounters with nepenthes the second half of the 160
 <param ve-map-layer heatmap="none">
 {#paragraph2}
 
-A constellation of European encounters with nepenthes the second half of the 1600s included those of the French colonial governor of Madagascar Étienne de Flacourt with
-<param ve-plant-specimen eid="Q155825" max="2">
+A constellation of European encounters with nepenthes the second half of the 1600s included those of the French colonial governor of Madagascar Étienne de Flacourt with A constellation of European encounters with nepenthes the second half of the 1600s included those of the French colonial governor of Madagascar Étienne de Flacourt with A constellation of European encounters with nepenthes the second half of the 1600s included those of the French colonial governor of Madagascar Étienne de Flacourt with A constellation of European encounters with nepenthes the second half of the 1600s included those of the French colonial governor of Madagascar Étienne de Flacourt with
+<param ve-plant-specimen eid="Q12844029" max="3">
 {#paragraph3}
