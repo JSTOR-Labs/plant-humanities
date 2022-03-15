@@ -994,14 +994,14 @@
     grid-area: search-container;
     align-self: center;
     display: grid;
-    grid-template-columns: 105px auto;
+    grid-template-columns: auto auto;
     grid-template-rows: auto auto auto;
     grid-template-areas: 
       ". search-header"
       ". search-components"
       ". search-examples";
     background-color: rgba(0, 0, 0, .3);
-    padding: 16px 0;
+    padding: 16px 16px;
   }
 
   .search-header {
