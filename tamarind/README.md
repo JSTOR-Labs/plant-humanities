@@ -93,7 +93,7 @@ As one of the largest trees in India, tamarind plants have been incorporated in 
 
 ### Tamarind’s Medicinal and Culinary Uses
 Virtually every part of the tamarind tree—seeds, fruity pulp, bark, root, and leaves—is edible in some form. Tamarind fruit contains the rather unusual tantric acid that makes it simultaneously the “most acidic and sweetest fruit.”[^ref12] The acid’s sweet-sour flavoring has a cooling effect in hot weather which makes it a valuable ingredient in a wide variety of dishes and beverages and inextricably links the fruit to warm climates. Moreover, as French botanist Joseph de Tournefort conjectured, the fruit’s acidity lends itself to uncountable medicinal uses, such as a [“purging medicine,”](https://luna.folger.edu/luna/servlet/detail/FOLGER~3~3~18513~281201:Receipt-book-of-Catherine-Bacon--ma) a [laxative,](https://archive.org/details/b2130659x_0002/page/172/mode/2up?q=tamarind*) an [aid in facial paralysis,](https://archive.org/details/englishtranslati00susruoft/page/n4/mode/1up?q=tamarind*) and a [flavoring to make more bitter or unpleasant medicines taste sweeter.](https://archive.org/details/b2130659x_0002/page/172/mode/2up?q=tamarind*)
-<param ve-image region="-51,1682,4044,3528" label="Jose Joaquim Freire, Tamarindus indica, L., 1700s, watercolor, 34.5 x 24 cm" attribution="Brasiliana Iconográfica via Wikimedia Commons" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/5/5f/%28Tamarindus_indica%2CL.%29.%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg">
+<param ve-graphic url="https://www.brasilianaiconografica.art.br/obras/17958/tamarindus-indica-l">
 <param ve-entity eid="Q312959" title="Joseph de Tournefort">
 {#paragraph10}
 
