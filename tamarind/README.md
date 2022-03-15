@@ -114,14 +114,14 @@ Tamarind’s resilience has made it a central part of herbal medicine practices 
 {#paragraph12}
 
 Tracing the appearance of the tamarind tree’s commonly-used parts across materia medica, travelogues, and cookbooks, as we do throughout, is one means to track the circulation of traditional herbal Ayurvedic medicinal knowledge through the peak of colonial expansion, call attention to the colonial economic interest in _T. indica_, and foreground the diverse religious and culinary cultures that the plant sustains. 
-<param ve-image fit="contain" label="Tamarindus indica, L., A. Bernecker, watercolor" attribution="Naturalis Biodiversity Center" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/2/29/Naturalis_Biodiversity_Center_-_L.0939530_-_Bernecker%2C_A._-_Tamarindus_indica_Linnaeus_-_Artwork.jpeg">
+<param ve-image fit="contain" label="A. Bernecker, Tamarindus indica, L., watercolor" attribution="Naturalis Biodiversity Center via Wikimedia Commons" license="CC0 1.0" url="https://upload.wikimedia.org/wikipedia/commons/2/29/Naturalis_Biodiversity_Center_-_L.0939530_-_Bernecker%2C_A._-_Tamarindus_indica_Linnaeus_-_Artwork.jpeg">
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.linn-hs78-1-3">
 <param ve-entity eid="Q1291275" title="materia medica">
 {#paragraph13}
 
 ### Leaves 
 In its mature state, the tamarind tree’s vast crown is a place of refuge. Because the tree can grow in developed areas, be it the side of the road, in barren spaces, or in commercial areas, it’s a common gathering place for people seeking relief from hot sun or congregating for sacred reasons.[^ref13] In many cultures the tree has historically been considered holy. Tamil culture, for example, recognizes Puliyidaivalaiyamman as the tamarind tree deity who offers fruit as a blessing.[^ref14] The leaves, young seedlings, and flowers that make up the crown are made into chutneys, added to sambar and soup.[^ref15] Outside of the kitchen, the leaves, which contain tannins, [can be used as a natural mordant](https://www.sciencedirect.com/science/article/pii/S131961031100202X) to affix dye to textiles. In a medicinal context, the leaves can be dried or boiled for use as poultices to relieve swelling.[^ref16]
-<param ve-image label="Joseph Hooker's tamarind tree etching from his Himalayan Journal (1848)" author="Joseph Dalton Hooker" attribution="Wellcome Library Trust, https://wellcome.org" license="CC BY-NC 2.0" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/Joseph_Hookers_tamarind_Wellcome_Lib_CC_BY_NC_2.0.png?raw=true">
+<param ve-image label="Joseph Hooker's tamarind tree etching from his Himalayan Journal (1848)" author="Joseph Dalton Hooker" attribution="Wellcome Library Trust, https://wellcome.org" license="CC BY-NC 2.0" url="https://iiif.wellcomecollection.org/image/b28125800_0001_0057.jp2/full/2048%2C/0/default.jpg">
 <param ve-image label="Idital-Soura Wall Painting" attribution="Hpsatapathy" license="CC BY-NC 3.0" url="https://upload.wikimedia.org/wikipedia/commons/e/e6/Idital_Wall_Painting.jpg">
 <param ve-entity eid="Q811571" title="tree deity">
 <param ve-entity eid="Q275650" title="chutney">
