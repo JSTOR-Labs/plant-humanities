@@ -234,6 +234,6 @@ This contamination has alarmed scientists, farmers, and activists around the wor
 
 It was in response to further contamination—and the legal codification of Monsanto’s presence in the region’s agriculture— that protests broke out in Guatemala in 2014. According to Maya columnist Bá Tiul, the fact that “people go out into the streets and roads to demonstrate their displeasure, because their sacred corn was to be given to Monsanto, is a sign that gradually people are taking their dignity and are expressing that the authorities are not those who [really] rule, but who obey; they are not who decide, but who must respond to what people want.”  And, in the end, the people won: the Guatemalan Congress, swayed by the powerful protest, voted to repeal the Monsanto Law. 
 <param ve-image
-       fit="contain"
+       fit="fill"
        url="Maize_quote.png">
 {#paragraph18}
