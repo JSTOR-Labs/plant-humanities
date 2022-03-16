@@ -215,3 +215,25 @@ Maize's cultural, political, and economic significance persists in Central Ameri
 {#paragraph15}
 
 ### Monsanto: Rise and Resistance
+As a result of the same forces of globalization and industrialization, threats to maize diversity are more acute than ever. Since the 1940s, scientists have warned that “the whole genetic pattern of Zea mays... has been catastrophically overhauled.”  The reduction of maize’s genetic diversity has been exacerbated since the 1990s: in that decade, the major agrochemical corporation Monsanto began to produce transgenic maize products that were resistant to glyphosate, an herbicide discovered, developed, and patented by Monsanto. Further, in 1994, the passage of NAFTA meant that US maize could be sold at incredibly cheap rates in Mexico. “The sheer amount of contamination from a very homogenous source drives diverse populations into narrow genetic backgrounds,” argued Ignacio Chapela, an ecologist at UC Berkeley. 
+<param title="North American Free Trade Agreement" eid="Q181574" aliases="NAFTA"> 
+<param ve-image
+       label="Consumption and Production of Maize in Mexico"
+       attribution="Wikimedia Commons"
+       license="public domain"
+       fit="contain"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Mexico_FAO_maize_wheat.png?20091207101133">
+{#paragraph16}       
+
+This contamination has alarmed scientists, farmers, and activists around the world for a variety of reasons. Zapatistas fighting for autonomy in Mexico argued that transgenic industrial maize threatened to “overwhelm” local varieties and thereby make Central American economies reliant on US corporations. Since the 1970s, agronomists around the world have been concerned about the potential loss of crop diversity and the catastrophic consequences for global food security. And local farmers and community members worry about relying on global agribusiness for their main source of sustenance, as well as the potential disruption to their moral economies and local cosmologies.
+<param title="Zapatista Army of National Liberation" eid="Q188590" aliases="Zapatistas"> 
+<param ve-video
+	vid="qBOg2iCHRGE"
+	title="Interviews with Guatemalan Peasants against Monsanto">
+{#paragraph17}
+
+It was in response to further contamination—and the legal codification of Monsanto’s presence in the region’s agriculture— that protests broke out in Guatemala in 2014. According to Maya columnist Bá Tiul, the fact that “people go out into the streets and roads to demonstrate their displeasure, because their sacred corn was to be given to Monsanto, is a sign that gradually people are taking their dignity and are expressing that the authorities are not those who [really] rule, but who obey; they are not who decide, but who must respond to what people want.”  And, in the end, the people won: the Guatemalan Congress, swayed by the powerful protest, voted to repeal the Monsanto Law. 
+<param ve-image
+       fit="contain"
+       url="Maize_quote.png">
+{#paragraph18}
