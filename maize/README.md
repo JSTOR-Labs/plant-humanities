@@ -263,5 +263,5 @@ While some protests against Monsanto’s promotion of transgenic maize have been
        attribution="Wikimedia Commons"
        license="public domain"
        fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/a/ab/IHC_corn_picker%2C_Story_County%2C_Iowa%2C_2011.jpg">       
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/IHC_corn_picker%2C_Story_County%2C_Iowa%2C_2011.jpg/1599px-IHC_corn_picker%2C_Story_County%2C_Iowa%2C_2011.jpg?20120207091308">       
 				
