@@ -58,5 +58,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#ddfd2334-69b9-4189-9b52-ca520ce7db6f"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Maize generally only has two ears. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://nsf.gov/news/mmg/media/images/maize1_h.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1979.914306640625,123.1044921875,226.446044921875,520.51513671875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#347c27c4-42c9-4b08-a195-87863a0051bc"
   }
 ]
