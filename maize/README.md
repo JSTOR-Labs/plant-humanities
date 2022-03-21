@@ -237,3 +237,9 @@ It was in response to further contamination—and the legal codification of Mons
        fit="fill"
        url="Maize_quote.png">
 {#paragraph18}
+
+The 2014 protest in Guatemala is not the only example of dissent over transgenic maize. Historian Helen Anne Curry describes local movements in Mexico that, in the early 2000s, declared “sin maíz no hay país” (“without maize there is no country”).  Zapatista rebels “took matters into their own hands” by “developing locally managed preservation measures ...that connected Indigenous peoples with scientists and activists.”  And, recently, Mexican president Andrés Manuel López Obrador promised to gradually eliminate the use of glyphosate and the production of GMO maize.
+<param title="Zapatista Army of National Liberation" eid="Q188590" aliases="Zapatista"> 
+<param title="glyphosate" eid="Q407232">
+<param ve-map title="Global Responses to Transgenic Maize" center="34.746245, -39.385903" basemap="Esri_WorldPhysical" zoom="2" stroke-width="0" show-labels>
+<param ve-map-layer geojson active url="/geojson/maizespread.json">
