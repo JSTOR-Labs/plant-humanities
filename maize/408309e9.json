@@ -38,5 +38,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#b120fbff-d1be-4189-9331-e1553529de1c"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Scholars such as Simon Martin have shown how this image represents a fusion of the glyph between the maize god head and the sign for tree, or the \"Maize Tree.\" Cacao is thus one of the fruits of the maize tree. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/413da5d19d6754c576813b7778c9700257f0388cb61954a03c68ea10b97b53aa",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:915.6583862304688,718.6761474609375,266.69927978515625,182.72998046875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f6de229a-0332-46a1-a100-8c6ecf7a725e"
   }
 ]
