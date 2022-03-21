@@ -115,7 +115,7 @@ In order to obtain the utmost nutrients from maize, people in Mesoamerica practi
        attribution="Detalle del Códice Mendoza (1540), Wikimedia Commons"
        license="public domain"
        fit="contain"
-       url="ttps://upload.wikimedia.org/wikipedia/commons/8/80/Mujer_moliendo_en_el_metate._Molcajete_%28%22escudilla%22%29%2C_comal_y_olla.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/8/80/Mujer_moliendo_en_el_metate._Molcajete_%28%22escudilla%22%29%2C_comal_y_olla.jpg">
 <param ve-image
        label="Making tortillas with nixtamalized dough"
        attribution="Las Tortilleras: women making tortillas, by Pierre-Frederic Lehnert, early 19th century Mexico."
