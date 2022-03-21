@@ -64,10 +64,10 @@ The reliance of many human societies on maize, the “[most dominant and product
 <param title="Euchlaena" eid="Q8843748"> 
 <param ve-image
        label="Comparison between Maize and Teosinte"
-       attribution="Wikimedia Commons"
+       attribution="National Science Foundation"
        license="public domain"
        fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Teosinte_and_Modern_Corn_Comparison_%283745571067%29.jpg?20180119140852">
+       url="https://nsf.gov/news/mmg/media/images/maize1_h.jpg">
 {#paragraph5}
 
 Indigenous groups in what is now Southwestern Mexico played a major role in this domestication process and subsequent plant transfer. Recent phylogenetic analysis has shown that maize most likely arose from a single domestication event, which probably occurred in the Rio Balsas (Balsas River) Valley around 9000 years ago. Agrobiodiversity researchers have noted that “much of the evolution of maize during domestication may have been gradual, and there is evidence of increases in cob size over the first 2000 years of selection. There was an incredible diversity in terms of types of maize after its initial domestication: as scholars have noted, “maize is a sensitive mirror of the people who grow it,” and different Indigenous groups domesticated and cultivated various types of maize depending on “environmental and also [on] social and cultural factors," suggesting the role communities played in developing different types of maize most suited to their needs. 
