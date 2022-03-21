@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Teosinte's ear consists of 6-12 kernels surrounded by a protective shell.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://nsf.gov/news/mmg/media/images/maize1_h.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:210.62744140625,157.1665496826172,434.40533447265625,600.2224273681641"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#99edd845-611d-44fe-a501-1755c18dee95"
+  }
+]
