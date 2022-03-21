@@ -242,4 +242,4 @@ The 2014 protest in Guatemala is not the only example of dissent over transgenic
 <param title="Zapatista Army of National Liberation" eid="Q188590" aliases="Zapatista"> 
 <param title="glyphosate" eid="Q407232">
 <param ve-map title="Global Responses to Transgenic Maize" center="34.746245, -39.385903" basemap="Esri_WorldPhysical" zoom="2" stroke-width="0" show-labels>
-<param ve-map-layer geojson active url="/geojson/maizespread.json">
+<param ve-map-layer geojson active url="/geojson/maizeresponse.json">
