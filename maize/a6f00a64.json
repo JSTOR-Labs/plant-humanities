@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#99edd845-611d-44fe-a501-1755c18dee95"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "By contrast, maize has a much heavier ear with approximately 20 rows of kernels and no hard outer shell. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://nsf.gov/news/mmg/media/images/maize1_h.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1520.6832275390625,129.83876037597656,328.6429443359375,513.0440521240234"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ddfd2334-69b9-4189-9b52-ca520ce7db6f"
   }
 ]
