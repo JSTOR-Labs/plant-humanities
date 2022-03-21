@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#02f3ce9c-57f3-48a2-99ff-021088a96bbe"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "While some scholars used to think this was a \"Cacao God\", recent studies have pointed to the tonsured hair to show this was the Maize God just in the embodiment of a cacao tree. \n",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/413da5d19d6754c576813b7778c9700257f0388cb61954a03c68ea10b97b53aa",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1259.79931640625,519.9200439453125,397.291748046875,166.61749267578125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#b120fbff-d1be-4189-9331-e1553529de1c"
   }
 ]
