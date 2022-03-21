@@ -162,7 +162,7 @@ For the Maya, maize was and is more than simply a metaphor and a powerful image 
        attribution="University of Arizona Press"
        license="public domain"
        fit="contain"
-       url="maiz sagrado 3 .png">        
+       url="maiz sagrado 3.png">        
  {#paragraph10}
  
  ### Maize in the Colonial and Postcolonial Eras
