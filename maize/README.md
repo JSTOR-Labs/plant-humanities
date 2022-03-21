@@ -41,6 +41,12 @@ The Guatemalan public foresaw several problems with this protection for privatiz
 
 Why did maize inspire such strong reactions? Since its initial domestication over 9000 years ago, Mesoamerican communities have lived in symbiosis with maize: humans in the region, through their own ingenuity and acumen, domesticated the crop which provided them with necessary sustenance. In turn, communities in Mesoamerica constructed their societies, cosmologies, and cultures around the plant. The Monsanto Law effectively attempted to dissolve this sacred interdependence and reciprocity between local communities and maize. The history of maize thus demonstrates the complexities of human relationships to plants, which resist categorization solely as units to be bought, sold, or patented under capitalism. 
 <param ve-image
+       label="Young Maya Maize God"
+       attribution="Young Corn Deity, Mexico, Maya (MET, 1979.206.728), Wikimedia Commons"
+       license="public domain"
+       fit="contain"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Young_Corn_God_MET_1979.206.728_b.jpeg/800px-Young_Corn_God_MET_1979.206.728_b.jpeg?20170629192306">
+<param ve-image
        label="Zea mays"
        attribution="John Audobon, New York Public Library"
        license="public domain"
