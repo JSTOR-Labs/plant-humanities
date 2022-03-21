@@ -38,25 +38,5 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#b120fbff-d1be-4189-9331-e1553529de1c"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": "Scholars such as Simon Martin have shown how this image represents a fusion of the glyph between the maize god head and the sign for tree, demonstrating the deep connection between cacao and maize. ",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://free.iiifhosting.com/iiif/413da5d19d6754c576813b7778c9700257f0388cb61954a03c68ea10b97b53aa",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:895.6658325195312,706.5546875,302.43817138671875,177.9798583984375"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#c25e66fb-94fa-4700-a70d-c951f1b0e850"
   }
 ]
