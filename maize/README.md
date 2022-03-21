@@ -189,13 +189,13 @@ While early conquistadors disparaged maize, from the nineteenth century onwards,
        attribution="JStor Global Plants"
        license="public domain"
        fit="contain"
-       url="ZeaMays2_JStor.jpg">   
+       url="ZeaMays4.png">   
 <param ve-image
        label="Different specimens of maize"
        attribution="JStor Global Plants"
        license="public domain"
        fit="contain"
-       url="ZeaMays3_JStor.jpg">       
+       url="ZeaMays5.png">       
  {#paragraph12}
  
 Bolstered in part by this racialized understanding of maize, scientists around the world began to breed maize for preferred traits, namely, quick growth and high productivity. By the 1940s, the Rockefeller Foundation began to partner with the Mexican government to increase production rates of certain staple crops, including maize.  These attempts to turn maize into a scientific commodity attracted both local and global concern: one American geographer noted that this endeavor proffered the potential “disastrous destruction of local genes.... Mexican agriculture cannot be pointed toward standardization on a few commercial types without upsetting native economy and culture hopelessly.”  As one Mexican scientist detailed, some communities refused to sell types of maize used in rituals, no matter what price was offered.
