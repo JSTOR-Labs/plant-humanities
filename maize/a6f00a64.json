@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Teosinte typically has multiple long branches, each with many small ears. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://nsf.gov/news/mmg/media/images/maize1_h.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:768.263671875,263.0207214355469,287.1328125,961.4575500488281"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#874f3732-965e-474e-8d1c-d7b6f27d5ee5"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Teosinte's ear consists of 6-12 kernels surrounded by a protective shell.",
         "purpose": "commenting"
       }
