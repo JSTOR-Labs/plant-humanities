@@ -44,10 +44,4 @@ While early conquistadors disparaged maize, from the nineteenth century onwards,
        license="public domain"
        fit="contain"
        url="https://github.com/JSTOR-Labs/plant-humanities/raw/staging-3/maize/ZeaMays2_JStor.jpg">
-<param ve-image
-       label="Different specimens of maize"
-       attribution="JStor Global Plants"
-       license="public domain"
-       fit="contain"
-       url="https://github.com/JSTOR-Labs/plant-humanities/raw/staging-3/maize/ZeaMays3_JStor.jpg">
  {#paragraph4}
