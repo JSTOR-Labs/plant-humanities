@@ -574,7 +574,9 @@
   .title-bar {
     display: grid;
     align-items: stretch;
-    grid-template: "title buttons" 1fr "author buttons" 1fr / 2fr 1fr;
+    grid-template:
+      "title buttons" 1fr
+      "author buttons" 1fr / 2fr 1fr;
     color: white;
     background-color: rgba(0, 0, 0, .6);
     /* padding-top: 14px; */
