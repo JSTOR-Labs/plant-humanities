@@ -576,7 +576,7 @@
     align-items: stretch;
     grid-template-rows: 1fr 1fr;
     grid-template-columns: 2fr 1fr;
-    grid-template-areas: "title buttons" "author buttons";
+    grid-template-areas: "title resources" "author resources";
     color: white;
     background-color: rgba(0, 0, 0, .6);
     /* padding-top: 14px; */
@@ -606,7 +606,7 @@
     align-self: center;
   }
   .buttons {
-    grid-area: buttons;
+    grid-area: resources;
     align-self: center;
     justify-self: center;
     display: grid;
