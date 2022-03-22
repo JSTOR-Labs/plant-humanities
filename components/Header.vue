@@ -605,14 +605,14 @@
     padding: 0 0 10px 50px;
     align-self: center;
   }
-  .title-bar .buttons {
+  .buttons {
     grid-area: buttons;
     align-self: center;
     justify-self: center;
     display: grid;
     grid-template-rows: 1fr 1fr;
   }
-  .title-bar .buttons button {
+  .buttons button {
     width: 180px;
     margin-left: auto;
     margin-right: 1.3vw;
@@ -624,7 +624,7 @@
     font-weight: normal;
     cursor: pointer;
   }
-  .title-bar .buttons button i {
+  .buttons button i {
     min-width: 28px;
     text-align: center;
   }
