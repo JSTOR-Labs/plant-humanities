@@ -604,13 +604,17 @@
     font-weight: normal;
     padding: 0 0 10px 50px;
     align-self: center;
+    margin-top: -33px;
   }
   .buttons {
+    /*
     grid-area: resources;
-    align-self: center;
-    justify-self: center;
+    */
     display: grid;
     grid-template-rows: 1fr 1fr;
+    align-self: center;
+    justify-self: center;
+    margin-top: 12px;
   }
   .buttons button {
     width: 180px;
