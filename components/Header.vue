@@ -574,9 +574,9 @@
   .title-bar {
     display: grid;
     align-items: stretch;
-    grid-template-rows: 1fr 1fr;
-    grid-template-columns: 2fr 1fr;
-    grid-template-areas: "title resources" "author resources";
+    grid-template:
+      "title resources" 1fr
+      "author resources" 1fr / 2fr 1fr;
     color: white;
     background-color: rgba(0, 0, 0, .6);
     /* padding-top: 14px; */
