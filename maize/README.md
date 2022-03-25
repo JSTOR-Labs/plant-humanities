@@ -144,24 +144,7 @@ The nutritional importance of maize cannot be separated from its cultural signif
 {#paragraph9}
 
 For the Maya, maize was and is more than simply a metaphor and a powerful image in the Mesoamerican visual lexicon. Seventeenth-century records demonstrate how in highland Guatemala, upon the birth of a son, the Maya community would burn the blood of the umbilical cord. Then, they would “pas[s] an ear of maize through the smoke,” which would subsequently be planted in the maize field. Ethnographers have recorded that “parents used the maize from this small patch of land to feed the child ‘until he reached the age when he could plant for himself, saying that thus he not only ate by the sweat of his brow, but of his own blood as well.’”  Further, in certain regions, mothers “place an ear of maize into the palm of their newborns, and eat only dishes made from maize while breast-feeding to ensure that the child grows ‘true flesh.’”  Maize, for Maya people, thus represents more than both calories or symbol: it is a sacred plant from which all life grows. 
-<param ve-image
-       label="Excerpt from the book Our Sacred Maíz Is Our Mother: Indigeneity and Belonging in the Americas by Roberto Cintli Rodríguez"
-       attribution="University of Arizona Press"
-       license="public domain"
-       fit="contain"
-       url="Maiz Sagrado 1 .png">
- <param ve-image
-       label="Excerpt from the book Our Sacred Maíz Is Our Mother: Indigeneity and Belonging in the Americas by Roberto Cintli Rodríguez"
-       attribution="University of Arizona Press"
-       license="public domain"
-       fit="contain"
-       url="maiz sagrado 2 .png">      
-<param ve-image
-       label="Excerpt from the book Our Sacred Maíz Is Our Mother: Indigeneity and Belonging in the Americas by Roberto Cintli Rodríguez"
-       attribution="University of Arizona Press"
-       license="public domain"
-       fit="contain"
-       url="maiz sagrado 3.png">        
+<param ve-iframe label="Roberto Cintli Rodríguez, Our Sacred Maíz Is Our Mother: Indigeneity and Belonging in the Americas, University of Arizona Press, 2014" attribution="University of Arizona Press via GoogleBooks" license="© Copyright 2014 Roberto Cintli Rodríguez. All rights reserved. Published 2014" src="https://books.google.com/books?id=2y9iBAAAQBAJ&newbks=0&lpg=PP1&pg=PA25&output=embed">
  {#paragraph10}
  
  ### Maize in the Colonial and Postcolonial Eras
