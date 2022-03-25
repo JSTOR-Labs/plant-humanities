@@ -1,3 +1,4 @@
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config
 	title="Dracaena draco: The Mystery of Dragon’s Blood"
 	banner="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Parque_del_Drago_-_Drago_de_Icod_de_los_Vinos_02.jpg/1280px-Parque_del_Drago_-_Drago_de_Icod_de_los_Vinos_02.jpg"
