@@ -48,7 +48,7 @@ As the eleventh labor of his famous twelve, Hercules was sent to steal the golde
 <param title="Hercules" eid="Q122248">
 <param title="Ladon" eid="Q274600">
 <param ve-compare region="437,632,696,720" url="https://www.hermitagemuseum.org/wps/wcm/connect/fd9ab969-0bdd-4a29-a0e2-31de64c18cbe/WOA_IMAGE_1.jpg?MOD=AJPERES&741c0ea7-f4d8-4b40-a9b1-47bd9849fa21">
-<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/8/83/Socotra_dragon_tree.JPG">
+<param ve-compare url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/dragon_tree/Dragons_blood_tree_Flickr_%20Rod_Waddington_CC_BY_SA_2.0.jpg?raw=true">
 {#paragraph3}
 
 European understandings of the dragon tree evolved as scientific botany developed from the late medieval through the early modern periods, and the myths and legends of antiquity surrounding the tree became artifacts of the past. Native to the Canary Islands, Cape Verde, and Madeira—and recently found growing natively on the west coast of Morocco—_D. draco_ is somewhat ubiquitous along the northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of _D. draco_ in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and dragon’s blood between his crew and 500 Guanches, the indigenous population of the Canary Islands.[^ref4]
