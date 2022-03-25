@@ -51,7 +51,7 @@ Why did maize inspire such strong reactions? Since its initial domestication ove
        attribution="John Audobon, New York Public Library"
        license="public domain"
        fit="contain"
-       url="https://images.nypl.org/index.php?id=108481&t=w">
+       url="https://iiif-prod.nypl.org/index.php?id=108481&t=g">
 <param title="domestication" eid="Q905161">
 {#paragraph3}
 
