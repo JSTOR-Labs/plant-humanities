@@ -47,7 +47,7 @@ Members of today’s _Dracaena_ genus have long been valued for their signature 
 As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples of the Hesperides, the three nymphs of evening and sunset, who were located on the western fringe of the known world. The apples were guarded by Ladon, a vicious dragon with 100 heads. Once slain by Hercules, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^ref2] As dragon’s blood became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that “the source of ‘Dragon’s Blood’ [... is] the red blood of the dragon Ladon after it was killed by Hercules.”[^ref3]
 <param title="Hercules" eid="Q122248">
 <param title="Ladon" eid="Q274600">
-<param ve-image compare url="https://www.hermitagemuseum.org/wps/wcm/connect/fd9ab969-0bdd-4a29-a0e2-31de64c18cbe/WOA_IMAGE_1.jpg?MOD=AJPERES&741c0ea7-f4d8-4b40-a9b1-47bd9849fa21">
+<param ve-image compare="true" url="https://www.hermitagemuseum.org/wps/wcm/connect/fd9ab969-0bdd-4a29-a0e2-31de64c18cbe/WOA_IMAGE_1.jpg?MOD=AJPERES&741c0ea7-f4d8-4b40-a9b1-47bd9849fa21">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/83/Socotra_dragon_tree.JPG">
 {#paragraph3}
 
