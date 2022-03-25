@@ -197,7 +197,7 @@ These examples illuminate the resistance of communities in Central and South Ame
 <param title="Luis Enrique Mejía Godoy" eid="Q4292179"> 
 <param ve-video
 	vid="ST_3wN3lEFo"
-	title="Somos Hijos Del Maiz">															   
+	title="Somos Hijos Del Maiz">												
 {#paragraph14}
 															    
 Maize's cultural, political, and economic significance persists in Central American communities today. Milpa agriculture continues to be practiced by Maya farmers and has been hailed as “[central](https://allianceforscience.cornell.edu/blog/2017/10/a-mexican-legacy-la-milpa-the-birthplace-of-maize/#:~:text=The%20importance%20of%20the%20milpa,an%20amazing%20variety%20of%20peppers.)” in the preservation of the biodiversity of Mexico. However, this is not to say that the symbiotic relationship between Indigenous communities and the plant has remained unchanged— anthropologists have noted the effects of globalization and migration patterns. As one woman named Teresa living in San Miguel del Valle, Oaxaca puts it: "No, we didn't have to go looking for maize [like we do now]...That’s how we lived, that’s how it was before. Now it is different. Why? Because we live in the town... and we no longer have everything that we produced naturally, not anymore. What we eat now comes from elsewhere."  Beverages like atole, which used to be produced domestically, have been industrialized, and are now sold by multinational companies. 
@@ -250,3 +250,4 @@ While some protests against Monsanto’s promotion of transgenic maize have been
        fit="contain"
        url="maizemeanings.png">    
 				
+### References
