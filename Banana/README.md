@@ -1,3 +1,4 @@
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config
 	   title="Bananas: Chaos out of Order"
 	   source-image="https://upload.wikimedia.org/wikipedia/commons/0/0f/Banana_Maria_Sibylla_Merian_1705_plate_XII.png"
