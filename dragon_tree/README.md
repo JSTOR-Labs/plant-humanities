@@ -1,3 +1,4 @@
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config
 	title="Dracaena draco: The Mystery of Dragon’s Blood"
 	banner="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Parque_del_Drago_-_Drago_de_Icod_de_los_Vinos_02.jpg/1280px-Parque_del_Drago_-_Drago_de_Icod_de_los_Vinos_02.jpg"
@@ -25,8 +26,7 @@ As the tongue goes numb and all efforts fail to remove the scarlet, sticky subst
 <param ve-image
 	primary
 	manifest="https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/8a1g2/manifest.json"
-	fit="contain"
-	>
+	fit="contain">
 {#paragraph1}
 
 ### Sanguine Myths and Elemental Reality
@@ -47,10 +47,8 @@ Members of today’s _Dracaena_ genus have long been valued for their signature 
 As the eleventh labor of his famous twelve, Hercules was sent to steal the golden apples of the Hesperides, the three nymphs of evening and sunset, who were located on the western fringe of the known world. The apples were guarded by Ladon, a vicious dragon with 100 heads. Once slain by Hercules, Ladon’s blood seeped into the ground and “from it sprung up the trees that we now know as ‘dragon trees,’” and his body was sent to live among the stars.[^ref2] As dragon’s blood became one of the most coveted commodities in ancient Greece, so too did it serve as a lasting link between myth and reality, as Greeks from Athens to Thebes believed that “the source of ‘Dragon’s Blood’ [... is] the red blood of the dragon Ladon after it was killed by Hercules.”[^ref3]
 <param title="Hercules" eid="Q122248">
 <param title="Ladon" eid="Q274600">
-<param ve-compare
-	title="Image comparison of the canopy of a dragon tree (_Dracaena draco_) with a classical Greek depiction of the dragon Ladon."
-	url="https://free.iiifhosting.com/iiif/7e103f8b67bc1ce1be0a738a6a34265de93fe18ad5978f48c076da1da1fbf636/info.json">
-<param ve-compare url="https://free.iiifhosting.com/iiif/6f75f8643461e419d28159fdc552cd384cc7aa5bc1ae2e31b9e2c47b91fefd60/info.json">
+<param ve-compare region="0,371,1570,1428" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/dragon_tree/Dragons_blood_tree_Flickr_%20Rod_Waddington_CC_BY_SA_2.0.jpg?raw=true">
+<param ve-compare region="372,651,704,640" url="https://www.hermitagemuseum.org/wps/wcm/connect/fd9ab969-0bdd-4a29-a0e2-31de64c18cbe/WOA_IMAGE_1.jpg?MOD=AJPERES&741c0ea7-f4d8-4b40-a9b1-47bd9849fa21">
 {#paragraph3}
 
 European understandings of the dragon tree evolved as scientific botany developed from the late medieval through the early modern periods, and the myths and legends of antiquity surrounding the tree became artifacts of the past. Native to the Canary Islands, Cape Verde, and Madeira—and recently found growing natively on the west coast of Morocco—_D. draco_ is somewhat ubiquitous along the northwestern coast of Africa. Evidently, the tree and its resin were an important feature of the economy and magico-medicine of the Canary Islands even before colonial contact. Thus, when French explorer Jean de Béthencourt became the first European to write of _D. draco_ in 1402, he recounted an elaborate trade of fishing hooks, knives, and iron in exchange for figs and dragon’s blood between his crew and 500 Guanches, the indigenous population of the Canary Islands.[^ref4]
