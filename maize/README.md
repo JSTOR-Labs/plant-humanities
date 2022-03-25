@@ -63,6 +63,7 @@ What is maize, and how did it develop? This question may seem simple, particular
        license="public domain"
        fit="contain"
        url="Maize_Diagram_Wikicommons.png">
+<param title="Zea mays" eid="Q11575">
 {#paragraph4}
 
 The reliance of many human societies on maize, the “[most dominant and productive crop](https://futureoffood.org/insights/the-global-importance-of-maize-diversity/#:~:text=As%20the%20world's%20most%20dominant,%2C%20sweeteners%2C%20starch%2C%20and%20for),” for their survival is well known. What is less obvious is the plant’s reliance on humans for its survival. Maize most likely was domesticated from teosinte, a grass with tassels and several small clustered ears.  However, there are clear differences between modern-day maize and teosinte: the latter is made up of 6-12 kernels held in two rows surrounded by a protective shell, whereas maize proffers a cob with approximately 20 rows of kernels without a hard outer shell.  These differences are so profound that, as one article in [_PNAS_](https://www.pnas.org/) notes, “19th-century botanists failed to recognize the close relationship between these plants, placing teosinte in its own genus, _Euchlaena_." However, , present-day scholars have shown how maize was domesticated from teosinte through humans selecting for a larger ear size and more kernels. 
