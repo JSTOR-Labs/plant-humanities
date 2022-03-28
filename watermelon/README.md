@@ -72,9 +72,7 @@ Watermelons were cultivated in Spain after the Arab conquest, with evidence of t
 {#paragraph5}
 
 In fact, centuries later, in 1888, watermelons were still being promoted as a face cleanser in U.S. newspapers. A certain Miss Carrie Townsend from St. Louis, Missouri, recommended them to girls with freckles who looked “as if they had been about when a bran bin had exploded,” claiming that no matter what was wrong with the face, the juice of the watermelon would rectify it.[^ref10] Although perhaps not quite as powerful as Miss Townsend suggests, watermelon-based treatments are re-emerging as a natural skin cleanser today, including West African kalahari or ootanga oil that is traditionally extracted from the fruit’s seeds.
-<param ve-image
-	title="Two children eating watermelon. Photograph by C. Bennette Moore (1879–1939), c. 1935."
-	manifest="http://iiif.harvardartmuseums.org/manifests/object/120603">
+<param ve-image title="Two children eating watermelon. Photograph by C. Bennette Moore (1879–1939), c. 1935." manifest="https://iiif.harvardartmuseums.org/manifests/object/120603">
 <param title="watermelon seed oil" eid="Q3819066" aliases="ootanga oil">
 {#paragraph6}
 
