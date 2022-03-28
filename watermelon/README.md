@@ -133,7 +133,8 @@ Paradoxically, the bright and appealing nature of the watermelon also lent itsel
 {#paragraph10}
 
 Aspects of the fruit became bound up with representations of African Americans, showing their taste for it exaggerated to the point of the grotesque: It was messy to eat, which connoted uncleanliness; easy to grow, implying laziness; and its bright color and sweetness were associated with childishness. Watermelon’s African origins were also cited as an explanation for Black Americans’ apparently insatiable appetite for the fruit. Nineteenth-century newspapers were filled with reports and anecdotes that repeated these racial tropes, which masqueraded as facts.
-<param ve-image manifest="https://ids.si.edu/ids/manifest/NMAAHC-6A6EEDA3268C2_2001" fit="contain">
+<param ve-image primary manifest="https://ids.si.edu/ids/manifest/NMAAHC-6A6EEDA3268C2_2001" fit="contain">
+<param ve-image manifest="https://ids.si.edu/ids/manifest/NMAAHC-E57085A629442_4002-000002" fit="contain">
 {#paragraph11}
 
 Stories of watermelon theft contributed to the perception of Black criminality following the enactment of the thirteenth amendment, which abolished slavery. The seemingly irresistible lure of the watermelon suggested that it did “more to tempt the colored race to steal than all other fruit combined,” with countless anecdotes supposedly citing the words of African Americans who claimed that stolen watermelons tasted better than those bought.[^ref15] The narrative of African American watermelon-stealing was so entrenched that the Tennessee state bill that criminalized such trespasses in 1870 was commonly known as the “watermelon bill.” These cultural tropes continued to shape the exclusionary racial politics in the United States well into the twentieth century and [are still pervasive today.](https://www.vox.com/first-person/2019/8/29/20836933/watermelon-racist-history-black-people)[^ref16]
