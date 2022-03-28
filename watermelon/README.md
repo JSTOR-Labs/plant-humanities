@@ -1,3 +1,4 @@
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config
 	title="Watermelon: Stereotypes of Race and Class"
 	banner="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg/1012px-Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
