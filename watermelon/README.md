@@ -1,3 +1,4 @@
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config
 	title="Watermelon: Stereotypes of Race and Class"
 	banner="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg/1012px-Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
@@ -71,9 +72,7 @@ Watermelons were cultivated in Spain after the Arab conquest, with evidence of t
 {#paragraph5}
 
 In fact, centuries later, in 1888, watermelons were still being promoted as a face cleanser in U.S. newspapers. A certain Miss Carrie Townsend from St. Louis, Missouri, recommended them to girls with freckles who looked “as if they had been about when a bran bin had exploded,” claiming that no matter what was wrong with the face, the juice of the watermelon would rectify it.[^ref10] Although perhaps not quite as powerful as Miss Townsend suggests, watermelon-based treatments are re-emerging as a natural skin cleanser today, including West African kalahari or ootanga oil that is traditionally extracted from the fruit’s seeds.
-<param ve-image
-	title="Two children eating watermelon. Photograph by C. Bennette Moore (1879–1939), c. 1935."
-	manifest="https://iiif.lib.harvard.edu/manifests/ids:20430850">
+<param ve-image title="Two children eating watermelon. Photograph by C. Bennette Moore (1879–1939), c. 1935." manifest="https://iiif.lib.harvard.edu/manifests/ids:20430850">
 <param title="watermelon seed oil" eid="Q3819066" aliases="ootanga oil">
 {#paragraph6}
 
