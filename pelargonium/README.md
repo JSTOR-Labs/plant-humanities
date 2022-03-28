@@ -1,4 +1,4 @@
-<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config
        title="Pelargonium: By Any Other Name Would Smell as Sweet?"
        author="Daisy Reid, Verónica Matallana Chaves, Yao Jiang"
@@ -51,8 +51,8 @@ Other morphological traits distinguish members of the genera pelargonium from ge
 <param ve-entity eid="Q687699" title="Nectary" aliases="nectaries"> 
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
 <param ve-entity eid="Q103129" title="stamen" aliases="stamens">
-<param ve-compare url="https://free.iiifhosting.com/iiif/ba2f217efdf25d87a4fc0e79c0b096245ef26d4ebde668bd65af649d05b2deb1/info.json" title="“Géranium platypetalum” & “Pelargonium zonale Wild et hybrids,” _Atlas des plantes de jardins et d'appartements exotiques et européennes: 320 planches coloriées inédites, dessinées d'après nature, représentant 370 plantes, accompagnées d'un texte explicatif donnant la description, l'origine, le mode de culture, de multiplication et les usages des fleurs les plus généralement cultivées_, D. Bois, from Bibliothèque Nationale de France, département Sciences et techniques, 8-S-9126.">
-<param ve-compare url="https://free.iiifhosting.com/iiif/946417abf874969ccb7ed3e11de335c107f89d030c8a7d27fe55a2c9892bb2c1/info.json" title="Differences between Geranium and Pelargonium flowers. Created by Verónica Matallana, 2020.">
+<param ve-compare url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/pelargonium/Bois_Atlas_des%20plantes_de_jardins_Bibliothe%CC%80que_nationale_de_France_public_domain.jpg?raw=true" label="Désiré Bois, Pelargonium zonale Wild et hybrids [left], Géranium platypetalum [right], pub. in Atlas des plantes de jardins et d'appartements exotiques et européennes." attribution="Bibliothèque nationale de France via BnF Gallica" license="public domain">
+<param ve-compare url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/pelargonium/Vero%CC%81nica_Matallana_Differences_between_Geranium_and_Pelargonium_flowers_Copyright_Vero%CC%81nica_Matallana_2020.jpg?raw=true" label="Differences between Geranium and Pelargonium flowers. Created by Verónica Matallana, 2020." license="Copyright © Verónica Matallana 2020">
 {#paragraph5}
 
 ### Introduction to Europe and Nomenclature Confusion
