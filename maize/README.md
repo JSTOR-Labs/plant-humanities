@@ -205,7 +205,7 @@ Maize’s cultural, political, and economic significance persists in Central Ame
        label="A world map made out of corn. The top reads (translated)'The maiz is the most cultivated grain in the world.'"
        attribution="Ron Mader"
        license="public domain"
-       fit="contain"
+       fit="fill"
        url="https://live.staticflickr.com/2163/2110906763_9569361993_b.jpg">
 {#paragraph15}
 
