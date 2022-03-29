@@ -116,8 +116,7 @@ Another artistic context in which watermelons were occasionally featured concern
 	seq="37"
 	region="180,2179,4002,2751">
 <param ve-image
-	manifest="https://iiif.juncture-digital.org/manifest/4f9f8da5bad6c2d65d58250162aab4b226561a1a1c8307b2c93198c25ea5743f"
-	region="511,31,4973,7021"
+	manifest="https://iiif.juncture-digital.org/manifest/4f9f8da5bad6c2d65d58250162aab4b226561a1a1c8307b2c93198c25ea5743f">
 <param title="Maria Sibylla Merian" eid="Q62530" aliases="Maria Sibylla Merian’s">
 {#paragraph9}
 
