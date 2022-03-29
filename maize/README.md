@@ -10,7 +10,7 @@
   
 The year was 2014, and many Guatemalans were incensed. In a country with a population of 14 million, approximately 120,000 took to the streets. Protesters blocked traffic along the Pan American Highway and other major roadways to voice their opposition to the “Law for the Protection of New Plant Varieties, or, as it was popularly known, the “Monsanto Law.” [^ref1] The law “outlawed the replanting, transportation, or selling of privatized seeds without permission, and made these actions punishable by one to four years in jail and a fine of 1,000 to 10,000 quetzals (130 to 1,300 US dollars).” [^ref2]
 <param ve-map title="The Pan-American Highway in Guatemala" center="15.0981244, -90.316436" zoom="7">
-<param ve-map-layer geojson active title="The Pan-American Highway in Guatemala" url="/geojson/Guatemala.json">
+<param ve-map-layer geojson active title="The Pan-American Highway in Guatemala" url="/geojson/roadguatemala.json">
 <param title="Monsanto" eid="Q207983" aliases="“Monsanto"> 
 {#paragraph1}
 
