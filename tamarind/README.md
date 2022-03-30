@@ -98,7 +98,7 @@ Virtually every part of the tamarind tree—seeds, fruity pulp, bark, root, and 
 {#paragraph10}
 
 Tamarind is mentioned in traditional Sanskrit literature and traditional African medical texts like the [_Kitab al-qawl al-sinna_.](http://www.cci.uct.ac.za/usr/cci/publications/aria/download_issues/2012/Mukhtar%20Bunza.pdf) It also appears in the _Susruta-Samhita_, an Ayurvedic medicine text. With such a diverse array of uses—and its hearty ability to withstand hot, dry climates—the plant captured the imagination of colonists on the hunt for profitable crops. The well-known synonym _T. occidentalis_, for example, was included in physician and horticulturalist Henry Perrine’s 1838 report to the U.S. Congress House Committee on Agriculture, in which he includes _T. occidentalis_ as a notable crop of value.
-<param ve-knightlab-timeline source="1N898HvO8a50-MMGVxGCR-MGbd6ftuk7b" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="750">
+<param ve-knightlab-timeline source="1N898HvO8a50-MMGVxGCR-MGbd6ftuk7b&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="750">
 <param ve-entity eid="Q1995239" title="Susruta-Samhita">
 <param ve-entity eid="Q4268924" title="Henry Perrine" aliases="Henry Perrine’s">
 {#paragraph11}
