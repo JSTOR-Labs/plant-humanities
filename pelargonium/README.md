@@ -52,7 +52,7 @@ Other morphological traits distinguish members of the genera pelargonium from ge
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
 <param ve-entity eid="Q103129" title="stamen" aliases="stamens">
 <param ve-compare url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/pelargonium/Bois_Atlas_des%20plantes_de_jardins_Bibliothe%CC%80que_nationale_de_France_public_domain.jpg?raw=true" label="Désiré Bois, Pelargonium zonale Wild et hybrids [left], Géranium platypetalum [right], pub. in Atlas des plantes de jardins et d'appartements exotiques et européennes." attribution="Bibliothèque nationale de France via BnF Gallica" license="public domain">
-<param ve-compare url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/pelargonium/Vero%CC%81nica_Matallana_Differences_between_Geranium_and_Pelargonium_flowers_Copyright_Vero%CC%81nica_Matallana_2020.jpg?raw=true" label="Differences between Geranium and Pelargonium flowers. Created by Verónica Matallana, 2020." license="Copyright © Verónica Matallana 2020">
+<param ve-compare manifest="https://github.com/JSTOR-Labs/plant-humanities/blob/main/pelargonium/Vero%CC%81nica_Matallana_Differences_between_Geranium_and_Pelargonium_flowers_Copyright_Vero%CC%81nica_Matallana_2020.jpg?raw=true">
 {#paragraph5}
 
 ### Introduction to Europe and Nomenclature Confusion
