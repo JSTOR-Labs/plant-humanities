@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#0a385b69-12cf-4dd6-b868-7b8630734db1"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "In this plate, we see visual representations of Indian influences on the young woman, both in terms of the servants catering to her as well as the objects in the background and foreground. \n",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/afe0f7df90328bab0130faea0af091ae0ed9b7e34f5f5398a388a998e5cb4e29",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:75.46033477783203,758.2702026367188,1905.065544128418,1719.7754516601562"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#3466a94d-9856-4586-8899-4294a93b7f62"
   }
 ]
