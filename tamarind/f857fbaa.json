@@ -44,6 +44,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "In popular discourse, many feared British men in India (satirized as \"nabobs,\" a play on the Mughal term \"nawab\") were becoming effeminate and lazy. From this plate, particularly the woman's gaze towards the servants, it seems a fear surrounding memsahibs in India would be that they would lose their fealty to Britain. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/afe0f7df90328bab0130faea0af091ae0ed9b7e34f5f5398a388a998e5cb4e29",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:470.1775817871094,929.1759033203125,811.8136291503906,808.394287109375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c964d611-f023-46a7-b5f7-965608fc2b00"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "We see a parrot in the background sitting in front of a lacquer screen from China, which scholars have argued might be a reference to Indian Ocean trade routes. \n",
         "purpose": "commenting"
       }
