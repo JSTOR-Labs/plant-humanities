@@ -38,5 +38,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#3466a94d-9856-4586-8899-4294a93b7f62"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "We see a parrot in the background sitting in front of a lacquer screen from China, which scholars have argued might be a reference to Indian Ocean trade routes. \n",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/afe0f7df90328bab0130faea0af091ae0ed9b7e34f5f5398a388a998e5cb4e29",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1325.3704833984375,922.2191162109375,497.810546875,648.298583984375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#353b7f4d-f73c-435e-9675-7d672c7c5011"
   }
 ]
