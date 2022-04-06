@@ -58,5 +58,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#353b7f4d-f73c-435e-9675-7d672c7c5011"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "In addition, we see a painting of the Indian landscape in the background, suggesting the large influence of the Indian environment on the women.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/afe0f7df90328bab0130faea0af091ae0ed9b7e34f5f5398a388a998e5cb4e29",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:541.2048950195312,956.1212158203125,511.43402099609375,301.1263427734375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#73e976ca-0f3c-4c75-9dd2-b55ef4ac9400"
   }
 ]
