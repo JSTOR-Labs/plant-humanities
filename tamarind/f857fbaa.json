@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "In the imperial era, particularly before the 1857 Sepoy Uprising in which Indian soldiers throughout the Indian subcontinent rebelled against British imperialists, many Britons in India (often called Anglo-Indians) partook in a number of South Asian practices, from consumption habits\n to leisure activities. British popular discourse revolved around anxieties that these Anglo-Indians were \"going native.\" \n",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/afe0f7df90328bab0130faea0af091ae0ed9b7e34f5f5398a388a998e5cb4e29",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:31.80660057067871,122.46923065185547,1999.8015537261963,2652.5483474731445"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#0a385b69-12cf-4dd6-b868-7b8630734db1"
+  }
+]
