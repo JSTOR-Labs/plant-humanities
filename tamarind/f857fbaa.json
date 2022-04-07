@@ -99,24 +99,4 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#c964d611-f023-46a7-b5f7-965608fc2b00"
   },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": " For more on J. Bouvier's print, after a design by W. Tayler, see Kate Smith, “‘Our Hero Is a Sportsman’: British Domestic Interiors in 19th Century India,” Untold Lives Blog (blog), March 5, 2014, https://blogs.bl.uk/untoldlives/2014/03/our-hero-is-a-sportsman-british-domestic-interiors-in-19th-century-india.html and E. M. Collingham, Imperial Bodies: The Physical Experience of the Raj, C.1800-1947 (New York: Wiley, 2001)." 
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://free.iiifhosting.com/iiif/afe0f7df90328bab0130faea0af091ae0ed9b7e34f5f5398a388a998e5cb4e29",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:31.80660057067871,122.46923065185547,1999.8015537261963,2652.5483474731445"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#0a385b69-12cf-4dd6-b868-7b8630734db1"
-  },
 ]
