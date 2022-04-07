@@ -206,7 +206,7 @@ Interestingly, tamarind has also been the source of the material on which storie
 {#paragraph25}
 
 ### References
-[^ref1]: Boukary O. Diallo et al., “Breeding system and pollination biology of the semi-domesticated fruit tree, _Tamarindus indica_ L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources,” _African Journal of Biotechnology_ 7, no 22 (2008): 4068-4075.
+[^ref1]: Boukary O. Diallo et al., “Breeding system and pollination biology of the semi-domesticated fruit tree, _Tamarindus indica_ L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources,” _African Journal of Biotechnology_ 7, no 22 (2008): 4068–4075.
 
 [^ref2]: “Tamarind – Herb of the Month (2020),” The Herb Society of America Blog, accessed August 2021 [https://herbsocietyblog.wordpress.com/tag/tamarind-legends/](https://herbsocietyblog.wordpress.com/tag/tamarind-legends/)
 
