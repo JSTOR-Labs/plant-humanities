@@ -18,5 +18,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#2a1c55ff-faee-49d8-87d4-4c8cba0b4416"
+  },
+  ,
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "In this lithograph, the artist explores cultural anxieties about Indian influences on Anglo-Indians through his depiction of the young woman, the servants catering to her, and the objects shown in the background and foreground.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/afe0f7df90328bab0130faea0af091ae0ed9b7e34f5f5398a388a998e5cb4e29",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:90.53482818603516,812.0687255859375,1827.8756942749023,1720.8258056640625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#72ab39e1-9c1c-4cc6-b225-23effbc1dee2"
   }
 ]
