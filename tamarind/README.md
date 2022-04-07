@@ -230,7 +230,7 @@ Interestingly, tamarind has also been the source of the material on which storie
 
 [^ref12]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “_Tamarindus indica_ L. – A review of traditional uses, phytochemistry and pharmacology,” _Afrika focus_ 23, no 1 (2010): 53–83.
 
-[^ref13]: Harini Nagendra and Seema Mundoli, “Tamarind: The Firangi Indica,” in _Cities and Canopies. Trees in Indian Cities_ (Haryana: Penguin Press, 2019) 73–85. 
+[^ref13]: Harini Nagendra and Seema Mundoli, “Tamarind: The Firangi Indica,” in _Cities and Canopies. Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73–85. 
 
 [^ref14]: “Kandro Net,” accessed July 2021 [http://www.khandro.net/nature_trees.htm](http://www.khandro.net/nature_trees.htm)
 
@@ -264,7 +264,7 @@ Interestingly, tamarind has also been the source of the material on which storie
 
 [^ref29]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_, 144.
 
-[^ref30]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India,” _Women’s History Review_ vol. 3, no. 4 (1994): 549.  For more on J. Bouvier's print, after a design by W. Tayler, see Kate Smith, “‘Our Hero Is a Sportsman’: British Domestic Interiors in 19th Century India,” Untold Lives Blog (blog), March 5, 2014, https://blogs.bl.uk/untoldlives/2014/03/our-hero-is-a-sportsman-british-domestic-interiors-in-19th-century-india.html and E. M. Collingham, _Imperial Bodies: The Physical Experience of the Raj, C.1800-1947_ (New York: Wiley, 2001). 
+[^ref30]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India,” _Women’s History Review_ vol. 3, no. 4 (1994): 549. For more on J. Bouvier's print, after a design by W. Tayler, see Kate Smith, “‘Our Hero Is a Sportsman’: British Domestic Interiors in 19th Century India,” Untold Lives Blog (blog), March 5, 2014, [https://blogs.bl.uk/untoldlives/2014/03/our-hero-is-a-sportsman-british-domestic-interiors-in-19th-century-india.html](https://blogs.bl.uk/untoldlives/2014/03/our-hero-is-a-sportsman-british-domestic-interiors-in-19th-century-india.html) and E. M. Collingham, _Imperial Bodies: The Physical Experience of the Raj, c.1800-1947_ (New York: Wiley, 2001).
 
 [^ref31]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_, 60.
 
