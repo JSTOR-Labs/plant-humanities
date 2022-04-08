@@ -52,7 +52,7 @@ What is maize, and how did it develop? This question may seem simple, particular
        attribution="Wikimedia Commons"
        license="public domain"
        fit="contain"
-       url="https://commons.wikimedia.org/wiki/File:Purple_Grackle_or_Common_Crow_Blackbird_(Audubon).jpg#/media/File:Purple_Grackle_or_Common_Crow_Blackbird_(Audubon).jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Purple_Grackle_or_Common_Crow_Blackbird_%28Audubon%29.jpg">
 <param title="Zea mays" eid="Q11575">
 {#paragraph4}
 
