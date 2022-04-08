@@ -212,7 +212,8 @@ Maize’s cultural, political, and economic significance persists in Central Ame
 
 ### Monsanto: Rise and Resistance
 As a result of the same forces of globalization and industrialization, threats to maize diversity are more acute than ever. Since the 1940s, scientists have warned that “the whole genetic pattern of Zea mays... has been catastrophically overhauled.”[^ref34] The reduction of maize’s genetic diversity has been exacerbated since the 1990s: in that decade, the major agrochemical corporation Monsanto began to produce transgenic maize products that were resistant to glyphosate, an herbicide discovered, developed, and patented by Monsanto. Further, in 1994, the passage of NAFTA meant that US maize could be sold at incredibly cheap rates in Mexico. “The sheer amount of contamination from a very homogenous source drives diverse populations into narrow genetic backgrounds,” argued Ignacio Chapela, an ecologist at UC Berkeley.[^ref35] 
-<param title="North American Free Trade Agreement" eid="Q181574" aliases="NAFTA"> 
+<param title="North American Free Trade Agreement" eid="Q181574" aliases="NAFTA">
+<param title="Glysophate-based herbicides" eid="Q60741370" aliases="glyphosate"> 	
 <param ve-image
        label="Consumption and Production of Maize in Mexico"
        attribution="Wikimedia Commons"
