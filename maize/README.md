@@ -48,11 +48,11 @@ Why did maize inspire such strong reactions? Since its initial domestication ove
 ### A Kernel of Science
 What is maize, and how did it develop? This question may seem simple, particularly given the ubiquity of corn-based products, but the large body of scholarship on the crop reveals it to be anything but straightforward. Maize, or in taxonomic parlance _Zea mays L._, is a cereal grain consisting of a <span data-click-image-zoomto="163,416,183,177">stalk</span>, <span data-click-image-zoomto="1,1,365,353">tassels of pollen</span>, and <span data-click-image-zoomto="0,169,365,353">ears filled with cobs of kernels</span> (averaging 800 kernels spread across 16 rows).
 <param ve-image
-       label="John Audobon, Common Purple Crow-Blackbird, 1. Male 2. Female (Maize or Indian Corn. [Zea Mays]),  1842."
-       attribution="The New York Public Library Digital Collections"
+       label="John Audobon, Common Purple Crow-Blackbird, 1. Male 2. Female (Maize or Indian Corn. [Zea Mays]), 1842."
+       attribution="Wikimedia Commons"
        license="public domain"
        fit="contain"
-       url="https://images.nypl.org/index.php?id=108481&t=w">
+       url="https://commons.wikimedia.org/wiki/File:Purple_Grackle_or_Common_Crow_Blackbird_(Audubon).jpg#/media/File:Purple_Grackle_or_Common_Crow_Blackbird_(Audubon).jpg">
 <param title="Zea mays" eid="Q11575">
 {#paragraph4}
 
