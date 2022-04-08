@@ -127,7 +127,7 @@ In order to obtain the utmost nutrients from maize, people in Mesoamerica practi
        label="Making tortillas with nixtamalized dough"
        attribution="Las Tortilleras: women making tortillas, by Pierre-Frederic Lehnert, early 19th century Mexico."
        license="public domain"
-       fit="contain"
+       fit="cover"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tortilleras_Nebel.jpg/1600px-Tortilleras_Nebel.jpg?20080904092709">
 {#paragraph8}
 
