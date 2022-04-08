@@ -81,11 +81,23 @@ By 7000 years [BP,](https://www.archaeological.org/programs/educators/introducti
 In addition domesticating maize by selecting for attractive characteristics such as cob size, and dispersing it throughout South America and back towards Central America, humans worked to cultivate maize, which could not have survived if left to its own devices. Wild teosinte is very fragile, and its pod can be shattered by the wind. By contrast, maize relies on humans to disperse its seeds.[^ref12]  The scientific history of maize thus reveals the central and active role early Mesoamericans played in its domestication through conscious decisions in the cultivation processes.
 <param title="indigenous peoples of Central America" eid="Q13109203" aliases="Mesoamericans"> 
 <param ve-image
-       label="Mesoamerican Maize Agriculture as depicted in the Florentine Codex"
+       label="Some European imperial sources contain descriptions of Indigenous understandings surrounding maize. In the Florentine Codex, written by a 16th-century Spanish Franciscan friar, we see images of how Nahua farmers cultivated maize using a wooden tool for digging."
        attribution="Wikimedia Commons"
        license="public domain"
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_Florentine_Codex-_Agriculture.tiff/lossy-page1-788px-The_Florentine_Codex-_Agriculture.tiff.jpg">
+<param ve-image
+       label="The Cruz-Badiano Codex is another important source of Mesoamerican herbal knowledge. Written most likely in Nahuatl by an "Indian doctor" and translated into Latin, it preserves a number of Indigenous names for crops. Many scholars have shown how the Indigenous names for various flowers and crops refers to its physical similarities to maize. For more, see Arthur O. Tucker and Jules Janick, Flora of the Codex Cruz-Badianus (Cham: Springer International Publishing, 2020)."
+       attribution="Dumbarton Oaks"
+       license="public domain"
+       fit="contain"
+       url="https://www.doaks.org/resources/online-exhibits/epidemics/mesoamerican-herbals/health-and-commerce/@@images/image> 
+<param ve-image
+       label="Mesoamerican Maize Agriculture as depicted in the Florentine Codex"
+       attribution="Hathi Trust"
+       license="public domain"
+       fit="contain"
+       url="https://www.doaks.org/resources/online-exhibits/epidemics/mesoamerican-herbals/maize/@@images/image>	    
 {#paragraph7}
 
 ### Maize, Milpa, and Mesoamerica
