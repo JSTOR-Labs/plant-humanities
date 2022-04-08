@@ -91,13 +91,13 @@ In addition domesticating maize by selecting for attractive characteristics such
        attribution="Dumbarton Oaks"
        license="public domain"
        fit="contain"
-       url="https://www.doaks.org/resources/online-exhibits/epidemics/mesoamerican-herbals/health-and-commerce/@@images/image> 
+       url="https://www.doaks.org/resources/online-exhibits/epidemics/mesoamerican-herbals/health-and-commerce/@@images/image"> 
 <param ve-image
        label="Mesoamerican Maize Agriculture as depicted in the Florentine Codex"
        attribution="Hathi Trust"
        license="public domain"
        fit="contain"
-       url="https://www.doaks.org/resources/online-exhibits/epidemics/mesoamerican-herbals/maize/@@images/image>	    
+       url="https://www.doaks.org/resources/online-exhibits/epidemics/mesoamerican-herbals/maize/@@images/image">	    
 {#paragraph7}
 
 ### Maize, Milpa, and Mesoamerica
