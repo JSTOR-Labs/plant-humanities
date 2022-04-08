@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#32491fca-da6a-4169-9a52-36bb5714ac26"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Maize as a culturally significant crop",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/dda900d7c4eae3b8eaf64e7cada1448976c47fa9dc50712cc53afe5720fedf7b",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:698.7960205078125,180.96826171875,614.6328125,941.712646484375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ce0a9c7d-7ab0-4390-9770-15ec4ff737e9"
   }
 ]
