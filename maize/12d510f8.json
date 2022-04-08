@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#7fdedb0c-aa24-4df1-8ba8-3660d02360cb"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This is Nahua codex created in the early period of Spanish colonization. Here, the patient (right) sits in front of a divine healer (left). ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/19f2c7680ef41a22e29bbe06f09b76bb4b142f8713f6d082dc78e1c8fdf5cf2d",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:241.232177734375,9.312036514282227,951.0361328125,481.4466304779053"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f38b81b5-ce36-4696-bb5e-8705b3aecab4"
   }
 ]
