@@ -122,8 +122,7 @@ In order to obtain the utmost nutrients from maize, people in Mesoamerica practi
        label="The process of nixtamalizing corn using a metate"
        attribution="Detalle del Códice Mendoza (1540), Wikimedia Commons"
        license="public domain"
-       fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/8/80/Mujer_moliendo_en_el_metate._Molcajete_%28%22escudilla%22%29%2C_comal_y_olla.jpg">
+       region="3530,4341,1787,1476" seq="129" manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json">
 <param ve-image
        label="Making tortillas with nixtamalized dough"
        attribution="Las Tortilleras: women making tortillas, by Pierre-Frederic Lehnert, early 19th century Mexico."
