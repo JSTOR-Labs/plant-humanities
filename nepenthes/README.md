@@ -37,5 +37,5 @@ While early conquistadors disparaged maize, from the nineteenth century onwards,
 {#paragraph4}
 
 While early conquistadors disparaged maize, from the nineteenth century onwards, the crop began to attract the attention of scientists from Europe and the United States due to its productivity and economic potential both as a domestic and export crop.
-<param ve-image seq="130" manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json">
+<param ve-image seq="129" manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json">
 {#paragraph6}
