@@ -24,6 +24,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Maize as a global agricultural commodity",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/dda900d7c4eae3b8eaf64e7cada1448976c47fa9dc50712cc53afe5720fedf7b",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1350.4595947265625,178.095703125,612.4761962890625,952.996337890625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#5437380f-ce76-4f75-8006-7c8bcd924121"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Maize as a culturally significant crop",
         "purpose": "commenting"
       }
