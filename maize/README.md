@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config
 	title="Maize: Sacred Plant, Global Commodity"
-       source-image="https://images.nypl.org/index.php?id=108481&t=w"
-       banner="https://images.nypl.org/index.php?id=108481&t=w"
+       source-image="maizebanner.jpg"
+       banner="maizebanner.jpg"
        layout="vtl"
        author="Julia Fine"
        description=“Add.”>
