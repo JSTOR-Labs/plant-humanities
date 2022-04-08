@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This image shows the divinatory nature of diagnosing illnesses among the Nahua people. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/19f2c7680ef41a22e29bbe06f09b76bb4b142f8713f6d082dc78e1c8fdf5cf2d",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:10.068036079406738,96.5485610961914,517.7274961471558,1557.674217224121"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#7fdedb0c-aa24-4df1-8ba8-3660d02360cb"
+  }
+]
