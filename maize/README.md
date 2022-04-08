@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config
 	title="Maize: Sacred Plant, Global Commodity"
-       source-image="hhttps://images.nypl.org/index.php?id=57718701&t=w"
-       banner="https://images.nypl.org/index.php?id=57718701&t=w"
+       source-image="hhttps://digitalcollections.nypl.org/items/510d47d9-72fe-a3d9-e040-e00a18064a99"
+       banner="https://digitalcollections.nypl.org/items/510d47d9-72fe-a3d9-e040-e00a18064a99"
        layout="vtl"
        author="Julia Fine"
        description=“Add.”>
