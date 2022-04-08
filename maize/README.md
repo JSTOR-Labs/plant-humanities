@@ -153,12 +153,7 @@ For the Maya, maize was and is more than simply a metaphor and a powerful image 
 During the colonial era, Maya understandings of maize as a sacred plant pushed up against European understandings of the crop. Spanish colonizers often publicly denigrated foods like maize as “dangerous to the European constitution.”[^ref24] But even as the Spanish publicly disdained maize, there is ample evidence that they recognized the utility—and scrumptiousness— of the crop: one Peruvian annalist of the era recounted how one group of conquistadors inhaled maize “as if it were sugared almonds.”[^ref25] Indeed, there are records of conquistadors enjoying atole, a maize beverage, and eating puddings made of maize.[^ref26]
 <param title="conquistador" eid="Q126236" aliases="conquistadors"> 
 <param title="atole" eid="Q2312651"> 
-<param ve-image
-       label="1763 painting of Indigenous woman giving tropical fruits including guava and chaoytes to the viewer"
-       attribution="Miguel Cabrera, De Lobo y de India, Albarasado"
-       license="public domain"
-       fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Castas_11albarazado_max.jpg/640px-Castas_11albarazado_max.jpg">
+<param ve-knightlab-timeline source="19zNO9dial-jFYRvab41rg4LwE8UfssV3aE2F-esdbqA" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
   {#paragraph11}
 
 While early conquistadors disparaged maize, from the nineteenth century onwards, the crop began to attract the attention of scientists from Europe and the United States due to its productivity and economic potential both as a domestic and export crop. In the early twentieth century, scientists from the US and Europe traveled to regions in Mexico, Peru, and Guatemala, among others to identify unique “landraces,” or locally adapted domesticates, of maize.[^ref27]  Historian of science Helen Curry has detailed how scientists attempted to transpose putative human race science onto maize taxonomies: “At the most fundamental level, the raw material and motivation for classification arose directly from the imperative of ‘improvement’ in both crops and people.”[^ref28]  These scientists presented a vision of “early, stable indigenous races, transformed by racial mixing with newly arriving populations from other geographical regions, giving rise to valuable new ‘incipient’ but still-unstable racial types.”[^ref29]. 
