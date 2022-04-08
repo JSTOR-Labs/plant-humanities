@@ -221,7 +221,7 @@ As a result of the same forces of globalization and industrialization, threats t
 
 This contamination has alarmed scientists, farmers, and activists around the world for a variety of reasons. Zapatistas fighting for autonomy in Mexico argued that transgenic industrial maize threatened to “overwhelm” local varieties and thereby make Central American economies reliant on US corporations. Since the 1970s, agronomists around the world have been concerned about the potential loss of crop diversity and the catastrophic consequences for global food security. And local farmers and community members worry about relying on global agribusiness for their main source of sustenance, as well as the potential disruption to their moral economies and local cosmologies.[^ref36]
 <param title="Zapatista Army of National Liberation" eid="Q188590" aliases="Zapatistas"> 
-<param ve-compare sync url="https://live.staticflickr.com/4087/5185313657_c023cc4d92_k.jpg">
+<param ve-compare url="https://live.staticflickr.com/4087/5185313657_c023cc4d92_k.jpg">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/YellowCorn.jpg/1600px-YellowCorn.jpg?20100825060907">
 {#paragraph17}
 
