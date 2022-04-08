@@ -64,26 +64,6 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "Here, the maize god is represented as an anthropomorphic cacao tree, as evidenced by his limbs being cacao pods. ",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://free.iiifhosting.com/iiif/413da5d19d6754c576813b7778c9700257f0388cb61954a03c68ea10b97b53aa",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:1187.789306640625,590.9833374023438,514.6031494140625,416.371826171875"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#02f3ce9c-57f3-48a2-99ff-021088a96bbe"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
         "value": "The healer is throwing maize kernels. Based on the pattern into which they fall, the healer will divine how severe the illness is, as well as potential treatments. ",
         "purpose": "commenting"
       }
