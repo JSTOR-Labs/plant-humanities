@@ -52,7 +52,7 @@ What is maize, and how did it develop? This question may seem simple, particular
        attribution="Wikimedia Commons"
        license="public domain"
        fit="contain"
-       url="Maize_Diagram_Wikicommons.png">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_book_of_corn%3B_a_complete_treatise_upon_the_culture%2C_marketing_and_uses_of_maize_in_America_and_elsewhere%2C_for_farmers%2C_dealers%2C_manufacturers_and_others-a_comprehensive_manual_upon_the_production%2C_%2814760897454%29.jpg/640px-thumbnail.jpg">
 <param title="Zea mays" eid="Q11575">
 {#paragraph4}
 
