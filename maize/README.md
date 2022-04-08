@@ -87,13 +87,13 @@ In addition domesticating maize by selecting for attractive characteristics such
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_Florentine_Codex-_Agriculture.tiff/lossy-page1-788px-The_Florentine_Codex-_Agriculture.tiff.jpg">
 <param ve-image
-       label="The Cruz-Badiano Codex is another important source of Mesoamerican herbal knowledge. Written most likely in Nahuatl by an "Indian doctor" and translated into Latin, it preserves a number of Indigenous names for crops. Many scholars have shown how the Indigenous names for various flowers and crops refers to its physical similarities to maize. For more, see Arthur O. Tucker and Jules Janick, Flora of the Codex Cruz-Badianus (Cham: Springer International Publishing, 2020)."
+       label="The Cruz-Badiano Codex is another important source of Mesoamerican herbal knowledge. Written most likely in Nahuatl by an 'Indian doctor' and translated into Latin, it preserves a number of Indigenous names for crops. Many scholars have shown how the Indigenous names for various flowers and crops refers to its physical similarities to maize. For more, see Arthur O. Tucker and Jules Janick, Flora of the Codex Cruz-Badianus (Cham: Springer International Publishing, 2020)."
        attribution="Dumbarton Oaks"
        license="public domain"
        fit="contain"
        url="https://www.doaks.org/resources/online-exhibits/epidemics/mesoamerican-herbals/health-and-commerce/@@images/image"> 
 <param ve-image
-       label="Mesoamerican Maize Agriculture as depicted in the Florentine Codex"
+       label="Francisco Hernández was a Spanish physician who went on the first scientific expedition from Europe to the Americas in 1570. He spent four years researching how the Nahua people used plants, including maize. Here, Hernández writes that maize is 'exceedingly beneficial to the healthy and sick alike; it is easy to cultivate, it grows abundantly and without any risk almost anywhere it is planted, and it is hardly susceptible to damage from drought and the rigors of climate.' For more, see: Felipe Ledesma-Núñez, 'Colonial Epidemics and Mesoamerican Medicine in Sixteenth-Century Mexico,' Exhibit (Washington DC: Dumbarton Oaks), https://www.doaks.org/resources/online-exhibits/epidemics."
        attribution="Hathi Trust"
        license="public domain"
        fit="contain"
