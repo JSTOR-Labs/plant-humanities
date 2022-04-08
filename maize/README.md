@@ -22,7 +22,7 @@ The Guatemalan public foresaw several problems with this protection for privatiz
        fit="contain"
        url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2204.jpg">
 <param ve-image
-       label="Protests against Monsanto in Guatemala, 2014. The sign translates to: 'I don't want transgenic maize on the field nor my plate.'"
+       label="Protests against Monsanto in Guatemala, 2014. The sign translates to: 'I don't want transgenics on the field nor my plate.'"
        attribution="Cristina Chiquin, Mujeres Ixchel"
        license="public domain"
        fit="contain"
