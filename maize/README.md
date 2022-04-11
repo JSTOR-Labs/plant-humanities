@@ -199,12 +199,12 @@ These examples illuminate the resistance of communities in Central and South Ame
 {#paragraph14}
 															    
 Maize’s cultural, political, and economic significance persists in Central American communities today. Milpa agriculture continues to be practiced by Maya farmers and has been hailed as “[central](https://allianceforscience.cornell.edu/blog/2017/10/a-mexican-legacy-la-milpa-the-birthplace-of-maize/#:~:text=The%20importance%20of%20the%20milpa,an%20amazing%20variety%20of%20peppers.)” in the preservation of the biodiversity of Mexico. However, this is not to say that the symbiotic relationship between Indigenous communities and the plant has remained unchanged— anthropologists have noted the effects of globalization and migration patterns. As one woman named Teresa living in San Miguel del Valle, Oaxaca puts it: “No, we didn't have to go looking for maize [like we do now]...That’s how we lived, that’s how it was before. Now it is different. Why? Because we live in the town... and we no longer have everything that we produced naturally, not anymore. What we eat now comes from elsewhere.”[^ref33] Beverages like atole, which used to be produced domestically, have been industrialized, and are now sold by multinational companies. 
-<param ve-map
-	prefer-geojson
-	title="Map showing the production of maize around the world, measured in crop yield per hectare. The darker the color, the larger crop yield."
-	center="44.747810952859204, -13.410236017649687"
-	zoom="2">
-<param ve-map-layer mapwarper mapwarper-id="64061" active>
+<param ve-image
+       label="Map showing the production of maize around the world, measured in crop yield per hectare. The darker the color, the larger crop yield."
+       attribution="Centre d'enseignement Saint-Joseph de Chimay"
+       license="public domain"
+       fit="contain"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Mexico_FAO_maize_wheat.png?20091207101133">
 {#paragraph15}
 
 ### Monsanto: Rise and Resistance
@@ -216,7 +216,7 @@ As a result of the same forces of globalization and industrialization, threats t
        attribution="Wikimedia Commons"
        license="public domain"
        fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Mexico_FAO_maize_wheat.png?20091207101133">
+       url="maize 2.png">
 {#paragraph16}       
 
 This contamination has alarmed scientists, farmers, and activists around the world for a variety of reasons. Zapatistas fighting for autonomy in Mexico argued that transgenic industrial maize threatened to “overwhelm” local varieties and thereby make Central American economies reliant on US corporations. Since the 1970s, agronomists around the world have been concerned about the potential loss of crop diversity and the catastrophic consequences for global food security. And local farmers and community members worry about relying on global agribusiness for their main source of sustenance, as well as the potential disruption to their moral economies and local cosmologies.[^ref36]
