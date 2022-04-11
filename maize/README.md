@@ -203,7 +203,7 @@ Maize’s cultural, political, and economic significance persists in Central Ame
        label="Map showing the production of maize around the world, measured in crop yield per hectare. The darker the color, the larger crop yield."
        attribution="Centre d'enseignement Saint-Joseph de Chimay"
        license="public domain"
-       fit="fill"
+       fit="cover"
        url="maizeproduction.jpg">
 {#paragraph15}
 
