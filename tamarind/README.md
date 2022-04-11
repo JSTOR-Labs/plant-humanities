@@ -264,7 +264,7 @@ Interestingly, tamarind has also been the source of the material on which storie
 
 [^ref29]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_, 144.
 
-[^ref30]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India,” _Women’s History Review_ vol. 3, no. 4 (1994): 549. For more on J. Bouvier's print, after a design by W. Tayler, see Kate Smith, “‘Our Hero Is a Sportsman’: British Domestic Interiors in 19th Century India,” Untold Lives Blog (blog), March 5, 2014, [https://blogs.bl.uk/untoldlives/2014/03/our-hero-is-a-sportsman-british-domestic-interiors-in-19th-century-india.html](https://blogs.bl.uk/untoldlives/2014/03/our-hero-is-a-sportsman-british-domestic-interiors-in-19th-century-india.html) and E. M. Collingham, _Imperial Bodies: The Physical Experience of the Raj, c.1800-1947_ (New York: Wiley, 2001).
+[^ref30]: Nupur Chaudhuri, “Memsahibs and their Servants in Nineteenth-century India,” _Women’s History Review_ vol. 3, no. 4 (1994): 549. For more on J. Bouvier's print, after a design by W. Tayler, see Kate Smith, “‘Our Hero Is a Sportsman’: British Domestic Interiors in 19th Century India,” Untold Lives Blog (blog), March 5, 2014, [https://blogs.bl.uk/untoldlives/2014/03/our-hero-is-a-sportsman-british-domestic-interiors-in-19th-century-india.html](https://blogs.bl.uk/untoldlives/2014/03/our-hero-is-a-sportsman-british-domestic-interiors-in-19th-century-india.html) and E. M. Collingham, _Imperial Bodies: The Physical Experience of the Raj, c.1800–1947_ (New York: Wiley, 2001).
 
 [^ref31]: Lizzie Collingham, _Curry: A Tale of Cooks and Conquerors_, 60.
 
