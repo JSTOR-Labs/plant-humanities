@@ -204,7 +204,7 @@ Maize’s cultural, political, and economic significance persists in Central Ame
        attribution="Centre d'enseignement Saint-Joseph de Chimay"
        license="public domain"
        fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Mexico_FAO_maize_wheat.png?20091207101133">
+       url="maizeproduction.jpg">
 {#paragraph15}
 
 ### Monsanto: Rise and Resistance
