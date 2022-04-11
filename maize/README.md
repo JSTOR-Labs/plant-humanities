@@ -225,16 +225,7 @@ This contamination has alarmed scientists, farmers, and activists around the wor
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/YellowCorn.jpg/1600px-YellowCorn.jpg?20100825060907">
 {#paragraph17}
 
-It was in response to further contamination—and the legal codification of Monsanto’s presence in the region’s agriculture— that protests broke out in Guatemala in 2014. According to Maya columnist Bá Tiul, the fact that “people go out into the streets and roads to demonstrate their displeasure, because their sacred corn was to be given to Monsanto, is a sign that gradually people are taking their dignity and are expressing that the authorities are not those who [really] rule, but who obey; they are not who decide, but who must respond to what people want.”[^ref37] And, in the end, the people won: the Guatemalan Congress, swayed by the powerful protest, voted to repeal the Monsanto Law.[^ref38] 
-<param ve-image
-       fit="fill"
-       url="Maize_quote.png">
-<param ve-image
-       fit="fill"
-       url="lizaquote2.png">     
-{#paragraph18}
-
-The 2014 protest in Guatemala is not the only example of dissent over transgenic maize. Historian Helen Anne Curry describes local movements in Mexico that, in the early 2000s, declared “sin maíz no hay país” (“without maize there is no country”).[^ref39] Zapatista rebels “took matters into their own hands” by “developing locally managed preservation measures ...that connected Indigenous peoples with scientists and activists.”[^ref40] And, recently, Mexican president Andrés Manuel López Obrador promised to gradually eliminate the use of glyphosate and the production of GMO maize.[^ref41]
+It was in response to further contamination—and the legal codification of Monsanto’s presence in the region’s agriculture— that protests broke out in Guatemala in 2014. The 2014 protest in Guatemala is not the only example of dissent over transgenic maize. Historian Helen Anne Curry describes local movements in Mexico that, in the early 2000s, declared “sin maíz no hay país” (“without maize there is no country”).[^ref39] Zapatista rebels “took matters into their own hands” by “developing locally managed preservation measures ...that connected Indigenous peoples with scientists and activists.”[^ref40] And, recently, Mexican president Andrés Manuel López Obrador promised to gradually eliminate the use of glyphosate and the production of GMO maize.[^ref41]
 <param title="Zapatista Army of National Liberation" eid="Q188590" aliases="Zapatista"> 
 <param title="glyphosate" eid="Q407232">
 <param ve-map title="Global Responses to Transgenic Maize" center="34.746245, -39.385903" basemap="Esri_WorldPhysical" zoom="2" stroke-width="0" show-labels>
@@ -283,7 +274,6 @@ While some protests against Monsanto’s promotion of transgenic maize have been
 [^ref34]: Edgar Anderson, “The Sources of Effective Germ-Plasm in Hybrid Maize,” Annals of the Missouri Botanical Garden 31, no. 4 (1944): 355. See also: Helen Anne Curry, “Op-Ed: Saving Heirloom Seeds Can Protect Crop Diversity,” _Civil Eats_, January 27, 2022, https://civileats.com/2022/01/27/op-ed-saving-heirloom-seeds-can-protect-crop-diversity/.
 [^ref35]: Danny Bradbury, “Saving Maize,” _Alternatives Journal_ 31, no. 2 (2005): 19. 
 [^ref36]: For more on these diverse reasons, see: Helen Anne Curry, _Endangered Maize: Industrial Agriculture and the Crisis of Extinction_ (Berkeley: University of California Press, 2022). 
-[^ref37]: Bá Tiul, Kajkoj Máximo. 2014. ‘No y Punto’, _Prensa Libre_, 6 September, printed. Online: original url removed from www.prensalibre.com. Quoted in Grandia, “Sacred Maize against a Legal Maze,” 79.
 [^ref38]: See: Rebecca Griest, “Guatemalan Protests against Monsanto Law (2014),” Database, Global Nonviolent Action Database, February 10, 2015, https://nvdatabase.swarthmore.edu/content/guatemalan-protests-against-monsanto-law-2014.
 [^ref39]: Curry, _Endangered Maize_, 191. 
 [^ref40]: Ibid. 
