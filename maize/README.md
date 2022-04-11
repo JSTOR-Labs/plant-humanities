@@ -202,8 +202,8 @@ Maize’s cultural, political, and economic significance persists in Central Ame
 <param ve-map
 	prefer-geojson
 	title="Map showing the production of maize around the world, measured in crop yield per hectare. The darker the color, the larger crop yield."
-	center="23.444481569235908, 17.439373157291975"
-	zoom="3">
+	center="44.747810952859204, -13.410236017649687"
+	zoom="2">
 <param ve-map-layer mapwarper mapwarper-id="64061" active>
 {#paragraph15}
 
