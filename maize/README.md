@@ -109,10 +109,10 @@ After its domestication, maize quickly became an important crop for Mesoamerican
 <param title="isotope analysis" eid="Q518459"> 
 <<param title="Maya maize god" eid="Q12744013" aliases="Maize God"> 
 <param ve-image
-       label="Illustration of Milpa Agriculture"
+       label="Illustration of Milpa agriculture"
        attribution="Wikimedia Commons"
        license="public domain"
-       fit="contain"
+       fit="cover"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Three_Sisters_planting_visual_graphic.png/904px-Three_Sisters_planting_visual_graphic.png?20201203212314">
 {#paragraph8}
 
