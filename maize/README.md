@@ -167,24 +167,7 @@ During the colonial era, Maya understandings of maize as a sacred plant pushed u
 
 While early conquistadors disparaged maize, from the nineteenth century onwards, the crop began to attract the attention of scientists from Europe and the United States due to its productivity and economic potential both as a domestic and export crop. In the early twentieth century, scientists from the US and Europe traveled to regions in Mexico, Peru, and Guatemala, among others to identify unique “landraces,” or locally adapted domesticates, of maize.[^ref27]  Historian of science Helen Curry has detailed how scientists attempted to transpose putative human race science onto maize taxonomies: “At the most fundamental level, the raw material and motivation for classification arose directly from the imperative of ‘improvement’ in both crops and people.”[^ref28]  These scientists presented a vision of “early, stable indigenous races, transformed by racial mixing with newly arriving populations from other geographical regions, giving rise to valuable new ‘incipient’ but still-unstable racial types.”[^ref29]. 
 <param title="landrace" eid="Q174030" aliases="landraces"> 
-<param ve-image
-       label="Different specimens of maize"
-       attribution="JStor Global Plants"
-       license="public domain"
-       fit="contain"
-       url="ZeaMays1_JStor.jpg">
-<param ve-image
-       label="Different specimens of maize"
-       attribution="JStor Global Plants"
-       license="public domain"
-       fit="contain"
-       url="ZeaMays4.png">   
-<param ve-image
-       label="Different specimens of maize"
-       attribution="JStor Global Plants"
-       license="public domain"
-       fit="contain"
-       url="ZeaMays5.png">       
+<param ve-plant-specimen eid="Q11575" max="3">
  {#paragraph12}
  
 Bolstered in part by this racialized understanding of maize, scientists around the world began to breed maize for preferred traits, namely, quick growth and high productivity. By the 1940s, the Rockefeller Foundation began to partner with the Mexican government to increase production rates of certain staple crops, including maize.[^ref30] These attempts to turn maize into a scientific commodity attracted both local and global concern: one American geographer noted that this endeavor proffered the potential “disastrous destruction of local genes.... Mexican agriculture cannot be pointed toward standardization on a few commercial types without upsetting native economy and culture hopelessly.”[^ref31] As one Mexican scientist detailed, some communities refused to sell types of maize used in rituals, no matter what price was offered.[^ref32]
