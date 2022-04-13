@@ -166,7 +166,6 @@ During the colonial era, Maya understandings of maize as a sacred plant pushed u
   {#paragraph11}
 
 While early conquistadors disparaged maize, from the nineteenth century onwards, the crop began to attract the attention of scientists from Europe and the United States due to its productivity and economic potential both as a domestic and export crop. In the early twentieth century, scientists from the US and Europe traveled to regions in Mexico, Peru, and Guatemala, among others to identify unique “landraces,” or locally adapted domesticates, of maize.[^ref27]  Historian of science Helen Curry has detailed how scientists attempted to transpose putative human race science onto maize taxonomies: “At the most fundamental level, the raw material and motivation for classification arose directly from the imperative of ‘improvement’ in both crops and people.”[^ref28]  These scientists presented a vision of “early, stable indigenous races, transformed by racial mixing with newly arriving populations from other geographical regions, giving rise to valuable new ‘incipient’ but still-unstable racial types.”[^ref29]. 
-<param title="landrace" eid="Q174030" aliases="landraces"> 
 <param ve-plant-specimen eid="Q11575" max="3">
  {#paragraph12}
  
