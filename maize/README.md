@@ -16,17 +16,17 @@ The year was 2014, and many Guatemalans were incensed. In a country with a popul
 
 The Guatemalan public foresaw several problems with this protection for privatized seeds, or genetically modified seeds subject to a patent or copyright. The law sought to regulate the use of specific maize seeds, engineered by Monsanto to withstand Roundup, a glyphosate-based herbicide. By outlawing the replanting of these seeds, the law increased farmer dependence on big agribusiness. In response, opposition to the law swelled, bringing together a motley crew of protestors, including “peasant federations, health workers, biologists, Maya spiritual leaders, environmentalists, Pentecostals who regard Monsanto as an anti-Christ, opportunistic politicians, college students, and even Guatemala City foodies.”[^ref3]
 <param ve-image
-       label="Protests against Monsanto in Guatemala, 2014"
-       attribution="Cristina Chiquin, Mujeres Ixchel"
-       license="public domain"
-       fit="contain"
-       url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2204.jpg">
-<param ve-image
        label="Protests against Monsanto in Guatemala, 2014. The sign translates to: 'I don't want transgenics on the field nor my plate.'"
        attribution="Cristina Chiquin, Mujeres Ixchel"
        license="public domain"
        fit="contain"
        url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2323.jpg">
+<param ve-image
+       label="Protests against Monsanto in Guatemala, 2014"
+       attribution="Cristina Chiquin, Mujeres Ixchel"
+       license="public domain"
+       fit="contain"
+       url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2204.jpg">
 <param ve-image
        label="Protests against Monsanto in Guatemala, 2014"
        attribution="Cristina Chiquin, Mujeres Ixchel"
