@@ -13,7 +13,7 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:1187.789306640625,590.9833374023438,514.6031494140625,416.371826171875"
+        "value": "xywh=pixel:1033.1915283203125,479.1589050292969,1025.2037353515625,599.3497619628906"
       }
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
