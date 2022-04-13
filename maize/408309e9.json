@@ -53,7 +53,7 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:915.6583862304688,718.6761474609375,266.69927978515625,182.72998046875"
+        "value": "xywh=pixel:877.3540649414062,648.8270874023438,514.0953979492188,319.2750244140625"
       }
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
