@@ -113,7 +113,7 @@ The idea that a plant could consume animal prey has not been without controversy
 {#paragraph19}
 
 From that point on, carnivorous plants were less often portrayed as solitary botanical curiosities, but were instead grouped together in dynamic visual menageries. This trend was particularly popular in German encyclopedia entries, emerging parallel to the genesis of ecology as a field in Germany. Staged scenes from European greenhouses were used to present plant species that would never be found together in the wild as a single artificial category. The relationship between the vegetal predator and its insect prey was increasingly the focal point of such illustrations. Rather than serving as simply a feature of its native environment, the <span data-click-image-zoomto="1,2471,1612,1255">Venus flytrap</span> became associated with the nutrient-poor soils that were thought to prompt its alternative feeding habits. Botanical illustrators increasingly sought to display carnivory as a product of its harsh environment, as ecology and evolutionary theory became ever more entwined.
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/0fec130d396589fa0cde480dd076d4ff4a2af18b7d0d0aaa7b65d347f446e250">
+<param ve-image primary manifest="https://iiif.juncture-digital.org/manifest/0fec130d396589fa0cde480dd076d4ff4a2af18b7d0d0aaa7b65d347f446e250">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/46f45fdd846e4de25bd15e0fd533f13bc59773f6585b180faa3ddfb1f190dd6e">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/74db9e240b7969c12518b96603595b3298c107c32a8c8f12927204f3e6748d14">
 <ve-entity eid="Q7150" title="ecology"> 
