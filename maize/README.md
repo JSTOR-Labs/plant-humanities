@@ -109,7 +109,7 @@ After its domestication, maize quickly became an important crop for Mesoamerican
 <param title="isotope analysis" eid="Q518459"> 
 <<param title="Maya maize god" eid="Q12744013" aliases="Maize God"> 
 <param ve-image
-       label="Illustration of Milpa agriculture"
+       label="Illustration of Milpa agriculture. In this intercropping method, Maya farmers rotate annual crops with shorter-term perennial crops. Further, under this system, land is left fallow for eight years following two years of cultivation, in order to improve the regrowth of vegetation and maintain soil health."
        attribution="Wikimedia Commons"
        license="public domain"
        fit="cover"
