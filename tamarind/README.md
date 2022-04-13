@@ -10,8 +10,8 @@
 
 ### Sturdy Contradictions
 The grand and imposing hard-wood tree _Tamarindus indica_, commonly known as the tamarind tree, has long been a contradictory plant: it is at once a place of refuge and site of danger, a medicinal purgative and a culinary shape-shifter, an ingredient in a thirst-quencher and a drought-tolerant species. And while the tree has been documented across historical and literary genres for millennia, its place of origin remains scientifically obscure. Genetic studies do suggest an African origin, though wood charcoal analysis confirms that the tree has inhabited India since at least 1300 BCE, leading some to argue it is indigenous to the region.[^ref1] The tamarind narrative is rooted in so many singular places, but its global circulation speaks to the plant’s long history and steadfast ability to grow in dry and hot climates. 
-<param ve-compare curtain fit="contain" label="Old tamarind tree in the Nallur Amarai Grove." author="Shyamal" attribution="Shyamal" license="CC BY-NC 4.0" url="https://upload.wikimedia.org/wikipedia/commons/2/27/Nallur_tamarind1.jpg">
-<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/8/8c/AMH-7001-KB_Church_service_beneath_a_tamarind_tree.jpg" label="Johannes Janssonius Waasbergen, Church service beneath a tamarind tree, c. 1672, copperplate printing on paper, 17 × 13 cm" attribution="Koninklijke Bibliotheek, Atlas of Mutual Heritage via Wikimedia Commons" license="public domain" description="From Philippus Baldaeus, Naauwkeurige beschryvinge van Malabar en Choromandel, Amsterdam, 1672.">
+<param ve-compare curtain fit="contain" manifest="https://iiif.juncture-digital.org/manifest/235bbe3728eb9f488121be7394843b7fabb1ea0c574570c617dba6c368f83f74">
+<param ve-compare manifest="https://iiif.juncture-digital.org/manifest/a8303c13b997768ebecefc718a665bd7151e69a2933b1d8cca0d8a1cdd94ef7d">
 <param ve-entity eid="Q80235" title="Tamarindus indica">
 {#paragraph1}
 
@@ -70,7 +70,7 @@ Some sources suggest that tamarind was introduced into India, the world’s larg
 {#paragraph6}
 
 Today, tamarind orchards are located across India with one of the oldest groves, Nallur Amarai, located just outside of Begaluru. This 54-acre grove and recently declared biodiversity heritage site is believed to have been planted during the Chola dynasty in the twelfth century, though the oldest dated tree is 400 years old. While the plant has been cultivated in orchards and grown as a large-scale crop for commercial purposes, the trees are most frequently referenced in historical literature as singular trees, small ornamental groves (frequently in the shape of bonsai, especially in South Asia), or along roadsides. 
-<param ve-image fit="contain" label="Old tamarind tree, Nallur heritage grove, Bangalore, India, 2018." attribution="Shyamal, Wikimedia Commons" license="CC BY-NC 4.0" url="https://upload.wikimedia.org/wikipedia/commons/2/27/Nallur_tamarind1.jpg">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/235bbe3728eb9f488121be7394843b7fabb1ea0c574570c617dba6c368f83f74">
 <param ve-entity eid="Q1355" title="Bengaluru"> 
 <param ve-entity eid="Q151148" title="Chola dynasty">
 <param ve-entity eid="Q64365" title="bonsai"> 
@@ -84,7 +84,7 @@ This is the case for the <span data-mouseover-image-zoomto="1072,3109,1345,1166"
 
 As one of the largest trees in India, tamarinds have been incorporated into garden designs as a source of shade since the Mughal dynasty. Rooted in Persian traditions, Mughal gardens, called _charbaghs_ (fourfold gardens), were characterized by ornate fountains and water systems.[^ref10] The tamarind tree was often found in gardens like those built in Lahore by Emperor Babur’s son, Kamran Mirza. Centuries later, during British colonial rule of the Indian subcontinent, tamarind trees were used in gardens and along roadsides by high-ranking officers. At the turn of the nineteenth century, though his plans were never realized, Governor-General of India Lord Wellesley attempted to line a section of the Great Trunk Road from a palace in Barrackpore to the Government House in Calcutta, with tamarind, mango, peepul, and teak trees.[^ref11]
 <param ve-image fit="contain" label="Bishndas, Babur supervising the laying out of a Kabul garden, Bãburnãma, c. 1590, opaque watercolor on paper, 21.7 × 14.3 cm." attribution="Victoria and Albert Museum" license="©Victoria and Albert Museum, London" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/Babur_supervising_laying_out_Victoria_Albert_Mus_copyright_Victoria_Albert_Museum.jpg?raw=true">
-<param ve-image fit="contain" label="_Mughal garden design, Shalamar Gardens_, Lahore, Pakistan, 2014." attribution="Armughanmunir, Wikimedia Commons" license="CC BY-SA 3.0" url="https://upload.wikimedia.org/wikipedia/commons/d/d5/Shalimar_garden_1.JPG">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/88c34809e373bf709f2a11b102e2688e6a26536273dbd7868bd587921609b49c">
 <param ve-entity eid="Q2429892" title="Mughal gardens">
 <param ve-entity eid="Q11739" title="Lahore">
 <param ve-entity eid="Q12419221" title="Kamran Mirza">
@@ -93,7 +93,7 @@ As one of the largest trees in India, tamarinds have been incorporated into gard
 
 ### Tamarind’s Medicinal and Culinary Uses
 Virtually every part of the tamarind tree—seeds, fruity pulp, bark, root, and leaves—is edible in some form. Its fruit contains the rather unusual tantric acid that makes it simultaneously the “most acidic and sweetest fruit.”[^ref12] The acid’s sweet-sour flavoring has a cooling effect in hot weather which makes it a valuable ingredient in a wide variety of dishes and beverages and inextricably links the fruit to warm climates. Moreover, as French botanist Joseph de Tournefort (1656–1708) conjectured, the fruit’s acidity lends itself to uncountable medicinal uses, such as a [“purging medicine,”](https://luna.folger.edu/luna/servlet/detail/FOLGER~3~3~18513~281201:Receipt-book-of-Catherine-Bacon--ma) a [laxative,](https://archive.org/details/b2130659x_0002/page/172/mode/2up?q=tamarind*) an [aid in facial paralysis,](https://archive.org/details/englishtranslati00susruoft/page/n4/mode/1up?q=tamarind*) and a [flavoring to make more bitter or unpleasant medicines taste sweeter.](https://archive.org/details/b2130659x_0002/page/172/mode/2up?q=tamarind*)
-<param ve-image region="-51,1682,4044,3528" label="Jose Joaquim Freire, Tamarindus indica, L., 1700s, watercolor, 34.5 x 24 cm." attribution="Biblioteca Nacional do Brasil, BNDigital via Wikimedia Commons" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/5/5f/%28Tamarindus_indica%2CL.%29.%2C_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg">
+<param ve-image region="-51,1682,4044,3528" manifest="https://iiif.juncture-digital.org/manifest/559795c749e956c25a618f8ea72282d56d3ab4c1893f837e35145e369e586943">
 <param ve-entity eid="Q312959" title="Joseph de Tournefort">
 {#paragraph10}
 
@@ -104,7 +104,7 @@ Tamarind is mentioned in traditional Sanskrit literature and traditional African
 {#paragraph11}
 
 Tamarind’s resilience has made it a central part of herbal medicine practices across history. The seventeenth-century oil painting created after a design by the French printmaker Nicolas de Larmessin II portrays three men as the personifications of medicine, pharmacy, and surgery. At the center of the composition, the physician personifying medicine is cloaked in garb that bears the names of medieval authors central to traditional Western medicine, including Avicenna and Mesue, two Persian polymaths credited by Tournefort as key to the spread of knowledge about tamarind. Taking a closer look, just beneath the medicine man’s hand, is a <span data-click-image-zoomto="366,572,344,300">written prescription</span> to treat medical ailments, and nestled within the text that includes “cassia” and “rhubarb” is none other than “tamarind.”
-<param ve-image fit="contain" label="Nicolas de Larmessin II, possibly after, Personifications of medicine, pharmacy and surgery, oil on canvas, 141.5 x 124 cm." attribution="Wellcome Collection" license="CC BY-NC 4.0" url="https://iiif.wellcomecollection.org/image/b12023747_V0017117.JP2/full/1338%2C/0/default.jpg">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/4a6618d8e6704e21276f2647dd472450cbafdba566c17e78295e0d644577c665">
 <param ve-entity eid="Q16666497" title="Nicolas de Larmessin II">
 <param ve-entity eid="Q1291511" title="Mesue">
 <param ve-entity eid="Q8011" title="Avicenna">
@@ -114,15 +114,15 @@ Tamarind’s resilience has made it a central part of herbal medicine practices 
 {#paragraph12}
 
 Tracing the appearance of the tamarind tree’s commonly used parts across materia medica, travelogues, and cookbooks, is a means to track the dissemination of traditional herbal Ayurvedic medicinal knowledge through the peak of colonial expansion, to call attention to the colonial economic interests in _T. indica_, and to foreground the diverse religious and culinary cultures that the plant sustains. 
-<param ve-image fit="contain" label="A. Bernecker, Tamarindus indica, L., watercolor." attribution="Naturalis Biodiversity Center via Wikimedia Commons" license="CC0 1.0" url="https://upload.wikimedia.org/wikipedia/commons/2/29/Naturalis_Biodiversity_Center_-_L.0939530_-_Bernecker%2C_A._-_Tamarindus_indica_Linnaeus_-_Artwork.jpeg">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/efe79c50e9f491b05cf721c4bf956473d2032b570e90390ea98536ea80ad4e42">
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.linn-hs78-1-3">
 <param ve-entity eid="Q1291275" title="materia medica">
 {#paragraph13}
 
 ### Leaves 
 In its mature state, the tamarind tree’s vast crown is a place of refuge. Because the tree can grow in developed areas, be it on the side of the road, in barren spaces, or in commercial areas, it’s a common gathering place for people seeking relief from hot sun or congregating for sacred reasons.[^ref13] In many cultures the tree has historically been considered holy. Tamil culture, for example, recognizes Puliyidaivalaiyamman as the tamarind tree deity who offers fruit as a blessing.[^ref14] The leaves, young seedlings, and flowers that make up the crown are made into chutneys, added to sambar and soup.[^ref15] Outside of the kitchen, the leaves, which contain tannins, [can be used as a natural mordant](https://www.sciencedirect.com/science/article/pii/S131961031100202X) to affix dye to textiles. In a medicinal context, the leaves can be dried or boiled for use as poultices to relieve swelling.[^ref16]
-<param ve-image region="0,1465,2048,1709" label="Old Tamarind Trees, published in Joseph Hooker, Himalayan Journals, vol. 1, London, John Murray, 1854." attribution="Wellcome Collection" license="Public Domain Mark 1.0" url="https://iiif.wellcomecollection.org/image/b28125800_0001_0057.jp2/full/2048%2C/0/default.jpg">
-<param ve-image label="Idital, Soura wall painting, Rayagada, Odisha, Eastern India." attribution="Hpsatapathy, Wikimedia Commons" license="CC BY-NC 3.0" url="https://upload.wikimedia.org/wikipedia/commons/e/e6/Idital_Wall_Painting.jpg">
+<param ve-image region="0,1465,2048,1709" manifest="https://iiif.juncture-digital.org/manifest/7b3776538515dfff49afa8e5b8a74fb8e9ee77fb09402df588a234847afb5b8b">
+<param ve-image manifest="https://iiif.juncture-digital.org/manifest/600dcb72f97dc6abd6ccabee8bb019119eb5614b59242ea4903e1226243b6bcc">
 <param ve-entity eid="Q811571" title="tree deity">
 <param ve-entity eid="Q275650" title="chutney">
 <param ve-entity eid="Q188420" title="sambar">
@@ -131,8 +131,7 @@ In its mature state, the tamarind tree’s vast crown is a place of refuge. Beca
 ### Seeds and Pods
 Tamarind seeds are as versatile as they are valuable. When pilgrims flocked to the desert to meet Khorasan mystic poet and saint Abu Said (1305–1335), they paid good sums to obtain seeds from the tamarind tree he sat beneath.[^ref17] Tamarind seeds are consumable in a number of ways: after they are soaked to remove the seed coat, they can be roasted, boiled, fried, or ground.[^ref18] In Thailand, the ground seeds are used as a coffee substitute.[^ref19] In Ayurvedic medicine, the shells of the tamarind pods are burned to create an “alkaline ash” to then be used in other recipes.[^ref20] In addition to its culinary uses, the seeds can be made into a powder that is used in the textile and paper industries.[^ref21] In India, [Saura tribal painting](https://en.wikipedia.org/wiki/Saura_painting#Paintings) in Orissa (now called Odisha) uses the tamarind seed’s natural brown hue to dye the background of paintings. Likewise, black lacquer, referred to as tamarind-seed script, was and continues to be used to create embellished Burmese characters in religious Pali texts like the _Kammavaca_, a decorative manuscript that details monastic duties.[^ref22]
 <param ve-image fit="contain" label="Amanda Almira Newton, Tamarindus indica (Indian tamarind), 1908, watercolor, 15 x 24 cm." attribution="U.S. Department of Agriculture Pomological Watercolor Collection. Rare and Special Collections, National Agricultural Library, Beltsville, MD 20705" license="public domain" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/tamarind_pod_Nat_Ag_Lib_public_domain.png?raw=true"> 
-<param ve-image fit="contain" label="Burmese Kammavaca Manuscript, 19th century." attribution="Kaldari, Etsy via Wikimedia Commons" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Burmese_Kammavaca_Manuscript.jpg">
-<param ve-entity eid="Q1192519" title="Abu Said">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/f94b627967d3883dc392d754a48ac969dd0ff844881ea8e501d439bd70aa7dae">
 <param ve-entity eid="Q22048" title="Orissa">
 <param ve-entity eid="Q36727" title="Pali">
 <param ve-entity eid="Q869" title="Thailand">
@@ -145,9 +144,9 @@ Fifteen-inch tall redware jars like the one housed at the [Strawbery Banke Museu
 
 ### Pulp
 Tamarind pulp makes up roughly 30 to 50 percent of a ripe fruit.[^ref24] The pods are picked at various stages in the fruit’s life cycle for different flavor profiles. The sour fruit from immature pods is incorporated into pickles and chutneys, and is used to season rice, fish, and meat. The mature but unripe fruit can be eaten in food or independently, such as in the Bahamas where the pods are roasted on coals until the skins burst and the hot pulp is eaten coated in wood ashes.[^ref25] The ripe mature pod, which contains a sweet-sour brown pulp, is used as a seasoning for sauces, curries, desserts, drinks, and in a variety of street foods, such as golgappa, pani puri, and phuchka in northern and eastern India.[^ref26]
-<param ve-image fit="contain" label="Tamarind (Tamarindus indica) pods and pulp for sale at a market, Baubau City, Buton Island, Indonesia, 2012." attribution="David E Mead, Wikimedia Commons" license="CC0 1.0" url="https://upload.wikimedia.org/wikipedia/commons/d/da/Tamarind_%28marketed%29.jpg">
-<param ve-image fit="contain" label="Jarred tamarind paste, 2018." attribution="Anieyo, Wikimedia Commons" license="CC BY-SA 4.0" url="https://upload.wikimedia.org/wikipedia/commons/0/07/Tamarind_paste.jpg">
-<param ve-image fit="contain" label="Puliyogare (Tamarind Rice), a popular South Indian dish, 2021." attribution="Manjeshwari poet mysore, Wikimedia Commons" license="CC BY-SA 4.0" url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Puliyogare_Or_Tamarind_Rice.jpg/1024px-Puliyogare_Or_Tamarind_Rice.jpg">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/512c6cd3179d976a07c9c3e033623fc6ae3dec6e9e443d2d4d2275e021307d78">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/db22a69a556e9b4ff4754a69ddc4b6cb79bdf25173da0285143e85b67c03ebc6">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/5670c3346ca9e756b6ad13fa1a6788f213cce36bc49675afcbea16405707cf74">
 {#paragraph17}
 
 Tamarind water is an immensely popular drink, both soothing and cooling, and is offered in restaurants and sold in markets, in the hot climates of Central America, Southeast Asia, and Africa. In north India, tamarind water infused with cumin, pepper, and other spices is a popular summer beverage known as jal jeera. Made by adding tamarind pulp to water and sweetened, tamarind water is easy to make at home—a quick YouTube search reveals dozens of how-to videos for making it.  
@@ -156,8 +155,7 @@ Tamarind water is an immensely popular drink, both soothing and cooling, and is 
 {#paragraph18}
       
 Tamarind water has been around since at least the late medieval period as an enjoyable beverage and a medicinal drink. Marco Polo, in his travel accounts, observes merchants being “force[d]...to swallow a stuff called _Tamarindi_, mixed in sea-water” that results in “violent purging.”[^ref27] A few centuries later, John Parkinson, apothecary to James I and Royal Botanist to Charles I, writes of tamarind in his _Theatrum botanicum_ (1640): “it doth exceedingly helpe to assuage the thirst, if an ounce there-of be dissolved in faire water, and a little Sugar mixed therewith.” Parkinson notes that the drink is a particularly suitable thirst-quencher for “people of the hot countries.”
-<param ve-image fit="contain" label="At the point of death during his travels to Africa, Gaspard Théodore Mollien turns to tamarind as a remedy, published in Gaspard Théodore Mollien, Travels in the Interior of Africa, 1820, London: H. Colburn & Co." attribution="University of Pittsburgh Library System, Flickr via Wikimedia Commons" license="public domain" 
-url="https://upload.wikimedia.org/wikipedia/commons/2/20/Travels_in_the_interior_of_Africa%2C_to_the_sources_of_the_Senegal_and_Gambia%3B_performed_by_command_of_the_French_Government%2C_in_the_year_1818_%281820%29_%2814760831431%29.jpg">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/53bbeeb92b729232e4084076134b381f95adf1ca6680aa9cf36f2cdcb135d499">
 <param ve-entity eid="Q256288" title="Marco Polo">
 <param ve-entity eid="Q7622525" title="John Parkinson">
 <param ve-entity eid="Q79972" title="James I">
@@ -165,7 +163,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/2/20/Travels_in_the_interior
 {#paragraph19}
 
 Similarly, Mrs. A.C. Carmichael, a Scottish migrant to the British West Indies and wife of enslaver John Wilson Carmichael, points out in _Domestic Manners and Social Condition of the White, Coloured, and Negro Populations of the West Indies_ (1834) that the tamarind beverage is drunk in ever-increasing quantities as settler-colonists spend more time in the tropics, resulting in more “relaxed constitution[s].” As Carmichael recounts, her own alimentary desires follow this shift: “During the first year I resided in St. Vincent, I never felt thirst between breakfast and dinner, unless I had walked or rode out during the heat of the day; but before I left the West Indies, I felt a great change in this respect, taking sometimes as many as six or seven large glasses of water in the forenoon.” Both Carmichael and Parkinson’s commentary expressly connects ingesting tamarind water to hot climates, and the people who occupy those areas. In this way, the two actively perpetuated a centuries-long discourse linking climate, health, and race that underpinned colonial rule.
-<param ve-image fit="contain" label="Marianne North, African Baobab Trees, a Large Tamarind, the God Aiyanar and His Two Wives, c.1878, oil on board, 24.6 x 35.5 cm." attribution="The Board of Trustees of the Royal Botanic Gardens, Kew, Marianne North Gallery via Art UK" license="CC BY-NC 3.0" url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD3_279-001.jpg">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/9c4b846ea833569ad8972a8efa404353f393238fbea31e2889bf8c3e843a2ccc">
 <param ve-entity eid="Q4215366" title="John Wilson Carmichael">
 <param ve-entity eid="Q379656" title="St. Vincent">
 {#paragraph20}
@@ -177,7 +175,7 @@ Tamarind is most known for its culinary uses and is a staple in Indian cuisine. 
 {#paragraph21}
 
 Historically, upper-class white British women in India, or memsahibs, employed servants to do their grocery shopping, but notably their role in acquiring and obtaining tamarind is barely mentioned in the British women’s cookbooks. Nupur Chaudhuri argues that memsahibs contributed to creating “an image of an Indian servant class which they, their friends, and families generalized to all Indians,” and that they did so through their personal correspondence, letters in magazines and periodicals, and also in their published cookbooks.[^ref30]
-<param ve-image fit="contain" label="J. Bouvier, after W. Tayler, A female Anglo-Indian at her toilet being attended by three Indian servants, 1842, color lithograph with watercolor, 27.4 x 21.8 cm." attribution="Wellcome Collection" license="CC BY-NC 4.0" url="https://iiif.wellcomecollection.org/image/b11916606_V0019937-LS-LS.jp2/full/2048%2C/0/default.jpg">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/f857fbaab5311a7434ba77301741d1d51371f3a312bb4da52f63e99da900bb14">
 {#paragraph22}
 
 Tamarind has been used as an ingredient in chutneys, curries, and pickles throughout Indian culinary history. Historian Lizzie Collingham describes how after its arrival in India from eastern Africa via Arab traders, tamarind helped characterize South Indian cuisine, known for its rich sauces and “sour notes.”[^ref31] The use of tamarind is not limited to South India, however, and appears in cuisines across the country and South Asia at large. One notable chapter in colonial Indian culinary history is detailed in Chitra Deb’s Women of the Tagore Household, a history of the women in the Bengali Brahmin family. Deb writes that “cooking was an artform for women… one of their main modes of expression of their artistic abilities.”[^ref32]. Deb’s book contains many stories of these fascinating women, but she pays particular attention to the culinary prowess of Mrinalini Devi, wife of Rabrindranath Tagore, and Pragyasundari Devi, daughter of Hemendranath Tagore, Rabrindranath Tagore’s niece.[^ref33] Pragya, as Deb refers to her, is known for her 1902 publication of Aamish O Niramish Aahar, a Bengali cookbook that is probably the first known Bengali cookbook.[^ref34] Of the many dishes that Deb cites from Pragya’s cookbooks, she notes a _Saraswati ambol_ made from tamarind and a curried raw tamarind with alum as two of Pragya’s most fascinating creations.[^ref35]
@@ -190,8 +188,7 @@ Tamarind has been used as an ingredient in chutneys, curries, and pickles throug
 {#paragraph23}
 
 Just as tamarind has been present in colonial kitchens, it has also been used by the people displaced by colonial regimes as an avenue to create community. Hawa Hassan and Julia Turshen’s cookbook [_In Bibi’s Kitchen_](https://www.worldcat.org/title/in-bibis-kitchen-the-recipes-stories-of-grandmothers-from-the-eight-african-countries-that-touch-the-indian-ocean/oclc/1136960226&referer=library_profile&returnRegistryId=105808) (2020) features elder women’s (grandmother’s) recipes through the lens of their larger communities. The South African section most prominently features tamarind, highlighting the culinary traditions of the Cape Malay people who are [descendants of enslaved Muslims](https://www.cnn.com/travel/article/cape-malay-cuisine-south-africa/index.html) forcibly brought to South Africa by the Dutch East India Company. The grandmothers share a recipe for Denningvleis, a sweet-and-sour lamb stew. In the introduction to their cookbook, Hassan and Turshen stress the care and respect they brought to its contents, written outside of the white male gaze that has dominated so much of tamarind’s determined value on a global market since the height of empire. The authors take pride in the everyday home cooking of the elder women they interviewed and feature–everyday cooking that utilized tamarind before, despite, and after European colonization.
-<param ve-image fit="cover" label="Bo-kaap, the old Malay quarter of Cape Town, South Africa, with Signal Hill behind the colorful homes." attribution="Barry Haynes, Wikimedia Commons" license="CC BY-SA 4.0" url="https://upload.wikimedia.org/wikipedia/commons/d/da/Bo-Kaap_Cape_Town_South_Africa.jpg">
-<param ve-entity eid="Q1276753" title="Cape Malay" aliases="Cape Malay people">
+<param ve-image fit="cover" manifest="https://iiif.juncture-digital.org/manifest/6a5a0f03c1607ee36c9657ab82d2936873b30342d7acccf97e5a7e3964573c71">
 {#paragraph24}
 
 ### The Story of a Tamarind Tree
