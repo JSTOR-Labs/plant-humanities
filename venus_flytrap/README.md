@@ -116,7 +116,7 @@ From that point on, carnivorous plants were less often portrayed as solitary bot
 <param ve-image primary manifest="https://iiif.juncture-digital.org/manifest/0fec130d396589fa0cde480dd076d4ff4a2af18b7d0d0aaa7b65d347f446e250">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/46f45fdd846e4de25bd15e0fd533f13bc59773f6585b180faa3ddfb1f190dd6e">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/74db9e240b7969c12518b96603595b3298c107c32a8c8f12927204f3e6748d14">
-<ve-entity eid="Q7150" title="ecology"> 
+<param ve-entity eid="Q7150" title="ecology"> 
 {#paragraph20}
 
 Around this time, the Venus flytrap was also taken on as a protagonist of new media of educational and artistic display. The Blaschka Glass Flowers, commissioned in 1886 by Professor George Lincoln Goodale (1839–1923), the first director of Harvard’s Botanical Museum, included perhaps the first life-sized model of *Dionaea muscipula* for teaching, complete with a <span data-click-image-zoomto="1039,4089,702,547">tiny glass fly</span> frozen forever on the precipice of doom. The fragile life-sized model further illustrated to students and the general public the evolutionary forces that shaped the plant, adapted to attract certain pollinating insects to its delicate <span data-click-image-zoomto="1448,129,1609,1253">white flowers</span> (these visitors were graciously spared from consumption) and others to its <span data-click-image-zoomto="614,3408,2882,2244">snap-trap leaves</span> (who were often not so lucky).[^ref22]
