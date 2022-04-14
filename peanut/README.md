@@ -24,7 +24,7 @@ Despite its English name and nutlike taste, the peanut is, in fact, not a nut. T
 {#paragraph1}
 
 While the largest peanut producing nations nowadays include China, India, Nigeria, and the U.S., this plant has its <span data-mouseover-map-flyto="-19.922,-64.061,6">origins in South America</span>, having been cultivated by Andean civilizations before spreading throughout the rest of the hemisphere.[^1] The arrival of the peanut in Europe and its migration around the world altered global food production and supply forever, rendering it one of the most “successful ” New World plants that was disseminated via the Columbian Exchange, along with the potato.
-<param ve-map basemap="Esri_WorldPhysical" title="The distribution of Arachis hypogaea arond the world, with its estimated origin area shown in red.">  
+<param ve-map basemap="Esri_WorldPhysical" title="The distribution of Arachis hypogaea around the world, with its estimated origin area shown in red."> 
 <param ve-map-layer geojson active url="peanutdistributionmap.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
 	coords="-18.5,-64.061"
@@ -44,7 +44,7 @@ The cultivated peanut is one of many species of the _Arachis_ genus which is tho
  
 As Garcilaso suggests, peanuts were more than just an important food source, they were also a prestigious item with symbolic and religious importance and a connection to societal elites. The <span eid="Q208188">Moche culture</span> in northern Peru immortalized peanuts in metalwork and on ritual and funerary ceramics, and associated them with death, agricultural production, and fertility, in part because of the peanut’s subterranean growth process.[^5] They were also used in competitive feasts and as a ceremonial offering. The high status of peanuts is perhaps best immortalized in an elaborate gold and silver necklace that was discovered in the excavation of the Royal Tombs of Sipan in the 1980s where the warrior-priest leaders of the Moche were buried.[^6] 
 <param ve-image
-       label="A gold and silver peanut necklace found in the Royal Tombs of Sipan, c.300 CE"
+       label="A gold and silver peanut necklace found in the Royal Tombs of Sipan, c.300 CE."
        attribution="Artstor Slide Gallery, courtesy of the Fowler Museum at University of California, Los Angeles"
        fit="contain"
        url="Peanut Necklace.jpg">
@@ -52,7 +52,7 @@ As Garcilaso suggests, peanuts were more than just an important food source, the
        
 Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, having gradually spread further north via trade networks. In the Aztec capital of <span eid="Q13695">Tenochtitlan</span>, the location of present-day Mexico City, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ (cocoa), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_, and suggesting that the Aztec may have been the first humans to combine these two now-ubiquitous flavors.[^7]
 <param ve-image
-       label=" A peanut plant shown in Book XI of the 'Historia general de las cosas de Nueva España' (1577)"
+       label="Peanut plant, Book XI, Historia general de las cosas de Nueva España, 1577."
        attribution="World Digital Library"
        license="public domain"
        url="Peanut Florentine Codex.png">
@@ -60,7 +60,7 @@ Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, 
 
 Although peanuts were less common in Mesoamerica than in South America, peanuts were similarly noted for their medicinal properties. They are included in Book Eleven, _Earthly Things_, of the twelve-volume _General History of the Things of New Spain_, also known as the <span eid="Q1106019">Florentine Codex</span>, which was compiled by the Spanish Friar <span eid="Q379972">Bernardino de Sahagún</span> in collaboration with his indigenous students during the sixteenth century and gave a comprehensive account of Aztec culture, society, and natural history in order to facilitate Spanish evangelization work. Here, _tlalacacahuatl_ is described as a “root” to be given ground up in water to those with a fever, allowing them to expel the ailment in their urine.[^8]
 <param ve-image
-       label=" A peanut plant shown in Book XI of the 'Historia general de las cosas de Nueva España' (1577)"
+       label="Peanut plant, Book XI, Historia general de las cosas de Nueva España, 1577."
        attribution="World Digital Library"
        license="public domain"
        url="Peanut Florentine Codex.png">
@@ -81,7 +81,7 @@ While the arrival of the peanut in Europe was relatively slow, <span eid="Q68384
 	
 The first mention of peanuts in a Chinese text dates to 1503, a mere decade after Columbus’ “discovery” of the Americas. The manuscript describes boiled or cooked peanuts as “delicious” and gives the origin of its Chinese name 落花生 _luo hua sheng_ (commonly now just 花生 _hua sheng_), literally “born from a fallen flower,” which is how peanuts were thought to grow.[^11] Over the next centuries, peanuts rose in popularity across China as they gradually spread inland from the trading ports of southern coastal cities. Though now ubiquitous in Chinese cuisine, peanuts were a luxury food served at banquets and out of reach for many until the 19th century. The peanut came to be imbued with new cultural meanings as well, as shown in the <span eid="Q8733">Qing Dynasty</span> agate carving to the right depicting a pair of peanuts alongside red dates. The carving is a play on words: the characters for red date (枣, _zao_) and peanut (生, _sheng_), are homophones for the first two characters of the auspicious greeting 早生贵子 zao sheng gui zi, an encouragement for newlywed couples to soon have children.[^12]
 <param ve-image
-       label="Peanuts and jujube dates(18th Century)"
+       label="Peanuts and jujube dates, 18th century"
 	description="Qing Dynasty carving in chalcedony"
        attribution="The Metropolitan Museum of Art"
        license="Public Domain"
