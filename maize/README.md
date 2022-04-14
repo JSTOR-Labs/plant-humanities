@@ -74,8 +74,8 @@ Indigenous groups in what is now Southwestern Mexico played a major role in this
 {#paragraph6}
 
 By 7000 years [BP,](https://www.archaeological.org/programs/educators/introduction-to-archaeology/glossary/#b) humans had dispersed maize from the Rio Balsas region into South America as a partial domesticate, though, as scholars have noted, there were “multiple waves of dispersal” of maize into South America. There, the crop underwent “secondary improvement in the southwestern Amazon before diversifying across the continent. Humans then dispersed this domesticated vareity back into Central America and to the north, demonstrating the "clear evidence of two-way movements of plants and people lasting millennia between Central and South America.”[^ref11] Maize is therefore a notable example of the mobility of plants in relation to humans. 
-<param ve-map title="The Spread of Maize" center="8.89747323980703, -79.7571587720445" zoom="5">
-<param ve-map-layer geojson active title="The Spread of Maize" url="/geojson/maizespread.json">
+<param ve-map title="The Spread of Maize" center="8.89747323980703, -79.7571587720445" zoom="3.5">
+<param ve-map-layer geojson active title="Map showing the two-way movement of maize from the Balsas River Valley. The different colors represent different major groups of maize. Source: 'A European Perpsective on Maize History,' https://doi.org/10.1016/j.crvi.2010.12.015" url="/geojson/maizespread.json">
 {#paragraph6}
 
 In addition domesticating maize by selecting for attractive characteristics such as cob size, and dispersing it throughout South America and back towards Central America, humans worked to cultivate maize, which could not have survived if left to its own devices. Wild teosinte is very fragile, and its pod can be shattered by the wind. By contrast, maize relies on humans to disperse its seeds.  The scientific history of maize thus reveals the central and active role early Mesoamericans played in its domestication through conscious decisions in the cultivation processes.
