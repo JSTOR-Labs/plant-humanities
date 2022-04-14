@@ -24,6 +24,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Here, the maize god is represented as an anthropomorphic cacao tree, as evidenced by his limbs being cacao pods. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/413da5d19d6754c576813b7778c9700257f0388cb61954a03c68ea10b97b53aa",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:976.572265625,415.4622497558594,1141.6685791015625,770.7115783691406"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#02f3ce9c-57f3-48a2-99ff-021088a96bbe"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Scholars such as Simon Martin have shown how this image represents a fusion of the glyph between the maize god head and the sign for tree, or the \"Maize Tree.\" Cacao is thus one of the fruits of the maize tree. ",
         "purpose": "commenting"
       }
