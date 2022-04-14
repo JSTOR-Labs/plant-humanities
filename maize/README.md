@@ -8,7 +8,7 @@
        description=“Add.”>
 
   
-The year was 2014, and many Guatemalans were incensed. In a country with a population of 14 million, approximately 120,000 took to the streets. Protesters blocked traffic along the Pan American Highway and other major roadways to voice their opposition to the “Law for the Protection of New Plant Varieties, or, as it was popularly known, the “Monsanto Law.” [^ref1] The law “outlawed the replanting, transportation, or selling of privatized seeds without permission, and made these actions punishable by one to four years in jail and a fine of 1,000 to 10,000 quetzals (130 to 1,300 US dollars).” [^ref2]
+The year was 2014, and many Guatemalans were incensed. In a country with a population of 14 million, approximately 120,000 took to the streets. Protesters blocked traffic along the Pan American Highway and other major roadways to voice their opposition to the “Law for the Protection of New Plant Varieties, or, as it was popularly known, the “Monsanto Law.” The law “outlawed the replanting, transportation, or selling of privatized seeds without permission, and made these actions punishable by one to four years in jail and a fine of 1,000 to 10,000 quetzals (130 to 1,300 US dollars).” [^ref2]
 <param ve-map title="During the 2014 protests against Monsanto's Law, protestors in Guatemala blocked traffic along this major roadway" center="15.0981244, -90.316436" zoom="7">
 <param ve-map-layer geojson active title="The Pan-American Highway in Guatemala" url="/geojson/roadguatemala2.json">
 <param title="Monsanto" eid="Q207983" aliases="“Monsanto"> 
@@ -225,8 +225,7 @@ While some protests against Monsanto’s promotion of transgenic maize have been
        url="maizemeanings2.jpg">
 
 ### References
-[^ref1]: See: Liza Grandia, “Sacred Maize against a Legal Maze: The Diversity of Resistance to Guatemala’s ‘Monsanto Law,’” _Journal for the Study of Religion, Nature and Culture_ 11, no. 1 (July 4, 2017): 57. 
-[^ref2]: Rebecca Griest, “Guatemalan Protests against Monsanto Law (2014),” Database, Global Nonviolent Action Database, February 10, 2015, https://nvdatabase.swarthmore.edu/content/guatemalan-protests-against-monsanto-law-2014.
+[^ref2]: Rebecca Griest, “Guatemalan Protests against Monsanto Law (2014),” Database, Global Nonviolent Action Database, February 10, 2015, https://nvdatabase.swarthmore.edu/content/guatemalan-protests-against-monsanto-law-2014. See also: Liza Grandia, “Sacred Maize against a Legal Maze: The Diversity of Resistance to Guatemala’s ‘Monsanto Law,’” _Journal for the Study of Religion, Nature and Culture_ 11, no. 1 (July 4, 2017): 57. 
 [^ref3]: Grandia, “Sacred Maize against a Legal Maze,” 59.
 [^ref4]: Duccio Bonavia, _Maize: Origin, Domestication, and Its Role in the Development of Culture_, trans. Javier Flores Espinoza (Cambridge: Cambridge University Press, 2013), 24.
 [^ref5]: Feng Tian, Natalie M. Stevens, and Edward S. Buckler, “Tracking Footprints of Maize Domestication and Evidence for a Massive Selective Sweep on Chromosome 10,” _Proceedings of the National Academy of Sciences_ 106, no. Supplement 1 (June 16, 2009): 9979–86, https://doi.org/10.1073/pnas.0901122106.
