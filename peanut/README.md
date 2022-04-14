@@ -217,7 +217,7 @@ Despite the use of the word [“peanut”](https://www.merriam-webster.com/dicti
 [^3]: Tom D. Dillehay, Jack Rossen, Thomas C. Andres, and David E. Williams, “Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru,” *Science* 316, no. 5833 (2007): 1890-1893, [https://doi.org/10.1126/science.1141395](https://doi.org/10.1126/science.1141395)
 [^4]: Inca Garcilaso de la Vega, *Comentarios Reales*, Vol. 1 (Caracas: Biblioteca Ayacucho, 1985). 
 [^5]: Lindi Jaclyn Masur, “Peanuts and Prestige on the Peruvian North Coast: The Archaeology of Peanuts at Huaca Gallinazo (V-59) and Huaca Santa Clara (V-67),” Master’s Thesis, The University of British Columbia, 2012.
-[^6]:
+[^6]: Walter Alva and Christopher B. Donnan, Royal Tombs of Sipán (Los Angeles: Fowler Museum of Cultural History, 1993).
 [^7]: Andrew F. Smith, *Peanuts: The Illustrious History of the Goober Pea* (Urbana and Chicago: University of Illinois Press, 2002).
 [^8]: Fray Bernardino de Sahagún, *Historia general de las cosas de Nueva España*, Vol. XI: de las cosas naturales, 1577. 
 [^9]: Gonzalo Fernández de Oviedo y Valdés, *Historia general y natural de las Indias, islas y tierra-firme del mar oceano* (Madrid: Imprenta de la Real Academia de la Historia, 1851).
@@ -228,7 +228,7 @@ Despite the use of the word [“peanut”](https://www.merriam-webster.com/dicti
 [^14]: Jesse Rhodes, “The Legumes of War: How Peanuts Fed the Confederacy,” *Smithsonian Magazine*, April 19 2012, [https://www.smithsonianmag.com/arts-culture/the-legumes-of-war-how-peanuts-fed-the-confederacy-70737510/](https://www.smithsonianmag.com/arts-culture/the-legumes-of-war-how-peanuts-fed-the-confederacy-70737510/)
 [^15]: George Washington Carver, “How to grow the peanut, and 105 ways of preparing it for human consumption,” Tuskegee Institute, 1916. [https://www.biodiversitylibrary.org/item/209426#page/17/mode/1up](https://www.biodiversitylibrary.org/item/209426#page/17/mode/1up)
 [^16]: Mark D. Hersey, *My Work Is That of Conservation: An Environmental Biography of George Washington Carver* (Athens: University of Georgia Press, 2011), 164.
-[^17]: QUOTE. Percival Perry, “Peanut,” in The New Encyclopedia of Southern Culture: Volume 11: Agriculture and Industry eds. Walker, Melissa, and James C. Cobb (Chapel Hill: The University of North Carolina Press, 2014). 185. [muse.jhu.edu/book/27386](muse.jhu.edu/book/27386); American Peanut Council, “The Peanut Industry,” [https://www.peanutsusa.com/about-apc/the-peanut-industry.html](https://www.peanutsusa.com/about-apc/the-peanut-industry.html)
+[^17]: In 2020, 56% of U.S.-grown peanuts were processed into peanut butter. see Percival Perry, “Peanut,” in _The New Encyclopedia of Southern Culture: Volume 11: Agriculture and Industry_ eds. Walker, Melissa, and James C. Cobb (Chapel Hill: The University of North Carolina Press, 2014). 185. [muse.jhu.edu/book/27386](muse.jhu.edu/book/27386); American Peanut Council, “The Peanut Industry,” [https://www.peanutsusa.com/about-apc/the-peanut-industry.html](https://www.peanutsusa.com/about-apc/the-peanut-industry.html)
 [^18]: Krampner, Creamy and Crunchy: An Informal History of Peanut Butter, the All-American Food, 132-136.
 [^19]: Moisés, Simons. El Manisero (The Peanut Vendor) 1931. YouTube. Accessed August 11, 2021. [https://www.youtube.com/watch?v=essMVyS1Om0](https://www.youtube.com/watch?v=essMVyS1Om0) 
 [^20]: John S. Pughe (1870-1909) artist, "Puck's presidential impossibility. The political peanut vender," N.Y. : Published by Keppler & Schwarzmann, 1894.
