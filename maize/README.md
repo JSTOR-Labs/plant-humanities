@@ -137,7 +137,7 @@ In order to obtain the utmost nutrients from maize, people in Mesoamerica practi
        label="1950 lithograph of a woman in Mexico grinding maize on a metate"
        attribution="Leopoldo Méndez, LACMA"
        license="public domain"
-       fit="cover"
+       fit="contain"
        url="https://s3-us-west-2.amazonaws.com/collections.lacma.org-images/remote_images/ma-137971-WEB.jpg?ziJ5IqsnUjUtEpppuDIIlcvfiKgXT74f">       
 {#paragraph8}
 
