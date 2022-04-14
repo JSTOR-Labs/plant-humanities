@@ -39,7 +39,6 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#02f3ce9c-57f3-48a2-99ff-021088a96bbe"
   },
-  ,
   {
     "type": "Annotation",
     "body": [
