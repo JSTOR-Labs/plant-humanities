@@ -191,7 +191,7 @@ These examples illuminate the resistance of communities in Central and South Ame
 {#paragraph14}
 															    
 Maize’s cultural, political, and economic significance persists in Central American communities today. Milpa agriculture continues to be practiced by Maya farmers and has been hailed as “[central](https://allianceforscience.cornell.edu/blog/2017/10/a-mexican-legacy-la-milpa-the-birthplace-of-maize/#:~:text=The%20importance%20of%20the%20milpa,an%20amazing%20variety%20of%20peppers.)” in the preservation of the biodiversity of Mexico. However, this is not to say that the symbiotic relationship between Indigenous communities and the plant has remained unchanged— anthropologists have noted the effects of globalization and migration patterns. As one woman named Teresa living in San Miguel del Valle, Oaxaca puts it: “No, we didn't have to go looking for maize [like we do now]...That’s how we lived, that’s how it was before. Now it is different. Why? Because we live in the town... and we no longer have everything that we produced naturally, not anymore. What we eat now comes from elsewhere.”[^ref33] Beverages like atole, which used to be produced domestically, have been industrialized, and are now sold by multinational companies. 
-<iframe src="https://ourworldindata.org/grapher/maize-yields?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/urban-vs-rural-majority?tab=chart&country=~MEX" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 {#paragraph15}
 
 ### Monsanto: Rise and Resistance
@@ -204,8 +204,7 @@ As a result of the same forces of globalization and industrialization, threats t
 
 This contamination has alarmed scientists, farmers, and activists around the world for a variety of reasons. Zapatistas fighting for autonomy in Mexico argued that transgenic industrial maize threatened to “overwhelm” local varieties and thereby make Central American economies reliant on US corporations. Since the 1970s, agronomists around the world have been concerned about the potential loss of crop diversity and the catastrophic consequences for global food security. And local farmers and community members worry about relying on global agribusiness for their main source of sustenance, as well as the potential disruption to their moral economies and local cosmologies.[^ref36]
 <param title="Zapatista Army of National Liberation" eid="Q188590" aliases="Zapatistas"> 
-<param ve-compare url="https://live.staticflickr.com/4087/5185313657_c023cc4d92_k.jpg">
-<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/YellowCorn.jpg/1600px-YellowCorn.jpg?20100825060907">
+<iframe src="https://ourworldindata.org/grapher/maize-yields?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 {#paragraph17}
 
 It was in response to further contamination—and the legal codification of Monsanto’s presence in the region’s agriculture— that protests broke out in Guatemala in 2014. The 2014 protest in Guatemala is not the only example of dissent over transgenic maize. Historian Helen Anne Curry describes local movements in Mexico that, in the early 2000s, declared “sin maíz no hay país” (“without maize there is no country”).[^ref39] Zapatista rebels “took matters into their own hands” by “developing locally managed preservation measures ...that connected Indigenous peoples with scientists and activists.”[^ref40] And, recently, Mexican president Andrés Manuel López Obrador promised to gradually eliminate the use of glyphosate and the production of GMO maize.[^ref41]
