@@ -133,9 +133,7 @@ A series of remarkable, relentless American ad campaigns marketed peanut butter 
 
 ### Peanuts: Politics and Public Space
 A characteristic feature in the history and contemporary life of peanuts is their presence in public spaces. The peanut vendor sells peanuts: roasted or boiled, shelled, or de-shelled, in street-carts or on the roadside, in cones of newspaper or in paper bags, is a global practice with similarities and differences specific to each context. The peanut vendor has a certain public visibility that has led to them not only being a mediator in peanut consumption but also being represented in various forms of media.
-<param ve-video
-	id="essMVyS1Om0"
-	title="The Peanut Vendor - Don Azpiazu (Antonio Machin, vocal).">
+<param ve-image fit="contain" label="Street vendor selling roasted peanuts, pub. in Harold J. Clay, Paul M. Williams, Bulletin of the U.S. Department of Agriculture, 1926, no. 1401, U.S. Department of Agriculture, National Agricultural Library via BHL, public domain." url="https://www.biodiversitylibrary.org/pageimage/48681087#page/57/mode/1up">
 {#paragraph16}
 
 The significance of the peanut vendor as the mediator in peanut consumption is brilliantly conveyed by the 1927 song <span eid="Q3050049">_El manisero_ [_The Peanut Vendor_]</span> by the Cuban composer and songwriter <span eid="Q661928">Moisés Simons</span>.[^19] The composition is sung from the perspective of the seller and was an example of the African and Afro-Cuban influenced <span eid="Q4428744">_son_</span> and <span eid="Q5681688">_pregón_</span> genres that went on to be recorded over 160 times. In 2005, El manisero was added to the [National Recording Registry]((https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/registry-by-induction-years/2005/) in recognition of its influence in the history of Latin American music. The lyrics describe the vendor trying to tempt a housewife to buy a cone of peanuts, and include his repeated sales cry of “_maní_, _maní_, _maní_,” a typical feature of _pregones_.
@@ -145,30 +143,11 @@ The significance of the peanut vendor as the mediator in peanut consumption is b
 {#paragraph17}
 
 The political <span eid="Q89503149">chromolithograph</span> published in 1894 by <span eid="Q1584058">Puck magazine</span> titled “_Puck's presidential impossibility. The political peanut vender_,” uses the image of the peanut vendor in its satirical representation of the U.S. politician and former governor of New York, <span eid="Q888410">David B. Hill</span>.[^20] The <span data-click-image-zoomto="255,522,315,291">peanut</span> in the image indicates a [“peanut politics”](https://politicaldictionary.com/words/peanut-politician/) or petty politics motivated by self-interest. Besides selling peanuts on streets and roadsides, vendors were often found at other public spaces like circuses, zoos, theatres, and fairs. The ubiquitous presence of peanuts as entertainment food in circus spaces led to spectators feeding them to the animals, including elephants, as exemplified by this 1897 theatrical poster featuring a person offering the circus elephant a peanut.[^21] Notably, peanuts are not good for elephants as they require lesser protein and more fiber content in their diet.
-<param ve-image
-       label="Puck's presidential impossibility. The political peanut vender / J.S. Pughe, 1894"
-       description="Political Satire shows U.S politician as peanut vendor selling roasted peanuts"
-       attribution="Pughe, J. S. (John S.), 1870-1909, artist. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
-       license="No known restrictions on publication."
-       fit="contain"
-       url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/29000/29050v.jpg">
+<param ve-image label="John S. Pughe, Puck's presidential impossibility. The political peanut vender, Library of Congress Prints and Photographs Division Washington, D.C., no known restrictions on publication." fit="contain" url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/29000/29050v.jpg">
 {#paragraph18}
 
 Interestingly, the text _Marketing Peanuts_ (1926) published by the U.S. Department of Agriculture notes the prohibition of the sale of shelled peanuts in public and amusement spaces in some cities in the U.S to curb the public littering of peanut shells.[^22] While peanut shells were perceived as litter in the context of the public space, the hull and broken peas left over after the industrial de-shelling process was used in the preparation of livestock feed especially during years of low quality crop or poor prices.
-<param ve-image
-       label="Charles Frohman's production, The circus girl, 1897." 
-       description="Theatrical poster showing person feeding elephants peanuts at the circus."
-       attribution="Frohman, Charles, 1860-1915. Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA" 
-       license="No known restrictions on publication."
-       fit="contain"
-       url="https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg">
-<param ve-image
-       label="Marketing peanuts, 1926. (p.47)"
-       description="Image and text describing peanut vendors"
-       attribution="Clay, Harold J, Williams, Paul M. Source: Department bulletin (United States. Dept. of Agriculture); no. 1401."
-       license="Public Domain"
-       fit="contain"
-       url="https://www.biodiversitylibrary.org/pageimage/48681087#page/57/mode/1up">
+<param ve-image label="Charles Frohman's production, The Circus Girl, 1897, theatrical poster, Library of Congress Prints and Photographs Division Washington, D.C., no known restrictions on publication." fit="contain" url="https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg">
 {#paragraph19}
        
 ### The Groundnut Scheme in East Africa
@@ -200,7 +179,7 @@ The text also notes other life forms that consume the peanut which include bacte
 {#paragraph23}
 
 ### No Meager Legume
-Despite the use of the word [“peanut”](https://www.merriam-webster.com/dictionary/peanut) to denote a small or meager amount in the English language, we have seen over the course of this essay that the peanut has a rich global history which is intricately tied to histories of colonialism and imperialism. Perceptions of the peanut are distinctive based on their cultural and temporal contexts: from ]“peanut galleries,”](https://theconversation.com/the-complicated-origin-of-the-expression-peanut-gallery-148897) referring to the cheapest seats in the theater and a term used as a racist and classist slur in early nineteenth-century U.S., to the <span eid="Q17019494">groundnut pyramids</span> that were a status symbol and tourist attraction in Kano, Nigeria in the early twentieth century. From luxury food to livestock feed, the social, cultural, and political life of this legume has taken on many incarnations. Yet its importance, both to humans and to its ecosystems, is hard to overstate. The peanut plant heals and replenishes soils and has therefore been cultivated as a global environmental intervention method to maintain soil health. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it–including to humans in many different culinary preparations.
+Despite the use of the word [“peanut”](https://www.merriam-webster.com/dictionary/peanut) to denote a small or meager amount in the English language, we have seen over the course of this essay that the peanut has a rich global history which is intricately tied to histories of colonialism and imperialism. Perceptions of the peanut are distinctive based on their cultural and temporal contexts: from [“peanut galleries,”](https://theconversation.com/the-complicated-origin-of-the-expression-peanut-gallery-148897) referring to the cheapest seats in the theater and a term used as a racist and classist slur in early nineteenth-century U.S., to the <span eid="Q17019494">groundnut pyramids</span> that were a status symbol and tourist attraction in Kano, Nigeria in the early twentieth century. From luxury food to livestock feed, the social, cultural, and political life of this legume has taken on many incarnations. Yet its importance, both to humans and to its ecosystems, is hard to overstate. The peanut plant heals and replenishes soils and has therefore been cultivated as a global environmental intervention method to maintain soil health. It is highly nutritious and protein-packed and hence beneficial to the many life-forms that consume it–including to humans in many different culinary preparations.
 <param ve-image
        label="Arachis hypogaea 006"
        description="Arachis hypogaea, Fabaceae, Peanut, Groundnut, growing fruit stalk; Botanical Garden KIT, Karlsruhe, Germany"
