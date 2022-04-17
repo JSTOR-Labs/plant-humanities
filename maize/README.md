@@ -123,7 +123,7 @@ In order to obtain the utmost nutrients from maize, people in Mesoamerica practi
 <param title="metate" eid="Q1854307">
 <param title="chicha" eid="Q516592">
 <param ve-image
-       label="The process of nixtamalizing corn using a metate. From: Códice Mendoza (1540) "
+       label="The process of nixtamalizing corn using a metate, as represented in the Códice Mendoza (1540)"
        attribution="Wikimedia Commons"
        license="public domain"
        region="3530,4341,1787,1476" seq="129" manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json">
@@ -142,13 +142,13 @@ In order to obtain the utmost nutrients from maize, people in Mesoamerica practi
 {#paragraph8}
 
 
-The nutritional importance of maize cannot be separated from its cultural significance. In the Popol Vuh, which recounts the Maya creation story, humans were quite literally molded by the deities out of maize.  Scholars have long recognized motifs of maize found in Olmec and Maya iconography. However, in the past four decades, scholars have begun to identify a specific “Maize God.” This god has an “elongated, tonsured head [which] mimics the long tasseled cob,” and often has “maize grain ... infixed into his head,” among other qualities.[^ref20] While there is much about the Maize God that remains to be explained in the scholarly literature, it is clear “that the corn cycle was the central metaphor of life and death for the Maya and the nucleus around which much of their religiosity was formed.”[^ref21]
+The nutritional importance of maize cannot be separated from its cultural significance. In the Popol Vuh, which recounts the Maya creation story, humans were quite literally molded by the deities out of maize.  Scholars have long recognized motifs of maize found in Olmec and Maya iconography. However, in the past four decades, scholars have begun to identify a specific “Maize God.” This god has an “<span data-click-image-zoomto="1227,427,610,590">elongated, tonsured head</span> [which] mimics the long tasseled cob,” and often has “maize grain ... infixed into his head,” among other qualities.[^ref20] While there is much about the Maize God that remains to be explained in the scholarly literature, it is clear “that the corn cycle was the central metaphor of life and death for the Maya and the nucleus around which much of their religiosity was formed.”[^ref21]
 <param title="Popol Vuh" eid="Q220264"> 
 <param title="Olmeca" eid="Q135364" aliases="Olmec"> 
 <param title="tonsure" eid="Q273761" aliases="tonsured"> 
 <param title="Maya maize god" eid="Q12744013" aliases="Maize God"> 
 <param ve-image
-       label="Bowl with Anthropomorphic Cacao Trees from Early Classic Maya Period"
+       label="Bowl with Anthropomorphic Cacao Trees from Early Classic Maya Period. Scholars have shown the central figure represents the Maize God as an embodied cacao tree. See: Simon Martin, “Cacao in Ancient Maya Religion: First Fruit from the Maize Tree and Other Tales from the Underworld,” in Chocolate in Mesoamerica, ed. Cameron McNeil (University Press of Florida, 2009), 154–83."
        attribution="Dumbarton Oaks"
        license="public domain"
        fit="contain"
