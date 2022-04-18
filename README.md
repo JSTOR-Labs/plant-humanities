@@ -157,7 +157,7 @@
 
 - Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert
 
-![](/images/thumbnails/watermelon.jpg)
+![](/images/thumbnails/tamarind.jpg)
 
 ##
 [**Turmeric: Herb of the Sun**](/turmeric)
