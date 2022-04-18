@@ -153,25 +153,25 @@
 ![](/images/thumbnails/Sunflower_thumbnail.jpg)
 
 ##
-[**Sunflower: Knowledge, Myth, and Meaning**](/sunflower)
-
-- Kristan M. Hanson
-
-![](/images/thumbnails/Sunflower_thumbnail.jpg)
-
-##
 [**Tamarind: From Shady Refuge to Versatile Foodstuff**](/tamarind)
 
 - Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert
 
-![](/images/thumbnails/tamarind.jpg)
+![](/images/thumbnails/watermelon.jpg)
+
+##
+[**Turmeric: Herb of the Sun**](/turmeric)
+
+- Julia Fine
+
+![](/images/thumbnails/turmeric.jpg)
 
 ##
 [**Venus Flytrap: Queen of the Carnivorous Plants**](/venus_flytrap)
 
 - John R. Schaefer
 
-![](/images/thumbnails/venus_flytrap.jpg)
+![](/images/thumbnails/watermelon.jpg)
 
 ##
 [**Watermelon: Stereotypes of Race and Class**](/watermelon)
