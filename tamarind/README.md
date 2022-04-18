@@ -43,7 +43,7 @@ From a taxonomic point of view, _Tamarindus indica_, first described as such by 
 {#paragraph4}
 
 ### The Tamarind’s Locale 
-The tamarind tree is a nonendangered semi-evergreen fast-growing species. It is best suited to those regions characterized by seasonal dry forests, tropical seasonal forests, and savanna biomes.[^ref6] These biomes’ climates feature slightly strong thermal oscillation and concentrated rains during specific times of the year, resulting in water stress for plants during the dry season. As a drought-resistant tree, tamarind has with the capacity to grow in poorly developed soils through nitrogen fixation, a feature shared by all species from the Fabaceae family. In addition, it can endure aerosol salt from windy coastal areas and sequesters carbon. For these reasons, it’s not surprising that tamarind can be found in 54 countries along the plant’s historical circulation routes. In the Sahelian region and many other parts of Africa, tamarind fruits collected from natural populations or individual trees are essential components of the nonmonetized hidden harvest of wild resources. The assessment of the economic importance of the tamarind fruits’ hidden harvest requires estimating how much local populations would have to pay to replace these free resources.[^ref7] As such, tamarind acts as an enhancer of agroforestry for small farmers and landless laborers in semi-arid areas in danger of desertification.
+The tamarind tree is a nonendangered semi-evergreen fast-growing species. It is best suited to those regions characterized by seasonal dry forests, tropical seasonal forests, and savanna biomes.[^ref6] These biomes’ climates feature slightly strong thermal oscillation and concentrated rains during specific times of the year, resulting in water stress for plants during the dry season. As a drought-resistant tree, tamarind has the capacity to grow in poorly developed soils through nitrogen fixation, a feature shared by all species from the Fabaceae family. In addition, it can endure aerosol salt from windy coastal areas and sequesters carbon. For these reasons, it’s not surprising that tamarind can be found in 54 countries along the plant’s historical circulation routes. In the Sahelian region and many other parts of Africa, tamarind fruits collected from natural populations or individual trees are essential components of the nonmonetized hidden harvest of wild resources. The assessment of the economic importance of the tamarind fruits’ hidden harvest requires estimating how much local populations would have to pay to replace these free resources.[^ref7] As such, tamarind acts as an enhancer of agroforestry for small farmers and landless laborers in semi-arid areas in danger of desertification.
 <param ve-graphic fit="contain" title="Tamarind Tree in Saras Baug, Pune, c.1870, albumen print, 18.9 x 24.0 cm, Royal Collection Trust/©Her Majesty Queen Elizabeth II 2020" url="https://www.rct.uk/sites/default/files/collection-online/3/b/519410-1424804520.jpg">
 <param ve-entity eid="Q44448" title="Fabaceae">
 <param ve-entity eid="Q25501895" title="pinnate leaf" aliases="pinnate">
@@ -92,7 +92,7 @@ As one of the largest trees in India, tamarinds have been incorporated into gard
 {#paragraph9}
 
 ### Tamarind’s Medicinal and Culinary Uses
-Virtually every part of the tamarind tree—seeds, fruity pulp, bark, root, and leaves—is edible in some form. Its fruit contains the rather unusual tantric acid that makes it simultaneously the “most acidic and sweetest fruit.”[^ref12] The acid’s sweet-sour flavoring has a cooling effect in hot weather which makes it a valuable ingredient in a wide variety of dishes and beverages and inextricably links the fruit to warm climates. Moreover, as French botanist Joseph de Tournefort (1656–1708) conjectured, the fruit’s acidity lends itself to uncountable medicinal uses, such as a [“purging medicine,”](https://luna.folger.edu/luna/servlet/detail/FOLGER~3~3~18513~281201:Receipt-book-of-Catherine-Bacon--ma) a [laxative,](https://archive.org/details/b2130659x_0002/page/172/mode/2up?q=tamarind*) an [aid in facial paralysis,](https://archive.org/details/englishtranslati00susruoft/page/n4/mode/1up?q=tamarind*) and a [flavoring to make more bitter or unpleasant medicines taste sweeter.](https://archive.org/details/b2130659x_0002/page/172/mode/2up?q=tamarind*)
+Virtually every part of the tamarind tree—seeds, fruity pulp, bark, root, and leaves—is edible in some form. Its fruit contains the rather unusual tantric acid that makes it simultaneously the “most acidic and sweetest fruit.”[^ref12] The acid’s sweet-sour flavoring has a cooling effect in hot weather, which makes it a valuable ingredient in a wide variety of dishes and beverages and inextricably links the fruit to warm climates. Moreover, as French botanist Joseph de Tournefort (1656–1708) conjectured, the fruit’s acidity lends itself to uncountable medicinal uses, such as a [“purging medicine,”](https://luna.folger.edu/luna/servlet/detail/FOLGER~3~3~18513~281201:Receipt-book-of-Catherine-Bacon--ma) a [laxative,](https://archive.org/details/b2130659x_0002/page/172/mode/2up?q=tamarind*) an [aid in facial paralysis,](https://archive.org/details/englishtranslati00susruoft/page/n4/mode/1up?q=tamarind*) and a [flavoring to make more bitter or unpleasant medicines taste sweeter.](https://archive.org/details/b2130659x_0002/page/172/mode/2up?q=tamarind*)
 <param ve-image region="-51,1682,4044,3528" manifest="https://iiif.juncture-digital.org/manifest/559795c749e956c25a618f8ea72282d56d3ab4c1893f837e35145e369e586943">
 <param ve-entity eid="Q312959" title="Joseph de Tournefort">
 {#paragraph10}
@@ -178,7 +178,7 @@ Historically, upper-class white British women in India, or memsahibs, employed s
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/f857fbaab5311a7434ba77301741d1d51371f3a312bb4da52f63e99da900bb14">
 {#paragraph22}
 
-Tamarind has been used as an ingredient in chutneys, curries, and pickles throughout Indian culinary history. Historian Lizzie Collingham describes how after its arrival in India from eastern Africa via Arab traders, tamarind helped characterize South Indian cuisine, known for its rich sauces and “sour notes.”[^ref31] The use of tamarind is not limited to South India, however, and appears in cuisines across the country and South Asia at large. One notable chapter in colonial Indian culinary history is detailed in Chitra Deb’s Women of the Tagore Household, a history of the women in the Bengali Brahmin family. Deb writes that “cooking was an artform for women… one of their main modes of expression of their artistic abilities.”[^ref32]. Deb’s book contains many stories of these fascinating women, but she pays particular attention to the culinary prowess of Mrinalini Devi, wife of Rabrindranath Tagore, and Pragyasundari Devi, daughter of Hemendranath Tagore, Rabrindranath Tagore’s niece.[^ref33] Pragya, as Deb refers to her, is known for her 1902 publication of Aamish O Niramish Aahar, a Bengali cookbook that is probably the first known Bengali cookbook.[^ref34] Of the many dishes that Deb cites from Pragya’s cookbooks, she notes a _Saraswati ambol_ made from tamarind and a curried raw tamarind with alum as two of Pragya’s most fascinating creations.[^ref35]
+Tamarind has been used as an ingredient in chutneys, curries, and pickles throughout Indian culinary history. Historian Lizzie Collingham describes how, after its arrival in India from eastern Africa via Arab traders, tamarind helped characterize South Indian cuisine, known for its rich sauces and “sour notes.”[^ref31] The use of tamarind is not limited to South India, however, and appears in cuisines across the country and South Asia at large. One notable chapter in colonial Indian culinary history is detailed in Chitra Deb’s _Women of the Tagore Household_, a history of the women in the Bengali Brahmin family. Deb writes that “cooking was an artform for women… one of their main modes of expression of their artistic abilities.”[^ref32] Deb’s book contains many stories of these fascinating women, but she pays particular attention to the culinary prowess of Mrinalini Devi, wife of Rabrindranath Tagore, and Pragyasundari Devi, daughter of Hemendranath Tagore, Rabrindranath Tagore’s niece.[^ref33] Pragya, as Deb refers to her, is known for her 1902 publication of _Aamish O Niramish Aahar_, a Bengali cookbook that is probably the first known Bengali cookbook.[^ref34] Of the many dishes that Deb cites from Pragya’s cookbooks, she notes a _Saraswati ambol_ made from tamarind and a curried raw tamarind with alum as two of Pragya’s most fascinating creations.[^ref35]
 <param ve-iframe attribution="Public Library of India" license="public domain" src="https://archive.org/details/in.ernet.dli.2015.336370/page/n5/mode/2up8">
 <param ve-entity eid="Q52161948" title="Chitra Deb" aliases="Chitra Deb’s">
 <param ve-entity eid="Q32986435" title="Pragyasundari Devi">
@@ -205,19 +205,19 @@ Interestingly, tamarind has also been the source of the material on which storie
 ### References
 [^ref1]: Boukary O. Diallo et al., “Breeding system and pollination biology of the semi-domesticated fruit tree, _Tamarindus indica_ L. (Leguminosae: Caesalpinioideae): Implications for fruit production, selective breeding, and conservation of genetic resources,” _African Journal of Biotechnology_ 7, no 22 (2008): 4068–4075.
 
-[^ref2]: “Tamarind – Herb of the Month (2020),” The Herb Society of America Blog, accessed August 2021 [https://herbsocietyblog.wordpress.com/tag/tamarind-legends/](https://herbsocietyblog.wordpress.com/tag/tamarind-legends/)
+[^ref2]: “Tamarind – Herb of the Month (2020),” The Herb Society of America Blog, accessed August 2021. [https://herbsocietyblog.wordpress.com/tag/tamarind-legends/](https://herbsocietyblog.wordpress.com/tag/tamarind-legends/)
 
 [^ref3]: Nanditha Krishna and M. Amirthalingam, _Sacred Plants of India_ (India: Penguin Press, 2014).
 
-[^ref4]: “Tamarind tree,” Hariyali C.P.R. Environmental Education Centre, Chennai, Govt of India, accessed August 2021 [http://www.cpreecenvis.nic.in/Database/Tamarind_Tree_1009.aspx](http://www.cpreecenvis.nic.in/Database/Tamarind_Tree_1009.aspx)
+[^ref4]: “Tamarind tree,” Hariyali C.P.R. Environmental Education Centre, Chennai, Govt of India, accessed August 2021. [http://www.cpreecenvis.nic.in/Database/Tamarind_Tree_1009.aspx](http://www.cpreecenvis.nic.in/Database/Tamarind_Tree_1009.aspx)
 
 [^ref5]: Salim Azad, “Tamarindo - _Tamarindus indica_,” in _Exotic Fruits Reference Guide_, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403–412.
 
-[^ref6]: “The IUCN Red List of Threatened Species,” International Union for Conservation of Nature (IUCN), accessed July 2021 [https://www.iucnredlist.org/species/62020997/62020999](https://www.iucnredlist.org/species/62020997/62020999)
+[^ref6]: “The IUCN Red List of Threatened Species,” International Union for Conservation of Nature (IUCN), accessed July 2021. [https://www.iucnredlist.org/species/62020997/62020999](https://www.iucnredlist.org/species/62020997/62020999)
 
 [^ref7]: Boukary O. Diallo et al., “Breeding system and pollination biology of the semi-domesticated fruit tree, _Tamarindus indica_ L. (Leguminosae: Caesalpinioideae).”
 
-[^ref8]: N. C. Shah, “_Tamarindus indica_ – Introduction in India and Culinary, Medicinal, and Industrial Uses.” _Asian Agri-History_ 18, no 4 (2014): 343–355.
+[^ref8]: N. C. Shah, “_Tamarindus indica_ – Introduction in India and Culinary, Medicinal, and Industrial Uses,” _Asian Agri-History_ 18, no 4 (2014): 343–355.
 
 [^ref9]: Annette S. Beveridge, _The Babur-nama in English (Memoirs of Babur)_ (London: Luzac. & Co., 1922), 2.
 
@@ -227,17 +227,17 @@ Interestingly, tamarind has also been the source of the material on which storie
 
 [^ref12]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “_Tamarindus indica_ L. – A review of traditional uses, phytochemistry and pharmacology,” _Afrika focus_ 23, no 1 (2010): 53–83.
 
-[^ref13]: Harini Nagendra and Seema Mundoli, “Tamarind: The Firangi Indica,” in _Cities and Canopies. Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73–85. 
+[^ref13]: Harini Nagendra and Seema Mundoli, “Tamarind: The Firangi Indica,” in _Cities and Canopies, Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73–85. 
 
-[^ref14]: “Kandro Net,” accessed July 2021 [http://www.khandro.net/nature_trees.htm](http://www.khandro.net/nature_trees.htm)
+[^ref14]: “Kandro Net,” accessed July 2021. [http://www.khandro.net/nature_trees.htm](http://www.khandro.net/nature_trees.htm)
 
-[^ref15]: Salim Azad, “Tamarindo - _Tamarindus indica_,” in _Exotic Fruits Reference Guide_, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403–412; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica,” in _Cities and Canopies. Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73–85.
+[^ref15]: Salim Azad, “Tamarindo - _Tamarindus indica_,” in _Exotic Fruits Reference Guide_, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403–412; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica,” in _Cities and Canopies, Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73–85.
 
 [^ref16]: Emmy De Caluwé, Kateřina Halamová, and Patrick Van Damme, “_Tamarindus indica_ L. – A review of traditional uses, phytochemistry and pharmacology.”
 
 [^ref17]: Nathan H. Dole, and Belle M. Walker, _The Persian Poets_ (California: Crowell, 1901).
 
-[^ref18]: Salim Azad, “Tamarindo -_Tamarindus indica_,” in _Exotic Fruits Reference Guide_, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403–412; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica,” in _Cities and Canopies. Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73–85.
+[^ref18]: Salim Azad, “Tamarindo -_Tamarindus indica_,” in _Exotic Fruits Reference Guide_, eds. Sueli Rodrigues, Ebenezer de Oliveira Silva, and Edy Sousa de Brito (New York: Academic Press, 2018), 403–412; Harini Nagendra, and Seema Mundoli, “Tamarind: The Firangi Indica,” in _Cities and Canopies, Trees in Indian Cities_ (Haryana: Penguin Press, 2019), 73–85.
 
 [^ref19]: Julia Morton, “Tamarind,” in _Fruits of Warm Climates_ (Brattleboro, Vermont: Echo Point Books & Media, 1987), 115–121.
 
@@ -267,7 +267,7 @@ Interestingly, tamarind has also been the source of the material on which storie
 
 [^ref32]: Chitra Deb, _Women of the Tagore Household_, trans. Sona Roy and Smita Chowdhry (London: Penguin Books, 2010), 389.
 
-[^ref33]: Chitra Deb, _Women of the Tagore Household_, trans. Sona Roy and Smita Chowdhry (London: Penguin Books, 2010), 123–133.
+[^ref33]: Chitra Deb, _Women of the Tagore Household_, 123–133.
 
 [^ref34]: Ronojoy Sen, “Tagores we don’t know about,” _Times of India_, 8 May 2010. Accessed 15 December 2021. [https://timesofindia.indiatimes.com/home/sunday-times/Tagores-we-didnt-know-about/articleshow/5906382.cms](https://timesofindia.indiatimes.com/home/sunday-times/Tagores-we-didnt-know-about/articleshow/5906382.cms)
 
