@@ -171,7 +171,7 @@
 
 - John R. Schaefer
 
-![](/images/thumbnails/venus_flytrap.jpg)
+![](/images/thumbnails/venus_flytrap_thumbnail.jpg)
 
 ##
 [**Watermelon: Stereotypes of Race and Class**](/watermelon)
