@@ -153,11 +153,25 @@
 ![](/images/thumbnails/Sunflower_thumbnail.jpg)
 
 ##
+[**Tamarind: From Shady Refuge to Versatile Foodstuff**](/tamarind)
+
+- Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert
+
+![](/images/thumbnails/tamarind.jpg)
+
+##
 [**Turmeric: Herb of the Sun**](/turmeric)
 
 - Julia Fine
 
 ![](/images/thumbnails/turmeric.jpg)
+
+##
+[**Venus Flytrap: Queen of the Carnivorous Plants**](/venus_flytrap)
+
+- John R. Schaefer
+
+![](/images/thumbnails/venus_flytrap_thumbnail.jpg)
 
 ##
 [**Watermelon: Stereotypes of Race and Class**](/watermelon)

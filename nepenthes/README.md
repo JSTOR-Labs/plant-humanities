@@ -1,33 +1,41 @@
-<a href="https://lab.plant-humanities.org"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config
-       title="Pitcher Plant: From Exotic Curiosity to Endangered Species"
+       title="Sunflower: Knowledge, Myth, and Meaning"
        author="Kristan M. Hanson"
-       source-image="blob:null/350ec559-ab4d-204b-ad69-901393a2d9adhttps://www.biodiversitylibrary.org/item/53838#page/149/mode/1up"
+       source-image="https://bibdigital.rjb.csic.es/"
        banner="nepenthesrafflessiana_BHL_crop.jpg"
-       layout="vtl">
+       eid="Q105748670"
+	about="Q171497"
+       layout="vtl" title="Basilius Besler, _Flos Solis maior_ in _Hortus Eystettensis_ vol. 2, 1613, © BY-NC-SA 4.0, Biblioteca del Real Jardín Botánico, RJB-CSIC: https://bibdigital.rjb.csic.es"
+       description=“X”>
 
-### TITLE
+### “A Small Vase, with Its Own Lid, a Wonderful Sight”
+Images and dried specimens of nepenthes along with textual descriptions of this plant were slow to reach Europe from the mid-1600s through the 1700s. During this period, only three _Nepenthes_ species of the more than 160 accepted today were recorded by Europeans. The slow pace of identifications was partly due to the labor, time, and cost involved in finding and describing foreign flora in the tropics for publication in Europe and partly due to the limited range of some species to an isolated geographic region. While the greatest species diversity is concentrated in the Philippines, Borneo, and Sumatra, the earliest recorded colonial encounters occurred in other places in which there was only one or two endemic species present.
+<param ve-map center="-2, 118" zoom="4">
+<param ve-map-layer heatmap url="nepenthes_horticultural_heatmap.tsv" radius="2"
+scale-radius="true" use-local-extrema="true" max-opacity="0.6">
+{#paragraph1}
 
-<param ve-entity eid="Q7721" title="Napoleon III">
-<param ve-entity eid="# Q191798" title="Georges-Eugène Haussmann">
-<param ve-entity eid="Q390367" title="Adolphe Alphand">
-<param ve-entity eid="Q90" title="Paris">
-The pelargonium was also a tremendously fashionable flower in mid-nineteenth-century France, particularly in Paris. As part of a massive urban renewal project, Napoleon III, Emperor of the French, and Georges-Eugène Haussmann, prefect of Seine, oversaw the creation or revitalization of Parisian public parks, gardens, squares, and promenades.[^ref27] Indeed, Adolphe Alphand’s book [_Les Promenades de Paris_](https://iiif.lib.harvard.edu/manifests/view/drs:47665956$1i) inventories the myriad plants, shrubs, and trees used to beautify these green spaces, between 1853 and 1870.[^ref28] Needless to say, garden designers and horticulturalists chose many showy pelargoniums, reserving at least eight glasshouses, at a newly constructed municipal nursery, for cultivating them. Although Alphand primarily celebrated the aesthetic effect produced by bedding brightly hued pelargoniums en masse, the flowers served other functions too.[^ref29] The French- and European-bred flowers, which retained some of their exotic associations with Africa, exemplified the global reach of the Second French Empire because the plant was being used as an economic crop in French Algeria.
-<param ve-image primary region="1384,2244,4674,4215" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="47">
-<param ve-image region="2319,1454,5298,4625" manifest="https://iiif.lib.harvard.edu/manifests/drs:47667076" seq="25">
-{#paragraph17}
+A constellation of European encounters with nepenthes the second half of the 1600s included those of the French colonial governor of Madagascar Étienne de Flacourt with _Nepenthes madagascariensis_ in <span data-click-map-flyto="-19.851956606106267, 47.10416219453961, 6">Madagascar,</span> the Dutch-Polish merchant and botanist Jacob Breyne with _Nepenthes distillatoria_ in <span data-click-map-flyto="7.285398878746777, 80.64775966499727, 6">Sri Lanka,</span> and the Portuguese Jesuit missionary and botanist João de Loureiro with _Nepenthes mirabilis_ in <span data-click-map-flyto="16.250907711663363, 102.3281993917686, 5.5">Vietnam.</span> They traveled to the southern tropics under the aegis of colonial trading companies and rulers, recording findings about native flora for botanical publications. While such studies often relied on the assistance of indigenous peoples to locate and describe plants, European assessments of local knowledge must be interpreted with a healthy dose of skepticism because they tended to omit, misconstrue, or diminished information to accommodate a Eurocentric world view.
+<param ve-entity eid="Q77266" title="Jacob Breyne">
+<param ve-entity eid="Q150525" title="Nepenthes mirabilis">
+<param ve-entity eid="Q729917" title="João de Loureiro">
+<param ve-map title="Map showing the locations of first recorded European encounters with nepenthese species." center="-2, 118" zoom="4" marker-type="none" stroke ="none">
+<param ve-map-layer heatmap="none">
+{#paragraph2}
 
-A pen-and-ink drawing by the Smithsonian’s scientific illustrator [Alice Tangerini](https://www.doaks.org/resources/online-exhibits/margaret-mee-portraits-of-plants/essays-interviews-resources/tangerini-interview) employed a mix of photographs, dried specimens from Kress’s travels, and dissections under the microscope to capture the plant’s structures for the ensuing botanical publication. The discovery and description of this new variety exemplifies the entanglement of art and science in the long tradition of plant representation. 
-<param ve-storiiies id="ce1ku">
+A constellation of European encounters with nepenthes the second half of the 1600s included those of the French colonial governor of Madagascar Étienne de Flacourt with A constellation of European encounters with nepenthes the second half of the 1600s included those of the French colonial governor of Madagascar Étienne de Flacourt with A constellation of European encounters with nepenthes the second half of the 1600s included those of the French colonial governor of Madagascar Étienne de Flacourt with A constellation of European encounters with nepenthes the second half of the 1600s included those of the French colonial governor of Madagascar Étienne de Flacourt with
+<param ve-plant-specimen
+	eid="Q30160603"
+	max="2">
+{#paragraph3}
 
-<param ve-entity eid="Q2344308" title="Boufarik">
-<param ve-entity eid="Q45669" title="Eucalyptus" aliases="eucalyptus">
-The Grasse-based [Chiris perfumerie,](https://monumentum.fr/anciennes-parfumeries-chiris-pa00080934.html) founded by Antoine Chiris in 1768, provides a case study on the production of pelargonium oils.[^ref32] The artisanal factory specialized in manufacturing soaps, ointments, scented waters, and perfumes from aromatic plants. In the nineteenth century, Chiris expanded into a global, industrial company with many farms in colonized territories. For example, it used colonial labor to grow “Rose geranium” or _Pelargonium graveolens_ in Boufarik, Algeria. In 1865, the company built a cutting-edge 3,000 square meter factory in Boufarik’s Saint-Marguerite domain, growing pelargoniums along with orange and eucalyptus trees.[^ref33] The group of photographs, shows the Chiris complex and its workers engaging in cultivating, harvesting, and preparing pelargoniums for making rose-scented oils and other products.
-<param ve-image title="Anonymous, photographs of pelargonium fields and floricultural industry, Algeria" attribution="Source gallica.bnf.fr / BnF" url="Chiris Factory.png">Gongbi line drawing is a realistic and meticulous genre
-<param ve-storiiies id="091ed" title="Anonymous, photographs of pelargonium fields and floricultural industry, Algeria, Source gallica.bnf.fr / BnF">
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000417315">
+While early conquistadors disparaged maize, from the nineteenth century onwards, the crop began to attract the attention of scientists from Europe and the United States due to its productivity and economic potential both as a domestic and export crop. In the early twentieth century, scientists from the US and Europe traveled to regions in Mexico, Peru, and Guatemala, among others to identify unique “landraces,” (Q174030)  or locally adapted domesticates, of maize.  Historian of science Helen Curry has detailed how scientists attempted to transpose putative human race science onto maize taxonomies: “At the most fundamental level, the raw material and motivation for classification arose directly from the imperative of ‘improvement’ in both crops and people.”  These scientists presented a vision of “early, stable indigenous races, transformed by racial mixing with newly arriving populations from other geographical regions, giving rise to valuable new ‘incipient’ but still-unstable racial types.” 
+<param title="landrace" eid="Q174030" aliases="landraces">
+<param ve-image primary label="Different specimens of maize" attribution="JStor Global Plants" license="public domain" fit="contain" url="https://github.com/JSTOR-Labs/plant-humanities/raw/staging-3/maize/ZeaMays1_JStor.jpg">
+<param ve-image label="Different specimens of maize" attribution="JStor Global Plants" license="public domain" fit="contain" url="https://github.com/JSTOR-Labs/plant-humanities/raw/staging-3/maize/ZeaMays2_JStor.jpg">
+{#paragraph4}
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MTI4MDU4LDY5MzgyMzA1OCwtODAwNT
-g1OTA0XX0=
--->
+While early conquistadors disparaged maize, from the nineteenth century onwards, the crop began to attract the attention of scientists from Europe and the United States due to its productivity and economic potential both as a domestic and export crop.
+<param ve-image region="3530,4341,1787,1476" seq="129" manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json">
+{#paragraph6}

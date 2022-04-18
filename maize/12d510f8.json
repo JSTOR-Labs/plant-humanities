@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This image shows the divinatory nature of diagnosing illnesses among the Nahua people. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/19f2c7680ef41a22e29bbe06f09b76bb4b142f8713f6d082dc78e1c8fdf5cf2d",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:8.097699165344238,55.17060089111328,1345.2865781784058,1527.043601989746"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#7fdedb0c-aa24-4df1-8ba8-3660d02360cb"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "For the Nahua people, illness could be attributed to the will of supernatural beings, like the creator god Tezcatlipoca, pictured here. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/19f2c7680ef41a22e29bbe06f09b76bb4b142f8713f6d082dc78e1c8fdf5cf2d",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:284.0470275878906,600.8896484375,834.5667419433594,955.4888916015625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#431fc2ce-9579-405c-8f44-2c9fda187aaa"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This is Nahua codex created in the early period of Spanish colonization. Here, the patient (right) sits in front of a divine healer (left). ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/19f2c7680ef41a22e29bbe06f09b76bb4b142f8713f6d082dc78e1c8fdf5cf2d",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:241.232177734375,9.312036514282227,951.0361328125,481.4466304779053"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f38b81b5-ce36-4696-bb5e-8705b3aecab4"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The healer is throwing maize kernels. Based on the pattern into which they fall, the healer will divine how severe the illness is, as well as potential treatments. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/19f2c7680ef41a22e29bbe06f09b76bb4b142f8713f6d082dc78e1c8fdf5cf2d",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:524.26318359375,60.240989685058594,446.5205078125,348.39356231689453"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#593b84c1-c966-4197-993b-6052857da97a"
+  }
+]

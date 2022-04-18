@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Cowpea can have an upright, trailing or even climbing habit",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/18bfc576ed53c3c9d58ab5cae5bc9aef40fec2d585b19423a75aec5816bbcf1c",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:850.010009765625,400.1454162597656,266.9483642578125,481.4855651855469"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#42f790d9-1e7c-440e-82d4-f7804cf4f798"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Its long peapods contain a row of small white beans",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/18bfc576ed53c3c9d58ab5cae5bc9aef40fec2d585b19423a75aec5816bbcf1c",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:626.0555419921875,1071.9991455078125,194.44366455078125,405.646484375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#26d92933-bff8-4235-aa7c-9e3b98ec228e"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This plant has the typical pea-like flower of the legume family",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/18bfc576ed53c3c9d58ab5cae5bc9aef40fec2d585b19423a75aec5816bbcf1c",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:297.9143371582031,219.60870361328125,322.3112487792969,236.86166381835938"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c1c085e7-349a-4ed1-bf99-36863c292d38"
+  }
+]

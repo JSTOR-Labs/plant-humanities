@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The many meanings of maize",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/dda900d7c4eae3b8eaf64e7cada1448976c47fa9dc50712cc53afe5720fedf7b",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:5.7613725662231445,3.73176646232605,1989.2682905197144,1355.9258263111115"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#8c2343c9-5123-42b2-96c2-5ebacc41e976"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Maize as scientific specimens",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/dda900d7c4eae3b8eaf64e7cada1448976c47fa9dc50712cc53afe5720fedf7b",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:28.357561111450195,179.5723419189453,624.127363204956,940.0754852294922"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#32491fca-da6a-4169-9a52-36bb5714ac26"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Maize as a global agricultural commodity",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/dda900d7c4eae3b8eaf64e7cada1448976c47fa9dc50712cc53afe5720fedf7b",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1350.4595947265625,178.095703125,612.4761962890625,952.996337890625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#5437380f-ce76-4f75-8006-7c8bcd924121"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Maize as a culturally significant crop",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/dda900d7c4eae3b8eaf64e7cada1448976c47fa9dc50712cc53afe5720fedf7b",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:698.7960205078125,180.96826171875,614.6328125,941.712646484375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ce0a9c7d-7ab0-4390-9770-15ec4ff737e9"
+  }
+]

@@ -1,0 +1,49 @@
+source	source.label	target	target.label	edge
+Q4774594	Velvetbean Caterpillar (Anticarsia gemmatalis)	Q37383	Arachis hypogaea	Insect feeds on Foliage
+	Velvetbean Caterpillar (Anticarsia gemmatalis)		FEEDS ON PEANUT FOLIAGE	Interacts with Arachis hypogaea for
+	Fall Armyworm (Laphygma frugiperda)	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Fall Armyworm (Laphygma frugiperda)		FEEDS ON PEANUT FOLIAGE	Interacts with Arachis hypogaea for
+	Corn Earworm (Heliothis armigera (Hbn.)	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Corn Earworm (Heliothis armigera (Hbn.)		FEEDS ON PEANUT FOLIAGE	Interacts with Arachis hypogaea for
+	Potato Leafhopper (Empoasca fabae (Harr.)	Q37383	Arachis hypogaea	Insect feeds on juices from the leaf
+	Potato Leafhopper (Empoasca fabae (Harr.)		FEEDS ON PEANUT FOLIAGE	Interacts with Arachis hypogaea for
+	Empoasca facialis Jac.	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Empoasca facialis Jac.		FEEDS ON PEANUT FOLIAGE	Interacts with Arachis hypogaea for
+	Empoasca solana DeLong	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Empoasca solana DeLong		FEEDS ON PEANUT FOLIAGE	Interacts with Arachis hypogaea for
+	Empoasca flavescens (F.)	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Empoasca flavescens (F.)		FEEDS ON PEANUT FOLIAGE	Interacts with Arachis hypogaea for
+	Tobacco Thrips (Frankliniella fusca (Hinds)	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Tobacco Thrips (Frankliniella fusca (Hinds)		FEEDS ON PEANUT FOLIAGE	Interacts with Arachis hypogaea for
+	Frankliniella tritici (Fitch)	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Frankliniella tritici (Fitch)		FEEDS ON PEANUT FOLIAGE	Interacts with Arachis hypogaea for
+	Heliothrips indicus	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Heliothrips indicus		FEEDS ON PEANUT FOLIAGE	Interacts with Arachis hypogaea for
+	Taeniothrips distalis Ky. 	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Taeniothrips distalis Ky. 		FEEDS ON PEANUT FOLIAGE	Interacts with Arachis hypogaea for
+	Taeniothrips longistylus Ky.	Q37383	Arachis hypogaea	Insect feeds on Foliage 
+	Taeniothrips longistylus Ky.		FEEDS ON PEANUT FOLIAGE	Interacts with Arachis hypogaea for
+	White Fringed Beetle (Pantomorus leucoloma (Boh.) Adults	Q37383	Arachis hypogaea	Insect adults feed on the foliage
+	White Fringed Beetle (Pantomorus leucoloma (Boh.) Adults		FEEDS ON PEANUT FOLIAGE	Interacts with Arachis hypogaea for
+	White Fringed Beetle (Pantomorus leucoloma (Boh.) Larvae	Q37383	Arachis hypogaea	Insect larvae feed on the underground parts
+	White Fringed Beetle (Pantomorus leucoloma (Boh.) Larvae		FEEDS ON UNDERGROUND PARTS	Interacts with Arachis hypogaea for
+	Southern Corn Rootworm (Diabrotica duodecimpimctata (F)	Q37383	Arachis hypogaea	Insect feeds on young peanut pods
+	Southern Corn Rootworm (Diabrotica duodecimpimctata (F)		FEEDS ON UNDERGROUND PARTS	Interacts with Arachis hypogaea for
+	Banded Cucumber Beetle (D. balteata Lec)	Q37383	Arachis hypogaea	Insect feeds on underground parts
+	Banded Cucumber Beetle (D. balteata Lec)		FEEDS ON UNDERGROUND PARTS	Interacts with Arachis hypogaea for
+	Wireworms (Heteroderes sp.)	Q37383	Arachis hypogaea	Insect feeds on underground parts
+	Wireworms (Heteroderes sp.)		FEEDS ON UNDERGROUND PARTS	Interacts with Arachis hypogaea for
+	White Grubs (Strigoderma arboricola (F.)	Q37383	Arachis hypogaea	Insect feeds on underground parts
+	White Grubs (Strigoderma arboricola (F.)		FEEDS ON UNDERGROUND PARTS	Interacts with Arachis hypogaea for
+	Lesser Cornstalk Borer (Elasmopalpus lignosellus (Zell.)	Q37383	Arachis hypogaea	Insect feeds on underground parts
+	Lesser Cornstalk Borer (Elasmopalpus lignosellus (Zell.)		FEEDS ON UNDERGROUND PARTS	Interacts with Arachis hypogaea for
+	Soil Fungi (Rhizoctonia)	Q37383	Arachis hypogaea	Fungi grows on peanut pods under the soil
+	Soil Fungi (Rhizoctonia)		FEEDS ON UNDERGROUND PARTS	Interacts with Arachis hypogaea for
+	Indian Meal Moth (Plodia interpunctella (Hbn.)	Q37383	Arachis hypogaea	Insect feeds on peanuts in storage
+	Indian Meal Moth (Plodia interpunctella (Hbn.)		FEEDS ON PEANUTS IN STORAGE	Interacts with Arachis hypogaea for
+	Almond Moth (Ephestia cautella (Walk.)	Q37383	Arachis hypogaea	Insect feeds on peanuts in storage
+	Almond Moth (Ephestia cautella (Walk.)		FEEDS ON PEANUTS IN STORAGE	Interacts with Arachis hypogaea for
+	Saw-toothed Grain Beetle	Q37383	Arachis hypogaea	Insect feeds on peanuts in storage
+	Saw-toothed Grain Beetle		FEEDS ON PEANUTS IN STORAGE	Interacts with Arachis hypogaea for
+	Flour Beetles	Q37383	Arachis hypogaea	Insect feeds on peanuts in storage
+	Flour Beetles		FEEDS ON PEANUTS IN STORAGE	Interacts with Arachis hypogaea for

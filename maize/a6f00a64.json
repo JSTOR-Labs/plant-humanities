@@ -1,0 +1,82 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Teosinte typically has multiple long branches, each with many small ears. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://nsf.gov/news/mmg/media/images/maize1_h.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:768.263671875,263.0207214355469,287.1328125,961.4575500488281"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#874f3732-965e-474e-8d1c-d7b6f27d5ee5"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Teosinte's ear consists of 6-12 kernels surrounded by a protective shell.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://nsf.gov/news/mmg/media/images/maize1_h.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:210.62744140625,157.1665496826172,434.40533447265625,600.2224273681641"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#99edd845-611d-44fe-a501-1755c18dee95"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "By contrast, maize has a much heavier ear with approximately 20 rows of kernels and no hard outer shell. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://nsf.gov/news/mmg/media/images/maize1_h.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1520.6832275390625,129.83876037597656,328.6429443359375,513.0440521240234"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ddfd2334-69b9-4189-9b52-ca520ce7db6f"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Maize generally only has two ears. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://nsf.gov/news/mmg/media/images/maize1_h.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1979.914306640625,123.1044921875,226.446044921875,520.51513671875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#347c27c4-42c9-4b08-a195-87863a0051bc"
+  }
+]

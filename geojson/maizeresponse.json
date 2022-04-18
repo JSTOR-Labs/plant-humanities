@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#599b64",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": " In 2020, the President of Mexico announced a ban on transgenic maize, to be implemented by 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.74414062499999,
+          24.686952411999155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#599b64",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "In 2019, the South African Agriculture Minister rejected Monsanto's request to allow transgenic maize seed to be cultivated in the country. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2578125,
+          -28.459033019728043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#599b64",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "Several countries in Europe, including France, Greece, Italy, and Germany, have voted in the EU for a total ban on GMOs. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.33984375,
+          47.989921667414194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#599b64",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": " In 2014, the Mayan People's Movement Effectively Trounced Monsanto's Law"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.17578124999999,
+          15.792253570362446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c32222",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "As of 2021, Kenya was on track to commercialize transgenic maize by 2022. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.14453125,
+          1.0546279422758869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c32222",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "In 2020, Zimbabwe began to allow imports of transgenic corn "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0146484375,
+          -18.687878686034182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c32222",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "label": "In 2021, Nepal unbanned the import of genetically modified crops. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.86962890625,
+          28.632746799225856
+        ]
+      }
+    }
+  ]
+}
