@@ -121,7 +121,7 @@ Tracing the appearance of the tamarind tree’s commonly used parts across mater
 
 ### Leaves 
 In its mature state, the tamarind tree’s vast crown is a place of refuge. Because the tree can grow in developed areas, be it on the side of the road, in barren spaces, or in commercial areas, it’s a common gathering place for people seeking relief from hot sun or congregating for sacred reasons.[^ref13] In many cultures the tree has historically been considered holy. Tamil culture, for example, recognizes Puliyidaivalaiyamman as the tamarind tree deity who offers fruit as a blessing.[^ref14] The leaves, young seedlings, and flowers that make up the crown are made into chutneys, added to sambar and soup.[^ref15] Outside of the kitchen, the leaves, which contain tannins, [can be used as a natural mordant](https://www.sciencedirect.com/science/article/pii/S131961031100202X) to affix dye to textiles. In a medicinal context, the leaves can be dried or boiled for use as poultices to relieve swelling.[^ref16]
-<param ve-image region="0,1465,2048,1709" manifest="https://iiif.juncture-digital.org/manifest/7b3776538515dfff49afa8e5b8a74fb8e9ee77fb09402df588a234847afb5b8b">
+<param ve-image manifest="https://iiif.juncture-digital.org/manifest/7b3776538515dfff49afa8e5b8a74fb8e9ee77fb09402df588a234847afb5b8b">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/600dcb72f97dc6abd6ccabee8bb019119eb5614b59242ea4903e1226243b6bcc">
 <param ve-entity eid="Q811571" title="tree deity">
 <param ve-entity eid="Q275650" title="chutney">
