@@ -574,11 +574,9 @@
   .title-bar {
     display: grid;
     align-items: stretch;
-    grid-template-columns: 2fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    grid-template-areas: 
-      "title buttons"
-      "author buttons";
+    grid-template:
+      "title resources" 1fr
+      "author resources" 1fr / 2fr 1fr;
     color: white;
     background-color: rgba(0, 0, 0, .6);
     /* padding-top: 14px; */
@@ -606,15 +604,19 @@
     font-weight: normal;
     padding: 0 0 10px 50px;
     align-self: center;
+    margin-top: -33px;
   }
-  .title-bar .buttons {
-    grid-area: buttons;
-    align-self: center;
-    justify-self: center;
+  .buttons {
+    /*
+    grid-area: resources;
+    */
     display: grid;
     grid-template-rows: 1fr 1fr;
+    align-self: center;
+    justify-self: center;
+    margin-top: 12px;
   }
-  .title-bar .buttons button {
+  .buttons button {
     width: 180px;
     margin-left: auto;
     margin-right: 1.3vw;
@@ -626,7 +628,7 @@
     font-weight: normal;
     cursor: pointer;
   }
-  .title-bar .buttons button i {
+  .buttons button i {
     min-width: 28px;
     text-align: center;
   }
