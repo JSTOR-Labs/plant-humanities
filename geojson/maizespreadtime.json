@@ -2456,7 +2456,7 @@
       "type": "Feature",
       "properties": {
         "name": "Recent hybridizations, \"Corn Belt\"",
-        "time": 0,
+        "time": "00",
         "stroke-width": 0,
         "fill": "#5c6609"
       },
@@ -2624,7 +2624,7 @@
       "type": "Feature",
       "properties": {
         "name": "Carribean",
-        "time": 850,
+        "time": "00850",
         "stroke-width": 0,
         "fill": "#5c6609"
       },
@@ -2816,7 +2816,7 @@
       "type": "Feature",
       "properties": {
         "name": "Northern USA and Canada",
-        "time": 100,
+        "time": "00100",
         "stroke-width": 0,
         "fill": "#5c6609"
       },
