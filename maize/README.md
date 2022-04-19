@@ -76,14 +76,14 @@ By 7000 years [BP,](https://www.archaeological.org/programs/educators/introducti
 <param ve-map
 	title="Approximate timing and location of maize domestication"
 	center="12.684407961343284, -76.70109703556372"
-	zoom="2"
+	zoom="3"
 	time-dimension
-	time-interval="-8700/1800"
+	time-interval="-8700/900"
 	duration="P10000Y"
-	max-zoom="3"
+	max-zoom="5"
 	date-format="YYYY"
-	fps="0.5"
-	fill="red"
+	fps="3"
+	fill="#5C6609"
 	auto-play="true">
 <param ve-map-layer geojson url="/geojson/maizespreadtime.json">
 {#paragraph6}
