@@ -224,7 +224,7 @@ It was in response to further contamination—and the legal codification of Mons
 <param ve-knightlab-timeline source="1hbr0L6cqpH53tv9uT-CE8vAAW7kU2ed4_HyLRfIMcJU" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
 {#paragraph19}
 
-While some protests against Monsanto’s promotion of transgenic maize have been successful, it is “hard to predict whether [events like] the Monsanto victory in Guatemala [were] a once- or twice-in-a-generation occurrence or a signal of expanded democratic unrest.”[^ref42] What is clear, however, are the perils of detaching maize, a complex crop of global significance, from the rich cultural and biological context of its original domestication and the sophisticated practices of Indigenous agriculture and land management. Maize, as a sacred crop, is more than mere fodder for scientific development: rather, it is the lifeblood of many communities.
+While some protests against Monsanto’s promotion of transgenic maize have been successful, it is “hard to predict whether [events like] the Monsanto victory in Guatemala [were] a once- or twice-in-a-generation occurrence or a signal of expanded democratic unrest.”[^ref42] What is clear, however, are the perils of detaching maize, a complex crop of global significance, from the rich cultural and biological context of its original domestication and the sophisticated practices of Indigenous agriculture and land management. Maize, as a sacred crop, is more than mere fodder for scientific development: rather, it is the lifeblood of many communities.[^ref43]
 <param ve-image
       label="The many meanings of maize"
        attribution="Wikimedia Commons and JStor Global Plants" 
@@ -261,4 +261,4 @@ While some protests against Monsanto’s promotion of transgenic maize have been
 [^ref40]: Ibid. 
 [^ref41]: Timothy Wise, “Mexico to Ban Glyphosate, GM Corn: Presidential Decree Comes despite Intense Pressure from Industry, US Authorities,” _Institute for Agriculture & Trade Policy_ (blog), February 24, 2021, https://www.iatp.org/blog/202102/mexico-ban-glyphosate-gm-corn.
 [^ref42]: Grandia, “Sacred Maize Against a Legal Maize,” 80. 
-[^ref43]: Additional images used: Banner image by Gustave Baumann, Study for Hopi Corn, c.1938, Indiannapolis Museum of Art. Image of a young corn god via Wikimedia Commons, The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979. Specimen via Wikimedia Commons. 
+[^ref43]: Additional images used in this essay: Banner image by Gustave Baumann, Study for Hopi Corn, c.1938, Indiannapolis Museum of Art. Image of a young corn god via Wikimedia Commons, The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979. Specimen via Wikimedia Commons. 
