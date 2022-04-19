@@ -37,8 +37,8 @@ Ellis’ contemporary William Young (1742–1785), tasked by Queen Charlotte wit
 <param ve-entity eid="Q25171935" aliases="James Gordon">
 <param ve-entity eid="Q161159" aliases="Queen Charlotte">
 <param ve-entity eid="Q18243" aliases="William Bartram">
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/5b97d8620c1a1e38bc715277c04c32fe5cede035738865286aaed25ceff1ee33">
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/1b7366f46c84e19747404911e9f15cb81d15326af402eaa4ba1c02936fc4945e">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/5b97d8620c1a1e38bc715277c04c32fe5cede035738865286aaed25ceff1ee33">
+<param ve-image region="0,1873,3853,3276" manifest="https://iiif.juncture-digital.org/manifest/1b7366f46c84e19747404911e9f15cb81d15326af402eaa4ba1c02936fc4945e">
 {#paragraph6}
 
 Nearly a decade after its first description by Dobbs, Linnaeus received word from John Ellis, his longtime correspondent, of this mysterious New World plant. In his [23 September 1768 letter,](https://www.alvin-portal.org/alvin/view.jsf?dswid=7212&searchType=EXTENDED&query=&aq=%5B%5B%7B%22A_FQ%22%3A%22dionaea%22%7D%5D%5D&aqe=%5B%5D&af=%5B%5D&pid=alvin-record%3A232608&c=2#alvin-record%3A232608) Ellis provided a detailed account of the Venus flytrap, in which he described “minute sharp red spines, as if design’d by nature to stick into the insect, that is caught, to prevent it, escape by struggling.”[^ref9] Linnaeus, who confessed that he had “never seen such a wonderful phenomenon,” presented this “most rare and singular plant Dionaea” to the Royal Society of Sciences at Uppsala, relaying to Ellis the Society’s thanks “for the most valuable communication ever received.” Indeed, he considered Ellis’s description so complete that “nothing can be added.”[^ref10] We now understand that Ellis misinterpreted the function of the red spines, which serve as a triggering mechanism for the snap-trap leaves. 
