@@ -25,7 +25,7 @@ In 1759, North Carolina governor Arthur Dobbs related news of a “Catch Fly sen
 
 Correspondence between Collinson and Bartram has cast light on the etymological origins of their “Wagish Tipitiwitch sensitive.” Alluding to the recent marriage of the 73 year-old Dobbs to Justina Davis (1745–1771), 58 years his junior, Collinson wrote to Bartram that “It is now in vain to write to [Dobbs] for seeds or plants of Tipitiwitchet now [that] He has gott one of his own to play with.”[^ref5] This wry comment suggests that “Tipitiwitchet” was no more than a bawdy pun on the perceived resemblance of the Venus flytrap’s alluring red-lined leaves to female genitalia. Yet the androcentric inclination of early male naturalists to sexualize and gender botanical specimens was not limited exclusively to *Dionaea* or even other carnivorous plants. Eighteenth-century sexual innuendo often relied on botanical metaphors, and [plants sensitive to touch](https://daily.jstor.org/plant-of-the-month-sensitive-plant/) (e.g., *Mimosa pudica*) in particular were considered analogous to male and female sex organs.[^ref6]
 <param ve-entity eid="Q148532" title="Mimosa">
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/88a5bd6584bec943121ef694c6b14b1867cf4155c81a6a3ef2cdc90ff0deeeda">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/88a5bd6584bec943121ef694c6b14b1867cf4155c81a6a3ef2cdc90ff0deeeda">
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/337f027b1ce868195eb75970fc4ad4c7803aaef3ff531f0cc62bf7a24d115736">
 {#paragraph4}
 
