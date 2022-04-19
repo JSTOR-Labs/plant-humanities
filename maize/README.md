@@ -8,7 +8,7 @@
        description=“Add.”>
 
   
-The year was 2014, and many Guatemalans were incensed. In a country with a population of 14 million, approximately 120,000 took to the streets. Protesters blocked traffic along the Pan American Highway and other major roadways to voice their opposition to the “Law for the Protection of New Plant Varieties, or, as it was popularly known, the “Monsanto Law.” The law “outlawed the replanting, transportation, or selling of privatized seeds without permission, and made these actions punishable by one to four years in jail and a fine of 1,000 to 10,000 quetzals (130 to 1,300 US dollars).” [^ref2]
+The year was 2014, and many Guatemalans were incensed. In a country with a population of 14 million, approximately 120,000 took to the streets. Protesters blocked traffic along the Pan American Highway and other major roadways to voice their opposition to the “Law for the Protection of New Plant Varieties", or, as it was popularly known, the “Monsanto Law.” The law “outlawed the replanting, transportation, or selling of privatized seeds without permission, and made these actions punishable by one to four years in jail and a fine of 1,000 to 10,000 quetzals (130 to 1,300 US dollars).” [^ref2]
 <param ve-map title="During the 2014 protests against Monsanto's Law, protestors in Guatemala blocked traffic along this major roadway" center="15.0981244, -90.316436" zoom="7">
 <param ve-map-layer geojson active title="The Pan-American Highway in Guatemala" url="/geojson/roadguatemala2.json">
 <param title="Monsanto" eid="Q207983" aliases="“Monsanto"> 
@@ -261,3 +261,4 @@ While some protests against Monsanto’s promotion of transgenic maize have been
 [^ref40]: Ibid. 
 [^ref41]: Timothy Wise, “Mexico to Ban Glyphosate, GM Corn: Presidential Decree Comes despite Intense Pressure from Industry, US Authorities,” _Institute for Agriculture & Trade Policy_ (blog), February 24, 2021, https://www.iatp.org/blog/202102/mexico-ban-glyphosate-gm-corn.
 [^ref42]: Grandia, “Sacred Maize Against a Legal Maize,” 80. 
+[^ref43]: Additional images used: Banner image by Gustave Baumann, Study for Hopi Corn, c.1938, Indiannapolis Museum of Art. Image of a young corn god via Wikimedia Commons, The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979. Specimen via Wikimedia Commons. 
