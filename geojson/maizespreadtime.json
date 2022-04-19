@@ -5,7 +5,9 @@
       "type": "Feature",
       "properties": {
         "name": "Balsas River Valley",
-        "time": -8700
+        "time": -8700,
+        "stroke-width": 0,
+        "fill": "#5c6609"
       },
       "geometry": {
         "type": "Polygon",
@@ -267,7 +269,9 @@
       "type": "Feature",
       "properties": {
         "name": "Lowland Mexico",
-        "time": -7300
+        "time": -7300,
+        "stroke-width": 0,
+        "fill": "#5c6609"
       },
       "geometry": {
         "type": "Polygon",
@@ -1217,7 +1221,9 @@
       "type": "Feature",
       "properties": {
         "name": "Northern Mexico",
-        "time": -2100
+        "time": -2100,
+        "stroke-width": 0,
+        "fill": "#5c6609"
       },
       "geometry": {
         "type": "Polygon",
@@ -1355,7 +1361,9 @@
       "type": "Feature",
       "properties": {
         "name": "Guatemala & Southern Mexico",
-        "time": -4500
+        "time": -4500,
+        "stroke-width": 0,
+        "fill": "#5c6609"
       },
       "geometry": {
         "type": "Polygon",
@@ -1673,7 +1681,9 @@
       "type": "Feature",
       "properties": {
         "name": "Northern South American",
-        "time": -7500
+        "time": -7500,
+        "stroke-width": 0,
+        "fill": "#5c6609"
       },
       "geometry": {
         "type": "Polygon",
@@ -2003,7 +2013,9 @@
       "type": "Feature",
       "properties": {
         "name": "Andean",
-        "time": -4000
+        "time": -4000,
+        "stroke-width": 0,
+        "fill": "#5c6609"
       },
       "geometry": {
         "type": "Polygon",
@@ -2328,6 +2340,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 0,
+        "stroke-opacity": 0,
+        "fill": "#5c6609",
+        "fill-opacity": 0.5,
         "name": "Southwestern US",
         "time": -2100
       },
@@ -2439,7 +2456,9 @@
       "type": "Feature",
       "properties": {
         "name": "Recent hybridizations, \"Corn Belt\"",
-        "time": 1800
+        "time": 1800,
+        "stroke-width": 0,
+        "fill": "#5c6609"
       },
       "geometry": {
         "type": "Polygon",
@@ -2605,7 +2624,9 @@
       "type": "Feature",
       "properties": {
         "name": "Carribean",
-        "time": -1350
+        "time": -1350,
+        "stroke-width": 0,
+        "fill": "#5c6609"
       },
       "geometry": {
         "type": "Polygon",
@@ -2795,7 +2816,9 @@
       "type": "Feature",
       "properties": {
         "name": "Northern USA and Canada",
-        "time": -1900
+        "time": -1900,
+        "stroke-width": 0,
+        "fill": "#5c6609"
       },
       "geometry": {
         "type": "Polygon",
@@ -3049,7 +3072,9 @@
       "type": "Feature",
       "properties": {
         "name": "Lowland middle South American",
-        "time": -4700
+        "time": -4700,
+        "stroke-width": 0,
+        "fill": "#5c6609"
       },
       "geometry": {
         "type": "Polygon",
