@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Balsas River Valley",
-        "time": -8700,
+        "time": "-007000",
         "stroke-width": 0,
         "fill": "#5c6609"
       },
@@ -269,7 +269,7 @@
       "type": "Feature",
       "properties": {
         "name": "Lowland Mexico",
-        "time": -7300,
+        "time": "-005300",
         "stroke-width": 0,
         "fill": "#5c6609"
       },
@@ -1221,7 +1221,7 @@
       "type": "Feature",
       "properties": {
         "name": "Northern Mexico",
-        "time": -2100,
+        "time": "-00100",
         "stroke-width": 0,
         "fill": "#5c6609"
       },
@@ -1361,7 +1361,7 @@
       "type": "Feature",
       "properties": {
         "name": "Guatemala & Southern Mexico",
-        "time": -4500,
+        "time": "-002500",
         "stroke-width": 0,
         "fill": "#5c6609"
       },
@@ -1681,7 +1681,7 @@
       "type": "Feature",
       "properties": {
         "name": "Northern South American",
-        "time": -7500,
+        "time": "-005500",
         "stroke-width": 0,
         "fill": "#5c6609"
       },
@@ -2013,7 +2013,7 @@
       "type": "Feature",
       "properties": {
         "name": "Andean",
-        "time": -4000,
+        "time": "-002000",
         "stroke-width": 0,
         "fill": "#5c6609"
       },
@@ -2346,7 +2346,7 @@
         "fill": "#5c6609",
         "fill-opacity": 0.5,
         "name": "Southwestern US",
-        "time": -2100
+        "time": "-00100"
       },
       "geometry": {
         "type": "Polygon",
@@ -2456,7 +2456,7 @@
       "type": "Feature",
       "properties": {
         "name": "Recent hybridizations, \"Corn Belt\"",
-        "time": 1800,
+        "time": 0,
         "stroke-width": 0,
         "fill": "#5c6609"
       },
@@ -2624,7 +2624,7 @@
       "type": "Feature",
       "properties": {
         "name": "Carribean",
-        "time": -1350,
+        "time": 850,
         "stroke-width": 0,
         "fill": "#5c6609"
       },
@@ -2816,7 +2816,7 @@
       "type": "Feature",
       "properties": {
         "name": "Northern USA and Canada",
-        "time": -1900,
+        "time": 100,
         "stroke-width": 0,
         "fill": "#5c6609"
       },
@@ -3072,7 +3072,7 @@
       "type": "Feature",
       "properties": {
         "name": "Lowland middle South American",
-        "time": -4700,
+        "time": "-002700",
         "stroke-width": 0,
         "fill": "#5c6609"
       },
