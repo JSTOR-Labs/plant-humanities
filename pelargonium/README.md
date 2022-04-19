@@ -44,15 +44,15 @@ The pelargonium and its relatives geranium and erodium belong to the family Gera
 <param ve-entity eid="Q147768" title="capsule" aliases="capsules">
 <param ve-entity eid="Q162920" title="Erodium"> 
 <param ve-image primary region="0,312,1173,1060" manifest="https://iiif.juncture-digital.org/manifest/18b0fcd6b7947859c096f76c295552ee8a91ab8d61074f35e303887f654a1491">
-<param ve-image fit="contain" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/pelargonium/Vero%CC%81nica_Matallana_The_Geraniaceae%20family_Copyright_Vero%CC%81nica_Matallana_2020.png?raw=true" label="The Geraniaceae family. Created by Verónica Matallana, 2020." license="Copyright © Verónica Matallana 2020">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/b6eb62ae82639f93ac2b9fbcf9d1f39a0603935b09806e8437c8b45a52a0ca8b">
 {#paragraph4}
 
 Other morphological traits distinguish members of the genera pelargonium from geranium. This diagram highlights several key differences that can be observed by comparing the reproductive systems of the two plants: the flowers. The pelargonium flower parts are arranged bilaterally around one axis, making them quite distinct from the radially oriented ones of the geranium. Another difference is that, while the geranium has five nectaries (nectar-secreting glands) at the base of the petals, the pelargonium has only one embedded in the receptacle. Yet another divergence is the number of fertile stamens and their groupings. The pelargonium has between one and seven stamens, attached at the base; the geranium has either five or ten free stamens. Finally, pelargonium flowers are either red, light yellow, mauve, purple, pink, or white; geranium flowers are either dark blue, purple, pink, or white, but never scarlet (as Dickens would have known it).
 <param ve-entity eid="Q687699" title="Nectary" aliases="nectaries"> 
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
 <param ve-entity eid="Q103129" title="stamen" aliases="stamens">
-<param ve-compare url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/pelargonium/Bois_Atlas_des%20plantes_de_jardins_Bibliothe%CC%80que_nationale_de_France_public_domain.jpg?raw=true" label="Désiré Bois, Pelargonium zonale Wild et hybrids [left], Géranium platypetalum [right], pub. in Atlas des plantes de jardins et d'appartements exotiques et européennes." attribution="Bibliothèque nationale de France via BnF Gallica" license="public domain">
-<param ve-compare url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/pelargonium/Vero%CC%81nica_Matallana_Differences_between_Geranium_and_Pelargonium_flowers_Copyright_Vero%CC%81nica_Matallana_2020.jpg?raw=true" label="Differences between Geranium and Pelargonium flowers. Created by Verónica Matallana, 2020." license="Copyright © Verónica Matallana 2020">
+<param ve-compare manifest="https://iiif.juncture-digital.org/manifest/468982a3ff60b54c50fa962ab969c17f1a03e226423e06dfd0780cb537616582">
+<param ve-compare manifest="https://iiif-v2.visual-essays.app/manifest/21a1574050de869d23936cbffbea84910fef41196f2102d6d627a9c2b57c479e">
 {#paragraph5}
 
 ### Introduction to Europe and Nomenclature Confusion
