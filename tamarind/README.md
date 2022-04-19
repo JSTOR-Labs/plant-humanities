@@ -77,7 +77,7 @@ Today, tamarind orchards are located across India with one of the oldest groves,
 {#paragraph7}
 
 This is the case for the <span data-mouseover-image-zoomto="1072,3109,1345,1166">tamarind trees</span> featured, in text and image, in the lavishly illustrated late sixteenth-century manuscript Bãburnãma (History of Babur), which details the life of <span eid="Q797848">Emperor Babur</span> (1483–1530), founder of the Mughal dynasty. One of the first autobiographies in Islamic literature, the text was written in the Chagatai language and later translated into Persian for this manuscript at the behest of Babur’s grandson, Emperor Akbar, so that his political and military exploits might be further disseminated. The finely detailed tamarind tree illustration seen here is described as a “very good-looking tree, giving dense shade” that “grows wild in masses,” a depiction supported by the groves of tamarind trees that are referenced throughout Babur’s travels.[^ref9]
-<param ve-image fit="contain" label="Tamarind Tree, Bãburnãma (Vaki’at-i Baburi), 1590, Or. 3714 Vol. 4 f.397." attribution="The British Library" license="©The British Library Board (Or. 3714)" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/Mughal_style_tamarind_Brit_Lib_copyright_The_British_Library.png?raw=true">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/2cd231179cc6dde76324bd4c966e02e96d24f84328839876784089e2a524b360">
 <param ve-entity eid="Q33296" title="Mughal">
 <param ve-entity eid="Q1906014" title="Baburnama" aliases="Bãburnãma">
 {#paragraph8}
@@ -130,7 +130,7 @@ In its mature state, the tamarind tree’s vast crown is a place of refuge. Beca
 
 ### Seeds and Pods
 Tamarind seeds are as versatile as they are valuable. When pilgrims flocked to the desert to meet Khorasan mystic poet and saint Abu Said (1305–1335), they paid good sums to obtain seeds from the tamarind tree he sat beneath.[^ref17] Tamarind seeds are consumable in a number of ways: after they are soaked to remove the seed coat, they can be roasted, boiled, fried, or ground.[^ref18] In Thailand, the ground seeds are used as a coffee substitute.[^ref19] In Ayurvedic medicine, the shells of the tamarind pods are burned to create an “alkaline ash” to then be used in other recipes.[^ref20] In addition to its culinary uses, the seeds can be made into a powder that is used in the textile and paper industries.[^ref21] In India, [Saura tribal painting](https://en.wikipedia.org/wiki/Saura_painting#Paintings) in Orissa (now called Odisha) uses the tamarind seed’s natural brown hue to dye the background of paintings. Likewise, black lacquer, referred to as tamarind-seed script, was and continues to be used to create embellished Burmese characters in religious Pali texts like the _Kammavaca_, a decorative manuscript that details monastic duties.[^ref22]
-<param ve-image fit="contain" label="Amanda Almira Newton, Tamarindus indica (Indian tamarind), 1908, watercolor, 15 x 24 cm." attribution="U.S. Department of Agriculture Pomological Watercolor Collection. Rare and Special Collections, National Agricultural Library, Beltsville, MD 20705" license="public domain" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/tamarind_pod_Nat_Ag_Lib_public_domain.png?raw=true"> 
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/8d713bc7bbfa6742fb9354c239599b0bf51fbeb650e6aeebc0346ceb19d73a10" license="public domain" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/tamarind_pod_Nat_Ag_Lib_public_domain.png?raw=true"> 
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/ddf44f7d763a051e539751a98cda47d6765485ee80cf6242fa16f0347f4bf7db">
 <param ve-entity eid="Q22048" title="Orissa">
 <param ve-entity eid="Q36727" title="Pali">
@@ -138,7 +138,7 @@ Tamarind seeds are as versatile as they are valuable. When pilgrims flocked to t
 {#paragraph15}
 
 Fifteen-inch tall redware jars like the one housed at the [Strawbery Banke Museum](https://www.strawberybanke.org/) in Portsmouth, New Hampshire might have been used to carry and transport tamarind seeds and pods. The jar was found at the [Marshall Pottery site](https://sbm.oncell.com/en/29-marshall-pottery-site-47035.html) in the 1970s, which had been used by the family of Samuel Marshall, a potter, and three enslaved African people named Mercer, Bess, and Adam. The jar is cited as possible evidence of tamarind’s role in the history of trade between the New England city and the West Indies, as well as the interconnected significance of material culture and culinary history in the larger history of enslavement in the United States. The pods, carried and stored from the West Indies to New England, bore witness to the horrors of enslavement across time and trade.[^ref23]
-<param ve-image fit="contain" label="Shipping Container, redware, H. 15 inches, artifact SB1.0426." description="Storage vessel that could have been used to ship and store tamarind." attribution="Strawbery Banke Museum, Portsmouth, New Hampshire" license="copyright" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/container_strawbery_banke_copyright_Strawbery_Banke_Museum_2017.jpeg?raw=true">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/73533eac6584c9fbe1f3558d4155172995a5837de7aa11e8c376dc08cc52fff0">
 <param ve-entity eid="Q7622525" title="Strawbery Banke Museum">
 {#paragraph16}
 
@@ -199,7 +199,7 @@ Tamil writer Sundara Ramaswamy’s 1966 novel [_Oru Puliyamarathin Kadai_ (Tamar
 {#paragraph24}
 
 Interestingly, tamarind has also been the source of the material on which stories are literally written. In his important text [_The materia medica of the Hindus_](https://archive.org/details/b21934113/page/40/mode/2up)(1877), Uday Chand Dutt includes accounts of how some of the manuscripts he referenced to compile his own text were made from tamarind-seed emulsions: the emulsions were used to make paper providing a surface for easy writing. Perhaps it is no surprise that such an eminently useful plant would help inspire stories as well as serve the purpose of recording narratives, recipes, and histories of which it so often played an important, and ubiquitous, role. The tamarind continues to be a sturdy contradiction even into the present, as we continue to learn from the plant’s many complexities. 
-<param ve-image fit="fill" label="Sweet tamarind, 2007." attribution="Malcolm Smith, Flickr" license="CC BY-NC-ND 2.0" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/sweet_tamarind_seeds_Flicker_CC_BY_NC_ND_2.0.png?raw=true">
+<param ve-image fit="fill" manifest="https://iiif.juncture-digital.org/manifest/bf29a6c6d352712864793fddc9038c9b83f94ce87d0eded94131cc6776568b7e">
 {#paragraph25}
 
 ### References
