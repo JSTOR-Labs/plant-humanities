@@ -226,6 +226,8 @@ It was in response to further contamination—and the legal codification of Mons
 
 While some protests against Monsanto’s promotion of transgenic maize have been successful, it is “hard to predict whether [events like] the Monsanto victory in Guatemala [were] a once- or twice-in-a-generation occurrence or a signal of expanded democratic unrest.”[^ref42] What is clear, however, are the perils of detaching maize, a complex crop of global significance, from the rich cultural and biological context of its original domestication and the sophisticated practices of Indigenous agriculture and land management. Maize, as a sacred crop, is more than mere fodder for scientific development: rather, it is the lifeblood of many communities.
 <param ve-image
+      label="The many meanings of maize"
+       attribution="Wikimedia Commons and JStor Global Plants" 
        fit="fill"
        url="maizemeanings2.jpg">
 
