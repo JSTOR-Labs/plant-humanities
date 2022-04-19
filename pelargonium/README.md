@@ -52,7 +52,7 @@ Other morphological traits distinguish members of the genera pelargonium from ge
 <param ve-entity eid="Q506" title="flower" aliases="flowers"> 
 <param ve-entity eid="Q103129" title="stamen" aliases="stamens">
 <param ve-compare manifest="https://iiif.juncture-digital.org/manifest/468982a3ff60b54c50fa962ab969c17f1a03e226423e06dfd0780cb537616582">
-<param ve-compare manifest="https://iiif-v2.visual-essays.app/manifest/21a1574050de869d23936cbffbea84910fef41196f2102d6d627a9c2b57c479e">
+<param ve-compare url="https://github.com/JSTOR-Labs/plant-humanities/blob/main/pelargonium/Vero%CC%81nica_Matallana_Differences_between_Geranium_and_Pelargonium_flowers_Copyright_Vero%CC%81nica_Matallana_2020.jpg?raw=true">
 {#paragraph5}
 
 ### Introduction to Europe and Nomenclature Confusion
