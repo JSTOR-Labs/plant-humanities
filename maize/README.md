@@ -200,7 +200,7 @@ These examples illuminate the resistance of communities in Central and South Ame
 	 fit="fill"			    
 {#paragraph14}
 															    
-Maize’s cultural, political, and economic significance persists in Central American communities today. Milpa agriculture continues to be practiced by Maya farmers and has been hailed as “[central](https://allianceforscience.cornell.edu/blog/2017/10/a-mexican-legacy-la-milpa-the-birthplace-of-maize/#:~:text=The%20importance%20of%20the%20milpa,an%20amazing%20variety%20of%20peppers.)” in the preservation of the biodiversity of Mexico. However, this is not to say that the symbiotic relationship between Indigenous communities and the plant has remained unchanged— anthropologists have noted the effects of globalization and migration patterns. As one woman living in Oaxaca told an anthropologist studying agriculture: “No, we didn't have to go looking for maize [like we do now]...That’s how we lived, that’s how it was before. Now it is different. Why? Because we live in the town... and we no longer have everything that we produced naturally, not anymore. What we eat now comes from elsewhere.”[^ref33] Beverages like atole, which used to be produced domestically, have been industrialized, and are now sold by multinational companies. 
+Maize’s cultural, political, and economic significance persists in Central American communities today. Milpa agriculture continues to be practiced by Maya farmers and has been hailed as “[central](https://allianceforscience.cornell.edu/blog/2017/10/a-mexican-legacy-la-milpa-the-birthplace-of-maize/#:~:text=The%20importance%20of%20the%20milpa,an%20amazing%20variety%20of%20peppers.)” in the preservation of the biodiversity of Mexico. However, this is not to say that the symbiotic relationship between Indigenous communities and the plant has remained unchanged— scholars have noted the immense out-migration in maize-growing communities, as well as the industrialization of traditional beverages like atole which are now being sold by multi-national corporations.[^ref33]
 <param ve-iframe src="https://ourworldindata.org/grapher/urban-vs-rural-majority?tab=chart&country=~MEX">
 {#paragraph15}
 
@@ -252,7 +252,7 @@ While some protests against Monsanto’s promotion of transgenic maize have been
 [^ref29]: Ibid., 11.
 [^ref31]: Quoted in Curry, Endangered Maize, 57.
 [^ref32]: Ibid., 59. 	
-[^ref33]: Adele Woodmansee, “It Is Pure Criollo Maize: Subsistence Agriculture and Ideas of Locality and Contamination in San Miguel Del Valle, Oaxaca” (Undergraduate thesis, Cambridge, Harvard University, 2020), 31. 
+[^ref33]: A. Keleman, J. Hellin, and M. R. Bellont, “Maize Diversity, Rural Development Policy, and Farmers’ Practices: Lessons from Chiapas, Mexico,” _The Geographical Journal_ 175, no. 1 (2009): 52–70. 
 [^ref34]: Edgar Anderson, “The Sources of Effective Germ-Plasm in Hybrid Maize,” Annals of the Missouri Botanical Garden 31, no. 4 (1944): 355. See also: Helen Anne Curry, “Op-Ed: Saving Heirloom Seeds Can Protect Crop Diversity,” _Civil Eats_, January 27, 2022, https://civileats.com/2022/01/27/op-ed-saving-heirloom-seeds-can-protect-crop-diversity/.
 [^ref35]: Danny Bradbury, “Saving Maize,” _Alternatives Journal_ 31, no. 2 (2005): 19. 
 [^ref36]: For more on these diverse reasons, see: Helen Anne Curry, _Endangered Maize: Industrial Agriculture and the Crisis of Extinction_ (Berkeley: University of California Press, 2022). 
