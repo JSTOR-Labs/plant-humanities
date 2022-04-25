@@ -143,7 +143,7 @@ Arthur Conan Doyle (1859–1930), author of Sherlock Holmes, helped jumpstart th
 
 ### Still Beguiling and Bewildering
 As countless stunning cultivars are grown commercially to feed the global plant trade, wild populations of *Dionaea muscipula* have become increasingly threatened by habitat destruction, poaching, pollution, and anthropogenic climate change. Nearly half of all carnivorous plants fall under <param ve-entity eid="Q48268"> International Union for Conservation of Nature’s Red List of risk categories, ranging from near threatened to critically endangered. Despite introduced populations having been established in the United States and Caribbean, *Dionaea* is currently listed as “vulnerable,” with hefty fines and jail time threatening potential poachers.
-<param ve-map title="Introduced populations of the Venus flytrap have been established across the United States and Caribbean, and are today grown commercially worldwide.">
+<param ve-map center="Q1558" zoom="4" title="Introduced populations of the Venus flytrap have been established across the United States and Caribbean, and are today grown commercially worldwide.">
 <param ve-map-layer geojson label="Introduced populations of the Venus flytrap have been established across the United States and Caribbean, and are today grown commercially worldwide." url="introducedrange.json">
 <param ve-entity eid="Q32059" title="IUCN Red List" aliases="Red List">
 {#paragraph25}
