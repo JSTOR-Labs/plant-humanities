@@ -18,9 +18,8 @@ The Venus flytrap, <span eid="Q155825">*Dionaea muscipula*</span>, is easily the
 
 ### Discovering Carnivory
 In 1759, North Carolina governor Arthur Dobbs related news of a “Catch Fly sensitive” plant to his long-time acquaintance, British botanist <span eid="Q1350818">Peter Collinson</span> (1694—1768).[^ref3] Upon Collinson’s request, the governor provided a more detailed description the following year. In June 1764, Collinson informed <span eid="Q528476">John Bartram</span> of Philadelphia, a fellow <span eid="Q170208">Quaker</span> naturalist, that he sent a dried leaf of the Venus flytrap, or “Tipitiwichet Sensitive,” to Linnaeus, whom he expected to “be in raptures at the sight of” it.[^ref4]
-<param ve-map title="The Venus flytrap’s native range is limited to a roughly 50-mile radius around Wilmington, NC.">
+<param ve-map center="Q659400" zoom="6" title="The Venus flytrap’s native range is limited to a roughly 50-mile radius around Wilmington, NC.">
 <param ve-entity eid="Q709129">
-<param ve-map center="Q659400" zoom="6">
 <param ve-map-layer geojson title="The Venus flytrap’s native range is limited to a roughly 50-mile radius around Wilmington, NC." url="flytraprange-2.json">
 {#paragraph3}
 
