@@ -15,8 +15,8 @@ Despite its English name and nutlike taste, the peanut is not a nut. This mighty
 <param ve-entity eid="Q3621199" title="peanut">
 <param ve-entity eid="Q145909" title="legume"> 
 <param ve-entity eid="Q37383" title="Arachis hypogaea">
-<param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Arachis_hypogaea_003.JPG" label="An Arachis hypogaea plant in bloom at the Botanical Garden KIT, Karlsruhe, Germany." attribution="H. Zell" license="CC BY-SA 3.0" fit="contain">
-<param ve-compare manifest="https://iiif.lib.harvard.edu/manifests/drs:426036888" seq="29">
+<param ve-compare curtain manifest="https://iiif.lib.harvard.edu/manifests/drs:426036888" seq="27">
+<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Arachis_hypogaea_003.JPG" label="An Arachis hypogaea plant in bloom at the Botanical Garden KIT, Karlsruhe, Germany." attribution="H. Zell" license="CC BY-SA 3.0" fit="contain">
 {#paragraph1}
 
 While the largest peanut-producing nations are now China, India, Nigeria, and the United States, the plant was first cultivated by Andean civilizations  in <span data-mouseover-map-flyto="-19.922,-64.061,6">South America</span>.[^1] Its migration around the world altered global food production and supply forever, rendering it one of the most successful of New World plants disseminated via the Columbian Exchange.
