@@ -15,12 +15,8 @@ Despite its English name and nutlike taste, the peanut is not a nut. This mighty
 <param ve-entity eid="Q3621199" title="peanut">
 <param ve-entity eid="Q145909" title="legume"> 
 <param ve-entity eid="Q37383" title="Arachis hypogaea">
-<param ve-image 
-       label="An Arachis hypogaea plant in bloom at the Botanical Garden KIT, Karlsruhe, Germany." 
-       attribution="H. Zell"
-       license="CC BY-SA 3.0"
-       fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Arachis_hypogaea_003.JPG">
+<param ve-compare curtain label="An Arachis hypogaea plant in bloom at the Botanical Garden KIT, Karlsruhe, Germany." attribution="H. Zell" license="CC BY-SA 3.0" fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Arachis_hypogaea_003.JPG">
+<param ve-compare url="https://iiif.lib.harvard.edu/manifests/drs:426036888" sequ="28">
 {#paragraph1}
 
 While the largest peanut-producing nations are now China, India, Nigeria, and the United States, the plant was first cultivated by Andean civilizations  in <span data-mouseover-map-flyto="-19.922,-64.061,6">South America</span>.[^1] Its migration around the world altered global food production and supply forever, rendering it one of the most successful of New World plants disseminated via the Columbian Exchange.
@@ -153,7 +149,7 @@ Interestingly, the text _Marketing Peanuts_, published in 1926 by the U.S. Depar
 {#paragraph19}
        
 ### The Groundnut Scheme in East Africa
-A key event in the history of peanuts as it intersects with histories of colonialism and imperialism is Great Britain’s post-<span eid="Q362">World War II</span> <span eid="Q2392428">Tanganyika groundnut scheme</span>, which took place between 1946 and 1951. In his account of the scheme to clear vast areas of vegetation to establish a groundnut monoculture in Tanganyika, ["Martin Mahony"](http://www.environmentandsociety.org/arcadia/enemy-nature-military-machines-and-technological-bricolage-britains-great-agricultural) not only notes a continued rhetoric of being at “war” with the land in Tanganyika, but also the actual _repurposing of war machines into agricultural equipment_: “At the sites chosen for the groundnut scheme, tractors and bulldozers from military surplus stores in Egypt proved unable to tackle the hard ground and tough vegetation, so the planners turned to a novel solution: repurposing surplus <span eid="Q191643">Sherman M4A2 tanks</span>.”[^23] With inadequate consideration given to the conditions of climate and land, the crops did not yield as expected and the scheme was ultimately recorded as a large-scale agricultural failure. The British Government had to abandon the scheme. Today groundnuts are grown in present-day Tanzania by smallholder farmers, and rank ["12th"](https://www.atlasbig.com/en-in/countries-by-peanut-production) in global peanut production.
+A key event in the history of peanuts as it intersects with histories of colonialism and imperialism is Great Britain’s post-<span eid="Q362">World War II</span> <span eid="Q2392428">Tanganyika groundnut scheme</span>, which took place between 1946 and 1951. In his account of the scheme to clear vast areas of vegetation to establish a groundnut monoculture in Tanganyika, [“Martin Mahony”](http://www.environmentandsociety.org/arcadia/enemy-nature-military-machines-and-technological-bricolage-britains-great-agricultural) not only notes a continued rhetoric of being at “war” with the land in Tanganyika, but also the actual _repurposing of war machines into agricultural equipment_: “At the sites chosen for the groundnut scheme, tractors and bulldozers from military surplus stores in Egypt proved unable to tackle the hard ground and tough vegetation, so the planners turned to a novel solution: repurposing surplus <span eid="Q191643">Sherman M4A2 tanks</span>.”[^23] With inadequate consideration given to the conditions of climate and land, the crops did not yield as expected and the scheme was ultimately recorded as a large-scale agricultural failure. The British Government had to abandon the scheme. Today groundnuts are grown in present-day Tanzania by smallholder farmers, and rank [“12th”](https://www.atlasbig.com/en-in/countries-by-peanut-production) in global peanut production.
 <param ve-iframe src="https://archive.org/details/notjustpeanutsst00brit/page/11/mode/2up?ref=ol&view=theater">
 {#paragraph20}
               
