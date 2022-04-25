@@ -10,8 +10,8 @@
      are thus available in all text. Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 
-### A Nut in Name Alone
-Despite its English name and nutlike taste, the peanut is, in fact, not a nut. This mighty legume is today grown across the world for a variety of uses including human consumption, oil production, and animal feed. It also plays an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, _Arachis hypogaea_ (hypo- [under], gaea [earth]), reflects this tropical plant’s ingenious growth method whereby its flowers bury themselves in the ground to bear fruit, protecting them from cooler night-time temperatures.
+### A Nut in Name Only
+Despite its English name and nutlike taste, the peanut is not a nut. This mighty legume is grown around the world for a variety of uses including human consumption, oil production, and animal feed. It also plays an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, _Arachis hypogaea_–hypo- (under) gaea (earth)–reflects this tropical plant’s ingenious growth method: its flowers protect themselves from cool, night-time temperatures by burrowing into the ground to bear their fruit.
 <param ve-entity eid="Q3621199" title="peanut">
 <param ve-entity eid="Q145909" title="legume"> 
 <param ve-entity eid="Q37383" title="Arachis hypogaea">
@@ -23,17 +23,18 @@ Despite its English name and nutlike taste, the peanut is, in fact, not a nut. T
        url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Arachis_hypogaea_003.JPG">
 {#paragraph1}
 
-While the largest peanut producing nations nowadays include China, India, Nigeria, and the U.S., this plant has its <span data-mouseover-map-flyto="-19.922,-64.061,6">origins in South America</span>, having been cultivated by Andean civilizations before spreading throughout the rest of the hemisphere.[^1] The arrival of the peanut in Europe and its migration around the world altered global food production and supply forever, rendering it one of the most “successful ” New World plants that was disseminated via the Columbian Exchange, along with the potato.
+While the largest peanut-producing nations are now China, India, Nigeria, and the United States, the plant was first cultivated by Andean civilizations  in <span data-mouseover-map-flyto="-19.922,-64.061,6">South America</span>.[^1] Its migration around the world altered global food production and supply forever, rendering it one of the most successful of New World plants disseminated via the Columbian Exchange.
 <param ve-map basemap="Esri_WorldPhysical" title="The distribution of Arachis hypogaea around the world, with its estimated origin area shown in red."> 
 <param ve-map-layer geojson active url="peanutdistributionmap.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
 	coords="-18.5,-64.061"
 	size="129, 170"
 	circle="true">
+<param ve-entity eid="Q767253" title="Columbian Exchange">
 {#paragraph2}
 
 ### The Origins of Peanut Cultivation and Consumption
-The cultivated peanut is one of many species of the _Arachis_ genus which is thought to have originated east of the Andes Mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil.[^2] The exact period of peanut cultivation by <span eid="Q3122657">Andean civilizations</span> is unclear but domesticated peanut remains have been dated back more than 7000 years.[^3] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his 1609 history of the <span eid="Q3404008">Inca civilization</span>, mestizo chronicler Inca Garcilaso de la Vega records peanuts, or <span data-click-image-zoomto="551,753,677,585">*ynchic*</span>, being eaten toasted and used to make a kind of nougat in combination with honey, but notes that they cause a headache when eaten raw.[^4] He further highlights that peanut oil can be extracted and used to cure many illnesses.
+The cultivated peanut is one of many species of the _Arachis_ genus that is thought to have originated east of the Andes mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil.[^2] The exact period of peanut cultivation by <span eid="Q3122657">Andean civilizations</span> is unclear but domesticated peanut remains have been dated back more than 7,000 years.[^3] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his 1609 history of the <span eid="Q3404008">Inca civilization</span>, mestizo chronicler Inca Garcilaso de la Vega (1539–1616) records peanuts–<span data-click-image-zoomto="551,753,677,585">*ynchic*</span>–being eaten toasted and, in combination with honey, used to make a kind of nougat. Garcilaso notes peanuts cause a headache when eaten raw and that peanut oil can be extracted and used to cure many illnesses.[^4]
 <param ve-image
        label="Inca Garcilaso de la Vega (1539–1616), 'Comentarios Reales de los Incas', 1609"
        attribution="Biblioteca Nacional de España, Biblioteca Digital Hispánica"
@@ -42,7 +43,7 @@ The cultivated peanut is one of many species of the _Arachis_ genus which is tho
        url="El inca.jpg">
 {#paragraph3}
  
-As Garcilaso suggests, peanuts were more than just an important food source, they were also a prestigious item with symbolic and religious importance and a connection to societal elites. The <span eid="Q208188">Moche culture</span> in northern Peru immortalized peanuts in metalwork and on ritual and funerary ceramics, and associated them with death, agricultural production, and fertility, in part because of the peanut’s subterranean growth process.[^5] They were also used in competitive feasts and as a ceremonial offering. The high status of peanuts is perhaps best immortalized in an elaborate gold and silver necklace that was discovered in the excavation of the Royal Tombs of Sipan in the 1980s where the warrior-priest leaders of the Moche were buried.[^6] 
+More than just an important food source, peanuts were also a prestigious item for societal elites, and held symbolic and religious importance. The <span eid="Q208188">Moche culture</span> in northern Peru immortalized peanuts in metalwork and on ritual and funerary ceramics, and associated them with death, agricultural production, and fertility, in part because of the peanut’s subterranean growth process.[^5] They were also used in competitive events and as a ceremonial offering. The high status of peanuts is perhaps best immortalized in an elaborate gold and silver necklace that was discovered in the excavation of the Royal Tombs of Sipan in the 1980s where the warrior-priest leaders of the Moche were buried.[^6] 
 <param ve-image
        label="A gold and silver peanut necklace found in the Royal Tombs of Sipan, c.300 CE."
        attribution="Artstor Slide Gallery, courtesy of the Fowler Museum at University of California, Los Angeles"
@@ -50,7 +51,7 @@ As Garcilaso suggests, peanuts were more than just an important food source, the
        url="Peanut Necklace.jpg">
 {#paragraph4}
        
-Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, having gradually spread further north via trade networks. In the Aztec capital of <span eid="Q13695">Tenochtitlan</span>, the location of present-day Mexico City, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ (cocoa), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_, and suggesting that the Aztec may have been the first humans to combine these two now-ubiquitous flavors.[^7]
+Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, having gradually spread further north via trade networks. In the Aztec capital of <span eid="Q13695">Tenochtitlan</span>, the location of present-day Mexico City, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ (cocoa), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_. This suggests that the Aztec may have been the first humans to combine these two now-ubiquitous flavors.[^7]
 <param ve-image
        label="Peanut plant, Book XI, Historia general de las cosas de Nueva España, 1577."
        attribution="World Digital Library"
@@ -58,7 +59,7 @@ Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, 
        url="Peanut Florentine Codex.png">
 {#paragraph5}
 
-Although peanuts were less common in Mesoamerica than in South America, peanuts were similarly noted for their medicinal properties. They are included in Book Eleven, _Earthly Things_, of the twelve-volume _General History of the Things of New Spain_, also known as the <span eid="Q1106019">Florentine Codex</span>, which was compiled by the Spanish Friar <span eid="Q379972">Bernardino de Sahagún</span> in collaboration with his indigenous students during the sixteenth century and gave a comprehensive account of Aztec culture, society, and natural history in order to facilitate Spanish evangelization work. Here, _tlalacacahuatl_ is described as a “root” to be given ground up in water to those with a fever, allowing them to expel the ailment in their urine.[^8]
+Although peanuts were less common in Mesoamerica than in South America, they were similarly noted for their medicinal properties. They are included in Book Eleven of _Earthly Things_, the twelve-volume _General History of the Things of New Spain_. Also known as the <span eid="Q1106019">Florentine Codex</span> (it was compiled by the Spanish Friar <span eid="Q379972">Bernardino de Sahagún</span> in collaboration with his indigenous students during the sixteenth century), it provided a comprehensive account of Aztec culture, society, and natural history in order to facilitate Spanish evangelization work. Book Eleven describes _tlalacacahuatl_ is described as a root that can be ground up into water and given to those with a fever, allowing them to expel the ailment through their urine.[^8]
 <param ve-image
        label="Peanut plant, Book XI, Historia general de las cosas de Nueva España, 1577."
        attribution="World Digital Library"
