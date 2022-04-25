@@ -35,7 +35,7 @@ While the largest peanut producing nations nowadays include China, India, Nigeri
 ### The Origins of Peanut Cultivation and Consumption
 The cultivated peanut is one of many species of the _Arachis_ genus which is thought to have originated east of the Andes Mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil.[^2] The exact period of peanut cultivation by <span eid="Q3122657">Andean civilizations</span> is unclear but domesticated peanut remains have been dated back more than 7000 years.[^3] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his 1609 history of the <span eid="Q3404008">Inca civilization</span>, mestizo chronicler Inca Garcilaso de la Vega records peanuts, or <span data-click-image-zoomto="551,753,677,585">*ynchic*</span>, being eaten toasted and used to make a kind of nougat in combination with honey, but notes that they cause a headache when eaten raw.[^4] He further highlights that peanut oil can be extracted and used to cure many illnesses.
 <param ve-image
-       label="Inca Garcilaso de la Vega (1539-1616), 'Comentarios Reales de los Incas', 1609"
+       label="Inca Garcilaso de la Vega (1539–1616), 'Comentarios Reales de los Incas', 1609"
        attribution="Biblioteca Nacional de España, Biblioteca Digital Hispánica"
        license="public domain"
        fit="contain"
@@ -68,14 +68,15 @@ Although peanuts were less common in Mesoamerica than in South America, peanuts 
     
 ### Out of the Americas
 Peanuts were first encountered by the Spanish on the Caribbean Island of <span eid="Q25277">Hispaniola</span> in the late fifteenth century, where they were known by the name _maní_ in the indigenous <span eid="Q5232952">Taíno</span> language. _Maní_ is still the predominant name for peanuts in Latin America today, having been adopted into Spanish. Diverging from the appreciation of peanuts by many Pre-Columbian societies, Spanish chronicler <span eid="Q919967">Gonzalo Fernández de Oviedo</span> linked their consumption on the island to people of low social standing who were not true Christians.[^9] The Spanish located them here as well as in the continental Americas, which led to confusion about the plant’s origins until peanut remains were in a Pre-Columbian tomb in Peru during the nineteenth century.[^10] 
-<param ve-map basemap="Esri_WorldPhysical" title="Spread of peanuts in the lands claimed by the Spanish (blue) and Portuguese (red) Empires around 1600. This largely happened via the main trade routes of each empire, also shown here.">  <param ve-map-layer geojson active url="traderoutesmap.json">
+<param ve-map basemap="Esri_WorldPhysical" title="Spread of peanuts in the lands claimed by the Spanish (blue) and Portuguese (red) Empires around 1600. This largely happened via the main trade routes of each empire, also shown here.">
+<param ve-map-layer geojson active url="traderoutesmap.json">
 {#paragraph7}
 
 While the arrival of the peanut in Europe was relatively slow, <span eid="Q683846">Spanish Galleons</span> transported peanuts westward from the Americas to <span data-mouseover-map-flyto="15.20,131.31">China, the Philippines, and the Pacific Islands</span> throughout the sixteenth century. Simultaneously, peanuts were being transported across the world by the Portuguese, who had also encountered the legume in Brazil around 1500. The peanut was transported from Brazil to the <span data-mouseover-map-flyto="-16.13,-12.30">Portuguese enclaves on the West Coast of Africa</span>, where it spread across the continent. The peanut was often used as sustenance for enslaved peoples as it could be stored for long periods of time and its hard outer shell helped to protect it from spoilage. From Africa, it was transported to <span data-mouseover-map-flyto="2.64,60.29">Portuguese India</span>, where it was initially termed the “Mozambique bean,” and eventually to China.
 <param ve-map
        zoom="3"
        basemap="Esri_WorldPhysical" 
-       title="Spread of peanuts in the lands claimed by the Spanish (blue) and Portuguese (red) Empires around 1600. This largely happened via the main trade routes of each empire, also shown here.">
+       title="Spread of peanuts via main trade routes in the lands claimed by the Spanish (blue) and Portuguese (red) empires around 1600.">
 <param ve-map-layer geojson active url="traderoutesmap.json">
 {#paragraph8}
 	
@@ -91,7 +92,7 @@ The first mention of peanuts in a Chinese text dates to 1503, a mere decade afte
 ### Mass Consumption: Peanuts as American Staple       
 Although peanuts originated in South America, their journey north was circuitous—in fact, peanuts were introduced to the United States through Africa, crossing the Atlantic in the hulls of slave ships. This history is embedded in the language of peanuts—the common moniker “goober” entered American English from nguba in Kimbundu, a language spoken in Angola; “pinder,” another term for peanuts in the American South, derives from _mpinda_ in the Kongo language.[^13]
 <param ve-image 
-       label="Lyrics of the folk song 'Goober Peas'" 
+       label="Lyrics of the folk song “Goober Peas”" 
        attribution="Printed in *Southern Enterprise*, Thomasville, Georgia, U.S., May 9, 1866"
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg/1107px-18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg">
@@ -143,11 +144,11 @@ The significance of the peanut vendor as the mediator in peanut consumption is b
 {#paragraph17}
 
 The political <span eid="Q89503149">chromolithograph</span> published in 1894 by <span eid="Q1584058">Puck magazine</span> titled “_Puck's presidential impossibility. The political peanut vender_,” uses the image of the peanut vendor in its satirical representation of the U.S. politician and former governor of New York, <span eid="Q888410">David B. Hill</span>.[^20] The <span data-click-image-zoomto="255,522,315,291">peanut</span> in the image indicates a [“peanut politics”](https://politicaldictionary.com/words/peanut-politician/) or petty politics motivated by self-interest. Besides selling peanuts on streets and roadsides, vendors were often found at other public spaces like circuses, zoos, theatres, and fairs. The ubiquitous presence of peanuts as entertainment food in circus spaces led to spectators feeding them to the animals, including elephants, as exemplified by this 1897 theatrical poster featuring a person offering the circus elephant a peanut.[^21] Notably, peanuts are not good for elephants as they require lesser protein and more fiber content in their diet.
-<param ve-image label="John S. Pughe, Puck's presidential impossibility. The political peanut vender, Library of Congress Prints and Photographs Division Washington, D.C., no known restrictions on publication." fit="contain" url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/29000/29050v.jpg">
+<param ve-image label="John S. Pughe, Puck's presidential impossibility. The political peanut vender, Library of Congress Prints and Photographs Division, Washington, D.C., no known restrictions on publication." fit="contain" url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/29000/29050v.jpg">
 {#paragraph18}
 
 Interestingly, the text _Marketing Peanuts_ (1926) published by the U.S. Department of Agriculture notes the prohibition of the sale of shelled peanuts in public and amusement spaces in some cities in the U.S to curb the public littering of peanut shells.[^22] While peanut shells were perceived as litter in the context of the public space, the hull and broken peas left over after the industrial de-shelling process was used in the preparation of livestock feed especially during years of low quality crop or poor prices.
-<param ve-image label="Charles Frohman's production, The Circus Girl, 1897, theatrical poster, Library of Congress Prints and Photographs Division Washington, D.C., no known restrictions on publication." fit="contain" url="https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg">
+<param ve-image label="Charles Frohman’s production, The Circus Girl, 1897, theatrical poster, Library of Congress Prints and Photographs Division, Washington, D.C., no known restrictions on publication." fit="contain" url="https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg">
 {#paragraph19}
        
 ### The Groundnut Scheme in East Africa
