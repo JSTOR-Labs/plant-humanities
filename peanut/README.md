@@ -30,13 +30,9 @@ While the largest peanut-producing nations are now China, India, Nigeria, and th
 
 ### The Origins of Peanut Cultivation and Consumption
 The cultivated peanut is one of many species of the _Arachis_ genus that is thought to have originated east of the Andes mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil.[^2] The exact period of peanut cultivation by <span eid="Q3122657">Andean civilizations</span> is unclear but domesticated peanut remains have been dated back more than 7,000 years.[^3] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his 1609 history of the <span eid="Q3404008">Inca civilization</span>, mestizo chronicler Inca Garcilaso de la Vega (1539–1616) records peanuts–<span data-click-image-zoomto="551,753,677,585">*ynchic*</span>–being eaten toasted and, in combination with honey, used to make a kind of nougat. Garcilaso notes peanuts cause a headache when eaten raw and that peanut oil can be extracted and used to cure many illnesses.[^4]
-<param ve-image
-       label="Inca Garcilaso de la Vega (1539–1616), 'Comentarios Reales de los Incas', 1609"
-       attribution="Biblioteca Nacional de España, Biblioteca Digital Hispánica"
-       license="public domain"
-       fit="contain"
-       url="El inca.jpg">
+<param ve-iframe attribution="Public Library of India" license="public domain" src="https://archive.org/embed/primerapartedelo00vega/page/n45/mode/2up" label="Inca Garcilaso de la Vega, Comentarios Reales de los Incas, 1609, The John Carter Brown Library, Brown University, via Internet Archive, public domain">
 <param ve-entity eid="Q636425" title="Arachis">
+<param ve-entity eid="Q334711" title="Inca Garcilaso de la Vega">
 {#paragraph3}
  
 More than just an important food source, peanuts were also a prestigious item for societal elites, and held symbolic and religious importance. The <span eid="Q208188">Moche culture</span> in northern Peru immortalized peanuts in metalwork and on ritual and funerary ceramics, and associated them with death, agricultural production, and fertility, in part because of the peanut’s subterranean growth process.[^5] They were also used in competitive events and as a ceremonial offering. The high status of peanuts is perhaps best immortalized in an elaborate gold and silver necklace that was discovered in the excavation of the Royal Tombs of Sipan in the 1980s where the warrior-priest leaders of the Moche were buried.[^6] 
