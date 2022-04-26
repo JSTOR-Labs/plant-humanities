@@ -156,7 +156,7 @@ Tamarind water is an immensely popular drink, both soothing and cooling, and is 
       
 Tamarind water has been around since at least the late medieval period as an enjoyable beverage and a medicinal drink. Marco Polo, in his travel accounts, observes merchants being “force[d]...to swallow a stuff called _Tamarindi_, mixed in sea-water” that results in “violent purging.”[^ref27] A few centuries later, John Parkinson, apothecary to James I and Royal Botanist to Charles I, writes of tamarind in his _Theatrum botanicum_ (1640): “it doth exceedingly helpe to assuage the thirst, if an ounce there-of be dissolved in faire water, and a little Sugar mixed therewith.” Parkinson notes that the drink is a particularly suitable thirst-quencher for “people of the hot countries.”
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/53bbeeb92b729232e4084076134b381f95adf1ca6680aa9cf36f2cdcb135d499">
-<param ve-entity eid="Q256288" title="Marco Polo">
+<param ve-entity eid="Q256288" title="Marco Polo" aliases="Marco Polo,">
 <param ve-entity eid="Q7622525" title="John Parkinson">
 <param ve-entity eid="Q79972" title="James I">
 <param ve-entity eid="Q81506" title="Charles I">
