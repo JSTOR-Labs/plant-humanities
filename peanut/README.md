@@ -39,7 +39,7 @@ More than just an important food source, peanuts were also a prestigious item fo
 <param ve-image label="Peanut Necklace, Tomb 1, Royal Tombs of Sipan, Moche civilization, Peru, c.300 CE, gold and silver, diam. 20 inches, Museo Regional Arqueológico Enrique Bruning de Lambayeque." attribution="Artstor Slide Gallery, courtesy of the Fowler Museum at University of California, Los Angeles" fit="contain" url="Peanut Necklace.jpg">
 {#paragraph4}
        
-Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, having gradually spread further north via trade networks. In the Aztec capital of <span eid="Q13695">Tenochtitlan</span>, the location of present-day Mexico City, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ (cocoa), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_. This suggests that the Aztec may have been the first humans to combine these two now-ubiquitous flavors.[^7]
+Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, having gradually spread further north via trade networks. In the Aztec capital of <span eid="Q13695">Tenochtitlan</span>, the location of present-day Mexico City, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ ([cocoa](https://lab.plant-humanities.org/cacao/)), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_. This suggests that the Aztec may have been the first humans to combine these two now-ubiquitous flavors.[^7]
 <param ve-iframe src="https://nahuatl.uoregon.edu/">
 {#paragraph5}
 
