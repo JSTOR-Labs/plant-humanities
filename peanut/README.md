@@ -36,11 +36,7 @@ The cultivated peanut is one of many species of the _Arachis_ genus that is thou
 {#paragraph3}
  
 More than just an important food source, peanuts were also a prestigious item for societal elites, and held symbolic and religious importance. The <span eid="Q208188">Moche culture</span> in northern Peru immortalized peanuts in metalwork and on ritual and funerary ceramics, and associated them with death, agricultural production, and fertility, in part because of the peanut’s subterranean growth process.[^5] They were also used in competitive events and as a ceremonial offering. The high status of peanuts is perhaps best immortalized in an elaborate gold and silver necklace that was discovered in the excavation of the Royal Tombs of Sipan in the 1980s where the warrior-priest leaders of the Moche were buried.[^6] 
-<param ve-image
-       label="A gold and silver peanut necklace found in the Royal Tombs of Sipan, c.300 CE."
-       attribution="Artstor Slide Gallery, courtesy of the Fowler Museum at University of California, Los Angeles"
-       fit="contain"
-       url="Peanut Necklace.jpg">
+<param ve-image label="Peanut Necklace, Tomb 1, Royal Tombs of Sipan, Moche civilization, Peru, c.300 CE, gold and silver, diam. 20 inches, Museo Regional Arqueológico Enrique Bruning de Lambayeque." attribution="Artstor Slide Gallery, courtesy of the Fowler Museum at University of California, Los Angeles" fit="contain" url="Peanut Necklace.jpg">
 {#paragraph4}
        
 Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, having gradually spread further north via trade networks. In the Aztec capital of <span eid="Q13695">Tenochtitlan</span>, the location of present-day Mexico City, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ (cocoa), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_. This suggests that the Aztec may have been the first humans to combine these two now-ubiquitous flavors.[^7]
