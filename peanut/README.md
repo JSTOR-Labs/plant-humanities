@@ -11,10 +11,9 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 
 ### A Nut in Name Only
-Despite its English name and nutlike taste, the peanut is not a nut. This mighty legume is grown around the world for a variety of uses including human consumption, oil production, and animal feed. It also plays an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, _Arachis hypogaea_–hypo- (under) gaea (earth)–reflects this tropical plant’s ingenious growth method: its flowers protect themselves from cool, night-time temperatures by burrowing into the ground to bear their fruit.
+Despite its English name and nutlike taste, the peanut is not a nut. This mighty legume is grown around the world for a variety of uses including human consumption, oil production, and animal feed. It also plays an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, <span eid="Q37383">_Arachis hypogaea_</span>–hypo- (under) gaea (earth)–reflects this tropical plant’s ingenious growth method: its flowers protect themselves from cool, night-time temperatures by burrowing into the ground to bear their fruit.
 <param ve-entity eid="Q3621199" title="peanut">
 <param ve-entity eid="Q145909" title="legume"> 
-<param ve-entity eid="Q37383" title="Arachis hypogaea">
 <param ve-compare curtain manifest="https://iiif.lib.harvard.edu/manifests/drs:493720026" seq="118">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Arachis_hypogaea_003.JPG" label="An Arachis hypogaea plant in bloom at the Botanical Garden KIT, Karlsruhe, Germany." attribution="H. Zell" license="CC BY-SA 3.0" fit="contain">
 {#paragraph1}
