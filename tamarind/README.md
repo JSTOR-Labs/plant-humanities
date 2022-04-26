@@ -105,7 +105,7 @@ Tamarind is mentioned in traditional Sanskrit literature and traditional African
 
 Tamarind’s resilience has made it a central part of herbal medicine practices across history. The seventeenth-century oil painting created after a design by the French printmaker Nicolas de Larmessin II portrays three men as the personifications of medicine, pharmacy, and surgery. At the center of the composition, the physician personifying medicine is cloaked in garb that bears the names of medieval authors central to traditional Western medicine, including Avicenna and Mesue, two Persian polymaths credited by Tournefort as key to the spread of knowledge about tamarind. Taking a closer look, just beneath the medicine man’s hand, is a <span data-click-image-zoomto="366,572,344,300">written prescription</span> to treat medical ailments, and nestled within the text that includes “cassia” and “rhubarb” is none other than “tamarind.”
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/4a6618d8e6704e21276f2647dd472450cbafdba566c17e78295e0d644577c665">
-<param ve-entity eid="Q16666497" title="Nicolas de Larmessin II">
+<param ve-entity eid="Q16666497" title="Nicolas de Larmessin" aliases="Nicolas de Larmessin II">
 <param ve-entity eid="Q1291511" title="Mesue">
 <param ve-entity eid="Q8011" title="Avicenna">
 <param ve-entity eid="Q7535" title="rhubarb">
