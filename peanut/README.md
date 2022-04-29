@@ -50,7 +50,6 @@ More than just an important food source, peanuts were also a prestigious item fo
 {#paragraph4}
 
 Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, having gradually spread further north via trade networks. In the Aztec capital of Tenochtitlan, the location of present-day Mexico City, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ ([cocoa](https://lab.plant-humanities.org/cacao/)), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_. This suggests that the Aztec may have been the first humans to combine these two now-ubiquitous flavors.[^7]
-<param ve-map prefer-geojson basemap="Esri_WorldPhysical" title="Tenochtitlan, the location of present-day Mexico City." center="15.471219344367423, -90.38517376819463" zoom="6">
 <param ve-entity eid="Q13695" title="Tenochtitlan" aliases="Tenochtitlan,">
 {#paragraph5}
 
