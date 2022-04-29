@@ -38,11 +38,18 @@ The cultivated peanut is one of many species of the _Arachis_ genus that is thou
  
 More than just an important food source, peanuts were also a prestigious item for societal elites, and held symbolic and religious importance. The <span eid="Q208188">Moche culture</span> in northern Peru immortalized peanuts in metalwork and on ritual and funerary ceramics, and associated them with death, agricultural production, and fertility, in part because of the peanut’s subterranean growth process.[^5] They were also used in competitive events and as a ceremonial offering. The high status of peanuts is perhaps best immortalized in an elaborate gold and silver necklace that was discovered in the excavation of the Royal Tombs of Sipán in the 1980s where the warrior-priest leaders of the Moche were buried.[^6] 
 <param ve-image label="Peanut Necklace, Tomb 1, Royal Tombs of Sipán, Moche civilization, Peru, c.300 CE, gold and silver, diam. 20 inches, Museo Regional Arqueológico Enrique Bruning de Lambayeque." attribution="Artstor Slide Gallery, courtesy of the Fowler Museum at University of California, Los Angeles" fit="contain" url="Peanut Necklace.jpg">
-<param ve-entity eid="Q105955961" title="Sipán"> 
+<param ve-entity eid="Q105955961" title="Sipán">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Site_of_Huaca_Rajada.jpg"
+	coords="-6.795,-79.601111"
+	size="129, 170"
+	circle="true">
 {#paragraph4}
        
 Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, having gradually spread further north via trade networks. In the Aztec capital of <span eid="Q13695">Tenochtitlan</span>, the location of present-day Mexico City, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ ([cocoa](https://lab.plant-humanities.org/cacao/)), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_. This suggests that the Aztec may have been the first humans to combine these two now-ubiquitous flavors.[^7]
-<param ve-iframe src="https://books.google.com/books?id=TD2YYleDZz4C&newbks=0&lpg=PA50&dq=tlalcacahuatl&pg=PA50&output=embed">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="-18.5,-64.061"
+	size="129, 170"
+	circle="true">
 {#paragraph5}
 
 Although peanuts were less common in Mesoamerica than in South America, they were similarly noted for their medicinal properties. They are included in [Book Eleven](https://www.loc.gov/resource/gdcwdl.wdl_10622/?sp=282&r=-0.855,0,2.709,1.312,0) of _Earthly Things_, the twelve-volume _Historia general de las cosas de Nueva España_ (General History of the Things of New Spain). Also known as the <span eid="Q1106019">Florentine Codex</span> (it was compiled by the Spanish Friar <span eid="Q379972">Bernardino de Sahagún</span> in collaboration with his indigenous students during the sixteenth century), it provided a comprehensive account of Aztec culture, society, and natural history in order to facilitate Spanish evangelization work. Book Eleven describes [_tlalacacahuatl_](https://nahuatl.uoregon.edu/content/tlalcacahuatl) is described as a root that can be ground up into water and given to those with a fever, allowing them to expel the ailment through their urine.[^8]
