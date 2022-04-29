@@ -128,7 +128,7 @@ A key event in the history of peanuts as it intersects with histories of colonia
 {#paragraph20}
               
 ### Multispecies Consumption: Insects, Fungi, Bacteria
-Humans, animals, and birds are not the only consumers of the peanut plant for its nutrients. In texts on peanut cultivation for human consumption, like _The Peanut: The Unpredictable legume; A Symposium_ published in 1951 by the National Fertilizer Association, we find the assertive presence of insects, fungi, and bacteria that feed on the peanut foliage, subterranean parts, and delicious pods.[^24] Insects like the Indian Meal Moth, <span eid="Q2893450">Almond Moth</span>, Saw-toothed Grain Beetle, and <span eid="Q102347715">Flour Beetles</span> are observed consuming peanuts when they are in storage. This infestation by pests causes crop damage resulting in economic damage to producers.
+Humans, animals, and birds are not the only consumers of the peanut plant for its nutrients. In texts on peanut cultivation for human consumption, like _The Peanut: The Unpredictable legume; A Symposium_ published in 1951 by the National Fertilizer Association, we find the assertive presence of insects, fungi, and bacteria that feed on the peanut foliage, subterranean parts, and delicious pods.[^24] Insects like the Indian Meal Moth, <span eid="Q2893450">Almond Moth</span>, Saw-toothed Grain Beetle, and <span eid="Q20165096">Flour Beetles</span> are observed consuming peanuts when they are in storage. This infestation by pests causes crop damage resulting in economic damage to producers.
 <param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/KatherineMEnright/Peanut/main/D3%20Ring%20Network%20Peanut.tsv"
        center="Arachis hypogaea">
