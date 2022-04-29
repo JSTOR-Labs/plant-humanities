@@ -20,7 +20,7 @@ Despite its English name and nutlike taste, the peanut is not a nut. This mighty
 
 While the largest peanut-producing nations are now China, India, Nigeria, and the United States, the plant was first cultivated by Andean civilizations  in <span data-mouseover-map-flyto="-19.922,-64.061,6">South America</span>.[^1] Its migration around the world altered global food production and supply forever, rendering it one of the most successful of New World plants disseminated via the Columbian Exchange.
 <param ve-map basemap="Esri_WorldPhysical" title="The distribution of Arachis hypogaea around the world, with its estimated origin area shown in orange."> 
-<param ve-map-layer geojson active url="peanutdistributionmap.json">
+<param ve-map-layer geojson active url="peanutdistributionmap.json" title="Distribution of Arachis hypogaea (yellow).">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
 	coords="-18.5,-64.061"
 	size="129, 170"
