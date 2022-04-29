@@ -38,7 +38,7 @@ The cultivated peanut is one of many species of the _Arachis_ genus that is thou
  
 More than just an important food source, peanuts were also a prestigious item for societal elites, and held symbolic and religious importance. The <span eid="Q208188">Moche culture</span> in northern Peru immortalized peanuts in metalwork and on ritual and funerary ceramics, and associated them with death, agricultural production, and fertility, in part because of the peanut’s subterranean growth process.[^5] They were also used in competitive events and as a ceremonial offering. The high status of peanuts is perhaps best immortalized in an elaborate gold and silver necklace that was discovered in the excavation of the Royal Tombs of Sipán in the 1980s where the warrior-priest leaders of the Moche were buried.[^6] 
 <param ve-image label="Peanut Necklace, Tomb 1, Royal Tombs of Sipán, Moche civilization, Peru, c.300 CE, gold and silver, diam. 20 inches, Museo Regional Arqueológico Enrique Bruning de Lambayeque." attribution="Artstor Slide Gallery, courtesy of the Fowler Museum at University of California, Los Angeles" fit="contain" url="Peanut Necklace.jpg">
-<param ve-map basemap="Esri_WorldPhysical" title="Huaca Rajada, Sipán, Peru.">
+<param ve-map prefer-geojson basemap="Esri_WorldPhysical" title="Huaca Rajada, Sipán, Peru." center="-16.50698840086817, -68.1038842231085" zoom="3">
 <param ve-entity eid="Q105955961" title="Sipán">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Site_of_Huaca_Rajada.jpg"
 	coords="-6.795,-79.601111"
