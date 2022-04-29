@@ -9,6 +9,9 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text. Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
+ 
+<param ve-entity eid="Q419" title="Peru">
+<param ve-entity eid="Q7700538" title="Tenochtitlán Municipality" aliases="Tenochtitlán|Tenochtitlan">
 
 ### A Nut in Name Only
 Despite its English name and nutlike taste, the peanut is not a nut. This mighty legume is grown around the world for a variety of uses including human consumption, oil production, and animal feed. It also plays an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, <span eid="Q37383">_Arachis hypogaea_</span>–hypo- (under) gaea (earth)–reflects this tropical plant’s ingenious growth method: its flowers protect themselves from cool, night-time temperatures by burrowing into the ground to bear their fruit.
