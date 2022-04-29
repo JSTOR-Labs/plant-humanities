@@ -75,7 +75,7 @@ The first mention of peanuts in a Chinese text dates to 1503, a mere decade afte
 
 ### Mass Consumption: Peanuts as American Staple       
 Peanuts’ journey north from South America was circuitous—in fact, they were introduced to the United States through Africa, crossing the Atlantic in the hulls of slave ships. This history is embedded in the language of peanuts—the common moniker “goober” entered American English from _nguba_ in Kimbundu, a language spoken in Angola; “pinder,” another term for peanuts in the American South, derives from _mpinda_ in the Kongo language.[^13]
-<param ve-iframe label="Google Books NGRAM Viwer (click on line/label for focus)" src="https://books.google.com/ngrams/interactive_chart?content=peanut%2Cgoober%2Cpinder%2Cearth+nut&year_start=1800&year_end=1900&corpus=15&smoothing=3&direct_url=t1%3B%2Cpeanut%3B%2Cc0%3B.t1%3B%2Cgoober%3B%2Cc0%3B.t1%3B%2Cpinder%3B%2Cc0%3B.t1%3B%2Cearth+nut%3B%2Cc0" width=800 height=1000 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no>
+<param ve-iframe label="Google Books NGRAM Viwer (click on line/label for focus)" src="https://books.google.com/ngrams/interactive_chart?content=peanut%2Cgoober%2Cpinder%2Cearth+nut&year_start=1800&year_end=1900&corpus=15&smoothing=3&direct_url=t1%3B%2Cpeanut%3B%2Cc0%3B.t1%3B%2Cgoober%3B%2Cc0%3B.t1%3B%2Cpinder%3B%2Cc0%3B.t1%3B%2Cearth+nut%3B%2Cc0" width=800 height=2000 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no>
 >
 ">
 {#paragraph10}
