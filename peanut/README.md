@@ -74,20 +74,12 @@ The first mention of peanuts in a Chinese text dates to 1503, a mere decade afte
 {#paragraph9}
 
 ### Mass Consumption: Peanuts as American Staple       
-Peanuts’ journey north from South America was circuitous—in fact, they were introduced to the United States through Africa, crossing the Atlantic in the hulls of slave ships. This history is embedded in the language of peanuts—the common moniker “goober” entered American English from nguba in Kimbundu, a language spoken in Angola; “pinder,” another term for peanuts in the American South, derives from _mpinda_ in the Kongo language.[^13]
-<param ve-image 
-       label="Lyrics of the folk song “Goober Peas”" 
-       attribution="Printed in *Southern Enterprise*, Thomasville, Georgia, U.S., May 9, 1866"
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg/1107px-18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg">
+Peanuts’ journey north from South America was circuitous—in fact, they were introduced to the United States through Africa, crossing the Atlantic in the hulls of slave ships. This history is embedded in the language of peanuts—the common moniker “goober” entered American English from _nguba_ in Kimbundu, a language spoken in Angola; “pinder,” another term for peanuts in the American South, derives from _mpinda_ in the Kongo language.[^13]
+<param ve-image label="Lyrics of the folk song “Goober Peas,” printed in Southern Enterprise, Thomasville, Georgia, U.S., May 9, 1866, RCraig09, Wikimedia Commons, public domain." url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg/1107px-18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg">
 {#paragraph10}
 
 In contrast to the peanut’s high status in the pre-Columbian Americas and Qing China, in early nineteenth-century America, peanuts were often planted by communities of enslaved persons and otherwise used as feed for livestock. It was during the <span eid="Q8676">Civil War</span> that they became more widely popular among southern whites. Southerners turned to peanuts in the face of wartime food shortages, and the crop’s military utility was exploited as peanut oil replaced embargoed northern whale oil as machinery lubricant.[^14] The popularity of peanuts at the time is commemorated in “Goober Peas,” a folk song sung by Confederate soldiers. The lyrics and music are humorously attributed to “A. Pinder” and “P. Nut,” both puns on the peanut’s name. 
-<param ve-image 
-       label="Lyrics of the folk song 'Goober Peas'" 
-       attribution="Printed in *Southern Enterprise*, Thomasville, Georgia, U.S., May 9, 1866"
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg/1107px-18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg">
+<param ve-image label="Lyrics of the folk song “Goober Peas,” printed in Southern Enterprise, Thomasville, Georgia, U.S., May 9, 1866, RCraig09, Wikimedia Commons, public domain." url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg/1107px-18660509_Goober_Peas_-_lyrics_-_Thomasville_Southern_Enterprise_%28Georgia%29.jpg">
 {#paragraph11}
 
 After the war, spurred on by advances in agricultural technology, the use of peanut spread throughout the country. Instrumental to this was <span eid="Q296898">George Washington Carver</span> (c.1864–1943), the pioneering Black agricultural scientist who devoted much of his career to popularizing the crop in the South. Carver, who was born into slavery in Missouri and taught at the Tuskegee Institute during his scientific career, sought to promote crops that could be planted as an alternative to cotton. Over a century of cotton monoculture had caused widespread nutrient depletion and erosion in the southern soils, and so Carver proposed peanuts as a solution. As nitrogen-fixing legumes, they could return nutrients to the soil as part of a crop rotation that would boost the yield of future cotton plantings.
