@@ -46,8 +46,8 @@ More than just an important food source, peanuts were also a prestigious item fo
 	circle="true">
 {#paragraph4}
        
-Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, having gradually spread further north via trade networks. In the Aztec capital of <span data-mouseover-map-flyto="-19.922,-64.061,6">Tenochtitlan</span>, the location of present-day Mexico City, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ ([cocoa](https://lab.plant-humanities.org/cacao/)), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_. This suggests that the Aztec may have been the first humans to combine these two now-ubiquitous flavors.[^7]
-<param ve-map basemap="Esri_WorldPhysical" title="Tenochtitlan, the location of present-day Mexico City." center="19.433333, -99.133333" zoom="3">
+Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, having gradually spread further north via trade networks. In the Aztec capital of <span eid="Q13695">Tenochtitlan</span>, the location of present-day Mexico City, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ ([cocoa](https://lab.plant-humanities.org/cacao/)), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_. This suggests that the Aztec may have been the first humans to combine these two now-ubiquitous flavors.[^7]
+<param ve-map prefer-geojson basemap="Esri_WorldPhysical" title="Tenochtitlan, the location of present-day Mexico City." center="19.433333, -99.133333" zoom="3">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Templo_Mayor_2007.JPG"
 	coords="19.434331596 -99.125499498"
 	size="129, 170"
