@@ -9,9 +9,6 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text. Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
- 
-<param ve-entity eid="Q419" title="Peru">
-<param ve-entity eid="Q1489" title="Mexico City" aliases="Mexico City,">
 
 ### A Nut in Name Only
 Despite its English name and nutlike taste, the peanut is not a nut. This mighty legume is grown around the world for a variety of uses including human consumption, oil production, and animal feed. It also plays an important role in crop rotation due to the nitrogen-fixing bacteria in its root nodules. The taxonomic name of the cultivated peanut, <span eid="Q37383">_Arachis hypogaea_</span>–hypo- (under) gaea (earth)–reflects this tropical plant’s ingenious growth method: its flowers protect themselves from cool, night-time temperatures by burrowing into the ground to bear their fruit.
@@ -43,9 +40,9 @@ More than just an important food source, peanuts were also a prestigious item fo
 <param ve-image label="Peanut Necklace, Tomb 1, Royal Tombs of Sipán, Moche civilization, Peru, c.300 CE, gold and silver, diam. 20 inches, Museo Regional Arqueológico Enrique Bruning de Lambayeque." attribution="Artstor Slide Gallery, courtesy of the Fowler Museum at University of California, Los Angeles" fit="contain" url="Peanut Necklace.jpg">
 {#paragraph4}
 
-Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, having gradually spread further north via trade networks. In the Aztec capital of Tenochtitlan, the location of present-day Mexico City, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ ([cocoa](https://lab.plant-humanities.org/cacao/)), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_. This suggests that the Aztec may have been the first humans to combine these two now-ubiquitous flavors.[^7]
+Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, having gradually spread further north via trade networks. In the Aztec capital of Tenochtitlan, the location of present-day <span data-mouseover-map-flyto="19.433333, -99.133333,6">Mexico City</span>, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ ([cocoa](https://lab.plant-humanities.org/cacao/)), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_. This suggests that the Aztec may have been the first humans to combine these two now-ubiquitous flavors.[^7]
 <param ve-entity eid="Q13695" title="Tenochtitlan" aliases="Tenochtitlan,">
-<param ve-map prefer-geojson basemap="Esri_WorldPhysical" title="Tenochtitlan, the location of present-day Mexico City." center="15.471219344367423, -90.38517376819463" zoom="4">
+<param ve-map prefer-geojson basemap="Esri_WorldPhysical" title="Tenochtitlan, the location of present-day Mexico City." center="15.471219344367423, -90.38517376819463" zoom="3">
 <param ve-map-layer geojson active url="peanutdistributionmap.json" title="Distribution of Arachis hypogaea (yellow).">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
 	coords="19.434331596, -99.125499498"
