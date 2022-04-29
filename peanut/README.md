@@ -47,7 +47,7 @@ Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, 
 <param ve-entity eid="Q13695" title="Tenochtitlan" aliases="Tenochtitlan,">
 <param ve-map prefer-geojson basemap="Esri_WorldPhysical" title="Tenochtitlan, the location of present-day Mexico City." center="15.471219344367423, -90.38517376819463" zoom="4">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Reconstruction_of_Tenochtitlan2006.jpg"
-	coords="19.434331596 -99.125499498"
+	coords="19.434331596, -99.125499498"
 	size="129, 170"
 	circle="true">
 {#paragraph5}
