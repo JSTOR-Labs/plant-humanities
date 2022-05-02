@@ -84,8 +84,7 @@ In contrast to the peanut’s high status in the pre-Columbian Americas and Qing
 {#paragraph11}
 
 After the war, spurred on by advances in agricultural technology, the use of peanut spread throughout the country. Instrumental to this was <span eid="Q296898">George Washington Carver</span> (c.1864–1943), the pioneering Black agricultural scientist who devoted much of his career to popularizing the crop in the South. Carver, who was born into slavery in Missouri and taught at the Tuskegee Institute during his scientific career, sought to promote crops that could be planted as an alternative to cotton. Over a century of cotton monoculture had caused widespread nutrient depletion and erosion in the southern soils, and so Carver proposed peanuts as a solution. As nitrogen-fixing legumes, they could return nutrients to the soil as part of a crop rotation that would boost the yield of future cotton plantings.
-<param ve-image
-       label="George Washington Carver - One of America's Greatest Scientists (1943)"
+<param ve-image label="George Washington Carver - One of America's Greatest Scientists (1943)"
        description="Portrait and Biographical Paragraphs by Charles Henry Alston (1907-1977)"
        attribution="National Archives and Records Administration"
        license="public domain"
@@ -115,15 +114,15 @@ A characteristic feature in the history and contemporary life of peanuts is thei
 The significance of the peanut vendor as the mediator in peanut consumption is brilliantly conveyed by the 1927 song <span eid="Q3050049">_El manisero_ (_The Peanut Vendor_)</span> by the Cuban composer and songwriter <span eid="Q661928">Moisés Simons</span>.[^19] The composition is sung from the perspective of the seller and is an example of the African and Afro-Cuban-influenced <span eid="Q4428744">_son_</span> and <span eid="Q5681688">_pregón_</span> genres. Recorded over 160 times, the lyrics tell of a vendor trying to tempt a housewife to buy a cone of peanuts: his repeated sales cry of “_maní_, _maní_, _maní_,” is a typical feature of _pregones_. In 2005, the Library of Congress added _El manisero_ to the [National Recording Registry](https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/registry-by-induction-years/2005/) in recognition of its influence in the history of Latin American music.
 <param ve-video
 	id="essMVyS1Om0"
-	title="The Peanut Vendor - Don Azpiazu (Antonio Machin, vocal).">
+	title="The Peanut Vendor - Don Azpiazu (Antonio Machin, vocal), 1931, the78prof, YouTube.">
 {#paragraph17}
 
 The political <span eid="Q89503149">chromolithograph</span> published in 1894 by <span eid="Q1584058">_Puck_ magazine,</span> titled “_Puck’s presidential impossibility. The political peanut vender_,” uses the image of the peanut vendor in its satirical representation of the U.S. politician and former governor of New York, <span eid="Q888410">David B. Hill</span>.[^20] The <span data-click-image-zoomto="255,522,315,291">peanut</span> indicates [“peanut politics”](https://politicaldictionary.com/words/peanut-politician/) or petty politics motivated by self-interest.
-<param ve-image label="John S. Pughe, Puck's presidential impossibility. The political peanut vender, Library of Congress Prints and Photographs Division, Washington, D.C., no known restrictions on publication." fit="contain" url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/29000/29050v.jpg">
+<param ve-image label="John S. Pughe, Puck’s presidential impossibility. The political peanut vender, Library of Congress Prints and Photographs Division, Washington, D.C., no known restrictions on publication." fit="contain" url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/29000/29050v.jpg">
 {#paragraph18}
 
 Besides selling peanuts on streets and roadsides, vendors also were working in other public spaces like circuses, zoos, theaters, and fairs. The ubiquitous presence of peanuts as entertainment food in circus spaces led to spectators feeding them to the animals, including elephants, as exemplified by this 1897 theatrical poster featuring a visitor offering the circus elephant a peanut.[^21] It is now understood that peanuts are not good for elephants as they require more fiber than protein in their diet.
-<param ve-image label="Charles Frohman’s production, The Circus Girl, 1897, theatrical poster, Library of Congress Prints and Photographs Division, Washington, D.C., no known restrictions on publication." fit="contain" url="https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg">
+<param ve-image label="Russell Lee, Filling bags with feed made from peanut shells and blackstrap molasses. Peanut-shelling plant. Comanche, Texas, 1939, Farm Security Administration, Library of Congress Prints and Photographs Division, Washington, D.C., no known restrictions on publication." fit="contain" url="https://cdn.loc.gov/service/pnp/fsa/8b23000/8b23300/8b23344v.jpg">
 {#paragraph19}
 
 Interestingly, the text _Marketing Peanuts_, published in 1926 by the U.S. Department of Agriculture, prohibits the sale of shelled peanuts in public and amusement spaces in some cities to curb littering of peanut shells.[^22] While peanut shells were considered litter in public spaces, the hull and broken peas left over from the industrial de-shelling process were used in the preparation of livestock feed, especially during years of low-quality crops or poor prices.
