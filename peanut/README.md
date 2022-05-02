@@ -167,7 +167,7 @@ From luxury food to livestock feed, the social, cultural, and political life of 
 ### References
 
 [^1]: R. O. Hammons, “The Origin and History of the Groundnut,” in *The Groundnut Crop: A Scientific Basis for Improvement*, ed. J. Smartt (Dordrecht: Springer Netherlands, 1994), 24–42. [https://doi.org/10.1007/978-94-011-0733-4_2](https://doi.org/10.1007/978-94-011-0733-4_2)
-[^2]: David John Bertioli, Steven B. Cannon, Lutz Froenicke, et al., ‘The Genome Sequences of Arachis duranensis and Arachis ipaensis, the Diploid Ancestors of Cultivated Peanut,’ *Nature Genetics* 48, no. 4 (2016): 438–446. [https://doi.org/10.1038/ng.3517](https://doi.org/10.1038/ng.3517)
+[^2]: David John Bertioli, Steven B. Cannon, Lutz Froenicke, et al., “The Genome Sequences of Arachis duranensis and Arachis ipaensis, the Diploid Ancestors of Cultivated Peanut,” *Nature Genetics* 48, no. 4 (2016): 438–446. [https://doi.org/10.1038/ng.3517](https://doi.org/10.1038/ng.3517)
 [^3]: Tom D. Dillehay, Jack Rossen, Thomas C. Andres, and David E. Williams, “Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru,” *Science* 316, no. 5833 (2007): 1890–1893. [https://doi.org/10.1126/science.1141395](https://doi.org/10.1126/science.1141395)
 [^4]: Inca Garcilaso de la Vega, *Comentarios Reales*, Vol. 1 (Caracas: Biblioteca Ayacucho, 1985).
 [^5]: Lindi Jaclyn Masur, “Peanuts and Prestige on the Peruvian North Coast: The Archaeology of Peanuts at Huaca Gallinazo (V-59) and Huaca Santa Clara (V-67),” Master’s Thesis, The University of British Columbia, 2012.
