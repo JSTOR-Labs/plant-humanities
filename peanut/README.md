@@ -99,6 +99,8 @@ A [1916 Tuskegee Institute report](https://archive.org/details/CAT31355406/page/
            
 Today, while the United States is the fourth-largest peanut producer in the world, Americans consume the greatest quantity of peanuts annually of any nation. This is due in part to the widespread popularity of peanut butter–a distinctly North American foodstuff.[^17] While George Washington Carver is sometimes credited with the invention of peanut butter, the first recipes began to appear around the turn of the twentieth century. These recipes call for roasting and shelling the peanuts, and then grinding the nuts until they congeal into a paste, with salt and oil as optional additions. At first a tea-time delicacy, peanut butter was marketed as a protein-packed meat replacement during the food rationing of World War I, and its utility as a cheap energy source made it ubiquitous during the Great Depression.
 <param ve-knightlab-timeline source="1T9E8QZRT7ZFFmb55uLpJUSnELKuqSsXlLmNuVXvOC_I" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
+<param ve-entity eid="Q8698" title="Great Depression">
+<param ve-entity eid="Q361" title="World War I">
 {#paragraph14}
 
 A series of relentless American ad campaigns marketed peanut butter as suitable for all kinds of dishes, from peanut butter sandwiches and chocolate-peanut candies to savory roasts and soups. The American Empire shaped the peanut-related foodways of its colonies as well–including the Philippines–and it is comparatively prevalent in Germany due to the historical and contemporary presence of American troops.[^18]
