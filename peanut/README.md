@@ -171,7 +171,7 @@ From luxury food to livestock feed, the social, cultural, and political life of 
 [^3]: Tom D. Dillehay, Jack Rossen, Thomas C. Andres, and David E. Williams, “Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru,” *Science* 316, no. 5833 (2007): 1890–1893. [https://doi.org/10.1126/science.1141395](https://doi.org/10.1126/science.1141395)
 [^4]: Inca Garcilaso de la Vega, *Comentarios Reales*, Vol. 1 (Caracas: Biblioteca Ayacucho, 1985).
 [^5]: Lindi Jaclyn Masur, “Peanuts and Prestige on the Peruvian North Coast: The Archaeology of Peanuts at Huaca Gallinazo (V-59) and Huaca Santa Clara (V-67),” Master’s Thesis, The University of British Columbia, 2012.
-[^6]: Walter Alva and Christopher B. Donnan, Royal Tombs of Sipán (Los Angeles: Fowler Museum of Cultural History, 1993).
+[^6]: Walter Alva and Christopher B. Donnan, _Royal Tombs of Sipán_ (Los Angeles: Fowler Museum of Cultural History, 1993).
 [^7]: Andrew F. Smith, *Peanuts: The Illustrious History of the Goober Pea* (Urbana and Chicago: University of Illinois Press, 2002).
 [^8]: Fray Bernardino de Sahagún, *Historia general de las cosas de Nueva España*, Vol. XI: _de las cosas naturales_, 1577. 
 [^9]: Gonzalo Fernández de Oviedo y Valdés, *Historia general y natural de las Indias, islas y tierra-firme del mar oceano* (Madrid: Imprenta de la Real Academia de la Historia, 1851).
