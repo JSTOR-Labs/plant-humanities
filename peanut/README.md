@@ -152,7 +152,7 @@ Bacteria and fungi also leave their unique markers of consumption: “...<span e
 {#paragraph23}
 
 ### No Meager Legume
-Despite the use of the word [peanut](https://www.merriam-webster.com/dictionary/peanut) to denote a small or meager amount in the English language, we have seen over the course of this essay that the peanut has a rich global history that is intricately tied to histories of colonialism and imperialism. Perceptions of the peanut are distinctive based on their cultural and temporal contexts: from the fifteenth-century Spanish chronicler Gonzalo Fernández de Oviedo y Valdés’ linking peanut consumption on Hispaniola to people of low social standing to [“peanut galleries,”](https://theconversation.com/the-complicated-origin-of-the-expression-peanut-gallery-148897) referring to the cheapest seats in the theater and a term used as a racist and classist slur in early nineteenth-century United States. From luxury food to livestock feed, the social, cultural, and political life of this legume has taken on many incarnations. Yet its importance to humans and its ecosystems is hard to overstate. The peanut plant heals and replenishes soils and has therefore been cultivated as a global environmental intervention method to maintain soil health. Highly nutritious and protein-packed, it is beneficial to the many life-forms that consume it–including to humans in their varied culinary preparations.
+Despite the use of the word [peanut](https://www.merriam-webster.com/dictionary/peanut) to denote a small or meager amount in the English language, we have seen over the course of this essay that the peanut has a rich global history that is intricately tied to histories of colonialism and imperialism. Perceptions of the peanut are distinctive based on their cultural and temporal contexts: from peanuts held in high regard for their flavor and medicinal properties by the Aztec to [“peanut galleries,”](https://theconversation.com/the-complicated-origin-of-the-expression-peanut-gallery-148897) referring to the cheapest seats in the theater and a term used as a racist and classist slur in early nineteenth-century United States.
 <param ve-image
        label="Arachis hypogaea 006"
        description="Arachis hypogaea, Fabaceae, Peanut, Groundnut, growing fruit stalk; Botanical Garden KIT, Karlsruhe, Germany"
@@ -161,6 +161,16 @@ Despite the use of the word [peanut](https://www.merriam-webster.com/dictionary/
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Arachis_hypogaea_006.JPG">
 {#paragraph24}
+
+From luxury food to livestock feed, the social, cultural, and political life of this legume has taken on many incarnations. Yet its importance to humans and its ecosystems is hard to overstate. The peanut plant heals and replenishes soils and has therefore been cultivated as a global environmental intervention method to maintain soil health. Highly nutritious and protein-packed, it is beneficial to the many life-forms that consume it–including to humans in their varied culinary preparations.
+<param ve-image
+       label="Arachis hypogaea 006"
+       description="Arachis hypogaea, Fabaceae, Peanut, Groundnut, growing fruit stalk; Botanical Garden KIT, Karlsruhe, Germany"
+       attribution="H. Zell, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+       license="CC BY-SA 3.0; https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+       fit="contain"
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Arachis_hypogaea_006.JPG">
+{#paragraph25}
 
 ### References
 
