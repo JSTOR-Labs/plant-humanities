@@ -52,7 +52,7 @@ Peanuts were also held in high regard in <span eid="Q13703">Mesoamerica</span>, 
 {#paragraph5}
 
 Although peanuts were less common in Mesoamerica than in South America, they were similarly noted for their medicinal properties. They are included in [Book Eleven](https://www.loc.gov/resource/gdcwdl.wdl_10622/?sp=282&r=-0.855,0,2.709,1.312,0) of _Earthly Things_, the twelve-volume _Historia general de las cosas de Nueva España_ (General History of the Things of New Spain). Also known as the <span eid="Q1106019">Florentine Codex</span> (it was compiled by the Spanish Friar <span eid="Q379972">Bernardino de Sahagún</span> in collaboration with his indigenous students during the sixteenth century), it provided a comprehensive account of Aztec culture, society, and natural history in order to facilitate Spanish evangelization work. Book Eleven describes [_tlalacacahuatl_](https://nahuatl.uoregon.edu/content/tlalcacahuatl) is described as a root that can be ground up into water and given to those with a fever, allowing them to expel the ailment through their urine.[^8]
-<param ve-image region="1483,3504,3083,2688" label="Peanut plant, Bernardino De Sahagún, Book XI, Historia general de las cosas de Nueva España, 1577, Medicea Laurenziana Library, Florence via World Digital Library, public domain" url="https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:62:2:wdl_10622:MedPalat220_03_0598/full/pct:100/0/default.jpg">
+<param ve-image region="1483,3504,3083,2688" label="Peanut plant, Bernardino De Sahagún, Book XI, Historia general de las cosas de Nueva España, 1577, Medicea Laurenziana Library, Florence via World Digital Library, public domain." url="https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:62:2:wdl_10622:MedPalat220_03_0598/full/pct:100/0/default.jpg">
 {#paragraph6}
     
 ### Out of the Americas
@@ -155,13 +155,7 @@ Despite the use of the word [peanut](https://www.merriam-webster.com/dictionary/
 {#paragraph24}
 
 From luxury food to livestock feed, the social, cultural, and political life of this legume has taken on many incarnations. Yet its importance to humans and its ecosystems is hard to overstate. The peanut plant heals and replenishes soils and has therefore been cultivated as a global environmental intervention method to maintain soil health. Highly nutritious and protein-packed, it is beneficial to the many life-forms that consume it–including to humans in their varied culinary preparations.
-<param ve-image
-       label="Arachis hypogaea 006"
-       description="Arachis hypogaea, Fabaceae, Peanut, Groundnut, growing fruit stalk; Botanical Garden KIT, Karlsruhe, Germany"
-       attribution="H. Zell, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
-       license="CC BY-SA 3.0; https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-       fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Arachis_hypogaea_006.JPG">
+<param ve-image label="Arachis hypogaea, Fabaceae, Peanut, Groundnut, growing fruit stalk, Botanical Garden KIT, Karlsruhe, Germany, H. Zell, Wikimedia Commons, CC BY-SA 3.0." fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Arachis_hypogaea_006.JPG">
 {#paragraph25}
 
 ### References
