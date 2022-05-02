@@ -30,7 +30,7 @@ While the largest peanut-producing nations are now China, India, Nigeria, and th
 
 ### The Origins of Peanut Cultivation and Consumption
 The cultivated peanut is one of many species of the _Arachis_ genus that is thought to have originated east of the Andes mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil.[^2] The exact period of peanut cultivation by <span eid="Q3122657">Andean civilizations</span> is unclear but domesticated peanut remains have been dated back more than 7,000 years.[^3] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his [1609 history of the Inca civilization,](https://archive.org/details/primerapartedelo00vega/page/n443/mode/2up?q=ynchic) mestizo chronicler Inca Garcilaso de la Vega (1539–1616) records peanuts–_ynchic_–being eaten toasted and, in combination with honey, used to make a kind of nougat. Garcilaso notes peanuts cause a headache when eaten raw and that peanut oil can be extracted and used to cure many illnesses.[^4]
-<param ve-iframe attribution="Public Library of India" license="public domain" src="https://archive.org/embed/primerapartedelo00vega/page/208/" label="Inca Garcilaso de la Vega, Comentarios Reales de los Incas, 1609, The John Carter Brown Library, Brown University, via Internet Archive, public domain">
+<param ve-iframe src="https://archive.org/embed/primerapartedelo00vega/page/208/" label="Inca Garcilaso de la Vega, Comentarios Reales de los Incas, 1609, The John Carter Brown Library, Brown University, via Internet Archive, public domain">
 <param ve-entity eid="Q3404008" title="Inca civilization">
 <param ve-entity eid="Q636425" title="Arachis">
 <param ve-entity eid="Q334711" title="Inca Garcilaso de la Vega">
@@ -149,13 +149,8 @@ Bacteria and fungi also leave their unique markers of consumption: “...<span e
 
 ### No Meager Legume
 Despite the use of the word [peanut](https://www.merriam-webster.com/dictionary/peanut) to denote a small or meager amount in the English language, we have seen over the course of this essay that the peanut has a rich global history that is intricately tied to histories of colonialism and imperialism. Perceptions of the peanut are distinctive based on their cultural and temporal contexts: from peanuts held in high regard for their flavor and medicinal properties by the Aztec in Mesoamerica prior to and during the colonial era to [“peanut galleries,”](https://theconversation.com/the-complicated-origin-of-the-expression-peanut-gallery-148897) referring to the cheapest seats in the theater and a term used as a racist and classist slur in early nineteenth-century United States.
-<param ve-image
-       label="Arachis hypogaea 006"
-       description="Arachis hypogaea, Fabaceae, Peanut, Groundnut, growing fruit stalk; Botanical Garden KIT, Karlsruhe, Germany"
-       attribution="H. Zell, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
-       license="CC BY-SA 3.0; https://creativecommons.org/licenses/by-sa/3.0/deed.en"
-       fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Arachis_hypogaea_006.JPG">
+<param ve-compare sync region="1483,3504,3083,2688" label="Peanut plant, Bernardino De Sahagún, Book XI, Historia general de las cosas de Nueva España, 1577, Medicea Laurenziana Library, Florence via World Digital Library, public domain" url="https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:62:2:wdl_10622:MedPalat220_03_0598/full/pct:100/0/default.jpg">
+<param ve-compare region="1483,3504,3083,2688" label="Peanut plant, Bernardino De Sahagún, Book XI, Historia general de las cosas de Nueva España, 1577, Medicea Laurenziana Library, Florence via World Digital Library, public domain" url="https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:62:2:wdl_10622:MedPalat220_03_0598/full/pct:100/0/default.jpg">
 {#paragraph24}
 
 From luxury food to livestock feed, the social, cultural, and political life of this legume has taken on many incarnations. Yet its importance to humans and its ecosystems is hard to overstate. The peanut plant heals and replenishes soils and has therefore been cultivated as a global environmental intervention method to maintain soil health. Highly nutritious and protein-packed, it is beneficial to the many life-forms that consume it–including to humans in their varied culinary preparations.
