@@ -107,7 +107,7 @@ A series of relentless American ad campaigns marketed peanut butter as suitable 
 <param ve-iframe label="Beech-Nut Brand Peanut Butter, 1919, published in St. Nicholas, Information and Library Science Library, University of North Carolina via Internet Archive, no known copyright restrictions" src="https://archive.org/embed/stnicholasserial4721dodg/page/n741">
 {#paragraph15}
 
-### Politics and Public Space
+### Selling Peanuts: Public and Amusement Spaces
 A characteristic feature in the history and contemporary life of peanuts is their presence in public spaces. The peanut vendor sells peanuts: roasted or boiled, shelled or de-shelled, in street carts or on the roadside, in cones of newspaper or in paper bags. It is a global practice with similarities and differences specific to local context. As a result, the peanut vendor is both a mediator in peanut consumption and a symbol in various forms of media.
 <param ve-image primary fit="contain" label="Street vendor selling roasted peanuts, pub. in Harold J. Clay, Paul M. Williams, Bulletin of the U.S. Department of Agriculture, 1926, no. 1401, U.S. Department of Agriculture, National Agricultural Library via BHL, public domain." url="https://www.biodiversitylibrary.org/pageimage/48681087#page/57/mode/1up">
 <param ve-image fit="contain" label="Lewis Wickes Hine, Joseph Severio. Peanut vendor. 11 years of age. Pushing cart 2 years. Out after midnight on May 21, 1910, Library of Congress, Prints and Photographs Division, public domain." url="https://cdn.loc.gov/service/pnp/nclc/03500/03564v.jpg">
