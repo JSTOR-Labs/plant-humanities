@@ -170,8 +170,8 @@ Despite the use of the word [peanut](https://www.merriam-webster.com/dictionary/
 [^9]: Gonzalo Fernández de Oviedo y Valdés, *Historia general y natural de las Indias, islas y tierra-firme del mar oceano* (Madrid: Imprenta de la Real Academia de la Historia, 1851).
 [^10]: Smith, *Peanuts: The Illustrious History of the Goober Pea*.
 [^11]: 杨子器 Yang Ziqi, (弘治)常熟縣志4卷 *Hongzhi Changshuxian zhi si juan* [Changshu County Local Gazetteer (Reign of the Hongzhi Emperor)], 1503, accessed via Beijing Airusheng shuzihua jishu yanjiu zhongxin 北京爱如生数字化技术研究中心. Zhongguo jiben guji ku 中国基本古籍库 [Database of Chinese Classic Ancient Books].
-[^12]: “Peanuts and jujube dates, 18th century,” *The Metropolitan Museum of Art*. [https://www.metmuseum.org/art/collection/search/44155](https://www.metmuseum.org/art/collection/search/44155)
-[^13]: Jon Krampner, *Creamy and Crunchy: An Informal History of Peanut Butter, the All-American Food*, Arts and Traditions of the Table (New York: Columbia University Press, 2013), 7.
+[^12]: “Peanuts and jujube dates, 18th century,” _The Metropolitan Museum of Art_. [https://www.metmuseum.org/art/collection/search/44155](https://www.metmuseum.org/art/collection/search/44155)
+[^13]: Jon Krampner, _Creamy and Crunchy: An Informal History of Peanut Butter, the All-American Food, Arts and Traditions of the Table_ (New York: Columbia University Press, 2013), 7.
 [^14]: Jesse Rhodes, “The Legumes of War: How Peanuts Fed the Confederacy,” *Smithsonian Magazine*, April 19, 2012. [https://www.smithsonianmag.com/arts-culture/the-legumes-of-war-how-peanuts-fed-the-confederacy-70737510/](https://www.smithsonianmag.com/arts-culture/the-legumes-of-war-how-peanuts-fed-the-confederacy-70737510/)
 [^15]: George Washington Carver, “How to Grow the Peanut, and 105 Ways of Preparing It for Human Consumption,” Tuskegee Institute, 1916. [https://www.biodiversitylibrary.org/item/209426#page/17/mode/1up](https://www.biodiversitylibrary.org/item/209426#page/17/mode/1up)
 [^16]: Mark D. Hersey, *My Work Is That of Conservation: An Environmental Biography of George Washington Carver* (Athens: University of Georgia Press, 2011), 164.
