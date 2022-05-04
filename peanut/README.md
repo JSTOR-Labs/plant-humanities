@@ -24,7 +24,7 @@ While the largest peanut-producing nations are now China, India, Nigeria, and th
 {#paragraph2}
 
 ### The Origins of Peanut Cultivation and Consumption
-The cultivated peanut is one of many species of the _Arachis_ genus that is thought to have originated east of the Andes mountain range in <span data-click-map-flyto="-19.922,-64.061, 6">the area</span> corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil.[^2] The exact period of peanut cultivation by <span eid="Q3122657">Andean civilizations</span> is unclear but domesticated peanut remains have been dated back more than 7,000 years.[^3] 
+The cultivated peanut is one of many species of the _Arachis_ genus that is thought to have originated east of the Andes mountain range in <span data-click-map-flyto="-19.922,-64.061, 6">the area</span> corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil.[^2] The exact period of peanut cultivation by <span eid="Q3122657">Andean civilizations</span> is unclear but domesticated peanut remains have been dated back more than 7,000 years.[^3] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet.
 <param ve-map basemap="Esri_WorldPhysical" center="-19.922,-64.061" zoom="3" title="The distribution of Arachis hypogaea around the world, with its native range shown in orange."> 
 <param ve-map-layer geojson active url="peanutdistributionmap.json" title="Distribution of Arachis hypogaea (yellow).">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
@@ -33,7 +33,7 @@ The cultivated peanut is one of many species of the _Arachis_ genus that is thou
 	circle="true">
 {#paragraph3}
 
-The high protein content of the peanut made it an important calorie-dense feature of the Andean diet. In his [1609 history of the Inca civilization,](https://archive.org/details/primerapartedelo00vega/page/n443/mode/2up?q=ynchic) mestizo chronicler Inca Garcilaso de la Vega (1539–1616) records peanuts–<span data-click-image-zoomto="278,1157,702,662">_ynchic_</span>–being eaten toasted and, in combination with honey, used to make a kind of nougat. Garcilaso notes peanuts cause a headache when eaten raw and that peanut oil can be extracted and used to cure many illnesses.[^4]
+In his [1609 history of the Inca civilization,](https://archive.org/details/primerapartedelo00vega/page/n443/mode/2up?q=ynchic) mestizo chronicler Inca Garcilaso de la Vega (1539–1616) records peanuts–<span data-click-image-zoomto="278,1157,702,662">_ynchic_</span>–being eaten toasted and, in combination with honey, used to make a kind of nougat. Garcilaso notes peanuts cause a headache when eaten raw and that peanut oil can be extracted and used to cure many illnesses.[^4]
 <param ve-image fit="contain" url="https://ia600202.us.archive.org/BookReader/BookReaderImages.php?zip=/29/items/primerapartedelo00vega/primerapartedelo00vega_jp2.zip&file=primerapartedelo00vega_jp2/primerapartedelo00vega_0444.jp2&id=primerapartedelo00vega&scale=2&rotate=0" label="Inca Garcilaso de la Vega, Comentarios Reales de los Incas, 1609, The John Carter Brown Library, Brown University, via Internet Archive, public domain">
 <param ve-entity eid="Q3404008" title="Inca civilization">
 <param ve-entity eid="Q636425" title="Arachis">
