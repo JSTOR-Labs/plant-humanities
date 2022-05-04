@@ -25,7 +25,7 @@ While the largest peanut-producing nations are now China, India, Nigeria, and th
 
 ### The Origins of Peanut Cultivation and Consumption
 The cultivated peanut is one of many species of the _Arachis_ genus that is thought to have originated east of the Andes mountain range in the area corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil.[^2] The exact period of peanut cultivation by <span eid="Q3122657">Andean civilizations</span> is unclear but domesticated peanut remains have been dated back more than 7,000 years.[^3] 
-<param ve-map basemap="Esri_WorldPhysical" center="-19.922,-64.061,6" title="The distribution of Arachis hypogaea around the world, with its native range shown in orange."> 
+<param ve-map basemap="Esri_WorldPhysical" center="-19.922,-64.061" zoom="4" title="The distribution of Arachis hypogaea around the world, with its native range shown in orange."> 
 <param ve-map-layer geojson active url="peanutdistributionmap.json" title="Distribution of Arachis hypogaea (yellow).">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
 	coords="-18.5,-64.061"
