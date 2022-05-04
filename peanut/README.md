@@ -142,7 +142,7 @@ Peanuts played a critical role in the British Empire, as well, as demonstrated b
 {#paragraph21}
               
 ### Multispecies Consumption: Insects, Fungi, Bacteria
-Humans, animals, and birds are not the only consumers of the peanut plant for its nutrients. In texts on peanut cultivation for human consumption, like _The Peanut: The Unpredictable legume; A Symposium_ published in 1951 by the National Fertilizer Association, we find the assertive presence of insects, fungi, and bacteria that feed on the peanut foliage, subterranean parts, and delicious pods.[^24] Insects like the <span eid="Q779383">Indian meal moth</span>, <span eid="Q2893450">almond moth</span>, <span eid="Q779905">sawtoothed grain beetle </span>, and <span eid="Q20165096">flour beetle</span> are observed consuming peanuts when they are in storage. This infestation by pests causes crop damage resulting in economic damage to producers.
+Humans, animals, and birds are not the only consumers of the peanut plant for its nutrients. According to texts on peanut cultivation for human consumption, insects, fungi, and bacteria feed on peanut foliage, subterranean parts, and pods.[^24] Indeed, insects like the <span eid="Q779383">Indian meal moth</span>, <span eid="Q2893450">almond moth</span>, <span eid="Q779905">sawtoothed grain beetle </span>, and <span eid="Q20165096">flour beetle</span> consume peanuts when they are in storage. This infestation by pests causes crop damage resulting in economic loss for producers.
 <param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/KatherineMEnright/Peanut/main/D3%20Ring%20Network%20Peanut.tsv"
        center="Arachis hypogaea">
