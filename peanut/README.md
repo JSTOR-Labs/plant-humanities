@@ -109,7 +109,7 @@ Today, while the United States is the fourth-largest peanut producer in the worl
 <param ve-entity eid="Q361" title="World War I">
 {#paragraph15}
 
-In the first half of the twentieth century, a series of relentless American ad campaigns marketed peanut butter as suitable for all kinds of dishes, from peanut butter sandwiches and chocolate-peanut candies to savory roasts and soups. The <span eid="American imperialism"> American Empire</span> shaped the peanut-related foodways of its colonies as well, including the Philippines.[^18] And the peanut is comparatively prevalent in Germany due to the historical and contemporary presence of American troops.
+In the first half of the twentieth century, a series of relentless American ad campaigns marketed peanut butter as suitable for all kinds of dishes, from peanut butter sandwiches and chocolate-peanut candies to savory roasts and soups. The <span eid="Q605269">American Empire</span> shaped the peanut-related foodways of its colonies as well, including the Philippines.[^18] And the peanut is comparatively prevalent in Germany due to the historical and contemporary presence of American troops.
 <param ve-iframe label="Beech-Nut Brand Peanut Butter, 1919, published in St. Nicholas, Information and Library Science Library, University of North Carolina via Internet Archive, no known copyright restrictions" src="https://archive.org/embed/stnicholasserial4721dodg/page/n741">
 {#paragraph16}
 
