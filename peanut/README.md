@@ -24,13 +24,15 @@ While the largest peanut-producing nations are now China, India, Nigeria, and th
 {#paragraph2}
 
 ### The Origins of Peanut Cultivation and Consumption
-The cultivated peanut is one of many species of the _Arachis_ genus that is thought to have originated east of the Andes mountain range in <span data-click-map-flyto="-19.922,-64.061, 6">the area</span> corresponding to modern-day northwestern Argentina, southeastern Bolivia, northern Paraguay, and western Brazil.[^2] The exact period of peanut cultivation by <span eid="Q3122657">Andean civilizations</span> is unclear but domesticated peanut remains have been dated back more than 7,000 years.[^3] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet.
+The peanut is one of many species of the _Arachis_ genus with a native range spanning [the area](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30003907-2) corresponding to modern-day northern Argentina, Bolivia, Paraguay, Uruguay, and part of Brazil. More specifically, the peanut is a natural hyrbid of two wild species, _Arachis duranensis_ and _Arachis ipaensis_, that originated in what is now <span data-click-map-flyto="-19.922,-64.061, 6">Bolivia</span> 10,000 years ago.[^2] The exact period of peanut cultivation by <span eid="Q3122657">Andean civilizations</span> is unclear but domesticated peanut remains have been dated back more than 7,000 years.[^3] The high protein content of the peanut made it an important calorie-dense feature of the Andean diet.
 <param ve-map basemap="Esri_WorldPhysical" center="-19.922,-64.061" zoom="3" title="The distribution of Arachis hypogaea around the world, with its native range shown in orange."> 
 <param ve-map-layer geojson active url="peanutdistributionmap.json" title="Distribution of Arachis hypogaea (yellow).">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
 	coords="-18.5,-64.061"
 	size="129, 170"
 	circle="true">
+<param ve-entity eid="Q922343" title="Arachis duranensis">
+<param ve-entity eid="Q4783540" title="Arachis ipaensis">
 {#paragraph3}
 
 Mestizo chronicler Inca Garcilaso de la Vega (1539–1616) documented the presence of peanuts in colonial <span eid="Q419">Peru</span> and recounted <span eid="Q3404008">Incan</span> methods of cooking the legume. Born in Peru and educated in Spain, [de la Vega,](https://www.learner.org/series/american-passages-a-literary-survey/exploring-borderlands-video/garcilaso-de-la-vega-1539-1616/) who was fluent in Quechua and Spanish, drew on direct experience and knowledge of Incan culture shared through his matrilineal relatives to offer a unique perspective on Incan foodways. In his [1609 history of the Inca civilization,](https://archive.org/details/primerapartedelo00vega/page/n443/mode/2up?q=ynchic) de la Vega records peanuts–<span data-click-image-zoomto="278,1157,702,662">_ynchic_</span>–being eaten toasted and, in combination with honey, used to make a kind of nougat. He notes peanuts cause a headache when eaten raw and that peanut oil can be extracted and used to cure many illnesses.[^4]
@@ -166,7 +168,7 @@ Despite the use of the word [peanut](https://www.merriam-webster.com/dictionary/
 ### References
 
 [^1]: R. O. Hammons, “The Origin and History of the Groundnut,” in *The Groundnut Crop: A Scientific Basis for Improvement*, ed. J. Smartt (Dordrecht: Springer Netherlands, 1994), 24–42. [https://doi.org/10.1007/978-94-011-0733-4_2](https://doi.org/10.1007/978-94-011-0733-4_2)
-[^2]: David John Bertioli, Steven B. Cannon, Lutz Froenicke, et al., “The Genome Sequences of Arachis duranensis and Arachis ipaensis, the Diploid Ancestors of Cultivated Peanut,” *Nature Genetics* 48, no. 4 (2016): 438–446. [https://doi.org/10.1038/ng.3517](https://doi.org/10.1038/ng.3517)
+[^2]: David John Bertioli, Steven B. Cannon, Lutz Froenicke, et al., “The Genome Sequences of _Arachis duranensis_ and _Arachis ipaensis_, the Diploid Ancestors of Cultivated Peanut,” *Nature Genetics* 48, no. 4 (2016): 438–446. [https://doi.org/10.1038/ng.3517](https://doi.org/10.1038/ng.3517)
 [^3]: Tom D. Dillehay, Jack Rossen, Thomas C. Andres, and David E. Williams, “Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru,” *Science* 316, no. 5833 (2007): 1890–1893. [https://doi.org/10.1126/science.1141395](https://doi.org/10.1126/science.1141395)
 [^4]: Inca Garcilaso de la Vega, *Comentarios Reales*, Vol. 1 (Caracas: Biblioteca Ayacucho, 1985).
 [^5]: Lindi Jaclyn Masur, “Peanuts and Prestige on the Peruvian North Coast: The Archaeology of Peanuts at Huaca Gallinazo (V-59) and Huaca Santa Clara (V-67),” Master’s Thesis, The University of British Columbia, 2012.
