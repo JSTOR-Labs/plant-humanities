@@ -81,7 +81,7 @@ The first mention of peanuts in a Chinese text dates to 1503, a mere decade afte
 <param ve-map basemap="Esri_WorldPhysical" center="24.187, 89.046" zoom="3" title="The expansion of peanut cultivation in China."> 
 <param ve-map-layer geojson active url="peanutdistributionmap.json" title="Distribution of Arachis hypogaea (yellow).">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="31.8, 119.9"
+	coords="23.17, 113.27"
 	size="129, 170"
 	circle="true">
 {#paragraph10}
