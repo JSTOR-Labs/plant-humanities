@@ -78,6 +78,12 @@ The Spanish first encountered peanuts in the late fifteenth century on <span eid
 {#paragraph9}
 	
 The first mention of peanuts in a Chinese text dates to 1503, a mere decade after Christopher Columbus’ “discovery” of the Americas. The manuscript describes boiled or cooked peanuts as “delicious” and gives the origin of its Chinese name 落花生 _luo hua sheng_ (commonly now just 花生 _hua sheng_), literally “born from a fallen flower,” which references how the peanut fruits below ground.[^11] Historical records related to Changshu county indicate that peanuts were cultivated there as early as 1538.[^12] Cultivation expanded to Guangdong by the seventeenth century and in the following century, to the Guangdong delta and Taiwan.
+<param ve-map basemap="Esri_WorldPhysical" center="-19.922,-64.061" zoom="3" title="The expansion of peanut cultivation in China."> 
+<param ve-map-layer geojson active url="peanutdistributionmap.json" title="Distribution of Arachis hypogaea (yellow).">
+<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
+	coords="-18.5,-64.061"
+	size="129, 170"
+	circle="true">
 <param ve-entity eid="Q1015805" title="Changshu">
 <param ve-entity eid="Q15175" title="Guangdong">
 <param ve-entity eid="Q22502" title="Taiwan">
@@ -86,15 +92,6 @@ The first mention of peanuts in a Chinese text dates to 1503, a mere decade afte
 Peanuts were a luxury food served at banquets and out of reach for many until the nineteenth century. The peanut came to be imbued with new cultural meanings as well, as shown in this <span eid="Q8733">Qing Dynasty</span> agate carving depicting a pair of peanuts alongside red dates. The carving is a play on words: the characters for red date (枣, _zao_) and peanut (生, _sheng_), are homophones for the first two characters of the auspicious greeting [早生贵子 zao sheng gui zi,](https://www.metmuseum.org/art/collection/search/44155?ft=peanut&amp;offset=0&amp;rpp=40&amp;pos=13) an encouragement for newlywed couples to soon have children.
 <param ve-image primary label="Peanuts and jujube dates, Qing dynasty, 18th century, China, carving in chalcedony, H. 2.9 cm, Gift of Heber R. Bishop, 1902, Metropolitan Museum of Art, public domain." url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/44155/196169/main-image">
 <param ve-image label="Peanuts and jujube dates, Qing dynasty, 18th century, China, carving in chalcedony, H. 2.9 cm, Gift of Heber R. Bishop, 1902, Metropolitan Museum of Art, public domain." url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/44155/196170/main-image">
-<param ve-map basemap="Esri_WorldPhysical" center="-19.922,-64.061" zoom="3" title="The expansion of peanut cultivation in China."> 
-<param ve-map-layer geojson active url="peanutdistributionmap.json" title="Distribution of Arachis hypogaea (yellow).">
-<param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
-	coords="-18.5,-64.061"
-	size="129, 170"
-	circle="true">
-	<param ve-entity eid="Q1015805" title="Changshu">
-<param ve-entity eid="Q15175" title="Guangdong">
-<param ve-entity eid="Q22502" title="Taiwan">
 {#paragraph11}
 
 ### Mass Consumption: Peanuts as American Staple       
