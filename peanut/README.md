@@ -136,30 +136,27 @@ The significance of the peanut vendor as the mediator in peanut consumption in C
 	title="The Peanut Vendor - Don Azpiazu (Antonio Machin, vocal), 1931, the78prof, YouTube.">
 {#paragraph19}
 
-Besides selling peanuts on streets and roadsides, vendors in late nineteenth-century U.S. also were working in other public spaces like circuses, zoos, theaters, and fairs. The ubiquitous presence of peanuts as entertainment food in circus spaces led to spectators feeding them to the animals, including elephants, as exemplified by this 1897 theatrical poster featuring a visitor offering the circus elephant a peanut.[^21] It is now understood that peanuts are not good for elephants as they require more fiber than protein in their diet.
+Besides selling peanuts on streets and roadsides, vendors in late nineteenth-century U.S. also were working in other public spaces like circuses, zoos, theaters, and fairs. Interestingly, the text [_Marketing Peanuts_,](https://www.biodiversitylibrary.org/item/190773#page/9/mode/1up) published in 1926 by the U.S. Department of Agriculture, prohibits the sale of shelled peanuts in public and amusement spaces in some cities to curb littering of peanut shells.[^21] While peanut shells were considered litter in public settings, the hull and broken peas left over from the industrial de-shelling process were used in the preparation of livestock feed, especially during years of low-quality crops or poor prices.
+<param ve-image primary label="Russell Lee, Filling bags with feed made from peanut shells and blackstrap molasses. Peanut-shelling plant. Comanche, Texas, 1939, Farm Security Administration, Library of Congress Prints and Photographs Division, Washington, D.C., no known restrictions on publication." fit="contain" url="https://cdn.loc.gov/service/pnp/fsa/8b23000/8b23300/8b23344v.jpg">
 <param ve-image label="Charles Frohman’s production, The Circus Girl, 1897, theatrical poster, Library of Congress Prints and Photographs Division, Washington, D.C., no known restrictions on publication." fit="contain" url="https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg">
 {#paragraph20}
-
-Interestingly, the text [_Marketing Peanuts_,](https://www.biodiversitylibrary.org/item/190773#page/9/mode/1up) published in 1926 by the U.S. Department of Agriculture, prohibits the sale of shelled peanuts in public and amusement spaces in some cities to curb littering of peanut shells.[^22] While peanut shells were considered litter in public settings, the hull and broken peas left over from the industrial de-shelling process were used in the preparation of livestock feed, especially during years of low-quality crops or poor prices.
-<param ve-image label="Russell Lee, Filling bags with feed made from peanut shells and blackstrap molasses. Peanut-shelling plant. Comanche, Texas, 1939, Farm Security Administration, Library of Congress Prints and Photographs Division, Washington, D.C., no known restrictions on publication." fit="contain" url="https://cdn.loc.gov/service/pnp/fsa/8b23000/8b23300/8b23344v.jpg">
-{#paragraph21}
        
 ### The Groundnut Scheme in East Africa
-Peanuts played a critical role in the British Empire, as well, as demonstrated by the <span eid="Q2392428">Tanganyika groundnut scheme</span>. In 1946, British businessmen and civil servants developed a plan to clear vast areas of vegetation in Tanganyika for establishing a groundnut monoculture. The aim was to produce enough peanuts to supply Britain, still under government-enforced World War II rationing, with cooking oil and improve food provisions in colonial territories. Historical and environmental geographer Martin Mahoney has [explained](http://www.environmentandsociety.org/arcadia/enemy-nature-military-machines-and-technological-bricolage-britains-great-agricultural) how officials repurposed military technologies to wage a “war” against nature.[^23] Because they failed to adequately consider environmental conditions, crops did not yield as expected and the British government abandoned the project in 1951.
+Peanuts played a critical role in the British Empire, as well, as demonstrated by the <span eid="Q2392428">Tanganyika groundnut scheme</span>. In 1946, British businessmen and civil servants developed a plan to clear vast areas of vegetation in Tanganyika for establishing a groundnut monoculture. The aim was to produce enough peanuts to supply Britain, still under government-enforced World War II rationing, with cooking oil and improve food provisions in colonial territories. Historical and environmental geographer Martin Mahoney has [explained](http://www.environmentandsociety.org/arcadia/enemy-nature-military-machines-and-technological-bricolage-britains-great-agricultural) how officials repurposed military technologies to wage a “war” against nature.[^22] Because they failed to adequately consider environmental conditions, crops did not yield as expected and the British government abandoned the project in 1951.
 <param ve-knightlab-timeline source="1_zJyS56CVfAHJQwZEpvq-1m9PX3dnCEnFyCtir5seaw&" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
 <param ve-entity eid="Q924" title="Tanzania">
 <param ve-entity eid="Q158725" title="Tanganyika Territory" aliases="Tanganyika">
 <param ve-entity eid="Q220212" title="monoculture">
-{#paragraph22}
+{#paragraph21}
               
 ### Multispecies Consumption: Insects, Fungi, Bacteria
-Humans, animals, and birds are not the only consumers of the peanut plant for its nutrients. According to texts on peanut cultivation for human consumption, insects, fungi, and bacteria feed on peanut foliage, subterranean parts, and pods.[^24] Indeed, insects like the <span eid="Q779383">Indian meal moth</span>, <span eid="Q2893450">almond moth</span>, <span eid="Q779905">sawtoothed grain beetle </span>, and <span eid="Q20165096">flour beetle</span> consume peanuts when they are in storage. This infestation by pests causes crop damage resulting in economic loss for producers.
+Humans, animals, and birds are not the only consumers of the peanut plant for its nutrients. According to texts on peanut cultivation for human consumption, insects, fungi, and bacteria feed on peanut foliage, subterranean parts, and pods.[^23] Indeed, insects like the <span eid="Q779383">Indian meal moth</span>, <span eid="Q2893450">almond moth</span>, <span eid="Q779905">sawtoothed grain beetle </span>, and <span eid="Q20165096">flour beetle</span> consume peanuts when they are in storage. This infestation by pests causes crop damage resulting in economic loss for producers.
 <param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/KatherineMEnright/Peanut/main/D3%20Ring%20Network%20Peanut.tsv"
        center="Arachis hypogaea">
-{#paragraph23}
+{#paragraph22}
 
-Bacteria and fungi also leave their unique markers of consumption: “...<span eid="Q4840003">bacterial wilt</span> in the East Indies, rosette in Africa, and <span eid="Q6508875">leaf spot</span> in the southern United States.”[^25] That said, the <span data-mouseover-image-zoomto="195,105,766,725">roots</span> of the peanut plant are also noted as the center for multi-species reciprocity, with <span eid="Q9164450">nitrogen-fixing bacteria</span> taking from and giving back to the soil. Even after harvesting the plant, the peanut shells are sometimes returned to the soil as fertilizer–to be, again, consumed by the soil.[^26]
+Bacteria and fungi also leave their unique markers of consumption: “...<span eid="Q4840003">bacterial wilt</span> in the East Indies, rosette in Africa, and <span eid="Q6508875">leaf spot</span> in the southern United States.”[^24] That said, the <span data-mouseover-image-zoomto="195,105,766,725">roots</span> of the peanut plant are also noted as the center for multi-species reciprocity, with <span eid="Q9164450">nitrogen-fixing bacteria</span> taking from and giving back to the soil. Even after harvesting the plant, the peanut shells are sometimes returned to the soil as fertilizer–to be, again, consumed by the soil.[^25]
 <param ve-image
        label="A Peanut Plant, illustration from The Encyclopedia of Food by Artemas Ward, 1923."
        description="A Peanut Plant, illustration from The Encyclopedia of Food by Artemas Ward; soil removed to show some of its ripe fruit, 1923."
@@ -167,12 +164,12 @@ Bacteria and fungi also leave their unique markers of consumption: “...<span e
        license="public domain, sourced from wikimedia commons"
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg/1280px-A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg">
-{#paragraph24}
+{#paragraph23}
 
 ### No Meager Legume
 Despite the use of the word [peanut](https://www.merriam-webster.com/dictionary/peanut) to denote a small or meager amount in the English language, we have seen over the course of this essay that the peanut has a rich global history that is intricately tied to histories of colonization. From luxury food to livestock feed, the social, cultural, and political life of this legume has taken on many incarnations. Yet its importance to humans and its ecosystems is hard to overstate. The peanut plant heals and replenishes soils and has therefore been cultivated as a global environmental intervention method to maintain soil health. Highly nutritious and protein-packed, it is beneficial to the many life-forms that consume it–including to humans in their varied culinary preparations.
 <param ve-image label="Arachis hypogaea, Fabaceae, Peanut, Groundnut, growing fruit stalk, Botanical Garden KIT, Karlsruhe, Germany, H. Zell, Wikimedia Commons, CC BY-SA 3.0." fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Arachis_hypogaea_006.JPG">
-{#paragraph25}
+{#paragraph24}
 
 ### References
 
@@ -196,9 +193,8 @@ Despite the use of the word [peanut](https://www.merriam-webster.com/dictionary/
 [^18]: Krampner, _Creamy and Crunchy_, 132–136.
 [^19]: Jori Lewis, _Slaves for Peanuts: A Story of Conquest, Liberation, and a Crop That Changed History_ (New York: New Press, 2022), 60–61.
 [^20]: Moisés Simons, “El Manisero” (The Peanut Vendor), 1931. YouTube. Accessed August 11, 2021. [https://www.youtube.com/watch?v=essMVyS1Om0](https://www.youtube.com/watch?v=essMVyS1Om0) 
-[^21]: Charles Frohman, “Charles Frohman’s Production, the Circus Girl,” The Library of Congress. Accessed August 6, 2021. [https://www.loc.gov/resource/var.0837/](https://www.loc.gov/resource/var.0837/)
-[^22]: Harold J. Clay and Paul M. Williams, *Marketing Peanuts* (Washington, D.C.: U.S. Dept. of Agriculture, 1926), 47, 74. [https://doi.org/10.5962/bhl.title.108735](https://doi.org/10.5962/bhl.title.108735)
-[^23]: Martin Mahony, “The Enemy Is Nature: Military Machines and Technological Bricolage in Britain’s ‘Great Agricultural Experiment,’” Environment & Society Portal, _Arcadia_ (Spring 2021), no. 11, Rachel Carson Center for Environment and Society. [doi:10.5282/rcc/9191](https://www.environmentandsociety.org/arcadia/enemy-nature-military-machines-and-technological-bricolage-britains-great-agricultural)
-[^24]: Frank Selman Arant, et al., *The Peanut: The Unpredictable Legume; A Symposium.* (Washington, D.C.: National Fertilizer Association, 1951). [https://doi.org/10.5962/bhl.title.57505](https://doi.org/10.5962/bhl.title.57505)
-[^25]: Arant, *The Peanut*.
-[^26]: Ralph Augustus Waldron, *The Peanut (Arachis hypogea)–Its history, histology, physiology, and utility* (Philadelphia, 1918), 331, 334. [https://doi.org/10.5962/bhl.title.43671](https://doi.org/10.5962/bhl.title.43671)
+[^21]: Harold J. Clay and Paul M. Williams, *Marketing Peanuts* (Washington, D.C.: U.S. Dept. of Agriculture, 1926), 47, 74. [https://doi.org/10.5962/bhl.title.108735](https://doi.org/10.5962/bhl.title.108735)
+[^22]: Martin Mahony, “The Enemy Is Nature: Military Machines and Technological Bricolage in Britain’s ‘Great Agricultural Experiment,’” Environment & Society Portal, _Arcadia_ (Spring 2021), no. 11, Rachel Carson Center for Environment and Society. [doi:10.5282/rcc/9191](https://www.environmentandsociety.org/arcadia/enemy-nature-military-machines-and-technological-bricolage-britains-great-agricultural)
+[^23]: Frank Selman Arant, et al., *The Peanut: The Unpredictable Legume; A Symposium.* (Washington, D.C.: National Fertilizer Association, 1951). [https://doi.org/10.5962/bhl.title.57505](https://doi.org/10.5962/bhl.title.57505)
+[^24]: Arant, *The Peanut*.
+[^25]: Ralph Augustus Waldron, *The Peanut (Arachis hypogea)–Its history, histology, physiology, and utility* (Philadelphia, 1918), 331, 334. [https://doi.org/10.5962/bhl.title.43671](https://doi.org/10.5962/bhl.title.43671)
