@@ -4,7 +4,7 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "TEST",
+        "value": "This ad for Beech-Nut peanut butter was published in St. Nicholas Magazine. The popular children’s monthly contained stories, images, and puzzles for readers of different ages. It was the perfect magazine for running an ad for the kid-friendly food.",
         "purpose": "commenting"
       }
     ],
@@ -24,7 +24,7 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "TEST",
+        "value": "In this ad, the artist depicts a young boy who spreads peanut butter on a piece of white bread. Its portrayal of the boy aligned the spread with a white racial identity then synonymous with Americanness. As if to ask, what’s more American than peanut butter?",
         "purpose": "commenting"
       }
     ],
