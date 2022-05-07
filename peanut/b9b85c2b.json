@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Test",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:6.317876815795898,6.78145694732666,651.0198917388916,1010.4371099472046"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#97cec8ba-9aca-4b93-82db-6c56cea1a236"
+  }
+]
