@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#498a617c-fc80-48a1-bfaf-33546245fdcd"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The news story promoted the idea that the illustration reproduced a real scene. Yet it presents a constructed image of Black people in the South that recycled visual stereotypes popularized during slavery.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/4066289f7c2a83d4ac667961ecfe03da03e585a019f125d2b0ab91485efe4f09",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:187.94024658203125,463.1309509277344,699.0037841796875,818.1545715332031"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#80eceece-163b-46c6-acdd-93ca64257b97"
   }
 ]
