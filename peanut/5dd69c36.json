@@ -4,7 +4,7 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "This illustration showing a peanut vendor was published in Harper's Weekly. It accompanied a domestic news story about the consumption of peanuts in the U.S.",
+        "value": "This illustration showing a peanut vendor was published in Harper's Weekly. It accompanied a domestic news story about the sale and consumption of peanuts in the U.S.",
         "purpose": "commenting"
       }
     ],
@@ -24,7 +24,7 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "The news story promoted the idea that the illustration reproduced a real scene. Yet it presents a constructed image of Black people in the South that recycled visual stereotypes popularized during slavery.",
+        "value": "The news story promoted the idea that the illustration reproduced a real scene. Yet it presented a constructed image of Black people in the South, recycling stereotypes popularized during slavery.",
         "purpose": "commenting"
       }
     ],
