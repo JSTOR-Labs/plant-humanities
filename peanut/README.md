@@ -156,19 +156,10 @@ Humans and birds are not the only consumers of the peanut plant for its nutrient
        center="Arachis hypogaea">
 {#paragraph22}
 
-Bacteria and fungi also leave their unique markers of consumption: “...<span eid="Q4840003">bacterial wilt</span> in the East Indies, rosette in Africa, and <span eid="Q6508875">leaf spot</span> in the southern United States.”[^26] That said, the <span data-mouseover-image-zoomto="195,105,766,725">roots</span> of the peanut plant are also noted as the center for multi-species reciprocity, with <span eid="Q9164450">nitrogen-fixing bacteria</span> taking from and giving back to the soil. Even after harvesting the plant, the peanut shells are sometimes returned to the soil as fertilizer–to be, again, consumed by the soil.[^27]
-<param ve-image
-       label="A Peanut Plant, illustration from The Encyclopedia of Food by Artemas Ward, 1923."
-       description="A Peanut Plant, illustration from The Encyclopedia of Food by Artemas Ward; soil removed to show some of its ripe fruit, 1923."
-       attribution="Artemas Ward, Public domain, via Wikimedia Commons."
-       license="public domain, sourced from wikimedia commons"
-       fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg/1280px-A_Peanut_Plant%2C_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward_01.jpg">
-{#paragraph23}
-
 ### No Meager Legume
 Despite the use of the word [peanut](https://www.merriam-webster.com/dictionary/peanut) to denote a small or meager amount in the English language, we have seen over the course of this essay that the peanut has a rich history that is intricately tied to histories of global trade, slavery, and colonization. From luxury food to livestock feed, the social, cultural, and economic life of this legume has taken on many incarnations. Yet its importance to humans and its ecosystems is hard to overstate. The peanut plant heals and replenishes soils and has therefore been cultivated as a global environmental intervention method to maintain soil health. Highly nutritious and protein-packed, it is beneficial to the many life-forms that consume it–including to humans in their varied culinary preparations.
-<param ve-image label="Arachis hypogaea, Fabaceae, Peanut, Groundnut, growing fruit stalk, Botanical Garden KIT, Karlsruhe, Germany, H. Zell, Wikimedia Commons, CC BY-SA 3.0." fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Arachis_hypogaea_006.JPG">
+<param ve-compare synch label="A Peanut Plant, published in Artemas Ward, The Encyclopedia of Food, New York, Artemas Ward, 1923, MIT Libraries via Internet Archive, public domain." rotate="90" url="https://ia800707.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/encyclopediaoffo00ward/encyclopediaoffo00ward_jp2.zip&file=encyclopediaoffo00ward_jp2/encyclopediaoffo00ward_0523.jp2&id=encyclopediaoffo00ward&scale=2&rotate=0">
+<param ve-compare label="Arachis hypogaea, Fabaceae, Peanut, Groundnut, growing fruit stalk, Botanical Garden KIT, Karlsruhe, Germany, H. Zell, Wikimedia Commons, CC BY-SA 3.0." fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/b/b2/Arachis_hypogaea_006.JPG">
 {#paragraph24}
 
 ### References
@@ -198,5 +189,4 @@ Despite the use of the word [peanut](https://www.merriam-webster.com/dictionary/
 [^23]: Harold J. Clay and Paul M. Williams, *Marketing Peanuts* (Washington, D.C.: U.S. Dept. of Agriculture, 1926), 47, 74. [https://doi.org/10.5962/bhl.title.108735](https://doi.org/10.5962/bhl.title.108735)
 [^24]: Martin Mahony, “The Enemy Is Nature: Military Machines and Technological Bricolage in Britain’s ‘Great Agricultural Experiment,’” Environment & Society Portal, _Arcadia_ (Spring 2021), no. 11, Rachel Carson Center for Environment and Society. [doi:10.5282/rcc/9191](https://www.environmentandsociety.org/arcadia/enemy-nature-military-machines-and-technological-bricolage-britains-great-agricultural)
 [^25]: Frank Selman Arant, et al., *The Peanut: The Unpredictable Legume; A Symposium.* (Washington, D.C.: National Fertilizer Association, 1951). [https://doi.org/10.5962/bhl.title.57505](https://doi.org/10.5962/bhl.title.57505)
-[^26]: Arant, *The Peanut*.
-[^27]: Ralph Augustus Waldron, *The Peanut (Arachis hypogea)–Its history, histology, physiology, and utility* (Philadelphia, 1918), 331, 334. [https://doi.org/10.5962/bhl.title.43671](https://doi.org/10.5962/bhl.title.43671)
+
