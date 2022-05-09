@@ -78,7 +78,7 @@ The Spanish first encountered peanuts in the late fifteenth century on <span eid
 {#paragraph9}
 	
 The first mention of peanuts in a Chinese text dates to 1503, a mere decade after Christopher Columbus’ “discovery” of the Americas. The manuscript describes boiled or cooked peanuts as “delicious” and gives the origin of its Chinese name 落花生 _luo hua sheng_ (commonly now just 花生 _hua sheng_), literally “born from a fallen flower,” which references how the peanut fruits below ground.[^12] Historical records related to <span eid="Q1015805">Changshu county</span> indicate that peanuts were cultivated there as early as 1538.[^13] Cultivation expanded to <span data-mouseover-map-flyto="23.17, 113.27, 5">Guangdong</span> by the seventeenth century and in the following century, to the Guangdong delta and Taiwan.
-<param ve-map basemap="Esri_WorldPhysical" center="24.187, 89.046" zoom="3" title="Spread of peanuts in the lands claimed by the Spanish (blue) and Portuguese (red) Empires around 1600. This largely happened via the main trade routes of each empire, also shown here."> 
+<param ve-map basemap="Esri_WorldPhysical" center="24.187, 89.046" zoom="3" title="Spread of peanuts to China."> 
 <param ve-map-layer geojson active url="traderoutesmap.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Texture_d%27arachide_au_B%C3%A9nin_01.jpg"
 	coords="23.17, 113.27"
