@@ -111,7 +111,7 @@ A [1916 Tuskegee Institute report](https://archive.org/details/CAT31355406/page/
 {#paragraph15}
            
 ### Peanut Butter: A Distinctly North American Foodstuff
-Peanut production in the U.S. increased with the advent of peanut butter.[^19] While George Washington Carver is sometimes credited with the invention of peanut butter, U.S. patents for “peanut paste” and “nut butter” began to appear in the late nineteenth century. They included recipes calling for roasting and shelling the peanuts, and then grinding the nuts until they congeal into a paste, with salt and oil as optional additions. At first a tea-time delicacy, peanut butter was marketed as a protein-packed meat replacement during the food rationing of World War I, and its utility as a cheap energy source made it ubiquitous during the Great Depression.
+Peanut production in the U.S. increased with the advent of peanut butter in North America.[^19] While George Washington Carver is sometimes credited with the invention of peanut butter, U.S. patents for “peanut paste” and “nut butter” began to appear in the late nineteenth century. They included recipes calling for roasting and shelling the peanuts, and then grinding the nuts until they congeal into a paste, with salt and oil as optional additions. At first a tea-time delicacy, peanut butter was marketed as a protein-packed meat replacement during the food rationing of World War I, and its utility as a cheap energy source made it ubiquitous during the Great Depression.
 <param ve-knightlab-timeline source="1T9E8QZRT7ZFFmb55uLpJUSnELKuqSsXlLmNuVXvOC_I" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
 <param ve-entity eid="Q8698" title="Great Depression">
 <param ve-entity eid="Q361" title="World War I">
