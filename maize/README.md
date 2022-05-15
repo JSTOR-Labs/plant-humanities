@@ -9,11 +9,11 @@
   
 The year was 2014, and many Guatemalans were incensed. With a population of 14 million, approximately 120,000 took to the streets. Protesters blocked traffic along the Pan American Highway and other major roadways to voice their opposition to the “Law for the Protection of New Plant Varieties,” or, as it was popularly known, the “Monsanto Law.” The law “outlawed the replanting, transportation, or selling of privatized seeds without permission, and made these actions punishable by one to four years in jail and a fine of 1,000 to 10,000 quetzals (US$130 to $1,300).”[^ref1]
 <param ve-map title="During the 2014 protests against Monsanto’s Law, protestors in Guatemala blocked traffic along this major roadway." center="15.0981244, -90.316436" zoom="7">
-<param ve-map-layer geojson active title="The Pan-American Highway in Guatemala" url="/geojson/roadguatemala2.json">
-<param title="Monsanto" eid="Q207983" aliases="“Monsanto"> 
+<param ve-map-layer geojson active title="The Pan-American Highway in Guatemala." url="/geojson/roadguatemala2.json">
+<param title="Monsanto" eid="Q207983" aliases="“Monsanto">
 {#paragraph1}
 
-While the law sought to regulate the use of particular maize seeds engineered by Monsanto, a major agrochemical corporation, to withstand the company’s glyphosate-based herbicide, Roundup, the Guatemalan public saw several problems with this protection for privatized seeds/genetically modified seeds subject to a patent or copyright. This included anticipating that the law would increase farmer dependence on big agribusiness. Opposition to the law swelled, bringing together, according to Liza Grandia, associate professor of Native American Studies at UC Davis, a motley crew of protestors, including “peasant federations, health workers, biologists, Maya spiritual leaders, environmentalists, Pentecostals who regard Monsanto as an anti-Christ, opportunistic politicians, college students, and even Guatemala City foodies.”[^ref2]
+While the law sought to regulate the use of particular maize seeds engineered by Monsanto, a major agrochemical corporation, to withstand the company’s <span eid="Q60741370">glyphosate-based herbicide</span>, <span eid="Q905161">Roundup</span>, the Guatemalan public saw several problems with this protection for privatized seeds/<span eid="Q182726">genetically modified</span> seeds subject to a patent or copyright. This included anticipating that the law would increase farmer dependence on big agribusiness. Opposition to the law swelled, bringing together, according to Liza Grandia, associate professor of Native American Studies at UC Davis, a motley crew of protestors, including “peasant federations, health workers, biologists, Maya spiritual leaders, environmentalists, Pentecostals who regard Monsanto as an anti-Christ, opportunistic politicians, college students, and even Guatemala City foodies.”[^ref2]
 <param ve-image
        label="Protests against Monsanto in Guatemala, 2014. The text on the sign translates to: ‘I don’t want transgenics on the field nor my plate.’ Cristina Chiquin, Mujeres Ixchel, public domain."
        fit="contain"
@@ -26,24 +26,19 @@ While the law sought to regulate the use of particular maize seeds engineered by
        label="Protests against Monsanto in Guatemala, 2014. Cristina Chiquin, Mujeres Ixchel, public domain."
        fit="contain"
        url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2271.jpg">
-<param title="Roundup" eid="Q905161">
-<param title="GMO" eid="Q182726" aliases="genetically modified"> 
-<param title="Glysophate-based herbicides" eid="Q60741370" aliases="glyphosate-based herbicide"> 
 <param title="Zea mays" eid="Q11575" aliases="maize"> 
 {#paragraph2}
 
 Why did this new policy about maize inspire such strong reactions? Since its domestication over 9,000 years ago, achieve through the ingenuity and acumen of Mesoamerican communities, maize has provided necessary sustenance. In turn, these communities constructed their societies, cosmologies, and cultures around the plant. The Monsanto Law would dissolve this sacred symbiosis between local communities and maize. The history of maize thus demonstrates the complexities of human relationships to plants, which resist categorization solely as units to be bought, sold, or patented under capitalism. 
 <param title="domestication" eid="Q905161">
-<param ve-compare region="full" url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Young_Corn_God_MET_DT9946.jpg/640px-Young_Corn_God_MET_DT9946.jpg">
-<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Neuch%C3%A2tel_Herbarium_-_Zea_mays_-_NEU000092649.jpg">
+<param ve-compare label="Whistle with the Maize God emerging from a flower, 600–900 CE, Mexico, Mesoamerica, Maya, ceramic, pigment, 20.7 x 5.1 x 3.8 cm, The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979, Metropolitan Museum of Art, public domain." region="full" url="https://images.metmuseum.org/CRDImages/ao/original/DT9946.jpg">
+<param ve-compare label="Dried pressed specimen of Zea mays, Université de Neuchâtel. Neuchâtel Herbarium via Wikimedia Commons, CC BY-SA 3.0." url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Neuch%C3%A2tel_Herbarium_-_Zea_mays_-_NEU000092649.jpg">
 {#paragraph3}
 
 ### A Kernel of Science
 What is maize? How did it develop? These questions may seem simple, particularly given the ubiquity of corn-based products, but the large body of scholarship on the crop shows the answers to be anything but straightforward. Maize, in taxonomic parlance _Zea mays L._, is a cereal grain consisting of a <span data-click-image-zoomto="663,1166,773,707">stalk</span>, <span data-click-image-zoomto="712,400,773,707">tassels of pollen</span>, and <span data-click-image-zoomto="298,745,773,707">ears filled with cobs of kernels</span> (averaging 800 kernels spread across 16 rows).
 <param ve-image
-       label="John Audobon, Common Purple Crow-Blackbird, 1. Male 2. Female (Maize or Indian Corn. [Zea Mays]), 1842."
-       attribution="Wikimedia Commons"
-       license="public domain"
+       label="John Audobon, Common Purple Crow-Blackbird, 1. Male 2. Female (Maize or Indian Corn. [Zea Mays]), 1842. Londonjackbooks via Wikimedia Commons, public domain"
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Purple_Grackle_or_Common_Crow_Blackbird_%28Audubon%29.jpg">
 <param title="Zea mays" eid="Q11575">
