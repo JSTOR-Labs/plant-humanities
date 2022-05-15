@@ -9,28 +9,22 @@
 
   
 The year was 2014, and many Guatemalans were incensed. In a country with a population of 14 million, approximately 120,000 took to the streets. Protesters blocked traffic along the Pan American Highway and other major roadways to voice their opposition to the “Law for the Protection of New Plant Varieties", or, as it was popularly known, the “Monsanto Law.” The law “outlawed the replanting, transportation, or selling of privatized seeds without permission, and made these actions punishable by one to four years in jail and a fine of 1,000 to 10,000 quetzals (130 to 1,300 US dollars).” [^ref2]
-<param ve-map title="During the 2014 protests against Monsanto's Law, protestors in Guatemala blocked traffic along this major roadway" center="15.0981244, -90.316436" zoom="7">
+<param ve-map title="During the 2014 protests against Monsanto’s Law, protestors in Guatemala blocked traffic along this major roadway." center="15.0981244, -90.316436" zoom="7">
 <param ve-map-layer geojson active title="The Pan-American Highway in Guatemala" url="/geojson/roadguatemala2.json">
 <param title="Monsanto" eid="Q207983" aliases="“Monsanto"> 
 {#paragraph1}
 
 The Guatemalan public foresaw several problems with this protection for privatized seeds, or genetically modified seeds subject to a patent or copyright. The law sought to regulate the use of specific maize seeds, engineered by Monsanto to withstand Roundup, a glyphosate-based herbicide. By outlawing the replanting of these seeds, the law increased farmer dependence on big agribusiness. In response, opposition to the law swelled, bringing together a motley crew of protestors, including “peasant federations, health workers, biologists, Maya spiritual leaders, environmentalists, Pentecostals who regard Monsanto as an anti-Christ, opportunistic politicians, college students, and even Guatemala City foodies.”[^ref3]
 <param ve-image
-       label="Protests against Monsanto in Guatemala, 2014. The sign translates to: 'I don't want transgenics on the field nor my plate.'"
-       attribution="Cristina Chiquin, Mujeres Ixchel"
-       license="public domain"
+       label="Protests against Monsanto in Guatemala, 2014. The text on the sign translates to: ‘I don’t want transgenics on the field nor my plate.’ Cristina Chiquin, Mujeres Ixchel, public domain."
        fit="contain"
        url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2323.jpg">
 <param ve-image
-       label="Protests against Monsanto in Guatemala, 2014"
-       attribution="Cristina Chiquin, Mujeres Ixchel"
-       license="public domain"
+       label="Protests against Monsanto in Guatemala, 2014. Cristina Chiquin, Mujeres Ixchel, public domain."
        fit="contain"
        url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2204.jpg">
 <param ve-image
-       label="Protests against Monsanto in Guatemala, 2014"
-       attribution="Cristina Chiquin, Mujeres Ixchel"
-       license="public domain"
+       label="Protests against Monsanto in Guatemala, 2014. Cristina Chiquin, Mujeres Ixchel, public domain."
        fit="contain"
        url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2271.jpg">
 <param title="Roundup" eid="Q905161">
@@ -91,19 +85,17 @@ By 7000 years [BP,](https://www.archaeological.org/programs/educators/introducti
 In addition domesticating maize by selecting for attractive characteristics such as cob size, and dispersing it throughout South America and back towards Central America, humans worked to cultivate maize, which could not have survived if left to its own devices. Wild teosinte is very fragile, and its pod can be shattered by the wind. By contrast, maize relies on humans to disperse its seeds.  The scientific history of maize thus reveals the central and active role early Mesoamericans played in its domestication through conscious decisions in the cultivation processes.
 <param title="indigenous peoples of Central America" eid="Q13109203" aliases="Mesoamericans"> 
 <param ve-image
-       label="Some European imperial sources contain descriptions of Indigenous understandings surrounding maize. In the Florentine Codex, written by a 16th-century Spanish Franciscan friar, we see images of how Nahua farmers cultivated maize using a wooden tool for digging."
-       attribution="Wikimedia Commons"
-       license="public domain"
+       label="Some European imperial sources contain descriptions of Indigenous understandings surrounding maize. In the _Florentine Codex_, written by Bernardino de Sahagún, a sixteenth-century Spanish Franciscan friar, we see images of how Nahua farmers cultivated maize using a wooden tool for digging. Wikimedia Commons, public domain."
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_Florentine_Codex-_Agriculture.tiff/lossy-page1-788px-The_Florentine_Codex-_Agriculture.tiff.jpg">
 <param ve-image
-       label="The Cruz-Badiano Codex is another important source of Mesoamerican herbal knowledge. Written most likely in Nahuatl by an 'Indian doctor' and translated into Latin, it preserves a number of Indigenous names for crops. Many scholars have shown how the Indigenous names for various flowers and crops refers to its physical similarities to maize. For more, see Arthur O. Tucker and Jules Janick, Flora of the Codex Cruz-Badianus (Cham: Springer International Publishing, 2020)."
+       label="The _Cruz-Badiano Codex_ is another important source of Mesoamerican herbal knowledge. Written most likely in Nahuatl by an “Indian doctor” and translated into Latin, it preserves several Indigenous names for crops. Many scholars have shown how the Indigenous names for various flowers and crops refers to their physical similarities to maize. For more, see Arthur O. Tucker and Jules Janick, _Flora of the Codex Cruz-Badianus_ (Cham, Switzerland: Springer International Publishing, 2020)."
        attribution="Dumbarton Oaks"
        license="public domain"
        fit="contain"
        url="https://www.doaks.org/resources/online-exhibits/epidemics/mesoamerican-herbals/health-and-commerce/@@images/image"> 
 <param ve-image
-       label="Francisco Hernández was a Spanish physician who went on the first scientific expedition from Europe to the Americas in 1570. He spent four years researching how the Nahua people used plants, including maize. Here, Hernández writes that maize is 'exceedingly beneficial to the healthy and sick alike; it is easy to cultivate, it grows abundantly and without any risk almost anywhere it is planted, and it is hardly susceptible to damage from drought and the rigors of climate.' For more, see: Felipe Ledesma-Núñez, 'Colonial Epidemics and Mesoamerican Medicine in Sixteenth-Century Mexico,' Exhibit (Washington DC: Dumbarton Oaks), https://www.doaks.org/resources/online-exhibits/epidemics."
+       label="Francisco Hernández was a Spanish physician who went on the first scientific expedition from Europe to the Americas in 1570. He spent four years researching how the Nahua people used plants, including maize. Here, Hernández writes that maize is “exceedingly beneficial to the healthy and sick alike; it is easy to cultivate, it grows abundantly and without any risk almost anywhere it is planted, and it is hardly susceptible to damage from drought and the rigors of climate.” For more, see: Felipe Ledesma-Núñez, “Colonial Epidemics and Mesoamerican Medicine in Sixteenth-Century Mexico,” Exhibit (Washington, DC: Dumbarton Oaks). https://www.doaks.org/resources/online-exhibits/epidemics"
        attribution="Hathi Trust"
        license="public domain"
        fit="contain"
@@ -119,7 +111,7 @@ After its domestication, maize quickly became an important crop for Mesoamerican
 <param title="isotope analysis" eid="Q518459"> 
 <<param title="Maya maize god" eid="Q12744013" aliases="Maize God"> 
 <param ve-image
-       label="Illustration of Milpa agriculture. In this intercropping method, Maya farmers rotate annual crops with shorter-term perennial crops. Further, under this system, land is left fallow for eight years following two years of cultivation, in order to improve the regrowth of vegetation and maintain soil health."
+       label="Illustration of Milpa agriculture. In this intercropping method, Maya farmers rotate annual crops with shorter-term perennial crops. In addition, land is left fallow for eight years following two years of cultivation to improve the regrowth of vegetation and maintain soil health."
        attribution="Wikimedia Commons"
        license="public domain"
        fit="cover"
@@ -133,7 +125,7 @@ In order to obtain the utmost nutrients from maize, people in Mesoamerica practi
 <param title="metate" eid="Q1854307">
 <param title="chicha" eid="Q516592">
 <param ve-image
-       label="The process of nixtamalizing corn using a metate, as represented in the Códice Mendoza (1540)"
+       label="The process of nixtamalizing corn using a metate, as represented in the _Códice Mendoza_ (1540)"
        attribution="Wikimedia Commons"
        license="public domain"
        region="3530,4341,1787,1476" seq="129" manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json">
@@ -186,8 +178,8 @@ While early conquistadors disparaged maize, from the nineteenth century onwards,
  
 Bolstered in part by this racialized understanding of maize, scientists around the world began to breed maize for preferred traits, namely, quick growth and high productivity. By the 1940s, the Rockefeller Foundation began to partner with the Mexican government to increase production rates of certain staple crops, including maize. These attempts to turn maize into a scientific commodity attracted both local and global concern: one American geographer noted that this endeavor proffered the potential “disastrous destruction of local genes.... Mexican agriculture cannot be pointed toward standardization on a few commercial types without upsetting native economy and culture hopelessly.”[^ref31] As one Mexican scientist detailed, some communities refused to sell types of maize used in rituals, no matter what price was offered.[^ref32]
 <param title="Rockefeller Foundation" eid="Q862034"> 
-<param ve-map title="Distribution of different landraces of maize in Mexico. While most blocks represent one landrace, some blocks contain up to 14 landraces in that geographical area. Data courtesy of: Conabi, (2011). 'Distribución de maíces nativos y número de razas registradas por celda (1940 - 1965)', escala: 1:250000. Comisión Nacional para el Conocimento y Uso de la Biodiversidad. México, D.F." center="23.65685514061077, -102.1484537950851" zoom="5">
-<param ve-map-layer geojson active title="Distribution of different landraces of maize in Mexico. While most blocks represent one landrace, some blocks contain up to 14 landraces in that geographical area. Data courtesy of: Conabi, (2011). 'Distribución de maíces nativos y número de razas registradas por celda (1940 - 1965)', escala: 1:250000. Comisión Nacional para el Conocimento y Uso de la Biodiversidad. México, D.F." url="/geojson/landraces.json">
+<param ve-map title="Distribution of different landraces of maize in Mexico. While most blocks represent one landrace, some blocks contain up to 14 landraces in that geographical area. Data courtesy of: Conabi, (2011). ‘Distribución de maíces nativos y número de razas registradas por celda (1940 - 1965)’, escala: 1:250000. Comisión Nacional para el Conocimento y Uso de la Biodiversidad. México, D.F." center="23.65685514061077, -102.1484537950851" zoom="5">
+<param ve-map-layer geojson active title="Distribution of different landraces of maize in Mexico. While most blocks represent one landrace, some blocks contain up to 14 landraces in that geographical area. Data courtesy of: Conabi, (2011). ‘Distribución de maíces nativos y número de razas registradas por celda (1940 - 1965)’, escala: 1:250000. Comisión Nacional para el Conocimento y Uso de la Biodiversidad. México, D.F." url="/geojson/landraces.json">
 {#paragraph13}
 
 These examples illuminate the resistance of communities in Central and South America to the commodification of maize. Maize even became a symbol of Central American cultural and political independence. In the 1980s, US President Ronald Reagan prohibited trade with Nicaragua in an attempt to erode the power of the Sandinistas, a left-wing political group. What this meant in practical terms was that Nicaragua was unable to obtain a sufficient supply of wheat, usually imported from the United States. In response, Nicaraguan artist Luis Enrique Mejía Godoy released a song titled “Somos Hijos Del Maiz,” or, “We Are the Children of Corn,” to rally support for the Sandinistas and resist American political influence. The song begins with the lyrics (in translation) “If they take away our bread/We will see ourselves in the obligation/ to survive as our grandparents did/ with fermented corn / in the blood of the heroes.” Here, the sanctity of maize became a way to express independence from colonial and neo-colonial powers.
@@ -207,8 +199,8 @@ Maize’s cultural, political, and economic significance persists in Central Ame
 As a result of the same forces of globalization and industrialization, threats to maize diversity are more acute than ever. Since the 1940s, scientists have warned that “the whole genetic pattern of Zea mays... has been catastrophically overhauled.”[^ref34] The reduction of maize’s genetic diversity has been exacerbated since the 1990s: in that decade, the major agrochemical corporation Monsanto began to produce transgenic maize products that were resistant to glyphosate, an herbicide discovered, developed, and patented by Monsanto. Further, in 1994, the passage of NAFTA meant that US maize could be sold at incredibly cheap rates in Mexico. “The sheer amount of contamination from a very homogenous source drives diverse populations into narrow genetic backgrounds,” argued Ignacio Chapela, an ecologist at UC Berkeley.[^ref35] 
 <param title="North American Free Trade Agreement" eid="Q181574" aliases="NAFTA">
 <param title="Glysophate-based herbicides" eid="Q60741370" aliases="glyphosate"> 	
-<param ve-map title="Map showing the area of genetically engineered maize cultivated in various countries. Light yellow means  <9,999 ha, dark yellow means 10,000-99,999 ha, orange means 1000,000-999,999 ha, light green means 1,000,000-9,999,999 ha, dark green means > 10,0000,000 ha. Source: https://doi.org/10.1038/s41598-018-21284-2" center="44.747810952859204, -13.410236017649687" zoom="2">
-<param ve-map-layer geojson active title="Map showing the area of genetically engineered maize cultivated in various countries. Light yellow means  <9,999 ha, dark yellow means 10,000-99,999 ha, orange means 1000,000-999,999 ha, light green means 1,000,000-9,999,999 ha, dark green means > 10,0000,000 ha. Source: https://doi.org/10.1038/s41598-018-21284-2" url="/geojson/maizegmo.json">
+<param ve-map title="Map showing the area of genetically engineered maize cultivated in various countries. Light yellow means <9,999 ha, dark yellow means 10,000-99,999 ha, orange means 1000,000-999,999 ha, light green means 1,000,000-9,999,999 ha, dark green means > 10,0000,000 ha. Source: https://doi.org/10.1038/s41598-018-21284-2" center="44.747810952859204, -13.410236017649687" zoom="2">
+<param ve-map-layer geojson active title="Map showing the area of genetically engineered maize cultivated in various countries. Light yellow means <9,999 ha, dark yellow means 10,000-99,999 ha, orange means 1000,000-999,999 ha, light green means 1,000,000-9,999,999 ha, dark green means > 10,0000,000 ha. Source: https://doi.org/10.1038/s41598-018-21284-2" url="/geojson/maizegmo.json">
 {#paragraph16}       
 
 This contamination has alarmed scientists, farmers, and activists around the world for a variety of reasons. Zapatistas fighting for autonomy in Mexico argued that transgenic industrial maize threatened to “overwhelm” local varieties and thereby make Central American economies reliant on US corporations. Since the 1970s, agronomists around the world have been concerned about the potential loss of crop diversity and the catastrophic consequences for global food security. And local farmers and community members worry about relying on global agribusiness for their main source of sustenance, as well as the potential disruption to their moral economies and local cosmologies.[^ref36]
