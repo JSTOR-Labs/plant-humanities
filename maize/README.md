@@ -47,22 +47,20 @@ What is maize? How did it develop? These questions may seem simple, particularly
 The reliance of many human societies on maize, the “[most dominant and productive crop”](https://futureoffood.org/insights/the-global-importance-of-maize-diversity/#:~:text=As%20the%20world's%20most%20dominant,%2C%20sweeteners%2C%20starch%2C%20and%20for) for their survival, is well known. Less understood is the plant’s reliance on humans for its survival. Maize most likely was domesticated from teosinte, a grass with tassels and several small-clustered ears. However, there are clear differences between modern-day maize and teosinte: while tesonite is made up of 6–12 kernels held in two rows surrounded by a protective shell, maize proffers a cob with approximately 20 rows of kernels without a hard outer shell.[^ref3] These differences are so profound that, as [one article in _PNAS_](https://doi.org/10.1073/pnas.0901122106) notes, “19th-century botanists failed to recognize the close relationship between these plants, placing teosinte in its own genus, [_Euchlaena_.](https://www.ipni.org/n/18060-1)” Present-day scholars have shown that maize was domesticated from teosinte through humans selecting for a larger ear size and more kernels.
 <param title="Teosinte" eid="Q7701197" aliases="teosinte"> 
 <param ve-image
-       label="Comparison between Maize and Teosinte"
-       attribution="Nicolle Rager Fuller, National Science Foundation"
-       license="public domain"
+       label="Comparison between Maize and Teosinte, Nicolle Rager Fuller, National Science Foundation, public domain."
        fit="contain"
        url="https://nsf.gov/news/mmg/media/images/maize1_h.jpg">
 {#paragraph5}
 
 Indigenous groups in what is now southwestern Mexico played a major role in the domestication process and subsequent plant transfer. Recent phylogenetic analysis has shown that maize most likely arose from a single domestication event, which probably occurred in the Rio Balsas (Balsas River) Valley around 9,000 years ago.[^ref4] Agrobiodiversity researchers have noted that “much of the evolution of maize during domestication may have been gradual, and there is evidence of increases in cob size over the first 2,000 years of selection.”[^ref5] An incredible diversity in terms of types of maize occurred after its initial domestication. Many scholars describe maize as a “mirror” to its cultivators, and different Indigenous groups domesticated and cultivated various types of maize depending on “environmental and also [on] social and cultural factors,” suggesting the role communities played in developing different types of maize most suited to their needs.[^ref6]
 <param title="phylogenetics" eid="Q171184" aliases="phylogenetic analysis"> 
-<param ve-map title="The Origin of Maize" center="17.944277, -100.514509" zoom="6">
-<param ve-map-layer geojson active title="The Origin of Maize" url="/geojson/BalsasRiver.json">
+<param ve-map title="The Origin of Maize." center="17.944277, -100.514509" zoom="6">
+<param ve-map-layer geojson active title="The Origin of Maize." url="/geojson/BalsasRiver.json">
 {#paragraph6}
 
 By 7,000 years [BP,](https://www.archaeological.org/programs/educators/introduction-to-archaeology/glossary/#b) humans had dispersed maize from the Rio Balsas region into South America as a partial domesticate, though, as scholars have noted, there were “multiple waves of dispersal” of maize into South America. There, the crop underwent “secondary improvement in the southwestern Amazon before diversifying across the continent. Humans then dispersed this domesticated vareity back into Central America and to the north, demonstrating the "clear evidence of two-way movements of plants and people lasting millennia between Central and South America.”[^ref7] Maize is therefore a notable example of the mobility of plants in relation to humans. 
 <param ve-map
-	title="Approximate timing and location of maize domestication"
+	title="Approximate timing and location of maize domestication."
 	center="12.684407961343284, -76.70109703556372"
 	zoom="3"
 	time-dimension
