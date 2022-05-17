@@ -45,7 +45,7 @@ Mestizo chronicler Inca Garcilaso de la Vega (1539–1616) documented the presen
 <param ve-entity eid="Q5218" title="Quechua">
 {#paragraph5}
 
-Peanuts gradually spread from Peru to <span eid="Q13703">Mesoamerica</span> via trade networks, reaching the Aztec capital of Tenochtitlan by the 1500s. In Tenochtitlan, the location of present-day <span data-mouseover-map-flyto="19.433333, -99.133333,6">Mexico City</span>, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ ([cacao](https://lab.plant-humanities.org/cacao/)), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_. This suggests that <span eid="Q13300">Nahuatl</span>-speaking people may have been the first humans to combine these two now-ubiquitous flavors.[^7]
+Peanuts gradually spread from Peru to <span eid="Q13703">Mesoamerica</span> via Indigenous trade networks by the 1500s. In the Aztec capital of Tenochtitlan, the location of present-day <span data-mouseover-map-flyto="19.433333, -99.133333,6">Mexico City</span>, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ ([cacao](https://lab.plant-humanities.org/cacao/)), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_. This suggests that <span eid="Q13300">Nahuatl</span>-speaking people may have been the first humans to combine these two now-ubiquitous flavors.[^7]
 <param ve-entity eid="Q13695" title="Tenochtitlan" aliases="Tenochtitlan,">
 <param ve-entity eid="Q3307681" title="Mexica"> 
 <param ve-map prefer-geojson basemap="Esri_WorldPhysical" title="Tenochtitlan, the location of present-day Mexico City." center="15.471219344367423, -90.38517376819463" zoom="3">
