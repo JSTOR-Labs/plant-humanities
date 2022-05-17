@@ -146,10 +146,11 @@ Peanuts played a critical role in the British Empire, as well, as demonstrated b
 {#paragraph21}
               
 ### Multispecies Consumption: Insects, Fungi, Bacteria
-Humans and livestock are not the only consumers of the peanut plant for its nutrients. Insects, fungi, and bacteria feed on peanut foliage, subterranean parts, and pods. In the southeastern United States at midcentury, according to [symposium proceedings](https://www.biodiversitylibrary.org/item/118467#page/226/mode/1up) published by the National Fertilizer Association in 1951, the <span eid="Q779383">“Indian meal moth</span>, <span eid="Q2893450">almond moth</span>, <span eid="Q779905">saw-toothed grain beetle</span>, [and] <span eid="Q20165096">flour beetles”</span> consumed peanuts when they were in storage.[^25] This infestation by pests causes crop damage resulting in economic loss for producers.
+Humans and livestock are not the only consumers of the peanut plant for its nutrients. Insects, fungi, and bacteria feed on peanut foliage, subterranean parts, and pods. In the southeastern United States at midcentury, according to [symposium proceedings](https://www.biodiversitylibrary.org/item/118467#page/226/mode/1up) published by the National Fertilizer Association in 1951, the <span eid="Q779383">“Indian meal moth</span>, <span eid="Q2893450">almond moth</span>, <span eid="Q779905">saw-toothed grain beetle</span>, [and] <span eid="Q20165096">flour beetles”</span> consumed peanuts when they were in storage.[^25] The proceedings recommended several approaches to control this infestation by pests that causes crop damage resulting in economic loss for producers. In 2022, the Global Crop Diversity Trust published a [conservation strategy](https://cdn.croptrust.org/wp/wp-content/uploads/2022/03/Peanut-Conservation-Strategy-LOWRES.pdf) to protect this global subsistence crop and its wild relatives from threats posed by pests, diseases, and climate change.[26]
 <param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/KatherineMEnright/Peanut/main/D3%20Ring%20Network%20Peanut.tsv"
        center="Arachis hypogaea">
+<param ve-entity eid="Q2004478" title="Global Crop Diversity Trust">
 {#paragraph22}
 
 ### No Meager Legume
@@ -185,4 +186,6 @@ Despite the use of the word [peanut](https://www.merriam-webster.com/dictionary/
 [^23]: Harold J. Clay and Paul M. Williams, *Marketing Peanuts* (Washington, D.C.: U.S. Dept. of Agriculture, 1926), 47, 74. [https://doi.org/10.5962/bhl.title.108735](https://doi.org/10.5962/bhl.title.108735)
 [^24]: Martin Mahony, “The Enemy Is Nature: Military Machines and Technological Bricolage in Britain’s ‘Great Agricultural Experiment,’” Environment & Society Portal, _Arcadia_ (Spring 2021), no. 11, Rachel Carson Center for Environment and Society. [doi:10.5282/rcc/9191](https://www.environmentandsociety.org/arcadia/enemy-nature-military-machines-and-technological-bricolage-britains-great-agricultural)
 [^25]: Frank Selman Arant, et al., *The Peanut: The Unpredictable Legume; A Symposium.* (Washington, D.C.: National Fertilizer Association, 1951), 245. [https://doi.org/10.5962/bhl.title.57505](https://doi.org/10.5962/bhl.title.57505)
+[^26]: David E. Williams, _Global strategy for the conservation and use of peanut genetic resources_ (Bonn: Global Crop Diversity
+Trust, 2022), 3. [https://cdn.croptrust.org/](https://cdn.croptrust.org/wp/wp-content/uploads/2022/03/Peanut-Conservation-Strategy-LOWRES.pdf)
 
