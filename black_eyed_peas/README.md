@@ -9,66 +9,50 @@
        author="Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan"
        layout="vertical">
 
-## Introduction
-<!--May need to add top level 'about' eid here? have asked Ashley-->
-
-Black-eyed peas or cowpeas, _Vigna unguiculata_ (L.) Walp., are both an ancient crop and a food of the future. Also known as caupi, southern pea, alubia carilla, neibe and frijole, as well as chowlee in India, gubgub in the West Indies and akkerboon in South Africa;[^ref1] its many names reflect its worldwide appeal. These nourishing, protein-rich, easily-grown <span eid="Q145909"> legumes </span> are closely related to mung beans, adzuki beans and bambara groundnuts. While the black-eyed pea has a global history stretching back millennia, its social and cultural significance has changed over time. From a staple crop in West and Central Africa, revered by some peoples there as a symbol of luck and fertility worthy of offering to deities, the black-eyed pea within Europe was understood as a humble food for laborers. In the Americas, too, the bean was a marker of class and culture and served as an important food source for enslaved peoples in the era of the transatlantic slave trade between the sixteenth and nineteenth centuries. Modern-day cuisine the world over still embraces the black-eyed pea as a food rich in culture and history as well as a delicious source of innovative dishes that celebrate new traditions. The crop is also becoming increasingly important food for the future as it is able to withstand the results of climate change. The black-eyed pea is a powerful reminder of just how intertwined human identity is with the plants we eat.
+### Ancient Crop and Food of the Future
+While the black-eyed pea or cowpea (_Vigna unguiculata_) has a global history stretching back millennia, its social and cultural significance has changed over time. From a staple crop in Africa, revered by some peoples there as a symbol of luck and fertility worthy of offering to the deities, the black-eyed pea within Europe was understood as a humble food for laborers. In the Americas, too, the bean was a marker of class and culture, the crop an important food source for enslaved peoples. Modern-day cuisine the world over still embraces the black-eyed pea as a food rich in culture and history as well as delicious source of innovative dishes that celebrate new traditions. The crop is also becoming increasingly important food for the future as it can withstand the results of climate change. The black-eyed pea is a powerful reminder of just how intertwined human identity is with the plants we eat.
 <param ve-image 
        label="Black-eyed peas are small distinctive white beans"
        description="Hands holding small white beans known as black-eyed peas"
        author="The International Institute of Tropical Agriculture in Nigeria via Wikimedia Commons"
        license="CC BY-SA 2.0"
        url="https://upload.wikimedia.org/wikipedia/commons/1/19/Nigeria_Cowpea_fro_F_IITA.jpg">
-       
 <param ve-image fit="contain"
        label="The pink pea-like flowers of wild cowpea, _Vigna unguiculata_"
        license="CC BY-SA 2.0"
        authro="Tom Rulkens via Wikimedia Commons"
-       url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Wild_cowpea_flowers_%286930710085%29.jpg">
-       
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Wild_cowpea_flowers_%286930710085%29.jpg">     
 <param ve-image fit="contain"
        label="A field of cowpeas"
        license="CC BY-SA 4.0 via Wikimedia Commons"
        author="Thamizhpparithi Maari"
-       url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Field_of_Vigna_unguiculata.jpg">
-       
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Field_of_Vigna_unguiculata.jpg">   
 <param ve-image fit="contain"
        label="Nitrogen-fixing root nodules of _Vigna unguiculata_"
        license="CC BY SA 2.0"
        author="Harry Rose via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Vigna_unguiculata_nodules1_%2810737516253%29.jpg">
+<param ve-entity eid="Q498940" title="Vigna unguiculata">
 
-Authors since ancient times have described black-eyed peas in texts on plants and the natural world. In European botanical studies there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification.[^ref17] However, it was well known by many common names throughout ancient Eurasia, and was understood as a nutritious source of food for humans and livestock alike. As the accompanying timeline illustrates, these changes in nomenclature are one important record for examination of the cultural and social role of the bean, especially in Europe. More recently, taxonomists have been re-classifying the genus _Vigna_ and today all cultivated black-eyed peas are grouped under _Vigna unguiculata_ subspecies _unguiculata_.        
+### Many Names, Now and Then
+Back-eyed pea’s many names reflect its worldwide appeal. It is known as crowder pea, caupi, southern pea, alubia carilla, neibe and frijole in WHERE, as well as chowlee in India, gubgub in the West Indies, and akkerboon in South Africa.[^ref1] Within the Western context, authors have described black-eyed peas in accounts of plants and the natural world since ancient times. They and later botanical texts demonstrate a long confusion regarding the plant’s common and Latin names, stemming in part from ever-changing ideas of the pea’s origins and classification.[^ref17] Tracking names and changes in nomenclature over time provide an important means for examining the cultural and social role of the bean, especially in Europe.
 <param ve-iframe 
        src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1W0SMnkIazbZBjC-xTUWGr2oHYtt0yCTuwkxY9U3Dtdc&font=Default&lang=en&initial_zoom=3&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'">
 
-## Growth and Distribution <!-- An easy, useful crop -->
-Black-eyed peas grow best in semi-arid conditions, nutrient-poor soils and with little help. They are heat-loving and drought-tolerant, and grow quickly, often giving a harvest within 100 days. These (mainly annual) leguminous plants (in the plant family Fabaceae) have now become a staple part of the diets of hundreds of millions of people around the world. It is not just the seeds (the beans or peas as we call them) that are harvested however – the leaves and pods of this reliable plant are also edible and used as a vegetable, or can be used for cattle fodder or hay,[^ref2] and, being legumes, they also enrich the soil, in this case through the presence of around 21 different (bradyrhizobial) symbiotic <span eid="Q15098397"> nitrogen-fixing bacteria in nodules </span> on their roots.[^ref3]
-<!-- <param ve-iframe
-       label="Interactive Black-Eyed Pea Diagram"
-       id="game_drop"
-       src="https://haleyrp1803.itch.io/black-eyed-peas-interactive-diagram"
-       allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr"> -->
-<param ve-iframe
-       label="Interactive Black-Eyed Pea Illustration"
-    src="https://v6p9d9t4.ssl.hwcdn.net/html/4285918/Black_Eyed_Peas_Interactive/index.html">
-
-Archaeological and genetic evidence shows that West Africans domesticated wild relatives of the plant at least 6,000 years ago.[^ref40] Because black-eyed peas mature quickly and produce reliably with only a little land and labor, they are an important part of mixed food systems: wild gathering, hunting, fishing and aquaculture, keeping small livestock and/or building larger herds, <span eid="Q397350"> agroforestry </span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.[^ref41] The ease of growth and  usefulness of this crop was one of the main reasons that the black-eyed pea began to spread out of Africa.
+### Growth and Distribution <!-- An easy, useful crop -->
+Black-eyed peas grow best in semi-arid conditions, poor soils and with little help. They are heat-loving and drought-tolerant, and grow quickly, often giving a harvest within 100 days. The seeds of these (mainly annual) <span eid="Q44448">leguminous plants</span> are a food staple worldwide, though the plant’s leaves and pods are also a food source for humans and can be used for cattle fodder or hay.[^ref2] Archaeological and genetic evidence shows that West Africans domesticated wild relatives of the plant at least 6,000 years ago.[^ref40] Because black-eyed peas mature quickly and produce reliably with only a little land and labor, they are an important part of mixed food systems: wild gathering, hunting, fishing, and aquaculture, keeping small livestock and/or building larger herds, <span eid="Q397350">agroforestry</span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.[^ref41] The ease of growth and usefulness of this crop are reasons that the black-eyed pea spread out of Africa by 1500 BCE.
 <param ve-image
        fit="contain"
        label="Proposed spread of cowpea from its origins of domestication in Africa, Herniter et al 2020"
        author="Herniter, IA, Muñoz-Amatriaín, M, Close, TJ. Genetic, textual, and archeological evidence of the historical global spread of cowpea (Vigna unguiculata [L.] Walp.). Legume Science. 2020; 2:e57. https://doi.org/10.1002/leg3.57"
        url="https://onlinelibrary.wiley.com/cms/asset/302e2d1e-bd02-4798-8a80-81195158ece3/leg357-fig-0002-m.jpg">
-
-
-By 1500 BCE, the black-eyed pea or cowpea had spread through North Africa and out to the Mediterranean, the Arabian Peninsula, central Asia, and the Indian subcontinent. The native range of the cowpea in Africa (here shown in blue) and its subsequent introduction across the world (in green) can be seen on this map.
 <param ve-map zoom="2"
        title="Black-Eyed Pea Distribution"
-       description="The map shows the areas where black-eyed peas are cultivated today. They originated in the blue territories in Africa and were introduced ot the green territories across the globe.">
+       description="The map shows the areas where black-eyed peas are cultivated today. They originated in the blue territories in Africa and were introduced to the green territories across the globe.">
 <param ve-map-layer geojson active
        url="Distribution_5.geojson">
        
-## Cultural Perceptions in Early Modern Europe <!-- previously titled Early Modern European History -->
+### Cultural Perceptions in Early Modern Europe <!-- previously titled Early Modern European History -->
 
 Black-eyed peas have been consumed for millennia, though records of their consumption and use within Europe during the Middle Ages (roughly the fifth through to the fifteenth centuries) are relatively scarce. Understood as a food for peasants and livestock, black-eyed peas would have been considered subject matter too lowly for inclusion in the annals of history. Since antiquity, then, the black-eyed pea has been a cultural marker of those who lacked social status in European societies. Ancient Roman chronicler <span eid="Q82778"> Pliny </span> wrote that priests should avoid eating the food for fear its rough nature would upset their delicate constitutions. He also notes that <span eid="Q10261"> Pythagoras </span> and his followers did not eat black-eyed peas because they “believed the souls of the dead to be contained within" the dried beans.[^ref10] This belief may have been informed by West African traditions, which bestows black-eyed peas with the power to fend off the evil eye. Some cultural groups in West Africa, for example the Yoruba people, also prepare the beans as offerings to deities.[^ref101]
 <param ve-image
@@ -256,7 +240,6 @@ Over recent decades, significant resources have been put into researching black-
        
 [^ref1]: Davis, D. W., et al. “Cowpea.” Alternative Crops Food Manual, https://hort.purdue.edu/newcrop/afcm/cowpea.html; Mabberley, David J. Mabberley’s Plant Book. 4th ed., Cambridge University Press; Production Guidelines for Cowpeas. Dept. of Agriculture, Forestry and Fisheries, Republic of South Africa, 2011.
 [^ref2]: Kew Science. “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science.” Plants of the World Online, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. Accessed 12 July 2021.
-[^ref3]: Grönemeyer JL, Hurek T, Bünger W, Reinhold-Hurek B. Bradyrhizobium vignae sp. nov., a nitrogen-fixing symbiont isolated from effective nodules of Vigna and Arachis. Int J Syst Evol Microbiol. 2016 Jan;66(1):62-69. doi: 10.1099/ijsem.0.000674.
 [^ref10]: Ira A. Herniter, María Muñoz-Amatriaín, and Timothy J. Close, “Genetic, textual, and archeological evidence of the historical global spread of cowpea (Vigna unguiculata [L.] Walp.),” Legume Science 2, no. 4 (Dec., 2020), https://doi.org/10.1002/leg3.57.
 [^ref11]: Victoria Bartels, "What goes up must come down: a brief history of the codpiece," Cambridge University Research (30 April 2015), https://www.cam.ac.uk/research/features/what-goes-up-must-come-down-a-brief-history-of-the-codpiece.
 [^ref12]: Judith Ann Carney, In the Shadow of Slavery: Africa’s Botanical Legacy in the New World (University of California Press: Berkely, 2009), 74.
