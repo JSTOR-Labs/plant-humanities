@@ -108,7 +108,7 @@ After the war, spurred on by advances in agricultural technology, the use of pea
 {#paragraph14}
 
 An influential Black public figure during the age of segregation, Carver promoted peanut production on a local and a national scale.[^17] In 1922, he testified before Congress on behalf of peanut farmers for establishing protections for domestic peanuts against rising Chinese imports. He also invented a number of uses for peanuts, including products made from peanut oil.[^18] And a [1916 Tuskegee Institute report](https://archive.org/details/CAT31355396) authored by Carver illustrates his creativity in devising 105 recipes for peanut-based foods. Peanuts were now associated with culinary innovation and agricultural advancement—and their star was still on the rise.
-<param ve-image primary fit="contain" label="Dr. George Washington Carver, Tuskegee University, Alabama, September 1938, U.S. Department of Agriculture via Flickr, public domain." url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-4/peanut/Dr_George_Washington_Carver_US_Depart_Ag_Flickr_public_domain.jpg?raw=true">
+<param ve-image primary fit="contain" label="Dr. George Washington Carver, Tuskegee University, Alabama, September 1938, U.S. Department of Agriculture via Flickr, public domain, photo Courtesy National Archives and Records Administration." url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-4/peanut/Dr_George_Washington_Carver_US_Depart_Ag_Flickr_public_domain.jpg?raw=true">
 <param ve-entity eid="Q59816" title="racial segregation" aliases="segregation">
 {#paragraph15}
            
