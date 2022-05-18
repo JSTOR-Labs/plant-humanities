@@ -132,6 +132,13 @@
 ![](/images/thumbnails/mint.jpg) 
 
 ##
+[**Peanut: From Luxury Food to Livestock Feed**](/peanut)
+
+- Maria Job, Elizabeth Chant, and Katherine Enright
+
+![](/images/thumbnails/peanut.jpg)
+
+##
 [**Pelargonium: By Any Other Name Would Smell as Sweet?**](/pelargonium)
 
 - Daisy Reid, Verónica Matallana Chaves, Yao Jiang

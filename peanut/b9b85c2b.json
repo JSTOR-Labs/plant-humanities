@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The ubiquitous presence of peanuts as entertainment food in circus spaces led to spectators feeding them to the animals, including elephants, as exemplified by this 1897 theatrical poster featuring a visitor offering the circus elephant a peanut.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:6.317876815795898,8.476820945739746,659.4966983795166,1005.350998878479"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#06ae2107-2e46-4632-b137-a3f4e247fd34"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "It is now understood that peanuts are not good for elephants as they require more fiber than protein in their diet.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://tile.loc.gov/storage-services/master/pnp/var/0800/0837/0837r.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:34.33277893066406,47.93377685546875,420.9685516357422,658.9072875976562"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#9a07cb9a-2987-4940-b584-537a70fee5f6"
+  }
+]

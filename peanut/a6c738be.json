@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The version of Historia general, shown here, is known as the Florentine Codex because it was acquired by the Medici family of Florence.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:62:2:wdl_10622:MedPalat220_03_0598/full/pct:100/0/default.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1505.4931640625,3577.799560546875,2944.48828125,2661.233642578125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#dafbfb15-359e-4611-ba3c-8213132b2dc3"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This illustration showing a peanut vendor was published in Harper’s Weekly. It accompanied a domestic news story about the sale and consumption of peanuts in the United States.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/4066289f7c2a83d4ac667961ecfe03da03e585a019f125d2b0ab91485efe4f09",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:66.72767639160156,9.219731330871582,948.1010589599609,1488.236933708191"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#498a617c-fc80-48a1-bfaf-33546245fdcd"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The news story claimed that this illustration reproduced a real scene. Yet it presented a constructed image of Black people in the South, recycling stereotypes popularized during slavery.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/4066289f7c2a83d4ac667961ecfe03da03e585a019f125d2b0ab91485efe4f09",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:187.94024658203125,463.1309509277344,699.0037841796875,818.1545715332031"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#80eceece-163b-46c6-acdd-93ca64257b97"
+  }
+]
