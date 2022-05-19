@@ -34,18 +34,13 @@ While the black-eyed pea or cowpea (_Vigna unguiculata_) has a global history st
        url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Vigna_unguiculata_nodules1_%2810737516253%29.jpg">
 <param ve-entity eid="Q498940" title="Vigna unguiculata">
 
-### Growth, Domestication, and Distribution
+### Growth, Domestication, and Migration
 Black-eyed peas are (mainly annual) <span eid="Q44448">leguminous plants</span> that grow best in semi-arid conditions, poor soils, and with little help. They are heat-loving and drought-tolerant, and grow quickly, often giving a harvest within 100 days. Archaeological and genetic evidence shows that West Africans domesticated wild relatives of the plant at least 6,000 years ago.[^ref40] Because black-eyed peas mature quickly and produce reliably with only a little land and labor, they are an important part of mixed food systems: wild gathering, hunting, fishing, and aquaculture, keeping small livestock and/or building larger herds, <span eid="Q397350">agroforestry</span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.[^ref41] The ease of growth and usefulness of this crop contributed to the spread of black-eyed pea from Africa to the Mediterranean, the Arabian Peninsula, central Asian, and the Indian subcontinent by 1500 BCE.
 <param ve-image
        fit="contain"
        label="Proposed spread of cowpea from its origins of domestication in Africa, Herniter et al 2020"
        author="Herniter, IA, Muñoz-Amatriaín, M, Close, TJ. Genetic, textual, and archeological evidence of the historical global spread of cowpea (Vigna unguiculata [L.] Walp.). Legume Science. 2020; 2:e57. https://doi.org/10.1002/leg3.57"
        url="https://onlinelibrary.wiley.com/cms/asset/302e2d1e-bd02-4798-8a80-81195158ece3/leg357-fig-0002-m.jpg">
-<param ve-map zoom="2"
-       title="Black-Eyed Pea Distribution"
-       description="The map shows the areas where black-eyed peas are cultivated today. They originated in the blue territories in Africa and were introduced to the green territories across the globe.">
-<param ve-map-layer geojson active
-       url="Distribution_5.geojson">
        
 ### Many Names, Now and Then
 Back-eyed pea’s many names reflect its worldwide appeal. It is known as crowder pea, caupi, southern pea, alubia carilla, neibe and frijole in WHERE, as well as chowlee in India, gubgub in the West Indies, and akkerboon in South Africa.[^ref1] Within the Western context, authors have described black-eyed peas in accounts of plants and the natural world since ancient times. They and later botanical texts demonstrate a long confusion regarding the plant’s common and Latin names, stemming in part from ever-changing ideas of the pea’s origins and classification.[^ref17] Tracking names and changes in nomenclature over time provide an important means for examining the cultural and social role of the bean, especially in Europe.
@@ -110,7 +105,6 @@ The black-eyed pea's global journey is also well documented in the [Economic Bot
        url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Jamaica_at_the_Colonial_and_Indian_Exhibition%2C_London_1886.jpg">
        
 Though their origins aren't always recognized, many thousands of organisms have spread across the globe with human help. Historian Alfred Crosby, writing in the 1970s, called this process the <span eid="Q767253"> ‘Columbian Exchange’</span> or the "Biological Expansion of Europe." But it was not a solely European expansion. Recent scholars like Judith Carney have expanded on the Columbian Exchange by focusing on the importance of Africans' foods and agricultural techniques. Black-eyed peas, millet, yams, and many other staple foods of the American tropics have African origins. European traders on the coast of West Africa filled hundreds of thousands of vessels with 10-12 million captives over the centuries of the <span eid="Q10701282">transatlantic slave trade</span>.[^ref43] These vessels carried humans-as-commodities as well as the foodstuffs needed for an average voyage of sixty to eighty days.[^ref45] Dry legumes, like black-eyed peas, hyacinth beans and bambara groundnuts, were staple foods cooked into gruel during the Middle Passage. Leftover stocks then accompanied captives as they dispersed throughout the Americas and the Caribbean.[^ref44] English physician, naturalist, and planter <span eid="Q310326"> Sir Hans Sloane </span> notes the black-eyed pea in Jamaica around 1687 and created this herbarium specimen there as part of his large Jamaican collection. The bean was also observed in the Carolinas by the end of the seventeenth century. [^ref103]
-
 <param ve-plant-specimen
        label="A herbarium specimen of _Vigna unguiculata_ made by Sir Hans Sloane in Jamaica"
        author="JSTOR Global Plants, courtesy of the Natural History Museum, London"
@@ -129,8 +123,7 @@ A 'Farmers Bulletin' of 1920 gave specific official advice on [growing cowpeas](
 <param ve-iframe
        src="https://books.google.co.uk/books?id=QiOMV1jWGiQC&pg=PA1&output=embed">
               
-## Culinary History and Cultural Celebrations
-
+### Culinary History and Cultural Celebrations
 Today, black-eyed peas are grown commercially in at least 33 countries,[^ref161] reflecting the widespread embrace of the bean among geographically disparate peoples, places, and cultures. As acclaimed food historian and chef Michael Twitty points out: “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories.[^ref162] Twitty coined the term “identity cooking” to characterize “how we construct complex identities and then express them through how we eat,” an idea that is useful to keep in mind for any discussion of food as widely used across culinary traditions as black-eyed peas.[^ref163]
 <param ve-video 
        id="R6l8jRF-eGA"
@@ -191,8 +184,13 @@ For both Hoppin’ John and _feijoada completa_, what was originally a means for
        author="Steve Snodgrass"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Soul_Food_Deli_Shreveport.jpg/1280px-Soul_Food_Deli_Shreveport.jpg">
        
-## A Food of the Future 
+### A Food of the Future 
 Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as cultivation is still mainly in the hands of small-holder farmers, but also because they are such a staple food that most harvests are used locally rather than being exported. However the FAO estimate around 7 million tonnes are produced annually. [^ref86] The centres of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s black-eyed pea crop.[^ref87] It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains such as sorghum and millet or rice.[^ref88] It is the third most important pulse worldwide, an important element of sustainable agriculture, and feeds hundreds of millions of people.
+<param ve-map zoom="2"
+       title="Black-Eyed Pea Distribution"
+       description="The map shows the areas where black-eyed peas are cultivated today. They originated in the blue territories in Africa and were introduced to the green territories across the globe.">
+<param ve-map-layer geojson active
+       url="Distribution_5.geojson">
 <param ve-image
        label="Smallholder farmer drying cowpeas in Ghana"
        description="A farmer in Ghana turns a pile of black-eyed pea pods to dry them"
@@ -202,7 +200,6 @@ Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as
        url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Drying_cowpeas.jpg">
        
 The black-eyed pea is an often-overlooked 'minor' crop, but soon we may all be more familiar with it. Legumes are emerging as ‘foods of the future’ due to their very nature of being highly nutritious and relatively easy to grow. They will play an important part in future food security – providing food in a changing climate and will continue to help small-scale farmers combat poverty and hunger and improve their livelihoods.[^ref89] As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, and as more people aim to eat less meat, legume crops such as black-eyed peas, with their many virtues, will contribute to the diets of more people.[^ref90][^ref91]
-
 <param ve-image
        label="There are thousands of different varieties of black-eyed peas. Image courtesy of Jeffrey Ehlers"
        author="Jeffrey Ehlers, UCR, Gates Foundation"
@@ -225,14 +222,13 @@ Agriculture is already having to adapt to our changing climate, both in terms of
        license="CC BY-SA 2.0"
        url="https://upload.wikimedia.org/wikipedia/commons/6/67/Wild_and_cultivated_cowpea_%287856427546%29.jpg">
     
-
 Over recent decades, significant resources have been put into researching black-eyed peas and their potential. The Crop Wild Relatives Project is one such project in partnership with 33 countries [^ref96] and global seed banks including the International Institute of Tropical Agriculture (IITA) and <span eid="Q2603353"> RBG Kew’s Millennium Seed Bank </span>. There are currently eleven primary wild relatives of the black-eyed pea being researched. Southern and western Africa are hotspots for wild black-eyed pea genetic variation. The importance of such relatives demonstrates how vital it is to protect wild plants and wild habitats for the future for it is here that the answers to our present and future challenges may lie. In a telling [quote](https://www.cwrdiversity.org/cowpea/) from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be an unfailing friend even while the climate crisis is affecting production.” Such projects bring us full circle back to the wild plants of Africa, and brings the ancient practices of growing, seed collecting and crop breeding right up to date.
 <param ve-video
        id="pqmBsUHSkBg"
        title="Beyond the gardens, the crop wild relatives project"
        author="RBG Kew">
        
-## Citations
+### References
 [^ref1]: Davis, D. W., et al. “Cowpea.” Alternative Crops Food Manual, https://hort.purdue.edu/newcrop/afcm/cowpea.html; Mabberley, David J. Mabberley’s Plant Book. 4th ed., Cambridge University Press; Production Guidelines for Cowpeas. Dept. of Agriculture, Forestry and Fisheries, Republic of South Africa, 2011.
 [^ref11]: Victoria Bartels, "What goes up must come down: a brief history of the codpiece," Cambridge University Research (30 April 2015), https://www.cam.ac.uk/research/features/what-goes-up-must-come-down-a-brief-history-of-the-codpiece.
 [^ref12]: Judith Ann Carney, In the Shadow of Slavery: Africa’s Botanical Legacy in the New World (University of California Press: Berkely, 2009), 74.
