@@ -159,7 +159,7 @@ Hoppin’ John has become symbolic of prosperity for the year ahead, but it orig
        author="Kristen Taylor"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hoppin%27_John.jpg/1280px-Hoppin%27_John.jpg">
 
-Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a very similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ on plantations out of black beans and scrap pork. [^ref172][^ref173] It was a meal of necessity for workers as it used the food on hand and could be left simmering unattended during the long day’s work. [^ref174] Today, simple bean and rice dishes are a national staple, but _feijoada completa_ is a celebratory meal for every sector of society, taking days to prepare and requiring better meat, collard greens, rice, orange slices, and manioc flour. [^ref175] [^ref176]
+Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a very similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ on plantations out of black beans and scrap pork. [^ref172][^ref173] It was a meal of necessity for workers as it used the food on hand and could be left simmering unattended during the long day’s work. [^ref174] Today, simple bean and rice dishes are a national staple, but _feijoada completa_ is a celebratory meal for every sector of society, taking days to prepare and requiring better meat, collard greens, rice, orange slices, and manioc flour. [^ref175] [^ref176] For both Hoppin’ John and _feijoada completa_, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. However, that’s an overly simplistic view of a complex issue. Southern cooking especially can only be viewed as culturally unifying at the surface level. In reality, there is still much tension in questions of representation, ownership, class, race and identity in Southern food and <span eid="Q555997"> Soul Food,</span> with white perspectives usually being unjustly prioritized over Black ones. [^ref177] [^ref178]
 <param ve-image 
        label="Feijoada"
        description="Feijoada with rice, fried kale, cassava starch crisps (biscoito de polvilho), cassava flour (farinha), and a mix of olive oil, alcohol vinegar, tomatoes, onions and sometimes bell peppers called vinagrete."
@@ -174,8 +174,6 @@ Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has 
        license="Creative Commons Attribution-Share Alike 4.0"
        author="Bradleyzm"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Feijoada_à_brasileira_-02.jpg/1280px-Feijoada_à_brasileira_-02.jpg">
-
-For both Hoppin’ John and _feijoada completa_, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. However, that’s an overly simplistic view of a complex issue. Southern cooking especially can only be viewed as culturally unifying at the surface level. In reality, there is still much tension in questions of representation, ownership, class, race and identity in Southern food and <span eid="Q555997"> Soul Food,</span> with white perspectives usually being unjustly prioritized over Black ones. [^ref177] [^ref178] 
 <param ve-image 
        label="P & C Soul Food Deli, Shreveport, Louisiana"
        description="P & C Soul Food Deli, Shreveport, Louisiana"
@@ -199,21 +197,6 @@ Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as
        license="CC BY-SA 2.0"
        url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Drying_cowpeas.jpg">
        
-The black-eyed pea is an often-overlooked 'minor' crop, but soon we may all be more familiar with it. Legumes are emerging as ‘foods of the future’ due to their very nature of being highly nutritious and relatively easy to grow. They will play an important part in future food security – providing food in a changing climate and will continue to help small-scale farmers combat poverty and hunger and improve their livelihoods.[^ref89] As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, and as more people aim to eat less meat, legume crops such as black-eyed peas, with their many virtues, will contribute to the diets of more people.[^ref90][^ref91]
-<param ve-image
-       label="There are thousands of different varieties of black-eyed peas. Image courtesy of Jeffrey Ehlers"
-       author="Jeffrey Ehlers, UCR, Gates Foundation"
-       url="https://newsroom.ucr.edu/images/releases/1708_0hi.jpg">
-
-Black-eyed peas and other legumes are globally growing in status as a key cooking ingredient. There are hundreds of such recipes readily available online and in cookbooks. Some health-focused cookbooks are regional, aiming to transform, for example, traditional southern recipes like black-eyed peas with pork to leaner, lower-sodium alternatives. [^ref92] Others combine recipes across many cultures, like The Great Vegan Bean Book, which aims to give vegans more options for flavorful meatless protein. These types of cookbooks often marry recipes inspired by the American South with Indian, African, and Caribbean cuisines. [^ref93] [^ref94]
-<param ve-image 
-       label="FDA Image of Fiber-rich Foods for Kids"
-       description="Like adults, youngsters need dietary fiber. By helping our digestive system work effectively, fiber plays an important role in maintaining good health. Great natural sources of fiber include: Beans, like navy, pinto, kidney, and black or white. Peas, like split peas, chickpeas, and black-eyed peas. Fruit, like pears, raspberries and prunes. Vegetables, like spinach, carrots, and broccoli. Whole grain cereal, whole grain bread, and whole grain pasta."
-       fit="contain"
-       license="Public Domain"
-       author="The U.S. Food and Drug Administration"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kids_‘n_Fiber_%286120828233%29.jpg/640px-Kids_‘n_Fiber_%286120828233%29.jpg">
-
 Agriculture is already having to adapt to our changing climate, both in terms of practices and in what crops can be grown where. Even though black-eyed peas are considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic with climate change. Crop breeding is one way to make commercial black-eyed peas more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015"> relatives </span> of the black-eyed pea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions, and perhaps be more pest-resistant.[^ref95] If these traits can be bred into commercial varieties then the black-eyed pea may be one of the answers to the many agricultural challenges of the future. 
 <param ve-image
        fit"contain"
@@ -227,6 +210,20 @@ Over recent decades, significant resources have been put into researching black-
        id="pqmBsUHSkBg"
        title="Beyond the gardens, the crop wild relatives project"
        author="RBG Kew">
+       
+### Conclusion
+Black-eyed peas and other legumes are globally growing in status as a key cooking ingredient. The black-eyed pea is an often-overlooked 'minor' crop, but soon we may all be more familiar with it. Legumes are emerging as ‘foods of the future’ due to their very nature of being highly nutritious and relatively easy to grow. They will play an important part in future food security – providing food in a changing climate and will continue to help small-scale farmers combat poverty and hunger and improve their livelihoods.[^ref89] As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, and as more people aim to eat less meat, legume crops such as black-eyed peas, with their many virtues, will contribute to the diets of more people.[^ref90][^ref91]
+<param ve-image
+       label="There are thousands of different varieties of black-eyed peas. Image courtesy of Jeffrey Ehlers"
+       author="Jeffrey Ehlers, UCR, Gates Foundation"
+       url="https://newsroom.ucr.edu/images/releases/1708_0hi.jpg">
+<param ve-image 
+       label="FDA Image of Fiber-rich Foods for Kids"
+       description="Like adults, youngsters need dietary fiber. By helping our digestive system work effectively, fiber plays an important role in maintaining good health. Great natural sources of fiber include: Beans, like navy, pinto, kidney, and black or white. Peas, like split peas, chickpeas, and black-eyed peas. Fruit, like pears, raspberries and prunes. Vegetables, like spinach, carrots, and broccoli. Whole grain cereal, whole grain bread, and whole grain pasta."
+       fit="contain"
+       license="Public Domain"
+       author="The U.S. Food and Drug Administration"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kids_‘n_Fiber_%286120828233%29.jpg/640px-Kids_‘n_Fiber_%286120828233%29.jpg">
        
 ### References
 [^ref1]: Davis, D. W., et al. “Cowpea.” Alternative Crops Food Manual, https://hort.purdue.edu/newcrop/afcm/cowpea.html; Mabberley, David J. Mabberley’s Plant Book. 4th ed., Cambridge University Press; Production Guidelines for Cowpeas. Dept. of Agriculture, Forestry and Fisheries, Republic of South Africa, 2011.
