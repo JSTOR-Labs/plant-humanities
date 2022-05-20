@@ -74,9 +74,7 @@ Annibale Carracci was not the only painter to depict beans or peas in late sixte
 
 ### The Pea in Early Modern Texts and Images
 Visual representations of black-eyed peas and other varieties of beans and peas shaped European understandings of the plant. Beginning in the sixteenth century, the dramatic rise in the production and circulation of printed texts with images, such as <span eid="Q6165948">herbals</span> or natural histories, reinforced the codification of plants based on their geographic origins. Unprecedented global travel also formed European ideas about the ways in which close observation of the natural world could reveal the domestic or foreign origins of a person, plant, or animal. One result of this study was a shift in European attitudes toward the black-eyed pea.
-<param ve-image
-       label="Illustration from Clusius of Phaseolus peregrinus IIII"
-       url="https://ia802805.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000810538&itemPath=%2F4%2Fitems%2Fmobot31753000810538&server=ia802805.us.archive.org&page=n599_w613">
+<param ve-image label="Illustration from Clusius of Phaseolus peregrinus IIII" url="https://ia802805.us.archive.org/BookReader/BookReaderImages.php?id=mobot31753000810538&itemPath=%2F4%2Fitems%2Fmobot31753000810538&server=ia802805.us.archive.org&page=n599_w613">
        
 Despite the millennia-old European presence of the black-eyed pea, it was now understood in Europe as an itinerant body within a Euro-centric <span eid="Q8269924">taxonomy</span> of plants. European travelers visiting Africa, Asia, and the Americas reinforced these ideas. Their observations, often reported in books, were soon understood throughout Europe as factual accounts. For example, Dutchman <span eid="Q3117063">Pieter de Marees’</span> 1602 book, describing West Africa, shows the <span data-click-image-zoomto="418,756,583,437">black-eyed pea</span> in an idealized landscape alongside people and other plants.[^ref12] The viewer is meant to elide the black-eyed pea with Africa’s geography and peoples, this distinction revealing Europe’s increasingly myopic gaze upon the rest of the world. 
 <param ve-image
