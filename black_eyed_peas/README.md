@@ -184,20 +184,19 @@ Brazil’s national dish, <span eid="Q878189">_feijoada completa_</span>, has a 
 ### Climate Change, Breeding, and Resilience 
 Today, the <span eid="Q82151">Food and Agriculture Organization</span> estimates around 7 million tonnes of black-eyed peas are produced annually worldwide.[^ref86] The centers of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s black-eyed pea crop.[^ref87] It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains such as sorghum and millet or rice.[^ref88] It is the third most important <span eid="Q379813">pulse</span> worldwide, a crucial element of sustainable agriculture, and feeds hundreds of millions of people.
 <param ve-map zoom="2"
-       title="Black-Eyed Pea Distribution"
-       description="The map shows the areas where black-eyed peas are cultivated today. They originated in the blue territories in Africa and were introduced to the green territories across the globe.">
-<param ve-map-layer geojson active
+       title="Map of black-eyed pea distribution showing native range (blue) and introduction (green) (after Kew Plants of the World Online).">
+<param ve-map-layer geojson active title="Distribution."
        url="Distribution_5.geojson">
-<param ve-image
+       
+<span eid="Q11451">Agriculture</span> is already having to adapt to our changing climate, both in terms of practices and in what crops can be grown where. Even though black-eyed peas are considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic with climate change. Crop breeding is one way to make commercial black-eyed peas more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015">relatives</span> of the black-eyed pea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions, and perhaps be more pest-resistant.[^ref95] If these traits can be bred into commercial varieties then the black-eyed pea may be one of the answers to the many agricultural challenges of the future. 
+<param ve-compare curtain
        label="Smallholder farmer drying cowpeas in Ghana"
        description="A farmer in Ghana turns a pile of black-eyed pea pods to dry them"
        fit="cover"
        author="TreeAid via Wikimedia Commons"
        license="CC BY-SA 2.0"
        url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Drying_cowpeas.jpg">
-       
-<span eid="Q11451">Agriculture</span> is already having to adapt to our changing climate, both in terms of practices and in what crops can be grown where. Even though black-eyed peas are considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic with climate change. Crop breeding is one way to make commercial black-eyed peas more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015">relatives</span> of the black-eyed pea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions, and perhaps be more pest-resistant.[^ref95] If these traits can be bred into commercial varieties then the black-eyed pea may be one of the answers to the many agricultural challenges of the future. 
-<param ve-image
+<param ve-compare
        fit"contain"
        label="Wild and cultivated cowpeas"
        author="Tom Rulkens"
