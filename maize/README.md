@@ -59,6 +59,19 @@ Indigenous groups in what is now southwestern Mexico played a major role in the 
 {#paragraph6}
 
 By 7,000 years [BP,](https://www.archaeological.org/programs/educators/introduction-to-archaeology/glossary/#b) humans had dispersed maize from the Rio Balsas region into South America as a partial domesticate, though, as scholars have noted, there were “multiple waves of dispersal” of maize into South America. There, the crop underwent “secondary improvement in the southwestern Amazon before diversifying across the continent. Humans then dispersed this domesticated vareity back into Central America and to the north, demonstrating the "clear evidence of two-way movements of plants and people lasting millennia between Central and South America.”[^ref7] Maize is therefore a notable example of the mobility of plants in relation to humans.
+<param ve-map
+	title="Approximate timing and location of maize domestication."
+	center="12.684407961343284, -76.70109703556372"
+	zoom="3"
+	time-dimension
+	time-interval="-8700/900"
+	duration="P10000Y"
+	max-zoom="5"
+	date-format="YYYY"
+	fps="3"
+	fill="#5C6609"
+	auto-play="true">
+<param ve-map-layer geojson url="maizespreadtime.json">
 {#paragraph6}
 
 In addition to domesticating maize and dispersing it throughout South America and back toward Central America, humans worked to cultivate maize, which could not have survived if left to its own devices. Wild teosinte is very fragile and its pod can be shattered by the wind. By contrast, maize relies on humans to disperse its seeds. The scientific history of maize thus reveals the central and active role early Mesoamericans played in its domestication through making conscious decisions about the cultivation process.
