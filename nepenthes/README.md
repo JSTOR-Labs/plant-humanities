@@ -10,14 +10,29 @@
        description=“X”>
 
 ### “A Small Vase, with Its Own Lid, a Wonderful Sight”
+“Boxwood blight invades North America,” reads the headline of an article that appeared in _Science News_ in January 2012. Caused by _Cylindrocladium buxicola_—a fungus whose spores remain viable for several years and are easily dispersed by birds, moving visitors, wind, or even sprinklers—the disease manifests itself by dark or light brown spots or lesions on the leaves that eventually fall off. First reported in southern England in 1994, boxwood blight has since been devastating gardens across the world, from Europe to New Zealand. Recently, it has been described as “a significant concern for the ornamental horticulture industry” as well as “a growing threat to established landscapes and native ecosystems alike.”[^ref1]
+<param ve-map
+	title="Occurence of boxwood blight in America, 2010–2018."
+	center="39.812733, -97.042653"
+	zoom="4"
+	time-dimension
+	time-interval="2009/2018"
+	duration="P10000Y"
+	max-zoom="4"
+	date-format="YYYY"
+	fps="0.5"
+	fill="red"
+	auto-play="true">
+<param ve-map-layer geojson url="us-states.json">
+{#paragraph1}
+
 By 7,000 years [BP,](https://www.archaeological.org/programs/educators/introduction-to-archaeology/glossary/#b) humans had dispersed maize from the Rio Balsas region into South America as a partial domesticate, though, as scholars have noted, there were “multiple waves of dispersal” of maize into South America. There, the crop underwent “secondary improvement in the southwestern Amazon before diversifying across the continent. Humans then dispersed this domesticated vareity back into Central America and to the north, demonstrating the "clear evidence of two-way movements of plants and people lasting millennia between Central and South America.”[^ref7] Maize is therefore a notable example of the mobility of plants in relation to humans. 
-<param ve-map title="The Origin of Maize." center="17.944277, -100.514509" zoom="6">
 <param ve-map
 	title="Approximate timing and location of maize domestication."
-	center="12.684407961343284, -76.70109703556372"
+	center="12.6844, -76.7010"
 	zoom="3"
 	time-dimension
-	time-interval="-8700/900"
+	time-interval="-8700/0900"
 	duration="P10000Y"
 	max-zoom="5"
 	date-format="YYYY"
