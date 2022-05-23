@@ -15,15 +15,15 @@ The year was 2014, and many Guatemalans were incensed. With a population of 14 m
 
 While the law sought to regulate the use of particular maize seeds engineered by Monsanto to withstand the company’s <span eid="Q60741370">glyphosate-based herbicide</span>, <span eid="Q905161">Roundup</span>, the Guatemalan public saw several problems with this protection for privatized seeds, or <span eid="Q182726">genetically modified</span> seeds subject to a patent or copyright. This included anticipating that the law would increase farmer dependence on big agribusiness. Opposition to the law swelled, bringing together, according to cultural anthropologist Liza Grandia, a motley crew of protestors, including “peasant federations, health workers, biologists, Maya spiritual leaders, environmentalists, Pentecostals who regard Monsanto as an anti-Christ, opportunistic politicians, college students, and even Guatemala City foodies.”[^ref2]
 <param ve-image
-       label="Protests against Monsanto in Guatemala, 2014. The text on the sign translates to: ‘I don’t want transgenics on the field nor my plate.’ Cristina Chiquin, Mujeres Ixchel, public domain."
+       label="Protests against Monsanto, Guatemala, 2014. The text on the sign (in English) reads: ‘I don’t want transgenics on the field nor my plate.’ Cristina Chiquin and Mujeres Ixchel via Prensa Comunitaria, CC BY-NC-ND 4.0."
        fit="contain"
        url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2323.jpg">
 <param ve-image
-       label="Protests against Monsanto in Guatemala, 2014. Cristina Chiquin, Mujeres Ixchel, public domain."
+       label="Protests against Monsanto, Guatemala, 2014. Cristina Chiquin and Mujeres Ixchel via Prensa Comunitaria, CC BY-NC-ND 4.0."
        fit="contain"
        url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2204.jpg">
 <param ve-image
-       label="Protests against Monsanto in Guatemala, 2014. Cristina Chiquin, Mujeres Ixchel, public domain."
+       label="Protests against Monsanto, Guatemala, 2014. Cristina Chiquin and Mujeres Ixchel via Prensa Comunitaria, CC BY-NC-ND 4.0."
        fit="contain"
        url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2271.jpg">
 <param title="Zea mays" eid="Q11575" aliases="maize"> 
@@ -38,7 +38,7 @@ Why did this new policy about maize inspire such strong reactions? Since its dom
 ### A Kernel of Science
 What is maize? How did it develop? These questions may seem simple, particularly given the ubiquity of corn-based products, but the large body of scholarship on the crop shows the answers to be anything but straightforward. Maize, in taxonomic parlance _Zea mays L._, is a cereal grain consisting of a <span data-click-image-zoomto="663,1166,773,707">stalk</span>, <span data-click-image-zoomto="712,400,773,707">tassels of pollen</span>, and <span data-click-image-zoomto="298,745,773,707">ears filled with cobs of kernels</span> (averaging 800 kernels spread across 16 rows).
 <param ve-image
-       label="John Audobon, Common Purple Crow-Blackbird, 1. Male 2. Female (Maize or Indian Corn. [Zea Mays]), 1842. Londonjackbooks via Wikimedia Commons, public domain"
+       label="John Audobon, Common Purple Crow-Blackbird, 1. Male 2. Female (Maize or Indian Corn. [Zea Mays]), 1842. Londonjackbooks via Wikimedia Commons, public domain."
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Purple_Grackle_or_Common_Crow_Blackbird_%28Audubon%29.jpg">
 <param title="Zea mays" eid="Q11575">
@@ -47,7 +47,7 @@ What is maize? How did it develop? These questions may seem simple, particularly
 The reliance of many human societies on maize, the “[most dominant and productive crop”](https://futureoffood.org/insights/the-global-importance-of-maize-diversity/#:~:text=As%20the%20world's%20most%20dominant,%2C%20sweeteners%2C%20starch%2C%20and%20for) for their survival, is well known. Less understood is the plant’s reliance on humans for its survival. Maize most likely was domesticated from teosinte, a grass with tassels and several small-clustered ears. However, there are clear differences between modern-day maize and teosinte: while tesonite is made up of 6–12 kernels held in two rows surrounded by a protective shell, maize proffers a cob with approximately 20 rows of kernels without a hard outer shell.[^ref3] These differences are so profound that, as [one article in _PNAS_](https://doi.org/10.1073/pnas.0901122106) notes, “19th-century botanists failed to recognize the close relationship between these plants, placing teosinte in its own genus, [_Euchlaena_.](https://www.ipni.org/n/18060-1)” Present-day scholars have shown that maize was domesticated from teosinte through humans selecting for a larger ear size and more kernels.
 <param title="Teosinte" eid="Q7701197" aliases="teosinte"> 
 <param ve-image
-       label="Comparison between Maize and Teosinte, Nicolle Rager Fuller, National Science Foundation, public domain."
+       label="Comparison between Maize and Teosinte. Illustration by Nicolle Rager Fuller, National Science Foundation."
        fit="contain"
        url="https://nsf.gov/news/mmg/media/images/maize1_h.jpg">
 {#paragraph5}
