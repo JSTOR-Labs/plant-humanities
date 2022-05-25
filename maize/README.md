@@ -81,9 +81,7 @@ In addition to domesticating maize and dispersing it throughout South America an
        fit="contain"
        url="https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:61:5:wdl_10615:MedPalat218_01_0643/0,70,5642,7829/1024,/0/default.jpg">
 <param ve-image
-       label="The _Cruz-Badiano Codex_ is another important source of Mesoamerican herbal knowledge. Written most likely in Nahuatl by an “Indian doctor” and translated into Latin, it preserves several Indigenous names for crops. Many scholars have shown how the Indigenous names for various flowers and crops refers to their physical similarities to maize. For more, see Arthur O. Tucker and Jules Janick, _Flora of the Codex Cruz-Badianus_ (Cham, Switzerland: Springer International Publishing, 2020)."
-       attribution="Dumbarton Oaks"
-       license="public domain"
+       label="The Cruz-Badiano Codex is another important source of Mesoamerican herbal knowledge. Written most likely in Nahuatl by an “Indian doctor” and translated into Latin, it preserves several Indigenous names for crops. Many scholars have shown how the Indigenous names for various flowers and crops refers to their physical similarities to maize. For more, see Arthur O. Tucker and Jules Janick, Flora of the Codex Cruz-Badianus (Cham, Switzerland: Springer International Publishing, 2020). Dumbarton Oaks, public domain."
        fit="contain"
        url="https://www.doaks.org/resources/online-exhibits/epidemics/mesoamerican-herbals/health-and-commerce/@@images/image"> 
 <param ve-image
@@ -98,9 +96,7 @@ In addition to domesticating maize and dispersing it throughout South America an
 After its domestication, maize quickly became an important crop for Mesoamerican people, both nutritionally and culturally. Scholars and food policy experts have noted that maize is one of the most productive and nutritious crops in terms of calories per acre and [extol](https://www.cimmyt.org/news/classic-milpa-maize-intercrop-can-help-feed-communities-forgotten-by-development/) the <span eid="Q45914">Maya peoples’</span> practice of <span eid="Q1537558">milpa agriculture,</span> an agroecosystem that relies on extensive <span eid="Q853859">intercropping</span> as a means to promote biodiversity and address food insecurity. Under this system, maize was intercropped with plants including beans, <span data-click-image-zoomto="35,701,468,500">squash</span>, peppers, tomatoes, and potatoes, allowing for greater soil and landscape regeneration when compared to <span eid="Q220212">monocrops</span>. This practice, was incredibly productive: scientists have shown that in a milpa “<span data-click-image-zoomto="140,127,651,696">the maize stalk</span> supports <span data-click-image-zoomto="139,587,468,500">the climbing bean</span>, increasing the latter’s access to light, while the bean plant fixes additional nitrogen in the soil.”[^ref8] Maize thus not only represented an important source of nutrition in and of itself, but also enabled the growth of other nutritionally significant crops. Using carbon <span eid="Q518459">isotope analysis</span> of human bones and teeth, archeologists have shown how “maize was an important dietary component throughout life” for populations throughout the Maya area.[^ref9] 
 <param title="Maya maize god" eid="Q12744013" aliases="Maize God"> 
 <param ve-image
-       label="Illustration of Milpa agriculture. In this intercropping method, Maya farmers rotate annual crops with shorter-term perennial crops. In addition, land is left fallow for eight years following two years of cultivation to improve the regrowth of vegetation and maintain soil health."
-       attribution="Wikimedia Commons"
-       license="public domain"
+       label="Illustration of Milpa agriculture. In this intercropping method, Maya farmers rotate annual crops with shorter-term perennial crops. In addition, land is left fallow for eight years following two years of cultivation to improve the regrowth of vegetation and maintain soil health. Garlangoyle via Wikimedia Commons, CC BY-SA 4.0."
        fit="cover"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Three_Sisters_planting_visual_graphic.png/904px-Three_Sisters_planting_visual_graphic.png?20201203212314">
 {#paragraph8}
@@ -112,22 +108,12 @@ To obtain the utmost nutrients from maize, Mesoamericans practiced a process cal
 <param title="metate" eid="Q1854307">
 <param title="chicha" eid="Q516592">
 <param ve-image
-       label="The process of nixtamalizing corn using a metate, as represented in the _Códice Mendoza_ (1540)"
-       attribution="Wikimedia Commons"
-       license="public domain"
+       label="The process of nixtamalizing corn using a metate, as represented in the Códice Mendoza. Códice Mendoza, 1541–1650, Bodleian Libraries, University of Oxford, CC-BY-NC 4.0. Photo: © Bodleian Libraries, University of Oxford."
        region="3530,4341,1787,1476" seq="129" manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json">
 <param ve-image
-       label="Making tortillas with nixtamalized dough"
-       attribution="Pierre-Frederic Lehnert, Wikimedia Commons."
-       license="public domain"
+       label="Carl Nebel, after, “Las Tortilleras”: Women Making Tortillas, 1800–1830s, lithography by Pierre-Frederic Lehnert, lithograph with hand-painted watercolor, 43.6×30 cm, Wikimedia Commons, public domain."
        fit="cover"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tortilleras_Nebel.jpg/1600px-Tortilleras_Nebel.jpg?20080904092709">
-<param ve-image
-       label="1950 lithograph of a woman in Mexico grinding maize on a metate"
-       attribution="Leopoldo Méndez, LACMA"
-       license="public domain"
-       fit="contain"
-       url="https://s3-us-west-2.amazonaws.com/collections.lacma.org-images/remote_images/ma-137971-WEB.jpg?ziJ5IqsnUjUtEpppuDIIlcvfiKgXT74f">       
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tortilleras_Nebel.jpg/1600px-Tortilleras_Nebel.jpg?20080904092709">      
 {#paragraph8}
 
 The nutritional importance of maize cannot be separated from its cultural significance. In the _Popol Vuh_, which recounts the Maya creation story, humans were quite literally molded out of maize by the deities. Scholars have long recognized motifs of maize in Olmec and Maya iconography. However, in the past four decades, scholars have begun to identify a specific “Maize God” that has an “<span data-click-image-zoomto="1227,427,610,590">elongated, tonsured head</span> [that] mimics the long tasseled cob,” and often has “maize grain ... infixed into his head,” among other qualities.[^ref11] While there is much about the Maize God that remains to be explained in the scholarly literature, it is clear “that the corn cycle was the central metaphor of life and death for the Maya and the nucleus around which much of their religiosity was formed.”[^ref12]
@@ -137,17 +123,13 @@ The nutritional importance of maize cannot be separated from its cultural signif
 <param title="Maya maize god" eid="Q12744013" aliases="Maize God"> 
 <param ve-image
        label="Bowl with Anthropomorphic Cacao Trees from Early Classic Maya Period. Scholars have shown the central figure represents the Maize God as an embodied cacao tree. See: Simon Martin, “Cacao in Ancient Maya Religion: First Fruit from the Maize Tree and Other Tales from the Underworld,” in Chocolate in Mesoamerica, ed. Cameron McNeil (University Press of Florida, 2009), 154–83."
-       attribution="Dumbarton Oaks"
-       license="public domain"
        fit="contain"
-       url="cacao_maize_DO.jpg">
+       manifest="https://iiif-v2.visual-essays.app/manifest/a82a69fb91004db10c73bd058ab877c74dcdbbd3012669465861459ad43851d3">
 {#paragraph9}
 
 For the Maya, maize was and is more than simply a metaphor and powerful image in the Mesoamerican visual lexicon. Seventeenth-century records reveal how in highland Guatemala, upon the birth of a son, the Maya community would burn the blood of the umbilical cord. Then, they would “pas[s] an ear of maize through the smoke,” which would subsequently be planted in the maize field. Ethnographers have recorded that “parents used the maize from this small patch of land to feed the child ‘until he reached the age when he could plant for himself, saying that thus he not only ate by the sweat of his brow, but of his own blood as well.’”[^ref13] In certain regions, mothers “place an ear of maize into the palm of their newborns, and eat only dishes made from maize while breast-feeding to ensure that the child grows ‘true flesh.’”[^ref14]  Maize, for Maya people, thus represents more than both calories or symbol: it is a sacred plant from which all life grows. 
 <param ve-image
-       label="Florence, Biblioteca Nazionale Centrale, MS Magliabechiano XIII.3 (Codex Magliabechiano), fols. 78r and 33r."
-       attribution="Ministry of Culture & Central Library, Florence"
-       license="public domain"
+       label="Codex Magliabechiano, fols. 78r and 33r., Biblioteca Nazionale Centrale, Florence, MS Magliabechiano XIII.3. By permission of the Ministry of Culture / Central Library, Florence."
        fit="contain"
        url="https://www.doaks.org/resources/online-exhibits/epidemics/nahua-health-medicine/diagnosis-and-the-divine/@@images/image">
  {#paragraph10}
@@ -203,8 +185,7 @@ The 2014 protests in Guatemala are not the only example of dissent over transgen
 
 While some protests against Monsanto’s promotion of transgenic maize have been successful, Liza Grandia has observed that it is “hard to predict whether [events like] the victory over Monsanto in Guatemala [were] a once- or twice-in-a-generation occurrence or a signal of expanded democratic unrest.”[^ref29] What is clear, however, are the perils of detaching maize, a complex crop of global significance, from the rich cultural and biological context of its original domestication and the sophisticated practices of Indigenous agriculture and land management. Maize, as a sacred crop, is more than mere fodder for scientific development: rather, it is the lifeblood of many communities.[^ref30]
 <param ve-image
-      label="The many meanings of maize"
-       attribution="Wikimedia Commons and JStor Global Plants" 
+      label="The many meanings of maize. Wikimedia Commons and JStor Global Plants." 
        fit="fill"
        url="maizemeanings2.jpg">
 
