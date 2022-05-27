@@ -185,7 +185,7 @@ The 2014 protests in Guatemala are not the only example of dissent over transgen
 
 While some protests against Monsanto’s promotion of transgenic maize have been successful, Liza Grandia has observed that it is “hard to predict whether [events like] the victory over Monsanto in Guatemala [were] a once- or twice-in-a-generation occurrence or a signal of expanded democratic unrest.”[^ref29] What is clear, however, are the perils of detaching maize, a complex crop of global significance, from the rich cultural and biological context of its original domestication and the sophisticated practices of Indigenous agriculture and land management. Maize, as a sacred crop, is more than mere fodder for scientific development: rather, it is the lifeblood of many communities.[^ref30]
 <param ve-image
-      label="The many meanings of maize. Wikimedia Commons and JStor Global Plants." 
+      label="The many meanings of maize. The many meanings of maize. L to R: Zea mays specimen, JSTOR Global Plants; Plaque Pendant of Maize Deity, Maya, Late Classic, 650/750-900 CE, 5.4 cm x 4.76 cm x 0.64 cm, jadeite, Dumbarton Oaks, public domain; Wikimedia Commons." 
        fit="fill"
        url="maizemeanings2.jpg">
 
