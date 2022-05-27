@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Santo Daime practitioners decorate their altars with a variation of the Christian cross, which symbolizes the mission of Jesus Christ. The teachings of Christianity form a core tenet of the religion. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://live.staticflickr.com/200/470377554_585483993d_k.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:380.94873046875,108.22484588623047,882.68212890625,898.8667068481445"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ad5ba985-bfda-4d1a-b4b6-a2106aa1ebb4"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "A cup for drinking ayahuasca also decorates the altar. Often, vessels of the brew will be displayed alongside the cross. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/248a00097cb5738070a4fb9914bb4ce999f1800a2a6d6e75d8accf374be873c6",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1140.3863525390625,1453.476806640625,447.2310791015625,605.0631103515625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#be965ffe-16ff-4927-97bc-c56af5c2556b"
+  }
+]
