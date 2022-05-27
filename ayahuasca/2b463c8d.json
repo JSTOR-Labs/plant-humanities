@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "To divine, they [sorcerers] drink the juice, some, from a white devil's trumpet (floripondio) which they also call Bell because of its shape, others, from a vine called vulgarly ayahuasca, both very effective in depriving of one's senses and even of life if used in excess.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/f24242f47c67d3c07738fd3f8ab86360995b2a749a9edf2c3c81099032e2d21e",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:167.55784606933594,1085.4315185546875,704.4270172119141,172.687255859375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ce1e1e01-ca0a-4aaa-a7a3-5688835f6639"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "It is not easy to prove if those who are presumed to be sorcerers can actually communicate and consult with the Devil.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/f24242f47c67d3c07738fd3f8ab86360995b2a749a9edf2c3c81099032e2d21e",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:159.00897216796875,762.2841796875,724.9443359375,100.876708984375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f5eb5c98-e7c9-44ae-9a11-e9b1302e18e0"
+  }
+]
