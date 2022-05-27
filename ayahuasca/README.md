@@ -8,9 +8,7 @@
        
 Since the late 1990s, the Amazonian psychoactive beverage ayahuasca has grown increasingly common throughout the world. Those living in Europe or the United States may be most familiar with the brew through New Age spiritual practices, exoticizing travel writing, and the growing eco-tourism industry. However, these associations can obscure the long traditions of ayahuasca’s use by a variety of Indigenous groups in what is now called South America. Even within Amazonia, ayahuasca’s ingredients and components, ritual usage, and spiritual and medicinal effects remain highly dynamic and contested. With its continually evolving story, ayahuasca can serve as an eloquent “plant teacher,” as it is known in the Peruvian Amazon, highlighting both the relationality between humans and plants and the ways those relations were appropriated and transformed for a global market. 
 <param ve-image url="https://live.staticflickr.com/7384/11949826476_3110402a35_k.jpg"
-       label="Preparing Ayahuasca with Chacruna(P. viridis)"
-       attribution="Jairo Galvis Henao"
-       license="CC BY-NC-ND 2.0">
+       label="Preparing Ayahuasca with Chacruna (P. viridis), Jairo Galvis Henao via Flickr, CC BY-NC-ND 2.0."
 <param ve-entity eid="Q380436"> <!--ayahuasca--> 
 <param ve-entity eid="Q8546690"> <!--indigenous amazonian groups-->
 <param ve-entity eid="Q183308"> <!--new age spiritualism-->
@@ -21,9 +19,7 @@ Since the late 1990s, the Amazonian psychoactive beverage ayahuasca has grown in
 Although many associate ayahuasca with a particular species of plant, it actually refers to a group of Indigenous psychoactive brews made by boiling a combination of species found in certain regions of Amazonia. The name ayahuasca is a compound word in the Quechua language: _aya_ refers to “soul, ancestors, or dead persons” while _waska_ refers to “vine or rope.” Popular translations of the name allude to “vine of the soul,” while skeptics suggest “rope of death.”[^ref1] However, Ayahuasca is known by many names such as _natema, hoasca, daime, yagé,_ or _yajé_ among groups living in Ecuador, Colombia, Peru, and Brazil.
 <param ve-entity eid="Q5218"> <!--quechua--> 
 <param ve-entity eid="Q2841453"> <!-- Amazonia--> 
-<param ve-image label="Map of various Amazonian groups reported to use ayahuasca plants by Richard Evans Schultes, 1957" description="Composed and drawn by botanist Richard Evans Shultes, 1957" 
-       attribution="Courtesy of Missouri Botanical Garden, Peter H. Raven Library"
-       license="CC BY-NC-SA 3.0"
+<param ve-image label="Map of various Amazonian groups reported to use ayahuasca plants. Composed and drawn by botanist Richard Evans Shultes, 1957. Missouri Botanical Garden, Peter H. Raven Library via BHL, public domain."
        url="https://www.biodiversitylibrary.org/pageimage/7810703"
        fit="contain">
 {#paragraph2}
@@ -37,60 +33,43 @@ When someone drinks ayahuasca, they experience intensely vivid hallucinations an
 {#paragraph3}
 
 There are many traditions associated with the preparation and imbibing of the decoction due to its ubiquity amongst cultures throughout the Amazon basin and Andean highlands. Boiling and steeping together the vines of _Banisteriopsis caapi_ (Malpighiaceae) and the leaves of _Psychotria viridis_ (Rubiaceae) is most common.[^ref5] This combination of plants and their collective effects have been known among Amazonian Indigenous populations for at least 3000 years.[^ref6] However, there are some recipes which do not contain any _P. viridis_ and opt for other plants which contain DMT such as _Diplopterys cabrerana_ (Malpighiaceae).
-<param ve-image label="Commentary on the recipe for Ayahuasca brew by French missionary Constantin Tastevin, 1926" description= "An excerpt from Brunfelsia in Ethnomedicine by Timothy Plowman, 1977"
-       attribution= "Courtesy of Missouri Botanical Garden, Peter H. Raven Library"
-       license= "CC BY-NC-SA 3.0"
+<param ve-image label="Commentary on the recipe for Ayahuasca brew by French missionary Constantin Tastevin, 1926. An excerpt from Brunfelsia in Ethnomedicine by Timothy Plowman, 1977. Missouri Botanical Garden, Peter H. Raven Library, public domain."
        url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/Recipe%20commentary%20-%20Constatin%20Tastevin.png?raw=true"
        fit= "contain"> 
 <param ve-plant-specimen eid= "Q1939784" max="1">
 {#paragraph4}
 
 Consuming ayahuasca produces a roughly four hour long period of altered consciousness. During this time, practitioners experience otherworldly visuals and fluctuations in conceptions of reality and selfhood. Most Indigenous groups of the Amazon basin understand the world as a series of interlocking human and nonhuman persons, both visible and invisible.[^ref7] By entering the “ayahuasca world,” a liminal meeting place with more-than-human beings, Indigenous participants in the ritual are able to better visualize the forces at work around them.[^ref8] Such insight is used to treat physical ailments, address mental health concerns, and provide spiritual guidance. In these Amazonian communities, ayahuasca is central to religious, healing, and initiation ceremonies as a form of traditional medicine and psychiatry.[^ref9] 
-<param ve-image label="Don Emilio's ayahasuca experience" description="Vegetalista Don Emilio reflects on the experience of consuming ayhauasca" license="public domain" url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/Ayahuasca%20Trip%20-%20Don%20Emilio.png?raw=true" fit="contain">
-<param ve-image label="Pablo Amaringo's ayahuasca experience" description="Peruvian shahman and artist Pabo Amaringo reflects on the experience of consuming ayahuasca" license="public domain" url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/Ayahuasca%20Trip%20-%20Pablo%20Amaringo.png?raw=true" fit="contain">
+<param ve-image label="Vegetalista Don Emilio reflects on the experience of consuming ayahuasca, public domain." url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/Ayahuasca%20Trip%20-%20Don%20Emilio.png?raw=true" fit="contain">
+<param ve-image label="Peruvian shahman and artist Pabo Amaringo reflects on the experience of consuming ayahuasca, public domain." url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/Ayahuasca%20Trip%20-%20Pablo%20Amaringo.png?raw=true" fit="contain">
 {#paragraph5}
 
 ### The Origins of Ayahuasca and Plant Knowledge 
 
 The earliest archaeological evidence of the use of _Banisteriopsis caapi_ and _Psychotria viridis_ dates back at least 1,000 years. A preserved ritual bundle containing snuff paraphernalia, dried plant remains, pouches, and textiles was excavated at the Cueva del Chilena rock structure in the Sora Valley in Bolivia, associated with the ancient Tiwanaku state. Chemical analysis conducted on harmine and DMT residue indicates that _Banisteriopsis caapi_ and _Psychotria viridis_ were likely present in the bundle. It is not known how these materials were taken into the body (snuff plates and spatulas were discovered in the bundle so the plants were possibly inhaled directly) but it is possible that the two plants were combined together even then to create an early ayahuasca decoction.[^ref10]
 <param ve-entity eid="Q61750"> <!--Tiwanaku-->
+<param ve-image
+       primary
+       label="Bundle of dried sticks and vine, tied with fiber. Kofan, Rio San Miguel, Columbia. Peabody Museum of Archaeology and Ethnology (Harvard University), Museum Purchase, 1948. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 48-17-30/7158."
+       url="Bundle.jpg"
+       fit="contain">
 <param ve-image 
-       label="Aguarico Ceramic bowl with base for ayahuasca decoctions." 
+       label="Yukuna ceramic vessel, Mirití-Paraná River, Columbia. Ceramic polychrome vessel, black interior, two perforated handles, 12 x 10 15/16 x 9 5/8 in., Peabody Museum of Archaeology and Ethnology (Harvard University), loan from Richard Schultes, 1954. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 54-21-30/7536."
+       url="Ayahuasca vessel 4.jpg"
+       fit="contain">
+<param ve-image 
+       label="Ceramic Bowl, Aguarico culture, likely used for the consumption of ayahuasca decoctions, mended, reconstructed, red exterior, black interior, 9.9 cm x 17.4 cm. Peabody Museum of Archaeology and Ethnology (Harvard University), Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 35-25-30/1108." 
        url="Ayahuasca vessel 1.jpg"
        fit="contain"
-       stable-url="https://www.jstor.org/stable/community.15365224"
-       description="Ceramic Bowl, Aguarico culture, likely used for the consumption of ayahuasca decoctions, mended, reconstructed, red exterior, black interior,          9.9 cm x 17.4 cm. Peabody Museum of Archaeology and Ethnology (Harvard University),accession number 35-25-30/1102" 
-       credit="Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody
-               Museum of Archaeology and Ethnology, 35-25-30/1108"> 
+       stable-url="https://www.jstor.org/stable/community.15365224"> 
 <param ve-image 
-       label="Ceramic bowl with base for ayahuasca decoctions." 
+       label="Ceramic Bowl, Aguarico culture, likely used for the consumption of ayahuasca decoctions, mended, reconstructed, red exterior, black interior, 9.9 cm x 17.4 cm. Peabody Museum of Archaeology and Ethnology (Harvard University), Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 35-25-30/1108" 
        url="Ayahuasca vessel 2.jpg" 
-       fit="contain" 
-       description="Aguarico ceramic bowl, Tucano(?), Rio Napo, Ecuador. Mended, reconstructed, red exterior, black 
-       interior, 9.9 cm x 17.4 cm.,Peabody Museum of Archaeology and Ethnology (Harvard University), accession number 35-25-30/1102." 
-       credit="Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody 
-               Museum of Archaeology and Ethnology, 35-25-30/1102">
+       fit="contain">
 <param ve-image 
-       label="Ceramic bowl with base for ayahuasca decoctions."
+       label="Ceramic Bowl, Aguarico culture, likely used for the consumption of ayahuasca decoctions, mended, reconstructed, red exterior, black interior, 9.9 cm x 17.4 cm. Peabody Museum of Archaeology and Ethnology (Harvard University), Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 35-25-30/1108"
        url="Ayahuasca vessel 3.jpg"
-       fit="contain"
-       description="Aguarico ceramic bowl, Tucano(?), Rio Napo, Ecuador. Ceramic bowl, bulbous body, flared rim, black interior, red exterior, fire cloud, 10.9 cm        x20.5 cm, Peabody Museum of Archaeology and Ethnology (Harvard University), accession number 35-25-30/1115."
-       credit="Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody
-               Museum of Archaeology and Ethnology, 35-25-30/1115">
-<param ve-image 
-       label="Ceramic vessel for yagé."
-       url="Ayahuasca vessel 4.jpg"
-       fit="contain"
-       description="Yukuna ceramic vessel,Mirití-Paraná River, Columbia. Ceramic polychrom vessel, black interior, two perforated handles, 12 x 10 15/16 x 9 5/8
-                    in., Peabody Museum of Archaeology and Ethnology (Harvard University), accession number 54-21-30/7536"
-       credit="Loan from Richard Schultes, 1954. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 54-21-30/7536">
-<param ve-image 
-       label="Bundle of ayahuasca."
-       url="Bundle.jpg"
-       fit="contain"
-       description="Bundle of dried sticks and vine, tied with fiber. Kofan, Rio San Miguel, Columbia. Peabody Museum of Archaeology and Ethnology (Harvard
-                    University), accession number 48-17-30/7158"
-       credit="Museum Purchase,1948. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 48-17-30/7158">
+       fit="contain">
 {#paragraph6}
 
 An even more puzzling aspect about ayahuasca decoctions for outsider researchers, is its discovery. How did apparently isolated Amazonian communities come to know the synergistic effect between different plant species in one of the most biodiverse forests of the world? For decades, scientists have assumed that indigenous people have accumulated botanical knowledge by mere “trial and error”.[^ref11] This umbrella method for diverse ways of knowing the natural world obscures the sophistication and depth of botanical knowledge in the Amazon. Ayahuasca brews across the Amazon harness the psychoactive properties of at least 97 species from 38 plant families.[^ref12] Aside from _P. viridis_, Amazonian indigenous groups have identified the medicinal properties of at least three other _Psychotria_ species —a plant group that comprises no less than a thousand species.[^ref13] While these are veritable feats of botanical research, Indigenous ways of knowing are not necessarily measured by such standards nor rely exclusively on observations and collection of written data. Many _ayahuasqueros_ in the Peruvian Amazon learn ayahuasca recipes through oral traditions from elders, but the teacher itself is considered to be the plant, not the elder alone.[^ref14] Learning through plant teachers involves at times solitude (_dietas_), long periods of sensorial interactions with the plant, and incorporating dreams and visions as significant teachings.[^ref15] Thus, plant-generated knowledge does not dwell on counting species or detailed descriptions, rather,  it seeks to create memory and awareness through the interaction with a sentient plant.
@@ -101,10 +80,7 @@ An even more puzzling aspect about ayahuasca decoctions for outsider researchers
 For outsider researchers hailing from the West, identifying plant species used in ayahuasca decoctions has been difficult for a number of reasons. Exact recipes are often closely guarded by Indigenous knowledge keepers and precise measurements of the ingredients are not always recorded.  Additionally, Indigenous groups may classify plants according to more refined and specific criteria than Western scientists, identifying nuanced variations in leaf shape, size, breadth, flowering patterns, the psychoactive effects  as well as the guardian spirits associated with the plant.[^ref16] Indigenous groups using these complex classification systems will at times refer to the same plant species by many names or use the same name for different plants all depending on their uses. In the case of ayahuasca, “different” species are used to create brews with varying strength and purpose.[^ref17] 
 <param ve-image
         url="https://www.biodiversitylibrary.org/pageimage/7463889"
-        label="Richard Schultes, A Kamentsá youth holding a metz-kwai borrachero flower in the Valley of Sibundoy."
-        attribution="Courtesy of the Missouri Botanical Garden, Peter H. Raven Library & Biodiversity Heritage Library"
-        license= "CC BY-NC-SA 3.0"
-        description="A young Kamentsá boy holds the flower of a narcotic plant similar to a moonflower in the Valley of Sibundoy Valley ca.1953. The name metz-kwai stands for 'intoxicant of the jaguar'. Originally published in the Botanical Museum Leaflets, Harvard University, Vol.17, Issue 1 (1955)"
+        label="A young Kamentsá boy holds the flower of a narcotic plant similar to a moonflower in the Valley of Sibundoy Valley ca.1953. The name metz-kwai stands for 'intoxicant of the jaguar'. Originally published in the Botanical Museum Leaflets, Harvard University 17, no. 1 (1955). Richard Schultes, Missouri Botanical Garden, Peter H. Raven Library via BHL, public domain."
         fit="cover">
 {#paragraph8}
 
@@ -113,10 +89,7 @@ For these reasons, ayahuasca and its associated plant species form an exemplary 
 <param ve-entity eid="Q1385203"> <!--Extractivism-->
 <param ve-image
         url="https://www.biodiversitylibrary.org/pageimage/7810745"
-        label="Richard Schultes, Makuna Indian witch-doctor gathering stems of B. caapi, Río Popeyacá Colombia (upper), Banisteriopsis inebrians cultivar, Putumayo Colombia (lower), ca. 1950s"
-        description="Two photographs depicting the cultivation and gathering of the ayahuasca vine in the Colombian Amazon, ca. 1950s. Originally published in the Botanical Museum Leaflets, Harvard University, Vol.18, Issue 1 (1957) "
-        attribution="Courtesy of the Missouri Botanical Garden, Peter H. Raven Library & Biodiversity Heritage Library"
-        license= "CC BY-NC-SA 3.0"
+        label="Makuna Indian witch-doctor gathering stems of B. caapi, Río Popeyacá Colombia (upper), Banisteriopsis inebrians cultivar, Putumayo Colombia (lower), ca. 1950s. Two photographs depicting the cultivation and gathering of the ayahuasca vine in the Colombian Amazon, ca. 1950s. Originally published in the Botanical Museum Leaflets, Harvard University 18, no. 1 (1957). Richard Schultes, Missouri Botanical Garden, Peter H. Raven Library via BHL, public domain."
         fit="contain">
 {#paragraph9}
 
@@ -125,10 +98,7 @@ Often, non-Indigenous Western researchers conducted studies which prominently ce
 <param ve-entity eid="Q1385203"> <!--Extractivism-->
 <param ve-image
         url="https://www.biodiversitylibrary.org/pageimage/7810745"
-        label="Richard Schultes, Makuna Indian witch-doctor gathering stems of B. caapi, Río Popeyacá Colombia (upper), Banisteriopsis inebrians cultivar, Putumayo Colombia (lower), ca. 1950s"
-        description="Two photographs depicting the cultivation and gathering of the ayahuasca vine in the Colombian Amazon, ca. 1950s. Originally published in the Botanical Museum Leaflets, Harvard University, Vol.18, Issue 1 (1957) "
-        attribution="Courtesy of the Missouri Botanical Garden, Peter H. Raven Library & Biodiversity Heritage Library"
-        license= "CC BY-NC-SA 3.0"
+        label="Makuna Indian witch-doctor gathering stems of B. caapi, Río Popeyacá Colombia (upper), Banisteriopsis inebrians cultivar, Putumayo Colombia (lower), ca. 1950s. Two photographs depicting the cultivation and gathering of the ayahuasca vine in the Colombian Amazon, ca. 1950s. Originally published in the Botanical Museum Leaflets, Harvard University 18, no. 1 (1957). Richard Schultes, Missouri Botanical Garden, Peter H. Raven Library via BHL, public domain."
         fit="contain">
 {#paragraph10}
 
@@ -136,21 +106,15 @@ Often, non-Indigenous Western researchers conducted studies which prominently ce
 
 Even if the origins of the ayahuasca brew have not been completely elucidated in the West, it is clear that numerous rituals and visual representations have arisen from the sensorial experiences prompted through ayahuasca rituals. While conducting his groundbreaking research on ayahuasca rituals amongst the <span ve-entity eid="Q106713">_mestizo_</span> population in the Peruvian Amazon, anthropologist Luis Eduardo Luna encountered the <span ve-entity eid="Q547457">_curandero_</span> <span ve-entity eid="Q2511028">Pablo Amaringo</span>. Wanting to know more about Amaringo’s experiences with the brew, Luna provided him with paper and <span ve-entity eid="Q175166">tempera</span> paints and asked him to draw his visions. For Amaringo, the visual was a key component in ayahuasca’s efficacy. “The Spirits don’t talk,” he explains, “but express themselves through images.”[^ref24] Full of bright colors, elaborate patterns, and fantastical scenes, Amaringo’s paintings both attempt to reproduce the effects of ayahuasca and point to the knowledge and wisdom derived from the rituals. Furthermore, according to Amaringo, the brew transformed him into an artist by teaching him how to see and understand colors. In this painting, Amaringo explores the interconnectedness of humans, animals, plants, and spirits through the motif of the <span eid="Q2990943">ficus tree (_Ficus insipida_)</span>. Practitioners can access that knowledge through ayahuasca rituals, fasting, and chanting. 
 <param ve-image 
-       label="Pablo Amaringo, untitled, 1996" 
+       label="Pablo Amaringo, untitled, 1996, gouache on paper, 18 x 24 in., St. Lawrence University Art Gallery, CC BY-NC-ND 2.0." 
        url="https://live.staticflickr.com/8507/27951788334_154753d604_4k.jpg"
-       description="Gouache on paper, 18 x 24 in."
-       attribution="St. Lawrence University Art Gallery"
-       license="CC BY-NC-ND 2.0">
 {#paragraph11}
 
 For the <span ve-entity eid="Q36411">Shipibo people</span> of modern day Peru, ayahuasca rituals likewise revolve around visualizing the unseen. According to Shipibo history, in ancient times, everything in the world -- water, plants, earth, humans, etc. -- was once covered with intricate patterns that expressed the fundamental nature of creation through design. As time passed, this ubiquitous patterning was lost. Through the transcendent hallucinations of ayahuasca, though, Shipibo artists could once again have access to sacred patterns. The Shipibo people are unique in that the majority of these artists and practitioners were female. By reproducing such patterns in pottery and textiles, these women practiced therapy and healing born out of the knowledge of the interconnectedness of the universe.[^ref25] 
 <param ve-image url="https://upmaa-pennmuseum.netdna-ssl.com/collections/assets/1600/72338.jpg"
-       label="Shipibo Jar" 
-       attribution="Object 78-1-22. Courtesy of the Penn Museum.">
+       label="Shipibo Jar [with geometric motifs], Shipebo Conebo maker, Amazonia, Peru, ceramic, H. 9 cm, Penn Museum." >
 <param ve-image url="https://live.staticflickr.com/4386/36706638286_f4bfd80169_3k.jpg"
-       label="Traditional Shipibo Embroidery"
-       attribution="CIFOR"
-       license="CC BY-NC-ND 2.0">
+       label="Traditional Shipibo Embroidery, CIFOR via Flickr, CC BY-NC-ND 2.0.">
 {#paragraph12}
   
 More than just visual, though ayahuasca ceremonies are a multisensory journey for those experiencing the effects of the decoction. In addition to the ayahuasca itself, music is a vital component in several ayahuasca traditions. In Peru, whistled chants, <span ve-entity eid="Q5985066">_icaros_</span>, accompany ayahuasca healing ceremonies carried out by _ayahuasqueros_ or _vegetalistas_. The whistling is meant to invoke spiritual forces so that they may open doorways and help to complete tasks. Guardian spirits of the vine may also be invoked by the whistling to aid in the ceremony. The songs likely also help to orient those who have imbibed the decoction, providing some grounding effect while the participant is otherwise disoriented by the effects of the decoction.[^ref26]
@@ -308,17 +272,13 @@ Today, many in the West are most familiar with ayahuasca not through Indigenous 
 Scholars have debated at length about the contemporary global usage of ayahuasca. On the one hand, ayahuasca tourism highlights the legacies of <span eid="Q1385203">extractive colonialism</span> as non-Indigenous peoples exploit Indigenous knowledge and belief systems and adapt them for their own benefit. In the case of ayahuasca, this often involves idealizing and stereotyping real Indigenous shamans living in the modern world. [^ref41] Additionally, the new demand has led to [overharvesting](https://www.theguardian.com/sustainable-business/2017/jan/24/tourist-boom-peru-ayahuasca-drink-amazon-spirituality-healing) of ayahuasca’s botanical components, which are traditionally gathered rather than commercially cultivated. On the other hand, ayahuasca has provided Indigenous people with an economic tool to engage with the wider globe, while at the same time ensuring the persistence of practices that were threatened by Christianizing colonialism. [^ref42]
 <param ve-image
        url="https://live.staticflickr.com/7801/46289544604_b947b3f048_3k.jpg"
-       label="'Eco Aldeia Serra Sagrada,' an ayahuasca retreat in Minas Gerais, Brazil"
-       attribution="upsilon"
-       license="CC BY 2.0">
+       label="‘Eco Aldeia Serra Sagrada,’ an ayahuasca retreat in Minas Gerais, Brazil. upsilon via Flickr, CC BY 2.0.">
 {#paragraph23}
                  
 In truth, ayahuasca rituals have always been dynamic and multiple, differing between ethnic groups in Amazonia and evolving over time. In Peru, for example, the mestizo population developed a set of practices called <span eid="Q7918350">_Vegetalismo_</span>, which was inflected by both <span eid="Q1841">Catholicism</span> and traditional Indigenous knowledges. _Vegetalistas_ consider the plants that form the ayahuasca brew to be “teachers” capable of imparting specialized knowledge to humans. Likewise, a <span eid="Q3855400">Brazilian minister</span> raised in an ethnically diverse <span eid="Q1737205">rubber boom</span> town founded the syncretic church of <span eid="Q2032421">_Santo Daime_</span> based on Catholicism, African <span eid="Q43004">animism</span>, and Indigenous _vegetalismo_, which uses ayahuasca extensively in its rituals. _Santo Daime_ itself spread globally, with churches in the United States, Canada, and Europe.
 <param ve-image
        url="https://live.staticflickr.com/200/470377554_585483993d_k.jpg"
-       label="Cross in Matutu Daime Church"
-       attribution="Lou Gold"
-       license="CC BY-NC 2.0">
+       label="Cross in Matutu Daime Church. Lou Gold via Flickr, CC BY-NC 2.0.">
 <!--there are no references in this paragraph-->
 {#paragraph24}
 
@@ -329,9 +289,7 @@ The question then becomes, _who_, if anyone, _owns_ ayahuasca? In 1986, American
 <param ve-entity eid="Q7832334"><!--TEK--> 
 <param ve-image
         url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/USP_DaVinePatent_1986.png?raw=true"
-        label="Patent granted to Loren Miller in 1986"
-        attribution="USPTO Patent Full-Text and Image Database""
-        license= "TBA"
+        label="Patent granted to Loren Miller in 1986, USPTO Patent Full-Text and Image Database."
         fit="contain"> 
  <!--link to patent: https://pdfpiw.uspto.gov/.piw?Docid=PP005751&homeurl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%2526r%3D28%2526f%3DG%2526l%3D50%2526d%3DPTXT%2526S1%3D%252522banisteriopsis%252522%2526OS%3D%252522banisteriopsis%252522%2526RS%3D%252522banisteriopsis%252522&PageNum=&Rtype=&SectionNum=&idkey=NONE&Input=View+first+page  I am not sure if this info is public domain -->
 {#paragraph25}
@@ -340,11 +298,7 @@ The “Da Vine” patent was eventually overturned, but not because the courts r
 <param ve-entity eid="Q1122595"> <!--field museum-->                 
 <param ve-image
        url="https://fm-digital-assets.fieldmuseum.org/725/857/V0219206F.jpg"
-       label="Specimen of cultivated Banisteriopsis caapi at the Kampong, Florida, 1974. Collected by Timothy Plowman"
-       description="The Center for International Environmental Law (CIEL) used this herbarium specimen to demonstrate that Loren Miller's unique B. caapi
-                    cultivar in the US already existed before he patented. The specimen not only includes a dried plant with its flowers but also a photograph that shows the flowers' coloration."
-       attribution="Courtesy of the Field Museum of Natural History"
-       license="CC BY-NC 4.0"
+       label="The Center for International Environmental Law (CIEL) used this herbarium specimen to demonstrate that Loren Miller's unique B. caapi cultivar in the US already existed before he patented. The specimen not only includes a dried plant with its flowers but also a photograph that shows the flowers' coloration. Specimen of cultivated Banisteriopsis caapi at the Kampong, Florida, 1974. Collected by Timothy Plowman. Field Museum of Natural History, CC BY-NC 4.0."
        fit="contain">
 {#paragraph26}
 
