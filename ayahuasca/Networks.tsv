@@ -1,0 +1,18 @@
+source	source.label	target	target.label	edge
+Q1479328	Indigenous Amazonians	Q380436	Ayahuasca 	use
+Q1479329	Indigenous Amazonians		RELIGIOUS OR SPIRITUAL	interactions with Ayahuasca are an example of 
+Q1479330	Indigenous Amazonians		MEDICINAL	interactions with Ayahuasca are an example of 
+Q1479331	Indigenous Amazonians		ECONOMIC	interactions with Ayahuasca are an example of 
+Q183308	New Age Practitioners 	Q380436	Ayahuasca 	use
+Q183309	New Age Practitioners 		RELIGIOUS OR SPIRITUAL	interactions with Ayahuasca are an example of 
+Q183310	New Age Practitioners 		MEDICINAL	interactions with Ayahuasca are an example of 
+Q183311	New Age Practitioners 		ECONOMIC	interactions with Ayahuasca are an example of 
+Q172904	Syncretic Religions	Q380436	Ayahuasca 	use
+Q172904	Syncretic Religions		RELIGIOUS OR SPIRITUAL	interactions with Ayahuasca are an example of 
+Q172904	Syncretic Religions		MEDICINAL	interactions with Ayahuasca are an example of 
+	Tourists 	Q380436	Ayahuasca 	use
+	Tourists 		RELIGIOUS OR SPIRITUAL	interactions with Ayahuasca are an example of 
+	Tourists 		MEDICINAL	interactions with Ayahuasca are an example of 
+	Tourists 		ECONOMIC	interactions with Ayahuasca are an example of 
+	Western Researchers	Q380436	Ayahuasca 	use
+	Western Researchers		MEDICINAL	interactions with Ayahuasca are an example of 
