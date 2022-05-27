@@ -131,10 +131,8 @@ Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missio
 <param ve-entity eid="Q7121682"> <!--Pablo Maroni-->
 <param ve-image 
        url="https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:13:7:wdl_01137:cart168292/full/pct:50/0/default.jpg"
-       label="Samuel Fritz, The Marañon or Amazon River with the Mission of the Society of Jesus, 1707" 
-       description="An eighteenth-century map of the Amazon river and one of its main tributaries, the Marañón. Fritz was also a Jesuit and Maroni included his diary and map in his 1738 book, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito. This reproduction was printed in Quito in 1707 by Juan de Narvaes" 
-       attribution="Courtesy of the Biblioteca Nacional Digital (Brasil) in partnership with WDL- ARC.030,02,01"
-       license="Public Domain"
+       label="Samuel Fritz, The Marañon or Amazon River with the Mission of the Society of Jesus, 1707. " 
+       description="An eighteenth-century map of the Amazon river and one of its main tributaries, the Marañón. Fritz was also a Jesuit and Maroni included his diary and map in his 1738 book, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito. This reproduction was printed in Quito in 1707 by Juan de Narvaes. Biblioteca Nacional Digital (Brasil) in partnership with WDL- ARC.030,02,01, public domain."
        ref="1">
 <!--manifest url https://www.wdl.org/en/item/1137/manifest -->
 <param ve-image
@@ -149,19 +147,13 @@ Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missio
 
 In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the celebrated Spanish explorers and botanists <span ve-entity title="Botanical Expedition to the Viceroyalty of Peru" eid="Q4948434"> Hipólito Ruíz and José Pavón</span> described a shrub from the Western Amazon and <span data-click-image-zoomto="2|1313,1312,1905,1529">named it</span> _Psychotria viridis_.[^ref28] Even though these botanists sought to obtain knowledge from local herbalists and sorcerers, the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported and remained unknown to westerners until the twentieth century.[^ref29]
 <param ve-image
-       label="Isidro Gálvez/José Brunete (draughtsmen), Illustrations of Pyschotria subtomentosa (a) and Psychotria viridis (b) in Flora Peruviana et Chilensis vol. 2, 1798-1802"
+       label="Isidro Gálvez/José Brunete (draughtsmen), Illustrations of Pyschotria subtomentosa (a) and Psychotria viridis (b) in Flora Peruviana et Chilensis vol. 2, 1798-1802. Biblioteca de la Universidad Complutense de Madrid, public domain."
        url="http://dioscorides.ucm.es/proyecto_digitalizacion/imagenes/2010/5315939269/5315939269_0430.jpg"
-       description="Colored engravings of two Psychotria species collected in the Peruvian Andes, including the DMT-bearing species P. viridis"
-       attribution="Courtesy of the Biblioteca de la Universidad Complutense de Madrid"
-       license="Public Domain"
        fit="contain"
        ref="1">
 <param ve-image
        manifest="https://iiif.juncture-digital.org/manifest/c52ad66bc9f0f8963cc56eada642d5ae59bbfa5ff92e7c3ff885a7080162bd7a"
-       label="Hipolito Ruíz & José Pavón, Description of Pscyhotria viridis in Flora Peruviana et Chilensis, vol. 1, 1798-1802"
-       description="Latin descriptions of several Psychotria species. These species were classified according to Linnaean principles."
-       attribution="Courtesy of the Biblioteca de la Universidad Complutense de Madrid"
-       license="Public Domain"
+       label="Latin descriptions of several Psychotria species. These species were classified according to Linnaean principles. Hipolito Ruíz & José Pavón, Description of Pscyhotria viridis in Flora Peruviana et Chilensis, vol. 1, 1798-1802. Biblioteca de la Universidad Complutense de Madrid, public domain."
        region="1295,1326,1904,1529"
        ref="2">
 {#paragraph16}
@@ -170,10 +162,7 @@ Almost a century later, the Portuguese Manuel Rodrigues Pinto Rubens echoed the 
 <param ve-entity eid="Q5363631" aliases="Ticuna"><!--Ticuna--> 
 <param ve-image
        url="https://ids.lib.harvard.edu/ids/iiif/485686573/full/full/90/default.jpg"
-       label="Manuel Rodrigues Pinto Rubens, Watercolor of a Ticuna pagé in Costumbres de los indigenas que habitan en el Valle del Amazonas en el departamento de Loreto, 1873"
-       description="The written text reads: Yndios Ticunas, El Pagé ejerciendo las funciones de medico; Le Pagé (maitre de [vieil] age) qui [...] la fonction a medecins, il a bu du Ayahuasca et se laisse inspirer pour connaitre[sic] la maladie et les remettres"
-       attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE-OVERSZ F3429.3.C8 P56 1875"
-       license= "Public Domain">
+       label="The text reads: Yndios Ticunas, El Pagé ejerciendo las funciones de medico; Le Pagé (maitre de [vieil] age) qui [...] la fonction a medecins, il a bu du Ayahuasca et se laisse inspirer pour connaitre[sic] la maladie et les remettres. Manuel Rodrigues Pinto Rubens, watercolor, Ticuna pagé, Costumbres de los indigenas que habitan en el Valle del Amazonas en el departamento de Loreto, 1873. Dumbarton Oaks, public domain.">
 {#paragraph17}
 
 While Pinto Ruben’s work is certainly ethnobotanical in character, the most celebrated figure in this discipline is Richard Spruce. This well-known Victorian Era botanist travelled for fifteen years across South America and documented extensively the Putumayo region of the Amazon. Spruce was notably interested in the use of mind-altering plants, so much so that there is a chapter dedicated to them in his posthumously edited book, _Notes of a Botanist in the Andes and the Amazon_, from 1908. Most of this chapter focuses on a plant named _caapi_—the Tupi word for ayahuasca—and includes methods of preparing the plant, notes on its etymology, and ritual descriptions. Because of this, Spruce is considered today as one of the main pioneers of ethnobotany in the modern scientific world.[^ref31]
@@ -183,26 +172,17 @@ While Pinto Ruben’s work is certainly ethnobotanical in character, the most ce
 <param ve-entitu eid="Q120684"> <!--Tupi-->
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391507"
-       label="Coverpage of Notes of a Botanist in the Andes and the Amazon (1908), this posthomous work was edited by his fellow naturalist friend, Alfred R. Wallace"
-       description="Cover of Richard Spruce's posthomously edited book, Notes of a Botanist in the Andes and the Amazon"
-       attribution="Courtesy of the Smithsonian Libraries and Biodiversity Heritage Library"
-       license="Public Domain"
+       label="This posthomous work was edited by Alfred R. Wallace. Coverpage Richard Spruce, Notes of a Botanist in the Andes and the Amazon, 1908. Smithsonian Libraries via BHL, public domain."
        fit="contain"
        ref="1">
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391881"
-       label="Richard Spruce's drawings of the Tariana people in the Uapés River where he documented the use of caapi"
-       description="Spruce first mentioned the use of caapi during his travels across the Vaupés River. These notes can be found in Volume 1 of Notes of a Botanist..."
-       attribution="Courtesy of the Smithsonian Libraries and Biodiversity Heritage Library"
-       license="Public Domain"
+       label="Richard Spruce's drawings of the Tariana people in the Uapés River where he documented the use of caapi. Richard Spruce, Notes of a Botanist in the Andes and the Amazon, 1908. Smithsonian Libraries via BHL, public domain."
        fit="contain"
        ref="2">
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391360"
-       label="Botanical description and scientific name of the ayahuasca vine in Notes of a Botanist (1908). vol 2"
-       description="Alfred Rusel Wallace noted that Spruce condensed his knowledge on Amazonian narcotics around 1870"
-       attribution="Courtesy of the Smithsonian Libraries and Biodiversity Heritage Library"
-       license="Public Domain"
+       label="Botanical description and scientific name of the ayahuasca vine. Richard Spruce, Notes of a Botanist in the Andes and the Amazon, 1908. Smithsonian Libraries via BHL, public domain."
        region="0,811,2488,2058"
        ref="3"> 
 {#paragraph18}
@@ -213,10 +193,7 @@ Spruce obtained most of his field information on _caapi_ through firsthand inter
 <param ve-entity eid="Q217230"> <!--Brazilian empire-->
 <param ve-image
        url="https://ids.lib.harvard.edu/ids/iiif/445472636/full/full/0/default.jpg"
-       label="Uknown artist. En route to the deep Amazon via the Napo River in Manuel Villavicencio's Geografía de la República del Ecuador (1858)"
-       description="These two engravings show typical landscapes of field work in nineteenth-century travels and exploration. These images make it clear that those doing most part of field work were not the travellers or botanists themselves."
-       attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE F3714.V54 1858"
-       license="Public Domain"
+       label="Uknown artist. En route to the deep Amazon via the Napo River. Published in Manuel Villavicencio, Geografía de la República del Ecuador,  New York, Impr. de R. Craighead, 1858. Dumbarton Oaks, public domain."
        fit="contain"
        ref="1">
 {#paragraph19}
@@ -227,17 +204,11 @@ Villavicencio wrote a lengthy book called _Geografía de la República del Ecuad
 <param ve-entity eid="Q3772280"><!--Guayusa-->   
 <param ve-image
         url="https://www.biodiversitylibrary.org/pageimage/47391371"
-        label="Excerpt of Spruce's translation and summary of Villavicencio's description of ayahuasca consumption and rituals (ca. 1854)"
-        description="This page can be found in Spruce's Notes of a Botanist...,chapter 25, vol 2."
-        attribution="Courtesy of the Smithsonian Libraries via Biodiversity Heritage Library"
-        license="Public Domain"
+        label="Excerpt of Richard Spruce’s translation and summary of Villavicencio’s description of ayahuasca consumption and rituals (ca. 1854). Richard Spruce, Notes of a Botanist..., chapter. 25, vol 2. Smithsonian Libraries via BHL, public domain."
         ref="2">
 <param ve-image 
        url="https://ids.lib.harvard.edu/ids/iiif/445472673/full/full/0/default.jpg"
-       label="Villavicencio's personal account of ayahuasca consumption published in Geografía de la República del Ecuador, 1858"
-       description="This is the original text in Spanish that Spruce used to expand his essay on caapi and ayahuasca. This excerpt includes an ethnobotanical note on guayusa which was omitted in Spruce's essay."
-       attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE F3714.V54 1858"
-       license="Public Domain"
+       label="Villavicencio’s personal account of ayahuasca consumption. This is the original text (Spanish) that Richard Spruce used to expand his essay on caapi and ayahuasca. This excerpt includes an ethnobotanical note on guayusa which was omitted from Spruce’s essay. Published in Manuel Villavicencio, Geografía de la República del Ecuador, 1858, Dumbarton Oaks, public domain."
        ref="3">
 {#paragraph20}
 
@@ -248,17 +219,8 @@ Spruce’s work ultimately shaped twentieth century ethnobotanical interests. Th
 <param ve-entity eid="Q4826265"><!--autoethnography-->
  <param ve-image
         url="https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2020/08/Schultes_amazon_1940s-1186x1536.jpg"
-        label="Richard Evans Schultes (center) with Salvador Chindoy (left), a renowned Kamëntsá healer from Sibundoy Valley of Colombia"
-        description="tba"
-        attribution="Archives of the Economic Botany Library of Oakes Ames, Harvard University with permission of the Schultes' family"
-        license="Disclaimer: the Schultes family authorizes the use of this material for scholarly purposes, the photographer hasn't been identified."
+        label="Richard Evans Schultes (center) with Salvador Chindoy (left), a renowned Kamëntsá healer from Sibundoy Valley of Colombia. Archives of the Economic Botany Library of Oakes Ames, Harvard University with permission of the Schultes’ family. Disclaimer: the Schultes family authorizes the use of this material for scholarly purposes, the photographer has not been identified."
         fit="contain">
-<param ve-image
-       url="https://www.cabinetmagazine.org/issues/30/cabinet_030_taussig_michael_002.jpg"
-       label="William Burroughs surrounded by yagé vine in the jungle outside Mocoá, Colombia, 1953."
-       description="tba"
-       attribution="via Cabinet Magazine"
-       license="???tbd"> <!--I might not get permission to use these two images but I wanted to see how they looked :')-->
 {#paragraph21}
                                                         
 ### Ayahuasca’s Global Trip 
@@ -302,7 +264,7 @@ The “Da Vine” patent was eventually overturned, but not because the courts r
        fit="contain">
 {#paragraph26}
 
-Despite its longstanding historical use and significance within the Amazonian region, the popularity of ayahuasca continues to transcend boundaries of space, time, and culture. In fact, as interest in traditional medicine have surged, the intensive study of and therapeutic application of ayahuasca plants has expanded tremendously. From providing psychotherapeutic support, to managing addiction, the successful applications of ayahuasca within the realm of biomedicine calls into question the hierarchical dimensions of ayahuasca-related knowledge. [^ref47] As scientists test and probe the remedies and rituals of Indigenous peoples, the ongoing question and battle of whose judgement of “truth”, “reality”,  and “efficacy” matters the most rages on. As “authentic ayahuasca retreats” surface worldwide, the sacred nature of ayahuasca and its use is degraded and commodified. With respect to these complexities, the narrative of ayahuasca plants is ever-unfolding and evolving. 
+Despite its longstanding historical use and significance within the Amazonian region, the popularity of ayahuasca continues to transcend boundaries of space, time, and culture. In fact, as interest in traditional medicine have surged, the intensive study of and therapeutic application of ayahuasca plants has expanded tremendously. From providing psychotherapeutic support, to managing addiction, the successful applications of ayahuasca within the realm of biomedicine calls into question the hierarchical dimensions of ayahuasca-related knowledge.[^ref47] As scientists test and probe the remedies and rituals of Indigenous peoples, the ongoing question and battle of whose judgement of “truth”, “reality”,  and “efficacy” matters the most rages on. As “authentic ayahuasca retreats” surface worldwide, the sacred nature of ayahuasca and its use is degraded and commodified. With respect to these complexities, the narrative of ayahuasca plants is ever-unfolding and evolving. 
 <param ve-entity eid="Q771035"> <!--traditional medicine-->
 <param ve-entity eid="Q864601"> <!--biomedicine-->
 <param ve-video id="MXpvWYCDpFc" title="Yagé is Our Life">
