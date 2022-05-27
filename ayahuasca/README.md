@@ -110,11 +110,10 @@ Even if the origins of the ayahuasca brew have not been completely elucidated in
        url="https://live.staticflickr.com/8507/27951788334_154753d604_4k.jpg"
 {#paragraph11}
 
+       
 For the <span ve-entity eid="Q36411">Shipibo people</span> of modern day Peru, ayahuasca rituals likewise revolve around visualizing the unseen. According to Shipibo history, in ancient times, everything in the world -- water, plants, earth, humans, etc. -- was once covered with intricate patterns that expressed the fundamental nature of creation through design. As time passed, this ubiquitous patterning was lost. Through the transcendent hallucinations of ayahuasca, though, Shipibo artists could once again have access to sacred patterns. The Shipibo people are unique in that the majority of these artists and practitioners were female. By reproducing such patterns in pottery and textiles, these women practiced therapy and healing born out of the knowledge of the interconnectedness of the universe.[^ref25] 
-<param ve-image url="https://upmaa-pennmuseum.netdna-ssl.com/collections/assets/1600/72338.jpg"
-       label="Shipibo Jar [with geometric motifs], Shipebo Conebo maker, Amazonia, Peru, ceramic, H. 9 cm, Penn Museum." >
-<param ve-image url="https://live.staticflickr.com/4386/36706638286_f4bfd80169_3k.jpg"
-       label="Traditional Shipibo Embroidery, CIFOR via Flickr, CC BY-NC-ND 2.0.">
+<param ve-image url="https://upmaa-pennmuseum.netdna-ssl.com/collections/assets/1600/72338.jpg" label="Shipibo Jar [with geometric motifs], Shipebo Conebo maker, Amazonia, Peru, ceramic, H. 9 cm, Penn Museum.">
+<param ve-image url="https://live.staticflickr.com/4386/36706638286_f4bfd80169_3k.jpg" label="Traditional Shipibo Embroidery, CIFOR via Flickr, CC BY-NC-ND 2.0.">
 {#paragraph12}
   
 More than just visual, though ayahuasca ceremonies are a multisensory journey for those experiencing the effects of the decoction. In addition to the ayahuasca itself, music is a vital component in several ayahuasca traditions. In Peru, whistled chants, <span ve-entity eid="Q5985066">_icaros_</span>, accompany ayahuasca healing ceremonies carried out by _ayahuasqueros_ or _vegetalistas_. The whistling is meant to invoke spiritual forces so that they may open doorways and help to complete tasks. Guardian spirits of the vine may also be invoked by the whistling to aid in the ceremony. The songs likely also help to orient those who have imbibed the decoction, providing some grounding effect while the participant is otherwise disoriented by the effects of the decoction.[^ref26]
@@ -131,16 +130,12 @@ Jesuits overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missio
 <param ve-entity eid="Q7121682"> <!--Pablo Maroni-->
 <param ve-image 
        url="https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:13:7:wdl_01137:cart168292/full/pct:50/0/default.jpg"
-       label="Samuel Fritz, The Marañon or Amazon River with the Mission of the Society of Jesus, 1707. " 
-       description="An eighteenth-century map of the Amazon river and one of its main tributaries, the Marañón. Fritz was also a Jesuit and Maroni included his diary and map in his 1738 book, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito. This reproduction was printed in Quito in 1707 by Juan de Narvaes. Biblioteca Nacional Digital (Brasil) in partnership with WDL- ARC.030,02,01, public domain."
+       label="Samuel Fritz, The Marañon or Amazon River with the Mission of the Society of Jesus, 1707. Biblioteca Nacional Digital (Brasil) in partnership with WDL- ARC.030,02,01, public domain."
        ref="1">
 <!--manifest url https://www.wdl.org/en/item/1137/manifest -->
 <param ve-image
        url="https://bibliotecadigital.aecid.es/bibliodig/i18n/catalogo_imagenes/imagen_id.do?idImagen=12001473&formato=jpg"
-       label="Pablo Maroni, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito, 1738 [first published in 1889]"
-       description="Pablo Maroni's discussion of different Amazonian groups' rituals and their alleged association with the devil. Maroni mentions the use of a white datura and a vine called ayahuasca to 'deprive of the senses'"
-       attribution="Courtesy of the Biblioteca Digital AECID (Madrid) - Signatura: 3GR-7315"
-       license="Creative Commons - Attribution, Non-Commercial, ShareAlike"
+       label="Pablo Maroni’s discussion of different Amazonian groups’ rituals and their alleged association with the devil. Maroni mentions the use of a white datura and a vine called ayahuasca to ‘deprive of the senses’. Pablo Maroni, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito, 1738 [first published in 1889]. Biblioteca Digital AECID (Madrid), CC BY-NC-SA 3.0."
        ref="2"> 
 <!-- manifest url https://iiif.juncture-digital.org/manifest/2b463c8d4b8957916687e1d8553b2b216d951456c3611a01ceb41ba8d5a92a12 -->
 {#paragraph15}
