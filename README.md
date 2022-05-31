@@ -125,13 +125,6 @@
 ![](/images/thumbnails/heliconia.jpg)
 
 ##
-[**Maize: Sacred Plant, Global Commodity**](/maize)
-
-- Julia Fine
-
-![](/images/thumbnails/maize_4.jpg) 
-
-##
 [**Mint: The Ubiquity of a Commercial Crop**](/mint)
 
 - Victoria Pickering
