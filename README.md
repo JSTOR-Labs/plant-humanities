@@ -129,7 +129,7 @@
 
 - Julia Fine
 
-![](/images/thumbnails/maize.jpg) 
+![](/images/thumbnails/maize_3.jpg) 
 
 ##
 [**Mint: The Ubiquity of a Commercial Crop**](/mint)
