@@ -52,16 +52,7 @@ Records of black-eyed pea consumption and use within Europe during the <span eid
 {#paragraph5}
 
 Annibale Carracci was not the only painter to depict beans or peas in late sixteenth-century Europe. Innumerable artists took inspiration from peas—be it their leaves, their delicate blossoms, or their sinuous tendril-filled vines. The peas depicted, however, were not of the black-eyed variety, but rather verdant green peas considered domestic to Europe, such as the <span eid="Q25237">English green pea</span>. The plant became an emblem for love, fertility, and even lust. The fresh green pea was also a food for the elite, and they decorated their homes and gardens accordingly.
-<param ve-image primary fit="contain"
-       label="Giuseppe Arcimboldo. The Summer, 1563. Oil on panel, 67 x 50.8 cm. Vienna, Kunsthistorisches Museum (GG_1598)."
-       description="Painting of a woman in profile; her face and body are made of various vegetables and fruits"
-       license="Public Domain via Wikipedia"
-       url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Giuseppe_Arcimboldo_-_Summer_-_Google_Art_Project.jpg">
-<param ve-image fit="contain"
-       label="Jan Davidssz. de Heem. Vase of Flowers, 1660. Oil on canvas, 69.6 x 56.5 cm. Washington, D.C. , National Gallery of Art."
-       description="Painting"
-       license="Public Domain via Wikipedia"
-       url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Jan_Davidsz_de_Heem_-_Vase_of_Flowers_-_Google_Art_Project.jpg">
+<param ve-knightlab-timeline source="1gCrt3UrCeJXDAvMAWNCjh_Lerl-LTnD2Xm_dn0vpBuE">
 {#paragraph6}
 
 ### The Pea in Early Modern Texts and Images
