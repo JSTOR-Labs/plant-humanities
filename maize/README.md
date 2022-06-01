@@ -14,7 +14,7 @@ The year was 2014, and many Guatemalans were incensed. With a population of 14 m
 
 While the law sought to regulate the use of particular <span eid="Q11575">maize</span> seeds engineered by Monsanto to withstand the company’s <span eid="Q60741370">glyphosate-based herbicide</span>, <span eid="Q905161">Roundup</span>, the Guatemalan public saw several problems with this protection for privatized seeds, or <span eid="Q182726">genetically modified</span> seeds subject to a patent or copyright. This included anticipating that the law would increase farmer dependence on big agribusiness. Opposition to the law swelled, bringing together, according to cultural anthropologist Liza Grandia, a motley crew of protestors, including “peasant federations, health workers, biologists, Maya spiritual leaders, environmentalists, Pentecostals who regard Monsanto as an anti-Christ, opportunistic politicians, college students, and even Guatemala City foodies.”[^ref2]
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/f684cc267a6080045e7eac5aeeb599b3de8133bf870ff74b7096f2a245fe4af4">
-<param ve-image fit="contain" url="https://iiif.juncture-digital.org/manifest/9c26fd58a60bcabade563be22d9bdfa930094f78efe1ae0e23fa5282183f9427">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/9c26fd58a60bcabade563be22d9bdfa930094f78efe1ae0e23fa5282183f9427">
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/91a2de2fd0637cb81778cee01643c63aae34406c3d521d7f6cb8b121398c1f19">
 {#paragraph2}
 
