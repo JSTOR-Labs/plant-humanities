@@ -89,7 +89,7 @@ To obtain the utmost nutrients from maize, Mesoamericans practiced a process cal
 <param title="metate" eid="Q1854307">
 <param title="chicha" eid="Q516592">
 <param ve-image
-       label="The process of nixtamalizing corn using a metate, as represented in the Códice Mendoza. Códice Mendoza, 1541–1650, Bodleian Libraries, University of Oxford, CC-BY-NC 4.0. Photo: © Bodleian Libraries, University of Oxford."
+       label="The process of nixtamalizing corn using a metate, as represented in the Códice Mendoza. Códice Mendoza, 1541–1650, Bodleian Libraries, University of Oxford."
        region="3530,4341,1787,1476" seq="129" manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json">
 <param ve-image
        fit="cover"
