@@ -45,8 +45,7 @@ Mestizo chronicler Inca Garcilaso de la Vega (1539–1616) documented the presen
 <param ve-entity eid="Q5218" title="Quechua">
 {#paragraph5}
 
-Peanuts gradually spread from Peru to <span eid="Q13703">Mesoamerica</span> via Indigenous trade networks by the 1500s. In the Aztec capital of Tenochtitlan, the location of present-day <span data-mouseover-map-flyto="19.433333, -99.133333,6">Mexico City</span>, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ ([cacao]([https://lab.plant-humanities.org/cacao/)), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_. This suggests that <span eid="Q13300">Nahuatl</span>-speaking people may have been the first humans to combine these two now-ubiquitous flavors.[^7]
-<param ve-entity eid="Q13695" title="Tenochtitlan" aliases="Tenochtitlan,">
+Peanuts gradually spread from Peru to <span eid="Q13703">Mesoamerica</span> via Indigenous trade networks by the 1500s. In the Aztec capital of <span eid="Q13695">Tenochtitlan</span>, the location of present-day <span data-mouseover-map-flyto="19.433333, -99.133333,6">Mexico City</span>, the peanut was known as _tlalcacahuatl_ from the words _tlalli_ (earth) and _cacahuatl_ ([cacao]([https://lab.plant-humanities.org/cacao/)), giving rise to one of the Spanish words for peanut, _cacahuate/cacahuete_. This suggests that <span eid="Q13300">Nahuatl</span>-speaking people may have been the first humans to combine these two now-ubiquitous flavors.[^7]
 <param ve-entity eid="Q3307681" title="Mexica"> 
 <param ve-map prefer-geojson basemap="Esri_WorldPhysical" title="Tenochtitlan, the location of present-day Mexico City." center="15.471219344367423, -90.38517376819463" zoom="3">
 <param ve-map-layer geojson active url="peanutdistributionmap.json" title="Distribution of Arachis hypogaea (yellow).">
@@ -102,7 +101,7 @@ In the early 1800s, peanuts were planted by communities of enslaved persons and 
 {#paragraph13}
 
 After the war, spurred on by advances in agricultural technology, the use of peanut spread throughout the country. Instrumental to this was <span eid="Q296898">George Washington Carver</span> (c.1864–1943), the pioneering [Black agricultural scientist](https://libguides.nybg.org/c.php?g=1003078&p=7264400) who devoted much of his career to popularizing the crop in the South. Carver, who was born into slavery in Missouri and taught at the Tuskegee Institute during his scientific career, sought to promote crops that could be planted as an alternative to cotton. Carver proposed the cultivation of peanuts as a means to rectify the widespread nutrient depletion and erosion in southern soils caused by the monoculture of cotton. As nitrogen-fixing legumes, peanuts could return nutrients to the soil as part of a crop rotation that would boost the yield of future cotton plantings.
-<param ve-image fit="contain" manifest="https://ids.si.edu/ids/manifest/NPG-NPG_92_156Carver-000001">
+<param ve-image fit="contain" label="Clifton Johnson, George Washington Carver, Alabama, c.1900, gelatin silver print, 17.3 x 12.3 cm (sheet), National Portrait Gallery." manifest="https://ids.si.edu/ids/manifest/NPG-NPG_92_156Carver-000001">
 <param ve-entity eid="Q1682329" title="Tuskegee University" aliases="Tuskegee Institute">
 <param ve-entity eid="Q220212" title="monoculture"> 
 {#paragraph14}
