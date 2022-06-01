@@ -14,42 +14,27 @@ The year was 2014, and many Guatemalans were incensed. With a population of 14 m
 {#paragraph1}
 
 While the law sought to regulate the use of particular maize seeds engineered by Monsanto to withstand the company’s <span eid="Q60741370">glyphosate-based herbicide</span>, <span eid="Q905161">Roundup</span>, the Guatemalan public saw several problems with this protection for privatized seeds, or <span eid="Q182726">genetically modified</span> seeds subject to a patent or copyright. This included anticipating that the law would increase farmer dependence on big agribusiness. Opposition to the law swelled, bringing together, according to cultural anthropologist Liza Grandia, a motley crew of protestors, including “peasant federations, health workers, biologists, Maya spiritual leaders, environmentalists, Pentecostals who regard Monsanto as an anti-Christ, opportunistic politicians, college students, and even Guatemala City foodies.”[^ref2]
-<param ve-image
-       label="Protests against Monsanto, Guatemala, 2014. The text on the sign (in English) reads: ‘I don’t want transgenics on the field nor my plate.’ Cristina Chiquin and Mujeres Ixchel via Prensa Comunitaria, CC BY-NC-ND 4.0."
-       fit="contain"
-       url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2323.jpg">
-<param ve-image
-       label="Protests against Monsanto, Guatemala, 2014. Cristina Chiquin and Mujeres Ixchel via Prensa Comunitaria, CC BY-NC-ND 4.0."
-       fit="contain"
-       url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2204.jpg">
-<param ve-image
-       label="Protests against Monsanto, Guatemala, 2014. Cristina Chiquin and Mujeres Ixchel via Prensa Comunitaria, CC BY-NC-ND 4.0."
-       fit="contain"
-       url="https://comunitariapress.files.wordpress.com/2014/08/dsc_2271.jpg">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/f684cc267a6080045e7eac5aeeb599b3de8133bf870ff74b7096f2a245fe4af4">
+<param ve-image fit="contain" url="https://iiif.juncture-digital.org/manifest/9c26fd58a60bcabade563be22d9bdfa930094f78efe1ae0e23fa5282183f9427">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/91a2de2fd0637cb81778cee01643c63aae34406c3d521d7f6cb8b121398c1f19">
 <param title="Zea mays" eid="Q11575" aliases="maize"> 
 {#paragraph2}
 
 Why did this new policy about maize inspire such strong reactions? Since its domestication over 9,000 years ago, achieved through the ingenuity and acumen of Mesoamerican communities, maize has provided necessary sustenance. In turn, these communities constructed their societies, cosmologies, and cultures around the plant. The Monsanto Law would dissolve this sacred symbiosis between local communities and maize. The history of maize thus demonstrates the complexities of human relationships to plants, which resist categorization solely as units to be bought, sold, or patented under capitalism.
 <param title="domestication" eid="Q905161">
-<param ve-compare sync label="Whistle with the Maize God emerging from a flower, 600–900 CE, Mexico, Mesoamerica, Maya, ceramic, pigment, 20.7 x 5.1 x 3.8 cm, The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979, Metropolitan Museum of Art, public domain." region="full" url="https://images.metmuseum.org/CRDImages/ao/original/DT9946.jpg">
-<param ve-compare label="Dried pressed specimen of Zea mays, Université de Neuchâtel. Neuchâtel Herbarium via Wikimedia Commons, CC BY-SA 3.0." url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Neuch%C3%A2tel_Herbarium_-_Zea_mays_-_NEU000092649.jpg">
+<param ve-compare sync region="full" manifest="https://iiif.juncture-digital.org/manifest/4b8fbde277c01f1f3576f33022d93e20c28c9a0c8fb957ad124d6b93bb3dee54">
+<param ve-compare manifest="https://iiif.juncture-digital.org/manifest/46768f98b59f62e9bb4a5629005fa630a75e3db81f2cfd3d98162ee7a1a9a057">
 {#paragraph3}
 
 ### A Kernel of Science
 What is maize? How did it develop? These questions may seem simple, particularly given the ubiquity of corn-based products, but the large body of scholarship on the crop shows the answers to be anything but straightforward. Maize, in taxonomic parlance _Zea mays L._, is a cereal grain consisting of a <span data-click-image-zoomto="663,1166,773,707">stalk</span>, <span data-click-image-zoomto="712,400,773,707">tassels of pollen</span>, and <span data-click-image-zoomto="298,745,773,707">ears filled with cobs of kernels</span> (averaging 800 kernels spread across 16 rows).
-<param ve-image
-       label="John James Audubon, Common Purple Crow-Blackbird, 1. Male 2. Female (Maize or Indian Corn. [Zea Mays]), 1842. Londonjackbooks via Wikimedia Commons, public domain."
-       fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Purple_Grackle_or_Common_Crow_Blackbird_%28Audubon%29.jpg">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/5b7d8bae3377db006af981e652af3837b8b59fccf6d1aaaac3710df10466598d">
 <param title="Zea mays" eid="Q11575">
 {#paragraph4}
 
 The reliance of many human societies on maize, the “[most dominant and productive crop”](https://futureoffood.org/insights/the-global-importance-of-maize-diversity/#:~:text=As%20the%20world's%20most%20dominant,%2C%20sweeteners%2C%20starch%2C%20and%20for) for their survival, is well known. Less understood is the plant’s reliance on humans for its survival. Maize most likely was domesticated from teosinte, a grass with tassels and several small-clustered ears. However, there are clear differences between modern-day maize and teosinte: while tesonite is made up of 6–12 kernels held in two rows surrounded by a protective shell, maize proffers a cob with approximately 20 rows of kernels without a hard outer shell.[^ref3] These differences are so profound that, as [one article in _PNAS_](https://doi.org/10.1073/pnas.0901122106) notes, “19th-century botanists failed to recognize the close relationship between these plants, placing teosinte in its own genus, [_Euchlaena_.](https://www.ipni.org/n/18060-1)” Present-day scholars have shown that maize was domesticated from teosinte through humans selecting for a larger ear size and more kernels.
 <param title="Teosinte" eid="Q7701197" aliases="teosinte"> 
-<param ve-image
-       label="Comparison between Maize and Teosinte. Illustration by Nicolle Rager Fuller, National Science Foundation."
-       fit="contain"
-       url="https://nsf.gov/news/mmg/media/images/maize1_h.jpg">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/a6f00a6481035c93eae7b6401267100956a1ef5940a2e8f73e510f77c85c5f4d">
 {#paragraph5}
 
 Indigenous groups in what is now southwestern Mexico played a major role in the domestication process and subsequent plant transfer. Recent phylogenetic analysis has shown that maize most likely arose from a single domestication event, which probably occurred in the Rio Balsas (Balsas River) Valley around 9,000 years ago.[^ref4] Agrobiodiversity researchers have noted that “much of the evolution of maize during domestication may have been gradual, and there is evidence of increases in cob size over the first 2,000 years of selection.”[^ref5] An incredible diversity in terms of types of maize occurred after its initial domestication. Many scholars describe maize as a “mirror” to its cultivators, and different Indigenous groups domesticated and cultivated various types of maize depending on “environmental and also [on] social and cultural factors,” suggesting the role communities played in developing different types of maize most suited to their needs.[^ref6]
@@ -76,20 +61,17 @@ By 7,000 years [BP,](https://www.archaeological.org/programs/educators/introduct
 
 In addition to domesticating maize and dispersing it throughout South America and back toward Central America, humans worked to cultivate maize, which could not have survived if left to its own devices. Wild teosinte is very fragile and its pod can be shattered by the wind. By contrast, maize relies on humans to disperse its seeds. The scientific history of maize thus reveals the central and active role early Mesoamericans played in its domestication through making conscious decisions about the cultivation process.
 <param title="indigenous peoples of Central America" eid="Q13109203" aliases="Mesoamericans"> 
-<param ve-image
-       label="Some European imperial sources contain descriptions of Indigenous understandings surrounding maize. In the Florentine Codex, we see images of how Nahua farmers cultivated maize using a wooden tool for digging. Bernardino De Sahagún, Book IV, Historia general de las cosas de Nueva España (Florentine Codex), 1577, Biblioteca Medicea Laurenziana via World Digital Library, public domain."
+<param ve-image label="Some European imperial sources contain descriptions of Indigenous understandings surrounding maize. In the Florentine Codex, we see images of how Nahua farmers cultivated maize using a wooden tool for digging. Bernardino De Sahagún, Book IV, Historia general de las cosas de Nueva España (Florentine Codex), 1577, Biblioteca Medicea Laurenziana via World Digital Library, public domain."
        fit="contain"
        url="https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:61:5:wdl_10615:MedPalat218_01_0643/0,70,5642,7829/1024,/0/default.jpg">
 <param ve-image
        label="The Cruz-Badiano Codex is another important source of Mesoamerican herbal knowledge. Written most likely in Nahuatl by an “Indian doctor” and translated into Latin, it preserves several Indigenous names for crops. Many scholars have shown how the Indigenous names for various flowers and crops refers to their physical similarities to maize. For more, see Arthur O. Tucker and Jules Janick, Flora of the Codex Cruz-Badianus (Cham, Switzerland: Springer International Publishing, 2020). Dumbarton Oaks, public domain."
        fit="contain"
-       url="https://www.doaks.org/resources/online-exhibits/epidemics/mesoamerican-herbals/health-and-commerce/@@images/image"> 
+       manifest="https://iiif.juncture-digital.org/manifest/20f7cbfc53418456af9b9aee1b0586fc0be465b0cc8c54b40eb317da1644a1d4"> 
 <param ve-image
        label="Francisco Hernández was a Spanish physician who went on the first scientific expedition from Europe to the Americas in 1570. He spent four years researching how the Nahua people used plants, including maize. Here, Hernández writes that maize is “exceedingly beneficial to the healthy and sick alike; it is easy to cultivate, it grows abundantly and without any risk almost anywhere it is planted, and it is hardly susceptible to damage from drought and the rigors of climate.” For more, see: Felipe Ledesma-Núñez, “Colonial Epidemics and Mesoamerican Medicine in Sixteenth-Century Mexico,” Exhibit (Washington, DC: Dumbarton Oaks). https://www.doaks.org/resources/online-exhibits/epidemics. Francisco Hernández. Rerum Medicarum Novae Hispaniae Thesaurus. 1648. P. 243. Courtesy of HathiTrust."
-       attribution="Hathi Trust"
-       license="public domain"
        fit="contain"
-       url="https://www.doaks.org/resources/online-exhibits/epidemics/mesoamerican-herbals/maize/@@images/image">	    
+       manifest="https://iiif.juncture-digital.org/manifest/cca0341b8b0f1cfa47c5c3e7eafbecb76712a7d6da9f80f1d30db4a72b60f5dc">	    
 {#paragraph7}
 
 ### Milpa and Mesoamerica
@@ -98,7 +80,7 @@ After its domestication, maize quickly became an important crop for Mesoamerican
 <param ve-image
        label="Illustration of Milpa agriculture. In this intercropping method, Maya farmers rotate annual crops with shorter-term perennial crops. In addition, land is left fallow for eight years following two years of cultivation to improve the regrowth of vegetation and maintain soil health. Garlangoyle via Wikimedia Commons, CC BY-SA 4.0."
        fit="cover"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Three_Sisters_planting_visual_graphic.png/904px-Three_Sisters_planting_visual_graphic.png?20201203212314">
+       manifest="https://iiif.juncture-digital.org/manifest/a511b2089b16f0d7e5c75dff16f244458523cce972ea5de504d34ad6d6318a98">
 {#paragraph8}
 
 To obtain the utmost nutrients from maize, Mesoamericans practiced a process called nixtamalization, a word derived from the Nahuatl terms for lime and maize dough. While, as scholars have noted, the “origin and development [of the nixtamalization process] remain archeologically unclear,” the lime treatment of maize has been used in Mesoamerica for at least the past 3,000 years to produce a “reduction of the labor required to grind maize, by breaking down the kernel's durable external pericarp or shell; and enhanced nutrition, by releasing niacin and amino acids inherent in the maize and contributing additional calcium from the lime.”[^ref10]  While nixtamalization reduces the effort of grinding maize, it was still very labor intensive for Mesoamerican women, who traditionally grind maize kernels into masa, or dough, over a metate or grinding stone. Further, maize is not only used to produce masa; Mesoamerican peoples make use of the maize stalks to produce maize beer, referred to as tesqüino, in certain parts of Mesoamerica and chicha in others.
@@ -111,9 +93,8 @@ To obtain the utmost nutrients from maize, Mesoamericans practiced a process cal
        label="The process of nixtamalizing corn using a metate, as represented in the Códice Mendoza. Códice Mendoza, 1541–1650, Bodleian Libraries, University of Oxford, CC-BY-NC 4.0. Photo: © Bodleian Libraries, University of Oxford."
        region="3530,4341,1787,1476" seq="129" manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json">
 <param ve-image
-       label="Carl Nebel, after, “Las Tortilleras”: Women Making Tortillas, 1800–1830s, lithography by Pierre-Frederic Lehnert, lithograph with hand-painted watercolor, 43.6×30 cm, Wikimedia Commons, public domain."
        fit="cover"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tortilleras_Nebel.jpg/1600px-Tortilleras_Nebel.jpg?20080904092709"> 
+       manifest="https://iiif.juncture-digital.org/manifest/36a7f60ef0720801d915c2ec7a86eb1fd89d3d403525fd38acc8be9a7cfdc13a"> 
 {#paragraph8}
 
 The nutritional importance of maize cannot be separated from its cultural significance. In the _Popol Vuh_, which recounts the Maya creation story, humans were quite literally molded out of maize by the deities. Scholars have long recognized motifs of maize in Olmec and Maya iconography. However, in the past four decades, scholars have begun to identify a specific “Maize God” that has an “<span data-click-image-zoomto="1227,427,610,590">elongated, tonsured head</span> [that] mimics the long tasseled cob,” and often has “maize grain ... infixed into his head,” among other qualities.[^ref11] While there is much about the Maize God that remains to be explained in the scholarly literature, it is clear “that the corn cycle was the central metaphor of life and death for the Maya and the nucleus around which much of their religiosity was formed.”[^ref12]
@@ -129,9 +110,8 @@ The nutritional importance of maize cannot be separated from its cultural signif
 
 For the Maya, maize was and is more than simply a metaphor and powerful image in the Mesoamerican visual lexicon. Seventeenth-century records reveal how in highland Guatemala, upon the birth of a son, the Maya community would burn the blood of the umbilical cord. Then, they would “pas[s] an ear of maize through the smoke,” which would subsequently be planted in the maize field. Ethnographers have recorded that “parents used the maize from this small patch of land to feed the child ‘until he reached the age when he could plant for himself, saying that thus he not only ate by the sweat of his brow, but of his own blood as well.’”[^ref13] In certain regions, mothers “place an ear of maize into the palm of their newborns, and eat only dishes made from maize while breast-feeding to ensure that the child grows ‘true flesh.’”[^ref14]  Maize, for Maya people, thus represents more than both calories or symbol: it is a sacred plant from which all life grows. 
 <param ve-image
-       label="Codex Magliabechiano, fols. 78r and 33r., Biblioteca Nazionale Centrale, Florence, MS Magliabechiano XIII.3. By permission of the Ministry of Culture / Central Library, Florence."
        fit="contain"
-       url="https://www.doaks.org/resources/online-exhibits/epidemics/nahua-health-medicine/diagnosis-and-the-divine/@@images/image">
+       manifest="https://iiif.juncture-digital.org/manifest/12d510f8ca7bd9f75c12ce847a6bd112c0928be873f2589c797ff848dc90a9f1">
  {#paragraph10}
  
 ### Colonial and Postcolonial Eras
