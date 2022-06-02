@@ -29,7 +29,7 @@ While the <span eid="Q498940">black-eyed pea</span> or cowpea has a global histo
 Black-eyed peas ([_Vigna unguiculata_](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2)) are <span eid="Q44448">leguminous plants</span> that grow best in semi-arid conditions, poor soils, and with little help. They are mainly annual heat-loving and drought-tolerant, and grow quickly, often giving a harvest within 100 days. Archaeological and genetic evidence shows that West Africans domesticated wild relatives of the plant at least 6,000 years ago.[^ref1] Because black-eyed peas mature quickly and produce reliably with only a little land and labor, they are an important part of mixed food systems: wild gathering, hunting, fishing, and <span eid="Q188989">aquaculture</span>, keeping small livestock and/or building larger herds, <span eid="Q397350">agroforestry</span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.[^ref2] The ease of growth and usefulness of this crop contributed to its spread from Africa to the Mediterranean, the Arabian Peninsula, central Asian, and the Indian subcontinent by 1500 BCE.
 <param ve-image
        fit="contain"
-       label="Proposed spread of cowpea from its origins of domestication in Africa. Herniter et al., 2020, “Genetic, textual, and archeological evidence of the historical global spread of cowpea (Vigna unguiculata [L.] Walp.),” Legume Science, 2020. https://doi.org/10.1002/leg3.57."
+       label="Proposed spread of cowpea from its origins of domestication in Africa. Ira A. Herniter et al., 2020, “Genetic, textual, and archeological evidence of the historical global spread of cowpea (Vigna unguiculata [L.] Walp.),” Legume Science (2020). https://doi.org/10.1002/leg3.57."
        url="https://onlinelibrary.wiley.com/cms/asset/302e2d1e-bd02-4798-8a80-81195158ece3/leg357-fig-0002-m.jpg">
 {#paragraph2}
        
@@ -47,7 +47,7 @@ Authors of the ancient world have described black-eyed peas in accounts of plant
 
 Records of black-eyed pea consumption and use within Europe during the <span eid="Q12554">Middle Ages</span> are relatively scarce. Understood as a food for peasants and livestock, black-eyed peas would have been considered subject matter too lowly for inclusion in the annals of history. Throughout the <span eid="Q5308718">early modern period</span>, the dried bean continued to be associated with persons of low social standing. Yet the black-eyed pea, now deemed worthy of representation, featured in the Italian artist <span eid="Q7824">Annibale Carracci’s</span> painting _The Bean Eater_, from circa 1590. In it, Carracci used a rough-hewn style of painting to depict the man and his bowl of black-eyed peas, visually articulating their low standing. Even though the peas had been a vital part of the Southern European diet and culture for centuries, they are here presented as both marginal and familiar.
 <param ve-image fit="contain"
-       label="Annibale Carracci, The Bean Eater, 1580-90, oil on canvas, 57 x 68 cm, Rome, Palazzo Colonna. dvdbramhall, Flickr, CC BY-NC-ND 2.0."
+       label="Annibale Carracci, The Bean Eater, 1580–90, oil on canvas, 57 x 68 cm, Rome, Palazzo Colonna. dvdbramhall, Flickr, CC BY-NC-ND 2.0."
        url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-5/black_eyed_peas/Annibale_Carracci_Bean_Eater_dvdbramhall_Flickr_CC_BY_NC_ND_2.0.jpg?raw=true">
 {#paragraph5}
 
@@ -63,7 +63,7 @@ Visual representations of black-eyed peas and other varieties of beans and peas 
 Despite the millennia-old European presence of the black-eyed pea, it was now understood in Europe as an itinerant body within a Euro-centric <span eid="Q8269924">taxonomy</span> of plants. European travelers visiting Africa, Asia, and the Americas reinforced these ideas. Their observations, often reported in books, were soon understood throughout Europe as factual accounts. For example, Dutchman <span eid="Q3117063">Pieter de Marees’</span> 1602 book, describing West Africa, shows the <span data-click-image-zoomto="418,756,583,437">black-eyed pea</span> in an idealized landscape alongside people and other plants.[^ref7] The viewer is meant to elide the black-eyed pea with Africa’s geography and peoples, this distinction revealing Europe’s increasingly myopic gaze upon the rest of the world. 
 <param ve-image
        region="-20,105,1543,1363"
-       label="The black-eyed pea is here labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant, 1604, John Carter Brown Library. Internet Archive, public domain."
+       label="The black-eyed pea is labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant, 1604, John Carter Brown Library. Internet Archive, public domain."
        url="https://ia904500.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/indiaeorientalis00mare_1/indiaeorientalis00mare_1_jp2.zip&file=indiaeorientalis00mare_1_jp2/indiaeorientalis00mare_1_0171.jp2&id=indiaeorientalis00mare_1&scale=2&rotate=0">
 {#paragraph8}
          
@@ -88,7 +88,7 @@ In the southern United States, enslaved peoples cultivated black-eyed peas as a 
        
 <span eid="Q11812">Thomas Jefferson</span> (1743−1826) and <span eid="Q23">George Washington</span> (1732−1799) both had black-eyed peas planted on their expansive plantations, [Monticello](https://www.mountvernon.org/george-washington/slavery/slavery-at-mount-vernon/) and [Mount Vernon,](https://www.mountvernon.org/george-washington/slavery/slavery-at-mount-vernon/) respectively. Washington corresponded with friends and acquaintances about the plant in a 1787 [letter,](https://founders.archives.gov/documents/Washington/04-05-02-0442) in which he writes, “small, and round black eyed Pease called the Gentlemans Pea.”[^ref17] Jefferson considered the cultivation of peas a pursuit worthy of a gentleman, harkening back to European traditions which placed greater social and cultural status on green peas. He held yearly pea growing contests, with the first man to produce a fresh pea required to host a dinner for other gentlemen in the area. These meals, no doubt, transpired under decidedly different conditions than those in which enslaved poeples ate their black-eyed peas.
 <param ve-image 
-       label="Letter from George Washington to Charles Carter, 1787, US Library of Congress."
+       label="Letter from George Washington to Charles Carter, 1787, U.S. Library of Congress."
        url="https://tile.loc.gov/storage-services/master/mss/mgw/mgw2/014/2340228.jpg">
 {#paragraph12}
        
@@ -142,7 +142,7 @@ Hoppin’ John originated in the brutal conditions of American plantations. Ensl
 
 Brazil’s national dish, <span eid="Q878189">_feijoada completa_</span>, has a very similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ on plantations out of black beans and scrap pork.[^ref27] It was a meal of necessity for workers as it used the food on hand and could be left simmering unattended during the long day’s work.[^ref28] Today, simple bean and rice dishes are a national staple, but _feijoada completa_ is a celebratory meal for every sector of society, taking days to prepare and requiring better meat, collard greens, rice, orange slices, and manioc flour (derived from [cassava](https://lab.plant-humanities.org/cassava/)).[^ref29] For both _feijoada completa_ and Hoppin’ John, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. However, there is still much tension in questions of representation, ownership, class, race and identity in Southern food and <span eid="Q555997"> Soul Food,</span> with white perspectives usually being unjustly prioritized over Black ones.[^ref30]
 <param ve-image 
-       label="Feijoada with rice, fried kale, cassava starch crisps (biscoito de polvilho), cassava flour (farinha), and a mix of olive oil, alcohol vinegar, tomatoes, onions and sometimes bell peppers called vinagrete. إيان, Wikimedia Commmons, CC BY-SA 4.0."
+       label="Feijoada with rice, fried kale, cassava starch crisps (biscoito de polvilho), cassava flour (farinha), and a mix of olive oil, alcohol vinegar, tomatoes, onions and sometimes bell peppers called vinagrete. إيان, Wikimedia Commons, CC BY-SA 4.0."
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/فيجوادا_feijoada.jpg/1280px-فيجوادا_feijoada.jpg">       
 <param ve-image 
@@ -158,14 +158,14 @@ Brazil’s national dish, <span eid="Q878189">_feijoada completa_</span>, has a 
 ### Climate Change, Breeding, and Resilience 
 Today, the <span eid="Q82151">Food and Agriculture Organization</span> estimates around 7 million tonnes of black-eyed peas are produced annually worldwide.[^ref31] The centers of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s black-eyed pea crop.[^ref32] It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains such as sorghum and millet or rice.[^ref33] It is the third most important <span eid="Q379813">pulse</span> worldwide, a crucial element of sustainable agriculture, and feeds hundreds of millions of people.
 <param ve-map zoom="2"
-       title="Map of black-eyed pea distribution showing native range (blue) and introduction (green) (after Kew Plants of the World Online).">
+       title="Map of black-eyed pea distribution showing native range (blue) and introduction (green) (after Kew’s Plants of the World Online).">
 <param ve-map-layer geojson active title="Distribution."
        url="Distribution_5.geojson">
 {#paragraph20}
        
 <span eid="Q11451">Agriculture</span> is already having to adapt to our changing climate, both in terms of practices and in what crops can be grown where. Even though black-eyed peas are considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic with climate change. Crop breeding is one way to make commercial black-eyed peas more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015">relatives</span> of the black-eyed pea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions, and perhaps be more pest-resistant.[^ref34] If these traits can be bred into commercial varieties then the black-eyed pea may be one of the answers to the many agricultural challenges of the future. 
 <param ve-compare curtain
-       label="Smallholder farmer drying cowpeas in Ghana. TreeAid via Wikimedia Commons, CC BY-SA 2.0."
+       label="Small-holder farmer drying cowpeas in Ghana. TreeAid via Wikimedia Commons, CC BY-SA 2.0."
        fit="cover"
        url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Drying_cowpeas.jpg">
 <param ve-compare
@@ -184,10 +184,10 @@ The Crop Wild Relatives Project is researching black-eyed peas in partnership wi
 ### A Food of the Future
 Back-eyed pea’s many names reflect its worldwide appeal. It is known as crowder pea, caupi, southern pea, alubia carilla, neibe and frijole in WHERE, as well as chowlee in India, gubgub in the West Indies, and akkerboon in South Africa.[^ref36] And black-eyed peas and other legumes are globally growing in status as a key cooking ingredient, as well as foods of the future. Highly nutritious and relatively easy to grow, black-eyed peas will no doubt play an important part in future <span eid="Q1229911">food security:</span> providing food in a changing climate and helping small-scale farmers combat poverty and hunger.[^ref37] As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, legume crops such as black-eyed peas, with their many virtues, will contribute to the diets of more people.[^ref38]
 <param ve-image
-       label="There are thousands of different varieties of black-eyed peas. Jeffrey Ehlers, UCR, Gates Foundation, Image courtesy of Jeffrey Ehlers."
+       label="There are thousands of varieties of black-eyed peas. Jeffrey Ehlers, UCR, Bill & Melinda Gates Foundation, Image courtesy of Jeffrey Ehlers."
        url="https://newsroom.ucr.edu/images/releases/1708_0hi.jpg">
 <param ve-image 
-       label="Like adults, youngsters need dietary fiber. By helping our digestive system work effectively, fiber plays an important role in maintaining good health. Great natural sources of fiber include: Beans, like navy, pinto, kidney, and black or white. Peas, like split peas, chickpeas, and black-eyed peas. Fruit, like pears, raspberries and prunes. Vegetables, like spinach, carrots, and broccoli. Whole grain cereal, whole grain bread, and whole grain pasta. FDA Image of Fiber-rich Foods for Kids, The U.S. Food and Drug Administration, public domain."
+       label="Like adults, youngsters need dietary fiber. By helping our digestive system work effectively, fiber plays an important role in maintaining good health. Great natural sources of fiber include beans, like navy, pinto, kidney, and black or white; peas, like split peas, chickpeas, and black-eyed peas; fruit, including pears, raspberries, and prunes; vegetables, like spinach, carrots, and broccoli; and Whole grain cereal, whole grain bread, and whole grain pasta. FDA Image of Fiber-rich Foods for Kids, The U.S. Food and Drug Administration, public domain."
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kids_‘n_Fiber_%286120828233%29.jpg/640px-Kids_‘n_Fiber_%286120828233%29.jpg">
 {#paragraph23}
