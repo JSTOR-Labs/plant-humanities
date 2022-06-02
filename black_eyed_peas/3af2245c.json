@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Annibale Carracci's painting depicts a man who eats a bowl of black-eyed peas.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://github.com/JSTOR-Labs/plant-humanities/blob/staging-5/black_eyed_peas/Annibale_Carracci_Bean_Eater_dvdbramhall_Flickr_CC_BY_NC_ND_2.0.jpg?raw=true",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:206.4516143798828,191.22579956054688,1632.3440399169922,1337.8064270019531"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#6840d89e-7f10-406c-aa81-e5f6d71d6b0d"
+  }
+]
