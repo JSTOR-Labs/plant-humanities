@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The Santo Daime religion uses a modified Christian cross, called the Cross of Caravaca, which signifies the mission of Christ.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/880a2043bd539e571882265794485f587f7336b99a8461c501e2e2bc014a7c1",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:119.32422637939453,433.19036865234375,639.995964050293,414.8348388671875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#26aae60b-403a-47eb-986b-1188f420b1cb"
+  }
+]

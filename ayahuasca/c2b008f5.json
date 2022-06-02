@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The tangled roots of the ficus tree represent the intertwined relationships between all beings in the universe. By learning from these plants with the help of the spirits, ayahuasca practitioners gain knowledge about the world. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/cc2f1a93d661d81ed84fb4c82b906cd31f94afc5b4e63dfa25e6f4bd4e20b4ba",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1835.4552001953125,1671.5384521484375,1490.3909912109375,1040.0235595703125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d963e4ce-81f6-4d38-a5b5-9fcd029f6c21"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "These spirits are called átun-runas, from the Quechua words for \"giant\" and \"people.\" They live below the ficus trees and serve as spiritual guides for shamans seeking healing and protection.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/cc2f1a93d661d81ed84fb4c82b906cd31f94afc5b4e63dfa25e6f4bd4e20b4ba",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:793.8541259765625,931.9866333007812,1567.0572509765625,581.4606323242188"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#10d1daef-c8db-46a6-8b31-bd0bd8fe4094"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Shamans gather and drink ayahuasca from the vessel at the center of the golden table. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/cc2f1a93d661d81ed84fb4c82b906cd31f94afc5b4e63dfa25e6f4bd4e20b4ba",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:446.0774230957031,2459.179931640625,1092.8161315917969,625.4482421875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#bf788dd1-e338-4f12-a79b-62dbeb268d72"
+  }
+]
