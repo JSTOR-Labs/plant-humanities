@@ -47,7 +47,7 @@ Authors of the ancient world have described black-eyed peas in accounts of plant
 
 Records of black-eyed pea consumption and use within Europe during the <span eid="Q12554">Middle Ages</span> are relatively scarce. Understood as a food for peasants and livestock, black-eyed peas would have been considered subject matter too lowly for inclusion in the annals of history. Throughout the <span eid="Q5308718">early modern period</span>, the dried bean continued to be associated with persons of low social standing. Yet the black-eyed pea, now deemed worthy of representation, featured in the Italian artist <span eid="Q7824">Annibale Carracci’s</span> painting _The Bean Eater_, from circa 1590. In it, Carracci used a rough-hewn style of painting to depict the man and his bowl of black-eyed peas, visually articulating their low standing. Even though the peas had been a vital part of the Southern European diet and culture for centuries, they are here presented as both marginal and familiar.
 <param ve-image fit="contain"
-       label="Annibale Carracci, The Bean Eater, 1580-90, oil on canvas, 57 x 68 cm, Rome, Palazzo Colonna. Wikimedia Commons, public domain."
+       label="Annibale Carracci, The Bean Eater, 1580-90, oil on canvas, 57 x 68 cm, Rome, Palazzo Colonna. dvdbramhall, Flickr, CC BY-NC-ND 2.0."
        url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-5/black_eyed_peas/Annibale_Carracci_Bean_Eater_dvdbramhall_Flickr_CC_BY_NC_ND_2.0.jpg?raw=true">
 {#paragraph5}
 
