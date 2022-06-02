@@ -71,7 +71,7 @@ The European perspective is not the only early modern view we have on the black-
 <param ve-image
        fit="contain"
        label="Cowpea, Seikei Zuetsu, Leiden University Library. Leiden University Library via Wikimedia Commons, CC BY-SA 4.0."
-       url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Leiden_University_Library_-_Seikei_Zusetsu_vol._18%2C_page_032_-_%E7%99%BD%E4%B8%8D%E8%80%81_-_Vigna_unguiculata_%28L.%29_Walp._-_cv._-_group_Sesquipedalis%2C_1804.jpg">
+       manifest="https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A938367/full/80,/0/default.jpg">
 {#paragraph9}
 
 ### Food, Culture, and Colonialism
@@ -182,7 +182,7 @@ The Crop Wild Relatives Project is researching black-eyed peas in partnership wi
 {#paragraph22}
        
 ### A Food of the Future
-Back-eyed pea’s many names reflect its worldwide appeal. It is known as crowder pea, caupi, southern pea, alubia carilla, neibe and frijole in WHERE, as well as chowlee in India, gubgub in the West Indies, and akkerboon in South Africa.[^rer36] And black-eyed peas and other legumes are globally growing in status as a key cooking ingredient, as well as foods of the future. Highly nutritious and relatively easy to grow, black-eyed peas will no doubt play an important part in future <span eid="Q1229911">food security:</span> providing food in a changing climate and helping small-scale farmers combat poverty and hunger.[^ref37] As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, legume crops such as black-eyed peas, with their many virtues, will contribute to the diets of more people.[^ref38]
+Back-eyed pea’s many names reflect its worldwide appeal. It is known as crowder pea, caupi, southern pea, alubia carilla, neibe and frijole in WHERE, as well as chowlee in India, gubgub in the West Indies, and akkerboon in South Africa.[^ref36] And black-eyed peas and other legumes are globally growing in status as a key cooking ingredient, as well as foods of the future. Highly nutritious and relatively easy to grow, black-eyed peas will no doubt play an important part in future <span eid="Q1229911">food security:</span> providing food in a changing climate and helping small-scale farmers combat poverty and hunger.[^ref37] As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, legume crops such as black-eyed peas, with their many virtues, will contribute to the diets of more people.[^ref38]
 <param ve-image
        label="There are thousands of different varieties of black-eyed peas. Jeffrey Ehlers, UCR, Gates Foundation, Image courtesy of Jeffrey Ehlers."
        url="https://newsroom.ucr.edu/images/releases/1708_0hi.jpg">
