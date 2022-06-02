@@ -38,5 +38,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#0d7f4de7-8fb8-4c7d-8f87-bcb561a83169"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This depiction suggests the man and his food are unruly parts of late sixteenth-century Italy's deeply hierarchical and classist society. The beans, associated with excessive gas, also suggest the food and the person eating it might be disruptive to the social fabric they inhabit.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://github.com/JSTOR-Labs/plant-humanities/blob/staging-5/black_eyed_peas/Annibale_Carracci_Bean_Eater_dvdbramhall_Flickr_CC_BY_NC_ND_2.0.jpg?raw=true",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:234.05714416503906,837.3817749023438,989.4233245849609,603.7610473632812"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#73464186-c0d8-41bd-871f-648fce257155"
   }
 ]
