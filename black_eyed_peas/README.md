@@ -71,7 +71,7 @@ The European perspective is not the only early modern view we have on the black-
 <param ve-image
        fit="contain"
        label="Cowpea, Seikei Zuetsu, Leiden University Library. Leiden University Library via Wikimedia Commons, CC BY-SA 4.0."
-       manifest="https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A938367/full/80,/0/default.jpg">
+       manifest="https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:938367/manifest">
 {#paragraph9}
 
 ### Food, Culture, and Colonialism
