@@ -204,7 +204,7 @@ Black-eyed pea’s many names reflect its worldwide appeal. It is known as crowd
 [^ref10]: Stephanie E. Smallwood, _Saltwater Slavery: A Middle Passage from Africa to American Diaspora_ (Cambridge, Mass.: Harvard University Press, 2007).
 [^ref11]: Summary Statistics, _Slave Voyages: The Trans-Atlantic Slave Trade Database_. [https://www.slavevoyages.org/voyage/database#statistics](https://www.slavevoyages.org/voyage/database#statistics)
 [^ref12]: Judith Carney, “Seeds of Memory: Botanical Legacies of the African Diaspora,” in African Ethnobotany in the Americas (New York, NY: Springer, 2012), 19. [https://www.geog.psu.edu](https://www.geog.psu.edu)
-[^ref13]: Judith Ann Carney, _In the Shadow of Slavery: Africa’s Botanical Legacy in the Atlantic World_ (Berkeley: University of California Press, 2009), 149.
+[^ref13]: Judith Ann Carney, _In the Shadow of Slavery_, 149.
 [^ref14]: Black-eyed peas became “the third most important food crop produced on Carolina plantations between 1730 and 1776.” Judith Ann Carney, 220 fn 35.
 [^ref15]: Charles Ball, _Slavery in the United States. A Narrative of the Life and Adventures of Charles Ball, a Black Man, Who Lived Forty Years in Maryland, South Carolina and Georgia, as a Slave Under Various Masters, and was One Year in the Navy with Commodore Barney, During the Late War_ (New York: John S. Taylor, 1837), 200. [https://docsouth.unc.edu/neh/ballslavery/ball.html](https://docsouth.unc.edu/neh/ballslavery/ball.html)
 [^ref16]: Francis Fedric, _Slave Life in Virginia and Kentucky; or, Fifty Years of Slavery in the Southern States of America_ (London: Wertheim, Macintosh, and Hunt, 1863). [https://docsouth.unc.edu/neh/fedric/fedric.xml](https://docsouth.unc.edu/neh/fedric/fedric.xml)
@@ -216,10 +216,10 @@ Black-eyed pea’s many names reflect its worldwide appeal. It is known as crowd
 [^ref22]: “Afroculinaria.”
 [^ref23]: The Southern Heritage Vegetables Cookbook (Birmingham, Alabama: Oxmoor House, 1983). [http://archive.org/details/southernheritage0000unse](http://archive.org/details/southernheritage0000unse); Michael W. Twitty.
 [^ref24]: Jessica B. Harris, “Prosperity Starts with a Pea,” _The New York Times_ (2010): 368–370; Olivia Ware Terenzio, “Feijoada and Hoppin’ John: Dishing the African Diaspora in Brazil and the United States,” _Southern Cultures_ 25 4 (2019): 158–75. 
-[^ref25]: Ibid. 
-[^ref26]: Ibid.; Sarah Rutledge, _The Carolina Housewife_ (Charleston, South Carolina: J. Russell, 1855). [https://www.loc.gov/item/07028873/](https://www.loc.gov/item/07028873/); Richard Wilk and Livia Barbosa, _Rice and Beans: A Unique Dish in a Hundred Places_ (Providence, Rhode Island: Berg, 2012). 
+[^ref25]: Jessica B. Harris; Olivia Ware Terenzio.
+[^ref26]: Jessica B. Harris; Olivia Ware Terenzio; Sarah Rutledge, _The Carolina Housewife_ (Charleston, South Carolina: J. Russell, 1855). [https://www.loc.gov/item/07028873/](https://www.loc.gov/item/07028873/); Richard Wilk and Livia Barbosa, _Rice and Beans: A Unique Dish in a Hundred Places_ (Providence, Rhode Island: Berg, 2012). 
 [^ref27]: Olivia Ware Terenzio; Francis Lam, “Brazilian Soul Food,” _The New York Times_, May 27, 2015, sec. Magazine. [https://www.nytimes.com/2015/05/31/magazine/brazilian-soul-food.html](https://www.nytimes.com/2015/05/31/magazine/brazilian-soul-food.html)
-[^ref28]: Ibid.
+[^ref28]: Olivia Ware Terenzio; Francis Lam.
 [^ref29]: Olivia Ware Terenzio.
 [^ref30]: Olivia Ware Terenzio; Jennifer Jensen Wallach, _Every Nation Has Its Dish: Black Bodies and Black Food in Twentieth-Century America_ (Chapel Hill: University of North Carolina Press, 2019). [http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=5596573](http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=5596573)
 [^ref31]: It is hard to estimate the production of black-eyed peas worldwide for two reasons: cultivation is mainly in the hands of small-holder farmers and, because the crop is a staple food, most harvests are used locally rather than being exported. See V. Rawal and D.K. Navarro, eds. _The Global Economy of Pulses_ (Rome: FAO, 2019). [http://www.fao.org/3/i7108en/i7108en.pdf](http://www.fao.org/3/i7108en/i7108en.pdf)
