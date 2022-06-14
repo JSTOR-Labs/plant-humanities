@@ -4,7 +4,7 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "Annibale Carracci's painting depicts a man who eats a bowl of black-eyed peas.",
+        "value": "Annibale Carracci’s painting depicts a man eating a bowl of black-eyed peas.",
         "purpose": "commenting"
       }
     ],
@@ -24,7 +24,7 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "Carracci's painterly style in this work, a collection of swiftly rendered and unblended brushstrokes that give the appearance of a rough surface, acknowledges the man's status: unrefined in dress and manners, he eats a humble meal of black-eyed peas.",
+        "value": "Carracci’s painterly style in this work, a collection of swiftly rendered and unblended brushstrokes that give the appearance of a rough surface, acknowledges the man’s status: unrefined in dress and manners, he eats a humble meal of black-eyed peas.",
         "purpose": "commenting"
       }
     ],
@@ -44,7 +44,7 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "This depiction suggests the man and his food are unruly parts of late sixteenth-century Italy's deeply hierarchical and classist society. The beans, associated with excessive gas, also suggest the food and the person eating it might be disruptive to the social fabric they inhabit.",
+        "value": "This depiction suggests that the man and his food are unruly members of late sixteenth-century Italy’s deeply hierarchical and classist society. The beans, associated with excessive gas, also suggest the food and the person eating it might be disruptive to the social fabric they inhabit.",
         "purpose": "commenting"
       }
     ],
