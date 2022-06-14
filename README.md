@@ -73,7 +73,7 @@
 
 - Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan
 
-![](/images/thumbnails/black_eyed_pea.jpg)
+![](/images/thumbnails/black_eyed_peas.jpg)
 
 ##
 [**Boxwood: A Plant That Took Over the Garden World**](/boxwood)
