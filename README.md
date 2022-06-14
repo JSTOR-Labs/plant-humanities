@@ -69,7 +69,7 @@
 ![](/images/thumbnails/Banana.jpg)
 
 ##
-[**Black-Eyed Pea: Crop, Culture, Class**](/black-eyed peas)
+[**Black-Eyed Pea: Crop, Culture, Class**](/black_eyed_peas)
 
 - Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan
 
