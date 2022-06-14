@@ -69,6 +69,13 @@
 ![](/images/thumbnails/Banana.jpg)
 
 ##
+[**Black-Eyed Pea: Crop, Culture, Class**](/black-eyed peas)
+
+- Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan
+
+![](/images/thumbnails/black_eyed_pea.jpg)
+
+##
 [**Boxwood: A Plant That Took Over the Garden World**](/boxwood)
 
 - Anatole Tchikine
