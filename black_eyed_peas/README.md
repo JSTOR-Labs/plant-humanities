@@ -37,7 +37,7 @@ Black-eyed peas ([_Vigna unguiculata_](https://powo.science.kew.org/taxon/urn:ls
 Since <span eid="Q486761">classical antiquity</span>, the black-eyed pea has been a cultural marker of those who lacked social status in European societies. A stigma surrounding dried foods impinged the reputation of the bean and its eaters: while wealthy and socially powerful individuals could afford fresh foods, peasants relied upon cheaper dried foods. The beans were shelled, dried, and used in humble soups, though in its fresh green form the black-eyed pea apparently made a delicious dessert served in <span eid="Q5690">Sparta</span>.[^ref3] The imbrication of class, culture, and food is apparent, for example, in ancient Greek and Roman floor <span eid="Q133067">mosaics</span> that depict food scraps strewn across a floor after a lavish banquet. In perhaps the most famous example of the unswept floor genre, seen here, lobster shells, olive pits, partially eaten fish, and nuts litter the ground, but nary a bean is to be found.
 <param ve-image
        fit="contain"
-       label="Sosus of Pergamon, after, Banquet leftovers, or Unswept Floor, early 2nd CE, mosaic, 4.05 x 0.41 m, Museum Gregoriano Profano, Vatican. Wikimedia Commons, public domain." url="https://upload.wikimedia.org/wikipedia/commons/1/14/Restes_du_banquet%2C_mosa%C3%AFque.jpg">
+       label="Sosus of Pergamon, after, Banquet leftovers, or Unswept Floor, early 2nd CE, mosaic, 4.05 x 0.41 m, Museum Gregoriano Profano, Vatican. Yann, Wikimedia Commons, public domain." url="https://upload.wikimedia.org/wikipedia/commons/1/14/Restes_du_banquet%2C_mosa%C3%AFque.jpg">
 {#paragraph3}
 
 Authors of the ancient world have described black-eyed peas in accounts of plants and nature. The Roman chronicler <span eid="Q82778">Pliny the Elder</span> (23/24–79 CE) wrote that priests should avoid eating the food for fear its rough nature would upset their delicate constitutions. He also notes that <span eid="Q10261">Pythagoras</span> (c.570–c.495 BCE) and his followers did not eat black-eyed peas because they “believed the souls of the dead to be contained within” the dried beans.[^ref4] This belief may have been informed by some cultural groups in Africa that understood the black eye of the pea as the watchful presence of a supreme deity.[^ref5] Such accounts, together with later botanical texts expressing ever-changing ideas of the bean’s origins and classification, demonstrate a long confusion regarding the plant’s common and Latin names in Europe.[^ref6] They also provide a wealth of information about the cultural and social role played by the bean in the European context.
@@ -47,7 +47,7 @@ Authors of the ancient world have described black-eyed peas in accounts of plant
 Records of black-eyed pea consumption and use within Europe during the <span eid="Q12554">Middle Ages</span> are relatively scarce. Understood as a food for peasants and livestock, black-eyed peas would have been considered subject matter too lowly for inclusion in the annals of history. Throughout the <span eid="Q5308718">early modern period</span>, the dried bean continued to be associated with persons of low social standing. But by the late sixteenth century, the bean seemed at least worthy of representation. In the Italian artist <span eid="Q7824">Annibale Carracci’s</span> (1560–1609) painting _The Bean Eater_, from circa 1590, the artist’s brush strokes depict a man and his bowl of black-eyed peas, visually articulating their mutual low standing. Even though the beans had been a vital part of the Mediterranean diet and culture for centuries, they are here presented as both marginal and familiar.
 <param ve-image fit="contain"
        label="Annibale Carracci, The Bean Eater, 1580–90, oil on canvas, 57 x 68 cm, Rome, Palazzo Colonna. dvdbramhall, Flickr, CC BY-NC-ND 2.0."
-       url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-5/black_eyed_peas/Annibale_Carracci_Bean_Eater_dvdbramhall_Flickr_CC_BY_NC_ND_2.0.jpg?raw=true">
+       url="https://github.com/JSTOR-Labs/plant-humanities/blob/main/black_eyed_peas/Annibale_Carracci_Bean_Eater_dvdbramhall_Flickr_CC_BY_NC_ND_2.0.jpg?raw=true">
 {#paragraph5}
 
 In contrast, many more artists took inspiration from the <span eid="Q25237">green pea</span>—be it the leaves, delicate blossoms, or sinuous tendril-filled vines—which became an emblem for love, fertility, and even lust. Verdant green peas were considered domestic to Europe, and served the elite not only for food, but for decorating their homes and gardens.
@@ -77,7 +77,7 @@ The European perspective is not the only early modern view we have on the black-
 The black-eyed pea, <span eid="Q259438">millet</span>, <span eid="Q8047551">yams</span>, and many other staple foods of the American tropics have African origins. European traders on the coast of West Africa filled hundreds of thousands of vessels with 10 to 12 million captives over the centuries of the <span eid="Q10701282">transatlantic slave trade</span>.[^ref10] These vessels carried humans-as-commodities as well as the foodstuffs needed for an average voyage of 60 to 80 days.[^ref11] Dry legumes, like black-eyed peas, [hyacinth beans,](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:501411-1) and <span eid="Q338219">bambara groundnuts</span>, were staple foods cooked into gruel during the <span eid="Q2500942">Middle Passage</span>. Leftover stocks then accompanied captives as they were dispersed throughout the Americas and the Caribbean.[^ref12] In Jamaica around 1687, the English physician, naturalist, and planter <span eid="Q310326">Sir Hans Sloane</span> (1660–1753) recorded the presence of the black-eyed pea and extracted a plant to create this herbarium specimen.[^ref13]
 <param ve-plant-specimen
        label="An herbarium specimen of Vigna unguiculata made by Sir Hans Sloane in Jamaica, now housed at the Natural History Museum, London."
-       author="JSTOR Global Plants, courtesy of the Natural History Museum, London"
+       author="JSTOR Global Plants, courtesy of the Natural History Museum, London."
        jpid="10.5555/al.ap.specimen.bm000589657">
 {#paragraph10}
 
@@ -87,7 +87,7 @@ In the southern United States, enslaved peoples cultivated black-eyed peas as a 
        
 <span eid="Q11812">Thomas Jefferson</span> (1743−1826) and <span eid="Q23">George Washington</span> (1732−1799) both had black-eyed peas planted on their expansive plantations, [Monticello](https://www.monticello.org/slavery/) and [Mount Vernon,](https://www.mountvernon.org/george-washington/slavery/slavery-at-mount-vernon/) respectively. Washington corresponded with friends and acquaintances about the plant in a 1787 [letter,](https://founders.archives.gov/documents/Washington/04-05-02-0442) in which he writes, “small, and round black eyed Pease called the Gentlemans Pea.”[^ref17] Jefferson considered the cultivation of black-eyed peas a pursuit worthy of a gentleman, harkening back to European traditions that placed greater social and cultural status on green peas. He held yearly pea growing contests, with the first man to produce a fresh pea required to host a dinner for other gentlemen in the area.
 <param ve-image fit="contain"
-       label="Letter from George Washington to Charles Carter, 1787, U.S. Library of Congress."
+       label="Letter from George Washington to Charles Carter, 1787, Manuscript Division, U.S. Library of Congress. The Library of Congress provides access to manuscripts at the Library of Congress for educational and research purposes and makes no warranty with regard to their use for other purposes."
        url="https://tile.loc.gov/storage-services/master/mss/mgw/mgw2/014/2340228.jpg">
 {#paragraph12}
        
@@ -104,7 +104,7 @@ In the late nineteenth century, American <span eid="Q2787508">subsistence farmer
 ### British Colonial Botany
 The black-eyed pea’s global journey is well documented in the [Economic Botany Collection](https://www.kew.org/science/collections-and-resources/collections/economic-botany-collection) of the <span eid="Q18748726">Royal Botanic Gardens, Kew</span>. Although the plant was not grown as a crop in Britain (it usually being far too cold and wet), Kew’s holdings demonstrate that it was widely collected and studied in the nineteenth century as a useful plant from across the colonial world. The samples were collected from Niger ([seed](https://ecbot.science.kew.org/read_ecbot.php?catno=39429&search_term=Vigna%20unguiculata%20Niger&search_type=name)), India ([seed](https://ecbot.science.kew.org/read_ecbot.php?catno=39424&search_term=Vigna%20unguiculata%20India&search_type=name)), China ([seeds](https://ecbot.science.kew.org/read_ecbot.php?catno=61500&search_term=Vigna%20unguiculata%20china&search_type=name)), and Japan ([food](https://ecbot.science.kew.org/read_ecbot.php?catno=61541&search_term=Vigna%20unguiculata%20japan&search_type=name)). They were also obtained from imperial exhibitions where plant products were displayed, as well as from colonial expeditions, including that of Scottish explorer and naturalist <span eid="Q183567">Dr. William Balfour Baikie’s</span> (1825–1864) [Niger Expedition of 1859.](https://ecbot.science.kew.org/result_ecbot.php?name=Niger+Expedition+1859&submit=Search)
 <param ve-image 
-       label="Walter Crane, Imperial Federation Map of the World Showing the Extent of the British Empire in 1886, 1886, 58 x 77 cm, supplement to The Graphic Magazine, July 24, 1886. Published by: Maclure & Co. Dennis Sylvester Hurd, Flickr via Wikimedia Commons, CC0 1.0."
+       label="Walter Crane, Imperial Federation Map of the World Showing the Extent of the British Empire in 1886, 1886, 58 x 77 cm, supplement to The Graphic Magazine, July 24, 1886. Published by: Maclure & Co. Dennis Sylvester Hurd, Dennis Sylvester Hurd (Flickr) via Peter Ormond, Wikimedia Commons, CC0 1.0."
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/2/23/Imperial_Federation_Map_of_the_World.jpg">
 {#paragraph15}
@@ -126,7 +126,7 @@ Black-eyed peas are a staple of the <span eid="Q49042">Southern American</span> 
 
 Hoppin’ John’s origins are from brutal conditions of American plantations. Enslaved workers grew black-eyed peas and other African crops in their subsistence gardens outside the long hours they were forced to labor in their enslaver’s fields. Additionally, enslaved women often had to cook for the planter’s family as well as their own. As a result, they created new meals from West African recipes and the crops and foods they had access to. White southerners at first saw black-eyed peas as a lowly food meant to feed livestock and the enslaved. To them, the beans fit in alongside the pork scraps used to cook Hoppin’ John.[^ref25] However, by the latter half of the nineteenth century, white women began including these recipes in their homemaker cookbooks, often without crediting the women who pioneered them.[^ref26]
 <param ve-image 
-       label="Hoppin' John at Brenda's Meat & Three for good luck. San Francisco, CA. Kathy Drasky, Wikimedia Commons, CC BY 2.0."
+       label="Hoppin' John at Brenda's Meat & Three for good luck, San Francisco, CA. KTDrasky (Flickr) via Netha Hussain, Wikimedia Commons, CC BY 2.0."
        fit="contain"
        url= "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg/1280px-Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg">
 <param ve-image 
@@ -149,7 +149,7 @@ Brazil’s national dish, <span eid="Q878189">_feijoada completa_</span>, has a 
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Feijoada_à_brasileira_-02.jpg/1280px-Feijoada_à_brasileira_-02.jpg">
 <param ve-image 
-       label="P & C Soul Food Deli, Shreveport, Louisiana. Steve Snodgrass, Wikimedia Commons, CC BY 2.0."
+       label="P & C Soul Food Deli, Shreveport, Louisiana. Steve Snodgrass (Flickr) via Flickr upload bot, Wikimedia Commons, CC BY 2.0."
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Soul_Food_Deli_Shreveport.jpg/1280px-Soul_Food_Deli_Shreveport.jpg">
 {#paragraph19}
@@ -164,12 +164,12 @@ Today, the <span eid="Q82151">Food and Agriculture Organization of the United Na
        
 <span eid="Q11451">Agriculture</span> is having to adapt to our changing climate, both in terms of practices and what crops can be grown where. Even though black-eyed peas are considered very hardy, the crop may struggle as temperatures rise and rains become more erratic. Crop breeding is one way to make commercial black-eyed peas more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015">relatives</span> of the black-eyed pea may hold genes or genetic traits that will allow the crop to survive hotter, drier conditions, and perhaps be more pest-resistant.[^ref34] If these traits can be bred into commercial varieties then the black-eyed pea may hold one of the answers to ensuring food security throughout the world. 
 <param ve-compare curtain
-       label="Small-holder farmer drying cowpeas in Ghana. TreeAid via Wikimedia Commons, CC BY-SA 2.0."
+       label="Small-holder farmer drying cowpeas in Ghana. TREEAID (Flickr) via Steven Walling, Wikimedia Commons, CC BY-SA 2.0."
        fit="cover"
        url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Drying_cowpeas.jpg">
 <param ve-compare
        fit"contain"
-       label="Wild and cultivated cowpeas. Tom Rulkens, Wikimedia Commons, CC BY-SA 2.0."
+       label="Wild and cultivated cowpeas. Ton Rulkens (Flickr) via File Upload Bot (Magnus Manske), Share Your Knowledge, Wikimedia Commons, CC BY-SA 2.0."
        url="https://upload.wikimedia.org/wikipedia/commons/6/67/Wild_and_cultivated_cowpea_%287856427546%29.jpg">
 {#paragraph21}
     
