@@ -186,7 +186,7 @@ Black-eyed pea’s many names reflect its worldwide appeal. It is known as crowd
        label="There are thousands of varieties of black-eyed peas. Jeffrey Ehlers, UCR, Bill & Melinda Gates Foundation, Image courtesy of Jeffrey Ehlers."
        url="https://newsroom.ucr.edu/images/releases/1708_0hi.jpg">
 <param ve-image 
-       label="Like adults, youngsters need dietary fiber. By helping our digestive system work effectively, fiber plays an important role in maintaining good health. Great natural sources of fiber include beans, like navy, pinto, kidney, and black or white; peas, like split peas, chickpeas, and black-eyed peas; fruit, including pears, raspberries, and prunes; vegetables, like spinach, carrots, and broccoli; and Whole grain cereal, whole grain bread, and whole grain pasta. FDA Image of Fiber-rich Foods for Kids, The U.S. Food and Drug Administration, public domain."
+       label="Like adults, youngsters need dietary fiber. By helping our digestive system work effectively, fiber plays an important role in maintaining good health. Great natural sources of fiber include beans, like navy, pinto, kidney, and black or white; peas, like split peas, chickpeas, and black-eyed peas; fruit, including pears, raspberries, and prunes; vegetables, like spinach, carrots, and broccoli; and Whole grain cereal, whole grain bread, and whole grain pasta. The U.S. Food and Drug Administration (Flickr) via Bluerasberry, Wikimedia Commons, public domain."
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kids_‘n_Fiber_%286120828233%29.jpg/640px-Kids_‘n_Fiber_%286120828233%29.jpg">
 {#paragraph23}
