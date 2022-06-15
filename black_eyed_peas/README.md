@@ -12,7 +12,7 @@
 ### A Food Source and So Much More
 While the <span eid="Q498940">black-eyed pea</span>, or cowpea, has a global history stretching back millennia, its social and cultural significance has changed over time. A staple crop in Africa, revered by some peoples as a symbol of luck and fertility worthy of offering to the deities, within Europe it was considered solely as a humble food for laborers. In the Americas, too, the bean was a marker of class and culture, as it was mainly an important food source for enslaved peoples. Modern-day cuisine the world over embraces the black-eyed pea as a food rich in culture and history as well as a delicious source of innovative dishes that celebrate new traditions. The black-eyed pea is a powerful reminder of just how intertwined human identity is with the plants we eat.
 <param ve-image 
-       label="Black-eyed peas are small distinctive white beans, The International Institute of Tropical Agriculture in Nigeria via Wikimedia Commons, CC BY-SA 2.0."
+       label="Black-eyed peas are small distinctive white beans. The International Institute of Tropical Agriculture in Nigeria via Wikimedia Commons, CC BY-SA 2.0."
        url="https://upload.wikimedia.org/wikipedia/commons/1/19/Nigeria_Cowpea_fro_F_IITA.jpg">
 <param ve-image fit="contain"
        label="The pink pea-like flowers of wild cowpea, Vigna unguiculata. Tom Rulkens, Wikimedia Commons, CC BY-SA 2.0."
@@ -59,7 +59,7 @@ Visual representations of black-eyed peas and other varieties of beans and peas 
 <param ve-image region="275,48,1380,1253" label="Phaseolus peregrinus IIII, Carolus Clusius, Rariorum Plantarum Historia, Antwerp, Officina Plantiniana apud Ioannem Moretum, 1601. Biblioteca del Real Jardín Botánico, CC BY-NC-SA." url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-5/black_eyed_peas/Clusius_Rariorum_Plantarum_Historia_Biblioteca_del_Real_Jardi%CC%81n_Bota%CC%81nico_CC_BY_NC_SA.jpg?raw=true">
 {#paragraph7}
        
-Despite the millennia-old European presence of the black-eyed pea, it was now understood in Europe as an itinerant body within a Euro-centric <span eid="Q8269924">taxonomy</span> of plants. European explorers visiting Africa, Asia, and the Americas reinforced this idea. Their observations, often reported in books, were soon taken throughout Europe as factual. For example, Dutch trader and explorer <span eid="Q3117063">Pieter de Marees’</span> 1602 book about West Africa includes an illustration of the <span data-click-image-zoomto="418,756,583,437">black-eyed pea</span> in an idealized landscape alongside people and other plants.[^ref7]
+Despite the millennia-old European presence of the black-eyed pea, it was now understood in Europe as an itinerant body within a Eurocentric <span eid="Q8269924">taxonomy</span> of plants. European explorers visiting Africa, Asia, and the Americas reinforced this idea. Their observations, often reported in books, were soon taken throughout Europe as factual. For example, Dutch trader and explorer <span eid="Q3117063">Pieter de Marees’</span> 1602 book about West Africa includes an illustration of the <span data-click-image-zoomto="418,756,583,437">black-eyed pea</span> in an idealized landscape alongside people and other plants.[^ref7]
 <param ve-image
        region="-20,105,1543,1363"
        label="The black-eyed pea is labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant, 1604, John Carter Brown Library. Internet Archive, public domain."
