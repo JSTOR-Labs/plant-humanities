@@ -203,7 +203,7 @@ Black-eyed pea’s many names reflect its worldwide appeal. It is known as crowd
 [^ref9]: Tinde van Andel, _Crop Diversity in 19th Century Japan: An Analysis of the Seikei Zusetsu agricultural encyclopedia gifted to Philipp Franz von Siebold_ (Wagenlingen, the Netherlands: Wagenlingen University, 2016). [https://digitalcollections.universiteitleiden.nl/japanese_agriculture_19th_century](https://digitalcollections.universiteitleiden.nl/japanese_agriculture_19th_century)
 [^ref10]: Stephanie E. Smallwood, _Saltwater Slavery: A Middle Passage from Africa to American Diaspora_ (Cambridge, Mass.: Harvard University Press, 2007).
 [^ref11]: Summary Statistics, _Slave Voyages: The Trans-Atlantic Slave Trade Database_. [https://www.slavevoyages.org/voyage/database#statistics](https://www.slavevoyages.org/voyage/database#statistics)
-[^ref12]: Judith Carney, “Seeds of Memory: Botanical Legacies of the African Diaspora,” in _African Ethnobotany in the Americas_ (New York, NY: Springer, 2012), 19. [https://www.geog.psu.edu](https://www.geog.psu.edu)
+[^ref12]: Judith Ann Carney, “Seeds of Memory: Botanical Legacies of the African Diaspora,” in _African Ethnobotany in the Americas_ (New York, NY: Springer, 2012), 19. [https://www.geog.psu.edu](https://www.geog.psu.edu)
 [^ref13]: Judith Ann Carney, _In the Shadow of Slavery_, 149.
 [^ref14]: Black-eyed peas became “the third most important food crop produced on Carolina plantations between 1730 and 1776.” Judith Ann Carney, 220 fn 35.
 [^ref15]: Charles Ball, _Slavery in the United States. A Narrative of the Life and Adventures of Charles Ball, a Black Man, Who Lived Forty Years in Maryland, South Carolina and Georgia, as a Slave Under Various Masters, and was One Year in the Navy with Commodore Barney, During the Late War_ (New York: John S. Taylor, 1837), 200. [https://docsouth.unc.edu/neh/ballslavery/ball.html](https://docsouth.unc.edu/neh/ballslavery/ball.html)
@@ -229,4 +229,4 @@ Black-eyed pea’s many names reflect its worldwide appeal. It is known as crowd
 [^ref35]: “Cowpea.”
 [^ref36]: Ira A. Herniter, e57.
 [^ref37]: Ira A. Herniter, e57.
-[^ref38]: [https://www.cwrdiversity.org/cowpea-cracking-on-with-climate-change/](https://www.cwrdiversity.org/cowpea-cracking-on-with-climate-change/); B.B. Singh et al, eds, _Advances in Cowpea Research_ (Ibadan, Nigeria: International Institute of Tropical Agriculture, 1997).					 
+[^ref38]: [https://www.cwrdiversity.org/cowpea-cracking-on-with-climate-change/](https://www.cwrdiversity.org/cowpea-cracking-on-with-climate-change/); B.B. Singh et al., eds., _Advances in Cowpea Research_ (Ibadan, Nigeria: International Institute of Tropical Agriculture, 1997).					 
