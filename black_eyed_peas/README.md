@@ -12,16 +12,16 @@
 ### A Food Source and So Much More
 While the <span eid="Q498940">black-eyed pea</span>, or cowpea, has a global history stretching back millennia, its social and cultural significance has changed over time. A staple crop in Africa, revered by some peoples as a symbol of luck and fertility worthy of offering to the deities, within Europe it was considered solely as a humble food for laborers. In the Americas, too, the bean was a marker of class and culture, as it was mainly an important food source for enslaved peoples. Modern-day cuisine the world over embraces the black-eyed pea as a food rich in culture and history as well as a delicious source of innovative dishes that celebrate new traditions. The black-eyed pea is a powerful reminder of just how intertwined human identity is with the plants we eat.
 <param ve-image 
-       label="Black-eyed peas are small distinctive white beans. The International Institute of Tropical Agriculture in Nigeria via Wikimedia Commons, CC BY-SA 2.0."
+       label="Black-eyed peas (Vigna unguiculata) are small distinctive white beans, the Norweigian Ministry of Agriculture and Food. The International Institute of Tropical Agriculture in Nigeria, Rosa acicularis, Wikimedia Commons, CC BY-SA 2.0."
        url="https://upload.wikimedia.org/wikipedia/commons/1/19/Nigeria_Cowpea_fro_F_IITA.jpg">
 <param ve-image fit="contain"
        label="The pink pea-like flowers of wild cowpea, Vigna unguiculata. Tom Rulkens, Wikimedia Commons, CC BY-SA 2.0."
        url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Wild_cowpea_flowers_%286930710085%29.jpg">     
 <param ve-image fit="contain"
-       label="A field of cowpeas. Thamizhpparithi Maari, Wikimedia Commons, CC BY-SA 4.0."
+       label="A field of cowpeas (Vigna unguiculata). Thamizhpparithi Maari, Wikimedia Commons, CC BY-SA 4.0."
        url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Field_of_Vigna_unguiculata.jpg">   
 <param ve-image fit="contain"
-       label="Nitrogen-fixing root nodules of Vigna unguiculata. Harry Rose, Wikimedia Commons, CC BY-SA 2.0."
+       label="Nitrogen-fixing root nodules of black-eyed pea (Vigna unguiculata). Harry Rose, Wikimedia Commons, CC BY-SA 2.0."
        url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Vigna_unguiculata_nodules1_%2810737516253%29.jpg">
 {#paragraph1}
 
@@ -29,7 +29,7 @@ While the <span eid="Q498940">black-eyed pea</span>, or cowpea, has a global his
 Black-eyed peas ([_Vigna unguiculata_](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2)) are <span eid="Q44448">leguminous plants</span> that grow best in semi-arid conditions but can thrive in poor soils with little help. They are heat-loving and drought-tolerant, and grow quickly, often giving a harvest of beans within 100 days. The ease of growth and usefulness of this crop contributed to its spread from West and East Africa to Egypt by circa 2500 BCE and to the Mediterranean and the Indian subcontinent by 1500 BCE. Archaeological and genetic evidence show that West Africans domesticated wild relatives of the plant at least 6,000 years ago.[^ref1] Because of their quick maturing and reliability, black-eyed peas are an important part of mixed <span eid="Q5465532">food systems</span>: wild gathering, hunting, fishing, and <span eid="Q188989">aquaculture</span>, keeping small livestock, and/or building larger herds, <span eid="Q397350">agroforestry</span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.[^ref2]
 <param ve-image
        fit="contain"
-       label="Proposed spread of cowpea from its origins of domestication in Africa. Ira A. Herniter et al., 2020, “Genetic, textual, and archeological evidence of the historical global spread of cowpea (Vigna unguiculata [L.] Walp.),” Legume Science (2020). https://doi.org/10.1002/leg3.57."
+       label="Proposed spread of cowpea from its origins of domestication in Africa. Ira A. Herniter et al., 2020, “Genetic, textual, and archeological evidence of the historical global spread of cowpea (Vigna unguiculata [L.] Walp.),” Legume Science (2020). https://doi.org/10.1002/leg3.57, © 2020 The Authors. Legume Science published by Wiley Periodicals LLC. CC BY 4.0."
        url="https://onlinelibrary.wiley.com/cms/asset/302e2d1e-bd02-4798-8a80-81195158ece3/leg357-fig-0002-m.jpg">
 {#paragraph2}
        
