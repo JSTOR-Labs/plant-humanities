@@ -3,7 +3,7 @@
 <param ve-config 
        title="Poplar"
        author="May Wang"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg](https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_C%C3%A9zanne_-_Poplars_-_Google_Art_Project.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url="https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_C%C3%A9zanne_-_Poplars_-_Google_Art_Project.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
