@@ -42,8 +42,8 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
-       manifest="https://ids.si.edu/ids/manifest/ark:/65665/m38902df56eeba4856a1036eb5f7212d1d">
-       title="_Populus tremuloides_ herbarium specimen with cotton"
+       manifest="https://ids.si.edu/ids/manifest/ark:/65665/m38902df56eeba4856a1036eb5f7212d1d"
+       title="_Populus tremuloides_ herbarium specimen with cotton">
 <param ve-map center="Q36600" zoom="11">
 
 # References
