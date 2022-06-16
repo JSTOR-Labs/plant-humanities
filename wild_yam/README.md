@@ -78,11 +78,7 @@ While botanists had written extensively about the medicinal uses of *Dioscorea v
 ### Modern Chemistry: Inventing the Marker Degradation
 
 In 1938, Russell E. Marker, a chemist working at Pennsylvania State University, successfully synthesized progesterone, a sex hormone, from sapogenin, a naturally occurring compound in sarsaparilla, an herbaceous plant native to the eastern United States where Marker was working. Progesterone had been discovered by doctors earlier in the 1930s, who used the sex hormone to treat menstrual disorders and pregnancies. The process to synthesize progesterone, the Marker degradation, was named for him.[^ref13] But synthesizing progesterone from sarsaparilla was prohibitively expensive, and Marker knew he needed a different source to make progesterone more affordable. The answer came to him from Japanese colleagues, who discovered a compound called diosgenin, which they extracted from the roots of *Dioscorea tokoro*, a wild yam species abundant in eastern Asia.[^ref14] Their paper sent Marker to the Penn State library to study botany in search of a widely distributed source of diosgenin. Marker found his answer outside his laboratory in the roots of *Dioscorea villosa*.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Progesterone-2D-skeletal.png"
-       label="The chemical structure of Progesterone, which can be synthesized from sapogenin or diosgenin."
-       license="CC-3.0"
-       author="Benjah-bmm27, 2006."
-       fit="contain">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Progesterone-2D-skeletal.png" label="The chemical structure of Progesterone, which can be synthesized from sapogenin or diosgenin. Pngbot, Wikimedia Commons, public domain." fit="contain">
 {#paragraph12}
 
 Marker was not a botanist, nor was he particularly interested in plants. Yet, in 1940, he published that he had successfully extracted “the powdered rhizomes of *Dioscorea villosa* with a procedure similar to that used in the isolation of sarsapogenin.”[^ref15] He compared a sample of diosgenin that his Japanese colleagues sent, produced from Dioscorea tokoro, to confirm his results from *Dioscorea villosa*. He successfully produced progesterone from diosgenin that same year. Marker’s experiments confirmed that the genus *Dioscorea* was a readily available source of diosgenin, which could revolutionize the expensive production of progesterone.
