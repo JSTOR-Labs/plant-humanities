@@ -43,7 +43,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
-       label="Habanero"
+       label="Capsicum annuum 'Habanero'"
        manifest="https://ids.si.edu/ids/manifest/ark:/65665/m306712a081ec0459b90083f05d35455ec">
 <param ve-map center="Q36600" zoom="11">
 
