@@ -3,7 +3,7 @@
 <param ve-config 
        title="Chili Pepper"
        author="Hallie Pugh-Sellers"
-       banner="https://iiif.juncture-digital.org/banner/?url=[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Capsicum_annuum.JPG/1280px-Capsicum_annuum.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Capsicum_annuum.JPG/1280px-Capsicum_annuum.JPG)" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Capsicum_annuum.JPG/1280px-Capsicum_annuum.JPG" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -31,7 +31,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Capsicum_annuum.JPG/1280px-Capsicum_annuum.JPG">
 
 ## Map
 
