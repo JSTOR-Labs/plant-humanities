@@ -179,9 +179,11 @@ Despite the transformation of the plant from a weedy vine growing on roadsides a
 ### Acknowledgements
 
 The proposed herbarium sheet was developed in Thinking Through Soil, a seminar taught by Seth Denizen at the Harvard University Graduate School of Design in Spring 2021. Sam Naylor assisted in drawing the template format for the herbarium sheet. Original images by Kira Bre Clingen CC BY-NC-SA.
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dioscorea_bulbifera_%28the_air_potato%29_06852.jpg">
+{#paragraph26}
+                                                                                                                           
 ### References
-
+                                                                                                                           
 [^ref1]: E.W. Hervey. *North America: US and Canada (Region): United States of America: Massachusetts: Bristol County: New Bedford.* 1903.
 [^ref2]: Encyclopedia Britannica. “Rhizome.” *Encyclopedia Britannica* 2020. Accessed May 29, 2022. 
 [^ref3]: North American Native Plant Society. “*Dioscorea villosa*, Wild yam.” *North American Native Plant Society*. Accessed March 27, 2021. 
