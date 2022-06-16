@@ -165,26 +165,20 @@ global oceans</span> – we understand the reach of the plant, from the eastern 
 {#paragraph22}
 
 Situating  the plant in this entanglement of <span data-mouseover-image-zoomto="788,2893,1915,1476">reproductive hormones,</span> <span data-mouseover-image-zoomto="3911,2819,1915,1476">policy,</span> and moving into the present, the story of *Dioscorea villosa* and its role in the development of the birth control pill becomes more complex. Global use of the pill has come with side effects, including an influx of progesterone and estrogen, another sex hormone used in many birth control pills, into municipal water systems, which are discharged in the absence of reverse osmosis systems. The estrogen flows through sewers into <span data-mouseover-image-zoomto="2884,3012,1330,1025">water bodies</span> across the globe, finally flowing into the ocean and remaking the chemistry of our largest commons at a planetary scale, where increasing synthetic hormone levels impact the fertility of humans as well as marine and terrestrial animals alike.[^ref34][^ref35]
-<param ve-image url="symbols-08.jpg"
-       label="The story of Dioscorea villosa cannot be adequately represented by a static herbarium sheet that only looks at the preserved physical plant. The narrative around wild yam root involves a fascinating array of actors and agents, both human and non-human."
-       author="Kira Clingen"
-       fit="constrain">
+<param ve-image url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/wild_yam/Kira_Bre_Clingen_range_symbols_2021_CC_BY_NC_SA.jpg?raw=true" label="The story of Dioscorea villosa cannot be adequately represented by a static herbarium sheet that only looks at the preserved physical plant. The narrative around wild yam root involves a fascinating array of actors and agents, both human and non-human." fit="contain">
 {#paragraph23}
 
 On land, the plant’s success and distribution has also led to its critical risk, as habitat destruction and <span data-mouseover-image-zoomto="14,849,2297,1771">over-harvesting</span> threaten its existence. *Dioscorea villosa*, as well as other *Dioscorea* species, are commonly harvested for reproductive supplements. The plant deteriorates rapidly after harvest, which privileges low-volume harvesters who supply small amounts, which increases the amount of patchy habitat destruction.[^ref36]  
-<param ve-image url="symbols-08.jpg"
-       label="The demand for Dioscorea villosa and other similar species threaten the plant's continued survival in the wild."
-       author="Kira Clingen"
-       fit="constrain">
+<param ve-image url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/wild_yam/Kira_Bre_Clingen_range_symbols_2021_CC_BY_NC_SA.jpg?raw=true" label="The demand for Dioscorea villosa and other similar species threaten the plant's continued survival in the wild." fit="contain">
 {#paragraph24}
 
-Despite the transformation of the plant from a weedy vine growing on roadsides and in deep thickets to an influential commodity, traded for the chemicals in its rhizomes, herbarium sheets following long-established botanical conventions continue to represent *Dioscorea* as a <span data-mouseover-image-zoomto="902,1,2271,1750">leafy specimen</span> on herbaria sheets devoid of <span data-mouseover-image-zoomto="178,879,3270,2520">underground life</span> and its broader impact. This kind of botanical representation, for a plant that has been at the center of bioprospecting campaigns for almost a century, fails to communicate the ongoing entanglement of a plant exploited for economic gain.
+Despite the transformation of the plant from a weedy vine growing on roadsides and in deep thickets to an influential commodity, traded for the chemicals in its rhizomes, herbarium sheets following long-established botanical conventions continue to represent _Dioscorea_ as a <span data-mouseover-image-zoomto="902,1,2271,1750">leafy specimen</span> on herbaria sheets devoid of <span data-mouseover-image-zoomto="178,879,3270,2520">underground life</span> and its broader impact. This kind of botanical representation, for a plant that has been at the center of bioprospecting campaigns for almost a century, fails to communicate the ongoing entanglement of a plant exploited for economic gain.
 <param ve-image url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/wild_yam/Kira_Bre_Clingen_range_drawing_2021_CC_BY_NC_SA.jpg?raw=true" label="The lines extending from the tuber can be read as roots flowing from the tuber, or as rivers flowing into the ocean. The juxtaposition of scales shows the impact that the plant has had across the globe. Kira Bre Clingen, Updated Dioscorea villosa Herbarium Sheet, 2021, CC BY-NC-SA 2.0." fit="contain">
 {#paragraph25}
 
 ### Acknowledgements
 
-The proposed herbarium sheet was developed in Thinking Through Soil, a seminar taught by Seth Denizen at the Harvard University Graduate School of Design in Spring 2021. Sam Naylor assisted in drawing the template format for the herbarium sheet. KiraClingen, “Updated Dioscorea villosa Herbarium Sheet”, 2021, CC BY-NC-SA.
+The proposed herbarium sheet was developed in Thinking Through Soil, a seminar taught by Seth Denizen at the Harvard University Graduate School of Design in Spring 2021. Sam Naylor assisted in drawing the template format for the herbarium sheet. Original images by Kira Bre Clingen CC BY-NC-SA.
 
 ### References
 
