@@ -40,7 +40,7 @@ _Dioscorea villosa_ was used by indigenous peoples in North and Central America 
 <param ve-image url="dv_pharma.jpg" label="Dioscorea villosa listed in Pharmaceutical botany: a text-book for students of pharmarcy and science by Heber W. Youngken, published in 1920." region="-800,0,4000,3388">
 {#paragraph6}
 
-Botanists like Plumier relied on local knowledge to collect samples and knowledge of plant species to catalog. Plumier named the genus _Dioscorea_ after the Greek physician and botanist _Dioscorides_, who published his work on medicinal plants in _De materia medica_, an herbal encyclopedia that was used in European medicine from its creation around 50 CE. [^ref9]
+Botanists like Plumier relied on local knowledge to collect samples and knowledge of plant species to catalog. Plumier named the genus _Dioscorea_ after the Greek physician and botanist _Dioscorides_, who published his work on medicinal plants in _De materia medica_, an herbal encyclopedia that was used in European medicine from its creation around 50 CE.[^ref9]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/43/Dioscoride.jpg"
        label="An edition of De materia media, written by the Greek physician Dioscorides, published in 1549."
       region="-132,2,662,561">
