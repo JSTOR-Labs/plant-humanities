@@ -39,7 +39,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 The Frick Collection in New York City has four paintings by Vermeer. Unlike  _Girl with a Pearl Earring_, the Frick Vermeers are genre scenes. In addition to these paintings by Vermeer, the Frick Collection has works by Frans Hals, Rembrandt, and Meyndert Hobbema.
-<param ve-map center="Q60" zoom="11" prefer-geojson>
+<param ve-map center="Q60" zoom="8" prefer-geojson>
 
 ## Multiple viewers
 
