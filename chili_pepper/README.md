@@ -3,7 +3,7 @@
 <param ve-config 
        title="Chili Pepper"
        author="Hallie Pugh-Sellers"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Capsicum_annuum.JPG/1280px-Capsicum_annuum.JPG" 
+       banner="https://iiif.juncture-digital.org/banner/?url=[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Capsicum_annuum.JPG/1280px-Capsicum_annuum.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Capsicum_annuum.JPG/1280px-Capsicum_annuum.JPG)" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
