@@ -161,10 +161,7 @@ Plants in the *Dioscorea* genus were planted around the world for economic gain 
 
 *Dioscorea villosa*, and the industry that emerged from Marker’s first proof that progesterone could be synthesized from the genus, has reshaped human life on Earth.A new, complementary herbarium sheet is needed to express the complexity of the scientific revolution that Marker’s degradation with *Dioscorea villosa* began over half a century ago. By redrawing the plant with its attendant agents - from the <span data-mouseover-image-zoomto="82,4398,761,587">mortar and pestle</span> that indigenous women used to create medicine, to the <span data-mouseover-image-zoomto="82,4398,761,587">trowels</span> used by Marker to collect the root, to the <span data-mouseover-image-zoomto="1063,4364,913,704">laboratory equipment</span> used to isolate <span data-mouseover-image-zoomto="1890,4442,761,587">diosgenin</span>, and the <span data-mouseover-image-zoomto="1890,4442,761,587">birth control pill</span> that resulted from Marker’s experiments with the genus, with diosgenin flowing from its <span data-mouseover-image-zoomto="789,1239,2271,1751">rhizomes</span> to the <span data-mouseover-image-zoomto="156,2096,3270,2520">
 global oceans</span> – we understand the reach of the plant, from the eastern United States to the entire globe.
-<param ve-image url="dv_drawing.jpg"
-       label="A new herbarium sheet enlarges the rhizome to show its importance to the story of Dioscorea villosa around the globe."
-       author="Kira Clingen, 2021."
-       fit="constrain">
+<param ve-image url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/wild_yam/Kira_Bre_Clingen_range_drawing_2021_CC_BY_NC_SA.jpg?raw=true" label="A new herbarium sheet enlarges the rhizome to show its importance to the story of Dioscorea villosa around the globe. Kira Bre Clingen, Updated Dioscorea villosa Herbarium Sheet, 2021, CC BY-NC-SA 2.0." fit="contain">
 {#paragraph22}
 
 Situating  the plant in this entanglement of <span data-mouseover-image-zoomto="788,2893,1915,1476">reproductive hormones,</span> <span data-mouseover-image-zoomto="3911,2819,1915,1476">policy,</span> and moving into the present, the story of *Dioscorea villosa* and its role in the development of the birth control pill becomes more complex. Global use of the pill has come with side effects, including an influx of progesterone and estrogen, another sex hormone used in many birth control pills, into municipal water systems, which are discharged in the absence of reverse osmosis systems. The estrogen flows through sewers into <span data-mouseover-image-zoomto="2884,3012,1330,1025">water bodies</span> across the globe, finally flowing into the ocean and remaking the chemistry of our largest commons at a planetary scale, where increasing synthetic hormone levels impact the fertility of humans as well as marine and terrestrial animals alike.[^ref34][^ref35]
@@ -182,10 +179,7 @@ On land, the plant’s success and distribution has also led to its critical ris
 {#paragraph24}
 
 Despite the transformation of the plant from a weedy vine growing on roadsides and in deep thickets to an influential commodity, traded for the chemicals in its rhizomes, herbarium sheets following long-established botanical conventions continue to represent *Dioscorea* as a <span data-mouseover-image-zoomto="902,1,2271,1750">leafy specimen</span> on herbaria sheets devoid of <span data-mouseover-image-zoomto="178,879,3270,2520">underground life</span> and its broader impact. This kind of botanical representation, for a plant that has been at the center of bioprospecting campaigns for almost a century, fails to communicate the ongoing entanglement of a plant exploited for economic gain.
-<param ve-image url="dv_drawing.jpg"
-       label="The lines extending from the tuber can be read as roots flowing from the tuber, or as rivers flowing into the ocean. The juxtaposition of scales shows the impact that the plant has had across the globe."
-       author="Kira Clingen, 2021."
-       fit="constrain">
+<param ve-image url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/wild_yam/Kira_Bre_Clingen_range_drawing_2021_CC_BY_NC_SA.jpg?raw=true" label="The lines extending from the tuber can be read as roots flowing from the tuber, or as rivers flowing into the ocean. The juxtaposition of scales shows the impact that the plant has had across the globe. Kira Bre Clingen, Updated Dioscorea villosa Herbarium Sheet, 2021, CC BY-NC-SA 2.0." fit="contain">
 {#paragraph25}
 
 ### Acknowledgements
