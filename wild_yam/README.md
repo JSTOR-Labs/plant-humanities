@@ -12,11 +12,11 @@ The slender leaves of a specimen of _Dioscorea villosa_ are pressed, preserved, 
 {#paragraph1}
        
 Rhizomes are often confused with roots. They are found underground, but they are stems. The rhizome grows underground horizontally, and sends out roots and shoots from nodes. Rhizomes allow plants to reproduce asexually from pieces of the rhizone containing a node. Many familiar plants, including bamboo, ginger, hops, and wild yams include a subterranean rhizome.[^ref2]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Barbasco_root.jpg" label="The rhizome of a wild yam in the Dioscorea genus, Deutsches Museum, Munich. Tiia Monto, Kulmalukko, Wikimedia Commons, CC BY-SA 3.0." fit="contain">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Barbasco_root.jpg" label="The rhizome of a wild yam (Dioscorea), Deutsches Museum, Munich. Tiia Monto, Kulmalukko, Wikimedia Commons, CC BY-SA 3.0." fit="contain">
 {#paragraph2}
        
 While _Dioscorea villosa_ is native and widespread across the eastern United States, the rhizomes, which are omitted from the sample, have been used in indigenous and modern medicine for hundreds of years. In the twentieth century, colonial bioprospectors harvested _Dioscorea villosa_ rhizomes to mass produce the birth control pill. Since the 1960s, the rhizomes have reshaped lives, landscapes and water bodies across the globe.[^ref3] This story is lost in the faded tangle of stems presented on contemporary herbarium sheets. To untangle this complex narrative, we require new forms of representation that expand on the plant’s subterranean rhizomes.
-<param ve-image url="dv_rangemap-01.jpg" label="Dioscorea villosa is hardy across eastern North America." author="Kira Clingen" region="1150,8,3612,3059">
+<param ve-image url="dv_rangemap-01.jpg" label="Map showing range of Dioscorea villosa, which is hardy across eastern North America. Map by Kira Bre Clingen, 2021, CC BY-NC-SA." region="1150,8,3612,3059">
 {#paragraph3}
 
 ### Representing the Roots
