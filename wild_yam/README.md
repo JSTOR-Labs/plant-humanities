@@ -16,7 +16,7 @@ Rhizomes are often confused with roots. They are found underground, but they are
 {#paragraph2}
        
 While _Dioscorea villosa_ is native and widespread across the eastern United States, the rhizomes, which are omitted from the sample, have been used in indigenous and modern medicine for hundreds of years. In the twentieth century, colonial bioprospectors harvested _Dioscorea villosa_ rhizomes to mass produce the birth control pill. Since the 1960s, the rhizomes have reshaped lives, landscapes and water bodies across the globe.[^ref3] This story is lost in the faded tangle of stems presented on contemporary herbarium sheets. To untangle this complex narrative, we require new forms of representation that expand on the plant’s subterranean rhizomes.
-<param ve-image url="dv_rangemap-01.jpg" label="Map showing range of Dioscorea villosa, which is hardy across eastern North America. Map by Kira Bre Clingen, 2021, CC BY-NC-SA." region="1150,8,3612,3059">
+<param ve-image url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/wild_yam/Kira_Bre_Clingen_range_map_2021_CC_BY_NC_SA.jpg?raw=true" label="Map showing range of Dioscorea villosa, which is hardy across eastern North America. Map by Kira Bre Clingen, 2021, CC BY-NC-SA." region="1150,8,3612,3059">
 {#paragraph3}
 
 ### Representing the Roots
