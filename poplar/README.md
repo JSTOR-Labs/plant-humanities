@@ -3,7 +3,7 @@
 <param ve-config 
        title="Poplar"
        author="May Wang"
-       banner="https://iiif.juncture-digital.org/banner/?                                                     url=https://commons.wikimedia.org/wiki/File:Trembling_aspen_(Populus_tremuloides)_-_panoramio.jpg 
+       banner="https://commons.wikimedia.org/wiki/File:Trembling_aspen_(Populus_tremuloides)_-_panoramio.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
