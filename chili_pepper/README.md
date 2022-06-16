@@ -13,6 +13,7 @@
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q60"> <!-- New York City -->
 
 # Sample visual essay
 
@@ -37,6 +38,10 @@ _Hyacinthus orientalis_ is a garden ornamental distinguish by its columnar spike
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
+
+The Frick Collection in New York City has four paintings by Vermeer. Unlike  _Girl with a Pearl Earring_, the Frick Vermeers are genre scenes. In addition to these paintings by Vermeer, the Frick Collection has works by Frans Hals, Rembrandt, and Meyndert Hobbema.
+<param ve-map center="Q60" zoom="8" prefer-geojson>
+
 
 ## Multiple viewers
 
