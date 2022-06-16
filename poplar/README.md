@@ -15,7 +15,7 @@
 
 # Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference. Information about <span data-click-image-zoomto="489,1158,4245,3759">image interactions</span> can be found [here](https://github.com/JSTOR-Labs/juncture/wiki/Visual-Essay-Image-Tag). <!-- copy coordinates from visual essay upper left corner -->
+This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
@@ -40,7 +40,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
+Others are selectable using icons displayed in the top right margin of the paragraph. Information about <span data-click-image-zoomto="489,1158,4245,3759">image interactions</span> can be found [here](https://github.com/JSTOR-Labs/juncture/wiki/Visual-Essay-Image-Tag). <!-- copy coordinates from visual essay upper left corner -->
 <param ve-image 
        manifest="https://ids.si.edu/ids/manifest/ark:/65665/m38902df56eeba4856a1036eb5f7212d1d"
        title="_Populus tremuloides_ herbarium specimen with cotton">
