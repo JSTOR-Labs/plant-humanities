@@ -10,7 +10,7 @@
 ![](/images/thumbnails/venus_flytrap_thumbnail.jpg)
 
 ##
-[**Black-Eyed Pea: Crop, Culture, Class**](/black_eyed_pea_1)
+[**Black-Eyed Pea: Crop, Culture, Class**](/black_eyed_peas_1)
 
 - Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan
 
@@ -69,7 +69,7 @@
 ![](/images/thumbnails/Banana.jpg)
 
 ##
-[**Black-Eyed Pea: Crop, Culture, Class**](/black_eyed_peas)
+[**Black-Eyed Pea: Crop, Culture, Class**](/black_eyed_peas_1)
 
 - Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan
 
