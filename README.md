@@ -14,7 +14,7 @@
 
 - Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan
 
-![](/images/thumbnails/black_eyed_pea_1.jpg)
+![](/images/thumbnails/black_eyed_pea_1.png)
 
 ##
 [**Maize: Sacred Plant, Global Commodity**](/maize)
@@ -73,7 +73,7 @@
 
 - Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan
 
-![](/images/thumbnails/black_eyed_pea_1.jpg)
+![](/images/thumbnails/black_eyed_pea_1.png)
 
 ##
 [**Boxwood: A Plant That Took Over the Garden World**](/boxwood)
