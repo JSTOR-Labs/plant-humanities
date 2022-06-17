@@ -3,11 +3,11 @@
 # Featured Plant Narratives {.cards}
 
 ##
-[**Venus Flytrap: Queen of the Carnivorous Plants**](/venus_flytrap)
+[**Maize: Sacred Plant, Global Commodity**](/maize)
 
-- John R. Schaefer
+- Julia Fine
 
-![](/images/thumbnails/venus_flytrap_thumbnail.jpg)
+![](/images/thumbnails/maize__thumbnail.jpg)
 
 ##
 [**Black-Eyed Pea: Crop, Culture, Class**](/black_eyed_peas)
@@ -17,18 +17,18 @@
 ![](/images/thumbnails/black_eyed_pea_1.png)
 
 ##
-[**Maize: Sacred Plant, Global Commodity**](/maize)
-
-- Julia Fine
-
-![](/images/thumbnails/maize__thumbnail.jpg)
-
-##
 [**Tamarind: From Shady Refuge to Versatile Foodstuff**](/tamarind)
 
 - Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert
 
 ![](/images/thumbnails/tamarind.jpg)
+
+##
+[**Venus Flytrap: Queen of the Carnivorous Plants**](/venus_flytrap)
+
+- John R. Schaefer
+
+![](/images/thumbnails/venus_flytrap_thumbnail.jpg)
 
 ##
 [**Cinnamomum verum: Discovering “True” Cinnamon**](/cinnamon)
