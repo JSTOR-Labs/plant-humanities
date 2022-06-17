@@ -31,11 +31,11 @@
 ![](/images/thumbnails/venus_flytrap_thumbnail.jpg)
 
 ##
-[**Cinnamomum verum: Discovering “True” Cinnamon**](/cinnamon)
+[**Dittany: Women’s Herbs and Reproductive Control**](/Dittany)
 
-- Wouter Klein
+- Ashley Buchanan
 
-![](/images/thumbnails/cinnamon.jpg)
+![](/images/thumbnails/dittany.jpg)
 
 ##
 [**Peanut: From Luxury Food to Livestock Feed**](/peanut)
