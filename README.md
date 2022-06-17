@@ -38,6 +38,13 @@
 ![](/images/thumbnails/dittany.jpg)
 
 ##
+[**Ayahuasca: Amazonian Plant Lessons**](/ayahuasca)
+
+- Ashley Thuthao Keng Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson
+
+![](/images/thumbnails/ayahuasca.jpg)
+
+##
 [**Peanut: From Luxury Food to Livestock Feed**](/peanut)
 
 - Maria Job, Elizabeth Chant, and Katherine Enright
