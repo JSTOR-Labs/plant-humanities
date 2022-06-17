@@ -10,11 +10,11 @@
 ![](/images/thumbnails/venus_flytrap_thumbnail.jpg)
 
 ##
-[**Black-Eyed Pea: Crop, Culture, Class**](/black_eyed_peas_1)
+[**Black-Eyed Pea: Crop, Culture, Class**](/black_eyed_peas)
 
 - Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan
 
-![](/images/thumbnails/black_eyed_peas.jpg)
+![](/images/thumbnails/black_eyed_pea_1.jpg)
 
 ##
 [**Maize: Sacred Plant, Global Commodity**](/maize)
@@ -69,11 +69,11 @@
 ![](/images/thumbnails/Banana.jpg)
 
 ##
-[**Black-Eyed Pea: Crop, Culture, Class**](/black_eyed_peas_1)
+[**Black-Eyed Pea: Crop, Culture, Class**](/black_eyed_peas)
 
 - Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan
 
-![](/images/thumbnails/black_eyed_peas.jpg)
+![](/images/thumbnails/black_eyed_pea_1.jpg)
 
 ##
 [**Boxwood: A Plant That Took Over the Garden World**](/boxwood)
