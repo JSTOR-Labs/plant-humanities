@@ -2,33 +2,33 @@
 
 # Featured Plant Narratives {.cards}
 
-## 
-[**Cacao: Indigenous Network to Global Commodity**](/cacao)
+##
+[**Venus Flytrap: Queen of the Carnivorous Plants**](/venus_flytrap)
 
-- Rebecca Friedel
+- John R. Schaefer
 
-![](/images/thumbnails/cacao.jpg)
+![](/images/thumbnails/venus_flytrap_thumbnail.jpg)
 
 ##
-[**Sunflower: Knowledge, Myth, and Meaning**](/sunflower)
+[**Black-Eyed Pea: Crop, Culture, Class**](/black_eyed_peas)
 
-- Kristan M. Hanson
+- Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan
 
-![](/images/thumbnails/Sunflower_thumbnail.jpg)
-
-##
-[**Heliconia: Evolution at Work**](/heliconia)
-
-- W. John Kress and Yota Batsaki
-
-![](/images/thumbnails/heliconia.jpg)
+![](/images/thumbnails/black_eyed_peas.jpg)
 
 ##
-[**Peony: Pretty and Powerful**](/Peony)
+[**Maize: Sacred Plant, Global Commodity**](/maize)
 
-- Ashley Buchanan
+- Julia Fine
 
-![](/images/thumbnails/Peony_Thumbnail.jpg)
+![](/images/thumbnails/maize__thumbnail.jpg)
+
+##
+[**Tamarind: From Shady Refuge to Versatile Foodstuff**](/tamarind)
+
+- Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert
+
+![](/images/thumbnails/tamarind.jpg)
 
 ##
 [**Cinnamomum verum: Discovering “True” Cinnamon**](/cinnamon)
@@ -38,11 +38,11 @@
 ![](/images/thumbnails/cinnamon.jpg)
 
 ##
-[**Bananas: Chaos out of Order**](/Banana)
+[**Peanut: From Luxury Food to Livestock Feed**](/peanut)
 
-- Ashley Buchanan
+- Maria Job, Elizabeth Chant, and Katherine Enright
 
-![](/images/thumbnails/Banana.jpg)
+![](/images/thumbnails/peanut.jpg)
 
 
 # All Plant Narratives {.cards}
