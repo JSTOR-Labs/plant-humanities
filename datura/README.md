@@ -49,7 +49,7 @@ Full digital facsimiles of select titles in the Dumbarton Oaks Rare Book Collect
 Full digital facsimiles of select titles in the Dumbarton Oaks Rare Book Collection can be accessed [here.](https://www.doaks.org/resources/rare-books#c6-operator=or&c7-operator=or&b_start=0) You are welcome to work with our [Rare Book team](https://www.doaks.org/research/library-archives/rare-book-collection) to find something to feature.
 <param ve-image fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 be attributed to the lack of necessary empirical evidence. The flattened, dried, and inert specimens he received from correspondents failed to show the speed and precision of the lethal snap-trap in action and understandably inspired the impression of a sleeping eyelid, as Linnaeus described in his letter to Burman.
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.cord00022454" label="A dried herbarium specimen, similar to the nineteenth-century example shown here, was likely the closest Linnaeus ever got to this predatory plant.">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.cord00022454" label="Datura stramonium L. from Cordoba, Argentina.">
 
      
 ## Map
