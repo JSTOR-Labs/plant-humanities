@@ -44,6 +44,11 @@ Full digital facsimiles of select titles in the Dumbarton Oaks Rare Book Collect
 <param ve-compare sync fit="contain" manifest="https://iiif.lib.harvard.edu/manifests/drs:436574052" seq="291">
 <param ve-compare manifest="https://iiif.juncture-digital.org/manifest/c5e3bb5b8f05a40314bba386bdc2df7bc32818a04dae348d0450feb3b63c5520" fit="contain">
 
+## Plant Specimen
+
+Linnaeus further implored English nurseryman James Gordon for live specimens in 1772, to no avail. He was nonetheless susceptible to the awe *Dionaea* inspired, and his incredulity regarding the deadly trapping mechanism might simply be attributed to the lack of necessary empirical evidence. The flattened, dried, and inert specimens he received from correspondents failed to show the speed and precision of the lethal snap-trap in action and understandably inspired the impression of a sleeping eyelid, as Linnaeus described in his letter to Burman.
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.linn-hl249-3" label="A dried herbarium specimen, similar to the nineteenth-century example shown here, was likely the closest Linnaeus ever got to this predatory plant.">
+
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
