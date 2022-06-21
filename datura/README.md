@@ -35,7 +35,7 @@ _Datura_ is a flowering plant most likely native to the Americas. It is used for
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-map center="Q1489" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
