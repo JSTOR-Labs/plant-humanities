@@ -47,7 +47,7 @@ Full digital facsimiles of select titles in the Dumbarton Oaks Rare Book Collect
 ## Plant Specimen
 
 Linnaeus further implored English nurseryman James Gordon for live specimens in 1772, to no avail. He was nonetheless susceptible to the awe *Dionaea* inspired, and his incredulity regarding the deadly trapping mechanism might simply be attributed to the lack of necessary empirical evidence. The flattened, dried, and inert specimens he received from correspondents failed to show the speed and precision of the lethal snap-trap in action and understandably inspired the impression of a sleeping eyelid, as Linnaeus described in his letter to Burman.
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.linn-hl249-3" label="A dried herbarium specimen, similar to the nineteenth-century example shown here, was likely the closest Linnaeus ever got to this predatory plant.">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.linn-hl249-3" label="Lectotype of Capsicum baccatum L, Linnean Society of London Herbarium.">
 
 ## Map
 
