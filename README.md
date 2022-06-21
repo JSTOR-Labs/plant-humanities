@@ -31,13 +31,6 @@
 ![](/images/thumbnails/venus_flytrap_thumbnail.jpg)
 
 ##
-[**Dittany: Women’s Herbs and Reproductive Control**](/Dittany)
-
-- Ashley Buchanan
-
-![](/images/thumbnails/dittany.jpg)
-
-##
 [**Ayahuasca: Amazonian Plant Lessons**](/ayahuasca)
 
 - Ashley Thuthao Keng Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson
