@@ -32,6 +32,7 @@ _Hyacinthus orientalis_ is a garden ornamental distinguish by its columnar spike
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Capsicum_annuum.JPG/1280px-Capsicum_annuum.JPG">
        <param ve-entity eid="Q157428"> <!-- Hyacinthus orientalis -->
+       
 If possible, please use digital images and other resources that are free and open access. A list of open access image collections for artworks that are out of copyright can be found [here.](https://www.apollo-magazine.com/open-access-image-libraries-a-handy-list/) Photographs of plants with a Creative Commons license can be accessed on [Openverse](https://wordpress.org/openverse/) and [iNaturalist.](https://www.inaturalist.org/). When uploading a personal image to GitHub, use a [Creative Commons](https://creativecommons.org/licenses/) license.
 <param ve-image url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/chili_pepper/SurinamesePeppers_DavidEvers_UseWithAttribution.jpeg?raw=true" label="Surinamese Peppers by David Evers, Flickr, CC by 2.0" fit="cover">
 
