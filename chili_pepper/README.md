@@ -37,7 +37,7 @@ If possible, please use digital images and other resources that are free and ope
 <param ve-image url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/chili_pepper/SurinamesePeppers_DavidEvers_UseWithAttribution.jpeg?raw=true" label="Surinamese Peppers by David Evers, Flickr, CC by 2.0" fit="cover">
 
 Visit the [Visual Essay Image Tag](https://github.com/jstor-labs/juncture/wiki/Visual-Essay-Image-Tag) to learn about customizing image display. The region attribute (region="0,421,3192,2590") is used to show a cropped region of an image in the image viewer. And the fit attribute defines how an image will be scaled or cropped in the image viewer window.
-<param ve-compare curtain manifest="https://iiif.lib.harvard.edu/manifests/drs:493720026" seq="118">
+<param ve-compare curtain manifest="https://iiif.lib.harvard.edu/manifests/drs:485943395" seq="148">
 <param ve-compare manifest="https://iiif.juncture-digital.org/manifest/c5e3bb5b8f05a40314bba386bdc2df7bc32818a04dae348d0450feb3b63c5520" fit="contain">
 
 ## Map
