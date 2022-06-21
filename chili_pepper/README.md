@@ -49,6 +49,10 @@ Full digital facsimiles of select titles in the Dumbarton Oaks Rare Book Collect
 Linnaeus further implored English nurseryman James Gordon for live specimens in 1772, to no avail. He was nonetheless susceptible to the awe *Dionaea* inspired, and his incredulity regarding the deadly trapping mechanism might simply be attributed to the lack of necessary empirical evidence. The flattened, dried, and inert specimens he received from correspondents failed to show the speed and precision of the lethal snap-trap in action and understandably inspired the impression of a sleeping eyelid, as Linnaeus described in his letter to Burman.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.linn-hl249-3" label="Lectotype of Capsicum baccatum L, Linnean Society of London Herbarium.">
 
+## YouTube Video
+
+Today, black-eyed peas are grown commercially in at least 33 countries, reflecting the widespread embrace of the bean among geographically disparate peoples, places, and cultures. As acclaimed food historian and chef <span eid="Q49562413">Michael W. Twitty</span> points out: “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories.
+<param ve-video id="U9DyHthJ6LA" title="Hot Ones" author="First We Feast">
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
