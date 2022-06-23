@@ -96,10 +96,17 @@ Others are selectable using icons displayed in the top right margin of the parag
 ## KnightLabs Timeline
 
 We recommend using a [Knight Lab Timeline](https://timeline.knightlab.com/) visualization to provide in-depth information about a specific topic that would otherwise interrupt the flow of the narrative. Beginners can create a timeline using nothing more than a Google spreadsheet. The new version of Timeline supports the many [media types.](https://timeline.knightlab.com/docs/media-types.html)
-<param ve-knightlab-timeline source="1vSpB8PzcGFdAhczOaw3S56eh8DMUa2av2JbbPbHB0QE" 
+<param ve-knightlab-timeline source="1vSpB8PzcGFdAhczOaw3S56eh8DMUa2av2JbbPbHB0QE">
        
 <!-- only need "source=" alphanumeric value here -->
 <!-- hex color values -->
+
+## Cassava map with custom GeoJSON files
+
+Archaeological evidence suggests that cassava became an important food staple for several ancient cultures in present-day Peru, including the <span eid="Q13341477">Chavin</span> (1000–200 BCE), <span eid="Q210570">Nazca</span> (200 BCE–600 CE), <span eid="Q208188">Moche</span> (250–750 CE), and <span eid="Q901198">Chimú</span> (1000–1470 CE).
+<param ve-map basemap="Esri_WorldPhysical" title="Locations of Pre-Columbian Andean civilizations: Nazca (magenta), Moche and Moche Influence (purple), and Chimú (yellow)." center="-10.398459529701169, -75.35486070351776" zoom="5" marker-type="none" stroke="none">
+<param ve-map-layer geojson active url="cassava_leaves.json" title="Cassava leaves">
+<param ve-map-layer geojson active url="Peru_Nazca_Moche_Chimor.json" title="Pre-Columbian Andean civilizations">
 
 # References
 
