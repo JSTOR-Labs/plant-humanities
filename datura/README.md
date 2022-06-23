@@ -76,6 +76,16 @@ Geospatial Conservation Assessment ([GeoCat](https://www.gbif.org/tool/81755/geo
 <param ve-map-layer geojson active title="Heliconia aurea (magenta)" url="/data/heliconia-aurea.tsv" fill="#D11141" radius="6">  
 <param ve-map-layer geojson active title="Heliconia bihai (green)" url="/data/heliconia-bihai.tsv" radius="4.5" fill="#009900">
 
+## Cassava section
+
+Archaeological evidence suggests that cassava became an important food staple for several ancient cultures in present-day Peru, including the Chavin (1000–200 BCE), Nazca (200 BCE–600 CE), Moche (250–750 CE), and Chimú (1000–1470 CE).
+<param title="Chavín culture" eid="Q13341477" aliases="Chavin">
+<param title="Nazca culture" eid="Q210570" aliases="Nazca">
+<param title="Moche culture" eid="Q208188" aliases="Moche">
+<param title="Chimú culture" eid="Q901198" aliases="Chimú">
+<param ve-map basemap="Esri_WorldPhysical" title="Locations of Pre-Columbian Andean civilizations: Nazca (magenta), Moche and Moche Influence (purple), and Chimú (yellow)." center="-10.398459529701169, -75.35486070351776" zoom="5" marker-type="none" stroke="none">
+<param ve-map-layer geojson active url="cassava_leaves.json" title="Cassava leaves">
+<param ve-map-layer geojson active url="Peru_Nazca_Moche_Chimor.json" title="Pre-Columbian Andean civilizations">
 
 # References
 
