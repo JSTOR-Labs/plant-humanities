@@ -69,7 +69,7 @@ An even more puzzling aspect about ayahuasca decoctions for outsider researchers
 {#paragraph7}
 
 For outsider researchers hailing from the West, identifying plant species used in ayahuasca decoctions has been difficult for a number of reasons. Exact recipes are often closely guarded by Indigenous knowledge keepers and precise measurements of the ingredients are not always recorded.  Additionally, Indigenous groups may classify plants according to more refined and specific criteria than Western scientists, identifying nuanced variations in leaf shape, size, breadth, flowering patterns, the psychoactive effects  as well as the guardian spirits associated with the plant.[^ref16] Indigenous groups using these complex classification systems will at times refer to the same plant species by many names or use the same name for different plants all depending on their uses. In the case of ayahuasca, “different” species are used to create brews with varying strength and purpose.[^ref17] 
-<param ve-image
+<param ve-image region="0,570,2256,1994"
         url="https://www.biodiversitylibrary.org/pageimage/7463889"
         label="A young Kamentsá boy holds the flower of a narcotic plant similar to a moonflower in the Valley of Sibundoy Valley ca.1953. The name metz-kwai stands for 'intoxicant of the jaguar'. Originally published in the Botanical Museum Leaflets, Harvard University 17, no. 1 (1955). Richard Schultes, Missouri Botanical Garden, Peter H. Raven Library via BHL, public domain."
         fit="cover">
