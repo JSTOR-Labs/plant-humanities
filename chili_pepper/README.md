@@ -73,6 +73,11 @@ Others are selectable using icons displayed in the top right margin of the parag
        manifest="https://ids.si.edu/ids/manifest/ark:/65665/m306712a081ec0459b90083f05d35455ec">
 <param ve-map center="Q36600" zoom="11">
 
+## Timeline
+
+We recommend using a [Knight Lab Timeline](https://timeline.knightlab.com/) visualization to provide in-depth information about a specific topic that would otherwise interrupt the flow of the narrative. Beginners can create a timeline using nothing more than a Google spreadsheet. The new version of Timeline supports the many [media types.](https://timeline.knightlab.com/docs/media-types.html)
+<param ve-knightlab-timeline source="1Fa2DWfjiq1scmC7Ffv4kF5kDfUwDTRftNfjwt0jNdv0&">
+
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
