@@ -130,13 +130,9 @@ Hoppin’ John’s origins are from brutal conditions of American plantations. E
 
 Brazil’s national dish, <span eid="Q878189">_feijoada completa_</span>, has a similar origin story to Hoppin’ John. Enslaved West Africans on plantations in <span eid="Q2088324">colonial Brazil</span> developed _feijoada_, a stew made with black beans and scrap pork.[^ref27] It was a meal of necessity for workers as it used the food on hand and could be left simmering unattended during the long day’s work.[^ref28] Today, simple bean and rice dishes are a national staple, but _feijoada completa_ is a celebratory meal for every sector of society, taking days to prepare and requiring higher quality meat, collard greens, rice, orange slices, and manioc flour (derived from [cassava](https://lab.plant-humanities.org/cassava/)).[^ref29] For both _feijoada completa_ and Hoppin’ John, what was originally a means for survival has become a meal symbolizing prosperity and for celebration, as well as a symbol of unity across racial lines. However, there is still much tension in questions of representation, ownership, class, race and identity in Southern food and <span eid="Q555997">Soul Food,</span> with white perspectives usually being unjustly privileged over Black ones.[^ref30]
 <param ve-image 
-       label="Feijoada with rice, fried kale, cassava starch crisps (biscoito de polvilho), cassava flour (farinha), and a mix of olive oil, alcohol vinegar, tomatoes, onions and sometimes bell peppers called vinagrete. إيان, Wikimedia Commons, CC BY-SA 4.0."
-       fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/فيجوادا_feijoada.jpg/1280px-فيجوادا_feijoada.jpg">       
+       manifest="https://iiif.juncture-digital.org/manifest/54cb1c00f1af654d62882d050899da10018983db1f3bfd071ebc8d48fd2e0367">       
 <param ve-image 
-       label="Feijoada à brasileira. Bradleyzm, Wikimedia Commons, CC BY-SA 4.0."
-       fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Feijoada_à_brasileira_-02.jpg/1280px-Feijoada_à_brasileira_-02.jpg">
+       manifest="https://iiif.juncture-digital.org/manifest/e4d267b499d4a0e8f611cd4ae0b7530b121b59625cc01eeae43629b5ceae0c78">
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/d25e915a5ad0925de569279e95e1e7924cab5dc431c0ef0e3e9298a0ac5c5b4e"
        fit="contain">
@@ -171,9 +167,7 @@ Black-eyed pea’s many names reflect its worldwide appeal. It is known as crowd
 <param ve-image
        manifest="https://iiif.juncture-digital.org/manifest/98bf6ade7b6340109cf02b004b061d45e3cc50b35b7507421970029978d05803">
 <param ve-image 
-       label="Like adults, youngsters need dietary fiber. By helping our digestive system work effectively, fiber plays an important role in maintaining good health. Great natural sources of fiber include beans, like navy, pinto, kidney, and black or white; peas, like split peas, chickpeas, and black-eyed peas; fruit, including pears, raspberries, and prunes; vegetables, like spinach, carrots, and broccoli; and Whole grain cereal, whole grain bread, and whole grain pasta. The U.S. Food and Drug Administration (Flickr) via Bluerasberry, Wikimedia Commons, public domain."
-       fit="contain"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kids_‘n_Fiber_%286120828233%29.jpg/640px-Kids_‘n_Fiber_%286120828233%29.jpg">
+       manifest="https://iiif.juncture-digital.org/manifest/1c88be882154e846c7f6fec8deed5763afd773bc88efb31b5c89db049694733b">
 {#paragraph23}
        
 ### References			
