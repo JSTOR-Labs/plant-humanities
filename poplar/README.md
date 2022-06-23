@@ -62,6 +62,15 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 The Frick Collection in New York City has four paintings by Vermeer. Unlike  _Girl with a Pearl Earring_, the Frick Vermeers are genre scenes. In addition to these paintings by Vermeer, the Frick Collection has works by Frans Hals, Rembrandt, and Meyndert Hobbema.
 <param ve-map center="Q60" zoom="8" prefer-geojson>
 
+## Map with Geospatial Points
+
+Geospatial Conservation Assessment ([GeoCat](https://www.gbif.org/tool/81755/geocat-geospatial-conservation-assessment-tool)) maps and Red List descriptions of the conservation status of 185 species are being produced. For example, data from over 200 herbarium specimens found in 20 institutions suggest that _Heliconia bihai_ from the <span data-click-map-flyto="18.005438, -66.612474,5.8">Caribbean</span> and <span data-click-map-flyto="1.069952, -60.720456, 4.6">northern South America</span> is of “Least Concern” for conservation. Whereas the six available specimens of the very closely related species _[Heliconia aurea](http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:119303-2)_ from <span data-click-map-flyto="9.036443, -69.729927, 7.3">Colombia and Venezuela</span> indicate that it is “Vulnerable” and at risk of extinction, most likely due to habitat alteration, degradation, and destruction.
+<param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1" label="Populations of Heliconia aurea (magenta) and Heliconia bihai (green) based on data from herbarium specimens.">
+<param ve-map-layer geojson active title="Heliconia aurea (magenta)" url="/data/heliconia-aurea.tsv" fill="#D11141" radius="6">  
+<param ve-map-layer geojson active title="Heliconia bihai (green)" url="/data/heliconia-bihai.tsv" radius="4.5" fill="#009900">
+
+<!-- get lat and longitude values for map center from Google Maps -->
+
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
@@ -74,7 +83,10 @@ Others are selectable using icons displayed in the top right margin of the parag
 ## KnightLabs Timeline
 
 We recommend using a [Knight Lab Timeline](https://timeline.knightlab.com/) visualization to provide in-depth information about a specific topic that would otherwise interrupt the flow of the narrative. Beginners can create a timeline using nothing more than a Google spreadsheet. The new version of Timeline supports the many [media types.](https://timeline.knightlab.com/docs/media-types.html)
-<param ve-knightlab-timeline source="1vSpB8PzcGFdAhczOaw3S56eh8DMUa2av2JbbPbHB0QE" <!--only need "source=" alphanumeric value here -->
+<param ve-knightlab-timeline source="1vSpB8PzcGFdAhczOaw3S56eh8DMUa2av2JbbPbHB0QE" 
+       
+<!-- only need "source=" alphanumeric value here -->
+<!-- hex color values -->
 
 # References
 
