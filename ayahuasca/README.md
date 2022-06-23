@@ -106,7 +106,8 @@ More than just visual, though ayahuasca ceremonies are a multisensory journey fo
 <param ve-video id="d06W6to3Wc0" title="Maestro Gilberto Picota Lopez Sings a Shipibo Icaro">
 {#paragraph13}
                                                         
-### Ethnobotanical Encounters 
+### Ethnobotanical Encounters
+
 The rich descriptions of ayahuasca ceremonies we know today have been written in the last five decades or so. Interestingly, the few materials that document early encounters with the brew often mention vernacular plant names or botanical traits of hallucinogenic plants. These details, however brief and meager, would later become relevant for twentieth-century ethnobotany. The selected episodes of ethnobotanical encounters reveal how ayahuasca shaped the development of this discipline. Despite persistent religious and intellectual barriers, outsider researchers began to build their own understandings of ayahuasca as early as the 1700s. The convergences and dissonances with Amazonian plant knowledge reveal different episodes of land and knowledge colonization. 
 <param ve-knightlab-timeline="" source="1uQHhaag3mNkvi1O-p56_BTkNnA16dXGOsw3aIazunnw" font="Lustria-Lato" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="650">
 {#paragraph14}
@@ -133,7 +134,7 @@ In contrast, descriptions of individual plant species were devoid of demonic or 
 <param ve-image
        manifest="https://iiif.juncture-digital.org/manifest/c52ad66bc9f0f8963cc56eada642d5ae59bbfa5ff92e7c3ff885a7080162bd7a"
        label="Latin descriptions of several Psychotria species. These species were classified according to Linnaean principles. Hipolito Ruíz & José Pavón, Description of Pscyhotria viridis in Flora Peruviana et Chilensis, vol. 1, 1798-1802. Biblioteca de la Universidad Complutense de Madrid, public domain."
-       region="1295,1326,1904,1529"
+       fit="contain"
        ref="2">
 {#paragraph16}
        
@@ -162,7 +163,7 @@ While Pinto Ruben’s work is certainly ethnobotanical in character, the most ce
 {#paragraph18}
        
 Spruce obtained most of his field information on _caapi_ through firsthand interviews and observations. However, when it came to firsthand experiences with ayahuasca consumption, Spruce had to tap into the scientific networks of the nascent Spanish American republics and the <span eid="Q217230">Brazilian Empire</span>.[^ref32] To illustrate the effect of “white men who have partaken of caapi in the proper way,” Spruce drew from the account of a Brazilian friend and more extensively from Manuel Villavicencio, a Quiteño <span eid="Q16242047">_criollo_</span> scientist who was governor of the <span eid="Q7102414">Oriental Provinces in Ecuador</span> in the 1850s.[^ref33]
-<param ve-image
+<param ve-image region="57,1044,1576,1355"
        url="https://ids.lib.harvard.edu/ids/iiif/445472636/full/full/0/default.jpg"
        label="Uknown artist. En route to the deep Amazon via the Napo River. Published in Manuel Villavicencio, Geografía de la República del Ecuador,  New York, Impr. de R. Craighead, 1858. Dumbarton Oaks, public domain."
        fit="contain"
