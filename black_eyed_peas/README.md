@@ -26,7 +26,7 @@ Black-eyed peas ([_Vigna unguiculata_](https://powo.science.kew.org/taxon/urn:ls
 <param ve-image
        fit="contain"
        label="Proposed spread of cowpea from its origins of domestication in Africa. Ira A. Herniter et al., 2020, “Genetic, textual, and archeological evidence of the historical global spread of cowpea (Vigna unguiculata [L.] Walp.),” Legume Science (2020). https://doi.org/10.1002/leg3.57, © 2020 The Authors. Legume Science published by Wiley Periodicals LLC. CC BY 4.0."
-       url="https://onlinelibrary.wiley.com/cms/asset/302e2d1e-bd02-4798-8a80-81195158ece3/leg357-fig-0002-m.jpg">
+       url="https://github.com/JSTOR-Labs/plant-humanities/blob/main/black_eyed_peas/Herniter_Mun%CC%83oz-Amatriai%CC%81n_Close_Proposed_spread_of_cowpea_Copyright_2020_The%20Authors.%20Legume%20Science_published_Wiley_Periodicals_LLC_CC_BY_4.0.jpg?raw=true">
 {#paragraph2}
        
 ### Cultural Perceptions in Europe
