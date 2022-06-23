@@ -64,11 +64,7 @@ The Frick Collection in New York City has four paintings by Vermeer. Unlike  _Gi
 
 ## Map with custom GeoJSON layers
 
-Archaeological evidence suggests that cassava became an important food staple for several ancient cultures in present-day Peru, including the Chavin (1000–200 BCE), Nazca (200 BCE–600 CE), Moche (250–750 CE), and Chimú (1000–1470 CE).
-<param title="Chavín culture" eid="Q13341477" aliases="Chavin">
-<param title="Nazca culture" eid="Q210570" aliases="Nazca">
-<param title="Moche culture" eid="Q208188" aliases="Moche">
-<param title="Chimú culture" eid="Q901198" aliases="Chimú">
+Archaeological evidence suggests that cassava became an important food staple for several ancient cultures in present-day Peru, including the <span eid="Q13341477">Chavin</span> (1000–200 BCE), <span eid="Q210570">Nazca</span> (200 BCE–600 CE), <span eid="Q208188">Moche</span> (250–750 CE), and <span eid="Q901198">Chimú</span> (1000–1470 CE).
 <param ve-map basemap="Esri_WorldPhysical" title="Locations of Pre-Columbian Andean civilizations: Nazca (magenta), Moche and Moche Influence (purple), and Chimú (yellow)." center="-10.398459529701169, -75.35486070351776" zoom="5" marker-type="none" stroke="none">
 <param ve-map-layer geojson active url="cassava_leaves.json" title="Cassava leaves">
 <param ve-map-layer geojson active url="Peru_Nazca_Moche_Chimor.json" title="Pre-Columbian Andean civilizations">
@@ -100,13 +96,6 @@ We recommend using a [Knight Lab Timeline](https://timeline.knightlab.com/) visu
        
 <!-- only need "source=" alphanumeric value here -->
 <!-- hex color values -->
-
-## Cassava map with custom GeoJSON files
-
-Archaeological evidence suggests that cassava became an important food staple for several ancient cultures in present-day Peru, including the <span eid="Q13341477">Chavin</span> (1000–200 BCE), <span eid="Q210570">Nazca</span> (200 BCE–600 CE), <span eid="Q208188">Moche</span> (250–750 CE), and <span eid="Q901198">Chimú</span> (1000–1470 CE).
-<param ve-map basemap="Esri_WorldPhysical" title="Locations of Pre-Columbian Andean civilizations: Nazca (magenta), Moche and Moche Influence (purple), and Chimú (yellow)." center="-10.398459529701169, -75.35486070351776" zoom="5" marker-type="none" stroke="none">
-<param ve-map-layer geojson active url="cassava_leaves.json" title="Cassava leaves">
-<param ve-map-layer geojson active url="Peru_Nazca_Moche_Chimor.json" title="Pre-Columbian Andean civilizations">
 
 # References
 
