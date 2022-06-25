@@ -11,13 +11,13 @@
 
 ### A Food Source and So Much More
 While the <span eid="Q498940">black-eyed pea</span>, or cowpea, has a global history stretching back millennia, its social and cultural significance has changed over time. A staple crop in Africa, revered by some peoples as a symbol of luck and fertility worthy of offering to the deities, within Europe it was considered solely as a humble food for laborers. In the Americas, too, the bean was a marker of class and culture, as it was mainly an important food source for enslaved peoples. Modern-day cuisine the world over embraces the black-eyed pea as a food rich in culture and history as well as a delicious source of innovative dishes that celebrate new traditions. The black-eyed pea is a powerful reminder of just how intertwined human identity is with the plants we eat.
-<param ve-image 
+<param ve-image fit="contain" label="Black-eyed peas are small distinctive white beans."
        manifest="https://iiif.juncture-digital.org/manifest/3afc147d15bc562faa4c17ef8e32c9e94a730a9bc51c104141a0140632e52e05">
-<param ve-image fit="contain"
+<param ve-image fit="contain" label="The pink pea-like flowers of wild cowpea, Vigna unguiculata."
        manifest="https://iiif.juncture-digital.org/manifest/f7252a7a38833de8b6b295288551437daffa7b79a52b09da1bbfe6c8ce71d7ce">     
-<param ve-image fit="contain"
+<param ve-image fit="contain" label="A field of cowpeas."
        manifest="https://iiif.juncture-digital.org/manifest/eeee235795e9931d5f9a0231ed088f19bf64f6c78f429dad2dda677ebe7e549e">   
-<param ve-image fit="contain"
+<param ve-image fit="contain" label="Nitrogen-fixing root nodules of Vigna unguiculata."
        manifest="https://iiif.juncture-digital.org/manifest/e8bf748a8e1cbcb1007283d508c845c7a1b229a5e88e547186608d22aecbad8a">
 {#paragraph1}
 
