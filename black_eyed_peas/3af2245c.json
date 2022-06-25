@@ -9,7 +9,7 @@
       }
     ],
     "target": {
-      "source": "https://github.com/JSTOR-Labs/plant-humanities/blob/staging-5/black_eyed_peas/Annibale_Carracci_Bean_Eater_dvdbramhall_Flickr_CC_BY_NC_ND_2.0.jpg?raw=true",
+      "source": "https://iiif.juncture-digital.org/manifest/7ba2afc75846d6545d18fcb954dffbd9ee4fbde86dee7eb7b4032e96ffdf1e1a",
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -29,7 +29,7 @@
       }
     ],
     "target": {
-      "source": "https://github.com/JSTOR-Labs/plant-humanities/blob/staging-5/black_eyed_peas/Annibale_Carracci_Bean_Eater_dvdbramhall_Flickr_CC_BY_NC_ND_2.0.jpg?raw=true",
+      "source": "https://iiif.juncture-digital.org/manifest/7ba2afc75846d6545d18fcb954dffbd9ee4fbde86dee7eb7b4032e96ffdf1e1a",
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -49,7 +49,7 @@
       }
     ],
     "target": {
-      "source": "https://github.com/JSTOR-Labs/plant-humanities/blob/staging-5/black_eyed_peas/Annibale_Carracci_Bean_Eater_dvdbramhall_Flickr_CC_BY_NC_ND_2.0.jpg?raw=true",
+      "source": "https://iiif.juncture-digital.org/manifest/7ba2afc75846d6545d18fcb954dffbd9ee4fbde86dee7eb7b4032e96ffdf1e1a",
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
