@@ -11,13 +11,13 @@
 
 ### A Food Source and So Much More
 While the <span eid="Q498940">black-eyed pea</span>, or cowpea, has a global history stretching back millennia, its social and cultural significance has changed over time. A staple crop in Africa, revered by some peoples as a symbol of luck and fertility worthy of offering to the deities, within Europe it was considered solely as a humble food for laborers. In the Americas, too, the bean was a marker of class and culture, as it was mainly an important food source for enslaved peoples. Modern-day cuisine the world over embraces the black-eyed pea as a food rich in culture and history as well as a delicious source of innovative dishes that celebrate new traditions. The black-eyed pea is a powerful reminder of just how intertwined human identity is with the plants we eat.
-<param ve-image 
+<param ve-image fit="contain" label="Black-eyed peas are small distinctive white beans."
        manifest="https://iiif.juncture-digital.org/manifest/3afc147d15bc562faa4c17ef8e32c9e94a730a9bc51c104141a0140632e52e05">
-<param ve-image fit="contain"
+<param ve-image fit="contain" label="The pink pea-like flowers of wild cowpea, Vigna unguiculata."
        manifest="https://iiif.juncture-digital.org/manifest/f7252a7a38833de8b6b295288551437daffa7b79a52b09da1bbfe6c8ce71d7ce">     
-<param ve-image fit="contain"
+<param ve-image fit="contain" label="A field of cowpeas."
        manifest="https://iiif.juncture-digital.org/manifest/eeee235795e9931d5f9a0231ed088f19bf64f6c78f429dad2dda677ebe7e549e">   
-<param ve-image fit="contain"
+<param ve-image fit="contain" label="Nitrogen-fixing root nodules of Vigna unguiculata."
        manifest="https://iiif.juncture-digital.org/manifest/e8bf748a8e1cbcb1007283d508c845c7a1b229a5e88e547186608d22aecbad8a">
 {#paragraph1}
 
@@ -164,10 +164,10 @@ The [Crop Wild Relatives Project](https://www.croptrust.org/work/projects/crop-w
        
 ### A Food of the Future
 Black-eyed pea’s many names reflect its worldwide appeal. It is known as crowder pea, caupi, southern pea, alubia carilla, neibe, and frijole, as well as chowlee in India, gubgub in the West Indies, and akkerboon in South Africa.[^ref36] And black-eyed peas and other legumes are globally growing in status as key cooking ingredients and foods of the future. Highly nutritious and relatively easy to grow, black-eyed peas will no doubt play an important part in future <span eid="Q1229911">food security</span>: providing food in changing climates and helping small-scale farmers combat poverty and hunger.[^ref37] As the climate becomes warmer and more unpredictable, and as human populations grow and resources become more limited, crops such as black-eyed peas, with its many virtues, will contribute to the diets of more people.[^ref38]
-<param ve-image
-       manifest="https://iiif.juncture-digital.org/manifest/98bf6ade7b6340109cf02b004b061d45e3cc50b35b7507421970029978d05803">
-<param ve-image 
+<param ve-compare region="-17,-120,675,600"
        manifest="https://iiif.juncture-digital.org/manifest/1c88be882154e846c7f6fec8deed5763afd773bc88efb31b5c89db049694733b">
+<param ve-compare
+       manifest="https://iiif.juncture-digital.org/manifest/98bf6ade7b6340109cf02b004b061d45e3cc50b35b7507421970029978d05803">
 {#paragraph23}
        
 ### References			
