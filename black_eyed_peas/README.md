@@ -164,10 +164,10 @@ The [Crop Wild Relatives Project](https://www.croptrust.org/work/projects/crop-w
        
 ### A Food of the Future
 Black-eyed pea’s many names reflect its worldwide appeal. It is known as crowder pea, caupi, southern pea, alubia carilla, neibe, and frijole, as well as chowlee in India, gubgub in the West Indies, and akkerboon in South Africa.[^ref36] And black-eyed peas and other legumes are globally growing in status as key cooking ingredients and foods of the future. Highly nutritious and relatively easy to grow, black-eyed peas will no doubt play an important part in future <span eid="Q1229911">food security</span>: providing food in changing climates and helping small-scale farmers combat poverty and hunger.[^ref37] As the climate becomes warmer and more unpredictable, and as human populations grow and resources become more limited, crops such as black-eyed peas, with its many virtues, will contribute to the diets of more people.[^ref38]
-<param ve-image
-       manifest="https://iiif.juncture-digital.org/manifest/98bf6ade7b6340109cf02b004b061d45e3cc50b35b7507421970029978d05803">
-<param ve-image 
+<param ve-compare region="-17,-120,675,600"
        manifest="https://iiif.juncture-digital.org/manifest/1c88be882154e846c7f6fec8deed5763afd773bc88efb31b5c89db049694733b">
+<param ve-compare
+       manifest="https://iiif.juncture-digital.org/manifest/98bf6ade7b6340109cf02b004b061d45e3cc50b35b7507421970029978d05803">
 {#paragraph23}
        
 ### References			
