@@ -10,8 +10,8 @@ Since the late 1990s, the Amazonian psychoactive beverage <span eid="Q380436">ay
 <param ve-image url="https://live.staticflickr.com/7384/11949826476_3110402a35_k.jpg"
        label="Preparing Ayahuasca with Chacruna (P. viridis), Jairo Galvis Henao via Flickr, CC BY-NC-ND 2.0."
 {#paragraph1}
-
-### Ayahuasca: A Plant or a Brew?
+       
+### Ayahuasca: A Plant or a Decoction?
 
 Although many associate ayahuasca with a particular species of plant, it is the name of a group of Indigenous psychoactive <span eid="Q1136912">decoctions</span> made by boiling a combination of species found in certain regions of Amazonia. Ayahuasca is from the <span eid="Q5218">Quechua</span> language: _aya_ refers to “soul, ancestors, or dead persons” and _waska_ refers to “vine or rope.” Popular translations in English include “vine of the soul” and “rope of death.”[^ref1] Among groups living in Ecuador, Colombia, Peru, and Brazil, ayahuasca is called _natema_, _hoasca_, _daime_, _yagé_, or _yajé_.
 <param ve-image label="Map of various Amazonian groups reported to use ayahuasca plants. Composed and drawn by botanist Richard Evans Schultes, 1957. Missouri Botanical Garden, Peter H. Raven Library via BHL, public domain."
