@@ -23,8 +23,8 @@ Users of ayahuasca experience vivid hallucinations and visions that some describ
 <param ve-compare sync
        url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Yage_Is_Our_Life_YouTube_posted_by_Yage_Is_Our_Life_1_no_known_restrictions.png?raw=true"
        label="Yagé Is Our Life. Yagé Is Our Life, YouTube, no known copyright restrictions.">
-<param ve-compare url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Yage_Is_Our_Life_YouTube_posted_by_Yage_Is_Our_Life_2_no_known_restrictions.png?raw=true">
-<param ve-compare url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Yage_Is_Our_Life_YouTube_posted_by_Yage_Is_Our_Life_3_no_known_restrictions.png?raw=true">
+<param ve-compare url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Yage_Is_Our_Life_YouTube_posted_by_Yage_Is_Our_Life_1_no_known_restrictions_2.png?raw=true">
+<param ve-compare url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Yage_Is_Our_Life_YouTube_posted_by_Yage_Is_Our_Life_1_no_known_restrictions_3.png?raw=true">
 {#paragraph3}
 
 Many traditions are associated with the preparation and imbibing of the decoction, due to its ubiquity among cultures throughout the Amazon basin and Andean highlands. Boiling and steeping together the vines of <span eid="Q133573">_Banisteriopsis caapi_</span> (Malpighiaceae) and the leaves of <span eid="Q133533">_Psychotria viridis_</span> (Rubiaceae) is most common.[^ref5] Amazonian Indigenous populations have known about this combincation of plants and its effects for at least 3,000 years.[^ref6] However, there are recipes that do not contain any _P. viridis_, and instead use other plants that contain DMT, such as <span eid="Q1939784">_Diplopterys cabrerana_</span> (Malpighiaceae). 
