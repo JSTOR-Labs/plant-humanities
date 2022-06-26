@@ -5,20 +5,24 @@
        author="Ashley Thuthao Keng Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson"
        banner="https://ids.lib.harvard.edu/ids/iiif/485686573/pct:20,10,50,80/full/90/default.jpg" 
        layout="vertical">
-       
+
+<param title="Jalisco" eid="Q13160">
+
+### A Plant or a Brew?
+
 Since the late 1990s, the Amazonian psychoactive beverage <span eid="Q380436">ayahuasca</span> has grown increasingly common throughout the world. Those living in Europe or the United States may be most familiar with the brew through <span eid="Q183308">New Age</span> spiritual practices, exoticizing travel writing, and the growing ecotourism industry. However, these associations can obscure the long traditions of ayahuasca’s use by a variety of Indigenous groups in what is now South America. Even within <span eid="Q2841453">Amazonia</span>, ayahuasca’s ingredients and components, ritual usage, and spiritual and medicinal effects remain highly dynamic and contested. With its evolving story, ayahuasca can serve as an eloquent “plant teacher,” as it is known in the Peruvian Amazon, highlighting both the relationality between humans and plants and the ways those relations were appropriated and transformed for a global market. 
 <param ve-image url="https://live.staticflickr.com/7384/11949826476_3110402a35_k.jpg"
-       label="Preparing Ayahuasca with Chacruna (P. viridis), Jairo Galvis Henao via Flickr, CC BY-NC-ND 2.0."
+       label="Preparing Ayahuasca with Chacruna (P. viridis), Jairo Galvis Henao via Flickr, CC BY-NC-ND 2.0.">
 {#paragraph1}
-       
-### Ayahuasca: A Plant or a Decoction?
 
+### “Vine of the Soul”
+       
 Although many associate ayahuasca with a particular species of plant, it is the name of a group of Indigenous psychoactive <span eid="Q1136912">decoctions</span> made by boiling a combination of species found in certain regions of Amazonia. Ayahuasca is from the <span eid="Q5218">Quechua</span> language: _aya_ refers to “soul, ancestors, or dead persons” and _waska_ refers to “vine or rope.” Popular translations in English include “vine of the soul” and “rope of death.”[^ref1] Among groups living in Ecuador, Colombia, Peru, and Brazil, ayahuasca is called _natema_, _hoasca_, _daime_, _yagé_, or _yajé_.
 <param ve-image label="Map of various Amazonian groups reported to use ayahuasca plants. Composed and drawn by botanist Richard Evans Schultes, 1957. Missouri Botanical Garden, Peter H. Raven Library via BHL, public domain."
        url="https://www.biodiversitylibrary.org/pageimage/7810703"
        fit="contain">
 {#paragraph2}
- 
+
 Users of ayahuasca experience vivid hallucinations and visions that some describe as “dreaming while awake.”[^ref2] This is the result of the mixture of plants that combine two chemicals: <span eid="Q414226">_β-carboline_</span> harmala alkaloids and <span eid="Q407217">_N,N-Dimethyltryptamine_</span> (DMT)–the two chemicals must be ingested together to cause psychedelic effects on the brain. Both the _β-carboline_ harmala alkaloids, harmine and harmaline, are known as <span eid="Q410954">monoamine oxidase inhibitors</span> (MAOIs). Without them, the DMT would be inactivated by the monoamine oxidase (MAOs) within our gut and liver and no hallucinogenic reactions would occur. Although DMT is a naturally occurring chemical that is found in the brain in small amounts, larger amounts of it are needed to experience visions, strong emotional surges, and even “breakthroughs” to other dimensional realities.[^ref3] During these visual experiences, objects seem to vibrate, colors are brighter or more intense, and intricate shapes and patterns emerge in kaleidoscopic ways.[^ref4] 
 <param ve-image label="Commentary on the recipe for Ayahuasca brew by French missionary Constantin Tastevin, 1926. An excerpt from Brunfelsia in Ethnomedicine by Timothy Plowman, 1977. Missouri Botanical Garden, Peter H. Raven Library, public domain."
        url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/Recipe%20commentary%20-%20Constatin%20Tastevin.png?raw=true"
