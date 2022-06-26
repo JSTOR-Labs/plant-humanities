@@ -20,15 +20,15 @@ Although many associate ayahuasca with a particular species of plant, it is the 
 {#paragraph2}
  
 Users of ayahuasca experience vivid hallucinations and visions that some describe as “dreaming while awake.”[^ref2] This is the result of the mixture of plants that combine two chemicals: <span eid="Q414226">_β-carboline_</span> harmala alkaloids and <span eid="Q407217">_N,N-Dimethyltryptamine_</span> (DMT)–the two chemicals must be ingested together to cause psychedelic effects on the brain. Both the _β-carboline_ harmala alkaloids, harmine and harmaline, are known as <span eid="Q410954">monoamine oxidase inhibitors</span> (MAOIs). Without them, the DMT would be inactivated by the monoamine oxidase (MAOs) within our gut and liver and no hallucinogenic reactions would occur. Although DMT is a naturally occurring chemical that is found in the brain in small amounts, larger amounts of it are needed to experience visions, strong emotional surges, and even “breakthroughs” to other dimensional realities.[^ref3] During these visual experiences, objects seem to vibrate, colors are brighter or more intense, and intricate shapes and patterns emerge in kaleidoscopic ways.[^ref4] 
-<param ve-plant-specimen eid="Q133573" max="1"> <!--Caapi-->
-<param ve-plant-specimen eid="Q133533" max="1"> <!--P.Viridis-->
-{#paragraph3}
-
-Many traditions are associated with the preparation and imbibing of the decoction, due to its ubiquity among cultures throughout the Amazon basin and Andean highlands. Boiling and steeping together the vines of _Banisteriopsis caapi_ (Malpighiaceae) and the leaves of _Psychotria viridis_ (Rubiaceae) is most common.[^ref5] Amazonian Indigenous populations have known about this combincation of plants and its effects for at least 3,000 years.[^ref6] However, there are recipes that do not contain any _P. viridis_, and instead use other plants that contain DMT, such as <span eid="Q1939784">_Diplopterys cabrerana_</span> (Malpighiaceae).
 <param ve-image label="Commentary on the recipe for Ayahuasca brew by French missionary Constantin Tastevin, 1926. An excerpt from Brunfelsia in Ethnomedicine by Timothy Plowman, 1977. Missouri Botanical Garden, Peter H. Raven Library, public domain."
        url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/Recipe%20commentary%20-%20Constatin%20Tastevin.png?raw=true"
-       fit= "contain"> 
-<param ve-plant-specimen eid= "Q1939784" max="1">
+       fit= "contain">
+{#paragraph3}
+
+Many traditions are associated with the preparation and imbibing of the decoction, due to its ubiquity among cultures throughout the Amazon basin and Andean highlands. Boiling and steeping together the vines of <span eid="Q133573">_Banisteriopsis caapi_</span> (Malpighiaceae) and the leaves of <span eid="Q133533">_Psychotria viridis_</span> (Rubiaceae) is most common.[^ref5] Amazonian Indigenous populations have known about this combincation of plants and its effects for at least 3,000 years.[^ref6] However, there are recipes that do not contain any _P. viridis_, and instead use other plants that contain DMT, such as <span eid="Q1939784">_Diplopterys cabrerana_</span> (Malpighiaceae). 
+<param ve-plant-specimen eid="Q133573" max="1"> <!--Caapi-->
+<param ve-plant-specimen eid="Q133533" max="1"> <!--P.Viridis-->
+<param ve-plant-specimen eid= "Q1939784" max="1"> <!--D.cabrerana-->
 {#paragraph4}
 
 Consuming ayahuasca produces a roughly four-hour period of altered consciousness. During this time, practitioners experience otherworldly visuals and fluctuations in conceptions of reality and selfhood. Most Indigenous groups of the Amazon basin understand the world as a series of interlocking human and nonhuman persons, both visible and invisible.[^ref7] By entering the “ayahuasca world,” a liminal meeting place with more-than-human beings, Indigenous participants in the ritual are able to better visualize the forces at work around them.[^ref8] Such insight is used to treat physical ailments, address mental health concerns, and provide spiritual guidance. In these Amazonian communities, ayahuasca is central to religious, healing, and initiation ceremonies as a form of traditional medicine and psychiatry.[^ref9] 
