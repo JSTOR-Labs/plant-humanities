@@ -23,7 +23,6 @@ Users of ayahuasca experience vivid hallucinations and visions that some describ
 <param ve-compare sync
        url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Yage_Is_Our_Life_YouTube_posted_by_Yage_Is_Our_Life_1_no_known_restrictions.png?raw=true"
        label="Yagé Is Our Life. Yagé Is Our Life, YouTube, no known copyright restrictions.">
-<param ve-compare url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Yage_Is_Our_Life_YouTube_posted_by_Yage_Is_Our_Life_1_no_known_restrictions_2.png?raw=true">
 <param ve-compare url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Yage_Is_Our_Life_YouTube_posted_by_Yage_Is_Our_Life_1_no_known_restrictions_3.png?raw=true">
 {#paragraph3}
 
