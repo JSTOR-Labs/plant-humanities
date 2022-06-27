@@ -12,6 +12,7 @@ Since the late 1990s, the Amazonian psychoactive beverage <span eid="Q380436">ay
 <param ve-image url="https://live.staticflickr.com/7384/11949826476_3110402a35_k.jpg"
        label="Preparing Ayahuasca with Chacruna (P. viridis), Jairo Galvis Henao via Flickr, CC BY-NC-ND 2.0.">
 <param ve-map basemap="Esri_WorldPhysical" center="-15.5957, -56.0947" zoom="3" title="Map of South America, with lands of Indigenous Amazonian tribes shown.">
+<param ve-map-layer geojson active url="native_lands.json" title="TITLE.">
 {#paragraph1}
 
 ### “Vine of the Soul”
