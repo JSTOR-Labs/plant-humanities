@@ -84,7 +84,7 @@ For these reasons, ayahuasca and its associated plant species form an exemplary 
 {#paragraph9}
 
 Western researchers have conducted studies that prominently centered their voices instead of those of the communities they studied. Indigenous scholar Shawn Wilson highlights that despite the “good” intentions of some studies, many have resulted in the formation and “proliferation of negative stereotypes.”[^ref21] To actively decolonize present and future scholarship, Indigenous scholars have led the charge toward revising this trajectory through the collaborative development of Indigenous paradigms of research.[^ref22] With a focus on community engagement, reciprocally nourishing relationalities, appropriate crediting, and the acknowledgement that not all Indigenous knowledge may be accessible to researchers, further studies on TEK of ayahuasca are possible. The pursuit, documentation, and safeguarding of TEK are crucial to biodiversity conservation as a whole and therefore, it is in the interest of all to center and uplift Indigenous voices.[^ref23]
-<param ve-image region="95,-673,4149,3369" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Smith_Decolonizing_Methodologies_no_known_copyright_restrictions.png?raw=true" label="Linda Tuhiwai Smith, Decolonizing Methodologies: Research and Indigenous Peoples, New York: Zed Books, 1999.">
+<param ve-image region="95,-673,4149,3369" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Smith_Decolonizing_Methodologies_no_known_copyright_restrictions_2.png?raw=true" label="Linda Tuhiwai Smith, Decolonizing Methodologies: Research and Indigenous Peoples, New York: Zed Books, 1999.">
 {#paragraph10}
 
 ### Representing Ayahuasca with the Senses
