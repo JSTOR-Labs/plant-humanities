@@ -11,7 +11,7 @@
 Since the late 1990s, the Amazonian psychoactive beverage <span eid="Q380436">ayahuasca</span> has grown increasingly common throughout the world. Those living in Europe or the United States may be most familiar with the brew through <span eid="Q183308">New Age</span> spiritual practices, exoticizing travel writing, and the growing ecotourism industry. However, these associations can obscure the long traditions of ayahuasca’s use by a variety of Indigenous groups in what is now South America. Even within <span eid="Q2841453">Amazonia</span>, ayahuasca’s ingredients and components, ritual usage, and spiritual and medicinal effects remain highly dynamic and contested. With its evolving story, ayahuasca can serve as an eloquent “plant teacher,” as it is known in the Peruvian Amazon, highlighting both the relationality between humans and plants and the ways those relations were appropriated and transformed for a global market. 
 <param ve-image url="https://live.staticflickr.com/7384/11949826476_3110402a35_k.jpg"
        label="Preparing Ayahuasca with Chacruna (P. viridis), Jairo Galvis Henao via Flickr, CC BY-NC-ND 2.0.">
-<param ve-map center="-15.5957, -56.0947" zoom="3" title="The distribution of Arachis hypogaea around the world, with its native range shown in orange.">
+<param ve-map basemap="Esri_WorldPhysical" center="-15.5957, -56.0947" zoom="3" title="Map of South America, with lands of Indigenous Amazonian tribes shown.">
 {#paragraph1}
 
 ### “Vine of the Soul”
@@ -43,7 +43,7 @@ Consuming ayahuasca produces a roughly four-hour period of altered consciousness
 ### The Origins of Ayahuasca and Plant Knowledge 
 
 The earliest archaeological evidence of the use of _Banisteriopsis caapi_ and _Psychotria viridis_ dates back at least 1,000 years. A preserved ritual bundle containing snuff paraphernalia, dried plant remains, pouches, and textiles was found during the 2008 and 2010 excavatation of the Cueva del Chilena rock structure in the Sora Valley in Bolivia, associated with the ancient <span eid="Q61750">Tiwanaku</span> state. Chemical analysis conducted on harmine and DMT residue indicates that _Banisteriopsis caapi_ and _Psychotria viridis_ were likely present in the bundle. It is not known how these materials were taken into the body (snuff plates and spatulas were discovered in the bundle, so the plants were possibly inhaled directly) but it is possible that the two plants were combined even then to create an early ayahuasca decoction.[^ref10]
-<param ve-map center="-15.5957, -56.0947" zoom="3" prefer-geojson title="The distribution of Arachis hypogaea around the world, with its native range shown in orange.">
+<param ve-map basemap="Esri_WorldPhysical" center="-15.5957, -56.0947" zoom="5" prefer-geojson title="Map of South America, with Bolivia shown in green and Cueva del Chilena rock structure shown in photograph.">
 <param ve-map-marker url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Juan_V._Albarracin-Jordan_Jose%CC%81_M._Capriles_Cueva_del_Chileno_EurekaAlert_no_known_copyright_restrictions.jpg?raw=true"
 	coords="-22.692, -67.757"
 	size="129, 170"
