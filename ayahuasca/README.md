@@ -7,20 +7,19 @@
        layout="vertical">
 
 Since the late 1990s, the Amazonian psychoactive beverage <span eid="Q380436">ayahuasca</span> has grown increasingly common throughout the world. Those living in Europe or the United States may be most familiar with the brew through <span eid="Q183308">New Age</span> spiritual practices, exoticizing travel writing, and the growing ecotourism industry. However, these associations can obscure the long traditions of ayahuasca’s use by a variety of Indigenous groups in what is now South America. Even within <span eid="Q244451">Amazonia</span>, ayahuasca’s ingredients and components, ritual usage, and spiritual and medicinal effects remain highly dynamic and contested. With its evolving story, ayahuasca can serve as an eloquent “plant teacher,” as it is known in the Peruvian Amazon, highlighting both the relationality between humans and plants and the ways those relations were appropriated and transformed for a global market. 
-<param ve-image url="https://live.staticflickr.com/7384/11949826476_3110402a35_k.jpg"
-       label="Preparing Ayahuasca with Chacruna (P. viridis), Jairo Galvis Henao via Flickr, CC BY-NC-ND 2.0.">
+<param ve-image url="https://live.staticflickr.com/7384/11949826476_3110402a35_k.jpg" label="Preparing Ayahuasca with Chacruna (Psychotria viridis). Jairo Galvis Henao, Flickr, CC BY-NC-ND 2.0.">
 {#paragraph1}
 
 ### “Vine of the Soul”
        
 Although many associate ayahuasca with a particular species of plant, it is the name of a group of Indigenous psychoactive <span eid="Q1136912">decoctions</span> made by boiling a combination of species found in certain regions of Amazonia. Ayahuasca is from the <span eid="Q5218">Quechua</span> language: _aya_ meaning “soul, ancestors, or dead persons” and _waska_ meaning “vine or rope.” Popular translations in English include “vine of the soul” and “rope of death.”[^ref1] Among groups living in Ecuador, Colombia, Peru, and Brazil, ayahuasca is called _natema_, _hoasca_, _daime_, _yagé_, or _yajé_.
-<param ve-map basemap="Esri_WorldPhysical" center="-3.0122651992426195, -59.98159174927297" zoom="4.8" title="Map of South America, with Indigenous territories shown in green and Quechua territory shown in photo. Native Land Digital, 2015, CC0. https://native-land.ca/">
+<param ve-map basemap="Esri_WorldPhysical" center="-3.0122651992426195, -59.98159174927297" zoom="4.8" title="Map of South America, with Indigenous territories shown in green and Quechua territory in Peru shown in photo. Native Land Digital, 2015, CC0. https://native-land.ca/">
 <param ve-map-layer geojson active url="South_America_Native_Lands.json" title="Indigenous territories (green)." show-labels>
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/a/aa/The_town_of_Ocra_as_seen_from_the_air.jpg"
 	coords="-13.5105, -71.9721"
 	size="129, 170"
 	circle="true">
-<param ve-image label="Map of various Amazonian groups reported to use ayahuasca plants. Composed and drawn by botanist Richard Evans Schultes, 1957. Missouri Botanical Garden, Peter H. Raven Library via BHL, public domain."
+<param ve-image label="Map of various Amazonian groups reported to use ayahuasca plants. Composed and drawn by botanist Richard Evans Schultes, 1957, Botanical Museum leaflets, Harvard University. Missouri Botanical Garden, Peter H. Raven Library via BHL, public domain."
        url="https://www.biodiversitylibrary.org/pageimage/7810703"
        fit="contain">
 {#paragraph2}
@@ -39,8 +38,8 @@ Many traditions are associated with the preparation and imbibing of the decoctio
 {#paragraph4}
 
 Consuming ayahuasca produces a roughly four-hour period of altered consciousness. During this time, practitioners experience otherworldly visuals and fluctuations in conceptions of reality and selfhood. Most Indigenous groups of the Amazon basin understand the world as a series of interlocking human and nonhuman persons, both visible and invisible.[^ref7] By entering the “ayahuasca world,” a liminal meeting place with more-than-human beings, Indigenous participants in the ritual are able to better visualize the forces at work around them.[^ref8] Such insight is used to treat physical ailments, address mental health concerns, and provide spiritual guidance. In these Amazonian communities, ayahuasca is central to religious, healing, and initiation ceremonies as a form of traditional medicine and psychiatry.[^ref9]
-<param ve-image label="Vegetalista Don Emilio reflects on the experience of consuming ayahuasca, public domain." url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/Ayahuasca%20Trip%20-%20Don%20Emilio.png?raw=true" fit="contain">
-<param ve-image label="Peruvian shahman and artist Pabo Amaringo reflects on the experience of consuming ayahuasca, public domain." url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/Ayahuasca%20Trip%20-%20Pablo%20Amaringo.png?raw=true" fit="contain">
+<param ve-image label="Vegetalista Don Emilio reflects on the experience of consuming ayahuasca. Ashley Thuthao Keng Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson, public domain." url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/Ayahuasca%20Trip%20-%20Don%20Emilio.png?raw=true" fit="contain">
+<param ve-image label="Peruvian shahman and artist Pablo Amaringo reflects on the experience of consuming ayahuasca. Ashley Thuthao Keng Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson, public domain." url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/Ayahuasca%20Trip%20-%20Pablo%20Amaringo.png?raw=true" fit="contain">
 {#paragraph5}
 
 ### The Origins of Ayahuasca and Plant Knowledge 
