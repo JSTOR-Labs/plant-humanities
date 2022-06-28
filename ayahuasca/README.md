@@ -137,13 +137,13 @@ The rich descriptions of ayahuasca ceremonies we know today have been written in
 
 In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the celebrated Spanish explorers and botanists <span eid="Q4948434">Hipólito Ruíz (1754–1816) and José Pavón (1754–1840)</span> described a shrub from the western Amazon and named it _Psychotria viridis_.[^ref28] Even though these botanists sought to obtain knowledge from local herbalists and sorcerers, the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported and remained unknown to westerners until the twentieth century.[^ref29]
 <param ve-image
-       label="Isidro Gálvez/José Brunete (draughtsmen), Illustrations of Pyschotria subtomentosa (a) and Psychotria viridis (b) in Flora Peruviana et Chilensis vol. 2, 1798-1802. Biblioteca de la Universidad Complutense de Madrid, public domain."
+       label="Isidro Gálvez/José Brunete (draughtsmen), Illustrations of Pyschotria subtomentosa (a) and Psychotria viridis (b) in Flora Peruviana et Chilensis vol. 2, 1798–1802. Biblioteca de la Universidad Complutense de Madrid, public domain."
        url="http://dioscorides.ucm.es/proyecto_digitalizacion/imagenes/2010/5315939269/5315939269_0430.jpg"
        fit="contain"
        ref="1">
 <param ve-image
        manifest="https://iiif.juncture-digital.org/manifest/c52ad66bc9f0f8963cc56eada642d5ae59bbfa5ff92e7c3ff885a7080162bd7a"
-       label="Latin descriptions of several Psychotria species. These species were classified according to Linnaean principles. Hipolito Ruíz & José Pavón, Description of Pscyhotria viridis in Flora Peruviana et Chilensis, vol. 1, 1798-1802. Biblioteca de la Universidad Complutense de Madrid, public domain."
+       label="Latin descriptions of several psychotria species, which were classified according to Linnaean principles. Hipolito Ruíz and José Pavón, Description of Pscyhotria viridis in Flora Peruviana et Chilensis, vol. 1, 1798-1802. Biblioteca de la Universidad Complutense de Madrid, public domain."
        fit="contain"
        ref="2">
 {#paragraph16}
@@ -157,17 +157,17 @@ Almost a century later, the Portuguese missionary Manuel Rodrigues Pinto Rubens 
 While Pinto Ruben’s work is certainly ethnobotanical in character, the most celebrated figure in the discipline is <span eid="Q1349394">Richard Spruce</span> (1817–1893). Considered one of the main pioneers of ethnobotany in the modern scientific world, this Victorian Era botanist travelled for fifteen years across South America and documented extensively the <span eid="Q213782">Putumayo</span> region of the Amazon. Spruce was notably interested in the use of mind-altering plants, and dedicated one chapter dedicated to them in his 1908 posthumously edited book, _Notes of a Botanist on the Andes and the Amazon_, from 1908. Most of the chapter focuses on the plant _caapi_—the <span eid="Q120684">Tupi</span> word for ayahuasca—and includes methods of preparing the plant for the decoction, notes on its etymology, and ritual descriptions.[^ref31]
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391507"
-       label="This posthomous work was edited by Alfred R. Wallace. Coverpage Richard Spruce, Notes of a Botanist in the Andes and the Amazon, 1908. Smithsonian Libraries via BHL, public domain."
+       label="This posthumous work was edited by Alfred R. Wallace. Cover page Richard Spruce, Notes of a Botanist on the Amazon and Andes, 1908. Smithsonian Libraries via BHL, public domain."
        fit="contain"
        ref="1">
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391881"
-       label="Richard Spruce's drawings of the Tariana people in the Uapés River where he documented the use of caapi. Richard Spruce, Notes of a Botanist in the Andes and the Amazon, 1908. Smithsonian Libraries via BHL, public domain."
+       label="Richard Spruce's drawings of the Tariana people in the Uapés River where he documented the use of caapi. Richard Spruce, Notes of a Botanist on the Amazon and Andes, 1908. Smithsonian Libraries via BHL, public domain."
        fit="contain"
        ref="2">
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391360"
-       label="Botanical description and scientific name of the ayahuasca vine. Richard Spruce, Notes of a Botanist in the Andes and the Amazon, 1908. Smithsonian Libraries via BHL, public domain."
+       label="Botanical description and scientific name of the ayahuasca vine. Richard Spruce, Notes of a Botanist on the Amazon and Andes, 1908. Smithsonian Libraries via BHL, public domain."
        region="0,811,2488,2058"
        ref="3"> 
 {#paragraph18}
@@ -175,7 +175,7 @@ While Pinto Ruben’s work is certainly ethnobotanical in character, the most ce
 Spruce obtained most of his field information on _caapi_ through interviews and observations. However, when it came to researching firsthand experiences with ayahuasca consumption, Spruce had to tap into the scientific networks of the nascent Spanish American republics and the <span eid="Q217230">Brazilian Empire</span>.[^ref32] To illustrate the effect on “white men who have partaken of caapi in the proper way,” Spruce drew from the account of a Brazilian friend and, more extensively, from Manuel Villavicencio, a Quiteño <span eid="Q16242047">_criollo_</span> scientist who was governor of the <span eid="Q7102414">Oriental Provinces in Ecuador</span> in the 1850s.[^ref33]
 <param ve-image region="57,1044,1576,1355"
        url="https://ids.lib.harvard.edu/ids/iiif/445472636/full/full/0/default.jpg"
-       label="Uknown artist. En route to the deep Amazon via the Napo River. Published in Manuel Villavicencio, Geografía de la República del Ecuador,  New York, Impr. de R. Craighead, 1858. Dumbarton Oaks, public domain."
+       label="Unknown artist. En route to the deep Amazon via the Napo River. Published in Manuel Villavicencio, Geografía de la República del Ecuador,  New York, Impr. de R. Craighead, 1858. Dumbarton Oaks, public domain."
        fit="contain"
        ref="1">
 {#paragraph19}
@@ -184,7 +184,7 @@ Villavicencio wrote a lengthy book, _Geografía de la República del Ecuador_, a
 <param ve-entity eid="Q3772280"><!--Guayusa-->   
 <param ve-image
         url="https://www.biodiversitylibrary.org/pageimage/47391371"
-        label="Excerpt of Richard Spruce’s translation and summary of Villavicencio’s description of ayahuasca consumption and rituals (ca. 1854). Richard Spruce, Notes of a Botanist..., chapter. 25, vol 2. Smithsonian Libraries via BHL, public domain."
+        label="Excerpt of Richard Spruce’s translation and summary of Villavicencio’s description of ayahuasca consumption and rituals (ca. 1854). Richard Spruce, Notes of a Botanist..., chapter 25, vol 2. Smithsonian Libraries via BHL, public domain."
         ref="2">
 <param ve-image 
        url="https://ids.lib.harvard.edu/ids/iiif/445472673/full/full/0/default.jpg"
@@ -195,7 +195,7 @@ Villavicencio wrote a lengthy book, _Geografía de la República del Ecuador_, a
 Spruce’s work ultimately shaped twentieth century ethnobotanical interests. The renowned ethnobotanist <span eid="Q1124975">Richard Evans Schultes</span> (1915–2001) was inspired by _Notes of a Botanist on the Amazon and Andes_ and followed Spruce’s steps into the Amazon during the 1940s.[^ref37] Schultes lauded the naming of the ayahuasca vine (_Banisteriopsis caapi_) as Spruce’s greatest “discovery” but regretted that he did not experience the ayahuasca brew.[^ref38] In 1953, when Schultes was in Bogotá, he shared how to find ayahuasca with a fellow traveler, novelist <span eid="Q188176">William Burroughs</span>. Burroughs’ epistolary Colombian odyssey to experience the brew, <span eid="Q17053771">_The Yage Letters_</span>, was the first of many personal accounts and <span eid="Q4826265">autoethnographies</span> writte under the influence of ayahuasca that would become popular.[^ref39]   
 <param ve-image
         url="https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2020/08/Schultes_amazon_1940s-1186x1536.jpg"
-        label="Richard Evans Schultes (center) with Salvador Chindoy (left), a renowned Kamëntsá healer from Sibundoy Valley of Colombia. Archives of the Economic Botany Library of Oakes Ames, Harvard University with permission of the Schultes’ family. Disclaimer: the Schultes family authorizes the use of this material for scholarly purposes, the photographer has not been identified."
+        label="Richard Evans Schultes (center) with Salvador Chindoy (left), a renowned Kamëntsá healer from Colombia’s Sibundoy Valley. Archives of the Economic Botany Library of Oakes Ames, Harvard University with permission of the Schultes family. Disclaimer: the Schultes family authorizes the use of this material for scholarly purposes, the photographer has not been identified."
         fit="contain">
 {#paragraph21}
                                                         
@@ -209,7 +209,7 @@ Today, many in the West are most familiar with ayahuasca not through Indigenous 
 Scholars debate at length about the use of ayahuasca. On the one hand, ayahuasca tourism highlights the legacies of <span eid="Q1385203">extractive colonialism</span> as non-Indigenous peoples exploit Indigenous knowledge and belief systems and adapt them for their own benefit. In the case of ayahuasca, this often involves idealizing and stereotyping Indigenous shamans living in the modern world.[^ref41] Additionally, the new demand has led to [overharvesting](https://www.theguardian.com/sustainable-business/2017/jan/24/tourist-boom-peru-ayahuasca-drink-amazon-spirituality-healing) of ayahuasca’s botanical components, which are traditionally gathered rather than commercially cultivated. On the other hand, ayahuasca has provided Indigenous people with an economic tool to engage with the wider globe, while at the same time ensuring the persistence of practices that were threatened by Christianizing colonialism.[^ref42]
 <param ve-image
        url="https://live.staticflickr.com/7801/46289544604_b947b3f048_3k.jpg"
-       label="‘Eco Aldeia Serra Sagrada,’ an ayahuasca retreat in Minas Gerais, Brazil. upsilon via Flickr, CC BY 2.0.">
+       label="“Eco Aldeia Serra Sagrada,” an ayahuasca retreat in Minas Gerais, Brazil. upsilon, Flickr, CC BY 2.0.">
 {#paragraph23}
                  
 In truth, ayahuasca rituals have always been dynamic and multiple, differing among ethnic groups in Amazonia and evolving over time. In Peru, for example, the mestizo population developed a set of practices called <span eid="Q7918350">_Vegetalismo_</span>, which was influenced by both <span eid="Q1841">Catholicism</span> and traditional Indigenous knowledge. _Vegetalistas_ consider the plants that form the ayahuasca brew to be “teachers” capable of imparting specialized knowledge to humans. And in Brazil, in the 1920s, <span eid="Q3855400">Raimundo Irineu Serra</span> (1892-1971), a minister raised in an ethnically diverse <span eid="Q1737205">rubber boom</span> town, founded the syncretic church of <span eid="Q2032421">_Santo Daime_</span> based on Catholicism, African <span eid="Q43004">animism</span>, and Indigenous _vegetalismo_, which uses ayahuasca extensively in its rituals. _Santo Daime_ spread globally, with churches established in the United States, Canada, and Europe.
@@ -230,7 +230,7 @@ In 1986, American scientist and entrepreneur Loren Miller patented a cultivar of
 Miller’s patent was eventually overturned, but not because the courts recognized the COICA’s claims to their own culture.[^ref45] Rather, a herbarium specimen from the <span eid="Q1122595">Field Museum</span> in Chicago demonstrated that Miller’s unique plant had in fact been cultivated on U.S. soil before he submitted his patent.[^ref46] In the end, this seemingly simple botanical artifact–a pressed and dried plant with a descriptive label attached to a cardboard–defined what ayahuasca meant in the United States.                
 <param ve-image
        url="https://fm-digital-assets.fieldmuseum.org/725/857/V0219206F.jpg"
-       label="The Center for International Environmental Law (CIEL) used this herbarium specimen to demonstrate that Loren Miller's unique B. caapi cultivar in the US already existed before he patented. The specimen not only includes a dried plant with its flowers but also a photograph that shows the flowers' coloration. Specimen of cultivated Banisteriopsis caapi at the Kampong, Florida, 1974. Collected by Timothy Plowman. Field Museum of Natural History, CC BY-NC 4.0."
+       label="The Center for International Environmental Law (CIEL) used this herbarium specimen to demonstrate that Loren Miller’s claim of a unique B. caapi cultivar in the United States existed before he patented it. The specimen not only includes a dried plant with its flowers but also a photograph that shows the flowers’ coloration. Specimen of cultivated Banisteriopsis caapi at the Kampong, Florida, 1974. Collected by Timothy Plowman. Field Museum of Natural History, CC BY-NC 4.0."
        fit="contain">
 {#paragraph26}
 
