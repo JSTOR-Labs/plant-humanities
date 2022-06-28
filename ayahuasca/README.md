@@ -199,7 +199,8 @@ Spruce’s work ultimately shaped twentieth century ethnobotanical interests. Th
         fit="contain">
 {#paragraph21}
                                                         
-### Ayahuasca’s Global Travels 
+### Ayahuasca’s Global Travels
+
 Today, many in the West are most familiar with ayahuasca not through Indigenous knowledge systems and practices, but through its incorporation into New Age spiritualism. By the late twentieth century, westerners were flocking to Amazonia in search of an authentic experience with the brew. So profitable was this new fascination with the hallucinogen, that an entire [industry of ayahuasca tourism](https://daily.jstor.org/the-colonization-of-the-ayahuasca-experience/) began to flourish in the Amazon basin. As a result, ayahuasca rituals were westernized to focus on self-exploration and emotional healing under the leadership of new “gringo shamans” and exported through vast networks, particularly into the United States and Canada, but also through Europe, Africa, and Asia.[^ref40]
 <param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/Athaodam/Adventures-with-Ayahuasca/main/Networks.tsv"
@@ -212,13 +213,14 @@ Scholars debate at length about the use of ayahuasca. On the one hand, ayahuasca
        label="“Eco Aldeia Serra Sagrada,” an ayahuasca retreat in Minas Gerais, Brazil. upsilon, Flickr, CC BY 2.0.">
 {#paragraph23}
                  
-In truth, ayahuasca rituals have always been dynamic and multiple, differing among ethnic groups in Amazonia and evolving over time. In Peru, for example, the mestizo population developed a set of practices called <span eid="Q7918350">_Vegetalismo_</span>, which was influenced by both <span eid="Q1841">Catholicism</span> and traditional Indigenous knowledge. _Vegetalistas_ consider the plants that form the ayahuasca brew to be “teachers” capable of imparting specialized knowledge to humans. And in Brazil, in the 1920s, <span eid="Q3855400">Raimundo Irineu Serra</span> (1892-1971), a minister raised in an ethnically diverse <span eid="Q1737205">rubber boom</span> town, founded the syncretic church of <span eid="Q2032421">_Santo Daime_</span> based on Catholicism, African <span eid="Q43004">animism</span>, and Indigenous _vegetalismo_, which uses ayahuasca extensively in its rituals. _Santo Daime_ spread globally, with churches established in the United States, Canada, and Europe.
+In truth, ayahuasca rituals have always been dynamic and multiple, differing among ethnic groups in Amazonia and evolving over time. In Peru, for example, the mestizo population developed a set of practices called <span eid="Q7918350">_Vegetalismo_</span>, which was influenced by both <span eid="Q1841">Catholicism</span> and traditional Indigenous knowledge. _Vegetalistas_ consider the plants that form the ayahuasca brew to be “teachers” capable of imparting specialized knowledge to humans. And in Brazil, in the 1920s, <span eid="Q3855400">Raimundo Irineu Serra</span> (1892–1971), a minister raised in an ethnically diverse <span eid="Q1737205">rubber boom</span> town, founded the syncretic church of <span eid="Q2032421">_Santo Daime_</span> based on Catholicism, African <span eid="Q43004">animism</span>, and Indigenous _vegetalismo_, which uses ayahuasca extensively in its rituals. _Santo Daime_ spread globally, with churches established in the United States, Canada, and Europe.
 <param ve-image
        url="https://live.staticflickr.com/200/470377554_585483993d_k.jpg"
        label="Cross in Matutu Daime Church. Lou Gold via Flickr, CC BY-NC 2.0.">
 {#paragraph24}
 
 ### Whose Vine Is It Anyway?
+
 In 1986, American scientist and entrepreneur Loren Miller patented a cultivar of the ayahuasca plant _Banisteriopsis caapi_ that he claimed to have developed in Hawaii. He named the plant “Da Vine” and founded a company to study its potential benefits.[^ref43] Miller’s actions are best described as <span eid="Q2904214">_biopiracy_</span> and in 1994 were denounced by the <span eid="Q1129883">Coordinating Body of Indigenous Organizations of the Amazon Basin</span> (COICA). From the perspective of TEK, a specific plant could not be claimed as intellectual property because the knowledge and use of that plant is so deeply intertwined with Indigenous cultures. Miller’s patent for “Da Vine” was an extreme example of extractive research practices; claiming ownership over TEK should not be the goal of anyone wishing to respectfully research within Indigenous communities.[^ref44]
 <param ve-image
         url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/USP_DaVinePatent_1986.png?raw=true"
