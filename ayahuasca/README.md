@@ -14,7 +14,7 @@ Since the late 1990s, the Amazonian psychoactive beverage <span eid="Q380436">ay
 ### “Vine of the Soul”
        
 Although many associate ayahuasca with a particular species of plant, it is the name of a group of Indigenous psychoactive <span eid="Q1136912">decoctions</span> made by boiling a combination of species found in certain regions of Amazonia. Ayahuasca is from the <span eid="Q5218">Quechua</span> language: _aya_ meaning “soul, ancestors, or dead persons” and _waska_ meaning “vine or rope.” Popular translations in English include “vine of the soul” and “rope of death.”[^ref1] Among groups living in Ecuador, Colombia, Peru, and Brazil, ayahuasca is called _natema_, _hoasca_, _daime_, _yagé_, or _yajé_.
-<param ve-map basemap="Esri_WorldPhysical" center="-10.167, -59.457" zoom="4.5" title="Map of South America, with Indigenous territories shown in green and Quechua territory shown in photo. Native Land Digital, 2015, CC0. https://native-land.ca/">
+<param ve-map basemap="Esri_WorldPhysical" center="-3.0122651992426195, -59.98159174927297" zoom="4.8" title="Map of South America, with Indigenous territories shown in green and Quechua territory shown in photo. Native Land Digital, 2015, CC0. https://native-land.ca/">
 <param ve-map-layer geojson active url="South_America_Native_Lands.json" title="Indigenous territories (green)." show-labels>
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/a/aa/The_town_of_Ocra_as_seen_from_the_air.jpg"
 	coords="-13.5105, -71.9721"
