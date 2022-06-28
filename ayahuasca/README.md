@@ -241,50 +241,50 @@ The popularity of ayahuasca continues to transcend boundaries of space, time, an
                     
 ### References
 
-[^ref1]: Luna, 2011. Frecska, Bokor, and Winkelman 2016.
-[^ref2]: Callaway et al., 1996; Hamill et al. 2019.
-[^ref3]: Callaway et al., 1996; Hamill et al. 2019.
-[^ref4]: R.S. Gable, Risk assessment of ritual use of oral N,Ndimethyltryptamine (DMT) and harmala alkaloids Addiction; Psychedelic Medicine (Vol 2): New evidence for hallucinogenic substances as treatments. 2007; 102(1):24–34
-[^ref5]: McKenna, 2004 and Szára, 2007 in Frecska, Bokor, and Winkelman 2016, 2.
-[^ref6]: J. Mabit, _Psychedelic Medicine_ (Vol 2): New Evidence for Hallucinogenic Substances as Treatments. 2007. Ayahuasca in the treatment of addictions.
+[^ref1]: Luis Eduardo Luna, “Indigenous and mestizo use of ayahuasca: An overview,” in _The Ethnopharmacology of Ayahuasca_, ed. Rafael Guimarães dos Santos (Kerala: Transworld Research Network, 2011); Ede Frecska, Petra Bokor, and Michael Winkelman, “The Therapeutic Potentials of Ayahuasca: Possible Effects against Various Diseases of Civilization,” _Front Pharmacol_ 7 (March 2016): 35–35. [DOI: 10.3389/fphar.2016.00035](https://pubmed.ncbi.nlm.nih.gov/26973523/)
+[^ref2]: James C. Callaway, et al., “Quantitation of N,N-Dimethyltryptamine and Harmala Alkaloids in Human Plasma after Oral Dosing with Ayahuasca,” _Journal of Analytical Toxicology_ 20, no. 6 (1996): 492–97. [DOI: 10.1093/jat/20.6.492](https://pubmed.ncbi.nlm.nih.gov/8889686/); Jonathan Hamill, et al., “Ayahuasca: Psychological and Physiologic Effects, Pharmacology and Potential Uses in Addiction and Mental Illness,” _Current Neuropharmacology_ 17, no. 2 (2019): 108–28. [DOI: 10.2174/1570159X16666180125095902](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6343205/)
+[^ref3]: James C. Callaway, et al., “Quantitation of N,N-Dimethyltryptamine and Harmala Alkaloids in Human Plasma after Oral Dosing with Ayahuasca”; Jonathan Hamill, et al., “Ayahuasca: Psychological and Physiologic Effects, Pharmacology and Potential Uses in Addiction and Mental Illness”.
+[^ref4]: R.S. Gable, “Risk assessment of ritual use of oral N,Ndimethyltryptamine (DMT) and harmala alkaloids Addiction,” _Psychedelic Medicine_ (Vol 2): New evidence for hallucinogenic substances as treatments (2007): 102(1): 24–34.
+[^ref5]: Dennis J. McKenna, “Clinical investigations of the therapeutic potential of ayahuasca: rationale and regulatory challenges,” _Pharmacol Ther_ 102, no. 2 (May 2004): 111–29. [DOI: 10.1016/j.pharmthera.2004.03.002](https://pubmed.ncbi.nlm.nih.gov/15163593/); Stephen Szára, “DMT at fifty,” _Neuropsychopharmacol Hung_ 9, no. 4 (2007 December): 201–5. [PMID: 18510265](https://pubmed.ncbi.nlm.nih.gov/18510265/)
+[^ref6]: J. Mabit, “Ayahuasca in the Treatment of Addictions,”_Psychedelic Medicine_ (Vol 2): New Evidence for Hallucinogenic Substances as Treatments (2007).
 [^ref7]: Eduardo Viveiros de Castro, “Cosmological Deixis and Amerindian Perspectivism,” _The Journal of the Royal Anthropological Institute_ 4, no. 3 (1998): 469–88.
-[^ref8]:Luis Eduardo Luna, “Indigenous and mestizo use of ayahuasca: An overview,” in _The Ethnopharmacology of Ayahuasca_, ed. Rafael Guimarães dos Santos (Kerala: Transworld Research Network, 2011), 8.
-[^ref9]: Frecska, Bokor, and Winkelman 2016.
+[^ref8]: Luis Eduardo Luna, “Indigenous and mestizo use of ayahuasca: An overview,” in _The Ethnopharmacology of Ayahuasca_, ed. Rafael Guimarães dos Santos (Kerala, India: Transworld Research Network, 2011), 8.
+[^ref9]: Frecska, Bokor, and Winkelman.
 [^ref10]: Melanie J. Miller et al., “Chemical Evidence for the Use of Multiple Psychotropic Plants in a 1,000-Year-Old Ritual Bundle from South America,” _Proceedings of the National Academy of Sciences_ 116, no. 23 (June 4, 2019): 11210.
 [^ref11]: Wade Davis, _One River: Explorations and Discoveries in the Amazon Rain Forest_ (New York: Simon & Schuster, 1997), 217, quoted in Merlin Sheldrake, “The ‘Enigma’ of Richard Schultes, Amazonian Hallucinogenic Plants, and the Limits of Ethnobotany,” _Social Studies of Science_ 50, no. 3 (June 1, 2020): 351. 
-[^ref12]: Jonathan Ott, _Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History_, 2nd ed. (Kennewick, WA: Natural Products Company, 1996), 222, quoted in Frédérick Bois-Mariage, “Ayahuasca: une synthèse interdisciplinaire,” _Psychotropes_ 8, no. 1 (2002): 83. 
-[^ref13]: M. Sangeetha and J. Banurekha, “Psychotria - An Overview,” _Research Journal of Pharmacy and Technology_ (November 2020): 2-3.
-[^ref14]: Laura Dev, “Plant Knowledges: Indigenous Approaches and Interspecies Listening Toward Decolonizing Ayahuasca Research,” in _Plant Medicines, Healing and Psychedelic Science: Cultural Perspectives_, eds. Beatriz Caiuby Labate and Clancy Cavnar (Cham: Springer International Publishing, 2018), 186.
-[^ref15]: Laura Dev, “Plant Knowledges”, 196. 
+[^ref12]: Jonathan Ott, _Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History_, 2nd ed. (Kennewick, Washington: Natural Products Company, 1996), 222, quoted in Frédérick Bois-Mariage, “Ayahuasca: une synthèse interdisciplinaire,” _Psychotropes_ 8, no. 1 (2002): 83. 
+[^ref13]: M. Sangeetha and J. Banurekha, “Psychotria - An Overview,” _Research Journal of Pharmacy and Technology_ (November 2020): 2–3.
+[^ref14]: Laura Dev, “Plant Knowledges: Indigenous Approaches and Interspecies Listening Toward Decolonizing Ayahuasca Research,” in _Plant Medicines, Healing and Psychedelic Science: Cultural Perspectives_, eds. Beatriz Caiuby Labate and Clancy Cavnar (Cham, Switzerland: Springer International Publishing, 2018), 186.
+[^ref15]: Laura Dev, 196. 
 [^ref16]: Richard Evans Schultes, “Recognition of Variability in Wild Plants by Indians in the Northwest Amazon: An Enigma,” _Journal of Ethnobiology_ 6, no. 2 (Winter 1986): 235. [https://www.biodiversitylibrary.org/item/101833#page/247/mode/1up](https://www.biodiversitylibrary.org/item/101833#page/247/mode/1up)
-[^ref17]: Ibid, 236.
-[^ref18]: W. LaDuke, “Traditional Ecological Knowledge and Environmental Futures,” _Journal of International Environment and Policy 5, 1994, 127-135.
-[^ref19]: Berkes F. _Sacred ecology: traditional ecological knowledge and resource management_ (Philadelphia, PA: Taylor and Francis, 1999); Melissa Armstrong, Robin Kimmerer, and Judith Vergun, “Education and Research Opportunities for Traditional Ecological Knowledge,” _Frontiers in Ecology and The Environment_ 5, no. 4 (May 2007): 1-3. [https://doi.org/10.1890/1540-9295(2007)5[w12:EAROFT]2.0.CO;2](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/1540-9295%282007%295%5Bw12%3AEAROFT%5D2.0.CO%3B2)
-[^ref20]: Linda Tuhiwai Smith, _Decolonizing methodologies: research and indigenous peoples_ (Zed Books; University of Otago Press; Distributed in the USA exclusively by St. Martin's Press London; New York: Dunedin, N.Z.: New York, 1999).
-[^ref21]: Wilson 2008, 17; Wilson, Shawn, _Research Is Ceremony: Indigenous Research Methods_ (Black Point, N.S.: Fernwood Pub., 2008). 
-[^ref22]: Wilson 2008, 17; Wilson, Shawn, _Research Is Ceremony: Indigenous Research Methods_ (Black Point, N.S.: Fernwood Pub., 2008); Linda Tuhiwai Smith, _Decolonizing methodologies: research and indigenous peoples_ (Zed Books; University of Otago Press; Distributed in the USA exclusively by St. Martin's Press London; New York: Dunedin, N.Z.: New York, 1999).
-[^ref23]: Kamrul Hossain & Rosa Maria Ballardini (2021) _Protecting Indigenous Traditional Knowledge Through a Holistic Principle-Based Approach, Nordic Journal of Human Rights_, 39:1, 51-72, DOI: [10.1080/18918131.2021.1947449](https://www.tandfonline.com/doi/full/10.1080/18918131.2021.1947449)
-[^ref24]: Quoted in Robert Sirko, “The Artist and the Shaman: Seen and Unseen Worlds,” in _Inner Visions: Sacred Plants, Art and Spirituality_ (Valparaiso, IN: Brauer Museum of Art, 2015): 51.
-[^ref25]: Ibid, 69. Peter Roe, and Manuel Rengifo Barbaran. “Shipibo Ainbo Chomo - Infinity of Nations: Art and History in the Collections of the National Museum of the American Indian.” Accessed July 28, 2021. [https://americanindian.si.edu/exhibitions/infinityofnations/amazon/239608.html](https://americanindian.si.edu/exhibitions/infinityofnations/amazon/239608.html)
+[^ref17]: Richard Evans Schultes, 236.
+[^ref18]: W. LaDuke, “Traditional Ecological Knowledge and Environmental Futures,” _Journal of International Environment and Policy_ 5, 1994, 127–135.
+[^ref19]: F. Berkes, _Sacred Ecology: Traditional Ecological Knowledge and Resource mMnagement_ (Philadelphia, Pennsylvania: Taylor and Francis, 1999); Melissa Armstrong, Robin Kimmerer, and Judith Vergun, “Education and Research Opportunities for Traditional Ecological Knowledge,” _Frontiers in Ecology and The Environment_ 5, no. 4 (May 2007): 1–3. [https://doi.org/10.1890/1540-9295(2007)5[w12:EAROFT]2.0.CO;2](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/1540-9295%282007%295%5Bw12%3AEAROFT%5D2.0.CO%3B2)
+[^ref20]: Linda Tuhiwai Smith, _Decolonizing Methodologies: Research and Indigenous Peoples_ (London and New York: Zed Books; Dunedin, New Zealand: University of Otago Press; distributed in the USA exclusively by Palgrave, St. Martin’s Press: 1999).
+[^ref21]: Shawn Wilson, _Research Is Ceremony: Indigenous Research Methods_ (Black Point, Nova Scotia: Fernwood Publishing, 2008). 
+[^ref22]: Shawn Wilson; Linda Tuhiwai Smith.
+[^ref23]: Kamrul Hossain and Rosa Maria Ballardini, “Protecting Indigenous Traditional Knowledge Through a Holistic Principle-Based Approach,” _Nordic Journal of Human Rights_, 39:1, 51–72. DOI: [10.1080/18918131.2021.1947449](https://www.tandfonline.com/doi/full/10.1080/18918131.2021.1947449)
+[^ref24]: Robert Sirko, “The Artist and the Shaman: Seen and Unseen Worlds,” in _Inner Visions: Sacred Plants, Art and Spirituality_ (Valparaiso, Indiana: Brauer Museum of Art, 2015): 51.
+[^ref25]: Robert Sirko, 69; Peter Roe, and Manuel Rengifo Barbaran, “Shipibo Ainbo Chomo - Infinity of Nations: Art and History in the Collections of the National Museum of the American Indian.” Accessed July 28, 2021 [https://americanindian.si.edu/exhibitions/infinityofnations/amazon/239608.html](https://americanindian.si.edu/exhibitions/infinityofnations/amazon/239608.html)
 [^ref26]: Rich Doyle, “Hyperbolic: Divining Ayahuasca,” _Discourse_ 27, no. 1 (2005): 7.
-[^ref27]: Emilio García Cuervo, “De Herejes a Chamanes. Una Historia Fragmentada Sobre El Imaginario Occidental de La Medicina Indígena” (Tesis de Pregrado, Bogotá, Pontificia Universidad Javeriana, 2019), 26-30.
-[^ref28]: Hipólito Ruiz and José Pavón, Flora Peruviana, et Chilensis, Sive, _Descriptiones et Icones Plantarum Peruvianarum, et Chilensium, Secundum Systema Linnaeanum Digestae, Cum Characteribus Plurium Generum Evulgatorum Reformatis_, vol. 2 (Madrid: Typis Gabrielis de Sancha, 1799), 61.                           
-[^ref29]: Biblioteca Nacional de España, “La Expedición Botánica de Ruiz y Pavón al Virreinato del Perú, 1777-1788,” España en el mundo (Biblioteca Nacional de España, April 10, 2011) http://www.bne.es/es/Micrositios/Guias/12Octubre/CienciaExploracion/RuizPavon/.
+[^ref27]: Emilio García Cuervo, “De Herejes a Chamanes. Una Historia Fragmentada Sobre El Imaginario Occidental de La Medicina Indígena” (Tesis de Pregrado, Bogotá: Pontificia Universidad Javeriana, 2019), 26–30.
+[^ref28]: Hipólito Ruiz and José Pavón, _Flora Peruviana, et Chilensis, Sive, Descriptiones et Icones Plantarum Peruvianarum, et Chilensium, Secundum Systema Linnaeanum Digestae, Cum Characteribus Plurium Generum Evulgatorum Reformatis_, vol. 2 (Madrid: Typis Gabrielis de Sancha, 1799), 61.                           
+[^ref29]: Biblioteca Nacional de España, “La Expedición Botánica de Ruiz y Pavón al Virreinato del Perú, 1777-1788,” España en el mundo (Biblioteca Nacional de España, April 10, 2011). [http://www.bne.es/es/Micrositios/Guias/12Octubre/CienciaExploracion/RuizPavon/](http://www.bne.es/es/Micrositios/Guias/12Octubre/CienciaExploracion/RuizPavon/)
 [^ref30]: Manuel Rodrigues Pinto Rubens, _Costumbres de los indígenas que habitan en el Valle del Amazonas en el departamento de Loreto_, Dumbarton Oaks Digitization Project. Pre-Columbian Studies. Rare books (1873), 6v.
 [^ref31]: Merlin Sheldrake, “The ‘Enigma’ of Richard Schultes, Amazonian Hallucinogenic Plants, and the Limits of Ethnobotany,” _Social Studies of Science_ 50, no. 3 (June 1, 2020): 346.
-[^ref32]: Elisa Sevilla and Ana Sevilla, “Inserción y participación en las redes globales de producción de conocimiento: el caso del Ecuador del siglo XIX,” _Historia Crítica_, April 19, 2017: 83-84. 
-[^ref33]: Richard Spruce, _Notes of a Botanist on the Amazon & Andes_, ed. Alfred Russel Wallace, vol. 2 (London: Macmillan and Co., limited, 1908), 420.
-[^ref34]: Manuel Villavicencio, _Geografía de la República del Ecuador_, Dumbarton Oaks Digitization Project. Pre-Columbian Studies. Rare books (New York: Imprenta de Robert Craighead, 1858), 363-364.
-[^ref35]: “[He] could tell no more that it was a liana or a vine” in Spruce, _Notes of a Botanist on the Amazon & Andes_, vol. 2, 424. 
-[^ref36]: Villavicencio, 372-373.
-[^ref37]: Diane M. Rielinger, “A Forest of Knowledge: Richard Evans Schultes and the Rise of Ethnobotany,” Biodiversity Heritage Library (blog), August 11, 2020; Sheldrake, “The ‘Engima’ of Richard Schultes”, 357.
-[^ref38]: Sheldrake, 360. Spruce translated Villavicencio’s personal account of ayahuasca consumption.
-[^ref39]: Sheldrake, 349.
+[^ref32]: Elisa Sevilla and Ana Sevilla, “Inserción y participación en las redes globales de producción de conocimiento: el caso del Ecuador del siglo XIX,” _Historia Crítica_, April 19, 2017: 83–84. 
+[^ref33]: Richard Spruce, _Notes of a Botanist on the Amazon and Andes_, ed. Alfred Russel Wallace, vol. 2 (London: Macmillan and Co., Ltd., 1908), 420.
+[^ref34]: Manuel Villavicencio, _Geografía de la República del Ecuador_, Dumbarton Oaks Digitization Project. Pre-Columbian Studies. Rare books (New York: Imprenta de Robert Craighead, 1858), 363–364.
+[^ref35]: “[He] could tell no more that it was a liana or a vine,” in Richard Spruce, 424. 
+[^ref36]: Manuel Villavicencio, 372–373.
+[^ref37]: Diane M. Rielinger, “A Forest of Knowledge: Richard Evans Schultes and the Rise of Ethnobotany,” Biodiversity Heritage Library (blog), August 11, 2020; Merlin Sheldrake, 357.
+[^ref38]: Merlin Sheldrake, 360. Spruce translated Villavicencio’s personal account of ayahuasca consumption.
+[^ref39]: Merlin Sheldrake, 349.
 [^ref40]: Beatriz Caiuby Labate, Clancy Cavnar, and Françoise Barbira Freedman, “Notes on the Expansion and Reinvention of Ayahuasca Shamanism,” in _Ayahuasca Shamanism in the Amazon and Beyond_ (New York: Oxford University Press, 2014); Beatriz Caiuby Labate, ed. _The World Ayahuasca Diaspora: Reinventions and Controversies_ (London; New York: Routledge, Taylor & Francis Group, 2017).
 [^ref41]: Evgenia Fotiou, “The Globalization of Ayahuasca Shamanism and the Erasure of Indigenous Shamanism,” _Anthropology of Consciousness_ 27, no. 2 (September 1, 2016): 151–79.
-[^ref42]: Labate et. al., “Notes on the Expansion and Reinvention of Ayahuasca Shamanism.” Esther Jean Langdon, “The Revitalization of Yajé Shamanism among the Siona: Strategies of Survival in Historical Context,” _Anthropology of Consciousness_ 27, no. 2 (September 1, 2016): 180–203.
-[^ref43]: Leanne M Fecteau, “The Ayahuasca Patent Revocation: Raising Questions About Current U.S. Patent Policy,” _Boston College Third World Law Journal_ 21, no. 1 (January 2001): 84-85.
+[^ref42]: Beatriz Caiuby Labate, “Notes on the Expansion and Reinvention of Ayahuasca Shamanism.” Esther Jean Langdon, “The Revitalization of Yajé Shamanism among the Siona: Strategies of Survival in Historical Context,” _Anthropology of Consciousness_ 27, no. 2 (September 1, 2016): 180–203.
+[^ref43]: Leanne M. Fecteau, “The Ayahuasca Patent Revocation: Raising Questions About Current U.S. Patent Policy,” _Boston College Third World Law Journal_ 21, no. 1 (January 2001): 84–85.
 [^ref44]: Wend Wendland, “Protecting indigenous knowledge: a personal perspective on international negotiations at WIPO,” _WIPO Magazine_, December 2019. [https://www.wipo.int/wipo_magazine/en/2019/06/article_0004.html](https://www.wipo.int/wipo_magazine/en/2019/06/article_0004.html)
 [^ref45]: Antonio Jacanamijoy, “El acuerdo TRIPS y los Pueblos Indígenas” Octava Sesión de la Comisión Sobre el Desarrollo Sostenible Panel: Comercio y Pueblos Indígenas, New York, April 2000.
-[^ref46]: Field Museum of Natural History, “Field Museum Specimen Overturns U.S. Patent,” _In the Field: The Bulletin of the Field Museum of Natural History_, April 2000, 13.
+[^ref46]: Field Museum of Natural History, “Field Museum Specimen Overturns U.S. Patent,” _In the Field: The Bulletin of the Field Museum of Natural History_ (April 2000), 13.
 [^ref47]: Frecska, Bokor, and Winkelman 2016.                                                    
