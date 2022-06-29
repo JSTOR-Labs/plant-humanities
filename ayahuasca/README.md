@@ -60,8 +60,8 @@ The earliest archaeological evidence of the use of _Banisteriopsis caapi_ and _P
        url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Bundles_of_ayahuasca_48-17-30:7158_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College.jpg?raw=true"
        fit="contain">
 <param ve-image 
-       label="Decorated ritual ceramic vase for the hallucinogen yagé (ayahuasca), Mirití-Paraná River, Columbia. Ceramic polychrome vessel, black interior, two perforated handles, 12 x 10 15/16 x 9 5/8 in., Peabody Museum of Archaeology and Ethnology (Harvard University), loan from Richard Schultes, 1954. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 54-21-30/7536."
-       url="Ayahuasca vessel 4.jpg"
+       label="Decorated ritual ceramic vase for the hallucinogen yagé (ayahuasca), before 1953, Mirití-Paraná River, Columbia, ceramic, fiber, 30.5 x 27.8 x 24.4 cm (overall), Peabody Museum of Archaeology and Ethnology (Harvard University), loan from Richard Schultes, 1954. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 54-21-30/7536."
+       url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Decorated_ritual_ceramic_vase_54-21-30:7536_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College.jpg?raw=true"
        fit="contain">
 <param ve-image 
        label="Pottery cup with raised base, for drinking ayahuasca, Aguarico,  Rio Napo, Ecuador, ceramic, 10 x 19 cm (overall), Peabody Museum of Archaeology and Ethnology (Harvard University), Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 35-25-30/1108." 
