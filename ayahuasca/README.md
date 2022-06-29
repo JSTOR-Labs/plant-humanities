@@ -3,7 +3,7 @@
 <param ve-config 
        title="Ayahuasca: Amazonian Plant Lessons"
        author="Ashley Thuthao Keng Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson"
-       banner="https://ids.lib.harvard.edu/ids/iiif/485686573/pct:20,10,50,80/full/90/default.jpg" 
+       banner="https://live.staticflickr.com/8507/27951788334_154753d604_4k.jpg" 
        layout="vertical">
 
 Since the late 1990s, the Amazonian psychoactive beverage <span eid="Q380436">ayahuasca</span> has grown increasingly common throughout the world. Those living in Europe or the United States may be most familiar with the brew through <span eid="Q183308">New Age</span> spiritual practices, exoticizing travel writing, and the growing ecotourism industry. However, these associations can obscure the long traditions of ayahuasca’s use by a variety of Indigenous groups in what is now South America. Even within <span eid="Q244451">Amazonia</span>, ayahuasca’s ingredients and components, ritual usage, and spiritual and medicinal effects remain highly dynamic and contested. With its evolving story, ayahuasca can serve as an eloquent “plant teacher,” as it is known in the Peruvian Amazon, highlighting both the relationality between humans and plants and the ways those relations were appropriated and transformed for a global market. 
@@ -147,7 +147,7 @@ In contrast, descriptions of individual plant species were devoid of demonic or 
        ref="2">
 {#paragraph16}
        
-In the 1870s, the Portuguese missionary Manuel Rodrigues Pinto Rubens echoed the Jesuit views on ayahuasca when he wrote about the _Ticuna_ in the northern Amazon. He recognized the importance of medical specialists of this community (called _pagés_) but also called them “impostors” who frightened the overly “superstitious indians”  of the region.[^ref30] Pinto Rubens’ work stands out from previous missionary accounts because it has great <span eid="Q132151">ethnographic</span> detail about Indigenous rituals combined with botanical references to the plants used by the <span eid="Q5363631">Ticuna</span>. It also features several watercolors, including one of a _pagé_ who apparently is using ayahuasca to understand a patient’s ailment and find its cure.
+In the 1870s, the Portuguese missionary Manuel Rodrigues Pinto Rubens echoed the Jesuit views on ayahuasca when he wrote about the <span eid="Q5363631">_Ticuna_</span> in the northern Amazon. He recognized the importance of medical specialists of this community (called _pagés_) but also called them “impostors” who frightened the overly “superstitious indians”  of the region.[^ref30] Pinto Rubens’ work stands out from previous missionary accounts because it has great <span eid="Q132151">ethnographic</span> detail about Indigenous rituals combined with botanical references to the plants used by the Ticuna. It also features several watercolors, including one of a _pagé_ who apparently is using ayahuasca to understand a patient’s ailment and find its cure.
 <param ve-image
        url="https://ids.lib.harvard.edu/ids/iiif/485686573/full/full/90/default.jpg"
        label="The text reads: Yndios Ticunas, El Pagé ejerciendo las funciones de medico; Le Pagé (maitre de [vieil] age) qui [...] la fonction a medecins, il a bu du Ayahuasca et se laisse inspirer pour connaitre[sic] la maladie et les remettres. Manuel Rodrigues Pinto Rubens, watercolor, Ticuna pagé, Costumbres de los indigenas que habitan en el Valle del Amazonas en el departamento de Loreto, 1873. Dumbarton Oaks, public domain.">
