@@ -3,7 +3,7 @@
        title="Tamarind: From Shady Refuge to Versatile Foodstuff"
        eid="" 
        about="Q80235"
-       author="Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert"
+       author="Allison Fulton, Amara Santiesteban Serrano, and Jeannette Schollaert"
        banner="https://upload.wikimedia.org/wikipedia/commons/6/6d/Tamarindus_indica03.JPG"
        layout="vertical">
 <!--banner image: https://commons.wikimedia.org/wiki/File:Tamarindus_indica03.JPG  -->
