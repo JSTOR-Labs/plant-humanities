@@ -110,11 +110,11 @@ Numerous rituals and visual representations have arisen from the sensorial exper
   
 For the <span ve-entity eid="Q36411">Shipibo people</span> of modern-day Peru, ayahuasca rituals also revolve around visualizing the unseen. According to Shipibo history, in ancient times, everything in the world–water, plants, earth, humans, etc.–was once covered with intricate patterns that expressed the fundamental nature of creation. As time passed, this patterning was lost. Through the transcendent hallucinations of ayahuasca, though, Shipibo artists once again gain access to sacred patterns. The Shipibo people are unique in that most of these artists and practitioners are female. By reproducing such patterns in pottery and textiles, these women practiced therapy and healing born out of the knowledge of the interconnectedness of the universe.[^ref25]
 <param ve-image url="https://upmaa-pennmuseum.netdna-ssl.com/collections/assets/1600/72338.jpg" label="Shipibo Jar [with geometric motifs], Shipebo Conebo maker, Amazonia, Peru, ceramic, H. 9 cm, Penn Museum.">
-<param ve-image url="https://live.staticflickr.com/4386/36706638286_f4bfd80169_3k.jpg" label="Traditional Shipibo Embroidery, CIFOR via Flickr, CC BY-NC-ND 2.0.">
+<param ve-image url="https://live.staticflickr.com/4386/36706638286_f4bfd80169_3k.jpg" label="Traditional Shipibo Embroidery, photo by Juan Carlos Huayllapuma/CIFOR. CIFOR via Flickr, CC BY-NC-ND 2.0.">
 {#paragraph12}
 
 More than just visual, the ayahuasca ceremony is a multisensory journey, with music being a vital component in several ayahuasca traditions. In Peru, ayahuasca healing ceremonies include whistled chants, <span ve-entity eid="Q5985066">_icaros_</span>, carried out by _ayahuasqueros_ or _vegetalistas_. The chants are meant to invoke spiritual forces so that they may open doorways and help to complete tasks, as well as to invoke guardian spirits of the vine. The chants likely also help to orient those who have imbibed the decoction, providing grounding while the participants are otherwise disoriented by its effects.[^ref26]
-<param ve-video id="d06W6to3Wc0" title="Maestro Gilberto Picota Lopez Sings a Shipibo Icaro">
+<param ve-video id="d06W6to3Wc0" title="Maestro Gilberto Picota Lopez Sings a Shipibo Icaro. Spirit of the Jaguar, YouTube.">
 {#paragraph13}
                                                         
 ### Ethnobotanical Encounters
@@ -125,15 +125,13 @@ The rich descriptions of ayahuasca ceremonies we know today have been written in
                                                                                                       
 <span eid="Q36380">Jesuits</span> overseeing <span ve-entity title="Mainas missions" eid="Q7125152">missions in the Amazon</span> in the eighteenth century were among the first Europeans to explicitly mention ayahuasca (or _marari_) as a brew for ritual and medicinal purposes. Missionaries like <span eid="Q7121682">Pablo Maroni</span> (1695–1757) found it difficult to prove whether spiritual leaders had a pact with the devil but still were concerned about the divinatory purposes of “a white devil’s trumpet (floripondio)” and “a vine called vulgarly ayahuasca.” In their view, spiritual leaders (usually referred to as sorcerers–mohanes y hechiceros) were only tricking and deceiving people in their community.[^ref27]
 <param ve-image 
-       url="https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:13:7:wdl_01137:cart168292/full/pct:50/0/default.jpg"
+       manifest="https://www.loc.gov/item/2021668377/manifest.json"
        label="Samuel Fritz, The Marañon or Amazon River with the Mission of the Society of Jesus, 1707. Biblioteca Nacional Digital (Brasil) in partnership with WDL- ARC.030,02,01, public domain."
        ref="1">
-<!--manifest url https://www.wdl.org/en/item/1137/manifest -->
 <param ve-image
-       url="https://bibliotecadigital.aecid.es/bibliodig/i18n/catalogo_imagenes/imagen_id.do?idImagen=12001473&formato=jpg"
+       manifest="https://iiif.juncture-digital.org/manifest/2b463c8d4b8957916687e1d8553b2b216d951456c3611a01ceb41ba8d5a92a12"
        label="Pablo Maroni’s discussion of different Amazonian groups’ rituals and their alleged association with the devil. Maroni mentions the use of a white datura and a vine called ayahuasca to ‘deprive of the senses’. Pablo Maroni, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito, 1738 [first published in 1889]. Biblioteca Digital AECID (Madrid), CC BY-NC-SA 3.0."
        ref="2"> 
-<!-- manifest url https://iiif.juncture-digital.org/manifest/2b463c8d4b8957916687e1d8553b2b216d951456c3611a01ceb41ba8d5a92a12 -->
 {#paragraph15}
 
 In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the celebrated Spanish explorers and botanists <span eid="Q4948434">Hipólito Ruíz (1754–1816) and José Pavón (1754–1840)</span> described a shrub from the western Amazon and named it _Psychotria viridis_.[^ref28] Even though these botanists sought to obtain knowledge from local herbalists and sorcerers, the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported and remained unknown to westerners until the twentieth century.[^ref29]
@@ -181,8 +179,7 @@ Spruce obtained most of his field information on _caapi_ through interviews and 
        ref="1">
 {#paragraph19}
        
-Villavicencio wrote a lengthy book, _Geografía de la República del Ecuador_ (Geography of the Republic of Ecuador), around the same time Spruce was traveling across the Amazon. Not surprisingly, he dedicated a sizable portion of his book to the Oriental Provinces and discussed strategies for incorporating the apparently isolated and wild tribes who lived there.[^ref34] Villavicencio’s book also included ethnographic descriptions, including the use of ayahuasca in Amazonian communities and his own experience from drinking the brew. Even though Spruce recognized the ethnographic efforts of Villavicencio, he found his botanical descriptions useless.[^ref35] Villavicencio did include other important ethnobotanical details and also described the diplomatic and warfare uses of the ayahuasca brew in the <span eid="Q2723612">Záparo</span> and <span eid="Q1296766">Jívaro</span> communities.[^ref36] These political uses are now rarely mentioned in ayahuasca literature, thus leaving the magical and spiritual connotations of the brew as the most relevant ones.        
-<param ve-entity eid="Q3772280"><!--Guayusa-->   
+Villavicencio wrote a lengthy book, _Geografía de la República del Ecuador_ (Geography of the Republic of Ecuador), around the same time Spruce was traveling across the Amazon. Not surprisingly, he dedicated a sizable portion of his book to the Oriental Provinces and discussed strategies for incorporating the apparently isolated and wild tribes who lived there.[^ref34] Villavicencio’s book also included ethnographic descriptions, including the use of ayahuasca in Amazonian communities and his own experience from drinking the brew. Even though Spruce recognized the ethnographic efforts of Villavicencio, he found his botanical descriptions useless.[^ref35] Villavicencio did include other important ethnobotanical details and also described the diplomatic and warfare uses of the ayahuasca brew in the <span eid="Q2723612">Záparo</span> and <span eid="Q1296766">Jívaro</span> communities.[^ref36] These political uses are now rarely mentioned in ayahuasca literature, thus leaving the magical and spiritual connotations of the brew as the most relevant ones.
 <param ve-image
         url="https://www.biodiversitylibrary.org/pageimage/47391371"
         label="Excerpt of Richard Spruce’s translation and summary of Villavicencio’s description of ayahuasca consumption and rituals (ca. 1854). Richard Spruce, Notes of a Botanist..., chapter 25, vol 2. Smithsonian Libraries via BHL, public domain."
