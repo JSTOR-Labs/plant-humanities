@@ -132,13 +132,13 @@ The rich descriptions of ayahuasca ceremonies we know today have been written in
        ref="1">
 <param ve-image
        manifest="https://iiif.juncture-digital.org/manifest/2b463c8d4b8957916687e1d8553b2b216d951456c3611a01ceb41ba8d5a92a12"
-       label="Pablo Maroni’s discussion of different Amazonian groups’ rituals and their alleged association with the devil. Maroni mentions the use of a white datura and a vine called ayahuasca to “deprive of the senses.” Pablo Maroni, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito, 1738 [first published 1889]. Biblioteca Digital AECID (Madrid), CC BY-NC-SA 3.0."
+       label="Pablo Maroni’s discussion of different Amazonian groups’ rituals and their alleged association with the devil. Pablo Maroni, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito, 1738 [first published 1889]. Biblioteca Digital AECID (Madrid), CC BY-NC-SA 3.0."
        ref="2"> 
 {#paragraph16}
 
 In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the celebrated Spanish explorers and botanists <span eid="Q4948434">Hipólito Ruíz (1754–1816) and José Pavón (1754–1840)</span> described a shrub from the western Amazon and named it _Psychotria viridis_.[^ref28] Even though these botanists sought to obtain knowledge from local herbalists and sorcerers, the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported and remained unknown to westerners until the twentieth century.[^ref29]
 <param ve-image
-       label="Isidro Gálvez/José Brunete (draughtsmen), Illustrations of Pyschotria subtomentosa (a) and Psychotria viridis (b) in Flora Peruviana et Chilensis vol. 2, 1798–1802. Biblioteca de la Universidad Complutense de Madrid, public domain."
+       label="Isidro Gálvez and José Brunete, draughtsmen, Illustrations of (a) Pyschotria subtomentosa and (b) Psychotria viridis, Flora Peruviana et Chilensis vol. 2, 1798–1802. Biblioteca de la Universidad Complutense de Madrid, public domain."
        url="http://dioscorides.ucm.es/proyecto_digitalizacion/imagenes/2010/5315939269/5315939269_0430.jpg"
        fit="contain"
        ref="1">
@@ -158,7 +158,7 @@ In the 1870s, the Portuguese missionary Manuel Rodrigues Pinto Rubens echoed the
 While Pinto Rubens’ work is certainly ethnobotanical in character, the most celebrated figure in the discipline is <span eid="Q1349394">Richard Spruce</span> (1817–1893). Considered one of the main pioneers of ethnobotany in the modern scientific world, this Victorian Era botanist traveled across South America for 15 years, extensively documenting the <span eid="Q213782">Putumayo</span> region of the Amazon. Spruce was notably interested in the use of mind-altering plants, and dedicated one chapter dedicated to them in his 1908 posthumously edited book, _Notes of a Botanist on the Amazon and Andes_. Most of the chapter focuses on the plant _caapi_—the <span eid="Q120684">Tupi</span> word for ayahuasca—and includes methods of preparing the plant for the decoction, notes on its etymology, and ritual descriptions.[^ref31]
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391507"
-       label="This posthumous work was edited by Alfred R. Wallace. Cover page Richard Spruce, Notes of a Botanist on the Amazon and Andes, 1908. Smithsonian Libraries via BHL, public domain."
+       label="Cover page Richard Spruce, Notes of a Botanist on the Amazon and Andes, 1908. Smithsonian Libraries via BHL, public domain."
        fit="contain"
        ref="1">
 <param ve-image
