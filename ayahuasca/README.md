@@ -64,17 +64,17 @@ The earliest archaeological evidence of the use of _Banisteriopsis caapi_ and _P
        url="Ayahuasca vessel 4.jpg"
        fit="contain">
 <param ve-image 
-       label="Ceramic Bowl, Aguarico culture, likely used for the consumption of ayahuasca decoctions, mended, reconstructed, red exterior, black interior, 9.9 cm x 17.4 cm. Peabody Museum of Archaeology and Ethnology (Harvard University), Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 35-25-30/1108." 
-       url="Ayahuasca vessel 1.jpg"
+       label="Pottery cup with raised base, for drinking ayahuasca, Aguarico,  Rio Napo, Ecuador, ceramic, 10 x 19 cm (overall), Peabody Museum of Archaeology and Ethnology (Harvard University), Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 35-25-30/1108." 
+       url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Pottery_cup_with%20raised_base_35-25-30:1108_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College_1.jpg?raw=true"
        fit="contain"
        stable-url="https://www.jstor.org/stable/community.15365224"> 
 <param ve-image 
-       label="Ceramic Bowl, Aguarico culture, likely used for the consumption of ayahuasca decoctions, mended, reconstructed, red exterior, black interior, 9.9 cm x 17.4 cm. Peabody Museum of Archaeology and Ethnology (Harvard University), Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 35-25-30/1108" 
-       url="Ayahuasca vessel 2.jpg" 
+       label="Pottery cup with raised base, for drinking ayahuasca, Aguarico,  Rio Napo, Ecuador, ceramic, 10 x 19 cm (overall), Peabody Museum of Archaeology and Ethnology (Harvard University), Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 35-25-30/1108." 
+       url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Pottery_cup_with%20raised_base_35-25-30:1108_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College_2.jpg?raw=true" 
        fit="contain">
 <param ve-image 
-       label="Ceramic Bowl, Aguarico culture, likely used for the consumption of ayahuasca decoctions, mended, reconstructed, red exterior, black interior, 9.9 cm x 17.4 cm. Peabody Museum of Archaeology and Ethnology (Harvard University), Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 35-25-30/1108"
-       url="Ayahuasca vessel 3.jpg"
+       label="Pottery cup with raised base, for drinking ayahuasca, Aguarico,  Rio Napo, Ecuador, ceramic, 10 x 19 cm (overall), Peabody Museum of Archaeology and Ethnology (Harvard University), Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 35-25-30/1108."
+       url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Pottery_cup_with%20raised_base_35-25-30:1108_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College_3.jpg?raw=true"
        fit="contain">
 {#paragraph6}
 
