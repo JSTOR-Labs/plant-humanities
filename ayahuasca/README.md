@@ -231,7 +231,7 @@ In 1986, American scientist and entrepreneur Loren Miller patented a cultivar of
 Miller’s patent was eventually overturned, but not because the courts recognized the COICA’s claims to their own culture.[^ref45] Rather, a herbarium specimen from the <span eid="Q1122595">Field Museum</span> in Chicago demonstrated that Miller’s unique plant had in fact been cultivated on U.S. soil before he submitted his patent.[^ref46] In the end, this seemingly simple botanical artifact–a pressed and dried plant with a descriptive label attached to a cardboard–provided the basis for the legal definition of ayahuasca in the United States.                
 <param ve-image
        url="https://fm-digital-assets.fieldmuseum.org/725/857/V0219206F.jpg"
-       label="The Center for International Environmental Law (CIEL) used this herbarium specimen to demonstrate that Loren Miller’s claim of a unique B. caapi cultivar in the United States existed before he patented it. The specimen not only includes a dried plant with its flowers but also a photograph that shows the flowers’ coloration. Specimen of cultivated Banisteriopsis caapi at the Kampong, Florida, 1974. Collected by Timothy Plowman. Field Museum of Natural History, CC BY-NC 4.0."
+       label="The specimen not only includes a dried plant with its flowers but also a photograph that shows the flowers’ coloration. Specimen of cultivated Banisteriopsis caapi at the Kampong, Florida, 1974. Collected by Timothy Plowman. Field Museum of Natural History, CC BY-NC 4.0."
        fit="contain">
 {#paragraph27}
 
