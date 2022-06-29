@@ -57,7 +57,7 @@ The earliest archaeological evidence of the use of _Banisteriopsis caapi_ and _P
 <param ve-image
        primary
        label="Bundles of ayahuasca, Kofan, Rio San Miguel, Columbia, bundle of sticks, wrapped with a vine and tied with twisted fiber, 46.3 x 19.7 x 12.1 cm (overall), Peabody Museum of Archaeology and Ethnology (Harvard University), Museum Purchase, 1948. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 48-17-30/7158."
-       url="Bundle.jpg"
+       url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Bundles_of_ayahuasca_48-17-30:7158_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College.jpg?raw=true"
        fit="contain">
 <param ve-image 
        label="Decorated ritual ceramic vase for the hallucinogen yagé (ayahuasca), Mirití-Paraná River, Columbia. Ceramic polychrome vessel, black interior, two perforated handles, 12 x 10 15/16 x 9 5/8 in., Peabody Museum of Archaeology and Ethnology (Harvard University), loan from Richard Schultes, 1954. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 54-21-30/7536."
