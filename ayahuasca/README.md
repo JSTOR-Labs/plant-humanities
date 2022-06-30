@@ -149,24 +149,24 @@ In the 1870s, the Portuguese missionary Manuel Rodrigues Pinto Rubens echoed the
 While Pinto Rubens’ work is certainly ethnobotanical in character, the most celebrated figure in the discipline is <span eid="Q1349394">Richard Spruce</span> (1817–1893). Considered one of the main pioneers of ethnobotany in the modern scientific world, this Victorian Era botanist traveled across South America for 15 years, extensively documenting the <span eid="Q213782">Putumayo</span> region of the Amazon. Spruce was notably interested in the use of mind-altering plants, and dedicated one chapter dedicated to them in his 1908 posthumously edited book, _Notes of a Botanist on the Amazon and Andes_. Most of the chapter focuses on the plant _caapi_—the <span eid="Q120684">Tupi</span> word for ayahuasca—and includes methods of preparing the plant for the decoction, notes on its etymology, and ritual descriptions.[^ref31]
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391507"
-       label="Cover page Richard Spruce, Notes of a Botanist on the Amazon and Andes, 1908. Smithsonian Libraries via BHL, public domain."
+       label="Cover page Richard Spruce, Notes of a Botanist on the Amazon and Andes, edited by Alfred Russel Wallace, London, Macmillan and co., limited, 1908. Smithsonian Libraries via BHL, not in copyright."
        fit="contain"
        ref="1">
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391881"
-       label="Richard Spruce’s drawings of the Tariana people in the Uapés River where he documented the use of caapi. Richard Spruce, Notes of a Botanist on the Amazon and Andes, 1908. Smithsonian Libraries via BHL, public domain."
+       label="Richard Spruce’s drawings of the Tariana people in the Uapés River where he documented the use of caapi. Richard Spruce, Notes of a Botanist on the Amazon and Andes, edited by Alfred Russel Wallace, London, Macmillan and co., limited, 1908. Smithsonian Libraries via BHL, not in copyright."
        fit="contain"
        ref="2">
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageimage/47391360"
-       label="Botanical description and scientific name of the ayahuasca vine. Richard Spruce, Notes of a Botanist on the Amazon and Andes, 1908. Smithsonian Libraries via BHL, public domain."
+       label="Botanical description and scientific name of the ayahuasca vine. Richard Spruce, Notes of a Botanist on the Amazon and Andes, edited by Alfred Russel Wallace, London, Macmillan and co., limited, 1908. Smithsonian Libraries via BHL, not in copyright."
        region="0,811,2488,2058"
        ref="3"> 
 {#paragraph19}
        
 Spruce obtained most of his field information on _caapi_ through interviews and observations. However, when it came to researching firsthand experiences with ayahuasca consumption, Spruce had to tap into the scientific networks of the nascent Spanish American republics and the <span eid="Q217230">Brazilian Empire</span>.[^ref32] To illustrate the effect on “white men who have partaken of _caapi_ in the proper way,” Spruce drew from the account of a Brazilian friend and more extensively, from Manuel Villavicencio (1804–1871), a Quiteño <span eid="Q16242047">_criollo_</span> scientist who was governor of the <span eid="Q7102414">Oriental Provinces in Ecuador</span> in the 1850s.[^ref33]
 <param ve-image region="57,1044,1576,1355"
-       url="https://ids.lib.harvard.edu/ids/iiif/445472636/full/full/0/default.jpg"
+       manifest="https://iiif.lib.harvard.edu/manifests/drs:445472270" seq="364"
        label="Unknown artist. En route to the deep Amazon via the Napo River. Published in Manuel Villavicencio, Geografía de la República del Ecuador,  New York, Impr. de R. Craighead, 1858. Dumbarton Oaks, public domain."
        fit="contain"
        ref="1">
