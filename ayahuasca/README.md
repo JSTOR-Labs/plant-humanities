@@ -58,26 +58,18 @@ The earliest archaeological evidence of the use of _Banisteriopsis caapi_ and _P
 
 How did apparently isolated Amazonian communities come to know the synergistic effect between different plant species in one of the most biodiverse forests of the world? For decades, outside researchers have assumed that Indigenous people have accumulated botanical knowledge by trial and error.[^ref11] This umbrella method for diverse ways of knowing the natural world obscures the sophistication and depth of botanical knowledge of the Amazonians. Ayahuasca brews across the Amazon harness the psychoactive properties of at least 97 species from 38 plant families.[^ref12] Aside from _Psychotria viridis_, Amazonian Indigenous groups have identified the medicinal properties of at least three other <span eid="Q904250">_Psychotria_</span> species.[^ref13]
 <param ve-image primary
-       label="Bundles of ayahuasca, Kofan, Rio San Miguel, Columbia, bundle of sticks, wrapped with a vine and tied with twisted fiber, 46.3 x 19.7 x 12.1 cm (overall), Peabody Museum of Archaeology and Ethnology (Harvard University), Museum Purchase, 1948. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 48-17-30/7158."
+       label="Bundles of ayahuasca, Kofan, Rio San Miguel, Columbia, bundle of sticks, wrapped with a vine and tied with twisted fiber, 46.3 x 19.7 x 12.1 cm (overall), Museum Purchase, 1948. Peabody Museum of Archaeology and Ethnology (Harvard University). Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 48-17-30/7158."
        url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Bundles_of_ayahuasca_48-17-30:7158_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College.jpg?raw=true"
        fit="contain">
 <param ve-image 
-       label="Decorated ritual ceramic vase for the hallucinogen yagé (ayahuasca), before 1953, Mirití-Paraná River, Columbia, ceramic, fiber, 30.5 x 27.8 x 24.4 cm (overall), Peabody Museum of Archaeology and Ethnology (Harvard University), loan from Richard Schultes, 1954. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 54-21-30/7536."
+       label="Decorated ritual ceramic vase for the hallucinogen yagé (ayahuasca), before 1953, Mirití-Paraná River, Columbia, ceramic, fiber, 30.5 x 27.8 x 24.4 cm (overall), loan from Richard Schultes, 1954. Peabody Museum of Archaeology and Ethnology (Harvard University). Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 54-21-30/7536."
        url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Decorated_ritual_ceramic_vase_54-21-30:7536_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College.jpg?raw=true"
        fit="contain">
 <param ve-image 
-       label="Pottery cup with raised base, for drinking ayahuasca, Aguarico,  Rio Napo, Ecuador, ceramic, 10 x 19 cm (overall), Peabody Museum of Archaeology and Ethnology (Harvard University), Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 35-25-30/1108." 
+       label="Pottery cup with raised base, for drinking ayahuasca, Aguarico, Rio Napo, Ecuador, ceramic, 10 x 19 cm (overall), Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Peabody Museum of Archaeology and Ethnology (Harvard University). Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 35-25-30/1108." 
        url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Pottery_cup_with%20raised_base_35-25-30:1108_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College_1.jpg?raw=true"
        fit="contain"
-       stable-url="https://www.jstor.org/stable/community.15365224"> 
-<param ve-image 
-       label="Pottery cup with raised base, for drinking ayahuasca, Aguarico,  Rio Napo, Ecuador, ceramic, 10 x 19 cm (overall), Peabody Museum of Archaeology and Ethnology (Harvard University), Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 35-25-30/1108." 
-       url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Pottery_cup_with%20raised_base_35-25-30:1108_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College_2.jpg?raw=true" 
-       fit="contain">
-<param ve-image 
-       label="Pottery cup with raised base, for drinking ayahuasca, Aguarico,  Rio Napo, Ecuador, ceramic, 10 x 19 cm (overall), Peabody Museum of Archaeology and Ethnology (Harvard University), Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 35-25-30/1108."
-       url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Pottery_cup_with%20raised_base_35-25-30:1108_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College_3.jpg?raw=true"
-       fit="contain">
+       stable-url="https://www.jstor.org/stable/community.15365224">
 {#paragraph7}
 
 While these are veritable feats of botanical research, Indigenous ways of knowing are not necessarily measured by such standards nor rely exclusively on observations and collection of written data. Many _ayahuasqueros_ in the Peruvian Amazon learn ayahuasca recipes through oral traditions from elders, but the “teacher” is considered to be the brew and its sacred plants, not the elder alone.[^ref14] Learning through plant teachers involves at times solitude (_dietas_), long periods of sensorial interactions with the plant, and incorporating dreams and visions as significant teachings.[^ref15]
