@@ -124,19 +124,19 @@ The rich descriptions of ayahuasca ceremonies we know today have been written in
        ref="1">
 <param ve-image
        manifest="https://iiif.juncture-digital.org/manifest/2b463c8d4b8957916687e1d8553b2b216d951456c3611a01ceb41ba8d5a92a12"
-       label="Pablo Maroni’s discussion of different Amazonian groups’ rituals and their alleged association with the devil. Pablo Maroni, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito, 1738 [first published 1889]. Biblioteca Digital AECID (Madrid), CC BY-NC-SA 3.0."
+       label="Pablo Maroni’s discussion of different Amazonian groups’ rituals and their alleged association with the devil. Pablo Maroni, Noticias auténticas del famoso río Marañón y misión apostólica de la Compañía de Jesús de la provincia de Quito, 1738 [first published 1889]. Biblioteca Digital AECID (Madrid), CC BY-NC-SA 4.0."
        ref="2"> 
 {#paragraph16}
 
 In contrast, descriptions of individual plant species were devoid of demonic or ritual associations. In the late eighteenth century, the celebrated Spanish explorers and botanists <span eid="Q4948434">Hipólito Ruíz (1754–1816) and José Pavón (1754–1840)</span> described a shrub from the western Amazon and named it _Psychotria viridis_.[^ref28] Even though these botanists sought to obtain knowledge from local herbalists and sorcerers, the  hallucinogenic properties and use of _P. viridis_ in ayahuasca brews were never reported and remained unknown to westerners until the twentieth century.[^ref29]
 <param ve-image
-       label="Isidro Gálvez and José Brunete, draughtsmen, Illustrations of (a) Pyschotria subtomentosa and (b) Psychotria viridis, Flora Peruviana et Chilensis vol. 2, 1798–1802. Biblioteca de la Universidad Complutense de Madrid, public domain."
+       label="Isidro Gálvez and José Brunete, draughtsmen, Illustrations of (a) Pyschotria subtomentosa and (b) Psychotria viridis in Hipólito Ruiz and José Pavón, Flora Peruviana et Chilensis, vol. 2, 1798–1802. Biblioteca de la Universidad Complutense de Madrid, CC BY-NC-SA 4.0."
        url="http://dioscorides.ucm.es/proyecto_digitalizacion/imagenes/2010/5315939269/5315939269_0430.jpg"
        fit="contain"
        ref="1">
 <param ve-image
-       manifest="https://iiif.juncture-digital.org/manifest/c52ad66bc9f0f8963cc56eada642d5ae59bbfa5ff92e7c3ff885a7080162bd7a"
-       label="Latin descriptions of several psychotria species, which were classified according to Linnaean principles. Hipolito Ruíz and José Pavón, Description of Pscyhotria viridis in Flora Peruviana et Chilensis, vol. 1, 1798-1802. Biblioteca de la Universidad Complutense de Madrid, public domain."
+       url="http://dioscorides.ucm.es/proyecto_digitalizacion/imagenes/2010/5315939240/5315939240_0155.jpg"
+       label="Latin descriptions of several psychotria species, which were classified according to Linnaean principles. Description of Pscyhotria viridis in Hipolito Ruíz and José Pavón, Flora Peruviana et Chilensis, vol. 1, 1798–1802. Biblioteca de la Universidad Complutense de Madrid, CC BY-NC-SA 4.0."
        fit="contain"
        ref="2">
 {#paragraph17}
