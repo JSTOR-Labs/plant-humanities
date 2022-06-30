@@ -44,26 +44,6 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "Psychotria is a large genus within the Rubiaceae family (coffee family), including about 1,500 plant species, many of which have bioactive components including naphthoquinones, peptides, benzoquinones, pigments, and alkaloids.",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://free.iiifhosting.com/iiif/4d03ab873a0dfc6ab03fe3aef6e7bf3ebd04ed7704bfa806d99633dcb67bf9a1",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:485.56292724609375,837.68212890625,2190.8611450195312,1850.264892578125"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#6c9d59ee-d688-47d0-84b7-b5d4b44e97f9"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
         "value": "For example, P. ipecacuanha has expectorant and emetic properties and P. colorata has been used as a painkiller.",
         "purpose": "commenting"
       }
