@@ -181,7 +181,7 @@ Villavicencio wrote a lengthy book, _Geografía de la República del Ecuador_ (G
 Spruce’s work ultimately shaped twentieth century ethnobotanical interests. The renowned ethnobotanist <span eid="Q1124975">Richard Evans Schultes</span> (1915–2001) was inspired by _Notes of a Botanist on the Amazon and Andes_ and followed Spruce’s steps into the Amazon during the 1940s.[^ref37] Schultes lauded the naming of the ayahuasca vine (_Banisteriopsis caapi_) as Spruce’s greatest “discovery” but regretted that he did not experience the ayahuasca brew.[^ref38] In 1953, when Schultes was in Bogotá, he shared how to find ayahuasca with a fellow traveler, novelist <span eid="Q188176">William Burroughs</span>. Burroughs’ epistolary Colombian odyssey to experience the brew, <span eid="Q17053771">_The Yage Letters_</span>, was the first of many personal accounts and <span eid="Q4826265">autoethnographies</span> writte under the influence of ayahuasca that would become popular in the second half of the twentieth century.[^ref39]   
 <param ve-image
         url="https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2020/08/Schultes_amazon_1940s-1186x1536.jpg"
-        label="Richard Evans Schultes (center) with Salvador Chindoy (left), a renowned Kamëntsá healer from Colombia’s Sibundoy Valley. Archives of the Economic Botany Library of Oakes Ames, Harvard University with permission of the Schultes family. Disclaimer: the Schultes family authorizes the use of this material for scholarly purposes, the photographer has not been identified."
+        label="Richard Evans Schultes (center) with Salvador Chindoy (left), a renowned Kamëntsá healer from Colombia’s Sibundoy Valley, probably 1940s. The identity of the individual on the right is not recorded. Archives of the Economic Botany Library of Oakes Ames, Harvard University with permission of the Schultes family. Disclaimer: the Schultes family authorizes the use of this material for scholarly purposes, the photographer has not been identified."
         fit="contain">
 {#paragraph22}
                                                         
@@ -202,7 +202,7 @@ Scholars debate at length about the use of ayahuasca. On the one hand, ayahuasca
 In truth, ayahuasca rituals have always been dynamic and multiple, differing among ethnic groups in Amazonia and evolving over time. In Peru, for example, the mestizo population developed a set of practices called <span eid="Q7918350">_Vegetalismo_</span>, which was influenced by both <span eid="Q1841">Catholicism</span> and traditional Indigenous knowledge. _Vegetalistas_ consider the plants that form the ayahuasca brew to be “teachers” capable of imparting specialized knowledge to humans. And in Brazil, in the 1920s, <span eid="Q3855400">Raimundo Irineu Serra</span> (1892–1971), a minister raised in an ethnically diverse <span eid="Q1737205">rubber boom</span> town, founded the syncretic church of <span eid="Q2032421">_Santo Daime_</span> based on Catholicism, African <span eid="Q43004">animism</span>, and Indigenous _vegetalismo_, which uses ayahuasca extensively in its rituals. _Santo Daime_ spread globally, with churches established in the United States, Canada, and Europe.
 <param ve-image
        url="https://live.staticflickr.com/200/470377554_585483993d_k.jpg"
-       label="Cross in Matutu Daime Church. Lou Gold via Flickr, CC BY-NC 2.0.">
+       label="Cross in Matutu Daime Church, 2006. Lou Gold, Flickr, CC BY-NC 2.0.">
 {#paragraph25}
 
 ### Whose Vine Is It, Anyway?
