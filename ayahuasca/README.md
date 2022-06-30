@@ -165,21 +165,18 @@ While Pinto Rubens’ work is certainly ethnobotanical in character, the most ce
 {#paragraph19}
        
 Spruce obtained most of his field information on _caapi_ through interviews and observations. However, when it came to researching firsthand experiences with ayahuasca consumption, Spruce had to tap into the scientific networks of the nascent Spanish American republics and the <span eid="Q217230">Brazilian Empire</span>.[^ref32] To illustrate the effect on “white men who have partaken of _caapi_ in the proper way,” Spruce drew from the account of a Brazilian friend and more extensively, from Manuel Villavicencio (1804–1871), a Quiteño <span eid="Q16242047">_criollo_</span> scientist who was governor of the <span eid="Q7102414">Oriental Provinces in Ecuador</span> in the 1850s.[^ref33]
-<param ve-image region="57,1044,1576,1355"
-       manifest="https://iiif.lib.harvard.edu/manifests/drs:445472270" seq="364"
-       label="Unknown artist. En route to the deep Amazon via the Napo River. Published in Manuel Villavicencio, Geografía de la República del Ecuador,  New York, Impr. de R. Craighead, 1858. Dumbarton Oaks, public domain."
-       fit="contain"
-       ref="1">
+<param ve-image region="610,2811,3163,2769"
+       manifest="https://iiif.lib.harvard.edu/manifests/drs:445472270" seq="364">
 {#paragraph20}
        
 Villavicencio wrote a lengthy book, _Geografía de la República del Ecuador_ (Geography of the Republic of Ecuador), around the same time Spruce was traveling across the Amazon. Not surprisingly, he dedicated a sizable portion of his book to the Oriental Provinces and discussed strategies for incorporating the apparently isolated and wild tribes who lived there.[^ref34] Villavicencio’s book also included ethnographic descriptions, including the use of ayahuasca in Amazonian communities and his own experience from drinking the brew. Even though Spruce recognized the ethnographic efforts of Villavicencio, he found his botanical descriptions useless.[^ref35] Villavicencio did include other important ethnobotanical details and also described the diplomatic and warfare uses of the ayahuasca brew in the <span eid="Q2723612">Záparo</span> and <span eid="Q1296766">Jívaro</span> communities.[^ref36] These political uses are now rarely mentioned in ayahuasca literature, thus leaving the magical and spiritual connotations of the brew as the most relevant ones.
 <param ve-image
         url="https://www.biodiversitylibrary.org/pageimage/47391371"
-        label="Excerpt of Richard Spruce’s translation and summary of Villavicencio’s description of ayahuasca consumption and rituals (ca. 1854). Richard Spruce, Notes of a Botanist on the Amazon and Andes, chapter 25, vol 2. Smithsonian Libraries via BHL, public domain."
+        label="Excerpt of Richard Spruce’s translation and summary of Villavicencio’s description of ayahuasca consumption and rituals (ca. 1854). Richard Spruce, Notes of a Botanist on the Amazon and Andes, edited by Alfred Russel Wallace, London, Macmillan and co., limited, 1908. Smithsonian Libraries via BHL, not in copyright."
         ref="2">
 <param ve-image 
-       url="https://ids.lib.harvard.edu/ids/iiif/445472673/full/full/0/default.jpg"
-       label="Villavicencio’s personal account of ayahuasca consumption. This is the original text (Spanish) that Richard Spruce used to expand his essay on caapi and ayahuasca. This excerpt includes an ethnobotanical note on guayusa that was omitted from Spruce’s essay. Published in Manuel Villavicencio, Geografía de la República del Ecuador, 1858. Dumbarton Oaks, public domain."
+       manifest="https://iiif.lib.harvard.edu/manifests/drs:445472270" seq="401"
+       label="Villavicencio’s personal account of ayahuasca consumption. This is the original text (Spanish) that Richard Spruce used to expand his essay on caapi and ayahuasca. This excerpt includes an ethnobotanical note on guayusa that was omitted from Spruce’s essay. Published in Manuel Villavicencio, Geografía de la República del Ecuador, New York, Impr. de R. Craighead, 1858. Dumbarton Oaks, public domain."
        ref="3">
 {#paragraph21}
 
