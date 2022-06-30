@@ -209,8 +209,8 @@ In truth, ayahuasca rituals have always been dynamic and multiple, differing amo
 
 In 1986, American scientist and entrepreneur Loren Miller patented a cultivar of the ayahuasca plant _Banisteriopsis caapi_ that he claimed to have developed in Hawaii. He named the plant “Da Vine” and founded a company to study its potential benefits.[^ref43] Miller’s actions are best described as <span eid="Q2904214">_biopiracy_</span> and in 1994 were denounced by the <span eid="Q1129883">Coordinating Body of Indigenous Organizations of the Amazon Basin</span> (COICA). From the perspective of TEK, a specific plant could not be claimed as intellectual property because the knowledge and use of that plant is so deeply intertwined with Indigenous cultures. Miller’s patent for “Da Vine” was an extreme example of extractive research practices; claiming ownership over TEK should not be the goal of anyone wishing to respectfully research within Indigenous communities.[^ref44]
 <param ve-image
-        url="https://github.com/Athaodam/Adventures-with-Ayahuasca/blob/main/USP_DaVinePatent_1986.png?raw=true"
-        label="Patent granted to Loren Miller in 1986. Source: United States Patent and Trademark Office, www.uspto.gov."
+        url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Patent_granted_to_Loren_Miller_in_1986_Source_United_States_Patent_and_Trademark_Office_www.uspto.gov.png?raw=true"
+        label="Patent granted to Loren Miller in 1986. Public domain. Source: United States Patent and Trademark Office, www.uspto.gov."
         fit="contain">
 {#paragraph26}
                      
