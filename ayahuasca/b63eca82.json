@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Another notable habit of the Jívaros, consists in drinking every morning a great quantity of lukewarm water with an infusion of Guayusa leaves to induce vomit so the stomach is clean and ready for hunting.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/445472673",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:531.270751953125,4068.615234375,2336.65966796875,662.78564453125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#178a779a-0435-49c0-8698-055a22e091ea"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "The Ayahuasca [brew] is not allowed to be drunken by those too young nor by women.",
         "purpose": "commenting"
       }
