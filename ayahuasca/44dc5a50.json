@@ -4,7 +4,7 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "For example, P. ipecacuanha has expectorant and emetic properties and P. colorata has been used as a painkiller.",
+        "value": "The text reads: Yndios Ticunas, El Pagé ejerciendo las funciones de medico; Le Pagé (maitre de [vieil] age) qui [...] la fonction a medecins, il a bu du Ayahuasca et se laisse inspirer pour connaitre[sic] la maladie et les remettres. (Translation: Ticuna Indians//The Pagé performing the physician’s duties.//The pagé (old age master) who has the [...] medicines, he has drunk the Ayahuasca and gets inspired to understand the sickness and remedies.)",
         "purpose": "commenting"
       }
     ],
@@ -13,7 +13,7 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:503.9735412597656,3958.2783203125,2503.8411560058594,883.70849609375"
+        "value": "xywh=pixel:1051,593,2503,2962"
       }
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
