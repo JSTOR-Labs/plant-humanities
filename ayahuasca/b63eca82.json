@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This genus is particularly diverse in the Atlantic (South American) forest and Indigenous people have identified the properties of several psychotria species.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/4d03ab873a0dfc6ab03fe3aef6e7bf3ebd04ed7704bfa806d99633dcb67bf9a1",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:577.6159057617188,2522.251708984375,2338.1458129882812,1905.496826171875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e195e746-f6fa-46fa-a1d3-75c3ff7e0ca3"
+  }
+]
