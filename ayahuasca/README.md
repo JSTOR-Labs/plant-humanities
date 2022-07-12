@@ -25,10 +25,10 @@ Although many associate ayahuasca with a particular species of plant, it is the 
 {#paragraph2}
 
 Users of ayahuasca experience vivid hallucinations and visions that some describe as “dreaming while awake.”[^ref2] During these visual experiences, objects seem to vibrate, colors are brighter or more intense, and intricate shapes and patterns emerge in kaleidoscopic ways.[^ref3] This is the result of the mixture of plants that combine two chemicals: <span eid="Q414226">_β-carboline_</span> harmala alkaloids and <span eid="Q407217">_N,N-Dimethyltryptamine_</span> (DMT). The two chemicals must be ingested together to cause psychedelic effects on the brain. There are two _β-carboline_ harmala alkaloids, harmine and harmaline, which are known as <span eid="Q410954">monoamine oxidase inhibitors</span>. Without them, the DMT would be inactivated by the monoamine oxidase within our gut and liver and no hallucinogenic reactions would occur. Although DMT is a naturally occurring chemical that is found in the brain in small amounts, larger amounts of it are needed to experience visions, strong emotional surges, and even “breakthroughs” to other dimensional realities.[^ref4]
-<param ve-compare color="000000" sync fit="fill"
+<param ve-compare sync fit="fill"
        url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Yage_Is_Our_Life_YouTube_posted_by_Yage_Is_Our_Life_no_known_restrictions_1.jpg?raw=true"
        label="Screenshot from Yagé Is Our Life. Yagé Is Our Life, YouTube, no known copyright restrictions. Kristan M. hanson, CC BY-NC 3.0.">
-<param ve-compare color="000000" fit="fill" 
+<param ve-compare fit="fill" 
        url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Yage_Is_Our_Life_YouTube_posted_by_Yage_Is_Our_Life_no_known_restrictions_2.jpg?raw=true"
        label="Screenshot from Yagé Is Our Life. Yagé Is Our Life, YouTube, no known copyright restrictions. Kristan M. hanson, CC BY-NC 3.0.">
 {#paragraph3}
