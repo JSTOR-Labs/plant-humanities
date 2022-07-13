@@ -89,8 +89,8 @@ The highly specialized relationships between heliconias and their pollinators re
 <param ve-entity eid="Q15329469" title="Heliconia caribaea">
 <param ve-entity eid="Q1063" title="evolution">
 <param ve-entity eid="Q1141466" title="pollinator" aliases="pollinators|pollinated">
-<param ve-image region="-140,115,1403,1144" primary manifest="https://iiif.juncture-digital.org/manifest/90b4e26f8812197aeda77858de05905b3d38e152f477e9f61cf4a0739065dfa3">
-<param ve-image region="-70,240,702,572" manifest="https://iiif.juncture-digital.org/manifest/b96d5a10f3447b08d2d5ed47eab9434b89aea9a18c64ef4e2fb43ad26eeb2a7f">
+<param ve-image region="-140,115,1403,1144" primary label="Charles Darwin, The various contrivances by which orchids are fertilised by insects, title page, New York, Appleton,1886, Harold B. Lee Library. Harold B. Lee Library, Brigham Young University via archive.org, Not in copyright." url="https://ia802503.us.archive.org/BookReader/BookReaderImages.php?id=variouscontrivan1886darw&itemPath=%2F7%2Fitems%2Fvariouscontrivan1886darw&server=ia802503.us.archive.org&page=n8_w1019">
+<param ve-image region="-70,240,702,572" label="Charles Darwin, The various contrivances by which orchids are fertilised by insects, page 31, New York, Appleton,1886, Harold B. Lee Library. Harold B. Lee Library, Brigham Young University via archive.org, Not in copyright." url="https://ia802503.us.archive.org/BookReader/BookReaderImages.php?id=variouscontrivan1886darw&itemPath=%2F7%2Fitems%2Fvariouscontrivan1886darw&server=ia802503.us.archive.org&page=n52_w356">
 <param ve-image region="198,869,675,603" manifest="https://iiif.juncture-digital.org/manifest/d99b1d20531915e846e4dbb0d684717d8a3817ec5932a4044819be21b913461e">
 <param ve-image region="-283,600,2837,2470" manifest="https://iiif.juncture-digital.org/manifest/3dce50c31bfb1d288846b98151678c99ab28a0cb2d3adf9863a96a8df44d39b3">
 <param ve-image region="0,-54,2994,2504" manifest="https://iiif.juncture-digital.org/manifest/e86545240d7faf1c9c392a268577c14fe9454c7c28605302d070ae3b7c7006a9">
