@@ -104,7 +104,7 @@ After European colonization, and along with the integration of the Canaries into
 <param title="Alexander von Humboldt" eid="Q6694">
 <param title="Botanical Garden Berlin" eid="Q163255" aliases="Botanical Garden in Berlin">
 <param ve-image label="Julius Schrader, Baron Alexander von Humboldt (1769–1859), oil on canvas, 1859, Metropolitan Museum of Art, public domain."
-	url="https://www.metmuseum.org/art/collection/search/437640"
+	url="https://images.metmuseum.org/CRDImages/ep/original/DP-1411-001.jpg"
 	region="179,832,3158,2303">
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/663749f69e87185ec74e66477e76a24e59d82a9ff68f552915a1f18b016da69e"
