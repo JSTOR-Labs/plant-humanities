@@ -70,15 +70,15 @@ Today, the common scent and flavor we associate with mint is synonymous with cul
 
 In the seventeenth and eighteenth centuries, _Mentha_ engaged the attention of numerous well-known British botanists including <span eid="Q316949">John Ray</span> (1627–1705), <span eid="Q3774295">Adam Buddle</span> (1662–1715), [Samuel Dale](https://plants.jstor.org/stable/10.5555/al.ap.person.bm000150941) (1659–1739), and Jacob Bobart (1641-1719). They could be found collecting a variety of mint species across Britain and exchanged their findings via written correspondence. They were intrigued by the properties and characteristics of the specimens, as well as “conjectures about the synonyms of authors.”[^ref5] Indeed, in [_Transactions of the Linnaean Society_,](https://www.linnean.org/) the botanist and naturalist James Edward Smith (1759–1828) stated that “no British genus of plants, except perhaps _Conserva_, has been hitherto less understood than that of _Mentha_; either with respect to its species, and the principles upon which their distinctions ought to be founded, or the synonyms of those species in the most recent, as well as the more ancient writers.”[^ref6]
 <param eid="Q161885" fill="#5C6609" marker-symbol="user-friends">
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/1639628a659ddbb924c2ef7135f57e1083e7142e66f94ba5fd8f69910c0195b6">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/1639628a659ddbb924c2ef7135f57e1083e7142e66f94ba5fd8f69910c0195b6">
 <param ve-entity eid="Q6118394" title="Jacob Bobart the Younger">
 <param ve-entity eid="Q458004" title="James Edward Smith">
 {#paragraph9}
 
 Brian Lawrence has described the taxonomy of the genus _Mentha_ as “being in a state of flux, with more than 3,000 names published since 1753.”[^ref7] In fact, the last comprehensive classification of _Mentha_ was, according to Lawrence, published over a century ago, in 1896.  Due to the ease of which *Mentha* can be hybridized, around 95 percent of the 3,000 names published for the _Mentha_ since 1753 (the publication year of Linnaean’s _Species Plantarum_) are synonyms or illegitimate, being known as “infraspecific taxa.”[^ref8]
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/8f8cd57239b83683e5a20ed67f1f2b4ae80f9a2b5b3f7257a0428e7a73885a96">
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/9653661c48adf588fa039b358d0c76619cf8b090fb0037c7a1bc4beddb26d38c"> 
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/0883d3d0112bcdbc871189ca2838bcff135c03b243861283d42578c5afdbf993">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/8f8cd57239b83683e5a20ed67f1f2b4ae80f9a2b5b3f7257a0428e7a73885a96">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/9653661c48adf588fa039b358d0c76619cf8b090fb0037c7a1bc4beddb26d38c"> 
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/0883d3d0112bcdbc871189ca2838bcff135c03b243861283d42578c5afdbf993">
 {#paragraph10}
 
 ### Peppermint: A Commercial Crop
