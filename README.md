@@ -62,6 +62,13 @@
 ![](/images/thumbnails/arbor-vitae.jpg)
 
 ##
+[**Ayahuasca: Amazonian Plant Lessons**](/ayahuasca)
+
+- Ashley Thuthao Keng Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson
+
+![](/images/thumbnails/ayahuasca.jpg)
+
+##
 [**Bananas: Chaos out of Order**](/Banana)
 
 - Ashley Buchanan
