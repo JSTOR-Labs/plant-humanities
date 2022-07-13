@@ -25,11 +25,9 @@ Although many associate ayahuasca with a particular species of plant, it is the 
 
 Users of ayahuasca experience vivid hallucinations and visions that some describe as “dreaming while awake.”[^ref2] During these visual experiences, objects seem to vibrate, colors are brighter or more intense, and intricate shapes and patterns emerge in kaleidoscopic ways.[^ref3] This is the result of the mixture of plants that combine two chemicals: <span eid="Q414226">_β-carboline_</span> harmala alkaloids and <span eid="Q407217">_N,N-Dimethyltryptamine_</span> (DMT). The two chemicals must be ingested together to cause psychedelic effects on the brain. There are two _β-carboline_ harmala alkaloids, harmine and harmaline, which are known as <span eid="Q410954">monoamine oxidase inhibitors</span>. Without them, the DMT would be inactivated by the monoamine oxidase within our gut and liver and no hallucinogenic reactions would occur. Although DMT is a naturally occurring chemical that is found in the brain in small amounts, larger amounts of it are needed to experience visions, strong emotional surges, and even “breakthroughs” to other dimensional realities.[^ref4]
 <param ve-compare sync fit="fill"
-       url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Yage_Is_Our_Life_YouTube_posted_by_Yage_Is_Our_Life_no_known_restrictions_1.jpg?raw=true"
-       label="Screenshot from Yagé Is Our Life. Yagé Is Our Life, YouTube, no known copyright restrictions. Kristan M. hanson, CC BY-NC 3.0.">
+       manifest="https://iiif.juncture-digital.org/manifest/20d20d6a57a5d20cd9a953cc646c04c7e98dee56b27d6e1face0e246722b560d">
 <param ve-compare fit="fill" 
-       url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Yage_Is_Our_Life_YouTube_posted_by_Yage_Is_Our_Life_no_known_restrictions_2.jpg?raw=true"
-       label="Screenshot from Yagé Is Our Life. Yagé Is Our Life, YouTube, no known copyright restrictions. Kristan M. hanson, CC BY-NC 3.0.">
+       manifest="https://iiif.juncture-digital.org/manifest/ddc49a5185e7df16ec998ee31ad3a7a119d3f4cb36477693b435720542997571">
 {#paragraph3}
 
 Many traditions are associated with the preparation and imbibing of the decoction due to its ubiquity among cultures throughout the Amazon basin and Andean highlands. Boiling and steeping together the vines of <span eid="Q133573">_Banisteriopsis caapi_</span> and the leaves of <span eid="Q133533">_Psychotria viridis_</span> is most common.[^ref5] Amazonian Indigenous populations have known about this combincation of plants and its effects for at least 3,000 years.[^ref6] However, there are recipes that do not contain any _P. viridis_, and instead use other plants that contain DMT, such as <span eid="Q1939784">_Diplopterys cabrerana_</span>. 
@@ -57,18 +55,14 @@ The earliest archaeological evidence of the use of _Banisteriopsis caapi_ and _P
 
 How did apparently isolated Amazonian communities come to know the synergistic effect between different plant species in one of the most biodiverse forests of the world? For decades, outside researchers have assumed that Indigenous people have accumulated botanical knowledge by trial and error.[^ref11] This umbrella method for diverse ways of knowing the natural world obscures the sophistication and depth of botanical knowledge of the Amazonians. Ayahuasca brews across the Amazon harness the psychoactive properties of at least 97 species from 38 plant families.[^ref12] Aside from _Psychotria viridis_, Amazonian Indigenous groups have identified the medicinal properties of at least three other <span eid="Q904250">_Psychotria_</span> species.[^ref13]
 <param ve-image primary
-       label="Bundles of ayahuasca, Kofan, Rio San Miguel, Columbia, bundle of sticks, wrapped with a vine and tied with twisted fiber, 46.3 x 19.7 x 12.1 cm (overall), Museum Purchase, 1948. Peabody Museum of Archaeology and Ethnology (Harvard University). Museum Purchase, 1948. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 48-17-30/7158."
-       url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Bundles_of_ayahuasca_48-17-30:7158_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College.jpg?raw=true"
+       manifest="https://iiif.juncture-digital.org/manifest/4b642fecbc88d1af1c8c1baa21d2184fee21d6dfdd3c18557a633c61bb47aa4c"
        fit="contain">
 <param ve-image 
-       label="Decorated ritual ceramic vase for the hallucinogen yagé (ayahuasca), before 1953, Mirití-Paraná River, Columbia, ceramic, fiber, 30.5 x 27.8 x 24.4 cm (overall), loan from Richard Schultes, 1954. Peabody Museum of Archaeology and Ethnology (Harvard University). Loan from Richard Schultes, 1954. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 54-21-30/7536."
-       url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Decorated_ritual_ceramic_vase_54-21-30:7536_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College.jpg?raw=true"
+       manifest="https://iiif.juncture-digital.org/manifest/6834210c4d59996f07819dffe6368839b81d6a4a895e6a832642a8a907cd2533"
        fit="contain">
 <param ve-image 
-       label="Pottery cup with raised base, for drinking ayahuasca, Aguarico, Rio Napo, Ecuador, ceramic, 10 x 19 cm (overall), Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Peabody Museum of Archaeology and Ethnology (Harvard University). Peabody Museum and Division of Anthropology Expedition, John Gillin, Director, 1935. Image © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 35-25-30/1108." 
-       url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Pottery_cup_with%20raised_base_35-25-30:1108_Peabody_Museum_Copyright_2021_The_President_and_Fellows_of_Harvard_College_1.jpg?raw=true"
-       fit="contain"
-       stable-url="https://www.jstor.org/stable/community.15365224">
+       manifest="https://iiif.juncture-digital.org/manifest/bf816660d3e82ed1508ca273546aed2c486c7d1b3f498cf205255bf0f60f60e0"
+       fit="contain">
 {#paragraph7}
 
 While these are veritable feats of botanical research, Indigenous ways of knowing are not necessarily measured by such standards nor rely exclusively on observations and collection of written data. Many _ayahuasqueros_ in the Peruvian Amazon learn ayahuasca recipes through oral traditions from elders, but the “teacher” is considered to be the brew and its sacred plants, not the elder alone.[^ref14] Learning through plant teachers involves at times solitude (_dietas_), long periods of sensorial interactions with the plant, and incorporating dreams and visions as significant teachings.[^ref15]
@@ -88,7 +82,7 @@ For these reasons, ayahuasca and its associated plant species form an exemplary 
 {#paragraph10}
 
 Western researchers have conducted studies that prominently centered their voices instead of those of the communities they studied. Indigenous scholar Shawn Wilson highlights that despite the “good” intentions of some studies, many have resulted in the formation and “proliferation of negative stereotypes.”[^ref21] To actively decolonize present and future scholarship, Indigenous scholars have led the charge toward revising this trajectory through the collaborative development of Indigenous paradigms of research.[^ref22] With a focus on community engagement, reciprocally nourishing relationalities, appropriate crediting, and the acknowledgement that not all Indigenous knowledge may be accessible to researchers, further studies on TEK of ayahuasca are possible. The pursuit, documentation, and safeguarding of TEK are crucial to biodiversity conservation as a whole and therefore, it is in the interest of all to center and uplift Indigenous voices.[^ref23]
-<param ve-image region="95,-673,4149,3369" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Smith_Decolonizing_Methodologies_no_known_copyright_restrictions_2.png?raw=true" label="Linda Tuhiwai Smith, Decolonizing Methodologies: Research and Indigenous Peoples (London and New York: Zed Books; Dunedin, New Zealand: University of Otago Press; distributed in the USA exclusively by Palgrave, St. Martin’s Press: 1999). Kristan M. Hanson, CC BY-NC 3.0.">
+<param ve-image region="95,-673,4149,3369" manifest="https://iiif.juncture-digital.org/manifest/6be3a599671cf1a1efe4e17420a112e5d1eb281c8e022a86967edf1e118927da">
 {#paragraph11}
 
 ### Representing Ayahuasca with the Senses
@@ -196,8 +190,7 @@ In truth, ayahuasca rituals have always been dynamic and multiple, differing amo
 
 In 1986, American scientist and entrepreneur Loren Miller patented a cultivar of the ayahuasca plant _Banisteriopsis caapi_ that he claimed to have developed in Hawaii. He named the plant “Da Vine” and founded a company to study its potential benefits.[^ref43] Miller’s actions are best described as <span eid="Q2904214">_biopiracy_</span> and in 1994 were denounced by the <span eid="Q1129883">Coordinating Body of Indigenous Organizations of the Amazon Basin</span> (COICA). From the perspective of TEK, a specific plant could not be claimed as intellectual property because the knowledge and use of that plant is so deeply intertwined with Indigenous cultures. Miller’s patent for “Da Vine” was an extreme example of extractive research practices; claiming ownership over TEK should not be the goal of anyone wishing to respectfully research within Indigenous communities.[^ref44]
 <param ve-image
-        url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-7/ayahuasca/Patent_granted_to_Loren_Miller_in_1986_Source_United_States_Patent_and_Trademark_Office_www.uspto.gov.png?raw=true"
-        label="Patent granted to Loren Miller in 1986. Public domain. Source: United States Patent and Trademark Office, www.uspto.gov."
+        manifest="https://iiif.juncture-digital.org/manifest/9650194ba24e71893cfa4d791ac2f1e191d900adb441994a352589122146d4ab"
         fit="contain">
 {#paragraph26}
                      
