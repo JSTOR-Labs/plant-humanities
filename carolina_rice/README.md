@@ -56,11 +56,11 @@ But it was not enough merely to bring the seed to Carolina. Rather, tidal-basin 
 {#paragraph6}
 
 Catesby makes the role of enslaved people in rice cultivation implicitly known [through his reference to the “Hough,”](https://www.biodiversitylibrary.org/item/120381#page/41/mode/1up) which makes “shallow trenches” in the land. The hoe was not a prominent tool in European agriculture at the time, “which relied principally on draft animal traction”; such metal tools were not used by the local Native American population either. In colonial-era West Africa, however, the hoe was the primary tool used for field preparation.[^ref4] Catesby’s reference to the “Hough” thus belies a long history of West African knowledge being used in the Carolinas.
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/62c8abfcc2b157fc1c297146feb05280cea597ddf689dd0cd17b0cbab6d25de8">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/62c8abfcc2b157fc1c297146feb05280cea597ddf689dd0cd17b0cbab6d25de8">
 {#paragraph7}
 
 In the penultimate sentence of his description of rice, Catesby finally acknowledges the role of enslaved peoples in the crop’s production, [writing,](https://www.biodiversitylibrary.org/item/120381#page/41/mode/1up) “they use a Hand-Mill, yet there remains an inner Film which clouds the Brightness of the grain, to get off which it is beat in large wooden Mortars, and Pestles of the same, by Negro Slaves, which is very laborious and tedious.” This mortar and pestle tool, another technology used in West Africa, was employed almost exclusively by women, demonstrating the gendered aspect of rice cultivation.
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/6ae993c498079fe77da34db9f1c1364745f6d4cb5549a7d1dbfcf9819e9ad976">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/6ae993c498079fe77da34db9f1c1364745f6d4cb5549a7d1dbfcf9819e9ad976">
 {#paragraph8}
 
 Any doubt that enslaved people brought wetland rice cultivation to Carolina has been put to rest by geographer Judith Carney. In her path-breaking work <span eid="Q3434002">_Black Rice_</span>, Carney details how the “preparation of tidal floodplains for rice cultivation followed principles remarkably similar to those of the mangrove rice system [in West Africa].”[^ref5] This was an incredibly intricate system, which required embankments, ditches, drainage valves, and more. As Carney explains, it was only with the knowledge of mangroves in West Africa that such systems could have been built in Carolina.
