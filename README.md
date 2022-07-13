@@ -19,7 +19,7 @@
 ##
 [**Tamarind: From Shady Refuge to Versatile Foodstuff**](/tamarind)
 
-- Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert
+- Allison Fulton, Amara Santiesteban Serrano, and Jeannette Schollaert
 
 ![](/images/thumbnails/tamarind.jpg)
 
@@ -183,7 +183,7 @@
 ##
 [**Tamarind: From Shady Refuge to Versatile Foodstuff**](/tamarind)
 
-- Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert
+- Allison Fulton, Amara Santiesteban Serrano, and Jeannette Schollaert
 
 ![](/images/thumbnails/tamarind.jpg)
 
