@@ -84,7 +84,7 @@ This is the case for the <span data-mouseover-image-zoomto="1072,3109,1345,1166"
 
 As one of the largest trees in India, tamarinds have been incorporated into garden designs as a source of shade since the Mughal dynasty. Rooted in Persian traditions, Mughal gardens, called _charbaghs_ (fourfold gardens), were characterized by ornate fountains and water systems.[^ref10] The tamarind tree was often found in gardens like those built in Lahore by Emperor Babur’s son, Kamran Mirza. Centuries later, during British colonial rule of the Indian subcontinent, tamarind trees were used in gardens and along roadsides by high-ranking officers. At the turn of the nineteenth century, though his plans were never realized, Governor-General of India Lord Wellesley attempted to line a section of the Great Trunk Road from a palace in Barrackpore to the Government House in Calcutta, with tamarind, mango, peepul, and teak trees.[^ref11]
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/5c735396574ddd0e323d705d2e684148e2774cba754ff2d9306aa30bff5f5bbc">
-<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/88c34809e373bf709f2a11b102e2688e6a26536273dbd7868bd587921609b49c">
+<param ve-image fit="contain" label="Mughal garden design, Shalamar Gardens, Lahore, Pakistan, 2014." manifest="https://iiif.juncture-digital.org/manifest/88c34809e373bf709f2a11b102e2688e6a26536273dbd7868bd587921609b49c">
 <param ve-entity eid="Q2429892" title="Mughal gardens">
 <param ve-entity eid="Q11739" title="Lahore">
 <param ve-entity eid="Q12419221" title="Kamran Mirza">
