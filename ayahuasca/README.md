@@ -77,7 +77,7 @@ While these are veritable feats of botanical research, Indigenous ways of knowin
 
 For outsider researchers hailing from the West, identifying plant species used in ayahuasca decoctions has been difficult for several reasons. Recipes are often closely guarded by Indigenous knowledge keepers and precise measurements of the ingredients are not always recorded. Additionally, Indigenous groups may classify plants according to more refined and specific criteria than Western scientists have, identifying nuanced variations in leaf shape, size, breadth, flowering patterns, psychoactive effects, as well as the guardian spirits associated with the plant.[^ref16] Indigenous groups using these complex classification systems will at times refer to the same plant species by many names or use the same name for different plants, all depending on their uses. In the case of ayahuasca, “different” species are used to create brews with varying strength and purpose.[^ref17] 
 <param ve-image region="0,570,2256,1994"
-        maniafest="https://iiif.juncture-digital.org/manifest/3349a74ae2b9f66a896d865773e86752391c960fa3a3e79a033bf58c23c8f763"
+        manifest="https://iiif.juncture-digital.org/manifest/3349a74ae2b9f66a896d865773e86752391c960fa3a3e79a033bf58c23c8f763"
         fit="cover">
 {#paragraph9}
 
