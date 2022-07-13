@@ -141,7 +141,7 @@ Today, mint varieties are cultivated in many different parts of the world. Its r
 {#paragraph19}
 
 Mint is ubiquitous perhaps because it has remained relevant across time and space. The plant reveals something of the early difficulties of botanical exchange and naming; speaks to the local and global movement of plants; exposes changes and developments in medical thought and practices over time (the changing popularity of herbal remedies for example); and continues to play a role in global consumer markets and advertising. Mint, in other words, will always be relevant for historical, cultural, and geographical studies. And as Hades called forth the plant to ensure that Minthe would never be forgotten, we too are constantly reminded of this plant as we go about our daily lives.
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/1e89411c897e85c11906213a93c7d73e70d22d07927ca1338f646ccf2448b48b">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/1e89411c897e85c11906213a93c7d73e70d22d07927ca1338f646ccf2448b48b">
 {#paragraph20}
 
 ### References
