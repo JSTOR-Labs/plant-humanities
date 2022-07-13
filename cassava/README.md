@@ -27,7 +27,7 @@ When eaten raw, cassava is likely to leave a bitter taste in one’s mouth. Wors
 How did cassava come to occupy this pride of place in the global food system? How did cassava transform from a poisonous tuber into a major food staple, and from an exclusive dweller of South America into a cosmopolitan citizen of the world? To answer these questions, this essay looks at how human interactions with cassava helped shape the plant into the significant food crop that it is today. We first look at the elaborate method of processing cassava developed by the Indigenous peoples of Meso- and South America and then turn to the codification and spread of this knowledge, facilitated by European travelers to the New World. This meeting of Indigenous and European knowledge systems, combined with cassava’s tolerance for drought, resulted in a food crop that would create new hope for global food security in the twentieth and twenty-first centuries. Furthermore, as knowledge of cassava and its specimens circulated to different parts of the world, the plant took on additional cultural meanings through novel culinary uses and artistic representations.
 <param title="tuber" eid="Q183319"> 
 <param ve-image primary fit="cover" manifest="https://iiif.juncture-digital.org/manifest/cd8c60c5606f06f52ebf4c39ad566c9d05ff31e35d7898ec6083db171fb1e483">
-<param ve-image region="2124,680,2903,1968" manifest="https://iiif.juncture-digital.org/manifest/4739704f83d8a70388c0f9852ef10cfd06ee6f5a04186f5e463b0893f87b0cf7">
+<param ve-image region="2124,680,2903,1968" label="Global distribution of cassava. Cassava’s native habitat is marked in green, and regions where cassava was introduced by humans are marked in orange." region="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/cassava/Cassava_distribution_map_4.jpg">
 {#paragraph2}
 
 ### Of Frogs and Cassava: Early Cultivation in the Andes
@@ -79,7 +79,7 @@ Some of the implements used for processing cassava include [graters, strainers o
 
 Despite the amount of work required to process cassava with high levels of cyanide, bitter cassava is more popularly cultivated than sweet cassava in the Amazon today. The indigenous Tukanoans of the Yapu village in the northern Amazon, for example, grow 100  different types of cassava, 98 of which are bitter.[^ref13] Archaeologist Warren Wilson and anthropologist Darna Dufour have demonstrated that bitter cassava yields a higher harvest than does its sweet counterpart, possibly due to its resistance to disease and insects.[^ref14] It is perhaps for this reason that bitter cassava is favored as a food crop over sweet cassava, despite the additional processing to render it edible.
 <param title="Tucanoan languages" eid="Q788144" aliases="Tukanoans">
-<param ve-image primary region="-100,64,1000,897" manifest="https://iiif.juncture-digital.org/manifest/5d2bcb26d37f96180b1e90ffa6cc29949c6fb0c0c171bcefc7b0f31aff4789fa">
+<param ve-image primary fit="contain" manifest="https://iiif.juncture-digital.org/manifest/5d2bcb26d37f96180b1e90ffa6cc29949c6fb0c0c171bcefc7b0f31aff4789fa">
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/2e643e3c9499c6b49f0707de042ca9a87e37ecd3b3d390ecb3b2373c66aa3cd9">
 {#paragraph9}
 
