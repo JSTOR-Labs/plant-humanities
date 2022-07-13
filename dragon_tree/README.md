@@ -103,8 +103,8 @@ Throughout its dissemination into European spaces from the Age of Discovery, dra
 After European colonization, and along with the integration of the Canaries into the burgeoning European sphere of influence, _D. draco_ emerged on the stage of European gardens. Botanical interest in _D. draco_ thrived, especially in the latter half of the eighteenth century. German scientist and writer Alexander von Humboldt famously fell prey to the tree’s enchanting appeal. In his last work [_Cosmos: A Sketch of a Physical Description of the Universe_](https://www.biodiversitylibrary.org/item/73407#page/30/mode/1up) (1842), he recalled the time when, as a child, he “first saw a colossal dragon tree in an old tower of the Botanical Garden in Berlin.”[^ref10] The experience was so overwhelming that Humboldt thought of it as “the source from whence sprang my early and fixed desire to visit the lands of the tropics.”[^ref11] The fact that the dragon tree bookended Humboldt’s illustrious career, as both a formative experience of his youth and a notable point in his last great work, highlights how the dragon tree itself was at the core of his understanding of nature as one interconnected whole.
 <param title="Alexander von Humboldt" eid="Q6694">
 <param title="Botanical Garden Berlin" eid="Q163255" aliases="Botanical Garden in Berlin">
-<param ve-image
-	manifest="https://iiif.juncture-digital.org/manifest/3aeb52c3ba4fe79c960ad6cc06b72422126538865f20a1fe5319d008a84a693b"
+<param ve-image label="Julius Schrader, Baron Alexander von Humboldt (1769–1859), oil on canvas, 1859, Metropolitan Museum of Art, public domain."
+	url="https://github.com/JSTOR-Labs/plant-humanities/raw/master/images/Humboldt.jpg"
 	region="179,832,3158,2303">
 <param ve-image
 	manifest="https://iiif.juncture-digital.org/manifest/663749f69e87185ec74e66477e76a24e59d82a9ff68f552915a1f18b016da69e"
@@ -115,8 +115,8 @@ After European colonization, and along with the integration of the Canaries into
 
 In 1799, as he stopped in Tenerife before his voyage to the Americas that would make him world-famous, Humboldt found himself in Orotava. While there, he visited the garden of a Monsieur Franchy and was immediately awe-struck by the sheer size and magnitude of its dragon tree—the very same tree that the Guanches had worshipped for centuries. He reported that it measured 60 feet tall and 45 feet in circumference near the roots. “We were told that the trunk of this tree,” Humboldt wrote in his [_Personal Narrative_,](https://www.biodiversitylibrary.org/item/228502#page/90/mode/1up) “which is mentioned in several ancient documents as marking the boundaries of a field, was as gigantic in the fifteenth century as it is at the present time.” According to his calculations, the specimen was undoubtedly “one of the oldest inhabitants in our world,” which called for special protection.[^ref12] Humboldt’s experience with the large _D. draco_ at Orotava was far more than the mere realization of a boyish dream, but was instead a pioneering act that inspired other European travelers to follow in his footsteps and help strengthen a global network of scientific and economic exchanges focused on plants. 
 <param title="Tenerife" eid="Q40846">
-<param ve-image
-	manifest="https://iiif.juncture-digital.org/manifest/db4ddf3476a2f42775ccb8dc3d23c5bcc71f2ae6160df17bf4b89456f5ba470e"
+<param ve-image label="Marchais, ‘Le dragonier de l’Orotava,’ in: Alexander von Humboldt, _Vue des cordillères, et monumens des peuples indigènes de l’Amerique_ (Paris: F. Schoell, 1810), vol. 2, Planche 69. Dumbarton Oaks, Courtesty of Dumbarton Oaks."
+	url="https://github.com/JSTOR-Labs/plant-humanities/blob/main/dragon_tree/Dracaena_Humboldt.jpg?raw=true"
 	region="866,1834,2130,1509">
 {#paragraph9}
 
