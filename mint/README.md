@@ -33,7 +33,7 @@ Known as the genus _Mentha_, mint is part of the Lamiaceae family (formerly Labi
 ### Religion and Mythology
 
 Mint and common hybrid species such as peppermint have long been held in high esteem. Biblical reference to mint in the [Book of Matthew](https://en.wikipedia.org/wiki/Gospel_of_Matthew) suggests that it was a plant considered of high value to be used as ‘tithes by the Pharisees along with anise and cumin’ (Matthew xxiii, 23). Reaching back to ancient Greece, where plants were entwined with mythology, Minthe was the Naiad—nymph—daughter of the underworld river <span eid="Q939218">Cocytus</span> and loved by the god Hades. When Hades’s wife, <span eid="Q45967">Persephone</span>, discovered the affair, she was driven to transform Minthe into the plant of her name:
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/a7e9c1ecf0b8bedd31ed1ad24289812f7a1436f70a85363e585614c123df1cfe">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/a7e9c1ecf0b8bedd31ed1ad24289812f7a1436f70a85363e585614c123df1cfe">
 <param ve-entity eid="Q1546353" title="Minthe">
 {#paragraph3}
  
@@ -61,8 +61,8 @@ The English gardener Jon Gardener (fl. 1400s) writes of [myntys](https://biodive
 
 Today, the common scent and flavor we associate with mint is synonymous with culinary flavor and cleanliness value, but in earlier centuries mint was valued for a broad set of therapeutic properties. In fact, the English astrologer and apothecary Nicholas Culpeper (1616–1654) believed that the [mint plant could be used to treat](https://biodiversitylibrary.org/page/36702439) over 40 different ailments. This history of its diverse uses is seen in combination with a history of troublesome plant identification through centuries of botanical literature. Herbals in the seventeenth century identify this pattern particularly well. As <span eid="Q256288">John Parkinson</span> wrote in 1640 in his [_Theatrum Botanicum, or a Theatre of Plants_](https://biodiversitylibrary.org/page/56599957) (London), [“there are many sorts of Mints,”](https://biodiversitylibrary.org/page/56599909) and listed 12 varieties including the Crosse Mint, which had “purplish colour flowers,” the “great Curld Mint of Germany,” and “Clusius his knobbed Wilde Mint,” which apparently had an [“unpleasant smell”](https://biodiversitylibrary.org/page/56599907) and the “Small round leafed wild Mint” that was considered to have a “rather strong and heady” scent that was [“not very pleasant.”](https://biodiversitylibrary.org/page/56599906) John Gerard noted in his _Generall historie of plantes_ (1633) that mint was “a marvellous wholesome for the stomach” and that it had a [“smelle rejoyceth the heart of man.”](https://archive.org/details/mobot31753000817749/page/552)
 <param ve-image region="0,1180,2075,1732" manifest="https://iiif.juncture-digital.org/manifest/04da408864487f330732f3022a6fed8da17c1cf6db99a28088efc285fc324dcc">
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/317b316476d4c1ce997dcc258697113c965b6cfdb9224da8aa27a3292db8f6b4">
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/660445adba7423efc963c522d3926c6137b29f86d25d564b4ed85e1198890167" region="516,360,1201,1470">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/317b316476d4c1ce997dcc258697113c965b6cfdb9224da8aa27a3292db8f6b4">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/660445adba7423efc963c522d3926c6137b29f86d25d564b4ed85e1198890167" region="516,360,1201,1470">
 <param ve-map title="World" basemap="Esri_WorldPhysical" center="51.520201,-0.125315" zoom="4">
 <param ve-map-layer geojson active url="/geojson/BritainYellow.geojson">
 <param ve-entity eid="Q1334667" title="Nicholas Culpeper">
