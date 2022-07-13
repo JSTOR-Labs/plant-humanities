@@ -2,47 +2,47 @@
 
 # Featured Plant Narratives {.cards}
 
-## 
-[**Cacao: Indigenous Network to Global Commodity**](/cacao)
+##
+[**Maize: Sacred Plant, Global Commodity**](/maize)
 
-- Rebecca Friedel
+- Julia Fine
 
-![](/images/thumbnails/cacao.jpg)
+![](/images/thumbnails/maize__thumbnail.jpg)
 
 ##
-[**Sunflower: Knowledge, Myth, and Meaning**](/sunflower)
+[**Black-Eyed Pea: Crop, Culture, Class**](/black_eyed_peas)
 
-- Kristan M. Hanson
+- Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan
 
-![](/images/thumbnails/Sunflower_thumbnail.jpg)
-
-##
-[**Heliconia: Evolution at Work**](/heliconia)
-
-- W. John Kress and Yota Batsaki
-
-![](/images/thumbnails/heliconia.jpg)
+![](/images/thumbnails/black_eyed_pea_1.png)
 
 ##
-[**Peony: Pretty and Powerful**](/Peony)
+[**Tamarind: From Shady Refuge to Versatile Foodstuff**](/tamarind)
 
-- Ashley Buchanan
+- Allison Fulton, Amara Santiesteban Serrano, and Jeannette Schollaert
 
-![](/images/thumbnails/Peony_Thumbnail.jpg)
-
-##
-[**Cinnamomum verum: Discovering “True” Cinnamon**](/cinnamon)
-
-- Wouter Klein
-
-![](/images/thumbnails/cinnamon.jpg)
+![](/images/thumbnails/tamarind.jpg)
 
 ##
-[**Bananas: Chaos out of Order**](/Banana)
+[**Venus Flytrap: Queen of the Carnivorous Plants**](/venus_flytrap)
 
-- Ashley Buchanan
+- John R. Schaefer
 
-![](/images/thumbnails/Banana.jpg)
+![](/images/thumbnails/venus_flytrap_thumbnail.jpg)
+
+##
+[**Ayahuasca: Amazonian Plant Lessons**](/ayahuasca)
+
+- Ashley Thuthao Keng Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson
+
+![](/images/thumbnails/ayahuasca.jpg)
+
+##
+[**Peanut: From Luxury Food to Livestock Feed**](/peanut)
+
+- Maria Job, Elizabeth Chant, and Katherine Enright
+
+![](/images/thumbnails/peanut.jpg)
 
 
 # All Plant Narratives {.cards}
@@ -60,6 +60,13 @@
 - Ashley Buchanan
 
 ![](/images/thumbnails/arbor-vitae.jpg)
+
+##
+[**Ayahuasca: Amazonian Plant Lessons**](/ayahuasca)
+
+- Ashley Thuthao Keng Dam, Diana Heredia-López, Rachael Nelson, and Erin Wrightson
+
+![](/images/thumbnails/ayahuasca.jpg)
 
 ##
 [**Bananas: Chaos out of Order**](/Banana)
@@ -155,7 +162,7 @@
 ##
 [**Pelargonium: By Any Other Name Would Smell as Sweet?**](/pelargonium)
 
-- Daisy Reid, Verónica Matallana Chaves, Yao Jiang
+- Daisy Reid, Verónica Matallana Chaves, and Yao Jiang
 
 ![](/images/thumbnails/pelargonium.jpg)
 
@@ -176,7 +183,7 @@
 ##
 [**Tamarind: From Shady Refuge to Versatile Foodstuff**](/tamarind)
 
-- Allison Fulton, Amara Santiesteban Serrano, Jeannette Schollaert
+- Allison Fulton, Amara Santiesteban Serrano, and Jeannette Schollaert
 
 ![](/images/thumbnails/tamarind.jpg)
 
