@@ -16,7 +16,7 @@ The grand and imposing hard-wood tree _Tamarindus indica_, commonly known as the
 {#paragraph1}
 
 Such contradictions have been explored through storytelling: the tree serves as creative inspiration, thematic motif, and simple theatrical site across myth, legend, and fiction.[^ref2] The tamarind got its small leaves, according to a Bihar tribal story, when the exiled Lord Rama, Lakshmana, and Sita came upon a tamarind grove, where the tree’s large leaves provided shelter. But Rama was convinced that they were meant to suffer during their exile and so he ordered Lakshmana to shoot at the leaves with his bow and arrow—the leaves have been split ever since.[^ref3]
-<param ve-image region="10,3,824,751" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/tamarind_leaves_Flicker_CC_BY_SA_2.0.png?raw=true" label="Tamarind leaves, 2010." attribution="Jyothish Kumar, Flickr" license="Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)">
+<param ve-image region="10,3,824,751" manifest="https://iiif.juncture-digital.org/manifest/8509add5e8fbed9187bd94090e37d8c92e84acf128d59d8793c6bc360a3cd163">
 <param ve-entity eid="Q1165" title="Bihar">
 <param ve-entity eid="Q160213" title="Rama" aliases="Lord Rama">
 <param ve-entity eid="Q917687" title="Lakshmana">
@@ -83,7 +83,7 @@ This is the case for the <span data-mouseover-image-zoomto="1072,3109,1345,1166"
 {#paragraph8}
 
 As one of the largest trees in India, tamarinds have been incorporated into garden designs as a source of shade since the Mughal dynasty. Rooted in Persian traditions, Mughal gardens, called _charbaghs_ (fourfold gardens), were characterized by ornate fountains and water systems.[^ref10] The tamarind tree was often found in gardens like those built in Lahore by Emperor Babur’s son, Kamran Mirza. Centuries later, during British colonial rule of the Indian subcontinent, tamarind trees were used in gardens and along roadsides by high-ranking officers. At the turn of the nineteenth century, though his plans were never realized, Governor-General of India Lord Wellesley attempted to line a section of the Great Trunk Road from a palace in Barrackpore to the Government House in Calcutta, with tamarind, mango, peepul, and teak trees.[^ref11]
-<param ve-image fit="contain" label="Bishndas, Babur supervising the laying out of a Kabul garden, Bãburnãma, c. 1590, opaque watercolor on paper, 21.7 × 14.3 cm." attribution="Victoria and Albert Museum" license="©Victoria and Albert Museum, London" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/Babur_supervising_laying_out_Victoria_Albert_Mus_copyright_Victoria_Albert_Museum.jpg?raw=true">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/5c735396574ddd0e323d705d2e684148e2774cba754ff2d9306aa30bff5f5bbc">
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/88c34809e373bf709f2a11b102e2688e6a26536273dbd7868bd587921609b49c">
 <param ve-entity eid="Q2429892" title="Mughal gardens">
 <param ve-entity eid="Q11739" title="Lahore">
@@ -130,7 +130,7 @@ In its mature state, the tamarind tree’s vast crown is a place of refuge. Beca
 
 ### Seeds and Pods
 Tamarind seeds are as versatile as they are valuable. When pilgrims flocked to the desert to meet Khorasan mystic poet and saint Abu Said (1305–1335), they paid good sums to obtain seeds from the tamarind tree he sat beneath.[^ref17] Tamarind seeds are consumable in a number of ways: after they are soaked to remove the seed coat, they can be roasted, boiled, fried, or ground.[^ref18] In Thailand, the ground seeds are used as a coffee substitute.[^ref19] In Ayurvedic medicine, the shells of the tamarind pods are burned to create an “alkaline ash” to then be used in other recipes.[^ref20] In addition to its culinary uses, the seeds can be made into a powder that is used in the textile and paper industries.[^ref21] In India, [Saura tribal painting](https://en.wikipedia.org/wiki/Saura_painting#Paintings) in Orissa (now called Odisha) uses the tamarind seed’s natural brown hue to dye the background of paintings. Likewise, black lacquer, referred to as tamarind-seed script, was and continues to be used to create embellished Burmese characters in religious Pali texts like the _Kammavaca_, a decorative manuscript that details monastic duties.[^ref22]
-<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/8d713bc7bbfa6742fb9354c239599b0bf51fbeb650e6aeebc0346ceb19d73a10" license="public domain" url="https://github.com/JSTOR-Labs/plant-humanities/blob/staging-3/tamarind/tamarind_pod_Nat_Ag_Lib_public_domain.png?raw=true"> 
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/8d713bc7bbfa6742fb9354c239599b0bf51fbeb650e6aeebc0346ceb19d73a10"> 
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/ddf44f7d763a051e539751a98cda47d6765485ee80cf6242fa16f0347f4bf7db">
 <param ve-entity eid="Q22048" title="Orissa">
 <param ve-entity eid="Q36727" title="Pali">
