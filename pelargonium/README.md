@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config
        title="Pelargonium: By Any Other Name Would Smell as Sweet?"
-       author="Daisy Reid, Verónica Matallana Chaves, Yao Jiang"
+       author="Daisy Reid, Verónica Matallana Chaves, and Yao Jiang"
        source-image="blob:null/350ec559-ab4d-204b-ad69-901393a2d9adhttps://www.biodiversitylibrary.org/item/53838#page/149/mode/1up"
        banner="https://ids.lib.harvard.edu/ids/iiif/435776338/full/full/0/default.jpg"
        eid="Q105749227"
