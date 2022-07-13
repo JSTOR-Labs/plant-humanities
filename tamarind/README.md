@@ -16,7 +16,7 @@ The grand and imposing hard-wood tree _Tamarindus indica_, commonly known as the
 {#paragraph1}
 
 Such contradictions have been explored through storytelling: the tree serves as creative inspiration, thematic motif, and simple theatrical site across myth, legend, and fiction.[^ref2] The tamarind got its small leaves, according to a Bihar tribal story, when the exiled Lord Rama, Lakshmana, and Sita came upon a tamarind grove, where the tree’s large leaves provided shelter. But Rama was convinced that they were meant to suffer during their exile and so he ordered Lakshmana to shoot at the leaves with his bow and arrow—the leaves have been split ever since.[^ref3]
-<param ve-image region="10,3,824,751" manifest="https://iiif.juncture-digital.org/manifest/8509add5e8fbed9187bd94090e37d8c92e84acf128d59d8793c6bc360a3cd163">
+<param ve-image region="1,64,823,749" url="https://github.com/JSTOR-Labs/plant-humanities/blob/main/tamarind/tamarind_leaves.png?raw=true" label="Tamarind leaves" label="Tamarind leaves, 2010. Jyothish Kumar P.G, Flickr, CC BY-SA 2.0.">
 <param ve-entity eid="Q1165" title="Bihar">
 <param ve-entity eid="Q160213" title="Rama" aliases="Lord Rama">
 <param ve-entity eid="Q917687" title="Lakshmana">
