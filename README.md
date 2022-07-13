@@ -162,7 +162,7 @@
 ##
 [**Pelargonium: By Any Other Name Would Smell as Sweet?**](/pelargonium)
 
-- Daisy Reid, Verónica Matallana Chaves, Yao Jiang
+- Daisy Reid, Verónica Matallana Chaves, and Yao Jiang
 
 ![](/images/thumbnails/pelargonium.jpg)
 
