@@ -72,10 +72,10 @@ In 1644, and a testament to peony’s long history as an important medicinal sim
 
 ### Peony in Western Medicine
 Peony has an equally long history of medicinal use in Europe. In his herbal, _de Materia Medica_, the Greek physician Dioscorides identified two types of peonies used in medicine: the male and female peony. Today these are identified as _Paeonia mascula_ and _Paeonia officinalis_, respectively. According to Pietro Andrea Mattioli’s 16th century commentary on _de Materia Medica_, Dioscorides prescribed giving the dry root of _P. officinalis_ to women to provoke menstruation (an emmenagogue) and to treat kidney and bladder discomfort, among several other gynecological ailments. The Roman naturalist, Pliny the Elder, also recommended _P. officinalis_ for “female diseases,” stating, [“One great remedy for all female diseases in common, is the black seed of the herbaceous plant pæonia.”](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:latinLit:phi0978.phi001.perseus-eng1:26.90) 
-<param ve-image
+<param ve-image fit="contain"
        title="Mattioli, i discorsi, pg. 964"
        url="https://www.biodiversitylibrary.org/pageimage/51722142">
-<param ve-image
+<param ve-image fit="contain"
        title="Mattioli, i discorsi, pg. 965"
        url="https://www.biodiversitylibrary.org/pageimage/51722143">
 <param ve-entity eid="Q82778" title="Pliny the Elder">
