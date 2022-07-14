@@ -37,7 +37,7 @@ The center of imperial peony cultivation was in <span data-mouseover-map-flyto="
 {#paragraph4}
 
 While peonies have a long history of appreciation and cultivation as ornamental garden plants in Chinese as well as <span eid="Q3114508">Islamic gardens</span>, in western Europe they mainly were valued for their utility. Over the course of the sixteenth century that changed, when <span eid="Q12560">Ottoman</span> floriculture introduced numerous ornamental flowers to the gardens of Europe, including hyacinths, narcissi, peonies, and most famously, <span eid="Q219217">tulips</span>.[^2] It was not until the end of the eighteenth century, that Europeans would begin intensively breeding ornamental peonies.
-<param ve-image manifest="https://ids.si.edu/ids/manifest/FS-7258_37">
+<param ve-image fit="contain" manifest="https://ids.si.edu/ids/manifest/FS-7258_37">
 {#paragraph5}
 
 In 1789, famed British naturalist <span eid="Q153408">Sir Joseph Banks</span> acquired a “moutan peony tree” (<span eid="Q163076">_Paeonia lactiflora_</span>, left) from Canton, China, through his connections with the <span eid="Q83164">British East India Company</span>. Surviving the arduous journey to Britain, it was planted in the Royal Botanic Garden, Kew. Other peonies from China soon followed, ushering in something of a peony craze in Europe as, thanks to centuries of cultivation, Chinese peonies were larger, fuller, and more fragrant than native European varieties. Peonies became increasingly popular as French, English, and American horticulturists began developing ornamental varieties of their own from these exotic imported peony cultivars.[^3]
