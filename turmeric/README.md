@@ -17,7 +17,7 @@
 ### Merit of the Earth? 
 Turmeric’s status as a valuable medicinal plant has long been mythologized. Indeed, many juggernauts, including the _Oxford English Dictionary_, suggest that its etymology stems from an adulteration of the French trade-name “terre mérite.” Dr. William Guthrie, in a 2008 article, all but proved this etymology to be spurious, but it nonetheless illustrates how turmeric has been seen across the centuries: as a plant of extreme value (mérite) from the earth (la terre).[^ref1]
 <param eid="Q42562">
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/34a6c7231aa39a8da89dcc3e16b1e712a1735fd8bbded9fa63e9ce11612ccc2e">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/34a6c7231aa39a8da89dcc3e16b1e712a1735fd8bbded9fa63e9ce11612ccc2e">
 {#paragraph1}
 
 While the “mérite”, as Dr. Guthrie noted, most likely refers to the spice’s medicinal value, turmeric has been held in high esteem for many other reasons. As the long history of turmeric and its consumption reveals, its distinctive color and taste were integral parts of the mechanism through which British men and women could perform the ideological work of empire, or, in the words of historian Susan Zlotnick, “neutralize the threat of the Other by naturalizing the products of foreign lands.”[^ref2]
@@ -77,7 +77,7 @@ As [Cargo Sheets](https://hamnet.folger.edu/cgi-bin/Pwebrecon.cgi?Search_Arg=214
 {#paragraph9}
 
 Turmeric’s popularity as a medicinal agent seems to have decreased by the early nineteenth century. In Robert John Thornton’s 1810 work, [_A Family Herbal,_](https://www.biodiversitylibrary.org/item/250671#page/7/mode/1up) he notes the fallacious nature of the claim that turmeric could cure jaundice, writing, “from an ignorant suspicion that the jaundice was to be cured by whatever produced a yellow colour, that is, I suspect, seeing the bile diffused into the habit, from obstruction of passage of the gall-duct, these yellow remedies were used to supply its place, just as the yolks of eggs are used in the same complaint.” He continues, writing that, turmeric “posses[es] only slender virtue.” An [1817 medicinal dictionary](https://books.google.com/books?id=uWNZAAAAIAAJ&newbks=1&newbks_redir=0&dq=A%20New%20Medical%20Dictionary%3A%20Containing%20an%20Explanation%20of%20the%20Terms%20in%20Anatomy&pg=PP1#v=onepage&q&f=false) echoes this assessment of turmeric’s change in status: “it is now very seldom used medicinally” and is mainly used as “an ingredient in the composition of Curry Powder,” as well as a dye. From the 1800s on, turmeric was thus chiefly employed in the West as a culinary and dyeing agent. What was the significance of this use, and how did it function discursively in the broader age of empire?
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/15b4aef3c3d90064c08f565d51d2c6a28ca5d0b57587e3f0074fb3f48e738e80">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/15b4aef3c3d90064c08f565d51d2c6a28ca5d0b57587e3f0074fb3f48e738e80">
 <param title="Robert John Thornton" eid="Q5928444" aliases="Thornton's|Thornton’s">
 {#paragraph10}
 
@@ -92,8 +92,8 @@ Other recipes make the use of turmeric as a coloring agent even more explicit. S
 {#paragraph12}
 
 The use of turmeric within the broader pantheon of curry powder spices did more than bring the exotic to Britain—it also worked to, in the words of  Zlotnick, “domesticate” the exotic.[^ref10] As Zlotnick notes, Eliza Acton, one of the most influential English cookery authors, wrote in her 1845 work _Modern Cookery_ of curries of allegedly English origin, claiming that, with “plain” English dishes “we have intermingled many others which we know to be excellent of their kind, and which now so far belong to our national cookery, as to be met with commonly at all refined modern tables.” Acton makes explicit the notion of bringing foreign dishes into the fold of English national cuisine by including a recipe for turmeric-laden curry powder. In the cookbook’s section on curries, she discusses British “potted meats,” and how presumed Indian dishes and spices intermingle with British dishes to bring India into the fold of Greater Britain.  
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/aa25adca513ae6184966266a9a598bb56722c333052aa63ae876c2582875a506">
-<param ve-image manifest="https://iiif.juncture-digital.org/manifest/aa25adca513ae6184966266a9a598bb56722c333052aa63ae876c2582875a506">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/aa25adca513ae6184966266a9a598bb56722c333052aa63ae876c2582875a506">
+<param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/9fbbf553a48572b6b7e827e9ecc84a2a27d88b1284f515a8ce29de2f063aa532">
 <param title="Eliza Acton" eid="Q542825" aliases="Acton">
 {#paragraph13}
 
