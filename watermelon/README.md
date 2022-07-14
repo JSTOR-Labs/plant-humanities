@@ -41,8 +41,8 @@ The precise historical origins of the watermelon are obscured by its broad geogr
 {#paragraph2}
 
 In Africa’s arid savanna regions, watermelons were originally welcomed as sources of liquid, their flesh generally being cooked or beaten to a pulp to extract the juice. In the Kalahari Desert in southern Africa, the multiple uses of the flesh, rind, and seeds that were eaten fresh, cooked, and dried also helped some population groups to remain sedentary and hydrated throughout both wet and dry seasons.[^ref5] As they became domesticated, watermelons were bred to yield softer and sweeter flesh and exclude such less desirable traits as the mucilaginous egusi seeds or the hard, bitter flesh of the citron melon, although western and southern African cuisines still make use of them today.[^ref6]
-<param ve-image label="Kalahari watermelon. GBIF."
-	url="https://free.iiifhosting.com/iiif/cff3c93c7fec2f837594328d807cd12196735ee3b5ed826cf69b422ddcfc4617/"
+<param ve-image label="Kalahari watermelon. GBIF, https://api.gbif.org/, copyright unknown."
+	url="https://github.com/JSTOR-Labs/plant-humanities/blob/main/watermelon/GBIF_Kalahari_watermelon_copyright_unknown.png?raw=true"
 	region="194,69,1707,1263">
 <param title="Kalahari Desert" eid="Q47700">
 {#paragraph3}
