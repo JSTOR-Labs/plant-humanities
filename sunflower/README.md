@@ -160,9 +160,9 @@ Contrary to what is most often portrayed in visual and verbal descriptions of su
 <param ve-entity eid="Q181916" title="herbarium">
 <param ve-entity eid="Q4886" title="cultivar" aliases="cultivars">
 <param ve-image primary label="‘Strawberry Blonde’ Sunflower, Dwight Sipler, Stow, MA. Dwight Sipler, Flickr via Wikimedia Commons, CC BY 2.0." url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg/681px-Sunflower_%22Strawberry_Blonde%22_%283931552086%29.jpg">
-<param ve-plant-specimen eid="Q171497" max="1">
-<param ve-plant-specimen eid="Q12212017" max="1">
-<param ve-plant-specimen eid="Q146190" max="1">
+<param ve-image region="0,394,6823,6069" manifest="https://iiif.juncture-digital.org/manifest/1f86dc2042dbecb46b5f94589b0a343aba1081a9233f17881c9991af7303ef50">
+<param ve-image region="0,1731,6793,6042" manifest="https://iiif.juncture-digital.org/manifest/8c69d87dc4ae45cef05194899cf746c1f2c1e399a01dab11fd80ad4a529d60b9">
+<param ve-image region="0,54,6144,5465" manifest="https://iiif.juncture-digital.org/manifest/8b80d82f825daae6b1a3d6926cb3d23080c942e7ee0fa6909417fc0c9719a2d4">
 {#paragraph18}
 
 Sunflower seeds also exhibit variations in size, color, and markings. Whole seeds—comprising a kernel and a husk—can be solid black or gray and have a stripe pattern. For hundreds of years, the Native American Hopi tribe in the southwest has cultivated [sunflowers with deep purple seeds](https://www.nativeseeds.org/pages/hopi-black-dye-sunflower) that appear black and shiny.[^ref31] They use the seeds to create dark blue and purple dyes for coloring wools and vegetal fibers that are in turn used to make [weavings or baskets.](https://scalar.usc.edu/works/american-indian-film-archive/hopi-arts-and-crafts?path=hopi-southwest-indians) The processes of cultivating, harvesting, and boiling seeds to produce dye for basketry exemplify a rich tradition of tribal plant knowledge that is interwoven with cultural and spiritual beliefs. Indigenous peoples of North America also [use(d) sunflowers in a variety of ways](http://naeb.brit.org/uses/search/?string=sunflower) including as a source of food, fuel, pigment, and medicine, as well as ceremonially.
