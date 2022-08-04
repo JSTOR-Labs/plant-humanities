@@ -76,7 +76,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 ## Timeline
 
 We recommend using a [Knight Lab Timeline](https://timeline.knightlab.com/) visualization to provide in-depth information about a specific topic that would otherwise interrupt the flow of the narrative. Beginners can create a timeline using nothing more than a Google spreadsheet. The new version of Timeline supports the many [media types.](https://timeline.knightlab.com/docs/media-types.html)
-<param ve-knightlab-timeline source="1Fa2DWfjiq1scmC7Ffv4kF5kDfUwDTRftNfjwt0jNdv0&">
+<param ve-knightlab-timeline source="1pOvBchknJtZzMD5pWR-igdOYcalX7Jfn2bun6TwAOVI&">
 
 ## Map with Geospatial Data
 
