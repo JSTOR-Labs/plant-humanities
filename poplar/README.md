@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config 
+<param ve-config
        title="Poplar"
        author="May Wang"                                banner="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Trembling_aspen_%28Populus_tremuloides%29_-_panoramio.jpg/1024px-Trembling_aspen_%28Populus_tremuloides%29_-_panoramio.jpg"
        layout="vertical">
