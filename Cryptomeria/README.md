@@ -172,8 +172,8 @@ In the 1980s, the value of hardwood tree species such as _Cryptomeria japonica_ 
        license="Public Domain"
        source="https://commons.wikimedia.org/wiki/File:Parque_Florestal_da_Mata_da_Serreta,_Interior_da_ilha_Terceira,_A%C3%A7ores,_Portugal.JPG">
 
-<param ve-map basemap="Esri_WorldPhysical">
-<param ve-map layer geojson url="map.geojson.json">
+<param ve-map center="48.59265734556986, 56.25821386119582" basemap="Esri_WorldPhysical">
+<param ve-map layer geojson url="map.geojson.json"> 
 
 While the economic promises came up short, the idea of restoring the green archipelago seemingly was met. Japan’s timber market came to rely on pollution exports from less wealthy countries while maintaining its national forests. But the artificially planted forests host a different environmental issue: undercutting and over-forestation. Conversations around forestry’s lack of financial success has been framed as a personal failing, or blame the undercutting of the international market, largely ignoring the role of national reforestation efforts after World War II.[^30] 
 
