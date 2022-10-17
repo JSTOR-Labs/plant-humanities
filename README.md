@@ -52,7 +52,7 @@
 ![](/images/thumbnails/Dioscorea.jpeg)
 
 ##
-[*Cryptomeria japonica: Climate Change, Cultivation, and Culture**](/Cryptomeria)
+[**Cryptomeria japonica: Climate Change, Cultivation, and Culture**](/Cryptomeria)
 
 - Kira Bre Clingen and Edyth Jostol
  
@@ -131,7 +131,7 @@
 ![](/images/thumbnails/cinnamon.jpg)
 
 ##
-[*Cryptomeria japonica: Climate Change, Cultivation, and Culture**](/Cryptomeria)
+[**Cryptomeria japonica: Climate Change, Cultivation, and Culture**](/Cryptomeria)
 
 - Kira Bre Clingen and Edyth Jostol
  
