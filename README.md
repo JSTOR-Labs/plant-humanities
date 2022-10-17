@@ -51,6 +51,12 @@
  
 ![](/images/thumbnails/Dioscorea.jpeg)
 
+##
+[*Cryptomeria japonica: Climate Change, Cultivation, and Culture**](/Cryptomeria)
+
+- Kira Bre Clingen and Edyth Jostol
+ 
+![](/images/thumbnails/Cryptomeria.jpeg)
 
 # All Plant Narratives {.cards}
 
@@ -123,6 +129,13 @@
 - Wouter Klein
 
 ![](/images/thumbnails/cinnamon.jpg)
+
+##
+[*Cryptomeria japonica: Climate Change, Cultivation, and Culture**](/Cryptomeria)
+
+- Kira Bre Clingen and Edyth Jostol
+ 
+![](/images/thumbnails/Cryptomeria.jpeg)
 
 ##
 [**Dittany: Women’s Herbs and Reproductive Control**](/Dittany)
