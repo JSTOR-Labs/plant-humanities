@@ -44,6 +44,13 @@
 
 ![](/images/thumbnails/peanut.jpg)
 
+##
+[**Wild Yam: The Rhizome of the Pill**](/wild_yam)
+
+- Kira Bre Clingen
+
+![](/images/thumbnails/Dioscorea.jpeg)
+
 
 # All Plant Narratives {.cards}
 
