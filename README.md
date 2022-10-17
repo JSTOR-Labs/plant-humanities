@@ -45,7 +45,7 @@
 ![](/images/thumbnails/peanut.jpg)
 
 ##
-[**Wild Yam: The Rhizome of the Pill**](/wild_yam)
+[**Wild Yam: The Rhizome of the Pill**](/Dioscoreavillosa)
 
 - Kira Bre Clingen
  
@@ -217,7 +217,7 @@
 
 
 ##
-[**Wild Yam: The Rhizome of the Pill**](/wild_yam)
+[**Wild Yam: The Rhizome of the Pill**](/Dioscoreavillosa)
 
 - Kira Bre Clingen
  
