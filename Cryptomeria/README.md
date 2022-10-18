@@ -27,6 +27,9 @@ The Japanese cedar's cultural significance is well-documented throughout history
        label="A single Japaese cedar rising over 100 feet. Image by authors, 2019." 
        license="Image by authors, no permissions needed"
        url="https://upload.wikimedia.org/wikipedia/commons/8/81/Cryptomeria_japonica_specimen.jpg">
+      
+<param ve-map center="19.069696020398823, 72.89789601441875" zoom="2" basemap="Esri_WorldPhysical">
+<param ve-map layer geojson url="data.json"> 
 
 
 ### All in the Family 
