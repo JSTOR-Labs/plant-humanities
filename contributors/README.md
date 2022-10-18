@@ -38,6 +38,13 @@ Ashley Buchanan is the Postdoctoral Fellow for the Plant Humanities Initiative a
 Matallana Chaves’s undergraduate thesis research focuses on the history of textile work in Colombia and the use of natural fibers with a botanical-historical approach. Given the country’s sociocultural diversity, material cultural objects with an artisan trajectory play a key role in the consolidation of identities and symbolic networks. Although these objects have a consolidated historical trajectory, their agency has been changing as they have been touched by the dynamics of conservation, commodification, and resignification. Her work brings these points of tension and breakdowns in craft traditions to the surface. Chaves is in her third year of the undergraduate program in history at the Universidad Nacional de Colombia, where she has participated in projects on digital history, environmental history, and oral history and memory. She is currently part of the Public and Digital History group and is linked to the Laboratory of Historical Cartography and Digital History.
 
 ##
+**Kira Bre Clingen**
+
+![](Clingen.jpg)
+
+Kira Clingen is a Lecturer in Landscape Architecture at the Harvard Graduate School of Design, and a Research Associate at the Office for Urbanization. She is the project lead on Compound Vulnerabilities: The Case of Cape Ann, which uses scenario planning for climate change on the north shore of coastal Massachusetts. She holds a Masters in Landscape Architecture and Masters in Design Studies from Harvard, and a B.S. in Ecology and Evolutionary Biology and B.A. in Asian Studies and Environmental Policy from Rice University. She was awarded a 2016 Thomas J. Watson Fellowship to study climate change in Mauritius and Myanmar. Her current research focuses on climate literacy in landscape architecture, and climate change preparedness. 
+
+##
 **Christina Emery**
 
 ![](Emery.jpg)
@@ -79,6 +86,13 @@ Rachel Hirsch is a PhD candidate in history of art and architecture at Harvard U
 ![](Jiang.jpg)
 
 Jiang’s research explores the reinterpretation and reintroduction of the Chinese garden into modern discourse as a critical instrument to document China’s continuous cultural traditions. He is interested in the construction material exchanges and flows of the Chinese garden and its social and cultural relations, especially the introduction and cultivation of Chinese plants into the United States in the late twentieth century. For his thesis, Jiang is focusing on how the Astor Chinese Garden Court in the Metropolitan Museum of Art reshaped America’s understanding of the Chinese garden using several lenses, including the field of plant humanities. Jiang is a master student in architectural history at the University of Virginia. He holds a Bachelor of Art in environmental design from Tongji University. Jiang has served as the teaching assistant for the Sustainability Consciousness course at Tongji University (fall 2018) and the Metropolis course at UVA (spring 2020). He has recently been selected as a 2020 recipient of the Student Research Grant from the School of Architecture for his thesis project. Jiang is currently a part-time daily translator and editor to the ArchDaily China platform and serves as a research assistant to Andrew Johnston for his book project on preservation practice in China.
+
+##
+**Edyth Jostol**
+
+![](Jostol.jpg)
+
+Edyth Jostol is a designer based in Seattle.  She received her Masters in Landscape Architecture from Harvard's Graduate School of Design, where her work focused on urban biodiversity, collective action and climate adaptation. She has previously worked at design firms in New York, Cambridge and DC, contributing to landscape projects of various scales. 
 
 ##
 **Cati Kalinoski**
