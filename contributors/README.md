@@ -125,7 +125,7 @@ Lawrence’s research explores the sociopolitical lives of flowers in Victorian 
 ##
 **Lucas Mertehikian**
 
-![](Mertehikian.jpg)
+![](Mertehikian.jpeg)
 
 Mertehikian’s research offers a new lens on how to look at Latin American identity and its cultural and political relation with the United States with a focus on collecting efforts carried out by American scientists, diplomats, and scholars from the 1840s to the 1970s. Specifically, he analyzes three collections as case studies: Harvard University’s Latin American botanical collection, Dumbarton Oaks’s Pre-Columbian art collection, and Princeton University’s Latin American literary manuscripts collection. His current work examines how American botanist Asa Gray first took an interest in Latin American nature in the nineteenth century and the political implications that informed his collection of Latin American specimens. Mertehikian is a PhD candidate in Romance languages and literature at Harvard University. He holds a licenciatura in literature from the Universidad de Buenos Aires and a master’s in Latin American Studies from the Universidad Nacional de Tres de Febrero, both in Argentina. In 2018, he cocurated the exhibition Passports: Lives in Transit at Houghton Library, which was featured in the Boston Globe, the Harvard Gazette, and the Armenian Spectator, among other publications.
 
