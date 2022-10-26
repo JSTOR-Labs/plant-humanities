@@ -360,7 +360,7 @@
           : []
         let sponsor = sponsors.length > 0 ? sponsors[0] : ''
 
-        let publishDate = claims['P577'] ? claims['P953'][0].mainsnak.datavalue.value.time.slice(1,5) : '2022'
+        let publishDate = claims['P577'] ? claims['P577'][0].mainsnak.datavalue.value.time.slice(1,5) : '2022'
 
         let accessDate = new Date()
         let url = claims['P953'] ? claims['P953'][0].mainsnak.datavalue.value : ''
