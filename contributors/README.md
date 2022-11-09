@@ -137,6 +137,13 @@ Mertehikian’s research offers a new lens on how to look at Latin American iden
 Dr. Victoria Pickering is a Research Associate in the Plant Humanities Initiative, having been a Research Fellow at Dumbarton Oaks  between 2019-2020. Previously, she researched the global movement of plants from the late seventeenth century onward at the British Museum and the Natural History Museum in London. Today, she continues to explore the collection, description, management, and use of natural history objects in the early modern period.
 
 ##
+**Haley Price**
+![](Price.jpg)
+
+Haley Price is a History Ph.D. student at Brown University and the Digital Humanities Specialist for UT Austin’s JapanLab. She studied History and Humanities as an undergraduate at UT Austin, where she engineered her own interdisciplinary degree plan to create educational history-based video games. This study culminated in The Pazzi Conspiracy, which aims to teach students about patronage and power in 15th-century Florence. Price is interested in the relationship between power, piety, and patronage in renaissance Italy as well as making history education more accessible through interactive digital media. She was a Summer Plant Humanities fellow at Dumbarton Oaks in 2021.
+
+
+##
 **Daisy Reid**
 
 ![](Reid.jpg)
