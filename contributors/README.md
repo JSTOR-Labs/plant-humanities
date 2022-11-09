@@ -144,6 +144,12 @@ Dr. Victoria Pickering is a Research Associate in the Plant Humanities Initiativ
 Daisy Reid is a graduate student in comparative literature at the University of Southern California, with a research focus on contemporary speculative and ecological fictions in conversation with critical race, queer, and feminist theory. She holds a BA in French and Italian from University College London and an MA in comparative literature from the University of Amsterdam. Her current work explores literary and artistic representations of plant-being as they come to bear upon (bio)political structures surrounding gender, sexuality, erotics, and desire.
 
 ##
+**Jeannette Schollaert**
+![](Schollaert.jpg)
+
+Jeannette Schollaert is a doctoral candidate in English at the University of Maryland, College Park. Her dissertation, tentatively titled “From Censors to Shouts: Ecologies of Abortion in American Fiction,” traces the literary history of herbal abortifacients in relation to emerging medical technologies in American fiction from the nineteenth century to the present. She holds a BA in English and Women’s Studies from Chatham University in Pittsburgh, PA and an MA in English with a specialization in Women’s and Gender Studies from the University of Nebraska-Lincoln.
+
+##
 **Melinda Susanto**
 
 ![](Susanto.jpg)
