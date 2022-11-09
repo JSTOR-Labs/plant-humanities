@@ -139,7 +139,7 @@ Dr. Victoria Pickering is a Research Associate in the Plant Humanities Initiativ
 ##
 **Haley Price**
 
-![](Price copy.jpg)
+![](Price.jpg)
 
 Haley Price is a History Ph.D. student at Brown University and the Digital Humanities Specialist for UT Austin’s JapanLab. She studied History and Humanities as an undergraduate at UT Austin, where she engineered her own interdisciplinary degree plan to create educational history-based video games. This study culminated in The Pazzi Conspiracy, which aims to teach students about patronage and power in 15th-century Florence. Price is interested in the relationship between power, piety, and patronage in renaissance Italy as well as making history education more accessible through interactive digital media. She was a Summer Plant Humanities fellow at Dumbarton Oaks in 2021.
 
