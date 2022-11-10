@@ -66,6 +66,13 @@ Julia Fine is a graduate student at the University of Cambridge studying Modern 
 Rebecca Friedel focuses on the cultural histories of plants from the Americas as a Plant Humanities Research Associate with Dumbarton Oaks. Friedel is also a paleoethnobotanist and PhD candidate in Anthropology at the University of Texas at San Antonio. Her doctoral research takes an interdisciplinary approach to reconstructing ancient Maya human-plant relationships. She is currently a U.S. Fulbright Scholar at the University of Belize where she is teaching under and establishing a BA program in Anthropology. She is passionate about education and improving access to knowledge more broadly, having co-founded an educational outreach 501c3 organization, Heritage Education Network Belize.
 
 ##
+**Allison Fulton**
+
+![](Fulton.jpg)
+
+Allison Fulton is an English Ph.D. Candidate at the University of California Davis with a Designated Emphasis in Science and Technology Studies. Her dissertation examines how nineteenth-century American scientific disciplines were brought to form through gendered and racialized craftwork technologies. Recently, she participated in the residential course “Pioneers of Natural History” at the Oak Spring Garden Foundation and exhibited an artists’ book at the UC Davis Manetti Shrem Museum of Art Graduate Exhibition. Her work has been generously supported by the American Antiquarian Society and the Winterthur Library. 
+
+##
 **Kristan M. Hanson**
 
 ![](Hanson_300x300.jpg)
@@ -150,6 +157,13 @@ Haley Price is a History Ph.D. student at Brown University and the Digital Human
 ![](Reid.jpg)
 
 Daisy Reid is a graduate student in comparative literature at the University of Southern California, with a research focus on contemporary speculative and ecological fictions in conversation with critical race, queer, and feminist theory. She holds a BA in French and Italian from University College London and an MA in comparative literature from the University of Amsterdam. Her current work explores literary and artistic representations of plant-being as they come to bear upon (bio)political structures surrounding gender, sexuality, erotics, and desire.
+
+##
+**Amara Sansiesteban Serrano**
+![](Serrano.jpg)
+
+Amara Santiesteban is a biologist specializing in botany from the Autonomous University of Madrid (Spain). She holds an MSc in Tropical Biodiversity and Conservation, where she entered the world of Plant Humanities by studying the expedition of the XVIII century naturalist Alexander von Humboldt to the Canary Islands (Spain). Santiesteban was also granted during this period a JAE Intro fellowship at the Royal Botanical Garden of Madrid, where she was given the opportunity to untangle the complex taxonomy of the tropical plant family of the Brazil nut (Bertholletia excelsa, Lecythidaceae). Currently, she has been awarded a Ph.D. contract to conduct her research on the effects of wildfires on mycorrhizal fungi and their impact on plants, but she is determined to keep on working on a multidisciplinary approach of plant sciences where the local knowledge, art, literature, and naturalism walk side by side. The Dumbarton Oaks Summer Program provided the perfect ground for this young researcher to take off in this new stage of her academic career.
+
 
 ##
 **Jeannette Schollaert**
