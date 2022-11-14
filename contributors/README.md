@@ -79,6 +79,12 @@ Allison Fulton is an English Ph.D. Candidate at the University of California Dav
 
 Kristan M. Hanson is a Plant Humanities Fellow at Dumbarton Oaks. She is an art historian of nineteenth-century France, with a particular focus on depictions of women, ornamental plants, and spaces of horticultural labor and leisure. She received her PhD in art history from the University of Kansas in 2020. Her research interests include visual portrayals of plants and human-plant interactions; cultural associations of flowers and floral imagery with social markers of difference; horticultural trade networks, colonialism, and intimacy; and artistic engagements with environmental issues. Her dissertation applied digital humanities methods and tools to the study of horticultural art, plant mobility, and gendered spatial practices in the context of 1870s Paris. She has received fellowships and awards from the Oak Spring Garden Foundation, HASTAC Scholars program, and the Hall Center for the Humanities. Most recently, she coedited the exhibition catalogue _Perspectives on a Legacy Collection: Sallie Casey Thayer’s Gift to the University of Kansas_ (2020).
 
+##Diana Heredia-López
+
+![](Heredia.jpg)
+
+Diana Heredia-López is Ph.D. Candidate in the Department of History at the University of Texas at Austin. She holds a B.Sc. in Biology from the National Autonomous University of Mexico (UNAM). Originally trained as a biologist and historian of science, her guiding interests are the study and use of nature in Latin America and their repercussions on material culture and the environment. During her graduate studies she has explored different methodologies to incorporate new voices into global histories of science, commerce, and consumption. Diana’s dissertation project focuses on early colonial dye cultivation and its local producers and traders in Central and Southern Mexico. It explores the social and material culture implications of  large-scale dye cultivation for its producers and its connections to transatlantic commerce.  Her ongoing research has been funded by the Tinker Foundation, the Teresa Lozano Long Institute of Latin American Studies, and the Mellon Foundation.
+
 ##
 **Rachel Hirsch**
 
