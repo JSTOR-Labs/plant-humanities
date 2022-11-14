@@ -79,7 +79,8 @@ Allison Fulton is an English Ph.D. Candidate at the University of California Dav
 
 Kristan M. Hanson is a Plant Humanities Fellow at Dumbarton Oaks. She is an art historian of nineteenth-century France, with a particular focus on depictions of women, ornamental plants, and spaces of horticultural labor and leisure. She received her PhD in art history from the University of Kansas in 2020. Her research interests include visual portrayals of plants and human-plant interactions; cultural associations of flowers and floral imagery with social markers of difference; horticultural trade networks, colonialism, and intimacy; and artistic engagements with environmental issues. Her dissertation applied digital humanities methods and tools to the study of horticultural art, plant mobility, and gendered spatial practices in the context of 1870s Paris. She has received fellowships and awards from the Oak Spring Garden Foundation, HASTAC Scholars program, and the Hall Center for the Humanities. Most recently, she coedited the exhibition catalogue _Perspectives on a Legacy Collection: Sallie Casey Thayer’s Gift to the University of Kansas_ (2020).
 
-##Diana Heredia-López
+##
+**Diana Heredia-López**
 
 ![](Heredia.jpg)
 
