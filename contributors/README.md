@@ -52,6 +52,13 @@ Kira Clingen is a Lecturer in Landscape Architecture at the Harvard Graduate Sch
 Christina Emery is a senior undergraduate student majoring in archaeology and anthropology with a minor in history at the University of Cincinnati. She is pursuing certificates in Geographic Information Sciences, Mediterranean archaeology, and European Studies. Emery has archaeological field experience excavating a Fremont culture site in Boulder, Utah. She has also created multiple digital museum displays which revolve around the intersection of nature and science through medical discoveries from various cultures. Emery has conducted research into the ecology of and human interaction with the common dandelion, Taraxacum officinale. She has also conducted independent research into the influence that colonialism has had on the modern city of London. Her research interests currently consist of the changing relationships that people have with plants and the natural world.
 
 ##
+**Katherine Enright**
+
+![](Enright.jpg)
+
+Katherine is a senior at Harvard College studying History and Anthropology. Her undergraduate thesis explores the history of colonial natural history collecting and illustration in 19th century Southeast Asia and the national politics behind the display of these artifacts in Singaporean museums today. She has a particular interest in the transformation of natural history into national heritage and in decolonial approaches to modern-day natural history collections. A bit further afield, her research interests also include Victorian plant horror fiction and the role of botany and botanic gardens in warfare. As a research assistant at Harvard's China Biographical Database Project, she has several years of digital humanities experience and hopes to apply digital tools to the study of 19th century natural history correspondence. At Harvard, she has also interned for the Harvard Museums of Science and Culture and the Fairbank Center for Chinese Studies, and was captain of Harvard Deepam, the college's classical Indian dance team. 
+
+##
 **Julia Fine**
 
 ![](Julia_300x300.jpg)
