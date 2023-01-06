@@ -19,6 +19,16 @@
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
+# Poplar visualization drafts
+
+## Native distribution
+
+Distribution of P. deltoides, balsamifera, trichocarpa, nigra
+N. America and Europe
+
+<param ve-map basemap="Esri_WorldPhysical" title="Approximate distribution of four poplar species" center="50.876344, -43.701953" zoom="2" marker-type="none" stroke="none">
+<param ve-map-layer geojson active url="poplar distro.json" title="Poplar distribution">
+
 # Basic usage
 
 ## Image
@@ -64,7 +74,7 @@ The Frick Collection in New York City has four paintings by Vermeer. Unlike  _Gi
 ## Map with custom GeoJSON layers
 
 Distribution of P. deltoides, balsamifera, trichocarpa, nigra
-<param ve-map basemap="Esri_WorldPhysical" title="Approximate distribution of four poplar species" center="50.876344, -43.701953" zoom="3" marker-type="none" stroke="none">
+<param ve-map basemap="Esri_WorldPhysical" title="Approximate distribution of four poplar species" center="50.876344, -43.701953" zoom="2" marker-type="none" stroke="none">
 <param ve-map-layer geojson active url="poplar distro.json" title="Poplar distribution">
 
 <!-- create new GitHub files for GeoJSON layers -->
