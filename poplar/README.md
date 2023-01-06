@@ -64,7 +64,7 @@ The Frick Collection in New York City has four paintings by Vermeer. Unlike  _Gi
 ## Map with custom GeoJSON layers
 
 Distribution of P. deltoides, balsamifera, trichocarpa, nigra
-<param ve-map basemap="Esri_WorldPhysical" title="Approximate distribution of four poplar species" center="50.876344, -43.701953" zoom="10" marker-type="none" stroke="none">
+<param ve-map basemap="Esri_WorldPhysical" title="Approximate distribution of four poplar species" center="50.876344, -43.701953" zoom="1" marker-type="none" stroke="none">
 <param ve-map-layer geojson active url="poplar distro.json" title="Poplar distribution">
 
 <!-- create new GitHub files for GeoJSON layers -->
