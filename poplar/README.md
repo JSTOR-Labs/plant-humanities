@@ -64,9 +64,8 @@ The Frick Collection in New York City has four paintings by Vermeer. Unlike  _Gi
 ## Map with custom GeoJSON layers
 
 Archaeological evidence suggests that cassava became an important food staple for several ancient cultures in present-day Peru, including the <span eid="Q13341477">Chavin</span> (1000–200 BCE), <span eid="Q210570">Nazca</span> (200 BCE–600 CE), <span eid="Q208188">Moche</span> (250–750 CE), and <span eid="Q901198">Chimú</span> (1000–1470 CE).
-<param ve-map basemap="Esri_WorldPhysical" title="Locations of Pre-Columbian Andean civilizations: Nazca (magenta), Moche and Moche Influence (purple), and Chimú (yellow)." center="-10.398459529701169, -75.35486070351776" zoom="5" marker-type="none" stroke="none">
-<param ve-map-layer geojson active url="cassava_leaves.json" title="Cassava leaves">
-<param ve-map-layer geojson active url="Peru_Nazca_Moche_Chimor.json" title="Pre-Columbian Andean civilizations">
+<param ve-map basemap="Esri_WorldPhysical" title="Approximate distribution of four poplar species" center="-10.398459529701169, -75.35486070351776" zoom="5" marker-type="none" stroke="none">
+<param ve-map-layer geojson active url="poplar distro.json" title="Poplar distribution">
 
 <!-- create new GitHub files for GeoJSON layers -->
 
