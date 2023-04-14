@@ -88,7 +88,7 @@ The nutritional importance of maize cannot be separated from its cultural signif
 <param ve-image
        label="Bowl with Anthropomorphic Cacao Trees from Early Classic Maya Period. Scholars have shown the central figure represents the Maize God as an embodied cacao tree. See: Simon Martin, “Cacao in Ancient Maya Religion: First Fruit from the Maize Tree and Other Tales from the Underworld,” in Chocolate in Mesoamerica, ed. Cameron McNeil (University Press of Florida, 2009), 154–83."
        fit="contain"
-       manifest="https://iiif-v2.visual-essays.app/manifest/a82a69fb91004db10c73bd058ab877c74dcdbbd3012669465861459ad43851d3">
+       manifest="https://iiif.juncture-digital.org/manifest/a82a69fb91004db10c73bd058ab877c74dcdbbd3012669465861459ad43851d3">
 {#paragraph9}
 
 For the Maya, maize was and is more than simply a metaphor and powerful image in the Mesoamerican visual lexicon. Seventeenth-century records reveal how in highland Guatemala, upon the birth of a son, the Maya community would burn the blood of the umbilical cord. Then, they would “pas[s] an ear of maize through the smoke,” which would subsequently be planted in the maize field. Ethnographers have recorded that “parents used the maize from this small patch of land to feed the child ‘until he reached the age when he could plant for himself, saying that thus he not only ate by the sweat of his brow, but of his own blood as well.’”[^ref13] In certain regions, mothers “place an ear of maize into the palm of their newborns, and eat only dishes made from maize while breast-feeding to ensure that the child grows ‘true flesh.’”[^ref14]  Maize, for Maya people, thus represents more than both calories or symbol: it is a sacred plant from which all life grows. 

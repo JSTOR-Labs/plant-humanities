@@ -93,7 +93,7 @@ Other recipes make the use of turmeric as a coloring agent even more explicit. S
 
 The use of turmeric within the broader pantheon of curry powder spices did more than bring the exotic to Britain—it also worked to, in the words of  Zlotnick, “domesticate” the exotic.[^ref10] As Zlotnick notes, Eliza Acton, one of the most influential English cookery authors, wrote in her 1845 work _Modern Cookery_ of curries of allegedly English origin, claiming that, with “plain” English dishes “we have intermingled many others which we know to be excellent of their kind, and which now so far belong to our national cookery, as to be met with commonly at all refined modern tables.” Acton makes explicit the notion of bringing foreign dishes into the fold of English national cuisine by including a recipe for turmeric-laden curry powder. In the cookbook’s section on curries, she discusses British “potted meats,” and how presumed Indian dishes and spices intermingle with British dishes to bring India into the fold of Greater Britain.  
 <param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/aa25adca513ae6184966266a9a598bb56722c333052aa63ae876c2582875a506">
-<param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/9fbbf553a48572b6b7e827e9ecc84a2a27d88b1284f515a8ce29de2f063aa532">
+<param ve-image fit="contain" manifest="https://iiif.juncture-digital.org/manifest/9fbbf553a48572b6b7e827e9ecc84a2a27d88b1284f515a8ce29de2f063aa532">
 <param title="Eliza Acton" eid="Q542825" aliases="Acton">
 {#paragraph13}
 
