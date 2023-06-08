@@ -120,7 +120,6 @@ During his travels in Japan in the late nineteenth century, <span eid="Q1066128"
        label="A map of ferry routes and trees on Yakushima Island. Image by authors, 2019." 
        license="Image by authors, no permissions needed."> 
         
-
 This forest's composition is similar to that of Japan’s prehistoric forests. Until roughly 6,000 years ago, northern Japan was covered with broadleaf deciduous species like oaks, with an understory of sedges that endured significant temperature fluctuations across the archipelago. _Cryptomeria_ only became a prominent species across Japan 4,000 years ago, even before the <span eid="Q52824">Jōmon period (c. 14,000–300 BCE)</span> in Japanese prehistory, when falling sea levels across Japan left behind a bed of clay soil that Cryptomeria thrives on.[^17] On Yakushima Island, *sugi* were continuously cut down and replanted as plantations by foresters from the mid-seventeenth century onward. While 4,300 hectares of inland mountainous forest were designated as a research forest in 1922, a network of logging railroads and infrastructure was built to extract more trees during the same time.[^18]  
 
 <param ve-image url="crypto-community.jpg"
@@ -132,9 +131,9 @@ The pace of deforestation increased as the Japanese Imperial Army demanded addit
 
 <param ve-image url="sugi1-01.jpg"
        label="Cryptomeria in Yakushima Island’s primary forest are part of a multi-species plant community with a deciduous overstory, epiphytes, and an evergreen broadleaf understory. This collage of four images portrays a single tree from its roots to canopy. Image by authors, 2019." 
-       region= "-849,-58,4250,3418""
-       license="Image by authors, no permissions needed.">
-
+       region= "-849,-58,4250,3418"
+       license="Image by authors, no permissions needed">
+                                                        
 ### Crypto Currency: from Specimen Species to Monoculture Mascot 
 
 Following the World War II period, the Japanese government instigated a series of agrarian reforms that redistributed land from wealthy merchants to smaller tenant farmers.[^20] These reforms incentivized forestry and crop practices that maximized short-term yield on limited space, including monoculture planting. Rhetoric around post-war reforestation focused on the need to restore the national landscape. The reform slogan was "[Making] the mountains green" ("*yama o midori ni*"), invoking the image of Japan as a green archipelago. The reforms targeted upland regions but the message was on a national scale, expanding the importance of these economies to the well-being of the country as a whole. The Emperor became a vocal supporter of and active participant in annual national tree planting ceremonies, and he always planted _sugi_ when he participated.[^21]
