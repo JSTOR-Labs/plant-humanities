@@ -1386,6 +1386,13 @@
       document.querySelector('head').appendChild(el)
     }
 
+    async function getGhUnscopedToken() {
+      let ghToken = localStorage.getItem('gh-auth-token')
+      if (ghToken) return ghToken
+      let resp = await fetch('https://api.juncture-digital.org/gh-token')
+      if (resp.ok) return await resp.text()
+    }
+
     // Gets site config
     async function getSiteConfig() {
       let config = {}
@@ -1399,9 +1406,7 @@
       let resp = await fetch(configUrl)
       if (resp.ok) config = YAML.parse(await resp.text())
 
-      ghUnscopedToken = config.ghUnscopedToken 
-        ? atob(config.ghUnscopedToken)
-        : atob('Z2hwX0RJdFlxdWtoNzgxSE5jdFI3bHVSQ01tYVQwTmJ5VzBnOTh3TQ==')
+      ghUnscopedToken = await getGhUnscopedToken()
 
       let ghToken = oauthAccessToken || ghUnscopedToken
       if (ENV === 'PROD' && window.location.host.indexOf('juncture-digital.org') >= 0) {
