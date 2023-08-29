@@ -1,0 +1,49 @@
+source	source.label	source.image	target	target.label	target.image	edge
+Q10987	Pollen source/honey		Q1778821	Cusine		connected
+Q1377087	Sweetner		Q1778821	Cusine		connected
+Q35808	Fuelwood		Q42501	Fuel		connected
+Q199182	Ornamental plant		Q1724915	General		connected
+Q1778821	Cusine		Q1813408	Melaleuca quinquenervia		connected
+Q473594	Earthoven lining		Q1778821	Cusine		connected
+Q60739826	Food wrapping		Q1778821	Cusine		connected
+Q12147	Health		Q1813408	Melaleuca quinquenervia		connected
+Q12140	Medicine		Q12147	Health		connected
+Q1340459	Insect and vermin repellant		Q12147	Health		connected
+Q6097	Leaf tea		Q12140	Medicine		connected
+Q170885	Oil		Q12140	Medicine		connected
+Q376724	Bandage		Q12147	Health		connected
+Q22676	Shoes		Q12147	Health		connected
+Q1762457	Bedding		Q12147	Health		connected
+Q34581	Childbirth and Care		Q1813408	Melaleuca quinquenervia		connected
+Q83808937	Baby wrapping		Q34581	Childbirth and Care		connected
+Q14819852	Birth pit lining		Q34581	Childbirth and Care		connected
+Q1724915	General		Q1813408	Melaleuca quinquenervia		connected
+Q42501	Fuel		Q1813408	Melaleuca quinquenervia		connected
+Q66157003	Packing material		Q7590	Transportation		connected
+Q12046531	Invertebrate fodder		Q2249676	Environment		connected
+Q2249676	Environmental		Q1813408	Melaleuca quinquenervia		connected
+Q5395394	Erosion control		Q2249676	Environment		connected
+Q44103811	Dune stabilization		Q2249676	Environment		connected
+Q160020	Shade		Q12147	Health		connected
+Q7493941	Shelter		Q12147	Health		connected
+Q889669	Soil conservation		Q2249676	Environment		connected
+Q113089528	Soil improvement		Q2249676	Environment		connected
+Q2039061	Windbreak		Q2249676	Environment		connected
+Q549563	Mulch		Q1724915	General		connected
+Q2207288	Crafts		Q1813408	Melaleuca quinquenervia		connected
+Q7590	Transportation		Q1813408	Melaleuca quinquenervia		connected
+Q385378	Construction		Q1813408	Melaleuca quinquenervia		connected
+Q35872	Boats and rafts		Q7590	Transportation		connected
+Q177463	Charcoal source		Q42501	Fuel		connected
+Q14745	Furniture		Q2207288	Crafts		connected
+Q2180428	Posts		Q385378	Construction		connected
+Q1370714	Timber		Q385378	Construction		connected
+Q337907	Woodcarvings		Q2207288	Crafts		connected
+Q987767	Vessel		Q2207288	Crafts		connected
+Q1813408	Melaleuca quinquenervia		Q1724915	General		connected
+Q199344	Cigarette wrapping		Q1724915	General		connected
+Q21029893	Ritual craft		Q9174	Religion or Spirituality		connected
+Q952443	Fish trap		Q1778821	Cuisine		connected
+Q15303351	Art medium		Q2207288	Crafts		connected
+Q9174	Religion or Spirituality		Q1813408	Melaleuca quinquenervia		connected
+Q3327760	Writing material		Q2207288	Crafts		connected

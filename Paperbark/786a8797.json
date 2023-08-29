@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Banks-Solander label ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/b31152d271b58ea6070c4481392361bd2a51a3bc404e3345fbeebc30f40bf2b8",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:250.9563751220703,18.2548770904541,1968.8966522216797,1594.3485164642334"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#254e6077-2a40-43eb-a2b2-4196d72b49e5"
+  }
+]
