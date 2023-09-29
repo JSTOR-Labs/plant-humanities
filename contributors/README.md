@@ -109,6 +109,14 @@ What was it that made the gardens constructed throughout the Mughal Empire (1526
 Rachel Hirsch is a PhD candidate in history of art and architecture at Harvard University and a cultural historian of early modern South Asia. Her research interests include urban construction, perceptions of land and territory, garden history, and the potential for new art historical methods and sources. Her latest project took as its focus the Mughal city of Burhanpur and explored in depth its transformation through symbolic appropriation, ornamentation, and expansion along an underground water distribution system in the seventeenth century. She has also written extensively about Timurid and Mughal gardens and the role of travel writing in understandings of place.
 
 ##
+
+**Christina Hourigan**
+
+![](Hourigan.jpg)
+
+Christina Hourigan is a historical geography PhD candidate at Royal Holloway, University of London, in collaboration with the Royal Botanic Gardens, Kew. Her research on the history and value of the living collections and landscape of Kew's arboretum in the long nineteenth century is based in the plant humanities. She has a Masters in Garden History and a BSc in Plant Ecology, is the author of several books on trees and botanical history (as Christina Harrison), and was previously editor of RBG Kew's magazine for ten years. Her research interests include plant history, mobility and agency. She was part of the Dumbarton Oaks Plant Humanities Summer Programme in 2021 and has recently co-curated a new exhibition at RBG Kew (Uprooted) on archival stories of forest change with fellow DO alumnus Heather Craddock.
+
+##
 **Yao Jiang**
 
 ![](Jiang.jpg)
