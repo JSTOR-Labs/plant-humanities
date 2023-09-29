@@ -45,6 +45,13 @@ Matallana Chaves’s undergraduate thesis research focuses on the history of tex
 Kira Clingen is a Lecturer in Landscape Architecture at the Harvard Graduate School of Design, and a Research Associate at the Office for Urbanization. She is the project lead on Compound Vulnerabilities: The Case of Cape Ann, which uses scenario planning for climate change on the north shore of coastal Massachusetts. She holds a Masters in Landscape Architecture and Masters in Design Studies from Harvard, and a B.S. in Ecology and Evolutionary Biology and B.A. in Asian Studies and Environmental Policy from Rice University. She was awarded a 2016 Thomas J. Watson Fellowship to study climate change in Mauritius and Myanmar. Her current research focuses on climate literacy in landscape architecture, and climate change preparedness. 
 
 ##
+**Ashley Thuthao Keng Dam**
+
+![](Keng Dam.jpg)
+
+Ashley Thuthao Keng Dam (Ph.D. | they/them) is a medical anthropologist, ethnobotanist, and food writer living in the Netherlands. Thao is a multimodial mixed methods researcher who loves all things food, plants, and medicine. They completed the Plant Humanities Summer School Programme in 2021. Thao received their Ph.D. in Ecogastronomy, Education, and Society in 2022 from Università degli Studi di Scienze Gastronomiche (Pollenzo, Italy). They received their anthropological training from the University of Oxford (M.Sc., 2018, UK) and St. Mary's College of Maryland (B.A. Hons., 2016, USA). Currently, Thao works as a lecturer in Global Health in the Department of Health, Ethics, and Society (HES) at Maastricht University and is an Explorer for the National Geographic Society.
+
+##
 **Christina Emery**
 
 ![](Emery.jpg)
