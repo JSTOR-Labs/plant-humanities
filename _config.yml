@@ -13,8 +13,8 @@ github:
   repo: plant-humanities
   branch: gh-pages
 
-url: https://jstor-labs.github.io/plant-humanities/
-baseurl: /plant-humanities
+url: https://beta.plant-humanities.org/
+baseurl: /
 
 layout:
   header: false
