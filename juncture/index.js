@@ -20,7 +20,20 @@ function structureContent() {
   let currentSection = restructured;
   let sectionParam
 
-  (Array.from(main?.children || []) ).forEach((el) => {
+  let children = []
+  Array.from(main?.children || []).forEach((el, idx) => {
+    if (/^\s*{#.*}\s*$/.test(el.textContent)) {      
+      let i = children.length-1
+      let prior = children[i]
+      while (prior.tagName !== 'P' && i > 0) prior = children[--i]
+      if (prior.tagName === 'P') prior.id = el.textContent.trim().slice(2,-1)
+    } else {
+      children.push(el)
+    }
+  })
+
+  for (let i = 0; i < children.length; i++) {
+    let el = children[i]
     if (el.tagName[0] === 'H' && isNumeric(el.tagName.slice(1))) {
       let heading = el
       let sectionLevel = parseInt(heading.tagName.slice(1))
@@ -31,7 +44,7 @@ function structureContent() {
           .forEach((child, idx) => { 
             let segId = `${currentSection.getAttribute('data-id') || 1}.${idx+1}`
             child.setAttribute('data-id', segId)
-            child.id = segId
+            if (!child.id) child.id = segId
             child.className = 'segment'
           })
       }
@@ -62,7 +75,7 @@ function structureContent() {
     } else {
       if (el !== sectionParam) currentSection.innerHTML += el.outerHTML
     }
-  })
+  }
 
   restructured.querySelectorAll('section').forEach((section) => {
   if (section.classList.contains('cards') && !section.classList.contains('wrapper')) {
@@ -103,7 +116,7 @@ function createApp() {
       wrapper.setAttribute('data-id', id)
       wrapper.id = id
       wrapper.className = seg.className
-      seg.removeAttribute('id')
+      // seg.removeAttribute('id')
       seg.removeAttribute('data-id')
       seg.className = ''
       wrapper.appendChild(seg.cloneNode(true))
