@@ -297,7 +297,7 @@ module.exports = {
         })
       this.entities = await this.getEntityData(this.findEntities(tmp, this.params))
       this.html = tmp.outerHTML
-      let essayConfig = this.params.find(param => param['ve-config'])
+      let essayConfig = this.params.find(param => param['ve-config']) || {}
       essayConfig.header = essayConfig.header || 'header'
       essayConfig.main = essayConfig.main || essayConfig.component || 'visual-essay'
       essayConfig.footer = essayConfig.footer || 'footer'

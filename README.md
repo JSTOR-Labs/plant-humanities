@@ -1,6 +1,7 @@
 .ve-meta title="Plant Humanities"
 
-# Featured Plant Narratives {.cards}
+# Featured Plant Narratives 
+<param class="cards">
 
 ##
 [**Maize: Sacred Plant, Global Commodity**](/maize)
@@ -58,7 +59,8 @@
  
 ![](/images/thumbnails/Cryptomeria.jpeg)
 
-# All Plant Narratives {.cards}
+# All Plant Narratives 
+<param class="cards">
 
 ##
 [**Agave: A Plant with an Intoxicating History**](/Agave)

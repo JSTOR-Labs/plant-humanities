@@ -1,6 +1,7 @@
 <param ve-config title="Plant Humanities Lab">
 
-# Essay Contributors {.cards}
+# Essay Contributors 
+<param class="cards">
 
 ##
 **Thomas C. Anderson**
