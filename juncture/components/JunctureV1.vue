@@ -1,0 +1,1374 @@
+<template>
+  <div id="app" v-cloak ref="app" :class="layouts.join(' ')">
+    
+    <div id="header" ref="header">            
+      <ve-header 
+        :active="true" :scroll-top="scrollTop"
+        :site-config="siteConfig"
+        :essay-config="essayConfig"
+        :content-source="contentSource"
+        :path="path"
+        :logins-enabled="loginsEnabled"
+        :is-juncture="isJuncture"
+        :is-authenticated="authenticatedUser !== null && loginsEnabled"
+        :is-admin="isAdminUser"
+        :version="junctureVersion"
+        :do-action-callback="doActionCallback"
+        component-name="ve-header"
+        @do-action="doAction"
+        @authenticate="authenticate"
+        @logout="logout"
+      ></ve-header>
+    </div>
+
+    <div id="tabs-bar" ref="tabsBar">
+      <span v-for="viewer in viewersEnabled" :key="`tab-${viewer}`" 
+            :class="{'active-tab': selectedViewer === viewer}" 
+            :data-tab="viewer" 
+            @click="selectedViewer = viewer; viewerIsOpen = true">
+        <i v-if="viewerData[viewer]" :class="viewerData[viewer].icon"></i>
+      </span>
+    </div>
+
+    <div id="essay" ref="essay" @scroll="onScroll">
+      <ve-visual-essay
+        :html="html"
+        :path="path"
+        :anchor="anchor"
+        :entities="entities"
+        :params="params"
+        :available-viewers="availableViewers"
+        :scroll-top="scrollTop"
+        :site-config="siteConfig"
+        :essay-config="essayConfig"
+        :content-source="contentSource"
+        :logins-enabled="loginsEnabled"
+        :is-juncture="isJuncture"
+        :is-authenticated="authenticatedUser !== null && loginsEnabled"
+        :is-admin="isAdminUser"
+        :do-action-callback="doActionCallback"
+        :version="junctureVersion"
+        @set-entities="entities = $event"
+        @set-params="params = $event"
+        @set-items="items = $event"
+        @set-active="active = $event"
+        @scroll-to-anchor="scrollToAnchor"
+        @do-action="doAction"
+      ></ve-visual-essay>
+    </div>
+
+    <div v-if="essayConfig" id="viewer" ref="viewer" :style="viewerStyle">
+      <i v-if="!isVerticalLayout && viewerIsOpen" class="far fa-times-circle" style="position:absolute; top:0; right:0; z-index:500; font-size:26px;" @click="viewerIsOpen = !viewerIsOpen"></i>
+      <component v-for="viewer in viewersEnabled" :key="viewer" v-bind:is="viewer" 
+                 :items="items"
+                 :entities="entities"
+                 :viewer-is-active="viewer === selectedViewer"
+                 :active-segment="active"
+                 :height="viewerHeight"
+                 :actions="actions"
+                 :hover-item="hoverItem"
+                 :content-source="contentSource"
+                 :gh-token:="ghToken"
+                 :md-dir="mdDir"
+                 :is-authenticated="authenticatedUser !== null && loginsEnabled"
+                 :component-name="viewer"
+                 @update-component-data="updateComponentData"
+                 @set-hover-item="hoverItem = $event"
+      ></component>
+    </div>
+
+    <div v-if="essayConfig && path === '/'" id="footer" ref="footer">            
+      <ve-footer :site-config="siteConfig" :content-source="contentSource"></ve-footer>
+    </div>
+
+    <div ref="markdownViewer" id="markdown-viewer" style="display: none;">
+      <div style="padding:20px; width:50vw; height:50vh; overflow-y:scroll;">
+        <h3>Markdown</h3>
+        <div>
+          <pre v-highlightjs="markdown"><code class="markdown"></code></pre>
+        </div>
+      </div>
+    </div>
+
+    </div>
+</template>
+
+<script>
+/* global _ */
+
+/* md5 function from https://stackoverflow.com/questions/14733374/how-to-generate-an-md5-file-hash-in-javascript*/
+function md5cycle(f,h){var i=f[0],n=f[1],r=f[2],g=f[3];i=ff(i,n,r,g,h[0],7,-680876936),g=ff(g,i,n,r,h[1],12,-389564586),r=ff(r,g,i,n,h[2],17,606105819),n=ff(n,r,g,i,h[3],22,-1044525330),i=ff(i,n,r,g,h[4],7,-176418897),g=ff(g,i,n,r,h[5],12,1200080426),r=ff(r,g,i,n,h[6],17,-1473231341),n=ff(n,r,g,i,h[7],22,-45705983),i=ff(i,n,r,g,h[8],7,1770035416),g=ff(g,i,n,r,h[9],12,-1958414417),r=ff(r,g,i,n,h[10],17,-42063),n=ff(n,r,g,i,h[11],22,-1990404162),i=ff(i,n,r,g,h[12],7,1804603682),g=ff(g,i,n,r,h[13],12,-40341101),r=ff(r,g,i,n,h[14],17,-1502002290),i=gg(i,n=ff(n,r,g,i,h[15],22,1236535329),r,g,h[1],5,-165796510),g=gg(g,i,n,r,h[6],9,-1069501632),r=gg(r,g,i,n,h[11],14,643717713),n=gg(n,r,g,i,h[0],20,-373897302),i=gg(i,n,r,g,h[5],5,-701558691),g=gg(g,i,n,r,h[10],9,38016083),r=gg(r,g,i,n,h[15],14,-660478335),n=gg(n,r,g,i,h[4],20,-405537848),i=gg(i,n,r,g,h[9],5,568446438),g=gg(g,i,n,r,h[14],9,-1019803690),r=gg(r,g,i,n,h[3],14,-187363961),n=gg(n,r,g,i,h[8],20,1163531501),i=gg(i,n,r,g,h[13],5,-1444681467),g=gg(g,i,n,r,h[2],9,-51403784),r=gg(r,g,i,n,h[7],14,1735328473),i=hh(i,n=gg(n,r,g,i,h[12],20,-1926607734),r,g,h[5],4,-378558),g=hh(g,i,n,r,h[8],11,-2022574463),r=hh(r,g,i,n,h[11],16,1839030562),n=hh(n,r,g,i,h[14],23,-35309556),i=hh(i,n,r,g,h[1],4,-1530992060),g=hh(g,i,n,r,h[4],11,1272893353),r=hh(r,g,i,n,h[7],16,-155497632),n=hh(n,r,g,i,h[10],23,-1094730640),i=hh(i,n,r,g,h[13],4,681279174),g=hh(g,i,n,r,h[0],11,-358537222),r=hh(r,g,i,n,h[3],16,-722521979),n=hh(n,r,g,i,h[6],23,76029189),i=hh(i,n,r,g,h[9],4,-640364487),g=hh(g,i,n,r,h[12],11,-421815835),r=hh(r,g,i,n,h[15],16,530742520),i=ii(i,n=hh(n,r,g,i,h[2],23,-995338651),r,g,h[0],6,-198630844),g=ii(g,i,n,r,h[7],10,1126891415),r=ii(r,g,i,n,h[14],15,-1416354905),n=ii(n,r,g,i,h[5],21,-57434055),i=ii(i,n,r,g,h[12],6,1700485571),g=ii(g,i,n,r,h[3],10,-1894986606),r=ii(r,g,i,n,h[10],15,-1051523),n=ii(n,r,g,i,h[1],21,-2054922799),i=ii(i,n,r,g,h[8],6,1873313359),g=ii(g,i,n,r,h[15],10,-30611744),r=ii(r,g,i,n,h[6],15,-1560198380),n=ii(n,r,g,i,h[13],21,1309151649),i=ii(i,n,r,g,h[4],6,-145523070),g=ii(g,i,n,r,h[11],10,-1120210379),r=ii(r,g,i,n,h[2],15,718787259),n=ii(n,r,g,i,h[9],21,-343485551),f[0]=add32(i,f[0]),f[1]=add32(n,f[1]),f[2]=add32(r,f[2]),f[3]=add32(g,f[3])}function cmn(f,h,i,n,r,g){return h=add32(add32(h,f),add32(n,g)),add32(h<<r|h>>>32-r,i)}function ff(f,h,i,n,r,g,t){return cmn(h&i|~h&n,f,h,r,g,t)}function gg(f,h,i,n,r,g,t){return cmn(h&n|i&~n,f,h,r,g,t)}function hh(f,h,i,n,r,g,t){return cmn(h^i^n,f,h,r,g,t)}function ii(f,h,i,n,r,g,t){return cmn(i^(h|~n),f,h,r,g,t)}function md51(f){txt="";var h,i=f.length,n=[1732584193,-271733879,-1732584194,271733878];for(h=64;h<=f.length;h+=64)md5cycle(n,md5blk(f.substring(h-64,h)));f=f.substring(h-64);var r=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];for(h=0;h<f.length;h++)r[h>>2]|=f.charCodeAt(h)<<(h%4<<3);if(r[h>>2]|=128<<(h%4<<3),h>55)for(md5cycle(n,r),h=0;h<16;h++)r[h]=0;return r[14]=8*i,md5cycle(n,r),n}function md5blk(f){var h,i=[];for(h=0;h<64;h+=4)i[h>>2]=f.charCodeAt(h)+(f.charCodeAt(h+1)<<8)+(f.charCodeAt(h+2)<<16)+(f.charCodeAt(h+3)<<24);return i}var hex_chr="0123456789abcdef".split("");function rhex(f){for(var h="",i=0;i<4;i++)h+=hex_chr[f>>8*i+4&15]+hex_chr[f>>8*i&15];return h}function hex(f){for(var h=0;h<f.length;h++)f[h]=rhex(f[h]);return f.join("")}function md5(f){return hex(md51(f))}function add32(f,h){return f+h&4294967295}
+window.html = `<<HTML>>`
+
+const ENV = 'PROD'
+const availableViewers = [
+  've1-image',
+  've1-map'
+]
+
+const componentPrefix = 've1-'
+
+const contentSource = {
+  basePath: window.config.baseurl, 
+  acct: window.config.owner, 
+  repo: window.config.repo, 
+  ref: window.config.branch, 
+  baseUrl: `https://raw.githubusercontent.com/${window.config.owner}/${window.config.repo}/${window.config.branch}/`
+}
+const siteConfig = {}
+const ghToken = ''
+const isJuncture = true
+const qargs = {}
+
+module.exports = {
+  components: {
+    've-footer': window.httpVueLoader(`${window.config.baseurl}/juncture/components/Footer.vue`),
+    've-header': window.httpVueLoader(`${window.config.baseurl}/juncture/components/Header.vue`),
+    've1-image': window.httpVueLoader(`${window.config.baseurl}/juncture/components/Image.vue`),
+    've1-map': window.httpVueLoader(`${window.config.baseurl}/juncture/components/Map.vue`),
+    've-visual-essay': window.httpVueLoader(`${window.config.baseurl}/juncture/components/VisualEssay.vue`),
+  },
+  props: {
+    inputHtml: String
+  },
+  data: () => ({
+    actions: {},
+    active: null,
+    anchor: null,
+    authenticatedUser: null,
+    availableViewers,
+    contentSource,
+    doActionCallback: {},
+    entities: {},
+    essayConfig: null,
+    forceHorizontalLayout: window.matchMedia('only screen and (max-width: 1000px)').matches,
+    ghToken,
+    hoverItem: undefined,
+    html: '',
+    items: [],
+    isJuncture,
+    junctureVersion: '0.5.0',
+    layouts: ['visual-essay vertical'],
+    markdown: null,
+    markdownViewer: null,
+    mdDir: '/',
+    mdPath: '',
+    oauthCredsFound: false,
+    params: [],
+    path: '/',
+    qargs,
+    selectedItem: undefined,
+    selectedViewer: null,
+    scrollTop: 0,
+    siteConfig,
+    viewerData: {},
+    viewerHeight: 0,
+    viewersEnabled: [],
+    viewerIsOpen: false
+  }),
+  computed: {
+    isAdminUser() { return ENV === 'DEV' || this.authenticatedUser !== null && (this.authenticatedUser.isAdmin || contentSource.acct === this.authenticatedUser.acct) },
+    viewerStyle() { return { 
+      height: this.viewerIsOpen
+        ? this.isVerticalLayout 
+          ? '100%'
+          : `calc(50vh - ${this.$refs.header.clientHeight/2}px)`
+        : 0 
+      } 
+    },
+    isVerticalLayout() { return !this.forceHorizontalLayout && this.layouts.indexOf('vertical') >= 0 },
+    loginsEnabled() { return this.oauthCredsFound && (!this.essayConfig || !this.essayConfig['logins-disabled']) }
+  },
+  async mounted() {
+    let path
+    if (window.location.href.indexOf('#') > 0) {
+      path = window.location.href.split('#')[0].split('/').slice(3).join('')
+      let anchor = window.location.href.split('#').pop()
+      if (path) this.anchor = anchor
+      else path = anchor
+    } else {
+      path = window.location.pathname.slice(contentSource.basePath.length) || '/'
+      path = path.length > 1 && path.slice(-1) === '/' ? path.slice(0,-1) : path
+    }
+    this.path = path
+    let pathIsDir = true
+    this.mdDir = pathIsDir ? path : `/${path.split('/').filter(elem => elem).slice(0,-1).join('/')}`
+    this.mdPath = pathIsDir ? path === '/' ? '/README.md' : `${path}/README.md` : `${path}.md`
+    // Initialize Markdown source viewer
+    //this.markdown = await getGhFile(this.mdPath)
+    this.markdownViewer = tippy(this.$refs.header, {
+      trigger: 'manual', 
+      theme: 'light-border',
+      allowHTML: true,
+      interactive: true,
+      arrow: false,
+      placement: 'bottom-start',          
+      onShow: async (instance) => { instance.setContent(this.$refs.markdownViewer.innerHTML) },
+      onHide: (instance) => {}
+    })
+    this.parseEssay()
+  },
+  methods: {
+    authenticate() {
+      let provider = new firebase.auth.GithubAuthProvider()
+      provider.addScope('repo')
+      firebase.auth().signInWithRedirect(provider)
+    },
+  
+    // Handles menu actions from header
+    async doAction(action, options) {
+      if (action === 'sendmail') {
+        this.doActionCallback = {status: 'processing', message: 'Processing request'}
+        await sendmail(options)
+        this.doActionCallback = {status: 'done', message: 'Email sent'}
+      } else if (action === 'view-markdown') {
+        this.markdownViewer.show()
+      } else if (action === 'user-guide') {
+        window.open('https://github.com/JSTOR-Labs/juncture/wiki', '_blank')
+      } else if (action === 'edit-page') {
+        this.editMarkdown()
+      } else if (action === 'goto-github') {
+        window.open(`https://github.com/${contentSource.acct}/${contentSource.repo}/tree/${contentSource.ref}`, '_blank')
+      } else if (action === 'viewSiteOnJuncture') {
+        window.location.href = `https://juncture-digital.org/${contentSource.acct}/${contentSource.repo}`
+      } else if (action === 'authenticate') {
+        this.authenticate()
+      } else if (action === 'logout') {
+        this.logout()
+      } else if (action === 'load-page') {
+        // let newPage = `${this.contentSource.basePath}${options}`
+        let newPage = options
+        if (this.qargs.ref) newPage += `?ref=${this.qargs.ref}`
+        console.log('load-page', this.contentSource.basePath, options, newPage)
+        location.href = newPage
+      }
+    },
+
+    logout() {
+      console.log('logout')
+    },
+
+    // Updates viewer data from events emitted when viewer components are loaded
+    updateComponentData(data) { 
+      this.viewerData = {...this.viewerData, ...data }},
+
+    // Sets active element based on essay window scroll position
+    onScroll: _.throttle(function (e) {
+      e.preventDefault()
+      e.stopPropagation()
+      this.scrollTop = e.target.scrollTop
+    }, 5),
+    scroll() {},
+    scrollToAnchor() {},
+  
+    async parseEssay() {
+      let tmp = new DOMParser().parseFromString(this.inputHtml, 'text/html').children[0].children[1]
+      this.convertResourceUrls(tmp)
+
+      Array.from(tmp.querySelectorAll('param'))
+      .filter(param => Object.values(param.attributes).find(attr => attr.nodeName !== 'id' && attr.nodeName !== 'class') === undefined)
+      .forEach(param => {
+        if (param.id || param.className) {
+          let prior = param.previousElementSibling
+          if (param.id && prior) prior.id = param.id
+          if (param.className) {
+            if (prior) prior.className = param.className
+            else essay.className = param.className
+          }
+          param.parentElement.removeChild(param)
+        }
+      })
+  
+      this.parseSection(tmp.children[0], '1')
+      this.params = Array.from(tmp.querySelectorAll('param'))
+        .map((param,idx) => {
+          let paramObj = { ...{
+            id: `P${idx+1}`, 
+            path: getDomPath(param.parentElement).filter(elem => elem !== 'html' && elem !== 'body').join('>')
+            },
+            ...attrsToObject(param)
+          }
+          let viewerTag = Object.keys(paramObj)
+            .filter(attr => attr.indexOf('ve') === 0)
+            .map(attr => attr.replace(/^ve-/,componentPrefix))
+            .find(attr => this.availableViewers.indexOf(attr) >= 0)
+          if (viewerTag) paramObj.viewer = viewerTag
+          return paramObj
+        })
+      this.entities = await this.getEntityData(this.findEntities(tmp, this.params))
+      this.html = tmp.outerHTML
+      let essayConfig = this.params.find(param => param['ve-config'])
+      essayConfig.header = essayConfig.header || 'header'
+      essayConfig.main = essayConfig.main || essayConfig.component || 'visual-essay'
+      essayConfig.footer = essayConfig.footer || 'footer'
+      this.essayConfig = essayConfig
+    },
+
+    convertResourceUrls(root) {
+      // root.querySelectorAll('img').forEach(img => {
+      //  if (img.src.indexOf(window.location.origin) === 0) img.setAttribute('src', convertURL(img.src, this.mdDir))
+      //})
+      root.querySelectorAll('param').forEach(param => {
+        ['url', 'banner', 'article', 'logo'].forEach(attr => {
+          if (param.getAttribute(attr) && param.getAttribute(attr).indexOf('/') === 0) {
+            param.setAttribute(attr, `${contentSource.basePath}${param.getAttribute(attr)}`)
+          }
+        })
+      })
+      return root
+    },
+
+    // Finds all entity references in param tags
+    findEntities(root, params) {
+
+      let entities = Object.fromEntries(
+        params.filter(param => param.eid || param['ve-entity'] !== undefined)
+        .map(entity => { return {...entity, ...{
+          id: entity.eid || entity.id, 
+          aliases: new Set(entity.aliases ? entity.aliases.split('|') : []),
+          foundIn: new Set()
+        }} })
+        .map(entity => [entity.id, entity]))
+      
+      Array.from(root.querySelectorAll('span'))
+        .filter(el => el.attributes.eid)
+        .map(el => attrsToObject(el))
+        .map(entity => { return {...entity, ...{id: entity.eid || entity.id} } })
+        .forEach(entity => { if (!entities[entity.eid]) entities[entity.eid] = entity })
+
+      params.filter(param => param.center && isEntityID(param.center))
+        .map(param => { return {...param, ...{id: param.center, eid: param.center} } })
+        .forEach(entity => { if (!entities[entity.eid]) entities[entity.eid] = entity })
+
+      return entities
+    },
+
+    parseSection(section, id) {
+      let sectionCtr = 0
+      let segCtr = 0
+      if (section.classList.contains('cards') && !section.classList.contains('wrapper')) {
+        section.classList.remove('cards')
+        let wrapper = document.createElement('section')
+        wrapper.className = 'cards wrapper'
+        Array.from(section.querySelectorAll(':scope > section')).forEach(sec => {
+          sec.classList.add('card')
+          wrapper.appendChild(sec)
+          // section.removeChild(sec)
+        })
+        section.appendChild(wrapper)
+      }
+
+      Array.from(section.children).forEach(el => {
+        if (el.tagName === 'SECTION') {
+          let dataId = `${id}.${++sectionCtr}`
+          el.setAttribute('data-id', dataId)
+          this.parseSection(el, dataId)
+        } else if (el.tagName === 'P' || el.tagName === 'UL' || el.tagName === 'OL') {
+          let params = []
+          Array.from(el.querySelectorAll(':scope > param')).forEach(param => {
+            params.push(param)
+            el.removeChild(param)
+          })
+          let content = el.innerHTML.trim()
+          if (content) {
+            let seg = document.createElement('div')
+            let dataId = `${id}.${++segCtr}`
+            seg.setAttribute('data-id', dataId)
+            seg.setAttribute('id', dataId)
+            seg.classList.add('segment')
+            seg.innerHTML = el.outerHTML
+            params.forEach(param => seg.append(param))
+            el.replaceWith(seg)
+          } else {
+            params.forEach(param => section.insertBefore(param, el))
+            section.removeChild(el)
+          }
+        }
+      })
+    },
+
+    // Gets labels, aliases, images and geo coords for referenced Wikdata entities
+    async getEntityData(entities) {
+      let values = Object.values(entities).filter(entity => entity.eid).map(entity => `(<http://www.wikidata.org/entity/${entity.eid}>)`).join(' ')
+      let query = `SELECT ?item ?label ?aliases ?description ?images ?coords ?whosOnFirst WHERE {
+                      VALUES (?item) { ${values} }
+                      ?item rdfs:label ?label . FILTER(LANG(?label) = 'en')
+                      OPTIONAL { ?item schema:description ?description . FILTER(LANG(?description) = 'en') }
+                      OPTIONAL { ?item skos:altLabel ?aliases . FILTER(LANG(?aliases) = 'en') }
+                      OPTIONAL { ?item wdt:P18 ?images . }
+                      OPTIONAL { ?item wdt:P625 ?coords . }
+                      OPTIONAL { ?item wdt:P6766 ?whosOnFirst . }
+                    }`
+      let resp = await fetch('https://query.wikidata.org/sparql', {
+        method: 'POST', body: `query=${encodeURIComponent(query)}`, 
+        headers: { Accept: 'application/sparql-results+json', 'Content-Type': 'application/x-www-form-urlencoded' }
+      })
+      resp = await resp.json()
+      // let enrichedEntities = {}
+      resp.results.bindings.forEach(rec => {
+        let eid = rec.item.value.split('/').pop()
+        if (!entities[eid].images) entities[eid] = {
+            ...entities[eid], 
+            ...{
+              eid, 
+              label: rec.label.value, 
+              aliases: new Set(entities[eid].aliases ? Array.from(entities[eid].aliases) : []),
+              description: rec.description && rec.description.value,
+              geojson: rec.whosOnFirst && rec.whosOnFirst.value && this.whosOnFirstUrl(rec.whosOnFirst.value),
+              images: [],
+              thumbnails: [],
+              coords: rec.coords && rec.coords.value.replace(/Point\(/,'').replace(/\)/,'').split(' ').reverse().map(coord => parseFloat(coord)),
+              foundIn: new Set(),
+            }
+          }
+        if (rec.aliases && !entities[eid].aliases.has(rec.aliases.value)) entities[eid].aliases.add(rec.aliases.value)
+        if (rec.images && entities[eid].images.indexOf(rec.images.value) < 0) {
+          entities[eid].images.push(rec.images.value)
+          entities[eid].thumbnails.push(this.commonsImageUrl(rec.images.value, 200))
+        }
+      })
+      query = `SELECT ?item ?mwPage WHERE {
+                  VALUES (?item) { ${values} }
+                  ?mwPage schema:about ?item .
+                  ?mwPage schema:isPartOf <https://en.wikipedia.org/> . }`
+      resp = await fetch('https://query.wikidata.org/sparql', {
+        method: 'POST', body: `query=${encodeURIComponent(query)}`, 
+        headers: { Accept: 'application/sparql-results+json', 'Content-Type': 'application/x-www-form-urlencoded' }
+      })
+      resp = await resp.json()
+      resp.results.bindings.forEach(rec => entities[rec.item.value.split('/').pop()]['mwPage'] = rec.mwPage.value)
+      return entities
+    },
+
+    // Creates a GeoJSON file URL from a Who's on First ID 
+    whosOnFirstUrl(wof) {
+      let wofParts = []
+      for (let i = 0; i < wof.length; i += 3) {
+        wofParts.push(wof.slice(i,i+3))
+      }
+      return `https://data.whosonfirst.org/${wofParts.join('/')}/${wof}.geojson`
+    },
+    
+    commonsImageUrl(url, width) {
+      // Converts Wikimedia commons File URL to an image link
+      //  If a width is provided a thumbnail is returned
+      let mwImg = url.indexOf('Special:FilePath') > 0 ? url.split('/Special:FilePath/').pop() :  url.split('/File:').pop()
+      mwImg = decodeURIComponent(mwImg).replace(/ /g,'_')
+      const ImgMD5 = md5(mwImg)
+      const extension = mwImg.slice(mwImg.length-4)
+      let imgUrl = `https://upload.wikimedia.org/wikipedia/commons/${width ? 'thumb/' : ''}`
+      imgUrl += `${ImgMD5.slice(0,1)}/${ImgMD5.slice(0,2)}/${mwImg}`
+      if (width) imgUrl += `/${width}px-${mwImg}`
+      if (extension === '.svg') imgUrl += '.png'
+      if (extension === '.tif') imgUrl += '.jpg'
+      return imgUrl
+    },
+
+    addItemEventHandlers(elem) {
+      elem.querySelectorAll('.inferred').forEach((entity) => {
+        entity.addEventListener('click', this.itemClickHandler)
+        entity.addEventListener('mouseover', this.setHoverItem)
+        entity.addEventListener('mouseout', this.setHoverItem)
+      })
+    },
+    removeItemEventHandlers(elem) {
+      elem.querySelectorAll('.active .inferred').forEach((entity) => {
+        entity.removeEventListener('click', this.itemClickHandler)
+        entity.removeEventListener('mouseover', this.setHoverItem)
+        entity.removeEventListener('mouseout', this.setHoverItem)
+      })
+    },
+
+    setHoverItem(e) {
+      this.hoverItem = e.type === 'mouseover' ? e.target.dataset.eid : null
+    },
+  
+    itemClickHandler(e) {
+      e.stopPropagation()
+      this.selectedItem = e.target.dataset.eid 
+      this.interactionHander(e)
+    },
+
+    getInteractionAttrs(elem) {
+      const eventAttrs = []
+      Array.from(elem.querySelectorAll(`span`)).forEach(span => {
+        Array.from(span.attributes)
+          .filter(attr => attr.name.indexOf('data-') === 0 && attr.name.split('-').length === 4)
+          .map(attr => attr.name.split('-').slice(1,2)[0])
+          .forEach(event => eventAttrs.push({elem: span, event}))
+        })
+      return eventAttrs
+    },
+
+    addInteractionHandlers(elem) {
+      this.getInteractionAttrs(elem)
+      .forEach(eventAttr => {
+        eventAttr.elem.addEventListener(eventAttr.event, this.interactionHander)
+        eventAttr.elem.classList.add('essay-interaction')
+      })
+    },
+
+    removeInteractionHandlers(elem) {
+      Array.from(elem.querySelectorAll('.essay-interaction')).forEach(span => {
+        Array.from(span.attributes)
+          .filter(attr => attr.name.indexOf('data-') === 0 && attr.name.split('-').length === 4)
+          .map(attr => attr.name.split('-').slice(1,2)[0])
+          .forEach(event => span.removeEventListener(event, this.interactionHander))
+        span.classList.remove('essay-interaction')
+      })
+    },
+
+    interactionHander(e) {
+      e.stopPropagation()
+      const eventActions = {};
+      [...e.target.attributes, ...e.target.parentElement.attributes]
+        .filter(attr => attr.name.indexOf(`data-`) === 0 && attr.name.split('-').length === 4)
+        .map(attr => {
+          const attrParts = attr.name.split('-').slice(1)
+          const event = attrParts[0]
+          const target = attrParts.slice(1,-1).join('-')
+          const action = attrParts.slice(-1)[0]
+          return { elem: e.target, event, target, action, value: attr.value } 
+        })
+        .filter(action => action.event === e.type)
+        .forEach(action => {
+          if (!eventActions[action.target]) eventActions[action.target] = []
+          eventActions[action.target].push(action)
+        })
+      const actions = { ...this.actions }
+      Object.keys(eventActions).forEach(target => actions[`${componentPrefix}${target}`] = eventActions[target])
+      this.actions = actions
+    }
+
+  },
+
+  watch: {
+  
+    scrollTop: {
+      handler: function (scrollTop) { 
+        if (this.$refs.viewer) this.viewerHeight = this.$refs.viewer.clientHeight
+      },
+      immediate: false
+    },
+
+    // Set app classes using essay config (ve-config) attributes, if present
+    essayConfig (config) {
+      // this.layouts = []
+      this.viewerIsOpen = false
+      if (config) {
+        if (config.layout) this.layouts = [...config.layout.split(',').map(layout => layout === 'vtl' ? 'vertical' : layout), ...['visual-essay']]
+        if (config.title) document.title = this.siteConfig && this.siteConfig.title ? `${config.title} - ${this.siteConfig.title}` : config.title
+        if (config.description) setMetaDescription(config.description)
+      }
+    },
+
+    // Watcher that updates various data elements when the active paragraph changes
+    active(current, prior) {
+      let activeSegment = document.querySelector(`[data-id="${current}"]`)
+      if (activeSegment) {
+        if (this.$refs.tabsBar) activeSegment.appendChild(this.$refs.tabsBar)
+        this.addItemEventHandlers(activeSegment)
+        this.addInteractionHandlers(activeSegment)
+      }
+      let priorSegment = document.querySelector(`[data-id="${prior}"]`)
+      if (priorSegment) {
+        this.removeItemEventHandlers(priorSegment)
+        this.removeInteractionHandlers(priorSegment)
+      }
+    },
+
+    items: {
+      handler: function (items) {
+        let viewers = items
+          .filter(item => this.availableViewers.indexOf(item.viewer) >= 0)
+          .map(item => item.viewer)
+        let enabled = viewers.filter((viewer, index) => viewers.indexOf(viewer) === index)
+        if (!arraysEqualIgnoreOrder(enabled, this.viewersEnabled)) this.viewersEnabled = enabled
+      },
+      immediate: true
+    },
+
+    availableViewers: {
+      handler: function (availableViewers) {
+        let viewers = this.items.filter(item => availableViewers.indexOf(item.viewer) >= 0).map(item => item.viewer)
+        let enabled = viewers.filter((viewer, index) => viewers.indexOf(viewer) === index)
+        if (!arraysEqualIgnoreOrder(enabled, this.viewersEnabled)) this.viewersEnabled = enabled
+      },
+      immediate: true
+    },
+    
+    viewersEnabled: {
+      handler: function (viewersEnabled) {
+        this.selectedViewer = this.viewerIsOpen && viewersEnabled.length > 0 ? viewersEnabled[0] : null
+        // console.log(`viewersEnabled: enabled=${viewersEnabled} selected=${this.selectedViewer}`)
+      },
+      immediate: true
+    },
+
+    isVerticalLayout: {
+      handler: function () {
+        this.selectedViewer = this.isVerticalLayout && this.viewersEnabled.length > 0 ? this.viewersEnabled[0] : this.selectedViewer
+        if (this.isVerticalLayout) this.viewerIsOpen = true
+      },
+      immediate: true
+    },
+
+    hoverItem (eid) {
+      document.querySelectorAll('.hover').forEach(el => el.classList.remove('hover'))
+      document.querySelectorAll(`[data-eid="${eid}"]`).forEach(el => el.classList.add('hover'))        
+    }
+  }
+}
+
+Vue.config.productionTip = false
+Vue.config.devtools = true
+
+// Vue components mixin that handles linking to external JS and CSS resources
+Vue.mixin({
+
+  props: {
+    componentName: String
+  },
+
+  data: () => ({
+    dirCache: {}
+  }),
+
+  methods: {
+
+    loadDependencies(dependencies, i, callback) {
+      if (i === 0) {
+        let componentData = {}
+        componentData[this.componentName] = { label: this.viewerLabel, icon: this.viewerIcon }
+        this.$emit('update-component-data', componentData)
+      }
+      if (dependencies && dependencies.length > 0) {
+        this.load(dependencies[i], () => {
+          if (i < dependencies.length-1) {
+            this.loadDependencies(dependencies, i+1, callback) 
+          } else {
+            callback()
+          }
+        })
+      } else {
+        if (callback) callback()
+      }
+    },
+
+    load(url, callback) {
+      let e
+      if (url.split('.').pop() === 'css') {
+        e = document.createElement('link')
+        e.href = url
+        e.rel='stylesheet'
+      } else {
+        e = document.createElement('script')
+        e.src = url
+        e.type = url.indexOf('visual-essays.esm.js') > 0 ? 'module' : 'text/javascript'
+      }
+      e.addEventListener('load', callback)
+      document.getElementsByTagName('head')[0].appendChild(e)
+    },
+
+    delimitedStringToObjArray(delimitedData, delimiter) {
+      delimiter = delimiter || `\t`
+      const objArray = []
+      const lines = delimitedData.split('\n').filter(line => line.trim() !== '')
+      if (lines.length > 1) {
+        const keys = lines[0].split(delimiter).map(key => key.trim())
+        lines.slice(1).forEach(line => {
+          let obj = {}
+          line.split(delimiter)
+              .map(value => value.trim())
+              .forEach((value, i) => {
+                let rawKey = keys[i].split('.')
+                let key = rawKey[0]
+                let prop = rawKey.length === 2 ? rawKey[1] : 'id'
+                if (!obj[key]) obj[key] = {}
+                if (value || prop === 'id') obj[key][prop] = value
+              })
+          objArray.push(obj)
+        })
+        let assignedId = 0
+        let labels = {}
+        objArray.forEach(obj => {
+          Object.values(obj).forEach(child => {
+            if (child.id === '' && child.label) {
+              if (!labels[child.label]) labels[child.label] = ++assignedId
+              child.id = labels[child.label]
+            }
+          })
+        })
+      }
+      return objArray
+    },
+
+    async dir(root, ghSource) {
+      let cacheKey = ghSource ? `${ghSource.acct}/${ghSource.repo}/${ghSource.hash || ghSource.ref}${root}` : root
+      if (!this.dirCache[cacheKey]) {
+        let files = {}
+        if (ghSource) {
+          let url = `https://api.github.com/repos/${ghSource.acct}/${ghSource.repo}/git/trees/${ghSource.hash || ghSource.ref}`
+          let pathElems = root.split('/').filter(pe => pe)
+          let _dirList, found
+          for (let i = 0; i < pathElems.length; i++) {
+            _dirList = await this.ghDirList(url)
+            found = _dirList ? _dirList.tree.find(item => item.path === pathElems[i]) : null
+            url = found ? found.url : null
+            if (!url) break
+          }
+          if (url) {
+            _dirList = await this.ghDirList(url)
+            files = Object.fromEntries(_dirList.tree.map(item => [item.path, `https://raw.githubusercontent.com/${ghSource.acct}/${ghSource.repo}/${ghSource.hash || ghSource.ref}${root}${item.path}`]))
+          }
+        }
+        this.dirCache[cacheKey] = files
+      }
+      return this.dirCache[cacheKey]
+    },
+
+    async ghDirList(url) {
+      let resp = await fetch(url, { headers: {Authorization: `Token ${ghToken}`}} )
+      return resp.ok ? await resp.json() : null
+    },
+
+    async getFile(path, acct, repo, ref) {
+      acct = acct || this.contentSource.acct
+      repo = repo || this.contentSource.repo
+      ref = ref || this.contentSource.ref
+      // let ghToken = oauthAccessToken || ghUnscopedToken
+      // console.log(`getFile: path=${path} acct=${acct} repo=${repo} ref=${ref} ghToken=${ghToken}`)
+      if (repo) {
+        // let url = `https://api.github.com/repos/${acct}/${repo}/contents${path}?ref=${ref}`
+        // let resp = await fetch(url, ghToken ? {headers: {Authorization:`Token ${ghToken}`}} : {})
+        let resp = await fetch(`https://raw.githubusercontent.com/${acct}/${repo}/${ref}/${path}`)
+        if (resp.ok) {
+          resp = await resp.json()
+          return { sha: resp.sha, content: decodeURIComponent(escape(atob(resp.content))) }
+        }
+      } else {
+        let url = `${this.contentSource.baseUrl}${this.contentSource.basePath}${path}`
+        let resp = await fetch(url)
+        if (resp.ok) resp = await resp.text()
+        return {content: resp}
+      }
+      return null
+    },
+
+    async putFile(path, content, acct, repo, branch, message) {
+      acct = acct || this.contentSource.acct
+      repo = repo || this.contentSource.repo
+      branch = branch || this.contentSource.ref
+      message = message || 'API Commit'
+      if (ENV === 'PROD' && acct) {
+        // let ghToken = oauthAccessToken || ghUnscopedToken
+        let existing = await this.getFile(path, acct, repo, branch)
+        let payload = { message, branch, content: btoa(content) }
+        if (existing) payload.sha = existing.sha
+        let url = `https://api.github.com/repos/${acct}/${repo}/contents${path}?ref=${branch}`
+        let resp = await fetch(url, { method: 'PUT', body: JSON.stringify(payload), headers: {Authorization: `Token ${ghToken}`} })
+        resp = await resp.json()
+      } else {
+        let url = `${this.contentSource.baseUrl}${this.contentSource.basePath}${path}`
+        let resp = await fetch(url, { method: 'PUT', body: content })
+      }
+    },
+
+    convertLinks(root) {
+      root.querySelectorAll('a').forEach(link => {
+        if ((!link.href && link.dataset.target) || link.href.indexOf(window.location.host) > 0) {
+          // If internal link
+          let target = link.dataset.target
+          if (!target) { 
+            const parsedUrl = parseUrl(link.href)
+            let pathElems = parsedUrl.pathname.split('/').filter(elem => elem !== '')
+            if (contentSource.isGhpSite) {
+              if (pathElems[0] === contentSource.repo) pathElems = pathElems.slice(1)
+            } else {
+              if (pathElems[0] === contentSource.acct && pathElems[1] === contentSource.repo) pathElems = pathElems.slice(2)
+            }
+            target = parsedUrl.hash === '' ? `/${pathElems.join('/')}${pathElems.length > 0 ? '/' : ''}` : parsedUrl.hash.split('?')[0]
+          }
+          link.removeAttribute('href')
+          link.setAttribute('data-target', target)
+
+          // Add click handler for internal links
+          link.addEventListener('click', (e) => {
+            let target = e.target
+            while (!target.dataset.target && target.parentElement) { target = target.parentElement }
+            let path = target.dataset.target
+            if (path[0] === '#') {
+              let anchorElem = document.getElementById(path.slice(1))
+              if (anchorElem) anchorElem.scrollIntoView()
+            } else {
+              this.$emit('do-action', 'load-page', path)
+            }
+          })
+        } else {
+          // If external link, add external link icon to text and force opening in new tab
+          link.innerHTML += '<sup><i class="fa fa-external-link-square-alt" style="margin-left:3px;margin-right:2px;font-size:0.7em;color:#219653;"></i></sup>'
+          link.setAttribute('target', '_blank')
+        }
+      })
+    }
+  }
+})
+
+async function getGhFile(path) {
+  let url = `https://raw.githubusercontent.com/${contentSource.acct}/${contentSource.repo}/${contentSource.ref}/${path}`
+  let resp = await fetch(url)
+  if (resp.ok) return await resp.text()
+}
+
+function getDomPath(el) {
+  var stack = []
+  while ( el.parentNode != null ) {
+    let sibCount = 0
+    let sibIndex = 0
+    for ( var i = 0; i < el.parentNode.childNodes.length; i++ ) {
+      let sib = el.parentNode.childNodes[i];
+      if ( sib.nodeName == el.nodeName ) {
+        if ( sib === el ) {
+          sibIndex = sibCount;
+        }
+        sibCount++
+      }
+    }
+    if ( el.hasAttribute('id') && el.id != '' ) {
+      stack.unshift(el.nodeName.toLowerCase() + `#${el.id}`)
+    } else if ( sibCount > 1 ) {
+      stack.unshift(el.nodeName.toLowerCase() + (sibIndex > 0 ? `[${sibIndex}]` : ''))
+    } else {
+      stack.unshift(el.nodeName.toLowerCase())
+    }
+    el = el.parentNode
+  }
+  return stack
+}
+function setMetaDescription(description) {
+  let existing = Array.from(document.querySelectorAll('meta[name=description]')).find(item => item)
+  if (existing) existing.parentElement.removeChild(existing)
+  let el = document.createElement('meta')
+  el.name = 'description'
+  el.content = description
+  document.querySelector('head').appendChild(el)
+}
+function isNumeric(arg) { return !isNaN(arg) }
+function isEntityID(arg) { return typeof arg === 'string' && arg.split(':').slice(-1).find(val => val.length > 1 && val[0] === 'Q' && isNumeric(val.slice(1))) !== undefined }
+function attrsToObject(el) { return Object.fromEntries(Array.from(el.attributes).map(attr => [attr.nodeName, attr.value === '' || attr.value === 'true' ? true : attr.value === 'false' ? false : attr.value] )) }
+function arraysEqualIgnoreOrder(a, b) {
+  if (a.length !== b.length) return false
+  const uniqueValues = new Set([...a, ...b])
+  for (const v of uniqueValues) {
+    const aCount = a.filter(e => e === v).length
+    const bCount = b.filter(e => e === v).length
+    if (aCount !== bCount) return false
+  }
+  return true
+}
+function parseUrl(href) {
+  const match = href.match(/^(https?):\/\/(([^:/?#]*)(?::([0-9]+))?)(\/?[^?#]*)(\?[^#]*|)(#.*|)$/)
+  return (match && {protocol: match[1], host: match[2], hostname: match[3], origin: `${match[1]}://${match[2]}`,
+          port: match[4], pathname: match[5] || '/', search: match[6], hash: match[7]}
+  )
+}
+
+</script>
+
+<style>
+
+#essay {
+  flex: 1;
+  height: 100%;
+  overflow-y: scroll;
+}
+
+#viewer {
+  flex: 1;
+  height: 100%;
+  overflow-y: scroll;
+}
+  
+  #essay-component, #essay > section:last-of-type  {
+    padding-bottom: 80vh; /* Enables srolling all content through active paragraph region at top*/
+  }
+  
+  .visual-essay {
+    display: grid;
+    width: 100%;
+    height: 100vh;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr auto;
+  }
+  
+  .visual-essay #header {
+    display: unset;
+    grid-area: 1 / 1 / 2 / 3;
+    z-index: 2;
+  }
+  
+  .visual-essay #essay {
+    grid-area: 1 / 1 / 3 / 2;
+    z-index: 1;
+    overflow-y: scroll;
+    background-color: #f8f8f8;
+    font-size: 1.3rem;
+    padding: 420px 24px 24px 24px;
+    /*scroll-behavior: smooth;*/
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    line-height: 1.3;
+  }
+  
+  .visual-essay #viewer {
+    grid-area: 2 / 2 / 3 / 2;
+    position: relative;
+  }
+  
+  .visual-essay #footer {
+    grid-area: 3 / 1 / 4 / 3;
+  }
+  
+  #essay a {
+    cursor: pointer;
+    color: #0164b9;
+  }
+  
+  #app.vertical {
+    grid-template-columns: 1fr 50%;
+    grid-template-rows: auto 1fr;
+  }
+  
+  .vertical div.segment {
+      padding: 8px 24px 8px 16px;
+      line-height: 1.6;
+  }
+  
+  .vertical p {
+    padding: 8px 24px 8px 16px;
+    line-height: 1.6;
+  }
+  
+  .vertical div.segment.active {
+    background-color: #ffffff;
+    box-shadow: 0 0 3px 1px rgb(0 0 0 / 25%);
+    position: relative;
+    cursor: default;
+    border: 1px solid #9e9e9e;
+    border-radius: 8px;
+    padding: 7px 23px 7px 15px;
+  }
+  
+  /* small screen layout */
+  @media only screen and (max-width: 1000px) {
+    #app, #app.vertical {
+      grid-template-columns: 1fr;
+      grid-template-rows: auto 1fr auto;
+    }
+    .visual-essay #header {
+      grid-area: 1 / 1 / 2 / 2;
+    }
+    .visual-essay #essay {
+      grid-area: 1 / 1 / 3 / 2;
+      padding: 420px 9px 9px 9px;
+    }
+    div.segment.active {
+      background-color: #ffffff;
+      box-shadow: unset;
+      border: unset;
+      border-radius: 0;
+      padding: 8px 24px 8px 16px;
+    }
+    .visual-essay #viewer {
+      grid-area: 3 / 1 / 4 / 2;
+    }
+    .visual-essay #essay > section:last-of-type {
+      padding-bottom: 50vh !important; /* Enables srolling all content through active paragraph region at top*/
+    }
+  }
+  
+  h1 {
+    margin: 1rem 0;
+    font-size: 2.5rem;
+    font-family: 'Playfair Display', Serif;
+    font-weight: normal;
+    line-height: 1;
+  }
+  
+  .modal-form {
+      display: none;
+      position: absolute;
+      top: 25vh;
+      left: 25vw;
+      width: 50vw;
+      height: 55vh;
+      background-color: white;
+      z-index: 1000;
+      box-shadow: 0 0 3px 1px rgb(0 0 0 / 25%);
+      border-radius: 10px;
+      padding: 12px;
+  }
+  
+  .visible-form {
+    padding: 8px 16px 16px;
+    height: auto;
+  }
+  
+  #create-site-form, #update-site-form, #add-page-form {
+    left: 33vw;
+    width: 34vw;
+    height: 260px;
+  }
+  
+  .modal-form form {
+    display: grid;
+    height: 100%;
+    width: 100%;
+    grid-template-columns: 1fr;
+    grid-auto-rows: auto;
+    grid-gap: 8px;
+  }
+  .modal-form form h1 {
+    align-self: center;
+    justify-self: center;
+    padding: 6px;
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  .form-name, .form-email {
+    height: 30px;
+    padding: 3px 12px;
+    font-size: 1rem;
+  }
+  .form-message {
+    padding: 12px;
+    font-family: "Roboto",sans-serif;
+    font-size: 1.1rem;
+  }
+  .form-controls {
+    display: flex;
+    align-self: center;
+    justify-self: center;
+    padding: 6px;
+  }
+  .form-controls button {
+    margin: 0 6px;
+    font-size: 1rem;
+    padding: 3px 6px;
+  }
+  
+  p {
+      padding-right: 18px;
+  }
+  
+  div.segment p {
+    padding: 0;
+    margin: 12px 0 0 0;
+  }
+  
+  #tabs-bar {
+      display: flex;
+      flex-direction: column;
+      background-color: white;
+      padding: 0;
+      gap: 3px;
+      position: absolute;
+      top: 0;
+      right: 0;
+      font-size: 24px;
+      text-align: center;
+      margin: 0;
+  }
+  
+  #tabs-bar span {
+      margin: 0;
+      padding: 3px;
+      background-color: white;
+      line-height: 1em;
+    }
+  
+    #tabs-bar span svg {
+      margin: 0;
+      background-color: white !important;
+      color: #444A1E !important;
+    }
+  
+    #tabs-bar span.active-tab svg {
+      margin: 0;
+      background-color: #444A1E !important;
+      color: white !important;
+    }
+  
+    #tabs-bar span.active-tab:hover {
+      margin: 0;
+      background-color: #1f220a !important;
+      color: white !important;
+    }
+    #tabs-bar span.active-tab:hover svg {
+      margin: 0;
+      background-color: #1f220a !important;
+      color: white !important;
+    }
+  
+    #tabs-bar span:hover, span.active-tab {
+      color: white !important;
+      background-color: #444A1E !important;
+    }
+    #tabs-bar span:hover svg {
+      color: white !important;
+      background-color: #444A1E !important;
+    }
+  
+    .active span.entity {
+      border-bottom: 2px solid #444A1E;
+      cursor: pointer;
+    }
+  
+    .active span.entity:hover {
+      background: #e1ecbe !important;
+      transition: all 0.2s ease-in;
+    }
+  
+    .tippy-box {
+      max-width: unset !important;
+    }
+  
+    a.nav {
+      font-weight: bold;
+      color: #0164b9 !important;
+    }
+    a.nav i {
+      margin-right: 6px;
+    }
+  
+    .popup {
+      font-size: 1em;
+      padding: 6px;
+      max-width: 500px;
+      min-height: 250px;
+    }
+  
+    .popup p {
+      padding: 0;
+    }
+  
+    .popup .label {
+      font-size: 1.6em;
+      font-weight: bold;
+      color: #333;
+      padding-bottom: 12px;
+    }
+  
+    .popup .description {
+      padding-top: .3em;
+      line-height: 1.2em;
+      font-weight: bold;
+      font-style: italic;
+      font-size: 1.1em;
+    }
+  
+    .popup .summary {
+      text-align: justify;
+      font-size: 1.1em;
+    }
+  
+    .popup .image {
+      max-width: 200px;
+      /* max-height: 200px; */
+      float: right;
+      padding-left: 12px;
+    }
+  
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr) );
+      grid-auto-rows: 1fr;
+      grid-gap: 1.8rem;
+      margin-bottom: 48px;
+    }
+  
+    .card > h1, .card > h2, .card > h3, .card > h4, .card > h5, .card > h6 {
+        display: none;
+    }
+
+    .card {
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-template-rows: auto auto auto 1fr 0px;
+      grid-template-areas:
+          "image"
+          "title"
+          "metadata"
+          "abstract"
+          "heading";
+      border-radius: 4px;
+      padding: .5rem;
+    }
+  
+    .card > a, .card > strong {
+      grid-area: title;
+      font-weight: bold;
+      font-size: 1.5rem;
+      line-height: 1;
+      margin-top: 1.3rem;
+      margin-bottom: 0.2rem;
+      text-decoration: none;
+  }
+  
+  .card a:hover {
+    text-decoration: underline;
+  }
+  
+  .card img {
+      grid-area: image;
+      justify-self: stretch;
+      object-fit: cover;
+      width: 100%;
+      height: 250px;
+  }
+  
+  .card ul {
+      grid-area: metadata;
+      list-style-type: none;
+      padding: 12px 0;
+      margin: 0;
+      font-size: 0.9rem;
+      font-weight: 400;
+  }
+  
+  .abstract-text {
+    grid-area: abstract;
+    line-height: 1.4;
+    font-size: 0.9em;
+    /*font-style: italic;*/
+    /* height: 200px;*/
+    /* margin: 0 16px 16px 0; */
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;  
+  }
+  
+  .tippy-content pre {
+    overflow-x: auto;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+  }
+  .hljs{display:block;overflow-x:auto;padding:0.5em;background:#FFF}
+  .hljs,.hljs-subst{color:#333}
+  .hljs-comment{color:#888888}
+  .hljs-keyword,.hljs-attribute,.hljs-selector-tag,.hljs-meta-keyword,.hljs-doctag,.hljs-name{font-weight:bold}
+  .hljs-type,.hljs-string,.hljs-number,.hljs-selector-id,.hljs-selector-class,.hljs-quote,.hljs-template-tag,.hljs-deletion{color:#880000}
+  .hljs-title,.hljs-section{color:#880000;font-weight:bold}
+  .hljs-regexp,.hljs-symbol,.hljs-variable,.hljs-template-variable,.hljs-link,.hljs-selector-attr,.hljs-selector-pseudo{color:#BC6060}
+  .hljs-literal{color:#78A960}
+  .hljs-built_in,.hljs-bullet,.hljs-code,.hljs-addition{color:#397300}
+  .hljs-meta{color:#1f7199}.hljs-meta-string{color:#4d99bf}
+  .hljs-emphasis{font-style:italic}
+  .hljs-strong{font-weight:bold}
+  .hljs-attr{color:blue}
+  .hljs-name{color:green}
+  
+  .dimmed {
+    position: relative;
+  }
+  
+  .dimmed:after {
+    content: " ";
+    z-index: 1;
+    display: block;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.5);
+  }
+  
+  .segment pre {
+    margin-left: 18px;
+    padding: 0 12px;
+    border-left: 4px solid #ccc;
+    overflow-wrap: break-word ;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    white-space: -o-pre-wrap;
+  }
+  
+  p code {
+    background-color: #eee;
+    padding: 3px;
+  }
+  
+  .segment.active pre {
+    background-color: lemonchiffon;
+    font-weight: bold;
+  }
+  
+  .active .essay-interaction {
+    background-color: #e1ecbe;
+  }
+  .active .essay-interaction:hover {
+    border-bottom: 2px solid #444A1E;
+  }
+  
+  .notification {
+    border: 2px solid red;
+    padding: 12px !important;
+    background-color: #ffeeec;
+    font-weight: bold;
+  }
+  
+  .collapsible {
+    border-radius: 4px;
+    margin-top: 0.4em;
+    padding: 0.2em 0.4em;
+    border: 1px solid #605C2A;
+    background-color: #605C2A;
+    opacity: 0.8;
+    color: #fff;
+    font-size: 0.8em;
+    /* height: 40px;
+    width: 120px; */
+    cursor: pointer;
+  }
+  
+  span.seg-link {
+    position: absolute;
+    top: -4px;
+    left: 4px;
+    color: #ddd;
+  }
+  
+  span.seg-link svg {
+    color: #ddd;
+    font-size: 1rem;
+  }
+  
+  span.seg-link svg:hover {
+    color: #aaa;
+    cursor: copy;
+  }
+  
+  
+  #essay p img {
+    max-width: 33%;
+  }
+  
+  .left { 
+    float: left !important;
+    margin: 8px 18px 0 0 !important;
+  }
+  
+  .right {
+    float: right !important;
+    margin: 8px 0 0 18px !important;
+  }
+  
+  .border {
+    border: 1px solid #aaa;
+  }
+</style>

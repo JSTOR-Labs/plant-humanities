@@ -2,6 +2,7 @@
 .idea
 .DS_Store
 .venv
+*.pyc
 venv
 node_modules
 package-lock.json

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="{{ site.baseurl }}/favicon.ico" rel="icon" />
+    {%- seo -%}
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="{{ site.baseurl }}/main.css">
+    <!-- <script src="https://rsnyder.github.io/ezpage-wc/js/index.js" type="module"></script> -->
+    <script src="https://juncture-digital.github.io/web-components/js/index.js" type="module"></script>
+
+    <script>
+      window.config = {
+        owner: '{{ site.github.owner }}',
+        repo: '{{ site.github.repo }}',
+        branch: '{{ site.github.branch }}', 
+        baseurl: '{{ site.baseurl }}'
+      }
+    </script>
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/juncture/index.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" crossorigin="anonymous" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/http-vue-loader@1.4.2/src/httpVueLoader.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tippy.js/6.3.7/tippy.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+    <script src="{{ site.baseurl }}/juncture/index.js"></script>
+
+  </head>
+  <body>
+    {%- if site.layout.header == "true" -%}
+      {%- include header.html -%}
+    {%- endif -%}
+      <main class="page-content" aria-label="Content">
+      {{ content }}
+    </main>
+    {%- if site.layout.footer == "true" -%}
+      {%- include footer.html -%}
+    {%- endif -%}
+  </body>
+</html>
