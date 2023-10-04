@@ -31,6 +31,13 @@ Uribe Botta’s current PhD research explores the orchid trade between Colombia 
 Ashley Buchanan is the Postdoctoral Fellow for the Plant Humanities Initiative at Dumbarton Oaks. She is a historian of the early modern world, with a particular interest in plants, recipes, and medicinal cultures in seventeenth- and eighteenth-century Europe. She received her PhD in early modern history from the University of South Florida in December 2018. Her research spans many topics, which includes the history of science and medicine, women, and politics as well as the dynamics of gender and authority. Her current book project investigates the social, cultural, and political significance of pharmaceutical experimentation as well as the medicinal and botanical patronage at the late Medici Court (1650-1743). Her goal is to broaden the global dimension of recipes by studying the numerous exotic plants imported into Tuscany from the New World, East Africa, and Southeast Asia in the late 18th century. Ashley was a junior fellow in residence with the Medici Archive Project at the Archivio di Stato di Firenze and an Andrew W. Mellon Foundation Fellow at The Huntington.
 
 ##
+**Elizabeth Chant**
+
+![](Chant.jpg)
+
+Elizabeth Chant is Teaching Fellow in Liberal Arts at the University of Warwick. Her research considers how nature has been understood in the Americas as an object to be consumed, with a special focus on visual culture. Liz works at the intersections of environmental history and cultural studies, and in her current project she is developing a comparative study of domestic tourism to industrial sites in former frontier territories in Argentina, Chile, and the U.S. during the first half of the twentieth century using maps and travel ephemera. Broadly, her research interests include map history, Latin American environmental history, the history of aesthetics and visual culture, and travel writing. Liz’s research has been supported by the UK Arts and Humanities Research Council, UK Society for Latin American Studies, and the ARTES Iberian and Latin American Visual Culture Group, and fellowships at the Library of Congress and Huntington Library. In 2022, she hosted an online workshop with Centre for Latin American and Caribbean Studies, University of London, to showcase ongoing work in Latin American plant humanities. 
+
+##
 **Verónica Matallana Chaves**
 
 ![](Chaves.jpg)
