@@ -111,12 +111,15 @@ function createApp() {
 
   Array.from(tmp.querySelectorAll('[data-id]'))
     .forEach(seg => {
+      if (seg.tagName === 'SECTION') return
+      seg.setAttribute('data-seg', '')
       let id = seg.getAttribute('data-id') || ''
       let wrapper = document.createElement('div')
       wrapper.setAttribute('data-id', id)
+      wrapper.setAttribute('data-wrapper', '')
       wrapper.id = id
       wrapper.className = seg.className
-      // seg.removeAttribute('id')
+      seg.removeAttribute('id')
       seg.removeAttribute('data-id')
       seg.className = ''
       wrapper.appendChild(seg.cloneNode(true))
