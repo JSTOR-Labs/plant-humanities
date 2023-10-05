@@ -1,27 +1,17 @@
 .ve-meta title="Plant Humanities"
 
-.ve-header label="Plant Humanities Lab" logo="https://raw.githubusercontent.com/jstor-labs/plant-humanities/e5f2094/images/phl-website-png-logo.png" background=gh:jstor-labs/plant-humanities/images/header.jpg subtitle="Explore the cultural histories of plants and their influence on human societies" url=/ sticky
-    
-- [Home](/)
-- [About](/about)
-
-# Menus
-
-A nested menu with links
-    - [Home](/)
-    - [About](/about)
-
-A nested menu with links and double spaces at eol  
-    - [Home](/)
-    - [About](/about)
-
-A menu with links (not nested)
-- [Home](/)
-- [About](/about)
-
-A menu with links and double spaces at eol (not nested)
-- [Home](/)
-- [About](/about)
+<ve-header 
+    label="Plant Humanities Lab"
+    logo="https://raw.githubusercontent.com/jstor-labs/plant-humanities/e5f2094/images/phl-website-png-logo.png"
+    background="gh:jstor-labs/plant-humanities/images/header.jpg"
+    subtitle="Explore the cultural histories of plants and their influence on human societies"
+    url="/" 
+    sticky>
+    <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+    </ul>
+</ve-header>
 
 # Featured Plant Narratives 
 <param class="cards">
