@@ -102,8 +102,13 @@ window.html = `<<HTML>>`
 
 const ENV = 'PROD'
 const availableViewers = [
+  've1-compare',
+  've1-iframe',
   've1-image',
-  've1-map'
+  've1-knightlab-timeline',
+  've1-plant-specimen',
+  've1-map',
+  've1-video'
 ]
 
 const componentPrefix = 've1-'
@@ -122,10 +127,15 @@ const qargs = {}
 
 module.exports = {
   components: {
+    've1-compare': window.httpVueLoader(`${window.config.baseurl}/juncture/components/Compare.vue`),
     've-footer': window.httpVueLoader(`${window.config.baseurl}/juncture/components/Footer.vue`),
     've-header': window.httpVueLoader(`${window.config.baseurl}/juncture/components/Header.vue`),
+    've1-iframe': window.httpVueLoader(`${window.config.baseurl}/juncture/components/IFrame.vue`),
     've1-image': window.httpVueLoader(`${window.config.baseurl}/juncture/components/Image.vue`),
     've1-map': window.httpVueLoader(`${window.config.baseurl}/juncture/components/Map.vue`),
+    've1-knightlab-timeline': window.httpVueLoader(`${window.config.baseurl}/juncture/components/KnightlabTimeline.vue`),
+    've1-plant-specimen': window.httpVueLoader(`${window.config.baseurl}/juncture/components/PlantSpecimen.vue`),
+    've1-video': window.httpVueLoader(`${window.config.baseurl}/juncture/components/Video.vue`),
     've-visual-essay': window.httpVueLoader(`${window.config.baseurl}/juncture/components/VisualEssay.vue`),
   },
   props: {

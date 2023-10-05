@@ -1,11 +1,10 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 <param ve-config
 	title="Maize: Sacred Plant, Global Commodity"
        source-image="https://github.com/JSTOR-Labs/plant-humanities/blob/main/maize/banner_Baumann_Hopi_Corn_Indianapolis_Museum_of_Art_In_Copyright_Bridgeman_Images.jpg?raw=true"
        banner="https://github.com/JSTOR-Labs/plant-humanities/blob/main/maize/banner_Baumann_Hopi_Corn_Indianapolis_Museum_of_Art_In_Copyright_Bridgeman_Images.jpg?raw=true"
        layout="vtl"
        author="Julia Fine"
-       description=“Add.”>
+       description=“TODO”>
   
 The year was 2014, and many Guatemalans were incensed. With a population of 14 million, approximately 120,000 took to the streets. Protesters blocked traffic along the Pan American Highway and other major roadways to voice their opposition to the “Law for the Protection of New Plant Varieties,” or, as it was popularly known, the “<span eid="Q207983">Monsanto</span> Law.” The law “outlawed the replanting, transportation, or selling of privatized seeds without permission, and made these actions punishable by one to four years in jail and a fine of 1,000 to 10,000 quetzals (US$130 to $1,300).”[^ref1]
 <param ve-map title="During the 2014 protests against Monsanto’s Law, protestors in Guatemala blocked traffic along this major roadway." center="15.0981244, -90.316436" zoom="7">
