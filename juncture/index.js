@@ -30,13 +30,15 @@ async function getConfig() {
 }
 
 function ezComponentHtml(el) {
+  console.log(el)
   let lines = el.textContent?.trim().split('\n') || []
+  console.log(lines)
   if (lines.length === 0) return ''
   let headLine = lines[0]
-  console.log(`headLine=${headLine}`)
   let tag = headLine.match(/\.ve-[^\W]+/)?.[0].slice(1)
   let attrs = asAttrs(parseHeadline(headLine))
   let slot = lines.length > 1 ? marked.parse(lines.slice(1).map(l => l.replace(/^    /,'')).join('\n')) : ''
+  console.log(slot)
   let elemHtml = `<${tag} ${attrs}>\n${slot}</${tag}>`
   return elemHtml
 }
@@ -48,7 +50,6 @@ function parseHeadline(s) {
     if (tokens.length > 0 && tokens[tokens.length-1].indexOf('=') === tokens[tokens.length-1].length-1) tokens[tokens.length-1] = `${tokens[tokens.length-1]}${token}`
     else tokens.push(token)
   })
-  console.log(tokens)
   return Object.fromEntries(tokens.slice(1).map(token => {
     if (token.indexOf('=') > 0) {
       let [key, value] = token.split('=')
@@ -81,10 +82,7 @@ async function convertToEzElements(el) {
     })
 
   Array.from(el.querySelectorAll('p'))
-    .filter(p => {
-      console.log(p)
-      return /^\s*\.ve-/.test(p.textContent || '')
-    })
+    .filter(p => /^\s*\.ve-/.test(p.textContent || ''))
     .forEach(p => {
       let ezComponent = new DOMParser().parseFromString(ezComponentHtml(p), 'text/html').children[0].children[1].children[0]
       p.parentNode?.replaceChild(ezComponent, p)

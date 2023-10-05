@@ -82,6 +82,7 @@ html_template = re.sub(r'^\s*{%- if site.layout.header == "true" -%}\s*{%- inclu
 html_template = re.sub('^\s*{%- if site.layout.footer == "true" -%}\s*{%- include footer.html -%}\s*{%- endif -%}', footer if include_footer else '', html_template, flags=re.MULTILINE)
 
 # html_template = html_template.replace('https://rsnyder.github.io/ezpage-wc/js/index.js', 'http://localhost:5173/src/main.ts')
+html_template = html_template.replace('https://juncture-digital.github.io/web-components/js/index.js', 'http://localhost:5173/src/main.ts')
 html_template = html_template.replace('{%- seo -%}', seo)
 html_template = html_template.replace('{{ site.github.owner }}', config['github']['owner'])
 html_template = html_template.replace('{{ site.github.repo }}', config['github']['repo'])
@@ -129,6 +130,7 @@ async def serve(path: Optional[str] = None):
     content = open(local_file_path, 'r').read()
   if ext is None: # markdown file
     content = html_from_markdown(content, baseurl=f'/{"/".join(path)}/' if len(path) > 0 else '/')
+    logger.info(content)
   media_type = media_types[ext] if ext in media_types else 'text/html'
   return Response(status_code=200, content=content, media_type=media_type)
 

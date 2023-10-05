@@ -1,8 +1,9 @@
 .ve-meta title="Plant Humanities"
 
 .ve-header label="Plant Humanities Lab" logo="https://raw.githubusercontent.com/jstor-labs/plant-humanities/e5f2094/images/phl-website-png-logo.png" background=gh:jstor-labs/plant-humanities/images/header.jpg subtitle="Explore the cultural histories of plants and their influence on human societies" url=/ sticky
-    - [Home](/)
-    - [About](/about)
+    
+- [Home](/)
+- [About](/about)
 
 # Featured Plant Narratives 
 <param class="cards">
@@ -241,3 +242,6 @@
 - Kira Bre Clingen
  
 ![](/images/thumbnails/Dioscorea.jpeg)
+
+.ve-footer
+    - [A link](/)
