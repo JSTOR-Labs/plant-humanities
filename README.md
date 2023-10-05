@@ -1,6 +1,6 @@
 .ve-meta title="Plant Humanities"
 
-.ve-header label="Plant Humanities Lab" background=gh:jstor-labs/plant-humanities/images/header.jpg sticky
+.ve-header label="Plant Humanities Lab" logo="https://raw.githubusercontent.com/jstor-labs/plant-humanities/e5f2094/images/phl-website-png-logo.png" background=gh:jstor-labs/plant-humanities/images/header.jpg subtitle="Explore the cultural histories of plants and their influence on human societies" url=/ sticky
     - [Home](/)
     - [About](/about)
 
@@ -42,8 +42,8 @@
 
 ![](/images/thumbnails/ayahuasca.jpg)
 
-## Peanut: From Luxury Food to Livestock Feed*
-[Peanut: From Luxury Food to Livestock Feed*](peanut)
+## Peanut: From Luxury Food to Livestock Feed
+[Peanut: From Luxury Food to Livestock Feed](peanut)
 
 - Maria Job, Elizabeth Chant, and Katherine Enright
 
