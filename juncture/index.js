@@ -4,13 +4,91 @@ const referrerUrl = document.referrer
 if (referrerUrl) {
   console.log(`referrer=${referrerUrl}`)
   let referrer = new URL(referrerUrl)
-  let isGhp = location.host.indexOf('github.io') > 0
   if (referrer.host === 'github.com' && referrer.pathname.indexOf('/jstor-labs/juncture/wiki') < 0) {
     let [acct, repo, _, branch, ...path] = referrer.pathname.slice(1).split('/').filter(pe => pe && pe !== 'README.md')
-    const redirectUrl = `${window.location.origin}/${isGhp ? repo + '/' : ''}preview/?branch=${branch}#${acct}/${repo}/${path.join('/')}`
+    const redirectUrl = `${window.location.origin}/${isGHP ? repo + '/' : ''}preview/?branch=${branch}#${acct}/${repo}/${path.join('/')}`
     console.log(`Redirecting for preview: ${redirectUrl}`)
     window.location = redirectUrl
   }
+}
+
+let _config = window.config
+async function getConfig() {
+  if (_config) return _config
+  _config = {}
+  let resp = await fetch('_config.yml')
+  if (resp.ok) {
+    let rawText = await resp.text()
+    if (rawText.indexOf('<!DOCTYPE html>') < 0) {
+      _config = rawText.split('\n').map(l => l.split(':')).reduce((acc, [k, v]) => {
+        acc[k.trim()] = v.trim()
+        return acc
+      }, {})
+    }
+  }
+  return _config
+}
+
+function ezComponentHtml(el) {
+  let lines = el.textContent?.trim().split('\n') || []
+  if (lines.length === 0) return ''
+  let headLine = lines[0]
+  console.log(`headLine=${headLine}`)
+  let tag = headLine.match(/\.ve-[^\W]+/)?.[0].slice(1)
+  let attrs = asAttrs(parseHeadline(headLine))
+  let slot = lines.length > 1 ? marked.parse(lines.slice(1).map(l => l.replace(/^    /,'')).join('\n')) : ''
+  let elemHtml = `<${tag} ${attrs}>\n${slot}</${tag}>`
+  return elemHtml
+}
+
+function parseHeadline(s) {
+  let tokens = []
+  s = s.replace(/”/g,'"').replace(/”/g,'"').replace(/’/g,"'")
+  s?.match(/[^\s"]+|"([^"]*)"/gmi)?.forEach(token => {
+    if (tokens.length > 0 && tokens[tokens.length-1].indexOf('=') === tokens[tokens.length-1].length-1) tokens[tokens.length-1] = `${tokens[tokens.length-1]}${token}`
+    else tokens.push(token)
+  })
+  console.log(tokens)
+  return Object.fromEntries(tokens.slice(1).map(token => {
+    if (token.indexOf('=') > 0) {
+      let [key, value] = token.split('=')
+      return [key, value[0] === '"' && value[value.length-1] === '"' ? value.slice(1, -1) : value]
+    } else return [token, "true"]
+  }))
+}
+
+function asAttrs(obj) {
+  return Object.entries(obj).map(([k, v]) => v === 'true' ? k : `${k}="${v}"`).join(' ')
+}
+
+async function convertToEzElements(el) {
+  let config = await getConfig()
+  el.querySelectorAll('a').forEach(anchorElem => {
+    let link = new URL(anchorElem.href)
+    let qargs = new URLSearchParams(link.search)
+    if (qargs.get('zoom')) anchorElem.setAttribute('rel', 'nofollow')
+    if (isGHP && link.origin === location.origin && link.pathname.indexOf(`/${config.repo}/`) !== 0) anchorElem.href = `/${config.repo}${link.pathname}`
+  })
+
+  Array.from(el.querySelectorAll('img'))
+    .forEach(img => {
+      if (img.parentElement?.classList.contains('card')) return
+      let ezImage = document.createElement('ez-image')
+      ezImage.setAttribute('src', img.src)
+      ezImage.setAttribute('alt', img.alt)
+      ezImage.setAttribute('left', '');
+      img.parentNode.replaceWith(ezImage)
+    })
+
+  Array.from(el.querySelectorAll('p'))
+    .filter(p => {
+      console.log(p)
+      return /^\s*\.ve-/.test(p.textContent || '')
+    })
+    .forEach(p => {
+      let ezComponent = new DOMParser().parseFromString(ezComponentHtml(p), 'text/html').children[0].children[1].children[0]
+      p.parentNode?.replaceChild(ezComponent, p)
+    })
 }
 
 function structureContent() {
@@ -96,7 +174,7 @@ function structureContent() {
     }
   })
 
-  // convertToEzElements(restructured)
+  convertToEzElements(restructured)
   main?.replaceWith(restructured)
 }
 
@@ -112,11 +190,9 @@ function createApp() {
   Array.from(tmp.querySelectorAll('[data-id]'))
     .forEach(seg => {
       if (seg.tagName === 'SECTION') return
-      seg.setAttribute('data-seg', '')
       let id = seg.getAttribute('data-id') || ''
       let wrapper = document.createElement('div')
       wrapper.setAttribute('data-id', id)
-      wrapper.setAttribute('data-wrapper', '')
       wrapper.id = id
       wrapper.className = seg.className
       seg.removeAttribute('id')

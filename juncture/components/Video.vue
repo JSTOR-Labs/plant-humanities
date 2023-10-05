@@ -1,38 +1,4 @@
 <template>
-  <!--
-  <div ref="player" class="text-xs-center">
-    
-    <youtube
-      v-if="playerWidth"
-      ref="youtube"
-      :fit-parent="true"
-      :resize="true"
-      :video-id="videoId"
-      :width="playerWidth - 12"
-      :player-vars="playerVars"
-      @ready="ready"
-      @playing="playing"
-      @paused="paused"
-      class="youtube-iframe"
-    />
-    
-  <iframe
-    v-if="playerWidth"
-    :src="videoId"
-    :width="playerWidth - 12">
-  </iframe>
- 
-      <video
-     id=”my-player”
-     class=”video-js”
-     controls
-     preload=”auto”
-     poster=”//vjs.zencdn.net/v/oceans.png”
-     data-setup=’{}’>
-     <source src=”https://www.youtube.com/watch?v=_VwKvS6QpsI" type=”video/mp4"></source>
-   </video>
-  </div>
-    -->
 
   <div :style="containerStyle">
     <div class="plyr__video-embed" id="player">
@@ -44,10 +10,8 @@
         :width="playerWidth - 12"
       ></iframe>
     </div>
-  <div>
+  </div>
 
-
-  
 </template>
 
 <script>

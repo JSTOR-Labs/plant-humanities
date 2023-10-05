@@ -1,5 +1,9 @@
 .ve-meta title="Plant Humanities"
 
+.ve-header label="Plant Humanities Lab" background=gh:jstor-labs/plant-humanities/images/header.jpg sticky
+    - [Home](/)
+    - [About](/about)
+
 # Featured Plant Narratives 
 <param class="cards">
 
