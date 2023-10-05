@@ -5,6 +5,24 @@
 - [Home](/)
 - [About](/about)
 
+# Menus
+
+A nested menu with links
+    - [Home](/)
+    - [About](/about)
+
+A nested menu with links and double spaces at eol  
+    - [Home](/)
+    - [About](/about)
+
+A menu with links (not nested)
+- [Home](/)
+- [About](/about)
+
+A menu with links and double spaces at eol (not nested)
+- [Home](/)
+- [About](/about)
+
 # Featured Plant Narratives 
 <param class="cards">
 
