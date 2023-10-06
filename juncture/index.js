@@ -10,7 +10,7 @@ if (referrerUrl) {
     let [acct, repo, _, branch, ...path] = referrer.pathname.slice(1).split('/').filter(pe => pe && pe !== 'README.md')
     const redirectUrl = `${window.location.origin}/${isGHP ? repo + '/' : ''}preview/?branch=${branch}#${acct}/${repo}/${path.join('/')}`
     console.log(`Redirecting for preview: ${redirectUrl}`)
-    window.location = redirectUrl
+    // window.location = redirectUrl
   }
 }
 
