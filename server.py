@@ -96,6 +96,16 @@ html_template = re.sub(r'^\s*{%- .*$', '', html_template)
 def html_from_markdown(md, baseurl):
   html = html_template.replace('{{ content }}', markdown.markdown(md, extensions=['extra', 'toc']))
   soup = BeautifulSoup(html, 'html5lib')
+  for tag in soup.find_all(re.compile('^ve-')):
+    parent = tag.parent
+    if parent.next_sibling and parent.next_sibling.name == 'ul':
+      options_list = parent.next_sibling
+      tag.append(options_list)
+      if parent.name == 'p':
+        parent.replace_with(tag)
+  for el in soup.find_all('a'):
+    if el.get('href') and el.get('href').startswith('#'):
+      el['href'] = f'{baseurl}{el["href"]}'
   for link in soup.find_all('a'):
     href = link.get('href')
     if href and not href.startswith('http') and not href.startswith('#') and not href.startswith('/'):

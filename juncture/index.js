@@ -30,15 +30,12 @@ async function getConfig() {
 }
 
 function ezComponentHtml(el) {
-  console.log(el)
   let lines = el.textContent?.trim().split('\n') || []
-  console.log(lines)
   if (lines.length === 0) return ''
   let headLine = lines[0]
   let tag = headLine.match(/\.ve-[^\W]+/)?.[0].slice(1)
   let attrs = asAttrs(parseHeadline(headLine))
   let slot = lines.length > 1 ? marked.parse(lines.slice(1).map(l => l.replace(/^    /,'')).join('\n')) : ''
-  console.log(slot)
   let elemHtml = `<${tag} ${attrs}>\n${slot}</${tag}>`
   return elemHtml
 }
@@ -97,7 +94,7 @@ function structureContent() {
   let sectionParam
 
   let children = []
-  Array.from(main?.children || []).forEach((el, idx) => {
+  Array.from(main?.children || []).forEach(el => {
     if (/^\s*{#.*}\s*$/.test(el.textContent)) {      
       let i = children.length-1
       let prior = children[i]
@@ -292,6 +289,16 @@ async function init() {
   console.log(`init isPreview=${isPreview} isJunctureV1=${isJunctureV1}`)
 
   structureContent()
+
+  let wcScriptEl = document.createElement('script')
+  wcScriptEl.setAttribute('type', 'module')
+  wcScriptEl.setAttribute('src',
+    location.hostname === 'localhost'
+      ? 'http://localhost:5173/src/main.ts' 
+      : 'https://juncture-digital.github.io/web-components/js/index.js'
+  )
+  document.body.appendChild(wcScriptEl)
+
   if (isJunctureV1) createApp()
 }
 
