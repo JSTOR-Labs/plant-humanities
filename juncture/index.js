@@ -4,7 +4,9 @@ const referrerUrl = document.referrer
 if (referrerUrl) {
   console.log(`referrer=${referrerUrl}`)
   let referrer = new URL(referrerUrl)
-  if (referrer.host === 'github.com' && referrer.pathname.indexOf('/jstor-labs/juncture/wiki') < 0) {
+  let referrerQargs = new URLSearchParams(referrer.search)
+  console.log(referrer, referrerQargs)
+  if (referrer.host === 'github.com' && !referrerQargs.get('code')) {
     let [acct, repo, _, branch, ...path] = referrer.pathname.slice(1).split('/').filter(pe => pe && pe !== 'README.md')
     const redirectUrl = `${window.location.origin}/${isGHP ? repo + '/' : ''}preview/?branch=${branch}#${acct}/${repo}/${path.join('/')}`
     console.log(`Redirecting for preview: ${redirectUrl}`)
