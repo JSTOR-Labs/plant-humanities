@@ -96,7 +96,7 @@ Kira Clingen is a Lecturer in Landscape Architecture at the Harvard Graduate Sch
 
 ![](Dam.jpg)
 
-Ashley Thuthao Keng Dam (Ph.D. | they/them) is a medical anthropologist, ethnobotanist, and food writer living in the Netherlands. Thao is a multimodial mixed methods researcher who loves all things food, plants, and medicine. They completed the Plant Humanities Summer School Programme in 2021. Thao received their Ph.D. in Ecogastronomy, Education, and Society in 2022 from Università degli Studi di Scienze Gastronomiche (Pollenzo, Italy). They received their anthropological training from the University of Oxford (M.Sc., 2018, UK) and St. Mary's College of Maryland (B.A. Hons., 2016, USA). Currently, Thao works as a lecturer in Global Health in the Department of Health, Ethics, and Society (HES) at Maastricht University and is an Explorer for the National Geographic Society.
+Ashley Thuthao Keng Dam (Ph.D. - they/them) is a medical anthropologist, ethnobotanist, and food writer living in the Netherlands. Thao is a multimodial mixed methods researcher who loves all things food, plants, and medicine. They completed the Plant Humanities Summer School Programme in 2021. Thao received their Ph.D. in Ecogastronomy, Education, and Society in 2022 from Università degli Studi di Scienze Gastronomiche (Pollenzo, Italy). They received their anthropological training from the University of Oxford (M.Sc., 2018, UK) and St. Mary's College of Maryland (B.A. Hons., 2016, USA). Currently, Thao works as a lecturer in Global Health in the Department of Health, Ethics, and Society (HES) at Maastricht University and is an Explorer for the National Geographic Society.
 
 ## Christina Emery
 
