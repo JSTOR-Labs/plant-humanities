@@ -182,7 +182,8 @@ module.exports = {
                   let re = new RegExp(`(^|[\\s(>])(${toMatch[i].replace(/'/, "'?")})([\\s)<;:,.]|$)`, 'i')
                   let match = re.exec(paraHTML)
                   if (match) {
-                    paraHTML = paraHTML.replace(match[2], `<span class="entity inferred" data-eid="${id}">${match[2]}</span>`)
+                    // paraHTML = paraHTML.replace(match[2], `<span class="entity inferred" data-eid="${id}">${match[2]}</span>`)
+                    paraHTML = paraHTML.replace(match[2], `<entity-infobox qid="${id}">${match[2]}</entity-infobox>`)
                     entity.foundIn.add(para.parentElement.dataset.id)
                     break
                   }
