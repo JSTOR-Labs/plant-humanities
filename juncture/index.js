@@ -298,6 +298,7 @@ async function init() {
       : 'https://juncture-digital.github.io/web-components/js/index.js'
   )
   document.body.appendChild(wcScriptEl)
+  console.log('wcScriptEl', wcScriptEl)
 
   if (isJunctureV1) createApp()
 }
