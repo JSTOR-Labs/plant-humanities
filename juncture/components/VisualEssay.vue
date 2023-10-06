@@ -196,15 +196,21 @@ module.exports = {
       })
       Array.from(root.querySelectorAll('p span')).forEach(span => {
         if (span.attributes.eid) {
-          span.setAttribute('data-eid', span.attributes.eid.value)
-          span.classList.add('entity', 'tagged')
+          // span.setAttribute('data-eid', span.attributes.eid.value)
+          // span.classList.add('entity', 'tagged')
+          let entityInfobox = document.createElement('ve-entity-infobox')
+          entityInfobox.setAttribute('qid', span.dataset.eid.value)
+          span.replaceWith(entityInfobox)
         }
       })
+
+      /*
       Array.from(root.querySelectorAll('span.entity'))
         .forEach(el => el.addEventListener('click', (e) => {
           // console.log('entity selected', e.target.dataset.eid)
         })
       )
+      */
     }
   },
   watch: {
