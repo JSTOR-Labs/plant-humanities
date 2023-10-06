@@ -1,4 +1,4 @@
-.ve-meta title="Plant Humanities"
+.ve-meta title="Plant Humanities Lab"
 
 <ve-header 
     label="Plant Humanities Lab"
