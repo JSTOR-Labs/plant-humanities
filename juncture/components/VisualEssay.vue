@@ -199,7 +199,7 @@ module.exports = {
           // span.setAttribute('data-eid', span.attributes.eid.value)
           // span.classList.add('entity', 'tagged')
           let entityInfobox = document.createElement('ve-entity-infobox')
-          entityInfobox.setAttribute('qid', span.dataset.eid.value)
+          entityInfobox.setAttribute('qid', span.attributes.eid.value)
           span.replaceWith(entityInfobox)
         }
       })
