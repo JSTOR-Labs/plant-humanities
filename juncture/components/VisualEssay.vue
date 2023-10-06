@@ -168,6 +168,7 @@ module.exports = {
     // Finds words/phrases in content paragraphs that match labels or aliases for entities in scope
     // Matched text is wrapped with a span tag for reacting to hover and click actions
     tagEntities(root) {
+      console.log('tagEntities', root)
       Array.from(root.querySelectorAll('.segment p')).forEach(para => {
         let paraHTML = para.innerHTML
         this.paramsInScope(para, this.params)
@@ -183,7 +184,7 @@ module.exports = {
                   let match = re.exec(paraHTML)
                   if (match) {
                     // paraHTML = paraHTML.replace(match[2], `<span class="entity inferred" data-eid="${id}">${match[2]}</span>`)
-                    paraHTML = paraHTML.replace(match[2], `<entity-infobox qid="${id}">${match[2]}</entity-infobox>`)
+                    paraHTML = paraHTML.replace(match[2], `<ve-entity-infobox qid="${id}">${match[2]}</ve-entity-infobox>`)
                     entity.foundIn.add(para.parentElement.dataset.id)
                     break
                   }
