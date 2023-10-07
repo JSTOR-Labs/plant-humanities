@@ -16,7 +16,7 @@ if (referrerUrl) {
 
 async function getConfig() {
   if (window._config) return window._config
-  let resp = await fetch('/_extra_config.yml')
+  let resp = await fetch('/juncture/config.yml')
   if (resp.ok) window._config = {
     ...window.config,
     ...window.jsyaml.load(await resp.text())
@@ -295,9 +295,9 @@ async function init() {
       ? 'http://localhost:5173/src/main.ts' 
       : 'https://juncture-digital.github.io/web-components/js/index.js'
   )
+  wcScriptEl.addEventListener('load', () => { if (isJunctureV1) createApp() })
   document.body.appendChild(wcScriptEl)
 
-  if (isJunctureV1) createApp()
 }
 
 document.addEventListener('DOMContentLoaded', () =>  init() )
