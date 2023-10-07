@@ -16,9 +16,11 @@ if (referrerUrl) {
 
 async function getConfig() {
   if (window._config) return window._config
-  let resp = await fetch('/config.yml')
-  if (resp.ok) window._config = window.jsyaml.load(await resp.text())
-
+  let resp = await fetch('/_extra_config.yml')
+  if (resp.ok) window._config = {
+    ...window.config,
+    ...window.jsyaml.load(await resp.text())
+  }
   return window._config
 }
 
