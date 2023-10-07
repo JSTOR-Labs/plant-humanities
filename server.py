@@ -129,9 +129,10 @@ async def serve(path: Optional[str] = None):
   path = [pe for pe in path.split('/') if pe != ''] if path else []
   ext = path[-1].split('.')[-1].lower() if len(path) > 0 and '.' in path[-1] else None
   local_file_path = f'{BASEDIR}/{"/".join(path)}' if ext else f'{BASEDIR}/{"/".join(path)}/README.md'
+  if '/'.join(path) == 'preview':
+    return Response(status_code=200, content=html_template, media_type='text/html')
   if not os.path.exists(local_file_path):
     return Response(status_code=404, content=not_found_page, media_type='text/html')
-  logger.info(f'GET {local_file_path}')
   if ext == 'ico':
     content = favicon
   elif ext in ['jpg', 'jpeg', 'png', 'svg']:
@@ -140,7 +141,6 @@ async def serve(path: Optional[str] = None):
     content = open(local_file_path, 'r').read()
   if ext is None: # markdown file
     content = html_from_markdown(content, baseurl=f'/{"/".join(path)}/' if len(path) > 0 else '/')
-    logger.info(content)
   media_type = media_types[ext] if ext in media_types else 'text/html'
   return Response(status_code=200, content=content, media_type=media_type)
 

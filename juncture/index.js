@@ -14,21 +14,12 @@ if (referrerUrl) {
   }
 }
 
-let _config = window.config
 async function getConfig() {
-  if (_config) return _config
-  _config = {}
+  if (window._config) return window._config
   let resp = await fetch('_config.yml')
-  if (resp.ok) {
-    let rawText = await resp.text()
-    if (rawText.indexOf('<!DOCTYPE html>') < 0) {
-      _config = rawText.split('\n').map(l => l.split(':')).reduce((acc, [k, v]) => {
-        acc[k.trim()] = v.trim()
-        return acc
-      }, {})
-    }
-  }
-  return _config
+  if (resp.ok) window._config = window.jsyaml.load(await resp.text())
+
+  return window._config
 }
 
 function ezComponentHtml(el) {
@@ -240,7 +231,7 @@ function createApp() {
       })
     }
   })
-  const vue = new window.Vue({
+  new window.Vue({
     el: '#vue',
     components: {
       'juncture-v1': window.httpVueLoader(`${window.config.baseurl}/juncture/components/JunctureV1.vue`)
@@ -282,6 +273,9 @@ async function init() {
     let md = await getGhFile(acct, repo, branch, `${path.join('/')}/README.md`)
     document.querySelector('main').innerHTML = marked.parse(md)
   }
+
+  let _config = await getConfig()
+  console.log(_config)
 
   let isJunctureV1 = Array.from(document.querySelectorAll('param'))
     .find(param =>
