@@ -2,7 +2,7 @@ const isGHP = /\.github\.io$/.test(location.hostname)
 
 const referrerUrl = document.referrer
 if (referrerUrl) {
-  console.log(`referrer=${referrerUrl}`)
+  // console.log(`referrer=${referrerUrl}`)
   let referrer = new URL(referrerUrl)
   if (referrer.host === 'github.com') {
     let [acct, repo, _, branch, ...path] = referrer.pathname.slice(1).split('/').filter(pe => pe && pe !== 'README.md')
@@ -14,82 +14,24 @@ if (referrerUrl) {
   }
 }
 
-async function getConfig() {
-  if (window._config) return window._config
-  let resp = await fetch('/juncture/config.yml')
-  if (resp.ok) window._config = {
-    ...window.config,
-    ...window.jsyaml.load(await resp.text())
+let junctureConfig
+async function getJunctureConfig() {
+  if (!junctureConfig) {
+    let resp = await fetch('/juncture/config.yml')
+    if (resp.ok) window.config = {
+      ...window.config,
+      ...window.jsyaml.load(await resp.text())
+    }
   }
-  return window._config
-}
-
-function ezComponentHtml(el) {
-  let lines = el.textContent?.trim().split('\n') || []
-  if (lines.length === 0) return ''
-  let headLine = lines[0]
-  let tag = headLine.match(/\.ve-[^\W]+/)?.[0].slice(1)
-  let attrs = asAttrs(parseHeadline(headLine))
-  let slot = lines.length > 1 ? marked.parse(lines.slice(1).map(l => l.replace(/^    /,'')).join('\n')) : ''
-  let elemHtml = `<${tag} ${attrs}>\n${slot}</${tag}>`
-  return elemHtml
-}
-
-function parseHeadline(s) {
-  let tokens = []
-  s = s.replace(/”/g,'"').replace(/”/g,'"').replace(/’/g,"'")
-  s?.match(/[^\s"]+|"([^"]*)"/gmi)?.forEach(token => {
-    if (tokens.length > 0 && tokens[tokens.length-1].indexOf('=') === tokens[tokens.length-1].length-1) tokens[tokens.length-1] = `${tokens[tokens.length-1]}${token}`
-    else tokens.push(token)
-  })
-  return Object.fromEntries(tokens.slice(1).map(token => {
-    if (token.indexOf('=') > 0) {
-      let [key, value] = token.split('=')
-      return [key, value[0] === '"' && value[value.length-1] === '"' ? value.slice(1, -1) : value]
-    } else return [token, "true"]
-  }))
-}
-
-function asAttrs(obj) {
-  return Object.entries(obj).map(([k, v]) => v === 'true' ? k : `${k}="${v}"`).join(' ')
-}
-
-async function convertToEzElements(el) {
-  let config = await getConfig()
-  el.querySelectorAll('a').forEach(anchorElem => {
-    let link = new URL(anchorElem.href)
-    let qargs = new URLSearchParams(link.search)
-    if (qargs.get('zoom')) anchorElem.setAttribute('rel', 'nofollow')
-    if (isGHP && link.origin === location.origin && link.pathname.indexOf(`/${config.repo}/`) !== 0) anchorElem.href = `/${config.repo}${link.pathname}`
-  })
-
-  Array.from(el.querySelectorAll('img'))
-    .forEach(img => {
-      if (img.parentElement?.classList.contains('card')) return
-      let ezImage = document.createElement('ez-image')
-      ezImage.setAttribute('src', img.src)
-      ezImage.setAttribute('alt', img.alt)
-      ezImage.setAttribute('left', '');
-      img.parentNode.replaceWith(ezImage)
-    })
-
-  Array.from(el.querySelectorAll('p'))
-    .filter(p => /^\s*\.ve-/.test(p.textContent || ''))
-    .forEach(p => {
-      let ezComponent = new DOMParser().parseFromString(ezComponentHtml(p), 'text/html').children[0].children[1].children[0]
-      p.parentNode?.replaceChild(ezComponent, p)
-    })
+  return window.config
 }
 
 function structureContent() {
   let main = document.querySelector('main')
   let restructured = document.createElement('main')
 
-  let currentSection = restructured;
-  let sectionParam
-
   let children = []
-  Array.from(main?.children || []).forEach(el => {
+  Array.from(main?.children || []).forEach((el, idx) => {
     if (/^\s*{#.*}\s*$/.test(el.textContent)) {      
       let i = children.length-1
       let prior = children[i]
@@ -100,6 +42,8 @@ function structureContent() {
     }
   })
 
+  let currentSection = restructured;
+  let sectionParam
   for (let i = 0; i < children.length; i++) {
     let el = children[i]
     if (el.tagName[0] === 'H' && isNumeric(el.tagName.slice(1))) {
@@ -164,8 +108,20 @@ function structureContent() {
     }
   })
 
-  convertToEzElements(restructured)
   main?.replaceWith(restructured)
+}
+
+function isNumeric(arg) { return !isNaN(arg) }
+
+function computeDataId(el) {
+  let dataId = []
+  // if (!el.parentElement) dataId.push(1)
+  while (el.parentElement) {
+    let siblings = Array.from(el.parentElement.children).filter(c => c.tagName === el.tagName)
+    dataId.push(siblings.indexOf(el) + 1)
+    el = el.parentElement
+  }
+  return dataId.reverse().join('.')
 }
 
 function createApp() {
@@ -206,7 +162,13 @@ function createApp() {
 
   let html = tmp.innerHTML
 
-  while (document.body.firstChild) document.body.removeChild(document.body.firstChild);
+  /*
+  while (document.body.firstChild) { document.body.removeChild(document.body.firstChild) }
+*/
+  Array.from(document.body.children).forEach(child => {
+    if (child.tagName !== 'EZ-HEADER') document.body.removeChild(child)
+  })
+
   main = document.createElement('div')
   main.id = 'vue'
   main.innerHTML = `<juncture-v1 :input-html="html"></juncture-v1>`
@@ -242,17 +204,76 @@ function createApp() {
   })
 }
 
-function isNumeric(arg) { return !isNaN(arg) }
+function convertWcTagsToElements(root) {
+  // Converts Web Component tags to HTML elements
+  root = root || document.querySelector('main')
 
-function computeDataId(el) {
-  let dataId = []
-  // if (!el.parentElement) dataId.push(1)
-  while (el.parentElement) {
-    let siblings = Array.from(el.parentElement.children).filter(c => c.tagName === el.tagName)
-    dataId.push(siblings.indexOf(el) + 1)
-    el = el.parentElement
+  root.querySelectorAll('a').forEach(anchorElem => {
+    let link = new URL(anchorElem.href)
+    if (isGHP && link.origin === location.origin && link.pathname.indexOf(`/${config.repo}/`) !== 0) anchorElem.href = `/${config.repo}${link.pathname}`
+  })
+
+  /*
+  Array.from(root.querySelectorAll('img'))
+    .forEach(img => {
+      if (img.parentElement?.classList.contains('card')) return
+      let ezImage = document.createElement('ez-image')
+      ezImage.setAttribute('src', img.src)
+      ezImage.setAttribute('alt', img.alt)
+      ezImage.setAttribute('left', '');
+      img.parentNode.replaceWith(ezImage)
+    })
+  */
+
+  let regex = new RegExp(`^\\s*\\.\\w+-\\w+\\s*`)
+  Array.from(root.querySelectorAll('p'))
+    .filter(p => regex.test(p.textContent || ''))
+    .forEach(p => {
+      let tag = p.textContent.trim().split(' ')[0].slice(1).trim()
+      let html = componentHtml(p, tag)
+      let el = new DOMParser().parseFromString(html, 'text/html').children[0].children[1].children[0]
+      p.parentNode?.replaceChild(el, p)
+    })
+}
+
+function componentHtml(el, tag) {
+  let lines = el.innerHTML?.trim().split('\n').map(line => line.trim()) || []
+  if (lines.length === 0) return ''
+  let headLine = lines[0]
+  let attrs = asAttrs(parseHeadline(headLine))
+
+  let slot = ''
+  if (lines.length > 1) {
+    let listItems = []
+    lines.slice(1)
+      .map(l => l.replace(/^\s*/, ''))
+      .forEach(line => {
+        if (line === '-') listItems.push('- ')
+        else if (/^-\s+.+/.test(line)) listItems.push(line)
+        else listItems[listItems.length-1] += `${line}`
+      })
+    slot = marked.parse(listItems.join('\n'))
   }
-  return dataId.reverse().join('.')
+  return `<${tag} ${attrs}>\n${slot}</${tag}>`
+}
+
+function parseHeadline(s) {
+  let tokens = []
+  s = s.replace(/”/g,'"').replace(/”/g,'"').replace(/’/g,"'")
+  s?.match(/[^\s"]+|"([^"]*)"/gmi)?.forEach(token => {
+    if (tokens.length > 0 && tokens[tokens.length-1].indexOf('=') === tokens[tokens.length-1].length-1) tokens[tokens.length-1] = `${tokens[tokens.length-1]}${token}`
+    else tokens.push(token)
+  })
+  return Object.fromEntries(tokens.slice(1).map(token => {
+    if (token.indexOf('=') > 0) {
+      let [key, value] = token.split('=')
+      return [key, value[0] === '"' && value[value.length-1] === '"' ? value.slice(1, -1) : value]
+    } else return [token, "true"]
+  }))
+}
+
+function asAttrs(obj) {
+  return Object.entries(obj).map(([k, v]) => v === 'true' ? k : `${k}="${v}"`).join(' ')
 }
 
 async function getGhFile(acct, repo, branch, path) {
@@ -267,7 +288,38 @@ async function getGhFile(acct, repo, branch, path) {
   }
 }
 
+function loadDependencies(dependencies, callback, i) {
+  i = i || 0
+  // console.log(`loading ${dependencies[i].src || dependencies[i].href}`)
+  loadDependency(dependencies[i], () => {
+    if (i < dependencies.length-1) loadDependencies(dependencies, callback, i+1) 
+    else callback()
+  })
+}
+
+function loadDependency(dependency, callback) {
+  let e = document.createElement(dependency.tag)
+  Object.entries(dependency).forEach(([k, v]) => { if (k !== 'tag') e.setAttribute(k, v) })
+  e.addEventListener('load', callback)
+  if (dependency.tag === 'script') document.body.appendChild(e)
+  else document.head.appendChild(e)
+}
+
+let junctureDependencies = [
+  {tag: 'link', rel: 'stylesheet', href: '/juncture/index.css'},
+  {tag: 'link', rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css'},
+  {tag: 'script', src: 'https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js'},
+  {tag: 'script', src: 'https://cdn.jsdelivr.net/npm/marked/marked.min.js'},
+  {tag: 'script', src: 'https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js'},
+  {tag: 'script', src: 'https://cdn.jsdelivr.net/npm/http-vue-loader@1.4.2/src/httpVueLoader.min.js'},
+  {tag: 'script', src: 'https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js'},
+  {tag: 'script', src: 'https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js'},
+  {tag: 'script', src: 'https://cdnjs.cloudflare.com/ajax/libs/tippy.js/6.3.7/tippy.umd.min.js'},
+  {tag: 'script', src: 'https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js'},
+]
+
 async function init() {
+
   let isPreview = location.pathname === `${config.baseurl}/preview/`
   if (isPreview) {
     let [acct, repo, ...path] = location.hash.slice(1).split('/')
@@ -276,28 +328,34 @@ async function init() {
     document.querySelector('main').innerHTML = marked.parse(md)
   }
 
-  let _config = await getConfig()
-  console.log(_config)
-
   let isJunctureV1 = Array.from(document.querySelectorAll('param'))
-    .find(param =>
-      Array.from(param.attributes).find(attr => attr.name.indexOf('ve-') === 0)
-    ) !== undefined
-  
+  .find(param =>
+    Array.from(param.attributes).find(attr => attr.name.indexOf('ve-') === 0)
+  ) !== undefined
+
   console.log(`init isPreview=${isPreview} isJunctureV1=${isJunctureV1}`)
 
+  await getJunctureConfig()
+  config.components = config.components ? config.components.split(',').map(l => l.trim()) : []
+
+  convertWcTagsToElements()
   structureContent()
-
-  let wcScriptEl = document.createElement('script')
-  wcScriptEl.setAttribute('type', 'module')
-  wcScriptEl.setAttribute('src',
-    location.hostname === 'localhost'
-      ? 'http://localhost:5173/src/main.ts' 
-      : 'https://juncture-digital.github.io/web-components/js/index.js'
-  )
-  wcScriptEl.addEventListener('load', () => { if (isJunctureV1) createApp() })
-  document.body.appendChild(wcScriptEl)
-
+  let dependencies = config.components.map(src => ({tag: 'script', type: 'module', src}) )
+  if (isJunctureV1) dependencies = dependencies.concat(junctureDependencies)
+  if (dependencies.length > 0) loadDependencies(dependencies, () => { 
+    if (isJunctureV1) createApp()
+    /*
+    let header = document.querySelector('ez-header')
+    if (header) {
+      header.setAttribute('title', 'Title')
+      header.innerHTML = `
+        <ul>
+         <li><a href="/">Menu Item 1</a></li>
+        </ul>
+      `
+    }
+    */
+  })
 }
 
 document.addEventListener('DOMContentLoaded', () =>  init() )

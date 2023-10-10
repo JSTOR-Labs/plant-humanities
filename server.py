@@ -14,6 +14,7 @@ logger.setLevel(logging.INFO)
 import argparse, json, os, re
 
 BASEDIR = os.path.abspath(os.path.dirname(__file__))
+LOCAL_WC = os.environ.get('LOCAL_WC', 'false').lower() == 'true'
 
 from bs4 import BeautifulSoup
 import markdown
@@ -41,28 +42,35 @@ media_types = {
   'yaml': 'application/x-yaml'
 }
 
-config = yaml.load(open(f'{BASEDIR}/_config.yml', 'r'), Loader=yaml.FullLoader)
+config = yaml.load(open(f'{BASEDIR}/_config.yml', 'r'), Loader=yaml.FullLoader) if os.path.exists(f'{BASEDIR}/_config.yml') else {}
 logger.debug(json.dumps(config, indent=2))
+
+title = config.get('title', 'Juncture')
+description = config.get('description', '')
+url = config.get('url', '')
+gh_owner = config.get('github', {}).get('owner', '')
+gh_repo = config.get('github', {}).get('repo', '')
+gh_branch = config.get('github', {}).get('branch', '')
 
 jsonld_seo = {
   '@context': 'https://schema.org',
   '@type': 'WebSite',
-  'description': config['description'],
-  'headline': config['title'],
-  'name': config['title'],
-  'url': config['url']
+  'description': description,
+  'headline': title,
+  'name': title,
+  'url': url
 }
 
 seo = f'''
-  <title>{config["title"]}</title>
+  <title>{title}</title>
   <meta name="generator" content="Jekyll v3.9.3" />
-  <meta property="og:title" content="{config["title"]}" />
+  <meta property="og:title" content="{title}" />
   <meta property="og:locale" content="en_US" />
-  <meta name="description" content="{config["description"]}" />
-  <meta property="og:description" content="{config["description"]}" />
-  <link rel="canonical" href="{config["url"]}" />
-  <meta property="og:url" content="{config["url"]}" />
-  <meta property="og:site_name" content="{config["title"]}" />
+  <meta name="description" content="{description}" />
+  <meta property="og:description" content="{description}" />
+  <link rel="canonical" href="{url}" />
+  <meta property="og:url" content="{url}" />
+  <meta property="og:site_name" content="{title}" />
   <meta property="og:type" content="website" />
   <script type="application/ld+json">
   {json.dumps(jsonld_seo, indent=2)}
@@ -72,27 +80,21 @@ seo = f'''
 not_found_page = open(f'{BASEDIR}/404.html', 'r').read()
 header = open(f'{BASEDIR}/_includes/header.html', 'r').read()
 footer = open(f'{BASEDIR}/_includes/footer.html', 'r').read()
-favicon = open(f'{BASEDIR}/favicon.ico', 'rb').read() if os.path.exists(f'{BASEDIR}/favicon.ico') else None
+favicon = open(f'{BASEDIR}/favicon.ico', 'rb').read()
+
+if LOCAL_WC:
+  config['components'] = config['components'].replace('https://juncture-digital.github.io/web-components/js/index.js', 'http://localhost:5173/src/main.ts')
 
 html_template = open(f'{BASEDIR}/_layouts/default.html', 'r').read()
+html_template = re.sub(r'^\s*{%- include header.html -%}', header, html_template, flags=re.MULTILINE)
+html_template = re.sub(r'^\s*{%- include footer.html -%}', footer, html_template, flags=re.MULTILINE)
 
-include_header = config['layout']['header'] == 'true'
-include_footer = config['layout']['footer'] == 'true'
-html_template = re.sub(r'^\s*{%- if site.layout.header == "true" -%}\s*{%- include header.html -%}\s*{%- endif -%}', header if include_header else '', html_template, flags=re.MULTILINE)
-html_template = re.sub('^\s*{%- if site.layout.footer == "true" -%}\s*{%- include footer.html -%}\s*{%- endif -%}', footer if include_footer else '', html_template, flags=re.MULTILINE)
-
-# html_template = html_template.replace('https://rsnyder.github.io/ezpage-wc/js/index.js', 'http://localhost:5173/src/main.ts')
-html_template = html_template.replace('https://juncture-digital.github.io/web-components/js/index.js', 'http://localhost:5173/src/main.ts')
 html_template = html_template.replace('{%- seo -%}', seo)
 html_template = html_template.replace('{{ site.github.owner }}', config['github']['owner'])
 html_template = html_template.replace('{{ site.github.repo }}', config['github']['repo'])
 html_template = html_template.replace('{{ site.github.branch }}', config['github']['branch'])
-html_template = html_template.replace('{{ site.nav }}', json.dumps(config['nav']))
 html_template = html_template.replace('{{ site.baseurl }}', '')
-html_template = html_template.replace('{%- if site.mode == "juncture" -%}', '')
-# html_template = re.sub(r'^\s*{%-\s+else\s+-%}\s*.*\s*{%-\s+endif\s+-%}', '', html_template, flags=re.MULTILINE)
-html_template = re.sub(r'^\s*{%-\s+endif\s+-%}', '', html_template, flags=re.MULTILINE)
-html_template = re.sub(r'^\s*{%- .*$', '', html_template)
+html_template = html_template.replace('{{ site.components }}', config['components'])
   
 def html_from_markdown(md, baseurl):
   html = html_template.replace('{{ content }}', markdown.markdown(md, extensions=['extra', 'toc']))
@@ -102,11 +104,8 @@ def html_from_markdown(md, baseurl):
     if parent.next_sibling and parent.next_sibling.name == 'ul':
       options_list = parent.next_sibling
       tag.append(options_list)
-      if parent.name == 'p':
-        parent.replace_with(tag)
-  for el in soup.find_all('a'):
-    if el.get('href') and el.get('href').startswith('#'):
-      el['href'] = f'{baseurl}{el["href"]}'
+      parent.replace_with(tag)
+      # tag.parent.next_sibling.decompose()
   for link in soup.find_all('a'):
     href = link.get('href')
     if href and not href.startswith('http') and not href.startswith('#') and not href.startswith('/'):
@@ -150,6 +149,9 @@ if __name__ == '__main__':
   parser = argparse.ArgumentParser(description='EZpage dev server')  
   parser.add_argument('--reload', type=bool, default=True, help='Reload on change')
   parser.add_argument('--port', type=int, default=8080, help='HTTP port')
+  parser.add_argument('--localwc', type=bool, default=False, help='Use local web components')
   args = vars(parser.parse_args())
   
+  os.environ['LOCAL_WC'] = str(args['localwc'])
+
   uvicorn.run('server:app', port=args['port'], log_level='info', reload=args['reload'])

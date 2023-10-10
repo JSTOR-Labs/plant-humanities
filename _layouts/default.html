@@ -8,39 +8,25 @@
     {%- seo -%}
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
     <link rel="stylesheet" href="{{ site.baseurl }}/main.css">
-    <!-- <link rel="stylesheet" href="https://juncture-digital.github.io/web-components/css/index.css"> -->
 
     <script>
       window.config = {
         owner: '{{ site.github.owner }}',
         repo: '{{ site.github.repo }}',
         branch: '{{ site.github.branch }}', 
-        baseurl: '{{ site.baseurl }}'
+        baseurl: '{{ site.baseurl }}',
+        components: '{{ site.components }}'
       }
     </script>
 
-    <link rel="stylesheet" href="{{ site.baseurl }}/juncture/index.css">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" crossorigin="anonymous" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" rel="stylesheet">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js" integrity="sha512-CSBhVREyzHAjAFfBlIBakjoRUKp5h7VSweP0InR/pAJyptH7peuhCsqAI/snV+TwZmXZqoUklpXp6R6wMnYf5Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/http-vue-loader@1.4.2/src/httpVueLoader.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tippy.js/6.3.7/tippy.umd.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
-    <script src="{{ site.baseurl }}/juncture/index.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="{{ site.baseurl }}/index.js"></script>
 
   </head>
   <body>
-    {%- if site.layout.header == "true" -%}
-      {%- include header.html -%}
-    {%- endif -%}
     <main class="page-content" aria-label="Content">
       {{ content }}
     </main>
-    {%- if site.layout.footer == "true" -%}
-      {%- include footer.html -%}
-    {%- endif -%}
   </body>
 </html>

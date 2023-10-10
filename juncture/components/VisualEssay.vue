@@ -168,7 +168,6 @@ module.exports = {
     // Finds words/phrases in content paragraphs that match labels or aliases for entities in scope
     // Matched text is wrapped with a span tag for reacting to hover and click actions
     tagEntities(root) {
-      console.log('tagEntities', root)
       Array.from(root.querySelectorAll('.segment p')).forEach(para => {
         let paraHTML = para.innerHTML
         this.paramsInScope(para, this.params)

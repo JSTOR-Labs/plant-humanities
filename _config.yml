@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >-
-  Quickly build websites using Github Pages, Markdown, and interactive viewers.
+  Explore the cultural histories of plants and their influence on human societies.
 
 github:
   owner: jstor-labs
@@ -16,6 +16,5 @@ github:
 url: https://beta.plant-humanities.org/
 baseurl: /
 
-layout:
-  header: false
-  footer: false
+# components: https://rsnyder.github.io/ezpage-wc/js/index.js,https://juncture-digital.github.io/web-components/js/index.js
+components: https://juncture-digital.github.io/web-components/js/index.js
