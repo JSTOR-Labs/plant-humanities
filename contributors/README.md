@@ -34,6 +34,7 @@ Ashley Buchanan is the Postdoctoral Fellow for the Plant Humanities Initiative a
 **Ana Carolina Carmona-Ribeiro**
 
 ![](Carmona.jpg)
+
 Ana Carolina Carmona-Ribeiro is a professor at the Architecture and Urbanism School of the Federal Institute of São Paulo (IFSP), Brazil, teaching courses in landscaping, drawing and visual communication. She graduated at the Faculty of Architecture and Urbanism of the University of São Paulo, has a master´s degree in Visual Arts and a PhD in Landscape and Environment at University of São Paulo – where she developed the research project "Modernist botany and nature in the rediscovery of Brazil", investigating the representations of vegetation (and related categories, such as landscape and nature) in the São Paulo-based modernism of the 1920s and 1930s. In 2020, she published “The guidebook of modernist botany”, and, following her interest in interdisciplinary approaches to plants, in 2022 she participated in Dumbarton Oak´s Plant Humanities Summer Program, also contributing to the Plant Humanities Lab.
 
 ##
