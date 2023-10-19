@@ -31,6 +31,12 @@ Uribe Botta’s current PhD research explores the orchid trade between Colombia 
 Ashley Buchanan is the Postdoctoral Fellow for the Plant Humanities Initiative at Dumbarton Oaks. She is a historian of the early modern world, with a particular interest in plants, recipes, and medicinal cultures in seventeenth- and eighteenth-century Europe. She received her PhD in early modern history from the University of South Florida in December 2018. Her research spans many topics, which includes the history of science and medicine, women, and politics as well as the dynamics of gender and authority. Her current book project investigates the social, cultural, and political significance of pharmaceutical experimentation as well as the medicinal and botanical patronage at the late Medici Court (1650-1743). Her goal is to broaden the global dimension of recipes by studying the numerous exotic plants imported into Tuscany from the New World, East Africa, and Southeast Asia in the late 18th century. Ashley was a junior fellow in residence with the Medici Archive Project at the Archivio di Stato di Firenze and an Andrew W. Mellon Foundation Fellow at The Huntington.
 
 ##
+**Ana Carolina Carmona-Ribeiro**
+
+![](Carmona.jpg)
+Ana Carolina Carmona-Ribeiro is a professor at the Architecture and Urbanism School of the Federal Institute of São Paulo (IFSP), Brazil, teaching courses in landscaping, drawing and visual communication. She graduated at the Faculty of Architecture and Urbanism of the University of São Paulo, has a master´s degree in Visual Arts and a PhD in Landscape and Environment at University of São Paulo – where she developed the research project "Modernist botany and nature in the rediscovery of Brazil", investigating the representations of vegetation (and related categories, such as landscape and nature) in the São Paulo-based modernism of the 1920s and 1930s. In 2020, she published “The guidebook of modernist botany”, and, following her interest in interdisciplinary approaches to plants, in 2022 she participated in Dumbarton Oak´s Plant Humanities Summer Program, also contributing to the Plant Humanities Lab.
+
+##
 **Elizabeth Chant**
 
 ![](Chant.jpg)
