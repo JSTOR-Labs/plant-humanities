@@ -272,6 +272,7 @@ Foods can be naturalized into a culinary repertoire, but they can also become cu
 {#paragraph20}
 
 ### References
+
 [^ref1]: Benjamin Zimmer, Jane Solomon, and Charles E. Carson, “Among the New Words,” _American Speech_ 91, no. 2 (May 1, 2016): 203. https://doi.org/10.1215/00031283-3633118.
 [^ref2]: Zimmer, Solomon, and Carson, 223–24.
 [^ref3]: Nergiz Gürbüz, Selman Uluişik, Anne Frary, Amy Frary, and Sami Doğanlar, “Health Benefits and Bioactive Compounds of Eggplant,” _Food Chemistry_ 268 (December 1, 2018): 603. https://doi.org/10.1016/j.foodchem.2018.06.093.
