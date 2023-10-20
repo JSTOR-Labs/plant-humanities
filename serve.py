@@ -84,7 +84,7 @@ favicon = open(f'{BASEDIR}/favicon.ico', 'rb').read()
 
 if LOCAL_WC:
   # config['components'] = config['components'].replace('https://juncture-digital.github.io/web-components/js/index.js', 'http://localhost:5173/src/main.ts')
-  config['components'] = config['components'].replace('/web-components/dist/js/index.js', 'http://localhost:5173/src/main.ts')
+  config['components'] = config['components'].replace('/juncture/dist/js/index.js', 'http://localhost:5173/src/main.ts')
 
 html_template = open(f'{BASEDIR}/_layouts/default.html', 'r').read()
 html_template = re.sub(r'^\s*{%- include header.html -%}', header, html_template, flags=re.MULTILINE)

@@ -13,4 +13,4 @@
       "moduleResolution": "Bundler",
       "types": ["node"]
     }
-  }
+}

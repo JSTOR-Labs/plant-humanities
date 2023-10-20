@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  padding: 1rem;
+  font-family: sans-serif;
+}
+
+ve-header ul, 
+ve-menu ul { 
+  display: none;
+}
