@@ -152,6 +152,13 @@
 ![](/images/thumbnails/dragon_tree.jpg)
 
 ##
+[**Eggplant: Food, Sex, and Poison**](/eggplant)
+
+- Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville
+
+![](/images/thumbnails/eggplant.jpg)
+
+##
 [**Heliconia: Evolution at Work**](/heliconia)
 
 - W. John Kress and Yota Batsaki
