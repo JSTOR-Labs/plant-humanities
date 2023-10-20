@@ -249,7 +249,7 @@ Foods can be naturalized into a culinary repertoire, but they can also become cu
        label="Eggplants put out by protesters in Bangalore, India, against BT Brinjal introduction (2010)"
        attribution="Infoeco"
        license="CC BY-SA 3.0"
-       fit="cover">
+       fit="fill">
 
 ### References
 [^1]: Benjamin Zimmer, Jane Solomon, and Charles E. Carson, “Among the New Words,” _American Speech_ 91, no. 2 (May 1, 2016): 203. https://doi.org/10.1215/00031283-3633118.
