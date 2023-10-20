@@ -17,4 +17,5 @@ url: https://beta.plant-humanities.org/
 baseurl: /
 
 # components: https://rsnyder.github.io/ezpage-wc/js/index.js,https://juncture-digital.github.io/web-components/js/index.js
-components: https://juncture-digital.github.io/web-components/js/index.js
+# components: https://juncture-digital.github.io/web-components/js/index.js
+components: /web-components/dist/js/index.js

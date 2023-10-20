@@ -83,7 +83,8 @@ footer = open(f'{BASEDIR}/_includes/footer.html', 'r').read()
 favicon = open(f'{BASEDIR}/favicon.ico', 'rb').read()
 
 if LOCAL_WC:
-  config['components'] = config['components'].replace('https://juncture-digital.github.io/web-components/js/index.js', 'http://localhost:5173/src/main.ts')
+  # config['components'] = config['components'].replace('https://juncture-digital.github.io/web-components/js/index.js', 'http://localhost:5173/src/main.ts')
+  config['components'] = config['components'].replace('/web-components/dist/js/index.js', 'http://localhost:5173/src/main.ts')
 
 html_template = open(f'{BASEDIR}/_layouts/default.html', 'r').read()
 html_template = re.sub(r'^\s*{%- include header.html -%}', header, html_template, flags=re.MULTILINE)
@@ -149,9 +150,9 @@ if __name__ == '__main__':
   parser = argparse.ArgumentParser(description='EZpage dev server')  
   parser.add_argument('--reload', type=bool, default=True, help='Reload on change')
   parser.add_argument('--port', type=int, default=8080, help='HTTP port')
-  parser.add_argument('--localwc', type=bool, default=False, help='Use local web components')
+  parser.add_argument('--localwc', action=argparse.BooleanOptionalAction, help='Use local web components')
   args = vars(parser.parse_args())
   
   os.environ['LOCAL_WC'] = str(args['localwc'])
 
-  uvicorn.run('server:app', port=args['port'], log_level='info', reload=args['reload'])
+  uvicorn.run('serve:app', port=args['port'], log_level='info', reload=args['reload'])
