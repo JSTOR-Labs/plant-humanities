@@ -216,6 +216,13 @@ Amara Santiesteban is a biologist specializing in botany from the Autonomous Uni
 Jeannette Schollaert is a doctoral candidate in English at the University of Maryland, College Park. Her dissertation, tentatively titled “From Censors to Shouts: Ecologies of Abortion in American Fiction,” traces the literary history of herbal abortifacients in relation to emerging medical technologies in American fiction from the nineteenth century to the present. She holds a BA in English and Women’s Studies from Chatham University in Pittsburgh, PA and an MA in English with a specialization in Women’s and Gender Studies from the University of Nebraska-Lincoln.
 
 ##
+**Sheila Scoville**
+
+![](Scoville.jpeg)
+
+Sheila Scoville is a Ph.D. candidate in the Department of Art History at Florida State University, where she studies Mesoamerican ecological knowledge in visual and material culture from the pre-Hispanic and colonial eras to the present day. Her dissertation studies colonial Nahua manuscripts from the perspective of the symbiosis between people and agave plants. Sheila holds an MA in Art History from the University of Houston and a BA in English from Rollins College. She is a 2023–24 short-term research fellow at the Huntington Library and the John Carter Brown Library, and she was a 2022 Plant Humanities Summer Fellow at Dumbarton Oaks. Sheila’s publications include the articles “Tortilleras in space and time: A Mesoamerican staple in colonial and contemporary art,” “Nahua cyborgs: The contemporary codices of Rurru Mipanochia,” and an article on the intangible heritage of pulque for a forthcoming special issue on fermentation from Food, Culture & Society. During her tenure at the University of Houston, she was the assistant art editor of Gulf Coast: A Journal of Literature and Fine Arts.
+
+##
 **Melinda Susanto**
 
 ![](Susanto.jpg)
