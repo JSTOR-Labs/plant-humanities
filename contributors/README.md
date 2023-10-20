@@ -59,6 +59,12 @@ Matallana Chaves’s undergraduate thesis research focuses on the history of tex
 Kira Clingen is a Lecturer in Landscape Architecture at the Harvard Graduate School of Design, and a Research Associate at the Office for Urbanization. She is the project lead on Compound Vulnerabilities: The Case of Cape Ann, which uses scenario planning for climate change on the north shore of coastal Massachusetts. She holds a Masters in Landscape Architecture and Masters in Design Studies from Harvard, and a B.S. in Ecology and Evolutionary Biology and B.A. in Asian Studies and Environmental Policy from Rice University. She was awarded a 2016 Thomas J. Watson Fellowship to study climate change in Mauritius and Myanmar. Her current research focuses on climate literacy in landscape architecture, and climate change preparedness. 
 
 ##
+**Nathan Cornish**
+![](Cornish.jpg)
+
+Nathan Cornish is a final year MA student in Global Environmental History at the University of Uppsala where he researches the history of public conservation reserves as choreographed natural interaction spaces. He holds a BA in History (Ancient and Modern) from Trinity College Oxford. He is also a student at the IDSA Founding Lab in Linz (Austria), participating in the interdisciplinary summer school as well as the fall term for which he is working on the interaction between Artificial Intelligence and Early Modern Herbal books. Nathan was part of the Dumbarton Oaks summer fellowship programme in 2022.
+
+##
 **Ashley Thuthao Keng Dam**
 
 ![](Dam.jpg)
