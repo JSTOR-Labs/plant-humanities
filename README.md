@@ -3,6 +3,13 @@
 # Featured Plant Narratives {.cards}
 
 ##
+[**Eggplant: Food, Sex, and Poison**](/eggplant)
+
+- Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville
+
+![](/images/thumbnails/eggplant.jpg)
+
+##
 [**Maize: Sacred Plant, Global Commodity**](/maize)
 
 - Julia Fine
@@ -22,13 +29,6 @@
 - Allison Fulton, Amara Santiesteban Serrano, and Jeannette Schollaert
 
 ![](/images/thumbnails/tamarind.jpg)
-
-##
-[**Venus Flytrap: Queen of the Carnivorous Plants**](/venus_flytrap)
-
-- John R. Schaefer
-
-![](/images/thumbnails/venus_flytrap_thumbnail.jpg)
 
 ##
 [**Ayahuasca: Amazonian Plant Lessons**](/ayahuasca)
