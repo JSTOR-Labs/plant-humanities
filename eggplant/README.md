@@ -302,7 +302,6 @@ Foods can be naturalized into a culinary repertoire, but they can also become cu
 [^47]: Deborah A. Levinson, “Robert Mapplethorpe’s Extraordinary Vision,” _The Tech - Online Edition_, August 1989. http://tech.mit.edu/V110/N31/mapple.31a.html. 
 [^48]: Rajeshree Sisodia, “Biopiracy in India: The case of the aubergine”, _Al Jazeera_, October 31, 2011. https://www.aljazeera.com/opinions/2011/10/31/biopiracy-in-india-the-case-of-the-aubergine.
 [^49]: Kabir Agarwal, “Maharashtra Farmers to Protest Ban on GM Crops, Plant Bt Cotton and Brinjal,” _The Wire_, June 9, 2019. https://thewire.in/agriculture/maharashtra-farmers-to-protest-ban-on-gm-crops-plant-bt-cotton-and-brinjal.
-
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/b/b7/BT_Brinjal_Protest_Bangalore_India.JPG"
        label="Eggplants put out by protesters in Bangalore, India, against BT Brinjal introduction (2010)"
