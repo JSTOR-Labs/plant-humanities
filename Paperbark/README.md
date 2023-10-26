@@ -132,7 +132,7 @@ label="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Description
 fit="contain">
 
 ### Indigenous Treasure 
-The paperbark’s centrality to Indigenous communities predates its eighteenth-century “discovery” by thousands of years. The tree goes by countless names across the Australian continent: in Bibbulmun, spoken by the south-western Noongar peoples, it is known as the “Mudrooroo”; in the northern languages of Ngalakgan and Kunwinjku, it is the “Gu-got” and “Kun-kod", respectively.[^18] To a vast number of Indigenous peoples, including those of New Caledonia and New Guinea, the paperbark is no villain. In sharp contrast to its current status in the United States, it continues to hold a pivotal role among Aboriginal cultures.
+The paperbark’s centrality to Indigenous communities predates its eighteenth-century “discovery” by thousands of years. The tree goes by countless names across the Australian continent: in Bibbulmun, spoken by the south-western Noongar peoples, it is known as the “Mudrooroo”; in the northern languages of Ngalakgan and Kunwinjku, it is the “Gu-got” and “Kun-kod", respectively.[^18] To a vast number of Indigenous peoples, including those of New Caledonia and New Guinea, the paperbark is no villain. In sharp contrast to its status in the United States, it holds a pivotal role among Aboriginal cultures. 
 <param ve-entity eid="Q22918391">
 <param ve-entity eid="Q1996477">
 <param ve-entity eid="Q39796">
