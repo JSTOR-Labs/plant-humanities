@@ -93,14 +93,14 @@ license="Public Domain"
 fit="contain">
 
 ###
-In the *Herbarium Amboinense*, a work based on which Linnaeus was able to classify dozens of new genera, Rumphius describes a type of Myrtle tree, known in the native Malay as “Caju-puti”, to which he adds the Latin Arbor alba (white tree) and Dutch “Witte Boom.” He also provides an additional synonym, “Brant-Boomen” (fire tree), noting the apparent mystery that, though no witness had ever seen the tree on fire, “the bottom of this trunk is always most black, as if it had been burnt,”[^13] which suggested to Rumphius that the heat of summer sun would scorch the dry and delicate bark without actually bursting into flame.
+In the Herbarium Amboinense (which Linnaeus also used to classify dozens of new genera), Rumphius describes a type of Myrtle tree, known in native Malay as “Caju-puti,” to which he adds the Latin Arbor alba (white tree) and Dutch “Witte Boom.” He also provides another name, “Brant-Boomen” (fire tree), noting the apparent mystery that, though no witness had ever seen the tree on fire, “the bottom of this trunk is always most black, as if it had been burnt,” which suggested to Rumphius that the heat of summer sun would scorch the dry and delicate bark without actually bursting into flame.[^13]
 <param ve-entity eid="Q34740">
 <param ve-iframe                                               
 src="https://books.google.com/books?id=3gpiDsqePMcC&newbks=0&dq=Herbarium%20amboinense%20%3A%20plurimas%20conplectens%20arbores%2C%20frutices%2C%20herbas%2C%20plantas%20terrestres&pg=PA68-IA12&output=embed"
 fit="contain">
 
 ###
-Rumphius’ account of the paperbark’s appearance following a bushfire, its white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s name, *Melaleuca*, as given to it by Linnaeus, taken from the Greek “mélas” (black) and “leukós” (white). It remains a strong association with the tree for those familiar with it. In a recent [work](https://en.wikipedia.org/wiki/Parrot_and_Olivier_in_America) Australian novelist Peter Carey depicts a character, disfigured by burns, whose “pale blue eyes peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark.”[^14]  
+Rumphius’ description of the paperbark’s appearance following a bushfire, its white, flaky bark patchy under a scorched outer layer, remains a strong association for many. In a recent [work](https://en.wikipedia.org/wiki/Parrot_and_Olivier_in_America), Australian novelist Peter Carey depicts a character, disfigured by burns, whose “pale blue eyes peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark.”[^14]  
 <param ve-entity eid="Q313254">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"
