@@ -435,13 +435,15 @@ module.exports = {
       }
     },
     async loadAnnotations() {
+      console.log('loadAnnotations')
       let annosFile = `${this.currentItemSourceHash}.json`
       // let files = await this.dir(this.mdDir, this.contentSource.repo ? this.contentSource : null)
-      // if (files[annosFile]) {  
+      // if (files[annosFile]) { 
         let path = `${this.mdDir}/${annosFile}`
         this.getFile(path, this.contentSource.acct, this.contentSource.repo, this.contentSource.ref).then(annos => {
           if (annos && annos.content && annos.content.length > 0) {
-            this.annotations = JSON.parse(annos.content)
+            // this.annotations = JSON.parse(annos.content)
+            this.annotations = annos.content
             if (!Array.isArray(this.annotations) && this.annotations.items) this.annotations = this.annotations.items
             this.annotations.forEach(anno => this.annotator.addAnnotation(anno))
           } else {

@@ -116,7 +116,10 @@ def html_from_markdown(md, baseurl):
     if not src.startswith('http') and not src.startswith('/'):
       img['src'] = f'{baseurl}{src}'
   for param in soup.find_all('param'):
-    param.parent.insert_after(param)
+    node = param.parent
+    while node.next_sibling.name == 'param':
+      node = node.next_sibling
+    node.insert_after(param)
   for heading in soup.find_all('h1'):
     if heading.renderContents().decode('utf-8').strip() == '':
       pass # heading.decompose()
