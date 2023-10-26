@@ -1,3 +1,5 @@
+[![](https://juncture-digital.github.io/juncture/static/images/ve-button.png)](https://www.juncture-digital.org)
+
 <param ve-config
   title="The Broad-Leaf Paperbark: Friend or Foe?"
   banner="https://upload.wikimedia.org/wikipedia/commons/e/e7/170411_559_Encinitas_-_San_Diego_Botanic_Gdn%2C_entrance_gdn%2C_Melaleuca_viridiflora_var_rubriflora_Paperbark_Tree_%2834456955761%29.jpg"
