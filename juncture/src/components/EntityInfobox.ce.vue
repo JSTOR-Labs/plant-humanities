@@ -75,7 +75,7 @@
 
   <div ref="root" class="hs-tooltip inline-block [--trigger:click] [--placement:top]">
     <a class="hs-tooltip-toggle block text-center" href="javascript:;" title="Click for more information">
-      <span v-html="text" class="bg-yellow-100"></span>
+      <span v-html="text" class="underline underline-offset-4 decoration-dotted"></span>
 
       <div class="hs-tooltip-content z-30 hs-tooltip-shown:opacity-100 hs-tooltip-shown:visible hidden opacity-0 transition-opacity absolute invisible max-w-xs bg-white border border-gray-100 text-left rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700" role="tooltip">
         <div class="flex flex-col bg-white border shadow-sm rounded-xl dark:bg-gray-800 dark:border-gray-700 dark:shadow-slate-700/[.7]">
@@ -105,4 +105,7 @@
 
 <style>
   @import '../tailwind.css';
+  .underline {
+    text-decoration-color: green;
+  }
 </style>

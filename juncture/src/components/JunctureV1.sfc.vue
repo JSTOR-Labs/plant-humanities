@@ -1,8 +1,9 @@
 <template>
+    
   <div id="app" v-cloak ref="app" :class="layouts.join(' ')">
     
     <div id="header" ref="header">            
-      <ve-header 
+      <ve1-header 
         :active="true" :scroll-top="scrollTop"
         :site-config="siteConfig"
         :essay-config="essayConfig"
@@ -18,7 +19,7 @@
         @do-action="doAction"
         @authenticate="authenticate"
         @logout="logout"
-      ></ve-header>
+      ></ve1-header>
     </div>
 
     <div id="tabs-bar" ref="tabsBar">
@@ -31,7 +32,7 @@
     </div>
 
     <div id="essay" ref="essay" @scroll="onScroll">
-      <ve-visual-essay
+      <ve1-visual-essay
         :html="html"
         :path="path"
         :anchor="anchor"
@@ -54,7 +55,7 @@
         @set-active="active = $event"
         @scroll-to-anchor="scrollToAnchor"
         @do-action="doAction"
-      ></ve-visual-essay>
+      ></ve1-visual-essay>
     </div>
 
     <div v-if="essayConfig" id="viewer" ref="viewer" :style="viewerStyle">
@@ -78,7 +79,7 @@
     </div>
 
     <div v-if="essayConfig && path === '/'" id="footer" ref="footer">            
-      <ve-footer :site-config="siteConfig" :content-source="contentSource"></ve-footer>
+      <ve1-footer :site-config="siteConfig" :content-source="contentSource"></ve1-footer>
     </div>
 
     <div ref="markdownViewer" id="markdown-viewer" style="display: none;">
@@ -128,16 +129,16 @@ const qargs = {}
 
 module.exports = {
   components: {
-    've1-compare': window.httpVueLoader(`${componentsPath}/Compare.vue`),
-    've-footer': window.httpVueLoader(`${componentsPath}/Footer.vue`),
-    've-header': window.httpVueLoader(`${componentsPath}/Header.vue`),
-    've1-iframe': window.httpVueLoader(`${componentsPath}/IFrame.vue`),
-    've1-image': window.httpVueLoader(`${componentsPath}/Image.vue`),
-    've1-map': window.httpVueLoader(`${componentsPath}/Map.vue`),
-    've1-knightlab-timeline': window.httpVueLoader(`${componentsPath}/KnightlabTimeline.vue`),
-    've1-plant-specimen': window.httpVueLoader(`${componentsPath}/PlantSpecimen.vue`),
-    've1-video': window.httpVueLoader(`${componentsPath}/Video.vue`),
-    've-visual-essay': window.httpVueLoader(`${componentsPath}/VisualEssay.vue`),
+    've1-compare': window.httpVueLoader(`${componentsPath}/Compare.sfc.vue`),
+    've1-footer': window.httpVueLoader(`${componentsPath}/Footer.sfc.vue`),
+    've1-header': window.httpVueLoader(`${componentsPath}/Header.sfc.vue`),
+    've1-iframe': window.httpVueLoader(`${componentsPath}/IFrame.sfc.vue`),
+    've1-image': window.httpVueLoader(`${componentsPath}/Image.sfc.vue`),
+    've1-map': window.httpVueLoader(`${componentsPath}/Map.sfc.vue`),
+    've1-knightlab-timeline': window.httpVueLoader(`${componentsPath}/KnightlabTimeline.sfc.vue`),
+    've1-plant-specimen': window.httpVueLoader(`${componentsPath}/PlantSpecimen.sfc.vue`),
+    've1-video': window.httpVueLoader(`${componentsPath}/Video.sfc.vue`),
+    've1-visual-essay': window.httpVueLoader(`${componentsPath}/VisualEssay.sfc.vue`),
   },
   props: {
     inputHtml: String
@@ -920,7 +921,7 @@ function parseUrl(href) {
   
   .visual-essay #essay {
     grid-area: 1 / 1 / 3 / 2;
-    z-index: 1;
+    /* z-index: 1; */
     overflow-y: scroll;
     background-color: #f8f8f8;
     font-size: 1.3rem;

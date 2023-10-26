@@ -4,6 +4,12 @@ import { Md5 } from 'ts-md5'
 
 export function isURL(str:string) { return /^https*:\/\//.test(str) }
 
+export function isMobile() {
+  // console.log(`isMobile: ontouchstart=${'ontouchstart' in document.documentElement} mobi=${/mobi/i.test(navigator.userAgent)}`)
+  let _isMobile = ('ontouchstart' in document.documentElement && /mobi/i.test(navigator.userAgent) )
+  return _isMobile
+}
+
 export async function getEntity(qid: string, language: string = 'en') {
   let entities = await getEntityData([qid], language)
   return entities[qid]

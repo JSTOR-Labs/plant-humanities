@@ -9,7 +9,7 @@
           <div class="author" v-html="author || tagline"></div>
         </div>
 
-        <ve-menu auth="github">
+        <ve-menu style="margin-left:auto;margin-right:1rem;">
           <ul>
             <li v-for="(navItem, idx) in nav" :key="`nav=${idx}`"> 
               <a :href="navItem.href"><svg v-if="navItem.icon" v-html="navItem.icon"></svg> {{  navItem.label }}</a>
@@ -100,7 +100,7 @@
     color: #444;
   }
 
-  ve-menu {
+  ve-menu1 {
     z-index: 1000;
     margin-left: auto;
     margin-right: 2rem;

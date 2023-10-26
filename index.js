@@ -1,34 +1,96 @@
+import { junctureDependencies, isJunctureV1, createJunctureV1App } from './juncture/index.js'
+
 const isGHP = /\.github\.io$/.test(location.hostname)
 
 const referrerUrl = document.referrer
 if (referrerUrl) {
-  // console.log(`referrer=${referrerUrl}`)
   let referrer = new URL(referrerUrl)
   if (referrer.host === 'github.com') {
     let [acct, repo, _, branch, ...path] = referrer.pathname.slice(1).split('/').filter(pe => pe && pe !== 'README.md')
     if (acct && repo && branch) {
       const redirectUrl = `${window.location.origin}/${isGHP ? repo + '/' : ''}preview/?branch=${branch}#${acct}/${repo}/${path.join('/')}`
-      console.log(`Redirecting for preview: ${redirectUrl}`)
       window.location = redirectUrl
     }
   }
 }
 
-let junctureConfig
-async function getJunctureConfig() {
-  if (!junctureConfig) {
-    let resp = await fetch('/juncture/config.yml')
-    if (resp.ok) window.config = {
-      ...window.config,
-      ...window.jsyaml.load(await resp.text())
-    }
+async function getConfigExtras() {
+  let resp = await fetch('/config-extras.yml')
+  if (resp.ok) window.config = {
+    ...window.config,
+    ...window.jsyaml.load(await resp.text())
   }
   return window.config
 }
 
+function setMeta() {
+  let meta
+  let header
+  Array.from(document.getElementsByTagName('*')).forEach(el => {
+    if (!/^\w+-\w+/.test(el.tagName)) return
+    if (el.tagName.split('-')[1] === 'META') meta = el
+    else if (el.tagName.split('-')[1] === 'HEADER') header = el
+  })
+  if (!meta) meta = document.querySelector('param[ve-config]')
+
+  let firstHeading = document.querySelector('h1, h2, h3')?.innerText.trim()
+  let firstParagraph = document.querySelector('p')?.innerText.trim()
+  
+  let jldEl = document.querySelector('script[type="application/ld+json"]')
+  let seo = jldEl ? JSON.parse(jldEl.innerText) : {'@context':'https://schema.org', '@type':'WebSite', description:'', headline:'', name:'', url:''}
+  seo.url = location.href
+
+  let title = meta?.getAttribute('title')
+    ? meta.getAttribute('title')
+    : header?.getAttribute('title')
+      ? header.getAttribute('title')
+      : firstHeading || ''
+
+  let description =  meta?.getAttribute('description')
+    ? meta.getAttribute('description')
+    : firstParagraph || ''
+
+  let robots =  meta?.getAttribute('robots') || (location.hostname.indexOf('www') === 0 ? '' : 'noindex, nofollow')
+
+  if (title) {
+    document.title = title
+    seo.name = title
+    seo.headline = title
+  }
+  if (description) {
+    document.querySelector('meta[name="description"]')?.setAttribute('content', description)
+    seo.description = description
+  }
+  if (robots) {
+    let robotsMeta = document.createElement('meta')
+    robotsMeta.setAttribute('name', 'robots')
+    robotsMeta.setAttribute('content', robots)
+    document.head.appendChild(robotsMeta)
+  }
+
+  if (meta && meta.getAttribute('ve-config') === null) meta.remove()
+  jldEl.innerText = JSON.stringify(seo)
+
+  console.log('setMeta', {title, description, robots, seo})
+}
+
 function structureContent() {
+
+  const makeSegments = (el) => {
+    Array.from(el.children)
+      .filter(child => !/^H\d/.test(child.tagName))
+      .filter(child => !/PARAM/.test(child.tagName))
+      .forEach((child, idx) => { 
+        let segId = `${currentSection.getAttribute('data-id') || 1}.${idx+1}`
+        child.setAttribute('data-id', segId)
+        if (!child.id) child.id = segId
+        child.className = 'segment'
+      })
+  }
+
   let main = document.querySelector('main')
   let restructured = document.createElement('main')
+  let footer
 
   let children = []
   Array.from(main?.children || []).forEach((el, idx) => {
@@ -42,24 +104,14 @@ function structureContent() {
     }
   })
 
-  let currentSection = restructured;
+  let currentSection = restructured
   let sectionParam
   for (let i = 0; i < children.length; i++) {
     let el = children[i]
     if (el.tagName[0] === 'H' && isNumeric(el.tagName.slice(1))) {
       let heading = el
       let sectionLevel = parseInt(heading.tagName.slice(1))
-      if (currentSection) {
-        (Array.from(currentSection.children))
-          .filter(child => !/^H\d/.test(child.tagName))
-          .filter(child => !/PARAM/.test(child.tagName))
-          .forEach((child, idx) => { 
-            let segId = `${currentSection.getAttribute('data-id') || 1}.${idx+1}`
-            child.setAttribute('data-id', segId)
-            if (!child.id) child.id = segId
-            child.className = 'segment'
-          })
-      }
+      makeSegments(currentSection)
 
       currentSection = document.createElement('section')
       currentSection.classList.add(`section-${sectionLevel}`)
@@ -77,7 +129,7 @@ function structureContent() {
       }
 
       currentSection.innerHTML += heading.outerHTML
-      if (!heading.innerHTML.trim()) currentSection.firstChild?.remove()
+      // if (!heading.innerHTML.trim()) currentSection.firstChild?.remove()
 
       let headings = [...restructured.querySelectorAll(`H${sectionLevel-1}`)]
       let parent = sectionLevel === 1 || headings.length === 0 ? restructured : headings.pop()?.parentElement
@@ -85,28 +137,32 @@ function structureContent() {
       currentSection.setAttribute('data-id', computeDataId(currentSection))
 
     } else {
-      if (el !== sectionParam) currentSection.innerHTML += el.outerHTML
+      if (/^\w+-footer/i.test(el.tagName)) footer = el
+      else if (el !== sectionParam) currentSection.innerHTML += el.outerHTML
     }
   }
+  makeSegments(currentSection)
 
   restructured.querySelectorAll('section').forEach((section) => {
-  if (section.classList.contains('cards') && !section.classList.contains('wrapper')) {
-    section.classList.remove('cards')
-    let wrapper = document.createElement('section')
-    wrapper.className = 'cards wrapper'
-    Array.from(section.children).slice(1).forEach(card => {
-      wrapper.appendChild(card)
-      card.classList.add('card')
-      let heading = card.querySelector('h1, h2, h3, h4, h5, h6')
-      if (heading) heading.remove()
-      let img = card.querySelector('p > img')
-      if (img) img.parentElement?.replaceWith(img)
-      let link = card.querySelector('p > a')
-      if (link) link.parentElement?.replaceWith(link)
-    })
-    section.appendChild(wrapper)
+    if (section.classList.contains('cards') && !section.classList.contains('wrapper')) {
+      section.classList.remove('cards')
+      let wrapper = document.createElement('section')
+      wrapper.className = 'cards wrapper'
+      Array.from(section.children).slice(1).forEach(card => {
+        wrapper.appendChild(card)
+        card.classList.add('card')
+        let heading = card.querySelector('h1, h2, h3, h4, h5, h6')
+        if (heading) heading.remove()
+        let img = card.querySelector('p > img')
+        if (img) img.parentElement?.replaceWith(img)
+        let link = card.querySelector('p > a')
+        if (link) link.parentElement?.replaceWith(link)
+      })
+      section.appendChild(wrapper)
     }
   })
+
+  if (footer) restructured.appendChild(footer)
 
   main?.replaceWith(restructured)
 }
@@ -122,86 +178,6 @@ function computeDataId(el) {
     el = el.parentElement
   }
   return dataId.reverse().join('.')
-}
-
-function createApp() {
-  let main = document.querySelector('main')
-  let tmp = new DOMParser().parseFromString(main.innerHTML, 'text/html').children[0].children[1]
-
-  let img = tmp.querySelector('a img')
-  if (img?.src.indexOf('ve-button') > -1) img.parentElement?.parentElement?.remove()
-
-  // Array.from(tmp.querySelectorAll('p > param')).forEach(param => param.parentElement?.after(param))
-
-  Array.from(tmp.querySelectorAll('[data-id]'))
-    .forEach(seg => {
-      if (seg.tagName === 'SECTION') return
-      let id = seg.getAttribute('data-id') || ''
-      let wrapper = document.createElement('div')
-      wrapper.setAttribute('data-id', id)
-      wrapper.id = id
-      wrapper.className = seg.className
-      seg.removeAttribute('id')
-      seg.removeAttribute('data-id')
-      seg.className = ''
-      wrapper.appendChild(seg.cloneNode(true))
-      while (seg.nextSibling) {
-        let sib = seg.nextSibling
-        if (sib.nodeName !== 'PARAM') break
-        wrapper.appendChild(sib)
-      }
-      seg.replaceWith(wrapper)
-    })
-
-  Array.from(tmp.querySelectorAll('div'))
-    .filter(div => {
-      let content = div.textContent?.trim()
-      return content === '' || content === '#'
-    })
-    .forEach(div => div.remove())
-
-  let html = tmp.innerHTML
-
-  /*
-  while (document.body.firstChild) { document.body.removeChild(document.body.firstChild) }
-*/
-  Array.from(document.body.children).forEach(child => {
-    if (child.tagName !== 'EZ-HEADER') document.body.removeChild(child)
-  })
-
-  main = document.createElement('div')
-  main.id = 'vue'
-  main.innerHTML = `<juncture-v1 :input-html="html"></juncture-v1>`
-  document.body.appendChild(main)
-
-  window.Vue.directive('highlightjs', {
-    deep: true,
-    bind: function(el, binding) {
-      let targets = el.querySelectorAll('code')
-      targets.forEach((target) => {
-        if (binding.value) {
-          target.textContent = binding.value
-        }
-        window.hljs.highlightBlock(target)
-      })
-    },
-    componentUpdated: function(el, binding) {
-      let targets = el.querySelectorAll('code')
-      targets.forEach((target) => {
-        if (binding.value) {
-          target.textContent = binding.value
-          window.hljs.highlightBlock(target)
-        }
-      })
-    }
-  })
-  new window.Vue({
-    el: '#vue',
-    components: {
-      'juncture-v1': window.httpVueLoader(`${window.config.baseurl}/juncture/src/components/JunctureV1.vue`)
-    },
-    data: () => ({ html })
-  })
 }
 
 function convertWcTagsToElements(root) {
@@ -232,6 +208,16 @@ function convertWcTagsToElements(root) {
       let tag = p.textContent.trim().split(' ')[0].slice(1).trim()
       let html = componentHtml(p, tag)
       let el = new DOMParser().parseFromString(html, 'text/html').children[0].children[1].children[0]
+      let cls = new RegExp('{(\.|class=)(?<class>.+)}')
+      Array.from(el.querySelectorAll('li')).forEach(li => {
+        let text = li.textContent.trim()
+        let match = text.match(cls)
+        let classes = text.match(cls)?.groups?.class.split(',') || []
+        if (classes.length > 0) {
+          li.classList.add(...classes)
+          li.innerHTML = li.innerHTML.replace(match[0], '')
+        }
+      })
       p.parentNode?.replaceChild(el, p)
     })
 }
@@ -293,7 +279,7 @@ function loadDependencies(dependencies, callback, i) {
   // console.log(`loading ${dependencies[i].src || dependencies[i].href}`)
   loadDependency(dependencies[i], () => {
     if (i < dependencies.length-1) loadDependencies(dependencies, callback, i+1) 
-    else callback()
+    else if (callback) callback()
   })
 }
 
@@ -305,19 +291,6 @@ function loadDependency(dependency, callback) {
   else document.head.appendChild(e)
 }
 
-let junctureDependencies = [
-  {tag: 'link', rel: 'stylesheet', href: '/juncture/index.css'},
-  {tag: 'link', rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css'},
-  {tag: 'script', src: 'https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js'},
-  {tag: 'script', src: 'https://cdn.jsdelivr.net/npm/marked/marked.min.js'},
-  {tag: 'script', src: 'https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js'},
-  {tag: 'script', src: 'https://cdn.jsdelivr.net/npm/http-vue-loader@1.4.2/src/httpVueLoader.min.js'},
-  {tag: 'script', src: 'https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js'},
-  {tag: 'script', src: 'https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js'},
-  {tag: 'script', src: 'https://cdnjs.cloudflare.com/ajax/libs/tippy.js/6.3.7/tippy.umd.min.js'},
-  {tag: 'script', src: 'https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js'},
-]
-
 async function init() {
 
   let isPreview = location.pathname === `${config.baseurl}/preview/`
@@ -328,33 +301,15 @@ async function init() {
     document.querySelector('main').innerHTML = marked.parse(md)
   }
 
-  let isJunctureV1 = Array.from(document.querySelectorAll('param'))
-  .find(param =>
-    Array.from(param.attributes).find(attr => attr.name.indexOf('ve-') === 0)
-  ) !== undefined
-
-  console.log(`init isPreview=${isPreview} isJunctureV1=${isJunctureV1}`)
-
-  await getJunctureConfig()
-  config.components = config.components ? config.components.split(',').map(l => l.trim()) : []
-
   convertWcTagsToElements()
   structureContent()
-  let dependencies = config.components.map(src => ({tag: 'script', type: 'module', src}) )
-  if (isJunctureV1) dependencies = dependencies.concat(junctureDependencies)
-  if (dependencies.length > 0) loadDependencies(dependencies, () => { 
-    if (isJunctureV1) createApp()
-    /*
-    let header = document.querySelector('ez-header')
-    if (header) {
-      header.setAttribute('title', 'Title')
-      header.innerHTML = `
-        <ul>
-         <li><a href="/">Menu Item 1</a></li>
-        </ul>
-      `
-    }
-    */
+  setMeta()
+
+  await getConfigExtras()
+  config.components = config.components ? config.components.split(',').map(l => l.trim()) : []
+  loadDependencies(
+    config.components.map(src => ({tag: 'script', type: 'module', src}) ), () => {
+    if (isJunctureV1) loadDependencies(junctureDependencies, () => createJunctureV1App())    
   })
 }
 

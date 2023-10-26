@@ -32,7 +32,6 @@
 
     </ve-navbar>
 
-
 </template>
   
 <script setup lang="ts">
@@ -69,7 +68,7 @@
   // const navEl = ref<string>()
   const entities = ref<string[]>([])
   const entity = ref<any>()
-  const backgroundColor = ref<string>()
+  const backgroundColor = ref<string>('#444A1E')
   const backgroundImage = ref<string>()
 
   const navEl = ref<HTMLUListElement>()
@@ -77,7 +76,10 @@
 
   const height = ref(props.height || navbarHeight)
 
-  onMounted(() => applyProps() )
+  onMounted(() => {
+    console.log('mounted')
+    applyProps() 
+  })
   onUpdated(() => applyProps() )
 
   function applyProps() {

@@ -13,3 +13,4 @@ utils/email-client/config.yaml
 utils/iiif-server/config.yaml
 index.xml
 sitemap.xml
+.vite

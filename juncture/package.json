@@ -1,6 +1,6 @@
 {
-  "name": "ezpage",
-  "version": "0.3.24",
+  "name": "phl-webcomponents",
+  "version": "0.4.0",
   "private": false,
   "scripts": {
     "dev": "vite",

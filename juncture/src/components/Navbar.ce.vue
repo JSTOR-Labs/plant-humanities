@@ -1,7 +1,7 @@
 <template>
 
   <section ref="root"
-    class="flex sticky top-0 items-center w-full z-10 bg-[#000]/30"
+    class="flex sticky top-0 items-center w-full pl-4 z-10 bg-[#000]/30"
     :style="{height: `${props.height}px`}">
     
     <div v-if="props.logo">
@@ -12,8 +12,8 @@
     </div>
 
     <div class="flex flex-col ml-4">
-      <div class="text-4xl text-white font-bold" v-html="props.label"></div>
-      <div v-if="props.subtitle" class="text-2xl text-white font-bold" v-html="props.subtitle"></div>
+      <div class="text-4xl text-white" v-html="props.label"></div>
+      <div v-if="props.subtitle" class="text-xl text-white" v-html="props.subtitle"></div>
     </div>
     
     <div class="flex items-center gap-4 ml-auto mr-4">
@@ -56,7 +56,6 @@
 
   onMounted(() => {
     nextTick(() => {
-      console.log((window as any).config?.nav)
       let ul = (host.value.querySelector('ul') as HTMLUListElement)
       if (!ul && (window as any).config?.nav) {
         ul = document.createElement('ul');
@@ -84,7 +83,7 @@
       host.value.style.position = 'sticky'
       // host.value.style.top = '0'
       // if (props.alpha) host.value.style.background = `rgba(0, 0, 0, ${props.alpha})`
-      // host.value.style.background = '#444A1E'
+      host.value.style.background = '#444A1E'
       host.value.style.opacity = '100'
       host.value.style.marginTop = `-${props.offset}px`
     }

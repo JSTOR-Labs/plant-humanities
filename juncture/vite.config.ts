@@ -5,7 +5,10 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig(({mode})=> {
   const processEnvValues = {
-    'process.env': {version: process.env.npm_package_version}
+    'process.env': {
+      name: process.env.npm_package_name,
+      version: process.env.npm_package_version
+    }
   }
   return {    
     define: processEnvValues,
