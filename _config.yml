@@ -16,4 +16,4 @@ github:
 url: https://beta.plant-humanities.org/
 baseurl: /
 
-components: /juncture/dist/js/index.js
+components: /juncture/wc/dist/js/index.js

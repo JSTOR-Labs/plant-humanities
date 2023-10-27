@@ -2,6 +2,10 @@ export const iiifServer = 'https://iiif.juncture-digital.org'
 import { sha256 as __sha256 } from 'js-sha256'
 import { Md5 } from 'ts-md5'
 
+export function sha256(str: string) {
+  return __sha256(str)
+}
+
 export function isURL(str:string) { return /^https*:\/\//.test(str) }
 
 export function isMobile() {
@@ -95,7 +99,7 @@ export function mwImage(mwImg:string, width:number) {
 
 // Creates a GeoJSON file URL from a Who's on First ID 
 function whosOnFirstUrl(wof:string) {
-  let wofParts = []
+  let wofParts:string[] = []
   for (let i = 0; i < wof.length; i += 3) {
     wofParts.push(wof.slice(i,i+3))
   }
@@ -236,4 +240,141 @@ export function parseImageOptions(str: string) {
     format: elems.length > offset+4 && elems[offset+4] ? elems[offset+4] : format
   }
   return options
+}
+
+export function camelToKebab(input:string) { return input.replace(/([a-z])([A-Z])/g, '$1-$2').toLowerCase()}
+export function kebabToCamel(input:string) { return input.replace(/-([a-z])/g, function (g) {return g[1].toUpperCase()})}
+
+export function isNum(s:string) {
+  return s && !isNaN(<any>s)
+}
+
+export function isQID(s: string) {
+  return s[0] === 'Q' && isNum(s.slice(1))
+}
+
+function _value(langObj: any, language='en') {
+  return typeof langObj === 'object'
+    ? langObj[language] || langObj.none || langObj[Object.keys(langObj).sort()[0]]
+    : langObj
+}
+
+export function label(manifest:any, language:string = 'en') {
+  return manifest ? _value(manifest.label, language) : null
+}
+
+export function summary(manifest:any, language:string = 'en') {
+  return manifest ? _value(manifest.summary, language) : null
+}
+
+export function getMetadata(manifest:any, language:string = 'en'): any[] {
+  let metadata:any[] = []
+  if (manifest.metadata) {
+    manifest.metadata.forEach((md:any) => {
+      metadata.push({label: _value(md.label, language)[0], value: _value(md.value, language)})
+    })
+  }
+  return metadata
+}
+
+export function metadataAsObj(manifest:any, language:string = 'en'): any {
+  return Object.fromEntries(getMetadata(manifest, language).map(md => [md.label, md.value]))
+}
+
+function observeNavbar(navbar:HTMLElement, target:HTMLElement) {
+  const setTop = () => {
+    let top = parseInt(navbar.style.top.replace(/^-/,'').replace(/px$/,'')) || 0
+    let height = parseInt(navbar.style.height.replace(/px$/,'')) || navbar.clientHeight
+    let topOffset = height - top
+    target.style.top = `${topOffset}px`
+  }
+  setTop()
+  const observer = new MutationObserver(setTop)
+  observer.observe(navbar, { attributes: true })
+}
+
+export function makeSticky(el:HTMLElement) {
+  el.classList.add('sticky')
+  el.style.position = 'sticky'
+  // el.style.marginTop = '6px'
+  let stickyNavbar:any = document.querySelector('ve-navbar[sticky="true"]') as HTMLElement
+  if (stickyNavbar) {
+    observeNavbar(stickyNavbar, el)
+  } else {
+    let header = (document.querySelector('ve-header[sticky]') as HTMLElement)
+    if (header) {
+      stickyNavbar = header?.shadowRoot?.querySelector('ve-navbar')
+      if (stickyNavbar) {
+        observeNavbar(stickyNavbar, el)
+      } else {
+        const observer = new MutationObserver(() => {
+          stickyNavbar = header?.shadowRoot?.querySelector('ve-navbar')
+          if (stickyNavbar) observeNavbar(stickyNavbar, el)
+        })
+        observer.observe(header, { childList: true, subtree: true, attributes: true })
+      }
+    } else {
+      el.style.top = '0'
+    }
+  }
+}
+
+export function imageCount(manifest:any) {
+  return _findItems({type:'Annotation', motivation:'painting'}, manifest).length
+}
+
+// @ts-ignore
+export function parseRegionString(region: string, viewer: OpenSeadragon.Viewer) {
+  let viewportRect
+  const s1 = region.split(':')
+  let [x,y,w,h] = s1[s1.length-1].split(',').map(v => parseInt(v))
+  const size = viewer.world.getItemAt(0).getContentSize()
+  if (s1.length === 2 && (s1[0] === 'pct' || s1[0] === 'percent')) {
+    x = Math.round(size.x * x/100),
+    y = Math.round(size.y * y/100),
+    w = Math.round(size.x * w/100), 
+    h = Math.round(size.y * h/100)
+  }
+  // viewportRect = viewer.viewport.imageToViewportRectangle(rect)
+  viewportRect = viewer.viewport.imageToViewportRectangle(x,y,w,h)
+  return viewportRect
+}
+
+export function staticImage(manifest: any, options:any, width:number=0, height:number=0) {
+  // console.log('staticImage', manifest, options)
+  let _imageInfo = getItemInfo(manifest)
+  let region = options.region || 'full'
+  let size = options.size
+    ? options.size
+    : width
+      ? height
+        ? `${width},${height}`
+        : `${width},`
+      : height
+        ? `,${height}`
+        : '400,'
+  let rotation = options.rotation || '0'
+  let quality = options.quality || 'default'
+  let format = options.format || 'jpg'
+  let url =`${_imageInfo.service[0].id || _imageInfo.service[0]['@id']}/${region}/${size}/${rotation}/${quality}.${format}`
+  // console.log(url)
+  return url
+}
+
+export function thumbnail(manifest:any, width:number=400, seq:number=1) {
+  if (!manifest) return null
+    let _imageInfo = getItemInfo(manifest, seq)
+    return _imageInfo.service
+      ? `${_imageInfo.service[0].id || _imageInfo.service[0]['@id']}/full/${width},/0/default.jpg`
+      : _imageInfo.type === 'Video'
+        ? `https://iiif.juncture-digital.org/thumbnail?url=${_imageInfo.id}`
+        : _imageInfo.id
+}
+
+let stickyElems:any[] = []
+
+export function top() {
+  return stickyElems.length > 0 && stickyElems[0].localName.toLowerCase() === 've-navbar'
+    ? parseInt(window.getComputedStyle(stickyElems[0]).height.slice(0,-2))
+    : 0
 }

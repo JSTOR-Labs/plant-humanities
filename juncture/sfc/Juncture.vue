@@ -31,6 +31,7 @@
       </span>
     </div>
 
+
     <div id="essay" ref="essay" @scroll="onScroll">
       <ve1-visual-essay
         :html="html"
@@ -104,15 +105,20 @@ window.html = `<<HTML>>`
 const ENV = 'PROD'
 const availableViewers = [
   've1-compare',
+  've1-d3plus-network',
+  've1-d3plus-ring-network',
+  've1-graphic',
   've1-iframe',
   've1-image',
   've1-knightlab-timeline',
-  've1-plant-specimen',
   've1-map',
-  've1-video'
+  've1-plant-specimen',
+  've1-tabulator',
+  've1-video',
+  've1-vis-network'
 ]
 
-const componentsPath = `${window.config.baseurl}/juncture/src/components`
+const componentsPath = `${window.config.baseurl}/juncture/sfc`
 const componentPrefix = 've1-'
 
 const contentSource = {
@@ -129,16 +135,21 @@ const qargs = {}
 
 module.exports = {
   components: {
-    've1-compare': window.httpVueLoader(`${componentsPath}/Compare.sfc.vue`),
-    've1-footer': window.httpVueLoader(`${componentsPath}/Footer.sfc.vue`),
-    've1-header': window.httpVueLoader(`${componentsPath}/Header.sfc.vue`),
-    've1-iframe': window.httpVueLoader(`${componentsPath}/IFrame.sfc.vue`),
-    've1-image': window.httpVueLoader(`${componentsPath}/Image.sfc.vue`),
-    've1-map': window.httpVueLoader(`${componentsPath}/Map.sfc.vue`),
-    've1-knightlab-timeline': window.httpVueLoader(`${componentsPath}/KnightlabTimeline.sfc.vue`),
-    've1-plant-specimen': window.httpVueLoader(`${componentsPath}/PlantSpecimen.sfc.vue`),
+    've1-compare': window.httpVueLoader(`${componentsPath}/Compare.vue`),
+    've1-d3plus-network': window.httpVueLoader(`${componentsPath}/D3PlusNetwork.vue`),
+    've1-d3plus-ring-network': window.httpVueLoader(`${componentsPath}/D3PlusRingNetwork.vue`),
+    've1-footer': window.httpVueLoader(`${componentsPath}/Footer.vue`),
+    've1-graphic': window.httpVueLoader(`${componentsPath}/Graphic.vue`),
+    've1-header': window.httpVueLoader(`${componentsPath}/Header.vue`),
+    've1-iframe': window.httpVueLoader(`${componentsPath}/IFrame.vue`),
+    've1-image': window.httpVueLoader(`${componentsPath}/Image.vue`),
+    've1-knightlab-timeline': window.httpVueLoader(`${componentsPath}/KnightlabTimeline.vue`),
+    've1-map': window.httpVueLoader(`${componentsPath}/Map.vue`),
+    've1-plant-specimen': window.httpVueLoader(`${componentsPath}/PlantSpecimen.vue`),
+    've1-tabulator': window.httpVueLoader(`${componentsPath}/Tabulator.vue`),
     've1-video': window.httpVueLoader(`${componentsPath}/Video.sfc.vue`),
-    've1-visual-essay': window.httpVueLoader(`${componentsPath}/VisualEssay.sfc.vue`),
+    've1-vis-network': window.httpVueLoader(`${componentsPath}/VisNetwork.vue`),
+    've1-visual-essay': window.httpVueLoader(`${componentsPath}/VisualEssay.vue`),
   },
   props: {
     inputHtml: String
