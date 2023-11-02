@@ -318,9 +318,9 @@ height="750">
 [^5]: Richard T. Corlett, “Environmental forestry in Hong Kong: 1871-1997,” *Forest Ecology and Management*, 116 (1999): 96. https://www.academia.edu/18830201/Environmental_forestry_in_Hong_Kong_1871_1997.
 [^6]:United States. Congress, Senate, Committee on Public Lands, *Everglades of the Peninsula of Florida*, August 1848, 30th Congress, 1st Session
 [^7]: C.E. Turner, T.D. Center, D.W. Burrows, and G.R. Buckingham, “Ecology and management of _Melaleuca quinquenervia_, and invader of wetlands in Florida, U.S.A.,” *Wetlands Ecology and Management*, 5 (1998): 167. https://link.springer.com/article/10.1023/A:1008205122757
-[^8]: Allen F. Dray, Bradley C. Bennett, and Ted D. Center, “Invasion History of *Melaleuca quinquenervia* (Cav.) S. T. Blake in Florida,” *Castanea*, vol. 3, no. 71, 2006, pp. 210-225. https://bioone.org/journals/castanea/volume-71/issue-3/05-27.1/Invasion-History-of-Melaleuca-quinquenervia-Cav-ST-Blake-in-Florida/10.2179/05-27.1.full
-[^9]: Bob French, “Melaleuca Misery” in *South Florida Sun-Sentinel*, May 20 1994. <https://www.sun-sentinel.com/news/fl-xpm-1994-05-20-9405190232-story.html> [Accessed Aug. 5 2022]
-[^10]: Bob French, “Shrine Shades Tree from Foes” Wrath Despite Ordinance, Grandaddy Melaleuca is Safe from Destruction' in *South Florida Sun-Sentinel*, April 15 1991. https://www.sun-sentinel.com/news/fl-xpm-1991-04-15-9101190220-story.html. Accessed Aug. 5 2022.
+[^8]: Allen F. Dray, Bradley C. Bennett, and Ted D. Center, “Invasion History of *Melaleuca quinquenervia* (Cav.) S. T. Blake in Florida,” *Castanea*, (71) (2006): 210–25. https://bioone.org/journals/castanea/volume-71/issue-3/05-27.1/Invasion-History-of-Melaleuca-quinquenervia-Cav-ST-Blake-in-Florida/10.2179/05-27.1.full.
+[^9]: Bob French, “Melaleuca Misery” in *South Florida Sun-Sentinel*, May 20, 1994. Accessed August 5, 2022. <https://www.sun-sentinel.com/news/fl-xpm-1994-05-20-9405190232-story.html>
+[^10]: Bob French, “Shrine Shades Tree from Foes'” Wrath Despite Ordinance, Grandaddy Melaleuca is Safe from Destruction," *South Florida Sun-Sentinel*, April 15 1991. Accessed August 5, 2022. https://www.sun-sentinel.com/news/fl-xpm-1991-04-15-9101190220-story.html. 
 [^11]: French, 1994. [see [^9]]
 [^12]: H. De Wit, C. D,  ‘In Memory of G. E. Rumphius (1702-1952)’ *Taxon*, vol. 1, no. 7, 1952, p, 101. https://onlinelibrary.wiley.com/doi/abs/10.2307/1217885
 [^13]: Georg Rumphius, *Herbarium Amboinense* vol. 2. 1741, pp. 72-73.
