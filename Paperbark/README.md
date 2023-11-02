@@ -325,21 +325,21 @@ height="750">
 [^12]: H.C.D. De Wit, “In Memory of G. E. Rumphius (1702–1952),” *Taxon*, 1(7) (1952): 101. https://onlinelibrary.wiley.com/doi/abs/10.2307/1217885.
 [^13]: Georg Rumphius, *Herbarium Amboinense*, vol. 2 (1741): 72-73.
 [^14]: Peter Carey, *Parrot and Oliver in America*. New York: Knopf, 2010, p. 
-[^15]: Antonio Jose Cavanilles, *Icones et Descriptiones Plantarum* vol. 4. Madrid, 1797, p. 19.
+[^15]: AAntonio Jose Cavanilles, *Icones et Descriptiones Plantarum* (Madrid: Madrid Royal Printing, 1797), 19. 
 [^16]: Stanley Thatcher Blake, “A revision of *Melaleuca leucadendron* and its allies (Myrtaceae)”, *Contributions from the Queensland Herbarium*, vol. 1, 1968, pp. 1-114.
 [^17]: https://collections.tepapa.govt.nz/topic/576
 [^18]: *Mental States Volume 2: Language and Cognitive Structure*, ed. by Andrea C. Schalley and Drew Khelntzos (2007), pp. 244-6; *Nominal Classification in Aboriginal Australia*, ed. Mark Harvey and Nicholas Reid (1997), p. 132; See also Caroll 1976, p. 95.
-[^19]: J. H. Maiden, *The Forest Flora of New South Wales* vol. 1. Sydney: Government Printer, 1904. 
-[^20]: Florida State. Legislature, Chapter 90-313 Committee Substitute for House Bill No. 2273, July 3, 1990, https://sb.flleg.gov/nxt/gateway.dll/Laws/lf1990/chapters%2090-301%20-%2090-325/ch_90-313.htm?f=templates$fn=document-frameset.htm$3.0
-[^21]: John J. Stablein, Gerald A. Bucholtz, Richard F. Lockey, “Melaleuca Tree and Respiratory Disease”, *Annals of Allergy, Asthma, & Immunology*, vol. 89, no. 5, 2002, pp. 523-530. https://www.annallergy.org/article/S1081-1206(10)62092-3/fulltext
-[^22]: Richard Kerkhove & Cathy Keys, “Australian Settler Bush Huts and Indigenous Bark-Strippers: Origins and Influences”, *Queensland Review* vol. 27, no. 1, 2002, p. 5.
-[^23]: Constance C. Petrie, *Tom Petrie’s Reminiscences of Early Queensland*. Sydney: Angus and Robertson, C, 1904, p. 100.
-[^24]: Mudrooroo Nyoongah, *Aboriginal Mythology*. London: M, Thorsons, 1994, pp. 14-15.
-[^25]: Scott Nind, “Description of the Natives of King George’s Sound (Swan River Colony) and Adjoining Country”, *The Journal of Royal Geographical Society of London*, vol. 1, 1831, pp. 21-51. https://www.jstor.org/stable/1797657
-[^26]: A. B. & J. W Cribbs, *Useful Wild Plants in Australia*. William Collins: Sydney, 1981.
-[^27]: Sarah Ireland, *Paperbark and Pinard: A Cultural and Historical Exploration of Female Reproduction in One Remote Northern-Australian Aboriginal Town*, *Charles Darwin University*, 2015, unpublished Ph.D. thesis, p. 254; Sarah Ireland, Suxanne Belton, Ann McGrath, Sherry Saggers, & Concepta Wulili Narjic, “Paperbark and Pinard: A Historical Account of Maternity Care in One Remote Australian Aboriginal Town” in *Women and Birth*, vol. 28, 2015, p. 295. https://www.sciencedirect.com/science/article/abs/pii/S1871519215000578
-[^28]: Oodgeroo Noonuccal, “Poems”, *Kunapipi*, vol. 10, no. 1, 1988. https://ro.uow.edu.au/kunapipi/vol10/iss1/5 
-[^29]: Will Steffen, Andrew A. Burbidge, Lesley Hughes, Roger Kitching, David Lindenmayer, Warren Musgrave, Mark Stafford Smith, & Patricia A. Werner, *Australia’s Biodiversity and Climate Change*. CSIRO Publishing Collingwood, 2010.
+[^19]: J. H. Maiden, *The Forest Flora of New South Wales* vol. 1 (Sydney: Government Printer), 1904.
+[^20]: Florida State. Legislature, Chapter 90–313 Committee Substitute for House Bill No. 2273, July 3, 1990, https://sb.flleg.gov/nxt/gateway.dll/Laws/lf1990/chapters%2090-301%20-%2090-325/ch_90-313.htm?f=templates$fn=document-frameset.htm$3.0.
+[^21]: John J. Stablein, Gerald A. Bucholtz, and Richard F. Lockey, “Melaleuca Tree and Respiratory Disease,” *Annals of Allergy, Asthma, & Immunology*, 89(5) (2002): 523–30. https://www.annallergy.org/article/S1081-1206(10)62092-3/fulltext.
+[^22]: Richard Kerkhove and Cathy Keys, “Australian Settler Bush Huts and Indigenous Bark-Strippers: Origins and Influences,” *Queensland Review*, 27 (1) (2002): 5
+[^23]: Constance C. Petrie, *Tom Petrie’s Reminiscences of Early Queensland* (Sydney: Angus and Robertson, c.1904), 100.
+[^24]: Mudrooroo Nyoongah, *Aboriginal Mythology* (London: M, Thorsons, 1994), 14–15.
+[^25]: Scott Nind, “Description of the Natives of King George’s Sound (Swan River Colony) and Adjoining Country,” *The Journal of Royal Geographical Society of London*, 1 (1831): 21–51. https://www.jstor.org/stable/1797657
+[^26]: A. B. and J. W Cribbs, Useful Wild Plants in Australia (Sydney: William Collins, 1981).
+[^27]: Sarah Ireland, *Paperbark and Pinard: A Cultural and Historical Exploration of Female Reproduction in One Remote Northern-Australian Aboriginal Town*, Charles Darwin University, 2015, unpublished PhD thesis, p. 254; Sarah Ireland, Suxanne Belton, Ann McGrath, Sherry Saggers, and Concepta Wulili Narjic, “Paperbark and Pinard: A Historical Account of Maternity Care in One Remote Australian Aboriginal Town” in *Women and Birth*, 28 (2015): 295. https://www.sciencedirect.com/science/article/abs/pii/S1871519215000578.
+[^28]: Oodgeroo Noonuccal, “Poems,” *Kunapipi*, 10 (1) (1988). https://ro.uow.edu.au/kunapipi/vol10/iss1/5.
+[^29]: Will Steffen, Andrew A. Burbidge, Lesley Hughes, Roger Kitching, David Lindenmayer, Warren Musgrave, Mark Stafford Smith, and Patricia A. Werner, *Australia’s Biodiversity and Climate Change* (Clayton, Australia: CSIRO Publishing, 2010). 
 [^30]: Michael-Shawn Fletcher, Tegan Hall, and Andreas Nicholas Alexandra, “The loss of an indigenous constructed landscape following British invasion of Australia: An insight into the deep human imprint on the Australian landscape,” *Ambio*, 50 (2021): 138–49. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7708580/.
 [^31]: Steffen et al., Australia’s Biodiversity… 2010.
 [^32]:  Matthew D. Hurteau and Christine Wiedinmyer, "Prescribed fire as a means of reducing forest carbon emissions in the Western United States," *Environmental Science and Technology*, 44 (2010): 1926–32. https://pubs.acs.org/doi/10.1021/es902455e.
