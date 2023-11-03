@@ -113,7 +113,7 @@ Cultural clues mark the path of eggplant from China to the fields and kitchens o
        attribution="Leiden University Libraries Digital Collections"
        fit="contain">
 <param ve-image 
-       url="eggplant/Hatsuyume.jpg"
+       url="https://github.com/JSTOR-Labs/plant-humanities/blob/6e8a9fb916b56ae3bece537b19b4d2b95effe256/eggplant/Hatsuyume.jpg"
        label="Utagawa Toyokuni, Memorial portrait of Konno of Eijudo Press at the age of 71 (1797-1798)"
        description="Woodblock print, shini-e, nishiki-e on paper"
        license="CC BY-SA 4.0"
