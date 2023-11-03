@@ -215,7 +215,7 @@ While Southerners in the United States incorporated “foods that spread from th
        license="Public domain"
        fit="cover">
 <param ve-image 
-       url="https://raw.githubusercontent.com/plant-humanities/media/main/seedbox oaksprings.jpg"
+       url="https://raw.githubusercontent.com/plant-humanities/media/main/eggplant/seedbox oaksprings.jpg"
        label="Shaker’s seedbox"
        description="Shaker’s genuine vegetable and flowers seeds from Mount Lebanon, Columbia County"
        attribution="Oak Spring Garden Foundation"
