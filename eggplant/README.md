@@ -239,8 +239,7 @@ As _S. melongena_ settled into Western culture, its aesthetic and exotic qualiti
        url="https://raw.githubusercontent.com/plant-humanities/media/main/eggplant/majolica_teapot.png"
        label="Portuguese Majolica teapot (20th century)"
        description="Eggplant shaped ceramic teapot"
-       attribution="Karmason-Stacke Graham Library"
-       license="© Majolica International Society"
+       attribution="Karmason-Stacke Graham Library, © Majolica International Society"
        region="48,-565,2953,2830"
        fit="cover">
 <param ve-image 
