@@ -240,7 +240,6 @@ As _S. melongena_ settled into Western culture, its aesthetic and exotic qualiti
        label="Portuguese Majolica teapot (20th century)"
        description="Eggplant shaped ceramic teapot"
        attribution="Karmason-Stacke Graham Library"
-       license="Majolica International Society"
        region="48,-565,2953,2830"
        fit="cover">
 <param ve-image 
@@ -257,7 +256,7 @@ Decades later, the formal properties of the fruit became a subject of photograph
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/weston_eggplant.jpg"
        label="Edward Weston, Eggplant (1929)"
        description="Gelatin silver print"
-       attribution="Center for Creative Photography, Arizona Board of Regents"
+       attribution="© Center for Creative Photography, Arizona Board of Regents"
        fit="contain">
 {#paragraph19}
        
