@@ -213,6 +213,11 @@ Daisy Reid is a graduate student in comparative literature at the University of 
 
 Amara Santiesteban is a biologist specializing in botany from the Autonomous University of Madrid (Spain). She holds an MSc in Tropical Biodiversity and Conservation, where she entered the world of Plant Humanities by studying the expedition of the XVIII century naturalist Alexander von Humboldt to the Canary Islands (Spain). Santiesteban was also granted during this period a JAE Intro fellowship at the Royal Botanical Garden of Madrid, where she was given the opportunity to untangle the complex taxonomy of the tropical plant family of the Brazil nut (Bertholletia excelsa, Lecythidaceae). Currently, she has been awarded a Ph.D. contract to conduct her research on the effects of wildfires on mycorrhizal fungi and their impact on plants, but she is determined to keep on working on a multidisciplinary approach of plant sciences where the local knowledge, art, literature, and naturalism walk side by side. The Dumbarton Oaks Summer Program provided the perfect ground for this young researcher to take off in this new stage of her academic career.
 
+##
+**John R. Schaefer**
+![](Schaefer.jpg)
+
+John R. Schaefer is currently a U.S. Fulbright Scholar studying environmental education at Western Sydney University, with a focus on the cultural histories of native Australian flora. He is particularly interested in the interdisciplinary application of plants as teaching tools in conservation, ecology, and evolutionary biology at cultural heritage institutions, as well as increasing engagement with both archival and living plant collections through the digital humanities. John received his Bachelor of Arts from Harvard University in History and Science, focusing on the history of botany. His postgraduate research in Digital Humanities at the University of Cambridge examined the use of machine learning models in citizen science and humanities projects at the Royal Botanic Gardens, Kew. John joined the Plant Humanities Initiative at Dumbarton Oaks in 2021, where he explored transatlantic networks of knowledge exchange surrounding carnivorous plants.
 
 ##
 **Jeannette Schollaert**
