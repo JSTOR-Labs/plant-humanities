@@ -244,7 +244,7 @@ As _S. melongena_ settled into Western culture, its aesthetic and exotic qualiti
        fit="cover">
 <param ve-image 
        url="https://raw.githubusercontent.com/plant-humanities/media/main/eggplant/eggplant.png"
-       label="Tiffany and Company, Leaded glass transom (c. 1879–81)"
+       label="Louis C. Tiffany and Company, Leaded glass transom (c. 1879–81)"
        description="Transom at the George Kemp house, NY"
        attribution="The Charles Hosmer Morse Museum of American Art, Winter Park, Florida"
        license="© The Charles Hosmer Morse Foundation, Inc."
